@@ -122,7 +122,7 @@
           "pos": "adj",
           "stress": "ве́рных",
           "gloss": "faithful, true, loyal",
-          "gram": "nominative masculine singular"
+          "gram": "genitive plural"
         },
         {
           "t": "друзей.",
@@ -316,14 +316,14 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "светлая",
           "lemma": "светлый",
           "pos": "adj",
-          "stress": "светла́я",
-          "gloss": "light, bright",
+          "stress": "све́тлая",
+          "gloss": "bright, cherished",
           "gram": "nominative feminine singular"
         },
         {
@@ -369,15 +369,15 @@
           "lemma": "весьма",
           "pos": "adv",
           "stress": "весьма́",
-          "gloss": "indeed",
-          "gram": "nominative / accusative"
+          "gloss": "very, quite",
+          "gram": "adverb"
         },
         {
           "t": "дорогая",
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -601,7 +601,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -938,7 +938,7 @@
           "pos": "adj",
           "stress": "ве́рных",
           "gloss": "faithful, true, loyal",
-          "gram": "nominative masculine singular"
+          "gram": "genitive plural"
         },
         {
           "t": "друзей.",
@@ -1132,14 +1132,14 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "светлая",
           "lemma": "светлый",
           "pos": "adj",
-          "stress": "светла́я",
-          "gloss": "light, bright",
+          "stress": "све́тлая",
+          "gloss": "bright, cherished",
           "gram": "nominative feminine singular"
         },
         {
@@ -1185,15 +1185,15 @@
           "lemma": "весьма",
           "pos": "adv",
           "stress": "весьма́",
-          "gloss": "indeed",
-          "gram": "nominative / accusative"
+          "gloss": "very, quite",
+          "gram": "adverb"
         },
         {
           "t": "дорогая",
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -1417,7 +1417,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1754,7 +1754,7 @@
           "pos": "adj",
           "stress": "ве́рных",
           "gloss": "faithful, true, loyal",
-          "gram": "nominative masculine singular"
+          "gram": "genitive plural"
         },
         {
           "t": "друзей.",
@@ -1948,14 +1948,14 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "светлая",
           "lemma": "светлый",
           "pos": "adj",
-          "stress": "светла́я",
-          "gloss": "light, bright",
+          "stress": "све́тлая",
+          "gloss": "bright, cherished",
           "gram": "nominative feminine singular"
         },
         {
@@ -2001,15 +2001,15 @@
           "lemma": "весьма",
           "pos": "adv",
           "stress": "весьма́",
-          "gloss": "indeed",
-          "gram": "nominative / accusative"
+          "gloss": "very, quite",
+          "gram": "adverb"
         },
         {
           "t": "дорогая",
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -2233,7 +2233,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -2482,7 +2482,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2729,13 +2729,17 @@
       "lemma": "вводить",
       "stress": "вводи́ть",
       "pos": "verb",
-      "gloss": "introduce",
+      "gloss": "to introduce, bring in",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "introduce",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'introduce'."
+          "en": "to introduce, bring in (a rule, menu, offer)",
+          "note": ""
+        },
+        {
+          "en": "to put into (a state)",
+          "note": "вводить в транс = to put into a trance"
         }
       ],
       "forms": {
@@ -2790,29 +2794,55 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "вводи",
+                "вводите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Мы не будем вводить это блюдо в меню.",
-          "trans": "We will not introduce this dish into the menu."
+          "trans": "We won't be putting this dish on the menu."
         },
         {
-          "text": "Надо всё сделать и вводить вовремя.",
-          "trans": "We need to do everything and introduce on time."
+          "text": "Ну так что, я ввожу акцию?",
+          "trans": "So, shall I launch the promotion?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "ввести",
+          "gloss": "to introduce (pf)"
+        }
+      ]
     },
     "верный": {
       "lemma": "верный",
       "stress": "ве́рный",
       "pos": "adj",
-      "gloss": "faithful, true, loyal",
+      "gloss": "faithful, loyal; right, sure",
       "meanings": [
         {
           "en": "faithful, true, loyal",
           "note": "steadfast in allegiance or affection"
+        },
+        {
+          "en": "right, correct; sure, reliable",
+          "note": "на верном пути = on the right track; верное средство = a sure remedy"
         }
       ],
       "forms": {
@@ -2855,10 +2885,10 @@
           {
             "cells": [
               "accusative",
-              "верного",
+              "верный / верного",
               "верную",
               "верное",
-              "верных"
+              "верные / верных"
             ]
           },
           {
@@ -2902,65 +2932,14 @@
       "lemma": "весьма",
       "stress": "весьма́",
       "pos": "adv",
-      "gloss": "indeed",
+      "gloss": "very, highly, quite",
       "meanings": [
         {
-          "en": "indeed",
-          "note": ""
+          "en": "very, highly, quite",
+          "note": "somewhat formal intensifier"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "весьма",
-              "весьмы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "весьмы",
-              "весьм"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "весьме",
-              "весьмам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "весьму",
-              "весьмы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "весьмой",
-              "весьмами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "весьме",
-              "весьмах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -2982,11 +2961,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3025,7 +3004,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -3309,7 +3288,7 @@
       "meanings": [
         {
           "en": "really, indeed, in fact",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3344,7 +3323,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3429,11 +3407,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3471,7 +3449,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -3518,10 +3496,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -3544,29 +3522,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -3597,7 +3553,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3683,11 +3639,11 @@
       "meanings": [
         {
           "en": "trifle, nothing to worry about",
-          "note": "Common feminine noun meaning 'nonsense, trifle, nothing' in everyday Russian."
+          "note": ""
         },
         {
           "en": "nonsense, rubbish",
-          "note": "Common feminine noun meaning 'nonsense, trifle, nothing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3806,7 +3762,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3891,11 +3847,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4044,12 +4000,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -4104,6 +4058,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4123,17 +4094,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -4181,11 +4153,11 @@
       "meanings": [
         {
           "en": "it's interesting",
-          "note": "Predicative: очень интересно. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Predicative: очень интересно."
         },
         {
           "en": "how interesting (often ironic)",
-          "note": "Как интересно!. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Как интересно!."
         }
       ],
       "forms": null,
@@ -4223,7 +4195,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -4331,7 +4303,7 @@
       "meanings": [
         {
           "en": "painting, piece of art",
-          "note": "Common feminine noun meaning 'painting, picture' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4411,11 +4383,11 @@
       "meanings": [
         {
           "en": "favourite, best-liked",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         },
         {
           "en": "beloved, darling",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4458,10 +4430,10 @@
           {
             "cells": [
               "accusative",
-              "любимый/любимого",
+              "любимый / любимого",
               "любимую",
               "любимое",
-              "любимые/любимых"
+              "любимые / любимых"
             ]
           },
           {
@@ -4538,42 +4510,42 @@
             "cells": [
               "nominative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "genitive",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "dative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "accusative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "instrumental",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "prepositional",
               "меню",
-              "—"
+              "меню"
             ]
           }
         ]
@@ -4604,7 +4576,7 @@
       "meanings": [
         {
           "en": "dream, cherished wish",
-          "note": "Сон is a dream while sleeping. Common feminine noun meaning 'dream, wish' in everyday Russian."
+          "note": "Сон is a dream while sleeping."
         }
       ],
       "forms": {
@@ -4834,7 +4806,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4952,7 +4924,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5274,29 +5246,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -5490,10 +5440,11 @@
       "pos": "noun",
       "gloss": "feeling, sensation, impression",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "feeling, sensation, impression",
-          "note": "Verbal action or result neuter noun formed with '-ение'/'-ание', meaning 'feeling' in conversational and formal Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5561,12 +5512,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "ощущать",
+          "gloss": "to feel"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "чувство",
+          "gloss": "feeling"
         }
       ]
     },
@@ -5578,7 +5529,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -5674,11 +5625,11 @@
       "meanings": [
         {
           "en": "to write",
-          "note": "In a lesson. Used as an imperfective (ongoing/repeated action) verb meaning 'to write', paired with 'написать'."
+          "note": "letters, books, reports"
         },
         {
-          "en": "to take notes",
-          "note": "In a lesson. Used as an imperfective (ongoing/repeated action) verb meaning 'to write', paired with 'написать'."
+          "en": "to paint (pictures)",
+          "note": "писать картины"
         }
       ],
       "forms": {
@@ -5791,7 +5742,7 @@
       "meanings": [
         {
           "en": "to play along (with someone)",
-          "note": "Takes dative (подыграть кому). Used as a perfective (single completed action) verb meaning 'to play along', paired with 'подыгрывать'."
+          "note": "Takes dative (подыграть кому)."
         }
       ],
       "forms": {
@@ -5903,7 +5854,7 @@
       "meanings": [
         {
           "en": "rouble",
-          "note": "The Russian currency. Common masculine noun meaning 'rouble' in everyday Russian."
+          "note": "The Russian currency."
         }
       ],
       "forms": {
@@ -5983,7 +5934,7 @@
       "meanings": [
         {
           "en": "light, bright, light-colored",
-          "note": "Descriptive Russian adjective meaning 'light', agreeing in gender, number, and case with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -6087,7 +6038,7 @@
       "meanings": [
         {
           "en": "north",
-          "note": "Declinable masculine noun meaning 'north', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -6156,7 +6107,11 @@
       "related": [
         {
           "word": "северный",
-          "gloss": "north"
+          "gloss": "northern"
+        },
+        {
+          "word": "юг",
+          "gloss": "south"
         }
       ]
     },
@@ -6212,7 +6167,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -6303,82 +6258,30 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -6404,7 +6307,7 @@
       "meanings": [
         {
           "en": "edible",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('edible')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6447,10 +6350,10 @@
           {
             "cells": [
               "accusative",
-              "съедобный",
+              "съедобный / съедобного",
               "съедобную",
               "съедобное",
-              "съедобные"
+              "съедобные / съедобных"
             ]
           },
           {
@@ -6491,7 +6394,15 @@
       "related": [
         {
           "word": "съедобно",
-          "gloss": "ediblely (adverbial form)"
+          "gloss": "edible (predicative)"
+        },
+        {
+          "word": "несъедобный",
+          "gloss": "inedible"
+        },
+        {
+          "word": "есть",
+          "gloss": "to eat"
         }
       ]
     },
@@ -6549,7 +6460,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -6643,67 +6554,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -6716,7 +6583,7 @@
       "meanings": [
         {
           "en": "three hundred (300)",
-          "note": "Takes genitive plural. Core Russian num meaning 'three hundred (300)' in everyday speech."
+          "note": "Takes genitive plural."
         }
       ],
       "forms": null,
@@ -6819,7 +6686,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -6880,7 +6755,7 @@
       "meanings": [
         {
           "en": "to leave, go away, depart (by transport)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away (by vehicle)', paired with 'уехать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6971,15 +6846,15 @@
       "related": [
         {
           "word": "уехать",
-          "gloss": "to leave"
+          "gloss": "to leave (pf)"
         },
         {
           "word": "приезжать",
-          "gloss": "to come"
+          "gloss": "to arrive"
         },
         {
           "word": "заезжать",
-          "gloss": "to move in"
+          "gloss": "to drop in, to call by"
         }
       ]
     },
@@ -6993,7 +6868,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -7045,6 +6920,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -7177,7 +7069,7 @@
       "meanings": [
         {
           "en": "clear, precise",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('clear, precise')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7220,10 +7112,10 @@
           {
             "cells": [
               "accusative",
-              "чёткий",
+              "чёткий / чёткого",
               "чёткую",
               "чёткое",
-              "чёткие"
+              "чёткие / чётких"
             ]
           },
           {
@@ -7250,21 +7142,25 @@
       "examples": [
         {
           "text": "Какая чёткая и весьма дорогая у вас мечта!",
-          "trans": "What a precise and rather expensive dream you have!"
+          "trans": "What a clear-cut and rather expensive dream you have!"
         },
         {
-          "text": "Шеф говорит, что это очень чёткий выбор.",
-          "trans": "The chef says that this is a very clear choice."
+          "text": "Мне нужен чёткий план.",
+          "trans": "I need a clear plan."
         }
       ],
       "related": [
         {
           "word": "чётко",
-          "gloss": "clearly (adverbial form)"
+          "gloss": "clearly, precisely"
         },
         {
-          "word": "очень чёткий",
-          "gloss": "very clear"
+          "word": "ясный",
+          "gloss": "clear"
+        },
+        {
+          "word": "точный",
+          "gloss": "precise"
         }
       ]
     },

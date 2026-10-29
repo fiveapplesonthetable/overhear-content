@@ -57,7 +57,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -529,7 +529,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -537,7 +537,7 @@
           "lemma": "акция",
           "pos": "noun",
           "stress": "а́кции",
-          "gloss": "rally, campaign",
+          "gloss": "promotion, campaign",
           "gram": "genitive/prepositional singular, feminine"
         },
         {
@@ -624,7 +624,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "можно",
@@ -661,8 +661,8 @@
           "lemma": "угадать",
           "pos": "verb",
           "stress": "угада́й",
-          "gloss": "to guess correctly",
-          "gram": "conjugated verb"
+          "gloss": "guess",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "кто",
@@ -753,7 +753,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1225,7 +1225,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1233,7 +1233,7 @@
           "lemma": "акция",
           "pos": "noun",
           "stress": "а́кции",
-          "gloss": "rally, campaign",
+          "gloss": "promotion, campaign",
           "gram": "genitive/prepositional singular, feminine"
         },
         {
@@ -1320,7 +1320,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "можно",
@@ -1357,8 +1357,8 @@
           "lemma": "угадать",
           "pos": "verb",
           "stress": "угада́й",
-          "gloss": "to guess correctly",
-          "gram": "conjugated verb"
+          "gloss": "guess",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "кто",
@@ -1449,7 +1449,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1921,7 +1921,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1929,7 +1929,7 @@
           "lemma": "акция",
           "pos": "noun",
           "stress": "а́кции",
-          "gloss": "rally, campaign",
+          "gloss": "promotion, campaign",
           "gram": "genitive/prepositional singular, feminine"
         },
         {
@@ -2016,7 +2016,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "можно",
@@ -2053,8 +2053,8 @@
           "lemma": "угадать",
           "pos": "verb",
           "stress": "угада́й",
-          "gloss": "to guess correctly",
-          "gram": "conjugated verb"
+          "gloss": "guess",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "кто",
@@ -2152,16 +2152,20 @@
       "lemma": "акция",
       "stress": "а́кция",
       "pos": "noun",
-      "gloss": "protest action; share, stock",
+      "gloss": "promotion, campaign; protest action; share",
       "gender": "f",
       "meanings": [
         {
-          "en": "protest action, campaign",
-          "note": "Organized public event or campaign. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'protest action; share, stock' in everyday Russian."
+          "en": "promotion, special offer, campaign",
+          "note": "по акции = on promotion"
+        },
+        {
+          "en": "protest action, rally",
+          "note": ""
         },
         {
           "en": "share, stock",
-          "note": "Unit of ownership in a company. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'protest action; share, stock' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2231,14 +2235,14 @@
     },
     "антрекот": {
       "lemma": "антрекот",
-      "stress": "антре́кот",
+      "stress": "антреко́т",
       "pos": "noun",
       "gloss": "entrecote / ribeye steak",
       "gender": "m",
       "meanings": [
         {
           "en": "entrecote / ribeye steak",
-          "note": "Common masculine noun meaning 'entrecote / ribeye steak' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2308,27 +2312,18 @@
           "trans": "The prefect ordered the promotional entrecote."
         }
       ],
-      "related": [
-        {
-          "word": "без антреко",
-          "gloss": "without entrecote"
-        },
-        {
-          "word": "наш антрекот",
-          "gloss": "our entrecote"
-        }
-      ]
+      "related": []
     },
     "балда": {
       "lemma": "балда",
-      "stress": "ба́лда",
+      "stress": "балда́",
       "pos": "noun",
       "gloss": "dummy / blockhead",
       "gender": "f",
       "meanings": [
         {
           "en": "dummy / blockhead",
-          "note": "Common feminine noun meaning 'dummy / blockhead' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2364,7 +2359,7 @@
             "cells": [
               "accusative",
               "балду",
-              "балды"
+              "балд"
             ]
           },
           {
@@ -2387,21 +2382,21 @@
       "examples": [
         {
           "text": "Да не бойся, балда, они заказали антрекот по акции и съели его.",
-          "trans": "Do not be afraid, dummy, they ordered the promotional entrecote and ate it."
+          "trans": "Don't be scared, dummy, they ordered the entrecote on the special offer and ate it."
         },
         {
-          "text": "На кухне отеля всегда есть балда.",
-          "trans": "In the hotel kitchen there is always dummy."
+          "text": "Ну ты и балда!",
+          "trans": "What a dummy you are!"
         }
       ],
       "related": [
         {
-          "word": "без балд",
-          "gloss": "without dummy"
+          "word": "дурак",
+          "gloss": "fool"
         },
         {
-          "word": "наш балда",
-          "gloss": "our dummy"
+          "word": "балбес",
+          "gloss": "blockhead"
         }
       ]
     },
@@ -2417,7 +2412,7 @@
         },
         {
           "en": "painfully",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2453,7 +2448,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
+          "note": "+ genitive: 'бояться собак'."
         }
       ],
       "forms": {
@@ -2787,7 +2782,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2823,7 +2818,7 @@
       "meanings": [
         {
           "en": "to agree, to have an agreement",
-          "note": "+ с + instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to agree, to make a deal', paired with 'договориться'."
+          "note": "+ с + instrumental."
         }
       ],
       "forms": {
@@ -2914,29 +2909,29 @@
       "related": [
         {
           "word": "договориться",
-          "gloss": "to agree"
+          "gloss": "to agree (pf)"
         },
         {
           "word": "разговаривать",
           "gloss": "to talk"
         },
         {
-          "word": "наговаривать",
-          "gloss": "slander"
+          "word": "договор",
+          "gloss": "contract, agreement"
         }
       ]
     },
     "додуматься": {
       "lemma": "додуматься",
-      "stress": "додума́ться",
+      "stress": "доду́маться",
       "pos": "verb",
-      "gloss": "came up with / thought of",
+      "gloss": "to think of, to come up with",
       "aspect": "pf",
-      "pair": null,
+      "pair": "додумываться",
       "meanings": [
         {
-          "en": "came up with / thought of",
-          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'думаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'came up with / thought of'."
+          "en": "to hit on (an idea), to think of; to have the sense to",
+          "note": "often ironic: как ты додумался? = how did you even think of that?"
         }
       ],
       "forms": {
@@ -2991,22 +2986,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "додумайся",
+                "додумайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и додуматься вовремя.",
-          "trans": "We need to do everything and came up with on time."
+          "text": "Как ты додумалась?",
+          "trans": "How did you come up with that?"
         },
         {
-          "text": "На нашей кухне все умеют додуматься.",
-          "trans": "In our kitchen everyone knows how to came up with."
+          "text": "Кто додумался поставить сюда стол?",
+          "trans": "Who thought of putting a table here?"
         }
       ],
       "related": [
         {
-          "word": "не додуматься",
-          "gloss": "not to came up with (negated infinitive)"
+          "word": "думать",
+          "gloss": "to think"
+        },
+        {
+          "word": "догадаться",
+          "gloss": "to guess, to think of"
         }
       ]
     },
@@ -3022,7 +3038,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3226,11 +3242,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3297,11 +3313,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3337,10 +3353,11 @@
       "pos": "noun",
       "gloss": "little bunny",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "little bunny, young hare",
-          "note": "Diminutive of заяц. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'little bunny' in everyday Russian."
+          "note": "Diminutive of заяц."
         }
       ],
       "forms": {
@@ -3422,7 +3439,7 @@
       "meanings": [
         {
           "en": "to order (food, a taxi, goods)",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to order', paired with 'заказывать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать')."
         }
       ],
       "forms": {
@@ -3573,11 +3590,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -3657,12 +3674,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -3712,52 +3729,6 @@
         }
       ],
       "related": []
-    },
-    "круто": {
-      "lemma": "круто",
-      "stress": "кру́то",
-      "pos": "adv",
-      "gloss": "cool, awesome (colloquial); steeply",
-      "meanings": [
-        {
-          "en": "cool, awesome, great (colloquial predicative/adverb)",
-          "note": "From крутой. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "steeply, sharply",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Сегодня выходные, всё круто!",
-          "trans": "It is the weekend today, everything is cool!"
-        },
-        {
-          "text": "Это было очень круто!",
-          "trans": "That was really cool!"
-        },
-        {
-          "text": "Всё отлично, отдыхай! Сегодня выходные, всё круто!",
-          "trans": "Everything is great, get some rest! It is the weekend today, everything is cool!"
-        }
-      ],
-      "related": [
-        {
-          "word": "крутой",
-          "gloss": "cool"
-        },
-        {
-          "word": "накрутить",
-          "gloss": "to wind up"
-        },
-        {
-          "word": "крутить",
-          "gloss": "to twist"
-        }
-      ]
     },
     "кто": {
       "lemma": "кто",
@@ -3849,7 +3820,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3871,7 +3842,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3883,11 +3858,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3998,7 +3973,7 @@
       "meanings": [
         {
           "en": "to take offence, to get upset",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to take offence, to be hurt', paired with 'обидеться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4106,11 +4081,11 @@
       "meanings": [
         {
           "en": "image, look, persona",
-          "note": "Common masculine noun meaning 'image, look; way, manner' in everyday Russian."
+          "note": ""
         },
         {
           "en": "way, manner",
-          "note": "Common masculine noun meaning 'image, look; way, manner' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4125,7 +4100,7 @@
             "cells": [
               "nominative",
               "образ",
-              "образы"
+              "образа"
             ]
           },
           {
@@ -4146,7 +4121,7 @@
             "cells": [
               "accusative",
               "образ",
-              "образы"
+              "образа"
             ]
           },
           {
@@ -4182,16 +4157,16 @@
       ],
       "related": [
         {
-          "word": "собрать",
-          "gloss": "to collect"
+          "word": "таким образом",
+          "gloss": "thus, in this way"
         },
         {
-          "word": "отобрать",
-          "gloss": "to take away"
+          "word": "образовать",
+          "gloss": "to form"
         },
         {
-          "word": "разобрать",
-          "gloss": "to take apart"
+          "word": "имидж",
+          "gloss": "image (public)"
         }
       ]
     },
@@ -4203,7 +4178,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement."
         }
       ],
       "forms": null,
@@ -4491,15 +4466,15 @@
     },
     "пинать": {
       "lemma": "пинать",
-      "stress": "пи́нать",
+      "stress": "пина́ть",
       "pos": "verb",
       "gloss": "to kick",
       "aspect": "impf",
-      "pair": null,
+      "pair": "пнуть",
       "meanings": [
         {
           "en": "to kick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to kick'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4554,6 +4529,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пинай",
+                "пинайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4562,18 +4554,18 @@
           "trans": "Did you really have to kick me?"
         },
         {
-          "text": "Надо всё сделать и пинать вовремя.",
-          "trans": "We need to do everything and to kick on time."
+          "text": "Не пинай мяч в доме!",
+          "trans": "Don't kick the ball in the house!"
         }
       ],
       "related": [
         {
-          "word": "попинать",
-          "gloss": "to to kick (prefixed perfective)"
+          "word": "пнуть",
+          "gloss": "to kick (once)"
         },
         {
-          "word": "не пинать",
-          "gloss": "not to to kick (negated infinitive)"
+          "word": "пинок",
+          "gloss": "kick"
         }
       ]
     },
@@ -4699,15 +4691,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -4743,11 +4735,11 @@
       "pos": "verb",
       "gloss": "to advise, suggest",
       "aspect": "pf",
-      "pair": null,
+      "pair": "советовать",
       "meanings": [
         {
           "en": "to advise, suggest, recommend",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'советовать'). Used as a perfective (single completed action) verb meaning 'to advise, suggest'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'советовать')."
         }
       ],
       "forms": {
@@ -4802,6 +4794,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "посоветуй",
+                "посоветуйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4820,8 +4829,12 @@
       ],
       "related": [
         {
-          "word": "бессовестный",
-          "gloss": "shameless"
+          "word": "советовать",
+          "gloss": "to advise (impf)"
+        },
+        {
+          "word": "совет",
+          "gloss": "advice"
         },
         {
           "word": "посоветоваться",
@@ -4909,7 +4922,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -5018,7 +5031,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5109,15 +5122,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5129,11 +5142,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -5154,87 +5167,6 @@
       ],
       "related": []
     },
-    "спасибо": {
-      "lemma": "спасибо",
-      "stress": "спаси́бо",
-      "pos": "noun",
-      "gloss": "thank you",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Спасибо, папа!",
-          "trans": "Thanks, Dad!"
-        },
-        {
-          "text": "Спасибо за доверие!",
-          "trans": "Thank you for your trust!"
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "related": []
-    },
     "счёт": {
       "lemma": "счёт",
       "stress": "счёт",
@@ -5244,11 +5176,11 @@
       "meanings": [
         {
           "en": "bank account",
-          "note": "Счёт в банке. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "Счёт в банке."
         },
         {
           "en": "bill, check",
-          "note": "In a restaurant. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "In a restaurant."
         }
       ],
       "forms": {
@@ -5270,14 +5202,14 @@
             "cells": [
               "genitive",
               "счёта",
-              "счетов"
+              "счётов"
             ]
           },
           {
             "cells": [
               "dative",
               "счёту",
-              "счетам"
+              "счётам"
             ]
           },
           {
@@ -5291,14 +5223,14 @@
             "cells": [
               "instrumental",
               "счётом",
-              "счетами"
+              "счётами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "счёте",
-              "счетах"
+              "счётах"
             ]
           }
         ]
@@ -5327,15 +5259,15 @@
     },
     "съедать": {
       "lemma": "съедать",
-      "stress": "съе́дать",
+      "stress": "съеда́ть",
       "pos": "verb",
       "gloss": "to eat up",
       "aspect": "impf",
-      "pair": null,
+      "pair": "съесть",
       "meanings": [
         {
           "en": "to eat up",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to eat up'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5390,6 +5322,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "съедай",
+                "съедайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5404,8 +5353,12 @@
       ],
       "related": [
         {
-          "word": "не съедать",
-          "gloss": "not to to eat up (negated infinitive)"
+          "word": "съесть",
+          "gloss": "to eat up (pf)"
+        },
+        {
+          "word": "есть",
+          "gloss": "to eat"
         }
       ]
     },
@@ -5419,7 +5372,7 @@
       "meanings": [
         {
           "en": "to eat, to eat up",
-          "note": "A whole portion; completed action. Used as a perfective (single completed action) verb meaning 'to eat (up)', paired with 'есть'."
+          "note": "A whole portion; completed action."
         }
       ],
       "forms": {
@@ -5564,67 +5517,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -5725,7 +5634,7 @@
       "meanings": [
         {
           "en": "to see, to catch sight of",
-          "note": "Вот увидишь! = you'll see!. Prefix 'у-' marks departure, removal, or successful completion (stem 'видеть'). Used as a perfective (single completed action) verb meaning 'to see', paired with 'видеть'."
+          "note": "Вот увидишь! = you'll see!. Prefix 'у-' marks departure, removal, or successful completion (stem 'видеть')."
         }
       ],
       "forms": {
@@ -5780,6 +5689,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидь",
+                "увидьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5821,7 +5747,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -5876,6 +5802,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5911,13 +5854,13 @@
       "lemma": "уволиться",
       "stress": "уво́литься",
       "pos": "verb",
-      "gloss": "quit, resign",
+      "gloss": "to quit, to resign",
       "aspect": "pf",
-      "pair": null,
+      "pair": "увольняться",
       "meanings": [
         {
-          "en": "quit, resign",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'quit, resign'."
+          "en": "to quit, to resign (from a job)",
+          "note": ""
         }
       ],
       "forms": {
@@ -5972,6 +5915,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволься",
+                "увольтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5988,6 +5948,10 @@
         {
           "word": "уволить",
           "gloss": "to fire"
+        },
+        {
+          "word": "увольнение",
+          "gloss": "dismissal, resignation"
         }
       ]
     },
@@ -6001,7 +5965,7 @@
       "meanings": [
         {
           "en": "to guess correctly",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'гадать'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to guess correctly', forming an aspectual pair with 'угадывать'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'гадать')."
         }
       ],
       "forms": {
@@ -6078,15 +6042,15 @@
       "examples": [
         {
           "text": "Вы точно угадали!",
-          "trans": "You guessed accurately!"
+          "trans": "You guessed it exactly!"
         },
         {
           "text": "Да, мадам, вы очень тонко угадали!",
-          "trans": "Yes, madame, you guessed very subtly!"
+          "trans": "Yes, madam, that was a very shrewd guess!"
         },
         {
           "text": "Если я угадаю, вы дадите выходной?",
-          "trans": "If I guess, will you give a day off?"
+          "trans": "If I guess right, will you give me a day off?"
         }
       ],
       "related": [
@@ -6109,7 +6073,7 @@
       "meanings": [
         {
           "en": "dinner, supper (evening meal)",
-          "note": "Common masculine noun meaning 'dinner, supper (evening meal)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

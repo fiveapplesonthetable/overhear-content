@@ -388,7 +388,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -491,7 +491,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -1200,7 +1200,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1303,7 +1303,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -2012,7 +2012,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -2115,7 +2115,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -2504,7 +2504,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2605,7 +2605,11 @@
       "meanings": [
         {
           "en": "to carry, convey, transport",
-          "note": "By vehicle. Used as an imperfective (ongoing/repeated action) verb meaning 'to transport, drive, carry', paired with 'повезти'."
+          "note": "By vehicle."
+        },
+        {
+          "en": "to be lucky (impersonal)",
+          "note": "мне везёт = I'm lucky; pf повезти"
         }
       ],
       "forms": {
@@ -2837,7 +2841,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -2950,11 +2954,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3006,6 +3010,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -3086,11 +3107,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3132,7 +3153,7 @@
         },
         {
           "en": "everyone",
-          "note": "Всем = to everyone (dative). Core Russian pron meaning 'all; everyone' in everyday speech."
+          "note": "Всем = to everyone (dative)."
         }
       ],
       "forms": null,
@@ -3155,10 +3176,6 @@
         {
           "word": "весь",
           "gloss": "all, whole"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
         }
       ]
     },
@@ -3305,7 +3322,7 @@
       "meanings": [
         {
           "en": "winnings, prize, financial gain",
-          "note": "Money won in gambling or lottery. Common masculine noun meaning 'winnings, prize, win' in everyday Russian."
+          "note": "Money won in gambling or lottery."
         }
       ],
       "forms": {
@@ -3377,8 +3394,12 @@
       ],
       "related": [
         {
-          "word": "проигрывать",
-          "gloss": "to lose"
+          "word": "выиграть",
+          "gloss": "to win"
+        },
+        {
+          "word": "проигрыш",
+          "gloss": "loss"
         }
       ]
     },
@@ -3392,7 +3413,7 @@
       "meanings": [
         {
           "en": "to fall out",
-          "note": "Takes из + genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пасть'). Used as a perfective (single completed action) verb meaning 'to fall out', paired with 'выпадать'."
+          "note": "Takes из + genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пасть')."
         }
       ],
       "forms": {
@@ -3483,15 +3504,15 @@
       "related": [
         {
           "word": "выпадать",
-          "gloss": "to fall out"
+          "gloss": "to fall out (impf)"
         },
         {
-          "word": "попасться",
-          "gloss": "to get caught"
+          "word": "упасть",
+          "gloss": "to fall"
         },
         {
-          "word": "спасти",
-          "gloss": "to save"
+          "word": "падать",
+          "gloss": "to fall"
         }
       ]
     },
@@ -3624,7 +3645,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3687,7 +3708,7 @@
       "meanings": [
         {
           "en": "twelve (12)",
-          "note": "Followed by genitive plural. Core Russian num meaning 'twelve' in everyday speech."
+          "note": "Followed by genitive plural."
         }
       ],
       "forms": null,
@@ -3794,7 +3815,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3883,11 +3903,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -4035,7 +4055,7 @@
       "meanings": [
         {
           "en": "to take away, to pick up",
-          "note": "забрать заявление = to withdraw a statement"
+          "note": "забрать детей из школы = to pick the kids up from school"
         },
         {
           "en": "to withdraw",
@@ -4150,7 +4170,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -4374,11 +4394,11 @@
       "meanings": [
         {
           "en": "company, firm",
-          "note": "Business enterprise. Common feminine noun meaning 'company, firm; group of friends' in everyday Russian."
+          "note": "Business enterprise."
         },
         {
           "en": "company, group",
-          "note": "Social gathering of friends. Common feminine noun meaning 'company, firm; group of friends' in everyday Russian."
+          "note": "Social gathering of friends."
         }
       ],
       "forms": {
@@ -4437,11 +4457,11 @@
       "examples": [
         {
           "text": "А это компания брата Осипенко!",
-          "trans": "And that is Osipenko's cousin's company!"
+          "trans": "And that's Osipenko's brother's company!"
         },
         {
-          "text": "Он работает в крупной компании.",
-          "trans": "He works at a large company."
+          "text": "Вы не будете против, если я составлю вам компанию?",
+          "trans": "Do you mind if I keep you company?"
         },
         {
           "text": "Не все компании такие добрые, как наша.",
@@ -4450,8 +4470,12 @@
       ],
       "related": [
         {
-          "word": "комплимент",
-          "gloss": "compliment"
+          "word": "составить компанию",
+          "gloss": "to keep someone company"
+        },
+        {
+          "word": "фирма",
+          "gloss": "firm"
         }
       ]
     },
@@ -4587,10 +4611,10 @@
           {
             "cells": [
               "accusative",
-              "красный / -ого",
+              "красный / красного",
               "красную",
               "красное",
-              "красные / -ых"
+              "красные / красных"
             ]
           },
           {
@@ -4649,7 +4673,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4752,11 +4776,11 @@
       "meanings": [
         {
           "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive plural: много дел."
         },
         {
           "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Comparative."
         }
       ],
       "forms": null,
@@ -4903,7 +4927,7 @@
       "meanings": [
         {
           "en": "monster, beast (admiring slang for exceptional skill)",
-          "note": "Colloquial praise. Common masculine noun meaning 'monster, beast' in everyday Russian."
+          "note": "Colloquial praise."
         }
       ],
       "forms": {
@@ -5278,8 +5302,16 @@
       ],
       "related": [
         {
-          "word": "обновить",
-          "gloss": "to update"
+          "word": "новенький",
+          "gloss": "new guy"
+        },
+        {
+          "word": "новый",
+          "gloss": "new"
+        },
+        {
+          "word": "опытный",
+          "gloss": "experienced"
         }
       ]
     },
@@ -5372,7 +5404,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement."
         }
       ],
       "forms": null,
@@ -5406,7 +5438,7 @@
       "meanings": [
         {
           "en": "huge, enormous, vast",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('huge, enormous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5449,10 +5481,10 @@
           {
             "cells": [
               "accusative",
-              "огромный/огромного",
+              "огромный / огромного",
               "огромную",
               "огромное",
-              "огромные/огромных"
+              "огромные / огромных"
             ]
           },
           {
@@ -5500,7 +5532,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -5674,7 +5706,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -5777,7 +5809,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -5817,11 +5849,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5957,7 +5989,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5988,7 +6020,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -6136,7 +6168,7 @@
         },
         {
           "en": "evenly, smoothly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6460,35 +6492,6 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "слушать": {
       "lemma": "слушать",
       "stress": "слу́шать",
@@ -6499,7 +6502,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -6507,7 +6510,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -6647,7 +6650,7 @@
       "meanings": [
         {
           "en": "own, private, personal",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('own, proper')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6690,10 +6693,10 @@
           {
             "cells": [
               "accusative",
-              "собственный / -ого",
+              "собственный / собственного",
               "собственную",
               "собственное",
-              "собственные / -ых"
+              "собственные / собственных"
             ]
           },
           {
@@ -6733,12 +6736,16 @@
       ],
       "related": [
         {
-          "word": "собственно",
-          "gloss": "in a own way (adv.)"
+          "word": "собственность",
+          "gloss": "property, ownership"
         },
         {
-          "word": "собственность",
-          "gloss": "quality of being own"
+          "word": "свой",
+          "gloss": "one's own"
+        },
+        {
+          "word": "собственной персоной",
+          "gloss": "in person"
         }
       ]
     },
@@ -6856,7 +6863,7 @@
       "meanings": [
         {
           "en": "glass, drinking glass, tumbler",
-          "note": "Common masculine noun meaning 'glass, tumbler' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6979,10 +6986,10 @@
           {
             "cells": [
               "accusative",
-              "строительный",
+              "строительный / строительного",
               "строительную",
               "строительное",
-              "строительные"
+              "строительные / строительных"
             ]
           },
           {
@@ -7044,7 +7051,7 @@
       "meanings": [
         {
           "en": "sum, amount of money",
-          "note": "Common feminine noun meaning 'sum, amount' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7124,15 +7131,15 @@
       "meanings": [
         {
           "en": "happy",
-          "note": "Сч is pronounced like щ. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Сч is pronounced like щ."
         },
         {
           "en": "lucky",
-          "note": "Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": ""
         },
         {
           "en": "happy (ending)",
-          "note": "Счастливый конец = happy ending. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Счастливый конец = happy ending."
         }
       ],
       "forms": {
@@ -7201,29 +7208,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "счастлив",
-                "счастлива",
-                "счастливо",
-                "счастливы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я очень счастливый.",
@@ -7257,7 +7242,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -7351,7 +7336,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -7545,7 +7530,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -7558,7 +7551,11 @@
       "meanings": [
         {
           "en": "casino chip, gaming counter",
-          "note": "Colloquial trademark trait. Common feminine noun meaning 'chip, counter, token' in everyday Russian."
+          "note": ""
+        },
+        {
+          "en": "gimmick, thing, trick (colloquial)",
+          "note": "в чём фишка? = what's the trick / point?"
         }
       ],
       "forms": {
@@ -7645,7 +7642,7 @@
         },
         {
           "en": "that's enough!",
-          "note": "Хватит!. Used as a perfective (single completed action) verb meaning 'to be enough', paired with 'хватать'."
+          "note": "Хватит!."
         }
       ],
       "forms": {
@@ -7700,6 +7697,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хвати",
+                "хватите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -7719,15 +7733,15 @@
       "related": [
         {
           "word": "хватать",
-          "gloss": "to grab"
+          "gloss": "to be enough (impf); to grab"
         },
         {
-          "word": "схватить",
-          "gloss": "to grab"
+          "word": "хватит!",
+          "gloss": "that's enough!"
         },
         {
-          "word": "перехватить",
-          "gloss": "to intercept"
+          "word": "достаточно",
+          "gloss": "enough"
         }
       ]
     },
@@ -7741,7 +7755,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -7793,6 +7807,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -7925,7 +7956,7 @@
       "meanings": [
         {
           "en": "sixteen (cardinal numeral)",
-          "note": "Core Russian num meaning 'sixteen' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

@@ -171,7 +171,7 @@
           "lemma": "кристина",
           "pos": "name",
           "stress": null,
-          "gloss": "Kris",
+          "gloss": "Kristina",
           "gram": "proper noun, instrumental singular"
         },
         {
@@ -308,7 +308,7 @@
           "pos": "adj",
           "stress": "о́бщем",
           "gloss": "(in) short, so",
-          "gram": "prepositional singular, neuter; в общем = basically, so"
+          "gram": "prepositional singular (в общем = basically, in short)"
         }
       ]
     },
@@ -405,10 +405,10 @@
         {
           "t": "Витей?",
           "lemma": "витя",
-          "pos": "noun",
+          "pos": "name",
           "stress": "ви́тей",
           "gloss": "Vitya",
-          "gram": "genitive plural"
+          "gram": "instrumental singular"
         }
       ]
     },
@@ -649,7 +649,7 @@
           "lemma": "кристина",
           "pos": "name",
           "stress": null,
-          "gloss": "Kris",
+          "gloss": "Kristina",
           "gram": "proper noun, instrumental singular"
         },
         {
@@ -786,7 +786,7 @@
           "pos": "adj",
           "stress": "о́бщем",
           "gloss": "(in) short, so",
-          "gram": "prepositional singular, neuter; в общем = basically, so"
+          "gram": "prepositional singular (в общем = basically, in short)"
         }
       ]
     },
@@ -883,10 +883,10 @@
         {
           "t": "Витей?",
           "lemma": "витя",
-          "pos": "noun",
+          "pos": "name",
           "stress": "ви́тей",
           "gloss": "Vitya",
-          "gram": "genitive plural"
+          "gram": "instrumental singular"
         }
       ]
     },
@@ -1127,7 +1127,7 @@
           "lemma": "кристина",
           "pos": "name",
           "stress": null,
-          "gloss": "Kris",
+          "gloss": "Kristina",
           "gram": "proper noun, instrumental singular"
         },
         {
@@ -1264,7 +1264,7 @@
           "pos": "adj",
           "stress": "о́бщем",
           "gloss": "(in) short, so",
-          "gram": "prepositional singular, neuter; в общем = basically, so"
+          "gram": "prepositional singular (в общем = basically, in short)"
         }
       ]
     },
@@ -1361,10 +1361,10 @@
         {
           "t": "Витей?",
           "lemma": "витя",
-          "pos": "noun",
+          "pos": "name",
           "stress": "ви́тей",
           "gloss": "Vitya",
-          "gram": "genitive plural"
+          "gram": "instrumental singular"
         }
       ]
     },
@@ -1468,7 +1468,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1761,7 +1761,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -1865,7 +1865,7 @@
       "meanings": [
         {
           "en": "short-handled household broom (traditionally made of twigs or sorghum)",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'besom, short broom' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2062,11 +2062,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2121,6 +2121,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2152,92 +2169,6 @@
         }
       ]
     },
-    "витя": {
-      "lemma": "витя",
-      "stress": "ви́тя",
-      "pos": "noun",
-      "gloss": "Vitya",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "Vitya",
-          "note": "Declinable feminine noun meaning 'Vitya', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "витя",
-              "вити"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "вити",
-              "вить"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "вите",
-              "витям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "витю",
-              "вити"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "витей",
-              "витями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "вите",
-              "витях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вить, если тебе нужна работа, я могу помочь.",
-          "trans": "Vitya, if you need a job, I can help."
-        },
-        {
-          "text": "Тамара, здравствуй, это Витя Баринов беспокоит.",
-          "trans": "Tamara, hello, this is Vitya Barinov calling."
-        },
-        {
-          "text": "Привет, Витя, ты хочешь сделать ставку?",
-          "trans": "Hi, Vitya, do you want to place a bet?"
-        }
-      ],
-      "related": [
-        {
-          "word": "вместе",
-          "gloss": "together"
-        }
-      ]
-    },
     "вместе": {
       "lemma": "вместе",
       "stress": "вме́сте",
@@ -2246,7 +2177,7 @@
       "meanings": [
         {
           "en": "together",
-          "note": "Core Russian adv meaning 'together' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2281,7 +2212,7 @@
       "meanings": [
         {
           "en": "attention, notice",
-          "note": "Внимание! = Attention!. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attention' in everyday Russian."
+          "note": "Внимание! = Attention!."
         }
       ],
       "forms": {
@@ -2296,42 +2227,42 @@
             "cells": [
               "nominative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "genitive",
               "внимания",
-              "—"
+              "вниманий"
             ]
           },
           {
             "cells": [
               "dative",
               "вниманию",
-              "—"
+              "вниманиям"
             ]
           },
           {
             "cells": [
               "accusative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "instrumental",
               "вниманием",
-              "—"
+              "вниманиями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "внимании",
-              "—"
+              "вниманиях"
             ]
           }
         ]
@@ -2371,7 +2302,7 @@
       "meanings": [
         {
           "en": "water",
-          "note": "Common feminine noun meaning 'water' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2443,86 +2374,12 @@
       ],
       "related": [
         {
+          "word": "водичка",
+          "gloss": "water (affectionate)"
+        },
+        {
           "word": "водный",
-          "gloss": "related to water (adj.)"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
+          "gloss": "water (adj.)"
         }
       ]
     },
@@ -2534,7 +2391,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2570,7 +2427,7 @@
       "meanings": [
         {
           "en": "to turn off, switch off, shut down",
-          "note": "+ acc. Used as a perfective (single completed action) verb meaning 'to turn off, switch off', paired with 'выключать'."
+          "note": "+ acc."
         }
       ],
       "forms": {
@@ -2769,7 +2626,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2860,11 +2717,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2880,11 +2737,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3036,106 +2893,6 @@
         }
       ]
     },
-    "значить": {
-      "lemma": "значить",
-      "stress": "зна́чить",
-      "pos": "verb",
-      "gloss": "to mean",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "to mean",
-          "note": "что это значит? = what does this mean?"
-        },
-        {
-          "en": "so, right then",
-          "note": "the form значит is used as a linking word"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "значу",
-              "значим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "значишь",
-              "значите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "значит",
-              "значат"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "значил",
-                "значила",
-                "значило",
-                "значили"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Что это значит?",
-          "trans": "What does this mean?"
-        },
-        {
-          "text": "Значит, ты не придёшь.",
-          "trans": "So you're not coming."
-        },
-        {
-          "text": "Паша, что всё это значит?",
-          "trans": "Pasha, what does all this mean?"
-        }
-      ],
-      "related": [
-        {
-          "word": "назначить",
-          "gloss": "to set"
-        },
-        {
-          "word": "значит",
-          "gloss": "so"
-        },
-        {
-          "word": "назначение",
-          "gloss": "appointment"
-        }
-      ]
-    },
     "ладно": {
       "lemma": "ладно",
       "stress": "ла́дно",
@@ -3144,7 +2901,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3166,7 +2923,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3180,7 +2941,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3232,6 +2993,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3386,7 +3164,7 @@
       "meanings": [
         {
           "en": "no ... at all, not any",
-          "note": "With не / нет. Core Russian det meaning 'no ... at all, not any' in everyday speech."
+          "note": "With не / нет."
         }
       ],
       "forms": {
@@ -3565,7 +3343,7 @@
       "meanings": [
         {
           "en": "shared, common",
-          "note": "Общий туалет = a shared toilet. Agrees in gender, number, and case with the noun it modifies ('shared, common')."
+          "note": "Общий туалет = a shared toilet."
         }
       ],
       "forms": {
@@ -3651,8 +3429,16 @@
       ],
       "related": [
         {
-          "word": "приобщить",
-          "gloss": "to add"
+          "word": "в общем",
+          "gloss": "basically, in short"
+        },
+        {
+          "word": "общество",
+          "gloss": "society"
+        },
+        {
+          "word": "вместе",
+          "gloss": "together"
         }
       ]
     },
@@ -3695,7 +3481,7 @@
       "meanings": [
         {
           "en": "to tidy up, to clean up",
-          "note": "Colloquial everyday verb. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to tidy up, to clean up', paired with 'прибирать'."
+          "note": "Colloquial everyday verb. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'брать')."
         }
       ],
       "forms": {
@@ -3812,7 +3598,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3916,7 +3702,7 @@
       "meanings": [
         {
           "en": "joy, happiness, delight",
-          "note": "От радости = for joy. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'joy, gladness' in everyday Russian."
+          "note": "От радости = for joy."
         }
       ],
       "forms": {
@@ -4005,12 +3791,16 @@
       "lemma": "развод",
       "stress": "разво́д",
       "pos": "noun",
-      "gloss": "divorce, separation",
+      "gloss": "divorce; scam (slang)",
       "gender": "m",
       "meanings": [
         {
           "en": "divorce, separation",
           "note": "подать на развод = to file for divorce"
+        },
+        {
+          "en": "scam, con (slang)",
+          "note": "Это развод! = It's a scam!"
         }
       ],
       "forms": {
@@ -4096,7 +3886,7 @@
         },
         {
           "en": "to understand, to figure out",
-          "note": "В + prepositional. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to sort out, to figure out', paired with 'разбираться'."
+          "note": "В + prepositional."
         }
       ],
       "forms": {
@@ -4200,7 +3990,6 @@
       "stress": "ребя́та",
       "pos": "noun",
       "gloss": "guys, lads, kids (plural only)",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -4209,7 +3998,7 @@
         },
         {
           "en": "kids, children",
-          "note": "Colloquial plural of ребёнок. Common substantive noun meaning 'guys, lads, kids (plural only)' in everyday Russian."
+          "note": "Colloquial plural of ребёнок."
         }
       ],
       "forms": {
@@ -4334,11 +4123,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4410,91 +4199,18 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
-    },
-    "сволочь": {
-      "lemma": "сволочь",
-      "stress": "сво́лочь",
-      "pos": "noun",
-      "gloss": "scoundrel, bastard",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "scoundrel, bastard",
-          "note": "Common feminine noun meaning 'scoundrel, bastard' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "сволочь",
-              "сволочи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "сволочи",
-              "сволочей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "сволочи",
-              "сволочям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "сволочь",
-              "сволочи"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "сволочью",
-              "сволочями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "сволочи",
-              "сволочях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ах ты сволочь!",
-          "trans": "Ah, you bastard!"
-        },
-        {
-          "text": "Какая же всё-таки бессовестная сволочь украла мои продукты!",
-          "trans": "What a shameless scoundrel stole my ingredients after all!"
-        },
-        {
-          "text": "Он ведёт себя с коллегами как последняя сволочь.",
-          "trans": "He behaves toward his colleagues like an utter bastard."
-        }
-      ],
-      "related": []
     },
     "сейчас": {
       "lemma": "сейчас",
@@ -4801,105 +4517,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

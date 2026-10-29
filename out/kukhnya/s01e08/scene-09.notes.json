@@ -305,7 +305,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -446,7 +446,7 @@
           "pos": "verb",
           "stress": "стира́ются",
           "gloss": "are in the wash",
-          "gram": "3rd person plural present passive"
+          "gram": "present, 3rd person plural, imperfective, reflexive"
         },
         {
           "t": "в",
@@ -480,7 +480,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -552,7 +552,7 @@
           "t": "положим",
           "lemma": "положить",
           "pos": "verb",
-          "stress": "положи́м",
+          "stress": "поло́жим",
           "gloss": "will put",
           "gram": "1st person plural future, perfective"
         },
@@ -1001,7 +1001,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1142,7 +1142,7 @@
           "pos": "verb",
           "stress": "стира́ются",
           "gloss": "are in the wash",
-          "gram": "3rd person plural present passive"
+          "gram": "present, 3rd person plural, imperfective, reflexive"
         },
         {
           "t": "в",
@@ -1176,7 +1176,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1248,7 +1248,7 @@
           "t": "положим",
           "lemma": "положить",
           "pos": "verb",
-          "stress": "положи́м",
+          "stress": "поло́жим",
           "gloss": "will put",
           "gram": "1st person plural future, perfective"
         },
@@ -1697,7 +1697,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1838,7 +1838,7 @@
           "pos": "verb",
           "stress": "стира́ются",
           "gloss": "are in the wash",
-          "gram": "3rd person plural present passive"
+          "gram": "present, 3rd person plural, imperfective, reflexive"
         },
         {
           "t": "в",
@@ -1872,7 +1872,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1944,7 +1944,7 @@
           "t": "положим",
           "lemma": "положить",
           "pos": "verb",
-          "stress": "положи́м",
+          "stress": "поло́жим",
           "gloss": "will put",
           "gram": "1st person plural future, perfective"
         },
@@ -2114,7 +2114,7 @@
       "meanings": [
         {
           "en": "carefully, neatly, gently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2148,11 +2148,11 @@
       "meanings": [
         {
           "en": "poor",
-          "note": "Without money. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('poor')."
+          "note": "Without money."
         },
         {
           "en": "poor",
-          "note": "Pitiful: бедный мальчик = poor boy. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('poor')."
+          "note": "Pitiful: бедный мальчик = poor boy."
         }
       ],
       "forms": {
@@ -2221,29 +2221,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "беден",
-                "бедна",
-                "бедно",
-                "бедны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Они бедные, но честные.",
@@ -2274,7 +2252,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2704,11 +2682,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2799,15 +2781,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2816,7 +2798,6 @@
       "stress": "джи́нсы",
       "pos": "noun",
       "gloss": "jeans",
-      "gender": "f",
       "number": "pl",
       "animacy": "inan",
       "meanings": [
@@ -2936,7 +2917,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -2978,7 +2959,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3000,7 +2981,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3013,11 +2998,11 @@
       "meanings": [
         {
           "en": "toy car, little car",
-          "note": "Diminutive of машина. Common feminine noun meaning 'toy car; small machine' in everyday Russian."
+          "note": "Diminutive of машина."
         },
         {
           "en": "small machine (sewing machine, typewriter)",
-          "note": "Common feminine noun meaning 'toy car; small machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3249,7 +3234,7 @@
       "meanings": [
         {
           "en": "to put on (an item of clothing)",
-          "note": "+ accusative. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'деть'). Used as a perfective (single completed action) verb meaning 'to put on (clothes)', paired with 'надевать'."
+          "note": "+ accusative. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'деть')."
         }
       ],
       "forms": {
@@ -3362,7 +3347,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3503,7 +3488,7 @@
       "meanings": [
         {
           "en": "lower, bottom",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'lower' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -3546,10 +3531,10 @@
           {
             "cells": [
               "accusative",
-              "нижний",
+              "нижний / нижнего",
               "нижнюю",
               "нижнее",
-              "нижние"
+              "нижние / нижних"
             ]
           },
           {
@@ -3585,12 +3570,16 @@
       ],
       "related": [
         {
-          "word": "очень",
-          "gloss": "very"
+          "word": "низ",
+          "gloss": "bottom"
         },
         {
-          "word": "такой",
-          "gloss": "such"
+          "word": "верхний",
+          "gloss": "upper, top"
+        },
+        {
+          "word": "нижнее бельё",
+          "gloss": "underwear"
         }
       ]
     },
@@ -3602,7 +3591,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3934,11 +3923,11 @@
       "meanings": [
         {
           "en": "carefully, cautiously",
-          "note": "Adverb of manner. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of manner."
         },
         {
           "en": "careful!, watch out!",
-          "note": "Used as a warning. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as a warning."
         }
       ],
       "forms": null,
@@ -3963,12 +3952,12 @@
           "gloss": "careful"
         },
         {
-          "word": "состояние",
-          "gloss": "condition"
-        },
-        {
           "word": "осторожность",
           "gloss": "caution"
+        },
+        {
+          "word": "осторожнее",
+          "gloss": "more carefully"
         }
       ]
     },
@@ -3980,11 +3969,11 @@
       "meanings": [
         {
           "en": "in front of",
-          "note": "Takes the instrumental. Core Russian prep meaning 'in front of, before' in everyday speech."
+          "note": "Takes the instrumental."
         },
         {
           "en": "before (in time)",
-          "note": "Core Russian prep meaning 'in front of, before' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4047,7 +4036,7 @@
       "meanings": [
         {
           "en": "shelf",
-          "note": "Derived feminine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'shelf'."
+          "note": ""
         },
         {
           "en": "berth",
@@ -4133,7 +4122,7 @@
       "meanings": [
         {
           "en": "to put, to place, to lay down",
-          "note": "+ в/на + accusative. Used as a perfective (single completed action) verb meaning 'to put, to lay down', paired with 'класть'."
+          "note": "+ в/на + accusative."
         }
       ],
       "forms": {
@@ -4224,11 +4213,15 @@
       "related": [
         {
           "word": "класть",
-          "gloss": "to put"
+          "gloss": "to put (impf)"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "выложить",
+          "gloss": "to lay out"
+        },
+        {
+          "word": "отложить",
+          "gloss": "to put aside, to postpone"
         }
       ]
     },
@@ -4512,7 +4505,7 @@
       "meanings": [
         {
           "en": "to hide, to conceal",
-          "note": "Takes accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide, to conceal', paired with 'спрятать'."
+          "note": "Takes accusative."
         }
       ],
       "forms": {
@@ -4625,7 +4618,7 @@
       "meanings": [
         {
           "en": "changing room, locker room",
-          "note": "Derived feminine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'changing room'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4718,7 +4711,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4947,7 +4940,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5038,17 +5031,50 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
+    },
+    "скорее": {
+      "lemma": "скорее",
+      "stress": "скоре́е",
+      "pos": "adv",
+      "gloss": "quickly, faster; rather",
+      "meanings": [
+        {
+          "en": "quickly, hurry up",
+          "note": "Used as imperative exhortation."
+        },
+        {
+          "en": "rather, sooner",
+          "note": "Comparison."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Тащи скорее прищепку!",
+          "trans": "Bring the clothespin quickly!"
+        },
+        {
+          "text": "Ладно, давай сюда скорее!",
+          "trans": "Alright, give it here quickly!"
+        },
+        {
+          "text": "Отлично, закрывай скорее багажник!",
+          "trans": "Great, close the trunk quickly!"
+        }
+      ],
+      "related": []
     },
     "скоро": {
       "lemma": "скоро",
@@ -5197,13 +5223,17 @@
       "lemma": "стирать",
       "stress": "стира́ть",
       "pos": "verb",
-      "gloss": "to wash (clothes)",
+      "gloss": "to wash (clothes); to erase",
       "aspect": "impf",
       "pair": "постирать",
       "meanings": [
         {
           "en": "to do the washing, to wash clothes",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wash (clothes)', paired with 'постирать'."
+          "note": "Pf постирать."
+        },
+        {
+          "en": "to erase, to wipe off",
+          "note": "Pf стереть."
         }
       ],
       "forms": {
@@ -5258,6 +5288,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "стирай",
+                "стирайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5277,11 +5324,11 @@
       "related": [
         {
           "word": "постирать",
-          "gloss": "to wash"
+          "gloss": "to wash (pf)"
         },
         {
-          "word": "вытирать",
-          "gloss": "to wipe"
+          "word": "стереть",
+          "gloss": "to erase (pf)"
         },
         {
           "word": "стиральный",
@@ -5303,7 +5350,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -5406,7 +5453,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -5451,16 +5498,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -5779,7 +5822,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5932,7 +5975,7 @@
       "meanings": [
         {
           "en": "at least, just",
-          "note": "Дай хоть одну = give me just one. Core Russian part meaning 'at least, just' in everyday speech."
+          "note": "Дай хоть одну = give me just one."
         }
       ],
       "forms": null,
@@ -6064,7 +6107,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -6139,12 +6182,11 @@
       "stress": "штаны́",
       "pos": "noun",
       "gloss": "pants, trousers",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
           "en": "pants, trousers",
-          "note": "Pluralia tantum. Common masculine noun meaning 'pants, trousers' in everyday Russian."
+          "note": "Pluralia tantum."
         }
       ],
       "forms": {
@@ -6158,43 +6200,43 @@
           {
             "cells": [
               "nominative",
-              "штаны",
-              "штаныы"
+              "—",
+              "штаны"
             ]
           },
           {
             "cells": [
               "genitive",
-              "штаныа",
-              "штаныов"
+              "—",
+              "штанов"
             ]
           },
           {
             "cells": [
               "dative",
-              "штаныу",
-              "штаныам"
+              "—",
+              "штанам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "штаны",
-              "штаныы"
+              "—",
+              "штаны"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "штаныом",
-              "штаныами"
+              "—",
+              "штанами"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "штаные",
-              "штаныах"
+              "—",
+              "штанах"
             ]
           }
         ]
@@ -6311,7 +6353,7 @@
       "meanings": [
         {
           "en": "intense anger",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'fury, rage' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6370,7 +6412,7 @@
       "examples": [
         {
           "text": "Это ярость.",
-          "trans": "This is a fury, rage."
+          "trans": "This is rage."
         },
         {
           "text": "Шеф будет в ярости, если узнает!",

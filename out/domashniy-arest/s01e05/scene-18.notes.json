@@ -543,7 +543,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1401,7 +1401,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -2259,7 +2259,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -2973,7 +2973,7 @@
       "meanings": [
         {
           "en": "to stand up, to get up (out of bed)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to stand up, to get up', paired with 'вставать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3072,84 +3072,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "выучить": {
       "lemma": "выучить",
       "stress": "вы́учить",
@@ -3160,7 +3082,7 @@
       "meanings": [
         {
           "en": "to learn thoroughly, to master, to memorise",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'учить'). Used as a perfective (single completed action) verb meaning 'to learn (by heart or thoroughly), to memorise', paired with 'учить'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'учить')."
         }
       ],
       "forms": {
@@ -3272,7 +3194,7 @@
       "meanings": [
         {
           "en": "town, city",
-          "note": "Common masculine noun meaning 'town, city' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3359,11 +3281,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3454,15 +3380,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3476,7 +3402,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -3567,11 +3493,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -3584,7 +3510,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3670,7 +3595,7 @@
       "meanings": [
         {
           "en": "childhood",
-          "note": "Singular only. Common neuter noun meaning 'childhood' in everyday Russian."
+          "note": "Singular only."
         }
       ],
       "forms": {
@@ -3685,42 +3610,42 @@
             "cells": [
               "nominative",
               "детство",
-              "—"
+              "детства"
             ]
           },
           {
             "cells": [
               "genitive",
               "детства",
-              "—"
+              "детств"
             ]
           },
           {
             "cells": [
               "dative",
               "детству",
-              "—"
+              "детствам"
             ]
           },
           {
             "cells": [
               "accusative",
               "детство",
-              "—"
+              "детства"
             ]
           },
           {
             "cells": [
               "instrumental",
               "детством",
-              "—"
+              "детствами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "детстве",
-              "—"
+              "детствах"
             ]
           }
         ]
@@ -3759,11 +3684,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3790,11 +3715,11 @@
       "pos": "verb",
       "gloss": "to fall ill, to get sick",
       "aspect": "pf",
-      "pair": "болеть",
+      "pair": "заболевать",
       "meanings": [
         {
           "en": "to fall ill, to come down with an illness",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'болеть'). Used as a perfective (single completed action) verb meaning 'to fall ill, to get sick', paired with 'болеть'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'болеть')."
         }
       ],
       "forms": {
@@ -3977,7 +3902,7 @@
       "meanings": [
         {
           "en": "chosen, elected (often used as a noun: мой избранный = my chosen one)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('chosen, elected; the chosen one')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4020,10 +3945,10 @@
           {
             "cells": [
               "accusative",
-              "избранный/избранного",
+              "избранный / избранного",
               "избранную",
               "избранное",
-              "избранные/избранных"
+              "избранные / избранных"
             ]
           },
           {
@@ -4059,12 +3984,16 @@
       ],
       "related": [
         {
-          "word": "избранно",
-          "gloss": "in a chosen way (adv.)"
+          "word": "избрать",
+          "gloss": "to elect, to choose"
         },
         {
-          "word": "избранность",
-          "gloss": "quality of being chosen"
+          "word": "избранник",
+          "gloss": "chosen one (m)"
+        },
+        {
+          "word": "избранница",
+          "gloss": "chosen one (f)"
         }
       ]
     },
@@ -4078,11 +4007,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -4162,12 +4091,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -4309,7 +4238,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4413,7 +4342,7 @@
       "meanings": [
         {
           "en": "leader",
-          "note": "Common masculine noun meaning 'leader' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4493,7 +4422,7 @@
       "meanings": [
         {
           "en": "march! off you go! (command)",
-          "note": "Core Russian interj meaning 'march! (military command: шагом марш! = forward march!)' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4538,42 +4467,42 @@
             "cells": [
               "nominative",
               "математика",
-              "—"
+              "математики"
             ]
           },
           {
             "cells": [
               "genitive",
               "математики",
-              "—"
+              "математик"
             ]
           },
           {
             "cells": [
               "dative",
               "математике",
-              "—"
+              "математикам"
             ]
           },
           {
             "cells": [
               "accusative",
               "математику",
-              "—"
+              "математики"
             ]
           },
           {
             "cells": [
               "instrumental",
               "математикой",
-              "—"
+              "математиками"
             ]
           },
           {
             "cells": [
               "prepositional",
               "математике",
-              "—"
+              "математиках"
             ]
           }
         ]
@@ -4581,26 +4510,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "У меня учительница по математике заболела.",
-          "trans": "My maths teacher fell ill."
+          "text": "А у меня учительница по математике заболела.",
+          "trans": "My maths teacher is off sick."
         },
         {
           "text": "Он хорошо знает математику.",
           "trans": "He knows maths well."
-        },
-        {
-          "text": "А у меня учительница по математике заболела.",
-          "trans": "My maths teacher fell ill."
         }
       ],
       "related": [
         {
-          "word": "материал",
-          "gloss": "material"
+          "word": "математик",
+          "gloss": "mathematician"
         },
         {
-          "word": "материться",
-          "gloss": "to swear"
+          "word": "физика",
+          "gloss": "physics"
         }
       ]
     },
@@ -4613,7 +4538,7 @@
       "meanings": [
         {
           "en": "mother",
-          "note": "A little more formal than 'мама'. Common feminine noun meaning 'mother' in everyday Russian."
+          "note": "A little more formal than 'мама'."
         }
       ],
       "forms": {
@@ -4803,7 +4728,7 @@
       "meanings": [
         {
           "en": "to wash (dishes, hands, floors)",
-          "note": "Clean with water. Used as an imperfective (ongoing/repeated action) verb meaning 'to wash', paired with 'помыть'."
+          "note": "Clean with water."
         }
       ],
       "forms": {
@@ -5037,10 +4962,10 @@
           {
             "cells": [
               "accusative",
-              "неправый",
+              "неправый / неправого",
               "неправую",
               "неправое",
-              "неправые"
+              "неправые / неправых"
             ]
           },
           {
@@ -5101,7 +5026,7 @@
       "meanings": [
         {
           "en": "special, unusual, particular",
-          "note": "Standing out from others. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('special, particular')."
+          "note": "Standing out from others."
         }
       ],
       "forms": {
@@ -5144,10 +5069,10 @@
           {
             "cells": [
               "accusative",
-              "особенный",
+              "особенный / особенного",
               "особенную",
               "особенное",
-              "особенные"
+              "особенные / особенных"
             ]
           },
           {
@@ -5209,11 +5134,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -5253,11 +5178,11 @@
       "meanings": [
         {
           "en": "to put aside, to lay down",
-          "note": "Used as a perfective (single completed action) verb meaning 'to put aside, to put down; to postpone', paired with 'откладывать'."
+          "note": ""
         },
         {
           "en": "to postpone, to put off",
-          "note": "Used as a perfective (single completed action) verb meaning 'to put aside, to put down; to postpone', paired with 'откладывать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5348,15 +5273,15 @@
       "related": [
         {
           "word": "откладывать",
-          "gloss": "to put aside"
+          "gloss": "to put aside, to postpone (impf)"
         },
         {
-          "word": "положительный",
-          "gloss": "positive"
+          "word": "положить",
+          "gloss": "to put"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "отложенный",
+          "gloss": "postponed"
         }
       ]
     },
@@ -5370,7 +5295,7 @@
       "meanings": [
         {
           "en": "to clean, to clear, to rid of",
-          "note": "+ accusative + от + genitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to clean, to clear, to cleanse', paired with 'очистить'."
+          "note": "+ accusative + от + genitive."
         }
       ],
       "forms": {
@@ -5551,15 +5476,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -5599,7 +5524,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -5702,7 +5627,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -5742,11 +5667,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5883,7 +5808,7 @@
       "meanings": [
         {
           "en": "dishes, plates and cups, tableware (collective singular)",
-          "note": "Мыть посуду = to wash the dishes. Common feminine noun meaning 'dishes, tableware, crockery' in everyday Russian."
+          "note": "Мыть посуду = to wash the dishes."
         }
       ],
       "forms": {
@@ -5898,42 +5823,42 @@
             "cells": [
               "nominative",
               "посуда",
-              "—"
+              "посуды"
             ]
           },
           {
             "cells": [
               "genitive",
               "посуды",
-              "—"
+              "посуд"
             ]
           },
           {
             "cells": [
               "dative",
               "посуде",
-              "—"
+              "посудам"
             ]
           },
           {
             "cells": [
               "accusative",
               "посуду",
-              "—"
+              "посуды"
             ]
           },
           {
             "cells": [
               "instrumental",
               "посудой",
-              "—"
+              "посудами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "посуде",
-              "—"
+              "посудах"
             ]
           }
         ]
@@ -6003,7 +5928,7 @@
       "meanings": [
         {
           "en": "criminal, lawbreaker",
-          "note": "Person who commits a crime. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'criminal, offender' in everyday Russian."
+          "note": "Person who commits a crime."
         }
       ],
       "forms": {
@@ -6098,7 +6023,7 @@
       "meanings": [
         {
           "en": "to talk, to speak, to have a conversation",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to talk, to speak'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать')."
         }
       ],
       "forms": {
@@ -6150,6 +6075,23 @@
                 "разговаривала",
                 "разговаривало",
                 "разговаривали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разговаривай",
+                "разговаривайте"
               ]
             }
           ]
@@ -6535,7 +6477,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -6657,7 +6599,7 @@
       "meanings": [
         {
           "en": "phone, little phone",
-          "note": "Affectionate diminutive of телефон. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'little phone (affectionate)' in everyday Russian."
+          "note": "Affectionate diminutive of телефон."
         }
       ],
       "forms": {
@@ -6733,12 +6675,8 @@
           "gloss": "telephone"
         },
         {
-          "word": "телевизор",
-          "gloss": "television set"
-        },
-        {
-          "word": "телевизионный",
-          "gloss": "television"
+          "word": "номерок",
+          "gloss": "number (affectionate)"
         }
       ]
     },
@@ -6838,7 +6776,7 @@
       "meanings": [
         {
           "en": "to poke, to prod, to tap at (a screen or button)",
-          "note": "+ в + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to poke, to jab, to tap', paired with 'ткнуть'."
+          "note": "+ в + accusative."
         }
       ],
       "forms": {
@@ -6986,7 +6924,7 @@
       "meanings": [
         {
           "en": "to smile",
-          "note": "Кому = at someone (dative). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to smile', paired with 'улыбнуться'."
+          "note": "Кому = at someone (dative)."
         }
       ],
       "forms": {
@@ -7090,7 +7028,7 @@
       "meanings": [
         {
           "en": "female schoolteacher",
-          "note": "Masculine counterpart: учитель. Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common feminine noun meaning '(female) teacher' in everyday Russian."
+          "note": "Masculine counterpart: учитель."
         }
       ],
       "forms": {
@@ -7567,6 +7505,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "чувствуй",
+                "чувствуйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -7627,8 +7582,16 @@
       ],
       "related": [
         {
-          "word": "очень шагом",
-          "gloss": "intensified / related adverb (at a walk)"
+          "word": "шаг",
+          "gloss": "step"
+        },
+        {
+          "word": "шагать",
+          "gloss": "to march"
+        },
+        {
+          "word": "шагом марш",
+          "gloss": "forward march"
         }
       ]
     },
@@ -7641,7 +7604,7 @@
       "meanings": [
         {
           "en": "school",
-          "note": "Common feminine noun meaning 'school' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

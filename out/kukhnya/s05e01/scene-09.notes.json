@@ -350,7 +350,7 @@
           "pos": "noun",
           "stress": "услу́гу",
           "gloss": "service, favor",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular"
         },
         {
           "t": "в",
@@ -403,7 +403,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -894,7 +894,7 @@
           "pos": "noun",
           "stress": "услу́гу",
           "gloss": "service, favor",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular"
         },
         {
           "t": "в",
@@ -947,7 +947,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1438,7 +1438,7 @@
           "pos": "noun",
           "stress": "услу́гу",
           "gloss": "service, favor",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular"
         },
         {
           "t": "в",
@@ -1491,7 +1491,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1660,7 +1660,7 @@
   "lexicon": {
     "афишировать": {
       "lemma": "афишировать",
-      "stress": "афиширо́вать",
+      "stress": "афиши́ровать",
       "pos": "verb",
       "gloss": "to publicize / announce",
       "aspect": "impf",
@@ -1668,11 +1668,11 @@
       "meanings": [
         {
           "en": "to publicize / announce",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to publicize / announce'."
+          "note": ""
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -1723,22 +1723,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "афишируй",
+                "афишируйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Я пока не хочу афишировать.",
-          "trans": "I do not want to publicize it yet."
+          "trans": "I don't want to make it public yet."
         },
         {
-          "text": "Надо всё сделать и афишировать вовремя.",
-          "trans": "We need to do everything and to publicize on time."
+          "text": "Они не стали афишировать свои отношения.",
+          "trans": "They chose not to make their relationship public."
         }
       ],
       "related": [
         {
-          "word": "не афишировать",
-          "gloss": "not to to publicize (negated infinitive)"
+          "word": "афиша",
+          "gloss": "poster, playbill"
+        },
+        {
+          "word": "реклама",
+          "gloss": "advertising"
         }
       ]
     },
@@ -1793,10 +1814,10 @@
           {
             "cells": [
               "accusative",
-              "беременного",
+              "беременный / беременного",
               "беременную",
               "беременное",
-              "беременных"
+              "беременные / беременных"
             ]
           },
           {
@@ -2142,84 +2163,6 @@
         {
           "word": "всегда",
           "gloss": "always"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2637,12 +2580,12 @@
       "lemma": "грудка",
       "stress": "гру́дка",
       "pos": "noun",
-      "gloss": "chicken breast",
+      "gloss": "breast (of poultry)",
       "gender": "f",
       "meanings": [
         {
           "en": "chicken breast",
-          "note": "Common feminine noun meaning 'chicken breast' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2664,7 +2607,7 @@
             "cells": [
               "genitive",
               "грудки",
-              "грудк"
+              "грудок"
             ]
           },
           {
@@ -2704,18 +2647,22 @@
           "trans": "Did you order the chicken breast?"
         },
         {
-          "text": "На кухне отеля всегда есть грудка.",
-          "trans": "In the hotel kitchen there is always chicken breast."
+          "text": "А также гусиная грудка в соусе.",
+          "trans": "And also goose breast in sauce."
         }
       ],
       "related": [
         {
-          "word": "без грудк",
-          "gloss": "without chicken breast"
+          "word": "грудь",
+          "gloss": "chest, breast"
         },
         {
-          "word": "наш грудка",
-          "gloss": "our chicken breast"
+          "word": "курица",
+          "gloss": "chicken"
+        },
+        {
+          "word": "филе",
+          "gloss": "fillet"
         }
       ]
     },
@@ -2729,11 +2676,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2844,11 +2791,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2888,7 +2835,7 @@
       "meanings": [
         {
           "en": "to forget (in progress or habitually)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to forget', paired with 'забыть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2964,16 +2911,16 @@
       ],
       "examples": [
         {
-          "text": "Забываем!",
-          "trans": "We're forgetting it!"
-        },
-        {
           "text": "Я всегда забываю ключи.",
           "trans": "I always forget my keys."
         },
         {
+          "text": "Дима, не забывай, что ресторан ты мне продал.",
+          "trans": "Dima, don't forget that you sold me the restaurant."
+        },
+        {
           "text": "Давай. Забываем!",
-          "trans": "Go on. We're forgetting!"
+          "trans": "Come on. Let's forget it!"
         }
       ],
       "related": [
@@ -3031,10 +2978,11 @@
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -3125,7 +3073,7 @@
       "meanings": [
         {
           "en": "to order (food, a taxi, goods)",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to order', paired with 'заказывать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать')."
         }
       ],
       "forms": {
@@ -3238,7 +3186,7 @@
       "meanings": [
         {
           "en": "to order",
-          "note": "Food, goods, or services. Used as an imperfective (ongoing/repeated action) verb meaning 'to order', paired with 'заказать'."
+          "note": "Food, goods, or services."
         }
       ],
       "forms": {
@@ -3347,10 +3295,11 @@
       "pos": "noun",
       "gloss": "zoo",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "zoo",
-          "note": "Common masculine noun meaning 'zoo' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3409,11 +3358,11 @@
       "examples": [
         {
           "text": "Где, в зоопарк пришел?",
-          "trans": "Where did I just walk in, a zoo?"
+          "trans": "What is this, did I walk into a zoo?"
         },
         {
-          "text": "На нашей кухне уже есть новый зоопарк.",
-          "trans": "In our kitchen there is already a new zoo."
+          "text": "Однажды я пришла в зоопарк.",
+          "trans": "Once I went to the zoo."
         }
       ],
       "related": []
@@ -3464,7 +3413,7 @@
       "meanings": [
         {
           "en": "chicken (relational)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('chicken (relational)')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3507,10 +3456,10 @@
           {
             "cells": [
               "accusative",
-              "куриный",
+              "куриный / куриного",
               "куриную",
               "куриное",
-              "куриные"
+              "куриные / куриных"
             ]
           },
           {
@@ -3540,18 +3489,14 @@
           "trans": "Chef, this is an excellent chicken broth."
         },
         {
-          "text": "Шеф говорит, что это очень куриный выбор.",
-          "trans": "The chef says that this is a very chicken choice."
+          "text": "Куриную грудку вы заказывали?",
+          "trans": "Did you order the chicken breast?"
         }
       ],
       "related": [
         {
-          "word": "курино",
-          "gloss": "chickenly (adverbial form)"
-        },
-        {
-          "word": "очень куриный",
-          "gloss": "very chicken"
+          "word": "курица",
+          "gloss": "chicken"
         }
       ]
     },
@@ -3563,7 +3508,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3585,112 +3530,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
-        }
-      ]
-    },
-    "надеяться": {
-      "lemma": "надеяться",
-      "stress": "наде́яться",
-      "pos": "verb",
-      "gloss": "to hope, to rely on",
-      "aspect": "impf",
-      "pair": "понадеяться",
-      "meanings": [
-        {
-          "en": "to hope, to count on",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hope, to rely on', paired with 'понадеяться'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "надеюсь",
-              "надеемся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "надеешься",
-              "надеетесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "надеется",
-              "надеются"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "надеялся",
-                "надеялась",
-                "надеялось",
-                "надеялись"
-              ]
-            }
-          ]
+          "gloss": "well-made, shapely"
         },
         {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "надейся",
-                "надейтесь"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я надеюсь, вы меня поняли.",
-          "trans": "I hope you understood me."
-        },
-        {
-          "text": "Я надеюсь. Идите, действуйте быстрее!",
-          "trans": "I hope so. Go on, act quickly!"
-        },
-        {
-          "text": "Я надеюсь.",
-          "trans": "I hope so."
-        }
-      ],
-      "related": [
-        {
-          "word": "понадеяться",
-          "gloss": "to hope"
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3740,7 +3584,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3811,84 +3655,6 @@
         }
       ],
       "related": []
-    },
-    "ничто": {
-      "lemma": "ничто",
-      "stress": "ничто́",
-      "pos": "pron",
-      "gloss": "nothing",
-      "meanings": [
-        {
-          "en": "nothing",
-          "note": "usually in the genitive ничего, with не: ничего не осталось"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "ничто"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "ничего"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ничему"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "ничто"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "ничем"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "ни о чём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ничего не осталось.",
-          "trans": "There's nothing left."
-        },
-        {
-          "text": "Я ничего не знаю.",
-          "trans": "I don't know anything."
-        },
-        {
-          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
-          "trans": "Well, four-eyes? See, there's nothing left."
-        }
-      ],
-      "related": [
-        {
-          "word": "уничтожить",
-          "gloss": "to destroy"
-        }
-      ]
     },
     "новый": {
       "lemma": "новый",
@@ -3998,15 +3764,15 @@
       "meanings": [
         {
           "en": "number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "phone number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "hotel room",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4086,7 +3852,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -4193,11 +3959,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4519,7 +4285,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4652,140 +4418,6 @@
         }
       ]
     },
-    "сломать": {
-      "lemma": "сломать",
-      "stress": "слома́ть",
-      "pos": "verb",
-      "gloss": "to break",
-      "aspect": "pf",
-      "pair": "ломать",
-      "meanings": [
-        {
-          "en": "to break",
-          "note": "Сломать руку = to break one's arm. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ломать'). Used as a perfective (single completed action) verb meaning 'to break', paired with 'ломать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "сломаю",
-              "сломаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "сломаешь",
-              "сломаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "сломает",
-              "сломают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "сломал",
-                "сломала",
-                "сломало",
-                "сломали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "сломай",
-                "сломайте"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Short participle",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short passive participle",
-                "сломан",
-                "сломана",
-                "сломано",
-                "сломаны"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Два пальца сломаны.",
-          "trans": "Two fingers are broken."
-        },
-        {
-          "text": "Кто сломал дверь?",
-          "trans": "Who broke the door?"
-        },
-        {
-          "text": "Меня жена бросила. Два пальца сломаны.",
-          "trans": "My wife has left me. Two of my fingers are broken."
-        }
-      ],
-      "related": [
-        {
-          "word": "ломать",
-          "gloss": "to break"
-        },
-        {
-          "word": "сломаться",
-          "gloss": "to break down"
-        },
-        {
-          "word": "переломать",
-          "gloss": "to break"
-        }
-      ]
-    },
     "совершенно": {
       "lemma": "совершенно",
       "stress": "соверше́нно",
@@ -4794,7 +4426,7 @@
       "meanings": [
         {
           "en": "completely, quite, utterly",
-          "note": "Совершенно верно = quite right. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Совершенно верно = quite right."
         }
       ],
       "forms": null,
@@ -4861,7 +4493,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -4943,7 +4575,7 @@
       "meanings": [
         {
           "en": "service, favor",
-          "note": "Common feminine noun meaning 'service, favor' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5025,7 +4657,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5077,6 +4709,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

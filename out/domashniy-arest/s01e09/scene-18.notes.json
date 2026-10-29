@@ -410,7 +410,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "папки!",
@@ -418,7 +418,7 @@
           "pos": "noun",
           "stress": "па́пки",
           "gloss": "folders",
-          "gram": "plural accusative"
+          "gram": "genitive singular, feminine (after три)"
         }
       ]
     },
@@ -1218,7 +1218,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "папки!",
@@ -1226,7 +1226,7 @@
           "pos": "noun",
           "stress": "па́пки",
           "gloss": "folders",
-          "gram": "plural accusative"
+          "gram": "genitive singular, feminine (after три)"
         }
       ]
     },
@@ -1531,7 +1531,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1651,11 +1651,11 @@
       "meanings": [
         {
           "en": "to give back, to return",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "+ accusative."
         },
         {
           "en": "to get back",
-          "note": "Money you spent. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "Money you spent."
         }
       ],
       "forms": {
@@ -1883,7 +1883,7 @@
       "meanings": [
         {
           "en": "to go in, to come in, to enter",
-          "note": "+ в + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to go in, to enter', paired with 'войти'."
+          "note": "+ в + accusative."
         }
       ],
       "forms": {
@@ -2077,7 +2077,7 @@
         },
         {
           "en": "way out, solution",
-          "note": "выход всегда есть = there's always a way out"
+          "note": ""
         }
       ],
       "forms": {
@@ -2348,11 +2348,15 @@
       "related": [
         {
           "word": "гражданка",
-          "gloss": "citizen"
+          "gloss": "female citizen"
         },
         {
           "word": "гражданский",
           "gloss": "civil"
+        },
+        {
+          "word": "гражданство",
+          "gloss": "citizenship"
         }
       ]
     },
@@ -2365,11 +2369,11 @@
       "meanings": [
         {
           "en": "document, official paper",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "From Latin 'documentum'."
         },
         {
           "en": "ID, papers",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "In the plural: документы."
         }
       ],
       "forms": {
@@ -2453,11 +2457,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2486,7 +2490,7 @@
       "meanings": [
         {
           "en": "cruelly, brutally",
-          "note": "Acting with cruelty. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Acting with cruelty."
         }
       ],
       "forms": null,
@@ -2497,8 +2501,8 @@
           "trans": "You cruelly deceived me."
         },
         {
-          "text": "Анатолий Иванович, вы были слишком жестоки.",
-          "trans": "Anatoly Ivanovich, you were too harsh."
+          "text": "Там он жестоко бьёт человека.",
+          "trans": "There he is brutally beating a man."
         }
       ],
       "related": [
@@ -2516,7 +2520,7 @@
       "meanings": [
         {
           "en": "small, little",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('small, little')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2603,7 +2607,11 @@
       "related": [
         {
           "word": "маленько",
-          "gloss": "in a small way (adv.)"
+          "gloss": "a little, a bit (colloq.)"
+        },
+        {
+          "word": "большой",
+          "gloss": "big"
         }
       ]
     },
@@ -2616,7 +2624,7 @@
       "meanings": [
         {
           "en": "boy",
-          "note": "A male child. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'boy' in everyday Russian."
+          "note": "A male child."
         },
         {
           "en": "boy!",
@@ -2888,7 +2896,7 @@
       "meanings": [
         {
           "en": "impossible, it is impossible",
-          "note": "Predicative or adverb. Negative prefix 'не-' ('un-, non-, not') (stem 'возможно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Predicative or adverb. Negative prefix 'не-' ('un-, non-, not') (stem 'возможно')."
         }
       ],
       "forms": null,
@@ -2959,7 +2967,7 @@
       "meanings": [
         {
           "en": "immediately, at once",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно')."
         }
       ],
       "forms": null,
@@ -3102,44 +3110,6 @@
         }
       ]
     },
-    "о": {
-      "lemma": "о",
-      "stress": "о",
-      "pos": "prep",
-      "gloss": "about",
-      "meanings": [
-        {
-          "en": "about",
-          "note": "+ prepositional; об before a vowel: об этом"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я думаю об этом.",
-          "trans": "I'm thinking about it."
-        },
-        {
-          "text": "Мы говорим о городе.",
-          "trans": "We're talking about the town."
-        },
-        {
-          "text": "Мне некогда об этом думать. Слишком много дел.",
-          "trans": "I have no time to think about that. There's too much to do."
-        }
-      ],
-      "related": [
-        {
-          "word": "об",
-          "gloss": "about, against"
-        },
-        {
-          "word": "про",
-          "gloss": "about (informal)"
-        }
-      ]
-    },
     "обмануть": {
       "lemma": "обмануть",
       "stress": "обману́ть",
@@ -3150,7 +3120,7 @@
       "meanings": [
         {
           "en": "to cheat, to deceive, to trick",
-          "note": "Меня обманули = I've been cheated. Used as a perfective (single completed action) verb meaning 'to cheat, to deceive', paired with 'обманывать'."
+          "note": "Меня обманули = I've been cheated."
         }
       ],
       "forms": {
@@ -3349,11 +3319,11 @@
       "meanings": [
         {
           "en": "to let go, to release",
-          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         },
         {
           "en": "to let someone leave",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         }
       ],
       "forms": {
@@ -3495,11 +3465,11 @@
       "meanings": [
         {
           "en": "security guards",
-          "note": "As a group. Common feminine noun meaning 'security, guards' in everyday Russian."
+          "note": "As a group."
         },
         {
           "en": "protection",
-          "note": "Common feminine noun meaning 'security, guards' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3514,42 +3484,42 @@
             "cells": [
               "nominative",
               "охрана",
-              "—"
+              "охраны"
             ]
           },
           {
             "cells": [
               "genitive",
               "охраны",
-              "—"
+              "охран"
             ]
           },
           {
             "cells": [
               "dative",
               "охране",
-              "—"
+              "охранам"
             ]
           },
           {
             "cells": [
               "accusative",
               "охрану",
-              "—"
+              "охраны"
             ]
           },
           {
             "cells": [
               "instrumental",
               "охраной",
-              "—"
+              "охранами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "охране",
-              "—"
+              "охранах"
             ]
           }
         ]
@@ -3630,7 +3600,7 @@
             "cells": [
               "accusative",
               "папку",
-              "папок"
+              "папки"
             ]
           },
           {
@@ -3674,7 +3644,7 @@
       "meanings": [
         {
           "en": "mean, vile, despicable",
-          "note": "Dishonourable and treacherous. Agrees in gender, number, and case with the noun it modifies ('mean, vile, despicable')."
+          "note": "Dishonourable and treacherous."
         }
       ],
       "forms": {
@@ -3717,10 +3687,10 @@
           {
             "cells": [
               "accusative",
-              "подлого",
+              "подлый / подлого",
               "подлую",
               "подлое",
-              "подлых"
+              "подлые / подлых"
             ]
           },
           {
@@ -3769,126 +3739,17 @@
         }
       ]
     },
-    "пожалеть": {
-      "lemma": "пожалеть",
-      "stress": "пожале́ть",
-      "pos": "verb",
-      "gloss": "to regret; to feel sorry",
-      "aspect": "pf",
-      "pair": "жалеть",
-      "meanings": [
-        {
-          "en": "to regret, to be sorry",
-          "note": "ты ещё пожалеешь! = you'll be sorry!"
-        },
-        {
-          "en": "to feel sorry for",
-          "note": "+ accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалеть'). Used as a perfective (single completed action) verb meaning 'to regret; to feel sorry', paired with 'жалеть'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "пожалею",
-              "пожалеем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "пожалеешь",
-              "пожалеете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "пожалеет",
-              "пожалеют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "пожалел",
-                "пожалела",
-                "пожалело",
-                "пожалели"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "пожалей",
-                "пожалейте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ты ещё пожалеешь!",
-          "trans": "You'll be sorry!"
-        },
-        {
-          "text": "Я не пожалел.",
-          "trans": "I didn't regret it."
-        },
-        {
-          "text": "Ты знаешь, сколько у меня денег? Ты ещё пожалеешь!",
-          "trans": "Do you know how much money I have? You'll be sorry!"
-        }
-      ],
-      "related": [
-        {
-          "word": "жалеть",
-          "gloss": "to pity"
-        }
-      ]
-    },
     "пойти": {
       "lemma": "пойти",
       "stress": "пойти́",
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4024,7 +3885,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -4054,7 +3915,7 @@
       "meanings": [
         {
           "en": "pass, permit, badge",
-          "note": "Document granting admission. Common masculine noun meaning 'pass, permit, entry badge' in everyday Russian."
+          "note": "Document granting admission."
         }
       ],
       "forms": {
@@ -4122,16 +3983,16 @@
       ],
       "related": [
         {
-          "word": "спускаться",
-          "gloss": "to go down"
+          "word": "пропустить",
+          "gloss": "to let through"
         },
         {
-          "word": "отпускать",
-          "gloss": "to let go"
+          "word": "охрана",
+          "gloss": "security"
         },
         {
-          "word": "пускать",
-          "gloss": "to let in"
+          "word": "вход",
+          "gloss": "entrance"
         }
       ]
     },
@@ -4147,7 +4008,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4178,7 +4039,7 @@
       "meanings": [
         {
           "en": "to ask (a question)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask', paired with 'спросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4289,11 +4150,11 @@
       "meanings": [
         {
           "en": "it's shameful",
-          "note": "Это стыдно. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Это стыдно."
         },
         {
           "en": "to be ashamed",
-          "note": "Мне стыдно = I'm ashamed. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Мне стыдно = I'm ashamed."
         }
       ],
       "forms": null,
@@ -4327,7 +4188,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -4361,7 +4222,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -4478,11 +4339,11 @@
       "meanings": [
         {
           "en": "to lead away, take away",
-          "note": "On foot. Prefix 'у-' marks departure, removal, or successful completion (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to lead away, take away, steal (a partner)', paired with 'уводить'."
+          "note": "On foot. Prefix 'у-' marks departure, removal, or successful completion (stem 'вести')."
         },
         {
           "en": "to steal someone away",
-          "note": "From a family or spouse. Prefix 'у-' marks departure, removal, or successful completion (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to lead away, take away, steal (a partner)', paired with 'уводить'."
+          "note": "From a family or spouse. Prefix 'у-' marks departure, removal, or successful completion (stem 'вести')."
         }
       ],
       "forms": {
@@ -4573,15 +4434,15 @@
       "related": [
         {
           "word": "уводить",
-          "gloss": "to lead away"
+          "gloss": "to lead away (impf)"
         },
         {
-          "word": "провести",
-          "gloss": "to spend"
+          "word": "вести",
+          "gloss": "to lead"
         },
         {
-          "word": "перевести",
-          "gloss": "to transfer"
+          "word": "отвести",
+          "gloss": "to take (somewhere)"
         }
       ]
     },
@@ -4624,7 +4485,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4676,6 +4537,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -4887,96 +4765,6 @@
         {
           "word": "потому что",
           "gloss": "because"
-        }
-      ]
-    },
-    "это": {
-      "lemma": "это",
-      "stress": "э́то",
-      "pos": "pron",
-      "gloss": "this, that; it is",
-      "meanings": [
-        {
-          "en": "this, that",
-          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
-        },
-        {
-          "en": "this is, that is",
-          "note": "points at something: это моё = that's mine"
-        },
-        {
-          "en": "is",
-          "note": "Linking word: главное — это народ. Core Russian pron meaning 'this, that; it is' in everyday speech."
-        },
-        {
-          "en": "other forms: этого, этому, это, этим, этом",
-          "note": "Case forms. Core Russian pron meaning 'this, that; it is' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "это"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "это"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это моё.",
-          "trans": "That's mine."
-        },
-        {
-          "text": "А это тебе.",
-          "trans": "And this is for you."
-        },
-        {
-          "text": "А это тебе. Машинка!",
-          "trans": "And this is for you. A toy car!"
-        }
-      ],
-      "related": [
-        {
-          "word": "этот",
-          "gloss": "this (before a noun)"
         }
       ]
     },

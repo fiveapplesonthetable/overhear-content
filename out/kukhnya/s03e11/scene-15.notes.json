@@ -522,9 +522,9 @@
           "t": "повара",
           "lemma": "повар",
           "pos": "noun",
-          "stress": "по́вара",
-          "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "stress": "повара́",
+          "gloss": "cooks",
+          "gram": "nominative plural"
         },
         {
           "t": "на",
@@ -626,7 +626,7 @@
           "pos": "verb",
           "stress": "отдохни́",
           "gloss": "rest",
-          "gram": "conjugated verb"
+          "gram": "imperative, 2nd person singular, perfective"
         }
       ]
     },
@@ -687,7 +687,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -741,7 +741,7 @@
           "lemma": "прямой",
           "pos": "adj",
           "stress": "прямо́й",
-          "gloss": "live",
+          "gloss": "direct",
           "gram": "masculine singular nominative"
         },
         {
@@ -1328,9 +1328,9 @@
           "t": "повара",
           "lemma": "повар",
           "pos": "noun",
-          "stress": "по́вара",
-          "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "stress": "повара́",
+          "gloss": "cooks",
+          "gram": "nominative plural"
         },
         {
           "t": "на",
@@ -1432,7 +1432,7 @@
           "pos": "verb",
           "stress": "отдохни́",
           "gloss": "rest",
-          "gram": "conjugated verb"
+          "gram": "imperative, 2nd person singular, perfective"
         }
       ]
     },
@@ -1493,7 +1493,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -1547,7 +1547,7 @@
           "lemma": "прямой",
           "pos": "adj",
           "stress": "прямо́й",
-          "gloss": "live",
+          "gloss": "direct",
           "gram": "masculine singular nominative"
         },
         {
@@ -2134,9 +2134,9 @@
           "t": "повара",
           "lemma": "повар",
           "pos": "noun",
-          "stress": "по́вара",
-          "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "stress": "повара́",
+          "gloss": "cooks",
+          "gram": "nominative plural"
         },
         {
           "t": "на",
@@ -2238,7 +2238,7 @@
           "pos": "verb",
           "stress": "отдохни́",
           "gloss": "rest",
-          "gram": "conjugated verb"
+          "gram": "imperative, 2nd person singular, perfective"
         }
       ]
     },
@@ -2299,7 +2299,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -2353,7 +2353,7 @@
           "lemma": "прямой",
           "pos": "adj",
           "stress": "прямо́й",
-          "gloss": "live",
+          "gloss": "direct",
           "gram": "masculine singular nominative"
         },
         {
@@ -2657,7 +2657,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -2770,11 +2770,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2826,6 +2826,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -2907,7 +2924,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -2984,84 +3001,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вчера": {
       "lemma": "вчера",
       "stress": "вчера́",
@@ -3070,7 +3009,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3104,7 +3043,7 @@
       "meanings": [
         {
           "en": "sad, gloomy",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('sad, gloomy')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3147,10 +3086,10 @@
           {
             "cells": [
               "accusative",
-              "грустный/грустного",
+              "грустный / грустного",
               "грустную",
               "грустное",
-              "грустные/грустных"
+              "грустные / грустных"
             ]
           },
           {
@@ -3211,7 +3150,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3355,11 +3294,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3389,35 +3328,6 @@
         }
       ]
     },
-    "дома": {
-      "lemma": "дома",
-      "stress": "до́ма",
-      "pos": "adv",
-      "gloss": "at home",
-      "meanings": [
-        {
-          "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ты, главное, оставь его дома.",
-          "trans": "The main thing is, you keep him at home."
-        },
-        {
-          "text": "Сегодня я сижу дома.",
-          "trans": "Today I'm staying at home."
-        },
-        {
-          "text": "А Осипенко сейчас дома лежит. У него больное сердце.",
-          "trans": "And Osipenko is lying at home right now. He has a sick heart."
-        }
-      ],
-      "related": []
-    },
     "домой": {
       "lemma": "домой",
       "stress": "домо́й",
@@ -3426,7 +3336,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -3446,131 +3356,6 @@
         }
       ],
       "related": []
-    },
-    "дорогой": {
-      "lemma": "дорогой",
-      "stress": "дорого́й",
-      "pos": "adj",
-      "gloss": "expensive; dear",
-      "meanings": [
-        {
-          "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
-        },
-        {
-          "en": "dear",
-          "note": "to a loved one, and at the start of letters"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дорогой",
-              "дорогая",
-              "дорогое",
-              "дорогие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дорогого",
-              "дорогой",
-              "дорогого",
-              "дорогих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "дорогому",
-              "дорогой",
-              "дорогому",
-              "дорогим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "дорогой/дорогого",
-              "дорогую",
-              "дорогое",
-              "дорогие/дорогих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "дорогим",
-              "дорогой",
-              "дорогим",
-              "дорогими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "дорогом",
-              "дорогой",
-              "дорогом",
-              "дорогих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Это дорогая одежда.",
-          "trans": "These are expensive clothes."
-        },
-        {
-          "text": "Дорогая, я дома!",
-          "trans": "Darling, I'm home!"
-        },
-        {
-          "text": "В Москве вам дают деньги на дорогую одежду, а мозги не дают.",
-          "trans": "In Moscow they give you money for expensive clothes, but they don't give you brains."
-        }
-      ],
-      "related": [
-        {
-          "word": "дёшево",
-          "gloss": "cheap(ly)"
-        }
-      ]
     },
     "же": {
       "lemma": "же",
@@ -3894,7 +3679,7 @@
         },
         {
           "en": "it seems, I think",
-          "note": "Кажется as a parenthetical word. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to seem', paired with 'показаться'."
+          "note": "Кажется as a parenthetical word."
         }
       ],
       "forms": {
@@ -3949,6 +3734,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кажись",
+                "кажитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3968,15 +3770,15 @@
       "related": [
         {
           "word": "показаться",
-          "gloss": "to seem"
+          "gloss": "to seem (pf)"
         },
         {
-          "word": "сказать",
-          "gloss": "to say"
+          "word": "кажется",
+          "gloss": "it seems, I think"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "оказаться",
+          "gloss": "to turn out"
         }
       ]
     },
@@ -4106,7 +3908,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4128,7 +3930,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4367,7 +4173,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4519,7 +4325,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement."
         }
       ],
       "forms": null,
@@ -4649,11 +4455,11 @@
       "meanings": [
         {
           "en": "to rest",
-          "note": "To relax, take a break. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To relax, take a break."
         },
         {
           "en": "to vacation",
-          "note": "To take time off. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To take time off."
         }
       ],
       "forms": {
@@ -4748,111 +4554,6 @@
         }
       ]
     },
-    "отдыхать": {
-      "lemma": "отдыхать",
-      "stress": "отдыха́ть",
-      "pos": "verb",
-      "gloss": "to rest, relax",
-      "aspect": "impf",
-      "pair": "отдохнуть",
-      "meanings": [
-        {
-          "en": "to rest, relax, be on holiday",
-          "note": "Intransitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to rest, relax', paired with 'отдохнуть'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "отдыхаю",
-              "отдыхаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "отдыхаешь",
-              "отдыхаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "отдыхает",
-              "отдыхают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "отдыхал",
-                "отдыхала",
-                "отдыхало",
-                "отдыхали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "отдыхай",
-                "отдыхайте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Всё отлично, отдыхай!",
-          "trans": "Everything is great, get some rest!"
-        },
-        {
-          "text": "Летом мы отдыхаем на море.",
-          "trans": "In the summer we vacation by the sea."
-        },
-        {
-          "text": "Всё отлично, отдыхай! Сегодня выходные, всё круто!",
-          "trans": "Everything is great, get some rest! It is the weekend today, everything is cool!"
-        }
-      ],
-      "related": [
-        {
-          "word": "отдохнуть",
-          "gloss": "to have a rest"
-        }
-      ]
-    },
     "отлично": {
       "lemma": "отлично",
       "stress": "отли́чно",
@@ -4861,7 +4562,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -4897,7 +4598,7 @@
       "meanings": [
         {
           "en": "to drink",
-          "note": "Пить чай = to drink tea. Used as an imperfective (ongoing/repeated action) verb meaning 'to drink', paired with 'выпить'."
+          "note": "Пить чай = to drink tea."
         },
         {
           "en": "to drink (alcohol)",
@@ -5013,7 +4714,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -5096,7 +4797,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -5240,11 +4941,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -5341,22 +5042,26 @@
           "trans": "Now let's go through everything in order."
         },
         {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
+          "text": "Не бойся, всё в порядке!",
+          "trans": "Don't worry, everything's fine!"
         },
         {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
+          "text": "Да, я наведу здесь железный порядок.",
+          "trans": "Yes, I'll establish iron order here."
         }
       ],
       "related": [
         {
-          "word": "рядом",
-          "gloss": "nearby"
+          "word": "в порядке",
+          "gloss": "fine, OK"
         },
         {
-          "word": "порядочность",
-          "gloss": "decency"
+          "word": "порядочный",
+          "gloss": "decent"
+        },
+        {
+          "word": "беспорядок",
+          "gloss": "mess, disorder"
         }
       ]
     },
@@ -5368,7 +5073,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -5411,10 +5116,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -5543,7 +5248,7 @@
       "meanings": [
         {
           "en": "straight, direct, frank",
-          "note": "Прямая поддержка = direct support. Agrees in gender, number, and case with the noun it modifies ('straight, direct')."
+          "note": "Прямая поддержка = direct support."
         }
       ],
       "forms": {
@@ -5586,10 +5291,10 @@
           {
             "cells": [
               "accusative",
-              "прямой / -ого",
+              "прямой / прямого",
               "прямую",
               "прямое",
-              "прямые / -ых"
+              "прямые / прямых"
             ]
           },
           {
@@ -5757,7 +5462,7 @@
       "meanings": [
         {
           "en": "conversation, talk, discussion",
-          "note": "Spoken exchange. Common masculine noun meaning 'conversation, talk' in everyday Russian."
+          "note": "Spoken exchange."
         }
       ],
       "forms": {
@@ -5816,15 +5521,15 @@
       "examples": [
         {
           "text": "Есть интересный разговор.",
-          "trans": "There's an interesting conversation."
+          "trans": "I've got something interesting to discuss."
         },
         {
           "text": "У нас с тобой серьёзный разговор.",
-          "trans": "You and I have a serious talk to have."
+          "trans": "You and I need to have a serious talk."
         },
         {
-          "text": "Есть интересный разговор. Всё хорошо, малыш.",
-          "trans": "There's an interesting conversation. Everything is fine, kid."
+          "text": "Разговор окончен, идите!",
+          "trans": "This conversation is over, go!"
         }
       ],
       "related": [
@@ -5889,7 +5594,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -6150,7 +5855,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6179,7 +5884,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6221,11 +5926,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -6268,10 +5973,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -6294,29 +5999,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",
@@ -6392,7 +6075,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -6610,8 +6293,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -7018,7 +6709,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -7070,6 +6761,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -7256,6 +6964,23 @@
                 "чувствовала",
                 "чувствовало",
                 "чувствовали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "чувствуй",
+                "чувствуйте"
               ]
             }
           ]

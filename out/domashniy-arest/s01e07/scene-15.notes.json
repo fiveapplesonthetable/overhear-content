@@ -705,8 +705,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "нет!",
@@ -1633,8 +1633,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "нет!",
@@ -2555,8 +2555,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "нет!",
@@ -2829,7 +2829,7 @@
       "meanings": [
         {
           "en": "lawyer, defence counsel, advocate",
-          "note": "In court or legal advice. Common masculine noun meaning 'lawyer, defence counsel' in everyday Russian."
+          "note": "In court or legal advice."
         }
       ],
       "forms": {
@@ -2920,7 +2920,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -3027,7 +3027,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3318,10 +3318,11 @@
       "pos": "noun",
       "gloss": "war",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "war, warfare",
-          "note": "Common feminine noun meaning 'war' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3399,6 +3400,7 @@
       "pos": "noun",
       "gloss": "enemy",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "enemy, foe",
@@ -3483,7 +3485,7 @@
       "meanings": [
         {
           "en": "survival",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'survival' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3555,8 +3557,12 @@
       ],
       "related": [
         {
-          "word": "переживать",
-          "gloss": "to worry"
+          "word": "выжить",
+          "gloss": "to survive"
+        },
+        {
+          "word": "выживать",
+          "gloss": "to survive (impf)"
         }
       ]
     },
@@ -3599,11 +3605,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3715,7 +3721,7 @@
       "meanings": [
         {
           "en": "airborne troops, paratroopers",
-          "note": "Often used collectively for ВДВ. Common masculine noun meaning 'airborne troops, paratroopers' in everyday Russian."
+          "note": "Often used collectively for ВДВ."
         }
       ],
       "forms": {
@@ -3800,7 +3806,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3851,7 +3857,7 @@
       "meanings": [
         {
           "en": "to fight, to struggle",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to fight, to brawl', paired with 'подраться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3946,115 +3952,6 @@
         }
       ]
     },
-    "есть": {
-      "lemma": "есть",
-      "stress": "есть",
-      "pos": "verb",
-      "gloss": "to eat",
-      "aspect": "impf",
-      "pair": "съесть",
-      "meanings": [
-        {
-          "en": "to eat",
-          "note": "not to be confused with есть 'there is' (from быть)"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ем",
-              "едим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "ешь",
-              "едите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ест",
-              "едят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "ел",
-                "ела",
-                "ело",
-                "ели"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "ешь",
-                "ешьте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я вчера ел грибы.",
-          "trans": "Yesterday I ate mushrooms."
-        },
-        {
-          "text": "Что ты ешь?",
-          "trans": "What are you eating?"
-        },
-        {
-          "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
-          "trans": "Yesterday I ate pickled mushrooms. Maybe one mushroom was bad."
-        }
-      ],
-      "related": [
-        {
-          "word": "съесть",
-          "gloss": "to eat"
-        },
-        {
-          "word": "поесть",
-          "gloss": "to eat"
-        }
-      ]
-    },
     "за": {
       "lemma": "за",
       "stress": "за",
@@ -4063,11 +3960,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4107,11 +4004,11 @@
       "meanings": [
         {
           "en": "to come in, to step in",
-          "note": "Into a room. Used as a perfective (single completed action) verb meaning 'to come in, to drop in', paired with 'заходить'."
+          "note": "Into a room."
         },
         {
           "en": "to drop by",
-          "note": "To visit briefly. Used as a perfective (single completed action) verb meaning 'to come in, to drop in', paired with 'заходить'."
+          "note": "To visit briefly."
         }
       ],
       "forms": {
@@ -4216,7 +4113,7 @@
       "meanings": [
         {
           "en": "to lure, to entice into a trap",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'манить'). Used as a perfective (single completed action) verb meaning 'to lure, to entice', paired with 'заманивать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'манить')."
         }
       ],
       "forms": {
@@ -4317,7 +4214,7 @@
       "meanings": [
         {
           "en": "to fall asleep",
-          "note": "Used as a perfective (single completed action) verb meaning 'to fall asleep', paired with 'засыпать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4466,106 +4363,6 @@
         }
       ]
     },
-    "значить": {
-      "lemma": "значить",
-      "stress": "зна́чить",
-      "pos": "verb",
-      "gloss": "to mean",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "to mean",
-          "note": "что это значит? = what does this mean?"
-        },
-        {
-          "en": "so, right then",
-          "note": "the form значит is used as a linking word"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "значу",
-              "значим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "значишь",
-              "значите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "значит",
-              "значат"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "значил",
-                "значила",
-                "значило",
-                "значили"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Что это значит?",
-          "trans": "What does this mean?"
-        },
-        {
-          "text": "Значит, ты не придёшь.",
-          "trans": "So you're not coming."
-        },
-        {
-          "text": "Паша, что всё это значит?",
-          "trans": "Pasha, what does all this mean?"
-        }
-      ],
-      "related": [
-        {
-          "word": "назначить",
-          "gloss": "to set"
-        },
-        {
-          "word": "значит",
-          "gloss": "so"
-        },
-        {
-          "word": "назначение",
-          "gloss": "appointment"
-        }
-      ]
-    },
     "как": {
       "lemma": "как",
       "stress": "как",
@@ -4608,7 +4405,7 @@
       "meanings": [
         {
           "en": "book",
-          "note": "Common feminine noun meaning 'book' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4688,7 +4485,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -4842,7 +4639,7 @@
             "cells": [
               "dative",
               "любви",
-              "любовям"
+              "любвям"
             ]
           },
           {
@@ -4856,14 +4653,14 @@
             "cells": [
               "instrumental",
               "любовью",
-              "любовями"
+              "любвями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "любви",
-              "любовях"
+              "любвях"
             ]
           }
         ]
@@ -4901,11 +4698,15 @@
       "meanings": [
         {
           "en": "to be in the way, to hinder",
-          "note": "+ dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to be in the way, to disturb', paired with 'помешать'."
+          "note": "+ dative."
         },
         {
           "en": "to disturb, to bother",
-          "note": "Не мешай! = Don't bother me!. Used as an imperfective (ongoing/repeated action) verb meaning 'to be in the way, to disturb', paired with 'помешать'."
+          "note": "Не мешай! = Don't bother me!"
+        },
+        {
+          "en": "to stir, to mix",
+          "note": "cooking: мешать ложкой = to stir with a spoon"
         }
       ],
       "forms": {
@@ -5158,7 +4959,7 @@
       "meanings": [
         {
           "en": "skill, habit",
-          "note": "Common masculine noun meaning 'skill' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5238,7 +5039,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -5274,11 +5075,11 @@
       "meanings": [
         {
           "en": "to strike, to inflict (a blow)",
-          "note": "With удар. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'носить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to strike, to inflict, to apply', paired with 'нанести'."
+          "note": "With удар. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'носить')."
         },
         {
           "en": "to apply (cream, paint)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'носить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to strike, to inflict, to apply', paired with 'нанести'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'носить')."
         }
       ],
       "forms": {
@@ -5726,7 +5527,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -5755,11 +5556,11 @@
       "meanings": [
         {
           "en": "badly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "it's bad",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5817,7 +5618,7 @@
           {
             "cells": [
               "1st",
-              "—",
+              "побежу",
               "победим"
             ]
           },
@@ -5945,7 +5746,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -6048,7 +5849,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -6161,10 +5962,11 @@
       "pos": "noun",
       "gloss": "opponent, enemy",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "opponent, adversary, enemy",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'opponent, enemy' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6382,7 +6184,7 @@
       "meanings": [
         {
           "en": "strong, powerful (also used as a noun: the strong)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('strong, powerful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6425,10 +6227,10 @@
           {
             "cells": [
               "accusative",
-              "сильный",
+              "сильный / сильного",
               "сильную",
               "сильное",
-              "сильные"
+              "сильные / сильных"
             ]
           },
           {
@@ -6485,7 +6287,7 @@
       "meanings": [
         {
           "en": "weak, feeble",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('weak')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6528,10 +6330,10 @@
           {
             "cells": [
               "accusative",
-              "слабый",
+              "слабый / слабого",
               "слабую",
               "слабое",
-              "слабые"
+              "слабые / слабых"
             ]
           },
           {
@@ -6590,11 +6392,11 @@
       "meanings": [
         {
           "en": "to serve",
-          "note": "+ dative (служить народу). Used as an imperfective (ongoing/repeated action) verb meaning 'to serve', paired with 'послужить'."
+          "note": "+ dative (служить народу)."
         },
         {
           "en": "to serve in the army",
-          "note": "Служить в армии. Used as an imperfective (ongoing/repeated action) verb meaning 'to serve', paired with 'послужить'."
+          "note": "Служить в армии."
         }
       ],
       "forms": {
@@ -6685,11 +6487,15 @@
       "related": [
         {
           "word": "послужить",
-          "gloss": "to serve"
+          "gloss": "to serve (pf)"
         },
         {
-          "word": "лужица",
-          "gloss": "little puddle"
+          "word": "служба",
+          "gloss": "service"
+        },
+        {
+          "word": "слуга",
+          "gloss": "servant"
         }
       ]
     },
@@ -6834,7 +6640,7 @@
       "meanings": [
         {
           "en": "territory, grounds, turf",
-          "note": "Common feminine noun meaning 'territory, grounds' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6906,8 +6712,16 @@
       ],
       "related": [
         {
-          "word": "террорист",
-          "gloss": "terrorist"
+          "word": "земля",
+          "gloss": "land"
+        },
+        {
+          "word": "участок",
+          "gloss": "plot, area"
+        },
+        {
+          "word": "зона",
+          "gloss": "zone"
         }
       ]
     },
@@ -6920,7 +6734,7 @@
       "meanings": [
         {
           "en": "toilet",
-          "note": "The room or the bowl. Common masculine noun meaning 'toilet' in everyday Russian."
+          "note": "The room or the bowl."
         }
       ],
       "forms": {
@@ -7139,7 +6953,7 @@
       "meanings": [
         {
           "en": "blow, strike, hit",
-          "note": "Common masculine noun meaning 'blow, strike' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7207,8 +7021,16 @@
       ],
       "related": [
         {
-          "word": "приударять",
-          "gloss": "to flirt"
+          "word": "ударить",
+          "gloss": "to hit"
+        },
+        {
+          "word": "ударник",
+          "gloss": "drummer; shock worker"
+        },
+        {
+          "word": "удар током",
+          "gloss": "electric shock"
         }
       ]
     },
@@ -7222,7 +7044,7 @@
       "meanings": [
         {
           "en": "to read",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to read', paired with 'прочитать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7313,11 +7135,15 @@
       "related": [
         {
           "word": "прочитать",
-          "gloss": "to read"
+          "gloss": "to read (pf)"
         },
         {
-          "word": "вычитать",
-          "gloss": "to read"
+          "word": "почитать",
+          "gloss": "to read for a while"
+        },
+        {
+          "word": "читатель",
+          "gloss": "reader"
         }
       ]
     },

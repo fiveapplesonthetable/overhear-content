@@ -352,7 +352,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "женой?",
@@ -397,7 +397,7 @@
           "lemma": "выйти",
           "pos": "verb",
           "stress": "вы́йти",
-          "gloss": "to marry",
+          "gloss": "to go out; to marry (выйти за)",
           "gram": "infinitive, perfective"
         },
         {
@@ -440,7 +440,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1030,7 +1030,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "женой?",
@@ -1075,7 +1075,7 @@
           "lemma": "выйти",
           "pos": "verb",
           "stress": "вы́йти",
-          "gloss": "to marry",
+          "gloss": "to go out; to marry (выйти за)",
           "gram": "infinitive, perfective"
         },
         {
@@ -1118,7 +1118,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1708,7 +1708,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "женой?",
@@ -1753,7 +1753,7 @@
           "lemma": "выйти",
           "pos": "verb",
           "stress": "вы́йти",
-          "gloss": "to marry",
+          "gloss": "to go out; to marry (выйти за)",
           "gram": "infinitive, perfective"
         },
         {
@@ -1796,7 +1796,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -2057,12 +2057,10 @@
       "stress": "блесте́ть",
       "pos": "verb",
       "gloss": "to shine, to glisten",
-      "aspect": "impf",
-      "pair": "блеснуть",
       "meanings": [
         {
           "en": "to shine, to glisten, to sparkle",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to shine, to glisten', paired with 'блеснуть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2117,6 +2115,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "блести",
+                "блестите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2138,7 +2153,8 @@
           "word": "блеснуть",
           "gloss": "to shine"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "быть": {
       "lemma": "быть",
@@ -2344,7 +2360,7 @@
       "meanings": [
         {
           "en": "to come back, to return",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to come back, to return', paired with 'возвращаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2570,7 +2586,7 @@
       "meanings": [
         {
           "en": "together",
-          "note": "Core Russian adv meaning 'together' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2593,84 +2609,6 @@
         {
           "word": "вместо",
           "gloss": "instead of"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2713,11 +2651,11 @@
       "meanings": [
         {
           "en": "to go out, to leave",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         },
         {
           "en": "to get out (be released)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2824,7 +2762,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2858,7 +2796,7 @@
       "meanings": [
         {
           "en": "really, indeed, in fact",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2900,11 +2838,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2935,11 +2873,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3085,7 +3023,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3170,11 +3108,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3298,7 +3236,7 @@
         },
         {
           "en": "application",
-          "note": "Written request. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'statement; application' in everyday Russian."
+          "note": "Written request."
         }
       ],
       "forms": {
@@ -3455,11 +3393,11 @@
       "meanings": [
         {
           "en": "ring",
-          "note": "On a finger. Common neuter noun meaning 'ring' in everyday Russian."
+          "note": "On a finger."
         },
         {
           "en": "ring, circle",
-          "note": "Any round loop. Common neuter noun meaning 'ring' in everyday Russian."
+          "note": "Any round loop."
         }
       ],
       "forms": {
@@ -3539,7 +3477,7 @@
       "meanings": [
         {
           "en": "beautiful, pretty, handsome",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beautiful, pretty, handsome')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3582,10 +3520,10 @@
           {
             "cells": [
               "accusative",
-              "красивый",
+              "красивый / красивого",
               "красивую",
               "красивое",
-              "красивые"
+              "красивые / красивых"
             ]
           },
           {
@@ -3646,7 +3584,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3850,7 +3788,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3905,6 +3843,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3937,7 +3892,7 @@
       "meanings": [
         {
           "en": "husband",
-          "note": "Мой муж = my husband. Common masculine noun meaning 'husband' in everyday Russian."
+          "note": "Мой муж = my husband."
         }
       ],
       "forms": {
@@ -4143,7 +4098,7 @@
       "meanings": [
         {
           "en": "to put on (clothes, hat, shoes)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'девать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to put on (clothing)', paired with 'надеть'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'девать')."
         }
       ],
       "forms": {
@@ -4254,11 +4209,11 @@
       "meanings": [
         {
           "en": "ago (after a time expression)",
-          "note": "Два года назад = two years ago. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Два года назад = two years ago."
         },
         {
           "en": "back, backwards",
-          "note": "Шаг назад = a step back. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Шаг назад = a step back."
         }
       ],
       "forms": null,
@@ -4390,7 +4345,7 @@
       "meanings": [
         {
           "en": "incorrigible, irredeemable",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'исправимый'). Agrees in gender, number, and case with the noun it modifies ('incorrigible, incurable')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'исправимый')."
         }
       ],
       "forms": {
@@ -4545,7 +4500,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -4596,6 +4551,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обещай",
+                "обещайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4627,7 +4599,7 @@
       "meanings": [
         {
           "en": "shared, common",
-          "note": "Общий туалет = a shared toilet. Agrees in gender, number, and case with the noun it modifies ('shared, common')."
+          "note": "Общий туалет = a shared toilet."
         }
       ],
       "forms": {
@@ -4713,102 +4685,16 @@
       ],
       "related": [
         {
-          "word": "приобщить",
-          "gloss": "to add"
-        }
-      ]
-    },
-    "он": {
-      "lemma": "он",
-      "stress": "он",
-      "pos": "pron",
-      "gloss": "he; it",
-      "meanings": [
-        {
-          "en": "he",
-          "note": "accusative/genitive его (него after prepositions), dative ему (нему)"
+          "word": "в общем",
+          "gloss": "basically, in short"
         },
         {
-          "en": "it",
-          "note": "For masculine and neuter things. Core Russian pron meaning 'he; it' in everyday speech."
+          "word": "общество",
+          "gloss": "society"
         },
         {
-          "en": "other forms: его (gen/acc), ему (dat), им (instr), нём (prep)",
-          "note": "Case forms. Core Russian pron meaning 'he; it' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "он"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "его"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ему"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "его"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "им"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Держи его!",
-          "trans": "Grab him!"
-        },
-        {
-          "text": "Надо его помыть.",
-          "trans": "It needs a wash."
-        },
-        {
-          "text": "Очкарик! Держи его!",
-          "trans": "Four-eyes! Grab him!"
-        }
-      ],
-      "related": [
-        {
-          "word": "она",
-          "gloss": "she"
-        },
-        {
-          "word": "они",
-          "gloss": "they"
-        },
-        {
-          "word": "его",
-          "gloss": "his, him"
+          "word": "вместе",
+          "gloss": "together"
         }
       ]
     },
@@ -4820,67 +4706,23 @@
       "meanings": [
         {
           "en": "it",
-          "note": "For neuter nouns. Core Russian pron meaning 'it' in everyday speech."
+          "note": "For neuter nouns."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "оно"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "его (него)"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ему (нему)"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "его (него)"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "им (ним)"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нём"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Вот оно!",
-          "trans": "There it is!"
+          "text": "Вот оно! Самсон, ты будешь новым мэром.",
+          "trans": "That's it! Samson, you'll be the new mayor."
         },
         {
-          "text": "Заявление? Он его написал.",
-          "trans": "The statement? He wrote it."
+          "text": "Ага! Вот оно в чём дело.",
+          "trans": "Aha! So that's what it's about."
         },
         {
-          "text": "А зачем? Я сам сделал так, чтобы он его написал.",
-          "trans": "And why would I? I'm the one who made him write it."
+          "text": "Спа захотела? Вот оно, твоё королевство!",
+          "trans": "Wanted a spa? There it is, your kingdom!"
         }
       ],
       "related": [
@@ -4940,7 +4782,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -5040,7 +4882,7 @@
         },
         {
           "en": "to serve (food/drink), hand over",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to submit, file; to serve', paired with 'подавать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'дать')."
         }
       ],
       "forms": {
@@ -5131,15 +4973,15 @@
       "related": [
         {
           "word": "подавать",
-          "gloss": "to serve"
+          "gloss": "to serve (impf)"
         },
         {
           "word": "дать",
           "gloss": "to give"
         },
         {
-          "word": "отдать",
-          "gloss": "to give"
+          "word": "подача",
+          "gloss": "serving, presentation"
         }
       ]
     },
@@ -5149,11 +4991,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5510,35 +5352,6 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "совершенно": {
       "lemma": "совершенно",
       "stress": "соверше́нно",
@@ -5547,7 +5360,7 @@
       "meanings": [
         {
           "en": "completely, quite, utterly",
-          "note": "Совершенно верно = quite right. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Совершенно верно = quite right."
         }
       ],
       "forms": null,
@@ -5654,29 +5467,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "согласен",
-                "согласна",
-                "согласно",
-                "согласны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я согласен.",
@@ -5721,7 +5512,7 @@
         },
         {
           "en": "to start (doing)",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -5830,7 +5621,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -5975,7 +5766,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -6129,7 +5920,7 @@
       "meanings": [
         {
           "en": "cold, chill, low temperature",
-          "note": "Common masculine noun meaning 'cold, chill' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

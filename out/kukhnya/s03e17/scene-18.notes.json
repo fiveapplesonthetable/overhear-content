@@ -82,7 +82,7 @@
           "pos": "adj",
           "stress": "ти́хий",
           "gloss": "quiet",
-          "gram": "masculine singular, accusative inanimate"
+          "gram": "masculine singular, nominative / accusative inanimate"
         },
         {
           "t": "лес",
@@ -250,11 +250,11 @@
         },
         {
           "t": "красиво.",
-          "lemma": "красивый",
-          "pos": "adj",
+          "lemma": "красиво",
+          "pos": "adv",
           "stress": "краси́во",
           "gloss": "beautifully",
-          "gram": "adverbial adjective"
+          "gram": "adverb"
         }
       ]
     },
@@ -510,7 +510,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -858,7 +858,7 @@
           "pos": "adj",
           "stress": "ти́хий",
           "gloss": "quiet",
-          "gram": "masculine singular, accusative inanimate"
+          "gram": "masculine singular, nominative / accusative inanimate"
         },
         {
           "t": "лес",
@@ -1026,11 +1026,11 @@
         },
         {
           "t": "красиво.",
-          "lemma": "красивый",
-          "pos": "adj",
+          "lemma": "красиво",
+          "pos": "adv",
           "stress": "краси́во",
           "gloss": "beautifully",
-          "gram": "adverbial adjective"
+          "gram": "adverb"
         }
       ]
     },
@@ -1286,7 +1286,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -1634,7 +1634,7 @@
           "pos": "adj",
           "stress": "ти́хий",
           "gloss": "quiet",
-          "gram": "masculine singular, accusative inanimate"
+          "gram": "masculine singular, nominative / accusative inanimate"
         },
         {
           "t": "лес",
@@ -1802,11 +1802,11 @@
         },
         {
           "t": "красиво.",
-          "lemma": "красивый",
-          "pos": "adj",
+          "lemma": "красиво",
+          "pos": "adv",
           "stress": "краси́во",
           "gloss": "beautifully",
-          "gram": "adverbial adjective"
+          "gram": "adverb"
         }
       ]
     },
@@ -2062,7 +2062,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -2347,7 +2347,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2363,7 +2363,7 @@
       "meanings": [
         {
           "en": "bankrupt",
-          "note": "Common masculine noun meaning 'bankrupt' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2398,8 +2398,8 @@
           {
             "cells": [
               "accusative",
-              "банкрот",
-              "банкроты"
+              "банкрота",
+              "банкротов"
             ]
           },
           {
@@ -2435,12 +2435,12 @@
       ],
       "related": [
         {
-          "word": "без банкро",
-          "gloss": "without bankrupt"
+          "word": "банкротство",
+          "gloss": "bankruptcy"
         },
         {
-          "word": "наш банкрот",
-          "gloss": "our bankrupt"
+          "word": "долг",
+          "gloss": "debt"
         }
       ]
     },
@@ -2449,12 +2449,10 @@
       "stress": "боро́ться",
       "pos": "verb",
       "gloss": "to fight, struggle",
-      "aspect": "impf",
-      "pair": "побороться",
       "meanings": [
         {
           "en": "to fight, struggle",
-          "note": "Intransitive reflexive verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to fight, struggle', paired with 'побороться'."
+          "note": "Intransitive reflexive verb."
         }
       ],
       "forms": {
@@ -2544,10 +2542,19 @@
       ],
       "related": [
         {
+          "word": "борьба",
+          "gloss": "struggle, fight"
+        },
+        {
+          "word": "борец",
+          "gloss": "fighter, wrestler"
+        },
+        {
           "word": "побороться",
-          "gloss": "to fight"
+          "gloss": "to put up a fight (for a while)"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "бы": {
       "lemma": "бы",
@@ -2641,7 +2648,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2790,7 +2797,7 @@
       "meanings": [
         {
           "en": "carefully, attentively, closely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2830,7 +2837,7 @@
       "meanings": [
         {
           "en": "to meet, to greet, to pick up",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to meet, to welcome', paired with 'встретить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2933,49 +2940,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2986,11 +2950,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3081,15 +3049,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3183,7 +3151,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3222,7 +3190,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3345,7 +3313,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -3417,7 +3385,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3549,7 +3517,7 @@
       "meanings": [
         {
           "en": "beautifully, nicely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3587,7 +3555,7 @@
       "meanings": [
         {
           "en": "beautiful, pretty, handsome",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beautiful, pretty, handsome')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3630,10 +3598,10 @@
           {
             "cells": [
               "accusative",
-              "красивый",
+              "красивый / красивого",
               "красивую",
               "красивое",
-              "красивые"
+              "красивые / красивых"
             ]
           },
           {
@@ -3691,7 +3659,7 @@
       "meanings": [
         {
           "en": "forest, woods",
-          "note": "Locative в лесу after в/на. Common masculine noun meaning 'forest, woods' in everyday Russian."
+          "note": "Locative в лесу after в/на."
         }
       ],
       "forms": {
@@ -3771,11 +3739,11 @@
       "meanings": [
         {
           "en": "whether, if",
-          "note": "In indirect questions. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+          "note": "In indirect questions."
         },
         {
           "en": "что ли = or what, I suppose",
-          "note": "Colloquial tag. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+          "note": "Colloquial tag."
         }
       ],
       "forms": null,
@@ -3813,7 +3781,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3847,7 +3815,7 @@
       "meanings": [
         {
           "en": "small, little",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('small, little')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3934,7 +3902,11 @@
       "related": [
         {
           "word": "маленько",
-          "gloss": "in a small way (adv.)"
+          "gloss": "a little, a bit (colloq.)"
+        },
+        {
+          "word": "большой",
+          "gloss": "big"
         }
       ]
     },
@@ -3947,7 +3919,7 @@
       "meanings": [
         {
           "en": "minute",
-          "note": "Common feminine noun meaning 'minute' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4515,29 +4487,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -4573,7 +4523,7 @@
       "meanings": [
         {
           "en": "to take offence, to get upset",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to take offence, to be hurt', paired with 'обидеться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4853,7 +4803,7 @@
       "meanings": [
         {
           "en": "park, public garden",
-          "note": "Public garden. Common masculine noun meaning 'park' in everyday Russian."
+          "note": "Public garden."
         }
       ],
       "forms": {
@@ -4934,7 +4884,7 @@
       "meanings": [
         {
           "en": "little pistol",
-          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'little pistol' in everyday Russian."
+          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         }
       ],
       "forms": {
@@ -4993,21 +4943,17 @@
       "examples": [
         {
           "text": "Давай сюда спокойно свой маленький пистолетик.",
-          "trans": "Calmly hand over your little pistol here."
+          "trans": "Calmly hand over your little pistol."
         },
         {
-          "text": "На кухне ресторана всегда есть пистолетик.",
-          "trans": "In the restaurant kitchen there is always little pistol."
+          "text": "У сына есть игрушечный пистолетик.",
+          "trans": "My son has a toy pistol."
         }
       ],
       "related": [
         {
-          "word": "без пистолети",
-          "gloss": "without little pistol"
-        },
-        {
-          "word": "наш пистолетик",
-          "gloss": "our little pistol"
+          "word": "пистолет",
+          "gloss": "pistol"
         }
       ]
     },
@@ -5021,7 +4967,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -5122,11 +5068,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5229,7 +5175,7 @@
       "meanings": [
         {
           "en": "at times, sometimes, now and then",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'at times'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5255,12 +5201,12 @@
       "pair": "слушать",
       "meanings": [
         {
-          "en": "to listen (a little, once)",
-          "note": "'Послушай!' / 'Послушайте!' = Listen! (to get attention)"
+          "en": "to listen (for a while), to listen to",
+          "note": "Perfective of слушать."
         },
         {
-          "en": "послушай",
-          "note": "Listen, look (to get attention). Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'слушать'). Used as a perfective (single completed action) verb meaning 'to listen (for a while)', paired with 'слушать'."
+          "en": "listen!, look! (послушай / послушайте)",
+          "note": "Used to get attention."
         }
       ],
       "forms": {
@@ -5653,7 +5599,7 @@
         },
         {
           "en": "to understand, to figure out",
-          "note": "В + prepositional. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to sort out, to figure out', paired with 'разбираться'."
+          "note": "В + prepositional."
         }
       ],
       "forms": {
@@ -5852,7 +5798,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -6144,7 +6090,7 @@
       "meanings": [
         {
           "en": "strength, power, force",
-          "note": "colloquial plural силы = engine horsepower"
+          "note": "в силе = still valid"
         },
         {
           "en": "horsepower",
@@ -6232,7 +6178,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6261,7 +6207,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6328,13 +6274,17 @@
       "lemma": "стреляться",
       "stress": "стреля́ться",
       "pos": "verb",
-      "gloss": "to shoot oneself",
+      "gloss": "to shoot oneself; to fight a duel",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
           "en": "to shoot oneself",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to shoot oneself'."
+          "note": ""
+        },
+        {
+          "en": "to fight a duel with pistols",
+          "note": "dated"
         }
       ],
       "forms": {
@@ -6389,22 +6339,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "стреляйся",
+                "стреляйтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Ну что теперь, стреляться каждый день, что ли?",
-          "trans": "Well what now, should we shoot ourselves every day?"
+          "trans": "So what now, shoot ourselves every day or something?"
         },
         {
-          "text": "Надо всё сделать и стреляться вовремя.",
-          "trans": "We need to do everything and to shoot oneself on time."
+          "text": "Из-за неё они хотели стреляться.",
+          "trans": "They wanted to fight a duel over her."
         }
       ],
       "related": [
         {
-          "word": "не стреляться",
-          "gloss": "not to to shoot oneself (negated infinitive)"
+          "word": "стрелять",
+          "gloss": "to shoot"
+        },
+        {
+          "word": "застрелиться",
+          "gloss": "to shoot oneself (pf)"
+        },
+        {
+          "word": "дуэль",
+          "gloss": "duel"
         }
       ]
     },
@@ -6416,7 +6391,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -6492,7 +6467,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -6526,11 +6501,11 @@
       "meanings": [
         {
           "en": "quiet, soft",
-          "note": "Not loud. Agrees in gender, number, and case with the noun it modifies ('quiet, calm, inconspicuous')."
+          "note": "Not loud."
         },
         {
           "en": "quiet, calm, out-of-the-way",
-          "note": "A quiet spot or street. Agrees in gender, number, and case with the noun it modifies ('quiet, calm, inconspicuous')."
+          "note": "A quiet spot or street."
         }
       ],
       "forms": {
@@ -6573,10 +6548,10 @@
           {
             "cells": [
               "accusative",
-              "тихий",
+              "тихий / тихого",
               "тихую",
               "тихое",
-              "тихие"
+              "тихие / тихих"
             ]
           },
           {
@@ -6629,7 +6604,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6659,7 +6634,7 @@
       "meanings": [
         {
           "en": "corpse, dead body",
-          "note": "Common masculine noun meaning 'corpse, dead body' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6718,21 +6693,21 @@
       "examples": [
         {
           "text": "Ну, Сеня, ты труп.",
-          "trans": "Well, Senya, you are a corpse."
+          "trans": "Well, Senya, you're dead meat."
         },
         {
-          "text": "Детство у меня было трудное. Я вырос в коммуналке.",
-          "trans": "My childhood was hard. I grew up in a communal flat."
+          "text": "Подсказать, куда труп спрятать?",
+          "trans": "Want a tip on where to hide the body?"
         }
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "мёртвый",
+          "gloss": "dead"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "тело",
+          "gloss": "body"
         }
       ]
     },
@@ -6861,7 +6836,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7077,7 +7052,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7182,7 +7157,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -7237,6 +7212,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -7272,7 +7264,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7483,105 +7475,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

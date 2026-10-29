@@ -244,7 +244,7 @@
           "pos": "verb",
           "stress": "боля́т",
           "gloss": "hurt",
-          "gram": "3rd person plural present"
+          "gram": "3rd person plural present, imperfective"
         },
         {
           "t": "да?",
@@ -293,7 +293,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -796,7 +796,7 @@
           "pos": "verb",
           "stress": "боля́т",
           "gloss": "hurt",
-          "gram": "3rd person plural present"
+          "gram": "3rd person plural present, imperfective"
         },
         {
           "t": "да?",
@@ -845,7 +845,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1348,7 +1348,7 @@
           "pos": "verb",
           "stress": "боля́т",
           "gloss": "hurt",
-          "gram": "3rd person plural present"
+          "gram": "3rd person plural present, imperfective"
         },
         {
           "t": "да?",
@@ -1397,7 +1397,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1686,13 +1686,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -1793,7 +1799,8 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "брать": {
       "lemma": "брать",
@@ -1805,7 +1812,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -1900,15 +1907,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2078,7 +2089,7 @@
       "meanings": [
         {
           "en": "attention, notice",
-          "note": "Внимание! = Attention!. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attention' in everyday Russian."
+          "note": "Внимание! = Attention!."
         }
       ],
       "forms": {
@@ -2093,42 +2104,42 @@
             "cells": [
               "nominative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "genitive",
               "внимания",
-              "—"
+              "вниманий"
             ]
           },
           {
             "cells": [
               "dative",
               "вниманию",
-              "—"
+              "вниманиям"
             ]
           },
           {
             "cells": [
               "accusative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "instrumental",
               "вниманием",
-              "—"
+              "вниманиями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "внимании",
-              "—"
+              "вниманиях"
             ]
           }
         ]
@@ -2156,84 +2167,6 @@
         {
           "word": "внимательный",
           "gloss": "attentive"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2314,29 +2247,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -2378,7 +2289,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2531,7 +2442,7 @@
       "meanings": [
         {
           "en": "tomorrow's",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('tomorrow's')."
+          "note": "Agrees in gender, number, and case with the noun it modifies ('tomorrow's')."
         }
       ],
       "forms": {
@@ -2574,10 +2485,10 @@
           {
             "cells": [
               "accusative",
-              "завтрашний",
+              "завтрашний / завтрашнего",
               "завтрашнюю",
               "завтрашнее",
-              "завтрашние"
+              "завтрашние / завтрашних"
             ]
           },
           {
@@ -2618,12 +2529,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2678,6 +2587,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2697,17 +2623,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "наверное": {
       "lemma": "наверное",
@@ -2823,11 +2750,11 @@
       "meanings": [
         {
           "en": "leg",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": "Russian uses one word for both."
         },
         {
           "en": "foot",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2907,7 +2834,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -3030,7 +2957,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise, fright or pain. Core Russian interj meaning 'oh' in everyday speech."
+          "note": "Surprise, fright or pain."
         }
       ],
       "forms": null,
@@ -3069,11 +2996,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3219,7 +3146,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -3387,6 +3314,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3414,12 +3358,16 @@
       "lemma": "развод",
       "stress": "разво́д",
       "pos": "noun",
-      "gloss": "divorce, separation",
+      "gloss": "divorce; scam (slang)",
       "gender": "m",
       "meanings": [
         {
           "en": "divorce, separation",
           "note": "подать на развод = to file for divorce"
+        },
+        {
+          "en": "scam, con (slang)",
+          "note": "Это развод! = It's a scam!"
         }
       ],
       "forms": {
@@ -3501,7 +3449,7 @@
       "meanings": [
         {
           "en": "to relax, to calm down",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'слабиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to relax', paired with 'расслабляться'."
+          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'слабиться')."
         }
       ],
       "forms": {
@@ -3643,83 +3591,6 @@
         }
       ]
     },
-    "секс": {
-      "lemma": "секс",
-      "stress": "секс",
-      "pos": "noun",
-      "gloss": "sex",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "sex",
-          "note": "Declinable masculine noun meaning 'sex', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "секс",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "секса",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "сексу",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "секс",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "сексом",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "сексе",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Костя уверен, что в отношениях любовь гораздо важнее, чем просто секс.",
-          "trans": "Kostya is convinced that in a relationship love is much more important than just sex."
-        },
-        {
-          "text": "В баре подруги откровенно болтали про любовь, свидания и секс.",
-          "trans": "At the bar the friends chatted frankly about love, dates, and sex."
-        }
-      ],
-      "related": []
-    },
     "сестра": {
       "lemma": "сестра",
       "stress": "сестра́",
@@ -3729,11 +3600,11 @@
       "meanings": [
         {
           "en": "sister",
-          "note": "Медсестра; also медицинская сестра. Common feminine noun meaning 'sister' in everyday Russian."
+          "note": "Медсестра; also медицинская сестра."
         },
         {
           "en": "nurse",
-          "note": "Медсестра; also медицинская сестра. Common feminine noun meaning 'sister' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3819,7 +3690,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -3910,15 +3781,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -3926,12 +3797,16 @@
       "lemma": "состояние",
       "stress": "состоя́ние",
       "pos": "noun",
-      "gloss": "condition, state",
+      "gloss": "condition, state; fortune",
       "gender": "n",
       "meanings": [
         {
           "en": "condition, state",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'condition, state' in everyday Russian."
+          "note": ""
+        },
+        {
+          "en": "fortune (a lot of money)",
+          "note": "заработать состояние = to make a fortune"
         }
       ],
       "forms": {
@@ -4006,67 +3881,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4216,8 +4039,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4230,11 +4061,11 @@
       "meanings": [
         {
           "en": "telephone receiver; the phone",
-          "note": "Бросить трубку = to hang up. Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": "Бросить трубку = to hang up."
         },
         {
           "en": "tube, pipe",
-          "note": "Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4456,7 +4287,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4603,7 +4434,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4655,6 +4486,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

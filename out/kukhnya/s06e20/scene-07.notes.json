@@ -157,8 +157,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "я",
@@ -203,7 +203,7 @@
           "lemma": "недавно",
           "pos": "adv",
           "stress": "неда́вно",
-          "gloss": "returned",
+          "gloss": "recently",
           "gram": "adverb"
         },
         {
@@ -709,8 +709,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "я",
@@ -755,7 +755,7 @@
           "lemma": "недавно",
           "pos": "adv",
           "stress": "неда́вно",
-          "gloss": "returned",
+          "gloss": "recently",
           "gram": "adverb"
         },
         {
@@ -1261,8 +1261,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "я",
@@ -1307,7 +1307,7 @@
           "lemma": "недавно",
           "pos": "adv",
           "stress": "неда́вно",
-          "gloss": "returned",
+          "gloss": "recently",
           "gram": "adverb"
         },
         {
@@ -1983,84 +1983,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "выйти": {
       "lemma": "выйти",
       "stress": "вы́йти",
@@ -2071,11 +1993,11 @@
       "meanings": [
         {
           "en": "to go out, to leave",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         },
         {
           "en": "to get out (be released)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2379,11 +2301,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2417,12 +2339,12 @@
       "lemma": "затея",
       "stress": "зате́я",
       "pos": "noun",
-      "gloss": "idea / venture",
+      "gloss": "idea, scheme, undertaking",
       "gender": "f",
       "meanings": [
         {
-          "en": "idea / venture",
-          "note": "Common feminine noun meaning 'idea / venture' in everyday Russian."
+          "en": "idea, scheme, undertaking",
+          "note": "Often slightly ironic: глупая затея = a silly idea."
         }
       ],
       "forms": {
@@ -2444,7 +2366,7 @@
             "cells": [
               "genitive",
               "затеи",
-              "затеь"
+              "затей"
             ]
           },
           {
@@ -2480,116 +2402,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Там обязательно надо кровь брать.",
-          "trans": "They definitely need to take blood there."
-        },
-        {
-          "text": "Виктор обязательно сегодня вас удивит.",
-          "trans": "Viktor will definitely surprise you today."
-        },
-        {
           "text": "Мне эта затея не нравится.",
-          "trans": "I do not like this idea."
+          "trans": "I don't like this idea."
+        },
+        {
+          "text": "Это была плохая затея.",
+          "trans": "It was a bad idea."
         }
       ],
       "related": [
         {
-          "word": "без зате",
-          "gloss": "without idea"
+          "word": "затеять",
+          "gloss": "to start, to cook up"
         },
         {
-          "word": "наш затея",
-          "gloss": "our idea"
-        }
-      ]
-    },
-    "звезда": {
-      "lemma": "звезда",
-      "stress": "звезда́",
-      "pos": "noun",
-      "gloss": "star; celebrity",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "star",
-          "note": "In the sky. Common feminine noun meaning 'star; celebrity' in everyday Russian."
-        },
-        {
-          "en": "star, famous performer",
-          "note": "Common feminine noun meaning 'star; celebrity' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "звезда",
-              "звёзды"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "звезды",
-              "звёзд"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "звезде",
-              "звёздам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "звезду",
-              "звёзды"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "звездой",
-              "звёздами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "звезде",
-              "звёздах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это же Лещенко! Звезда!",
-          "trans": "That's Leshchenko! A star!"
-        },
-        {
-          "text": "На небе яркие звёзды.",
-          "trans": "There are bright stars in the sky."
-        },
-        {
-          "text": "Вот молодёжь, ничего не знают! Это же Лещенко! Звезда!",
-          "trans": "Young people these days, they don't know anything! That's Leshchenko! A star!"
-        }
-      ],
-      "related": [
-        {
-          "word": "звездный",
-          "gloss": "related to star (adj.)"
+          "word": "идея",
+          "gloss": "idea"
         }
       ]
     },
@@ -2598,12 +2426,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2658,6 +2484,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2677,17 +2520,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -2775,7 +2619,7 @@
       "meanings": [
         {
           "en": "person with a disability",
-          "note": "Animate masculine noun. Common masculine noun meaning 'disabled person' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2861,7 +2705,7 @@
       "meanings": [
         {
           "en": "ingredient, component",
-          "note": "Common masculine noun meaning 'ingredient' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2941,7 +2785,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3049,7 +2893,7 @@
       "meanings": [
         {
           "en": "coma",
-          "note": "Common feminine noun meaning 'coma' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3107,26 +2951,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Да, только никому не рассказывай.",
-          "trans": "Yes, just do not tell anyone."
+          "text": "Виктор Петрович находится в коме.",
+          "trans": "Viktor Petrovich is in a coma."
         },
         {
-          "text": "Я никому не скажу!",
-          "trans": "I will not tell anyone!"
+          "text": "Ты недавно из комы вышел.",
+          "trans": "You only recently came out of a coma."
         },
         {
-          "text": "Мы точно никому не расскажем.",
-          "trans": "We will definitely not tell anyone."
+          "text": "Два месяца назад он был в коме.",
+          "trans": "Two months ago he was in a coma."
         }
       ],
       "related": [
         {
-          "word": "без ком",
-          "gloss": "without coma"
+          "word": "впасть в кому",
+          "gloss": "to fall into a coma"
         },
         {
-          "word": "наш кома",
-          "gloss": "our coma"
+          "word": "больница",
+          "gloss": "hospital"
         }
       ]
     },
@@ -3234,7 +3078,7 @@
       "meanings": [
         {
           "en": "to change, alter",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to change, alter', paired with 'поменяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3482,11 +3326,11 @@
       "lemma": "недавно",
       "stress": "неда́вно",
       "pos": "adv",
-      "gloss": "returned",
+      "gloss": "recently",
       "meanings": [
         {
-          "en": "returned",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'давно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "recently, not long ago",
+          "note": ""
         }
       ],
       "forms": null,
@@ -3501,7 +3345,20 @@
           "trans": "Moreover, that was quite recently."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "давно",
+          "gloss": "long ago, for a long time"
+        },
+        {
+          "word": "недавний",
+          "gloss": "recent"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        }
+      ]
     },
     "нравиться": {
       "lemma": "нравиться",
@@ -3566,6 +3423,23 @@
                 "нравилась",
                 "нравилось",
                 "нравились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "нравься",
+                "нравьтесь"
               ]
             }
           ]
@@ -3736,13 +3610,13 @@
       "lemma": "пожарить",
       "stress": "пожа́рить",
       "pos": "verb",
-      "gloss": "to roast / fry",
+      "gloss": "to fry, roast",
       "aspect": "pf",
-      "pair": null,
+      "pair": "жарить",
       "meanings": [
         {
           "en": "to roast / fry",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жарить'). Used as a perfective (single completed action) verb meaning 'to roast / fry'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жарить')."
         }
       ],
       "forms": {
@@ -3797,26 +3671,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пожарь",
+                "пожарьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Он говорил, что в номере очень жарко, можно утку пожарить.",
-          "trans": "He said that it is so hot in the room you could roast a duck."
+          "trans": "He said it's so hot in the room you could roast a duck."
         },
         {
-          "text": "Надо всё сделать и пожарить вовремя.",
-          "trans": "We need to do everything and to roast on time."
+          "text": "Ты ему простой чебурек пожарь.",
+          "trans": "Just fry him a plain chebureki."
         }
       ],
       "related": [
         {
           "word": "жарить",
-          "gloss": "to to roast (base verb)"
+          "gloss": "to fry (impf)"
         },
         {
-          "word": "не пожарить",
-          "gloss": "not to to roast (negated infinitive)"
+          "word": "сковорода",
+          "gloss": "frying pan"
         }
       ]
     },
@@ -3854,46 +3745,17 @@
         }
       ]
     },
-    "почти": {
-      "lemma": "почти",
-      "stress": "почти́",
-      "pos": "adv",
-      "gloss": "almost, nearly",
-      "meanings": [
-        {
-          "en": "almost, nearly",
-          "note": "Core Russian adv meaning 'almost, nearly' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Почти четыре века.",
-          "trans": "Almost four centuries."
-        },
-        {
-          "text": "Я почти готов.",
-          "trans": "I'm almost ready."
-        },
-        {
-          "text": "Наш с вами город очень старый. Почти четыре века здесь были набеги.",
-          "trans": "Our town is very old. For almost four centuries there were raids here."
-        }
-      ],
-      "related": []
-    },
     "приукрасить": {
       "lemma": "приукрасить",
       "stress": "приукра́сить",
       "pos": "verb",
-      "gloss": "embellished",
+      "gloss": "to embellish, to exaggerate",
       "aspect": "pf",
-      "pair": null,
+      "pair": "приукрашивать",
       "meanings": [
         {
-          "en": "embellished",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'украсить'). Used as a perfective (single completed action) verb meaning 'embellished'."
+          "en": "to embellish (a story), to exaggerate a little",
+          "note": ""
         }
       ],
       "forms": {
@@ -3948,22 +3810,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "приукрась",
+                "приукрасьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Я только слегка всё приукрасил.",
-          "trans": "I only embellished everything slightly."
+          "trans": "I just embellished things a little."
         },
         {
-          "text": "Надо всё сделать и приукрасить вовремя.",
-          "trans": "We need to do everything and embellished on time."
+          "text": "Журналисты любят приукрасить историю.",
+          "trans": "Journalists love to embellish a story."
         }
       ],
       "related": [
         {
-          "word": "не приукрасить",
-          "gloss": "not to embellished (negated infinitive)"
+          "word": "приукрашивать",
+          "gloss": "to embellish (impf)"
+        },
+        {
+          "word": "украсить",
+          "gloss": "to decorate"
         }
       ]
     },
@@ -3975,11 +3858,11 @@
       "meanings": [
         {
           "en": "simple, easy",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": "Простые люди = ordinary people."
         },
         {
           "en": "ordinary, common",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4117,7 +4000,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4208,21 +4091,21 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
     "слегка": {
       "lemma": "слегка",
-      "stress": "сле́гка",
+      "stress": "слегка́",
       "pos": "adv",
       "gloss": "slightly",
       "meanings": [
@@ -4236,21 +4119,21 @@
       "examples": [
         {
           "text": "Я только слегка всё приукрасил.",
-          "trans": "I only embellished everything slightly."
+          "trans": "I only embellished things slightly."
         },
         {
-          "text": "Костя сказал это совершенно слегка и спокойно.",
-          "trans": "Kostya said this quite slightly and calmly."
+          "text": "Слегка посолите мясо.",
+          "trans": "Salt the meat lightly."
         }
       ],
       "related": [
         {
-          "word": "очень слегка",
-          "gloss": "very slightly"
+          "word": "чуть-чуть",
+          "gloss": "a little"
         },
         {
-          "word": "так слегка",
-          "gloss": "so slightly"
+          "word": "немного",
+          "gloss": "a bit"
         }
       ]
     },
@@ -4264,11 +4147,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -4373,7 +4256,7 @@
       "meanings": [
         {
           "en": "to tell a lie, make something up",
-          "note": "Perfective of врать. Used as a perfective (single completed action) verb meaning 'to tell a lie', paired with 'врать'."
+          "note": "Perfective of врать."
         }
       ],
       "forms": {
@@ -4480,7 +4363,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4572,8 +4455,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4585,7 +4476,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -4707,7 +4598,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4762,6 +4653,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4793,45 +4701,16 @@
         }
       ]
     },
-    "уже": {
-      "lemma": "уже",
-      "stress": "уже́",
-      "pos": "adv",
-      "gloss": "already",
-      "meanings": [
-        {
-          "en": "already",
-          "note": "уже четыре года = for four years now"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я уже четыре года работаю мэром.",
-          "trans": "I've been mayor for four years now."
-        },
-        {
-          "text": "Папа уже дома.",
-          "trans": "Dad is already home."
-        },
-        {
-          "text": "Я уже дома.",
-          "trans": "I'm already home."
-        }
-      ],
-      "related": []
-    },
     "чебурек": {
       "lemma": "чебурек",
-      "stress": "чебу́рек",
+      "stress": "чебуре́к",
       "pos": "noun",
-      "gloss": "chebureki (fried turnovers)",
+      "gloss": "cheburek (fried meat turnover)",
       "gender": "m",
       "meanings": [
         {
-          "en": "chebureki (fried turnovers)",
-          "note": "Common masculine noun meaning 'chebureki (fried turnovers)' in everyday Russian."
+          "en": "cheburek, fried meat turnover",
+          "note": ""
         }
       ],
       "forms": {
@@ -4899,12 +4778,12 @@
       ],
       "related": [
         {
-          "word": "без чебуре",
-          "gloss": "without chebureki"
+          "word": "чебуречная",
+          "gloss": "cheburek café"
         },
         {
-          "word": "наш чебурек",
-          "gloss": "our chebureki"
+          "word": "пирожок",
+          "gloss": "pie, pasty"
         }
       ]
     },
@@ -5012,7 +4891,7 @@
       "meanings": [
         {
           "en": "masterpiece",
-          "note": "Declinable masculine noun meaning 'masterpiece', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -5093,7 +4972,7 @@
       "meanings": [
         {
           "en": "joke",
-          "note": "Без шуток = seriously. Common feminine noun meaning 'joke' in everyday Russian."
+          "note": "Без шуток = seriously."
         }
       ],
       "forms": {

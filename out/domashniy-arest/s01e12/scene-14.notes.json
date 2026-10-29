@@ -74,7 +74,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "часа",
@@ -537,7 +537,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -646,7 +646,7 @@
           "pos": "adj",
           "stress": "то́чный",
           "gloss": "exact, precise",
-          "gram": "accusative singular masculine"
+          "gram": "masculine singular, nominative / accusative"
         },
         {
           "t": "счёт.",
@@ -654,7 +654,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -1170,7 +1170,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "часа",
@@ -1633,7 +1633,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -1742,7 +1742,7 @@
           "pos": "adj",
           "stress": "то́чный",
           "gloss": "exact, precise",
-          "gram": "accusative singular masculine"
+          "gram": "masculine singular, nominative / accusative"
         },
         {
           "t": "счёт.",
@@ -1750,7 +1750,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -2581,11 +2581,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2667,84 +2667,6 @@
         {
           "word": "встретить",
           "gloss": "to meet"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2868,7 +2790,7 @@
       "meanings": [
         {
           "en": "geolocation, location data",
-          "note": "Geographic location data. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'geolocation' in everyday Russian."
+          "note": "Geographic location data."
         }
       ],
       "forms": {
@@ -3062,7 +2984,7 @@
       "meanings": [
         {
           "en": "town, city",
-          "note": "Common masculine noun meaning 'town, city' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3149,11 +3071,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3244,15 +3170,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3261,7 +3187,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3346,11 +3271,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3498,11 +3423,11 @@
       "meanings": [
         {
           "en": "document, official paper",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "From Latin 'documentum'."
         },
         {
           "en": "ID, papers",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "In the plural: документы."
         }
       ],
       "forms": {
@@ -3586,11 +3511,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3619,11 +3544,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3661,7 +3586,7 @@
       "meanings": [
         {
           "en": "abandoned, derelict",
-          "note": "Left unused or neglected. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('abandoned, neglected')."
+          "note": "Left unused or neglected."
         }
       ],
       "forms": {
@@ -3743,12 +3668,12 @@
       ],
       "related": [
         {
-          "word": "брошка",
-          "gloss": "brooch"
+          "word": "забросить",
+          "gloss": "to abandon, to neglect"
         },
         {
-          "word": "брошь",
-          "gloss": "brooch"
+          "word": "бросить",
+          "gloss": "to throw, to quit"
         }
       ]
     },
@@ -3762,7 +3687,7 @@
       "meanings": [
         {
           "en": "to close, to shut",
-          "note": "A door, a shop, or a legal case. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крыть'). Used as a perfective (single completed action) verb meaning 'to close, to shut', paired with 'закрывать'."
+          "note": "A door, a shop, or a legal case. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крыть')."
         }
       ],
       "forms": {
@@ -3873,7 +3798,7 @@
       "meanings": [
         {
           "en": "then, subsequently",
-          "note": "Core Russian adv meaning 'then, after that' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3890,8 +3815,12 @@
       ],
       "related": [
         {
-          "word": "не затем",
-          "gloss": "negated / contrasted form (then)"
+          "word": "потом",
+          "gloss": "then, later"
+        },
+        {
+          "word": "после этого",
+          "gloss": "after that"
         }
       ]
     },
@@ -3903,7 +3832,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -4087,11 +4016,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4175,8 +4104,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -4420,7 +4349,7 @@
       "meanings": [
         {
           "en": "reliable, dependable",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('reliable')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4489,29 +4418,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "надёжен",
-                "надёжна",
-                "надёжно",
-                "надёжны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Она не очень надёжная.",
@@ -4682,7 +4589,7 @@
       "meanings": [
         {
           "en": "official",
-          "note": "Authorized or recognized. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('official')."
+          "note": "Authorized or recognized."
         }
       ],
       "forms": {
@@ -4725,10 +4632,10 @@
           {
             "cells": [
               "accusative",
-              "официальный",
+              "официальный / официального",
               "официальную",
               "официальное",
-              "официальные"
+              "официальные / официальных"
             ]
           },
           {
@@ -4759,11 +4666,11 @@
         },
         {
           "text": "Это официальные документы о нашем разводе.",
-          "trans": "These are official documents regarding our divorce."
+          "trans": "These are the official documents for our divorce."
         },
         {
           "text": "Я тоже подам официальный рапорт об отставке.",
-          "trans": "I will also submit an official resignation report."
+          "trans": "I'll also hand in an official letter of resignation."
         }
       ],
       "related": [
@@ -4821,7 +4728,7 @@
       "meanings": [
         {
           "en": "to recount, calculate again",
-          "note": "Count bills or items again. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'считывать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to recount, count again', paired with 'пересчитать'."
+          "note": "Count bills or items again. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'считывать')."
         }
       ],
       "forms": {
@@ -4930,7 +4837,7 @@
       "meanings": [
         {
           "en": "to sign",
-          "note": "A document. Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'писать'). Used as a perfective (single completed action) verb meaning 'to sign', paired with 'подписывать'."
+          "note": "A document. Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'писать')."
         }
       ],
       "forms": {
@@ -5041,7 +4948,7 @@
       "meanings": [
         {
           "en": "later, later on (comparative of поздно)",
-          "note": "Core Russian adv meaning 'later' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5077,7 +4984,7 @@
       "meanings": [
         {
           "en": "to meet, to get acquainted (with)",
-          "note": "+ с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to meet, to get acquainted', paired with 'знакомиться'."
+          "note": "+ с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомиться')."
         }
       ],
       "forms": {
@@ -5217,7 +5124,7 @@
       "meanings": [
         {
           "en": "after",
-          "note": "Preposition + genitive, or adverb. Core Russian prep meaning 'after' in everyday speech."
+          "note": "Preposition + genitive, or adverb."
         }
       ],
       "forms": null,
@@ -5257,7 +5164,7 @@
       "meanings": [
         {
           "en": "to send (something or someone to the speaker)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'слать'). Used as a perfective (single completed action) verb meaning 'to send (here)', paired with 'присылать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'слать')."
         }
       ],
       "forms": {
@@ -5362,7 +5269,7 @@
       "meanings": [
         {
           "en": "to check, test, verify",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to check, test, verify', paired with 'проверить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5471,7 +5378,7 @@
       "meanings": [
         {
           "en": "to talk through, go over details",
-          "note": "Discuss thoroughly. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to discuss, go over', paired with 'проговаривать'."
+          "note": "Discuss thoroughly. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'говорить')."
         }
       ],
       "forms": {
@@ -5651,8 +5558,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -5704,7 +5623,7 @@
       "meanings": [
         {
           "en": "warehouse, storehouse",
-          "note": "Building for goods storage. Common masculine noun meaning 'warehouse, storage' in everyday Russian."
+          "note": "Building for goods storage."
         }
       ],
       "forms": {
@@ -5771,21 +5690,17 @@
         },
         {
           "text": "Ищи на складе и быстрее крутись!",
-          "trans": "Search in the storage and hustle faster!"
+          "trans": "Look in the storeroom and get a move on!"
         }
       ],
       "related": [
         {
-          "word": "кладбище",
-          "gloss": "cemetery"
+          "word": "складской",
+          "gloss": "warehouse (adj)"
         },
         {
-          "word": "накладка",
-          "gloss": "mix-up"
-        },
-        {
-          "word": "докладывать",
-          "gloss": "to report"
+          "word": "кладовая",
+          "gloss": "pantry, storeroom"
         }
       ]
     },
@@ -5797,7 +5712,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5868,11 +5783,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -5915,10 +5830,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -5941,29 +5856,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",
@@ -5994,11 +5887,11 @@
       "meanings": [
         {
           "en": "bank account",
-          "note": "Счёт в банке. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "Счёт в банке."
         },
         {
           "en": "bill, check",
-          "note": "In a restaurant. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "In a restaurant."
         }
       ],
       "forms": {
@@ -6020,14 +5913,14 @@
             "cells": [
               "genitive",
               "счёта",
-              "счетов"
+              "счётов"
             ]
           },
           {
             "cells": [
               "dative",
               "счёту",
-              "счетам"
+              "счётам"
             ]
           },
           {
@@ -6041,14 +5934,14 @@
             "cells": [
               "instrumental",
               "счётом",
-              "счетами"
+              "счётами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "счёте",
-              "счетах"
+              "счётах"
             ]
           }
         ]
@@ -6145,7 +6038,7 @@
       "meanings": [
         {
           "en": "exact, precise, accurate",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('exact, precise')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6188,10 +6081,10 @@
           {
             "cells": [
               "accusative",
-              "точный",
+              "точный / точного",
               "точную",
               "точное",
-              "точные"
+              "точные / точных"
             ]
           },
           {
@@ -6244,7 +6137,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -6320,7 +6213,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

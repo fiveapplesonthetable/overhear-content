@@ -71,7 +71,7 @@
         {
           "t": "спасибо!",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -165,8 +165,8 @@
           "lemma": "сфотографироваться",
           "pos": "verb",
           "stress": "сфотографи́руемся",
-          "gloss": "to take a photo together",
-          "gram": "verb future"
+          "gloss": "let's take a photo",
+          "gram": "1st person plural future, perfective"
         },
         {
           "t": "на",
@@ -186,11 +186,11 @@
         },
         {
           "t": "дома!",
-          "lemma": "дома",
-          "pos": "adv",
+          "lemma": "дом",
+          "pos": "noun",
           "stress": "до́ма",
-          "gloss": "at home",
-          "gram": "adverb of place"
+          "gloss": "house",
+          "gram": "genitive singular, masculine"
         }
       ]
     },
@@ -693,7 +693,7 @@
         {
           "t": "спасибо!",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -787,8 +787,8 @@
           "lemma": "сфотографироваться",
           "pos": "verb",
           "stress": "сфотографи́руемся",
-          "gloss": "to take a photo together",
-          "gram": "verb future"
+          "gloss": "let's take a photo",
+          "gram": "1st person plural future, perfective"
         },
         {
           "t": "на",
@@ -808,11 +808,11 @@
         },
         {
           "t": "дома!",
-          "lemma": "дома",
-          "pos": "adv",
+          "lemma": "дом",
+          "pos": "noun",
           "stress": "до́ма",
-          "gloss": "at home",
-          "gram": "adverb of place"
+          "gloss": "house",
+          "gram": "genitive singular, masculine"
         }
       ]
     },
@@ -1315,7 +1315,7 @@
         {
           "t": "спасибо!",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1409,8 +1409,8 @@
           "lemma": "сфотографироваться",
           "pos": "verb",
           "stress": "сфотографи́руемся",
-          "gloss": "to take a photo together",
-          "gram": "verb future"
+          "gloss": "let's take a photo",
+          "gram": "1st person plural future, perfective"
         },
         {
           "t": "на",
@@ -1430,11 +1430,11 @@
         },
         {
           "t": "дома!",
-          "lemma": "дома",
-          "pos": "adv",
+          "lemma": "дом",
+          "pos": "noun",
           "stress": "до́ма",
-          "gloss": "at home",
-          "gram": "adverb of place"
+          "gloss": "house",
+          "gram": "genitive singular, masculine"
         }
       ]
     },
@@ -2088,11 +2088,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2147,6 +2147,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2186,7 +2203,7 @@
       "meanings": [
         {
           "en": "stupid, silly, foolish",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('stupid, silly, foolish')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2229,10 +2246,10 @@
           {
             "cells": [
               "accusative",
-              "глупый/глупого",
+              "глупый / глупого",
               "глупую",
               "глупое",
-              "глупые/глупых"
+              "глупые / глупых"
             ]
           },
           {
@@ -2291,11 +2308,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2386,15 +2407,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2408,11 +2429,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2524,15 +2545,15 @@
       "meanings": [
         {
           "en": "building, block of flats",
-          "note": "'дома' = at home. Common masculine noun meaning 'house; building; home' in everyday Russian."
+          "note": "'дома' = at home."
         },
         {
           "en": "house",
-          "note": "Common masculine noun meaning 'house; building; home' in everyday Russian."
+          "note": ""
         },
         {
           "en": "home",
-          "note": "'дома' = at home. Common masculine noun meaning 'house; building; home' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2604,35 +2625,6 @@
       ],
       "related": []
     },
-    "дома": {
-      "lemma": "дома",
-      "stress": "до́ма",
-      "pos": "adv",
-      "gloss": "at home",
-      "meanings": [
-        {
-          "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ты, главное, оставь его дома.",
-          "trans": "The main thing is, you keep him at home."
-        },
-        {
-          "text": "Сегодня я сижу дома.",
-          "trans": "Today I'm staying at home."
-        },
-        {
-          "text": "А Осипенко сейчас дома лежит. У него больное сердце.",
-          "trans": "And Osipenko is lying at home right now. He has a sick heart."
-        }
-      ],
-      "related": []
-    },
     "же": {
       "lemma": "же",
       "stress": "же",
@@ -2679,7 +2671,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -2838,42 +2830,42 @@
             "cells": [
               "nominative",
               "интернет",
-              "—"
+              "интернеты"
             ]
           },
           {
             "cells": [
               "genitive",
               "интернета",
-              "—"
+              "интернетов"
             ]
           },
           {
             "cells": [
               "dative",
               "интернету",
-              "—"
+              "интернетам"
             ]
           },
           {
             "cells": [
               "accusative",
               "интернет",
-              "—"
+              "интернеты"
             ]
           },
           {
             "cells": [
               "instrumental",
               "интернетом",
-              "—"
+              "интернетами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "интернете",
-              "—"
+              "интернетах"
             ]
           }
         ]
@@ -2903,7 +2895,7 @@
       "meanings": [
         {
           "en": "beautiful, pretty, handsome",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beautiful, pretty, handsome')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2946,10 +2938,10 @@
           {
             "cells": [
               "accusative",
-              "красивый",
+              "красивый / красивого",
               "красивую",
               "красивое",
-              "красивые"
+              "красивые / красивых"
             ]
           },
           {
@@ -3008,7 +3000,7 @@
       "meanings": [
         {
           "en": "a like on social media",
-          "note": "Informal, from English. Common masculine noun meaning 'a like (online)' in everyday Russian."
+          "note": "Informal, from English."
         }
       ],
       "forms": {
@@ -3090,11 +3082,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3178,8 +3170,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -3243,11 +3235,11 @@
       "meanings": [
         {
           "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive plural: много дел."
         },
         {
           "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Comparative."
         }
       ],
       "forms": null,
@@ -3393,7 +3385,7 @@
       "meanings": [
         {
           "en": "husband",
-          "note": "Мой муж = my husband. Common masculine noun meaning 'husband' in everyday Russian."
+          "note": "Мой муж = my husband."
         }
       ],
       "forms": {
@@ -3599,11 +3591,11 @@
       "meanings": [
         {
           "en": "to gather, collect, rack up (views, points)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to gather, rack up (views/points); to dial', paired with 'набирать'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'брать')."
         },
         {
           "en": "to dial (a phone number)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to gather, rack up (views/points); to dial', paired with 'набирать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3830,7 +3822,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise, fright or pain. Core Russian interj meaning 'oh' in everyday speech."
+          "note": "Surprise, fright or pain."
         }
       ],
       "forms": null,
@@ -4083,6 +4075,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пахни",
+                "пахните"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4111,7 +4120,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4249,7 +4258,7 @@
       "meanings": [
         {
           "en": "to boast, to show off",
-          "note": "Brag about something. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'хвастаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to boast, to show off', paired with 'хвастаться'."
+          "note": "Brag about something. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'хвастаться')."
         }
       ],
       "forms": {
@@ -4348,7 +4357,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -4446,7 +4455,7 @@
       "meanings": [
         {
           "en": "to destroy, to ruin",
-          "note": "Cause ruin to a family or thing. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'рушить'). Used as a perfective (single completed action) verb meaning 'to destroy, to ruin', paired with 'разрушать'."
+          "note": "Cause ruin to a family or thing. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'рушить')."
         }
       ],
       "forms": {
@@ -4657,7 +4666,7 @@
       "meanings": [
         {
           "en": "family",
-          "note": "Common feminine noun meaning 'family' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4739,7 +4748,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -4794,6 +4803,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4826,7 +4852,7 @@
       "meanings": [
         {
           "en": "photograph, shot, X-ray image",
-          "note": "Fleeting о in oblique forms. Common masculine noun meaning 'picture, photograph, X-ray image' in everyday Russian."
+          "note": "Fleeting о in oblique forms."
         }
       ],
       "forms": {
@@ -4901,67 +4927,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4983,13 +4957,13 @@
       "lemma": "сфотографироваться",
       "stress": "сфотографи́роваться",
       "pos": "verb",
-      "gloss": "to take a photo together",
+      "gloss": "to have one's photo taken",
       "aspect": "pf",
       "pair": "фотографироваться",
       "meanings": [
         {
-          "en": "to have one's photo taken, to take a photo together",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'фотографироваться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to take a photo together', paired with 'фотографироваться'."
+          "en": "to have one's photo taken, to take a photo (together)",
+          "note": "perfective of фотографироваться"
         }
       ],
       "forms": {
@@ -5080,15 +5054,15 @@
       "related": [
         {
           "word": "фотографироваться",
-          "gloss": "to take a photo together"
+          "gloss": "to have one's photo taken (impf)"
+        },
+        {
+          "word": "сфотографировать",
+          "gloss": "to photograph"
         },
         {
           "word": "фотография",
           "gloss": "photograph"
-        },
-        {
-          "word": "фотошоп",
-          "gloss": "Photoshop"
         }
       ]
     },
@@ -5291,7 +5265,7 @@
       "meanings": [
         {
           "en": "to see, to catch sight of",
-          "note": "Вот увидишь! = you'll see!. Prefix 'у-' marks departure, removal, or successful completion (stem 'видеть'). Used as a perfective (single completed action) verb meaning 'to see', paired with 'видеть'."
+          "note": "Вот увидишь! = you'll see!. Prefix 'у-' marks departure, removal, or successful completion (stem 'видеть')."
         }
       ],
       "forms": {
@@ -5346,6 +5320,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидь",
+                "увидьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5387,7 +5378,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {
@@ -5499,7 +5490,7 @@
       "meanings": [
         {
           "en": "background, backdrop",
-          "note": "Setting behind a subject. Common masculine noun meaning 'background' in everyday Russian."
+          "note": "Setting behind a subject."
         }
       ],
       "forms": {
@@ -5576,7 +5567,7 @@
       "meanings": [
         {
           "en": "photograph, photo",
-          "note": "Classical Greek compound borrowing ('фотография'), feminine noun. Common feminine noun meaning 'photograph, photo' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5671,7 +5662,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5726,6 +5717,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5762,7 +5770,7 @@
       "meanings": [
         {
           "en": "flower",
-          "note": "Irregular plural цветы (flowers). Common masculine noun meaning 'flower' in everyday Russian."
+          "note": "Irregular plural цветы (flowers)."
         }
       ],
       "forms": {
@@ -5777,14 +5785,14 @@
             "cells": [
               "nominative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {
             "cells": [
               "genitive",
               "цветка",
-              "цветов"
+              "цветков"
             ]
           },
           {
@@ -5798,7 +5806,7 @@
             "cells": [
               "accusative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {

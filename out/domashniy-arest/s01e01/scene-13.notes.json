@@ -329,8 +329,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "накажет",
@@ -484,7 +484,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "вы",
@@ -1223,8 +1223,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "накажет",
@@ -1378,7 +1378,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "вы",
@@ -2111,8 +2111,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "накажет",
@@ -2266,7 +2266,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "вы",
@@ -2752,13 +2752,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -2859,7 +2865,8 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "быть": {
       "lemma": "быть",
@@ -3027,7 +3034,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -3138,11 +3145,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3182,7 +3189,7 @@
       "meanings": [
         {
           "en": "to remember, to recall",
-          "note": "'вспомни' = remember (that) . Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'помнить'). Used as a perfective (single completed action) verb meaning 'to remember, to recall', paired with 'вспоминать'."
+          "note": "'вспомни' = remember (that) . Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'помнить')."
         }
       ],
       "forms": {
@@ -3368,11 +3375,11 @@
       "meanings": [
         {
           "en": "choice",
-          "note": "The plural 'выборы'. Common masculine noun meaning 'choice' in everyday Russian."
+          "note": "The plural 'выборы'."
         },
         {
           "en": "election(s)",
-          "note": "The plural 'выборы'. Common masculine noun meaning 'choice' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3545,11 +3552,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3660,11 +3667,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3691,36 +3698,6 @@
         {
           "word": "после",
           "gloss": "after"
-        }
-      ]
-    },
-    "до свидания": {
-      "lemma": "до свидания",
-      "stress": "до свида́ния",
-      "pos": "phrase",
-      "gloss": "goodbye",
-      "meanings": [
-        {
-          "en": "goodbye",
-          "note": "neutral and polite; literally 'until the meeting'"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания, Эдуард Владимирович.",
-          "trans": "Goodbye, Eduard Vladimirovich."
-        },
-        {
-          "text": "Спасибо, до свидания!",
-          "trans": "Thank you, goodbye!"
-        }
-      ],
-      "related": [
-        {
-          "word": "не до свидания",
-          "gloss": "negated / contrasted form (goodbye)"
         }
       ]
     },
@@ -3772,11 +3749,11 @@
       "meanings": [
         {
           "en": "to close, to shut",
-          "note": "'закрывать глаза на' + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to close, to shut', paired with 'закрыть'."
+          "note": "+ acc."
         },
         {
           "en": "to turn a blind eye",
-          "note": "'закрывать глаза на' + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to close, to shut', paired with 'закрыть'."
+          "note": "'закрывать глаза на' + accusative."
         }
       ],
       "forms": {
@@ -3889,11 +3866,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "A bell or phone."
         }
       ],
       "forms": {
@@ -4001,12 +3978,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -4061,6 +4036,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4080,17 +4072,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -4178,11 +4171,11 @@
       "meanings": [
         {
           "en": "history",
-          "note": "Something that happened. Common feminine noun meaning 'history; story' in everyday Russian."
+          "note": "Something that happened."
         },
         {
           "en": "story",
-          "note": "Something that happened. Common feminine noun meaning 'history; story' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4271,7 +4264,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -4380,7 +4373,7 @@
       "meanings": [
         {
           "en": "scoundrel, villain",
-          "note": "Strong but not obscene. Common masculine noun meaning 'scoundrel' in everyday Russian."
+          "note": "Strong but not obscene."
         }
       ],
       "forms": {
@@ -4560,7 +4553,7 @@
       "meanings": [
         {
           "en": "monastery",
-          "note": "Common masculine noun meaning 'monastery' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4847,7 +4840,7 @@
       "meanings": [
         {
           "en": "to punish",
-          "note": "+ accusative. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to punish', paired with 'наказывать'."
+          "note": "+ accusative; за + accusative for the reason."
         }
       ],
       "forms": {
@@ -5417,11 +5410,11 @@
       "meanings": [
         {
           "en": "to suggest",
-          "note": "+ accusative + dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to suggest, to offer', paired with 'предложить'."
+          "note": "+ accusative + dative."
         },
         {
           "en": "to offer",
-          "note": "+ accusative + dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to suggest, to offer', paired with 'предложить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5635,7 +5628,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5912,11 +5905,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5988,8 +5981,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -6106,11 +6107,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -6215,7 +6216,7 @@
       "meanings": [
         {
           "en": "to save, to rescue",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to save, to rescue', paired with 'спасать'."
+          "note": "+ accusative."
         }
       ],
       "forms": {
@@ -6324,7 +6325,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -6429,7 +6430,7 @@
       "meanings": [
         {
           "en": "to build",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to build', paired with 'построить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6541,7 +6542,7 @@
       "meanings": [
         {
           "en": "son",
-          "note": "Common masculine noun meaning 'son' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6621,108 +6622,26 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
-        },
-        {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
-        },
-        {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
-        }
-      ],
-      "related": []
-    },
-    "то есть": {
-      "lemma": "то есть",
-      "stress": "то е́сть",
-      "pos": "phrase",
-      "gloss": "that is, so",
-      "meanings": [
-        {
-          "en": "that is, in other words",
-          "note": "Checking what someone meant. Core Russian phrase meaning 'that is, so' in everyday speech."
-        },
-        {
-          "en": "so (you mean)",
-          "note": "Checking what someone meant. Core Russian phrase meaning 'that is, so' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "То есть просто стоять и смотреть?",
-          "trans": "So we just stand and watch?"
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "То есть ты не придёшь?",
-          "trans": "So you're not coming?"
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Я мэр, то есть был мэром.",
-          "trans": "I'm the mayor, I mean, I was."
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
-      "related": [
-        {
-          "word": "не то есть",
-          "gloss": "negated / contrasted form (that is)"
-        }
-      ]
+      "related": []
     },
     "тоже": {
       "lemma": "тоже",
@@ -6732,7 +6651,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6761,7 +6680,7 @@
       "meanings": [
         {
           "en": "trade, commercial",
-          "note": "Торговый центр = shopping centre. Agrees in gender, number, and case with the noun it modifies ('trade, shopping (adj.)')."
+          "note": "Торговый центр = shopping centre."
         }
       ],
       "forms": {
@@ -7003,7 +6922,7 @@
       "meanings": [
         {
           "en": "to fire, to sack",
-          "note": "Уволен = fired (short participle). Used as a perfective (single completed action) verb meaning 'to fire, to dismiss', paired with 'увольнять'."
+          "note": "Уволен = fired (short participle)."
         }
       ],
       "forms": {
@@ -7055,6 +6974,23 @@
                 "уволила",
                 "уволило",
                 "уволили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволь",
+                "увольте"
               ]
             }
           ]
@@ -7124,11 +7060,11 @@
       "meanings": [
         {
           "en": "to learn, to study",
-          "note": "Учить уроки = to do one's homework. Used as an imperfective (ongoing/repeated action) verb meaning 'to learn; to teach', paired with 'выучить'."
+          "note": "Учить уроки = to do one's homework."
         },
         {
           "en": "to teach",
-          "note": "+ accusative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to learn; to teach', paired with 'выучить'."
+          "note": "+ accusative of the person."
         }
       ],
       "forms": {
@@ -7237,7 +7173,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -7289,6 +7225,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

@@ -121,10 +121,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "Аркадий",
@@ -229,7 +229,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -376,7 +376,7 @@
           "pos": "pron",
           "stress": "не́кого",
           "gloss": "nobody",
-          "gram": "negative pronoun, genitive"
+          "gram": "negative pronoun, genitive / accusative"
         }
       ]
     },
@@ -673,10 +673,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "Аркадий",
@@ -781,7 +781,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -934,7 +934,7 @@
           "pos": "pron",
           "stress": "не́кого",
           "gloss": "nobody",
-          "gram": "negative pronoun, genitive"
+          "gram": "negative pronoun, genitive / accusative"
         }
       ]
     },
@@ -1231,10 +1231,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "Аркадий",
@@ -1339,7 +1339,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -1486,7 +1486,7 @@
           "pos": "pron",
           "stress": "не́кого",
           "gloss": "nobody",
-          "gram": "negative pronoun, genitive"
+          "gram": "negative pronoun, genitive / accusative"
         }
       ]
     },
@@ -1804,27 +1804,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Short passive participle",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "арестован",
-                "арестована",
-                "арестовано",
-                "арестованы"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -1860,7 +1839,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1961,7 +1940,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
+          "note": "+ genitive: 'бояться собак'."
         }
       ],
       "forms": {
@@ -2103,11 +2082,11 @@
       "meanings": [
         {
           "en": "to give back, to return",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "+ accusative."
         },
         {
           "en": "to get back",
-          "note": "Money you spent. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "Money you spent."
         }
       ],
       "forms": {
@@ -2219,7 +2198,7 @@
       "meanings": [
         {
           "en": "bribe",
-          "note": "'брать взятку' = to take a bribe. Common feminine noun meaning 'bribe' in everyday Russian."
+          "note": "'брать взятку' = to take a bribe."
         }
       ],
       "forms": {
@@ -2424,7 +2403,7 @@
       "meanings": [
         {
           "en": "town, city",
-          "note": "Common masculine noun meaning 'town, city' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2583,11 +2562,15 @@
       "related": [
         {
           "word": "гражданка",
-          "gloss": "citizen"
+          "gloss": "female citizen"
         },
         {
           "word": "гражданский",
           "gloss": "civil"
+        },
+        {
+          "word": "гражданство",
+          "gloss": "citizenship"
         }
       ]
     },
@@ -2599,7 +2582,7 @@
       "meanings": [
         {
           "en": "sad, gloomy",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('sad, gloomy')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2642,10 +2625,10 @@
           {
             "cells": [
               "accusative",
-              "грустный/грустного",
+              "грустный / грустного",
               "грустную",
               "грустное",
-              "грустные/грустных"
+              "грустные / грустных"
             ]
           },
           {
@@ -2699,7 +2682,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2822,11 +2804,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2893,70 +2875,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -3076,7 +3005,7 @@
       "meanings": [
         {
           "en": "committee",
-          "note": "Common masculine noun meaning 'committee' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3157,7 +3086,7 @@
       "meanings": [
         {
           "en": "secrecy, keeping things secret",
-          "note": "Like spies or underground groups. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'secrecy, cover' in everyday Russian."
+          "note": "Like spies or underground groups."
         }
       ],
       "forms": {
@@ -3172,42 +3101,42 @@
             "cells": [
               "nominative",
               "конспирация",
-              "—"
+              "конспирации"
             ]
           },
           {
             "cells": [
               "genitive",
               "конспирации",
-              "—"
+              "конспираций"
             ]
           },
           {
             "cells": [
               "dative",
               "конспирации",
-              "—"
+              "конспирациям"
             ]
           },
           {
             "cells": [
               "accusative",
               "конспирацию",
-              "—"
+              "конспирации"
             ]
           },
           {
             "cells": [
               "instrumental",
               "конспирацией",
-              "—"
+              "конспирациями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "конспирации",
-              "—"
+              "конспирациях"
             ]
           }
         ]
@@ -3229,12 +3158,16 @@
       ],
       "related": [
         {
-          "word": "консультация",
-          "gloss": "consultation"
+          "word": "тайна",
+          "gloss": "secret"
         },
         {
-          "word": "консистенция",
-          "gloss": "consistency"
+          "word": "секретность",
+          "gloss": "secrecy"
+        },
+        {
+          "word": "шпион",
+          "gloss": "spy"
         }
       ]
     },
@@ -3247,7 +3180,7 @@
       "meanings": [
         {
           "en": "crisis",
-          "note": "Often the economic crisis. Common masculine noun meaning 'crisis' in everyday Russian."
+          "note": "Often the economic crisis."
         }
       ],
       "forms": {
@@ -3320,7 +3253,11 @@
       "related": [
         {
           "word": "кризисный",
-          "gloss": "related to crisis (adj.)"
+          "gloss": "crisis (adj.)"
+        },
+        {
+          "word": "экономика",
+          "gloss": "economy"
         }
       ]
     },
@@ -3554,64 +3491,20 @@
           "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'кого')."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "некого"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "некогого"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "некогому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "некого"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "некогом"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "некогом"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
-        {
-          "text": "С похмелья работать некому?",
-          "trans": "Is there nobody to work because of a hangover?"
-        },
         {
           "text": "Нам здесь бояться некого.",
           "trans": "We have nobody to fear here."
         },
         {
-          "text": "Мне некого спросить.",
-          "trans": "I have nobody to ask."
+          "text": "С похмелья работать некому?",
+          "trans": "Is there nobody to work because everyone's hungover?"
+        },
+        {
+          "text": "Конечно, женить тут больше некого.",
+          "trans": "Of course, there's nobody else here to marry off."
         }
       ],
       "related": [
@@ -3620,12 +3513,12 @@
           "gloss": "nobody"
         },
         {
-          "word": "вот некого",
-          "gloss": "right here (there is nobody to)"
+          "word": "некогда",
+          "gloss": "there's no time"
         },
         {
-          "word": "именно некого",
-          "gloss": "precisely there is nobody to"
+          "word": "негде",
+          "gloss": "there's nowhere"
         }
       ]
     },
@@ -3717,7 +3610,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3793,7 +3686,7 @@
       "meanings": [
         {
           "en": "half a year, six months",
-          "note": "'через полгода' = in six months. Common masculine noun meaning 'half a year, six months' in everyday Russian."
+          "note": "'через полгода' = in six months."
         }
       ],
       "forms": {
@@ -3896,115 +3789,6 @@
         {
           "word": "почему-то",
           "gloss": "for some reason"
-        }
-      ]
-    },
-    "пройти": {
-      "lemma": "пройти",
-      "stress": "пройти́",
-      "pos": "verb",
-      "gloss": "to go through, to pass; to come along",
-      "aspect": "pf",
-      "pair": "проходить",
-      "meanings": [
-        {
-          "en": "to go (through), to pass",
-          "note": "about a feeling or pain: потом пройдёт = it'll pass"
-        },
-        {
-          "en": "come with me",
-          "note": "'Пройдёмте' = let's go, an official's polite order"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "пройду",
-              "пройдём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "пройдёшь",
-              "пройдёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "пройдёт",
-              "пройдут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "прошёл",
-                "прошла",
-                "прошло",
-                "прошли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "пройди",
-                "пройдите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Пройдёмте.",
-          "trans": "Come with me."
-        },
-        {
-          "text": "Пройдите, пожалуйста.",
-          "trans": "Go through, please."
-        },
-        {
-          "text": "Потом пройдёт.",
-          "trans": "Then it passes."
-        }
-      ],
-      "related": [
-        {
-          "word": "проходить",
-          "gloss": "to go through"
         }
       ]
     },
@@ -4164,10 +3948,10 @@
           {
             "cells": [
               "accusative",
-              "следственный/следственного",
+              "следственный / следственного",
               "следственную",
               "следственное",
-              "следственные/следственных"
+              "следственные / следственных"
             ]
           },
           {
@@ -4226,7 +4010,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -4333,7 +4117,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4438,16 +4222,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Ладно, сиди. Только тихо.",
+          "trans": "All right, sit down. Just keep quiet."
         }
       ],
       "related": [
@@ -4637,7 +4417,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4761,7 +4541,7 @@
       "meanings": [
         {
           "en": "spy",
-          "note": "Common masculine noun meaning 'spy' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

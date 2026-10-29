@@ -159,7 +159,7 @@
           "lemma": "сердце",
           "pos": "noun",
           "stress": "се́рдце",
-          "gloss": "heart (a bad heart)",
+          "gloss": "heart",
           "gram": "nominative singular, neuter"
         }
       ]
@@ -173,7 +173,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -235,7 +235,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -530,15 +530,15 @@
           "pos": "noun",
           "stress": "отноше́ния",
           "gloss": "relations, relationship",
-          "gram": "neuter plural, accusative"
+          "gram": "neuter plural, nominative/accusative"
         },
         {
           "t": "были",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бы́ли",
-          "gloss": "(there) be",
-          "gram": "past plural form after 'чтобы'"
+          "gloss": "were",
+          "gram": "past, plural"
         },
         {
           "t": "большой",
@@ -683,7 +683,7 @@
           "lemma": "дядя",
           "pos": "noun",
           "stress": "дя́дя",
-          "gloss": "Uncle",
+          "gloss": "uncle",
           "gram": "nominative singular, masculine"
         },
         {
@@ -762,7 +762,7 @@
           "pos": "adj",
           "stress": "друго́го",
           "gloss": "other, another, different",
-          "gram": "adj n gen"
+          "gram": "genitive/accusative singular, masculine/neuter"
         }
       ]
     },
@@ -861,7 +861,7 @@
           "lemma": "сердце",
           "pos": "noun",
           "stress": "се́рдце",
-          "gloss": "heart (a bad heart)",
+          "gloss": "heart",
           "gram": "nominative singular, neuter"
         }
       ]
@@ -875,7 +875,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1094,7 +1094,7 @@
           "pos": "adj",
           "stress": "друго́го",
           "gloss": "other, another, different",
-          "gram": "adj n gen"
+          "gram": "genitive/accusative singular, masculine/neuter"
         }
       ]
     },
@@ -1255,7 +1255,7 @@
           "lemma": "сердце",
           "pos": "noun",
           "stress": "се́рдце",
-          "gloss": "heart (a bad heart)",
+          "gloss": "heart",
           "gram": "nominative singular, neuter"
         }
       ]
@@ -1269,7 +1269,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1331,7 +1331,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1626,15 +1626,15 @@
           "pos": "noun",
           "stress": "отноше́ния",
           "gloss": "relations, relationship",
-          "gram": "neuter plural, accusative"
+          "gram": "neuter plural, nominative/accusative"
         },
         {
           "t": "были",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бы́ли",
-          "gloss": "(there) be",
-          "gram": "past plural form after 'чтобы'"
+          "gloss": "were",
+          "gram": "past, plural"
         },
         {
           "t": "большой",
@@ -1779,7 +1779,7 @@
           "lemma": "дядя",
           "pos": "noun",
           "stress": "дя́дя",
-          "gloss": "Uncle",
+          "gloss": "uncle",
           "gram": "nominative singular, masculine"
         },
         {
@@ -1858,7 +1858,7 @@
           "pos": "adj",
           "stress": "друго́го",
           "gloss": "other, another, different",
-          "gram": "adj n gen"
+          "gram": "genitive/accusative singular, masculine/neuter"
         }
       ]
     },
@@ -1928,7 +1928,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2294,11 +2294,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2363,84 +2363,6 @@
         {
           "word": "навсегда",
           "gloss": "forever"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2536,7 +2458,7 @@
       "meanings": [
         {
           "en": "to pour out, empty, dump (liquid) onto",
-          "note": "Takes accusative + на + accusative. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'лить'). Used as a perfective (single completed action) verb meaning 'to pour out, dump (liquid)', paired with 'выливать'."
+          "note": "Takes accusative + на + accusative. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'лить')."
         }
       ],
       "forms": {
@@ -2765,11 +2687,11 @@
       "meanings": [
         {
           "en": "young woman, girl",
-          "note": "Also 'girlfriend' (моя девушка). Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Also 'girlfriend' (моя девушка)."
         },
         {
           "en": "girlfriend",
-          "note": "Своя девушка. Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Своя девушка."
         }
       ],
       "forms": {
@@ -2849,7 +2771,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2940,7 +2862,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3153,11 +3079,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3186,11 +3112,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3230,7 +3156,7 @@
       "meanings": [
         {
           "en": "to finish, to end, to complete",
-          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить'). Used as a perfective (single completed action) verb meaning 'to finish, to complete', paired with 'заканчивать'."
+          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить')."
         }
       ],
       "forms": {
@@ -3379,7 +3305,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3455,7 +3381,7 @@
       "meanings": [
         {
           "en": "brief, concise",
-          "note": "Short in duration. Agrees in gender, number, and case with the noun it modifies ('brief, short')."
+          "note": "Short in duration."
         }
       ],
       "forms": {
@@ -3498,10 +3424,10 @@
           {
             "cells": [
               "accusative",
-              "краткий",
+              "краткий / краткого",
               "краткую",
               "краткое",
-              "краткие"
+              "краткие / кратких"
             ]
           },
           {
@@ -3538,11 +3464,15 @@
       "related": [
         {
           "word": "кратко",
-          "gloss": "in a brief way (adv.)"
+          "gloss": "briefly"
         },
         {
           "word": "краткость",
-          "gloss": "quality of being brief"
+          "gloss": "brevity"
+        },
+        {
+          "word": "короткий",
+          "gloss": "short"
         }
       ]
     },
@@ -3718,7 +3648,7 @@
       "meanings": [
         {
           "en": "milk",
-          "note": "Usually singular only. Common neuter noun meaning 'milk' in everyday Russian."
+          "note": "Usually singular only."
         }
       ],
       "forms": {
@@ -3790,16 +3720,16 @@
       ],
       "related": [
         {
-          "word": "молодец",
-          "gloss": "well done"
+          "word": "молочный",
+          "gloss": "milk, dairy (adj.)"
         },
         {
-          "word": "молодёжь",
-          "gloss": "youth"
+          "word": "сливки",
+          "gloss": "cream"
         },
         {
-          "word": "молодой",
-          "gloss": "young"
+          "word": "кефир",
+          "gloss": "kefir"
         }
       ]
     },
@@ -3971,7 +3901,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4173,7 +4103,7 @@
       "meanings": [
         {
           "en": "nature, temperament",
-          "note": "Personal disposition or essence. Common feminine noun meaning 'nature, character, disposition' in everyday Russian."
+          "note": "Personal disposition or essence."
         }
       ],
       "forms": {
@@ -4209,7 +4139,7 @@
             "cells": [
               "accusative",
               "натуру",
-              "натуры"
+              "натур"
             ]
           },
           {
@@ -4518,11 +4448,11 @@
       "meanings": [
         {
           "en": "relationship, relations (in plural отношения)",
-          "note": "Between people or groups. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attitude, relation; (pl.) relationship' in everyday Russian."
+          "note": "Between people or groups."
         },
         {
           "en": "attitude, treatment",
-          "note": "Towards someone or something. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attitude, relation; (pl.) relationship' in everyday Russian."
+          "note": "Towards someone or something."
         }
       ],
       "forms": {
@@ -4770,11 +4700,11 @@
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         },
         {
           "en": "to experience, to live through",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         }
       ],
       "forms": {
@@ -4881,7 +4811,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4921,11 +4851,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5063,7 +4993,7 @@
       "meanings": [
         {
           "en": "to admire, gaze at with pleasure/irony",
-          "note": "Look at with appreciation or irony. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to admire, take a look at', paired with 'любоваться'."
+          "note": "Look at with appreciation or irony."
         }
       ],
       "forms": {
@@ -5153,12 +5083,8 @@
           "gloss": "to admire"
         },
         {
-          "word": "любой",
-          "gloss": "any"
-        },
-        {
-          "word": "любопытно",
-          "gloss": "curiously"
+          "word": "смотреть",
+          "gloss": "to look"
         }
       ]
     },
@@ -5171,7 +5097,7 @@
       "meanings": [
         {
           "en": "help, assistance",
-          "note": "Common feminine noun meaning 'help' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5186,42 +5112,42 @@
             "cells": [
               "nominative",
               "помощь",
-              "—"
+              "помощи"
             ]
           },
           {
             "cells": [
               "genitive",
               "помощи",
-              "—"
+              "помощей"
             ]
           },
           {
             "cells": [
               "dative",
               "помощи",
-              "—"
+              "помощам"
             ]
           },
           {
             "cells": [
               "accusative",
               "помощь",
-              "—"
+              "помощи"
             ]
           },
           {
             "cells": [
               "instrumental",
               "помощью",
-              "—"
+              "помощами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "помощи",
-              "—"
+              "помощах"
             ]
           }
         ]
@@ -5253,7 +5179,7 @@
       "meanings": [
         {
           "en": "to say goodbye, take leave",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'прощаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to say goodbye, to bid farewell', paired with 'прощаться'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'прощаться')."
         }
       ],
       "forms": {
@@ -5347,8 +5273,8 @@
           "gloss": "farewell"
         },
         {
-          "word": "проще",
-          "gloss": "simpler"
+          "word": "до свидания",
+          "gloss": "goodbye"
         }
       ]
     },
@@ -5498,11 +5424,11 @@
       "meanings": [
         {
           "en": "simple, easy",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": "Простые люди = ordinary people."
         },
         {
           "en": "ordinary, common",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5847,7 +5773,7 @@
       "meanings": [
         {
           "en": "to save, to rescue",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to save, to rescue', paired with 'спасать'."
+          "note": "+ accusative."
         }
       ],
       "forms": {
@@ -6141,7 +6067,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -6442,7 +6368,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6547,7 +6473,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {
@@ -6647,48 +6573,6 @@
         {
           "word": "заходить",
           "gloss": "to come in"
-        }
-      ]
-    },
-    "хорошо": {
-      "lemma": "хорошо",
-      "stress": "хорошо́",
-      "pos": "adv",
-      "gloss": "well, good",
-      "meanings": [
-        {
-          "en": "well",
-          "note": "How something is done. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "good, fine",
-          "note": "As an answer. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Хорошо!",
-          "trans": "Good!"
-        },
-        {
-          "text": "Всё хорошо.",
-          "trans": "Everything's fine."
-        },
-        {
-          "text": "Хорошо! Там всё нормально.",
-          "trans": "Good! Everything's fine over there."
-        }
-      ],
-      "related": [
-        {
-          "word": "хороший",
-          "gloss": "good"
-        },
-        {
-          "word": "нехорошо",
-          "gloss": "not nice"
         }
       ]
     },

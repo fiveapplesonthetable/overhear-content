@@ -9,10 +9,10 @@
         {
           "t": "Здравствуйте!",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "Рада",
@@ -205,7 +205,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         },
         {
@@ -366,7 +366,7 @@
           "t": "скучное",
           "lemma": "скучный",
           "pos": "adj",
-          "stress": "скучно́е",
+          "stress": "ску́чное",
           "gloss": "boring, dull",
           "gram": "nominative / accusative neuter singular"
         },
@@ -666,9 +666,9 @@
           "t": "переводи",
           "lemma": "переводить",
           "pos": "verb",
-          "stress": "перево́ди",
-          "gloss": "to transfer, to move; to translate",
-          "gram": "conjugated verb"
+          "stress": "переводи́",
+          "gloss": "translate",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "это",
@@ -711,10 +711,10 @@
         {
           "t": "Здравствуйте!",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "Рада",
@@ -907,7 +907,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         },
         {
@@ -1068,7 +1068,7 @@
           "t": "скучное",
           "lemma": "скучный",
           "pos": "adj",
-          "stress": "скучно́е",
+          "stress": "ску́чное",
           "gloss": "boring, dull",
           "gram": "nominative / accusative neuter singular"
         },
@@ -1368,9 +1368,9 @@
           "t": "переводи",
           "lemma": "переводить",
           "pos": "verb",
-          "stress": "перево́ди",
-          "gloss": "to transfer, to move; to translate",
-          "gram": "conjugated verb"
+          "stress": "переводи́",
+          "gloss": "translate",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "это",
@@ -1413,10 +1413,10 @@
         {
           "t": "Здравствуйте!",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "Рада",
@@ -1609,7 +1609,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         },
         {
@@ -1770,7 +1770,7 @@
           "t": "скучное",
           "lemma": "скучный",
           "pos": "adj",
-          "stress": "скучно́е",
+          "stress": "ску́чное",
           "gloss": "boring, dull",
           "gram": "nominative / accusative neuter singular"
         },
@@ -2070,9 +2070,9 @@
           "t": "переводи",
           "lemma": "переводить",
           "pos": "verb",
-          "stress": "перево́ди",
-          "gloss": "to transfer, to move; to translate",
-          "gram": "conjugated verb"
+          "stress": "переводи́",
+          "gloss": "translate",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "это",
@@ -2284,7 +2284,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2504,11 +2504,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2563,6 +2563,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2591,84 +2608,6 @@
         {
           "word": "видеться",
           "gloss": "to see each other"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2974,7 +2913,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3016,11 +2955,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3051,11 +2990,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3202,11 +3141,11 @@
       "meanings": [
         {
           "en": "to come in, to step in",
-          "note": "Into a room. Used as a perfective (single completed action) verb meaning 'to come in, to drop in', paired with 'заходить'."
+          "note": "Into a room."
         },
         {
           "en": "to drop by",
-          "note": "To visit briefly. Used as a perfective (single completed action) verb meaning 'to come in, to drop in', paired with 'заходить'."
+          "note": "To visit briefly."
         }
       ],
       "forms": {
@@ -3338,70 +3277,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -3436,12 +3322,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3496,6 +3380,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3515,126 +3416,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
-        }
-      ]
-    },
-    "идти": {
-      "lemma": "идти",
-      "stress": "идти́",
-      "pos": "verb",
-      "gloss": "to go (on foot)",
-      "aspect": "impf",
-      "pair": "пойти",
-      "meanings": [
-        {
-          "en": "to go, to walk",
-          "note": "In one direction, now. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (on foot)', paired with 'пойти'."
-        },
-        {
-          "en": "идти на второй срок",
-          "note": "To run for a second term. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (on foot)', paired with 'пойти'."
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "иду",
-              "идём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "идёшь",
-              "идёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "идёт",
-              "идут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "шёл",
-                "шла",
-                "шло",
-                "шли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "иди",
-                "идите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я иду домой.",
-          "trans": "I'm going home."
-        },
-        {
-          "text": "Он идёт на второй срок.",
-          "trans": "He is running for a second term."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "ехать",
-          "gloss": "to go (by vehicle)"
-        }
-      ]
+      "aspect": "impf"
     },
     "лучше": {
       "lemma": "лучше",
@@ -3644,7 +3437,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3858,7 +3651,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4063,6 +3856,23 @@
                 "нравилась",
                 "нравилось",
                 "нравились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "нравься",
+                "нравьтесь"
               ]
             }
           ]
@@ -4316,11 +4126,11 @@
       "meanings": [
         {
           "en": "to move, to transfer (somewhere else)",
-          "note": "Переводить проект в Калугу. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'водить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to transfer, to move; to translate', paired with 'перевести'."
+          "note": "Переводить проект в Калугу. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'водить')."
         },
         {
           "en": "to translate",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'водить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to transfer, to move; to translate', paired with 'перевести'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'водить')."
         }
       ],
       "forms": {
@@ -4433,7 +4243,7 @@
       "meanings": [
         {
           "en": "to pass on, to hand over, to give",
-          "note": "+ accusative and dative (кому). Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to pass on, to hand over', paired with 'передавать'."
+          "note": "+ accusative and dative (кому). Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'дать')."
         }
       ],
       "forms": {
@@ -4544,7 +4354,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4619,7 +4429,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4810,123 +4620,6 @@
         }
       ]
     },
-    "проводить": {
-      "lemma": "проводить",
-      "stress": "проводи́ть",
-      "pos": "verb",
-      "gloss": "to see off, to see out",
-      "aspect": "pf",
-      "pair": "провожать",
-      "meanings": [
-        {
-          "en": "to see someone out, to see off",
-          "note": "accompany someone to the door or the station"
-        },
-        {
-          "en": "note",
-          "note": "a different, imperfective verb проводить means 'to conduct, to spend (time)'"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "провожу",
-              "проводим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "проводишь",
-              "проводите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "проводит",
-              "проводят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "проводил",
-                "проводила",
-                "проводило",
-                "проводили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "проводи",
-                "проводите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Проводите его, пожалуйста.",
-          "trans": "Please see him out."
-        },
-        {
-          "text": "Я тебя провожу.",
-          "trans": "I'll see you off."
-        },
-        {
-          "text": "Держи свои духи. Давай я тебя провожу. Пока!",
-          "trans": "Here is your perfume. Let me walk you out. Bye!"
-        }
-      ],
-      "related": [
-        {
-          "word": "провожать",
-          "gloss": "to see off"
-        },
-        {
-          "word": "переводить",
-          "gloss": "to transfer"
-        },
-        {
-          "word": "приводить",
-          "gloss": "to bring"
-        }
-      ]
-    },
     "просто": {
       "lemma": "просто",
       "stress": "про́сто",
@@ -5063,7 +4756,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -5210,7 +4903,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5301,15 +4994,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5321,7 +5014,7 @@
       "meanings": [
         {
           "en": "boring, dull",
-          "note": "Lacking excitement. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('boring, dull')."
+          "note": "Lacking excitement."
         }
       ],
       "forms": {
@@ -5364,10 +5057,10 @@
           {
             "cells": [
               "accusative",
-              "скучный",
+              "скучный / скучного",
               "скучную",
               "скучное",
-              "скучные"
+              "скучные / скучных"
             ]
           },
           {
@@ -5531,7 +5224,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5774,7 +5467,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,

@@ -351,7 +351,7 @@
           "lemma": "годиться",
           "pos": "verb",
           "stress": "годи́тся",
-          "gloss": "suits, works",
+          "gloss": "will do, is suitable",
           "gram": "3rd person singular present, imperfective"
         }
       ]
@@ -389,7 +389,7 @@
           "lemma": "сегодняшний",
           "pos": "adj",
           "stress": "сего́дняшнего",
-          "gloss": "of today's",
+          "gloss": "today's",
           "gram": "masculine genitive singular"
         },
         {
@@ -471,10 +471,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "там",
@@ -574,7 +574,7 @@
           "pos": "noun",
           "stress": "ве́черу",
           "gloss": "evening",
-          "gram": "accusative / dative singular"
+          "gram": "dative singular (к вечеру = by evening)"
         },
         {
           "t": "он",
@@ -959,7 +959,7 @@
           "lemma": "годиться",
           "pos": "verb",
           "stress": "годи́тся",
-          "gloss": "suits, works",
+          "gloss": "will do, is suitable",
           "gram": "3rd person singular present, imperfective"
         }
       ]
@@ -997,7 +997,7 @@
           "lemma": "сегодняшний",
           "pos": "adj",
           "stress": "сего́дняшнего",
-          "gloss": "of today's",
+          "gloss": "today's",
           "gram": "masculine genitive singular"
         },
         {
@@ -1079,10 +1079,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "там",
@@ -1182,7 +1182,7 @@
           "pos": "noun",
           "stress": "ве́черу",
           "gloss": "evening",
-          "gram": "accusative / dative singular"
+          "gram": "dative singular (к вечеру = by evening)"
         },
         {
           "t": "он",
@@ -1567,7 +1567,7 @@
           "lemma": "годиться",
           "pos": "verb",
           "stress": "годи́тся",
-          "gloss": "suits, works",
+          "gloss": "will do, is suitable",
           "gram": "3rd person singular present, imperfective"
         }
       ]
@@ -1605,7 +1605,7 @@
           "lemma": "сегодняшний",
           "pos": "adj",
           "stress": "сего́дняшнего",
-          "gloss": "of today's",
+          "gloss": "today's",
           "gram": "masculine genitive singular"
         },
         {
@@ -1687,10 +1687,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "там",
@@ -1790,7 +1790,7 @@
           "pos": "noun",
           "stress": "ве́черу",
           "gloss": "evening",
-          "gram": "accusative / dative singular"
+          "gram": "dative singular (к вечеру = by evening)"
         },
         {
           "t": "он",
@@ -2084,11 +2084,11 @@
       "meanings": [
         {
           "en": "to believe (someone or something)",
-          "note": "+ dative: верить мне. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "+ dative: верить мне."
         },
         {
           "en": "to believe in",
-          "note": "Верить в + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "Верить в + accusative."
         }
       ],
       "forms": {
@@ -2204,7 +2204,7 @@
         },
         {
           "en": "party, evening event",
-          "note": "E.g. a school evening. Common masculine noun meaning 'evening' in everyday Russian."
+          "note": "E.g. a school evening."
         }
       ],
       "forms": {
@@ -2297,7 +2297,7 @@
       "meanings": [
         {
           "en": "quite, fully, entirely",
-          "note": "Вполне достаточно = quite enough. Core Russian adv meaning 'quite, fully, entirely' in everyday speech."
+          "note": "Вполне достаточно = quite enough."
         }
       ],
       "forms": null,
@@ -2327,7 +2327,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -2597,13 +2597,13 @@
       "lemma": "годиться",
       "stress": "годи́ться",
       "pos": "verb",
-      "gloss": "suits, works",
+      "gloss": "to be suitable, to do",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "suits, works",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'suits, works'."
+          "en": "to be suitable, to do",
+          "note": "никуда не годится = it's no good at all; годится! = that'll do!"
         }
       ],
       "forms": {
@@ -2658,65 +2658,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "годись",
+                "годитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и годиться вовремя.",
-          "trans": "We need to do everything and suits on time."
+          "text": "Отлично, это мне вполне годится.",
+          "trans": "Great, that suits me just fine."
         },
         {
-          "text": "На нашей кухне все умеют годиться.",
-          "trans": "In our kitchen everyone knows how to suits."
+          "text": "Стоп. Это никуда не годится.",
+          "trans": "Stop. This is no good at all."
         }
       ],
       "related": [
         {
-          "word": "не годиться",
-          "gloss": "not to suits (negated infinitive)"
-        }
-      ]
-    },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
+          "word": "годный",
+          "gloss": "fit, usable"
         },
         {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
+          "word": "подходить",
+          "gloss": "to suit"
         }
       ]
     },
@@ -2730,11 +2708,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2825,15 +2807,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2845,11 +2827,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2891,7 +2873,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3059,11 +3041,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3334,7 +3316,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3356,7 +3338,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3410,7 +3396,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3446,7 +3432,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3584,12 +3570,10 @@
       "stress": "не́рвничать",
       "pos": "verb",
       "gloss": "to be nervous, get worked up",
-      "aspect": "impf",
-      "pair": "разнервничаться",
       "meanings": [
         {
           "en": "to be nervous, worry, get worked up",
-          "note": "Intransitive. Negative prefix 'не-' ('un-, non-, not') (stem 'рвничать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to be nervous, get worked up'."
+          "note": "Intransitive. From нерв; not a не- word. Perfective-like forms: понервничать (for a while), разнервничаться (get worked up)."
         }
       ],
       "forms": {
@@ -3680,9 +3664,18 @@
       "related": [
         {
           "word": "понервничать",
-          "gloss": "to be nervous"
+          "gloss": "to be nervous for a while"
+        },
+        {
+          "word": "разнервничаться",
+          "gloss": "to get all worked up"
+        },
+        {
+          "word": "волноваться",
+          "gloss": "to worry"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "он": {
       "lemma": "он",
@@ -3786,7 +3779,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -3956,7 +3949,7 @@
       "meanings": [
         {
           "en": "to make a bet, wager",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'спорить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to make a bet', forming an aspectual pair with 'спорить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'спорить')."
         }
       ],
       "forms": {
@@ -4051,11 +4044,11 @@
         },
         {
           "word": "спор",
-          "gloss": "bet"
+          "gloss": "argument; bet"
         },
         {
           "word": "проспорить",
-          "gloss": "lose a bet"
+          "gloss": "to lose a bet"
         }
       ]
     },
@@ -4280,11 +4273,11 @@
       "meanings": [
         {
           "en": "to receive, to see (a visitor)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to receive, to see (a visitor); to accept', paired with 'принимать'."
+          "note": ""
         },
         {
           "en": "to accept, to take",
-          "note": "Used as a perfective (single completed action) verb meaning 'to receive, to see (a visitor); to accept', paired with 'принимать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4336,6 +4329,23 @@
                 "приняла",
                 "приняло",
                 "приняли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "прими",
+                "примите"
               ]
             }
           ]
@@ -4504,7 +4514,7 @@
       "meanings": [
         {
           "en": "crowd, gathering",
-          "note": "Common neuter noun meaning 'crowd, gathering' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4519,42 +4529,42 @@
             "cells": [
               "nominative",
               "сборище",
-              "сборищя"
+              "сборища"
             ]
           },
           {
             "cells": [
               "genitive",
-              "сборищя",
-              "сборищей"
+              "сборища",
+              "сборищ"
             ]
           },
           {
             "cells": [
               "dative",
-              "сборищю",
-              "сборищям"
+              "сборищу",
+              "сборищам"
             ]
           },
           {
             "cells": [
               "accusative",
               "сборище",
-              "сборищя"
+              "сборища"
             ]
           },
           {
             "cells": [
               "instrumental",
               "сборищем",
-              "сборищями"
+              "сборищами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "сборище",
-              "сборищях"
+              "сборищах"
             ]
           }
         ]
@@ -4563,21 +4573,21 @@
       "examples": [
         {
           "text": "А что тут у вас за сборище?",
-          "trans": "And what is this gathering you have here?"
+          "trans": "And what's this gathering you've got here?"
         },
         {
-          "text": "На кухне ресторана всегда есть сборище.",
-          "trans": "In the restaurant kitchen there is always crowd."
+          "text": "Это не собрание, а какое-то сборище.",
+          "trans": "This isn't a meeting, it's some kind of mob."
         }
       ],
       "related": [
         {
-          "word": "без сборищ",
-          "gloss": "without crowd"
+          "word": "собрание",
+          "gloss": "meeting"
         },
         {
-          "word": "наш сборище",
-          "gloss": "our crowd"
+          "word": "толпа",
+          "gloss": "crowd"
         }
       ]
     },
@@ -4623,7 +4633,7 @@
       "meanings": [
         {
           "en": "today's, of today",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('today's')."
+          "note": "Agrees in gender, number, and case with the noun it modifies ('today's')."
         }
       ],
       "forms": {
@@ -4666,10 +4676,10 @@
           {
             "cells": [
               "accusative",
-              "сегодняшний",
+              "сегодняшний / сегодняшнего",
               "сегодняшнюю",
               "сегодняшнее",
-              "сегодняшние"
+              "сегодняшние / сегодняшних"
             ]
           },
           {
@@ -4722,11 +4732,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -4880,8 +4890,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4893,7 +4911,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5145,6 +5163,88 @@
           "gloss": "because"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "это": {
       "lemma": "это",

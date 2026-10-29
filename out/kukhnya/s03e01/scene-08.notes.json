@@ -128,7 +128,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         }
       ]
     },
@@ -158,7 +158,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне",
@@ -224,7 +224,7 @@
         },
         {
           "t": "родителям?",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́телям",
           "gloss": "to (my) parents",
@@ -624,7 +624,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         }
       ]
     },
@@ -654,7 +654,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне",
@@ -720,7 +720,7 @@
         },
         {
           "t": "родителям?",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́телям",
           "gloss": "to (my) parents",
@@ -1120,7 +1120,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         }
       ]
     },
@@ -1150,7 +1150,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне",
@@ -1216,7 +1216,7 @@
         },
         {
           "t": "родителям?",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́телям",
           "gloss": "to (my) parents",
@@ -1524,7 +1524,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
+          "note": "+ genitive: 'бояться собак'."
         }
       ],
       "forms": {
@@ -1818,7 +1818,7 @@
       "meanings": [
         {
           "en": "look, glance",
-          "note": "Common masculine noun meaning 'look, glance' in everyday Russian."
+          "note": ""
         },
         {
           "en": "view, opinion",
@@ -1996,11 +1996,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2042,11 +2042,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2194,11 +2194,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2230,15 +2230,15 @@
     },
     "забеременеть": {
       "lemma": "забеременеть",
-      "stress": "забереме́неть",
+      "stress": "забере́менеть",
       "pos": "verb",
-      "gloss": "got pregnant",
+      "gloss": "to get pregnant",
       "aspect": "pf",
-      "pair": null,
+      "pair": "беременеть",
       "meanings": [
         {
-          "en": "got pregnant",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'беременеть'). Used as a perfective (single completed action) verb meaning 'got pregnant'."
+          "en": "to get pregnant",
+          "note": ""
         }
       ],
       "forms": {
@@ -2293,6 +2293,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "забеременей",
+                "забеременейте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2301,14 +2318,18 @@
           "trans": "I got pregnant before the wedding."
         },
         {
-          "text": "Надо всё сделать и забеременеть вовремя.",
-          "trans": "We need to do everything and got pregnant on time."
+          "text": "У нас не получается забеременеть.",
+          "trans": "We can't seem to get pregnant."
         }
       ],
       "related": [
         {
-          "word": "не забеременеть",
-          "gloss": "not to got pregnant (negated infinitive)"
+          "word": "беременная",
+          "gloss": "pregnant"
+        },
+        {
+          "word": "беременность",
+          "gloss": "pregnancy"
         }
       ]
     },
@@ -2355,12 +2376,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2415,6 +2434,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2434,17 +2470,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "издеваться": {
       "lemma": "издеваться",
@@ -3002,11 +3039,11 @@
       "meanings": [
         {
           "en": "relationship, relations (in plural отношения)",
-          "note": "Between people or groups. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attitude, relation; (pl.) relationship' in everyday Russian."
+          "note": "Between people or groups."
         },
         {
           "en": "attitude, treatment",
-          "note": "Towards someone or something. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attitude, relation; (pl.) relationship' in everyday Russian."
+          "note": "Towards someone or something."
         }
       ],
       "forms": {
@@ -3455,16 +3492,17 @@
         }
       ]
     },
-    "родители": {
-      "lemma": "родители",
-      "stress": "роди́тели",
+    "родитель": {
+      "lemma": "родитель",
+      "stress": "роди́тель",
       "pos": "noun",
-      "gloss": "parents",
+      "gloss": "parent",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "parents (plural; singular родитель is formal)",
-          "note": "Common masculine noun meaning 'parents' in everyday Russian."
+          "en": "parent",
+          "note": "Usually plural: родители = parents."
         }
       ],
       "forms": {
@@ -3522,30 +3560,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Пожалуйста, родителям не говорите.",
-          "trans": "Please don't tell my parents."
+          "text": "Только, пожалуйста, родителям не говорите.",
+          "trans": "Just please don't tell my parents."
         },
         {
           "text": "Мои родители живут в деревне.",
           "trans": "My parents live in the country."
         },
         {
-          "text": "Я здесь работаю. Только, пожалуйста, родителям не говорите.",
-          "trans": "I work here. Just please don't tell my parents."
+          "text": "Возьмите свои работы и подарите родителям.",
+          "trans": "Take your work and give it to your parents."
         }
       ],
       "related": [
         {
-          "word": "родиться",
-          "gloss": "to be born"
+          "word": "родительский",
+          "gloss": "parental"
         },
         {
-          "word": "родина",
-          "gloss": "motherland"
+          "word": "родить",
+          "gloss": "to give birth"
         },
         {
-          "word": "зародить",
-          "gloss": "to engender"
+          "word": "родня",
+          "gloss": "kin"
         }
       ]
     },
@@ -3558,7 +3596,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -3616,8 +3654,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -3640,11 +3678,11 @@
       "meanings": [
         {
           "en": "to hide, conceal",
-          "note": "To keep from sight or knowledge. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide; to conceal', paired with 'скрыть'."
+          "note": "To keep from sight or knowledge."
         },
         {
           "en": "to withhold",
-          "note": "To withhold truth. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide; to conceal', paired with 'скрыть'."
+          "note": "To withhold truth."
         }
       ],
       "forms": {
@@ -3755,11 +3793,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -3802,10 +3840,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -3828,29 +3866,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",

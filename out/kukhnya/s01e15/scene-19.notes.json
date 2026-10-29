@@ -347,7 +347,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -715,7 +715,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1083,7 +1083,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1172,7 +1172,7 @@
         },
         {
           "en": "deliciously",
-          "note": "Вкусно готовить = to cook well. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Вкусно готовить = to cook well."
         }
       ],
       "forms": null,
@@ -1214,7 +1214,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1250,11 +1250,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -1345,15 +1349,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -1365,7 +1369,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -1456,7 +1460,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -1577,11 +1585,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -1617,10 +1625,11 @@
       "pos": "noun",
       "gloss": "breakfast",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "breakfast",
-          "note": "Morning meal. Common masculine noun meaning 'breakfast' in everyday Russian."
+          "note": "Morning meal."
         }
       ],
       "forms": {
@@ -1819,7 +1828,7 @@
       "meanings": [
         {
           "en": "apology (often plural: принести извинения = to offer apologies)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'apology, excuse' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2001,11 +2010,15 @@
       "related": [
         {
           "word": "покушать",
+          "gloss": "to have something to eat"
+        },
+        {
+          "word": "есть",
           "gloss": "to eat"
         },
         {
-          "word": "накушаться",
-          "gloss": "to get drunk"
+          "word": "кушать подано",
+          "gloss": "dinner is served"
         }
       ]
     },
@@ -2017,7 +2030,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2039,7 +2052,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2244,12 +2261,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "яйцо",
+          "gloss": "egg"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "яичница",
+          "gloss": "fried eggs"
         }
       ]
     },
@@ -2506,7 +2523,7 @@
       "meanings": [
         {
           "en": "to cook, to make (food), to prepare",
-          "note": "Takes accusative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'готовить'). Used as a perfective (single completed action) verb meaning 'to prepare, to cook, to make', paired with 'готовить'."
+          "note": "Takes accusative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'готовить')."
         }
       ],
       "forms": {
@@ -2710,67 +2727,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -2798,7 +2763,7 @@
       "meanings": [
         {
           "en": "to eat, to eat up",
-          "note": "A whole portion; completed action. Used as a perfective (single completed action) verb meaning 'to eat (up)', paired with 'есть'."
+          "note": "A whole portion; completed action."
         }
       ],
       "forms": {
@@ -2905,7 +2870,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -3007,21 +2972,29 @@
       "examples": [
         {
           "text": "А она типа не при делах.",
-          "trans": "And she acts like she had nothing to do with it."
+          "trans": "And she's, like, got nothing to do with it."
         },
         {
-          "text": "Да я не про это. Кто этот тип в коридоре?",
-          "trans": "That's not what I mean. Who was that guy in the corridor?"
+          "text": "Это типа омлет.",
+          "trans": "This is sort of an omelette."
+        },
+        {
+          "text": "Это типа извинения?",
+          "trans": "Is that, like, an apology?"
         }
       ],
       "related": [
         {
-          "word": "так",
-          "gloss": "so, thus"
+          "word": "вроде",
+          "gloss": "like, sort of"
         },
         {
-          "word": "уже",
-          "gloss": "already"
+          "word": "как бы",
+          "gloss": "kind of, sort of"
+        },
+        {
+          "word": "тип",
+          "gloss": "type; guy"
         }
       ]
     },
@@ -3034,7 +3007,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {

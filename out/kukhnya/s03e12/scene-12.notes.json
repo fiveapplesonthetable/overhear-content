@@ -35,7 +35,7 @@
           "lemma": "сдать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to rent out",
+          "gloss": "to return, hand in",
           "gram": "infinitive"
         },
         {
@@ -292,7 +292,7 @@
           "pos": "verb",
           "stress": "вы́сохнет",
           "gloss": "dries",
-          "gram": "3rd person singular, future"
+          "gram": "3rd person singular future, perfective"
         }
       ]
     },
@@ -616,7 +616,7 @@
           "pos": "adj",
           "stress": null,
           "gloss": "black",
-          "gram": "instrumental singular / dative plural"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "цветом",
@@ -640,7 +640,7 @@
           "pos": "verb",
           "stress": "перекра́шу",
           "gloss": "I will repaint",
-          "gram": "1st person singular, future"
+          "gram": "1st person singular future, perfective"
         }
       ]
     },
@@ -747,7 +747,7 @@
           "lemma": "сдать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to rent out",
+          "gloss": "to return, hand in",
           "gram": "infinitive"
         },
         {
@@ -1004,7 +1004,7 @@
           "pos": "verb",
           "stress": "вы́сохнет",
           "gloss": "dries",
-          "gram": "3rd person singular, future"
+          "gram": "3rd person singular future, perfective"
         }
       ]
     },
@@ -1328,7 +1328,7 @@
           "pos": "adj",
           "stress": null,
           "gloss": "black",
-          "gram": "instrumental singular / dative plural"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "цветом",
@@ -1352,7 +1352,7 @@
           "pos": "verb",
           "stress": "перекра́шу",
           "gloss": "I will repaint",
-          "gram": "1st person singular, future"
+          "gram": "1st person singular future, perfective"
         }
       ]
     },
@@ -1459,7 +1459,7 @@
           "lemma": "сдать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to rent out",
+          "gloss": "to return, hand in",
           "gram": "infinitive"
         },
         {
@@ -1716,7 +1716,7 @@
           "pos": "verb",
           "stress": "вы́сохнет",
           "gloss": "dries",
-          "gram": "3rd person singular, future"
+          "gram": "3rd person singular future, perfective"
         }
       ]
     },
@@ -2040,7 +2040,7 @@
           "pos": "adj",
           "stress": null,
           "gloss": "black",
-          "gram": "instrumental singular / dative plural"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "цветом",
@@ -2064,7 +2064,7 @@
           "pos": "verb",
           "stress": "перекра́шу",
           "gloss": "I will repaint",
-          "gram": "1st person singular, future"
+          "gram": "1st person singular future, perfective"
         }
       ]
     },
@@ -2440,7 +2440,7 @@
         },
         {
           "en": "what if (in hypotheses)",
-          "note": "А вдруг... = what if. Core Russian adv meaning 'suddenly; all of a sudden' in everyday speech."
+          "note": "А вдруг... = what if."
         }
       ],
       "forms": null,
@@ -2614,84 +2614,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2776,15 +2698,15 @@
     },
     "высохнуть": {
       "lemma": "высохнуть",
-      "stress": "высо́хнуть",
+      "stress": "вы́сохнуть",
       "pos": "verb",
-      "gloss": "dries",
+      "gloss": "to dry (out)",
       "aspect": "pf",
-      "pair": null,
+      "pair": "высыхать",
       "meanings": [
         {
-          "en": "dries",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'сохнуть'). Used as a perfective (single completed action) verb meaning 'dries'."
+          "en": "to dry, to dry out",
+          "note": ""
         }
       ],
       "forms": {
@@ -2832,10 +2754,27 @@
             {
               "cells": [
                 "past",
-                "высохнул",
-                "высохнула",
-                "высохнуло",
-                "высохнули"
+                "высох",
+                "высохла",
+                "высохло",
+                "высохли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "высохни",
+                "высохните"
               ]
             }
           ]
@@ -2843,18 +2782,22 @@
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и высохнуть вовремя.",
-          "trans": "We need to do everything and dries on time."
+          "text": "Тут ловушка, сижу и жду, пока высохнет.",
+          "trans": "It's a trap here, I'm sitting and waiting for it to dry."
         },
         {
-          "text": "На нашей кухне все умеют высохнуть.",
-          "trans": "In our kitchen everyone knows how to dries."
+          "text": "У жены ещё слёзы не высохли!",
+          "trans": "My wife's tears haven't even dried yet!"
         }
       ],
       "related": [
         {
-          "word": "не высохнуть",
-          "gloss": "not to dries (negated infinitive)"
+          "word": "сохнуть",
+          "gloss": "to dry"
+        },
+        {
+          "word": "сухой",
+          "gloss": "dry"
         }
       ]
     },
@@ -2868,11 +2811,11 @@
       "meanings": [
         {
           "en": "to go out, to come out",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить')."
         },
         {
           "en": "to get out (of prison, arrest)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2985,11 +2928,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3198,11 +3141,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3233,11 +3176,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3457,7 +3400,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -3530,7 +3473,7 @@
       "meanings": [
         {
           "en": "cinema, movies",
-          "note": "Film theater or cinematic art. Common neuter noun meaning 'cinema, movies, film' in everyday Russian."
+          "note": "Film theater or cinematic art."
         }
       ],
       "forms": {
@@ -3545,42 +3488,42 @@
             "cells": [
               "nominative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "genitive",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "dative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "accusative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "instrumental",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "prepositional",
               "кино",
-              "—"
+              "кино"
             ]
           }
         ]
@@ -3611,7 +3554,7 @@
       "meanings": [
         {
           "en": "room",
-          "note": "In a flat or house. Common feminine noun meaning 'room' in everyday Russian."
+          "note": "In a flat or house."
         }
       ],
       "forms": {
@@ -3702,7 +3645,7 @@
       "meanings": [
         {
           "en": "to paint, to dye, to color",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to paint', forming an aspectual pair with 'покрасить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": ""
         }
       ],
       "forms": {
@@ -3793,15 +3736,15 @@
       "related": [
         {
           "word": "покрасить",
-          "gloss": "to dye"
+          "gloss": "to paint, to dye (pf)"
         },
         {
-          "word": "красота",
-          "gloss": "beauty"
+          "word": "краска",
+          "gloss": "paint, dye"
         },
         {
-          "word": "украсть",
-          "gloss": "to steal"
+          "word": "краситель",
+          "gloss": "dye, colouring"
         }
       ]
     },
@@ -3811,10 +3754,11 @@
       "pos": "noun",
       "gloss": "trap",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "trap",
-          "note": "Common feminine noun meaning 'trap' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3836,7 +3780,7 @@
             "cells": [
               "genitive",
               "ловушки",
-              "ловушк"
+              "ловушек"
             ]
           },
           {
@@ -3872,60 +3816,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тут ловушка, сижу и жду, пока высохнет.",
-          "trans": "It is a trap here, I am sitting and waiting until it dries."
+          "text": "Мы заманим его в ловушку.",
+          "trans": "We'll lure him into a trap."
         },
         {
-          "text": "На кухне ресторана всегда есть ловушка.",
-          "trans": "In the restaurant kitchen there is always trap."
+          "text": "Это же ловушка!",
+          "trans": "It's a trap!"
         }
       ],
       "related": [
         {
-          "word": "без ловушк",
-          "gloss": "without trap"
+          "word": "ловить",
+          "gloss": "to catch"
         },
         {
-          "word": "наш ловушка",
-          "gloss": "our trap"
-        }
-      ]
-    },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
+          "word": "капкан",
+          "gloss": "snare"
         }
       ]
     },
@@ -3939,7 +3845,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3991,6 +3897,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4107,7 +4030,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4487,12 +4410,12 @@
       "stress": "очки́",
       "pos": "noun",
       "gloss": "glasses, spectacles",
-      "gender": "m",
       "number": "pl",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "glasses, spectacles",
-          "note": "Plural-only noun in this sense. Common plural-only noun meaning 'glasses, spectacles' in everyday Russian."
+          "note": "Plural-only noun in this sense."
         }
       ],
       "forms": {
@@ -4568,13 +4491,13 @@
       "lemma": "перекрасить",
       "stress": "перекра́сить",
       "pos": "verb",
-      "gloss": "I will repaint",
+      "gloss": "to repaint",
       "aspect": "pf",
-      "pair": null,
+      "pair": "перекрашивать",
       "meanings": [
         {
-          "en": "I will repaint",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'красить'). Used as a perfective (single completed action) verb meaning 'I will repaint'."
+          "en": "to repaint; to dye (a different colour)",
+          "note": ""
         }
       ],
       "forms": {
@@ -4629,22 +4552,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "перекрась",
+                "перекрасьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и перекрасить вовремя.",
-          "trans": "We need to do everything and I will repaint on time."
+          "text": "Может, я чёрным цветом пол перекрашу?",
+          "trans": "Maybe I'll repaint the floor black?"
         },
         {
-          "text": "На нашей кухне все умеют перекрасить.",
-          "trans": "In our kitchen everyone knows how to I will repaint."
+          "text": "Она перекрасила волосы.",
+          "trans": "She dyed her hair a different colour."
         }
       ],
       "related": [
         {
-          "word": "не перекрасить",
-          "gloss": "not to I will repaint (negated infinitive)"
+          "word": "красить",
+          "gloss": "to paint"
+        },
+        {
+          "word": "покрасить",
+          "gloss": "to paint (pf)"
         }
       ]
     },
@@ -4691,7 +4635,7 @@
       "meanings": [
         {
           "en": "to dye, paint, color",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'красить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to dye', forming an aspectual pair with 'красить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'красить')."
         }
       ],
       "forms": {
@@ -4746,6 +4690,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "покрась",
+                "покрасьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4765,15 +4726,15 @@
       "related": [
         {
           "word": "красить",
-          "gloss": "to paint"
+          "gloss": "to paint, to dye"
         },
         {
-          "word": "красота",
-          "gloss": "beauty"
+          "word": "краска",
+          "gloss": "paint, dye"
         },
         {
-          "word": "украсть",
-          "gloss": "to steal"
+          "word": "перекрасить",
+          "gloss": "to repaint"
         }
       ]
     },
@@ -4786,7 +4747,7 @@
       "meanings": [
         {
           "en": "floor",
-          "note": "На полу = on the floor. Common masculine noun meaning 'floor' in everyday Russian."
+          "note": "На полу = on the floor."
         }
       ],
       "forms": {
@@ -4821,8 +4782,8 @@
           {
             "cells": [
               "accusative",
-              "пол",
-              "полы"
+              "пола",
+              "полов"
             ]
           },
           {
@@ -4835,7 +4796,7 @@
           {
             "cells": [
               "prepositional",
-              "поле (на полу)",
+              "поле",
               "полах"
             ]
           }
@@ -4923,6 +4884,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4954,7 +4932,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4979,13 +4957,14 @@
       "lemma": "пригодиться",
       "stress": "пригоди́ться",
       "pos": "verb",
-      "gloss": "will come in handy",
+      "gloss": "to come in handy, to be useful",
       "aspect": "pf",
       "pair": null,
+      "governs": "dat",
       "meanings": [
         {
-          "en": "will come in handy",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'годиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'will come in handy'."
+          "en": "to come in handy, to prove useful",
+          "note": "кому-то"
         }
       ],
       "forms": {
@@ -5040,22 +5019,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пригодись",
+                "пригодитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и пригодиться вовремя.",
-          "trans": "We need to do everything and will come in handy on time."
+          "text": "Ничего, вдруг они нам ещё пригодятся?",
+          "trans": "Never mind, what if they come in handy for us later?"
         },
         {
-          "text": "На нашей кухне все умеют пригодиться.",
-          "trans": "In our kitchen everyone knows how to will come in handy."
+          "text": "Возьми зонт, он тебе пригодится.",
+          "trans": "Take an umbrella, you'll need it."
         }
       ],
       "related": [
         {
-          "word": "не пригодиться",
-          "gloss": "not to will come in handy (negated infinitive)"
+          "word": "годиться",
+          "gloss": "to be fit, to do"
+        },
+        {
+          "word": "полезный",
+          "gloss": "useful"
         }
       ]
     },
@@ -5107,12 +5107,20 @@
       "pair": "сдавать",
       "meanings": [
         {
-          "en": "to return, to hand back, to turn in",
-          "note": "A rented car, key, or ticket. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to return, to hand in; to pass (an exam)', paired with 'сдавать'."
+          "en": "to return, hand back, turn in",
+          "note": "сдать машину = to return the car"
         },
         {
-          "en": "to pass",
-          "note": "An exam: сдать экзамен. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to return, to hand in; to pass (an exam)', paired with 'сдавать'."
+          "en": "to pass (an exam)",
+          "note": "сдать экзамен"
+        },
+        {
+          "en": "to rent out",
+          "note": "сдать комнату"
+        },
+        {
+          "en": "to rat out, turn in",
+          "note": "colloquial: Спасибо, что не сдал меня."
         }
       ],
       "forms": {
@@ -5203,15 +5211,15 @@
       "related": [
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to take (an exam); to hand in (impf)"
         },
         {
-          "word": "дать",
-          "gloss": "to give"
+          "word": "сдаться",
+          "gloss": "to give up"
         },
         {
-          "word": "отдать",
-          "gloss": "to give"
+          "word": "сдача",
+          "gloss": "change (money)"
         }
       ]
     },
@@ -5334,7 +5342,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5425,15 +5433,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5447,11 +5455,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -5546,39 +5554,6 @@
         }
       ]
     },
-    "совсем": {
-      "lemma": "совсем",
-      "stress": "совсе́м",
-      "pos": "adv",
-      "gloss": "quite, completely; (not) at all",
-      "meanings": [
-        {
-          "en": "completely, quite",
-          "note": "Совсем не."
-        },
-        {
-          "en": "not at all",
-          "note": "Совсем не."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я совсем не это хочу сказать.",
-          "trans": "That's not what I mean at all."
-        },
-        {
-          "text": "Он совсем один.",
-          "trans": "He's completely alone."
-        },
-        {
-          "text": "Нет, Вика, я совсем не это хочу сказать.",
-          "trans": "No, Vika, that's not what I mean at all."
-        }
-      ],
-      "related": []
-    },
     "стена": {
       "lemma": "стена",
       "stress": "стена́",
@@ -5588,7 +5563,7 @@
       "meanings": [
         {
           "en": "wall",
-          "note": "Of a room, building or fortress. Common feminine noun meaning 'wall' in everyday Russian."
+          "note": "Of a room, building or fortress."
         }
       ],
       "forms": {
@@ -5739,7 +5714,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5947,7 +5922,7 @@
         },
         {
           "en": "that's enough!",
-          "note": "Хватит!. Used as a perfective (single completed action) verb meaning 'to be enough', paired with 'хватать'."
+          "note": "Хватит!."
         }
       ],
       "forms": {
@@ -6002,6 +5977,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хвати",
+                "хватите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6021,15 +6013,15 @@
       "related": [
         {
           "word": "хватать",
-          "gloss": "to grab"
+          "gloss": "to be enough (impf); to grab"
         },
         {
-          "word": "схватить",
-          "gloss": "to grab"
+          "word": "хватит!",
+          "gloss": "that's enough!"
         },
         {
-          "word": "перехватить",
-          "gloss": "to intercept"
+          "word": "достаточно",
+          "gloss": "enough"
         }
       ]
     },
@@ -6042,7 +6034,7 @@
       "meanings": [
         {
           "en": "landlady, female owner, mistress of the house",
-          "note": "Common feminine noun meaning 'landlady, hostess, mistress of the house' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6136,7 +6128,7 @@
       "meanings": [
         {
           "en": "colour",
-          "note": "Common masculine noun meaning 'colour' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6319,7 +6311,7 @@
       "meanings": [
         {
           "en": "black",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('black')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6362,10 +6354,10 @@
           {
             "cells": [
               "accusative",
-              "чёрный",
+              "чёрный / чёрного",
               "чёрную",
               "чёрное",
-              "чёрные"
+              "чёрные / чёрных"
             ]
           },
           {
@@ -6405,8 +6397,16 @@
       ],
       "related": [
         {
-          "word": "чёрно",
-          "gloss": "in a black way (adv.)"
+          "word": "белый",
+          "gloss": "white"
+        },
+        {
+          "word": "темнота",
+          "gloss": "darkness"
+        },
+        {
+          "word": "чёрная икра",
+          "gloss": "black caviar"
         }
       ]
     },

@@ -51,7 +51,7 @@
           "lemma": "пара",
           "pos": "noun",
           "stress": "па́ры",
-          "gloss": "a couple",
+          "gloss": "pairs",
           "gram": "feminine genitive singular"
         }
       ]
@@ -194,7 +194,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -398,7 +398,7 @@
           "pos": "verb",
           "stress": "дади́те",
           "gloss": "will give",
-          "gram": "2nd person plural / imperative"
+          "gram": "future, 2nd person plural, perfective"
         },
         {
           "t": "мне",
@@ -482,9 +482,9 @@
           "t": "держите?",
           "lemma": "держать",
           "pos": "verb",
-          "stress": "держи́те",
-          "gloss": "hold",
-          "gram": "imperative, polite (вы), imperfective"
+          "stress": "де́ржите",
+          "gloss": "take (me for)",
+          "gram": "present, 2nd person plural, imperfective"
         }
       ]
     },
@@ -699,7 +699,7 @@
           "lemma": "пара",
           "pos": "noun",
           "stress": "па́ры",
-          "gloss": "a couple",
+          "gloss": "pairs",
           "gram": "feminine genitive singular"
         }
       ]
@@ -842,7 +842,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1046,7 +1046,7 @@
           "pos": "verb",
           "stress": "дади́те",
           "gloss": "will give",
-          "gram": "2nd person plural / imperative"
+          "gram": "future, 2nd person plural, perfective"
         },
         {
           "t": "мне",
@@ -1130,9 +1130,9 @@
           "t": "держите?",
           "lemma": "держать",
           "pos": "verb",
-          "stress": "держи́те",
-          "gloss": "hold",
-          "gram": "imperative, polite (вы), imperfective"
+          "stress": "де́ржите",
+          "gloss": "take (me for)",
+          "gram": "present, 2nd person plural, imperfective"
         }
       ]
     },
@@ -1347,7 +1347,7 @@
           "lemma": "пара",
           "pos": "noun",
           "stress": "па́ры",
-          "gloss": "a couple",
+          "gloss": "pairs",
           "gram": "feminine genitive singular"
         }
       ]
@@ -1490,7 +1490,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1694,7 +1694,7 @@
           "pos": "verb",
           "stress": "дади́те",
           "gloss": "will give",
-          "gram": "2nd person plural / imperative"
+          "gram": "future, 2nd person plural, perfective"
         },
         {
           "t": "мне",
@@ -1778,9 +1778,9 @@
           "t": "держите?",
           "lemma": "держать",
           "pos": "verb",
-          "stress": "держи́те",
-          "gloss": "hold",
-          "gram": "imperative, polite (вы), imperfective"
+          "stress": "де́ржите",
+          "gloss": "take (me for)",
+          "gram": "present, 2nd person plural, imperfective"
         }
       ]
     },
@@ -1963,7 +1963,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1978,7 +1978,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2462,14 +2462,15 @@
     },
     "глупец": {
       "lemma": "глупец",
-      "stress": "глу́пец",
+      "stress": "глупе́ц",
       "pos": "noun",
       "gloss": "fool",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "fool",
-          "note": "Common masculine noun meaning 'fool' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2504,8 +2505,8 @@
           {
             "cells": [
               "accusative",
-              "глупец",
-              "глупцы"
+              "глупца",
+              "глупцов"
             ]
           },
           {
@@ -2527,26 +2528,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Спрашивать так в лоб очень глупо.",
-          "trans": "Asking her so bluntly is very foolish."
-        },
-        {
-          "text": "Даже совсем глупо, я бы сказал.",
-          "trans": "Even completely foolish, I would say."
-        },
-        {
           "text": "Вы меня тут за глупца держите?",
-          "trans": "Do you take me for a fool here?"
+          "trans": "Do you take me for a fool?"
+        },
+        {
+          "text": "Быстро уберите её во двор, глупцы!",
+          "trans": "Get her out into the yard, quick, you fools!"
+        },
+        {
+          "text": "Кошмар, это на глупцов рассчитано.",
+          "trans": "Awful, this is meant for fools."
         }
       ],
       "related": [
         {
-          "word": "без глупе",
-          "gloss": "without fool"
+          "word": "глупый",
+          "gloss": "stupid"
         },
         {
-          "word": "наш глупец",
-          "gloss": "our fool"
+          "word": "дурак",
+          "gloss": "fool"
         }
       ]
     },
@@ -2560,7 +2561,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2651,11 +2652,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2697,7 +2698,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2788,11 +2788,11 @@
         },
         {
           "en": "here you are!",
-          "note": "imperative держи! when handing something over"
+          "note": ""
         },
         {
           "en": "catch!, grab (him)!",
-          "note": "Держи его!. Used as an imperfective (ongoing/repeated action) verb meaning 'to hold'."
+          "note": "Держи его!."
         }
       ],
       "forms": {
@@ -2907,7 +2907,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2998,11 +2998,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3069,11 +3069,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3259,7 +3259,7 @@
       "meanings": [
         {
           "en": "intrigue",
-          "note": "Common feminine noun meaning 'intrigue' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3327,12 +3327,12 @@
       ],
       "related": [
         {
-          "word": "без интриг",
-          "gloss": "without intrigue"
+          "word": "интрижка",
+          "gloss": "fling, affair"
         },
         {
-          "word": "наш интрига",
-          "gloss": "our intrigue"
+          "word": "интриговать",
+          "gloss": "to intrigue"
         }
       ]
     },
@@ -3344,7 +3344,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3445,14 +3445,18 @@
     },
     "комбинация": {
       "lemma": "комбинация",
-      "stress": "комбинаци́я",
+      "stress": "комбина́ция",
       "pos": "noun",
-      "gloss": "combination / hand",
+      "gloss": "combination; hand (in cards)",
       "gender": "f",
       "meanings": [
         {
-          "en": "combination / hand",
-          "note": "International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'combination / hand' in everyday Russian."
+          "en": "combination",
+          "note": ""
+        },
+        {
+          "en": "hand (in poker)",
+          "note": ""
         }
       ],
       "forms": {
@@ -3511,21 +3515,21 @@
       "examples": [
         {
           "text": "У меня тоже сильная полная комбинация.",
-          "trans": "I also have a strong full combination."
+          "trans": "I've also got a strong full hand."
         },
         {
-          "text": "На кухне отеля всегда есть комбинация.",
-          "trans": "In the hotel kitchen there is always combination."
+          "text": "Это выигрышная комбинация.",
+          "trans": "That's a winning combination."
         }
       ],
       "related": [
         {
-          "word": "без комбинаци",
-          "gloss": "without combination"
+          "word": "комбинатор",
+          "gloss": "schemer"
         },
         {
-          "word": "наш комбинация",
-          "gloss": "our combination"
+          "word": "сочетание",
+          "gloss": "combination"
         }
       ]
     },
@@ -3537,11 +3541,11 @@
       "meanings": [
         {
           "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive plural: много дел."
         },
         {
           "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Comparative."
         }
       ],
       "forms": null,
@@ -3703,7 +3707,7 @@
       "meanings": [
         {
           "en": "small, not large, modest",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой'). Agrees in gender, number, and case with the noun it modifies ('small, modest')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой')."
         }
       ],
       "forms": {
@@ -3746,10 +3750,10 @@
           {
             "cells": [
               "accusative",
-              "небольшой",
+              "небольшой / небольшого",
               "небольшую",
               "небольшое",
-              "небольшие"
+              "небольшие / небольших"
             ]
           },
           {
@@ -3806,7 +3810,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -3892,7 +3896,7 @@
       "meanings": [
         {
           "en": "to cheat, to deceive, to trick",
-          "note": "Меня обманули = I've been cheated. Used as a perfective (single completed action) verb meaning 'to cheat, to deceive', paired with 'обманывать'."
+          "note": "Меня обманули = I've been cheated."
         }
       ],
       "forms": {
@@ -4108,7 +4112,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4205,10 +4209,11 @@
       "pos": "noun",
       "gloss": "extension / delay",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "extension / delay",
-          "note": "Common feminine noun meaning 'extension / delay' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4230,7 +4235,7 @@
             "cells": [
               "genitive",
               "отсрочки",
-              "отсрочк"
+              "отсрочек"
             ]
           },
           {
@@ -4267,21 +4272,21 @@
       "examples": [
         {
           "text": "Вы дадите мне небольшую отсрочку сегодня?",
-          "trans": "Will you give me a small extension today?"
+          "trans": "Will you give me a short extension today?"
         },
         {
-          "text": "На кухне отеля всегда есть отсрочка.",
-          "trans": "In the hotel kitchen there is always extension."
+          "text": "Банк дал нам отсрочку платежа.",
+          "trans": "The bank gave us a payment deferral."
         }
       ],
       "related": [
         {
-          "word": "без отсрочк",
-          "gloss": "without extension"
+          "word": "срок",
+          "gloss": "deadline, term"
         },
         {
-          "word": "наш отсрочка",
-          "gloss": "our extension"
+          "word": "отсрочить",
+          "gloss": "to postpone"
         }
       ]
     },
@@ -4332,11 +4337,11 @@
       "meanings": [
         {
           "en": "pair, couple",
-          "note": "Common feminine noun meaning 'pair, couple, match' in everyday Russian."
+          "note": ""
         },
         {
           "en": "match (in a relationship: я не пара вам = I'm no match for you)",
-          "note": "Common feminine noun meaning 'pair, couple, match' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4525,7 +4530,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4744,11 +4749,11 @@
       "meanings": [
         {
           "en": "to calculate, to estimate",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'считать'). Used as a perfective (single completed action) verb meaning 'to calculate, to judge', paired with 'рассчитывать'."
+          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'считать')."
         },
         {
           "en": "не рассчитать — to misjudge (strength, distance)",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'считать'). Used as a perfective (single completed action) verb meaning 'to calculate, to judge', paired with 'рассчитывать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4865,7 +4870,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -5109,12 +5114,12 @@
       "lemma": "сейф",
       "stress": "сейф",
       "pos": "noun",
-      "gloss": "to the safe",
+      "gloss": "safe",
       "gender": "m",
       "meanings": [
         {
-          "en": "to the safe",
-          "note": "Common masculine noun meaning 'to the safe' in everyday Russian."
+          "en": "safe (strongbox)",
+          "note": ""
         }
       ],
       "forms": {
@@ -5172,16 +5177,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Ты уберёшь свою машину прямо сейчас, понял?",
-          "trans": "You are going to move your car right now, got it?"
+          "text": "Мы сейчас быстро взломаем мой сейф.",
+          "trans": "We'll quickly break into my safe now."
         },
         {
-          "text": "Я его сейчас дофарширую и сразу выйду.",
-          "trans": "I will finish stuffing it right now and come right out."
+          "text": "Я же в этот сейф всё отнёс!",
+          "trans": "But I put everything in this safe!"
         },
         {
-          "text": "Да, я уже сейчас выхожу.",
-          "trans": "Yes, I am coming out right now."
+          "text": "Я забрала из сейфа твой сотейник.",
+          "trans": "I took your sauté pan out of the safe."
         }
       ],
       "related": []
@@ -5233,7 +5238,7 @@
       "meanings": [
         {
           "en": "strength, power, force",
-          "note": "colloquial plural силы = engine horsepower"
+          "note": "в силе = still valid"
         },
         {
           "en": "horsepower",
@@ -5317,7 +5322,7 @@
       "meanings": [
         {
           "en": "strong, powerful (also used as a noun: the strong)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('strong, powerful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5360,10 +5365,10 @@
           {
             "cells": [
               "accusative",
-              "сильный",
+              "сильный / сильного",
               "сильную",
               "сильное",
-              "сильные"
+              "сильные / сильных"
             ]
           },
           {
@@ -5445,35 +5450,6 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "смотреть": {
       "lemma": "смотреть",
       "stress": "смотре́ть",
@@ -5484,11 +5460,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -5633,7 +5609,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5662,7 +5638,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5829,7 +5805,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

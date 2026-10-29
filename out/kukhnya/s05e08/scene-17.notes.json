@@ -371,7 +371,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -433,8 +433,8 @@
           "lemma": "изменять",
           "pos": "verb",
           "stress": "изменя́ла",
-          "gloss": "to cheat, be unfaithful",
-          "gram": "past tense, feminine singular"
+          "gloss": "cheated on",
+          "gram": "past feminine singular, imperfective"
         }
       ]
     },
@@ -525,7 +525,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -907,7 +907,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -969,8 +969,8 @@
           "lemma": "изменять",
           "pos": "verb",
           "stress": "изменя́ла",
-          "gloss": "to cheat, be unfaithful",
-          "gram": "past tense, feminine singular"
+          "gloss": "cheated on",
+          "gram": "past feminine singular, imperfective"
         }
       ]
     },
@@ -1061,7 +1061,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1443,7 +1443,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1505,8 +1505,8 @@
           "lemma": "изменять",
           "pos": "verb",
           "stress": "изменя́ла",
-          "gloss": "to cheat, be unfaithful",
-          "gram": "past tense, feminine singular"
+          "gloss": "cheated on",
+          "gram": "past feminine singular, imperfective"
         }
       ]
     },
@@ -1597,7 +1597,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1974,12 +1974,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2034,6 +2032,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2053,17 +2068,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "значит": {
       "lemma": "значит",
@@ -2224,17 +2240,17 @@
       "lemma": "изменять",
       "stress": "изменя́ть",
       "pos": "verb",
-      "gloss": "to cheat, be unfaithful",
+      "gloss": "to cheat on, be unfaithful; to change",
       "aspect": "impf",
       "pair": "изменить",
       "meanings": [
         {
           "en": "to cheat on, be unfaithful to",
-          "note": "+ dat. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'менять'). Used as an imperfective (ongoing/repeated action) verb meaning 'to cheat, be unfaithful', paired with 'изменить'."
+          "note": "+ dative (кому)."
         },
         {
           "en": "to change, alter",
-          "note": "+ acc. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'менять'). Used as an imperfective (ongoing/repeated action) verb meaning 'to cheat, be unfaithful', paired with 'изменить'."
+          "note": "+ accusative (что)."
         }
       ],
       "forms": {
@@ -2414,7 +2430,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2466,6 +2482,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -2582,7 +2615,7 @@
       "meanings": [
         {
           "en": "to cheat, to deceive, to trick",
-          "note": "Меня обманули = I've been cheated. Used as a perfective (single completed action) verb meaning 'to cheat, to deceive', paired with 'обманывать'."
+          "note": "Меня обманули = I've been cheated."
         }
       ],
       "forms": {
@@ -2767,7 +2800,11 @@
       "meanings": [
         {
           "en": "to refuse, to turn down",
-          "note": "+ dative (кому). Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to refuse, to turn down', paired with 'отказывать'."
+          "note": "+ dative (кому); отказать в чём-то"
+        },
+        {
+          "en": "to fail, break down (of machinery)",
+          "note": "генераторы отказали"
         }
       ],
       "forms": {
@@ -2953,7 +2990,7 @@
       "meanings": [
         {
           "en": "to introduce (someone to someone)",
-          "note": "+ accusative + 'с' + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомить'). Used as a perfective (single completed action) verb meaning 'to introduce', paired with 'знакомить'."
+          "note": "+ accusative + 'с' + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомить')."
         }
       ],
       "forms": {
@@ -3058,19 +3095,23 @@
     },
     "попадать": {
       "lemma": "попадать",
-      "stress": "попа́дать",
+      "stress": "попада́ть",
       "pos": "verb",
-      "gloss": "get under, land",
-      "aspect": "pf",
-      "pair": null,
+      "gloss": "to hit; to get into, to end up",
+      "aspect": "impf",
+      "pair": "попасть",
       "meanings": [
         {
-          "en": "get under, land",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'падать'). Used as a perfective (single completed action) verb meaning 'get under, land'."
+          "en": "to get into, to end up (somewhere)",
+          "note": "+ в/на/под: попадать в больницу, под колёса"
+        },
+        {
+          "en": "to hit (a target)",
+          "note": "попадать в цель"
         }
       ],
       "forms": {
-        "title": "Future",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -3121,6 +3162,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "попадай",
+                "попадайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3135,106 +3193,12 @@
       ],
       "related": [
         {
-          "word": "падать",
-          "gloss": "to get under (base verb)"
-        }
-      ]
-    },
-    "правда": {
-      "lemma": "правда",
-      "stress": "пра́вда",
-      "pos": "noun",
-      "gloss": "truth; honestly",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "truth",
-          "note": "as a side word: Правда, всё нормально = Honestly, everything's fine"
+          "word": "попасть",
+          "gloss": "to hit; to get to (perfective)"
         },
         {
-          "en": "honestly, really",
-          "note": "as a side word: Правда, всё нормально = Honestly, everything's fine"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "правда",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "правды",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "правде",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "правду",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "правдой",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "правде",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Правда, всё нормально.",
-          "trans": "Honestly, everything's fine."
-        },
-        {
-          "text": "Это правда.",
-          "trans": "That's true."
-        },
-        {
-          "text": "Правда, Нин, всё нормально. Скажи что-нибудь, пожалуйста.",
-          "trans": "Honestly, Nina, everything's fine. Say something, please."
-        }
-      ],
-      "related": [
-        {
-          "word": "правильно",
-          "gloss": "right"
-        },
-        {
-          "word": "правый",
-          "gloss": "right"
-        },
-        {
-          "word": "правило",
-          "gloss": "rule"
+          "word": "попадаться",
+          "gloss": "to get caught; to come across"
         }
       ]
     },
@@ -3285,7 +3249,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -3380,123 +3344,6 @@
         }
       ]
     },
-    "сказать": {
-      "lemma": "сказать",
-      "stress": "сказа́ть",
-      "pos": "verb",
-      "gloss": "to say, to tell",
-      "aspect": "pf",
-      "pair": "говорить",
-      "meanings": [
-        {
-          "en": "to say, to tell",
-          "note": "once; что скажешь? = what do you say?"
-        },
-        {
-          "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "скажу",
-              "скажем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "скажешь",
-              "скажете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "скажет",
-              "скажут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "сказал",
-                "сказала",
-                "сказало",
-                "сказали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "скажи",
-                "скажите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Что ты сказал?",
-          "trans": "What did you say?"
-        },
-        {
-          "text": "Скажите, где метро?",
-          "trans": "Excuse me, where's the metro?"
-        },
-        {
-          "text": "Скажите, когда будет ваша программа?",
-          "trans": "Tell us, when will your programme be out?"
-        }
-      ],
-      "related": [
-        {
-          "word": "говорить",
-          "gloss": "to speak"
-        },
-        {
-          "word": "наказать",
-          "gloss": "to punish"
-        },
-        {
-          "word": "казаться",
-          "gloss": "to seem"
-        }
-      ]
-    },
     "сюда": {
       "lemma": "сюда",
       "stress": "сюда́",
@@ -3505,7 +3352,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -3585,7 +3432,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -3671,109 +3518,6 @@
       ],
       "related": []
     },
-    "тихий": {
-      "lemma": "тихий",
-      "stress": "ти́хий",
-      "pos": "adj",
-      "gloss": "quiet, calm, inconspicuous",
-      "meanings": [
-        {
-          "en": "quiet, soft",
-          "note": "Not loud. Agrees in gender, number, and case with the noun it modifies ('quiet, calm, inconspicuous')."
-        },
-        {
-          "en": "quiet, calm, out-of-the-way",
-          "note": "A quiet spot or street. Agrees in gender, number, and case with the noun it modifies ('quiet, calm, inconspicuous')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "тихий",
-              "тихая",
-              "тихое",
-              "тихие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "тихого",
-              "тихой",
-              "тихого",
-              "тихих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тихому",
-              "тихой",
-              "тихому",
-              "тихим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "тихий",
-              "тихую",
-              "тихое",
-              "тихие"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "тихим",
-              "тихой",
-              "тихим",
-              "тихими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "тихом",
-              "тихой",
-              "тихом",
-              "тихих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Лепите в тихое место.",
-          "trans": "Stick it in a quiet spot."
-        },
-        {
-          "text": "Сегодня тихий вечер.",
-          "trans": "It's a quiet evening today."
-        },
-        {
-          "text": "Лепите на уровне головы, в тихое место.",
-          "trans": "Stick it at head height, in a quiet spot."
-        }
-      ],
-      "related": [
-        {
-          "word": "тихо",
-          "gloss": "in a quiet way (adv.)"
-        }
-      ]
-    },
     "тихо": {
       "lemma": "тихо",
       "stress": "ти́хо",
@@ -3793,16 +3537,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -3820,67 +3560,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -4028,7 +3724,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4083,6 +3779,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4111,135 +3824,6 @@
         {
           "word": "увидеть",
           "gloss": "to see"
-        }
-      ]
-    },
-    "чистый": {
-      "lemma": "чистый",
-      "stress": "чи́стый",
-      "pos": "adj",
-      "gloss": "clean",
-      "meanings": [
-        {
-          "en": "clean",
-          "note": "short form чисто: всё чисто = everything is clean"
-        },
-        {
-          "en": "pure",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('clean')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "чистый",
-              "чистая",
-              "чистое",
-              "чистые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "чистого",
-              "чистой",
-              "чистого",
-              "чистых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "чистому",
-              "чистой",
-              "чистому",
-              "чистым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "чистый / чистого",
-              "чистую",
-              "чистое",
-              "чистые / чистых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "чистым",
-              "чистой",
-              "чистым",
-              "чистыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "чистом",
-              "чистой",
-              "чистом",
-              "чистых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "чист",
-                "чиста",
-                "чисто",
-                "чисты"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Всё чисто.",
-          "trans": "Everything is clean."
-        },
-        {
-          "text": "Чистый пол.",
-          "trans": "A clean floor."
-        },
-        {
-          "text": "Нин, я всё помыл. Всё чисто.",
-          "trans": "Nina, I washed everything. It's all clean."
-        }
-      ],
-      "related": [
-        {
-          "word": "чисто",
-          "gloss": "clearly"
-        },
-        {
-          "word": "чистота",
-          "gloss": "cleanliness"
         }
       ]
     },
@@ -4343,10 +3927,11 @@
       "pos": "noun",
       "gloss": "sheikh",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "sheikh, Arab ruler",
-          "note": "Common masculine noun meaning 'sheikh' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4381,8 +3966,8 @@
           {
             "cells": [
               "accusative",
-              "шейх",
-              "шейхи"
+              "шейха",
+              "шейхов"
             ]
           },
           {

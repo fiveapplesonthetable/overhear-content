@@ -193,10 +193,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -290,7 +290,7 @@
           "t": "Игорь,",
           "lemma": "игорь",
           "pos": "name",
-          "stress": null,
+          "stress": "и́горь",
           "gloss": "Igor",
           "gram": "proper noun"
         },
@@ -345,8 +345,8 @@
           "lemma": "отвечать",
           "pos": "verb",
           "stress": "отвеча́ешь",
-          "gloss": "to answer, to reply",
-          "gram": "2nd person singular"
+          "gloss": "answer",
+          "gram": "present, 2nd person singular, imperfective"
         },
         {
           "t": "на",
@@ -711,10 +711,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -808,7 +808,7 @@
           "t": "Игорь,",
           "lemma": "игорь",
           "pos": "name",
-          "stress": null,
+          "stress": "и́горь",
           "gloss": "Igor",
           "gram": "proper noun"
         },
@@ -863,8 +863,8 @@
           "lemma": "отвечать",
           "pos": "verb",
           "stress": "отвеча́ешь",
-          "gloss": "to answer, to reply",
-          "gram": "2nd person singular"
+          "gloss": "answer",
+          "gram": "present, 2nd person singular, imperfective"
         },
         {
           "t": "на",
@@ -1229,10 +1229,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -1326,7 +1326,7 @@
           "t": "Игорь,",
           "lemma": "игорь",
           "pos": "name",
-          "stress": null,
+          "stress": "и́горь",
           "gloss": "Igor",
           "gram": "proper noun"
         },
@@ -1381,8 +1381,8 @@
           "lemma": "отвечать",
           "pos": "verb",
           "stress": "отвеча́ешь",
-          "gloss": "to answer, to reply",
-          "gram": "2nd person singular"
+          "gloss": "answer",
+          "gram": "present, 2nd person singular, imperfective"
         },
         {
           "t": "на",
@@ -1781,11 +1781,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1840,6 +1840,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1868,84 +1885,6 @@
         {
           "word": "видеться",
           "gloss": "to see each other"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2091,7 +2030,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2118,7 +2057,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2151,11 +2090,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2268,11 +2207,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2456,10 +2395,10 @@
           {
             "cells": [
               "accusative",
-              "знакомый",
+              "знакомый / знакомого",
               "знакомую",
               "знакомое",
-              "знакомые"
+              "знакомые / знакомых"
             ]
           },
           {
@@ -2482,29 +2421,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "знаком",
-                "знакома",
-                "знакомо",
-                "знакомы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "А знакомо ли тебе, Аркашка, слово педикюр?",
@@ -2580,7 +2497,7 @@
       "meanings": [
         {
           "en": "someone, somebody",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'someone', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -2743,7 +2660,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3076,7 +2993,7 @@
       "meanings": [
         {
           "en": "equipment, gear, machinery",
-          "note": "Usually singular collective. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'equipment, machinery' in everyday Russian."
+          "note": "Usually singular collective."
         }
       ],
       "forms": {
@@ -3156,7 +3073,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -3187,11 +3104,11 @@
       "meanings": [
         {
           "en": "to answer, to reply",
-          "note": "+ dative of the person. Used as a perfective (single completed action) verb meaning 'to answer, to reply', paired with 'отвечать'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to answer the phone",
-          "note": "Used as a perfective (single completed action) verb meaning 'to answer, to reply', paired with 'отвечать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3296,7 +3213,7 @@
       "meanings": [
         {
           "en": "to answer, to reply, to pick up the phone",
-          "note": "Отвечать кому / на звонок. Used as an imperfective (ongoing/repeated action) verb meaning 'to answer, to reply', paired with 'ответить'."
+          "note": "Отвечать кому / на звонок."
         }
       ],
       "forms": {
@@ -3399,7 +3316,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -3496,7 +3413,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -3670,22 +3587,26 @@
           "trans": "Now let's go through everything in order."
         },
         {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
+          "text": "Не бойся, всё в порядке!",
+          "trans": "Don't worry, everything's fine!"
         },
         {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
+          "text": "Да, я наведу здесь железный порядок.",
+          "trans": "Yes, I'll establish iron order here."
         }
       ],
       "related": [
         {
-          "word": "рядом",
-          "gloss": "nearby"
+          "word": "в порядке",
+          "gloss": "fine, OK"
         },
         {
-          "word": "порядочность",
-          "gloss": "decency"
+          "word": "порядочный",
+          "gloss": "decent"
+        },
+        {
+          "word": "беспорядок",
+          "gloss": "mess, disorder"
         }
       ]
     },
@@ -3699,11 +3620,11 @@
       "meanings": [
         {
           "en": "to put, to stand (something upright)",
-          "note": "Поставить защёлку = fit a latch. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить'). Used as a perfective (single completed action) verb meaning 'to put, to place (upright)', paired with 'ставить'."
+          "note": "Поставить защёлку = fit a latch. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить')."
         },
         {
           "en": "to install",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить'). Used as a perfective (single completed action) verb meaning 'to put, to place (upright)', paired with 'ставить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить')."
         }
       ],
       "forms": {
@@ -3806,7 +3727,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3873,11 +3794,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -3908,7 +3829,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -3916,7 +3837,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4028,7 +3949,7 @@
       "meanings": [
         {
           "en": "SMS, text message",
-          "note": "Indeclinable loanword. Common feminine noun meaning 'SMS, text message' in everyday Russian."
+          "note": "Indeclinable loanword."
         }
       ],
       "forms": {
@@ -4285,7 +4206,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4337,6 +4258,23 @@
                 "увиделась",
                 "увиделось",
                 "увиделись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
               ]
             }
           ]
@@ -4395,7 +4333,7 @@
             "cells": [
               "nominative",
               "учитель",
-              "учителя"
+              "учители"
             ]
           },
           {

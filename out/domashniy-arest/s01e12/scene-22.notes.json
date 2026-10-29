@@ -538,9 +538,9 @@
           "t": "стены.",
           "lemma": "стена",
           "pos": "noun",
-          "stress": "сте́ны",
-          "gloss": "walls",
-          "gram": "feminine plural accusative"
+          "stress": "стены́",
+          "gloss": "wall",
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -1312,9 +1312,9 @@
           "t": "стены.",
           "lemma": "стена",
           "pos": "noun",
-          "stress": "сте́ны",
-          "gloss": "walls",
-          "gram": "feminine plural accusative"
+          "stress": "стены́",
+          "gloss": "wall",
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -2086,9 +2086,9 @@
           "t": "стены.",
           "lemma": "стена",
           "pos": "noun",
-          "stress": "сте́ны",
-          "gloss": "walls",
-          "gram": "feminine plural accusative"
+          "stress": "стены́",
+          "gloss": "wall",
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -2349,7 +2349,7 @@
       "meanings": [
         {
           "en": "safety, security, freedom from harm",
-          "note": "Feminine 3rd declension noun. Privative prefix 'без-' ('without, -less') (stem 'опасность'). Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'safety, security' in everyday Russian."
+          "note": "Feminine 3rd declension noun. Privative prefix 'без-' ('without, -less') (stem 'опасность')."
         }
       ],
       "forms": {
@@ -2439,12 +2439,10 @@
       "stress": "беспоко́иться",
       "pos": "verb",
       "gloss": "to worry",
-      "aspect": "impf",
-      "pair": "забеспокоиться",
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry', paired with 'забеспокоиться'."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться')."
         }
       ],
       "forms": {
@@ -2534,8 +2532,8 @@
       ],
       "related": [
         {
-          "word": "забеспокоиться",
-          "gloss": "to worry"
+          "word": "побеспокоиться",
+          "gloss": "to take care of, to see to"
         },
         {
           "word": "беспокоить",
@@ -2545,7 +2543,8 @@
           "word": "спокойный",
           "gloss": "calm"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "быть": {
       "lemma": "быть",
@@ -2904,7 +2903,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2996,84 +2995,6 @@
         {
           "word": "волновать",
           "gloss": "to worry"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3194,7 +3115,7 @@
       "meanings": [
         {
           "en": "to threaten, face",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to threaten, face', paired with 'пригрозить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3271,7 +3192,7 @@
       "examples": [
         {
           "text": "За это грозит тюрьма.",
-          "trans": "A prison sentence threatens for this."
+          "trans": "You can go to prison for this."
         },
         {
           "text": "Он грозил нам кулаком.",
@@ -3279,7 +3200,7 @@
         },
         {
           "text": "За порчу исторического наследия грозит реальная тюрьма.",
-          "trans": "For damaging historical heritage, real prison threatens."
+          "trans": "Damaging historical heritage can get you a real prison sentence."
         }
       ],
       "related": [
@@ -3309,7 +3230,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3344,11 +3265,11 @@
       "meanings": [
         {
           "en": "document, official paper",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "From Latin 'documentum'."
         },
         {
           "en": "ID, papers",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "In the plural: документы."
         }
       ],
       "forms": {
@@ -3432,7 +3353,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3481,7 +3402,7 @@
       "meanings": [
         {
           "en": "ancient, antique",
-          "note": "Belonging to very distant past. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('ancient, antique')."
+          "note": "Belonging to very distant past."
         }
       ],
       "forms": {
@@ -3524,10 +3445,10 @@
           {
             "cells": [
               "accusative",
-              "древний",
+              "древний / древнего",
               "древнюю",
               "древнее",
-              "древние"
+              "древние / древних"
             ]
           },
           {
@@ -3553,22 +3474,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Монастырь — это наша древняя история.",
-          "trans": "The monastery is our ancient history."
-        },
-        {
           "text": "Монастырь — это наша древняя история!",
           "trans": "The monastery is our ancient history!"
         },
         {
+          "text": "Я из древнего шотландского рода.",
+          "trans": "I come from an ancient Scottish family."
+        },
+        {
           "text": "Здесь был утрачен древний оригинал летописи.",
-          "trans": "Here the ancient original of the chronicle was lost."
+          "trans": "The ancient original of the chronicle was lost here."
         }
       ],
       "related": [
         {
           "word": "древность",
-          "gloss": "quality of being ancient"
+          "gloss": "antiquity"
+        },
+        {
+          "word": "старинный",
+          "gloss": "old, antique"
         }
       ]
     },
@@ -3580,11 +3505,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3623,7 +3548,7 @@
       "meanings": [
         {
           "en": "law, legal code, statute",
-          "note": "Inanimate masculine noun. Common masculine noun meaning 'law, statute' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3710,7 +3635,7 @@
       "meanings": [
         {
           "en": "to forbid, to prohibit",
-          "note": "Запретить кому + infinitive. Used as a perfective (single completed action) verb meaning 'to forbid, to ban', paired with 'запрещать'."
+          "note": "Запретить кому + infinitive."
         }
       ],
       "forms": {
@@ -3819,7 +3744,7 @@
       "meanings": [
         {
           "en": "to defend, protect (country, family, rights)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to defend, protect', paired with 'защитить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4154,7 +4079,7 @@
         },
         {
           "en": "historic",
-          "note": "Important in history. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('historical, historic')."
+          "note": "Important in history."
         }
       ],
       "forms": {
@@ -4197,10 +4122,10 @@
           {
             "cells": [
               "accusative",
-              "исторический",
+              "исторический / исторического",
               "историческую",
               "историческое",
-              "исторические"
+              "исторические / исторических"
             ]
           },
           {
@@ -4345,7 +4270,7 @@
       "meanings": [
         {
           "en": "to supervise, to keep an eye on, to control",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to control, to keep an eye on', paired with 'проконтролировать'."
+          "note": "+ accusative."
         }
       ],
       "forms": {
@@ -4436,15 +4361,15 @@
       "related": [
         {
           "word": "проконтролировать",
-          "gloss": "to keep an eye on"
+          "gloss": "to check, supervise (pf.)"
         },
         {
           "word": "контроль",
           "gloss": "control"
         },
         {
-          "word": "контрольная",
-          "gloss": "test"
+          "word": "следить",
+          "gloss": "to keep an eye on"
         }
       ]
     },
@@ -4544,7 +4469,7 @@
       "meanings": [
         {
           "en": "monastery",
-          "note": "Common masculine noun meaning 'monastery' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4626,7 +4551,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4678,6 +4603,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4867,16 +4809,16 @@
       ],
       "related": [
         {
-          "word": "проследить",
-          "gloss": "to see to it"
+          "word": "наследство",
+          "gloss": "inheritance"
         },
         {
-          "word": "последний",
-          "gloss": "last"
+          "word": "наследник",
+          "gloss": "heir"
         },
         {
-          "word": "расследование",
-          "gloss": "investigation"
+          "word": "культурное наследие",
+          "gloss": "cultural heritage"
         }
       ]
     },
@@ -5358,7 +5300,7 @@
       "meanings": [
         {
           "en": "monument, memorial",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'monument, memorial' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5444,7 +5386,7 @@
       "meanings": [
         {
           "en": "damage, injury",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'damage, injury' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5573,42 +5515,42 @@
             "cells": [
               "nominative",
               "полиция",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "genitive",
               "полиции",
-              "—"
+              "полиций"
             ]
           },
           {
             "cells": [
               "dative",
               "полиции",
-              "—"
+              "полициям"
             ]
           },
           {
             "cells": [
               "accusative",
               "полицию",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "instrumental",
               "полицией",
-              "—"
+              "полициями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "полиции",
-              "—"
+              "полициях"
             ]
           }
         ]
@@ -5639,7 +5581,7 @@
       "meanings": [
         {
           "en": "damage, spoiling",
-          "note": "Common feminine noun meaning 'damage, spoiling' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5721,15 +5663,15 @@
       "meanings": [
         {
           "en": "to put in prison, to lock up",
-          "note": "Colloquial. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить'). Used as a perfective (single completed action) verb meaning 'to seat; to plant; to put in prison', paired with 'сажать'."
+          "note": "Colloquial. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить')."
         },
         {
           "en": "to sit somebody down, to seat",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить'). Used as a perfective (single completed action) verb meaning 'to seat; to plant; to put in prison', paired with 'сажать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить')."
         },
         {
           "en": "to plant",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить'). Used as a perfective (single completed action) verb meaning 'to seat; to plant; to put in prison', paired with 'сажать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5819,8 +5761,16 @@
       ],
       "related": [
         {
-          "word": "сидеть",
-          "gloss": "to sit"
+          "word": "сажать",
+          "gloss": "to seat, plant (impf)"
+        },
+        {
+          "word": "сесть",
+          "gloss": "to sit down; to go to prison"
+        },
+        {
+          "word": "тюрьма",
+          "gloss": "prison"
         }
       ]
     },
@@ -5931,11 +5881,7 @@
       "meanings": [
         {
           "en": "rule",
-          "note": "By the rules. Common neuter noun meaning 'rule' in everyday Russian."
-        },
-        {
-          "en": "по правилам",
-          "note": "By the rules. Common neuter noun meaning 'rule' in everyday Russian."
+          "note": "по правилам = by the rules"
         }
       ],
       "forms": {
@@ -6026,10 +5972,11 @@
       "pos": "noun",
       "gloss": "check, inspection, test",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "check, verification, test",
-          "note": "Common feminine noun meaning 'check, inspection, test' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6111,7 +6058,7 @@
       "meanings": [
         {
           "en": "to continue, to go on (with)",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'должать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to continue', paired with 'продолжить'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'должать')."
         }
       ],
       "forms": {
@@ -6216,10 +6163,11 @@
       "pos": "noun",
       "gloss": "project",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "project",
-          "note": "A plan or piece of work. Common masculine noun meaning 'project' in everyday Russian."
+          "note": "A plan or piece of work."
         }
       ],
       "forms": {
@@ -6292,7 +6240,11 @@
       "related": [
         {
           "word": "проектный",
-          "gloss": "related to project (adj.)"
+          "gloss": "project (adj.), design"
+        },
+        {
+          "word": "запустить проект",
+          "gloss": "to launch a project"
         }
       ]
     },
@@ -6408,7 +6360,7 @@
         },
         {
           "en": "to understand, to figure out",
-          "note": "В + prepositional. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to sort out, to figure out', paired with 'разбираться'."
+          "note": "В + prepositional."
         }
       ],
       "forms": {
@@ -6515,7 +6467,7 @@
       "meanings": [
         {
           "en": "real, actual, tangible",
-          "note": "From Latin realis. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('real, actual, genuine')."
+          "note": "From Latin realis."
         }
       ],
       "forms": {
@@ -6558,10 +6510,10 @@
           {
             "cells": [
               "accusative",
-              "реальный",
+              "реальный / реального",
               "реальную",
               "реальное",
-              "реальные"
+              "реальные / реальных"
             ]
           },
           {
@@ -6760,7 +6712,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -6800,7 +6752,7 @@
       "meanings": [
         {
           "en": "to observe, follow rules or regime",
-          "note": "Transitive verb. Used as an imperfective (ongoing/repeated action) verb meaning 'to observe, comply with', paired with 'соблюсти'."
+          "note": "Transitive verb."
         }
       ],
       "forms": {
@@ -6899,12 +6851,16 @@
       "lemma": "состояние",
       "stress": "состоя́ние",
       "pos": "noun",
-      "gloss": "condition, state",
+      "gloss": "condition, state; fortune",
       "gender": "n",
       "meanings": [
         {
           "en": "condition, state",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'condition, state' in everyday Russian."
+          "note": ""
+        },
+        {
+          "en": "fortune (a lot of money)",
+          "note": "заработать состояние = to make a fortune"
         }
       ],
       "forms": {
@@ -6986,11 +6942,11 @@
       "meanings": [
         {
           "en": "to keep, to preserve",
-          "note": "Сохранить тайну = to keep a secret. Used as a perfective (single completed action) verb meaning 'to keep, to preserve, to save', paired with 'сохранять'."
+          "note": "Сохранить тайну = to keep a secret."
         },
         {
           "en": "to save",
-          "note": "A file. Used as a perfective (single completed action) verb meaning 'to keep, to preserve, to save', paired with 'сохранять'."
+          "note": "A file."
         }
       ],
       "forms": {
@@ -7101,7 +7057,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7186,10 +7142,10 @@
           {
             "cells": [
               "accusative",
-              "старинный",
+              "старинный / старинного",
               "старинную",
               "старинное",
-              "старинные"
+              "старинные / старинных"
             ]
           },
           {
@@ -7246,11 +7202,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -7293,10 +7249,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -7319,29 +7275,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",
@@ -7372,7 +7306,7 @@
       "meanings": [
         {
           "en": "wall",
-          "note": "Of a room, building or fortress. Common feminine noun meaning 'wall' in everyday Russian."
+          "note": "Of a room, building or fortress."
         }
       ],
       "forms": {
@@ -7452,7 +7386,7 @@
       "meanings": [
         {
           "en": "sternly, strictly, severely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7486,7 +7420,7 @@
       "meanings": [
         {
           "en": "strictly, harshly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7508,7 +7442,11 @@
       "related": [
         {
           "word": "суровый",
-          "gloss": "strictly (adjective)"
+          "gloss": "stern, harsh"
+        },
+        {
+          "word": "строго",
+          "gloss": "strictly"
         }
       ]
     },
@@ -7520,7 +7458,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -7555,7 +7493,7 @@
       "meanings": [
         {
           "en": "territory, grounds, turf",
-          "note": "Common feminine noun meaning 'territory, grounds' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7627,8 +7565,16 @@
       ],
       "related": [
         {
-          "word": "террорист",
-          "gloss": "terrorist"
+          "word": "земля",
+          "gloss": "land"
+        },
+        {
+          "word": "участок",
+          "gloss": "plot, area"
+        },
+        {
+          "word": "зона",
+          "gloss": "zone"
         }
       ]
     },
@@ -7674,7 +7620,7 @@
       "meanings": [
         {
           "en": "prison, jail",
-          "note": "В тюрьме = in prison. Common feminine noun meaning 'prison, jail' in everyday Russian."
+          "note": "В тюрьме = in prison."
         }
       ],
       "forms": {
@@ -7783,7 +7729,7 @@
       "meanings": [
         {
           "en": "unique, one-of-a-kind",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('unique')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7826,10 +7772,10 @@
           {
             "cells": [
               "accusative",
-              "уникальный",
+              "уникальный / уникального",
               "уникальную",
               "уникальное",
-              "уникальные"
+              "уникальные / уникальных"
             ]
           },
           {
@@ -8072,7 +8018,7 @@
       "meanings": [
         {
           "en": "expert, specialist",
-          "note": "Common masculine noun meaning 'expert' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -8145,7 +8091,11 @@
       "related": [
         {
           "word": "экспертный",
-          "gloss": "related to expert (adj.)"
+          "gloss": "expert (adj.)"
+        },
+        {
+          "word": "экспертиза",
+          "gloss": "expert examination"
         }
       ]
     },

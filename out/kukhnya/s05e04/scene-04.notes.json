@@ -193,7 +193,7 @@
         {
           "t": "Наташа.",
           "lemma": "наташа",
-          "pos": "noun",
+          "pos": "name",
           "stress": "ната́ша",
           "gloss": "Natasha",
           "gram": "nominative singular, feminine, proper noun"
@@ -298,7 +298,7 @@
         },
         {
           "t": "скорее.",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -422,7 +422,7 @@
           "pos": "interj",
           "stress": "здра́сте",
           "gloss": "hello, hi",
-          "gram": "prepositional / dative singular"
+          "gram": "interjection, colloquial short form of здравствуйте"
         },
         {
           "t": "проходите",
@@ -633,7 +633,7 @@
         {
           "t": "Наташа.",
           "lemma": "наташа",
-          "pos": "noun",
+          "pos": "name",
           "stress": "ната́ша",
           "gloss": "Natasha",
           "gram": "nominative singular, feminine, proper noun"
@@ -738,7 +738,7 @@
         },
         {
           "t": "скорее.",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -862,7 +862,7 @@
           "pos": "interj",
           "stress": "здра́сте",
           "gloss": "hello, hi",
-          "gram": "prepositional / dative singular"
+          "gram": "interjection, colloquial short form of здравствуйте"
         },
         {
           "t": "проходите",
@@ -1073,7 +1073,7 @@
         {
           "t": "Наташа.",
           "lemma": "наташа",
-          "pos": "noun",
+          "pos": "name",
           "stress": "ната́ша",
           "gloss": "Natasha",
           "gram": "nominative singular, feminine, proper noun"
@@ -1178,7 +1178,7 @@
         },
         {
           "t": "скорее.",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1302,7 +1302,7 @@
           "pos": "interj",
           "stress": "здра́сте",
           "gloss": "hello, hi",
-          "gram": "prepositional / dative singular"
+          "gram": "interjection, colloquial short form of здравствуйте"
         },
         {
           "t": "проходите",
@@ -1397,11 +1397,11 @@
       "meanings": [
         {
           "en": "uh-huh, yeah",
-          "note": "Casual yes. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Casual yes."
         },
         {
           "en": "yeah, right",
-          "note": "Said ironically. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Said ironically."
         }
       ],
       "forms": null,
@@ -1516,7 +1516,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1600,7 +1600,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1626,49 +1626,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -1679,11 +1636,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -1774,15 +1735,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -1875,11 +1836,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1919,11 +1880,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2060,40 +2021,6 @@
         }
       ]
     },
-    "здравствовать": {
-      "lemma": "здравствовать",
-      "stress": "здравство́вать",
-      "pos": "interj",
-      "gloss": "hi / hello",
-      "meanings": [
-        {
-          "en": "hi / hello",
-          "note": "High-frequency Russian expressive spoken interjection meaning 'hi / hello', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Костя сказал это совершенно здравствовать и спокойно.",
-          "trans": "Kostya said this quite hi and calmly."
-        },
-        {
-          "text": "На кухне всегда здравствовать кипит работа.",
-          "trans": "Work is always bustling hi in the kitchen."
-        }
-      ],
-      "related": [
-        {
-          "word": "вот здравствовать",
-          "gloss": "right here (hi)"
-        },
-        {
-          "word": "именно здравствовать",
-          "gloss": "precisely hi"
-        }
-      ]
-    },
     "здрасьте": {
       "lemma": "здрасьте",
       "stress": "здра́сьте",
@@ -2102,7 +2029,7 @@
       "meanings": [
         {
           "en": "hello, hi",
-          "note": "Expressive conversational Russian interjection or greeting ('hello') used directly in spoken exchanges."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2252,72 +2179,7 @@
           "note": "joins a description to a noun; agrees with that noun in gender and number"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "который",
-              "которая",
-              "которое",
-              "которые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "которого",
-              "которой",
-              "которого",
-              "которых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "которому",
-              "которой",
-              "которому",
-              "которым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "который/которого",
-              "которую",
-              "которое",
-              "которые/которых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "которым",
-              "которой",
-              "которым",
-              "которыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "котором",
-              "которой",
-              "котором",
-              "которых"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -2329,8 +2191,8 @@
           "trans": "Where is the book that was here?"
         },
         {
-          "text": "А что я за мэр такой, который держит своё слово?",
-          "trans": "And what kind of mayor would I be if I kept my word?"
+          "text": "Это секрет, который умрёт вместе со мной.",
+          "trans": "It's a secret that will die with me."
         }
       ],
       "related": [
@@ -2350,7 +2212,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2405,6 +2267,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2436,7 +2315,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2459,92 +2338,6 @@
         {
           "word": "понадобиться",
           "gloss": "to be needed"
-        }
-      ]
-    },
-    "наташа": {
-      "lemma": "наташа",
-      "stress": "ната́ша",
-      "pos": "noun",
-      "gloss": "Natasha",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "Natasha",
-          "note": "Common feminine noun meaning 'Natasha' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "наташа",
-              "наташи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "наташи",
-              "наташ"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "наташе",
-              "наташам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "наташу",
-              "наташи"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "наташей",
-              "наташами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "наташе",
-              "наташах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "На кухне отеля всегда есть наташа.",
-          "trans": "In the hotel kitchen there is always Natasha."
-        },
-        {
-          "text": "Шеф сразу заметил, где наташа.",
-          "trans": "The chef immediately noticed where the Natasha was."
-        }
-      ],
-      "related": [
-        {
-          "word": "без наташ",
-          "gloss": "without Natasha"
-        },
-        {
-          "word": "наш наташа",
-          "gloss": "our Natasha"
         }
       ]
     },
@@ -2710,12 +2503,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -2773,31 +2566,42 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "гостиница",
+          "gloss": "hotel"
+        },
+        {
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
+        }
+      ]
     },
     "поболтать": {
       "lemma": "поболтать",
-      "stress": "побо́лтать",
+      "stress": "поболта́ть",
       "pos": "verb",
-      "gloss": "we will chat",
-      "aspect": "pf",
-      "pair": null,
+      "gloss": "to have a chat",
       "meanings": [
         {
-          "en": "we will chat",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'болтать'). Used as a perfective (single completed action) verb meaning 'we will chat'."
+          "en": "to have a chat",
+          "note": "Delimitative по- + болтать."
         }
       ],
       "forms": {
@@ -2852,28 +2656,46 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "поболтай",
+                "поболтайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и поболтать вовремя.",
-          "trans": "We need to do everything and we will chat on time."
+          "text": "Подъезжай, пообедаем, поболтаем.",
+          "trans": "Come over, we'll have lunch and chat."
         },
         {
-          "text": "На нашей кухне все умеют поболтать.",
-          "trans": "In our kitchen everyone knows how to we will chat."
+          "text": "Я подошёл, мы поболтали немного.",
+          "trans": "I went over and we chatted a bit."
         }
       ],
       "related": [
         {
           "word": "болтать",
-          "gloss": "to we will chat (base verb)"
+          "gloss": "to chat, to chatter"
         },
         {
-          "word": "не поболтать",
-          "gloss": "not to we will chat (negated infinitive)"
+          "word": "поговорить",
+          "gloss": "to have a talk"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "подъезжать": {
       "lemma": "подъезжать",
@@ -2881,11 +2703,11 @@
       "pos": "verb",
       "gloss": "drive up, approach",
       "aspect": "impf",
-      "pair": null,
+      "pair": "подъехать",
       "meanings": [
         {
           "en": "drive up, approach",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'drive up, approach'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2940,30 +2762,51 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "подъезжай",
+                "подъезжайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Не кричи на меня, я подъезжаю.",
-          "trans": "Do not yell at me, I am almost there."
+          "trans": "Don't yell at me, I'm almost there."
         },
         {
-          "text": "Не кричи на меня, я уже подъезжаю к ресторану.",
-          "trans": "Do not yell at me, I am already pulling up to the restaurant."
+          "text": "Она подъезжает к ресторану и выходит из машины.",
+          "trans": "She pulls up to the restaurant and gets out of the car."
         },
         {
-          "text": "Такси подъезжает к главному входу ровно через две минуты.",
-          "trans": "The taxi is pulling up to the main entrance in exactly two minutes."
+          "text": "Да, Саша, мы подъезжаем, вы где?",
+          "trans": "Yes, Sasha, we're nearly there, where are you?"
         }
       ],
       "related": [
         {
-          "word": "делать",
-          "gloss": "to do, make"
+          "word": "подъехать",
+          "gloss": "to drive up (pf)"
         },
         {
-          "word": "время",
-          "gloss": "time"
+          "word": "ехать",
+          "gloss": "to go (by vehicle)"
+        },
+        {
+          "word": "подъезд",
+          "gloss": "entrance"
         }
       ]
     },
@@ -2975,7 +2818,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3019,7 +2862,7 @@
       "meanings": [
         {
           "en": "to have lunch, eat midday meal",
-          "note": "Used as a perfective (single completed action) verb meaning 'to have lunch, dine', paired with 'обедать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3212,7 +3055,7 @@
         },
         {
           "en": "to pass, to go through",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go through; to come in', paired with 'пройти'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ходить')."
         }
       ],
       "forms": {
@@ -3434,35 +3277,6 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "тоже": {
       "lemma": "тоже",
       "stress": "то́же",
@@ -3471,7 +3285,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3589,58 +3403,7 @@
           "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "увы",
-              "увыы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "увыа",
-              "увыов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "увыу",
-              "увыам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "увы",
-              "увыы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "увыом",
-              "увыами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "увые",
-              "увыах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -3648,8 +3411,8 @@
           "trans": "Alas, there are no pills for old age."
         },
         {
-          "text": "Увы, ах, надо идти.",
-          "trans": "Alas and alack, I have to go."
+          "text": "Увы, тут уже ничего не поделаешь.",
+          "trans": "Alas, nothing can be done about it now."
         }
       ],
       "related": []
@@ -3662,7 +3425,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

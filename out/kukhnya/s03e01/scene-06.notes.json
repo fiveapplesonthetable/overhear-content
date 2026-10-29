@@ -95,8 +95,8 @@
           "lemma": "брать",
           "pos": "verb",
           "stress": "беру́",
-          "gloss": "to take",
-          "gram": "verb present"
+          "gloss": "I take",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "только",
@@ -347,7 +347,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -433,8 +433,8 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́маю",
-          "gloss": "to think (it over)",
-          "gram": "1st person singular"
+          "gloss": "I'll think",
+          "gram": "1st person singular future, perfective"
         },
         {
           "t": "позже.",
@@ -583,8 +583,8 @@
           "lemma": "брать",
           "pos": "verb",
           "stress": "беру́",
-          "gloss": "to take",
-          "gram": "verb present"
+          "gloss": "I take",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "только",
@@ -835,7 +835,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -921,8 +921,8 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́маю",
-          "gloss": "to think (it over)",
-          "gram": "1st person singular"
+          "gloss": "I'll think",
+          "gram": "1st person singular future, perfective"
         },
         {
           "t": "позже.",
@@ -1071,8 +1071,8 @@
           "lemma": "брать",
           "pos": "verb",
           "stress": "беру́",
-          "gloss": "to take",
-          "gram": "verb present"
+          "gloss": "I take",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "только",
@@ -1323,7 +1323,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1409,8 +1409,8 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́маю",
-          "gloss": "to think (it over)",
-          "gram": "1st person singular"
+          "gloss": "I'll think",
+          "gram": "1st person singular future, perfective"
         },
         {
           "t": "позже.",
@@ -1541,7 +1541,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1581,7 +1581,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -1676,15 +1676,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -1928,7 +1932,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2043,11 +2047,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2085,7 +2089,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2176,7 +2180,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -2269,11 +2277,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2309,14 +2317,15 @@
       "pos": "noun",
       "gloss": "call; bell",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "phone call",
-          "note": "Common masculine noun meaning 'call; bell' in everyday Russian."
+          "note": ""
         },
         {
           "en": "bell, doorbell",
-          "note": "Common masculine noun meaning 'call; bell' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2401,7 +2410,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -2532,7 +2541,7 @@
         },
         {
           "en": "to change",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to change; to swap', paired with 'поменять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2748,7 +2757,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2803,6 +2812,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2836,7 +2862,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3101,7 +3127,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -3136,7 +3162,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -3218,7 +3244,7 @@
       "meanings": [
         {
           "en": "to think it over, to give it a thought",
-          "note": "Once, for a while. Used as a perfective (single completed action) verb meaning 'to think (it over)', paired with 'думать'."
+          "note": "Once, for a while."
         }
       ],
       "forms": {
@@ -3321,7 +3347,7 @@
       "meanings": [
         {
           "en": "later, later on (comparative of поздно)",
-          "note": "Core Russian adv meaning 'later' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3357,7 +3383,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -3657,6 +3683,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "родись",
+                "родитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3736,11 +3779,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3812,8 +3855,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -3827,11 +3878,11 @@
       "meanings": [
         {
           "en": "to intend, to plan, to be going to",
-          "note": "+ infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "+ infinitive."
         },
         {
           "en": "to gather, to get ready",
-          "note": "Pack or assemble. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "Pack or assemble."
         }
       ],
       "forms": {
@@ -3933,67 +3984,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4126,8 +4125,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4136,11 +4143,12 @@
       "stress": "усы́",
       "pos": "noun",
       "gloss": "moustache",
-      "gender": "m",
+      "number": "pl",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "moustache",
-          "note": "Common masculine noun meaning 'moustache' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4198,15 +4206,24 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "На кухне ресторана всегда есть усы.",
-          "trans": "In the restaurant kitchen there is always moustache."
+          "text": "Я беру только поваров с усами.",
+          "trans": "I only hire cooks with moustaches."
         },
         {
-          "text": "Шеф сразу заметил, где усы.",
-          "trans": "The chef immediately noticed where the moustache was."
+          "text": "Без усов я просто моложе выгляжу.",
+          "trans": "I just look younger without a moustache."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "ус",
+          "gloss": "whisker"
+        },
+        {
+          "word": "борода",
+          "gloss": "beard"
+        }
+      ]
     },
     "хорошо": {
       "lemma": "хорошо",

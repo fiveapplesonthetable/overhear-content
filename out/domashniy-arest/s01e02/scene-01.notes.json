@@ -2090,7 +2090,7 @@
       "meanings": [
         {
           "en": "two together, as a couple",
-          "note": "Мы вдвоём = the two of us. Core Russian adv meaning 'the two of us, together (two)' in everyday speech."
+          "note": "Мы вдвоём = the two of us."
         }
       ],
       "forms": null,
@@ -2239,7 +2239,7 @@
         },
         {
           "en": "party, evening event",
-          "note": "E.g. a school evening. Common masculine noun meaning 'evening' in everyday Russian."
+          "note": "E.g. a school evening."
         }
       ],
       "forms": {
@@ -2321,84 +2321,6 @@
         {
           "word": "вечерний",
           "gloss": "evening"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2494,11 +2416,11 @@
       "meanings": [
         {
           "en": "to give a speech, to speak in public",
-          "note": "On stage. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ступать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to speak (in public), to perform', paired with 'выступить'."
+          "note": "On stage. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ступать')."
         },
         {
           "en": "to perform",
-          "note": "On stage. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ступать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to speak (in public), to perform', paired with 'выступить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2550,6 +2472,23 @@
                 "выступала",
                 "выступало",
                 "выступали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выступай",
+                "выступайте"
               ]
             }
           ]
@@ -2615,7 +2554,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2642,7 +2581,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2665,49 +2604,6 @@
       ],
       "related": []
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2718,11 +2614,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2813,15 +2713,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2928,7 +2828,7 @@
       "meanings": [
         {
           "en": "childhood",
-          "note": "Singular only. Common neuter noun meaning 'childhood' in everyday Russian."
+          "note": "Singular only."
         }
       ],
       "forms": {
@@ -2943,42 +2843,42 @@
             "cells": [
               "nominative",
               "детство",
-              "—"
+              "детства"
             ]
           },
           {
             "cells": [
               "genitive",
               "детства",
-              "—"
+              "детств"
             ]
           },
           {
             "cells": [
               "dative",
               "детству",
-              "—"
+              "детствам"
             ]
           },
           {
             "cells": [
               "accusative",
               "детство",
-              "—"
+              "детства"
             ]
           },
           {
             "cells": [
               "instrumental",
               "детством",
-              "—"
+              "детствами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "детстве",
-              "—"
+              "детствах"
             ]
           }
         ]
@@ -3013,7 +2913,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -3104,7 +3004,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3116,7 +3020,7 @@
       "meanings": [
         {
           "en": "for a long time",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3334,7 +3238,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -3380,7 +3284,7 @@
         },
         {
           "en": "darling",
-          "note": "милый / милая used as a form of address"
+          "note": ""
         }
       ],
       "forms": {
@@ -3467,11 +3371,15 @@
       "related": [
         {
           "word": "мило",
-          "gloss": "in a sweet way (adv.)"
+          "gloss": "sweetly; it's nice"
         },
         {
           "word": "милость",
-          "gloss": "quality of being sweet"
+          "gloss": "mercy, favour"
+        },
+        {
+          "word": "миленький",
+          "gloss": "sweet, cute"
         }
       ]
     },
@@ -3565,7 +3473,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3784,7 +3692,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -3832,6 +3740,23 @@
                 "обещала",
                 "обещало",
                 "обещали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обещай",
+                "обещайте"
               ]
             }
           ]
@@ -3952,11 +3877,11 @@
       "meanings": [
         {
           "en": "lonely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('lonely, alone')."
+          "note": ""
         },
         {
           "en": "single, living alone",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('lonely, alone')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4042,16 +3967,16 @@
       ],
       "related": [
         {
+          "word": "одиноко",
+          "gloss": "lonely (predicative)"
+        },
+        {
+          "word": "одиночество",
+          "gloss": "loneliness"
+        },
+        {
           "word": "один",
-          "gloss": "one"
-        },
-        {
-          "word": "один-один",
-          "gloss": "one-all"
-        },
-        {
-          "word": "одинаковый",
-          "gloss": "the same"
+          "gloss": "one; alone"
         }
       ]
     },
@@ -4251,11 +4176,11 @@
       "meanings": [
         {
           "en": "to leave (someone or something somewhere)",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": "Оставь мне кусок = save me a piece."
         },
         {
           "en": "to keep, to save",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4368,7 +4293,7 @@
       "meanings": [
         {
           "en": "to open",
-          "note": "A door, a window. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'крыть'). Used as a perfective (single completed action) verb meaning 'to open', paired with 'открывать'."
+          "note": "A door, a window. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'крыть')."
         }
       ],
       "forms": {
@@ -4481,11 +4406,15 @@
       "meanings": [
         {
           "en": "to fall behind, to lag",
-          "note": "About a clock. Used as an imperfective (ongoing/repeated action) verb meaning 'to fall behind, to lag', paired with 'отстать'."
+          "note": "не отставай = keep up"
         },
         {
-          "en": "to be slow",
-          "note": "About a clock. Used as an imperfective (ongoing/repeated action) verb meaning 'to fall behind, to lag', paired with 'отстать'."
+          "en": "to be slow (of a clock)",
+          "note": "About a clock."
+        },
+        {
+          "en": "(от кого) to leave someone alone",
+          "note": "colloquial"
         }
       ],
       "forms": {
@@ -4576,15 +4505,11 @@
       "related": [
         {
           "word": "отстать",
-          "gloss": "to fall behind"
+          "gloss": "to fall behind (pf)"
         },
         {
-          "word": "поставить",
-          "gloss": "to put"
-        },
-        {
-          "word": "приставка",
-          "gloss": "games console"
+          "word": "отставание",
+          "gloss": "lag"
         }
       ]
     },
@@ -4597,7 +4522,7 @@
       "meanings": [
         {
           "en": "present, gift",
-          "note": "Common masculine noun meaning 'present, gift' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4679,7 +4604,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4780,11 +4705,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4925,7 +4850,7 @@
         },
         {
           "en": "celebration, party",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'holiday, celebration' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5008,10 +4933,11 @@
       "pos": "noun",
       "gloss": "president",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "president",
-          "note": "Head of a country or a company. Common masculine noun meaning 'president' in everyday Russian."
+          "note": "Head of a country or a company."
         }
       ],
       "forms": {
@@ -5091,7 +5017,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -5235,7 +5161,7 @@
         },
         {
           "en": "to pass, to go through",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go through; to come in', paired with 'пройти'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ходить')."
         }
       ],
       "forms": {
@@ -5347,7 +5273,7 @@
       "meanings": [
         {
           "en": "for the sake of, for",
-          "note": "+ genitive. Core Russian prep meaning 'for the sake of' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -5453,7 +5379,7 @@
       "meanings": [
         {
           "en": "family (adj.)",
-          "note": "To do with the family. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('family')."
+          "note": "To do with the family."
         }
       ],
       "forms": {
@@ -5606,8 +5532,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5711,7 +5645,7 @@
         },
         {
           "en": "to manage to do",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to make it, to be in time', paired with 'успевать'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -5766,6 +5700,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "успей",
+                "успейте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5779,7 +5730,7 @@
         },
         {
           "text": "Успеем! Президент долго выступает.",
-          "trans": "We'll make it! The president always talks for a long time."
+          "trans": "We'll make it! The president speaks for a long time."
         }
       ],
       "related": [
@@ -5813,42 +5764,42 @@
             "cells": [
               "nominative",
               "шампанское",
-              "—"
+              "шампанские"
             ]
           },
           {
             "cells": [
               "genitive",
               "шампанского",
-              "—"
+              "шампанских"
             ]
           },
           {
             "cells": [
               "dative",
               "шампанскому",
-              "—"
+              "шампанским"
             ]
           },
           {
             "cells": [
               "accusative",
               "шампанское",
-              "—"
+              "шампанские"
             ]
           },
           {
             "cells": [
               "instrumental",
               "шампанским",
-              "—"
+              "шампанскими"
             ]
           },
           {
             "cells": [
               "prepositional",
               "шампанском",
-              "—"
+              "шампанских"
             ]
           }
         ]

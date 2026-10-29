@@ -277,8 +277,8 @@
           "lemma": "курс",
           "pos": "noun",
           "stress": "ку́рсе",
-          "gloss": "course, regimen",
-          "gram": "prepositional / dative singular"
+          "gloss": "в курсе = aware, in the know",
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "твоих",
@@ -520,7 +520,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "личной",
@@ -1117,8 +1117,8 @@
           "lemma": "курс",
           "pos": "noun",
           "stress": "ку́рсе",
-          "gloss": "course, regimen",
-          "gram": "prepositional / dative singular"
+          "gloss": "в курсе = aware, in the know",
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "твоих",
@@ -1360,7 +1360,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "личной",
@@ -1957,8 +1957,8 @@
           "lemma": "курс",
           "pos": "noun",
           "stress": "ку́рсе",
-          "gloss": "course, regimen",
-          "gram": "prepositional / dative singular"
+          "gloss": "в курсе = aware, in the know",
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "твоих",
@@ -2200,7 +2200,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "личной",
@@ -2596,11 +2596,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2949,7 +2949,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -3060,7 +3060,7 @@
       "meanings": [
         {
           "en": "apparently, evidently",
-          "note": "Parenthetical adverb. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Parenthetical adverb."
         }
       ],
       "forms": null,
@@ -3082,7 +3082,15 @@
       "related": [
         {
           "word": "видимый",
-          "gloss": "apparently (adjective)"
+          "gloss": "visible"
+        },
+        {
+          "word": "видно",
+          "gloss": "one can see"
+        },
+        {
+          "word": "наверное",
+          "gloss": "probably"
         }
       ]
     },
@@ -3179,11 +3187,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3213,84 +3221,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вчера": {
       "lemma": "вчера",
       "stress": "вчера́",
@@ -3299,7 +3229,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3419,7 +3349,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3455,7 +3385,7 @@
       "meanings": [
         {
           "en": "to move, to push or slide along",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to move, to slide', paired with 'двинуть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3566,11 +3496,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3610,11 +3540,11 @@
       "meanings": [
         {
           "en": "to marry (на + prepositional, of a man); to get married",
-          "note": "Biaspectual verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to marry (of a man), to get married'."
+          "note": "Biaspectual verb."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -3710,7 +3640,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3787,12 +3717,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3847,6 +3775,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3866,17 +3811,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3965,72 +3911,7 @@
           "note": "joins a description to a noun; agrees with that noun in gender and number"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "который",
-              "которая",
-              "которое",
-              "которые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "которого",
-              "которой",
-              "которого",
-              "которых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "которому",
-              "которой",
-              "которому",
-              "которым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "который/которого",
-              "которую",
-              "которое",
-              "которые/которых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "которым",
-              "которой",
-              "которым",
-              "которыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "котором",
-              "которой",
-              "котором",
-              "которых"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4042,8 +3923,8 @@
           "trans": "Where is the book that was here?"
         },
         {
-          "text": "А что я за мэр такой, который держит своё слово?",
-          "trans": "And what kind of mayor would I be if I kept my word?"
+          "text": "Это секрет, который умрёт вместе со мной.",
+          "trans": "It's a secret that will die with me."
         }
       ],
       "related": [
@@ -4063,7 +3944,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4162,12 +4043,16 @@
       "lemma": "курс",
       "stress": "курс",
       "pos": "noun",
-      "gloss": "course, regimen",
+      "gloss": "course; (в курсе) in the know",
       "gender": "m",
       "meanings": [
         {
-          "en": "course of medical treatment or study",
-          "note": "Masculine inanimate noun. Common masculine noun meaning 'course, regimen' in everyday Russian."
+          "en": "course (of treatment or study)",
+          "note": ""
+        },
+        {
+          "en": "в курсе = aware, in the know",
+          "note": "ввести в курс дела = bring up to speed"
         }
       ],
       "forms": {
@@ -4247,11 +4132,11 @@
       "meanings": [
         {
           "en": "personal",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         },
         {
           "en": "private, one's own",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4294,10 +4179,10 @@
           {
             "cells": [
               "accusative",
-              "личный/личного",
+              "личный / личного",
               "личную",
               "личное",
-              "личные/личных"
+              "личные / личных"
             ]
           },
           {
@@ -4348,6 +4233,7 @@
       "pos": "noun",
       "gloss": "lover (male)",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "lover, paramour",
@@ -4419,12 +4305,8 @@
       ],
       "related": [
         {
-          "word": "любой",
-          "gloss": "any"
-        },
-        {
-          "word": "любопытно",
-          "gloss": "curiously"
+          "word": "любовница",
+          "gloss": "mistress"
         },
         {
           "word": "любовь",
@@ -4441,7 +4323,7 @@
       "meanings": [
         {
           "en": "furniture",
-          "note": "Uncountable, singular only. Common feminine noun meaning 'furniture' in everyday Russian."
+          "note": "Uncountable, singular only."
         }
       ],
       "forms": {
@@ -4456,42 +4338,42 @@
             "cells": [
               "nominative",
               "мебель",
-              "—"
+              "мебели"
             ]
           },
           {
             "cells": [
               "genitive",
               "мебели",
-              "—"
+              "мебелей"
             ]
           },
           {
             "cells": [
               "dative",
               "мебели",
-              "—"
+              "мебелям"
             ]
           },
           {
             "cells": [
               "accusative",
               "мебель",
-              "—"
+              "мебели"
             ]
           },
           {
             "cells": [
               "instrumental",
               "мебелью",
-              "—"
+              "мебелями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "мебели",
-              "—"
+              "мебелях"
             ]
           }
         ]
@@ -4513,52 +4395,6 @@
       ],
       "related": []
     },
-    "много": {
-      "lemma": "много",
-      "stress": "мно́го",
-      "pos": "adv",
-      "gloss": "a lot, much, many",
-      "meanings": [
-        {
-          "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много.",
-          "trans": "We've done a lot."
-        },
-        {
-          "text": "Слишком много дел.",
-          "trans": "Too much to do."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "немного",
-          "gloss": "a little"
-        },
-        {
-          "word": "многовато",
-          "gloss": "a bit too much"
-        },
-        {
-          "word": "намного",
-          "gloss": "much"
-        }
-      ]
-    },
     "можно": {
       "lemma": "можно",
       "stress": "мо́жно",
@@ -4567,11 +4403,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4958,12 +4794,16 @@
       "lemma": "оборот",
       "stress": "оборо́т",
       "pos": "noun",
-      "gloss": "turn, circulation",
+      "gloss": "turn, revolution; turnover",
       "gender": "m",
       "meanings": [
         {
-          "en": "turn, circulation",
-          "note": "Common masculine noun meaning 'turn, circulation' in everyday Russian."
+          "en": "turn, revolution; turnover (of money)",
+          "note": ""
+        },
+        {
+          "en": "взять в оборот = to take someone in hand, put pressure on",
+          "note": "Idiom."
         }
       ],
       "forms": {
@@ -5021,26 +4861,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Нет уж. Послушай женщину и сделай наоборот.",
-          "trans": "No way. Listen to a woman and do the opposite."
-        },
-        {
-          "text": "Сделаем всё наоборот!",
-          "trans": "We will do the exact opposite!"
-        },
-        {
           "text": "Да, Лёва, взяли вас в оборот.",
-          "trans": "Yes, Lyova, they have really taken you in hand."
+          "trans": "Yes, Lyova, they've really taken you in hand."
+        },
+        {
+          "text": "Дела приняли неожиданный оборот.",
+          "trans": "Things took an unexpected turn."
         }
       ],
       "related": [
         {
-          "word": "без оборо",
-          "gloss": "without turn"
+          "word": "наоборот",
+          "gloss": "the other way round"
         },
         {
-          "word": "наш оборот",
-          "gloss": "our turn"
+          "word": "обернуться",
+          "gloss": "to turn around"
+        },
+        {
+          "word": "поворот",
+          "gloss": "turn"
         }
       ]
     },
@@ -5054,7 +4894,7 @@
       "meanings": [
         {
           "en": "to move, to relocate",
-          "note": "Change one's place of residence. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'езжать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to move (house), to relocate; to cross', paired with 'переехать'."
+          "note": "Change one's place of residence. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'езжать')."
         }
       ],
       "forms": {
@@ -5145,15 +4985,15 @@
       "related": [
         {
           "word": "переехать",
-          "gloss": "to move"
+          "gloss": "to move (pf)"
         },
         {
           "word": "приезжать",
-          "gloss": "to come"
+          "gloss": "to come, arrive"
         },
         {
-          "word": "заезжать",
-          "gloss": "to move in"
+          "word": "переезд",
+          "gloss": "move, relocation"
         }
       ]
     },
@@ -5272,11 +5112,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5381,7 +5221,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -5558,7 +5398,7 @@
       "meanings": [
         {
           "en": "to come, to arrive",
-          "note": "By car, train etc. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'езжать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to come (by transport), to arrive', paired with 'приехать'."
+          "note": "By car, train etc. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'езжать')."
         }
       ],
       "forms": {
@@ -5649,11 +5489,11 @@
       "related": [
         {
           "word": "приехать",
-          "gloss": "to arrive"
+          "gloss": "to arrive (pf)"
         },
         {
           "word": "заезжать",
-          "gloss": "to move in"
+          "gloss": "to drop by"
         },
         {
           "word": "уезжать",
@@ -5712,10 +5552,10 @@
           {
             "cells": [
               "accusative",
-              "прочий",
+              "прочий / прочего",
               "прочую",
               "прочее",
-              "прочие"
+              "прочие / прочих"
             ]
           },
           {
@@ -5871,15 +5711,19 @@
     },
     "разыгрывать": {
       "lemma": "разыгрывать",
-      "stress": "разыгры́вать",
+      "stress": "разы́грывать",
       "pos": "verb",
-      "gloss": "are pulling my leg, pranking",
+      "gloss": "to pull someone's leg, to prank; to stage",
       "aspect": "impf",
-      "pair": null,
+      "pair": "разыграть",
       "meanings": [
         {
-          "en": "are pulling my leg, pranking",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'are pulling my leg, pranking'."
+          "en": "to pull someone's leg, to prank",
+          "note": ""
+        },
+        {
+          "en": "to stage, to put on (a show, a scene)",
+          "note": ""
         }
       ],
       "forms": {
@@ -5934,6 +5778,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разыгрывай",
+                "разыгрывайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5952,8 +5813,12 @@
       ],
       "related": [
         {
-          "word": "не разыгрывать",
-          "gloss": "not to are pulling my leg (negated infinitive)"
+          "word": "разыграть",
+          "gloss": "to prank (pf)"
+        },
+        {
+          "word": "розыгрыш",
+          "gloss": "prank; raffle"
         }
       ]
     },
@@ -5966,7 +5831,7 @@
       "meanings": [
         {
           "en": "market, bazaar",
-          "note": "Fleeting vowel о: рынка, на рынке. Common masculine noun meaning 'market' in everyday Russian."
+          "note": "Fleeting vowel о: рынка, на рынке."
         }
       ],
       "forms": {
@@ -6086,7 +5951,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -6144,8 +6009,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -6167,11 +6032,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6243,8 +6108,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -6279,15 +6152,15 @@
     },
     "скромничать": {
       "lemma": "скромничать",
-      "stress": "скромни́чать",
+      "stress": "скро́мничать",
       "pos": "verb",
-      "gloss": "be modest",
+      "gloss": "to be modest",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "be modest",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'be modest'."
+          "en": "to be (overly) modest, play down one's merits",
+          "note": "usually negative imperative: не скромничай"
         }
       ],
       "forms": {
@@ -6342,6 +6215,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "скромничай",
+                "скромничайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6350,18 +6240,18 @@
           "trans": "Congratulations are in order! Lyova, don't be modest."
         },
         {
-          "text": "Надо всё сделать и скромничать вовремя.",
-          "trans": "We need to do everything and be modest on time."
+          "text": "Ну ладно вам, Виктор, только не скромничайте.",
+          "trans": "Oh come on, Viktor, don't be modest."
         }
       ],
       "related": [
         {
           "word": "поскромничать",
-          "gloss": "to be modest (prefixed perfective)"
+          "gloss": "to be modest (pf)"
         },
         {
-          "word": "не скромничать",
-          "gloss": "not to be modest (negated infinitive)"
+          "word": "скромный",
+          "gloss": "modest"
         }
       ]
     },
@@ -6369,13 +6259,13 @@
       "lemma": "съездить",
       "stress": "съе́здить",
       "pos": "verb",
-      "gloss": "will go, make a trip",
+      "gloss": "to go (and come back), to make a trip",
       "aspect": "pf",
       "pair": null,
       "meanings": [
         {
-          "en": "will go, make a trip",
-          "note": "Used as a perfective (single completed action) verb meaning 'will go, make a trip'."
+          "en": "to go somewhere (by transport) and come back",
+          "note": "perfective; съездить в банк = to pop to the bank"
         }
       ],
       "forms": {
@@ -6430,19 +6320,49 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "съезди",
+                "съездите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и съездить вовремя.",
-          "trans": "We need to do everything and will go on time."
+          "text": "Витя, а можно я на рынок съезжу?",
+          "trans": "Vitya, can I pop over to the market?"
         },
         {
-          "text": "На нашей кухне все умеют съездить.",
-          "trans": "In our kitchen everyone knows how to will go."
+          "text": "Ты уже съездил в банк за деньгами?",
+          "trans": "Have you already been to the bank for the money?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "ездить",
+          "gloss": "to go (by transport)"
+        },
+        {
+          "word": "сходить",
+          "gloss": "to go and come back (on foot)"
+        },
+        {
+          "word": "поездка",
+          "gloss": "trip"
+        }
+      ]
     },
     "такой": {
       "lemma": "такой",
@@ -6456,7 +6376,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -6787,7 +6707,7 @@
       "meanings": [
         {
           "en": "success",
-          "note": "Common masculine noun meaning 'success' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6959,10 +6879,11 @@
       "pos": "noun",
       "gloss": "feeling, emotion, sense",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "feeling, emotion, romantic affection",
-          "note": "Common neuter noun meaning 'feeling, emotion, sense' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

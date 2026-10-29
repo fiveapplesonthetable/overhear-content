@@ -416,7 +416,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "мамой?",
@@ -523,7 +523,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1128,7 +1128,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "мамой?",
@@ -1235,7 +1235,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1840,7 +1840,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "мамой?",
@@ -1947,7 +1947,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -2162,11 +2162,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2469,11 +2469,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2528,6 +2528,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2567,11 +2584,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2611,7 +2628,7 @@
       "meanings": [
         {
           "en": "to lie, to tell lies",
-          "note": "Colloquial. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to tell lies', paired with 'соврать'."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -2715,7 +2732,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -2792,84 +2809,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "выслушать": {
       "lemma": "выслушать",
       "stress": "вы́слушать",
@@ -2880,7 +2819,7 @@
       "meanings": [
         {
           "en": "to hear out, listen attentively to",
-          "note": "Listen until the end. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'слушать'). Used as a perfective (single completed action) verb meaning 'to listen to, hear out', paired with 'выслушивать'."
+          "note": "Listen until the end. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'слушать')."
         }
       ],
       "forms": {
@@ -3109,7 +3048,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3151,11 +3090,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3184,11 +3123,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3228,7 +3167,7 @@
       "meanings": [
         {
           "en": "to pay (someone for something)",
-          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить'). Used as a perfective (single completed action) verb meaning 'to pay', paired with 'платить'."
+          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить')."
         }
       ],
       "forms": {
@@ -3537,10 +3476,10 @@
           {
             "cells": [
               "accusative",
-              "космический",
+              "космический / космического",
               "космическую",
               "космическое",
-              "космические"
+              "космические / космических"
             ]
           },
           {
@@ -3671,11 +3610,11 @@
       "meanings": [
         {
           "en": "car",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         },
         {
           "en": "machine",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3749,90 +3688,6 @@
         {
           "word": "машинка",
           "gloss": "toy car"
-        }
-      ]
-    },
-    "много": {
-      "lemma": "много",
-      "stress": "мно́го",
-      "pos": "adv",
-      "gloss": "a lot, much, many",
-      "meanings": [
-        {
-          "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много.",
-          "trans": "We've done a lot."
-        },
-        {
-          "text": "Слишком много дел.",
-          "trans": "Too much to do."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "немного",
-          "gloss": "a little"
-        },
-        {
-          "word": "многовато",
-          "gloss": "a bit too much"
-        },
-        {
-          "word": "намного",
-          "gloss": "much"
-        }
-      ]
-    },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
         }
       ]
     },
@@ -3949,7 +3804,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4001,6 +3856,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4226,29 +4098,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -4400,7 +4250,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4439,12 +4289,10 @@
       "stress": "полюби́ть",
       "pos": "verb",
       "gloss": "to come to love, to grow fond of",
-      "aspect": "pf",
-      "pair": "любить",
       "meanings": [
         {
           "en": "to fall in love with, to grow fond of",
-          "note": "Inceptive perfective of любить. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'любить'). Used as a perfective (single completed action) verb meaning 'to come to love, to grow fond of', paired with 'любить'."
+          "note": "Inceptive perfective of любить. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'любить')."
         }
       ],
       "forms": {
@@ -4545,7 +4393,8 @@
           "word": "любитель",
           "gloss": "fan"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "понравиться": {
       "lemma": "понравиться",
@@ -4612,6 +4461,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понравься",
+                "понравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4634,8 +4500,8 @@
           "gloss": "to be liked"
         },
         {
-          "word": "нравоучение",
-          "gloss": "moral lecture"
+          "word": "любить",
+          "gloss": "to love, to like"
         }
       ]
     },
@@ -4886,11 +4752,11 @@
       "meanings": [
         {
           "en": "connection (phone, radio)",
-          "note": "'выйти на связь' = to get in touch. Common feminine noun meaning 'connection, link' in everyday Russian."
+          "note": "'выйти на связь' = to get in touch."
         },
         {
           "en": "link, contacts",
-          "note": "Common feminine noun meaning 'connection, link' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4971,13 +4837,13 @@
       "lemma": "сговориться",
       "stress": "сговори́ться",
       "pos": "verb",
-      "gloss": "conspired",
+      "gloss": "to conspire, agree secretly",
       "aspect": "pf",
-      "pair": null,
+      "pair": "сговариваться",
       "meanings": [
         {
-          "en": "conspired",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'говориться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'conspired'."
+          "en": "to conspire, collude, agree secretly",
+          "note": "Вы сговорились? = Are you in on this together?"
         }
       ],
       "forms": {
@@ -5032,6 +4898,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сговорись",
+                "сговоритесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5075,7 +4958,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5290,7 +5173,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -5345,6 +5228,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5380,17 +5280,17 @@
       "lemma": "угонять",
       "stress": "угоня́ть",
       "pos": "verb",
-      "gloss": "I steal (cars)",
-      "aspect": "pf",
-      "pair": null,
+      "gloss": "to steal (cars)",
+      "aspect": "impf",
+      "pair": "угнать",
       "meanings": [
         {
-          "en": "I steal (cars)",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'гонять'). Used as a perfective (single completed action) verb meaning 'I steal (cars)'."
+          "en": "to steal (cars), to hijack",
+          "note": "Prefix 'у-' marks removal (stem 'гонять')."
         }
       ],
       "forms": {
-        "title": "Future",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -5441,6 +5341,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "угоняй",
+                "угоняйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5457,7 +5374,16 @@
           "trans": "Usually I steal it and hand it over to the client."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "угнать",
+          "gloss": "to steal (a car) (pf)"
+        },
+        {
+          "word": "угон",
+          "gloss": "car theft"
+        }
+      ]
     },
     "хотеть": {
       "lemma": "хотеть",
@@ -5469,7 +5395,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5524,6 +5450,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5560,11 +5503,11 @@
       "meanings": [
         {
           "en": "circus",
-          "note": "Colloquial: цирк какой-то!. Common masculine noun meaning 'circus' in everyday Russian."
+          "note": "Colloquial: цирк какой-то!."
         },
         {
           "en": "farce, a ridiculous situation",
-          "note": "Colloquial: цирк какой-то!. Common masculine noun meaning 'circus' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

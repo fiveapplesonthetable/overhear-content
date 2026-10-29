@@ -44,7 +44,7 @@
           "pos": "det",
           "stress": "на́шим",
           "gloss": "our",
-          "gram": "instrumental singular, masculine"
+          "gram": "instrumental singular masculine, or dative plural"
         },
         {
           "t": "Максом?",
@@ -252,7 +252,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "в",
@@ -684,7 +684,7 @@
           "pos": "det",
           "stress": "на́шим",
           "gloss": "our",
-          "gram": "instrumental singular, masculine"
+          "gram": "instrumental singular masculine, or dative plural"
         },
         {
           "t": "Максом?",
@@ -892,7 +892,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "в",
@@ -1324,7 +1324,7 @@
           "pos": "det",
           "stress": "на́шим",
           "gloss": "our",
-          "gram": "instrumental singular, masculine"
+          "gram": "instrumental singular masculine, or dative plural"
         },
         {
           "t": "Максом?",
@@ -1532,7 +1532,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "в",
@@ -2338,7 +2338,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2420,12 +2420,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2480,6 +2478,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2499,17 +2514,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "кто": {
       "lemma": "кто",
@@ -2605,7 +2621,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2967,7 +2983,7 @@
       "meanings": [
         {
           "en": "to cheat, to deceive, to trick",
-          "note": "Меня обманули = I've been cheated. Used as a perfective (single completed action) verb meaning 'to cheat, to deceive', paired with 'обманывать'."
+          "note": "Меня обманули = I've been cheated."
         }
       ],
       "forms": {
@@ -3165,11 +3181,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3429,6 +3445,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "происходи",
+                "происходите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3448,11 +3481,11 @@
       "related": [
         {
           "word": "произойти",
-          "gloss": "to happen"
+          "gloss": "to happen (pf)"
         },
         {
-          "word": "исходный",
-          "gloss": "initial"
+          "word": "происшествие",
+          "gloss": "incident"
         }
       ]
     },
@@ -3464,11 +3497,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3504,7 +3537,7 @@
       "meanings": [
         {
           "en": "to hide oneself, to be in hiding",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hide (oneself)', paired with 'спрятаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3617,7 +3650,7 @@
       "meanings": [
         {
           "en": "to try, to attempt, to make an effort",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to try, to attempt', paired with 'попытаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3889,11 +3922,11 @@
       "meanings": [
         {
           "en": "to hide, conceal",
-          "note": "To keep from sight or knowledge. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide; to conceal', paired with 'скрыть'."
+          "note": "To keep from sight or knowledge."
         },
         {
           "en": "to withhold",
-          "note": "To withhold truth. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide; to conceal', paired with 'скрыть'."
+          "note": "To withhold truth."
         }
       ],
       "forms": {
@@ -4004,7 +4037,7 @@
       "meanings": [
         {
           "en": "completely, quite, utterly",
-          "note": "Совершенно верно = quite right. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Совершенно верно = quite right."
         }
       ],
       "forms": null,
@@ -4044,7 +4077,7 @@
       "meanings": [
         {
           "en": "to ask (a question)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask', paired with 'спросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4258,67 +4291,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -4417,7 +4406,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4725,7 +4714,7 @@
       "meanings": [
         {
           "en": "clearly, evidently",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'clearly'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4743,7 +4732,7 @@
       "related": [
         {
           "word": "явный",
-          "gloss": "clearly (adjective)"
+          "gloss": "clear, obvious"
         }
       ]
     }

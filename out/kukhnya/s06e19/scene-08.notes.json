@@ -119,7 +119,7 @@
           "lemma": "сорвать",
           "pos": "verb",
           "stress": "сорва́ть",
-          "gloss": "to disrupt, to ruin; to tear off",
+          "gloss": "to disrupt, to ruin",
           "gram": "infinitive"
         },
         {
@@ -366,7 +366,7 @@
           "pos": "noun",
           "stress": "пла́тья",
           "gloss": "dress, gown",
-          "gram": "genitive / animate accusative singular, masculine"
+          "gram": "nominative plural / genitive singular"
         }
       ]
     },
@@ -404,7 +404,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "мой?",
@@ -503,7 +503,7 @@
           "lemma": "пройти",
           "pos": "verb",
           "stress": "прошло́",
-          "gloss": "have passed",
+          "gloss": "passed, went by",
           "gram": "past, neuter singular, perfective"
         },
         {
@@ -679,7 +679,7 @@
           "lemma": "сорвать",
           "pos": "verb",
           "stress": "сорва́ть",
-          "gloss": "to disrupt, to ruin; to tear off",
+          "gloss": "to disrupt, to ruin",
           "gram": "infinitive"
         },
         {
@@ -926,7 +926,7 @@
           "pos": "noun",
           "stress": "пла́тья",
           "gloss": "dress, gown",
-          "gram": "genitive / animate accusative singular, masculine"
+          "gram": "nominative plural / genitive singular"
         }
       ]
     },
@@ -964,7 +964,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "мой?",
@@ -1063,7 +1063,7 @@
           "lemma": "пройти",
           "pos": "verb",
           "stress": "прошло́",
-          "gloss": "have passed",
+          "gloss": "passed, went by",
           "gram": "past, neuter singular, perfective"
         },
         {
@@ -1239,7 +1239,7 @@
           "lemma": "сорвать",
           "pos": "verb",
           "stress": "сорва́ть",
-          "gloss": "to disrupt, to ruin; to tear off",
+          "gloss": "to disrupt, to ruin",
           "gram": "infinitive"
         },
         {
@@ -1486,7 +1486,7 @@
           "pos": "noun",
           "stress": "пла́тья",
           "gloss": "dress, gown",
-          "gram": "genitive / animate accusative singular, masculine"
+          "gram": "nominative plural / genitive singular"
         }
       ]
     },
@@ -1524,7 +1524,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "мой?",
@@ -1623,7 +1623,7 @@
           "lemma": "пройти",
           "pos": "verb",
           "stress": "прошло́",
-          "gloss": "have passed",
+          "gloss": "passed, went by",
           "gram": "past, neuter singular, perfective"
         },
         {
@@ -1757,7 +1757,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1795,7 +1795,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -1936,84 +1936,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2108,7 +2030,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2140,10 +2062,11 @@
       "pos": "noun",
       "gloss": "bachelorette party",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "bachelorette party",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'bachelorette party' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2211,12 +2134,12 @@
       ],
       "related": [
         {
-          "word": "без девични",
-          "gloss": "without bachelorette party"
+          "word": "мальчишник",
+          "gloss": "bachelor party"
         },
         {
-          "word": "наш девичник",
-          "gloss": "our bachelorette party"
+          "word": "свадьба",
+          "gloss": "wedding"
         }
       ]
     },
@@ -2313,7 +2236,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2363,7 +2286,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2450,7 +2373,7 @@
       "meanings": [
         {
           "en": "to take away, to pick up",
-          "note": "забрать заявление = to withdraw a statement"
+          "note": "забрать детей из школы = to pick the kids up from school"
         },
         {
           "en": "to withdraw",
@@ -2640,74 +2563,23 @@
       "lemma": "либо",
       "stress": "ли́бо",
       "pos": "conj",
-      "gloss": "either",
+      "gloss": "or; either ... or",
       "meanings": [
         {
-          "en": "either",
-          "note": ""
+          "en": "or; either ... or",
+          "note": "либо ... либо = either ... or"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "либо",
-              "либа"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "либа",
-              "либ"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "либу",
-              "либам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "либо",
-              "либа"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "либом",
-              "либами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "либе",
-              "либах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Либо ты меня сейчас научишь.",
-          "trans": "Either you will teach me right now."
+          "text": "Либо ты меня сейчас научишь, либо я ухожу.",
+          "trans": "Either you teach me right now, or I'm leaving."
         },
         {
-          "text": "Либо правды.",
-          "trans": "Or the truth."
+          "text": "Чаевые, либо большие проблемы.",
+          "trans": "A tip, or big problems."
         }
       ],
       "related": []
@@ -2722,11 +2594,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2810,8 +2682,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -2942,7 +2814,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2994,6 +2866,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3148,7 +3037,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -3386,191 +3275,6 @@
         }
       ]
     },
-    "отличный": {
-      "lemma": "отличный",
-      "stress": "отли́чный",
-      "pos": "adj",
-      "gloss": "excellent",
-      "meanings": [
-        {
-          "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "отличный",
-              "отличная",
-              "отличное",
-              "отличные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "отличного",
-              "отличной",
-              "отличного",
-              "отличных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "отличному",
-              "отличной",
-              "отличному",
-              "отличным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "отличный / отличного",
-              "отличную",
-              "отличное",
-              "отличные / отличных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "отличным",
-              "отличной",
-              "отличным",
-              "отличными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "отличном",
-              "отличной",
-              "отличном",
-              "отличных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Квартира будет отличная.",
-          "trans": "It'll be an excellent flat."
-        },
-        {
-          "text": "Отличный район!",
-          "trans": "An excellent area!"
-        },
-        {
-          "text": "Квартира будет отличная. На Симашко есть новый дом.",
-          "trans": "It'll be an excellent flat. There's a new building on Simashko Street."
-        }
-      ],
-      "related": [
-        {
-          "word": "отлично",
-          "gloss": "perfectly"
-        }
-      ]
-    },
-    "план": {
-      "lemma": "план",
-      "stress": "план",
-      "pos": "noun",
-      "gloss": "plan",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "plan, scheme",
-          "note": "Common masculine noun meaning 'plan' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "план",
-              "планы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "плана",
-              "планов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "плану",
-              "планам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "план",
-              "планы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "планом",
-              "планами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "плане",
-              "планах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мэр придумал новый план.",
-          "trans": "The mayor came up with a new plan."
-        },
-        {
-          "text": "Какой у нас план?",
-          "trans": "What is our plan?"
-        },
-        {
-          "text": "Но мэр придумал новый план. Сосед мэра теперь пойдёт в мэры.",
-          "trans": "But the mayor came up with a new plan. The mayor's neighbour will now run for mayor."
-        }
-      ],
-      "related": [
-        {
-          "word": "запланировать",
-          "gloss": "to plan"
-        }
-      ]
-    },
     "платье": {
       "lemma": "платье",
       "stress": "пла́тье",
@@ -3580,7 +3284,7 @@
       "meanings": [
         {
           "en": "dress, frock",
-          "note": "Common neuter noun meaning 'dress, gown' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3665,13 +3369,13 @@
       "lemma": "подвезти",
       "stress": "подвезти́",
       "pos": "verb",
-      "gloss": "give a ride",
+      "gloss": "to give a lift, to drive (someone)",
       "aspect": "pf",
-      "pair": null,
+      "pair": "подвозить",
       "meanings": [
         {
-          "en": "give a ride",
-          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'везти'). Used as a perfective (single completed action) verb meaning 'give a ride'."
+          "en": "to give (someone) a lift",
+          "note": ""
         }
       ],
       "forms": {
@@ -3685,22 +3389,22 @@
           {
             "cells": [
               "1st",
-              "подвезю",
-              "подвезем"
+              "подвезу",
+              "подвезём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "подвезешь",
-              "подвезете"
+              "подвезёшь",
+              "подвезёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "подвезет",
-              "подвезют"
+              "подвезёт",
+              "подвезут"
             ]
           }
         ]
@@ -3719,10 +3423,27 @@
             {
               "cells": [
                 "past",
-                "подвезл",
+                "подвёз",
                 "подвезла",
                 "подвезло",
                 "подвезли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "подвези",
+                "подвезите"
               ]
             }
           ]
@@ -3731,11 +3452,15 @@
       "examples": [
         {
           "text": "Я решил заехать за коллегой и подвезти на работу.",
-          "trans": "I decided to pick up my colleague and give her a ride to work."
+          "trans": "I decided to pick up my colleague and give her a lift to work."
         },
         {
-          "text": "Надо всё сделать и подвезти вовремя.",
-          "trans": "We need to do everything and give a ride on time."
+          "text": "Тогда садитесь, я вас подвезу.",
+          "trans": "Then get in, I'll give you a lift."
+        },
+        {
+          "text": "Спасибо, что подвезла.",
+          "trans": "Thanks for the lift."
         }
       ],
       "related": []
@@ -3750,7 +3475,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -3853,7 +3578,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3973,7 +3698,7 @@
         },
         {
           "text": "Потом пройдёт.",
-          "trans": "Then it passes."
+          "trans": "It'll pass later."
         }
       ],
       "related": [
@@ -4026,7 +3751,7 @@
       "meanings": [
         {
           "en": "to sit down",
-          "note": "Садитесь = sit down (polite). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to sit down', paired with 'сесть'."
+          "note": "Садитесь = sit down (polite)."
         }
       ],
       "forms": {
@@ -4129,7 +3854,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4232,7 +3957,7 @@
       "meanings": [
         {
           "en": "wedding",
-          "note": "From свадьба (wedding). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('wedding')."
+          "note": "From свадьба (wedding)."
         }
       ],
       "forms": {
@@ -4275,10 +4000,10 @@
           {
             "cells": [
               "accusative",
-              "свадебный",
+              "свадебный / свадебного",
               "свадебную",
               "свадебное",
-              "свадебные"
+              "свадебные / свадебных"
             ]
           },
           {
@@ -4327,7 +4052,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -4385,8 +4110,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -4401,15 +4126,15 @@
     },
     "своровать": {
       "lemma": "своровать",
-      "stress": "своро́вать",
+      "stress": "сворова́ть",
       "pos": "verb",
       "gloss": "to steal",
       "aspect": "pf",
-      "pair": null,
+      "pair": "воровать",
       "meanings": [
         {
           "en": "to steal",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'воровать'). Used as a perfective (single completed action) verb meaning 'to steal'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'воровать')."
         }
       ],
       "forms": {
@@ -4464,6 +4189,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "своруй",
+                "своруйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4478,8 +4220,16 @@
       ],
       "related": [
         {
-          "word": "не своровать",
-          "gloss": "not to to steal (negated infinitive)"
+          "word": "воровать",
+          "gloss": "to steal (impf)"
+        },
+        {
+          "word": "украсть",
+          "gloss": "to steal"
+        },
+        {
+          "word": "вор",
+          "gloss": "thief"
         }
       ]
     },
@@ -4560,29 +4310,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "согласен",
-                "согласна",
-                "согласно",
-                "согласны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я согласен.",
@@ -4622,11 +4350,11 @@
       "meanings": [
         {
           "en": "to disrupt, to ruin (a lesson or plan)",
-          "note": "Сорвать урок = to disrupt a class. Used as a perfective (single completed action) verb meaning 'to disrupt, to ruin; to tear off', paired with 'срывать'."
+          "note": "Сорвать урок = to disrupt a class."
         },
         {
           "en": "to pluck, to tear off",
-          "note": "Used as a perfective (single completed action) verb meaning 'to disrupt, to ruin; to tear off', paired with 'срывать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4791,8 +4519,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4939,7 +4675,7 @@
       "meanings": [
         {
           "en": "to steal",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'красть'). Used as a perfective (single completed action) verb meaning 'to steal', paired with 'красть'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'красть')."
         }
       ],
       "forms": {
@@ -5042,7 +4778,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

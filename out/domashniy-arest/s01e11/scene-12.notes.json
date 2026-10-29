@@ -159,8 +159,8 @@
           "lemma": "растолстеть",
           "pos": "verb",
           "stress": "растолсте́ю",
-          "gloss": "I get fat",
-          "gram": "1st person singular future"
+          "gloss": "(I) get fat",
+          "gram": "1st person singular future, perfective"
         }
       ]
     },
@@ -259,7 +259,7 @@
           "lemma": "сердце",
           "pos": "noun",
           "stress": "се́рдце",
-          "gloss": "heart (a bad heart)",
+          "gloss": "heart",
           "gram": "nominative singular, neuter"
         }
       ]
@@ -471,7 +471,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -759,8 +759,8 @@
           "lemma": "растолстеть",
           "pos": "verb",
           "stress": "растолсте́ю",
-          "gloss": "I get fat",
-          "gram": "1st person singular future"
+          "gloss": "(I) get fat",
+          "gram": "1st person singular future, perfective"
         }
       ]
     },
@@ -859,7 +859,7 @@
           "lemma": "сердце",
           "pos": "noun",
           "stress": "се́рдце",
-          "gloss": "heart (a bad heart)",
+          "gloss": "heart",
           "gram": "nominative singular, neuter"
         }
       ]
@@ -1071,7 +1071,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1359,8 +1359,8 @@
           "lemma": "растолстеть",
           "pos": "verb",
           "stress": "растолсте́ю",
-          "gloss": "I get fat",
-          "gram": "1st person singular future"
+          "gloss": "(I) get fat",
+          "gram": "1st person singular future, perfective"
         }
       ]
     },
@@ -1459,7 +1459,7 @@
           "lemma": "сердце",
           "pos": "noun",
           "stress": "се́рдце",
-          "gloss": "heart (a bad heart)",
+          "gloss": "heart",
           "gram": "nominative singular, neuter"
         }
       ]
@@ -1671,7 +1671,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1869,7 +1869,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1903,12 +1903,16 @@
       "lemma": "блин",
       "stress": "блин",
       "pos": "noun",
-      "gloss": "pancake, blin",
+      "gloss": "pancake, blin; damn! (interjection)",
       "gender": "m",
       "meanings": [
         {
-          "en": "pancake, crepe",
-          "note": "Traditional Russian pancake. Common masculine noun meaning 'pancake, blin' in everyday Russian."
+          "en": "pancake, blin",
+          "note": "Traditional Russian pancake."
+        },
+        {
+          "en": "damn!, dang! (mild expletive)",
+          "note": "colloquial euphemism for a swear word"
         }
       ],
       "forms": {
@@ -1993,7 +1997,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2233,11 +2237,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2359,7 +2363,7 @@
       "meanings": [
         {
           "en": "to look, appear (well, strange)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть'). Used as an verbal verb meaning 'to look, appear'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть')."
         }
       ],
       "forms": {
@@ -2397,6 +2401,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -2405,10 +2410,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "выглядел",
                 "выглядела",
                 "выглядело",
                 "выглядели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выгляди",
+                "выглядите"
               ]
             }
           ]
@@ -2572,7 +2595,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2700,7 +2723,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2791,7 +2814,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3174,11 +3201,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3207,11 +3234,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3246,12 +3273,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3306,6 +3331,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3325,17 +3367,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "искренне": {
       "lemma": "искренне",
@@ -3558,11 +3601,15 @@
       "related": [
         {
           "word": "покушать",
+          "gloss": "to have something to eat"
+        },
+        {
+          "word": "есть",
           "gloss": "to eat"
         },
         {
-          "word": "накушаться",
-          "gloss": "to get drunk"
+          "word": "кушать подано",
+          "gloss": "dinner is served"
         }
       ]
     },
@@ -3576,11 +3623,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3664,8 +3711,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -3693,11 +3740,11 @@
       "meanings": [
         {
           "en": "to call",
-          "note": "To name or address someone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call; to name', paired with 'назвать'."
+          "note": "To name or address someone."
         },
         {
           "en": "to designate",
-          "note": "To assign a title. Used as an imperfective (ongoing/repeated action) verb meaning 'to call; to name', paired with 'назвать'."
+          "note": "To assign a title."
         }
       ],
       "forms": {
@@ -3788,15 +3835,19 @@
       "related": [
         {
           "word": "назвать",
-          "gloss": "to call"
+          "gloss": "to call, to name (pf)"
         },
         {
           "word": "называться",
           "gloss": "to be called"
         },
         {
-          "word": "вызывать",
-          "gloss": "to cause"
+          "word": "название",
+          "gloss": "name, title"
+        },
+        {
+          "word": "имя",
+          "gloss": "name"
         }
       ]
     },
@@ -3851,7 +3902,7 @@
         },
         {
           "en": "father's name",
-          "note": "Traditional Russian naming. Common neuter noun meaning 'patronymic' in everyday Russian."
+          "note": "Traditional Russian naming."
         }
       ],
       "forms": {
@@ -3923,16 +3974,16 @@
       ],
       "related": [
         {
-          "word": "честно",
-          "gloss": "honestly"
+          "word": "отец",
+          "gloss": "father"
         },
         {
-          "word": "нечестно",
-          "gloss": "unfairly"
+          "word": "имя",
+          "gloss": "first name"
         },
         {
-          "word": "честный",
-          "gloss": "honest"
+          "word": "фамилия",
+          "gloss": "surname"
         }
       ]
     },
@@ -3983,11 +4034,11 @@
       "meanings": [
         {
           "en": "a couple",
-          "note": "A small quantity, couple of things. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common feminine noun meaning 'couple, pair; a couple of' in everyday Russian."
+          "note": "A small quantity, couple of things. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         },
         {
           "en": "couple",
-          "note": "Two people together. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common feminine noun meaning 'couple, pair; a couple of' in everyday Russian."
+          "note": "Two people together. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         }
       ],
       "forms": {
@@ -4055,8 +4106,8 @@
       ],
       "related": [
         {
-          "word": "пароль",
-          "gloss": "password"
+          "word": "пара",
+          "gloss": "pair, couple"
         }
       ]
     },
@@ -4103,7 +4154,7 @@
       "meanings": [
         {
           "en": "to put, to place, to lay down",
-          "note": "+ в/на + accusative. Used as a perfective (single completed action) verb meaning 'to put, to lay down', paired with 'класть'."
+          "note": "+ в/на + accusative."
         }
       ],
       "forms": {
@@ -4194,11 +4245,15 @@
       "related": [
         {
           "word": "класть",
-          "gloss": "to put"
+          "gloss": "to put (impf)"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "выложить",
+          "gloss": "to lay out"
+        },
+        {
+          "word": "отложить",
+          "gloss": "to put aside, to postpone"
         }
       ]
     },
@@ -4207,12 +4262,10 @@
       "stress": "полюби́ть",
       "pos": "verb",
       "gloss": "to come to love, to grow fond of",
-      "aspect": "pf",
-      "pair": "любить",
       "meanings": [
         {
           "en": "to fall in love with, to grow fond of",
-          "note": "Inceptive perfective of любить. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'любить'). Used as a perfective (single completed action) verb meaning 'to come to love, to grow fond of', paired with 'любить'."
+          "note": "Inceptive perfective of любить. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'любить')."
         }
       ],
       "forms": {
@@ -4313,7 +4366,8 @@
           "word": "любитель",
           "gloss": "fan"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "поправляться": {
       "lemma": "поправляться",
@@ -4325,11 +4379,11 @@
       "meanings": [
         {
           "en": "to gain weight",
-          "note": "To put on weight. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to gain weight; to recover', paired with 'поправиться'."
+          "note": "To put on weight."
         },
         {
           "en": "to recover",
-          "note": "To get better from illness. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to gain weight; to recover', paired with 'поправиться'."
+          "note": "To get better from illness."
         }
       ],
       "forms": {
@@ -4538,7 +4592,7 @@
         },
         {
           "en": "wonderful!",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -4607,11 +4661,11 @@
       "meanings": [
         {
           "en": "to get fat",
-          "note": "To gain considerable weight. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'толстеть'). Used as a perfective (single completed action) verb meaning 'to get fat; to put on weight', paired with 'толстеть'."
+          "note": "To gain considerable weight. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'толстеть')."
         },
         {
           "en": "to become stout",
-          "note": "To grow heavy. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'толстеть'). Used as a perfective (single completed action) verb meaning 'to get fat; to put on weight', paired with 'толстеть'."
+          "note": "To grow heavy. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'толстеть')."
         }
       ],
       "forms": {
@@ -4799,7 +4853,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4823,67 +4877,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4951,7 +4953,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -5019,11 +5021,11 @@
       "meanings": [
         {
           "en": "figure",
-          "note": "Body shape, physique. Common feminine noun meaning 'figure; body shape' in everyday Russian."
+          "note": "Body shape, physique."
         },
         {
           "en": "chess piece",
-          "note": "Figure in chess. Common feminine noun meaning 'figure; body shape' in everyday Russian."
+          "note": "Figure in chess."
         }
       ],
       "forms": {
@@ -5198,7 +5200,7 @@
         },
         {
           "en": "pure",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('clean')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5267,29 +5269,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "чист",
-                "чиста",
-                "чисто",
-                "чисты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Всё чисто.",
@@ -5307,11 +5287,15 @@
       "related": [
         {
           "word": "чисто",
-          "gloss": "clearly"
+          "gloss": "clean; all clear"
         },
         {
           "word": "чистота",
           "gloss": "cleanliness"
+        },
+        {
+          "word": "чистить",
+          "gloss": "to clean"
         }
       ]
     },

@@ -397,7 +397,7 @@
           "lemma": "ложь",
           "pos": "noun",
           "stress": null,
-          "gloss": "of lie",
+          "gloss": "lie(s)",
           "gram": "feminine inanimate, genitive singular"
         }
       ]
@@ -435,7 +435,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -1081,7 +1081,7 @@
           "lemma": "ложь",
           "pos": "noun",
           "stress": null,
-          "gloss": "of lie",
+          "gloss": "lie(s)",
           "gram": "feminine inanimate, genitive singular"
         }
       ]
@@ -1119,7 +1119,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -1765,7 +1765,7 @@
           "lemma": "ложь",
           "pos": "noun",
           "stress": null,
-          "gloss": "of lie",
+          "gloss": "lie(s)",
           "gram": "feminine inanimate, genitive singular"
         }
       ]
@@ -1803,7 +1803,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -2079,7 +2079,7 @@
       "meanings": [
         {
           "en": "bar, pub, tavern",
-          "note": "Common masculine noun meaning 'bar, pub' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2165,7 +2165,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2205,7 +2205,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -2300,15 +2300,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2474,11 +2478,11 @@
       "meanings": [
         {
           "en": "to believe (someone or something)",
-          "note": "+ dative: верить мне. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "+ dative: верить мне."
         },
         {
           "en": "to believe in",
-          "note": "Верить в + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "Верить в + accusative."
         }
       ],
       "forms": {
@@ -2706,7 +2710,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2805,13 +2809,12 @@
       "lemma": "выборы",
       "stress": "вы́боры",
       "pos": "noun",
-      "gloss": "election",
-      "gender": "m",
+      "gloss": "election(s)",
       "number": "pl",
       "meanings": [
         {
           "en": "election",
-          "note": "Plural only. Common substantive noun meaning 'election' in everyday Russian."
+          "note": "Plural only."
         }
       ],
       "forms": {
@@ -3013,12 +3016,11 @@
       "stress": "деба́ты",
       "pos": "noun",
       "gloss": "debate",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
           "en": "debate, discussion",
-          "note": "Plural only noun. Common plural-only noun meaning 'debate' in everyday Russian."
+          "note": "Plural only noun."
         }
       ],
       "forms": {
@@ -3096,6 +3098,7 @@
       "pos": "noun",
       "gloss": "grandfather, grandpa",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "grandfather, grandpa",
@@ -3183,7 +3186,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3232,7 +3235,7 @@
       "meanings": [
         {
           "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
+          "note": "Location; compare домой = homeward."
         }
       ],
       "forms": null,
@@ -3262,7 +3265,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3385,11 +3388,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3508,10 +3511,10 @@
           {
             "cells": [
               "accusative",
-              "знакомый",
+              "знакомый / знакомого",
               "знакомую",
               "знакомое",
-              "знакомые"
+              "знакомые / знакомых"
             ]
           },
           {
@@ -3534,29 +3537,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "знаком",
-                "знакома",
-                "знакомо",
-                "знакомы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "А знакомо ли тебе, Аркашка, слово педикюр?",
@@ -3591,12 +3572,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3651,6 +3630,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3670,17 +3666,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3728,11 +3725,11 @@
       "meanings": [
         {
           "en": "because of, on account of",
-          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "from behind",
-          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3772,7 +3769,7 @@
       "meanings": [
         {
           "en": "to look for, to search",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to look for'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3876,7 +3873,7 @@
       "meanings": [
         {
           "en": "lie, falsehood, untruth",
-          "note": "Common feminine noun meaning 'lie, falsehood' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4043,7 +4040,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4079,7 +4076,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4338,7 +4335,7 @@
       "meanings": [
         {
           "en": "to spend the night, stay overnight",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to spend the night'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4352,22 +4349,22 @@
           {
             "cells": [
               "1st",
-              "ночюю",
-              "ночюем"
+              "ночую",
+              "ночуем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "ночюешь",
-              "ночюете"
+              "ночуешь",
+              "ночуете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "ночюет",
-              "ночюют"
+              "ночует",
+              "ночуют"
             ]
           }
         ]
@@ -4390,6 +4387,23 @@
                 "ночевала",
                 "ночевало",
                 "ночевали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ночуй",
+                "ночуйте"
               ]
             }
           ]
@@ -4553,11 +4567,11 @@
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         },
         {
           "en": "to experience, to live through",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         }
       ],
       "forms": {
@@ -4666,7 +4680,7 @@
       "meanings": [
         {
           "en": "to prepare, to get (something) ready",
-          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'готовить'). Used as a perfective (single completed action) verb meaning 'to prepare, to get ready', paired with 'подготавливать'."
+          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'готовить')."
         }
       ],
       "forms": {
@@ -4779,7 +4793,7 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call, to phone', paired with 'звонить'."
+          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить')."
         }
       ],
       "forms": {
@@ -4963,7 +4977,7 @@
       "meanings": [
         {
           "en": "to check, to test, to verify",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить'). Used as a perfective (single completed action) verb meaning 'to check, to test', paired with 'проверять'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить')."
         }
       ],
       "forms": {
@@ -5072,10 +5086,11 @@
       "pos": "noun",
       "gloss": "provocation",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "provocation, setup",
-          "note": "International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'provocation' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5162,7 +5177,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5312,7 +5327,7 @@
       "meanings": [
         {
           "en": "rumor, report; hearing",
-          "note": "Common masculine noun meaning 'rumor, hearing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5396,7 +5411,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5425,7 +5440,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5459,11 +5474,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -5506,10 +5521,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -5532,29 +5547,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",
@@ -5585,11 +5578,11 @@
       "meanings": [
         {
           "en": "telephone receiver; the phone",
-          "note": "Бросить трубку = to hang up. Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": "Бросить трубку = to hang up."
         },
         {
           "en": "tube, pipe",
-          "note": "Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

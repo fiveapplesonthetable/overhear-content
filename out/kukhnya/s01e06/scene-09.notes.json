@@ -360,7 +360,7 @@
           "pos": "noun",
           "stress": "во́лос",
           "gloss": "hair",
-          "gram": "masculine accusative singular"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "попал",
@@ -476,7 +476,7 @@
           "pos": "noun",
           "stress": "во́лос",
           "gloss": "hair",
-          "gram": "masculine accusative singular"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "не",
@@ -508,7 +508,7 @@
           "pos": "det",
           "stress": "мои́м",
           "gloss": "my",
-          "gram": "masculine instrumental singular"
+          "gram": "instrumental singular, masculine / neuter"
         }
       ]
     },
@@ -660,7 +660,7 @@
           "t": "шеф-повара.",
           "lemma": "шеф-повар",
           "pos": "noun",
-          "stress": "ше́ф-повара",
+          "stress": "шеф-по́вара",
           "gloss": "head chef",
           "gram": "masculine singular, accusative"
         }
@@ -1024,7 +1024,7 @@
           "pos": "noun",
           "stress": "во́лос",
           "gloss": "hair",
-          "gram": "masculine accusative singular"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "попал",
@@ -1140,7 +1140,7 @@
           "pos": "noun",
           "stress": "во́лос",
           "gloss": "hair",
-          "gram": "masculine accusative singular"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "не",
@@ -1172,7 +1172,7 @@
           "pos": "det",
           "stress": "мои́м",
           "gloss": "my",
-          "gram": "masculine instrumental singular"
+          "gram": "instrumental singular, masculine / neuter"
         }
       ]
     },
@@ -1324,7 +1324,7 @@
           "t": "шеф-повара.",
           "lemma": "шеф-повар",
           "pos": "noun",
-          "stress": "ше́ф-повара",
+          "stress": "шеф-по́вара",
           "gloss": "head chef",
           "gram": "masculine singular, accusative"
         }
@@ -1688,7 +1688,7 @@
           "pos": "noun",
           "stress": "во́лос",
           "gloss": "hair",
-          "gram": "masculine accusative singular"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "попал",
@@ -1804,7 +1804,7 @@
           "pos": "noun",
           "stress": "во́лос",
           "gloss": "hair",
-          "gram": "masculine accusative singular"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "не",
@@ -1836,7 +1836,7 @@
           "pos": "det",
           "stress": "мои́м",
           "gloss": "my",
-          "gram": "masculine instrumental singular"
+          "gram": "instrumental singular, masculine / neuter"
         }
       ]
     },
@@ -1988,7 +1988,7 @@
           "t": "шеф-повара.",
           "lemma": "шеф-повар",
           "pos": "noun",
-          "stress": "ше́ф-повара",
+          "stress": "шеф-по́вара",
           "gloss": "head chef",
           "gram": "masculine singular, accusative"
         }
@@ -2082,17 +2082,21 @@
         },
         {
           "text": "Тогда, наверное, он выпал из бороды.",
-          "trans": "Then probably it fell out of a beard."
+          "trans": "Then it probably fell out of the beard."
         },
         {
           "text": "У меня нет бороды, позовите шефа!",
-          "trans": "I do not have a beard, call the chef!"
+          "trans": "I don't have a beard, call the chef!"
         }
       ],
       "related": [
         {
-          "word": "бороться",
-          "gloss": "to fight"
+          "word": "бородатый",
+          "gloss": "bearded"
+        },
+        {
+          "word": "усы",
+          "gloss": "moustache"
         }
       ]
     },
@@ -2298,7 +2302,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2437,11 +2441,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2496,6 +2500,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2535,7 +2556,7 @@
       "meanings": [
         {
           "en": "carefully, attentively, closely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2575,7 +2596,7 @@
       "meanings": [
         {
           "en": "hair (single hair or collective in plural)",
-          "note": "Declinable masculine noun meaning 'hair', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2633,16 +2654,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Волосы не должны попасть в еду.",
-          "trans": "Hair must not fall into the food."
+          "text": "Найдут один волос — сразу уволят!",
+          "trans": "If they find a single hair, you'll be fired on the spot!"
         },
         {
           "text": "Волосы не должны попасть в еду!",
-          "trans": "Hair must not fall into the food!"
+          "trans": "Hair must not get into the food!"
         },
         {
-          "text": "Найдут один волос — сразу уволят!",
-          "trans": "If they find even one hair — you'll be fired immediately!"
+          "text": "Как этот волос попал в тарелку?",
+          "trans": "How did this hair get onto the plate?"
         }
       ],
       "related": []
@@ -2739,7 +2760,7 @@
       "meanings": [
         {
           "en": "to fall out",
-          "note": "Takes из + genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пасть'). Used as a perfective (single completed action) verb meaning 'to fall out', paired with 'выпадать'."
+          "note": "Takes из + genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пасть')."
         }
       ],
       "forms": {
@@ -2830,15 +2851,15 @@
       "related": [
         {
           "word": "выпадать",
-          "gloss": "to fall out"
+          "gloss": "to fall out (impf)"
         },
         {
-          "word": "попасться",
-          "gloss": "to get caught"
+          "word": "упасть",
+          "gloss": "to fall"
         },
         {
-          "word": "спасти",
-          "gloss": "to save"
+          "word": "падать",
+          "gloss": "to fall"
         }
       ]
     },
@@ -2851,11 +2872,11 @@
       "meanings": [
         {
           "en": "head",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "'голову оторвать' = to tear someone's head off",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "en": "голову оторвать = to tear someone's head off",
+          "note": "an idiom for a big telling-off"
         }
       ],
       "forms": {
@@ -2936,11 +2957,11 @@
       "meanings": [
         {
           "en": "young woman, girl",
-          "note": "Also 'girlfriend' (моя девушка). Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Also 'girlfriend' (моя девушка)."
         },
         {
           "en": "girlfriend",
-          "note": "Своя девушка. Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Своя девушка."
         }
       ],
       "forms": {
@@ -3101,7 +3122,7 @@
       "meanings": [
         {
           "en": "long",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('long')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3144,10 +3165,10 @@
           {
             "cells": [
               "accusative",
-              "длинный / -ого",
+              "длинный / длинного",
               "длинную",
               "длинное",
-              "длинные / -ых"
+              "длинные / длинных"
             ]
           },
           {
@@ -3200,7 +3221,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -3291,7 +3312,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3303,7 +3328,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -3552,7 +3577,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3604,6 +3629,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3850,7 +3892,7 @@
       "meanings": [
         {
           "en": "immediately, at once",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно')."
         }
       ],
       "forms": null,
@@ -4157,7 +4199,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -4231,11 +4273,11 @@
       "meanings": [
         {
           "en": "to come up to, to approach",
-          "note": "К + dative. Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": "К + dative."
         },
         {
           "en": "to suit, to fit",
-          "note": "Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4315,10 +4357,6 @@
           "trans": "Come here to me!"
         },
         {
-          "text": "Не подходите к моему ребёнку!",
-          "trans": "Keep away from my child!"
-        },
-        {
           "text": "Нам не нужна ваша приставка! Ещё раз подойдёте к моему ребёнку — пожалеете!",
           "trans": "We don't need your console! Come near my child again and you'll be sorry!"
         }
@@ -4348,7 +4386,7 @@
       "meanings": [
         {
           "en": "to call, summon, invite",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звать'). Used as a perfective (single completed action) verb meaning 'to call, summon', paired with 'звать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звать')."
         }
       ],
       "forms": {
@@ -4428,12 +4466,12 @@
           "trans": "Uncle Arkady will fix everything and call you."
         },
         {
-          "text": "Позвать врача.",
-          "trans": "To call a doctor."
+          "text": "Я просил позвать сомелье, а не буфетчика!",
+          "trans": "I asked you to call the sommelier, not the barman!"
         },
         {
           "text": "Главное, чтобы она не позвала директора.",
-          "trans": "The main thing is that she does not call the director."
+          "trans": "The main thing is that she doesn't call the director."
         }
       ],
       "related": [
@@ -4590,11 +4628,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -4778,7 +4816,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4786,7 +4824,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4899,7 +4937,7 @@
       "meanings": [
         {
           "en": "to ask (a question)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask', paired with 'спросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5011,7 +5049,7 @@
       "meanings": [
         {
           "en": "table, desk",
-          "note": "End-stressed in all oblique cases. Common masculine noun meaning 'table, desk' in everyday Russian."
+          "note": "End-stressed in all oblique cases."
         }
       ],
       "forms": {
@@ -5095,7 +5133,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5190,7 +5228,7 @@
       "meanings": [
         {
           "en": "plate, platter, bowl",
-          "note": "Tableware. Common feminine noun meaning 'plate, platter, dish' in everyday Russian."
+          "note": "Tableware."
         }
       ],
       "forms": {
@@ -5303,7 +5341,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

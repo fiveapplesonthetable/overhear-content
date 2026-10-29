@@ -79,7 +79,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -154,7 +154,7 @@
           "pos": "adv",
           "stress": "похо́ду",
           "gloss": "apparently, it seems",
-          "gram": "UNKNOWN"
+          "gram": "adverb (colloquial)"
         },
         {
           "t": "сработал",
@@ -191,8 +191,8 @@
           "lemma": "замолчать",
           "pos": "verb",
           "stress": "замолчи́",
-          "gloss": "to fall silent, shut up",
-          "gram": "2sg.imp"
+          "gloss": "shut up, be quiet",
+          "gram": "2nd person singular imperative, perfective"
         },
         {
           "t": "пожалуйста.",
@@ -440,7 +440,7 @@
           "pos": "adv",
           "stress": "похо́ду",
           "gloss": "apparently, it seems",
-          "gram": "UNKNOWN"
+          "gram": "adverb (colloquial)"
         },
         {
           "t": "сработал",
@@ -477,8 +477,8 @@
           "lemma": "замолчать",
           "pos": "verb",
           "stress": "замолчи́",
-          "gloss": "to fall silent, shut up",
-          "gram": "2sg.imp"
+          "gloss": "shut up, be quiet",
+          "gram": "2nd person singular imperative, perfective"
         },
         {
           "t": "пожалуйста.",
@@ -605,7 +605,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -680,7 +680,7 @@
           "pos": "adv",
           "stress": "похо́ду",
           "gloss": "apparently, it seems",
-          "gram": "UNKNOWN"
+          "gram": "adverb (colloquial)"
         },
         {
           "t": "сработал",
@@ -717,8 +717,8 @@
           "lemma": "замолчать",
           "pos": "verb",
           "stress": "замолчи́",
-          "gloss": "to fall silent, shut up",
-          "gram": "2sg.imp"
+          "gloss": "shut up, be quiet",
+          "gram": "2nd person singular imperative, perfective"
         },
         {
           "t": "пожалуйста.",
@@ -1078,12 +1078,10 @@
       "stress": "замолча́ть",
       "pos": "verb",
       "gloss": "to fall silent, shut up",
-      "aspect": "pf",
-      "pair": "молчать",
       "meanings": [
         {
           "en": "to fall silent, stop talking",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'молчать'). Used as a perfective (single completed action) verb meaning 'to fall silent, shut up', paired with 'молчать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'молчать')."
         }
       ],
       "forms": {
@@ -1184,7 +1182,8 @@
           "word": "молча",
           "gloss": "silently"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "злой": {
       "lemma": "злой",
@@ -1194,7 +1193,7 @@
       "meanings": [
         {
           "en": "evil, wicked, hostile",
-          "note": "Having malicious intent. Agrees in gender, number, and case with the noun it modifies ('evil, wicked, angry')."
+          "note": "Having malicious intent."
         }
       ],
       "forms": {
@@ -1237,10 +1236,10 @@
           {
             "cells": [
               "accusative",
-              "злого",
+              "злой / злого",
               "злую",
               "злое",
-              "злых"
+              "злые / злых"
             ]
           },
           {
@@ -1281,11 +1280,15 @@
       "related": [
         {
           "word": "зло",
-          "gloss": "in a evil way (adv.)"
+          "gloss": "evil"
         },
         {
           "word": "злость",
-          "gloss": "quality of being evil"
+          "gloss": "anger, malice"
+        },
+        {
+          "word": "злиться",
+          "gloss": "to be angry"
         }
       ]
     },
@@ -1408,11 +1411,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -1492,12 +1495,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -1525,7 +1528,7 @@
       "meanings": [
         {
           "en": "to spoil, ruin",
-          "note": "Damage something or ruin relations. Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'портить'). Used as a perfective (single completed action) verb meaning 'to spoil, ruin, damage', paired with 'портить'."
+          "note": "Damage something or ruin relations. Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'портить')."
         }
       ],
       "forms": {
@@ -2077,7 +2080,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise, fright or pain. Core Russian interj meaning 'oh' in everyday speech."
+          "note": "Surprise, fright or pain."
         }
       ],
       "forms": null,
@@ -2115,7 +2118,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -2184,7 +2187,7 @@
       "meanings": [
         {
           "en": "plan, scheme",
-          "note": "Common masculine noun meaning 'plan' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2269,7 +2272,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -2309,11 +2312,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -2506,6 +2509,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2534,6 +2554,7 @@
       "stress": "похо́ду",
       "pos": "adv",
       "gloss": "apparently, it seems",
+      "register": "slang",
       "meanings": [
         {
           "en": "apparently, it seems",
@@ -2548,8 +2569,8 @@
           "trans": "Looks like your plan worked."
         },
         {
-          "text": "Очень похоже!",
-          "trans": "That's just like him!"
+          "text": "Блин, походу я загранпаспорт у Вики забыл.",
+          "trans": "Damn, looks like I left my passport at Vika's."
         }
       ],
       "related": []
@@ -2596,7 +2617,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -2627,7 +2648,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -2740,11 +2761,11 @@
       "meanings": [
         {
           "en": "to work, be effective, succeed (of a plan)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'работать'). Used as a perfective (single completed action) verb meaning 'to work, succeed; to go off', paired with 'срабатывать'."
+          "note": ""
         },
         {
           "en": "to go off (of an alarm)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'работать'). Used as a perfective (single completed action) verb meaning 'to work, succeed; to go off', paired with 'срабатывать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2796,6 +2817,23 @@
                 "сработала",
                 "сработало",
                 "сработали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сработай",
+                "сработайте"
               ]
             }
           ]
@@ -2884,7 +2922,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -3215,7 +3253,7 @@
       "meanings": [
         {
           "en": "owner, host",
-          "note": "Declinable masculine noun meaning 'owner', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {

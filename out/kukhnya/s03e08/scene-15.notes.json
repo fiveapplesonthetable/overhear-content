@@ -253,8 +253,8 @@
           "lemma": "закончить",
           "pos": "verb",
           "stress": "зако́нчили",
-          "gloss": "to finish, to complete",
-          "gram": "verb past"
+          "gloss": "finished",
+          "gram": "past plural, perfective"
         }
       ]
     },
@@ -315,7 +315,7 @@
           "lemma": "партия",
           "pos": "noun",
           "stress": "па́ртию",
-          "gloss": "batch",
+          "gloss": "batch; game (of chess etc.)",
           "gram": "feminine inanimate noun, accusative singular"
         }
       ]
@@ -846,7 +846,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "ресторан.",
@@ -1179,8 +1179,8 @@
           "lemma": "закончить",
           "pos": "verb",
           "stress": "зако́нчили",
-          "gloss": "to finish, to complete",
-          "gram": "verb past"
+          "gloss": "finished",
+          "gram": "past plural, perfective"
         }
       ]
     },
@@ -1241,7 +1241,7 @@
           "lemma": "партия",
           "pos": "noun",
           "stress": "па́ртию",
-          "gloss": "batch",
+          "gloss": "batch; game (of chess etc.)",
           "gram": "feminine inanimate noun, accusative singular"
         }
       ]
@@ -1772,7 +1772,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "ресторан.",
@@ -2105,8 +2105,8 @@
           "lemma": "закончить",
           "pos": "verb",
           "stress": "зако́нчили",
-          "gloss": "to finish, to complete",
-          "gram": "verb past"
+          "gloss": "finished",
+          "gram": "past plural, perfective"
         }
       ]
     },
@@ -2167,7 +2167,7 @@
           "lemma": "партия",
           "pos": "noun",
           "stress": "па́ртию",
-          "gloss": "batch",
+          "gloss": "batch; game (of chess etc.)",
           "gram": "feminine inanimate noun, accusative singular"
         }
       ]
@@ -2698,7 +2698,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "ресторан.",
@@ -3127,7 +3127,7 @@
       "meanings": [
         {
           "en": "to come back, to return",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to come back, to return', paired with 'возвращаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3354,7 +3354,7 @@
       "meanings": [
         {
           "en": "attention, notice",
-          "note": "Внимание! = Attention!. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attention' in everyday Russian."
+          "note": "Внимание! = Attention!."
         }
       ],
       "forms": {
@@ -3369,42 +3369,42 @@
             "cells": [
               "nominative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "genitive",
               "внимания",
-              "—"
+              "вниманий"
             ]
           },
           {
             "cells": [
               "dative",
               "вниманию",
-              "—"
+              "вниманиям"
             ]
           },
           {
             "cells": [
               "accusative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "instrumental",
               "вниманием",
-              "—"
+              "вниманиями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "внимании",
-              "—"
+              "вниманиях"
             ]
           }
         ]
@@ -3479,10 +3479,11 @@
       "pos": "noun",
       "gloss": "doctor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "doctor, physician",
-          "note": "Used for women too. Common masculine noun meaning 'doctor' in everyday Russian."
+          "note": "Used for women too."
         }
       ],
       "forms": {
@@ -3553,84 +3554,6 @@
         }
       ],
       "related": []
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
     },
     "вы": {
       "lemma": "вы",
@@ -3723,7 +3646,7 @@
       "meanings": [
         {
           "en": "golf",
-          "note": "Common masculine noun meaning 'golf' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3782,25 +3705,21 @@
       "examples": [
         {
           "text": "Вообще, кстати, сколько в этот гольф играть?",
-          "trans": "In general, by the way, how long do you play this golf?"
+          "trans": "By the way, how long does a game of golf actually last?"
         },
         {
-          "text": "Это основной удар в нашем гольфе.",
-          "trans": "This is the basic stroke in our golf."
-        },
-        {
-          "text": "Это точно настоящий гольф?",
-          "trans": "Is this definitely real golf?"
+          "text": "Значит, на сегодня мы с гольфом закончили.",
+          "trans": "So we're done with golf for today."
         }
       ],
       "related": [
         {
-          "word": "без голь",
-          "gloss": "without golf"
+          "word": "клюшка",
+          "gloss": "(golf) club"
         },
         {
-          "word": "наш гольф",
-          "gloss": "our golf"
+          "word": "мяч",
+          "gloss": "ball"
         }
       ]
     },
@@ -3809,7 +3728,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3894,11 +3812,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3932,13 +3850,13 @@
       "lemma": "доиграть",
       "stress": "доигра́ть",
       "pos": "verb",
-      "gloss": "finish playing",
+      "gloss": "to finish playing",
       "aspect": "pf",
-      "pair": null,
+      "pair": "доигрывать",
       "meanings": [
         {
-          "en": "finish playing",
-          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'играть'). Used as a perfective (single completed action) verb meaning 'finish playing'."
+          "en": "to finish playing (a game, a song)",
+          "note": ""
         }
       ],
       "forms": {
@@ -3993,22 +3911,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "доиграй",
+                "доиграйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Нет, я очень хочу доиграть эту партию.",
-          "trans": "No, I want very much to finish playing this round."
+          "trans": "No, I really want to finish this game."
         },
         {
-          "text": "Надо всё сделать и доиграть вовремя.",
-          "trans": "We need to do everything and finish playing on time."
+          "text": "Сейчас доиграю песню и пойду, а ты куда?",
+          "trans": "I'll finish playing the song and go. Where are you off to?"
         }
       ],
       "related": [
         {
-          "word": "не доиграть",
-          "gloss": "not to finish playing (negated infinitive)"
+          "word": "играть",
+          "gloss": "to play"
+        },
+        {
+          "word": "сыграть",
+          "gloss": "to play (pf)"
         }
       ]
     },
@@ -4124,7 +4063,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4204,11 +4143,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4399,7 +4338,7 @@
       "meanings": [
         {
           "en": "to finish, to end, to complete",
-          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить'). Used as a perfective (single completed action) verb meaning 'to finish, to complete', paired with 'заканчивать'."
+          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить')."
         }
       ],
       "forms": {
@@ -4510,7 +4449,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -4894,7 +4833,7 @@
         },
         {
           "en": "it seems, I think",
-          "note": "Кажется as a parenthetical word. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to seem', paired with 'показаться'."
+          "note": "Кажется as a parenthetical word."
         }
       ],
       "forms": {
@@ -4949,6 +4888,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кажись",
+                "кажитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4968,15 +4924,15 @@
       "related": [
         {
           "word": "показаться",
-          "gloss": "to seem"
+          "gloss": "to seem (pf)"
         },
         {
-          "word": "сказать",
-          "gloss": "to say"
+          "word": "кажется",
+          "gloss": "it seems, I think"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "оказаться",
+          "gloss": "to turn out"
         }
       ]
     },
@@ -4990,7 +4946,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5097,7 +5053,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5423,7 +5379,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -5516,8 +5472,16 @@
       ],
       "related": [
         {
-          "word": "множество",
-          "gloss": "multitude"
+          "word": "немного",
+          "gloss": "a little"
+        },
+        {
+          "word": "чуть-чуть",
+          "gloss": "a tiny bit"
+        },
+        {
+          "word": "много",
+          "gloss": "a lot"
         }
       ]
     },
@@ -5572,11 +5536,11 @@
       "meanings": [
         {
           "en": "leg",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": "Russian uses one word for both."
         },
         {
           "en": "foot",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5700,11 +5664,11 @@
       "meanings": [
         {
           "en": "to rest",
-          "note": "To relax, take a break. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To relax, take a break."
         },
         {
           "en": "to vacation",
-          "note": "To take time off. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To take time off."
         }
       ],
       "forms": {
@@ -5841,7 +5805,7 @@
       "lemma": "партия",
       "stress": "па́ртия",
       "pos": "noun",
-      "gloss": "batch; political party",
+      "gloss": "batch; game; (political) party",
       "gender": "f",
       "meanings": [
         {
@@ -5918,14 +5882,6 @@
       ],
       "related": [
         {
-          "word": "партизанить",
-          "gloss": "to fight as a partisan"
-        },
-        {
-          "word": "партизан",
-          "gloss": "partisan"
-        },
-        {
           "word": "партнёр",
           "gloss": "partner"
         }
@@ -5933,15 +5889,15 @@
     },
     "переключить": {
       "lemma": "переключить",
-      "stress": "переклю́чить",
+      "stress": "переключи́ть",
       "pos": "verb",
-      "gloss": "switched",
+      "gloss": "to switch (a channel, a mode)",
       "aspect": "pf",
-      "pair": null,
+      "pair": "переключать",
       "meanings": [
         {
-          "en": "switched",
-          "note": "Used as a perfective (single completed action) verb meaning 'switched'."
+          "en": "to switch (a channel, gear, mode)",
+          "note": "переключить на + accusative: переключить на футбол"
         }
       ],
       "forms": {
@@ -5996,22 +5952,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "переключи",
+                "переключите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Эй, я тебе за что деньги плачу, быстро на футбол переключил!",
-          "trans": "Hey, what am I paying you money for, quickly switch it to football!"
+          "trans": "Hey, what am I paying you for? Switch it to the football, now!"
         },
         {
-          "text": "Надо всё сделать и переключить вовремя.",
-          "trans": "We need to do everything and switched on time."
+          "text": "Переключи на другой канал.",
+          "trans": "Switch to another channel."
         }
       ],
       "related": [
         {
-          "word": "не переключить",
-          "gloss": "not to switched (negated infinitive)"
+          "word": "переключать",
+          "gloss": "to switch (impf)"
+        },
+        {
+          "word": "переключиться",
+          "gloss": "to switch over"
+        },
+        {
+          "word": "выключить",
+          "gloss": "to switch off"
         }
       ]
     },
@@ -6023,7 +6004,7 @@
       "meanings": [
         {
           "en": "on foot",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'on foot'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6157,13 +6138,13 @@
       "lemma": "подвезти",
       "stress": "подвезти́",
       "pos": "verb",
-      "gloss": "give a ride",
+      "gloss": "to give a lift, to drive (someone)",
       "aspect": "pf",
-      "pair": null,
+      "pair": "подвозить",
       "meanings": [
         {
-          "en": "give a ride",
-          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'везти'). Used as a perfective (single completed action) verb meaning 'give a ride'."
+          "en": "to give (someone) a lift",
+          "note": ""
         }
       ],
       "forms": {
@@ -6177,22 +6158,22 @@
           {
             "cells": [
               "1st",
-              "подвезю",
-              "подвезем"
+              "подвезу",
+              "подвезём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "подвезешь",
-              "подвезете"
+              "подвезёшь",
+              "подвезёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "подвезет",
-              "подвезют"
+              "подвезёт",
+              "подвезут"
             ]
           }
         ]
@@ -6211,10 +6192,27 @@
             {
               "cells": [
                 "past",
-                "подвезл",
+                "подвёз",
                 "подвезла",
                 "подвезло",
                 "подвезли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "подвези",
+                "подвезите"
               ]
             }
           ]
@@ -6223,26 +6221,34 @@
       "examples": [
         {
           "text": "Я решил заехать за коллегой и подвезти на работу.",
-          "trans": "I decided to pick up my colleague and give her a ride to work."
+          "trans": "I decided to pick up my colleague and give her a lift to work."
         },
         {
-          "text": "Надо всё сделать и подвезти вовремя.",
-          "trans": "We need to do everything and give a ride on time."
+          "text": "Тогда садитесь, я вас подвезу.",
+          "trans": "Then get in, I'll give you a lift."
+        },
+        {
+          "text": "Спасибо, что подвезла.",
+          "trans": "Thanks for the lift."
         }
       ],
       "related": []
     },
     "подвернуть": {
       "lemma": "подвернуть",
-      "stress": "подве́рнуть",
+      "stress": "подверну́ть",
       "pos": "verb",
-      "gloss": "twisted / sprained",
+      "gloss": "to twist, to sprain (ankle); to roll up",
       "aspect": "pf",
-      "pair": null,
+      "pair": "подворачивать",
       "meanings": [
         {
-          "en": "twisted / sprained",
-          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'вернуть'). Used as a perfective (single completed action) verb meaning 'twisted / sprained'."
+          "en": "to twist, sprain (one's ankle/foot)",
+          "note": "подвернуть ногу = to twist one's ankle"
+        },
+        {
+          "en": "to tuck in, roll up (sleeves, hem)",
+          "note": ""
         }
       ],
       "forms": {
@@ -6257,20 +6263,20 @@
             "cells": [
               "1st",
               "подверну",
-              "подвернем"
+              "подвернём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "подвернешь",
-              "подвернете"
+              "подвернёшь",
+              "подвернёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "подвернет",
+              "подвернёт",
               "подвернут"
             ]
           }
@@ -6297,22 +6303,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "подверни",
+                "подверните"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Я, кажется, сейчас случайно ногу подвернул.",
-          "trans": "It seems I just accidentally sprained my ankle."
+          "trans": "I think I've just accidentally twisted my ankle."
         },
         {
-          "text": "Надо всё сделать и подвернуть вовремя.",
-          "trans": "We need to do everything and twisted on time."
+          "text": "Костя тут упал и ногу подвернул.",
+          "trans": "Kostya fell here and twisted his ankle."
         }
       ],
       "related": [
         {
-          "word": "не подвернуть",
-          "gloss": "not to twisted (negated infinitive)"
+          "word": "вывихнуть",
+          "gloss": "to dislocate"
+        },
+        {
+          "word": "повернуть",
+          "gloss": "to turn"
         }
       ]
     },
@@ -6326,7 +6353,7 @@
       "meanings": [
         {
           "en": "to congratulate, to wish happy ...",
-          "note": "Поздравляю! = congratulations!. Used as an imperfective (ongoing/repeated action) verb meaning 'to congratulate', paired with 'поздравить'."
+          "note": "Поздравляю! = congratulations!."
         }
       ],
       "forms": {
@@ -6435,11 +6462,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -6539,7 +6566,6 @@
       "stress": "ребя́та",
       "pos": "noun",
       "gloss": "guys, lads, kids (plural only)",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -6548,7 +6574,7 @@
         },
         {
           "en": "kids, children",
-          "note": "Colloquial plural of ребёнок. Common substantive noun meaning 'guys, lads, kids (plural only)' in everyday Russian."
+          "note": "Colloquial plural of ребёнок."
         }
       ],
       "forms": {
@@ -6939,7 +6965,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -7030,15 +7056,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -7188,7 +7214,7 @@
         },
         {
           "en": "by accident, unintentionally",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7224,7 +7250,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -7279,6 +7305,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -7311,7 +7354,7 @@
       "meanings": [
         {
           "en": "juice",
-          "note": "Common masculine noun meaning 'juice' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7391,7 +7434,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7429,7 +7472,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -7544,8 +7587,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -7557,11 +7608,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7595,7 +7646,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -7715,11 +7766,11 @@
       "meanings": [
         {
           "en": "confident, assured",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": "Short form уверен / уверена."
         },
         {
           "en": "sure, certain",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7762,10 +7813,10 @@
           {
             "cells": [
               "accusative",
-              "уверенный",
+              "уверенный / уверенного",
               "уверенную",
               "уверенное",
-              "уверенные"
+              "уверенные / уверенных"
             ]
           },
           {
@@ -7814,13 +7865,13 @@
       "lemma": "увольняться",
       "stress": "увольня́ться",
       "pos": "verb",
-      "gloss": "quit, resign",
+      "gloss": "to quit, to resign",
       "aspect": "impf",
-      "pair": null,
+      "pair": "уволиться",
       "meanings": [
         {
           "en": "quit, resign",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'quit, resign'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7875,6 +7926,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увольняйся",
+                "увольняйтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -7912,7 +7980,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {
@@ -8024,7 +8092,7 @@
       "meanings": [
         {
           "en": "football, soccer",
-          "note": "Играть в футбол = to play football. Common masculine noun meaning 'football, soccer' in everyday Russian."
+          "note": "Играть в футбол = to play football."
         }
       ],
       "forms": {
@@ -8039,42 +8107,42 @@
             "cells": [
               "nominative",
               "футбол",
-              "-"
+              "футболы"
             ]
           },
           {
             "cells": [
               "genitive",
               "футбола",
-              "-"
+              "футболов"
             ]
           },
           {
             "cells": [
               "dative",
               "футболу",
-              "-"
+              "футболам"
             ]
           },
           {
             "cells": [
               "accusative",
               "футбол",
-              "-"
+              "футболы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "футболом",
-              "-"
+              "футболами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "футболе",
-              "-"
+              "футболах"
             ]
           }
         ]
@@ -8113,7 +8181,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -8218,7 +8286,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -8270,6 +8338,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -8402,7 +8487,7 @@
       "meanings": [
         {
           "en": "hey!",
-          "note": "To get someone's attention. Core Russian interj meaning 'hey' in everyday speech."
+          "note": "To get someone's attention."
         }
       ],
       "forms": null,

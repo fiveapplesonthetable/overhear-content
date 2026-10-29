@@ -133,10 +133,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "тут",
@@ -151,7 +151,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -175,7 +175,7 @@
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -228,9 +228,9 @@
           "t": "повара",
           "lemma": "повар",
           "pos": "noun",
-          "stress": "по́вара",
-          "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "stress": "повара́",
+          "gloss": "cooks",
+          "gram": "nominative plural"
         },
         {
           "t": "сегодня",
@@ -773,7 +773,7 @@
           "lemma": "тимьян",
           "pos": "noun",
           "stress": "тимья́на",
-          "gloss": "of thyme",
+          "gloss": "thyme",
           "gram": "genitive singular, masculine"
         },
         {
@@ -933,10 +933,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "тут",
@@ -951,7 +951,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -975,7 +975,7 @@
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -1028,9 +1028,9 @@
           "t": "повара",
           "lemma": "повар",
           "pos": "noun",
-          "stress": "по́вара",
-          "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "stress": "повара́",
+          "gloss": "cooks",
+          "gram": "nominative plural"
         },
         {
           "t": "сегодня",
@@ -1573,7 +1573,7 @@
           "lemma": "тимьян",
           "pos": "noun",
           "stress": "тимья́на",
-          "gloss": "of thyme",
+          "gloss": "thyme",
           "gram": "genitive singular, masculine"
         },
         {
@@ -1733,10 +1733,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "тут",
@@ -1751,7 +1751,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -1775,7 +1775,7 @@
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -1828,9 +1828,9 @@
           "t": "повара",
           "lemma": "повар",
           "pos": "noun",
-          "stress": "по́вара",
-          "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "stress": "повара́",
+          "gloss": "cooks",
+          "gram": "nominative plural"
         },
         {
           "t": "сегодня",
@@ -2373,7 +2373,7 @@
           "lemma": "тимьян",
           "pos": "noun",
           "stress": "тимья́на",
-          "gloss": "of thyme",
+          "gloss": "thyme",
           "gram": "genitive singular, masculine"
         },
         {
@@ -2786,7 +2786,7 @@
       "meanings": [
         {
           "en": "substance",
-          "note": "Common neuter noun meaning 'substance' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2858,12 +2858,16 @@
       ],
       "related": [
         {
-          "word": "без веществ",
-          "gloss": "without substance"
+          "word": "вещь",
+          "gloss": "thing"
         },
         {
-          "word": "наш вещество",
-          "gloss": "our substance"
+          "word": "химия",
+          "gloss": "chemistry"
+        },
+        {
+          "word": "материал",
+          "gloss": "material"
         }
       ]
     },
@@ -2876,7 +2880,7 @@
       "meanings": [
         {
           "en": "attention, notice",
-          "note": "Внимание! = Attention!. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attention' in everyday Russian."
+          "note": "Внимание! = Attention!."
         }
       ],
       "forms": {
@@ -2891,42 +2895,42 @@
             "cells": [
               "nominative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "genitive",
               "внимания",
-              "—"
+              "вниманий"
             ]
           },
           {
             "cells": [
               "dative",
               "вниманию",
-              "—"
+              "вниманиям"
             ]
           },
           {
             "cells": [
               "accusative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "instrumental",
               "вниманием",
-              "—"
+              "вниманиями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "внимании",
-              "—"
+              "вниманиях"
             ]
           }
         ]
@@ -3059,13 +3063,13 @@
     },
     "двойной": {
       "lemma": "двойной",
-      "stress": "дво́йной",
+      "stress": "двойно́й",
       "pos": "adj",
       "gloss": "double",
       "meanings": [
         {
           "en": "double",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('double')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3108,10 +3112,10 @@
           {
             "cells": [
               "accusative",
-              "двойной",
+              "двойной / двойного",
               "двойную",
               "двойное",
-              "двойные"
+              "двойные / двойных"
             ]
           },
           {
@@ -3138,17 +3142,21 @@
       "examples": [
         {
           "text": "Кто ещё останется, за смену будет двойная оплата!",
-          "trans": "Who else will stay, there will be double pay for the shift!"
+          "trans": "Whoever else stays gets double pay for the shift!"
         },
         {
-          "text": "Шеф говорит, что это очень двойной выбор.",
-          "trans": "The chef says that this is a very double choice."
+          "text": "Мне двойной эспрессо, пожалуйста.",
+          "trans": "A double espresso for me, please."
         }
       ],
       "related": [
         {
-          "word": "очень двойной",
-          "gloss": "very double"
+          "word": "двойник",
+          "gloss": "double, look-alike"
+        },
+        {
+          "word": "вдвое",
+          "gloss": "twice as much"
         }
       ]
     },
@@ -3160,11 +3168,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3202,7 +3210,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -3235,11 +3243,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3268,11 +3276,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3312,7 +3320,7 @@
       "meanings": [
         {
           "en": "to finish, to end, to complete",
-          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить'). Used as a perfective (single completed action) verb meaning 'to finish, to complete', paired with 'заканчивать'."
+          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить')."
         }
       ],
       "forms": {
@@ -3628,7 +3636,7 @@
       "meanings": [
         {
           "en": "someone, somebody",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'someone', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3792,7 +3800,7 @@
       "meanings": [
         {
           "en": "butter, oil",
-          "note": "Declinable neuter noun meaning 'butter', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -3998,7 +4006,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4095,13 +4103,13 @@
     },
     "наказанный": {
       "lemma": "наказанный",
-      "stress": "наказа́нный",
+      "stress": "нака́занный",
       "pos": "adj",
-      "gloss": "punished / grounded",
+      "gloss": "punished",
       "meanings": [
         {
-          "en": "punished / grounded",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('punished / grounded')."
+          "en": "punished; (of a child) grounded",
+          "note": "Passive participle of наказать; short form наказан."
         }
       ],
       "forms": {
@@ -4173,18 +4181,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Шеф говорит, что это очень наказанный выбор.",
-          "trans": "The chef says that this is a very punished choice."
+          "text": "Остаётся Катя, и Макс, потому что он наказан.",
+          "trans": "That leaves Katya, and Max, because he's being punished."
         },
         {
-          "text": "У нас сегодня просто наказанный день в ресторане.",
-          "trans": "We are having a simply punished day at the restaurant today."
+          "text": "Виновный должен быть наказан.",
+          "trans": "The guilty party must be punished."
         }
       ],
       "related": [
         {
-          "word": "очень наказанный",
-          "gloss": "very punished"
+          "word": "наказать",
+          "gloss": "to punish"
+        },
+        {
+          "word": "наказание",
+          "gloss": "punishment"
         }
       ]
     },
@@ -4217,16 +4229,16 @@
       ],
       "related": [
         {
-          "word": "конечно",
-          "gloss": "of course"
+          "word": "наконец-то",
+          "gloss": "at last!"
         },
         {
           "word": "конец",
           "gloss": "end"
         },
         {
-          "word": "наконец-то",
-          "gloss": "at last"
+          "word": "в конце концов",
+          "gloss": "in the end, after all"
         }
       ]
     },
@@ -4318,7 +4330,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4394,11 +4406,11 @@
       "lemma": "ночной",
       "stress": "ночно́й",
       "pos": "adj",
-      "gloss": "night",
+      "gloss": "night, nocturnal",
       "meanings": [
         {
-          "en": "night",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('night')."
+          "en": "night (adj), nocturnal",
+          "note": "ночная смена = night shift; ночные кошмары = nightmares"
         }
       ],
       "forms": {
@@ -4441,10 +4453,10 @@
           {
             "cells": [
               "accusative",
-              "ночной",
+              "ночной / ночного",
               "ночную",
               "ночное",
-              "ночные"
+              "ночные / ночных"
             ]
           },
           {
@@ -4470,15 +4482,28 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Мне нужен один ночной билет на сегодня.",
-          "trans": "I need one night ticket for today."
+          "text": "Сегодня у нас на кухне ночная смена.",
+          "trans": "Today we have a night shift in the kitchen."
         },
         {
-          "text": "Шеф говорит, что это очень ночной выбор.",
-          "trans": "The chef says that this is a very night choice."
+          "text": "Ну, скажи, как твои ночные кошмары?",
+          "trans": "Well, tell me, how are your nightmares?"
+        },
+        {
+          "text": "Мне нужен один ночной билет на сегодня.",
+          "trans": "I need one ticket for tonight's night train."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "ночь",
+          "gloss": "night"
+        },
+        {
+          "word": "дневной",
+          "gloss": "day, daytime"
+        }
+      ]
     },
     "ночь": {
       "lemma": "ночь",
@@ -4638,29 +4663,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -4789,7 +4792,7 @@
       "meanings": [
         {
           "en": "payment, remuneration",
-          "note": "Common feminine noun meaning 'payment' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4847,16 +4850,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Они уйдут без оплаты.",
-          "trans": "They will leave without paying."
-        },
-        {
           "text": "Они грозятся уйти без оплаты.",
-          "trans": "They threaten to leave without paying."
+          "trans": "They're threatening to leave without paying."
         },
         {
-          "text": "Этот коньяк идет на оплату.",
-          "trans": "This cognac goes to payment."
+          "text": "Кто ещё останется, за смену будет двойная оплата!",
+          "trans": "Anyone else who stays gets double pay for the shift!"
         }
       ],
       "related": [
@@ -4917,10 +4916,10 @@
           {
             "cells": [
               "accusative",
-              "особый",
+              "особый / особого",
               "особую",
               "особое",
-              "особые"
+              "особые / особых"
             ]
           },
           {
@@ -4983,7 +4982,7 @@
       "meanings": [
         {
           "en": "to stay, to remain",
-          "note": "Остаётся у нас = stays with us. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to stay, to remain', paired with 'остаться'."
+          "note": "Остаётся у нас = stays with us."
         }
       ],
       "forms": {
@@ -5100,7 +5099,7 @@
         },
         {
           "en": "to stay",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to remain, to be left', paired with 'оставаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5213,7 +5212,7 @@
       "meanings": [
         {
           "en": "to poison, intoxicate with venom or toxic substance",
-          "note": "Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to poison', forming an aspectual pair with 'отравлять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5355,7 +5354,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -5437,7 +5436,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -5772,7 +5771,7 @@
       "meanings": [
         {
           "en": "to disperse, separate",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'ходиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to disperse, separate', paired with 'разойтись'."
+          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'ходиться')."
         }
       ],
       "forms": {
@@ -5863,15 +5862,11 @@
       "related": [
         {
           "word": "разойтись",
-          "gloss": "to disperse"
+          "gloss": "to disperse (pf)"
         },
         {
-          "word": "приходить",
-          "gloss": "to come"
-        },
-        {
-          "word": "заходить",
-          "gloss": "to come in"
+          "word": "расстаться",
+          "gloss": "to part, to break up"
         }
       ]
     },
@@ -5888,7 +5883,7 @@
         },
         {
           "en": "solution",
-          "note": "To a problem. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'decision; solution' in everyday Russian."
+          "note": "To a problem."
         }
       ],
       "forms": {
@@ -5974,11 +5969,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6050,8 +6045,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -6324,11 +6327,11 @@
       "meanings": [
         {
           "en": "funny, it's funny",
-          "note": "Тебе смешно = you find it funny. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Тебе смешно = you find it funny."
         },
         {
           "en": "ridiculous",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6358,13 +6361,13 @@
       "lemma": "содержаться",
       "stress": "содержа́ться",
       "pos": "verb",
-      "gloss": "is contained",
+      "gloss": "to be contained",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "is contained",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'is contained'."
+          "en": "to be contained (in something)",
+          "note": ""
         }
       ],
       "forms": {
@@ -6378,22 +6381,22 @@
           {
             "cells": [
               "1st",
-              "содержаюсь",
-              "содержаемся"
+              "содержусь",
+              "содержимся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "содержаешься",
-              "содержаетесь"
+              "содержишься",
+              "содержитесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "содержается",
-              "содержаются"
+              "содержится",
+              "содержатся"
             ]
           }
         ]
@@ -6419,22 +6422,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "содержись",
+                "содержитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и содержаться вовремя.",
-          "trans": "We need to do everything and is contained on time."
+          "text": "В эфирном масле тимьяна содержится особое вещество.",
+          "trans": "Thyme essential oil contains a special substance."
         },
         {
-          "text": "На нашей кухне все умеют содержаться.",
-          "trans": "In our kitchen everyone knows how to is contained."
+          "text": "Сильный яд содержится в икре, коже и печени.",
+          "trans": "A strong poison is found in the roe, skin and liver."
         }
       ],
       "related": [
         {
-          "word": "не содержаться",
-          "gloss": "not to is contained (negated infinitive)"
+          "word": "содержать",
+          "gloss": "to contain"
+        },
+        {
+          "word": "содержание",
+          "gloss": "content"
         }
       ]
     },
@@ -6573,7 +6597,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -6764,14 +6788,14 @@
     },
     "тимьян": {
       "lemma": "тимьян",
-      "stress": "ти́мьян",
+      "stress": "тимья́н",
       "pos": "noun",
       "gloss": "thyme",
       "gender": "m",
       "meanings": [
         {
           "en": "thyme",
-          "note": "Common masculine noun meaning 'thyme' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6833,18 +6857,22 @@
           "trans": "Why did you put thyme in there?"
         },
         {
-          "text": "На кухне ресторана всегда есть тимьян.",
-          "trans": "In the restaurant kitchen there is always thyme."
+          "text": "Отвар тимьяна вместе с алкоголем вызывает сильную рвоту!",
+          "trans": "A thyme infusion together with alcohol causes severe vomiting!"
         }
       ],
       "related": [
         {
-          "word": "без тимья",
-          "gloss": "without thyme"
+          "word": "розмарин",
+          "gloss": "rosemary"
         },
         {
-          "word": "наш тимьян",
-          "gloss": "our thyme"
+          "word": "базилик",
+          "gloss": "basil"
+        },
+        {
+          "word": "чабрец",
+          "gloss": "thyme (wild)"
         }
       ]
     },
@@ -6856,7 +6884,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -7022,8 +7050,8 @@
       "gloss": "signature, specialty",
       "meanings": [
         {
-          "en": "signature, specialty dish",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'signature' and agreeing in gender, number, and case."
+          "en": "signature, house (special)",
+          "note": "фирменное блюдо = signature dish"
         }
       ],
       "forms": {
@@ -7066,10 +7094,10 @@
           {
             "cells": [
               "accusative",
-              "фирменный",
+              "фирменный / фирменного",
               "фирменную",
               "фирменное",
-              "фирменные"
+              "фирменные / фирменных"
             ]
           },
           {
@@ -7095,16 +7123,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это фирменный.",
-          "trans": "This is signature, specialty."
+          "text": "Ну-ка, попробуем ваш знаменитый фирменный соус.",
+          "trans": "Come on, let's try your famous signature sauce."
         },
         {
           "text": "Я могу приготовить своё фирменное блюдо.",
-          "trans": "I can prepare my signature dish."
+          "trans": "I can make my signature dish."
         },
         {
           "text": "Шеф приготовил своё фирменное блюдо.",
-          "trans": "The chef prepared his signature dish."
+          "trans": "The chef made his signature dish."
         }
       ],
       "related": [
@@ -7124,7 +7152,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -7179,6 +7207,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -7215,7 +7260,7 @@
       "meanings": [
         {
           "en": "devilry / spooky nonsense",
-          "note": "Common feminine noun meaning 'devilry / spooky nonsense' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7287,12 +7332,12 @@
       ],
       "related": [
         {
-          "word": "без чертовщин",
-          "gloss": "without devilry"
+          "word": "чёрт",
+          "gloss": "devil"
         },
         {
-          "word": "наш чертовщина",
-          "gloss": "our devilry"
+          "word": "мистика",
+          "gloss": "the supernatural"
         }
       ]
     },
@@ -7402,7 +7447,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,
@@ -7518,11 +7563,15 @@
       "lemma": "эфирный",
       "stress": "эфи́рный",
       "pos": "adj",
-      "gloss": "essential (oil)",
+      "gloss": "essential (oil); broadcast",
       "meanings": [
         {
           "en": "essential (oil)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('essential (oil)')."
+          "note": "эфирное масло = essential oil"
+        },
+        {
+          "en": "broadcast, on-air",
+          "note": "эфирное время = airtime"
         }
       ],
       "forms": {
@@ -7565,10 +7614,10 @@
           {
             "cells": [
               "accusative",
-              "эфирный",
+              "эфирный / эфирного",
               "эфирную",
               "эфирное",
-              "эфирные"
+              "эфирные / эфирных"
             ]
           },
           {
@@ -7595,21 +7644,17 @@
       "examples": [
         {
           "text": "В эфирном масле тимьяна содержится особое вещество.",
-          "trans": "A special substance is contained in the essential oil of thyme."
+          "trans": "Thyme essential oil contains a special substance."
         },
         {
-          "text": "Шеф говорит, что это очень эфирный выбор.",
-          "trans": "The chef says that this is a very essential choice."
+          "text": "Эфирное время стоит дорого.",
+          "trans": "Airtime is expensive."
         }
       ],
       "related": [
         {
-          "word": "эфирно",
-          "gloss": "essentially (adverbial form)"
-        },
-        {
-          "word": "очень эфирный",
-          "gloss": "very essential"
+          "word": "эфир",
+          "gloss": "broadcast, air"
         }
       ]
     },

@@ -173,7 +173,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -220,7 +220,7 @@
           "pos": "det",
           "stress": "ва́шего",
           "gloss": "your",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "сына",
@@ -271,7 +271,7 @@
         {
           "t": "плевать",
           "lemma": "плевать",
-          "pos": "adv",
+          "pos": "verb",
           "stress": "плева́ть",
           "gloss": "don't care (lit. to spit)",
           "gram": "infinitive used as impersonal predicate"
@@ -290,7 +290,7 @@
           "pos": "det",
           "stress": "моего́",
           "gloss": "of my",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive singular, masculine / neuter"
         },
         {
           "t": "ребёнка!",
@@ -419,7 +419,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -881,7 +881,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -928,7 +928,7 @@
           "pos": "det",
           "stress": "ва́шего",
           "gloss": "your",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "сына",
@@ -979,7 +979,7 @@
         {
           "t": "плевать",
           "lemma": "плевать",
-          "pos": "adv",
+          "pos": "verb",
           "stress": "плева́ть",
           "gloss": "don't care (lit. to spit)",
           "gram": "infinitive used as impersonal predicate"
@@ -998,7 +998,7 @@
           "pos": "det",
           "stress": "моего́",
           "gloss": "of my",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive singular, masculine / neuter"
         },
         {
           "t": "ребёнка!",
@@ -1127,7 +1127,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1589,7 +1589,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -1636,7 +1636,7 @@
           "pos": "det",
           "stress": "ва́шего",
           "gloss": "your",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "сына",
@@ -1687,7 +1687,7 @@
         {
           "t": "плевать",
           "lemma": "плевать",
-          "pos": "adv",
+          "pos": "verb",
           "stress": "плева́ть",
           "gloss": "don't care (lit. to spit)",
           "gram": "infinitive used as impersonal predicate"
@@ -1706,7 +1706,7 @@
           "pos": "det",
           "stress": "моего́",
           "gloss": "of my",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive singular, masculine / neuter"
         },
         {
           "t": "ребёнка!",
@@ -1835,7 +1835,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -2194,7 +2194,7 @@
       "meanings": [
         {
           "en": "to beat, to hit, to strike",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to beat, to hit', paired with 'побить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2305,11 +2305,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2537,7 +2537,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2757,11 +2757,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2816,6 +2816,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2844,84 +2861,6 @@
         {
           "word": "видеться",
           "gloss": "to see each other"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3017,7 +2956,7 @@
       "meanings": [
         {
           "en": "to call for, to summon (a taxi, driver, police, doctor)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'звать'). Used as a perfective (single completed action) verb meaning 'to call, to summon', paired with 'вызывать'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'звать')."
         }
       ],
       "forms": {
@@ -3108,15 +3047,15 @@
       "related": [
         {
           "word": "вызывать",
-          "gloss": "to cause"
+          "gloss": "to call; to cause (impf)"
         },
         {
           "word": "звать",
           "gloss": "to call"
         },
         {
-          "word": "назвать",
-          "gloss": "to call"
+          "word": "вызов",
+          "gloss": "call; challenge"
         }
       ]
     },
@@ -3132,7 +3071,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3167,7 +3106,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3324,7 +3263,7 @@
       "meanings": [
         {
           "en": "evil, wicked, hostile",
-          "note": "Having malicious intent. Agrees in gender, number, and case with the noun it modifies ('evil, wicked, angry')."
+          "note": "Having malicious intent."
         }
       ],
       "forms": {
@@ -3367,10 +3306,10 @@
           {
             "cells": [
               "accusative",
-              "злого",
+              "злой / злого",
               "злую",
               "злое",
-              "злых"
+              "злые / злых"
             ]
           },
           {
@@ -3411,11 +3350,15 @@
       "related": [
         {
           "word": "зло",
-          "gloss": "in a evil way (adv.)"
+          "gloss": "evil"
         },
         {
           "word": "злость",
-          "gloss": "quality of being evil"
+          "gloss": "anger, malice"
+        },
+        {
+          "word": "злиться",
+          "gloss": "to be angry"
         }
       ]
     },
@@ -3424,12 +3367,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3484,6 +3425,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3503,17 +3461,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3900,7 +3859,7 @@
       "meanings": [
         {
           "en": "reward, award",
-          "note": "В награду = as a reward. Common feminine noun meaning 'reward, award, prize' in everyday Russian."
+          "note": "В награду = as a reward."
         }
       ],
       "forms": {
@@ -4023,7 +3982,7 @@
       "meanings": [
         {
           "en": "no ... at all, not any",
-          "note": "With не / нет. Core Russian det meaning 'no ... at all, not any' in everyday speech."
+          "note": "With не / нет."
         }
       ],
       "forms": {
@@ -4245,8 +4204,10 @@
     "плевать": {
       "lemma": "плевать",
       "stress": "плева́ть",
-      "pos": "adv",
+      "pos": "verb",
       "gloss": "to spit; not to care (colloquial)",
+      "aspect": "impf",
+      "pair": "плюнуть",
       "meanings": [
         {
           "en": "to spit",
@@ -4258,7 +4219,7 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -4359,11 +4320,11 @@
       "meanings": [
         {
           "en": "to come up to, to approach",
-          "note": "К + dative. Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": "К + dative."
         },
         {
           "en": "to suit, to fit",
-          "note": "Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4443,10 +4404,6 @@
           "trans": "Come here to me!"
         },
         {
-          "text": "Не подходите к моему ребёнку!",
-          "trans": "Keep away from my child!"
-        },
-        {
           "text": "Нам не нужна ваша приставка! Ещё раз подойдёте к моему ребёнку — пожалеете!",
           "trans": "We don't need your console! Come near my child again and you'll be sorry!"
         }
@@ -4476,7 +4433,7 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call, to phone', paired with 'звонить'."
+          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить')."
         }
       ],
       "forms": {
@@ -4741,42 +4698,42 @@
             "cells": [
               "nominative",
               "полиция",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "genitive",
               "полиции",
-              "—"
+              "полиций"
             ]
           },
           {
             "cells": [
               "dative",
               "полиции",
-              "—"
+              "полициям"
             ]
           },
           {
             "cells": [
               "accusative",
               "полицию",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "instrumental",
               "полицией",
-              "—"
+              "полициями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "полиции",
-              "—"
+              "полициях"
             ]
           }
         ]
@@ -4808,15 +4765,15 @@
       "meanings": [
         {
           "en": "to put in prison, to lock up",
-          "note": "Colloquial. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить'). Used as a perfective (single completed action) verb meaning 'to seat; to plant; to put in prison', paired with 'сажать'."
+          "note": "Colloquial. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить')."
         },
         {
           "en": "to sit somebody down, to seat",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить'). Used as a perfective (single completed action) verb meaning 'to seat; to plant; to put in prison', paired with 'сажать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить')."
         },
         {
           "en": "to plant",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить'). Used as a perfective (single completed action) verb meaning 'to seat; to plant; to put in prison', paired with 'сажать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4906,8 +4863,16 @@
       ],
       "related": [
         {
-          "word": "сидеть",
-          "gloss": "to sit"
+          "word": "сажать",
+          "gloss": "to seat, plant (impf)"
+        },
+        {
+          "word": "сесть",
+          "gloss": "to sit down; to go to prison"
+        },
+        {
+          "word": "тюрьма",
+          "gloss": "prison"
         }
       ]
     },
@@ -4993,7 +4958,7 @@
       "meanings": [
         {
           "en": "to warn, caution",
-          "note": "Кого о чём. Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упредить'). Used as a perfective (single completed action) verb meaning 'to warn, notify in advance', paired with 'предупреждать'."
+          "note": "Кого о чём. Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упредить')."
         }
       ],
       "forms": {
@@ -5143,10 +5108,10 @@
           {
             "cells": [
               "accusative",
-              "прочий",
+              "прочий / прочего",
               "прочую",
               "прочее",
-              "прочие"
+              "прочие / прочих"
             ]
           },
           {
@@ -5237,7 +5202,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -5317,7 +5282,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -5422,7 +5387,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5535,7 +5500,7 @@
       "meanings": [
         {
           "en": "to save, to rescue",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to save, to rescue', paired with 'спасать'."
+          "note": "+ accusative."
         }
       ],
       "forms": {
@@ -5639,7 +5604,7 @@
       "meanings": [
         {
           "en": "son",
-          "note": "Common masculine noun meaning 'son' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5723,7 +5688,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5817,67 +5782,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -5891,7 +5812,7 @@
       "meanings": [
         {
           "en": "prison, jail",
-          "note": "В тюрьме = in prison. Common feminine noun meaning 'prison, jail' in everyday Russian."
+          "note": "В тюрьме = in prison."
         }
       ],
       "forms": {
@@ -5973,7 +5894,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {
@@ -6086,7 +6007,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6138,6 +6059,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -6407,10 +6345,10 @@
           {
             "cells": [
               "accusative",
-              "чужой",
+              "чужой / чужого",
               "чужую",
               "чужое",
-              "чужие"
+              "чужие / чужих"
             ]
           },
           {

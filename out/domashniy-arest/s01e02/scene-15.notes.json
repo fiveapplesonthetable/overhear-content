@@ -2139,11 +2139,11 @@
       "meanings": [
         {
           "en": "uh-huh, yeah",
-          "note": "Casual yes. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Casual yes."
         },
         {
           "en": "yeah, right",
-          "note": "Said ironically. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Said ironically."
         }
       ],
       "forms": null,
@@ -2182,7 +2182,7 @@
       "meanings": [
         {
           "en": "iPhone",
-          "note": "Borrowed from English. Common masculine noun meaning 'iPhone' in everyday Russian."
+          "note": "Borrowed from English."
         }
       ],
       "forms": {
@@ -2492,10 +2492,11 @@
       "pos": "noun",
       "gloss": "bribe-taker",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "bribe-taker",
-          "note": "An official who takes bribes. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'bribe-taker' in everyday Russian."
+          "note": "An official who takes bribes."
         }
       ],
       "forms": {
@@ -2666,7 +2667,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2702,7 +2703,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2793,128 +2794,15 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
           "gloss": "to sell"
-        }
-      ]
-    },
-    "договориться": {
-      "lemma": "договориться",
-      "stress": "договори́ться",
-      "pos": "verb",
-      "gloss": "to agree, to arrange",
-      "aspect": "pf",
-      "pair": "договариваться",
-      "meanings": [
-        {
-          "en": "to agree, to come to an arrangement",
-          "note": "'договоримся' = we'll work something out"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "договорюсь",
-              "договоримся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "договоришься",
-              "договоритесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "договорится",
-              "договорятся"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "договорился",
-                "договорилась",
-                "договорилось",
-                "договорились"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "договорись",
-                "договоритесь"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Договоримся на завтра.",
-          "trans": "We'll arrange something for tomorrow."
-        },
-        {
-          "text": "Мы договорились.",
-          "trans": "We've agreed."
-        },
-        {
-          "text": "Позвони мне вечером. Договоримся на завтра.",
-          "trans": "Call me this evening. We'll arrange something for tomorrow."
-        }
-      ],
-      "related": [
-        {
-          "word": "договариваться",
-          "gloss": "to agree"
-        },
-        {
-          "word": "говорить",
-          "gloss": "to speak"
-        },
-        {
-          "word": "поговорить",
-          "gloss": "to have a talk"
         }
       ]
     },
@@ -3151,6 +3039,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "заблокируй",
+                "заблокируйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3173,8 +3078,8 @@
           "gloss": "to block"
         },
         {
-          "word": "блокнот",
-          "gloss": "notepad"
+          "word": "разблокировать",
+          "gloss": "to unblock"
         }
       ]
     },
@@ -3186,7 +3091,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -3217,12 +3122,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3277,6 +3180,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3296,17 +3216,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3430,10 +3351,10 @@
           {
             "cells": [
               "accusative",
-              "крокодиловый/крокодилового",
+              "крокодиловый / крокодилового",
               "крокодиловую",
               "крокодиловое",
-              "крокодиловые/крокодиловых"
+              "крокодиловые / крокодиловых"
             ]
           },
           {
@@ -3497,7 +3418,7 @@
         },
         {
           "en": "to change",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to change; to swap', paired with 'поменять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3988,131 +3909,6 @@
         }
       ]
     },
-    "нужный": {
-      "lemma": "нужный",
-      "stress": "ну́жный",
-      "pos": "adj",
-      "gloss": "necessary, needed",
-      "meanings": [
-        {
-          "en": "needed",
-          "note": "short form 'нужен / нужна / нужно / нужны' + dative: 'мне нужна работа' = I need a job"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "нужный",
-              "нужная",
-              "нужное",
-              "нужные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "нужного",
-              "нужной",
-              "нужного",
-              "нужных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "нужному",
-              "нужной",
-              "нужному",
-              "нужным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "нужный / нужного",
-              "нужную",
-              "нужное",
-              "нужные / нужных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "нужным",
-              "нужной",
-              "нужным",
-              "нужными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нужном",
-              "нужной",
-              "нужном",
-              "нужных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Мне ещё работа нужна.",
-          "trans": "I need a job too."
-        },
-        {
-          "text": "Тебе нужна ручка?",
-          "trans": "Do you need a pen?"
-        },
-        {
-          "text": "Ему нужны деньги.",
-          "trans": "He needs money."
-        }
-      ],
-      "related": [
-        {
-          "word": "нужно",
-          "gloss": "necessary"
-        },
-        {
-          "word": "нужнее",
-          "gloss": "more needed"
-        }
-      ]
-    },
     "он": {
       "lemma": "он",
       "stress": "он",
@@ -4252,7 +4048,7 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call, to phone', paired with 'звонить'."
+          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить')."
         }
       ],
       "forms": {
@@ -4365,7 +4161,7 @@
       "meanings": [
         {
           "en": "to play for a while, to have a go",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'играть'). Used as a perfective (single completed action) verb meaning 'to play for a while', paired with 'играть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'играть')."
         }
       ],
       "forms": {
@@ -4506,16 +4302,14 @@
       "stress": "постоя́ть",
       "pos": "verb",
       "gloss": "to stand for a while; to wait",
-      "aspect": "pf",
-      "pair": "стоять",
       "meanings": [
         {
           "en": "to stand for a while",
-          "note": "Said to stop someone leaving. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'стоять'). Used as a perfective (single completed action) verb meaning 'to stand for a while; to wait', paired with 'стоять'."
+          "note": "Said to stop someone leaving. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'стоять')."
         },
         {
           "en": "Постой! = Wait!",
-          "note": "Said to stop someone leaving. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'стоять'). Used as a perfective (single completed action) verb meaning 'to stand for a while; to wait', paired with 'стоять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4608,7 +4402,8 @@
           "word": "стоять",
           "gloss": "to stand"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "привет": {
       "lemma": "привет",
@@ -4618,7 +4413,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -4852,7 +4647,7 @@
         },
         {
           "text": "Потом пройдёт.",
-          "trans": "Then it passes."
+          "trans": "It'll pass later."
         }
       ],
       "related": [
@@ -4943,8 +4738,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -4958,7 +4765,7 @@
       "meanings": [
         {
           "en": "to talk, to speak, to have a conversation",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to talk, to speak'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать')."
         }
       ],
       "forms": {
@@ -5010,6 +4817,23 @@
                 "разговаривала",
                 "разговаривало",
                 "разговаривали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разговаривай",
+                "разговаривайте"
               ]
             }
           ]
@@ -5192,7 +5016,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -5200,7 +5024,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -5313,11 +5137,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -5421,7 +5245,7 @@
       "meanings": [
         {
           "en": "neighbour",
-          "note": "Next door, or in the same flat. Common masculine noun meaning 'neighbour' in everyday Russian."
+          "note": "Next door, or in the same flat."
         }
       ],
       "forms": {
@@ -5506,11 +5330,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -5553,10 +5377,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -5579,29 +5403,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",
@@ -5632,11 +5434,11 @@
       "meanings": [
         {
           "en": "court (of law)",
-          "note": "Common masculine noun meaning 'court' in everyday Russian."
+          "note": ""
         },
         {
           "en": "trial",
-          "note": "Common masculine noun meaning 'court' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5716,7 +5518,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -6106,7 +5908,7 @@
       "meanings": [
         {
           "en": "level",
-          "note": "Common masculine noun meaning 'level' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

@@ -165,14 +165,14 @@
           "lemma": "сбежать",
           "pos": "verb",
           "stress": "сбежа́ла",
-          "gloss": "to escape, flee, run away",
-          "gram": "past tense, feminine singular"
+          "gloss": "ran away",
+          "gram": "past tense feminine singular, perfective"
         },
         {
           "t": "из-под",
           "lemma": "из-под",
           "pos": "prep",
-          "stress": "и́з-под",
+          "stress": "из-по́д",
           "gloss": "from, formerly holding",
           "gram": "takes genitive"
         },
@@ -195,7 +195,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -241,7 +241,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -725,14 +725,14 @@
           "lemma": "сбежать",
           "pos": "verb",
           "stress": "сбежа́ла",
-          "gloss": "to escape, flee, run away",
-          "gram": "past tense, feminine singular"
+          "gloss": "ran away",
+          "gram": "past tense feminine singular, perfective"
         },
         {
           "t": "из-под",
           "lemma": "из-под",
           "pos": "prep",
-          "stress": "и́з-под",
+          "stress": "из-по́д",
           "gloss": "from, formerly holding",
           "gram": "takes genitive"
         },
@@ -755,7 +755,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -801,7 +801,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1285,14 +1285,14 @@
           "lemma": "сбежать",
           "pos": "verb",
           "stress": "сбежа́ла",
-          "gloss": "to escape, flee, run away",
-          "gram": "past tense, feminine singular"
+          "gloss": "ran away",
+          "gram": "past tense feminine singular, perfective"
         },
         {
           "t": "из-под",
           "lemma": "из-под",
           "pos": "prep",
-          "stress": "и́з-под",
+          "stress": "из-по́д",
           "gloss": "from, formerly holding",
           "gram": "takes genitive"
         },
@@ -1315,7 +1315,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1361,7 +1361,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1744,13 +1744,17 @@
       "lemma": "беречь",
       "stress": "бере́чь",
       "pos": "verb",
-      "gloss": "guard / keep safe",
+      "gloss": "to take care of, to look after, to protect",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "guard / keep safe",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'guard / keep safe'."
+          "en": "to take care of, to look after, to protect",
+          "note": "береги себя = take care of yourself"
+        },
+        {
+          "en": "to save, to treasure (time, money)",
+          "note": ""
         }
       ],
       "forms": {
@@ -1764,22 +1768,22 @@
           {
             "cells": [
               "1st",
-              "берею",
-              "береем"
+              "берегу",
+              "бережём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "береешь",
-              "береете"
+              "бережёшь",
+              "бережёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "береет",
-              "береют"
+              "бережёт",
+              "берегут"
             ]
           }
         ]
@@ -1798,10 +1802,27 @@
             {
               "cells": [
                 "past",
-                "берел",
-                "берела",
-                "берело",
-                "берели"
+                "берёг",
+                "берегла",
+                "берегло",
+                "берегли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "береги",
+                "берегите"
               ]
             }
           ]
@@ -1809,22 +1830,30 @@
       ],
       "examples": [
         {
+          "text": "Ну пока, друг, береги себя там!",
+          "trans": "Well, bye, pal, take care of yourself out there!"
+        },
+        {
           "text": "Вот последняя банка, на, береги её.",
-          "trans": "Here is the last jar, take it and guard it."
+          "trans": "Here's the last jar, take it and look after it."
         },
         {
-          "text": "Береги эту последнюю банку.",
-          "trans": "Keep this last jar safe."
-        },
-        {
-          "text": "Потом заправились и спокойно дошли к берегу.",
-          "trans": "Then we refueled and calmly reached the shore."
+          "text": "Надо беречь каждую нашу минуту.",
+          "trans": "We have to treasure every minute we have."
         }
       ],
       "related": [
         {
-          "word": "поберечь",
-          "gloss": "to guard (prefixed perfective)"
+          "word": "сберечь",
+          "gloss": "to save, to preserve"
+        },
+        {
+          "word": "беречься",
+          "gloss": "to be careful, to watch out"
+        },
+        {
+          "word": "бережно",
+          "gloss": "carefully"
         }
       ]
     },
@@ -1982,14 +2011,18 @@
     },
     "венец": {
       "lemma": "венец",
-      "stress": "ве́нец",
+      "stress": "вене́ц",
       "pos": "noun",
-      "gloss": "wedding altar / crown",
+      "gloss": "crown; wedding crown (the altar)",
       "gender": "m",
       "meanings": [
         {
-          "en": "wedding altar / crown",
-          "note": "Common masculine noun meaning 'wedding altar / crown' in everyday Russian."
+          "en": "crown, wreath",
+          "note": "bookish"
+        },
+        {
+          "en": "the altar, marriage",
+          "note": "из-под венца = (run away) from the altar; идти под венец = to get married"
         }
       ],
       "forms": {
@@ -2048,21 +2081,21 @@
       "examples": [
         {
           "text": "Твоя дочь сбежала из-под венца.",
-          "trans": "Your daughter just ran away from the altar."
+          "trans": "Your daughter ran away from the altar."
         },
         {
-          "text": "И наслаждаться каждым новым мгновением.",
-          "trans": "And savor every new moment."
+          "text": "Они пошли под венец через месяц.",
+          "trans": "They got married a month later."
         }
       ],
       "related": [
         {
-          "word": "без вене",
-          "gloss": "without wedding altar"
+          "word": "венчаться",
+          "gloss": "to marry in church"
         },
         {
-          "word": "наш венец",
-          "gloss": "our wedding altar"
+          "word": "свадьба",
+          "gloss": "wedding"
         }
       ]
     },
@@ -2076,7 +2109,7 @@
       "meanings": [
         {
           "en": "to remember, to recall",
-          "note": "'вспомни' = remember (that) . Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'помнить'). Used as a perfective (single completed action) verb meaning 'to remember, to recall', paired with 'вспоминать'."
+          "note": "'вспомни' = remember (that) . Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'помнить')."
         }
       ],
       "forms": {
@@ -2253,87 +2286,6 @@
         }
       ]
     },
-    "да": {
-      "lemma": "да",
-      "stress": "да",
-      "pos": "part",
-      "gloss": "yes",
-      "meanings": [
-        {
-          "en": "yes",
-          "note": "emphatic at the start of a sentence"
-        },
-        {
-          "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Да ну?",
-          "trans": "Oh yeah?"
-        },
-        {
-          "text": "Да, это я.",
-          "trans": "Yes, it's me."
-        },
-        {
-          "text": "Да ну? Когда?",
-          "trans": "Oh yeah? When?"
-        }
-      ],
-      "related": [
-        {
-          "word": "нет",
-          "gloss": "no"
-        }
-      ]
-    },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2344,11 +2296,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2439,15 +2395,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2459,11 +2415,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2583,7 +2539,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2781,7 +2737,7 @@
     },
     "из-под": {
       "lemma": "из-под",
-      "stress": "и́з-под",
+      "stress": "из-по́д",
       "pos": "prep",
       "gloss": "from under; (of a box/bottle) formerly holding",
       "meanings": [
@@ -2808,8 +2764,12 @@
       ],
       "related": [
         {
-          "word": "не из-под",
-          "gloss": "negated / contrasted form (from under)"
+          "word": "из",
+          "gloss": "from, out of"
+        },
+        {
+          "word": "под",
+          "gloss": "under"
         }
       ]
     },
@@ -2821,7 +2781,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3085,14 +3045,14 @@
     },
     "мгновение": {
       "lemma": "мгновение",
-      "stress": "мгновени́е",
+      "stress": "мгнове́ние",
       "pos": "noun",
       "gloss": "instant, moment",
       "gender": "n",
       "meanings": [
         {
           "en": "instant, moment",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'instant, moment' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3151,21 +3111,21 @@
       "examples": [
         {
           "text": "Может, только на мгновение.",
-          "trans": "Maybe only for a moment."
+          "trans": "Maybe just for a moment."
         },
         {
-          "text": "На кухне отеля всегда есть мгновение.",
-          "trans": "In the hotel kitchen there is always instant."
+          "text": "И наслаждаться каждым новым мгновением.",
+          "trans": "And enjoy every new moment."
         }
       ],
       "related": [
         {
-          "word": "без мгновени",
-          "gloss": "without instant"
+          "word": "мгновенно",
+          "gloss": "instantly"
         },
         {
-          "word": "наш мгновение",
-          "gloss": "our instant"
+          "word": "миг",
+          "gloss": "instant"
         }
       ]
     },
@@ -3178,7 +3138,7 @@
       "meanings": [
         {
           "en": "minute",
-          "note": "Common feminine noun meaning 'minute' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3263,44 +3223,6 @@
         }
       ]
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "молодой": {
       "lemma": "молодой",
       "stress": "молодо́й",
@@ -3352,10 +3274,10 @@
           {
             "cells": [
               "accusative",
-              "молодого",
+              "молодой / молодого",
               "молодую",
               "молодое",
-              "молодых"
+              "молодые / молодых"
             ]
           },
           {
@@ -3414,7 +3336,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3469,6 +3391,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3501,7 +3440,7 @@
       "meanings": [
         {
           "en": "husband",
-          "note": "Мой муж = my husband. Common masculine noun meaning 'husband' in everyday Russian."
+          "note": "Мой муж = my husband."
         }
       ],
       "forms": {
@@ -3663,7 +3602,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3693,13 +3632,13 @@
       "lemma": "наслаждаться",
       "stress": "наслажда́ться",
       "pos": "verb",
-      "gloss": "enjoy",
+      "gloss": "to enjoy",
       "aspect": "impf",
-      "pair": null,
+      "pair": "насладиться",
       "meanings": [
         {
-          "en": "enjoy",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'enjoy'."
+          "en": "to enjoy, to savour",
+          "note": "+ instrumental: наслаждаться жизнью"
         }
       ],
       "forms": {
@@ -3754,22 +3693,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "наслаждайся",
+                "наслаждайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и наслаждаться вовремя.",
-          "trans": "We need to do everything and enjoy on time."
+          "text": "Расслабься и наслаждайся жизнью.",
+          "trans": "Relax and enjoy life."
         },
         {
-          "text": "На нашей кухне все умеют наслаждаться.",
-          "trans": "In our kitchen everyone knows how to enjoy."
+          "text": "И наслаждаться каждым новым мгновением.",
+          "trans": "And savour every new moment."
         }
       ],
       "related": [
         {
-          "word": "не наслаждаться",
-          "gloss": "not to enjoy (negated infinitive)"
+          "word": "насладиться",
+          "gloss": "to enjoy (pf)"
+        },
+        {
+          "word": "наслаждение",
+          "gloss": "pleasure, delight"
         }
       ]
     },
@@ -3922,7 +3882,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4107,7 +4067,7 @@
       "meanings": [
         {
           "en": "to declare, to announce",
-          "note": "Объявлять что каким (instrumental). Used as an imperfective (ongoing/repeated action) verb meaning 'to declare, to announce', paired with 'объявить'."
+          "note": "Объявлять что каким (instrumental)."
         }
       ],
       "forms": {
@@ -4292,7 +4252,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4391,13 +4351,13 @@
       "lemma": "пожениться",
       "stress": "пожени́ться",
       "pos": "verb",
-      "gloss": "we will get married",
+      "gloss": "to get married (of a couple)",
       "aspect": "pf",
       "pair": null,
       "meanings": [
         {
-          "en": "we will get married",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жениться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'we will get married'."
+          "en": "to get married (of two people)",
+          "note": "subject is a couple: мы поженимся; compare жениться (man), выйти замуж (woman)"
         }
       ],
       "forms": {
@@ -4452,26 +4412,51 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "поженись",
+                "поженитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и пожениться вовремя.",
-          "trans": "We need to do everything and we will get married on time."
-        },
-        {
-          "text": "На нашей кухне все умеют пожениться.",
-          "trans": "In our kitchen everyone knows how to we will get married."
-        },
-        {
           "text": "Конечно, мы обязательно поженимся.",
-          "trans": "Of course, we will definitely get married."
+          "trans": "Of course we'll definitely get married."
+        },
+        {
+          "text": "Мы вернулись в Россию и поженились.",
+          "trans": "We came back to Russia and got married."
+        },
+        {
+          "text": "Все думали даже, что они поженятся.",
+          "trans": "Everyone even thought they'd get married."
         }
       ],
       "related": [
         {
           "word": "жениться",
-          "gloss": "to we will get married (base verb)"
+          "gloss": "to marry (of a man)"
+        },
+        {
+          "word": "свадьба",
+          "gloss": "wedding"
+        },
+        {
+          "word": "выйти замуж",
+          "gloss": "to marry (of a woman)"
         }
       ]
     },
@@ -4556,8 +4541,8 @@
       "pair": "сбегать",
       "meanings": [
         {
-          "en": "to escape, run away (from custody)",
-          "note": "сбежать из-под ареста = to escape house arrest"
+          "en": "to escape, run away",
+          "note": "сбежать из-под венца = to run away from the altar"
         }
       ],
       "forms": {
@@ -4634,25 +4619,25 @@
       "examples": [
         {
           "text": "Да, он сбежал, чтобы спасти моего ребёнка.",
-          "trans": "Yes, he escaped custody to save my child."
+          "trans": "Yes, he ran away to save my child."
         },
         {
-          "text": "Заключённый сбежал из тюрьмы ночью.",
-          "trans": "The prisoner escaped from prison at night."
+          "text": "Твоя дочь сбежала из-под венца.",
+          "trans": "Your daughter ran away from the altar."
         },
         {
           "text": "Ты думал, что легко сбежишь отсюда?",
-          "trans": "Did you think that you would easily escape from here?"
+          "trans": "Did you think you'd escape from here easily?"
         }
       ],
       "related": [
         {
           "word": "сбегать",
-          "gloss": "to escape"
+          "gloss": "to run away (impf)"
         },
         {
-          "word": "побежать",
-          "gloss": "to start running"
+          "word": "побег",
+          "gloss": "escape"
         },
         {
           "word": "прибежать",
@@ -4669,11 +4654,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4745,8 +4730,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4796,7 +4789,7 @@
       "meanings": [
         {
           "en": "strong, powerful (also used as a noun: the strong)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('strong, powerful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4839,10 +4832,10 @@
           {
             "cells": [
               "accusative",
-              "сильный",
+              "сильный / сильного",
               "сильную",
               "сильное",
-              "сильные"
+              "сильные / сильных"
             ]
           },
           {
@@ -4905,7 +4898,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4996,15 +4989,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5032,42 +5025,42 @@
             "cells": [
               "nominative",
               "совесть",
-              "—"
+              "совести"
             ]
           },
           {
             "cells": [
               "genitive",
               "совести",
-              "—"
+              "совестей"
             ]
           },
           {
             "cells": [
               "dative",
               "совести",
-              "—"
+              "совестям"
             ]
           },
           {
             "cells": [
               "accusative",
               "совесть",
-              "—"
+              "совести"
             ]
           },
           {
             "cells": [
               "instrumental",
               "совестью",
-              "—"
+              "совестями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "совести",
-              "—"
+              "совестях"
             ]
           }
         ]
@@ -5166,29 +5159,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "согласен",
-                "согласна",
-                "согласно",
-                "согласны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я согласен.",
@@ -5445,7 +5416,7 @@
       "meanings": [
         {
           "en": "smile",
-          "note": "Common feminine noun meaning 'smile' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5534,7 +5505,7 @@
       "meanings": [
         {
           "en": "at least, just",
-          "note": "Дай хоть одну = give me just one. Core Russian part meaning 'at least, just' in everyday speech."
+          "note": "Дай хоть одну = give me just one."
         }
       ],
       "forms": null,
@@ -5576,7 +5547,7 @@
         },
         {
           "en": "although, even though (as conjunction)",
-          "note": "Core Russian part meaning 'even if, at least (with бы); although' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

@@ -350,9 +350,9 @@
           "t": "Люби",
           "lemma": "любить",
           "pos": "verb",
-          "stress": "лю́би",
-          "gloss": "to love, to like",
-          "gram": "conjugated verb"
+          "stress": "люби́",
+          "gloss": "love",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "своих",
@@ -1030,9 +1030,9 @@
           "t": "Люби",
           "lemma": "любить",
           "pos": "verb",
-          "stress": "лю́би",
-          "gloss": "to love, to like",
-          "gram": "conjugated verb"
+          "stress": "люби́",
+          "gloss": "love",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "своих",
@@ -1710,9 +1710,9 @@
           "t": "Люби",
           "lemma": "любить",
           "pos": "verb",
-          "stress": "лю́би",
-          "gloss": "to love, to like",
-          "gram": "conjugated verb"
+          "stress": "люби́",
+          "gloss": "love",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "своих",
@@ -2493,7 +2493,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2681,11 +2681,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2767,84 +2767,6 @@
         {
           "word": "встретить",
           "gloss": "to meet"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2994,49 +2916,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -3047,11 +2926,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3142,15 +3025,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3162,11 +3045,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3208,7 +3091,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3258,7 +3141,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3344,7 +3227,7 @@
       "meanings": [
         {
           "en": "friendship",
-          "note": "Common feminine noun meaning 'friendship' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3359,42 +3242,42 @@
             "cells": [
               "nominative",
               "дружба",
-              "—"
+              "дружбы"
             ]
           },
           {
             "cells": [
               "genitive",
               "дружбы",
-              "—"
+              "дружб"
             ]
           },
           {
             "cells": [
               "dative",
               "дружбе",
-              "—"
+              "дружбам"
             ]
           },
           {
             "cells": [
               "accusative",
               "дружбу",
-              "—"
+              "дружбы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "дружбой",
-              "—"
+              "дружбами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "дружбе",
-              "—"
+              "дружбах"
             ]
           }
         ]
@@ -3588,7 +3471,7 @@
       "meanings": [
         {
           "en": "it is a pity, too bad",
-          "note": "Predicative. Core Russian adv meaning 'it is a pity, too bad' in everyday speech."
+          "note": "Predicative."
         }
       ],
       "forms": null,
@@ -3656,7 +3539,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3738,7 +3621,7 @@
       "meanings": [
         {
           "en": "to end, to be over",
-          "note": "The thing that ends is the subject. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to end, to be over', paired with 'заканчиваться'."
+          "note": "The thing that ends is the subject. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончиться')."
         },
         {
           "en": "to run out",
@@ -3794,6 +3677,23 @@
                 "закончилась",
                 "закончилось",
                 "закончились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "закончись",
+                "закончитесь"
               ]
             }
           ]
@@ -3874,7 +3774,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3944,14 +3844,15 @@
     },
     "истина": {
       "lemma": "истина",
-      "stress": "исти́на",
+      "stress": "и́стина",
       "pos": "noun",
-      "gloss": "truths",
+      "gloss": "truth",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
-          "en": "truths",
-          "note": "Common feminine noun meaning 'truths' in everyday Russian."
+          "en": "truth",
+          "note": "Elevated; everyday 'truth' is правда."
         }
       ],
       "forms": {
@@ -4010,21 +3911,21 @@
       "examples": [
         {
           "text": "Я не успел понять простые истины.",
-          "trans": "I did not have time to understand simple truths."
+          "trans": "I didn't have time to grasp the simple truths."
         },
         {
-          "text": "На кухне ресторана всегда есть истина.",
-          "trans": "In the restaurant kitchen there is always truths."
+          "text": "В вине истина.",
+          "trans": "In wine there is truth."
         }
       ],
       "related": [
         {
-          "word": "без истин",
-          "gloss": "without truths"
+          "word": "правда",
+          "gloss": "truth"
         },
         {
-          "word": "наш истина",
-          "gloss": "our truths"
+          "word": "истинный",
+          "gloss": "true, genuine"
         }
       ]
     },
@@ -4172,7 +4073,7 @@
       "meanings": [
         {
           "en": "short, brief",
-          "note": "Not long in duration or length. Agrees in gender, number, and case with the noun it modifies ('short, brief')."
+          "note": "Not long in duration or length."
         }
       ],
       "forms": {
@@ -4215,10 +4116,10 @@
           {
             "cells": [
               "accusative",
-              "короткий",
+              "короткий / короткого",
               "короткую",
               "короткое",
-              "короткие"
+              "короткие / коротких"
             ]
           },
           {
@@ -4348,7 +4249,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -4384,11 +4285,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4472,8 +4373,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -4496,8 +4397,6 @@
       "stress": "натвори́ть",
       "pos": "verb",
       "gloss": "to do (something bad), cause trouble",
-      "aspect": "pf",
-      "pair": "творить",
       "meanings": [
         {
           "en": "to do (something wrong), make a mess",
@@ -4598,7 +4497,8 @@
           "word": "твориться",
           "gloss": "to go on"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "наш": {
       "lemma": "наш",
@@ -4856,7 +4756,7 @@
       "meanings": [
         {
           "en": "to turn out to be, prove to be",
-          "note": "Reflexive verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out to be, find oneself', paired with 'оказываться'."
+          "note": "Reflexive verb."
         }
       ],
       "forms": {
@@ -5088,7 +4988,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -5191,11 +5091,11 @@
       "meanings": [
         {
           "en": "simple, easy",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": "Простые люди = ordinary people."
         },
         {
           "en": "ordinary, common",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5436,7 +5336,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5527,15 +5427,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5578,7 +5478,7 @@
       "meanings": [
         {
           "en": "to ask (a question, or someone: спросить у кого-то)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask', paired with 'спрашивать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5727,7 +5627,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -5973,7 +5873,7 @@
         },
         {
           "en": "to manage to do",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to make it, to be in time', paired with 'успевать'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -6028,6 +5928,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "успей",
+                "успейте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6041,7 +5958,7 @@
         },
         {
           "text": "Успеем! Президент долго выступает.",
-          "trans": "We'll make it! The president always talks for a long time."
+          "trans": "We'll make it! The president speaks for a long time."
         }
       ],
       "related": [
@@ -6061,11 +5978,11 @@
       "meanings": [
         {
           "en": "to learn, to study",
-          "note": "Учить уроки = to do one's homework. Used as an imperfective (ongoing/repeated action) verb meaning 'to learn; to teach', paired with 'выучить'."
+          "note": "Учить уроки = to do one's homework."
         },
         {
           "en": "to teach",
-          "note": "+ accusative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to learn; to teach', paired with 'выучить'."
+          "note": "+ accusative of the person."
         }
       ],
       "forms": {
@@ -6172,7 +6089,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6319,7 +6236,7 @@
       "meanings": [
         {
           "en": "to value, to appreciate, to esteem",
-          "note": "Takes accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to value, to appreciate', paired with 'оценить'."
+          "note": "Takes accusative."
         }
       ],
       "forms": {
@@ -6636,77 +6553,33 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },

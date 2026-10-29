@@ -564,7 +564,7 @@
           "pos": "adj",
           "stress": "друго́го",
           "gloss": "other, another, different",
-          "gram": "adj n gen"
+          "gram": "genitive/accusative singular, masculine/neuter"
         },
         {
           "t": "человека.",
@@ -1394,7 +1394,7 @@
           "pos": "adj",
           "stress": "друго́го",
           "gloss": "other, another, different",
-          "gram": "adj n gen"
+          "gram": "genitive/accusative singular, masculine/neuter"
         },
         {
           "t": "человека.",
@@ -2224,7 +2224,7 @@
           "pos": "adj",
           "stress": "друго́го",
           "gloss": "other, another, different",
-          "gram": "adj n gen"
+          "gram": "genitive/accusative singular, masculine/neuter"
         },
         {
           "t": "человека.",
@@ -2512,13 +2512,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -2619,7 +2625,8 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "быть": {
       "lemma": "быть",
@@ -2936,10 +2943,11 @@
       "pos": "noun",
       "gloss": "bribe-taker",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "bribe-taker",
-          "note": "An official who takes bribes. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'bribe-taker' in everyday Russian."
+          "note": "An official who takes bribes."
         }
       ],
       "forms": {
@@ -3024,7 +3032,7 @@
       "meanings": [
         {
           "en": "for the first time",
-          "note": "On the earliest occasion. Core Russian adv meaning 'for the first time' in everyday speech."
+          "note": "On the earliest occasion."
         }
       ],
       "forms": null,
@@ -3146,11 +3154,11 @@
       "meanings": [
         {
           "en": "to go out, to come out",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить')."
         },
         {
           "en": "to get out (of prison, arrest)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3261,7 +3269,7 @@
       "meanings": [
         {
           "en": "stupid, silly, foolish",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('stupid, silly, foolish')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3304,10 +3312,10 @@
           {
             "cells": [
               "accusative",
-              "глупый/глупого",
+              "глупый / глупого",
               "глупую",
               "глупое",
-              "глупые/глупых"
+              "глупые / глупых"
             ]
           },
           {
@@ -3364,7 +3372,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -3535,7 +3543,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3621,7 +3629,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3701,11 +3709,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3814,11 +3822,11 @@
       "meanings": [
         {
           "en": "gold, golden",
-          "note": "Made of gold or gold-coloured. Agrees in gender, number, and case with the noun it modifies ('golden, gold')."
+          "note": "Made of gold or gold-coloured."
         },
         {
           "en": "precious, wonderful",
-          "note": "'золотые руки' = skilled hands. Agrees in gender, number, and case with the noun it modifies ('golden, gold')."
+          "note": "'золотые руки' = skilled hands."
         }
       ],
       "forms": {
@@ -3861,10 +3869,10 @@
           {
             "cells": [
               "accusative",
-              "золотой/золотого",
+              "золотой / золотого",
               "золотую",
               "золотое",
-              "золотые/золотых"
+              "золотые / золотых"
             ]
           },
           {
@@ -3917,11 +3925,11 @@
       "meanings": [
         {
           "en": "for nothing, in vain",
-          "note": "Зря ты так = You shouldn't have. Core Russian adv meaning 'for nothing, in vain' in everyday speech."
+          "note": "Зря ты так = You shouldn't have."
         },
         {
           "en": "wrongly, without reason",
-          "note": "Зря ты так = You shouldn't have. Core Russian adv meaning 'for nothing, in vain' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4045,6 +4053,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "изменись",
+                "изменитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4085,11 +4110,11 @@
       "meanings": [
         {
           "en": "ring",
-          "note": "On a finger. Common neuter noun meaning 'ring' in everyday Russian."
+          "note": "On a finger."
         },
         {
           "en": "ring, circle",
-          "note": "Any round loop. Common neuter noun meaning 'ring' in everyday Russian."
+          "note": "Any round loop."
         }
       ],
       "forms": {
@@ -4213,7 +4238,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4318,11 +4343,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4406,8 +4431,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -4617,16 +4642,16 @@
       ],
       "related": [
         {
-          "word": "конечно",
-          "gloss": "of course"
+          "word": "наконец-то",
+          "gloss": "at last!"
         },
         {
           "word": "конец",
           "gloss": "end"
         },
         {
-          "word": "наконец-то",
-          "gloss": "at last"
+          "word": "в конце концов",
+          "gloss": "in the end, after all"
         }
       ]
     },
@@ -4891,11 +4916,11 @@
       "meanings": [
         {
           "en": "leg",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": "Russian uses one word for both."
         },
         {
           "en": "foot",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5095,10 +5120,10 @@
           {
             "cells": [
               "accusative",
-              "обручальный",
+              "обручальный / обручального",
               "обручальную",
               "обручальное",
-              "обручальные"
+              "обручальные / обручальных"
             ]
           },
           {
@@ -5134,8 +5159,16 @@
       ],
       "related": [
         {
-          "word": "обручально",
-          "gloss": "in a wedding way (adv.)"
+          "word": "обручальное кольцо",
+          "gloss": "wedding ring"
+        },
+        {
+          "word": "обручение",
+          "gloss": "engagement"
+        },
+        {
+          "word": "свадьба",
+          "gloss": "wedding"
         }
       ]
     },
@@ -5147,7 +5180,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement."
         }
       ],
       "forms": null,
@@ -5181,7 +5214,7 @@
       "meanings": [
         {
           "en": "finally, permanently",
-          "note": "Conclusively and without change. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Conclusively and without change."
         }
       ],
       "forms": null,
@@ -5309,7 +5342,7 @@
       "meanings": [
         {
           "en": "dangerous, hazardous",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('dangerous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5352,10 +5385,10 @@
           {
             "cells": [
               "accusative",
-              "опасный",
+              "опасный / опасного",
               "опасную",
               "опасное",
-              "опасные"
+              "опасные / опасных"
             ]
           },
           {
@@ -5417,11 +5450,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -5491,7 +5524,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -5603,7 +5636,7 @@
       "meanings": [
         {
           "en": "scoundrel, cad, dishonourable man",
-          "note": "Common masculine noun meaning 'scoundrel, villain, cad' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5718,7 +5751,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "Всё получилось = it all worked out. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
+          "note": "Всё получилось = it all worked out."
         },
         {
           "en": "to come out of, to make",
@@ -5777,6 +5810,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получись",
+                "получитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5814,7 +5864,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -5927,11 +5977,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -6081,7 +6131,7 @@
       "meanings": [
         {
           "en": "criminal, lawbreaker",
-          "note": "Person who commits a crime. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'criminal, offender' in everyday Russian."
+          "note": "Person who commits a crime."
         }
       ],
       "forms": {
@@ -6176,7 +6226,7 @@
       "meanings": [
         {
           "en": "to talk, to speak, to have a conversation",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to talk, to speak'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать')."
         }
       ],
       "forms": {
@@ -6228,6 +6278,23 @@
                 "разговаривала",
                 "разговаривало",
                 "разговаривали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разговаривай",
+                "разговаривайте"
               ]
             }
           ]
@@ -6410,7 +6477,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -6521,7 +6588,7 @@
       "meanings": [
         {
           "en": "completely, quite, utterly",
-          "note": "Совершенно верно = quite right. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Совершенно верно = quite right."
         }
       ],
       "forms": null,
@@ -6559,7 +6626,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6601,15 +6668,15 @@
       "meanings": [
         {
           "en": "happy",
-          "note": "Сч is pronounced like щ. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Сч is pronounced like щ."
         },
         {
           "en": "lucky",
-          "note": "Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": ""
         },
         {
           "en": "happy (ending)",
-          "note": "Счастливый конец = happy ending. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Счастливый конец = happy ending."
         }
       ],
       "forms": {
@@ -6678,29 +6745,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "счастлив",
-                "счастлива",
-                "счастливо",
-                "счастливы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я очень счастливый.",
@@ -6730,11 +6775,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6903,7 +6948,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7008,7 +7053,7 @@
       "meanings": [
         {
           "en": "to beg, to implore",
-          "note": "Умоляю вас = I'm begging you. Used as an imperfective (ongoing/repeated action) verb meaning 'to beg, to implore', paired with 'умолить'."
+          "note": "Умоляю вас = I'm begging you."
         }
       ],
       "forms": {
@@ -7113,7 +7158,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {

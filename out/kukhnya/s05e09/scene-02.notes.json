@@ -248,7 +248,7 @@
           "pos": "verb",
           "stress": "продолжа́й",
           "gloss": "continue",
-          "gram": "conjugated verb"
+          "gram": "2nd person singular imperative"
         },
         {
           "t": "жить,",
@@ -758,7 +758,7 @@
           "pos": "verb",
           "stress": "продолжа́й",
           "gloss": "continue",
-          "gram": "conjugated verb"
+          "gram": "2nd person singular imperative"
         },
         {
           "t": "жить,",
@@ -1268,7 +1268,7 @@
           "pos": "verb",
           "stress": "продолжа́й",
           "gloss": "continue",
-          "gram": "conjugated verb"
+          "gram": "2nd person singular imperative"
         },
         {
           "t": "жить,",
@@ -1797,7 +1797,7 @@
       "meanings": [
         {
           "en": "attention, notice",
-          "note": "Внимание! = Attention!. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attention' in everyday Russian."
+          "note": "Внимание! = Attention!."
         }
       ],
       "forms": {
@@ -1812,42 +1812,42 @@
             "cells": [
               "nominative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "genitive",
               "внимания",
-              "—"
+              "вниманий"
             ]
           },
           {
             "cells": [
               "dative",
               "вниманию",
-              "—"
+              "вниманиям"
             ]
           },
           {
             "cells": [
               "accusative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "instrumental",
               "вниманием",
-              "—"
+              "вниманиями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "внимании",
-              "—"
+              "вниманиях"
             ]
           }
         ]
@@ -1888,7 +1888,7 @@
       "meanings": [
         {
           "en": "to lie, to tell lies",
-          "note": "Colloquial. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to tell lies', paired with 'соврать'."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -2190,11 +2190,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2349,7 +2349,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2438,7 +2438,7 @@
       "meanings": [
         {
           "en": "to live",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to live'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2493,6 +2493,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "живи",
+                "живите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2512,7 +2529,7 @@
       "related": [
         {
           "word": "житься",
-          "gloss": "to live"
+          "gloss": "to get on, for life to go (impersonal)"
         },
         {
           "word": "дожить",
@@ -2520,7 +2537,7 @@
         },
         {
           "word": "пережить",
-          "gloss": "to survive"
+          "gloss": "to survive, to live through"
         }
       ]
     },
@@ -2532,11 +2549,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2609,12 +2626,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2669,6 +2684,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2688,17 +2720,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -2800,6 +2833,23 @@
                 "изменилась",
                 "изменилось",
                 "изменились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "изменись",
+                "изменитесь"
               ]
             }
           ]
@@ -3215,7 +3265,7 @@
       "meanings": [
         {
           "en": "carrot",
-          "note": "Declinable feminine noun meaning 'carrot', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -3301,12 +3351,8 @@
       "pair": "нарезать",
       "meanings": [
         {
-          "en": "to slice",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'резать'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to slice', forming an aspectual pair with 'нарезать'."
-        },
-        {
-          "en": "to carve",
-          "note": "Secondary conversational sense ('to carve') (to slice meat or bread) used in spoken Russian dialogue."
+          "en": "to slice, to cut up, to chop",
+          "note": "Perfective нарезать (нарежу); imperfective partner нарезать."
         }
       ],
       "forms": {
@@ -3358,6 +3404,23 @@
                 "нарезала",
                 "нарезало",
                 "нарезали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "нарежь",
+                "нарежьте"
               ]
             }
           ]
@@ -3684,7 +3747,7 @@
       "meanings": [
         {
           "en": "to stop, put an end to",
-          "note": "Прекрати! = Stop it!. Used as a perfective (single completed action) verb meaning 'to stop, quit', paired with 'прекращать'."
+          "note": "Прекрати! = Stop it!."
         }
       ],
       "forms": {
@@ -3781,15 +3844,15 @@
     },
     "прекращать": {
       "lemma": "прекращать",
-      "stress": "прекра́щать",
+      "stress": "прекраща́ть",
       "pos": "verb",
-      "gloss": "stop, cease",
+      "gloss": "to stop, cease",
       "aspect": "impf",
-      "pair": null,
+      "pair": "прекратить",
       "meanings": [
         {
-          "en": "stop, cease",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'stop, cease'."
+          "en": "to stop, to cease, to put an end to",
+          "note": "Прекращай! = Cut it out!"
         }
       ],
       "forms": {
@@ -3844,22 +3907,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "прекращай",
+                "прекращайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "С этого момента прекращаю врать.",
-          "trans": "From this moment I stop lying."
+          "trans": "From now on I'm going to stop lying."
         },
         {
-          "text": "Надо всё сделать и прекращать вовремя.",
-          "trans": "We need to do everything and stop on time."
+          "text": "Вика, ты прекращай этот цирк.",
+          "trans": "Vika, cut out this circus."
         }
       ],
       "related": [
         {
-          "word": "не прекращать",
-          "gloss": "not to stop (negated infinitive)"
+          "word": "прекратить",
+          "gloss": "to stop (pf)"
+        },
+        {
+          "word": "перестать",
+          "gloss": "to stop (doing)"
+        },
+        {
+          "word": "хватит",
+          "gloss": "enough"
         }
       ]
     },
@@ -3871,7 +3959,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3902,7 +3990,7 @@
       "meanings": [
         {
           "en": "to continue, to go on (with)",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'должать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to continue', paired with 'продолжить'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'должать')."
         }
       ],
       "forms": {
@@ -4107,7 +4195,7 @@
       "meanings": [
         {
           "en": "earlier, before, formerly",
-          "note": "Comparative of рано. Core Russian adv meaning 'earlier, previously, used to' in everyday speech."
+          "note": "Comparative of рано."
         }
       ],
       "forms": null,
@@ -4224,7 +4312,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4315,15 +4403,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4356,8 +4444,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4581,105 +4677,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

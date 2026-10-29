@@ -180,7 +180,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "теперь.",
@@ -215,10 +215,10 @@
         {
           "t": "пор?",
           "lemma": "пора",
-          "pos": "adv",
+          "pos": "noun",
           "stress": null,
-          "gloss": "time",
-          "gram": "feminine plural genitive"
+          "gloss": "time (до сих пор = still, until now; с каких пор = since when)",
+          "gram": "genitive plural"
         }
       ]
     },
@@ -278,8 +278,8 @@
           "t": "дружить?",
           "lemma": "дружить",
           "pos": "verb",
-          "stress": "дру́жить",
-          "gloss": "be friends",
+          "stress": "дружи́ть",
+          "gloss": "to be friends",
           "gram": "infinitive"
         }
       ]
@@ -690,7 +690,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "теперь.",
@@ -725,10 +725,10 @@
         {
           "t": "пор?",
           "lemma": "пора",
-          "pos": "adv",
+          "pos": "noun",
           "stress": null,
-          "gloss": "time",
-          "gram": "feminine plural genitive"
+          "gloss": "time (до сих пор = still, until now; с каких пор = since when)",
+          "gram": "genitive plural"
         }
       ]
     },
@@ -788,8 +788,8 @@
           "t": "дружить?",
           "lemma": "дружить",
           "pos": "verb",
-          "stress": "дру́жить",
-          "gloss": "be friends",
+          "stress": "дружи́ть",
+          "gloss": "to be friends",
           "gram": "infinitive"
         }
       ]
@@ -1200,7 +1200,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "теперь.",
@@ -1235,10 +1235,10 @@
         {
           "t": "пор?",
           "lemma": "пора",
-          "pos": "adv",
+          "pos": "noun",
           "stress": null,
-          "gloss": "time",
-          "gram": "feminine plural genitive"
+          "gloss": "time (до сих пор = still, until now; с каких пор = since when)",
+          "gram": "genitive plural"
         }
       ]
     },
@@ -1298,8 +1298,8 @@
           "t": "дружить?",
           "lemma": "дружить",
           "pos": "verb",
-          "stress": "дру́жить",
-          "gloss": "be friends",
+          "stress": "дружи́ть",
+          "gloss": "to be friends",
           "gram": "infinitive"
         }
       ]
@@ -1562,10 +1562,11 @@
       "pos": "noun",
       "gloss": "homeless person",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "homeless person",
-          "note": "Common masculine noun meaning 'homeless person' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1600,14 +1601,14 @@
           {
             "cells": [
               "accusative",
-              "бомж",
-              "бомжи"
+              "бомжа",
+              "бомжей"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "бомжем",
+              "бомжом",
               "бомжами"
             ]
           },
@@ -1628,7 +1629,11 @@
         },
         {
           "text": "Не бомжам, а бездомным.",
-          "trans": "Not bums, but homeless."
+          "trans": "Not bums — homeless people."
+        },
+        {
+          "text": "У нас есть бомж? Который во дворе живёт?",
+          "trans": "We have a homeless guy? The one who lives in the yard?"
         }
       ],
       "related": []
@@ -1878,11 +1883,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2057,11 +2062,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2100,7 +2105,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2181,13 +2186,13 @@
       "lemma": "дружить",
       "stress": "дружи́ть",
       "pos": "verb",
-      "gloss": "be friends",
+      "gloss": "to be friends",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "be friends",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'be friends'."
+          "en": "to be friends (with someone)",
+          "note": "дружить с кем-то"
         }
       ],
       "forms": {
@@ -2242,30 +2247,51 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "дружи",
+                "дружите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "С тех пор мы с Жераром дружим.",
-          "trans": "Since then Gerard and I are friends."
+          "trans": "Gerard and I have been friends ever since."
         },
         {
-          "text": "Хочешь понравиться женщине? Подружись с её ребёнком.",
-          "trans": "Want a woman to like you? Make friends with her child."
+          "text": "Мы просто дружим.",
+          "trans": "We're just friends."
+        },
+        {
+          "text": "Спасибо, было очень приятно с тобой дружить.",
+          "trans": "Thanks, it was really nice being friends with you."
         }
       ],
       "related": [
         {
-          "word": "дружок",
-          "gloss": "buddy"
+          "word": "подружиться",
+          "gloss": "to make friends"
         },
         {
-          "word": "дружно",
-          "gloss": "in harmony"
+          "word": "дружба",
+          "gloss": "friendship"
         },
         {
-          "word": "дружный",
-          "gloss": "harmonious"
+          "word": "друг",
+          "gloss": "friend"
         }
       ]
     },
@@ -2383,12 +2409,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2443,6 +2467,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2462,17 +2503,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -2647,7 +2689,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2755,7 +2797,7 @@
       "meanings": [
         {
           "en": "karaoke, karaoke bar",
-          "note": "Indeclinable neuter noun. Common neuter noun meaning 'karaoke' in everyday Russian."
+          "note": "Indeclinable neuter noun."
         }
       ],
       "forms": {
@@ -2770,42 +2812,42 @@
             "cells": [
               "nominative",
               "караоке",
-              "—"
+              "караоке"
             ]
           },
           {
             "cells": [
               "genitive",
               "караоке",
-              "—"
+              "караоке"
             ]
           },
           {
             "cells": [
               "dative",
               "караоке",
-              "—"
+              "караоке"
             ]
           },
           {
             "cells": [
               "accusative",
               "караоке",
-              "—"
+              "караоке"
             ]
           },
           {
             "cells": [
               "instrumental",
               "караоке",
-              "—"
+              "караоке"
             ]
           },
           {
             "cells": [
               "prepositional",
               "караоке",
-              "—"
+              "караоке"
             ]
           }
         ]
@@ -2831,11 +2873,11 @@
       "meanings": [
         {
           "en": "by the way, speaking of which",
-          "note": "Used as a parenthetical word. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Used as a parenthetical word."
         },
         {
           "en": "handy, well-timed",
-          "note": "Это очень кстати. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Это очень кстати."
         }
       ],
       "forms": null,
@@ -2864,7 +2906,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3121,12 +3163,16 @@
       "lemma": "недостаток",
       "stress": "недоста́ток",
       "pos": "noun",
-      "gloss": "flaws, shortcomings",
+      "gloss": "flaw, shortcoming; lack",
       "gender": "m",
       "meanings": [
         {
-          "en": "flaws, shortcomings",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'достаток'). Common masculine noun meaning 'flaws, shortcomings' in everyday Russian."
+          "en": "flaw, shortcoming, drawback",
+          "note": ""
+        },
+        {
+          "en": "lack, shortage",
+          "note": "недостаток денег = lack of money"
         }
       ],
       "forms": {
@@ -3141,42 +3187,42 @@
             "cells": [
               "nominative",
               "недостаток",
-              "недостатоки"
+              "недостатки"
             ]
           },
           {
             "cells": [
               "genitive",
-              "недостатока",
-              "недостатоков"
+              "недостатка",
+              "недостатков"
             ]
           },
           {
             "cells": [
               "dative",
-              "недостатоку",
-              "недостатокам"
+              "недостатку",
+              "недостаткам"
             ]
           },
           {
             "cells": [
               "accusative",
               "недостаток",
-              "недостатоки"
+              "недостатки"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "недостатоком",
-              "недостатоками"
+              "недостатком",
+              "недостатками"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "недостатоке",
-              "недостатоках"
+              "недостатке",
+              "недостатках"
             ]
           }
         ]
@@ -3185,21 +3231,25 @@
       "examples": [
         {
           "text": "У каждого, Настенька, свои недостатки.",
-          "trans": "Everyone has their own little flaws, Nastenka."
+          "trans": "Everyone has their flaws, Nastenka."
         },
         {
-          "text": "На нашей кухне уже есть новый недостаток.",
-          "trans": "In our kitchen there is already a new flaws."
+          "text": "Нет! Скажите, какие у него недостатки?",
+          "trans": "No! Tell me, what are his flaws?"
         }
       ],
       "related": [
         {
-          "word": "без недостато",
-          "gloss": "without flaws"
+          "word": "достоинство",
+          "gloss": "merit, virtue"
         },
         {
-          "word": "наш недостаток",
-          "gloss": "our flaws"
+          "word": "недостаточно",
+          "gloss": "not enough"
+        },
+        {
+          "word": "минус",
+          "gloss": "downside"
         }
       ]
     },
@@ -3254,10 +3304,10 @@
           {
             "cells": [
               "accusative",
-              "неправый",
+              "неправый / неправого",
               "неправую",
               "неправое",
-              "неправые"
+              "неправые / неправых"
             ]
           },
           {
@@ -3678,11 +3728,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -3785,7 +3835,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -3819,7 +3869,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3983,7 +4033,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4088,7 +4138,7 @@
       "meanings": [
         {
           "en": "to beg, to implore",
-          "note": "Умоляю вас = I'm begging you. Used as an imperfective (ongoing/repeated action) verb meaning 'to beg, to implore', paired with 'умолить'."
+          "note": "Умоляю вас = I'm begging you."
         }
       ],
       "forms": {

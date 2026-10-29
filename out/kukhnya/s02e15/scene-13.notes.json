@@ -150,7 +150,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         }
       ]
     },
@@ -383,8 +383,8 @@
           "lemma": "занимать",
           "pos": "verb",
           "stress": "занима́ть-то",
-          "gloss": "occupy, take up",
-          "gram": "conjugated verb"
+          "gloss": "to borrow",
+          "gram": "infinitive + particle -то"
         },
         {
           "t": "надо.",
@@ -612,7 +612,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         }
       ]
     },
@@ -845,8 +845,8 @@
           "lemma": "занимать",
           "pos": "verb",
           "stress": "занима́ть-то",
-          "gloss": "occupy, take up",
-          "gram": "conjugated verb"
+          "gloss": "to borrow",
+          "gram": "infinitive + particle -то"
         },
         {
           "t": "надо.",
@@ -1074,7 +1074,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         }
       ]
     },
@@ -1307,8 +1307,8 @@
           "lemma": "занимать",
           "pos": "verb",
           "stress": "занима́ть-то",
-          "gloss": "occupy, take up",
-          "gram": "conjugated verb"
+          "gloss": "to borrow",
+          "gram": "infinitive + particle -то"
         },
         {
           "t": "надо.",
@@ -1851,11 +1851,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -1946,15 +1950,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2078,7 +2082,7 @@
       "meanings": [
         {
           "en": "to blow (air/breath/wind)",
-          "note": "Дуйте = blow on it. Used as an imperfective (ongoing/repeated action) verb meaning 'to blow', paired with 'подуть'."
+          "note": "Дуйте = blow on it."
         }
       ],
       "forms": {
@@ -2193,11 +2197,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2260,13 +2264,17 @@
       "lemma": "занимать",
       "stress": "занима́ть",
       "pos": "verb",
-      "gloss": "occupy, take up",
+      "gloss": "to occupy, to take up; to borrow",
       "aspect": "impf",
-      "pair": null,
+      "pair": "занять",
       "meanings": [
         {
-          "en": "occupy, take up",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'occupy, take up'."
+          "en": "to occupy, to take up (space, time, a seat)",
+          "note": "Это занимает много времени."
+        },
+        {
+          "en": "to borrow (money)",
+          "note": "занимать деньги у кого-то"
         }
       ],
       "forms": {
@@ -2321,30 +2329,51 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "занимай",
+                "занимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Да, это занимает очень много моего времени.",
-          "trans": "Yes, it takes a lot of my time."
+          "trans": "Yes, it takes up a lot of my time."
         },
         {
-          "text": "Мы же бизнесом здесь занимаемся.",
-          "trans": "But we're in business here."
+          "text": "И денег нам занимать не нужно.",
+          "trans": "And we don't need to borrow money."
+        },
+        {
+          "text": "Так, все быстро занимайте свои места!",
+          "trans": "Right, everyone take your seats, quickly!"
         }
       ],
       "related": [
         {
-          "word": "принимать",
-          "gloss": "to receive"
+          "word": "занять",
+          "gloss": "to occupy; to borrow (pf)"
         },
         {
           "word": "заниматься",
-          "gloss": "to be busy with"
+          "gloss": "to be busy with, to do"
         },
         {
-          "word": "понимать",
-          "gloss": "to understand"
+          "word": "одалживать",
+          "gloss": "to borrow, to lend"
         }
       ]
     },
@@ -2472,7 +2501,7 @@
       "meanings": [
         {
           "en": "carrot",
-          "note": "Declinable feminine noun meaning 'carrot', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2673,49 +2702,6 @@
         }
       ]
     },
-    "над": {
-      "lemma": "над",
-      "stress": "над",
-      "pos": "prep",
-      "gloss": "over, above; at",
-      "governs": "+ instrumental",
-      "meanings": [
-        {
-          "en": "over, above",
-          "note": "+ instrumental. Core Russian prep meaning 'over, above; at' in everyday speech."
-        },
-        {
-          "en": "at (laugh at)",
-          "note": "смеяться над = to laugh at; form надо before мной"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Лампа над столом.",
-          "trans": "The lamp is above the table."
-        },
-        {
-          "text": "Не смейся надо мной.",
-          "trans": "Don't laugh at me."
-        },
-        {
-          "text": "За поведение? Вы смеётесь надо мной?",
-          "trans": "For my conduct? Are you laughing at me?"
-        }
-      ],
-      "related": [
-        {
-          "word": "под",
-          "gloss": "under"
-        },
-        {
-          "word": "на",
-          "gloss": "on"
-        }
-      ]
-    },
     "надо": {
       "lemma": "надо",
       "stress": "на́до",
@@ -2724,7 +2710,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2760,7 +2746,7 @@
       "meanings": [
         {
           "en": "to begin, to start, to break out (intransitive)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to begin, to start, to break out', paired with 'начинаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2812,6 +2798,23 @@
                 "началась",
                 "началось",
                 "начались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "начнись",
+                "начнитесь"
               ]
             }
           ]
@@ -2932,7 +2935,7 @@
       "meanings": [
         {
           "en": "to hurt, to mistreat, to offend",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to hurt, to offend, to bully', paired with 'обидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3135,7 +3138,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -3449,7 +3452,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -3487,7 +3490,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -3654,7 +3657,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

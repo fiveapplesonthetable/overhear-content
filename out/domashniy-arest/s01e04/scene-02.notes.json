@@ -905,8 +905,8 @@
           "lemma": "под",
           "pos": "prep",
           "stress": null,
-          "gloss": "to",
-          "gram": "preposition + accusative"
+          "gloss": "under",
+          "gram": "preposition + instrumental / accusative"
         },
         {
           "t": "Чёртов",
@@ -1897,8 +1897,8 @@
           "lemma": "под",
           "pos": "prep",
           "stress": null,
-          "gloss": "to",
-          "gram": "preposition + accusative"
+          "gloss": "under",
+          "gram": "preposition + instrumental / accusative"
         },
         {
           "t": "Чёртов",
@@ -2883,8 +2883,8 @@
           "lemma": "под",
           "pos": "prep",
           "stress": null,
-          "gloss": "to",
-          "gram": "preposition + accusative"
+          "gloss": "under",
+          "gram": "preposition + instrumental / accusative"
         },
         {
           "t": "Чёртов",
@@ -3032,7 +3032,7 @@
       "meanings": [
         {
           "en": "for free, free of charge",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'платно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'платно')."
         }
       ],
       "forms": null,
@@ -3076,7 +3076,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
+          "note": "+ genitive: 'бояться собак'."
         }
       ],
       "forms": {
@@ -3319,7 +3319,7 @@
         },
         {
           "en": "out!",
-          "note": "Вон отсюда! = get out of here!. Core Russian part meaning 'over there' in everyday speech."
+          "note": "Вон отсюда! = get out of here!."
         }
       ],
       "forms": null,
@@ -3353,11 +3353,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3397,7 +3397,7 @@
       "meanings": [
         {
           "en": "to meet",
-          "note": "By chance or at a station. Used as a perfective (single completed action) verb meaning 'to meet', paired with 'встречать'."
+          "note": "By chance or at a station."
         }
       ],
       "forms": {
@@ -3590,7 +3590,7 @@
       "meanings": [
         {
           "en": "somewhere (or other), anywhere",
-          "note": "Indefinite adverb of place. Core Russian adv meaning 'somewhere, anywhere' in everyday speech."
+          "note": "Indefinite adverb of place."
         }
       ],
       "forms": null,
@@ -3628,7 +3628,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3654,49 +3654,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -3707,11 +3664,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3802,15 +3763,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3826,7 +3787,7 @@
         },
         {
           "en": "long ago",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3951,7 +3912,7 @@
       "meanings": [
         {
           "en": "to go by vehicle, to travel (habitually or there and back)",
-          "note": "Multidirectional partner of ехать. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (by vehicle, habitually or round-trip)', paired with 'ехать'."
+          "note": "Multidirectional partner of ехать."
         }
       ],
       "forms": {
@@ -4165,11 +4126,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4276,7 +4237,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -4421,7 +4382,7 @@
       "meanings": [
         {
           "en": "club, nightclub, community centre",
-          "note": "Спортивный клуб = sports club. Common substantive noun meaning 'club' in everyday Russian."
+          "note": "Спортивный клуб = sports club."
         }
       ],
       "forms": {
@@ -4494,7 +4455,11 @@
       "related": [
         {
           "word": "клубный",
-          "gloss": "related to club (adj.)"
+          "gloss": "club (adj.)"
+        },
+        {
+          "word": "ночной клуб",
+          "gloss": "nightclub"
         }
       ]
     },
@@ -4506,7 +4471,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4528,7 +4493,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4540,7 +4509,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -4575,11 +4544,11 @@
       "meanings": [
         {
           "en": "car",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         },
         {
           "en": "machine",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4665,7 +4634,7 @@
       "meanings": [
         {
           "en": "bridge",
-          "note": "Common substantive noun meaning 'bridge' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4714,7 +4683,7 @@
           {
             "cells": [
               "prepositional",
-              "мосту",
+              "мосте",
               "мостах"
             ]
           }
@@ -4870,7 +4839,7 @@
       "meanings": [
         {
           "en": "back, on the way back",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5000,7 +4969,7 @@
       "meanings": [
         {
           "en": "to be running late, to arrive late",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be running late, to be late', paired with 'опоздать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5105,7 +5074,7 @@
       "meanings": [
         {
           "en": "to stop, to pull over",
-          "note": "A car or person. Used as a perfective (single completed action) verb meaning 'to stop (something or someone)', paired with 'останавливать'."
+          "note": "A car or person."
         }
       ],
       "forms": {
@@ -5218,7 +5187,7 @@
       "meanings": [
         {
           "en": "to take, to drive (someone to a place)",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'везти'). Used as a perfective (single completed action) verb meaning 'to drive, to take (someone somewhere by vehicle)', paired with 'отвозить'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'везти')."
         }
       ],
       "forms": {
@@ -5365,7 +5334,7 @@
       "meanings": [
         {
           "en": "to move house, to relocate",
-          "note": "Переехать в Москву. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to move (to a new home or city)', paired with 'переезжать'."
+          "note": "Переехать в Москву. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'ехать')."
         }
       ],
       "forms": {
@@ -5420,23 +5389,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "переедь",
-                "переедьте"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -5477,15 +5429,15 @@
       "meanings": [
         {
           "en": "under, below",
-          "note": "+ instrumental (where). Core Russian prep meaning 'under' in everyday speech."
+          "note": "+ instrumental (where)."
         },
         {
           "en": "under (towards)",
-          "note": "+ accusative (where to). Core Russian prep meaning 'under' in everyday speech."
+          "note": "+ accusative (where to)."
         },
         {
           "en": "on (someone's responsibility)",
-          "note": "Под мою ответственность. Core Russian prep meaning 'under' in everyday speech."
+          "note": "Под мою ответственность."
         }
       ],
       "forms": null,
@@ -5525,7 +5477,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -5671,7 +5623,7 @@
       "meanings": [
         {
           "en": "to remember",
-          "note": "To keep in memory. Used as an imperfective (ongoing/repeated action) verb meaning 'to remember'."
+          "note": "To keep in memory."
         }
       ],
       "forms": {
@@ -5831,6 +5783,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понравься",
+                "понравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5853,8 +5822,8 @@
           "gloss": "to be liked"
         },
         {
-          "word": "нравоучение",
-          "gloss": "moral lecture"
+          "word": "любить",
+          "gloss": "to love, to like"
         }
       ]
     },
@@ -5863,16 +5832,14 @@
       "stress": "посиде́ть",
       "pos": "verb",
       "gloss": "to sit for a while; to stay (with someone)",
-      "aspect": "pf",
-      "pair": "сидеть",
       "meanings": [
         {
           "en": "to sit for a while",
-          "note": "Perfective of limited duration. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть'). Used as a perfective (single completed action) verb meaning 'to sit for a while; to stay (with someone)', paired with 'сидеть'."
+          "note": "Perfective of limited duration. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть')."
         },
         {
           "en": "to stay with, keep company",
-          "note": "Посиди с ним = stay with him. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть'). Used as a perfective (single completed action) verb meaning 'to sit for a while; to stay (with someone)', paired with 'сидеть'."
+          "note": "Посиди с ним = stay with him. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть')."
         }
       ],
       "forms": {
@@ -5969,7 +5936,8 @@
           "word": "отсидеться",
           "gloss": "to sit out"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "послушать": {
       "lemma": "послушать",
@@ -5980,12 +5948,12 @@
       "pair": "слушать",
       "meanings": [
         {
-          "en": "to listen (a little, once)",
-          "note": "'Послушай!' / 'Послушайте!' = Listen! (to get attention)"
+          "en": "to listen (for a while), to listen to",
+          "note": "Perfective of слушать."
         },
         {
-          "en": "послушай",
-          "note": "Listen, look (to get attention). Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'слушать'). Used as a perfective (single completed action) verb meaning 'to listen (for a while)', paired with 'слушать'."
+          "en": "listen!, look! (послушай / послушайте)",
+          "note": "Used to get attention."
         }
       ],
       "forms": {
@@ -6096,7 +6064,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6259,7 +6227,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -6369,15 +6337,15 @@
           {
             "cells": [
               "1st",
-              "—",
-              "—"
+              "придусь",
+              "придёмся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "—",
-              "—"
+              "придёшься",
+              "придётесь"
             ]
           },
           {
@@ -6407,6 +6375,23 @@
                 "пришлась",
                 "пришлось",
                 "пришлись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "придись",
+                "придитесь"
               ]
             }
           ]
@@ -6594,7 +6579,7 @@
       "meanings": [
         {
           "en": "sauna, bathhouse",
-          "note": "Common feminine noun meaning 'sauna' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6815,7 +6800,7 @@
       "meanings": [
         {
           "en": "seriously",
-          "note": "Серьёзно? = really?. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Серьёзно? = really?."
         }
       ],
       "forms": null,
@@ -6849,11 +6834,11 @@
       "meanings": [
         {
           "en": "serious, earnest",
-          "note": "Серьёзный человек. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
+          "note": ""
         },
         {
           "en": "important, weighty, influential",
-          "note": "Серьёзный человек. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
+          "note": "серьёзный человек = an important man"
         }
       ],
       "forms": {
@@ -6896,10 +6881,10 @@
           {
             "cells": [
               "accusative",
-              "серьёзный",
+              "серьёзный / серьёзного",
               "серьёзную",
               "серьёзное",
-              "серьёзные"
+              "серьёзные / серьёзных"
             ]
           },
           {
@@ -6959,7 +6944,7 @@
         },
         {
           "en": "to start (doing)",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -7068,7 +7053,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -7173,7 +7158,7 @@
       "meanings": [
         {
           "en": "to dance",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to dance', paired with 'станцевать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7540,7 +7525,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -7595,6 +7580,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -7630,7 +7632,7 @@
       "meanings": [
         {
           "en": "often, frequently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7890,10 +7892,10 @@
           {
             "cells": [
               "accusative",
-              "чёртов",
+              "чёртов / чёртова",
               "чёртову",
               "чёртово",
-              "чёртовы"
+              "чёртовы / чёртовых"
             ]
           },
           {

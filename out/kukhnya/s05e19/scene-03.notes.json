@@ -104,7 +104,7 @@
           "t": "старшего",
           "lemma": "старший",
           "pos": "adj",
-          "stress": "старше́го",
+          "stress": "ста́ршего",
           "gloss": "older, elder, senior",
           "gram": "genitive / accusative masculine-neuter singular"
         },
@@ -187,10 +187,10 @@
         {
           "t": "шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "точно",
@@ -559,8 +559,8 @@
           "lemma": "понятие",
           "pos": "noun",
           "stress": "поня́тия",
-          "gloss": "concept, idea, notion",
-          "gram": "nominative / accusative"
+          "gloss": "idea",
+          "gram": "genitive singular, neuter"
         },
         {
           "t": "не",
@@ -760,7 +760,7 @@
           "t": "старшего",
           "lemma": "старший",
           "pos": "adj",
-          "stress": "старше́го",
+          "stress": "ста́ршего",
           "gloss": "older, elder, senior",
           "gram": "genitive / accusative masculine-neuter singular"
         },
@@ -843,10 +843,10 @@
         {
           "t": "шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "точно",
@@ -1215,8 +1215,8 @@
           "lemma": "понятие",
           "pos": "noun",
           "stress": "поня́тия",
-          "gloss": "concept, idea, notion",
-          "gram": "nominative / accusative"
+          "gloss": "idea",
+          "gram": "genitive singular, neuter"
         },
         {
           "t": "не",
@@ -1416,7 +1416,7 @@
           "t": "старшего",
           "lemma": "старший",
           "pos": "adj",
-          "stress": "старше́го",
+          "stress": "ста́ршего",
           "gloss": "older, elder, senior",
           "gram": "genitive / accusative masculine-neuter singular"
         },
@@ -1499,10 +1499,10 @@
         {
           "t": "шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "точно",
@@ -1871,8 +1871,8 @@
           "lemma": "понятие",
           "pos": "noun",
           "stress": "поня́тия",
-          "gloss": "concept, idea, notion",
-          "gram": "nominative / accusative"
+          "gloss": "idea",
+          "gram": "genitive singular, neuter"
         },
         {
           "t": "не",
@@ -2037,11 +2037,11 @@
       "meanings": [
         {
           "en": "uh-huh, yeah",
-          "note": "Casual yes. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Casual yes."
         },
         {
           "en": "yeah, right",
-          "note": "Said ironically. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Said ironically."
         }
       ],
       "forms": null,
@@ -2229,11 +2229,11 @@
       "pos": "verb",
       "gloss": "to perk up",
       "aspect": "pf",
-      "pair": null,
+      "pair": "взбадриваться",
       "meanings": [
         {
           "en": "to perk up",
-          "note": "Prefix 'вз-' ('up') marks upward or sudden onset of action (stem 'бодриться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to perk up'."
+          "note": "Prefix 'вз-' ('up') marks upward or sudden onset of action (stem 'бодриться')."
         }
       ],
       "forms": {
@@ -2288,22 +2288,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "взбодрись",
+                "взбодритесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "А что случилось, решила утром взбодриться?",
-          "trans": "What happened, did you decide to perk up this morning?"
+          "trans": "What happened, did you decide to wake yourself up this morning?"
         },
         {
-          "text": "Надо всё сделать и взбодриться вовремя.",
-          "trans": "We need to do everything and to perk up on time."
+          "text": "Мне нужно выпить кофе, чтобы взбодриться.",
+          "trans": "I need a coffee to perk up."
         }
       ],
       "related": [
         {
-          "word": "не взбодриться",
-          "gloss": "not to to perk up (negated infinitive)"
+          "word": "взбодрить",
+          "gloss": "to perk someone up"
+        },
+        {
+          "word": "бодрый",
+          "gloss": "cheerful, energetic"
         }
       ]
     },
@@ -2315,11 +2336,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2466,49 +2487,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2519,11 +2497,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2614,15 +2596,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2634,11 +2616,11 @@
       "meanings": [
         {
           "en": "further, farther",
-          "note": "In a list or a story. Core Russian adv meaning 'next; further' in everyday speech."
+          "note": "In a list or a story."
         },
         {
           "en": "next, go on",
-          "note": "In a list or a story. Core Russian adv meaning 'next; further' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2672,11 +2654,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2715,7 +2697,7 @@
       "meanings": [
         {
           "en": "short written note or message",
-          "note": "Common feminine noun meaning 'note' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2773,30 +2755,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это записка.",
-          "trans": "This is a note."
-        },
-        {
           "text": "Кстати, он просил передать тебе записку.",
-          "trans": "By the way, he asked to give you a note."
+          "trans": "By the way, he asked me to give you a note."
         },
         {
           "text": "Она не успела оставить тебе записку!",
-          "trans": "It did not have time to leave you a note!"
+          "trans": "She didn't have time to leave you a note!"
+        },
+        {
+          "text": "А от кого эта записка?",
+          "trans": "And who is this note from?"
         }
       ],
       "related": [
         {
           "word": "расписка",
-          "gloss": "receipt"
-        },
-        {
-          "word": "прописка",
-          "gloss": "official registration at an address"
+          "gloss": "receipt, signed acknowledgement"
         },
         {
           "word": "подписка",
-          "gloss": "written undertaking"
+          "gloss": "subscription; signed undertaking"
+        },
+        {
+          "word": "записать",
+          "gloss": "to write down"
         }
       ]
     },
@@ -2979,7 +2961,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3250,7 +3232,7 @@
       "meanings": [
         {
           "en": "cocktail, mixed drink",
-          "note": "Common masculine noun meaning 'cocktail' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3411,7 +3393,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3433,7 +3415,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3446,7 +3432,7 @@
       "meanings": [
         {
           "en": "month",
-          "note": "Уже месяц = for a month now. Common masculine noun meaning 'month' in everyday Russian."
+          "note": "Уже месяц = for a month now."
         }
       ],
       "forms": {
@@ -3610,7 +3596,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3715,7 +3701,7 @@
       "meanings": [
         {
           "en": "to write (and finish)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать'). Used as a perfective (single completed action) verb meaning 'to write', paired with 'писать'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать')."
         }
       ],
       "forms": {
@@ -4016,8 +4002,8 @@
           {
             "cells": [
               "accusative",
-              "огузка",
-              "огузков"
+              "огузок",
+              "огузки"
             ]
           },
           {
@@ -4048,7 +4034,7 @@
         },
         {
           "text": "Огузок, ты официально принят в штат нашего ресторана!",
-          "trans": "Rump, you are officially hired onto our restaurant staff!"
+          "trans": "Runt, you are officially hired onto our restaurant staff!"
         }
       ],
       "related": []
@@ -4148,7 +4134,7 @@
       "meanings": [
         {
           "en": "olive",
-          "note": "Common feminine noun meaning 'olive' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4170,7 +4156,7 @@
             "cells": [
               "genitive",
               "оливки",
-              "оливк"
+              "оливок"
             ]
           },
           {
@@ -4210,18 +4196,22 @@
           "trans": "A few olives."
         },
         {
-          "text": "На нашей кухне уже есть новая оливка.",
-          "trans": "In our kitchen there is already a new olive."
+          "text": "Вот я убрал из коктейля одну оливку.",
+          "trans": "Look, I took one olive out of the cocktail."
+        },
+        {
+          "text": "Люблю оливки с косточкой.",
+          "trans": "I love olives with the pit."
         }
       ],
       "related": [
         {
-          "word": "без оливк",
-          "gloss": "without olive"
+          "word": "оливковый",
+          "gloss": "olive (adj.)"
         },
         {
-          "word": "наш оливка",
-          "gloss": "our olive"
+          "word": "маслина",
+          "gloss": "black olive"
         }
       ]
     },
@@ -4234,11 +4224,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -4272,13 +4262,17 @@
       "lemma": "повысить",
       "stress": "повы́сить",
       "pos": "verb",
-      "gloss": "to promote",
+      "gloss": "to raise; to promote",
       "aspect": "pf",
-      "pair": null,
+      "pair": "повышать",
       "meanings": [
         {
-          "en": "to promote",
-          "note": "Used as a perfective (single completed action) verb meaning 'to promote'."
+          "en": "to promote (someone)",
+          "note": ""
+        },
+        {
+          "en": "to raise (salary, voice, price)",
+          "note": ""
         }
       ],
       "forms": {
@@ -4333,6 +4327,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "повысь",
+                "повысьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4347,8 +4358,12 @@
       ],
       "related": [
         {
-          "word": "не повысить",
-          "gloss": "not to to promote (negated infinitive)"
+          "word": "повышать",
+          "gloss": "to raise (impf)"
+        },
+        {
+          "word": "повышение",
+          "gloss": "promotion, raise"
         }
       ]
     },
@@ -4356,12 +4371,16 @@
       "lemma": "повышение",
       "stress": "повыше́ние",
       "pos": "noun",
-      "gloss": "promotion",
+      "gloss": "promotion; raise, increase",
       "gender": "n",
       "meanings": [
         {
           "en": "promotion",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'promotion' in everyday Russian."
+          "note": ""
+        },
+        {
+          "en": "raise, increase",
+          "note": "повышение зарплаты = pay rise"
         }
       ],
       "forms": {
@@ -4420,21 +4439,25 @@
       "examples": [
         {
           "text": "Или просто попроси у шефа повышения.",
-          "trans": "Or simply ask the chef for a promotion."
+          "trans": "Or just ask the chef for a promotion."
         },
         {
-          "text": "На кухне отеля всегда есть повышение.",
-          "trans": "In the hotel kitchen there is always promotion."
+          "text": "Макс, надо у Германа просить повышение зарплаты!",
+          "trans": "Max, we need to ask German for a pay rise!"
+        },
+        {
+          "text": "Поздравляю с повышением, Никита.",
+          "trans": "Congratulations on the promotion, Nikita."
         }
       ],
       "related": [
         {
-          "word": "без повышени",
-          "gloss": "without promotion"
+          "word": "повысить",
+          "gloss": "to promote, to raise"
         },
         {
-          "word": "наш повышение",
-          "gloss": "our promotion"
+          "word": "зарплата",
+          "gloss": "salary"
         }
       ]
     },
@@ -4449,7 +4472,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -4552,40 +4575,6 @@
         }
       ]
     },
-    "позже": {
-      "lemma": "позже",
-      "stress": "по́зже",
-      "pos": "adv",
-      "gloss": "later",
-      "meanings": [
-        {
-          "en": "later, later on (comparative of поздно)",
-          "note": "Core Russian adv meaning 'later' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Иди, позже заходи!",
-          "trans": "Go on, come by later!"
-        },
-        {
-          "text": "Давай поговорим об этом позже.",
-          "trans": "Let's talk about this later."
-        },
-        {
-          "text": "Иди, позже заходи! Потом!",
-          "trans": "Go on, come by later! Later!"
-        }
-      ],
-      "related": [
-        {
-          "word": "попозже",
-          "gloss": "a bit later"
-        }
-      ]
-    },
     "понятие": {
       "lemma": "понятие",
       "stress": "поня́тие",
@@ -4595,7 +4584,7 @@
       "meanings": [
         {
           "en": "concept, idea, notion",
-          "note": "Common neuter noun meaning 'concept, idea, notion' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4711,7 +4700,7 @@
       "meanings": [
         {
           "en": "to ask (for a favour)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask (for), to request', paired with 'просить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить')."
         }
       ],
       "forms": {
@@ -4805,8 +4794,12 @@
           "gloss": "to ask"
         },
         {
+          "word": "просьба",
+          "gloss": "request"
+        },
+        {
           "word": "спрос",
-          "gloss": "asking"
+          "gloss": "demand"
         }
       ]
     },
@@ -4820,11 +4813,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -4962,14 +4955,18 @@
     },
     "расход": {
       "lemma": "расход",
-      "stress": "ра́сход",
+      "stress": "расхо́д",
       "pos": "noun",
-      "gloss": "expenses",
+      "gloss": "expense, spending; consumption",
       "gender": "m",
       "meanings": [
         {
-          "en": "expenses",
-          "note": "Common masculine noun meaning 'expenses' in everyday Russian."
+          "en": "expense, spending",
+          "note": "usually plural: расходы = expenses"
+        },
+        {
+          "en": "consumption (of fuel, materials)",
+          "note": ""
         }
       ],
       "forms": {
@@ -5027,22 +5024,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "В спортбар, свадебные расходы не помешают.",
-          "trans": "At a sports bar, money for wedding expenses will not hurt."
+          "text": "Найди способ, как уменьшить расходы кухни.",
+          "trans": "Find a way to reduce the kitchen's expenses."
         },
         {
-          "text": "На кухне ресторана всегда есть расход.",
-          "trans": "In the restaurant kitchen there is always expenses."
+          "text": "Можно немного сократить наши расходы.",
+          "trans": "We could cut our expenses a little."
         }
       ],
       "related": [
         {
-          "word": "без расхо",
-          "gloss": "without expenses"
+          "word": "доход",
+          "gloss": "income"
         },
         {
-          "word": "наш расход",
-          "gloss": "our expenses"
+          "word": "тратить",
+          "gloss": "to spend"
         }
       ]
     },
@@ -5060,7 +5057,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -5177,7 +5174,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5268,15 +5265,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5290,7 +5287,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -5345,6 +5342,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5377,7 +5391,7 @@
       "meanings": [
         {
           "en": "way, method, means of doing something",
-          "note": "Common masculine noun meaning 'way, method, means' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5466,7 +5480,7 @@
       "meanings": [
         {
           "en": "older, senior",
-          "note": "Higher in age or class rank. Agrees in gender, number, and case with the noun it modifies ('older, elder, senior')."
+          "note": "Higher in age or class rank."
         }
       ],
       "forms": {
@@ -5509,10 +5523,10 @@
           {
             "cells": [
               "accusative",
-              "старший",
+              "старший / старшего",
               "старшую",
               "старшее",
-              "старшие"
+              "старшие / старших"
             ]
           },
           {
@@ -5692,11 +5706,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5864,12 +5878,12 @@
       "pair": "убирать",
       "meanings": [
         {
-          "en": "to remove, to take away, to cut out",
-          "note": "A room. Prefix 'у-' marks departure, removal, or successful completion (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to remove, to take away; to tidy up', paired with 'убирать'."
+          "en": "to remove, to take away, to put away",
+          "note": "Убери руки! = Hands off!"
         },
         {
           "en": "to clean up, to tidy",
-          "note": "A room. Prefix 'у-' marks departure, removal, or successful completion (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to remove, to take away; to tidy up', paired with 'убирать'."
+          "note": "Of a room or place."
         }
       ],
       "forms": {
@@ -5982,7 +5996,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -6037,6 +6051,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6074,11 +6105,11 @@
       "pos": "verb",
       "gloss": "to reduce",
       "aspect": "pf",
-      "pair": null,
+      "pair": "уменьшать",
       "meanings": [
         {
           "en": "to reduce",
-          "note": "Used as a perfective (single completed action) verb meaning 'to reduce'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6133,105 +6164,45 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уменьши",
+                "уменьшите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Найди способ, как уменьшить расходы кухни.",
-          "trans": "Find a way to reduce the kitchen's expenses."
+          "trans": "Find a way to cut the kitchen's expenses."
         },
         {
-          "text": "Надо всё сделать и уменьшить вовремя.",
-          "trans": "We need to do everything and to reduce on time."
+          "text": "Уменьши огонь, а то соус сгорит.",
+          "trans": "Turn the heat down or the sauce will burn."
         }
       ],
       "related": [
         {
-          "word": "не уменьшить",
-          "gloss": "not to to reduce (negated infinitive)"
+          "word": "уменьшать",
+          "gloss": "to reduce (impf.)"
+        },
+        {
+          "word": "меньше",
+          "gloss": "less, smaller"
         }
       ]
-    },
-    "утро": {
-      "lemma": "утро",
-      "stress": "у́тро",
-      "pos": "noun",
-      "gloss": "morning",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "утро",
-              "утра"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "утра",
-              "утр"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "утру",
-              "утрам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "утро",
-              "утра"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "утром",
-              "утрами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "утре",
-              "утрах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Доброе утро!",
-          "trans": "Good morning!"
-        },
-        {
-          "text": "Какое хорошее утро!",
-          "trans": "What a lovely morning!"
-        },
-        {
-          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
-          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
-        }
-      ],
-      "related": []
     },
     "утром": {
       "lemma": "утром",
@@ -6275,7 +6246,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6380,7 +6351,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6432,6 +6403,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -6640,14 +6628,14 @@
     },
     "экономия": {
       "lemma": "экономия",
-      "stress": "экономи́я",
+      "stress": "эконо́мия",
       "pos": "noun",
       "gloss": "savings",
       "gender": "f",
       "meanings": [
         {
           "en": "savings",
-          "note": "Common feminine noun meaning 'savings' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6706,25 +6694,21 @@
       "examples": [
         {
           "text": "Это хорошая экономия каждый месяц.",
-          "trans": "That is a nice savings every month."
+          "trans": "That's a nice saving every month."
         },
         {
-          "text": "Нужно как-то экономнее продукты обрезать.",
-          "trans": "We need to trim the ingredients more economically."
-        },
-        {
-          "text": "Смотри, продолжаем экономить на продуктах.",
-          "trans": "Look, we continue saving on ingredients."
+          "text": "Экономия электричества сейчас очень важна.",
+          "trans": "Saving electricity is very important now."
         }
       ],
       "related": [
         {
-          "word": "без экономи",
-          "gloss": "without savings"
+          "word": "экономить",
+          "gloss": "to save, economize"
         },
         {
-          "word": "наш экономия",
-          "gloss": "our savings"
+          "word": "экономный",
+          "gloss": "thrifty"
         }
       ]
     },

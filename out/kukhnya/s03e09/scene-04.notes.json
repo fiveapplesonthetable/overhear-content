@@ -335,7 +335,7 @@
           "lemma": "свиной",
           "pos": "adj",
           "stress": "свина́я",
-          "gloss": "pork, pigskin",
+          "gloss": "pig (pigskin, pig's)",
           "gram": "nominative singular feminine"
         },
         {
@@ -372,9 +372,9 @@
           "t": "нажми",
           "lemma": "нажать",
           "pos": "verb",
-          "stress": "на́жми",
-          "gloss": "to press, to push, to apply pressure",
-          "gram": "conjugated verb"
+          "stress": "нажми́",
+          "gloss": "press",
+          "gram": "imperative 2nd person singular, perfective"
         },
         {
           "t": "на",
@@ -419,7 +419,7 @@
           "lemma": "кофе",
           "pos": "noun",
           "stress": "ко́фе",
-          "gloss": "of coffee",
+          "gloss": "coffee",
           "gram": "indeclinable, masculine"
         },
         {
@@ -919,7 +919,7 @@
           "lemma": "свиной",
           "pos": "adj",
           "stress": "свина́я",
-          "gloss": "pork, pigskin",
+          "gloss": "pig (pigskin, pig's)",
           "gram": "nominative singular feminine"
         },
         {
@@ -956,9 +956,9 @@
           "t": "нажми",
           "lemma": "нажать",
           "pos": "verb",
-          "stress": "на́жми",
-          "gloss": "to press, to push, to apply pressure",
-          "gram": "conjugated verb"
+          "stress": "нажми́",
+          "gloss": "press",
+          "gram": "imperative 2nd person singular, perfective"
         },
         {
           "t": "на",
@@ -1003,7 +1003,7 @@
           "lemma": "кофе",
           "pos": "noun",
           "stress": "ко́фе",
-          "gloss": "of coffee",
+          "gloss": "coffee",
           "gram": "indeclinable, masculine"
         },
         {
@@ -1503,7 +1503,7 @@
           "lemma": "свиной",
           "pos": "adj",
           "stress": "свина́я",
-          "gloss": "pork, pigskin",
+          "gloss": "pig (pigskin, pig's)",
           "gram": "nominative singular feminine"
         },
         {
@@ -1540,9 +1540,9 @@
           "t": "нажми",
           "lemma": "нажать",
           "pos": "verb",
-          "stress": "на́жми",
-          "gloss": "to press, to push, to apply pressure",
-          "gram": "conjugated verb"
+          "stress": "нажми́",
+          "gloss": "press",
+          "gram": "imperative 2nd person singular, perfective"
         },
         {
           "t": "на",
@@ -1587,7 +1587,7 @@
           "lemma": "кофе",
           "pos": "noun",
           "stress": "ко́фе",
-          "gloss": "of coffee",
+          "gloss": "coffee",
           "gram": "indeclinable, masculine"
         },
         {
@@ -1771,7 +1771,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2138,7 +2138,7 @@
       "meanings": [
         {
           "en": "schedule, calendar",
-          "note": "Timetable of events. Common masculine noun meaning 'schedule, timetable' in everyday Russian."
+          "note": "Timetable of events."
         }
       ],
       "forms": {
@@ -2218,7 +2218,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2254,11 +2254,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2349,15 +2353,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2538,14 +2542,14 @@
     },
     "кнопочка": {
       "lemma": "кнопочка",
-      "stress": "кнопо́чка",
+      "stress": "кно́почка",
       "pos": "noun",
       "gloss": "little button",
       "gender": "f",
       "meanings": [
         {
           "en": "little button",
-          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common feminine noun meaning 'little button' in everyday Russian."
+          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         }
       ],
       "forms": {
@@ -2567,7 +2571,7 @@
             "cells": [
               "genitive",
               "кнопочки",
-              "кнопочк"
+              "кнопочек"
             ]
           },
           {
@@ -2607,18 +2611,14 @@
           "trans": "And now press the little button."
         },
         {
-          "text": "На кухне ресторана всегда есть кнопочка.",
-          "trans": "In the restaurant kitchen there is always little button."
+          "text": "Видишь эту красную кнопочку?",
+          "trans": "See this little red button?"
         }
       ],
       "related": [
         {
-          "word": "без кнопочк",
-          "gloss": "without little button"
-        },
-        {
-          "word": "наш кнопочка",
-          "gloss": "our little button"
+          "word": "кнопка",
+          "gloss": "button"
         }
       ]
     },
@@ -2631,7 +2631,7 @@
       "meanings": [
         {
           "en": "skin (human)",
-          "note": "Also leather. Common feminine noun meaning 'skin; leather' in everyday Russian."
+          "note": "Also leather."
         }
       ],
       "forms": {
@@ -2716,7 +2716,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -2759,7 +2759,7 @@
       "meanings": [
         {
           "en": "coffee",
-          "note": "Never changes its form; masculine. Common masculine noun meaning 'coffee' in everyday Russian."
+          "note": "Never changes its form; masculine."
         }
       ],
       "forms": {
@@ -2774,42 +2774,42 @@
             "cells": [
               "nominative",
               "кофе",
-              "—"
+              "кофе"
             ]
           },
           {
             "cells": [
               "genitive",
               "кофе",
-              "—"
+              "кофе"
             ]
           },
           {
             "cells": [
               "dative",
               "кофе",
-              "—"
+              "кофе"
             ]
           },
           {
             "cells": [
               "accusative",
               "кофе",
-              "—"
+              "кофе"
             ]
           },
           {
             "cells": [
               "instrumental",
               "кофе",
-              "—"
+              "кофе"
             ]
           },
           {
             "cells": [
               "prepositional",
               "кофе",
-              "—"
+              "кофе"
             ]
           }
         ]
@@ -2846,7 +2846,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2898,6 +2898,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3058,7 +3075,7 @@
       "meanings": [
         {
           "en": "to press, to squeeze",
-          "note": "Apply physical pressure. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'жать'). Used as a perfective (single completed action) verb meaning 'to press, to push, to apply pressure', paired with 'нажимать'."
+          "note": "Apply physical pressure. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'жать')."
         }
       ],
       "forms": {
@@ -3479,6 +3496,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "нравься",
+                "нравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3636,7 +3670,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3713,11 +3747,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -3821,12 +3855,10 @@
       "stress": "порабо́тать",
       "pos": "verb",
       "gloss": "to work for a while",
-      "aspect": "pf",
-      "pair": "работать",
       "meanings": [
         {
           "en": "to do some work, to work for a bit",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'работать'). Used as a perfective (single completed action) verb meaning 'to work for a while', paired with 'работать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'работать')."
         }
       ],
       "forms": {
@@ -3881,6 +3913,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "поработай",
+                "поработайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3910,7 +3959,8 @@
           "word": "рабочий",
           "gloss": "working"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "предлагать": {
       "lemma": "предлагать",
@@ -3922,11 +3972,11 @@
       "meanings": [
         {
           "en": "to suggest",
-          "note": "+ accusative + dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to suggest, to offer', paired with 'предложить'."
+          "note": "+ accusative + dative."
         },
         {
           "en": "to offer",
-          "note": "+ accusative + dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to suggest, to offer', paired with 'предложить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4031,7 +4081,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -4473,13 +4523,13 @@
     },
     "свиной": {
       "lemma": "свиной",
-      "stress": "сви́ной",
+      "stress": "свино́й",
       "pos": "adj",
       "gloss": "pork, pigskin",
       "meanings": [
         {
           "en": "pork, pigskin",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pork, pigskin')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4522,10 +4572,10 @@
           {
             "cells": [
               "accusative",
-              "свиной",
+              "свиной / свиного",
               "свиную",
               "свиное",
-              "свиные"
+              "свиные / свиных"
             ]
           },
           {
@@ -4552,17 +4602,21 @@
       "examples": [
         {
           "text": "Конечно, это настоящая свиная кожа.",
-          "trans": "Of course, this is genuine pigskin leather."
+          "trans": "Of course, this is genuine pigskin."
         },
         {
-          "text": "Шеф говорит, что это очень свиной выбор.",
-          "trans": "The chef says that this is a very pork choice."
+          "text": "Да расслабься ты, это обычная свиная кровь!",
+          "trans": "Oh relax, it's just ordinary pig's blood!"
         }
       ],
       "related": [
         {
-          "word": "очень свиной",
-          "gloss": "very pork"
+          "word": "свинья",
+          "gloss": "pig"
+        },
+        {
+          "word": "свинина",
+          "gloss": "pork"
         }
       ]
     },
@@ -4580,7 +4634,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4671,15 +4725,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4695,7 +4749,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4789,7 +4843,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -4823,11 +4877,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4861,7 +4915,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5028,11 +5082,11 @@
       "meanings": [
         {
           "en": "comfortable",
-          "note": "Удобнее = more comfortable. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('comfortable; convenient')."
+          "note": "Удобнее = more comfortable."
         },
         {
           "en": "convenient, handy",
-          "note": "Удобное время = convenient time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('comfortable; convenient')."
+          "note": "Удобное время = convenient time."
         }
       ],
       "forms": {
@@ -5075,10 +5129,10 @@
           {
             "cells": [
               "accusative",
-              "удобный",
+              "удобный / удобного",
               "удобную",
               "удобное",
-              "удобные"
+              "удобные / удобных"
             ]
           },
           {
@@ -5131,7 +5185,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5407,105 +5461,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

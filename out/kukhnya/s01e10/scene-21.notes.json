@@ -114,7 +114,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         }
       ]
     },
@@ -143,8 +143,8 @@
           "lemma": "сердиться",
           "pos": "verb",
           "stress": "се́рдишься",
-          "gloss": "to be angry / mad",
-          "gram": "2sg present of сердиться (to be angry / mad)"
+          "gloss": "you are angry",
+          "gram": "2nd person singular, present"
         },
         {
           "t": "из-за",
@@ -818,7 +818,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         }
       ]
     },
@@ -847,8 +847,8 @@
           "lemma": "сердиться",
           "pos": "verb",
           "stress": "се́рдишься",
-          "gloss": "to be angry / mad",
-          "gram": "2sg present of сердиться (to be angry / mad)"
+          "gloss": "you are angry",
+          "gram": "2nd person singular, present"
         },
         {
           "t": "из-за",
@@ -1522,7 +1522,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         }
       ]
     },
@@ -1551,8 +1551,8 @@
           "lemma": "сердиться",
           "pos": "verb",
           "stress": "се́рдишься",
-          "gloss": "to be angry / mad",
-          "gram": "2sg present of сердиться (to be angry / mad)"
+          "gloss": "you are angry",
+          "gram": "2nd person singular, present"
         },
         {
           "t": "из-за",
@@ -2138,7 +2138,7 @@
       "meanings": [
         {
           "en": "absolutely, completely, totally",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2215,10 +2215,10 @@
           {
             "cells": [
               "accusative",
-              "беременного",
+              "беременный / беременного",
               "беременную",
               "беременное",
-              "беременных"
+              "беременные / беременных"
             ]
           },
           {
@@ -2518,11 +2518,11 @@
       "meanings": [
         {
           "en": "thing",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": "Plural 'вещи'."
         },
         {
           "en": "things, belongings",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2594,8 +2594,16 @@
       ],
       "related": [
         {
-          "word": "вещный",
-          "gloss": "related to thing (adj.)"
+          "word": "вещи",
+          "gloss": "things, belongings"
+        },
+        {
+          "word": "вещица",
+          "gloss": "little thing"
+        },
+        {
+          "word": "вещичка",
+          "gloss": "little thing, trinket"
         }
       ]
     },
@@ -2650,10 +2658,10 @@
           {
             "cells": [
               "accusative",
-              "вчерашний",
+              "вчерашний / вчерашнего",
               "вчерашнюю",
               "вчерашнее",
-              "вчерашние"
+              "вчерашние / вчерашних"
             ]
           },
           {
@@ -2706,7 +2714,7 @@
       "meanings": [
         {
           "en": "stupid, silly, foolish",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('stupid, silly, foolish')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2749,10 +2757,10 @@
           {
             "cells": [
               "accusative",
-              "глупый/глупого",
+              "глупый / глупого",
               "глупую",
               "глупое",
-              "глупые/глупых"
+              "глупые / глупых"
             ]
           },
           {
@@ -2811,11 +2819,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2927,7 +2935,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2969,7 +2977,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3056,7 +3064,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -3087,12 +3095,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3147,6 +3153,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3166,17 +3189,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "из-за": {
       "lemma": "из-за",
@@ -3186,11 +3210,11 @@
       "meanings": [
         {
           "en": "because of, on account of",
-          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "from behind",
-          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3374,10 +3398,10 @@
           {
             "cells": [
               "accusative",
-              "молодого",
+              "молодой / молодого",
               "молодую",
               "молодое",
-              "молодых"
+              "молодые / молодых"
             ]
           },
           {
@@ -3596,7 +3620,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3832,11 +3856,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3876,11 +3900,11 @@
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         },
         {
           "en": "to experience, to live through",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         }
       ],
       "forms": {
@@ -4020,7 +4044,7 @@
       "meanings": [
         {
           "en": "after",
-          "note": "Preposition + genitive, or adverb. Core Russian prep meaning 'after' in everyday speech."
+          "note": "Preposition + genitive, or adverb."
         }
       ],
       "forms": null,
@@ -4224,7 +4248,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -4310,7 +4334,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -4462,7 +4486,7 @@
       "meanings": [
         {
           "en": "to be angry, to be cross",
-          "note": "На + accusative = at someone. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be angry', paired with 'рассердиться'."
+          "note": "На + accusative = at someone."
         }
       ],
       "forms": {
@@ -4553,7 +4577,7 @@
       "related": [
         {
           "word": "рассердиться",
-          "gloss": "to be angry"
+          "gloss": "to get angry"
         },
         {
           "word": "сердито",
@@ -4573,7 +4597,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -4617,7 +4641,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4708,15 +4732,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4730,11 +4754,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -4866,7 +4890,7 @@
       "meanings": [
         {
           "en": "completely, quite, utterly",
-          "note": "Совершенно верно = quite right. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Совершенно верно = quite right."
         }
       ],
       "forms": null,
@@ -4908,7 +4932,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4937,7 +4961,7 @@
       "meanings": [
         {
           "en": "strange, odd",
-          "note": "Как странно = how strange. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Как странно = how strange."
         }
       ],
       "forms": null,
@@ -4962,12 +4986,12 @@
           "gloss": "strange"
         },
         {
-          "word": "страна",
-          "gloss": "country"
+          "word": "странность",
+          "gloss": "oddity, quirk"
         },
         {
-          "word": "страница",
-          "gloss": "page"
+          "word": "удивительно",
+          "gloss": "surprisingly"
         }
       ]
     },
@@ -5021,7 +5045,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -5109,8 +5133,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5122,7 +5154,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -5362,11 +5394,11 @@
       "meanings": [
         {
           "en": "confident, assured",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": "Short form уверен / уверена."
         },
         {
           "en": "sure, certain",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5409,10 +5441,10 @@
           {
             "cells": [
               "accusative",
-              "уверенный",
+              "уверенный / уверенного",
               "уверенную",
               "уверенное",
-              "уверенные"
+              "уверенные / уверенных"
             ]
           },
           {
@@ -5653,7 +5685,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,
@@ -5692,7 +5724,7 @@
       "meanings": [
         {
           "en": "joke",
-          "note": "Без шуток = seriously. Common feminine noun meaning 'joke' in everyday Russian."
+          "note": "Без шуток = seriously."
         }
       ],
       "forms": {

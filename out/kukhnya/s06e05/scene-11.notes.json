@@ -497,7 +497,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -622,7 +622,7 @@
           "pos": "det",
           "stress": "моего́",
           "gloss": "of my",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive singular, masculine / neuter"
         },
         {
           "t": "отца",
@@ -1153,7 +1153,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1278,7 +1278,7 @@
           "pos": "det",
           "stress": "моего́",
           "gloss": "of my",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive singular, masculine / neuter"
         },
         {
           "t": "отца",
@@ -1809,7 +1809,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1934,7 +1934,7 @@
           "pos": "det",
           "stress": "моего́",
           "gloss": "of my",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive singular, masculine / neuter"
         },
         {
           "t": "отца",
@@ -2282,11 +2282,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2341,6 +2341,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2381,7 +2398,7 @@
       "meanings": [
         {
           "en": "water",
-          "note": "Common feminine noun meaning 'water' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2453,96 +2470,12 @@
       ],
       "related": [
         {
+          "word": "водичка",
+          "gloss": "water (affectionate)"
+        },
+        {
           "word": "водный",
-          "gloss": "related to water (adj.)"
-        }
-      ]
-    },
-    "вывести": {
-      "lemma": "вывести",
-      "stress": "выве́сти",
-      "pos": "verb",
-      "gloss": "to escort out / lead out",
-      "aspect": "pf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "to escort out / lead out",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to escort out / lead out'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "вывесю",
-              "вывесем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "вывесешь",
-              "вывесете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "вывесет",
-              "вывесют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "вывесл",
-                "вывесла",
-                "вывесло",
-                "вывесли"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Посмотри, какой ты дерзкий! Может, тебя отсюда вывести?",
-          "trans": "Look how cheeky you are! Maybe I should escort you out of here?"
-        },
-        {
-          "text": "Надо всё сделать и вывести вовремя.",
-          "trans": "We need to do everything and to escort out on time."
-        }
-      ],
-      "related": [
-        {
-          "word": "повывести",
-          "gloss": "to to escort out (prefixed perfective)"
-        },
-        {
-          "word": "не вывести",
-          "gloss": "not to to escort out (negated infinitive)"
+          "gloss": "water (adj.)"
         }
       ]
     },
@@ -2554,7 +2487,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2593,11 +2526,11 @@
       "meanings": [
         {
           "en": "young woman, girl",
-          "note": "Also 'girlfriend' (моя девушка). Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Also 'girlfriend' (моя девушка)."
         },
         {
           "en": "girlfriend",
-          "note": "Своя девушка. Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Своя девушка."
         }
       ],
       "forms": {
@@ -2679,11 +2612,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2795,7 +2728,7 @@
       "meanings": [
         {
           "en": "detective story, detective",
-          "note": "Common masculine noun meaning 'detective story, detective' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2857,8 +2790,8 @@
           "trans": "You hired a private detective to spy on me?"
         },
         {
-          "text": "На нашей кухне уже есть новый детектив.",
-          "trans": "In our kitchen there is already a new detective story."
+          "text": "Анастасия Степановна, я прочитал много детективов.",
+          "trans": "Anastasia Stepanovna, I've read a lot of detective novels."
         }
       ],
       "related": []
@@ -2871,11 +2804,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2951,11 +2884,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2993,7 +2926,7 @@
       "meanings": [
         {
           "en": "evil, wicked, hostile",
-          "note": "Having malicious intent. Agrees in gender, number, and case with the noun it modifies ('evil, wicked, angry')."
+          "note": "Having malicious intent."
         }
       ],
       "forms": {
@@ -3036,10 +2969,10 @@
           {
             "cells": [
               "accusative",
-              "злого",
+              "злой / злого",
               "злую",
               "злое",
-              "злых"
+              "злые / злых"
             ]
           },
           {
@@ -3080,11 +3013,15 @@
       "related": [
         {
           "word": "зло",
-          "gloss": "in a evil way (adv.)"
+          "gloss": "evil"
         },
         {
           "word": "злость",
-          "gloss": "quality of being evil"
+          "gloss": "anger, malice"
+        },
+        {
+          "word": "злиться",
+          "gloss": "to be angry"
         }
       ]
     },
@@ -3240,7 +3177,7 @@
       "meanings": [
         {
           "en": "to climb",
-          "note": "Лезть на дерево = to climb a tree. Used as an imperfective (ongoing/repeated action) verb meaning 'to climb; to push in, to barge in', paired with 'полезть'."
+          "note": "Лезть на дерево = to climb a tree."
         },
         {
           "en": "to push in, to barge in",
@@ -3347,44 +3284,6 @@
         }
       ]
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "можно": {
       "lemma": "можно",
       "stress": "мо́жно",
@@ -3393,11 +3292,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3531,7 +3430,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3583,6 +3482,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3691,48 +3607,6 @@
         }
       ]
     },
-    "на": {
-      "lemma": "на",
-      "stress": "на",
-      "pos": "prep",
-      "gloss": "on, onto; for",
-      "meanings": [
-        {
-          "en": "on",
-          "note": "+ prepositional: на сайте. Core Russian prep meaning 'on, onto; for' in everyday speech."
-        },
-        {
-          "en": "onto, to; for",
-          "note": "+ accusative: на второй срок. Core Russian prep meaning 'on, onto; for' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Программа на сайте.",
-          "trans": "The programme is on the website."
-        },
-        {
-          "text": "Он идёт на второй срок.",
-          "trans": "He is running for a second term."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "над",
-          "gloss": "above, over"
-        },
-        {
-          "word": "в",
-          "gloss": "in, at"
-        }
-      ]
-    },
     "нагло": {
       "lemma": "нагло",
       "stress": "на́гло",
@@ -3741,7 +3615,7 @@
       "meanings": [
         {
           "en": "brazenly, insolently, boldly",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'boldly'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3775,7 +3649,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4080,11 +3954,11 @@
       "meanings": [
         {
           "en": "to deceive, to cheat",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to deceive, to cheat', paired with 'обмануть'."
+          "note": ""
         },
         {
           "en": "to lie to",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to deceive, to cheat', paired with 'обмануть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4444,7 +4318,7 @@
       "meanings": [
         {
           "en": "to keep an eye on, to make sure",
-          "note": "Проследить за + instrumental. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'следить'). Used as a perfective (single completed action) verb meaning 'to see to it, to keep an eye on', paired with 'следить'."
+          "note": "Проследить за + instrumental. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'следить')."
         }
       ],
       "forms": {
@@ -4496,6 +4370,23 @@
                 "проследила",
                 "проследило",
                 "проследили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "проследи",
+                "проследите"
               ]
             }
           ]
@@ -4803,11 +4694,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4879,8 +4770,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4928,7 +4827,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4936,7 +4835,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -5083,7 +4982,7 @@
         },
         {
           "en": "to start (doing)",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -5190,7 +5089,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5324,16 +5223,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -5405,8 +5300,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5552,7 +5455,7 @@
       "meanings": [
         {
           "en": "Frenchman",
-          "note": "Common masculine noun meaning 'Frenchman' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5587,8 +5490,8 @@
           {
             "cells": [
               "accusative",
-              "француз",
-              "французы"
+              "француза",
+              "французов"
             ]
           },
           {
@@ -5610,19 +5513,32 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Французский гость, наверное, уже выдал меня.",
-          "trans": "The French guest probably already gave me away."
-        },
-        {
-          "text": "Надо найти что-нибудь новое во Франции.",
-          "trans": "We need to find something new in France."
-        },
-        {
           "text": "Лёва, а что француз здесь делает?",
-          "trans": "Lyova, what is the Frenchman doing here?"
+          "trans": "Lyova, what's the Frenchman doing here?"
+        },
+        {
+          "text": "В этом номере сейчас живёт француз.",
+          "trans": "A Frenchman is staying in this room now."
+        },
+        {
+          "text": "Этот француз тебя просто обманывает.",
+          "trans": "This Frenchman is just deceiving you."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "француженка",
+          "gloss": "Frenchwoman"
+        },
+        {
+          "word": "французский",
+          "gloss": "French"
+        },
+        {
+          "word": "Франция",
+          "gloss": "France"
+        }
+      ]
     },
     "холодный": {
       "lemma": "холодный",
@@ -5632,11 +5548,11 @@
       "meanings": [
         {
           "en": "cold, chilled",
-          "note": "Low temperature. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('cold, chilly; distant')."
+          "note": "Low temperature."
         },
         {
           "en": "unfriendly, cold",
-          "note": "Emotion. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('cold, chilly; distant')."
+          "note": "Emotion."
         }
       ],
       "forms": {
@@ -5679,10 +5595,10 @@
           {
             "cells": [
               "accusative",
-              "холодный",
+              "холодный / холодного",
               "холодную",
               "холодное",
-              "холодные"
+              "холодные / холодных"
             ]
           },
           {
@@ -5713,11 +5629,11 @@
         },
         {
           "text": "Вот хорошая ты баба. Холодная.",
-          "trans": "You are a good woman. Cold."
+          "trans": "You're a good woman, you are. Cold, though."
         },
         {
-          "text": "Холодная.",
-          "trans": "Cold."
+          "text": "Умойся холодной водой и успокойся.",
+          "trans": "Wash your face with cold water and calm down."
         }
       ],
       "related": [
@@ -5782,10 +5698,10 @@
           {
             "cells": [
               "accusative",
-              "частный",
+              "частный / частного",
               "частную",
               "частное",
-              "частные"
+              "частные / частных"
             ]
           },
           {
@@ -5821,16 +5737,12 @@
       ],
       "related": [
         {
-          "word": "счастливо",
-          "gloss": "take care"
+          "word": "частная собственность",
+          "gloss": "private property"
         },
         {
-          "word": "счастливый",
-          "gloss": "happy"
-        },
-        {
-          "word": "часто",
-          "gloss": "often"
+          "word": "государственный",
+          "gloss": "state, public"
         }
       ]
     },
@@ -5921,135 +5833,6 @@
         {
           "word": "человеческий",
           "gloss": "human"
-        }
-      ]
-    },
-    "чистый": {
-      "lemma": "чистый",
-      "stress": "чи́стый",
-      "pos": "adj",
-      "gloss": "clean",
-      "meanings": [
-        {
-          "en": "clean",
-          "note": "short form чисто: всё чисто = everything is clean"
-        },
-        {
-          "en": "pure",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('clean')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "чистый",
-              "чистая",
-              "чистое",
-              "чистые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "чистого",
-              "чистой",
-              "чистого",
-              "чистых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "чистому",
-              "чистой",
-              "чистому",
-              "чистым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "чистый / чистого",
-              "чистую",
-              "чистое",
-              "чистые / чистых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "чистым",
-              "чистой",
-              "чистым",
-              "чистыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "чистом",
-              "чистой",
-              "чистом",
-              "чистых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "чист",
-                "чиста",
-                "чисто",
-                "чисты"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Всё чисто.",
-          "trans": "Everything is clean."
-        },
-        {
-          "text": "Чистый пол.",
-          "trans": "A clean floor."
-        },
-        {
-          "text": "Нин, я всё помыл. Всё чисто.",
-          "trans": "Nina, I washed everything. It's all clean."
-        }
-      ],
-      "related": [
-        {
-          "word": "чисто",
-          "gloss": "clearly"
-        },
-        {
-          "word": "чистота",
-          "gloss": "cleanliness"
         }
       ]
     },

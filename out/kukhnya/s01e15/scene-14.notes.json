@@ -173,8 +173,8 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": null,
-          "gloss": "to leave, to go away (on foot)",
-          "gram": "2nd person plural / imperative"
+          "gloss": "you'll leave",
+          "gram": "future, 2nd person plural, perfective"
         }
       ]
     },
@@ -264,9 +264,9 @@
           "t": "выгонять.",
           "lemma": "выгонять",
           "pos": "verb",
-          "stress": "выго́нять",
+          "stress": "выгоня́ть",
           "gloss": "kick out, fire",
-          "gram": "UNKNOWN"
+          "gram": "infinitive, imperfective"
         }
       ]
     },
@@ -408,7 +408,7 @@
           "t": "дурацкую",
           "lemma": "дурацкий",
           "pos": "adj",
-          "stress": "дурацку́ю",
+          "stress": "дура́цкую",
           "gloss": "foolish, stupid",
           "gram": "accusative feminine singular"
         },
@@ -685,8 +685,8 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": null,
-          "gloss": "to leave, to go away (on foot)",
-          "gram": "2nd person plural / imperative"
+          "gloss": "you'll leave",
+          "gram": "future, 2nd person plural, perfective"
         }
       ]
     },
@@ -776,9 +776,9 @@
           "t": "выгонять.",
           "lemma": "выгонять",
           "pos": "verb",
-          "stress": "выго́нять",
+          "stress": "выгоня́ть",
           "gloss": "kick out, fire",
-          "gram": "UNKNOWN"
+          "gram": "infinitive, imperfective"
         }
       ]
     },
@@ -920,7 +920,7 @@
           "t": "дурацкую",
           "lemma": "дурацкий",
           "pos": "adj",
-          "stress": "дурацку́ю",
+          "stress": "дура́цкую",
           "gloss": "foolish, stupid",
           "gram": "accusative feminine singular"
         },
@@ -1197,8 +1197,8 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": null,
-          "gloss": "to leave, to go away (on foot)",
-          "gram": "2nd person plural / imperative"
+          "gloss": "you'll leave",
+          "gram": "future, 2nd person plural, perfective"
         }
       ]
     },
@@ -1288,9 +1288,9 @@
           "t": "выгонять.",
           "lemma": "выгонять",
           "pos": "verb",
-          "stress": "выго́нять",
+          "stress": "выгоня́ть",
           "gloss": "kick out, fire",
-          "gram": "UNKNOWN"
+          "gram": "infinitive, imperfective"
         }
       ]
     },
@@ -1432,7 +1432,7 @@
           "t": "дурацкую",
           "lemma": "дурацкий",
           "pos": "adj",
-          "stress": "дурацку́ю",
+          "stress": "дура́цкую",
           "gloss": "foolish, stupid",
           "gram": "accusative feminine singular"
         },
@@ -1645,7 +1645,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
+          "note": "+ genitive: 'бояться собак'."
         }
       ],
       "forms": {
@@ -1902,72 +1902,7 @@
           "note": "На всякий случай = just in case."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всякий",
-              "всякая",
-              "всякое",
-              "всякие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всякого",
-              "всякой",
-              "всякого",
-              "всяких"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всякому",
-              "всякой",
-              "всякому",
-              "всяким"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всякого",
-              "всякую",
-              "всякое",
-              "всяких"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всяким",
-              "всякой",
-              "всяким",
-              "всякими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всяком",
-              "всякой",
-              "всяком",
-              "всяких"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -1986,7 +1921,15 @@
       "related": [
         {
           "word": "всяко",
-          "gloss": "in a any way (adv.)"
+          "gloss": "anyway, in any case (colloq.)"
+        },
+        {
+          "word": "любой",
+          "gloss": "any"
+        },
+        {
+          "word": "каждый",
+          "gloss": "every, each"
         }
       ]
     },
@@ -2082,7 +2025,7 @@
       "meanings": [
         {
           "en": "to drive out, kick out, dismiss, fire",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'гонять'). Used as an imperfective (ongoing/repeated action) verb meaning 'to drive out, kick out, fire', paired with 'выгнать'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'гонять')."
         }
       ],
       "forms": {
@@ -2134,6 +2077,23 @@
                 "выгоняла",
                 "выгоняло",
                 "выгоняли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выгоняй",
+                "выгоняйте"
               ]
             }
           ]
@@ -2195,7 +2155,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2222,7 +2182,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2254,7 +2214,7 @@
       "meanings": [
         {
           "en": "door",
-          "note": "Common feminine noun meaning 'door' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2338,7 +2298,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2387,7 +2347,7 @@
       "meanings": [
         {
           "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
+          "note": "Location; compare домой = homeward."
         }
       ],
       "forms": null,
@@ -2416,7 +2376,7 @@
       "meanings": [
         {
           "en": "foolish, silly, ridiculous",
-          "note": "Qualitative adjective. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('foolish, stupid')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2459,10 +2419,10 @@
           {
             "cells": [
               "accusative",
-              "дурацкий",
+              "дурацкий / дурацкого",
               "дурацкую",
               "дурацкое",
-              "дурацкие"
+              "дурацкие / дурацких"
             ]
           },
           {
@@ -2489,15 +2449,15 @@
       "examples": [
         {
           "text": "Это дурацкий вопрос.",
-          "trans": "This is a foolish question."
+          "trans": "That's a stupid question."
         },
         {
-          "text": "У него дурацкие шутки.",
-          "trans": "He makes silly jokes."
+          "text": "Шути свои дурацкие шутки на кухне!",
+          "trans": "Tell your stupid jokes in the kitchen!"
         },
         {
           "text": "Эта дурацкая рыба — как плохой знак.",
-          "trans": "This foolish fish is like a bad sign."
+          "trans": "This stupid fish is like a bad omen."
         }
       ],
       "related": [
@@ -2638,7 +2598,7 @@
       "meanings": [
         {
           "en": "to close, to shut",
-          "note": "A door, a shop, or a legal case. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крыть'). Used as a perfective (single completed action) verb meaning 'to close, to shut', paired with 'закрывать'."
+          "note": "A door, a shop, or a legal case. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крыть')."
         }
       ],
       "forms": {
@@ -2792,10 +2752,10 @@
           {
             "cells": [
               "accusative",
-              "знакомый",
+              "знакомый / знакомого",
               "знакомую",
               "знакомое",
-              "знакомые"
+              "знакомые / знакомых"
             ]
           },
           {
@@ -2818,29 +2778,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "знаком",
-                "знакома",
-                "знакомо",
-                "знакомы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "А знакомо ли тебе, Аркашка, слово педикюр?",
@@ -2879,11 +2817,11 @@
       "meanings": [
         {
           "en": "history",
-          "note": "Something that happened. Common feminine noun meaning 'history; story' in everyday Russian."
+          "note": "Something that happened."
         },
         {
           "en": "story",
-          "note": "Something that happened. Common feminine noun meaning 'history; story' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2974,7 +2912,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3026,6 +2964,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3142,7 +3097,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3257,10 +3212,10 @@
           {
             "cells": [
               "accusative",
-              "неправый",
+              "неправый / неправого",
               "неправую",
               "неправое",
-              "неправые"
+              "неправые / неправых"
             ]
           },
           {
@@ -3321,7 +3276,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise, fright or pain. Core Russian interj meaning 'oh' in everyday speech."
+          "note": "Surprise, fright or pain."
         }
       ],
       "forms": null,
@@ -3432,7 +3387,7 @@
       "meanings": [
         {
           "en": "to ask (for a favour)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask (for), to request', paired with 'просить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить')."
         }
       ],
       "forms": {
@@ -3526,8 +3481,12 @@
           "gloss": "to ask"
         },
         {
+          "word": "просьба",
+          "gloss": "request"
+        },
+        {
           "word": "спрос",
-          "gloss": "asking"
+          "gloss": "demand"
         }
       ]
     },
@@ -3545,7 +3504,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3763,11 +3722,11 @@
       "meanings": [
         {
           "en": "glory, fame",
-          "note": "In 'слава богу'. Common feminine noun meaning 'glory, fame' in everyday Russian."
+          "note": "In 'слава богу'."
         },
         {
           "en": "thank God",
-          "note": "In 'слава богу'. Common feminine noun meaning 'glory, fame' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3782,42 +3741,42 @@
             "cells": [
               "nominative",
               "слава",
-              "—"
+              "славы"
             ]
           },
           {
             "cells": [
               "genitive",
               "славы",
-              "—"
+              "слав"
             ]
           },
           {
             "cells": [
               "dative",
               "славе",
-              "—"
+              "славам"
             ]
           },
           {
             "cells": [
               "accusative",
               "славу",
-              "—"
+              "славы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "славой",
-              "—"
+              "славами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "славе",
-              "—"
+              "славах"
             ]
           }
         ]
@@ -3840,7 +3799,11 @@
       "related": [
         {
           "word": "славный",
-          "gloss": "related to glory (adj.)"
+          "gloss": "glorious; nice"
+        },
+        {
+          "word": "слава богу",
+          "gloss": "thank God"
         }
       ]
     },
@@ -3854,7 +3817,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -3909,6 +3872,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3942,11 +3922,11 @@
       "meanings": [
         {
           "en": "to hear",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": "Слышать о + prepositional."
         },
         {
           "en": "to hear about",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4001,6 +3981,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "слышь",
+                "слышьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4034,7 +4031,7 @@
       "meanings": [
         {
           "en": "to sleep, to be asleep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to sleep', paired with 'поспать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4253,7 +4250,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -4343,7 +4348,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {

@@ -52,7 +52,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "девушкой.",
@@ -71,10 +71,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "мне",
@@ -376,7 +376,7 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "ресторане.",
@@ -422,7 +422,7 @@
           "pos": "adj",
           "stress": "отли́чным",
           "gloss": "excellent",
-          "gram": "adj excellent"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "надёжным",
@@ -430,7 +430,7 @@
           "pos": "adj",
           "stress": null,
           "gloss": "reliable",
-          "gram": "instrumental singular / dative plural"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "су-шефом.",
@@ -484,7 +484,7 @@
           "pos": "adj",
           "stress": "отли́чным",
           "gloss": "excellent",
-          "gram": "adj excellent"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "шефом.",
@@ -708,7 +708,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "девушкой.",
@@ -727,10 +727,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "мне",
@@ -1032,7 +1032,7 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "ресторане.",
@@ -1078,7 +1078,7 @@
           "pos": "adj",
           "stress": "отли́чным",
           "gloss": "excellent",
-          "gram": "adj excellent"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "надёжным",
@@ -1086,7 +1086,7 @@
           "pos": "adj",
           "stress": null,
           "gloss": "reliable",
-          "gram": "instrumental singular / dative plural"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "су-шефом.",
@@ -1140,7 +1140,7 @@
           "pos": "adj",
           "stress": "отли́чным",
           "gloss": "excellent",
-          "gram": "adj excellent"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "шефом.",
@@ -1364,7 +1364,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "девушкой.",
@@ -1383,10 +1383,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "мне",
@@ -1688,7 +1688,7 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "ресторане.",
@@ -1734,7 +1734,7 @@
           "pos": "adj",
           "stress": "отли́чным",
           "gloss": "excellent",
-          "gram": "adj excellent"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "надёжным",
@@ -1742,7 +1742,7 @@
           "pos": "adj",
           "stress": null,
           "gloss": "reliable",
-          "gram": "instrumental singular / dative plural"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "су-шефом.",
@@ -1796,7 +1796,7 @@
           "pos": "adj",
           "stress": "отли́чным",
           "gloss": "excellent",
-          "gram": "adj excellent"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "шефом.",
@@ -1998,13 +1998,17 @@
       "lemma": "беречь",
       "stress": "бере́чь",
       "pos": "verb",
-      "gloss": "guard / keep safe",
+      "gloss": "to take care of, to look after, to protect",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "guard / keep safe",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'guard / keep safe'."
+          "en": "to take care of, to look after, to protect",
+          "note": "береги себя = take care of yourself"
+        },
+        {
+          "en": "to save, to treasure (time, money)",
+          "note": ""
         }
       ],
       "forms": {
@@ -2018,22 +2022,22 @@
           {
             "cells": [
               "1st",
-              "берею",
-              "береем"
+              "берегу",
+              "бережём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "береешь",
-              "береете"
+              "бережёшь",
+              "бережёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "береет",
-              "береют"
+              "бережёт",
+              "берегут"
             ]
           }
         ]
@@ -2052,10 +2056,27 @@
             {
               "cells": [
                 "past",
-                "берел",
-                "берела",
-                "берело",
-                "берели"
+                "берёг",
+                "берегла",
+                "берегло",
+                "берегли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "береги",
+                "берегите"
               ]
             }
           ]
@@ -2063,22 +2084,30 @@
       ],
       "examples": [
         {
+          "text": "Ну пока, друг, береги себя там!",
+          "trans": "Well, bye, pal, take care of yourself out there!"
+        },
+        {
           "text": "Вот последняя банка, на, береги её.",
-          "trans": "Here is the last jar, take it and guard it."
+          "trans": "Here's the last jar, take it and look after it."
         },
         {
-          "text": "Береги эту последнюю банку.",
-          "trans": "Keep this last jar safe."
-        },
-        {
-          "text": "Потом заправились и спокойно дошли к берегу.",
-          "trans": "Then we refueled and calmly reached the shore."
+          "text": "Надо беречь каждую нашу минуту.",
+          "trans": "We have to treasure every minute we have."
         }
       ],
       "related": [
         {
-          "word": "поберечь",
-          "gloss": "to guard (prefixed perfective)"
+          "word": "сберечь",
+          "gloss": "to save, to preserve"
+        },
+        {
+          "word": "беречься",
+          "gloss": "to be careful, to watch out"
+        },
+        {
+          "word": "бережно",
+          "gloss": "carefully"
         }
       ]
     },
@@ -2284,11 +2313,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2563,7 +2592,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2598,11 +2627,11 @@
       "meanings": [
         {
           "en": "young woman, girl",
-          "note": "Also 'girlfriend' (моя девушка). Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Also 'girlfriend' (моя девушка)."
         },
         {
           "en": "girlfriend",
-          "note": "Своя девушка. Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Своя девушка."
         }
       ],
       "forms": {
@@ -2682,11 +2711,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2728,7 +2757,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2773,12 +2802,12 @@
       "lemma": "желание",
       "stress": "жела́ние",
       "pos": "noun",
-      "gloss": "desire, craving",
+      "gloss": "wish, desire",
       "gender": "n",
       "meanings": [
         {
-          "en": "desire, craving",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'desire, craving' in everyday Russian."
+          "en": "wish, desire, craving",
+          "note": "по собственному желанию = of one's own accord (resignation)"
         }
       ],
       "forms": {
@@ -2840,8 +2869,12 @@
           "trans": "Sometimes a pregnant woman feels a craving."
         },
         {
-          "text": "На кухне ресторана всегда есть желание.",
-          "trans": "In the restaurant kitchen there is always desire."
+          "text": "Ну, желание дамы закон.",
+          "trans": "Well, a lady's wish is law."
+        },
+        {
+          "text": "Вот его заявление по собственному желанию.",
+          "trans": "Here is his voluntary resignation letter."
         }
       ],
       "related": []
@@ -2854,11 +2887,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2894,14 +2927,15 @@
       "pos": "noun",
       "gloss": "call; bell",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "phone call",
-          "note": "Common masculine noun meaning 'call; bell' in everyday Russian."
+          "note": ""
         },
         {
           "en": "bell, doorbell",
-          "note": "Common masculine noun meaning 'call; bell' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2981,70 +3015,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -3122,11 +3103,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -3206,12 +3187,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -3239,7 +3220,7 @@
       "meanings": [
         {
           "en": "to apologise",
-          "note": "перед + instrumental: before someone"
+          "note": "перед + instrumental: to someone; за + accusative: for something"
         }
       ],
       "forms": {
@@ -3354,7 +3335,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3638,7 +3619,7 @@
       "meanings": [
         {
           "en": "reliable, dependable",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('reliable')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3707,29 +3688,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "надёжен",
-                "надёжна",
-                "надёжно",
-                "надёжны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Она не очень надёжная.",
@@ -3760,7 +3719,7 @@
       "meanings": [
         {
           "en": "beginning, start",
-          "note": "Common neuter noun meaning 'beginning' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4075,7 +4034,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4212,11 +4171,11 @@
       "meanings": [
         {
           "en": "in front of",
-          "note": "Takes the instrumental. Core Russian prep meaning 'in front of, before' in everyday speech."
+          "note": "Takes the instrumental."
         },
         {
           "en": "before (in time)",
-          "note": "Core Russian prep meaning 'in front of, before' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4246,7 +4205,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -4332,7 +4291,7 @@
         },
         {
           "en": "to take, to drive (someone somewhere)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'везти'). Used as a perfective (single completed action) verb meaning 'to be lucky (impersonal); to take (by vehicle)', paired with 'везти'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'везти')."
         }
       ],
       "forms": {
@@ -4387,6 +4346,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "повези",
+                "повезите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4428,7 +4404,7 @@
       "meanings": [
         {
           "en": "to meet, to get acquainted (with)",
-          "note": "+ с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to meet, to get acquainted', paired with 'знакомиться'."
+          "note": "+ с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомиться')."
         }
       ],
       "forms": {
@@ -4542,11 +4518,11 @@
       "meanings": [
         {
           "en": "to disturb, to interrupt",
-          "note": "Не помешал? = Am I interrupting?. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать'). Used as a perfective (single completed action) verb meaning 'to disturb, to interrupt; to hinder', paired with 'мешать'."
+          "note": "Не помешал? = Am I interrupting?. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать')."
         },
         {
           "en": "to get in the way, to prevent",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать'). Used as a perfective (single completed action) verb meaning 'to disturb, to interrupt; to hinder', paired with 'мешать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать')."
         }
       ],
       "forms": {
@@ -4601,6 +4577,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "помешай",
+                "помешайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4620,11 +4613,11 @@
       "related": [
         {
           "word": "мешать",
-          "gloss": "to be in the way"
+          "gloss": "to be in the way; to stir"
         },
         {
-          "word": "смешать",
-          "gloss": "mix"
+          "word": "помеха",
+          "gloss": "obstacle, hindrance"
         }
       ]
     },
@@ -4764,135 +4757,6 @@
         {
           "word": "приятный",
           "gloss": "pleasant (adjective)"
-        }
-      ]
-    },
-    "приятный": {
-      "lemma": "приятный",
-      "stress": "прия́тный",
-      "pos": "adj",
-      "gloss": "pleasant, nice",
-      "meanings": [
-        {
-          "en": "pleasant, nice",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
-        },
-        {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "приятный",
-              "приятная",
-              "приятное",
-              "приятные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "приятного",
-              "приятной",
-              "приятного",
-              "приятных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "приятному",
-              "приятной",
-              "приятному",
-              "приятным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "приятный / приятного",
-              "приятную",
-              "приятное",
-              "приятные / приятных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "приятным",
-              "приятной",
-              "приятным",
-              "приятными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "приятном",
-              "приятной",
-              "приятном",
-              "приятных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Приятного аппетита!",
-          "trans": "Enjoy your meal!"
-        },
-        {
-          "text": "Он очень приятный человек.",
-          "trans": "He's a very nice person."
-        },
-        {
-          "text": "Хорошо! Приятного вечера.",
-          "trans": "Very well! Have a pleasant evening."
-        }
-      ],
-      "related": [
-        {
-          "word": "приятно",
-          "gloss": "in a pleasant way (adv.)"
-        },
-        {
-          "word": "приятность",
-          "gloss": "quality of being pleasant"
         }
       ]
     },
@@ -5228,104 +5092,6 @@
         }
       ]
     },
-    "самый": {
-      "lemma": "самый",
-      "stress": "са́мый",
-      "pos": "adj",
-      "gloss": "the most; the very",
-      "meanings": [
-        {
-          "en": "the most",
-          "note": "forms the superlative: самый главный = the most important"
-        },
-        {
-          "en": "the very",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('the most; the very')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "самый",
-              "самая",
-              "самое",
-              "самые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "самого",
-              "самой",
-              "самого",
-              "самых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "самому",
-              "самой",
-              "самому",
-              "самым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "самый / самого",
-              "самую",
-              "самое",
-              "самые / самых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "самым",
-              "самой",
-              "самым",
-              "самыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "самом",
-              "самой",
-              "самом",
-              "самых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Самое главное — это народ.",
-          "trans": "The most important thing is the people."
-        },
-        {
-          "text": "Это самый большой город.",
-          "trans": "It's the biggest town."
-        },
-        {
-          "text": "Знаешь, что самое главное?",
-          "trans": "Do you know the main thing?"
-        }
-      ],
-      "related": []
-    },
     "свидание": {
       "lemma": "свидание",
       "stress": "свида́ние",
@@ -5335,11 +5101,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5411,8 +5177,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -5571,7 +5345,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5662,15 +5436,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5684,11 +5458,11 @@
       "meanings": [
         {
           "en": "to intend, to plan, to be going to",
-          "note": "+ infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "+ infinitive."
         },
         {
           "en": "to gather, to get ready",
-          "note": "Pack or assemble. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "Pack or assemble."
         }
       ],
       "forms": {
@@ -5838,10 +5612,10 @@
           {
             "cells": [
               "accusative",
-              "совместный",
+              "совместный / совместного",
               "совместную",
               "совместное",
-              "совместные"
+              "совместные / совместных"
             ]
           },
           {
@@ -5878,25 +5652,25 @@
       "related": [
         {
           "word": "совместно",
-          "gloss": "in a joint way (adv.)"
+          "gloss": "jointly"
         },
         {
-          "word": "совместность",
-          "gloss": "quality of being joint"
+          "word": "вместе",
+          "gloss": "together"
         }
       ]
     },
     "су-шеф": {
       "lemma": "су-шеф",
-      "stress": "су́-шеф",
+      "stress": "су-ше́ф",
       "pos": "noun",
       "gloss": "sous-chef",
       "gender": "m",
       "animacy": "anim",
       "meanings": [
         {
-          "en": "second-in-command chef",
-          "note": "Common masculine noun meaning 'sous-chef' in everyday Russian."
+          "en": "sous-chef, the chef's second-in-command",
+          "note": ""
         }
       ],
       "forms": {
@@ -6167,7 +5941,7 @@
       "meanings": [
         {
           "en": "to respect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to respect'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6270,11 +6044,11 @@
       "meanings": [
         {
           "en": "confident, assured",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": "Short form уверен / уверена."
         },
         {
           "en": "sure, certain",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6317,10 +6091,10 @@
           {
             "cells": [
               "accusative",
-              "уверенный",
+              "уверенный / уверенного",
               "уверенную",
               "уверенное",
-              "уверенные"
+              "уверенные / уверенных"
             ]
           },
           {
@@ -6375,7 +6149,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6480,7 +6254,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {
@@ -6635,7 +6409,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6687,6 +6461,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

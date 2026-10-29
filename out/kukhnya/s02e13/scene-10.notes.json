@@ -399,7 +399,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -893,7 +893,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1387,7 +1387,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1558,7 +1558,7 @@
       "meanings": [
         {
           "en": "for free, free of charge",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'платно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'платно')."
         }
       ],
       "forms": null,
@@ -1601,7 +1601,7 @@
       "meanings": [
         {
           "en": "dish",
-          "note": "Declinable neuter noun meaning 'dish', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "platter",
@@ -1881,7 +1881,7 @@
       "meanings": [
         {
           "en": "vegetarian (male or general)",
-          "note": "Common masculine noun meaning 'vegetarian' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1962,7 +1962,7 @@
       "meanings": [
         {
           "en": "vegetarian",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('vegetarian')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2005,10 +2005,10 @@
           {
             "cells": [
               "accusative",
-              "вегетарианский",
+              "вегетарианский / вегетарианского",
               "вегетарианскую",
               "вегетарианское",
-              "вегетарианские"
+              "вегетарианские / вегетарианских"
             ]
           },
           {
@@ -2038,8 +2038,12 @@
           "trans": "Tell me, do you have anything vegetarian?"
         },
         {
-          "text": "Согласен, вегетарианские ещё идиоты.",
-          "trans": "Agreed, vegetarians are total idiots too."
+          "text": "Держи вегетарианские рулетики.",
+          "trans": "Here, have the vegetarian rolls."
+        },
+        {
+          "text": "Это новое вегетарианское блюдо, шпинат в сливках.",
+          "trans": "This is a new vegetarian dish, spinach in cream."
         }
       ],
       "related": []
@@ -2052,7 +2056,7 @@
       "meanings": [
         {
           "en": "together",
-          "note": "Core Russian adv meaning 'together' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2087,11 +2091,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2184,11 +2188,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2256,104 +2260,17 @@
         }
       ]
     },
-    "жрать": {
-      "lemma": "жрать",
-      "stress": "жрать",
-      "pos": "verb",
-      "gloss": "gobble, devour",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "gobble, devour",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'gobble, devour'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "жру",
-              "жрём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "жрёшь",
-              "жрёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "жрёт",
-              "жрут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "жрал",
-                "жрала",
-                "жрало",
-                "жрали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Жрать будешь ты.",
-          "trans": "You're eating this."
-        },
-        {
-          "text": "Если испортишь мясо, жрать это будешь сам!",
-          "trans": "If you ruin the meat, you will eat it yourself!"
-        },
-        {
-          "text": "Хватит жрать дорогие продукты прямо с рабочего стола.",
-          "trans": "Stop gobbling expensive ingredients right off the prep table."
-        }
-      ],
-      "related": [
-        {
-          "word": "нажраться",
-          "gloss": "get hammered"
-        }
-      ]
-    },
     "заказ": {
       "lemma": "заказ",
       "stress": "зака́з",
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -2444,7 +2361,7 @@
       "meanings": [
         {
           "en": "to order (food, a taxi, goods)",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to order', paired with 'заказывать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать')."
         }
       ],
       "forms": {
@@ -2589,11 +2506,11 @@
       "meanings": [
         {
           "en": "compliment",
-          "note": "Common masculine noun meaning 'compliment; complimentary gift' in everyday Russian."
+          "note": ""
         },
         {
           "en": "complimentary gift from the house (in restaurants/services)",
-          "note": "Common masculine noun meaning 'compliment; complimentary gift' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2786,7 +2703,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2808,7 +2725,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2821,7 +2742,7 @@
       "meanings": [
         {
           "en": "meat",
-          "note": "Culinary. Common neuter noun meaning 'meat' in everyday Russian."
+          "note": "Culinary."
         }
       ],
       "forms": {
@@ -2836,42 +2757,42 @@
             "cells": [
               "nominative",
               "мясо",
-              "мяса"
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
               "мяса",
-              "мяс"
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
               "мясу",
-              "мясам"
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
               "мясо",
-              "мяса"
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
               "мясом",
-              "мясами"
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
               "мясе",
-              "мясах"
+              "—"
             ]
           }
         ]
@@ -2990,11 +2911,11 @@
       "meanings": [
         {
           "en": "normal, ordinary",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": "Colloquial."
         },
         {
           "en": "decent, OK",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3136,11 +3057,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3180,7 +3101,7 @@
       "meanings": [
         {
           "en": "to answer, to reply, to pick up the phone",
-          "note": "Отвечать кому / на звонок. Used as an imperfective (ongoing/repeated action) verb meaning 'to answer, to reply', paired with 'ответить'."
+          "note": "Отвечать кому / на звонок."
         }
       ],
       "forms": {
@@ -3323,7 +3244,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -3436,7 +3357,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "Всё получилось = it all worked out. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
+          "note": "Всё получилось = it all worked out."
         },
         {
           "en": "to come out of, to make",
@@ -3495,6 +3416,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получись",
+                "получитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3530,7 +3468,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3559,7 +3497,7 @@
       "meanings": [
         {
           "en": "last, previous, past",
-          "note": "В прошлый раз = last time. Agrees in gender, number, and case with the noun it modifies ('last, past, previous')."
+          "note": "В прошлый раз = last time."
         }
       ],
       "forms": {
@@ -3602,10 +3540,10 @@
           {
             "cells": [
               "accusative",
-              "прошлый",
+              "прошлый / прошлого",
               "прошлую",
               "прошлое",
-              "прошлые"
+              "прошлые / прошлых"
             ]
           },
           {
@@ -3645,8 +3583,16 @@
       ],
       "related": [
         {
-          "word": "прошло",
-          "gloss": "in a last way (adv.)"
+          "word": "прошлое",
+          "gloss": "the past"
+        },
+        {
+          "word": "прошедший",
+          "gloss": "past, bygone"
+        },
+        {
+          "word": "в прошлый раз",
+          "gloss": "last time"
         }
       ]
     },
@@ -3731,8 +3677,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -3745,7 +3703,7 @@
       "meanings": [
         {
           "en": "little roll",
-          "note": "Derived masculine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'little roll'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3804,15 +3762,15 @@
       "examples": [
         {
           "text": "Мясные рулетики из телятины с тонкими ломтиками ветчины.",
-          "trans": "You know, veal rolls with thin slices of ham."
+          "trans": "Little veal rolls with thin slices of ham."
         },
         {
-          "text": "Приготовь мясные рулетики из телятины с тонкими ломтиками ветчины.",
-          "trans": "Prepare meat rolls of veal with thin slices of ham."
+          "text": "Максим, приготовишь рулетики?",
+          "trans": "Maxim, will you make the rolls?"
         },
         {
-          "text": "Тёплые рулетики с лососем и сыром подают на большой тарелке.",
-          "trans": "Warm little rolls with salmon and cheese are served on a large plate."
+          "text": "Гость в восторге от твоих вегетарианских рулетиков.",
+          "trans": "The guest is delighted with your vegetarian rolls."
         }
       ],
       "related": [
@@ -3830,7 +3788,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -3979,7 +3937,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4166,7 +4124,7 @@
         },
         {
           "en": "that's enough!",
-          "note": "Хватит!. Used as a perfective (single completed action) verb meaning 'to be enough', paired with 'хватать'."
+          "note": "Хватит!."
         }
       ],
       "forms": {
@@ -4221,6 +4179,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хвати",
+                "хватите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4240,15 +4215,15 @@
       "related": [
         {
           "word": "хватать",
-          "gloss": "to grab"
+          "gloss": "to be enough (impf); to grab"
         },
         {
-          "word": "схватить",
-          "gloss": "to grab"
+          "word": "хватит!",
+          "gloss": "that's enough!"
         },
         {
-          "word": "перехватить",
-          "gloss": "to intercept"
+          "word": "достаточно",
+          "gloss": "enough"
         }
       ]
     },
@@ -4262,7 +4237,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4314,6 +4289,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

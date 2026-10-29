@@ -407,7 +407,7 @@
           "lemma": "громко",
           "pos": "adv",
           "stress": "гро́мко",
-          "gloss": "on speaker (lit. loudly)",
+          "gloss": "loudly",
           "gram": "adverb"
         },
         {
@@ -523,7 +523,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -553,8 +553,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "ещё",
@@ -1197,7 +1197,7 @@
           "lemma": "громко",
           "pos": "adv",
           "stress": "гро́мко",
-          "gloss": "on speaker (lit. loudly)",
+          "gloss": "loudly",
           "gram": "adverb"
         },
         {
@@ -1313,7 +1313,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1343,8 +1343,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "ещё",
@@ -1987,7 +1987,7 @@
           "lemma": "громко",
           "pos": "adv",
           "stress": "гро́мко",
-          "gloss": "on speaker (lit. loudly)",
+          "gloss": "loudly",
           "gram": "adverb"
         },
         {
@@ -2103,7 +2103,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -2133,8 +2133,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "ещё",
@@ -2396,7 +2396,7 @@
       "meanings": [
         {
           "en": "absolutely, completely, totally",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2811,7 +2811,7 @@
       "meanings": [
         {
           "en": "to lead, to guide, to drive",
-          "note": "Unidirectional verb of motion. Used as an imperfective (ongoing/repeated action) verb meaning 'to lead, to conduct (вести себя = to behave)', paired with 'повести'."
+          "note": "Unidirectional verb of motion."
         },
         {
           "en": "вести себя: to behave, to conduct oneself",
@@ -3039,10 +3039,11 @@
       "pos": "noun",
       "gloss": "doctor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "doctor, physician",
-          "note": "Used for women too. Common masculine noun meaning 'doctor' in everyday Russian."
+          "note": "Used for women too."
         }
       ],
       "forms": {
@@ -3123,11 +3124,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3209,84 +3210,6 @@
         {
           "word": "встретить",
           "gloss": "to meet"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3498,7 +3421,7 @@
       "meanings": [
         {
           "en": "town, city",
-          "note": "Common masculine noun meaning 'town, city' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3583,7 +3506,7 @@
       "meanings": [
         {
           "en": "city, urban, municipal",
-          "note": "Relating to a город. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('city, town, municipal')."
+          "note": "Relating to a город."
         }
       ],
       "forms": {
@@ -3626,10 +3549,10 @@
           {
             "cells": [
               "accusative",
-              "городской",
+              "городской / городского",
               "городскую",
               "городское",
-              "городские"
+              "городские / городских"
             ]
           },
           {
@@ -3721,11 +3644,11 @@
       "meanings": [
         {
           "en": "movement, motion",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'movement, traffic' in everyday Russian."
+          "note": ""
         },
         {
           "en": "traffic",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'movement, traffic' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3812,11 +3735,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4121,11 +4044,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -4192,7 +4115,7 @@
         },
         {
           "en": "big, hefty",
-          "note": "Colloquial. Agrees in gender, number, and case with the noun it modifies ('healthy, well; huge (colloq.)')."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -4235,10 +4158,10 @@
           {
             "cells": [
               "accusative",
-              "здоровый",
+              "здоровый / здорового",
               "здоровую",
               "здоровое",
-              "здоровые"
+              "здоровые / здоровых"
             ]
           },
           {
@@ -4333,7 +4256,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4409,7 +4332,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -4514,6 +4437,7 @@
       "pos": "noun",
       "gloss": "candidate",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "candidate (in an election or for a job)",
@@ -4604,7 +4528,7 @@
       "meanings": [
         {
           "en": "to shout, to yell",
-          "note": "Кричать на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to shout', paired with 'крикнуть'."
+          "note": "Кричать на + accusative."
         }
       ],
       "forms": {
@@ -4688,8 +4612,8 @@
           "trans": "Why are you shouting?"
         },
         {
-          "text": "Не надо кричать. Хорошо, я буду сегодня.",
-          "trans": "There's no need to shout. All right, I'll be there tonight."
+          "text": "Что вы кричите на меня?",
+          "trans": "Why are you shouting at me?"
         }
       ],
       "related": [
@@ -4716,7 +4640,7 @@
       "meanings": [
         {
           "en": "bed",
-          "note": "Common feminine noun meaning 'bed' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4796,7 +4720,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -4835,12 +4759,10 @@
       "stress": "матери́ться",
       "pos": "verb",
       "gloss": "to swear, use foul language",
-      "aspect": "impf",
-      "pair": "поматериться",
       "meanings": [
         {
           "en": "to swear, use foul language",
-          "note": "Colloquial. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to swear, use foul language', paired with 'поматериться'."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -4930,14 +4852,15 @@
       ],
       "related": [
         {
-          "word": "материал",
-          "gloss": "material"
+          "word": "мат",
+          "gloss": "obscene swearing"
         },
         {
-          "word": "математика",
-          "gloss": "mathematics"
+          "word": "ругаться",
+          "gloss": "to swear, to quarrel"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "мэр": {
       "lemma": "мэр",
@@ -4945,6 +4868,7 @@
       "pos": "noun",
       "gloss": "mayor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "mayor",
@@ -5018,7 +4942,16 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "мэрия",
+          "gloss": "town hall"
+        },
+        {
+          "word": "губернатор",
+          "gloss": "governor"
+        }
+      ]
     },
     "на": {
       "lemma": "на",
@@ -5072,7 +5005,7 @@
       "meanings": [
         {
           "en": "to be located, to be situated",
-          "note": "Imperfective reflexive verb. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'ходиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be located, to be found', paired with 'найтись'."
+          "note": "Imperfective reflexive verb. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'ходиться')."
         }
       ],
       "forms": {
@@ -5162,16 +5095,16 @@
       ],
       "related": [
         {
-          "word": "найтись",
-          "gloss": "to be found"
+          "word": "находить",
+          "gloss": "to find"
         },
         {
-          "word": "приходить",
-          "gloss": "to come"
+          "word": "местонахождение",
+          "gloss": "location, whereabouts"
         },
         {
-          "word": "заходить",
-          "gloss": "to come in"
+          "word": "располагаться",
+          "gloss": "to be situated"
         }
       ]
     },
@@ -5535,11 +5468,11 @@
       "meanings": [
         {
           "en": "to let go, to release",
-          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         },
         {
           "en": "to let someone leave",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         }
       ],
       "forms": {
@@ -5780,7 +5713,7 @@
       "meanings": [
         {
           "en": "patient",
-          "note": "Common masculine noun meaning 'patient' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5862,7 +5795,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -5971,7 +5904,7 @@
         },
         {
           "en": "to feel sorry for",
-          "note": "+ accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалеть'). Used as a perfective (single completed action) verb meaning 'to regret; to feel sorry', paired with 'жалеть'."
+          "note": "+ accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалеть')."
         }
       ],
       "forms": {
@@ -6326,11 +6259,11 @@
       "meanings": [
         {
           "en": "regime, strict rules",
-          "note": "Inanimate masculine noun. Common masculine noun meaning 'regime, routine, mode' in everyday Russian."
+          "note": ""
         },
         {
           "en": "routine, schedule",
-          "note": "Common masculine noun meaning 'regime, routine, mode' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6458,10 +6391,10 @@
           {
             "cells": [
               "accusative",
-              "резкий",
+              "резкий / резкого",
               "резкую",
               "резкое",
-              "резкие"
+              "резкие / резких"
             ]
           },
           {
@@ -6524,7 +6457,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -6636,7 +6569,7 @@
       "meanings": [
         {
           "en": "hand, arm",
-          "note": "Жать руку = to shake hands. Common feminine noun meaning 'hand; arm' in everyday Russian."
+          "note": "Жать руку = to shake hands."
         }
       ],
       "forms": {
@@ -6716,7 +6649,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -6903,7 +6836,7 @@
       "meanings": [
         {
           "en": "to sit down, to take a seat",
-          "note": "Used as a perfective (single completed action) verb meaning 'to sit down', paired with 'садиться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7006,7 +6939,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -7073,7 +7006,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7115,7 +7048,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7155,7 +7088,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -7258,7 +7191,7 @@
       "meanings": [
         {
           "en": "strict, stern, severe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('strict, stern')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7301,10 +7234,10 @@
           {
             "cells": [
               "accusative",
-              "строгий",
+              "строгий / строгого",
               "строгую",
               "строгое",
-              "строгие"
+              "строгие / строгих"
             ]
           },
           {
@@ -7410,16 +7343,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Ладно, сиди. Только тихо.",
+          "trans": "All right, sit down. Just keep quiet."
         }
       ],
       "related": [
@@ -7439,7 +7368,7 @@
       "meanings": [
         {
           "en": "to touch",
-          "note": "Не трогай! = Don't touch!. Used as an imperfective (ongoing/repeated action) verb meaning 'to touch', paired with 'тронуть'."
+          "note": "Не трогай! = Don't touch!."
         }
       ],
       "forms": {
@@ -7630,7 +7559,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7743,7 +7672,7 @@
       "meanings": [
         {
           "en": "to make noise",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to make noise'."
+          "note": ""
         }
       ],
       "forms": {

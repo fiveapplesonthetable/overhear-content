@@ -275,8 +275,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "денежный",
@@ -337,7 +337,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -375,7 +375,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -691,8 +691,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "денежный",
@@ -753,7 +753,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -791,7 +791,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1107,8 +1107,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "денежный",
@@ -1169,7 +1169,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1207,7 +1207,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1414,7 +1414,7 @@
         },
         {
           "en": "out!",
-          "note": "Вон отсюда! = get out of here!. Core Russian part meaning 'over there' in everyday speech."
+          "note": "Вон отсюда! = get out of here!."
         }
       ],
       "forms": null,
@@ -1450,11 +1450,11 @@
       "meanings": [
         {
           "en": "to drink up, to have a drink of",
-          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         },
         {
           "en": "to have an alcoholic drink",
-          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         }
       ],
       "forms": {
@@ -1598,7 +1598,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1626,13 +1626,17 @@
     },
     "денежный": {
       "lemma": "денежный",
-      "stress": "дене́жный",
+      "stress": "де́нежный",
       "pos": "adj",
-      "gloss": "money / monetary",
+      "gloss": "money, monetary; moneyed",
       "meanings": [
         {
-          "en": "money / monetary",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('money / monetary')."
+          "en": "money, monetary",
+          "note": ""
+        },
+        {
+          "en": "moneyed, well-off (colloquial)",
+          "note": ""
         }
       ],
       "forms": {
@@ -1675,10 +1679,10 @@
           {
             "cells": [
               "accusative",
-              "денежный",
+              "денежный / денежного",
               "денежную",
               "денежное",
-              "денежные"
+              "денежные / денежных"
             ]
           },
           {
@@ -1705,21 +1709,21 @@
       "examples": [
         {
           "text": "Вон какой денежный мешок.",
-          "trans": "Look what a moneybag you found."
+          "trans": "Look, what a moneybag."
         },
         {
-          "text": "Шеф говорит, что это очень денежный выбор.",
-          "trans": "The chef says that this is a very money choice."
+          "text": "Это очень денежная работа.",
+          "trans": "It's a very well-paid job."
         }
       ],
       "related": [
         {
-          "word": "денежно",
-          "gloss": "moneyly (adverbial form)"
+          "word": "деньги",
+          "gloss": "money"
         },
         {
-          "word": "очень денежный",
-          "gloss": "very money"
+          "word": "денежный мешок",
+          "gloss": "moneybag, rich person"
         }
       ]
     },
@@ -1809,7 +1813,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -1933,7 +1936,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2015,12 +2018,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2075,6 +2076,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2094,126 +2112,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
-        }
-      ]
-    },
-    "идти": {
-      "lemma": "идти",
-      "stress": "идти́",
-      "pos": "verb",
-      "gloss": "to go (on foot)",
-      "aspect": "impf",
-      "pair": "пойти",
-      "meanings": [
-        {
-          "en": "to go, to walk",
-          "note": "In one direction, now. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (on foot)', paired with 'пойти'."
-        },
-        {
-          "en": "идти на второй срок",
-          "note": "To run for a second term. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (on foot)', paired with 'пойти'."
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "иду",
-              "идём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "идёшь",
-              "идёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "идёт",
-              "идут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "шёл",
-                "шла",
-                "шло",
-                "шли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "иди",
-                "идите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я иду домой.",
-          "trans": "I'm going home."
-        },
-        {
-          "text": "Он идёт на второй срок.",
-          "trans": "He is running for a second term."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "ехать",
-          "gloss": "to go (by vehicle)"
-        }
-      ]
+      "aspect": "impf"
     },
     "какой": {
       "lemma": "какой",
@@ -2223,7 +2133,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2412,7 +2322,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -2484,7 +2394,7 @@
             "cells": [
               "dative",
               "любви",
-              "любовям"
+              "любвям"
             ]
           },
           {
@@ -2498,14 +2408,14 @@
             "cells": [
               "instrumental",
               "любовью",
-              "любовями"
+              "любвями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "любви",
-              "любовях"
+              "любвях"
             ]
           }
         ]
@@ -2541,7 +2451,7 @@
       "meanings": [
         {
           "en": "sack, large bag",
-          "note": "For grain, herbs, potatoes, etc. Common masculine noun meaning 'sack, bag' in everyday Russian."
+          "note": "For grain, herbs, potatoes, etc."
         }
       ],
       "forms": {
@@ -2808,7 +2718,7 @@
       "meanings": [
         {
           "en": "no ... at all, not any",
-          "note": "With не / нет. Core Russian det meaning 'no ... at all, not any' in everyday speech."
+          "note": "With не / нет."
         }
       ],
       "forms": {
@@ -2908,15 +2818,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -2989,11 +2899,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -3104,11 +3014,11 @@
       "meanings": [
         {
           "en": "right (not left)",
-          "note": "Short form: ты прав = you're right. Agrees in gender, number, and case with the noun it modifies ('right (side)')."
+          "note": "Short form: ты прав = you're right."
         },
         {
           "en": "right, correct",
-          "note": "Short form: ты прав = you're right. Agrees in gender, number, and case with the noun it modifies ('right (side)')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3151,10 +3061,10 @@
           {
             "cells": [
               "accusative",
-              "правый/правого",
+              "правый / правого",
               "правую",
               "правое",
-              "правые/правых"
+              "правые / правых"
             ]
           },
           {
@@ -3215,11 +3125,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3255,7 +3165,7 @@
       "meanings": [
         {
           "en": "to sit down",
-          "note": "Садитесь = sit down (polite). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to sit down', paired with 'сесть'."
+          "note": "Садитесь = sit down (polite)."
         }
       ],
       "forms": {
@@ -3474,15 +3384,15 @@
       "meanings": [
         {
           "en": "happy",
-          "note": "Сч is pronounced like щ. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Сч is pronounced like щ."
         },
         {
           "en": "lucky",
-          "note": "Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": ""
         },
         {
           "en": "happy (ending)",
-          "note": "Счастливый конец = happy ending. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Счастливый конец = happy ending."
         }
       ],
       "forms": {
@@ -3551,29 +3461,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "счастлив",
-                "счастлива",
-                "счастливо",
-                "счастливы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я очень счастливый.",
@@ -3595,40 +3483,6 @@
         }
       ]
     },
-    "сюда": {
-      "lemma": "сюда",
-      "stress": "сюда́",
-      "pos": "adv",
-      "gloss": "here (to this place)",
-      "meanings": [
-        {
-          "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай сюда ключи.",
-          "trans": "Give me the keys."
-        },
-        {
-          "text": "Иди сюда!",
-          "trans": "Come here!"
-        },
-        {
-          "text": "На белом? Давай сюда ключи.",
-          "trans": "The white one? Give me the keys."
-        }
-      ],
-      "related": [
-        {
-          "word": "отсюда",
-          "gloss": "from here"
-        }
-      ]
-    },
     "такой": {
       "lemma": "такой",
       "stress": "тако́й",
@@ -3641,7 +3495,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -3821,7 +3675,7 @@
       "meanings": [
         {
           "en": "please, do (softening or emphatic particle)",
-          "note": "Вы уж нас извините = do forgive us. Core Russian part meaning 'really, please (softening particle)' in everyday speech."
+          "note": "Вы уж нас извините = do forgive us."
         }
       ],
       "forms": null,

@@ -141,7 +141,7 @@
           "lemma": "узнать",
           "pos": "verb",
           "stress": "узна́ли",
-          "gloss": "found out, knew",
+          "gloss": "found out",
           "gram": "past, plural (formal), perfective"
         }
       ]
@@ -172,7 +172,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "стороне",
@@ -635,7 +635,7 @@
           "lemma": "узнать",
           "pos": "verb",
           "stress": "узна́ли",
-          "gloss": "found out, knew",
+          "gloss": "found out",
           "gram": "past, plural (formal), perfective"
         }
       ]
@@ -666,7 +666,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "стороне",
@@ -1129,7 +1129,7 @@
           "lemma": "узнать",
           "pos": "verb",
           "stress": "узна́ли",
-          "gloss": "found out, knew",
+          "gloss": "found out",
           "gram": "past, plural (formal), perfective"
         }
       ]
@@ -1160,7 +1160,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "стороне",
@@ -1745,11 +1745,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1776,84 +1776,6 @@
         {
           "word": "вот-вот",
           "gloss": "any moment now"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -1951,7 +1873,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2076,7 +1998,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2264,11 +2185,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2303,12 +2224,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2363,6 +2282,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2382,17 +2318,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "зря": {
       "lemma": "зря",
@@ -2402,11 +2339,11 @@
       "meanings": [
         {
           "en": "for nothing, in vain",
-          "note": "Зря ты так = You shouldn't have. Core Russian adv meaning 'for nothing, in vain' in everyday speech."
+          "note": "Зря ты так = You shouldn't have."
         },
         {
           "en": "wrongly, without reason",
-          "note": "Зря ты так = You shouldn't have. Core Russian adv meaning 'for nothing, in vain' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2884,7 +2821,7 @@
       "meanings": [
         {
           "en": "to be running late, to arrive late",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be running late, to be late', paired with 'опоздать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2989,7 +2926,7 @@
       "meanings": [
         {
           "en": "to put, to place, to lay down",
-          "note": "+ в/на + accusative. Used as a perfective (single completed action) verb meaning 'to put, to lay down', paired with 'класть'."
+          "note": "+ в/на + accusative."
         }
       ],
       "forms": {
@@ -3080,11 +3017,15 @@
       "related": [
         {
           "word": "класть",
-          "gloss": "to put"
+          "gloss": "to put (impf)"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "выложить",
+          "gloss": "to lay out"
+        },
+        {
+          "word": "отложить",
+          "gloss": "to put aside, to postpone"
         }
       ]
     },
@@ -3098,7 +3039,7 @@
       "meanings": [
         {
           "en": "to bring, lead (someone somewhere)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to bring, to lead (someone somewhere)', paired with 'приводить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'вести')."
         }
       ],
       "forms": {
@@ -3308,7 +3249,7 @@
       "meanings": [
         {
           "en": "for the sake of, for",
-          "note": "+ genitive. Core Russian prep meaning 'for the sake of' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3565,16 +3506,16 @@
       ],
       "related": [
         {
-          "word": "правильно",
-          "gloss": "right"
+          "word": "слева",
+          "gloss": "on the left"
         },
         {
           "word": "правый",
-          "gloss": "right"
+          "gloss": "right (side)"
         },
         {
-          "word": "правило",
-          "gloss": "rule"
+          "word": "направо",
+          "gloss": "to the right"
         }
       ]
     },
@@ -3671,67 +3612,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -3765,8 +3662,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -3778,7 +3683,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -3885,7 +3790,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -3925,7 +3830,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -3977,6 +3882,23 @@
                 "увиделась",
                 "увиделось",
                 "увиделись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
               ]
             }
           ]
@@ -4234,7 +4156,7 @@
         },
         {
           "en": "outside, outdoors",
-          "note": "на улице = out on the street / outside"
+          "note": ""
         }
       ],
       "forms": {
@@ -4315,7 +4237,7 @@
       "meanings": [
         {
           "en": "trash bin, urn",
-          "note": "Common feminine noun meaning 'trash bin, urn' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4383,12 +4305,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "мусор",
+          "gloss": "rubbish"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "ведро",
+          "gloss": "bucket"
         }
       ]
     },
@@ -4402,7 +4324,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {

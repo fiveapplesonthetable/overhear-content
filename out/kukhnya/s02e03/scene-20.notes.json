@@ -299,8 +299,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "тонкий",
@@ -360,8 +360,8 @@
           "t": "покупками.",
           "lemma": "покупка",
           "pos": "noun",
-          "stress": "покупка́ми",
-          "gloss": "purchase, buying",
+          "stress": "поку́пками",
+          "gloss": "shopping (за покупками = to go shopping)",
           "gram": "instrumental plural"
         }
       ]
@@ -723,8 +723,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "тонкий",
@@ -784,8 +784,8 @@
           "t": "покупками.",
           "lemma": "покупка",
           "pos": "noun",
-          "stress": "покупка́ми",
-          "gloss": "purchase, buying",
+          "stress": "поку́пками",
+          "gloss": "shopping (за покупками = to go shopping)",
           "gram": "instrumental plural"
         }
       ]
@@ -1147,8 +1147,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "тонкий",
@@ -1208,8 +1208,8 @@
           "t": "покупками.",
           "lemma": "покупка",
           "pos": "noun",
-          "stress": "покупка́ми",
-          "gloss": "purchase, buying",
+          "stress": "поку́пками",
+          "gloss": "shopping (за покупками = to go shopping)",
           "gram": "instrumental plural"
         }
       ]
@@ -1581,7 +1581,7 @@
       "meanings": [
         {
           "en": "two together, as a couple",
-          "note": "Мы вдвоём = the two of us. Core Russian adv meaning 'the two of us, together (two)' in everyday speech."
+          "note": "Мы вдвоём = the two of us."
         }
       ],
       "forms": null,
@@ -1615,7 +1615,7 @@
         },
         {
           "en": "party, evening event",
-          "note": "E.g. a school evening. Common masculine noun meaning 'evening' in everyday Russian."
+          "note": "E.g. a school evening."
         }
       ],
       "forms": {
@@ -1790,11 +1790,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1870,11 +1870,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -1912,7 +1912,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2059,10 +2059,11 @@
       "pos": "noun",
       "gloss": "hint",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "hint",
-          "note": "Common masculine noun meaning 'hint' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2124,18 +2125,26 @@
           "trans": "What a subtle hint."
         },
         {
-          "text": "Это наш город. Нам здесь бояться некого.",
-          "trans": "This is our town. We have nobody to fear here."
+          "text": "Шеф, что за странные намёки? Ничего не было!",
+          "trans": "Chef, what's with the weird insinuations? Nothing happened!"
+        },
+        {
+          "text": "Виктор, ты этот тонкий намёк понял?",
+          "trans": "Viktor, did you get that subtle hint?"
         }
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "намекать",
+          "gloss": "to hint"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "намекнуть",
+          "gloss": "to hint (pf)"
+        },
+        {
+          "word": "подсказка",
+          "gloss": "tip, clue"
         }
       ]
     },
@@ -2185,7 +2194,7 @@
       "meanings": [
         {
           "en": "no ... at all, not any",
-          "note": "With не / нет. Core Russian det meaning 'no ... at all, not any' in everyday speech."
+          "note": "With не / нет."
         }
       ],
       "forms": {
@@ -2380,6 +2389,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "нравься",
+                "нравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2540,7 +2566,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -2575,7 +2601,7 @@
       "meanings": [
         {
           "en": "plan, scheme",
-          "note": "Common masculine noun meaning 'plan' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2662,7 +2688,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -2774,7 +2800,7 @@
       "meanings": [
         {
           "en": "purchase",
-          "note": "Act of buying or item bought. Common feminine noun meaning 'purchase, buying' in everyday Russian."
+          "note": "Act of buying or item bought."
         }
       ],
       "forms": {
@@ -3050,11 +3076,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3126,8 +3152,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -3143,7 +3177,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -3340,7 +3374,7 @@
       "meanings": [
         {
           "en": "thin, delicate; subtle, astute",
-          "note": "Qualitative adjective. Agrees in gender, number, and case with the noun it modifies ('subtle, thin')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3383,10 +3417,10 @@
           {
             "cells": [
               "accusative",
-              "тонкий",
+              "тонкий / тонкого",
               "тонкую",
               "тонкое",
-              "тонкие"
+              "тонкие / тонких"
             ]
           },
           {
@@ -3412,16 +3446,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это был очень тонкий ход.",
-          "trans": "That was a very subtle move."
-        },
-        {
-          "text": "У нее тонкий вкус в искусстве.",
-          "trans": "She has delicate taste in art."
-        },
-        {
           "text": "Это был очень тонкий ход!",
           "trans": "That was a very subtle move!"
+        },
+        {
+          "text": "У неё тонкий вкус в искусстве.",
+          "trans": "She has refined taste in art."
+        },
+        {
+          "text": "Посмотрите, какое острое и тонкое лезвие!",
+          "trans": "Look how sharp and thin the blade is!"
         }
       ],
       "related": [
@@ -3488,7 +3522,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -3540,6 +3574,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

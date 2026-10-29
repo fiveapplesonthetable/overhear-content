@@ -17,7 +17,7 @@
         {
           "t": "спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -121,8 +121,8 @@
           "lemma": "плечо",
           "pos": "noun",
           "stress": null,
-          "gloss": "shoulder",
-          "gram": "nominative / accusative singular, masculine"
+          "gloss": "shoulders",
+          "gram": "genitive plural"
         }
       ]
     },
@@ -538,7 +538,7 @@
           "t": "рассчитать.",
           "lemma": "рассчитать",
           "pos": "verb",
-          "stress": "рассчи́тать",
+          "stress": "рассчита́ть",
           "gloss": "to calculate, to judge",
           "gram": "infinitive"
         }
@@ -753,7 +753,7 @@
         {
           "t": "спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -857,8 +857,8 @@
           "lemma": "плечо",
           "pos": "noun",
           "stress": null,
-          "gloss": "shoulder",
-          "gram": "nominative / accusative singular, masculine"
+          "gloss": "shoulders",
+          "gram": "genitive plural"
         }
       ]
     },
@@ -1274,7 +1274,7 @@
           "t": "рассчитать.",
           "lemma": "рассчитать",
           "pos": "verb",
-          "stress": "рассчи́тать",
+          "stress": "рассчита́ть",
           "gloss": "to calculate, to judge",
           "gram": "infinitive"
         }
@@ -1489,7 +1489,7 @@
         {
           "t": "спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1593,8 +1593,8 @@
           "lemma": "плечо",
           "pos": "noun",
           "stress": null,
-          "gloss": "shoulder",
-          "gram": "nominative / accusative singular, masculine"
+          "gloss": "shoulders",
+          "gram": "genitive plural"
         }
       ]
     },
@@ -2010,7 +2010,7 @@
           "t": "рассчитать.",
           "lemma": "рассчитать",
           "pos": "verb",
-          "stress": "рассчи́тать",
+          "stress": "рассчита́ть",
           "gloss": "to calculate, to judge",
           "gram": "infinitive"
         }
@@ -2227,7 +2227,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2322,13 +2322,13 @@
       "lemma": "веселиться",
       "stress": "весели́ться",
       "pos": "verb",
-      "gloss": "to without",
+      "gloss": "to have fun, to enjoy oneself",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "to without",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to without'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "en": "to have fun, to enjoy oneself, to make merry",
+          "note": ""
         }
       ],
       "forms": {
@@ -2383,6 +2383,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "веселись",
+                "веселитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2398,7 +2415,15 @@
       "related": [
         {
           "word": "повеселиться",
-          "gloss": "to without"
+          "gloss": "to have some fun"
+        },
+        {
+          "word": "весело",
+          "gloss": "cheerfully, fun"
+        },
+        {
+          "word": "веселье",
+          "gloss": "fun, merriment"
         }
       ]
     },
@@ -2517,84 +2542,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "выпить": {
       "lemma": "выпить",
       "stress": "вы́пить",
@@ -2605,11 +2552,11 @@
       "meanings": [
         {
           "en": "to drink up, to have a drink of",
-          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         },
         {
           "en": "to have an alcoholic drink",
-          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         }
       ],
       "forms": {
@@ -2819,49 +2766,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2872,11 +2776,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2967,15 +2875,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2988,7 +2896,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3073,7 +2981,7 @@
       "meanings": [
         {
           "en": "in harmony, amicably, all together",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3112,8 +3020,6 @@
       "stress": "дура́читься",
       "pos": "verb",
       "gloss": "to fool around, clown, horse around",
-      "aspect": "impf",
-      "pair": "подурачиться",
       "meanings": [
         {
           "en": "to fool around, clown, play the fool",
@@ -3218,7 +3124,8 @@
           "word": "дурак",
           "gloss": "fool"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "если": {
       "lemma": "если",
@@ -3270,11 +3177,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3385,7 +3292,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3465,11 +3372,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3504,12 +3411,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3564,6 +3469,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3583,17 +3505,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "значит": {
       "lemma": "значит",
@@ -3721,7 +3644,7 @@
       "meanings": [
         {
           "en": "stone, rock",
-          "note": "Hard solid mineral matter. Common masculine noun meaning 'stone, rock' in everyday Russian."
+          "note": "Hard solid mineral matter."
         }
       ],
       "forms": {
@@ -3802,7 +3725,7 @@
       "meanings": [
         {
           "en": "it is easy; easily",
-          "note": "Impersonal predicate or adverb. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Impersonal predicate or adverb."
         }
       ],
       "forms": null,
@@ -4058,7 +3981,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4097,12 +4020,10 @@
       "stress": "ненави́деть",
       "pos": "verb",
       "gloss": "to hate",
-      "aspect": "impf",
-      "pair": "возненавидеть",
       "meanings": [
         {
           "en": "to hate",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'навидеть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to hate', paired with 'возненавидеть'."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'навидеть')."
         }
       ],
       "forms": {
@@ -4157,6 +4078,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ненавидь",
+                "ненавидьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4176,9 +4114,18 @@
       "related": [
         {
           "word": "возненавидеть",
-          "gloss": "to hate"
+          "gloss": "to come to hate"
+        },
+        {
+          "word": "ненависть",
+          "gloss": "hatred"
+        },
+        {
+          "word": "любить",
+          "gloss": "to love"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "нет": {
       "lemma": "нет",
@@ -4349,7 +4296,7 @@
       "meanings": [
         {
           "en": "shoulder",
-          "note": "Body part. Common neuter noun meaning 'shoulder' in everyday Russian."
+          "note": "Body part."
         }
       ],
       "forms": {
@@ -4536,7 +4483,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4641,7 +4588,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -4744,7 +4691,7 @@
       "meanings": [
         {
           "en": "after",
-          "note": "Preposition + genitive, or adverb. Core Russian prep meaning 'after' in everyday speech."
+          "note": "Preposition + genitive, or adverb."
         }
       ],
       "forms": null,
@@ -4776,15 +4723,15 @@
     },
     "пофантазировать": {
       "lemma": "пофантазировать",
-      "stress": "пофантазиро́вать",
+      "stress": "пофантази́ровать",
       "pos": "verb",
-      "gloss": "fantasize, daydream",
+      "gloss": "to fantasize, to daydream (a bit)",
       "aspect": "pf",
       "pair": null,
       "meanings": [
         {
           "en": "fantasize, daydream",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'фантазировать'). Used as a perfective (single completed action) verb meaning 'fantasize, daydream'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'фантазировать')."
         }
       ],
       "forms": {
@@ -4839,26 +4786,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пофантазируй",
+                "пофантазируйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и пофантазировать вовремя.",
-          "trans": "We need to do everything and fantasize on time."
+          "text": "А давай я сейчас тоже немного пофантазирую!",
+          "trans": "Let me do a bit of fantasizing too!"
         },
         {
-          "text": "На нашей кухне все умеют пофантазировать.",
-          "trans": "In our kitchen everyone knows how to fantasize."
+          "text": "Можно немного пофантазировать с десертом.",
+          "trans": "You can get a little creative with the dessert."
         }
       ],
       "related": [
         {
           "word": "фантазировать",
-          "gloss": "to fantasize (base verb)"
+          "gloss": "to fantasize"
         },
         {
-          "word": "не пофантазировать",
-          "gloss": "not to fantasize (negated infinitive)"
+          "word": "фантазия",
+          "gloss": "imagination, fantasy"
         }
       ]
     },
@@ -5155,8 +5119,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -5170,11 +5146,11 @@
       "meanings": [
         {
           "en": "to calculate, to estimate",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'считать'). Used as a perfective (single completed action) verb meaning 'to calculate, to judge', paired with 'рассчитывать'."
+          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'считать')."
         },
         {
           "en": "не рассчитать — to misjudge (strength, distance)",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'считать'). Used as a perfective (single completed action) verb meaning 'to calculate, to judge', paired with 'рассчитывать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5285,11 +5261,11 @@
       "meanings": [
         {
           "en": "realistic, actually possible",
-          "note": "Predicative: это реально?. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Predicative: это реально?."
         },
         {
           "en": "really, for real",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -5324,7 +5300,6 @@
       "stress": "ребя́та",
       "pos": "noun",
       "gloss": "guys, lads, kids (plural only)",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -5333,7 +5308,7 @@
         },
         {
           "en": "kids, children",
-          "note": "Colloquial plural of ребёнок. Common substantive noun meaning 'guys, lads, kids (plural only)' in everyday Russian."
+          "note": "Colloquial plural of ребёнок."
         }
       ],
       "forms": {
@@ -5576,67 +5551,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5669,7 +5592,7 @@
         },
         {
           "en": "to start (doing)",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -5772,15 +5695,15 @@
       "meanings": [
         {
           "en": "happy",
-          "note": "Сч is pronounced like щ. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Сч is pronounced like щ."
         },
         {
           "en": "lucky",
-          "note": "Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": ""
         },
         {
           "en": "happy (ending)",
-          "note": "Счастливый конец = happy ending. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Счастливый конец = happy ending."
         }
       ],
       "forms": {
@@ -5849,29 +5772,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "счастлив",
-                "счастлива",
-                "счастливо",
-                "счастливы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я очень счастливый.",
@@ -5943,7 +5844,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5972,7 +5873,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -6172,7 +6073,7 @@
     },
     "фантазировать": {
       "lemma": "фантазировать",
-      "stress": "фантазиро́вать",
+      "stress": "фантази́ровать",
       "pos": "verb",
       "gloss": "fantasize, daydream",
       "aspect": "impf",
@@ -6180,7 +6081,7 @@
       "meanings": [
         {
           "en": "fantasize, daydream",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'fantasize, daydream'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6235,6 +6136,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "фантазируй",
+                "фантазируйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6243,18 +6161,22 @@
           "trans": "We were just goofing around and daydreaming after the shift."
         },
         {
-          "text": "Надо всё сделать и фантазировать вовремя.",
-          "trans": "We need to do everything and fantasize on time."
+          "text": "Хватит фантазировать, давай работать.",
+          "trans": "Stop daydreaming, let's get to work."
         }
       ],
       "related": [
         {
-          "word": "пофантазировать",
-          "gloss": "to fantasize (prefixed perfective)"
+          "word": "фантазия",
+          "gloss": "imagination"
         },
         {
-          "word": "не фантазировать",
-          "gloss": "not to fantasize (negated infinitive)"
+          "word": "пофантазировать",
+          "gloss": "to fantasize a little"
+        },
+        {
+          "word": "мечтать",
+          "gloss": "to dream"
         }
       ]
     },
@@ -6266,7 +6188,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

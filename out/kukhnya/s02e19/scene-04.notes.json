@@ -193,8 +193,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "аромат.",
@@ -284,7 +284,7 @@
           "pos": "interj",
           "stress": "здра́сте",
           "gloss": "hello, hi",
-          "gram": "prepositional / dative singular"
+          "gram": "interjection, colloquial short form of здравствуйте"
         },
         {
           "t": "Виктория",
@@ -639,8 +639,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "аромат.",
@@ -730,7 +730,7 @@
           "pos": "interj",
           "stress": "здра́сте",
           "gloss": "hello, hi",
-          "gram": "prepositional / dative singular"
+          "gram": "interjection, colloquial short form of здравствуйте"
         },
         {
           "t": "Виктория",
@@ -1085,8 +1085,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "аромат.",
@@ -1176,7 +1176,7 @@
           "pos": "interj",
           "stress": "здра́сте",
           "gloss": "hello, hi",
-          "gram": "prepositional / dative singular"
+          "gram": "interjection, colloquial short form of здравствуйте"
         },
         {
           "t": "Виктория",
@@ -1373,11 +1373,11 @@
       "meanings": [
         {
           "en": "uh-huh, yeah",
-          "note": "Casual yes. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Casual yes."
         },
         {
           "en": "yeah, right",
-          "note": "Said ironically. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Said ironically."
         }
       ],
       "forms": null,
@@ -1416,7 +1416,7 @@
       "meanings": [
         {
           "en": "aroma",
-          "note": "Declinable masculine noun meaning 'aroma', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "flavor",
@@ -1486,28 +1486,17 @@
           "trans": "The delicate aroma of herbs makes this meat dish simply unforgettable."
         }
       ],
-      "related": [
-        {
-          "word": "дело",
-          "gloss": "matter, business"
-        },
-        {
-          "word": "место",
-          "gloss": "place"
-        }
-      ]
+      "related": []
     },
     "беспокоиться": {
       "lemma": "беспокоиться",
       "stress": "беспоко́иться",
       "pos": "verb",
       "gloss": "to worry",
-      "aspect": "impf",
-      "pair": "забеспокоиться",
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry', paired with 'забеспокоиться'."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться')."
         }
       ],
       "forms": {
@@ -1597,8 +1586,8 @@
       ],
       "related": [
         {
-          "word": "забеспокоиться",
-          "gloss": "to worry"
+          "word": "побеспокоиться",
+          "gloss": "to take care of, to see to"
         },
         {
           "word": "беспокоить",
@@ -1608,7 +1597,8 @@
           "word": "спокойный",
           "gloss": "calm"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "бог": {
       "lemma": "бог",
@@ -1854,10 +1844,11 @@
       "pos": "noun",
       "gloss": "wizard, magician",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "wizard, magician",
-          "note": "Animate masculine. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'wizard, magician' in everyday Russian."
+          "note": "Animate masculine."
         }
       ],
       "forms": {
@@ -1942,11 +1933,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1973,84 +1964,6 @@
         {
           "word": "вот-вот",
           "gloss": "any moment now"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2145,7 +2058,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2183,11 +2096,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2263,7 +2176,7 @@
       "meanings": [
         {
           "en": "hello, hi",
-          "note": "Expressive conversational Russian interjection or greeting ('hello') used directly in spoken exchanges."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2339,7 +2252,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2526,7 +2439,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -2610,7 +2523,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -2639,7 +2552,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -2842,7 +2755,7 @@
       "meanings": [
         {
           "en": "to sit down",
-          "note": "Садитесь = sit down (polite). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to sit down', paired with 'сесть'."
+          "note": "Садитесь = sit down (polite)."
         }
       ],
       "forms": {
@@ -2946,11 +2859,11 @@
       "meanings": [
         {
           "en": "glory, fame",
-          "note": "In 'слава богу'. Common feminine noun meaning 'glory, fame' in everyday Russian."
+          "note": "In 'слава богу'."
         },
         {
           "en": "thank God",
-          "note": "In 'слава богу'. Common feminine noun meaning 'glory, fame' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2965,42 +2878,42 @@
             "cells": [
               "nominative",
               "слава",
-              "—"
+              "славы"
             ]
           },
           {
             "cells": [
               "genitive",
               "славы",
-              "—"
+              "слав"
             ]
           },
           {
             "cells": [
               "dative",
               "славе",
-              "—"
+              "славам"
             ]
           },
           {
             "cells": [
               "accusative",
               "славу",
-              "—"
+              "славы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "славой",
-              "—"
+              "славами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "славе",
-              "—"
+              "славах"
             ]
           }
         ]
@@ -3023,7 +2936,11 @@
       "related": [
         {
           "word": "славный",
-          "gloss": "related to glory (adj.)"
+          "gloss": "glorious; nice"
+        },
+        {
+          "word": "слава богу",
+          "gloss": "thank God"
         }
       ]
     },
@@ -3037,11 +2954,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -3144,11 +3061,11 @@
       "meanings": [
         {
           "en": "on purpose, deliberately",
-          "note": "Intentionally. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Intentionally."
         },
         {
           "en": "specially, specifically",
-          "note": "For a particular purpose. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "For a particular purpose."
         }
       ],
       "forms": null,
@@ -3188,7 +3105,7 @@
       "meanings": [
         {
           "en": "to try hard, to make an effort",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to try, to make an effort', paired with 'постараться'."
+          "note": ""
         }
       ],
       "forms": {

@@ -181,7 +181,7 @@
           "lemma": "дядя",
           "pos": "noun",
           "stress": "дя́дя",
-          "gloss": "Uncle",
+          "gloss": "uncle",
           "gram": "nominative singular, masculine"
         },
         {
@@ -480,7 +480,7 @@
           "pos": "adj",
           "stress": "дли́нного",
           "gloss": "tall, long",
-          "gram": "masculine accusative singular"
+          "gram": "accusative singular, masculine animate"
         },
         {
           "t": "нигде",
@@ -580,7 +580,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "четыре...",
@@ -817,7 +817,7 @@
           "lemma": "дядя",
           "pos": "noun",
           "stress": "дя́дя",
-          "gloss": "Uncle",
+          "gloss": "uncle",
           "gram": "nominative singular, masculine"
         },
         {
@@ -1116,7 +1116,7 @@
           "pos": "adj",
           "stress": "дли́нного",
           "gloss": "tall, long",
-          "gram": "masculine accusative singular"
+          "gram": "accusative singular, masculine animate"
         },
         {
           "t": "нигде",
@@ -1216,7 +1216,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "четыре...",
@@ -1453,7 +1453,7 @@
           "lemma": "дядя",
           "pos": "noun",
           "stress": "дя́дя",
-          "gloss": "Uncle",
+          "gloss": "uncle",
           "gram": "nominative singular, masculine"
         },
         {
@@ -1752,7 +1752,7 @@
           "pos": "adj",
           "stress": "дли́нного",
           "gloss": "tall, long",
-          "gram": "masculine accusative singular"
+          "gram": "accusative singular, masculine animate"
         },
         {
           "t": "нигде",
@@ -1852,7 +1852,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "четыре...",
@@ -2339,11 +2339,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2434,15 +2438,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2483,7 +2487,7 @@
       "meanings": [
         {
           "en": "long",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('long')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2526,10 +2530,10 @@
           {
             "cells": [
               "accusative",
-              "длинный / -ого",
+              "длинный / длинного",
               "длинную",
               "длинное",
-              "длинные / -ых"
+              "длинные / длинных"
             ]
           },
           {
@@ -2582,11 +2586,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2718,11 +2722,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2762,11 +2766,11 @@
       "meanings": [
         {
           "en": "to close, to shut",
-          "note": "'закрывать глаза на' + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to close, to shut', paired with 'закрыть'."
+          "note": "+ acc."
         },
         {
           "en": "to turn a blind eye",
-          "note": "'закрывать глаза на' + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to close, to shut', paired with 'закрыть'."
+          "note": "'закрывать глаза на' + accusative."
         }
       ],
       "forms": {
@@ -3171,7 +3175,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3295,7 +3299,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3329,7 +3333,7 @@
       "meanings": [
         {
           "en": "slowly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3365,7 +3369,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3417,6 +3421,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3489,7 +3510,7 @@
       "meanings": [
         {
           "en": "nowhere (location, with negative verb)",
-          "note": "Core Russian adv meaning 'nowhere' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3497,21 +3518,29 @@
       "examples": [
         {
           "text": "В том смысле, что его нигде нет!",
-          "trans": "In the sense that he is nowhere to be found!"
+          "trans": "In the sense that he's nowhere to be found!"
         },
         {
           "text": "Я нигде не мог найти ключи.",
-          "trans": "I could find the keys nowhere."
+          "trans": "I couldn't find the keys anywhere."
         },
         {
           "text": "Тебя такого длинного нигде не спрячешь.",
-          "trans": "You are so tall, you cannot be hidden anywhere."
+          "trans": "Someone as tall as you can't be hidden anywhere."
         }
       ],
       "related": [
         {
-          "word": "очень нигде",
-          "gloss": "intensified / related adverb (nowhere)"
+          "word": "никуда",
+          "gloss": "nowhere (direction)"
+        },
+        {
+          "word": "где",
+          "gloss": "where"
+        },
+        {
+          "word": "везде",
+          "gloss": "everywhere"
         }
       ]
     },
@@ -3808,16 +3837,14 @@
       "stress": "посиде́ть",
       "pos": "verb",
       "gloss": "to sit for a while; to stay (with someone)",
-      "aspect": "pf",
-      "pair": "сидеть",
       "meanings": [
         {
           "en": "to sit for a while",
-          "note": "Perfective of limited duration. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть'). Used as a perfective (single completed action) verb meaning 'to sit for a while; to stay (with someone)', paired with 'сидеть'."
+          "note": "Perfective of limited duration. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть')."
         },
         {
           "en": "to stay with, keep company",
-          "note": "Посиди с ним = stay with him. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть'). Used as a perfective (single completed action) verb meaning 'to sit for a while; to stay (with someone)', paired with 'сидеть'."
+          "note": "Посиди с ним = stay with him. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'сидеть')."
         }
       ],
       "forms": {
@@ -3914,7 +3941,8 @@
           "word": "отсидеться",
           "gloss": "to sit out"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "просто": {
       "lemma": "просто",
@@ -3959,7 +3987,7 @@
       "meanings": [
         {
           "en": "to hide oneself, to be in hiding",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hide (oneself)', paired with 'спрятаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4067,12 +4095,12 @@
       "stress": "пря́тки",
       "pos": "noun",
       "gloss": "hide-and-seek",
-      "gender": "f",
+      "number": "pl",
       "animacy": "inan",
       "meanings": [
         {
           "en": "hide-and-seek",
-          "note": "Declinable feminine noun meaning 'hide-and-seek', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -4086,43 +4114,43 @@
           {
             "cells": [
               "nominative",
-              "прятки",
-              "пряткиы"
+              "—",
+              "прятки"
             ]
           },
           {
             "cells": [
               "genitive",
-              "пряткиа",
-              "пряткиов"
+              "—",
+              "пряток"
             ]
           },
           {
             "cells": [
               "dative",
-              "пряткиу",
-              "пряткиам"
+              "—",
+              "пряткам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "прятки",
-              "пряткиы"
+              "—",
+              "прятки"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "пряткиом",
-              "пряткиами"
+              "—",
+              "прятками"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "пряткие",
-              "пряткиах"
+              "—",
+              "прятках"
             ]
           }
         ]
@@ -4131,11 +4159,11 @@
       "examples": [
         {
           "text": "Давай играть в прятки!",
-          "trans": "Let us play hide-and-seek!"
+          "trans": "Let's play hide-and-seek!"
         },
         {
-          "text": "Давай в прятки!",
-          "trans": "Let us play hide and seek!"
+          "text": "Ага, ты что, в прятки со мной играешь?",
+          "trans": "What, are you playing hide-and-seek with me?"
         }
       ],
       "related": [
@@ -4234,8 +4262,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -4397,7 +4437,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4488,15 +4528,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4510,11 +4550,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -4619,7 +4659,7 @@
       "meanings": [
         {
           "en": "to hide (something)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'прятать'). Used as a perfective (single completed action) verb meaning 'to hide', paired with 'прятать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4726,13 +4766,17 @@
       "lemma": "спускать",
       "stress": "спуска́ть",
       "pos": "verb",
-      "gloss": "to lower, to take off (eyes)",
+      "gloss": "to lower, let down; (глаз не спускать) to keep one's eyes on",
       "aspect": "impf",
       "pair": "спустить",
       "meanings": [
         {
-          "en": "to lower, to take off (eyes)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'пускать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to lower, to take off (eyes)', paired with 'спустить'."
+          "en": "to lower, to let down",
+          "note": ""
+        },
+        {
+          "en": "not take one's eyes off",
+          "note": "глаз не спускать с + gen."
         }
       ],
       "forms": {
@@ -4808,12 +4852,12 @@
       ],
       "examples": [
         {
-          "text": "Глаз с нее не спускай.",
-          "trans": "Do not take your eyes off her."
+          "text": "Глаз с неё не спускай.",
+          "trans": "Don't take your eyes off her."
         },
         {
-          "text": "Да. Спускайтесь вниз, она там стоит.",
-          "trans": "Yes. Go downstairs, it's parked there."
+          "text": "Отлично, теперь спускай его вниз.",
+          "trans": "Great, now lower it down."
         }
       ],
       "related": [
@@ -4972,7 +5016,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5066,7 +5110,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -5230,7 +5274,7 @@
       "meanings": [
         {
           "en": "to fire, to sack",
-          "note": "Уволен = fired (short participle). Used as a perfective (single completed action) verb meaning 'to fire, to dismiss', paired with 'увольнять'."
+          "note": "Уволен = fired (short participle)."
         }
       ],
       "forms": {
@@ -5282,6 +5326,23 @@
                 "уволила",
                 "уволило",
                 "уволили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволь",
+                "увольте"
               ]
             }
           ]
@@ -5362,26 +5423,35 @@
       "meanings": [
         {
           "en": "four",
-          "note": "+ genitive singular: четыре года. Core Russian num meaning 'four' in everyday speech."
+          "note": "к четырём = by four (o'clock)"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Четыре года.",
-          "trans": "Four years."
+          "text": "Леночка, дорогая, жди меня сегодня к четырём.",
+          "trans": "Lenochka, darling, expect me today by four."
         },
         {
-          "text": "У меня четыре фломастера.",
-          "trans": "I have four markers."
-        },
-        {
-          "text": "Я уже четыре года работаю мэром.",
-          "trans": "I've been working as mayor for four years now."
+          "text": "У нас четыре повара.",
+          "trans": "We have four cooks."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "четвёртый",
+          "gloss": "fourth"
+        },
+        {
+          "word": "четырнадцать",
+          "gloss": "fourteen"
+        },
+        {
+          "word": "сорок",
+          "gloss": "forty"
+        }
+      ]
     },
     "что": {
       "lemma": "что",
@@ -5486,11 +5556,11 @@
       "meanings": [
         {
           "en": "chocolate",
-          "note": "In idiom быть в шоколаде. Common masculine noun meaning 'chocolate' in everyday Russian."
+          "note": ""
         },
         {
           "en": "golden, well-off",
-          "note": "In idiom быть в шоколаде. Common masculine noun meaning 'chocolate' in everyday Russian."
+          "note": "In idiom быть в шоколаде."
         }
       ],
       "forms": {

@@ -141,10 +141,10 @@
         {
           "t": "пор",
           "lemma": "пора",
-          "pos": "adv",
+          "pos": "noun",
           "stress": null,
-          "gloss": "time",
-          "gram": "feminine plural genitive"
+          "gloss": "time (до сих пор = still, until now; с каких пор = since when)",
+          "gram": "genitive plural"
         },
         {
           "t": "ничего",
@@ -314,7 +314,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "простых",
@@ -445,7 +445,7 @@
           "lemma": "закрытый",
           "pos": "adj",
           "stress": "закры́та",
-          "gloss": "classified",
+          "gloss": "closed; off-limits",
           "gram": "short form feminine singular"
         }
       ]
@@ -500,7 +500,7 @@
           "pos": "noun",
           "stress": "жене́",
           "gloss": "wife",
-          "gram": "feminine singular, prepositional"
+          "gram": "dative singular, feminine"
         }
       ]
     },
@@ -905,10 +905,10 @@
         {
           "t": "пор",
           "lemma": "пора",
-          "pos": "adv",
+          "pos": "noun",
           "stress": null,
-          "gloss": "time",
-          "gram": "feminine plural genitive"
+          "gloss": "time (до сих пор = still, until now; с каких пор = since when)",
+          "gram": "genitive plural"
         },
         {
           "t": "ничего",
@@ -1078,7 +1078,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "простых",
@@ -1209,7 +1209,7 @@
           "lemma": "закрытый",
           "pos": "adj",
           "stress": "закры́та",
-          "gloss": "classified",
+          "gloss": "closed; off-limits",
           "gram": "short form feminine singular"
         }
       ]
@@ -1264,7 +1264,7 @@
           "pos": "noun",
           "stress": "жене́",
           "gloss": "wife",
-          "gram": "feminine singular, prepositional"
+          "gram": "dative singular, feminine"
         }
       ]
     },
@@ -1669,10 +1669,10 @@
         {
           "t": "пор",
           "lemma": "пора",
-          "pos": "adv",
+          "pos": "noun",
           "stress": null,
-          "gloss": "time",
-          "gram": "feminine plural genitive"
+          "gloss": "time (до сих пор = still, until now; с каких пор = since when)",
+          "gram": "genitive plural"
         },
         {
           "t": "ничего",
@@ -1842,7 +1842,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "простых",
@@ -1973,7 +1973,7 @@
           "lemma": "закрытый",
           "pos": "adj",
           "stress": "закры́та",
-          "gloss": "classified",
+          "gloss": "closed; off-limits",
           "gram": "short form feminine singular"
         }
       ]
@@ -2028,7 +2028,7 @@
           "pos": "noun",
           "stress": "жене́",
           "gloss": "wife",
-          "gram": "feminine singular, prepositional"
+          "gram": "dative singular, feminine"
         }
       ]
     },
@@ -2320,7 +2320,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
+          "note": "+ genitive: 'бояться собак'."
         }
       ],
       "forms": {
@@ -2698,11 +2698,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2742,11 +2742,11 @@
       "meanings": [
         {
           "en": "to date, go out with each other",
-          "note": "Мы встречаемся = we're dating. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to meet; to date, go out', paired with 'встретиться'."
+          "note": "Мы встречаемся = we're dating."
         },
         {
           "en": "to meet up, see each other",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to meet; to date, go out', paired with 'встретиться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2853,13 +2853,12 @@
       "lemma": "выборы",
       "stress": "вы́боры",
       "pos": "noun",
-      "gloss": "election",
-      "gender": "m",
+      "gloss": "election(s)",
       "number": "pl",
       "meanings": [
         {
           "en": "election",
-          "note": "Plural only. Common substantive noun meaning 'election' in everyday Russian."
+          "note": "Plural only."
         }
       ],
       "forms": {
@@ -3033,11 +3032,15 @@
       "pos": "verb",
       "gloss": "to perform, speak publicly",
       "aspect": "pf",
-      "pair": null,
+      "pair": "выступать",
       "meanings": [
         {
-          "en": "to perform on stage, speak publicly",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ступить'). Used as an verbal verb meaning 'to perform, speak publicly'."
+          "en": "to perform, to speak publicly",
+          "note": ""
+        },
+        {
+          "en": "to break out, to appear",
+          "note": "of sweat, tears: пот выступил"
         }
       ],
       "forms": {
@@ -3075,6 +3078,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -3083,10 +3087,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "выступил",
                 "выступила",
                 "выступило",
                 "выступили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выступи",
+                "выступите"
               ]
             }
           ]
@@ -3104,16 +3126,12 @@
       ],
       "related": [
         {
-          "word": "поступить",
-          "gloss": "to enter"
-        },
-        {
           "word": "выступать",
-          "gloss": "to speak"
+          "gloss": "to perform (impf)"
         },
         {
-          "word": "наступить",
-          "gloss": "to come"
+          "word": "выступление",
+          "gloss": "performance"
         }
       ]
     },
@@ -3246,7 +3264,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3282,11 +3300,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3377,15 +3399,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3397,7 +3419,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3529,11 +3551,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3575,7 +3597,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3625,7 +3647,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3710,7 +3732,7 @@
       "meanings": [
         {
           "en": "closed, shut",
-          "note": "Opposite of открытый. Agrees in gender, number, and case with the noun it modifies ('closed')."
+          "note": "Opposite of открытый."
         }
       ],
       "forms": {
@@ -3753,10 +3775,10 @@
           {
             "cells": [
               "accusative",
-              "закрытый",
+              "закрытый / закрытого",
               "закрытую",
               "закрытое",
-              "закрытые"
+              "закрытые / закрытых"
             ]
           },
           {
@@ -3944,42 +3966,42 @@
             "cells": [
               "nominative",
               "информация",
-              "—"
+              "информации"
             ]
           },
           {
             "cells": [
               "genitive",
               "информации",
-              "—"
+              "информаций"
             ]
           },
           {
             "cells": [
               "dative",
               "информации",
-              "—"
+              "информациям"
             ]
           },
           {
             "cells": [
               "accusative",
               "информацию",
-              "—"
+              "информации"
             ]
           },
           {
             "cells": [
               "instrumental",
               "информацией",
-              "—"
+              "информациями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "информации",
-              "—"
+              "информациях"
             ]
           }
         ]
@@ -4018,7 +4040,7 @@
       "meanings": [
         {
           "en": "well-informed, knowledgeable",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('informed, knowledgeable')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4061,10 +4083,10 @@
           {
             "cells": [
               "accusative",
-              "информированный / -ого",
+              "информированный / информированного",
               "информированную",
               "информированное",
-              "информированные / -ых"
+              "информированные / информированных"
             ]
           },
           {
@@ -4119,11 +4141,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4207,8 +4229,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -4360,7 +4382,7 @@
       "meanings": [
         {
           "en": "to write (and finish)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать'). Used as a perfective (single completed action) verb meaning 'to write', paired with 'писать'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать')."
         }
       ],
       "forms": {
@@ -4469,14 +4491,15 @@
       "pos": "noun",
       "gloss": "the people",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "the people, ordinary people",
-          "note": "Colloquial: Народ, привет!. Common masculine noun meaning 'the people' in everyday Russian."
+          "note": "Colloquial: Народ, привет!."
         },
         {
           "en": "a people, nation",
-          "note": "Common masculine noun meaning 'the people' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4697,7 +4720,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4992,7 +5015,7 @@
       "meanings": [
         {
           "en": "organization, company, institution",
-          "note": "International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'organization' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5082,11 +5105,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -5126,11 +5149,11 @@
       "meanings": [
         {
           "en": "to answer, to reply",
-          "note": "+ dative of the person. Used as a perfective (single completed action) verb meaning 'to answer, to reply', paired with 'отвечать'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to answer the phone",
-          "note": "Used as a perfective (single completed action) verb meaning 'to answer, to reply', paired with 'отвечать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5272,7 +5295,7 @@
       "meanings": [
         {
           "en": "PR, public relations",
-          "note": "Common masculine noun meaning 'PR, public relations' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5412,7 +5435,7 @@
       "meanings": [
         {
           "en": "to remember",
-          "note": "To keep in memory. Used as an imperfective (ongoing/repeated action) verb meaning 'to remember'."
+          "note": "To keep in memory."
         }
       ],
       "forms": {
@@ -5517,7 +5540,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -5701,7 +5724,7 @@
       "meanings": [
         {
           "en": "sweat, perspiration",
-          "note": "Common masculine noun meaning 'sweat, perspiration' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5811,7 +5834,7 @@
       "meanings": [
         {
           "en": "correct, proper, accurate",
-          "note": "Qualitative adjective. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('correct, right, proper')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5854,10 +5877,10 @@
           {
             "cells": [
               "accusative",
-              "правильный",
+              "правильный / правильного",
               "правильную",
               "правильное",
-              "правильные"
+              "правильные / правильных"
             ]
           },
           {
@@ -5916,10 +5939,11 @@
       "pos": "noun",
       "gloss": "president",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "president",
-          "note": "Head of a country or a company. Common masculine noun meaning 'president' in everyday Russian."
+          "note": "Head of a country or a company."
         }
       ],
       "forms": {
@@ -5997,6 +6021,7 @@
       "pos": "noun",
       "gloss": "programme",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "programme, plan",
@@ -6004,7 +6029,7 @@
         },
         {
           "en": "program (computer)",
-          "note": "Common feminine noun meaning 'programme' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6084,11 +6109,11 @@
       "meanings": [
         {
           "en": "simple, easy",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": "Простые люди = ordinary people."
         },
         {
           "en": "ordinary, common",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6474,7 +6499,7 @@
       "meanings": [
         {
           "en": "strength, power, force",
-          "note": "colloquial plural силы = engine horsepower"
+          "note": "в силе = still valid"
         },
         {
           "en": "horsepower",
@@ -6560,11 +6585,11 @@
       "meanings": [
         {
           "en": "to intend, plan, get ready to",
-          "note": "+ infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get ready, plan to, gather', paired with 'собираться'."
+          "note": "+ infinitive."
         },
         {
           "en": "to gather, assemble",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get ready, plan to, gather', paired with 'собираться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6672,7 +6697,7 @@
       "meanings": [
         {
           "en": "fear",
-          "note": "Common masculine noun meaning 'fear' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6761,7 +6786,7 @@
       "meanings": [
         {
           "en": "sternly, strictly, severely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6899,7 +6924,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -7287,7 +7312,7 @@
       "meanings": [
         {
           "en": "clearly, distinctly, precisely",
-          "note": "Contains ё, no acute mark. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Contains ё, no acute mark."
         }
       ],
       "forms": null,

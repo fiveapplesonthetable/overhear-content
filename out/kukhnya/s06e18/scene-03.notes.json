@@ -111,7 +111,7 @@
           "lemma": "побыть",
           "pos": "verb",
           "stress": "побу́дет",
-          "gloss": "to stay for a while, to be (briefly)",
+          "gloss": "will stay (for a while)",
           "gram": "3sg.fut"
         },
         {
@@ -404,7 +404,7 @@
           "pos": "noun",
           "stress": "про́бки",
           "gloss": "traffic jam, cork",
-          "gram": "nominative / accusative"
+          "gram": "nominative / accusative plural"
         }
       ]
     },
@@ -480,7 +480,7 @@
           "pos": "noun",
           "stress": "коня́",
           "gloss": "horse; knight (in chess)",
-          "gram": "nominative / accusative"
+          "gram": "genitive / accusative singular, masculine animate"
         },
         {
           "t": "в",
@@ -663,7 +663,7 @@
           "lemma": "побыть",
           "pos": "verb",
           "stress": "побу́дет",
-          "gloss": "to stay for a while, to be (briefly)",
+          "gloss": "will stay (for a while)",
           "gram": "3sg.fut"
         },
         {
@@ -956,7 +956,7 @@
           "pos": "noun",
           "stress": "про́бки",
           "gloss": "traffic jam, cork",
-          "gram": "nominative / accusative"
+          "gram": "nominative / accusative plural"
         }
       ]
     },
@@ -1032,7 +1032,7 @@
           "pos": "noun",
           "stress": "коня́",
           "gloss": "horse; knight (in chess)",
-          "gram": "nominative / accusative"
+          "gram": "genitive / accusative singular, masculine animate"
         },
         {
           "t": "в",
@@ -1215,7 +1215,7 @@
           "lemma": "побыть",
           "pos": "verb",
           "stress": "побу́дет",
-          "gloss": "to stay for a while, to be (briefly)",
+          "gloss": "will stay (for a while)",
           "gram": "3sg.fut"
         },
         {
@@ -1508,7 +1508,7 @@
           "pos": "noun",
           "stress": "про́бки",
           "gloss": "traffic jam, cork",
-          "gram": "nominative / accusative"
+          "gram": "nominative / accusative plural"
         }
       ]
     },
@@ -1584,7 +1584,7 @@
           "pos": "noun",
           "stress": "коня́",
           "gloss": "horse; knight (in chess)",
-          "gram": "nominative / accusative"
+          "gram": "genitive / accusative singular, masculine animate"
         },
         {
           "t": "в",
@@ -1724,7 +1724,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2166,84 +2166,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "второй": {
       "lemma": "второй",
       "stress": "второ́й",
@@ -2252,7 +2174,7 @@
       "meanings": [
         {
           "en": "second",
-          "note": "Ordinal number. Agrees in gender, number, and case with the noun it modifies ('second')."
+          "note": "Ordinal number."
         }
       ],
       "forms": {
@@ -2338,16 +2260,20 @@
       ],
       "related": [
         {
-          "word": "повторить",
-          "gloss": "to repeat"
+          "word": "два",
+          "gloss": "two"
         },
         {
-          "word": "повторять",
-          "gloss": "to repeat"
+          "word": "во-вторых",
+          "gloss": "secondly"
         },
         {
-          "word": "повториться",
-          "gloss": "to recur"
+          "word": "вторник",
+          "gloss": "Tuesday"
+        },
+        {
+          "word": "первый",
+          "gloss": "first"
         }
       ]
     },
@@ -2355,13 +2281,12 @@
       "lemma": "выборы",
       "stress": "вы́боры",
       "pos": "noun",
-      "gloss": "election",
-      "gender": "m",
+      "gloss": "election(s)",
       "number": "pl",
       "meanings": [
         {
           "en": "election",
-          "note": "Plural only. Common substantive noun meaning 'election' in everyday Russian."
+          "note": "Plural only."
         }
       ],
       "forms": {
@@ -2443,7 +2368,7 @@
       "meanings": [
         {
           "en": "to choose, select; to use up completely (quotas, limits)",
-          "note": "+ acc. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to choose, use up', paired with 'выбирать'."
+          "note": "+ acc. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'брать')."
         }
       ],
       "forms": {
@@ -2762,7 +2687,7 @@
         },
         {
           "en": "duty",
-          "note": "Common masculine noun meaning 'debt; duty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2811,7 +2736,7 @@
           {
             "cells": [
               "prepositional",
-              "долге (в долгу)",
+              "долге",
               "долгах"
             ]
           }
@@ -3090,6 +3015,7 @@
       "pos": "noun",
       "gloss": "candidate",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "candidate (in an election or for a job)",
@@ -3179,11 +3105,15 @@
       "meanings": [
         {
           "en": "bank card",
-          "note": "На карту = onto a bank card. Common feminine noun meaning 'bank card; map; playing card' in everyday Russian."
+          "note": "На карту = onto a bank card."
         },
         {
           "en": "map",
-          "note": "Common feminine noun meaning 'bank card; map; playing card' in everyday Russian."
+          "note": ""
+        },
+        {
+          "en": "playing card",
+          "note": "играть в карты = to play cards"
         }
       ],
       "forms": {
@@ -3266,14 +3196,15 @@
       "pos": "noun",
       "gloss": "horse; knight (in chess)",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "horse, steed",
-          "note": "Common masculine noun meaning 'horse; knight (in chess)' in everyday Russian."
+          "note": ""
         },
         {
           "en": "knight (chess piece)",
-          "note": "Common masculine noun meaning 'horse; knight (in chess)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3435,7 +3366,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3467,14 +3398,15 @@
       "pos": "noun",
       "gloss": "the people",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "the people, ordinary people",
-          "note": "Colloquial: Народ, привет!. Common masculine noun meaning 'the people' in everyday Russian."
+          "note": "Colloquial: Народ, привет!."
         },
         {
           "en": "a people, nation",
-          "note": "Common masculine noun meaning 'the people' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3545,115 +3477,6 @@
         }
       ],
       "related": []
-    },
-    "начинать": {
-      "lemma": "начинать",
-      "stress": "начина́ть",
-      "pos": "verb",
-      "gloss": "to begin, to start",
-      "aspect": "impf",
-      "pair": "начать",
-      "meanings": [
-        {
-          "en": "to begin, to start",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "начинаю",
-              "начинаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "начинаешь",
-              "начинаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "начинает",
-              "начинают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "начинал",
-                "начинала",
-                "начинало",
-                "начинали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "начинай",
-                "начинайте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Когда начинать?",
-          "trans": "When do I start?"
-        },
-        {
-          "text": "Урок начинается в девять.",
-          "trans": "The lesson starts at nine."
-        },
-        {
-          "text": "Аркаш, ну что скажешь? Когда начинать?",
-          "trans": "Arkasha, so what do you say? When do I start?"
-        }
-      ],
-      "related": [
-        {
-          "word": "начать",
-          "gloss": "to begin"
-        },
-        {
-          "word": "начинаться",
-          "gloss": "to begin"
-        }
-      ]
     },
     "наш": {
       "lemma": "наш",
@@ -3804,7 +3627,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -3889,8 +3712,8 @@
       "pair": "оканчивать",
       "meanings": [
         {
-          "en": "finished, over, concluded",
-          "note": "short-form passive participle окончен: разговор окончен"
+          "en": "to finish, complete; to graduate from",
+          "note": "short passive participle окончен = over: разговор окончен"
         }
       ],
       "forms": {
@@ -3945,6 +3768,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "окончи",
+                "окончите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3963,8 +3803,16 @@
       ],
       "related": [
         {
-          "word": "окончательно",
-          "gloss": "finally"
+          "word": "оканчивать",
+          "gloss": "to finish (impf)"
+        },
+        {
+          "word": "окончание",
+          "gloss": "ending, completion"
+        },
+        {
+          "word": "закончить",
+          "gloss": "to finish"
         }
       ]
     },
@@ -3978,11 +3826,11 @@
       "meanings": [
         {
           "en": "to give away, to hand over",
-          "note": "Отдать + dative of the person. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to give (away), to hand over', paired with 'отдавать'."
+          "note": "Отдать + dative of the person. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'дать')."
         },
         {
           "en": "to give back",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to give (away), to hand over', paired with 'отдавать'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'дать')."
         }
       ],
       "forms": {
@@ -4093,7 +3941,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -4184,8 +4032,6 @@
       "stress": "побы́ть",
       "pos": "verb",
       "gloss": "to stay for a while, to be (briefly)",
-      "aspect": "pf",
-      "pair": "быть",
       "meanings": [
         {
           "en": "to be, to spend a little time",
@@ -4282,7 +4128,8 @@
           "word": "быть",
           "gloss": "to be"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "повезти": {
       "lemma": "повезти",
@@ -4298,7 +4145,7 @@
         },
         {
           "en": "to take, to drive (someone somewhere)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'везти'). Used as a perfective (single completed action) verb meaning 'to be lucky (impersonal); to take (by vehicle)', paired with 'везти'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'везти')."
         }
       ],
       "forms": {
@@ -4350,6 +4197,23 @@
                 "повезла",
                 "повезло",
                 "повезли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "повези",
+                "повезите"
               ]
             }
           ]
@@ -4427,11 +4291,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -4542,7 +4406,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4573,7 +4437,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4750,11 +4614,11 @@
       "meanings": [
         {
           "en": "to spend (time)",
-          "note": "Провести время. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to spend (time); to lead', paired with 'проводить'."
+          "note": "Провести время. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести')."
         },
         {
           "en": "to lead, to take",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to spend (time); to lead', paired with 'проводить'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести')."
         }
       ],
       "forms": {
@@ -4809,6 +4673,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "проведи",
+                "проведите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4837,44 +4718,6 @@
         {
           "word": "вести",
           "gloss": "to lead"
-        }
-      ]
-    },
-    "прямо": {
-      "lemma": "прямо",
-      "stress": "пря́мо",
-      "pos": "adv",
-      "gloss": "straight, right, just",
-      "meanings": [
-        {
-          "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Прямо так, да?",
-          "trans": "Just like that?"
-        },
-        {
-          "text": "Идите прямо по этой улице.",
-          "trans": "Go straight along this street."
-        },
-        {
-          "text": "В смысле, Виктор Степанович? Прямо так, да?",
-          "trans": "What do you mean, Viktor Stepanovich? Just like that?"
-        }
-      ],
-      "related": [
-        {
-          "word": "прямой",
-          "gloss": "straight"
         }
       ]
     },
@@ -4920,114 +4763,16 @@
         }
       ]
     },
-    "работа": {
-      "lemma": "работа",
-      "stress": "рабо́та",
-      "pos": "noun",
-      "gloss": "work, job",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "work",
-          "note": "'на работе' = at work. Common feminine noun meaning 'work, job' in everyday Russian."
-        },
-        {
-          "en": "job",
-          "note": "Common feminine noun meaning 'work, job' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "работа",
-              "работы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "работы",
-              "работ"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "работе",
-              "работам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "работу",
-              "работы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "работой",
-              "работами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "работе",
-              "работах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я иду на работу.",
-          "trans": "I'm going to work."
-        },
-        {
-          "text": "Работы очень много.",
-          "trans": "There's a lot of work."
-        },
-        {
-          "text": "Я на работе.",
-          "trans": "I'm at work."
-        }
-      ],
-      "related": [
-        {
-          "word": "работать",
-          "gloss": "to work"
-        },
-        {
-          "word": "поработать",
-          "gloss": "to work for a while"
-        },
-        {
-          "word": "рабочий",
-          "gloss": "working"
-        }
-      ]
-    },
     "регистрация": {
       "lemma": "регистрация",
-      "stress": "регистраци́я",
+      "stress": "регистра́ция",
       "pos": "noun",
       "gloss": "registration",
       "gender": "f",
       "meanings": [
         {
           "en": "registration",
-          "note": "International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'registration' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5086,21 +4831,21 @@
       "examples": [
         {
           "text": "Всё, регистрация кандидатов уже окончена.",
-          "trans": "That is it, candidate registration is already closed."
+          "trans": "That's it, candidate registration is already closed."
         },
         {
-          "text": "На кухне отеля всегда есть регистрация.",
-          "trans": "In the hotel kitchen there is always registration."
+          "text": "Регистрация на рейс начинается за два часа.",
+          "trans": "Check-in for the flight starts two hours before."
         }
       ],
       "related": [
         {
-          "word": "без регистраци",
-          "gloss": "without registration"
+          "word": "зарегистрироваться",
+          "gloss": "to register"
         },
         {
-          "word": "наш регистрация",
-          "gloss": "our registration"
+          "word": "регистрировать",
+          "gloss": "to register"
         }
       ]
     },
@@ -5186,7 +4931,7 @@
       "meanings": [
         {
           "en": "to argue, to disagree",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to argue, to dispute', paired with 'поспорить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5289,11 +5034,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -5336,10 +5081,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -5362,29 +5107,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",
@@ -5425,16 +5148,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -5569,11 +5288,11 @@
       "meanings": [
         {
           "en": "to arrange, organize",
-          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         },
         {
           "en": "to cause",
-          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         }
       ],
       "forms": {
@@ -5664,15 +5383,15 @@
       "related": [
         {
           "word": "устраивать",
-          "gloss": "to organize"
+          "gloss": "to organize (impf)"
         },
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "устроиться",
+          "gloss": "to get a job, settle in"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
+          "word": "скандал",
+          "gloss": "scene, row"
         }
       ]
     },
@@ -5684,7 +5403,7 @@
       "meanings": [
         {
           "en": "honest",
-          "note": "The т is not pronounced: [чесный]. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('honest')."
+          "note": "The т is not pronounced: [чесный]."
         }
       ],
       "forms": {
@@ -5753,29 +5472,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "честен",
-                "честна",
-                "честно",
-                "честны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Он честный человек.",

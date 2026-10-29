@@ -55,10 +55,10 @@
         {
           "t": "Здорово,",
           "lemma": "здорово",
-          "pos": "adv",
-          "stress": "здо́рово",
-          "gloss": "great, cool",
-          "gram": "colloquial adverb"
+          "pos": "interj",
+          "stress": "здоро́во",
+          "gloss": "hi, hey",
+          "gram": "interjection, friendly greeting"
         },
         {
           "t": "Виктор,",
@@ -127,8 +127,8 @@
           "lemma": "зарплата",
           "pos": "noun",
           "stress": "зарпла́ты",
-          "gloss": "salaries",
-          "gram": "feminine inanimate, nominative plural"
+          "gloss": "salary / salaries",
+          "gram": "feminine genitive singular / nominative-accusative plural"
         },
         {
           "t": "уже",
@@ -143,7 +143,7 @@
           "lemma": "выдать",
           "pos": "verb",
           "stress": "вы́дал",
-          "gloss": "gave out",
+          "gloss": "gave out; gave away (betrayed)",
           "gram": "past masculine singular"
         }
       ]
@@ -595,8 +595,8 @@
           "lemma": "копейка",
           "pos": "noun",
           "stress": "копе́йки",
-          "gloss": "kopeck, penny",
-          "gram": "genitive singular, feminine"
+          "gloss": "kopeck(s), penny",
+          "gram": "genitive singular / accusative plural, feminine"
         },
         {
           "t": "ты",
@@ -723,10 +723,10 @@
         {
           "t": "Здорово,",
           "lemma": "здорово",
-          "pos": "adv",
-          "stress": "здо́рово",
-          "gloss": "great, cool",
-          "gram": "colloquial adverb"
+          "pos": "interj",
+          "stress": "здоро́во",
+          "gloss": "hi, hey",
+          "gram": "interjection, friendly greeting"
         },
         {
           "t": "Виктор,",
@@ -795,8 +795,8 @@
           "lemma": "зарплата",
           "pos": "noun",
           "stress": "зарпла́ты",
-          "gloss": "salaries",
-          "gram": "feminine inanimate, nominative plural"
+          "gloss": "salary / salaries",
+          "gram": "feminine genitive singular / nominative-accusative plural"
         },
         {
           "t": "уже",
@@ -811,7 +811,7 @@
           "lemma": "выдать",
           "pos": "verb",
           "stress": "вы́дал",
-          "gloss": "gave out",
+          "gloss": "gave out; gave away (betrayed)",
           "gram": "past masculine singular"
         }
       ]
@@ -1263,8 +1263,8 @@
           "lemma": "копейка",
           "pos": "noun",
           "stress": "копе́йки",
-          "gloss": "kopeck, penny",
-          "gram": "genitive singular, feminine"
+          "gloss": "kopeck(s), penny",
+          "gram": "genitive singular / accusative plural, feminine"
         },
         {
           "t": "ты",
@@ -1391,10 +1391,10 @@
         {
           "t": "Здорово,",
           "lemma": "здорово",
-          "pos": "adv",
-          "stress": "здо́рово",
-          "gloss": "great, cool",
-          "gram": "colloquial adverb"
+          "pos": "interj",
+          "stress": "здоро́во",
+          "gloss": "hi, hey",
+          "gram": "interjection, friendly greeting"
         },
         {
           "t": "Виктор,",
@@ -1463,8 +1463,8 @@
           "lemma": "зарплата",
           "pos": "noun",
           "stress": "зарпла́ты",
-          "gloss": "salaries",
-          "gram": "feminine inanimate, nominative plural"
+          "gloss": "salary / salaries",
+          "gram": "feminine genitive singular / nominative-accusative plural"
         },
         {
           "t": "уже",
@@ -1479,7 +1479,7 @@
           "lemma": "выдать",
           "pos": "verb",
           "stress": "вы́дал",
-          "gloss": "gave out",
+          "gloss": "gave out; gave away (betrayed)",
           "gram": "past masculine singular"
         }
       ]
@@ -1931,8 +1931,8 @@
           "lemma": "копейка",
           "pos": "noun",
           "stress": "копе́йки",
-          "gloss": "kopeck, penny",
-          "gram": "genitive singular, feminine"
+          "gloss": "kopeck(s), penny",
+          "gram": "genitive singular / accusative plural, feminine"
         },
         {
           "t": "ты",
@@ -2073,7 +2073,7 @@
       "meanings": [
         {
           "en": "advance, advance payment",
-          "note": "Money paid before the work is done. Common masculine noun meaning 'advance (payment)' in everyday Russian."
+          "note": "Money paid before the work is done."
         }
       ],
       "forms": {
@@ -2143,12 +2143,7 @@
           "trans": "Stepan Gennadyevich, I did pay the advance!"
         }
       ],
-      "related": [
-        {
-          "word": "авантюра",
-          "gloss": "adventure"
-        }
-      ]
+      "related": []
     },
     "быть": {
       "lemma": "быть",
@@ -2405,11 +2400,15 @@
       "lemma": "верный",
       "stress": "ве́рный",
       "pos": "adj",
-      "gloss": "faithful, true, loyal",
+      "gloss": "faithful, loyal; right, sure",
       "meanings": [
         {
           "en": "faithful, true, loyal",
           "note": "steadfast in allegiance or affection"
+        },
+        {
+          "en": "right, correct; sure, reliable",
+          "note": "на верном пути = on the right track; верное средство = a sure remedy"
         }
       ],
       "forms": {
@@ -2452,10 +2451,10 @@
           {
             "cells": [
               "accusative",
-              "верного",
+              "верный / верного",
               "верную",
               "верное",
-              "верных"
+              "верные / верных"
             ]
           },
           {
@@ -2629,7 +2628,7 @@
       "meanings": [
         {
           "en": "to issue, give out, deliver",
-          "note": "Distribute or hand over. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to issue, give out, hand out', paired with 'выдавать'."
+          "note": "Distribute or hand over. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'дать')."
         }
       ],
       "forms": {
@@ -2744,7 +2743,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2780,7 +2779,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2871,11 +2870,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2917,7 +2916,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3002,11 +3000,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3044,7 +3042,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -3135,7 +3133,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3147,11 +3149,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3313,7 +3315,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -3349,11 +3351,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "A bell or phone."
         }
       ],
       "forms": {
@@ -3499,12 +3501,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3559,6 +3559,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3578,17 +3595,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3765,42 +3783,42 @@
             "cells": [
               "nominative",
               "информация",
-              "—"
+              "информации"
             ]
           },
           {
             "cells": [
               "genitive",
               "информации",
-              "—"
+              "информаций"
             ]
           },
           {
             "cells": [
               "dative",
               "информации",
-              "—"
+              "информациям"
             ]
           },
           {
             "cells": [
               "accusative",
               "информацию",
-              "—"
+              "информации"
             ]
           },
           {
             "cells": [
               "instrumental",
               "информацией",
-              "—"
+              "информациями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "информации",
-              "—"
+              "информациях"
             ]
           }
         ]
@@ -3840,11 +3858,11 @@
       "meanings": [
         {
           "en": "kopeck, one hundredth of a rouble",
-          "note": "Common feminine noun meaning 'kopeck' in everyday Russian."
+          "note": ""
         },
         {
           "en": "ни копейки = not a penny",
-          "note": "Common feminine noun meaning 'kopeck' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3924,11 +3942,11 @@
       "meanings": [
         {
           "en": "favourite, best-liked",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         },
         {
           "en": "beloved, darling",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3971,10 +3989,10 @@
           {
             "cells": [
               "accusative",
-              "любимый/любимого",
+              "любимый / любимого",
               "любимую",
               "любимое",
-              "любимые/любимых"
+              "любимые / любимых"
             ]
           },
           {
@@ -4036,7 +4054,7 @@
       "meanings": [
         {
           "en": "match, game (sports)",
-          "note": "Common masculine noun meaning 'match, game' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4196,7 +4214,7 @@
       "meanings": [
         {
           "en": "small, not large, modest",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой'). Agrees in gender, number, and case with the noun it modifies ('small, modest')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой')."
         }
       ],
       "forms": {
@@ -4239,10 +4257,10 @@
           {
             "cells": [
               "accusative",
-              "небольшой",
+              "небольшой / небольшого",
               "небольшую",
               "небольшое",
-              "небольшие"
+              "небольшие / небольших"
             ]
           },
           {
@@ -4303,7 +4321,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4410,29 +4428,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -4504,7 +4500,7 @@
       "meanings": [
         {
           "en": "dangerous, hazardous",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('dangerous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4547,10 +4543,10 @@
           {
             "cells": [
               "accusative",
-              "опасный",
+              "опасный / опасного",
               "опасную",
               "опасное",
-              "опасные"
+              "опасные / опасных"
             ]
           },
           {
@@ -4611,7 +4607,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -4646,7 +4642,7 @@
         },
         {
           "en": "to feel sorry for",
-          "note": "+ accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалеть'). Used as a perfective (single completed action) verb meaning 'to regret; to feel sorry', paired with 'жалеть'."
+          "note": "+ accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалеть')."
         }
       ],
       "forms": {
@@ -4784,7 +4780,7 @@
       "meanings": [
         {
           "en": "to get, to receive",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get, to receive', paired with 'получать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4927,7 +4923,7 @@
       "meanings": [
         {
           "en": "sport, sports",
-          "note": "Common masculine noun meaning 'sport, sports' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5017,7 +5013,7 @@
       "meanings": [
         {
           "en": "bet, stake (in gambling)",
-          "note": "Сделать ставку = to place a bet. Common feminine noun meaning 'bet, stake' in everyday Russian."
+          "note": "Сделать ставку = to place a bet."
         }
       ],
       "forms": {
@@ -5396,7 +5392,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {
@@ -5476,7 +5472,7 @@
       "meanings": [
         {
           "en": "football, soccer (related to)",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'football' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -5581,7 +5577,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5633,6 +5629,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

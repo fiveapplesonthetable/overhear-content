@@ -169,10 +169,10 @@
         {
           "t": "Здравствуйте!",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -545,10 +545,10 @@
         {
           "t": "Здравствуйте!",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -921,10 +921,10 @@
         {
           "t": "Здравствуйте!",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -1200,11 +1200,11 @@
       "lemma": "апельсиновый",
       "stress": "апельси́новый",
       "pos": "adj",
-      "gloss": "orange (fruit/colour)",
+      "gloss": "orange (made of oranges)",
       "meanings": [
         {
-          "en": "orange (fruit/colour)",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('orange (fruit/colour)')."
+          "en": "orange, made from oranges",
+          "note": "апельсиновый сок = orange juice"
         }
       ],
       "forms": {
@@ -1247,10 +1247,10 @@
           {
             "cells": [
               "accusative",
-              "апельсиновый",
+              "апельсиновый / апельсинового",
               "апельсиновую",
               "апельсиновое",
-              "апельсиновые"
+              "апельсиновые / апельсиновых"
             ]
           },
           {
@@ -1276,12 +1276,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это апельсиновый.",
-          "trans": "This is orange."
-        },
-        {
           "text": "Сделай мне свежий апельсиновый сок.",
           "trans": "Make me some fresh orange juice."
+        },
+        {
+          "text": "Сок апельсиновый мне быстро в бокал налей.",
+          "trans": "Quickly pour me some orange juice in a glass."
         }
       ],
       "related": [
@@ -1300,7 +1300,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1339,7 +1339,7 @@
       "meanings": [
         {
           "en": "water",
-          "note": "Common feminine noun meaning 'water' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1411,86 +1411,12 @@
       ],
       "related": [
         {
+          "word": "водичка",
+          "gloss": "water (affectionate)"
+        },
+        {
           "word": "водный",
-          "gloss": "related to water (adj.)"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
+          "gloss": "water (adj.)"
         }
       ]
     },
@@ -1585,7 +1511,7 @@
       "meanings": [
         {
           "en": "gas, carbonation",
-          "note": "Declinable masculine noun meaning 'gas', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -1657,25 +1583,25 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "газированный",
+          "gloss": "carbonated, sparkling"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "газовый",
+          "gloss": "gas (adj.)"
         }
       ]
     },
     "гратен": {
       "lemma": "гратен",
-      "stress": "гра́тен",
+      "stress": "грате́н",
       "pos": "noun",
       "gloss": "gratin",
       "gender": "m",
       "meanings": [
         {
           "en": "gratin",
-          "note": "Common masculine noun meaning 'gratin' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1734,21 +1660,21 @@
       "examples": [
         {
           "text": "Гратен, пожалуйста. А мне кролика.",
-          "trans": "Gratin, please. And rabbit for me."
+          "trans": "The gratin, please. And the rabbit for me."
         },
         {
-          "text": "На кухне ресторана всегда есть гратен.",
-          "trans": "In the restaurant kitchen there is always gratin."
+          "text": "Ладно, тогда пусть он приготовит мне гратен и перепёлку.",
+          "trans": "Fine, then let him make me the gratin and the quail."
         }
       ],
       "related": [
         {
-          "word": "без грате",
-          "gloss": "without gratin"
+          "word": "запеканка",
+          "gloss": "bake, casserole"
         },
         {
-          "word": "наш гратен",
-          "gloss": "our gratin"
+          "word": "сыр",
+          "gloss": "cheese"
         }
       ]
     },
@@ -1760,11 +1686,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1804,7 +1730,7 @@
       "meanings": [
         {
           "en": "to be mistaken, to be under a delusion, to err",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'блуждаться'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to be mistaken'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
+          "note": "Stem 'блуждать' (to wander); заблуждаться = to wander from the truth."
         }
       ],
       "forms": {
@@ -1859,6 +1785,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "заблуждайся",
+                "заблуждайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1873,12 +1816,16 @@
       ],
       "related": [
         {
-          "word": "делать",
-          "gloss": "to do, make"
+          "word": "заблуждение",
+          "gloss": "misconception, delusion"
         },
         {
-          "word": "время",
-          "gloss": "time"
+          "word": "ошибаться",
+          "gloss": "to be mistaken"
+        },
+        {
+          "word": "блуждать",
+          "gloss": "to wander"
         }
       ]
     },
@@ -1930,7 +1877,7 @@
       "meanings": [
         {
           "en": "to write down, to note",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to write down, to note', paired with 'записать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2039,7 +1986,7 @@
       "meanings": [
         {
           "en": "to remember, to memorise",
-          "note": "To fix something in memory. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'помнить'). Used as a perfective (single completed action) verb meaning 'to remember, to memorise', paired with 'запоминать'."
+          "note": "To fix something in memory. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'помнить')."
         }
       ],
       "forms": {
@@ -2141,70 +2088,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -2281,7 +2175,7 @@
       "meanings": [
         {
           "en": "beauty",
-          "note": "Common feminine noun meaning 'beauty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2371,7 +2265,7 @@
       "meanings": [
         {
           "en": "rabbit",
-          "note": "Common masculine noun meaning 'rabbit' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2406,8 +2300,8 @@
           {
             "cells": [
               "accusative",
-              "кролик",
-              "кролики"
+              "кролика",
+              "кроликов"
             ]
           },
           {
@@ -2447,7 +2341,7 @@
       "meanings": [
         {
           "en": "it is easy; easily",
-          "note": "Impersonal predicate or adverb. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Impersonal predicate or adverb."
         }
       ],
       "forms": null,
@@ -2610,7 +2504,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -2690,7 +2584,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -2846,7 +2740,7 @@
       "meanings": [
         {
           "en": "earlier, before, formerly",
-          "note": "Comparative of рано. Core Russian adv meaning 'earlier, previously, used to' in everyday speech."
+          "note": "Comparative of рано."
         }
       ],
       "forms": null,
@@ -2881,7 +2775,7 @@
       "meanings": [
         {
           "en": "salad dish",
-          "note": "Common masculine noun meaning 'salad' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2961,7 +2855,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -3003,7 +2897,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3032,7 +2926,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -3067,7 +2961,7 @@
       "meanings": [
         {
           "en": "fresh juice",
-          "note": "Common masculine noun meaning 'fresh juice' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3126,21 +3020,21 @@
       "examples": [
         {
           "text": "И апельсиновый фреш.",
-          "trans": "And fresh orange juice."
+          "trans": "And a fresh orange juice."
         },
         {
-          "text": "На кухне ресторана всегда есть фреш.",
-          "trans": "In the restaurant kitchen there is always fresh juice."
+          "text": "Мне, пожалуйста, морковный фреш.",
+          "trans": "A fresh carrot juice for me, please."
         }
       ],
       "related": [
         {
-          "word": "без фре",
-          "gloss": "without fresh juice"
+          "word": "сок",
+          "gloss": "juice"
         },
         {
-          "word": "наш фреш",
-          "gloss": "our fresh juice"
+          "word": "свежевыжатый",
+          "gloss": "freshly squeezed"
         }
       ]
     },

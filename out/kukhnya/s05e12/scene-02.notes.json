@@ -9,7 +9,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -190,7 +190,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "часа",
@@ -515,7 +515,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -545,7 +545,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -726,7 +726,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "часа",
@@ -1051,7 +1051,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1081,7 +1081,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1262,7 +1262,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "часа",
@@ -1587,7 +1587,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1726,11 +1726,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1769,7 +1769,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -1928,49 +1928,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -1981,11 +1938,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2076,15 +2037,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2096,11 +2057,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2140,7 +2101,7 @@
       "meanings": [
         {
           "en": "to reach, arrive at by vehicle",
-          "note": "Intransitive perfective verb. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to reach, arrive', paired with 'доезжать'."
+          "note": "Intransitive perfective verb. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -2195,23 +2156,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "доезжай",
-                "доезжайте"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -2251,7 +2195,7 @@
       "meanings": [
         {
           "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
+          "note": "Location; compare домой = homeward."
         }
       ],
       "forms": null,
@@ -2280,7 +2224,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -2309,11 +2253,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2504,11 +2448,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "A bell or phone."
         }
       ],
       "forms": {
@@ -2650,12 +2594,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2710,6 +2652,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2729,17 +2688,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "идти": {
       "lemma": "идти",
@@ -2860,11 +2820,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2944,12 +2904,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2975,7 +2935,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2997,7 +2957,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3009,7 +2973,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3043,7 +3007,7 @@
       "meanings": [
         {
           "en": "any",
-          "note": "В любой момент = at any moment. Agrees in gender, number, and case with the noun it modifies ('any')."
+          "note": "В любой момент = at any moment."
         }
       ],
       "forms": {
@@ -3217,14 +3181,14 @@
     },
     "матрас": {
       "lemma": "матрас",
-      "stress": "ма́трас",
+      "stress": "матра́с",
       "pos": "noun",
       "gloss": "mattress",
       "gender": "m",
       "meanings": [
         {
           "en": "mattress",
-          "note": "Common masculine noun meaning 'mattress' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3283,21 +3247,21 @@
       "examples": [
         {
           "text": "Оставайся! Вот матрас.",
-          "trans": "Stay! Here is a mattress."
+          "trans": "Stay! Here's a mattress."
         },
         {
-          "text": "На кухне отеля всегда есть матрас.",
-          "trans": "In the hotel kitchen there is always mattress."
+          "text": "Именно такой матрас я купил своей дочери.",
+          "trans": "That's exactly the mattress I bought my daughter."
         }
       ],
       "related": [
         {
-          "word": "без матра",
-          "gloss": "without mattress"
+          "word": "кровать",
+          "gloss": "bed"
         },
         {
-          "word": "наш матрас",
-          "gloss": "our mattress"
+          "word": "подушка",
+          "gloss": "pillow"
         }
       ]
     },
@@ -3351,7 +3315,7 @@
       "meanings": [
         {
           "en": "inaccessible, unapproachable",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'доступный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('inaccessible, unapproachable')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'доступный')."
         }
       ],
       "forms": {
@@ -3394,10 +3358,10 @@
           {
             "cells": [
               "accusative",
-              "недоступный",
+              "недоступный / недоступного",
               "недоступную",
               "недоступное",
-              "недоступные"
+              "недоступные / недоступных"
             ]
           },
           {
@@ -3433,12 +3397,16 @@
       ],
       "related": [
         {
-          "word": "удостоверение",
-          "gloss": "identity card"
+          "word": "доступный",
+          "gloss": "accessible, available"
         },
         {
-          "word": "недостаточно",
-          "gloss": "not enough"
+          "word": "доступ",
+          "gloss": "access"
+        },
+        {
+          "word": "недоступно",
+          "gloss": "inaccessibly; it is unavailable"
         }
       ]
     },
@@ -3575,7 +3543,7 @@
       "meanings": [
         {
           "en": "to stay, to remain",
-          "note": "Остаётся у нас = stays with us. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to stay, to remain', paired with 'остаться'."
+          "note": "Остаётся у нас = stays with us."
         }
       ],
       "forms": {
@@ -3682,13 +3650,13 @@
       "lemma": "переночевать",
       "stress": "переночева́ть",
       "pos": "verb",
-      "gloss": "spent the night",
+      "gloss": "to spend the night, stay overnight",
       "aspect": "pf",
       "pair": null,
       "meanings": [
         {
-          "en": "spent the night",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'ночевать'). Used as a perfective (single completed action) verb meaning 'spent the night'."
+          "en": "to spend the night, stay overnight",
+          "note": ""
         }
       ],
       "forms": {
@@ -3702,22 +3670,22 @@
           {
             "cells": [
               "1st",
-              "переночюю",
-              "переночюем"
+              "переночую",
+              "переночуем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "переночюешь",
-              "переночюете"
+              "переночуешь",
+              "переночуете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "переночюет",
-              "переночюют"
+              "переночует",
+              "переночуют"
             ]
           }
         ]
@@ -3743,31 +3711,57 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "переночуй",
+                "переночуйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Я переночевал у тебя и побежал устраиваться на работу.",
-          "trans": "I spent the night at your place and ran off to apply for a job."
+          "trans": "I spent the night at your place and ran off to get a job."
         },
         {
-          "text": "Надо всё сделать и переночевать вовремя.",
-          "trans": "We need to do everything and spent the night on time."
+          "text": "Можно я сегодня у вас переночую?",
+          "trans": "Can I stay the night at your place tonight?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "ночевать",
+          "gloss": "to spend the night"
+        },
+        {
+          "word": "ночь",
+          "gloss": "night"
+        }
+      ]
     },
     "побеспокоить": {
       "lemma": "побеспокоить",
       "stress": "побеспоко́ить",
       "pos": "verb",
-      "gloss": "disturbed, bothered",
+      "gloss": "to disturb, to bother",
       "aspect": "pf",
-      "pair": null,
+      "pair": "беспокоить",
       "meanings": [
         {
-          "en": "disturbed, bothered",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'беспокоить'). Used as a perfective (single completed action) verb meaning 'disturbed, bothered'."
+          "en": "to disturb, to bother",
+          "note": "Извините, что побеспокоил = sorry to bother you"
         }
       ],
       "forms": {
@@ -3822,6 +3816,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "побеспокой",
+                "побеспокойте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3830,18 +3841,18 @@
           "trans": "Excuse us for disturbing you."
         },
         {
-          "text": "Надо всё сделать и побеспокоить вовремя.",
-          "trans": "We need to do everything and disturbed on time."
+          "text": "Спасибо. Извини, что побеспокоила.",
+          "trans": "Thanks. Sorry to bother you."
         }
       ],
       "related": [
         {
           "word": "беспокоить",
-          "gloss": "to disturbed (base verb)"
+          "gloss": "to disturb, to worry"
         },
         {
-          "word": "не побеспокоить",
-          "gloss": "not to disturbed (negated infinitive)"
+          "word": "беспокойство",
+          "gloss": "worry, trouble"
         }
       ]
     },
@@ -3952,11 +3963,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4076,8 +4087,12 @@
       ],
       "related": [
         {
-          "word": "очень послезавтра",
-          "gloss": "intensified / related adverb (the day after tomorrow)"
+          "word": "завтра",
+          "gloss": "tomorrow"
+        },
+        {
+          "word": "позавчера",
+          "gloss": "the day before yesterday"
         }
       ]
     },
@@ -4296,12 +4311,16 @@
       "lemma": "развод",
       "stress": "разво́д",
       "pos": "noun",
-      "gloss": "divorce, separation",
+      "gloss": "divorce; scam (slang)",
       "gender": "m",
       "meanings": [
         {
           "en": "divorce, separation",
           "note": "подать на развод = to file for divorce"
+        },
+        {
+          "en": "scam, con (slang)",
+          "note": "Это развод! = It's a scam!"
         }
       ],
       "forms": {
@@ -4381,7 +4400,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4485,11 +4504,11 @@
       "meanings": [
         {
           "en": "sister",
-          "note": "Медсестра; also медицинская сестра. Common feminine noun meaning 'sister' in everyday Russian."
+          "note": "Медсестра; also медицинская сестра."
         },
         {
           "en": "nurse",
-          "note": "Медсестра; also медицинская сестра. Common feminine noun meaning 'sister' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4564,67 +4583,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4753,7 +4720,7 @@
       "meanings": [
         {
           "en": "scary, frightful",
-          "note": "Causing fear or feeling frightened. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Causing fear or feeling frightened."
         }
       ],
       "forms": null,
@@ -4829,7 +4796,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -4859,7 +4826,7 @@
       "meanings": [
         {
           "en": "canned stewed meat",
-          "note": "Common feminine noun meaning 'canned stewed meat' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4881,7 +4848,7 @@
             "cells": [
               "genitive",
               "тушёнки",
-              "тушёнк"
+              "тушёнок"
             ]
           },
           {
@@ -4931,12 +4898,12 @@
       ],
       "related": [
         {
-          "word": "без тушёнк",
-          "gloss": "without canned stewed meat"
+          "word": "тушить",
+          "gloss": "to stew"
         },
         {
-          "word": "наш тушёнка",
-          "gloss": "our canned stewed meat"
+          "word": "консервы",
+          "gloss": "canned food"
         }
       ]
     },
@@ -5172,7 +5139,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

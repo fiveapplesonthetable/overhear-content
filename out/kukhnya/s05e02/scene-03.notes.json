@@ -182,7 +182,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         },
         {
           "t": "минут",
@@ -281,7 +281,7 @@
           "lemma": "сообщить",
           "pos": "verb",
           "stress": "сообщи́ли",
-          "gloss": "to inform, report",
+          "gloss": "told, informed",
           "gram": "past tense, plural"
         },
         {
@@ -297,7 +297,7 @@
           "lemma": "новость",
           "pos": "noun",
           "stress": "но́вость",
-          "gloss": "the news",
+          "gloss": "piece of news, news",
           "gram": "feminine singular accusative"
         }
       ]
@@ -533,7 +533,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -742,7 +742,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         },
         {
           "t": "минут",
@@ -841,7 +841,7 @@
           "lemma": "сообщить",
           "pos": "verb",
           "stress": "сообщи́ли",
-          "gloss": "to inform, report",
+          "gloss": "told, informed",
           "gram": "past tense, plural"
         },
         {
@@ -857,7 +857,7 @@
           "lemma": "новость",
           "pos": "noun",
           "stress": "но́вость",
-          "gloss": "the news",
+          "gloss": "piece of news, news",
           "gram": "feminine singular accusative"
         }
       ]
@@ -1093,7 +1093,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1302,7 +1302,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         },
         {
           "t": "минут",
@@ -1401,7 +1401,7 @@
           "lemma": "сообщить",
           "pos": "verb",
           "stress": "сообщи́ли",
-          "gloss": "to inform, report",
+          "gloss": "told, informed",
           "gram": "past tense, plural"
         },
         {
@@ -1417,7 +1417,7 @@
           "lemma": "новость",
           "pos": "noun",
           "stress": "но́вость",
-          "gloss": "the news",
+          "gloss": "piece of news, news",
           "gram": "feminine singular accusative"
         }
       ]
@@ -1653,7 +1653,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -2116,7 +2116,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2208,197 +2208,6 @@
         {
           "word": "волновать",
           "gloss": "to worry"
-        }
-      ]
-    },
-    "встретить": {
-      "lemma": "встретить",
-      "stress": "встре́тить",
-      "pos": "verb",
-      "gloss": "to meet",
-      "aspect": "pf",
-      "pair": "встречать",
-      "meanings": [
-        {
-          "en": "to meet",
-          "note": "By chance or at a station. Used as a perfective (single completed action) verb meaning 'to meet', paired with 'встречать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "встречу",
-              "встретим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "встретишь",
-              "встретите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "встретит",
-              "встретят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "встретил",
-                "встретила",
-                "встретило",
-                "встретили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "встреть",
-                "встретьте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "А почему этот серьёзный человек тебя не встретил?",
-          "trans": "Then why didn't this important man meet you at the station?"
-        },
-        {
-          "text": "Я встречу тебя на вокзале.",
-          "trans": "I'll meet you at the station."
-        },
-        {
-          "text": "Я вчера встретил старого друга.",
-          "trans": "Yesterday I met an old friend."
-        }
-      ],
-      "related": [
-        {
-          "word": "встречать",
-          "gloss": "to meet"
-        },
-        {
-          "word": "встретиться",
-          "gloss": "to meet"
-        },
-        {
-          "word": "встреча",
-          "gloss": "meeting"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2525,84 +2334,6 @@
       ],
       "related": []
     },
-    "должен": {
-      "lemma": "должен",
-      "stress": "до́лжен",
-      "pos": "adj",
-      "gloss": "must, should; owe",
-      "meanings": [
-        {
-          "en": "must, should",
-          "note": "+ infinitive; agrees with the subject: должна (f)"
-        },
-        {
-          "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "short",
-              "должен",
-              "должна",
-              "должно",
-              "должны"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я должен работать.",
-          "trans": "I have to work."
-        },
-        {
-          "text": "Жадность должна быть умеренная.",
-          "trans": "Greed should be moderate."
-        },
-        {
-          "text": "Жадность, Паша, должна быть умеренная. Комнатной температуры.",
-          "trans": "Greed, Pasha, should be moderate. Room temperature."
-        }
-      ],
-      "related": []
-    },
-    "достойно": {
-      "lemma": "достойно",
-      "stress": "досто́йно",
-      "pos": "adv",
-      "gloss": "worthily / properly",
-      "meanings": [
-        {
-          "en": "worthily / properly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы должны встретить тайного гостя достойно.",
-          "trans": "We must welcome the secret guest properly."
-        },
-        {
-          "text": "Костя сказал это совершенно достойно и спокойно.",
-          "trans": "Kostya said this quite worthily and calmly."
-        }
-      ],
-      "related": []
-    },
     "если": {
       "lemma": "если",
       "stress": "е́сли",
@@ -2645,13 +2376,13 @@
       "lemma": "жаловаться",
       "stress": "жа́ловаться",
       "pos": "verb",
-      "gloss": "complain",
+      "gloss": "to complain",
       "aspect": "impf",
-      "pair": null,
+      "pair": "пожаловаться",
       "meanings": [
         {
-          "en": "complain",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'complain'."
+          "en": "to complain",
+          "note": "на + accusative: about someone/something"
         }
       ],
       "forms": {
@@ -2706,6 +2437,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "жалуйся",
+                "жалуйтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2714,8 +2462,12 @@
           "trans": "I will definitely complain about you!"
         },
         {
-          "text": "Надо всё сделать и жаловаться вовремя.",
-          "trans": "We need to do everything and complain on time."
+          "text": "Нам с тобой вообще грех жаловаться.",
+          "trans": "You and I really can't complain."
+        },
+        {
+          "text": "Гости жалуются на сильный холод.",
+          "trans": "The guests are complaining that it's very cold."
         }
       ],
       "related": []
@@ -2728,11 +2480,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2917,7 +2669,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2949,14 +2701,14 @@
     },
     "инженер": {
       "lemma": "инженер",
-      "stress": "инже́нер",
+      "stress": "инжене́р",
       "pos": "noun",
       "gloss": "engineer",
       "gender": "m",
       "meanings": [
         {
           "en": "engineer",
-          "note": "Common masculine noun meaning 'engineer' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2991,8 +2743,8 @@
           {
             "cells": [
               "accusative",
-              "инженер",
-              "инженеры"
+              "инженера",
+              "инженеров"
             ]
           },
           {
@@ -3015,21 +2767,17 @@
       "examples": [
         {
           "text": "Ну, отправьте туда нашего инженера.",
-          "trans": "Well, send our engineer up there."
+          "trans": "Well, send our engineer there."
         },
         {
-          "text": "На кухне отеля всегда есть инженер.",
-          "trans": "In the hotel kitchen there is always engineer."
+          "text": "Мой отец работает инженером.",
+          "trans": "My father works as an engineer."
         }
       ],
       "related": [
         {
-          "word": "без инжене",
-          "gloss": "without engineer"
-        },
-        {
-          "word": "наш инженер",
-          "gloss": "our engineer"
+          "word": "инженерный",
+          "gloss": "engineering (adj.)"
         }
       ]
     },
@@ -3128,7 +2876,7 @@
       "meanings": [
         {
           "en": "minute",
-          "note": "Common feminine noun meaning 'minute' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3223,7 +2971,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3275,6 +3023,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3427,13 +3192,13 @@
     },
     "начеку": {
       "lemma": "начеку",
-      "stress": "наче́ку",
+      "stress": "начеку́",
       "pos": "adv",
-      "gloss": "on alert",
+      "gloss": "on the alert, on guard",
       "meanings": [
         {
-          "en": "on alert",
-          "note": ""
+          "en": "on the alert, on one's guard",
+          "note": "быть начеку = to be on one's guard"
         }
       ],
       "forms": null,
@@ -3441,21 +3206,21 @@
       "examples": [
         {
           "text": "Будьте сегодня начеку.",
-          "trans": "Be on alert today."
+          "trans": "Be on your guard today."
         },
         {
-          "text": "Иначе этих двоих было не примирить.",
-          "trans": "Otherwise there was no way to reconcile those two."
+          "text": "Вдруг это он, просто будь начеку.",
+          "trans": "What if it's him? Just stay alert."
         }
       ],
       "related": [
         {
-          "word": "очень начеку",
-          "gloss": "very on alert"
+          "word": "бдительный",
+          "gloss": "vigilant"
         },
         {
-          "word": "так начеку",
-          "gloss": "so on alert"
+          "word": "осторожно",
+          "gloss": "carefully"
         }
       ]
     },
@@ -3608,7 +3373,7 @@
       "meanings": [
         {
           "en": "small, not large, modest",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой'). Agrees in gender, number, and case with the noun it modifies ('small, modest')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой')."
         }
       ],
       "forms": {
@@ -3651,10 +3416,10 @@
           {
             "cells": [
               "accusative",
-              "небольшой",
+              "небольшой / небольшого",
               "небольшую",
               "небольшое",
-              "небольшие"
+              "небольшие / небольших"
             ]
           },
           {
@@ -3712,11 +3477,11 @@
       "meanings": [
         {
           "en": "piece of news",
-          "note": "Plural, also the TV news programme. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'piece of news' in everyday Russian."
+          "note": "Хорошая новость = good news."
         },
         {
           "en": "the news",
-          "note": "Plural, also the TV news programme. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'piece of news' in everyday Russian."
+          "note": "Plural новости, also the TV news programme."
         }
       ],
       "forms": {
@@ -3788,8 +3553,16 @@
       ],
       "related": [
         {
-          "word": "заново",
-          "gloss": "anew"
+          "word": "новый",
+          "gloss": "new"
+        },
+        {
+          "word": "известие",
+          "gloss": "news, notice"
+        },
+        {
+          "word": "что нового?",
+          "gloss": "what's new?"
         }
       ]
     },
@@ -3939,7 +3712,7 @@
       "meanings": [
         {
           "en": "to send (a person, a letter, a message)",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'править'). Used as a perfective (single completed action) verb meaning 'to send', paired with 'отправлять'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'править')."
         }
       ],
       "forms": {
@@ -4044,7 +3817,7 @@
       "meanings": [
         {
           "en": "staff, personnel",
-          "note": "Common masculine noun meaning 'staff, personnel' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4126,7 +3899,7 @@
       "meanings": [
         {
           "en": "to think it over, to give it a thought",
-          "note": "Once, for a while. Used as a perfective (single completed action) verb meaning 'to think (it over)', paired with 'думать'."
+          "note": "Once, for a while."
         }
       ],
       "forms": {
@@ -4227,6 +4000,7 @@
       "pos": "noun",
       "gloss": "subordinate",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "subordinate",
@@ -4306,11 +4080,28 @@
           "trans": "Viktor Petrovich is now your direct subordinate."
         },
         {
-          "text": "Как о подчинённом.",
-          "trans": "As a subordinate."
+          "text": "За своих подчинённых я не волнуюсь.",
+          "trans": "I'm not worried about my subordinates."
+        },
+        {
+          "text": "А во-вторых, я никогда не пью с подчинёнными.",
+          "trans": "And secondly, I never drink with my subordinates."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "начальник",
+          "gloss": "boss"
+        },
+        {
+          "word": "подчиняться",
+          "gloss": "to obey"
+        },
+        {
+          "word": "сотрудник",
+          "gloss": "employee"
+        }
+      ]
     },
     "проблемка": {
       "lemma": "проблемка",
@@ -4318,10 +4109,11 @@
       "pos": "noun",
       "gloss": "little problem",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "little problem",
-          "note": "Common feminine noun meaning 'little problem' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4380,21 +4172,17 @@
       "examples": [
         {
           "text": "Нет, Михаил, там небольшая проблемка.",
-          "trans": "No, Mikhail, there is a little problem there."
+          "trans": "No, Mikhail, there's a little problem there."
         },
         {
-          "text": "На кухне отеля всегда есть проблемка.",
-          "trans": "In the hotel kitchen there is always little problem."
+          "text": "В номере у нас небольшая проблемка.",
+          "trans": "We have a small problem in the room."
         }
       ],
       "related": [
         {
-          "word": "без проблемк",
-          "gloss": "without little problem"
-        },
-        {
-          "word": "наш проблемка",
-          "gloss": "our little problem"
+          "word": "проблема",
+          "gloss": "problem"
         }
       ]
     },
@@ -4422,42 +4210,42 @@
             "cells": [
               "nominative",
               "руководство",
-              "—"
+              "руководства"
             ]
           },
           {
             "cells": [
               "genitive",
               "руководства",
-              "—"
+              "руководств"
             ]
           },
           {
             "cells": [
               "dative",
               "руководству",
-              "—"
+              "руководствам"
             ]
           },
           {
             "cells": [
               "accusative",
               "руководство",
-              "—"
+              "руководства"
             ]
           },
           {
             "cells": [
               "instrumental",
               "руководством",
-              "—"
+              "руководствами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "руководстве",
-              "—"
+              "руководствах"
             ]
           }
         ]
@@ -4496,7 +4284,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4736,7 +4524,7 @@
       "meanings": [
         {
           "en": "strong, powerful (also used as a noun: the strong)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('strong, powerful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4779,10 +4567,10 @@
           {
             "cells": [
               "accusative",
-              "сильный",
+              "сильный / сильного",
               "сильную",
               "сильное",
-              "сильные"
+              "сильные / сильных"
             ]
           },
           {
@@ -4840,7 +4628,7 @@
       "meanings": [
         {
           "en": "meeting, gathering",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4909,11 +4697,15 @@
       "related": [
         {
           "word": "собрать",
-          "gloss": "to collect"
+          "gloss": "to gather"
         },
         {
-          "word": "отобрать",
-          "gloss": "to take away"
+          "word": "собираться",
+          "gloss": "to gather"
+        },
+        {
+          "word": "совещание",
+          "gloss": "meeting, conference"
         }
       ]
     },
@@ -4921,13 +4713,13 @@
       "lemma": "сообщить",
       "stress": "сообщи́ть",
       "pos": "verb",
-      "gloss": "inform / report",
+      "gloss": "to inform, to report, to tell",
       "aspect": "pf",
-      "pair": null,
+      "pair": "сообщать",
       "meanings": [
         {
-          "en": "inform / report",
-          "note": "Used as a perfective (single completed action) verb meaning 'inform / report'."
+          "en": "to inform, to report, to tell (кому о чём)",
+          "note": ""
         }
       ],
       "forms": {
@@ -4982,19 +4774,45 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сообщи",
+                "сообщите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Кстати, должна тебе кое-что сообщить.",
-          "trans": "By the way, I must inform you of something."
+          "trans": "By the way, there's something I need to tell you."
         },
         {
-          "text": "Надо всё сделать и сообщить вовремя.",
-          "trans": "We need to do everything and inform on time."
+          "text": "Я сейчас в полицию сообщу!",
+          "trans": "I'm going to report this to the police right now!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "сообщать",
+          "gloss": "to inform (impf)"
+        },
+        {
+          "word": "сообщение",
+          "gloss": "message"
+        }
+      ]
     },
     "тайный": {
       "lemma": "тайный",
@@ -5004,7 +4822,7 @@
       "meanings": [
         {
           "en": "secret, clandestine, hidden",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('secret, hidden')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5047,10 +4865,10 @@
           {
             "cells": [
               "accusative",
-              "тайный/тайного",
+              "тайный / тайного",
               "тайную",
               "тайное",
-              "тайные/тайных"
+              "тайные / тайных"
             ]
           },
           {
@@ -5178,7 +4996,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -5351,7 +5169,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -5406,6 +5224,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5446,7 +5281,7 @@
       "meanings": [
         {
           "en": "cold, chill, low temperature",
-          "note": "Common masculine noun meaning 'cold, chill' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5544,7 +5379,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5569,77 +5404,33 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },
@@ -5653,7 +5444,7 @@
       "meanings": [
         {
           "en": "to fine, penalize, impose a fine on",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to fine, penalize', paired with 'оштрафовать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5705,6 +5496,23 @@
                 "штрафовала",
                 "штрафовало",
                 "штрафовали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "штрафуй",
+                "штрафуйте"
               ]
             }
           ]

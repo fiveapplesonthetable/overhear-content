@@ -220,7 +220,7 @@
           "pos": "noun",
           "stress": "мужчи́ны",
           "gloss": "man",
-          "gram": "genitive singular, masculine"
+          "gram": "genitive singular / nominative plural"
         },
         {
           "t": "вокруг",
@@ -425,7 +425,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -844,7 +844,7 @@
           "pos": "noun",
           "stress": "мужчи́ны",
           "gloss": "man",
-          "gram": "genitive singular, masculine"
+          "gram": "genitive singular / nominative plural"
         },
         {
           "t": "вокруг",
@@ -1049,7 +1049,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1468,7 +1468,7 @@
           "pos": "noun",
           "stress": "мужчи́ны",
           "gloss": "man",
-          "gram": "genitive singular, masculine"
+          "gram": "genitive singular / nominative plural"
         },
         {
           "t": "вокруг",
@@ -1673,7 +1673,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1941,11 +1941,11 @@
       "meanings": [
         {
           "en": "trouble, misfortune",
-          "note": "Common feminine noun meaning 'trouble, misfortune' in everyday Russian."
+          "note": ""
         },
         {
           "en": "в беде = in trouble",
-          "note": "Common feminine noun meaning 'trouble, misfortune' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2026,7 +2026,7 @@
       "meanings": [
         {
           "en": "safety, security, freedom from harm",
-          "note": "Feminine 3rd declension noun. Privative prefix 'без-' ('without, -less') (stem 'опасность'). Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'safety, security' in everyday Russian."
+          "note": "Feminine 3rd declension noun. Privative prefix 'без-' ('without, -less') (stem 'опасность')."
         }
       ],
       "forms": {
@@ -2119,7 +2119,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2412,7 +2412,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2790,11 +2790,11 @@
       "meanings": [
         {
           "en": "to drink up, to have a drink of",
-          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         },
         {
           "en": "to have an alcoholic drink",
-          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         }
       ],
       "forms": {
@@ -2905,7 +2905,7 @@
       "meanings": [
         {
           "en": "hot (to the touch, of food/drink, not weather)",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('hot')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2948,10 +2948,10 @@
           {
             "cells": [
               "accusative",
-              "горячий/горячего",
+              "горячий / горячего",
               "горячую",
               "горячее",
-              "горячие/горячих"
+              "горячие / горячих"
             ]
           },
           {
@@ -3000,49 +3000,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -3053,11 +3010,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3148,15 +3109,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3172,7 +3133,7 @@
         },
         {
           "en": "long ago",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3198,7 +3159,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3289,11 +3249,11 @@
         },
         {
           "en": "here you are!",
-          "note": "imperative держи! when handing something over"
+          "note": ""
         },
         {
           "en": "catch!, grab (him)!",
-          "note": "Держи его!. Used as an imperfective (ongoing/repeated action) verb meaning 'to hold'."
+          "note": "Держи его!."
         }
       ],
       "forms": {
@@ -3405,7 +3365,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3443,7 +3403,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -3534,7 +3494,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3546,7 +3510,7 @@
       "meanings": [
         {
           "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
+          "note": "Location; compare домой = homeward."
         }
       ],
       "forms": null,
@@ -3579,11 +3543,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3859,7 +3823,7 @@
       "meanings": [
         {
           "en": "reliable, dependable",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('reliable')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3928,29 +3892,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "надёжен",
-                "надёжна",
-                "надёжно",
-                "надёжны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Она не очень надёжная.",
@@ -3982,11 +3924,11 @@
       "meanings": [
         {
           "en": "to call",
-          "note": "To name or address someone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call; to name', paired with 'назвать'."
+          "note": "To name or address someone."
         },
         {
           "en": "to designate",
-          "note": "To assign a title. Used as an imperfective (ongoing/repeated action) verb meaning 'to call; to name', paired with 'назвать'."
+          "note": "To assign a title."
         }
       ],
       "forms": {
@@ -4077,15 +4019,19 @@
       "related": [
         {
           "word": "назвать",
-          "gloss": "to call"
+          "gloss": "to call, to name (pf)"
         },
         {
           "word": "называться",
           "gloss": "to be called"
         },
         {
-          "word": "вызывать",
-          "gloss": "to cause"
+          "word": "название",
+          "gloss": "name, title"
+        },
+        {
+          "word": "имя",
+          "gloss": "name"
         }
       ]
     },
@@ -4289,11 +4235,11 @@
       "meanings": [
         {
           "en": "to leave (someone or something somewhere)",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": "Оставь мне кусок = save me a piece."
         },
         {
           "en": "to keep, to save",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4406,11 +4352,11 @@
       "meanings": [
         {
           "en": "to rest",
-          "note": "To relax, take a break. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To relax, take a break."
         },
         {
           "en": "to vacation",
-          "note": "To take time off. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To take time off."
         }
       ],
       "forms": {
@@ -4617,11 +4563,11 @@
       "meanings": [
         {
           "en": "nearby, close by",
-          "note": "Adverb. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Adverb."
         },
         {
           "en": "next to, beside",
-          "note": "Рядом с + instrumental. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Рядом с + instrumental."
         }
       ],
       "forms": null,
@@ -4642,8 +4588,16 @@
       ],
       "related": [
         {
-          "word": "порядок",
-          "gloss": "order"
+          "word": "около",
+          "gloss": "near, beside"
+        },
+        {
+          "word": "поблизости",
+          "gloss": "nearby"
+        },
+        {
+          "word": "рядом с",
+          "gloss": "next to (+ instr.)"
         }
       ]
     },
@@ -4694,7 +4648,7 @@
       "meanings": [
         {
           "en": "fresh",
-          "note": "Food, air, news. Agrees in gender, number, and case with the noun it modifies ('fresh')."
+          "note": "Food, air, news."
         }
       ],
       "forms": {
@@ -4737,10 +4691,10 @@
           {
             "cells": [
               "accusative",
-              "свежий",
+              "свежий / свежего",
               "свежую",
               "свежее",
-              "свежие"
+              "свежие / свежих"
             ]
           },
           {
@@ -4901,7 +4855,7 @@
         },
         {
           "en": "promise",
-          "note": "'дать слово' = to give one's word, 'держать слово' = to keep one's word"
+          "note": ""
         }
       ],
       "forms": {
@@ -4976,67 +4930,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5062,7 +4964,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5167,8 +5069,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5182,7 +5092,7 @@
       "meanings": [
         {
           "en": "to demand, to require",
-          "note": "+ genitive or infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to demand', paired with 'потребовать'."
+          "note": "+ genitive or infinitive."
         }
       ],
       "forms": {
@@ -5290,7 +5200,7 @@
       "meanings": [
         {
           "en": "pleasure, enjoyment",
-          "note": "Common neuter noun meaning 'pleasure' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5348,16 +5258,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Ходить в садик с удовольствием.",
-          "trans": "Go to daycare with pleasure."
+          "text": "Даже Лёша начал ходить в садик с удовольствием.",
+          "trans": "Even Lyosha has started going to nursery happily."
         },
         {
           "text": "С большим удовольствием!",
           "trans": "With great pleasure!"
         },
         {
-          "text": "Даже Лёша начал ходить в садик с удовольствием.",
-          "trans": "Even Lyosha started going to daycare with pleasure."
+          "text": "С вами работать одно удовольствие, Виктор Петрович!",
+          "trans": "It's a real pleasure working with you, Viktor Petrovich!"
         }
       ],
       "related": []
@@ -5370,11 +5280,11 @@
       "meanings": [
         {
           "en": "properly",
-          "note": "Thoroughly, well. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Thoroughly, well."
         },
         {
           "en": "soundly",
-          "note": "With full effort. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "With full effort."
         }
       ],
       "forms": null,

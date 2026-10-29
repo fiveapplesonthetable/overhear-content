@@ -343,7 +343,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -465,8 +465,8 @@
           "lemma": "отличник",
           "pos": "noun",
           "stress": "отли́чник",
-          "gloss": "handle",
-          "gram": "nominative / accusative"
+          "gloss": "top scorer",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "аттестации",
@@ -474,7 +474,7 @@
           "pos": "noun",
           "stress": "аттеста́ции",
           "gloss": "evaluation",
-          "gram": "nominative / accusative"
+          "gram": "dative / genitive singular, feminine"
         },
         {
           "t": "готовить",
@@ -512,7 +512,7 @@
           "pos": "noun",
           "stress": "ребя́т",
           "gloss": "kids; guys",
-          "gram": "nominative / accusative"
+          "gram": "colloquial form used as address"
         },
         {
           "t": "я",
@@ -959,7 +959,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1081,8 +1081,8 @@
           "lemma": "отличник",
           "pos": "noun",
           "stress": "отли́чник",
-          "gloss": "handle",
-          "gram": "nominative / accusative"
+          "gloss": "top scorer",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "аттестации",
@@ -1090,7 +1090,7 @@
           "pos": "noun",
           "stress": "аттеста́ции",
           "gloss": "evaluation",
-          "gram": "nominative / accusative"
+          "gram": "dative / genitive singular, feminine"
         },
         {
           "t": "готовить",
@@ -1128,7 +1128,7 @@
           "pos": "noun",
           "stress": "ребя́т",
           "gloss": "kids; guys",
-          "gram": "nominative / accusative"
+          "gram": "colloquial form used as address"
         },
         {
           "t": "я",
@@ -1575,7 +1575,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1697,8 +1697,8 @@
           "lemma": "отличник",
           "pos": "noun",
           "stress": "отли́чник",
-          "gloss": "handle",
-          "gram": "nominative / accusative"
+          "gloss": "top scorer",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "аттестации",
@@ -1706,7 +1706,7 @@
           "pos": "noun",
           "stress": "аттеста́ции",
           "gloss": "evaluation",
-          "gram": "nominative / accusative"
+          "gram": "dative / genitive singular, feminine"
         },
         {
           "t": "готовить",
@@ -1744,7 +1744,7 @@
           "pos": "noun",
           "stress": "ребя́т",
           "gloss": "kids; guys",
-          "gram": "nominative / accusative"
+          "gram": "colloquial form used as address"
         },
         {
           "t": "я",
@@ -1876,14 +1876,14 @@
   "lexicon": {
     "аттестация": {
       "lemma": "аттестация",
-      "stress": "аттестаци́я",
+      "stress": "аттеста́ция",
       "pos": "noun",
-      "gloss": "evaluation",
+      "gloss": "assessment, evaluation",
       "gender": "f",
       "meanings": [
         {
           "en": "evaluation",
-          "note": "International borrowing in '-ция' (from Latin '-tio'), declined as a regular feminine noun meaning 'evaluation'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1953,12 +1953,7 @@
           "trans": "Congratulations to the rest of you. You passed the evaluation."
         }
       ],
-      "related": [
-        {
-          "word": "вместе",
-          "gloss": "together"
-        }
-      ]
+      "related": []
     },
     "в": {
       "lemma": "в",
@@ -2163,11 +2158,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2209,7 +2204,7 @@
         },
         {
           "en": "everyone",
-          "note": "Всем = to everyone (dative). Core Russian pron meaning 'all; everyone' in everyday speech."
+          "note": "Всем = to everyone (dative)."
         }
       ],
       "forms": null,
@@ -2232,10 +2227,6 @@
         {
           "word": "весь",
           "gloss": "all, whole"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
         }
       ]
     },
@@ -2700,11 +2691,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2809,10 +2800,11 @@
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -2983,12 +2975,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3043,6 +3033,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3062,17 +3069,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3112,87 +3120,6 @@
         }
       ]
     },
-    "михайлович": {
-      "lemma": "михайлович",
-      "stress": "миха́йлович",
-      "pos": "noun",
-      "gloss": "Mikhailovich (son of Mikhail)",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "Mikhailovich (son of Mikhail)",
-          "note": "Declinable masculine noun meaning 'Mikhailovich', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "михайлович",
-              "михайловичи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "михайловича",
-              "михайловичей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "михайловичу",
-              "михайловичам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "михайлович",
-              "михайловичи"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "михайловичем",
-              "михайловичами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "михайловиче",
-              "михайловичах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Герман Михайлович.",
-          "trans": "German Mikhailovich."
-        },
-        {
-          "text": "Что за бред? Герман Михайлович просто попросил кофе.",
-          "trans": "What nonsense is that? German Mikhailovich simply asked for coffee."
-        },
-        {
-          "text": "Герман Михайлович, там приехал Нагиев.",
-          "trans": "German Mikhailovich, Nagiyev has arrived out there."
-        }
-      ],
-      "related": []
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -3203,7 +3130,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3255,6 +3182,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3453,7 +3397,7 @@
       "meanings": [
         {
           "en": "to explain",
-          "note": "Used as a perfective (single completed action) verb meaning 'to explain', paired with 'объяснять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3556,12 +3500,13 @@
       "lemma": "отличник",
       "stress": "отли́чник",
       "pos": "noun",
-      "gloss": "handle",
+      "gloss": "top student, straight-A student",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "handle",
-          "note": "Declinable masculine noun meaning 'handle', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "top student, straight-A student",
+          "note": "also of anyone who scored top marks"
         }
       ],
       "forms": {
@@ -3596,8 +3541,8 @@
           {
             "cells": [
               "accusative",
-              "отличник",
-              "отличники"
+              "отличника",
+              "отличников"
             ]
           },
           {
@@ -3637,7 +3582,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -3673,7 +3618,7 @@
       "meanings": [
         {
           "en": "to carry, deliver something to a place",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'нести'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to carry to', forming an aspectual pair with 'относить'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'нести')."
         }
       ],
       "forms": {
@@ -3785,7 +3730,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -3971,7 +3916,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -4014,10 +3959,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -4101,7 +4046,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -4210,10 +4155,11 @@
       "pos": "noun",
       "gloss": "work, creation (of art)",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "work of art, creation, composition",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'work, creation (of art)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4281,16 +4227,12 @@
       ],
       "related": [
         {
-          "word": "известный",
-          "gloss": "famous"
+          "word": "произведение искусства",
+          "gloss": "work of art"
         },
         {
-          "word": "известно",
-          "gloss": "it is known"
-        },
-        {
-          "word": "неизвестный",
-          "gloss": "unknown"
+          "word": "шедевр",
+          "gloss": "masterpiece"
         }
       ]
     },
@@ -4375,8 +4317,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -4385,7 +4339,6 @@
       "stress": "ребя́та",
       "pos": "noun",
       "gloss": "guys, lads, kids (plural only)",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -4394,7 +4347,7 @@
         },
         {
           "en": "kids, children",
-          "note": "Colloquial plural of ребёнок. Common substantive noun meaning 'guys, lads, kids (plural only)' in everyday Russian."
+          "note": "Colloquial plural of ребёнок."
         }
       ],
       "forms": {
@@ -4480,7 +4433,7 @@
       "meanings": [
         {
           "en": "fish",
-          "note": "Animal or food. Common feminine noun meaning 'fish' in everyday Russian."
+          "note": "Animal or food."
         }
       ],
       "forms": {
@@ -4569,7 +4522,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4886,7 +4839,7 @@
       "meanings": [
         {
           "en": "to go on, be happening (usually of chaos or strange events)",
-          "note": "3rd person only. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to go on, to happen'."
+          "note": "3rd person only."
         }
       ],
       "forms": {
@@ -4900,15 +4853,15 @@
           {
             "cells": [
               "1st",
-              "—",
-              "—"
+              "творюсь",
+              "творимся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "—",
-              "—"
+              "творишься",
+              "творитесь"
             ]
           },
           {
@@ -4941,6 +4894,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "творись",
+                "творитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4960,15 +4930,15 @@
       "related": [
         {
           "word": "творить",
-          "gloss": "to do"
-        },
-        {
-          "word": "притворяться",
-          "gloss": "to pretend"
+          "gloss": "to do, to create"
         },
         {
           "word": "натворить",
-          "gloss": "to do"
+          "gloss": "to get up to (mischief)"
+        },
+        {
+          "word": "происходить",
+          "gloss": "to happen"
         }
       ]
     },
@@ -4980,7 +4950,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -5261,7 +5231,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

@@ -201,7 +201,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -349,10 +349,10 @@
         {
           "t": "побольше",
           "lemma": "побольше",
-          "pos": "noun",
+          "pos": "adv",
           "stress": "побо́льше",
-          "gloss": "bit",
-          "gram": "prepositional / dative singular"
+          "gloss": "a bit more",
+          "gram": "comparative with по-"
         },
         {
           "t": "будет.",
@@ -585,7 +585,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -733,10 +733,10 @@
         {
           "t": "побольше",
           "lemma": "побольше",
-          "pos": "noun",
+          "pos": "adv",
           "stress": "побо́льше",
-          "gloss": "bit",
-          "gram": "prepositional / dative singular"
+          "gloss": "a bit more",
+          "gram": "comparative with по-"
         },
         {
           "t": "будет.",
@@ -969,7 +969,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1117,10 +1117,10 @@
         {
           "t": "побольше",
           "lemma": "побольше",
-          "pos": "noun",
+          "pos": "adv",
           "stress": "побо́льше",
-          "gloss": "bit",
-          "gram": "prepositional / dative singular"
+          "gloss": "a bit more",
+          "gram": "comparative with по-"
         },
         {
           "t": "будет.",
@@ -1178,44 +1178,6 @@
     }
   ],
   "lexicon": {
-    "больше": {
-      "lemma": "больше",
-      "stress": "бо́льше",
-      "pos": "adv",
-      "gloss": "more",
-      "meanings": [
-        {
-          "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
-        },
-        {
-          "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Надо сделать ещё больше.",
-          "trans": "We need to do even more."
-        },
-        {
-          "text": "Мне больше не надо.",
-          "trans": "I don't need any more."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "большой",
-          "gloss": "big"
-        }
-      ]
-    },
     "большой": {
       "lemma": "большой",
       "stress": "большо́й",
@@ -1224,7 +1186,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1476,11 +1438,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1655,7 +1617,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1727,11 +1689,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1769,7 +1731,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -1860,7 +1822,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -2091,7 +2057,7 @@
       "meanings": [
         {
           "en": "kilogram, kilo",
-          "note": "Unit of weight. Common masculine noun meaning 'kilogram, kilo' in everyday Russian."
+          "note": "Unit of weight."
         }
       ],
       "forms": {
@@ -2113,7 +2079,7 @@
             "cells": [
               "genitive",
               "килограмма",
-              "килограммов"
+              "килограмм"
             ]
           },
           {
@@ -2171,7 +2137,7 @@
       "meanings": [
         {
           "en": "incomplete, partial",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'полный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('incomplete, partial')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'полный')."
         }
       ],
       "forms": {
@@ -2214,10 +2180,10 @@
           {
             "cells": [
               "accusative",
-              "неполный",
+              "неполный / неполного",
               "неполную",
               "неполное",
-              "неполные"
+              "неполные / неполных"
             ]
           },
           {
@@ -2247,18 +2213,18 @@
           "trans": "You have an incomplete rib fracture."
         },
         {
-          "text": "Шеф говорит, что это очень неполный выбор.",
-          "trans": "The chef says that this is a very incomplete choice."
+          "text": "Он работает неполный день.",
+          "trans": "He works part-time."
         }
       ],
       "related": [
         {
-          "word": "неполно",
-          "gloss": "incompletely (adverbial form)"
+          "word": "полный",
+          "gloss": "full, complete"
         },
         {
-          "word": "очень неполный",
-          "gloss": "very incomplete"
+          "word": "частичный",
+          "gloss": "partial"
         }
       ]
     },
@@ -2388,12 +2354,12 @@
       "lemma": "перелом",
       "stress": "перело́м",
       "pos": "noun",
-      "gloss": "fractures / broken bones",
+      "gloss": "fracture, broken bone",
       "gender": "m",
       "meanings": [
         {
-          "en": "fractures / broken bones",
-          "note": "Common masculine noun meaning 'fractures / broken bones' in everyday Russian."
+          "en": "fracture, broken bone",
+          "note": "перелом ребра = a broken rib"
         }
       ],
       "forms": {
@@ -2455,105 +2421,70 @@
           "trans": "He has no fractures, which is actually amazing!"
         },
         {
-          "text": "На кухне ресторана всегда есть перелом.",
-          "trans": "In the restaurant kitchen there is always fractures."
-        }
-      ],
-      "related": []
-    },
-    "побольше": {
-      "lemma": "побольше",
-      "stress": "побо́льше",
-      "pos": "noun",
-      "gloss": "bit",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "bit",
-          "note": "Declinable neuter noun meaning 'bit', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "побольше",
-              "побольшя"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "побольшя",
-              "побольшей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "побольшю",
-              "побольшям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "побольше",
-              "побольшя"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "побольшем",
-              "побольшями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "побольше",
-              "побольшях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Хотелось бы побольше расспросить о коллективе.",
-          "trans": "I would like to ask a bit more about the team."
-        },
-        {
-          "text": "Даже побольше будет.",
-          "trans": "It is even heavier than that."
+          "text": "У вас неполный перелом ребра.",
+          "trans": "You have a partial rib fracture."
         }
       ],
       "related": [
         {
-          "word": "вместе",
-          "gloss": "together"
+          "word": "сломать",
+          "gloss": "to break"
+        },
+        {
+          "word": "переломать",
+          "gloss": "to break (many things)"
+        }
+      ]
+    },
+    "побольше": {
+      "lemma": "побольше",
+      "stress": "побо́льше",
+      "pos": "adv",
+      "gloss": "a bit more; a bit bigger",
+      "meanings": [
+        {
+          "en": "a bit more, a little more",
+          "note": "по- + comparative больше"
+        },
+        {
+          "en": "a bit bigger",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хотелось бы побольше расспросить о коллективе.",
+          "trans": "I'd like to ask a bit more about the team."
+        },
+        {
+          "text": "Важно успеть сделать в жизни побольше.",
+          "trans": "It's important to get as much done in life as you can."
+        }
+      ],
+      "related": [
+        {
+          "word": "больше",
+          "gloss": "more, bigger"
+        },
+        {
+          "word": "поменьше",
+          "gloss": "a bit less"
         }
       ]
     },
     "позавтракать": {
       "lemma": "позавтракать",
-      "stress": "позавтра́кать",
+      "stress": "поза́втракать",
       "pos": "verb",
-      "gloss": "had breakfast",
+      "gloss": "to have breakfast",
       "aspect": "pf",
-      "pair": null,
+      "pair": "завтракать",
       "meanings": [
         {
-          "en": "had breakfast",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'завтракать'). Used as a perfective (single completed action) verb meaning 'had breakfast'."
+          "en": "to have breakfast",
+          "note": ""
         }
       ],
       "forms": {
@@ -2608,6 +2539,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "позавтракай",
+                "позавтракайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2616,18 +2564,18 @@
           "trans": "I didn't have breakfast today."
         },
         {
-          "text": "Надо всё сделать и позавтракать вовремя.",
-          "trans": "We need to do everything and had breakfast on time."
+          "text": "А ты со мной не позавтракаешь?",
+          "trans": "Won't you have breakfast with me?"
         }
       ],
       "related": [
         {
           "word": "завтракать",
-          "gloss": "to had breakfast (base verb)"
+          "gloss": "to have breakfast (impf)"
         },
         {
-          "word": "не позавтракать",
-          "gloss": "not to had breakfast (negated infinitive)"
+          "word": "завтрак",
+          "gloss": "breakfast"
         }
       ]
     },
@@ -2641,7 +2589,7 @@
       "meanings": [
         {
           "en": "to get, to receive",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get, to receive', paired with 'получать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2748,7 +2696,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2779,7 +2727,7 @@
       "meanings": [
         {
           "en": "to suppose, assume, speculate",
-          "note": "Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'полагать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to suppose, assume, speculate', paired with 'предположить'."
+          "note": "Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'полагать')."
         }
       ],
       "forms": {
@@ -2855,65 +2803,32 @@
       ],
       "examples": [
         {
-          "text": "Мы же с вами предполагали другое!",
-          "trans": "Wait, we speculated otherwise together!"
+          "text": "Подождите, мы же с вами предполагали другое!",
+          "trans": "Wait, you and I were expecting something different!"
         },
         {
           "text": "Я не предполагал такого ответа.",
-          "trans": "I did not expect such an answer."
+          "trans": "I didn't expect an answer like that."
         },
         {
-          "text": "Подождите, мы же с вами предполагали другое! Там будет множество нарушений.",
-          "trans": "Wait, we speculated otherwise together! There would be many violations."
+          "text": "Как я и предполагал.",
+          "trans": "Just as I thought."
         }
       ],
       "related": [
         {
           "word": "предположить",
-          "gloss": "suppose"
+          "gloss": "to suppose (pf)"
         },
         {
-          "word": "пополам",
-          "gloss": "in half"
+          "word": "предположение",
+          "gloss": "assumption"
         },
         {
           "word": "предполагаемый",
-          "gloss": "suspected"
+          "gloss": "presumed"
         }
       ]
-    },
-    "просто": {
-      "lemma": "просто",
-      "stress": "про́сто",
-      "pos": "adv",
-      "gloss": "just, simply",
-      "meanings": [
-        {
-          "en": "just, simply",
-          "note": "'это просто' = it's easy. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "easy",
-          "note": "Это просто = it's easy. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я просто устал.",
-          "trans": "I'm just tired."
-        },
-        {
-          "text": "Это просто.",
-          "trans": "It's easy."
-        },
-        {
-          "text": "Мы просто не хотели вас беспокоить. Всё отменим!",
-          "trans": "We just didn't want to bother you. We'll cancel it all!"
-        }
-      ],
-      "related": []
     },
     "радоваться": {
       "lemma": "радоваться",
@@ -2925,7 +2840,7 @@
       "meanings": [
         {
           "en": "to be glad, rejoice",
-          "note": "+ dat (rejoice at). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to rejoice, be glad', paired with 'обрадоваться'."
+          "note": "+ dat (rejoice at)."
         }
       ],
       "forms": {
@@ -3030,14 +2945,15 @@
     },
     "ребро": {
       "lemma": "ребро",
-      "stress": "ре́бро",
+      "stress": "ребро́",
       "pos": "noun",
       "gloss": "rib",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "rib",
-          "note": "Common neuter noun meaning 'rib' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3052,42 +2968,42 @@
             "cells": [
               "nominative",
               "ребро",
-              "ребра"
+              "рёбра"
             ]
           },
           {
             "cells": [
               "genitive",
               "ребра",
-              "ребр"
+              "рёбер"
             ]
           },
           {
             "cells": [
               "dative",
               "ребру",
-              "ребрам"
+              "рёбрам"
             ]
           },
           {
             "cells": [
               "accusative",
               "ребро",
-              "ребра"
+              "рёбра"
             ]
           },
           {
             "cells": [
               "instrumental",
               "ребром",
-              "ребрами"
+              "рёбрами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "ребре",
-              "ребрах"
+              "рёбрах"
             ]
           }
         ]
@@ -3099,22 +3015,18 @@
           "trans": "You have an incomplete rib fracture."
         },
         {
-          "text": "Я прикольнуться хотел, ребят.",
-          "trans": "I wanted to pull a prank, guys."
-        },
-        {
-          "text": "Когда я перебегал дорогу, меня сбил Иосиф Пригожин.",
-          "trans": "When I was running across the road, Iosif Prigozhin hit me."
+          "text": "Он сломал два ребра.",
+          "trans": "He broke two ribs."
         }
       ],
       "related": [
         {
-          "word": "без ребр",
-          "gloss": "without rib"
+          "word": "рёбрышки",
+          "gloss": "ribs (food)"
         },
         {
-          "word": "наш ребро",
-          "gloss": "our rib"
+          "word": "поставить вопрос ребром",
+          "gloss": "to put a question point-blank"
         }
       ]
     },
@@ -3132,7 +3044,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -3223,15 +3135,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -3293,8 +3205,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -3307,7 +3227,7 @@
       "meanings": [
         {
           "en": "injury, trauma",
-          "note": "Common feminine noun meaning 'injury, trauma' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3366,34 +3286,38 @@
       "examples": [
         {
           "text": "Какая причина вашей травмы?",
-          "trans": "What is the cause of your injury?"
+          "trans": "What caused your injury?"
         },
         {
-          "text": "А трава в мешках сгорела. Из-за вас!",
-          "trans": "And the herbs in the sacks burned. Because of you!"
+          "text": "Из-за травмы пришлось оставить профессию.",
+          "trans": "Because of an injury I had to give up the profession."
         }
       ],
       "related": [
         {
-          "word": "трава",
-          "gloss": "grass"
+          "word": "травмпункт",
+          "gloss": "emergency clinic for injuries"
         },
         {
-          "word": "травить",
-          "gloss": "to torment"
+          "word": "рана",
+          "gloss": "wound"
+        },
+        {
+          "word": "перелом",
+          "gloss": "fracture"
         }
       ]
     },
     "трещина": {
       "lemma": "трещина",
-      "stress": "трещи́на",
+      "stress": "тре́щина",
       "pos": "noun",
       "gloss": "crack, fissure",
       "gender": "f",
       "meanings": [
         {
           "en": "crack, fissure",
-          "note": "Common feminine noun meaning 'crack, fissure' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3455,18 +3379,18 @@
           "trans": "You said it was a crack."
         },
         {
-          "text": "Это просто трещина!",
-          "trans": "It is just a crack!"
+          "text": "Врач говорит, что у меня небольшая трещина.",
+          "trans": "The doctor says I have a small fracture."
         }
       ],
       "related": [
         {
-          "word": "без трещин",
-          "gloss": "without crack"
+          "word": "трещать",
+          "gloss": "to crackle"
         },
         {
-          "word": "наш трещина",
-          "gloss": "our crack"
+          "word": "перелом",
+          "gloss": "fracture"
         }
       ]
     },
@@ -3527,7 +3451,7 @@
       "meanings": [
         {
           "en": "to fall down, to drop",
-          "note": "Perfective of падать. Prefix 'у-' marks departure, removal, or successful completion (stem 'пасть'). Used as a perfective (single completed action) verb meaning 'to fall, to drop', paired with 'падать'."
+          "note": "Perfective of падать. Prefix 'у-' marks departure, removal, or successful completion (stem 'пасть')."
         }
       ],
       "forms": {
@@ -3631,7 +3555,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {
@@ -3709,6 +3633,7 @@
       "pos": "noun",
       "gloss": "wardrobe, cupboard",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "wardrobe",
@@ -3716,7 +3641,7 @@
         },
         {
           "en": "cupboard, cabinet",
-          "note": "Common masculine noun meaning 'wardrobe, cupboard' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

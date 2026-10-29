@@ -206,7 +206,7 @@
           "pos": "adj",
           "stress": "любу́ю",
           "gloss": "any",
-          "gram": "feminine singular accusative pronoun"
+          "gram": "accusative, feminine singular"
         },
         {
           "t": "игрушку!",
@@ -279,7 +279,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -533,7 +533,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -574,7 +574,7 @@
           "t": "Ивановна!",
           "lemma": "ивановна",
           "pos": "name",
-          "stress": null,
+          "stress": "ива́новна",
           "gloss": "Ivanovna",
           "gram": "patronymic"
         }
@@ -838,7 +838,7 @@
           "pos": "adj",
           "stress": "любу́ю",
           "gloss": "any",
-          "gram": "feminine singular accusative pronoun"
+          "gram": "accusative, feminine singular"
         },
         {
           "t": "игрушку!",
@@ -911,7 +911,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1165,7 +1165,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1206,7 +1206,7 @@
           "t": "Ивановна!",
           "lemma": "ивановна",
           "pos": "name",
-          "stress": null,
+          "stress": "ива́новна",
           "gloss": "Ivanovna",
           "gram": "patronymic"
         }
@@ -1470,7 +1470,7 @@
           "pos": "adj",
           "stress": "любу́ю",
           "gloss": "any",
-          "gram": "feminine singular accusative pronoun"
+          "gram": "accusative, feminine singular"
         },
         {
           "t": "игрушку!",
@@ -1543,7 +1543,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1797,7 +1797,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1838,7 +1838,7 @@
           "t": "Ивановна!",
           "lemma": "ивановна",
           "pos": "name",
-          "stress": null,
+          "stress": "ива́новна",
           "gloss": "Ivanovna",
           "gram": "patronymic"
         }
@@ -1964,7 +1964,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2065,7 +2065,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
+          "note": "+ genitive: 'бояться собак'."
         }
       ],
       "forms": {
@@ -2165,7 +2165,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -2260,15 +2260,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2328,7 +2332,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -2626,7 +2630,7 @@
       "meanings": [
         {
           "en": "garage",
-          "note": "building or toy parking structure for cars"
+          "note": ""
         }
       ],
       "forms": {
@@ -2685,17 +2689,17 @@
       "examples": [
         {
           "text": "Спасибо большое, я построю большой гараж.",
-          "trans": "Thank you very much, I will build a big garage."
+          "trans": "Thank you very much, I'll build a big garage."
         },
         {
-          "text": "Ты бандитов поймал! Которые банкомат на Гарибальди ограбили.",
-          "trans": "You caught bandits! Who robbed the ATM on Garibaldi Street."
+          "text": "Машина стоит в гараже.",
+          "trans": "The car is in the garage."
         }
       ],
       "related": [
         {
-          "word": "гарантировать",
-          "gloss": "guarantee"
+          "word": "машина",
+          "gloss": "car"
         }
       ]
     },
@@ -2707,7 +2711,7 @@
       "meanings": [
         {
           "en": "hot (to the touch, of food/drink, not weather)",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('hot')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2750,10 +2754,10 @@
           {
             "cells": [
               "accusative",
-              "горячий/горячего",
+              "горячий / горячего",
               "горячую",
               "горячее",
-              "горячие/горячих"
+              "горячие / горячих"
             ]
           },
           {
@@ -2913,11 +2917,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2957,7 +2961,7 @@
       "meanings": [
         {
           "en": "care, concern",
-          "note": "Attentive care for someone. Common feminine noun meaning 'care, concern' in everyday Russian."
+          "note": "Attentive care for someone."
         }
       ],
       "forms": {
@@ -3186,10 +3190,11 @@
       "pos": "noun",
       "gloss": "toy",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "toy",
-          "note": "Common feminine noun meaning 'toy' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3383,7 +3388,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3425,7 +3430,7 @@
       "meanings": [
         {
           "en": "beautiful, pretty, handsome",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beautiful, pretty, handsome')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3468,10 +3473,10 @@
           {
             "cells": [
               "accusative",
-              "красивый",
+              "красивый / красивого",
               "красивую",
               "красивое",
-              "красивые"
+              "красивые / красивых"
             ]
           },
           {
@@ -3706,11 +3711,15 @@
       "related": [
         {
           "word": "покушать",
+          "gloss": "to have something to eat"
+        },
+        {
+          "word": "есть",
           "gloss": "to eat"
         },
         {
-          "word": "накушаться",
-          "gloss": "to get drunk"
+          "word": "кушать подано",
+          "gloss": "dinner is served"
         }
       ]
     },
@@ -3726,7 +3735,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3827,11 +3836,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3915,8 +3924,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -3942,7 +3951,7 @@
       "meanings": [
         {
           "en": "any",
-          "note": "В любой момент = at any moment. Agrees in gender, number, and case with the noun it modifies ('any')."
+          "note": "В любой момент = at any moment."
         }
       ],
       "forms": {
@@ -4037,7 +4046,7 @@
       "meanings": [
         {
           "en": "boy",
-          "note": "A male child. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'boy' in everyday Russian."
+          "note": "A male child."
         },
         {
           "en": "boy!",
@@ -4127,11 +4136,11 @@
       "meanings": [
         {
           "en": "toy car, little car",
-          "note": "Diminutive of машина. Common feminine noun meaning 'toy car; small machine' in everyday Russian."
+          "note": "Diminutive of машина."
         },
         {
           "en": "small machine (sewing machine, typewriter)",
-          "note": "Common feminine noun meaning 'toy car; small machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4219,11 +4228,15 @@
       "meanings": [
         {
           "en": "to be in the way, to hinder",
-          "note": "+ dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to be in the way, to disturb', paired with 'помешать'."
+          "note": "+ dative."
         },
         {
           "en": "to disturb, to bother",
-          "note": "Не мешай! = Don't bother me!. Used as an imperfective (ongoing/repeated action) verb meaning 'to be in the way, to disturb', paired with 'помешать'."
+          "note": "Не мешай! = Don't bother me!"
+        },
+        {
+          "en": "to stir, to mix",
+          "note": "cooking: мешать ложкой = to stir with a spoon"
         }
       ],
       "forms": {
@@ -4330,11 +4343,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4368,7 +4381,7 @@
         },
         {
           "en": "a fine young man",
-          "note": "Old-fashioned. Common masculine noun meaning 'well done; good person' in everyday Russian."
+          "note": "Old-fashioned."
         }
       ],
       "forms": {
@@ -4722,7 +4735,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4803,7 +4816,7 @@
       "meanings": [
         {
           "en": "come on, go on, let's see",
-          "note": "Informal, before a command. Core Russian part meaning 'come on, go on' in everyday speech."
+          "note": "Informal, before a command."
         }
       ],
       "forms": null,
@@ -4833,7 +4846,7 @@
       "meanings": [
         {
           "en": "lunch, dinner (midday)",
-          "note": "Перерыв на обед = lunch break. Common masculine noun meaning 'lunch, midday meal' in everyday Russian."
+          "note": "Перерыв на обед = lunch break."
         }
       ],
       "forms": {
@@ -4954,11 +4967,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5096,7 +5109,7 @@
       "meanings": [
         {
           "en": "to build",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to build', paired with 'строить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'строить')."
         }
       ],
       "forms": {
@@ -5190,12 +5203,12 @@
           "gloss": "to build"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
-        },
-        {
           "word": "постройка",
           "gloss": "building"
+        },
+        {
+          "word": "строительство",
+          "gloss": "construction"
         }
       ]
     },
@@ -5207,7 +5220,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5238,7 +5251,7 @@
       "meanings": [
         {
           "en": "to grow, to grow up, to develop",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to grow, to grow up', paired with 'вырасти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5342,7 +5355,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -5424,7 +5437,7 @@
       "meanings": [
         {
           "en": "to cook, boil (soup)",
-          "note": "Prepare hot soup or meal. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'варить'). Used as a perfective (single completed action) verb meaning 'to cook, boil (soup)', paired with 'варить'."
+          "note": "Prepare hot soup or meal. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'варить')."
         }
       ],
       "forms": {
@@ -5515,15 +5528,15 @@
       "related": [
         {
           "word": "варить",
-          "gloss": "to boil"
+          "gloss": "to boil, cook"
         },
         {
-          "word": "вариант",
-          "gloss": "option"
+          "word": "свариться",
+          "gloss": "to be cooked"
         },
         {
-          "word": "предварительный",
-          "gloss": "preliminary"
+          "word": "повар",
+          "gloss": "cook"
         }
       ]
     },
@@ -5569,7 +5582,7 @@
       "meanings": [
         {
           "en": "strong, powerful (also used as a noun: the strong)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('strong, powerful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5612,10 +5625,10 @@
           {
             "cells": [
               "accusative",
-              "сильный",
+              "сильный / сильного",
               "сильную",
               "сильное",
-              "сильные"
+              "сильные / сильных"
             ]
           },
           {
@@ -5667,67 +5680,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5753,7 +5714,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6093,7 +6054,7 @@
         },
         {
           "en": "that's enough!",
-          "note": "Хватит!. Used as a perfective (single completed action) verb meaning 'to be enough', paired with 'хватать'."
+          "note": "Хватит!."
         }
       ],
       "forms": {
@@ -6148,6 +6109,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хвати",
+                "хватите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6167,15 +6145,15 @@
       "related": [
         {
           "word": "хватать",
-          "gloss": "to grab"
+          "gloss": "to be enough (impf); to grab"
         },
         {
-          "word": "схватить",
-          "gloss": "to grab"
+          "word": "хватит!",
+          "gloss": "that's enough!"
         },
         {
-          "word": "перехватить",
-          "gloss": "to intercept"
+          "word": "достаточно",
+          "gloss": "enough"
         }
       ]
     },
@@ -6231,7 +6209,7 @@
       "meanings": [
         {
           "en": "to misbehave, cause trouble",
-          "note": "Act rowdy or disruptively. Used as an imperfective (ongoing/repeated action) verb meaning 'to misbehave, cause trouble', paired with 'похулиганить'."
+          "note": "Act rowdy or disruptively."
         }
       ],
       "forms": {
@@ -6334,7 +6312,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,

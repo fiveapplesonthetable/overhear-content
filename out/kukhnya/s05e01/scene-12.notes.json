@@ -47,10 +47,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "мы",
@@ -195,7 +195,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -225,7 +225,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -303,7 +303,7 @@
           "lemma": "поступить",
           "pos": "verb",
           "stress": "поступи́ть",
-          "gloss": "get into",
+          "gloss": "to act; to get into",
           "gram": "infinitive, perfective"
         }
       ]
@@ -395,7 +395,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -526,7 +526,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "жениться.",
@@ -659,10 +659,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "мы",
@@ -807,7 +807,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -837,7 +837,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -915,7 +915,7 @@
           "lemma": "поступить",
           "pos": "verb",
           "stress": "поступи́ть",
-          "gloss": "get into",
+          "gloss": "to act; to get into",
           "gram": "infinitive, perfective"
         }
       ]
@@ -1007,7 +1007,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -1138,7 +1138,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "жениться.",
@@ -1271,10 +1271,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "мы",
@@ -1419,7 +1419,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1449,7 +1449,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1527,7 +1527,7 @@
           "lemma": "поступить",
           "pos": "verb",
           "stress": "поступи́ть",
-          "gloss": "get into",
+          "gloss": "to act; to get into",
           "gram": "infinitive, perfective"
         }
       ]
@@ -1619,7 +1619,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -1750,7 +1750,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "жениться.",
@@ -1855,7 +1855,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2171,84 +2171,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2344,7 +2266,7 @@
         },
         {
           "en": "way out, solution",
-          "note": "выход всегда есть = there's always a way out"
+          "note": ""
         }
       ],
       "forms": {
@@ -2428,7 +2350,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2451,44 +2373,6 @@
         {
           "word": "нет",
           "gloss": "no"
-        }
-      ]
-    },
-    "действительно": {
-      "lemma": "действительно",
-      "stress": "действи́тельно",
-      "pos": "adv",
-      "gloss": "really, indeed, truly",
-      "meanings": [
-        {
-          "en": "really, indeed, in fact",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Настроение у меня действительно очень хорошее.",
-          "trans": "My mood really is very good."
-        },
-        {
-          "text": "Это действительно важный вопрос.",
-          "trans": "This is indeed an important question."
-        },
-        {
-          "text": "Тихо, стой! Мне действительно больно!",
-          "trans": "Quiet, stop! It really hurts!"
-        }
-      ],
-      "related": [
-        {
-          "word": "действовать",
-          "gloss": "to act"
-        },
-        {
-          "word": "действующий",
-          "gloss": "acting"
         }
       ]
     },
@@ -2585,7 +2469,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2635,7 +2519,7 @@
       "meanings": [
         {
           "en": "share, portion, part",
-          "note": "Allotted portion. Common feminine noun meaning 'share, portion, lot' in everyday Russian."
+          "note": "Allotted portion."
         }
       ],
       "forms": {
@@ -2755,11 +2639,11 @@
       "meanings": [
         {
           "en": "to marry (на + prepositional, of a man); to get married",
-          "note": "Biaspectual verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to marry (of a man), to get married'."
+          "note": "Biaspectual verb."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2854,11 +2738,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2929,7 +2813,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2951,7 +2835,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2965,11 +2853,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3053,8 +2941,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -3204,7 +3092,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3240,7 +3128,7 @@
       "meanings": [
         {
           "en": "to begin, to start, to break out (intransitive)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to begin, to start, to break out', paired with 'начинаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3292,6 +3180,23 @@
                 "началась",
                 "началось",
                 "начались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "начнись",
+                "начнитесь"
               ]
             }
           ]
@@ -3368,7 +3273,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3488,7 +3393,7 @@
       "meanings": [
         {
           "en": "to be offended, to take offence",
-          "note": "На + accusative = at someone. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to take offence', paired with 'обижаться'."
+          "note": "На + accusative = at someone."
         }
       ],
       "forms": {
@@ -3543,20 +3448,37 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обидься",
+                "обидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Она обиделась.",
-          "trans": "She's offended."
-        },
-        {
-          "text": "Не обижайся!",
-          "trans": "Don't be offended!"
-        },
-        {
           "text": "Обиделась. У неё всегда так.",
           "trans": "She's offended. She's always like that."
+        },
+        {
+          "text": "Я очень надеюсь, что вы не обидитесь.",
+          "trans": "I really hope you won't be offended."
+        },
+        {
+          "text": "Я не поняла, ты сейчас на меня обиделся?",
+          "trans": "I didn't get it, are you offended at me now?"
         }
       ],
       "related": [
@@ -3744,7 +3666,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -3775,7 +3697,7 @@
       "meanings": [
         {
           "en": "to answer, to reply, to pick up the phone",
-          "note": "Отвечать кому / на звонок. Used as an imperfective (ongoing/repeated action) verb meaning 'to answer, to reply', paired with 'ответить'."
+          "note": "Отвечать кому / на звонок."
         }
       ],
       "forms": {
@@ -3870,44 +3792,6 @@
         }
       ]
     },
-    "очень": {
-      "lemma": "очень",
-      "stress": "о́чень",
-      "pos": "adv",
-      "gloss": "very, very much",
-      "meanings": [
-        {
-          "en": "very",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        },
-        {
-          "en": "very much",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я очень люблю наш город.",
-          "trans": "I love our town very much."
-        },
-        {
-          "text": "Это очень трудно.",
-          "trans": "It's very hard."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "совсем",
-          "gloss": "intensified / related adverb (very)"
-        }
-      ]
-    },
     "парень": {
       "lemma": "парень",
       "stress": "па́рень",
@@ -3917,11 +3801,11 @@
       "meanings": [
         {
           "en": "guy, young man",
-          "note": "Informal. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Informal."
         },
         {
           "en": "boyfriend",
-          "note": "Мой парень = my boyfriend. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Мой парень = my boyfriend."
         }
       ],
       "forms": {
@@ -4001,7 +3885,7 @@
       "meanings": [
         {
           "en": "after",
-          "note": "Preposition + genitive, or adverb. Core Russian prep meaning 'after' in everyday speech."
+          "note": "Preposition + genitive, or adverb."
         }
       ],
       "forms": null,
@@ -4041,11 +3925,11 @@
       "meanings": [
         {
           "en": "to get into (a university)",
-          "note": "'поступить в институт'. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ступить'). Used as a perfective (single completed action) verb meaning 'to enter, to get into (a university); to act', paired with 'поступать'."
+          "note": "'поступить в институт'. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ступить')."
         },
         {
           "en": "to act, to behave",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ступить'). Used as a perfective (single completed action) verb meaning 'to enter, to get into (a university); to act', paired with 'поступать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ступить')."
         }
       ],
       "forms": {
@@ -4365,7 +4249,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -4405,7 +4289,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4413,7 +4297,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4525,7 +4409,7 @@
       "meanings": [
         {
           "en": "bet, stake (in gambling)",
-          "note": "Сделать ставку = to place a bet. Common feminine noun meaning 'bet, stake' in everyday Russian."
+          "note": "Сделать ставку = to place a bet."
         }
       ],
       "forms": {
@@ -4605,11 +4489,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -4652,10 +4536,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -4678,29 +4562,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",
@@ -4866,8 +4728,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4879,11 +4749,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5032,7 +4902,7 @@
       "meanings": [
         {
           "en": "formally",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5040,11 +4910,11 @@
       "examples": [
         {
           "text": "Формально, да, ты её парень.",
-          "trans": "Formally, yes, you are her boyfriend."
+          "trans": "Formally, yes, you're her boyfriend."
         },
         {
-          "text": "Костя сказал это совершенно формально и спокойно.",
-          "trans": "Kostya said this quite formally and calmly."
+          "text": "Кстати, формально ты ведь выиграл пари.",
+          "trans": "By the way, technically you did win the bet."
         }
       ],
       "related": [
@@ -5066,7 +4936,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5171,7 +5041,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5226,6 +5096,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5253,15 +5140,97 @@
         }
       ]
     },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
+    },
     "юридически": {
       "lemma": "юридически",
-      "stress": "юридиче́ски",
+      "stress": "юриди́чески",
       "pos": "adv",
       "gloss": "legally",
       "meanings": [
         {
           "en": "legally",
-          "note": "High-frequency Russian conversational adverb meaning 'legally', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5269,34 +5238,31 @@
       "examples": [
         {
           "text": "Но юридически ты ей никто.",
-          "trans": "But legally you are nobody to her."
+          "trans": "But legally you're nothing to her."
         },
         {
-          "text": "Костя сказал это совершенно юридически и спокойно.",
-          "trans": "Kostya said this quite legally and calmly."
+          "text": "Чисто юридически ты ей не изменил.",
+          "trans": "Strictly legally speaking, you didn't cheat on her."
         }
       ],
       "related": [
         {
-          "word": "очень юридически",
-          "gloss": "very legally"
-        },
-        {
-          "word": "так юридически",
-          "gloss": "so legally"
+          "word": "юридический",
+          "gloss": "legal"
         }
       ]
     },
     "юрист": {
       "lemma": "юрист",
-      "stress": "ю́рист",
+      "stress": "юри́ст",
       "pos": "noun",
       "gloss": "lawyer",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "lawyer",
-          "note": "Agent noun formed with the international suffix '-ист' denoting a specialist or adherent. Common masculine noun meaning 'lawyer' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5331,8 +5297,8 @@
           {
             "cells": [
               "accusative",
-              "юрист",
-              "юристы"
+              "юриста",
+              "юристов"
             ]
           },
           {
@@ -5355,21 +5321,21 @@
       "examples": [
         {
           "text": "А я тогда завтра известным юристом стану!",
-          "trans": "And then tomorrow I will become a famous lawyer!"
+          "trans": "And then tomorrow I'll become a famous lawyer!"
         },
         {
-          "text": "На кухне ресторана всегда есть юрист.",
-          "trans": "In the restaurant kitchen there is always lawyer."
+          "text": "Мне на заводе хороший юрист нужен.",
+          "trans": "I need a good lawyer at the factory."
         }
       ],
       "related": [
         {
-          "word": "без юрис",
-          "gloss": "without lawyer"
+          "word": "юридический",
+          "gloss": "legal"
         },
         {
-          "word": "наш юрист",
-          "gloss": "our lawyer"
+          "word": "адвокат",
+          "gloss": "attorney"
         }
       ]
     },

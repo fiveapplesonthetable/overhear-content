@@ -231,7 +231,7 @@
           "lemma": "открывать",
           "pos": "verb",
           "stress": "открыва́й",
-          "gloss": "to open",
+          "gloss": "open",
           "gram": "2sg.imp"
         }
       ]
@@ -346,7 +346,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -400,7 +400,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -663,7 +663,7 @@
           "lemma": "открывать",
           "pos": "verb",
           "stress": "открыва́й",
-          "gloss": "to open",
+          "gloss": "open",
           "gram": "2sg.imp"
         }
       ]
@@ -778,7 +778,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -832,7 +832,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -1095,7 +1095,7 @@
           "lemma": "открывать",
           "pos": "verb",
           "stress": "открыва́й",
-          "gloss": "to open",
+          "gloss": "open",
           "gram": "2sg.imp"
         }
       ]
@@ -1210,7 +1210,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -1264,7 +1264,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -1364,7 +1364,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -1471,7 +1471,7 @@
         },
         {
           "en": "deliciously",
-          "note": "Вкусно готовить = to cook well. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Вкусно готовить = to cook well."
         }
       ],
       "forms": null,
@@ -1509,11 +1509,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1663,15 +1663,15 @@
       "meanings": [
         {
           "en": "gentleman, sir",
-          "note": "Formal. Common masculine noun meaning 'gentleman; Mr' in everyday Russian."
+          "note": "Formal."
         },
         {
           "en": "Mr (before a surname)",
-          "note": "Formal. Common masculine noun meaning 'gentleman; Mr' in everyday Russian."
+          "note": ""
         },
         {
           "en": "gentlemen (plural, as an address)",
-          "note": "The plural is irregular: господа. Common masculine noun meaning 'gentleman; Mr' in everyday Russian."
+          "note": "The plural is irregular: господа."
         }
       ],
       "forms": {
@@ -1760,11 +1760,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -1833,12 +1833,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -1893,6 +1891,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1912,17 +1927,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "значит": {
       "lemma": "значит",
@@ -2018,11 +2034,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2102,12 +2118,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2133,7 +2149,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -2175,7 +2191,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2352,11 +2368,11 @@
       "pos": "verb",
       "gloss": "to celebrate with a drink",
       "aspect": "pf",
-      "pair": null,
+      "pair": "обмывать",
       "meanings": [
         {
-          "en": "to celebrate with a drink",
-          "note": "Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'мыть'). Used as a perfective (single completed action) verb meaning 'to celebrate with a drink'."
+          "en": "to celebrate (something) with a drink (colloquial)",
+          "note": "Literally 'to wash'; обмыть покупку = to drink to a new purchase."
         }
       ],
       "forms": {
@@ -2370,22 +2386,22 @@
           {
             "cells": [
               "1st",
-              "обмыю",
-              "обмыем"
+              "обмою",
+              "обмоем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "обмыешь",
-              "обмыете"
+              "обмоешь",
+              "обмоете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "обмыет",
-              "обмыют"
+              "обмоет",
+              "обмоют"
             ]
           }
         ]
@@ -2411,22 +2427,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обмой",
+                "обмойте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Конечно! Надо это обмыть.",
-          "trans": "Of course! We need to celebrate this with a drink."
+          "trans": "Of course! We need to drink to this."
         },
         {
-          "text": "Надо всё сделать и обмыть вовремя.",
-          "trans": "We need to do everything and to celebrate with a drink on time."
+          "text": "Давай обмоем твою новую машину.",
+          "trans": "Let's drink to your new car."
         }
       ],
       "related": [
         {
-          "word": "не обмыть",
-          "gloss": "not to to celebrate with a drink (negated infinitive)"
+          "word": "обмывать",
+          "gloss": "to celebrate with a drink"
+        },
+        {
+          "word": "отметить",
+          "gloss": "to celebrate"
+        },
+        {
+          "word": "мыть",
+          "gloss": "to wash"
         }
       ]
     },
@@ -2553,7 +2594,7 @@
       "meanings": [
         {
           "en": "to open",
-          "note": "A door, a window. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'крыть'). Used as a perfective (single completed action) verb meaning 'to open', paired with 'открывать'."
+          "note": "A door, a window. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'крыть')."
         }
       ],
       "forms": {
@@ -2666,7 +2707,7 @@
       "meanings": [
         {
           "en": "to sign",
-          "note": "A document. Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'писать'). Used as a perfective (single completed action) verb meaning 'to sign', paired with 'подписывать'."
+          "note": "A document. Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'писать')."
         }
       ],
       "forms": {
@@ -2778,7 +2819,7 @@
       "meanings": [
         {
           "en": "signature",
-          "note": "On a document or letter. Common feminine noun meaning 'signature' in everyday Russian."
+          "note": "On a document or letter."
         }
       ],
       "forms": {
@@ -2920,6 +2961,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понравься",
+                "понравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2942,8 +3000,8 @@
           "gloss": "to be liked"
         },
         {
-          "word": "нравоучение",
-          "gloss": "moral lecture"
+          "word": "любить",
+          "gloss": "to love, to like"
         }
       ]
     },
@@ -2955,7 +3013,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -2998,10 +3056,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -3051,7 +3109,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -3427,11 +3485,11 @@
       "meanings": [
         {
           "en": "bank account",
-          "note": "Счёт в банке. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "Счёт в банке."
         },
         {
           "en": "bill, check",
-          "note": "In a restaurant. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "In a restaurant."
         }
       ],
       "forms": {
@@ -3453,14 +3511,14 @@
             "cells": [
               "genitive",
               "счёта",
-              "счетов"
+              "счётов"
             ]
           },
           {
             "cells": [
               "dative",
               "счёту",
-              "счетам"
+              "счётам"
             ]
           },
           {
@@ -3474,14 +3532,14 @@
             "cells": [
               "instrumental",
               "счётом",
-              "счетами"
+              "счётами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "счёте",
-              "счетах"
+              "счётах"
             ]
           }
         ]
@@ -3517,7 +3575,7 @@
       "meanings": [
         {
           "en": "toilet",
-          "note": "The room or the bowl. Common masculine noun meaning 'toilet' in everyday Russian."
+          "note": "The room or the bowl."
         }
       ],
       "forms": {
@@ -3737,7 +3795,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -3792,6 +3850,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3832,7 +3907,7 @@
       "meanings": [
         {
           "en": "dinner, supper (evening meal)",
-          "note": "Common masculine noun meaning 'dinner, supper (evening meal)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4027,42 +4102,42 @@
             "cells": [
               "nominative",
               "шампанское",
-              "—"
+              "шампанские"
             ]
           },
           {
             "cells": [
               "genitive",
               "шампанского",
-              "—"
+              "шампанских"
             ]
           },
           {
             "cells": [
               "dative",
               "шампанскому",
-              "—"
+              "шампанским"
             ]
           },
           {
             "cells": [
               "accusative",
               "шампанское",
-              "—"
+              "шампанские"
             ]
           },
           {
             "cells": [
               "instrumental",
               "шампанским",
-              "—"
+              "шампанскими"
             ]
           },
           {
             "cells": [
               "prepositional",
               "шампанском",
-              "—"
+              "шампанских"
             ]
           }
         ]

@@ -41,8 +41,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "were he",
-          "gram": "conjugated verb"
+          "gloss": "be",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "любезен",
@@ -50,7 +50,7 @@
           "pos": "adj",
           "stress": "любе́зен",
           "gloss": "kind, polite",
-          "gram": "nominative masculine singular"
+          "gram": "short form, masculine singular"
         },
         {
           "t": "это",
@@ -192,8 +192,8 @@
           "t": "спрашивать.",
           "lemma": "спрашивать",
           "pos": "verb",
-          "stress": "спраши́вать",
-          "gloss": "am asking",
+          "stress": "спра́шивать",
+          "gloss": "to ask",
           "gram": "infinitive"
         }
       ]
@@ -394,8 +394,8 @@
           "t": "Отошел.",
           "lemma": "отойти",
           "pos": "verb",
-          "stress": "ото́шел",
-          "gloss": "wore off, moved away",
+          "stress": "отоше́л",
+          "gloss": "stepped away",
           "gram": "masculine singular past, perfective"
         }
       ]
@@ -439,8 +439,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "were he",
-          "gram": "conjugated verb"
+          "gloss": "be",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "любезен",
@@ -448,7 +448,7 @@
           "pos": "adj",
           "stress": "любе́зен",
           "gloss": "kind, polite",
-          "gram": "nominative masculine singular"
+          "gram": "short form, masculine singular"
         },
         {
           "t": "это",
@@ -590,8 +590,8 @@
           "t": "спрашивать.",
           "lemma": "спрашивать",
           "pos": "verb",
-          "stress": "спраши́вать",
-          "gloss": "am asking",
+          "stress": "спра́шивать",
+          "gloss": "to ask",
           "gram": "infinitive"
         }
       ]
@@ -792,8 +792,8 @@
           "t": "Отошел.",
           "lemma": "отойти",
           "pos": "verb",
-          "stress": "ото́шел",
-          "gloss": "wore off, moved away",
+          "stress": "отоше́л",
+          "gloss": "stepped away",
           "gram": "masculine singular past, perfective"
         }
       ]
@@ -837,8 +837,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "were he",
-          "gram": "conjugated verb"
+          "gloss": "be",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "любезен",
@@ -846,7 +846,7 @@
           "pos": "adj",
           "stress": "любе́зен",
           "gloss": "kind, polite",
-          "gram": "nominative masculine singular"
+          "gram": "short form, masculine singular"
         },
         {
           "t": "это",
@@ -988,8 +988,8 @@
           "t": "спрашивать.",
           "lemma": "спрашивать",
           "pos": "verb",
-          "stress": "спраши́вать",
-          "gloss": "am asking",
+          "stress": "спра́шивать",
+          "gloss": "to ask",
           "gram": "infinitive"
         }
       ]
@@ -1190,8 +1190,8 @@
           "t": "Отошел.",
           "lemma": "отойти",
           "pos": "verb",
-          "stress": "ото́шел",
-          "gloss": "wore off, moved away",
+          "stress": "отоше́л",
+          "gloss": "stepped away",
           "gram": "masculine singular past, perfective"
         }
       ]
@@ -1380,11 +1380,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1424,7 +1424,7 @@
       "meanings": [
         {
           "en": "to remember, to recall",
-          "note": "'вспомни' = remember (that) . Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'помнить'). Used as a perfective (single completed action) verb meaning 'to remember, to recall', paired with 'вспоминать'."
+          "note": "'вспомни' = remember (that) . Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'помнить')."
         }
       ],
       "forms": {
@@ -1527,11 +1527,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1570,7 +1570,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1690,12 +1690,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -1750,6 +1748,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1769,17 +1784,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -1827,7 +1843,7 @@
       "meanings": [
         {
           "en": "famous, well-known",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('famous, well-known')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1870,10 +1886,10 @@
           {
             "cells": [
               "accusative",
-              "известный",
+              "известный / известного",
               "известную",
               "известное",
-              "известные"
+              "известные / известных"
             ]
           },
           {
@@ -1899,16 +1915,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Он самый известный человек в городе.",
-          "trans": "He is the most famous man in town."
-        },
-        {
-          "text": "Вы сами подумайте. Он самый известный человек в Синеозерске!",
-          "trans": "Think about it yourselves. He is the most famous man in Sineozersk!"
-        },
-        {
           "text": "Он самый известный человек в Синеозерске!",
           "trans": "He is the most famous man in Sineozersk!"
+        },
+        {
+          "text": "Я шеф-повар этого известного ресторана.",
+          "trans": "I am the head chef of this famous restaurant."
+        },
+        {
+          "text": "Она у нас очень известная певица.",
+          "trans": "She is a very famous singer here."
         }
       ],
       "related": [
@@ -1930,11 +1946,11 @@
       "meanings": [
         {
           "en": "it's interesting",
-          "note": "Predicative: очень интересно. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Predicative: очень интересно."
         },
         {
           "en": "how interesting (often ironic)",
-          "note": "Как интересно!. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Как интересно!."
         }
       ],
       "forms": null,
@@ -1972,7 +1988,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2161,11 +2177,11 @@
       "meanings": [
         {
           "en": "kind, obliging",
-          "note": "A very polite request. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('kind, polite')."
+          "note": "A very polite request."
         },
         {
           "en": "'Будьте любезны' = would you be so kind",
-          "note": "A very polite request. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('kind, polite')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2208,10 +2224,10 @@
           {
             "cells": [
               "accusative",
-              "любезный/любезного",
+              "любезный / любезного",
               "любезную",
               "любезное",
-              "любезные/любезных"
+              "любезные / любезных"
             ]
           },
           {
@@ -2234,29 +2250,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "любезен",
-                "любезна",
-                "любезно",
-                "любезны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Будьте любезны, позвоните мне.",
@@ -2292,7 +2286,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2344,6 +2338,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -2427,7 +2438,7 @@
         },
         {
           "en": "to name",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'звать'). Used as a perfective (single completed action) verb meaning 'to call, to name', paired with 'называть'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'звать')."
         }
       ],
       "forms": {
@@ -2756,7 +2767,7 @@
       "meanings": [
         {
           "en": "to step aside, to move back",
-          "note": "Perfective of отходить. Used as a perfective (single completed action) verb meaning 'to step back, to move away', paired with 'отходить'."
+          "note": "Perfective of отходить."
         }
       ],
       "forms": {
@@ -2867,7 +2878,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -2963,11 +2974,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -3109,7 +3120,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -3222,7 +3233,7 @@
       "meanings": [
         {
           "en": "to ask (a question)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask', paired with 'спросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3470,7 +3481,7 @@
       "meanings": [
         {
           "en": "footballer, soccer player",
-          "note": "Agent noun formed with the international suffix '-ист' denoting a specialist or adherent. Common masculine noun meaning 'footballer, soccer player' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3505,8 +3516,8 @@
           {
             "cells": [
               "accusative",
-              "футболист",
-              "футболисты"
+              "футболиста",
+              "футболистов"
             ]
           },
           {
@@ -3555,7 +3566,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

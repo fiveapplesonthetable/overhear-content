@@ -24,11 +24,11 @@
         },
         {
           "t": "родители",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́тели",
           "gloss": "parents",
-          "gram": "plural vocative/nominative"
+          "gram": "nominative plural"
         },
         {
           "t": "сказали?",
@@ -118,7 +118,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "скажешь?",
@@ -137,10 +137,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "будете",
@@ -208,9 +208,9 @@
           "t": "пойдешь",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдёшь",
+          "stress": "пойде́шь",
           "gloss": "will go",
-          "gram": "UNKNOWN"
+          "gram": "2nd person singular future, perfective"
         },
         {
           "t": "со",
@@ -332,7 +332,7 @@
           "pos": "noun",
           "stress": "выходны́е",
           "gloss": "weekends",
-          "gram": "accusative plural"
+          "gram": "nominative / accusative plural"
         }
       ]
     },
@@ -496,11 +496,11 @@
         },
         {
           "t": "родители",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́тели",
           "gloss": "parents",
-          "gram": "plural vocative/nominative"
+          "gram": "nominative plural"
         },
         {
           "t": "сказали?",
@@ -590,7 +590,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "скажешь?",
@@ -609,10 +609,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "будете",
@@ -680,9 +680,9 @@
           "t": "пойдешь",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдёшь",
+          "stress": "пойде́шь",
           "gloss": "will go",
-          "gram": "UNKNOWN"
+          "gram": "2nd person singular future, perfective"
         },
         {
           "t": "со",
@@ -804,7 +804,7 @@
           "pos": "noun",
           "stress": "выходны́е",
           "gloss": "weekends",
-          "gram": "accusative plural"
+          "gram": "nominative / accusative plural"
         }
       ]
     },
@@ -968,11 +968,11 @@
         },
         {
           "t": "родители",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́тели",
           "gloss": "parents",
-          "gram": "plural vocative/nominative"
+          "gram": "nominative plural"
         },
         {
           "t": "сказали?",
@@ -1062,7 +1062,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "скажешь?",
@@ -1081,10 +1081,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "будете",
@@ -1152,9 +1152,9 @@
           "t": "пойдешь",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдёшь",
+          "stress": "пойде́шь",
           "gloss": "will go",
-          "gram": "UNKNOWN"
+          "gram": "2nd person singular future, perfective"
         },
         {
           "t": "со",
@@ -1276,7 +1276,7 @@
           "pos": "noun",
           "stress": "выходны́е",
           "gloss": "weekends",
-          "gram": "accusative plural"
+          "gram": "nominative / accusative plural"
         }
       ]
     },
@@ -1435,7 +1435,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1452,7 +1452,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -1547,15 +1547,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -1826,98 +1830,11 @@
         }
       ]
     },
-    "выходной": {
-      "lemma": "выходной",
-      "stress": "выходно́й",
-      "pos": "noun",
-      "gloss": "day off; weekend (in pl)",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "day off; weekend (in plural выходные)",
-          "note": "substantivized adjective, declines like an adjective"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "выходной",
-              "выходные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "выходного",
-              "выходных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "выходному",
-              "выходным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "выходной",
-              "выходные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "выходным",
-              "выходными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "выходном",
-              "выходных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Сегодня выходные, всё круто!",
-          "trans": "It is the weekend today, everything is cool!"
-        },
-        {
-          "text": "Завтра у меня выходной.",
-          "trans": "Tomorrow is my day off."
-        },
-        {
-          "text": "Всё отлично, отдыхай! Сегодня выходные, всё круто!",
-          "trans": "Everything is great, get some rest! It is the weekend today, everything is cool!"
-        }
-      ],
-      "related": [
-        {
-          "word": "выходные",
-          "gloss": "weekend"
-        }
-      ]
-    },
     "выходные": {
       "lemma": "выходные",
       "stress": "выходны́е",
       "pos": "noun",
       "gloss": "weekend, days off",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -2011,7 +1928,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2049,11 +1966,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2122,7 +2039,7 @@
       "meanings": [
         {
           "en": "to look for, to search",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to look for'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2225,7 +2142,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2332,7 +2249,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -2374,7 +2291,7 @@
       "meanings": [
         {
           "en": "horseback, equestrian",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('horseback, equestrian')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2417,10 +2334,10 @@
           {
             "cells": [
               "accusative",
-              "конный",
+              "конный / конного",
               "конную",
               "конное",
-              "конные"
+              "конные / конных"
             ]
           },
           {
@@ -2456,12 +2373,16 @@
       ],
       "related": [
         {
-          "word": "конно",
-          "gloss": "horsebackly (adverbial form)"
+          "word": "конь",
+          "gloss": "horse"
         },
         {
-          "word": "очень конный",
-          "gloss": "very horseback"
+          "word": "конная прогулка",
+          "gloss": "horse ride"
+        },
+        {
+          "word": "верхом",
+          "gloss": "on horseback"
         }
       ]
     },
@@ -2473,7 +2394,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2495,7 +2416,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2507,7 +2432,7 @@
       "meanings": [
         {
           "en": "molecular",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('molecular')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2550,10 +2475,10 @@
           {
             "cells": [
               "accusative",
-              "молекулярный",
+              "молекулярный / молекулярного",
               "молекулярную",
               "молекулярное",
-              "молекулярные"
+              "молекулярные / молекулярных"
             ]
           },
           {
@@ -2608,7 +2533,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2660,6 +2585,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -2976,7 +2918,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -3058,7 +3000,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -3167,11 +3109,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -3385,10 +3327,11 @@
       "pos": "noun",
       "gloss": "walk, ride",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "walk, ride",
-          "note": "Common feminine noun meaning 'walk, ride' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3410,7 +3353,7 @@
             "cells": [
               "genitive",
               "прогулки",
-              "прогулк"
+              "прогулок"
             ]
           },
           {
@@ -3456,12 +3399,12 @@
       ],
       "related": [
         {
-          "word": "без прогулк",
-          "gloss": "without walk"
+          "word": "гулять",
+          "gloss": "to walk, stroll"
         },
         {
-          "word": "наш прогулка",
-          "gloss": "our walk"
+          "word": "прогуляться",
+          "gloss": "to take a walk"
         }
       ]
     },
@@ -3507,224 +3450,17 @@
         }
       ]
     },
-    "рассказать": {
-      "lemma": "рассказать",
-      "stress": "рассказа́ть",
-      "pos": "verb",
-      "gloss": "to tell (a story, news)",
-      "aspect": "pf",
-      "pair": "рассказывать",
-      "governs": "кому? (dative) + что? (accusative)",
-      "meanings": [
-        {
-          "en": "to tell",
-          "note": "about something: рассказать о + prepositional"
-        },
-        {
-          "en": "tell that to ...",
-          "note": "ironic: Сталину расскажите = tell that to Stalin"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "расскажу",
-              "расскажем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "расскажешь",
-              "расскажете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "расскажет",
-              "расскажут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "рассказал",
-                "рассказала",
-                "рассказало",
-                "рассказали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "расскажи",
-                "расскажите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Расскажи, что случилось.",
-          "trans": "Tell me what happened."
-        },
-        {
-          "text": "Я всё расскажу маме.",
-          "trans": "I'll tell Mum everything."
-        },
-        {
-          "text": "Сталину расскажите.",
-          "trans": "Tell that to Stalin."
-        }
-      ],
-      "related": [
-        {
-          "word": "рассказывать",
-          "gloss": "to tell"
-        },
-        {
-          "word": "подсказать",
-          "gloss": "to prompt"
-        }
-      ]
-    },
-    "родители": {
-      "lemma": "родители",
-      "stress": "роди́тели",
-      "pos": "noun",
-      "gloss": "parents",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "parents (plural; singular родитель is formal)",
-          "note": "Common masculine noun meaning 'parents' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "родитель",
-              "родители"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "родителя",
-              "родителей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "родителю",
-              "родителям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "родителя",
-              "родителей"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "родителем",
-              "родителями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "родителе",
-              "родителях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пожалуйста, родителям не говорите.",
-          "trans": "Please don't tell my parents."
-        },
-        {
-          "text": "Мои родители живут в деревне.",
-          "trans": "My parents live in the country."
-        },
-        {
-          "text": "Я здесь работаю. Только, пожалуйста, родителям не говорите.",
-          "trans": "I work here. Just please don't tell my parents."
-        }
-      ],
-      "related": [
-        {
-          "word": "родиться",
-          "gloss": "to be born"
-        },
-        {
-          "word": "родина",
-          "gloss": "motherland"
-        },
-        {
-          "word": "зародить",
-          "gloss": "to engender"
-        }
-      ]
-    },
     "родитель": {
       "lemma": "родитель",
       "stress": "роди́тель",
       "pos": "noun",
       "gloss": "parent",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "parent",
-          "note": "Father or mother. Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'parent' in everyday Russian."
+          "note": "Usually plural: родители = parents."
         }
       ],
       "forms": {
@@ -3782,30 +3518,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Подарите работы родителям.",
-          "trans": "Give the works to parents."
+          "text": "Только, пожалуйста, родителям не говорите.",
+          "trans": "Just please don't tell my parents."
         },
         {
-          "text": "Родители пришли на школьный праздник.",
-          "trans": "The parents came to the school celebration."
+          "text": "Мои родители живут в деревне.",
+          "trans": "My parents live in the country."
         },
         {
           "text": "Возьмите свои работы и подарите родителям.",
-          "trans": "Take your works and give them to parents."
+          "trans": "Take your work and give it to your parents."
         }
       ],
       "related": [
         {
-          "word": "родиться",
-          "gloss": "to be born"
+          "word": "родительский",
+          "gloss": "parental"
         },
         {
-          "word": "родители",
-          "gloss": "parents"
+          "word": "родить",
+          "gloss": "to give birth"
         },
         {
-          "word": "родина",
-          "gloss": "motherland"
+          "word": "родня",
+          "gloss": "kin"
         }
       ]
     },
@@ -3862,7 +3598,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -3953,15 +3689,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4233,7 +3969,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4421,6 +4157,88 @@
           "gloss": "because"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "я": {
       "lemma": "я",

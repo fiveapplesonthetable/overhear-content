@@ -274,7 +274,7 @@
           "pos": "adj",
           "stress": "плохи́м",
           "gloss": "bad",
-          "gram": "neuter singular, instrumental"
+          "gram": "masculine/neuter singular, instrumental"
         },
         {
           "t": "словом.",
@@ -419,7 +419,7 @@
           "lemma": "забывать",
           "pos": "verb",
           "stress": "забыва́ем",
-          "gloss": "(we're) forgetting",
+          "gloss": "let's forget (it)",
           "gram": "present, 1st person plural, imperfective"
         }
       ]
@@ -645,8 +645,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "сами",
@@ -853,7 +853,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -892,7 +892,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "года",
@@ -1250,7 +1250,7 @@
           "pos": "adj",
           "stress": "плохи́м",
           "gloss": "bad",
-          "gram": "neuter singular, instrumental"
+          "gram": "masculine/neuter singular, instrumental"
         },
         {
           "t": "словом.",
@@ -1401,7 +1401,7 @@
           "lemma": "забывать",
           "pos": "verb",
           "stress": "забыва́ем",
-          "gloss": "(we're) forgetting",
+          "gloss": "let's forget (it)",
           "gram": "present, 1st person plural, imperfective"
         }
       ]
@@ -1633,8 +1633,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "сами",
@@ -1841,7 +1841,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -1880,7 +1880,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "года",
@@ -2226,7 +2226,7 @@
           "pos": "adj",
           "stress": "плохи́м",
           "gloss": "bad",
-          "gram": "neuter singular, instrumental"
+          "gram": "masculine/neuter singular, instrumental"
         },
         {
           "t": "словом.",
@@ -2371,7 +2371,7 @@
           "lemma": "забывать",
           "pos": "verb",
           "stress": "забыва́ем",
-          "gloss": "(we're) forgetting",
+          "gloss": "let's forget (it)",
           "gram": "present, 1st person plural, imperfective"
         }
       ]
@@ -2597,8 +2597,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "сами",
@@ -2805,7 +2805,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -2844,7 +2844,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "года",
@@ -3141,7 +3141,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -3254,11 +3254,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3310,6 +3310,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -3404,7 +3421,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -3431,7 +3448,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -3556,7 +3573,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3582,49 +3599,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -3635,11 +3609,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3730,15 +3708,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3884,7 +3862,7 @@
       "meanings": [
         {
           "en": "to take away, to pick up",
-          "note": "забрать заявление = to withdraw a statement"
+          "note": "забрать детей из школы = to pick the kids up from school"
         },
         {
           "en": "to withdraw",
@@ -4001,7 +3979,7 @@
       "meanings": [
         {
           "en": "to forget (in progress or habitually)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to forget', paired with 'забыть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4077,16 +4055,16 @@
       ],
       "examples": [
         {
-          "text": "Забываем!",
-          "trans": "We're forgetting it!"
-        },
-        {
           "text": "Я всегда забываю ключи.",
           "trans": "I always forget my keys."
         },
         {
+          "text": "Дима, не забывай, что ресторан ты мне продал.",
+          "trans": "Dima, don't forget that you sold me the restaurant."
+        },
+        {
           "text": "Давай. Забываем!",
-          "trans": "Go on. We're forgetting!"
+          "trans": "Come on. Let's forget it!"
         }
       ],
       "related": [
@@ -4213,115 +4191,6 @@
         }
       ]
     },
-    "засекать": {
-      "lemma": "засекать",
-      "stress": "засека́ть",
-      "pos": "verb",
-      "gloss": "to time (with a watch)",
-      "aspect": "impf",
-      "pair": "засечь",
-      "meanings": [
-        {
-          "en": "to time, to start the clock",
-          "note": "засекать время; Засекай! = Time me!"
-        },
-        {
-          "en": "to spot, to notice",
-          "note": "Colloquial. Used as an imperfective (ongoing/repeated action) verb meaning 'to time (with a watch)', paired with 'засечь'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "засекаю",
-              "засекаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "засекаешь",
-              "засекаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "засекает",
-              "засекают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "засекал",
-                "засекала",
-                "засекало",
-                "засекали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "засекай",
-                "засекайте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Засекай!",
-          "trans": "Time me!"
-        },
-        {
-          "text": "Я засекаю время.",
-          "trans": "I'm timing it."
-        },
-        {
-          "text": "Понял, шеф, я засекаю точное время.",
-          "trans": "Understood, Chef, I am clocking the exact time."
-        }
-      ],
-      "related": [
-        {
-          "word": "засечь",
-          "gloss": "to time"
-        }
-      ]
-    },
     "и": {
       "lemma": "и",
       "stress": "и",
@@ -4370,7 +4239,7 @@
       "meanings": [
         {
           "en": "to apologise",
-          "note": "перед + instrumental: before someone"
+          "note": "перед + instrumental: to someone; за + accusative: for something"
         }
       ],
       "forms": {
@@ -4611,11 +4480,15 @@
       "meanings": [
         {
           "en": "to be in the way, to hinder",
-          "note": "+ dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to be in the way, to disturb', paired with 'помешать'."
+          "note": "+ dative."
         },
         {
           "en": "to disturb, to bother",
-          "note": "Не мешай! = Don't bother me!. Used as an imperfective (ongoing/repeated action) verb meaning 'to be in the way, to disturb', paired with 'помешать'."
+          "note": "Не мешай! = Don't bother me!"
+        },
+        {
+          "en": "to stir, to mix",
+          "note": "cooking: мешать ложкой = to stir with a spoon"
         }
       ],
       "forms": {
@@ -4723,11 +4596,11 @@
       "meanings": [
         {
           "en": "concrete mixer truck",
-          "note": "On a building site. Common masculine noun meaning 'mixer; concrete mixer truck' in everyday Russian."
+          "note": "On a building site."
         },
         {
           "en": "mixer",
-          "note": "In a kitchen. Common masculine noun meaning 'mixer; concrete mixer truck' in everyday Russian."
+          "note": "In a kitchen."
         }
       ],
       "forms": {
@@ -4808,7 +4681,7 @@
       "meanings": [
         {
           "en": "minute",
-          "note": "Common feminine noun meaning 'minute' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4903,7 +4776,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4955,6 +4828,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -5038,7 +4928,7 @@
         },
         {
           "en": "to name",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'звать'). Used as a perfective (single completed action) verb meaning 'to call, to name', paired with 'называть'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'звать')."
         }
       ],
       "forms": {
@@ -5151,7 +5041,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5255,7 +5145,7 @@
       "meanings": [
         {
           "en": "boss, head, chief",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'boss, head' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5420,7 +5310,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -5491,48 +5381,6 @@
         }
       ],
       "related": []
-    },
-    "ничего": {
-      "lemma": "ничего",
-      "stress": "ничего́",
-      "pos": "pron",
-      "gloss": "nothing; never mind",
-      "meanings": [
-        {
-          "en": "nothing",
-          "note": "Pronounced 'nichevo'. Core Russian pron meaning 'nothing; never mind' in everyday speech."
-        },
-        {
-          "en": "never mind, it's okay",
-          "note": "As a reply on its own. Core Russian pron meaning 'nothing; never mind' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ничего, ничего.",
-          "trans": "Never mind, never mind."
-        },
-        {
-          "text": "Я ничего не знаю.",
-          "trans": "I don't know anything."
-        },
-        {
-          "text": "Я ничего не понял, Аркаш.",
-          "trans": "I didn't understand a thing, Arkash."
-        }
-      ],
-      "related": [
-        {
-          "word": "ничто",
-          "gloss": "nothing"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
-        }
-      ]
     },
     "ничто": {
       "lemma": "ничто",
@@ -5849,11 +5697,15 @@
       "meanings": [
         {
           "en": "to carry (something) to another place",
-          "note": "Перенести встречу. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to carry over, to move', paired with 'переносить'."
+          "note": ""
         },
         {
-          "en": "to postpone",
-          "note": "Перенести встречу. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to carry over, to move', paired with 'переносить'."
+          "en": "to postpone, reschedule",
+          "note": "перенести встречу / съёмки на завтра"
+        },
+        {
+          "en": "to endure, bear",
+          "note": ""
         }
       ],
       "forms": {
@@ -5964,7 +5816,7 @@
       "meanings": [
         {
           "en": "bad",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('bad')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6040,8 +5892,8 @@
           "trans": "Bad weather."
         },
         {
-          "text": "Это не плохая работа.",
-          "trans": "It's not a bad job."
+          "text": "Тебе же предложили работу. Что, плохая работа?",
+          "trans": "You were offered a job. What, is it a bad job?"
         },
         {
           "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
@@ -6120,42 +5972,42 @@
             "cells": [
               "nominative",
               "полиция",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "genitive",
               "полиции",
-              "—"
+              "полиций"
             ]
           },
           {
             "cells": [
               "dative",
               "полиции",
-              "—"
+              "полициям"
             ]
           },
           {
             "cells": [
               "accusative",
               "полицию",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "instrumental",
               "полицией",
-              "—"
+              "полициями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "полиции",
-              "—"
+              "полициях"
             ]
           }
         ]
@@ -6242,6 +6094,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получайся",
+                "получайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6280,11 +6149,11 @@
       "meanings": [
         {
           "en": "to disturb, to interrupt",
-          "note": "Не помешал? = Am I interrupting?. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать'). Used as a perfective (single completed action) verb meaning 'to disturb, to interrupt; to hinder', paired with 'мешать'."
+          "note": "Не помешал? = Am I interrupting?. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать')."
         },
         {
           "en": "to get in the way, to prevent",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать'). Used as a perfective (single completed action) verb meaning 'to disturb, to interrupt; to hinder', paired with 'мешать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать')."
         }
       ],
       "forms": {
@@ -6339,6 +6208,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "помешай",
+                "помешайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6358,11 +6244,11 @@
       "related": [
         {
           "word": "мешать",
-          "gloss": "to be in the way"
+          "gloss": "to be in the way; to stir"
         },
         {
-          "word": "смешать",
-          "gloss": "mix"
+          "word": "помеха",
+          "gloss": "obstacle, hindrance"
         }
       ]
     },
@@ -6376,11 +6262,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -6493,7 +6379,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -6541,6 +6427,23 @@
                 "приветствовала",
                 "приветствовало",
                 "приветствовали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "приветствуй",
+                "приветствуйте"
               ]
             }
           ]
@@ -6663,11 +6566,11 @@
       "meanings": [
         {
           "en": "to get through, to drive past",
-          "note": "By vehicle. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to drive through, to get past', paired with 'проезжать'."
+          "note": "By vehicle. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ехать')."
         },
         {
           "en": "to travel (a distance)",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to drive through, to get past', paired with 'проезжать'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ехать')."
         }
       ],
       "forms": {
@@ -7189,8 +7092,12 @@
       ],
       "related": [
         {
-          "word": "ради",
-          "gloss": "for the sake of"
+          "word": "батарея",
+          "gloss": "radiator (heating)"
+        },
+        {
+          "word": "отопление",
+          "gloss": "heating"
         }
       ]
     },
@@ -7202,7 +7109,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -7348,7 +7255,7 @@
         },
         {
           "en": "promise",
-          "note": "'дать слово' = to give one's word, 'держать слово' = to keep one's word"
+          "note": ""
         }
       ],
       "forms": {
@@ -7470,7 +7377,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -7499,7 +7406,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -7668,7 +7575,7 @@
       "meanings": [
         {
           "en": "to fire, to sack",
-          "note": "Уволен = fired (short participle). Used as a perfective (single completed action) verb meaning 'to fire, to dismiss', paired with 'увольнять'."
+          "note": "Уволен = fired (short participle)."
         }
       ],
       "forms": {
@@ -7723,6 +7630,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволь",
+                "увольте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -7763,7 +7687,7 @@
         },
         {
           "en": "success",
-          "note": "Common feminine noun meaning 'luck' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7874,7 +7798,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {

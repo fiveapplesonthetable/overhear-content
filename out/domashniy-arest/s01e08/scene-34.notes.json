@@ -135,7 +135,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -173,7 +173,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -390,7 +390,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         },
         {
           "t": "какая-то!",
@@ -463,7 +463,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -913,7 +913,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -951,7 +951,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -1168,7 +1168,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         },
         {
           "t": "какая-то!",
@@ -1241,7 +1241,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1691,7 +1691,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1729,7 +1729,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -1946,7 +1946,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         },
         {
           "t": "какая-то!",
@@ -2019,7 +2019,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -2364,7 +2364,7 @@
         },
         {
           "en": "painfully",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2514,11 +2514,11 @@
       "meanings": [
         {
           "en": "thing",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": "Plural 'вещи'."
         },
         {
           "en": "things, belongings",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2590,86 +2590,16 @@
       ],
       "related": [
         {
-          "word": "вещный",
-          "gloss": "related to thing (adj.)"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
+          "word": "вещи",
+          "gloss": "things, belongings"
         },
         {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
+          "word": "вещица",
+          "gloss": "little thing"
         },
         {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
+          "word": "вещичка",
+          "gloss": "little thing, trinket"
         }
       ]
     },
@@ -2880,49 +2810,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2933,11 +2820,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3028,15 +2919,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3143,7 +3034,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3266,11 +3157,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3339,7 +3230,7 @@
       "meanings": [
         {
           "en": "to replace, to substitute",
-          "note": "Заменить X на Y. Used as a perfective (single completed action) verb meaning 'to replace', paired with 'заменять'."
+          "note": "Заменить X на Y."
         }
       ],
       "forms": {
@@ -3448,11 +3339,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "A bell or phone."
         }
       ],
       "forms": {
@@ -3782,7 +3673,7 @@
       "meanings": [
         {
           "en": "massage",
-          "note": "Делать массаж = to give a massage. Common masculine noun meaning 'massage' in everyday Russian."
+          "note": "Делать массаж = to give a massage."
         }
       ],
       "forms": {
@@ -3867,7 +3758,7 @@
       "meanings": [
         {
           "en": "disgusting, vile, nasty",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('disgusting, vile, nasty')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3910,10 +3801,10 @@
           {
             "cells": [
               "accusative",
-              "мерзкий",
+              "мерзкий / мерзкого",
               "мерзкую",
               "мерзкое",
-              "мерзкие"
+              "мерзкие / мерзких"
             ]
           },
           {
@@ -4081,7 +3972,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4272,29 +4163,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -4499,15 +4368,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -4547,7 +4416,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4656,7 +4525,7 @@
         },
         {
           "en": "to feel sorry for",
-          "note": "+ accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалеть'). Used as a perfective (single completed action) verb meaning 'to regret; to feel sorry', paired with 'жалеть'."
+          "note": "+ accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалеть')."
         }
       ],
       "forms": {
@@ -4759,7 +4628,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4803,7 +4672,7 @@
       "meanings": [
         {
           "en": "to look after, take care of",
-          "note": "Takes о/об + prepositional. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'заботиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to take care of, look after', paired with 'заботиться'."
+          "note": "Takes о/об + prepositional. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'заботиться')."
         }
       ],
       "forms": {
@@ -4936,7 +4805,7 @@
       "meanings": [
         {
           "en": "peace, rest, quiet",
-          "note": "Оставить в покое = leave alone. Common masculine noun meaning 'peace, rest, quiet' in everyday Russian."
+          "note": "Оставить в покое = leave alone."
         }
       ],
       "forms": {
@@ -4951,42 +4820,42 @@
             "cells": [
               "nominative",
               "покой",
-              "—"
+              "покои"
             ]
           },
           {
             "cells": [
               "genitive",
               "покоя",
-              "—"
+              "покоев"
             ]
           },
           {
             "cells": [
               "dative",
               "покою",
-              "—"
+              "покоям"
             ]
           },
           {
             "cells": [
               "accusative",
               "покой",
-              "—"
+              "покои"
             ]
           },
           {
             "cells": [
               "instrumental",
               "покоем",
-              "—"
+              "покоями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "покое",
-              "—"
+              "покоях"
             ]
           }
         ]
@@ -5168,11 +5037,11 @@
       "meanings": [
         {
           "en": "to offer",
-          "note": "Used as a perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+          "note": ""
         },
         {
           "en": "to suggest",
-          "note": "Used as a perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5227,6 +5096,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "предложи",
+                "предложите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5246,11 +5132,11 @@
       "related": [
         {
           "word": "предлагать",
-          "gloss": "to suggest"
+          "gloss": "to offer (impf)"
         },
         {
-          "word": "заложить",
-          "gloss": "to lay"
+          "word": "предложение",
+          "gloss": "offer, proposal"
         }
       ]
     },
@@ -5268,7 +5154,7 @@
         },
         {
           "en": "to introduce, present",
-          "note": "Someone or something. Used as an imperfective (ongoing/repeated action) verb meaning 'to imagine; to introduce, present', paired with 'представить'."
+          "note": "Someone or something."
         }
       ],
       "forms": {
@@ -5410,7 +5296,7 @@
       "meanings": [
         {
           "en": "to relax, loosen up (muscles, mind)",
-          "note": "Takes accusative. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'слабить'). Used as a perfective (single completed action) verb meaning 'to relax, loosen up', paired with 'расслаблять'."
+          "note": "Takes accusative. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'слабить')."
         }
       ],
       "forms": {
@@ -5558,7 +5444,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5675,7 +5561,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5766,15 +5652,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5790,7 +5676,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5821,11 +5707,11 @@
       "meanings": [
         {
           "en": "to get off, to step down",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         },
         {
           "en": "сойти с ума = to go mad, to lose one's mind",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5916,11 +5802,11 @@
       "related": [
         {
           "word": "сходить",
-          "gloss": "to go"
+          "gloss": "to get off, go down (impf)"
         },
         {
-          "word": "подойти",
-          "gloss": "to come up"
+          "word": "сойти с ума",
+          "gloss": "to go mad"
         },
         {
           "word": "отойти",
@@ -5938,7 +5824,7 @@
       "meanings": [
         {
           "en": "to miss someone (+ по + dat.), to start missing",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to miss, to grow lonely for', paired with 'скучать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5993,6 +5879,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "соскучься",
+                "соскучьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6019,67 +5922,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -6106,7 +5957,7 @@
       "meanings": [
         {
           "en": "back",
-          "note": "За спиной = behind one's back. Common feminine noun meaning 'back (body part)' in everyday Russian."
+          "note": "За спиной = behind one's back."
         }
       ],
       "forms": {
@@ -6188,7 +6039,7 @@
       "meanings": [
         {
           "en": "to ask (a question)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask', paired with 'спросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6404,7 +6255,7 @@
       "meanings": [
         {
           "en": "to touch",
-          "note": "Не трогай! = Don't touch!. Used as an imperfective (ongoing/repeated action) verb meaning 'to touch', paired with 'тронуть'."
+          "note": "Не трогай! = Don't touch!."
         }
       ],
       "forms": {
@@ -6726,7 +6577,7 @@
       "meanings": [
         {
           "en": "at least, just",
-          "note": "Дай хоть одну = give me just one. Core Russian part meaning 'at least, just' in everyday speech."
+          "note": "Дай хоть одну = give me just one."
         }
       ],
       "forms": null,

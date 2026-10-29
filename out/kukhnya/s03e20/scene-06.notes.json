@@ -36,7 +36,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "раза",
@@ -348,7 +348,7 @@
           "pos": "noun",
           "stress": "ро́дственников",
           "gloss": "relatives",
-          "gram": "masculine plural accusative animate"
+          "gram": "genitive / accusative plural, animate"
         },
         {
           "t": "полный",
@@ -503,7 +503,7 @@
           "lemma": "выздоровление",
           "pos": "noun",
           "stress": "выздоровле́ния",
-          "gloss": "of recovery",
+          "gloss": "recovery",
           "gram": "genitive singular, neuter"
         }
       ]
@@ -853,8 +853,8 @@
           "lemma": "знакомый",
           "pos": "adj",
           "stress": "знако́мых",
-          "gloss": "familiar, known",
-          "gram": "nominative masculine singular"
+          "gloss": "familiar; acquaintances",
+          "gram": "genitive plural"
         },
         {
           "t": "людей.",
@@ -970,7 +970,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "раза",
@@ -1282,7 +1282,7 @@
           "pos": "noun",
           "stress": "ро́дственников",
           "gloss": "relatives",
-          "gram": "masculine plural accusative animate"
+          "gram": "genitive / accusative plural, animate"
         },
         {
           "t": "полный",
@@ -1437,7 +1437,7 @@
           "lemma": "выздоровление",
           "pos": "noun",
           "stress": "выздоровле́ния",
-          "gloss": "of recovery",
+          "gloss": "recovery",
           "gram": "genitive singular, neuter"
         }
       ]
@@ -1787,8 +1787,8 @@
           "lemma": "знакомый",
           "pos": "adj",
           "stress": "знако́мых",
-          "gloss": "familiar, known",
-          "gram": "nominative masculine singular"
+          "gloss": "familiar; acquaintances",
+          "gram": "genitive plural"
         },
         {
           "t": "людей.",
@@ -1904,7 +1904,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "раза",
@@ -2216,7 +2216,7 @@
           "pos": "noun",
           "stress": "ро́дственников",
           "gloss": "relatives",
-          "gram": "masculine plural accusative animate"
+          "gram": "genitive / accusative plural, animate"
         },
         {
           "t": "полный",
@@ -2371,7 +2371,7 @@
           "lemma": "выздоровление",
           "pos": "noun",
           "stress": "выздоровле́ния",
-          "gloss": "of recovery",
+          "gloss": "recovery",
           "gram": "genitive singular, neuter"
         }
       ]
@@ -2721,8 +2721,8 @@
           "lemma": "знакомый",
           "pos": "adj",
           "stress": "знако́мых",
-          "gloss": "familiar, known",
-          "gram": "nominative masculine singular"
+          "gloss": "familiar; acquaintances",
+          "gram": "genitive plural"
         },
         {
           "t": "людей.",
@@ -2894,42 +2894,42 @@
             "cells": [
               "nominative",
               "бизнес",
-              "—"
+              "бизнесы"
             ]
           },
           {
             "cells": [
               "genitive",
               "бизнеса",
-              "—"
+              "бизнесов"
             ]
           },
           {
             "cells": [
               "dative",
               "бизнесу",
-              "—"
+              "бизнесам"
             ]
           },
           {
             "cells": [
               "accusative",
               "бизнес",
-              "—"
+              "бизнесы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "бизнесом",
-              "—"
+              "бизнесами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "бизнесе",
-              "—"
+              "бизнесах"
             ]
           }
         ]
@@ -2959,11 +2959,11 @@
       "meanings": [
         {
           "en": "sick, ill",
-          "note": "Больной ребёнок = a sick child. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('sick, ill; (as a noun) patient')."
+          "note": "Больной ребёнок = a sick child."
         },
         {
           "en": "a patient",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('sick, ill; (as a noun) patient')."
+          "note": ""
         },
         {
           "en": "crazy",
@@ -3010,10 +3010,10 @@
           {
             "cells": [
               "accusative",
-              "больной/больного",
+              "больной / больного",
               "больную",
               "больное",
-              "больные/больных"
+              "больные / больных"
             ]
           },
           {
@@ -3070,11 +3070,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -3690,84 +3690,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -3852,14 +3774,14 @@
     },
     "выздоровление": {
       "lemma": "выздоровление",
-      "stress": "выздоровлени́е",
+      "stress": "выздоровле́ние",
       "pos": "noun",
-      "gloss": "of recovery",
+      "gloss": "recovery",
       "gender": "n",
       "meanings": [
         {
-          "en": "of recovery",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'of recovery' in everyday Russian."
+          "en": "recovery (from illness)",
+          "note": "Скорейшего выздоровления! = Get well soon!"
         }
       ],
       "forms": {
@@ -3918,21 +3840,21 @@
       "examples": [
         {
           "text": "Это очень важно для его скорейшего выздоровления.",
-          "trans": "That is very important for his speedy recovery."
+          "trans": "That's very important for his speedy recovery."
         },
         {
-          "text": "На кухне ресторана всегда есть выздоровление.",
-          "trans": "In the restaurant kitchen there is always of recovery."
+          "text": "Желаю вам скорейшего выздоровления!",
+          "trans": "I wish you a speedy recovery!"
         }
       ],
       "related": [
         {
-          "word": "без выздоровлени",
-          "gloss": "without of recovery"
+          "word": "выздороветь",
+          "gloss": "to recover"
         },
         {
-          "word": "наш выздоровление",
-          "gloss": "our of recovery"
+          "word": "здоровье",
+          "gloss": "health"
         }
       ]
     },
@@ -4214,29 +4136,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -4275,7 +4175,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -4313,11 +4213,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4437,15 +4337,15 @@
       "meanings": [
         {
           "en": "building, block of flats",
-          "note": "'дома' = at home. Common masculine noun meaning 'house; building; home' in everyday Russian."
+          "note": "'дома' = at home."
         },
         {
           "en": "house",
-          "note": "Common masculine noun meaning 'house; building; home' in everyday Russian."
+          "note": ""
         },
         {
           "en": "home",
-          "note": "'дома' = at home. Common masculine noun meaning 'house; building; home' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4525,7 +4425,7 @@
       "meanings": [
         {
           "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
+          "note": "Location; compare домой = homeward."
         }
       ],
       "forms": null,
@@ -4542,87 +4442,6 @@
         {
           "text": "А Осипенко сейчас дома лежит. У него больное сердце.",
           "trans": "And Osipenko is lying at home right now. He has a sick heart."
-        }
-      ],
-      "related": []
-    },
-    "еда": {
-      "lemma": "еда",
-      "stress": "еда́",
-      "pos": "noun",
-      "gloss": "food, meal",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "food, meal",
-          "note": "Singular only. Common feminine noun meaning 'food, meal' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "еда",
-              "еды"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "еды",
-              "ед"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "еде",
-              "едам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "еду",
-              "еды"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "едой",
-              "едами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "еде",
-              "едах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ой, плохая еда?",
-          "trans": "Oh, bad food?"
-        },
-        {
-          "text": "В этом ресторане всегда свежая еда.",
-          "trans": "There is always fresh food in this restaurant."
-        },
-        {
-          "text": "Ой, плохая еда? Живот болит?",
-          "trans": "Oh no, bad food? Does your stomach hurt?"
         }
       ],
       "related": []
@@ -4748,11 +4567,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -4821,7 +4640,7 @@
       "meanings": [
         {
           "en": "to live",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to live'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4876,6 +4695,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "живи",
+                "живите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4895,7 +4731,7 @@
       "related": [
         {
           "word": "житься",
-          "gloss": "to live"
+          "gloss": "to get on, for life to go (impersonal)"
         },
         {
           "word": "дожить",
@@ -4903,7 +4739,7 @@
         },
         {
           "word": "пережить",
-          "gloss": "to survive"
+          "gloss": "to survive, to live through"
         }
       ]
     },
@@ -4917,7 +4753,7 @@
       "meanings": [
         {
           "en": "to pay (someone for something)",
-          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить'). Used as a perfective (single completed action) verb meaning 'to pay', paired with 'платить'."
+          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить')."
         }
       ],
       "forms": {
@@ -5071,10 +4907,10 @@
           {
             "cells": [
               "accusative",
-              "знакомый",
+              "знакомый / знакомого",
               "знакомую",
               "знакомое",
-              "знакомые"
+              "знакомые / знакомых"
             ]
           },
           {
@@ -5097,29 +4933,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "знаком",
-                "знакома",
-                "знакомо",
-                "знакомы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "А знакомо ли тебе, Аркашка, слово педикюр?",
@@ -5243,11 +5057,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -5327,12 +5141,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -5391,7 +5205,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -5498,7 +5312,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -5532,90 +5346,6 @@
         }
       ]
     },
-    "много": {
-      "lemma": "много",
-      "stress": "мно́го",
-      "pos": "adv",
-      "gloss": "a lot, much, many",
-      "meanings": [
-        {
-          "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много.",
-          "trans": "We've done a lot."
-        },
-        {
-          "text": "Слишком много дел.",
-          "trans": "Too much to do."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "немного",
-          "gloss": "a little"
-        },
-        {
-          "word": "многовато",
-          "gloss": "a bit too much"
-        },
-        {
-          "word": "намного",
-          "gloss": "much"
-        }
-      ]
-    },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -5626,7 +5356,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -5678,6 +5408,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -5794,7 +5541,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -6122,29 +5869,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -6310,7 +6035,7 @@
       "meanings": [
         {
           "en": "bad",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('bad')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6386,8 +6111,8 @@
           "trans": "Bad weather."
         },
         {
-          "text": "Это не плохая работа.",
-          "trans": "It's not a bad job."
+          "text": "Тебе же предложили работу. Что, плохая работа?",
+          "trans": "You were offered a job. What, is it a bad job?"
         },
         {
           "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
@@ -6419,7 +6144,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -6524,7 +6249,7 @@
       "meanings": [
         {
           "en": "to live for some time, to stay",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to live for a while', forming an aspectual pair with 'жить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жить')."
         }
       ],
       "forms": {
@@ -6633,11 +6358,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -6741,7 +6466,7 @@
       "meanings": [
         {
           "en": "peace, rest, quiet",
-          "note": "Оставить в покое = leave alone. Common masculine noun meaning 'peace, rest, quiet' in everyday Russian."
+          "note": "Оставить в покое = leave alone."
         }
       ],
       "forms": {
@@ -6756,42 +6481,42 @@
             "cells": [
               "nominative",
               "покой",
-              "—"
+              "покои"
             ]
           },
           {
             "cells": [
               "genitive",
               "покоя",
-              "—"
+              "покоев"
             ]
           },
           {
             "cells": [
               "dative",
               "покою",
-              "—"
+              "покоям"
             ]
           },
           {
             "cells": [
               "accusative",
               "покой",
-              "—"
+              "покои"
             ]
           },
           {
             "cells": [
               "instrumental",
               "покоем",
-              "—"
+              "покоями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "покое",
-              "—"
+              "покоях"
             ]
           }
         ]
@@ -7039,8 +6764,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -7081,7 +6818,7 @@
       "meanings": [
         {
           "en": "earlier, before, formerly",
-          "note": "Comparative of рано. Core Russian adv meaning 'earlier, previously, used to' in everyday speech."
+          "note": "Comparative of рано."
         }
       ],
       "forms": null,
@@ -7236,7 +6973,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -7294,8 +7031,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -7317,11 +7054,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7393,8 +7130,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -7450,7 +7195,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -7541,15 +7286,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -7557,11 +7302,11 @@
       "lemma": "скорейший",
       "stress": "скоре́йший",
       "pos": "adj",
-      "gloss": "speediest / quickest",
+      "gloss": "speediest, earliest possible",
       "meanings": [
         {
-          "en": "speediest / quickest",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('speediest / quickest')."
+          "en": "speediest, earliest possible",
+          "note": "superlative of скорый; скорейшего выздоровления = get well soon"
         }
       ],
       "forms": {
@@ -7637,14 +7382,14 @@
           "trans": "That is very important for his speedy recovery."
         },
         {
-          "text": "Шеф говорит, что это очень скорейший выбор.",
-          "trans": "The chef says that this is a very speediest choice."
+          "text": "Желаю скорейшего выздоровления!",
+          "trans": "Get well soon!"
         }
       ],
       "related": [
         {
-          "word": "очень скорейший",
-          "gloss": "very speediest"
+          "word": "скорый",
+          "gloss": "quick, speedy"
         }
       ]
     },
@@ -7656,7 +7401,7 @@
       "meanings": [
         {
           "en": "completely, quite, utterly",
-          "note": "Совершенно верно = quite right. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Совершенно верно = quite right."
         }
       ],
       "forms": null,
@@ -7803,11 +7548,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7841,7 +7586,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -8005,7 +7750,7 @@
       "meanings": [
         {
           "en": "to hear, catch the sound of",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'слышать'). Used as a perfective (single completed action) verb meaning 'to hear', paired with 'слышать'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'слышать')."
         }
       ],
       "forms": {
@@ -8104,12 +7849,16 @@
       "lemma": "уход",
       "stress": "ухо́д",
       "pos": "noun",
-      "gloss": "leaving / resignation",
+      "gloss": "leaving, departure; care",
       "gender": "m",
       "meanings": [
         {
-          "en": "leaving / resignation",
-          "note": "Common masculine noun meaning 'leaving / resignation' in everyday Russian."
+          "en": "leaving, departure, resignation",
+          "note": "заявление об уходе = letter of resignation"
+        },
+        {
+          "en": "care, nursing",
+          "note": "уход за + instr."
         }
       ],
       "forms": {
@@ -8168,18 +7917,27 @@
       "examples": [
         {
           "text": "Иначе я напишу заявление об уходе.",
-          "trans": "Otherwise I will write a letter of resignation."
+          "trans": "Otherwise I'll hand in my resignation."
         },
         {
-          "text": "Никуда не уходи, я скоро вернусь.",
-          "trans": "Do not go anywhere, I will be back soon."
+          "text": "А нашему больному нужен хороший уход и главное — покой.",
+          "trans": "And our patient needs good care and, above all, rest."
         },
         {
-          "text": "Ребята, внимание, я сегодня увольняюсь и ухожу в другой ресторан.",
-          "trans": "Guys, attention, today I am quitting and leaving for another restaurant."
+          "text": "И последней каплей для учредителей стал уход Сергея.",
+          "trans": "And the last straw for the founders was Sergey's departure."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "уходить",
+          "gloss": "to leave"
+        },
+        {
+          "word": "ухаживать",
+          "gloss": "to look after"
+        }
+      ]
     },
     "хороший": {
       "lemma": "хороший",
@@ -8189,7 +7947,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -8294,7 +8052,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -8346,6 +8104,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

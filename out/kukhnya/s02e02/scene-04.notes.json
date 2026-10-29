@@ -69,8 +69,8 @@
           "lemma": "бывать",
           "pos": "verb",
           "stress": "быва́ло",
-          "gloss": "to happen, to be (sometimes); to visit",
-          "gram": "verb to happen, to be (sometimes); to visit"
+          "gloss": "used to happen; has happened",
+          "gram": "past, neuter singular"
         },
         {
           "t": "и",
@@ -180,11 +180,11 @@
         },
         {
           "t": "прошлом.",
-          "lemma": "прошлый",
-          "pos": "adj",
+          "lemma": "прошлое",
+          "pos": "noun",
           "stress": "про́шлом",
-          "gloss": "last, past",
-          "gram": "masculine singular prepositional"
+          "gloss": "the past",
+          "gram": "neuter prepositional singular"
         }
       ]
     },
@@ -357,8 +357,8 @@
           "lemma": "бывать",
           "pos": "verb",
           "stress": "быва́ло",
-          "gloss": "to happen, to be (sometimes); to visit",
-          "gram": "verb to happen, to be (sometimes); to visit"
+          "gloss": "used to happen; has happened",
+          "gram": "past, neuter singular"
         },
         {
           "t": "и",
@@ -468,11 +468,11 @@
         },
         {
           "t": "прошлом.",
-          "lemma": "прошлый",
-          "pos": "adj",
+          "lemma": "прошлое",
+          "pos": "noun",
           "stress": "про́шлом",
-          "gloss": "last, past",
-          "gram": "masculine singular prepositional"
+          "gloss": "the past",
+          "gram": "neuter prepositional singular"
         }
       ]
     },
@@ -645,8 +645,8 @@
           "lemma": "бывать",
           "pos": "verb",
           "stress": "быва́ло",
-          "gloss": "to happen, to be (sometimes); to visit",
-          "gram": "verb to happen, to be (sometimes); to visit"
+          "gloss": "used to happen; has happened",
+          "gram": "past, neuter singular"
         },
         {
           "t": "и",
@@ -756,11 +756,11 @@
         },
         {
           "t": "прошлом.",
-          "lemma": "прошлый",
-          "pos": "adj",
+          "lemma": "прошлое",
+          "pos": "noun",
           "stress": "про́шлом",
-          "gloss": "last, past",
-          "gram": "masculine singular prepositional"
+          "gloss": "the past",
+          "gram": "neuter prepositional singular"
         }
       ]
     },
@@ -1164,7 +1164,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1296,11 +1296,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -1400,7 +1400,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -1442,7 +1442,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -1464,7 +1464,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -1476,7 +1480,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -1596,11 +1600,11 @@
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         },
         {
           "en": "to experience, to live through",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         }
       ],
       "forms": {
@@ -1820,7 +1824,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -1841,32 +1845,29 @@
       ],
       "related": []
     },
-    "прошлый": {
-      "lemma": "прошлый",
-      "stress": "про́шлый",
-      "pos": "adj",
-      "gloss": "last, past, previous",
+    "прошлое": {
+      "lemma": "прошлое",
+      "stress": "про́шлое",
+      "pos": "noun",
+      "gloss": "past",
+      "gender": "n",
       "meanings": [
         {
-          "en": "last, previous, past",
-          "note": "В прошлый раз = last time. Agrees in gender, number, and case with the noun it modifies ('last, past, previous')."
+          "en": "the past",
+          "note": "Time that has gone by."
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "m",
-          "f",
-          "n",
+          "sg",
           "pl"
         ],
         "rows": [
           {
             "cells": [
               "nominative",
-              "прошлый",
-              "прошлая",
               "прошлое",
               "прошлые"
             ]
@@ -1875,8 +1876,6 @@
             "cells": [
               "genitive",
               "прошлого",
-              "прошлой",
-              "прошлого",
               "прошлых"
             ]
           },
@@ -1884,16 +1883,12 @@
             "cells": [
               "dative",
               "прошлому",
-              "прошлой",
-              "прошлому",
               "прошлым"
             ]
           },
           {
             "cells": [
               "accusative",
-              "прошлый",
-              "прошлую",
               "прошлое",
               "прошлые"
             ]
@@ -1902,16 +1897,12 @@
             "cells": [
               "instrumental",
               "прошлым",
-              "прошлой",
-              "прошлым",
               "прошлыми"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "прошлом",
-              "прошлой",
               "прошлом",
               "прошлых"
             ]
@@ -1921,24 +1912,15 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "В прошлый раз я думала, война началась.",
-          "trans": "Last time I thought a war had started."
+          "text": "Вы ревнуете меня к прошлому?",
+          "trans": "Are you jealous of my past?"
         },
         {
-          "text": "Мы встречались на прошлой неделе.",
-          "trans": "We met last week."
-        },
-        {
-          "text": "Марина, ну опять ты со своей сгущёнкой! В прошлый раз я думала, война началась.",
-          "trans": "Marina, there you go again with your condensed milk! Last time I thought a war had started."
+          "text": "Прошлое осталось в прошлом.",
+          "trans": "The past stayed in the past."
         }
       ],
-      "related": [
-        {
-          "word": "прошло",
-          "gloss": "in a last way (adv.)"
-        }
-      ]
+      "related": []
     },
     "работать": {
       "lemma": "работать",
@@ -2187,11 +2169,11 @@
       "meanings": [
         {
           "en": "confident, assured",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": "Short form уверен / уверена."
         },
         {
           "en": "sure, certain",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2234,10 +2216,10 @@
           {
             "cells": [
               "accusative",
-              "уверенный",
+              "уверенный / уверенного",
               "уверенную",
               "уверенное",
-              "уверенные"
+              "уверенные / уверенных"
             ]
           },
           {
@@ -2292,7 +2274,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -2344,6 +2326,23 @@
                 "увиделась",
                 "увиделось",
                 "увиделись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
               ]
             }
           ]

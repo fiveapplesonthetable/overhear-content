@@ -331,7 +331,7 @@
         {
           "t": "Наташа,",
           "lemma": "наташа",
-          "pos": "noun",
+          "pos": "name",
           "stress": "ната́ша",
           "gloss": "Natasha",
           "gram": "nominative singular, feminine, proper noun"
@@ -535,7 +535,7 @@
           "lemma": "веселиться",
           "pos": "verb",
           "stress": "весели́ться",
-          "gloss": "to without",
+          "gloss": "to have fun",
           "gram": "infinitive"
         },
         {
@@ -605,8 +605,8 @@
           "lemma": "курс",
           "pos": "noun",
           "stress": "ку́рсе",
-          "gloss": "course, regimen",
-          "gram": "prepositional / dative singular"
+          "gloss": "в курсе = aware, in the know",
+          "gram": "prepositional singular, masculine"
         }
       ]
     },
@@ -939,7 +939,7 @@
         {
           "t": "Наташа,",
           "lemma": "наташа",
-          "pos": "noun",
+          "pos": "name",
           "stress": "ната́ша",
           "gloss": "Natasha",
           "gram": "nominative singular, feminine, proper noun"
@@ -1143,7 +1143,7 @@
           "lemma": "веселиться",
           "pos": "verb",
           "stress": "весели́ться",
-          "gloss": "to without",
+          "gloss": "to have fun",
           "gram": "infinitive"
         },
         {
@@ -1213,8 +1213,8 @@
           "lemma": "курс",
           "pos": "noun",
           "stress": "ку́рсе",
-          "gloss": "course, regimen",
-          "gram": "prepositional / dative singular"
+          "gloss": "в курсе = aware, in the know",
+          "gram": "prepositional singular, masculine"
         }
       ]
     },
@@ -1547,7 +1547,7 @@
         {
           "t": "Наташа,",
           "lemma": "наташа",
-          "pos": "noun",
+          "pos": "name",
           "stress": "ната́ша",
           "gloss": "Natasha",
           "gram": "nominative singular, feminine, proper noun"
@@ -1751,7 +1751,7 @@
           "lemma": "веселиться",
           "pos": "verb",
           "stress": "весели́ться",
-          "gloss": "to without",
+          "gloss": "to have fun",
           "gram": "infinitive"
         },
         {
@@ -1821,8 +1821,8 @@
           "lemma": "курс",
           "pos": "noun",
           "stress": "ку́рсе",
-          "gloss": "course, regimen",
-          "gram": "prepositional / dative singular"
+          "gloss": "в курсе = aware, in the know",
+          "gram": "prepositional singular, masculine"
         }
       ]
     },
@@ -2090,13 +2090,13 @@
       "lemma": "веселиться",
       "stress": "весели́ться",
       "pos": "verb",
-      "gloss": "to without",
+      "gloss": "to have fun, to enjoy oneself",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "to without",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to without'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "en": "to have fun, to enjoy oneself, to make merry",
+          "note": ""
         }
       ],
       "forms": {
@@ -2151,6 +2151,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "веселись",
+                "веселитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2166,7 +2183,15 @@
       "related": [
         {
           "word": "повеселиться",
-          "gloss": "to without"
+          "gloss": "to have some fun"
+        },
+        {
+          "word": "весело",
+          "gloss": "cheerfully, fun"
+        },
+        {
+          "word": "веселье",
+          "gloss": "fun, merriment"
         }
       ]
     },
@@ -2178,7 +2203,7 @@
       "meanings": [
         {
           "en": "cheerful, joyful",
-          "note": "In good spirits, lively. Agrees in gender, number, and case with the noun it modifies ('cheerful, merry, fun')."
+          "note": "In good spirits, lively."
         }
       ],
       "forms": {
@@ -2221,10 +2246,10 @@
           {
             "cells": [
               "accusative",
-              "весёлый",
+              "весёлый / весёлого",
               "весёлую",
               "весёлое",
-              "весёлые"
+              "весёлые / весёлых"
             ]
           },
           {
@@ -2264,8 +2289,16 @@
       ],
       "related": [
         {
-          "word": "весёло",
-          "gloss": "in a cheerful way (adv.)"
+          "word": "весело",
+          "gloss": "cheerfully; it's fun"
+        },
+        {
+          "word": "веселье",
+          "gloss": "fun, merriment"
+        },
+        {
+          "word": "веселиться",
+          "gloss": "to have fun"
         }
       ]
     },
@@ -2315,11 +2348,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2358,11 +2391,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2656,11 +2689,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2751,102 +2788,17 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
-    },
-    "девушка": {
-      "lemma": "девушка",
-      "stress": "де́вушка",
-      "pos": "noun",
-      "gloss": "young woman; girlfriend",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "young woman, girl",
-          "note": "Also 'girlfriend' (моя девушка). Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
-        },
-        {
-          "en": "girlfriend",
-          "note": "Своя девушка. Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "девушка",
-              "девушки"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "девушки",
-              "девушек"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "девушке",
-              "девушкам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "девушку",
-              "девушек"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "девушкой",
-              "девушками"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "девушке",
-              "девушках"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это моя девушка.",
-          "trans": "She's my girlfriend."
-        },
-        {
-          "text": "Красивая девушка.",
-          "trans": "A pretty young woman."
-        },
-        {
-          "text": "У мужчины, мальчик, бывает не только жена. Это моя девушка.",
-          "trans": "A man, my boy, can have more than just a wife. She's my girlfriend."
-        }
-      ],
-      "related": []
     },
     "для": {
       "lemma": "для",
@@ -2857,7 +2809,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2895,11 +2847,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3051,7 +3003,7 @@
       "meanings": [
         {
           "en": "fool, idiot",
-          "note": "Colloquial reproach. Common masculine noun meaning 'fool, idiot' in everyday Russian."
+          "note": "Colloquial reproach."
         }
       ],
       "forms": {
@@ -3144,7 +3096,7 @@
       "meanings": [
         {
           "en": "living, alive",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('living, alive, live')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3187,10 +3139,10 @@
           {
             "cells": [
               "accusative",
-              "живой/живого",
+              "живой / живого",
               "живую",
               "живое",
-              "живые/живых"
+              "живые / живых"
             ]
           },
           {
@@ -3245,10 +3197,11 @@
       "pos": "noun",
       "gloss": "bunny, little hare",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "bunny, little hare; sweetheart",
-          "note": "Declines like a feminine -а noun. Common masculine noun meaning 'bunny, little hare' in everyday Russian."
+          "note": "Declines like a feminine -а noun."
         }
       ],
       "forms": {
@@ -3330,7 +3283,7 @@
       "meanings": [
         {
           "en": "to call (someone over)",
-          "note": "Звать на помощь = to call for help. Used as an imperfective (ongoing/repeated action) verb meaning 'to call', paired with 'позвать'."
+          "note": "Звать на помощь = to call for help."
         },
         {
           "en": "to be called (a name)",
@@ -3480,7 +3433,7 @@
       "meanings": [
         {
           "en": "acquaintance, first meeting",
-          "note": "Process of getting to know someone. Common neuter noun meaning 'acquaintance, introduction' in everyday Russian."
+          "note": "Process of getting to know someone."
         }
       ],
       "forms": {
@@ -3602,7 +3555,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3705,12 +3658,16 @@
       "lemma": "курс",
       "stress": "курс",
       "pos": "noun",
-      "gloss": "course, regimen",
+      "gloss": "course; (в курсе) in the know",
       "gender": "m",
       "meanings": [
         {
-          "en": "course of medical treatment or study",
-          "note": "Masculine inanimate noun. Common masculine noun meaning 'course, regimen' in everyday Russian."
+          "en": "course (of treatment or study)",
+          "note": ""
+        },
+        {
+          "en": "в курсе = aware, in the know",
+          "note": "ввести в курс дела = bring up to speed"
         }
       ],
       "forms": {
@@ -3790,11 +3747,11 @@
       "meanings": [
         {
           "en": "whether, if",
-          "note": "In indirect questions. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+          "note": "In indirect questions."
         },
         {
           "en": "что ли = or what, I suppose",
-          "note": "Colloquial tag. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+          "note": "Colloquial tag."
         }
       ],
       "forms": null,
@@ -3848,42 +3805,42 @@
             "cells": [
               "nominative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "genitive",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "dative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "accusative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "instrumental",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "prepositional",
               "меню",
-              "—"
+              "меню"
             ]
           }
         ]
@@ -4008,7 +3965,7 @@
       "meanings": [
         {
           "en": "husband",
-          "note": "Мой муж = my husband. Common masculine noun meaning 'husband' in everyday Russian."
+          "note": "Мой муж = my husband."
         }
       ],
       "forms": {
@@ -4089,7 +4046,7 @@
       "meanings": [
         {
           "en": "music",
-          "note": "Art or sound of music. Common feminine noun meaning 'music' in everyday Russian."
+          "note": "Art or sound of music."
         }
       ],
       "forms": {
@@ -4245,92 +4202,6 @@
         {
           "word": "нас",
           "gloss": "us (genitive/accusative/prepositional)"
-        }
-      ]
-    },
-    "наташа": {
-      "lemma": "наташа",
-      "stress": "ната́ша",
-      "pos": "noun",
-      "gloss": "Natasha",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "Natasha",
-          "note": "Common feminine noun meaning 'Natasha' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "наташа",
-              "наташи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "наташи",
-              "наташ"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "наташе",
-              "наташам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "наташу",
-              "наташи"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "наташей",
-              "наташами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "наташе",
-              "наташах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "На кухне отеля всегда есть наташа.",
-          "trans": "In the hotel kitchen there is always Natasha."
-        },
-        {
-          "text": "Шеф сразу заметил, где наташа.",
-          "trans": "The chef immediately noticed where the Natasha was."
-        }
-      ],
-      "related": [
-        {
-          "word": "без наташ",
-          "gloss": "without Natasha"
-        },
-        {
-          "word": "наш наташа",
-          "gloss": "our Natasha"
         }
       ]
     },
@@ -4490,8 +4361,8 @@
       "pair": "обсуждать",
       "meanings": [
         {
-          "en": "to discuss, deliberate",
-          "note": "Talk over a matter. Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'судить'). Used as a perfective (single completed action) verb meaning 'to discuss', paired with 'обсуждать'."
+          "en": "to discuss, talk over",
+          "note": ""
         }
       ],
       "forms": {
@@ -4567,16 +4438,16 @@
       ],
       "examples": [
         {
-          "text": "Без лишних ушей обсудим твоё назначение.",
-          "trans": "Without extra ears we will discuss your appointment."
+          "text": "Заодно без лишних ушей обсудим твоё назначение.",
+          "trans": "And while we're at it, we'll discuss your appointment without anyone listening in."
         },
         {
           "text": "Партнёры подробно обсудили условия сделки.",
           "trans": "The partners discussed the terms of the deal in detail."
         },
         {
-          "text": "Заодно без лишних ушей обсудим твоё назначение.",
-          "trans": "At the same time without extra ears we will discuss your appointment."
+          "text": "Костя, подожди, давай спокойно всё обсудим.",
+          "trans": "Kostya, wait, let's talk it all over calmly."
         }
       ],
       "related": [
@@ -4776,11 +4647,11 @@
       "meanings": [
         {
           "en": "to leave (someone or something somewhere)",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": "Оставь мне кусок = save me a piece."
         },
         {
           "en": "to keep, to save",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4893,7 +4764,7 @@
       "meanings": [
         {
           "en": "to sing",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to sing', paired with 'спеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4996,13 +4867,13 @@
       "lemma": "расставить",
       "stress": "расста́вить",
       "pos": "verb",
-      "gloss": "will arrange / set up",
+      "gloss": "to arrange, to set out",
       "aspect": "pf",
-      "pair": null,
+      "pair": "расставлять",
       "meanings": [
         {
-          "en": "will arrange / set up",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'ставить'). Used as a perfective (single completed action) verb meaning 'will arrange / set up'."
+          "en": "to arrange, to set out, to place (in order)",
+          "note": ""
         }
       ],
       "forms": {
@@ -5057,22 +4928,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "расставь",
+                "расставьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Вот здесь мы расставим столы.",
-          "trans": "Right here we will arrange the tables."
+          "trans": "Right here we'll set out the tables."
         },
         {
-          "text": "Надо всё сделать и расставить вовремя.",
-          "trans": "We need to do everything and will arrange on time."
+          "text": "Помоги мне расставить стулья.",
+          "trans": "Help me arrange the chairs."
         }
       ],
       "related": [
         {
-          "word": "не расставить",
-          "gloss": "not to will arrange (negated infinitive)"
+          "word": "ставить",
+          "gloss": "to put, to place"
+        },
+        {
+          "word": "расставлять",
+          "gloss": "to arrange (impf)"
         }
       ]
     },
@@ -5124,7 +5016,7 @@
       "meanings": [
         {
           "en": "salad dish",
-          "note": "Common masculine noun meaning 'salad' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5205,7 +5097,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -5263,8 +5155,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -5277,233 +5169,6 @@
       ],
       "related": []
     },
-    "сказать": {
-      "lemma": "сказать",
-      "stress": "сказа́ть",
-      "pos": "verb",
-      "gloss": "to say, to tell",
-      "aspect": "pf",
-      "pair": "говорить",
-      "meanings": [
-        {
-          "en": "to say, to tell",
-          "note": "once; что скажешь? = what do you say?"
-        },
-        {
-          "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "скажу",
-              "скажем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "скажешь",
-              "скажете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "скажет",
-              "скажут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "сказал",
-                "сказала",
-                "сказало",
-                "сказали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "скажи",
-                "скажите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Что ты сказал?",
-          "trans": "What did you say?"
-        },
-        {
-          "text": "Скажите, где метро?",
-          "trans": "Excuse me, where's the metro?"
-        },
-        {
-          "text": "Скажите, когда будет ваша программа?",
-          "trans": "Tell us, when will your programme be out?"
-        }
-      ],
-      "related": [
-        {
-          "word": "говорить",
-          "gloss": "to speak"
-        },
-        {
-          "word": "наказать",
-          "gloss": "to punish"
-        },
-        {
-          "word": "казаться",
-          "gloss": "to seem"
-        }
-      ]
-    },
-    "сомневаться": {
-      "lemma": "сомневаться",
-      "stress": "сомнева́ться",
-      "pos": "verb",
-      "gloss": "to doubt",
-      "aspect": "impf",
-      "pair": "усомниться",
-      "governs": "в + prepositional",
-      "meanings": [
-        {
-          "en": "to doubt, to have doubts",
-          "note": "Сомневаться в + prepositional. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to doubt', paired with 'усомниться'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "сомневаюсь",
-              "сомневаемся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "сомневаешься",
-              "сомневаетесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "сомневается",
-              "сомневаются"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "сомневался",
-                "сомневалась",
-                "сомневалось",
-                "сомневались"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "сомневайся",
-                "сомневайтесь"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я не сомневаюсь.",
-          "trans": "I have no doubt."
-        },
-        {
-          "text": "Никто не сомневался.",
-          "trans": "Nobody doubted it."
-        },
-        {
-          "text": "А никто и не сомневался.",
-          "trans": "Nobody ever doubted it."
-        }
-      ],
-      "related": [
-        {
-          "word": "усомниться",
-          "gloss": "to doubt"
-        },
-        {
-          "word": "сомнение",
-          "gloss": "doubt"
-        }
-      ]
-    },
     "стол": {
       "lemma": "стол",
       "stress": "стол",
@@ -5513,7 +5178,7 @@
       "meanings": [
         {
           "en": "table, desk",
-          "note": "End-stressed in all oblique cases. Common masculine noun meaning 'table, desk' in everyday Russian."
+          "note": "End-stressed in all oblique cases."
         }
       ],
       "forms": {
@@ -5595,7 +5260,7 @@
       "meanings": [
         {
           "en": "to dance",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to dance', paired with 'станцевать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5692,14 +5357,14 @@
     },
     "танцпол": {
       "lemma": "танцпол",
-      "stress": "та́нцпол",
+      "stress": "танцпо́л",
       "pos": "noun",
       "gloss": "dance floor",
       "gender": "m",
       "meanings": [
         {
           "en": "dance floor",
-          "note": "Common masculine noun meaning 'dance floor' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5758,96 +5423,23 @@
       "examples": [
         {
           "text": "Здесь оставим место для танцпола.",
-          "trans": "Here we will leave space for the dance floor."
+          "trans": "We'll leave room here for the dance floor."
         },
         {
-          "text": "На кухне отеля всегда есть танцпол.",
-          "trans": "In the hotel kitchen there is always dance floor."
+          "text": "Все гости вышли на танцпол.",
+          "trans": "All the guests went out onto the dance floor."
         }
       ],
       "related": [
         {
-          "word": "без танцпо",
-          "gloss": "without dance floor"
+          "word": "танцевать",
+          "gloss": "to dance"
         },
         {
-          "word": "наш танцпол",
-          "gloss": "our dance floor"
+          "word": "клуб",
+          "gloss": "club"
         }
       ]
-    },
-    "то": {
-      "lemma": "то",
-      "stress": "то",
-      "pos": "pron",
-      "gloss": "that",
-      "meanings": [
-        {
-          "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
-        },
-        {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
-        },
-        {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
-        }
-      ],
-      "related": []
     },
     "ты": {
       "lemma": "ты",
@@ -5986,12 +5578,16 @@
       "lemma": "фанера",
       "stress": "фане́ра",
       "pos": "noun",
-      "gloss": "lip-syncing / backing track",
+      "gloss": "plywood; lip-syncing (slang)",
       "gender": "f",
       "meanings": [
         {
-          "en": "lip-syncing / backing track",
-          "note": "Common feminine noun meaning 'lip-syncing / backing track' in everyday Russian."
+          "en": "lip-syncing, miming to a backing track",
+          "note": "Slang: петь под фанеру = to lip-sync."
+        },
+        {
+          "en": "plywood",
+          "note": ""
         }
       ],
       "forms": {
@@ -6050,21 +5646,21 @@
       "examples": [
         {
           "text": "Какая живая? Фанера, одна фанера.",
-          "trans": "What live music? Lip-syncing, only lip-syncing."
+          "trans": "What live singing? It's lip-syncing, all of it."
         },
         {
-          "text": "На кухне отеля всегда есть фанера.",
-          "trans": "In the hotel kitchen there is always lip-syncing."
+          "text": "Он всегда поёт под фанеру.",
+          "trans": "He always lip-syncs."
         }
       ],
       "related": [
         {
-          "word": "без фанер",
-          "gloss": "without lip-syncing"
+          "word": "под фанеру",
+          "gloss": "lip-synced"
         },
         {
-          "word": "наш фанера",
-          "gloss": "our lip-syncing"
+          "word": "вживую",
+          "gloss": "live"
         }
       ]
     },
@@ -6170,7 +5766,7 @@
       "meanings": [
         {
           "en": "wonderful, marvelous",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'wonderful' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {

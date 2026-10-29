@@ -191,8 +191,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         }
       ]
     },
@@ -276,7 +276,7 @@
           "pos": "noun",
           "stress": "дете́й",
           "gloss": "children",
-          "gram": "plural, genitive (after 'двое')"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -867,8 +867,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         }
       ]
     },
@@ -952,7 +952,7 @@
           "pos": "noun",
           "stress": "дете́й",
           "gloss": "children",
-          "gram": "plural, genitive (after 'двое')"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -1543,8 +1543,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         }
       ]
     },
@@ -1628,7 +1628,7 @@
           "pos": "noun",
           "stress": "дете́й",
           "gloss": "children",
-          "gram": "plural, genitive (after 'двое')"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -2337,11 +2337,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2380,11 +2380,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2473,13 +2473,12 @@
       "lemma": "выборы",
       "stress": "вы́боры",
       "pos": "noun",
-      "gloss": "election",
-      "gender": "m",
+      "gloss": "election(s)",
       "number": "pl",
       "meanings": [
         {
           "en": "election",
-          "note": "Plural only. Common substantive noun meaning 'election' in everyday Russian."
+          "note": "Plural only."
         }
       ],
       "forms": {
@@ -2563,7 +2562,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2655,11 +2654,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2699,7 +2698,7 @@
       "meanings": [
         {
           "en": "to guess, to work out, to think of",
-          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'гадаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to guess, to realise', paired with 'догадываться'."
+          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'гадаться')."
         }
       ],
       "forms": {
@@ -2751,6 +2750,23 @@
                 "догадалась",
                 "догадалось",
                 "догадались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "догадайся",
+                "догадайтесь"
               ]
             }
           ]
@@ -2828,7 +2844,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2946,7 +2962,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3053,7 +3069,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3096,7 +3112,7 @@
       "meanings": [
         {
           "en": "month",
-          "note": "Уже месяц = for a month now. Common masculine noun meaning 'month' in everyday Russian."
+          "note": "Уже месяц = for a month now."
         }
       ],
       "forms": {
@@ -3174,6 +3190,7 @@
       "pos": "noun",
       "gloss": "mayor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "mayor",
@@ -3247,7 +3264,16 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "мэрия",
+          "gloss": "town hall"
+        },
+        {
+          "word": "губернатор",
+          "gloss": "governor"
+        }
+      ]
     },
     "на": {
       "lemma": "на",
@@ -3520,67 +3546,23 @@
       "meanings": [
         {
           "en": "it",
-          "note": "For neuter nouns. Core Russian pron meaning 'it' in everyday speech."
+          "note": "For neuter nouns."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "оно"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "его (него)"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ему (нему)"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "его (него)"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "им (ним)"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нём"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Вот оно!",
-          "trans": "There it is!"
+          "text": "Вот оно! Самсон, ты будешь новым мэром.",
+          "trans": "That's it! Samson, you'll be the new mayor."
         },
         {
-          "text": "Заявление? Он его написал.",
-          "trans": "The statement? He wrote it."
+          "text": "Ага! Вот оно в чём дело.",
+          "trans": "Aha! So that's what it's about."
         },
         {
-          "text": "А зачем? Я сам сделал так, чтобы он его написал.",
-          "trans": "And why would I? I'm the one who made him write it."
+          "text": "Спа захотела? Вот оно, твоё королевство!",
+          "trans": "Wanted a spa? There it is, your kingdom!"
         }
       ],
       "related": [
@@ -3604,7 +3586,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -3717,7 +3699,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -3820,7 +3802,7 @@
       "meanings": [
         {
           "en": "Orthodox",
-          "note": "Of the Orthodox church. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('Orthodox (Christian)')."
+          "note": "Of the Orthodox church."
         }
       ],
       "forms": {
@@ -3906,16 +3888,16 @@
       ],
       "related": [
         {
-          "word": "правильно",
-          "gloss": "right"
+          "word": "православие",
+          "gloss": "Orthodoxy"
         },
         {
-          "word": "правый",
-          "gloss": "right"
+          "word": "церковь",
+          "gloss": "church"
         },
         {
-          "word": "правило",
-          "gloss": "rule"
+          "word": "верующий",
+          "gloss": "believer"
         }
       ]
     },
@@ -4042,7 +4024,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -4122,7 +4104,7 @@
       "meanings": [
         {
           "en": "Russian",
-          "note": "Also a Russian man (as a noun). Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('Russian')."
+          "note": "Also a Russian man (as a noun)."
         }
       ],
       "forms": {
@@ -4198,10 +4180,6 @@
           "trans": "Samson, are you Russian?"
         },
         {
-          "text": "Я говорю по-русски.",
-          "trans": "I speak Russian."
-        },
-        {
           "text": "Русский. Православный. Не сидел.",
           "trans": "Russian. Orthodox. Never been in prison."
         }
@@ -4218,7 +4196,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4435,11 +4413,11 @@
       "meanings": [
         {
           "en": "glory, fame",
-          "note": "In 'слава богу'. Common feminine noun meaning 'glory, fame' in everyday Russian."
+          "note": "In 'слава богу'."
         },
         {
           "en": "thank God",
-          "note": "In 'слава богу'. Common feminine noun meaning 'glory, fame' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4454,42 +4432,42 @@
             "cells": [
               "nominative",
               "слава",
-              "—"
+              "славы"
             ]
           },
           {
             "cells": [
               "genitive",
               "славы",
-              "—"
+              "слав"
             ]
           },
           {
             "cells": [
               "dative",
               "славе",
-              "—"
+              "славам"
             ]
           },
           {
             "cells": [
               "accusative",
               "славу",
-              "—"
+              "славы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "славой",
-              "—"
+              "славами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "славе",
-              "—"
+              "славах"
             ]
           }
         ]
@@ -4512,7 +4490,11 @@
       "related": [
         {
           "word": "славный",
-          "gloss": "related to glory (adj.)"
+          "gloss": "glorious; nice"
+        },
+        {
+          "word": "слава богу",
+          "gloss": "thank God"
         }
       ]
     },
@@ -4526,11 +4508,11 @@
       "meanings": [
         {
           "en": "to serve",
-          "note": "+ dative (служить народу). Used as an imperfective (ongoing/repeated action) verb meaning 'to serve', paired with 'послужить'."
+          "note": "+ dative (служить народу)."
         },
         {
           "en": "to serve in the army",
-          "note": "Служить в армии. Used as an imperfective (ongoing/repeated action) verb meaning 'to serve', paired with 'послужить'."
+          "note": "Служить в армии."
         }
       ],
       "forms": {
@@ -4621,11 +4603,15 @@
       "related": [
         {
           "word": "послужить",
-          "gloss": "to serve"
+          "gloss": "to serve (pf)"
         },
         {
-          "word": "лужица",
-          "gloss": "little puddle"
+          "word": "служба",
+          "gloss": "service"
+        },
+        {
+          "word": "слуга",
+          "gloss": "servant"
         }
       ]
     },
@@ -4706,29 +4692,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "согласен",
-                "согласна",
-                "согласно",
-                "согласны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я согласен.",
@@ -4796,7 +4760,7 @@
       "meanings": [
         {
           "en": "building site, construction site",
-          "note": "На стройке = at a building site. Common feminine noun meaning 'building site' in everyday Russian."
+          "note": "На стройке = at a building site."
         }
       ],
       "forms": {
@@ -4963,7 +4927,7 @@
       "meanings": [
         {
           "en": "level",
-          "note": "Common masculine noun meaning 'level' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5045,7 +5009,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5100,6 +5064,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5140,7 +5121,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5170,7 +5151,7 @@
       "meanings": [
         {
           "en": "an Ethiopian (man)",
-          "note": "Common masculine noun meaning 'Ethiopian' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5232,8 +5213,8 @@
           "trans": "No, Ethiopian!"
         },
         {
-          "text": "В университете учился студент-эфиоп из Аддис-Абебы.",
-          "trans": "An Ethiopian student from Addis Ababa studied at the university."
+          "text": "Наш новый сосед эфиоп, он отлично варит кофе.",
+          "trans": "Our new neighbour is Ethiopian, he makes excellent coffee."
         }
       ],
       "related": []

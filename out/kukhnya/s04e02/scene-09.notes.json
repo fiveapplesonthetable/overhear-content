@@ -27,7 +27,7 @@
           "lemma": "картошка",
           "pos": "noun",
           "stress": "карто́шка",
-          "gloss": "potato",
+          "gloss": "potatoes",
           "gram": "feminine singular nominative"
         }
       ]
@@ -119,7 +119,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -243,16 +243,16 @@
           "lemma": "мир",
           "pos": "noun",
           "stress": null,
-          "gloss": "world",
+          "gloss": "peace; world",
           "gram": "masculine singular nominative"
         },
         {
           "t": "Наполеон",
           "lemma": "наполеон",
-          "pos": "noun",
-          "stress": "наполе́он",
-          "gloss": "mine",
-          "gram": "nominative / accusative"
+          "pos": "name",
+          "stress": "наполео́н",
+          "gloss": "Napoleon",
+          "gram": "nominative singular"
         },
         {
           "t": "это",
@@ -319,7 +319,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -627,7 +627,7 @@
           "lemma": "картошка",
           "pos": "noun",
           "stress": "карто́шка",
-          "gloss": "potato",
+          "gloss": "potatoes",
           "gram": "feminine singular nominative"
         }
       ]
@@ -719,7 +719,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -843,16 +843,16 @@
           "lemma": "мир",
           "pos": "noun",
           "stress": null,
-          "gloss": "world",
+          "gloss": "peace; world",
           "gram": "masculine singular nominative"
         },
         {
           "t": "Наполеон",
           "lemma": "наполеон",
-          "pos": "noun",
-          "stress": "наполе́он",
-          "gloss": "mine",
-          "gram": "nominative / accusative"
+          "pos": "name",
+          "stress": "наполео́н",
+          "gloss": "Napoleon",
+          "gram": "nominative singular"
         },
         {
           "t": "это",
@@ -919,7 +919,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1227,7 +1227,7 @@
           "lemma": "картошка",
           "pos": "noun",
           "stress": "карто́шка",
-          "gloss": "potato",
+          "gloss": "potatoes",
           "gram": "feminine singular nominative"
         }
       ]
@@ -1319,7 +1319,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1443,16 +1443,16 @@
           "lemma": "мир",
           "pos": "noun",
           "stress": null,
-          "gloss": "world",
+          "gloss": "peace; world",
           "gram": "masculine singular nominative"
         },
         {
           "t": "Наполеон",
           "lemma": "наполеон",
-          "pos": "noun",
-          "stress": "наполе́он",
-          "gloss": "mine",
-          "gram": "nominative / accusative"
+          "pos": "name",
+          "stress": "наполео́н",
+          "gloss": "Napoleon",
+          "gram": "nominative singular"
         },
         {
           "t": "это",
@@ -1519,7 +1519,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1868,7 +1868,7 @@
       "meanings": [
         {
           "en": "absolutely, completely, totally",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1902,7 +1902,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2156,10 +2156,11 @@
       "pos": "noun",
       "gloss": "war",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "war, warfare",
-          "note": "Common feminine noun meaning 'war' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2241,7 +2242,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2344,7 +2345,7 @@
       "meanings": [
         {
           "en": "second",
-          "note": "Ordinal number. Agrees in gender, number, and case with the noun it modifies ('second')."
+          "note": "Ordinal number."
         }
       ],
       "forms": {
@@ -2430,16 +2431,20 @@
       ],
       "related": [
         {
-          "word": "повторить",
-          "gloss": "to repeat"
+          "word": "два",
+          "gloss": "two"
         },
         {
-          "word": "повторять",
-          "gloss": "to repeat"
+          "word": "во-вторых",
+          "gloss": "secondly"
         },
         {
-          "word": "повториться",
-          "gloss": "to recur"
+          "word": "вторник",
+          "gloss": "Tuesday"
+        },
+        {
+          "word": "первый",
+          "gloss": "first"
         }
       ]
     },
@@ -2535,7 +2540,7 @@
       "meanings": [
         {
           "en": "to kick out, to drive out",
-          "note": "Expel someone from a place. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'гнать'). Used as a perfective (single completed action) verb meaning 'to kick out, to evict, to drive out', paired with 'выгонять'."
+          "note": "Expel someone from a place. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'гнать')."
         }
       ],
       "forms": {
@@ -2869,7 +2874,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2909,7 +2914,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -3000,11 +3005,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -3203,7 +3208,7 @@
       "meanings": [
         {
           "en": "to spoil, ruin",
-          "note": "Damage something or ruin relations. Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'портить'). Used as a perfective (single completed action) verb meaning 'to spoil, ruin, damage', paired with 'портить'."
+          "note": "Damage something or ruin relations. Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'портить')."
         }
       ],
       "forms": {
@@ -3307,7 +3312,7 @@
       "meanings": [
         {
           "en": "potatoes, potato (colloquial)",
-          "note": "Common feminine noun meaning 'potatoes' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3390,72 +3395,7 @@
           "note": "joins a description to a noun; agrees with that noun in gender and number"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "который",
-              "которая",
-              "которое",
-              "которые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "которого",
-              "которой",
-              "которого",
-              "которых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "которому",
-              "которой",
-              "которому",
-              "которым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "который/которого",
-              "которую",
-              "которое",
-              "которые/которых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "которым",
-              "которой",
-              "которым",
-              "которыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "котором",
-              "которой",
-              "котором",
-              "которых"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -3467,8 +3407,8 @@
           "trans": "Where is the book that was here?"
         },
         {
-          "text": "А что я за мэр такой, который держит своё слово?",
-          "trans": "And what kind of mayor would I be if I kept my word?"
+          "text": "Это секрет, который умрёт вместе со мной.",
+          "trans": "It's a secret that will die with me."
         }
       ],
       "related": [
@@ -3486,11 +3426,11 @@
       "meanings": [
         {
           "en": "by the way, speaking of which",
-          "note": "Used as a parenthetical word. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Used as a parenthetical word."
         },
         {
           "en": "handy, well-timed",
-          "note": "Это очень кстати. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Это очень кстати."
         }
       ],
       "forms": null,
@@ -3519,7 +3459,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3541,7 +3481,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3554,7 +3498,7 @@
       "meanings": [
         {
           "en": "peace",
-          "note": "The end of a quarrel or war. Common masculine noun meaning 'peace; world' in everyday Russian."
+          "note": "The end of a quarrel or war."
         },
         {
           "en": "world",
@@ -3738,83 +3682,6 @@
         }
       ]
     },
-    "наполеон": {
-      "lemma": "наполеон",
-      "stress": "наполе́он",
-      "pos": "noun",
-      "gloss": "mine",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "mine",
-          "note": "Declinable masculine noun meaning 'mine', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "наполеон",
-              "наполеоны"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "наполеона",
-              "наполеонов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "наполеону",
-              "наполеонам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "наполеон",
-              "наполеоны"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "наполеоном",
-              "наполеонами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "наполеоне",
-              "наполеонах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Война и мир, Наполеон — это всё моё.",
-          "trans": "War and Peace, Napoleon—all of that is mine."
-        },
-        {
-          "text": "Что если в нашем с вами кино Наполеон будет лысый?",
-          "trans": "What if Napoleon is bald in our movie together?"
-        }
-      ],
-      "related": []
-    },
     "не": {
       "lemma": "не",
       "stress": "не",
@@ -3861,7 +3728,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -4212,7 +4079,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4317,7 +4184,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4423,67 +4290,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4542,7 +4357,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -4697,7 +4512,7 @@
       "meanings": [
         {
           "en": "dinner, supper (evening meal)",
-          "note": "Common masculine noun meaning 'dinner, supper (evening meal)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4783,7 +4598,7 @@
       "meanings": [
         {
           "en": "zucchini",
-          "note": "Common masculine noun meaning 'zucchini' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4851,12 +4666,8 @@
       ],
       "related": [
         {
-          "word": "без цукин",
-          "gloss": "without zucchini"
-        },
-        {
-          "word": "наш цукини",
-          "gloss": "our zucchini"
+          "word": "кабачок",
+          "gloss": "courgette, marrow"
         }
       ]
     },
@@ -4870,7 +4681,7 @@
       "meanings": [
         {
           "en": "to read",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to read', paired with 'прочитать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4961,11 +4772,15 @@
       "related": [
         {
           "word": "прочитать",
-          "gloss": "to read"
+          "gloss": "to read (pf)"
         },
         {
-          "word": "вычитать",
-          "gloss": "to read"
+          "word": "почитать",
+          "gloss": "to read for a while"
+        },
+        {
+          "word": "читатель",
+          "gloss": "reader"
         }
       ]
     },
@@ -5069,10 +4884,11 @@
       "pos": "noun",
       "gloss": "chance",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "chance",
-          "note": "У меня есть шанс = I have a chance. From French 'chance' (favorable turn of the dice, from Late Latin 'cadentia')."
+          "note": "У меня есть шанс = I have a chance."
         }
       ],
       "forms": {

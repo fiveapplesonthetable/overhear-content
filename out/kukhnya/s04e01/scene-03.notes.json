@@ -35,7 +35,7 @@
           "lemma": "бабушка",
           "pos": "noun",
           "stress": "ба́бушке",
-          "gloss": "for grandmother",
+          "gloss": "grandmother",
           "gram": "dative singular feminine"
         },
         {
@@ -134,7 +134,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "labour, work",
-          "gram": "m inan acc sg"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -223,16 +223,16 @@
           "lemma": "пройти",
           "pos": "verb",
           "stress": "пройти́",
-          "gloss": "take place, be conducted",
+          "gloss": "to pass, go through; take place",
           "gram": "infinitive, perfective"
         },
         {
           "t": "обследование",
-          "lemma": "обследований",
-          "pos": "adj",
+          "lemma": "обследование",
+          "pos": "noun",
           "stress": "обсле́дование",
-          "gloss": "medical",
-          "gram": "nominative / accusative plural"
+          "gloss": "medical examination, checkup",
+          "gram": "accusative / nominative singular, neuter"
         },
         {
           "t": "через",
@@ -427,7 +427,7 @@
           "lemma": "бабушка",
           "pos": "noun",
           "stress": "ба́бушке",
-          "gloss": "for grandmother",
+          "gloss": "grandmother",
           "gram": "dative singular feminine"
         },
         {
@@ -526,7 +526,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "labour, work",
-          "gram": "m inan acc sg"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -615,16 +615,16 @@
           "lemma": "пройти",
           "pos": "verb",
           "stress": "пройти́",
-          "gloss": "take place, be conducted",
+          "gloss": "to pass, go through; take place",
           "gram": "infinitive, perfective"
         },
         {
           "t": "обследование",
-          "lemma": "обследований",
-          "pos": "adj",
+          "lemma": "обследование",
+          "pos": "noun",
           "stress": "обсле́дование",
-          "gloss": "medical",
-          "gram": "nominative / accusative plural"
+          "gloss": "medical examination, checkup",
+          "gram": "accusative / nominative singular, neuter"
         },
         {
           "t": "через",
@@ -819,7 +819,7 @@
           "lemma": "бабушка",
           "pos": "noun",
           "stress": "ба́бушке",
-          "gloss": "for grandmother",
+          "gloss": "grandmother",
           "gram": "dative singular feminine"
         },
         {
@@ -918,7 +918,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "labour, work",
-          "gram": "m inan acc sg"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -1007,16 +1007,16 @@
           "lemma": "пройти",
           "pos": "verb",
           "stress": "пройти́",
-          "gloss": "take place, be conducted",
+          "gloss": "to pass, go through; take place",
           "gram": "infinitive, perfective"
         },
         {
           "t": "обследование",
-          "lemma": "обследований",
-          "pos": "adj",
+          "lemma": "обследование",
+          "pos": "noun",
           "stress": "обсле́дование",
-          "gloss": "medical",
-          "gram": "nominative / accusative plural"
+          "gloss": "medical examination, checkup",
+          "gram": "accusative / nominative singular, neuter"
         },
         {
           "t": "через",
@@ -1211,11 +1211,11 @@
       "meanings": [
         {
           "en": "grandmother",
-          "note": "About any elderly woman. Common feminine noun meaning 'grandmother; old woman' in everyday Russian."
+          "note": ""
         },
         {
           "en": "old woman, old lady",
-          "note": "About any elderly woman. Common feminine noun meaning 'grandmother; old woman' in everyday Russian."
+          "note": "About any elderly woman."
         }
       ],
       "forms": {
@@ -1273,146 +1273,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Моя бабушка живёт в деревне.",
-          "trans": "My grandmother lives in the village."
+          "text": "Она с бабушкой живёт. Бабушка болеет всё время.",
+          "trans": "She lives with her grandmother. Grandma is ill all the time."
         },
         {
-          "text": "Это лучше, чем бабушка.",
-          "trans": "That's better than the old lady."
+          "text": "Ну ладно, давай беги. Бабушке привет!",
+          "trans": "Okay, off you go. Say hi to Grandma!"
         },
         {
-          "text": "Да, но лучше, чем бабушка.",
-          "trans": "Yes, but better than the old lady."
+          "text": "Какая вы прогрессивная бабушка!",
+          "trans": "What a progressive granny you are!"
         }
       ],
       "related": [
         {
           "word": "дедушка",
           "gloss": "grandfather"
-        }
-      ]
-    },
-    "вика": {
-      "lemma": "вика",
-      "stress": "ви́ка",
-      "pos": "noun",
-      "gloss": "Vika",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "Vika",
-          "note": "Declinable feminine noun meaning 'Vika', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "вика",
-              "вики"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "вики",
-              "вик"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "вике",
-              "викам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "вику",
-              "вики"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "викой",
-              "виками"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "вике",
-              "виках"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вика! Ты вообще меня не слушаешь?",
-          "trans": "Wait, are you not listening to me at all?"
-        },
-        {
-          "text": "Вика, ты что-то хотела сказать?",
-          "trans": "Vika, did you want to say something?"
-        },
-        {
-          "text": "Вик, ну не сердись.",
-          "trans": "Vika, come on, don't be angry."
-        }
-      ],
-      "related": []
-    },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
         }
       ]
     },
@@ -1426,11 +1302,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -1521,15 +1401,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -1572,11 +1452,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1768,11 +1648,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2070,11 +1950,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2248,7 +2128,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2393,79 +2273,66 @@
         }
       ]
     },
-    "обследований": {
-      "lemma": "обследований",
-      "stress": "обсле́дований",
-      "pos": "adj",
-      "gloss": "medical",
+    "обследование": {
+      "lemma": "обследование",
+      "stress": "обсле́дование",
+      "pos": "noun",
+      "gloss": "medical examination",
+      "gender": "n",
       "meanings": [
         {
-          "en": "medical",
-          "note": "Descriptive Russian adjective meaning 'medical', agreeing in gender, number, and case with the noun it modifies."
+          "en": "medical examination",
+          "note": ""
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "m",
-          "f",
-          "n",
+          "sg",
           "pl"
         ],
         "rows": [
           {
             "cells": [
               "nominative",
-              "обследований",
-              "обследованяя",
-              "обследованее",
-              "обследование"
+              "обследование",
+              "обследования"
             ]
           },
           {
             "cells": [
               "genitive",
-              "обследованего",
-              "обследованей",
-              "обследованего",
-              "обследованих"
+              "обследования",
+              "обследований"
             ]
           },
           {
             "cells": [
               "dative",
-              "обследованему",
-              "обследованей",
-              "обследованему",
-              "обследованим"
+              "обследованию",
+              "обследованиям"
             ]
           },
           {
             "cells": [
               "accusative",
-              "обследований",
-              "обследованюю",
-              "обследованее",
-              "обследование"
+              "обследование",
+              "обследования"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "обследованим",
-              "обследованей",
-              "обследованим",
-              "обследованими"
+              "обследованием",
+              "обследованиями"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "обследованем",
-              "обследованей",
-              "обследованем",
-              "обследованих"
+              "обследовании",
+              "обследованиях"
             ]
           }
         ]
@@ -2473,20 +2340,15 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Нужно пройти обследование через два дня.",
-          "trans": "We need to take a medical check-up in two days."
+          "text": "Результаты обследования показали, что уровень тоже низкий.",
+          "trans": "The test results showed that the level is also low."
         },
         {
-          "text": "А ты обследование прошла или нет?",
-          "trans": "Wait, did you take your medical check-up or not?"
+          "text": "Хочу перед обследованием побриться.",
+          "trans": "I want to shave before the checkup."
         }
       ],
-      "related": [
-        {
-          "word": "обследовано",
-          "gloss": "medical"
-        }
-      ]
+      "related": []
     },
     "он": {
       "lemma": "он",
@@ -2592,7 +2454,7 @@
       "meanings": [
         {
           "en": "to send (a person, a letter, a message)",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'править'). Used as a perfective (single completed action) verb meaning 'to send', paired with 'отправлять'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'править')."
         }
       ],
       "forms": {
@@ -2696,11 +2558,11 @@
       "meanings": [
         {
           "en": "pair, couple",
-          "note": "Common feminine noun meaning 'pair, couple, match' in everyday Russian."
+          "note": ""
         },
         {
           "en": "match (in a relationship: я не пара вам = I'm no match for you)",
-          "note": "Common feminine noun meaning 'pair, couple, match' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2782,11 +2644,11 @@
       "meanings": [
         {
           "en": "to put, to stand (something upright)",
-          "note": "Поставить защёлку = fit a latch. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить'). Used as a perfective (single completed action) verb meaning 'to put, to place (upright)', paired with 'ставить'."
+          "note": "Поставить защёлку = fit a latch. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить')."
         },
         {
           "en": "to install",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить'). Used as a perfective (single completed action) verb meaning 'to put, to place (upright)', paired with 'ставить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить')."
         }
       ],
       "forms": {
@@ -2891,7 +2753,7 @@
       "meanings": [
         {
           "en": "to be patient for a little while, to hold on",
-          "note": "Often imperative: потерпи!. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терпеть'). Used as a perfective (single completed action) verb meaning 'to be patient for a while, to endure', paired with 'терпеть'."
+          "note": "Often imperative: потерпи!. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терпеть')."
         }
       ],
       "forms": {
@@ -3002,7 +2864,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3122,7 +2984,7 @@
         },
         {
           "text": "Потом пройдёт.",
-          "trans": "Then it passes."
+          "trans": "It'll pass later."
         }
       ],
       "related": [
@@ -3141,11 +3003,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3217,8 +3079,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -3232,7 +3102,7 @@
       "meanings": [
         {
           "en": "to be angry, to be cross",
-          "note": "На + accusative = at someone. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be angry', paired with 'рассердиться'."
+          "note": "На + accusative = at someone."
         }
       ],
       "forms": {
@@ -3323,7 +3193,7 @@
       "related": [
         {
           "word": "рассердиться",
-          "gloss": "to be angry"
+          "gloss": "to get angry"
         },
         {
           "word": "сердито",
@@ -3611,7 +3481,7 @@
       "meanings": [
         {
           "en": "to respect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to respect'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3719,7 +3589,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3744,77 +3614,33 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },

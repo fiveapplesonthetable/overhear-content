@@ -48,9 +48,9 @@
           "t": "поживет",
           "lemma": "пожить",
           "pos": "verb",
-          "stress": "пожи́вет",
-          "gloss": "to live for a while, to stay",
-          "gram": "3rd person singular"
+          "stress": "поживе́т",
+          "gloss": "will stay",
+          "gram": "3rd person singular future, perfective"
         },
         {
           "t": "у",
@@ -79,8 +79,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "вы",
@@ -95,7 +95,7 @@
           "lemma": "благородный",
           "pos": "adj",
           "stress": "благоро́дный",
-          "gloss": "man",
+          "gloss": "noble",
           "gram": "nominative masculine singular"
         },
         {
@@ -329,7 +329,7 @@
           "lemma": "оказываться",
           "pos": "verb",
           "stress": "ока́зывается",
-          "gloss": "to turn out to be, prove to be",
+          "gloss": "it turns out",
           "gram": "3rd person singular"
         },
         {
@@ -494,9 +494,9 @@
           "t": "поживет",
           "lemma": "пожить",
           "pos": "verb",
-          "stress": "пожи́вет",
-          "gloss": "to live for a while, to stay",
-          "gram": "3rd person singular"
+          "stress": "поживе́т",
+          "gloss": "will stay",
+          "gram": "3rd person singular future, perfective"
         },
         {
           "t": "у",
@@ -525,8 +525,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "вы",
@@ -541,7 +541,7 @@
           "lemma": "благородный",
           "pos": "adj",
           "stress": "благоро́дный",
-          "gloss": "man",
+          "gloss": "noble",
           "gram": "nominative masculine singular"
         },
         {
@@ -775,7 +775,7 @@
           "lemma": "оказываться",
           "pos": "verb",
           "stress": "ока́зывается",
-          "gloss": "to turn out to be, prove to be",
+          "gloss": "it turns out",
           "gram": "3rd person singular"
         },
         {
@@ -940,9 +940,9 @@
           "t": "поживет",
           "lemma": "пожить",
           "pos": "verb",
-          "stress": "пожи́вет",
-          "gloss": "to live for a while, to stay",
-          "gram": "3rd person singular"
+          "stress": "поживе́т",
+          "gloss": "will stay",
+          "gram": "3rd person singular future, perfective"
         },
         {
           "t": "у",
@@ -971,8 +971,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "вы",
@@ -987,7 +987,7 @@
           "lemma": "благородный",
           "pos": "adj",
           "stress": "благоро́дный",
-          "gloss": "man",
+          "gloss": "noble",
           "gram": "nominative masculine singular"
         },
         {
@@ -1221,7 +1221,7 @@
           "lemma": "оказываться",
           "pos": "verb",
           "stress": "ока́зывается",
-          "gloss": "to turn out to be, prove to be",
+          "gloss": "it turns out",
           "gram": "3rd person singular"
         },
         {
@@ -1402,11 +1402,11 @@
       "lemma": "благородный",
       "stress": "благоро́дный",
       "pos": "adj",
-      "gloss": "eyes",
+      "gloss": "noble",
       "meanings": [
         {
-          "en": "eyes",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('eyes')."
+          "en": "noble, honourable",
+          "note": ""
         }
       ],
       "forms": {
@@ -1449,10 +1449,10 @@
           {
             "cells": [
               "accusative",
-              "благородный",
+              "благородный / благородного",
               "благородную",
               "благородное",
-              "благородные"
+              "благородные / благородных"
             ]
           },
           {
@@ -1489,15 +1489,11 @@
       "related": [
         {
           "word": "благородно",
-          "gloss": "eyes"
+          "gloss": "nobly"
         },
         {
-          "word": "благородно",
-          "gloss": "eyesly (adverbial form)"
-        },
-        {
-          "word": "очень благородный",
-          "gloss": "very eyes"
+          "word": "благородство",
+          "gloss": "nobility"
         }
       ]
     },
@@ -1509,7 +1505,7 @@
       "meanings": [
         {
           "en": "close, near",
-          "note": "Comparative: ближе. Agrees in gender, number, and case with the noun it modifies ('close, near')."
+          "note": "Comparative: ближе."
         }
       ],
       "forms": {
@@ -1552,10 +1548,10 @@
           {
             "cells": [
               "accusative",
-              "близкого",
+              "близкий / близкого",
               "близкую",
               "близкое",
-              "близких"
+              "близкие / близких"
             ]
           },
           {
@@ -1596,7 +1592,15 @@
       "related": [
         {
           "word": "близко",
-          "gloss": "closely"
+          "gloss": "near, close by"
+        },
+        {
+          "word": "ближайший",
+          "gloss": "nearest"
+        },
+        {
+          "word": "близкие",
+          "gloss": "loved ones, family"
         }
       ]
     },
@@ -1963,7 +1967,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1999,11 +2003,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2094,15 +2102,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2118,7 +2126,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2168,7 +2176,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2255,11 +2263,11 @@
       "meanings": [
         {
           "en": "to care for",
-          "note": "To look after (+ о + prep). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to care for; to look after', paired with 'позаботиться'."
+          "note": "To look after (+ о + prep)."
         },
         {
           "en": "to worry",
-          "note": "To take trouble over. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to care for; to look after', paired with 'позаботиться'."
+          "note": "To take trouble over."
         }
       ],
       "forms": {
@@ -2448,8 +2456,8 @@
           "trans": "Meet Vika."
         },
         {
-          "text": "Очень хорошо. Ну что, давайте знакомиться.",
-          "trans": "Very good. Well then, let's introduce everyone."
+          "text": "Здравствуйте, Татьяна, давайте знакомиться, я Максим.",
+          "trans": "Hello, Tatyana, let's introduce ourselves, I'm Maxim."
         }
       ],
       "related": [
@@ -2472,12 +2480,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2532,6 +2538,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2551,17 +2574,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "извинить": {
       "lemma": "извинить",
@@ -2573,11 +2597,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2657,12 +2681,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2688,7 +2712,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2878,7 +2902,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2930,6 +2954,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3202,7 +3243,7 @@
       "meanings": [
         {
           "en": "to turn out to be, prove to be, find oneself",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to turn out to be, prove to be', paired with 'оказаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3254,6 +3295,23 @@
                 "оказывалась",
                 "оказывалось",
                 "оказывались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "оказывайся",
+                "оказывайтесь"
               ]
             }
           ]
@@ -3384,7 +3442,7 @@
       "meanings": [
         {
           "en": "to live for some time, to stay",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to live for a while', forming an aspectual pair with 'жить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жить')."
         }
       ],
       "forms": {
@@ -3652,7 +3710,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -3743,15 +3801,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -3763,7 +3821,7 @@
       "meanings": [
         {
           "en": "completely, quite, utterly",
-          "note": "Совершенно верно = quite right. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Совершенно верно = quite right."
         }
       ],
       "forms": null,
@@ -3892,7 +3950,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -3944,6 +4002,23 @@
                 "увиделась",
                 "увиделось",
                 "увиделись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
               ]
             }
           ]
@@ -4076,7 +4151,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,

@@ -248,7 +248,7 @@
         },
         {
           "t": "скорее,",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -359,7 +359,7 @@
           "lemma": "три",
           "pos": "num",
           "stress": null,
-          "gloss": "three (o'clock)",
+          "gloss": "three",
           "gram": "genitive of три"
         },
         {
@@ -597,7 +597,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -888,7 +888,7 @@
         },
         {
           "t": "скорее,",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -999,7 +999,7 @@
           "lemma": "три",
           "pos": "num",
           "stress": null,
-          "gloss": "three (o'clock)",
+          "gloss": "three",
           "gram": "genitive of три"
         },
         {
@@ -1237,7 +1237,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1528,7 +1528,7 @@
         },
         {
           "t": "скорее,",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1639,7 +1639,7 @@
           "lemma": "три",
           "pos": "num",
           "stress": null,
-          "gloss": "three (o'clock)",
+          "gloss": "three",
           "gram": "genitive of три"
         },
         {
@@ -1877,7 +1877,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1952,7 +1952,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2319,7 +2319,7 @@
       "meanings": [
         {
           "en": "together",
-          "note": "Core Russian adv meaning 'together' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2349,23 +2349,23 @@
       "lemma": "втроём",
       "stress": "втроём",
       "pos": "adv",
-      "gloss": "as three, the three of us",
+      "gloss": "the three of us, three together",
       "meanings": [
         {
-          "en": "as three, the three of us",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'as three'."
+          "en": "the three of us, three together",
+          "note": ""
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Мы живём здесь втроём.",
-          "trans": "We live here as three."
+          "text": "Да, теперь мы живём здесь втроём.",
+          "trans": "Yes, now the three of us live here."
         },
         {
-          "text": "Да, теперь мы живём здесь втроём.",
-          "trans": "Yes, now we live here as three."
+          "text": "Пойдём втроём: ты, я и Настя.",
+          "trans": "Let's go, the three of us: you, me and Nastya."
         }
       ],
       "related": []
@@ -2376,7 +2376,7 @@
       "pos": "verb",
       "gloss": "to choose, select, pick",
       "aspect": "impf",
-      "pair": null,
+      "pair": "выбрать",
       "meanings": [
         {
           "en": "to choose, select, pick",
@@ -2435,6 +2435,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выбирай",
+                "выбирайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2453,16 +2470,16 @@
       ],
       "related": [
         {
-          "word": "убирать",
-          "gloss": "to clean up"
+          "word": "выбрать",
+          "gloss": "to choose (pf)"
         },
         {
-          "word": "забирать",
-          "gloss": "to take"
+          "word": "выбор",
+          "gloss": "choice"
         },
         {
-          "word": "убираться",
-          "gloss": "to clear out"
+          "word": "выборы",
+          "gloss": "election"
         }
       ]
     },
@@ -2685,7 +2702,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2721,11 +2738,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2816,15 +2837,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2846,7 +2867,7 @@
         },
         {
           "en": "to hang in there",
-          "note": "Держись! = hang in there!. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hold on; to stick with'."
+          "note": "Держись! = hang in there!."
         }
       ],
       "forms": {
@@ -2988,7 +3009,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3070,7 +3091,7 @@
       "meanings": [
         {
           "en": "to live",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to live'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3125,6 +3146,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "живи",
+                "живите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3144,7 +3182,7 @@
       "related": [
         {
           "word": "житься",
-          "gloss": "to live"
+          "gloss": "to get on, for life to go (impersonal)"
         },
         {
           "word": "дожить",
@@ -3152,7 +3190,7 @@
         },
         {
           "word": "пережить",
-          "gloss": "to survive"
+          "gloss": "to survive, to live through"
         }
       ]
     },
@@ -3196,10 +3234,11 @@
       "pos": "noun",
       "gloss": "game, play",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "game (board game, computer game, sport)",
-          "note": "Common feminine noun meaning 'game, play' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3462,6 +3501,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "изменись",
+                "изменитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3540,11 +3596,11 @@
       "meanings": [
         {
           "en": "team",
-          "note": "Common feminine noun meaning 'team; command' in everyday Russian."
+          "note": ""
         },
         {
           "en": "command, order",
-          "note": "Common feminine noun meaning 'team; command' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3721,11 +3777,15 @@
       "meanings": [
         {
           "en": "to be in the way, to hinder",
-          "note": "+ dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to be in the way, to disturb', paired with 'помешать'."
+          "note": "+ dative."
         },
         {
           "en": "to disturb, to bother",
-          "note": "Не мешай! = Don't bother me!. Used as an imperfective (ongoing/repeated action) verb meaning 'to be in the way, to disturb', paired with 'помешать'."
+          "note": "Не мешай! = Don't bother me!"
+        },
+        {
+          "en": "to stir, to mix",
+          "note": "cooking: мешать ложкой = to stir with a spoon"
         }
       ],
       "forms": {
@@ -3956,11 +4016,11 @@
       "meanings": [
         {
           "en": "ago (after a time expression)",
-          "note": "Два года назад = two years ago. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Два года назад = two years ago."
         },
         {
           "en": "back, backwards",
-          "note": "Шаг назад = a step back. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Шаг назад = a step back."
         }
       ],
       "forms": null,
@@ -4201,7 +4261,20 @@
           "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "день",
+          "gloss": "day"
+        },
+        {
+          "word": "месяц",
+          "gloss": "month"
+        },
+        {
+          "word": "выходные",
+          "gloss": "weekend"
+        }
+      ]
     },
     "новый": {
       "lemma": "новый",
@@ -4312,7 +4385,7 @@
       "meanings": [
         {
           "en": "to surround, to encircle",
-          "note": "Enclose completely on all sides. Used as a perfective (single completed action) verb meaning 'to surround, to encircle', paired with 'окружать'."
+          "note": "Enclose completely on all sides."
         }
       ],
       "forms": {
@@ -4582,7 +4655,7 @@
       "meanings": [
         {
           "en": "weapon, arms",
-          "note": "Instrument of combat. Common neuter noun meaning 'weapon, arms' in everyday Russian."
+          "note": "Instrument of combat."
         }
       ],
       "forms": {
@@ -4663,11 +4736,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -4705,7 +4778,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4806,7 +4879,7 @@
       "meanings": [
         {
           "en": "to move house, to relocate",
-          "note": "Переехать в Москву. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to move (to a new home or city)', paired with 'переезжать'."
+          "note": "Переехать в Москву. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4861,23 +4934,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "переедь",
-                "переедьте"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -4918,7 +4974,7 @@
       "meanings": [
         {
           "en": "victory, triumph over opponent",
-          "note": "Common feminine noun meaning 'victory, triumph' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4980,8 +5036,8 @@
           "trans": "People applaud your victory!"
         },
         {
-          "text": "День великой Победы.",
-          "trans": "The day of great Victory."
+          "text": "День Победы.",
+          "trans": "Victory Day."
         },
         {
           "text": "Люди в городе аплодируют вашей победе!",
@@ -5032,7 +5088,7 @@
       "meanings": [
         {
           "en": "help, assistance",
-          "note": "Common feminine noun meaning 'help' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5047,42 +5103,42 @@
             "cells": [
               "nominative",
               "помощь",
-              "—"
+              "помощи"
             ]
           },
           {
             "cells": [
               "genitive",
               "помощи",
-              "—"
+              "помощей"
             ]
           },
           {
             "cells": [
               "dative",
               "помощи",
-              "—"
+              "помощам"
             ]
           },
           {
             "cells": [
               "accusative",
               "помощь",
-              "—"
+              "помощи"
             ]
           },
           {
             "cells": [
               "instrumental",
               "помощью",
-              "—"
+              "помощами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "помощи",
-              "—"
+              "помощах"
             ]
           }
         ]
@@ -5112,7 +5168,7 @@
       "meanings": [
         {
           "en": "almost, nearly",
-          "note": "Core Russian adv meaning 'almost, nearly' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5373,31 +5429,35 @@
         }
       ]
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
+    "скорее": {
+      "lemma": "скорее",
+      "stress": "скоре́е",
       "pos": "adv",
-      "gloss": "soon",
+      "gloss": "quickly, faster; rather",
       "meanings": [
         {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "quickly, hurry up",
+          "note": "Used as imperative exhortation."
+        },
+        {
+          "en": "rather, sooner",
+          "note": "Comparison."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
+          "text": "Тащи скорее прищепку!",
+          "trans": "Bring the clothespin quickly!"
         },
         {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
+          "text": "Ладно, давай сюда скорее!",
+          "trans": "Alright, give it here quickly!"
         },
         {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
+          "text": "Отлично, закрывай скорее багажник!",
+          "trans": "Great, close the trunk quickly!"
         }
       ],
       "related": []
@@ -5642,7 +5702,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -5676,7 +5736,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -5705,7 +5765,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5769,7 +5829,7 @@
       "meanings": [
         {
           "en": "dinner, supper (evening meal)",
-          "note": "Common masculine noun meaning 'dinner, supper (evening meal)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5858,7 +5918,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,

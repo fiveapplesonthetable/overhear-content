@@ -135,7 +135,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́ш",
-          "gloss": "good, nice",
+          "gloss": "good; enough! (slang хорош = stop it)",
           "gram": "m.sg.short"
         }
       ]
@@ -359,8 +359,8 @@
           "lemma": "смеяться",
           "pos": "verb",
           "stress": "смея́лась",
-          "gloss": "to laugh",
-          "gram": "f.past"
+          "gloss": "laughed",
+          "gram": "past, feminine singular, imperfective"
         }
       ]
     },
@@ -414,7 +414,7 @@
           "pos": "adj",
           "stress": "молодо́го",
           "gloss": "young",
-          "gram": "acc.m.sg"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "кавалера!",
@@ -891,7 +891,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́ш",
-          "gloss": "good, nice",
+          "gloss": "good; enough! (slang хорош = stop it)",
           "gram": "m.sg.short"
         }
       ]
@@ -1115,8 +1115,8 @@
           "lemma": "смеяться",
           "pos": "verb",
           "stress": "смея́лась",
-          "gloss": "to laugh",
-          "gram": "f.past"
+          "gloss": "laughed",
+          "gram": "past, feminine singular, imperfective"
         }
       ]
     },
@@ -1170,7 +1170,7 @@
           "pos": "adj",
           "stress": "молодо́го",
           "gloss": "young",
-          "gram": "acc.m.sg"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "кавалера!",
@@ -1647,7 +1647,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́ш",
-          "gloss": "good, nice",
+          "gloss": "good; enough! (slang хорош = stop it)",
           "gram": "m.sg.short"
         }
       ]
@@ -1871,8 +1871,8 @@
           "lemma": "смеяться",
           "pos": "verb",
           "stress": "смея́лась",
-          "gloss": "to laugh",
-          "gram": "f.past"
+          "gloss": "laughed",
+          "gram": "past, feminine singular, imperfective"
         }
       ]
     },
@@ -1926,7 +1926,7 @@
           "pos": "adj",
           "stress": "молодо́го",
           "gloss": "young",
-          "gram": "acc.m.sg"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "кавалера!",
@@ -2684,7 +2684,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -2770,11 +2770,11 @@
       "meanings": [
         {
           "en": "head",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "'голову оторвать' = to tear someone's head off",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "en": "голову оторвать = to tear someone's head off",
+          "note": "an idiom for a big telling-off"
         }
       ],
       "forms": {
@@ -2858,7 +2858,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2893,7 +2893,7 @@
       "meanings": [
         {
           "en": "fool, silly woman",
-          "note": "Feminine counterpart of дурак. Common feminine noun meaning 'fool (woman)' in everyday Russian."
+          "note": "Feminine counterpart of дурак."
         }
       ],
       "forms": {
@@ -2986,7 +2986,7 @@
       "meanings": [
         {
           "en": "foolish, silly, ridiculous",
-          "note": "Qualitative adjective. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('foolish, stupid')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3029,10 +3029,10 @@
           {
             "cells": [
               "accusative",
-              "дурацкий",
+              "дурацкий / дурацкого",
               "дурацкую",
               "дурацкое",
-              "дурацкие"
+              "дурацкие / дурацких"
             ]
           },
           {
@@ -3059,15 +3059,15 @@
       "examples": [
         {
           "text": "Это дурацкий вопрос.",
-          "trans": "This is a foolish question."
+          "trans": "That's a stupid question."
         },
         {
-          "text": "У него дурацкие шутки.",
-          "trans": "He makes silly jokes."
+          "text": "Шути свои дурацкие шутки на кухне!",
+          "trans": "Tell your stupid jokes in the kitchen!"
         },
         {
           "text": "Эта дурацкая рыба — как плохой знак.",
-          "trans": "This foolish fish is like a bad sign."
+          "trans": "This stupid fish is like a bad omen."
         }
       ],
       "related": [
@@ -3095,7 +3095,7 @@
       "meanings": [
         {
           "en": "to acquire, start, get (a pet, friend, suitor)",
-          "note": "Transitive perfective verb. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to acquire, get', paired with 'заводить'."
+          "note": "Transitive perfective verb. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'вести')."
         }
       ],
       "forms": {
@@ -3204,6 +3204,7 @@
       "pos": "noun",
       "gloss": "sign, token, symbol",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "sign, token, symbol",
@@ -3211,7 +3212,7 @@
         },
         {
           "en": "road sign",
-          "note": "Common masculine noun meaning 'sign, token, symbol' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3283,16 +3284,16 @@
       ],
       "related": [
         {
-          "word": "познакомить",
-          "gloss": "to introduce"
+          "word": "знак внимания",
+          "gloss": "token of attention"
         },
         {
-          "word": "знакомиться",
-          "gloss": "to get acquainted"
+          "word": "дорожный знак",
+          "gloss": "road sign"
         },
         {
-          "word": "познакомиться",
-          "gloss": "to meet"
+          "word": "значок",
+          "gloss": "badge; icon"
         }
       ]
     },
@@ -3301,12 +3302,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3361,6 +3360,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3380,17 +3396,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3586,7 +3603,7 @@
       "meanings": [
         {
           "en": "suitor, escort, male companion",
-          "note": "Animate masculine noun. Common masculine noun meaning 'suitor, escort' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3700,7 +3717,7 @@
       "meanings": [
         {
           "en": "concert",
-          "note": "Common masculine noun meaning 'concert' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3780,7 +3797,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -3903,10 +3920,10 @@
           {
             "cells": [
               "accusative",
-              "молодого",
+              "молодой / молодого",
               "молодую",
               "молодое",
-              "молодых"
+              "молодые / молодых"
             ]
           },
           {
@@ -4524,7 +4541,7 @@
       "meanings": [
         {
           "en": "bad",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('bad')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4600,8 +4617,8 @@
           "trans": "Bad weather."
         },
         {
-          "text": "Это не плохая работа.",
-          "trans": "It's not a bad job."
+          "text": "Тебе же предложили работу. Что, плохая работа?",
+          "trans": "You were offered a job. What, is it a bad job?"
         },
         {
           "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
@@ -4629,11 +4646,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4769,7 +4786,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -4812,10 +4829,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -4860,16 +4877,14 @@
       "stress": "постоя́ть",
       "pos": "verb",
       "gloss": "to stand for a while; to wait",
-      "aspect": "pf",
-      "pair": "стоять",
       "meanings": [
         {
           "en": "to stand for a while",
-          "note": "Said to stop someone leaving. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'стоять'). Used as a perfective (single completed action) verb meaning 'to stand for a while; to wait', paired with 'стоять'."
+          "note": "Said to stop someone leaving. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'стоять')."
         },
         {
           "en": "Постой! = Wait!",
-          "note": "Said to stop someone leaving. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'стоять'). Used as a perfective (single completed action) verb meaning 'to stand for a while; to wait', paired with 'стоять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4962,7 +4977,8 @@
           "word": "стоять",
           "gloss": "to stand"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "про": {
       "lemma": "про",
@@ -5043,7 +5059,7 @@
       "meanings": [
         {
           "en": "earlier, before, formerly",
-          "note": "Comparative of рано. Core Russian adv meaning 'earlier, previously, used to' in everyday speech."
+          "note": "Comparative of рано."
         }
       ],
       "forms": null,
@@ -5192,7 +5208,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -5273,7 +5289,7 @@
       "meanings": [
         {
           "en": "fish",
-          "note": "Animal or food. Common feminine noun meaning 'fish' in everyday Russian."
+          "note": "Animal or food."
         }
       ],
       "forms": {
@@ -5403,7 +5419,7 @@
       "meanings": [
         {
           "en": "to seat, place, plant",
-          "note": "Transitive imperfective verb. Used as an imperfective (ongoing/repeated action) verb meaning 'to seat, place', paired with 'посадить'."
+          "note": "Transitive imperfective verb."
         }
       ],
       "forms": {
@@ -5508,7 +5524,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5745,7 +5761,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5836,15 +5852,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5862,7 +5878,7 @@
         },
         {
           "en": "to laugh at (над + instrumental)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to laugh', paired with 'засмеяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6072,7 +6088,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -6166,7 +6182,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6238,10 +6254,10 @@
           {
             "cells": [
               "accusative",
-              "третий/третьего",
+              "третий / третьего",
               "третью",
               "третье",
-              "третьи/третьих"
+              "третьи / третьих"
             ]
           },
           {
@@ -6382,11 +6398,11 @@
       "meanings": [
         {
           "en": "to recognise",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to recognise; to find out', paired with 'узнать'."
+          "note": ""
         },
         {
           "en": "to find out",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to recognise; to find out', paired with 'узнать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6493,7 +6509,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

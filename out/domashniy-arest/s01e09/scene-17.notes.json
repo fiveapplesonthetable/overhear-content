@@ -73,8 +73,8 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́мал",
-          "gloss": "would think",
-          "gram": "past, masculine singular, perfective (with бы = conditional)"
+          "gloss": "thought",
+          "gram": "past masculine singular, perfective"
         }
       ]
     },
@@ -356,7 +356,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "от",
@@ -921,8 +921,8 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́мал",
-          "gloss": "would think",
-          "gram": "past, masculine singular, perfective (with бы = conditional)"
+          "gloss": "thought",
+          "gram": "past masculine singular, perfective"
         }
       ]
     },
@@ -1204,7 +1204,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "от",
@@ -1538,12 +1538,16 @@
       "lemma": "блин",
       "stress": "блин",
       "pos": "noun",
-      "gloss": "pancake, blin",
+      "gloss": "pancake, blin; damn! (interjection)",
       "gender": "m",
       "meanings": [
         {
-          "en": "pancake, crepe",
-          "note": "Traditional Russian pancake. Common masculine noun meaning 'pancake, blin' in everyday Russian."
+          "en": "pancake, blin",
+          "note": "Traditional Russian pancake."
+        },
+        {
+          "en": "damn!, dang! (mild expletive)",
+          "note": "colloquial euphemism for a swear word"
         }
       ],
       "forms": {
@@ -1629,7 +1633,7 @@
       "meanings": [
         {
           "en": "small pancake, blintz",
-          "note": "Diminutive of блин. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'pancake, crepe, blintz' in everyday Russian."
+          "note": "Diminutive of блин."
         }
       ],
       "forms": {
@@ -1859,84 +1863,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "делать": {
       "lemma": "делать",
       "stress": "де́лать",
@@ -1947,11 +1873,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2063,7 +1989,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2137,11 +2063,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2221,12 +2147,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2334,7 +2260,7 @@
         },
         {
           "en": "to touch lightly",
-          "note": "+ genitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to concern, to apply to; to touch', paired with 'коснуться'."
+          "note": "+ genitive."
         }
       ],
       "forms": {
@@ -2389,6 +2315,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "касайся",
+                "касайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2408,7 +2351,7 @@
       "related": [
         {
           "word": "коснуться",
-          "gloss": "to concern"
+          "gloss": "to touch, to concern (pf)"
         }
       ]
     },
@@ -2649,7 +2592,7 @@
       "meanings": [
         {
           "en": "to press, to squeeze",
-          "note": "Apply physical pressure. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'жать'). Used as a perfective (single completed action) verb meaning 'to press, to push, to apply pressure', paired with 'нажимать'."
+          "note": "Apply physical pressure. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'жать')."
         }
       ],
       "forms": {
@@ -2793,8 +2736,8 @@
       "gloss": "more gently, more tenderly",
       "meanings": [
         {
-          "en": "more gently, more tenderly",
-          "note": "Comparative of нежно / нежный. Negative prefix 'не-' ('un-, non-, not') (stem 'жнее')."
+          "en": "more gently, more tenderly; more tender",
+          "note": "Comparative of нежный / нежно."
         }
       ],
       "forms": null,
@@ -2805,14 +2748,22 @@
           "trans": "Just stroke the hand more gently."
         },
         {
-          "text": "Марина, я могу быть очень нежным и ласковым.",
-          "trans": "Marina, I can be very gentle and affectionate."
+          "text": "Тогда наше мясо будет намного нежнее.",
+          "trans": "Then our meat will be much more tender."
         }
       ],
       "related": [
         {
-          "word": "очень нежнее",
-          "gloss": "intensified / related adverb (more gently)"
+          "word": "нежный",
+          "gloss": "tender, gentle"
+        },
+        {
+          "word": "нежно",
+          "gloss": "gently, tenderly"
+        },
+        {
+          "word": "нежность",
+          "gloss": "tenderness"
         }
       ]
     },
@@ -2824,7 +2775,7 @@
       "meanings": [
         {
           "en": "immediately, at once",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно')."
         }
       ],
       "forms": null,
@@ -2849,35 +2800,6 @@
           "gloss": "at once"
         }
       ]
-    },
-    "никогда": {
-      "lemma": "никогда",
-      "stress": "никогда́",
-      "pos": "adv",
-      "gloss": "never",
-      "meanings": [
-        {
-          "en": "never",
-          "note": "used with не before the verb, or alone"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Никогда!",
-          "trans": "Never!"
-        },
-        {
-          "text": "Я никогда не был на море.",
-          "trans": "I've never been to the sea."
-        },
-        {
-          "text": "Нет! Никогда!",
-          "trans": "No! Never!"
-        }
-      ],
-      "related": []
     },
     "о": {
       "lemma": "о",
@@ -3100,11 +3022,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3138,13 +3060,17 @@
       "lemma": "погладить",
       "stress": "погла́дить",
       "pos": "verb",
-      "gloss": "to stroke, to caress, to pet",
+      "gloss": "to stroke, to pet; to iron",
       "aspect": "pf",
       "pair": "гладить",
       "meanings": [
         {
           "en": "to stroke, to pet, to caress",
-          "note": "Pass hand gently over. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'гладить'). Used as a perfective (single completed action) verb meaning 'to stroke, to caress, to pet', paired with 'гладить'."
+          "note": ""
+        },
+        {
+          "en": "to iron",
+          "note": "погладить бельё / рубашку"
         }
       ],
       "forms": {
@@ -3245,7 +3171,7 @@
       "meanings": [
         {
           "en": "to think it over, to give it a thought",
-          "note": "Once, for a while. Used as a perfective (single completed action) verb meaning 'to think (it over)', paired with 'думать'."
+          "note": "Once, for a while."
         }
       ],
       "forms": {
@@ -3348,7 +3274,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3425,7 +3351,7 @@
       "meanings": [
         {
           "en": "to put, to place, to lay down",
-          "note": "+ в/на + accusative. Used as a perfective (single completed action) verb meaning 'to put, to lay down', paired with 'класть'."
+          "note": "+ в/на + accusative."
         }
       ],
       "forms": {
@@ -3516,11 +3442,15 @@
       "related": [
         {
           "word": "класть",
-          "gloss": "to put"
+          "gloss": "to put (impf)"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "выложить",
+          "gloss": "to lay out"
+        },
+        {
+          "word": "отложить",
+          "gloss": "to put aside, to postpone"
         }
       ]
     },
@@ -3566,7 +3496,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3586,115 +3516,6 @@
         }
       ],
       "related": []
-    },
-    "простить": {
-      "lemma": "простить",
-      "stress": "прости́ть",
-      "pos": "verb",
-      "gloss": "to forgive; (imperative) excuse me",
-      "aspect": "pf",
-      "pair": "прощать",
-      "meanings": [
-        {
-          "en": "to forgive",
-          "note": "Простите! = sorry! forgive me!. Used as a perfective (single completed action) verb meaning 'to forgive; (imperative) excuse me', paired with 'прощать'."
-        },
-        {
-          "en": "excuse me, sorry",
-          "note": "Imperative: прости / простите. Used as a perfective (single completed action) verb meaning 'to forgive; (imperative) excuse me', paired with 'прощать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "прощу",
-              "простим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "простишь",
-              "простите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "простит",
-              "простят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "простил",
-                "простила",
-                "простило",
-                "простили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "прости",
-                "простите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Простите, вы кто?",
-          "trans": "Excuse me, who are you?"
-        },
-        {
-          "text": "Прости меня.",
-          "trans": "Forgive me."
-        },
-        {
-          "text": "Простите меня, пожалуйста.",
-          "trans": "Please forgive me."
-        }
-      ],
-      "related": [
-        {
-          "word": "прощать",
-          "gloss": "to forgive"
-        }
-      ]
     },
     "просто": {
       "lemma": "просто",
@@ -3739,7 +3560,7 @@
       "meanings": [
         {
           "en": "to get divorced",
-          "note": "Dissolve a marriage. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'водиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to get divorced', paired with 'развестись'."
+          "note": "Dissolve a marriage. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'водиться')."
         }
       ],
       "forms": {
@@ -3856,7 +3677,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -3968,7 +3789,7 @@
       "meanings": [
         {
           "en": "hand, arm",
-          "note": "Жать руку = to shake hands. Common feminine noun meaning 'hand; arm' in everyday Russian."
+          "note": "Жать руку = to shake hands."
         }
       ],
       "forms": {
@@ -4190,7 +4011,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -4257,7 +4078,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -4293,7 +4114,7 @@
       "meanings": [
         {
           "en": "to touch",
-          "note": "Не трогай! = Don't touch!. Used as an imperfective (ongoing/repeated action) verb meaning 'to touch', paired with 'тронуть'."
+          "note": "Не трогай! = Don't touch!."
         }
       ],
       "forms": {
@@ -4484,7 +4305,7 @@
       "meanings": [
         {
           "en": "to treat someone to food or drink",
-          "note": "Takes accusative + instrumental. Prefix 'у-' marks departure, removal, or successful completion (stem 'гостить'). Used as a perfective (single completed action) verb meaning 'to treat, to offer (food or drink)', paired with 'угощать'."
+          "note": "Takes accusative + instrumental. Prefix 'у-' marks departure, removal, or successful completion (stem 'гостить')."
         }
       ],
       "forms": {
@@ -4626,7 +4447,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4731,7 +4552,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4843,7 +4664,7 @@
       "meanings": [
         {
           "en": "fruit",
-          "note": "Usually plural фрукты = fruit. Common masculine noun meaning 'piece of fruit, fruit' in everyday Russian."
+          "note": "Usually plural фрукты = fruit."
         }
       ],
       "forms": {

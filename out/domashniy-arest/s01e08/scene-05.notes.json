@@ -218,7 +218,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "brother",
-          "gram": "animate, masculine, singular, vocative"
+          "gram": "nominative singular, masculine (also used in address)"
         },
         {
           "t": "танк",
@@ -303,7 +303,7 @@
           "lemma": "лечить",
           "pos": "verb",
           "stress": "лечу́",
-          "gloss": "treat, cure",
+          "gloss": "I treat",
           "gram": "1st person singular present, imperfective"
         }
       ]
@@ -469,7 +469,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -495,7 +495,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -786,7 +786,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "brother",
-          "gram": "animate, masculine, singular, vocative"
+          "gram": "nominative singular, masculine (also used in address)"
         },
         {
           "t": "танк",
@@ -871,7 +871,7 @@
           "lemma": "лечить",
           "pos": "verb",
           "stress": "лечу́",
-          "gloss": "treat, cure",
+          "gloss": "I treat",
           "gram": "1st person singular present, imperfective"
         }
       ]
@@ -1037,7 +1037,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1063,7 +1063,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1354,7 +1354,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "brother",
-          "gram": "animate, masculine, singular, vocative"
+          "gram": "nominative singular, masculine (also used in address)"
         },
         {
           "t": "танк",
@@ -1439,7 +1439,7 @@
           "lemma": "лечить",
           "pos": "verb",
           "stress": "лечу́",
-          "gloss": "treat, cure",
+          "gloss": "I treat",
           "gram": "1st person singular present, imperfective"
         }
       ]
@@ -1605,7 +1605,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1631,7 +1631,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1768,13 +1768,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -1875,22 +1881,23 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "брат": {
       "lemma": "брат",
       "stress": "брат",
       "pos": "noun",
-      "gloss": "brother, cousin",
+      "gloss": "brother",
       "gender": "m",
       "meanings": [
         {
           "en": "brother",
-          "note": "Male sibling. Common masculine noun meaning 'brother, cousin' in everyday Russian."
+          "note": "Male sibling; also friendly address, like 'bro'"
         },
         {
-          "en": "cousin",
-          "note": "in двоюродный/троюродный брат, often shortened to брат"
+          "en": "Brother (monk)",
+          "note": "title of a monk: брат Всеволод"
         }
       ],
       "forms": {
@@ -1949,18 +1956,35 @@
       "examples": [
         {
           "text": "А это брат Всеволод.",
-          "trans": "And this is cousin Vsevolod."
+          "trans": "And this is Brother Vsevolod."
         },
         {
           "text": "Мой старший брат живёт в Москве.",
           "trans": "My older brother lives in Moscow."
         },
         {
-          "text": "А это брат Всеволод. Мы очень переживаем.",
-          "trans": "And this is cousin Vsevolod. We're very worried."
+          "text": "Нет, брат, танк я не могу чинить.",
+          "trans": "No, bro, I can't fix a tank."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "братья",
+          "gloss": "brothers"
+        },
+        {
+          "word": "сестра",
+          "gloss": "sister"
+        },
+        {
+          "word": "двоюродный брат",
+          "gloss": "cousin"
+        },
+        {
+          "word": "братан",
+          "gloss": "bro"
+        }
+      ]
     },
     "быть": {
       "lemma": "быть",
@@ -2122,7 +2146,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2156,11 +2180,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2237,7 +2261,7 @@
       "meanings": [
         {
           "en": "state, country, government",
-          "note": "Neuter noun in -о. Common neuter noun meaning 'state, country' in everyday Russian."
+          "note": "Neuter noun in -о."
         }
       ],
       "forms": {
@@ -2323,12 +2347,10 @@
       "stress": "грусти́ть",
       "pos": "verb",
       "gloss": "to be sad, grieve",
-      "aspect": "impf",
-      "pair": "погрустить",
       "meanings": [
         {
           "en": "to be sad, mourn, pine",
-          "note": "Intransitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to be sad, grieve', paired with 'погрустить'."
+          "note": "Intransitive."
         }
       ],
       "forms": {
@@ -2429,14 +2451,14 @@
           "word": "грустно",
           "gloss": "sadly"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "деньги": {
       "lemma": "деньги",
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2751,7 +2773,7 @@
       "meanings": [
         {
           "en": "to treat medically",
-          "note": "Врач лечит больных. Used as an imperfective (ongoing/repeated action) verb meaning 'to treat (a patient); (slang) to lecture', paired with 'вылечить'."
+          "note": "Врач лечит больных."
         },
         {
           "en": "(colloquial) to lecture, to try to talk round",
@@ -2846,11 +2868,15 @@
       "related": [
         {
           "word": "вылечить",
-          "gloss": "to treat"
+          "gloss": "to cure"
         },
         {
           "word": "лечиться",
           "gloss": "to undergo treatment"
+        },
+        {
+          "word": "лечение",
+          "gloss": "treatment"
         }
       ]
     },
@@ -3117,7 +3143,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3169,6 +3195,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3326,7 +3369,7 @@
       "meanings": [
         {
           "en": "come on, go on, let's see",
-          "note": "Informal, before a command. Core Russian part meaning 'come on, go on' in everyday speech."
+          "note": "Informal, before a command."
         }
       ],
       "forms": null,
@@ -3357,7 +3400,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -3460,7 +3503,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3537,7 +3580,7 @@
       "meanings": [
         {
           "en": "to show",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to show', paired with 'показывать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'казать')."
         }
       ],
       "forms": {
@@ -3642,11 +3685,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -3755,7 +3798,7 @@
       "meanings": [
         {
           "en": "to fix, mend, repair",
-          "note": "+ acc. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'чинить'). Used as a perfective (single completed action) verb meaning 'to fix, repair', paired with 'чинить'."
+          "note": "+ acc. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'чинить')."
         }
       ],
       "forms": {
@@ -3858,7 +3901,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -3963,7 +4006,7 @@
       "meanings": [
         {
           "en": "to break, break down, fail",
-          "note": "Intransitive, reflexive. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ломаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to break down, get broken', paired with 'ломаться'."
+          "note": "Intransitive, reflexive. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ломаться')."
         }
       ],
       "forms": {
@@ -4069,67 +4112,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4159,7 +4150,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4355,8 +4346,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4368,11 +4367,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4631,7 +4630,7 @@
       "meanings": [
         {
           "en": "to fix, to repair",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to fix, to repair', paired with 'починить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4824,77 +4823,33 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },

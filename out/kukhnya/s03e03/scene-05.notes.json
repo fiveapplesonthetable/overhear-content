@@ -254,7 +254,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         }
       ]
     },
@@ -268,7 +268,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         },
         {
           "t": "любой",
@@ -276,7 +276,7 @@
           "pos": "adj",
           "stress": "любо́й",
           "gloss": "any",
-          "gram": "accusative, masculine singular"
+          "gram": "nominative, masculine singular"
         },
         {
           "t": "дурак",
@@ -470,7 +470,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне?",
@@ -491,8 +491,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "взрыв?",
@@ -656,7 +656,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне",
@@ -998,7 +998,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         }
       ]
     },
@@ -1012,7 +1012,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         },
         {
           "t": "любой",
@@ -1020,7 +1020,7 @@
           "pos": "adj",
           "stress": "любо́й",
           "gloss": "any",
-          "gram": "accusative, masculine singular"
+          "gram": "nominative, masculine singular"
         },
         {
           "t": "дурак",
@@ -1214,7 +1214,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне?",
@@ -1235,8 +1235,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "взрыв?",
@@ -1400,7 +1400,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне",
@@ -1742,7 +1742,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         }
       ]
     },
@@ -1756,7 +1756,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         },
         {
           "t": "любой",
@@ -1764,7 +1764,7 @@
           "pos": "adj",
           "stress": "любо́й",
           "gloss": "any",
-          "gram": "accusative, masculine singular"
+          "gram": "nominative, masculine singular"
         },
         {
           "t": "дурак",
@@ -1958,7 +1958,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне?",
@@ -1979,8 +1979,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "взрыв?",
@@ -2144,7 +2144,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне",
@@ -2492,10 +2492,11 @@
       "pos": "noun",
       "gloss": "explosion",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "explosion",
-          "note": "Common masculine noun meaning 'explosion' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2563,12 +2564,16 @@
       ],
       "related": [
         {
-          "word": "без взры",
-          "gloss": "without explosion"
+          "word": "взорваться",
+          "gloss": "to explode"
         },
         {
-          "word": "наш взрыв",
-          "gloss": "our explosion"
+          "word": "взрываться",
+          "gloss": "to explode (impf)"
+        },
+        {
+          "word": "бомба",
+          "gloss": "bomb"
         }
       ]
     },
@@ -2576,13 +2581,17 @@
       "lemma": "вливаться",
       "stress": "влива́ться",
       "pos": "verb",
-      "gloss": "am blending in, joining",
+      "gloss": "to blend in, to join",
       "aspect": "impf",
-      "pair": null,
+      "pair": "влиться",
       "meanings": [
         {
-          "en": "am blending in, joining",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'am blending in, joining'."
+          "en": "to blend in, to join (a group)",
+          "note": "вливаться в коллектив = to fit into a team"
+        },
+        {
+          "en": "to flow in, to pour in",
+          "note": ""
         }
       ],
       "forms": {
@@ -2637,22 +2646,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "вливайся",
+                "вливайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и вливаться вовремя.",
-          "trans": "We need to do everything and am blending in on time."
+          "text": "Какой взрыв? Я просто вливаюсь в новый коллектив.",
+          "trans": "What explosion? I'm just fitting into a new team."
         },
         {
-          "text": "На нашей кухне все умеют вливаться.",
-          "trans": "In our kitchen everyone knows how to am blending in."
+          "text": "Река вливается в море.",
+          "trans": "The river flows into the sea."
         }
       ],
       "related": [
         {
-          "word": "не вливаться",
-          "gloss": "not to am blending in (negated infinitive)"
+          "word": "влиться",
+          "gloss": "to blend in (pf)"
+        },
+        {
+          "word": "коллектив",
+          "gloss": "team, staff"
         }
       ]
     },
@@ -2763,7 +2793,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2790,7 +2820,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2825,7 +2855,7 @@
         },
         {
           "en": "long ago",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2968,7 +2998,7 @@
       "meanings": [
         {
           "en": "fool, idiot",
-          "note": "Colloquial reproach. Common masculine noun meaning 'fool, idiot' in everyday Russian."
+          "note": "Colloquial reproach."
         }
       ],
       "forms": {
@@ -3061,11 +3091,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3105,11 +3135,11 @@
       "meanings": [
         {
           "en": "to come in, to step in",
-          "note": "Into a room. Used as a perfective (single completed action) verb meaning 'to come in, to drop in', paired with 'заходить'."
+          "note": "Into a room."
         },
         {
           "en": "to drop by",
-          "note": "To visit briefly. Used as a perfective (single completed action) verb meaning 'to come in, to drop in', paired with 'заходить'."
+          "note": "To visit briefly."
         }
       ],
       "forms": {
@@ -3208,13 +3238,13 @@
       "lemma": "запрещать",
       "stress": "запреща́ть",
       "pos": "verb",
-      "gloss": "forbid",
+      "gloss": "to forbid, to prohibit",
       "aspect": "impf",
-      "pair": null,
+      "pair": "запретить",
       "meanings": [
         {
-          "en": "forbid",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'forbid'."
+          "en": "to forbid, to prohibit",
+          "note": "запрещать кому + infinitive"
         }
       ],
       "forms": {
@@ -3269,6 +3299,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "запрещай",
+                "запрещайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3281,19 +3328,30 @@
           "trans": "No, this is foolish and dangerous. I forbid you."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "запретить",
+          "gloss": "to forbid (pf)"
+        },
+        {
+          "word": "запрет",
+          "gloss": "ban"
+        },
+        {
+          "word": "запрещённый",
+          "gloss": "forbidden"
+        }
+      ]
     },
     "знать": {
       "lemma": "знать",
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3348,6 +3406,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3367,17 +3442,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "к": {
       "lemma": "к",
@@ -3458,7 +3534,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3566,7 +3642,7 @@
       "meanings": [
         {
           "en": "flounder",
-          "note": "Common feminine noun meaning 'flounder' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3602,7 +3678,7 @@
             "cells": [
               "accusative",
               "камбалу",
-              "камбалы"
+              "камбал"
             ]
           },
           {
@@ -3728,7 +3804,7 @@
       "meanings": [
         {
           "en": "except, apart from, besides (with genitive)",
-          "note": "Никто, кроме... = nobody except. Core Russian prep meaning 'except, besides (+ genitive)' in everyday speech."
+          "note": "Никто, кроме... = nobody except."
         }
       ],
       "forms": null,
@@ -3757,7 +3833,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -3884,7 +3960,7 @@
       "meanings": [
         {
           "en": "any",
-          "note": "В любой момент = at any moment. Agrees in gender, number, and case with the noun it modifies ('any')."
+          "note": "В любой момент = at any moment."
         }
       ],
       "forms": {
@@ -3970,44 +4046,6 @@
       ],
       "related": []
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "можно": {
       "lemma": "можно",
       "stress": "мо́жно",
@@ -4016,11 +4054,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4154,7 +4192,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4206,6 +4244,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4323,7 +4378,7 @@
       "meanings": [
         {
           "en": "meat",
-          "note": "Culinary. Common neuter noun meaning 'meat' in everyday Russian."
+          "note": "Culinary."
         }
       ],
       "forms": {
@@ -4338,42 +4393,42 @@
             "cells": [
               "nominative",
               "мясо",
-              "мяса"
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
               "мяса",
-              "мяс"
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
               "мясу",
-              "мясам"
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
               "мясо",
-              "мяса"
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
               "мясом",
-              "мясами"
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
               "мясе",
-              "мясах"
+              "—"
             ]
           }
         ]
@@ -4472,7 +4527,15 @@
       "related": [
         {
           "word": "счёт",
-          "gloss": "account"
+          "gloss": "account, bill"
+        },
+        {
+          "word": "по поводу",
+          "gloss": "regarding"
+        },
+        {
+          "word": "о",
+          "gloss": "about"
         }
       ]
     },
@@ -4577,15 +4640,15 @@
       "related": [
         {
           "word": "учить",
-          "gloss": "to learn"
+          "gloss": "to teach; to learn"
         },
         {
           "word": "научиться",
-          "gloss": "to learn"
+          "gloss": "to learn (how to)"
         },
         {
           "word": "выучить",
-          "gloss": "to learn"
+          "gloss": "to learn, to memorize"
         }
       ]
     },
@@ -4635,7 +4698,7 @@
       "meanings": [
         {
           "en": "wrongly, incorrectly",
-          "note": "In a mistaken or improper manner. Negative prefix 'не-' ('un-, non-, not') (stem 'правильно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In a mistaken or improper manner. Negative prefix 'не-' ('un-, non-, not') (stem 'правильно')."
         }
       ],
       "forms": null,
@@ -5144,11 +5207,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5286,7 +5349,7 @@
       "meanings": [
         {
           "en": "to show",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to show', paired with 'показывать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'казать')."
         }
       ],
       "forms": {
@@ -5391,7 +5454,7 @@
       "meanings": [
         {
           "en": "to cut, slice",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'резать'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to cut', forming an aspectual pair with 'резать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'резать')."
         }
       ],
       "forms": {
@@ -5643,7 +5706,7 @@
       "meanings": [
         {
           "en": "to cut, to slice, to carve",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to cut, to slice', paired with 'разрезать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5755,7 +5818,7 @@
       "meanings": [
         {
           "en": "fish",
-          "note": "Animal or food. Common feminine noun meaning 'fish' in everyday Russian."
+          "note": "Animal or food."
         }
       ],
       "forms": {
@@ -5932,11 +5995,11 @@
       "meanings": [
         {
           "en": "to arrange, organize",
-          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         },
         {
           "en": "to cause",
-          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         }
       ],
       "forms": {
@@ -6027,15 +6090,15 @@
       "related": [
         {
           "word": "устраивать",
-          "gloss": "to organize"
+          "gloss": "to organize (impf)"
         },
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "устроиться",
+          "gloss": "to get a job, settle in"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
+          "word": "скандал",
+          "gloss": "scene, row"
         }
       ]
     },
@@ -6049,11 +6112,11 @@
       "meanings": [
         {
           "en": "to learn, to study",
-          "note": "Учить уроки = to do one's homework. Used as an imperfective (ongoing/repeated action) verb meaning 'to learn; to teach', paired with 'выучить'."
+          "note": "Учить уроки = to do one's homework."
         },
         {
           "en": "to teach",
-          "note": "+ accusative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to learn; to teach', paired with 'выучить'."
+          "note": "+ accusative of the person."
         }
       ],
       "forms": {

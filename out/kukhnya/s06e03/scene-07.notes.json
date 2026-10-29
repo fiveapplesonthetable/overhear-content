@@ -167,7 +167,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -175,7 +175,7 @@
           "lemma": "дело",
           "pos": "noun",
           "stress": "де́лу",
-          "gloss": "case",
+          "gloss": "case; business (по делу = on business)",
           "gram": "dative singular, neuter"
         }
       ]
@@ -550,9 +550,9 @@
           "t": "пойдем",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдём",
+          "stress": "пойде́м",
           "gloss": "let's go",
-          "gram": "1st person plural"
+          "gram": "1st person plural future, perfective; = 'let's go'"
         },
         {
           "t": "познакомлю",
@@ -605,8 +605,8 @@
           "lemma": "погнать",
           "pos": "verb",
           "stress": "погна́ли",
-          "gloss": "to let's",
-          "gram": "past tense, plural"
+          "gloss": "let's go",
+          "gram": "past plural, used as 'let's go'"
         },
         {
           "t": "снимать!",
@@ -783,7 +783,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -791,7 +791,7 @@
           "lemma": "дело",
           "pos": "noun",
           "stress": "де́лу",
-          "gloss": "case",
+          "gloss": "case; business (по делу = on business)",
           "gram": "dative singular, neuter"
         }
       ]
@@ -1166,9 +1166,9 @@
           "t": "пойдем",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдём",
+          "stress": "пойде́м",
           "gloss": "let's go",
-          "gram": "1st person plural"
+          "gram": "1st person plural future, perfective; = 'let's go'"
         },
         {
           "t": "познакомлю",
@@ -1221,8 +1221,8 @@
           "lemma": "погнать",
           "pos": "verb",
           "stress": "погна́ли",
-          "gloss": "to let's",
-          "gram": "past tense, plural"
+          "gloss": "let's go",
+          "gram": "past plural, used as 'let's go'"
         },
         {
           "t": "снимать!",
@@ -1399,7 +1399,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1407,7 +1407,7 @@
           "lemma": "дело",
           "pos": "noun",
           "stress": "де́лу",
-          "gloss": "case",
+          "gloss": "case; business (по делу = on business)",
           "gram": "dative singular, neuter"
         }
       ]
@@ -1782,9 +1782,9 @@
           "t": "пойдем",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдём",
+          "stress": "пойде́м",
           "gloss": "let's go",
-          "gram": "1st person plural"
+          "gram": "1st person plural future, perfective; = 'let's go'"
         },
         {
           "t": "познакомлю",
@@ -1837,8 +1837,8 @@
           "lemma": "погнать",
           "pos": "verb",
           "stress": "погна́ли",
-          "gloss": "to let's",
-          "gram": "past tense, plural"
+          "gloss": "let's go",
+          "gram": "past plural, used as 'let's go'"
         },
         {
           "t": "снимать!",
@@ -1917,7 +1917,7 @@
       "meanings": [
         {
           "en": "actor, performer",
-          "note": "Contains ё, no acute mark. Common masculine noun meaning 'actor' in everyday Russian."
+          "note": "Contains ё, no acute mark."
         }
       ],
       "forms": {
@@ -1997,7 +1997,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2296,7 +2296,7 @@
       "meanings": [
         {
           "en": "group, team, unit",
-          "note": "Common feminine noun meaning 'group, team' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2368,49 +2368,6 @@
       ],
       "related": []
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2421,11 +2378,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2516,15 +2477,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2538,7 +2499,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2629,11 +2590,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2649,7 +2610,7 @@
       "meanings": [
         {
           "en": "two hundred (number 200)",
-          "note": "Core Russian num meaning 'two hundred' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2769,7 +2730,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2855,7 +2815,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3006,11 +2966,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3050,7 +3010,7 @@
       "meanings": [
         {
           "en": "to order",
-          "note": "Food, goods, or services. Used as an imperfective (ongoing/repeated action) verb meaning 'to order', paired with 'заказать'."
+          "note": "Food, goods, or services."
         }
       ],
       "forms": {
@@ -3304,7 +3264,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3412,7 +3372,7 @@
       "meanings": [
         {
           "en": "cinema, movies",
-          "note": "Film theater or cinematic art. Common neuter noun meaning 'cinema, movies, film' in everyday Russian."
+          "note": "Film theater or cinematic art."
         }
       ],
       "forms": {
@@ -3427,42 +3387,42 @@
             "cells": [
               "nominative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "genitive",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "dative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "accusative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "instrumental",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "prepositional",
               "кино",
-              "—"
+              "кино"
             ]
           }
         ]
@@ -3493,7 +3453,7 @@
       "meanings": [
         {
           "en": "handsome guy",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'handsome guy' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3528,8 +3488,8 @@
           {
             "cells": [
               "accusative",
-              "красавчик",
-              "красавчики"
+              "красавчика",
+              "красавчиков"
             ]
           },
           {
@@ -3583,7 +3543,7 @@
       "meanings": [
         {
           "en": "crisis",
-          "note": "Often the economic crisis. Common masculine noun meaning 'crisis' in everyday Russian."
+          "note": "Often the economic crisis."
         }
       ],
       "forms": {
@@ -3656,7 +3616,11 @@
       "related": [
         {
           "word": "кризисный",
-          "gloss": "related to crisis (adj.)"
+          "gloss": "crisis (adj.)"
+        },
+        {
+          "word": "экономика",
+          "gloss": "economy"
         }
       ]
     },
@@ -3668,7 +3632,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3690,7 +3654,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3704,7 +3672,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3756,6 +3724,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3832,7 +3817,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3909,7 +3894,7 @@
       "meanings": [
         {
           "en": "lunch, dinner (midday)",
-          "note": "Перерыв на обед = lunch break. Common masculine noun meaning 'lunch, midday meal' in everyday Russian."
+          "note": "Перерыв на обед = lunch break."
         }
       ],
       "forms": {
@@ -3995,15 +3980,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -4035,15 +4020,17 @@
     },
     "погнать": {
       "lemma": "погнать",
-      "stress": "по́гнать",
+      "stress": "погна́ть",
       "pos": "verb",
-      "gloss": "to let's",
-      "aspect": "pf",
-      "pair": null,
+      "gloss": "to drive (off), to chase; погнали = let's go",
       "meanings": [
         {
-          "en": "to let's",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (root 'гнать'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to let's'."
+          "en": "to drive, to chase off",
+          "note": ""
+        },
+        {
+          "en": "погнали! = let's go! (colloquial)",
+          "note": ""
         }
       ],
       "forms": {
@@ -4057,22 +4044,22 @@
           {
             "cells": [
               "1st",
-              "погнаю",
-              "погнаем"
+              "погоню",
+              "погоним"
             ]
           },
           {
             "cells": [
               "2nd",
-              "погнаешь",
-              "погнаете"
+              "погонишь",
+              "погоните"
             ]
           },
           {
             "cells": [
               "3rd",
-              "погнает",
-              "погнают"
+              "погонит",
+              "погонят"
             ]
           }
         ]
@@ -4098,6 +4085,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "погони",
+                "погоните"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4107,15 +4111,20 @@
         },
         {
           "text": "Погнали снимать!",
-          "trans": "Let's roll and film!"
+          "trans": "Let's go shoot!"
         }
       ],
       "related": [
         {
           "word": "гнать",
-          "gloss": "to let's"
+          "gloss": "to drive, to chase"
+        },
+        {
+          "word": "поехали",
+          "gloss": "let's go"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "познакомить": {
       "lemma": "познакомить",
@@ -4127,7 +4136,7 @@
       "meanings": [
         {
           "en": "to introduce (someone to someone)",
-          "note": "+ accusative + 'с' + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомить'). Used as a perfective (single completed action) verb meaning 'to introduce', paired with 'знакомить'."
+          "note": "+ accusative + 'с' + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомить')."
         }
       ],
       "forms": {
@@ -4236,11 +4245,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4344,7 +4353,7 @@
       "meanings": [
         {
           "en": "rouble",
-          "note": "The Russian currency. Common masculine noun meaning 'rouble' in everyday Russian."
+          "note": "The Russian currency."
         }
       ],
       "forms": {
@@ -4465,15 +4474,15 @@
       "meanings": [
         {
           "en": "to take off",
-          "note": "Clothes, a ring. Used as an imperfective (ongoing/repeated action) verb meaning 'to take off; to film; to rent', paired with 'снять'."
+          "note": "Clothes, a ring."
         },
         {
           "en": "to film, to photograph",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to take off; to film; to rent', paired with 'снять'."
+          "note": ""
         },
         {
           "en": "to rent",
-          "note": "Снимать квартиру. Used as an imperfective (ongoing/repeated action) verb meaning 'to take off; to film; to rent', paired with 'снять'."
+          "note": "Снимать квартиру."
         }
       ],
       "forms": {
@@ -4564,15 +4573,15 @@
       "related": [
         {
           "word": "снять",
-          "gloss": "to film"
+          "gloss": "to take off; to film; to rent (pf)"
         },
         {
-          "word": "принимать",
-          "gloss": "to receive"
+          "word": "съёмка",
+          "gloss": "filming, shoot"
         },
         {
-          "word": "заниматься",
-          "gloss": "to be busy with"
+          "word": "снимок",
+          "gloss": "photo, shot"
         }
       ]
     },
@@ -4582,11 +4591,11 @@
       "pos": "verb",
       "gloss": "to act in a film",
       "aspect": "pf",
-      "pair": null,
+      "pair": "сниматься",
       "meanings": [
         {
           "en": "to act in a film",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to act in a film'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4600,22 +4609,22 @@
           {
             "cells": [
               "1st",
-              "сняюсь",
-              "сняемся"
+              "снимусь",
+              "снимемся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "сняешься",
-              "сняетесь"
+              "снимешься",
+              "сниметесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "сняется",
-              "сняются"
+              "снимется",
+              "снимутся"
             ]
           }
         ]
@@ -4641,22 +4650,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "снимись",
+                "снимитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Я тебе шанс хочу дать сняться в хорошем кино.",
-          "trans": "I want to give you a chance to act in a good movie."
+          "trans": "I want to give you a chance to act in a good film."
         },
         {
-          "text": "Ты же сказал, что тебе только одну сцену за столиком снять нужно!",
-          "trans": "You said that you only needed to film one scene at a table!"
+          "text": "Она снялась в рекламе.",
+          "trans": "She appeared in a commercial."
         }
       ],
       "related": [
         {
-          "word": "не сняться",
-          "gloss": "not to to act in a film (negated infinitive)"
+          "word": "сниматься",
+          "gloss": "to be filmed, act (impf)"
+        },
+        {
+          "word": "кино",
+          "gloss": "cinema, film"
         }
       ]
     },
@@ -4684,42 +4714,42 @@
             "cells": [
               "nominative",
               "совесть",
-              "—"
+              "совести"
             ]
           },
           {
             "cells": [
               "genitive",
               "совести",
-              "—"
+              "совестей"
             ]
           },
           {
             "cells": [
               "dative",
               "совести",
-              "—"
+              "совестям"
             ]
           },
           {
             "cells": [
               "accusative",
               "совесть",
-              "—"
+              "совести"
             ]
           },
           {
             "cells": [
               "instrumental",
               "совестью",
-              "—"
+              "совестями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "совести",
-              "—"
+              "совестях"
             ]
           }
         ]
@@ -4750,7 +4780,7 @@
       "meanings": [
         {
           "en": "old man",
-          "note": "Elderly man. Common masculine noun meaning 'old man' in everyday Russian."
+          "note": "Elderly man."
         }
       ],
       "forms": {
@@ -4822,12 +4852,16 @@
       ],
       "related": [
         {
-          "word": "старинный",
-          "gloss": "ancient"
+          "word": "старуха",
+          "gloss": "old woman"
         },
         {
           "word": "старичок",
-          "gloss": "old buddy"
+          "gloss": "little old man"
+        },
+        {
+          "word": "старость",
+          "gloss": "old age"
         }
       ]
     },
@@ -4846,7 +4880,7 @@
         },
         {
           "en": "to start (doing)",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4979,7 +5013,7 @@
       "meanings": [
         {
           "en": "country, nation",
-          "note": "Common feminine noun meaning 'country' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5051,209 +5085,16 @@
       ],
       "related": [
         {
-          "word": "странно",
-          "gloss": "strange"
+          "word": "государство",
+          "gloss": "state"
         },
         {
-          "word": "странный",
-          "gloss": "strange"
+          "word": "родина",
+          "gloss": "homeland"
         },
         {
-          "word": "страница",
-          "gloss": "page"
-        }
-      ]
-    },
-    "счёт": {
-      "lemma": "счёт",
-      "stress": "счёт",
-      "pos": "noun",
-      "gloss": "account, bill, score",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "bank account",
-          "note": "Счёт в банке. Common masculine noun meaning 'account, bill, score' in everyday Russian."
-        },
-        {
-          "en": "bill, check",
-          "note": "In a restaurant. Common masculine noun meaning 'account, bill, score' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "счёт",
-              "счета"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "счёта",
-              "счетов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "счёту",
-              "счетам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "счёт",
-              "счета"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "счётом",
-              "счетами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "счёте",
-              "счетах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Или счёт в банке.",
-          "trans": "Or a bank account."
-        },
-        {
-          "text": "Принесите, пожалуйста, счёт.",
-          "trans": "Bring the bill, please."
-        },
-        {
-          "text": "Или счёт в банке. Потому что они все обманщики.",
-          "trans": "Or a bank account. Because they are all cheats."
-        }
-      ],
-      "related": [
-        {
-          "word": "насчёт",
-          "gloss": "about"
-        }
-      ]
-    },
-    "твой": {
-      "lemma": "твой",
-      "stress": "твой",
-      "pos": "det",
-      "gloss": "your (informal)",
-      "meanings": [
-        {
-          "en": "your, yours",
-          "note": "To someone you call ты. Core Russian det meaning 'your (informal)' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "твой",
-              "твоя",
-              "твоё",
-              "твои"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "твоего",
-              "твоей",
-              "твоего",
-              "твоих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "твоему",
-              "твоей",
-              "твоему",
-              "твоим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "твой / твоего",
-              "твою",
-              "твоё",
-              "твои / твоих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "твоим",
-              "твоей",
-              "твоим",
-              "твоими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "твоём",
-              "твоей",
-              "твоём",
-              "твоих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это твой кофе.",
-          "trans": "This is your coffee."
-        },
-        {
-          "text": "Я бы на твоём месте подумал.",
-          "trans": "If I were you, I'd think about it."
-        },
-        {
-          "text": "Твой начальник здесь.",
-          "trans": "Your boss is here."
-        }
-      ],
-      "related": [
-        {
-          "word": "ты",
-          "gloss": "you (informal)"
-        },
-        {
-          "word": "свой",
-          "gloss": "one's own"
+          "word": "мир",
+          "gloss": "world"
         }
       ]
     },
@@ -5286,8 +5127,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5459,7 +5308,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -5520,7 +5377,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -5575,6 +5432,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5616,11 +5490,11 @@
       "meanings": [
         {
           "en": "to recognise",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to recognise; to find out', paired with 'узнать'."
+          "note": ""
         },
         {
           "en": "to find out",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to recognise; to find out', paired with 'узнать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5719,106 +5593,6 @@
         }
       ]
     },
-    "узнать": {
-      "lemma": "узнать",
-      "stress": "узна́ть",
-      "pos": "verb",
-      "gloss": "to recognise; to find out",
-      "aspect": "pf",
-      "pair": "узнавать",
-      "meanings": [
-        {
-          "en": "to recognise",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'знать'). Used as a perfective (single completed action) verb meaning 'to recognise; to find out', paired with 'узнавать'."
-        },
-        {
-          "en": "to find out, to learn",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'знать'). Used as a perfective (single completed action) verb meaning 'to recognise; to find out', paired with 'узнавать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "узнаю",
-              "узнаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "узнаешь",
-              "узнаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "узнает",
-              "узнают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "узнал",
-                "узнала",
-                "узнало",
-                "узнали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ты меня узнал?",
-          "trans": "Did you recognise me?"
-        },
-        {
-          "text": "Я узнаю, где он.",
-          "trans": "I'll find out where he is."
-        },
-        {
-          "text": "Узнал. Спасибо, что принял меня.",
-          "trans": "You recognised me. Thanks for seeing me."
-        }
-      ],
-      "related": [
-        {
-          "word": "узнавать",
-          "gloss": "to recognise"
-        },
-        {
-          "word": "знать",
-          "gloss": "to know"
-        },
-        {
-          "word": "признаться",
-          "gloss": "to confess"
-        }
-      ]
-    },
     "хороший": {
       "lemma": "хороший",
       "stress": "хоро́ший",
@@ -5827,7 +5601,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5932,7 +5706,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5984,6 +5758,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -6114,10 +5905,11 @@
       "pos": "noun",
       "gloss": "chance",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "chance",
-          "note": "У меня есть шанс = I have a chance. From French 'chance' (favorable turn of the dice, from Late Latin 'cadentia')."
+          "note": "У меня есть шанс = I have a chance."
         }
       ],
       "forms": {

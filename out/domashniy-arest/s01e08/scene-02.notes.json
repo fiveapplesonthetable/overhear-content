@@ -98,7 +98,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "power",
-          "gram": "feminine nominative singular"
+          "gram": "accusative singular, feminine"
         }
       ]
     },
@@ -136,7 +136,7 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "любимом",
@@ -197,8 +197,8 @@
           "lemma": "дед",
           "pos": "noun",
           "stress": "де́да",
-          "gloss": "grandfathers",
-          "gram": "masculine singular genitive after оба"
+          "gloss": "grandfather",
+          "gram": "genitive singular (after оба) / accusative singular"
         },
         {
           "t": "не",
@@ -638,7 +638,7 @@
           "pos": "noun",
           "stress": "де́ти",
           "gloss": "kids",
-          "gram": "nominative plural, used as address"
+          "gram": "nominative plural"
         },
         {
           "t": "всё",
@@ -932,7 +932,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "power",
-          "gram": "feminine nominative singular"
+          "gram": "accusative singular, feminine"
         }
       ]
     },
@@ -970,7 +970,7 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "любимом",
@@ -1031,8 +1031,8 @@
           "lemma": "дед",
           "pos": "noun",
           "stress": "де́да",
-          "gloss": "grandfathers",
-          "gram": "masculine singular genitive after оба"
+          "gloss": "grandfather",
+          "gram": "genitive singular (after оба) / accusative singular"
         },
         {
           "t": "не",
@@ -1472,7 +1472,7 @@
           "pos": "noun",
           "stress": "де́ти",
           "gloss": "kids",
-          "gram": "nominative plural, used as address"
+          "gram": "nominative plural"
         },
         {
           "t": "всё",
@@ -1766,7 +1766,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "power",
-          "gram": "feminine nominative singular"
+          "gram": "accusative singular, feminine"
         }
       ]
     },
@@ -1804,7 +1804,7 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "любимом",
@@ -1865,8 +1865,8 @@
           "lemma": "дед",
           "pos": "noun",
           "stress": "де́да",
-          "gloss": "grandfathers",
-          "gram": "masculine singular genitive after оба"
+          "gloss": "grandfather",
+          "gram": "genitive singular (after оба) / accusative singular"
         },
         {
           "t": "не",
@@ -2306,7 +2306,7 @@
           "pos": "noun",
           "stress": "де́ти",
           "gloss": "kids",
-          "gram": "nominative plural, used as address"
+          "gram": "nominative plural"
         },
         {
           "t": "всё",
@@ -2805,7 +2805,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2952,10 +2952,11 @@
       "pos": "noun",
       "gloss": "bribe-taker",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "bribe-taker",
-          "note": "An official who takes bribes. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'bribe-taker' in everyday Russian."
+          "note": "An official who takes bribes."
         }
       ],
       "forms": {
@@ -3041,11 +3042,11 @@
       "meanings": [
         {
           "en": "power, authority",
-          "note": "идти во власть = go into government"
+          "note": "бороться за власть = to fight for power"
         },
         {
           "en": "government, the authorities",
-          "note": "идти во власть = go into government"
+          "note": "идти во власть = go into government; власти = the authorities"
         }
       ],
       "forms": {
@@ -3118,7 +3119,11 @@
       "related": [
         {
           "word": "властный",
-          "gloss": "related to power (adj.)"
+          "gloss": "domineering, commanding"
+        },
+        {
+          "word": "правительство",
+          "gloss": "government"
         }
       ]
     },
@@ -3297,7 +3302,7 @@
       "meanings": [
         {
           "en": "upbringing, education, manners",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'upbringing, education' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3392,7 +3397,7 @@
       "meanings": [
         {
           "en": "to raise, bring up, educate",
-          "note": "+ acc. Used as a perfective (single completed action) verb meaning 'to raise, bring up, educate', paired with 'воспитывать'."
+          "note": "+ acc."
         }
       ],
       "forms": {
@@ -3503,11 +3508,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3741,7 +3746,7 @@
       "meanings": [
         {
           "en": "town, city",
-          "note": "Common masculine noun meaning 'town, city' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3823,12 +3828,11 @@
       "stress": "деба́ты",
       "pos": "noun",
       "gloss": "debate",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
           "en": "debate, discussion",
-          "note": "Plural only noun. Common plural-only noun meaning 'debate' in everyday Russian."
+          "note": "Plural only noun."
         }
       ],
       "forms": {
@@ -3906,14 +3910,15 @@
       "pos": "noun",
       "gloss": "grandfather",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "grandfather, grandad",
-          "note": "Colloquial. Common masculine noun meaning 'grandfather' in everyday Russian."
+          "note": "Colloquial."
         },
         {
           "en": "old man",
-          "note": "Colloquial. Common masculine noun meaning 'grandfather' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3994,7 +3999,7 @@
       "meanings": [
         {
           "en": "paratrooper, airborne trooper",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'paratrooper, airborne soldier' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4075,11 +4080,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4119,7 +4124,7 @@
       "meanings": [
         {
           "en": "to sink, reach a low point (figurative); to roll down to",
-          "note": "Докатиться до + gen. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'катиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to sink down to, roll to', paired with 'докатываться'."
+          "note": "Докатиться до + gen. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'катиться')."
         }
       ],
       "forms": {
@@ -4218,11 +4223,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4399,6 +4404,7 @@
       "pos": "noun",
       "gloss": "candidate",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "candidate (in an election or for a job)",
@@ -4569,11 +4575,11 @@
       "meanings": [
         {
           "en": "whether, if",
-          "note": "In indirect questions. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+          "note": "In indirect questions."
         },
         {
           "en": "что ли = or what, I suppose",
-          "note": "Colloquial tag. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+          "note": "Colloquial tag."
         }
       ],
       "forms": null,
@@ -4611,11 +4617,11 @@
       "meanings": [
         {
           "en": "favourite, best-liked",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         },
         {
           "en": "beloved, darling",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4658,10 +4664,10 @@
           {
             "cells": [
               "accusative",
-              "любимый/любимого",
+              "любимый / любимого",
               "любимую",
               "любимое",
-              "любимые/любимых"
+              "любимые / любимых"
             ]
           },
           {
@@ -4724,7 +4730,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4776,6 +4782,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4890,6 +4913,7 @@
       "pos": "noun",
       "gloss": "mayor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "mayor",
@@ -4963,7 +4987,16 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "мэрия",
+          "gloss": "town hall"
+        },
+        {
+          "word": "губернатор",
+          "gloss": "governor"
+        }
+      ]
     },
     "на": {
       "lemma": "на",
@@ -5229,7 +5262,7 @@
       "meanings": [
         {
           "en": "window",
-          "note": "Common neuter noun meaning 'window' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5403,67 +5436,23 @@
       "meanings": [
         {
           "en": "it",
-          "note": "For neuter nouns. Core Russian pron meaning 'it' in everyday speech."
+          "note": "For neuter nouns."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "оно"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "его (него)"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ему (нему)"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "его (него)"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "им (ним)"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нём"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Вот оно!",
-          "trans": "There it is!"
+          "text": "Вот оно! Самсон, ты будешь новым мэром.",
+          "trans": "That's it! Samson, you'll be the new mayor."
         },
         {
-          "text": "Заявление? Он его написал.",
-          "trans": "The statement? He wrote it."
+          "text": "Ага! Вот оно в чём дело.",
+          "trans": "Aha! So that's what it's about."
         },
         {
-          "text": "А зачем? Я сам сделал так, чтобы он его написал.",
-          "trans": "And why would I? I'm the one who made him write it."
+          "text": "Спа захотела? Вот оно, твоё королевство!",
+          "trans": "Wanted a spa? There it is, your kingdom!"
         }
       ],
       "related": [
@@ -5486,11 +5475,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -5530,7 +5519,7 @@
       "meanings": [
         {
           "en": "to answer, to reply, to pick up the phone",
-          "note": "Отвечать кому / на звонок. Used as an imperfective (ongoing/repeated action) verb meaning 'to answer, to reply', paired with 'ответить'."
+          "note": "Отвечать кому / на звонок."
         }
       ],
       "forms": {
@@ -5635,7 +5624,7 @@
       "meanings": [
         {
           "en": "to fall, to drop",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to fall', paired with 'упасть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5726,11 +5715,11 @@
       "related": [
         {
           "word": "упасть",
-          "gloss": "to fall"
+          "gloss": "to fall (pf)"
         },
         {
-          "word": "нападающий",
-          "gloss": "forward"
+          "word": "падение",
+          "gloss": "fall"
         }
       ]
     },
@@ -5743,7 +5732,7 @@
       "meanings": [
         {
           "en": "shoulder",
-          "note": "Body part. Common neuter noun meaning 'shoulder' in everyday Russian."
+          "note": "Body part."
         }
       ],
       "forms": {
@@ -5990,6 +5979,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получайся",
+                "получайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6027,11 +6033,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -6185,10 +6191,10 @@
           {
             "cells": [
               "accusative",
-              "похожий/похожего",
+              "похожий / похожего",
               "похожую",
               "похожее",
-              "похожие/похожих"
+              "похожие / похожих"
             ]
           },
           {
@@ -6211,29 +6217,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "похож",
-                "похожа",
-                "похоже",
-                "похожи"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "На дворников похожи.",
@@ -6256,10 +6240,11 @@
       "pos": "noun",
       "gloss": "traitor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "traitor, betrayer",
-          "note": "Animate masculine noun in -тель. Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'traitor' in everyday Russian."
+          "note": "Animate masculine noun in -тель."
         }
       ],
       "forms": {
@@ -6484,7 +6469,7 @@
       "meanings": [
         {
           "en": "to be glad, rejoice",
-          "note": "+ dat (rejoice at). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to rejoice, be glad', paired with 'обрадоваться'."
+          "note": "+ dat (rejoice at)."
         }
       ],
       "forms": {
@@ -6592,16 +6577,14 @@
       "stress": "рва́ться",
       "pos": "verb",
       "gloss": "to strive for, rush toward, tear",
-      "aspect": "impf",
-      "pair": "порываться",
       "meanings": [
         {
           "en": "to strive intensely, claw one's way (into/toward)",
-          "note": "Рваться в/к + acc/dat. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to strive for, rush toward, tear', paired with 'порываться'."
+          "note": "Рваться в/к + acc/dat."
         },
         {
           "en": "to tear, break",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to strive for, rush toward, tear', paired with 'порываться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6698,7 +6681,8 @@
           "word": "вырвать",
           "gloss": "to tear out"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "ребёнок": {
       "lemma": "ребёнок",
@@ -6709,7 +6693,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -6872,7 +6856,7 @@
       "meanings": [
         {
           "en": "little family, clan (often ironic or derogatory)",
-          "note": "Diminutive of семья. Common feminine noun meaning 'little family (diminutive/pejorative)' in everyday Russian."
+          "note": "Diminutive of семья."
         }
       ],
       "forms": {
@@ -6958,7 +6942,7 @@
       "meanings": [
         {
           "en": "family",
-          "note": "Common feminine noun meaning 'family' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7040,15 +7024,15 @@
       "meanings": [
         {
           "en": "to take off",
-          "note": "Clothes, a ring. Used as an imperfective (ongoing/repeated action) verb meaning 'to take off; to film; to rent', paired with 'снять'."
+          "note": "Clothes, a ring."
         },
         {
           "en": "to film, to photograph",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to take off; to film; to rent', paired with 'снять'."
+          "note": ""
         },
         {
           "en": "to rent",
-          "note": "Снимать квартиру. Used as an imperfective (ongoing/repeated action) verb meaning 'to take off; to film; to rent', paired with 'снять'."
+          "note": "Снимать квартиру."
         }
       ],
       "forms": {
@@ -7139,15 +7123,15 @@
       "related": [
         {
           "word": "снять",
-          "gloss": "to film"
+          "gloss": "to take off; to film; to rent (pf)"
         },
         {
-          "word": "принимать",
-          "gloss": "to receive"
+          "word": "съёмка",
+          "gloss": "filming, shoot"
         },
         {
-          "word": "заниматься",
-          "gloss": "to be busy with"
+          "word": "снимок",
+          "gloss": "photo, shot"
         }
       ]
     },
@@ -7308,7 +7292,7 @@
       "meanings": [
         {
           "en": "that may be so, indeed",
-          "note": "Intensifying particle. Core Russian part meaning 'that is so, indeed' in everyday speech."
+          "note": "Intensifying particle."
         }
       ],
       "forms": null,
@@ -7329,8 +7313,12 @@
       ],
       "related": [
         {
-          "word": "не так-то",
-          "gloss": "negated / contrasted form (that is so)"
+          "word": "не так-то просто",
+          "gloss": "not that easy"
+        },
+        {
+          "word": "так",
+          "gloss": "so"
         }
       ]
     },
@@ -7343,7 +7331,7 @@
       "meanings": [
         {
           "en": "tattoo",
-          "note": "Common feminine noun meaning 'tattoo' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7411,8 +7399,12 @@
       ],
       "related": [
         {
-          "word": "статусный",
-          "gloss": "status"
+          "word": "тату",
+          "gloss": "tattoo"
+        },
+        {
+          "word": "свести татуировку",
+          "gloss": "to remove a tattoo"
         }
       ]
     },
@@ -7531,8 +7523,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },

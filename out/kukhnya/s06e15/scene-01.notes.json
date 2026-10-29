@@ -44,7 +44,7 @@
           "pos": "adj",
           "stress": "сла́дких",
           "gloss": "sweet",
-          "gram": "nominative masculine singular"
+          "gram": "genitive plural"
         },
         {
           "t": "снов.",
@@ -332,7 +332,7 @@
         },
         {
           "t": "скорее,",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -637,7 +637,7 @@
           "lemma": "рассказать",
           "pos": "verb",
           "stress": "расска́жем",
-          "gloss": "to tell (a story, news)",
+          "gloss": "let's tell, will tell",
           "gram": "fut 1pl"
         }
       ]
@@ -746,7 +746,7 @@
           "pos": "adj",
           "stress": "сла́дких",
           "gloss": "sweet",
-          "gram": "nominative masculine singular"
+          "gram": "genitive plural"
         },
         {
           "t": "снов.",
@@ -1034,7 +1034,7 @@
         },
         {
           "t": "скорее,",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1339,7 +1339,7 @@
           "lemma": "рассказать",
           "pos": "verb",
           "stress": "расска́жем",
-          "gloss": "to tell (a story, news)",
+          "gloss": "let's tell, will tell",
           "gram": "fut 1pl"
         }
       ]
@@ -1448,7 +1448,7 @@
           "pos": "adj",
           "stress": "сла́дких",
           "gloss": "sweet",
-          "gram": "nominative masculine singular"
+          "gram": "genitive plural"
         },
         {
           "t": "снов.",
@@ -1736,7 +1736,7 @@
         },
         {
           "t": "скорее,",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -2041,7 +2041,7 @@
           "lemma": "рассказать",
           "pos": "verb",
           "stress": "расска́жем",
-          "gloss": "to tell (a story, news)",
+          "gloss": "let's tell, will tell",
           "gram": "fut 1pl"
         }
       ]
@@ -2224,7 +2224,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2365,84 +2365,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2535,7 +2457,7 @@
       "meanings": [
         {
           "en": "to look, appear (well, strange)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть'). Used as an verbal verb meaning 'to look, appear'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть')."
         }
       ],
       "forms": {
@@ -2573,6 +2495,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -2581,10 +2504,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "выглядел",
                 "выглядела",
                 "выглядело",
                 "выглядели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выгляди",
+                "выглядите"
               ]
             }
           ]
@@ -2696,29 +2637,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -2841,7 +2760,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2890,11 +2809,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3118,7 +3037,7 @@
       "meanings": [
         {
           "en": "cinema, movies",
-          "note": "Film theater or cinematic art. Common neuter noun meaning 'cinema, movies, film' in everyday Russian."
+          "note": "Film theater or cinematic art."
         }
       ],
       "forms": {
@@ -3133,42 +3052,42 @@
             "cells": [
               "nominative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "genitive",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "dative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "accusative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "instrumental",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "prepositional",
               "кино",
-              "—"
+              "кино"
             ]
           }
         ]
@@ -3198,7 +3117,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3240,7 +3159,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3262,7 +3181,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3274,11 +3197,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3452,16 +3375,16 @@
       ],
       "related": [
         {
-          "word": "конечно",
-          "gloss": "of course"
+          "word": "наконец-то",
+          "gloss": "at last!"
         },
         {
           "word": "конец",
           "gloss": "end"
         },
         {
-          "word": "наконец-то",
-          "gloss": "at last"
+          "word": "в конце концов",
+          "gloss": "in the end, after all"
         }
       ]
     },
@@ -3507,11 +3430,15 @@
       "lemma": "некрасиво",
       "stress": "некраси́во",
       "pos": "adv",
-      "gloss": "impolite / not nice",
+      "gloss": "not nice, impolite; unattractive",
       "meanings": [
         {
-          "en": "impolite / not nice",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'красиво'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "it's not nice, impolite (of behaviour)",
+          "note": "Very common reproach: Это некрасиво! That's not nice!"
+        },
+        {
+          "en": "unattractively, ugly (of appearance)",
+          "note": ""
         }
       ],
       "forms": null,
@@ -3519,21 +3446,25 @@
       "examples": [
         {
           "text": "Мама, очень некрасиво так громко спорить.",
-          "trans": "Mom, it is very impolite to argue so loudly."
+          "trans": "Mom, it's really not nice to argue so loudly."
         },
         {
-          "text": "Костя сказал это совершенно некрасиво и спокойно.",
-          "trans": "Kostya said this quite impolite and calmly."
+          "text": "Сейчас всё выглядит очень некрасиво.",
+          "trans": "Right now it all looks really ugly."
         }
       ],
       "related": [
         {
-          "word": "очень некрасиво",
-          "gloss": "very impolite"
+          "word": "красиво",
+          "gloss": "beautifully, nicely"
         },
         {
-          "word": "так некрасиво",
-          "gloss": "so impolite"
+          "word": "некрасивый",
+          "gloss": "unattractive, ugly"
+        },
+        {
+          "word": "неприлично",
+          "gloss": "indecent, improper"
         }
       ]
     },
@@ -3670,7 +3601,7 @@
       "meanings": [
         {
           "en": "to be running late, to arrive late",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be running late, to be late', paired with 'опоздать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3918,7 +3849,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4019,11 +3950,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4236,7 +4167,7 @@
       "meanings": [
         {
           "en": "principle, tenet",
-          "note": "Common masculine noun meaning 'principle' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4319,7 +4250,7 @@
       "meanings": [
         {
           "en": "to hide oneself, to be in hiding",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hide (oneself)', paired with 'спрятаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4549,7 +4480,7 @@
         },
         {
           "en": "solution",
-          "note": "To a problem. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'decision; solution' in everyday Russian."
+          "note": "To a problem."
         }
       ],
       "forms": {
@@ -4678,11 +4609,11 @@
         },
         {
           "en": "electricity, the power",
-          "note": "colloquial: нет света = the power is off"
+          "note": ""
         },
         {
           "en": "world",
-          "note": "В целом свете = in the whole world. Common masculine noun meaning 'light; electricity' in everyday Russian."
+          "note": "В целом свете = in the whole world."
         }
       ],
       "forms": {
@@ -4840,7 +4771,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4931,15 +4862,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4976,35 +4907,6 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "сладкий": {
       "lemma": "сладкий",
       "stress": "сла́дкий",
@@ -5013,11 +4915,11 @@
       "meanings": [
         {
           "en": "sweet, sugary",
-          "note": "Of food or drink. Agrees in gender, number, and case with the noun it modifies ('sweet')."
+          "note": "Of food or drink."
         },
         {
           "en": "sweet, darling",
-          "note": "Affectionate, to a child or pet. Agrees in gender, number, and case with the noun it modifies ('sweet')."
+          "note": "Affectionate, to a child or pet."
         }
       ],
       "forms": {
@@ -5060,10 +4962,10 @@
           {
             "cells": [
               "accusative",
-              "сладкий",
+              "сладкий / сладкого",
               "сладкую",
               "сладкое",
-              "сладкие"
+              "сладкие / сладких"
             ]
           },
           {
@@ -5120,7 +5022,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5150,11 +5052,11 @@
       "meanings": [
         {
           "en": "dream",
-          "note": "Видeть сон / снится сон. Common substantive noun meaning 'dream; sleep' in everyday Russian."
+          "note": "видеть сон = to have a dream; мне снится сон"
         },
         {
           "en": "sleep",
-          "note": "Common substantive noun meaning 'dream; sleep' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5227,7 +5129,15 @@
       "related": [
         {
           "word": "сонный",
-          "gloss": "related to dream (adj.)"
+          "gloss": "sleepy"
+        },
+        {
+          "word": "сниться",
+          "gloss": "to appear in a dream"
+        },
+        {
+          "word": "спать",
+          "gloss": "to sleep"
         }
       ]
     },
@@ -5388,7 +5298,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5536,8 +5446,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5669,7 +5587,7 @@
         },
         {
           "en": "outside, outdoors",
-          "note": "на улице = out on the street / outside"
+          "note": ""
         }
       ],
       "forms": {
@@ -5749,7 +5667,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5852,7 +5770,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,

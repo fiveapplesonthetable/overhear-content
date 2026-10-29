@@ -90,7 +90,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -698,7 +698,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -1312,7 +1312,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -1856,7 +1856,7 @@
       "meanings": [
         {
           "en": "white",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('white')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2301,7 +2301,7 @@
         },
         {
           "en": "everyone",
-          "note": "Всем = to everyone (dative). Core Russian pron meaning 'all; everyone' in everyday speech."
+          "note": "Всем = to everyone (dative)."
         }
       ],
       "forms": null,
@@ -2324,88 +2324,6 @@
         {
           "word": "весь",
           "gloss": "all, whole"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2645,7 +2563,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2679,7 +2597,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2714,7 +2632,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2803,11 +2720,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2836,7 +2753,7 @@
       "meanings": [
         {
           "en": "it is a pity, too bad",
-          "note": "Predicative. Core Russian adv meaning 'it is a pity, too bad' in everyday speech."
+          "note": "Predicative."
         }
       ],
       "forms": null,
@@ -2866,7 +2783,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2948,7 +2865,7 @@
       "meanings": [
         {
           "en": "to launch, to initiate",
-          "note": "Start a project or program. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to launch, to start', paired with 'запускать'."
+          "note": "Start a project or program. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'пустить')."
         }
       ],
       "forms": {
@@ -3095,10 +3012,11 @@
       "pos": "noun",
       "gloss": "idea",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "idea, thought, concept",
-          "note": "Common feminine noun meaning 'idea' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3235,6 +3153,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "изменись",
+                "изменитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3312,7 +3247,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -3358,7 +3293,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3459,7 +3394,7 @@
       "meanings": [
         {
           "en": "to change, alter",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to change, alter', paired with 'поменяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3571,7 +3506,7 @@
       "meanings": [
         {
           "en": "monastery",
-          "note": "Common masculine noun meaning 'monastery' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3653,7 +3588,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3705,6 +3640,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3850,7 +3802,7 @@
       "meanings": [
         {
           "en": "to begin, to start, to break out (intransitive)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to begin, to start, to break out', paired with 'начинаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3902,6 +3854,23 @@
                 "началась",
                 "началось",
                 "начались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "начнись",
+                "начнитесь"
               ]
             }
           ]
@@ -4200,7 +4169,7 @@
       "meanings": [
         {
           "en": "to work out, sort itself out; to form",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to work out, form', paired with 'образовываться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4291,15 +4260,11 @@
       "related": [
         {
           "word": "образовываться",
-          "gloss": "to work out"
+          "gloss": "to form"
         },
         {
-          "word": "разок",
-          "gloss": "time"
-        },
-        {
-          "word": "образование",
-          "gloss": "education"
+          "word": "всё образуется",
+          "gloss": "it will all work out"
         }
       ]
     },
@@ -4311,7 +4276,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -4518,7 +4483,7 @@
       "meanings": [
         {
           "en": "streak, period, lane",
-          "note": "Common feminine noun meaning 'streak, stripe' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4590,8 +4555,16 @@
       ],
       "related": [
         {
-          "word": "полосный",
-          "gloss": "related to streak (adj.)"
+          "word": "полоска",
+          "gloss": "strip, stripe"
+        },
+        {
+          "word": "полосатый",
+          "gloss": "striped"
+        },
+        {
+          "word": "чёрная полоса",
+          "gloss": "bad patch, rough streak"
         }
       ]
     },
@@ -4660,6 +4633,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понравься",
+                "понравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4682,8 +4672,8 @@
           "gloss": "to be liked"
         },
         {
-          "word": "нравоучение",
-          "gloss": "moral lecture"
+          "word": "любить",
+          "gloss": "to love, to like"
         }
       ]
     },
@@ -4731,7 +4721,7 @@
       "meanings": [
         {
           "en": "to appear, to show up, to turn up",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'явиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to appear, to show up', paired with 'появляться'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'явиться')."
         }
       ],
       "forms": {
@@ -4878,10 +4868,11 @@
       "pos": "noun",
       "gloss": "project",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "project",
-          "note": "A plan or piece of work. Common masculine noun meaning 'project' in everyday Russian."
+          "note": "A plan or piece of work."
         }
       ],
       "forms": {
@@ -4954,7 +4945,11 @@
       "related": [
         {
           "word": "проектный",
-          "gloss": "related to project (adj.)"
+          "gloss": "project (adj.), design"
+        },
+        {
+          "word": "запустить проект",
+          "gloss": "to launch a project"
         }
       ]
     },
@@ -5006,7 +5001,7 @@
       "meanings": [
         {
           "en": "kindergarten, small garden",
-          "note": "Diminutive of garden; kindergarten. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'kindergarten, nursery school' in everyday Russian."
+          "note": "Diminutive of garden; kindergarten. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         }
       ],
       "forms": {
@@ -5226,7 +5221,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5388,11 +5383,11 @@
       "meanings": [
         {
           "en": "confident, assured",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": "Short form уверен / уверена."
         },
         {
           "en": "sure, certain",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5435,10 +5430,10 @@
           {
             "cells": [
               "accusative",
-              "уверенный",
+              "уверенный / уверенного",
               "уверенную",
               "уверенное",
-              "уверенные"
+              "уверенные / уверенных"
             ]
           },
           {
@@ -5492,7 +5487,7 @@
       "meanings": [
         {
           "en": "pleasure, enjoyment",
-          "note": "Common neuter noun meaning 'pleasure' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5550,16 +5545,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Ходить в садик с удовольствием.",
-          "trans": "Go to daycare with pleasure."
+          "text": "Даже Лёша начал ходить в садик с удовольствием.",
+          "trans": "Even Lyosha has started going to nursery happily."
         },
         {
           "text": "С большим удовольствием!",
           "trans": "With great pleasure!"
         },
         {
-          "text": "Даже Лёша начал ходить в садик с удовольствием.",
-          "trans": "Even Lyosha started going to daycare with pleasure."
+          "text": "С вами работать одно удовольствие, Виктор Петрович!",
+          "trans": "It's a real pleasure working with you, Viktor Petrovich!"
         }
       ],
       "related": []

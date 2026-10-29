@@ -149,7 +149,7 @@
           "lemma": "отрастить",
           "pos": "verb",
           "stress": "отрасти́л",
-          "gloss": "grew out",
+          "gloss": "grew (hair)",
           "gram": "past tense, masculine singular, perfective"
         }
       ]
@@ -293,7 +293,7 @@
           "lemma": "поверить",
           "pos": "verb",
           "stress": "пове́рила",
-          "gloss": "I believed",
+          "gloss": "believed",
           "gram": "past, feminine singular, perfective"
         }
       ]
@@ -316,7 +316,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "your",
-          "gram": "prepositional, neuter singular"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "месте",
@@ -363,7 +363,7 @@
           "lemma": "поверить",
           "pos": "verb",
           "stress": "пове́рил",
-          "gloss": "to believe",
+          "gloss": "believed",
           "gram": "past tense, masculine singular"
         }
       ]
@@ -613,7 +613,7 @@
           "lemma": "отрастить",
           "pos": "verb",
           "stress": "отрасти́л",
-          "gloss": "grew out",
+          "gloss": "grew (hair)",
           "gram": "past tense, masculine singular, perfective"
         }
       ]
@@ -757,7 +757,7 @@
           "lemma": "поверить",
           "pos": "verb",
           "stress": "пове́рила",
-          "gloss": "I believed",
+          "gloss": "believed",
           "gram": "past, feminine singular, perfective"
         }
       ]
@@ -780,7 +780,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "your",
-          "gram": "prepositional, neuter singular"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "месте",
@@ -827,7 +827,7 @@
           "lemma": "поверить",
           "pos": "verb",
           "stress": "пове́рил",
-          "gloss": "to believe",
+          "gloss": "believed",
           "gram": "past tense, masculine singular"
         }
       ]
@@ -1077,7 +1077,7 @@
           "lemma": "отрастить",
           "pos": "verb",
           "stress": "отрасти́л",
-          "gloss": "grew out",
+          "gloss": "grew (hair)",
           "gram": "past tense, masculine singular, perfective"
         }
       ]
@@ -1221,7 +1221,7 @@
           "lemma": "поверить",
           "pos": "verb",
           "stress": "пове́рила",
-          "gloss": "I believed",
+          "gloss": "believed",
           "gram": "past, feminine singular, perfective"
         }
       ]
@@ -1244,7 +1244,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "your",
-          "gram": "prepositional, neuter singular"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "месте",
@@ -1291,7 +1291,7 @@
           "lemma": "поверить",
           "pos": "verb",
           "stress": "пове́рил",
-          "gloss": "to believe",
+          "gloss": "believed",
           "gram": "past tense, masculine singular"
         }
       ]
@@ -1411,7 +1411,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1944,7 +1944,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2090,12 +2090,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2150,6 +2148,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2169,17 +2184,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -2229,11 +2245,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2313,12 +2329,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2344,7 +2360,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2366,7 +2382,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2378,7 +2398,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -2668,7 +2688,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise, fright or pain. Core Russian interj meaning 'oh' in everyday speech."
+          "note": "Surprise, fright or pain."
         }
       ],
       "forms": null,
@@ -2700,15 +2720,15 @@
     },
     "отрастить": {
       "lemma": "отрастить",
-      "stress": "отра́стить",
+      "stress": "отрасти́ть",
       "pos": "verb",
-      "gloss": "grew out",
+      "gloss": "to grow (hair, a beard)",
       "aspect": "pf",
-      "pair": null,
+      "pair": "отращивать",
       "meanings": [
         {
-          "en": "grew out",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'растить'). Used as a perfective (single completed action) verb meaning 'grew out'."
+          "en": "to grow (hair, beard, nails)",
+          "note": ""
         }
       ],
       "forms": {
@@ -2722,7 +2742,7 @@
           {
             "cells": [
               "1st",
-              "отрасчу",
+              "отращу",
               "отрастим"
             ]
           },
@@ -2763,22 +2783,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "отрасти",
+                "отрастите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Лучше бы здесь отрастил.",
-          "trans": "You would have done better to grow it here."
+          "trans": "You'd have done better to grow it here."
         },
         {
-          "text": "Надо всё сделать и отрастить вовремя.",
-          "trans": "We need to do everything and grew out on time."
+          "text": "Он отрастил бороду.",
+          "trans": "He grew a beard."
         }
       ],
       "related": [
         {
-          "word": "не отрастить",
-          "gloss": "not to grew out (negated infinitive)"
+          "word": "отращивать",
+          "gloss": "to grow (impf)"
+        },
+        {
+          "word": "расти",
+          "gloss": "to grow"
+        },
+        {
+          "word": "борода",
+          "gloss": "beard"
         }
       ]
     },
@@ -2946,10 +2991,10 @@
           {
             "cells": [
               "accusative",
-              "похожий/похожего",
+              "похожий / похожего",
               "похожую",
               "похожее",
-              "похожие/похожих"
+              "похожие / похожих"
             ]
           },
           {
@@ -2972,29 +3017,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "похож",
-                "похожа",
-                "похоже",
-                "похожи"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "На дворников похожи.",
@@ -3117,7 +3140,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3256,11 +3279,11 @@
       "meanings": [
         {
           "en": "glory, fame",
-          "note": "In 'слава богу'. Common feminine noun meaning 'glory, fame' in everyday Russian."
+          "note": "In 'слава богу'."
         },
         {
           "en": "thank God",
-          "note": "In 'слава богу'. Common feminine noun meaning 'glory, fame' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3275,42 +3298,42 @@
             "cells": [
               "nominative",
               "слава",
-              "—"
+              "славы"
             ]
           },
           {
             "cells": [
               "genitive",
               "славы",
-              "—"
+              "слав"
             ]
           },
           {
             "cells": [
               "dative",
               "славе",
-              "—"
+              "славам"
             ]
           },
           {
             "cells": [
               "accusative",
               "славу",
-              "—"
+              "славы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "славой",
-              "—"
+              "славами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "славе",
-              "—"
+              "славах"
             ]
           }
         ]
@@ -3333,7 +3356,11 @@
       "related": [
         {
           "word": "славный",
-          "gloss": "related to glory (adj.)"
+          "gloss": "glorious; nice"
+        },
+        {
+          "word": "слава богу",
+          "gloss": "thank God"
         }
       ]
     },
@@ -3490,7 +3517,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3652,7 +3679,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3757,7 +3784,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -3809,6 +3836,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

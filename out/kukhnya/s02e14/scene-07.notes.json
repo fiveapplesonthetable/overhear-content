@@ -212,8 +212,8 @@
           "t": "мелкая.",
           "lemma": "мелкий",
           "pos": "adj",
-          "stress": "мелка́я",
-          "gloss": "small, fine, shallow, petty",
+          "stress": "ме́лкая",
+          "gloss": "small",
           "gram": "nominative feminine singular"
         }
       ]
@@ -363,10 +363,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -602,8 +602,8 @@
           "t": "мелкая.",
           "lemma": "мелкий",
           "pos": "adj",
-          "stress": "мелка́я",
-          "gloss": "small, fine, shallow, petty",
+          "stress": "ме́лкая",
+          "gloss": "small",
           "gram": "nominative feminine singular"
         }
       ]
@@ -753,10 +753,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -992,8 +992,8 @@
           "t": "мелкая.",
           "lemma": "мелкий",
           "pos": "adj",
-          "stress": "мелка́я",
-          "gloss": "small, fine, shallow, petty",
+          "stress": "ме́лкая",
+          "gloss": "small",
           "gram": "nominative feminine singular"
         }
       ]
@@ -1143,10 +1143,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -1189,7 +1189,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1247,11 +1247,11 @@
       "meanings": [
         {
           "en": "uh-huh, yeah",
-          "note": "Casual yes. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Casual yes."
         },
         {
           "en": "yeah, right",
-          "note": "Said ironically. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Said ironically."
         }
       ],
       "forms": null,
@@ -1486,7 +1486,7 @@
       "meanings": [
         {
           "en": "to stand up, to get up (out of bed)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to stand up, to get up', paired with 'вставать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1585,84 +1585,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -1757,7 +1679,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1793,11 +1715,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -1888,15 +1814,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -1910,11 +1836,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2063,11 +1989,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2194,7 +2120,7 @@
         },
         {
           "en": "shallow (of water/dishes)",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('small, fine, shallow, petty')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2237,10 +2163,10 @@
           {
             "cells": [
               "accusative",
-              "мелкий",
+              "мелкий / мелкого",
               "мелкую",
               "мелкое",
-              "мелкие"
+              "мелкие / мелких"
             ]
           },
           {
@@ -2291,10 +2217,11 @@
       "pos": "noun",
       "gloss": "mouse",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "mouse, small rodent",
-          "note": "Declinable feminine noun meaning 'mouse', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2366,12 +2293,16 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "мышка",
+          "gloss": "little mouse"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "мышеловка",
+          "gloss": "mousetrap"
+        },
+        {
+          "word": "крыса",
+          "gloss": "rat"
         }
       ]
     },
@@ -2385,7 +2316,7 @@
       "meanings": [
         {
           "en": "to rest, relax, be on holiday",
-          "note": "Intransitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to rest, relax', paired with 'отдохнуть'."
+          "note": "Intransitive."
         }
       ],
       "forms": {
@@ -2526,7 +2457,7 @@
       "meanings": [
         {
           "en": "bad",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('bad')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2602,8 +2533,8 @@
           "trans": "Bad weather."
         },
         {
-          "text": "Это не плохая работа.",
-          "trans": "It's not a bad job."
+          "text": "Тебе же предложили работу. Что, плохая работа?",
+          "trans": "You were offered a job. What, is it a bad job?"
         },
         {
           "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
@@ -2732,11 +2663,11 @@
       "meanings": [
         {
           "en": "connection (phone, radio)",
-          "note": "'выйти на связь' = to get in touch. Common feminine noun meaning 'connection, link' in everyday Russian."
+          "note": "'выйти на связь' = to get in touch."
         },
         {
           "en": "link, contacts",
-          "note": "Common feminine noun meaning 'connection, link' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2827,7 +2758,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -2918,15 +2849,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -2940,7 +2871,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -2948,7 +2879,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -3059,7 +2990,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3183,16 +3114,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -3211,12 +3138,12 @@
       "animacy": "inan",
       "meanings": [
         {
-          "en": "uniform, clothing",
-          "note": "Common feminine noun meaning 'uniform, form, shape' in everyday Russian."
+          "en": "uniform, work clothes",
+          "note": ""
         },
         {
           "en": "shape, form",
-          "note": "Secondary conversational sense ('shape, form') used in spoken Russian dialogue."
+          "note": "в форме = in good shape; не в форме = out of shape, off one's game"
         }
       ],
       "forms": {
@@ -3305,7 +3232,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

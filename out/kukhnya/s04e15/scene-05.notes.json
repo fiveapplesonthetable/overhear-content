@@ -9,10 +9,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "ну",
@@ -34,9 +34,9 @@
           "t": "расстраивайтесь",
           "lemma": "расстраиваться",
           "pos": "verb",
-          "stress": "расстраива́йтесь",
-          "gloss": "to get upset, to worry",
-          "gram": "conjugated verb"
+          "stress": "расстра́ивайтесь",
+          "gloss": "(don't) get upset",
+          "gram": "2nd person plural imperative, imperfective"
         },
         {
           "t": "вы",
@@ -235,10 +235,10 @@
         {
           "t": "старше",
           "lemma": "старше",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "ста́рше",
-          "gloss": "much",
-          "gram": "prepositional / dative singular"
+          "gloss": "older",
+          "gram": "comparative"
         },
         {
           "t": "её!",
@@ -259,7 +259,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -290,24 +290,24 @@
           "t": "младшие",
           "lemma": "младший",
           "pos": "adj",
-          "stress": "младши́е",
-          "gloss": "daughter",
-          "gram": "nominative / accusative plural"
+          "stress": "мла́дшие",
+          "gloss": "younger",
+          "gram": "accusative plural (в младшие дочери годится)"
         },
         {
           "t": "дочери",
           "lemma": "дочь",
           "pos": "noun",
           "stress": "до́чери",
-          "gloss": "of (my) daughter",
-          "gram": "genitive singular, feminine"
+          "gloss": "daughter",
+          "gram": "genitive/dative singular, feminine"
         },
         {
           "t": "годится!",
           "lemma": "годиться",
           "pos": "verb",
           "stress": "годи́тся",
-          "gloss": "suits, works",
+          "gloss": "will do, is suitable",
           "gram": "3rd person singular present, imperfective"
         }
       ]
@@ -354,7 +354,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "намного",
@@ -370,7 +370,7 @@
           "pos": "adv",
           "stress": "про́ще",
           "gloss": "simpler, easier",
-          "gram": "prepositional / dative singular"
+          "gram": "comparative of простой/просто"
         }
       ]
     },
@@ -388,11 +388,11 @@
         },
         {
           "t": "нынешней",
-          "lemma": "нынешня",
-          "pos": "noun",
-          "stress": "ныне́шней",
-          "gloss": "youth",
-          "gram": "genitive plural"
+          "lemma": "нынешний",
+          "pos": "adj",
+          "stress": "ны́нешней",
+          "gloss": "present-day, today's",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "молодёжи",
@@ -400,7 +400,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "youth, young people",
-          "gram": "nominative / accusative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "сейчас",
@@ -485,16 +485,16 @@
           "lemma": "зуб",
           "pos": "noun",
           "stress": "зу́бы",
-          "gloss": "tooth",
-          "gram": "nominative / accusative"
+          "gloss": "teeth",
+          "gram": "nominative / accusative plural"
         },
         {
           "t": "почистить!",
           "lemma": "почистить",
           "pos": "verb",
           "stress": "почи́стить",
-          "gloss": "to potatoes",
-          "gram": "infinitive"
+          "gloss": "to peel",
+          "gram": "infinitive, perfective"
         }
       ]
     },
@@ -520,11 +520,11 @@
         },
         {
           "t": "придаёт",
-          "lemma": "придаёт",
-          "pos": "noun",
+          "lemma": "придавать",
+          "pos": "verb",
           "stress": null,
-          "gloss": "great",
-          "gram": "nominative / accusative"
+          "gloss": "attaches (importance)",
+          "gram": "3rd person singular present, imperfective"
         },
         {
           "t": "этому",
@@ -532,7 +532,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "большого",
@@ -592,9 +592,9 @@
           "t": "знаток",
           "lemma": "знаток",
           "pos": "noun",
-          "stress": "зна́ток",
-          "gloss": "life",
-          "gram": "nominative / accusative"
+          "stress": "знато́к",
+          "gloss": "expert",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "современной",
@@ -602,7 +602,7 @@
           "pos": "adj",
           "stress": "совреме́нной",
           "gloss": "modern, contemporary",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "жизни!",
@@ -655,8 +655,8 @@
           "lemma": "ерунда",
           "pos": "noun",
           "stress": "ерунды́",
-          "gloss": "nonsense, trifle, nothing",
-          "gram": "nominative / accusative"
+          "gloss": "nonsense, trifle",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "Лёва!",
@@ -723,10 +723,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -737,10 +737,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "ну",
@@ -762,9 +762,9 @@
           "t": "расстраивайтесь",
           "lemma": "расстраиваться",
           "pos": "verb",
-          "stress": "расстраива́йтесь",
-          "gloss": "to get upset, to worry",
-          "gram": "conjugated verb"
+          "stress": "расстра́ивайтесь",
+          "gloss": "(don't) get upset",
+          "gram": "2nd person plural imperative, imperfective"
         },
         {
           "t": "вы",
@@ -963,10 +963,10 @@
         {
           "t": "старше",
           "lemma": "старше",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "ста́рше",
-          "gloss": "much",
-          "gram": "prepositional / dative singular"
+          "gloss": "older",
+          "gram": "comparative"
         },
         {
           "t": "её!",
@@ -987,7 +987,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1018,24 +1018,24 @@
           "t": "младшие",
           "lemma": "младший",
           "pos": "adj",
-          "stress": "младши́е",
-          "gloss": "daughter",
-          "gram": "nominative / accusative plural"
+          "stress": "мла́дшие",
+          "gloss": "younger",
+          "gram": "accusative plural (в младшие дочери годится)"
         },
         {
           "t": "дочери",
           "lemma": "дочь",
           "pos": "noun",
           "stress": "до́чери",
-          "gloss": "of (my) daughter",
-          "gram": "genitive singular, feminine"
+          "gloss": "daughter",
+          "gram": "genitive/dative singular, feminine"
         },
         {
           "t": "годится!",
           "lemma": "годиться",
           "pos": "verb",
           "stress": "годи́тся",
-          "gloss": "suits, works",
+          "gloss": "will do, is suitable",
           "gram": "3rd person singular present, imperfective"
         }
       ]
@@ -1082,7 +1082,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "намного",
@@ -1098,7 +1098,7 @@
           "pos": "adv",
           "stress": "про́ще",
           "gloss": "simpler, easier",
-          "gram": "prepositional / dative singular"
+          "gram": "comparative of простой/просто"
         }
       ]
     },
@@ -1116,11 +1116,11 @@
         },
         {
           "t": "нынешней",
-          "lemma": "нынешня",
-          "pos": "noun",
-          "stress": "ныне́шней",
-          "gloss": "youth",
-          "gram": "genitive plural"
+          "lemma": "нынешний",
+          "pos": "adj",
+          "stress": "ны́нешней",
+          "gloss": "present-day, today's",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "молодёжи",
@@ -1128,7 +1128,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "youth, young people",
-          "gram": "nominative / accusative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "сейчас",
@@ -1213,16 +1213,16 @@
           "lemma": "зуб",
           "pos": "noun",
           "stress": "зу́бы",
-          "gloss": "tooth",
-          "gram": "nominative / accusative"
+          "gloss": "teeth",
+          "gram": "nominative / accusative plural"
         },
         {
           "t": "почистить!",
           "lemma": "почистить",
           "pos": "verb",
           "stress": "почи́стить",
-          "gloss": "to potatoes",
-          "gram": "infinitive"
+          "gloss": "to peel",
+          "gram": "infinitive, perfective"
         }
       ]
     },
@@ -1248,11 +1248,11 @@
         },
         {
           "t": "придаёт",
-          "lemma": "придаёт",
-          "pos": "noun",
+          "lemma": "придавать",
+          "pos": "verb",
           "stress": null,
-          "gloss": "great",
-          "gram": "nominative / accusative"
+          "gloss": "attaches (importance)",
+          "gram": "3rd person singular present, imperfective"
         },
         {
           "t": "этому",
@@ -1260,7 +1260,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "большого",
@@ -1320,9 +1320,9 @@
           "t": "знаток",
           "lemma": "знаток",
           "pos": "noun",
-          "stress": "зна́ток",
-          "gloss": "life",
-          "gram": "nominative / accusative"
+          "stress": "знато́к",
+          "gloss": "expert",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "современной",
@@ -1330,7 +1330,7 @@
           "pos": "adj",
           "stress": "совреме́нной",
           "gloss": "modern, contemporary",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "жизни!",
@@ -1383,8 +1383,8 @@
           "lemma": "ерунда",
           "pos": "noun",
           "stress": "ерунды́",
-          "gloss": "nonsense, trifle, nothing",
-          "gram": "nominative / accusative"
+          "gloss": "nonsense, trifle",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "Лёва!",
@@ -1451,10 +1451,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -1465,10 +1465,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "ну",
@@ -1490,9 +1490,9 @@
           "t": "расстраивайтесь",
           "lemma": "расстраиваться",
           "pos": "verb",
-          "stress": "расстраива́йтесь",
-          "gloss": "to get upset, to worry",
-          "gram": "conjugated verb"
+          "stress": "расстра́ивайтесь",
+          "gloss": "(don't) get upset",
+          "gram": "2nd person plural imperative, imperfective"
         },
         {
           "t": "вы",
@@ -1691,10 +1691,10 @@
         {
           "t": "старше",
           "lemma": "старше",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "ста́рше",
-          "gloss": "much",
-          "gram": "prepositional / dative singular"
+          "gloss": "older",
+          "gram": "comparative"
         },
         {
           "t": "её!",
@@ -1715,7 +1715,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1746,24 +1746,24 @@
           "t": "младшие",
           "lemma": "младший",
           "pos": "adj",
-          "stress": "младши́е",
-          "gloss": "daughter",
-          "gram": "nominative / accusative plural"
+          "stress": "мла́дшие",
+          "gloss": "younger",
+          "gram": "accusative plural (в младшие дочери годится)"
         },
         {
           "t": "дочери",
           "lemma": "дочь",
           "pos": "noun",
           "stress": "до́чери",
-          "gloss": "of (my) daughter",
-          "gram": "genitive singular, feminine"
+          "gloss": "daughter",
+          "gram": "genitive/dative singular, feminine"
         },
         {
           "t": "годится!",
           "lemma": "годиться",
           "pos": "verb",
           "stress": "годи́тся",
-          "gloss": "suits, works",
+          "gloss": "will do, is suitable",
           "gram": "3rd person singular present, imperfective"
         }
       ]
@@ -1810,7 +1810,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "намного",
@@ -1826,7 +1826,7 @@
           "pos": "adv",
           "stress": "про́ще",
           "gloss": "simpler, easier",
-          "gram": "prepositional / dative singular"
+          "gram": "comparative of простой/просто"
         }
       ]
     },
@@ -1844,11 +1844,11 @@
         },
         {
           "t": "нынешней",
-          "lemma": "нынешня",
-          "pos": "noun",
-          "stress": "ныне́шней",
-          "gloss": "youth",
-          "gram": "genitive plural"
+          "lemma": "нынешний",
+          "pos": "adj",
+          "stress": "ны́нешней",
+          "gloss": "present-day, today's",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "молодёжи",
@@ -1856,7 +1856,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "youth, young people",
-          "gram": "nominative / accusative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "сейчас",
@@ -1941,16 +1941,16 @@
           "lemma": "зуб",
           "pos": "noun",
           "stress": "зу́бы",
-          "gloss": "tooth",
-          "gram": "nominative / accusative"
+          "gloss": "teeth",
+          "gram": "nominative / accusative plural"
         },
         {
           "t": "почистить!",
           "lemma": "почистить",
           "pos": "verb",
           "stress": "почи́стить",
-          "gloss": "to potatoes",
-          "gram": "infinitive"
+          "gloss": "to peel",
+          "gram": "infinitive, perfective"
         }
       ]
     },
@@ -1976,11 +1976,11 @@
         },
         {
           "t": "придаёт",
-          "lemma": "придаёт",
-          "pos": "noun",
+          "lemma": "придавать",
+          "pos": "verb",
           "stress": null,
-          "gloss": "great",
-          "gram": "nominative / accusative"
+          "gloss": "attaches (importance)",
+          "gram": "3rd person singular present, imperfective"
         },
         {
           "t": "этому",
@@ -1988,7 +1988,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "большого",
@@ -2048,9 +2048,9 @@
           "t": "знаток",
           "lemma": "знаток",
           "pos": "noun",
-          "stress": "зна́ток",
-          "gloss": "life",
-          "gram": "nominative / accusative"
+          "stress": "знато́к",
+          "gloss": "expert",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "современной",
@@ -2058,7 +2058,7 @@
           "pos": "adj",
           "stress": "совреме́нной",
           "gloss": "modern, contemporary",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "жизни!",
@@ -2111,8 +2111,8 @@
           "lemma": "ерунда",
           "pos": "noun",
           "stress": "ерунды́",
-          "gloss": "nonsense, trifle, nothing",
-          "gram": "nominative / accusative"
+          "gloss": "nonsense, trifle",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "Лёва!",
@@ -2179,10 +2179,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -2218,7 +2218,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2476,7 +2476,7 @@
       "meanings": [
         {
           "en": "look, glance",
-          "note": "Common masculine noun meaning 'look, glance' in everyday Russian."
+          "note": ""
         },
         {
           "en": "view, opinion",
@@ -2560,7 +2560,7 @@
       "meanings": [
         {
           "en": "adult, grown-up",
-          "note": "Взрослый человек = an adult. Agrees in gender, number, and case with the noun it modifies ('adult, grown-up; (as a noun) a grown-up')."
+          "note": "Взрослый человек = an adult."
         },
         {
           "en": "a grown-up",
@@ -2607,10 +2607,10 @@
           {
             "cells": [
               "accusative",
-              "взрослый/взрослого",
+              "взрослый / взрослого",
               "взрослую",
               "взрослое",
-              "взрослые/взрослых"
+              "взрослые / взрослых"
             ]
           },
           {
@@ -2658,7 +2658,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2914,7 +2914,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2941,7 +2941,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2968,13 +2968,13 @@
       "lemma": "годиться",
       "stress": "годи́ться",
       "pos": "verb",
-      "gloss": "suits, works",
+      "gloss": "to be suitable, to do",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "suits, works",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'suits, works'."
+          "en": "to be suitable, to do",
+          "note": "никуда не годится = it's no good at all; годится! = that'll do!"
         }
       ],
       "forms": {
@@ -3029,22 +3029,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "годись",
+                "годитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и годиться вовремя.",
-          "trans": "We need to do everything and suits on time."
+          "text": "Отлично, это мне вполне годится.",
+          "trans": "Great, that suits me just fine."
         },
         {
-          "text": "На нашей кухне все умеют годиться.",
-          "trans": "In our kitchen everyone knows how to suits."
+          "text": "Стоп. Это никуда не годится.",
+          "trans": "Stop. This is no good at all."
         }
       ],
       "related": [
         {
-          "word": "не годиться",
-          "gloss": "not to suits (negated infinitive)"
+          "word": "годный",
+          "gloss": "fit, usable"
+        },
+        {
+          "word": "подходить",
+          "gloss": "to suit"
         }
       ]
     },
@@ -3057,11 +3078,11 @@
       "meanings": [
         {
           "en": "young woman, girl",
-          "note": "Also 'girlfriend' (моя девушка). Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Also 'girlfriend' (моя девушка)."
         },
         {
           "en": "girlfriend",
-          "note": "Своя девушка. Common feminine noun meaning 'young woman; girlfriend' in everyday Russian."
+          "note": "Своя девушка."
         }
       ],
       "forms": {
@@ -3133,100 +3154,6 @@
       ],
       "related": []
     },
-    "дело": {
-      "lemma": "дело",
-      "stress": "де́ло",
-      "pos": "noun",
-      "gloss": "matter; thing to do",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "thing to do, task",
-          "note": "Много дел = a lot to do. Common neuter noun meaning 'matter; thing to do' in everyday Russian."
-        },
-        {
-          "en": "matter, business",
-          "note": "Common neuter noun meaning 'matter; thing to do' in everyday Russian."
-        },
-        {
-          "en": "case (in court)",
-          "note": "Common neuter noun meaning 'matter; thing to do' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дело",
-              "дела"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дела",
-              "дел"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "делу",
-              "делам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "дело",
-              "дела"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "делом",
-              "делами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "деле",
-              "делах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "У меня много дел.",
-          "trans": "I have a lot to do."
-        },
-        {
-          "text": "Как дела?",
-          "trans": "How are things?"
-        },
-        {
-          "text": "Мне некогда об этом думать. Слишком много дел.",
-          "trans": "I have no time to think about that. There's too much to do."
-        }
-      ],
-      "related": [
-        {
-          "word": "деловой",
-          "gloss": "business"
-        }
-      ]
-    },
     "для": {
       "lemma": "для",
       "stress": "для",
@@ -3236,7 +3163,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3274,11 +3201,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3501,11 +3428,11 @@
       "meanings": [
         {
           "en": "trifle, nothing to worry about",
-          "note": "Common feminine noun meaning 'nonsense, trifle, nothing' in everyday Russian."
+          "note": ""
         },
         {
           "en": "nonsense, rubbish",
-          "note": "Common feminine noun meaning 'nonsense, trifle, nothing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3624,7 +3551,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3736,14 +3663,15 @@
     },
     "знаток": {
       "lemma": "знаток",
-      "stress": "зна́ток",
+      "stress": "знато́к",
       "pos": "noun",
-      "gloss": "life",
+      "gloss": "expert, connoisseur",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "life",
-          "note": "Declinable masculine noun meaning 'life', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "expert, connoisseur",
+          "note": "знаток чего (+ gen.)"
         }
       ],
       "forms": {
@@ -3778,8 +3706,8 @@
           {
             "cells": [
               "accusative",
-              "знаток",
-              "знатоки"
+              "знатока",
+              "знатоков"
             ]
           },
           {
@@ -3802,7 +3730,7 @@
       "examples": [
         {
           "text": "Тоже мне, нашёлся большой знаток современной жизни!",
-          "trans": "Some great expert on modern life you turned out to be!"
+          "trans": "Look who's turned out to be a great expert on modern life!"
         },
         {
           "text": "Мой дедушка настоящий знаток старых фильмов.",
@@ -3817,10 +3745,11 @@
       "pos": "noun",
       "gloss": "meaning, significance",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "meaning, significance",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meaning, significance' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3879,29 +3808,29 @@
       "examples": [
         {
           "text": "Это не имеет значения.",
-          "trans": "That does not matter."
+          "trans": "That doesn't matter."
         },
         {
           "text": "Для меня это не имеет значения.",
-          "trans": "For me that does not matter."
+          "trans": "It doesn't matter to me."
         },
         {
           "text": "Каждая деталь имеет важное значение.",
-          "trans": "Every detail has important meaning."
+          "trans": "Every detail matters a lot."
         }
       ],
       "related": [
         {
-          "word": "назначить",
-          "gloss": "to set"
+          "word": "значить",
+          "gloss": "to mean"
+        },
+        {
+          "word": "иметь значение",
+          "gloss": "to matter"
         },
         {
           "word": "значит",
-          "gloss": "so"
-        },
-        {
-          "word": "значить",
-          "gloss": "to mean"
+          "gloss": "so, that means"
         }
       ]
     },
@@ -3911,10 +3840,11 @@
       "pos": "noun",
       "gloss": "tooth",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "tooth",
-          "note": "Anatomy. Common masculine noun meaning 'tooth' in everyday Russian."
+          "note": "Anatomy."
         }
       ],
       "forms": {
@@ -4142,11 +4072,15 @@
       "lemma": "младший",
       "stress": "мла́дший",
       "pos": "adj",
-      "gloss": "daughter",
+      "gloss": "younger, youngest; junior",
       "meanings": [
         {
-          "en": "daughter",
-          "note": "Descriptive Russian adjective meaning 'daughter', agreeing in gender, number, and case with the noun it modifies."
+          "en": "younger, youngest",
+          "note": ""
+        },
+        {
+          "en": "junior (in rank)",
+          "note": "младший партнёр = junior partner"
         }
       ],
       "forms": {
@@ -4189,10 +4123,10 @@
           {
             "cells": [
               "accusative",
-              "младший",
+              "младший / младшего",
               "младшую",
               "младшее",
-              "младшие"
+              "младшие / младших"
             ]
           },
           {
@@ -4226,7 +4160,16 @@
           "trans": "My youngest daughter would eat more than that."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "старший",
+          "gloss": "older, senior"
+        },
+        {
+          "word": "молодой",
+          "gloss": "young"
+        }
+      ]
     },
     "молодёжь": {
       "lemma": "молодёжь",
@@ -4237,7 +4180,7 @@
       "meanings": [
         {
           "en": "youth, young people",
-          "note": "Collective singular noun. Common feminine noun meaning 'youth, young people' in everyday Russian."
+          "note": "Collective singular noun."
         }
       ],
       "forms": {
@@ -4252,42 +4195,42 @@
             "cells": [
               "nominative",
               "молодёжь",
-              "—"
+              "молодёжи"
             ]
           },
           {
             "cells": [
               "genitive",
               "молодёжи",
-              "—"
+              "молодёжей"
             ]
           },
           {
             "cells": [
               "dative",
               "молодёжи",
-              "—"
+              "молодёжам"
             ]
           },
           {
             "cells": [
               "accusative",
               "молодёжь",
-              "—"
+              "молодёжи"
             ]
           },
           {
             "cells": [
               "instrumental",
               "молодёжью",
-              "—"
+              "молодёжами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "молодёжи",
-              "—"
+              "молодёжах"
             ]
           }
         ]
@@ -4370,7 +4313,7 @@
       "meanings": [
         {
           "en": "to be found, to turn up",
-          "note": "When something lost is found again. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to be found, to turn up', paired with 'находиться'."
+          "note": "When something lost is found again."
         }
       ],
       "forms": {
@@ -4447,15 +4390,15 @@
       "examples": [
         {
           "text": "Скажите спасибо, что собака нашлась.",
-          "trans": "Say thank you that the dog was found."
+          "trans": "Be grateful the dog turned up."
         },
         {
           "text": "Ключи нашлись!",
           "trans": "The keys turned up!"
         },
         {
-          "text": "Опоздал ты, Аркаша. Другие люди нашлись.",
-          "trans": "You're too late, Arkasha. Other people came along."
+          "text": "У нас для всех работа найдётся.",
+          "trans": "We'll find work for everyone."
         }
       ],
       "related": [
@@ -4553,7 +4496,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4595,7 +4538,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4709,66 +4652,80 @@
         }
       ]
     },
-    "нынешня": {
-      "lemma": "нынешня",
-      "stress": "ныне́шня",
-      "pos": "noun",
-      "gloss": "youth",
+    "нынешний": {
+      "lemma": "нынешний",
+      "stress": "ны́нешний",
+      "pos": "adj",
+      "gloss": "present-day, current",
       "gender": "f",
       "meanings": [
         {
-          "en": "youth",
-          "note": "Declinable feminine noun meaning 'youth', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "present-day, current, today's",
+          "note": "нынешняя молодёжь = young people today"
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "sg",
+          "m",
+          "f",
+          "n",
           "pl"
         ],
         "rows": [
           {
             "cells": [
               "nominative",
-              "нынешня",
-              "нынешни"
+              "нынешний",
+              "нынешняя",
+              "нынешнее",
+              "нынешние"
             ]
           },
           {
             "cells": [
               "genitive",
-              "нынешни",
-              "нынешнь"
+              "нынешнего",
+              "нынешней",
+              "нынешнего",
+              "нынешних"
             ]
           },
           {
             "cells": [
               "dative",
-              "нынешне",
-              "нынешням"
+              "нынешнему",
+              "нынешней",
+              "нынешнему",
+              "нынешним"
             ]
           },
           {
             "cells": [
               "accusative",
-              "нынешню",
-              "нынешни"
+              "нынешний / нынешнего",
+              "нынешнюю",
+              "нынешнее",
+              "нынешние / нынешних"
             ]
           },
           {
             "cells": [
               "instrumental",
+              "нынешним",
               "нынешней",
-              "нынешнями"
+              "нынешним",
+              "нынешними"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "нынешне",
-              "нынешнях"
+              "нынешнем",
+              "нынешней",
+              "нынешнем",
+              "нынешних"
             ]
           }
         ]
@@ -4777,17 +4734,25 @@
       "examples": [
         {
           "text": "У нынешней молодёжи сейчас совсем другие взгляды.",
-          "trans": "Today's youth have completely different views now."
+          "trans": "Young people today have completely different views."
         },
         {
           "text": "Нынешняя погода мне совсем не нравится.",
-          "trans": "I do not like the current weather at all."
+          "trans": "I don't like the current weather at all."
         }
       ],
       "related": [
         {
-          "word": "вместе",
-          "gloss": "together"
+          "word": "нынче",
+          "gloss": "nowadays"
+        },
+        {
+          "word": "современный",
+          "gloss": "modern"
+        },
+        {
+          "word": "прежний",
+          "gloss": "former"
         }
       ]
     },
@@ -5114,7 +5079,7 @@
       "meanings": [
         {
           "en": "to drink",
-          "note": "Пить чай = to drink tea. Used as an imperfective (ongoing/repeated action) verb meaning 'to drink', paired with 'выпить'."
+          "note": "Пить чай = to drink tea."
         },
         {
           "en": "to drink (alcohol)",
@@ -5292,22 +5257,26 @@
           "trans": "Now let's go through everything in order."
         },
         {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
+          "text": "Не бойся, всё в порядке!",
+          "trans": "Don't worry, everything's fine!"
         },
         {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
+          "text": "Да, я наведу здесь железный порядок.",
+          "trans": "Yes, I'll establish iron order here."
         }
       ],
       "related": [
         {
-          "word": "рядом",
-          "gloss": "nearby"
+          "word": "в порядке",
+          "gloss": "fine, OK"
         },
         {
-          "word": "порядочность",
-          "gloss": "decency"
+          "word": "порядочный",
+          "gloss": "decent"
+        },
+        {
+          "word": "беспорядок",
+          "gloss": "mess, disorder"
         }
       ]
     },
@@ -5315,13 +5284,13 @@
       "lemma": "почистить",
       "stress": "почи́стить",
       "pos": "verb",
-      "gloss": "will peel, clean",
+      "gloss": "to clean; to peel; to brush (teeth)",
       "aspect": "pf",
-      "pair": null,
+      "pair": "чистить",
       "meanings": [
         {
-          "en": "will peel, clean",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'чистить'). Used as a perfective (single completed action) verb meaning 'will peel, clean'."
+          "en": "to clean; to peel (vegetables); to brush (teeth)",
+          "note": "почистить картошку = to peel potatoes"
         }
       ],
       "forms": {
@@ -5335,7 +5304,7 @@
           {
             "cells": [
               "1st",
-              "почисчу",
+              "почищу",
               "почистим"
             ]
           },
@@ -5376,39 +5345,65 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "почисти",
+                "почистите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и почистить вовремя.",
-          "trans": "We need to do everything and will peel on time."
+          "text": "Герман попросил до вечера почистить два мешка картошки.",
+          "trans": "Herman asked us to peel two sacks of potatoes by evening."
         },
         {
-          "text": "На нашей кухне все умеют почистить.",
-          "trans": "In our kitchen everyone knows how to will peel."
+          "text": "Всю морковку почистили, ещё дудку сделали.",
+          "trans": "They peeled all the carrots and even made a pipe."
         }
       ],
       "related": [
         {
           "word": "чистить",
-          "gloss": "to will peel (base verb)"
+          "gloss": "to clean, to peel"
+        },
+        {
+          "word": "чистый",
+          "gloss": "clean"
         }
       ]
     },
-    "придаёт": {
-      "lemma": "придаёт",
-      "stress": "придаёт",
-      "pos": "noun",
-      "gloss": "great",
-      "gender": "m",
+    "придавать": {
+      "lemma": "придавать",
+      "stress": "придава́ть",
+      "pos": "verb",
+      "gloss": "to attach (importance); to give",
+      "aspect": "impf",
+      "pair": "придать",
       "meanings": [
         {
-          "en": "great",
-          "note": "Declinable masculine noun meaning 'great', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "to attach (importance, significance)",
+          "note": "придавать значение чему-то"
+        },
+        {
+          "en": "to give, to lend (a quality)",
+          "note": ""
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -5417,60 +5412,87 @@
         "rows": [
           {
             "cells": [
-              "nominative",
+              "1st",
+              "придаю",
+              "придаём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "придаёшь",
+              "придаёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
               "придаёт",
-              "придаёты"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "придаёта",
-              "придаётов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "придаёту",
-              "придаётам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "придаёт",
-              "придаёты"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "придаётом",
-              "придаётами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "придаёте",
-              "придаётах"
+              "придают"
             ]
           }
         ]
       },
-      "moreForms": [],
-      "examples": [
+      "moreForms": [
         {
-          "text": "Никто не придаёт этому большого значения.",
-          "trans": "Nobody attaches great importance to this."
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "придавал",
+                "придавала",
+                "придавало",
+                "придавали"
+              ]
+            }
+          ]
         },
         {
-          "text": "Эта лампа придаёт комнате уют.",
-          "trans": "This lamp gives the room a cozy feel."
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "придавай",
+                "придавайте"
+              ]
+            }
+          ]
         }
       ],
-      "related": []
+      "examples": [
+        {
+          "text": "Не надо придавать этому вечеру большого значения.",
+          "trans": "There is no need to attach great importance to this evening."
+        },
+        {
+          "text": "Не стоит придавать этим словам слишком много значения.",
+          "trans": "You should not attach too much importance to these words."
+        }
+      ],
+      "related": [
+        {
+          "word": "придать",
+          "gloss": "to give, to attach (pf)"
+        },
+        {
+          "word": "значение",
+          "gloss": "importance, meaning"
+        }
+      ]
     },
     "просто": {
       "lemma": "просто",
@@ -5513,19 +5535,19 @@
       "meanings": [
         {
           "en": "simpler, easier",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'simpler'."
+          "note": ""
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Кому-то проще потерять все.",
-          "trans": "For some it is easier to lose everything."
+          "text": "Кому-то проще потерять всё.",
+          "trans": "For some it's easier to lose everything."
         },
         {
-          "text": "Когда вырасту, ты будешь просить у меня прощения!",
-          "trans": "When I grow up, you'll be begging me to forgive you!"
+          "text": "Может, проще новый купить?",
+          "trans": "Maybe it's easier to buy a new one?"
         }
       ],
       "related": []
@@ -5538,7 +5560,7 @@
       "meanings": [
         {
           "en": "five",
-          "note": "+ genitive plural: пять рублей. Core Russian num meaning 'five' in everyday speech."
+          "note": "+ genitive plural: пять рублей."
         }
       ],
       "forms": null,
@@ -5578,7 +5600,7 @@
       "meanings": [
         {
           "en": "to get upset, feel distressed",
-          "note": "Не расстраивайся = don't be upset. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'страиваться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to get upset, to worry', paired with 'расстроиться'."
+          "note": "Не расстраивайся = don't be upset. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'страиваться')."
         }
       ],
       "forms": {
@@ -5669,11 +5691,11 @@
       "related": [
         {
           "word": "расстроиться",
-          "gloss": "to get upset"
+          "gloss": "to get upset (pf)"
         },
         {
-          "word": "устраивать",
-          "gloss": "to organize"
+          "word": "переживать",
+          "gloss": "to worry"
         }
       ]
     },
@@ -5723,7 +5745,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -5761,7 +5783,7 @@
       "meanings": [
         {
           "en": "modern, contemporary, up-to-date",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('modern, contemporary')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5804,10 +5826,10 @@
           {
             "cells": [
               "accusative",
-              "современный/современного",
+              "современный / современного",
               "современную",
               "современное",
-              "современные/современных"
+              "современные / современных"
             ]
           },
           {
@@ -5864,7 +5886,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5888,13 +5910,12 @@
     "старше": {
       "lemma": "старше",
       "stress": "ста́рше",
-      "pos": "noun",
-      "gloss": "much",
-      "gender": "n",
+      "pos": "adj",
+      "gloss": "older",
       "meanings": [
         {
-          "en": "much",
-          "note": "Declinable neuter noun meaning 'much', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "older, senior",
+          "note": "Comparative of старый."
         }
       ],
       "forms": {
@@ -5962,8 +5983,12 @@
       ],
       "related": [
         {
-          "word": "вместе",
-          "gloss": "together"
+          "word": "старый",
+          "gloss": "old"
+        },
+        {
+          "word": "младше",
+          "gloss": "younger"
         }
       ]
     },
@@ -5975,11 +6000,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -6022,10 +6047,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -6048,29 +6073,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",
@@ -6146,7 +6149,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -6240,7 +6243,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6347,7 +6350,7 @@
       "meanings": [
         {
           "en": "to calm, to reassure",
-          "note": "Make peaceful or relieve anxiety. Used as a perfective (single completed action) verb meaning 'to calm down, to soothe, to reassure', paired with 'успокаивать'."
+          "note": "Make peaceful or relieve anxiety."
         }
       ],
       "forms": {
@@ -6460,7 +6463,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6512,6 +6515,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

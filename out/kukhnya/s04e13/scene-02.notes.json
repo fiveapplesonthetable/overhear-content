@@ -193,7 +193,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -293,7 +293,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -354,11 +354,11 @@
         },
         {
           "t": "повеселее?",
-          "lemma": "повеселий",
-          "pos": "adj",
+          "lemma": "повеселее",
+          "pos": "adv",
           "stress": "повеселе́е",
-          "gloss": "cheerful",
-          "gram": "nominative / accusative neuter singular"
+          "gloss": "more cheerful",
+          "gram": "comparative with по-"
         }
       ]
     },
@@ -737,7 +737,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -837,7 +837,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -898,11 +898,11 @@
         },
         {
           "t": "повеселее?",
-          "lemma": "повеселий",
-          "pos": "adj",
+          "lemma": "повеселее",
+          "pos": "adv",
           "stress": "повеселе́е",
-          "gloss": "cheerful",
-          "gram": "nominative / accusative neuter singular"
+          "gloss": "more cheerful",
+          "gram": "comparative with по-"
         }
       ]
     },
@@ -1281,7 +1281,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1381,7 +1381,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1442,11 +1442,11 @@
         },
         {
           "t": "повеселее?",
-          "lemma": "повеселий",
-          "pos": "adj",
+          "lemma": "повеселее",
+          "pos": "adv",
           "stress": "повеселе́е",
-          "gloss": "cheerful",
-          "gram": "nominative / accusative neuter singular"
+          "gloss": "more cheerful",
+          "gram": "comparative with по-"
         }
       ]
     },
@@ -1658,11 +1658,11 @@
       "meanings": [
         {
           "en": "poor",
-          "note": "Without money. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('poor')."
+          "note": "Without money."
         },
         {
           "en": "poor",
-          "note": "Pitiful: бедный мальчик = poor boy. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('poor')."
+          "note": "Pitiful: бедный мальчик = poor boy."
         }
       ],
       "forms": {
@@ -1731,29 +1731,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "беден",
-                "бедна",
-                "бедно",
-                "бедны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Они бедные, но честные.",
@@ -1783,7 +1761,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2073,12 +2051,12 @@
       "lemma": "водичка",
       "stress": "води́чка",
       "pos": "noun",
-      "gloss": "some water",
+      "gloss": "water (affectionate)",
       "gender": "f",
       "meanings": [
         {
-          "en": "some water",
-          "note": "Common feminine noun meaning 'some water' in everyday Russian."
+          "en": "water (affectionate diminutive)",
+          "note": "налей водички = pour me a bit of water"
         }
       ],
       "forms": {
@@ -2100,7 +2078,7 @@
             "cells": [
               "genitive",
               "водички",
-              "водичк"
+              "водичек"
             ]
           },
           {
@@ -2137,91 +2115,19 @@
       "examples": [
         {
           "text": "Слушай, налей водички, пить хочется.",
-          "trans": "Listen, pour me some water, I am so thirsty."
+          "trans": "Listen, pour me some water, I'm thirsty."
         },
-        {
-          "text": "На кухне ресторана всегда есть водичка.",
-          "trans": "In the restaurant kitchen there is always some water."
-        }
-      ],
-      "related": []
-    },
-    "водички": {
-      "lemma": "водички",
-      "stress": "води́чки",
-      "pos": "noun",
-      "gloss": "water",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "water",
-          "note": "Declinable masculine noun meaning 'water', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "водички",
-              "водичкиы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "водичкиа",
-              "водичкиов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "водичкиу",
-              "водичкиам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "водички",
-              "водичкиы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "водичкиом",
-              "водичкиами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "водичкие",
-              "водичкиах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
         {
           "text": "Хотите, я принесу вам водички?",
-          "trans": "Do you want me to bring you some water?"
-        },
-        {
-          "text": "Я вот лучше водички.",
-          "trans": "I would rather have some water."
+          "trans": "Would you like me to bring you some water?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "вода",
+          "gloss": "water"
+        }
+      ]
     },
     "вполне": {
       "lemma": "вполне",
@@ -2231,7 +2137,7 @@
       "meanings": [
         {
           "en": "quite, fully, entirely",
-          "note": "Вполне достаточно = quite enough. Core Russian adv meaning 'quite, fully, entirely' in everyday speech."
+          "note": "Вполне достаточно = quite enough."
         }
       ],
       "forms": null,
@@ -2346,7 +2252,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2390,7 +2296,7 @@
         },
         {
           "en": "to hang in there",
-          "note": "Держись! = hang in there!. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hold on; to stick with'."
+          "note": "Держись! = hang in there!."
         }
       ],
       "forms": {
@@ -2497,7 +2403,7 @@
         },
         {
           "en": "it is a pity",
-          "note": "Impersonal predicate. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Impersonal predicate."
         }
       ],
       "forms": null,
@@ -2763,11 +2669,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2797,7 +2703,7 @@
       "meanings": [
         {
           "en": "music",
-          "note": "Art or sound of music. Common feminine noun meaning 'music' in everyday Russian."
+          "note": "Art or sound of music."
         }
       ],
       "forms": {
@@ -3002,7 +2908,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -3125,11 +3031,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3169,7 +3075,7 @@
       "meanings": [
         {
           "en": "report, account",
-          "note": "Declinable masculine noun meaning 'report', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -3251,7 +3157,7 @@
       "meanings": [
         {
           "en": "to cry, to weep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to cry, to weep', paired with 'заплакать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3350,83 +3256,18 @@
         }
       ]
     },
-    "повеселий": {
-      "lemma": "повеселий",
-      "stress": "повесе́лий",
-      "pos": "adj",
-      "gloss": "cheerful",
+    "повеселее": {
+      "lemma": "повеселее",
+      "stress": "повеселе́е",
+      "pos": "adv",
+      "gloss": "a bit more cheerful",
       "meanings": [
         {
-          "en": "cheerful",
-          "note": "Descriptive Russian adjective meaning 'cheerful', agreeing in gender, number, and case with the noun it modifies."
+          "en": "a bit more cheerful, livelier",
+          "note": "по- + comparative of весёлый"
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "повеселий",
-              "повеселяя",
-              "повеселее",
-              "повеселие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "повеселего",
-              "повеселей",
-              "повеселего",
-              "повеселих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "повеселему",
-              "повеселей",
-              "повеселему",
-              "повеселим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "повеселий",
-              "повеселюю",
-              "повеселее",
-              "повеселие"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "повеселим",
-              "повеселей",
-              "повеселим",
-              "повеселими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "повеселем",
-              "повеселей",
-              "повеселем",
-              "повеселих"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -3435,10 +3276,19 @@
         },
         {
           "text": "Хочется чего-нибудь повеселее, давай включим комедию.",
-          "trans": "I want something more cheerful, let us put on a comedy."
+          "trans": "I want something more cheerful, let's put on a comedy."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "весёлый",
+          "gloss": "cheerful, merry"
+        },
+        {
+          "word": "веселее",
+          "gloss": "more cheerful"
+        }
+      ]
     },
     "пожалуйста": {
       "lemma": "пожалуйста",
@@ -3448,7 +3298,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3525,7 +3375,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -3727,7 +3577,7 @@
         },
         {
           "text": "Потом пройдёт.",
-          "trans": "Then it passes."
+          "trans": "It'll pass later."
         }
       ],
       "related": [
@@ -3867,7 +3717,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -3922,6 +3772,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3948,67 +3815,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4211,7 +4026,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4263,6 +4078,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -4331,7 +4163,7 @@
           {
             "cells": [
               "3rd",
-              "хочется",
+              "—",
               "—"
             ]
           }
@@ -4397,7 +4229,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4471,77 +4303,33 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },
@@ -4607,6 +4395,23 @@
                 "чувствовала",
                 "чувствовало",
                 "чувствовали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "чувствуй",
+                "чувствуйте"
               ]
             }
           ]

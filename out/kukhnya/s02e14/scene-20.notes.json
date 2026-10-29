@@ -128,7 +128,7 @@
           "pos": "noun",
           "stress": "лосо́сь",
           "gloss": "salmon",
-          "gram": "nominative / accusative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "горит.",
@@ -194,9 +194,9 @@
           "t": "скрываете.",
           "lemma": "скрывать",
           "pos": "verb",
-          "stress": "скрывае́те",
-          "gloss": "to hide; to conceal",
-          "gram": "2nd person plural / imperative"
+          "stress": "скрыва́ете",
+          "gloss": "hide, conceal",
+          "gram": "2nd person plural present"
         }
       ]
     },
@@ -622,7 +622,7 @@
           "pos": "noun",
           "stress": "лосо́сь",
           "gloss": "salmon",
-          "gram": "nominative / accusative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "горит.",
@@ -688,9 +688,9 @@
           "t": "скрываете.",
           "lemma": "скрывать",
           "pos": "verb",
-          "stress": "скрывае́те",
-          "gloss": "to hide; to conceal",
-          "gram": "2nd person plural / imperative"
+          "stress": "скрыва́ете",
+          "gloss": "hide, conceal",
+          "gram": "2nd person plural present"
         }
       ]
     },
@@ -1116,7 +1116,7 @@
           "pos": "noun",
           "stress": "лосо́сь",
           "gloss": "salmon",
-          "gram": "nominative / accusative"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "горит.",
@@ -1182,9 +1182,9 @@
           "t": "скрываете.",
           "lemma": "скрывать",
           "pos": "verb",
-          "stress": "скрывае́те",
-          "gloss": "to hide; to conceal",
-          "gram": "2nd person plural / imperative"
+          "stress": "скрыва́ете",
+          "gloss": "hide, conceal",
+          "gram": "2nd person plural present"
         }
       ]
     },
@@ -1602,11 +1602,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1658,6 +1658,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -1738,11 +1755,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1864,7 +1881,7 @@
       "meanings": [
         {
           "en": "to burn, to be on fire, to glow",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to burn, to shine', paired with 'сгореть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1962,8 +1979,12 @@
           "gloss": "to burn out"
         },
         {
-          "word": "горе",
-          "gloss": "grief"
+          "word": "пожар",
+          "gloss": "fire"
+        },
+        {
+          "word": "горячий",
+          "gloss": "hot"
         }
       ]
     },
@@ -2147,12 +2168,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2207,6 +2226,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2226,17 +2262,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "именно": {
       "lemma": "именно",
@@ -2318,7 +2355,7 @@
       "meanings": [
         {
           "en": "potatoes, potato (colloquial)",
-          "note": "Common feminine noun meaning 'potatoes' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2399,7 +2436,7 @@
       "meanings": [
         {
           "en": "salmon",
-          "note": "Common masculine noun meaning 'salmon' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2434,8 +2471,8 @@
           {
             "cells": [
               "accusative",
-              "лосось",
-              "лососи"
+              "лосося",
+              "лососей"
             ]
           },
           {
@@ -2461,18 +2498,18 @@
           "trans": "And my salmon is burning!"
         },
         {
-          "text": "На нашей кухне уже есть новый лосось.",
-          "trans": "In our kitchen there is already a new salmon."
+          "text": "Ну ладно, сегодня победил лосось.",
+          "trans": "Oh well, today the salmon won."
         }
       ],
       "related": [
         {
-          "word": "без лосос",
-          "gloss": "without salmon"
+          "word": "сёмга",
+          "gloss": "salmon (Atlantic)"
         },
         {
-          "word": "наш лосось",
-          "gloss": "our salmon"
+          "word": "рыба",
+          "gloss": "fish"
         }
       ]
     },
@@ -2524,7 +2561,7 @@
       "meanings": [
         {
           "en": "to think it over, to give it a thought",
-          "note": "Once, for a while. Used as a perfective (single completed action) verb meaning 'to think (it over)', paired with 'думать'."
+          "note": "Once, for a while."
         }
       ],
       "forms": {
@@ -2725,11 +2762,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -2919,11 +2956,11 @@
       "meanings": [
         {
           "en": "to hide, conceal",
-          "note": "To keep from sight or knowledge. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide; to conceal', paired with 'скрыть'."
+          "note": "To keep from sight or knowledge."
         },
         {
           "en": "to withhold",
-          "note": "To withhold truth. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide; to conceal', paired with 'скрыть'."
+          "note": "To withhold truth."
         }
       ],
       "forms": {
@@ -3038,7 +3075,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3069,7 +3106,7 @@
       "meanings": [
         {
           "en": "to miss someone (+ по + dat.), to start missing",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to miss, to grow lonely for', paired with 'скучать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3121,6 +3158,23 @@
                 "соскучилась",
                 "соскучилось",
                 "соскучились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "соскучься",
+                "соскучьтесь"
               ]
             }
           ]
@@ -3278,67 +3332,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -3351,7 +3361,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3380,7 +3390,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -3487,7 +3497,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -3658,7 +3668,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3763,7 +3773,7 @@
       "meanings": [
         {
           "en": "to peel, clean",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to peel', forming an aspectual pair with 'почистить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": ""
         }
       ],
       "forms": {

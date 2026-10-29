@@ -86,7 +86,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -160,7 +160,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -352,7 +352,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "smoke",
-          "gram": "m inan acc"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -629,7 +629,7 @@
           "lemma": "открывать",
           "pos": "verb",
           "stress": "открыва́й",
-          "gloss": "to open",
+          "gloss": "open",
           "gram": "2sg.imp"
         },
         {
@@ -726,7 +726,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -800,7 +800,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -992,7 +992,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "smoke",
-          "gram": "m inan acc"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -1269,7 +1269,7 @@
           "lemma": "открывать",
           "pos": "verb",
           "stress": "открыва́й",
-          "gloss": "to open",
+          "gloss": "open",
           "gram": "2sg.imp"
         },
         {
@@ -1366,7 +1366,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1440,7 +1440,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -1632,7 +1632,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "smoke",
-          "gram": "m inan acc"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -1909,7 +1909,7 @@
           "lemma": "открывать",
           "pos": "verb",
           "stress": "открыва́й",
-          "gloss": "to open",
+          "gloss": "open",
           "gram": "2sg.imp"
         },
         {
@@ -1952,7 +1952,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2061,11 +2061,11 @@
       "meanings": [
         {
           "en": "to throw",
-          "note": "Бросать трубку = to hang up. Used as an imperfective (ongoing/repeated action) verb meaning 'to throw; to abandon', paired with 'бросить'."
+          "note": "бросать трубку = to hang up"
         },
         {
-          "en": "to leave, to abandon",
-          "note": "Бросать трубку = to hang up. Used as an imperfective (ongoing/repeated action) verb meaning 'to throw; to abandon', paired with 'бросить'."
+          "en": "to leave, to abandon; to quit",
+          "note": "бросать курить = to quit smoking"
         }
       ],
       "forms": {
@@ -2253,11 +2253,11 @@
       "meanings": [
         {
           "en": "taste, flavour",
-          "note": "Не в моём вкусе = not my type. Common masculine noun meaning 'taste; style' in everyday Russian."
+          "note": "Праздник вкуса = a feast of flavour."
         },
         {
           "en": "taste, preference",
-          "note": "Не в моём вкусе = not my type. Common masculine noun meaning 'taste; style' in everyday Russian."
+          "note": "Не в моём вкусе = not my type."
         }
       ],
       "forms": {
@@ -2346,7 +2346,7 @@
       "meanings": [
         {
           "en": "inside, inward",
-          "note": "Into the interior, in. Core Russian adv meaning 'inside, inward' in everyday speech."
+          "note": "Into the interior, in."
         }
       ],
       "forms": null,
@@ -2382,11 +2382,11 @@
       "pos": "verb",
       "gloss": "to run out",
       "aspect": "impf",
-      "pair": null,
+      "pair": "выбежать",
       "meanings": [
         {
           "en": "to run out",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'бегать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to run out'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'бегать')."
         }
       ],
       "forms": {
@@ -2438,6 +2438,23 @@
                 "выбегала",
                 "выбегало",
                 "выбегали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выбегай",
+                "выбегайте"
               ]
             }
           ]
@@ -2595,7 +2612,7 @@
       "meanings": [
         {
           "en": "to burn, to be on fire, to glow",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to burn, to shine', paired with 'сгореть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2693,8 +2710,12 @@
           "gloss": "to burn out"
         },
         {
-          "word": "горе",
-          "gloss": "grief"
+          "word": "пожар",
+          "gloss": "fire"
+        },
+        {
+          "word": "горячий",
+          "gloss": "hot"
         }
       ]
     },
@@ -2708,7 +2729,7 @@
       "meanings": [
         {
           "en": "to taste bitter",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to taste bitter'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2763,6 +2784,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "горчи",
+                "горчите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2781,12 +2819,16 @@
       ],
       "related": [
         {
-          "word": "делать",
-          "gloss": "to do, make"
+          "word": "горький",
+          "gloss": "bitter"
         },
         {
-          "word": "время",
-          "gloss": "time"
+          "word": "горечь",
+          "gloss": "bitterness"
+        },
+        {
+          "word": "горчица",
+          "gloss": "mustard"
         }
       ]
     },
@@ -2802,7 +2844,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2837,7 +2879,7 @@
       "meanings": [
         {
           "en": "door",
-          "note": "Common feminine noun meaning 'door' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2921,7 +2963,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2971,7 +3013,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3057,7 +3099,7 @@
       "meanings": [
         {
           "en": "smoke",
-          "note": "Common masculine noun meaning 'smoke' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3115,22 +3157,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Кругом дым.",
-          "trans": "Smoke all around."
-        },
-        {
           "text": "Где мы? Кругом дым и воронки.",
-          "trans": "Where are we? Smoke and bomb craters are all around."
+          "trans": "Where are we? There's smoke and craters all around."
         },
         {
           "text": "Какой кошмар, на кухне полный дым!",
-          "trans": "What a nightmare, complete smoke in the kitchen!"
+          "trans": "What a nightmare, the kitchen is full of smoke!"
+        },
+        {
+          "text": "Шеф увидит этот чёрный дым и убьёт!",
+          "trans": "The chef will see this black smoke and kill us!"
         }
       ],
       "related": [
         {
+          "word": "дымить",
+          "gloss": "to smoke, to give off smoke"
+        },
+        {
           "word": "дымный",
-          "gloss": "related to smoke (adj.)"
+          "gloss": "smoky"
         }
       ]
     },
@@ -3142,11 +3188,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3262,12 +3308,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3322,6 +3366,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3341,17 +3402,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3438,7 +3500,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3480,7 +3542,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3502,7 +3564,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3638,7 +3704,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3809,7 +3875,7 @@
       "meanings": [
         {
           "en": "fire, gunfire",
-          "note": "Shooting from weapons. Common masculine noun meaning 'fire, gunfire' in everyday Russian."
+          "note": "Shooting from weapons."
         }
       ],
       "forms": {
@@ -4183,7 +4249,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4287,7 +4353,7 @@
       "meanings": [
         {
           "en": "fire, destructive blaze",
-          "note": "Начался пожар = a fire broke out. Common masculine noun meaning 'fire, blaze' in everyday Russian."
+          "note": "Начался пожар = a fire broke out."
         }
       ],
       "forms": {
@@ -4370,11 +4436,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4512,11 +4578,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -4665,11 +4731,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4828,7 +4894,7 @@
       "meanings": [
         {
           "en": "cigarette",
-          "note": "Common feminine noun meaning 'cigarette' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4900,8 +4966,12 @@
       ],
       "related": [
         {
-          "word": "сигаретный",
-          "gloss": "related to cigarette (adj.)"
+          "word": "сигара",
+          "gloss": "cigar"
+        },
+        {
+          "word": "курить",
+          "gloss": "to smoke"
         }
       ]
     },
@@ -4919,7 +4989,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5010,43 +5080,47 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
+    "скорее": {
+      "lemma": "скорее",
+      "stress": "скоре́е",
       "pos": "adv",
-      "gloss": "soon",
+      "gloss": "quickly, faster; rather",
       "meanings": [
         {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "quickly, hurry up",
+          "note": "Used as imperative exhortation."
+        },
+        {
+          "en": "rather, sooner",
+          "note": "Comparison."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
+          "text": "Тащи скорее прищепку!",
+          "trans": "Bring the clothespin quickly!"
         },
         {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
+          "text": "Ладно, давай сюда скорее!",
+          "trans": "Alright, give it here quickly!"
         },
         {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
+          "text": "Отлично, закрывай скорее багажник!",
+          "trans": "Great, close the trunk quickly!"
         }
       ],
       "related": []
@@ -5162,7 +5236,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5226,7 +5300,7 @@
       "meanings": [
         {
           "en": "toilet",
-          "note": "The room or the bowl. Common masculine noun meaning 'toilet' in everyday Russian."
+          "note": "The room or the bowl."
         }
       ],
       "forms": {
@@ -5397,11 +5471,11 @@
       "meanings": [
         {
           "en": "confident, assured",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": "Short form уверен / уверена."
         },
         {
           "en": "sure, certain",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5444,10 +5518,10 @@
           {
             "cells": [
               "accusative",
-              "уверенный",
+              "уверенный / уверенного",
               "уверенную",
               "уверенное",
-              "уверенные"
+              "уверенные / уверенных"
             ]
           },
           {
@@ -5534,7 +5608,7 @@
         },
         {
           "en": "outside, outdoors",
-          "note": "на улице = out on the street / outside"
+          "note": ""
         }
       ],
       "forms": {
@@ -5615,7 +5689,7 @@
       "meanings": [
         {
           "en": "trash bin, urn",
-          "note": "Common feminine noun meaning 'trash bin, urn' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5683,12 +5757,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "мусор",
+          "gloss": "rubbish"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "ведро",
+          "gloss": "bucket"
         }
       ]
     },
@@ -5702,7 +5776,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5754,6 +5828,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -5976,7 +6067,7 @@
       "meanings": [
         {
           "en": "black",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('black')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6019,10 +6110,10 @@
           {
             "cells": [
               "accusative",
-              "чёрный",
+              "чёрный / чёрного",
               "чёрную",
               "чёрное",
-              "чёрные"
+              "чёрные / чёрных"
             ]
           },
           {
@@ -6062,8 +6153,16 @@
       ],
       "related": [
         {
-          "word": "чёрно",
-          "gloss": "in a black way (adv.)"
+          "word": "белый",
+          "gloss": "white"
+        },
+        {
+          "word": "темнота",
+          "gloss": "darkness"
+        },
+        {
+          "word": "чёрная икра",
+          "gloss": "black caviar"
         }
       ]
     },

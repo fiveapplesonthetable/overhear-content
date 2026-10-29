@@ -69,7 +69,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -101,7 +101,7 @@
           "lemma": "поторапливаться",
           "pos": "verb",
           "stress": "потора́пливаемся",
-          "gloss": "hurry along",
+          "gloss": "let's hurry up",
           "gram": "1st person plural present, imperfective"
         }
       ]
@@ -183,7 +183,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -493,7 +493,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -525,7 +525,7 @@
           "lemma": "поторапливаться",
           "pos": "verb",
           "stress": "потора́пливаемся",
-          "gloss": "hurry along",
+          "gloss": "let's hurry up",
           "gram": "1st person plural present, imperfective"
         }
       ]
@@ -607,7 +607,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -917,7 +917,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -949,7 +949,7 @@
           "lemma": "поторапливаться",
           "pos": "verb",
           "stress": "потора́пливаемся",
-          "gloss": "hurry along",
+          "gloss": "let's hurry up",
           "gram": "1st person plural present, imperfective"
         }
       ]
@@ -1031,7 +1031,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1336,109 +1336,6 @@
         }
       ]
     },
-    "быстрый": {
-      "lemma": "быстрый",
-      "stress": "бы́стрый",
-      "pos": "adv",
-      "gloss": "fast, quick",
-      "meanings": [
-        {
-          "en": "fast, quick",
-          "note": "moving or capable of moving at high speed"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "быстрый",
-              "быстрая",
-              "быстрое",
-              "быстрые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "быстрого",
-              "быстрой",
-              "быстрого",
-              "быстрых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "быстрому",
-              "быстрой",
-              "быстрому",
-              "быстрым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "быстрый",
-              "быструю",
-              "быстрое",
-              "быстрые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "быстрым",
-              "быстрой",
-              "быстрым",
-              "быстрыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "быстром",
-              "быстрой",
-              "быстром",
-              "быстрых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Нам нужен быстрый интернет.",
-          "trans": "We need fast internet."
-        },
-        {
-          "text": "Они сказали, что устанавливают быстрый интернет.",
-          "trans": "They said that they were installing fast internet."
-        },
-        {
-          "text": "Большое спасибо за вашу быструю помощь!",
-          "trans": "Thank you very much for your quick help!"
-        }
-      ],
-      "related": [
-        {
-          "word": "быстро",
-          "gloss": "fast"
-        },
-        {
-          "word": "быстрее",
-          "gloss": "faster"
-        }
-      ]
-    },
     "в": {
       "lemma": "в",
       "stress": "в",
@@ -1661,6 +1558,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видай",
+                "видайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1697,11 +1611,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1868,101 +1782,6 @@
         }
       ]
     },
-    "гостья": {
-      "lemma": "гостья",
-      "stress": "го́стья",
-      "pos": "noun",
-      "gloss": "female guest",
-      "gender": "f",
-      "animacy": "anim",
-      "meanings": [
-        {
-          "en": "female guest or visitor",
-          "note": "Declinable feminine noun meaning 'female guest', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "гостья",
-              "гостьи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "гостьи",
-              "гостей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "гостье",
-              "гостьям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "гостью",
-              "гостей"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "гостьей",
-              "гостьями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "гостье",
-              "гостьях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это гостья.",
-          "trans": "This is a female guest."
-        },
-        {
-          "text": "Все внимание! Гостья пробует блюдо новичка.",
-          "trans": "Attention everyone! The guest is tasting the newcomer's dish."
-        },
-        {
-          "text": "Гостья пробует блюдо новичка.",
-          "trans": "The guest is tasting the newcomer's dish."
-        }
-      ],
-      "related": [
-        {
-          "word": "гость",
-          "gloss": "guest"
-        },
-        {
-          "word": "гостиница",
-          "gloss": "hotel"
-        },
-        {
-          "word": "угостить",
-          "gloss": "to treat"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -1973,11 +1792,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2068,15 +1891,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2090,7 +1913,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2181,11 +2004,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2201,11 +2024,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2247,11 +2070,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2281,7 +2104,7 @@
       "meanings": [
         {
           "en": "gesture",
-          "note": "Common masculine noun meaning 'gesture' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2340,21 +2163,17 @@
       "examples": [
         {
           "text": "Видал, она жест показала!",
-          "trans": "Did you see, she made a gesture!"
+          "trans": "Did you see that? She made a gesture!"
         },
         {
-          "text": "Он хочет исполнить супружеский долг!",
-          "trans": "He wants to fulfill his marital duty!"
+          "text": "Это был красивый жест.",
+          "trans": "That was a nice gesture."
         }
       ],
       "related": [
         {
-          "word": "без жес",
-          "gloss": "without gesture"
-        },
-        {
-          "word": "наш жест",
-          "gloss": "our gesture"
+          "word": "жестикулировать",
+          "gloss": "to gesticulate"
         }
       ]
     },
@@ -2368,7 +2187,7 @@
       "meanings": [
         {
           "en": "to take away, to pick up",
-          "note": "забрать заявление = to withdraw a statement"
+          "note": "забрать детей из школы = to pick the kids up from school"
         },
         {
           "en": "to withdraw",
@@ -2604,7 +2423,7 @@
       "meanings": [
         {
           "en": "ice cream",
-          "note": "Common neuter noun meaning 'ice cream' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2619,42 +2438,42 @@
             "cells": [
               "nominative",
               "мороженое",
-              "мороженоя"
+              "мороженые"
             ]
           },
           {
             "cells": [
               "genitive",
-              "мороженоя",
-              "мороженоей"
+              "мороженого",
+              "мороженых"
             ]
           },
           {
             "cells": [
               "dative",
-              "мороженою",
-              "мороженоям"
+              "мороженому",
+              "мороженым"
             ]
           },
           {
             "cells": [
               "accusative",
               "мороженое",
-              "мороженоя"
+              "мороженые"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "мороженоем",
-              "мороженоями"
+              "мороженым",
+              "морожеными"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "мороженое",
-              "мороженоях"
+              "мороженом",
+              "мороженых"
             ]
           }
         ]
@@ -2662,33 +2481,55 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Там белок из ванильного мороженого.",
-          "trans": "There the egg white is made of vanilla ice cream."
+          "text": "Катя, ты хочешь сейчас мороженое?",
+          "trans": "Katya, do you want some ice cream now?"
         },
         {
-          "text": "На кухне ресторана всегда есть мороженое.",
-          "trans": "In the restaurant kitchen there is always ice cream."
+          "text": "Никак, я уже друзьям обещал, что будет рыбное мороженое.",
+          "trans": "No way, I already promised my friends there'd be fish ice cream."
+        },
+        {
+          "text": "Там белок из ванильного мороженого.",
+          "trans": "That's egg white made from vanilla ice cream."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "пломбир",
+          "gloss": "rich vanilla ice cream"
+        },
+        {
+          "word": "десерт",
+          "gloss": "dessert"
+        }
+      ]
     },
     "неверный": {
       "lemma": "неверный",
       "stress": "неве́рный",
-      "pos": "noun",
-      "gloss": "infidels / unbelievers",
-      "gender": "m",
+      "pos": "adj",
+      "gloss": "wrong, incorrect; unfaithful; (as noun) infidel",
       "meanings": [
         {
-          "en": "infidels / unbelievers",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'верный'). Common masculine noun meaning 'infidels / unbelievers' in everyday Russian."
+          "en": "wrong, incorrect",
+          "note": "неверный ответ = wrong answer"
+        },
+        {
+          "en": "unfaithful",
+          "note": "неверный муж = unfaithful husband"
+        },
+        {
+          "en": "infidel, unbeliever (as a noun, usually plural неверные)",
+          "note": "religious/jocular"
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "sg",
+          "m",
+          "f",
+          "n",
           "pl"
         ],
         "rows": [
@@ -2696,42 +2537,54 @@
             "cells": [
               "nominative",
               "неверный",
-              "неверныи"
+              "неверная",
+              "неверное",
+              "неверные"
             ]
           },
           {
             "cells": [
               "genitive",
-              "неверныя",
-              "неверныев"
+              "неверного",
+              "неверной",
+              "неверного",
+              "неверных"
             ]
           },
           {
             "cells": [
               "dative",
-              "неверныю",
-              "неверныям"
+              "неверному",
+              "неверной",
+              "неверному",
+              "неверным"
             ]
           },
           {
             "cells": [
               "accusative",
-              "неверный",
-              "неверныи"
+              "неверный / неверного",
+              "неверную",
+              "неверное",
+              "неверные / неверных"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "неверныем",
-              "неверныями"
+              "неверным",
+              "неверной",
+              "неверным",
+              "неверными"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "неверные",
-              "неверныях"
+              "неверном",
+              "неверной",
+              "неверном",
+              "неверных"
             ]
           }
         ]
@@ -2740,21 +2593,25 @@
       "examples": [
         {
           "text": "Давайте, неверные, поторапливаемся.",
-          "trans": "Come on, infidels, let us hurry along."
+          "trans": "Come on, infidels, let's get a move on."
         },
         {
-          "text": "На кухне отеля всегда есть неверный.",
-          "trans": "In the hotel kitchen there is always infidels."
+          "text": "Это неверный ответ.",
+          "trans": "That's the wrong answer."
         }
       ],
       "related": [
         {
-          "word": "без неверны",
-          "gloss": "without infidels"
+          "word": "верный",
+          "gloss": "faithful, correct"
         },
         {
-          "word": "наш неверный",
-          "gloss": "our infidels"
+          "word": "неверно",
+          "gloss": "incorrectly"
+        },
+        {
+          "word": "измена",
+          "gloss": "infidelity"
         }
       ]
     },
@@ -2872,15 +2729,15 @@
       "meanings": [
         {
           "en": "number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "phone number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "hotel room",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3168,7 +3025,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -3189,44 +3046,6 @@
       ],
       "related": []
     },
-    "очень": {
-      "lemma": "очень",
-      "stress": "о́чень",
-      "pos": "adv",
-      "gloss": "very, very much",
-      "meanings": [
-        {
-          "en": "very",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        },
-        {
-          "en": "very much",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я очень люблю наш город.",
-          "trans": "I love our town very much."
-        },
-        {
-          "text": "Это очень трудно.",
-          "trans": "It's very hard."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "совсем",
-          "gloss": "intensified / related adverb (very)"
-        }
-      ]
-    },
     "перстень": {
       "lemma": "перстень",
       "stress": "пе́рстень",
@@ -3236,7 +3055,7 @@
       "meanings": [
         {
           "en": "signet / gem ring",
-          "note": "Common masculine noun meaning 'signet / gem ring' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3251,42 +3070,42 @@
             "cells": [
               "nominative",
               "перстень",
-              "перстени"
+              "перстни"
             ]
           },
           {
             "cells": [
               "genitive",
-              "перстеня",
-              "перстеней"
+              "перстня",
+              "перстней"
             ]
           },
           {
             "cells": [
               "dative",
-              "перстеню",
-              "перстеням"
+              "перстню",
+              "перстням"
             ]
           },
           {
             "cells": [
               "accusative",
               "перстень",
-              "перстени"
+              "перстни"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "перстенем",
-              "перстенями"
+              "перстнем",
+              "перстнями"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "перстене",
-              "перстенях"
+              "перстне",
+              "перстнях"
             ]
           }
         ]
@@ -3318,7 +3137,7 @@
       "meanings": [
         {
           "en": "to repeat, to say or do again",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'вторить'). Used as a perfective (single completed action) verb meaning 'to repeat, to go over again', paired with 'повторять'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'вторить')."
         }
       ],
       "forms": {
@@ -3427,7 +3246,7 @@
       "meanings": [
         {
           "en": "to show",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to show', paired with 'показывать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'казать')."
         }
       ],
       "forms": {
@@ -3522,98 +3341,6 @@
         }
       ]
     },
-    "понравиться": {
-      "lemma": "понравиться",
-      "stress": "понра́виться",
-      "pos": "verb",
-      "gloss": "to be liked, to please",
-      "aspect": "pf",
-      "pair": "нравиться",
-      "meanings": [
-        {
-          "en": "to please, to be to someone's liking",
-          "note": "+ dative: тебе понравится = you'll like it"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "понравлюсь",
-              "понравимся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "понравишься",
-              "понравитесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "понравится",
-              "понравятся"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "понравился",
-                "понравилась",
-                "понравилось",
-                "понравились"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Не бойся, тебе понравится.",
-          "trans": "Don't be afraid, you'll like it."
-        },
-        {
-          "text": "Мне очень понравился этот фильм.",
-          "trans": "I really liked this film."
-        },
-        {
-          "text": "А придётся! Не бойся, тебе понравится.",
-          "trans": "Well, you'll have to! Don't be afraid, you'll like it."
-        }
-      ],
-      "related": [
-        {
-          "word": "нравиться",
-          "gloss": "to be liked"
-        },
-        {
-          "word": "нравоучение",
-          "gloss": "moral lecture"
-        }
-      ]
-    },
     "попробовать": {
       "lemma": "попробовать",
       "stress": "попро́бовать",
@@ -3624,11 +3351,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -3736,7 +3463,7 @@
       "meanings": [
         {
           "en": "portion, serving of food",
-          "note": "International borrowing in '-ция' (from Latin '-tio'), declined as a regular feminine noun meaning 'portion'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3810,15 +3537,15 @@
     },
     "поторапливаться": {
       "lemma": "поторапливаться",
-      "stress": "потораплива́ться",
+      "stress": "потора́пливаться",
       "pos": "verb",
-      "gloss": "hurry along",
+      "gloss": "to hurry up (colloquial)",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "hurry along",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'hurry along'."
+          "en": "to hurry up, to get a move on",
+          "note": "Colloquial, often as a command."
         }
       ],
       "forms": {
@@ -3873,22 +3600,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "поторапливайся",
+                "поторапливайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и поторапливаться вовремя.",
-          "trans": "We need to do everything and hurry along on time."
+          "text": "Давайте, неверные, поторапливаемся.",
+          "trans": "Come on, infidels, let's hurry up."
         },
         {
-          "text": "На нашей кухне все умеют поторапливаться.",
-          "trans": "In our kitchen everyone knows how to hurry along."
+          "text": "Поторапливайтесь, гости уже ждут!",
+          "trans": "Hurry up, the guests are already waiting!"
         }
       ],
       "related": [
         {
-          "word": "не поторапливаться",
-          "gloss": "not to hurry along (negated infinitive)"
+          "word": "торопиться",
+          "gloss": "to hurry"
+        },
+        {
+          "word": "поторопиться",
+          "gloss": "to hurry (pf)"
         }
       ]
     },
@@ -3902,7 +3650,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -4019,7 +3767,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4124,7 +3872,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4268,67 +4016,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4354,7 +4050,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -4538,21 +4234,29 @@
       "examples": [
         {
           "text": "А она типа не при делах.",
-          "trans": "And she acts like she had nothing to do with it."
+          "trans": "And she's, like, got nothing to do with it."
         },
         {
-          "text": "Да я не про это. Кто этот тип в коридоре?",
-          "trans": "That's not what I mean. Who was that guy in the corridor?"
+          "text": "Это типа омлет.",
+          "trans": "This is sort of an omelette."
+        },
+        {
+          "text": "Это типа извинения?",
+          "trans": "Is that, like, an apology?"
         }
       ],
       "related": [
         {
-          "word": "так",
-          "gloss": "so, thus"
+          "word": "вроде",
+          "gloss": "like, sort of"
         },
         {
-          "word": "уже",
-          "gloss": "already"
+          "word": "как бы",
+          "gloss": "kind of, sort of"
+        },
+        {
+          "word": "тип",
+          "gloss": "type; guy"
         }
       ]
     },
@@ -4564,11 +4268,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4604,7 +4308,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4656,6 +4360,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

@@ -243,7 +243,7 @@
           "lemma": "палочка",
           "pos": "noun",
           "stress": "па́лочку",
-          "gloss": "swab / little stick",
+          "gloss": "little stick",
           "gram": "accusative singular, feminine"
         },
         {
@@ -502,7 +502,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -533,7 +533,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -867,7 +867,7 @@
           "lemma": "палочка",
           "pos": "noun",
           "stress": "па́лочку",
-          "gloss": "swab / little stick",
+          "gloss": "little stick",
           "gram": "accusative singular, feminine"
         },
         {
@@ -1126,7 +1126,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1157,7 +1157,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1491,7 +1491,7 @@
           "lemma": "палочка",
           "pos": "noun",
           "stress": "па́лочку",
-          "gloss": "swab / little stick",
+          "gloss": "little stick",
           "gram": "accusative singular, feminine"
         },
         {
@@ -1750,7 +1750,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1781,7 +1781,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1900,7 +1900,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -1995,15 +1995,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2367,10 +2371,10 @@
           {
             "cells": [
               "accusative",
-              "виноватый",
+              "виноватый / виноватого",
               "виноватую",
               "виноватое",
-              "виноватые"
+              "виноватые / виноватых"
             ]
           },
           {
@@ -2393,29 +2397,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "виноват",
-                "виновата",
-                "виновато",
-                "виноваты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я знаю, что я виноват.",
@@ -2562,11 +2544,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2677,11 +2659,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2755,10 +2737,11 @@
       "pos": "noun",
       "gloss": "idea",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "idea, thought, concept",
-          "note": "Common feminine noun meaning 'idea' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2840,7 +2823,7 @@
       "meanings": [
         {
           "en": "to look for, to search",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to look for'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2935,109 +2918,6 @@
         }
       ]
     },
-    "мой": {
-      "lemma": "мой",
-      "stress": "мой",
-      "pos": "det",
-      "gloss": "my, mine",
-      "meanings": [
-        {
-          "en": "my, mine",
-          "note": "Agrees with the thing owned. Core Russian det meaning 'my, mine' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "мой",
-              "моя",
-              "моё",
-              "мои"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "моего",
-              "моей",
-              "моего",
-              "моих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "моему",
-              "моей",
-              "моему",
-              "моим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "мой / моего",
-              "мою",
-              "моё",
-              "мои / моих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "моим",
-              "моей",
-              "моим",
-              "моими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "моём",
-              "моей",
-              "моём",
-              "моих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Где моя машинка?",
-          "trans": "Where's my toy car?"
-        },
-        {
-          "text": "Это моё.",
-          "trans": "That's mine."
-        },
-        {
-          "text": "Нет. Это моё.",
-          "trans": "No. That's mine."
-        }
-      ],
-      "related": [
-        {
-          "word": "я",
-          "gloss": "I"
-        },
-        {
-          "word": "свой",
-          "gloss": "one's own"
-        }
-      ]
-    },
     "на": {
       "lemma": "на",
       "stress": "на",
@@ -3088,7 +2968,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3300,7 +3180,7 @@
       "meanings": [
         {
           "en": "both (masculine and neuter; feminine обе)",
-          "note": "Core Russian num meaning 'both' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3514,7 +3394,7 @@
       "meanings": [
         {
           "en": "paternity",
-          "note": "Common neuter noun meaning 'paternity' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3582,12 +3462,16 @@
       ],
       "related": [
         {
-          "word": "без отцовств",
-          "gloss": "without paternity"
+          "word": "отец",
+          "gloss": "father"
         },
         {
-          "word": "наш отцовство",
-          "gloss": "our paternity"
+          "word": "тест на отцовство",
+          "gloss": "paternity test"
+        },
+        {
+          "word": "материнство",
+          "gloss": "motherhood"
         }
       ]
     },
@@ -3638,7 +3522,7 @@
       "meanings": [
         {
           "en": "walking stick, crutch, small stick",
-          "note": "Diminutive of палка. Common feminine noun meaning 'crutch, walking stick, small stick' in everyday Russian."
+          "note": "Diminutive of палка."
         }
       ],
       "forms": {
@@ -3706,87 +3590,6 @@
       ],
       "related": []
     },
-    "папа": {
-      "lemma": "папа",
-      "stress": "па́па",
-      "pos": "noun",
-      "gloss": "dad",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "dad, daddy",
-          "note": "declines like a feminine noun in -а, but is masculine"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "папа",
-              "папы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "папы",
-              "пап"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "папе",
-              "папам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "папу",
-              "пап"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "папой",
-              "папами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "папе",
-              "папах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Привет, папа!",
-          "trans": "Hi, Dad!"
-        },
-        {
-          "text": "Папа дома.",
-          "trans": "Dad is at home."
-        },
-        {
-          "text": "Папа, а жвачку ты привёз?",
-          "trans": "Dad, did you bring any gum?"
-        }
-      ],
-      "related": []
-    },
     "плохой": {
       "lemma": "плохой",
       "stress": "плохо́й",
@@ -3795,7 +3598,7 @@
       "meanings": [
         {
           "en": "bad",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('bad')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3871,8 +3674,8 @@
           "trans": "Bad weather."
         },
         {
-          "text": "Это не плохая работа.",
-          "trans": "It's not a bad job."
+          "text": "Тебе же предложили работу. Что, плохая работа?",
+          "trans": "You were offered a job. What, is it a bad job?"
         },
         {
           "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
@@ -3904,7 +3707,7 @@
       "meanings": [
         {
           "en": "to break into a run, to run off",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'бежать'). Used as a perfective (single completed action) verb meaning 'to start running, to run off', paired with 'бежать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'бежать')."
         }
       ],
       "forms": {
@@ -4015,7 +3818,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4092,7 +3895,7 @@
       "meanings": [
         {
           "en": "to show",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to show', paired with 'показывать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'казать')."
         }
       ],
       "forms": {
@@ -4191,21 +3994,23 @@
       "lemma": "полицейский",
       "stress": "полице́йский",
       "pos": "noun",
-      "gloss": "police",
+      "gloss": "police officer; police (adj.)",
       "gender": "m",
       "meanings": [
         {
-          "en": "police",
-          "note": "relating to police or law enforcement"
+          "en": "police officer, policeman",
+          "note": ""
+        },
+        {
+          "en": "police (adj.)",
+          "note": "Also an adjective: полицейская машина = police car."
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "m",
-          "f",
-          "n",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -4213,16 +4018,12 @@
             "cells": [
               "nominative",
               "полицейский",
-              "полицейская",
-              "полицейское",
               "полицейские"
             ]
           },
           {
             "cells": [
               "genitive",
-              "полицейского",
-              "полицейской",
               "полицейского",
               "полицейских"
             ]
@@ -4231,8 +4032,6 @@
             "cells": [
               "dative",
               "полицейскому",
-              "полицейской",
-              "полицейскому",
               "полицейским"
             ]
           },
@@ -4240,8 +4039,6 @@
             "cells": [
               "accusative",
               "полицейского",
-              "полицейскую",
-              "полицейское",
               "полицейских"
             ]
           },
@@ -4249,16 +4046,12 @@
             "cells": [
               "instrumental",
               "полицейским",
-              "полицейской",
-              "полицейским",
               "полицейскими"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "полицейском",
-              "полицейской",
               "полицейском",
               "полицейских"
             ]
@@ -4288,7 +4081,7 @@
       "meanings": [
         {
           "en": "to lose",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять'). Used as a perfective (single completed action) verb meaning 'to lose', paired with 'терять'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять')."
         }
       ],
       "forms": {
@@ -4343,6 +4136,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "потеряй",
+                "потеряйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4371,104 +4181,6 @@
         {
           "word": "растеряться",
           "gloss": "to become confused"
-        }
-      ]
-    },
-    "правда": {
-      "lemma": "правда",
-      "stress": "пра́вда",
-      "pos": "noun",
-      "gloss": "truth; honestly",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "truth",
-          "note": "as a side word: Правда, всё нормально = Honestly, everything's fine"
-        },
-        {
-          "en": "honestly, really",
-          "note": "as a side word: Правда, всё нормально = Honestly, everything's fine"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "правда",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "правды",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "правде",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "правду",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "правдой",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "правде",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Правда, всё нормально.",
-          "trans": "Honestly, everything's fine."
-        },
-        {
-          "text": "Это правда.",
-          "trans": "That's true."
-        },
-        {
-          "text": "Правда, Нин, всё нормально. Скажи что-нибудь, пожалуйста.",
-          "trans": "Honestly, Nina, everything's fine. Say something, please."
-        }
-      ],
-      "related": [
-        {
-          "word": "правильно",
-          "gloss": "right"
-        },
-        {
-          "word": "правый",
-          "gloss": "right"
-        },
-        {
-          "word": "правило",
-          "gloss": "rule"
         }
       ]
     },
@@ -4589,7 +4301,7 @@
       "meanings": [
         {
           "en": "dear, darling, my friend (in address: родной мой)",
-          "note": "Often used ironically. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('native, own; dear, darling')."
+          "note": "Often used ironically."
         },
         {
           "en": "own (by blood), native",
@@ -4636,10 +4348,10 @@
           {
             "cells": [
               "accusative",
-              "родной/родного",
+              "родной / родного",
               "родную",
               "родное",
-              "родные/родных"
+              "родные / родных"
             ]
           },
           {
@@ -4696,7 +4408,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4942,7 +4654,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5033,15 +4745,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5078,45 +4790,16 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "слюна": {
       "lemma": "слюна",
-      "stress": "слю́на",
+      "stress": "слюна́",
       "pos": "noun",
       "gloss": "saliva",
       "gender": "f",
       "meanings": [
         {
           "en": "saliva",
-          "note": "Common feminine noun meaning 'saliva' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5131,42 +4814,42 @@
             "cells": [
               "nominative",
               "слюна",
-              "слюны"
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
               "слюны",
-              "слюн"
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
               "слюне",
-              "слюнам"
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
               "слюну",
-              "слюны"
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
               "слюной",
-              "слюнами"
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
               "слюне",
-              "слюнах"
+              "—"
             ]
           }
         ]
@@ -5188,12 +4871,12 @@
       ],
       "related": [
         {
-          "word": "без слюн",
-          "gloss": "without saliva"
+          "word": "слюнки",
+          "gloss": "mouth-watering (слюнки текут)"
         },
         {
-          "word": "наш слюна",
-          "gloss": "our saliva"
+          "word": "слюнявый",
+          "gloss": "drooling"
         }
       ]
     },
@@ -5229,67 +4912,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5317,7 +4948,7 @@
       "meanings": [
         {
           "en": "to eat, to eat up",
-          "note": "A whole portion; completed action. Used as a perfective (single completed action) verb meaning 'to eat (up)', paired with 'есть'."
+          "note": "A whole portion; completed action."
         }
       ],
       "forms": {
@@ -5524,7 +5155,7 @@
       "meanings": [
         {
           "en": "test",
-          "note": "Common masculine noun meaning 'test' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5864,7 +5495,7 @@
       "meanings": [
         {
           "en": "a little, slightly",
-          "note": "Чуть-чуть = a tiny bit. Core Russian adv meaning 'a little; nearly' in everyday speech."
+          "note": "Чуть-чуть = a tiny bit."
         },
         {
           "en": "nearly, almost",

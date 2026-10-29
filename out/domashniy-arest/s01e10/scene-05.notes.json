@@ -205,7 +205,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -616,7 +616,7 @@
           "pos": "noun",
           "stress": "пацана́",
           "gloss": "boy, lad",
-          "gram": "masculine singular accusative"
+          "gram": "genitive/accusative singular, masculine animate"
         }
       ]
     },
@@ -977,7 +977,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1388,7 +1388,7 @@
           "pos": "noun",
           "stress": "пацана́",
           "gloss": "boy, lad",
-          "gram": "masculine singular accusative"
+          "gram": "genitive/accusative singular, masculine animate"
         }
       ]
     },
@@ -1749,7 +1749,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -2160,7 +2160,7 @@
           "pos": "noun",
           "stress": "пацана́",
           "gloss": "boy, lad",
-          "gram": "masculine singular accusative"
+          "gram": "genitive/accusative singular, masculine animate"
         }
       ]
     },
@@ -2384,11 +2384,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2535,10 +2535,11 @@
       "pos": "noun",
       "gloss": "kindergarten teacher (female)",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "kindergarten / preschool teacher, caregiver",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common feminine noun meaning 'kindergarten teacher (female)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2635,7 +2636,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2671,11 +2672,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2766,15 +2771,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3270,10 +3275,11 @@
       "pos": "noun",
       "gloss": "toy",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "toy",
-          "note": "Common feminine noun meaning 'toy' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3393,7 +3399,7 @@
       "meanings": [
         {
           "en": "to shout, to yell",
-          "note": "Кричать на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to shout', paired with 'крикнуть'."
+          "note": "Кричать на + accusative."
         }
       ],
       "forms": {
@@ -3477,8 +3483,8 @@
           "trans": "Why are you shouting?"
         },
         {
-          "text": "Не надо кричать. Хорошо, я буду сегодня.",
-          "trans": "There's no need to shout. All right, I'll be there tonight."
+          "text": "Что вы кричите на меня?",
+          "trans": "Why are you shouting at me?"
         }
       ],
       "related": [
@@ -3504,7 +3510,7 @@
       "meanings": [
         {
           "en": "except, apart from, besides (with genitive)",
-          "note": "Никто, кроме... = nobody except. Core Russian prep meaning 'except, besides (+ genitive)' in everyday speech."
+          "note": "Никто, кроме... = nobody except."
         }
       ],
       "forms": null,
@@ -3533,7 +3539,7 @@
       "meanings": [
         {
           "en": "small, little",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('small, little')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3620,7 +3626,11 @@
       "related": [
         {
           "word": "маленько",
-          "gloss": "in a small way (adv.)"
+          "gloss": "a little, a bit (colloq.)"
+        },
+        {
+          "word": "большой",
+          "gloss": "big"
         }
       ]
     },
@@ -3714,11 +3724,11 @@
       "meanings": [
         {
           "en": "car",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         },
         {
           "en": "machine",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4539,7 +4549,7 @@
       "meanings": [
         {
           "en": "lad, boy, kid, young fellow",
-          "note": "Colloquial. Common masculine noun meaning 'lad, boy, kid' in everyday Russian."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -4618,8 +4628,12 @@
       "gloss": "fire, firefighting",
       "meanings": [
         {
-          "en": "fire, firefighting",
-          "note": "Пожарная машина = fire engine. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('fire, firefighting')."
+          "en": "fire, firefighting (adj.)",
+          "note": "пожарная машина = fire engine"
+        },
+        {
+          "en": "firefighter (as a noun)",
+          "note": "declines like an adjective"
         }
       ],
       "forms": {
@@ -4662,10 +4676,10 @@
           {
             "cells": [
               "accusative",
-              "пожарный",
+              "пожарный / пожарного",
               "пожарную",
               "пожарное",
-              "пожарные"
+              "пожарные / пожарных"
             ]
           },
           {
@@ -4711,11 +4725,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4853,7 +4867,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -5242,7 +5256,7 @@
       "meanings": [
         {
           "en": "to allow, to permit",
-          "note": "+ dative of the person. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'решить'). Used as a perfective (single completed action) verb meaning 'to allow, to permit', paired with 'разрешать'."
+          "note": "+ dative of the person. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'решить')."
         },
         {
           "en": "'Разрешите?' = may I (come in)?",
@@ -5521,7 +5535,7 @@
         },
         {
           "en": "promise",
-          "note": "'дать слово' = to give one's word, 'держать слово' = to keep one's word"
+          "note": ""
         }
       ],
       "forms": {
@@ -5605,7 +5619,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5715,7 +5729,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5744,11 +5758,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5782,7 +5796,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -5908,7 +5922,7 @@
       "meanings": [
         {
           "en": "to turn out well, to succeed, to manage (impersonal + dative)",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'даться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to succeed, to manage', paired with 'удаваться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'даться')."
         }
       ],
       "forms": {
@@ -5922,22 +5936,22 @@
           {
             "cells": [
               "1st",
-              "удаюсь",
-              "удаемся"
+              "удамся",
+              "удадимся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "удаешься",
-              "удаетесь"
+              "удашься",
+              "удадитесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "удается",
-              "удаются"
+              "удастся",
+              "удадутся"
             ]
           }
         ]
@@ -5960,6 +5974,23 @@
                 "удалась",
                 "удалось",
                 "удались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "удайся",
+                "удайтесь"
               ]
             }
           ]
@@ -5994,7 +6025,7 @@
       "meanings": [
         {
           "en": "often, frequently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6023,7 +6054,7 @@
       "meanings": [
         {
           "en": "honest",
-          "note": "The т is not pronounced: [чесный]. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('honest')."
+          "note": "The т is not pronounced: [чесный]."
         }
       ],
       "forms": {
@@ -6092,29 +6123,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "честен",
-                "честна",
-                "честно",
-                "честны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Он честный человек.",

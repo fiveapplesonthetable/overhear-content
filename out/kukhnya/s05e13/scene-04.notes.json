@@ -284,7 +284,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "dream; sleep",
-          "gram": "prepositional / dative singular"
+          "gram": "prepositional singular, masculine"
         }
       ]
     },
@@ -330,7 +330,7 @@
           "pos": "adj",
           "stress": "стра́шный",
           "gloss": "terrible",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "сон.",
@@ -360,7 +360,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "dream; sleep",
-          "gram": "prepositional / dative singular"
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "я",
@@ -444,9 +444,9 @@
           "t": "бежал!",
           "lemma": "бежать",
           "pos": "verb",
-          "stress": "бе́жал",
-          "gloss": "to run, to flee",
-          "gram": "past tense, masculine singular"
+          "stress": "бежа́л",
+          "gloss": "ran",
+          "gram": "past tense, masculine singular, imperfective"
         }
       ]
     },
@@ -652,9 +652,9 @@
           "t": "перебивай",
           "lemma": "перебивать",
           "pos": "verb",
-          "stress": "переби́вай",
+          "stress": "перебива́й",
           "gloss": "to interrupt (someone speaking)",
-          "gram": "conjugated verb"
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "меня",
@@ -956,7 +956,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "dream; sleep",
-          "gram": "prepositional / dative singular"
+          "gram": "prepositional singular, masculine"
         }
       ]
     },
@@ -1002,7 +1002,7 @@
           "pos": "adj",
           "stress": "стра́шный",
           "gloss": "terrible",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "сон.",
@@ -1032,7 +1032,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "dream; sleep",
-          "gram": "prepositional / dative singular"
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "я",
@@ -1116,9 +1116,9 @@
           "t": "бежал!",
           "lemma": "бежать",
           "pos": "verb",
-          "stress": "бе́жал",
-          "gloss": "to run, to flee",
-          "gram": "past tense, masculine singular"
+          "stress": "бежа́л",
+          "gloss": "ran",
+          "gram": "past tense, masculine singular, imperfective"
         }
       ]
     },
@@ -1324,9 +1324,9 @@
           "t": "перебивай",
           "lemma": "перебивать",
           "pos": "verb",
-          "stress": "переби́вай",
+          "stress": "перебива́й",
           "gloss": "to interrupt (someone speaking)",
-          "gram": "conjugated verb"
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "меня",
@@ -1628,7 +1628,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "dream; sleep",
-          "gram": "prepositional / dative singular"
+          "gram": "prepositional singular, masculine"
         }
       ]
     },
@@ -1674,7 +1674,7 @@
           "pos": "adj",
           "stress": "стра́шный",
           "gloss": "terrible",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "сон.",
@@ -1704,7 +1704,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "dream; sleep",
-          "gram": "prepositional / dative singular"
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "я",
@@ -1788,9 +1788,9 @@
           "t": "бежал!",
           "lemma": "бежать",
           "pos": "verb",
-          "stress": "бе́жал",
-          "gloss": "to run, to flee",
-          "gram": "past tense, masculine singular"
+          "stress": "бежа́л",
+          "gloss": "ran",
+          "gram": "past tense, masculine singular, imperfective"
         }
       ]
     },
@@ -1996,9 +1996,9 @@
           "t": "перебивай",
           "lemma": "перебивать",
           "pos": "verb",
-          "stress": "переби́вай",
+          "stress": "перебива́й",
           "gloss": "to interrupt (someone speaking)",
-          "gram": "conjugated verb"
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "меня",
@@ -2098,7 +2098,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2539,7 +2539,7 @@
         },
         {
           "en": "what if (in hypotheses)",
-          "note": "А вдруг... = what if. Core Russian adv meaning 'suddenly; all of a sudden' in everyday speech."
+          "note": "А вдруг... = what if."
         }
       ],
       "forms": null,
@@ -2568,11 +2568,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2606,12 +2606,13 @@
       "lemma": "гладиатор",
       "stress": "гладиа́тор",
       "pos": "noun",
-      "gloss": "sit",
+      "gloss": "gladiator",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "sit",
-          "note": "Declinable masculine noun meaning 'sit', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "gladiator",
+          "note": ""
         }
       ],
       "forms": {
@@ -2646,8 +2647,8 @@
           {
             "cells": [
               "accusative",
-              "гладиатор",
-              "гладиаторы"
+              "гладиатора",
+              "гладиаторов"
             ]
           },
           {
@@ -2687,7 +2688,7 @@
       "meanings": [
         {
           "en": "hungry",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'hungry' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -2783,11 +2784,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2979,7 +2980,7 @@
       "meanings": [
         {
           "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
+          "note": "Location; compare домой = homeward."
         }
       ],
       "forms": null,
@@ -3046,11 +3047,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3231,7 +3232,7 @@
       "meanings": [
         {
           "en": "nose",
-          "note": "Locative на носу. Common masculine noun meaning 'nose' in everyday Russian."
+          "note": "Locative на носу."
         }
       ],
       "forms": {
@@ -3311,7 +3312,7 @@
       "meanings": [
         {
           "en": "huge, enormous, vast",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('huge, enormous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3354,10 +3355,10 @@
           {
             "cells": [
               "accusative",
-              "огромный/огромного",
+              "огромный / огромного",
               "огромную",
               "огромное",
-              "огромные/огромных"
+              "огромные / огромных"
             ]
           },
           {
@@ -3522,7 +3523,7 @@
       "meanings": [
         {
           "en": "to interrupt, cut off (a speaker)",
-          "note": "Takes accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'бивать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to interrupt (someone speaking)', paired with 'перебить'."
+          "note": "Takes accusative: не перебивай меня."
         }
       ],
       "forms": {
@@ -3609,15 +3610,11 @@
       "related": [
         {
           "word": "перебить",
-          "gloss": "to overpower"
+          "gloss": "to interrupt (pf)"
         },
         {
-          "word": "убивать",
-          "gloss": "to kill"
-        },
-        {
-          "word": "сбивать",
-          "gloss": "to knock down"
+          "word": "бить",
+          "gloss": "to beat"
         }
       ]
     },
@@ -3738,7 +3735,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3815,11 +3812,11 @@
       "meanings": [
         {
           "en": "to break, smash, shatter",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить'). Used as a perfective (single completed action) verb meaning 'to break, to smash, to wreck (a car)', paired with 'разбивать'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить')."
         },
         {
           "en": "to wreck, crash (a vehicle)",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить'). Used as a perfective (single completed action) verb meaning 'to break, to smash, to wreck (a car)', paired with 'разбивать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3931,7 +3928,7 @@
       "meanings": [
         {
           "en": "hand, arm",
-          "note": "Жать руку = to shake hands. Common feminine noun meaning 'hand; arm' in everyday Russian."
+          "note": "Жать руку = to shake hands."
         }
       ],
       "forms": {
@@ -4049,7 +4046,7 @@
       "meanings": [
         {
           "en": "brave, bold",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('brave, bold')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4209,6 +4206,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "снись",
+                "снитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4241,11 +4255,11 @@
       "meanings": [
         {
           "en": "dream",
-          "note": "Видeть сон / снится сон. Common substantive noun meaning 'dream; sleep' in everyday Russian."
+          "note": "видеть сон = to have a dream; мне снится сон"
         },
         {
           "en": "sleep",
-          "note": "Common substantive noun meaning 'dream; sleep' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4318,7 +4332,15 @@
       "related": [
         {
           "word": "сонный",
-          "gloss": "related to dream (adj.)"
+          "gloss": "sleepy"
+        },
+        {
+          "word": "сниться",
+          "gloss": "to appear in a dream"
+        },
+        {
+          "word": "спать",
+          "gloss": "to sleep"
         }
       ]
     },
@@ -4337,7 +4359,7 @@
         },
         {
           "en": "to start (doing)",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4441,7 +4463,7 @@
       "meanings": [
         {
           "en": "country, nation",
-          "note": "Common feminine noun meaning 'country' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4513,16 +4535,16 @@
       ],
       "related": [
         {
-          "word": "странно",
-          "gloss": "strange"
+          "word": "государство",
+          "gloss": "state"
         },
         {
-          "word": "странный",
-          "gloss": "strange"
+          "word": "родина",
+          "gloss": "homeland"
         },
         {
-          "word": "страница",
-          "gloss": "page"
+          "word": "мир",
+          "gloss": "world"
         }
       ]
     },
@@ -4534,11 +4556,11 @@
       "meanings": [
         {
           "en": "terrible, scary",
-          "note": "'ничего страшного'. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('terrible, scary')."
+          "note": ""
         },
         {
           "en": "nothing serious",
-          "note": "'ничего страшного'. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('terrible, scary')."
+          "note": "in 'ничего страшного'"
         }
       ],
       "forms": {
@@ -4999,7 +5021,7 @@
       "meanings": [
         {
           "en": "to hit, strike, punch",
-          "note": "Used as a perfective (single completed action) verb meaning 'to hit, strike', paired with 'ударять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5106,7 +5128,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5207,10 +5229,11 @@
       "pos": "noun",
       "gloss": "champion",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "champion",
-          "note": "Common feminine noun meaning 'champion' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5232,7 +5255,7 @@
             "cells": [
               "genitive",
               "чемпионки",
-              "чемпионк"
+              "чемпионок"
             ]
           },
           {
@@ -5246,7 +5269,7 @@
             "cells": [
               "accusative",
               "чемпионку",
-              "чемпионки"
+              "чемпионок"
             ]
           },
           {
@@ -5272,18 +5295,14 @@
           "trans": "My mother-in-law is a former national champion."
         },
         {
-          "text": "На кухне отеля всегда есть чемпионка.",
-          "trans": "In the hotel kitchen there is always champion."
+          "text": "Она олимпийская чемпионка.",
+          "trans": "She is an Olympic champion."
         }
       ],
       "related": [
         {
-          "word": "без чемпионк",
-          "gloss": "without champion"
-        },
-        {
-          "word": "наш чемпионка",
-          "gloss": "our champion"
+          "word": "чемпион",
+          "gloss": "champion"
         }
       ]
     },
@@ -5389,7 +5408,7 @@
       "meanings": [
         {
           "en": "a little, slightly",
-          "note": "Чуть-чуть = a tiny bit. Core Russian adv meaning 'a little; nearly' in everyday speech."
+          "note": "Чуть-чуть = a tiny bit."
         },
         {
           "en": "nearly, almost",
@@ -5425,10 +5444,11 @@
       "pos": "noun",
       "gloss": "chance",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "chance",
-          "note": "У меня есть шанс = I have a chance. From French 'chance' (favorable turn of the dice, from Late Latin 'cadentia')."
+          "note": "У меня есть шанс = I have a chance."
         }
       ],
       "forms": {

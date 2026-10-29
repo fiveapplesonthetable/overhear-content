@@ -198,7 +198,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "жизнь.",
@@ -447,7 +447,7 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": "ушли́",
-          "gloss": "we have gone",
+          "gloss": "left, went away",
           "gram": "plural past (perfective)"
         }
       ]
@@ -461,8 +461,8 @@
           "lemma": "вернуться",
           "pos": "verb",
           "stress": "верни́тесь",
-          "gloss": "to come back, to return",
-          "gram": "2nd person plural / imperative"
+          "gloss": "come back",
+          "gram": "imperative, 2nd person plural/polite, perfective"
         },
         {
           "t": "извините,",
@@ -678,7 +678,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "жизнь.",
@@ -927,7 +927,7 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": "ушли́",
-          "gloss": "we have gone",
+          "gloss": "left, went away",
           "gram": "plural past (perfective)"
         }
       ]
@@ -941,8 +941,8 @@
           "lemma": "вернуться",
           "pos": "verb",
           "stress": "верни́тесь",
-          "gloss": "to come back, to return",
-          "gram": "2nd person plural / imperative"
+          "gloss": "come back",
+          "gram": "imperative, 2nd person plural/polite, perfective"
         },
         {
           "t": "извините,",
@@ -1158,7 +1158,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "жизнь.",
@@ -1407,7 +1407,7 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": "ушли́",
-          "gloss": "we have gone",
+          "gloss": "left, went away",
           "gram": "plural past (perfective)"
         }
       ]
@@ -1421,8 +1421,8 @@
           "lemma": "вернуться",
           "pos": "verb",
           "stress": "верни́тесь",
-          "gloss": "to come back, to return",
-          "gram": "2nd person plural / imperative"
+          "gloss": "come back",
+          "gram": "imperative, 2nd person plural/polite, perfective"
         },
         {
           "t": "извините,",
@@ -1460,14 +1460,19 @@
   "lexicon": {
     "богатырь": {
       "lemma": "богатырь",
-      "stress": "бога́тырь",
+      "stress": "богаты́рь",
       "pos": "noun",
-      "gloss": "strong hero / bouncing boy",
+      "gloss": "bogatyr, epic hero; strapping lad",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "strong hero / bouncing boy",
-          "note": "Common masculine noun meaning 'strong hero / bouncing boy' in everyday Russian."
+          "en": "bogatyr, hero of Russian epics",
+          "note": ""
+        },
+        {
+          "en": "strapping, sturdy person; bouncing baby boy",
+          "note": "said of a big healthy baby"
         }
       ],
       "forms": {
@@ -1502,14 +1507,14 @@
           {
             "cells": [
               "accusative",
-              "богатырь",
-              "богатыри"
+              "богатыря",
+              "богатырей"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "богатырем",
+              "богатырём",
               "богатырями"
             ]
           },
@@ -1526,21 +1531,17 @@
       "examples": [
         {
           "text": "Поздравляю, папаша, настоящий богатырь.",
-          "trans": "Congratulations, daddy, a real bouncing boy."
+          "trans": "Congratulations, dad, a real bouncing boy."
         },
         {
-          "text": "На кухне отеля всегда есть богатырь.",
-          "trans": "In the hotel kitchen there is always strong hero."
+          "text": "Илья Муромец — знаменитый русский богатырь.",
+          "trans": "Ilya Muromets is a famous Russian epic hero."
         }
       ],
       "related": [
         {
-          "word": "без богатыр",
-          "gloss": "without strong hero"
-        },
-        {
-          "word": "наш богатырь",
-          "gloss": "our strong hero"
+          "word": "богатырский",
+          "gloss": "heroic, mighty"
         }
       ]
     },
@@ -1554,7 +1555,7 @@
       "meanings": [
         {
           "en": "to come back, to return",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to come back, to return', paired with 'возвращаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1866,7 +1867,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1901,7 +1902,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1983,7 +1984,7 @@
       "meanings": [
         {
           "en": "to depend on, be contingent on (with от + genitive)",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'висеть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to depend on'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'висеть')."
         }
       ],
       "forms": {
@@ -2038,6 +2039,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "завись",
+                "зависьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2066,12 +2084,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2126,6 +2142,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2145,63 +2178,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
-        }
-      ]
-    },
-    "значит": {
-      "lemma": "значит",
-      "stress": "зна́чит",
-      "pos": "adv",
-      "gloss": "so, then, that means",
-      "meanings": [
-        {
-          "en": "so, then",
-          "note": "Parenthetical. Core Russian adv meaning 'so, then, that means' in everyday speech."
-        },
-        {
-          "en": "means",
-          "note": "verb: Что это значит? = What does it mean?"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
       ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Значит, ты не придёшь?",
-          "trans": "So you're not coming?"
-        },
-        {
-          "text": "Значит, всё.",
-          "trans": "So that's it."
-        },
-        {
-          "text": "Значит, сделай так, чтобы забрал.",
-          "trans": "Then make sure he does."
-        }
-      ],
-      "related": [
-        {
-          "word": "назначить",
-          "gloss": "to set"
-        },
-        {
-          "word": "значить",
-          "gloss": "to mean"
-        },
-        {
-          "word": "назначение",
-          "gloss": "appointment"
-        }
-      ]
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -2251,11 +2239,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2335,12 +2323,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2366,7 +2354,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2442,7 +2430,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2550,7 +2538,7 @@
       "meanings": [
         {
           "en": "clowning / farce",
-          "note": "Common feminine noun meaning 'clowning / farce' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2609,21 +2597,21 @@
       "examples": [
         {
           "text": "Ну, и к чему вся эта клоунада?",
-          "trans": "Well, and what was all this clowning for?"
+          "trans": "So what was all this clowning around for?"
         },
         {
-          "text": "На кухне отеля всегда есть клоунада.",
-          "trans": "In the hotel kitchen there is always clowning."
+          "text": "Хватит клоунады!",
+          "trans": "Enough of this farce!"
         }
       ],
       "related": [
         {
-          "word": "без клоунад",
-          "gloss": "without clowning"
+          "word": "клоун",
+          "gloss": "clown"
         },
         {
-          "word": "наш клоунада",
-          "gloss": "our clowning"
+          "word": "цирк",
+          "gloss": "circus"
         }
       ]
     },
@@ -2635,7 +2623,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -2677,11 +2665,11 @@
       "meanings": [
         {
           "en": "less, fewer",
-          "note": "Comparative of мало. Core Russian adv meaning 'less, fewer, smaller' in everyday speech."
+          "note": "Comparative of мало."
         },
         {
           "en": "smaller",
-          "note": "Comparative of маленький. Core Russian adv meaning 'less, fewer, smaller' in everyday speech."
+          "note": "Comparative of маленький."
         }
       ],
       "forms": null,
@@ -2711,7 +2699,7 @@
       "meanings": [
         {
           "en": "month",
-          "note": "Уже месяц = for a month now. Common masculine noun meaning 'month' in everyday Russian."
+          "note": "Уже месяц = for a month now."
         }
       ],
       "forms": {
@@ -3105,7 +3093,20 @@
           "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "день",
+          "gloss": "day"
+        },
+        {
+          "word": "месяц",
+          "gloss": "month"
+        },
+        {
+          "word": "выходные",
+          "gloss": "weekend"
+        }
+      ]
     },
     "нет": {
       "lemma": "нет",
@@ -3230,86 +3231,6 @@
         }
       ]
     },
-    "она": {
-      "lemma": "она",
-      "stress": "она́",
-      "pos": "pron",
-      "gloss": "to her",
-      "meanings": [
-        {
-          "en": "she",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'to her', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Feminine",
-          "Plural (они)"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "она",
-              "они"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "её (неё)",
-              "их (них)"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ей (ней)",
-              "им (ним)"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "её (неё)",
-              "их (них)"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "ей (ней)",
-              "ими (ними)"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "о ней",
-              "о них"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Она нашла нас на новом месте.",
-          "trans": "She found us at the new place."
-        },
-        {
-          "text": "Всё, она сильно обиделась.",
-          "trans": "That is it, she got really offended."
-        },
-        {
-          "text": "Она на телефон не отвечает.",
-          "trans": "She is not answering her phone."
-        }
-      ],
-      "related": []
-    },
     "от": {
       "lemma": "от",
       "stress": "от",
@@ -3319,11 +3240,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3396,11 +3317,12 @@
       "stress": "папа́ша",
       "pos": "noun",
       "gloss": "daddy / pop",
-      "gender": "f",
+      "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "daddy / pop",
-          "note": "Common feminine noun meaning 'daddy / pop' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3436,7 +3358,7 @@
             "cells": [
               "accusative",
               "папашу",
-              "папаши"
+              "папаш"
             ]
           },
           {
@@ -3459,21 +3381,21 @@
       "examples": [
         {
           "text": "А ты здесь при чём? Научись считать, папаша!",
-          "trans": "What do you have to do with it? Learn to count, daddy!"
+          "trans": "What's it got to do with you? Learn to count, pops!"
         },
         {
-          "text": "И я тоже! Папа, вот заявление, я увольняюсь.",
-          "trans": "And me too! Dad, here is my letter, I am quitting."
+          "text": "Поздравляю, папаша, настоящий богатырь.",
+          "trans": "Congratulations, daddy, a real strapping boy."
         }
       ],
       "related": [
         {
-          "word": "без папаш",
-          "gloss": "without daddy"
+          "word": "папа",
+          "gloss": "dad"
         },
         {
-          "word": "наш папаша",
-          "gloss": "our daddy"
+          "word": "отец",
+          "gloss": "father"
         }
       ]
     },
@@ -3485,7 +3407,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3529,7 +3451,7 @@
       "meanings": [
         {
           "en": "to congratulate, to wish happy ...",
-          "note": "Поздравляю! = congratulations!. Used as an imperfective (ongoing/repeated action) verb meaning 'to congratulate', paired with 'поздравить'."
+          "note": "Поздравляю! = congratulations!."
         }
       ],
       "forms": {
@@ -3697,6 +3619,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получайся",
+                "получайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3724,104 +3663,6 @@
         }
       ]
     },
-    "правда": {
-      "lemma": "правда",
-      "stress": "пра́вда",
-      "pos": "noun",
-      "gloss": "truth; honestly",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "truth",
-          "note": "as a side word: Правда, всё нормально = Honestly, everything's fine"
-        },
-        {
-          "en": "honestly, really",
-          "note": "as a side word: Правда, всё нормально = Honestly, everything's fine"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "правда",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "правды",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "правде",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "правду",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "правдой",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "правде",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Правда, всё нормально.",
-          "trans": "Honestly, everything's fine."
-        },
-        {
-          "text": "Это правда.",
-          "trans": "That's true."
-        },
-        {
-          "text": "Правда, Нин, всё нормально. Скажи что-нибудь, пожалуйста.",
-          "trans": "Honestly, Nina, everything's fine. Say something, please."
-        }
-      ],
-      "related": [
-        {
-          "word": "правильно",
-          "gloss": "right"
-        },
-        {
-          "word": "правый",
-          "gloss": "right"
-        },
-        {
-          "word": "правило",
-          "gloss": "rule"
-        }
-      ]
-    },
     "просить": {
       "lemma": "просить",
       "stress": "проси́ть",
@@ -3836,7 +3677,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3940,7 +3781,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -4026,7 +3867,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4117,15 +3958,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4138,11 +3979,11 @@
       "meanings": [
         {
           "en": "term (of office)",
-          "note": "Второй срок = a second term. Common masculine noun meaning 'term, period' in everyday Russian."
+          "note": "Второй срок = a second term."
         },
         {
           "en": "period, deadline",
-          "note": "Common masculine noun meaning 'term, period' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4224,7 +4065,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4279,6 +4120,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4320,7 +4178,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4423,26 +4281,35 @@
       "meanings": [
         {
           "en": "four",
-          "note": "+ genitive singular: четыре года. Core Russian num meaning 'four' in everyday speech."
+          "note": "к четырём = by four (o'clock)"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Четыре года.",
-          "trans": "Four years."
+          "text": "Леночка, дорогая, жди меня сегодня к четырём.",
+          "trans": "Lenochka, darling, expect me today by four."
         },
         {
-          "text": "У меня четыре фломастера.",
-          "trans": "I have four markers."
-        },
-        {
-          "text": "Я уже четыре года работаю мэром.",
-          "trans": "I've been working as mayor for four years now."
+          "text": "У нас четыре повара.",
+          "trans": "We have four cooks."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "четвёртый",
+          "gloss": "fourth"
+        },
+        {
+          "word": "четырнадцать",
+          "gloss": "fourteen"
+        },
+        {
+          "word": "сорок",
+          "gloss": "forty"
+        }
+      ]
     },
     "что": {
       "lemma": "что",
@@ -4546,7 +4413,7 @@
       "meanings": [
         {
           "en": "sixteen (cardinal numeral)",
-          "note": "Core Russian num meaning 'sixteen' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

@@ -80,7 +80,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -104,7 +104,7 @@
           "pos": "noun",
           "stress": "оде́жды",
           "gloss": "clothes",
-          "gram": "nominative / accusative"
+          "gram": "genitive singular feminine"
         }
       ]
     },
@@ -156,7 +156,7 @@
           "pos": "adv",
           "stress": "серье́зно",
           "gloss": "seriously",
-          "gram": "nominative / accusative"
+          "gram": "adverb"
         }
       ]
     },
@@ -373,8 +373,8 @@
           "lemma": "закрыть",
           "pos": "verb",
           "stress": "закры́то",
-          "gloss": "to close, to shut",
-          "gram": "part pass short n sg"
+          "gloss": "closed",
+          "gram": "short passive participle, neuter singular"
         }
       ]
     },
@@ -456,7 +456,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -480,7 +480,7 @@
           "pos": "noun",
           "stress": "оде́жды",
           "gloss": "clothes",
-          "gram": "nominative / accusative"
+          "gram": "genitive singular feminine"
         }
       ]
     },
@@ -532,7 +532,7 @@
           "pos": "adv",
           "stress": "серье́зно",
           "gloss": "seriously",
-          "gram": "nominative / accusative"
+          "gram": "adverb"
         }
       ]
     },
@@ -749,8 +749,8 @@
           "lemma": "закрыть",
           "pos": "verb",
           "stress": "закры́то",
-          "gloss": "to close, to shut",
-          "gram": "part pass short n sg"
+          "gloss": "closed",
+          "gram": "short passive participle, neuter singular"
         }
       ]
     },
@@ -832,7 +832,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -856,7 +856,7 @@
           "pos": "noun",
           "stress": "оде́жды",
           "gloss": "clothes",
-          "gram": "nominative / accusative"
+          "gram": "genitive singular feminine"
         }
       ]
     },
@@ -908,7 +908,7 @@
           "pos": "adv",
           "stress": "серье́зно",
           "gloss": "seriously",
-          "gram": "nominative / accusative"
+          "gram": "adverb"
         }
       ]
     },
@@ -1125,8 +1125,8 @@
           "lemma": "закрыть",
           "pos": "verb",
           "stress": "закры́то",
-          "gloss": "to close, to shut",
-          "gram": "part pass short n sg"
+          "gloss": "closed",
+          "gram": "short passive participle, neuter singular"
         }
       ]
     },
@@ -1163,7 +1163,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1354,11 +1354,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1453,7 +1453,7 @@
       "meanings": [
         {
           "en": "to call for, to summon (a taxi, driver, police, doctor)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'звать'). Used as a perfective (single completed action) verb meaning 'to call, to summon', paired with 'вызывать'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'звать')."
         }
       ],
       "forms": {
@@ -1544,15 +1544,15 @@
       "related": [
         {
           "word": "вызывать",
-          "gloss": "to cause"
+          "gloss": "to call; to cause (impf)"
         },
         {
           "word": "звать",
           "gloss": "to call"
         },
         {
-          "word": "назвать",
-          "gloss": "to call"
+          "word": "вызов",
+          "gloss": "call; challenge"
         }
       ]
     },
@@ -1564,11 +1564,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1604,11 +1604,11 @@
       "pos": "verb",
       "gloss": "get to, reach",
       "aspect": "impf",
-      "pair": null,
+      "pair": "добраться",
       "meanings": [
         {
           "en": "get to, reach",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'get to, reach'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1663,6 +1663,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "добирайся",
+                "добирайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1681,16 +1698,12 @@
       ],
       "related": [
         {
-          "word": "убирать",
-          "gloss": "to clean up"
+          "word": "добраться",
+          "gloss": "to get to, reach"
         },
         {
-          "word": "забирать",
-          "gloss": "to take"
-        },
-        {
-          "word": "убираться",
-          "gloss": "to clear out"
+          "word": "доехать",
+          "gloss": "to reach (by vehicle)"
         }
       ]
     },
@@ -1702,7 +1715,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -1733,7 +1746,7 @@
       "meanings": [
         {
           "en": "to close, to shut",
-          "note": "A door, a shop, or a legal case. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крыть'). Used as a perfective (single completed action) verb meaning 'to close, to shut', paired with 'закрывать'."
+          "note": "A door, a shop, or a legal case. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'крыть')."
         }
       ],
       "forms": {
@@ -1844,7 +1857,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -1875,12 +1888,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -1935,6 +1946,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1954,17 +1982,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "как": {
       "lemma": "как",
@@ -2007,7 +2036,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -2050,11 +2079,11 @@
       "meanings": [
         {
           "en": "car",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         },
         {
           "en": "machine",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2140,7 +2169,7 @@
       "meanings": [
         {
           "en": "metro, subway, underground",
-          "note": "Declinable neuter noun meaning 'metro', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2155,42 +2184,42 @@
             "cells": [
               "nominative",
               "метро",
-              "—"
+              "метро"
             ]
           },
           {
             "cells": [
               "genitive",
               "метро",
-              "—"
+              "метро"
             ]
           },
           {
             "cells": [
               "dative",
               "метро",
-              "—"
+              "метро"
             ]
           },
           {
             "cells": [
               "accusative",
               "метро",
-              "—"
+              "метро"
             ]
           },
           {
             "cells": [
               "instrumental",
               "метро",
-              "—"
+              "метро"
             ]
           },
           {
             "cells": [
               "prepositional",
               "метро",
-              "—"
+              "метро"
             ]
           }
         ]
@@ -2343,7 +2372,7 @@
       "meanings": [
         {
           "en": "especially, in particular",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2425,7 +2454,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -2609,7 +2638,7 @@
       "meanings": [
         {
           "en": "seriously",
-          "note": "Серьёзно? = really?. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Серьёзно? = really?."
         }
       ],
       "forms": null,
@@ -2643,11 +2672,11 @@
       "meanings": [
         {
           "en": "funny, amusing",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('funny, ridiculous')."
+          "note": ""
         },
         {
           "en": "ridiculous, laughable",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('funny, ridiculous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2690,10 +2719,10 @@
           {
             "cells": [
               "accusative",
-              "смешной",
+              "смешной / смешного",
               "смешную",
               "смешное",
-              "смешные"
+              "смешные / смешных"
             ]
           },
           {
@@ -2747,11 +2776,11 @@
       "meanings": [
         {
           "en": "taxi",
-          "note": "Cab vehicle for hire. Common neuter noun meaning 'taxi; cab' in everyday Russian."
+          "note": "Cab vehicle for hire."
         },
         {
           "en": "cab ride",
-          "note": "Transport service. Common neuter noun meaning 'taxi; cab' in everyday Russian."
+          "note": "Transport service."
         }
       ],
       "forms": {
@@ -2766,42 +2795,42 @@
             "cells": [
               "nominative",
               "такси",
-              "—"
+              "такси"
             ]
           },
           {
             "cells": [
               "genitive",
               "такси",
-              "—"
+              "такси"
             ]
           },
           {
             "cells": [
               "dative",
               "такси",
-              "—"
+              "такси"
             ]
           },
           {
             "cells": [
               "accusative",
               "такси",
-              "—"
+              "такси"
             ]
           },
           {
             "cells": [
               "instrumental",
               "такси",
-              "—"
+              "такси"
             ]
           },
           {
             "cells": [
               "prepositional",
               "такси",
-              "—"
+              "такси"
             ]
           }
         ]
@@ -2831,7 +2860,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

@@ -167,7 +167,7 @@
           "lemma": "прощаться",
           "pos": "verb",
           "stress": "проща́йся",
-          "gloss": "say goodbye!",
+          "gloss": "say goodbye",
           "gram": "2nd person singular imperative, reflexive (imperfective)"
         },
         {
@@ -432,7 +432,7 @@
           "pos": "noun",
           "stress": "моме́нт",
           "gloss": "moment",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "мог",
@@ -484,8 +484,8 @@
           "t": "упаду,",
           "lemma": "упасть",
           "pos": "verb",
-          "stress": "упа́ду",
-          "gloss": "to fall, to drop",
+          "stress": "упаду́",
+          "gloss": "I fall",
           "gram": "1st person singular"
         },
         {
@@ -895,7 +895,7 @@
           "lemma": "прощаться",
           "pos": "verb",
           "stress": "проща́йся",
-          "gloss": "say goodbye!",
+          "gloss": "say goodbye",
           "gram": "2nd person singular imperative, reflexive (imperfective)"
         },
         {
@@ -1160,7 +1160,7 @@
           "pos": "noun",
           "stress": "моме́нт",
           "gloss": "moment",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "мог",
@@ -1212,8 +1212,8 @@
           "t": "упаду,",
           "lemma": "упасть",
           "pos": "verb",
-          "stress": "упа́ду",
-          "gloss": "to fall, to drop",
+          "stress": "упаду́",
+          "gloss": "I fall",
           "gram": "1st person singular"
         },
         {
@@ -1623,7 +1623,7 @@
           "lemma": "прощаться",
           "pos": "verb",
           "stress": "проща́йся",
-          "gloss": "say goodbye!",
+          "gloss": "say goodbye",
           "gram": "2nd person singular imperative, reflexive (imperfective)"
         },
         {
@@ -1888,7 +1888,7 @@
           "pos": "noun",
           "stress": "моме́нт",
           "gloss": "moment",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "мог",
@@ -1940,8 +1940,8 @@
           "t": "упаду,",
           "lemma": "упасть",
           "pos": "verb",
-          "stress": "упа́ду",
-          "gloss": "to fall, to drop",
+          "stress": "упаду́",
+          "gloss": "I fall",
           "gram": "1st person singular"
         },
         {
@@ -2261,11 +2261,11 @@
       "meanings": [
         {
           "en": "uh-huh, yeah",
-          "note": "Casual yes. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Casual yes."
         },
         {
           "en": "yeah, right",
-          "note": "Said ironically. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Said ironically."
         }
       ],
       "forms": null,
@@ -2539,7 +2539,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2575,7 +2575,7 @@
       "meanings": [
         {
           "en": "to lead, to guide, to drive",
-          "note": "Unidirectional verb of motion. Used as an imperfective (ongoing/repeated action) verb meaning 'to lead, to conduct (вести себя = to behave)', paired with 'повести'."
+          "note": "Unidirectional verb of motion."
         },
         {
           "en": "вести себя: to behave, to conduct oneself",
@@ -2807,11 +2807,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2866,6 +2866,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2907,7 +2924,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3011,11 +3028,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3097,84 +3114,6 @@
         {
           "word": "встретить",
           "gloss": "to meet"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3303,7 +3242,7 @@
       "meanings": [
         {
           "en": "Good Lord!, oh God!",
-          "note": "Exclamation of surprise or dismay. Core Russian interj meaning 'Good Lord!' in everyday speech."
+          "note": "Exclamation of surprise or dismay."
         }
       ],
       "forms": null,
@@ -3345,7 +3284,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3381,11 +3320,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3506,7 +3445,7 @@
         },
         {
           "en": "to hang in there",
-          "note": "Держись! = hang in there!. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hold on; to stick with'."
+          "note": "Держись! = hang in there!."
         }
       ],
       "forms": {
@@ -3609,11 +3548,11 @@
       "meanings": [
         {
           "en": "children's",
-          "note": "For or belonging to children. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
+          "note": "For or belonging to children. Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
         },
         {
           "en": "childish, babyish",
-          "note": "Детский лепет = baby talk. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
+          "note": "Детский лепет = baby talk. Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
         }
       ],
       "forms": {
@@ -3656,10 +3595,10 @@
           {
             "cells": [
               "accusative",
-              "детский",
+              "детский / детского",
               "детскую",
               "детское",
-              "детские"
+              "детские / детских"
             ]
           },
           {
@@ -3712,11 +3651,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3755,7 +3694,7 @@
       "meanings": [
         {
           "en": "fool, idiot",
-          "note": "Colloquial reproach. Common masculine noun meaning 'fool, idiot' in everyday Russian."
+          "note": "Colloquial reproach."
         }
       ],
       "forms": {
@@ -4146,7 +4085,7 @@
         },
         {
           "en": "soundly",
-          "note": "Крепко спать = sleep soundly. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Крепко спать = sleep soundly."
         }
       ],
       "forms": null,
@@ -4266,7 +4205,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4288,7 +4227,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4300,7 +4243,7 @@
       "meanings": [
         {
           "en": "any",
-          "note": "В любой момент = at any moment. Agrees in gender, number, and case with the noun it modifies ('any')."
+          "note": "В любой момент = at any moment."
         }
       ],
       "forms": {
@@ -4482,7 +4425,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4534,6 +4477,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4610,7 +4570,7 @@
       "meanings": [
         {
           "en": "reliably, securely",
-          "note": "In a reliable or secure manner. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In a reliable or secure manner."
         }
       ],
       "forms": null,
@@ -4763,7 +4723,7 @@
       "meanings": [
         {
           "en": "window",
-          "note": "Common neuter noun meaning 'window' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4843,11 +4803,11 @@
       "meanings": [
         {
           "en": "carefully, cautiously",
-          "note": "Adverb of manner. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of manner."
         },
         {
           "en": "careful!, watch out!",
-          "note": "Used as a warning. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as a warning."
         }
       ],
       "forms": null,
@@ -4872,12 +4832,12 @@
           "gloss": "careful"
         },
         {
-          "word": "состояние",
-          "gloss": "condition"
-        },
-        {
           "word": "осторожность",
           "gloss": "caution"
+        },
+        {
+          "word": "осторожнее",
+          "gloss": "more carefully"
         }
       ]
     },
@@ -4925,11 +4885,11 @@
       "meanings": [
         {
           "en": "to come up to, to approach",
-          "note": "К + dative. Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": "К + dative."
         },
         {
           "en": "to suit, to fit",
-          "note": "Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5009,10 +4969,6 @@
           "trans": "Come here to me!"
         },
         {
-          "text": "Не подходите к моему ребёнку!",
-          "trans": "Keep away from my child!"
-        },
-        {
           "text": "Нам не нужна ваша приставка! Ещё раз подойдёте к моему ребёнку — пожалеете!",
           "trans": "We don't need your console! Come near my child again and you'll be sorry!"
         }
@@ -5040,7 +4996,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -5111,13 +5067,13 @@
       "lemma": "прощаться",
       "stress": "проща́ться",
       "pos": "verb",
-      "gloss": "say goodbye!",
+      "gloss": "to say goodbye",
       "aspect": "impf",
-      "pair": null,
+      "pair": "попрощаться",
       "meanings": [
         {
-          "en": "say goodbye!",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'say goodbye!'."
+          "en": "to say goodbye, take leave",
+          "note": "прощаться с кем-то"
         }
       ],
       "forms": {
@@ -5172,26 +5128,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "прощайся",
+                "прощайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и прощаться вовремя.",
-          "trans": "We need to do everything and say goodbye! on time."
+          "text": "Стёпка, прощайся с дядей, мы уходим.",
+          "trans": "Styopka, say goodbye to your uncle, we're leaving."
         },
         {
-          "text": "На нашей кухне все умеют прощаться.",
-          "trans": "In our kitchen everyone knows how to say goodbye!."
+          "text": "Мы прощаемся со своим настоящим.",
+          "trans": "We are saying goodbye to our present."
         }
       ],
       "related": [
         {
           "word": "попрощаться",
-          "gloss": "to say goodbye! (prefixed perfective)"
+          "gloss": "to say goodbye (pf)"
         },
         {
-          "word": "не прощаться",
-          "gloss": "not to say goodbye! (negated infinitive)"
+          "word": "прощание",
+          "gloss": "farewell"
+        },
+        {
+          "word": "прощай",
+          "gloss": "farewell"
         }
       ]
     },
@@ -5203,11 +5180,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5238,12 +5215,12 @@
       "stress": "пря́тки",
       "pos": "noun",
       "gloss": "hide-and-seek",
-      "gender": "f",
+      "number": "pl",
       "animacy": "inan",
       "meanings": [
         {
           "en": "hide-and-seek",
-          "note": "Declinable feminine noun meaning 'hide-and-seek', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -5257,43 +5234,43 @@
           {
             "cells": [
               "nominative",
-              "прятки",
-              "пряткиы"
+              "—",
+              "прятки"
             ]
           },
           {
             "cells": [
               "genitive",
-              "пряткиа",
-              "пряткиов"
+              "—",
+              "пряток"
             ]
           },
           {
             "cells": [
               "dative",
-              "пряткиу",
-              "пряткиам"
+              "—",
+              "пряткам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "прятки",
-              "пряткиы"
+              "—",
+              "прятки"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "пряткиом",
-              "пряткиами"
+              "—",
+              "прятками"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "пряткие",
-              "пряткиах"
+              "—",
+              "прятках"
             ]
           }
         ]
@@ -5302,11 +5279,11 @@
       "examples": [
         {
           "text": "Давай играть в прятки!",
-          "trans": "Let us play hide-and-seek!"
+          "trans": "Let's play hide-and-seek!"
         },
         {
-          "text": "Давай в прятки!",
-          "trans": "Let us play hide and seek!"
+          "text": "Ага, ты что, в прятки со мной играешь?",
+          "trans": "What, are you playing hide-and-seek with me?"
         }
       ],
       "related": [
@@ -5372,7 +5349,7 @@
       "meanings": [
         {
           "en": "garden, orchard, public park",
-          "note": "Locative в саду. Common masculine noun meaning 'garden, public park' in everyday Russian."
+          "note": "Locative в саду."
         }
       ],
       "forms": {
@@ -5574,11 +5551,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -5697,42 +5674,42 @@
             "cells": [
               "nominative",
               "совесть",
-              "—"
+              "совести"
             ]
           },
           {
             "cells": [
               "genitive",
               "совести",
-              "—"
+              "совестей"
             ]
           },
           {
             "cells": [
               "dative",
               "совести",
-              "—"
+              "совестям"
             ]
           },
           {
             "cells": [
               "accusative",
               "совесть",
-              "—"
+              "совести"
             ]
           },
           {
             "cells": [
               "instrumental",
               "совестью",
-              "—"
+              "совестями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "совести",
-              "—"
+              "совестях"
             ]
           }
         ]
@@ -5766,7 +5743,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6048,7 +6025,7 @@
       "meanings": [
         {
           "en": "to fall down, to drop",
-          "note": "Perfective of падать. Prefix 'у-' marks departure, removal, or successful completion (stem 'пасть'). Used as a perfective (single completed action) verb meaning 'to fall, to drop', paired with 'падать'."
+          "note": "Perfective of падать. Prefix 'у-' marks departure, removal, or successful completion (stem 'пасть')."
         }
       ],
       "forms": {
@@ -6153,7 +6130,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6208,6 +6185,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6247,7 +6241,7 @@
         },
         {
           "en": "although, even though (as conjunction)",
-          "note": "Core Russian part meaning 'even if, at least (with бы); although' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

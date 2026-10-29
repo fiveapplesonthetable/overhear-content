@@ -499,7 +499,7 @@
           "lemma": "конец",
           "pos": "noun",
           "stress": "конца́",
-          "gloss": "ending",
+          "gloss": "end",
           "gram": "masculine singular, genitive (after не будет)"
         }
       ]
@@ -1163,7 +1163,7 @@
           "lemma": "конец",
           "pos": "noun",
           "stress": "конца́",
-          "gloss": "ending",
+          "gloss": "end",
           "gram": "masculine singular, genitive (after не будет)"
         }
       ]
@@ -1827,7 +1827,7 @@
           "lemma": "конец",
           "pos": "noun",
           "stress": "конца́",
-          "gloss": "ending",
+          "gloss": "end",
           "gram": "masculine singular, genitive (after не будет)"
         }
       ]
@@ -2014,16 +2014,20 @@
       "lemma": "акция",
       "stress": "а́кция",
       "pos": "noun",
-      "gloss": "protest action; share, stock",
+      "gloss": "promotion, campaign; protest action; share",
       "gender": "f",
       "meanings": [
         {
-          "en": "protest action, campaign",
-          "note": "Organized public event or campaign. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'protest action; share, stock' in everyday Russian."
+          "en": "promotion, special offer, campaign",
+          "note": "по акции = on promotion"
+        },
+        {
+          "en": "protest action, rally",
+          "note": ""
         },
         {
           "en": "share, stock",
-          "note": "Unit of ownership in a company. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'protest action; share, stock' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2168,16 +2172,16 @@
       ],
       "related": [
         {
-          "word": "брать",
-          "gloss": "to take"
+          "word": "брат",
+          "gloss": "brother"
         },
         {
-          "word": "забрать",
-          "gloss": "to take back"
+          "word": "братцы",
+          "gloss": "guys, folks (address)"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "братишка",
+          "gloss": "little brother; bro"
         }
       ]
     },
@@ -2191,11 +2195,11 @@
       "meanings": [
         {
           "en": "to throw",
-          "note": "Used as a perfective (single completed action) verb meaning 'to throw; to leave (someone)', paired with 'бросать'."
+          "note": ""
         },
         {
           "en": "to leave, to walk out on (someone)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to throw; to leave (someone)', paired with 'бросать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2454,7 +2458,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2557,7 +2561,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2674,7 +2678,7 @@
       "meanings": [
         {
           "en": "town, city",
-          "note": "Common masculine noun meaning 'town, city' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2751,49 +2755,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2804,11 +2765,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2899,15 +2864,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2923,7 +2888,7 @@
         },
         {
           "en": "long ago",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2952,11 +2917,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2998,7 +2963,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3047,7 +3012,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -3077,7 +3042,7 @@
       "meanings": [
         {
           "en": "fight, scuffle, physical altercation",
-          "note": "Physical combat or brawl. Common feminine noun meaning 'fight, brawl, scuffle' in everyday Russian."
+          "note": "Physical combat or brawl."
         }
       ],
       "forms": {
@@ -3197,7 +3162,7 @@
       "meanings": [
         {
           "en": "to finish, to conclude",
-          "note": "To bring an activity to an end. Used as an imperfective (ongoing/repeated action) verb meaning 'to finish, to conclude', paired with 'закончить'."
+          "note": "To bring an activity to an end."
         }
       ],
       "forms": {
@@ -3415,7 +3380,7 @@
       "meanings": [
         {
           "en": "to protect, to defend",
-          "note": "Used as a perfective (single completed action) verb meaning 'to protect, to defend', paired with 'защищать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3633,7 +3598,7 @@
         },
         {
           "en": "historic",
-          "note": "Important in history. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('historical, historic')."
+          "note": "Important in history."
         }
       ],
       "forms": {
@@ -3676,10 +3641,10 @@
           {
             "cells": [
               "accusative",
-              "исторический",
+              "исторический / исторического",
               "историческую",
               "историческое",
-              "исторические"
+              "исторические / исторических"
             ]
           },
           {
@@ -3741,7 +3706,7 @@
         },
         {
           "en": "'Конец связи' = over and out",
-          "note": "Radio and phone phrase. Common masculine noun meaning 'end' in everyday Russian."
+          "note": "Radio and phone phrase."
         }
       ],
       "forms": {
@@ -3918,7 +3883,7 @@
       "meanings": [
         {
           "en": "to begin, to start, to break out (intransitive)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to begin, to start, to break out', paired with 'начинаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3970,6 +3935,23 @@
                 "началась",
                 "началось",
                 "начались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "начнись",
+                "начнитесь"
               ]
             }
           ]
@@ -4132,7 +4114,7 @@
       "meanings": [
         {
           "en": "dangerous, hazardous",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('dangerous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4175,10 +4157,10 @@
           {
             "cells": [
               "accusative",
-              "опасный",
+              "опасный / опасного",
               "опасную",
               "опасное",
-              "опасные"
+              "опасные / опасных"
             ]
           },
           {
@@ -4245,7 +4227,7 @@
         },
         {
           "en": "to stay",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to remain, to be left', paired with 'оставаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4430,7 +4412,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4576,7 +4558,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4670,11 +4652,11 @@
       "meanings": [
         {
           "en": "simple, easy",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": "Простые люди = ordinary people."
         },
         {
           "en": "ordinary, common",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4768,11 +4750,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4806,11 +4788,11 @@
       "meanings": [
         {
           "en": "nearby, close by",
-          "note": "Adverb. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Adverb."
         },
         {
           "en": "next to, beside",
-          "note": "Рядом с + instrumental. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Рядом с + instrumental."
         }
       ],
       "forms": null,
@@ -4831,8 +4813,16 @@
       ],
       "related": [
         {
-          "word": "порядок",
-          "gloss": "order"
+          "word": "около",
+          "gloss": "near, beside"
+        },
+        {
+          "word": "поблизости",
+          "gloss": "nearby"
+        },
+        {
+          "word": "рядом с",
+          "gloss": "next to (+ instr.)"
         }
       ]
     },
@@ -4883,7 +4873,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -5122,11 +5112,11 @@
       "meanings": [
         {
           "en": "serious, earnest",
-          "note": "Серьёзный человек. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
+          "note": ""
         },
         {
           "en": "important, weighty, influential",
-          "note": "Серьёзный человек. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
+          "note": "серьёзный человек = an important man"
         }
       ],
       "forms": {
@@ -5169,10 +5159,10 @@
           {
             "cells": [
               "accusative",
-              "серьёзный",
+              "серьёзный / серьёзного",
               "серьёзную",
               "серьёзное",
-              "серьёзные"
+              "серьёзные / серьёзных"
             ]
           },
           {
@@ -5256,7 +5246,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -5264,7 +5254,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -5377,7 +5367,7 @@
       "meanings": [
         {
           "en": "to save, to rescue from danger",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to save, to rescue', paired with 'спасти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5485,7 +5475,7 @@
       "meanings": [
         {
           "en": "wall",
-          "note": "Of a room, building or fortress. Common feminine noun meaning 'wall' in everyday Russian."
+          "note": "Of a room, building or fortress."
         }
       ],
       "forms": {
@@ -5571,7 +5561,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -5675,7 +5665,7 @@
       "meanings": [
         {
           "en": "student",
-          "note": "At a university or college. Common masculine noun meaning 'student' in everyday Russian."
+          "note": "At a university or college."
         }
       ],
       "forms": {
@@ -5760,7 +5750,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -5915,7 +5905,7 @@
       "meanings": [
         {
           "en": "to leave, to go away",
-          "note": "By car, train etc. Prefix 'у-' marks departure, removal, or successful completion (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to leave, to go away (by vehicle)', paired with 'уезжать'."
+          "note": "By car, train etc. Prefix 'у-' marks departure, removal, or successful completion (stem 'ехать')."
         }
       ],
       "forms": {
@@ -6040,7 +6030,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6145,7 +6135,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6258,7 +6248,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6310,6 +6300,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

@@ -9,10 +9,10 @@
         {
           "t": "Здравствуйте.",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -34,7 +34,7 @@
           "pos": "name",
           "stress": null,
           "gloss": "Anisimov",
-          "gram": "genitive plural"
+          "gram": "surname, nominative"
         }
       ]
     },
@@ -145,8 +145,8 @@
           "lemma": "обидеть",
           "pos": "verb",
           "stress": "оби́дишь",
-          "gloss": "to offend, to hurt",
-          "gram": "2nd person singular"
+          "gloss": "(if you) hurt, offend",
+          "gram": "2nd person singular future, perfective"
         },
         {
           "t": "Настю,",
@@ -186,7 +186,7 @@
           "pos": "noun",
           "stress": "колбасу́",
           "gloss": "sausage",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "сделаю.",
@@ -391,10 +391,10 @@
         {
           "t": "Здравствуйте.",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -416,7 +416,7 @@
           "pos": "name",
           "stress": null,
           "gloss": "Anisimov",
-          "gram": "genitive plural"
+          "gram": "surname, nominative"
         }
       ]
     },
@@ -527,8 +527,8 @@
           "lemma": "обидеть",
           "pos": "verb",
           "stress": "оби́дишь",
-          "gloss": "to offend, to hurt",
-          "gram": "2nd person singular"
+          "gloss": "(if you) hurt, offend",
+          "gram": "2nd person singular future, perfective"
         },
         {
           "t": "Настю,",
@@ -568,7 +568,7 @@
           "pos": "noun",
           "stress": "колбасу́",
           "gloss": "sausage",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "сделаю.",
@@ -773,10 +773,10 @@
         {
           "t": "Здравствуйте.",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -798,7 +798,7 @@
           "pos": "name",
           "stress": null,
           "gloss": "Anisimov",
-          "gram": "genitive plural"
+          "gram": "surname, nominative"
         }
       ]
     },
@@ -909,8 +909,8 @@
           "lemma": "обидеть",
           "pos": "verb",
           "stress": "оби́дишь",
-          "gloss": "to offend, to hurt",
-          "gram": "2nd person singular"
+          "gloss": "(if you) hurt, offend",
+          "gram": "2nd person singular future, perfective"
         },
         {
           "t": "Настю,",
@@ -950,7 +950,7 @@
           "pos": "noun",
           "stress": "колбасу́",
           "gloss": "sausage",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "сделаю.",
@@ -1308,7 +1308,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1342,11 +1342,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1379,70 +1379,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -1535,42 +1482,42 @@
             "cells": [
               "nominative",
               "интернет",
-              "—"
+              "интернеты"
             ]
           },
           {
             "cells": [
               "genitive",
               "интернета",
-              "—"
+              "интернетов"
             ]
           },
           {
             "cells": [
               "dative",
               "интернету",
-              "—"
+              "интернетам"
             ]
           },
           {
             "cells": [
               "accusative",
               "интернет",
-              "—"
+              "интернеты"
             ]
           },
           {
             "cells": [
               "instrumental",
               "интернетом",
-              "—"
+              "интернетами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "интернете",
-              "—"
+              "интернетах"
             ]
           }
         ]
@@ -1601,7 +1548,7 @@
       "meanings": [
         {
           "en": "sausage",
-          "note": "Declinable feminine noun meaning 'sausage', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -1806,7 +1753,7 @@
       "meanings": [
         {
           "en": "wrongly, incorrectly",
-          "note": "In a mistaken or improper manner. Negative prefix 'не-' ('un-, non-, not') (stem 'правильно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In a mistaken or improper manner. Negative prefix 'не-' ('un-, non-, not') (stem 'правильно')."
         }
       ],
       "forms": null,
@@ -1850,7 +1797,7 @@
       "meanings": [
         {
           "en": "to offend, to hurt someone's feelings",
-          "note": "Used as a perfective (single completed action) verb meaning 'to offend, to hurt', paired with 'обижать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2040,7 +1987,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -2145,7 +2092,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -2249,11 +2196,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2325,8 +2272,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -2340,7 +2295,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -2539,7 +2494,7 @@
       "meanings": [
         {
           "en": "to fix, to repair",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to fix, to repair', paired with 'починить'."
+          "note": ""
         }
       ],
       "forms": {

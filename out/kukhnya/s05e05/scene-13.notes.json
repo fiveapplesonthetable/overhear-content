@@ -95,7 +95,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -303,7 +303,7 @@
           "lemma": "второй",
           "pos": "adj",
           "stress": "втора́я",
-          "gloss": "second (afternoon)",
+          "gloss": "second",
           "gram": "nominative singular, feminine"
         },
         {
@@ -360,10 +360,10 @@
         },
         {
           "t": "стоит.",
-          "lemma": "стоять",
+          "lemma": "стоить",
           "pos": "verb",
-          "stress": "стои́т",
-          "gloss": "is parked (stands)",
+          "stress": "сто́ит",
+          "gloss": "don't mention it (not worth it)",
           "gram": "present, 3rd person singular, imperfective"
         }
       ]
@@ -377,7 +377,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -542,7 +542,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "поговорю.",
@@ -647,7 +647,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -855,7 +855,7 @@
           "lemma": "второй",
           "pos": "adj",
           "stress": "втора́я",
-          "gloss": "second (afternoon)",
+          "gloss": "second",
           "gram": "nominative singular, feminine"
         },
         {
@@ -912,10 +912,10 @@
         },
         {
           "t": "стоит.",
-          "lemma": "стоять",
+          "lemma": "стоить",
           "pos": "verb",
-          "stress": "стои́т",
-          "gloss": "is parked (stands)",
+          "stress": "сто́ит",
+          "gloss": "don't mention it (not worth it)",
           "gram": "present, 3rd person singular, imperfective"
         }
       ]
@@ -929,7 +929,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1094,7 +1094,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "поговорю.",
@@ -1199,7 +1199,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1407,7 +1407,7 @@
           "lemma": "второй",
           "pos": "adj",
           "stress": "втора́я",
-          "gloss": "second (afternoon)",
+          "gloss": "second",
           "gram": "nominative singular, feminine"
         },
         {
@@ -1464,10 +1464,10 @@
         },
         {
           "t": "стоит.",
-          "lemma": "стоять",
+          "lemma": "стоить",
           "pos": "verb",
-          "stress": "стои́т",
-          "gloss": "is parked (stands)",
+          "stress": "сто́ит",
+          "gloss": "don't mention it (not worth it)",
           "gram": "present, 3rd person singular, imperfective"
         }
       ]
@@ -1481,7 +1481,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1646,7 +1646,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "поговорю.",
@@ -1875,15 +1875,15 @@
     },
     "воспринять": {
       "lemma": "воспринять",
-      "stress": "воспри́нять",
+      "stress": "восприня́ть",
       "pos": "verb",
-      "gloss": "to take / perceive",
+      "gloss": "to perceive, take",
       "aspect": "pf",
-      "pair": null,
+      "pair": "воспринимать",
       "meanings": [
         {
-          "en": "to take / perceive",
-          "note": "Used as a perfective (single completed action) verb meaning 'to take / perceive'."
+          "en": "to perceive, to take (in a certain way)",
+          "note": ""
         }
       ],
       "forms": {
@@ -1897,22 +1897,22 @@
           {
             "cells": [
               "1st",
-              "восприняю",
-              "восприняем"
+              "восприму",
+              "воспримем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "восприняешь",
-              "восприняете"
+              "воспримешь",
+              "воспримете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "восприняет",
-              "восприняют"
+              "воспримет",
+              "воспримут"
             ]
           }
         ]
@@ -1938,6 +1938,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "восприми",
+                "воспримите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1946,92 +1963,18 @@
           "trans": "She might take this as an insult."
         },
         {
-          "text": "Надо всё сделать и воспринять вовремя.",
-          "trans": "We need to do everything and to take on time."
+          "text": "Он спокойно воспринял новость.",
+          "trans": "He took the news calmly."
         }
       ],
       "related": [
         {
-          "word": "не воспринять",
-          "gloss": "not to to take (negated infinitive)"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
+          "word": "воспринимать",
+          "gloss": "to perceive (impf)"
         },
         {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
+          "word": "восприятие",
+          "gloss": "perception"
         }
       ]
     },
@@ -2072,7 +2015,7 @@
       "meanings": [
         {
           "en": "second",
-          "note": "Ordinal number. Agrees in gender, number, and case with the noun it modifies ('second')."
+          "note": "Ordinal number."
         }
       ],
       "forms": {
@@ -2158,16 +2101,20 @@
       ],
       "related": [
         {
-          "word": "повторить",
-          "gloss": "to repeat"
+          "word": "два",
+          "gloss": "two"
         },
         {
-          "word": "повторять",
-          "gloss": "to repeat"
+          "word": "во-вторых",
+          "gloss": "secondly"
         },
         {
-          "word": "повториться",
-          "gloss": "to recur"
+          "word": "вторник",
+          "gloss": "Tuesday"
+        },
+        {
+          "word": "первый",
+          "gloss": "first"
         }
       ]
     },
@@ -2379,7 +2326,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2549,7 +2496,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -2585,7 +2532,7 @@
       "meanings": [
         {
           "en": "to call (someone over)",
-          "note": "Звать на помощь = to call for help. Used as an imperfective (ongoing/repeated action) verb meaning 'to call', paired with 'позвать'."
+          "note": "Звать на помощь = to call for help."
         },
         {
           "en": "to be called (a name)",
@@ -2731,12 +2678,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2791,6 +2736,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2810,17 +2772,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "как": {
       "lemma": "как",
@@ -2855,44 +2818,6 @@
       ],
       "related": []
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -2903,7 +2828,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2955,6 +2880,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3228,7 +3170,7 @@
       "meanings": [
         {
           "en": "insult",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'insult' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3296,12 +3238,12 @@
       ],
       "related": [
         {
-          "word": "без оскорблени",
-          "gloss": "without insult"
+          "word": "оскорбить",
+          "gloss": "to insult"
         },
         {
-          "word": "наш оскорбление",
-          "gloss": "our insult"
+          "word": "обида",
+          "gloss": "offence, hurt"
         }
       ]
     },
@@ -3310,8 +3252,6 @@
       "stress": "побы́ть",
       "pos": "verb",
       "gloss": "to stay for a while, to be (briefly)",
-      "aspect": "pf",
-      "pair": "быть",
       "meanings": [
         {
           "en": "to be, to spend a little time",
@@ -3408,7 +3348,8 @@
           "word": "быть",
           "gloss": "to be"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "поговорить": {
       "lemma": "поговорить",
@@ -3421,7 +3362,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -3524,111 +3465,6 @@
         }
       ]
     },
-    "подождать": {
-      "lemma": "подождать",
-      "stress": "подожда́ть",
-      "pos": "verb",
-      "gloss": "to wait (a while)",
-      "aspect": "pf",
-      "pair": "ждать",
-      "meanings": [
-        {
-          "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "подожду",
-              "подождём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "подождёшь",
-              "подождёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "подождёт",
-              "подождут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "подождал",
-                "подождала",
-                "подождало",
-                "подождали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "подожди",
-                "подождите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Подожди, я сейчас.",
-          "trans": "Wait, I'll be right there."
-        },
-        {
-          "text": "Подождите минуту.",
-          "trans": "Wait a minute."
-        },
-        {
-          "text": "Подожди, Нин, ты не поняла. Это же стыдно!",
-          "trans": "Wait, Nina, you don't get it. It's shameful!"
-        }
-      ],
-      "related": [
-        {
-          "word": "ждать",
-          "gloss": "to wait"
-        }
-      ]
-    },
     "познакомить": {
       "lemma": "познакомить",
       "stress": "познако́мить",
@@ -3639,7 +3475,7 @@
       "meanings": [
         {
           "en": "to introduce (someone to someone)",
-          "note": "+ accusative + 'с' + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомить'). Used as a perfective (single completed action) verb meaning 'to introduce', paired with 'знакомить'."
+          "note": "+ accusative + 'с' + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомить')."
         }
       ],
       "forms": {
@@ -3846,22 +3682,26 @@
           "trans": "Now let's go through everything in order."
         },
         {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
+          "text": "Не бойся, всё в порядке!",
+          "trans": "Don't worry, everything's fine!"
         },
         {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
+          "text": "Да, я наведу здесь железный порядок.",
+          "trans": "Yes, I'll establish iron order here."
         }
       ],
       "related": [
         {
-          "word": "рядом",
-          "gloss": "nearby"
+          "word": "в порядке",
+          "gloss": "fine, OK"
         },
         {
-          "word": "порядочность",
-          "gloss": "decency"
+          "word": "порядочный",
+          "gloss": "decent"
+        },
+        {
+          "word": "беспорядок",
+          "gloss": "mess, disorder"
         }
       ]
     },
@@ -3889,15 +3729,15 @@
           {
             "cells": [
               "1st",
-              "—",
-              "—"
+              "придусь",
+              "придёмся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "—",
-              "—"
+              "придёшься",
+              "придётесь"
             ]
           },
           {
@@ -3927,6 +3767,23 @@
                 "пришлась",
                 "пришлось",
                 "пришлись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "придись",
+                "придитесь"
               ]
             }
           ]
@@ -3967,7 +3824,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4276,7 +4133,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -4456,21 +4313,21 @@
         }
       ]
     },
-    "стоять": {
-      "lemma": "стоять",
-      "stress": "стоя́ть",
+    "стоить": {
+      "lemma": "стоить",
+      "stress": "сто́ить",
       "pos": "verb",
-      "gloss": "to stand",
+      "gloss": "to cost; to be worth",
       "aspect": "impf",
-      "pair": "постоять",
+      "pair": null,
       "meanings": [
         {
-          "en": "to stand",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "en": "to cost",
+          "note": "Сколько стоит? = how much is it?."
         },
         {
-          "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "en": "to be worth",
+          "note": ""
         }
       ],
       "forms": {
@@ -4518,10 +4375,10 @@
             {
               "cells": [
                 "past",
-                "стоял",
-                "стояла",
-                "стояло",
-                "стояли"
+                "стоил",
+                "стоила",
+                "стоило",
+                "стоили"
               ]
             }
           ]
@@ -4546,24 +4403,19 @@
       ],
       "examples": [
         {
-          "text": "Стоять!",
-          "trans": "Freeze!"
+          "text": "Сколько это стоит?",
+          "trans": "How much does it cost?"
         },
         {
-          "text": "Я стою здесь.",
-          "trans": "I'm standing here."
+          "text": "Приставка стоит пять тысяч.",
+          "trans": "The console costs five thousand."
         },
         {
-          "text": "То есть просто стоять и смотреть?",
-          "trans": "So we just stand and watch?"
+          "text": "А сколько стоит приставка?",
+          "trans": "And how much does the console cost?"
         }
       ],
-      "related": [
-        {
-          "word": "постоять",
-          "gloss": "to stand for a while"
-        }
-      ]
+      "related": []
     },
     "твой": {
       "lemma": "твой",
@@ -4676,67 +4528,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -4824,48 +4632,6 @@
         {
           "word": "тебе",
           "gloss": "to you (dative)"
-        }
-      ]
-    },
-    "хорошо": {
-      "lemma": "хорошо",
-      "stress": "хорошо́",
-      "pos": "adv",
-      "gloss": "well, good",
-      "meanings": [
-        {
-          "en": "well",
-          "note": "How something is done. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "good, fine",
-          "note": "As an answer. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Хорошо!",
-          "trans": "Good!"
-        },
-        {
-          "text": "Всё хорошо.",
-          "trans": "Everything's fine."
-        },
-        {
-          "text": "Хорошо! Там всё нормально.",
-          "trans": "Good! Everything's fine over there."
-        }
-      ],
-      "related": [
-        {
-          "word": "хороший",
-          "gloss": "good"
-        },
-        {
-          "word": "нехорошо",
-          "gloss": "not nice"
         }
       ]
     },

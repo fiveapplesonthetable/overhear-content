@@ -353,7 +353,7 @@
           "lemma": "хватать",
           "pos": "verb",
           "stress": "хвата́ет",
-          "gloss": "grabs",
+          "gloss": "grabs; is enough (не хватает = is missing, there isn't enough)",
           "gram": "present, 3rd person singular, imperfective"
         }
       ]
@@ -398,9 +398,9 @@
           "t": "троих.",
           "lemma": "трое",
           "pos": "num",
-          "stress": "тро́их",
+          "stress": "трои́х",
           "gloss": "three (people)",
-          "gram": "nominative / accusative"
+          "gram": "accusative"
         }
       ]
     },
@@ -785,7 +785,7 @@
           "lemma": "хватать",
           "pos": "verb",
           "stress": "хвата́ет",
-          "gloss": "grabs",
+          "gloss": "grabs; is enough (не хватает = is missing, there isn't enough)",
           "gram": "present, 3rd person singular, imperfective"
         }
       ]
@@ -830,9 +830,9 @@
           "t": "троих.",
           "lemma": "трое",
           "pos": "num",
-          "stress": "тро́их",
+          "stress": "трои́х",
           "gloss": "three (people)",
-          "gram": "nominative / accusative"
+          "gram": "accusative"
         }
       ]
     },
@@ -1217,7 +1217,7 @@
           "lemma": "хватать",
           "pos": "verb",
           "stress": "хвата́ет",
-          "gloss": "grabs",
+          "gloss": "grabs; is enough (не хватает = is missing, there isn't enough)",
           "gram": "present, 3rd person singular, imperfective"
         }
       ]
@@ -1262,9 +1262,9 @@
           "t": "троих.",
           "lemma": "трое",
           "pos": "num",
-          "stress": "тро́их",
+          "stress": "трои́х",
           "gloss": "three (people)",
-          "gram": "nominative / accusative"
+          "gram": "accusative"
         }
       ]
     },
@@ -1673,7 +1673,7 @@
       "meanings": [
         {
           "en": "together",
-          "note": "Core Russian adv meaning 'together' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1824,7 +1824,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1973,7 +1973,7 @@
       "meanings": [
         {
           "en": "to live",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to live'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2028,6 +2028,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "живи",
+                "живите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2047,7 +2064,7 @@
       "related": [
         {
           "word": "житься",
-          "gloss": "to live"
+          "gloss": "to get on, for life to go (impersonal)"
         },
         {
           "word": "дожить",
@@ -2055,7 +2072,7 @@
         },
         {
           "word": "пережить",
-          "gloss": "to survive"
+          "gloss": "to survive, to live through"
         }
       ]
     },
@@ -2224,7 +2241,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2415,7 +2432,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement."
         }
       ],
       "forms": null,
@@ -2451,7 +2468,7 @@
       "meanings": [
         {
           "en": "to stay, to remain",
-          "note": "Остаётся у нас = stays with us. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to stay, to remain', paired with 'остаться'."
+          "note": "Остаётся у нас = stays with us."
         }
       ],
       "forms": {
@@ -2564,7 +2581,7 @@
       "meanings": [
         {
           "en": "to move house, to relocate",
-          "note": "Переехать в Москву. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to move (to a new home or city)', paired with 'переезжать'."
+          "note": "Переехать в Москву. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'ехать')."
         }
       ],
       "forms": {
@@ -2619,23 +2636,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "переедь",
-                "переедьте"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -2677,7 +2677,7 @@
       "meanings": [
         {
           "en": "to divide up, to split, to share between",
-          "note": "Share out between people. Used as a perfective (single completed action) verb meaning 'to divide, to split, to share out', paired with 'делить'."
+          "note": "Share out between people."
         }
       ],
       "forms": {
@@ -2780,12 +2780,12 @@
       "lemma": "подъезд",
       "stress": "подъе́зд",
       "pos": "noun",
-      "gloss": "entrance, doorway",
+      "gloss": "entrance, stairwell (of an apartment block)",
       "gender": "m",
       "meanings": [
         {
           "en": "entrance, doorway",
-          "note": "Entrance to a residential building. Common masculine noun meaning 'entrance, doorway' in everyday Russian."
+          "note": "Entrance to a residential building."
         }
       ],
       "forms": {
@@ -2844,21 +2844,29 @@
       "examples": [
         {
           "text": "Они стояли около подъезда.",
-          "trans": "They were standing near the entrance."
+          "trans": "They were standing by the entrance to the building."
         },
         {
           "text": "Просто постояли у подъезда и быстро уехали.",
-          "trans": "They just stood near the entrance and quickly left."
+          "trans": "They just stood by the entrance for a bit and quickly left."
         },
         {
-          "text": "Переехал жить в подъезд.",
-          "trans": "Moved to live in the hallway."
+          "text": "Ты сегодня в подъезде чисто подмёл?",
+          "trans": "Did you sweep the stairwell clean today?"
         }
       ],
       "related": [
         {
-          "word": "съезд",
-          "gloss": "convention"
+          "word": "вход",
+          "gloss": "entrance"
+        },
+        {
+          "word": "лестница",
+          "gloss": "staircase"
+        },
+        {
+          "word": "этаж",
+          "gloss": "floor, storey"
         }
       ]
     },
@@ -2905,7 +2913,7 @@
       "meanings": [
         {
           "en": "to try hard, do one's best",
-          "note": "Followed by infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to try, make an effort', paired with 'стараться'."
+          "note": "Followed by infinitive."
         }
       ],
       "forms": {
@@ -3037,7 +3045,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3068,7 +3076,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -3362,12 +3370,16 @@
       ],
       "related": [
         {
-          "word": "так",
-          "gloss": "so, thus"
+          "word": "три",
+          "gloss": "three"
         },
         {
-          "word": "уже",
-          "gloss": "already"
+          "word": "двое",
+          "gloss": "two (people)"
+        },
+        {
+          "word": "втроём",
+          "gloss": "the three of us/them together"
         }
       ]
     },
@@ -3471,7 +3483,7 @@
         },
         {
           "en": "to be enough",
-          "note": "Impersonal, with the genitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to grab, to seize', paired with 'схватить'."
+          "note": "Impersonal, with the genitive."
         }
       ],
       "forms": {
@@ -3763,7 +3775,7 @@
       "meanings": [
         {
           "en": "rent, utility bill",
-          "note": "Common feminine noun meaning 'rent, utility bill' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3778,42 +3790,42 @@
             "cells": [
               "nominative",
               "квартплата",
-              "—"
+              "квартплаты"
             ]
           },
           {
             "cells": [
               "genitive",
               "квартплаты",
-              "—"
+              "квартплат"
             ]
           },
           {
             "cells": [
               "dative",
               "квартплате",
-              "—"
+              "квартплатам"
             ]
           },
           {
             "cells": [
               "accusative",
               "квартплату",
-              "—"
+              "квартплаты"
             ]
           },
           {
             "cells": [
               "instrumental",
               "квартплатой",
-              "—"
+              "квартплатами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "квартплате",
-              "—"
+              "квартплатах"
             ]
           }
         ]

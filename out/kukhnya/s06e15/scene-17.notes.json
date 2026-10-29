@@ -24,11 +24,11 @@
         },
         {
           "t": "красиво",
-          "lemma": "красивый",
-          "pos": "adj",
+          "lemma": "красиво",
+          "pos": "adv",
           "stress": "краси́во",
           "gloss": "beautifully",
-          "gram": "adverbial adjective"
+          "gram": "adverb"
         },
         {
           "t": "всё",
@@ -82,7 +82,7 @@
           "pos": "adj",
           "stress": "я́ркой",
           "gloss": "bright; vivid",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "и",
@@ -688,11 +688,11 @@
         },
         {
           "t": "красиво",
-          "lemma": "красивый",
-          "pos": "adj",
+          "lemma": "красиво",
+          "pos": "adv",
           "stress": "краси́во",
           "gloss": "beautifully",
-          "gram": "adverbial adjective"
+          "gram": "adverb"
         },
         {
           "t": "всё",
@@ -746,7 +746,7 @@
           "pos": "adj",
           "stress": "я́ркой",
           "gloss": "bright; vivid",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "и",
@@ -1352,11 +1352,11 @@
         },
         {
           "t": "красиво",
-          "lemma": "красивый",
-          "pos": "adj",
+          "lemma": "красиво",
+          "pos": "adv",
           "stress": "краси́во",
           "gloss": "beautifully",
-          "gram": "adverbial adjective"
+          "gram": "adverb"
         },
         {
           "t": "всё",
@@ -1410,7 +1410,7 @@
           "pos": "adj",
           "stress": "я́ркой",
           "gloss": "bright; vivid",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "и",
@@ -2060,11 +2060,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2285,84 +2285,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2564,7 +2486,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2743,7 +2665,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2825,11 +2747,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "A bell or phone."
         }
       ],
       "forms": {
@@ -3018,7 +2940,7 @@
         },
         {
           "en": "it seems, I think",
-          "note": "Кажется as a parenthetical word. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to seem', paired with 'показаться'."
+          "note": "Кажется as a parenthetical word."
         }
       ],
       "forms": {
@@ -3073,6 +2995,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кажись",
+                "кажитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3092,15 +3031,15 @@
       "related": [
         {
           "word": "показаться",
-          "gloss": "to seem"
+          "gloss": "to seem (pf)"
         },
         {
-          "word": "сказать",
-          "gloss": "to say"
+          "word": "кажется",
+          "gloss": "it seems, I think"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "оказаться",
+          "gloss": "to turn out"
         }
       ]
     },
@@ -3139,15 +3078,19 @@
     },
     "кипеть": {
       "lemma": "кипеть",
-      "stress": "ки́петь",
+      "stress": "кипе́ть",
       "pos": "verb",
-      "gloss": "boils / bubbles",
+      "gloss": "to boil; to seethe",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "boils / bubbles",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'boils / bubbles'."
+          "en": "to boil",
+          "note": ""
+        },
+        {
+          "en": "to seethe, to be in full swing (of passions, work)",
+          "note": ""
         }
       ],
       "forms": {
@@ -3161,22 +3104,22 @@
           {
             "cells": [
               "1st",
-              "кипею",
-              "кипеем"
+              "киплю",
+              "кипим"
             ]
           },
           {
             "cells": [
               "2nd",
-              "кипеешь",
-              "кипеете"
+              "кипишь",
+              "кипите"
             ]
           },
           {
             "cells": [
               "3rd",
-              "кипеет",
-              "кипеют"
+              "кипит",
+              "кипят"
             ]
           }
         ]
@@ -3202,26 +3145,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кипи",
+                "кипите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и кипеть вовремя.",
-          "trans": "We need to do everything and boils on time."
+          "text": "Посмотрите, как красиво всё здесь кипит!",
+          "trans": "Look how beautifully everything is bubbling here!"
         },
         {
-          "text": "На нашей кухне все умеют кипеть.",
-          "trans": "In our kitchen everyone knows how to boils."
+          "text": "Вот такие страсти кипят у нас!",
+          "trans": "That's the kind of passions raging here!"
         }
       ],
       "related": [
         {
-          "word": "покипеть",
-          "gloss": "to boils (prefixed perfective)"
+          "word": "вскипеть",
+          "gloss": "to come to the boil (pf)"
         },
         {
-          "word": "не кипеть",
-          "gloss": "not to boils (negated infinitive)"
+          "word": "кипяток",
+          "gloss": "boiling water"
         }
       ]
     },
@@ -3233,7 +3193,7 @@
       "meanings": [
         {
           "en": "beautifully, nicely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3260,109 +3220,6 @@
         {
           "word": "красивый",
           "gloss": "beautiful"
-        }
-      ]
-    },
-    "красивый": {
-      "lemma": "красивый",
-      "stress": "краси́вый",
-      "pos": "adj",
-      "gloss": "beautiful, pretty, handsome",
-      "meanings": [
-        {
-          "en": "beautiful, pretty, handsome",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beautiful, pretty, handsome')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "красивый",
-              "красивая",
-              "красивое",
-              "красивые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "красивого",
-              "красивой",
-              "красивого",
-              "красивых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "красивому",
-              "красивой",
-              "красивому",
-              "красивым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "красивый",
-              "красивую",
-              "красивое",
-              "красивые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "красивым",
-              "красивой",
-              "красивым",
-              "красивыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "красивом",
-              "красивой",
-              "красивом",
-              "красивых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Она очень красивая.",
-          "trans": "She is very pretty."
-        },
-        {
-          "text": "Какой красивый город!",
-          "trans": "What a beautiful town!"
-        },
-        {
-          "text": "Красивая. Но это же не ваша жена! Я вашу жену видел.",
-          "trans": "She's pretty. But that's not your wife! I've seen your wife."
-        }
-      ],
-      "related": [
-        {
-          "word": "красота",
-          "gloss": "beauty"
-        },
-        {
-          "word": "красавица",
-          "gloss": "beauty"
         }
       ]
     },
@@ -3404,7 +3261,7 @@
             "cells": [
               "dative",
               "любви",
-              "любовям"
+              "любвям"
             ]
           },
           {
@@ -3418,14 +3275,14 @@
             "cells": [
               "instrumental",
               "любовью",
-              "любовями"
+              "любвями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "любви",
-              "любовях"
+              "любвях"
             ]
           }
         ]
@@ -3464,7 +3321,7 @@
         },
         {
           "en": "darling",
-          "note": "милый / милая used as a form of address"
+          "note": ""
         }
       ],
       "forms": {
@@ -3551,57 +3408,15 @@
       "related": [
         {
           "word": "мило",
-          "gloss": "in a sweet way (adv.)"
+          "gloss": "sweetly; it's nice"
         },
         {
           "word": "милость",
-          "gloss": "quality of being sweet"
-        }
-      ]
-    },
-    "много": {
-      "lemma": "много",
-      "stress": "мно́го",
-      "pos": "adv",
-      "gloss": "a lot, much, many",
-      "meanings": [
-        {
-          "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "gloss": "mercy, favour"
         },
         {
-          "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много.",
-          "trans": "We've done a lot."
-        },
-        {
-          "text": "Слишком много дел.",
-          "trans": "Too much to do."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "немного",
-          "gloss": "a little"
-        },
-        {
-          "word": "многовато",
-          "gloss": "a bit too much"
-        },
-        {
-          "word": "намного",
-          "gloss": "much"
+          "word": "миленький",
+          "gloss": "sweet, cute"
         }
       ]
     },
@@ -3876,7 +3691,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4157,11 +3972,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -4750,11 +4565,11 @@
         },
         {
           "en": "electricity, the power",
-          "note": "colloquial: нет света = the power is off"
+          "note": ""
         },
         {
           "en": "world",
-          "note": "В целом свете = in the whole world. Common masculine noun meaning 'light; electricity' in everyday Russian."
+          "note": "В целом свете = in the whole world."
         }
       ],
       "forms": {
@@ -4826,109 +4641,6 @@
       ],
       "related": []
     },
-    "свой": {
-      "lemma": "свой",
-      "stress": "свой",
-      "pos": "det",
-      "gloss": "one's own (my, your, his...)",
-      "meanings": [
-        {
-          "en": "one's own",
-          "note": "refers back to the subject: 'он держит своё слово' = he keeps his word"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "свой",
-              "своя",
-              "своё",
-              "свои"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "своего",
-              "своей",
-              "своего",
-              "своих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "своему",
-              "своей",
-              "своему",
-              "своим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "свой/своего",
-              "свою",
-              "своё",
-              "свои/своих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "своим",
-              "своей",
-              "своим",
-              "своими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "своём",
-              "своей",
-              "своём",
-              "своих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Он держит своё слово.",
-          "trans": "He keeps his word."
-        },
-        {
-          "text": "Они строят свои дома.",
-          "trans": "They are building their houses."
-        },
-        {
-          "text": "А что я за мэр такой, который держит своё слово?",
-          "trans": "And what kind of mayor would I be if I kept my word?"
-        }
-      ],
-      "related": [
-        {
-          "word": "себя",
-          "gloss": "oneself"
-        },
-        {
-          "word": "мой",
-          "gloss": "my"
-        }
-      ]
-    },
     "сказать": {
       "lemma": "сказать",
       "stress": "сказа́ть",
@@ -4943,7 +4655,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5034,15 +4746,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5056,11 +4768,11 @@
       "meanings": [
         {
           "en": "to hear",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": "Слышать о + prepositional."
         },
         {
           "en": "to hear about",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5112,6 +4824,23 @@
                 "слышала",
                 "слышало",
                 "слышали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "слышь",
+                "слышьте"
               ]
             }
           ]
@@ -5215,29 +4944,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "согласен",
-                "согласна",
-                "согласно",
-                "согласны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я согласен.",
@@ -5275,15 +4982,15 @@
       "meanings": [
         {
           "en": "happy",
-          "note": "Сч is pronounced like щ. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Сч is pronounced like щ."
         },
         {
           "en": "lucky",
-          "note": "Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": ""
         },
         {
           "en": "happy (ending)",
-          "note": "Счастливый конец = happy ending. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Счастливый конец = happy ending."
         }
       ],
       "forms": {
@@ -5352,29 +5059,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "счастлив",
-                "счастлива",
-                "счастливо",
-                "счастливы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я очень счастливый.",
@@ -5408,7 +5093,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5886,11 +5571,11 @@
       "meanings": [
         {
           "en": "bright",
-          "note": "Descriptive Russian adjective meaning 'bright', agreeing in gender, number, and case with the noun it modifies."
+          "note": ""
         },
         {
-          "en": "vivid",
-          "note": "Secondary conversational sense ('vivid') (intense in flavor or color) used in spoken Russian dialogue."
+          "en": "vivid, striking",
+          "note": "of flavour, colour, personality: яркий вкус, яркие таланты"
         }
       ],
       "forms": {
@@ -5933,10 +5618,10 @@
           {
             "cells": [
               "accusative",
-              "яркого",
+              "яркий / яркого",
               "яркую",
               "яркое",
-              "ярких"
+              "яркие / ярких"
             ]
           },
           {

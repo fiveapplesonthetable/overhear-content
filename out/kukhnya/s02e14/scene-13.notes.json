@@ -216,7 +216,7 @@
           "pos": "det",
           "stress": "на́шим",
           "gloss": "our",
-          "gram": "instrumental singular, masculine"
+          "gram": "instrumental singular masculine, or dative plural"
         },
         {
           "t": "поваром.",
@@ -622,7 +622,7 @@
           "pos": "det",
           "stress": "на́шим",
           "gloss": "our",
-          "gram": "instrumental singular, masculine"
+          "gram": "instrumental singular masculine, or dative plural"
         },
         {
           "t": "поваром.",
@@ -1028,7 +1028,7 @@
           "pos": "det",
           "stress": "на́шим",
           "gloss": "our",
-          "gram": "instrumental singular, masculine"
+          "gram": "instrumental singular masculine, or dative plural"
         },
         {
           "t": "поваром.",
@@ -1295,11 +1295,11 @@
       "meanings": [
         {
           "en": "appetite",
-          "note": "= Enjoy your meal!. Common masculine noun meaning 'appetite' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Common masculine noun meaning 'appetite' in everyday Russian."
+          "en": "Enjoy your meal!",
+          "note": "Приятного аппетита!"
         }
       ],
       "forms": {
@@ -1540,11 +1540,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1666,11 +1666,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1863,7 +1863,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2369,7 +2369,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -2404,7 +2404,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -2541,6 +2541,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2572,7 +2589,7 @@
       "meanings": [
         {
           "en": "prepared, cooked",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('prepared, cooked')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2645,17 +2662,21 @@
       "examples": [
         {
           "text": "Приготовленный для вас нашим поваром.",
-          "trans": "Prepared especially for you by our chef."
+          "trans": "Prepared for you by our chef."
         },
         {
-          "text": "Сегодня у шефа очень приготовленный день в ресторане.",
-          "trans": "Today the chef is having a very prepared day at the restaurant."
+          "text": "Это блюдо, приготовленное по старому рецепту.",
+          "trans": "This is a dish cooked from an old recipe."
         }
       ],
       "related": [
         {
-          "word": "очень приготовленный",
-          "gloss": "very prepared"
+          "word": "приготовить",
+          "gloss": "to prepare, to cook"
+        },
+        {
+          "word": "готовый",
+          "gloss": "ready"
         }
       ]
     },
@@ -2667,11 +2688,11 @@
       "meanings": [
         {
           "en": "pleasant, nice",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "note": "Приятного аппетита! = Enjoy your meal!"
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "en": "сделать приятное",
+          "note": "to do something nice (for someone)"
         }
       ],
       "forms": {
@@ -2740,29 +2761,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Приятного аппетита!",
@@ -2832,7 +2831,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -2884,6 +2883,23 @@
                 "случилась",
                 "случилось",
                 "случились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
               ]
             }
           ]
@@ -3046,7 +3062,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

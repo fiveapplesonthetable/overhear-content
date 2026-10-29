@@ -9,10 +9,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "там",
@@ -196,7 +196,7 @@
           "t": "шеф-повар",
           "lemma": "шеф-повар",
           "pos": "noun",
-          "stress": "ше́ф-повар",
+          "stress": "шеф-по́вар",
           "gloss": "head chef",
           "gram": "masculine singular, nominative"
         },
@@ -641,10 +641,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "там",
@@ -828,7 +828,7 @@
           "t": "шеф-повар",
           "lemma": "шеф-повар",
           "pos": "noun",
-          "stress": "ше́ф-повар",
+          "stress": "шеф-по́вар",
           "gloss": "head chef",
           "gram": "masculine singular, nominative"
         },
@@ -1273,10 +1273,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "там",
@@ -1460,7 +1460,7 @@
           "t": "шеф-повар",
           "lemma": "шеф-повар",
           "pos": "noun",
-          "stress": "ше́ф-повар",
+          "stress": "шеф-по́вар",
           "gloss": "head chef",
           "gram": "masculine singular, nominative"
         },
@@ -2160,11 +2160,11 @@
       "meanings": [
         {
           "en": "to believe (someone or something)",
-          "note": "+ dative: верить мне. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "+ dative: верить мне."
         },
         {
           "en": "to believe in",
-          "note": "Верить в + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "Верить в + accusative."
         }
       ],
       "forms": {
@@ -2277,7 +2277,7 @@
       "meanings": [
         {
           "en": "to lead, to guide, to drive",
-          "note": "Unidirectional verb of motion. Used as an imperfective (ongoing/repeated action) verb meaning 'to lead, to conduct (вести себя = to behave)', paired with 'повести'."
+          "note": "Unidirectional verb of motion."
         },
         {
           "en": "вести себя: to behave, to conduct oneself",
@@ -2499,84 +2499,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2671,7 +2593,7 @@
         },
         {
           "en": "long ago",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2781,7 +2703,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2872,7 +2794,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3009,7 +2935,7 @@
       "meanings": [
         {
           "en": "to call (someone over)",
-          "note": "Звать на помощь = to call for help. Used as an imperfective (ongoing/repeated action) verb meaning 'to call', paired with 'позвать'."
+          "note": "Звать на помощь = to call for help."
         },
         {
           "en": "to be called (a name)",
@@ -3196,11 +3122,11 @@
       "meanings": [
         {
           "en": "company, firm",
-          "note": "Business enterprise. Common feminine noun meaning 'company, firm; group of friends' in everyday Russian."
+          "note": "Business enterprise."
         },
         {
           "en": "company, group",
-          "note": "Social gathering of friends. Common feminine noun meaning 'company, firm; group of friends' in everyday Russian."
+          "note": "Social gathering of friends."
         }
       ],
       "forms": {
@@ -3259,11 +3185,11 @@
       "examples": [
         {
           "text": "А это компания брата Осипенко!",
-          "trans": "And that is Osipenko's cousin's company!"
+          "trans": "And that's Osipenko's brother's company!"
         },
         {
-          "text": "Он работает в крупной компании.",
-          "trans": "He works at a large company."
+          "text": "Вы не будете против, если я составлю вам компанию?",
+          "trans": "Do you mind if I keep you company?"
         },
         {
           "text": "Не все компании такие добрые, как наша.",
@@ -3272,8 +3198,12 @@
       ],
       "related": [
         {
-          "word": "комплимент",
-          "gloss": "compliment"
+          "word": "составить компанию",
+          "gloss": "to keep someone company"
+        },
+        {
+          "word": "фирма",
+          "gloss": "firm"
         }
       ]
     },
@@ -3285,7 +3215,7 @@
       "meanings": [
         {
           "en": "beautiful, pretty, handsome",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beautiful, pretty, handsome')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3328,10 +3258,10 @@
           {
             "cells": [
               "accusative",
-              "красивый",
+              "красивый / красивого",
               "красивую",
               "красивое",
-              "красивые"
+              "красивые / красивых"
             ]
           },
           {
@@ -3386,10 +3316,11 @@
       "pos": "noun",
       "gloss": "pretty woman, beauty",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "pretty woman, beauty",
-          "note": "Common feminine noun meaning 'pretty woman, beauty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3411,7 +3342,7 @@
             "cells": [
               "genitive",
               "красотки",
-              "красотк"
+              "красоток"
             ]
           },
           {
@@ -3425,7 +3356,7 @@
             "cells": [
               "accusative",
               "красотку",
-              "красотки"
+              "красоток"
             ]
           },
           {
@@ -3448,21 +3379,21 @@
       "examples": [
         {
           "text": "Шеф, там в зале красотка сидит.",
-          "trans": "Chef, there is a beauty sitting in the dining room."
+          "trans": "Chef, there's a real looker sitting in the dining room."
         },
         {
-          "text": "На кухне ресторана всегда есть красотка.",
-          "trans": "In the restaurant kitchen there is always pretty woman."
+          "text": "Привет, красотка!",
+          "trans": "Hi, gorgeous!"
         }
       ],
       "related": [
         {
-          "word": "без красотк",
-          "gloss": "without pretty woman"
+          "word": "красавица",
+          "gloss": "beauty"
         },
         {
-          "word": "наш красотка",
-          "gloss": "our pretty woman"
+          "word": "красивый",
+          "gloss": "beautiful"
         }
       ]
     },
@@ -3697,10 +3628,10 @@
           {
             "cells": [
               "accusative",
-              "молодого",
+              "молодой / молодого",
               "молодую",
               "молодое",
-              "молодых"
+              "молодые / молодых"
             ]
           },
           {
@@ -3759,7 +3690,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3811,6 +3742,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4088,7 +4036,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise, fright or pain. Core Russian interj meaning 'oh' in everyday speech."
+          "note": "Surprise, fright or pain."
         }
       ],
       "forms": null,
@@ -4128,7 +4076,7 @@
       "meanings": [
         {
           "en": "to step aside, to move back",
-          "note": "Perfective of отходить. Used as a perfective (single completed action) verb meaning 'to step back, to move away', paired with 'отходить'."
+          "note": "Perfective of отходить."
         }
       ],
       "forms": {
@@ -4239,7 +4187,7 @@
       "meanings": [
         {
           "en": "officially, formally",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4275,7 +4223,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "Всё получилось = it all worked out. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
+          "note": "Всё получилось = it all worked out."
         },
         {
           "en": "to come out of, to make",
@@ -4331,6 +4279,23 @@
                 "получилась",
                 "получилось",
                 "получились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получись",
+                "получитесь"
               ]
             }
           ]
@@ -4409,11 +4374,11 @@
       "meanings": [
         {
           "en": "to offer",
-          "note": "Used as a perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+          "note": ""
         },
         {
           "en": "to suggest",
-          "note": "Used as a perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4468,6 +4433,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "предложи",
+                "предложите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4487,11 +4469,11 @@
       "related": [
         {
           "word": "предлагать",
-          "gloss": "to suggest"
+          "gloss": "to offer (impf)"
         },
         {
-          "word": "заложить",
-          "gloss": "to lay"
+          "word": "предложение",
+          "gloss": "offer, proposal"
         }
       ]
     },
@@ -4594,11 +4576,11 @@
         },
         {
           "en": "electricity, the power",
-          "note": "colloquial: нет света = the power is off"
+          "note": ""
         },
         {
           "en": "world",
-          "note": "В целом свете = in the whole world. Common masculine noun meaning 'light; electricity' in everyday Russian."
+          "note": "В целом свете = in the whole world."
         }
       ],
       "forms": {
@@ -4888,11 +4870,11 @@
       "meanings": [
         {
           "en": "funny, amusing",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('funny, ridiculous')."
+          "note": ""
         },
         {
           "en": "ridiculous, laughable",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('funny, ridiculous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4935,10 +4917,10 @@
           {
             "cells": [
               "accusative",
-              "смешной",
+              "смешной / смешного",
               "смешную",
               "смешное",
-              "смешные"
+              "смешные / смешных"
             ]
           },
           {
@@ -4987,13 +4969,21 @@
       "lemma": "составить",
       "stress": "соста́вить",
       "pos": "verb",
-      "gloss": "will you keep (company)",
+      "gloss": "to put together, to draw up; (компанию) to keep company",
       "aspect": "pf",
-      "pair": null,
+      "pair": "составлять",
       "meanings": [
         {
-          "en": "will you keep (company)",
-          "note": "Used as a perfective (single completed action) verb meaning 'will you keep (company)'."
+          "en": "to put together, to compose, to draw up (a plan, list)",
+          "note": ""
+        },
+        {
+          "en": "to keep (someone) company",
+          "note": "составить компанию + dat."
+        },
+        {
+          "en": "не составит труда = it's no trouble",
+          "note": ""
         }
       ],
       "forms": {
@@ -5048,16 +5038,37 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "составь",
+                "составьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Как официально, составите мне компанию?",
-          "trans": "How formal, will you keep me company?"
+          "trans": "How formal! Will you keep me company?"
         },
         {
-          "text": "Надо всё сделать и составить вовремя.",
-          "trans": "We need to do everything and will you keep on time."
+          "text": "Я составил подробный план оптимизации кухни.",
+          "trans": "I've drawn up a detailed plan for optimising the kitchen."
+        },
+        {
+          "text": "Вам не составит большого труда почистить мешок картошки.",
+          "trans": "It won't be much trouble for you to peel a sack of potatoes."
         }
       ],
       "related": []
@@ -5074,7 +5085,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5285,7 +5296,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -5340,6 +5351,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5379,7 +5407,7 @@
       "meanings": [
         {
           "en": "clever, smart, intelligent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('clever, smart')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5422,10 +5450,10 @@
           {
             "cells": [
               "accusative",
-              "умный",
+              "умный / умного",
               "умную",
               "умное",
-              "умные"
+              "умные / умных"
             ]
           },
           {
@@ -5572,7 +5600,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -5641,6 +5669,88 @@
           "gloss": "something"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "шеф-повар": {
       "lemma": "шеф-повар",
@@ -5733,7 +5843,7 @@
       "meanings": [
         {
           "en": "show, television program, performance",
-          "note": "Declinable neuter noun meaning 'show', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -5748,42 +5858,42 @@
             "cells": [
               "nominative",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "genitive",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "dative",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "accusative",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "instrumental",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "prepositional",
               "шоу",
-              "—"
+              "шоу"
             ]
           }
         ]
@@ -5892,105 +6002,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

@@ -133,7 +133,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -321,8 +321,8 @@
           "lemma": "слышать",
           "pos": "verb",
           "stress": "слы́шала",
-          "gloss": "to hear",
-          "gram": "verb слышала"
+          "gloss": "heard",
+          "gram": "past, feminine singular, imperfective"
         }
       ]
     },
@@ -835,7 +835,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1023,8 +1023,8 @@
           "lemma": "слышать",
           "pos": "verb",
           "stress": "слы́шала",
-          "gloss": "to hear",
-          "gram": "verb слышала"
+          "gloss": "heard",
+          "gram": "past, feminine singular, imperfective"
         }
       ]
     },
@@ -1537,7 +1537,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1725,8 +1725,8 @@
           "lemma": "слышать",
           "pos": "verb",
           "stress": "слы́шала",
-          "gloss": "to hear",
-          "gram": "verb слышала"
+          "gloss": "heard",
+          "gram": "past, feminine singular, imperfective"
         }
       ]
     },
@@ -2125,7 +2125,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2268,7 +2268,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2449,11 +2449,11 @@
       "meanings": [
         {
           "en": "to believe (someone or something)",
-          "note": "+ dative: верить мне. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "+ dative: верить мне."
         },
         {
           "en": "to believe in",
-          "note": "Верить в + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "Верить в + accusative."
         }
       ],
       "forms": {
@@ -2719,7 +2719,7 @@
       "meanings": [
         {
           "en": "to lie, to tell lies",
-          "note": "Colloquial. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to tell lies', paired with 'соврать'."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -2943,7 +2943,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2969,49 +2969,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -3022,11 +2979,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3117,15 +3078,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3138,11 +3099,11 @@
       "meanings": [
         {
           "en": "document, official paper",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "From Latin 'documentum'."
         },
         {
           "en": "ID, papers",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "In the plural: документы."
         }
       ],
       "forms": {
@@ -3260,11 +3221,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3299,12 +3260,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3359,6 +3318,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3378,17 +3354,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3469,11 +3446,11 @@
       "meanings": [
         {
           "en": "by the way, speaking of which",
-          "note": "Used as a parenthetical word. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Used as a parenthetical word."
         },
         {
           "en": "handy, well-timed",
-          "note": "Это очень кстати. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Это очень кстати."
         }
       ],
       "forms": null,
@@ -3582,7 +3559,7 @@
       "meanings": [
         {
           "en": "no ... at all, not any",
-          "note": "With не / нет. Core Russian det meaning 'no ... at all, not any' in everyday speech."
+          "note": "With не / нет."
         }
       ],
       "forms": {
@@ -3682,11 +3659,11 @@
       "meanings": [
         {
           "en": "leg",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": "Russian uses one word for both."
         },
         {
           "en": "foot",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3766,7 +3743,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -3843,13 +3820,13 @@
       "lemma": "отъехать",
       "stress": "отъе́хать",
       "pos": "verb",
-      "gloss": "to step out, drive away",
+      "gloss": "to pop out, to drive off",
       "aspect": "pf",
-      "pair": null,
+      "pair": "отъезжать",
       "meanings": [
         {
           "en": "to step out, drive away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to step out, drive away'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3863,22 +3840,22 @@
           {
             "cells": [
               "1st",
-              "отъехаю",
-              "отъехаем"
+              "отъеду",
+              "отъедем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "отъехаешь",
-              "отъехаете"
+              "отъедешь",
+              "отъедете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "отъехает",
-              "отъехают"
+              "отъедет",
+              "отъедут"
             ]
           }
         ]
@@ -3909,17 +3886,25 @@
       "examples": [
         {
           "text": "Ангелина, мне нужно отъехать ненадолго.",
-          "trans": "Angelina, I need to step out for a short while."
+          "trans": "Angelina, I need to pop out for a bit."
         },
         {
-          "text": "Надо всё сделать и отъехать вовремя.",
-          "trans": "We need to do everything and to step out on time."
+          "text": "Мальчики, я сейчас отъеду на пару часов.",
+          "trans": "Boys, I'm heading out for a couple of hours."
         }
       ],
       "related": [
         {
-          "word": "не отъехать",
-          "gloss": "not to to step out (negated infinitive)"
+          "word": "отъезжать",
+          "gloss": "to drive off (impf)"
+        },
+        {
+          "word": "отъезд",
+          "gloss": "departure"
+        },
+        {
+          "word": "уехать",
+          "gloss": "to leave"
         }
       ]
     },
@@ -3927,12 +3912,12 @@
       "lemma": "перелом",
       "stress": "перело́м",
       "pos": "noun",
-      "gloss": "fractures / broken bones",
+      "gloss": "fracture, broken bone",
       "gender": "m",
       "meanings": [
         {
-          "en": "fractures / broken bones",
-          "note": "Common masculine noun meaning 'fractures / broken bones' in everyday Russian."
+          "en": "fracture, broken bone",
+          "note": "перелом ребра = a broken rib"
         }
       ],
       "forms": {
@@ -3994,11 +3979,20 @@
           "trans": "He has no fractures, which is actually amazing!"
         },
         {
-          "text": "На кухне ресторана всегда есть перелом.",
-          "trans": "In the restaurant kitchen there is always fractures."
+          "text": "У вас неполный перелом ребра.",
+          "trans": "You have a partial rib fracture."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "сломать",
+          "gloss": "to break"
+        },
+        {
+          "word": "переломать",
+          "gloss": "to break (many things)"
+        }
+      ]
     },
     "поехать": {
       "lemma": "поехать",
@@ -4010,7 +4004,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4203,8 +4197,8 @@
           "trans": "They're showing Samson on television!"
         },
         {
-          "text": "Покажи мне эту фотографию.",
-          "trans": "Show me this photo."
+          "text": "Нам вообще запрещено это показывать. Но вы же свои!",
+          "trans": "We're actually not allowed to show this. But you're one of us!"
         },
         {
           "text": "Ой, смотрите, Самсона по телевизору показывают! Уже несколько миллионов просмотров!",
@@ -4228,7 +4222,7 @@
       "meanings": [
         {
           "en": "to scare, to try to frighten, to threaten",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to scare, to try to frighten', paired with 'напугать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4521,7 +4515,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4612,15 +4606,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4634,7 +4628,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -4689,6 +4683,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4722,11 +4733,11 @@
       "meanings": [
         {
           "en": "to hear",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": "Слышать о + prepositional."
         },
         {
           "en": "to hear about",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4781,6 +4792,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "слышь",
+                "слышьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4816,7 +4844,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4840,67 +4868,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5204,7 +5180,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5309,7 +5285,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5361,6 +5337,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

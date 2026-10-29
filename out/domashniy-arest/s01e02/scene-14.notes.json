@@ -548,7 +548,7 @@
           "pos": "noun",
           "stress": "мозги́",
           "gloss": "brains",
-          "gram": "masculine, accusative plural"
+          "gram": "plural, nominative / accusative"
         },
         {
           "t": "не",
@@ -1440,7 +1440,7 @@
           "pos": "noun",
           "stress": "мозги́",
           "gloss": "brains",
-          "gram": "masculine, accusative plural"
+          "gram": "plural, nominative / accusative"
         },
         {
           "t": "не",
@@ -2314,7 +2314,7 @@
           "pos": "noun",
           "stress": "мозги́",
           "gloss": "brains",
-          "gram": "masculine, accusative plural"
+          "gram": "plural, nominative / accusative"
         },
         {
           "t": "не",
@@ -2790,7 +2790,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
+          "note": "+ genitive: 'бояться собак'."
         }
       ],
       "forms": {
@@ -3122,11 +3122,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3181,6 +3181,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3209,84 +3226,6 @@
         {
           "word": "видеться",
           "gloss": "to see each other"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3378,6 +3317,7 @@
       "pos": "noun",
       "gloss": "general",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "general",
@@ -3471,7 +3411,7 @@
         },
         {
           "en": "chapter",
-          "note": "Of a book. Common feminine noun meaning 'head (of an organisation)' in everyday Russian."
+          "note": "Of a book."
         }
       ],
       "forms": {
@@ -3561,11 +3501,11 @@
       "meanings": [
         {
           "en": "head",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "'голову оторвать' = to tear someone's head off",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "en": "голову оторвать = to tear someone's head off",
+          "note": "an idiom for a big telling-off"
         }
       ],
       "forms": {
@@ -3647,11 +3587,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3742,15 +3686,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3759,7 +3703,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3844,7 +3787,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -3891,10 +3834,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -3917,29 +3860,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -4065,11 +3986,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4399,14 +4320,15 @@
       "pos": "noun",
       "gloss": "call; bell",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "phone call",
-          "note": "Common masculine noun meaning 'call; bell' in everyday Russian."
+          "note": ""
         },
         {
           "en": "bell, doorbell",
-          "note": "Common masculine noun meaning 'call; bell' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4512,42 +4434,42 @@
             "cells": [
               "nominative",
               "здравие",
-              "—"
+              "здравия"
             ]
           },
           {
             "cells": [
               "genitive",
               "здравия",
-              "—"
+              "здравий"
             ]
           },
           {
             "cells": [
               "dative",
               "здравию",
-              "—"
+              "здравиям"
             ]
           },
           {
             "cells": [
               "accusative",
               "здравие",
-              "—"
+              "здравия"
             ]
           },
           {
             "cells": [
               "instrumental",
               "здравием",
-              "—"
+              "здравиями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "здравии",
-              "—"
+              "здравиях"
             ]
           }
         ]
@@ -4592,11 +4514,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -4676,12 +4598,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -4707,7 +4629,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -4814,7 +4736,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4836,7 +4758,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4849,7 +4775,7 @@
       "meanings": [
         {
           "en": "lieutenant",
-          "note": "A junior officer's rank. Common masculine noun meaning 'lieutenant' in everyday Russian."
+          "note": "A junior officer's rank."
         }
       ],
       "forms": {
@@ -4929,11 +4855,11 @@
       "meanings": [
         {
           "en": "kind, obliging",
-          "note": "A very polite request. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('kind, polite')."
+          "note": "A very polite request."
         },
         {
           "en": "'Будьте любезны' = would you be so kind",
-          "note": "A very polite request. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('kind, polite')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4976,10 +4902,10 @@
           {
             "cells": [
               "accusative",
-              "любезный/любезного",
+              "любезный / любезного",
               "любезную",
               "любезное",
-              "любезные/любезных"
+              "любезные / любезных"
             ]
           },
           {
@@ -5002,29 +4928,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "любезен",
-                "любезна",
-                "любезно",
-                "любезны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Будьте любезны, позвоните мне.",
@@ -5059,7 +4963,7 @@
       "meanings": [
         {
           "en": "mother",
-          "note": "A little more formal than 'мама'. Common feminine noun meaning 'mother' in everyday Russian."
+          "note": "A little more formal than 'мама'."
         }
       ],
       "forms": {
@@ -5238,11 +5142,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5272,11 +5176,11 @@
       "meanings": [
         {
           "en": "brain",
-          "note": "Plural 'мозги' in everyday speech. Common masculine noun meaning 'brain' in everyday Russian."
+          "note": "Plural 'мозги' in everyday speech."
         },
         {
           "en": "brains, sense",
-          "note": "Plural 'мозги' in everyday speech. Common masculine noun meaning 'brain' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5357,7 +5261,7 @@
       "meanings": [
         {
           "en": "Muscovite, someone from Moscow",
-          "note": "Common masculine noun meaning 'Muscovite' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5392,8 +5296,8 @@
           {
             "cells": [
               "accusative",
-              "москвича",
-              "москвичей"
+              "москвич",
+              "москвичи"
             ]
           },
           {
@@ -5547,6 +5451,23 @@
                 "надоела",
                 "надоело",
                 "надоели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "надоешь",
+                "надоешьте"
               ]
             }
           ]
@@ -5781,11 +5702,11 @@
       "meanings": [
         {
           "en": "operation",
-          "note": "Police or military. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'operation' in everyday Russian."
+          "note": "Police or military."
         },
         {
           "en": "surgery",
-          "note": "In a hospital. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'operation' in everyday Russian."
+          "note": "In a hospital."
         }
       ],
       "forms": {
@@ -5969,7 +5890,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -6004,7 +5925,7 @@
         },
         {
           "en": "to stay",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to remain, to be left', paired with 'оставаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6117,11 +6038,11 @@
       "meanings": [
         {
           "en": "to tear off, to rip off",
-          "note": "Idiom. Used as a perfective (single completed action) verb meaning 'to tear off', paired with 'отрывать'."
+          "note": ""
         },
         {
           "en": "'голову оторвать' = to give someone hell",
-          "note": "Idiom. Used as a perfective (single completed action) verb meaning 'to tear off', paired with 'отрывать'."
+          "note": "Idiom."
         }
       ],
       "forms": {
@@ -6238,7 +6159,7 @@
         },
         {
           "en": "to translate",
-          "note": "From one language to another. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to transfer; to translate', paired with 'переводить'."
+          "note": "From one language to another. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'вести')."
         }
       ],
       "forms": {
@@ -6384,11 +6305,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -6606,11 +6527,11 @@
       "meanings": [
         {
           "en": "to botch, to make a mess of",
-          "note": "An operation, an exam, a plan. Used as an imperfective (ongoing/repeated action) verb meaning 'to fail, to botch', paired with 'провалить'."
+          "note": "An operation, an exam, a plan."
         },
         {
           "en": "'Проваливай!' = get lost!",
-          "note": "Rude imperative. Used as an imperfective (ongoing/repeated action) verb meaning 'to fail, to botch', paired with 'провалить'."
+          "note": "Rude imperative."
         }
       ],
       "forms": {
@@ -6701,15 +6622,11 @@
       "related": [
         {
           "word": "провалить",
-          "gloss": "to ruin"
+          "gloss": "to botch, fail (pf)"
         },
         {
-          "word": "валик",
-          "gloss": "roller"
-        },
-        {
-          "word": "разваливаться",
-          "gloss": "to fall apart"
+          "word": "провал",
+          "gloss": "failure"
         }
       ]
     },
@@ -6947,7 +6864,7 @@
       "meanings": [
         {
           "en": "a little chat",
-          "note": "Diminutive of 'разговор'. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'chat, chatter' in everyday Russian."
+          "note": "Diminutive of 'разговор'."
         },
         {
           "en": "'Разговорчики!' = stop talking!",
@@ -7039,7 +6956,7 @@
       "meanings": [
         {
           "en": "to allow, to permit",
-          "note": "+ dative of the person. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'решить'). Used as a perfective (single completed action) verb meaning 'to allow, to permit', paired with 'разрешать'."
+          "note": "+ dative of the person. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'решить')."
         },
         {
           "en": "'Разрешите?' = may I (come in)?",
@@ -7193,7 +7110,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -7408,7 +7325,7 @@
         },
         {
           "en": "to join, to connect",
-          "note": "Used as a perfective (single completed action) verb meaning 'to connect, to put through', paired with 'соединять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7625,16 +7542,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Ладно, сиди. Только тихо.",
+          "trans": "All right, sit down. Just keep quiet."
         }
       ],
       "related": [
@@ -7673,8 +7586,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -7777,7 +7698,7 @@
         },
         {
           "en": "management, control",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'department, directorate' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7849,16 +7770,12 @@
       ],
       "related": [
         {
-          "word": "правильно",
-          "gloss": "right"
+          "word": "управлять",
+          "gloss": "to manage"
         },
         {
-          "word": "правый",
-          "gloss": "right"
-        },
-        {
-          "word": "правило",
-          "gloss": "rule"
+          "word": "управляющий",
+          "gloss": "manager"
         }
       ]
     },
@@ -8241,11 +8158,11 @@
       "meanings": [
         {
           "en": "to turn up, to show up",
-          "note": "Often ironic or official. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn up, to appear', paired with 'являться'."
+          "note": "Often ironic or official."
         },
         {
           "en": "to report (to)",
-          "note": "Official: 'явиться в суд'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn up, to appear', paired with 'являться'."
+          "note": "Official: 'явиться в суд'."
         }
       ],
       "forms": {
@@ -8336,7 +8253,7 @@
       "related": [
         {
           "word": "являться",
-          "gloss": "be"
+          "gloss": "to appear, to turn up (impf.); to be"
         },
         {
           "word": "появиться",
@@ -8344,7 +8261,7 @@
         },
         {
           "word": "проявить",
-          "gloss": "to show"
+          "gloss": "to show, to display"
         }
       ]
     }

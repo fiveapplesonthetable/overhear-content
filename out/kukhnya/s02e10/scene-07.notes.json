@@ -204,9 +204,9 @@
           "t": "все-таки",
           "lemma": "всё-таки",
           "pos": "part",
-          "stress": "все-та́ки",
+          "stress": "все́-таки",
           "gloss": "after all, still",
-          "gram": "nominative / accusative"
+          "gram": "particle"
         },
         {
           "t": "со",
@@ -274,9 +274,9 @@
           "t": "экзотической",
           "lemma": "экзотический",
           "pos": "adj",
-          "stress": "экзотиче́ской",
+          "stress": "экзоти́ческой",
           "gloss": "exotic",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "кухни.",
@@ -344,7 +344,7 @@
           "t": "черепахового",
           "lemma": "черепаховый",
           "pos": "adj",
-          "stress": "черепахово́го",
+          "stress": "черепа́хового",
           "gloss": "turtle, tortoiseshell",
           "gram": "genitive / accusative masculine-neuter singular"
         },
@@ -412,8 +412,8 @@
           "t": "позаботились",
           "lemma": "позаботиться",
           "pos": "verb",
-          "stress": "позаботи́лись",
-          "gloss": "to take care of, look after",
+          "stress": "позабо́тились",
+          "gloss": "took care",
           "gram": "past tense, plural"
         },
         {
@@ -778,9 +778,9 @@
           "t": "все-таки",
           "lemma": "всё-таки",
           "pos": "part",
-          "stress": "все-та́ки",
+          "stress": "все́-таки",
           "gloss": "after all, still",
-          "gram": "nominative / accusative"
+          "gram": "particle"
         },
         {
           "t": "со",
@@ -848,9 +848,9 @@
           "t": "экзотической",
           "lemma": "экзотический",
           "pos": "adj",
-          "stress": "экзотиче́ской",
+          "stress": "экзоти́ческой",
           "gloss": "exotic",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "кухни.",
@@ -918,7 +918,7 @@
           "t": "черепахового",
           "lemma": "черепаховый",
           "pos": "adj",
-          "stress": "черепахово́го",
+          "stress": "черепа́хового",
           "gloss": "turtle, tortoiseshell",
           "gram": "genitive / accusative masculine-neuter singular"
         },
@@ -986,8 +986,8 @@
           "t": "позаботились",
           "lemma": "позаботиться",
           "pos": "verb",
-          "stress": "позаботи́лись",
-          "gloss": "to take care of, look after",
+          "stress": "позабо́тились",
+          "gloss": "took care",
           "gram": "past tense, plural"
         },
         {
@@ -1352,9 +1352,9 @@
           "t": "все-таки",
           "lemma": "всё-таки",
           "pos": "part",
-          "stress": "все-та́ки",
+          "stress": "все́-таки",
           "gloss": "after all, still",
-          "gram": "nominative / accusative"
+          "gram": "particle"
         },
         {
           "t": "со",
@@ -1422,9 +1422,9 @@
           "t": "экзотической",
           "lemma": "экзотический",
           "pos": "adj",
-          "stress": "экзотиче́ской",
+          "stress": "экзоти́ческой",
           "gloss": "exotic",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "кухни.",
@@ -1492,7 +1492,7 @@
           "t": "черепахового",
           "lemma": "черепаховый",
           "pos": "adj",
-          "stress": "черепахово́го",
+          "stress": "черепа́хового",
           "gloss": "turtle, tortoiseshell",
           "gram": "genitive / accusative masculine-neuter singular"
         },
@@ -1560,8 +1560,8 @@
           "t": "позаботились",
           "lemma": "позаботиться",
           "pos": "verb",
-          "stress": "позаботи́лись",
-          "gloss": "to take care of, look after",
+          "stress": "позабо́тились",
+          "gloss": "took care",
           "gram": "past tense, plural"
         },
         {
@@ -1741,7 +1741,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1798,7 +1798,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1895,6 +1895,7 @@
       "pos": "noun",
       "gloss": "boss",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "boss",
@@ -1933,8 +1934,8 @@
           {
             "cells": [
               "accusative",
-              "босс",
-              "боссы"
+              "босса",
+              "боссов"
             ]
           },
           {
@@ -1966,12 +1967,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "шеф",
+          "gloss": "chef; boss"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "начальник",
+          "gloss": "boss, superior"
         }
       ]
     },
@@ -2405,11 +2406,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2562,7 +2563,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2804,74 +2805,23 @@
       "lemma": "либо",
       "stress": "ли́бо",
       "pos": "conj",
-      "gloss": "either",
+      "gloss": "or; either ... or",
       "meanings": [
         {
-          "en": "either",
-          "note": ""
+          "en": "or; either ... or",
+          "note": "либо ... либо = either ... or"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "либо",
-              "либа"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "либа",
-              "либ"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "либу",
-              "либам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "либо",
-              "либа"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "либом",
-              "либами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "либе",
-              "либах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Либо ты меня сейчас научишь.",
-          "trans": "Either you will teach me right now."
+          "text": "Либо ты меня сейчас научишь, либо я ухожу.",
+          "trans": "Either you teach me right now, or I'm leaving."
         },
         {
-          "text": "Либо правды.",
-          "trans": "Or the truth."
+          "text": "Чаевые, либо большие проблемы.",
+          "trans": "A tip, or big problems."
         }
       ],
       "related": []
@@ -2886,7 +2836,7 @@
       "meanings": [
         {
           "en": "fan, enthusiast",
-          "note": "Amateur or lover of something. Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'fan, enthusiast' in everyday Russian."
+          "note": "Amateur or lover of something."
         }
       ],
       "forms": {
@@ -2945,11 +2895,11 @@
       "examples": [
         {
           "text": "Я слышал, что вы большой любитель.",
-          "trans": "I heard that you are a big enthusiast."
+          "trans": "I heard you're a big fan."
         },
         {
-          "text": "А теперь ничего не чувствуете! Значит, скоро влюбитесь.",
-          "trans": "And now you feel nothing! That means you will fall in love soon."
+          "text": "Мой босс большой любитель экзотической кухни.",
+          "trans": "My boss is a big fan of exotic cuisine."
         }
       ],
       "related": [
@@ -2991,42 +2941,42 @@
             "cells": [
               "nominative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "genitive",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "dative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "accusative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "instrumental",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "prepositional",
               "меню",
-              "—"
+              "меню"
             ]
           }
         ]
@@ -3161,7 +3111,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3213,6 +3163,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3507,11 +3474,11 @@
       "meanings": [
         {
           "en": "normal, ordinary",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": "Colloquial."
         },
         {
           "en": "decent, OK",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3787,7 +3754,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -3900,7 +3867,7 @@
       "meanings": [
         {
           "en": "to think it over, to give it a thought",
-          "note": "Once, for a while. Used as a perfective (single completed action) verb meaning 'to think (it over)', paired with 'думать'."
+          "note": "Once, for a while."
         }
       ],
       "forms": {
@@ -4005,7 +3972,7 @@
       "meanings": [
         {
           "en": "to look after, take care of",
-          "note": "Takes о/об + prepositional. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'заботиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to take care of, look after', paired with 'заботиться'."
+          "note": "Takes о/об + prepositional. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'заботиться')."
         }
       ],
       "forms": {
@@ -4161,6 +4128,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4194,7 +4178,7 @@
       "meanings": [
         {
           "en": "to warn, to give advance notice",
-          "note": "Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упреждать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to warn', paired with 'предупредить'."
+          "note": "Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упреждать')."
         }
       ],
       "forms": {
@@ -4303,7 +4287,7 @@
       "meanings": [
         {
           "en": "to think up, to invent, to come up with",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать'). Used as a perfective (single completed action) verb meaning 'to think up, to come up with', paired with 'придумывать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать')."
         }
       ],
       "forms": {
@@ -4500,11 +4484,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4538,7 +4522,7 @@
       "meanings": [
         {
           "en": "rarely, seldom",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'rarely'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4701,7 +4685,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4812,7 +4796,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -4966,7 +4950,7 @@
       "meanings": [
         {
           "en": "French",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('French')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5060,11 +5044,11 @@
       "meanings": [
         {
           "en": "properly",
-          "note": "Thoroughly, well. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Thoroughly, well."
         },
         {
           "en": "soundly",
-          "note": "With full effort. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "With full effort."
         }
       ],
       "forms": null,
@@ -5106,7 +5090,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5206,13 +5190,12 @@
       "stress": "чаевы́е",
       "pos": "noun",
       "gloss": "tips, gratuity",
-      "gender": "m",
       "number": "pl",
       "animacy": "inan",
       "meanings": [
         {
           "en": "tips, gratuity",
-          "note": "Declinable plural-only noun meaning 'tips', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": "plural only; declines like an adjective: чаевых, чаевым"
         }
       ],
       "forms": {
@@ -5292,7 +5275,7 @@
       "meanings": [
         {
           "en": "turtle, tortoiseshell",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('turtle, tortoiseshell')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5335,10 +5318,10 @@
           {
             "cells": [
               "accusative",
-              "черепаховый",
+              "черепаховый / черепахового",
               "черепаховую",
               "черепаховое",
-              "черепаховые"
+              "черепаховые / черепаховых"
             ]
           },
           {
@@ -5374,12 +5357,12 @@
       ],
       "related": [
         {
-          "word": "черепахово",
-          "gloss": "turtlely (adverbial form)"
+          "word": "черепаха",
+          "gloss": "turtle"
         },
         {
-          "word": "очень черепаховый",
-          "gloss": "very turtle"
+          "word": "черепаховый суп",
+          "gloss": "turtle soup"
         }
       ]
     },
@@ -5485,7 +5468,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -5563,7 +5546,7 @@
       "meanings": [
         {
           "en": "exotic",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('exotic')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5606,10 +5589,10 @@
           {
             "cells": [
               "accusative",
-              "экзотический",
+              "экзотический / экзотического",
               "экзотическую",
               "экзотическое",
-              "экзотические"
+              "экзотические / экзотических"
             ]
           },
           {
@@ -5636,17 +5619,17 @@
       "examples": [
         {
           "text": "Мой босс большой любитель экзотической кухни.",
-          "trans": "My boss is a huge fan of exotic cuisine."
+          "trans": "My boss is a big fan of exotic cuisine."
         },
         {
-          "text": "Сегодня у шефа очень экзотический день в ресторане.",
-          "trans": "Today the chef is having a very exotic day at the restaurant."
+          "text": "Какая же там сочная экзотическая пища!",
+          "trans": "What juicy exotic food they have there!"
         }
       ],
       "related": [
         {
-          "word": "очень экзотический",
-          "gloss": "very exotic"
+          "word": "экзотика",
+          "gloss": "the exotic, exotica"
         }
       ]
     },
@@ -5737,105 +5720,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

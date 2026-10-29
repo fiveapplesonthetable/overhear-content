@@ -104,7 +104,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня",
@@ -211,7 +211,7 @@
           "lemma": "взять",
           "pos": "verb",
           "stress": null,
-          "gloss": "took (assumed)",
+          "gloss": "took, got",
           "gram": "masculine singular past, perfective"
         },
         {
@@ -320,7 +320,7 @@
           "pos": "noun",
           "stress": "семьи́",
           "gloss": "family",
-          "gram": "genitive singular, feminine (governed by касаться)"
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -426,7 +426,7 @@
           "pos": "noun",
           "stress": "де́ти",
           "gloss": "kids",
-          "gram": "nominative plural, used as address"
+          "gram": "nominative plural"
         },
         {
           "t": "а",
@@ -625,7 +625,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -656,7 +656,7 @@
           "t": "бедах.",
           "lemma": "беда",
           "pos": "noun",
-          "stress": "беда́х",
+          "stress": "бе́дах",
           "gloss": "troubles, misfortunes",
           "gram": "feminine prepositional plural"
         }
@@ -764,7 +764,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня",
@@ -871,7 +871,7 @@
           "lemma": "взять",
           "pos": "verb",
           "stress": null,
-          "gloss": "took (assumed)",
+          "gloss": "took, got",
           "gram": "masculine singular past, perfective"
         },
         {
@@ -980,7 +980,7 @@
           "pos": "noun",
           "stress": "семьи́",
           "gloss": "family",
-          "gram": "genitive singular, feminine (governed by касаться)"
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -1086,7 +1086,7 @@
           "pos": "noun",
           "stress": "де́ти",
           "gloss": "kids",
-          "gram": "nominative plural, used as address"
+          "gram": "nominative plural"
         },
         {
           "t": "а",
@@ -1285,7 +1285,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1316,7 +1316,7 @@
           "t": "бедах.",
           "lemma": "беда",
           "pos": "noun",
-          "stress": "беда́х",
+          "stress": "бе́дах",
           "gloss": "troubles, misfortunes",
           "gram": "feminine prepositional plural"
         }
@@ -1424,7 +1424,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня",
@@ -1531,7 +1531,7 @@
           "lemma": "взять",
           "pos": "verb",
           "stress": null,
-          "gloss": "took (assumed)",
+          "gloss": "took, got",
           "gram": "masculine singular past, perfective"
         },
         {
@@ -1640,7 +1640,7 @@
           "pos": "noun",
           "stress": "семьи́",
           "gloss": "family",
-          "gram": "genitive singular, feminine (governed by касаться)"
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -1746,7 +1746,7 @@
           "pos": "noun",
           "stress": "де́ти",
           "gloss": "kids",
-          "gram": "nominative plural, used as address"
+          "gram": "nominative plural"
         },
         {
           "t": "а",
@@ -1945,7 +1945,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1976,7 +1976,7 @@
           "t": "бедах.",
           "lemma": "беда",
           "pos": "noun",
-          "stress": "беда́х",
+          "stress": "бе́дах",
           "gloss": "troubles, misfortunes",
           "gram": "feminine prepositional plural"
         }
@@ -2049,11 +2049,11 @@
       "meanings": [
         {
           "en": "trouble, misfortune",
-          "note": "Common feminine noun meaning 'trouble, misfortune' in everyday Russian."
+          "note": ""
         },
         {
           "en": "в беде = in trouble",
-          "note": "Common feminine noun meaning 'trouble, misfortune' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2329,7 +2329,7 @@
       "meanings": [
         {
           "en": "to come back, to return",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to come back, to return', paired with 'возвращаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2603,7 +2603,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -2757,10 +2757,10 @@
           {
             "cells": [
               "accusative",
-              "виноватый",
+              "виноватый / виноватого",
               "виноватую",
               "виноватое",
-              "виноватые"
+              "виноватые / виноватых"
             ]
           },
           {
@@ -2783,29 +2783,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "виноват",
-                "виновата",
-                "виновато",
-                "виноваты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я знаю, что я виноват.",
@@ -2909,12 +2887,11 @@
       "stress": "деба́ты",
       "pos": "noun",
       "gloss": "debate",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
           "en": "debate, discussion",
-          "note": "Plural only noun. Common plural-only noun meaning 'debate' in everyday Russian."
+          "note": "Plural only noun."
         }
       ],
       "forms": {
@@ -3075,7 +3052,7 @@
       "meanings": [
         {
           "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
+          "note": "Location; compare домой = homeward."
         }
       ],
       "forms": null,
@@ -3104,7 +3081,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -3280,7 +3257,7 @@
       "meanings": [
         {
           "en": "living, alive",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('living, alive, live')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3323,10 +3300,10 @@
           {
             "cells": [
               "accusative",
-              "живой/живого",
+              "живой / живого",
               "живую",
               "живое",
-              "живые/живых"
+              "живые / живых"
             ]
           },
           {
@@ -3500,16 +3477,20 @@
       "gender": "m",
       "meanings": [
         {
-          "en": "class, form (at school)",
-          "note": "Colloquial exclamation. Common masculine noun meaning 'class; (colloquial) cool!' in everyday Russian."
+          "en": "class, form, grade (at school)",
+          "note": ""
         },
         {
           "en": "classroom",
-          "note": "Common masculine noun meaning 'class; (colloquial) cool!' in everyday Russian."
+          "note": ""
         },
         {
           "en": "cool!, great!",
-          "note": "Colloquial exclamation. Common masculine noun meaning 'class; (colloquial) cool!' in everyday Russian."
+          "note": "Colloquial exclamation."
+        },
+        {
+          "en": "class, level",
+          "note": "высшего класса = top-class"
         }
       ],
       "forms": {
@@ -3594,7 +3575,7 @@
       "meanings": [
         {
           "en": "short, brief",
-          "note": "Not long in duration or length. Agrees in gender, number, and case with the noun it modifies ('short, brief')."
+          "note": "Not long in duration or length."
         }
       ],
       "forms": {
@@ -3637,10 +3618,10 @@
           {
             "cells": [
               "accusative",
-              "короткий",
+              "короткий / короткого",
               "короткую",
               "короткое",
-              "короткие"
+              "короткие / коротких"
             ]
           },
           {
@@ -3770,7 +3751,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3839,12 +3820,10 @@
       "stress": "ненави́деть",
       "pos": "verb",
       "gloss": "to hate",
-      "aspect": "impf",
-      "pair": "возненавидеть",
       "meanings": [
         {
           "en": "to hate",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'навидеть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to hate', paired with 'возненавидеть'."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'навидеть')."
         }
       ],
       "forms": {
@@ -3899,6 +3878,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ненавидь",
+                "ненавидьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3918,9 +3914,18 @@
       "related": [
         {
           "word": "возненавидеть",
-          "gloss": "to hate"
+          "gloss": "to come to hate"
+        },
+        {
+          "word": "ненависть",
+          "gloss": "hatred"
+        },
+        {
+          "word": "любить",
+          "gloss": "to love"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "нет": {
       "lemma": "нет",
@@ -3972,7 +3977,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4202,29 +4207,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -4258,7 +4241,7 @@
       "meanings": [
         {
           "en": "oh, ah",
-          "note": "Exclamation of surprise or sorrow. Core Russian interj meaning 'oh, ah' in everyday speech."
+          "note": "Exclamation of surprise or sorrow."
         }
       ],
       "forms": null,
@@ -4412,7 +4395,7 @@
       "meanings": [
         {
           "en": "pause, break, hiatus",
-          "note": "Temporary stop. Common feminine noun meaning 'pause, break' in everyday Russian."
+          "note": "Temporary stop."
         }
       ],
       "forms": {
@@ -4480,8 +4463,8 @@
       ],
       "related": [
         {
-          "word": "паузный",
-          "gloss": "related to pause (adj.)"
+          "word": "перерыв",
+          "gloss": "break"
         }
       ]
     },
@@ -4494,7 +4477,7 @@
       "meanings": [
         {
           "en": "support, encouragement, backing",
-          "note": "Common feminine noun meaning 'support, backing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4509,42 +4492,42 @@
             "cells": [
               "nominative",
               "поддержка",
-              "—"
+              "поддержки"
             ]
           },
           {
             "cells": [
               "genitive",
               "поддержки",
-              "—"
+              "поддержек"
             ]
           },
           {
             "cells": [
               "dative",
               "поддержке",
-              "—"
+              "поддержкам"
             ]
           },
           {
             "cells": [
               "accusative",
               "поддержку",
-              "—"
+              "поддержки"
             ]
           },
           {
             "cells": [
               "instrumental",
               "поддержкой",
-              "—"
+              "поддержками"
             ]
           },
           {
             "cells": [
               "prepositional",
               "поддержке",
-              "—"
+              "поддержках"
             ]
           }
         ]
@@ -4585,11 +4568,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4727,7 +4710,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -4838,11 +4821,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -4876,7 +4859,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -4939,7 +4922,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -5058,7 +5041,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -5303,7 +5286,7 @@
       "meanings": [
         {
           "en": "family",
-          "note": "Common feminine noun meaning 'family' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5387,7 +5370,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5418,7 +5401,7 @@
       "meanings": [
         {
           "en": "to sleep, to be asleep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to sleep', paired with 'поспать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5521,7 +5504,7 @@
       "meanings": [
         {
           "en": "older, senior",
-          "note": "Higher in age or class rank. Agrees in gender, number, and case with the noun it modifies ('older, elder, senior')."
+          "note": "Higher in age or class rank."
         }
       ],
       "forms": {
@@ -5564,10 +5547,10 @@
           {
             "cells": [
               "accusative",
-              "старший",
+              "старший / старшего",
               "старшую",
               "старшее",
-              "старшие"
+              "старшие / старших"
             ]
           },
           {
@@ -5611,7 +5594,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -5640,7 +5623,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -5883,10 +5866,6 @@
         }
       ],
       "related": [
-        {
-          "word": "экскаваторщик",
-          "gloss": "excavator driver"
-        },
         {
           "word": "экскурсовод",
           "gloss": "tour guide"

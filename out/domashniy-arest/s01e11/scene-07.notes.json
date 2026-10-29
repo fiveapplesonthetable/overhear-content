@@ -144,7 +144,7 @@
           "pos": "noun",
           "stress": "сотру́дника",
           "gloss": "employee",
-          "gram": "masculine singular accusative"
+          "gram": "accusative / genitive singular, masculine (animate)"
         }
       ]
     },
@@ -459,7 +459,7 @@
           "lemma": "победить",
           "pos": "verb",
           "stress": "победи́т",
-          "gloss": "wins (lit. will win)",
+          "gloss": "will win",
           "gram": "3rd person singular, future, perfective"
         }
       ]
@@ -721,7 +721,7 @@
           "lemma": "относиться",
           "pos": "verb",
           "stress": "отно́сится",
-          "gloss": "applies",
+          "gloss": "applies; treats, feels about",
           "gram": "3rd person singular present, imperfective"
         }
       ]
@@ -868,7 +868,7 @@
           "pos": "noun",
           "stress": "сотру́дника",
           "gloss": "employee",
-          "gram": "masculine singular accusative"
+          "gram": "accusative / genitive singular, masculine (animate)"
         }
       ]
     },
@@ -1183,7 +1183,7 @@
           "lemma": "победить",
           "pos": "verb",
           "stress": "победи́т",
-          "gloss": "wins (lit. will win)",
+          "gloss": "will win",
           "gram": "3rd person singular, future, perfective"
         }
       ]
@@ -1445,7 +1445,7 @@
           "lemma": "относиться",
           "pos": "verb",
           "stress": "отно́сится",
-          "gloss": "applies",
+          "gloss": "applies; treats, feels about",
           "gram": "3rd person singular present, imperfective"
         }
       ]
@@ -1592,7 +1592,7 @@
           "pos": "noun",
           "stress": "сотру́дника",
           "gloss": "employee",
-          "gram": "masculine singular accusative"
+          "gram": "accusative / genitive singular, masculine (animate)"
         }
       ]
     },
@@ -1907,7 +1907,7 @@
           "lemma": "победить",
           "pos": "verb",
           "stress": "победи́т",
-          "gloss": "wins (lit. will win)",
+          "gloss": "will win",
           "gram": "3rd person singular, future, perfective"
         }
       ]
@@ -2169,7 +2169,7 @@
           "lemma": "относиться",
           "pos": "verb",
           "stress": "отно́сится",
-          "gloss": "applies",
+          "gloss": "applies; treats, feels about",
           "gram": "3rd person singular present, imperfective"
         }
       ]
@@ -2430,7 +2430,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2583,7 +2583,7 @@
         },
         {
           "en": "out!",
-          "note": "Вон отсюда! = get out of here!. Core Russian part meaning 'over there' in everyday speech."
+          "note": "Вон отсюда! = get out of here!."
         }
       ],
       "forms": null,
@@ -2889,12 +2889,10 @@
       "stress": "замолча́ть",
       "pos": "verb",
       "gloss": "to fall silent, shut up",
-      "aspect": "pf",
-      "pair": "молчать",
       "meanings": [
         {
           "en": "to fall silent, stop talking",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'молчать'). Used as a perfective (single completed action) verb meaning 'to fall silent, shut up', paired with 'молчать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'молчать')."
         }
       ],
       "forms": {
@@ -2995,7 +2993,8 @@
           "word": "молча",
           "gloss": "silently"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "здесь": {
       "lemma": "здесь",
@@ -3318,7 +3317,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3425,7 +3424,7 @@
       "meanings": [
         {
           "en": "lazy, idle",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('lazy')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3468,10 +3467,10 @@
           {
             "cells": [
               "accusative",
-              "ленивый / -ого",
+              "ленивый / ленивого",
               "ленивую",
               "ленивое",
-              "ленивые / -ых"
+              "ленивые / ленивых"
             ]
           },
           {
@@ -3497,18 +3496,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Я уволю каждого ленивого сотрудника.",
-          "trans": "I will fire every lazy employee."
-        },
-        {
           "text": "Я уволю каждого ленивого сотрудника!",
           "trans": "I will fire every lazy employee!"
+        },
+        {
+          "text": "Он не глупый, он просто ленивый.",
+          "trans": "He's not stupid, he's just lazy."
         }
       ],
       "related": [
         {
+          "word": "лень",
+          "gloss": "laziness"
+        },
+        {
+          "word": "лентяй",
+          "gloss": "lazybones"
+        },
+        {
           "word": "полениться",
-          "gloss": "to be too lazy"
+          "gloss": "to be too lazy (to do sth)"
         }
       ]
     },
@@ -3763,7 +3770,7 @@
         },
         {
           "en": "dishonestly",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'честно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'честно')."
         }
       ],
       "forms": null,
@@ -3785,7 +3792,11 @@
       "related": [
         {
           "word": "честно",
-          "gloss": "honestly; fair"
+          "gloss": "honestly"
+        },
+        {
+          "word": "нечестный",
+          "gloss": "dishonest, unfair"
         }
       ]
     },
@@ -3835,11 +3846,11 @@
       "meanings": [
         {
           "en": "normal, ordinary",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": "Colloquial."
         },
         {
           "en": "decent, OK",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3976,7 +3987,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -4169,8 +4180,12 @@
       ],
       "related": [
         {
-          "word": "очень по-прежнему",
-          "gloss": "intensified / related adverb (still)"
+          "word": "прежний",
+          "gloss": "former, previous"
+        },
+        {
+          "word": "как раньше",
+          "gloss": "as before"
         }
       ]
     },
@@ -4198,7 +4213,7 @@
           {
             "cells": [
               "1st",
-              "—",
+              "побежу",
               "победим"
             ]
           },
@@ -4292,7 +4307,7 @@
       "meanings": [
         {
           "en": "support, encouragement, backing",
-          "note": "Common feminine noun meaning 'support, backing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4307,42 +4322,42 @@
             "cells": [
               "nominative",
               "поддержка",
-              "—"
+              "поддержки"
             ]
           },
           {
             "cells": [
               "genitive",
               "поддержки",
-              "—"
+              "поддержек"
             ]
           },
           {
             "cells": [
               "dative",
               "поддержке",
-              "—"
+              "поддержкам"
             ]
           },
           {
             "cells": [
               "accusative",
               "поддержку",
-              "—"
+              "поддержки"
             ]
           },
           {
             "cells": [
               "instrumental",
               "поддержкой",
-              "—"
+              "поддержками"
             ]
           },
           {
             "cells": [
               "prepositional",
               "поддержке",
-              "—"
+              "поддержках"
             ]
           }
         ]
@@ -4385,7 +4400,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4517,6 +4532,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4549,12 +4581,12 @@
       "pair": "слушать",
       "meanings": [
         {
-          "en": "to listen (a little, once)",
-          "note": "'Послушай!' / 'Послушайте!' = Listen! (to get attention)"
+          "en": "to listen (for a while), to listen to",
+          "note": "Perfective of слушать."
         },
         {
-          "en": "послушай",
-          "note": "Listen, look (to get attention). Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'слушать'). Used as a perfective (single completed action) verb meaning 'to listen (for a while)', paired with 'слушать'."
+          "en": "listen!, look! (послушай / послушайте)",
+          "note": "Used to get attention."
         }
       ],
       "forms": {
@@ -4697,10 +4729,11 @@
       "pos": "noun",
       "gloss": "president",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "president",
-          "note": "Head of a country or a company. Common masculine noun meaning 'president' in everyday Russian."
+          "note": "Head of a country or a company."
         }
       ],
       "forms": {
@@ -4781,7 +4814,7 @@
       "meanings": [
         {
           "en": "advantage, lead, superiority",
-          "note": "Common neuter noun meaning 'advantage, lead' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4863,7 +4896,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4957,11 +4990,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4995,7 +5028,7 @@
       "meanings": [
         {
           "en": "straight, direct, frank",
-          "note": "Прямая поддержка = direct support. Agrees in gender, number, and case with the noun it modifies ('straight, direct')."
+          "note": "Прямая поддержка = direct support."
         }
       ],
       "forms": {
@@ -5038,10 +5071,10 @@
           {
             "cells": [
               "accusative",
-              "прямой / -ого",
+              "прямой / прямого",
               "прямую",
               "прямое",
-              "прямые / -ых"
+              "прямые / прямых"
             ]
           },
           {
@@ -5436,7 +5469,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5527,15 +5560,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5549,7 +5582,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -5604,6 +5637,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5639,7 +5689,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5669,7 +5719,7 @@
       "meanings": [
         {
           "en": "employee, staff member, coworker",
-          "note": "Person working in an organization. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'employee, staff member' in everyday Russian."
+          "note": "Person working in an organization."
         }
       ],
       "forms": {
@@ -5789,7 +5839,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -5921,7 +5971,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6085,7 +6135,7 @@
       "meanings": [
         {
           "en": "to fire, to sack",
-          "note": "Уволен = fired (short participle). Used as a perfective (single completed action) verb meaning 'to fire, to dismiss', paired with 'увольнять'."
+          "note": "Уволен = fired (short participle)."
         }
       ],
       "forms": {
@@ -6140,6 +6190,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволь",
+                "увольте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6177,7 +6244,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6282,7 +6349,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {
@@ -6393,7 +6460,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6498,7 +6565,7 @@
       "meanings": [
         {
           "en": "whole",
-          "note": "The entire entity; in whole. Common neuter noun meaning 'whole' in everyday Russian."
+          "note": "The entire entity; in whole."
         }
       ],
       "forms": {
@@ -6566,119 +6633,12 @@
       ],
       "related": [
         {
-          "word": "поцеловать",
-          "gloss": "to kiss"
+          "word": "целый",
+          "gloss": "whole"
         },
         {
-          "word": "целовать",
-          "gloss": "to kiss"
-        },
-        {
-          "word": "поцеловаться",
-          "gloss": "to kiss"
-        }
-      ]
-    },
-    "целый": {
-      "lemma": "целый",
-      "stress": "це́лый",
-      "pos": "adj",
-      "gloss": "whole, entire",
-      "meanings": [
-        {
-          "en": "whole, entire",
-          "note": "Целый день = all day long. Agrees in gender, number, and case with the noun it modifies ('whole, entire')."
-        },
-        {
-          "en": "intact, in one piece",
-          "note": "Not broken. Agrees in gender, number, and case with the noun it modifies ('whole, entire')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "целый",
-              "целая",
-              "целое",
-              "целые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "целого",
-              "целой",
-              "целого",
-              "целых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "целому",
-              "целой",
-              "целому",
-              "целым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "целый",
-              "целую",
-              "целое",
-              "целые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "целым",
-              "целой",
-              "целым",
-              "целыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "целом",
-              "целой",
-              "целом",
-              "целых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я не могу гулять здесь целый день.",
-          "trans": "I can't walk around here all day."
-        },
-        {
-          "text": "Мы ждали целый час.",
-          "trans": "We waited for a whole hour."
-        },
-        {
-          "text": "Илья Олегович! Я не могу гулять здесь целый день.",
-          "trans": "Ilya Olegovich! I can't walk around here all day."
-        }
-      ],
-      "related": [
-        {
-          "word": "цело",
-          "gloss": "in a whole way (adv.)"
+          "word": "в целом",
+          "gloss": "on the whole"
         }
       ]
     },

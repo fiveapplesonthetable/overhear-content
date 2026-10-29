@@ -19,7 +19,7 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -28,7 +28,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "прости",
@@ -320,7 +320,7 @@
           "pos": "pron",
           "stress": "кото́рые",
           "gloss": "which, that",
-          "gram": "relative pronoun, accusative plural"
+          "gram": "relative pronoun, nominative / accusative plural"
         },
         {
           "t": "ты",
@@ -489,8 +489,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "дел,",
@@ -635,7 +635,7 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -644,7 +644,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "прости",
@@ -936,7 +936,7 @@
           "pos": "pron",
           "stress": "кото́рые",
           "gloss": "which, that",
-          "gram": "relative pronoun, accusative plural"
+          "gram": "relative pronoun, nominative / accusative plural"
         },
         {
           "t": "ты",
@@ -1105,8 +1105,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "дел,",
@@ -1251,7 +1251,7 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -1260,7 +1260,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "прости",
@@ -1552,7 +1552,7 @@
           "pos": "pron",
           "stress": "кото́рые",
           "gloss": "which, that",
-          "gram": "relative pronoun, accusative plural"
+          "gram": "relative pronoun, nominative / accusative plural"
         },
         {
           "t": "ты",
@@ -1721,8 +1721,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "дел,",
@@ -1876,7 +1876,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -1971,15 +1971,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -1993,11 +1997,11 @@
       "meanings": [
         {
           "en": "to give back, to return",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "+ accusative."
         },
         {
           "en": "to get back",
-          "note": "Money you spent. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "Money you spent."
         }
       ],
       "forms": {
@@ -2266,10 +2270,10 @@
           {
             "cells": [
               "accusative",
-              "виноватый",
+              "виноватый / виноватого",
               "виноватую",
               "виноватое",
-              "виноватые"
+              "виноватые / виноватых"
             ]
           },
           {
@@ -2292,29 +2296,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "виноват",
-                "виновата",
-                "виновато",
-                "виноваты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я знаю, что я виноват.",
@@ -2369,11 +2351,11 @@
       "meanings": [
         {
           "en": "nonsense, silly thing (often plural: глупости)",
-          "note": "Что за глупости? = What nonsense?. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'nonsense, foolishness' in everyday Russian."
+          "note": "Что за глупости? = What nonsense?."
         },
         {
           "en": "stupidity, foolishness",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'nonsense, foolishness' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2581,11 +2563,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2676,15 +2662,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2787,7 +2773,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2864,119 +2849,6 @@
       ],
       "related": []
     },
-    "деть": {
-      "lemma": "деть",
-      "stress": "деть",
-      "pos": "verb",
-      "gloss": "to put, do with, misplace",
-      "aspect": "pf",
-      "pair": "девать",
-      "meanings": [
-        {
-          "en": "to put, do with, dispose of (colloquial)",
-          "note": "Куда ты дел...? = Where did you put / What did you do with...?"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "дену",
-              "денем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "денешь",
-              "денете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "денет",
-              "денут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "дел",
-                "дела",
-                "дело",
-                "дели"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "день",
-                "деньте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Куда ты дел их деньги на новое здание?",
-          "trans": "Where did you put their money for the new building?"
-        },
-        {
-          "text": "Куда я дел ключи?",
-          "trans": "Where did I put the keys?"
-        },
-        {
-          "text": "Да? А спросите у него, куда он дел компьютерный класс.",
-          "trans": "Really? Then ask him where he put the computer lab."
-        }
-      ],
-      "related": [
-        {
-          "word": "девать",
-          "gloss": "to put"
-        },
-        {
-          "word": "надеть",
-          "gloss": "to put on"
-        },
-        {
-          "word": "деться",
-          "gloss": "to go"
-        }
-      ]
-    },
     "дорогой": {
       "lemma": "дорогой",
       "stress": "дорого́й",
@@ -2985,7 +2857,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -3032,10 +2904,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -3058,29 +2930,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -3107,12 +2957,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3167,6 +3015,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3186,17 +3051,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "из": {
       "lemma": "из",
@@ -3245,7 +3111,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3355,72 +3221,7 @@
           "note": "joins a description to a noun; agrees with that noun in gender and number"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "который",
-              "которая",
-              "которое",
-              "которые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "которого",
-              "которой",
-              "которого",
-              "которых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "которому",
-              "которой",
-              "которому",
-              "которым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "который/которого",
-              "которую",
-              "которое",
-              "которые/которых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "которым",
-              "которой",
-              "которым",
-              "которыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "котором",
-              "которой",
-              "котором",
-              "которых"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -3432,8 +3233,8 @@
           "trans": "Where is the book that was here?"
         },
         {
-          "text": "А что я за мэр такой, который держит своё слово?",
-          "trans": "And what kind of mayor would I be if I kept my word?"
+          "text": "Это секрет, который умрёт вместе со мной.",
+          "trans": "It's a secret that will die with me."
         }
       ],
       "related": [
@@ -3451,7 +3252,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -3495,11 +3296,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3583,8 +3384,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -3714,7 +3515,7 @@
       "meanings": [
         {
           "en": "beginning, start",
-          "note": "Common neuter noun meaning 'beginning' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4145,7 +3946,7 @@
       "meanings": [
         {
           "en": "to answer, to reply, to pick up the phone",
-          "note": "Отвечать кому / на звонок. Used as an imperfective (ongoing/repeated action) verb meaning 'to answer, to reply', paired with 'ответить'."
+          "note": "Отвечать кому / на звонок."
         }
       ],
       "forms": {
@@ -4289,7 +4090,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -4400,7 +4201,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4721,7 +4522,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -4872,7 +4673,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4916,7 +4717,7 @@
       "meanings": [
         {
           "en": "hiding place, secret stash",
-          "note": "Secret storage spot. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'hiding place, secret stash' in everyday Russian."
+          "note": "Secret storage spot."
         }
       ],
       "forms": {
@@ -4978,8 +4779,8 @@
           "trans": "Only you knew about this hiding place."
         },
         {
-          "text": "Как? Ты?! А как же адвокатская тайна?",
-          "trans": "How? You?! What about lawyer-client secrecy?"
+          "text": "Учти, я все твои тайники прекрасно знаю.",
+          "trans": "Mind you, I know all your hiding places very well."
         }
       ],
       "related": [
@@ -5125,8 +4926,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5140,7 +4949,7 @@
       "meanings": [
         {
           "en": "to touch",
-          "note": "Не трогай! = Don't touch!. Used as an imperfective (ongoing/repeated action) verb meaning 'to touch', paired with 'тронуть'."
+          "note": "Не трогай! = Don't touch!."
         }
       ],
       "forms": {
@@ -5245,7 +5054,7 @@
       "meanings": [
         {
           "en": "nightstand, bedside table",
-          "note": "Small bedroom cabinet. Common feminine noun meaning 'nightstand, bedside table' in everyday Russian."
+          "note": "Small bedroom cabinet."
         }
       ],
       "forms": {
@@ -5407,7 +5216,7 @@
       "meanings": [
         {
           "en": "horrible, terrible",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('horrible, terrible')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5508,7 +5317,7 @@
       "meanings": [
         {
           "en": "to steal",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'красть'). Used as a perfective (single completed action) verb meaning 'to steal', paired with 'красть'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'красть')."
         }
       ],
       "forms": {
@@ -5613,7 +5422,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {

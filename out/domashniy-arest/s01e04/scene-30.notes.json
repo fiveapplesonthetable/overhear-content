@@ -74,7 +74,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня",
@@ -157,8 +157,8 @@
           "lemma": "подойти",
           "pos": "verb",
           "stress": null,
-          "gloss": "to come up (to), to approach",
-          "gram": "pf fut 3sg"
+          "gloss": "will suit; will come up",
+          "gram": "3rd person singular future, perfective"
         }
       ]
     },
@@ -531,7 +531,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -804,7 +804,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня",
@@ -887,8 +887,8 @@
           "lemma": "подойти",
           "pos": "verb",
           "stress": null,
-          "gloss": "to come up (to), to approach",
-          "gram": "pf fut 3sg"
+          "gloss": "will suit; will come up",
+          "gram": "3rd person singular future, perfective"
         }
       ]
     },
@@ -1267,7 +1267,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1540,7 +1540,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня",
@@ -1623,8 +1623,8 @@
           "lemma": "подойти",
           "pos": "verb",
           "stress": null,
-          "gloss": "to come up (to), to approach",
-          "gram": "pf fut 3sg"
+          "gloss": "will suit; will come up",
+          "gram": "3rd person singular future, perfective"
         }
       ]
     },
@@ -1997,7 +1997,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -2303,7 +2303,7 @@
       "meanings": [
         {
           "en": "airport",
-          "note": "В аэропорту = at the airport. Common masculine noun meaning 'airport' in everyday Russian."
+          "note": "В аэропорту = at the airport."
         }
       ],
       "forms": {
@@ -2352,7 +2352,7 @@
           {
             "cells": [
               "prepositional",
-              "аэропорту",
+              "аэропорте",
               "аэропортах"
             ]
           }
@@ -2361,16 +2361,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Включи аэропорт!",
-          "trans": "Put on the airport!"
+          "text": "Дорогие друзья, к сожалению, мне пора в аэропорт.",
+          "trans": "Dear friends, unfortunately it's time for me to go to the airport."
         },
         {
           "text": "Мы едем в аэропорт.",
           "trans": "We are driving to the airport."
         },
         {
-          "text": "Ты что, шутишь? Включи аэропорт!",
-          "trans": "Are you joking? Put on the airport!"
+          "text": "Мне маму в аэропорту надо встретить.",
+          "trans": "I need to meet my mum at the airport."
         }
       ],
       "related": [
@@ -2389,11 +2389,11 @@
       "meanings": [
         {
           "en": "exchange",
-          "note": "A market where things are traded. Common feminine noun meaning 'exchange; job centre (биржа труда)' in everyday Russian."
+          "note": "A market where things are traded."
         },
         {
           "en": "job centre",
-          "note": "'биржа труда' = labour exchange. Common feminine noun meaning 'exchange; job centre (биржа труда)' in everyday Russian."
+          "note": "'биржа труда' = labour exchange."
         }
       ],
       "forms": {
@@ -2473,11 +2473,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2511,7 +2511,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2769,7 +2769,7 @@
       "meanings": [
         {
           "en": "to switch on, to plug in",
-          "note": "Used as a perfective (single completed action) verb meaning 'to turn on, to plug in', paired with 'включать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2877,7 +2877,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -2951,84 +2951,6 @@
         {
           "word": "временно",
           "gloss": "temporarily"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3226,7 +3148,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3262,11 +3184,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3357,15 +3283,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3379,7 +3305,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -3470,11 +3396,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -3568,7 +3494,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3654,7 +3579,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3692,11 +3617,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3735,11 +3660,11 @@
       "meanings": [
         {
           "en": "document, official paper",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "From Latin 'documentum'."
         },
         {
           "en": "ID, papers",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "In the plural: документы."
         }
       ],
       "forms": {
@@ -3926,11 +3851,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3960,7 +3885,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4083,7 +4008,7 @@
       "meanings": [
         {
           "en": "some, any",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'some, any', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4165,7 +4090,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4187,7 +4112,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4377,7 +4306,7 @@
       "meanings": [
         {
           "en": "to begin, to start",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4457,8 +4386,8 @@
           "trans": "When do I start?"
         },
         {
-          "text": "Урок начинается в девять.",
-          "trans": "The lesson starts at nine."
+          "text": "Ну что ты начинаешь?",
+          "trans": "Oh, don't start."
         },
         {
           "text": "Аркаш, ну что скажешь? Когда начинать?",
@@ -4522,7 +4451,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4565,11 +4494,11 @@
       "meanings": [
         {
           "en": "piece of news",
-          "note": "Plural, also the TV news programme. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'piece of news' in everyday Russian."
+          "note": "Хорошая новость = good news."
         },
         {
           "en": "the news",
-          "note": "Plural, also the TV news programme. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'piece of news' in everyday Russian."
+          "note": "Plural новости, also the TV news programme."
         }
       ],
       "forms": {
@@ -4641,8 +4570,16 @@
       ],
       "related": [
         {
-          "word": "заново",
-          "gloss": "anew"
+          "word": "новый",
+          "gloss": "new"
+        },
+        {
+          "word": "известие",
+          "gloss": "news, notice"
+        },
+        {
+          "word": "что нового?",
+          "gloss": "what's new?"
         }
       ]
     },
@@ -4872,11 +4809,11 @@
       "meanings": [
         {
           "en": "to come up to, to approach",
-          "note": "К + dative. Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": "К + dative."
         },
         {
           "en": "to suit, to fit",
-          "note": "Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4956,10 +4893,6 @@
           "trans": "Come here to me!"
         },
         {
-          "text": "Не подходите к моему ребёнку!",
-          "trans": "Keep away from my child!"
-        },
-        {
           "text": "Нам не нужна ваша приставка! Ещё раз подойдёте к моему ребёнку — пожалеете!",
           "trans": "We don't need your console! Come near my child again and you'll be sorry!"
         }
@@ -4989,7 +4922,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -5102,7 +5035,7 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call, to phone', paired with 'звонить'."
+          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить')."
         }
       ],
       "forms": {
@@ -5248,7 +5181,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "Всё получилось = it all worked out. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
+          "note": "Всё получилось = it all worked out."
         },
         {
           "en": "to come out of, to make",
@@ -5304,6 +5237,23 @@
                 "получилась",
                 "получилось",
                 "получились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получись",
+                "получитесь"
               ]
             }
           ]
@@ -5399,6 +5349,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понравься",
+                "понравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5421,8 +5388,8 @@
           "gloss": "to be liked"
         },
         {
-          "word": "нравоучение",
-          "gloss": "moral lecture"
+          "word": "любить",
+          "gloss": "to love, to like"
         }
       ]
     },
@@ -5436,7 +5403,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -5612,11 +5579,11 @@
       "meanings": [
         {
           "en": "connection (phone, radio)",
-          "note": "'выйти на связь' = to get in touch. Common feminine noun meaning 'connection, link' in everyday Russian."
+          "note": "'выйти на связь' = to get in touch."
         },
         {
           "en": "link, contacts",
-          "note": "Common feminine noun meaning 'connection, link' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5703,7 +5670,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -5711,7 +5678,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -5824,7 +5791,7 @@
       "meanings": [
         {
           "en": "to collect, to raise",
-          "note": "Money, signatures, or documents. Used as an imperfective (ongoing/repeated action) verb meaning 'to collect, to gather, to pack', paired with 'собрать'."
+          "note": "Money, signatures, or documents."
         },
         {
           "en": "to pack, to assemble",
@@ -5930,67 +5897,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -6018,7 +5933,7 @@
       "meanings": [
         {
           "en": "to sleep, to be asleep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to sleep', paired with 'поспать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6217,8 +6132,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -6230,7 +6153,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -6426,7 +6349,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6624,7 +6547,7 @@
       "meanings": [
         {
           "en": "noise",
-          "note": "Common substantive noun meaning 'noise' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6697,7 +6620,11 @@
       "related": [
         {
           "word": "шумный",
-          "gloss": "related to noise (adj.)"
+          "gloss": "noisy"
+        },
+        {
+          "word": "шуметь",
+          "gloss": "to make noise"
         }
       ]
     },
@@ -6711,7 +6638,7 @@
       "meanings": [
         {
           "en": "to joke",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to joke', paired with 'пошутить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6763,6 +6690,23 @@
                 "шутила",
                 "шутило",
                 "шутили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "шути",
+                "шутите"
               ]
             }
           ]

@@ -9,10 +9,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "как",
@@ -144,7 +144,7 @@
           "pos": "adj",
           "stress": "холо́дный",
           "gloss": "cold",
-          "gram": "masculine singular accusative"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "свежий",
@@ -214,7 +214,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -441,10 +441,10 @@
         {
           "t": "шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "больше",
@@ -681,10 +681,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -695,10 +695,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "как",
@@ -830,7 +830,7 @@
           "pos": "adj",
           "stress": "холо́дный",
           "gloss": "cold",
-          "gram": "masculine singular accusative"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "свежий",
@@ -900,7 +900,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -1127,10 +1127,10 @@
         {
           "t": "шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "больше",
@@ -1367,10 +1367,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -1381,10 +1381,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "как",
@@ -1516,7 +1516,7 @@
           "pos": "adj",
           "stress": "холо́дный",
           "gloss": "cold",
-          "gram": "masculine singular accusative"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "свежий",
@@ -1586,7 +1586,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -1813,10 +1813,10 @@
         {
           "t": "шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "больше",
@@ -2053,10 +2053,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -2080,13 +2080,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -2187,7 +2193,8 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "больше": {
       "lemma": "больше",
@@ -2197,11 +2204,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2524,7 +2531,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2623,11 +2630,15 @@
       "lemma": "верный",
       "stress": "ве́рный",
       "pos": "adj",
-      "gloss": "faithful, true, loyal",
+      "gloss": "faithful, loyal; right, sure",
       "meanings": [
         {
           "en": "faithful, true, loyal",
           "note": "steadfast in allegiance or affection"
+        },
+        {
+          "en": "right, correct; sure, reliable",
+          "note": "на верном пути = on the right track; верное средство = a sure remedy"
         }
       ],
       "forms": {
@@ -2670,10 +2681,10 @@
           {
             "cells": [
               "accusative",
-              "верного",
+              "верный / верного",
               "верную",
               "верное",
-              "верных"
+              "верные / верных"
             ]
           },
           {
@@ -2865,7 +2876,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2983,11 +2994,11 @@
       "meanings": [
         {
           "en": "to drink up, to have a drink of",
-          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         },
         {
           "en": "to have an alcoholic drink",
-          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         }
       ],
       "forms": {
@@ -3216,11 +3227,11 @@
       "meanings": [
         {
           "en": "head",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "'голову оторвать' = to tear someone's head off",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "en": "голову оторвать = to tear someone's head off",
+          "note": "an idiom for a big telling-off"
         }
       ],
       "forms": {
@@ -3592,29 +3603,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -3653,7 +3642,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3692,7 +3681,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3781,11 +3770,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3815,7 +3804,7 @@
       "meanings": [
         {
           "en": "health",
-          "note": "Singular only. Common neuter noun meaning 'health' in everyday Russian."
+          "note": "Singular only."
         }
       ],
       "forms": {
@@ -3830,42 +3819,42 @@
             "cells": [
               "nominative",
               "здоровье",
-              "—"
+              "здоровья"
             ]
           },
           {
             "cells": [
               "genitive",
               "здоровья",
-              "—"
+              "здоровий"
             ]
           },
           {
             "cells": [
               "dative",
               "здоровью",
-              "—"
+              "здоровьям"
             ]
           },
           {
             "cells": [
               "accusative",
               "здоровье",
-              "—"
+              "здоровья"
             ]
           },
           {
             "cells": [
               "instrumental",
               "здоровьем",
-              "—"
+              "здоровьями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "здоровье",
-              "—"
+              "здоровьях"
             ]
           }
         ]
@@ -4088,7 +4077,11 @@
       "related": [
         {
           "word": "кошмарный",
-          "gloss": "related to nightmare (adj.)"
+          "gloss": "nightmarish, awful"
+        },
+        {
+          "word": "ужас",
+          "gloss": "horror"
         }
       ]
     },
@@ -4185,7 +4178,7 @@
       "meanings": [
         {
           "en": "it is easy; easily",
-          "note": "Impersonal predicate or adverb. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Impersonal predicate or adverb."
         }
       ],
       "forms": null,
@@ -4223,11 +4216,11 @@
       "meanings": [
         {
           "en": "extra, spare",
-          "note": "Сказать лишнего = to say too much. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('extra, spare; unnecessary, too much')."
+          "note": "Сказать лишнего = to say too much."
         },
         {
           "en": "unnecessary, too much",
-          "note": "Сказать лишнего = to say too much. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('extra, spare; unnecessary, too much')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4270,10 +4263,10 @@
           {
             "cells": [
               "accusative",
-              "лишний/лишнего",
+              "лишний / лишнего",
               "лишнюю",
               "лишнее",
-              "лишние/лишних"
+              "лишние / лишних"
             ]
           },
           {
@@ -4308,7 +4301,7 @@
         },
         {
           "text": "Главное, не говорите лишних глупостей.",
-          "trans": "The main thing is do not say unnecessary foolishness."
+          "trans": "The main thing is, don't say anything stupid."
         }
       ],
       "related": []
@@ -4322,7 +4315,7 @@
       "meanings": [
         {
           "en": "match, game (sports)",
-          "note": "Common masculine noun meaning 'match, game' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4400,10 +4393,11 @@
       "pos": "noun",
       "gloss": "drink, beverage",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "drink, beverage",
-          "note": "Derived masculine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'drink'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4475,8 +4469,16 @@
       ],
       "related": [
         {
-          "word": "напиться",
-          "gloss": "get drunk"
+          "word": "пить",
+          "gloss": "to drink"
+        },
+        {
+          "word": "выпивка",
+          "gloss": "booze"
+        },
+        {
+          "word": "сок",
+          "gloss": "juice"
         }
       ]
     },
@@ -4588,7 +4590,7 @@
       "meanings": [
         {
           "en": "to begin, to start",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4668,8 +4670,8 @@
           "trans": "When do I start?"
         },
         {
-          "text": "Урок начинается в девять.",
-          "trans": "The lesson starts at nine."
+          "text": "Ну что ты начинаешь?",
+          "trans": "Oh, don't start."
         },
         {
           "text": "Аркаш, ну что скажешь? Когда начинать?",
@@ -4836,7 +4838,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4878,7 +4880,7 @@
       "meanings": [
         {
           "en": "no ... at all, not any",
-          "note": "With не / нет. Core Russian det meaning 'no ... at all, not any' in everyday speech."
+          "note": "With не / нет."
         }
       ],
       "forms": {
@@ -5016,7 +5018,7 @@
       "meanings": [
         {
           "en": "lunch, dinner (midday)",
-          "note": "Перерыв на обед = lunch break. Common masculine noun meaning 'lunch, midday meal' in everyday Russian."
+          "note": "Перерыв на обед = lunch break."
         }
       ],
       "forms": {
@@ -5189,7 +5191,7 @@
       "meanings": [
         {
           "en": "to step aside, to move back",
-          "note": "Perfective of отходить. Used as a perfective (single completed action) verb meaning 'to step back, to move away', paired with 'отходить'."
+          "note": "Perfective of отходить."
         }
       ],
       "forms": {
@@ -5477,11 +5479,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -5517,7 +5519,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -5780,7 +5782,7 @@
       "meanings": [
         {
           "en": "pickle brine, pickle juice",
-          "note": "Common masculine noun meaning 'pickle brine, pickle juice' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5852,12 +5854,16 @@
       ],
       "related": [
         {
-          "word": "рассказывать",
-          "gloss": "to tell"
+          "word": "соль",
+          "gloss": "salt"
         },
         {
-          "word": "рассказать",
-          "gloss": "to tell"
+          "word": "огурец",
+          "gloss": "cucumber"
+        },
+        {
+          "word": "солёный",
+          "gloss": "salted, pickled"
         }
       ]
     },
@@ -5869,7 +5875,7 @@
       "meanings": [
         {
           "en": "fresh",
-          "note": "Food, air, news. Agrees in gender, number, and case with the noun it modifies ('fresh')."
+          "note": "Food, air, news."
         }
       ],
       "forms": {
@@ -5912,10 +5918,10 @@
           {
             "cells": [
               "accusative",
-              "свежий",
+              "свежий / свежего",
               "свежую",
               "свежее",
-              "свежие"
+              "свежие / свежих"
             ]
           },
           {
@@ -6045,7 +6051,7 @@
         },
         {
           "en": "promise",
-          "note": "'дать слово' = to give one's word, 'держать слово' = to keep one's word"
+          "note": ""
         }
       ],
       "forms": {
@@ -6184,7 +6190,7 @@
       "meanings": [
         {
           "en": "glass, drinking glass, tumbler",
-          "note": "Common masculine noun meaning 'glass, tumbler' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6271,7 +6277,7 @@
         },
         {
           "en": "to start (doing)",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -6541,11 +6547,11 @@
       "meanings": [
         {
           "en": "cold, chilled",
-          "note": "Low temperature. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('cold, chilly; distant')."
+          "note": "Low temperature."
         },
         {
           "en": "unfriendly, cold",
-          "note": "Emotion. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('cold, chilly; distant')."
+          "note": "Emotion."
         }
       ],
       "forms": {
@@ -6588,10 +6594,10 @@
           {
             "cells": [
               "accusative",
-              "холодный",
+              "холодный / холодного",
               "холодную",
               "холодное",
-              "холодные"
+              "холодные / холодных"
             ]
           },
           {
@@ -6622,11 +6628,11 @@
         },
         {
           "text": "Вот хорошая ты баба. Холодная.",
-          "trans": "You are a good woman. Cold."
+          "trans": "You're a good woman, you are. Cold, though."
         },
         {
-          "text": "Холодная.",
-          "trans": "Cold."
+          "text": "Умойся холодной водой и успокойся.",
+          "trans": "Wash your face with cold water and calm down."
         }
       ],
       "related": [
@@ -6639,6 +6645,88 @@
           "gloss": "fridge"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "этот": {
       "lemma": "этот",

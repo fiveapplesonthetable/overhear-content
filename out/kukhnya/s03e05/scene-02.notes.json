@@ -195,7 +195,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -371,7 +371,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -472,7 +472,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "о",
@@ -723,7 +723,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -899,7 +899,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1000,7 +1000,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "о",
@@ -1251,7 +1251,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1427,7 +1427,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1528,7 +1528,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "о",
@@ -1694,7 +1694,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -1961,11 +1961,11 @@
       "pos": "verb",
       "gloss": "get enough sleep",
       "aspect": "pf",
-      "pair": null,
+      "pair": "высыпаться",
       "meanings": [
         {
           "en": "get enough sleep",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'спаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'get enough sleep'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'спаться')."
         }
       ],
       "forms": {
@@ -2017,6 +2017,23 @@
                 "выспалась",
                 "выспалось",
                 "выспались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выспись",
+                "выспитесь"
               ]
             }
           ]
@@ -2306,11 +2323,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2390,12 +2407,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2421,7 +2438,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2558,7 +2575,7 @@
             "cells": [
               "dative",
               "любви",
-              "любовям"
+              "любвям"
             ]
           },
           {
@@ -2572,14 +2589,14 @@
             "cells": [
               "instrumental",
               "любовью",
-              "любовями"
+              "любвями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "любви",
-              "любовях"
+              "любвях"
             ]
           }
         ]
@@ -2698,7 +2715,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3042,7 +3059,7 @@
       "meanings": [
         {
           "en": "to spend the night, stay overnight",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to spend the night'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3056,22 +3073,22 @@
           {
             "cells": [
               "1st",
-              "ночюю",
-              "ночюем"
+              "ночую",
+              "ночуем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "ночюешь",
-              "ночюете"
+              "ночуешь",
+              "ночуете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "ночюет",
-              "ночюют"
+              "ночует",
+              "ночуют"
             ]
           }
         ]
@@ -3094,6 +3111,23 @@
                 "ночевала",
                 "ночевало",
                 "ночевали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ночуй",
+                "ночуйте"
               ]
             }
           ]
@@ -3364,7 +3398,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -3391,11 +3425,11 @@
       "pos": "verb",
       "gloss": "to open, open up",
       "aspect": "impf",
-      "pair": null,
+      "pair": "открыться",
       "meanings": [
         {
           "en": "to open, open up (opportunities, views)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an verbal verb meaning 'to open, open up'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3433,6 +3467,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -3441,6 +3476,7 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "открывался",
                 "открывалась",
                 "открывалось",
@@ -3448,20 +3484,37 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "открывайся",
+                "открывайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "У нас открываются большие карты.",
-          "trans": "Big cards are opening up for us."
-        },
-        {
-          "text": "У нас сейчас открываются большие карты.",
-          "trans": "Big cards are opening up for us now."
+          "text": "Ресторан скоро открывается для гостей.",
+          "trans": "The restaurant opens to guests soon."
         },
         {
           "text": "Через неделю они открываются рядом с нами.",
-          "trans": "In a week they are opening right next to us."
+          "trans": "In a week they're opening right next to us."
+        },
+        {
+          "text": "У вас написано, что вы открываетесь в одиннадцать.",
+          "trans": "It says here that you open at eleven."
         }
       ],
       "related": [
@@ -3487,7 +3540,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3586,6 +3639,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3605,111 +3675,6 @@
       "related": [
         {
           "word": "понять",
-          "gloss": "to understand"
-        }
-      ]
-    },
-    "понять": {
-      "lemma": "понять",
-      "stress": "поня́ть",
-      "pos": "verb",
-      "gloss": "to understand",
-      "aspect": "pf",
-      "pair": "понимать",
-      "meanings": [
-        {
-          "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "пойму",
-              "поймём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "поймёшь",
-              "поймёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "поймёт",
-              "поймут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "понял",
-                "поняла",
-                "поняло",
-                "поняли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "пойми",
-                "поймите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Понял?",
-          "trans": "Got it?"
-        },
-        {
-          "text": "Я не понял.",
-          "trans": "I didn't understand."
-        },
-        {
-          "text": "Со всеми поделись поровну, понял?",
-          "trans": "Share it all equally with everyone, understand?"
-        }
-      ],
-      "related": [
-        {
-          "word": "понимать",
           "gloss": "to understand"
         }
       ]
@@ -3761,7 +3726,7 @@
       "meanings": [
         {
           "en": "prince",
-          "note": "Common masculine noun meaning 'prince' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3783,7 +3748,7 @@
             "cells": [
               "genitive",
               "принца",
-              "принцов"
+              "принцев"
             ]
           },
           {
@@ -3796,14 +3761,14 @@
           {
             "cells": [
               "accusative",
-              "принц",
-              "принцы"
+              "принца",
+              "принцев"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "принцом",
+              "принцем",
               "принцами"
             ]
           },
@@ -3819,26 +3784,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Я вам сейчас принесу воды.",
-          "trans": "I will bring you some water right now."
-        },
-        {
           "text": "Ведь я настоящий принц.",
-          "trans": "After all, I am a real prince."
+          "trans": "After all, I'm a real prince."
         },
         {
-          "text": "А она здесь при чём?",
-          "trans": "And what does she have to do with this?"
+          "text": "И принца своего я жду давно.",
+          "trans": "And I've been waiting for my prince for a long time."
         }
       ],
       "related": [
         {
-          "word": "без прин",
-          "gloss": "without prince"
+          "word": "принцесса",
+          "gloss": "princess"
         },
         {
-          "word": "наш принц",
-          "gloss": "our prince"
+          "word": "король",
+          "gloss": "king"
+        },
+        {
+          "word": "королева",
+          "gloss": "queen"
         }
       ]
     },
@@ -3885,7 +3850,7 @@
       "meanings": [
         {
           "en": "to wake up",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'сыпаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to wake up', paired with 'проснуться'."
+          "note": "from спать; pf проснуться"
         }
       ],
       "forms": {
@@ -4220,7 +4185,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -4342,7 +4307,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4394,6 +4359,23 @@
                 "увиделась",
                 "увиделось",
                 "увиделись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
               ]
             }
           ]

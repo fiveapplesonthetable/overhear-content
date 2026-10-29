@@ -44,7 +44,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "фильм.",
@@ -89,7 +89,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -604,7 +604,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "слов?",
@@ -749,7 +749,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -996,7 +996,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "фильм.",
@@ -1041,7 +1041,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1556,7 +1556,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "слов?",
@@ -1777,11 +1777,11 @@
       "meanings": [
         {
           "en": "century",
-          "note": "Common masculine noun meaning 'century; age' in everyday Russian."
+          "note": ""
         },
         {
           "en": "age, lifetime",
-          "note": "Common masculine noun meaning 'century; age' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1976,7 +1976,7 @@
       "meanings": [
         {
           "en": "cheerful, joyful",
-          "note": "In good spirits, lively. Agrees in gender, number, and case with the noun it modifies ('cheerful, merry, fun')."
+          "note": "In good spirits, lively."
         }
       ],
       "forms": {
@@ -2019,10 +2019,10 @@
           {
             "cells": [
               "accusative",
-              "весёлый",
+              "весёлый / весёлого",
               "весёлую",
               "весёлое",
-              "весёлые"
+              "весёлые / весёлых"
             ]
           },
           {
@@ -2062,8 +2062,16 @@
       ],
       "related": [
         {
-          "word": "весёло",
-          "gloss": "in a cheerful way (adv.)"
+          "word": "весело",
+          "gloss": "cheerfully; it's fun"
+        },
+        {
+          "word": "веселье",
+          "gloss": "fun, merriment"
+        },
+        {
+          "word": "веселиться",
+          "gloss": "to have fun"
         }
       ]
     },
@@ -2132,6 +2140,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видай",
+                "видайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2167,8 +2192,12 @@
       "gender": "f",
       "meanings": [
         {
+          "en": "will, willpower",
+          "note": "по доброй воле = of one's own free will"
+        },
+        {
           "en": "freedom, liberty",
-          "note": "freedom from confinement (век воли не видать)"
+          "note": "на воле = free, out of prison; век воли не видать = may I never see freedom (thieves' oath)"
         }
       ],
       "forms": {
@@ -2227,178 +2256,18 @@
       "examples": [
         {
           "text": "Да, век воли не видать!",
-          "trans": "Yes, swear on my freedom!"
+          "trans": "Yes, may I never see freedom again!"
         },
         {
           "text": "Настоящий шеф-повар требует сильной воли.",
-          "trans": "A real head chef requires strong willpower."
+          "trans": "Being a real head chef takes strong willpower."
         },
         {
-          "text": "У меня есть опыт и сильная воля.",
-          "trans": "I have experience and strong willpower."
+          "text": "Рад снова видеть тебя на воле, с чистой совестью.",
+          "trans": "Glad to see you free again, with a clear conscience."
         }
       ],
       "related": []
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
-    "вы": {
-      "lemma": "вы",
-      "stress": "вы",
-      "pos": "pron",
-      "gloss": "you (polite or plural)",
-      "meanings": [
-        {
-          "en": "you",
-          "note": "polite to one person, or to several people"
-        },
-        {
-          "en": "other forms: вас (gen/acc), вам (dat), вами (instr), вас (prep)",
-          "note": "Case forms. Core Russian pron meaning 'you (polite or plural)' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "вы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "вас"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "вам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "вас"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "вами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "вас"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Как вы все знаете...",
-          "trans": "As you all know..."
-        },
-        {
-          "text": "Губернатор вас поддерживает?",
-          "trans": "Does the governor support you?"
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "related": [
-        {
-          "word": "вас",
-          "gloss": "you (genitive/accusative)"
-        }
-      ]
     },
     "где": {
       "lemma": "где",
@@ -2558,7 +2427,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2594,11 +2463,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2689,15 +2562,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2710,7 +2583,7 @@
       "meanings": [
         {
           "en": "courtyard, yard",
-          "note": "Во дворе = in the yard / outside. Common masculine noun meaning 'yard, courtyard' in everyday Russian."
+          "note": "Во дворе = in the yard / outside."
         }
       ],
       "forms": {
@@ -2899,12 +2772,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2959,6 +2830,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2978,17 +2866,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "зуб": {
       "lemma": "зуб",
@@ -2996,10 +2885,11 @@
       "pos": "noun",
       "gloss": "tooth",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "tooth",
-          "note": "Anatomy. Common masculine noun meaning 'tooth' in everyday Russian."
+          "note": "Anatomy."
         }
       ],
       "forms": {
@@ -3118,7 +3008,7 @@
       "meanings": [
         {
           "en": "comedy",
-          "note": "Humorous play or film. Common feminine noun meaning 'comedy' in everyday Russian."
+          "note": "Humorous play or film."
         }
       ],
       "forms": {
@@ -3198,7 +3088,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3262,7 +3152,7 @@
             "cells": [
               "dative",
               "любви",
-              "любовям"
+              "любвям"
             ]
           },
           {
@@ -3276,14 +3166,14 @@
             "cells": [
               "instrumental",
               "любовью",
-              "любовями"
+              "любвями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "любви",
-              "любовях"
+              "любвях"
             ]
           }
         ]
@@ -3357,12 +3247,10 @@
       "stress": "нахвата́ться",
       "pos": "verb",
       "gloss": "to pick up (habits, words)",
-      "aspect": "pf",
-      "pair": "хвататься",
       "meanings": [
         {
           "en": "to pick up superficially",
-          "note": "Adopt words or habits from others. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'хвататься'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to pick up (habits, words)', paired with 'хвататься'."
+          "note": "Adopt words or habits from others. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'хвататься')."
         }
       ],
       "forms": {
@@ -3448,18 +3336,19 @@
       ],
       "related": [
         {
-          "word": "хвататься",
-          "gloss": "grab"
-        },
-        {
-          "word": "хватить",
-          "gloss": "to be enough"
-        },
-        {
           "word": "хватать",
           "gloss": "to grab"
+        },
+        {
+          "word": "хвататься",
+          "gloss": "to grab hold of"
+        },
+        {
+          "word": "набраться",
+          "gloss": "to pick up, to acquire"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "не": {
       "lemma": "не",
@@ -3578,98 +3467,6 @@
         }
       ],
       "related": []
-    },
-    "опоздать": {
-      "lemma": "опоздать",
-      "stress": "опозда́ть",
-      "pos": "verb",
-      "gloss": "to be late",
-      "aspect": "pf",
-      "pair": "опаздывать",
-      "meanings": [
-        {
-          "en": "to be late",
-          "note": "+ на: опоздать на работу = be late for work"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "опоздаю",
-              "опоздаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "опоздаешь",
-              "опоздаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "опоздает",
-              "опоздают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "опоздал",
-                "опоздала",
-                "опоздало",
-                "опоздали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Прости, я опоздал.",
-          "trans": "Sorry, I'm late."
-        },
-        {
-          "text": "Мы не опоздаем?",
-          "trans": "Won't we be late?"
-        },
-        {
-          "text": "Викуля! Прости, милая, я опоздал.",
-          "trans": "Vikulya! Sorry, darling, I'm late."
-        }
-      ],
-      "related": [
-        {
-          "word": "опаздывать",
-          "gloss": "to be running late"
-        },
-        {
-          "word": "опоздание",
-          "gloss": "being late"
-        }
-      ]
     },
     "откуда": {
       "lemma": "откуда",
@@ -3842,7 +3639,7 @@
       "meanings": [
         {
           "en": "lad, boy, kid, young fellow",
-          "note": "Colloquial. Common masculine noun meaning 'lad, boy, kid' in everyday Russian."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -3923,15 +3720,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -3967,11 +3764,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4164,6 +3961,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понравься",
+                "понравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4186,8 +4000,8 @@
           "gloss": "to be liked"
         },
         {
-          "word": "нравоучение",
-          "gloss": "moral lecture"
+          "word": "любить",
+          "gloss": "to love, to like"
         }
       ]
     },
@@ -4201,11 +4015,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -4468,7 +4282,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4572,7 +4386,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -4630,8 +4444,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -4658,7 +4472,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4749,15 +4563,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4770,7 +4584,7 @@
       "meanings": [
         {
           "en": "Skype",
-          "note": "Video calling application. Common masculine noun meaning 'Skype' in everyday Russian."
+          "note": "Video calling application."
         }
       ],
       "forms": {
@@ -4832,8 +4646,8 @@
           "trans": "Watch the movie Wedding on Skype."
         },
         {
-          "text": "Что ты сказал?",
-          "trans": "What did you say?"
+          "text": "Давай поговорим по скайпу вечером.",
+          "trans": "Let's talk on Skype this evening."
         }
       ],
       "related": []
@@ -4851,7 +4665,7 @@
         },
         {
           "en": "promise",
-          "note": "'дать слово' = to give one's word, 'держать слово' = to keep one's word"
+          "note": ""
         }
       ],
       "forms": {
@@ -4923,126 +4737,15 @@
       ],
       "related": []
     },
-    "смотреть": {
-      "lemma": "смотреть",
-      "stress": "смотре́ть",
-      "pos": "verb",
-      "gloss": "to look, to watch",
-      "aspect": "impf",
-      "pair": "посмотреть",
-      "meanings": [
-        {
-          "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
-        },
-        {
-          "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "смотрю",
-              "смотрим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "смотришь",
-              "смотрите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "смотрит",
-              "смотрят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "смотрел",
-                "смотрела",
-                "смотрело",
-                "смотрели"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "смотри",
-                "смотрите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Смотри, что у меня есть.",
-          "trans": "Look what I've got."
-        },
-        {
-          "text": "Я смотрю телевизор.",
-          "trans": "I'm watching TV."
-        },
-        {
-          "text": "Привет! Смотри, что у меня есть.",
-          "trans": "Hi! Look what I've got."
-        }
-      ],
-      "related": [
-        {
-          "word": "посмотреть",
-          "gloss": "to have a look"
-        }
-      ]
-    },
     "сходить": {
       "lemma": "сходить",
       "stress": "сходи́ть",
       "pos": "verb",
       "gloss": "to go (somewhere and come back)",
-      "aspect": "pf",
-      "pair": "ходить",
       "meanings": [
         {
           "en": "to go and come back, to pop over",
-          "note": "'Сходите!' = Go on, go and see. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ходить'). Used as a perfective (single completed action) verb meaning 'to go (somewhere and come back)', paired with 'ходить'."
+          "note": "perfective; сходите! = go on, go and see"
         }
       ],
       "forms": {
@@ -5143,7 +4846,8 @@
           "word": "заходить",
           "gloss": "to come in"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "так": {
       "lemma": "так",
@@ -5199,7 +4903,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5293,11 +4997,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5440,7 +5144,7 @@
             "cells": [
               "genitive",
               "тёти",
-              "тётей"
+              "тёть"
             ]
           },
           {
@@ -5454,7 +5158,7 @@
             "cells": [
               "accusative",
               "тётю",
-              "тётей"
+              "тёть"
             ]
           },
           {
@@ -5498,11 +5202,11 @@
       "meanings": [
         {
           "en": "confident, assured",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": "Short form уверен / уверена."
         },
         {
           "en": "sure, certain",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5545,10 +5249,10 @@
           {
             "cells": [
               "accusative",
-              "уверенный",
+              "уверенный / уверенного",
               "уверенную",
               "уверенное",
-              "уверенные"
+              "уверенные / уверенных"
             ]
           },
           {
@@ -5602,7 +5306,7 @@
       "meanings": [
         {
           "en": "movie, motion picture, film",
-          "note": "Common masculine noun meaning 'movie, film' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5724,7 +5428,7 @@
       "meanings": [
         {
           "en": "honest",
-          "note": "The т is not pronounced: [чесный]. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('honest')."
+          "note": "The т is not pronounced: [чесный]."
         }
       ],
       "forms": {
@@ -5793,29 +5497,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "честен",
-                "честна",
-                "честно",
-                "честны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Он честный человек.",
@@ -5928,48 +5610,6 @@
         {
           "word": "потому что",
           "gloss": "because"
-        }
-      ]
-    },
-    "чтобы": {
-      "lemma": "чтобы",
-      "stress": "что́бы",
-      "pos": "conj",
-      "gloss": "so that, in order to",
-      "meanings": [
-        {
-          "en": "so that",
-          "note": "+ past tense: 'чтобы свидетели были'"
-        },
-        {
-          "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Чтобы свидетели были.",
-          "trans": "So that there are witnesses."
-        },
-        {
-          "text": "Я звоню, чтобы сказать спасибо.",
-          "trans": "I'm calling to say thank you."
-        },
-        {
-          "text": "Чтобы свидетели были, Самсон.",
-          "trans": "So that there are witnesses, Samson."
-        }
-      ],
-      "related": [
-        {
-          "word": "что",
-          "gloss": "what, that"
-        },
-        {
-          "word": "бы",
-          "gloss": "conditional particle"
         }
       ]
     },

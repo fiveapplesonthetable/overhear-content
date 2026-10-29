@@ -276,7 +276,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -395,8 +395,8 @@
           "lemma": "миленький",
           "pos": "adj",
           "stress": "ми́ленький",
-          "gloss": "meekly",
-          "gram": "masculine singular nominative adjective"
+          "gloss": "meek as a lamb (как миленький)",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -866,7 +866,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -985,8 +985,8 @@
           "lemma": "миленький",
           "pos": "adj",
           "stress": "ми́ленький",
-          "gloss": "meekly",
-          "gram": "masculine singular nominative adjective"
+          "gloss": "meek as a lamb (как миленький)",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -1456,7 +1456,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1575,8 +1575,8 @@
           "lemma": "миленький",
           "pos": "adj",
           "stress": "ми́ленький",
-          "gloss": "meekly",
-          "gram": "masculine singular nominative adjective"
+          "gloss": "meek as a lamb (как миленький)",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -1802,7 +1802,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2230,7 +2230,7 @@
       "meanings": [
         {
           "en": "to line up, form a queue",
-          "note": "Form a single file or line. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'строиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to line up, form a queue', paired with 'выстраиваться'."
+          "note": "Form a single file or line. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'строиться')."
         }
       ],
       "forms": {
@@ -2317,15 +2317,15 @@
       "related": [
         {
           "word": "выстраиваться",
-          "gloss": "to line up"
+          "gloss": "to line up (impf)"
         },
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "очередь",
+          "gloss": "queue"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
+          "word": "строиться",
+          "gloss": "to line up, to form up"
         }
       ]
     },
@@ -2341,7 +2341,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2470,11 +2470,11 @@
       "meanings": [
         {
           "en": "document, official paper",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "From Latin 'documentum'."
         },
         {
           "en": "ID, papers",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "In the plural: документы."
         }
       ],
       "forms": {
@@ -2554,7 +2554,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -2993,7 +2993,7 @@
       "meanings": [
         {
           "en": "darling, sweet, meek",
-          "note": "As meek as a lamb in idiom. Agrees in gender, number, and case with the noun it modifies ('darling, sweet, meek')."
+          "note": "As meek as a lamb in idiom."
         }
       ],
       "forms": {
@@ -3036,10 +3036,10 @@
           {
             "cells": [
               "accusative",
-              "миленький",
+              "миленький / миленького",
               "миленькую",
               "миленькое",
-              "миленькие"
+              "миленькие / миленьких"
             ]
           },
           {
@@ -3090,7 +3090,7 @@
       "meanings": [
         {
           "en": "to make peace, reconcile",
-          "note": "Stop fighting. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to make peace, reconcile', paired with 'помириться'."
+          "note": "Stop fighting."
         }
       ],
       "forms": {
@@ -3298,7 +3298,7 @@
       "meanings": [
         {
           "en": "young woman",
-          "note": "Colloquial. Common feminine noun meaning 'young woman' in everyday Russian."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -3385,6 +3385,7 @@
       "pos": "noun",
       "gloss": "mayor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "mayor",
@@ -3458,7 +3459,16 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "мэрия",
+          "gloss": "town hall"
+        },
+        {
+          "word": "губернатор",
+          "gloss": "governor"
+        }
+      ]
     },
     "надо": {
       "lemma": "надо",
@@ -3468,7 +3478,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3613,29 +3623,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -3765,11 +3753,11 @@
       "meanings": [
         {
           "en": "to leave (someone or something somewhere)",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": "Оставь мне кусок = save me a piece."
         },
         {
           "en": "to keep, to save",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3880,7 +3868,7 @@
       "meanings": [
         {
           "en": "official",
-          "note": "Authorized or recognized. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('official')."
+          "note": "Authorized or recognized."
         }
       ],
       "forms": {
@@ -3923,10 +3911,10 @@
           {
             "cells": [
               "accusative",
-              "официальный",
+              "официальный / официального",
               "официальную",
               "официальное",
-              "официальные"
+              "официальные / официальных"
             ]
           },
           {
@@ -3957,11 +3945,11 @@
         },
         {
           "text": "Это официальные документы о нашем разводе.",
-          "trans": "These are official documents regarding our divorce."
+          "trans": "These are the official documents for our divorce."
         },
         {
           "text": "Я тоже подам официальный рапорт об отставке.",
-          "trans": "I will also submit an official resignation report."
+          "trans": "I'll also hand in an official letter of resignation."
         }
       ],
       "related": [
@@ -3977,6 +3965,7 @@
       "pos": "noun",
       "gloss": "queue, line; turn",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "queue, line",
@@ -3984,7 +3973,7 @@
         },
         {
           "en": "turn",
-          "note": "Моя очередь = it's my turn. Common feminine noun meaning 'queue, line; turn' in everyday Russian."
+          "note": "Моя очередь = it's my turn."
         }
       ],
       "forms": {
@@ -4107,7 +4096,7 @@
       "meanings": [
         {
           "en": "peace, rest, quiet",
-          "note": "Оставить в покое = leave alone. Common masculine noun meaning 'peace, rest, quiet' in everyday Russian."
+          "note": "Оставить в покое = leave alone."
         }
       ],
       "forms": {
@@ -4122,42 +4111,42 @@
             "cells": [
               "nominative",
               "покой",
-              "—"
+              "покои"
             ]
           },
           {
             "cells": [
               "genitive",
               "покоя",
-              "—"
+              "покоев"
             ]
           },
           {
             "cells": [
               "dative",
               "покою",
-              "—"
+              "покоям"
             ]
           },
           {
             "cells": [
               "accusative",
               "покой",
-              "—"
+              "покои"
             ]
           },
           {
             "cells": [
               "instrumental",
               "покоем",
-              "—"
+              "покоями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "покое",
-              "—"
+              "покоях"
             ]
           }
         ]
@@ -4263,22 +4252,26 @@
           "trans": "Now let's go through everything in order."
         },
         {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
+          "text": "Не бойся, всё в порядке!",
+          "trans": "Don't worry, everything's fine!"
         },
         {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
+          "text": "Да, я наведу здесь железный порядок.",
+          "trans": "Yes, I'll establish iron order here."
         }
       ],
       "related": [
         {
-          "word": "рядом",
-          "gloss": "nearby"
+          "word": "в порядке",
+          "gloss": "fine, OK"
         },
         {
-          "word": "порядочность",
-          "gloss": "decency"
+          "word": "порядочный",
+          "gloss": "decent"
+        },
+        {
+          "word": "беспорядок",
+          "gloss": "mess, disorder"
         }
       ]
     },
@@ -4292,7 +4285,7 @@
       "meanings": [
         {
           "en": "to warn, caution",
-          "note": "Кого о чём. Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упредить'). Used as a perfective (single completed action) verb meaning 'to warn, notify in advance', paired with 'предупреждать'."
+          "note": "Кого о чём. Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упредить')."
         }
       ],
       "forms": {
@@ -4547,10 +4540,10 @@
           {
             "cells": [
               "accusative",
-              "прочий",
+              "прочий / прочего",
               "прочую",
               "прочее",
-              "прочие"
+              "прочие / прочих"
             ]
           },
           {
@@ -4637,7 +4630,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4765,35 +4758,6 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "стать": {
       "lemma": "стать",
       "stress": "стать",
@@ -4809,7 +4773,7 @@
         },
         {
           "en": "to start (doing)",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -5036,8 +5000,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5211,7 +5183,7 @@
       "meanings": [
         {
           "en": "to praise",
-          "note": "Express approval. Used as an imperfective (ongoing/repeated action) verb meaning 'to praise', paired with 'похвалить'."
+          "note": "Express approval."
         }
       ],
       "forms": {
