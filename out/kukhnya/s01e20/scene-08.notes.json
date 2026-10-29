@@ -643,12 +643,7 @@
           "trans": "Bye, darling!"
         }
       ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
-        }
-      ]
+      "related": []
     },
     "добрый": {
       "lemma": "добрый",
@@ -658,7 +653,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'брый'). Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
         },
         {
           "en": "good",
@@ -750,10 +745,6 @@
         {
           "word": "добро",
           "gloss": "in a kind way (adv.)"
-        },
-        {
-          "word": "добрость",
-          "gloss": "quality of being kind"
         }
       ]
     },
@@ -836,12 +827,7 @@
           "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
         }
       ],
-      "related": [
-        {
-          "word": "утрный",
-          "gloss": "related to morning (adj.)"
-        }
-      ]
+      "related": []
     },
     "ты": {
       "lemma": "ты",
@@ -956,28 +942,23 @@
           "trans": "I'm already home."
         }
       ],
-      "related": [
-        {
-          "word": "очень уже",
-          "gloss": "intensified / related adverb (already)"
-        }
-      ]
+      "related": []
     },
     "проснуться": {
       "lemma": "проснуться",
       "stress": "просну́ться",
       "pos": "verb",
       "gloss": "wake up",
-      "aspect": "impf",
-      "pair": null,
+      "aspect": "pf",
+      "pair": "просыпаться",
       "meanings": [
         {
           "en": "wake up",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'снуться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'wake up'."
+          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'wake up'."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -988,20 +969,20 @@
             "cells": [
               "1st",
               "проснусь",
-              "проснемся"
+              "проснёмся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "проснешься",
-              "проснетесь"
+              "проснёшься",
+              "проснётесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "проснется",
+              "проснётся",
               "проснутся"
             ]
           }
@@ -1090,10 +1071,6 @@
         {
           "word": "нет",
           "gloss": "no"
-        },
-        {
-          "word": "давай",
-          "gloss": "let's, come on"
         }
       ]
     },
@@ -1470,7 +1447,7 @@
       "meanings": [
         {
           "en": "to play for a while, to have a go",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'играть'). Used as an perfective (single completed action) verb meaning 'to play for a while', paired with 'играть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'играть'). Used as a perfective (single completed action) verb meaning 'to play for a while', paired with 'играть'."
         }
       ],
       "forms": {
@@ -1779,12 +1756,7 @@
           "trans": "Not allowed? All right, I'll go and do my homework."
         }
       ],
-      "related": [
-        {
-          "word": "очень нельзя",
-          "gloss": "intensified / related adverb (it is not allowed)"
-        }
-      ]
+      "related": []
     }
   }
 }

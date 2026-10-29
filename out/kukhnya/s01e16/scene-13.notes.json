@@ -236,7 +236,7 @@
           "t": "холодильнике.",
           "lemma": "холодильник",
           "pos": "noun",
-          "stress": "холодильни́ке",
+          "stress": "холоди́льнике",
           "gloss": "fridge",
           "gram": "noun fridge"
         }
@@ -636,7 +636,7 @@
           "t": "холодильнике.",
           "lemma": "холодильник",
           "pos": "noun",
-          "stress": "холодильни́ке",
+          "stress": "холоди́льнике",
           "gloss": "fridge",
           "gram": "noun fridge"
         }
@@ -1036,7 +1036,7 @@
           "t": "холодильнике.",
           "lemma": "холодильник",
           "pos": "noun",
-          "stress": "холодильни́ке",
+          "stress": "холоди́льнике",
           "gloss": "fridge",
           "gram": "noun fridge"
         }
@@ -1447,12 +1447,7 @@
           "trans": "Hey, where's the toy car? Where's my toy car?"
         }
       ],
-      "related": [
-        {
-          "word": "очень где",
-          "gloss": "intensified / related adverb (where)"
-        }
-      ]
+      "related": []
     },
     "ждать": {
       "lemma": "ждать",
@@ -1798,7 +1793,7 @@
       "meanings": [
         {
           "en": "to look for, to search",
-          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'кать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to look for'."
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to look for'."
         }
       ],
       "forms": {
@@ -1976,12 +1971,7 @@
           "trans": "Come on in, please! As you can see, a big hall, and the kitchen is over there."
         }
       ],
-      "related": [
-        {
-          "word": "кухнный",
-          "gloss": "related to kitchen (adj.)"
-        }
-      ]
+      "related": []
     },
     "любезный": {
       "lemma": "любезный",
@@ -2508,7 +2498,7 @@
       "meanings": [
         {
           "en": "to open",
-          "note": "A door, a window. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'крыть'). Used as an perfective (single completed action) verb meaning 'to open', paired with 'открывать'."
+          "note": "A door, a window. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'крыть'). Used as a perfective (single completed action) verb meaning 'to open', paired with 'открывать'."
         }
       ],
       "forms": {
@@ -2619,15 +2609,15 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалуйста')."
+          "note": "Handing something over."
         },
         {
           "en": "you're welcome",
-          "note": "Answer to thanks. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалуйста')."
+          "note": "Answer to thanks."
         },
         {
           "en": "here you are",
-          "note": "Handing something over. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалуйста')."
+          "note": "Handing something over."
         }
       ],
       "forms": null,
@@ -2663,7 +2653,7 @@
       "meanings": [
         {
           "en": "to check, to test, to verify",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить'). Used as an perfective (single completed action) verb meaning 'to check, to test', paired with 'проверять'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить'). Used as a perfective (single completed action) verb meaning 'to check, to test', paired with 'проверять'."
         }
       ],
       "forms": {
@@ -2776,7 +2766,7 @@
       "meanings": [
         {
           "en": "to check, test, verify",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верять'). Used as an imperfective (ongoing/repeated action) verb meaning 'to check, test, verify', paired with 'проверить'."
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to check, test, verify', paired with 'проверить'."
         }
       ],
       "forms": {
@@ -3431,12 +3421,7 @@
           "trans": "Hello! How was it in Hungary?"
         }
       ],
-      "related": [
-        {
-          "word": "очень там",
-          "gloss": "intensified / related adverb (there)"
-        }
-      ]
+      "related": []
     },
     "не": {
       "lemma": "не",
@@ -3477,43 +3462,113 @@
       ]
     },
     "замёрзнуть": {
-      "lemma": "замёрзнуть",
-      "stress": "замёрзнуть",
-      "moreForms": [],
+      "aspect": "pf",
       "examples": [
         {
-          "text": "Я тут замёрз.",
-          "trans": "froze (up)"
+          "text": "Даня, а ты что, замёрз?",
+          "trans": "Danya, are you cold or what?"
         },
         {
-          "text": "замёрз",
-          "trans": "froze (up)"
-        }
-      ],
-      "related": [],
-      "pos": "verb",
-      "gloss": "froze (up)",
-      "meanings": [
+          "text": "Я очень замёрзла на улице.",
+          "trans": "I got very cold outside."
+        },
         {
-          "en": "froze (up)",
-          "note": "masculine singular past, perfective"
+          "text": "Давай, вставай, замёрзнешь на снегу!",
+          "trans": "Come on, get up, you'll freeze in the snow!"
         }
       ],
       "forms": {
-        "title": "Form used here",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "in this line",
-              "замёрз"
+              "1st",
+              "замёрзну",
+              "замёрзнем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "замёрзнешь",
+              "замёрзнете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "замёрзнет",
+              "замёрзнут"
             ]
           }
-        ]
-      }
+        ],
+        "title": "Future"
+      },
+      "gloss": "to get cold, freeze",
+      "lemma": "замёрзнуть",
+      "meanings": [
+        {
+          "en": "to get cold, feel chilled; to freeze solid",
+          "note": "intransitive; past tense замёрз, замёрзла"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "замёрз",
+                "замёрзла",
+                "замёрзло",
+                "замёрзли"
+              ]
+            }
+          ],
+          "title": "Past"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "замёрзни",
+                "замёрзните"
+              ]
+            }
+          ],
+          "title": "Imperative"
+        }
+      ],
+      "pair": "замерзать",
+      "pos": "verb",
+      "related": [
+        {
+          "gloss": "to get cold",
+          "word": "замерзать"
+        },
+        {
+          "gloss": "to freeze",
+          "word": "мёрзнуть"
+        }
+      ],
+      "stress": "замёрзнуть"
     },
     "удача": {
       "lemma": "удача",
@@ -3528,7 +3583,7 @@
         },
         {
           "en": "success",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'дача'). Common feminine noun meaning 'luck' in everyday Russian."
+          "note": "Common feminine noun meaning 'luck' in everyday Russian."
         }
       ],
       "forms": {
@@ -3598,20 +3653,7 @@
           "trans": "No, I just can't forget it. Good luck to you in your new job."
         }
       ],
-      "related": [
-        {
-          "word": "задача",
-          "gloss": "task"
-        },
-        {
-          "word": "дача",
-          "gloss": "dacha"
-        },
-        {
-          "word": "передача",
-          "gloss": "broadcast"
-        }
-      ]
+      "related": []
     },
     "шеф": {
       "lemma": "шеф",
@@ -3693,12 +3735,7 @@
           "trans": "The chef is in the kitchen."
         }
       ],
-      "related": [
-        {
-          "word": "шефный",
-          "gloss": "related to boss (adj.)"
-        }
-      ]
+      "related": []
     }
   }
 }

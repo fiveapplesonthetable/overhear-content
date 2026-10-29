@@ -210,7 +210,7 @@
           "t": "Акция",
           "lemma": "акция",
           "pos": "noun",
-          "stress": "акци́я",
+          "stress": "а́кция",
           "gloss": "rally, campaign",
           "gram": "nominative / accusative"
         },
@@ -714,7 +714,7 @@
           "t": "Акция",
           "lemma": "акция",
           "pos": "noun",
-          "stress": "акци́я",
+          "stress": "а́кция",
           "gloss": "rally, campaign",
           "gram": "nominative / accusative"
         },
@@ -1218,7 +1218,7 @@
           "t": "Акция",
           "lemma": "акция",
           "pos": "noun",
-          "stress": "акци́я",
+          "stress": "а́кция",
           "gloss": "rally, campaign",
           "gram": "nominative / accusative"
         },
@@ -1617,12 +1617,7 @@
           "trans": "Marina, let's end this dangerous protest."
         }
       ],
-      "related": [
-        {
-          "word": "акциный",
-          "gloss": "related to protest action (adj.)"
-        }
-      ]
+      "related": []
     },
     "антрекот": {
       "lemma": "антрекот",
@@ -1749,20 +1744,12 @@
         {
           "word": "большой",
           "gloss": "big"
-        },
-        {
-          "word": "больной",
-          "gloss": "sick"
-        },
-        {
-          "word": "больно",
-          "gloss": "hurts"
         }
       ]
     },
     "вводить": {
       "lemma": "вводить",
-      "stress": "вво́дить",
+      "stress": "вводи́ть",
       "pos": "verb",
       "gloss": "introduce",
       "aspect": "impf",
@@ -1837,16 +1824,7 @@
           "trans": "We need to do everything and introduce on time."
         }
       ],
-      "related": [
-        {
-          "word": "повводить",
-          "gloss": "to introduce (prefixed perfective)"
-        },
-        {
-          "word": "не вводить",
-          "gloss": "not to introduce (negated infinitive)"
-        }
-      ]
+      "related": []
     },
     "встреча": {
       "lemma": "встреча",
@@ -1857,11 +1835,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
         }
       ],
       "forms": {
@@ -2098,10 +2076,6 @@
         {
           "word": "нет",
           "gloss": "no"
-        },
-        {
-          "word": "давай",
-          "gloss": "let's, come on"
         }
       ]
     },
@@ -2226,12 +2200,7 @@
           "trans": "Sorry, it's my daughter's dog. I'm walking her for now."
         }
       ],
-      "related": [
-        {
-          "word": "дочный",
-          "gloss": "related to daughter (adj.)"
-        }
-      ]
+      "related": []
     },
     "если": {
       "lemma": "если",
@@ -2408,7 +2377,7 @@
       "meanings": [
         {
           "en": "hysterical woman",
-          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'теричка'). Common feminine noun meaning 'hysterical woman' in everyday Russian."
+          "note": "Common feminine noun meaning 'hysterical woman' in everyday Russian."
         }
       ],
       "forms": {
@@ -3043,12 +3012,7 @@
           "trans": "Chef, well do not get so upset like that!"
         }
       ],
-      "related": [
-        {
-          "word": "младшо",
-          "gloss": "daughter"
-        }
-      ]
+      "related": []
     },
     "много": {
       "lemma": "много",
@@ -3318,20 +3282,18 @@
       ]
     },
     "обыграть": {
-      "lemma": "обыграть",
-      "stress": "обы́грать",
-      "pos": "verb",
-      "gloss": "will beat / outplay",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
+      "aspect": "pf",
+      "examples": [
         {
-          "en": "will beat / outplay",
-          "note": "Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'ыграть'). Used as an imperfective (ongoing/repeated action) verb meaning 'will beat / outplay'."
+          "text": "Я легко тебя обыграю!",
+          "trans": "I will easily beat you!"
+        },
+        {
+          "text": "Он обыграл меня в шахматы.",
+          "trans": "He beat me at chess."
         }
       ],
       "forms": {
-        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -3359,11 +3321,19 @@
               "обыграют"
             ]
           }
-        ]
+        ],
+        "title": "Future"
       },
+      "gloss": "to beat (in a game)",
+      "lemma": "обыграть",
+      "meanings": [
+        {
+          "en": "to beat (someone at a game)",
+          "note": "Takes the person beaten as a direct object: обыграть кого-то. Perfective (one completed win), paired with обыгрывать."
+        }
+      ],
       "moreForms": [
         {
-          "title": "Past",
           "columns": [
             "",
             "m",
@@ -3381,29 +3351,27 @@
                 "обыграли"
               ]
             }
-          ]
+          ],
+          "title": "Past"
         }
       ],
-      "examples": [
-        {
-          "text": "Ну что, доча, обыграем дядю Мишу?",
-          "trans": "Well then, daughter, shall we beat Uncle Misha?"
-        },
-        {
-          "text": "Надо всё сделать и обыграть вовремя.",
-          "trans": "We need to do everything and will beat on time."
-        }
-      ],
+      "pair": "обыгрывать",
+      "pos": "verb",
       "related": [
         {
-          "word": "пообыграть",
-          "gloss": "to will beat (prefixed perfective)"
+          "gloss": "to beat (imperfective)",
+          "word": "обыгрывать"
         },
         {
-          "word": "не обыграть",
-          "gloss": "not to will beat (negated infinitive)"
+          "gloss": "to win",
+          "word": "выиграть"
+        },
+        {
+          "gloss": "to play",
+          "word": "играть"
         }
-      ]
+      ],
+      "stress": "обыгра́ть"
     },
     "ой": {
       "lemma": "ой",
@@ -3521,16 +3489,7 @@
           "trans": "She is not answering her phone."
         }
       ],
-      "related": [
-        {
-          "word": "вот она",
-          "gloss": "right here (to her)"
-        },
-        {
-          "word": "именно она",
-          "gloss": "precisely to her"
-        }
-      ]
+      "related": []
     },
     "понять": {
       "lemma": "понять",
@@ -3542,7 +3501,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'нять'). Used as an perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
         }
       ],
       "forms": {
@@ -3634,14 +3593,6 @@
         {
           "word": "понимать",
           "gloss": "to understand"
-        },
-        {
-          "word": "принять",
-          "gloss": "to receive"
-        },
-        {
-          "word": "поднять",
-          "gloss": "to lift"
         }
       ]
     },
@@ -3655,11 +3606,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as an perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as an perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
         }
       ],
       "forms": {
@@ -3841,10 +3792,6 @@
       ],
       "related": [
         {
-          "word": "попрекращаться",
-          "gloss": "to ends (prefixed perfective)"
-        },
-        {
           "word": "не прекращаться",
           "gloss": "not to ends (negated infinitive)"
         }
@@ -3860,7 +3807,7 @@
       "meanings": [
         {
           "en": "to bring, lead (someone somewhere)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'вести'). Used as an perfective (single completed action) verb meaning 'to bring, to lead (someone somewhere)', paired with 'приводить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to bring, to lead (someone somewhere)', paired with 'приводить'."
         }
       ],
       "forms": {
@@ -4223,11 +4170,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'мотреть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'мотреть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
         }
       ],
       "forms": {
@@ -4331,7 +4278,7 @@
       "meanings": [
         {
           "en": "back",
-          "note": "За спиной = behind one's back. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'пина'). Common feminine noun meaning 'back (body part)' in everyday Russian."
+          "note": "За спиной = behind one's back. Common feminine noun meaning 'back (body part)' in everyday Russian."
         }
       ],
       "forms": {
@@ -4401,12 +4348,7 @@
           "trans": "Well, show me your hands. What is behind your back?"
         }
       ],
-      "related": [
-        {
-          "word": "спинный",
-          "gloss": "related to back (adj.)"
-        }
-      ]
+      "related": []
     },
     "стоять": {
       "lemma": "стоять",
@@ -4527,7 +4469,7 @@
       "meanings": [
         {
           "en": "to eat, to eat up",
-          "note": "A whole portion; completed action. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ъесть'). Used as an perfective (single completed action) verb meaning 'to eat (up)', paired with 'есть'."
+          "note": "A whole portion; completed action. Used as a perfective (single completed action) verb meaning 'to eat (up)', paired with 'есть'."
         }
       ],
       "forms": {
@@ -4944,7 +4886,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'спокоиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
         }
       ],
       "forms": {

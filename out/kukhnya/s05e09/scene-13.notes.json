@@ -126,7 +126,7 @@
           "t": "захожу",
           "lemma": "заходить",
           "pos": "verb",
-          "stress": "захо́жу",
+          "stress": "захожу́",
           "gloss": "to come in, to drop in",
           "gram": "1st person singular"
         },
@@ -388,9 +388,9 @@
           "t": "враньё.",
           "lemma": "враньё",
           "pos": "noun",
-          "stress": null,
-          "gloss": "never",
-          "gram": "nominative / accusative"
+          "stress": "враньё",
+          "gloss": "lies, lying",
+          "gram": "nominative"
         }
       ]
     },
@@ -798,7 +798,7 @@
           "t": "захожу",
           "lemma": "заходить",
           "pos": "verb",
-          "stress": "захо́жу",
+          "stress": "захожу́",
           "gloss": "to come in, to drop in",
           "gram": "1st person singular"
         },
@@ -1060,9 +1060,9 @@
           "t": "враньё.",
           "lemma": "враньё",
           "pos": "noun",
-          "stress": null,
-          "gloss": "never",
-          "gram": "nominative / accusative"
+          "stress": "враньё",
+          "gloss": "lies, lying",
+          "gram": "nominative"
         }
       ]
     },
@@ -1470,7 +1470,7 @@
           "t": "захожу",
           "lemma": "заходить",
           "pos": "verb",
-          "stress": "захо́жу",
+          "stress": "захожу́",
           "gloss": "to come in, to drop in",
           "gram": "1st person singular"
         },
@@ -1732,9 +1732,9 @@
           "t": "враньё.",
           "lemma": "враньё",
           "pos": "noun",
-          "stress": null,
-          "gloss": "never",
-          "gram": "nominative / accusative"
+          "stress": "враньё",
+          "gloss": "lies, lying",
+          "gram": "nominative"
         }
       ]
     },
@@ -2771,12 +2771,7 @@
           "trans": "I'm an honest man. I'm not a thief at all."
         }
       ],
-      "related": [
-        {
-          "word": "ворный",
-          "gloss": "related to thief (adj.)"
-        }
-      ]
+      "related": []
     },
     "вот": {
       "lemma": "вот",
@@ -2824,62 +2819,55 @@
       "lemma": "враньё",
       "stress": "враньё",
       "pos": "noun",
-      "gloss": "never",
-      "gender": "m",
+      "gloss": "lies, lying (colloquial)",
+      "gender": "n",
       "meanings": [
         {
-          "en": "never",
-          "note": "Declinable masculine noun meaning 'never', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "lies, lying",
+          "note": "Colloquial noun from врать 'to lie'. Neuter, like платье, and used only in the singular; the stress stays on the ending in every case (вранья, враньём)."
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "sg",
-          "pl"
+          "sg"
         ],
         "rows": [
           {
             "cells": [
               "nominative",
-              "враньё",
-              "враньёы"
+              "враньё"
             ]
           },
           {
             "cells": [
               "genitive",
-              "враньёа",
-              "враньёов"
+              "вранья"
             ]
           },
           {
             "cells": [
               "dative",
-              "враньёу",
-              "враньёам"
+              "вранью"
             ]
           },
           {
             "cells": [
               "accusative",
-              "враньё",
-              "враньёы"
+              "враньё"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "враньёом",
-              "враньёами"
+              "враньём"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "враньёе",
-              "враньёах"
+              "вранье"
             ]
           }
         ]
@@ -2887,18 +2875,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Твоё враньё никогда до добра не доводит!",
-          "trans": "Your lying never leads to anything good!"
+          "text": "Я просто устала от твоего вранья.",
+          "trans": "I am simply tired of your lying."
         },
         {
-          "text": "Айнура, скажи, а ты хорошо умеешь вязать?",
-          "trans": "Ainura, tell me, do you know how to knit well?"
+          "text": "Твоё враньё никогда до добра не доводит!",
+          "trans": "Your lying never leads to anything good!"
         }
       ],
       "related": [
         {
-          "word": "враньёный",
-          "gloss": "never"
+          "word": "врать",
+          "gloss": "to lie"
+        },
+        {
+          "word": "ложь",
+          "gloss": "lie, falsehood"
+        },
+        {
+          "word": "врун",
+          "gloss": "liar"
         }
       ]
     },
@@ -2977,14 +2973,6 @@
         {
           "word": "весь",
           "gloss": "all, the whole"
-        },
-        {
-          "word": "вот всё",
-          "gloss": "right here (everything)"
-        },
-        {
-          "word": "именно всё",
-          "gloss": "precisely everything"
         }
       ]
     },
@@ -3031,11 +3019,11 @@
       "meanings": [
         {
           "en": "road",
-          "note": "В дорогу = for the journey. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'рога'). Common feminine noun meaning 'road; way' in everyday Russian."
+          "note": "В дорогу = for the journey. Common feminine noun meaning 'road; way' in everyday Russian."
         },
         {
           "en": "way, journey",
-          "note": "В дорогу = for the journey. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'рога'). Common feminine noun meaning 'road; way' in everyday Russian."
+          "note": "В дорогу = for the journey. Common feminine noun meaning 'road; way' in everyday Russian."
         }
       ],
       "forms": {
@@ -3105,12 +3093,7 @@
           "trans": "What does it matter who builds the roads?"
         }
       ],
-      "related": [
-        {
-          "word": "дорогный",
-          "gloss": "related to road (adj.)"
-        }
-      ]
+      "related": []
     },
     "за": {
       "lemma": "за",
@@ -3340,12 +3323,7 @@
           "trans": "Hello! How was it in Hungary?"
         }
       ],
-      "related": [
-        {
-          "word": "очень как",
-          "gloss": "intensified / related adverb (how)"
-        }
-      ]
+      "related": []
     },
     "какой-то": {
       "lemma": "какой-то",
@@ -3657,12 +3635,7 @@
           "trans": "And you're drinking French cognac yourself."
         }
       ],
-      "related": [
-        {
-          "word": "конь",
-          "gloss": "horse"
-        }
-      ]
+      "related": []
     },
     "кто-то": {
       "lemma": "кто-то",
@@ -3739,14 +3712,6 @@
         {
           "word": "кто-нибудь",
           "gloss": "somebody"
-        },
-        {
-          "word": "вот кто-то",
-          "gloss": "right here (someone)"
-        },
-        {
-          "word": "именно кто-то",
-          "gloss": "precisely someone"
         }
       ]
     },
@@ -3846,7 +3811,7 @@
       "meanings": [
         {
           "en": "probably, most likely",
-          "note": "Parenthetical adverb. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'верное')."
+          "note": "Parenthetical adverb."
         }
       ],
       "forms": null,
@@ -3865,20 +3830,7 @@
           "trans": "It must be something serious for you. The girl has been lying in the regional clinic for two weeks already!"
         }
       ],
-      "related": [
-        {
-          "word": "вернуть",
-          "gloss": "to give back"
-        },
-        {
-          "word": "вернуться",
-          "gloss": "to come back"
-        },
-        {
-          "word": "перевернуть",
-          "gloss": "to tip over"
-        }
-      ]
+      "related": []
     },
     "наш": {
       "lemma": "наш",
@@ -4172,7 +4124,7 @@
       "meanings": [
         {
           "en": "to explain",
-          "note": "Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'ъяснить'). Used as an perfective (single completed action) verb meaning 'to explain', paired with 'объяснять'."
+          "note": "Used as a perfective (single completed action) verb meaning 'to explain', paired with 'объяснять'."
         }
       ],
       "forms": {
@@ -4375,7 +4327,7 @@
       "meanings": [
         {
           "en": "ran across",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'бегать'). Used as an perfective (single completed action) verb meaning 'ran across'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'бегать'). Used as a perfective (single completed action) verb meaning 'ran across'."
         }
       ],
       "forms": {
@@ -4443,10 +4395,6 @@
         }
       ],
       "related": [
-        {
-          "word": "поперебегать",
-          "gloss": "to ran across (prefixed perfective)"
-        },
         {
           "word": "не перебегать",
           "gloss": "not to ran across (negated infinitive)"
@@ -4597,12 +4545,7 @@
           "trans": "Bye, darling!"
         }
       ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
-        }
-      ]
+      "related": []
     },
     "правда": {
       "lemma": "правда",
@@ -4712,7 +4655,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as an perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
         }
       ],
       "forms": {
@@ -4850,11 +4793,11 @@
       "meanings": [
         {
           "en": "to break, smash, shatter",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить'). Used as an perfective (single completed action) verb meaning 'to break, to smash, to wreck (a car)', paired with 'разбивать'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить'). Used as a perfective (single completed action) verb meaning 'to break, to smash, to wreck (a car)', paired with 'разбивать'."
         },
         {
           "en": "to wreck, crash (a vehicle)",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить'). Used as an perfective (single completed action) verb meaning 'to break, to smash, to wreck (a car)', paired with 'разбивать'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить'). Used as a perfective (single completed action) verb meaning 'to break, to smash, to wreck (a car)', paired with 'разбивать'."
         }
       ],
       "forms": {
@@ -5377,7 +5320,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as an perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
         }
       ],
       "forms": {
@@ -5492,7 +5435,7 @@
         },
         {
           "en": "in a moment",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ейчас')."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5532,7 +5475,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as an perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
         }
       ],
       "forms": {
@@ -5645,7 +5588,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'лушать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
         },
         {
           "en": "listen!",
@@ -5653,7 +5596,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'лушать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
         }
       ],
       "forms": {
@@ -5944,16 +5887,7 @@
           "trans": "How does a hotel restaurant differ?"
         }
       ],
-      "related": [
-        {
-          "word": "вот то",
-          "gloss": "right here (that)"
-        },
-        {
-          "word": "именно то",
-          "gloss": "precisely that"
-        }
-      ]
+      "related": []
     },
     "трубка": {
       "lemma": "трубка",
@@ -6046,10 +5980,6 @@
         {
           "word": "трубочка",
           "gloss": "little receiver"
-        },
-        {
-          "word": "трубадур",
-          "gloss": "troubadour"
         }
       ]
     },
