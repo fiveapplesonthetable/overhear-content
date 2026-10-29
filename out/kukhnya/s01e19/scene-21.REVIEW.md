@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That's sad.' "Grustno", 'sad', describes a feeling or a situation. "Mne grustno" would be 'I feel sad'.
 - 'Yes, but that's not about us.' "Pro nas", 'about us', is the everyday twin of "o nas". Max said "o nas" in the scene where he asked his question.
 - 'We don't need to lose anything.' "Nam ne nuzhno", 'to us not needed', is 'we don't need to'. "Nichego ne" is the double negative again: 'nothing not'.
-- 'That's right.' "Pravil'no", 'correct', comes from "pravilo", 'rule'. It's what a teacher says to a right answer.
+- 'That's right.' Teachers say it to a right answer, and anyone can use it for 'that's right'. Inside 'pravilno' is 'pravilo', a rule.

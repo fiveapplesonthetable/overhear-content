@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'A week's already gone by.' \"Proshla\", 'went by', agrees with \"nedelya\", 'week'. The same verb, \"proyti\", is for time passing and for walking past."),
     (4, None, "'Don't worry, I have an idea.' \"U menya est'\" is 'I have', literally 'at me there is'. \"Ideya\", 'idea', is easy to spot."),
     (5, None, "'Let me guess. You'll get drunk?' \"Day ugadayu\", 'give, I'll guess', is the Russian 'let me guess'. \"Napyosh'sya\" is na- plus \"pit'\", 'to drink', plus -sya: to drink your fill."),
-    (6, None, "'Naturally. Such an occasion.' \"Estestvenno\", 'naturally', comes from \"estestvo\", 'nature'. \"Povod\" is an excuse or reason, especially for a drink."),
+    (6, None, "'Naturally. Such an occasion.' A 'povod' is a reason or an excuse, very often an excuse to raise a glass. 'Takoy', such, is masculine to match it, and 'estestvenno' means 'naturally'."),
     (7, None, "'The birthday of the Claude Monet restaurant.' \"Den' rozhdeniya\" is literally 'day of birth'. You'll use it for people and, here, a restaurant."),
     (8, None, "'We'll throw a party for the whole world.' \"Pir na ves' mir\" is a rhyming saying, 'a feast for the whole world'. \"Mir\" means both 'world' and 'peace'."),
     (9, None, "'And how will the world hear about it?' \"Ob etom\", 'about it', has \"o\" turning into \"ob\" before a vowel. \"Uznaet\" means 'will find out'."),

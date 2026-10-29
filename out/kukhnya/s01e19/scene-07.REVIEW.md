@@ -30,10 +30,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'How unexpected, thank you very much!' "Neozhidanno" is ne plus "ozhidanno", from "ozhidat'", 'to expect'. "Spasibo bol'shoe" is literally 'big thanks'.
 - 'Listen, maybe we could go somewhere tonight?' "Skhodim" means 'we'll go and come back', a little outing. "Kuda-nibud'", 'somewhere', is for a place nobody has picked yet.
 - 'You know, I cannot tonight.' "Ne mogu", 'I can't', stands alone; Russians often drop the verb that would follow. "Segodnya vecherom" is 'this evening'.
-- 'I have an important business meeting.' "Delovaya", 'business', comes from "delo", 'matter, business'. Hold on to this meeting: it comes back in the next few scenes.
+- 'I have an important business meeting.' Two adjectives, both feminine to match 'vstrecha', meeting: 'vazhnaya', important, and 'delovaya', business. 'U menya' is the usual way to say 'I have'. Hold on to this meeting: it comes back in the next few scenes.
 - 'Excuse me, are you Victoria Goncharova, the art director?' "Izvinite" is the polite 'excuse me', for a stranger. The courier uses vy and her full name, as you would at work.
 - 'Yes, that is me.' "Da, eto ya" is literally 'yes, this I'. It's the standard reply when someone checks who you are.
 - 'Then this is for you, sign right here.' "Vam", 'to you', is the vy form; Max said "tebe" a minute ago. "Raspishites'", 'sign', comes from the same root as "podpis'", 'signature'.
 - 'How beautiful! Max, hold these, please.' "Kakaya krasota" is literally 'what beauty'. "Poderzhi" is 'hold for a bit', and once again the po- keeps it short.
-- 'Thank you for the wonderful flowers.' "Chudesnye", 'wonderful', comes from "chudo", 'miracle'. "Tsvety" is the plural of "tsvetok", 'flower', and the singular looks quite different.
+- 'Thank you for the wonderful flowers.' You thank someone 'za', for, something: 'spasibo za...'. 'Vam' is the polite 'to you', and 'tsvety', flowers, has a singular that looks different, 'tsvetok'.
 - 'We need to put them in water quickly.' "V vodu", 'into water', has -u because the flowers are going into it. Russians 'stand' flowers in water: "postavit'".

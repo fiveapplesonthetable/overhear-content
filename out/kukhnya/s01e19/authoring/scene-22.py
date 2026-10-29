@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Max, what's the most important thing for you?' \"Dlya tebya\", 'for you', uses \"dlya\", the 'for' of 'for someone's sake'. \"Glavnoe\" turns up one more time."),
-    (1, None, "'The important thing is to cherish what we have.' \"Tsenit'\", 'to value', comes from \"tsena\", 'price', as in \"tsena restorana\" earlier. To value something is to know its price."),
+    (1, None, "'The important thing is to cherish what we have.' Value and price are related in Russian: 'tsenit'', to value, sits next to 'tsena', price. 'U nas est'' is 'we have', literally 'by us there is'."),
     (2, None, "'What do you mean?' \"Imet' v vidu\", literally 'to have in view', is 'to mean'. \"Chto ty imeesh' v vidu\" is a phrase to learn whole."),
     (3, None, "'Us, our restaurant, our friends.' \"Nash restoran\" and \"nashi druz'ya\": \"nash\", 'our', changes its ending to match. \"Druz'ya\" is the plural of drug."),
     (4, None, "'And when? Later?' \"Potom\" means 'later' or 'then, after that'. \"Kogda\" is 'when'."),

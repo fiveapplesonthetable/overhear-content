@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vika said that she is already free.' "Svobodna" is the woman's short form; in the first scene Vika said "svoboden" to Max. "Uzhe", 'already', usually comes right before it.
 - 'Is she really going to go with him?' "Sobiraetsya", 'is planning to', also means 'is getting ready'. "S nim" is 'with him'.
 - 'Yes, she is already ready to leave.' "Gotova", 'ready', is Vika's form; in scene two plain "gotov" described the sauce. Ready to go is "gotova ekhat'".
-- 'I will not allow them to leave together.' "Vdvoyom", 'the two of them together', comes from "dva", 'two'. "Uekhat'" is 'to drive away', the u- meaning 'away'.
-- 'Max, do not do any foolish things today.' "Gluposti", 'foolish things', comes from "glupy", 'stupid'. Ne delay "glupostey" is what friends say before you do something rash.
+- 'I will not allow them to leave together.' One word, 'vdvoyom', does the job of 'the two of them together', and it's built from 'dva', two. 'Im', them, is in the 'to' form after 'ne pozvolyu', I won't allow.
+- 'Max, do not do any foolish things today.' A double negative is normal in Russian: 'ne delay nikakikh', literally 'don't do no'. Friends say 'ne delay glupostey' before you do something rash.

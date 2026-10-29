@@ -37,7 +37,7 @@ WALK = [
     (4, None, "'The main thing is not the size of the boat.' \"Glavnoe\", 'the main thing', starts countless Russian sentences. \"Lodka\", 'boat', becomes \"lodki\" after \"razmer\"."),
     (5, None, "'The main thing is the swell of the ocean.' \"Volnenie\" comes from \"volna\", 'wave', and it also means 'nerves, excitement'. So the line is a pun about feelings."),
     (6, None, "'Wait, where are such beautiful words from?' Otkuda means 'from where'. Russian keeps three of these apart: \"gde\" 'where', \"kuda\" 'where to' and otkuda 'where from'."),
-    (7, None, "'Did you read someone's status on the internet?' \"Chey-to\" is 'someone's', from \"chey\", 'whose', plus -to. Status is a social media post here, same as in English."),
+    (7, None, "'Did you read someone's status on the internet?' Add '-to' to 'chey', whose, and you get 'chey-to', someone's. 'Prochital' is masculine past, so Max is teasing a man."),
     (8, None, "'Yes, it is Nastya's new status.' \"Nastin\" means 'Nastya's'; add -in to a name like hers and you get 'belonging to'. \"Mama\" gives \"mamin\", 'Mum's'."),
     (9, None, "'She wrote it this morning.' \"Segodnya utrom\" is 'this morning', literally 'today in the morning'. \"Napisala\", 'wrote', has a feminine -a, since Nastya is the writer."),
     (10, None, "'I wonder what she is hinting at?' \"Interesno\", 'interesting', opens the sentence where English says 'I wonder'. \"O chyom\", 'about what', asks what something's about."),
