@@ -48,7 +48,7 @@ WALK = [
     (9, None, "'That is all.' One word, 'vsyo', which Russians say to end a conversation. It's clear and firm."),
     (10, None, "'Before I kill you...' 'Pered tem, kak' is a set phrase for 'before'. 'Ubyu' is 'I will kill', and it's a threat people make without meaning it."),
     (11, None, "'answer one question.' The order 'answer!' wants 'on', so Russians answer 'on a question'. 'Me' becomes 'to me'."),
-    (12, None, "'Why did you take the car?' 'Zachem' is 'what for', and 'uvyoz' is 'drove off with'. The 'u' means 'away'."),
+    (12, None, "'Why did you take the car?' Barinov puts 'ty' first, 'you why took away', which makes it a telling-off. 'Uvyoz' is the past of 'uvezti', to take something away by vehicle, with 'u-' meaning 'away'."),
     (13, None, "'Boss, he could not make it.' 'U nego ne poluchilos'' is 'with him it didn't work out'. 'Priekhat' is to arrive by vehicle."),
     (14, None, "'He told me to bring the car.' 'Chtoby' is 'so that', and Russian puts the following action in the past: 'chtoby ya privyoz' is 'that I should bring'. 'Privyoz' means 'bring by vehicle'."),
     (15, None, "'How did you even start it?' 'Zavyol' is 'started', the verb for getting an engine going. 'Voobshche', at all, here works like 'even'."),
