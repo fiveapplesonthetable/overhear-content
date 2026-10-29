@@ -35,9 +35,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So people would break their teeth?' After chtoby, 'so that', the verb goes into the past form: lomali, plural for lyudi, people. That's a fixed rule, even about the future.
 - 'I am the pastry chef, it is my fault.' 'Konditer' is a pastry chef. 'Vina' means blame, and it happens to look like vina, 'of wine', though that one's stressed on the 'i'.
 - 'Leave the pastry chef alone.' 'Ostavte v pokoe' is literally 'leave in peace'. 'Konditer' becomes konditera because he's the person being left.
-- 'And who are you?' 'Kto takoy' is literally 'who such', and it's pointed. You say it when you want to know what right someone has.
+- 'And who are you?' Pointed and a bit rude: literally 'and you who such?'. People say it to ask what right someone has, and the 'ty' to a stranger makes it ruder still.
 - 'I am the head chef of this restaurant.' 'Etogo restorana' is 'of this restaurant': the 'ogo' and the 'a' both mark the 'of'.
-- 'I am responsible for everything in the kitchen.' 'Otvechayu za vse' is literally 'I answer for everything'. And it's na kukhne, 'on the kitchen', where English says 'in'.
+- 'I am responsible for everything in the kitchen.' Lyova uses 'otvechat za', literally 'to answer for', which is how Russians say 'to be responsible for'. And it's 'na kukhne', 'on the kitchen', where English says 'in'.
 - 'Do you have complaints against me?' U vas est is 'at you there is', the Russian 'you have'. Ko mne is k mne with an extra 'o' to make it easier to say.
 - 'Here is my complaint, take it.' 'Derzhi' is literally 'hold', and Russians say it when handing something over. It's the ty form, the same rudeness he showed Louis.
 - 'Delicious dessert, thank you very much.' Russians say bolshoe spasibo, 'big thanks', where English says 'thank you very much'.

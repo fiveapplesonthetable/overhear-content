@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'A chef needs to rest.' Literally, 'to the chef it's needed to rest'. The person who needs something takes the 'to' form, 'shef-povar' becoming 'shef-povaru'."),
     (10, None, "'We have a production meeting.' 'U nas' is 'at us', so 'we have'. 'Proizvodstvennoe soveshchanie' is office jargon, and 'soveshchanie' shares its root with 'sovet', advice or council."),
     (11, None, "'Maximilian, I am waiting for you.' 'Ya vas zhdu', literally 'I you wait', with no 'for'. 'Vas' is the polite 'you' as the one waited for."),
-    (12, None, "'I will come to you now.' 'K vam' is 'towards you'. 'Pridu' is 'I'll come', with 'pri' for arriving, and it means coming on foot."),
+    (12, None, "'I will come to you now.' There's no 'will' anywhere, yet 'pridu' already means 'I'll come', and 'pri-' is the part that says 'arrive'. 'K vam' is 'to you', using the polite or plural 'you'."),
 ]

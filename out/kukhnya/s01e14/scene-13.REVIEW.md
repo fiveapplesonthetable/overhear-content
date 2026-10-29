@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A chef needs to rest.' Literally, 'to the chef it's needed to rest'. The person who needs something takes the 'to' form, 'shef-povar' becoming 'shef-povaru'.
 - 'We have a production meeting.' 'U nas' is 'at us', so 'we have'. 'Proizvodstvennoe soveshchanie' is office jargon, and 'soveshchanie' shares its root with 'sovet', advice or council.
 - 'Maximilian, I am waiting for you.' 'Ya vas zhdu', literally 'I you wait', with no 'for'. 'Vas' is the polite 'you' as the one waited for.
-- 'I will come to you now.' 'K vam' is 'towards you'. 'Pridu' is 'I'll come', with 'pri' for arriving, and it means coming on foot.
+- 'I will come to you now.' There's no 'will' anywhere, yet 'pridu' already means 'I'll come', and 'pri-' is the part that says 'arrive'. 'K vam' is 'to you', using the polite or plural 'you'.
