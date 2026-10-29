@@ -35,7 +35,7 @@ WALK = [
     (0, None, '\'Good evening, dear guests of our restaurant!\' "Dobryy vecher" is masculine, like "vecher". "Dorogiye", dear, also means "expensive", and "nashego restorana" is "of our restaurant".'),
     (1, None, '\'Good evening, head chef!\' Vadim gives back the same greeting. "Shef-povar" glues "shef" to "povar", cook, and it\'s the formal title.'),
     (2, None, '\'I brought you a special surprise.\' "Prinyos", brought, is a man\'s form; a woman would say "prinesla". "Vam" is "to you", and "syurpriz" came from French.'),
-    (3, None, '\'This is a compliment in honor of the birthday.\' "V chest\'" is "in honour", and "dnya rozhdeniya" is "of the day of birth". A chef\'s "kompliment" is a free extra dish.'),
+    (3, None, '\'This is a compliment in honor of the birthday.\' In a restaurant a "kompliment" is a free dish from the kitchen. A birthday is "den\' rozhdeniya", day of birth, and after "v chest\'", in honour of, "den\'" becomes "dnya".'),
     (4, None, '\'Thank you very much, everything looks very delicious!\' "Spasibo bol\'shoye" is "thanks big". After "vyglyadit", looks, comes "vkusno", tasty, with an -o.'),
     (5, None, '\'I see that you are an excellent cook.\' "Ya vizhu, chto" is "I see that". "Otlichnyy", excellent, is from "otlichat\'sya", to stand out.'),
     (6, None, '\'I can help you in the city.\' "Pomoch\' vam" is "to help to you", with the "to" form again. "V gorode" is "in the city", with -e after "v".'),

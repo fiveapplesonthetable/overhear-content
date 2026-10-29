@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Relax, my friend, do not be so nervous.' "Rasslab'sya", relax, is built on "slabyy", weak, so it's "go slack". "Ne nervnichay" comes from "nervy", nerves.
 - 'He simply wants to get a rise out of me.' "Pozlit'", to annoy, grows out of "zloy", angry. "Prosto" is "simply", and "menya" is "me".
 - 'Do not take offense at my words.' "Ne obizhaysya" is "don't take offence", from "obida", an offence. "Na moi slova" is "at my words", with "slova" the plural of "slovo".
-- 'What do you want to tell me?' "Chto ty khochesh' mne skazat'?" is "what you want to me to say?". "Mne" is "to me".
+- 'What do you want to tell me?' Russian keeps "want" and "say" side by side, "khochesh' skazat'", with "mne", to me, tucked in between. The -esh' on "khochesh'" is the "ty" ending, one person spoken to as a friend.
 - 'She would never choose you.' "Vyberet" is "will choose", from "brat'", to take, with "vy-", out. "Nikogda ne" is the double negative, and "tebya" is "you".
 - 'Why are you so confident about this?' "Uveren", sure, is for a man, and a woman would say "uverena". "V etom" is "in this".
 - 'She is a beautiful and mature woman.' "Vzroslaya", grown up, hides "rasti", to grow. Kostya says "zhenshchina", woman, not "devushka", girl.

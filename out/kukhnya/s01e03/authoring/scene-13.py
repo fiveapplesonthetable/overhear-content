@@ -37,7 +37,7 @@ WALK = [
     (3, None, '\'How quickly does it start to act?\' "Nachinayet deystvovat\'" is "begins to act", from "deystviye", action. "Ono", it, is neuter to match the medicine.'),
     (4, None, '\'Very quickly, chef, literally right away.\' "Bukval\'no", literally, has "bukva", a letter, inside it, just as "literally" has "letter". "Srazu" is "at once".'),
     (5, None, '\'One pill solves all your problems.\' "Odna" is feminine because "tabletka", pill, is. "Reshayet" is "solves", and "vse vashi problemy" is "all your problems".'),
-    (6, None, '\'And what will be the exact effect?\' "Kakoy budet" is "what kind will be". "Tochnyy" is "exact", and "effekt" was borrowed.'),
+    (6, None, '\'And what will be the exact effect?\' Masculine to match "effekt", "kakoy" asks "what kind of". "Budet", will be, is all the future needs here, and "tochnyy", exact, is the adjective behind the familiar "tochno".'),
     (7, None, '\'I promise, the customer will not leave the toilet!\' "Ne otoydyot ot" is "won\'t step away from", and after "ot" the word becomes "unitaza". "Obeshchayu" is "I promise".'),
     (8, None, '\'Excellent, the judge will remember this anniversary!\' "Zapomnit" is "will remember", with "za-" for fixing it in memory. "Yubiley" is a round-number birthday or anniversary.'),
     (9, None, '\'Shall we add the pill into her soup?\' "Dobavim" is "we\'ll add". "Yeyo", her, never changes its ending, and "v sup" is "into the soup".'),

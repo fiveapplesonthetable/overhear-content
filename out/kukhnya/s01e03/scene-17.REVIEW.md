@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are talking to a beautiful girl.' "Razgovarivayesh'", you're talking, is from "razgovor", a conversation. "S krasivoy devushkoy" has -oy on both words after "s".
 - 'What did you just say to me, pup?' "Shchenok" is a puppy, and it's an insult for a young man. "Ty chto" at the start is the challenge.
 - 'I told you: step away from her!' "Otoydi" is the command "step away". "Ot neyo" is "from her", where "yeyo" picks up an "n" after "ot".
-- 'Max, stop, he has a gun!' "Prekrati" is "stop it". "U nego yest' pistolet" is "at him there is a pistol", the full "have" pattern with "yest'".
+- 'Max, stop, he has a gun!' Russian has no simple "he has": it says "u nego yest'", at him there is, and then the thing. "Prekrati!" is a sharp "cut it out", the "ty" command of "prekratit'".

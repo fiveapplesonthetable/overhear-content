@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Seriously? Only about the restroom?' "Ser'yozno" is "seriously". "Tol'ko pro", "only about", puts "only" right in front.
 - 'Yes, he was looking for the restroom.' "Iskal", looked for, ends in -l for a man. It's the past of "iskat'", the verb behind "ishchet".
 - 'And he didn't ask about me?' The opening "a" marks a contrast, like "and what about...". "Pro menya" is "about me", and "ne sprashival" is "didn't ask".
-- 'Who needs you anyway?' "Komu ty nuzhen?" is "to whom are you needed?", the Russian for "who needs you?". "Voobshche" is "at all".
+- 'Who needs you anyway?' Same pattern as the chef's fresh product: the person needed is the subject, "ty", and the one who needs goes in the "to" form, "komu", to whom. "Voobshche" adds the scorn, like "anyway".
 - 'Thank goodness, dodged a bullet.' "Slava bogu" is "glory to God", the everyday "thank goodness". "Proneslo" is "it carried past", said when trouble has gone by.
 - 'Why are you so nervous today?' "Ty chego" is a colloquial "why are you". "Takoy nervnyy" is "such nervous", and "segodnya" is "today".
 - 'Never mind, pour me some water quickly.' "Nevazhno" is "ne" plus "vazhno", important. "Naley mne vody" asks for some water: "voda" becomes "vody", the "some of" form.
