@@ -15,6 +15,8 @@ Every S01 scene whose set of speaking characters changed after the role-key migr
 | s01e08 | 5 | Barinov, Max, Nagiyev | Barinov, Nagiyev | 9fa32b9f5 |
 | s01e08 | 6 | Barinov, Elena, Max | Barinov, Elena | 9fa32b9f5 |
 | s01e08 | 7 | Barinov, Elena, Max | Barinov, Elena | 9fa32b9f5 |
+| s01e08 | 13 | Max, Sasha, Vika | Lyova, Max, Vika | content-review-s01 |
+| s01e08 | 15 | Max, Sasha | Max, Vika | content-review-s01 |
 | s01e10 | 20 | Max, Sasha | Max, Vika | e79c07e82 |
 | s01e10 | 26 | Barinov, Max | (merged away) | 3d7975f7d |
 | s01e10 | 28 | Barinov, Senya | (merged away) | 3d7975f7d |
@@ -82,6 +84,7 @@ Only lines whose Russian text is unchanged are listed. Scenes rebuilt from their
 | s01e16 | 14 | Экая досада. | Barinov | inspector |
 | s01e16 | 14 | У меня есть запасной ключ. | Barinov | inspector |
 | s01e16 | 14 | Я всегда дубликаты храню. | Barinov | inspector |
+| s01e11 | 20 | Ты в своём уме? (now «Витя, ты в своём уме?») | Barinov | Vika |
 | s01e17 | 12 | Очень неплохо. Спасибо. | Nagiyev | Senya |
 | s01e17 | 20 | Это твоя вечеринка? | Vika | Nastya |
 | s01e18 | 10 | Но мне это совсем не помогло. | Fedya | Senya |
@@ -97,3 +100,4 @@ Only lines whose Russian text is unchanged are listed. Scenes rebuilt from their
 | s01e19 | 21 | Почему? | Vika | Max |
 | s01e19 | 22 | Здесь и сейчас. | Vika | Max |
 | s01e20 | 2 | Мы же не торопимся подниматься? | Kostya | Nastya |
+| s01e20 | 19 | О, смотри, кто пришёл. Здравствуйте. | Nagiyev | Barinov |
