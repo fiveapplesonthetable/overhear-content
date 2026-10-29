@@ -32,7 +32,7 @@ STORY = [
     ('barinov', 'А ты знаешь, что это за нож?', 'And do you know what kind of knife this is?', [(93, 'А ты знаешь, что это за нож')], ''),
 ]
 WALK = [
-    (0, None, '\'And where is my knife?\' "Gde" is "where", and "moy nozh" is "my knife". The little "a" at the start can mean "and" or "but", and here it just pushes the question along.'),
+    (0, None, '\'And where is my knife?\' Word for word, "and where my knife", with no "is" anywhere, since Russian drops "to be" in the present. The little "a" in front just nudges the question along, like a weary "so".'),
     (1, None, '\'Who took my knife?\' "Kto vzyal" is "who took". "Kto" always takes the masculine past, so it\'s "vzyal" with a plain -l, whoever the thief turns out to be.'),
     (2, None, '\'Chef, I didn\'t take it.\' "Ya ne brala" is "I not took". Nastya switches to "brat\'", the everyday partner of "vzyat\'", because she\'s denying any taking at all. The "-a" shows she\'s a woman; a man would say "ne bral".'),
     (3, None, '\'I repeat: who took my knife?\' "Povtoryayu" is "I repeat", from "povtor", a repeat. This is what you say when your patience has run out.'),

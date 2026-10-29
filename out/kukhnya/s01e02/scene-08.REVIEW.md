@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Exactly, you are right, we must cook right away!' "Nado" is "it's necessary", the Russian way to say "we must". "Srochno", urgently, has "srok", a deadline, hiding in it.
 - 'Darn, I am confused. This is a dangerous idea.' "Chyort" really means "devil", but it's a mild curse. "Zaputalsya", "I got confused", has "putat'", to tangle, at its heart.
 - 'But we have a duty to save our chef.' "Obyazany", "obliged", belongs to the family of "obyazatel'no", definitely. "Spasti", to save, shares a root with "spasibo", which began as "God save you".
-- 'All right, turn on the stove and get the meat!' "Vklyuchay" is "switch on", and "dostavay" is "get out", two friendly commands in a row.
+- 'All right, turn on the stove and get the meat!' Both verbs end in -ay, the friendly "ty" command: "vklyuchay", switch on, and "dostavay", take out. The stove, "plita", turns its -a into -u, "plitu", because it's the thing being switched on.

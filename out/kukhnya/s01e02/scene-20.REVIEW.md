@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Lyova, come to my office!' "Zaydi" is "drop in", with "za-" for a quick stop. "K mne" becomes "ko mne", with an extra "o" to make it easier to say.
 - 'Yes, chef, I am already here.' "Ya uzhe zdes'" is "I already here", with no "am", since Russian leaves it out.
 - 'Where is my favorite fish knife?' "Rybiy nozh" is a fish knife: "ryba", fish, becomes the describing word "rybiy". "Lyubimyy", favourite, shares its root with "lyubit'", love.
-- 'We are looking for it everywhere, chef.' "Vezde" is "everywhere". "Ishchem" is "we look for", and "yego", it, never changes.
+- 'We are looking for it everywhere, chef.' Why "yego", which also means "him"? Because "nozh" is a masculine word, and Russian uses the "him" word for masculine things. "Ishchem" already means "we look for", so "my" is there for emphasis.
 - 'Are you a sous-chef or who?' "Su-shef" is borrowed from French. "Ili kto takoy" is "or who such", a rude way to ask "who do you think you are?".
 - 'I maintain order in the kitchen.' "Slezhu za" is "I keep an eye on", from "sled", a track. "Poryadok", order, is the root of "besporyadok", mess.
 - 'You keep an eye on the kitchen very poorly!' The chef throws back the same verb, now "sledish'", "you keep an eye". "Plokho", poorly, is the opposite of "khorosho".

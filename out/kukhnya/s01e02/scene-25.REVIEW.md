@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So there is no reason to fire the cook yet.' "Ne za chto" is "not for what", here meaning "no reason". "Poka", yet, is the same word as "bye".
 - 'Dmitry, thank you for the fair decision.' "Spasibo za" is "thanks for". "Spravedlivoye", fair, and "resheniye", decision, both end in -oye and -iye to match.
 - 'Listen to me everyone: forget about this video!' "Slushayte" and "zabud'te" are commands to the whole room. "Ob etom", about this, uses "ob" before a vowel.
-- 'Vika still has to work here as art director.' "Vike yeshchyo rabotat'" is "to Vika still to work", the Russian for "Vika still has to work". "Art-direktorom" takes -om for "as".
+- 'Vika still has to work here as art director.' There's no "has to" verb in it. Russian puts Vika in the "to" form, "Vike", adds a plain infinitive, "rabotat'", and the job title ends in -om, the ending for working "as" something.
 - 'Whoever dares laugh will immediately get out!' "Posmeyet", dares, sounds like "smeyat'sya", to laugh, but it comes from "smet'", to dare. "Poydyot von" is "will go out".
 - 'Every coin has two sides.' Russian says "medal'", medal, where English says "coin". "Dve", two, is feminine to match "storony", sides.
 - 'One day everything around can change drastically.' Russian packs "one day" into a single word, "odnazhdy". And "drastically" here is the same word as "sharply", as in a sharp turn.

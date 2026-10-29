@@ -39,7 +39,7 @@ WALK = [
     (6, None, '\'Get lost, go on, I will do everything myself.\' "Provalivay" is a rude "scram", from "provalit\'sya", to fall through. "Sama", "myself", ends in -a because Sasha is a woman.'),
     (7, None, '\'All right, I had better go to the kitchen.\' "Ya luchshe poydu" is "I better will go", the same "luchshe" Max used to turn down a seat.'),
     (8, None, '\'And never touch the coffee machine again!\' "Bol\'she nikogda ne" is "more never not": "nikogda" and "ne" both say no, and Russian is happy with that. "Kofemashina" is "coffee" and "machine" stuck together.'),
-    (9, None, '\'The kitchen is definitely closer to my heart than this bar.\' "Mne blizhe" is "to me closer". "Chem" is "than", and "tochno" is "definitely".'),
+    (9, None, '\'The kitchen is definitely closer to my heart than this bar.\' Max never actually says "heart". He says the kitchen is "closer to me", with "mne" doing the work of "to me", and "chem" brings in the thing he compares it with, just as "than" does.'),
     (10, None, '\'Then go help the cooks.\' "Vot i idi" is "well, go then". "Povaram", "to the cooks", has the "-am" ending that means "to" for a group.'),
-    (11, None, '\'Leaving already, bar boss!\' "Uzhe ukhozhu" is "already I\'m leaving". "Shef bara" is "chef of the bar": "bar" adds an -a for "of".'),
+    (11, None, '\'Leaving already, bar boss!\' Said halfway out the door: "ukhozhu" means "I\'m leaving" right now, exactly like the English. In "shef bara" the bar picks up an extra -a, the ending that means "of".'),
 ]

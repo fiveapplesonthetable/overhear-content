@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Old buddy, forgive me, please!' "Starichok" is "starik", old man, made small and warm. "Prosti" is the friendly "forgive me".
 - 'What good is your simple apology to me?' Kostya puns on "prostoye", simple, and "prosti", forgive, which share a root. "Zachem mne" is "what for to me".
 - 'Now you owe me big time.' Russian says "za toboy bol'shoy dolg", "behind you a big debt". "Dolg" is a debt.
-- 'What can I do for you?' "Mogu" is "I can", and "sdelat'" is "to do". "Dlya tebya", for you, is the friendly form.
+- 'What can I do for you?' A useful pair: "mogu", I can, plus a dictionary-form verb, "sdelat'", to do. Max says "dlya tebya" with the "ty" form, because Kostya is a friend he has just hurt.
 - 'Make me some fresh orange juice.' "Apel'sinovyy", orange, is the fruit "apel'sin" turned into a describing word. "Svezhiy" is "fresh", and "sok" is juice.
 - 'My head is spinning very much.' Russian says "u menya kruzhitsya golova", "at me spins the head". "Kruzhitsya" comes from "krug", a circle.
 - 'I will do everything quickly right now.' "Sdelayu" is "I'll get it done": the "s-" makes it finished. "Seychas" is "right now".

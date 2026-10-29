@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Viktoriya Sergeyevna, should I bring you a cup of coffee?' "Vam prinesti", "to you to bring", is how Russians offer something. "Chashka" becomes "chashku", and "kofe" never changes.
 - 'Lord, how sick of everything I am!' The first word is "Gospodi", an exclamation like "oh Lord". The second half is "everything reached me", a stock way to say you've had enough.
-- 'Have new problems arisen in the restaurant again?' "Voznikli" is "arose", and "opyat'" is "again". "Novyye problemy" are both plural.
+- 'Have new problems arisen in the restaurant again?' The place comes first: "v restorane", in the restaurant, with the -e ending that "v" takes when it means "in". "Voznikli", arose, already has the plural -li, matching "problemy", which only turn up at the end.
 - 'Of course, expensive cognac went missing in the bar.' "Disappeared" is "propal", with the -l of a masculine word, because "cognac" is masculine. It's the same verb as "disappear to" in the last scene.
 - 'Bartender Kostya is looking for that bottle now.' "Ishchet", is looking for, is the same verb as "ishchi" from the knife scene. "Etu butylku" ends in -u as the thing being sought.
 - 'Well, why does everything always go wrong?' "Idyot ne tak" is "goes not so". Russians say "idti", to go, about events as well as people.
 - 'Our work is always very stressful.' "Stressful" comes from "nerves". It ends in -aya to match the feminine word "work".
 - 'The chef shouts, cooks argue, mess everywhere!' "Bardak" is slang for a mess, a stronger word than "besporyadok". No "and" between the items, just commas.
 - 'You need to rest a bit and calm down.' "Vam nuzhno", "to you necessary", is the Russian "you need". "Otdokhnut'" is "to rest", and "uspokoit'sya", to calm down, ends in "-sya".
-- 'Can a day really not pass normally?' "Neuzheli" is "can it really be?". "Nel'zya, chtoby" is "is it impossible that", and "proshyol", passed, is the past form that goes after "chtoby".
+- 'Can a day really not pass normally?' Vika opens with "neuzheli", a word of pure disbelief: "can it really be?". After "chtoby" the verb goes into the past, "den' proshyol", literally "the day passed", even though she means any day from now on.
 - 'I am sure everything will work out soon.' A woman says "uverena", a man says "uveren". "Will work out" has the same root as "ladno", fine, so it means "will get into harmony".
 - 'I want at least one calm day!' "Khochu" already says "I want", so Vika drops the "ya". "Khotya by", at least, is two small words.
 - 'We all want this very much, believe me.' "Pover'te", believe me, is the polite command from "verit'", to believe. "My vse" is "we all".

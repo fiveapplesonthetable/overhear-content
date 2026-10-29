@@ -35,7 +35,7 @@ WALK = [
     (1, None, '\'Remove it from here very quickly!\' "Yeyo", it, is the "her" word, because "korobka" is feminine. "Uberi" is the friendly "take away".'),
     (2, None, '\'Lyova, have you already found my knife?\' The chef says "vy", but here it\'s the plural "you all", not the polite one. "Nashli", found, ends in -li for the group.'),
     (3, None, '\'We have not found it yet, Chef.\' "Yeshchyo ne" is "still not", the Russian "not yet". "Yego", it, never changes.'),
-    (4, None, '\'Did you definitely look well everywhere?\' "Tochno" is "definitely", "vezde" is "everywhere", and "khorosho" sits between as "well".'),
+    (4, None, '\'Did you definitely look well everywhere?\' The chef asks the whole team, so it\'s "vy", and "iskali", looked for, carries the plural -li to match. "Tochno" here isn\'t "exactly" but "for sure": are you sure you looked?'),
     (5, None, '\'Yes, we checked everything in the kitchen.\' "Proverili", checked, ends in -li for "we". "Vsyo" is "everything".'),
     (6, None, '\'Then continue to look further!\' "Znachit", then, is literally "it means". "Prodolzhayte" is "keep on", said to a group, and "dal\'she" is "further".'),
     (7, None, '\'Someone could have accidentally left the knife inside.\' "Mog" is "could". "Sluchayno", by accident, comes from "sluchay", a chance, and "vnutri" is "inside".'),

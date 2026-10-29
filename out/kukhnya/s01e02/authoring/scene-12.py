@@ -39,7 +39,7 @@ WALK = [
     (5, None, '\'Do you know what the guest said about the fricassee?\' A rising voice turns "znayete", "you know", into a question. "Gost\'ya" is the feminine of "gost\'", guest, and "pro" is a casual "about".'),
     (6, None, '\'Was she completely delighted?\' "V polnom vostorge", "in full delight", is a phrase worth keeping. "Byla", was, ends in -a for a woman.'),
     (7, None, '\'She said that it was disgusting!\' "Otvratitel\'no", disgusting, ends in -o to match "ono", the fricassee. The "that" is "chto", the same word as "what".'),
-    (8, None, '\'Chef, I told them right away!\' "Im" is "to them", and "srazu" is "right away". Senya now claims he warned everyone.'),
+    (8, None, '\'Chef, I told them right away!\' The past "govoril" here is the same one as in "ya zhe govoril", the Russian "I told you so". Little pronouns like "im", to them, like to sit right before the verb, and "srazu" means at once.'),
     (9, None, '\'It was Senya who made that terrible sauce!\' "Eto Senya gotovil" is "this Senya cooked", a handy way to point at who did it. "Uzhasnyy", terrible, comes from "uzhas", horror.'),
     (10, None, '\'No, Fedya roasted that partridge himself!\' "Sam", himself, is the word for passing the blame. "Zharil", roasted, comes from "zhar", heat, and "kuropatka" becomes "kuropatku" as the thing roasted.'),
     (11, None, '\'Stop arguing! You are all terrible cooks!\' "Khvatit" is "enough", or "it suffices". "Povara", cooks, makes its plural with -a, like "doma", houses.'),

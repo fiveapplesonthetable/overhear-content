@@ -33,11 +33,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'After all, he will simply slice you into pieces!' "Na kuski" is "into pieces", the plural of "kusok". "Porezhet", will slice, comes from "rezat'", to cut, and "zhe" adds "you know".
 - 'I did not want to take someone else's knife.' "Chuzhoy", someone else's, works for anything that isn't yours. "Ne khotel" ends in -l, as Max is a man.
 - 'Listen to me very carefully right now.' "Slushay" is the friendly "listen", and "ya" becomes "menya" after it. "Vnimatel'no", carefully, has "vnimaniye", attention, inside it.
-- 'We need to hide it from the chef urgently.' "Spryatat'" is "to hide", and "srochno" is "urgently". "Ot shefa" is "from the chef", the "from" for getting away from someone.
+- 'We need to hide it from the chef urgently.' Nobody is named in "nuzhno spryatat'": it's just "necessary to hide", the subjectless way to say "we need to". After "ot", from, the chef picks up the -a we heard in "shef bara": "ot shefa".
 - 'Where can we hide this knife?' "Kuda" means "where to", because the knife will be moving. "Mozhem" is "we can".
 - 'Hide it inside a big fresh fish!' "V bol'shuyu svezhuyu rybu" ends every word in -u, the endings for going into something. In the next scene "v rybe", in the fish, has an -e for being there.
-- 'Are you seriously suggesting hiding it in a fish?' "Ser'yozno" is "seriously". "Predlagayesh'" is "you suggest", the word for any proposal.
+- 'Are you seriously suggesting hiding it in a fish?' Look at "v rybu": "v" with an -u ending means "into", movement inside, while "v rybe" would be the fish just sitting there with something in it. "Predlagayesh'" ends in -esh', the "ty" ending.
 - 'Nobody will find it there, that's for sure.' "Nikto ne naydyot" is "nobody not will find", the double negative. "Tam" is "there", where something stays.
 - 'All right, I will put it in there quickly.' "Tuda" is "to there", the moving partner of "tam". Russian has one word for staying and one for moving: "gde" and "kuda", "tam" and "tuda".
-- 'Just do everything quietly and inconspicuously.' "Tikho" is "quietly", and "nezametno" is "ne" plus "zametno", noticeable.
+- 'Just do everything quietly and inconspicuously.' Two words in -o close the line. "Nezametno" is "zametno", noticeably, with "ne" glued on, so "un-noticeably". "Tol'ko" at the front means "only", here "just make sure".
 - 'Nobody in the kitchen noticed anything.' Three negatives in one sentence: "nikto", "nichego" and "ne". Russian wants all three.
