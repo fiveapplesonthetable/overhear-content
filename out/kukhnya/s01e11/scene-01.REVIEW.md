@@ -31,11 +31,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Or the rich restaurant owner Dmitry?' There's no "of" here: "khozyain restorana" is "owner restaurant-of", and the -a on "restorana" does that job. "Bogaty" is "rich".
 - 'Or maybe our strict director Viktoria?' "A mozhet" is a shorter "or maybe", with "byt" dropped. Kostya uses Vika's full name, Viktoria, the way you'd name a boss. He is running down the staff list.
 - 'No, the most important here are the guests.' Where English says "are", Russian often puts a pause and "eto", "this": "samye glavnye zdes, eto gosti". "Samye glavnye" ends in -ye to match the plural "gosti".
-- 'That is true, our guests can be very different.' "Byvayut raznye" is "happen different": "byvat" is "to be" now and then, so guests come in all kinds. "Eto pravda" is "this is truth".
+- 'That is true, our guests can be very different.' Agreeing, Kostya says "eto pravda", word for word "this truth", with no "is" in it. The verb "byvayut" means "they tend to be, now and then", so guests come in all kinds.
 - 'Some guests can be too stingy.' Russian lines up "odni" and "drugie", "ones" and "others", just like English "some ... others". "Zhadny", "stingy", is literally "greedy". "Slishkom" is "too".
 - 'Other guests can be very cheerful.' "Drugie", "others", answers the "odni" of the last line. "Vesyolymi", "cheerful", has an -ymi ending, the one that comes after "byvayut".
 - 'And do they often hug you?' "Obnimayut" is "they hug", from "obnimat", to put your arms around someone. "Chasto" is "often". Max is teasing his friend.
 - 'Yes, they constantly say various kind words.' "Postoyanno", "constantly", is from the same family as "postoyannye gosti", "regular guests", the constant ones. "Dobrye slova" is "kind words".
-- 'They pay money for this lunch.' "Platyat dengi" is "they pay money", and "za" is "for", as when the guests paid for the cake. "Obed" is the midday meal, lunch. Max states the plain commercial truth.
+- 'They pay money for this lunch.' Before the thing you buy, "za" means "in exchange for": you pay "za obed", for the lunch. "Platyat" is the "they" form of "platit", "to pay". Max states the plain commercial truth.
 - 'Therefore we always smile at every guest.' "Ulybaemsya", "we smile", ends in -sya, a habit some Russian verbs have. "Kazhdomu gostyu" is "to every guest": you smile "to" someone in Russian.
 - 'The guest always remains the most important.' "Ostayotsya", "remains", has the -sya ending again. After it, "samy glavny" becomes "samym glavnym". A tidy last line.

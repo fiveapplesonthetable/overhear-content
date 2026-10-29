@@ -40,7 +40,7 @@ WALK = [
     (6, None, '\'She dumped me right here yesterday.\' "Brosila" is literally "threw", and Russians use it for leaving a partner. "Pryamo zdes" is "right here", "straight here".'),
     (7, None, '\'What is going on here at the bar?\' "Chto proiskhodit" is the "what\'s going on" Vika asked about Max. "U barnoy stoyki" is "at the bar counter", where "stoyka" is the counter again.'),
     (8, None, '\'Where is the restroom located here, tell me?\' "Nakhoditsya", "is located", is literally "finds itself". "Podskazhite" is "prompt me", a polite way to ask for directions. The guest changes the subject.'),
-    (9, None, '\'The restroom is located immediately to the left of the bar.\' "Sleva" is "on the left", and "ot bara" is "from the bar". "Srazu" is "right away", here "immediately".'),
+    (9, None, '\'The restroom is located immediately to the left of the bar.\' Directions often run from a landmark: "sleva ot bara", "on the left from the bar". "Nakhoditsya", "is located", is the slightly official verb staff and signs use, and "srazu" makes it "right there".'),
     (10, None, '\'Friend, you need hot soup right now!\' "Tebe nuzhen", "to you needed", ends like "nuzhen" because "sup" is masculine. Barinov says "ty" to the stranger. "Goryachy" is "hot".'),
     (11, None, '\'I am not at all against tasty soup.\' "Ne protiv", "not against", is the Russian for "I don\'t mind". "Sovsem" strengthens it: "not at all against". "Vkusnogo supa" is "tasty soup".'),
     (12, None, '\'Kostya, urgently order bouillabaisse for our guest!\' "Buyabes" is the French fish soup in Russian letters. "Zakazhi" is "order!", and "nashemu gostyu" is "to our guest".'),

@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Sasha, come over here for a second.' "Podoydi", "come up", is "idti", "to go on foot", with pod-, "up to". "Syuda" is "to here". Vika uses "ty" with the waitress and keeps it short.
 - 'What happened, Viktoria Sergeyevna?' Sasha uses first name and father's name, "Viktoria Sergeevna", because she is talking to her boss. "Chto sluchilos" is "what happened".
 - 'Who is sitting at the fifth table?' Russians sit "za", "behind", a table: "za pyatym stolikom". "Pyaty" is "fifth". It is the same pattern as Kostya's "za sedmym stolikom".
-- 'A rather strange man is sitting there.' "Dovolno" is "rather", and "strannyy muzhchina" is "strange man". "Muzhchina" ends in -a but is a man's word, and "strannyy" agrees with the man.
+- 'A rather strange man is sitting there.' A trap word: "muzhchina", "man", ends in -a like a woman's word, yet "strannyy" before it is masculine. And "tam sidit" puts the verb before the man, the way Russian brings someone new into view.
 - 'Why is he not ordering anything?' "Nichego ne zakazyvaet" is "nothing not orders", with both negatives. "Zakazyvat" is "to order", from "zakaz", "an order".
 - 'I do not know, this is Nastya's guest.' "Gost Nasti" is "guest of Nastya": the -i on "Nasti" does the "of". Sasha hands the problem to her colleague.
 - 'Did she already approach him?' "Podoshla", "came up", has the -la of a woman. "K nemu" is "to him", where "emu" picks up an n- after "k".

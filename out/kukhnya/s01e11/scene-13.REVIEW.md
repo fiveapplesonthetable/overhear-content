@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What is this person doing at his table?' "Chelovek", "person", is the word in Barinov's "kakoy glupy chelovek". "Za svoim stolom" is "at his own table", where "svoim" is "own".
 - 'He does not order anything and constantly writes.' Vika repeats Sasha's clue. "Nichego ne zakazyvaet" keeps both negatives, and "postoyanno pishet" is "constantly writes".
 - 'Could it be a famous writer or journalist?' "Mozhet byt", "can be", is "maybe". "Zhurnalist" is borrowed from French. Barinov offers two jobs, because he is guessing.
-- 'He studies everything around us too attentively.' "Vokrug nas" is "around us". "Slishkom vnimatelno" is "too attentively". Vika is suspicious of anyone who watches so closely.
+- 'He studies everything around us too attentively.' Vika stacks two adverbs: "slishkom", "too", on top of "vnimatelno", "attentively", the word Kostya used with "smotri". In "vokrug nas", "around us", "nas" is the form "we" takes after a preposition.
 - 'But you yourself considered that young woman to be the critic!' "Schitala kritikom", "considered as critic", puts "kritik" in its -om form, as with "schitala menya trusom". "Sama" is "yourself".
 - 'That young woman also behaves very suspiciously.' "Podozritelno", "suspiciously", grows from "podozrenie", "suspicion". "Vedyot sebya" is "behaves", the "leads herself" phrase.
 - 'Does it turn out that I have two critics at once in the restaurant?' "Srazu" can mean "immediately" or "at the same time", and here it is "at the same time". "Dva kritika" is "two critics".

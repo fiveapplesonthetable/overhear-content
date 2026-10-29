@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, look carefully at the dining room!' "Smotri vnimatelno" is "look attentively". "Na zal" is "at the hall": "na" is the small word for looking at something. Kostya speaks in a conspirator's voice.
+- 'Max, look carefully at the dining room!' "Smotri" is a command to one friend, the ty form of "smotret", "to look". Then "na zal" points that look at the room, with "na" for "at". Kostya speaks in a conspirator's voice.
 - 'Which one of them could be the critic?' It's "kto zhe iz nikh", "who then of them", and "mozhet byt" is "can be". After "byt", "kritik" becomes "kritikom".
-- 'Those two work at the bank next door.' "Sosedny", "neighbouring", comes from "sosed", "neighbour". "V sosednem banke" is "in the neighbouring bank". "Eti dvoe" is "these two".
+- 'Those two work at the bank next door.' Two people here are not "dva" but "dvoe", the word Russians use for a pair of people. After "v" the bank takes an -e ending, and "sosednem", "neighbouring", is built on "sosed", "neighbour".
 - 'Yes, they are our regular guests.' Russians call regulars "postoyannye gosti", "constant guests". Max agrees with Kostya's logic: regulars cannot be mystery visitors.
 - 'And that man by the window?' "U okna" is "at the window": after "u", "okno" becomes "okna". "Muzhchina", "man", is close to "muzh", "husband". Kostya moves on to the next suspect.
-- 'He ordered fish and red wine.' "Zakazal" is "ordered", from "zakaz". "Rybu" is "ryba", "fish", as the thing ordered. "Krasnoe vino" is "red wine". Max reads the table like a detective.
+- 'He ordered fish and red wine.' Listen to the fish: "ryba" turns into "rybu" because it's the thing he ordered. And "krasnoe" ends in -oe to match "vino", a neuter word. Max reads the table like a detective.
 - 'No, a real critic will not order that.' "Takogo ne zakazhet" is "of such not will order", with "takoe" changed after "ne". "Zakazhet" is "will order". Kostya is sure of his rules for critics.
 - 'What about the guy at table number three?' "A" at the front means "and what about". "Za stolikom" is "at the little table": "stolik" is a small "stol", the usual word for a restaurant table.
 - 'He is too young for a restaurant critic.' "Molod" is a short form of "molodoy", "young", used to describe someone in the moment. "Dlya restorannogo kritika" is "for a restaurant critic", with endings after "dlya".
-- 'Critics usually sit in solitude.' "Odinochestvo", "solitude", comes from "odin", "one" or "alone", Louis's word in "ya odin". "V odinochestve" is "in solitude". "Obychno" is "usually".
+- 'Critics usually sit in solitude.' It sounds grand, but "v odinochestve" is just the usual way to say someone sits alone, and it's built on "odin", "one". "Obychno", "usually", comes first, as a general rule.
 - 'And write down everything in a notepad.' "Zapisyvayut" is "write down": za- on "pisat", "to write". "Bloknot", "notepad", was borrowed from French. "V bloknot" is "into the notepad".
 - 'Look, the woman at table seven!' The table is "za sedmym stolikom", "at the seventh little table", a counting word. "Zhenshchina" is "woman". The suspect is a lady alone, so she fits.
 - 'She is looking very strictly at the menu.' "Strogo", "strictly", is "strogy" with -o. "Menyu" never changes in Russian. Kostya is drawing a conclusion from a frown, which is hardly proof.

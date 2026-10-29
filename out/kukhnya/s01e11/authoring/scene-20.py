@@ -43,5 +43,5 @@ WALK = [
     (9, None, '\'Another person is waiting for this soup.\' The Russian puts the waiting person last: "etot sup zhdyot drugoy chelovek", "this soup waits another person". The word order puts weight on him.'),
     (10, None, '\'But the critic will write a terrible review!\' "Otzyv", "review", is related to "otozvatsya", "to respond". "Napishet" is "will write".'),
     (11, None, '\'I have had enough of these whims.\' Russian says "s menya khvatit", "from me is enough". "Kaprizy", "whims", becomes "kaprizov" after it.'),
-    (12, None, '\'Let him wait for soup in turn.\' "Po ocheredi" is "in turn", from "ochered", "a queue". "Pust zhdyot" is "let him wait". Barinov\'s rule is first come, first served.'),
+    (12, None, '\'Let him wait for soup in turn.\' Think of a shop queue: "ochered" is the line you stand in, and "po ocheredi" means taking turns. "Pust" turns "zhdyot", "he waits", into an order about someone else: let him wait.'),
 ]
