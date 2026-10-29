@@ -36,7 +36,7 @@ WALK = [
     (2, None, '\'Chef, this is a live goose!\' "Eto zhivoy gus\'" is "this live goose", with no word for "is". "Zhivoy" means alive, and "gus\'" is a goose.'),
     (3, None, '\'We have a very important banquet today.\' "U nas", "at us", is how Russian says "we have". "Vazhnyy" is "important", and "banket" is the banquet.'),
     (4, None, '\'Why do we need a live goose in the kitchen?\' "Zachem nam" is "what for, to us", and that "nam" carries the "we need". Note "na kukhne": Russians are "on" the kitchen, not "in" it.'),
-    (5, None, '\'The guests need the freshest product!\' "Gostyam nuzhen" is "to the guests is needed", and "nuzhen" is masculine to match "produkt". "Samyy svezhiy" is "the most fresh", the easy way to say "freshest".'),
+    (5, None, '\'The guests need the freshest product!\' The guests get the "to" ending -am, "gostyam", because in Russian the thing needed is the subject. So "nuzhen" agrees with "produkt", masculine, and "samyy svezhiy" builds "freshest" out of "most fresh".'),
     (6, None, '\'But I am a cook, not a butcher.\' "Ya povar, a ne myasnik": the little "a ne", "and not", sets one job against the other. "Myasnik" is built on "myaso", meat.'),
     (7, None, '\'Every chef is obliged to know how to butcher meat.\' "Obyazan", obliged, has a man\'s ending, and for a woman it would be "obyazana". "Umet\'" is "know how", for skills, and "razdelyvat\'" is to cut a carcass into pieces.'),
     (8, None, '\'What, do I need to kill it?\' "Mne nuzhno" is "to me necessary", the plain "I need to". "Ubit\'" is "to kill", and "yego", him, is the goose.'),

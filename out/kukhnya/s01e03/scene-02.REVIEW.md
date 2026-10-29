@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But juicy meat cutlets are so tasty!' "Sochnyye", juicy, grows out of "sok", juice, and "myasnyye" is "meaty", from "myaso". "Takiye vkusnyye" is "such tasty", plural to match "kotlety".
 - 'Every cow has the right to life.' A cow is "korova", and "korovka" makes her small and dear. "Imeyet pravo na zhizn'" is "has a right to life"; this bookish "imet'" replaces the usual "u menya yest'".
 - 'Oh my! You tell stories so beautifully!' "Oy, bay!" is a cry of surprise from Ainura's homeland. "Krasivo", beautifully, comes from "krasivyy", and "rasskazyvayesh'" is "you tell".
-- 'I hope you finally understood me.' "Nadeyus'" is "I hope". "Nakonets" is "at last", and "ponyali" has the -li of the polite "vy".
+- 'I hope you finally understood me.' Nastya speaks to the older Ainura as "vy", and "ponyali", understood, has the -li that goes with it. "Nadeyus'", I hope, is one word, and its -s' is the short -sya that comes after a vowel.

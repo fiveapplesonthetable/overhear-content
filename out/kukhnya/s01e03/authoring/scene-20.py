@@ -32,7 +32,7 @@ STORY = [
     ('max', 'Главное понимать, что это только начало!', 'The main thing is to understand that this is only the beginning!', [(354, 'главное понимать, что это только начало.')], ''),
 ]
 WALK = [
-    (0, None, '\'Oguzok, kneel down on one knee before us!\' "Vstan\' na koleno" is "stand onto a knee", the Russian for going down on one knee. "Pered nami" is "before us", with "my" turned into "nami".'),
+    (0, None, '\'Oguzok, kneel down on one knee before us!\' Getting down on one knee is "vstat\' na koleno", and "vstan\'" is its command form. "Pered nami", in front of us, uses "nami", the shape "my", we, takes after "pered".'),
     (1, None, '\'Chef, what will happen to me now?\' "Chto so mnoy budet?" is "what will be with me?". "S" turns into "so" before "mnoy".'),
     (2, None, '\'We solemnly accept you into our kitchen!\' "Torzhestvenno", solemnly, is the adverb of "torzhestvo", a celebration. "Prinimayem" is "we accept", and "na kukhnyu" is "onto the kitchen".'),
     (3, None, '\'In the name of the hot oven and baking tray!\' "Vo imya" is "in the name", an old solemn phrase. After it, "goryachey dukhovki i protivnya" all take the "of" endings.'),

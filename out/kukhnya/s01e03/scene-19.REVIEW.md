@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'On the second day you started a brawl in the bar.' It's "vo vtoroy", with "vo" instead of "v" before "vt". "Ustroil draku" is "arranged a fight".
 - 'You angered our chief art director.' "Razozlil", angered, has "zloy", angry, inside. "Glavnogo art-direktora" ends in -ogo and -a as the person angered.
 - 'And today you were almost shot!' "Tebya chut' ne zastrelili" is "you barely not they shot". With no subject, the -li verb leaves the shooter unnamed.
-- 'Chef, I promise to work much better.' "Obeshchayu" is "I promise". "Namnogo luchshe" is "by much better".
+- 'Chef, I promise to work much better.' This promise is built like the English one: "obeshchayu", I promise, plus "rabotat'", to work. "Namnogo", by a lot, goes in front of "luchshe", better, the way "much" does.
 - 'Looks like you fit right into the team!' "Pokhozhe" is "it looks like", from "pokhozhiy", similar. "Vpisyvayesh'sya" is "you write yourself in", the Russian "fit in".
 - 'Let us head quickly to work in our kitchen.' "Poshli" is a past form used as "let's go". "Na nashu kukhnyu" is "onto our kitchen", with -u for heading there.

@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'My personal life is none of your business.' "Tebya ne kasayetsya" is "does not touch you", the Russian "none of your business". "Lichnaya zhizn'" is "personal life".
 - 'Let us not tell anyone anything.' "Davay ne budem" is "let's not". Then come "nikomu", to nobody, and "nichego", nothing, stacking the negatives.
 - 'Are you afraid that I will tell colleagues?' "Boish'sya", you're afraid, ends in -sya. "Kollegam" is "to colleagues", with the -am plural for "to".
-- 'Me? No, I do not care at all.' "Mne vsyo ravno" is "to me all is equal", the Russian for "I don't care". "Voobshche" adds "at all".
+- 'Me? No, I do not care at all.' The classic Russian shrug is "mne vsyo ravno", literally "to me all is equal". Max slips "voobshche" into the middle to push it to "I couldn't care less".
 - 'There is nothing serious between us anyway.' Here "vsyo ravno" means "anyway". "Mezhdu nami" is "between us", and "nichego ser'yoznogo net" is "nothing serious there isn't".
 - 'Oh, so that is how you speak now!' "Zagovoril" is "govoril", spoke, with "za-", which here means "started". "Ah vot kak" is "ah, so that's how".
 - 'Vika, wait! Who is this young man?' "Postoy" is "stand a moment", from "stoyat'", to stand. "Molodoy chelovek", young man, is the standard way to refer to a young stranger.
 - 'Vadim, did you want to know the truth?' Vika says "ty" to her ex-husband. "Khotel", wanted, ends in -l for a man, and "pravda" is "truth".
-- 'Yes, I want to know everything.' "Khochu znat'" is "I want to know", and "vsyo" is "everything".
+- 'Yes, I want to know everything.' Short and handy: "khochu" plus "znat'", to know, then "vsyo", everything. Careful, "vsyo" with its yo sound is "everything", while "vse" is "everyone", a different word.
 - 'Here, meet my boyfriend.' "Paren'" means both "guy" and "boyfriend". "Poznakom'sya", meet, ends in -sya, and "s moim parnem", with my boyfriend, ends in -im and -em after "s".
-- 'This is my Max, we are together now!' "Moy Maks" is "my Max". "My teper' vmeste" is "we now together", with no verb at all.
+- 'This is my Max, we are together now!' Two little sentences with no verb at all: "eto moy Maks", this my Max, and "my teper' vmeste", we now together. Don't mix up "my", which is Russian for "we", with "moy", my.
 - 'Very nice to meet you, esteemed Vadim.' "Ochen' priyatno poznakomit'sya" is "very pleasant to get acquainted". "Uvazhayemyy", esteemed, means "respected", and it sounds stiff here.

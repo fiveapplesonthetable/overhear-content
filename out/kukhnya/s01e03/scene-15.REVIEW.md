@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Sasha, come here quickly!' "Idi syuda" is "go to here", the normal way to call someone over. "Skoreye" is "faster", to hurry them along.
 - 'What happened, Nastya?' "Chto sluchilos'?" is "what happened?", the question for anything gone wrong. "Sluchilos'" is from "sluchay", an event.
 - 'Look, a live goose is sitting in the box!' "Posmotri" is "have a look". Russians say a goose "sidit", sits, in a box, and "v korobke" is "in the box".
-- 'Where did this goose come from?' "Otkuda" is "from where". "Vzyalsya" is "took itself", from "vzyat'", said when something turns up out of nowhere.
+- 'Where did this goose come from?' Asking where from takes its own word: "otkuda", next to "gde", where, and "kuda", where to. "Vzyalsya" is the past of "vzyat'sya", and the -sya turns "took" into "turned up out of nowhere".
 - 'The chef wanted to prepare a dish out of it.' "Iz nego" is "out of him", since "gus'" is masculine, with an "n" added after "iz". "Khotel prigotovit'" is "wanted to prepare".
 - 'Did you decide to save this bird?' "Reshila", decided, ends in -la for a woman. "Spasti", to save, shares a root with "spasibo", and "ptitsa" is "bird".
 - 'Yes, I cannot abandon him.' "Brosit'" means both "throw" and "abandon". "Yego" is "him", the goose.
