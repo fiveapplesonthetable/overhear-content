@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, he demands the chef.' 'Trebuet' is stronger than 'asks', closer to 'insists on'. 'Shef-povar' becomes shef-povara: for a person who is wanted, Russian uses the same 'a' ending as 'of'.
 - 'Go to him, Lyova.' K nemu, to him. After a little word like 'k', 'him' gains an 'n' at the front, so it's nemu, not emu.
 - 'I will not go there.' Russian has tam for being there and tuda for going there. With 'I will go', it has to be tuda.
-- 'What do you mean, you will not go?' 'Chto znachit' is literally 'what does it mean', and it's the everyday way to pounce on something someone just said.
+- 'What do you mean, you will not go?' Kostya pounces with 'chto znachit', 'what does it mean', the everyday way to challenge what someone just said. 'Ne poydyosh' is 'you won't go', from 'poyti', 'to set off'.
 - 'You are the chef today.' No 'are' appears. Just 'you today chef', and it sounds like a verdict.
 - 'Go and figure this out.' 'Razbirat' means 'to take apart, to sort through'. With 'sya' and 's etim', 'with this', it becomes 'deal with it', and razbirays is the order form.
 - 'But I am not the chef.' Careful with the first word: no sounds like English 'no', but in Russian it means 'but'. The Russian 'no' is net.
