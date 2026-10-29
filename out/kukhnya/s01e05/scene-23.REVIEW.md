@@ -30,13 +30,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There are days when everything goes wrong.' "Byvayut", from "byvat", is 'there are', with a sense of 'it happens now and then'. "Idyot ne tak" is literally 'goes not so'.
 - 'In the kitchen today there was a real rush.' "Byla" has -a to match "zapara", which is feminine. "Nastoyashchaya", 'real', is the same word that means 'true'.
 - 'The chef shouted, and the orders did not end.' The little a in the middle sets up a contrast, like 'while'. "Zakanchivalis" is 'were coming to an end', and with the "ne" in front the orders just kept coming.
-- 'But such difficult days always end.' "Trudnye", 'difficult', comes from "trud", 'labour'. "Takie" and "trudnye" share the plural ending -ie, -ye with "dni".
+- 'But such difficult days always end.' All three words share a plural ending: "takiye trudnyye dni", such hard days. "Trudnyye" is related to "trud", labour, and "zakanchivayutsya", they end, carries a "-sya" because the days end by themselves.
 - 'To someone this day brought something new.' "Komu-to" is "kto-to", 'someone', changed to mean 'to someone'. "Chto-to novoe", 'something new', has neuter -oe.
 - 'For someone everything stays the same.' "Po-staromu", 'the same as before', is literally 'in the old way'. After "dlya", 'for', "kto-to" becomes "kogo-to".
 - 'Hi, Nastya, glad to see you.' Kostya says "rad" as a man, and drops the "ya", as people often do in greetings. "Tebya", 'you', is the accusative after "videt".
 - 'I hope your shift went well.' "Proshla", 'went' or 'passed', has -a to match "smena", 'shift'. "Khorosho", 'well', also does duty as 'good'.
 - 'Seven thousand rubles on Spartak!' Spartak is a Moscow football club. After "sem", 'seven', both words go into the genitive plural: "tysyach rubley".
-- 'My favorite team will definitely win!' "Lyubimaya", 'favourite', comes from "lyubit", 'to love'. "Pobedit" looks like the present, but it means 'will win'.
+- 'My favorite team will definitely win!' Since "komanda", team, is feminine, both "moya" and "lyubimaya", favourite, take the feminine ending. "Pobedit" has no word for "will", yet it points to the future: a perfective verb in this form always does.
 - 'Someone is truly glad about this day.' "Iskrenne", 'sincerely', is the adverb from "iskrenniy". "Rad etomu dnyu" is literally 'glad to this day'.
 - 'And I am happy that it ended.' "Schastliv", 'happy', is the short form for a man. On, 'it', refers to "den", 'day', which is masculine.
 - 'Tomorrow in the kitchen new work will begin.' "Nachnyotsya", 'will begin', means 'will begin', and the -sya stays on the end. "Novaya" ends in -aya to match "rabota".

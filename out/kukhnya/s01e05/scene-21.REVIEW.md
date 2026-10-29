@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, newcomer, step aside a little.' "Novichok", 'newcomer', comes from "novyy", 'new'. "Otoydi", 'step away', starts with "ot-", which means 'away from'.
+- 'Alright, newcomer, step aside a little.' Fedya calls Max "novichok", the newbie: "nov", new, plus an ending that turns it into a person. "V storonu", to the side, ends in -u because he's sending Max somewhere.
 - 'Move over, come on, I will help you.' "Podvinsya", 'move over', ends in -sya because you move yourself. "Davay" tacked on after a command works as a nudge: 'come on'.
 - 'Fedya, thank you, nothing is working out for me!' "U menya nichego ne poluchaetsya" is literally 'at me nothing comes out'. Use it whenever nothing you try works.
 - 'Right now the main thing is to completely calm down.' "Glavnoe", 'the main thing', is an adjective used as a noun. "Polnostyu", 'completely', comes from "polnyy", 'full'.
@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The rush does not happen in the kitchen.' "Zapara" is kitchen slang for a rush, and the whole scene hangs on it. "Ne" goes right before "na kukhne", so the 'not' is about the place.
 - 'The real rush is always only in your head!' "V golove", 'in the head', has the place ending -e. Russian doesn't say 'your' here; the head is understood to be yours.
 - 'But orders keep coming every minute!' Russian says orders "idut", 'go', where English has 'come'. "Kazhduyu minutu" takes -uyu and -u because it says how often.
-- 'Make each dish in turn.' "Po ocheredi", 'in turn', comes from "ochered", 'a queue'. "Delay" is the imperfective command, for doing something again and again.
+- 'Make each dish in turn.' For a routine, Russians use an imperfective command like "delay", make. "Po ocheredi", in turn, is built on "ochered'", a queue, so the dishes go out one after another like people in a line.
 - 'Alright, I understood your advice.' "Sovet", 'advice', can also mean a council, the one in 'Soviet'. "Ya ponyal" is what a man says; a woman would say "ponyala".
 - 'Then begin to cook calmly!' "Spokoyno", 'calmly', is the -o adverb from "spokoynyy". "Nachinay", 'start', goes straight into "gotovit", 'to cook'.

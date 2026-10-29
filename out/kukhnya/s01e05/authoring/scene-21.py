@@ -31,7 +31,7 @@ STORY = [
     ('fedya', 'Тогда начинай готовить спокойно!', 'Then begin to cook calmly!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Alright, newcomer, step aside a little.\' "Novichok", \'newcomer\', comes from "novyy", \'new\'. "Otoydi", \'step away\', starts with "ot-", which means \'away from\'.'),
+    (0, None, '\'Alright, newcomer, step aside a little.\' Fedya calls Max "novichok", the newbie: "nov", new, plus an ending that turns it into a person. "V storonu", to the side, ends in -u because he\'s sending Max somewhere.'),
     (1, None, '\'Move over, come on, I will help you.\' "Podvinsya", \'move over\', ends in -sya because you move yourself. "Davay" tacked on after a command works as a nudge: \'come on\'.'),
     (2, None, '\'Fedya, thank you, nothing is working out for me!\' "U menya nichego ne poluchaetsya" is literally \'at me nothing comes out\'. Use it whenever nothing you try works.'),
     (3, None, '\'Right now the main thing is to completely calm down.\' "Glavnoe", \'the main thing\', is an adjective used as a noun. "Polnostyu", \'completely\', comes from "polnyy", \'full\'.'),
@@ -41,7 +41,7 @@ WALK = [
     (7, None, '\'The rush does not happen in the kitchen.\' "Zapara" is kitchen slang for a rush, and the whole scene hangs on it. "Ne" goes right before "na kukhne", so the \'not\' is about the place.'),
     (8, None, '\'The real rush is always only in your head!\' "V golove", \'in the head\', has the place ending -e. Russian doesn\'t say \'your\' here; the head is understood to be yours.'),
     (9, None, '\'But orders keep coming every minute!\' Russian says orders "idut", \'go\', where English has \'come\'. "Kazhduyu minutu" takes -uyu and -u because it says how often.'),
-    (10, None, '\'Make each dish in turn.\' "Po ocheredi", \'in turn\', comes from "ochered", \'a queue\'. "Delay" is the imperfective command, for doing something again and again.'),
+    (10, None, '\'Make each dish in turn.\' For a routine, Russians use an imperfective command like "delay", make. "Po ocheredi", in turn, is built on "ochered\'", a queue, so the dishes go out one after another like people in a line.'),
     (11, None, '\'Alright, I understood your advice.\' "Sovet", \'advice\', can also mean a council, the one in \'Soviet\'. "Ya ponyal" is what a man says; a woman would say "ponyala".'),
     (12, None, '\'Then begin to cook calmly!\' "Spokoyno", \'calmly\', is the -o adverb from "spokoynyy". "Nachinay", \'start\', goes straight into "gotovit", \'to cook\'.'),
 ]

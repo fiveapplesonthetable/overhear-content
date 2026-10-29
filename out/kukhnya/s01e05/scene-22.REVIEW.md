@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'See, the panic disappears by itself.' "Vidish", 'you see', is the usual 'see?'. "Sama soboy", literally 'itself by itself', means 'on its own', and "sama" is feminine to match "panika".
 - 'Now I control this entire process.' "Kontroliruyu" and "protsess" are borrowed, with Russian endings. "Ves etot", 'all this', piles up two words before "protsess".
 - 'This order is ready to serve.' "Gotov" has no ending because "zakaz" is masculine. "K podache", 'for serving', uses the noun "podacha", after "k" with the dative -e.
-- 'The waiter can already take the plate.' "Mozhet" is 'he can', and "zabirat" is to come and take something away. "Tarelku", the plate being taken, ends in -u.
+- 'The waiter can already take the plate.' Like English "can take", "mozhet", he can, is followed by a plain infinitive. "Zabirat'" means coming to collect something and carrying it off, and "tarelka", plate, ends in -u here because it's the thing being taken.
 - 'You are doing great on the shift today.' "Spravlyaeshsya", 'you're coping', is how Russians praise someone's work. "Na smene", 'on the shift', has the place ending -e.
 - 'Thank you, Fedya, I am ready for work!' Max answers with the same "gotov k rabote" he gave Barinov earlier. This time he sounds as if he means it.
