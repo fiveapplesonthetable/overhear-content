@@ -40,6 +40,6 @@ WALK = [
     (7, None, "'Fine, they fired me.' 'Menya uvolili' is 'me they fired', and nobody is named as the one who did it. 'Normalno' means 'fine'."),
     (8, None, "'Not fired, but demoted.' 'Ne ... a ...' is the pair for 'not X but Y'. 'Ponizili' means 'lowered', and 'nizky' is 'low', so a demotion is a lowering."),
     (9, None, "'Mom, I am not guilty of anything.' 'In nothing not' is the double negative. 'Guilty' has no ending, because Lyova is a man."),
-    (10, None, "'You must know how to answer for your actions.' 'Umet'' is 'know how to', and 'otvechat za' is 'answer for', which is how Russians say 'be responsible'. 'Postupki' are deeds."),
+    (10, None, "'You must know how to answer for your actions.' After 'nado', one must, two infinitives follow in a row: 'umet'', to be able, and 'otvechat'', to answer. 'Otvechat za' something is the everyday way to say 'take responsibility', and 'postupki' are deeds you chose to do."),
     (11, None, "'Thank you for the support, Mom.' Literally 'thanks to you for support': after 'za', 'podderzhka' becomes 'podderzhku'. Lyova doesn't sound very grateful."),
 ]

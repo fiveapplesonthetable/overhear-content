@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, come on, get up already, come on!' 'Stand up!' is the Russian for 'get up', with the 'te' ending that makes it polite and plural. Lyova adds 'come on' twice.
+- 'Viktor Petrovich, come on, get up already, come on!' 'Vstavayte' is 'get up' with the polite 'te' on the end. The 'nu' at both ends of the line is pure impatience.
 - 'Lyova, let me sleep for five more minutes.' Literally, 'give me to sleep', and it is the idiom for 'let me sleep'. The 'po' in front makes the sleep short.
 - 'First, Mom baked pancakes for you.' 'Vo-pervykh' is 'in the first', the opener for a list of reasons. 'Blinchikov' is 'of little pancakes', a pet form of 'blin' with an 'of' ending to say 'some'.
 - 'Fresh pancakes are a very good reason.' 'Povod' is a reason, or an excuse. There's no 'are', and 'svezhie' takes 'ie' for plural pancakes.
 - 'She prepared sweet jam and tea.' 'Varenye' is the jam that Russians stir into tea. 'Sladkoe' takes 'oe' because jam is neuter.
 - 'Your mom makes simply amazing breakfasts.' 'Potryasayushchie' comes from a word for 'shake', so amazing things shake you. 'Zavtraki' is 'breakfasts', plural.
-- 'And second, you really will be late.' 'Secondly' is the pair of 'firstly', and both begin with 'vo'. 'Really' grows from 'action'.
+- 'And second, you really will be late.' 'Vo-vtorykh', secondly, pairs with 'vo-pervykh' from earlier. 'Opozdaete' is the polite 'you will be late', and 'deystvitelno' is 'really' in the sense of 'actually'.
 - 'Where do I have to rush so much now?' 'Where to' is a different word from 'where'. 'To me to hurry' is Russian for 'I have to rush', and Barinov asks it for effect.
-- 'Both of us are already expected in our kitchen.' 'Nas oboikh' is 'both of us', and 'zhdut' is 'they await', with nobody named. 'Na nashey kukhne' is 'on our kitchen'.
-- 'What an annoying person you are, Lyova!' 'Harmful' is Russian for someone who spoils your fun. 'What a you' is how the exclamation is built.
-- 'I am simply caring about our shared work.' The 'sya' on 'care' turns it into 'care oneself', followed by 'about'. 'Shared' grows out of 'common'.
+- 'Both of us are already expected in our kitchen.' Word for word, 'us both already await on our kitchen'. 'Zhdut' is the 'they' form with no 'they' said, the Russian way to put 'people are waiting', and a kitchen takes 'na', not 'v'.
+- 'What an annoying person you are, Lyova!' 'Vrednyy' literally means 'harmful', and said of a person it means a pest who won't leave you alone. 'Kakoy zhe ty' is 'what a ... you are'.
+- 'I am simply caring about our shared work.' 'Zabochus o' is 'I take care about'. After 'o', 'rabota' becomes 'rabote', and 'nasha obshchaya' turns into 'nashey obshchey' to match.
 - 'Alright, I am getting up, bring the hot pancakes soon!' 'Vstayu' is 'I stand up', one word for 'I am getting up'. 'Nesi' is 'carry!', the order Russians use for bringing something to a table.

@@ -33,7 +33,7 @@ WALK = [
     (0, None, "'Does this worry you too?' Russian makes the worried person the object, so 'you' takes the 'tebya' form. The word for 'too' is 'tozhe'."),
     (1, None, "'What exactly?' 'Imenno' is 'exactly', 'namely', and 'chto imenno' asks for the specific thing."),
     (2, None, "'For example, will Max come or not?' The word 'naprimer' means 'for example'. The phrase 'or not' ends a yes-or-no question."),
-    (3, None, "'I think he will come.' 'Ya dumayu' is 'I think'. 'Pridyot' is 'will arrive' in a single word, with no separate 'will'."),
+    (3, None, "'I think he will come.' No 'will' needed: 'pridyot' is a perfective verb, so its present-looking form already points to the future. 'Ya dumayu' sits in front, just like 'I think' in English."),
     (4, None, "'He loves our kitchen.' 'Kukhnya' becomes 'kukhnyu' because it is what he loves, and 'nasha' changes to 'nashu' to match."),
     (5, None, "'And he loves to work.' 'Lyubit rabotat' is 'loves to work', two verbs together. It is the most natural way to say you like doing something."),
     (6, None, "'And what about the chef?' 'A kak zhe' is 'and how then', a handy way to ask 'what about...?'."),

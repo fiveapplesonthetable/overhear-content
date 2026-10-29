@@ -37,7 +37,7 @@ WALK = [
     (4, None, "'You are lying to me, you are still sleeping!' 'Obmanyvaete' is 'you deceive', with the polite 'ete' ending. 'Eshchyo' means 'still' here, and in other lines 'more' or 'yet'."),
     (5, None, "'I am cheerful and full of new strength.' After 'polon', full, the thing that fills goes into the 'of' form: 'sily' becomes 'sil', 'of strengths'. 'Bodryy' is brisk and wide awake."),
     (6, None, "'Viktor Petrovich, you will be late for work!' Lyuba stays polite and puts 'will be late' in the future. 'Na rabotu' needs a 'u' on 'rabota' to show the direction."),
-    (7, None, "'Lyuba, leave me alone, I know my business.' 'Otstan'' is literally 'fall behind', and it's rude for 'get off my back'. 'Svoyo delo' is 'my own business', the thing he's good at."),
+    (7, None, "'Lyuba, leave me alone, I know my business.' Barinov switches to 'ty' here: 'otstan'' is the casual command, a blunt 'get off my back'. 'Svoyo' means 'my own', and it takes the neuter ending to match 'delo'."),
     (8, None, "'The restaurant is opening soon for guests.' The restaurant 'opens itself', so 'otkryvaetsya' ends in 'sya'. 'Skoro' is just 'soon'."),
     (9, None, "'You are the one who will be late for the shift today!' 'Eto ty' is 'it's you who', a handy way to hit back. 'Na smenu' is 'for the shift'."),
     (10, None, "'And when will you arrive at the kitchen yourself?' 'Sami', yourself, is in the plural form, to match the polite 'vy'. The little 'a' at the start means 'and what about'."),
