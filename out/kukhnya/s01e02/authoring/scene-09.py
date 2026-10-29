@@ -39,7 +39,7 @@ WALK = [
     (6, None, '\'I do not understand anything yet myself.\' "Nichego ne", "nothing not", is the double negative once more. "Poka" here means "for now", the same word as the casual "bye".'),
     (7, None, '\'The main thing is that she does not call the director.\' "Glavnoye" opens it, then "chtoby", "so that". After "chtoby" the verb takes its past form, "ne pozvala", even though it\'s about a hope.'),
     (8, None, '\'Look, she took another sip.\' "Glotok", a sip, is one swallow: the verb "glotat\'" means to swallow. "Yeshchyo odin" is "one more".'),
-    (9, None, '\'It seems she liked our fricassee!\' "Kazhetsya" is "it seems". "Yey ponravilos\'" is "to her it pleased", and the "-os\'" ending matches "frikase", a neuter word.'),
+    (9, None, '\'It seems she liked our fricassee!\' Russian turns liking around: the fricassee does the pleasing, and "yey", to her, is on the receiving end. So the verb "ponravilos\'" agrees with "frikase", a neuter word, not with her. "Kazhetsya" up front softens it, like "looks like".'),
     (10, None, '\'Do not celebrate too early.\' "Ne raduysya", "don\'t rejoice", comes from "rad", glad. "Ran\'she vremeni", "earlier than time", is how Russians say "too early".'),
     (11, None, '\'Oh, she is calling the waitress to the table!\' "Ofitsiantka" is "ofitsiant", a waiter, with "-ka" for a woman. "K stolu" is "to the table": "stol" adds -u after "k".'),
 ]

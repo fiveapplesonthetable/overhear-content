@@ -42,6 +42,6 @@ WALK = [
     (8, None, '\'A big wardrobe always falls very loudly.\' "Bol\'shoy shkaf gromko padayet" is a real Russian saying, like "the bigger they are, the harder they fall". "Shkaf" is a wardrobe and "padayet" is "falls".'),
     (9, None, '\'Have you heard such a clever folk rule?\' "Umnyy", clever, comes from "um", mind. "Narodnyy", folk, comes from "narod", people, and "slyshal" is the past for a man.'),
     (10, None, '\'I seriously practiced boxing for many years.\' After "mnogo", "god", year, turns into "let", an odd form. "Zanimalsya boksom" is "busied myself with boxing", so the sport takes -om.'),
-    (11, None, '\'Hand over the cognac, otherwise I will hit you!\' "Otday" is "give it over", and "inache" is "otherwise". "Udaryu", I\'ll hit, is one word.'),
-    (12, None, '\'Okay, okay, no need to fight right away!\' "Ladno, ladno" is "OK, OK". "Ne nado" is "no need", and "drat\'sya", to fight, ends in "-sya".'),
+    (11, None, '\'Hand over the cognac, otherwise I will hit you!\' A threat in two halves: "otday", give it back, then "inache", or else. "Udaryu", I\'ll hit, is a single perfective verb, so its present-looking form actually points to the future.'),
+    (12, None, '\'Okay, okay, no need to fight right away!\' Saying "ladno" twice is how Russians calm someone down. "Ne nado" with a verb is a handy "don\'t", and the -sya belongs to "drat\'sya", to fight; without it, "drat\'" means to tear.'),
 ]

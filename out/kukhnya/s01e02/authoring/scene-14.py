@@ -40,6 +40,6 @@ WALK = [
     (7, None, '\'And now look carefully at this shelf.\' "Posmotri na" is "look at", and "na" turns "eta polka" into "etu polku". "Vnimatel\'no" is "carefully".'),
     (8, None, '\'I see nothing unusual here.\' "Neobychnyy", unusual, is "obychnyy", usual, with "ne" in front. "Nichego ne vizhu" is "nothing not I see", the double negative.'),
     (9, None, '\'Where then is our expensive cognac standing?\' Russians say bottles "stoyat", stand. "Dorogoy" is "expensive" and also "dear", and "togda" is "then".'),
-    (10, None, '\'This cognac always stood right here.\' "Vsegda stoyal" is "always stood". "Pryamo zdes\'" is "straight here", meaning "right here".'),
+    (10, None, '\'This cognac always stood right here.\' Bottles in Russian stand: "stoyal" is the past of "stoyat\'", to stand, the usual way to say where an upright thing is kept. "Pryamo", straight, sharpens "zdes\'" into "right here".'),
     (11, None, '\'The bottle is no longer in its place.\' "Butylki bol\'she net" is "of-bottle more isn\'t": after "net", "butylka" takes the "of" ending. "Na svoyom meste" is "in its own place".'),
 ]

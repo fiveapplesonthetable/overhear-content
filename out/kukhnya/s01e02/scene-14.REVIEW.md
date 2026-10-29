@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And now look carefully at this shelf.' "Posmotri na" is "look at", and "na" turns "eta polka" into "etu polku". "Vnimatel'no" is "carefully".
 - 'I see nothing unusual here.' "Neobychnyy", unusual, is "obychnyy", usual, with "ne" in front. "Nichego ne vizhu" is "nothing not I see", the double negative.
 - 'Where then is our expensive cognac standing?' Russians say bottles "stoyat", stand. "Dorogoy" is "expensive" and also "dear", and "togda" is "then".
-- 'This cognac always stood right here.' "Vsegda stoyal" is "always stood". "Pryamo zdes'" is "straight here", meaning "right here".
+- 'This cognac always stood right here.' Bottles in Russian stand: "stoyal" is the past of "stoyat'", to stand, the usual way to say where an upright thing is kept. "Pryamo", straight, sharpens "zdes'" into "right here".
 - 'The bottle is no longer in its place.' "Butylki bol'she net" is "of-bottle more isn't": after "net", "butylka" takes the "of" ending. "Na svoyom meste" is "in its own place".

@@ -41,5 +41,5 @@ WALK = [
     (8, None, '\'Outsiders are strictly forbidden to be here.\' "Postoronniy", outsider, comes from "storona", side, so it means people from the side. "Strogo zapreshcheno", strictly forbidden, is what you see on signs.'),
     (9, None, '\'Fine, calm down, I am already leaving here.\' "Uspokoytes\'", calm down, has the same "pokoy" as "spokoyno". "Ladno" is the Russian "OK, fine".'),
     (10, None, '\'Waiter, quickly find bartender Kostya for me!\' "Naydi", find, is a friendly command. "Barmen Kostya" becomes "barmena Kostyu" because he\'s the one being found.'),
-    (11, None, '\'I want to know who let this person in.\' "Khochu znat\'" is "I want to know". "Pustil" is "let in", and "etot chelovek" becomes "etogo cheloveka" as the one let in.'),
+    (11, None, '\'I want to know who let this person in.\' Watch "etot chelovek" change shape: as the one being let in, it becomes "etogo cheloveka", -ogo on "this" and -a on "person". And as before, "kto" takes the masculine past, "pustil".'),
 ]

@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is my knife?' "Gde" is "where", and "moy nozh" is "my knife". The little "a" at the start can mean "and" or "but", and here it just pushes the question along.
+- 'And where is my knife?' Word for word, "and where my knife", with no "is" anywhere, since Russian drops "to be" in the present. The little "a" in front just nudges the question along, like a weary "so".
 - 'Who took my knife?' "Kto vzyal" is "who took". "Kto" always takes the masculine past, so it's "vzyal" with a plain -l, whoever the thief turns out to be.
 - 'Chef, I didn't take it.' "Ya ne brala" is "I not took". Nastya switches to "brat'", the everyday partner of "vzyat'", because she's denying any taking at all. The "-a" shows she's a woman; a man would say "ne bral".
 - 'I repeat: who took my knife?' "Povtoryayu" is "I repeat", from "povtor", a repeat. This is what you say when your patience has run out.

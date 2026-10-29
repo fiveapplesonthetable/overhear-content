@@ -35,7 +35,7 @@ WALK = [
     (0, None, '\'Lyova, come to my office!\' "Zaydi" is "drop in", with "za-" for a quick stop. "K mne" becomes "ko mne", with an extra "o" to make it easier to say.'),
     (1, None, '\'Yes, chef, I am already here.\' "Ya uzhe zdes\'" is "I already here", with no "am", since Russian leaves it out.'),
     (2, None, '\'Where is my favorite fish knife?\' "Rybiy nozh" is a fish knife: "ryba", fish, becomes the describing word "rybiy". "Lyubimyy", favourite, shares its root with "lyubit\'", love.'),
-    (3, None, '\'We are looking for it everywhere, chef.\' "Vezde" is "everywhere". "Ishchem" is "we look for", and "yego", it, never changes.'),
+    (3, None, '\'We are looking for it everywhere, chef.\' Why "yego", which also means "him"? Because "nozh" is a masculine word, and Russian uses the "him" word for masculine things. "Ishchem" already means "we look for", so "my" is there for emphasis.'),
     (4, None, '\'Are you a sous-chef or who?\' "Su-shef" is borrowed from French. "Ili kto takoy" is "or who such", a rude way to ask "who do you think you are?".'),
     (5, None, '\'I maintain order in the kitchen.\' "Slezhu za" is "I keep an eye on", from "sled", a track. "Poryadok", order, is the root of "besporyadok", mess.'),
     (6, None, '\'You keep an eye on the kitchen very poorly!\' The chef throws back the same verb, now "sledish\'", "you keep an eye". "Plokho", poorly, is the opposite of "khorosho".'),

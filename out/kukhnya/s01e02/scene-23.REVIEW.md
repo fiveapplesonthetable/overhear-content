@@ -31,10 +31,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This is our chef's favorite knife!' "Lyubimyy nozh" is the "loved knife" again. "Nashego shefa", "of our chef", puts an "of" ending on both words.
 - 'The chef has been looking for it all morning.' "Ishchet uzhe", "looks already", uses the present for something that started earlier and is still going. "Vsyo utro" is "the whole morning".
 - 'I simply wanted to wash dishes.' "Pomyt'" is the finished partner of "myt'", to wash. "Posuda", dishes, is a single word for all the crockery.
-- 'If the chef sees the knife, there will be a scandal!' "Uvidit" is "will see". "Budet" is "there will be", and "skandal" is borrowed.
+- 'If the chef sees the knife, there will be a scandal!' Unlike English, Russian keeps the future after "esli", if: "uvidit" is "will see", where English says "sees". "Budet skandal" is literally "will be scandal", with no "a" anywhere.
 - 'He will yell at us very loudly.' "Budet krichat'" is "will shout", made from "budet" plus the verb. "Na nas" is "at us", and "ochen' sil'no" is "very strongly".
 - 'What should I do now?' "Chto mne delat'" is "what to me to do", the same "should I" pattern again. "Zhe" adds worry.
-- 'Get it off the table while nobody is looking.' "Uberi" is "put away, clear off". "So stola" is "off the table": "s", here "so", with the "of" ending -a. "Poka nikto ne vidit" is "while nobody sees".
+- 'Get it off the table while nobody is looking.' "Uberi" is the go-to command for clearing something away. In "so stola", off the table, "s" grows to "so" before the cluster "st", and "stol" adds -a. Then a double negative again: "nikto ne vidit", nobody not sees.
 - 'Let the chef find his knife himself.' "Pust'" is "let", for wishing something on someone else. "Sam" is "himself" and "svoy" is "his own".
 - 'Hide it further away from here, quickly!' "Podal'she", further away, is "daleko", far, with "po-" and a comparing ending. "Bystreye" is "faster".
 - 'Alright, I will put everything away now.' "Uberu", I'll put away, is from "ubrat'", the verb the chef used for the dirty box.
