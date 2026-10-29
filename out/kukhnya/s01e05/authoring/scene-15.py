@@ -40,6 +40,6 @@ WALK = [
     (7, None, '\'Lord, how incredibly delicious this is!\' "Gospodi", \'Lord\', is what people say when something amazes them. "Vkusno", \'delicious\', comes straight from "vkus", \'taste\'.'),
     (8, None, '\'Chef, let me taste a little too.\' "Dayte", \'give\', has the polite -te because Max is speaking to his boss. "Dayte poprobovat", \'let me try\', asks for a taste.'),
     (9, None, '\'Wait, I haven\'t properly tasted it myself yet.\' "Sam" puts the weight on \'myself\', and "eshchyo ne" means \'not yet\'. "Rasprobovat", with "ras-" on the front, is to taste something properly and get the flavour.'),
-    (10, None, '\'And the losing cook must finish eating everything himself.\' "Proigravshiy", \'the one who lost\', comes from "proigrat", \'to lose\'. In "doest", the "do-" means eating to the very end.'),
+    (10, None, '\'And the losing cook must finish eating everything himself.\' Notice the prefixes. "Proigravshiy", the one who lost, is built on "proigrat\'", to lose a game, and the "do-" in "doyest\'" means eating right to the end. "Obyazan", obliged, is the man\'s form; for a woman it would be "obyazana".'),
     (11, None, '\'I hope our guests will remain very pleased.\' "Nadeyus", \'I hope\', comes from "nadeyatsya", with -yus for \'I\'. "Dovolny", \'pleased\', has the plural -y because it describes "gosti", \'guests\'.'),
 ]
