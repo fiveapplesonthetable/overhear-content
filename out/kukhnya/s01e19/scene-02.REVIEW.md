@@ -17,11 +17,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Шеф | Мне плевать, кто ты. | I do not care who you are. | #18 00:01:25: Сеню же уволили. А мне плевать, кто ты. | verbatim |
 | 6 | Шеф | Сегодня ты Сеня. | Today you are Senya. | #19 00:01:28: Сегодня ты Сеня. | verbatim |
 | 7 | Шеф | Федя бы это быстро сделал. | Fedya would have done it fast. | #21 00:01:33: Федя бы это за 10 секунд сделал. | verbatim |
-| 8 | Федя | Я тоже Федя, шеф. | I am Fedya too, Chef. | #22 00:01:35: Я, кстати, тоже Федя, шеф. | verbatim |
+| 8 | Повар | Я тоже Федя, шеф. | I am Fedya too, Chef. | #22 00:01:35: Я, кстати, тоже Федя, шеф. | verbatim |
 | 9 | Шеф | Нет, ты не Федя. | No, you are not Fedya. | #23 00:01:37: Нет, ты не Федя. | verbatim |
 | 10 | Шеф | Имя Федя заслужить надо. | You have to earn the name Fedya. | #24 00:01:39: Имя Федя заслужить надо. | verbatim |
 | 11 | Шеф | Теперь ты Артем. | Now you are Artyom. | #25 00:01:40: Теперь ты Артем. | verbatim |
-| 12 | Федя | Да, шеф. | Yes, Chef. | #26 00:01:44: Да, шеф. | verbatim |
+| 12 | Повар | Да, шеф. | Yes, Chef. | #26 00:01:44: Да, шеф. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
