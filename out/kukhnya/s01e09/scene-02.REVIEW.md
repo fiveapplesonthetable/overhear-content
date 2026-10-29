@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Because you are always busy in the kitchen.' "Potomu chto" is "because", and the "chto" in it is said "shto". "Zanyat" is "busy", and there's no word for "are".
 - 'I want to spend time with my daughter myself.' "Sam" is "myself", as in "me, personally". "Provesti vremya" is "to spend time", built from "vesti", "to lead", so you lead your time through the day. It's a very common phrase.
 - 'Alisa, who do you want to stay with?' "S kem" is "with whom", and the Russian for "stay" really means "stay behind". Vika uses "ty" with the little girl, as you do with any child.
-- 'My daughter wants to stay with her dad.' "Doch" is "daughter", and "dochka" is the fond, softer version. Barinov beats the girl to the answer. He says "with his own dad", using "svoim" for "one's own".
+- 'My daughter wants to stay with her dad.' The warmth is in "dochka", the fond form of "doch", daughter. In "so svoim papoy", "svoim" means "her own", and "s" grows to "so" before the "sv". Barinov answers before the girl can.
 - 'Well, you decided everything yourselves.' "Nu vot" is "well, there you are". Here "vy" means "you two", so it's plural, and "sami" is "yourselves". Vika shrugs. She knows she has lost.
 - 'I will buy her delicious sweet chocolate.' Barinov starts spoiling his daughter at once. "Kuplyu" is "I will buy", and "ey" is "her" in the sense of "for her". Two describing words sit in front of the chocolate, "vkusny" and "sladky", tasty and sweet.
 - 'Remember, she is not allowed to eat chocolate.' "Nelzya" is one handy word for "not allowed" or "must not", and Russian puts it as "to her, not allowed". "Pomni" is a bare command, "remember", with no "you" needed.

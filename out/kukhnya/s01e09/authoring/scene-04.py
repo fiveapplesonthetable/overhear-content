@@ -45,5 +45,5 @@ WALK = [
     (10, None, '\'But mom says you are very funny.\' "Smeshnoy" means funny, and it can also mean laughable. Alisa doesn\'t know which her mother means. "Ochen", "very", sits in front of it, exactly as in English.'),
     (11, None, '\'Mom is simply jealous of my talent.\' "Zaviduet" is "envies", and Russian envies "to" something, so it\'s "envies to my talent", "moemu talantu". "Prosto" is "simply". It\'s a very Barinov explanation.'),
     (12, None, '\'Then let us keep playing!\' "Togda" is "then". "Davay" literally means "give", but in front of another verb it\'s "let\'s". "Dalshe" is "further". She changes the subject like a child who\'s had enough of grown-up talk.'),
-    (13, None, '\'I am always ready to play with you.\' "Gotov" is "ready" and "vsegda" is "always". That\'s the soft side of the chef, said plainly. This is the line that makes you like him.'),
+    (13, None, '\'I am always ready to play with you.\' Ready is "gotov", and Russian needs no "am" before it: "ya vsegda gotov", I always ready. "S toboy" is the familiar "with you" from the start of the episode. That\'s the soft side of the chef.'),
 ]

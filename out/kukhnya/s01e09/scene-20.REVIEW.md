@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But confectionery art requires great patience.' "Trebuet", "requires", is "trebuyut" from the last scene, now for one thing. "Konditerskoe" is from "konditer", pastry chef. And "terpenie" becomes "terpeniya" after "trebuet".
 - 'Now I respect your work very much.' "Trud" is work as toil, and "trudny", "hard", comes from it. "Uvazhayu" is "I respect". It is the heart of the scene.
 - 'Thank you, Max, try this fresh dessert.' "Poprobuy" is "try", and it's also "taste". "Svezhy", "fresh", is the word the croissants had in the first scene. Louis offers the dessert as a reward.
-- 'How many discoveries still lie ahead for us.' "Nam" is "to us", and "predstoit" is "lies ahead", so the sentence is spare. "Otkrytiy" is "otkrytie" after "kak mnogo", "how many".
+- 'How many discoveries still lie ahead for us.' After "kak mnogo", how many, the noun takes the plural "of" form, so "otkrytie" becomes "otkrytiy". In "nam predstoit", to us lies ahead, the discoveries are the subject and "us" sits in the "to" form, like "mne nekogda" earlier.
 - 'And this is truly wonderful for us!' "Po-nastoyashchemu" is "truly", literally "in a real way". "Zdorovo", "great", is casual, and it comes from "zdorovy", "healthy". The episode ends on an easy note.

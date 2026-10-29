@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I prepared a magnificent cake for the important banquet.' "Prigotovil" is "prepared", with the man's -l. "Velikolepny" is "magnificent". "Dlya vazhnogo banketa" is "for the important banquet", and both words change after "dlya".
 - 'The guests paid huge money for it!' "Dengi", "money", is always plural in Russian, so it's "ogromnye dengi", "huge monies". "Zaplatili" is "paid", with the plural -li.
 - 'They gave a whole hundred thousand rubles!' "Tselykh", "a whole", is the same as in "tselykh polchasa", "a whole half-hour". "Sto tysyach rubley" is "a hundred thousand rubles": after a number, "rubl" becomes "rubley".
-- 'They know that you are a famous pastry chef.' "Znamenity" is "famous", and "konditer" is a pastry chef. "Znayut" is "they know". Barinov hands out a compliment, which is rare.
+- 'They know that you are a famous pastry chef.' A rare compliment from Barinov. "Konditer", pastry chef, came into Russian from German, and "znamenity" means famous. "Chto" joins the two halves, like English "that".
 - 'French desserts always cost very much.' "Stoyat dorogo" is "stand dearly": "stoit", "stands", is how Russian says "costs". "Dorogo" comes from "dorogoy", both "dear" and "expensive". Louis is proud of the price.
-- 'The main thing is that all guests are satisfied.' "Glavnoe, chtoby" is "the main thing, so that". "Dovolny" is "satisfied" or "pleased". Barinov names the point of the whole day.
+- 'The main thing is that all guests are satisfied.' A very common way to start: "glavnoe", the main thing, then "chtoby" with a past form, "byli". "Dovolny", pleased, is the short adjective used after "be". Barinov names the point of the whole day.
 - 'Chef, our banquet will go at the highest level!' "Na vysshem urovne", "at the highest level", is the idiom for "top-notch". "Proydyot" is really "will pass", the same word as "kak proshlo", "how did it go".

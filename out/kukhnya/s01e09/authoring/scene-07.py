@@ -30,7 +30,7 @@ STORY = [
     ('barinov', 'Ладно, я отведу её к тёте Вике!', 'All right, I will take her to Aunt Vika!', [(185, 'Ладно')], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, I finally got Louis\'s knife back.\' "Nakonets" is "finally". "Nozh Lui" is "knife of Louis": the owner comes after the thing, and a foreign name like Louis never changes its ending. "Zabral" is "took" with "za" in front, so "took away, got back".'),
+    (0, None, '\'Chef, I finally got Louis\'s knife back.\' The owner comes after the thing: "nozh Lui", knife of Louis, and a foreign name like Louis never changes its ending. "Zabral" is "took" with "za-" in front, so took away, got back.'),
     (1, None, '\'Where did you find it at all, Oguzok?\' "Voobshche" means "in general" or "at all", the way English says "where on earth". Oguzok is Barinov\'s nickname for Max; it\'s the butcher\'s word for the rump, a cheap cut of beef.'),
     (2, None, '\'Your daughter was playing with it in the kitchen!\' "S nim" is "with it". "Im" becomes "nim" after "s": he, she, it and they all add an "n" after small words like this. The -la on "igrala" is the ending for a girl or woman.'),
     (3, None, '\'Could she hurt herself or you?\' "Mogla" is "could", with the -a ending of a girl. "Sebya" means "herself", and it is the same for everyone, he, she, or I. Barinov goes straight to the worry about Alisa.'),

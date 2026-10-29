@@ -42,6 +42,6 @@ WALK = [
     (8, None, '\'Did Alisa touch your cake?\' "Trogala" is "touched", with a girl\'s -la. There is no question word, only the voice rising at the end. Barinov\'s anger is already building.'),
     (9, None, '\'Chef, calm down, no need to shout.\' "Spokoyno", "calmly", works alone as "calm down". "Ne nuzhno krichat" is "not needed to shout", the "nuzhno" pattern again. Louis tries to soothe.'),
     (10, None, '\'I will quickly fix everything right now.\' "Ispravlyu", "I will fix", grows from "pravy", "right", so it means "make right". "Vsyo" is "everything". Louis knows how to rescue a cake.'),
-    (11, None, '\'Make it pretty so the guests notice nothing.\' "Sdelay krasivo" is "make beautifully". "Chtoby" is "so that". And "nichego ne zametili" is "nothing not noticed", another double negative.'),
+    (11, None, '\'Make it pretty so the guests notice nothing.\' After "chtoby", so that, the verb goes into the past: "zametili", though nothing has happened yet. "Nichego ne", nothing not, is the double negative Russian insists on.'),
     (12, None, '\'I promise, the cake will be perfect.\' "Obeshchayu" is "I promise". "Idealnym" is the word "ideal" with a Russian ending, the one that comes after "budet", "will be". Louis keeps his word.'),
 ]
