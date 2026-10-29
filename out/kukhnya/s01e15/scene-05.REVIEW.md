@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where are you going?' 'Ty kuda' is 'you where to', with no verb at all. In Russian the movement is understood.
 - 'I have to go.' Just two words, 'mne pora', 'to me time'. It's the standard way to say you must leave.
 - 'Stay with me for one more minute.' 'Ostansya' ends in 'sya', 'stay yourself'. 'Na odnu minutu' uses 'na' for a stretch of time, and 'odna minuta' changes to 'odnu minutu' after it.
-- 'I cannot, I am rushing very much.' 'Speshu' is 'I hurry'. 'Ochen silno' is 'very strongly', which is how Russian puts 'very much'.
+- 'I cannot, I am rushing very much.' Russian turns up the volume with 'ochen silno', literally 'very strongly', where English would just say 'in a real hurry'. 'Speshu' is the 'I' form of 'speshit', to hurry.
 - 'Do you again have many important things?' 'Del' is 'of affairs', so 'many important affairs' ends in plural 'of' forms. 'U tebya' is 'at you', which she uses for 'do you have'.
 - 'I need to stop by home, take a shower, change.' Russians 'accept' a shower, 'prinyat dush', where English says 'take'. 'Pereodetsya' is 'dress again', that is, change clothes.
 - 'Listen, are you not tired of this?' Literally, 'to you has it not got boring'. It's how Russians ask 'aren't you fed up with this?'.

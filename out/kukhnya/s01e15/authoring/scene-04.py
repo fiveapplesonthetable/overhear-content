@@ -38,7 +38,7 @@ WALK = [
     (5, None, "'Your mom makes simply amazing breakfasts.' 'Potryasayushchie' comes from a word for 'shake', so amazing things shake you. 'Zavtraki' is 'breakfasts', plural."),
     (6, None, "'And second, you really will be late.' 'Vo-vtorykh', secondly, pairs with 'vo-pervykh' from earlier. 'Opozdaete' is the polite 'you will be late', and 'deystvitelno' is 'really' in the sense of 'actually'."),
     (7, None, "'Where do I have to rush so much now?' 'Where to' is a different word from 'where'. 'To me to hurry' is Russian for 'I have to rush', and Barinov asks it for effect."),
-    (8, None, "'Both of us are already expected in our kitchen.' 'Nas oboikh' is 'both of us', and 'zhdut' is 'they await', with nobody named. 'Na nashey kukhne' is 'on our kitchen'."),
+    (8, None, "'Both of us are already expected in our kitchen.' Word for word, 'us both already await on our kitchen'. 'Zhdut' is the 'they' form with no 'they' said, the Russian way to put 'people are waiting', and a kitchen takes 'na', not 'v'."),
     (9, None, "'What an annoying person you are, Lyova!' 'Vrednyy' literally means 'harmful', and said of a person it means a pest who won't leave you alone. 'Kakoy zhe ty' is 'what a ... you are'."),
     (10, None, "'I am simply caring about our shared work.' 'Zabochus o' is 'I take care about'. After 'o', 'rabota' becomes 'rabote', and 'nasha obshchaya' turns into 'nashey obshchey' to match."),
     (11, None, "'Alright, I am getting up, bring the hot pancakes soon!' 'Vstayu' is 'I stand up', one word for 'I am getting up'. 'Nesi' is 'carry!', the order Russians use for bringing something to a table."),

@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, sure.' 'Da pozhaluysta' sounds polite, but here it means 'fine, be my guest'. The tone makes all the difference.
 - 'As if I need it.' 'Ochen mne nado' is 'very to me necessary', which in the right voice means the opposite: 'as if I cared'. Russian has sarcasm built in.
 - 'I am waiting until you leave.' 'Poka' means both 'while' and 'until'. Here it takes the plain future, 'you will leave', which in English would be 'until you leave'.
-- 'I am already leaving.' 'Ukhozhu' is 'I am leaving', from 'ukhodit'. 'Uzhe', already, comes before it.
+- 'I am already leaving.' Present tense for something happening right now: 'ukhozhu', I'm on my way out. The 'u-' at the front of the verb marks going away.
 - 'Leave the keys on the table.' 'Klyuchi' is the plural of 'klyuch', key. 'Ostav' is the order 'leave!', and 'na stole' is 'on the table', with the 'e' ending for where something is.

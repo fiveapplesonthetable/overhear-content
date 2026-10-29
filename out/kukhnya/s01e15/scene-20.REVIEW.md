@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Does this worry you too?' Russian makes the worried person the object, so 'you' takes the 'tebya' form. The word for 'too' is 'tozhe'.
 - 'What exactly?' 'Imenno' is 'exactly', 'namely', and 'chto imenno' asks for the specific thing.
 - 'For example, will Max come or not?' The word 'naprimer' means 'for example'. The phrase 'or not' ends a yes-or-no question.
-- 'I think he will come.' 'Ya dumayu' is 'I think'. 'Pridyot' is 'will arrive' in a single word, with no separate 'will'.
+- 'I think he will come.' No 'will' needed: 'pridyot' is a perfective verb, so its present-looking form already points to the future. 'Ya dumayu' sits in front, just like 'I think' in English.
 - 'He loves our kitchen.' 'Kukhnya' becomes 'kukhnyu' because it is what he loves, and 'nasha' changes to 'nashu' to match.
 - 'And he loves to work.' 'Lyubit rabotat' is 'loves to work', two verbs together. It is the most natural way to say you like doing something.
 - 'And what about the chef?' 'A kak zhe' is 'and how then', a handy way to ask 'what about...?'.
