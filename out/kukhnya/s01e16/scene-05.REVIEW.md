@@ -26,8 +26,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, this is simply amazing pâté!' 'Potryasayushchiy', 'amazing', comes from 'potryasti', 'to shake', so the pâté literally shakes him. 'Pashtet' is the French 'pâté'.
-- 'This is my signature recipe.' 'Firmenny', 'signature', comes from 'firma', 'company', so a 'firmenny retsept' is the house's own recipe. A 'firmennoe blyudo' is a signature dish.
+- 'Chef, this is simply amazing pâté!' A long word, but a real compliment: 'potryasayushchiy' is built on 'potryasat'', to shake or to stun. 'Prosto' here means 'simply', not 'easy'.
+- 'This is my signature recipe.' Restaurants love the word 'firmenny': a 'firmennoe blyudo' is the house speciality, the dish a place is known for. It is related to 'firma', a company.
 - 'And what goes into it?' 'Vkhodit', 'goes in', is built from 'v', 'in', and 'khodit', 'to walk'. Russians use it for ingredients, and also for what a price includes.
 - 'This is a secret that will die with me.' 'Kotory', 'which' or 'that', links the two halves. 'Vmeste so mnoy' is 'together with me', and 's' grows an o before 'mnoy'.
 - 'At least tell me one secret ingredient.' 'Khotya by', 'at least', is said with one stress, 'khotyaby'. 'Skazhite' is the polite 'vy' command 'tell'.
@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you seriously want to bet with me?' 'Sporit' means both 'to argue' and 'to bet', and the situation tells you which. 'So mnoy', 'with me', is the same as in the secret line.
 - 'Yes, tonight I will recreate your pâté.' 'Vecherom', 'in the evening', is 'vecher', 'evening', with '-om' added, the way 'utrom' is 'in the morning'.
 - 'Here, take a piece.' 'Kusochek' is 'kusok', 'a piece', made small and friendly. A 'kusochek torta' is a little slice of cake.
-- 'If I guess, will you give me a day off?' 'Vykhodnoy', 'day off', comes from 'vykhodit', 'to go out', so it is literally a going-out day. Weekends are 'vykhodnye'.
+- 'If I guess, will you give me a day off?' Unlike English, Russian keeps the future after 'esli', 'if': 'ugadayu' is 'I will guess'. 'Dadite' is 'you will give', polite 'vy' for the chef, and 'vykhodnoy' is a day off.
 - 'Fine, if you recreate it, you will get two days off.' After 'dva', 'two', 'vykhodnoy' becomes 'vykhodnykh'. 'Poluchish', 'you'll get', is the 'ty' form, since Barinov speaks down to Max.
-- 'It's a deal, tonight I will bring my dish!' 'Dogovorilis' is literally 'we have talked it through to agreement', and it is the standard way to shake on a deal.
+- 'It's a deal, tonight I will bring my dish!' One word seals the bet: 'dogovorilis'', we've agreed, in the past tense because the deal is already done. 'Vecherom' means 'in the evening', and 'prinesu' is 'I'll bring'.

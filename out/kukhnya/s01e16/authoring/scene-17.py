@@ -39,7 +39,7 @@ WALK = [
     (3, None, "'This one, and this one too.' 'Etu', 'this one', ends in '-u' because the thing pointed at is feminine and it's being ordered. 'Eshchyo' means 'more' or 'also'."),
     (4, None, "'This cognac is very expensive.' 'Dorogoy' means both 'expensive' and 'dear', as in 'dorogoy drug', 'dear friend'. It ends in '-oy' because 'konyak' is masculine."),
     (5, None, "'Well, a lady's wish is the law.' 'Zhelanie damy' is literally 'wish of the lady': 'dama' becomes 'damy' to show whose wish. Russian needs no 'is' here."),
-    (6, None, "'And I'll order the apple strudel with cream.' 'Yablochny', 'apple', comes from 'yabloko', 'apple'. 'So slivkami', 'with cream', has 's', 'with', turned into 'so' before two consonants."),
+    (6, None, "'And I'll order the apple strudel with cream.' Ordering food? 'Zakazhu' is 'I'll order', the verb you'd use in any restaurant. The 's', with, becomes 'so' in front of 'slivkami', cream, to make it easier to say."),
     (7, None, "'Do you know why they call me the migrant-worker hunter?' 'Gastarbaytery' is the German word for guest workers, the usual Russian word for labour migrants. 'Okhotnik', 'hunter', comes from 'okhota', 'the hunt'."),
     (8, None, "'Because I always find them, wherever they are.' 'Vsegda', 'always', and 'vezde', 'everywhere', make a neat pair. 'Nakhozhu', 'I find', is how 'nakhodit' sounds for 'I': the 'd' turns into 'zh'."),
     (9, None, "'The less clever ones hide them in the bathroom.' 'Te, kto' means 'those who'. 'Poglupee' is built from 'glupy', 'stupid', with 'po-' and '-ee', so it means 'a bit stupider'."),

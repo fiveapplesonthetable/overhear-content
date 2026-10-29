@@ -39,7 +39,7 @@ WALK = [
     (6, None, "'And everyone hates rats.' 'A' is the Russian 'and' for a contrast, half way to 'but'. The sentence mirrors the one before: 'belok vse lyubyat', 'krys vse nenavidyat'."),
     (7, None, "'Excuse me, they are calling me.' Russians say 'mne zvonyat', literally 'to me they ring', for a ringing phone. Nobody in particular is meant by 'they'."),
     (8, None, "'Yes, I'm listening.' 'Ya slushayu' is the usual way to answer a phone call. 'Slushat' means 'to listen' and 'slyshat' means 'to hear', and they are easy to mix up."),
-    (9, None, "'Where are they? In the fridge?' 'Kholodilnik', 'fridge', comes from 'kholod', 'cold'. After 'v', 'in', it becomes 'v kholodilnike', the ending for where something is."),
-    (10, None, "'Great, we're coming right now.' 'Zamechatelno', 'wonderful', comes from 'zamechat', 'to notice', so it is literally 'worth noticing'. 'Seychas idyom' means 'we're on our way'."),
+    (9, None, "'Where are they? In the fridge?' The location ending again: 'kholodilnik' plus 'e' after 'v' gives 'v kholodilnike', in the fridge. The word itself hides 'kholod', cold."),
+    (10, None, "'Great, we're coming right now.' Russian uses the present 'idyom', we're going, to mean 'we're on our way'. 'Zamechatelno', wonderful, is a step above plain 'khorosho'."),
     (11, None, "'Viktor Petrovich, come with me.' 'Poydyomte' means 'let's go', said to someone you call 'vy'. Before 'mnoy', 'me', the 's', 'with', becomes 'so'."),
 ]

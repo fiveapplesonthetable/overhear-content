@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Good afternoon, Viktor Petrovich.' In Russian, the respectful way to address someone is first name plus father's name, and this one is made from 'Pyotr', so it means 'son of Pyotr'.
 - 'I am a major of the migration service.' In Russian, the 'of' shows in the endings: 'migratsionnaya sluzhba' becomes 'migratsionnoy sluzhby'.
 - 'Can we go to your office?' 'Proyti' means 'to go through' or 'to step into', and it's the polite word for moving to another room: 'proydite, pozhaluysta', 'come in, please'.
-- 'Unfortunately, I cannot.' 'K sozhaleniyu' is literally 'to regret', and it's the polite way to soften a no. 'Ne mogu', 'I can't', is a whole answer by itself.
+- 'Unfortunately, I cannot.' A polite no in two parts: 'k sozhaleniyu', unfortunately, then 'ya ne mogu'. Word for word the first part is 'to regret', and it softens almost any refusal.
 - 'I need to cook for the guests.' Russian says 'mne nuzhno', literally 'to me it is needed'. 'Dlya', 'for', changes 'gosti', 'guests', to 'gostey'.
 - 'Alright, I will wait for you here.' 'Podozhdu' means 'I'll wait', from 'zhdat', 'to wait'. The 'po-' makes it a wait for a while, and the major is in no hurry.

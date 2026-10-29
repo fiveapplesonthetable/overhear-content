@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is your work permit?' 'Razreshenie', 'permit', comes from 'razreshit', 'to allow'. 'Na rabotu', literally 'onto work', is the 'for work' part.
+- 'Where is your work permit?' Polite and official: 'vashe' is the 'vy' form of 'your', neuter to match 'razreshenie', a permit. 'Na rabotu' makes it a permit for work.
 - 'It's at home.' 'U menya doma' is literally 'at me at home', the usual way to say 'at my place'. 'Ono', 'it', is neuter because 'razreshenie' is neuter.
 - 'Where have you come from?' 'Otkuda' means 'from where', a single word. 'Priekhali' means 'came' by transport, not on foot, and it's what Russians ask a newcomer.
 - 'From Moldova.' After 'iz', 'from', the country takes a new ending: 'Moldova' becomes 'Moldovy'. Many Russians still say the older name 'Moldaviya'.
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I just haven't had time to get it done.' 'Ne uspel' means 'didn't manage in time', from 'uspet', 'to make it in time'. English has no single word for it.
 - 'This is a big problem for the restaurant.' 'Problema' is feminine, so 'bolshaya', 'big', ends in '-aya'. 'Dlya restorana', 'for the restaurant', adds '-a' after 'dlya', 'for'.
 - 'I'm the best cook in this kitchen!' 'Luchshiy' means 'the best', a word that looks nothing like 'khoroshiy', 'good'. Russians work 'na kukhne', literally 'on the kitchen'.
-- 'The law is the same for everyone.' 'Zakon odin' is literally 'the law is one', and it sounds like a saying. 'Dlya vsekh' means 'for all'.
+- 'The law is the same for everyone.' This one sounds like a proverb: literally 'the law is one for all'. After 'dlya', for, the word 'vse' becomes 'vsekh'.
 - 'What are you going to do now?' 'Budete delat' is 'will be doing': the future of 'byt', 'to be', plus the plain verb. 'Teper' means 'now', in the sense of 'from now on'.
 - 'I need to talk to your boss.' 'Mne nuzhno', 'to me it is needed', is the usual 'I need to'. 'Pogovorit' means 'to have a talk', and 'nachalnik' means 'boss'.
 - 'Get up. Come with me.' 'Vstavayte', 'get up', speaks to him as 'vy'. 'Proydyomte' is literally 'let's go through', with the polite '-te' on the end, and it is what police and officials say.
