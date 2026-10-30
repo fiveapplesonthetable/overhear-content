@@ -1,0 +1,177 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "pair": {
+      "enum": [
+        "ru-en",
+        "fr-en"
+      ]
+    },
+    "sourceCommit": {
+      "type": "string",
+      "minLength": 7
+    },
+    "entries": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "etymology": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          },
+          "morphemes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "part": {
+                  "type": "string"
+                },
+                "kind": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "part",
+                "kind",
+                "meaning"
+              ]
+            }
+          },
+          "history": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "stage": {
+                  "type": "string"
+                },
+                "form": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "certainty": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "enum": [
+                    "established",
+                    "likely",
+                    "uncertain",
+                    null
+                  ]
+                }
+              },
+              "required": [
+                "stage",
+                "form",
+                "meaning"
+              ]
+            }
+          },
+          "cognates": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "lang": {
+                  "type": "string"
+                },
+                "word": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "lang",
+                "word",
+                "meaning"
+              ]
+            }
+          },
+          "rootFamily": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "word": {
+                  "type": "string"
+                },
+                "gloss": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "word",
+                "gloss"
+              ]
+            }
+          },
+          "certainty": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "established",
+              "likely",
+              "uncertain",
+              null
+            ]
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "title",
+                "url"
+              ],
+              "properties": {
+                "title": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "url": {
+                  "type": "string",
+                  "pattern": "^https://"
+                }
+              }
+            }
+          }
+        },
+        "required": [
+          "etymology"
+        ]
+      }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "pair",
+    "entries"
+  ],
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Editorial word origins, separate from render inputs"
+}

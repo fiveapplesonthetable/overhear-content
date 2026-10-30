@@ -1,0 +1,245 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "pair",
+    "entries"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "pair": {
+      "enum": [
+        "ru-en",
+        "fr-en"
+      ]
+    },
+    "entries": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "lemma",
+          "stress",
+          "pos",
+          "gloss",
+          "meanings",
+          "forms",
+          "moreForms",
+          "examples",
+          "related"
+        ],
+        "properties": {
+          "lemma": {
+            "type": "string",
+            "minLength": 1
+          },
+          "stress": {
+            "type": "string",
+            "minLength": 1
+          },
+          "pos": {
+            "enum": [
+              "noun",
+              "verb",
+              "adj",
+              "adv",
+              "pron",
+              "prep",
+              "conj",
+              "part",
+              "num",
+              "interj",
+              "det",
+              "phrase",
+              "name"
+            ]
+          },
+          "gloss": {
+            "type": "string",
+            "minLength": 1
+          },
+          "aspect": {
+            "enum": [
+              "impf",
+              "pf"
+            ]
+          },
+          "pair": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "gender": {
+            "enum": [
+              "m",
+              "f",
+              "n"
+            ]
+          },
+          "plural": {
+            "type": "string",
+            "minLength": 1
+          },
+          "animacy": {
+            "enum": [
+              "anim",
+              "inan"
+            ]
+          },
+          "governs": {
+            "type": "string",
+            "minLength": 1
+          },
+          "register": {
+            "type": "string",
+            "minLength": 1
+          },
+          "meanings": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "en",
+                "note"
+              ],
+              "properties": {
+                "en": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "note": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "forms": {
+            "anyOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/$defs/table"
+              }
+            ]
+          },
+          "moreForms": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/table"
+            }
+          },
+          "examples": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "text",
+                "trans"
+              ],
+              "properties": {
+                "text": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "trans": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          },
+          "related": {
+            "type": "array",
+            "maxItems": 5,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "word",
+                "gloss"
+              ],
+              "properties": {
+                "word": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "gloss": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "number": {
+            "enum": [
+              "pl"
+            ],
+            "description": "Only for plural-only nouns (деньги, выборы, les vacances): \"pl\". Never put this in gender."
+          },
+          "surface": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "table": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "columns",
+        "rows"
+      ],
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "columns": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "string"
+          }
+        },
+        "rows": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "cells"
+            ],
+            "properties": {
+              "cells": {
+                "type": "array",
+                "minItems": 2,
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

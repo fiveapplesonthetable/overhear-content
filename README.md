@@ -121,3 +121,11 @@ out/
 - The last segment of a script is a short new farewell (`Пока!`, `À bientôt!`), never a repeat of a story line.
 - A character keeps one role key (their own name) for the whole show; every key is in `out/<show>/cast.json`; scripts have no `voices`. Read FEEDBACK.md "P-1" first.
 - Run the validator before every push: `python3 -I tools/validate.py out --require-notes` must print `OK`.
+
+## Learning notes and word histories
+
+`learn/<pair>/<id>.json` holds focused learning notes with checked source-scene examples. French examples are italicised in English prose so the app can recognise the target-language spans. Keep explanations specific and avoid claims that a word has one fixed translation in every construction.
+
+`dictionary/<pair>.json` can provide written dictionary entries before scene audio exists. `word-origins/<pair>.json` holds etymology, historical forms, word parts, cognates, word families and source links. These are separate from the scene render inputs: editing them does not invalidate audio. Their versioned schemas are in `spec/schema/`. Publish a history only after checking it against a specific authoritative entry and adding its source link. A reconstruction is marked with an asterisk; competing or uncertain origins must say so. Historical parts are not automatically modern morphemes. The initial checked batch contains 11 Russian and 12 French histories; recovered but unreviewed material is not served.
+
+For changes confined to these metadata folders, run `python3 -I tools/validate.py . --metadata-only` and the unit tests. Full corpus validation remains required for scene changes; known problems in the unrendered corpus are not hidden by the metadata check.
