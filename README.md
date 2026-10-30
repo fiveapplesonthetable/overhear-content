@@ -131,3 +131,7 @@ out/
 For changes confined to these metadata folders, run `python3 -I tools/validate.py . --metadata-only` and the unit tests. Full corpus validation remains required for scene changes; known problems in the unrendered corpus are not hidden by the metadata check.
 
 For each new or expanded season, word-history review is part of publication readiness. Build and deep-verify its serving candidate, then run `python3 tools/origin_coverage.py --serving-out /path/to/verified/candidate --season <show>/sNN --require-complete`. Resolve all reported history gaps and unknown word forms before publishing that season. Apply the same review to published learning-note vocabulary. `word-origins/COVERAGE.md` records the existing backlog across every published scope; it must not be described as complete until the checks pass.
+
+### Initial French listening pilot
+
+The first two reviewed Dix pour cent S1E1 scenes ship individually after speech, timing and serving verification, following Zim's request to publish as work proceeds. This bounded pilot does not claim an exhaustive episode, season or proper-name history collection. Its ordinary-word dictionary histories are reviewed; unresolved names and surface mappings remain visible in the strict audit and in `out/dix-pour-cent/s01e01/PILOT-REVIEW.md`. The strict command continues to fail while these gaps exist; do not hide them or label the season exhaustive. Narration, annotation, source fidelity and audio verification remain publication requirements for every pilot scene.
