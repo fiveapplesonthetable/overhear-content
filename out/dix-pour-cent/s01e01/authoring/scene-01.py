@@ -94,8 +94,8 @@ WALK = [(0,
   "tells us about the lesson, rather than the speaker's gender."),
  (2,
   'On est au Westin.',
-  "'We're at the Westin.' The first word can mean 'we' in conversation, but it takes the same verb form as "
-  "'he' or 'she'. Listen to the short sound after it."),
+  "'We're at the hotel.' Here the French speaker includes the group in one short word. Although several "
+  'people are waiting, the action word has a singular form. Listen to the short sound after it.'),
  (2,
   'Tout le monde est là.',
   "'Everyone is here.' The three-word expression for 'everyone' literally says 'all the world'. French "

@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Where are you?' The question word comes last in this everyday spoken question. The polite word for 'you' also fits the relationship between an agent and his client.
 - 'I'm at my horse-riding lesson.' The possessive 'my' goes with a masculine noun meaning 'lesson'. It tells us about the lesson, rather than the speaker's gender.
-- 'We're at the Westin.' The first word can mean 'we' in conversation, but it takes the same verb form as 'he' or 'she'. Listen to the short sound after it.
+- 'We're at the hotel.' Here the French speaker includes the group in one short word. Although several people are waiting, the action word has a singular form. Listen to the short sound after it.
 - 'Everyone is here.' The three-word expression for 'everyone' literally says 'all the world'. French treats that expression as singular.
 - 'Oh no! I'm late.' French uses a little expression meaning 'in lateness' where English says 'late'. Keep those last two words together when listening.
 - 'You can ride, can't you?' The word for 'know' followed by an action can mean knowing how to do it. The little 'no' at the end asks for reassurance.
