@@ -7,6 +7,7 @@
   options: --require-notes  every target-language line must be annotated (final check)
            --strict         warnings count as errors
            --strict-teaching  a scene with < 60% (or < 4) teaching explanations is an error, not a warning
+           --metadata-only  validate Learn notes, dictionary and word histories only
            --all            list every error (default: the first 150 and a tally by kind)
 Exit 0 = clean, 1 = errors. Warnings (e.g. subtitle gaps) are printed but pass unless --strict.
 Checks: spec/*.md describes each rule; FEEDBACK.md "P-1" describes the cast, narrator-name and explanation rules.
@@ -15,7 +16,7 @@ import hashlib, json, re, sys
 from pathlib import Path
 
 SCHEMA_DIR = Path(__file__).resolve().parents[1] / "spec" / "schema"
-SCHEMA_FILES = {"scenes": "scenes.schema.json", "script": "script.schema.json", "notes": "notes.schema.json", "cast": "cast.schema.json", "learn": "learn-article.schema.json"}
+SCHEMA_FILES = {"scenes": "scenes.schema.json", "script": "script.schema.json", "notes": "notes.schema.json", "cast": "cast.schema.json", "learn": "learn-article.schema.json", "origins": "word-origins.schema.json", "dictionary": "dictionary.schema.json"}
 LENIENT_VERSION = [False]   # --script mode: examples/ predate the schema (and cannot be edited), so schema errors only warn
 LEX_SEEN = {}               # lang -> field -> lemma -> {value: scene file}; judged by check_lexicon (one lemma, one entry shape)
 LEX_FIELDS = ("pos", "gender", "aspect", "pair", "stress")
@@ -140,6 +141,27 @@ def check_learn(root, rep):
                 if ex["seg"] >= len(segs): rep.err(str(f), f"example {ex['sceneId']}#{ex['seg']}: scene has {len(segs)} segments")
                 elif segs[ex["seg"]]["v"] == "narrator": rep.err(str(f), f"example {ex['sceneId']}#{ex['seg']} is a narrator line")
                 elif SHOWS.get(m[1]) != lang.get(pdir.name): rep.err(str(f), f"example {ex['sceneId']} is not a {pdir.name} show")
+
+
+def check_metadata(root, rep):
+    """Learning notes and independent dictionary/history metadata, without validating unrelated scenes."""
+    root = Path(root)
+    check_learn(root, rep)
+    for folder, kind in (("word-origins", "origins"), ("dictionary", "dictionary")):
+        for path in sorted((root / folder).glob("*.json")):
+            try:
+                doc = json.loads(path.read_text(encoding="utf-8"))
+            except ValueError as error:
+                rep.err(str(path), f"not JSON ({error})")
+                continue
+            if not check_schema(doc, kind, str(path), rep):
+                continue
+            if doc["pair"] != path.stem:
+                rep.err(str(path), "pair must equal the file name")
+            if kind == "dictionary":
+                for key, entry in doc["entries"].items():
+                    if key != entry["lemma"].lower():
+                        rep.err(str(path), f"dictionary key {key!r} does not match its lemma")
 
 
 # ---------------------------------------------------------------- subtitles
@@ -756,6 +778,12 @@ def main(argv):
     LENIENT_VERSION[0] = "--script" in argv
     args = [a for a in argv if not a.startswith("--")]
     rep = Report()
+    if "--metadata-only" in argv:
+        root = Path(args[0] if args else ".").resolve()
+        check_metadata(root.parent if root.name == "out" else root, rep)
+        for error in rep.errors: print("ERROR", error)
+        print(f"{'FAIL' if rep.errors else 'OK'}: {len(rep.errors)} errors")
+        return 1 if rep.errors else 0
     if "--script" in argv:
         p = Path(args[0]).resolve()
         lang = "fr" if re.search(r"dix|fr-", str(p)) else "ru"
@@ -772,7 +800,7 @@ def main(argv):
     check_phrases(rep)
     check_lexicon(rep)
     check_art(rep)
-    if "--script" not in argv and base.name == "out" and (base.parent / "learn").is_dir(): check_learn(base.parent, rep)
+    if "--script" not in argv and base.name == "out": check_metadata(base.parent, rep)
     for x in rep.warnings[:LIST_CAP]: print("WARN ", x)
     if len(rep.warnings) > LIST_CAP: print(f"... {len(rep.warnings) - LIST_CAP} more warnings")
     for x in rep.errors[:None if show_all else LIST_CAP]: print("ERROR", x)
