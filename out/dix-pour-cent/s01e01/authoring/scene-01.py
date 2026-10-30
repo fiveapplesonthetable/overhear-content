@@ -7,52 +7,160 @@ SCENE = 1
 TITLE = 'Cécile est en retard  (Cécile Is Late)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel', 'journaliste': 'Le journaliste'}
+LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel', 'journaliste_photo': 'La journaliste'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
-INTRO = "He is waiting for her at a photo shoot in a smart hotel, the journalist and the photographer are ready, and Cécile is nowhere to be seen. He phones her, and she answers from the back of a horse in the countryside. You'll hear the whole story in French first; don't worry if a lot of it slips past you."
-OPENER = "Let's go back through it slowly. Gabriel is at the hotel, phone to his ear, and the first thing he wants to know is where on earth his star is."
-TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the opening of the episode, and you've already met the polite 'you' between an agent and his star. When you watch it, listen for the phone calls and the apologies; they'll sound familiar now. See you next time!"
+INTRO = ('This is Call My Agent, a story about a Paris talent agency. Gabriel, an agent, is waiting at a hotel photo '
+ 'shoot for his client, the actress Cecile. She answers his call from a riding lesson, and a promising film '
+ 'offer will soon bring some bad news. Listen to the French story first; you do not need to catch every '
+ 'word.')
+OPENER = "Let's go back through the scene. First, the agent needs to find his missing client."
+TRANSITION = 'Listen once more for the questions, the apologies and the promise to call back.'
+OUTRO = ('You have heard how to ask where someone is and say that you are late. Those short patterns are useful well '
+ 'beyond this photo shoot. See you next time.')
 CLOSING = ('cecile', 'Bonne soirée!')
-STORY = [
-    ('gabriel', 'Cécile? Vous êtes où?', 'Where are you?', [(12, 'Cécile ?'), (13, 'Vous êtes où ?')], ''),
-    ('cecile', "Gabriel! Je suis à mon cours d'équitation.", "I'm at my horse-riding lesson.", [(12, 'Gabriel !'), (17, "Je suis à mon cours d'équitation")], ''),
-    ('gabriel', 'On est au Westin. Tout le monde est là.', 'Everyone is here.', [(14, 'On est au Westin'), (15, 'Tout le monde est là')], ''),
-    ('cecile', 'Oh non! Je suis en retard.', "Oh no! I'm late.", [], ''),
-    ('gabriel', 'Vous savez monter, non?', "You can ride, can't you?", [(19, 'vous saviez monter')], ''),
-    ('cecile', "Oui, oui. J'ai juste besoin d'un petit cours.", 'Yes, yes. I just need a little lesson.', [(22, "J'ai juste besoin d'un petit cours")], ''),
-    ('gabriel', 'Je peux vous faire confiance?', 'Can I trust you?', [(26, 'Je peux vous faire confiance ?')], ''),
-    ('cecile', 'Oui. Je suis presque au point. Je vous rappelle.', "I'll call you back.", [(27, 'Je suis presque au point'), (29, 'je vous rappelle')], ''),
-    ('gabriel', 'Vous serez là quand?', 'When will you be here?', [(30, 'Vous serez là quand ?')], ''),
-    ('cecile', 'Dans une heure.', 'In an hour.', [(30, 'Dans une heure')], ''),
-    ('cecile', 'Je suis désolée. Vraiment désolée.', "I'm sorry. Really sorry.", [(41, 'Je suis désolée'), (44, 'Vraiment désolée')], ''),
-    ('journaliste', 'Vous tournez un film aux États-Unis?', 'Are you making a film in the United States?', [(51, 'un film aux États-Unis')], ''),
-    ('cecile', "Rien n'est signé. On attend l'appel.", "Nothing is signed. We're waiting for the call.", [(55, "Rien n'est signé"), (55, "On attend l'appel")], ''),
-    ('cecile', "C'est le prochain film de Tarantino.", "It's Tarantino's next film.", [(57, "C'est le prochain film de Tarantino")], ''),
-    ('journaliste', 'Fantastique!', 'Fantastic!', [(58, 'Fantastique !')], ''),
-    ('gabriel', "Tarantino ne prendra pas Cécile. Problème d'âge.", 'A problem with her age.', [(63, 'Tarantino ne prendra pas Cécile'), (64, "Problème d'âge")], ''),
-    ('cecile', "C'est comme un rêve pour moi.", "It's like a dream for me.", [(68, "C'est comme un rêve pour moi")], ''),
-]
-WALK = [
-    (0, 'Vous êtes où?', "'Where are you?' This question word comes at the very end, which is how people really talk. And notice the formal 'you': Gabriel and Cécile have worked together for years, but agent and star keep the polite form."),
-    (1, "Je suis à mon cours d'équitation.", "'I'm at my horse-riding lesson.' Cécile is cheerful, out in the countryside on a horse called Biscotte, and she has completely forgotten the photo shoot."),
-    (2, 'On est au Westin.', "'We're at the Westin.' That little word at the start means 'we' in everyday speech; it's shorter and more casual than the textbook word for 'we'."),
-    (2, 'Tout le monde est là.', "'Everyone is here.' Literally 'all the world is here'. Gabriel means the journalist, the photographer, the make-up people, all waiting."),
-    (3, None, "'Oh no! I'm late.' In the show she says something much ruder; here she keeps it clean."),
-    (4, None, "'You can ride, can't you?' This small word at the end turns a statement into a worried check. The American film people insisted that the actress must be good on a horse."),
-    (5, None, "'Yes, yes. I just need a little lesson.' The word for 'just' slips in after the action word. She sounds a lot less sure than she wants to."),
-    (6, None, "'Can I trust you?' Again the polite 'you', tucked in before the verb. Gabriel is getting anxious."),
-    (7, 'Je suis presque au point.', "'I've almost got it.' Literally 'I'm almost at the point'. Then she gets off the phone in a hurry, because the horse is heading into the woods."),
-    (7, 'Je vous rappelle.', "'I'll call you back.' You will hear this sentence all the time in an agency where everybody is on the phone. Gabriel has one last question."),
-    (8, None, "'When will you be here?' This one is in the future tense, and again the question word sits at the end."),
-    (9, None, "'In an hour.' An hour later she rushes into the hotel, still smelling of horse."),
-    (10, None, "'I'm sorry. Really sorry.' On paper the word for 'sorry' gets an extra e at the end because Cécile is a woman; a man would write it without, though both sound exactly the same. Then make-up, lights, and the interview."),
-    (11, None, "'Are you making a film in the United States?' The journalist has heard a rumour, and she is fishing for news."),
-    (12, None, "'Nothing is signed. We're waiting for the call.' The word for 'nothing' works with the little negative word before the verb, just like 'not' does. They are waiting for a call from Los Angeles."),
-    (13, None, "'It's Tarantino's next film.' Cécile can't resist telling her, off the record of course."),
-    (14, None, "'Fantastic!' The same word as in English, with a French accent. But at that very moment, Gabriel's phone buzzes with a message."),
-    (15, 'Tarantino ne prendra pas Cécile.', "'Tarantino won't take Cécile.' The two little negative words wrap around the verb, here a verb in the future."),
-    (15, "Problème d'âge.", "'A problem with her age.' Here, Cécile is in her early forties, and Hollywood has decided that is too old. Gabriel reads it under his breath, goes pale, and says nothing to her."),
-    (16, None, "'It's like a dream for me.' Cécile says it to the journalist, happy and unaware, while her agent stands right there holding the bad news."),
-]
+STORY = [('gabriel',
+  'Cécile? Vous êtes où?',
+  'Cecile? Where are you?',
+  [(12, 'Cécile ?'), (13, 'Vous êtes où ?')],
+  ''),
+ ('cecile',
+  "Gabriel! Je suis à mon cours d'équitation.",
+  "Gabriel! I'm at my horse-riding lesson.",
+  [(12, 'Gabriel !'), (17, "Je suis à mon cours d'équitation")],
+  ''),
+ ('gabriel',
+  'On est au Westin. Tout le monde est là.',
+  "We're at the Westin. Everyone is here.",
+  [(14, 'On est au Westin'), (15, 'Tout le monde est là')],
+  ''),
+ ('cecile', 'Oh non! Je suis en retard.', "Oh no! I'm late.", [], ''),
+ ('gabriel', 'Vous savez monter, non?', "You can ride, can't you?", [(19, 'vous saviez monter')], ''),
+ ('cecile',
+  "Oui, oui. J'ai juste besoin d'un petit cours.",
+  'Yes, yes. I just need a little lesson.',
+  [(22, "J'ai juste besoin d'un petit cours")],
+  ''),
+ ('gabriel',
+  'Je peux vous faire confiance?',
+  'Can I trust you?',
+  [(26, 'Je peux vous faire confiance ?')],
+  ''),
+ ('cecile',
+  'Oui. Je suis presque au point. Je vous rappelle.',
+  "Yes. I've almost got it. I'll call you back.",
+  [(27, 'Je suis presque au point'), (29, 'je vous rappelle')],
+  ''),
+ ('gabriel', 'Vous serez là quand?', 'When will you be here?', [(30, 'Vous serez là quand ?')], ''),
+ ('cecile', 'Dans une heure.', 'In an hour.', [(30, 'Dans une heure')], ''),
+ ('cecile',
+  'Je suis désolée. Vraiment désolée.',
+  "I'm sorry. Really sorry.",
+  [(41, 'Je suis désolée'), (44, 'Vraiment désolée')],
+  ''),
+ ('journaliste_photo',
+  'Vous tournez un film aux États-Unis?',
+  'Are you making a film in the United States?',
+  [(51, 'un film aux États-Unis')],
+  ''),
+ ('cecile',
+  "Rien n'est signé. On attend l'appel.",
+  "Nothing is signed. We're waiting for the call.",
+  [(55, "Rien n'est signé"), (55, "On attend l'appel")],
+  ''),
+ ('cecile',
+  "C'est le prochain film de Tarantino.",
+  "It's Tarantino's next film.",
+  [(57, "C'est le prochain film de Tarantino")],
+  ''),
+ ('journaliste_photo', 'Fantastique!', 'Fantastic!', [(58, 'Fantastique !')], ''),
+ ('gabriel',
+  "Tarantino ne prendra pas Cécile. Problème d'âge.",
+  "Tarantino won't cast Cecile. A problem with her age.",
+  [(63, 'Tarantino ne prendra pas Cécile'), (64, "Problème d'âge")],
+  ''),
+ ('cecile',
+  "C'est comme un rêve pour moi.",
+  "It's like a dream for me.",
+  [(68, "C'est comme un rêve pour moi")],
+  'Shortened from the interrupted source sentence.')]
+WALK = [(0,
+  'Vous êtes où?',
+  "'Where are you?' The question word comes last in this everyday spoken question. The polite word for 'you' "
+  'also fits the relationship between an agent and his client.'),
+ (1,
+  "Je suis à mon cours d'équitation.",
+  "'I'm at my horse-riding lesson.' The possessive 'my' goes with a masculine noun meaning 'lesson'. It "
+  "tells us about the lesson, rather than the speaker's gender."),
+ (2,
+  'On est au Westin.',
+  "'We're at the Westin.' The first word can mean 'we' in conversation, but it takes the same verb form as "
+  "'he' or 'she'. Listen to the short sound after it."),
+ (2,
+  'Tout le monde est là.',
+  "'Everyone is here.' The three-word expression for 'everyone' literally says 'all the world'. French "
+  'treats that expression as singular.'),
+ (3,
+  None,
+  "'Oh no! I'm late.' French uses a little expression meaning 'in lateness' where English says 'late'. Keep "
+  'those last two words together when listening.'),
+ (4,
+  None,
+  "'You can ride, can't you?' The word for 'know' followed by an action can mean knowing how to do it. The "
+  "little 'no' at the end asks for reassurance."),
+ (5,
+  None,
+  "'Yes, yes. I just need a little lesson.' French says 'have need of' where English simply says 'need'. The "
+  "short word meaning 'just' makes the request sound smaller."),
+ (6,
+  None,
+  "'Can I trust you?' The French expression literally says 'make trust'. The little word meaning 'you' comes "
+  "before that expression, although English puts 'you' last."),
+ (7,
+  'Je suis presque au point.',
+  "'I've almost got it.' The expression at the end means being ready or having something worked out. Saying "
+  "'almost' leaves a little room for doubt."),
+ (7,
+  'Je vous rappelle.',
+  "'I'll call you back.' French uses the present here for an immediate promise. The person being called is "
+  'named before the action.'),
+ (8,
+  None,
+  "'When will you be here?' This time the form of 'be' points to the future. Again the question word waits "
+  'until the end.'),
+ (9,
+  None,
+  "'In an hour.' The short word at the start locates a moment in the future. It does not say how long the "
+  'journey lasts.'),
+ (10,
+  None,
+  "'I'm sorry. Really sorry.' The written apology has an extra e for a woman. That extra letter makes no "
+  'difference to the pronunciation here.'),
+ (11,
+  None,
+  "'Are you making a film in the United States?' In this setting the French word for 'turn' means shooting a "
+  'film. It is a useful second meaning to recognise.'),
+ (12,
+  None,
+  "'Nothing is signed. We're waiting for the call.' The French equivalent of 'nothing' works with the small "
+  "negative before 'is'. There is no extra word for 'not' after it."),
+ (13,
+  None,
+  "'It's Tarantino's next film.' French puts 'next' before the thing described. The director's name then "
+  "follows a word meaning 'of'."),
+ (14,
+  None,
+  "'Fantastic!' This familiar word expresses the journalist's delight. Meanwhile, the agent receives some "
+  'bad news.'),
+ (15,
+  'Tarantino ne prendra pas Cécile.',
+  "'Tarantino won't cast Cecile.' The two short negative words surround the future action. In this film "
+  "conversation, 'take' means choosing someone for a part."),
+ (15,
+  "Problème d'âge.",
+  "'A problem with her age.' The preposition meaning 'of' loses its vowel before 'age'. Written together, "
+  'they still contain two pieces.'),
+ (16,
+  None,
+  "'It's like a dream for me.' The final word is the form of 'me' used after a word such as 'for'. She still "
+  'has no idea about the bad news.')]
