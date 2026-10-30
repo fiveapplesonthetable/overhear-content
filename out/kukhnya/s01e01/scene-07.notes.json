@@ -4,7 +4,7 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Never use that cheap cognac!",
+      "trans": "Never use this cheap cognac!",
       "words": [
         {
           "t": "Никогда",
@@ -12,7 +12,7 @@
           "pos": "adv",
           "stress": "никогда́",
           "gloss": "never",
-          "gram": "adverb"
+          "gram": "adverb; needs не with the verb"
         },
         {
           "t": "не",
@@ -20,7 +20,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "negation"
+          "gram": "particle; makes the verb negative"
         },
         {
           "t": "используй",
@@ -28,7 +28,7 @@
           "pos": "verb",
           "stress": "испо́льзуй",
           "gloss": "use",
-          "gram": "2nd person singular imperative"
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "этот",
@@ -44,7 +44,7 @@
           "pos": "adj",
           "stress": null,
           "gloss": "cheap",
-          "gram": "masculine accusative singular inanimate adjective"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "коньяк!",
@@ -65,16 +65,16 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "gloss": "yes",
+          "gram": "particle; answers yes"
         },
         {
           "t": "шеф,",
           "lemma": "шеф",
           "pos": "noun",
           "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
+          "gloss": "chef",
+          "gram": "nominative singular, masculine; used to address someone"
         },
         {
           "t": "я",
@@ -82,7 +82,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "всё",
@@ -90,14 +90,14 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
+          "gram": "accusative singular, neuter; used as a noun: everything"
         },
         {
           "t": "понял!",
           "lemma": "понять",
           "pos": "verb",
           "stress": "по́нял",
-          "gloss": "understood? (got it?)",
+          "gloss": "understood",
           "gram": "past, masculine singular, perfective"
         }
       ]
@@ -112,23 +112,23 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
+          "gram": "nominative, 2nd person singular, informal"
         },
         {
           "t": "испортил",
           "lemma": "испортить",
           "pos": "verb",
           "stress": "испо́ртил",
-          "gloss": "to spoil, ruin, damage",
-          "gram": "past.m.sg"
+          "gloss": "ruined",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "этим",
           "lemma": "этот",
           "pos": "det",
           "stress": "э́тим",
-          "gloss": "this",
-          "gram": "instrumental singular, masculine"
+          "gloss": "with this",
+          "gram": "instrumental singular, neuter; used as a noun: with this"
         },
         {
           "t": "соус",
@@ -136,7 +136,7 @@
           "pos": "noun",
           "stress": "со́ус",
           "gloss": "sauce",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "для",
@@ -152,13 +152,13 @@
           "pos": "noun",
           "stress": "мя́са",
           "gloss": "meat",
-          "gram": "noun n gen"
+          "gram": "genitive singular, neuter"
         }
       ]
     },
     {
       "seg": 4,
-      "trans": "I simply wanted to add a vivid aroma.",
+      "trans": "I just wanted to add a bright aroma.",
       "words": [
         {
           "t": "Я",
@@ -166,7 +166,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "просто",
@@ -190,15 +190,15 @@
           "pos": "verb",
           "stress": "доба́вить",
           "gloss": "to add",
-          "gram": "perfective infinitive"
+          "gram": "infinitive, perfective"
         },
         {
           "t": "яркий",
           "lemma": "яркий",
           "pos": "adj",
           "stress": "я́ркий",
-          "gloss": "vivid, bright",
-          "gram": "masculine singular, nominative / accusative"
+          "gloss": "bright, vivid",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "аромат.",
@@ -206,20 +206,20 @@
           "pos": "noun",
           "stress": "арома́т",
           "gloss": "aroma",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "accusative singular, masculine"
         }
       ]
     },
     {
       "seg": 5,
-      "trans": "A real chef feels every taste of the dish.",
+      "trans": "A real cook senses every flavor in the dish.",
       "words": [
         {
           "t": "Настоящий",
           "lemma": "настоящий",
           "pos": "adj",
           "stress": "настоя́щий",
-          "gloss": "real, genuine",
+          "gloss": "real",
           "gram": "nominative singular, masculine"
         },
         {
@@ -227,16 +227,16 @@
           "lemma": "повар",
           "pos": "noun",
           "stress": "по́вар",
-          "gloss": "chef, cook",
-          "gram": "masculine, nominative singular"
+          "gloss": "cook",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "чувствует",
           "lemma": "чувствовать",
           "pos": "verb",
           "stress": "чу́вствует",
-          "gloss": "feels",
-          "gram": "3rd person singular present"
+          "gloss": "senses, feels",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "каждый",
@@ -244,15 +244,15 @@
           "pos": "adj",
           "stress": "ка́ждый",
           "gloss": "every",
-          "gram": "accusative, masculine singular"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "вкус",
           "lemma": "вкус",
           "pos": "noun",
           "stress": null,
-          "gloss": "taste",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gloss": "flavor, taste",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "блюда.",
@@ -260,21 +260,21 @@
           "pos": "noun",
           "stress": "блю́да",
           "gloss": "dish",
-          "gram": "neuter inanimate noun, genitive singular"
+          "gram": "genitive singular, neuter"
         }
       ]
     },
     {
       "seg": 6,
-      "trans": "Forgive me, Chef, I will not do it anymore.",
+      "trans": "Forgive me, Chef, I won't do it again.",
       "words": [
         {
           "t": "Простите",
           "lemma": "простить",
           "pos": "verb",
           "stress": "прости́те",
-          "gloss": "excuse me",
-          "gram": "imperative, polite/plural, perfective"
+          "gloss": "forgive",
+          "gram": "imperative, 2nd person plural or polite, perfective"
         },
         {
           "t": "меня,",
@@ -282,15 +282,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive"
+          "gram": "accusative, 1st person singular"
         },
         {
           "t": "шеф,",
           "lemma": "шеф",
           "pos": "noun",
           "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
+          "gloss": "chef",
+          "gram": "nominative singular, masculine; used to address someone"
         },
         {
           "t": "я",
@@ -298,15 +298,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "больше",
           "lemma": "больше",
           "pos": "adv",
           "stress": "бо́льше",
-          "gloss": "more",
-          "gram": "comparative adverb (of много)"
+          "gloss": "anymore",
+          "gram": "adverb; не ... больше = not anymore"
         },
         {
           "t": "не",
@@ -314,29 +314,29 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "negation"
+          "gram": "particle; makes the verb negative"
         },
         {
           "t": "буду.",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́ду",
-          "gloss": "will be (there)",
+          "gloss": "will (do it); больше не буду = I won't do it again",
           "gram": "future, 1st person singular, imperfective"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "Take a good bottle on the top shelf.",
+      "trans": "Take a good bottle from the top shelf.",
       "words": [
         {
           "t": "Возьми",
           "lemma": "взять",
           "pos": "verb",
           "stress": "возьми́",
-          "gloss": "take, pick up",
-          "gram": "2nd person singular imperative, perfective"
+          "gloss": "take",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "хорошую",
@@ -344,23 +344,23 @@
           "pos": "adj",
           "stress": "хоро́шую",
           "gloss": "good",
-          "gram": "feminine accusative singular adjective"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "бутылку",
           "lemma": "бутылка",
           "pos": "noun",
           "stress": "буты́лку",
-          "gloss": "a bottle",
-          "gram": "feminine singular, accusative"
+          "gloss": "bottle",
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
+          "gloss": "on",
+          "gram": "preposition + prepositional"
         },
         {
           "t": "верхней",
@@ -368,7 +368,7 @@
           "pos": "adj",
           "stress": "ве́рхней",
           "gloss": "top, upper",
-          "gram": "feminine prepositional singular adjective"
+          "gram": "prepositional singular, feminine"
         },
         {
           "t": "полке.",
@@ -376,13 +376,13 @@
           "pos": "noun",
           "stress": "по́лке",
           "gloss": "shelf",
-          "gram": "feminine inanimate noun, prepositional singular"
+          "gram": "prepositional singular, feminine"
         }
       ]
     },
     {
       "seg": 8,
-      "trans": "Now I will quickly bring the needed wine.",
+      "trans": "I'll quickly bring the right wine now.",
       "words": [
         {
           "t": "Сейчас",
@@ -398,7 +398,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "быстро",
@@ -413,16 +413,16 @@
           "lemma": "принести",
           "pos": "verb",
           "stress": "принесу́",
-          "gloss": "I will bring",
-          "gram": "perfective future, 1st person singular"
+          "gloss": "will bring",
+          "gram": "future, 1st person singular, perfective"
         },
         {
           "t": "нужное",
           "lemma": "нужный",
           "pos": "adj",
           "stress": "ну́жное",
-          "gloss": "needed",
-          "gram": "neuter accusative singular adjective"
+          "gloss": "right, needed",
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "вино.",
@@ -436,7 +436,7 @@
     },
     {
       "seg": 9,
-      "trans": "And begin making this sauce anew!",
+      "trans": "And start making this sauce all over again!",
       "words": [
         {
           "t": "И",
@@ -451,15 +451,15 @@
           "lemma": "начать",
           "pos": "verb",
           "stress": "начни́",
-          "gloss": "begin",
-          "gram": "2nd person singular imperative"
+          "gloss": "start",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "готовить",
           "lemma": "готовить",
           "pos": "verb",
           "stress": "гото́вить",
-          "gloss": "to cook",
+          "gloss": "to make, to cook",
           "gram": "infinitive, imperfective"
         },
         {
@@ -476,7 +476,7 @@
           "pos": "noun",
           "stress": "со́ус",
           "gloss": "sauce",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "заново!",
@@ -498,7 +498,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "всё",
@@ -506,14 +506,14 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
+          "gram": "accusative singular, neuter; used as a noun: everything"
         },
         {
           "t": "сделаю",
           "lemma": "сделать",
           "pos": "verb",
           "stress": "сде́лаю",
-          "gloss": "I'll do (it)",
+          "gloss": "will do",
           "gram": "future, 1st person singular, perfective"
         },
         {
@@ -521,15 +521,15 @@
           "lemma": "правильно",
           "pos": "adv",
           "stress": "пра́вильно",
-          "gloss": "right",
-          "gram": "adverb, predicative"
+          "gloss": "correctly",
+          "gram": "adverb"
         },
         {
           "t": "прямо",
           "lemma": "прямо",
           "pos": "adv",
           "stress": "пря́мо",
-          "gloss": "right, just",
+          "gloss": "right; прямо сейчас = right now",
           "gram": "adverb"
         },
         {
@@ -544,7 +544,7 @@
     },
     {
       "seg": 11,
-      "trans": "Watch carefully the temperature on the stove.",
+      "trans": "Watch the temperature on the stove carefully.",
       "words": [
         {
           "t": "Внимательно",
@@ -559,7 +559,7 @@
           "lemma": "смотреть",
           "pos": "verb",
           "stress": "смотри́",
-          "gloss": "look",
+          "gloss": "watch; смотреть за = keep an eye on",
           "gram": "imperative, 2nd person singular, imperfective"
         },
         {
@@ -567,8 +567,8 @@
           "lemma": "за",
           "pos": "prep",
           "stress": null,
-          "gloss": "for",
-          "gram": "preposition + accusative"
+          "gloss": "over (смотреть за = watch over)",
+          "gram": "preposition + instrumental"
         },
         {
           "t": "температурой",
@@ -576,15 +576,15 @@
           "pos": "noun",
           "stress": "температу́рой",
           "gloss": "temperature",
-          "gram": "feminine inanimate noun, instrumental singular"
+          "gram": "instrumental singular, feminine"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
+          "gloss": "on",
+          "gram": "preposition + prepositional"
         },
         {
           "t": "плите.",
@@ -592,7 +592,7 @@
           "pos": "noun",
           "stress": "плите́",
           "gloss": "stove",
-          "gram": "feminine inanimate noun, prepositional singular"
+          "gram": "prepositional singular, feminine"
         }
       ]
     },
@@ -605,16 +605,16 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "gloss": "yes",
+          "gram": "particle; answers yes"
         },
         {
           "t": "шеф,",
           "lemma": "шеф",
           "pos": "noun",
           "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
+          "gloss": "chef",
+          "gram": "nominative singular, masculine; used to address someone"
         },
         {
           "t": "я",
@@ -622,7 +622,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "помню",
@@ -638,7 +638,7 @@
           "pos": "det",
           "stress": "ва́ши",
           "gloss": "your",
-          "gram": "nominative plural, polite"
+          "gram": "accusative plural; polite or plural \"your\""
         },
         {
           "t": "правила!",
@@ -652,7 +652,7 @@
     },
     {
       "seg": 14,
-      "trans": "Never use that cheap cognac!",
+      "trans": "Never use this cheap cognac!",
       "words": [
         {
           "t": "Никогда",
@@ -660,7 +660,7 @@
           "pos": "adv",
           "stress": "никогда́",
           "gloss": "never",
-          "gram": "adverb"
+          "gram": "adverb; needs не with the verb"
         },
         {
           "t": "не",
@@ -668,7 +668,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "negation"
+          "gram": "particle; makes the verb negative"
         },
         {
           "t": "используй",
@@ -676,7 +676,7 @@
           "pos": "verb",
           "stress": "испо́льзуй",
           "gloss": "use",
-          "gram": "2nd person singular imperative"
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "этот",
@@ -692,7 +692,7 @@
           "pos": "adj",
           "stress": null,
           "gloss": "cheap",
-          "gram": "masculine accusative singular inanimate adjective"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "коньяк!",
@@ -713,16 +713,16 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "gloss": "yes",
+          "gram": "particle; answers yes"
         },
         {
           "t": "шеф,",
           "lemma": "шеф",
           "pos": "noun",
           "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
+          "gloss": "chef",
+          "gram": "nominative singular, masculine; used to address someone"
         },
         {
           "t": "я",
@@ -730,7 +730,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "всё",
@@ -738,14 +738,14 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
+          "gram": "accusative singular, neuter; used as a noun: everything"
         },
         {
           "t": "понял!",
           "lemma": "понять",
           "pos": "verb",
           "stress": "по́нял",
-          "gloss": "understood? (got it?)",
+          "gloss": "understood",
           "gram": "past, masculine singular, perfective"
         }
       ]
@@ -760,23 +760,23 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
+          "gram": "nominative, 2nd person singular, informal"
         },
         {
           "t": "испортил",
           "lemma": "испортить",
           "pos": "verb",
           "stress": "испо́ртил",
-          "gloss": "to spoil, ruin, damage",
-          "gram": "past.m.sg"
+          "gloss": "ruined",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "этим",
           "lemma": "этот",
           "pos": "det",
           "stress": "э́тим",
-          "gloss": "this",
-          "gram": "instrumental singular, masculine"
+          "gloss": "with this",
+          "gram": "instrumental singular, neuter; used as a noun: with this"
         },
         {
           "t": "соус",
@@ -784,7 +784,7 @@
           "pos": "noun",
           "stress": "со́ус",
           "gloss": "sauce",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "для",
@@ -800,13 +800,13 @@
           "pos": "noun",
           "stress": "мя́са",
           "gloss": "meat",
-          "gram": "noun n gen"
+          "gram": "genitive singular, neuter"
         }
       ]
     },
     {
       "seg": 20,
-      "trans": "I simply wanted to add a vivid aroma.",
+      "trans": "I just wanted to add a bright aroma.",
       "words": [
         {
           "t": "Я",
@@ -814,7 +814,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "просто",
@@ -838,15 +838,15 @@
           "pos": "verb",
           "stress": "доба́вить",
           "gloss": "to add",
-          "gram": "perfective infinitive"
+          "gram": "infinitive, perfective"
         },
         {
           "t": "яркий",
           "lemma": "яркий",
           "pos": "adj",
           "stress": "я́ркий",
-          "gloss": "vivid, bright",
-          "gram": "masculine singular, nominative / accusative"
+          "gloss": "bright, vivid",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "аромат.",
@@ -854,20 +854,20 @@
           "pos": "noun",
           "stress": "арома́т",
           "gloss": "aroma",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "accusative singular, masculine"
         }
       ]
     },
     {
       "seg": 22,
-      "trans": "A real chef feels every taste of the dish.",
+      "trans": "A real cook senses every flavor in the dish.",
       "words": [
         {
           "t": "Настоящий",
           "lemma": "настоящий",
           "pos": "adj",
           "stress": "настоя́щий",
-          "gloss": "real, genuine",
+          "gloss": "real",
           "gram": "nominative singular, masculine"
         },
         {
@@ -875,16 +875,16 @@
           "lemma": "повар",
           "pos": "noun",
           "stress": "по́вар",
-          "gloss": "chef, cook",
-          "gram": "masculine, nominative singular"
+          "gloss": "cook",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "чувствует",
           "lemma": "чувствовать",
           "pos": "verb",
           "stress": "чу́вствует",
-          "gloss": "feels",
-          "gram": "3rd person singular present"
+          "gloss": "senses, feels",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "каждый",
@@ -892,15 +892,15 @@
           "pos": "adj",
           "stress": "ка́ждый",
           "gloss": "every",
-          "gram": "accusative, masculine singular"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "вкус",
           "lemma": "вкус",
           "pos": "noun",
           "stress": null,
-          "gloss": "taste",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gloss": "flavor, taste",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "блюда.",
@@ -908,21 +908,21 @@
           "pos": "noun",
           "stress": "блю́да",
           "gloss": "dish",
-          "gram": "neuter inanimate noun, genitive singular"
+          "gram": "genitive singular, neuter"
         }
       ]
     },
     {
       "seg": 24,
-      "trans": "Forgive me, Chef, I will not do it anymore.",
+      "trans": "Forgive me, Chef, I won't do it again.",
       "words": [
         {
           "t": "Простите",
           "lemma": "простить",
           "pos": "verb",
           "stress": "прости́те",
-          "gloss": "excuse me",
-          "gram": "imperative, polite/plural, perfective"
+          "gloss": "forgive",
+          "gram": "imperative, 2nd person plural or polite, perfective"
         },
         {
           "t": "меня,",
@@ -930,15 +930,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive"
+          "gram": "accusative, 1st person singular"
         },
         {
           "t": "шеф,",
           "lemma": "шеф",
           "pos": "noun",
           "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
+          "gloss": "chef",
+          "gram": "nominative singular, masculine; used to address someone"
         },
         {
           "t": "я",
@@ -946,15 +946,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "больше",
           "lemma": "больше",
           "pos": "adv",
           "stress": "бо́льше",
-          "gloss": "more",
-          "gram": "comparative adverb (of много)"
+          "gloss": "anymore",
+          "gram": "adverb; не ... больше = not anymore"
         },
         {
           "t": "не",
@@ -962,29 +962,29 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "negation"
+          "gram": "particle; makes the verb negative"
         },
         {
           "t": "буду.",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́ду",
-          "gloss": "will be (there)",
+          "gloss": "will (do it); больше не буду = I won't do it again",
           "gram": "future, 1st person singular, imperfective"
         }
       ]
     },
     {
       "seg": 26,
-      "trans": "Take a good bottle on the top shelf.",
+      "trans": "Take a good bottle from the top shelf.",
       "words": [
         {
           "t": "Возьми",
           "lemma": "взять",
           "pos": "verb",
           "stress": "возьми́",
-          "gloss": "take, pick up",
-          "gram": "2nd person singular imperative, perfective"
+          "gloss": "take",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "хорошую",
@@ -992,23 +992,23 @@
           "pos": "adj",
           "stress": "хоро́шую",
           "gloss": "good",
-          "gram": "feminine accusative singular adjective"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "бутылку",
           "lemma": "бутылка",
           "pos": "noun",
           "stress": "буты́лку",
-          "gloss": "a bottle",
-          "gram": "feminine singular, accusative"
+          "gloss": "bottle",
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
+          "gloss": "on",
+          "gram": "preposition + prepositional"
         },
         {
           "t": "верхней",
@@ -1016,7 +1016,7 @@
           "pos": "adj",
           "stress": "ве́рхней",
           "gloss": "top, upper",
-          "gram": "feminine prepositional singular adjective"
+          "gram": "prepositional singular, feminine"
         },
         {
           "t": "полке.",
@@ -1024,13 +1024,13 @@
           "pos": "noun",
           "stress": "по́лке",
           "gloss": "shelf",
-          "gram": "feminine inanimate noun, prepositional singular"
+          "gram": "prepositional singular, feminine"
         }
       ]
     },
     {
       "seg": 28,
-      "trans": "Now I will quickly bring the needed wine.",
+      "trans": "I'll quickly bring the right wine now.",
       "words": [
         {
           "t": "Сейчас",
@@ -1046,7 +1046,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "быстро",
@@ -1061,16 +1061,16 @@
           "lemma": "принести",
           "pos": "verb",
           "stress": "принесу́",
-          "gloss": "I will bring",
-          "gram": "perfective future, 1st person singular"
+          "gloss": "will bring",
+          "gram": "future, 1st person singular, perfective"
         },
         {
           "t": "нужное",
           "lemma": "нужный",
           "pos": "adj",
           "stress": "ну́жное",
-          "gloss": "needed",
-          "gram": "neuter accusative singular adjective"
+          "gloss": "right, needed",
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "вино.",
@@ -1084,7 +1084,7 @@
     },
     {
       "seg": 30,
-      "trans": "And begin making this sauce anew!",
+      "trans": "And start making this sauce all over again!",
       "words": [
         {
           "t": "И",
@@ -1099,15 +1099,15 @@
           "lemma": "начать",
           "pos": "verb",
           "stress": "начни́",
-          "gloss": "begin",
-          "gram": "2nd person singular imperative"
+          "gloss": "start",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "готовить",
           "lemma": "готовить",
           "pos": "verb",
           "stress": "гото́вить",
-          "gloss": "to cook",
+          "gloss": "to make, to cook",
           "gram": "infinitive, imperfective"
         },
         {
@@ -1124,7 +1124,7 @@
           "pos": "noun",
           "stress": "со́ус",
           "gloss": "sauce",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "заново!",
@@ -1146,7 +1146,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "всё",
@@ -1154,14 +1154,14 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
+          "gram": "accusative singular, neuter; used as a noun: everything"
         },
         {
           "t": "сделаю",
           "lemma": "сделать",
           "pos": "verb",
           "stress": "сде́лаю",
-          "gloss": "I'll do (it)",
+          "gloss": "will do",
           "gram": "future, 1st person singular, perfective"
         },
         {
@@ -1169,15 +1169,15 @@
           "lemma": "правильно",
           "pos": "adv",
           "stress": "пра́вильно",
-          "gloss": "right",
-          "gram": "adverb, predicative"
+          "gloss": "correctly",
+          "gram": "adverb"
         },
         {
           "t": "прямо",
           "lemma": "прямо",
           "pos": "adv",
           "stress": "пря́мо",
-          "gloss": "right, just",
+          "gloss": "right; прямо сейчас = right now",
           "gram": "adverb"
         },
         {
@@ -1192,7 +1192,7 @@
     },
     {
       "seg": 34,
-      "trans": "Watch carefully the temperature on the stove.",
+      "trans": "Watch the temperature on the stove carefully.",
       "words": [
         {
           "t": "Внимательно",
@@ -1207,7 +1207,7 @@
           "lemma": "смотреть",
           "pos": "verb",
           "stress": "смотри́",
-          "gloss": "look",
+          "gloss": "watch; смотреть за = keep an eye on",
           "gram": "imperative, 2nd person singular, imperfective"
         },
         {
@@ -1215,8 +1215,8 @@
           "lemma": "за",
           "pos": "prep",
           "stress": null,
-          "gloss": "for",
-          "gram": "preposition + accusative"
+          "gloss": "over (смотреть за = watch over)",
+          "gram": "preposition + instrumental"
         },
         {
           "t": "температурой",
@@ -1224,15 +1224,15 @@
           "pos": "noun",
           "stress": "температу́рой",
           "gloss": "temperature",
-          "gram": "feminine inanimate noun, instrumental singular"
+          "gram": "instrumental singular, feminine"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
+          "gloss": "on",
+          "gram": "preposition + prepositional"
         },
         {
           "t": "плите.",
@@ -1240,7 +1240,7 @@
           "pos": "noun",
           "stress": "плите́",
           "gloss": "stove",
-          "gram": "feminine inanimate noun, prepositional singular"
+          "gram": "prepositional singular, feminine"
         }
       ]
     },
@@ -1253,16 +1253,16 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "gloss": "yes",
+          "gram": "particle; answers yes"
         },
         {
           "t": "шеф,",
           "lemma": "шеф",
           "pos": "noun",
           "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
+          "gloss": "chef",
+          "gram": "nominative singular, masculine; used to address someone"
         },
         {
           "t": "я",
@@ -1270,7 +1270,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "помню",
@@ -1286,7 +1286,7 @@
           "pos": "det",
           "stress": "ва́ши",
           "gloss": "your",
-          "gram": "nominative plural, polite"
+          "gram": "accusative plural; polite or plural \"your\""
         },
         {
           "t": "правила!",
@@ -1300,7 +1300,7 @@
     },
     {
       "seg": 38,
-      "trans": "Never use that cheap cognac!",
+      "trans": "Never use this cheap cognac!",
       "words": [
         {
           "t": "Никогда",
@@ -1308,7 +1308,7 @@
           "pos": "adv",
           "stress": "никогда́",
           "gloss": "never",
-          "gram": "adverb"
+          "gram": "adverb; needs не with the verb"
         },
         {
           "t": "не",
@@ -1316,7 +1316,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "negation"
+          "gram": "particle; makes the verb negative"
         },
         {
           "t": "используй",
@@ -1324,7 +1324,7 @@
           "pos": "verb",
           "stress": "испо́льзуй",
           "gloss": "use",
-          "gram": "2nd person singular imperative"
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "этот",
@@ -1340,7 +1340,7 @@
           "pos": "adj",
           "stress": null,
           "gloss": "cheap",
-          "gram": "masculine accusative singular inanimate adjective"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "коньяк!",
@@ -1361,16 +1361,16 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "gloss": "yes",
+          "gram": "particle; answers yes"
         },
         {
           "t": "шеф,",
           "lemma": "шеф",
           "pos": "noun",
           "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
+          "gloss": "chef",
+          "gram": "nominative singular, masculine; used to address someone"
         },
         {
           "t": "я",
@@ -1378,7 +1378,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "всё",
@@ -1386,14 +1386,14 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
+          "gram": "accusative singular, neuter; used as a noun: everything"
         },
         {
           "t": "понял!",
           "lemma": "понять",
           "pos": "verb",
           "stress": "по́нял",
-          "gloss": "understood? (got it?)",
+          "gloss": "understood",
           "gram": "past, masculine singular, perfective"
         }
       ]
@@ -1408,23 +1408,23 @@
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
+          "gram": "nominative, 2nd person singular, informal"
         },
         {
           "t": "испортил",
           "lemma": "испортить",
           "pos": "verb",
           "stress": "испо́ртил",
-          "gloss": "to spoil, ruin, damage",
-          "gram": "past.m.sg"
+          "gloss": "ruined",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "этим",
           "lemma": "этот",
           "pos": "det",
           "stress": "э́тим",
-          "gloss": "this",
-          "gram": "instrumental singular, masculine"
+          "gloss": "with this",
+          "gram": "instrumental singular, neuter; used as a noun: with this"
         },
         {
           "t": "соус",
@@ -1432,7 +1432,7 @@
           "pos": "noun",
           "stress": "со́ус",
           "gloss": "sauce",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "для",
@@ -1448,13 +1448,13 @@
           "pos": "noun",
           "stress": "мя́са",
           "gloss": "meat",
-          "gram": "noun n gen"
+          "gram": "genitive singular, neuter"
         }
       ]
     },
     {
       "seg": 41,
-      "trans": "I simply wanted to add a vivid aroma.",
+      "trans": "I just wanted to add a bright aroma.",
       "words": [
         {
           "t": "Я",
@@ -1462,7 +1462,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "просто",
@@ -1486,15 +1486,15 @@
           "pos": "verb",
           "stress": "доба́вить",
           "gloss": "to add",
-          "gram": "perfective infinitive"
+          "gram": "infinitive, perfective"
         },
         {
           "t": "яркий",
           "lemma": "яркий",
           "pos": "adj",
           "stress": "я́ркий",
-          "gloss": "vivid, bright",
-          "gram": "masculine singular, nominative / accusative"
+          "gloss": "bright, vivid",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "аромат.",
@@ -1502,20 +1502,20 @@
           "pos": "noun",
           "stress": "арома́т",
           "gloss": "aroma",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "accusative singular, masculine"
         }
       ]
     },
     {
       "seg": 42,
-      "trans": "A real chef feels every taste of the dish.",
+      "trans": "A real cook senses every flavor in the dish.",
       "words": [
         {
           "t": "Настоящий",
           "lemma": "настоящий",
           "pos": "adj",
           "stress": "настоя́щий",
-          "gloss": "real, genuine",
+          "gloss": "real",
           "gram": "nominative singular, masculine"
         },
         {
@@ -1523,16 +1523,16 @@
           "lemma": "повар",
           "pos": "noun",
           "stress": "по́вар",
-          "gloss": "chef, cook",
-          "gram": "masculine, nominative singular"
+          "gloss": "cook",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "чувствует",
           "lemma": "чувствовать",
           "pos": "verb",
           "stress": "чу́вствует",
-          "gloss": "feels",
-          "gram": "3rd person singular present"
+          "gloss": "senses, feels",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "каждый",
@@ -1540,15 +1540,15 @@
           "pos": "adj",
           "stress": "ка́ждый",
           "gloss": "every",
-          "gram": "accusative, masculine singular"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "вкус",
           "lemma": "вкус",
           "pos": "noun",
           "stress": null,
-          "gloss": "taste",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gloss": "flavor, taste",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "блюда.",
@@ -1556,21 +1556,21 @@
           "pos": "noun",
           "stress": "блю́да",
           "gloss": "dish",
-          "gram": "neuter inanimate noun, genitive singular"
+          "gram": "genitive singular, neuter"
         }
       ]
     },
     {
       "seg": 43,
-      "trans": "Forgive me, Chef, I will not do it anymore.",
+      "trans": "Forgive me, Chef, I won't do it again.",
       "words": [
         {
           "t": "Простите",
           "lemma": "простить",
           "pos": "verb",
           "stress": "прости́те",
-          "gloss": "excuse me",
-          "gram": "imperative, polite/plural, perfective"
+          "gloss": "forgive",
+          "gram": "imperative, 2nd person plural or polite, perfective"
         },
         {
           "t": "меня,",
@@ -1578,15 +1578,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive"
+          "gram": "accusative, 1st person singular"
         },
         {
           "t": "шеф,",
           "lemma": "шеф",
           "pos": "noun",
           "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
+          "gloss": "chef",
+          "gram": "nominative singular, masculine; used to address someone"
         },
         {
           "t": "я",
@@ -1594,15 +1594,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "больше",
           "lemma": "больше",
           "pos": "adv",
           "stress": "бо́льше",
-          "gloss": "more",
-          "gram": "comparative adverb (of много)"
+          "gloss": "anymore",
+          "gram": "adverb; не ... больше = not anymore"
         },
         {
           "t": "не",
@@ -1610,29 +1610,29 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "negation"
+          "gram": "particle; makes the verb negative"
         },
         {
           "t": "буду.",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́ду",
-          "gloss": "will be (there)",
+          "gloss": "will (do it); больше не буду = I won't do it again",
           "gram": "future, 1st person singular, imperfective"
         }
       ]
     },
     {
       "seg": 44,
-      "trans": "Take a good bottle on the top shelf.",
+      "trans": "Take a good bottle from the top shelf.",
       "words": [
         {
           "t": "Возьми",
           "lemma": "взять",
           "pos": "verb",
           "stress": "возьми́",
-          "gloss": "take, pick up",
-          "gram": "2nd person singular imperative, perfective"
+          "gloss": "take",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "хорошую",
@@ -1640,23 +1640,23 @@
           "pos": "adj",
           "stress": "хоро́шую",
           "gloss": "good",
-          "gram": "feminine accusative singular adjective"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "бутылку",
           "lemma": "бутылка",
           "pos": "noun",
           "stress": "буты́лку",
-          "gloss": "a bottle",
-          "gram": "feminine singular, accusative"
+          "gloss": "bottle",
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
+          "gloss": "on",
+          "gram": "preposition + prepositional"
         },
         {
           "t": "верхней",
@@ -1664,7 +1664,7 @@
           "pos": "adj",
           "stress": "ве́рхней",
           "gloss": "top, upper",
-          "gram": "feminine prepositional singular adjective"
+          "gram": "prepositional singular, feminine"
         },
         {
           "t": "полке.",
@@ -1672,13 +1672,13 @@
           "pos": "noun",
           "stress": "по́лке",
           "gloss": "shelf",
-          "gram": "feminine inanimate noun, prepositional singular"
+          "gram": "prepositional singular, feminine"
         }
       ]
     },
     {
       "seg": 45,
-      "trans": "Now I will quickly bring the needed wine.",
+      "trans": "I'll quickly bring the right wine now.",
       "words": [
         {
           "t": "Сейчас",
@@ -1694,7 +1694,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "быстро",
@@ -1709,16 +1709,16 @@
           "lemma": "принести",
           "pos": "verb",
           "stress": "принесу́",
-          "gloss": "I will bring",
-          "gram": "perfective future, 1st person singular"
+          "gloss": "will bring",
+          "gram": "future, 1st person singular, perfective"
         },
         {
           "t": "нужное",
           "lemma": "нужный",
           "pos": "adj",
           "stress": "ну́жное",
-          "gloss": "needed",
-          "gram": "neuter accusative singular adjective"
+          "gloss": "right, needed",
+          "gram": "accusative singular, neuter"
         },
         {
           "t": "вино.",
@@ -1732,7 +1732,7 @@
     },
     {
       "seg": 46,
-      "trans": "And begin making this sauce anew!",
+      "trans": "And start making this sauce all over again!",
       "words": [
         {
           "t": "И",
@@ -1747,15 +1747,15 @@
           "lemma": "начать",
           "pos": "verb",
           "stress": "начни́",
-          "gloss": "begin",
-          "gram": "2nd person singular imperative"
+          "gloss": "start",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "готовить",
           "lemma": "готовить",
           "pos": "verb",
           "stress": "гото́вить",
-          "gloss": "to cook",
+          "gloss": "to make, to cook",
           "gram": "infinitive, imperfective"
         },
         {
@@ -1772,7 +1772,7 @@
           "pos": "noun",
           "stress": "со́ус",
           "gloss": "sauce",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "заново!",
@@ -1794,7 +1794,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "всё",
@@ -1802,14 +1802,14 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
+          "gram": "accusative singular, neuter; used as a noun: everything"
         },
         {
           "t": "сделаю",
           "lemma": "сделать",
           "pos": "verb",
           "stress": "сде́лаю",
-          "gloss": "I'll do (it)",
+          "gloss": "will do",
           "gram": "future, 1st person singular, perfective"
         },
         {
@@ -1817,15 +1817,15 @@
           "lemma": "правильно",
           "pos": "adv",
           "stress": "пра́вильно",
-          "gloss": "right",
-          "gram": "adverb, predicative"
+          "gloss": "correctly",
+          "gram": "adverb"
         },
         {
           "t": "прямо",
           "lemma": "прямо",
           "pos": "adv",
           "stress": "пря́мо",
-          "gloss": "right, just",
+          "gloss": "right; прямо сейчас = right now",
           "gram": "adverb"
         },
         {
@@ -1840,7 +1840,7 @@
     },
     {
       "seg": 48,
-      "trans": "Watch carefully the temperature on the stove.",
+      "trans": "Watch the temperature on the stove carefully.",
       "words": [
         {
           "t": "Внимательно",
@@ -1855,7 +1855,7 @@
           "lemma": "смотреть",
           "pos": "verb",
           "stress": "смотри́",
-          "gloss": "look",
+          "gloss": "watch; смотреть за = keep an eye on",
           "gram": "imperative, 2nd person singular, imperfective"
         },
         {
@@ -1863,8 +1863,8 @@
           "lemma": "за",
           "pos": "prep",
           "stress": null,
-          "gloss": "for",
-          "gram": "preposition + accusative"
+          "gloss": "over (смотреть за = watch over)",
+          "gram": "preposition + instrumental"
         },
         {
           "t": "температурой",
@@ -1872,15 +1872,15 @@
           "pos": "noun",
           "stress": "температу́рой",
           "gloss": "temperature",
-          "gram": "feminine inanimate noun, instrumental singular"
+          "gram": "instrumental singular, feminine"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
+          "gloss": "on",
+          "gram": "preposition + prepositional"
         },
         {
           "t": "плите.",
@@ -1888,7 +1888,7 @@
           "pos": "noun",
           "stress": "плите́",
           "gloss": "stove",
-          "gram": "feminine inanimate noun, prepositional singular"
+          "gram": "prepositional singular, feminine"
         }
       ]
     },
@@ -1901,16 +1901,16 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "gloss": "yes",
+          "gram": "particle; answers yes"
         },
         {
           "t": "шеф,",
           "lemma": "шеф",
           "pos": "noun",
           "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
+          "gloss": "chef",
+          "gram": "nominative singular, masculine; used to address someone"
         },
         {
           "t": "я",
@@ -1918,7 +1918,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gram": "nominative, 1st person singular"
         },
         {
           "t": "помню",
@@ -1934,7 +1934,7 @@
           "pos": "det",
           "stress": "ва́ши",
           "gloss": "your",
-          "gram": "nominative plural, polite"
+          "gram": "accusative plural; polite or plural \"your\""
         },
         {
           "t": "правила!",
@@ -1955,8 +1955,8 @@
           "lemma": "пока",
           "pos": "adv",
           "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "gloss": "bye",
+          "gram": "adverb; used as an informal goodbye"
         }
       ]
     }
@@ -1966,16 +1966,12 @@
       "lemma": "аромат",
       "stress": "арома́т",
       "pos": "noun",
-      "gloss": "aroma; scent",
+      "gloss": "aroma, smell",
       "gender": "m",
       "meanings": [
         {
-          "en": "aroma",
-          "note": ""
-        },
-        {
-          "en": "flavor",
-          "note": ""
+          "en": "aroma, smell",
+          "note": "usually a pleasant smell of food, coffee or flowers"
         }
       ],
       "forms": {
@@ -2033,12 +2029,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "По всей кухне разносится чудесный аромат свежего кофе.",
-          "trans": "A wonderful aroma of fresh coffee spreads throughout the kitchen."
+          "text": "Какой аромат!",
+          "trans": "What a lovely smell!"
         },
         {
-          "text": "Тонкий аромат трав делает это мясное блюдо просто незабываемым.",
-          "trans": "The delicate aroma of herbs makes this meat dish simply unforgettable."
+          "text": "Аромат кофе.",
+          "trans": "The smell of coffee."
+        },
+        {
+          "text": "Я просто хотел добавить яркий аромат.",
+          "trans": "I just wanted to add a bright aroma."
         }
       ],
       "related": []
@@ -2136,11 +2136,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много."
+          "note": "comparative of много; не ... больше = not any more"
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой."
+          "note": "comparative of большой"
         }
       ],
       "forms": null,
@@ -2151,12 +2151,12 @@
           "trans": "We need to do even more."
         },
         {
-          "text": "Мне больше не надо.",
-          "trans": "I don't need any more."
+          "text": "Я больше не буду.",
+          "trans": "I won't do it again."
         },
         {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
+          "text": "Этот дом больше.",
+          "trans": "This house is bigger."
         }
       ],
       "related": [
@@ -2241,8 +2241,8 @@
           "trans": "Buy a bottle of water."
         },
         {
-          "text": "Пыталась? С бутылкой вина в руке?",
-          "trans": "You tried? With a bottle of wine in your hand?"
+          "text": "Бутылка пустая.",
+          "trans": "The bottle is empty."
         }
       ],
       "related": []
@@ -2255,11 +2255,11 @@
       "meanings": [
         {
           "en": "fast, quickly",
-          "note": "the comparative 'быстрее', often as an order"
+          "note": ""
         },
         {
           "en": "faster",
-          "note": "the comparative 'быстрее', often as an order"
+          "note": "the comparative быстрее, often as an order: быстрее!"
         }
       ],
       "forms": null,
@@ -2274,8 +2274,8 @@
           "trans": "He drives fast."
         },
         {
-          "text": "Виталик, почему мы так медленно едем? Быстрее!",
-          "trans": "Vitalik, why are we going so slowly? Faster!"
+          "text": "Все за работу, быстро!",
+          "trans": "Everyone to work, quickly!"
         }
       ],
       "related": [
@@ -2299,11 +2299,15 @@
         },
         {
           "en": "there is, there are",
-          "note": "Present есть; у меня есть = I have."
+          "note": "present есть; у меня есть = I have"
         },
         {
           "en": "will (with an imperfective infinitive)",
           "note": "future: буду / будешь ... + infinitive"
+        },
+        {
+          "en": "может быть = maybe",
+          "note": ""
         }
       ],
       "forms": {
@@ -2410,26 +2414,26 @@
       ],
       "examples": [
         {
-          "text": "У меня есть машинка.",
-          "trans": "I have a toy car."
+          "text": "У меня есть идея.",
+          "trans": "I have an idea."
         },
         {
           "text": "Детство было трудное.",
           "trans": "Childhood was hard."
         },
         {
-          "text": "Ты будешь просить прощения.",
-          "trans": "You will be asking for forgiveness."
+          "text": "Что ты будешь пить?",
+          "trans": "What will you have to drink?"
         }
       ],
       "related": [
         {
-          "word": "забыть",
-          "gloss": "to forget"
+          "word": "есть",
+          "gloss": "there is, there are (present of быть)"
         },
         {
-          "word": "добыть",
-          "gloss": "to get"
+          "word": "забыть",
+          "gloss": "to forget"
         },
         {
           "word": "побыть",
@@ -2525,8 +2529,8 @@
           "trans": "Is this your programme?"
         },
         {
-          "text": "Аркадий Борисович, кто ваши конкуренты?",
-          "trans": "Arkady Borisovich, who are your rivals?"
+          "text": "Это ваш стол?",
+          "trans": "Is this your table?"
         }
       ],
       "related": [
@@ -2647,15 +2651,15 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "The neuter form 'всё' used alone."
+          "note": "весь день = all day"
         },
         {
           "en": "everything",
-          "note": "Neuter всё."
+          "note": "neuter всё used on its own: и всё? = and that's it?"
         },
         {
           "en": "everyone",
-          "note": "Plural все."
+          "note": "plural все used on its own"
         }
       ],
       "forms": {
@@ -2764,10 +2768,14 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "'взять на работу' = to give someone a job"
+          "note": "Возьми! = take it!"
         },
         {
           "en": "to hire",
+          "note": "взять на работу = to give someone a job"
+        },
+        {
+          "en": "взять на работу = to hire",
           "note": ""
         }
       ],
@@ -2844,16 +2852,16 @@
       ],
       "examples": [
         {
-          "text": "Возьмите на работу Галилея.",
-          "trans": "Go and hire Galileo."
-        },
-        {
           "text": "Возьми деньги.",
           "trans": "Take the money."
         },
         {
-          "text": "Вот и возьмите на работу Галилея.",
-          "trans": "Then go and hire Galileo."
+          "text": "Возьмите меня на работу!",
+          "trans": "Give me the job!"
+        },
+        {
+          "text": "Я возьму такси.",
+          "trans": "I'll take a taxi."
         }
       ],
       "related": [
@@ -2942,12 +2950,12 @@
           "trans": "I got Chilean wine."
         },
         {
-          "text": "А вино с фруктами?",
-          "trans": "And what about the wine and fruit?"
+          "text": "Я люблю белое вино.",
+          "trans": "I like white wine."
         },
         {
-          "text": "Смотри, это электрогитара для Лёши. А тебе я взял чилийское вино и ягоды.",
-          "trans": "Look, this is an electric guitar for Lyosha. And for you I brought Chilean wine and berries."
+          "text": "Бокал вина, пожалуйста.",
+          "trans": "A glass of wine, please."
         }
       ],
       "related": []
@@ -3024,15 +3032,15 @@
       "examples": [
         {
           "text": "Вы не в моём вкусе.",
-          "trans": "You are not my type."
+          "trans": "You're not my type."
         },
         {
           "text": "У неё хороший вкус.",
           "trans": "She has good taste."
         },
         {
-          "text": "Я бы рад вам помочь. Но вы, к сожалению, не в моём вкусе.",
-          "trans": "I would be glad to help you. But unfortunately you are not my type."
+          "text": "Какой странный вкус!",
+          "trans": "What a strange taste!"
         }
       ],
       "related": [
@@ -3065,12 +3073,12 @@
           "trans": "Read everything carefully!"
         },
         {
-          "text": "Слушайте учителя внимательно.",
-          "trans": "Listen to the teacher attentively."
+          "text": "Слушайте внимательно.",
+          "trans": "Listen carefully."
         },
         {
-          "text": "И, Марина Сергеевна, читайте всё внимательно! Особенно мелким шрифтом!",
-          "trans": "And, Marina Sergeyevna, read everything carefully! Especially in fine print!"
+          "text": "Внимательно смотри за плитой.",
+          "trans": "Keep a close eye on the stove."
         }
       ],
       "related": [
@@ -3165,8 +3173,8 @@
           "trans": "Mum cooks well."
         },
         {
-          "text": "Я уже не могу готовить, стирать, убирать. Я хочу на море!",
-          "trans": "I can't take the cooking, washing and cleaning any more. I want to go to the sea!"
+          "text": "Ты любишь готовить?",
+          "trans": "Do you like cooking?"
         }
       ],
       "related": [
@@ -3192,27 +3200,27 @@
       "meanings": [
         {
           "en": "yes",
-          "note": "emphatic at the start of a sentence"
+          "note": ""
         },
         {
-          "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief."
+          "en": "well, oh (at the start of a sentence)",
+          "note": "да ладно = come on; да ну? = really?"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Да ну?",
-          "trans": "Oh yeah?"
-        },
-        {
           "text": "Да, это я.",
           "trans": "Yes, it's me."
         },
         {
           "text": "Да ну? Когда?",
-          "trans": "Oh yeah? When?"
+          "trans": "Really? When?"
+        },
+        {
+          "text": "Да ладно тебе.",
+          "trans": "Oh, come on."
         }
       ],
       "related": [
@@ -3229,8 +3237,12 @@
       "gloss": "cheap, inexpensive",
       "meanings": [
         {
-          "en": "cheap, inexpensive; tacky (fig.)",
+          "en": "cheap, inexpensive",
           "note": ""
+        },
+        {
+          "en": "cheap, tacky",
+          "note": "of poor quality or taste"
         }
       ],
       "forms": {
@@ -3303,15 +3315,15 @@
       "examples": [
         {
           "text": "Это дешёвый спектакль.",
-          "trans": "This is a cheap performance."
+          "trans": "This is a cheap show."
         },
         {
-          "text": "Билеты в театр были дешёвые.",
-          "trans": "The theater tickets were cheap."
+          "text": "Билеты были дешёвые.",
+          "trans": "The tickets were cheap."
         },
         {
-          "text": "Я не хочу играть в этот дешёвый спектакль.",
-          "trans": "I do not want to play in this cheap performance."
+          "text": "Не бери дешёвый коньяк.",
+          "trans": "Don't buy cheap cognac."
         }
       ],
       "related": []
@@ -3340,8 +3352,8 @@
           "trans": "This is for you."
         },
         {
-          "text": "Для вас можно открыть салон красоты.",
-          "trans": "We could open a beauty salon for you."
+          "text": "Соус для мяса.",
+          "trans": "A sauce for the meat."
         }
       ],
       "related": [
@@ -3369,7 +3381,7 @@
         },
         {
           "en": "to add (say in addition)",
-          "note": ""
+          "note": "хочу добавить... = I'd like to add..."
         }
       ],
       "forms": {
@@ -3450,7 +3462,7 @@
         },
         {
           "text": "Мы добавим таблетку в её суп?",
-          "trans": "Shall we add the pill into her soup?"
+          "trans": "Shall we add the pill to her soup?"
         },
         {
           "text": "Затем добавь масло и тёплые сливки.",
@@ -3472,23 +3484,27 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative."
+          "note": "+ accusative: спасибо за помощь = thanks for the help"
         },
         {
-          "en": "behind",
-          "note": "+ instrumental."
+          "en": "behind; after, looking after",
+          "note": "+ instrumental: за колонной = behind the column; смотри за плитой = watch the stove"
+        },
+        {
+          "en": "за работу! = to work!, let's get to work",
+          "note": ""
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Спасибо за доверие!",
-          "trans": "Thank you for your trust!"
+          "text": "Спасибо за помощь!",
+          "trans": "Thanks for the help!"
         },
         {
-          "text": "Спасибо за подарок.",
-          "trans": "Thanks for the present."
+          "text": "Он стоит за колонной.",
+          "trans": "He's standing behind the column."
         },
         {
           "text": "За что?",
@@ -3513,24 +3529,24 @@
       "gloss": "anew, all over again, afresh",
       "meanings": [
         {
-          "en": "anew, afresh, from the beginning",
-          "note": "Как заново родилась = feel reborn."
+          "en": "anew, all over again",
+          "note": "начать заново = to start again from scratch"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Ой, Маринка, я как заново родилась!",
-          "trans": "Oh, Marinka, I feel as if I've been born again!"
+          "text": "Я как заново родилась!",
+          "trans": "I feel like I've been born again!"
         },
         {
           "text": "Придётся начинать всё заново.",
-          "trans": "We will have to start everything all over again."
+          "trans": "We'll have to start all over again."
         },
         {
-          "text": "Ой, Маринка, я как заново родилась! Пяточки как у младенца.",
-          "trans": "Oh, Marinka, I feel as if I've been born again! Heels like a baby's."
+          "text": "Сделай заново!",
+          "trans": "Do it again!"
         }
       ],
       "related": [
@@ -3571,8 +3587,8 @@
           "trans": "Dad and Mum."
         },
         {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+          "text": "И всё?",
+          "trans": "And that's it?"
         }
       ],
       "related": [
@@ -3879,8 +3895,8 @@
           "trans": "Every person."
         },
         {
-          "text": "Аркаш, мне москвичи звонят каждый день. Может, всё-таки передумаем?",
-          "trans": "Arkasha, the people from Moscow call me every day. Maybe we should reconsider after all?"
+          "text": "Мне звонят каждый день.",
+          "trans": "They call me every day."
         }
       ],
       "related": []
@@ -3960,8 +3976,8 @@
           "trans": "The cognac is very expensive."
         },
         {
-          "text": "А сам французский коньяк пьёшь.",
-          "trans": "And you're drinking French cognac yourself."
+          "text": "Никогда не используй дешёвый коньяк!",
+          "trans": "Never use cheap cognac!"
         }
       ],
       "related": []
@@ -4039,10 +4055,6 @@
         {
           "text": "Очень вкусное мясо!",
           "trans": "Very tasty meat!"
-        },
-        {
-          "text": "И мой тоже готов! А ты где мясо берёшь?",
-          "trans": "And mine is ready too! Where do you get your meat?"
         }
       ],
       "related": [
@@ -4059,12 +4071,16 @@
       "gloss": "on, onto; for",
       "meanings": [
         {
-          "en": "on",
-          "note": "+ prepositional: на сайте."
+          "en": "on, at",
+          "note": "+ prepositional (where): на столе, на кухне, на работе"
         },
         {
-          "en": "onto, to; for",
-          "note": "+ accusative: на второй срок."
+          "en": "onto, to",
+          "note": "+ accusative (where to): иду на работу"
+        },
+        {
+          "en": "for",
+          "note": "+ accusative: собеседование на работу = a job interview"
         }
       ],
       "forms": null,
@@ -4075,12 +4091,12 @@
           "trans": "The programme is on the website."
         },
         {
-          "text": "Он идёт на второй срок.",
-          "trans": "He is running for a second term."
+          "text": "Я иду на работу.",
+          "trans": "I'm going to work."
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Мы сидим на кухне.",
+          "trans": "We're sitting in the kitchen."
         }
       ],
       "related": [
@@ -4184,10 +4200,6 @@
         {
           "text": "Он настоящий друг.",
           "trans": "He is a true friend."
-        },
-        {
-          "text": "Ваня, да пойми ты наконец! Это настоящий успех.",
-          "trans": "Vanya, understand at last! This is real success."
         }
       ],
       "related": []
@@ -4284,10 +4296,6 @@
         {
           "text": "Начнём!",
           "trans": "Let's begin!"
-        },
-        {
-          "text": "Это хорошо, что готово. А то мы уже начали беспокоиться.",
-          "trans": "It's good that it's ready. We were starting to worry."
         }
       ],
       "related": [
@@ -4360,10 +4368,6 @@
         {
           "text": "Я никогда не был на море.",
           "trans": "I've never been to the sea."
-        },
-        {
-          "text": "Нет! Никогда!",
-          "trans": "No! Never!"
         }
       ],
       "related": []
@@ -4632,10 +4636,6 @@
           "trans": "There is this English chef."
         },
         {
-          "text": "Есть такой английский повар. Я по его передачам научусь готовить.",
-          "trans": "There is this English chef. I will learn to cook from his shows."
-        },
-        {
           "text": "Я хочу работать поваром в ресторане.",
           "trans": "I want to work as a cook in a restaurant."
         }
@@ -4650,11 +4650,11 @@
       "meanings": [
         {
           "en": "bye, see you",
-          "note": "Informal."
+          "note": "informal"
         },
         {
-          "en": "while, for now",
-          "note": "As an adverb."
+          "en": "for now, so far; while",
+          "note": "он пока занят = he's busy for now"
         }
       ],
       "forms": null,
@@ -4669,8 +4669,8 @@
           "trans": "Bye, Dad!"
         },
         {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
+          "text": "Он пока на работе.",
+          "trans": "He's at work for now."
         }
       ],
       "related": []
@@ -5043,10 +5043,6 @@
         {
           "text": "Это правило.",
           "trans": "That's the rule."
-        },
-        {
-          "text": "Всё по правилам, как рыцарский турнир.",
-          "trans": "All by the rules, like a knights' tournament."
         }
       ],
       "related": [
@@ -5085,10 +5081,6 @@
         {
           "text": "Ты правильно сказал.",
           "trans": "You said it right."
-        },
-        {
-          "text": "Это правильно. Я приглашаю вас в общественный совет.",
-          "trans": "That's right. I'm inviting you onto the public council."
         }
       ],
       "related": [
@@ -5192,12 +5184,12 @@
       ],
       "examples": [
         {
-          "text": "А я вот вам чаю с сушками принёс.",
-          "trans": "I've brought you some tea and bread rings."
-        },
-        {
           "text": "Принесите, пожалуйста, воды.",
           "trans": "Bring some water, please."
+        },
+        {
+          "text": "Я принёс тебе чай.",
+          "trans": "I've brought you some tea."
         },
         {
           "text": "Что ты в квартиру принёс?",
@@ -5207,15 +5199,15 @@
       "related": [
         {
           "word": "приносить",
-          "gloss": "to bring"
+          "gloss": "to bring (impf)"
         },
         {
           "word": "нести",
           "gloss": "to carry"
         },
         {
-          "word": "перенести",
-          "gloss": "to carry over"
+          "word": "унести",
+          "gloss": "to carry away"
         }
       ]
     },
@@ -5317,14 +5309,18 @@
           "trans": "Forgive me."
         },
         {
-          "text": "Простите меня, пожалуйста.",
-          "trans": "Please forgive me."
+          "text": "Она его простила.",
+          "trans": "She forgave him."
         }
       ],
       "related": [
         {
           "word": "прощать",
-          "gloss": "to forgive"
+          "gloss": "to forgive (impf)"
+        },
+        {
+          "word": "прощение",
+          "gloss": "forgiveness"
         }
       ]
     },
@@ -5336,11 +5332,11 @@
       "meanings": [
         {
           "en": "just, simply",
-          "note": "'это просто' = it's easy."
+          "note": "я просто устал = I'm just tired; просто потрясающе = simply amazing"
         },
         {
           "en": "easy",
-          "note": "Это просто = it's easy."
+          "note": "это просто = it's easy"
         }
       ],
       "forms": null,
@@ -5355,11 +5351,16 @@
           "trans": "It's easy."
         },
         {
-          "text": "Мы просто не хотели вас беспокоить. Всё отменим!",
-          "trans": "We just didn't want to bother you. We'll cancel it all!"
+          "text": "Это просто потрясающе!",
+          "trans": "That's simply amazing!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "простой",
+          "gloss": "simple, easy"
+        }
+      ]
     },
     "прямо": {
       "lemma": "прямо",
@@ -5369,33 +5370,33 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that."
+          "note": "прямо сейчас = right now; прямо из Индии = straight from India"
         },
         {
           "en": "straight ahead",
-          "note": ""
+          "note": "идите прямо = go straight on"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Прямо так, да?",
-          "trans": "Just like that?"
+          "text": "Я сделаю это прямо сейчас.",
+          "trans": "I'll do it right now."
         },
         {
           "text": "Идите прямо по этой улице.",
           "trans": "Go straight along this street."
         },
         {
-          "text": "В смысле, Виктор Степанович? Прямо так, да?",
-          "trans": "What do you mean, Viktor Stepanovich? Just like that?"
+          "text": "Прямо так, да?",
+          "trans": "Just like that?"
         }
       ],
       "related": [
         {
           "word": "прямой",
-          "gloss": "straight"
+          "gloss": "straight, direct"
         }
       ]
     },
@@ -5485,16 +5486,16 @@
       ],
       "examples": [
         {
-          "text": "Мы сделали много.",
-          "trans": "We've done a lot."
-        },
-        {
           "text": "Я сделаю это завтра.",
           "trans": "I'll do it tomorrow."
         },
         {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
+          "text": "Мы сделали много.",
+          "trans": "We've done a lot."
+        },
+        {
+          "text": "Что ты сделал?",
+          "trans": "What have you done?"
         }
       ],
       "related": [
@@ -5520,11 +5521,11 @@
       "meanings": [
         {
           "en": "now",
-          "note": "'сейчас буду' = I'll be right there"
+          "note": "сейчас буду = I'll be right there"
         },
         {
           "en": "in a moment",
-          "note": ""
+          "note": "сейчас принесу = I'll bring it in a moment"
         }
       ],
       "forms": null,
@@ -5539,8 +5540,8 @@
           "trans": "I'll be right there."
         },
         {
-          "text": "Конечно, помогу. Кто у вас сейчас начальник?",
-          "trans": "Of course I'll help. Who's your boss now?"
+          "text": "Сейчас три часа.",
+          "trans": "It's three o'clock now."
         }
       ],
       "related": [
@@ -5560,11 +5561,15 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative."
+          "note": "смотреть на + accusative"
         },
         {
           "en": "to watch",
-          "note": "TV, a film."
+          "note": "TV, a film"
+        },
+        {
+          "en": "to keep an eye on",
+          "note": "смотреть за + instrumental: смотри за температурой = watch the temperature"
         }
       ],
       "forms": {
@@ -5648,8 +5653,8 @@
           "trans": "I'm watching TV."
         },
         {
-          "text": "Привет! Смотри, что у меня есть.",
-          "trans": "Hi! Look what I've got."
+          "text": "Смотри на меня.",
+          "trans": "Look at me."
         }
       ],
       "related": [
@@ -5668,7 +5673,7 @@
       "meanings": [
         {
           "en": "sauce, gravy",
-          "note": "culinary condiment or liquid topping"
+          "note": ""
         }
       ],
       "forms": {
@@ -5731,11 +5736,11 @@
         },
         {
           "text": "Повар приготовил острый томатный соус.",
-          "trans": "The chef prepared a spicy tomato sauce."
+          "trans": "The chef made a spicy tomato sauce."
         },
         {
-          "text": "Сегодня на ужин паста под соусом!",
-          "trans": "Tonight for dinner we have pasta with sauce!"
+          "text": "Это соус для мяса.",
+          "trans": "This is a sauce for the meat."
         }
       ],
       "related": []
@@ -5815,8 +5820,8 @@
           "trans": "Room temperature."
         },
         {
-          "text": "Жадность, Паша, должна быть умеренная. Комнатной температуры.",
-          "trans": "Greed, Pasha, should be moderate. Room temperature."
+          "text": "Какая температура в духовке?",
+          "trans": "What's the oven temperature?"
         }
       ],
       "related": [
@@ -5826,11 +5831,7 @@
         },
         {
           "word": "жар",
-          "gloss": "fever, heat"
-        },
-        {
-          "word": "комнатная температура",
-          "gloss": "room temperature"
+          "gloss": "heat; fever"
         }
       ]
     },
@@ -5905,18 +5906,18 @@
           "trans": "Have you got any more?"
         },
         {
-          "text": "Папа, а жвачку ты привёз?",
-          "trans": "Dad, did you bring any gum?"
+          "text": "Я с тобой.",
+          "trans": "I'm with you."
         }
       ],
       "related": [
         {
-          "word": "тебя",
-          "gloss": "you (genitive/accusative)"
+          "word": "вы",
+          "gloss": "you (polite or plural)"
         },
         {
-          "word": "тебе",
-          "gloss": "to you (dative)"
+          "word": "твой",
+          "gloss": "your (informal)"
         }
       ]
     },
@@ -6008,8 +6009,8 @@
           "trans": "What a lovely morning!"
         },
         {
-          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
-          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
+          "text": "Хорошего дня!",
+          "trans": "Have a good day!"
         }
       ],
       "related": [
@@ -6033,7 +6034,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun."
+          "note": "+ infinitive or a noun; irregular: хочу, хочешь, хотим, хотите, хотят"
         }
       ],
       "forms": {
@@ -6249,13 +6250,17 @@
       "lemma": "шеф",
       "stress": "шеф",
       "pos": "noun",
-      "gloss": "boss, chief",
+      "gloss": "boss, chief; chef",
       "gender": "m",
       "animacy": "anim",
       "meanings": [
         {
           "en": "boss, chief",
-          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+          "note": "informal"
+        },
+        {
+          "en": "chef",
+          "note": "in a kitchen шеф is the head chef, and cooks address them this way: Да, шеф!"
         }
       ],
       "forms": {
@@ -6314,7 +6319,7 @@
       "examples": [
         {
           "text": "Хитро придумано, шеф!",
-          "trans": "Cleverly thought out, boss!"
+          "trans": "Clever thinking, boss!"
         },
         {
           "text": "Шеф подписал приказ.",
@@ -6335,7 +6340,7 @@
       "meanings": [
         {
           "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
+          "note": "этот, эта, это, эти; alone: я этого не хочу = I don't want that"
         }
       ],
       "forms": {
@@ -6411,12 +6416,12 @@
           "trans": "This house."
         },
         {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
+          "text": "Мне нравится эта песня.",
+          "trans": "I like this song."
         },
         {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
+          "text": "Этот коньяк дешёвый.",
+          "trans": "This cognac is cheap."
         }
       ],
       "related": [
@@ -6503,12 +6508,12 @@
       ],
       "related": [
         {
-          "word": "меня",
-          "gloss": "me (genitive/accusative)"
+          "word": "мы",
+          "gloss": "we"
         },
         {
-          "word": "мне",
-          "gloss": "to me (dative)"
+          "word": "мой",
+          "gloss": "my"
         }
       ]
     },
