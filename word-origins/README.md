@@ -7,3 +7,7 @@ Do not attach a generic dictionary home page to an unchecked claim. Recovered le
 This metadata is independent of scene render hashes. Expanding or correcting the checked set does not require new audio or another APK once the Origin screen is installed.
 
 `tools/origin_coverage.py` inventories only the dictionary shards named by a verified serving catalogue and checks their digests. It reports coverage and a complete missing-word queue without treating a link as proof of a claim. Regenerate the report whenever the served dictionary grows.
+
+Completeness applies to every published season, including previously released vocabulary, and to every season added later. Inflected forms may share their base word's history. A published learning note also contributes its marked target-language words to its source season's audit. Keep an unresolved or ambiguous form visible until it has been reviewed; do not invent a dictionary entry for an ending or teaching fragment merely to make a count pass.
+
+Before publishing a new or expanded season, run the audit against the verified candidate serving build with `--season <show>/sNN --require-complete`. It must succeed. The unfiltered `--require-complete` checks every served dictionary and season. A misspelled or absent season fails instead of passing an empty scope. Existing audio/example maintenance can continue while the explicit older coverage backlog is being reviewed; this does not make that backlog exhaustive.
