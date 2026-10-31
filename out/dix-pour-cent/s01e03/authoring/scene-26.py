@@ -115,8 +115,7 @@ WALK = [(0,
   "the denial: 'at all'."),
  (2,
   None,
-  "'Tell the truth.' Nathalie gives a direct instruction to her daughter. This short form addresses one "
-  "familiar person; the truth follows the word for 'the'."),
+  "'Tell the truth.' Nathalie gives a direct instruction to her daughter. This short command addresses one familiar person, and the definite article appears before the word for truth."),
  (3,
   None,
   "'And you? You don't want to work with me?' The full form of 'you' stands alone after 'and'. Then Laura "
@@ -152,9 +151,7 @@ WALK = [(0,
   'informal word for a little girl.'),
  (11,
   None,
-  "'Stand up straight!' Literally 'hold yourself straight'. The word for 'yourself' attaches after the "
-  "instruction with a hyphen. Laura imitates her mother's familiar advice. The director's delight makes both "
-  'women angry.'),
+  "'Stand up straight!' Literally 'hold yourself straight'. The reflexive pronoun follows the command and joins it with a hyphen. Laura imitates her mother's familiar advice. The director's delight makes both women angry."),
  (12,
   None,
   "'My daughter is not unbearable!' The negative surrounds 'is'. Nathalie now defends her daughter against "
@@ -173,9 +170,7 @@ WALK = [(0,
   'was arguing with a moment ago.'),
  (16,
   None,
-  "'Ten out of ten. But we're not doing it.' The short word between the numbers means 'out of'. In the "
-  "second sentence, the object meaning 'it' stands before 'do'."),
+  "'Ten out of ten. But we're not doing it.' The short word between the numbers means 'out of'. In the second sentence, the object pronoun refers back to the film and comes before the verb."),
  (17,
   None,
-  "'I hope to make a film with you one day.' The action 'hope' is followed by the basic form 'make'. The "
-  "last two words leave the timing open: 'one day'.")]
+  "'I hope to make a film with you one day.' The action 'hope' is followed by the basic form 'make'. The closing expression points to an unspecified day in the future.")]

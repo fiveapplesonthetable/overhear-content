@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'You don't want to work with me?' Mother and daughter use the familiar form of 'you'. The negative goes around 'want', with the next action left in its basic form. Nathalie puts the question directly to Laura.
 - 'No, that's not true at all.' The two negative words surround 'is'. The expression at the end strengthens the denial: 'at all'.
-- 'Tell the truth.' Nathalie gives a direct instruction to her daughter. This short form addresses one familiar person; the truth follows the word for 'the'.
+- 'Tell the truth.' Nathalie gives a direct instruction to her daughter. This short command addresses one familiar person, and the definite article appears before the word for truth.
 - 'And you? You don't want to work with me?' The full form of 'you' stands alone after 'and'. Then Laura repeats her mother's question with the usual short subject form. She throws the accusation straight back.
 - 'I'm the one asking the question!' Literally 'it's me who asks the question'. This frame puts the emphasis on the person asking, rather than on the question itself.
 - 'You're not answering. I get it.' The second sentence literally says 'I have understood'. A completed action expresses the conclusion Laura has just reached.
@@ -42,10 +42,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Like when I took you to school?' The past form describes something that used to happen repeatedly. The small word for 'you' loses its vowel before the action.
 - 'I never said that!' The second negative word means 'never' instead of 'not'. The small word at the end points back to the accusation Laura is rejecting.
 - 'With you, I'm always a kid.' The full form meaning 'you' comes after 'with'. The last word is an informal word for a little girl.
-- 'Stand up straight!' Literally 'hold yourself straight'. The word for 'yourself' attaches after the instruction with a hyphen. Laura imitates her mother's familiar advice. The director's delight makes both women angry.
+- 'Stand up straight!' Literally 'hold yourself straight'. The reflexive pronoun follows the command and joins it with a hyphen. Laura imitates her mother's familiar advice. The director's delight makes both women angry.
 - 'My daughter is not unbearable!' The negative surrounds 'is'. Nathalie now defends her daughter against the director's description.
 - 'If I can't argue with my mother, then who with?' The action for 'argue' belongs to a self-directed expression. The short word before it is the form meaning 'myself'.
 - 'Of course my mother annoys me!' The first two words mean 'of course'. A linking word then introduces what Laura insists is true.
 - 'Well, obviously!' The final word means 'obviously' or 'of course'. Nathalie agrees with the daughter she was arguing with a moment ago.
-- 'Ten out of ten. But we're not doing it.' The short word between the numbers means 'out of'. In the second sentence, the object meaning 'it' stands before 'do'.
-- 'I hope to make a film with you one day.' The action 'hope' is followed by the basic form 'make'. The last two words leave the timing open: 'one day'.
+- 'Ten out of ten. But we're not doing it.' The short word between the numbers means 'out of'. In the second sentence, the object pronoun refers back to the film and comes before the verb.
+- 'I hope to make a film with you one day.' The action 'hope' is followed by the basic form 'make'. The closing expression points to an unspecified day in the future.
