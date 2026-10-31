@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'arlette': 'Arlette', 'andrea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
-INTRO = ('Arlette and Andréa are still at the café after discussing the future of the agency. Arlette calls '
- "Gabriel's idea of replacing Françoise with Line Renaud rather bold. She explains the long rivalry between "
- 'the two actresses, and Andréa learns details she had not heard before. Listen to their conversation in '
+INTRO = ("Arlette and Andréa are still at the café after discussing the agency's future. Arlette finds Gabriel's "
+ "suggestion of replacing Françoise with Line amusing, given the actresses' shared history. She explains "
+ 'their long rivalry, and Andréa learns details she had not heard before. Listen to their conversation in '
  'French first.')
 OPENER = "Let's go through it together. Hervé starts with a word that means bold, a little too bold."
 TRANSITION = "Now let's listen to the entire dialogue once more."
@@ -21,11 +21,16 @@ OUTRO = ('Arlette has explained both an old falling-out and two careers that eac
  'time!')
 CLOSING = ('arlette', 'À bientôt!')
 STORY = [('arlette',
-  "C'est culotté de la part de Gabriel.",
-  "That's cheeky of Gabriel.",
+  "C'est cocasse, quand même!",
+  "It's funny, all the same!",
   [(491, "C'est culotté de la part de Gabriel")],
-  ''),
- ('andrea', 'Tu trouves ça culotté?', "You think it's cheeky?", [(492, 'Tu trouves ça culotté')], ''),
+  'Original French audio uses cocasse, oddly funny, not the dual subtitles’ culotté, cheeky. Omits the '
+  'following clause naming Gabriel’s casting suggestion.'),
+ ('andrea',
+  'Tu trouves ça cocasse?',
+  "You think it's funny?",
+  [(492, 'Tu trouves ça culotté')],
+  'Restores the original cocasse in Andréa’s sceptical question.'),
  ('arlette',
   'Oui! Il y a une vieille histoire entre Line et Françoise.',
   "Yes! There's an old story between Line and Françoise.",
@@ -37,7 +42,8 @@ STORY = [('arlette',
   'Elles ne peuvent pas se sentir.',
   "They can't stand each other.",
   [(497, 'Elles ne peuvent pas se sentir')],
-  ''),
+  'Neutral equivalent of the original informal Elles ne peuvent pas se piffer, they cannot stand each '
+  'other.'),
  ('andrea',
   "Ah bon? Je n'ai jamais entendu ça.",
   "Really? I've never heard that.",
@@ -90,13 +96,13 @@ STORY = [('arlette',
  ('arlette', 'Exactement.', 'Exactly.', [(521, 'Exactement')], '')]
 WALK = [(0,
   None,
-  "'That's cheeky of Gabriel.' Cheeky describes someone with the nerve to do something daring or "
-  "presumptuous. On the part of identifies whose action is being judged; Arlette means Gabriel's casting "
-  'suggestion.'),
+  "'It's funny, all the same!' Funny here means oddly amusing, rather than a deliberately told joke. All the "
+  "same adds emphasis to Arlette's reaction. She sees an irony in choosing Line to replace Françoise, "
+  'because she knows their history.'),
  (1,
   None,
-  "'You think it's cheeky?' The action word here is 'to find', used for opinions, just like 'do you find it "
-  "cheeky?' Andréa is new, so she doesn't see the problem."),
+  "'You think it's funny?' Find can express an opinion, as in do you find it funny? That points to Gabriel's "
+  "casting suggestion. Andréa's question challenges Arlette's reaction and invites her to explain it."),
  (2,
   None,
   "'Yes! There's an old story between Line and Françoise.' Three little words at the start mean 'there is'. "
@@ -159,4 +165,5 @@ WALK = [(0,
   'not.'),
  (17,
   None,
-  "'Exactly.' And that, Arlette says, is why Gabriel's idea is so cheeky. Now the whole story again.")]
+  "'Exactly.' Arlette confirms Andréa's explanation of the rivalry. This single word can endorse a whole "
+  "account without repeating it. Now let's hear the story once more.")]
