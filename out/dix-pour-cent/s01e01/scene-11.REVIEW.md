@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you Mathias Barneville's assistant?' Notice how it's built: you are, the assistant, of Mathias. French has no apostrophe-s for owners; it uses a little word meaning 'of'. Noémie answers at once.
+- 'Are you Mathias Barneville's assistant?' Notice how it's built: you are, the assistant, of Mathias. French marks ownership with a separate word meaning 'of', rather than with the English possessive ending. Noémie answers at once.
 - 'He's very nice.' The last word is a short, friendly way of saying 'nice' or 'likeable'. Hervé doesn't agree at all.
 - 'Everyone thinks he's horrible.' The opening expression literally says 'all the world' and takes a singular action. The little word before 'finds' means 'him', so it refers back to Mathias.
 - 'This is Accounts. They're lovely.' The first sentence names a department, while the plural subject in the next sentence refers to its staff. Hervé is describing the people, rather than the office.
