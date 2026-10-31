@@ -10,9 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'laura': 'Laura', 'mathias': 'Mathias', 'nathalie': 'Nathalie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = ('The actresses Nathalie Baye and Laura Smet have both read the film script that would cast them as mother '
- 'and daughter. Face to face in the lift, they pretend to be delighted. When the doors open, each asks for a '
- 'private word with her own agent. Listen to the polite conversation give way to two separate protests.')
+INTRO = ('Actresses Nathalie Baye and Laura Smet pretend to be pleased about their film while together in the lift. '
+ "Then each asks her own agent for a private word. This shortened French story keeps Mathias's voice and "
+ "combines the agents' greeting; I will explain what happens in Gabriel's office. Listen to the polite "
+ 'conversation turn into two protests.')
 OPENER = "Let's go through it line by line. Mother and daughter are in the lift, each waiting for the other to blink first."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'So neither mother nor daughter wants to spend three months trapped with the other, and next they have to confess it in the same room. See you next time!'
@@ -43,7 +44,7 @@ STORY = [('nathalie',
   'Bonjour, Nathalie. Bonjour, Laura. On y va?',
   'Hello, Nathalie. Hello, Laura. Shall we go?',
   [(352, 'Bonjour, Nathalie'), (353, 'Laura'), (354, 'On y va')],
-  ''),
+  "Combines Mathias's greeting to Nathalie and Gabriel's greeting to Laura into Mathias's role."),
  ('nathalie',
   "Mathias, je peux te voir seul d'abord?",
   'Mathias, can I see you alone first?',
@@ -51,10 +52,10 @@ STORY = [('nathalie',
   ''),
  ('mathias', 'Bien sûr.', 'Of course.', [(355, 'Bien sûr')], ''),
  ('laura',
-  'Tu ne connais pas ma mère. Trois mois avec elle, non!',
-  "You don't know my mother. Three months with her, no!",
-  [(358, 'trois mois'), (359, 'Non'), (360, 'Tu ne connais pas ma mère')],
-  ''),
+  'Trois mois avec elle, non!',
+  'Three months with her, no!',
+  [(358, 'trois mois'), (359, 'Non')],
+  "Shortens Laura's anxious question and the exchange about living with a mother."),
  ('nathalie',
   "Impossible! Pourquoi tu ne m'as pas prévenue?",
   "Impossible! Why didn't you warn me?",
@@ -110,8 +111,8 @@ WALK = [(0,
  (8, None, "'Of course.' Literally 'well sure'. The doors close on two separate offices."),
  (9,
   None,
-  "'You don't know my mother. Three months with her, no!' In Gabriel's office, Laura says the action word "
-  "for knowing a person. Now listen to Nathalie in Mathias's office."),
+  "'Three months with her, no!' The full form meaning 'her' follows 'with'. The same form can mean 'she' "
+  'when it stands before an action. Laura is imagining the long shoot with her mother.'),
  (10,
   None,
   "'Impossible! Why didn't you warn me?' The past form at the end has a feminine letter because the "

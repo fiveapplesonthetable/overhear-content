@@ -10,29 +10,77 @@ PAIR = 'fr-en'
 LABELS = {'mathias': 'Mathias', 'nathalie': 'Nathalie', 'solveig': 'Solveig'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = "Laura is afraid of hurting her mother by saying no, so the agents talk of a trick: be impossible, like a difficult star, so that the director refuses you. Now it's Nathalie's audition. Hervé fusses over Solveig with a long list of drinks, and she only wants water. We follow Nathalie. Here's the scene in French first; it's fine to catch just the feeling."
+INTRO = ('Nathalie Baye tries to spoil her audition so she will not have to act with her daughter. At the agency, '
+ 'assistant Noemie offers director Solveig Akerfelt a long list of drinks; the director only wants water. '
+ 'The original reading is shared with the director, but Nathalie reads both dramatic parts in this shortened '
+ 'French retelling. Listen for how she ignores the request for less drama.')
 OPENER = "Let's go through it. Solveig turns down coffee, tea and juice, and asks for the simplest thing there is."
 TRANSITION = 'Now listen to the whole conversation one more time.'
-OUTRO = "Nathalie can't act badly even when she tries, and you followed a whole audition in French. See you next time!"
+OUTRO = ('Nathalie tries to be unsuitable for the role by making the reading far too dramatic. You have heard a '
+ "short performance and the director's request to try again. See you next time!")
 CLOSING = ('solveig', 'Au revoir!')
-STORY = [
-    ('solveig', "Non, merci. Un verre d'eau.", 'No, thank you. A glass of water.', [(415, 'Non, merci'), (419, "Un verre d'eau")], ''),
-    ('mathias', 'Non, Nathalie, tu ne peux pas faire ça.', "No, Nathalie, you can't do that.", [(420, 'Non, Nathalie, tu ne peux pas faire ça')], ''),
-    ('nathalie', 'Bien sûr que oui.', 'Of course I can.', [(421, 'Bien sûr que oui')], ''),
-    ('mathias', 'Tu ne sais même pas comment faire.', "You don't even know how to do it.", [(422, 'même pas comment faire')], ''),
-    ('nathalie', "Qu'est-ce que tu en sais, Mathias?", 'What do you know about it, Mathias?', [(423, "Qu'est-ce que tu en sais, Mathias")], ''),
-    ('nathalie', "C'est très poétique. Je suis très émue.", "It's very poetic. I'm very moved.", [(424, "C'est très poétique"), (424, 'émue')], ''),
-    ('nathalie', "Bon, j'y vais.", 'Right, here I go.', [(425, "J'y vais")], ''),
-    ('nathalie', "Mais c'est toi qui veux partir.", "But you're the one who wants to leave.", [(426, "Mais c'est toi qui veux partir")], ''),
-    ('nathalie', 'Pars, alors! Pars!', 'Go, then! Go!', [(428, 'Pars, alors ! Pars')], ''),
-    ('nathalie', 'Je ne suis pas surprise.', "I'm not surprised.", [(430, 'je ne suis pas surprise')], ''),
-    ('nathalie', 'Tu as toujours aimé le vent.', "You've always loved the wind.", [(432, 'Tu as toujours aimé le vent')], ''),
-    ('solveig', 'Tu peux réessayer, sans tant de tragédie?', 'Can you try again, without so much tragedy?', [(437, 'réessayer, sans tant de tragédie')], ''),
-    ('solveig', 'Quelque chose de plus neutre.', 'Something more neutral.', [(438, 'Quelque chose de plus neutre')], ''),
-    ('nathalie', "Si c'est ce que tu veux.", "If that's what you want.", [(442, "Si c'est ce que tu veux")], ''),
-    ('nathalie', 'Depuis que tu es petite, je le savais.', 'Since you were little, I knew it.', [(444, 'Depuis que tu es petite')], ''),
-    ('nathalie', "C'est plus neutre?", 'Is that more neutral?', [(445, "C'est plus neutre")], ''),
-]
+STORY = [('solveig',
+  "Non, merci. Un verre d'eau.",
+  'No, thank you. A glass of water.',
+  [(415, 'Non, merci'), (419, "Un verre d'eau")],
+  ''),
+ ('mathias',
+  'Non, Nathalie, tu ne peux pas faire ça.',
+  "No, Nathalie, you can't do that.",
+  [(420, 'Non, Nathalie, tu ne peux pas faire ça')],
+  ''),
+ ('nathalie', 'Bien sûr que oui.', 'Of course I can.', [(421, 'Bien sûr que oui')], ''),
+ ('mathias',
+  'Tu ne sais même pas comment faire.',
+  "You don't even know how to do it.",
+  [(422, 'même pas comment faire')],
+  ''),
+ ('nathalie',
+  "Qu'est-ce que tu en sais, Mathias?",
+  'What do you know about it, Mathias?',
+  [(423, "Qu'est-ce que tu en sais, Mathias")],
+  ''),
+ ('nathalie',
+  "C'est très poétique. Je suis très émue.",
+  "It's very poetic. I'm very moved.",
+  [(424, "C'est très poétique"), (424, 'émue')],
+  ''),
+ ('nathalie', "Bon, j'y vais.", 'Right, here I go.', [(425, "J'y vais")], ''),
+ ('nathalie',
+  "Mais c'est toi qui veux partir.",
+  "But you're the one who wants to leave.",
+  [(426, "Mais c'est toi qui veux partir")],
+  'The director reads this side of the dramatic script in the source. Nathalie reads both parts in this '
+  "shortened lesson; the director's instructions retain her own voice."),
+ ('nathalie', 'Pars, alors! Pars!', 'Go, then! Go!', [(428, 'Pars, alors ! Pars')], ''),
+ ('nathalie',
+  'Je ne suis pas surprise.',
+  "I'm not surprised.",
+  [(430, 'je ne suis pas surprise')],
+  'The director reads this side of the dramatic script in the source. Nathalie reads both parts in this '
+  "shortened lesson; the director's instructions retain her own voice."),
+ ('nathalie',
+  'Tu as toujours aimé le vent.',
+  "You've always loved the wind.",
+  [(432, 'Tu as toujours aimé le vent')],
+  ''),
+ ('solveig',
+  'Tu peux réessayer, sans tant de tragédie?',
+  'Can you try again, without so much tragedy?',
+  [(437, 'réessayer, sans tant de tragédie')],
+  ''),
+ ('solveig',
+  'Quelque chose de plus neutre.',
+  'Something more neutral.',
+  [(438, 'Quelque chose de plus neutre')],
+  ''),
+ ('nathalie', "Si c'est ce que tu veux.", "If that's what you want.", [(442, "Si c'est ce que tu veux")], ''),
+ ('nathalie',
+  'Depuis que tu es petite, je le savais.',
+  'Since you were little, I knew it.',
+  [(444, 'Depuis que tu es petite')],
+  ''),
+ ('nathalie', "C'est plus neutre?", 'Is that more neutral?', [(445, "C'est plus neutre")], '')]
 WALK = [(0,
   None,
   "'No, thank you. A glass of water.' The little word in the middle means 'of', just like a glass of water "
