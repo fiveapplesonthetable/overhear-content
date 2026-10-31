@@ -20,8 +20,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Noémie | C'est bon, il est parti. | It's fine, he's gone. | #193 00:11:33: C'est bon, il est parti | verbatim |
 | 9 | Mathias | N'oublie pas les fleurs pour Marie-Sophie Garnier. | Don't forget the flowers for Marie-Sophie Garnier. | #194 00:11:39: N'oublie pas les fleurs pour Marie-Sophie Garnier | verbatim |
 | 10 | Noémie | Bien sûr. Interflora, s'il vous plaît. | Of course. Interflora, please. | #195 00:11:42: Bien sûr<br>#202 00:12:00: Interflora, s'il vous plaît | verbatim |
-| 11 | Camille | C'est vrai qu'ils vont tuer Ryan? | Is it true that they're going to kill off Ryan? | #196 00:11:43: C'est vrai qu'ils vont tuer Ryan | verbatim |
-| 12 | Noémie | Ce n'est pas possible! | That's not possible! | #197 00:11:46: Pas possible | adapted: Hervé's surprised reaction is assigned to Noémie to keep three lesson roles. |
+| 11 | Camille | C'est vrai qu'ils vont tuer Ryan? | Is it true that they're going to kill off Ryan? | #196 00:11:43: C'est vrai qu'ils vont tuer Ryan | adapted: Primary video: Hervé asks this question. It is folded into Camille's role to keep three lesson voices. |
+| 12 | Noémie | Ce n'est pas possible! | That's not possible! | #197 00:11:46: Pas possible | adapted: Primary video confirms Noémie gives the surprised reply. |
 | 13 | Camille | Ma mère va être très triste. | My mother is going to be very sad. | #198 00:11:47: Ma mère va être | verbatim |
 | 14 | Camille | Elle regarde la série tous les jours! | She watches the series every day! | #198 00:11:47: Elle regarde<br>#198 00:11:47: tous les jours | verbatim |
 | 15 | Camille | Si je lui dis ça, elle va organiser des manifestations! | If I tell her that, she's going to organise protests! | #199 00:11:51: Si je lui dis, elle va organiser des | verbatim |

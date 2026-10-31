@@ -7,32 +7,32 @@ SCENE = 15
 TITLE = "Tu es un animal, Didier  (You're an Animal, Didier)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'costumiere': 'Costumière', 'gabriel': 'Gabriel', 'joey': 'JoeyStarr'}
+LABELS = {'andrea': 'Andréa', 'joey': 'JoeyStarr'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = ('Gabriel tries to reassure JoeyStarr before the love scene. The actor worries about his body and about the '
- 'historical setting, so the agent encourages him to trust his instincts. Listen to the French first and '
+INTRO = ('Andrea tries to reassure JoeyStarr before the love scene. The actor worries about his body and about the '
+ 'historical setting, so his agent encourages him to trust his instincts. Listen to the French first and '
  'follow how the encouragement becomes a little too intense.')
-OPENER = "A comment about how the costume will look brings out the actor's insecurity."
+OPENER = "Andrea comments on the costume, bringing out the actor's insecurity."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ("Gabriel's encouragement works its way from clothes to animal instinct, then becomes too much for his "
+OUTRO = ("Andrea's encouragement works its way from clothes to animal instinct, then becomes too much for her "
  'client. Listen again for gaining weight, feeling a certain way and telling someone to stop. See you next '
  'time.')
 CLOSING = ('joey', 'Au revoir!')
-STORY = [('costumiere', "Ça t'ira très bien.", 'That will suit you very well.', [(265, "Ça t'ira très bien")], ''),
+STORY = [('andrea', "Ça t'ira très bien.", 'That will suit you very well.', [(265, "Ça t'ira très bien")], ''),
  ('joey', "J'ai pris du poids.", 'I have put on weight.', [(265, "J'ai pris du poids")], ''),
- ('gabriel',
+ ('andrea',
   'Pas du tout. Tu es un beau gosse, bébé!',
   'Not at all. You are a handsome guy, baby!',
   [(266, 'Pas du tout'), (266, 'un beau gosse, bébé')],
   ''),
  ('joey', 'Ça va être gênant.', 'It is going to be embarrassing.', [(267, 'Ça va être gênant')], ''),
- ('gabriel',
+ ('andrea',
   'Tu es capable de faire cette scène, champion!',
   'You are capable of doing this scene, champ!',
   [(268, 'capable de faire cette scène'), (269, 'champion')],
   ''),
- ('gabriel',
+ ('andrea',
   "Toute la puissance d'un lion!",
   'All the power of a lion!',
   [(270, "Toute la puissance d'un lion")],
@@ -42,7 +42,7 @@ STORY = [('costumiere', "Ça t'ira très bien.", 'That will suit you very well.'
   'I feel more like a shy little cat.',
   [(271, 'Je me sens plutôt comme')],
   ''),
- ('gabriel',
+ ('andrea',
   'Arrête. Tu as fait beaucoup de scènes comme ça.',
   'Stop. You have done lots of scenes like that.',
   [(272, 'Arrête'), (272, 'des scènes comme ça')],
@@ -57,13 +57,13 @@ STORY = [('costumiere', "Ça t'ira très bien.", 'That will suit you very well.'
   'I did some research, I did not find anything.',
   [(275, "J'ai fait des recherches"), (275, 'rien trouvé')],
   ''),
- ('gabriel',
+ ('andrea',
   'Oublie tout ça. Fais juste ce qui vient naturellement.',
   'Forget all that. Just do what comes naturally.',
   [(277, 'Oublie tout ça. Fais juste ce qui vient naturellement')],
   ''),
- ('gabriel', 'Tu es un animal, Didier.', 'You are an animal, Didier.', [(278, 'un animal, Didier')], ''),
- ('gabriel',
+ ('andrea', 'Tu es un animal, Didier.', 'You are an animal, Didier.', [(278, 'un animal, Didier')], ''),
+ ('andrea',
   "C'est attirant. Même pour moi.",
   'It is attractive. Even to me.',
   [(280, "C'est attirant"), (281, 'Même pour moi')],
@@ -96,11 +96,11 @@ WALK = [(0,
  (5,
   None,
   "'All the power of a lion!' All is written in the feminine form because it describes power. Of a lion adds "
-  'the image he wants his client to imagine.'),
+  'the image he wants her client to imagine.'),
  (6,
   None,
   "'I feel more like a shy little cat.' The expression for feel includes a small word meaning myself. Rather "
-  'makes his quiet image an alternative to the powerful lion Gabriel proposed.'),
+  'makes his quiet image an alternative to the powerful lion Andrea proposed.'),
  (7,
   None,
   "'Stop. You have done lots of scenes like that.' The past action done is followed by a quantity of scenes. "

@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Sofia | J'ai une scène avec JoeyStarr! | I have a scene with JoeyStarr! | #68 00:04:53: J'ai une scène avec JoeyStarr. | verbatim |
 | 2 | Sofia | J'ai deux répliques, mais elles sont assez longues. | I have two lines, but they're quite long. | #69 00:04:57: répliques<br>#70 00:04:58: Deux, mais elles sont assez longues. | verbatim |
-| 3 | L'assistant | Julie attend. On est déjà en retard. | Julie is waiting. We're already late. | #74 00:05:08: Julie attend. On est déjà en retard. | verbatim |
+| 3 | L'assistante plateau | Julie attend. On est déjà en retard. | Julie is waiting. We're already late. | #74 00:05:08: Julie attend. On est déjà en retard. | verbatim |
 | 4 | JoeyStarr | Elle peut attendre. | She can wait. | #75 00:05:11: Elle peut attendre. | verbatim |
 | 5 | JoeyStarr | Salut! Tu fais quoi? | Hi! What are you doing? | #77 00:05:18: Salut.<br>#78 00:05:21: Tu fais quoi ? | verbatim |
 | 6 | Sofia | Salut! Je joue une servante, comme toi. | Hi! I'm playing a servant, like you. | #77 00:05:18: Salut.<br>#79 00:05:23: je joue une servante, comme toi. | verbatim |
@@ -20,7 +20,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Sofia | Si, c'est ça! | Yes, that's right! | #80 00:05:27: Si, c'est ça ! | verbatim |
 | 9 | JoeyStarr | Tu as le trac? | Have you got stage fright? | #81 00:05:30: le trac ? | verbatim |
 | 10 | Sofia | Non. Enfin, oui, beaucoup! | No. Well, yes, a lot! | #81 00:05:30: Non. Enfin | verbatim |
-| 11 | L'assistant | Joey, Julie s'énerve. Elle va quitter le plateau! | Joey, Julie is getting angry. She's going to walk off the set! | #83 00:05:37: Joey, Julie s'énerve. Elle va quitter le plateau. | verbatim |
+| 11 | L'assistante plateau | Joey, Julie s'énerve. Elle va quitter le plateau! | Joey, Julie is getting angry. She's going to walk off the set! | #83 00:05:37: Joey, Julie s'énerve. Elle va quitter le plateau. | verbatim |
 | 12 | JoeyStarr | Dis-moi tes répliques. | Tell me your lines. | #84 00:05:41: Dis-moi tes répliques. | verbatim |
 | 13 | Sofia | Vraiment? D'accord. | Really? Okay. | #85 00:05:44: Vraiment ? | verbatim |
 | 14 | Sofia | Baissez les yeux devant la duchesse! | Lower your eyes before the duchess! | #86 00:05:51: Baissez les yeux devant la duchesse ! | verbatim |

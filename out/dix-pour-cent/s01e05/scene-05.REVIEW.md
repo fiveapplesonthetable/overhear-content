@@ -17,9 +17,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Julie | Je ne peux pas jouer comme ça! | I can't act like this! | #95 00:06:30: Je ne peux pas jouer comme ça ! | verbatim |
 | 6 | Samir | Bon, on arrête. | Okay, let's stop. | #96 00:06:31: Bon, on arrête. | verbatim |
 | 7 | JoeyStarr | Mais qu'est-ce qu'elle fait encore? | But what is she doing now? | #97 00:06:34: Mais qu'est-ce qu'elle<br>#97 00:06:34: encore ? | verbatim |
-| 8 | Samir | Elle est dans sa loge. Elle refuse de sortir. | She's in her dressing room. She refuses to come out. | #98 00:06:36: Elle refuse de sortir. | verbatim |
+| 8 | Samir | Elle est dans sa loge. Elle refuse de sortir. | She's in her dressing room. She refuses to come out. | #98 00:06:36: Elle refuse de sortir. | adapted: The crew report is folded into the director's role to retain three voices. |
 | 9 | JoeyStarr | Quoi? Poussez-vous! Ouvre la porte, Julie! | What? Out of the way! Open the door, Julie! | #98 00:06:36: Quoi ?<br>#99 00:06:39: Poussez-vous ! | verbatim |
-| 10 | Samir | Didier, arrête! Voilà les agents. | Didier, stop! Here are the agents. | #100 00:06:46: Didier ! | verbatim |
+| 10 | Samir | Didier, arrête! Voilà les agents. | Didier, stop! Here are the agents. | #100 00:06:46: Didier ! | adapted: The brief crew warning is voiced by the director in the three-role lesson. |
 | 11 | JoeyStarr | Elle m'énerve! Elle vit encore au dix-huitième siècle! | She gets on my nerves! She still lives in the eighteenth century! | #101 00:06:50: Elle<br>#101 00:06:50: encore au<br>#101 00:06:50: siècle. | verbatim |
 | 12 | JoeyStarr | Elle est trop sérieuse! Elle a grandi dans un couvent! | She's too serious! She grew up in a convent! | #102 00:06:54: Elle est<br>#102 00:06:54: elle a grandi dans un couvent. | verbatim |
 | 13 | Julie | Il doit s'excuser d'abord! | He must apologise first! | #103 00:06:58: il | verbatim |

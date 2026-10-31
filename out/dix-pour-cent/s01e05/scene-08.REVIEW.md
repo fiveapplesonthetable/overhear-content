@@ -24,7 +24,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Sofia | Je peux avoir des invitations? Oui, il dit oui! | Can I have invitations? Yes, he says yes! | #152 00:09:17: Je peux avoir des invitations<br>#153 00:09:18: Oui, il dit oui | verbatim |
 | 13 | Gabriel | Je vous laisse vous concentrer. | I'll leave you to concentrate. | #154 00:09:20: Je vous laisse vous concentrer | verbatim |
 | 14 | Sofia | Il y a des chevaux et tout! | There are horses and everything! | #155 00:09:22: Il y a des chevaux et tout | verbatim |
-| 15 | Andréa | Tiens, chérie. Ça va te faire du bien. Viens là. | Here, darling. This will do you good. Come here. | #156 00:09:26: Tiens, chérie. Ça va te<br>#157 00:09:33: Viens là | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +41,3 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Can I have invitations? Yes, he says yes!' The first question asks for permission to have invitations. In the next sentence, the small word for he makes Gabriel the person she claims has agreed.
 - 'I'll leave you to concentrate.' The first you is the person he is leaving; the second belongs with concentrate. Repeating it gives the French reflexive pattern for focusing oneself.
 - 'There are horses and everything!' The phrase for there are uses a singular helper even with plural horses. The ending and everything is an informal way of adding more impressive details.
-- 'Here, darling. This will do you good. Come here.' The first word offers something to the listener. Doing someone good uses the little word for you before do, marking who should feel better.

@@ -7,18 +7,18 @@ SCENE = 6
 TITLE = 'Ça peut te valoir un César  (That Could Win You a César)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'joey': 'JoeyStarr', 'julie': 'Julie'}
+LABELS = {'gabriel': 'Gabriel', 'joey': 'JoeyStarr', 'julie': 'Julie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = ("Andrea talks to Julie in her dressing room while JoeyStarr complains outside. Andrea appeals to the film's "
- "artistic rewards; JoeyStarr mocks Julie's grand manner and musical interests. Listen to the French first, "
- 'and notice how each speaker tries to make a point.')
-OPENER = 'Julie first explains why she refuses to return. Andrea tries to turn her thoughts back to her career.'
+INTRO = ("Gabriel talks to Julie in her dressing room while Andrea hears JoeyStarr's complaints outside. Gabriel "
+ "appeals to the film's possible rewards; JoeyStarr mocks Julie's grand manner and musical interests. Listen "
+ 'to the French first, and notice how each speaker tries to make a point.')
+OPENER = 'Julie explains to Gabriel why she refuses to return. He tries to turn her thoughts back to her career.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ('Andrea argues that the film is worth the effort, while JoeyStarr is still making fun of his co-star. You '
- 'have heard two useful senses of the action meaning to be worth or to earn someone a reward. See you next '
- 'time.')
-CLOSING = ('andrea', 'À demain!')
+OUTRO = ('Gabriel argues that the film is worth the effort, while JoeyStarr is still making fun of his co-star '
+ 'outside. You have heard two useful senses of the action meaning to be worth or to earn someone a reward. '
+ 'See you next time.')
+CLOSING = ('gabriel', 'À demain!')
 STORY = [('julie',
   'Je ne retourne pas sur ce plateau!',
   "I'm not going back onto that set!",
@@ -31,27 +31,27 @@ STORY = [('julie',
   [(104, 'dur pour ce rôle'), (104, "l'époque")],
   ''),
  ('julie', 'Et lui, il improvise!', 'And he just improvises!', [(105, 'et lui il improvise !')], ''),
- ('andrea',
+ ('gabriel',
   'Reste calme, Julie. Pense à ta carrière.',
   'Stay calm, Julie. Think of your career.',
   [(106, 'Reste'), (106, 'ta carrière.')],
   ''),
- ('andrea',
+ ('gabriel',
   "Un film en costumes, c'est difficile à tourner.",
   'A costume drama is difficult to shoot.',
   [(107, 'Un film en costumes'), (107, 'difficile à tourner')],
   ''),
- ('andrea',
+ ('gabriel',
   'Mais ça peut te valoir un César! Au minimum!',
   'But that could win you a César! At least!',
   [(108, 'Ça peut te valoir un César. Au minimum.')],
   ''),
- ('andrea',
+ ('gabriel',
   'Ça vaut bien un petit effort.',
   "It's well worth a little effort.",
   [(109, 'Ça vaut bien un petit effort.')],
   ''),
- ('andrea', 'Non, Julie!', 'No, Julie!', [(110, 'Non, Julie')], ''),
+ ('gabriel', 'Non, Julie!', 'No, Julie!', [(110, 'Non, Julie')], ''),
  ('joey',
   'Vous avez entendu son accent, sa façon de parler?',
   'Have you heard her accent, her way of speaking?',
@@ -106,7 +106,7 @@ WALK = [(0,
   'that a little effort is a reasonable price for that possible reward.'),
  (8,
   None,
-  "'No, Julie!' A short no followed by someone's name can protest or try to stop them. Andrea is trying to "
+  "'No, Julie!' A short no followed by someone's name can protest or try to stop them. Gabriel is trying to "
   'keep Julie in the conversation.'),
  (9,
   None,
