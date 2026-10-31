@@ -4,24 +4,24 @@ Title: Un pote dans la panade  (A Friend in Trouble)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E05
-
+The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the bilingual working subtitles, whose French track is backtranslated; source video and separate original-audio checks verify roles, plot and register.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | JoeyStarr | Allô? | Hello? | #208 00:12:34: Allô | verbatim |
-| 2 | JoeyStarr | Oui, oui. | Yes, yes. | #209 00:12:36: Ouais, ouais | adapted: Normalises the informal affirmative. |
-| 3 | JoeyStarr | D'accord, j'arrive. | Okay, I'm on my way. | #209 00:12:36: D'accord, j'arrive | verbatim |
-| 4 | JoeyStarr | Oui, tout de suite. | Yes, right away. | #210 00:12:38: tout de suite | adapted: Normalises the informal affirmative. |
-| 5 | JoeyStarr | Un pote dans la panade. | A mate in trouble. | #211 00:12:43: Un pote dans la panade | verbatim |
-| 6 | JoeyStarr | Je dois y aller. | I have to go. | #211 00:12:43: Je dois y aller | verbatim |
-| 7 | Julie | Oui, bien sûr. | Yes, of course. | #212 00:12:47: bien sûr | adapted: Normalises the informal affirmative. |
-| 8 | Julie | Mais je peux récupérer mon téléphone avant ton départ? | But can I get my phone back before you leave? | #213 00:12:49: Je peux récupérer mon téléphone avant | adapted: Uses a noun for departure in the learner version. |
-| 9 | Gabriel | Didier? | Didier? | #214 00:12:58: Didier | verbatim |
-| 10 | JoeyStarr | Julie! | Julie! | #215 00:13:00: Julie | verbatim |
-| 11 | JoeyStarr | Julie! | Julie! | #216 00:13:02: Julie | verbatim |
-| 12 | Gabriel | Qu'est-ce qui se passe? | What's going on? | #217 00:13:04: Qu'est-ce qui se passe | verbatim |
+| 1 | JoeyStarr | Allô? | Hello? | #208 00:12:34: Allô | adapted: Learner adaptation, not a verbatim French transcript. |
+| 2 | JoeyStarr | Oui, oui. | Yes, yes. | #209 00:12:36: Ouais, ouais | adapted: Normalises the informal affirmative. Learner adaptation, not a verbatim French transcript. |
+| 3 | JoeyStarr | D'accord, j'arrive. | Okay, I'm on my way. | #209 00:12:36: D'accord, j'arrive | adapted: Learner adaptation, not a verbatim French transcript. |
+| 4 | JoeyStarr | Oui, tout de suite. | Yes, right away. | #210 00:12:38: tout de suite | adapted: Normalises the informal affirmative. Learner adaptation, not a verbatim French transcript. |
+| 5 | JoeyStarr | Un pote dans la panade. | A mate in trouble. | #211 00:12:43: Un pote dans la panade | adapted: Learner adaptation, not a verbatim French transcript. |
+| 6 | JoeyStarr | Je dois y aller. | I have to go. | #211 00:12:43: Je dois y aller | adapted: Learner adaptation, not a verbatim French transcript. |
+| 7 | Julie | Oui, bien sûr. | Yes, of course. | #212 00:12:47: bien sûr | adapted: Normalises the informal affirmative. Learner adaptation, not a verbatim French transcript. |
+| 8 | Julie | Mais je peux récupérer mon téléphone avant ton départ? | But can I get my phone back before you leave? | #213 00:12:49: Je peux récupérer mon téléphone avant | adapted: Uses a noun for departure in the learner version. Learner adaptation, not a verbatim French transcript. |
+| 9 | Gabriel | Didier? | Didier? | #214 00:12:58: Didier | adapted: Learner adaptation, not a verbatim French transcript. |
+| 10 | JoeyStarr | Julie! | Julie! | #215 00:13:00: Julie | adapted: Learner adaptation, not a verbatim French transcript. |
+| 11 | JoeyStarr | Julie! | Julie! | #216 00:13:02: Julie | adapted: Learner adaptation, not a verbatim French transcript. |
+| 12 | Gabriel | Qu'est-ce qui se passe? | What's going on? | #217 00:13:04: Qu'est-ce qui se passe | adapted: Learner adaptation, not a verbatim French transcript. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

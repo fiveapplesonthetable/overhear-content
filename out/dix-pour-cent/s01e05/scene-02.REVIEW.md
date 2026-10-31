@@ -4,26 +4,26 @@ Title: C'est la femme des impôts?  (Is That the Tax Woman?)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E05
-
+The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the bilingual working subtitles, whose French track is backtranslated; source video and separate original-audio checks verify roles, plot and register.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Andréa | Viens là. | Come here. | #23 00:02:32: Viens là | verbatim |
-| 2 | Colette | Je vais prendre une douche. | I'm going to take a shower. | #24 00:02:33: Je vais prendre une douche | verbatim |
-| 3 | Andréa | Voilà. De rien! | There you go. You're welcome! | #25 00:02:38: Voilà<br>#25 00:02:38: De rien | adapted: Primary-video check: Andrea brings breakfast and says this to Colette. |
-| 4 | Colette | Je vais vraiment être en retard. | I'm really going to be late. | #26 00:02:43: je vais vraiment<br>#26 00:02:43: être en retard | verbatim |
-| 5 | Andréa | Moi aussi. | Me too. | #27 00:02:45: moi aussi | verbatim |
-| 6 | Gabriel | Tu étais où? Tu ne répondais pas au téléphone. | Where were you? You weren't answering your phone. | #28 00:02:51: étais où<br>#29 00:02:53: Tu ne répondais pas au téléphone | verbatim |
-| 7 | Gabriel | Il y a eu un drame sur le tournage! | There was a crisis on the film shoot! | #30 00:02:55: Il y a eu un<br>#30 00:02:55: sur le tournage | verbatim |
-| 8 | Andréa | Désolée. J'étais avec une fille. | Sorry. I was with a girl. | #30 00:02:55: Désolé<br>#31 00:02:58: J'étais avec une<br>#31 00:02:58: fille | verbatim |
-| 9 | Gabriel | Tu aurais quand même pu répondre. | You still could have answered. | #32 00:03:00: aurais quand même pu répondre | verbatim |
-| 10 | Gabriel | C'est la femme des impôts? | Is that the tax woman? | #33 00:03:08: C'est la femme des impôts ? | verbatim |
-| 11 | Andréa | Non. | No. | #35 00:03:13: Non | verbatim |
-| 12 | Gabriel | Incroyable! Et si c'est ta voisine? | Incredible! What if she's your neighbour? | #35 00:03:13: Incroyable<br>#36 00:03:15: Si c'est ta voisine | verbatim |
-| 13 | Gabriel | C'est effrayant! | That's scary! | #36 00:03:15: Flippant<br>#37 00:03:19: Flippant | verbatim |
-| 14 | Colette | Tu me manques déjà. | I miss you already. | #38 00:03:23: Tu me manques déjà | adapted: A short on-screen message read aloud for the lesson. |
+| 1 | Andréa | Viens là. | Come here. | #23 00:02:32: Viens là | adapted: Learner adaptation, not a verbatim French transcript. |
+| 2 | Colette | Je vais prendre une douche. | I'm going to take a shower. | #24 00:02:33: Je vais prendre une douche | adapted: Learner adaptation, not a verbatim French transcript. |
+| 3 | Andréa | Voilà. De rien! | There you go. You're welcome! | #25 00:02:38: Voilà<br>#25 00:02:38: De rien | adapted: Primary-video check: Andrea brings breakfast and says this to Colette. Learner adaptation, not a verbatim French transcript. |
+| 4 | Colette | Je vais vraiment être en retard. | I'm really going to be late. | #26 00:02:43: je vais vraiment<br>#26 00:02:43: être en retard | adapted: Learner adaptation, not a verbatim French transcript. |
+| 5 | Andréa | Moi aussi. | Me too. | #27 00:02:45: moi aussi | adapted: Learner adaptation, not a verbatim French transcript. |
+| 6 | Gabriel | Tu étais où? Tu ne répondais pas au téléphone. | Where were you? You weren't answering your phone. | #28 00:02:51: étais où<br>#29 00:02:53: Tu ne répondais pas au téléphone | adapted: Learner adaptation, not a verbatim French transcript. |
+| 7 | Gabriel | Il y a eu un drame sur le tournage! | There was a crisis on the film shoot! | #30 00:02:55: Il y a eu un<br>#30 00:02:55: sur le tournage | adapted: Learner adaptation, not a verbatim French transcript. |
+| 8 | Andréa | Désolée. J'étais avec une fille. | Sorry. I was with a girl. | #30 00:02:55: Désolé<br>#31 00:02:58: J'étais avec une<br>#31 00:02:58: fille | adapted: Learner adaptation, not a verbatim French transcript. |
+| 9 | Gabriel | Tu aurais quand même pu répondre. | You still could have answered. | #32 00:03:00: aurais quand même pu répondre | adapted: Learner adaptation, not a verbatim French transcript. |
+| 10 | Gabriel | C'est la femme des impôts? | Is that the tax woman? | #33 00:03:08: C'est la femme des impôts ? | adapted: Learner adaptation, not a verbatim French transcript. |
+| 11 | Andréa | Non. | No. | #35 00:03:13: Non | adapted: Learner adaptation, not a verbatim French transcript. |
+| 12 | Gabriel | Incroyable! Et si c'est ta voisine? | Incredible! What if she's your neighbour? | #35 00:03:13: Incroyable<br>#36 00:03:15: Si c'est ta voisine | adapted: Learner adaptation, not a verbatim French transcript. |
+| 13 | Gabriel | C'est effrayant! | That's scary! | #36 00:03:15: Flippant<br>#37 00:03:19: Flippant | adapted: Learner adaptation, not a verbatim French transcript. |
+| 14 | Colette | Tu me manques déjà. | I miss you already. | #38 00:03:23: Tu me manques déjà | adapted: A short on-screen message read aloud for the lesson. Learner adaptation, not a verbatim French transcript. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
