@@ -4,45 +4,7 @@
  "lines": [
   {
    "seg": 1,
-   "trans": "I really like you!",
-   "words": [
-    {
-     "t": "Tu",
-     "lemma": "tu",
-     "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
-    },
-    {
-     "t": "me",
-     "lemma": "me",
-     "pos": "pron",
-     "stress": "mə",
-     "gloss": "to me",
-     "gram": "indirect object; tu me plais, I like you"
-    },
-    {
-     "t": "plais",
-     "lemma": "plaire",
-     "pos": "verb",
-     "stress": "plɛ",
-     "gloss": "please",
-     "gram": "present, 2nd person singular"
-    },
-    {
-     "t": "vraiment!",
-     "lemma": "vraiment",
-     "pos": "adv",
-     "stress": "vʁɛmɑ̃",
-     "gloss": "really",
-     "gram": "invariable adverb ('vraiment', meaning 'really')"
-    }
-   ]
-  },
-  {
-   "seg": 2,
-   "trans": "No, someone's going to come in!",
+   "trans": "No, what if someone comes in…",
    "words": [
     {
      "t": "Non,",
@@ -50,7 +12,15 @@
      "pos": "adv",
      "stress": "nɔ̃",
      "gloss": "no",
-     "gram": "negative answer"
+     "gram": "refuses the advance"
+    },
+    {
+     "t": "si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "if",
+     "gram": "introduces a possible interruption"
     },
     {
      "t": "quelqu'un",
@@ -58,7 +28,37 @@
      "pos": "pron",
      "stress": "kɛlkœ̃",
      "gloss": "someone",
-     "gram": "indefinite pronoun"
+     "gram": "indefinite subject"
+    },
+    {
+     "t": "entre…",
+     "lemma": "entrer",
+     "pos": "verb",
+     "stress": "ɑ̃tʁ",
+     "gloss": "comes in",
+     "gram": "third person singular present after si"
+    }
+   ]
+  },
+  {
+   "seg": 2,
+   "trans": "Nobody's going to come in.",
+   "words": [
+    {
+     "t": "Personne",
+     "lemma": "personne",
+     "pos": "pron",
+     "stress": "pɛʁsɔn",
+     "gloss": "nobody",
+     "gram": "negative subject pronoun"
+    },
+    {
+     "t": "ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "negation, first half, before the verb"
     },
     {
      "t": "va",
@@ -66,10 +66,10 @@
      "pos": "verb",
      "stress": "va",
      "gloss": "is going to",
-     "gram": "third person singular present with someone; near future"
+     "gram": "third person singular present with nobody; near future"
     },
     {
-     "t": "entrer!",
+     "t": "entrer.",
      "lemma": "entrer",
      "pos": "verb",
      "stress": "ɑ̃tʁe",
@@ -80,44 +80,6 @@
   },
   {
    "seg": 3,
-   "trans": "Nobody's going to come in.",
-   "words": [
-    {
-     "t": "Personne",
-     "lemma": "personne",
-     "pos": "pron",
-     "stress": "pɛʁsɔn",
-     "gloss": "nobody",
-     "gram": "negative subject pronoun"
-    },
-    {
-     "t": "ne",
-     "lemma": "ne",
-     "pos": "part",
-     "stress": "nə",
-     "gloss": "not",
-     "gram": "negation, first half, before the verb"
-    },
-    {
-     "t": "va",
-     "lemma": "aller",
-     "pos": "verb",
-     "stress": "va",
-     "gloss": "is going to",
-     "gram": "third person singular present with nobody; near future"
-    },
-    {
-     "t": "entrer.",
-     "lemma": "entrer",
-     "pos": "verb",
-     "stress": "ɑ̃tʁe",
-     "gloss": "to come in",
-     "gram": "infinitive"
-    }
-   ]
-  },
-  {
-   "seg": 4,
    "trans": "Wait.",
    "words": [
     {
@@ -131,8 +93,8 @@
    ]
   },
   {
-   "seg": 5,
-   "trans": "I don't really remember.",
+   "seg": 4,
+   "trans": "I don't remember very well anymore.",
    "words": [
     {
      "t": "Je",
@@ -140,7 +102,7 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "ne",
@@ -148,7 +110,7 @@
      "pos": "part",
      "stress": "nə",
      "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "gram": "first negative element"
     },
     {
      "t": "me",
@@ -156,7 +118,7 @@
      "pos": "pron",
      "stress": "mə",
      "gloss": "(remember)",
-     "gram": "reflexive first person object, part of se souvenir"
+     "gram": "first person reflexive element in se souvenir"
     },
     {
      "t": "souviens",
@@ -164,37 +126,53 @@
      "pos": "verb",
      "stress": "suvjɛ̃",
      "gloss": "remember",
-     "gram": "present, 1st person singular"
+     "gram": "first person singular present"
     },
     {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
-    },
-    {
-     "t": "vraiment.",
-     "lemma": "vraiment",
+     "t": "plus",
+     "lemma": "plus",
      "pos": "adv",
-     "stress": "vʁɛmɑ̃",
-     "gloss": "really",
-     "gram": "invariable adverb ('vraiment', meaning 'really')"
+     "stress": "ply",
+     "gloss": "anymore",
+     "gram": "negative second element with ne"
+    },
+    {
+     "t": "très",
+     "lemma": "très",
+     "pos": "adv",
+     "stress": "tʁɛ",
+     "gloss": "very",
+     "gram": "strengthens well"
+    },
+    {
+     "t": "bien.",
+     "lemma": "bien",
+     "pos": "adv",
+     "stress": "bjɛ̃",
+     "gloss": "well",
+     "gram": "describes how clearly she remembers"
     }
    ]
   },
   {
-   "seg": 6,
+   "seg": 5,
    "trans": "What did we do last night?",
    "words": [
     {
-     "t": "On",
-     "lemma": "on",
+     "t": "Qu'est-ce",
+     "lemma": "qu'est-ce",
+     "pos": "phrase",
+     "stress": "kɛs",
+     "gloss": "what (question opening)",
+     "gram": "question opening followed by que"
+    },
+    {
+     "t": "qu'on",
+     "lemma": "que",
      "pos": "pron",
-     "stress": "ɔ̃",
-     "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+     "stress": "kɔ̃",
+     "gloss": "what (we)",
+     "gram": "question object link que plus subject on, everyday we"
     },
     {
      "t": "a",
@@ -202,7 +180,7 @@
      "pos": "verb",
      "stress": "a",
      "gloss": "have",
-     "gram": "third person singular present past helper with on, we"
+     "gram": "third person singular present helper with on"
     },
     {
      "t": "fait",
@@ -210,15 +188,7 @@
      "pos": "verb",
      "stress": "fɛ",
      "gloss": "done",
-     "gram": "past participle of faire with a"
-    },
-    {
-     "t": "quoi",
-     "lemma": "quoi",
-     "pos": "pron",
-     "stress": "kwa",
-     "gloss": "what",
-     "gram": "interrogative pronoun, informal, after the verb"
+     "gram": "past participle of faire"
     },
     {
      "t": "hier",
@@ -226,7 +196,7 @@
      "pos": "adv",
      "stress": "jɛʁ",
      "gloss": "yesterday",
-     "gram": "adverb of time"
+     "gram": "time expression hier soir, last night"
     },
     {
      "t": "soir?",
@@ -234,12 +204,12 @@
      "pos": "noun",
      "stress": "swaʁ",
      "gloss": "evening",
-     "gram": "hier soir means last night"
+     "gram": "masculine singular in hier soir"
     }
    ]
   },
   {
-   "seg": 7,
+   "seg": 6,
    "trans": "You don't remember anything?",
    "words": [
     {
@@ -293,46 +263,22 @@
    ]
   },
   {
-   "seg": 8,
-   "trans": "No, nothing. Tell me!",
+   "seg": 7,
+   "trans": "Tell me!",
    "words": [
-    {
-     "t": "Non,",
-     "lemma": "non",
-     "pos": "adv",
-     "stress": "nɔ̃",
-     "gloss": "no",
-     "gram": "negative answer"
-    },
-    {
-     "t": "de",
-     "lemma": "de",
-     "pos": "prep",
-     "stress": "də",
-     "gloss": "(remember)",
-     "gram": "repeats de from se souvenir de rien"
-    },
-    {
-     "t": "rien.",
-     "lemma": "rien",
-     "pos": "pron",
-     "stress": "ʁjɛ̃",
-     "gloss": "nothing",
-     "gram": "negative pronoun, with ne"
-    },
     {
      "t": "Dis-moi!",
      "lemma": "dire",
      "pos": "verb",
      "stress": "dimwa",
      "gloss": "tell me",
-     "gram": "imperative, 2nd person singular + moi"
+     "gram": "familiar singular imperative plus moi"
     }
    ]
   },
   {
-   "seg": 9,
-   "trans": "We went back to my place.",
+   "seg": 8,
+   "trans": "We were at my place.",
    "words": [
     {
      "t": "On",
@@ -340,31 +286,23 @@
      "pos": "pron",
      "stress": "ɔ̃",
      "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+     "gram": "everyday we with singular verb"
     },
     {
-     "t": "est",
+     "t": "était",
      "lemma": "être",
      "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "have",
-     "gram": "être is the past helper for rentrer; third person singular with on"
-    },
-    {
-     "t": "rentrés",
-     "lemma": "rentrer",
-     "pos": "verb",
-     "stress": "ʁɑ̃tʁe",
-     "gloss": "gone back",
-     "gram": "past participle, plural agreement with on = we"
+     "stress": "etɛ",
+     "gloss": "were",
+     "gram": "third person singular imparfait setting the scene"
     },
     {
      "t": "chez",
      "lemma": "chez",
      "pos": "prep",
      "stress": "ʃe",
-     "gloss": "to (the home of)",
-     "gram": "preposition ('chez', meaning 'to')"
+     "gloss": "at the home of",
+     "gram": "location with a person"
     },
     {
      "t": "moi.",
@@ -372,12 +310,12 @@
      "pos": "pron",
      "stress": "mwa",
      "gloss": "me",
-     "gram": "stressed pronoun, 1st person singular, after a preposition"
+     "gram": "stressed first person form after chez"
     }
    ]
   },
   {
-   "seg": 10,
+   "seg": 9,
    "trans": "We kissed.",
    "words": [
     {
@@ -407,7 +345,7 @@
    ]
   },
   {
-   "seg": 11,
+   "seg": 10,
    "trans": "I carried you to my bed.",
    "words": [
     {
@@ -461,7 +399,7 @@
    ]
   },
   {
-   "seg": 12,
+   "seg": 11,
    "trans": "And then, nothing.",
    "words": [
     {
@@ -491,7 +429,7 @@
    ]
   },
   {
-   "seg": 13,
+   "seg": 12,
    "trans": "You fell asleep in two seconds.",
    "words": [
     {
@@ -545,11 +483,33 @@
    ]
   },
   {
-   "seg": 14,
+   "seg": 13,
    "trans": "Really?",
    "words": [
     {
      "t": "Vraiment?",
+     "lemma": "vraiment",
+     "pos": "adv",
+     "stress": "vʁɛmɑ̃",
+     "gloss": "really",
+     "gram": "invariable adverb ('vraiment', meaning 'really')"
+    }
+   ]
+  },
+  {
+   "seg": 14,
+   "trans": "Yes, really.",
+   "words": [
+    {
+     "t": "Oui,",
+     "lemma": "oui",
+     "pos": "adv",
+     "stress": "wi",
+     "gloss": "yes",
+     "gram": "affirmative answer"
+    },
+    {
+     "t": "vraiment.",
      "lemma": "vraiment",
      "pos": "adv",
      "stress": "vʁɛmɑ̃",
@@ -560,28 +520,6 @@
   },
   {
    "seg": 15,
-   "trans": "Yes, really.",
-   "words": [
-    {
-     "t": "Oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "affirmative answer"
-    },
-    {
-     "t": "vraiment.",
-     "lemma": "vraiment",
-     "pos": "adv",
-     "stress": "vʁɛmɑ̃",
-     "gloss": "really",
-     "gram": "invariable adverb ('vraiment', meaning 'really')"
-    }
-   ]
-  },
-  {
-   "seg": 16,
    "trans": "Thank you!",
    "words": [
     {
@@ -595,46 +533,8 @@
    ]
   },
   {
-   "seg": 18,
-   "trans": "I really like you!",
-   "words": [
-    {
-     "t": "Tu",
-     "lemma": "tu",
-     "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
-    },
-    {
-     "t": "me",
-     "lemma": "me",
-     "pos": "pron",
-     "stress": "mə",
-     "gloss": "to me",
-     "gram": "indirect object; tu me plais, I like you"
-    },
-    {
-     "t": "plais",
-     "lemma": "plaire",
-     "pos": "verb",
-     "stress": "plɛ",
-     "gloss": "please",
-     "gram": "present, 2nd person singular"
-    },
-    {
-     "t": "vraiment!",
-     "lemma": "vraiment",
-     "pos": "adv",
-     "stress": "vʁɛmɑ̃",
-     "gloss": "really",
-     "gram": "invariable adverb ('vraiment', meaning 'really')"
-    }
-   ]
-  },
-  {
-   "seg": 20,
-   "trans": "No, someone's going to come in!",
+   "seg": 17,
+   "trans": "No, what if someone comes in…",
    "words": [
     {
      "t": "Non,",
@@ -642,7 +542,15 @@
      "pos": "adv",
      "stress": "nɔ̃",
      "gloss": "no",
-     "gram": "negative answer"
+     "gram": "refuses the advance"
+    },
+    {
+     "t": "si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "if",
+     "gram": "introduces a possible interruption"
     },
     {
      "t": "quelqu'un",
@@ -650,28 +558,20 @@
      "pos": "pron",
      "stress": "kɛlkœ̃",
      "gloss": "someone",
-     "gram": "indefinite pronoun"
+     "gram": "indefinite subject"
     },
     {
-     "t": "va",
-     "lemma": "aller",
-     "pos": "verb",
-     "stress": "va",
-     "gloss": "is going to",
-     "gram": "third person singular present with someone; near future"
-    },
-    {
-     "t": "entrer!",
+     "t": "entre…",
      "lemma": "entrer",
      "pos": "verb",
-     "stress": "ɑ̃tʁe",
-     "gloss": "to come in",
-     "gram": "infinitive"
+     "stress": "ɑ̃tʁ",
+     "gloss": "comes in",
+     "gram": "third person singular present after si"
     }
    ]
   },
   {
-   "seg": 22,
+   "seg": 19,
    "trans": "Nobody's going to come in.",
    "words": [
     {
@@ -709,7 +609,7 @@
    ]
   },
   {
-   "seg": 24,
+   "seg": 21,
    "trans": "Wait.",
    "words": [
     {
@@ -723,8 +623,8 @@
    ]
   },
   {
-   "seg": 26,
-   "trans": "I don't really remember.",
+   "seg": 23,
+   "trans": "I don't remember very well anymore.",
    "words": [
     {
      "t": "Je",
@@ -732,7 +632,7 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "ne",
@@ -740,7 +640,7 @@
      "pos": "part",
      "stress": "nə",
      "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "gram": "first negative element"
     },
     {
      "t": "me",
@@ -748,7 +648,7 @@
      "pos": "pron",
      "stress": "mə",
      "gloss": "(remember)",
-     "gram": "reflexive first person object, part of se souvenir"
+     "gram": "first person reflexive element in se souvenir"
     },
     {
      "t": "souviens",
@@ -756,37 +656,53 @@
      "pos": "verb",
      "stress": "suvjɛ̃",
      "gloss": "remember",
-     "gram": "present, 1st person singular"
+     "gram": "first person singular present"
     },
     {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
-    },
-    {
-     "t": "vraiment.",
-     "lemma": "vraiment",
+     "t": "plus",
+     "lemma": "plus",
      "pos": "adv",
-     "stress": "vʁɛmɑ̃",
-     "gloss": "really",
-     "gram": "invariable adverb ('vraiment', meaning 'really')"
+     "stress": "ply",
+     "gloss": "anymore",
+     "gram": "negative second element with ne"
+    },
+    {
+     "t": "très",
+     "lemma": "très",
+     "pos": "adv",
+     "stress": "tʁɛ",
+     "gloss": "very",
+     "gram": "strengthens well"
+    },
+    {
+     "t": "bien.",
+     "lemma": "bien",
+     "pos": "adv",
+     "stress": "bjɛ̃",
+     "gloss": "well",
+     "gram": "describes how clearly she remembers"
     }
    ]
   },
   {
-   "seg": 28,
+   "seg": 25,
    "trans": "What did we do last night?",
    "words": [
     {
-     "t": "On",
-     "lemma": "on",
+     "t": "Qu'est-ce",
+     "lemma": "qu'est-ce",
+     "pos": "phrase",
+     "stress": "kɛs",
+     "gloss": "what (question opening)",
+     "gram": "question opening followed by que"
+    },
+    {
+     "t": "qu'on",
+     "lemma": "que",
      "pos": "pron",
-     "stress": "ɔ̃",
-     "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+     "stress": "kɔ̃",
+     "gloss": "what (we)",
+     "gram": "question object link que plus subject on, everyday we"
     },
     {
      "t": "a",
@@ -794,7 +710,7 @@
      "pos": "verb",
      "stress": "a",
      "gloss": "have",
-     "gram": "third person singular present past helper with on, we"
+     "gram": "third person singular present helper with on"
     },
     {
      "t": "fait",
@@ -802,15 +718,7 @@
      "pos": "verb",
      "stress": "fɛ",
      "gloss": "done",
-     "gram": "past participle of faire with a"
-    },
-    {
-     "t": "quoi",
-     "lemma": "quoi",
-     "pos": "pron",
-     "stress": "kwa",
-     "gloss": "what",
-     "gram": "interrogative pronoun, informal, after the verb"
+     "gram": "past participle of faire"
     },
     {
      "t": "hier",
@@ -818,7 +726,7 @@
      "pos": "adv",
      "stress": "jɛʁ",
      "gloss": "yesterday",
-     "gram": "adverb of time"
+     "gram": "time expression hier soir, last night"
     },
     {
      "t": "soir?",
@@ -826,12 +734,12 @@
      "pos": "noun",
      "stress": "swaʁ",
      "gloss": "evening",
-     "gram": "hier soir means last night"
+     "gram": "masculine singular in hier soir"
     }
    ]
   },
   {
-   "seg": 30,
+   "seg": 27,
    "trans": "You don't remember anything?",
    "words": [
     {
@@ -885,37 +793,7 @@
    ]
   },
   {
-   "seg": 32,
-   "trans": "No, nothing.",
-   "words": [
-    {
-     "t": "Non,",
-     "lemma": "non",
-     "pos": "adv",
-     "stress": "nɔ̃",
-     "gloss": "no",
-     "gram": "negative answer"
-    },
-    {
-     "t": "de",
-     "lemma": "de",
-     "pos": "prep",
-     "stress": "də",
-     "gloss": "(remember)",
-     "gram": "repeats de from se souvenir de rien"
-    },
-    {
-     "t": "rien.",
-     "lemma": "rien",
-     "pos": "pron",
-     "stress": "ʁjɛ̃",
-     "gloss": "nothing",
-     "gram": "negative pronoun, with ne"
-    }
-   ]
-  },
-  {
-   "seg": 34,
+   "seg": 29,
    "trans": "Tell me!",
    "words": [
     {
@@ -924,13 +802,13 @@
      "pos": "verb",
      "stress": "dimwa",
      "gloss": "tell me",
-     "gram": "imperative, 2nd person singular + moi"
+     "gram": "familiar singular imperative plus moi"
     }
    ]
   },
   {
-   "seg": 36,
-   "trans": "We went back to my place.",
+   "seg": 31,
+   "trans": "We were at my place.",
    "words": [
     {
      "t": "On",
@@ -938,31 +816,23 @@
      "pos": "pron",
      "stress": "ɔ̃",
      "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+     "gram": "everyday we with singular verb"
     },
     {
-     "t": "est",
+     "t": "était",
      "lemma": "être",
      "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "have",
-     "gram": "être is the past helper for rentrer; third person singular with on"
-    },
-    {
-     "t": "rentrés",
-     "lemma": "rentrer",
-     "pos": "verb",
-     "stress": "ʁɑ̃tʁe",
-     "gloss": "gone back",
-     "gram": "past participle, plural agreement with on = we"
+     "stress": "etɛ",
+     "gloss": "were",
+     "gram": "third person singular imparfait setting the scene"
     },
     {
      "t": "chez",
      "lemma": "chez",
      "pos": "prep",
      "stress": "ʃe",
-     "gloss": "to (the home of)",
-     "gram": "preposition ('chez', meaning 'to')"
+     "gloss": "at the home of",
+     "gram": "location with a person"
     },
     {
      "t": "moi.",
@@ -970,12 +840,12 @@
      "pos": "pron",
      "stress": "mwa",
      "gloss": "me",
-     "gram": "stressed pronoun, 1st person singular, after a preposition"
+     "gram": "stressed first person form after chez"
     }
    ]
   },
   {
-   "seg": 38,
+   "seg": 33,
    "trans": "We kissed.",
    "words": [
     {
@@ -1005,7 +875,7 @@
    ]
   },
   {
-   "seg": 40,
+   "seg": 35,
    "trans": "I carried you to my bed.",
    "words": [
     {
@@ -1059,7 +929,7 @@
    ]
   },
   {
-   "seg": 42,
+   "seg": 37,
    "trans": "And then, nothing.",
    "words": [
     {
@@ -1089,7 +959,7 @@
    ]
   },
   {
-   "seg": 44,
+   "seg": 39,
    "trans": "You fell asleep in two seconds.",
    "words": [
     {
@@ -1143,7 +1013,7 @@
    ]
   },
   {
-   "seg": 46,
+   "seg": 41,
    "trans": "Really?",
    "words": [
     {
@@ -1157,7 +1027,7 @@
    ]
   },
   {
-   "seg": 48,
+   "seg": 43,
    "trans": "Yes, really.",
    "words": [
     {
@@ -1179,7 +1049,7 @@
    ]
   },
   {
-   "seg": 50,
+   "seg": 45,
    "trans": "Thank you!",
    "words": [
     {
@@ -1193,46 +1063,8 @@
    ]
   },
   {
-   "seg": 52,
-   "trans": "I really like you!",
-   "words": [
-    {
-     "t": "Tu",
-     "lemma": "tu",
-     "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
-    },
-    {
-     "t": "me",
-     "lemma": "me",
-     "pos": "pron",
-     "stress": "mə",
-     "gloss": "to me",
-     "gram": "indirect object; tu me plais, I like you"
-    },
-    {
-     "t": "plais",
-     "lemma": "plaire",
-     "pos": "verb",
-     "stress": "plɛ",
-     "gloss": "please",
-     "gram": "present, 2nd person singular"
-    },
-    {
-     "t": "vraiment!",
-     "lemma": "vraiment",
-     "pos": "adv",
-     "stress": "vʁɛmɑ̃",
-     "gloss": "really",
-     "gram": "invariable adverb ('vraiment', meaning 'really')"
-    }
-   ]
-  },
-  {
-   "seg": 53,
-   "trans": "No, someone's going to come in!",
+   "seg": 47,
+   "trans": "No, what if someone comes in…",
    "words": [
     {
      "t": "Non,",
@@ -1240,7 +1072,15 @@
      "pos": "adv",
      "stress": "nɔ̃",
      "gloss": "no",
-     "gram": "negative answer"
+     "gram": "refuses the advance"
+    },
+    {
+     "t": "si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "if",
+     "gram": "introduces a possible interruption"
     },
     {
      "t": "quelqu'un",
@@ -1248,28 +1088,20 @@
      "pos": "pron",
      "stress": "kɛlkœ̃",
      "gloss": "someone",
-     "gram": "indefinite pronoun"
+     "gram": "indefinite subject"
     },
     {
-     "t": "va",
-     "lemma": "aller",
-     "pos": "verb",
-     "stress": "va",
-     "gloss": "is going to",
-     "gram": "third person singular present with someone; near future"
-    },
-    {
-     "t": "entrer!",
+     "t": "entre…",
      "lemma": "entrer",
      "pos": "verb",
-     "stress": "ɑ̃tʁe",
-     "gloss": "to come in",
-     "gram": "infinitive"
+     "stress": "ɑ̃tʁ",
+     "gloss": "comes in",
+     "gram": "third person singular present after si"
     }
    ]
   },
   {
-   "seg": 54,
+   "seg": 48,
    "trans": "Nobody's going to come in.",
    "words": [
     {
@@ -1307,7 +1139,7 @@
    ]
   },
   {
-   "seg": 55,
+   "seg": 49,
    "trans": "Wait.",
    "words": [
     {
@@ -1321,8 +1153,8 @@
    ]
   },
   {
-   "seg": 56,
-   "trans": "I don't really remember.",
+   "seg": 50,
+   "trans": "I don't remember very well anymore.",
    "words": [
     {
      "t": "Je",
@@ -1330,7 +1162,7 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "ne",
@@ -1338,7 +1170,7 @@
      "pos": "part",
      "stress": "nə",
      "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "gram": "first negative element"
     },
     {
      "t": "me",
@@ -1346,7 +1178,7 @@
      "pos": "pron",
      "stress": "mə",
      "gloss": "(remember)",
-     "gram": "reflexive first person object, part of se souvenir"
+     "gram": "first person reflexive element in se souvenir"
     },
     {
      "t": "souviens",
@@ -1354,37 +1186,53 @@
      "pos": "verb",
      "stress": "suvjɛ̃",
      "gloss": "remember",
-     "gram": "present, 1st person singular"
+     "gram": "first person singular present"
     },
     {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
-    },
-    {
-     "t": "vraiment.",
-     "lemma": "vraiment",
+     "t": "plus",
+     "lemma": "plus",
      "pos": "adv",
-     "stress": "vʁɛmɑ̃",
-     "gloss": "really",
-     "gram": "invariable adverb ('vraiment', meaning 'really')"
+     "stress": "ply",
+     "gloss": "anymore",
+     "gram": "negative second element with ne"
+    },
+    {
+     "t": "très",
+     "lemma": "très",
+     "pos": "adv",
+     "stress": "tʁɛ",
+     "gloss": "very",
+     "gram": "strengthens well"
+    },
+    {
+     "t": "bien.",
+     "lemma": "bien",
+     "pos": "adv",
+     "stress": "bjɛ̃",
+     "gloss": "well",
+     "gram": "describes how clearly she remembers"
     }
    ]
   },
   {
-   "seg": 57,
+   "seg": 51,
    "trans": "What did we do last night?",
    "words": [
     {
-     "t": "On",
-     "lemma": "on",
+     "t": "Qu'est-ce",
+     "lemma": "qu'est-ce",
+     "pos": "phrase",
+     "stress": "kɛs",
+     "gloss": "what (question opening)",
+     "gram": "question opening followed by que"
+    },
+    {
+     "t": "qu'on",
+     "lemma": "que",
      "pos": "pron",
-     "stress": "ɔ̃",
-     "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+     "stress": "kɔ̃",
+     "gloss": "what (we)",
+     "gram": "question object link que plus subject on, everyday we"
     },
     {
      "t": "a",
@@ -1392,7 +1240,7 @@
      "pos": "verb",
      "stress": "a",
      "gloss": "have",
-     "gram": "third person singular present past helper with on, we"
+     "gram": "third person singular present helper with on"
     },
     {
      "t": "fait",
@@ -1400,15 +1248,7 @@
      "pos": "verb",
      "stress": "fɛ",
      "gloss": "done",
-     "gram": "past participle of faire with a"
-    },
-    {
-     "t": "quoi",
-     "lemma": "quoi",
-     "pos": "pron",
-     "stress": "kwa",
-     "gloss": "what",
-     "gram": "interrogative pronoun, informal, after the verb"
+     "gram": "past participle of faire"
     },
     {
      "t": "hier",
@@ -1416,7 +1256,7 @@
      "pos": "adv",
      "stress": "jɛʁ",
      "gloss": "yesterday",
-     "gram": "adverb of time"
+     "gram": "time expression hier soir, last night"
     },
     {
      "t": "soir?",
@@ -1424,12 +1264,12 @@
      "pos": "noun",
      "stress": "swaʁ",
      "gloss": "evening",
-     "gram": "hier soir means last night"
+     "gram": "masculine singular in hier soir"
     }
    ]
   },
   {
-   "seg": 58,
+   "seg": 52,
    "trans": "You don't remember anything?",
    "words": [
     {
@@ -1483,46 +1323,22 @@
    ]
   },
   {
-   "seg": 59,
-   "trans": "No, nothing. Tell me!",
+   "seg": 53,
+   "trans": "Tell me!",
    "words": [
-    {
-     "t": "Non,",
-     "lemma": "non",
-     "pos": "adv",
-     "stress": "nɔ̃",
-     "gloss": "no",
-     "gram": "negative answer"
-    },
-    {
-     "t": "de",
-     "lemma": "de",
-     "pos": "prep",
-     "stress": "də",
-     "gloss": "(remember)",
-     "gram": "repeats de from se souvenir de rien"
-    },
-    {
-     "t": "rien.",
-     "lemma": "rien",
-     "pos": "pron",
-     "stress": "ʁjɛ̃",
-     "gloss": "nothing",
-     "gram": "negative pronoun, with ne"
-    },
     {
      "t": "Dis-moi!",
      "lemma": "dire",
      "pos": "verb",
      "stress": "dimwa",
      "gloss": "tell me",
-     "gram": "imperative, 2nd person singular + moi"
+     "gram": "familiar singular imperative plus moi"
     }
    ]
   },
   {
-   "seg": 60,
-   "trans": "We went back to my place.",
+   "seg": 54,
+   "trans": "We were at my place.",
    "words": [
     {
      "t": "On",
@@ -1530,31 +1346,23 @@
      "pos": "pron",
      "stress": "ɔ̃",
      "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+     "gram": "everyday we with singular verb"
     },
     {
-     "t": "est",
+     "t": "était",
      "lemma": "être",
      "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "have",
-     "gram": "être is the past helper for rentrer; third person singular with on"
-    },
-    {
-     "t": "rentrés",
-     "lemma": "rentrer",
-     "pos": "verb",
-     "stress": "ʁɑ̃tʁe",
-     "gloss": "gone back",
-     "gram": "past participle, plural agreement with on = we"
+     "stress": "etɛ",
+     "gloss": "were",
+     "gram": "third person singular imparfait setting the scene"
     },
     {
      "t": "chez",
      "lemma": "chez",
      "pos": "prep",
      "stress": "ʃe",
-     "gloss": "to (the home of)",
-     "gram": "preposition ('chez', meaning 'to')"
+     "gloss": "at the home of",
+     "gram": "location with a person"
     },
     {
      "t": "moi.",
@@ -1562,12 +1370,12 @@
      "pos": "pron",
      "stress": "mwa",
      "gloss": "me",
-     "gram": "stressed pronoun, 1st person singular, after a preposition"
+     "gram": "stressed first person form after chez"
     }
    ]
   },
   {
-   "seg": 61,
+   "seg": 55,
    "trans": "We kissed.",
    "words": [
     {
@@ -1597,7 +1405,7 @@
    ]
   },
   {
-   "seg": 62,
+   "seg": 56,
    "trans": "I carried you to my bed.",
    "words": [
     {
@@ -1651,7 +1459,7 @@
    ]
   },
   {
-   "seg": 63,
+   "seg": 57,
    "trans": "And then, nothing.",
    "words": [
     {
@@ -1681,7 +1489,7 @@
    ]
   },
   {
-   "seg": 64,
+   "seg": 58,
    "trans": "You fell asleep in two seconds.",
    "words": [
     {
@@ -1735,7 +1543,7 @@
    ]
   },
   {
-   "seg": 65,
+   "seg": 59,
    "trans": "Really?",
    "words": [
     {
@@ -1749,7 +1557,7 @@
    ]
   },
   {
-   "seg": 66,
+   "seg": 60,
    "trans": "Yes, really.",
    "words": [
     {
@@ -1771,7 +1579,7 @@
    ]
   },
   {
-   "seg": 67,
+   "seg": 61,
    "trans": "Thank you!",
    "words": [
     {
@@ -1785,7 +1593,7 @@
    ]
   },
   {
-   "seg": 69,
+   "seg": 63,
    "trans": "Phew! See you later!",
    "words": [
     {
@@ -3788,40 +3596,6 @@
     }
    ]
   },
-  "pas": {
-   "lemma": "pas",
-   "stress": "pa",
-   "pos": "part",
-   "gloss": "not",
-   "meanings": [
-    {
-     "en": "not",
-     "note": "second half of ne... pas; in speech ne is often dropped"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Je ne suis pas actrice.",
-     "trans": "I'm not an actress."
-    },
-    {
-     "text": "Pas maintenant.",
-     "trans": "Not now."
-    },
-    {
-     "text": "Tarantino ne prendra pas Cécile. Problème d'âge.",
-     "trans": "Tarantino won't take Cécile. A problem with her age."
-    }
-   ],
-   "related": [
-    {
-     "word": "pas",
-     "gloss": "not"
-    }
-   ]
-  },
   "personne": {
    "lemma": "personne",
    "stress": "pɛʁsɔn",
@@ -3871,176 +3645,6 @@
     }
    ],
    "related": []
-  },
-  "plaire": {
-   "lemma": "plaire",
-   "stress": "plɛʁ",
-   "pos": "verb",
-   "gloss": "to please",
-   "meanings": [
-    {
-     "en": "to please, to be liked by",
-     "note": "Ça me plaît = I like it. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to please'."
-    },
-    {
-     "en": "s'il vous plaît / s'il te plaît = please",
-     "note": "Formal / informal. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to please'."
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je plais",
-       "nous plaisons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu plais",
-       "vous plaisez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle plaît",
-       "ils/elles plaisent"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Passé composé",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai plu",
-        "nous avons plu"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as plu",
-        "vous avez plu"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a plu",
-        "ils/elles ont plu"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imparfait",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je plaisais",
-        "nous plaisions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu plaisais",
-        "vous plaisiez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle plaisait",
-        "ils/elles plaisaient"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Futur",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je plairai",
-        "nous plairons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu plairas",
-        "vous plairez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle plaira",
-        "ils/elles plairont"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Un café, s'il vous plaît.",
-     "trans": "A coffee, please."
-    },
-    {
-     "text": "Paris me plaît beaucoup.",
-     "trans": "I like Paris a lot."
-    },
-    {
-     "text": "S'il vous plaît. Il n'y a rien entre Mathias et moi, d'accord?",
-     "trans": "Please. There's nothing between Mathias and me, okay?"
-    }
-   ],
-   "related": [
-    {
-     "word": "plaisanter",
-     "gloss": "to joke"
-    },
-    {
-     "word": "plaisir",
-     "gloss": "pleasure"
-    },
-    {
-     "word": "plaisanterie",
-     "gloss": "joke"
-    }
-   ]
   },
   "plus": {
    "lemma": "plus",
@@ -4277,192 +3881,6 @@
      "gloss": "what"
     }
    ]
-  },
-  "quoi": {
-   "lemma": "quoi",
-   "stress": "kwa",
-   "pos": "pron",
-   "gloss": "what",
-   "meanings": [
-    {
-     "en": "what",
-     "note": "Interrogative what, especially in informal questions and after a preposition."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Quoi, tu n'as pas encore lu le nouveau scénario?",
-     "trans": "What, you haven't read the new script yet?"
-    },
-    {
-     "text": "De quoi est-ce que vous parlez tous les deux?",
-     "trans": "What are the two of you talking about?"
-    },
-    {
-     "text": "C'est quoi le rôle?",
-     "trans": "What's the part?"
-    }
-   ],
-   "related": []
-  },
-  "rentrer": {
-   "lemma": "rentrer",
-   "stress": "ʁɑ̃tʁe",
-   "pos": "verb",
-   "gloss": "to go home, to come back",
-   "meanings": [
-    {
-     "en": "to go home, to get back",
-     "note": "Go home or return inside; this use takes être in the past."
-    },
-    {
-     "en": "to go in, to come in",
-     "note": "Bring something inside as a direct object; this use takes avoir."
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je rentre",
-       "nous rentrons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu rentres",
-       "vous rentrez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il rentre",
-       "ils rentrent"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Passé composé",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je suis rentré(e)",
-        "nous sommes rentrés"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu es rentré(e)",
-        "vous êtes rentré(s)"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il est rentré",
-        "ils sont rentrés"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imparfait",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je rentrais",
-        "nous rentrions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu rentrais",
-        "vous rentriez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il rentrait",
-        "ils rentraient"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Futur",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je rentrerai",
-        "nous rentrerons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu rentreras",
-        "vous rentrerez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il rentrera",
-        "ils rentreront"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "On est rentrés chez moi.",
-     "trans": "We went back to my place."
-    },
-    {
-     "text": "Je rentre à huit heures.",
-     "trans": "I get home at eight."
-    },
-    {
-     "text": "Non, je rentre chez moi.",
-     "trans": "No, I'm going home."
-    }
-   ],
-   "related": []
   },
   "rien": {
    "lemma": "rien",
@@ -5263,6 +4681,179 @@
     {
      "word": "peut-être",
      "gloss": "maybe, perhaps"
+    }
+   ]
+  },
+  "si": {
+   "lemma": "si",
+   "stress": "si",
+   "pos": "conj",
+   "gloss": "if; yes (to a negative)",
+   "meanings": [
+    {
+     "en": "if",
+     "note": "Si tu veux = if you want."
+    },
+    {
+     "en": "yes",
+     "note": "answering a negative question: Aucune nouvelle? - Si!"
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Si tu veux, on peut en parler demain matin.",
+     "trans": "If you want, we can talk about it tomorrow morning."
+    },
+    {
+     "text": "Dis-moi tout de suite si le rôle t'intéresse.",
+     "trans": "Tell me right away if the role interests you."
+    }
+   ],
+   "related": [
+    {
+     "word": "si tu veux",
+     "gloss": "if you want"
+    }
+   ]
+  },
+  "très": {
+   "lemma": "très",
+   "stress": "tʁɛ",
+   "pos": "adv",
+   "gloss": "very",
+   "meanings": [
+    {
+     "en": "very",
+     "note": ""
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Très bien.",
+     "trans": "Very well."
+    },
+    {
+     "text": "C'est très important.",
+     "trans": "It's very important."
+    }
+   ],
+   "related": [
+    {
+     "word": "très bien",
+     "gloss": "very well"
+    }
+   ]
+  },
+  "bien": {
+   "lemma": "bien",
+   "stress": "bjɛ̃",
+   "pos": "adv",
+   "gloss": "well; good",
+   "meanings": [
+    {
+     "en": "well",
+     "note": "Très bien = very well, fine."
+    },
+    {
+     "en": "good, nice",
+     "note": "C'est bien."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Très bien.",
+     "trans": "Very well."
+    },
+    {
+     "text": "Elle est bien.",
+     "trans": "She's nice."
+    }
+   ],
+   "related": [
+    {
+     "word": "bien sûr",
+     "gloss": "of course"
+    },
+    {
+     "word": "bientôt",
+     "gloss": "soon"
+    },
+    {
+     "word": "bienvenue",
+     "gloss": "welcome"
+    }
+   ]
+  },
+  "qu'est-ce": {
+   "lemma": "qu'est-ce",
+   "stress": "kɛs",
+   "pos": "phrase",
+   "gloss": "what (question opening)",
+   "meanings": [
+    {
+     "en": "what (question opening)",
+     "note": "Followed by qui when what is the subject, or que when what is the object."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Qu'est-ce qui se passe?",
+     "trans": "What is happening?"
+    },
+    {
+     "text": "Qu'est-ce que tu veux?",
+     "trans": "What do you want?"
+    }
+   ],
+   "related": []
+  },
+  "que": {
+   "lemma": "que",
+   "stress": "kə",
+   "pos": "conj",
+   "gloss": "that; than; only (ne...que)",
+   "meanings": [
+    {
+     "en": "that",
+     "note": "Joins two parts: dis-lui que."
+    },
+    {
+     "en": "which, that",
+     "note": "Relative: tout ce que."
+    },
+    {
+     "en": "only",
+     "note": "With ne: ne... que."
+    },
+    {
+     "en": "since",
+     "note": "Ça fait trois semaines que."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Dis-lui que je ne peux pas venir.",
+     "trans": "Tell her I can't come."
+    },
+    {
+     "text": "Je n'ai que deux places.",
+     "trans": "I've only got two tickets."
+    }
+   ],
+   "related": [
+    {
+     "word": "que",
+     "gloss": "that"
     }
    ]
   }
