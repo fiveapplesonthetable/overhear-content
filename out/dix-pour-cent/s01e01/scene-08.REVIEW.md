@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Tu t'occupes de lui? | Do you look after him? | #275 00:15:41: Tu t'occupes de lui ? | verbatim |
 | 14 | Camille | Hors de question! | No way! | #276 00:15:43: Hors de question | verbatim |
 | 15 | Andréa | Je peux t'appeler à quatre heures du matin? Tu travailles le dimanche? | Can I call you at four in the morning? Do you work on Sundays? | #278 00:15:51: Je peux t'appeler<br>#278 00:15:51: à quatre heures du matin<br>#279 00:15:54: le dimanche | verbatim |
-| 16 | Camille | Oui à tout. | Yes to everything. | #282 00:16:03: Oui à tout | verbatim |
+| 16 | Camille | Oui, oui. | Yes, yes. | #281 00:16:00: Oui, oui | adapted: Only the answers to the two retained questions are kept. |
 | 17 | Andréa | Très bien. Tu peux commencer maintenant? | Very good. Can you start now? | #283 00:16:05: Très bien<br>#284 00:16:07: Tu peux commencer maintenant ? | verbatim |
 | 18 | Camille | Oui, maintenant! | Yes, right now! | new | new |
 
@@ -48,6 +48,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you look after him?' The expression for 'look after' needs a small word meaning 'of' before the person. The last word is the form of 'him' used after a preposition.
 - 'No way!' Literally 'out of the question'. Andréa likes that. Then she gets to the real test.
 - 'Can I call you at four in the morning? Do you work on Sundays?' A day with the definite article can describe a regular habit. Andrea wants someone available every Sunday, as well as very early in the morning.
-- 'Yes to everything.' The last word means 'everything' here. Camille accepts the whole set of demands in one short answer.
+- 'Yes, yes.' Repeating the answer confirms both requests Andrea has just made. Camille is willing to be available early and on Sundays.
 - 'Very good. Can you start now?' 'Can' is followed straight away by the plain action 'start'. The final word makes the offer immediate.
 - 'Yes, right now!' The time word is the same one Andrea has just used. Camille repeats it to show that she is ready without any delay.

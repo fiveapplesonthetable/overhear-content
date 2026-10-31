@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
-INTRO = ('Samuel has left for his holiday, and Gabriel has turned away another call from Cecile. Meanwhile, Andrea '
- 'leaves Camille with Herve and Noemie for a tour of the agency. Listen to the French first, and let the '
- 'familiar office words help you follow along.')
+INTRO = ('Samuel has left for his holiday, and Gabriel has turned away another call from Cecile. Andrea introduces '
+ 'Camille to the other assistants; Herve then gives her a tour while Noemie stays at her desk. Listen to the '
+ 'French first, and follow the rooms and the gossip.')
 OPENER = "Let's retrace the tour. Camille first wants to know more about Mathias's assistant and her boss."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('The tour has given Camille new colleagues, office vocabulary and some dangerous gossip. You have heard '
@@ -40,7 +40,7 @@ STORY = [('camille',
   "Now I'll show you the Legal Department.",
   [(353, 'Maintenant je vous montre le service juridique')],
   ''),
- ('noemie',
+ ('herve',
   'Voici les scripts. Sans scénario, pas de film!',
   'Here are the scripts. No script, no film!',
   [(358, 'Voici les scripts'), (360, 'Sans scénario, pas de film')],
@@ -53,12 +53,12 @@ STORY = [('camille',
   ''),
  ('herve', 'Elle dit imprésario, pas agent.', 'She says impresario, not agent.', [(364, 'Elle dit')], ''),
  ('camille', 'Et Andréa ne lit pas?', "And Andréa doesn't read?", [(366, 'Andréa ne lit pas')], ''),
- ('noemie',
+ ('herve',
   'Tu plaisantes? Andréa lit tout.',
   'Are you kidding? Andrea reads everything.',
   [(367, 'Tu plaisantes ? Andréa lit tout')],
   ''),
- ('noemie',
+ ('herve',
   'Elle a peur de rater quelque chose.',
   "She's scared of missing something.",
   [(369, 'Elle a peur de rater quelque chose')],
@@ -72,8 +72,8 @@ STORY = [('camille',
   'Cécile de France? Refusée, à cause de son âge.',
   'Cécile de France? Turned down, because of her age.',
   [(387, 'à cause de son âge')],
-  ''),
- ('noemie',
+  "Herve's question about the rumour condensed."),
+ ('herve',
   'Regardez! Cécile est là!',
   "Look! Cécile's here!",
   [(389, 'Regardez'), (391, 'Cécile est là')],
@@ -123,7 +123,7 @@ WALK = [(0,
  (11,
   'Tu plaisantes?',
   "'Are you kidding?' The familiar form of 'you' makes the question less formal than Camille's opening "
-  'question. Noemie is speaking to a fellow assistant now.'),
+  'question. Herve is speaking to a fellow assistant now.'),
  (11,
   'Andréa lit tout.',
   "'Andréa reads everything.' The same verb as before, now without the negative around it."),
