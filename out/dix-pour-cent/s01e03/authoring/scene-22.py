@@ -4,56 +4,121 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 22
-TITLE = 'Un Bardot pour rien  (A Bardot for Nothing)'
+TITLE = 'Une mauvaise idée  (A Bad Idea)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'gabriel': 'Gabriel'}
+LABELS = {'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = "Meanwhile, the partners have surprising news about the director Solveig Akerfelt. Both Laura Smet and her mother Nathalie Baye tried to sabotage their auditions so they wouldn't have to spend three months on a boat together, and Gabriel hasn't dared to tell anyone that Laura was rejected. First, let's listen to the whole scene in French; don't worry about catching every word."
-OPENER = "Let's go through the scene step by step. In the meeting room, Gabriel is feeling guilty about the auditions."
+INTRO = ('Both Nathalie Baye and Laura Smet tried to spoil their auditions to avoid acting together. Now the agents '
+ 'hear that the director rejected Nathalie. Gabriel returns to his office, where his assistant Herve reads '
+ 'the morning messages. Gabriel is upset about the plan Herve gave Laura and plays a cruel joke. Listen to '
+ 'their exchange in French.')
+OPENER = "Let's go through the morning messages and the misunderstanding they lead to."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Right after this, in the agency kitchen, the actor Zinedine Soualem proudly demonstrates the new Portuguese coffee machine to prove he can play a Portuguese role. See you next time!'
-CLOSING = ('andrea', 'Au revoir!')
-STORY = [
-    ('gabriel', 'Je me sens mal pour Nathalie.', 'I feel bad for Nathalie.', [(556, 'Je me sens mal pour Nathalie')], ''),
-    ('andrea', "Comment ça s'est passé avec Laura Smet?", 'How did it go with Laura Smet?', [(557, "comment ça s'est passé"), (557, 'avec Laura Smet')], ''),
-    ('gabriel', "Bien. Pas mal. Je n'ai pas encore de réponse.", "Fine. Not bad. I don't have an answer yet.", [(558, 'Bien'), (559, 'Pas mal'), (560, 'de réponse')], ''),
-    ('andrea', 'Elle ne veut pas de Nathalie Baye.', "She doesn't want Nathalie Baye.", [(562, 'Elle ne veut pas de Nathalie Baye')], ''),
-    ('gabriel', "Ce n'est pas possible!", "That's not possible!", [(562, 'pas possible')], ''),
-    ('andrea', "Akerfelt n'a pas aimé son essai. Ils sont complètement fous?", 'Are they completely crazy?', [(565, "Akerfelt n'a pas aimé"), (566, 'Ils sont complètement fous')], ''),
-    ('gabriel', "C'est dur. Ce n'est pas bon pour l'agence.", "That's tough. It's not good for the agency.", [(568, "C'est dur"), (569, "pour l'agence")], ''),
-    ('camille', "Bonjour. Vous avez beaucoup d'appels.", 'Hello. You have lots of calls.', [(571, 'Bonjour'), (572, "beaucoup d'appels")], ''),
-    ('camille', 'Isabelle Adjani a un problème de cheveux très urgent.', 'Isabelle Adjani has a very urgent hair problem.', [(575, 'Isabelle Adjani a un problème de cheveux très urgent')], ''),
-    ('camille', 'On commence par qui?', 'Who do we start with?', [(576, 'On commence par qui')], ''),
-    ('gabriel', 'Solveig Akerfelt.', 'Solveig Akerfelt.', [(576, 'Solveig Akerfelt')], ''),
-    ('camille', "Elle n'est pas sur ma liste.", "She isn't on my list.", [(577, "Elle n'est pas sur ma liste")], ''),
-    ('andrea', "C'est méchant! Tu as fait faire un Bardot à Laura pour rien!", 'You made Laura do a Bardot for nothing!', [(578, "C'est méchant"), (579, 'Tu as fait faire un Bardot à Laura pour rien')], ''),
-    ('andrea', 'Sans Nathalie, Laura peut jouer la fille maintenant.', 'Without Nathalie, Laura can play the daughter now.', [(580, 'Sans Nathalie, Laura peut jouer la fille maintenant')], ''),
-    ('camille', 'Je suis virée?', 'Am I fired?', [(581, 'Je suis virée')], ''),
-    ('gabriel', 'Oui. Je suis désolé.', "Yes. I'm sorry.", [(581, 'Oui. Je suis désolé')], ''),
-    ('camille', 'Je suis vraiment virée?', 'Am I really fired?', [(582, 'Je suis vraiment virée')], ''),
-    ('gabriel', 'Non, je fais un Bardot!', "No, I'm doing a Bardot!", [(583, 'Non, je fais un Bardot')], ''),
-]
-WALK = [
-    (0, None, "'I feel bad for Nathalie.' Literally 'I feel myself badly for Nathalie'. Gabriel thinks only Laura was rejected."),
-    (1, None, "'How did it go with Laura Smet?' Literally 'how did it pass itself'. A very common everyday way to ask how something went."),
-    (2, None, "'Fine. Not bad. I don't have an answer yet.' Gabriel lies to cover up Laura's disaster."),
-    (3, None, "'She doesn't want Nathalie Baye.' Here comes the shock: Nathalie's tragic audition worked all too well, and the director rejected her."),
-    (4, None, "'That's not possible!' Standard negative around the verb 'is'. Now Gabriel realizes both actresses have lost their parts."),
-    (5, "Akerfelt n'a pas aimé son essai.", "'Akerfelt didn't like her audition.' The past tense made negative, with the two negative words wrapping around the helper verb 'has'."),
-    (5, 'Ils sont complètement fous?', "'Are they completely crazy?' The adjective at the end is in the masculine plural form."),
-    (6, None, "'That's tough. It's not good for the agency.' Gabriel speaks two short sentences with 'it is' and 'it is not'."),
-    (7, None, "'Hello. You have lots of calls.' Back at Andréa's desk, Camille reads out the morning messages using the polite 'you'."),
-    (8, None, "'Isabelle Adjani has a very urgent hair problem.' Notice how French links 'problem of hair' with the little word for 'of', and puts 'very urgent' at the end."),
-    (9, None, "'Who do we start with?' Literally 'we start by whom?', using the everyday word for 'we'."),
-    (10, None, "'Solveig Akerfelt.' Gabriel rushes in, still thinking about the Scandinavian director."),
-    (11, None, "'She isn't on my list.' Camille checks her notepad, puzzled."),
-    (12, "C'est méchant!", "'That's mean!' Andréa is shocked that the director rejected a star like Nathalie Baye."),
-    (12, 'Tu as fait faire un Bardot à Laura pour rien!', "'You made Laura do a Bardot for nothing!' Earlier, Gabriel told Laura to act like an impossible diva, like Brigitte Bardot, so she wouldn't have to act with her mother."),
-    (13, None, "'Without Nathalie, Laura can play the daughter now.' Now that her mother is out of the film, Laura would gladly take the part—if Gabriel hadn't ruined her audition!"),
-    (14, None, "'Am I fired?' Here, Gabriel plays a grim joke on Camille, telling her she is fired, and poor Camille believes him."),
-    (15, None, "'Yes. I'm sorry.' He keeps a completely straight face."),
-    (16, None, "'Am I really fired?' Notice the word for 'really' placed right between 'am' and 'fired'."),
-    (17, None, "'No, I'm doing a Bardot!' He was just pretending, to let off steam, though Camille says her blood froze in her veins."),
-]
+OUTRO = ('Gabriel has frightened Herve by pretending to fire him, but their real problem is the film. He must now '
+ 'persuade the director to reconsider Laura. In a brief scene in the kitchen, actor Zinedine Soualem also '
+ 'shows off a Portuguese coffee machine while trying to win a Portuguese role. See you next time!')
+CLOSING = ('herve', 'Au revoir!')
+STORY = [('herve',
+  "Vous avez beaucoup d'appels.",
+  'You have lots of calls.',
+  [(572, "beaucoup d'appels")],
+  'Simplifies the compound past to a present statement.'),
+ ('herve',
+  'Isabelle Adjani a un problème de cheveux très urgent.',
+  'Isabelle Adjani has a very urgent hair problem.',
+  [(575, 'Isabelle Adjani a un problème de cheveux très urgent')],
+  ''),
+ ('herve', 'On commence par qui?', 'Who do we start with?', [(576, 'On commence par qui')], ''),
+ ('gabriel', 'Solveig Akerfelt.', 'Solveig Akerfelt.', [(576, 'Solveig Akerfelt')], ''),
+ ('herve',
+  "Elle n'est pas sur ma liste.",
+  "She isn't on my list.",
+  [(577, "Elle n'est pas sur ma liste")],
+  ''),
+ ('gabriel',
+  'Elle ne veut pas de Nathalie Baye.',
+  "She doesn't want Nathalie Baye.",
+  [(577, 'Elle ne veut pas de Nathalie Baye')],
+  ''),
+ ('herve', "C'est méchant!", "That's mean!", [(578, "C'est méchant")], ''),
+ ('gabriel',
+  'Tu as fait faire ça à Laura pour rien!',
+  'You made Laura do that for nothing!',
+  [(579, 'Tu as fait faire un Bardot à Laura pour rien')],
+  "Keeps the meaning of Gabriel's reproach without turning the actual coined Bardot verb into an ordinary "
+  'French noun.'),
+ ('gabriel',
+  'Sans Nathalie, Laura peut jouer la fille maintenant.',
+  'Without Nathalie, Laura can play the daughter now.',
+  [(580, 'Sans Nathalie, Laura peut jouer la fille maintenant')],
+  ''),
+ ('herve',
+  'Je suis viré?',
+  'Am I fired?',
+  [(581, 'Je suis')],
+  'Corrects subtitle feminine virée to masculine viré: the source picture shows Herve.'),
+ ('gabriel', 'Oui. Je suis désolé.', "Yes. I'm sorry.", [(581, 'Oui. Je suis désolé')], ''),
+ ('herve',
+  'Je suis vraiment viré?',
+  'Am I really fired?',
+  [(582, 'Je suis vraiment')],
+  'Corrects subtitle feminine virée to masculine viré for Herve.'),
+ ('gabriel',
+  "Non, c'est une blague!",
+  "No, it's a joke!",
+  [(583, 'Non, je fais un Bardot')],
+  'Plain A1 retelling of the actual coined-verb joke; Gabriel is not firing Herve.')]
+WALK = [(0,
+  None,
+  "'You have lots of calls.' The expression for 'a lot of' is followed by the short word for 'of'. Before "
+  "the vowel in 'calls', that word loses its vowel."),
+ (1,
+  None,
+  "'Isabelle Adjani has a very urgent hair problem.' French links 'problem' and 'hair' with a word meaning "
+  "'of'. The description 'very urgent' follows the problem it describes."),
+ (2,
+  None,
+  "'Who do we start with?' Literally 'we start by whom?'. The question word comes last, and the everyday "
+  "word for 'we' takes a singular action form."),
+ (3,
+  None,
+  "'Solveig Akerfelt.' A name alone answers the question about whom to call first. Gabriel has heard that "
+  'the director rejected Nathalie and wants to speak to her.'),
+ (4,
+  None,
+  "'She isn't on my list.' The two negative words surround 'is'. Herve checks his own list, so the "
+  "possessive before it means 'my'."),
+ (5,
+  None,
+  "'She doesn't want Nathalie Baye.' The negative surrounds 'wants'. French adds a short word meaning 'of' "
+  'before the person who is being rejected in this expression.'),
+ (6,
+  None,
+  "'That's mean!' The describing word can mean unkind or nasty. Used after 'that is', it comments on the "
+  "director's decision."),
+ (7,
+  None,
+  "'You made Laura do that for nothing!' French uses 'make' twice: a completed 'made', then 'do' in its "
+  'basic form. This expresses making someone else perform an action.'),
+ (8,
+  None,
+  "'Without Nathalie, Laura can play the daughter now.' The first word removes one person from the "
+  "situation: 'without'. The final word means 'now', because the news has changed Laura's options."),
+ (9,
+  None,
+  "'Am I fired?' The past form of 'fire' describes Herve's feared situation. It has a masculine spelling "
+  'here because Herve is a man.'),
+ (10,
+  None,
+  "'Yes. I'm sorry.' Gabriel's apology has a masculine written ending. The spoken form sounds the same as "
+  'the apology with a feminine ending.'),
+ (11,
+  None,
+  "'Am I really fired?' The word for 'really' sits between 'am' and 'fired'. Herve repeats the question to "
+  'check that Gabriel means it.'),
+ (12,
+  None,
+  "'No, it's a joke!' The final word means 'joke' and follows the feminine word for 'a'. Gabriel reveals "
+  'that he was pretending to dismiss Herve.')]

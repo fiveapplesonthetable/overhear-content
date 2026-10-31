@@ -10,42 +10,36 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Mathias | Désolé. Vous savez ce que c'est, les actrices. | Sorry. You know what actresses are like. | #211: Désolé. Vous savez ce que c'est, les actrices | verbatim |
-| 2 | Hélène | Samuel était l'expert. Une de ses anciennes amies veut voir son testament. | Samuel was the expert. One of his old friends wants to see his will. | #212: Samuel était l'expert<br>#213: Une de ses anciennes<br>#214: son testament | verbatim |
-| 3 | Hélène | J'ai trouvé un acheteur pour l'agence. C'est une offre sérieuse. | It's a serious offer. | #215: J'ai trouvé un acheteur pour l'agence. C'est une offre sérieuse | verbatim |
-| 4 | Hélène | Très généreuse, aussi. | Very generous, too. | #216: Très généreuse, aussi | verbatim |
-| 5 | Mathias | Vous pouvez nous en dire plus? | Can you tell us more about it? | #217: Vous pouvez<br>#217: en dire plus | verbatim |
-| 6 | Hélène | Jonas Hirsch, de l'agence Sterne à Berlin. Vous le connaissez? | Jonas Hirsch, from the Sterne agency in Berlin. Do you know him? | #218: Jonas Hirsch, de l'agence Sterne à Berlin<br>#219: Vous le connaissez | verbatim |
-| 7 | Mathias | Oui. Il veut créer un groupe d'agences européennes. | Yes. He wants to create a group of European agencies. | #220: Oui<br>#221: Il veut créer un<br>#221: d'agences européennes | verbatim |
-| 8 | Hélène | Je lui ai demandé de vous garder tous les quatre. | I asked him to keep all four of you. | #222: Je lui ai demandé de vous garder tous les quatre | verbatim |
-| 9 | Hélène | Mais je ne sais pas si c'est dans ses projets. | But I don't know if that's in his plans. | #223: mais je ne sais pas si c'est dans ses projets | verbatim |
-| 10 | Andréa | Il doit bien y avoir une solution! | There must be a solution! | #224: Il doit bien y avoir une solution | verbatim |
-| 11 | Mathias | On peut inventer une nouvelle taxe sur les acteurs français? | Can we invent a new tax on French actors? | #225: Laquelle<br>#226: qu'il y a une nouvelle taxe sur les acteurs français | verbatim |
-| 12 | Andréa | Pas question, Gabriel! On doit trouver une autre solution. | Out of the question, Gabriel! We must find another solution. | #227: On n'est pas dans<br>#230: Pas question<br>#230: une solution | verbatim |
-| 13 | Andréa | Tout le monde est au courant que l'agence est en vente. | Everyone knows that the agency is for sale. | #231: Tout le monde est au courant<br>#234: en vente | verbatim |
-| 14 | Mathias | C'est mauvais pour l'agence d'être en position de faiblesse. | It's bad for the agency to be in a position of weakness. | #236: C'est mauvais pour l'agence<br>#236: en position de faiblesse | verbatim |
-| 15 | Andréa | Avec les Allemands qui achètent l'agence, qu'est-ce qu'on va faire? | With the Germans buying the agency, what are we going to do? | #240: les Allemands qui | verbatim |
-| 16 | Mathias | Si je vais chez StarMédia maintenant, je vais avoir beaucoup d'ennemis. | If I go to StarMédia now, I'll have a lot of enemies. | #242: StarMédia maintenant<br>#243: beaucoup d'ennemis | verbatim |
-
-
+| 1 | Mathias | Désolé. | Sorry. | #211 00:11:22: Désolé | verbatim |
+| 2 | Mathias | Vous savez ce que c'est, les actrices. | You know what actresses are like. | #211 00:11:22: Vous savez ce que c'est, les actrices | verbatim |
+| 3 | Hélène | Samuel était l'expert. | Samuel was the expert. | #212 00:11:26: Samuel était l'expert | verbatim |
+| 4 | Hélène | Une de ses anciennes amies veut savoir si elle est dans son testament. | One of his old friends wants to know whether she is in his will. | #213 00:11:29: Une de ses anciennes<br>#214 00:11:30: son testament | adapted: Softens former mistress to old friend while retaining her question about inclusion in the will. |
+| 5 | Hélène | J'ai trouvé un acheteur pour l'agence. | I've found a buyer for the agency. | #215 00:11:36: J'ai trouvé un acheteur pour l'agence | verbatim |
+| 6 | Hélène | C'est une offre sérieuse. | It's a serious offer. | #215 00:11:36: C'est une offre sérieuse | verbatim |
+| 7 | Hélène | Une de ses anciennes amies veut voir son testament. | One of his old friends wants to see his will. | #213 00:11:29: Une de ses anciennes<br>#214 00:11:30: son testament | adapted: Softens former mistress to old friend; shortens the request about being included in the will. |
+| 8 | Mathias | Vous pouvez m'en dire plus? | Can you tell me more about it? | #217 00:11:42: Vous pouvez m'en dire plus | verbatim |
+| 9 | Hélène | Jonas Hirsch, de l'agence Sterne à Berlin. | Jonas Hirsch, from the Sterne agency in Berlin. | #218 00:11:43: Jonas Hirsch, de l'agence Sterne à Berlin | verbatim |
+| 10 | Hélène | Vous le connaissez? | Do you know him? | #219 00:11:46: Vous le connaissez | verbatim |
+| 11 | Mathias | Oui. | Yes. | #220 00:11:47: Oui | verbatim |
+| 12 | Mathias | Il veut créer un groupe d'agences européennes. | He wants to create a group of European agencies. | #221 00:11:49: Il veut créer un<br>#221 00:11:49: d'agences européennes | adapted: Simplifies hub to groupe. |
+| 13 | Mathias | Vous pouvez m'en dire plus? | Can you tell me more about it? | #217 00:11:42: Vous pouvez m'en dire plus | verbatim |
+| 14 | Hélène | Jonas Hirsch, de l'agence Sterne à Berlin. | Jonas Hirsch, from the Sterne agency in Berlin. | #218 00:11:43: Jonas Hirsch, de l'agence Sterne à Berlin | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry. You know what actresses are like.' Literally 'you know what it is, actresses'.
-- 'Samuel was the expert. One of his old friends wants to see his will.' The describing word for 'old' or 'former' comes before the word.
-- 'I've found a buyer for the agency.' Past form with 'have', and the word for 'buyer' comes from the action word 'to buy'.
-- 'It's a serious offer.' Feminine ending on the describing word to match 'offer'.
-- 'Very generous, too.' Another feminine describing word ending, still describing the offer.
-- 'Can you tell us more about it?' Two small object words sit before 'tell': 'to us' and 'about it'.
-- 'Jonas Hirsch, from the Sterne agency in Berlin. Do you know him?' The little word for 'him' sits right before 'know'.
-- 'Yes. He wants to create a group of European agencies.' Notice the feminine plural ending on 'European'.
-- 'I asked him to keep all four of you.' Literally 'you all the four'.
-- 'But I don't know if that's in his plans.' Hélène makes no promises about their jobs.
-- 'Can we invent a new tax on French actors?' The verb 'must' followed by the expression for 'there to be'.
-- 'Out of the question, Gabriel! We must find another solution.' Mathias makes a weak joke at a tense moment.
-- 'We're not in trade, Gabriel!' Andréa cuts the joke short.
-- 'No way, we have to find a solution.' That two-word opener means 'out of the question'.
-- 'Everyone knows that the agency is for sale.' Literally 'everyone is in the current', the everyday idiom for 'everyone knows'.
-- 'It's bad for the agency to be in a position of weakness.' Meanwhile, over lunch at a restaurant, François of StarMédia tells Mathias that with the Germans buying ASK, nothing is keeping him there.
-- 'With the Germans buying the agency, what are we going to do?' Capital letter on the nationality noun when it means the people.
-- 'If I go to StarMédia now, I'll have a lot of enemies.' Talking to François, Mathias hesitates to betray Gabriel, Andréa, and Arlette, though François scoffs that they aren't real friends.
+- 'Sorry.' Mathias uses the masculine form because he is the person apologising. The feminine form adds a written ending, but sounds the same.
+- 'You know what actresses are like.' This conversational pattern literally says 'you know what it is'. It invites the other person to recognise a familiar difficulty.
+- 'Samuel was the expert.' The form of 'is' has changed to 'was'. It describes Samuel in the past, rather than giving a present job title.
+- 'One of his old friends wants to know whether she is in his will.' The phrase begins 'one of'. The feminine plural endings show that the friends being discussed are women.
+- 'I've found a buyer for the agency.' The past action has a helping form of 'have'. The word for buyer belongs to the same family as the action 'to buy'.
+- 'It's a serious offer.' The describing word takes a feminine ending to match 'offer'. Listen for its final consonant, which is silent in the masculine form.
+- 'Very generous, too.' This continues the description of the offer. The word for 'too' adds another positive quality to the previous sentence.
+- 'Can you tell me more about it?' Two object words combine before 'tell': 'to me' and 'about it'. The final word means 'more', with its last consonant pronounced.
+- 'Jonas Hirsch, from the Sterne agency in Berlin.' A short word before the agency means 'from'. Before the city, French uses the place word that often means 'at' or 'in'.
+- 'Do you know him?' The little word for 'him' goes before 'know'. Its spelling is also used for 'the', but here it replaces the person, Jonas.
+- 'Yes.' A one-word reply is enough here. Mathias confirms that he already knows the buyer Hélène is describing.
+- 'He wants to create a group of European agencies.' The form meaning 'wants' is followed by the unchanged action 'to create'. The final description matches the feminine plural agencies.
+- 'I asked him to keep all four of you.' The first object means 'to him', referring to the buyer. The later 'you' is plural: Hélène means all four agents.
+- 'But I don't know if that's in his plans.' Here 'if' means 'whether', introducing something uncertain. Hélène has made a request, but cannot promise the outcome.
+
+Primary video: private E4dual MP4id1619500213,27frames682–791s. Hélène meets Mathias alone at a restaurant; the other agents are in a separate subsequent office conversation. The last conversation is Mathias and Catherine at home, not François. The lesson now keeps14French lines from the actual Hélène/Mathias meeting.

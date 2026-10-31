@@ -4,48 +4,115 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 5
-TITLE = "Un week-end d'escalade  (A Climbing Weekend)"
+TITLE = 'Les âges et les appels  (Ages and Phone Calls)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
 LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "In Mathias's office, Mathias has just talked the young Internet comedy star Augustin into considering Audrey Fleurot for his first film, swearing that Audrey loves his online videos. Meanwhile, out at the assistants' desks, Noémie is rummaging through a drawer in pain after a very unusual weekend, while Camille and Hervé are hard at work. We'll hear the scene in French first; don't worry about catching every word."
-OPENER = "Let's go through it line by line. Camille sees Noémie searching through a desk drawer."
+INTRO = ('While Andréa tells Colette about a painful climbing weekend, the assistants handle calls and correct an '
+ "actress's age online. Camille's friendly farewell soon gets her into trouble with Noémie. Listen in French "
+ 'first; then we will unpack the expressions.')
+OPENER = "Let's go through the assistants' conversation. Camille asks Hervé what to do about an actress's age online."
 TRANSITION = "Now let's listen to the whole scene once more."
-OUTRO = "So Noémie is sore from rock climbing, and still thinks Camille is Christophe Lambert's daughter. Listen out for how French says 'my back hurts' and 'ten years older'. See you next time!"
+OUTRO = ('A mistaken online age leads to a joke, and an overly friendly farewell leads to a reprimand. You heard how to '
+ 'ask what to do, add another amount and contradict a denial. See you next time!')
 CLOSING = ('camille', 'À bientôt!')
-STORY = [
-    ('camille', 'Vous cherchez quelque chose?', 'Are you looking for something?', [(126, 'Vous cherchez quelque chose ?')], ''),
-    ('noemie', "Oui, un médicament. J'ai mal au dos.", 'Yes, some medicine. My back hurts.', [(127, 'Oui'), (128, 'mal'), (128, 'dos')], ''),
-    ('noemie', "J'ai fait un stage d'escalade ce week-end.", 'I did a rock-climbing course this weekend.', [(129, "J'ai fait un stage d'escalade ce week-end.")], ''),
-    ('herve', 'Tu as aimé?', 'Did you like it?', [(131, 'Tu as aimé ?')], ''),
-    ('noemie', 'Oui, beaucoup! Mais je suis une fille de la ville.', "Yes, a lot! But I'm a city girl.", [(132, 'Oui, beaucoup !'), (133, 'je suis une fille de la ville')], ''),
-    ('noemie', 'Et la corde fait très mal!', 'And the rope really hurts!', [(137, 'la corde'), (138, 'fait mal')], ''),
-    ('camille', 'Hervé, sur Internet, cette actrice a dix ans de plus!', 'Hervé, on the Internet, this actress is ten years older!', [(146, 'dix ans'), (146, 'cette actrice'), (146, 'Je fais quoi ?')], ''),
-    ('herve', "Corrige l'âge, tout simplement.", 'Just correct the age.', [(147, 'corrige')], ''),
-    ('camille', 'Je peux enlever encore cinq ans!', 'I can take off another five years!', [(148, 'enlever encore cinq ans')], ''),
-    ('camille', 'Allô? Oui, merci! Bisou-bisou!', 'Hello? Yes, thank you! Kiss-kiss!', [(151, 'Allô.'), (152, 'Bisou-bisou !')], ''),
-    ('noemie', 'Vous dites bisou-bisou à une grande star?', 'Do you say kiss-kiss to a big star?', [(154, 'Vous'), (154, 'bisou-bisou'), (154, 'stars ?')], ''),
-    ('camille', 'Non!', 'No!', [(155, 'Non.')], ''),
-    ('noemie', 'Si!', 'Yes, you did!', [(155, 'Si.')], ''),
-    ('camille', "C'est juste une habitude.", "It's just a habit.", [(156, "C'est juste une habitude.")], ''),
-    ('noemie', "Cette jeune actrice ne peut pas faire tout ce qu'elle veut!", 'This young actress cannot do whatever she wants!', [(159, 'la fille de Christophe Lambert'), (159, 'faire ce que')], ''),
-]
-WALK = [
-    (0, None, "'Are you looking for something?' In French, the verb 'to look for' has the 'for' built right into it, with no extra word needed."),
-    (1, None, "'Yes, some medicine. My back hurts.' Literally 'I have ache at the back'. That's the standard pattern for any body ache."),
-    (2, None, "'I did a rock-climbing course this weekend.' The word for a short training course or workshop is the same word used for an internship."),
-    (3, None, "'Did you like it?' Hervé is intrigued, asking how it went."),
-    (4, None, "'Yes, a lot! But I'm a city girl.' Literally 'a girl of the city'."),
-    (5, None, "'And the rope really hurts!' Same 'makes ache' expression, this time with the thing that causes the pain as the subject. Then Camille looks at her computer screen."),
-    (6, None, "'Hervé, on the Internet, this actress is ten years older!' Literally 'has ten years of more'. Remember that French uses 'to have' for age."),
-    (7, None, "'Just correct the age.' Literally 'correct the age, all simply'. Hervé doesn't even look up."),
-    (8, None, "'I can take off another five years!' Camille is getting into the spirit of the job. Then her phone rings."),
-    (9, None, "'Hello? Yes, thank you! Kiss-kiss!' She hangs up with a cheerful southern farewell, and Noémie freezes in horror."),
-    (10, None, "'Do you say kiss-kiss to a big star?' Notice that Noémie still uses the formal 'you' with Camille when she's scolding her."),
-    (11, None, "'No!' Camille tries to deny it."),
-    (12, None, "'Yes, you did!' There's that special French 'yes' again, used to contradict a negative statement."),
-    (13, None, "'It's just a habit.' Camille defends herself mildly."),
-    (14, None, "'This young actress cannot do whatever she wants!' Remember that since last episode, Noémie is convinced that Camille's secret father is the actor Christophe Lambert."),
-]
+STORY = [('camille',
+  'Hervé, sur Internet, cette actrice a dix ans de plus!',
+  'Hervé, on the Internet, this actress is ten years older!',
+  [(146, 'dix ans'), (146, 'cette actrice'), (146, 'Je fais quoi ?')],
+  ''),
+ ('camille', 'Je fais quoi?', 'What do I do?', [(146, 'Je fais quoi')], ''),
+ ('herve', "Corrige l'âge, tout simplement.", 'Just correct the age.', [(147, 'corrige')], ''),
+ ('camille', "D'accord.", 'Okay.', [(147, "D'accord")], ''),
+ ('camille',
+  'Je peux enlever encore cinq ans!',
+  'I can take off another five years!',
+  [(148, 'enlever encore cinq ans')],
+  ''),
+ ('camille',
+  'Huit, ce serait peut-être trop.',
+  'Eight might be too much.',
+  [(149, 'Huit, ce serait peut-être trop')],
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
+ ('herve',
+  "Allô? C'est pour le placement de produit?",
+  'Hello? Is this about the product placement?',
+  [(151, "Allô. C'est pour le placement de produit")],
+  ''),
+ ('camille', 'Bisou-bisou!', 'Kiss-kiss!', [(152, 'Bisou-bisou')], ''),
+ ('noemie',
+  'Tu dis bisou-bisou à une grande star?',
+  'Do you say kiss-kiss to a big star?',
+  [(154, 'Vous'), (154, 'bisou-bisou'), (154, 'stars ?')],
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
+ ('camille', 'Non!', 'No!', [(155, 'Non.')], ''),
+ ('noemie', 'Si!', 'Yes, you did!', [(155, 'Si.')], ''),
+ ('camille', "C'est juste une habitude.", "It's just a habit.", [(156, "C'est juste une habitude.")], ''),
+ ('herve', 'Noémie, téléphone.', 'Noémie, phone call.', [(157, 'Noémie, téléphone')], ''),
+ ('noemie', 'Une seconde.', 'Just a second.', [(157, 'Une seconde')], ''),
+ ('noemie',
+  'Tu ne peux pas faire tout ce que tu veux!',
+  "You can't do whatever you want!",
+  [(159, 'ne te donne pas le droit de faire ce que tu veux')],
+  'Shortens Noémie’s accusation about being Christophe Lambert’s daughter to its direct reprimand; Camille is an '
+  'assistant, not an actress.')]
+WALK = [(0,
+  None,
+  "'Hervé, on the Internet, this actress is ten years older!' French expresses age with 'has' and a number of "
+  'years. Camille means the age shown online has been increased, not that the woman has suddenly aged.'),
+ (1,
+  None,
+  "'What do I do?' This everyday question leaves the question word at the end. It is a short way to ask someone "
+  'what action you should take.'),
+ (2,
+  None,
+  "'Just correct the age.' A casual command starts directly with the action 'correct'. The two words at the end "
+  "literally mean 'all simply', a common expression for 'just' or 'simply'."),
+ (3,
+  None,
+  "'Okay.' The brief agreement means she accepts Hervé's instruction. It can stand alone without another action "
+  'or a subject.'),
+ (4,
+  None,
+  "'I can take off another five years!' The word often translated 'still' adds an extra amount here: another five "
+  'years. Camille jokes about making the actress even younger online.'),
+ (5,
+  None,
+  "'Eight might be too much.' Camille is still speaking on her phone. The form of 'be' means 'would be', making "
+  "this a cautious comment about changing the actress's listed age."),
+ (6,
+  None,
+  "'Hello? Is this about the product placement?' Hervé answers a separate phone call. The expression at the end "
+  'means showing a branded product inside a film or programme.'),
+ (7,
+  None,
+  "'Kiss-kiss!' Camille ends her own call with a familiar, affectionate farewell. Its repeated form is cheerful, "
+  'but Noémie thinks it is too casual for business.'),
+ (8,
+  None,
+  "'Do you say kiss-kiss to a big star?' Noémie addresses Camille casually while scolding her. The describing "
+  "word for 'big' is feminine to match the word for star."),
+ (9, None, "'No!' Camille denies it with a one-word answer. Noémie immediately challenges that denial."),
+ (10,
+  None,
+  "'Yes, you did!' This kind of 'yes' contradicts a negative statement. French distinguishes it from the ordinary "
+  'affirmative answer.'),
+ (11,
+  None,
+  "'It's just a habit.' The word after 'it is' means 'just' or 'only'. Camille makes her behaviour sound harmless "
+  'and ordinary.'),
+ (12,
+  None,
+  "'Noémie, phone call.' Hervé uses just her name and the word for telephone. In an office, that short "
+  'announcement is enough to say there is a caller for someone.'),
+ (13,
+  None,
+  "'Just a second.' Literally 'one second'. This short time expression asks someone to wait briefly, without a "
+  'complete sentence.'),
+ (14,
+  None,
+  "'You can't do whatever you want!' The expression after 'do' means 'everything that', or 'whatever' here. "
+  "Noémie still wrongly believes Camille is Christophe Lambert's daughter; that is why she objects to supposed "
+  'special treatment.')]

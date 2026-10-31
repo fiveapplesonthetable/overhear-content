@@ -10,37 +10,36 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Le directeur | Faites quelque chose. | Do something. | #267: Faites quelque chose | verbatim |
-| 2 | Le directeur | Sinon je vais devoir vous poursuivre, je n'ai pas le choix. | Otherwise I will have to sue you, I have no choice. | #268: Sinon je vais devoir vous poursuivre<br>#268: je n'ai pas le choix | verbatim |
-| 3 | Andréa | Oui, bien sûr. Vous pouvez compter sur moi. | Yes, of course. You can count on me. | #269: Vous pouvez compter sur moi | verbatim |
+| 1 | Le directeur | Faites quelque chose. | Do something. | #267 00:16:07: Faites quelque chose | verbatim |
+| 2 | Le directeur | Sinon je vais devoir vous poursuivre, je n'ai pas le choix. | Otherwise I will have to sue you, I have no choice. | #268 00:16:08: Sinon je vais devoir vous poursuivre<br>#268 00:16:08: je n'ai pas le choix | verbatim |
+| 3 | Andréa | Oui, bien sûr. Vous pouvez compter sur moi. | Yes, of course. You can count on me. | #269 00:16:10: Vous pouvez compter sur moi | verbatim |
 | 4 | Andréa | C'est une catastrophe pour l'agence. | It is a disaster for the agency. | new | new |
-| 5 | Camille | C'est si grave que ça? C'est du théâtre, quand même. | Is it that bad? It is only theatre, after all. | #271: C'est si grave que ça<br>#271: C'est du théâtre, quand même | verbatim |
-| 6 | Andréa | Vous savez ce que ça pourrait coûter? | Do you know what this could cost? | #272: Vous savez ce que ça pourrait coûter | verbatim |
-| 7 | Andréa | On ne peut pas laisser filtrer cette histoire de coup de poing. | We cannot let this punch story get out. | #274: on ne peut pas laisser filtrer cette histoire de coup de poing | verbatim |
-| 8 | Andréa | Il faut étouffer ça maintenant. | We must stifle this right now. | #277: Il faut étouffer ça maintenant | verbatim |
-| 9 | Camille | Pour un client mécontent, ma mère offre toujours un cadeau. | For an unhappy client, my mother always offers a gift. | #278: Quand ma mère a un client mécontent<br>#278: elle fait un geste pour ses amis | verbatim |
-| 10 | Camille | Elle ne perd pas de clientèle. | She does not lose any customers. | #279: Elle ne perd pas de clientèle | verbatim |
-| 11 | Andréa | Donc on baisse les tarifs pour toutes nos stars? | So we lower the rates for all our stars? | #280: Donc on baisse les tarifs pour toutes nos stars | verbatim |
-| 12 | Andréa | Appelez-les vous-même, alors! | Call them yourself, then! | #281: Appelez-les vous-même, alors | verbatim |
-| 13 | Camille | Allô, Hippolyte? Bonjour, c'est Camille, d'ASK. | Hello, Hippolyte? Hello, this is Camille from ASK. | #284: Allô, Hippolyte ? Bonjour, c'est Camille, d'ASK | verbatim |
-| 14 | Camille | Andréa m'a demandé de vous appeler au sujet de vos contrats. | Andréa asked me to call you about your contracts. | #285: Andréa m'a demandé de vous appeler au sujet de vos contrats | verbatim |
-| 15 | Camille | Vous pouvez passer les vérifier et les signer? | Can you come by to check them and sign them? | #287: Vous pouvez passer les vérifier et les signer | verbatim |
-
+| 5 | Camille | C'est si grave que ça? C'est du théâtre, quand même. | Is it that bad? It is only theatre, after all. | #271 00:16:21: C'est si grave que ça<br>#271 00:16:21: C'est du théâtre, quand même | verbatim |
+| 6 | Andréa | Vous savez ce que ça pourrait coûter? | Do you know what this could cost? | #272 00:16:25: Vous savez ce que ça pourrait coûter | verbatim |
+| 7 | Andréa | On ne peut pas laisser filtrer cette histoire de coup de poing. | We cannot let this punch story get out. | #274 00:16:31: on ne peut pas laisser filtrer cette histoire de coup de poing | verbatim |
+| 8 | Andréa | Il faut étouffer ça maintenant. | We must stifle this right now. | #277 00:16:42: Il faut étouffer ça maintenant | verbatim |
+| 9 | Camille | Pour un client mécontent, ma mère baisse les tarifs. | For an unhappy client, my mother lowers the prices. | #278 00:16:45: Quand ma mère a un client mécontent<br>#278 00:16:45: elle fait un geste pour ses amis | adapted: Adapted from her commercial goodwill gesture and the following mention of reduced rates. |
+| 10 | Camille | Elle ne perd pas de clientèle. | She does not lose any customers. | #279 00:16:49: Elle ne perd pas de clientèle | verbatim |
+| 11 | Andréa | Donc on baisse les tarifs pour toutes nos stars? | So we lower the rates for all our stars? | #280 00:16:52: Donc on baisse les tarifs pour toutes nos stars | verbatim |
+| 12 | Andréa | Appelez-les vous-même, alors! | Call them yourself, then! | #281 00:16:56: Appelez-les vous-même, alors | verbatim |
+| 13 | Camille | Allô, Hippolyte? Bonjour, c'est Camille, d'ASK. | Hello, Hippolyte? Hello, this is Camille from ASK. | #284 00:17:21: Allô, Hippolyte ? Bonjour, c'est Camille, d'ASK | verbatim |
+| 14 | Camille | Andréa m'a demandé de vous appeler au sujet de vos contrats. | Andréa asked me to call you about your contracts. | #285 00:17:25: Andréa m'a demandé de vous appeler au sujet de vos contrats | verbatim |
+| 15 | Camille | Vous pouvez passer les vérifier et les signer? | Can you come by to check them and sign them? | #287 00:17:31: Vous pouvez passer les vérifier et les signer | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do something.' The director demands immediate action from Andréa.
-- 'Otherwise I will have to sue you, I have no choice.' The director threatens legal action if François does not return to rehearsals.
-- 'Yes, of course. You can count on me.' Andréa promises the furious director that he can rely on her.
-- 'It is a disaster for the agency.' As soon as she hangs up, Andréa tells Camille how bad this crisis is for ASK.
-- 'Is it that bad? It is only theatre, after all.' Camille wonders if a theatre dispute is really such a catastrophe, after all.
-- 'Do you know what this could cost?' Andréa warns her how much a lawsuit over the play could cost the agency.
-- 'We cannot let this punch story get out.' She insists they cannot let the story about the punch leak to the press.
-- 'We must stifle this right now.' Andréa is determined to hush the scandal up right away.
-- 'For an unhappy client, my mother always offers a gift.' Camille compares the crisis to her mother's hair salon offering a goodwill gesture.
-- 'She does not lose any customers.' She points out that a small gesture keeps unhappy clients from leaving.
-- 'So we lower the rates for all our stars?' Andréa sarcastically asks if ASK should slash its commission for every star.
-- 'Call them yourself, then!' Andréa tells Camille to call Hippolyte about his contracts herself.
-- 'Hello, Hippolyte? Hello, this is Camille from ASK.' Camille makes the phone call to Mathias's son.
-- 'Andréa asked me to call you about your contracts.' Camille explains that Andréa asked her to follow up on his paperwork.
-- 'Can you come by to check them and sign them?' Camille politely asks if he can stop by the office to review and sign them. Now listen to the full conversation once more at a natural pace.
+- 'Do something.' The opening is the polite or plural command for 'do'. The two words after it mean 'something', leaving the action for Andréa to choose.
+- 'Otherwise I will have to sue you, I have no choice.' The first word means 'otherwise'. The next sequence means 'I am going to have to'. The legal action is suing; the ending says he has no choice.
+- 'Yes, of course. You can count on me.' The first reassurance means 'of course'. The following action literally says 'count on me', a promise that the director can rely on her.
+- 'It is a disaster for the agency.' The opening points to 'a disaster'. The final words specify who faces it: the agency, whose name begins with a vowel after the shortened article.
+- 'Is it that bad? It is only theatre, after all.' The little word before 'bad' means 'so' here. The final expression softens or challenges the claim, rather like 'after all'.
+- 'Do you know what this could cost?' The beginning asks whether Camille knows. The later 'could' makes the cost a possibility, rather than an amount that Andréa has already calculated.
+- 'We cannot let this punch story get out.' The first word means 'we' here. Letting a story filter out means allowing it to leak; the final three words name a punch.
+- 'We must stifle this right now.' The opening is an impersonal 'it is necessary', meaning 'we must'. The final word adds urgency: it must happen now.
+- 'For an unhappy client, my mother lowers the prices.' The unhappy person is a client. Camille describes her mother's response with the action 'lower' and the plural word for prices or rates.
+- 'She does not lose any customers.' The two negative words surround 'loses'. After that denial, the short word before customers works with the negative: she does not lose customers.
+- 'So we lower the rates for all our stars?' The opening 'so' introduces Andréa's sarcastic conclusion. The action is lowering rates; the final words extend that idea to every star they represent.
+- 'Call them yourself, then!' The command for 'call' has the object 'them' attached by a hyphen. The following words mean 'yourself', insisting that Camille should make those calls.
+- 'Hello, Hippolyte? Hello, this is Camille from ASK.' The first word answers or opens a telephone call. Camille then identifies herself, with a shortened 'from' attached to the agency's initials.
+- 'Andréa asked me to call you about your contracts.' The completed action says Andréa asked her. The little attached object means 'me'. The final words identify the subject of the call: his contracts.
+- 'Can you come by to check them and sign them?' The question begins with the polite 'you can'. Two later objects mean 'them', referring to the contracts: first checking them, then signing them.

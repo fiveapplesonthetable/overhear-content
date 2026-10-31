@@ -10,26 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Mathias | Va chercher du champagne au bar. | Go and get some champagne at the bar. | #516: Va chercher du champagne au bar | verbatim |
-| 2 | Camille | D'accord. À tout à l'heure. | Okay. See you in a bit. | #517: D'accord<br>#519: À tout à l'heure | verbatim |
-| 3 | Mathias | Camille! Par ici. Je te présente Dominique Besnehard. | This is Dominique Besnehard. | #530: Camille ! Par ici<br>#531: Je te présente Dominique Besnehard | verbatim |
-| 4 | Camille | Bonjour, ravie. | Hello, delighted to meet you. | #532: Bonjour, ravie | verbatim |
-| 5 | Mathias | Un producteur. | A producer. | #532: Un producteur | verbatim |
-| 6 | Dominique | Bonjour, Camille. Mathias m'a beaucoup parlé de vous. | Hello, Camille. Mathias has told me a lot about you. | #533: Bonjour, Camille. Mathias m'a beaucoup parlé de vous | verbatim |
-| 7 | Camille | Ah bon? En bien, j'espère! | Really? Good things, I hope! | #534: Ah bon ? En bien, j'espère | verbatim |
-| 8 | Dominique | Absolument. Vous aimez le cinéma? | Absolutely. Do you like films? | #534: Absolument | verbatim |
-| 9 | Camille | Et comment! C'est mon rêve. | You bet! It's my dream. | #536: Et comment ! C'est mon rêve | verbatim |
-| 10 | Dominique | Je peux vous offrir un stage sur notre prochain grand film. | I can offer you an internship on our next big film. | #539: Je peux vous offrir un stage<br>#539: le prochain film de Guillaume Gallienne | verbatim |
-| 11 | Camille | Vraiment? | Really? | #540: Vraiment | verbatim |
-| 12 | Mathias | Elle est parfaite pour ça. | She's perfect for it. | #540: Elle est parfaite pour ça | verbatim |
-| 13 | Dominique | Ma carte. Appelez-moi au bureau. | My card. Call me at the office. | #543: Ma carte<br>#544: Appelez-moi au bureau | verbatim |
-| 14 | Camille | Je ne vais pas appeler Besnehard. | I'm not going to call Besnehard. | #531: Besnehard | verbatim |
-| 15 | Mathias | Pourquoi? C'est un super producteur! | Why? He's a great producer! | #532: producteur | verbatim |
-| 16 | Camille | Je suis bien ici. Je veux apprendre à être agent. | I want to learn to be an agent. | #529: veux<br>#529: veux | verbatim |
-| 17 | Camille | Je n'ai aucune qualification, mais je peux apprendre. | I have no qualifications, but I can learn. | #526: peux | verbatim |
-| 18 | Camille | Sinon, je cherche un poste dans une autre agence. | Otherwise, I'll look for a job at another agency. | new | new |
-
-
+| 1 | Mathias | Va chercher du champagne au bar. | Go and get some champagne at the bar. | #516 00:30:20: Va chercher du champagne au bar | verbatim |
+| 2 | Camille | D'accord. À tout à l'heure. | Okay. See you in a bit. | #517 00:30:23: D'accord<br>#519 00:30:44: À tout à l'heure | verbatim |
+| 3 | Mathias | Camille! Par ici. Je te présente Dominique Besnehard. | Camille! Over here. This is Dominique Besnehard. | #530 00:31:19: Camille ! Par ici<br>#531 00:31:21: Je te présente Dominique Besnehard | verbatim |
+| 4 | Camille | Bonjour, ravie. | Hello, delighted to meet you. | #532 00:31:24: Bonjour, ravie | verbatim |
+| 5 | Mathias | Un producteur. | A producer. | #532 00:31:24: Un producteur | verbatim |
+| 6 | Dominique | Bonjour, Camille. Mathias m'a beaucoup parlé de vous. | Hello, Camille. Mathias has told me a lot about you. | #533 00:31:27: Bonjour, Camille. Mathias m'a beaucoup parlé de vous | verbatim |
+| 7 | Camille | Ah bon? En bien, j'espère! | Really? Good things, I hope! | #534 00:31:30: Ah bon ? En bien, j'espère | verbatim |
+| 8 | Dominique | Absolument. Vous aimez le cinéma? | Absolutely. Do you like films? | #534 00:31:30: Absolument | verbatim |
+| 9 | Camille | Et comment! C'est mon rêve. | You bet! It's my dream. | #536 00:31:37: Et comment ! C'est mon rêve | verbatim |
+| 10 | Dominique | Je peux vous offrir un stage sur notre prochain grand film. | I can offer you an internship on our next big film. | #539 00:31:43: Je peux vous offrir un stage<br>#539 00:31:43: le prochain film de Guillaume Gallienne | verbatim |
+| 11 | Camille | Vraiment? | Really? | #540 00:31:47: Vraiment | verbatim |
+| 12 | Mathias | Elle est parfaite pour ça. | She's perfect for it. | #540 00:31:47: Elle est parfaite pour ça | verbatim |
+| 13 | Dominique | Ma carte. Appelez-moi au bureau. | My card. Call me at the office. | #543 00:31:55: Ma carte<br>#544 00:31:56: Appelez-moi au bureau | verbatim |
+| 14 | Camille | Je ne vais pas appeler Besnehard. | I'm not going to call Besnehard. | #549 00:32:20: Je ne vais pas appeler Besnehard | verbatim |
+| 15 | Mathias | Pourquoi? C'est un super producteur! | Why? He's a great producer! | #550 00:32:23: Pourquoi ? C'est un super producteur | verbatim |
+| 16 | Camille | Je suis bien ici. Je veux apprendre à être agent. | I'm happy here. I want to learn to be an agent. | #551 00:32:25: je suis bien ici<br>#552 00:32:28: Je veux apprendre à être agent | adapted: Adapted: shortened and connected to the preceding exchange. |
+| 17 | Camille | Je n'ai aucune qualification, mais je peux apprendre. | I have no qualifications, but I can learn. | #553 00:32:34: je n'ai aucune qualification, mais je peux apprendre | adapted: Adapted: shortened and connected to the preceding exchange. |
+| 18 | Camille | Sinon, je cherche un poste dans une autre agence. | Otherwise, I'll look for a job at another agency. | #555 00:32:42: un poste dans une autre agence | adapted: Adapted: shortened and connected to the preceding exchange. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,9 +40,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello, Camille. Mathias has told me a lot about you.' The everyday past, 'has spoken', with the little word for 'me' tucked in before the helper word. Notice he uses the polite 'you' with her.
 - 'Really? Good things, I hope!' Literally 'in good'. A light, charming answer.
 - 'Absolutely. Do you like films?' Dominique asks a question made just by raising his voice at the end.
-- 'I can offer you an internship on our next big film.' The first two words literally mean 'and how!', a cheerful way to say 'absolutely'.
-- 'I can offer you an internship.' Here's our grammar point: 'I can' followed by a verb in its dictionary form, with the polite word for 'you' placed just before that second verb.
-- 'It's on Guillaume Gallienne's next film.' To say 'Gallienne's film', French says 'the film of Gallienne'.
+- 'You bet! It's my dream.' The first two words literally mean 'and how!', a lively way to say 'absolutely'. The possessive 'my' agrees with the masculine noun for 'dream'.
+- 'I can offer you an internship on our next big film.' The action 'can' is followed by 'offer' in its basic form. The polite object meaning 'you' goes just before that second action.
 - 'Really?' Camille can hardly believe it.
 - 'She's perfect for it.' The adjective is in its feminine form, because it's about Camille. Mathias looks very pleased with himself.
 - 'My card. Call me at the office.' Dominique gives a polite command, 'call me', with 'me' stuck to the action word by a hyphen.

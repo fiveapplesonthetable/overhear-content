@@ -11,8 +11,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "sais",
@@ -20,15 +20,15 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "ce",
           "lemma": "ce",
-          "pos": "det",
+          "pos": "pron",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
-          "gram": "demonstrative, masculine singular"
+          "gloss": "what",
+          "gram": "ce que: what, introducing what is known"
         },
         {
           "t": "qu'est",
@@ -58,85 +58,117 @@
     },
     {
       "seg": 2,
-      "trans": "Ten percent of a star",
+      "trans": "This project with François Berléand was my idea.",
       "words": [
         {
-          "t": "Dix",
-          "lemma": "dix",
-          "pos": "num",
-          "stress": "dis",
-          "gloss": "ten",
-          "gram": "number; final x silent before a consonant"
+          "t": "Ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this; that",
+          "gram": "demonstrative, masculine singular"
         },
         {
-          "t": "pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "cent",
-          "lemma": "cent",
-          "pos": "num",
-          "stress": "sɑ̃",
-          "gloss": "hundred",
-          "gram": "cardinal number, no s before mille"
-        },
-        {
-          "t": "du",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
-        },
-        {
-          "t": "cachet",
-          "lemma": "cachet",
+          "t": "projet",
+          "lemma": "projet",
           "pos": "noun",
-          "stress": "kaʃɛ",
-          "gloss": "fee",
+          "stress": "pʁɔʒɛ",
+          "gloss": "project",
           "gram": "masculine singular"
         },
         {
-          "t": "d'une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "dyn",
-          "gloss": "of a, from a",
-          "gram": "de (of/from) + une: feminine singular indefinite article"
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition ('avec', meaning 'with')"
         },
         {
-          "t": "star?",
-          "lemma": "star",
+          "t": "François",
+          "lemma": "françois",
+          "pos": "name",
+          "stress": null,
+          "gloss": "François",
+          "gram": "proper name"
+        },
+        {
+          "t": "Berléand,",
+          "lemma": "berléand",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Berléand",
+          "gram": "proper name"
+        },
+        {
+          "t": "c'était",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "setɛ",
+          "gloss": "it was, that was",
+          "gram": "ce (it/that) + était: 3rd person singular imperfect of être"
+        },
+        {
+          "t": "mon",
+          "lemma": "mon",
+          "pos": "det",
+          "stress": "mɔ̃",
+          "gloss": "my",
+          "gram": "possessive before a feminine noun beginning with a vowel"
+        },
+        {
+          "t": "idée.",
+          "lemma": "idée",
           "pos": "noun",
-          "stress": "staʁ",
-          "gloss": "star (famous person)",
+          "stress": "ide",
+          "gloss": "idea",
           "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 3,
-      "trans": "This project with François Berléand was my idea.",
+      "trans": "The young director with the older actor.",
       "words": [
         {
-          "t": "Ce",
-          "lemma": "ce",
+          "t": "Le",
+          "lemma": "le",
           "pos": "det",
-          "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
-          "gram": "demonstrative, masculine singular"
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
-          "t": "projet",
-          "lemma": "projet",
+          "t": "jeune",
+          "lemma": "jeune",
+          "pos": "adj",
+          "stress": "ʒœn",
+          "gloss": "young",
+          "gram": "adjective; same masculine and feminine singular form"
+        },
+        {
+          "t": "metteur",
+          "lemma": "metteur",
           "pos": "noun",
-          "stress": "pʁɔʒɛ",
-          "gloss": "project",
-          "gram": "masculine singular"
+          "stress": "mɛtœʁ",
+          "gloss": "director",
+          "gram": "masculine singular, in 'metteur en scène'"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition; meaning depends on the following phrase"
+        },
+        {
+          "t": "scène",
+          "lemma": "scène",
+          "pos": "noun",
+          "stress": "sɛn",
+          "gloss": "scene",
+          "gram": "feminine singular"
         },
         {
           "t": "avec",
@@ -147,444 +179,326 @@
           "gram": "preposition ('avec', meaning 'with')"
         },
         {
-          "t": "François",
-          "lemma": "françois",
-          "pos": "name",
-          "stress": null,
-          "gloss": "François",
-          "gram": "proper name"
-        },
-        {
-          "t": "Berléand,",
-          "lemma": "berléand",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Berléand",
-          "gram": "proper name"
-        },
-        {
-          "t": "c'était",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "setɛ",
-          "gloss": "it was, that was",
-          "gram": "ce (it/that) + était: 3rd person singular imperfect of être"
-        },
-        {
-          "t": "mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "idée.",
-          "lemma": "idée",
+          "t": "l'acteur",
+          "lemma": "acteur",
           "pos": "noun",
-          "stress": "ide",
-          "gloss": "idea",
-          "gram": "feminine singular"
+          "stress": "laktœʁ",
+          "gloss": "the actor",
+          "gram": "le (elided l', the) + acteur: masculine singular noun"
+        },
+        {
+          "t": "âgé.",
+          "lemma": "âgé",
+          "pos": "adj",
+          "stress": "aʒe",
+          "gloss": "older",
+          "gram": "adjective, masculine singular"
         }
       ]
     },
     {
       "seg": 4,
-      "trans": "The young director with the older actor.",
+      "trans": "An exciting prospect, right?",
       "words": [
         {
-          "t": "Le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "t": "Une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "an (one)",
+          "gram": "indefinite article, feminine singular"
         },
         {
-          "t": "jeune",
-          "lemma": "jeune",
-          "pos": "adj",
-          "stress": "ʒœn",
-          "gloss": "young",
-          "gram": "feminine singular, before the noun"
-        },
-        {
-          "t": "metteur",
-          "lemma": "metteur",
+          "t": "perspective",
+          "lemma": "perspective",
           "pos": "noun",
-          "stress": "mɛtœʁ",
-          "gloss": "director",
-          "gram": "masculine singular, in 'metteur en scène'"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "prep",
-          "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
-        },
-        {
-          "t": "scène",
-          "lemma": "scène",
-          "pos": "noun",
-          "stress": "sɛn",
-          "gloss": "scene",
+          "stress": "pɛʁspɛktiv",
+          "gloss": "prospect",
           "gram": "feminine singular"
         },
         {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
-        },
-        {
-          "t": "l'acteur",
-          "lemma": "acteur",
-          "pos": "noun",
-          "stress": "laktœʁ",
-          "gloss": "the actor",
-          "gram": "le (elided l', the) + acteur: masculine singular noun"
-        },
-        {
-          "t": "âgé.",
-          "lemma": "âgé",
+          "t": "excitante,",
+          "lemma": "excitant",
           "pos": "adj",
-          "stress": "aʒe",
-          "gloss": "older",
-          "gram": "adjective, masculine singular"
+          "stress": "ɛksitɑ̃t",
+          "gloss": "exciting",
+          "gram": "adjective, feminine singular"
+        },
+        {
+          "t": "non?",
+          "lemma": "non",
+          "pos": "adv",
+          "stress": "nɔ̃",
+          "gloss": "no",
+          "gram": "negative answer; in a tag question, asks for agreement"
         }
       ]
     },
     {
       "seg": 5,
-      "trans": "An exciting prospect, right?",
+      "trans": "I love it!",
       "words": [
         {
-          "t": "Une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "perspective",
-          "lemma": "perspective",
-          "pos": "noun",
-          "stress": "pɛʁspɛktiv",
-          "gloss": "prospect",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "excitante,",
-          "lemma": "excitant",
-          "pos": "adj",
-          "stress": "ɛksitɑ̃t",
-          "gloss": "exciting",
-          "gram": "adjective, feminine singular"
-        },
-        {
-          "t": "non?",
-          "lemma": "non",
-          "pos": "adv",
-          "stress": "nɔ̃",
-          "gloss": "no",
-          "gram": "negative answer"
+          "t": "J'adore!",
+          "lemma": "adorer",
+          "pos": "verb",
+          "stress": "ʒadɔʁ",
+          "gloss": "I love",
+          "gram": "je (elided) + adore: present, 1st person singular"
         }
       ]
     },
     {
       "seg": 6,
-      "trans": "I love it!",
+      "trans": "I am all yours.",
       "words": [
         {
-          "t": "J'adore!",
-          "lemma": "adorer",
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, first person singular"
+        },
+        {
+          "t": "suis",
+          "lemma": "être",
           "pos": "verb",
-          "stress": "ʒadɔʁ",
-          "gloss": "I love",
-          "gram": "je (elided) + adore: present, 1st person singular"
+          "stress": "sɥi",
+          "gloss": "am",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
+        },
+        {
+          "t": "vous.",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "I am all yours.",
+      "trans": "But I'm not jumping on the duck!",
       "words": [
         {
-          "t": "Je",
+          "t": "Mais",
+          "lemma": "mais",
+          "pos": "conj",
+          "stress": "mɛ",
+          "gloss": "but",
+          "gram": "coordinating conjunction"
+        },
+        {
+          "t": "je",
           "lemma": "je",
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
-          "t": "suis",
-          "lemma": "être",
+          "t": "ne",
+          "lemma": "ne",
+          "pos": "part",
+          "stress": "nə",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
+        },
+        {
+          "t": "saute",
+          "lemma": "sauter",
           "pos": "verb",
-          "stress": "sɥi",
-          "gloss": "am",
-          "gram": "present, 1st person singular"
+          "stress": "sot",
+          "gloss": "jump",
+          "gram": "present, 1sg"
         },
         {
-          "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "part",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
         },
         {
-          "t": "à",
-          "lemma": "à",
+          "t": "sur",
+          "lemma": "sur",
           "pos": "prep",
-          "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "stress": "syʁ",
+          "gloss": "onto",
+          "gram": "preposition ('sur', meaning 'onto')"
         },
         {
-          "t": "vous.",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "canard!",
+          "lemma": "canard",
+          "pos": "noun",
+          "stress": "kanaʁ",
+          "gloss": "duck",
+          "gram": "masculine singular"
         }
       ]
     },
     {
       "seg": 8,
-      "trans": "But I",
+      "trans": "Just once, to see!",
       "words": [
         {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
+          "t": "Juste",
+          "lemma": "juste",
+          "pos": "adv",
+          "stress": "ʒyst",
+          "gloss": "just",
+          "gram": "adverb, after the verb"
         },
         {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "t": "une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "an (one)",
+          "gram": "indefinite article, feminine singular"
         },
         {
-          "t": "ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "saute",
-          "lemma": "sauter",
-          "pos": "verb",
-          "stress": "sot",
-          "gloss": "jump",
-          "gram": "present, 1sg"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "sur",
-          "lemma": "sur",
-          "pos": "prep",
-          "stress": "syʁ",
-          "gloss": "onto",
-          "gram": "preposition ('sur', meaning 'onto')"
-        },
-        {
-          "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
-        },
-        {
-          "t": "canard!",
-          "lemma": "canard",
+          "t": "fois,",
+          "lemma": "fois",
           "pos": "noun",
-          "stress": "kanaʁ",
-          "gloss": "duck",
-          "gram": "masculine singular"
+          "stress": "fwa",
+          "gloss": "time; occasion",
+          "gram": "feminine; same written form in singular and plural"
+        },
+        {
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "for",
+          "gram": "preposition"
+        },
+        {
+          "t": "voir!",
+          "lemma": "voir",
+          "pos": "verb",
+          "stress": "vwaʁ",
+          "gloss": "see",
+          "gram": "infinitive"
         }
       ]
     },
     {
       "seg": 9,
-      "trans": "Just once, to see!",
+      "trans": "I'm not jumping on the duck, is that clear?",
       "words": [
         {
-          "t": "Juste",
-          "lemma": "juste",
-          "pos": "adv",
-          "stress": "ʒyst",
-          "gloss": "just",
-          "gram": "adverb, after the verb"
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, first person singular"
         },
         {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
+          "t": "ne",
+          "lemma": "ne",
+          "pos": "part",
+          "stress": "nə",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
         },
         {
-          "t": "fois,",
-          "lemma": "fois",
-          "pos": "noun",
-          "stress": "fwa",
-          "gloss": "times (twice)",
-          "gram": "feminine plural; deux fois = twice"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "voir!",
-          "lemma": "voir",
+          "t": "saute",
+          "lemma": "sauter",
           "pos": "verb",
-          "stress": "vwaʁ",
-          "gloss": "see",
-          "gram": "infinitive"
+          "stress": "sot",
+          "gloss": "jump",
+          "gram": "present, 1sg"
+        },
+        {
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "part",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
+        },
+        {
+          "t": "sur",
+          "lemma": "sur",
+          "pos": "prep",
+          "stress": "syʁ",
+          "gloss": "onto",
+          "gram": "preposition ('sur', meaning 'onto')"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "canard,",
+          "lemma": "canard",
+          "pos": "noun",
+          "stress": "kanaʁ",
+          "gloss": "duck",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "c'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "clair?",
+          "lemma": "clair",
+          "pos": "adj",
+          "stress": "klɛʁ",
+          "gloss": "clear",
+          "gram": "adjective, masculine singular"
         }
       ]
     },
     {
       "seg": 10,
-      "trans": "I",
+      "trans": "You can try.",
       "words": [
         {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "saute",
-          "lemma": "sauter",
-          "pos": "verb",
-          "stress": "sot",
-          "gloss": "jump",
-          "gram": "present, 1sg"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "sur",
-          "lemma": "sur",
-          "pos": "prep",
-          "stress": "syʁ",
-          "gloss": "onto",
-          "gram": "preposition ('sur', meaning 'onto')"
-        },
-        {
-          "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
-        },
-        {
-          "t": "canard,",
-          "lemma": "canard",
-          "pos": "noun",
-          "stress": "kanaʁ",
-          "gloss": "duck",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "clair?",
-          "lemma": "clair",
-          "pos": "adj",
-          "stress": "klɛʁ",
-          "gloss": "clear",
-          "gram": "adjective, masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 11,
-      "trans": "The water is lovely, you can try.",
-      "words": [
-        {
-          "t": "L'eau",
-          "lemma": "eau",
-          "pos": "noun",
-          "stress": "lo",
-          "gloss": "water",
-          "gram": "la + eau: elided definite article + feminine singular noun"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
-        },
-        {
-          "t": "délicieuse,",
-          "lemma": "délicieux",
-          "pos": "adj",
-          "stress": "delisjøz",
-          "gloss": "delicious",
-          "gram": "adjective, feminine singular"
-        },
-        {
-          "t": "tu",
+          "t": "Tu",
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "peux",
@@ -605,8 +519,8 @@
       ]
     },
     {
-      "seg": 12,
-      "trans": "It",
+      "seg": 11,
+      "trans": "It's ridiculous, the pool and the duck!",
       "words": [
         {
           "t": "C'est",
@@ -650,11 +564,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "canard!",
@@ -667,7 +581,7 @@
       ]
     },
     {
-      "seg": 13,
+      "seg": 12,
       "trans": "That is not Dom Juan!",
       "words": [
         {
@@ -675,7 +589,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -715,13 +629,13 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         }
       ]
     },
     {
-      "seg": 14,
+      "seg": 13,
       "trans": "I have had enough!",
       "words": [
         {
@@ -729,8 +643,8 @@
           "lemma": "en",
           "pos": "pron",
           "stress": "ʒɑ̃",
-          "gloss": "I ... of it, I ... some",
-          "gram": "je (I) + en (of it/some)"
+          "gloss": "I ... of it",
+          "gram": "je + en; part of en avoir marre: to have had enough"
         },
         {
           "t": "ai",
@@ -751,7 +665,7 @@
       ]
     },
     {
-      "seg": 16,
+      "seg": 15,
       "trans": "Do you know what an agent is?",
       "words": [
         {
@@ -759,8 +673,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "sais",
@@ -768,15 +682,15 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "ce",
           "lemma": "ce",
-          "pos": "det",
+          "pos": "pron",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
-          "gram": "demonstrative, masculine singular"
+          "gloss": "what",
+          "gram": "ce que: what, introducing what is known"
         },
         {
           "t": "qu'est",
@@ -805,69 +719,7 @@
       ]
     },
     {
-      "seg": 18,
-      "trans": "Ten percent of a star",
-      "words": [
-        {
-          "t": "Dix",
-          "lemma": "dix",
-          "pos": "num",
-          "stress": "dis",
-          "gloss": "ten",
-          "gram": "number; final x silent before a consonant"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "cent",
-          "lemma": "cent",
-          "pos": "num",
-          "stress": "sɑ̃",
-          "gloss": "hundred",
-          "gram": "cardinal number, no s before mille"
-        },
-        {
-          "t": "du",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
-        },
-        {
-          "t": "cachet",
-          "lemma": "cachet",
-          "pos": "noun",
-          "stress": "kaʃɛ",
-          "gloss": "fee",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "d'une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "dyn",
-          "gloss": "of a, from a",
-          "gram": "de (of/from) + une: feminine singular indefinite article"
-        },
-        {
-          "t": "star?",
-          "lemma": "star",
-          "pos": "noun",
-          "stress": "staʁ",
-          "gloss": "star (famous person)",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 20,
+      "seg": 17,
       "trans": "This project with François Berléand was my idea.",
       "words": [
         {
@@ -875,7 +727,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -924,7 +776,7 @@
           "pos": "det",
           "stress": "mɔ̃",
           "gloss": "my",
-          "gram": "possessive, masculine singular"
+          "gram": "possessive before a feminine noun beginning with a vowel"
         },
         {
           "t": "idée.",
@@ -937,16 +789,16 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 19,
       "trans": "The young director with the older actor.",
       "words": [
         {
           "t": "Le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "jeune",
@@ -954,7 +806,7 @@
           "pos": "adj",
           "stress": "ʒœn",
           "gloss": "young",
-          "gram": "feminine singular, before the noun"
+          "gram": "adjective; same masculine and feminine singular form"
         },
         {
           "t": "metteur",
@@ -969,8 +821,8 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "in",
+          "gram": "preposition; meaning depends on the following phrase"
         },
         {
           "t": "scène",
@@ -1007,7 +859,7 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 21,
       "trans": "An exciting prospect, right?",
       "words": [
         {
@@ -1040,12 +892,12 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         }
       ]
     },
     {
-      "seg": 26,
+      "seg": 23,
       "trans": "I love it!",
       "words": [
         {
@@ -1059,7 +911,7 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 25,
       "trans": "I am all yours.",
       "words": [
         {
@@ -1068,7 +920,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -1080,11 +932,11 @@
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "à",
@@ -1105,8 +957,8 @@
       ]
     },
     {
-      "seg": 30,
-      "trans": "But I",
+      "seg": 27,
+      "trans": "But I'm not jumping on the duck!",
       "words": [
         {
           "t": "Mais",
@@ -1122,7 +974,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -1158,11 +1010,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "canard!",
@@ -1175,7 +1027,7 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 29,
       "trans": "Just once, to see!",
       "words": [
         {
@@ -1199,8 +1051,8 @@
           "lemma": "fois",
           "pos": "noun",
           "stress": "fwa",
-          "gloss": "times (twice)",
-          "gram": "feminine plural; deux fois = twice"
+          "gloss": "time; occasion",
+          "gram": "feminine; same written form in singular and plural"
         },
         {
           "t": "pour",
@@ -1208,7 +1060,7 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "gram": "preposition"
         },
         {
           "t": "voir!",
@@ -1221,8 +1073,8 @@
       ]
     },
     {
-      "seg": 34,
-      "trans": "I",
+      "seg": 31,
+      "trans": "I'm not jumping on the duck, is that clear?",
       "words": [
         {
           "t": "Je",
@@ -1230,7 +1082,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -1266,11 +1118,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "canard,",
@@ -1299,40 +1151,16 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "The water is lovely, you can try.",
+      "seg": 33,
+      "trans": "You can try.",
       "words": [
         {
-          "t": "L'eau",
-          "lemma": "eau",
-          "pos": "noun",
-          "stress": "lo",
-          "gloss": "water",
-          "gram": "la + eau: elided definite article + feminine singular noun"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
-        },
-        {
-          "t": "délicieuse,",
-          "lemma": "délicieux",
-          "pos": "adj",
-          "stress": "delisjøz",
-          "gloss": "delicious",
-          "gram": "adjective, feminine singular"
-        },
-        {
-          "t": "tu",
+          "t": "Tu",
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "peux",
@@ -1353,8 +1181,8 @@
       ]
     },
     {
-      "seg": 38,
-      "trans": "It",
+      "seg": 35,
+      "trans": "It's ridiculous, the pool and the duck!",
       "words": [
         {
           "t": "C'est",
@@ -1398,11 +1226,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "canard!",
@@ -1415,7 +1243,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 37,
       "trans": "That is not Dom Juan!",
       "words": [
         {
@@ -1423,7 +1251,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -1463,13 +1291,13 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         }
       ]
     },
     {
-      "seg": 42,
+      "seg": 39,
       "trans": "I have had enough!",
       "words": [
         {
@@ -1477,8 +1305,8 @@
           "lemma": "en",
           "pos": "pron",
           "stress": "ʒɑ̃",
-          "gloss": "I ... of it, I ... some",
-          "gram": "je (I) + en (of it/some)"
+          "gloss": "I ... of it",
+          "gram": "je + en; part of en avoir marre: to have had enough"
         },
         {
           "t": "ai",
@@ -1499,7 +1327,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 41,
       "trans": "Do you know what an agent is?",
       "words": [
         {
@@ -1507,8 +1335,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "sais",
@@ -1516,15 +1344,15 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "ce",
           "lemma": "ce",
-          "pos": "det",
+          "pos": "pron",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
-          "gram": "demonstrative, masculine singular"
+          "gloss": "what",
+          "gram": "ce que: what, introducing what is known"
         },
         {
           "t": "qu'est",
@@ -1553,69 +1381,7 @@
       ]
     },
     {
-      "seg": 45,
-      "trans": "Ten percent of a star",
-      "words": [
-        {
-          "t": "Dix",
-          "lemma": "dix",
-          "pos": "num",
-          "stress": "dis",
-          "gloss": "ten",
-          "gram": "number; final x silent before a consonant"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "cent",
-          "lemma": "cent",
-          "pos": "num",
-          "stress": "sɑ̃",
-          "gloss": "hundred",
-          "gram": "cardinal number, no s before mille"
-        },
-        {
-          "t": "du",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
-        },
-        {
-          "t": "cachet",
-          "lemma": "cachet",
-          "pos": "noun",
-          "stress": "kaʃɛ",
-          "gloss": "fee",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "d'une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "dyn",
-          "gloss": "of a, from a",
-          "gram": "de (of/from) + une: feminine singular indefinite article"
-        },
-        {
-          "t": "star?",
-          "lemma": "star",
-          "pos": "noun",
-          "stress": "staʁ",
-          "gloss": "star (famous person)",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 46,
+      "seg": 42,
       "trans": "This project with François Berléand was my idea.",
       "words": [
         {
@@ -1623,7 +1389,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -1672,7 +1438,7 @@
           "pos": "det",
           "stress": "mɔ̃",
           "gloss": "my",
-          "gram": "possessive, masculine singular"
+          "gram": "possessive before a feminine noun beginning with a vowel"
         },
         {
           "t": "idée.",
@@ -1685,16 +1451,16 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 43,
       "trans": "The young director with the older actor.",
       "words": [
         {
           "t": "Le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "jeune",
@@ -1702,7 +1468,7 @@
           "pos": "adj",
           "stress": "ʒœn",
           "gloss": "young",
-          "gram": "feminine singular, before the noun"
+          "gram": "adjective; same masculine and feminine singular form"
         },
         {
           "t": "metteur",
@@ -1717,8 +1483,8 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "in",
+          "gram": "preposition; meaning depends on the following phrase"
         },
         {
           "t": "scène",
@@ -1755,7 +1521,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 44,
       "trans": "An exciting prospect, right?",
       "words": [
         {
@@ -1788,12 +1554,12 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         }
       ]
     },
     {
-      "seg": 49,
+      "seg": 45,
       "trans": "I love it!",
       "words": [
         {
@@ -1807,7 +1573,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 46,
       "trans": "I am all yours.",
       "words": [
         {
@@ -1816,7 +1582,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -1828,11 +1594,11 @@
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "à",
@@ -1853,8 +1619,8 @@
       ]
     },
     {
-      "seg": 51,
-      "trans": "But I",
+      "seg": 47,
+      "trans": "But I'm not jumping on the duck!",
       "words": [
         {
           "t": "Mais",
@@ -1870,7 +1636,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -1906,11 +1672,227 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "canard!",
+          "lemma": "canard",
+          "pos": "noun",
+          "stress": "kanaʁ",
+          "gloss": "duck",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "Just once, to see!",
+      "words": [
+        {
+          "t": "Juste",
+          "lemma": "juste",
+          "pos": "adv",
+          "stress": "ʒyst",
+          "gloss": "just",
+          "gram": "adverb, after the verb"
+        },
+        {
+          "t": "une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "an (one)",
+          "gram": "indefinite article, feminine singular"
+        },
+        {
+          "t": "fois,",
+          "lemma": "fois",
+          "pos": "noun",
+          "stress": "fwa",
+          "gloss": "time; occasion",
+          "gram": "feminine; same written form in singular and plural"
+        },
+        {
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "for",
+          "gram": "preposition"
+        },
+        {
+          "t": "voir!",
+          "lemma": "voir",
+          "pos": "verb",
+          "stress": "vwaʁ",
+          "gloss": "see",
+          "gram": "infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "I'm not jumping on the duck, is that clear?",
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, first person singular"
+        },
+        {
+          "t": "ne",
+          "lemma": "ne",
+          "pos": "part",
+          "stress": "nə",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
+        },
+        {
+          "t": "saute",
+          "lemma": "sauter",
+          "pos": "verb",
+          "stress": "sot",
+          "gloss": "jump",
+          "gram": "present, 1sg"
+        },
+        {
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "part",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
+        },
+        {
+          "t": "sur",
+          "lemma": "sur",
+          "pos": "prep",
+          "stress": "syʁ",
+          "gloss": "onto",
+          "gram": "preposition ('sur', meaning 'onto')"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "canard,",
+          "lemma": "canard",
+          "pos": "noun",
+          "stress": "kanaʁ",
+          "gloss": "duck",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "c'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "clair?",
+          "lemma": "clair",
+          "pos": "adj",
+          "stress": "klɛʁ",
+          "gloss": "clear",
+          "gram": "adjective, masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "You can try.",
+      "words": [
+        {
+          "t": "Tu",
+          "lemma": "tu",
+          "pos": "pron",
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
+        },
+        {
+          "t": "peux",
+          "lemma": "pouvoir",
+          "pos": "verb",
+          "stress": "pø",
+          "gloss": "can",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "essayer.",
+          "lemma": "essayer",
+          "pos": "verb",
+          "stress": "eseje",
+          "gloss": "to try",
+          "gram": "infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 51,
+      "trans": "It's ridiculous, the pool and the duck!",
+      "words": [
+        {
+          "t": "C'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "ridicule,",
+          "lemma": "ridicule",
+          "pos": "adj",
+          "stress": "ʁidikyl",
+          "gloss": "ridiculous",
+          "gram": "masculine singular (same form in feminine)"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
+        },
+        {
+          "t": "piscine",
+          "lemma": "piscine",
+          "pos": "noun",
+          "stress": "pisin",
+          "gloss": "pool",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "et",
+          "lemma": "et",
+          "pos": "conj",
+          "stress": "e",
+          "gloss": "and",
+          "gram": "coordinating conjunction"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "canard!",
@@ -1924,246 +1906,6 @@
     },
     {
       "seg": 52,
-      "trans": "Just once, to see!",
-      "words": [
-        {
-          "t": "Juste",
-          "lemma": "juste",
-          "pos": "adv",
-          "stress": "ʒyst",
-          "gloss": "just",
-          "gram": "adverb, after the verb"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "fois,",
-          "lemma": "fois",
-          "pos": "noun",
-          "stress": "fwa",
-          "gloss": "times (twice)",
-          "gram": "feminine plural; deux fois = twice"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "voir!",
-          "lemma": "voir",
-          "pos": "verb",
-          "stress": "vwaʁ",
-          "gloss": "see",
-          "gram": "infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 53,
-      "trans": "I",
-      "words": [
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "saute",
-          "lemma": "sauter",
-          "pos": "verb",
-          "stress": "sot",
-          "gloss": "jump",
-          "gram": "present, 1sg"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "sur",
-          "lemma": "sur",
-          "pos": "prep",
-          "stress": "syʁ",
-          "gloss": "onto",
-          "gram": "preposition ('sur', meaning 'onto')"
-        },
-        {
-          "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
-        },
-        {
-          "t": "canard,",
-          "lemma": "canard",
-          "pos": "noun",
-          "stress": "kanaʁ",
-          "gloss": "duck",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "clair?",
-          "lemma": "clair",
-          "pos": "adj",
-          "stress": "klɛʁ",
-          "gloss": "clear",
-          "gram": "adjective, masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 54,
-      "trans": "The water is lovely, you can try.",
-      "words": [
-        {
-          "t": "L'eau",
-          "lemma": "eau",
-          "pos": "noun",
-          "stress": "lo",
-          "gloss": "water",
-          "gram": "la + eau: elided definite article + feminine singular noun"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
-        },
-        {
-          "t": "délicieuse,",
-          "lemma": "délicieux",
-          "pos": "adj",
-          "stress": "delisjøz",
-          "gloss": "delicious",
-          "gram": "adjective, feminine singular"
-        },
-        {
-          "t": "tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
-        },
-        {
-          "t": "peux",
-          "lemma": "pouvoir",
-          "pos": "verb",
-          "stress": "pø",
-          "gloss": "can",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "essayer.",
-          "lemma": "essayer",
-          "pos": "verb",
-          "stress": "eseje",
-          "gloss": "to try",
-          "gram": "infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 55,
-      "trans": "It",
-      "words": [
-        {
-          "t": "C'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "ridicule,",
-          "lemma": "ridicule",
-          "pos": "adj",
-          "stress": "ʁidikyl",
-          "gloss": "ridiculous",
-          "gram": "masculine singular (same form in feminine)"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "piscine",
-          "lemma": "piscine",
-          "pos": "noun",
-          "stress": "pisin",
-          "gloss": "pool",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "et",
-          "lemma": "et",
-          "pos": "conj",
-          "stress": "e",
-          "gloss": "and",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
-        },
-        {
-          "t": "canard!",
-          "lemma": "canard",
-          "pos": "noun",
-          "stress": "kanaʁ",
-          "gloss": "duck",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 56,
       "trans": "That is not Dom Juan!",
       "words": [
         {
@@ -2171,7 +1913,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -2211,13 +1953,13 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         }
       ]
     },
     {
-      "seg": 57,
+      "seg": 53,
       "trans": "I have had enough!",
       "words": [
         {
@@ -2225,8 +1967,8 @@
           "lemma": "en",
           "pos": "pron",
           "stress": "ʒɑ̃",
-          "gloss": "I ... of it, I ... some",
-          "gram": "je (I) + en (of it/some)"
+          "gloss": "I ... of it",
+          "gram": "je + en; part of en avoir marre: to have had enough"
         },
         {
           "t": "ai",
@@ -2247,7 +1989,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 55,
       "trans": "Have a good evening!",
       "words": [
         {
@@ -2280,7 +2022,7 @@
       "meanings": [
         {
           "en": "actor",
-          "note": "Feminine: actrice. Derived with the Romance agent/quality suffix '-eur'/'-euse' (from Latin '-or'/'-tor'). Standard masculine noun meaning 'actor'."
+          "note": "Feminine: actrice."
         }
       ],
       "forms": {
@@ -2330,7 +2072,7 @@
       "meanings": [
         {
           "en": "to love, to adore",
-          "note": "Stronger than aimer for things. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to love'; conjugates with 'avoir' in compound tenses (past participle 'adoré')."
+          "note": "Stronger than aimer for things."
         }
       ],
       "forms": {
@@ -2548,7 +2290,7 @@
       "meanings": [
         {
           "en": "with",
-          "note": "Core French preposition meaning 'with', linking a noun phrase or infinitive complement to the clause."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2586,11 +2328,11 @@
         },
         {
           "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire')."
         },
         {
           "en": "il y a = there is, there are",
-          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "Fixed expression. French '-ir' verb (from Latin '-ire')."
         }
       ],
       "forms": {
@@ -2829,62 +2571,6 @@
         }
       ]
     },
-    "cachet": {
-      "lemma": "cachet",
-      "stress": "kaʃɛ",
-      "pos": "noun",
-      "gloss": "fee (for an actor)",
-      "gender": "m",
-      "plural": "cachets",
-      "meanings": [
-        {
-          "en": "fee, pay",
-          "note": "Actor's fee. Masculine noun ('le cachet', plural 'les cachets') inherited through Romance vocabulary, used in everyday and professional French for 'fee'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "cachet",
-              "cachets"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le cachet de l'acteur.",
-          "trans": "The actor's fee."
-        },
-        {
-          "text": "Dix pour cent du cachet d'une star?",
-          "trans": "Ten percent of a star's pay?"
-        },
-        {
-          "text": "Un second rôle avec un cachet formidable!",
-          "trans": "A supporting role with a huge paycheck!"
-        }
-      ],
-      "related": [
-        {
-          "word": "cacher",
-          "gloss": "to hide"
-        },
-        {
-          "word": "cachette",
-          "gloss": "hiding place"
-        }
-      ]
-    },
     "canard": {
       "lemma": "canard",
       "stress": "kanaʁ",
@@ -3002,44 +2688,6 @@
         }
       ]
     },
-    "cent": {
-      "lemma": "cent",
-      "stress": "sɑ̃",
-      "pos": "num",
-      "gloss": "hundred",
-      "meanings": [
-        {
-          "en": "a hundred",
-          "note": "Trois cents, but trois cent mille. Spoken French num expression meaning 'hundred', common in natural conversation."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Trois cent mille.",
-          "trans": "Three hundred thousand."
-        },
-        {
-          "text": "Cent euros.",
-          "trans": "A hundred euros."
-        },
-        {
-          "text": "Oui, trois cent mille. Je parle de ses vingt ans de carrière.",
-          "trans": "Yes, three hundred thousand. I'm talking about his twenty years of career."
-        }
-      ],
-      "related": [
-        {
-          "word": "centre",
-          "gloss": "centre"
-        },
-        {
-          "word": "centimètre",
-          "gloss": "centimeter"
-        }
-      ]
-    },
     "clair": {
       "lemma": "clair",
       "stress": "klɛʁ",
@@ -3101,199 +2749,6 @@
         }
       ]
     },
-    "de": {
-      "lemma": "de",
-      "stress": "də",
-      "pos": "prep",
-      "gloss": "of, from; some",
-      "meanings": [
-        {
-          "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
-        },
-        {
-          "en": "'s (possession)",
-          "note": "le film de Tarantino = Tarantino's film"
-        },
-        {
-          "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le film de Kechiche.",
-          "trans": "The Kechiche film."
-        },
-        {
-          "text": "C'est du sucre.",
-          "trans": "It's sugar."
-        },
-        {
-          "text": "Pleine de requins.",
-          "trans": "Full of sharks."
-        }
-      ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "de + le"
-        },
-        {
-          "word": "des",
-          "gloss": "de + les"
-        }
-      ]
-    },
-    "dix": {
-      "lemma": "dix",
-      "stress": "dis",
-      "pos": "num",
-      "gloss": "ten",
-      "meanings": [
-        {
-          "en": "ten",
-          "note": "pronounced dis alone, di before a consonant, diz before a vowel"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Dix pour cent.",
-          "trans": "Ten percent."
-        },
-        {
-          "text": "Il est dix heures.",
-          "trans": "It's ten o'clock."
-        },
-        {
-          "text": "Pourquoi te donner dix pour cent si tu ne me défends pas?",
-          "trans": "Why give you ten percent if you don't stand up for me?"
-        }
-      ],
-      "related": [
-        {
-          "word": "dix",
-          "gloss": "ten"
-        }
-      ]
-    },
-    "délicieux": {
-      "lemma": "délicieux",
-      "stress": "delisjø",
-      "pos": "adj",
-      "gloss": "delicious, lovely",
-      "meanings": [
-        {
-          "en": "delicious, lovely",
-          "note": "French relational/descriptive adjective derived from Latin adjectival roots. Prefix 'dé-'/'des-' (from Latin 'dis-'/'de-') marks reversal, removal, or separation."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "délicieux",
-              "délicieuse"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "délicieux",
-              "délicieuses"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "L'eau est délicieuse.",
-          "trans": "The water is lovely."
-        },
-        {
-          "text": "L'eau est délicieuse, tu peux essayer.",
-          "trans": "The water is lovely, you can try."
-        },
-        {
-          "text": "Finissez d'abord vos délicieux croissants chauds.",
-          "trans": "First finish your delicious warm croissants."
-        }
-      ],
-      "related": [
-        {
-          "word": "très délicieux",
-          "gloss": "very delicious"
-        },
-        {
-          "word": "plus délicieux",
-          "gloss": "more delicious"
-        }
-      ]
-    },
-    "eau": {
-      "lemma": "eau",
-      "stress": "o",
-      "pos": "noun",
-      "gloss": "water",
-      "gender": "f",
-      "plural": "eaux",
-      "meanings": [
-        {
-          "en": "water",
-          "note": "Un verre d'eau = a glass of water. Feminine noun ('la eau', plural 'les eaux') inherited through Romance vocabulary, used in everyday and professional French for 'water'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'eau",
-              "les eaux"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Un verre d'eau, s'il vous plaît.",
-          "trans": "A glass of water, please."
-        },
-        {
-          "text": "L'eau est froide.",
-          "trans": "The water is cold."
-        },
-        {
-          "text": "Non, merci. Un verre d'eau.",
-          "trans": "No, thank you. A glass of water."
-        }
-      ],
-      "related": [
-        {
-          "word": "un verre d'eau",
-          "gloss": "a glass of water"
-        }
-      ]
-    },
     "en": {
       "lemma": "en",
       "stress": "ɑ̃",
@@ -3337,11 +2792,11 @@
       "meanings": [
         {
           "en": "to try",
-          "note": "Essayer de + infinitive. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to try'; conjugates with 'avoir' in compound tenses (past participle 'essayé')."
+          "note": "Essayer de + infinitive."
         },
         {
           "en": "to try on",
-          "note": "Clothes. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to try'; conjugates with 'avoir' in compound tenses (past participle 'essayé')."
+          "note": "Clothes."
         }
       ],
       "forms": {
@@ -3694,7 +3149,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -4279,7 +3734,7 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+          "note": "+ infinitive: pour voir."
         }
       ],
       "forms": null,
@@ -4321,7 +3776,7 @@
       "meanings": [
         {
           "en": "can, to be able to",
-          "note": "+ infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'can, to be able to'."
+          "note": "+ infinitive. French '-ir' verb (from Latin '-ire')."
         },
         {
           "en": "could (polite)",
@@ -4596,7 +4051,7 @@
       "meanings": [
         {
           "en": "to jump, to leap",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to jump'; conjugates with 'avoir' in compound tenses (past participle 'sauté')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4754,11 +4209,11 @@
       "meanings": [
         {
           "en": "to know (a fact)",
-          "note": "Je ne sais pas = I don't know. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "Je ne sais pas = I don't know. French '-ir' verb (from Latin '-ire')."
         },
         {
           "en": "to know how to, can",
-          "note": "+ infinitive: savoir monter. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "+ infinitive: savoir monter. French '-ir' verb (from Latin '-ire')."
         }
       ],
       "forms": {
@@ -5020,58 +4475,6 @@
         }
       ]
     },
-    "star": {
-      "lemma": "star",
-      "stress": "staʁ",
-      "pos": "noun",
-      "gloss": "star, celebrity",
-      "gender": "f",
-      "plural": "stars",
-      "meanings": [
-        {
-          "en": "star, celebrity",
-          "note": "Always feminine, even for a man. Feminine noun ('la star', plural 'les stars') inherited through Romance vocabulary, used in everyday and professional French for 'star'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la star",
-              "les stars"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Des stars.",
-          "trans": "Stars."
-        },
-        {
-          "text": "C'est une grande star.",
-          "trans": "He's a big star."
-        },
-        {
-          "text": "Cette agence ne représente que des stars.",
-          "trans": "This agency only represents stars."
-        }
-      ],
-      "related": [
-        {
-          "word": "une star / des stars",
-          "gloss": "a star / stars"
-        }
-      ]
-    },
     "sur": {
       "lemma": "sur",
       "stress": "syʁ",
@@ -5080,11 +4483,11 @@
       "meanings": [
         {
           "en": "on, onto",
-          "note": "Sur la table, sur la route. Core French preposition meaning 'on', linking a noun phrase or infinitive complement to the clause."
+          "note": "Sur la table, sur la route."
         },
         {
           "en": "on (a device)",
-          "note": "Sur haut-parleur = on speaker. Core French preposition meaning 'on', linking a noun phrase or infinitive complement to the clause."
+          "note": "Sur haut-parleur = on speaker."
         }
       ],
       "forms": null,
@@ -5118,11 +4521,11 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Tout le monde = everybody."
         },
         {
           "en": "tout ce que = all that, everything that",
-          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Pronoun use."
         }
       ],
       "forms": {
@@ -5168,48 +4571,6 @@
         {
           "word": "tout le monde",
           "gloss": "everybody"
-        },
-        {
-          "word": "tout de suite",
-          "gloss": "right away"
-        },
-        {
-          "word": "tout à l'heure",
-          "gloss": "earlier"
-        }
-      ]
-    },
-    "tout le monde": {
-      "lemma": "tout le monde",
-      "stress": "tuləmɔ̃d",
-      "pos": "phrase",
-      "gloss": "everybody, everyone",
-      "meanings": [
-        {
-          "en": "everybody, everyone",
-          "note": "takes a singular verb: tout le monde est là"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tout le monde est là.",
-          "trans": "Everyone is here."
-        },
-        {
-          "text": "Bonjour tout le monde!",
-          "trans": "Hello everyone!"
-        },
-        {
-          "text": "On est au Westin. Tout le monde est là.",
-          "trans": "We're at the Westin. Everyone is here."
-        }
-      ],
-      "related": [
-        {
-          "word": "tout",
-          "gloss": "all"
         },
         {
           "word": "tout de suite",
@@ -5267,7 +4628,7 @@
         },
         {
           "en": "one",
-          "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
+          "note": "Number; l'un = one of them."
         }
       ],
       "forms": {
@@ -5328,7 +4689,7 @@
         },
         {
           "en": "to meet, to visit",
-          "note": "Voir quelqu'un. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to see'."
+          "note": "Voir quelqu'un. French '-ir' verb (from Latin '-ire')."
         }
       ],
       "forms": {
@@ -5486,11 +4847,11 @@
       "meanings": [
         {
           "en": "you (polite)",
-          "note": "One person, formal. High-frequency French pronoun meaning 'you'; clitic object forms precede the conjugated verb."
+          "note": "One person, formal."
         },
         {
           "en": "you (plural)",
-          "note": "Several people. High-frequency French pronoun meaning 'you'; clitic object forms precede the conjugated verb."
+          "note": "Several people."
         },
         {
           "en": "you (object)",
@@ -5528,15 +4889,15 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Place: à Paris, à mon cours."
         },
         {
           "en": "at",
-          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Time: à midi."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Contractions."
         }
       ],
       "forms": null,
@@ -5627,11 +4988,11 @@
       "meanings": [
         {
           "en": "that, it",
-          "note": "Informal for cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "Informal for cela."
         },
         {
           "en": "ça fait... que = it's been...",
-          "note": "With time. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "With time."
         }
       ],
       "forms": null,
@@ -5665,11 +5026,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {

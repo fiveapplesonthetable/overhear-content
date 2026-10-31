@@ -4,41 +4,40 @@ Title: C'est la femme des impôts?  (Is That the Tax Woman?)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E05
-
+The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the bilingual working subtitles, whose French track is backtranslated; source video and separate original-audio checks verify roles, plot and register.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Andréa | Viens là. | Come here. | #23: Viens là | verbatim |
-| 2 | Colette | Je vais prendre une douche. | I'm going to take a shower. | #24: Je vais prendre une douche | verbatim |
-| 3 | Colette | Voilà. De rien! | There you go. You're welcome! | #25: Voilà<br>#25: De rien | verbatim |
-| 4 | Colette | Je vais vraiment être en retard. | I'm really going to be late. | #26: je vais vraiment<br>#26: être en retard | verbatim |
-| 5 | Andréa | Moi aussi. | Me too. | #27: moi aussi | verbatim |
-| 6 | Gabriel | Tu étais où? Tu ne répondais pas au téléphone. | Where were you? You weren't answering your phone. | #28: étais où<br>#29: Tu ne répondais pas au téléphone | verbatim |
-| 7 | Gabriel | Il y a eu un drame sur le tournage! | There was a crisis on the film shoot! | #30: Il y a eu un<br>#30: sur le tournage | verbatim |
-| 8 | Andréa | Désolée. J'étais avec une fille. | Sorry. I was with a girl. | #30: Désolé<br>#31: J'étais avec une<br>#31: fille | verbatim |
-| 9 | Gabriel | Tu aurais quand même pu répondre. | You still could have answered. | #32: aurais quand même pu répondre | verbatim |
-| 10 | Gabriel | C'est la femme des impôts? | Is that the tax woman? | #33: C'est la femme des impôts ? | verbatim |
-| 11 | Andréa | Non. | No. | #35: Non | verbatim |
-| 12 | Gabriel | Incroyable! Et si c'est ta voisine? | Incredible! What if she's your neighbour? | #35: Incroyable<br>#36: Si c'est ta voisine | verbatim |
-| 13 | Gabriel | C'est effrayant! | That's scary! | #36: Flippant<br>#37: Flippant | verbatim |
-| 14 | Colette | Tu me manques déjà. | I miss you already. | #38: Tu me manques déjà | verbatim |
-
+| 1 | Andréa | Viens là. | Come here. | #23 00:02:32: Viens là | adapted: Learner adaptation, not a verbatim French transcript. |
+| 2 | Colette | Je vais prendre une douche. | I'm going to take a shower. | #24 00:02:33: Je vais prendre une douche | adapted: Learner adaptation, not a verbatim French transcript. |
+| 3 | Andréa | Voilà. De rien! | There you go. You're welcome! | #25 00:02:38: Voilà<br>#25 00:02:38: De rien | adapted: Primary-video check: Andrea brings breakfast and says this to Colette. Learner adaptation, not a verbatim French transcript. |
+| 4 | Colette | Je vais vraiment être en retard. | I'm really going to be late. | #26 00:02:43: je vais vraiment<br>#26 00:02:43: être en retard | adapted: Learner adaptation, not a verbatim French transcript. |
+| 5 | Andréa | Moi aussi. | Me too. | #27 00:02:45: moi aussi | adapted: Learner adaptation, not a verbatim French transcript. |
+| 6 | Gabriel | Tu étais où? Tu ne répondais pas au téléphone. | Where were you? You weren't answering your phone. | #28 00:02:51: étais où<br>#29 00:02:53: Tu ne répondais pas au téléphone | adapted: Learner adaptation, not a verbatim French transcript. |
+| 7 | Gabriel | Il y a eu un drame sur le tournage! | There was a crisis on the film shoot! | #30 00:02:55: Il y a eu un<br>#30 00:02:55: sur le tournage | adapted: Learner adaptation, not a verbatim French transcript. |
+| 8 | Andréa | Désolée. J'étais avec une fille. | Sorry. I was with a girl. | #30 00:02:55: Désolé<br>#31 00:02:58: J'étais avec une<br>#31 00:02:58: fille | adapted: Learner adaptation, not a verbatim French transcript. |
+| 9 | Gabriel | Tu aurais quand même pu répondre. | You still could have answered. | #32 00:03:00: aurais quand même pu répondre | adapted: Learner adaptation, not a verbatim French transcript. |
+| 10 | Gabriel | C'est la femme des impôts? | Is that the tax woman? | #33 00:03:08: C'est la femme des impôts ? | adapted: Learner adaptation, not a verbatim French transcript. |
+| 11 | Andréa | Non. | No. | #35 00:03:13: Non | adapted: Learner adaptation, not a verbatim French transcript. |
+| 12 | Gabriel | Incroyable! Et si c'est ta voisine? | Incredible! What if she's your neighbour? | #35 00:03:13: Incroyable<br>#36 00:03:15: Si c'est ta voisine | adapted: Learner adaptation, not a verbatim French transcript. |
+| 13 | Gabriel | C'est effrayant! | That's scary! | #36 00:03:15: Flippant<br>#37 00:03:19: Flippant | adapted: Learner adaptation, not a verbatim French transcript. |
+| 14 | Colette | Tu me manques déjà. | I miss you already. | #38 00:03:23: Tu me manques déjà | adapted: A short on-screen message read aloud for the lesson. Learner adaptation, not a verbatim French transcript. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come here.' This casual command of 'to come', followed by the word for 'there' or 'here'.
-- 'I'm going to take a shower.' The near future built with 'I go' plus the basic form 'to take'.
-- 'There you go. You're welcome!' In the kitchen, Colette hands Andréa a fresh slice of toast after she drops hers on the floor. Literally 'of nothing'.
-- 'I'm really going to be late.' Notice how the modifier 'really' sits right between 'I am going' and 'to be'.
-- 'Me too.' The stressed pronoun for 'me' with the word for 'also'.
-- 'Where were you? You weren't answering your phone.' Outside on the street, Gabriel rushes up to Andréa using the imperfect past tense for what was happening.
-- 'There was a crisis on the film shoot!' The past tense of 'there is', literally 'it has had a drama on the shoot'.
-- 'Sorry. I was with a girl.' Andréa explains why her phone was off without mentioning who the woman was.
-- 'You still could have answered.' Literally 'you would all the same have been able to answer'.
-- 'Is that the tax woman?' Gabriel spots Colette walking down the pavement after leaving Andréa's building.
-- 'No.' Not wanting Gabriel to know she spent the night with the auditor, Andréa lies without blinking.
-- 'Incredible! What if she's your neighbour?' Gabriel assumes Colette must live in the same building.
-- 'That's scary!' Gabriel shudders at the thought of living next door to the tax inspector.
-- 'I miss you already.' In the taxi, Andréa's phone buzzes with a sweet message from Colette. In French, the person you miss is the subject: literally 'you are lacking to me already'.
+- 'Come here.' A familiar instruction can begin directly with the action. The last word points to the place beside the speaker.
+- 'I'm going to take a shower.' A form of go comes before take to announce a plan. The same pattern works with many other things someone is about to do.
+- 'There you go. You're welcome!' The last two French words literally mean of nothing. Together they are an ordinary reply to thanks.
+- 'I'm really going to be late.' The word meaning really sits inside the plan, before be. It strengthens the whole warning about being late.
+- 'Me too.' The final word adds the speaker to the same situation. The short reply needs no repeated explanation about lateness.
+- 'Where were you? You weren't answering your phone.' The past forms present where she was and what she was not doing over that period. They set the background for his complaint.
+- 'There was a crisis on the film shoot!' The familiar expression for there is has moved into the past. The word for shoot refers to filming, rather than to the story being filmed.
+- 'Sorry. I was with a girl.' The ending of sorry is written for a woman here. Andrea describes the person she was with without revealing her name.
+- 'You still could have answered.' This does more than describe an ability. It says that an answer was possible and carries a reproach because she did not give one.
+- 'Is that the tax woman?' The French expression refers to the tax authorities with a plural word for taxes. Gabriel has recognised someone he hoped to avoid.
+- 'No.' A single negative answer can stand alone. Andrea offers no explanation, which makes the denial sound especially abrupt.
+- 'Incredible! What if she's your neighbour?' The small word meaning if introduces a possibility. Gabriel imagines another reason for finding her in the building.
+- 'That's scary!' The adjective describes the possibility as frightening. It does not mean that Gabriel himself is frightening.
+- 'I miss you already.' French reverses the English pattern: the person missed is the one said to be lacking to the speaker. The small word for to me marks who feels the absence.

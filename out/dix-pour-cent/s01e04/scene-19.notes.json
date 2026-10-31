@@ -27,16 +27,16 @@
           "lemma": "en",
           "pos": "pron",
           "stress": "mɑ̃",
-          "gloss": "me of it, about it",
-          "gram": "me (me/myself) + en (of it)"
+          "gloss": "myself ... away",
+          "gram": "me + en in s’en aller = go away, leave"
         },
         {
           "t": "vais.",
           "lemma": "aller",
           "pos": "verb",
           "stress": "vɛ",
-          "gloss": "am going (to)",
-          "gram": "present, 1st person singular; aller + infinitive = near future"
+          "gloss": "go, am leaving",
+          "gram": "present, 1st person singular in je m’en vais"
         },
         {
           "t": "Profitez",
@@ -59,8 +59,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "preposition after profiter: enjoy"
         },
         {
           "t": "la",
@@ -82,7 +82,7 @@
     },
     {
       "seg": 2,
-      "trans": "I really don",
+      "trans": "I really don't feel like it. See you tomorrow.",
       "words": [
         {
           "t": "Je",
@@ -97,8 +97,8 @@
           "lemma": "en",
           "pos": "pron",
           "stress": "nɑ̃",
-          "gloss": "not ... any, none of it",
-          "gram": "ne (not) + en (of it/any)"
+          "gloss": "not ... of it",
+          "gram": "ne + en; en refers to going to the screening"
         },
         {
           "t": "ai",
@@ -130,15 +130,15 @@
           "pos": "noun",
           "stress": "ɑ̃vi",
           "gloss": "desire, urge",
-          "gram": "feminine singular, no article in 'donner envie'"
+          "gram": "feminine singular; avoir envie de = feel like, want"
         },
         {
           "t": "À",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "until",
+          "gram": "preposition in the farewell à demain = see you tomorrow"
         },
         {
           "t": "demain.",
@@ -160,7 +160,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
+          "gram": "affirmative answer"
         },
         {
           "t": "Mathias.",
@@ -178,19 +178,19 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has (helping verb)",
+          "gram": "present, 3rd person singular; helping verb with oublié"
         },
         {
           "t": "oublié",
@@ -205,8 +205,8 @@
           "lemma": "son",
           "pos": "det",
           "stress": "sɔ̃",
-          "gloss": "her",
-          "gram": "possessive, 3rd person; son before a vowel"
+          "gloss": "his",
+          "gram": "possessive, masculine singular, agrees with téléphone"
         },
         {
           "t": "téléphone.",
@@ -251,8 +251,8 @@
           "lemma": "par",
           "pos": "prep",
           "stress": "paʁ",
-          "gloss": "by (par exemple = for example)",
-          "gram": "preposition ('par', meaning 'by')"
+          "gloss": "by",
+          "gram": "preposition giving the way the contract was sent"
         },
         {
           "t": "e-mail.",
@@ -329,8 +329,8 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "until",
+          "gram": "preposition in the farewell à demain = see you tomorrow"
         },
         {
           "t": "demain,",
@@ -352,7 +352,7 @@
     },
     {
       "seg": 7,
-      "trans": "Noémie? What",
+      "trans": "Noémie? What's wrong?",
       "words": [
         {
           "t": "Noémie?",
@@ -380,25 +380,25 @@
         },
         {
           "t": "y",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "y",
+          "pos": "pron",
           "stress": "i",
-          "gloss": "there (is)",
-          "gram": "part of il y a"
+          "gloss": "there",
+          "gram": "pronoun in il y a; question asks what is wrong"
         },
         {
           "t": "a?",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "is (in what is wrong?)",
+          "gram": "present, 3rd person singular in il y a"
         }
       ]
     },
     {
       "seg": 8,
-      "trans": "I don",
+      "trans": "I don't understand. It's Mathias.",
       "words": [
         {
           "t": "Je",
@@ -452,23 +452,23 @@
     },
     {
       "seg": 9,
-      "trans": "He",
+      "trans": "He didn't even ask me to come with him.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "part",
-          "lemma": "à part",
-          "pos": "phrase",
+          "lemma": "partir",
+          "pos": "verb",
           "stress": "paʁ",
-          "gloss": "apart (from)",
-          "gram": "part of à part"
+          "gloss": "is leaving",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "avec",
@@ -484,7 +484,7 @@
           "pos": "det",
           "stress": "tut",
           "gloss": "all",
-          "gram": "feminine plural, used as a pronoun"
+          "gram": "feminine plural determiner, agrees with stars"
         },
         {
           "t": "ses",
@@ -507,8 +507,8 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "to",
+          "gram": "preposition of destination"
         },
         {
           "t": "StarMédia.",
@@ -522,15 +522,15 @@
     },
     {
       "seg": 10,
-      "trans": "He didn",
+      "trans": "He didn't even ask me to come with him.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "ne",
@@ -553,8 +553,8 @@
           "lemma": "même",
           "pos": "adv",
           "stress": "mɛm",
-          "gloss": "same",
-          "gram": "adjective, masculine singular"
+          "gloss": "even",
+          "gram": "adverb strengthening the negative"
         },
         {
           "t": "pas",
@@ -577,8 +577,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "to",
+          "gram": "preposition introducing the requested action"
         },
         {
           "t": "venir",
@@ -586,7 +586,7 @@
           "pos": "verb",
           "stress": "vəniʁ",
           "gloss": "come",
-          "gram": "infinitive, after pouvoir"
+          "gram": "infinitive after demandé de: asked someone to come"
         },
         {
           "t": "avec",
@@ -601,22 +601,22 @@
           "lemma": "lui",
           "pos": "pron",
           "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
+          "gloss": "him",
+          "gram": "stressed pronoun after avec"
         }
       ]
     },
     {
       "seg": 11,
-      "trans": "He",
+      "trans": "He's abandoning me.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "m'abandonne.",
@@ -630,7 +630,7 @@
     },
     {
       "seg": 12,
-      "trans": "I",
+      "trans": "Of course not, Noémie.",
       "words": [
         {
           "t": "Je",
@@ -677,14 +677,14 @@
           "lemma": "lui",
           "pos": "pron",
           "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
+          "gloss": "him",
+          "gram": "stressed pronoun after pour"
         }
       ]
     },
     {
       "seg": 13,
-      "trans": "Of course not, Noémie.",
+      "trans": "I want to die, Hervé.",
       "words": [
         {
           "t": "Mais",
@@ -752,7 +752,7 @@
     },
     {
       "seg": 16,
-      "trans": "Right, I",
+      "trans": "Right, I'm leaving.",
       "words": [
         {
           "t": "Bon,",
@@ -775,16 +775,16 @@
           "lemma": "en",
           "pos": "pron",
           "stress": "mɑ̃",
-          "gloss": "me of it, about it",
-          "gram": "me (me/myself) + en (of it)"
+          "gloss": "myself ... away",
+          "gram": "me + en in s’en aller = go away, leave"
         },
         {
           "t": "vais.",
           "lemma": "aller",
           "pos": "verb",
           "stress": "vɛ",
-          "gloss": "am going (to)",
-          "gram": "present, 1st person singular; aller + infinitive = near future"
+          "gloss": "go, am leaving",
+          "gram": "present, 1st person singular in je m’en vais"
         }
       ]
     },
@@ -813,8 +813,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "preposition after profiter: enjoy"
         },
         {
           "t": "la",
@@ -836,7 +836,7 @@
     },
     {
       "seg": 20,
-      "trans": "I really don",
+      "trans": "I really don't feel like it. See you tomorrow.",
       "words": [
         {
           "t": "Je",
@@ -851,8 +851,8 @@
           "lemma": "en",
           "pos": "pron",
           "stress": "nɑ̃",
-          "gloss": "not ... any, none of it",
-          "gram": "ne (not) + en (of it/any)"
+          "gloss": "not ... of it",
+          "gram": "ne + en; en refers to going to the screening"
         },
         {
           "t": "ai",
@@ -884,15 +884,15 @@
           "pos": "noun",
           "stress": "ɑ̃vi",
           "gloss": "desire, urge",
-          "gram": "feminine singular, no article in 'donner envie'"
+          "gram": "feminine singular; avoir envie de = feel like, want"
         },
         {
           "t": "À",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "until",
+          "gram": "preposition in the farewell à demain = see you tomorrow"
         },
         {
           "t": "demain.",
@@ -914,7 +914,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
+          "gram": "affirmative answer"
         },
         {
           "t": "Mathias.",
@@ -932,19 +932,19 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has (helping verb)",
+          "gram": "present, 3rd person singular; helping verb with oublié"
         },
         {
           "t": "oublié",
@@ -959,8 +959,8 @@
           "lemma": "son",
           "pos": "det",
           "stress": "sɔ̃",
-          "gloss": "her",
-          "gram": "possessive, 3rd person; son before a vowel"
+          "gloss": "his",
+          "gram": "possessive, masculine singular, agrees with téléphone"
         },
         {
           "t": "téléphone.",
@@ -1005,8 +1005,8 @@
           "lemma": "par",
           "pos": "prep",
           "stress": "paʁ",
-          "gloss": "by (par exemple = for example)",
-          "gram": "preposition ('par', meaning 'by')"
+          "gloss": "by",
+          "gram": "preposition giving the way the contract was sent"
         },
         {
           "t": "e-mail.",
@@ -1083,8 +1083,8 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "until",
+          "gram": "preposition in the farewell à demain = see you tomorrow"
         },
         {
           "t": "demain,",
@@ -1106,7 +1106,7 @@
     },
     {
       "seg": 30,
-      "trans": "Noémie? What",
+      "trans": "Noémie? What's wrong?",
       "words": [
         {
           "t": "Noémie?",
@@ -1134,25 +1134,25 @@
         },
         {
           "t": "y",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "y",
+          "pos": "pron",
           "stress": "i",
-          "gloss": "there (is)",
-          "gram": "part of il y a"
+          "gloss": "there",
+          "gram": "pronoun in il y a; question asks what is wrong"
         },
         {
           "t": "a?",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "is (in what is wrong?)",
+          "gram": "present, 3rd person singular in il y a"
         }
       ]
     },
     {
       "seg": 32,
-      "trans": "I don",
+      "trans": "I don't understand. It's Mathias.",
       "words": [
         {
           "t": "Je",
@@ -1206,23 +1206,23 @@
     },
     {
       "seg": 34,
-      "trans": "He",
+      "trans": "He didn't even ask me to come with him.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "part",
-          "lemma": "à part",
-          "pos": "phrase",
+          "lemma": "partir",
+          "pos": "verb",
           "stress": "paʁ",
-          "gloss": "apart (from)",
-          "gram": "part of à part"
+          "gloss": "is leaving",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "avec",
@@ -1238,7 +1238,7 @@
           "pos": "det",
           "stress": "tut",
           "gloss": "all",
-          "gram": "feminine plural, used as a pronoun"
+          "gram": "feminine plural determiner, agrees with stars"
         },
         {
           "t": "ses",
@@ -1261,8 +1261,8 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "to",
+          "gram": "preposition of destination"
         },
         {
           "t": "StarMédia.",
@@ -1276,15 +1276,15 @@
     },
     {
       "seg": 36,
-      "trans": "He didn",
+      "trans": "He didn't even ask me to come with him.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "ne",
@@ -1307,8 +1307,8 @@
           "lemma": "même",
           "pos": "adv",
           "stress": "mɛm",
-          "gloss": "same",
-          "gram": "adjective, masculine singular"
+          "gloss": "even",
+          "gram": "adverb strengthening the negative"
         },
         {
           "t": "pas",
@@ -1331,8 +1331,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "to",
+          "gram": "preposition introducing the requested action"
         },
         {
           "t": "venir",
@@ -1340,7 +1340,7 @@
           "pos": "verb",
           "stress": "vəniʁ",
           "gloss": "come",
-          "gram": "infinitive, after pouvoir"
+          "gram": "infinitive after demandé de: asked someone to come"
         },
         {
           "t": "avec",
@@ -1355,22 +1355,22 @@
           "lemma": "lui",
           "pos": "pron",
           "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
+          "gloss": "him",
+          "gram": "stressed pronoun after avec"
         }
       ]
     },
     {
       "seg": 38,
-      "trans": "He",
+      "trans": "He's abandoning me.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "m'abandonne.",
@@ -1384,7 +1384,7 @@
     },
     {
       "seg": 40,
-      "trans": "I",
+      "trans": "Of course not, Noémie.",
       "words": [
         {
           "t": "Je",
@@ -1431,14 +1431,14 @@
           "lemma": "lui",
           "pos": "pron",
           "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
+          "gloss": "him",
+          "gram": "stressed pronoun after pour"
         }
       ]
     },
     {
       "seg": 42,
-      "trans": "Of course not, Noémie.",
+      "trans": "I want to die, Hervé.",
       "words": [
         {
           "t": "Mais",
@@ -1529,16 +1529,16 @@
           "lemma": "en",
           "pos": "pron",
           "stress": "mɑ̃",
-          "gloss": "me of it, about it",
-          "gram": "me (me/myself) + en (of it)"
+          "gloss": "myself ... away",
+          "gram": "me + en in s’en aller = go away, leave"
         },
         {
           "t": "vais.",
           "lemma": "aller",
           "pos": "verb",
           "stress": "vɛ",
-          "gloss": "am going (to)",
-          "gram": "present, 1st person singular; aller + infinitive = near future"
+          "gloss": "go, am leaving",
+          "gram": "present, 1st person singular in je m’en vais"
         },
         {
           "t": "Profitez",
@@ -1561,8 +1561,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "preposition after profiter: enjoy"
         },
         {
           "t": "la",
@@ -1584,7 +1584,7 @@
     },
     {
       "seg": 47,
-      "trans": "I really don",
+      "trans": "I really don't feel like it. See you tomorrow.",
       "words": [
         {
           "t": "Je",
@@ -1599,8 +1599,8 @@
           "lemma": "en",
           "pos": "pron",
           "stress": "nɑ̃",
-          "gloss": "not ... any, none of it",
-          "gram": "ne (not) + en (of it/any)"
+          "gloss": "not ... of it",
+          "gram": "ne + en; en refers to going to the screening"
         },
         {
           "t": "ai",
@@ -1632,15 +1632,15 @@
           "pos": "noun",
           "stress": "ɑ̃vi",
           "gloss": "desire, urge",
-          "gram": "feminine singular, no article in 'donner envie'"
+          "gram": "feminine singular; avoir envie de = feel like, want"
         },
         {
           "t": "À",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "until",
+          "gram": "preposition in the farewell à demain = see you tomorrow"
         },
         {
           "t": "demain.",
@@ -1662,7 +1662,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
+          "gram": "affirmative answer"
         },
         {
           "t": "Mathias.",
@@ -1680,19 +1680,19 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has (helping verb)",
+          "gram": "present, 3rd person singular; helping verb with oublié"
         },
         {
           "t": "oublié",
@@ -1707,8 +1707,8 @@
           "lemma": "son",
           "pos": "det",
           "stress": "sɔ̃",
-          "gloss": "her",
-          "gram": "possessive, 3rd person; son before a vowel"
+          "gloss": "his",
+          "gram": "possessive, masculine singular, agrees with téléphone"
         },
         {
           "t": "téléphone.",
@@ -1753,8 +1753,8 @@
           "lemma": "par",
           "pos": "prep",
           "stress": "paʁ",
-          "gloss": "by (par exemple = for example)",
-          "gram": "preposition ('par', meaning 'by')"
+          "gloss": "by",
+          "gram": "preposition giving the way the contract was sent"
         },
         {
           "t": "e-mail.",
@@ -1831,8 +1831,8 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "until",
+          "gram": "preposition in the farewell à demain = see you tomorrow"
         },
         {
           "t": "demain,",
@@ -1854,7 +1854,7 @@
     },
     {
       "seg": 52,
-      "trans": "Noémie? What",
+      "trans": "Noémie? What's wrong?",
       "words": [
         {
           "t": "Noémie?",
@@ -1882,25 +1882,25 @@
         },
         {
           "t": "y",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "y",
+          "pos": "pron",
           "stress": "i",
-          "gloss": "there (is)",
-          "gram": "part of il y a"
+          "gloss": "there",
+          "gram": "pronoun in il y a; question asks what is wrong"
         },
         {
           "t": "a?",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "is (in what is wrong?)",
+          "gram": "present, 3rd person singular in il y a"
         }
       ]
     },
     {
       "seg": 53,
-      "trans": "I don",
+      "trans": "I don't understand. It's Mathias.",
       "words": [
         {
           "t": "Je",
@@ -1954,23 +1954,23 @@
     },
     {
       "seg": 54,
-      "trans": "He",
+      "trans": "He didn't even ask me to come with him.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "part",
-          "lemma": "à part",
-          "pos": "phrase",
+          "lemma": "partir",
+          "pos": "verb",
           "stress": "paʁ",
-          "gloss": "apart (from)",
-          "gram": "part of à part"
+          "gloss": "is leaving",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "avec",
@@ -1986,7 +1986,7 @@
           "pos": "det",
           "stress": "tut",
           "gloss": "all",
-          "gram": "feminine plural, used as a pronoun"
+          "gram": "feminine plural determiner, agrees with stars"
         },
         {
           "t": "ses",
@@ -2009,8 +2009,8 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "to",
+          "gram": "preposition of destination"
         },
         {
           "t": "StarMédia.",
@@ -2024,15 +2024,15 @@
     },
     {
       "seg": 55,
-      "trans": "He didn",
+      "trans": "He didn't even ask me to come with him.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "ne",
@@ -2055,8 +2055,8 @@
           "lemma": "même",
           "pos": "adv",
           "stress": "mɛm",
-          "gloss": "same",
-          "gram": "adjective, masculine singular"
+          "gloss": "even",
+          "gram": "adverb strengthening the negative"
         },
         {
           "t": "pas",
@@ -2079,8 +2079,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "to",
+          "gram": "preposition introducing the requested action"
         },
         {
           "t": "venir",
@@ -2088,7 +2088,7 @@
           "pos": "verb",
           "stress": "vəniʁ",
           "gloss": "come",
-          "gram": "infinitive, after pouvoir"
+          "gram": "infinitive after demandé de: asked someone to come"
         },
         {
           "t": "avec",
@@ -2103,22 +2103,22 @@
           "lemma": "lui",
           "pos": "pron",
           "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
+          "gloss": "him",
+          "gram": "stressed pronoun after avec"
         }
       ]
     },
     {
       "seg": 56,
-      "trans": "He",
+      "trans": "He's abandoning me.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular; Mathias"
         },
         {
           "t": "m'abandonne.",
@@ -2132,7 +2132,7 @@
     },
     {
       "seg": 57,
-      "trans": "I",
+      "trans": "Of course not, Noémie.",
       "words": [
         {
           "t": "Je",
@@ -2179,14 +2179,14 @@
           "lemma": "lui",
           "pos": "pron",
           "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
+          "gloss": "him",
+          "gram": "stressed pronoun after pour"
         }
       ]
     },
     {
       "seg": 58,
-      "trans": "Of course not, Noémie.",
+      "trans": "I want to die, Hervé.",
       "words": [
         {
           "t": "Mais",
@@ -2284,11 +2284,11 @@
       "meanings": [
         {
           "en": "to abandon, to leave (someone)",
-          "note": "Abandonner un projet. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to abandon'; conjugates with 'avoir' in compound tenses (past participle 'abandonné')."
+          "note": "Abandonner un projet."
         },
         {
           "en": "to give up",
-          "note": "Abandonner un projet. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to abandon'; conjugates with 'avoir' in compound tenses (past participle 'abandonné')."
+          "note": "Abandonner un projet."
         }
       ],
       "forms": {
@@ -2450,11 +2450,11 @@
         },
         {
           "en": "aller + infinitive = going to (near future)",
-          "note": "Je vais déjeuner. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Je vais déjeuner."
         },
         {
           "en": "allez! = come on!",
-          "note": "Imperative used to encourage. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Imperative used to encourage."
         }
       ],
       "forms": {
@@ -2640,7 +2640,7 @@
       "meanings": [
         {
           "en": "with",
-          "note": "Core French preposition meaning 'with', linking a noun phrase or infinitive complement to the clause."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2659,12 +2659,7 @@
           "trans": "And tomorrow you're having lunch with Audiard."
         }
       ],
-      "related": [
-        {
-          "word": "avec",
-          "gloss": "with"
-        }
-      ]
+      "related": []
     },
     "aventure": {
       "lemma": "aventure",
@@ -2676,11 +2671,11 @@
       "meanings": [
         {
           "en": "adventure",
-          "note": "Feminine noun ('la aventure', plural 'les aventures') inherited through Romance vocabulary, used in everyday and professional French for 'adventure'."
+          "note": ""
         },
         {
           "en": "affair, fling",
-          "note": "Feminine noun ('la aventure', plural 'les aventures') inherited through Romance vocabulary, used in everyday and professional French for 'adventure'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2734,11 +2729,11 @@
         },
         {
           "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "J'ai appelé = I called."
         },
         {
           "en": "il y a = there is, there are",
-          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "Fixed expression."
         }
       ],
       "forms": {
@@ -2920,11 +2915,11 @@
       "meanings": [
         {
           "en": "well",
-          "note": "Très bien = very well, fine. Invariable French adverb meaning 'well'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Très bien = very well, fine."
         },
         {
           "en": "good, nice",
-          "note": "C'est bien. Invariable French adverb meaning 'well'; placed immediately after the conjugated verb in simple tenses."
+          "note": "C'est bien."
         }
       ],
       "forms": null,
@@ -2974,7 +2969,7 @@
         },
         {
           "en": "bonne journée = have a nice day",
-          "note": "Descriptive French adjective meaning 'good'; agrees in gender and number with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -3016,12 +3011,7 @@
           "trans": "It's a good film."
         }
       ],
-      "related": [
-        {
-          "word": "as an interjection: bon, alors...",
-          "gloss": "right, so..."
-        }
-      ]
+      "related": []
     },
     "commencer": {
       "lemma": "commencer",
@@ -3193,7 +3183,7 @@
       "meanings": [
         {
           "en": "to understand",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Prefix 'com-' (from Latin 'cum') means 'with, together'. Core French verb meaning 'to understand'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3415,7 +3405,7 @@
       "meanings": [
         {
           "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "D' before a vowel."
         },
         {
           "en": "'s (possession)",
@@ -3423,7 +3413,7 @@
         },
         {
           "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
@@ -3461,7 +3451,7 @@
       "meanings": [
         {
           "en": "tomorrow",
-          "note": "À demain = see you tomorrow. Invariable French adverb meaning 'tomorrow'; placed immediately after the conjugated verb in simple tenses."
+          "note": "À demain = see you tomorrow."
         }
       ],
       "forms": null,
@@ -3495,7 +3485,7 @@
       "meanings": [
         {
           "en": "to ask, ask for",
-          "note": "Demander quelque chose à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to ask'; conjugates with 'avoir' in compound tenses (past participle 'demandé')."
+          "note": "Demander quelque chose à quelqu'un."
         }
       ],
       "forms": {
@@ -3714,12 +3704,7 @@
           "trans": "Contract sent by email. A new adventure begins."
         }
       ],
-      "related": [
-        {
-          "word": "un e-mail / des e-mails",
-          "gloss": "a email / emails"
-        }
-      ]
+      "related": []
     },
     "en": {
       "lemma": "en",
@@ -3765,11 +3750,11 @@
       "meanings": [
         {
           "en": "avoir envie de = to feel like, to want to",
-          "note": "No article. Feminine noun ('la envie', plural 'les envies') inherited through Romance vocabulary, used in everyday and professional French for 'desire'."
+          "note": "No article."
         },
         {
           "en": "donner envie de = to make someone want to",
-          "note": "Feminine noun ('la envie', plural 'les envies') inherited through Romance vocabulary, used in everyday and professional French for 'desire'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3819,7 +3804,7 @@
       "meanings": [
         {
           "en": "to send",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to send'; conjugates with 'avoir' in compound tenses (past participle 'envoyé')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3981,7 +3966,7 @@
         },
         {
           "en": "it",
-          "note": "Also in fixed phrases: il y a. High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
+          "note": "Also in fixed phrases: il y a."
         }
       ],
       "forms": null,
@@ -4000,12 +3985,7 @@
           "trans": "Camille Valentini. He knows me."
         }
       ],
-      "related": [
-        {
-          "word": "il",
-          "gloss": "he"
-        }
-      ]
+      "related": []
     },
     "il y a": {
       "lemma": "il y a",
@@ -4015,7 +3995,7 @@
       "meanings": [
         {
           "en": "there is, there are",
-          "note": "Never changes for plural. Spoken French phrase expression meaning 'there is', common in natural conversation."
+          "note": "Never changes for plural."
         },
         {
           "en": "ago",
@@ -4038,12 +4018,7 @@
           "trans": "No, it's Samuel's place. He died six days ago."
         }
       ],
-      "related": [
-        {
-          "word": "il y a",
-          "gloss": "there is"
-        }
-      ]
+      "related": []
     },
     "je": {
       "lemma": "je",
@@ -4053,7 +4028,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -4072,12 +4047,7 @@
           "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
-      "related": [
-        {
-          "word": "je",
-          "gloss": "I"
-        }
-      ]
+      "related": []
     },
     "journée": {
       "lemma": "journée",
@@ -4148,6 +4118,10 @@
         {
           "en": "the",
           "note": "definite article; l' before a vowel"
+        },
+        {
+          "en": "him, her, it; them (les)",
+          "note": "Direct object placed before a verb; la is feminine singular, les is plural."
         }
       ],
       "forms": {
@@ -4189,12 +4163,7 @@
           "trans": "It's Tarantino's next film."
         }
       ],
-      "related": [
-        {
-          "word": "le",
-          "gloss": "the"
-        }
-      ]
+      "related": []
     },
     "lui": {
       "lemma": "lui",
@@ -4204,11 +4173,11 @@
       "meanings": [
         {
           "en": "to him, to her",
-          "note": "Indirect object. High-frequency French pronoun meaning 'to him'; clitic object forms precede the conjugated verb."
+          "note": "Indirect object."
         },
         {
           "en": "him",
-          "note": "Stressed form: avec lui. High-frequency French pronoun meaning 'to him'; clitic object forms precede the conjugated verb."
+          "note": "Stressed form: avec lui."
         }
       ],
       "forms": null,
@@ -4227,12 +4196,7 @@
           "trans": "Do you look after him?"
         }
       ],
-      "related": [
-        {
-          "word": "lui",
-          "gloss": "to him"
-        }
-      ]
+      "related": []
     },
     "mais": {
       "lemma": "mais",
@@ -4242,7 +4206,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": "Mais oui! = of course!. French conjunction meaning 'but', used to link clauses in spoken and written discourse."
+          "note": "Mais oui! = of course!."
         }
       ],
       "forms": null,
@@ -4310,11 +4274,11 @@
       "meanings": [
         {
           "en": "to die",
-          "note": "With être in the past: il est mort. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to die'."
+          "note": "With être in the past: il est mort."
         },
         {
           "en": "to be dying (to)",
-          "note": "Mourir de faim = to be starving. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to die'."
+          "note": "Mourir de faim = to be starving."
         }
       ],
       "forms": {
@@ -4472,7 +4436,7 @@
       "meanings": [
         {
           "en": "same",
-          "note": "Before the noun: le même lifting. Descriptive French adjective meaning 'same'; agrees in gender and number with the noun it modifies."
+          "note": "Before the noun: le même lifting."
         },
         {
           "en": "even",
@@ -4579,7 +4543,7 @@
         },
         {
           "en": "..., non? = ..., don't you? / isn't it?",
-          "note": "Tag at the end of a question. Invariable French adverb meaning 'no'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Tag at the end of a question."
         }
       ],
       "forms": null,
@@ -4621,7 +4585,7 @@
         },
         {
           "en": "another, one more",
-          "note": "Un nouveau caprice. Descriptive French adjective meaning 'new'; agrees in gender and number with the noun it modifies."
+          "note": "Un nouveau caprice."
         }
       ],
       "forms": {
@@ -4686,7 +4650,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise or dismay. Spoken French interj expression meaning 'oh', common in natural conversation."
+          "note": "Surprise or dismay."
         }
       ],
       "forms": null,
@@ -4705,12 +4669,7 @@
           "trans": "Oh no! I'm late."
         }
       ],
-      "related": [
-        {
-          "word": "oh",
-          "gloss": "oh"
-        }
-      ]
+      "related": []
     },
     "oublier": {
       "lemma": "oublier",
@@ -4720,11 +4679,11 @@
       "meanings": [
         {
           "en": "to forget",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to forget'; conjugates with 'avoir' in compound tenses (past participle 'oublié')."
+          "note": ""
         },
         {
           "en": "oublier de + infinitive = to forget to",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to forget'; conjugates with 'avoir' in compound tenses (past participle 'oublié')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4882,7 +4841,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": "Invariable French adverb meaning 'yes'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4920,11 +4879,11 @@
       "meanings": [
         {
           "en": "by, through",
-          "note": "Passer par là: to go by there. Core French preposition meaning 'by', linking a noun phrase or infinitive complement to the clause."
+          "note": "Passer par là: to go by there."
         },
         {
           "en": "par exemple = for example",
-          "note": "Core French preposition meaning 'by', linking a noun phrase or infinitive complement to the clause."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4943,12 +4902,7 @@
           "trans": "Can I look at one of Mathias's contracts? Canet's, for example?"
         }
       ],
-      "related": [
-        {
-          "word": "par",
-          "gloss": "by"
-        }
-      ]
+      "related": []
     },
     "partir": {
       "lemma": "partir",
@@ -4958,7 +4912,7 @@
       "meanings": [
         {
           "en": "to leave, to go away",
-          "note": "No object: je pars = I'm leaving. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to leave, to go away'."
+          "note": "No object: je pars = I'm leaving."
         },
         {
           "en": "to go (on a trip)",
@@ -5167,12 +5121,7 @@
           "trans": "Tarantino won't take Cécile. A problem with her age."
         }
       ],
-      "related": [
-        {
-          "word": "pas",
-          "gloss": "not"
-        }
-      ]
+      "related": []
     },
     "pour": {
       "lemma": "pour",
@@ -5186,7 +5135,7 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+          "note": "+ infinitive: pour voir."
         }
       ],
       "forms": null,
@@ -5228,11 +5177,11 @@
       "meanings": [
         {
           "en": "profiter de = to enjoy, to make the most of",
-          "note": "Takes 'de'. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to enjoy'; conjugates with 'avoir' in compound tenses (past participle 'profité')."
+          "note": "Takes 'de'."
         },
         {
           "en": "to take advantage of",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to enjoy'; conjugates with 'avoir' in compound tenses (past participle 'profité')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5416,7 +5365,7 @@
       "meanings": [
         {
           "en": "screening (of a film)",
-          "note": "Feminine action/state noun from Latin '-tio'/'-sio'. Standard feminine noun meaning 'screening'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5500,19 +5449,19 @@
       "meanings": [
         {
           "en": "that",
-          "note": "Joins two parts: dis-lui que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "Joins two parts: dis-lui que."
         },
         {
           "en": "which, that",
-          "note": "Relative: tout ce que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "Relative: tout ce que."
         },
         {
           "en": "only",
-          "note": "With ne: ne... que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "With ne: ne... que."
         },
         {
           "en": "since",
-          "note": "Ça fait trois semaines que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "Ça fait trois semaines que."
         }
       ],
       "forms": null,
@@ -5531,12 +5480,7 @@
           "trans": "Call Clémentine. Tell her I can't come tonight."
         }
       ],
-      "related": [
-        {
-          "word": "que",
-          "gloss": "that"
-        }
-      ]
+      "related": []
     },
     "quoi": {
       "lemma": "quoi",
@@ -5565,12 +5509,7 @@
           "trans": "What's the part?"
         }
       ],
-      "related": [
-        {
-          "word": "quoi",
-          "gloss": "what"
-        }
-      ]
+      "related": []
     },
     "rien": {
       "lemma": "rien",
@@ -5656,12 +5595,7 @@
           "trans": "Yes, three hundred thousand. I'm talking about his twenty years of career."
         }
       ],
-      "related": [
-        {
-          "word": "son",
-          "gloss": "his"
-        }
-      ]
+      "related": []
     },
     "star": {
       "lemma": "star",
@@ -5673,7 +5607,7 @@
       "meanings": [
         {
           "en": "star, celebrity",
-          "note": "Always feminine, even for a man. Feminine noun ('la star', plural 'les stars') inherited through Romance vocabulary, used in everyday and professional French for 'star'."
+          "note": "Always feminine, even for a man."
         }
       ],
       "forms": {
@@ -5708,12 +5642,7 @@
           "trans": "This agency only represents stars."
         }
       ],
-      "related": [
-        {
-          "word": "une star / des stars",
-          "gloss": "a star / stars"
-        }
-      ]
+      "related": []
     },
     "tout": {
       "lemma": "tout",
@@ -5723,11 +5652,11 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Tout le monde = everybody."
         },
         {
           "en": "tout ce que = all that, everything that",
-          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Pronoun use."
         }
       ],
       "forms": {
@@ -5794,7 +5723,7 @@
       "meanings": [
         {
           "en": "telephone, phone",
-          "note": "Au téléphone = on the phone. Masculine noun ('le téléphone', plural 'les téléphones') inherited through Romance vocabulary, used in everyday and professional French for 'telephone'."
+          "note": "Au téléphone = on the phone."
         }
       ],
       "forms": {
@@ -5848,7 +5777,7 @@
         },
         {
           "en": "one",
-          "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
+          "note": "Number; l'un = one of them."
         }
       ],
       "forms": {
@@ -5890,12 +5819,7 @@
           "trans": "One at noon, the other at two."
         }
       ],
-      "related": [
-        {
-          "word": "un",
-          "gloss": "a"
-        }
-      ]
+      "related": []
     },
     "venir": {
       "lemma": "venir",
@@ -5909,7 +5833,7 @@
         },
         {
           "en": "venir de + infinitive = to have just",
-          "note": "Je viens d'arriver. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to come'."
+          "note": "Je viens d'arriver."
         }
       ],
       "forms": {
@@ -6076,12 +6000,7 @@
           "trans": "Call Clémentine. Tell her I can't come tonight."
         }
       ],
-      "related": [
-        {
-          "word": "venir de + infinitive: je viens d'arriver",
-          "gloss": "I've just arrived"
-        }
-      ]
+      "related": []
     },
     "vouloir": {
       "lemma": "vouloir",
@@ -6091,11 +6010,11 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "+ noun or infinitive."
         },
         {
           "en": "je voulais = I wanted",
-          "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "Imparfait, softer."
         }
       ],
       "forms": {
@@ -6257,7 +6176,7 @@
       "meanings": [
         {
           "en": "really, truly",
-          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6291,11 +6210,11 @@
       "meanings": [
         {
           "en": "there",
-          "note": "Il y a = there is / there are. High-frequency French pronoun meaning 'there'; clitic object forms precede the conjugated verb."
+          "note": "Il y a = there is / there are."
         },
         {
           "en": "to it",
-          "note": "J'y pense = I think about it. High-frequency French pronoun meaning 'there'; clitic object forms precede the conjugated verb."
+          "note": "J'y pense = I think about it."
         }
       ],
       "forms": null,
@@ -6329,15 +6248,15 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Place: à Paris, à mon cours."
         },
         {
           "en": "at",
-          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Time: à midi."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Contractions."
         }
       ],
       "forms": null,
@@ -6356,12 +6275,7 @@
           "trans": "We're at the Westin."
         }
       ],
-      "related": [
-        {
-          "word": "à",
-          "gloss": "at"
-        }
-      ]
+      "related": []
     },
     "à part": {
       "lemma": "à part",
@@ -6371,7 +6285,7 @@
       "meanings": [
         {
           "en": "apart from, except",
-          "note": "À part + noun. Spoken French phrase expression meaning 'apart from', common in natural conversation."
+          "note": "À part + noun."
         }
       ],
       "forms": null,
@@ -6390,12 +6304,7 @@
           "trans": "Apart from Jean Gabin."
         }
       ],
-      "related": [
-        {
-          "word": "à part",
-          "gloss": "apart from"
-        }
-      ]
+      "related": []
     },
     "être": {
       "lemma": "être",
@@ -6405,11 +6314,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {

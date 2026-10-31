@@ -10,23 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Solveig | Non, merci. Un verre d'eau. | No, thank you. A glass of water. | #415: Non, merci<br>#419: Un verre d'eau | verbatim |
-| 2 | Mathias | Non, Nathalie, tu ne peux pas faire ça. | No, Nathalie, you can't do that. | #420: Non, Nathalie, tu ne peux pas faire ça | verbatim |
-| 3 | Nathalie | Bien sûr que oui. | Of course I can. | #421: Bien sûr que oui | verbatim |
-| 4 | Mathias | Tu ne sais même pas comment faire. | You don't even know how to do it. | #422: même pas comment faire | verbatim |
-| 5 | Nathalie | Qu'est-ce que tu en sais, Mathias? | What do you know about it, Mathias? | #423: Qu'est-ce que tu en sais, Mathias | verbatim |
-| 6 | Nathalie | C'est très poétique. Je suis très émue. | It's very poetic. I'm very moved. | #424: C'est très poétique<br>#424: émue | verbatim |
-| 7 | Nathalie | Bon, j'y vais. | Right, here I go. | #425: J'y vais | verbatim |
-| 8 | Nathalie | Mais c'est toi qui veux partir. | But you're the one who wants to leave. | #426: Mais c'est toi qui veux partir | verbatim |
-| 9 | Nathalie | Pars, alors! Pars! | Go, then! Go! | #428: Pars, alors ! Pars | verbatim |
-| 10 | Nathalie | Je ne suis pas surprise. | I'm not surprised. | #430: je ne suis pas surprise | verbatim |
-| 11 | Nathalie | Tu as toujours aimé le vent. | You've always loved the wind. | #432: Tu as toujours aimé le vent | verbatim |
-| 12 | Solveig | Tu peux réessayer, sans tant de tragédie? | Can you try again, without so much tragedy? | #437: réessayer, sans tant de tragédie | verbatim |
-| 13 | Solveig | Quelque chose de plus neutre. | Something more neutral. | #438: Quelque chose de plus neutre | verbatim |
-| 14 | Nathalie | Si c'est ce que tu veux. | If that's what you want. | #442: Si c'est ce que tu veux | verbatim |
-| 15 | Nathalie | Depuis que tu es petite, je le savais. | Since you were little, I knew it. | #444: Depuis que tu es petite | verbatim |
-| 16 | Nathalie | C'est plus neutre? | Is that more neutral? | #445: C'est plus neutre | verbatim |
-
+| 1 | Solveig | Non, merci. Un verre d'eau. | No, thank you. A glass of water. | #415 00:24:05: Non, merci<br>#419 00:24:17: Un verre d'eau | verbatim |
+| 2 | Mathias | Non, Nathalie, tu ne peux pas faire ça. | No, Nathalie, you can't do that. | #420 00:24:19: Non, Nathalie, tu ne peux pas faire ça | verbatim |
+| 3 | Nathalie | Bien sûr que oui. | Of course I can. | #421 00:24:21: Bien sûr que oui | verbatim |
+| 4 | Mathias | Tu ne sais même pas comment faire. | You don't even know how to do it. | #422 00:24:23: même pas comment faire | verbatim |
+| 5 | Nathalie | Qu'est-ce que tu en sais, Mathias? | What do you know about it, Mathias? | #423 00:24:25: Qu'est-ce que tu en sais, Mathias | verbatim |
+| 6 | Nathalie | C'est très poétique. Je suis très émue. | It's very poetic. I'm very moved. | #424 00:24:28: C'est très poétique<br>#424 00:24:28: émue | verbatim |
+| 7 | Nathalie | Bon, j'y vais. | Right, here I go. | #425 00:24:33: J'y vais | verbatim |
+| 8 | Nathalie | Mais c'est toi qui veux partir. | But you're the one who wants to leave. | #426 00:24:38: Mais c'est toi qui veux partir | adapted: The director reads this side of the dramatic script in the source. Nathalie reads both parts in this shortened lesson; the director's instructions retain her own voice. |
+| 9 | Nathalie | Pars, alors! Pars! | Go, then! Go! | #428 00:24:42: Pars, alors ! Pars | verbatim |
+| 10 | Nathalie | Je ne suis pas surprise. | I'm not surprised. | #430 00:24:48: je ne suis pas surprise | adapted: The director reads this side of the dramatic script in the source. Nathalie reads both parts in this shortened lesson; the director's instructions retain her own voice. |
+| 11 | Nathalie | Tu as toujours aimé le vent. | You've always loved the wind. | #432 00:24:56: Tu as toujours aimé le vent | verbatim |
+| 12 | Solveig | Tu peux réessayer, sans tant de tragédie? | Can you try again, without so much tragedy? | #437 00:25:12: réessayer, sans tant de tragédie | verbatim |
+| 13 | Solveig | Quelque chose de plus neutre. | Something more neutral. | #438 00:25:21: Quelque chose de plus neutre | verbatim |
+| 14 | Nathalie | Si c'est ce que tu veux. | If that's what you want. | #442 00:25:36: Si c'est ce que tu veux | verbatim |
+| 15 | Nathalie | Depuis que tu es petite, je le savais. | Since you were little, I knew it. | #444 00:25:42: Depuis que tu es petite | verbatim |
+| 16 | Nathalie | C'est plus neutre? | Is that more neutral? | #445 00:25:48: C'est plus neutre | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -45,4 +44,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Something more neutral.' After the word for 'something', French adds a small linking word before the adjective.
 - 'If that's what you want.' Nathalie starts again, in exactly the same tragic voice.
 - 'Since you were little, I knew it.' The word for 'since' starts the sentence, and the second verb is in the tense for long, ongoing things in the past.
-- 'Is that more neutral?' Asked with total innocence. It wasn't neutral at all, and everyone in the room knows it. Now the whole audition again.
+- 'Is that more neutral?' The short comparison word means 'more'. With the adjective 'neutral', it asks whether Nathalie has reduced the drama; the rising voice makes it a question.

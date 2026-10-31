@@ -10,40 +10,138 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = "Meanwhile in Paris, Andréa wakes up in her apartment with Colette Brancillon, the tax inspector auditing ASK. As they leave the building together, a frantic Gabriel intercepts Andréa on the pavement — and recognizes Colette. Listen to the scene in French first; don't worry about catching every word."
-OPENER = "Let's go back through it step by step. It is morning in Andréa's bedroom, and she reaches out for Colette before they both have to leave for work."
+INTRO = ('Meanwhile, Andrea is leaving home after a night with Colette, the tax inspector auditing the agency. '
+ 'Gabriel has been trying to reach her about the film-set crisis. As they meet, he recognises the woman '
+ 'leaving the building. Hear the French first, and follow the questions even if some words are new.')
+OPENER = 'First, neither woman wants to leave. Then an urgent phone call brings work back into the morning.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "While Andréa hides her new romance with the tax inspector from Gabriel and they head out to the country film set, back in Paris it is Camille's twenty-third birthday. See you next time!"
+OUTRO = ('Andrea has kept her new relationship private, but Gabriel has recognised the inspector. Listen again for '
+ 'the questions about where someone was and why they did not answer. See you next time.')
 CLOSING = ('gabriel', 'Bonne soirée!')
-STORY = [
-    ('andrea', 'Viens là.', 'Come here.', [(23, 'Viens là')], ''),
-    ('colette', 'Je vais prendre une douche.', "I'm going to take a shower.", [(24, 'Je vais prendre une douche')], ''),
-    ('colette', 'Voilà. De rien!', "There you go. You're welcome!", [(25, 'Voilà'), (25, 'De rien')], ''),
-    ('colette', 'Je vais vraiment être en retard.', "I'm really going to be late.", [(26, 'je vais vraiment'), (26, 'être en retard')], ''),
-    ('andrea', 'Moi aussi.', 'Me too.', [(27, 'moi aussi')], ''),
-    ('gabriel', 'Tu étais où? Tu ne répondais pas au téléphone.', "Where were you? You weren't answering your phone.", [(28, 'étais où'), (29, 'Tu ne répondais pas au téléphone')], ''),
-    ('gabriel', 'Il y a eu un drame sur le tournage!', 'There was a crisis on the film shoot!', [(30, 'Il y a eu un'), (30, 'sur le tournage')], ''),
-    ('andrea', "Désolée. J'étais avec une fille.", 'Sorry. I was with a girl.', [(30, 'Désolé'), (31, "J'étais avec une"), (31, 'fille')], ''),
-    ('gabriel', 'Tu aurais quand même pu répondre.', 'You still could have answered.', [(32, 'aurais quand même pu répondre')], ''),
-    ('gabriel', "C'est la femme des impôts?", 'Is that the tax woman?', [(33, "C'est la femme des impôts ?")], ''),
-    ('andrea', 'Non.', 'No.', [(35, 'Non')], ''),
-    ('gabriel', "Incroyable! Et si c'est ta voisine?", "Incredible! What if she's your neighbour?", [(35, 'Incroyable'), (36, "Si c'est ta voisine")], ''),
-    ('gabriel', "C'est effrayant!", "That's scary!", [(36, 'Flippant'), (37, 'Flippant')], ''),
-    ('colette', 'Tu me manques déjà.', 'I miss you already.', [(38, 'Tu me manques déjà')], ''),
-]
-WALK = [
-    (0, None, "'Come here.' This casual command of 'to come', followed by the word for 'there' or 'here'."),
-    (1, None, "'I'm going to take a shower.' The near future built with 'I go' plus the basic form 'to take'."),
-    (2, None, "'There you go. You're welcome!' In the kitchen, Colette hands Andréa a fresh slice of toast after she drops hers on the floor. Literally 'of nothing'."),
-    (3, None, "'I'm really going to be late.' Notice how the modifier 'really' sits right between 'I am going' and 'to be'."),
-    (4, None, "'Me too.' The stressed pronoun for 'me' with the word for 'also'."),
-    (5, None, "'Where were you? You weren't answering your phone.' Outside on the street, Gabriel rushes up to Andréa using the imperfect past tense for what was happening."),
-    (6, None, "'There was a crisis on the film shoot!' The past tense of 'there is', literally 'it has had a drama on the shoot'."),
-    (7, None, "'Sorry. I was with a girl.' Andréa explains why her phone was off without mentioning who the woman was."),
-    (8, None, "'You still could have answered.' Literally 'you would all the same have been able to answer'."),
-    (9, None, "'Is that the tax woman?' Gabriel spots Colette walking down the pavement after leaving Andréa's building."),
-    (10, None, "'No.' Not wanting Gabriel to know she spent the night with the auditor, Andréa lies without blinking."),
-    (11, None, "'Incredible! What if she's your neighbour?' Gabriel assumes Colette must live in the same building."),
-    (12, None, "'That's scary!' Gabriel shudders at the thought of living next door to the tax inspector."),
-    (13, None, "'I miss you already.' In the taxi, Andréa's phone buzzes with a sweet message from Colette. In French, the person you miss is the subject: literally 'you are lacking to me already'."),
-]
+STORY = [('andrea',
+  'Viens là.',
+  'Come here.',
+  [(23, 'Viens là')],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('colette',
+  'Je vais prendre une douche.',
+  "I'm going to take a shower.",
+  [(24, 'Je vais prendre une douche')],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('andrea',
+  'Voilà. De rien!',
+  "There you go. You're welcome!",
+  [(25, 'Voilà'), (25, 'De rien')],
+  'Primary-video check: Andrea brings breakfast and says this to Colette. Learner adaptation, not a verbatim '
+  'French transcript.'),
+ ('colette',
+  'Je vais vraiment être en retard.',
+  "I'm really going to be late.",
+  [(26, 'je vais vraiment'), (26, 'être en retard')],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('andrea',
+  'Moi aussi.',
+  'Me too.',
+  [(27, 'moi aussi')],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('gabriel',
+  'Tu étais où? Tu ne répondais pas au téléphone.',
+  "Where were you? You weren't answering your phone.",
+  [(28, 'étais où'), (29, 'Tu ne répondais pas au téléphone')],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('gabriel',
+  'Il y a eu un drame sur le tournage!',
+  'There was a crisis on the film shoot!',
+  [(30, 'Il y a eu un'), (30, 'sur le tournage')],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('andrea',
+  "Désolée. J'étais avec une fille.",
+  'Sorry. I was with a girl.',
+  [(30, 'Désolé'), (31, "J'étais avec une"), (31, 'fille')],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('gabriel',
+  'Tu aurais quand même pu répondre.',
+  'You still could have answered.',
+  [(32, 'aurais quand même pu répondre')],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('gabriel',
+  "C'est la femme des impôts?",
+  'Is that the tax woman?',
+  [(33, "C'est la femme des impôts ?")],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('andrea', 'Non.', 'No.', [(35, 'Non')], 'Learner adaptation, not a verbatim French transcript.'),
+ ('gabriel',
+  "Incroyable! Et si c'est ta voisine?",
+  "Incredible! What if she's your neighbour?",
+  [(35, 'Incroyable'), (36, "Si c'est ta voisine")],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('gabriel',
+  "C'est effrayant!",
+  "That's scary!",
+  [(36, 'Flippant'), (37, 'Flippant')],
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('colette',
+  'Tu me manques déjà.',
+  'I miss you already.',
+  [(38, 'Tu me manques déjà')],
+  'A short on-screen message read aloud for the lesson. Learner adaptation, not a verbatim French '
+  'transcript.')]
+WALK = [(0,
+  None,
+  "'Come here.' A familiar instruction can begin directly with the action. The last word points to the place "
+  'beside the speaker.'),
+ (1,
+  None,
+  "'I'm going to take a shower.' A form of go comes before take to announce a plan. The same pattern works "
+  'with many other things someone is about to do.'),
+ (2,
+  None,
+  "'There you go. You're welcome!' The last two French words literally mean of nothing. Together they are an "
+  'ordinary reply to thanks.'),
+ (3,
+  None,
+  "'I'm really going to be late.' The word meaning really sits inside the plan, before be. It strengthens "
+  'the whole warning about being late.'),
+ (4,
+  None,
+  "'Me too.' The final word adds the speaker to the same situation. The short reply needs no repeated "
+  'explanation about lateness.'),
+ (5,
+  None,
+  "'Where were you? You weren't answering your phone.' The past forms present where she was and what she was "
+  'not doing over that period. They set the background for his complaint.'),
+ (6,
+  None,
+  "'There was a crisis on the film shoot!' The familiar expression for there is has moved into the past. The "
+  'word for shoot refers to filming, rather than to the story being filmed.'),
+ (7,
+  None,
+  "'Sorry. I was with a girl.' The ending of sorry is written for a woman here. Andrea describes the person "
+  'she was with without revealing her name.'),
+ (8,
+  None,
+  "'You still could have answered.' This does more than describe an ability. It says that an answer was "
+  'possible and carries a reproach because she did not give one.'),
+ (9,
+  None,
+  "'Is that the tax woman?' The French expression refers to the tax authorities with a plural word for "
+  'taxes. Gabriel has recognised someone he hoped to avoid.'),
+ (10,
+  None,
+  "'No.' A single negative answer can stand alone. Andrea offers no explanation, which makes the denial "
+  'sound especially abrupt.'),
+ (11,
+  None,
+  "'Incredible! What if she's your neighbour?' The small word meaning if introduces a possibility. Gabriel "
+  'imagines another reason for finding her in the building.'),
+ (12,
+  None,
+  "'That's scary!' The adjective describes the possibility as frightening. It does not mean that Gabriel "
+  'himself is frightening.'),
+ (13,
+  None,
+  "'I miss you already.' French reverses the English pattern: the person missed is the one said to be "
+  'lacking to the speaker. The small word for to me marks who feels the absence.')]
+SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the '
+ 'bilingual working subtitles, whose French track is backtranslated; source video and separate '
+ 'original-audio checks verify roles, plot and register.')

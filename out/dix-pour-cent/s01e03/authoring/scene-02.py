@@ -7,51 +7,94 @@ SCENE = 2
 TITLE = 'Je suis la mouette  (I Am the Seagull)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'gabriel': 'Gabriel', 'laura': 'Laura', 'nathalie': 'Nathalie'}
+LABELS = {'sofia': 'Sofia', 'nathalie': 'Nathalie', 'laura': 'Laura'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = "She is an actress, and she passes the time rehearsing a famous speech from Chekhov's play The Seagull. Then her mother walks in: Nathalie Baye, a great actress herself, and also a client of the agency. We'll hear it in French first. Don't worry about catching every word. Let's listen to the scene in French first."
-OPENER = "Let's go through it slowly. Laura is in the middle of the play's most famous line."
+INTRO = ('At the agency reception desk, Sofia practises a speech from Chekhov while actress Laura Smet waits for her '
+ "agent. Laura's mother, the actress Nathalie Baye, recognises the play and gives Sofia advice. Then she "
+ "cannot resist commenting on her own daughter's posture. Listen to the French exchange first.")
+OPENER = "Let's return to Sofia's rehearsal, and hear how Nathalie turns it into an unexpected acting lesson."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "A mother who can't stop giving advice, and an agent whose name she can't remember. You'll enjoy this scene even more on screen now. See you next time!"
+OUTRO = ('Sofia has received advice from a visiting star, and Laura has had a little more motherly attention than '
+ 'she wanted. You have heard how to correct a mistake and give a short instruction. See you next time!')
 CLOSING = ('laura', 'Au revoir!')
-STORY = [
-    ('laura', 'Je suis la mouette.', 'I am the seagull.', [(29, 'Je suis la mouette')], ''),
-    ('laura', "Non, c'est faux.", "No, that's wrong.", [(28, "Non, c'est faux")], ''),
-    ('laura', 'Tchekhov, La Mouette, acte quatre.', 'Chekhov, The Seagull, act four.', [(34, 'Tchekhov, La Mouette, acte quatre')], ''),
-    ('laura', "Je l'ai fait au conservatoire.", 'I did it at drama school.', [(36, "Je l'ai fait au conservatoire")], ''),
-    ('laura', 'Maman?', 'Mum?', [(37, 'Maman ?')], ''),
-    ('nathalie', 'Tiens, tiens!', 'Well, well!', [(38, 'Tiens, tiens !')], ''),
-    ('nathalie', "Ce n'est pas facile d'apprendre un texte avec tout ce bruit.", "It's not easy to learn lines with all this noise.", [(40, "Ce n'est pas facile d'apprendre un texte avec tout ce bruit")], ''),
-    ('nathalie', 'Travaille-le vraiment chez toi.', 'Really work on it at home.', [(41, 'Travaille-le vraiment chez toi')], ''),
-    ('laura', 'Merci, Maman.', 'Thanks, Mum.', [(43, 'Merci')], ''),
-    ('gabriel', 'Bonjour. Désolé, on était en réunion de crise.', 'Sorry, we were in a crisis meeting.', [(44, 'Bonjour'), (45, 'Désolé, on était en réunion de crise')], ''),
-    ('gabriel', 'Un petit accroc.', 'A little hitch.', [(46, 'Un petit accroc')], ''),
-    ('nathalie', 'Une crise ou un accroc?', 'A crisis or a hitch?', [(47, 'Une crise ou un accroc ?')], ''),
-    ('laura', "Pour Gabriel, même une catastrophe, c'est juste un accroc!", 'For Gabriel, even a disaster is just a hitch!', [(48, "Même une catastrophe, c'est juste un accroc pour Gabriel")], ''),
-    ('nathalie', 'Laura.', 'Laura, listen.', [(50, 'Laura.')], ''),
-    ('laura', 'Oui?', 'Yes?', [(50, 'Oui ?')], ''),
-    ('nathalie', 'Emmanuel, elle doit se tenir droite.', 'Emmanuel, she must stand up straight.', [(51, 'Emmanuel'), (51, 'se tenir droite')], ''),
-    ('laura', 'Gabriel, Maman!', "It's Gabriel, Mum!", [(52, 'Gabriel, Maman !')], ''),
-    ('nathalie', 'Gabriel.', 'Gabriel, right.', [(53, 'Gabriel.')], ''),
-]
-WALK = [
-    (0, None, "'I am the seagull.' In the play, a young actress called Nina says this about herself. It's one of the best-known lines in the theatre."),
-    (1, None, "'No, that's wrong.' She has got a line in the wrong order and starts again. The word for 'wrong' here also means 'false'."),
-    (2, None, "'Chekhov, The Seagull, act four.' Here, Hervé and Sofia, listening at the desk, are impressed."),
-    (3, None, "'I did it at drama school.' The little word for 'it' sits before the helper word and loses its vowel. The drama school is the famous Paris acting school. Then someone walks in."),
-    (4, None, "'Mum?' The everyday French word for mum. Laura is surprised: she didn't know her mother had an appointment too."),
-    (5, None, "'Well, well!' The same word twice, from the action word 'to hold', said with mock surprise."),
-    (6, None, "'It's not easy to learn lines with all this noise.' The negative wraps around the verb 'to be'. The word for lines here is simply 'a text'. A mother's advice, given in a busy reception area."),
-    (7, None, "'Really work on it at home.' Nathalie gives a casual command, with the little word for 'it' joined on after it. The last two words mean 'at your place'."),
-    (8, None, "'Thanks, Mum.' Laura sounds a little stiff. Then Gabriel finally comes down."),
-    (9, 'Désolé, on était en réunion de crise.', "'Sorry, we were in a crisis meeting.' The verb describes what was going on, in the past tense used for background."),
-    (10, None, "'A little hitch.' A hitch is a small problem. Gabriel always makes things sound smaller than they are."),
-    (11, None, "'A crisis or a hitch?' Nathalie isn't fooled for a second."),
-    (12, None, "'For Gabriel, even a disaster is just a hitch!' The word for 'even' comes before what it stresses. Everybody knows Gabriel."),
-    (13, None, "'Laura, listen.' As Laura leaves with Gabriel, her mother calls her back."),
-    (14, None, "'Yes?' Laura waits for the next piece of advice."),
-    (15, None, "'Emmanuel, she must stand up straight.' The verb for 'must' is followed by a reflexive verb meaning 'to hold oneself'. Nathalie is asking Gabriel to watch Laura's posture, but she calls him by the wrong name."),
-    (16, None, "'It's Gabriel, Mum!' Laura is embarrassed for him."),
-    (17, None, "'Gabriel, right.' Nathalie repeats it, as if it were a small detail. Let's hear the reception scene once more, all the way through."),
-]
+STORY = [('sofia', 'Je suis la mouette.', 'I am the seagull.', [(29, 'Je suis la mouette')], ''),
+ ('sofia', "Non, c'est faux.", "No, that's wrong.", [(28, "Non, c'est faux")], ''),
+ ('nathalie',
+  'Tchekhov, La Mouette, acte quatre.',
+  'Chekhov, The Seagull, act four.',
+  [(34, 'Tchekhov, La Mouette, acte quatre')],
+  ''),
+ ('sofia',
+  "Je l'ai fait au conservatoire.",
+  'I did it at drama school.',
+  [(36, "Je l'ai fait au conservatoire")],
+  ''),
+ ('laura', 'Maman?', 'Mum?', [(37, 'Maman')], ''),
+ ('nathalie',
+  "Ce n'est pas facile d'apprendre un texte avec tout ce bruit.",
+  "It's not easy to learn lines with all this noise.",
+  [(40, "Ce n'est pas facile d'apprendre un texte avec tout ce bruit")],
+  ''),
+ ('nathalie',
+  'Travaille-le vraiment chez toi.',
+  'Really work on it at home.',
+  [(41, 'Travaille-le vraiment chez toi')],
+  ''),
+ ('sofia', 'Merci.', 'Thank you.', [(43, 'Merci')], ''),
+ ('nathalie', 'Laura.', 'Laura.', [(50, 'Laura')], ''),
+ ('laura', 'Oui?', 'Yes?', [(50, 'Oui')], ''),
+ ('nathalie',
+  'Emmanuel, elle doit se tenir droite.',
+  'Emmanuel, she must stand up straight.',
+  [(51, 'Emmanuel'), (51, 'se tenir droite')],
+  'Simplifies the instruction Nathalie gives Gabriel about Laura.'),
+ ('laura', 'Gabriel, Maman!', "It's Gabriel, Mum!", [(52, 'Gabriel, Maman')], '')]
+WALK = [(0,
+  None,
+  "'I am the seagull.' Sofia rehearses a speech by Nina, an actress in Chekhov's play. The word for the bird "
+  "is feminine, so it follows the feminine word for 'the'."),
+ (1,
+  None,
+  "'No, that's wrong.' The second part literally says 'that is false'. It is a short way of correcting a "
+  'mistake, including your own.'),
+ (2,
+  None,
+  "'Chekhov, The Seagull, act four.' Nathalie recognises the play. The number follows the word for 'act', "
+  "just as it follows 'chapter' when someone names a chapter."),
+ (3,
+  None,
+  "'I did it at drama school.' The small word for 'it' comes before the helper 'have'. The word meaning 'at "
+  "the' combines two short French words into one."),
+ (4,
+  None,
+  "'Mum?' Laura recognises her mother. This familiar word can stand on its own as a call, and a rising voice "
+  'makes it a surprised question.'),
+ (5,
+  None,
+  "'It's not easy to learn lines with all this noise.' The negative surrounds 'is'. The word for an actor's "
+  'lines is simply the word for a text. Nathalie is still addressing Sofia.'),
+ (6,
+  None,
+  "'Really work on it at home.' In this instruction, the word for 'it' attaches after 'work' with a hyphen. "
+  "The last two words mean 'at your place'."),
+ (7,
+  None,
+  "'Thank you.' This single word gives an everyday thank-you. Sofia appreciates the experienced actress's "
+  "advice. Gabriel then arrives to collect Laura, after the agency's crisis meeting."),
+ (8,
+  None,
+  "'Laura.' A name alone can call someone back. Nathalie wants one more word before her daughter leaves with "
+  'her agent.'),
+ (9,
+  None,
+  "'Yes?' The same word that agrees with a statement can answer someone calling your name. Here it invites "
+  'Nathalie to continue.'),
+ (10,
+  None,
+  "'Emmanuel, she must stand up straight.' The expression for 'stand straight' literally says 'hold oneself "
+  "straight'. Nathalie gives advice about Laura's posture, but calls Gabriel by the wrong name."),
+ (11,
+  None,
+  "'It's Gabriel, Mum!' French names Gabriel and then Mum, without a separate 'it is'. Laura is correcting "
+  "her mother's mistaken name for her agent.")]
