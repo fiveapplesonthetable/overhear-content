@@ -7,49 +7,120 @@ SCENE = 25
 TITLE = 'La psychanalyse de Dom Juan  (The Psychoanalysis of Dom Juan)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'christophe': 'Christophe', 'colette': 'Colette', 'francois': 'François'}
+LABELS = {'andrea': 'Andréa', 'psychanalyste': 'Le psychanalyste'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
-INTRO = "The following morning, Colette arrives at the theatre rehearsal hall to return Andréa's apartment keys and personal belongings. Watching Christophe Bel direct François Berléand on stage, Colette cannot help offering her own clinical interpretation of Molière's legendary character. Fascinated by her insights, the pretentious young director hangs on her every word. Listen to the scene in French first. Don't worry about catching every word."
-OPENER = "Let's walk through it as Colette shares her sharp psychological critique step by step."
+INTRO = ("At the theatre after the performance, Andréa listens to a male psychoanalyst's interpretation of Dom Juan. His "
+ 'discussion of fear and commitment catches her attention after her own breakup. She asks him to repeat a point, and '
+ 'he offers her a book. Listen first in French.')
+OPENER = "Let's hear those remarks again, including the ways Andréa asks for repetition and responds to an offer."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "Colette gave Christophe the artistic inspiration he needed, while keeping him firmly at arm's length. See you next time!"
-CLOSING = ('colette', 'À demain!')
-STORY = [
-    ('colette', "Refuser de nager, c'est refuser la norme!", 'Refusing to swim is refusing the norm!', [(658, 'Refuser de nager'), (658, 'refuser la norme')], ''),
-    ('colette', 'La soif de vivre de Dom Juan est là.', "Dom Juan\\'s thirst for life is right there.", [(659, 'La soif de vivre de Dom Juan')], ''),
-    ('colette', 'Tout est permis, sauf la norme de la monogamie.', 'Everything is allowed, except the norm of monogamy.', [(661, 'Tout est permis'), (661, 'la norme de la monogamie')], ''),
-    ('colette', 'Il a tellement peur de cette norme.', 'He is so afraid of this norm.', [(662, 'peur de cette norme')], ''),
-    ('colette', 'Il se réfugie avec tout ce qui porte une jupe.', 'He takes refuge with anything wearing a skirt.', [(663, 'qui porte une jupe')], ''),
-    ('colette', "Ce n'est pas son désir qui l'empêche d'être fidèle.", "It isn't his desire that stops him being faithful.", [(664, "ce n'est pas son désir")], ''),
-    ('colette', "C'est sa peur!", "It\\'s his fear!", [(666, "c'est sa peur")], ''),
-    ('christophe', 'Pardon? Vous pouvez répéter?', 'Pardon? Can you repeat that?', [(667, 'Pardon'), (668, 'Vous pouvez répéter')], ''),
-    ('christophe', 'Sur la peur de la norme?', 'About the fear of the norm?', [(668, 'la peur de la norme')], ''),
-    ('colette', 'Je vais vous donner mon livre.', 'I am going to give you my book.', [(669, 'donner mon livre')], ''),
-    ('colette', 'Vous comprendrez.', 'You will understand.', [(670, 'Vous comprendrez')], ''),
-    ('colette', 'Je vais le dédicacer.', 'I am going to sign it.', [(671, 'dédicacer')], ''),
-    ('colette', 'Le Donjuanisme ou La Maladie du Lien.', 'Donjuanism or The Sickness of the Bond.', [(672, 'Le Donjuanisme ou La Maladie du Lien')], ''),
-    ('christophe', "J'y mets mon numéro de téléphone aussi?", 'Shall I put my phone number too?', [(673, 'numéro de téléphone')], ''),
-    ('colette', 'Non. La dédicace suffit.', 'No. The dedication is enough.', [(674, 'La dédicace suffit')], ''),
-    ('christophe', 'Juste la dédicace?', 'Just the dedication?', [(675, 'Juste la dédicace')], ''),
-    ('francois', 'Bravo! Bravo, le directeur!', 'Bravo! Well done, director!', [(676, 'Bravo')], ''),
-]
-WALK = [
-    (0, None, "'Refusing to swim is refusing the norm!' An infinitive verb can serve directly as a sentence subject."),
-    (1, None, "'Dom Juan\\'s thirst for life is right there.' Colette points to the passage in her book that captures Dom Juan's character."),
-    (2, None, "'Everything is allowed, except the norm of monogamy.' She explains that Dom Juan defies every social rule except his fear of commitment."),
-    (3, None, "'He is so afraid of this norm.' Colette is really talking about Andréa's terror of settling down with one person."),
-    (4, None, "'He takes refuge with anything wearing a skirt.' She adds bitterly that he chases every woman in a skirt to avoid real intimacy."),
-    (5, None, "'It isn't his desire that stops him being faithful.' This construction 'empecher de' means 'to prevent from'."),
-    (6, None, "'It\\'s his fear!' Colette insists that fear, not courage, drives his constant conquests."),
-    (7, None, "'Pardon? Can you repeat that?' Christophe is fascinated by her theory and asks Colette to repeat what she just said."),
-    (8, None, "'About the fear of the norm?' Christophe wants to hear more about this fear of monogamy for his staging."),
-    (9, None, "'I am going to give you my book.' The near future uses 'aller' plus infinitive."),
-    (10, None, "'You will understand.' Colette hands him her book and promises it will all make sense when he reads it."),
-    (11, None, "'I am going to sign it.' Colette offers to sign the copy for him before leaving."),
-    (12, None, "'Donjuanism or The Sickness of the Bond.' Colette recites the formal title of her book."),
-    (13, None, "'Shall I put my phone number too?' Christophe flirts with Colette by offering to write his phone number inside."),
-    (14, None, "'No. The dedication is enough.' Colette firmly turns down Christophe's advance."),
-    (15, None, "'Just the dedication?' Christophe accepts the rejection with mild disappointment."),
-    (16, None, "'Bravo! Well done, director!' Francois mocks the young director from the stage. Now listen to the whole scene again at normal speed, and see how much more you catch."),
-]
+OUTRO = ('The psychoanalyst offers to add his phone number to the book, but Andréa says the dedication is enough. She has '
+ 'heard an interpretation of the play that also touches her own situation. See you next time.')
+CLOSING = ('andrea', 'À demain!')
+STORY = [('psychanalyste',
+  "Refuser de nager, c'est refuser la norme!",
+  'Refusing to swim is refusing the norm!',
+  [(658, 'Refuser de nager'), (658, 'refuser la norme')],
+  ''),
+ ('psychanalyste',
+  'La soif de vivre de Dom Juan est là.',
+  "Dom Juan's thirst for life is right there.",
+  [(659, 'La soif de vivre de Dom Juan')],
+  ''),
+ ('psychanalyste',
+  'Tout est permis, sauf la norme de la monogamie.',
+  'Everything is allowed, except the norm of monogamy.',
+  [(661, 'Tout est permis'), (661, 'la norme de la monogamie')],
+  ''),
+ ('psychanalyste',
+  'Il a tellement peur de cette norme.',
+  'He is so afraid of this norm.',
+  [(662, 'peur de cette norme')],
+  ''),
+ ('psychanalyste',
+  'Il se réfugie avec tout ce qui porte une jupe.',
+  'He takes refuge with anything wearing a skirt.',
+  [(663, 'qui porte une jupe')],
+  ''),
+ ('psychanalyste',
+  "Ce n'est pas son désir qui l'empêche d'être fidèle.",
+  "It isn't his desire that stops him being faithful.",
+  [(664, "ce n'est pas son désir")],
+  ''),
+ ('psychanalyste', "C'est sa peur!", 'It is his fear!', [(666, "c'est sa peur")], ''),
+ ('andrea',
+  'Pardon? Vous pouvez répéter?',
+  'Pardon? Can you repeat that?',
+  [(667, 'Pardon'), (668, 'Vous pouvez répéter')],
+  ''),
+ ('andrea', 'Sur la peur de la norme?', 'About the fear of the norm?', [(668, 'la peur de la norme')], ''),
+ ('psychanalyste',
+  'Je vais vous donner mon livre.',
+  'I am going to give you my book.',
+  [(669, 'donner mon livre')],
+  ''),
+ ('psychanalyste', 'Vous comprendrez.', 'You will understand.', [(670, 'Vous comprendrez')], ''),
+ ('psychanalyste', 'Je vais le dédicacer.', 'I am going to sign it.', [(671, 'dédicacer')], ''),
+ ('psychanalyste',
+  "J'y mets mon numéro de téléphone aussi?",
+  'Shall I put my phone number too?',
+  [(673, 'numéro de téléphone')],
+  ''),
+ ('andrea', 'Non. La dédicace suffit.', 'No. The dedication is enough.', [(674, 'La dédicace suffit')], '')]
+WALK = [(0,
+  None,
+  "'Refusing to swim is refusing the norm!' The basic actions 'refuse' and 'swim' begin this statement. The speaker "
+  'treats refusing to swim as an example of rejecting a social norm.'),
+ (1,
+  None,
+  "'Dom Juan's thirst for life is right there.' The word for thirst is followed by 'to live'. Together they make a "
+  'metaphor for wanting to experience life, rather than needing a drink.'),
+ (2,
+  None,
+  "'Everything is allowed, except the norm of monogamy.' The first word means 'everything'. The following description "
+  "says it is allowed; the word for 'except' then introduces the one limit he identifies."),
+ (3,
+  None,
+  "'He is so afraid of this norm.' French describes fear with 'have'. The amount word after it means 'so much', "
+  'strengthening the fear he attributes to the character.'),
+ (4,
+  None,
+  "'He takes refuge with anything wearing a skirt.' The action means taking refuge. The final clothing word is a "
+  "skirt, used here in the psychoanalyst's account as a way to refer to women."),
+ (5,
+  None,
+  "'It isn't his desire that stops him being faithful.' The negative denies desire as the cause. The object attached "
+  "to 'prevents' means 'him'; the ending names being faithful as the action affected."),
+ (6,
+  None,
+  "'It is his fear!' The possessive means 'his', but takes a feminine shape to match fear. The speaker emphasizes fear "
+  "as his interpretation of the character's behavior."),
+ (7,
+  None,
+  "'Pardon? Can you repeat that?' Now Andréa asks for repetition. The first word politely requests another hearing, "
+  'and the following question asks whether he can repeat what he said.'),
+ (8,
+  None,
+  "'About the fear of the norm?' The opening word means 'about' here. The fear belongs to the norm: Andréa singles out "
+  'the idea that caught her attention.'),
+ (9,
+  None,
+  "'I am going to give you my book.' The opening action introduces what he is going to do next. The object 'you' "
+  "identifies the recipient, and the final words mean 'my book'."),
+ (10,
+  None,
+  "'You will understand.' The ending of 'understand' places it in the future. He tells Andréa that reading the book "
+  'will help her understand the argument.'),
+ (11,
+  None,
+  "'I am going to sign it.' The little object before 'sign' means 'it', the book. The action specifically means "
+  'writing a dedication, rather than merely signing a legal document.'),
+ (12,
+  None,
+  "'Shall I put my phone number too?' The attached place word at the start means 'in it', referring to the book. The "
+  "final word means 'also': he offers to add his phone number too."),
+ (13,
+  None,
+  "'No. The dedication is enough.' Andréa declines the extra offer. The action 'suffices' means 'is enough'; she says "
+  'only the dedication is needed.')]
