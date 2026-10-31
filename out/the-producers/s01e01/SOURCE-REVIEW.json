@@ -6,7 +6,7 @@
   "season": 1,
   "episode": 1,
   "scope": "One short taster from official E01 part1; no full-episode completion claim.",
-  "status": "native_audio_confirmed_exact_dialogue_review_pending",
+  "status": "bounded_original_dialogue_adjudicated_for_one_taster",
   "source": {
     "page": "https://www.youtube.com/watch?v=FFkJCbZi9ws",
     "title": "[IND] Drama 'The Producers' (2015) Ep. 1 Part 1 | KBS WORLD TV",
@@ -46,10 +46,110 @@
     "notHumanAudioCertification": true
   },
   "currentHolds": [
-    "Exact Korean morphology and role mapping require independent large-ASR comparison; do not author from the imperfect automatic caption.",
-    "No native text, lesson, illustration or render approved yet.",
-    "Root-owned explicit excerpt/native-word-span/sourceAudio contract must be integrated."
+    "Production-owned private reference/Qwen/native timing/final full-speech QA before publication."
   ],
   "sharedManifestOwner": "/root/french_e03",
-  "sourceOwnership": "Private media stays outside Git/public storage; production provisions the hash-checked external sourceAudio root."
+  "sourceOwnership": "Private media stays outside Git/public storage; production provisions the hash-checked external sourceAudio root.",
+  "approvedNativeStoryWindow": {
+    "start": 47.24,
+    "end": 53.56,
+    "scope": "Five consecutive complete turns, without the ambiguous-speaker greeting or later studio-name question."
+  },
+  "publicAudioPolicy": "All public Korean dialogue is validated Qwen TTS. Original media/cuts remain private conditioning and verification; no sourceAudio in the public script.",
+  "largeSourceCheck": {
+    "path": "/mnt/agent/narrator-runs/codex-seven-tasters/source-checks/ko-opening-source-large-asr.json",
+    "sha256": "ab2c6ef7b8b2265d72c32584d7eb7fb59f9ed650a22c0076e134e10d350c2136",
+    "autoDetectedLanguage": "ko",
+    "languageProbability": 0.9912109375,
+    "prompt": null,
+    "humanListeningCertified": false
+  },
+  "derivedNativeSidecar": {
+    "file": "sources/the-producers/s01/e01.ko.srt",
+    "sha256": "b6e272b473de63f8dd255836d8db1222287f2017c97903acc6c6b7b751422bad",
+    "cueCount": 308,
+    "conversion": "Complete ko-orig VTT display track converted into chronological SRT; sub100ms rolling refresh cues omitted; latest timed display line retained. Opening46.04–57.34 has explicit reviewed native-audio turn segmentation and orthography. Original complete VTT bytes/hash remain private and unchanged.",
+    "outsideOpeningStatus": "Automatic captions remain unreviewed outside the bounded opening; no full-source transcript certification.",
+    "machineTimingNotice": "Private original-audio bounds come from source Whisper word timestamps and are approximate. Final public TTS receives fresh independently verified timings.",
+    "reviewedCues": {
+      "안녕하세요.": {
+        "cue": 6,
+        "start": 46.04,
+        "end": 46.84
+      },
+      "KBS 신입사원이시죠?": {
+        "cue": 7,
+        "start": 47.24,
+        "end": 48.64
+      },
+      "아, 네.": {
+        "cue": 8,
+        "start": 48.98,
+        "end": 49.38
+      },
+      "왜 뛰세요?": {
+        "cue": 9,
+        "start": 49.66,
+        "end": 50.5
+      },
+      "아, 저 입사식 하는데요.": {
+        "cue": 10,
+        "start": 50.94,
+        "end": 52.24
+      },
+      "늦은 거 같아가지고.": {
+        "cue": 11,
+        "start": 52.5,
+        "end": 53.56
+      },
+      "근데 TS1이 어디입니까?": {
+        "cue": 12,
+        "start": 54.32,
+        "end": 56.1
+      },
+      "저 따라오세요.": {
+        "cue": 13,
+        "start": 56.66,
+        "end": 57.34
+      }
+    },
+    "completeOriginalVttRetainedPrivately": true,
+    "sourcePartCoverage": "Full19:23.741 official Part1 track converted, not a complete E01 or full transcript certificate."
+  },
+  "adjudications": [
+    {
+      "text": "KBS 신입사원이시죠?",
+      "evidence": "Small and large agree on respectful confirmation question; native automatic caption loses final morphology. Visual47.1/47.8/48.4shows camera operator addressing newcomer.",
+      "decision": "Camera operator asks whether Seung-chan is a new KBS employee, not a fabricated self-introduction."
+    },
+    {
+      "text": "왜 뛰세요?",
+      "evidence": "Native automatic caption and large agree 뛰세요; small gives 띄세요, a decoder spelling error contradicted by the visible running and other two readings.",
+      "decision": "Preserve the running verb 뛰다."
+    },
+    {
+      "text": "아, 저 입사식 하는데요.",
+      "evidence": "Both independent decoders and native caption agree, with standard word spacing.",
+      "decision": "Seung-chan gives background about his induction ceremony."
+    },
+    {
+      "text": "늦은 거 같아가지고.",
+      "evidence": "Native caption and large preserve colloquial 거; small expands it to 것. Both agree the phrase gives his impression of being late.",
+      "decision": "Keep actual colloquial 거 and the spoken connective; do not silently replace it with formal 것 같아서."
+    },
+    {
+      "text": "greeting and TS1 question",
+      "evidence": "Greeting word agreed but first speaker uncertain in visual gate; studio name not needed in this short coherent exchange.",
+      "decision": "Both fall outside the chosen native story window. No invented speaker/name history."
+    }
+  ],
+  "art": {
+    "file": "out/the-producers/s01e01/scene-01.webp",
+    "method": "Original geometry-based editorial illustration, locally drawn; no show frame/actor likeness/logo copied.",
+    "source": "out/the-producers/s01e01/authoring/draw-art.py",
+    "dimensions": [
+      1024,
+      1024
+    ]
+  }
 }
