@@ -28,7 +28,7 @@ The script declares `format: taster`. Its final native reinforcement repeats the
 
 ## Learning metadata and limits
 
-Two focused Learn notes use exact scene examples. Four specific word histories are checked against the Cairo Arabic Language Academy entries for رتب, صرف, شهر and سأل. The dictionary has all 14 ordinary lemmas, contextual glosses and usable noun, adjective and verb forms. The history collection is a checked four-word pilot, not an exhaustive history for all 14 lemmas or the entire Arabic language; no generic filler is inserted to conceal that limit. No character-name etymology is invented.
+Two focused Learn notes use exact scene examples and introduce no extra italic native vocabulary beyond the reviewed source words. All 14 ordinary dictionary lemmas now have individually sourced histories. The notes distinguish established formations, reconstructed older forms, historical grammatical proposals and documented lexical disputes. No generic filler or invented character-name etymology is used. The dictionary includes contextual glosses and usable noun, adjective and verb forms. The detailed claim/source review is `ORIGIN-REVIEW.md`; the authored audit resolves all 27 italic Learn word occurrences with no missing dictionary or history entry. This is completeness for this frozen taster, not an entire episode, a season expansion or the Arabic language. A real verified serving candidate must still pass the production origin inventory before publication.
 
 ## Illustration
 
