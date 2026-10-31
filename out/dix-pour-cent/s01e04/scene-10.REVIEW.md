@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Colette? Hello!' Andréa addresses her by name before the greeting. The tax inspector is checking records in Andréa's office while Andréa tries to charm her.
 - 'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out.
 - 'Stop it, Andréa. I know who you are.' Colette keeps polite address while rejecting the invitation. The first action is a command; the last is the matching polite form of being.
-- 'Really?' Andréa replies with two short words that mean 'oh really?' or 'is that so?'.
+- 'Really?' Andréa uses a short expression to ask for confirmation when she is surprised.
 - 'Yes. I see everything in your bills.' The word after 'see' stands alone for 'everything'. It is different from the longer expression for 'everyone', which adds the words for 'the world'.
 - 'What?' Andréa is caught off guard.
 - 'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the word for 'never'.
@@ -53,3 +53,5 @@ Original French audio audit: source-full-e04.wav, unprompted full-episode large-
 Full original French audio checked with primary video. Restored original address forms and corrected source speakers; no register transition is claimed from backtranslated subtitles.
 
 Art repair: built-in imagegen; reference art/style/fr-01-agence.webp for house style. Prompt: Colette audits receipts at a desk in Andréa’s agency office while Andréa tries to charm her. Rounded flat cartoon, canonical character hair/clothes, one dominant palette, no text/logos/actor likeness. Generated composition inspected; saved1024squareWebP.
+
+Production speech polish: replaced English-only teaching with complete grammatical descriptions after three seed/speed retakes still dropped isolated quoted function words. Translation glosses, all native segments, speaker order, timing gaps and notes remain exact.
