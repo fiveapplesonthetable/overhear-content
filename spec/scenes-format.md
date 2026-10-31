@@ -60,10 +60,24 @@ English title/intro so users can see the scope.
 
 Every cue overlapping the declared interval must be fully inside it (never cut through a cue), and every cue in that
 interval must belong to a scene. All scene boundaries and script source citations must stay in the declared interval;
-scripts must cite the same hashed subtitle file. Ordinary notes, script, teaching, cast, art and source-fragment checks
+scripts must cite the same hashed subtitle file. Every original story line must have an indexed citation whose fragment occurs in that line as well as in the source cue; empty citation lists and out-of-range line indexes fail. Ordinary notes, script, teaching, cast, art and source-fragment checks
 still apply. The excerpt declaration does not approve audio, word timing, native accuracy or publication. Without this
 object the existing full-episode coverage and end-time checks apply unchanged. It is an optional v1 extension.
 
 Registered taster shows are Die Discounter (`die-discounter`, `de-en`), Paquita Salas (`paquita-salas`, `es-en`), Boris
 (`boris`, `it-en`), The Producers (`the-producers`, `ko-en`), The Naked Director (`the-naked-director`, `ja-en`), Behind
 the Scenes (`behind-the-scenes`, `zh-en`) and Al Maktab (`al-maktab`, `ar-en`). Registration alone never activates a pair.
+
+### Short taster structure
+
+A script within an explicit excerpt may additionally declare `"format": "taster"` (authoring modules: `FORMAT = "taster"`).
+This permits a genuinely short story without padding to the full-lesson twenty-segment minimum; at least seven
+segments and the existing introduction/story/walk-through/exact-recap/outro structure still apply. The recap must
+repeat the whole original story unchanged. Every original story line remains source-cited. Ordinary annotations,
+teaching and audio gates stay in place. Without the matching excerpt, the taster marker is an error.
+
+An explicit taster may finish naturally with its English outro (`CLOSING = None` in compose), or with a replay of an
+actual story line. It need not fabricate a new target-language farewell absent from the source. A newly authored
+farewell is also allowed when genuinely synthesized and verified; do not pretend it came from the show. Full lessons
+retain the existing native farewell and minimum-length rules. Original recordings remain private verification and
+voice-conditioning inputs; final public lesson dialogue is generated and independently checked.
