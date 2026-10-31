@@ -10,10 +10,13 @@ PAIR = 'fr-en'
 LABELS = {'camille': 'Camille', 'maman': 'Maman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = "After Laura's outrageous audition, evening falls over Paris. It is the night of the César awards, the biggest night in French cinema, and Mathias has given Camille an invitation. In Camille's cosy attic loft, her mother has come up from the south to help her get dressed. She is proud, fussy, and still worried about Mathias. Let's listen in French first; don't worry about catching every word."
-OPENER = "Let's go through it together. Camille's mother is adjusting her dress and asking about Mathias."
+INTRO = ('It is the night of the Cesars, and Camille is getting dressed for the invitation Mathias gave her. Her '
+ "mother is helping by video call from the south of France, watching through Camille's laptop. She is proud, "
+ 'fussy and still worried about Mathias. Listen to the French conversation first.')
+OPENER = "Let's go back to the video call. Camille's mother wants to know what the invitation really means."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "You've got all of it: commands, negatives, and plenty of motherly advice. See you next time!"
+OUTRO = ("Camille's mother mixes warm encouragement with a warning about Mathias. Listen for the short instructions "
+ 'and the words for never or nothing when you hear the call again. See you next time!')
 CLOSING = ('camille', 'Bonne soirée!')
 STORY = [('maman',
   "Il t'invite à des soirées?",

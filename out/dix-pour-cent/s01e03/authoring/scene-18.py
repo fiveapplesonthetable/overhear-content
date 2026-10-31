@@ -10,7 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'herve': 'Hervé', 'laura': 'Laura', 'solveig': 'Solveig'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = "Now it is Laura's turn with the director Solveig Akerfelt. Remember Gabriel's plan: since Solveig hates difficult stars, Laura is going to play an impossible diva so that Solveig turns her down. Listen to the scene in French first, and just enjoy the performance."
+INTRO = ("Now Laura Smet meets director Solveig Akerfelt and acts like an impossible diva, following Herve's plan. "
+ "This shortened French retelling keeps the tea demands in Laura's voice, including a request Gabriel passes "
+ 'to Herve in the original. I will summarise the English part of the staged phone call. Listen to the French '
+ 'performance first.')
 OPENER = "Let's walk through it step by step. Solveig starts in her serious, intense way."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Laura's diva act works like a charm: soon after, Gabriel leaves a delighted voicemail on her phone to say that Solveig Akerfelt found her 'too beautiful for the part', a polite excuse because they don't want a prima donna. See you next time!"
@@ -45,7 +48,8 @@ STORY = [('solveig',
   "Hervé, s'il te plaît! Je veux mon thé.",
   'Hervé, please! I want my tea.',
   [(467, "Hervé, s'il te plaît"), (468, 'veut du thé')],
-  ''),
+  "The source has Gabriel ask Herve for Laura's tea; in this shortened retelling Laura repeats her own "
+  'demand.'),
  ('herve', 'Votre thé, Madame Laura.', 'Your tea, Miss Laura.', [(470, 'Votre thé'), (470, 'Laura')], ''),
  ('herve',
   "Avec une goutte de lait d'amande, comme vous l'aimez.",
@@ -62,17 +66,17 @@ STORY = [('solveig',
   "That was last time, I'm sorry.",
   [(473, "C'était la dernière fois, je suis désolé")],
   ''),
- ('solveig', 'Vous avez terminé?', 'Have you finished?', [(474, 'Vous avez terminé')], ''),
+ ('solveig',
+  "C'est bon, là?",
+  'Are we done now?',
+  [(474, 'Vous avez terminé')],
+  "Uses a short version of the director's actual French audio ('Ok, c'est bon, là'), rather than the "
+  "subtitle's backtranslated formal question."),
  ('laura', 'Bien sûr.', 'Of course.', [(475, 'Bien sûr')], ''),
  ('laura',
   'Pharrell? Pharrell Williams!',
   'Pharrell? Oh, Pharrell Williams!',
   [(476, 'Pharrell'), (477, 'Pharrell Williams')],
-  ''),
- ('laura',
-  "Vous pouvez? C'est à neuf heures.",
-  "Can you make it? It's at nine o'clock.",
-  [(478, 'Vous pouvez'), (479, "C'est à neuf heures")],
   ''),
  ('laura',
   "J'avais une répétition avec John Malkovich ce soir?",
@@ -130,20 +134,23 @@ WALK = [(0,
   None,
   "'That was last time, I'm sorry.' The word for 'last' has a feminine ending because it describes a "
   "feminine noun meaning 'time' or 'occasion'. Herve apologises for an earlier mistake."),
- (11, None, "'Have you finished?' Solveig has been sitting there in disbelief. She uses the polite 'you'."),
+ (11,
+  None,
+  "'Are we done now?' Literally 'it's good now?'. The last word points to the current moment. Solveig wants "
+  "Laura and Herve's tea performance to stop."),
  (12,
   None,
   "'Of course.' Literally 'well sure': the two words together express certainty or ready agreement. The same "
   'expression can reassure someone or, as here, brush aside a complaint.'),
  (13,
   None,
-  "'Pharrell? Oh, Pharrell Williams!' She pretends a world-famous singer is calling her on her mobile."),
- (14, None, "'Can you make it? It's at nine o'clock.' Literally 'You can? It is at nine hours.'"),
- (15,
+  "'Pharrell? Oh, Pharrell Williams!' Laura pretends a famous singer is calling. Herve stages the call from "
+  'nearby; its English dialogue is left out of this French retelling.'),
+ (14,
   None,
   "'Did I have a rehearsal with John Malkovich tonight?' The opening word means 'I had'. The phrase for "
-  "'tonight' literally says 'this evening'. Laura drops another famous name."),
- (16,
+  "'tonight' literally says 'this evening'. Laura turns to Herve and drops another famous name."),
+ (15,
   None,
   "'Say that I'm ill, that I can't come.' Laura starts with a casual command: 'say'. Cancelling a rehearsal "
   'for a party is the final straw for Solveig.')]

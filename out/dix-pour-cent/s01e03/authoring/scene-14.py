@@ -10,10 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = ('Colette Brancillon, the tax inspector, arrives at the agency to begin her audit. Andrea has promised her '
- 'ex-boyfriend Clement a luxury suite at Cannes if he replaces her within a week. But the new inspector '
- 'looks familiar, and Andrea suddenly thinks she can handle her after all. Listen to the introductions and '
- 'the phone call that follows.')
+INTRO = ('Tax inspector Colette Brancillon arrives at the agency. Andrea has arranged for an ex-boyfriend to replace '
+ 'her, but the inspector looks familiar and Andrea suddenly thinks she can manage. You will hear Andrea and '
+ "Colette, with Gabriel relaying the other partners' brief comments in this shortened French retelling.")
 OPENER = "Let's walk through it together. After checking that the inspector doesn't mind Arlette's dog, Gabriel brings her to Andréa."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Colette is installed in her office, and Andréa has just thrown away her only safety net at the tax office. See you next time!'
@@ -22,7 +21,8 @@ STORY = [('gabriel',
   'Andréa. Voici la dame du centre des impôts.',
   'Andréa. Here is the lady from the tax office.',
   [(314, 'Andréa'), (315, 'Voici la dame du centre des impôts')],
-  ''),
+  "The other partners are present in the source. Their brief office comments are combined in Gabriel's role "
+  'in this three-voice retelling.'),
  ('andrea', 'Bonjour. Andréa Martel.', 'Hello. Andréa Martel.', [(316, 'Bonjour. Andréa Martel')], ''),
  ('colette',
   "Colette Brancillon. J'ai besoin d'un bureau pour travailler.",
@@ -67,8 +67,14 @@ STORY = [('gabriel',
   'Elle va rester ici pendant des semaines?',
   'Is she going to stay here for weeks?',
   [(332, 'Elle va'), (332, 'pendant des semaines')],
-  ''),
- ('gabriel', 'Et on peut faire faillite?', 'And could we go bankrupt?', [(334, 'faire faillite')], ''),
+  "The other partners are present in the source. Their brief office comments are combined in Gabriel's role "
+  'in this three-voice retelling.'),
+ ('gabriel',
+  'Et on peut faire faillite?',
+  'And could we go bankrupt?',
+  [(334, 'faire faillite')],
+  "The other partners are present in the source. Their brief office comments are combined in Gabriel's role "
+  'in this three-voice retelling.'),
  ('andrea', "Oui. Mais c'est la vie.", "Yes. But that's life.", [(336, "c'est la vie")], '')]
 WALK = [
     (0, None, "'Andréa. Here is the lady from the tax office.' Literally 'the centre of the taxes'. The first word is how you present someone who has just arrived."),

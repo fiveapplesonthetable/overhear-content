@@ -12,11 +12,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Andréa | J'ai peut-être une solution pour le contrôle fiscal. | I may have a solution for the tax audit. | #132 00:08:49: J'ai peut-être une solution pour le contrôle fiscal | verbatim |
 | 2 | Andréa | Un ex à moi. Il est haut placé aux impôts. | An ex of mine. He's high up at the tax office. | #134 00:08:55: Un ex à moi. Il est haut placé aux impôts | verbatim |
-| 3 | Gabriel | Un homme? | A man? | #137 00:09:03: un homme | verbatim |
+| 3 | Gabriel | Un homme? | A man? | #137 00:09:03: un homme | adapted: Mathias replies to Andrea in the source; Gabriel voices this brief reply in the shortened three-role retelling. |
 | 4 | Andréa | Ça fait longtemps, mais je peux lui parler. | It's been a long time, but I can talk to him. | #136 00:08:59: Ça fait longtemps, mais je<br>#136 00:08:59: lui parler | verbatim |
-| 5 | Gabriel | Appelle-le. On n'a pas vraiment le choix. | Call him. We don't really have a choice. | #139 00:09:09: Appelle-le. On n'a pas vraiment le choix | verbatim |
-| 6 | Andréa | D'accord. | Okay. | #140 00:09:13: D'accord | verbatim |
-| 7 | Andréa | Tu en veux? | Do you want some? | #141 00:09:14: Tu en veux ? | verbatim |
+| 5 | Gabriel | Appelle-le. On n'a pas vraiment le choix. | Call him. We don't really have a choice. | #139 00:09:09: Appelle-le. On n'a pas vraiment le choix | adapted: Mathias replies to Andrea in the source; Gabriel voices this brief reply in the shortened three-role retelling. |
+| 6 | Andréa | D'accord. | Okay. | #140 00:09:13: D'accord | adapted: Mathias replies to Andrea in the source; Gabriel voices this brief reply in the shortened three-role retelling. |
+| 7 | Hervé | Tu en veux? | Do you want some? | #141 00:09:14: Tu en veux ? | verbatim |
 | 8 | Gabriel | Comment Mathias a eu le scénario? | How did Mathias get the script? | #143 00:09:21: Comment<br>#143 00:09:21: a eu le scénario ? | verbatim |
 | 9 | Hervé | J'ai passé des heures au téléphone avec l'assistante d'Akerfelt. | I spent hours on the phone with Akerfelt's assistant. | #144 00:09:23: J'ai passé des heures au téléphone avec l'assistante d'Akerfelt | verbatim |
 | 10 | Hervé | On était les seuls à avoir une copie! | We were the only ones to have a copy! | #145 00:09:26: avoir une copie | verbatim |
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's been a long time, but I can talk to him.' This opening phrase literally says 'it makes a long time', the standard way to say how long it has been.
 - 'Call him.' Gabriel gives a direct command, with the object word 'him' attached after the action word by a hyphen.
 - 'We don't really have a choice.' Literally 'the choice'. Then Andréa agrees.
-- 'Okay.' Short and practical, she'll make the call. Then she offers Gabriel a bite of her snack.
+- 'Okay.' This short agreement settles the proposed call. The story then moves to Gabriel and his assistant, who offers him some food.
 - 'Do you want some?' That little two-letter word before the verb means 'some of it'. Gabriel is too upset to eat.
 - 'How did Mathias get the script?' The word for 'how' starts the question, followed by the everyday past tense of 'to have', which here means 'got'.
 - 'I spent hours on the phone with Akerfelt's assistant.' Hervé defends himself: the verb for 'to pass' also means 'to spend' time.
