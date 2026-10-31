@@ -19,8 +19,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Le serveur | D'accord. | All right. | #294 00:18:02: D'accord | verbatim |
 | 8 | Hippolyte | Il a soudainement fait froid. C'est l'enfer en scooter. | It suddenly got cold. It is hell on a scooter. | #295 00:18:09: Il a soudainement fait froid<br>#296 00:18:12: C'est l'enfer en scooter | verbatim |
 | 9 | Camille | Il gèle à vélo. Je pédale comme une folle! | It is freezing on a bike. I pedal like crazy! | #297 00:18:14: Il gèle à vélo<br>#298 00:18:16: Je pédale comme une folle | verbatim |
-| 10 | Camille | Voici vos contrats. | Here are your contracts. | #302 00:18:30: Vos contrats | verbatim |
-| 11 | Hippolyte | Mon stylo ne marche pas. | My pen is not working. | #304 00:18:40: Mon stylo ne marche pas<br>#304 00:18:40: Désolé | adapted: The separate apology in the subtitle is not assigned to the pen speaker. |
+| 10 | Camille | Voici tes contrats. | Here are your contracts. | #302 00:18:30: Vos contrats | adapted: Informal sibling address, matching the source audio register. |
+| 11 | Camille | Je suis désolée. | I am sorry. | #304 00:18:40: Désolé | adapted: Her spoken feminine apology is confirmed in original-audio ASR; unrelated pen ownership is omitted. |
 | 12 | Hippolyte | C'est mon père qui devrait s'excuser, pas toi. | My father is the one who should apologize, not you. | #306 00:18:51: C'est mon père qui devrait s'excuser, pas toi | verbatim |
 | 13 | Camille | Notre père! C'est trop bizarre. | Our father! It is so weird. | #307 00:18:56: Notre père<br>#308 00:19:00: C'est trop bizarre | verbatim |
 | 14 | Hippolyte | On va juste oublier ça et devenir amis. | We are just going to forget about that and become friends. | new | new |
@@ -38,8 +38,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All right.' The reply is an everyday 'okay'. The small attached word at the beginning belongs to the whole expression, rather than naming a separate object.
 - 'It suddenly got cold. It is hell on a scooter.' The first sentence describes a sudden change in the weather. The second calls travel by scooter 'hell', an exaggerated description of the cold.
 - 'It is freezing on a bike. I pedal like crazy!' The opening weather statement means it is freezing. The comparison after 'I pedal' literally says 'like a crazy woman', matching Camille.
-- 'Here are your contracts.' The first word presents something: 'here are'. The plural word for 'your' matches the contracts and keeps the polite address they are using for work.
-- 'My pen is not working.' The two negative words surround 'works'. A pen that does not work will not write; the action is the same everyday word used for a machine failing.
+- 'Here are your contracts.' The first word presents something: 'here are'. The plural word for 'your' belongs to the contracts, while addressing one person familiarly.
+- 'I am sorry.' The final word has a feminine ending because Camille is speaking. This apology leads Hippolyte to say that their father should be the one apologizing.
 - 'My father is the one who should apologize, not you.' The beginning singles out his father as the person who should apologize. The last two words mean 'not you', explicitly releasing Camille from blame.
 - 'Our father! It is so weird.' Camille changes 'my' to 'our'. That single possessive acknowledges they share a father. The later word means 'too' or, here, emphatically 'so'.
 - 'We are just going to forget about that and become friends.' The opening 'we are going' introduces their plan. The two later actions mean 'forget' and 'become': leave the confusion behind and become friends.
