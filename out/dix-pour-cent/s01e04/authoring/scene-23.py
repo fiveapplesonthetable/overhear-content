@@ -13,9 +13,9 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "After comforting young Armelle Borzek over tea and giving her back the role in Augustin's film, Audrey walks out into the street with Mathias. Mathias worked hard to get her the part so she could pay her late taxes, and he is furious that she just gave it away. Let's listen to their argument in French first. Don't worry if it goes fast; you'll catch the main feelings."
 OPENER = "Let's go back through the argument. Audrey starts by blaming Mathias for hiding the truth."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ('Audrey gives up the role because she cannot face leaving her young children, even though she still owes tax '
- 'money. Earlier the shoot was described as one month; in this argument she worries aloud about six months. You '
- 'heard how to express needing someone and owing money. See you next time!')
+OUTRO = ('Audrey refuses to spend months away from her young children, despite the tax bill she still faces. Mathias '
+ 'leaves in frustration and returns to the agency. You heard how to express a need, explain an objection and '
+ 'remind someone about a debt. See you next time!')
 CLOSING = ('audrey', 'À bientôt!')
 STORY = [('audrey',
   "Augustin avait choisi une autre actrice. C'était horrible.",
@@ -69,17 +69,26 @@ STORY = [('audrey',
   [(627, 'Je les abandonne six mois'), (627, "Tu ne m'as pas parlé du Canada")],
   ''),
  ('mathias', 'Je ne savais pas.', "I didn't know.", [(628, 'savais pas')], ''),
- ('mathias',
+ ('audrey',
   "Et c'est impossible de travailler avec un bébé partout.",
   "And it's impossible to work with a baby around all the time.",
   [(629, 'un bébé partout'), (630, 'tu peux pas travailler')],
   'Combines Mathias’s complaint about taking a baby everywhere with his claim that it prevents work.'),
  ('mathias',
-  "Tu dois beaucoup d'argent aux impôts. Mais je te souhaite bonne chance!",
-  'You owe a lot of money in taxes. But I wish you good luck!',
+  "Tu dois beaucoup d'argent aux impôts.",
+  'You owe a lot of money in taxes.',
   [(634, 'tu dois aux impôts'), (635, 'mais je te souhaite bonne chance')],
+  'Keeps the debt reminder separate from Audrey’s sarcastic farewell.'),
+ ('audrey',
+  'Mais je te souhaite bonne chance!',
+  'But I wish you good luck!',
+  [(635, 'mais je te souhaite bonne chance')],
   ''),
- ('audrey', 'Bonjour!', 'Good day!', [(638, 'Bonjour')], '')]
+ ('mathias',
+  'Bonjour!',
+  'Hello!',
+  [(638, 'Bonjour')],
+  'Mathias greets people when he returns to the agency; not a farewell on a train.')]
 WALK = [(0,
   None,
   "'Augustin had chosen another actress. It was horrible.' The first action was already completed before this "
@@ -130,12 +139,16 @@ WALK = [(0,
  (12,
   None,
   "'And it's impossible to work with a baby around all the time.' The description 'impossible' is followed by a "
-  "short linking word and the plain action 'work'. Mathias makes another objection."),
+  "linking word and the plain action 'work'. This is Audrey's objection to taking her baby everywhere."),
  (13,
   None,
-  "'You owe a lot of money in taxes. But I wish you good luck!' The action word here means 'owe'. Before another "
-  "action it can mean 'must', but before an amount of money it describes a debt."),
+  "'You owe a lot of money in taxes.' The action word here means 'owe'. Before another action it can mean 'must', "
+  'but before an amount of money it describes a debt.'),
  (14,
   None,
-  "'Good day!' As the train doors close between them, they throw the word for 'hello' at each other sarcastically "
-  "instead of 'goodbye'. Let's listen to the whole argument once more.")]
+  "'But I wish you good luck!' Audrey turns the farewell back on Mathias. The word for 'you' comes before 'wish' "
+  "and marks the person receiving the wish; the describing word for 'good' agrees with feminine 'luck'."),
+ (15,
+  None,
+  "'Hello!' Mathias has returned to the agency. The same everyday greeting works when arriving at an office as "
+  'when meeting someone outside.')]

@@ -43,3 +43,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'With children here, they think about babies, not about cinema!' After 'think', French uses the same short linking word before both subjects. It combines with the following article in two different forms. Listen to the two destinations of their thoughts.
 - 'Thank you, my little kitten.' French parents often use 'my kitten' as a sweet pet name for a small child.
 - 'Mathias, look, she has drawn you! She's very talented!' The object word for 'you' shrinks before the auxiliary verb. Mathias is not nearly as charmed by the portrait as Audrey is.
+
+Primary-video check: private original E04 MP4id1619500213. Audrey arrives at the agency with her children and greets Mathias. Previous Clémentine encounter was in the agency hall, not outside a shop. Original French audio audit pending.
