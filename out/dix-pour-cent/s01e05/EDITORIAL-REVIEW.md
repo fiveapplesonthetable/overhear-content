@@ -13,3 +13,9 @@ Reviewed word annotations in context, including articles versus object pronouns,
 Validation: `python3 -I tools/validate.py out/dix-pour-cent/s01e05 --require-notes` reports 0 errors. Remaining episode-wide teaching warnings concern scenes outside this reviewed batch; source timeline-gap warnings describe the original episode's cuts. No shared dictionary, cast or learn files changed.
 
 The other scenes are not approved by this review yet.
+
+## Batch 2: scenes 05–08
+
+Checked against source cues 89–157 and read the entire remaining episode source through cue 739 for continuity. Restored “Non, Julie!” to Andrea instead of the previous invented reply by Julie. Kept learner simplifications explicit in scene 06. Rewrote every English explanation, completed all contraction-bearing translations, and removed unsupported actions/locations from the connective narration.
+
+Corrected ordinary “he”, “has”, “the”, “all”, “door”, “girl”, “in costumes” and “pass for” annotations that previously pointed to unrelated multiword entries or senses. Reviewed all noncanonical lexicon forms, examples and pronunciation entries for these scenes, and checked the four illustrations. No shared metadata changed. Validation: 0 errors, 95 warnings across the episode; scenes 01–08 have no explanation warnings.
