@@ -151,5 +151,26 @@
       1024,
       1024
     ]
+  },
+  "lexicalReview": {
+    "lemmaCount": 12,
+    "sourceFile": "word-origins/ko-en.json",
+    "sources": "Primary NIKL Basic Dictionary and language-advice entries; official KBS institutional history. Specific claims and explicit uncertainty per lemma.",
+    "sourceLookupEvidence": "/mnt/agent/pilot-source-discovery/korean-pilot/reviewed-lexical-sources.json",
+    "coverage": "All12 lesson lemmas have sourced histories/formation notes; deeper origins are not invented when unestablished.",
+    "learn": "learn/ko-en/first-day-polite-questions.json",
+    "learnVocabulary": "Only reviewed lesson lemmas/forms; no uncovered target words."
+  },
+  "validation": {
+    "metadataErrors": 0,
+    "episodeErrors": 0,
+    "episodeWarnings": 1,
+    "deliberateWarning": "Five-line explicit taster, no padding.",
+    "teachingExplained": 5,
+    "teachingTotal": 5,
+    "contentToolTestsPassed": 95,
+    "nativeAnnotatedReplays": 15,
+    "annotatedOccurrences": 39,
+    "lemmaOriginsCovered": 12
   }
 }
