@@ -58,6 +58,39 @@ def completeness(report, season=None):
     return all(not r['missing'] and not r.get('unresolved') for r in rows)
 
 
+def reviewed_run_words(run, examples, native_lines):
+    """Resolve an unspaced Learn example only through its actual published lexical spans.
+
+    No longest-match dictionary segmentation: partial compounds, missing spans,
+    inconsistent annotations and unmatched examples remain unresolved.
+    """
+    alternatives = {}
+    for ref in examples:
+        line = native_lines.get((ref.get("sceneId"), ref.get("seg")))
+        if not line: continue
+        text, words = line.get("text", ""), line.get("words", [])
+        position = text.find(run)
+        while position >= 0:
+            stop = position + len(run)
+            selected, owned, cursor, valid = [], set(), 0, True
+            for word in words:
+                start, end = word.get("charStart"), word.get("charEnd")
+                if type(start) is not int or type(end) is not int or not cursor <= start < end <= len(text) or text[start:end] != word.get("t"):
+                    valid = False; break
+                cursor = end
+                if end <= position or start >= stop: continue
+                outside = text[start:min(end, position)] + text[max(start, stop):end]
+                if any(unicodedata.category(ch)[0] in "LNM" for ch in outside):
+                    valid = False; break
+                selected.append(word)
+                owned.update(range(max(start, position), min(end, stop)))
+            if valid and selected and all(position + i in owned for i, ch in enumerate(run) if unicodedata.category(ch)[0] in "LNM"):
+                key = tuple((word.get("lex") or word.get("lemma") or word["t"]).lower() for word in selected)
+                alternatives[key] = selected
+            position = text.find(run, position + 1)
+    return next(iter(alternatives.values())) if len(alternatives) == 1 else None
+
+
 def inventory(out, content):
     meta = json.loads((out / 'meta/app.json').read_text())
     result = {}
@@ -80,6 +113,7 @@ def inventory(out, content):
         scene_counts = collections.Counter()
         article_counts = collections.Counter()
         aliases = collections.defaultdict(set)
+        native_lines = {}
         for key, entry in entries.items():
             for form in [key, *entry.get('surface', [])]:
                 aliases[surface_key(form, pair['learn'])].add(key)
@@ -100,8 +134,9 @@ def inventory(out, content):
                 raise ValueError(f"Cannot identify season of published scene: {scene['id']}")
             scene_counts[season] += 1
             assembled = blob_document(out, scene['content'])
-            for line in assembled['transcript']['lines']:
+            for line_index, line in enumerate(assembled['transcript']['lines']):
                 if line['lang'] == pair['learn']:
+                    native_lines[(scene['id'], line.get('seg', line.get('i', line_index)))] = line
                     occurrences.update((w.get('lex') or w.get('lemma') or '').lower() for w in line['words'])
                     for word in line['words']:
                         key = (word.get('lex') or word.get('lemma') or '').lower()
@@ -133,6 +168,14 @@ def inventory(out, content):
             for season in seasons:
                 article_counts[season] += 1
                 for word in words:
+                    if pair['learn'] in ('ja', 'zh') and len(aliases.get(surface_key(word, pair['learn']), set())) != 1:
+                        resolved = reviewed_run_words(word, article.get('examples', []), native_lines)
+                        if resolved is not None:
+                            for reviewed in resolved:
+                                key = (reviewed.get('lex') or reviewed.get('lemma') or '').lower()
+                                if key in entries: season_words[season].add(key)
+                                else: note_word(season, reviewed['t'])
+                            continue
                     note_word(season, word)
         missing = [dict(lemma=key, gloss=entries[key]['gloss'], occurrences=occurrences[key])
                    for key in sorted(entries, key=lambda key: (-occurrences[key], key))
