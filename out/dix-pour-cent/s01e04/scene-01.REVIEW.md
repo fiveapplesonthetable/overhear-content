@@ -31,21 +31,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Wait, you're walking fast.' Audrey uses a polite command, followed by the matching polite form of 'you walk'. She is worried about waking her baby.
 - 'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before the action word 'to wake'.
-- 'He didn't sleep all night.' Literally 'of the night', the idiomatic way to say 'all night long' after a negative.
-- 'He's teething.' Literally 'he is making his teeth'.
+- 'He didn't sleep all night.' French uses a negative statement about sleeping, followed by an expression that covers the whole night.
+- 'He's teething.' The baby is teething. French describes this literally as making his teeth.
 - 'We're not taking any risks. Let me do the talking.' The negative word after the action means 'not any'. The command keeps polite address to one person. Mathias expects a familiar inspector, but a stricter replacement is now at the desk.
 - 'Is he your husband?' The inspector uses the polite 'your' as they sit down.
 - 'No, her agent.' The possessive follows the gender of the job title, not the owner. A male agent therefore takes the same form whether he represents a woman or a man.
-- 'Madam, you are twenty-three months late.' Literally 'you have twenty-three months of delay'. French uses 'to have' with a noun for being late.
+- 'Madam, you are twenty-three months late.' French describes lateness as having an amount of delay. The number of months tells us how long the payment has been overdue.
 - 'Yes, but at least I pay my taxes in France!' Listen for the two-word expression meaning 'at least'. It sets a minimum positive point against the bad news about her late payment.
 - 'Audrey had two children in three years.' You hear two forms of 'to have' together: the short helping word, then the past form meaning 'had'. The phrase at the end gives the period in which this happened.
-- 'Now she wants to find work again and pay her taxes.' The prefix on 'to find again' works just like 're-' in English.
-- 'You can't find work, madam?' After a negative, the word for 'some' becomes the simple short word for 'of' or 'any'.
-- 'Of course she can!' Notice the special word for 'yes' at the end: French uses it instead of the normal 'yes' to contradict a negative question.
+- 'Now she wants to find work again and pay her taxes.' The French verb for finding again has a prefix that marks repetition. English does something similar with the word redo, meaning to do again.
+- 'You can't find work, madam?' After the negative, the partitive article becomes a shorter form. The sentence asks whether she can find any work at all.
+- 'Of course she can!' French has a special affirmative response for contradicting a negative question. Mathias uses it to reject the suggestion that Audrey cannot find work.
 - 'But you turned down a role in an action film.' Here 'you have' helps make a past action: 'you refused'. It does not mean that she currently owns something.
 - 'I couldn't run after zombies!' The form of 'can' places her inability in the past. The word after 'run' means 'after' here, as in chasing someone.
-- 'Audrey's return to a film shoot is imminent.' The short linking sound before her name means 'of': it is Audrey's return. Mathias promises that she will be back on set very soon.
+- 'Audrey's return to a film shoot is imminent.' The short linking sound before her name connects the return with Audrey. Mathias promises that she will be back on set very soon.
 - 'Yes, it's a huge project.' The describing word comes after 'project'. It has the same spoken form for a masculine or feminine thing, so you can reuse it to describe either kind of thing.
 - 'I expect your cheque this week, with ten percent extra.' At the end, the word for 'more' means an added amount. It does not mean 'no longer': there is no negative around it.
 
-Original French audio audit: private source01-audio.wav, unprompted large-v3-turbo transcript row e04-scene01-actual in source-register-urgent02-asr.json. Audrey uses Attendez/vous marchez; Mathias also addresses her politely. Corrected both casual forms inherited from backtranslated dual SRT. Other lesson meanings match original audio; polite imperative is a disclosed shortening of source request.
+Original French audio audit: Audrey says Attendez/vous marchez, and Mathias addresses her politely. The shortened command preserves that register. The final seven English teaching rewrites avoid F5 dropping isolated quoted words; native French remains source-corrected.
