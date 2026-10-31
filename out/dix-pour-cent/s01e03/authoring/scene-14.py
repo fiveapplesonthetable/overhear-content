@@ -84,7 +84,7 @@ WALK = [
     (4, None, "'I really have the feeling I know you.' In French you say 'the impression of knowing you', using the verb for knowing a person. Andréa stares at Colette, sure she has seen her face somewhere."),
     (5, None, "'No, I don't think so.' Literally 'I do not believe'. Colette's answer is cool and polite, using the two-part negative around the action word."),
     (6, None, "'Maybe it was in another life.' The verb at the front is the past form for how things were, and the hyphenated word after it means 'maybe'."),
-    (7, None, "'Do you have everything you need?' Literally 'all that which it you is-needed'. A polite, standard phrase when showing a visitor to a room."),
+    (7, None, "'Do you have everything you need?' The French phrase uses an impersonal verb for what is necessary, with a short pronoun identifying the person who needs it. A polite, standard phrase when showing a visitor to a room."),
     (8, None, "'Yes, thank you.' Short and polite. Colette doesn't waste a syllable."),
     (9, 'Mon bureau est juste là.', "'My office is right there.' The word for 'my' is masculine here to match 'office'."),
     (9, "À tout à l'heure.", "'See you later.' You use this when you will see the person again later the same day."),
