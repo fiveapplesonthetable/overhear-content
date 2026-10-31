@@ -114,8 +114,8 @@ WALK = [(0,
   "short word meaning 'just' makes the request sound smaller."),
  (6,
   None,
-  "'Can I trust you?' The French expression literally says 'make trust'. The little word meaning 'you' comes "
-  "before that expression, although English puts 'you' last."),
+  "'Can I trust you?' The French expression literally says 'make trust'. Here, the person being trusted "
+  'comes before the action. English puts that person after it.'),
  (7,
   'Je suis presque au point.',
   "'I've almost got it.' The expression at the end means being ready or having something worked out. Saying "
