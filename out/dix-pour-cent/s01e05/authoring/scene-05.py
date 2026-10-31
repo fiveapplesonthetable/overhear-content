@@ -10,38 +10,118 @@ PAIR = 'fr-en'
 LABELS = {'joey': 'JoeyStarr', 'julie': 'Julie', 'samir': 'Samir'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = "At the coffee table, JoeyStarr has just helped Sofia rehearse her two lines and calmed her stage fright. Now JoeyStarr is back on the chateau set with Julie Gayet to shoot a passionate eighteenth-century declaration of love, but he keeps stumbling over his lines. We'll hear the scene in French first; don't worry about catching every word."
-OPENER = "Let's walk through it. Out in the chateau park, JoeyStarr stumbles over his lines yet again."
+INTRO = ("JoeyStarr has helped Sofia rehearse, but his own scene with Julie is going badly. He mixes up the lovers' "
+ 'speech, Julie leaves the set, and the agents arrive to deal with the argument. Listen to the French first '
+ 'and follow the change from acting to a real quarrel.')
+OPENER = 'The romantic speech begins badly. JoeyStarr apologises and tries to start again.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "So Julie has locked herself in her dressing room, JoeyStarr is furious outside, and Andréa and Gabriel have walked straight into the storm. Listen out for the opposite verbs meaning 'to leave' and 'to stay'. See you next time!"
+OUTRO = ('The actors cannot continue until the argument is settled. Listen again for the two opposite actions, '
+ 'leaving and staying, that spoil the romantic speech. See you next time.')
 CLOSING = ('julie', 'Au revoir!')
-STORY = [
-    ('joey', 'Oh non! Pardon!', 'Oh no! Sorry!', [], ''),
-    ('joey', 'Madame, je sais que notre amour est mille fois interdit.', 'Madam, I know that our love is forbidden a thousand times over.', [(91, 'Madame, je sais que notre amour est mille fois interdit.')], ''),
-    ('joey', 'Ma raison me dit mille fois de partir.', 'My reason tells me a thousand times to leave.', [(92, 'Ma raison me dit mille fois de')], ''),
-    ('joey', 'Mais mon cœur me dit de partir. Non, de rester!', 'But my heart tells me to leave. No, to stay!', [(93, 'mais mon cœur me dit de'), (94, 'Non, de rester !')], ''),
-    ('julie', 'Je ne peux pas jouer comme ça!', "I can't act like this!", [(95, 'Je ne peux pas jouer comme ça !')], ''),
-    ('samir', 'Bon, on arrête.', "Okay, let's stop.", [(96, 'Bon, on arrête.')], ''),
-    ('joey', "Mais qu'est-ce qu'elle fait encore?", 'But what is she doing now?', [(97, "Mais qu'est-ce qu'elle"), (97, 'encore ?')], ''),
-    ('samir', 'Elle est dans sa loge. Elle refuse de sortir.', "She's in her dressing room. She refuses to come out.", [(98, 'Elle refuse de sortir.')], ''),
-    ('joey', 'Quoi? Poussez-vous! Ouvre la porte, Julie!', 'What? Out of the way! Open the door, Julie!', [(98, 'Quoi ?'), (99, 'Poussez-vous !')], ''),
-    ('samir', 'Didier, arrête! Voilà les agents.', 'Didier, stop! Here are the agents.', [(100, 'Didier !')], ''),
-    ('joey', "Elle m'énerve! Elle vit encore au dix-huitième siècle!", 'She gets on my nerves! She still lives in the eighteenth century!', [(101, 'Elle'), (101, 'encore au'), (101, 'siècle.')], ''),
-    ('joey', 'Elle est trop sérieuse! Elle a grandi dans un couvent!', "She's too serious! She grew up in a convent!", [(102, 'Elle est'), (102, 'elle a grandi dans un couvent.')], ''),
-    ('julie', "Il doit s'excuser d'abord!", 'He must apologise first!', [(103, 'il')], ''),
-]
-WALK = [
-    (0, None, "'Oh no! Sorry!' In the show he swears loudly twice before starting the speech again."),
-    (1, None, "'Madam, I know that our love is forbidden a thousand times over.' The word for 'a thousand' never takes a plural ending."),
-    (2, None, "'My reason tells me a thousand times to leave.' Notice the little word before 'leave' linking 'tells me' to the action."),
-    (3, None, "'But my heart tells me to leave. No, to stay!' He mixes up the two opposite action words, and ruins the take. Julie has had enough."),
-    (4, None, "'I can't act like this!' The verb for 'to play' is also the verb for 'to act'. She storms off the set."),
-    (5, None, "'Okay, let's stop.' The director Samir sighs and calls a halt."),
-    (6, None, "'But what is she doing now?' This long question phrase at the start is the standard spoken way to ask 'what'."),
-    (7, None, "'She's in her dressing room. She refuses to come out.' The word for a theatre dressing room or an actor's trailer on a film set is the same."),
-    (8, None, "'What? Out of the way! Open the door, Julie!' Literally 'push yourselves!'. JoeyStarr marches up to her trailer and hammers on the door."),
-    (9, None, "'Didier, stop! Here are the agents.' Here, Didier is JoeyStarr's real first name, and just in time, Gabriel and Andrea arrive from Paris."),
-    (10, None, "'She gets on my nerves! She still lives in the eighteenth century!' He greets Gabriel by complaining bitterly about his co-star."),
-    (11, None, "'She's too serious! She grew up in a convent!' The everyday past tense of the verb 'to grow up' uses 'has' plus 'grown'."),
-    (12, None, "'He must apologise first!' Inside her trailer, Julie is just as angry. Let's hear the whole scene once more."),
-]
+STORY = [('joey', 'Oh non! Pardon!', 'Oh no! Sorry!', [], ''),
+ ('joey',
+  'Madame, je sais que notre amour est mille fois interdit.',
+  'Madam, I know that our love is forbidden a thousand times over.',
+  [(91, 'Madame, je sais que notre amour est mille fois interdit.')],
+  ''),
+ ('joey',
+  'Ma raison me dit mille fois de partir.',
+  'My reason tells me a thousand times to leave.',
+  [(92, 'Ma raison me dit mille fois de')],
+  ''),
+ ('joey',
+  'Mais mon cœur me dit de partir. Non, de rester!',
+  'But my heart tells me to leave. No, to stay!',
+  [(93, 'mais mon cœur me dit de'), (94, 'Non, de rester !')],
+  ''),
+ ('julie',
+  'Je ne peux pas jouer comme ça!',
+  "I can't act like this!",
+  [(95, 'Je ne peux pas jouer comme ça !')],
+  ''),
+ ('samir', 'Bon, on arrête.', "Okay, let's stop.", [(96, 'Bon, on arrête.')], ''),
+ ('joey',
+  "Mais qu'est-ce qu'elle fait encore?",
+  'But what is she doing now?',
+  [(97, "Mais qu'est-ce qu'elle"), (97, 'encore ?')],
+  ''),
+ ('samir',
+  'Elle est dans sa loge. Elle refuse de sortir.',
+  "She's in her dressing room. She refuses to come out.",
+  [(98, 'Elle refuse de sortir.')],
+  ''),
+ ('joey',
+  'Quoi? Poussez-vous! Ouvre la porte, Julie!',
+  'What? Out of the way! Open the door, Julie!',
+  [(98, 'Quoi ?'), (99, 'Poussez-vous !')],
+  ''),
+ ('samir',
+  'Didier, arrête! Voilà les agents.',
+  'Didier, stop! Here are the agents.',
+  [(100, 'Didier !')],
+  ''),
+ ('joey',
+  "Elle m'énerve! Elle vit encore au dix-huitième siècle!",
+  'She gets on my nerves! She still lives in the eighteenth century!',
+  [(101, 'Elle'), (101, 'encore au'), (101, 'siècle.')],
+  ''),
+ ('joey',
+  'Elle est trop sérieuse! Elle a grandi dans un couvent!',
+  "She's too serious! She grew up in a convent!",
+  [(102, 'Elle est'), (102, 'elle a grandi dans un couvent.')],
+  ''),
+ ('julie', "Il doit s'excuser d'abord!", 'He must apologise first!', [(103, 'il')], '')]
+WALK = [(0,
+  None,
+  "'Oh no! Sorry!' The apology replaces the stronger language in the original scene. It is a short "
+  'expression for admitting a mistake and starting again.'),
+ (1,
+  None,
+  "'Madam, I know that our love is forbidden a thousand times over.' The word for thousand stays unchanged "
+  "when counting thousands. Here it exaggerates how impossible the lovers' relationship is supposed to be."),
+ (2,
+  None,
+  "'My reason tells me a thousand times to leave.' The little word linking tells me to leave is the same "
+  'word often translated as of. Its job here is to introduce what his reason tells him to do.'),
+ (3,
+  None,
+  "'But my heart tells me to leave. No, to stay!' Leave and stay are opposites. Saying the wrong one "
+  'reverses the meaning of the romantic speech, which is why his correction ruins the take.'),
+ (4,
+  None,
+  "'I can't act like this!' The action word can mean play a game, play a role or act. The final expression "
+  'means like this and points to the whole difficult situation.'),
+ (5,
+  None,
+  "'Okay, let's stop.' The everyday word meaning we comes before stop. With the present tense and this tone, "
+  'it proposes stopping now rather than describing a routine.'),
+ (6,
+  None,
+  "'But what is she doing now?' The long opening is an ordinary spoken question pattern. The last word "
+  'carries the irritation of what she is doing yet again.'),
+ (7,
+  None,
+  "'She's in her dressing room. She refuses to come out.' A dressing room is the place an actor uses away "
+  'from the set. Refuses is followed by a connecting word before the next action, come out.'),
+ (8,
+  None,
+  "'What? Out of the way! Open the door, Julie!' The first instruction addresses people politely or as a "
+  'group; the next is familiar and singular because he is now addressing Julie. The change tells us who he '
+  'speaks to.'),
+ (9,
+  None,
+  "'Didier, stop! Here are the agents.' The director uses the actor's real first name. The word announcing "
+  'the agents can present a person who has just arrived, rather than say where they are.'),
+ (10,
+  None,
+  "'She gets on my nerves! She still lives in the eighteenth century!' The expression about irritating him "
+  'puts me before the action. The word for still then suggests that Julie has not left the old-fashioned '
+  'world of her character.'),
+ (11,
+  None,
+  "'She's too serious! She grew up in a convent!' The first description is written in its feminine form for "
+  'Julie. The second sentence builds a completed past action with has and grown up.'),
+ (12,
+  None,
+  "'He must apologise first!' The action means to excuse oneself, or apologise. The final expression puts "
+  'that apology before any return to work.')]
