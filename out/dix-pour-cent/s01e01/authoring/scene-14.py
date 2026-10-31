@@ -1,3 +1,4 @@
+SOURCE_NOTE = 'French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.'
 # Authoring module for dix-pour-cent-s01e01-scene-14.
 ID = 'dix-pour-cent-s01e01-scene-14'
 SHOW = 'dix-pour-cent'
@@ -72,15 +73,15 @@ STORY = [('mathias',
   [(457, 'alors je me débrouille seule, comme toujours')],
   ''),
  ('noemie',
-  'Bonjour. En fait, vous et lui...',
+  'Bonjour. En fait, toi et lui...',
   'Hello. Actually, you and him...',
   [(458, 'Bonjour'), (459, 'En fait, vous'), (460, 'vous et lui')],
-  'Interrupted source clauses combined.'),
+  'The familiar address is confirmed by original French audio.'),
  ('noemie',
-  'Mathias, vous savez, est marié.',
+  'Mathias, tu sais, est marié.',
   'Mathias, you know, is married.',
   [(461, 'Mathias, vous savez'), (462, 'est marié')],
-  ''),
+  'The familiar address is confirmed by original French audio.'),
  ('noemie', 'Il est très, très marié.', "He's very, very married.", [(463, 'Il est très, très marié')], '')]
 WALK = [(0,
   None,
@@ -137,12 +138,12 @@ WALK = [(0,
   'walks off.'),
  (13,
   None,
-  "'Hello. Actually, you and him...' Noemie uses the polite 'you'. The final word is the form of 'him' used "
-  'on its own, as opposed to a small object word before an action.'),
+  "'Hello. Actually, you and him...' After 'and', French uses the separate form of 'you', just as it uses a "
+  "separate form of 'him'. Noemie is hinting at a relationship she has misunderstood."),
  (14,
   None,
-  "'Mathias, you know, is married.' The familiar aside 'you know' uses a plural-looking verb ending because "
-  'Noemie is addressing Camille politely.'),
+  "'Mathias, you know, is married.' The little aside 'you know' directly addresses Camille. It has the "
+  'familiar form and interrupts the statement about Mathias.'),
  (15,
   None,
   "'He's very, very married.' Repeating 'very' strengthens Noemie's warning. The description of Mathias has "
