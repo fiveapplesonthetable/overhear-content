@@ -910,7 +910,12 @@ def main(argv):
         return 1 if rep.errors else 0
     if "--script" in argv:
         p = Path(args[0]).resolve()
-        lang = "fr" if re.search(r"dix|fr-", str(p)) else "ru"
+        try:
+            script_pair = json.loads(p.read_text(encoding="utf-8")).get("pair")
+        except (OSError, ValueError, AttributeError):
+            script_pair = None  # check_script reports the actual file/JSON error
+        lang = next((lang for lang, pair in PAIR.items() if pair == script_pair),
+                    "fr" if re.search(r"dix|fr-", str(p)) else "ru")
         check_script(p, lang, rep)
     else:
         base = Path(args[0] if args else "out").resolve()
