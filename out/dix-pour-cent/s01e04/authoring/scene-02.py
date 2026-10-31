@@ -7,13 +7,15 @@ SCENE = 2
 TITLE = "Les photos de Sofia  (Sofia's Photos)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
+LABELS = {'mathias': 'Mathias', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Back at the agency, Gabriel is keeping the promise he made at the end of the last episode: he has taken on receptionist Sofia as a client. Between phone calls at the front desk, Sofia shows him her new professional headshots. We'll hear it in French first; just listen to the tone of their voices."
 OPENER = "Let's go through it line by line. Sofia is answering the agency phone at the reception desk as Gabriel walks in."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'As they step out of the lift into the corridor, tax inspector Colette Brancillon politely reminds them about the documents she asked for, and Gabriel and Andréa worry that tax inspectors always find something wrong. See you next time!'
+OUTRO = ('As they step out of the lift into the corridor, tax inspector Colette Brancillon politely reminds them about '
+ 'the documents she asked for, and Gabriel and Mathias worry that tax inspectors always find something wrong. See '
+ 'you next time!')
 CLOSING = ('gabriel', 'À demain!')
 STORY = [('sofia',
   'ASK, bonjour. Oui, je vous la passe.',
@@ -56,7 +58,7 @@ STORY = [('sofia',
   ''),
  ('sofia', 'Merci, Gabriel!', 'Thank you, Gabriel!', [(50, 'Merci'), (52, 'Gabriel !')], ''),
  ('gabriel', 'Bon, au travail!', 'Right, back to work!', [(79, 'Bon, au travail !')], ''),
- ('andrea',
+ ('mathias',
   'Et après Sofia, tu prends aussi la fille de la boulangerie?',
   'And after Sofia, are you taking on the girl from the bakery too?',
   [(81, 'la fille de la boulangerie')],
@@ -66,11 +68,11 @@ STORY = [('sofia',
   "She'll be on the cover of a big magazine!",
   [(82, 'Elle fera la couverture de')],
   ''),
- ('andrea',
+ ('mathias',
   "Tu l'aimes bien, non?",
   "You like her, don't you?",
   [(83, 'non ?')],
-  'Softens Andréa’s explicit sexual teasing into a question about attraction; not a claim of romantic love.'),
+  'Softens Mathias’s explicit sexual teasing into a question about attraction; not a claim of romantic love.'),
  ('gabriel', 'Jamais avec mes clientes!', 'Never with my clients!', [(83, 'Jamais avec mes clientes')], '')]
 WALK = [(0,
   None,
@@ -112,7 +114,7 @@ WALK = [(0,
  (11, None, "'Thank you, Gabriel!' Sofia is glowing as the lift doors open."),
  (12,
   None,
-  "'Right, back to work!' Literally 'to the work'. Gabriel hurries into the lift, where Andréa is waiting."),
+  "'Right, back to work!' Literally 'to the work'. Gabriel hurries into the lift, where Mathias is waiting."),
  (13,
   None,
   "'And after Sofia, are you taking on the girl from the bakery too?' The action word normally means 'take'. For "
@@ -124,7 +126,7 @@ WALK = [(0,
  (15,
   None,
   "'You like her, don't you?' Adding the word meaning 'well' after 'love' makes the everyday expression for "
-  "liking someone. The final 'no?' asks him to confirm Andréa's suspicion."),
+  "liking someone. The final 'no?' asks him to confirm Mathias's suspicion."),
  (16,
   None,
   "'Never with my clients!' The final word has a feminine ending because he means female clients. Its spoken "
