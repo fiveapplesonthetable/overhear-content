@@ -7,7 +7,7 @@ SCENE = 4
 TITLE = "Je ne sais pas nager  (I Can't Swim)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'francois': 'François', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'francois': 'François'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Back at the agency, the crisis over Dom Juan is escalating. François Berléand is furious about the avant-garde rehearsal and demands that Andréa fix the conflict with director Christophe Bel at once. Let's listen to the scene in French first."
@@ -59,12 +59,12 @@ STORY = [('andrea',
    (104, 'De la daube des années 80,'),
    (105, 'Ouais, un vrai génie !')],
   ''),
- ('gabriel',
+ ('andrea',
   'Arrête, tu es vraiment injuste! Tu as beaucoup de chance.',
   'Stop it, you are being really unfair! You are very lucky.',
   [(106, "Arrête, t'es vraiment injuste."), (107, "T'as beaucoup de chance.")],
   ''),
- ('gabriel',
+ ('andrea',
   'Une ambiance sexy, des maillots de bain... La petite Mathurine est superbe!',
   'A sexy atmosphere, swimsuits... Little Mathurine is gorgeous!',
   [(108, 'Une ambiance sexy'), (109, 'La petite Mathurine est canon ! Tu sais si elle a un agent ?')],
@@ -119,7 +119,7 @@ WALK = [(0,
  (8,
   None,
   "'Stop it, you are being really unfair! You are very lucky.' The first word is a command to stop. To say he is "
-  "lucky, Gabriel uses 'have' with the noun for luck. French expresses this as having a lot of luck."),
+  "lucky, Andréa uses 'have' with the noun for luck. French expresses this as having a lot of luck."),
  (9,
   None,
   "'A sexy atmosphere, swimsuits... Little Mathurine is gorgeous!' The plural clothing expression means swimsuits: "
