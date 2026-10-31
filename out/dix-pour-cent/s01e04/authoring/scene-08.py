@@ -7,17 +7,17 @@ SCENE = 8
 TITLE = 'Un acheteur allemand  (A German Buyer)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'helene': 'Hélène', 'mathias': 'Mathias'}
+LABELS = {'helene': 'Hélène', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = ("Hélène, Samuel's widow, has found a serious buyer for the agency. The four agents want to know what a sale "
- 'would mean for their jobs. Mathias arrives late as the discussion begins. Listen to the meeting in French '
- 'first.')
+INTRO = ("Hélène, Samuel's widow, meets Mathias at a restaurant. She has found a serious buyer for the agency, and he "
+ 'wants to know what a sale would mean for the four agents. First, listen to their conversation in French.')
 OPENER = "Let's walk through it step by step. Mathias arrives late and apologises to Hélène."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ("The German offer puts the agents' future in doubt. Later, a rival agency also tries to lure Mathias away. You "
- "heard how to ask for more information and express uncertainty about someone's plans. See you next time!")
-CLOSING = ('andrea', 'Bonne soirée!')
+OUTRO = ('Back at the agency, the partners debate what they can do about the offer. At home, Mathias tells Catherine that '
+ 'joining StarMédia could make him enemies. You heard how to ask for more information and express uncertainty '
+ "about someone's plans. See you next time!")
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [('mathias', 'Désolé.', 'Sorry.', [(211, 'Désolé')], ''),
  ('mathias',
   "Vous savez ce que c'est, les actrices.",
@@ -67,8 +67,7 @@ STORY = [('mathias', 'Désolé.', 'Sorry.', [(211, 'Désolé')], ''),
   "Jonas Hirsch, de l'agence Sterne à Berlin.",
   'Jonas Hirsch, from the Sterne agency in Berlin.',
   [(218, "Jonas Hirsch, de l'agence Sterne à Berlin")],
-  ''),
- ('helene', 'Vous le connaissez?', 'Do you know him?', [(219, 'Vous le connaissez')], '')]
+  '')]
 WALK = [(0,
   None,
   "'Sorry.' Mathias uses the masculine form because he is the person apologising. The feminine form adds a "
@@ -124,8 +123,4 @@ WALK = [(0,
  (13,
   None,
   "'But I don't know if that's in his plans.' Here 'if' means 'whether', introducing something uncertain. Hélène "
-  'has made a request, but cannot promise the outcome.'),
- (14,
-  None,
-  "'There must be a solution!' The short expression for 'there is' follows 'must', so its action word changes to "
-  "the plain form 'to have'. The sense is 'there must be'.")]
+  'has made a request, but cannot promise the outcome.')]
