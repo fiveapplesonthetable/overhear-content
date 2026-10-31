@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Cecile! Yes, great. Call me back. Bye.' The command 'call me back' attaches the word for 'me' after the action with a hyphen. The final word is an informal goodbye. Gabriel has finished a call with his client.
+- Gabriel greets Cecile and gives an enthusiastic yes, saying that things sound great. He asks her to call back and finishes with a casual goodbye. The request to call back is a familiar command. A hyphen joins the command to a short object word identifying the person asking for the return call.
 - 'The tax audit.' Literally 'the fiscal control'. The describing word follows the thing being checked: the agency's tax affairs.
 - 'That letter for Mr Jarron?' The first word means 'this' or 'that' in a feminine form, because the word for letter is feminine.
-- 'Yes, I sent it.' The small word for 'it' goes before the helper 'have' and loses its vowel. It refers to the letter, so the written past form ends with an extra feminine e.
+- 'Yes, I sent it.' The object word refers back to the letter and comes before the helping word. It loses its vowel before the next word. Because the letter is feminine, the completed action has an additional feminine ending in writing.
 - 'I took the letter.' The completed action uses 'have' and the past form of 'take'. Gabriel tries to remember the steps he followed.
-- 'I put it in an envelope.' Again the small object means the letter. Its feminine gender explains the extra e on the written form of 'put'.
+- 'I put it in an envelope.' The object word again refers to the letter. Its feminine gender gives the completed action an extra ending in writing.
 - 'Oh no!' This short reaction replaces a swearword in the episode. Gabriel suddenly realises that putting the letter in an envelope was not the same as posting it.
 - 'I'm sorry.' This written apology has a masculine ending because Gabriel is speaking. An apology by a woman would add a silent e.
 - 'What's the point of paying an assistant?' Literally 'to what does it serve to pay an assistant'. Gabriel tries to shift the blame for his own mistake.
-- 'No, Gabriel, you can't always fix everything!' The short word for 'we' or 'one' refers to people in general here. Mathias rejects Gabriel's easy reassurance.
+- 'No, Gabriel, you can't always fix everything!' The short word before the action can refer to a group including the speaker, or to people in general. Here Mathias is talking about people in general as he rejects Gabriel's easy reassurance.
 - 'We had a call this morning.' The completed past of 'have' pairs a present helper with the short past form. The last two words identify this morning.
 - 'The file is in another department.' The word for 'another' follows an indefinite article. Their tax case has moved away from the person who could help them.
 - 'Jarron was our only ally.' The past form of 'be' describes how things stood. The word for 'only' comes before the person described: their ally.
