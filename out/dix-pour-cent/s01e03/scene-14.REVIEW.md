@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I really have the feeling I know you.' In French you say 'the impression of knowing you', using the verb for knowing a person. Andréa stares at Colette, sure she has seen her face somewhere.
 - 'No, I don't think so.' Literally 'I do not believe'. Colette's answer is cool and polite, using the two-part negative around the action word.
 - 'Maybe it was in another life.' The verb at the front is the past form for how things were, and the hyphenated word after it means 'maybe'.
-- 'Do you have everything you need?' Literally 'all that which it you is-needed'. A polite, standard phrase when showing a visitor to a room.
+- 'Do you have everything you need?' The French phrase uses an impersonal verb for what is necessary, with a short pronoun identifying the person who needs it. A polite, standard phrase when showing a visitor to a room.
 - 'Yes, thank you.' Short and polite. Colette doesn't waste a syllable.
 - 'My office is right there.' The word for 'my' is masculine here to match 'office'.
 - 'See you later.' You use this when you will see the person again later the same day.
