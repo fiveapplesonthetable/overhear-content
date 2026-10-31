@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Oh no! I'm late.' French uses a little expression meaning 'in lateness' where English says 'late'. Keep those last two words together when listening.
 - 'You can ride, can't you?' The word for 'know' followed by an action can mean knowing how to do it. The little 'no' at the end asks for reassurance.
 - 'Yes, yes. I just need a little lesson.' French says 'have need of' where English simply says 'need'. The short word meaning 'just' makes the request sound smaller.
-- 'Can I trust you?' The French expression literally says 'make trust'. The little word meaning 'you' comes before that expression, although English puts 'you' last.
+- 'Can I trust you?' The French expression literally says 'make trust'. Here, the person being trusted comes before the action. English puts that person after it.
 - 'I've almost got it.' The expression at the end means being ready or having something worked out. Saying 'almost' leaves a little room for doubt.
 - 'I'll call you back.' French uses the present here for an immediate promise. The person being called is named before the action.
 - 'When will you be here?' This time the form of 'be' points to the future. Again the question word waits until the end.
