@@ -23,7 +23,13 @@
         "kukhnya",
         "domashniy-arest",
         "dix-pour-cent",
-        "paquita-salas"
+        "paquita-salas",
+        "die-discounter",
+        "boris",
+        "the-producers",
+        "the-naked-director",
+        "behind-the-scenes",
+        "al-maktab"
       ]
     },
     "season": {
@@ -100,6 +106,38 @@
               "next"
             ]
           }
+        }
+      }
+    },
+    "coverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "start",
+        "end",
+        "sourceSha256",
+        "reason"
+      ],
+      "properties": {
+        "type": {
+          "const": "excerpt"
+        },
+        "start": {
+          "type": "string",
+          "pattern": "^\\d\\d:\\d\\d:\\d\\d,\\d\\d\\d$"
+        },
+        "end": {
+          "type": "string",
+          "pattern": "^\\d\\d:\\d\\d:\\d\\d,\\d\\d\\d$"
+        },
+        "sourceSha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 20
         }
       }
     }
