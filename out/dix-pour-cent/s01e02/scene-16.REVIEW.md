@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Arlette | Vous êtes toute ma famille. Vous tous et mes acteurs. | You are my whole family. All of you, and my actors. | #487 00:27:08: Vous êtes toute ma famille<br>#488 00:27:09: Vous tous et mes acteurs | verbatim |
 | 15 | Andréa | Merci, Arlette. | Thank you, Arlette. | new | new |
 | 16 | Arlette | Tu veux faire pipi, Jean Gabin? | Do you need to pee, Jean Gabin? | #489 00:27:16: Tu veux faire pipi ?<br>#489 00:27:16: Jean Gabin | verbatim |
-| 17 | Damien | Attendez, il fait pipi! | Wait, he's peeing! | #490 00:27:19: Attendez, il fait pipi ! | verbatim |
+| 17 | Arlette | Attends, il fait pipi! | Wait, he's peeing! | #490 00:27:19: Attendez, il fait pipi ! | adapted: Original French audio has familiar singular Attends. Video shows Arlette holding Jean Gabin and calling to Andréa as they walk; not a formal waiter-to-customer command. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -47,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All of you, and my actors.' All has a plural ending when it stands for the people she means. Compare whole family in the previous line: that has a feminine singular ending because family is one word for the group.
 - 'Thank you, Arlette.' A name after thanks directly addresses the person being thanked. There is no extra word for to; Andréa's gratitude answers Arlette's offer of support.
 - 'Do you need to pee, Jean Gabin?' Literally 'do you want to do pee-pee?', the way you'd talk to a child, or a dog.
-- 'Wait, he's peeing!' Too late. The waiter's command uses the formal 'you', the polite form a waiter uses with customers. So the tender moment ends with a puddle on the terrace. Now the whole breakfast once more, in French.
+- 'Wait, he's peeing!' Arlette calls to Andréa while carrying the dog. Wait is a command to one familiar person. The ordinary phrase do pee describes what Jean Gabin is doing, and turns the serious conversation back to his needs. Now the whole breakfast once more, in French.
