@@ -4,28 +4,28 @@ Title: Comme un aimant  (Like a Magnet)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E05
-
+The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the bilingual working subtitles, whose French track is backtranslated; source video and separate original-audio checks verify roles, plot and register.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | JoeyStarr | Dis-le si je t'ennuie. | Say it if I'm boring you. | #116 00:07:41: Dis-le si je t'ennuie | verbatim |
-| 2 | Andréa | Non, excuse-moi! Regarde, j'écoute. Vas-y, je suis toute à toi. | No, excuse me! Look, I'm listening. Go ahead, I'm all yours. | #117 00:07:44: Non, excuse-moi<br>#118 00:07:47: regarde<br>#119 00:07:48: J'écoute. Vas-y, je suis tout à toi | verbatim |
-| 3 | JoeyStarr | Je n'en ai plus envie maintenant. | I don't feel like it anymore now. | #120 00:07:51: ai plus envie maintenant | verbatim |
-| 4 | Andréa | Allez, j'écoute! Et alors? | Come on, I'm listening! And then? | #120 00:07:51: Allez, j'écoute<br>#121 00:07:55: Et alors | verbatim |
-| 5 | JoeyStarr | Je passe pour un idiot! Tu sais ce qu'elle fait? | I look like an idiot! Do you know what she is doing? | #122 00:07:56: Je finis par passer pour un<br>#123 00:07:58: Tu sais ce qu'elle a fait | verbatim |
-| 6 | Andréa | Non. | No. | #123 00:07:58: Non | verbatim |
-| 7 | JoeyStarr | Elle n'avait pas son script avec elle. | She didn't have her script with her. | #124 00:08:00: Elle n'avait pas son script avec elle | verbatim |
-| 8 | JoeyStarr | Alors moi, sympa, je lui donne le mien. | So me, being nice, I give her mine. | #125 00:08:02: Alors moi, sympa, je lui donne le mien | verbatim |
-| 9 | JoeyStarr | Elle le prend comme un torchon sale! C'est agaçant. | She takes it like a dirty rag! It's annoying. | #126 00:08:05: Elle le prend<br>#126 00:08:05: comme un torchon sale<br>#127 00:08:09: C'est agaçant | verbatim |
-| 10 | Andréa | Non, ça va. | No, it's fine. | #127 00:08:09: Non, ça va | verbatim |
-| 11 | JoeyStarr | Réponds! | Answer it! | #128 00:08:12: Réponds | verbatim |
-| 12 | Andréa | D'accord. J'ai rencontré cette fille. | Okay. I met this girl. | #129 00:08:13: D'accord<br>#130 00:08:19: j'ai rencontré cette | verbatim |
-| 13 | Andréa | Ce n'est pas mon genre. Elle est blonde, elle est normale! | She's not my type. She's blonde, she's normal! | #131 00:08:24: pas mon genre<br>#132 00:08:26: elle est blonde<br>#132 00:08:26: elle est normale | verbatim |
-| 14 | Andréa | Mais je suis attirée par elle comme un aimant. | But I'm drawn to her like a magnet. | #133 00:08:29: Mais je suis attiré par elle comme un aimant | verbatim |
-| 15 | Andréa | Tu vois? C'est très puissant. | You see? It's very powerful. | #134 00:08:32: Tu vois<br>#134 00:08:32: puissant | verbatim |
-| 16 | JoeyStarr | Mon inconscient et celui de Julie Gayet se heurtent de partout. | My subconscious and Julie Gayet's clash everywhere. | #138 00:08:41: Mon inconscient et celui de Julie Gayet se heurtent de partout | verbatim |
+| 1 | JoeyStarr | Dis-le si je t'ennuie. | Say it if I'm boring you. | #116 00:07:41: Dis-le si je t'ennuie | adapted: Learner adaptation, not a verbatim French transcript. |
+| 2 | Andréa | Non, excuse-moi! Regarde, j'écoute. Vas-y, je suis toute à toi. | No, excuse me! Look, I'm listening. Go ahead, I'm all yours. | #117 00:07:44: Non, excuse-moi<br>#118 00:07:47: regarde<br>#119 00:07:48: J'écoute. Vas-y, je suis tout à toi | adapted: Learner adaptation, not a verbatim French transcript. |
+| 3 | JoeyStarr | Je n'en ai plus envie maintenant. | I don't feel like it anymore now. | #120 00:07:51: ai plus envie maintenant | adapted: Learner adaptation, not a verbatim French transcript. |
+| 4 | Andréa | Allez, j'écoute! Et alors? | Come on, I'm listening! And then? | #120 00:07:51: Allez, j'écoute<br>#121 00:07:55: Et alors | adapted: Learner adaptation, not a verbatim French transcript. |
+| 5 | JoeyStarr | Je passe pour un idiot! Tu sais ce qu'elle fait? | I look like an idiot! Do you know what she is doing? | #122 00:07:56: Je finis par passer pour un<br>#123 00:07:58: Tu sais ce qu'elle a fait | adapted: Learner adaptation, not a verbatim French transcript. |
+| 6 | Andréa | Non. | No. | #123 00:07:58: Non | adapted: Learner adaptation, not a verbatim French transcript. |
+| 7 | JoeyStarr | Elle n'avait pas son script avec elle. | She didn't have her script with her. | #124 00:08:00: Elle n'avait pas son script avec elle | adapted: Learner adaptation, not a verbatim French transcript. |
+| 8 | JoeyStarr | Alors moi, sympa, je lui donne le mien. | So me, being nice, I give her mine. | #125 00:08:02: Alors moi, sympa, je lui donne le mien | adapted: Learner adaptation, not a verbatim French transcript. |
+| 9 | JoeyStarr | Elle le prend comme un torchon sale! C'est agaçant. | She takes it like a dirty rag! It's annoying. | #126 00:08:05: Elle le prend<br>#126 00:08:05: comme un torchon sale<br>#127 00:08:09: C'est agaçant | adapted: Learner adaptation, not a verbatim French transcript. |
+| 10 | Andréa | Non, ça va. | No, it's fine. | #127 00:08:09: Non, ça va | adapted: Learner adaptation, not a verbatim French transcript. |
+| 11 | JoeyStarr | Réponds! | Answer it! | #128 00:08:12: Réponds | adapted: Learner adaptation, not a verbatim French transcript. |
+| 12 | Andréa | D'accord. J'ai rencontré cette fille. | Okay. I met this girl. | #129 00:08:13: D'accord<br>#130 00:08:19: j'ai rencontré cette | adapted: Learner adaptation, not a verbatim French transcript. |
+| 13 | Andréa | Ce n'est pas mon genre. Elle est blonde, elle est normale! | She's not my type. She's blonde, she's normal! | #131 00:08:24: pas mon genre<br>#132 00:08:26: elle est blonde<br>#132 00:08:26: elle est normale | adapted: Learner adaptation, not a verbatim French transcript. |
+| 14 | Andréa | Mais je suis attirée par elle comme un aimant. | But I'm drawn to her like a magnet. | #133 00:08:29: Mais je suis attiré par elle comme un aimant | adapted: Learner adaptation, not a verbatim French transcript. |
+| 15 | Andréa | Tu vois? C'est très puissant. | You see? It's very powerful. | #134 00:08:32: Tu vois<br>#134 00:08:32: puissant | adapted: Learner adaptation, not a verbatim French transcript. |
+| 16 | JoeyStarr | Mon inconscient et celui de Julie Gayet se heurtent de partout. | My subconscious and Julie Gayet's clash everywhere. | #138 00:08:41: Mon inconscient et celui de Julie Gayet se heurtent de partout | adapted: Learner adaptation, not a verbatim French transcript. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

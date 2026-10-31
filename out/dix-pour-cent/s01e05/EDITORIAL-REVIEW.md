@@ -78,3 +78,20 @@ Used the built-in imagegen edit tool for exactly the eight necessary affected il
 - 13: Noémie presents the proposed notice to Mathias; removed the invented Hervé/Camille staging.
 
 These eight illustrations are approved for their corrected lesson scripts. Full prompts and built-in-tool provenance are recorded in `ART-REVIEW.json`. The independent source-audio/register check continues and is a separate publication gate.
+
+## Original French audio and register correction
+
+Unprompted cached local CPU ASR of the private original French audio completed seven bounded diagnostic clips: opening, office/armchair, agent conversations, morning/office arrival, borrowed-phone meeting, encouragement, and hotel visit. The remaining source queue was handed to central GPU QA; this worktree runs no GPU process.
+
+The working dual subtitles' French track is backtranslated. All reviewed scene sheets now explicitly identify the dialogue as learner adaptation and label source-linked lines as adapted, with no “verbatim French” claim. Lesson 01's spoken introduction also identifies it as an adaptation. Original-audio evidence was used to repair register, rather than preserving the synthetic subtitles' forms:
+
+- 01: familiar TU, “Tu es”, “Va”, “tes”, “Articule”, “s'il te plaît” and “Appelle”; revised teaching and word forms.
+- 06: Joey addresses Andrea with TU, “Tu as entendu”.
+- 08: Gabriel/Sofia retain professional VOUS, including “content pour vous”.
+- 10: Mathias continues VOUS with Noémie, including the reminder.
+- 12: Mathias addresses Arlette with VOUS; Arlette replies with TU. The audio names Jean Gabin's armchair. The ending is “couic”, a sound signalling the character's abrupt end, rather than a film-set “Coupez”. Revised title, native lines, explanations and notes accordingly.
+- 13: Mathias uses VOUS with Noémie in his question and instructions.
+
+The word “couic” and its /kwik/ pronunciation were cross-checked against [Le Robert](https://dictionnaire.lerobert.com/definition/couic) and [Larousse's French–English entry](https://www.larousse.fr/dictionnaires/francais-anglais/couic/19621); the scene-specific implication of being finished off comes from the source context. No generated etymology is supplied.
+
+Validation: 0 errors, 78 episode-wide warnings. Later scenes 18–30 remain unapproved and are not included in this provenance/register approval. Scene 12's short armchair speaker is still flagged for independent central confirmation despite the clearer actual wording.
