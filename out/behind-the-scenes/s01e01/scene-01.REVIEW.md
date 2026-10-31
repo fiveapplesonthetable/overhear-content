@@ -38,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So we wouldn't waste his time.' The opening word means to avoid an unwanted result. His time comes after waste, so the sentence explains why she waited instead of entering alone.
 - 'Just look at her. How come she isn't the slightest bit mean?' The words for a little combine with all and not to mean not the slightest bit. Xiaogu answers the earlier jab with an exaggerated claim that her friend is not mean at all; this is an ironic tease.
 - 'Let's go.' The word for go is followed by a small ending that turns it into a suggestion. It is a handy way to invite someone to leave with you. They go inside to meet the professor.
-- 'Xiaogu, Qin Xiao.' The professor uses the shortened given name for one student and the full name for the other. Names keep their normal spoken form when used to call someone.
+- The professor calls both students by name. He uses a shortened given name for one student and the full name for the other. Names keep their normal spoken form when used to call someone.
 - 'Come on in.' Repeating come makes the invitation welcoming and immediate. Chinese can repeat an ordinary action word like this without adding a separate word for please.
 - 'Both of your initial thesis drafts have been approved.' The word for you has a plural marker, and two makes the number explicit. Both tells us that the approval applies to each student's draft.
 - 'Next, make good use of the time.' The expression for make good use literally includes grasp tightly. Time is what they should grasp, meaning they should get on with the work promptly.
