@@ -22,12 +22,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Hippolyte | Camille, quel est le problème? | Camille, what is the problem? | #457 00:26:10: Camille<br>#459 00:26:15: quel est le problème | verbatim |
 | 11 | Camille | Ce n'est pas toi, je te jure. | It's not you, I swear to you. | #458 00:26:12: je te jure | verbatim |
 | 12 | Hippolyte | Comment tu le sais? Je sens quelque chose de spécial entre nous. | How do you know? I feel something special between us. | #460 00:26:17: Comment tu le sais<br>#461 00:26:20: Je sens quelque chose de spécial entre nous | verbatim |
-| 13 | Catherine | Tu restes dîner? | Are you staying for dinner? | #467 00:26:39: Tu restes dîner | verbatim |
+| 13 | Catherine | Vous restez dîner? | Are you staying for dinner? | #467 00:26:39: Tu restes dîner | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 14 | Camille | Merci, mais je dois rentrer. | Thank you, but I have to go home. | #468 00:26:41: Merci, mais | verbatim |
 | 15 | Hippolyte | Excellente idée! | Excellent idea! | #468 00:26:41: Excellente idée | verbatim |
-| 16 | Catherine | Ton père est à une projection. Ne me laisse pas seule! | Your dad is at a screening. Don't leave me alone! | #469 00:26:43: Ton père est à une projection. Ne me laisse pas seule | adapted: Catherine addresses her son Hippolyte, not Camille. |
-| 17 | Hippolyte | Bien sûr que non! | Of course not! | #470 00:26:46: Bien sûr que non | verbatim |
-| 18 | Catherine | Tu aimes le poulet, Camille? | Do you like chicken, Camille? | #472 00:26:49: Tu aimes le poulet, Camille | verbatim |
+| 16 | Catherine | Ton père a une projection. Ne me laisse pas seule! | Your dad has a screening. Don't leave me alone! | #469 00:26:43: Ton père est à une projection. Ne me laisse pas seule | adapted: Original audio says he has a screening, not that he is currently at one. |
+| 17 | Catherine | Vous aimez le poulet, Camille? | Do you like chicken, Camille? | #472 00:26:49: Tu aimes le poulet, Camille | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -46,8 +45,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you staying for dinner?' Literally 'you stay to dine?' The action 'to dine' follows 'stay' directly. Catherine is inviting Camille to remain for the meal.
 - 'Thank you, but I have to go home.' After the polite thanks, 'but' introduces Camille's objection. The final action means returning home, not just going out.
 - 'Excellent idea!' Hippolyte welcomes his mother's invitation. The describing word has a feminine ending to match 'idea'.
-- 'Your dad is at a screening. Don't leave me alone!' Catherine is speaking to her son, Hippolyte, about his father. Her second sentence is a casual negative command with 'me' before 'leave'.
-- 'Of course not!' The phrase meaning 'of course' strengthens a negative answer here. Earlier you heard it strengthen a positive answer; it can work with either.
+- 'Your dad has a screening. Don't leave me alone!' Catherine addresses her son, Hippolyte, about his father's plans. Her negative command puts the object meaning me before the action meaning leave.
 - 'Do you like chicken, Camille?' French uses the article meaning 'the' with a food in general. English usually leaves it out in this kind of question.
-
-Editorial review: the father-at-screening line belongs to Catherine addressing Hippolyte; it must not be spoken by Hippolyte to Camille. The ambiguous short plea in cue 471 is omitted. Grand-mère plural variants checked against [Académie française](https://www.dictionnaire-academie.fr/article/A9G1223) and [Larousse](https://www.larousse.fr/dictionnaires/college/grand-m%C3%A8re/18626).

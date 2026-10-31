@@ -15,8 +15,9 @@ INTRO = ("Meanwhile, Mathias takes Samuel's widow, Hélène Kerr, to a restauran
  "First the French; don't try to catch everything.")
 OPENER = "Let's go back through the meal. Hélène starts by checking the numbers, very calmly."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ("That's the end of this scene. When you watch it, listen for the polite question with the verb first, the "
- 'one that leaves Mathias speechless. See you next time!')
+OUTRO = ('Hélène turns a discussion of shares into a question about marriage. Listen for the contrast between the '
+ 'financial offer and her personal reason for refusing it. The ordinary words for your wife give the '
+ 'conversation a sudden new direction. See you next time!')
 CLOSING = ('helene', 'Bonsoir, Mathias.')
 STORY = [('helene',
   'Donc je garde dix-sept pour cent des parts?',
@@ -60,10 +61,10 @@ STORY = [('helene',
   [(643, 'un an')],
   'Condenses the source plan to increase profits and buy the remaining shares within a year.'),
  ('helene',
-  'Avez-vous déjà trompé votre femme, Mathias?',
+  'Vous avez déjà trompé votre femme, Mathias?',
   'Have you ever cheated on your wife, Mathias?',
   [(644, 'Avez-vous déjà trompé votre femme, Mathias')],
-  ''),
+  'Original French audio keeps normal subject–verb order. Dual subtitles had invented Avez-vous inversion.'),
  ('mathias',
   'Pardonnez-moi, mais je ne parle pas de ça.',
   "Forgive me, but I don't talk about that.",
@@ -133,9 +134,9 @@ WALK = [(0,
   "just like 'we fly out tomorrow' in English."),
  (8,
   None,
-  "'Have you ever cheated on your wife, Mathias?' The past helper and you swap places and join with a hyphen "
-  'in this careful question. The word often translated already means ever here: Hélène asks whether this has '
-  'happened at any time.'),
+  "'Have you ever cheated on your wife, Mathias?' French keeps you before have in the original spoken "
+  'question. The question comes through in the voice, without reversing those words. The word often '
+  'translated already means ever here: she is asking about his experience.'),
  (9,
   None,
   "'Forgive me, but I don't talk about that.' Mathias starts with a polite command, 'forgive me', then a "

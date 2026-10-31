@@ -19,11 +19,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Camille | Je ne t'ai jamais vu. | I've never seen you. | #253 00:14:35: Je ne t'ai jamais vu | verbatim |
 | 8 | Hippolyte | Je suis acteur. Hippolyte Rivière. | I'm an actor. Hippolyte Rivière. | #253 00:14:35: Je suis acteur<br>#254 00:14:38: Hippolyte Rivière | verbatim |
 | 9 | Hippolyte | Tu ne m'as pas vu dans les fichiers d'Andréa? | Haven't you seen me in Andréa's files? | #254 00:14:38: Tu ne m'as pas vu dans les fichiers d'Andréa | verbatim |
-| 10 | Camille | Si. Tu as rendez-vous? | Yes, I have. Do you have an appointment? | #255 00:14:42: Si. Tu as rendez-vous | verbatim |
+| 10 | Camille | Si. Vous avez rendez-vous? | Yes, I have. Do you have an appointment? | #255 00:14:42: Si. Tu as rendez-vous | adapted: Original French audio switches to vous at the appointment question; dual subtitles incorrectly had tu. |
 | 11 | Hippolyte | Non, mais je suis content d'être venu. | No, but I'm glad I came. | #256 00:14:45: Non, mais je suis content d'être venu | verbatim |
 | 12 | Camille | Qu'est-ce que je peux faire pour vous? | What can I do for you? | #257 00:14:46: Qu'est-ce que je peux faire pour vous | verbatim |
-| 13 | Hippolyte | Commence par te détendre. | Start by relaxing. | #258 00:14:48: Commence par te détendre | verbatim |
-| 14 | Hippolyte | Tu viens prendre un café en terrasse? | Will you come for a coffee on the terrace? | #259 00:14:51: prendre un café en terrasse | verbatim |
+| 13 | Hippolyte | Commence par me tutoyer. | Start by using the familiar you with me. | #258 00:14:48: Commence par te détendre | adapted: Restores the original request to resume familiar address, rather than the backtranslated invented request to relax. Condenses Déjà commencer par me retutoyer. |
+| 14 | Hippolyte | Tu viens prendre un café sur la terrasse? | Will you come for a coffee on the terrace? | #259 00:14:51: prendre un café en terrasse | adapted: Original French audio says sur la terrasse, the agency terrace, not en terrasse at an outdoor café. |
 | 15 | Camille | Je suis occupée. Il faut un rendez-vous. | I'm busy. You need an appointment. | #260 00:14:53: Je suis occupée. Il faut un rendez-vous | verbatim |
 | 16 | Hippolyte | Eh bien... merci quand même. | Well... thanks anyway. | #261 00:14:58: Eh bien... merci quand même | verbatim |
 | 17 | Hippolyte | Bonne journée. | Have a nice day. | #262 00:15:01: Bonne journée | verbatim |
@@ -40,11 +40,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm an actor. Hippolyte Rivière.' Notice: no word for 'an'. For a job, French just says 'I am actor'.
 - 'Haven't you seen me in Andréa's files?' Hippolyte asks a negative question. And now listen to how Camille answers it.
 - 'Yes, I have.' This is a special yes. When someone asks a negative question and you want to say 'yes, actually', you don't use the normal word for yes, you use this one. It means 'oh yes I did'.
-- 'Do you have an appointment?' French says have appointment, without a word for an in this fixed wording. Camille is returning to her duties as an assistant, even though she still uses the familiar you.
+- 'Do you have an appointment?' French says have appointment without a word for an. Camille now switches to the polite you as she returns to her professional duties, after recognising him as a client.
 - 'No, but I'm glad I came.' The word for 'glad' is in the masculine form, because he is a man. Camille stays professional.
-- 'What can I do for you?' Listen: now she switches to the polite 'you'. It's her way of keeping him at arm's length. He doesn't take the hint.
-- 'Start by relaxing.' Hippolyte gives a casual command: start, then 'by relaxing yourself'.
-- 'Will you come for a coffee on the terrace?' Take a coffee means have or drink a coffee here. The ending places it at the outdoor café tables; he is inviting her to leave the office with him.
+- 'What can I do for you?' Camille continues addressing him politely. For introduces the person she offers to help. The shift from their earlier familiar chat makes the offer sound like an assistant speaking to a client.
+- 'Start by using the familiar you with me.' The word for addressing someone familiarly describes the change Hippolyte wants. He asks Camille to return to the way she spoke before discovering he was an actor.
+- 'Will you come for a coffee on the terrace?' Take a coffee means have or drink a coffee. On links the invitation to a place, and the terrace includes the feminine word for the. He is suggesting a break on the agency's terrace.
 - 'I'm busy.' Here the word for 'busy' has a feminine ending, because Camille is a woman.
 - 'You need an appointment.' This phrase means 'it is necessary', 'one needs'.
 - 'Well... thanks anyway.' The last two words mean 'all the same', a polite way to accept a no.

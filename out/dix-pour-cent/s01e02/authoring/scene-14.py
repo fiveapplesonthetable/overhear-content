@@ -75,10 +75,11 @@ STORY = [('andrea',
   [(440, 'des films nuls')],
   'Shortens the angry argument to a clean refusal of bad films.'),
  ('mathias',
-  "Tu préférerais qu'ASK disparaisse?",
+  "Vous préférez qu'ASK disparaisse?",
   'Would you rather ASK disappeared?',
   [(444, "Tu préférerais qu'ASK disparaisse ?")],
-  '')]
+  'Original French audio uses plural vous préférez, addressing the partners as a group, not familiar '
+  'conditional tu préférerais.')]
 WALK = [(0,
   'Non, Gabor, tu ne vas pas mourir.',
   "'No, Gabor, you're not going to die.' The action word 'to go' plus another action word is the near "
@@ -145,6 +146,6 @@ WALK = [(0,
   'Andréa would rather work with artists she believes in.'),
  (15,
   None,
-  "'Would you rather ASK disappeared?' A long sentence, but you can hear the key words: 'you would prefer' "
-  "and the name of the agency. In the end it's Arlette who breaks the tension, joking that being sold would "
-  "be a bit like having Mathias as their boss. Let's hear the whole meeting again, all in French.")]
+  "'Would you rather ASK disappeared?' Mathias addresses the partners as a group with the plural you. The "
+  'French wording literally asks whether they prefer the agency to disappear. English would rather makes the '
+  "same choice sound natural. Let's hear the whole meeting again.")]

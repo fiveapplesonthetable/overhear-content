@@ -7,48 +7,115 @@ SCENE = 32
 TITLE = 'Le héros du jour  (The Hero of the Day)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'arlette': 'Arlette', 'mathias': 'Mathias'}
+LABELS = {'arlette': 'Arlette', 'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = 'In the final scene of the fourth episode, the whole agency gathers with glasses of sparkling wine to celebrate Mathias Barneville. Everyone believes he pretended to join their rival StarMédia just to scare off the German buyer and save ASK—and now that he is a hero here, Mathias can hardly leave! Only Andréa still has a quiet doubt. Listen to the French first, without worrying about catching every word.'
-OPENER = "Let's go through it line by line. The corks pop and everyone raises a glass to Mathias."
+INTRO = ('The agency gathers to celebrate Mathias. His colleagues believe he pretended to leave in order to save ASK from '
+ 'the sale. Camille quietly asks her father whether he really intended to go, while Arlette keeps the celebration '
+ 'moving. First, listen in French.')
+OPENER = "Let's go through the exchange. Arlette even asks her dog Jean Gabin to apologise for his earlier bite."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'That wraps up the fourth episode of Call My Agent: Audrey Fleurot has a new comedy film to pay off her taxes, Sofia has her very first screen role, Colette knows the truth about the Hotel Saint-Georges, and Mathias is staying at ASK as an accidental hero. See you next time!'
+OUTRO = ('That closes episode four. Audrey has a promising new film opportunity, Sofia has her first screen role, and the '
+ 'sale of ASK has fallen through. Mathias stays with colleagues who now see him as their accidental hero. See you '
+ 'next time!')
 CLOSING = ('arlette', 'À demain!')
-STORY = [
-    ('arlette', 'Champagne! Tu as sauvé notre agence, bravo Mathias!', 'Champagne! You saved our agency, well done Mathias!', [(838, 'Champagne'), (839, 'Faire croire à tout le monde que tu allais chez nos rivaux'), (840, "pour sauver l'agence")], ''),
-    ('andrea', 'Vivre dangereusement! Respect, monsieur Barneville!', 'Living dangerously! Respect, Mr Barneville!', [(840, 'Vivre dangereusement'), (841, 'Respect'), (841, 'Barneville')], ''),
-    ('arlette', "Le héros du jour! Mathias, vous entrerez dans l'histoire.", "The hero of the day! Mathias, you'll go down in history.", [(842, 'Le héros du jour'), (844, "Mathias, vous entrerez dans l'histoire")], ''),
-    ('andrea', 'Désolée de vous avoir insulté. Dîner demain?', 'Sorry for insulting you. Dinner tomorrow?', [(845, 'de vous avoir insulté'), (846, 'Dîner demain')], ''),
-    ('arlette', 'Jean Gabin aussi. Dis pardon, Jean Gabin.', 'Jean Gabin too. Say sorry, Jean Gabin.', [(847, 'Jean Gabin aussi. Dis pardon, Jean Gabin')], ''),
-    ('mathias', 'Laisse tomber.', 'Forget it.', [(848, 'Laisse tomber')], ''),
-    ('andrea', 'Pourquoi vous ne nous avez rien dit?', "Why didn't you tell us anything?", [(849, 'Pourquoi vous ne nous avez rien dit')], ''),
-    ('mathias', 'Je ne voulais prendre aucun risque.', "I didn't want to take any risk.", [(850, 'Je ne voulais prendre aucun risque')], ''),
-    ('arlette', 'Samuel serait si fier de nous! Encore une goutte.', 'Samuel would be so proud of us! Another drop.', [(851, 'Samuel'), (852, 'Encore une goutte')], ''),
-    ('andrea', "Vous n'alliez jamais partir?", 'You were never going to leave?', [(853, "Vous n'alliez jamais partir")], ''),
-    ('mathias', 'Non! Vous en doutez?', 'No! Do you doubt it?', [(854, 'Non'), (854, 'Vous en doutez')], ''),
-    ('andrea', "Un peu. Mais c'est moi.", "A bit. But that's me.", [(855, "Un peu. Mais c'est moi")], ''),
-    ('mathias', 'Quel rabat-joie! On trinque?', 'Shall we clink glasses?', [(856, 'Quel rabat-joie'), (857, 'On trinque')], ''),
-    ('andrea', 'Oui! À ASK!', 'Yes! To ASK!', [(857, 'Oui'), (858, 'À ASK')], ''),
-    ('arlette', 'À ASK! Longue vie!', 'To ASK! Long life!', [(858, 'À ASK'), (859, 'Longue vie')], ''),
-    ('mathias', 'Il est bon, ce pétillant. Un peu jeune.', "It's good, this bubbly. A bit young.", [(860, 'Il est bon, ce pétillant'), (861, 'Un peu jeune')], ''),
-]
-WALK = [
-    (0, None, "'Champagne! You saved our agency, well done Mathias!' This two-action word phrase at the start literally means 'to make believe to everyone'."),
-    (1, None, "'Living dangerously! Respect, Mr Barneville!' Andréa teases him with his formal title."),
-    (2, None, "'The hero of the day! Mathias, you'll go down in history.' Literally 'you will enter into history', looking ahead to his place in history."),
-    (3, None, "'Sorry for insulting you. Dinner tomorrow?' Earlier, when they thought Mathias was betraying them, Andréa threatened to sue him."),
-    (4, None, "'Jean Gabin too. Say sorry, Jean Gabin.' Arlette tells her little dog—who bit Mathias's ankle earlier—to apologise too."),
-    (5, None, "'Forget it.' Literally 'let fall', the everyday French idiom for 'never mind' or 'drop it'. Mathias still doesn't want the dog near his leg!"),
-    (6, None, "'Why didn't you tell us anything?' Notice the word for 'nothing' placed between the helper word 'have' and 'told'."),
-    (7, None, "'I didn't want to take any risk.' With a straight face, Mathias plays the part of the secret mastermind."),
-    (8, None, "'Samuel would be so proud of us! Another drop.' Arlette holds out her glass for a little more wine."),
-    (9, None, "'You were never going to leave?' Quietly, Andréa looks Mathias in the eye. The negative wraps 'never' around 'were going'."),
-    (10, None, "'No! Do you doubt it?' Again the little word before 'doubt' means 'of it'."),
-    (11, None, "'A bit. But that's me.' Andréa knows Mathias too well to believe he is a saint, even if she can't prove it."),
-    (12, 'Quel rabat-joie!', "'What a killjoy!' Literally 'what a joy-folder', a colourful compound word for someone who spoils the mood."),
-    (12, 'On trinque?', "'Shall we clink glasses?' French has a single verb for clinking glasses together in a toast."),
-    (13, None, "'Yes! To ASK!' In a toast, you simply put the preposition 'to' before the name."),
-    (14, None, "'To ASK! Long life!' Notice how the adjective 'long' comes before the noun in this fixed wish."),
-    (15, None, "'It's good, this bubbly. A bit young.' Even at his own triumph, snobbish Mathias cannot resist judging the cheap sparkling wine."),
-]
+STORY = [('arlette',
+  'Jean Gabin aussi. Dis pardon, Jean Gabin.',
+  'Jean Gabin too. Say sorry, Jean Gabin.',
+  [(847, 'Jean Gabin aussi. Dis pardon, Jean Gabin')],
+  ''),
+ ('mathias',
+  'Pas de problème.',
+  'No problem.',
+  [(848, 'Laisse tomber')],
+  'Simplifies the original courteous acceptance of Arlette’s apology.'),
+ ('arlette', 'Brave garçon!', 'Good boy!', [(848, 'Brave garçon')], ''),
+ ('arlette',
+  'Une pensée pour Samuel!',
+  'A thought for Samuel!',
+  [(851, 'Samuel')],
+  'Shortens the actual commemorative toast to their late colleague.'),
+ ('camille',
+  "Tu n'allais jamais partir?",
+  'You were never going to leave?',
+  [(853, "Vous n'alliez jamais partir")],
+  'Actual original audio is Camille to her father, with casual address.'),
+ ('mathias',
+  'Non! Tu en doutes?',
+  'No! Do you doubt it?',
+  [(854, 'Non'), (854, 'Vous en doutez')],
+  'Actual original audio uses casual address to Camille.'),
+ ('camille', "Un peu. Mais c'est moi.", "A bit. But that's me.", [(855, "Un peu. Mais c'est moi")], ''),
+ ('arlette',
+  'Quel rabat-joie!',
+  'What a killjoy!',
+  [(856, 'Quel rabat-joie')],
+  'Softens the original crude teasing into the subtitle’s everyday equivalent.'),
+ ('mathias', 'À ASK!', 'To ASK!', [(858, 'À ASK')], ''),
+ ('camille',
+  'À ASK!',
+  'To ASK!',
+  [(858, 'À ASK')],
+  'Condenses the collective toast into the selected participants.'),
+ ('arlette',
+  'Longue vie!',
+  'Long life!',
+  [(859, 'Longue vie')],
+  'A collective wish condensed into the selected participants.'),
+ ('mathias',
+  'Il est bon, ce pétillant. Un peu vert.',
+  "It's good, this bubbly. A little unripe.",
+  [(860, 'Il est bon, ce pétillant'), (861, 'Un peu jeune')],
+  'Actual original French audio describes the wine as vert; the dual subtitle paraphrases young.')]
+WALK = [(0,
+  None,
+  "'Jean Gabin too. Say sorry, Jean Gabin.' French uses a direct command when Arlette tells her dog to apologise. "
+  'The word for saying something comes first, with no separate subject before it. You can reuse this pattern to '
+  'tell someone what to say.'),
+ (1,
+  None,
+  "'No problem.' French uses a shorter form of the article after a negative expression. Here that little word "
+  'stands between the negative and the word for problem. This short response accepts an apology without repeating '
+  'a full sentence.'),
+ (2,
+  None,
+  "'Good boy!' The describing word means good or well-behaved here. Arlette is praising her male dog, rather than "
+  'describing bravery in a dangerous situation.'),
+ (3,
+  None,
+  "'A thought for Samuel!' A brief toast can name a thought for someone who is absent. The word for thought is "
+  'feminine, so it begins with the feminine form of an indefinite article.'),
+ (4,
+  None,
+  "'You were never going to leave?' French combines a past form of going with the basic action of leaving. The "
+  'negative expression means never and questions his earlier intention. Camille uses the casual form of you when '
+  'speaking to her father.'),
+ (5,
+  None,
+  "'No! Do you doubt it?' French puts a short word before doubting to refer back to the claim. English puts the "
+  "equivalent object after the action in doubt it. The reply rejects Camille's suggestion, then asks whether she "
+  'believes him.'),
+ (6,
+  None,
+  "'A bit. But that's me.' The short expression at the start means a small amount. The independent form of me is "
+  'used when Camille describes this as part of her character.'),
+ (7,
+  None,
+  "'What a killjoy!' This compound describes someone who spoils a cheerful mood. The exclamation begins with a "
+  'masculine form matching the word for killjoy.'),
+ (8,
+  None,
+  "'To ASK!' French uses the same short preposition for a toast that can mean to in other situations. Place the "
+  'name of the person or organisation after it. Mathias uses this pattern to celebrate ASK.'),
+ (9,
+  None,
+  "'To ASK!' You can reuse this short phrase when joining someone else's toast. The preposition and the name are "
+  'enough, so Camille repeats the wish without adding a full sentence.'),
+ (10,
+  None,
+  "'Long life!' The description meaning long takes a feminine ending to match life. Together the two words form a "
+  'wish for a lasting future.'),
+ (11,
+  None,
+  "'It's good, this bubbly. A little unripe.' The word for sparkling wine is masculine here. The final "
+  'description literally means green; for a young wine it can suggest an unripe or sharp taste.')]

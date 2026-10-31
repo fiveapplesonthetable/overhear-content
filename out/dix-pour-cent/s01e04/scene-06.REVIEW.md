@@ -43,3 +43,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That doesn't matter at all!' Literally 'that has no importance'. The feminine form of 'no' matches the feminine word for importance. This is a stronger dismissal than simply saying it is not very important.
 
 Audio: Audrey and Mathias use polite address. Omitted the draft’s invented present-tense claim about the best video; the source instead promises to bring a selection later. Child-directed casual address remains.
+
+Art repair: built-in imagegen; reference art/style/fr-01-agence.webp for house style. Prompt: Audrey feeds her blonde daughter in her home kitchen while Mathias discusses the film. Rounded flat cartoon, canonical character hair/clothes, one dominant palette, no text/logos/actor likeness. Generated composition inspected; saved1024squareWebP.

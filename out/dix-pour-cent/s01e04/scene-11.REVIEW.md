@@ -24,7 +24,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Clémentine | Je te pardonne. | I forgive you. | #305 00:16:52: Je te pardonne | verbatim |
 | 13 | Andréa | Tu as besoin d'un nouveau médecin, tu es folle! | You need a new doctor, you're crazy! | #306 00:16:55: besoin d'un nouveau | verbatim |
 | 14 | Andréa | Les gens sont malades, non? | People are crazy, aren't they? | #307 00:17:01: Les gens sont malades | verbatim |
-| 15 | Andréa | Oui? Allô? | Yes? Hello? | #309 00:17:14: Oui | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,6 +41,3 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I forgive you.' The little object word for 'you' sits right in front of the verb. Having delivered her big forgiveness line, Clémentine stalks away.
 - 'You need a new doctor, you're crazy!' Literally 'you have need of a new doctor', and the adjective at the end is the feminine form of 'crazy'.
 - 'People are crazy, aren't they?' Literally 'people are sick, no?'. Andréa turns to Colette with an awkward smile, but Colette simply bids Ms Martel a polite goodbye and walks off.
-- 'Yes? Hello?' The second greeting is specifically for phone calls. A rising 'yes?' can also answer a ringing phone or ask the caller to continue.
-
-Primary-video check: private original E04 MP4id1619500213. Agency hall, not a pavement or shop. Clémentine and Andréa are the two speakers; Colette witnesses the exchange. Original French audio audit pending.

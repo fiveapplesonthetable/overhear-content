@@ -25,12 +25,13 @@ STORY = [('mathias',
   'Arlette, I want to talk to you about Jonathan Joubert.',
   [(218, 'Arlette'), (218, 'de Jonathan Joubert')],
   'Learner adaptation, not a verbatim French transcript.'),
- ('mathias',
+ ('arlette',
   "C'est le fauteuil de Jean Gabin.",
   "That's Jean Gabin's armchair.",
   [(219, "C'est son fauteuil")],
-  'Original French audio names Jean Gabin; working subtitles replace the name with his. Learner adaptation, '
-  'not a verbatim French transcript.'),
+  'Dense private4fps primary video at797–801s shows Arlette articulating this reply while Mathias has closed '
+  'lips; original French audio names Jean Gabin. A terrier occupies the chair in the source. Learner '
+  'adaptation, not a verbatim French transcript.'),
  ('arlette',
   'Marie-Sophie ne veut pas de tes fleurs.',
   "Marie-Sophie doesn't want your flowers.",
@@ -108,8 +109,8 @@ WALK = [(0,
   'register.'),
  (1,
   None,
-  "'That's Jean Gabin's armchair.' The connecting word of marks whose armchair it is. French places that "
-  'word before the full name, where English can attach a possessive ending.'),
+  "'That's Jean Gabin's armchair.' Arlette uses the dog's name to say whose armchair it is. The connecting "
+  'word of goes before the full name in French, where English can attach a possessive ending.'),
  (2,
   None,
   "'Marie-Sophie doesn't want your flowers.' Arlette uses the familiar form of your, although Mathias "

@@ -1,3 +1,4 @@
+SOURCE_NOTE = 'French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.'
 # Authoring module for dix-pour-cent-s01e01-scene-21.
 ID = 'dix-pour-cent-s01e01-scene-21'
 SHOW = 'dix-pour-cent'
@@ -10,11 +11,13 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
-INTRO = ('After Cecile leaves him, Gabriel turns to Andrea for advice. His first attempt to explain why she should '
- 'help only annoys her. Listen for the awkward question and the practical answer she eventually gives.')
-OPENER = "Let's walk through it. Gabriel comes into Andréa's office and admits, quite simply, that he is stuck."
+INTRO = ('Later, at a bar, Gabriel turns to Andrea for advice after Cecile leaves him. His first attempt to explain '
+ 'why Andrea should help only annoys her. Listen for the awkward question and the practical answer she '
+ 'eventually gives.')
+OPENER = "Let's follow the conversation at the bar. Gabriel needs advice before he can relax."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's all for this scene; Gabriel will try to follow the advice, and his assistant Hervé will soon drag him out for a drink to take his mind off things. You followed a real office argument in French, so be pleased with yourself. See you next time!"
+OUTRO = ("You have heard a request for help, an apology and a practical suggestion. Andrea's advice is to give "
+ 'Cecile some space; listen again for the short instructions. See you next time.')
 CLOSING = ('andrea', 'À demain, Gabriel!')
 STORY = [('gabriel',
   'Andréa, je ne sais pas quoi faire.',

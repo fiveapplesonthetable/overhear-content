@@ -4,7 +4,7 @@ Title: Je suis bien ici  (I'm Fine Here)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E01
-
+French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -23,8 +23,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Mathias | Parce que tu ne peux pas. C'est ma vie! | Because you can't. It's my life! | #456 00:25:22: Parce que tu ne peux pas<br>#456 00:25:22: c'est ma vie | verbatim |
 | 12 | Camille | Tu ne me donnes rien. | You give me nothing. | #457 00:25:26: Tu ne me donnes rien | verbatim |
 | 13 | Camille | Alors je me débrouille seule, comme toujours! | So I'll manage on my own, as always! | #457 00:25:26: alors je me débrouille seule, comme toujours | verbatim |
-| 14 | Noémie | Bonjour. En fait, vous et lui... | Hello. Actually, you and him... | #458 00:25:35: Bonjour<br>#459 00:25:44: En fait, vous<br>#460 00:25:46: vous et lui | adapted: Interrupted source clauses combined. |
-| 15 | Noémie | Mathias, vous savez, est marié. | Mathias, you know, is married. | #461 00:25:51: Mathias, vous savez<br>#462 00:25:53: est marié | verbatim |
+| 14 | Noémie | Bonjour. En fait, toi et lui... | Hello. Actually, you and him... | #458 00:25:35: Bonjour<br>#459 00:25:44: En fait, vous<br>#460 00:25:46: vous et lui | adapted: The familiar address is confirmed by original French audio. |
+| 15 | Noémie | Mathias, tu sais, est marié. | Mathias, you know, is married. | #461 00:25:51: Mathias, vous savez<br>#462 00:25:53: est marié | adapted: The familiar address is confirmed by original French audio. |
 | 16 | Noémie | Il est très, très marié. | He's very, very married. | #463 00:25:54: Il est très, très marié | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -43,6 +43,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's my life!' The possessive is feminine because 'life' is a feminine noun. Mathias's own gender does not choose its form.
 - 'You give me nothing.' Another negative wrap, this time with a different second word, the one that means 'nothing'. Camille fires back.
 - 'So I'll manage on my own, as always!' That verb in the middle is a very French one: to get by, to sort yourself out. The word for 'alone' is feminine here, because she is talking about herself. Then Mathias walks off.
-- 'Hello. Actually, you and him...' Noemie uses the polite 'you'. The final word is the form of 'him' used on its own, as opposed to a small object word before an action.
-- 'Mathias, you know, is married.' The familiar aside 'you know' uses a plural-looking verb ending because Noemie is addressing Camille politely.
+- 'Hello. Actually, you and him...' After 'and', French uses the separate form of 'you', just as it uses a separate form of 'him'. Noemie is hinting at a relationship she has misunderstood.
+- 'Mathias, you know, is married.' The little aside 'you know' directly addresses Camille. It has the familiar form and interrupts the statement about Mathias.
 - 'He's very, very married.' Repeating 'very' strengthens Noemie's warning. The description of Mathias has a masculine form; its feminine form would sound the same.

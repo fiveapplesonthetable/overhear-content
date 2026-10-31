@@ -39,10 +39,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I like Line Renaud, but she's not made for this.' Adding the word for 'well' after the action word for 'love' softens it to 'I like'. And the word for 'made' is feminine, because it describes Line.
 - 'Not in a Gabor film!' This is a shortened refusal: she leaves out the rest of I will not put her. The preposition in still links the actress with the production she supposedly does not suit.
 - 'I'm not going to humiliate myself.' The verb 'to go' plus another verb is the easy French future. Here it's negative, wrapped by the two little words for 'not'.
-- 'I know he'll say no.' This time it's the real future tense of the verb 'to say'.
+- 'I know he'll say no.' The ending on say places the answer in the future. Andréa treats the rejection as certain, which is why she refuses to ask Gabor.
 - 'It could save the film.' Could presents a possible result, not a certainty. Save means prevent the project from collapsing here, rather than rescue someone from physical danger.
 - 'It would be a different film.' The same 'would' ending, on the verb 'to be'. For Andréa, art comes first.
 - 'You can be such a snob, Andréa.' The French borrowed the English word for a snob. Gabriel, usually so gentle, is hurt.
 - 'It's pathetic!' Pathetic is a strong criticism here, rather than a sympathetic word for someone deserving pity. The same spelling works for masculine and feminine descriptions. Gabriel thinks Andréa is being snobbish.
 - 'I have convictions, that's all.' The last two words, 'that's all', are a handy way to close a discussion.
-- 'Who's Line Renaud?' Camille is in her early twenties, and she has no idea who this legend is. The question word comes last here, which is very common in spoken French. Here's the whole argument once more, in French.
+- 'Who's Line Renaud?' The opening literally says it's who, followed by the name Camille wants explained. Who asks about a person, unlike the earlier question what is that about the recording. Here's the whole argument once more.

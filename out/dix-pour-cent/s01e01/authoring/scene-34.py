@@ -88,11 +88,16 @@ STORY = [('gabriel',
   [(894, 'Je savais'), (897, 'grande actrice')],
   'Shortened or rephrased from the cited source dialogue.'),
  ('cecile',
-  'Gabriel, mon ange gardien, tu veux être mon agent?',
+  'Gabriel, mon ange gardien, vous voulez être mon agent?',
   'Gabriel, my guardian angel, will you be my agent?',
   [(900, 'Gabriel, mon ange gardien'), (901, 'Tu veux être mon agent')],
-  ''),
- ('gabriel', 'Et comment!', 'You bet!', [(902, 'Et comment')], '')]
+  'Original audio uses playful formal vous accepteriez; simplified to present vous voulez while retaining '
+  'the formal address.'),
+ ('gabriel',
+  'Oui, madame!',
+  'Yes, madam!',
+  [(902, 'Et comment')],
+  'Original audio replies Madame; yes is made explicit. The reconstructed Et comment is not followed.')]
 WALK = [(0,
   None,
   "'When are you going to the clinic?' This question word for 'when' sits at the very end, which is how "
@@ -152,9 +157,9 @@ WALK = [(0,
   'to match the actress. Then Cécile asks him something important.'),
  (15,
   None,
-  "'Gabriel, my guardian angel, will you be my agent?' Cécile asks a question in the casual form, just by "
-  'raising her voice at the end. She wants him back.'),
+  "'Gabriel, my guardian angel, will you be my agent?' Cecile now chooses polite 'you' for a playful "
+  'request. They have been speaking familiarly, but she treats him as an agent she is asking to hire.'),
  (16,
   None,
-  "'You bet!' Literally 'and how!'. It's a happy, enthusiastic yes. Here's the scene again from the "
-  'beginning, straight through.')]
+  "'Yes, madam!' Gabriel answers in the same polite tone. The title for a woman makes his enthusiastic yes "
+  'sound like a formal acceptance.')]

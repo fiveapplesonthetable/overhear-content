@@ -59,8 +59,17 @@ STORY = [('joey', 'Allô?', 'Hello?', [(208, 'Allô')], 'Learner adaptation, not
   'Didier?',
   [(214, 'Didier')],
   'Learner adaptation, not a verbatim French transcript.'),
- ('joey', 'Julie!', 'Julie!', [(215, 'Julie')], 'Learner adaptation, not a verbatim French transcript.'),
- ('joey', 'Julie!', 'Julie!', [(216, 'Julie')], 'Learner adaptation, not a verbatim French transcript.'),
+ ('gabriel',
+  'Julie!',
+  'Julie!',
+  [(215, 'Julie')],
+  'Andrea actually calls Julie. Her two brief calls are deliberately folded into Gabriel for the three-role '
+  'learner adaptation; Joey does not call his co-star here.'),
+ ('gabriel',
+  'Julie!',
+  'Julie!',
+  [(216, 'Julie')],
+  'Second Andrea call deliberately folded into Gabriel for the three-role adaptation.'),
  ('gabriel',
   "Qu'est-ce qui se passe?",
   "What's going on?",
@@ -72,8 +81,8 @@ WALK = [(0,
   'the call is genuine.'),
  (1,
   None,
-  "'Yes, yes.' Repeating yes makes his answer sound like an ongoing conversation with the caller. It helps "
-  'the pretence before he gives a reason to leave.'),
+  "'Yes, yes.' Repeating the word for yes makes a series of quick acknowledgements, rather than a single "
+  'answer. He sounds as if he is listening to several things from the caller.'),
  (2,
   None,
   "'Okay, I'm on my way.' The present action literally says I arrive. French uses it when promising to come "
@@ -104,12 +113,12 @@ WALK = [(0,
   'their attention.'),
  (9,
   None,
-  "'Julie!' Now the actor calls his co-star by name. The brief shout marks a sudden change from the "
-  'attempted departure to alarm.'),
+  "'Julie!' The agents now call after the actress as well. A name alone can draw attention when there is no "
+  'time for a longer request.'),
  (10,
   None,
-  "'Julie!' The repeated name makes the call more urgent. Short warnings often repeat the person addressed "
-  'rather than explain the danger in a full sentence.'),
+  "'Julie!' Repeating the name makes the attempt to get her attention more urgent. This learner version "
+  "gives the agents' brief calls to one voice."),
  (11,
   None,
   "'What's going on?' The question asks what is happening. The expression uses a reflexive form for an "

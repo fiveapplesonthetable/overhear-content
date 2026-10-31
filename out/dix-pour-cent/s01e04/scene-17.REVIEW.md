@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Camille | Vous vouliez me voir? | Did you want to see me? | #422 00:23:30: Vous vouliez me voir | verbatim |
-| 2 | Andréa | Oui. Vous connaissez Hippolyte Rivière? | Yes. Do you know Hippolyte Rivière? | #422 00:23:30: Oui. Vous connaissez Hippolyte Rivière | verbatim |
+| 1 | Camille | Tu voulais me voir? | Did you want to see me? | #422 00:23:30: Vous vouliez me voir | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
+| 2 | Andréa | Oui. Tu connais Hippolyte Rivière? | Yes. Do you know Hippolyte Rivière? | #422 00:23:30: Oui. Vous connaissez Hippolyte Rivière | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 3 | Camille | Oui, je le connais. | Yes, I know him. | #423 00:23:36: Oui | verbatim |
-| 4 | Andréa | Entrez. Il a été choisi pour une série policière. | Come in. He has been chosen for a detective series. | #423 00:23:36: Entrez<br>#424 00:23:39: Il a été choisi pour une série policière | verbatim |
+| 4 | Andréa | Entre. Il a été choisi pour une série policière. | Come in. He has been chosen for a detective series. | #423 00:23:36: Entrez<br>#424 00:23:39: Il a été choisi pour une série policière | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 5 | Andréa | On a besoin de photos de lui enfant. | We need photos of him as a child. | #425 00:23:42: On a besoin de photos de lui enfant | verbatim |
-| 6 | Andréa | Accompagnez-le et aidez-le à choisir. | Go with him and help him choose. | #426 00:23:44: Accompagnez-le et aidez-le à choisir | verbatim |
+| 6 | Andréa | Accompagne-le et aide-le à choisir. | Go with him and help him choose. | #426 00:23:44: Accompagnez-le et aidez-le à choisir | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 7 | Camille | Quand? Lundi prochain? | When? Next Monday? | #427 00:23:47: Quand<br>#428 00:23:48: Lundi prochain | verbatim |
 | 8 | Andréa | Non, Camille, maintenant! | No, Camille, now! | #429 00:23:50: Non, Camille, maintenant | verbatim |
 | 9 | Camille | D'accord. | Okay. | #430 00:23:54: D'accord | verbatim |
@@ -23,8 +23,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Hippolyte | Oui, je suis content. | Yes, I'm pleased. | #432 00:24:02: Je suis content | verbatim |
 | 12 | Camille | C'est un bon rôle? | Is it a good part? | #433 00:24:04: C'est un bon rôle | verbatim |
 | 13 | Hippolyte | Pas mal. Je joue un garçon qui a le cœur brisé. | Not bad. I play a boy who has a broken heart. | #434 00:24:06: Pas mal<br>#434 00:24:06: Je joue<br>#435 00:24:08: qui a le cœur brisé | verbatim |
-| 14 | Hippolyte | Désolé pour tes messages. J'ai été très occupé. | Sorry about your messages. I've been very busy. | #436 00:24:11: Désolé<br>#436 00:24:11: tes messages. J'ai été très occupé | verbatim |
-| 15 | Hippolyte | Mais c'est bon de te voir. | But it's good to see you. | #436 00:24:11: Mais c'est bon de te voir | verbatim |
+| 14 | Camille | Désolée pour tes messages. J'ai été très occupée. | Sorry about your messages. I've been very busy. | #436 00:24:11: Désolé<br>#436 00:24:11: tes messages. J'ai été très occupé | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
+| 15 | Camille | Mais c'est bon de te voir. | But it's good to see you. | #436 00:24:11: Mais c'est bon de te voir | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 16 | Hippolyte | On y va sur mon scooter. Tu n'as pas peur? | We're going on my scooter. You're not afraid? | #440 00:24:28: On y va sur mon scooter<br>#441 00:24:31: Tu n'as pas peur | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I know him.' The little word before the verb means 'him'.
 - 'Come in. He has been chosen for a detective series.' Literally 'a police series'.
 - 'We need photos of him as a child.' This everyday expression for 'to need' literally means 'to have need of'.
-- 'Go with him and help him choose.' Andréa gives two polite commands, each with the word for 'him' joined to the action word by a hyphen.
+- 'Go with him and help him choose.' Andréa gives two casual commands to Camille. Each action is followed by a joined object meaning him, referring to Hippolyte.
 - 'When? Next Monday?' In French, 'next' comes after the day of the week.
 - 'No, Camille, now!' The last word is the everyday time word for 'now'. Andréa contrasts it with Camille's suggestion of next Monday.
 - 'Okay.' The short agreement can confirm that you accept an instruction. Here Camille agrees to leave with Hippolyte straight away.
@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I'm pleased.' Notice the masculine form of 'pleased' for Hippolyte.
 - 'Is it a good part?' The short word meaning 'good' goes before the role. It is an adjective here, unlike the conversational 'right' used to move on to a new topic.
 - 'Not bad. I play a boy who has a broken heart.' Literally 'the broken heart'.
-- 'Sorry about your messages. I've been very busy.' He switches to the casual 'your' with her, as he has since they met.
-- 'But it's good to see you.' The short object for 'you' sits before 'see'. It is the casual form for one person, showing how differently Hippolyte and Andréa address Camille.
+- 'Sorry about your messages. I've been very busy.' Camille apologises to Hippolyte. The two descriptions take feminine written endings because she is the person who has been busy and is apologising.
+- 'But it's good to see you.' Camille follows her apology with a warmer remark. The object meaning you goes before the plain action meaning see.
 - 'We're going on my scooter.' The short place word before 'go' is part of a very common expression for setting off. Then 'on' introduces the vehicle they will use.
 - 'You're not afraid?' In French you 'have fear' rather than 'are afraid'.

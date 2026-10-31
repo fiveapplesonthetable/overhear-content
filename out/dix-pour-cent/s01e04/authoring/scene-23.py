@@ -13,9 +13,9 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "After comforting young Armelle Borzek over tea and giving her back the role in Augustin's film, Audrey walks out into the street with Mathias. Mathias worked hard to get her the part so she could pay her late taxes, and he is furious that she just gave it away. Let's listen to their argument in French first. Don't worry if it goes fast; you'll catch the main feelings."
 OPENER = "Let's go back through the argument. Audrey starts by blaming Mathias for hiding the truth."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ('Audrey refuses to spend months away from her young children, despite the tax bill she still faces. Mathias '
- 'leaves in frustration and returns to the agency. You heard how to express a need, explain an objection and '
- 'remind someone about a debt. See you next time!')
+OUTRO = ('Audrey refuses to spend months of each year away from her children. The proposed film itself includes one month '
+ 'in Canada, which Mathias had not mentioned. Despite her tax debt, she gives up the role; he leaves frustrated '
+ 'and returns to the agency. See you next time!')
 CLOSING = ('audrey', 'À bientôt!')
 STORY = [('audrey',
   "Augustin avait choisi une autre actrice. C'était horrible.",
@@ -28,31 +28,31 @@ STORY = [('audrey',
   [(608, 'Les acteurs prennent toujours')],
   ''),
  ('audrey',
-  'Tu as bien regardé Armelle? Elle va être fantastique!',
+  'Vous avez bien regardé Armelle? Elle va être fantastique!',
   "Did you take a good look at Armelle? She's going to be fantastic!",
   [(610, 'Tu as bien regardé Armelle'), (611, 'Elle va être fantastique')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('mathias',
-  "Alors tu n'as pas besoin d'argent, finalement.",
+  "Alors vous n'avez pas besoin d'argent, finalement.",
   "So you don't need money, after all.",
   [(614, "pas besoin d'argent, finalement")],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('audrey',
-  "Tu as une vision horrible de la vie. Elle m'a touchée.",
+  "Vous avez une vision horrible de la vie. Elle m'a touchée.",
   'You have a horrible view of life. She moved me.',
   [(615, "Tu as une vision horrible de la vie. Elle m'a touchée")],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('mathias',
-  "Ce n'est pas pour ça! Tu ne veux pas quitter tes enfants.",
+  "Ce n'est pas pour ça! Vous ne voulez pas quitter vos enfants.",
   "It's not because of that! You don't want to leave your children.",
   [(616, 'pour ça'), (616, 'quitter tes enfants')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('audrey', "N'importe quoi!", 'Nonsense!', [(617, "N'importe quoi")], ''),
  ('mathias',
-  'Tes enfants vont grandir et partir.',
+  'Vos enfants vont grandir et partir.',
   'Your children are going to grow up and leave.',
   [(618, 'Tes enfants vont grandir et partir')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('audrey',
   'Je veux travailler, mais ils sont petits!',
   "I want to work, but they're small!",
@@ -64,10 +64,11 @@ STORY = [('audrey',
   [(625, 'ont besoin de moi'), (626, 'Alors je fais quoi')],
   ''),
  ('audrey',
-  "Je les abandonne six mois? Tu ne m'as pas parlé du Canada!",
-  "Do I abandon them for six months? You didn't tell me about Canada!",
+  "Je les abandonne six mois par an? Vous ne m'avez pas parlé du Canada!",
+  "Do I abandon them for six months a year? You didn't tell me about Canada!",
   [(627, 'Je les abandonne six mois'), (627, "Tu ne m'as pas parlé du Canada")],
-  ''),
+  'Original audio says six months per year in a working parent’s career, distinct from the one-month Canada '
+  'shoot.'),
  ('mathias', 'Je ne savais pas.', "I didn't know.", [(628, 'savais pas')], ''),
  ('audrey',
   "Et c'est impossible de travailler avec un bébé partout.",
@@ -75,15 +76,15 @@ STORY = [('audrey',
   [(629, 'un bébé partout'), (630, 'tu peux pas travailler')],
   'Combines Mathias’s complaint about taking a baby everywhere with his claim that it prevents work.'),
  ('mathias',
-  "Tu dois beaucoup d'argent aux impôts.",
+  "Vous devez beaucoup d'argent aux impôts.",
   'You owe a lot of money in taxes.',
   [(634, 'tu dois aux impôts'), (635, 'mais je te souhaite bonne chance')],
-  'Keeps the debt reminder separate from Audrey’s sarcastic farewell.'),
- ('audrey',
-  'Mais je te souhaite bonne chance!',
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
+ ('mathias',
+  'Mais je vous souhaite bonne chance!',
   'But I wish you good luck!',
   [(635, 'mais je te souhaite bonne chance')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('mathias',
   'Bonjour!',
   'Hello!',
@@ -91,16 +92,18 @@ STORY = [('audrey',
   'Mathias greets people when he returns to the agency; not a farewell on a train.')]
 WALK = [(0,
   None,
-  "'Augustin had chosen another actress. It was horrible.' The first action was already completed before this "
-  "argument: a past helping form of 'have' comes before 'chosen'. The next sentence reacts to the encounter."),
+  "'Augustin had chosen another actress. It was horrible.' French uses a past form of having before the past form "
+  "of choosing. Together they place Augustin's choice before the events Audrey is talking about. English does the "
+  'same job with had chosen.'),
  (1,
   None,
   "'Actors always take someone else's role.' The action word 'to take' is in its plural form, and 'always' sits "
   'right after it.'),
  (2,
   None,
-  "'Did you take a good look at Armelle? She's going to be fantastic!' First the past with 'have', then the near "
-  "future with 'is going to be'."),
+  "'Did you take a good look at Armelle? She's going to be fantastic!' French uses a past form of looking for the "
+  'first question. In the next sentence, going followed by being describes a future result. Audrey moves from '
+  'what she saw to what she expects.'),
  (3,
   None,
   "'So you don't need money, after all.' French says 'have need of' for 'need'. The short linking sound before "
@@ -111,8 +114,9 @@ WALK = [(0,
   "feminine ending because 'me' is Audrey."),
  (5,
   None,
-  "'It's not because of that! You don't want to leave your children.' The first short phrase rejects her "
-  "explanation. The second negative surrounds 'want', while 'leave' stays in its plain form afterwards."),
+  "'It's not because of that! You don't want to leave your children.' French puts the negative around the action "
+  'of wanting. The next action, leaving, keeps its basic form. You can reuse this pattern to say that you do not '
+  'want to do something.'),
  (6,
   None,
   "'Nonsense!' Audrey uses a very common three-word expression that literally means 'no matter what', used "
@@ -130,25 +134,27 @@ WALK = [(0,
   'plural.'),
  (10,
   None,
-  "'Do I abandon them for six months? You didn't tell me about Canada!' The little word for 'them' goes before "
-  "the verb. With a masculine country name like Canada, 'about' combines with 'the'."),
+  "'Do I abandon them for six months a year? You didn't tell me about Canada!' French puts the word for them "
+  'before the action of abandoning. The expression for six months a year gives a repeated yearly amount. The '
+  'specific Canada shoot lasts one month.'),
  (11,
   None,
-  "'I didn't know.' This past form of 'know' describes someone's state of knowledge. It is different from saying "
-  'that they found something out at a particular moment.'),
+  "'I didn't know.' French uses this past form of knowing to describe what Mathias knew at the time. It describes "
+  'his state of knowledge before this conversation. He is denying that he knew about the trip.'),
  (12,
   None,
   "'And it's impossible to work with a baby around all the time.' The description 'impossible' is followed by a "
   "linking word and the plain action 'work'. This is Audrey's objection to taking her baby everywhere."),
  (13,
   None,
-  "'You owe a lot of money in taxes.' The action word here means 'owe'. Before another action it can mean 'must', "
-  'but before an amount of money it describes a debt.'),
+  "'You owe a lot of money in taxes.' French uses the same action word for owing money and having to do "
+  'something. Here the money amount makes the meaning clear: Audrey owes a debt. When another action follows this '
+  'word, it can express an obligation.'),
  (14,
   None,
-  "'But I wish you good luck!' Audrey turns the farewell back on Mathias. The word for 'you' comes before 'wish' "
-  "and marks the person receiving the wish; the describing word for 'good' agrees with feminine 'luck'."),
+  "'But I wish you good luck!' Mathias ends his own reminder about her tax debt with this sarcastic wish. The "
+  'polite object means Audrey is the recipient; the feminine description matches luck.'),
  (15,
   None,
-  "'Hello!' Mathias has returned to the agency. The same everyday greeting works when arriving at an office as "
-  'when meeting someone outside.')]
+  "'Hello!' This everyday word is a greeting when you arrive or meet someone during the day. You can use it at an "
+  'office, in a shop or when meeting a neighbour. Mathias uses it as he returns to the agency.')]

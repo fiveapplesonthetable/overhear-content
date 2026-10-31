@@ -1,3 +1,4 @@
+SOURCE_NOTE = 'French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.'
 # Authoring module for dix-pour-cent-s01e01-scene-20.
 ID = 'dix-pour-cent-s01e01-scene-20'
 SHOW = 'dix-pour-cent'
@@ -87,12 +88,12 @@ STORY = [('mathias',
   "I'm sorry, Mathias, it's decided.",
   [(601, "Mathias, c'est décidé")],
   'Feminine apology agrees with Miranda; source transcript uses masculine spelling.'),
- ('miranda',
+ ('mathias',
   "Goûtez un macaron! C'est leur spécialité.",
   "Try a macaron! It's their speciality.",
   [(602, 'un macaron'), (603, "C'est leur spécialité")],
   'Polite suggestion shortened to a polite instruction.'),
- ('mathias', 'Merci.', 'Thank you.', [(603, 'Merci')], '')]
+ ('miranda', 'Merci.', 'Thank you.', [(603, 'Merci')], '')]
 WALK = [(0,
   None,
   "'Miranda, you look radiant.' French literally says 'you are radiant'. Listen for the final consonant in "
@@ -151,9 +152,9 @@ WALK = [(0,
   "woman says it, but it sounds exactly the same as a man's. The door is closed."),
  (14,
   None,
-  "'Try a macaron! It's their speciality.' The opening is a polite instruction. The possessive before "
-  "'speciality' refers to the tea room, and has a singular spelling because there is one speciality."),
+  "'Try a macaron! It's their speciality.' Mathias changes the subject with a polite invitation. The "
+  "possessive before 'speciality' refers to the tea room and has a singular spelling for one speciality."),
  (15,
   None,
-  "'Thank you.' One word from Mathias, with a frozen smile. He has lost this round, but he is not the kind "
-  "of man who gives up. Here's the whole conversation again.")]
+  "'Thank you.' Miranda gives a short polite response to his offer. Her decision about the film part still "
+  'stands.')]

@@ -1,3 +1,4 @@
+SOURCE_NOTE = 'French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.'
 # Authoring module for dix-pour-cent-s01e01-scene-17.
 ID = 'dix-pour-cent-s01e01-scene-17'
 SHOW = 'dix-pour-cent'
@@ -22,11 +23,15 @@ STORY = [('gabriel',
   'Cécile, great! How are you?',
   [(486, 'Cécile, super !'), (487, 'Ça va ?')],
   ''),
- ('cecile', 'Oui, et toi?', 'Fine, and you?', [(487, 'Oui, et toi ?')], ''),
+ ('cecile',
+  "Oui, et toi? J'ai essayé de t'appeler.",
+  'Fine, and you? I tried to call you.',
+  [(487, 'Oui, et toi ?'), (488, "J'ai essayé de t'appeler")],
+  'Greeting and complaint combined; original video confirms Cecile speaks both.'),
  ('gabriel',
-  "J'ai essayé de t'appeler. C'est non-stop au boulot aujourd'hui.",
-  "I tried to call you. It's non-stop at work today.",
-  [(488, "J'ai essayé de t'appeler"), (489, "C'est non-stop au boulot aujourd'hui")],
+  "C'est non-stop au boulot aujourd'hui.",
+  "It's non-stop at work today.",
+  [(489, "C'est non-stop au boulot aujourd'hui")],
   ''),
  ('cecile', 'Toujours aucune nouvelle?', 'Still no news?', [(490, 'Toujours aucune nouvelle ?')], ''),
  ('gabriel',
@@ -83,8 +88,10 @@ WALK = [(0,
   None,
   "'Cécile, great! How are you?' Those two little words at the end are the everyday way to ask how someone "
   'is. Cécile plays along.'),
- (1, None, "'Fine, and you?' She uses the casual 'you' with Gabriel; they've worked together for years."),
- (2,
+ (1,
+  'Oui, et toi?',
+  "'Fine, and you?' She uses the casual 'you' with Gabriel; they've worked together for years."),
+ (1,
   "J'ai essayé de t'appeler.",
   "'I tried to call you.' The past action is made with 'have' and 'tried'. A short linking word then "
   "connects it to the action 'call', with 'you' attached just before that action."),
