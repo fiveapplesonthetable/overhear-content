@@ -43,5 +43,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So as for your Ryan, that's the end of him!' The final sound imitates a brief choked cry. In this context it signals an abrupt end for the character she wants written out.
 - 'Excuse me, we have to think of the real fans of the series.' The impersonal expression means it is necessary. The word for to combines with the plural article before the real fans she wants them to consider.
 - 'Yes, Camille?' A simple yes followed by a name gives someone the floor. It can invite them to continue without agreeing to any proposal yet.
-- 'Andréa wanted to show you something, but not now.' The past form of want reports an earlier intention. Something is an indefinite expression: Camille does not need to name the object she might show him.
+- 'Andréa wanted to show you something, but not now.' The past form of want reports an earlier intention. Something is an indefinite expression: Camille does not need to name the object Andrea wanted to show Mathias.
 - 'I'll come back later.' A form of go introduces the promise to return. The final phrase means later, literally more late, rather than never coming back.
