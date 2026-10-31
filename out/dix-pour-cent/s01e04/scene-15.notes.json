@@ -4,60 +4,6 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "I'm very pleased too.",
-      "words": [
-        {
-          "t": "Moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "stressed pronoun, emphasises who also feels pleased"
-        },
-        {
-          "t": "aussi,",
-          "lemma": "aussi",
-          "pos": "adv",
-          "stress": "osi",
-          "gloss": "also",
-          "gram": "invariable adverb ('aussi', meaning 'also')"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "suis",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɥi",
-          "gloss": "am",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "très",
-          "lemma": "très",
-          "pos": "adv",
-          "stress": "tʁɛ",
-          "gloss": "very",
-          "gram": "invariable adverb ('très', meaning 'very')"
-        },
-        {
-          "t": "content.",
-          "lemma": "content",
-          "pos": "adj",
-          "stress": "kɔ̃tɑ̃",
-          "gloss": "glad",
-          "gram": "adjective, masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 2,
       "trans": "We're going to shoot the Canadian part first.",
       "words": [
         {
@@ -119,7 +65,7 @@
       ]
     },
     {
-      "seg": 3,
+      "seg": 2,
       "trans": "What Canadian part?",
       "words": [
         {
@@ -149,8 +95,6 @@
       ]
     },
     {
-      "seg": 4,
-      "trans": "A month of filming in Canada. Didn't Mathias tell you?",
       "words": [
         {
           "t": "Un",
@@ -217,12 +161,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "te",
+          "lemma": "te",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "to you",
-          "gram": "indirect object, polite address to one person"
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "indirect object, casual address to Audrey"
         },
         {
           "t": "l'a",
@@ -248,10 +192,12 @@
           "gloss": "told",
           "gram": "past participle; a dit = told"
         }
-      ]
+      ],
+      "seg": 3,
+      "trans": "A month of filming in Canada. Didn't Mathias tell you?"
     },
     {
-      "seg": 5,
+      "seg": 4,
       "trans": "No, he forgot.",
       "words": [
         {
@@ -289,8 +235,6 @@
       ]
     },
     {
-      "seg": 6,
-      "trans": "I'll explain to you now. It's in the north, near the lakes.",
       "words": [
         {
           "t": "Je",
@@ -301,20 +245,20 @@
           "gram": "subject pronoun, 1st person singular"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "to you",
-          "gram": "indirect object, polite address to one person"
-        },
-        {
-          "t": "explique",
+          "t": "t'explique",
           "lemma": "expliquer",
           "pos": "verb",
-          "stress": "ɛksplik",
-          "gloss": "explain",
-          "gram": "present, 1st person singular"
+          "stress": "tɛksplik",
+          "gloss": "explain to you",
+          "gram": "te + explique, present 1st singular, casual address"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "direct object, indefinite pronoun"
         },
         {
           "t": "maintenant.",
@@ -380,10 +324,12 @@
           "gloss": "lakes",
           "gram": "masculine plural"
         }
-      ]
+      ],
+      "seg": 5,
+      "trans": "I'll explain everything to you now. It's in the north, near the lakes."
     },
     {
-      "seg": 7,
+      "seg": 6,
       "trans": "The landscape is magnificent!",
       "words": [
         {
@@ -421,7 +367,7 @@
       ]
     },
     {
-      "seg": 8,
+      "seg": 7,
       "trans": "Sorry, but there are incredible places around Paris.",
       "words": [
         {
@@ -515,24 +461,22 @@
       ]
     },
     {
-      "seg": 9,
-      "trans": "Do you know Rambouillet? There are big forests there too!",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, polite address to one person"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "subject, casual address to Augustin"
         },
         {
-          "t": "connaissez",
+          "t": "connais",
           "lemma": "connaître",
           "pos": "verb",
-          "stress": "kɔnɛse",
+          "stress": "kɔnɛ",
           "gloss": "know",
-          "gram": "present, 2nd person plural/formal"
+          "gram": "present, 2nd singular"
         },
         {
           "t": "Rambouillet?",
@@ -598,10 +542,12 @@
           "gloss": "forests",
           "gram": "feminine plural"
         }
-      ]
+      ],
+      "seg": 8,
+      "trans": "Do you know Rambouillet? There are big forests there too!"
     },
     {
-      "seg": 10,
+      "seg": 9,
       "trans": "The film tells the story of my mother's life, and she's Canadian.",
       "words": [
         {
@@ -703,7 +649,7 @@
       ]
     },
     {
-      "seg": 11,
+      "seg": 10,
       "trans": "Oh, I see.",
       "words": [
         {
@@ -733,7 +679,7 @@
       ]
     },
     {
-      "seg": 12,
+      "seg": 11,
       "trans": "So I really want to shoot over there.",
       "words": [
         {
@@ -787,7 +733,7 @@
       ]
     },
     {
-      "seg": 13,
+      "seg": 12,
       "trans": "Yes, of course.",
       "words": [
         {
@@ -817,7 +763,7 @@
       ]
     },
     {
-      "seg": 14,
+      "seg": 13,
       "trans": "I'm not saying to replace Julie Gayet with a Black actress.",
       "words": [
         {
@@ -919,8 +865,6 @@
       ]
     },
     {
-      "seg": 15,
-      "trans": "I can suggest Sofia Leprince to play the countess.",
       "words": [
         {
           "t": "Je",
@@ -939,12 +883,12 @@
           "gram": "present, 1st person singular"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "te",
+          "lemma": "te",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "to you",
-          "gram": "indirect object, polite address to one person"
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "indirect object, casual address to colleague"
         },
         {
           "t": "proposer",
@@ -1002,10 +946,12 @@
           "gloss": "countess",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 14,
+      "trans": "I can suggest Sofia Leprince to play the countess."
     },
     {
-      "seg": 16,
+      "seg": 15,
       "trans": "That's perfect! See you soon.",
       "words": [
         {
@@ -1043,61 +989,7 @@
       ]
     },
     {
-      "seg": 18,
-      "trans": "I'm very pleased too.",
-      "words": [
-        {
-          "t": "Moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "stressed pronoun, emphasises who also feels pleased"
-        },
-        {
-          "t": "aussi,",
-          "lemma": "aussi",
-          "pos": "adv",
-          "stress": "osi",
-          "gloss": "also",
-          "gram": "invariable adverb ('aussi', meaning 'also')"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "suis",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɥi",
-          "gloss": "am",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "très",
-          "lemma": "très",
-          "pos": "adv",
-          "stress": "tʁɛ",
-          "gloss": "very",
-          "gram": "invariable adverb ('très', meaning 'very')"
-        },
-        {
-          "t": "content.",
-          "lemma": "content",
-          "pos": "adj",
-          "stress": "kɔ̃tɑ̃",
-          "gloss": "glad",
-          "gram": "adjective, masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 20,
+      "seg": 17,
       "trans": "We're going to shoot the Canadian part first.",
       "words": [
         {
@@ -1159,7 +1051,7 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 19,
       "trans": "What Canadian part?",
       "words": [
         {
@@ -1189,8 +1081,6 @@
       ]
     },
     {
-      "seg": 24,
-      "trans": "A month of filming in Canada. Didn't Mathias tell you?",
       "words": [
         {
           "t": "Un",
@@ -1257,12 +1147,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "te",
+          "lemma": "te",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "to you",
-          "gram": "indirect object, polite address to one person"
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "indirect object, casual address to Audrey"
         },
         {
           "t": "l'a",
@@ -1288,10 +1178,12 @@
           "gloss": "told",
           "gram": "past participle; a dit = told"
         }
-      ]
+      ],
+      "seg": 21,
+      "trans": "A month of filming in Canada. Didn't Mathias tell you?"
     },
     {
-      "seg": 26,
+      "seg": 23,
       "trans": "No, he forgot.",
       "words": [
         {
@@ -1329,8 +1221,6 @@
       ]
     },
     {
-      "seg": 28,
-      "trans": "I'll explain to you now. It's in the north, near the lakes.",
       "words": [
         {
           "t": "Je",
@@ -1341,20 +1231,20 @@
           "gram": "subject pronoun, 1st person singular"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "to you",
-          "gram": "indirect object, polite address to one person"
-        },
-        {
-          "t": "explique",
+          "t": "t'explique",
           "lemma": "expliquer",
           "pos": "verb",
-          "stress": "ɛksplik",
-          "gloss": "explain",
-          "gram": "present, 1st person singular"
+          "stress": "tɛksplik",
+          "gloss": "explain to you",
+          "gram": "te + explique, present 1st singular, casual address"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "direct object, indefinite pronoun"
         },
         {
           "t": "maintenant.",
@@ -1420,10 +1310,12 @@
           "gloss": "lakes",
           "gram": "masculine plural"
         }
-      ]
+      ],
+      "seg": 25,
+      "trans": "I'll explain everything to you now. It's in the north, near the lakes."
     },
     {
-      "seg": 30,
+      "seg": 27,
       "trans": "The landscape is magnificent!",
       "words": [
         {
@@ -1461,7 +1353,7 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 29,
       "trans": "Sorry, but there are incredible places around Paris.",
       "words": [
         {
@@ -1555,24 +1447,22 @@
       ]
     },
     {
-      "seg": 34,
-      "trans": "Do you know Rambouillet? There are big forests there too!",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, polite address to one person"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "subject, casual address to Augustin"
         },
         {
-          "t": "connaissez",
+          "t": "connais",
           "lemma": "connaître",
           "pos": "verb",
-          "stress": "kɔnɛse",
+          "stress": "kɔnɛ",
           "gloss": "know",
-          "gram": "present, 2nd person plural/formal"
+          "gram": "present, 2nd singular"
         },
         {
           "t": "Rambouillet?",
@@ -1638,10 +1528,12 @@
           "gloss": "forests",
           "gram": "feminine plural"
         }
-      ]
+      ],
+      "seg": 31,
+      "trans": "Do you know Rambouillet? There are big forests there too!"
     },
     {
-      "seg": 36,
+      "seg": 33,
       "trans": "The film tells the story of my mother's life, and she's Canadian.",
       "words": [
         {
@@ -1743,7 +1635,7 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 35,
       "trans": "Oh, I see.",
       "words": [
         {
@@ -1773,7 +1665,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 37,
       "trans": "So I really want to shoot over there.",
       "words": [
         {
@@ -1827,7 +1719,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 39,
       "trans": "Yes, of course.",
       "words": [
         {
@@ -1857,7 +1749,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 41,
       "trans": "I'm not saying to replace Julie Gayet with a Black actress.",
       "words": [
         {
@@ -1959,8 +1851,6 @@
       ]
     },
     {
-      "seg": 46,
-      "trans": "I can suggest Sofia Leprince to play the countess.",
       "words": [
         {
           "t": "Je",
@@ -1979,12 +1869,12 @@
           "gram": "present, 1st person singular"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "te",
+          "lemma": "te",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "to you",
-          "gram": "indirect object, polite address to one person"
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "indirect object, casual address to colleague"
         },
         {
           "t": "proposer",
@@ -2040,166 +1930,114 @@
           "pos": "noun",
           "stress": "kɔ̃tɛs",
           "gloss": "countess",
+          "gram": "feminine singular"
+        }
+      ],
+      "seg": 43,
+      "trans": "I can suggest Sofia Leprince to play the countess."
+    },
+    {
+      "seg": 45,
+      "trans": "That's perfect! See you soon.",
+      "words": [
+        {
+          "t": "C'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "parfait!",
+          "lemma": "parfait",
+          "pos": "adj",
+          "stress": "paʁfɛ",
+          "gloss": "perfect",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "À",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
+        },
+        {
+          "t": "bientôt.",
+          "lemma": "bientôt",
+          "pos": "adv",
+          "stress": "bjɛ̃to",
+          "gloss": "soon",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "We're going to shoot the Canadian part first.",
+      "words": [
+        {
+          "t": "On",
+          "lemma": "on",
+          "pos": "pron",
+          "stress": "ɔ̃",
+          "gloss": "we",
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+        },
+        {
+          "t": "va",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "are going (to)",
+          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+        },
+        {
+          "t": "tourner",
+          "lemma": "tourner",
+          "pos": "verb",
+          "stress": "tuʁne",
+          "gloss": "to shoot (a film)",
+          "gram": "infinitive after va; aller + infinitive = going to do something"
+        },
+        {
+          "t": "d'abord",
+          "lemma": "d'abord",
+          "pos": "adv",
+          "stress": "dabɔʁ",
+          "gloss": "first",
+          "gram": "adverb: 'first of all'"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
+        },
+        {
+          "t": "partie",
+          "lemma": "partie",
+          "pos": "noun",
+          "stress": "paʁti",
+          "gloss": "part, section",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "canadienne.",
+          "lemma": "canadien",
+          "pos": "adj",
+          "stress": "kanadjɛn",
+          "gloss": "Canadian",
           "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 48,
-      "trans": "That's perfect! See you soon.",
-      "words": [
-        {
-          "t": "C'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "parfait!",
-          "lemma": "parfait",
-          "pos": "adj",
-          "stress": "paʁfɛ",
-          "gloss": "perfect",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "À",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
-        },
-        {
-          "t": "bientôt.",
-          "lemma": "bientôt",
-          "pos": "adv",
-          "stress": "bjɛ̃to",
-          "gloss": "soon",
-          "gram": "adverb of time"
-        }
-      ]
-    },
-    {
-      "seg": 50,
-      "trans": "I'm very pleased too.",
-      "words": [
-        {
-          "t": "Moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "stressed pronoun, emphasises who also feels pleased"
-        },
-        {
-          "t": "aussi,",
-          "lemma": "aussi",
-          "pos": "adv",
-          "stress": "osi",
-          "gloss": "also",
-          "gram": "invariable adverb ('aussi', meaning 'also')"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "suis",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɥi",
-          "gloss": "am",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "très",
-          "lemma": "très",
-          "pos": "adv",
-          "stress": "tʁɛ",
-          "gloss": "very",
-          "gram": "invariable adverb ('très', meaning 'very')"
-        },
-        {
-          "t": "content.",
-          "lemma": "content",
-          "pos": "adj",
-          "stress": "kɔ̃tɑ̃",
-          "gloss": "glad",
-          "gram": "adjective, masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 51,
-      "trans": "We're going to shoot the Canadian part first.",
-      "words": [
-        {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "va",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-        },
-        {
-          "t": "tourner",
-          "lemma": "tourner",
-          "pos": "verb",
-          "stress": "tuʁne",
-          "gloss": "to shoot (a film)",
-          "gram": "infinitive after va; aller + infinitive = going to do something"
-        },
-        {
-          "t": "d'abord",
-          "lemma": "d'abord",
-          "pos": "adv",
-          "stress": "dabɔʁ",
-          "gloss": "first",
-          "gram": "adverb: 'first of all'"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "partie",
-          "lemma": "partie",
-          "pos": "noun",
-          "stress": "paʁti",
-          "gloss": "part, section",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "canadienne.",
-          "lemma": "canadien",
-          "pos": "adj",
-          "stress": "kanadjɛn",
-          "gloss": "Canadian",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 52,
       "trans": "What Canadian part?",
       "words": [
         {
@@ -2229,8 +2067,6 @@
       ]
     },
     {
-      "seg": 53,
-      "trans": "A month of filming in Canada. Didn't Mathias tell you?",
       "words": [
         {
           "t": "Un",
@@ -2297,12 +2133,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "te",
+          "lemma": "te",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "to you",
-          "gram": "indirect object, polite address to one person"
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "indirect object, casual address to Audrey"
         },
         {
           "t": "l'a",
@@ -2328,10 +2164,12 @@
           "gloss": "told",
           "gram": "past participle; a dit = told"
         }
-      ]
+      ],
+      "seg": 49,
+      "trans": "A month of filming in Canada. Didn't Mathias tell you?"
     },
     {
-      "seg": 54,
+      "seg": 50,
       "trans": "No, he forgot.",
       "words": [
         {
@@ -2369,8 +2207,6 @@
       ]
     },
     {
-      "seg": 55,
-      "trans": "I'll explain to you now. It's in the north, near the lakes.",
       "words": [
         {
           "t": "Je",
@@ -2381,20 +2217,20 @@
           "gram": "subject pronoun, 1st person singular"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "to you",
-          "gram": "indirect object, polite address to one person"
-        },
-        {
-          "t": "explique",
+          "t": "t'explique",
           "lemma": "expliquer",
           "pos": "verb",
-          "stress": "ɛksplik",
-          "gloss": "explain",
-          "gram": "present, 1st person singular"
+          "stress": "tɛksplik",
+          "gloss": "explain to you",
+          "gram": "te + explique, present 1st singular, casual address"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "direct object, indefinite pronoun"
         },
         {
           "t": "maintenant.",
@@ -2460,10 +2296,12 @@
           "gloss": "lakes",
           "gram": "masculine plural"
         }
-      ]
+      ],
+      "seg": 51,
+      "trans": "I'll explain everything to you now. It's in the north, near the lakes."
     },
     {
-      "seg": 56,
+      "seg": 52,
       "trans": "The landscape is magnificent!",
       "words": [
         {
@@ -2501,7 +2339,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 53,
       "trans": "Sorry, but there are incredible places around Paris.",
       "words": [
         {
@@ -2595,24 +2433,22 @@
       ]
     },
     {
-      "seg": 58,
-      "trans": "Do you know Rambouillet? There are big forests there too!",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, polite address to one person"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "subject, casual address to Augustin"
         },
         {
-          "t": "connaissez",
+          "t": "connais",
           "lemma": "connaître",
           "pos": "verb",
-          "stress": "kɔnɛse",
+          "stress": "kɔnɛ",
           "gloss": "know",
-          "gram": "present, 2nd person plural/formal"
+          "gram": "present, 2nd singular"
         },
         {
           "t": "Rambouillet?",
@@ -2678,10 +2514,12 @@
           "gloss": "forests",
           "gram": "feminine plural"
         }
-      ]
+      ],
+      "seg": 54,
+      "trans": "Do you know Rambouillet? There are big forests there too!"
     },
     {
-      "seg": 59,
+      "seg": 55,
       "trans": "The film tells the story of my mother's life, and she's Canadian.",
       "words": [
         {
@@ -2783,7 +2621,7 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 56,
       "trans": "Oh, I see.",
       "words": [
         {
@@ -2813,7 +2651,7 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 57,
       "trans": "So I really want to shoot over there.",
       "words": [
         {
@@ -2867,7 +2705,7 @@
       ]
     },
     {
-      "seg": 62,
+      "seg": 58,
       "trans": "Yes, of course.",
       "words": [
         {
@@ -2897,7 +2735,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 59,
       "trans": "I'm not saying to replace Julie Gayet with a Black actress.",
       "words": [
         {
@@ -2999,8 +2837,6 @@
       ]
     },
     {
-      "seg": 64,
-      "trans": "I can suggest Sofia Leprince to play the countess.",
       "words": [
         {
           "t": "Je",
@@ -3019,12 +2855,12 @@
           "gram": "present, 1st person singular"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "te",
+          "lemma": "te",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "to you",
-          "gram": "indirect object, polite address to one person"
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "indirect object, casual address to colleague"
         },
         {
           "t": "proposer",
@@ -3082,10 +2918,12 @@
           "gloss": "countess",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 60,
+      "trans": "I can suggest Sofia Leprince to play the countess."
     },
     {
-      "seg": 65,
+      "seg": 61,
       "trans": "That's perfect! See you soon.",
       "words": [
         {
@@ -3123,7 +2961,7 @@
       ]
     },
     {
-      "seg": 67,
+      "seg": 63,
       "trans": "See you soon!",
       "words": [
         {
@@ -8586,6 +8424,138 @@
           "gloss": "maybe, perhaps"
         }
       ]
+    },
+    "tu": {
+      "lemma": "tu",
+      "stress": "ty",
+      "pos": "pron",
+      "gloss": "you (casual)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "one person you know well: friends, family, close colleagues"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tu es pénible.",
+          "trans": "You're a pain."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Deux places pour mardi? Mardi, tu as le film de Kechiche.",
+          "trans": "Two tickets for Tuesday? On Tuesday you've got the Kechiche film."
+        }
+      ],
+      "related": [
+        {
+          "word": "vous",
+          "gloss": "you (polite or plural)"
+        }
+      ]
+    },
+    "tout": {
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all, every; everything",
+      "meanings": [
+        {
+          "en": "all, the whole",
+          "note": "Tout le monde = everybody."
+        },
+        {
+          "en": "tout ce que = all that, everything that",
+          "note": "Pronoun use."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "tout",
+              "toute"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "tous",
+              "toutes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
+        },
+        {
+          "text": "C'est tout ce que je peux faire.",
+          "trans": "That's all I can do."
+        },
+        {
+          "text": "Désolé, c'est tout ce que je peux faire.",
+          "trans": "Sorry, that's all I can do."
+        }
+      ],
+      "related": [
+        {
+          "word": "tout le monde",
+          "gloss": "everybody"
+        },
+        {
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
+        }
+      ]
+    },
+    "te": {
+      "lemma": "te",
+      "stress": "tə",
+      "pos": "pron",
+      "gloss": "you (casual, object)",
+      "meanings": [
+        {
+          "en": "you, to you",
+          "note": "casual object pronoun, before the verb"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je voulais te faire la surprise.",
+          "trans": "I wanted to surprise you."
+        },
+        {
+          "text": "Je te rappelle.",
+          "trans": "I'll call you back."
+        },
+        {
+          "text": "Je ne sais pas. Je voulais te faire la surprise.",
+          "trans": "I don't know. I wanted to surprise you."
+        }
+      ],
+      "related": []
     }
   }
 }

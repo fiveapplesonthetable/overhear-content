@@ -3,8 +3,6 @@
   "id": "dix-pour-cent-s01e04-scene-12",
   "lines": [
     {
-      "seg": 1,
-      "trans": "Hello, Audrey. Didn't you find a babysitter?",
       "words": [
         {
           "t": "Bonjour,",
@@ -23,20 +21,20 @@
           "gram": "proper name"
         },
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to one person"
         },
         {
-          "t": "n'as",
+          "t": "n'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "na",
+          "stress": "nave",
           "gloss": "do not have, have not",
-          "gram": "ne (not) + as: 2nd person singular present of avoir"
+          "gram": "ne + avez: present polite/plural, past auxiliary"
         },
         {
           "t": "pas",
@@ -70,7 +68,9 @@
           "gloss": "babysitter",
           "gram": "singular (masculine or feminine)"
         }
-      ]
+      ],
+      "seg": 1,
+      "trans": "Hello, Audrey. Didn't you find a babysitter?"
     },
     {
       "seg": 2,
@@ -175,8 +175,6 @@
       ]
     },
     {
-      "seg": 3,
-      "trans": "And your husband?",
       "words": [
         {
           "t": "Et",
@@ -187,12 +185,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "ton",
-          "lemma": "ton",
+          "t": "votre",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "tɔ̃",
+          "stress": "vɔtʁ",
           "gloss": "your",
-          "gram": "possessive, informal, masculine singular"
+          "gram": "possessive, polite address; singular mari"
         },
         {
           "t": "mari?",
@@ -202,7 +200,9 @@
           "gloss": "husband",
           "gram": "masculine singular"
         }
-      ]
+      ],
+      "seg": 3,
+      "trans": "And your husband?"
     },
     {
       "seg": 4,
@@ -299,24 +299,22 @@
       ]
     },
     {
-      "seg": 5,
-      "trans": "Are you losing your voice?",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to one person"
         },
         {
-          "t": "perds",
+          "t": "perdez",
           "lemma": "perdre",
           "pos": "verb",
-          "stress": "pɛʁ",
+          "stress": "pɛʁde",
           "gloss": "are losing",
-          "gram": "present, 2nd person singular"
+          "gram": "present, polite/plural address"
         },
         {
           "t": "la",
@@ -334,7 +332,9 @@
           "gloss": "voice",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 5,
+      "trans": "Are you losing your voice?"
     },
     {
       "seg": 6,
@@ -879,8 +879,6 @@
       ]
     },
     {
-      "seg": 15,
-      "trans": "Mathias, look, she has drawn you! She's very talented!",
       "words": [
         {
           "t": "Mathias,",
@@ -888,15 +886,15 @@
           "pos": "name",
           "stress": null,
           "gloss": "Mathias",
-          "gram": "first name"
+          "gram": "proper name"
         },
         {
-          "t": "regarde,",
+          "t": "regardez,",
           "lemma": "regarder",
           "pos": "verb",
-          "stress": "ʁəɡaʁd",
+          "stress": "ʁəɡaʁde",
           "gloss": "look",
-          "gram": "imperative, 2nd person singular"
+          "gram": "imperative, polite address"
         },
         {
           "t": "elle",
@@ -904,15 +902,23 @@
           "pos": "pron",
           "stress": "ɛl",
           "gloss": "she",
-          "gram": "subject pronoun, feminine singular; Audrey’s daughter"
+          "gram": "subject, the child"
         },
         {
-          "t": "t'a",
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address"
+        },
+        {
+          "t": "a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ta",
-          "gloss": "has ... you",
-          "gram": "te (you) + a: 3rd person singular present of avoir"
+          "stress": "a",
+          "gloss": "has",
+          "gram": "past auxiliary, present 3rd singular"
         },
         {
           "t": "dessiné!",
@@ -920,7 +926,7 @@
           "pos": "verb",
           "stress": "desine",
           "gloss": "drawn",
-          "gram": "past participle, masculine singular; preceding direct object te refers to Mathias"
+          "gram": "past participle"
         },
         {
           "t": "Elle",
@@ -928,7 +934,7 @@
           "pos": "pron",
           "stress": "ɛl",
           "gloss": "she",
-          "gram": "subject pronoun, feminine singular; Audrey’s daughter"
+          "gram": "subject, the child"
         },
         {
           "t": "est",
@@ -936,7 +942,7 @@
           "pos": "verb",
           "stress": "ɛ",
           "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gram": "present 3rd singular"
         },
         {
           "t": "très",
@@ -944,21 +950,21 @@
           "pos": "adv",
           "stress": "tʁɛ",
           "gloss": "very",
-          "gram": "invariable adverb ('très', meaning 'very')"
+          "gram": "degree"
         },
         {
           "t": "douée!",
           "lemma": "doué",
           "pos": "adj",
           "stress": "dwe",
-          "gloss": "gifted, good at it",
+          "gloss": "talented",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 15,
+      "trans": "Mathias, look, she has drawn you! She's very talented!"
     },
     {
-      "seg": 17,
-      "trans": "Hello, Audrey. Didn't you find a babysitter?",
       "words": [
         {
           "t": "Bonjour,",
@@ -977,20 +983,20 @@
           "gram": "proper name"
         },
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to one person"
         },
         {
-          "t": "n'as",
+          "t": "n'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "na",
+          "stress": "nave",
           "gloss": "do not have, have not",
-          "gram": "ne (not) + as: 2nd person singular present of avoir"
+          "gram": "ne + avez: present polite/plural, past auxiliary"
         },
         {
           "t": "pas",
@@ -1024,7 +1030,9 @@
           "gloss": "babysitter",
           "gram": "singular (masculine or feminine)"
         }
-      ]
+      ],
+      "seg": 17,
+      "trans": "Hello, Audrey. Didn't you find a babysitter?"
     },
     {
       "seg": 19,
@@ -1129,8 +1137,6 @@
       ]
     },
     {
-      "seg": 21,
-      "trans": "And your husband?",
       "words": [
         {
           "t": "Et",
@@ -1141,12 +1147,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "ton",
-          "lemma": "ton",
+          "t": "votre",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "tɔ̃",
+          "stress": "vɔtʁ",
           "gloss": "your",
-          "gram": "possessive, informal, masculine singular"
+          "gram": "possessive, polite address; singular mari"
         },
         {
           "t": "mari?",
@@ -1156,7 +1162,9 @@
           "gloss": "husband",
           "gram": "masculine singular"
         }
-      ]
+      ],
+      "seg": 21,
+      "trans": "And your husband?"
     },
     {
       "seg": 23,
@@ -1253,24 +1261,22 @@
       ]
     },
     {
-      "seg": 25,
-      "trans": "Are you losing your voice?",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to one person"
         },
         {
-          "t": "perds",
+          "t": "perdez",
           "lemma": "perdre",
           "pos": "verb",
-          "stress": "pɛʁ",
+          "stress": "pɛʁde",
           "gloss": "are losing",
-          "gram": "present, 2nd person singular"
+          "gram": "present, polite/plural address"
         },
         {
           "t": "la",
@@ -1288,7 +1294,9 @@
           "gloss": "voice",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 25,
+      "trans": "Are you losing your voice?"
     },
     {
       "seg": 27,
@@ -1833,8 +1841,6 @@
       ]
     },
     {
-      "seg": 45,
-      "trans": "Mathias, look, she has drawn you! She's very talented!",
       "words": [
         {
           "t": "Mathias,",
@@ -1842,15 +1848,15 @@
           "pos": "name",
           "stress": null,
           "gloss": "Mathias",
-          "gram": "first name"
+          "gram": "proper name"
         },
         {
-          "t": "regarde,",
+          "t": "regardez,",
           "lemma": "regarder",
           "pos": "verb",
-          "stress": "ʁəɡaʁd",
+          "stress": "ʁəɡaʁde",
           "gloss": "look",
-          "gram": "imperative, 2nd person singular"
+          "gram": "imperative, polite address"
         },
         {
           "t": "elle",
@@ -1858,15 +1864,23 @@
           "pos": "pron",
           "stress": "ɛl",
           "gloss": "she",
-          "gram": "subject pronoun, feminine singular; Audrey’s daughter"
+          "gram": "subject, the child"
         },
         {
-          "t": "t'a",
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address"
+        },
+        {
+          "t": "a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ta",
-          "gloss": "has ... you",
-          "gram": "te (you) + a: 3rd person singular present of avoir"
+          "stress": "a",
+          "gloss": "has",
+          "gram": "past auxiliary, present 3rd singular"
         },
         {
           "t": "dessiné!",
@@ -1874,7 +1888,7 @@
           "pos": "verb",
           "stress": "desine",
           "gloss": "drawn",
-          "gram": "past participle, masculine singular; preceding direct object te refers to Mathias"
+          "gram": "past participle"
         },
         {
           "t": "Elle",
@@ -1882,7 +1896,7 @@
           "pos": "pron",
           "stress": "ɛl",
           "gloss": "she",
-          "gram": "subject pronoun, feminine singular; Audrey’s daughter"
+          "gram": "subject, the child"
         },
         {
           "t": "est",
@@ -1890,7 +1904,7 @@
           "pos": "verb",
           "stress": "ɛ",
           "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gram": "present 3rd singular"
         },
         {
           "t": "très",
@@ -1898,21 +1912,21 @@
           "pos": "adv",
           "stress": "tʁɛ",
           "gloss": "very",
-          "gram": "invariable adverb ('très', meaning 'very')"
+          "gram": "degree"
         },
         {
           "t": "douée!",
           "lemma": "doué",
           "pos": "adj",
           "stress": "dwe",
-          "gloss": "gifted, good at it",
+          "gloss": "talented",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 45,
+      "trans": "Mathias, look, she has drawn you! She's very talented!"
     },
     {
-      "seg": 47,
-      "trans": "Hello, Audrey. Didn't you find a babysitter?",
       "words": [
         {
           "t": "Bonjour,",
@@ -1931,20 +1945,20 @@
           "gram": "proper name"
         },
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to one person"
         },
         {
-          "t": "n'as",
+          "t": "n'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "na",
+          "stress": "nave",
           "gloss": "do not have, have not",
-          "gram": "ne (not) + as: 2nd person singular present of avoir"
+          "gram": "ne + avez: present polite/plural, past auxiliary"
         },
         {
           "t": "pas",
@@ -1978,7 +1992,9 @@
           "gloss": "babysitter",
           "gram": "singular (masculine or feminine)"
         }
-      ]
+      ],
+      "seg": 47,
+      "trans": "Hello, Audrey. Didn't you find a babysitter?"
     },
     {
       "seg": 48,
@@ -2083,8 +2099,6 @@
       ]
     },
     {
-      "seg": 49,
-      "trans": "And your husband?",
       "words": [
         {
           "t": "Et",
@@ -2095,12 +2109,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "ton",
-          "lemma": "ton",
+          "t": "votre",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "tɔ̃",
+          "stress": "vɔtʁ",
           "gloss": "your",
-          "gram": "possessive, informal, masculine singular"
+          "gram": "possessive, polite address; singular mari"
         },
         {
           "t": "mari?",
@@ -2110,7 +2124,9 @@
           "gloss": "husband",
           "gram": "masculine singular"
         }
-      ]
+      ],
+      "seg": 49,
+      "trans": "And your husband?"
     },
     {
       "seg": 50,
@@ -2207,24 +2223,22 @@
       ]
     },
     {
-      "seg": 51,
-      "trans": "Are you losing your voice?",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to one person"
         },
         {
-          "t": "perds",
+          "t": "perdez",
           "lemma": "perdre",
           "pos": "verb",
-          "stress": "pɛʁ",
+          "stress": "pɛʁde",
           "gloss": "are losing",
-          "gram": "present, 2nd person singular"
+          "gram": "present, polite/plural address"
         },
         {
           "t": "la",
@@ -2242,7 +2256,9 @@
           "gloss": "voice",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 51,
+      "trans": "Are you losing your voice?"
     },
     {
       "seg": 52,
@@ -2787,8 +2803,6 @@
       ]
     },
     {
-      "seg": 61,
-      "trans": "Mathias, look, she has drawn you! She's very talented!",
       "words": [
         {
           "t": "Mathias,",
@@ -2796,15 +2810,15 @@
           "pos": "name",
           "stress": null,
           "gloss": "Mathias",
-          "gram": "first name"
+          "gram": "proper name"
         },
         {
-          "t": "regarde,",
+          "t": "regardez,",
           "lemma": "regarder",
           "pos": "verb",
-          "stress": "ʁəɡaʁd",
+          "stress": "ʁəɡaʁde",
           "gloss": "look",
-          "gram": "imperative, 2nd person singular"
+          "gram": "imperative, polite address"
         },
         {
           "t": "elle",
@@ -2812,15 +2826,23 @@
           "pos": "pron",
           "stress": "ɛl",
           "gloss": "she",
-          "gram": "subject pronoun, feminine singular; Audrey’s daughter"
+          "gram": "subject, the child"
         },
         {
-          "t": "t'a",
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address"
+        },
+        {
+          "t": "a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ta",
-          "gloss": "has ... you",
-          "gram": "te (you) + a: 3rd person singular present of avoir"
+          "stress": "a",
+          "gloss": "has",
+          "gram": "past auxiliary, present 3rd singular"
         },
         {
           "t": "dessiné!",
@@ -2828,7 +2850,7 @@
           "pos": "verb",
           "stress": "desine",
           "gloss": "drawn",
-          "gram": "past participle, masculine singular; preceding direct object te refers to Mathias"
+          "gram": "past participle"
         },
         {
           "t": "Elle",
@@ -2836,7 +2858,7 @@
           "pos": "pron",
           "stress": "ɛl",
           "gloss": "she",
-          "gram": "subject pronoun, feminine singular; Audrey’s daughter"
+          "gram": "subject, the child"
         },
         {
           "t": "est",
@@ -2844,7 +2866,7 @@
           "pos": "verb",
           "stress": "ɛ",
           "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gram": "present 3rd singular"
         },
         {
           "t": "très",
@@ -2852,17 +2874,19 @@
           "pos": "adv",
           "stress": "tʁɛ",
           "gloss": "very",
-          "gram": "invariable adverb ('très', meaning 'very')"
+          "gram": "degree"
         },
         {
           "t": "douée!",
           "lemma": "doué",
           "pos": "adj",
           "stress": "dwe",
-          "gloss": "gifted, good at it",
+          "gloss": "talented",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 61,
+      "trans": "Mathias, look, she has drawn you! She's very talented!"
     },
     {
       "seg": 63,
@@ -7971,6 +7995,100 @@
           "gloss": "maybe, perhaps"
         }
       ]
+    },
+    "vous": {
+      "lemma": "vous",
+      "stress": "vu",
+      "pos": "pron",
+      "gloss": "you (polite or plural)",
+      "meanings": [
+        {
+          "en": "you (polite)",
+          "note": "One person, formal."
+        },
+        {
+          "en": "you (plural)",
+          "note": "Several people."
+        },
+        {
+          "en": "you (object)",
+          "note": "je vous rappelle = I'll call you back"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        },
+        {
+          "text": "Je vous rappelle.",
+          "trans": "I'll call you back."
+        },
+        {
+          "text": "Il vous attend?",
+          "trans": "Is he expecting you?"
+        }
+      ],
+      "related": [
+        {
+          "word": "tu",
+          "gloss": "you (informal)"
+        }
+      ]
+    },
+    "votre": {
+      "lemma": "votre",
+      "stress": "vɔtʁ",
+      "pos": "det",
+      "gloss": "your (formal or plural)",
+      "meanings": [
+        {
+          "en": "your",
+          "note": "Polite or plural 'you'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "votre",
+              "votre"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "vos",
+              "vos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Votre nom?",
+          "trans": "Your name?"
+        },
+        {
+          "text": "Laissez vos photos ici.",
+          "trans": "Leave your photos here."
+        },
+        {
+          "text": "Laissez vos photos et votre CV ici.",
+          "trans": "Leave your photos and your CV here."
+        }
+      ],
+      "related": []
     }
   }
 }

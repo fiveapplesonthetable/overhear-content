@@ -10,33 +10,39 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'camille': 'Camille', 'hippolyte': 'Hippolyte'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "While Audrey wins her part in Mathias's office, Andréa calls Camille in for a job. Young actor Hippolyte Rivière has just landed a role in a detective series, and the production team needs childhood photos of him. Remember that Camille now knows Hippolyte is Mathias's son — her own half-brother — though Hippolyte still has no idea. Let's listen in French first, and just follow the flow."
+INTRO = ('While Audrey discusses the film with Augustin, Andréa calls Camille in for a job. Young actor Hippolyte Rivière '
+ 'has landed a role in a detective series, and the production needs childhood photos of him. Camille knows he is '
+ "Mathias's son and her own half-brother, but Hippolyte has no idea. Listen in French first.")
 OPENER = "Let's go through it line by line. Camille knocks at Andréa's door."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Camille says she's never afraid, and off they ride to the Barneville family house. See you next time!"
 CLOSING = ('camille', 'À demain!')
-STORY = [('camille', 'Vous vouliez me voir?', 'Did you want to see me?', [(422, 'Vous vouliez me voir')], ''),
+STORY = [('camille',
+  'Tu voulais me voir?',
+  'Did you want to see me?',
+  [(422, 'Vous vouliez me voir')],
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('andrea',
-  'Oui. Vous connaissez Hippolyte Rivière?',
+  'Oui. Tu connais Hippolyte Rivière?',
   'Yes. Do you know Hippolyte Rivière?',
   [(422, 'Oui. Vous connaissez Hippolyte Rivière')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('camille', 'Oui, je le connais.', 'Yes, I know him.', [(423, 'Oui')], ''),
  ('andrea',
-  'Entrez. Il a été choisi pour une série policière.',
+  'Entre. Il a été choisi pour une série policière.',
   'Come in. He has been chosen for a detective series.',
   [(423, 'Entrez'), (424, 'Il a été choisi pour une série policière')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('andrea',
   'On a besoin de photos de lui enfant.',
   'We need photos of him as a child.',
   [(425, 'On a besoin de photos de lui enfant')],
   ''),
  ('andrea',
-  'Accompagnez-le et aidez-le à choisir.',
+  'Accompagne-le et aide-le à choisir.',
   'Go with him and help him choose.',
   [(426, 'Accompagnez-le et aidez-le à choisir')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('camille', 'Quand? Lundi prochain?', 'When? Next Monday?', [(427, 'Quand'), (428, 'Lundi prochain')], ''),
  ('andrea', 'Non, Camille, maintenant!', 'No, Camille, now!', [(429, 'Non, Camille, maintenant')], ''),
  ('camille', "D'accord.", 'Okay.', [(430, "D'accord")], ''),
@@ -52,16 +58,16 @@ STORY = [('camille', 'Vous vouliez me voir?', 'Did you want to see me?', [(422, 
   'Not bad. I play a boy who has a broken heart.',
   [(434, 'Pas mal'), (434, 'Je joue'), (435, 'qui a le cœur brisé')],
   ''),
- ('hippolyte',
-  "Désolé pour tes messages. J'ai été très occupé.",
+ ('camille',
+  "Désolée pour tes messages. J'ai été très occupée.",
   "Sorry about your messages. I've been very busy.",
   [(436, 'Désolé'), (436, "tes messages. J'ai été très occupé")],
-  ''),
- ('hippolyte',
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
+ ('camille',
   "Mais c'est bon de te voir.",
   "But it's good to see you.",
   [(436, "Mais c'est bon de te voir")],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('hippolyte',
   "On y va sur mon scooter. Tu n'as pas peur?",
   "We're going on my scooter. You're not afraid?",
@@ -79,8 +85,8 @@ WALK = [(0, None, "'Did you want to see me?' She uses the past tense for 'wanted
   "'We need photos of him as a child.' This everyday expression for 'to need' literally means 'to have need of'."),
  (5,
   None,
-  "'Go with him and help him choose.' Andréa gives two polite commands, each with the word for 'him' joined to "
-  'the action word by a hyphen.'),
+  "'Go with him and help him choose.' Andréa gives two casual commands to Camille. Each action is followed by a "
+  'joined object meaning him, referring to Hippolyte.'),
  (6, None, "'When? Next Monday?' In French, 'next' comes after the day of the week."),
  (7,
   None,
@@ -102,12 +108,12 @@ WALK = [(0, None, "'Did you want to see me?' She uses the past tense for 'wanted
  (12, None, "'Not bad. I play a boy who has a broken heart.' Literally 'the broken heart'."),
  (13,
   None,
-  "'Sorry about your messages. I've been very busy.' He switches to the casual 'your' with her, as he has since "
-  'they met.'),
+  "'Sorry about your messages. I've been very busy.' Camille apologises to Hippolyte. The two descriptions take "
+  'feminine written endings because she is the person who has been busy and is apologising.'),
  (14,
   None,
-  "'But it's good to see you.' The short object for 'you' sits before 'see'. It is the casual form for one "
-  'person, showing how differently Hippolyte and Andréa address Camille.'),
+  "'But it's good to see you.' Camille follows her apology with a warmer remark. The object meaning you goes "
+  'before the plain action meaning see.'),
  (15,
   'On y va sur mon scooter.',
   "'We're going on my scooter.' The short place word before 'go' is part of a very common expression for setting "
