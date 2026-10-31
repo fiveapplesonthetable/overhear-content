@@ -20,10 +20,10 @@ OUTRO = ('You have heard a polite order to a waiter and a familiar conversation 
  'well. The word for you changes with the person being addressed. See you next time.')
 CLOSING = ('camille', 'Salut, Mathias!')
 STORY = [('mathias',
-  'Bonjour, Camille. Entrez.',
-  'Hello, Camille. Come in.',
+  'Bonjour, Camille. Venez.',
+  'Hello, Camille. Come along.',
   [(123, 'Bonjour, Camille'), (124, 'Entrez')],
-  ''),
+  'Actual French audio says Venez; sidecar supplies the scene locator.'),
  ('mathias', "Un café, s'il vous plaît.", 'A coffee, please.', [(125, "Un café, s'il vous plaît")], ''),
  ('camille', 'Un thé.', 'Tea.', [(126, 'Un thé ?')], 'Order punctuated as a short statement.'),
  ('mathias',
@@ -92,9 +92,9 @@ WALK = [(0,
   "'Hello, Camille.' A greeting followed directly by someone's name is enough to welcome them. Mathias keeps "
   'his tone reserved.'),
  (0,
-  'Entrez.',
-  "'Come in.' This command is in the formal form, as if she were a stranger. Remember that, because it won't "
-  'last.'),
+  'Venez.',
+  "'Come along.' The instruction uses the polite form of 'come'. In front of the agency staff, Mathias keeps "
+  'his greeting formal.'),
  (1,
   None,
   "'A coffee, please.' The last part literally means 'if it pleases you', with the formal 'you'; it's the "

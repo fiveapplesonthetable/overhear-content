@@ -66,28 +66,6 @@
     },
     {
       "seg": 2,
-      "trans": "Not now!",
-      "words": [
-        {
-          "t": "Pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "maintenant!",
-          "lemma": "maintenant",
-          "pos": "adv",
-          "stress": "mɛ̃tnɑ̃",
-          "gloss": "now",
-          "gram": "adverb of time"
-        }
-      ]
-    },
-    {
-      "seg": 3,
       "trans": "Herve! Herve!",
       "words": [
         {
@@ -109,7 +87,7 @@
       ]
     },
     {
-      "seg": 4,
+      "seg": 3,
       "trans": "Oh! Hello, Cécile.",
       "words": [
         {
@@ -139,7 +117,7 @@
       ]
     },
     {
-      "seg": 5,
+      "seg": 4,
       "trans": "Do I still have an agent here?",
       "words": [
         {
@@ -185,7 +163,7 @@
       ]
     },
     {
-      "seg": 6,
+      "seg": 5,
       "trans": "Yes, why?",
       "words": [
         {
@@ -207,7 +185,7 @@
       ]
     },
     {
-      "seg": 7,
+      "seg": 6,
       "trans": "Maybe it's all in my head.",
       "words": [
         {
@@ -253,7 +231,7 @@
       ]
     },
     {
-      "seg": 8,
+      "seg": 7,
       "trans": "But I have the feeling Gabriel is avoiding me.",
       "words": [
         {
@@ -307,7 +285,7 @@
       ]
     },
     {
-      "seg": 9,
+      "seg": 8,
       "trans": "It's one o'clock. I'm going to lunch.",
       "words": [
         {
@@ -369,7 +347,7 @@
       ]
     },
     {
-      "seg": 10,
+      "seg": 9,
       "trans": "Sofia, do you want to come with me?",
       "words": [
         {
@@ -423,17 +401,7 @@
       ]
     },
     {
-      "seg": 11,
-      "trans": "Gabriel? What's going on here?",
       "words": [
-        {
-          "t": "Gabriel?",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        },
         {
           "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
@@ -474,10 +442,12 @@
           "gloss": "here",
           "gram": "adverb of place"
         }
-      ]
+      ],
+      "trans": "What's going on here?",
+      "seg": 10
     },
     {
-      "seg": 12,
+      "seg": 11,
       "trans": "I'm sorry. I have to answer; it's urgent.",
       "words": [
         {
@@ -547,7 +517,7 @@
       ]
     },
     {
-      "seg": 13,
+      "seg": 12,
       "trans": "Yes, hello? I've been waiting for your call for months!",
       "words": [
         {
@@ -633,7 +603,7 @@
       ]
     },
     {
-      "seg": 14,
+      "seg": 13,
       "trans": "An urgent call? Really?",
       "words": [
         {
@@ -672,106 +642,6 @@
     },
     {
       "seg": 15,
-      "trans": "He has a lot of work, Cécile.",
-      "words": [
-        {
-          "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "third person masculine singular subject"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third person singular"
-        },
-        {
-          "t": "beaucoup",
-          "lemma": "beaucoup",
-          "pos": "adv",
-          "stress": "boku",
-          "gloss": "a lot (of)",
-          "gram": "adverb, beaucoup de = a lot of"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "travail,",
-          "lemma": "travail",
-          "pos": "noun",
-          "stress": "tʁavaj",
-          "gloss": "work",
-          "gram": "masculine singular, after au"
-        },
-        {
-          "t": "Cécile.",
-          "lemma": "cécile",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Cécile (de France)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
-      "seg": 16,
-      "trans": "Fine. Then I'll wait.",
-      "words": [
-        {
-          "t": "Bon.",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔ̃",
-          "gloss": "right, okay",
-          "gram": "discourse marker, moving on"
-        },
-        {
-          "t": "Alors,",
-          "lemma": "alors",
-          "pos": "adv",
-          "stress": "alɔʁ",
-          "gloss": "then",
-          "gram": "invariable adverb ('alors', meaning 'then')"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "vais",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "vɛ",
-          "gloss": "am going (to)",
-          "gram": "present, 1st person singular; aller + infinitive = near future"
-        },
-        {
-          "t": "attendre.",
-          "lemma": "attendre",
-          "pos": "verb",
-          "stress": "atɑ̃dʁ",
-          "gloss": "wait",
-          "gram": "infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 18,
       "trans": "I'm here to see Gabriel.",
       "words": [
         {
@@ -825,29 +695,7 @@
       ]
     },
     {
-      "seg": 20,
-      "trans": "Not now!",
-      "words": [
-        {
-          "t": "Pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "maintenant!",
-          "lemma": "maintenant",
-          "pos": "adv",
-          "stress": "mɛ̃tnɑ̃",
-          "gloss": "now",
-          "gram": "adverb of time"
-        }
-      ]
-    },
-    {
-      "seg": 22,
+      "seg": 17,
       "trans": "Herve! Herve!",
       "words": [
         {
@@ -869,7 +717,7 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 19,
       "trans": "Oh! Hello, Cécile.",
       "words": [
         {
@@ -899,7 +747,7 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 21,
       "trans": "Do I still have an agent here?",
       "words": [
         {
@@ -945,7 +793,7 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 23,
       "trans": "Yes, why?",
       "words": [
         {
@@ -967,7 +815,7 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 25,
       "trans": "Maybe it's all in my head.",
       "words": [
         {
@@ -1013,7 +861,7 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 27,
       "trans": "But I have the feeling Gabriel is avoiding me.",
       "words": [
         {
@@ -1067,7 +915,7 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 29,
       "trans": "It's one o'clock.",
       "words": [
         {
@@ -1105,7 +953,7 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 31,
       "trans": "I'm going to lunch.",
       "words": [
         {
@@ -1135,7 +983,7 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 33,
       "trans": "Sofia, do you want to come with me?",
       "words": [
         {
@@ -1189,17 +1037,7 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "Gabriel? What's going on here?",
       "words": [
-        {
-          "t": "Gabriel?",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        },
         {
           "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
@@ -1240,10 +1078,12 @@
           "gloss": "here",
           "gram": "adverb of place"
         }
-      ]
+      ],
+      "trans": "What's going on here?",
+      "seg": 35
     },
     {
-      "seg": 42,
+      "seg": 37,
       "trans": "I'm sorry.",
       "words": [
         {
@@ -1273,7 +1113,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 39,
       "trans": "I have to answer, it's urgent.",
       "words": [
         {
@@ -1319,7 +1159,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 41,
       "trans": "Yes, hello?",
       "words": [
         {
@@ -1341,7 +1181,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 43,
       "trans": "I've been waiting for your call for months!",
       "words": [
         {
@@ -1411,7 +1251,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 45,
       "trans": "An urgent call? Really?",
       "words": [
         {
@@ -1449,107 +1289,7 @@
       ]
     },
     {
-      "seg": 52,
-      "trans": "He has a lot of work, Cécile.",
-      "words": [
-        {
-          "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "third person masculine singular subject"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third person singular"
-        },
-        {
-          "t": "beaucoup",
-          "lemma": "beaucoup",
-          "pos": "adv",
-          "stress": "boku",
-          "gloss": "a lot (of)",
-          "gram": "adverb, beaucoup de = a lot of"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "travail,",
-          "lemma": "travail",
-          "pos": "noun",
-          "stress": "tʁavaj",
-          "gloss": "work",
-          "gram": "masculine singular, after au"
-        },
-        {
-          "t": "Cécile.",
-          "lemma": "cécile",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Cécile (de France)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
-      "seg": 54,
-      "trans": "Fine. Then I'll wait.",
-      "words": [
-        {
-          "t": "Bon.",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔ̃",
-          "gloss": "right, okay",
-          "gram": "discourse marker, moving on"
-        },
-        {
-          "t": "Alors,",
-          "lemma": "alors",
-          "pos": "adv",
-          "stress": "alɔʁ",
-          "gloss": "then",
-          "gram": "invariable adverb ('alors', meaning 'then')"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "vais",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "vɛ",
-          "gloss": "am going (to)",
-          "gram": "present, 1st person singular; aller + infinitive = near future"
-        },
-        {
-          "t": "attendre.",
-          "lemma": "attendre",
-          "pos": "verb",
-          "stress": "atɑ̃dʁ",
-          "gloss": "wait",
-          "gram": "infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 56,
+      "seg": 47,
       "trans": "Hello. I'm here to see Gabriel.",
       "words": [
         {
@@ -1611,29 +1351,7 @@
       ]
     },
     {
-      "seg": 57,
-      "trans": "Not now!",
-      "words": [
-        {
-          "t": "Pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "maintenant!",
-          "lemma": "maintenant",
-          "pos": "adv",
-          "stress": "mɛ̃tnɑ̃",
-          "gloss": "now",
-          "gram": "adverb of time"
-        }
-      ]
-    },
-    {
-      "seg": 58,
+      "seg": 48,
       "trans": "Herve! Herve!",
       "words": [
         {
@@ -1655,7 +1373,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 49,
       "trans": "Oh! Hello, Cécile.",
       "words": [
         {
@@ -1685,7 +1403,7 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 50,
       "trans": "Do I still have an agent here?",
       "words": [
         {
@@ -1731,7 +1449,7 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 51,
       "trans": "Yes, why?",
       "words": [
         {
@@ -1753,7 +1471,7 @@
       ]
     },
     {
-      "seg": 62,
+      "seg": 52,
       "trans": "Maybe it's all in my head.",
       "words": [
         {
@@ -1799,7 +1517,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 53,
       "trans": "But I have the feeling Gabriel is avoiding me.",
       "words": [
         {
@@ -1853,7 +1571,7 @@
       ]
     },
     {
-      "seg": 64,
+      "seg": 54,
       "trans": "It's one o'clock. I'm going to lunch.",
       "words": [
         {
@@ -1915,7 +1633,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 55,
       "trans": "Sofia, do you want to come with me?",
       "words": [
         {
@@ -1969,17 +1687,7 @@
       ]
     },
     {
-      "seg": 66,
-      "trans": "Gabriel? What's going on here?",
       "words": [
-        {
-          "t": "Gabriel?",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        },
         {
           "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
@@ -2020,10 +1728,12 @@
           "gloss": "here",
           "gram": "adverb of place"
         }
-      ]
+      ],
+      "trans": "What's going on here?",
+      "seg": 56
     },
     {
-      "seg": 67,
+      "seg": 57,
       "trans": "I'm sorry. I have to answer; it's urgent.",
       "words": [
         {
@@ -2093,7 +1803,7 @@
       ]
     },
     {
-      "seg": 68,
+      "seg": 58,
       "trans": "Yes, hello? I've been waiting for your call for months!",
       "words": [
         {
@@ -2179,7 +1889,7 @@
       ]
     },
     {
-      "seg": 69,
+      "seg": 59,
       "trans": "An urgent call? Really?",
       "words": [
         {
@@ -2217,107 +1927,7 @@
       ]
     },
     {
-      "seg": 70,
-      "trans": "He has a lot of work, Cécile.",
-      "words": [
-        {
-          "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "third person masculine singular subject"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third person singular"
-        },
-        {
-          "t": "beaucoup",
-          "lemma": "beaucoup",
-          "pos": "adv",
-          "stress": "boku",
-          "gloss": "a lot (of)",
-          "gram": "adverb, beaucoup de = a lot of"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "travail,",
-          "lemma": "travail",
-          "pos": "noun",
-          "stress": "tʁavaj",
-          "gloss": "work",
-          "gram": "masculine singular, after au"
-        },
-        {
-          "t": "Cécile.",
-          "lemma": "cécile",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Cécile (de France)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
-      "seg": 71,
-      "trans": "Fine. Then I'll wait.",
-      "words": [
-        {
-          "t": "Bon.",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔ̃",
-          "gloss": "right, okay",
-          "gram": "discourse marker, moving on"
-        },
-        {
-          "t": "Alors,",
-          "lemma": "alors",
-          "pos": "adv",
-          "stress": "alɔʁ",
-          "gloss": "then",
-          "gram": "invariable adverb ('alors', meaning 'then')"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "vais",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "vɛ",
-          "gloss": "am going (to)",
-          "gram": "present, 1st person singular; aller + infinitive = near future"
-        },
-        {
-          "t": "attendre.",
-          "lemma": "attendre",
-          "pos": "verb",
-          "stress": "atɑ̃dʁ",
-          "gloss": "wait",
-          "gram": "infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 73,
+      "seg": 61,
       "trans": "See you later!",
       "words": [
         {
@@ -2620,44 +2230,6 @@
         {
           "word": "allô",
           "gloss": "hello"
-        }
-      ]
-    },
-    "alors": {
-      "lemma": "alors",
-      "stress": "alɔʁ",
-      "pos": "adv",
-      "gloss": "then, so",
-      "meanings": [
-        {
-          "en": "then, in that case",
-          "note": "Jeudi, alors."
-        },
-        {
-          "en": "so",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Jeudi, alors.",
-          "trans": "Thursday, then."
-        },
-        {
-          "text": "Alors, tu viens?",
-          "trans": "So, are you coming?"
-        }
-      ],
-      "related": [
-        {
-          "word": "alors que",
-          "gloss": "whereas, while"
-        },
-        {
-          "word": "donc",
-          "gloss": "so, therefore"
         }
       ]
     },
@@ -3111,105 +2683,6 @@
         }
       ]
     },
-    "beaucoup": {
-      "lemma": "beaucoup",
-      "stress": "boku",
-      "pos": "adv",
-      "gloss": "a lot, many, much",
-      "meanings": [
-        {
-          "en": "a lot, very much",
-          "note": "beaucoup de + noun, with no article: beaucoup de travail"
-        },
-        {
-          "en": "beaucoup de = a lot of, many",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu connais beaucoup de monde.",
-          "trans": "You know a lot of people."
-        },
-        {
-          "text": "Merci beaucoup!",
-          "trans": "Thank you very much!"
-        }
-      ],
-      "related": [
-        {
-          "word": "peu",
-          "gloss": "little, few"
-        },
-        {
-          "word": "énormément",
-          "gloss": "enormously"
-        }
-      ]
-    },
-    "bon": {
-      "lemma": "bon",
-      "stress": "bɔ̃",
-      "pos": "adj",
-      "gloss": "good",
-      "meanings": [
-        {
-          "en": "good",
-          "note": "as an interjection: bon, alors... = right, so..."
-        },
-        {
-          "en": "well, okay, right",
-          "note": "as an interjection: bon, alors... = right, so..."
-        },
-        {
-          "en": "bonne journée = have a nice day",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "bon",
-              "bonne"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "bons",
-              "bonnes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bon. Alors, je vais attendre.",
-          "trans": "Fine. Then I'll wait."
-        },
-        {
-          "text": "Bonne journée!",
-          "trans": "Have a nice day!"
-        }
-      ],
-      "related": [
-        {
-          "word": "as an interjection: bon, alors...",
-          "gloss": "right, so..."
-        }
-      ]
-    },
     "bonjour": {
       "lemma": "bonjour",
       "stress": "bɔ̃ʒuʁ",
@@ -3279,48 +2752,6 @@
         {
           "word": "danseur",
           "gloss": "dancer"
-        }
-      ]
-    },
-    "de": {
-      "lemma": "de",
-      "stress": "də",
-      "pos": "prep",
-      "gloss": "of, from; some",
-      "meanings": [
-        {
-          "en": "of, from",
-          "note": "D' before a vowel."
-        },
-        {
-          "en": "'s (possession)",
-          "note": "le film de Tarantino = Tarantino's film"
-        },
-        {
-          "en": "du = de + le",
-          "note": "Also 'some': du sucre."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le film de Kechiche.",
-          "trans": "The Kechiche film."
-        },
-        {
-          "text": "C'est du sucre.",
-          "trans": "It's sugar."
-        }
-      ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "de + le"
-        },
-        {
-          "word": "des",
-          "gloss": "de + les"
         }
       ]
     },
@@ -4143,31 +3574,6 @@
         }
       ]
     },
-    "maintenant": {
-      "lemma": "maintenant",
-      "stress": "mɛ̃tnɑ̃",
-      "pos": "adv",
-      "gloss": "now",
-      "meanings": [
-        {
-          "en": "now",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu peux commencer maintenant?",
-          "trans": "Can you start now?"
-        },
-        {
-          "text": "Je pars maintenant.",
-          "trans": "I'm leaving now."
-        }
-      ],
-      "related": []
-    },
     "mais": {
       "lemma": "mais",
       "stress": "mɛ",
@@ -4385,36 +3791,6 @@
         {
           "word": "si",
           "gloss": "yes (contradicting a negative)"
-        }
-      ]
-    },
-    "pas": {
-      "lemma": "pas",
-      "stress": "pa",
-      "pos": "part",
-      "gloss": "not",
-      "meanings": [
-        {
-          "en": "not",
-          "note": "second half of ne... pas; in speech ne is often dropped"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je ne suis pas actrice.",
-          "trans": "I'm not an actress."
-        },
-        {
-          "text": "Pas maintenant.",
-          "trans": "Not now."
-        }
-      ],
-      "related": [
-        {
-          "word": "pas",
-          "gloss": "not"
         }
       ]
     },
@@ -5048,53 +4424,6 @@
         {
           "text": "Tout va bien.",
           "trans": "Everything is going well."
-        }
-      ],
-      "related": []
-    },
-    "travail": {
-      "lemma": "travail",
-      "stress": "tʁavaj",
-      "pos": "noun",
-      "gloss": "work, job",
-      "gender": "m",
-      "plural": "travaux",
-      "meanings": [
-        {
-          "en": "work, job",
-          "note": "Un travail = a job."
-        },
-        {
-          "en": "au travail! = let's get to work!",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le travail",
-              "les travaux"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Allez, au travail!",
-          "trans": "Come on, back to work!"
-        },
-        {
-          "text": "Je cherche du travail.",
-          "trans": "I'm looking for work."
         }
       ],
       "related": []

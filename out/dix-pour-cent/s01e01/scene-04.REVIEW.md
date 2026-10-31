@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Mathias | Bonjour, Camille. Entrez. | Hello, Camille. Come in. | #123 00:07:44: Bonjour, Camille<br>#124 00:07:47: Entrez | verbatim |
+| 1 | Mathias | Bonjour, Camille. Venez. | Hello, Camille. Come along. | #123 00:07:44: Bonjour, Camille<br>#124 00:07:47: Entrez | adapted: Actual French audio says Venez; sidecar supplies the scene locator. |
 | 2 | Mathias | Un café, s'il vous plaît. | A coffee, please. | #125 00:07:56: Un café, s'il vous plaît | verbatim |
 | 3 | Camille | Un thé. | Tea. | #126 00:07:58: Un thé ? | adapted: Order punctuated as a short statement. |
 | 4 | Mathias | Pourquoi tu n'as pas appelé? | Why didn't you call? | #128 00:08:05: Pourquoi tu n'as pas appelé ? | verbatim |
@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello, Camille.' A greeting followed directly by someone's name is enough to welcome them. Mathias keeps his tone reserved.
-- 'Come in.' This command is in the formal form, as if she were a stranger. Remember that, because it won't last.
+- 'Come along.' The instruction uses the polite form of 'come'. In front of the agency staff, Mathias keeps his greeting formal.
 - 'A coffee, please.' The last part literally means 'if it pleases you', with the formal 'you'; it's the standard way to say please to anyone you don't know.
 - 'Tea.' Camille names her drink in one short group. The little word before it means 'a', as in Mathias's coffee order. A complete sentence is unnecessary when the waiter is taking an order.
 - 'Why didn't you call?' The question begins with 'why'. Mathias has switched to the familiar 'you', and the two little negatives surround the helping verb meaning 'have'.
