@@ -30,6 +30,8 @@ for i,seg in enumerate(s['segments']):
  if seg['v']=='narrator':continue
  words=[]
  for token in seg['t'].split():
-  k=re.sub(r'[^\wà-ÿ]','',token.lower());lemma,g,gram=W[k];x=L[lemma];words.append({'t':token,'lemma':lemma,'pos':x['pos'],'stress':ipa.get(k,x['stress']),'gloss':g,'gram':gram})
+  k=re.sub(r'[^\wà-ÿ]','',token.lower());lemma,g,gram=W[k];x=L[lemma]
+  if k=='não' and seg['t']=='Você não vai pra reunião?':gram='negative adverb in a confirmation question'
+  words.append({'t':token,'lemma':lemma,'pos':x['pos'],'stress':ipa.get(k,x['stress']),'gloss':g,'gram':gram})
  lines.append({'seg':i,'trans':trans[seg['t']],'words':words})
 (E/'scene-01.notes.json').write_text(json.dumps({'schemaVersion':1,'id':a.ID,'lines':lines,'lexicon':L},ensure_ascii=False,indent=2)+'\n');(R/'dictionary/pt-en.json').write_text(json.dumps({'schemaVersion':1,'pair':'pt-en','entries':L},ensure_ascii=False,indent=2)+'\n');print(len(L),'lemmas;',len(lines),'native segments')
