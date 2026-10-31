@@ -15,8 +15,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Camille | Et l'agence? Le rachat de l'agence? | And the agency? The buyout of the agency? | #203 00:12:03: rachat<br>#203 00:12:03: Le rachat. | verbatim |
 | 4 | Camille | Après ce qui s'est passé avec ta femme, ça change quelque chose? | After what happened with your wife, does that change anything? | #204 00:12:05: Après ce qui s'est passé... avec ta femme...<br>#205 00:12:09: ça change quelque chose ? | verbatim |
 | 5 | Mathias | Écoute, je gère, d'accord? | Listen, I am handling it, okay? | #206 00:12:10: Écoute, je gère, d'accord ? | verbatim |
-| 6 | Camille | Tu vas rester là longtemps? | Are you going to stay standing there for a long time? | #208 00:12:20: Tu vas rester là longtemps ? | verbatim |
-| 7 | Mathias | Je ne sais pas. | I do not know. | #208 00:12:20: Je sais pas. | verbatim |
+| 6 | Mathias | Tu vas rester là longtemps? | Are you going to stay standing there for a long time? | #208 00:12:20: Tu vas rester là longtemps ? | verbatim |
+| 7 | Camille | Je ne sais pas. | I do not know. | #208 00:12:20: Je sais pas. | verbatim |
 | 8 | Camille | Si je n'avais pas déménagé à Paris... | If I had not moved to Paris, | #209 00:12:26: Si j'avais pas déménagé à Paris... | verbatim |
 | 9 | Camille | Et si je n'étais pas venue te voir ici... | And if I had not come to see you here, | #210 00:12:29: et si j'étais pas venu te voir ici... | verbatim |
 | 10 | Camille | Tu rachèterais l'agence et ta famille serait heureuse. | You would buy the agency and your family would be happy. | #211 00:12:32: tu rachèterais l'agence et ta famille serait heureuse. | verbatim |
@@ -34,8 +34,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And the agency? The buyout of the agency?' The first word moves on to another subject: 'and'. The repeated agency is followed by a noun meaning a buyout or purchase.
 - 'After what happened with your wife, does that change anything?' The opening looks back at what happened. The last two words literally mean 'some thing'; in this question they amount to 'anything'.
 - 'Listen, I am handling it, okay?' The first word asks her to listen. The action after 'I' means 'manage' or 'handle'; the final check asks her to accept his answer.
-- 'Are you going to stay standing there for a long time?' The opening predicts what the other person is going to do. The final word means 'for a long time', so she is asking about the duration.
-- 'I do not know.' The two negative words surround 'know'. This is a short complete answer: he does not know how long.
+- 'Are you going to stay standing there for a long time?' The opening predicts what the other person is going to do. The final word means 'for a long time'. Mathias asks how long Camille will stay there.
+- 'I do not know.' The two negative words surround 'know'. This short complete answer belongs to Camille: she does not know what she will do next.
 - 'If I had not moved to Paris,' The beginning sets up something that did not happen: 'if I had not moved'. The location is Paris, where Camille now regrets moving.
 - 'And if I had not come to see you here,' A second 'if' adds coming to see him. The feminine ending of the completed arrival word belongs to Camille, the person speaking.
 - 'You would buy the agency and your family would be happy.' Both actions describe an imagined result, 'would buy' and 'would be'. The final feminine word for happy describes the family.

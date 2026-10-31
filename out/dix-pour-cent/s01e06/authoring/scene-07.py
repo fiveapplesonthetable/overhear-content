@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'christophe_bel': 'Christophe Bel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
-INTRO = ('At the theatre rehearsal hall, Andréa meets young avant-garde director Christophe Bel. François Berléand refuses to '
- 'act in the swimming pool, but Christophe insists that the pool and his giant yellow duck are essential to his '
- "artistic vision. Let's listen to their confrontation in French first.")
+INTRO = ("At Andréa's office in the talent agency, young director Christophe Bel argues for his staging of Dom Juan. François "
+ 'Berléand refuses to act in the swimming pool. Christophe explains why the inflatable duck matters to him, but Andréa '
+ 'insists on a compromise. Listen first in French.')
 OPENER = "Let's examine how Andréa defends her star client against a stubborn director."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Andréa made her point clearly: a young director cannot push around an established star like François Berléand. See you next time!'

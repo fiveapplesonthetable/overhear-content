@@ -7,17 +7,17 @@ SCENE = 9
 TITLE = 'Le coup de poing  (The Punch)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'francois': 'François', 'christophe_bel': 'Christophe Bel'}
+LABELS = {'christophe_bel': 'Christophe Bel', 'francois': 'François'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
-INTRO = ('Back at the theatre rehearsal hall, the pool staging of Dom Juan turns into a total disaster. Director Christophe '
- 'Bel insists that François Berléand stand right at the edge of the water. Insults fly, tensions explode, and François '
- "does the unthinkable. Let's listen to the scene in French first.")
+INTRO = ('At the theatre rehearsal, Christophe Bel keeps asking François Berléand to move closer to the swimming pool. The '
+ "argument escalates, and the director knocks François into the water. His apology will not prevent the actor's "
+ 'furious response. Listen first in French.')
 OPENER = "Let's break down this dramatic escalation line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('Rehearsals have broken down, and the argument has ended in a punch. Andréa now faces the job of rescuing the '
  'production. See you next time.')
-CLOSING = ('andrea', 'Au revoir!')
+CLOSING = ('christophe_bel', 'Au revoir!')
 STORY = [('christophe_bel',
   "Depuis le début. Et plus près de l'eau.",
   'From the beginning. And closer to the water.',
@@ -63,14 +63,13 @@ STORY = [('christophe_bel',
   'You are explaining to me what theatre is? I am listening!',
   [(247, "Vous m'expliquez ce qu'est le théâtre ? Très bien, j'écoute !")],
   ''),
- ('andrea', "Christophe, s'il te plaît, calme-toi.", 'Christophe, please, calm down.', [(248, 'Christophe.')], ''),
  ('christophe_bel',
   "Je porte ce projet depuis des mois! Personne ne fait d'effort!",
   'I have been carrying this project for months! Nobody makes an effort!',
   [(252, 'Je porte ce projet depuis des mois !'), (253, "Personne ne fait d'effort !")],
   ''),
  ('christophe_bel', 'Au secours! François?', 'Help! François?', [(255, 'Au secours ! François ?')], ''),
- ('francois',
+ ('christophe_bel',
   "Je suis désolé. Je ne l'ai pas fait exprès.",
   'I am sorry. I did not do it on purpose.',
   [(258, 'Je suis désolé.'), (259, "Je ne l'ai pas fait exprès.")],
@@ -113,17 +112,13 @@ WALK = [(0,
   "The final one-word reply includes 'I' attached to 'listen' and signals a sarcastic challenge."),
  (9,
   None,
-  "'Christophe, please, calm down.' The final hyphenated command joins the calming action to 'yourself'. Andréa is "
-  'asking Christophe to calm himself, rather than someone else.'),
- (10,
-  None,
   "'I have been carrying this project for months! Nobody makes an effort!' The time words after 'this project' mean "
   "'for months'. The second sentence uses the word for 'nobody' to deny that anyone makes an effort."),
- (11,
+ (10,
   None,
   "'Help! François?' The opening is a fixed cry for help. It literally mentions rescue, but works as the ordinary "
   "English 'help!'."),
- (12,
+ (11,
   None,
-  "'I am sorry. I did not do it on purpose.' The opening describes François as sorry. In the second sentence, the last "
-  "word means 'on purpose', which he denies with the two negative words.")]
+  "'I am sorry. I did not do it on purpose.' The director has knocked François into the pool and now apologizes. The "
+  "last word means 'on purpose', which he denies with the two negative words.")]
