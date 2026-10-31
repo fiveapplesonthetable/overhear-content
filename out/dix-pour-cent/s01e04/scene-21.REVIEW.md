@@ -20,11 +20,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Audrey | Dis bonjour à Mathias. Mais c'est quoi ces bêtises? | Say hello to Mathias. Hey, what is this nonsense? | #561 00:33:26: Dis bonjour à Mathias<br>#563 00:33:29: C'est quoi ces bêtises | verbatim |
 | 9 | Audrey | Elle sent que je pars. Les enfants sont comme des éponges. | She senses that I'm leaving. Children are like sponges. | #564 00:33:35: Elle sent que je pars. Les enfants sont comme des éponges | verbatim |
 | 10 | Mathias | J'ai apporté cinq exemplaires des contrats. | I've brought five copies of the contracts. | #565 00:33:38: J'ai apporté cinq exemplaires des contrats | verbatim |
-| 11 | Audrey | Attends une seconde. C'est un questionnaire pour la nounou. | Wait a second. This is a questionnaire for the nanny. | #566 00:33:41: Attends une seconde<br>#567 00:33:44: C'est pour la nounou | verbatim |
+| 11 | Audrey | Attendez une seconde. C'est un questionnaire pour la nounou. | Wait a second. This is a questionnaire for the nanny. | #566 00:33:41: Attends une seconde<br>#567 00:33:44: C'est pour la nounou | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 12 | Mathias | Avez-vous un problème avec l'alcool, le Coca-Cola, les bonbons? | Do you have a problem with alcohol, Coca-Cola, sweets? | #568 00:33:50: un problème avec<br>#568 00:33:50: l'alcool, le Coca-Cola, les bonbons | verbatim |
 | 13 | Mathias | Quoi? Les bonbons? | What? Sweets? | #568 00:33:50: les bonbons<br>#568 00:33:50: Quoi | verbatim |
 | 14 | Audrey | Le sucre est très mauvais! J'ai vu un documentaire. | Sugar is very bad! I saw a documentary. | #569 00:33:56: Le sucre est<br>#570 00:33:58: J'ai vu un documentaire | verbatim |
-| 15 | Audrey | Dis-moi ce que tu en penses. | Tell me what you think of it. | #571 00:34:01: Dis-moi ce que tu en penses | verbatim |
+| 15 | Audrey | Dites-moi ce que vous en pensez. | Tell me what you think of it. | #571 00:34:01: Dis-moi ce que tu en penses | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,10 +40,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hey, what is this nonsense?' The last word means 'silly things' or 'nonsense'.
 - 'She senses that I'm leaving. Children are like sponges.' The word for 'like' introduces a comparison. Audrey compares children absorbing emotions with sponges absorbing water.
 - 'I've brought five copies of the contracts.' The word for copies is a noun here. The short combined word before contracts means 'of the', linking the copies to those documents.
-- 'Wait a second. This is a questionnaire for the nanny.' The opening uses a casual command from 'wait', followed by a small amount of time. Audrey interrupts the business discussion for another request.
+- 'Wait a second. This is a questionnaire for the nanny.' Audrey interrupts the contract discussion with a polite request for a brief pause. The last phrase names the person she hopes to hire.
 - 'Do you have a problem with alcohol, Coca-Cola, sweets?' The order of 'have' and 'you' is reversed to make a formal written question. Mathias is reading the nanny questionnaire aloud.
 - 'What? Sweets?' Repeating the surprising item is enough to question it. The French word is plural here; English can call the same food 'sweets' or 'candy'.
 - 'Sugar is very bad! I saw a documentary.' Audrey uses 'I have seen' to describe a completed past viewing. The past form of 'see' sounds very different from the present 'I see'.
-- 'Tell me what you think of it.' Literally 'tell me that which you think of it'. Let's listen to the whole scene again without stopping.
-
-Primary-video check: private original E04 MP4id1619500213. Class with a female instructor, then Audrey practises at home; Mathias visits her HOME after the practice mishap, not the studio. Omitted trainer’s exercise question and slippery warning rather than assign them to Audrey. Original French audio audit pending.
+- 'Tell me what you think of it.' Audrey asks Mathias for his opinion using polite address. The short object before thinking refers back to the questionnaire.
