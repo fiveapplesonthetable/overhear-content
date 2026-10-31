@@ -43,3 +43,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She told you she liked them? Really?' The short word before 'liked' means 'them', referring to the videos. French puts this object before the action, where English puts it afterwards.
 
 Original French audio audit: source-full-e04.wav, unprompted full-episode large-v3-turbo ASR e04-full-original row. Corrected inherited backtranslated register/speaker mismatches; ordinary shortening/paraphrase remains a learner adaptation.
+
+Art: built-in imagegen, house-style reference art/style/fr-01-agence.webp; prompt Mathias discusses the script with Augustin alone at an agency office desk; no invented assistant or coffee service. Flat rounded shapes, canonical character styling, no text/logos/actor likeness. Generated result inspected and saved1024squareWebP.
