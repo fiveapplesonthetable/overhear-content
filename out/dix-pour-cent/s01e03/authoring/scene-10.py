@@ -104,7 +104,7 @@ WALK = [(0, 'Quoi?', "'What?' Short and blunt, the everyday way to react to a su
   "refers to Laura's mother and loses its vowel before the action."),
  (9,
   None,
-  "'But I cannot stay with her on a boat!' After 'with', French uses the full form meaning 'her'. It happens "
+  "'But I cannot stay with her on a boat!' After the preposition, French uses the full pronoun to identify Laura's mother. It happens "
   "to look the same as the subject word for 'she'."),
  (10, 'Attends.', "'Wait.' Gabriel gives a casual command you'll hear all the time."),
  (10,
