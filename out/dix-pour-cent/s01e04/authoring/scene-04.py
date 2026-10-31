@@ -7,23 +7,21 @@ SCENE = 4
 TITLE = "Le film d'Augustin  (Augustin's Film)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'augustin': 'Augustin', 'mathias': 'Mathias', 'noemie': 'Noémie'}
+LABELS = {'augustin': 'Augustin', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = ('Mathias is meeting Augustin, a young internet comedy star preparing his first cinema film. Augustin wants an '
  'unknown actress for the lead, but Mathias hopes to get Audrey the role. First, listen to their conversation in '
  'French.')
-OPENER = "Let's break it down. Noémie sets down the coffee on Mathias's desk as he compliments Augustin's script."
+OPENER = "Let's break it down. Mathias compliments Augustin's script before proposing a different actress for the lead."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Mathias hasn't even told Audrey about Augustin's film yet, and he certainly hasn't told her what kind of part it is. You'll catch every step of his trick when you watch. See you next time!"
 CLOSING = ('augustin', 'Bonne journée!')
-STORY = [('noemie', 'Voilà le café, Mathias.', 'Here is the coffee, Mathias.', [], ''),
- ('mathias',
-  "Merci, Noémie. J'adore cette version finale.",
-  'Thank you, Noémie. I love this final version.',
+STORY = [('mathias',
+  "J'adore cette version finale.",
+  'I love this final version.',
   [(93, "J'adore cette version finale")],
-  'The thanks to Noémie bridges the newly written coffee line; the original thanks in cue 95 is Augustin’s reply '
-  'to praise.'),
+  ''),
  ('mathias',
   "Je crois qu'on tient vraiment quelque chose.",
   'I think we really have something here.',
@@ -65,10 +63,15 @@ STORY = [('noemie', 'Voilà le café, Mathias.', 'Here is the coffee, Mathias.',
   [(108, "Quand j'ai lu cette dernière version, j'ai pensé"), (109, 'Audrey Fleurot')],
   ''),
  ('augustin',
-  'Audrey Fleurot? Pourquoi pas? Elle est sublime!',
-  "Audrey Fleurot? Why not? She's sublime!",
-  [(112, 'Audrey Fleurot'), (113, 'Pourquoi pas ?'), (114, 'Elle est sublime')],
+  'Audrey Fleurot? Pourquoi pas?',
+  'Audrey Fleurot? Why not?',
+  [(112, 'Audrey Fleurot'), (113, 'Pourquoi pas')],
   ''),
+ ('mathias',
+  'Elle est sublime!',
+  "She's sublime!",
+  [(114, 'Elle est sublime')],
+  'Primary video confirms Mathias speaks this compliment.'),
  ('mathias',
   'Elle attire le public, et elle aime vos vidéos.',
   'She draws the public, and she likes your videos.',
@@ -83,39 +86,41 @@ STORY = [('noemie', 'Voilà le café, Mathias.', 'Here is the coffee, Mathias.',
   "Elle t'a dit qu'elle les aimait? Vraiment?",
   'She told you she liked them? Really?',
   [(123, "Elle t'a dit qu'elle les aimait ?"), (124, 'Vraiment ?')],
-  ''),
- ('noemie', 'Ne faites pas attention à moi.', "Don't mind me.", [(125, 'Ne faites pas attention à moi')], '')]
-WALK = [(0, None, "'Here is the coffee, Mathias.' The first word is the handy pointer word for 'here is' or 'there is'."),
- (1,
+  '')]
+WALK = [(0,
   None,
-  "'Thank you, Noémie. I love this final version.' The action word means 'to love' or 'to adore', very common in "
-  'everyday French for things you really like.'),
- (2, None, "'I think we really have something here.' Literally 'we hold really something'."),
- (3,
+  "'I love this final version.' The action means 'love' or 'adore'. The describing word for 'final' has a "
+  'feminine ending to match the word for version.'),
+ (1, None, "'I think we really have something here.' Literally 'we hold really something'."),
+ (2,
   None,
   "'Are you still sure about the female lead?' Literally 'the main feminine role'. Now Mathias plants a doubt."),
- (4,
+ (3,
   None,
   "'Yes! Her name is Armelle Borzek. She's brilliant!' French gives a name with 'she calls herself'. You hear the "
   "same short word for 'she' again before the compliment."),
- (5,
+ (4,
   None,
   "'Remember that name, she's fantastic!' Augustin gives a polite command from the action word 'to retain' or 'to "
   "remember'."),
- (6, None, "'But the public doesn't know her.' The little word for 'her' sits right before the verb 'knows'."),
- (7, None, "'In my online videos, there are no stars.' Literally 'videos in line', the French phrase for online."),
- (8,
+ (5, None, "'But the public doesn't know her.' The little word for 'her' sits right before the verb 'knows'."),
+ (6, None, "'In my online videos, there are no stars.' Literally 'videos in line', the French phrase for online."),
+ (7,
   None,
   "'That's true. But cinema isn't the Internet.' The first short phrase agrees with Augustin. The word for 'but' "
   "then signals Mathias's objection, followed by a negative around 'is'."),
- (9,
+ (8,
   None,
   "'When I read this latest version, I thought of Audrey Fleurot.' Both verbs are in the everyday past tense. To "
   "think of someone uses the preposition 'to'."),
+ (9,
+  None,
+  "'Audrey Fleurot? Why not?' The short question is an encouraging response to a suggestion. Augustin is warming "
+  "to Mathias's proposal."),
  (10,
   None,
-  "'Audrey Fleurot? Why not? She's sublime!' The short question is an encouraging suggestion. You can use the "
-  'same two-word pattern when someone offers you an idea or an invitation.'),
+  "'She's sublime!' Mathias adds this enthusiastic compliment. The describing word has the same form whether it "
+  'describes a man or a woman.'),
  (11,
   None,
   "'She draws the public, and she likes your videos.' Notice the two different possessives: earlier Augustin said "
@@ -127,8 +132,4 @@ WALK = [(0, None, "'Here is the coffee, Mathias.' The first word is the handy po
  (13,
   None,
   "'She told you she liked them? Really?' The short word before 'liked' means 'them', referring to the videos. "
-  'French puts this object before the action, where English puts it afterwards.'),
- (14,
-  None,
-  "'Don't mind me.' Literally 'do not pay attention to me'. It is a polite command, with the negative around "
-  "'do'. Augustin is dancing around the room when Noémie comes back.")]
+  'French puts this object before the action, where English puts it afterwards.')]
