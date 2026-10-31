@@ -77,9 +77,7 @@ STORY = [('gabriel',
  ('gabriel', 'Fais-lui un café.', 'Make her a coffee.', [(24, 'Fais-lui un café')], '')]
 WALK = [(0,
   None,
-  'Gabriel greets Cecile and gives an enthusiastic yes, saying that things sound great. He asks her to call '
-  'back and finishes with a casual goodbye. The request to call back is a familiar command. A hyphen joins '
-  'the command to a short object word identifying the person asking for the return call.'),
+  'Gabriel greets his client and gives an enthusiastic yes, saying that things sound great. He asks her to call back and finishes with a casual goodbye. The request to call back is a familiar command. A hyphen joins the command to a short object word identifying the person asking for the return call.'),
  (1,
   'Le contrôle fiscal.',
   "'The tax audit.' Literally 'the fiscal control'. The describing word follows the thing being checked: the "
@@ -120,8 +118,7 @@ WALK = [(0,
   "rejects Gabriel's easy reassurance."),
  (8,
   None,
-  "'We had a call this morning.' The completed past of 'have' pairs a present helper with the short past "
-  'form. The last two words identify this morning.'),
+  "'We had a call this morning.' To describe the call as a finished event, French uses a helping verb in the present followed by a participle. The last two words identify this morning."),
  (9,
   None,
   "'The file is in another department.' The word for 'another' follows an indefinite article. Their tax case "
