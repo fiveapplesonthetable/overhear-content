@@ -304,99 +304,155 @@
   },
   {
    "seg": 7,
-   "trans": "Camille is Andréa's assistant.",
+   "trans": "Yes, Hippolyte told me.",
    "words": [
     {
-     "t": "Camille",
-     "lemma": "camille",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Camille",
-     "gram": "first name"
+     "t": "Oui,",
+     "lemma": "oui",
+     "pos": "adv",
+     "stress": "wi",
+     "gloss": "yes",
+     "gram": "affirmative response"
     },
     {
-     "t": "est",
-     "lemma": "être",
+     "t": "Hippolyte",
+     "lemma": "hippolyte",
+     "pos": "name",
+     "stress": null,
+     "gloss": "Hippolyte (his first name)",
+     "gram": "proper noun ('Hippolyte')"
+    },
+    {
+     "t": "me",
+     "lemma": "me",
+     "pos": "pron",
+     "stress": "mə",
+     "gloss": "to me",
+     "gram": "indirect object of told"
+    },
+    {
+     "t": "l'a",
+     "lemma": "avoir",
      "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "is",
-     "gram": "third person singular present"
+     "stress": "la",
+     "gloss": "has him/her/it",
+     "gram": "le/la (him/her/it) + a: 3rd person singular present of avoir"
     },
     {
-     "t": "l'assistante",
-     "lemma": "assistant",
-     "pos": "noun",
-     "stress": "lasistɑ̃t",
-     "gloss": "the assistant",
-     "gram": "noun, feminine singular, with elided article la"
-    },
-    {
-     "t": "d'Andréa.",
-     "lemma": "andréa",
-     "pos": "name",
-     "stress": null,
-     "gloss": "of Andréa (Andréa's)",
-     "gram": "d' (de) + first name: possession"
+     "t": "dit.",
+     "lemma": "dire",
+     "pos": "verb",
+     "stress": "di",
+     "gloss": "told",
+     "gram": "past participle of dire"
     }
    ]
   },
   {
    "seg": 8,
-   "trans": "Yes, Hippolyte told me.",
+   "trans": "I didn't know you had a son who was an actor.",
    "words": [
     {
-     "t": "Oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "affirmative response"
-    },
-    {
-     "t": "Hippolyte",
-     "lemma": "hippolyte",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Hippolyte (his first name)",
-     "gram": "proper noun ('Hippolyte')"
-    },
-    {
-     "t": "me",
-     "lemma": "me",
+     "t": "Je",
+     "lemma": "je",
      "pos": "pron",
-     "stress": "mə",
-     "gloss": "to me",
-     "gram": "indirect object of told"
+     "stress": "ʒə",
+     "gloss": "I",
+     "gram": "first person singular subject"
     },
     {
-     "t": "l'a",
+     "t": "ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
+    },
+    {
+     "t": "savais",
+     "lemma": "savoir",
+     "pos": "verb",
+     "stress": "savɛ",
+     "gloss": "knew",
+     "gram": "first person singular imparfait"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
+    },
+    {
+     "t": "que",
+     "lemma": "que",
+     "pos": "conj",
+     "stress": "kə",
+     "gloss": "that",
+     "gram": "introduces what she did not know"
+    },
+    {
+     "t": "vous",
+     "lemma": "vous",
+     "pos": "pron",
+     "stress": "vu",
+     "gloss": "you",
+     "gram": "formal singular subject addressing Mathias in front of the others"
+    },
+    {
+     "t": "aviez",
      "lemma": "avoir",
      "pos": "verb",
-     "stress": "la",
-     "gloss": "has him/her/it",
-     "gram": "le/la (him/her/it) + a: 3rd person singular present of avoir"
+     "stress": "avje",
+     "gloss": "had",
+     "gram": "second person plural imparfait with formal singular vous"
     },
     {
-     "t": "dit.",
-     "lemma": "dire",
-     "pos": "verb",
-     "stress": "di",
-     "gloss": "told",
-     "gram": "past participle of dire"
+     "t": "un",
+     "lemma": "un",
+     "pos": "det",
+     "stress": "œ̃",
+     "gloss": "a",
+     "gram": "masculine singular indefinite article"
+    },
+    {
+     "t": "fils",
+     "lemma": "fils",
+     "pos": "noun",
+     "stress": "fis",
+     "gloss": "son",
+     "gram": "masculine singular"
+    },
+    {
+     "t": "comédien.",
+     "lemma": "comédien",
+     "pos": "noun",
+     "stress": "kɔmedjɛ̃",
+     "gloss": "actor",
+     "gram": "masculine singular describing his son’s profession"
     }
    ]
   },
   {
    "seg": 9,
-   "trans": "I didn't know your son was an actor.",
+   "trans": "Why didn't you tell me that?",
    "words": [
     {
-     "t": "Je",
-     "lemma": "je",
+     "t": "Pourquoi",
+     "lemma": "pourquoi",
+     "pos": "adv",
+     "stress": "puʁkwa",
+     "gloss": "why",
+     "gram": "question word"
+    },
+    {
+     "t": "tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "stress": "ty",
+     "gloss": "you (casual)",
+     "gram": "subject pronoun, 2nd person singular, informal"
     },
     {
      "t": "ne",
@@ -407,12 +463,12 @@
      "gram": "negation, first half, before the verb"
     },
     {
-     "t": "savais",
-     "lemma": "savoir",
+     "t": "m'as",
+     "lemma": "avoir",
      "pos": "verb",
-     "stress": "savɛ",
-     "gloss": "knew",
-     "gram": "first person singular imparfait; know a fact"
+     "stress": "ma",
+     "gloss": "have ... me",
+     "gram": "me (me) + as: 2nd person singular present of avoir"
     },
     {
      "t": "pas",
@@ -423,171 +479,85 @@
      "gram": "negation, second half, after the verb"
     },
     {
-     "t": "que",
-     "lemma": "que",
-     "pos": "conj",
-     "stress": "kə",
-     "gloss": "that",
-     "gram": "conjunction, introduces what to say"
-    },
-    {
-     "t": "votre",
-     "lemma": "votre",
-     "pos": "det",
-     "stress": "vɔtʁ",
-     "gloss": "your",
-     "gram": "possessive, singular, formal"
-    },
-    {
-     "t": "fils",
-     "lemma": "fils",
-     "pos": "noun",
-     "stress": "fis",
-     "gloss": "son",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "était",
-     "lemma": "être",
+     "t": "dit",
+     "lemma": "dire",
      "pos": "verb",
-     "stress": "etɛ",
-     "gloss": "was",
-     "gram": "imparfait, 3rd person singular"
+     "stress": "di",
+     "gloss": "told",
+     "gram": "past participle of dire"
     },
     {
-     "t": "acteur.",
-     "lemma": "acteur",
-     "pos": "noun",
-     "stress": "aktœʁ",
-     "gloss": "actor",
-     "gram": "noun, masculine singular; no article after être for a job"
+     "t": "ça?",
+     "lemma": "ça",
+     "pos": "pron",
+     "stress": "sa",
+     "gloss": "that",
+     "gram": "demonstrative pronoun, informal"
     }
    ]
   },
   {
    "seg": 10,
-   "trans": "Why didn't you tell me that?",
+   "trans": "What difference does it make?",
    "words": [
     {
-     "t": "Pourquoi",
-     "lemma": "pourquoi",
-     "pos": "adv",
-     "stress": "puʁkwa",
-     "gloss": "why",
-     "gram": "question word"
+     "t": "Qu'est-ce",
+     "lemma": "qu'est-ce",
+     "pos": "phrase",
+     "stress": "kɛs",
+     "gloss": "what (question opening)",
+     "gram": "question opening followed by que"
     },
     {
-     "t": "tu",
-     "lemma": "tu",
+     "t": "que",
+     "lemma": "que",
      "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
+     "stress": "kə",
+     "gloss": "what",
+     "gram": "relative question link to the object of change"
     },
     {
-     "t": "ne",
-     "lemma": "ne",
-     "pos": "part",
-     "stress": "nə",
-     "gloss": "not",
-     "gram": "negation, first half, before the verb"
-    },
-    {
-     "t": "m'as",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "ma",
-     "gloss": "have ... me",
-     "gram": "me (me) + as: 2nd person singular present of avoir"
-    },
-    {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
-    },
-    {
-     "t": "dit",
-     "lemma": "dire",
-     "pos": "verb",
-     "stress": "di",
-     "gloss": "told",
-     "gram": "past participle of dire"
-    },
-    {
-     "t": "ça?",
+     "t": "ça",
      "lemma": "ça",
      "pos": "pron",
      "stress": "sa",
      "gloss": "that",
      "gram": "demonstrative pronoun, informal"
+    },
+    {
+     "t": "change?",
+     "lemma": "changer",
+     "pos": "verb",
+     "stress": "ʃɑ̃ʒ",
+     "gloss": "changes",
+     "gram": "third person singular present with ça"
     }
    ]
   },
   {
    "seg": 11,
-   "trans": "What difference does it make?",
+   "trans": "I'm thirsty.",
    "words": [
     {
-     "t": "Qu'est-ce",
-     "lemma": "qu'est-ce",
-     "pos": "phrase",
-     "stress": "kɛs",
-     "gloss": "what (question opening)",
-     "gram": "question opening followed by que"
-    },
-    {
-     "t": "que",
-     "lemma": "que",
-     "pos": "pron",
-     "stress": "kə",
-     "gloss": "what",
-     "gram": "relative question link to the object of change"
-    },
-    {
-     "t": "ça",
-     "lemma": "ça",
-     "pos": "pron",
-     "stress": "sa",
-     "gloss": "that",
-     "gram": "demonstrative pronoun, informal"
-    },
-    {
-     "t": "change?",
-     "lemma": "changer",
+     "t": "J'ai",
+     "lemma": "avoir",
      "pos": "verb",
-     "stress": "ʃɑ̃ʒ",
-     "gloss": "changes",
-     "gram": "third person singular present with ça"
+     "stress": "ʒe",
+     "gloss": "I have, I did",
+     "gram": "je (I) + ai: 1st person singular present of avoir"
+    },
+    {
+     "t": "soif.",
+     "lemma": "soif",
+     "pos": "noun",
+     "stress": "swaf",
+     "gloss": "thirst",
+     "gram": "feminine singular, no article"
     }
    ]
   },
   {
    "seg": 12,
-   "trans": "I'm thirsty.",
-   "words": [
-    {
-     "t": "J'ai",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "ʒe",
-     "gloss": "I have, I did",
-     "gram": "je (I) + ai: 1st person singular present of avoir"
-    },
-    {
-     "t": "soif.",
-     "lemma": "soif",
-     "pos": "noun",
-     "stress": "swaf",
-     "gloss": "thirst",
-     "gram": "feminine singular, no article"
-    }
-   ]
-  },
-  {
-   "seg": 13,
    "trans": "Shall we get a drink?",
    "words": [
     {
@@ -633,7 +603,7 @@
    ]
   },
   {
-   "seg": 15,
+   "seg": 14,
    "trans": "Yes, I ran in the cemetery.",
    "words": [
     {
@@ -687,7 +657,7 @@
    ]
   },
   {
-   "seg": 17,
+   "seg": 16,
    "trans": "This is Catherine, my mother.",
    "words": [
     {
@@ -725,7 +695,7 @@
    ]
   },
   {
-   "seg": 19,
+   "seg": 18,
    "trans": "Hello, madam.",
    "words": [
     {
@@ -747,7 +717,7 @@
    ]
   },
   {
-   "seg": 21,
+   "seg": 20,
    "trans": "This is Camille, Andréa's new assistant.",
    "words": [
     {
@@ -801,7 +771,7 @@
    ]
   },
   {
-   "seg": 23,
+   "seg": 22,
    "trans": "My husband worked with Samuel for fifteen years.",
    "words": [
     {
@@ -879,7 +849,7 @@
    ]
   },
   {
-   "seg": 25,
+   "seg": 24,
    "trans": "Speak of the devil… Mathias!",
    "words": [
     {
@@ -933,45 +903,7 @@
    ]
   },
   {
-   "seg": 27,
-   "trans": "Camille is Andréa's assistant.",
-   "words": [
-    {
-     "t": "Camille",
-     "lemma": "camille",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Camille",
-     "gram": "first name"
-    },
-    {
-     "t": "est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "is",
-     "gram": "third person singular present"
-    },
-    {
-     "t": "l'assistante",
-     "lemma": "assistant",
-     "pos": "noun",
-     "stress": "lasistɑ̃t",
-     "gloss": "the assistant",
-     "gram": "noun, feminine singular, with elided article la"
-    },
-    {
-     "t": "d'Andréa.",
-     "lemma": "andréa",
-     "pos": "name",
-     "stress": null,
-     "gloss": "of Andréa (Andréa's)",
-     "gram": "d' (de) + first name: possession"
-    }
-   ]
-  },
-  {
-   "seg": 29,
+   "seg": 26,
    "trans": "Yes, Hippolyte told me.",
    "words": [
     {
@@ -1017,8 +949,8 @@
    ]
   },
   {
-   "seg": 31,
-   "trans": "I didn't know your son was an actor.",
+   "seg": 28,
+   "trans": "I didn't know you had a son who was an actor.",
    "words": [
     {
      "t": "Je",
@@ -1026,7 +958,7 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "ne",
@@ -1034,7 +966,7 @@
      "pos": "part",
      "stress": "nə",
      "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "gram": "first negative element"
     },
     {
      "t": "savais",
@@ -1042,7 +974,7 @@
      "pos": "verb",
      "stress": "savɛ",
      "gloss": "knew",
-     "gram": "first person singular imparfait; know a fact"
+     "gram": "first person singular imparfait"
     },
     {
      "t": "pas",
@@ -1050,7 +982,7 @@
      "pos": "part",
      "stress": "pa",
      "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "gram": "second negative element"
     },
     {
      "t": "que",
@@ -1058,15 +990,31 @@
      "pos": "conj",
      "stress": "kə",
      "gloss": "that",
-     "gram": "conjunction, introduces what to say"
+     "gram": "introduces what she did not know"
     },
     {
-     "t": "votre",
-     "lemma": "votre",
+     "t": "vous",
+     "lemma": "vous",
+     "pos": "pron",
+     "stress": "vu",
+     "gloss": "you",
+     "gram": "formal singular subject addressing Mathias in front of the others"
+    },
+    {
+     "t": "aviez",
+     "lemma": "avoir",
+     "pos": "verb",
+     "stress": "avje",
+     "gloss": "had",
+     "gram": "second person plural imparfait with formal singular vous"
+    },
+    {
+     "t": "un",
+     "lemma": "un",
      "pos": "det",
-     "stress": "vɔtʁ",
-     "gloss": "your",
-     "gram": "possessive, singular, formal"
+     "stress": "œ̃",
+     "gloss": "a",
+     "gram": "masculine singular indefinite article"
     },
     {
      "t": "fils",
@@ -1077,25 +1025,17 @@
      "gram": "masculine singular"
     },
     {
-     "t": "était",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "etɛ",
-     "gloss": "was",
-     "gram": "imparfait, 3rd person singular"
-    },
-    {
-     "t": "acteur.",
-     "lemma": "acteur",
+     "t": "comédien.",
+     "lemma": "comédien",
      "pos": "noun",
-     "stress": "aktœʁ",
+     "stress": "kɔmedjɛ̃",
      "gloss": "actor",
-     "gram": "noun, masculine singular; no article after être for a job"
+     "gram": "masculine singular describing his son’s profession"
     }
    ]
   },
   {
-   "seg": 33,
+   "seg": 30,
    "trans": "Why didn't you tell me that?",
    "words": [
     {
@@ -1157,7 +1097,7 @@
    ]
   },
   {
-   "seg": 35,
+   "seg": 32,
    "trans": "What difference does it make?",
    "words": [
     {
@@ -1195,7 +1135,7 @@
    ]
   },
   {
-   "seg": 37,
+   "seg": 34,
    "trans": "I'm thirsty.",
    "words": [
     {
@@ -1213,111 +1153,111 @@
      "stress": "swaf",
      "gloss": "thirst",
      "gram": "feminine singular, no article"
+    }
+   ]
+  },
+  {
+   "seg": 36,
+   "trans": "Shall we get a drink?",
+   "words": [
+    {
+     "t": "On",
+     "lemma": "on",
+     "pos": "pron",
+     "stress": "ɔ̃",
+     "gloss": "we",
+     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+    },
+    {
+     "t": "va",
+     "lemma": "aller",
+     "pos": "verb",
+     "stress": "va",
+     "gloss": "are going (to)",
+     "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+    },
+    {
+     "t": "prendre",
+     "lemma": "prendre",
+     "pos": "verb",
+     "stress": "pʁɑ̃dʁ",
+     "gloss": "take",
+     "gram": "infinitive after va; prendre un verre, have a drink"
+    },
+    {
+     "t": "un",
+     "lemma": "un",
+     "pos": "det",
+     "stress": "œ̃",
+     "gloss": "a",
+     "gram": "indefinite article, masculine singular"
+    },
+    {
+     "t": "verre?",
+     "lemma": "verre",
+     "pos": "noun",
+     "stress": "vɛʁ",
+     "gloss": "glass (drink)",
+     "gram": "masculine singular"
+    }
+   ]
+  },
+  {
+   "seg": 38,
+   "trans": "Yes, I ran in the cemetery.",
+   "words": [
+    {
+     "t": "Oui,",
+     "lemma": "oui",
+     "pos": "adv",
+     "stress": "wi",
+     "gloss": "yes",
+     "gram": "affirmative response"
+    },
+    {
+     "t": "j'ai",
+     "lemma": "avoir",
+     "pos": "verb",
+     "stress": "ʒe",
+     "gloss": "I have, I did",
+     "gram": "je (I) + ai: 1st person singular present of avoir"
+    },
+    {
+     "t": "couru",
+     "lemma": "courir",
+     "pos": "verb",
+     "stress": "kuʁy",
+     "gloss": "run",
+     "gram": "past participle (passé composé)"
+    },
+    {
+     "t": "dans",
+     "lemma": "dans",
+     "pos": "prep",
+     "stress": "dɑ̃",
+     "gloss": "in",
+     "gram": "preposition ('dans', meaning 'in')"
+    },
+    {
+     "t": "le",
+     "lemma": "le",
+     "pos": "det",
+     "stress": "lə",
+     "gloss": "the",
+     "gram": "masculine singular article before cimetière"
+    },
+    {
+     "t": "cimetière.",
+     "lemma": "cimetière",
+     "pos": "noun",
+     "stress": "simtjɛʁ",
+     "gloss": "cemetery",
+     "gram": "masculine singular"
     }
    ]
   },
   {
    "seg": 39,
-   "trans": "Shall we get a drink?",
-   "words": [
-    {
-     "t": "On",
-     "lemma": "on",
-     "pos": "pron",
-     "stress": "ɔ̃",
-     "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-    },
-    {
-     "t": "va",
-     "lemma": "aller",
-     "pos": "verb",
-     "stress": "va",
-     "gloss": "are going (to)",
-     "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-    },
-    {
-     "t": "prendre",
-     "lemma": "prendre",
-     "pos": "verb",
-     "stress": "pʁɑ̃dʁ",
-     "gloss": "take",
-     "gram": "infinitive after va; prendre un verre, have a drink"
-    },
-    {
-     "t": "un",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
-    },
-    {
-     "t": "verre?",
-     "lemma": "verre",
-     "pos": "noun",
-     "stress": "vɛʁ",
-     "gloss": "glass (drink)",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 41,
-   "trans": "Yes, I ran in the cemetery.",
-   "words": [
-    {
-     "t": "Oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "affirmative response"
-    },
-    {
-     "t": "j'ai",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "ʒe",
-     "gloss": "I have, I did",
-     "gram": "je (I) + ai: 1st person singular present of avoir"
-    },
-    {
-     "t": "couru",
-     "lemma": "courir",
-     "pos": "verb",
-     "stress": "kuʁy",
-     "gloss": "run",
-     "gram": "past participle (passé composé)"
-    },
-    {
-     "t": "dans",
-     "lemma": "dans",
-     "pos": "prep",
-     "stress": "dɑ̃",
-     "gloss": "in",
-     "gram": "preposition ('dans', meaning 'in')"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "masculine singular article before cimetière"
-    },
-    {
-     "t": "cimetière.",
-     "lemma": "cimetière",
-     "pos": "noun",
-     "stress": "simtjɛʁ",
-     "gloss": "cemetery",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 42,
    "trans": "This is Catherine, my mother.",
    "words": [
     {
@@ -1355,7 +1295,7 @@
    ]
   },
   {
-   "seg": 43,
+   "seg": 40,
    "trans": "Hello, madam.",
    "words": [
     {
@@ -1377,7 +1317,7 @@
    ]
   },
   {
-   "seg": 44,
+   "seg": 41,
    "trans": "This is Camille, Andréa's new assistant.",
    "words": [
     {
@@ -1431,7 +1371,7 @@
    ]
   },
   {
-   "seg": 45,
+   "seg": 42,
    "trans": "My husband worked with Samuel for fifteen years.",
    "words": [
     {
@@ -1509,7 +1449,7 @@
    ]
   },
   {
-   "seg": 46,
+   "seg": 43,
    "trans": "Speak of the devil… Mathias!",
    "words": [
     {
@@ -1563,45 +1503,7 @@
    ]
   },
   {
-   "seg": 47,
-   "trans": "Camille is Andréa's assistant.",
-   "words": [
-    {
-     "t": "Camille",
-     "lemma": "camille",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Camille",
-     "gram": "first name"
-    },
-    {
-     "t": "est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "is",
-     "gram": "third person singular present"
-    },
-    {
-     "t": "l'assistante",
-     "lemma": "assistant",
-     "pos": "noun",
-     "stress": "lasistɑ̃t",
-     "gloss": "the assistant",
-     "gram": "noun, feminine singular, with elided article la"
-    },
-    {
-     "t": "d'Andréa.",
-     "lemma": "andréa",
-     "pos": "name",
-     "stress": null,
-     "gloss": "of Andréa (Andréa's)",
-     "gram": "d' (de) + first name: possession"
-    }
-   ]
-  },
-  {
-   "seg": 48,
+   "seg": 44,
    "trans": "Yes, Hippolyte told me.",
    "words": [
     {
@@ -1647,8 +1549,8 @@
    ]
   },
   {
-   "seg": 49,
-   "trans": "I didn't know your son was an actor.",
+   "seg": 45,
+   "trans": "I didn't know you had a son who was an actor.",
    "words": [
     {
      "t": "Je",
@@ -1656,7 +1558,7 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "ne",
@@ -1664,7 +1566,7 @@
      "pos": "part",
      "stress": "nə",
      "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "gram": "first negative element"
     },
     {
      "t": "savais",
@@ -1672,7 +1574,7 @@
      "pos": "verb",
      "stress": "savɛ",
      "gloss": "knew",
-     "gram": "first person singular imparfait; know a fact"
+     "gram": "first person singular imparfait"
     },
     {
      "t": "pas",
@@ -1680,7 +1582,7 @@
      "pos": "part",
      "stress": "pa",
      "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "gram": "second negative element"
     },
     {
      "t": "que",
@@ -1688,15 +1590,31 @@
      "pos": "conj",
      "stress": "kə",
      "gloss": "that",
-     "gram": "conjunction, introduces what to say"
+     "gram": "introduces what she did not know"
     },
     {
-     "t": "votre",
-     "lemma": "votre",
+     "t": "vous",
+     "lemma": "vous",
+     "pos": "pron",
+     "stress": "vu",
+     "gloss": "you",
+     "gram": "formal singular subject addressing Mathias in front of the others"
+    },
+    {
+     "t": "aviez",
+     "lemma": "avoir",
+     "pos": "verb",
+     "stress": "avje",
+     "gloss": "had",
+     "gram": "second person plural imparfait with formal singular vous"
+    },
+    {
+     "t": "un",
+     "lemma": "un",
      "pos": "det",
-     "stress": "vɔtʁ",
-     "gloss": "your",
-     "gram": "possessive, singular, formal"
+     "stress": "œ̃",
+     "gloss": "a",
+     "gram": "masculine singular indefinite article"
     },
     {
      "t": "fils",
@@ -1707,25 +1625,17 @@
      "gram": "masculine singular"
     },
     {
-     "t": "était",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "etɛ",
-     "gloss": "was",
-     "gram": "imparfait, 3rd person singular"
-    },
-    {
-     "t": "acteur.",
-     "lemma": "acteur",
+     "t": "comédien.",
+     "lemma": "comédien",
      "pos": "noun",
-     "stress": "aktœʁ",
+     "stress": "kɔmedjɛ̃",
      "gloss": "actor",
-     "gram": "noun, masculine singular; no article after être for a job"
+     "gram": "masculine singular describing his son’s profession"
     }
    ]
   },
   {
-   "seg": 50,
+   "seg": 46,
    "trans": "Why didn't you tell me that?",
    "words": [
     {
@@ -1787,7 +1697,7 @@
    ]
   },
   {
-   "seg": 51,
+   "seg": 47,
    "trans": "What difference does it make?",
    "words": [
     {
@@ -1825,7 +1735,7 @@
    ]
   },
   {
-   "seg": 52,
+   "seg": 48,
    "trans": "I'm thirsty.",
    "words": [
     {
@@ -1847,7 +1757,7 @@
    ]
   },
   {
-   "seg": 53,
+   "seg": 49,
    "trans": "Shall we get a drink?",
    "words": [
     {
@@ -1893,7 +1803,7 @@
    ]
   },
   {
-   "seg": 55,
+   "seg": 51,
    "trans": "Bye!",
    "words": [
     {
@@ -1908,53 +1818,6 @@
   }
  ],
  "lexicon": {
-  "acteur": {
-   "lemma": "acteur",
-   "stress": "aktœʁ",
-   "pos": "noun",
-   "gloss": "actor",
-   "gender": "m",
-   "plural": "acteurs",
-   "meanings": [
-    {
-     "en": "actor",
-     "note": "Someone who acts in films or plays; feminine actrice."
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "l'acteur",
-       "les acteurs"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Deux de nos acteurs.",
-     "trans": "Two of our actors."
-    },
-    {
-     "text": "C'est un acteur célèbre.",
-     "trans": "He's a famous actor."
-    },
-    {
-     "text": "Excellent! Deux de nos acteurs.",
-     "trans": "Excellent! Two of our actors."
-    }
-   ],
-   "related": []
-  },
   "aller": {
    "lemma": "aller",
    "stress": "ale",
@@ -4894,58 +4757,6 @@
     }
    ]
   },
-  "votre": {
-   "lemma": "votre",
-   "stress": "vɔtʁ",
-   "pos": "det",
-   "gloss": "your (formal or plural)",
-   "meanings": [
-    {
-     "en": "your",
-     "note": "Your when addressing one person formally or several people."
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "votre",
-       "votre"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "vos",
-       "vos"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Votre nom?",
-     "trans": "Your name?"
-    },
-    {
-     "text": "Laissez vos photos ici.",
-     "trans": "Leave your photos here."
-    },
-    {
-     "text": "Laissez vos photos et votre CV ici.",
-     "trans": "Leave your photos and your CV here."
-    }
-   ],
-   "related": []
-  },
   "ça": {
    "lemma": "ça",
    "stress": "sa",
@@ -4981,196 +4792,6 @@
     {
      "word": "ça",
      "gloss": "that"
-    }
-   ]
-  },
-  "être": {
-   "lemma": "être",
-   "stress": "ɛtʁ",
-   "pos": "verb",
-   "gloss": "to be",
-   "meanings": [
-    {
-     "en": "to be",
-     "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
-    },
-    {
-     "en": "c'est = it is, this is",
-     "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je suis",
-       "nous sommes"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu es",
-       "vous êtes"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle est",
-       "ils/elles sont"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Passé composé",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai été",
-        "nous avons été"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as été",
-        "vous avez été"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a été",
-        "ils/elles ont été"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imparfait",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'étais",
-        "nous étions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu étais",
-        "vous étiez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle était",
-        "ils/elles étaient"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Futur",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je serai",
-        "nous serons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu seras",
-        "vous serez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle sera",
-        "ils/elles seront"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "—",
-        "soyons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "sois",
-        "soyez"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Je suis à Paris.",
-     "trans": "I'm in Paris."
-    },
-    {
-     "text": "C'est important.",
-     "trans": "It's important."
-    },
-    {
-     "text": "Vous êtes où?",
-     "trans": "Where are you?"
-    }
-   ],
-   "related": [
-    {
-     "word": "un être",
-     "gloss": "a being, person"
-    },
-    {
-     "word": "peut-être",
-     "gloss": "maybe, perhaps"
     }
    ]
   },
@@ -5241,6 +4862,94 @@
     }
    ],
    "related": []
+  },
+  "comédien": {
+   "lemma": "comédien",
+   "stress": "kɔmedjɛ̃",
+   "pos": "noun",
+   "gloss": "actor",
+   "gender": "m",
+   "plural": "comédiens",
+   "meanings": [
+    {
+     "en": "actor",
+     "note": "An actor in theatre, film or television; it does not specifically mean a comedian. Feminine comédienne."
+    }
+   ],
+   "forms": {
+    "title": "Forms",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "masculine",
+       "le comédien",
+       "les comédiens"
+      ]
+     },
+     {
+      "cells": [
+       "feminine",
+       "la comédienne",
+       "les comédiennes"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Son fils est comédien.",
+     "trans": "His son is an actor."
+    },
+    {
+     "text": "Cette comédienne joue dans un film.",
+     "trans": "This actress is appearing in a film."
+    }
+   ],
+   "related": []
+  },
+  "vous": {
+   "lemma": "vous",
+   "stress": "vu",
+   "pos": "pron",
+   "gloss": "you (polite or plural)",
+   "meanings": [
+    {
+     "en": "you (polite)",
+     "note": "One person, formal."
+    },
+    {
+     "en": "you (plural)",
+     "note": "Several people."
+    },
+    {
+     "en": "you (object)",
+     "note": "je vous rappelle = I'll call you back"
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Vous êtes où?",
+     "trans": "Where are you?"
+    },
+    {
+     "text": "Je vous rappelle.",
+     "trans": "I'll call you back."
+    }
+   ],
+   "related": [
+    {
+     "word": "tu",
+     "gloss": "you (informal)"
+    }
+   ]
   }
  }
 }
