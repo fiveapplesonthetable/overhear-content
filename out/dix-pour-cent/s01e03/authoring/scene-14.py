@@ -10,29 +10,66 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = 'Earlier today Andréa promised her ex-boyfriend Clément a luxury suite at Cannes if he replaced Colette within a week. Yet the moment Andréa meets Colette face to face, she has the strange feeling they have met before, and decides she can handle her after all. Listen to the French first, without worrying about catching every single word.'
+INTRO = ('Colette Brancillon, the tax inspector, arrives at the agency to begin her audit. Andrea has promised her '
+ 'ex-boyfriend Clement a luxury suite at Cannes if he replaces her within a week. But the new inspector '
+ 'looks familiar, and Andrea suddenly thinks she can handle her after all. Listen to the introductions and '
+ 'the phone call that follows.')
 OPENER = "Let's walk through it together. After checking that the inspector doesn't mind Arlette's dog, Gabriel brings her to Andréa."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Colette is installed in her office, and Andréa has just thrown away her only safety net at the tax office. See you next time!'
 CLOSING = ('colette', 'Bonne soirée!')
-STORY = [
-    ('gabriel', 'Andréa. Voici la dame du centre des impôts.', 'Andréa. Here is the lady from the tax office.', [(314, 'Andréa'), (315, 'Voici la dame du centre des impôts')], ''),
-    ('andrea', 'Bonjour. Andréa Martel.', 'Hello. Andréa Martel.', [(316, 'Bonjour. Andréa Martel')], ''),
-    ('colette', "Colette Brancillon. J'ai besoin d'un bureau pour travailler.", 'Colette Brancillon. I need an office to work in.', [(316, 'Colette Brancillon'), (317, "besoin d'un bureau pour travailler")], ''),
-    ('andrea', 'Notre patron est mort il y a trois semaines.', 'Our boss died three weeks ago.', [(318, 'Notre patron est'), (318, 'il y a trois semaines')], ''),
-    ('andrea', "J'ai vraiment l'impression de vous connaître.", 'I really have the feeling I know you.', [(320, "J'ai vraiment l'impression de vous connaître")], ''),
-    ('colette', 'Non, je ne crois pas.', "No, I don't think so.", [(321, 'Non, je ne crois pas')], ''),
-    ('andrea', "C'était peut-être dans une autre vie.", 'Maybe it was in another life.', [(322, "C'était peut-être dans une autre vie")], ''),
-    ('andrea', "Vous avez tout ce qu'il vous faut?", 'Do you have everything you need?', [(323, 'Vous avez'), (324, "tout ce qu'il vous faut")], ''),
-    ('colette', 'Oui, merci.', 'Yes, thank you.', [(325, 'Oui, merci')], ''),
-    ('andrea', "Mon bureau est juste là. À tout à l'heure.", 'See you later.', [(326, 'mon bureau est juste là'), (327, "À tout à l'heure")], ''),
-    ('colette', "D'accord, merci.", 'Okay, thank you.', [(327, "D'accord, merci")], ''),
-    ('andrea', "Salut, Clément, c'est Andréa.", "Hi, Clément, it's Andréa.", [(328, "c'est Andréa")], ''),
-    ('andrea', 'Avec Colette Brancillon, ça va aller. On oublie notre accord.', 'Forget our deal.', [(329, 'avec Colette Brancillon'), (330, 'on oublie')], ''),
-    ('gabriel', 'Elle va rester ici pendant des semaines?', 'Is she going to stay here for weeks?', [(332, 'Elle va'), (332, 'pendant des semaines')], ''),
-    ('gabriel', 'Et on peut faire faillite?', 'And could we go bankrupt?', [(334, 'faire faillite')], ''),
-    ('andrea', "Oui. Mais c'est la vie.", "Yes. But that's life.", [(336, "c'est la vie")], ''),
-]
+STORY = [('gabriel',
+  'Andréa. Voici la dame du centre des impôts.',
+  'Andréa. Here is the lady from the tax office.',
+  [(314, 'Andréa'), (315, 'Voici la dame du centre des impôts')],
+  ''),
+ ('andrea', 'Bonjour. Andréa Martel.', 'Hello. Andréa Martel.', [(316, 'Bonjour. Andréa Martel')], ''),
+ ('colette',
+  "Colette Brancillon. J'ai besoin d'un bureau pour travailler.",
+  'Colette Brancillon. I need an office to work in.',
+  [(316, 'Colette Brancillon'), (317, "besoin d'un bureau pour travailler")],
+  ''),
+ ('andrea',
+  'Notre patron est mort il y a trois semaines.',
+  'Our boss died three weeks ago.',
+  [(318, 'Notre patron est'), (318, 'il y a trois semaines')],
+  ''),
+ ('andrea',
+  "J'ai vraiment l'impression de vous connaître.",
+  'I really have the feeling I know you.',
+  [(320, "J'ai vraiment l'impression de vous connaître")],
+  ''),
+ ('colette', 'Non, je ne crois pas.', "No, I don't think so.", [(321, 'Non, je ne crois pas')], ''),
+ ('andrea',
+  "C'était peut-être dans une autre vie.",
+  'Maybe it was in another life.',
+  [(322, "C'était peut-être dans une autre vie")],
+  ''),
+ ('andrea',
+  "Vous avez tout ce qu'il vous faut?",
+  'Do you have everything you need?',
+  [(323, 'Vous avez'), (324, "tout ce qu'il vous faut")],
+  ''),
+ ('colette', 'Oui, merci.', 'Yes, thank you.', [(325, 'Oui, merci')], ''),
+ ('andrea',
+  "Mon bureau est juste là. À tout à l'heure.",
+  'My office is right there. See you later.',
+  [(326, 'mon bureau est juste là'), (327, "À tout à l'heure")],
+  ''),
+ ('colette', "D'accord, merci.", 'Okay, thank you.', [(327, "D'accord, merci")], ''),
+ ('andrea', "Salut, Clément, c'est Andréa.", "Hi, Clément, it's Andréa.", [(328, "c'est Andréa")], ''),
+ ('andrea',
+  'Avec Colette Brancillon, ça va aller. On oublie notre accord.',
+  "With Colette Brancillon, it'll be fine. Forget our deal.",
+  [(329, 'avec Colette Brancillon'), (330, 'on oublie')],
+  ''),
+ ('gabriel',
+  'Elle va rester ici pendant des semaines?',
+  'Is she going to stay here for weeks?',
+  [(332, 'Elle va'), (332, 'pendant des semaines')],
+  ''),
+ ('gabriel', 'Et on peut faire faillite?', 'And could we go bankrupt?', [(334, 'faire faillite')], ''),
+ ('andrea', "Oui. Mais c'est la vie.", "Yes. But that's life.", [(336, "c'est la vie")], '')]
 WALK = [
     (0, None, "'Andréa. Here is the lady from the tax office.' Literally 'the centre of the taxes'. The first word is how you present someone who has just arrived."),
     (1, None, "'Hello. Andréa Martel.' People often introduce themselves simply by saying hello and giving their full name."),

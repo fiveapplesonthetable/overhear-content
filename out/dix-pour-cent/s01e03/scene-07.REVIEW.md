@@ -10,22 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Andréa | J'ai peut-être une solution pour le contrôle fiscal. | I may have a solution for the tax audit. | #132: J'ai peut-être une solution pour le contrôle fiscal | verbatim |
-| 2 | Andréa | Un ex à moi. Il est haut placé aux impôts. | He's high up at the tax office. | #134: Un ex à moi. Il est haut placé aux impôts | verbatim |
-| 3 | Gabriel | Un homme? | A man? | #137: un homme | verbatim |
-| 4 | Andréa | Ça fait longtemps, mais je peux lui parler. | It's been a long time, but I can talk to him. | #136: Ça fait longtemps, mais je<br>#136: lui parler | verbatim |
-| 5 | Gabriel | Appelle-le. On n'a pas vraiment le choix. | We don't really have a choice. | #139: Appelle-le. On n'a pas vraiment le choix | verbatim |
-| 6 | Andréa | D'accord. | Okay. | #140: D'accord | verbatim |
-| 7 | Andréa | Tu en veux? | Do you want some? | #141: Tu en veux ? | verbatim |
-| 8 | Gabriel | Comment Mathias a eu le scénario? | How did Mathias get the script? | #143: Comment<br>#143: a eu le scénario ? | verbatim |
-| 9 | Hervé | J'ai passé des heures au téléphone avec l'assistante d'Akerfelt. | I spent hours on the phone with Akerfelt's assistant. | #144: J'ai passé des heures au téléphone avec l'assistante d'Akerfelt | verbatim |
-| 10 | Hervé | On était les seuls à avoir une copie! | We were the only ones to have a copy! | #145: avoir une copie | verbatim |
-| 11 | Gabriel | Ce n'était pas toi, Hervé? | It wasn't you, Hervé? | #146: pas toi | verbatim |
-| 12 | Hervé | Tu me prends pour qui? | What do you take me for? | #147: Tu me prends pour qui ? | verbatim |
-| 13 | Gabriel | Tu l'as peut-être dit à Noémie, sans faire exprès. | Maybe you told Noémie, without meaning to. | #148: Tu l'as peut-être dit à Noémie<br>#148: faire exprès | verbatim |
-| 14 | Gabriel | Mais comment il a fait? | But how did he do it? | #150: Comment<br>#150: a fait ? | verbatim |
-
-
+| 1 | Andréa | J'ai peut-être une solution pour le contrôle fiscal. | I may have a solution for the tax audit. | #132 00:08:49: J'ai peut-être une solution pour le contrôle fiscal | verbatim |
+| 2 | Andréa | Un ex à moi. Il est haut placé aux impôts. | An ex of mine. He's high up at the tax office. | #134 00:08:55: Un ex à moi. Il est haut placé aux impôts | verbatim |
+| 3 | Gabriel | Un homme? | A man? | #137 00:09:03: un homme | verbatim |
+| 4 | Andréa | Ça fait longtemps, mais je peux lui parler. | It's been a long time, but I can talk to him. | #136 00:08:59: Ça fait longtemps, mais je<br>#136 00:08:59: lui parler | verbatim |
+| 5 | Gabriel | Appelle-le. On n'a pas vraiment le choix. | Call him. We don't really have a choice. | #139 00:09:09: Appelle-le. On n'a pas vraiment le choix | verbatim |
+| 6 | Andréa | D'accord. | Okay. | #140 00:09:13: D'accord | verbatim |
+| 7 | Andréa | Tu en veux? | Do you want some? | #141 00:09:14: Tu en veux ? | verbatim |
+| 8 | Gabriel | Comment Mathias a eu le scénario? | How did Mathias get the script? | #143 00:09:21: Comment<br>#143 00:09:21: a eu le scénario ? | verbatim |
+| 9 | Hervé | J'ai passé des heures au téléphone avec l'assistante d'Akerfelt. | I spent hours on the phone with Akerfelt's assistant. | #144 00:09:23: J'ai passé des heures au téléphone avec l'assistante d'Akerfelt | verbatim |
+| 10 | Hervé | On était les seuls à avoir une copie! | We were the only ones to have a copy! | #145 00:09:26: avoir une copie | verbatim |
+| 11 | Gabriel | Ce n'était pas toi, Hervé? | It wasn't you, Hervé? | #146 00:09:30: pas toi | verbatim |
+| 12 | Hervé | Tu me prends pour qui? | What do you take me for? | #147 00:09:32: Tu me prends pour qui ? | verbatim |
+| 13 | Gabriel | Tu l'as peut-être dit à Noémie, sans faire exprès. | Maybe you told Noémie, without meaning to. | #148 00:09:33: Tu l'as peut-être dit à Noémie<br>#148 00:09:33: faire exprès | verbatim |
+| 14 | Gabriel | Mais comment il a fait? | But how did he do it? | #150 00:09:44: Comment<br>#150 00:09:44: a fait ? | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
