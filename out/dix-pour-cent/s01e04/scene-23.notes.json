@@ -143,24 +143,22 @@
       ]
     },
     {
-      "seg": 3,
-      "trans": "Did you take a good look at Armelle? She's going to be fantastic!",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "as",
+          "t": "avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
+          "stress": "ave",
           "gloss": "have (helping verb)",
-          "gram": "present, 2nd person singular; helping verb with regardé"
+          "gram": "present polite/plural past auxiliary"
         },
         {
           "t": "bien",
@@ -218,11 +216,11 @@
           "gloss": "fantastic",
           "gram": "singular, same form for both genders"
         }
-      ]
+      ],
+      "seg": 3,
+      "trans": "Did you take a good look at Armelle? She's going to be fantastic!"
     },
     {
-      "seg": 4,
-      "trans": "So you don't need money, after all.",
       "words": [
         {
           "t": "Alors",
@@ -233,20 +231,20 @@
           "gram": "invariable adverb ('alors', meaning 'then')"
         },
         {
-          "t": "tu",
-          "lemma": "tu",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "n'as",
+          "t": "n'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "na",
+          "stress": "nave",
           "gloss": "do not have, have not",
-          "gram": "ne (not) + as: 2nd person singular present of avoir"
+          "gram": "ne + avez, present polite/plural address"
         },
         {
           "t": "pas",
@@ -280,27 +278,27 @@
           "gloss": "after all",
           "gram": "invariable adverb ('finalement', meaning 'after all')"
         }
-      ]
+      ],
+      "seg": 4,
+      "trans": "So you don't need money, after all."
     },
     {
-      "seg": 5,
-      "trans": "You have a horrible view of life. She moved me.",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "as",
+          "t": "avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
+          "stress": "ave",
           "gloss": "have (got)",
-          "gram": "present, 2nd person singular"
+          "gram": "present polite/plural address"
         },
         {
           "t": "une",
@@ -374,11 +372,11 @@
           "gloss": "touched, moved",
           "gram": "past participle, feminine singular agreeing with 'm'' (Audrey)"
         }
-      ]
+      ],
+      "seg": 5,
+      "trans": "You have a horrible view of life. She moved me."
     },
     {
-      "seg": 6,
-      "trans": "It's not because of that! You don't want to leave your children.",
       "words": [
         {
           "t": "Ce",
@@ -421,12 +419,12 @@
           "gram": "demonstrative pronoun, informal"
         },
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
           "t": "ne",
@@ -437,12 +435,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "veux",
+          "t": "voulez",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vø",
+          "stress": "vule",
           "gloss": "want",
-          "gram": "present, 2nd person singular"
+          "gram": "present polite/plural address"
         },
         {
           "t": "pas",
@@ -461,12 +459,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "tes",
-          "lemma": "ton",
+          "t": "vos",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "te",
+          "stress": "vo",
           "gloss": "your",
-          "gram": "informal possessive, plural, agrees with enfants"
+          "gram": "possessive, polite address; agrees with the following noun"
         },
         {
           "t": "enfants.",
@@ -476,7 +474,9 @@
           "gloss": "children",
           "gram": "masculine plural, Audrey’s children"
         }
-      ]
+      ],
+      "seg": 6,
+      "trans": "It's not because of that! You don't want to leave your children."
     },
     {
       "seg": 7,
@@ -501,16 +501,14 @@
       ]
     },
     {
-      "seg": 8,
-      "trans": "Your children are going to grow up and leave.",
       "words": [
         {
-          "t": "Tes",
-          "lemma": "ton",
+          "t": "Vos",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "te",
+          "stress": "vo",
           "gloss": "your",
-          "gram": "informal possessive, plural, agrees with enfants"
+          "gram": "possessive, polite address; agrees with the following noun"
         },
         {
           "t": "enfants",
@@ -552,7 +550,9 @@
           "gloss": "to leave",
           "gram": "infinitive after vont; shares the near-future helper with grandir"
         }
-      ]
+      ],
+      "seg": 8,
+      "trans": "Your children are going to grow up and leave."
     },
     {
       "seg": 9,
@@ -695,8 +695,6 @@
       ]
     },
     {
-      "seg": 11,
-      "trans": "Do I abandon them for six months? You didn't tell me about Canada!",
       "words": [
         {
           "t": "Je",
@@ -731,20 +729,36 @@
           "gram": "cardinal number, x silent before a consonant"
         },
         {
-          "t": "mois?",
+          "t": "mois",
           "lemma": "mois",
           "pos": "noun",
           "stress": "mwa",
           "gloss": "months",
-          "gram": "noun, masculine plural"
+          "gram": "masculine plural"
         },
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "par",
+          "lemma": "par",
+          "pos": "prep",
+          "stress": "paʁ",
+          "gloss": "per",
+          "gram": "periodic rate"
+        },
+        {
+          "t": "an?",
+          "lemma": "an",
+          "pos": "noun",
+          "stress": "ɑ̃",
+          "gloss": "year",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address"
         },
         {
           "t": "ne",
@@ -752,15 +766,15 @@
           "pos": "part",
           "stress": "nə",
           "gloss": "not",
-          "gram": "negation, first half, before the verb"
+          "gram": "first negative part"
         },
         {
-          "t": "m'as",
+          "t": "m'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ma",
-          "gloss": "have ... me",
-          "gram": "me (me) + as: 2nd person singular present of avoir"
+          "stress": "mave",
+          "gloss": "have ... to me",
+          "gram": "me + avez, past auxiliary, polite address"
         },
         {
           "t": "pas",
@@ -768,23 +782,23 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the verb"
+          "gram": "second negative part"
         },
         {
           "t": "parlé",
           "lemma": "parler",
           "pos": "verb",
           "stress": "paʁle",
-          "gloss": "talked",
-          "gram": "past participle; passé composé with avoir"
+          "gloss": "told, spoken",
+          "gram": "past participle"
         },
         {
           "t": "du",
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "about (the)",
-          "gram": "contraction de + le; parler du Canada = talk about Canada"
+          "gloss": "about the",
+          "gram": "de + le, before Canada"
         },
         {
           "t": "Canada!",
@@ -792,9 +806,11 @@
           "pos": "name",
           "stress": null,
           "gloss": "Canada",
-          "gram": "proper name"
+          "gram": "masculine country name"
         }
-      ]
+      ],
+      "seg": 11,
+      "trans": "Do I abandon them for six months a year? You didn't tell me about Canada!"
     },
     {
       "seg": 12,
@@ -915,20 +931,20 @@
     {
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "dois",
+          "t": "devez",
           "lemma": "devoir",
           "pos": "verb",
-          "stress": "dwa",
+          "stress": "dəve",
           "gloss": "owe",
-          "gram": "present, 2nd person singular; devoir + money = owe"
+          "gram": "present polite/plural address; owe before a money amount"
         },
         {
           "t": "beaucoup",
@@ -985,12 +1001,12 @@
           "gram": "subject pronoun, 1st person singular"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "indirect object, polite address to Audrey"
         },
         {
           "t": "souhaite",
@@ -1175,24 +1191,22 @@
       ]
     },
     {
-      "seg": 22,
-      "trans": "Did you take a good look at Armelle? She's going to be fantastic!",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "as",
+          "t": "avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
+          "stress": "ave",
           "gloss": "have (helping verb)",
-          "gram": "present, 2nd person singular; helping verb with regardé"
+          "gram": "present polite/plural past auxiliary"
         },
         {
           "t": "bien",
@@ -1250,11 +1264,11 @@
           "gloss": "fantastic",
           "gram": "singular, same form for both genders"
         }
-      ]
+      ],
+      "seg": 22,
+      "trans": "Did you take a good look at Armelle? She's going to be fantastic!"
     },
     {
-      "seg": 24,
-      "trans": "So you don't need money, after all.",
       "words": [
         {
           "t": "Alors",
@@ -1265,20 +1279,20 @@
           "gram": "invariable adverb ('alors', meaning 'then')"
         },
         {
-          "t": "tu",
-          "lemma": "tu",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "n'as",
+          "t": "n'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "na",
+          "stress": "nave",
           "gloss": "do not have, have not",
-          "gram": "ne (not) + as: 2nd person singular present of avoir"
+          "gram": "ne + avez, present polite/plural address"
         },
         {
           "t": "pas",
@@ -1312,27 +1326,27 @@
           "gloss": "after all",
           "gram": "invariable adverb ('finalement', meaning 'after all')"
         }
-      ]
+      ],
+      "seg": 24,
+      "trans": "So you don't need money, after all."
     },
     {
-      "seg": 26,
-      "trans": "You have a horrible view of life. She moved me.",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "as",
+          "t": "avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
+          "stress": "ave",
           "gloss": "have (got)",
-          "gram": "present, 2nd person singular"
+          "gram": "present polite/plural address"
         },
         {
           "t": "une",
@@ -1406,11 +1420,11 @@
           "gloss": "touched, moved",
           "gram": "past participle, feminine singular agreeing with 'm'' (Audrey)"
         }
-      ]
+      ],
+      "seg": 26,
+      "trans": "You have a horrible view of life. She moved me."
     },
     {
-      "seg": 28,
-      "trans": "It's not because of that! You don't want to leave your children.",
       "words": [
         {
           "t": "Ce",
@@ -1453,12 +1467,12 @@
           "gram": "demonstrative pronoun, informal"
         },
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
           "t": "ne",
@@ -1469,12 +1483,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "veux",
+          "t": "voulez",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vø",
+          "stress": "vule",
           "gloss": "want",
-          "gram": "present, 2nd person singular"
+          "gram": "present polite/plural address"
         },
         {
           "t": "pas",
@@ -1493,12 +1507,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "tes",
-          "lemma": "ton",
+          "t": "vos",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "te",
+          "stress": "vo",
           "gloss": "your",
-          "gram": "informal possessive, plural, agrees with enfants"
+          "gram": "possessive, polite address; agrees with the following noun"
         },
         {
           "t": "enfants.",
@@ -1508,7 +1522,9 @@
           "gloss": "children",
           "gram": "masculine plural, Audrey’s children"
         }
-      ]
+      ],
+      "seg": 28,
+      "trans": "It's not because of that! You don't want to leave your children."
     },
     {
       "seg": 30,
@@ -1533,16 +1549,14 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "Your children are going to grow up and leave.",
       "words": [
         {
-          "t": "Tes",
-          "lemma": "ton",
+          "t": "Vos",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "te",
+          "stress": "vo",
           "gloss": "your",
-          "gram": "informal possessive, plural, agrees with enfants"
+          "gram": "possessive, polite address; agrees with the following noun"
         },
         {
           "t": "enfants",
@@ -1584,7 +1598,9 @@
           "gloss": "to leave",
           "gram": "infinitive after vont; shares the near-future helper with grandir"
         }
-      ]
+      ],
+      "seg": 32,
+      "trans": "Your children are going to grow up and leave."
     },
     {
       "seg": 34,
@@ -1727,8 +1743,6 @@
       ]
     },
     {
-      "seg": 38,
-      "trans": "Do I abandon them for six months? You didn't tell me about Canada!",
       "words": [
         {
           "t": "Je",
@@ -1763,20 +1777,36 @@
           "gram": "cardinal number, x silent before a consonant"
         },
         {
-          "t": "mois?",
+          "t": "mois",
           "lemma": "mois",
           "pos": "noun",
           "stress": "mwa",
           "gloss": "months",
-          "gram": "noun, masculine plural"
+          "gram": "masculine plural"
         },
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "par",
+          "lemma": "par",
+          "pos": "prep",
+          "stress": "paʁ",
+          "gloss": "per",
+          "gram": "periodic rate"
+        },
+        {
+          "t": "an?",
+          "lemma": "an",
+          "pos": "noun",
+          "stress": "ɑ̃",
+          "gloss": "year",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address"
         },
         {
           "t": "ne",
@@ -1784,15 +1814,15 @@
           "pos": "part",
           "stress": "nə",
           "gloss": "not",
-          "gram": "negation, first half, before the verb"
+          "gram": "first negative part"
         },
         {
-          "t": "m'as",
+          "t": "m'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ma",
-          "gloss": "have ... me",
-          "gram": "me (me) + as: 2nd person singular present of avoir"
+          "stress": "mave",
+          "gloss": "have ... to me",
+          "gram": "me + avez, past auxiliary, polite address"
         },
         {
           "t": "pas",
@@ -1800,23 +1830,23 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the verb"
+          "gram": "second negative part"
         },
         {
           "t": "parlé",
           "lemma": "parler",
           "pos": "verb",
           "stress": "paʁle",
-          "gloss": "talked",
-          "gram": "past participle; passé composé with avoir"
+          "gloss": "told, spoken",
+          "gram": "past participle"
         },
         {
           "t": "du",
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "about (the)",
-          "gram": "contraction de + le; parler du Canada = talk about Canada"
+          "gloss": "about the",
+          "gram": "de + le, before Canada"
         },
         {
           "t": "Canada!",
@@ -1824,9 +1854,11 @@
           "pos": "name",
           "stress": null,
           "gloss": "Canada",
-          "gram": "proper name"
+          "gram": "masculine country name"
         }
-      ]
+      ],
+      "seg": 38,
+      "trans": "Do I abandon them for six months a year? You didn't tell me about Canada!"
     },
     {
       "seg": 40,
@@ -1947,20 +1979,20 @@
     {
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "dois",
+          "t": "devez",
           "lemma": "devoir",
           "pos": "verb",
-          "stress": "dwa",
+          "stress": "dəve",
           "gloss": "owe",
-          "gram": "present, 2nd person singular; devoir + money = owe"
+          "gram": "present polite/plural address; owe before a money amount"
         },
         {
           "t": "beaucoup",
@@ -2017,12 +2049,12 @@
           "gram": "subject pronoun, 1st person singular"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "indirect object, polite address to Audrey"
         },
         {
           "t": "souhaite",
@@ -2207,24 +2239,22 @@
       ]
     },
     {
-      "seg": 52,
-      "trans": "Did you take a good look at Armelle? She's going to be fantastic!",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "as",
+          "t": "avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
+          "stress": "ave",
           "gloss": "have (helping verb)",
-          "gram": "present, 2nd person singular; helping verb with regardé"
+          "gram": "present polite/plural past auxiliary"
         },
         {
           "t": "bien",
@@ -2282,11 +2312,11 @@
           "gloss": "fantastic",
           "gram": "singular, same form for both genders"
         }
-      ]
+      ],
+      "seg": 52,
+      "trans": "Did you take a good look at Armelle? She's going to be fantastic!"
     },
     {
-      "seg": 53,
-      "trans": "So you don't need money, after all.",
       "words": [
         {
           "t": "Alors",
@@ -2297,20 +2327,20 @@
           "gram": "invariable adverb ('alors', meaning 'then')"
         },
         {
-          "t": "tu",
-          "lemma": "tu",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "n'as",
+          "t": "n'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "na",
+          "stress": "nave",
           "gloss": "do not have, have not",
-          "gram": "ne (not) + as: 2nd person singular present of avoir"
+          "gram": "ne + avez, present polite/plural address"
         },
         {
           "t": "pas",
@@ -2344,27 +2374,27 @@
           "gloss": "after all",
           "gram": "invariable adverb ('finalement', meaning 'after all')"
         }
-      ]
+      ],
+      "seg": 53,
+      "trans": "So you don't need money, after all."
     },
     {
-      "seg": 54,
-      "trans": "You have a horrible view of life. She moved me.",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "as",
+          "t": "avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
+          "stress": "ave",
           "gloss": "have (got)",
-          "gram": "present, 2nd person singular"
+          "gram": "present polite/plural address"
         },
         {
           "t": "une",
@@ -2438,11 +2468,11 @@
           "gloss": "touched, moved",
           "gram": "past participle, feminine singular agreeing with 'm'' (Audrey)"
         }
-      ]
+      ],
+      "seg": 54,
+      "trans": "You have a horrible view of life. She moved me."
     },
     {
-      "seg": 55,
-      "trans": "It's not because of that! You don't want to leave your children.",
       "words": [
         {
           "t": "Ce",
@@ -2485,12 +2515,12 @@
           "gram": "demonstrative pronoun, informal"
         },
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
           "t": "ne",
@@ -2501,12 +2531,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "veux",
+          "t": "voulez",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vø",
+          "stress": "vule",
           "gloss": "want",
-          "gram": "present, 2nd person singular"
+          "gram": "present polite/plural address"
         },
         {
           "t": "pas",
@@ -2525,12 +2555,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "tes",
-          "lemma": "ton",
+          "t": "vos",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "te",
+          "stress": "vo",
           "gloss": "your",
-          "gram": "informal possessive, plural, agrees with enfants"
+          "gram": "possessive, polite address; agrees with the following noun"
         },
         {
           "t": "enfants.",
@@ -2540,7 +2570,9 @@
           "gloss": "children",
           "gram": "masculine plural, Audrey’s children"
         }
-      ]
+      ],
+      "seg": 55,
+      "trans": "It's not because of that! You don't want to leave your children."
     },
     {
       "seg": 56,
@@ -2565,16 +2597,14 @@
       ]
     },
     {
-      "seg": 57,
-      "trans": "Your children are going to grow up and leave.",
       "words": [
         {
-          "t": "Tes",
-          "lemma": "ton",
+          "t": "Vos",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "te",
+          "stress": "vo",
           "gloss": "your",
-          "gram": "informal possessive, plural, agrees with enfants"
+          "gram": "possessive, polite address; agrees with the following noun"
         },
         {
           "t": "enfants",
@@ -2616,7 +2646,9 @@
           "gloss": "to leave",
           "gram": "infinitive after vont; shares the near-future helper with grandir"
         }
-      ]
+      ],
+      "seg": 57,
+      "trans": "Your children are going to grow up and leave."
     },
     {
       "seg": 58,
@@ -2759,8 +2791,6 @@
       ]
     },
     {
-      "seg": 60,
-      "trans": "Do I abandon them for six months? You didn't tell me about Canada!",
       "words": [
         {
           "t": "Je",
@@ -2795,20 +2825,36 @@
           "gram": "cardinal number, x silent before a consonant"
         },
         {
-          "t": "mois?",
+          "t": "mois",
           "lemma": "mois",
           "pos": "noun",
           "stress": "mwa",
           "gloss": "months",
-          "gram": "noun, masculine plural"
+          "gram": "masculine plural"
         },
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "par",
+          "lemma": "par",
+          "pos": "prep",
+          "stress": "paʁ",
+          "gloss": "per",
+          "gram": "periodic rate"
+        },
+        {
+          "t": "an?",
+          "lemma": "an",
+          "pos": "noun",
+          "stress": "ɑ̃",
+          "gloss": "year",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address"
         },
         {
           "t": "ne",
@@ -2816,15 +2862,15 @@
           "pos": "part",
           "stress": "nə",
           "gloss": "not",
-          "gram": "negation, first half, before the verb"
+          "gram": "first negative part"
         },
         {
-          "t": "m'as",
+          "t": "m'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ma",
-          "gloss": "have ... me",
-          "gram": "me (me) + as: 2nd person singular present of avoir"
+          "stress": "mave",
+          "gloss": "have ... to me",
+          "gram": "me + avez, past auxiliary, polite address"
         },
         {
           "t": "pas",
@@ -2832,23 +2878,23 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the verb"
+          "gram": "second negative part"
         },
         {
           "t": "parlé",
           "lemma": "parler",
           "pos": "verb",
           "stress": "paʁle",
-          "gloss": "talked",
-          "gram": "past participle; passé composé with avoir"
+          "gloss": "told, spoken",
+          "gram": "past participle"
         },
         {
           "t": "du",
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "about (the)",
-          "gram": "contraction de + le; parler du Canada = talk about Canada"
+          "gloss": "about the",
+          "gram": "de + le, before Canada"
         },
         {
           "t": "Canada!",
@@ -2856,9 +2902,11 @@
           "pos": "name",
           "stress": null,
           "gloss": "Canada",
-          "gram": "proper name"
+          "gram": "masculine country name"
         }
-      ]
+      ],
+      "seg": 60,
+      "trans": "Do I abandon them for six months a year? You didn't tell me about Canada!"
     },
     {
       "seg": 61,
@@ -2979,20 +3027,20 @@
     {
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "polite address to one person"
         },
         {
-          "t": "dois",
+          "t": "devez",
           "lemma": "devoir",
           "pos": "verb",
-          "stress": "dwa",
+          "stress": "dəve",
           "gloss": "owe",
-          "gram": "present, 2nd person singular; devoir + money = owe"
+          "gram": "present polite/plural address; owe before a money amount"
         },
         {
           "t": "beaucoup",
@@ -3049,12 +3097,12 @@
           "gram": "subject pronoun, 1st person singular"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "indirect object, polite address to Audrey"
         },
         {
           "t": "souhaite",
@@ -8704,6 +8752,180 @@
           "gloss": "maybe, perhaps"
         }
       ]
+    },
+    "par": {
+      "lemma": "par",
+      "stress": "paʁ",
+      "pos": "prep",
+      "gloss": "by, through",
+      "meanings": [
+        {
+          "en": "by, through",
+          "note": "Passer par là: to go by there."
+        },
+        {
+          "en": "par exemple = for example",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Par exemple, le contrat de Canet.",
+          "trans": "For example, Canet's contract."
+        },
+        {
+          "text": "Passe par ici.",
+          "trans": "Come this way."
+        },
+        {
+          "text": "Je peux regarder un contrat de Mathias? Celui de Canet, par exemple?",
+          "trans": "Can I look at one of Mathias's contracts? Canet's, for example?"
+        }
+      ],
+      "related": []
+    },
+    "vous": {
+      "lemma": "vous",
+      "stress": "vu",
+      "pos": "pron",
+      "gloss": "you (polite or plural)",
+      "meanings": [
+        {
+          "en": "you (polite)",
+          "note": "One person, formal."
+        },
+        {
+          "en": "you (plural)",
+          "note": "Several people."
+        },
+        {
+          "en": "you (object)",
+          "note": "je vous rappelle = I'll call you back"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        },
+        {
+          "text": "Je vous rappelle.",
+          "trans": "I'll call you back."
+        },
+        {
+          "text": "Il vous attend?",
+          "trans": "Is he expecting you?"
+        }
+      ],
+      "related": [
+        {
+          "word": "tu",
+          "gloss": "you (informal)"
+        }
+      ]
+    },
+    "votre": {
+      "lemma": "votre",
+      "stress": "vɔtʁ",
+      "pos": "det",
+      "gloss": "your (formal or plural)",
+      "meanings": [
+        {
+          "en": "your",
+          "note": "Polite or plural 'you'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "votre",
+              "votre"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "vos",
+              "vos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Votre nom?",
+          "trans": "Your name?"
+        },
+        {
+          "text": "Laissez vos photos ici.",
+          "trans": "Leave your photos here."
+        },
+        {
+          "text": "Laissez vos photos et votre CV ici.",
+          "trans": "Leave your photos and your CV here."
+        }
+      ],
+      "related": []
+    },
+    "an": {
+      "lemma": "an",
+      "stress": "ɑ̃",
+      "pos": "noun",
+      "gloss": "year",
+      "gender": "m",
+      "plural": "ans",
+      "meanings": [
+        {
+          "en": "year",
+          "note": "for counting: vingt ans; for age: j'ai vingt ans"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'an",
+              "les ans"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ses vingt ans de carrière.",
+          "trans": "His twenty years of career."
+        },
+        {
+          "text": "Elle a quarante ans.",
+          "trans": "She's forty."
+        },
+        {
+          "text": "Oui, trois cent mille. Je parle de ses vingt ans de carrière.",
+          "trans": "Yes, three hundred thousand. I'm talking about his twenty years of career."
+        }
+      ],
+      "related": []
     }
   }
 }
