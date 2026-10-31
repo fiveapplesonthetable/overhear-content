@@ -568,7 +568,7 @@
   },
   {
    "seg": 11,
-   "trans": "I don't know. We're waiting for the lawyer.",
+   "trans": "I don't know. We're waiting to hear from the notary.",
    "words": [
     {
      "t": "Je",
@@ -619,50 +619,106 @@
      "gram": "present, 3rd person singular, used with on = we"
     },
     {
-     "t": "l'avocat.",
-     "lemma": "avocat",
+     "t": "des",
+     "lemma": "un",
+     "pos": "det",
+     "stress": "de",
+     "gloss": "some",
+     "gram": "indefinite plural article before nouvelles"
+    },
+    {
+     "t": "nouvelles",
+     "lemma": "nouvelle",
      "pos": "noun",
-     "stress": "lavɔka",
-     "gloss": "the lawyer",
-     "gram": "l' + masculine noun"
+     "stress": "nuvɛl",
+     "gloss": "news",
+     "gram": "feminine plural; des nouvelles means news or an update"
+    },
+    {
+     "t": "du",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "dy",
+     "gloss": "from the",
+     "gram": "contraction of de and le before notaire"
+    },
+    {
+     "t": "notaire.",
+     "lemma": "notaire",
+     "pos": "noun",
+     "stress": "nɔtɛʁ",
+     "gloss": "notary",
+     "gram": "masculine singular here; handles official legal documents and the estate"
     }
    ]
   },
   {
    "seg": 12,
-   "trans": "Don't be so familiar.",
+   "trans": "Don't use the familiar you with me here, will you?",
    "words": [
     {
-     "t": "Ne",
-     "lemma": "ne",
-     "pos": "part",
-     "stress": "nə",
-     "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "t": "Évite",
+     "lemma": "éviter",
+     "pos": "verb",
+     "stress": "evit",
+     "gloss": "avoid",
+     "gram": "second person singular imperative, addressed to Camille"
+    },
+    {
+     "t": "de",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "də",
+     "gloss": "to",
+     "gram": "introduces the infinitive after éviter"
     },
     {
      "t": "me",
      "lemma": "me",
      "pos": "pron",
      "stress": "mə",
-     "gloss": "me, to me (object)",
-     "gram": "object pronoun, 1st person singular, before the verb"
+     "gloss": "me",
+     "gram": "first person singular object of tutoyer"
     },
     {
-     "t": "tutoyez",
+     "t": "tutoyer",
      "lemma": "tutoyer",
      "pos": "verb",
      "stress": "tytwaje",
-     "gloss": "address as informal you",
-     "gram": "second person plural imperative used for a formal singular addressee"
+     "gloss": "address as familiar you",
+     "gram": "infinitive after éviter de"
     },
     {
-     "t": "pas.",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "t": "ici,",
+     "lemma": "ici",
+     "pos": "adv",
+     "stress": "isi",
+     "gloss": "here",
+     "gram": "at the agency"
+    },
+    {
+     "t": "tu",
+     "lemma": "tu",
+     "pos": "pron",
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject; Mathias himself continues to use tu"
+    },
+    {
+     "t": "veux",
+     "lemma": "vouloir",
+     "pos": "verb",
+     "stress": "vø",
+     "gloss": "will",
+     "gram": "second person singular present in tu veux bien, will you"
+    },
+    {
+     "t": "bien?",
+     "lemma": "bien",
+     "pos": "adv",
+     "stress": "bjɛ̃",
+     "gloss": "be willing",
+     "gram": "tu veux bien softens the request: will you"
     }
    ]
   },
@@ -1594,7 +1650,7 @@
   },
   {
    "seg": 42,
-   "trans": "I don't know. We're waiting for the lawyer.",
+   "trans": "I don't know. We're waiting to hear from the notary.",
    "words": [
     {
      "t": "Je",
@@ -1645,50 +1701,106 @@
      "gram": "present, 3rd person singular, used with on = we"
     },
     {
-     "t": "l'avocat.",
-     "lemma": "avocat",
+     "t": "des",
+     "lemma": "un",
+     "pos": "det",
+     "stress": "de",
+     "gloss": "some",
+     "gram": "indefinite plural article before nouvelles"
+    },
+    {
+     "t": "nouvelles",
+     "lemma": "nouvelle",
      "pos": "noun",
-     "stress": "lavɔka",
-     "gloss": "the lawyer",
-     "gram": "l' + masculine noun"
+     "stress": "nuvɛl",
+     "gloss": "news",
+     "gram": "feminine plural; des nouvelles means news or an update"
+    },
+    {
+     "t": "du",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "dy",
+     "gloss": "from the",
+     "gram": "contraction of de and le before notaire"
+    },
+    {
+     "t": "notaire.",
+     "lemma": "notaire",
+     "pos": "noun",
+     "stress": "nɔtɛʁ",
+     "gloss": "notary",
+     "gram": "masculine singular here; handles official legal documents and the estate"
     }
    ]
   },
   {
    "seg": 44,
-   "trans": "Don't be so familiar.",
+   "trans": "Don't use the familiar you with me here, will you?",
    "words": [
     {
-     "t": "Ne",
-     "lemma": "ne",
-     "pos": "part",
-     "stress": "nə",
-     "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "t": "Évite",
+     "lemma": "éviter",
+     "pos": "verb",
+     "stress": "evit",
+     "gloss": "avoid",
+     "gram": "second person singular imperative, addressed to Camille"
+    },
+    {
+     "t": "de",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "də",
+     "gloss": "to",
+     "gram": "introduces the infinitive after éviter"
     },
     {
      "t": "me",
      "lemma": "me",
      "pos": "pron",
      "stress": "mə",
-     "gloss": "me, to me (object)",
-     "gram": "object pronoun, 1st person singular, before the verb"
+     "gloss": "me",
+     "gram": "first person singular object of tutoyer"
     },
     {
-     "t": "tutoyez",
+     "t": "tutoyer",
      "lemma": "tutoyer",
      "pos": "verb",
      "stress": "tytwaje",
-     "gloss": "address as informal you",
-     "gram": "second person plural imperative used for a formal singular addressee"
+     "gloss": "address as familiar you",
+     "gram": "infinitive after éviter de"
     },
     {
-     "t": "pas.",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "t": "ici,",
+     "lemma": "ici",
+     "pos": "adv",
+     "stress": "isi",
+     "gloss": "here",
+     "gram": "at the agency"
+    },
+    {
+     "t": "tu",
+     "lemma": "tu",
+     "pos": "pron",
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject; Mathias himself continues to use tu"
+    },
+    {
+     "t": "veux",
+     "lemma": "vouloir",
+     "pos": "verb",
+     "stress": "vø",
+     "gloss": "will",
+     "gram": "second person singular present in tu veux bien, will you"
+    },
+    {
+     "t": "bien?",
+     "lemma": "bien",
+     "pos": "adv",
+     "stress": "bjɛ̃",
+     "gloss": "be willing",
+     "gram": "tu veux bien softens the request: will you"
     }
    ]
   },
@@ -2622,7 +2734,7 @@
   },
   {
    "seg": 68,
-   "trans": "I don't know. We're waiting for the lawyer.",
+   "trans": "I don't know. We're waiting to hear from the notary.",
    "words": [
     {
      "t": "Je",
@@ -2673,50 +2785,106 @@
      "gram": "present, 3rd person singular, used with on = we"
     },
     {
-     "t": "l'avocat.",
-     "lemma": "avocat",
+     "t": "des",
+     "lemma": "un",
+     "pos": "det",
+     "stress": "de",
+     "gloss": "some",
+     "gram": "indefinite plural article before nouvelles"
+    },
+    {
+     "t": "nouvelles",
+     "lemma": "nouvelle",
      "pos": "noun",
-     "stress": "lavɔka",
-     "gloss": "the lawyer",
-     "gram": "l' + masculine noun"
+     "stress": "nuvɛl",
+     "gloss": "news",
+     "gram": "feminine plural; des nouvelles means news or an update"
+    },
+    {
+     "t": "du",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "dy",
+     "gloss": "from the",
+     "gram": "contraction of de and le before notaire"
+    },
+    {
+     "t": "notaire.",
+     "lemma": "notaire",
+     "pos": "noun",
+     "stress": "nɔtɛʁ",
+     "gloss": "notary",
+     "gram": "masculine singular here; handles official legal documents and the estate"
     }
    ]
   },
   {
    "seg": 69,
-   "trans": "Don't be so familiar.",
+   "trans": "Don't use the familiar you with me here, will you?",
    "words": [
     {
-     "t": "Ne",
-     "lemma": "ne",
-     "pos": "part",
-     "stress": "nə",
-     "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "t": "Évite",
+     "lemma": "éviter",
+     "pos": "verb",
+     "stress": "evit",
+     "gloss": "avoid",
+     "gram": "second person singular imperative, addressed to Camille"
+    },
+    {
+     "t": "de",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "də",
+     "gloss": "to",
+     "gram": "introduces the infinitive after éviter"
     },
     {
      "t": "me",
      "lemma": "me",
      "pos": "pron",
      "stress": "mə",
-     "gloss": "me, to me (object)",
-     "gram": "object pronoun, 1st person singular, before the verb"
+     "gloss": "me",
+     "gram": "first person singular object of tutoyer"
     },
     {
-     "t": "tutoyez",
+     "t": "tutoyer",
      "lemma": "tutoyer",
      "pos": "verb",
      "stress": "tytwaje",
-     "gloss": "address as informal you",
-     "gram": "second person plural imperative used for a formal singular addressee"
+     "gloss": "address as familiar you",
+     "gram": "infinitive after éviter de"
     },
     {
-     "t": "pas.",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "t": "ici,",
+     "lemma": "ici",
+     "pos": "adv",
+     "stress": "isi",
+     "gloss": "here",
+     "gram": "at the agency"
+    },
+    {
+     "t": "tu",
+     "lemma": "tu",
+     "pos": "pron",
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject; Mathias himself continues to use tu"
+    },
+    {
+     "t": "veux",
+     "lemma": "vouloir",
+     "pos": "verb",
+     "stress": "vø",
+     "gloss": "will",
+     "gram": "second person singular present in tu veux bien, will you"
+    },
+    {
+     "t": "bien?",
+     "lemma": "bien",
+     "pos": "adv",
+     "stress": "bjɛ̃",
+     "gloss": "be willing",
+     "gram": "tu veux bien softens the request: will you"
     }
    ]
   },
@@ -3512,57 +3680,6 @@
      "gloss": "attention"
     }
    ]
-  },
-  "avocat": {
-   "lemma": "avocat",
-   "stress": "avɔka",
-   "pos": "noun",
-   "gloss": "lawyer",
-   "gender": "m",
-   "plural": "avocats",
-   "meanings": [
-    {
-     "en": "lawyer",
-     "note": "Feminine avocate when referring to a woman lawyer."
-    },
-    {
-     "en": "avocado",
-     "note": "A separate sense for the fruit; context distinguishes it from a lawyer."
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "l'avocat",
-       "les avocats"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "On attend l'avocat.",
-     "trans": "We're waiting for the lawyer."
-    },
-    {
-     "text": "C'est mon avocat.",
-     "trans": "He's my lawyer."
-    },
-    {
-     "text": "Je ne sais pas. On attend l'avocat.",
-     "trans": "I don't know. We're waiting for the lawyer."
-    }
-   ],
-   "related": []
   },
   "avoir": {
    "lemma": "avoir",
@@ -7626,6 +7743,407 @@
     }
    ],
    "related": []
+  },
+  "notaire": {
+   "lemma": "notaire",
+   "stress": "nɔtɛʁ",
+   "pos": "noun",
+   "gloss": "notary",
+   "gender": "m",
+   "plural": "notaires",
+   "meanings": [
+    {
+     "en": "notary",
+     "note": "A legal professional who authenticates documents and handles matters such as estates. The same noun can take le or la."
+    }
+   ],
+   "forms": {
+    "title": "Forms",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "masculine",
+       "le notaire",
+       "les notaires"
+      ]
+     },
+     {
+      "cells": [
+       "feminine",
+       "la notaire",
+       "les notaires"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "On attend des nouvelles du notaire.",
+     "trans": "We're waiting to hear from the notary."
+    },
+    {
+     "text": "La notaire prépare les documents.",
+     "trans": "The notary is preparing the documents."
+    }
+   ],
+   "related": []
+  },
+  "nouvelle": {
+   "lemma": "nouvelle",
+   "stress": "nuvɛl",
+   "pos": "noun",
+   "gloss": "piece of news",
+   "gender": "f",
+   "plural": "nouvelles",
+   "meanings": [
+    {
+     "en": "piece of news",
+     "note": "Plural for 'news': des nouvelles."
+    },
+    {
+     "en": "short story",
+     "note": "Literature."
+    }
+   ],
+   "forms": {
+    "title": "Forms",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "form",
+       "la nouvelle",
+       "les nouvelles"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Des nouvelles importantes?",
+     "trans": "Any important news?"
+    },
+    {
+     "text": "J'ai une bonne nouvelle!",
+     "trans": "I've got good news!"
+    }
+   ],
+   "related": [
+    {
+     "word": "nouveau",
+     "gloss": "new (adjective)"
+    }
+   ]
+  },
+  "éviter": {
+   "lemma": "éviter",
+   "stress": "evite",
+   "pos": "verb",
+   "gloss": "to avoid",
+   "meanings": [
+    {
+     "en": "to avoid",
+     "note": "Éviter quelque chose, avoid something; éviter de faire quelque chose, avoid doing something."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "j'évite",
+       "nous évitons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu évites",
+       "vous évitez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle évite",
+       "ils/elles évitent"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Imperative",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "—",
+        "évitons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "évite",
+        "évitez"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Past participle",
+     "columns": [
+      "",
+      "form"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "with avoir",
+        "évité"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Évite de me tutoyer ici.",
+     "trans": "Avoid using the familiar you with me here."
+    },
+    {
+     "text": "Nous évitons les retards.",
+     "trans": "We avoid delays."
+    }
+   ],
+   "related": []
+  },
+  "bien": {
+   "lemma": "bien",
+   "stress": "bjɛ̃",
+   "pos": "adv",
+   "gloss": "well; good",
+   "meanings": [
+    {
+     "en": "well",
+     "note": "Très bien = very well, fine."
+    },
+    {
+     "en": "good, nice",
+     "note": "C'est bien."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Très bien.",
+     "trans": "Very well."
+    },
+    {
+     "text": "Elle est bien.",
+     "trans": "She's nice."
+    }
+   ],
+   "related": [
+    {
+     "word": "bien sûr",
+     "gloss": "of course"
+    },
+    {
+     "word": "bientôt",
+     "gloss": "soon"
+    },
+    {
+     "word": "bienvenue",
+     "gloss": "welcome"
+    }
+   ]
+  },
+  "vouloir": {
+   "lemma": "vouloir",
+   "stress": "vulwaʁ",
+   "pos": "verb",
+   "gloss": "to want",
+   "meanings": [
+    {
+     "en": "to want",
+     "note": "+ noun or infinitive."
+    },
+    {
+     "en": "je voulais = I wanted",
+     "note": "Imparfait, softer."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "je veux",
+       "nous voulons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu veux",
+       "vous voulez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle veut",
+       "ils/elles veulent"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Passé composé",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'ai voulu",
+        "nous avons voulu"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu as voulu",
+        "vous avez voulu"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle a voulu",
+        "ils/elles ont voulu"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Imparfait",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "je voulais",
+        "nous voulions"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu voulais",
+        "vous vouliez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle voulait",
+        "ils/elles voulaient"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Futur",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "je voudrai",
+        "nous voudrons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu voudras",
+        "vous voudrez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle voudra",
+        "ils/elles voudront"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Je veux juste voir Mathias.",
+     "trans": "I just want to see Mathias."
+    },
+    {
+     "text": "Je voulais te faire la surprise.",
+     "trans": "I wanted to surprise you."
+    }
+   ],
+   "related": [
+    {
+     "word": "volonté",
+     "gloss": "will, determination"
+    },
+    {
+     "word": "en vouloir à",
+     "gloss": "to hold a grudge against"
+    }
+   ]
   }
  }
 }
