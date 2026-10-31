@@ -12,7 +12,7 @@ Public source: [Die Discounter S01E01 — Der Anfang vom Ende](https://www.youtu
 
 ## Bounded original-audio evidence
 
-An already-cached faster-whisper-small model independently transcribed original source86.3–98.3 s: CPU/int8, two threads, one worker, nice19, local-files-only, automatic language, no initial prompt, no hotwords, no expected transcript, no model/API/GPU use. It detected German at0.9868604541 and ran10.015 s. Exact raw evidence is private at `german-pilot/titus-native-asr.json` in the source-discovery directory.
+An already-cached faster-whisper-small model independently transcribed original source86.3–98.3 s: CPU/int8, two threads, one worker, nice19, local-files-only, automatic language, no initial prompt, no hotwords, no expected transcript, no model downloads, paid API calls or GPU use. It detected German at0.9868604541 and ran10.015 s. Exact raw evidence is private at `german-pilot/titus-native-asr.json` in the source-discovery directory.
 
 It recognized these propositions directly from original German:
 
