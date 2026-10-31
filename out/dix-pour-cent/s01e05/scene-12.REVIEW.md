@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Mathias | Arlette, je veux vous parler de Jonathan Joubert. | Arlette, I want to talk to you about Jonathan Joubert. | #218 00:13:10: Arlette<br>#218 00:13:10: de Jonathan Joubert | adapted: Learner adaptation, not a verbatim French transcript. |
-| 2 | Mathias | C'est le fauteuil de Jean Gabin. | That's Jean Gabin's armchair. | #219 00:13:16: C'est son fauteuil | adapted: Original French audio names Jean Gabin; working subtitles replace the name with his. Learner adaptation, not a verbatim French transcript. |
+| 2 | Arlette | C'est le fauteuil de Jean Gabin. | That's Jean Gabin's armchair. | #219 00:13:16: C'est son fauteuil | adapted: Dense private4fps primary video at797–801s shows Arlette articulating this reply while Mathias has closed lips; original French audio names Jean Gabin. A terrier occupies the chair in the source. Learner adaptation, not a verbatim French transcript. |
 | 3 | Arlette | Marie-Sophie ne veut pas de tes fleurs. | Marie-Sophie doesn't want your flowers. | #220 00:13:19: Marie-Sophie ne veut pas de vos fleurs | adapted: Arlette addresses Mathias with TU in original French audio. Learner adaptation, not a verbatim French transcript. |
 | 4 | Arlette | Tu ne peux rien faire contre la maladie de Ryan. | You can't do anything against Ryan's illness. | #221 00:13:23: Vous ne pouvez rien faire contre<br>#221 00:13:23: de Ryan | adapted: Familiar singular register, with the illness wording simplified for learners. Learner adaptation, not a verbatim French transcript. |
 | 5 | Mathias | On va perdre beaucoup d'argent! | We're going to lose a lot of money! | #222 00:13:29: On va perdre beaucoup d'argent | adapted: Learner adaptation, not a verbatim French transcript. |
@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Arlette, I want to talk to you about Jonathan Joubert.' Mathias uses the polite word for you to address Arlette. In this exchange she answers him with the familiar form, so the two speakers do not use the same register.
-- 'That's Jean Gabin's armchair.' The connecting word of marks whose armchair it is. French places that word before the full name, where English can attach a possessive ending.
+- 'That's Jean Gabin's armchair.' Arlette uses the dog's name to say whose armchair it is. The connecting word of goes before the full name in French, where English can attach a possessive ending.
 - 'Marie-Sophie doesn't want your flowers.' Arlette uses the familiar form of your, although Mathias addresses her politely. The possessive is plural because the flowers are plural.
 - 'You can't do anything against Ryan's illness.' The word for nothing follows can, while do stays in its basic form. Together the negative means that no useful action is possible.
 - 'We're going to lose a lot of money!' The quantity a lot is followed by of before money. A form of go announces the financial loss he expects if the character is removed.

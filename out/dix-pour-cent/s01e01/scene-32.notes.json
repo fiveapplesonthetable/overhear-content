@@ -7,20 +7,20 @@
       "trans": "What are you doing?",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
-          "t": "faites",
+          "t": "fais",
           "lemma": "faire",
           "pos": "verb",
-          "stress": "fɛt",
-          "gloss": "are doing",
-          "gram": "present, 2nd person plural/formal (irregular)"
+          "stress": "fɛ",
+          "gloss": "do",
+          "gram": "present first or second person singular of faire"
         },
         {
           "t": "quoi?",
@@ -56,31 +56,15 @@
     },
     {
       "seg": 3,
-      "trans": "Alice Tiscalini. Do you know her?",
+      "trans": "Do you know her?",
       "words": [
         {
-          "t": "Alice",
-          "lemma": "alice",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Alice (first name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Tiscalini.",
-          "lemma": "tiscalini",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Tiscalini (surname)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
           "t": "la",
@@ -91,12 +75,12 @@
           "gram": "feminine singular object before connaître"
         },
         {
-          "t": "connaissez?",
+          "t": "connais?",
           "lemma": "connaître",
           "pos": "verb",
-          "stress": "kɔnɛse",
+          "stress": "kɔnɛ",
           "gloss": "know",
-          "gram": "present, 2nd person plural/formal"
+          "gram": "present second person singular of connaître"
         }
       ]
     },
@@ -133,8 +117,8 @@
           "lemma": "bien",
           "pos": "adv",
           "stress": "bjɛ̃",
-          "gloss": "well (very well)",
-          "gram": "invariable adverb ('bien', meaning 'well')"
+          "gloss": "good",
+          "gram": "adverb expressing a positive assessment"
         }
       ]
     },
@@ -256,15 +240,15 @@
     },
     {
       "seg": 7,
-      "trans": "She's ready for us.",
+      "trans": "With her, everything is still to be done.",
       "words": [
         {
-          "t": "Elle",
-          "lemma": "elle",
+          "t": "Tout",
+          "lemma": "tout",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "third person feminine singular subject"
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun subject"
         },
         {
           "t": "est",
@@ -275,28 +259,36 @@
           "gram": "present third person singular of être"
         },
         {
-          "t": "prête",
-          "lemma": "prêt",
-          "pos": "adj",
-          "stress": "pʁɛt",
-          "gloss": "ready",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
+          "t": "à",
+          "lemma": "à",
           "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
         },
         {
-          "t": "nous.",
-          "lemma": "nous",
+          "t": "faire",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛʁ",
+          "gloss": "do",
+          "gram": "infinitive of faire"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition ('avec', meaning 'with')"
+        },
+        {
+          "t": "elle.",
+          "lemma": "elle",
           "pos": "pron",
-          "stress": "nu",
-          "gloss": "us",
-          "gram": "stressed pronoun after a preposition"
+          "stress": "ɛl",
+          "gloss": "her",
+          "gram": "stressed feminine singular pronoun after avec"
         }
       ]
     },
@@ -345,20 +337,20 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
-          "t": "cherchez",
+          "t": "cherches",
           "lemma": "chercher",
           "pos": "verb",
-          "stress": "ʃɛʁʃe",
+          "stress": "ʃɛʁʃ",
           "gloss": "look for",
-          "gram": "present, 2nd person plural/formal"
+          "gram": "present second person singular"
         },
         {
           "t": "une",
@@ -383,12 +375,12 @@
       "trans": "Stop it, Arlette!",
       "words": [
         {
-          "t": "Arrêtez,",
+          "t": "Arrête,",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁɛte",
+          "stress": "aʁɛt",
           "gloss": "stop",
-          "gram": "imperative, 2nd person plural/formal (vous)"
+          "gram": "familiar singular imperative"
         },
         {
           "t": "Arlette!",
@@ -437,20 +429,12 @@
           "gram": "preposition, shows possession"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
-        },
-        {
-          "t": "apprendre",
+          "t": "t'apprendre",
           "lemma": "apprendre",
           "pos": "verb",
-          "stress": "apʁɑ̃dʁ",
-          "gloss": "teach",
-          "gram": "infinitive; apprendre quelque chose à quelqu'un = teach"
+          "stress": "tapʁɑ̃dʁ",
+          "gloss": "teach you",
+          "gram": "te + infinitive apprendre; indirect object before the infinitive"
         },
         {
           "t": "la",
@@ -634,63 +618,23 @@
     },
     {
       "seg": 14,
-      "trans": "You think so? She's better off with Mathias?",
+      "trans": "You think so?",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
-          "t": "croyez?",
+          "t": "crois?",
           "lemma": "croire",
           "pos": "verb",
-          "stress": "kʁwaje",
-          "gloss": "think, believe",
-          "gram": "present, 2nd person plural/formal"
-        },
-        {
-          "t": "Elle",
-          "lemma": "elle",
-          "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "third person feminine singular subject"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present third person singular of être"
-        },
-        {
-          "t": "mieux",
-          "lemma": "mieux",
-          "pos": "adv",
-          "stress": "mjø",
-          "gloss": "better",
-          "gram": "comparative of bien"
-        },
-        {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
-        },
-        {
-          "t": "Mathias?",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
+          "stress": "kʁwa",
+          "gloss": "think",
+          "gram": "present second person singular"
         }
       ]
     },
@@ -801,12 +745,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "restez",
+          "t": "reste",
           "lemma": "rester",
           "pos": "verb",
-          "stress": "ʁɛste",
+          "stress": "ʁɛst",
           "gloss": "stay",
-          "gram": "imperative, 2nd person plural/formal (vous)"
+          "gram": "familiar singular imperative"
         },
         {
           "t": "pas",
@@ -863,20 +807,20 @@
       "trans": "What are you doing?",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
-          "t": "faites",
+          "t": "fais",
           "lemma": "faire",
           "pos": "verb",
-          "stress": "fɛt",
-          "gloss": "are doing",
-          "gram": "present, 2nd person plural/formal (irregular)"
+          "stress": "fɛ",
+          "gloss": "do",
+          "gram": "present first or second person singular of faire"
         },
         {
           "t": "quoi?",
@@ -912,31 +856,15 @@
     },
     {
       "seg": 22,
-      "trans": "Alice Tiscalini. Do you know her?",
+      "trans": "Do you know her?",
       "words": [
         {
-          "t": "Alice",
-          "lemma": "alice",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Alice (first name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Tiscalini.",
-          "lemma": "tiscalini",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Tiscalini (surname)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
           "t": "la",
@@ -947,12 +875,12 @@
           "gram": "feminine singular object before connaître"
         },
         {
-          "t": "connaissez?",
+          "t": "connais?",
           "lemma": "connaître",
           "pos": "verb",
-          "stress": "kɔnɛse",
+          "stress": "kɔnɛ",
           "gloss": "know",
-          "gram": "present, 2nd person plural/formal"
+          "gram": "present second person singular of connaître"
         }
       ]
     },
@@ -989,8 +917,8 @@
           "lemma": "bien",
           "pos": "adv",
           "stress": "bjɛ̃",
-          "gloss": "well (very well)",
-          "gram": "invariable adverb ('bien', meaning 'well')"
+          "gloss": "good",
+          "gram": "adverb expressing a positive assessment"
         }
       ]
     },
@@ -1112,15 +1040,15 @@
     },
     {
       "seg": 30,
-      "trans": "She's ready for us.",
+      "trans": "With her, everything is still to be done.",
       "words": [
         {
-          "t": "Elle",
-          "lemma": "elle",
+          "t": "Tout",
+          "lemma": "tout",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "third person feminine singular subject"
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun subject"
         },
         {
           "t": "est",
@@ -1131,28 +1059,36 @@
           "gram": "present third person singular of être"
         },
         {
-          "t": "prête",
-          "lemma": "prêt",
-          "pos": "adj",
-          "stress": "pʁɛt",
-          "gloss": "ready",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
+          "t": "à",
+          "lemma": "à",
           "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
         },
         {
-          "t": "nous.",
-          "lemma": "nous",
+          "t": "faire",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛʁ",
+          "gloss": "do",
+          "gram": "infinitive of faire"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition ('avec', meaning 'with')"
+        },
+        {
+          "t": "elle.",
+          "lemma": "elle",
           "pos": "pron",
-          "stress": "nu",
-          "gloss": "us",
-          "gram": "stressed pronoun after a preposition"
+          "stress": "ɛl",
+          "gloss": "her",
+          "gram": "stressed feminine singular pronoun after avec"
         }
       ]
     },
@@ -1201,20 +1137,20 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
-          "t": "cherchez",
+          "t": "cherches",
           "lemma": "chercher",
           "pos": "verb",
-          "stress": "ʃɛʁʃe",
+          "stress": "ʃɛʁʃ",
           "gloss": "look for",
-          "gram": "present, 2nd person plural/formal"
+          "gram": "present second person singular"
         },
         {
           "t": "une",
@@ -1239,12 +1175,12 @@
       "trans": "Stop it, Arlette!",
       "words": [
         {
-          "t": "Arrêtez,",
+          "t": "Arrête,",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁɛte",
+          "stress": "aʁɛt",
           "gloss": "stop",
-          "gram": "imperative, 2nd person plural/formal (vous)"
+          "gram": "familiar singular imperative"
         },
         {
           "t": "Arlette!",
@@ -1293,20 +1229,12 @@
           "gram": "preposition, shows possession"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
-        },
-        {
-          "t": "apprendre",
+          "t": "t'apprendre",
           "lemma": "apprendre",
           "pos": "verb",
-          "stress": "apʁɑ̃dʁ",
-          "gloss": "teach",
-          "gram": "infinitive; apprendre quelque chose à quelqu'un = teach"
+          "stress": "tapʁɑ̃dʁ",
+          "gloss": "teach you",
+          "gram": "te + infinitive apprendre; indirect object before the infinitive"
         },
         {
           "t": "la",
@@ -1490,63 +1418,23 @@
     },
     {
       "seg": 44,
-      "trans": "You think so? She's better off with Mathias?",
+      "trans": "You think so?",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
-          "t": "croyez?",
+          "t": "crois?",
           "lemma": "croire",
           "pos": "verb",
-          "stress": "kʁwaje",
-          "gloss": "think, believe",
-          "gram": "present, 2nd person plural/formal"
-        },
-        {
-          "t": "Elle",
-          "lemma": "elle",
-          "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "third person feminine singular subject"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present third person singular of être"
-        },
-        {
-          "t": "mieux",
-          "lemma": "mieux",
-          "pos": "adv",
-          "stress": "mjø",
-          "gloss": "better",
-          "gram": "comparative of bien"
-        },
-        {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
-        },
-        {
-          "t": "Mathias?",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
+          "stress": "kʁwa",
+          "gloss": "think",
+          "gram": "present second person singular"
         }
       ]
     },
@@ -1657,12 +1545,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "restez",
+          "t": "reste",
           "lemma": "rester",
           "pos": "verb",
-          "stress": "ʁɛste",
+          "stress": "ʁɛst",
           "gloss": "stay",
-          "gram": "imperative, 2nd person plural/formal (vous)"
+          "gram": "familiar singular imperative"
         },
         {
           "t": "pas",
@@ -1719,20 +1607,20 @@
       "trans": "What are you doing?",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
-          "t": "faites",
+          "t": "fais",
           "lemma": "faire",
           "pos": "verb",
-          "stress": "fɛt",
-          "gloss": "are doing",
-          "gram": "present, 2nd person plural/formal (irregular)"
+          "stress": "fɛ",
+          "gloss": "do",
+          "gram": "present first or second person singular of faire"
         },
         {
           "t": "quoi?",
@@ -1768,31 +1656,15 @@
     },
     {
       "seg": 52,
-      "trans": "Alice Tiscalini. Do you know her?",
+      "trans": "Do you know her?",
       "words": [
         {
-          "t": "Alice",
-          "lemma": "alice",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Alice (first name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Tiscalini.",
-          "lemma": "tiscalini",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Tiscalini (surname)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
           "t": "la",
@@ -1803,12 +1675,12 @@
           "gram": "feminine singular object before connaître"
         },
         {
-          "t": "connaissez?",
+          "t": "connais?",
           "lemma": "connaître",
           "pos": "verb",
-          "stress": "kɔnɛse",
+          "stress": "kɔnɛ",
           "gloss": "know",
-          "gram": "present, 2nd person plural/formal"
+          "gram": "present second person singular of connaître"
         }
       ]
     },
@@ -1845,8 +1717,8 @@
           "lemma": "bien",
           "pos": "adv",
           "stress": "bjɛ̃",
-          "gloss": "well (very well)",
-          "gram": "invariable adverb ('bien', meaning 'well')"
+          "gloss": "good",
+          "gram": "adverb expressing a positive assessment"
         }
       ]
     },
@@ -1968,15 +1840,15 @@
     },
     {
       "seg": 56,
-      "trans": "She's ready for us.",
+      "trans": "With her, everything is still to be done.",
       "words": [
         {
-          "t": "Elle",
-          "lemma": "elle",
+          "t": "Tout",
+          "lemma": "tout",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "third person feminine singular subject"
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun subject"
         },
         {
           "t": "est",
@@ -1987,28 +1859,36 @@
           "gram": "present third person singular of être"
         },
         {
-          "t": "prête",
-          "lemma": "prêt",
-          "pos": "adj",
-          "stress": "pʁɛt",
-          "gloss": "ready",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
+          "t": "à",
+          "lemma": "à",
           "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
         },
         {
-          "t": "nous.",
-          "lemma": "nous",
+          "t": "faire",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛʁ",
+          "gloss": "do",
+          "gram": "infinitive of faire"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition ('avec', meaning 'with')"
+        },
+        {
+          "t": "elle.",
+          "lemma": "elle",
           "pos": "pron",
-          "stress": "nu",
-          "gloss": "us",
-          "gram": "stressed pronoun after a preposition"
+          "stress": "ɛl",
+          "gloss": "her",
+          "gram": "stressed feminine singular pronoun after avec"
         }
       ]
     },
@@ -2057,20 +1937,20 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
-          "t": "cherchez",
+          "t": "cherches",
           "lemma": "chercher",
           "pos": "verb",
-          "stress": "ʃɛʁʃe",
+          "stress": "ʃɛʁʃ",
           "gloss": "look for",
-          "gram": "present, 2nd person plural/formal"
+          "gram": "present second person singular"
         },
         {
           "t": "une",
@@ -2095,12 +1975,12 @@
       "trans": "Stop it, Arlette!",
       "words": [
         {
-          "t": "Arrêtez,",
+          "t": "Arrête,",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁɛte",
+          "stress": "aʁɛt",
           "gloss": "stop",
-          "gram": "imperative, 2nd person plural/formal (vous)"
+          "gram": "familiar singular imperative"
         },
         {
           "t": "Arlette!",
@@ -2149,20 +2029,12 @@
           "gram": "preposition, shows possession"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
-        },
-        {
-          "t": "apprendre",
+          "t": "t'apprendre",
           "lemma": "apprendre",
           "pos": "verb",
-          "stress": "apʁɑ̃dʁ",
-          "gloss": "teach",
-          "gram": "infinitive; apprendre quelque chose à quelqu'un = teach"
+          "stress": "tapʁɑ̃dʁ",
+          "gloss": "teach you",
+          "gram": "te + infinitive apprendre; indirect object before the infinitive"
         },
         {
           "t": "la",
@@ -2346,63 +2218,23 @@
     },
     {
       "seg": 63,
-      "trans": "You think so? She's better off with Mathias?",
+      "trans": "You think so?",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
-          "t": "croyez?",
+          "t": "crois?",
           "lemma": "croire",
           "pos": "verb",
-          "stress": "kʁwaje",
-          "gloss": "think, believe",
-          "gram": "present, 2nd person plural/formal"
-        },
-        {
-          "t": "Elle",
-          "lemma": "elle",
-          "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "third person feminine singular subject"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present third person singular of être"
-        },
-        {
-          "t": "mieux",
-          "lemma": "mieux",
-          "pos": "adv",
-          "stress": "mjø",
-          "gloss": "better",
-          "gram": "comparative of bien"
-        },
-        {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
-        },
-        {
-          "t": "Mathias?",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
+          "stress": "kʁwa",
+          "gloss": "think",
+          "gram": "present second person singular"
         }
       ]
     },
@@ -2513,12 +2345,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "restez",
+          "t": "reste",
           "lemma": "rester",
           "pos": "verb",
-          "stress": "ʁɛste",
+          "stress": "ʁɛst",
           "gloss": "stay",
-          "gram": "imperative, 2nd person plural/formal (vous)"
+          "gram": "familiar singular imperative"
         },
         {
           "t": "pas",
@@ -4057,12 +3889,7 @@
           "trans": "You have the choice."
         }
       ],
-      "related": [
-        {
-          "word": "un choix",
-          "gloss": "a choice"
-        }
-      ]
+      "related": []
     },
     "comme": {
       "lemma": "comme",
@@ -5155,40 +4982,6 @@
         }
       ]
     },
-    "mieux": {
-      "lemma": "mieux",
-      "stress": "mjø",
-      "pos": "adv",
-      "gloss": "better",
-      "meanings": [
-        {
-          "en": "better",
-          "note": "Comparative of bien."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est mieux.",
-          "trans": "It's better."
-        },
-        {
-          "text": "Ce serait mieux avec un homme.",
-          "trans": "It would be better with a man."
-        }
-      ],
-      "related": [
-        {
-          "word": "meilleur",
-          "gloss": "better (adjective)"
-        },
-        {
-          "word": "bien",
-          "gloss": "well"
-        }
-      ]
-    },
     "ne": {
       "lemma": "ne",
       "stress": "nə",
@@ -5220,40 +5013,6 @@
         {
           "word": "jamais",
           "gloss": "never"
-        }
-      ]
-    },
-    "nous": {
-      "lemma": "nous",
-      "stress": "nu",
-      "pos": "pron",
-      "gloss": "we, us",
-      "meanings": [
-        {
-          "en": "we",
-          "note": ""
-        },
-        {
-          "en": "us",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Nous comprenons.",
-          "trans": "We understand."
-        },
-        {
-          "text": "Viens avec nous!",
-          "trans": "Come with us!"
-        }
-      ],
-      "related": [
-        {
-          "word": "nous-mêmes",
-          "gloss": "ourselves"
         }
       ]
     },
@@ -5876,10 +5635,6 @@
       ],
       "related": [
         {
-          "word": "un peu",
-          "gloss": "a little"
-        },
-        {
           "word": "beaucoup",
           "gloss": "a lot"
         }
@@ -5916,101 +5671,6 @@
         {
           "word": "plusieurs",
           "gloss": "several"
-        }
-      ]
-    },
-    "pour": {
-      "lemma": "pour",
-      "stress": "puʁ",
-      "pos": "prep",
-      "gloss": "for; (in order) to",
-      "meanings": [
-        {
-          "en": "for",
-          "note": "before an infinitive: pour faire plaisir"
-        },
-        {
-          "en": "to, in order to",
-          "note": "+ infinitive: pour voir."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Deux places pour mardi.",
-          "trans": "Two tickets for Tuesday."
-        },
-        {
-          "text": "Je suis là pour voir Mathias.",
-          "trans": "I'm here to see Mathias."
-        }
-      ],
-      "related": [
-        {
-          "word": "pourquoi",
-          "gloss": "why"
-        },
-        {
-          "word": "pour cent",
-          "gloss": "percent"
-        },
-        {
-          "word": "pour de vrai",
-          "gloss": "for real"
-        }
-      ]
-    },
-    "prêt": {
-      "lemma": "prêt",
-      "stress": "pʁɛ",
-      "pos": "adj",
-      "gloss": "ready",
-      "meanings": [
-        {
-          "en": "ready",
-          "note": "Prêt à + infinitive = ready to."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "prêt",
-              "prête"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "prêts",
-              "prêtes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu es prête?",
-          "trans": "Are you ready?"
-        },
-        {
-          "text": "Ils sont prêts à partir.",
-          "trans": "They're ready to leave."
-        }
-      ],
-      "related": [
-        {
-          "word": "prêter",
-          "gloss": "to lend"
         }
       ]
     },
@@ -6587,12 +6247,7 @@
           "trans": "Samuel forgot to teach you tenacity."
         }
       ],
-      "related": [
-        {
-          "word": "une ténacité",
-          "gloss": "a tenacity"
-        }
-      ]
+      "related": []
     },
     "un": {
       "lemma": "un",
@@ -6810,44 +6465,6 @@
         {
           "word": "en vouloir à",
           "gloss": "to hold a grudge against"
-        }
-      ]
-    },
-    "vous": {
-      "lemma": "vous",
-      "stress": "vu",
-      "pos": "pron",
-      "gloss": "you (polite or plural)",
-      "meanings": [
-        {
-          "en": "you (polite)",
-          "note": "One person, formal."
-        },
-        {
-          "en": "you (plural)",
-          "note": "Several people."
-        },
-        {
-          "en": "you (object)",
-          "note": "je vous rappelle = I'll call you back"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous êtes où?",
-          "trans": "Where are you?"
-        },
-        {
-          "text": "Je vous rappelle.",
-          "trans": "I'll call you back."
-        }
-      ],
-      "related": [
-        {
-          "word": "tu",
-          "gloss": "you (informal)"
         }
       ]
     },
@@ -7096,14 +6713,69 @@
       ],
       "related": [
         {
-          "word": "un être",
-          "gloss": "a being, person"
-        },
-        {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
         }
       ]
+    },
+    "tu": {
+      "lemma": "tu",
+      "stress": "ty",
+      "pos": "pron",
+      "gloss": "you (casual)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "one person you know well: friends, family, close colleagues"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tu es pénible.",
+          "trans": "You're a pain."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        }
+      ],
+      "related": [
+        {
+          "word": "vous",
+          "gloss": "you (polite or plural)"
+        }
+      ]
+    },
+    "tout": {
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all; every",
+      "meanings": [
+        {
+          "en": "all; every",
+          "note": ""
+        },
+        {
+          "en": "everything",
+          "note": "Indefinite-pronoun use, as in Tout est à faire."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
+        },
+        {
+          "text": "Tout va bien.",
+          "trans": "Everything is going well."
+        }
+      ],
+      "related": []
     }
   }
 }

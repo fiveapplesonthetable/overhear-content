@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Mathias | Andréa a pris un crédit sur vingt ans. | Andréa has taken out a twenty-year loan. | #639 00:35:17: Andréa a pris un crédit sur 20 ans | verbatim |
 | 7 | Hélène | Et vous devenez le patron d'ASK. | And you become the boss of ASK. | #641 00:35:23: patron d'ASK | adapted: Omits the additional claim about becoming the majority shareholder. |
 | 8 | Mathias | Et dans un an, nous rachetons tout. | And in a year, we buy everything back. | #643 00:35:31: un an | adapted: Condenses the source plan to increase profits and buy the remaining shares within a year. |
-| 9 | Hélène | Avez-vous déjà trompé votre femme, Mathias? | Have you ever cheated on your wife, Mathias? | #644 00:35:42: Avez-vous déjà trompé votre femme, Mathias | verbatim |
+| 9 | Hélène | Vous avez déjà trompé votre femme, Mathias? | Have you ever cheated on your wife, Mathias? | #644 00:35:42: Avez-vous déjà trompé votre femme, Mathias | adapted: Original French audio keeps normal subject–verb order. Dual subtitles had invented Avez-vous inversion. |
 | 10 | Mathias | Pardonnez-moi, mais je ne parle pas de ça. | Forgive me, but I don't talk about that. | #645 00:35:47: Pardonnez-moi, mais je ne | verbatim |
 | 11 | Hélène | Samuel m'a beaucoup trompée, surtout avec des actrices. | Samuel cheated on me a lot, mostly with actresses. | #646 00:35:51: Samuel m'a beaucoup trompée, surtout avec des actrices | verbatim |
 | 12 | Hélène | Mais vous le saviez, non? | But you knew that, didn't you? | #647 00:35:54: vous le saviez | adapted: Simplifies the source introductory I imagine as a short confirmation question. |
@@ -39,7 +39,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Andréa has taken out a twenty-year loan.' The past again: 'has' plus 'taken'. The agents are putting their own money on the table.
 - 'And you become the boss of ASK.' She sees straight through him. The word for 'boss' is the ordinary one you'd use for the head of any company.
 - 'And in a year, we buy everything back.' French often uses the present for a plan in the near future, just like 'we fly out tomorrow' in English.
-- 'Have you ever cheated on your wife, Mathias?' The past helper and you swap places and join with a hyphen in this careful question. The word often translated already means ever here: Hélène asks whether this has happened at any time.
+- 'Have you ever cheated on your wife, Mathias?' French keeps you before have in the original spoken question. The question comes through in the voice, without reversing those words. The word often translated already means ever here: she is asking about his experience.
 - 'Forgive me, but I don't talk about that.' Mathias starts with a polite command, 'forgive me', then a firm negative around 'talk'.
 - 'Samuel cheated on me a lot, mostly with actresses.' The past tense once more. There's an extra letter on the end of the past form, silent, because the person cheated on is a woman: Hélène herself.
 - 'But you knew that, didn't you?' Hélène uses a past form for something that went on over time. The little 'no?' at the end works like 'didn't you?' in English.

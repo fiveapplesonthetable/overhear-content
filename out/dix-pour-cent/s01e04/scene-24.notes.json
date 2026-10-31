@@ -26,7 +26,7 @@
     },
     {
       "seg": 2,
-      "trans": "Jean Gabin, stop it! He bites traitors",
+      "trans": "Jean Gabin, stop it! He bites the legs of traitors!",
       "words": [
         {
           "t": "Jean",
@@ -54,11 +54,11 @@
         },
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, refers to the dog"
         },
         {
           "t": "mord",
@@ -86,11 +86,11 @@
         },
         {
           "t": "des",
-          "lemma": "un",
-          "pos": "det",
+          "lemma": "de",
+          "pos": "prep",
           "stress": "de",
-          "gloss": "some (often not translated)",
-          "gram": "indefinite article, plural"
+          "gloss": "of the",
+          "gram": "contraction de + les"
         },
         {
           "t": "traîtres!",
@@ -104,7 +104,7 @@
     },
     {
       "seg": 3,
-      "trans": "You",
+      "trans": "You're leaving the agency, is that it?",
       "words": [
         {
           "t": "Tu",
@@ -149,8 +149,6 @@
       ]
     },
     {
-      "seg": 4,
-      "trans": "I was going to tell you.",
       "words": [
         {
           "t": "J'allais",
@@ -161,20 +159,20 @@
           "gram": "je (elided j') + allais: imperfect (imparfait) of 'aller' + infinitive"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "indirect object, plural; the agency partners"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "pron",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "it",
+          "gram": "direct object, the departure"
         },
         {
           "t": "dire.",
@@ -182,21 +180,23 @@
           "pos": "verb",
           "stress": "diʁ",
           "gloss": "say",
-          "gram": "infinitive after pouvoir"
+          "gram": "infinitive after allais; was going to tell"
         }
-      ]
+      ],
+      "seg": 4,
+      "trans": "I was going to tell you."
     },
     {
       "seg": 5,
-      "trans": "It",
+      "trans": "It's nothing personal. The agency can't go on like this.",
       "words": [
         {
           "t": "Ce",
           "lemma": "ce",
-          "pos": "det",
+          "pos": "pron",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
-          "gram": "demonstrative, masculine singular"
+          "gloss": "it",
+          "gram": "demonstrative pronoun before être"
         },
         {
           "t": "n'est",
@@ -219,8 +219,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of (before a description)",
+          "gram": "links rien to the describing word personnel"
         },
         {
           "t": "personnel.",
@@ -252,7 +252,7 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "present, 3rd person singular (with 'on')"
+          "gram": "present, 3rd person singular; subject l’agence"
         },
         {
           "t": "pas",
@@ -290,23 +290,55 @@
     },
     {
       "seg": 6,
-      "trans": "If you leave with your actors, we",
+      "trans": "I'm within my rights. I'm leaving at the end of the month.",
       "words": [
         {
-          "t": "Si",
-          "lemma": "si",
-          "pos": "conj",
-          "stress": "si",
-          "gloss": "if",
-          "gram": "conjunction of condition"
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
         },
         {
-          "t": "tu",
-          "lemma": "tu",
+          "t": "suis",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɥi",
+          "gloss": "am",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "dans",
+          "lemma": "dans",
+          "pos": "prep",
+          "stress": "dɑ̃",
+          "gloss": "in",
+          "gram": "preposition ('dans', meaning 'in')"
+        },
+        {
+          "t": "mon",
+          "lemma": "mon",
+          "pos": "det",
+          "stress": "mɔ̃",
+          "gloss": "my",
+          "gram": "possessive, masculine singular"
+        },
+        {
+          "t": "droit.",
+          "lemma": "droit",
+          "pos": "adj",
+          "stress": "dʁwa",
+          "gloss": "right(s)",
+          "gram": "used as masculine singular noun ('mon droit' = my right)"
+        },
+        {
+          "t": "Je",
+          "lemma": "je",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
         },
         {
           "t": "pars",
@@ -317,130 +349,74 @@
           "gram": "present, 1st person singular"
         },
         {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
-        },
-        {
-          "t": "tes",
-          "lemma": "ton",
-          "pos": "det",
-          "stress": "te",
-          "gloss": "your",
-          "gram": "possessive, informal, plural (agrees with vacances)"
-        },
-        {
-          "t": "acteurs,",
-          "lemma": "acteur",
-          "pos": "noun",
-          "stress": "aktœʁ",
-          "gloss": "actors",
-          "gram": "masculine plural"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "va",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-        },
-        {
-          "t": "au",
+          "t": "à",
           "lemma": "à",
           "pos": "prep",
-          "stress": "o",
-          "gloss": "at the",
-          "gram": "à + le contracted"
+          "stress": "a",
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
-          "t": "tribunal!",
-          "lemma": "tribunal",
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
+        },
+        {
+          "t": "fin",
+          "lemma": "fin",
           "pos": "noun",
-          "stress": "tʁibynal",
-          "gloss": "court",
+          "stress": "fɛ̃",
+          "gloss": "end",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "du",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "dy",
+          "gloss": "of the",
+          "gram": "contraction de + le"
+        },
+        {
+          "t": "mois.",
+          "lemma": "mois",
+          "pos": "noun",
+          "stress": "mwa",
+          "gloss": "month",
           "gram": "masculine singular"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "I",
+      "trans": "Do you sleep well at night?",
       "words": [
         {
-          "t": "Je",
-          "lemma": "je",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "stress": "ty",
+          "gloss": "you (casual)",
+          "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
-          "t": "suis",
-          "lemma": "être",
+          "t": "dors",
+          "lemma": "dormir",
           "pos": "verb",
-          "stress": "sɥi",
-          "gloss": "am",
-          "gram": "present, 1st person singular"
+          "stress": "dɔʁ",
+          "gloss": "sleep",
+          "gram": "present, 2nd person singular"
         },
         {
-          "t": "dans",
-          "lemma": "dans",
-          "pos": "prep",
-          "stress": "dɑ̃",
-          "gloss": "in",
-          "gram": "preposition ('dans', meaning 'in')"
-        },
-        {
-          "t": "mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "droit.",
-          "lemma": "droit",
-          "pos": "adj",
-          "stress": "dʁwa",
-          "gloss": "right(s)",
-          "gram": "used as masculine singular noun ('mon droit' = my right)"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "pars",
-          "lemma": "partir",
-          "pos": "verb",
-          "stress": "paʁ",
-          "gloss": "am leaving, am going",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "à",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "t": "bien",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well (very well)",
+          "gram": "invariable adverb ('bien', meaning 'well')"
         },
         {
           "t": "la",
@@ -451,383 +427,321 @@
           "gram": "definite article, feminine singular"
         },
         {
-          "t": "fin",
-          "lemma": "fin",
+          "t": "nuit?",
+          "lemma": "nuit",
           "pos": "noun",
-          "stress": "fɛ̃",
-          "gloss": "end",
+          "stress": "nɥi",
+          "gloss": "night",
           "gram": "feminine singular"
-        },
-        {
-          "t": "du",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
-        },
-        {
-          "t": "mois.",
-          "lemma": "mois",
-          "pos": "noun",
-          "stress": "mwa",
-          "gloss": "months",
-          "gram": "noun, masculine plural"
         }
       ]
     },
     {
       "seg": 8,
-      "trans": "Do you sleep well at night?",
+      "trans": "One last thing. It concerns Samuel and it's important.",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
-        },
-        {
-          "t": "dors",
-          "lemma": "dormir",
-          "pos": "verb",
-          "stress": "dɔʁ",
-          "gloss": "sleep",
-          "gram": "present, 2nd person singular"
-        },
-        {
-          "t": "bien",
-          "lemma": "bien",
-          "pos": "adv",
-          "stress": "bjɛ̃",
-          "gloss": "well (very well)",
-          "gram": "invariable adverb ('bien', meaning 'well')"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
+          "t": "Une",
+          "lemma": "un",
           "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
+          "stress": "yn",
+          "gloss": "a",
+          "gram": "indefinite article, feminine singular"
         },
         {
-          "t": "nuit?",
-          "lemma": "nuit",
+          "t": "dernière",
+          "lemma": "dernier",
+          "pos": "adj",
+          "stress": "dɛʁnjɛʁ",
+          "gloss": "last",
+          "gram": "feminine singular, before chose"
+        },
+        {
+          "t": "chose.",
+          "lemma": "chose",
           "pos": "noun",
-          "stress": "nɥi",
-          "gloss": "night",
-          "gram": "feminine singular"
+          "stress": "ʃoz",
+          "gloss": "thing",
+          "gram": "feminine singular; une dernière chose = one last thing"
+        },
+        {
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
+        },
+        {
+          "t": "concerne",
+          "lemma": "concerner",
+          "pos": "verb",
+          "stress": "kɔ̃sɛʁn",
+          "gloss": "concerns, is about",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "Samuel",
+          "lemma": "samuel",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Samuel (the agency's boss)",
+          "gram": "proper name"
+        },
+        {
+          "t": "et",
+          "lemma": "et",
+          "pos": "conj",
+          "stress": "e",
+          "gloss": "and",
+          "gram": "coordinating conjunction"
+        },
+        {
+          "t": "c'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "important.",
+          "lemma": "important",
+          "pos": "adj",
+          "stress": "ɛ̃pɔʁtɑ̃",
+          "gloss": "important, significant",
+          "gram": "masculine singular, after c'est"
         }
       ]
     },
     {
       "seg": 9,
-      "trans": "One last thing. It concerns Samuel and it",
+      "trans": "He had a room all year round at the Hotel Saint-Georges.",
       "words": [
         {
-          "t": "Une",
+          "t": "Il",
+          "lemma": "il",
+          "pos": "pron",
+          "stress": "il",
+          "gloss": "he",
+          "gram": "subject pronoun, refers to Samuel"
+        },
+        {
+          "t": "avait",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "avɛ",
+          "gloss": "had",
+          "gram": "imparfait, 3rd person singular, describes an ongoing arrangement"
+        },
+        {
+          "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an (one)",
+          "gloss": "a",
           "gram": "indefinite article, feminine singular"
         },
         {
-          "t": "dernière",
-          "lemma": "dernier",
-          "pos": "adj",
-          "stress": "dɛʁnjɛʁ",
-          "gloss": "last",
-          "gram": "feminine singular, after the noun"
+          "t": "chambre",
+          "lemma": "chambre",
+          "pos": "noun",
+          "stress": "ʃɑ̃bʁ",
+          "gloss": "room",
+          "gram": "feminine singular"
         },
         {
-          "t": "chose.",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "ʃoz",
-          "gloss": "thing (something)",
-          "gram": "part of quelque chose"
+          "t": "toute",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tut",
+          "gloss": "all, whole",
+          "gram": "feminine singular, agrees with année"
         },
         {
-          "t": "Ça",
-          "lemma": "ça",
-          "pos": "pron",
-          "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "t": "l'année",
+          "lemma": "année",
+          "pos": "noun",
+          "stress": "lane",
+          "gloss": "the year",
+          "gram": "la (elided l') + année: feminine singular ('toute l'année' = all year round)"
         },
         {
-          "t": "concerne",
-          "lemma": "concerner",
-          "pos": "verb",
-          "stress": "kɔ̃sɛʁn",
-          "gloss": "concerns, is about",
-          "gram": "present, 3rd person singular"
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
-          "t": "Samuel",
-          "lemma": "samuel",
+          "t": "l'hôtel",
+          "lemma": "hôtel",
+          "pos": "noun",
+          "stress": "lotɛl",
+          "gloss": "the hotel",
+          "gram": "le (elided l') + hôtel: masculine singular"
+        },
+        {
+          "t": "Saint-Georges.",
+          "lemma": "saint-georges",
           "pos": "name",
           "stress": null,
-          "gloss": "Samuel (the agency's boss)",
+          "gloss": "Saint-Georges (name of the hotel)",
           "gram": "proper name"
-        },
-        {
-          "t": "et",
-          "lemma": "et",
-          "pos": "conj",
-          "stress": "e",
-          "gloss": "and",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "important.",
-          "lemma": "important",
-          "pos": "adj",
-          "stress": "ɛ̃pɔʁtɑ̃",
-          "gloss": "important, significant",
-          "gram": "masculine singular, after c'est"
         }
       ]
     },
     {
       "seg": 10,
-      "trans": "He had a room all year round at the Hotel Saint-Georges.",
+      "trans": "He was paying for it with the agency's money.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, refers to Samuel"
         },
         {
-          "t": "avait",
-          "lemma": "avoir",
+          "t": "la",
+          "lemma": "le",
+          "pos": "pron",
+          "stress": "la",
+          "gloss": "it",
+          "gram": "direct object, feminine singular, the room"
+        },
+        {
+          "t": "payait",
+          "lemma": "payer",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imparfait, 3rd person singular; helper of the plus-que-parfait"
+          "stress": "pejɛ",
+          "gloss": "was paying for",
+          "gram": "imperfect (imparfait), 3rd person singular"
         },
         {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "chambre",
-          "lemma": "chambre",
-          "pos": "noun",
-          "stress": "ʃɑ̃bʁ",
-          "gloss": "room",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "toute",
-          "lemma": "tout",
-          "pos": "det",
-          "stress": "tut",
-          "gloss": "all, whole",
-          "gram": "feminine singular (agrees with famille)"
-        },
-        {
-          "t": "l'année",
-          "lemma": "année",
-          "pos": "noun",
-          "stress": "lane",
-          "gloss": "the year",
-          "gram": "la (elided l') + année: feminine singular ('toute l'année' = all year round)"
-        },
-        {
-          "t": "à",
-          "lemma": "à",
+          "t": "avec",
+          "lemma": "avec",
           "pos": "prep",
-          "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition ('avec', meaning 'with')"
         },
         {
-          "t": "l'hôtel",
-          "lemma": "hôtel",
+          "t": "l'argent",
+          "lemma": "argent",
           "pos": "noun",
-          "stress": "lotɛl",
-          "gloss": "the hotel",
-          "gram": "le (elided l') + hôtel: masculine singular"
+          "stress": "laʁʒɑ̃",
+          "gloss": "money",
+          "gram": "l' (le) + masculine singular noun"
         },
         {
-          "t": "Saint-Georges.",
-          "lemma": "saint-georges",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Saint-Georges (name of the hotel)",
-          "gram": "proper name"
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
+        },
+        {
+          "t": "l'agence.",
+          "lemma": "agence",
+          "pos": "noun",
+          "stress": "laʒɑ̃s",
+          "gloss": "the agency",
+          "gram": "l' (elided la) + agence, feminine singular"
         }
       ]
     },
     {
       "seg": 11,
-      "trans": "He was paying for it with the agency",
+      "trans": "Colette Brancillon is going to find out. I just wanted to warn you.",
       "words": [
         {
-          "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
-          "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "t": "Colette",
+          "lemma": "colette",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Colette (first name)",
+          "gram": "proper name"
         },
         {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
+          "t": "Brancillon",
+          "lemma": "brancillon",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Brancillon (surname)",
+          "gram": "proper name"
         },
         {
-          "t": "payait",
-          "lemma": "payer",
+          "t": "va",
+          "lemma": "aller",
           "pos": "verb",
-          "stress": "pejɛ",
-          "gloss": "was paying for",
-          "gram": "imperfect (imparfait), 3rd person singular"
+          "stress": "va",
+          "gloss": "is going (to)",
+          "gram": "present, 3rd person singular; near future"
         },
         {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
+          "t": "le",
+          "lemma": "le",
+          "pos": "pron",
+          "stress": "lə",
+          "gloss": "it",
+          "gram": "direct object, the room paid for with agency money"
         },
         {
-          "t": "l'argent",
-          "lemma": "argent",
-          "pos": "noun",
-          "stress": "laʁʒɑ̃",
-          "gloss": "money",
-          "gram": "l' (le) + masculine singular noun"
+          "t": "découvrir.",
+          "lemma": "découvrir",
+          "pos": "verb",
+          "stress": "dekuvʁiʁ",
+          "gloss": "find out, discover",
+          "gram": "infinitive after 'va'"
         },
         {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
         },
         {
-          "t": "l'agence.",
-          "lemma": "agence",
-          "pos": "noun",
-          "stress": "laʒɑ̃s",
-          "gloss": "the agency",
-          "gram": "l' (elided la) + agence, feminine singular"
+          "t": "voulais",
+          "lemma": "vouloir",
+          "pos": "verb",
+          "stress": "vulɛ",
+          "gloss": "wanted",
+          "gram": "imparfait, 1st person singular"
+        },
+        {
+          "t": "juste",
+          "lemma": "juste",
+          "pos": "adv",
+          "stress": "ʒyst",
+          "gloss": "just",
+          "gram": "adverb, after the verb"
+        },
+        {
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, plural, the agency partners"
+        },
+        {
+          "t": "prévenir.",
+          "lemma": "prévenir",
+          "pos": "verb",
+          "stress": "pʁevəniʁ",
+          "gloss": "to warn",
+          "gram": "infinitive after 'voulais'"
         }
       ]
     },
     {
       "seg": 12,
-      "trans": "Colette Brancillon is going to find out. I just wanted to warn you.",
-      "words": [
-        {
-          "t": "Colette",
-          "lemma": "colette",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Colette (first name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Brancillon",
-          "lemma": "brancillon",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Brancillon (surname)",
-          "gram": "proper name"
-        },
-        {
-          "t": "va",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-        },
-        {
-          "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
-        },
-        {
-          "t": "découvrir.",
-          "lemma": "découvrir",
-          "pos": "verb",
-          "stress": "dekuvʁiʁ",
-          "gloss": "find out, discover",
-          "gram": "infinitive after 'va'"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "voulais",
-          "lemma": "vouloir",
-          "pos": "verb",
-          "stress": "vulɛ",
-          "gloss": "wanted",
-          "gram": "imparfait, 1st person singular"
-        },
-        {
-          "t": "juste",
-          "lemma": "juste",
-          "pos": "adv",
-          "stress": "ʒyst",
-          "gloss": "just",
-          "gram": "adverb, after the verb"
-        },
-        {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
-        },
-        {
-          "t": "prévenir.",
-          "lemma": "prévenir",
-          "pos": "verb",
-          "stress": "pʁevəniʁ",
-          "gloss": "to warn",
-          "gram": "infinitive after 'voulais'"
-        }
-      ]
-    },
-    {
-      "seg": 13,
       "trans": "Oh, Samuel, what did you do?",
       "words": [
         {
@@ -883,200 +797,114 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
+          "gloss": "done",
+          "gram": "past participle of faire; with as forms the past"
         }
       ]
     },
     {
       "seg": 14,
-      "trans": "We know the owner of the hotel. We",
+      "trans": "Let go of me!",
       "words": [
         {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+          "t": "Mais",
+          "lemma": "mais",
+          "pos": "conj",
+          "stress": "mɛ",
+          "gloss": "but",
+          "gram": "coordinating conjunction"
         },
         {
-          "t": "connaît",
-          "lemma": "connaître",
+          "t": "lâche-moi!",
+          "lemma": "lâcher",
           "pos": "verb",
-          "stress": "kɔnɛ",
-          "gloss": "knows",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
-        },
-        {
-          "t": "patron",
-          "lemma": "patron",
-          "pos": "noun",
-          "stress": "patʁɔ̃",
-          "gloss": "boss",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "l'hôtel.",
-          "lemma": "hôtel",
-          "pos": "noun",
-          "stress": "lotɛl",
-          "gloss": "the hotel",
-          "gram": "le (elided l') + hôtel: masculine singular"
-        },
-        {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "va",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-        },
-        {
-          "t": "lui",
-          "lemma": "lui",
-          "pos": "pron",
-          "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
-        },
-        {
-          "t": "parler.",
-          "lemma": "parler",
-          "pos": "verb",
-          "stress": "paʁle",
-          "gloss": "talk",
-          "gram": "infinitive after pouvoir"
+          "stress": "laʃmwa",
+          "gloss": "let go of me",
+          "gram": "imperative, 2nd person singular (tu) + moi (me)"
         }
       ]
     },
     {
       "seg": 16,
-      "trans": "Let go of me!",
+      "trans": "Jean Gabin, stop it! He bites the legs of traitors!",
       "words": [
         {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
+          "t": "Jean",
+          "lemma": "jean",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Jean",
+          "gram": "first name (the dog)"
         },
         {
-          "t": "lâche-moi!",
-          "lemma": "lâcher",
+          "t": "Gabin,",
+          "lemma": "gabin",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Gabin",
+          "gram": "surname, after the old film star"
+        },
+        {
+          "t": "arrête!",
+          "lemma": "arrêter",
           "pos": "verb",
-          "stress": "laʃmwa",
-          "gloss": "let go of me",
-          "gram": "imperative, 2nd person singular (tu) + moi (me)"
+          "stress": "aʁɛt",
+          "gloss": "stop it",
+          "gram": "imperative, 2nd person singular (tu)"
+        },
+        {
+          "t": "Il",
+          "lemma": "il",
+          "pos": "pron",
+          "stress": "il",
+          "gloss": "he",
+          "gram": "subject pronoun, refers to the dog"
+        },
+        {
+          "t": "mord",
+          "lemma": "mordre",
+          "pos": "verb",
+          "stress": "mɔʁ",
+          "gloss": "bites",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "les",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "le",
+          "gloss": "the",
+          "gram": "definite article, plural"
+        },
+        {
+          "t": "jambes",
+          "lemma": "jambe",
+          "pos": "noun",
+          "stress": "ʒɑ̃b",
+          "gloss": "legs",
+          "gram": "feminine plural"
+        },
+        {
+          "t": "des",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "de",
+          "gloss": "of the",
+          "gram": "contraction de + les"
+        },
+        {
+          "t": "traîtres!",
+          "lemma": "traître",
+          "pos": "noun",
+          "stress": "tʁɛtʁ",
+          "gloss": "traitors",
+          "gram": "masculine plural"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "Jean Gabin, stop it! He bites traitors",
-      "words": [
-        {
-          "t": "Jean",
-          "lemma": "jean",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Jean",
-          "gram": "first name (the dog)"
-        },
-        {
-          "t": "Gabin,",
-          "lemma": "gabin",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabin",
-          "gram": "surname, after the old film star"
-        },
-        {
-          "t": "arrête!",
-          "lemma": "arrêter",
-          "pos": "verb",
-          "stress": "aʁɛt",
-          "gloss": "stop it",
-          "gram": "imperative, 2nd person singular (tu)"
-        },
-        {
-          "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
-          "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
-        },
-        {
-          "t": "mord",
-          "lemma": "mordre",
-          "pos": "verb",
-          "stress": "mɔʁ",
-          "gloss": "bites",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "les",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "le",
-          "gloss": "the",
-          "gram": "definite article, plural"
-        },
-        {
-          "t": "jambes",
-          "lemma": "jambe",
-          "pos": "noun",
-          "stress": "ʒɑ̃b",
-          "gloss": "legs",
-          "gram": "feminine plural"
-        },
-        {
-          "t": "des",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "de",
-          "gloss": "some (often not translated)",
-          "gram": "indefinite article, plural"
-        },
-        {
-          "t": "traîtres!",
-          "lemma": "traître",
-          "pos": "noun",
-          "stress": "tʁɛtʁ",
-          "gloss": "traitors",
-          "gram": "masculine plural"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "You",
+      "trans": "You're leaving the agency, is that it?",
       "words": [
         {
           "t": "Tu",
@@ -1121,8 +949,6 @@
       ]
     },
     {
-      "seg": 22,
-      "trans": "I was going to tell you.",
       "words": [
         {
           "t": "J'allais",
@@ -1133,20 +959,20 @@
           "gram": "je (elided j') + allais: imperfect (imparfait) of 'aller' + infinitive"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "indirect object, plural; the agency partners"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "pron",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "it",
+          "gram": "direct object, the departure"
         },
         {
           "t": "dire.",
@@ -1154,21 +980,23 @@
           "pos": "verb",
           "stress": "diʁ",
           "gloss": "say",
-          "gram": "infinitive after pouvoir"
+          "gram": "infinitive after allais; was going to tell"
         }
-      ]
+      ],
+      "seg": 20,
+      "trans": "I was going to tell you."
     },
     {
-      "seg": 24,
-      "trans": "It",
+      "seg": 22,
+      "trans": "It's nothing personal. The agency can't go on like this.",
       "words": [
         {
           "t": "Ce",
           "lemma": "ce",
-          "pos": "det",
+          "pos": "pron",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
-          "gram": "demonstrative, masculine singular"
+          "gloss": "it",
+          "gram": "demonstrative pronoun before être"
         },
         {
           "t": "n'est",
@@ -1191,8 +1019,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of (before a description)",
+          "gram": "links rien to the describing word personnel"
         },
         {
           "t": "personnel.",
@@ -1224,7 +1052,7 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "present, 3rd person singular (with 'on')"
+          "gram": "present, 3rd person singular; subject l’agence"
         },
         {
           "t": "pas",
@@ -1261,94 +1089,8 @@
       ]
     },
     {
-      "seg": 26,
-      "trans": "If you leave with your actors, we",
-      "words": [
-        {
-          "t": "Si",
-          "lemma": "si",
-          "pos": "conj",
-          "stress": "si",
-          "gloss": "if",
-          "gram": "conjunction of condition"
-        },
-        {
-          "t": "tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
-        },
-        {
-          "t": "pars",
-          "lemma": "partir",
-          "pos": "verb",
-          "stress": "paʁ",
-          "gloss": "am leaving, am going",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
-        },
-        {
-          "t": "tes",
-          "lemma": "ton",
-          "pos": "det",
-          "stress": "te",
-          "gloss": "your",
-          "gram": "possessive, informal, plural (agrees with vacances)"
-        },
-        {
-          "t": "acteurs,",
-          "lemma": "acteur",
-          "pos": "noun",
-          "stress": "aktœʁ",
-          "gloss": "actors",
-          "gram": "masculine plural"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "va",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-        },
-        {
-          "t": "au",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "o",
-          "gloss": "at the",
-          "gram": "à + le contracted"
-        },
-        {
-          "t": "tribunal!",
-          "lemma": "tribunal",
-          "pos": "noun",
-          "stress": "tʁibynal",
-          "gloss": "court",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 28,
-      "trans": "I",
+      "seg": 24,
+      "trans": "I'm within my rights. I'm leaving at the end of the month.",
       "words": [
         {
           "t": "Je",
@@ -1435,21 +1177,21 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction de + le"
         },
         {
           "t": "mois.",
           "lemma": "mois",
           "pos": "noun",
           "stress": "mwa",
-          "gloss": "months",
-          "gram": "noun, masculine plural"
+          "gloss": "month",
+          "gram": "masculine singular"
         }
       ]
     },
     {
-      "seg": 30,
+      "seg": 26,
       "trans": "Do you sleep well at night?",
       "words": [
         {
@@ -1495,15 +1237,15 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "One last thing. It concerns Samuel and it",
+      "seg": 28,
+      "trans": "One last thing. It concerns Samuel and it's important.",
       "words": [
         {
           "t": "Une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an (one)",
+          "gloss": "a",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -1512,15 +1254,15 @@
           "pos": "adj",
           "stress": "dɛʁnjɛʁ",
           "gloss": "last",
-          "gram": "feminine singular, after the noun"
+          "gram": "feminine singular, before chose"
         },
         {
           "t": "chose.",
-          "lemma": "quelque chose",
-          "pos": "phrase",
+          "lemma": "chose",
+          "pos": "noun",
           "stress": "ʃoz",
-          "gloss": "thing (something)",
-          "gram": "part of quelque chose"
+          "gloss": "thing",
+          "gram": "feminine singular; une dernière chose = one last thing"
         },
         {
           "t": "Ça",
@@ -1573,16 +1315,16 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 30,
       "trans": "He had a room all year round at the Hotel Saint-Georges.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, refers to Samuel"
         },
         {
           "t": "avait",
@@ -1590,14 +1332,14 @@
           "pos": "verb",
           "stress": "avɛ",
           "gloss": "had",
-          "gram": "imparfait, 3rd person singular; helper of the plus-que-parfait"
+          "gram": "imparfait, 3rd person singular, describes an ongoing arrangement"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an (one)",
+          "gloss": "a",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -1614,7 +1356,7 @@
           "pos": "det",
           "stress": "tut",
           "gloss": "all, whole",
-          "gram": "feminine singular (agrees with famille)"
+          "gram": "feminine singular, agrees with année"
         },
         {
           "t": "l'année",
@@ -1651,24 +1393,24 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "He was paying for it with the agency",
+      "seg": 32,
+      "trans": "He was paying for it with the agency's money.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, refers to Samuel"
         },
         {
           "t": "la",
           "lemma": "le",
-          "pos": "det",
+          "pos": "pron",
           "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
+          "gloss": "it",
+          "gram": "direct object, feminine singular, the room"
         },
         {
           "t": "payait",
@@ -1713,7 +1455,7 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 34,
       "trans": "Colette Brancillon is going to find out. I just wanted to warn you.",
       "words": [
         {
@@ -1737,16 +1479,16 @@
           "lemma": "aller",
           "pos": "verb",
           "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+          "gloss": "is going (to)",
+          "gram": "present, 3rd person singular; near future"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "pron",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "it",
+          "gram": "direct object, the room paid for with agency money"
         },
         {
           "t": "découvrir.",
@@ -1785,8 +1527,8 @@
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "gloss": "you",
+          "gram": "direct object, plural, the agency partners"
         },
         {
           "t": "prévenir.",
@@ -1799,7 +1541,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 36,
       "trans": "Oh, Samuel, what did you do?",
       "words": [
         {
@@ -1855,99 +1597,13 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
+          "gloss": "done",
+          "gram": "past participle of faire; with as forms the past"
         }
       ]
     },
     {
-      "seg": 42,
-      "trans": "We know the owner of the hotel. We",
-      "words": [
-        {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "connaît",
-          "lemma": "connaître",
-          "pos": "verb",
-          "stress": "kɔnɛ",
-          "gloss": "knows",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
-        },
-        {
-          "t": "patron",
-          "lemma": "patron",
-          "pos": "noun",
-          "stress": "patʁɔ̃",
-          "gloss": "boss",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "l'hôtel.",
-          "lemma": "hôtel",
-          "pos": "noun",
-          "stress": "lotɛl",
-          "gloss": "the hotel",
-          "gram": "le (elided l') + hôtel: masculine singular"
-        },
-        {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "va",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-        },
-        {
-          "t": "lui",
-          "lemma": "lui",
-          "pos": "pron",
-          "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
-        },
-        {
-          "t": "parler.",
-          "lemma": "parler",
-          "pos": "verb",
-          "stress": "paʁle",
-          "gloss": "talk",
-          "gram": "infinitive after pouvoir"
-        }
-      ]
-    },
-    {
-      "seg": 44,
+      "seg": 38,
       "trans": "Let go of me!",
       "words": [
         {
@@ -1969,8 +1625,8 @@
       ]
     },
     {
-      "seg": 45,
-      "trans": "Jean Gabin, stop it! He bites traitors",
+      "seg": 39,
+      "trans": "Jean Gabin, stop it! He bites the legs of traitors!",
       "words": [
         {
           "t": "Jean",
@@ -1998,11 +1654,11 @@
         },
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, refers to the dog"
         },
         {
           "t": "mord",
@@ -2030,11 +1686,11 @@
         },
         {
           "t": "des",
-          "lemma": "un",
-          "pos": "det",
+          "lemma": "de",
+          "pos": "prep",
           "stress": "de",
-          "gloss": "some (often not translated)",
-          "gram": "indefinite article, plural"
+          "gloss": "of the",
+          "gram": "contraction de + les"
         },
         {
           "t": "traîtres!",
@@ -2047,8 +1703,8 @@
       ]
     },
     {
-      "seg": 46,
-      "trans": "You",
+      "seg": 40,
+      "trans": "You're leaving the agency, is that it?",
       "words": [
         {
           "t": "Tu",
@@ -2093,8 +1749,6 @@
       ]
     },
     {
-      "seg": 47,
-      "trans": "I was going to tell you.",
       "words": [
         {
           "t": "J'allais",
@@ -2105,20 +1759,20 @@
           "gram": "je (elided j') + allais: imperfect (imparfait) of 'aller' + infinitive"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "indirect object, plural; the agency partners"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "pron",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "it",
+          "gram": "direct object, the departure"
         },
         {
           "t": "dire.",
@@ -2126,21 +1780,23 @@
           "pos": "verb",
           "stress": "diʁ",
           "gloss": "say",
-          "gram": "infinitive after pouvoir"
+          "gram": "infinitive after allais; was going to tell"
         }
-      ]
+      ],
+      "seg": 41,
+      "trans": "I was going to tell you."
     },
     {
-      "seg": 48,
-      "trans": "It",
+      "seg": 42,
+      "trans": "It's nothing personal. The agency can't go on like this.",
       "words": [
         {
           "t": "Ce",
           "lemma": "ce",
-          "pos": "det",
+          "pos": "pron",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
-          "gram": "demonstrative, masculine singular"
+          "gloss": "it",
+          "gram": "demonstrative pronoun before être"
         },
         {
           "t": "n'est",
@@ -2163,8 +1819,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of (before a description)",
+          "gram": "links rien to the describing word personnel"
         },
         {
           "t": "personnel.",
@@ -2196,7 +1852,7 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "present, 3rd person singular (with 'on')"
+          "gram": "present, 3rd person singular; subject l’agence"
         },
         {
           "t": "pas",
@@ -2233,94 +1889,8 @@
       ]
     },
     {
-      "seg": 49,
-      "trans": "If you leave with your actors, we",
-      "words": [
-        {
-          "t": "Si",
-          "lemma": "si",
-          "pos": "conj",
-          "stress": "si",
-          "gloss": "if",
-          "gram": "conjunction of condition"
-        },
-        {
-          "t": "tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
-        },
-        {
-          "t": "pars",
-          "lemma": "partir",
-          "pos": "verb",
-          "stress": "paʁ",
-          "gloss": "am leaving, am going",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
-        },
-        {
-          "t": "tes",
-          "lemma": "ton",
-          "pos": "det",
-          "stress": "te",
-          "gloss": "your",
-          "gram": "possessive, informal, plural (agrees with vacances)"
-        },
-        {
-          "t": "acteurs,",
-          "lemma": "acteur",
-          "pos": "noun",
-          "stress": "aktœʁ",
-          "gloss": "actors",
-          "gram": "masculine plural"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "va",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-        },
-        {
-          "t": "au",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "o",
-          "gloss": "at the",
-          "gram": "à + le contracted"
-        },
-        {
-          "t": "tribunal!",
-          "lemma": "tribunal",
-          "pos": "noun",
-          "stress": "tʁibynal",
-          "gloss": "court",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 50,
-      "trans": "I",
+      "seg": 43,
+      "trans": "I'm within my rights. I'm leaving at the end of the month.",
       "words": [
         {
           "t": "Je",
@@ -2407,21 +1977,21 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction de + le"
         },
         {
           "t": "mois.",
           "lemma": "mois",
           "pos": "noun",
           "stress": "mwa",
-          "gloss": "months",
-          "gram": "noun, masculine plural"
+          "gloss": "month",
+          "gram": "masculine singular"
         }
       ]
     },
     {
-      "seg": 51,
+      "seg": 44,
       "trans": "Do you sleep well at night?",
       "words": [
         {
@@ -2467,15 +2037,15 @@
       ]
     },
     {
-      "seg": 52,
-      "trans": "One last thing. It concerns Samuel and it",
+      "seg": 45,
+      "trans": "One last thing. It concerns Samuel and it's important.",
       "words": [
         {
           "t": "Une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an (one)",
+          "gloss": "a",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -2484,15 +2054,15 @@
           "pos": "adj",
           "stress": "dɛʁnjɛʁ",
           "gloss": "last",
-          "gram": "feminine singular, after the noun"
+          "gram": "feminine singular, before chose"
         },
         {
           "t": "chose.",
-          "lemma": "quelque chose",
-          "pos": "phrase",
+          "lemma": "chose",
+          "pos": "noun",
           "stress": "ʃoz",
-          "gloss": "thing (something)",
-          "gram": "part of quelque chose"
+          "gloss": "thing",
+          "gram": "feminine singular; une dernière chose = one last thing"
         },
         {
           "t": "Ça",
@@ -2545,16 +2115,16 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 46,
       "trans": "He had a room all year round at the Hotel Saint-Georges.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, refers to Samuel"
         },
         {
           "t": "avait",
@@ -2562,14 +2132,14 @@
           "pos": "verb",
           "stress": "avɛ",
           "gloss": "had",
-          "gram": "imparfait, 3rd person singular; helper of the plus-que-parfait"
+          "gram": "imparfait, 3rd person singular, describes an ongoing arrangement"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an (one)",
+          "gloss": "a",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -2586,7 +2156,7 @@
           "pos": "det",
           "stress": "tut",
           "gloss": "all, whole",
-          "gram": "feminine singular (agrees with famille)"
+          "gram": "feminine singular, agrees with année"
         },
         {
           "t": "l'année",
@@ -2623,24 +2193,24 @@
       ]
     },
     {
-      "seg": 54,
-      "trans": "He was paying for it with the agency",
+      "seg": 47,
+      "trans": "He was paying for it with the agency's money.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject pronoun, refers to Samuel"
         },
         {
           "t": "la",
           "lemma": "le",
-          "pos": "det",
+          "pos": "pron",
           "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
+          "gloss": "it",
+          "gram": "direct object, feminine singular, the room"
         },
         {
           "t": "payait",
@@ -2685,7 +2255,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 48,
       "trans": "Colette Brancillon is going to find out. I just wanted to warn you.",
       "words": [
         {
@@ -2709,16 +2279,16 @@
           "lemma": "aller",
           "pos": "verb",
           "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+          "gloss": "is going (to)",
+          "gram": "present, 3rd person singular; near future"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "pron",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "it",
+          "gram": "direct object, the room paid for with agency money"
         },
         {
           "t": "découvrir.",
@@ -2757,8 +2327,8 @@
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "gloss": "you",
+          "gram": "direct object, plural, the agency partners"
         },
         {
           "t": "prévenir.",
@@ -2771,7 +2341,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 49,
       "trans": "Oh, Samuel, what did you do?",
       "words": [
         {
@@ -2827,99 +2397,13 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
+          "gloss": "done",
+          "gram": "past participle of faire; with as forms the past"
         }
       ]
     },
     {
-      "seg": 57,
-      "trans": "We know the owner of the hotel. We",
-      "words": [
-        {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "connaît",
-          "lemma": "connaître",
-          "pos": "verb",
-          "stress": "kɔnɛ",
-          "gloss": "knows",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
-        },
-        {
-          "t": "patron",
-          "lemma": "patron",
-          "pos": "noun",
-          "stress": "patʁɔ̃",
-          "gloss": "boss",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "l'hôtel.",
-          "lemma": "hôtel",
-          "pos": "noun",
-          "stress": "lotɛl",
-          "gloss": "the hotel",
-          "gram": "le (elided l') + hôtel: masculine singular"
-        },
-        {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "va",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-        },
-        {
-          "t": "lui",
-          "lemma": "lui",
-          "pos": "pron",
-          "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
-        },
-        {
-          "t": "parler.",
-          "lemma": "parler",
-          "pos": "verb",
-          "stress": "paʁle",
-          "gloss": "talk",
-          "gram": "infinitive after pouvoir"
-        }
-      ]
-    },
-    {
-      "seg": 59,
+      "seg": 51,
       "trans": "See you soon!",
       "words": [
         {
@@ -2952,7 +2436,7 @@
       "meanings": [
         {
           "en": "actor",
-          "note": "Feminine: actrice. Derived with the Romance agent/quality suffix '-eur'/'-euse' (from Latin '-or'/'-tor'). Standard masculine noun meaning 'actor'."
+          "note": "Feminine: actrice."
         }
       ],
       "forms": {
@@ -3058,11 +2542,11 @@
         },
         {
           "en": "aller + infinitive = going to (near future)",
-          "note": "Je vais déjeuner. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Je vais déjeuner."
         },
         {
           "en": "allez! = come on!",
-          "note": "Imperative used to encourage. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Imperative used to encourage."
         }
       ],
       "forms": {
@@ -3250,7 +2734,7 @@
       "meanings": [
         {
           "en": "year (its length, its course)",
-          "note": "Chaque année, une bonne année. Feminine noun ('la année', plural 'les années') inherited through Romance vocabulary, used in everyday and professional French for 'year'."
+          "note": "Chaque année, une bonne année."
         }
       ],
       "forms": {
@@ -3285,12 +2769,7 @@
           "trans": "Botox every year, and her eyes two years ago."
         }
       ],
-      "related": [
-        {
-          "word": "une année / des années",
-          "gloss": "a year / years"
-        }
-      ]
+      "related": []
     },
     "argent": {
       "lemma": "argent",
@@ -3302,11 +2781,11 @@
       "meanings": [
         {
           "en": "money",
-          "note": "Always singular in this sense. Masculine noun ('le argent', plural 'les —') inherited through Romance vocabulary, used in everyday and professional French for 'money'."
+          "note": "Always singular in this sense."
         },
         {
           "en": "silver",
-          "note": "The metal. Masculine noun ('le argent', plural 'les —') inherited through Romance vocabulary, used in everyday and professional French for 'money'."
+          "note": "The metal."
         }
       ],
       "forms": {
@@ -3356,11 +2835,11 @@
       "meanings": [
         {
           "en": "to stop",
-          "note": "Arrête! / arrêtez!. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to stop'; conjugates with 'avoir' in compound tenses (past participle 'arrêté')."
+          "note": "Arrête! / arrêtez!."
         },
         {
           "en": "stop it! (imperative)",
-          "note": "Arrête! / arrêtez!. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to stop'; conjugates with 'avoir' in compound tenses (past participle 'arrêté')."
+          "note": "Arrête! / arrêtez!."
         }
       ],
       "forms": {
@@ -3561,12 +3040,7 @@
           "trans": "I've got a problem at work."
         }
       ],
-      "related": [
-        {
-          "word": "au",
-          "gloss": "at the"
-        }
-      ]
+      "related": []
     },
     "avec": {
       "lemma": "avec",
@@ -3576,7 +3050,7 @@
       "meanings": [
         {
           "en": "with",
-          "note": "Core French preposition meaning 'with', linking a noun phrase or infinitive complement to the clause."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3595,12 +3069,7 @@
           "trans": "And tomorrow you're having lunch with Audiard."
         }
       ],
-      "related": [
-        {
-          "word": "avec",
-          "gloss": "with"
-        }
-      ]
+      "related": []
     },
     "avoir": {
       "lemma": "avoir",
@@ -3614,11 +3083,11 @@
         },
         {
           "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "J'ai appelé = I called."
         },
         {
           "en": "il y a = there is, there are",
-          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "Fixed expression."
         }
       ],
       "forms": {
@@ -3800,11 +3269,11 @@
       "meanings": [
         {
           "en": "well",
-          "note": "Très bien = very well, fine. Invariable French adverb meaning 'well'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Très bien = very well, fine."
         },
         {
           "en": "good, nice",
-          "note": "C'est bien. Invariable French adverb meaning 'well'; placed immediately after the conjugated verb in simple tenses."
+          "note": "C'est bien."
         }
       ],
       "forms": null,
@@ -3846,7 +3315,7 @@
       "meanings": [
         {
           "en": "soon",
-          "note": "À bientôt = see you soon. Invariable French adverb meaning 'soon'; placed immediately after the conjugated verb in simple tenses."
+          "note": "À bientôt = see you soon."
         }
       ],
       "forms": null,
@@ -3930,12 +3399,7 @@
           "trans": "Magali, I have to see the Koltès play this week."
         }
       ],
-      "related": [
-        {
-          "word": "determiner: ce soir",
-          "gloss": "tonight, cette semaine = this week"
-        }
-      ]
+      "related": []
     },
     "chambre": {
       "lemma": "chambre",
@@ -3947,11 +3411,11 @@
       "meanings": [
         {
           "en": "bedroom",
-          "note": "Une chambre d'hôtel. Feminine noun ('la chambre', plural 'les chambres') inherited through Romance vocabulary, used in everyday and professional French for 'room'."
+          "note": "Une chambre d'hôtel."
         },
         {
           "en": "hotel room",
-          "note": "Une chambre d'hôtel. Feminine noun ('la chambre', plural 'les chambres') inherited through Romance vocabulary, used in everyday and professional French for 'room'."
+          "note": "Une chambre d'hôtel."
         }
       ],
       "forms": {
@@ -4057,11 +3521,11 @@
       "meanings": [
         {
           "en": "like",
-          "note": "Comparison: comme un rêve. Core French preposition meaning 'like', linking a noun phrase or infinitive complement to the clause."
+          "note": "Comparison: comme un rêve."
         },
         {
           "en": "as, since",
-          "note": "Conjunction. Core French preposition meaning 'like', linking a noun phrase or infinitive complement to the clause."
+          "note": "Conjunction."
         }
       ],
       "forms": null,
@@ -4099,7 +3563,7 @@
       "meanings": [
         {
           "en": "to concern, to be about",
-          "note": "Ça concerne... = it's about. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to concern'; conjugates with 'avoir' in compound tenses (past participle 'concerné')."
+          "note": "Ça concerne... = it's about."
         }
       ],
       "forms": {
@@ -4419,7 +3883,7 @@
       "meanings": [
         {
           "en": "to continue, to go on",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to continue'; conjugates with 'avoir' in compound tenses (past participle 'continué')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4577,11 +4041,11 @@
       "meanings": [
         {
           "en": "in, inside",
-          "note": "J'étais dans les sous-vêtements. Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
+          "note": "J'étais dans les sous-vêtements."
         },
         {
           "en": "in (time from now)",
-          "note": "Dans une heure = in an hour. Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
+          "note": "Dans une heure = in an hour."
         }
       ],
       "forms": null,
@@ -4600,20 +4064,7 @@
           "trans": "You know lots of people in film. You could help me."
         }
       ],
-      "related": [
-        {
-          "word": "danse",
-          "gloss": "dance"
-        },
-        {
-          "word": "danser",
-          "gloss": "to dance"
-        },
-        {
-          "word": "danseur",
-          "gloss": "dancer"
-        }
-      ]
+      "related": []
     },
     "de": {
       "lemma": "de",
@@ -4623,7 +4074,7 @@
       "meanings": [
         {
           "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "D' before a vowel."
         },
         {
           "en": "'s (possession)",
@@ -4631,7 +4082,7 @@
         },
         {
           "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
@@ -4673,7 +4124,7 @@
         },
         {
           "en": "last, final",
-          "note": "Before the noun: le dernier jour. Descriptive French adjective meaning 'last'; agrees in gender and number with the noun it modifies."
+          "note": "Before the noun: le dernier jour."
         }
       ],
       "forms": {
@@ -4920,7 +4371,7 @@
       "meanings": [
         {
           "en": "to sleep",
-          "note": "Mal dormir = to sleep badly. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to sleep'."
+          "note": "Mal dormir = to sleep badly."
         }
       ],
       "forms": {
@@ -5082,7 +4533,7 @@
         },
         {
           "en": "right (side)",
-          "note": "À droite = on the right. Descriptive French adjective meaning 'straight'; agrees in gender and number with the noun it modifies."
+          "note": "À droite = on the right."
         }
       ],
       "forms": {
@@ -5185,12 +4636,7 @@
           "trans": "It's compost. It feeds the earth."
         }
       ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "some"
-        }
-      ]
+      "related": []
     },
     "découvrir": {
       "lemma": "découvrir",
@@ -5200,7 +4646,7 @@
       "meanings": [
         {
           "en": "to find out, to discover",
-          "note": "Conjugated like 'ouvrir'. French '-ir' verb (from Latin '-ire'). Prefix 'dé-'/'des-' (from Latin 'dis-'/'de-') marks reversal, removal, or separation. Core French verb meaning 'to discover, to find out'."
+          "note": "Conjugated like 'ouvrir'."
         }
       ],
       "forms": {
@@ -5358,7 +4804,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": "The t is never pronounced. French conjunction meaning 'and', used to link clauses in spoken and written discourse."
+          "note": "The t is never pronounced."
         }
       ],
       "forms": null,
@@ -5377,12 +4823,7 @@
           "trans": "And tomorrow you're having lunch with Audiard."
         }
       ],
-      "related": [
-        {
-          "word": "et",
-          "gloss": "and"
-        }
-      ]
+      "related": []
     },
     "faire": {
       "lemma": "faire",
@@ -5396,15 +4837,15 @@
         },
         {
           "en": "faire confiance à = to trust",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": ""
         },
         {
           "en": "faire la surprise à = to surprise",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": ""
         },
         {
           "en": "ça fait trois semaines que = it's been three weeks since",
-          "note": "With time. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": "With time."
         }
       ],
       "forms": {
@@ -5616,7 +5057,7 @@
       "meanings": [
         {
           "en": "hotel",
-          "note": "À l'hôtel = at the hotel. Masculine noun ('le hôtel', plural 'les hôtels') inherited through Romance vocabulary, used in everyday and professional French for 'hotel'."
+          "note": "À l'hôtel = at the hotel."
         }
       ],
       "forms": {
@@ -5670,7 +5111,7 @@
         },
         {
           "en": "it",
-          "note": "Also in fixed phrases: il y a. High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
+          "note": "Also in fixed phrases: il y a."
         }
       ],
       "forms": null,
@@ -5689,12 +5130,7 @@
           "trans": "Camille Valentini. He knows me."
         }
       ],
-      "related": [
-        {
-          "word": "il",
-          "gloss": "he"
-        }
-      ]
+      "related": []
     },
     "il y a": {
       "lemma": "il y a",
@@ -5704,7 +5140,7 @@
       "meanings": [
         {
           "en": "there is, there are",
-          "note": "Never changes for plural. Spoken French phrase expression meaning 'there is', common in natural conversation."
+          "note": "Never changes for plural."
         },
         {
           "en": "ago",
@@ -5727,12 +5163,7 @@
           "trans": "No, it's Samuel's place. He died six days ago."
         }
       ],
-      "related": [
-        {
-          "word": "il y a",
-          "gloss": "there is"
-        }
-      ]
+      "related": []
     },
     "important": {
       "lemma": "important",
@@ -5742,7 +5173,7 @@
       "meanings": [
         {
           "en": "important",
-          "note": "Prefix 'im-' marks negation ('un-, im-') or inward motion."
+          "note": ""
         }
       ],
       "forms": {
@@ -5801,7 +5232,7 @@
       "meanings": [
         {
           "en": "leg",
-          "note": "Feminine noun ('la jambe', plural 'les jambes') inherited through Romance vocabulary, used in everyday and professional French for 'leg'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5836,12 +5267,7 @@
           "trans": "Jean Gabin, stop it! He bites traitors' legs!"
         }
       ],
-      "related": [
-        {
-          "word": "une jambe / des jambes",
-          "gloss": "a leg / legs"
-        }
-      ]
+      "related": []
     },
     "je": {
       "lemma": "je",
@@ -5851,7 +5277,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -5870,12 +5296,7 @@
           "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
-      "related": [
-        {
-          "word": "je",
-          "gloss": "I"
-        }
-      ]
+      "related": []
     },
     "juste": {
       "lemma": "juste",
@@ -5885,11 +5306,11 @@
       "meanings": [
         {
           "en": "just, only",
-          "note": "Adverb: je veux juste. Invariable French adverb meaning 'just'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Adverb: je veux juste."
         },
         {
           "en": "fair, right",
-          "note": "Adjective. Invariable French adverb meaning 'just'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Adjective."
         }
       ],
       "forms": null,
@@ -5924,6 +5345,10 @@
         {
           "en": "the",
           "note": "definite article; l' before a vowel"
+        },
+        {
+          "en": "him, her, it; them (les)",
+          "note": "Direct object placed before a verb; la is feminine singular, les is plural."
         }
       ],
       "forms": {
@@ -5965,12 +5390,7 @@
           "trans": "It's Tarantino's next film."
         }
       ],
-      "related": [
-        {
-          "word": "le",
-          "gloss": "the"
-        }
-      ]
+      "related": []
     },
     "lui": {
       "lemma": "lui",
@@ -5980,11 +5400,11 @@
       "meanings": [
         {
           "en": "to him, to her",
-          "note": "Indirect object. High-frequency French pronoun meaning 'to him'; clitic object forms precede the conjugated verb."
+          "note": "Indirect object."
         },
         {
           "en": "him",
-          "note": "Stressed form: avec lui. High-frequency French pronoun meaning 'to him'; clitic object forms precede the conjugated verb."
+          "note": "Stressed form: avec lui."
         }
       ],
       "forms": null,
@@ -6003,12 +5423,7 @@
           "trans": "Do you look after him?"
         }
       ],
-      "related": [
-        {
-          "word": "lui",
-          "gloss": "to him"
-        }
-      ]
+      "related": []
     },
     "lâcher": {
       "lemma": "lâcher",
@@ -6018,11 +5433,11 @@
       "meanings": [
         {
           "en": "to let go of, to drop",
-          "note": "Informal. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to let go of'; conjugates with 'avoir' in compound tenses (past participle 'lâché')."
+          "note": "Informal."
         },
         {
           "en": "to let someone down",
-          "note": "Informal. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to let go of'; conjugates with 'avoir' in compound tenses (past participle 'lâché')."
+          "note": "Informal."
         }
       ],
       "forms": {
@@ -6215,7 +5630,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": "Mais oui! = of course!. French conjunction meaning 'but', used to link clauses in spoken and written discourse."
+          "note": "Mais oui! = of course!."
         }
       ],
       "forms": null,
@@ -6251,7 +5666,7 @@
       "meanings": [
         {
           "en": "month",
-          "note": "Same form in the plural. Masculine noun ('le mois', plural 'les mois') inherited through Romance vocabulary, used in everyday and professional French for 'month'."
+          "note": "Same form in the plural."
         }
       ],
       "forms": {
@@ -6343,12 +5758,7 @@
           "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
-      "related": [
-        {
-          "word": "mon",
-          "gloss": "my"
-        }
-      ]
+      "related": []
     },
     "mordre": {
       "lemma": "mordre",
@@ -6358,7 +5768,7 @@
       "meanings": [
         {
           "en": "to bite",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to bite'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6560,7 +5970,7 @@
       "meanings": [
         {
           "en": "night",
-          "note": "Bonne nuit = good night. Feminine noun ('la nuit', plural 'les nuits') inherited through Romance vocabulary, used in everyday and professional French for 'night'."
+          "note": "Bonne nuit = good night."
         }
       ],
       "forms": {
@@ -6610,7 +6020,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise or dismay. Spoken French interj expression meaning 'oh', common in natural conversation."
+          "note": "Surprise or dismay."
         }
       ],
       "forms": null,
@@ -6629,12 +6039,7 @@
           "trans": "Oh no! I'm late."
         }
       ],
-      "related": [
-        {
-          "word": "oh",
-          "gloss": "oh"
-        }
-      ]
+      "related": []
     },
     "on": {
       "lemma": "on",
@@ -6648,7 +6053,7 @@
         },
         {
           "en": "one, people",
-          "note": "General. High-frequency French pronoun meaning 'we'; clitic object forms precede the conjugated verb."
+          "note": "General."
         }
       ],
       "forms": null,
@@ -6667,12 +6072,7 @@
           "trans": "We're at the Westin. Everyone is here."
         }
       ],
-      "related": [
-        {
-          "word": "on",
-          "gloss": "we"
-        }
-      ]
+      "related": []
     },
     "parler": {
       "lemma": "parler",
@@ -6686,7 +6086,7 @@
         },
         {
           "en": "parler de = to talk about",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to speak'; conjugates with 'avoir' in compound tenses (past participle 'parlé')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6868,7 +6268,7 @@
       "meanings": [
         {
           "en": "to leave, to go away",
-          "note": "No object: je pars = I'm leaving. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to leave, to go away'."
+          "note": "No object: je pars = I'm leaving."
         },
         {
           "en": "to go (on a trip)",
@@ -7077,12 +6477,7 @@
           "trans": "Tarantino won't take Cécile. A problem with her age."
         }
       ],
-      "related": [
-        {
-          "word": "pas",
-          "gloss": "not"
-        }
-      ]
+      "related": []
     },
     "patron": {
       "lemma": "patron",
@@ -7094,7 +6489,7 @@
       "meanings": [
         {
           "en": "boss, owner",
-          "note": "Feminine: patronne. Masculine noun ('le patron', plural 'les patrons') inherited through Romance vocabulary, used in everyday and professional French for 'boss'."
+          "note": "Feminine: patronne."
         }
       ],
       "forms": {
@@ -7306,7 +6701,7 @@
         },
         {
           "en": "le personnel (noun) = staff",
-          "note": "French relational/descriptive adjective derived from Latin adjectival roots."
+          "note": ""
         }
       ],
       "forms": {
@@ -7367,7 +6762,7 @@
       "meanings": [
         {
           "en": "can, to be able to",
-          "note": "+ infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'can, to be able to'."
+          "note": "+ infinitive."
         },
         {
           "en": "could (polite)",
@@ -7745,19 +7140,19 @@
       "meanings": [
         {
           "en": "that",
-          "note": "Joins two parts: dis-lui que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "Joins two parts: dis-lui que."
         },
         {
           "en": "which, that",
-          "note": "Relative: tout ce que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "Relative: tout ce que."
         },
         {
           "en": "only",
-          "note": "With ne: ne... que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "With ne: ne... que."
         },
         {
           "en": "since",
-          "note": "Ça fait trois semaines que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "Ça fait trois semaines que."
         }
       ],
       "forms": null,
@@ -7776,12 +7171,7 @@
           "trans": "Call Clémentine. Tell her I can't come tonight."
         }
       ],
-      "related": [
-        {
-          "word": "que",
-          "gloss": "that"
-        }
-      ]
+      "related": []
     },
     "quelque chose": {
       "lemma": "quelque chose",
@@ -7791,7 +7181,7 @@
       "meanings": [
         {
           "en": "something",
-          "note": "Spoken French phrase expression meaning 'something', common in natural conversation."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7833,11 +7223,11 @@
       "meanings": [
         {
           "en": "to leave someone, to break up with",
-          "note": "Elle m'a quitté = she left me. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to leave'; conjugates with 'avoir' in compound tenses (past participle 'quitté')."
+          "note": "Elle m'a quitté = she left me."
         },
         {
           "en": "to leave a place",
-          "note": "Always with an object. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to leave'; conjugates with 'avoir' in compound tenses (past participle 'quitté')."
+          "note": "Always with an object."
         }
       ],
       "forms": {
@@ -8060,7 +7450,7 @@
       "meanings": [
         {
           "en": "if",
-          "note": "Si tu veux = if you want. French conjunction meaning 'if', used to link clauses in spoken and written discourse."
+          "note": "Si tu veux = if you want."
         },
         {
           "en": "yes",
@@ -8113,12 +7503,7 @@
           "trans": "I don't know. I wanted to surprise you."
         }
       ],
-      "related": [
-        {
-          "word": "te",
-          "gloss": "you"
-        }
-      ]
+      "related": []
     },
     "ton": {
       "lemma": "ton",
@@ -8128,7 +7513,7 @@
       "meanings": [
         {
           "en": "your",
-          "note": "Informal, one owner; ton, ta, tes. Spoken French det expression meaning 'your', common in natural conversation."
+          "note": "Informal, one owner; ton, ta, tes."
         }
       ],
       "forms": {
@@ -8170,12 +7555,7 @@
           "trans": "Your first holiday in eight years!"
         }
       ],
-      "related": [
-        {
-          "word": "ton",
-          "gloss": "your"
-        }
-      ]
+      "related": []
     },
     "tout": {
       "lemma": "tout",
@@ -8185,11 +7565,11 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Tout le monde = everybody."
         },
         {
           "en": "tout ce que = all that, everything that",
-          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Pronoun use."
         }
       ],
       "forms": {
@@ -8298,7 +7678,7 @@
       "meanings": [
         {
           "en": "traitor",
-          "note": "Feminine traîtresse. Masculine noun ('le traître', plural 'les traîtres') inherited through Romance vocabulary, used in everyday and professional French for 'traitor'."
+          "note": "Feminine traîtresse."
         }
       ],
       "forms": {
@@ -8333,12 +7713,7 @@
           "trans": "Where's the traitor? Where's the mole?"
         }
       ],
-      "related": [
-        {
-          "word": "un traître / des traîtres",
-          "gloss": "a traitor / traitors"
-        }
-      ]
+      "related": []
     },
     "tribunal": {
       "lemma": "tribunal",
@@ -8350,7 +7725,7 @@
       "meanings": [
         {
           "en": "court, law court",
-          "note": "Aller au tribunal = to go to court. Masculine noun ('le tribunal', plural 'les tribunaux') inherited through Romance vocabulary, used in everyday and professional French for 'court'."
+          "note": "Aller au tribunal = to go to court."
         }
       ],
       "forms": {
@@ -8438,7 +7813,7 @@
         },
         {
           "en": "one",
-          "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
+          "note": "Number; l'un = one of them."
         }
       ],
       "forms": {
@@ -8480,12 +7855,7 @@
           "trans": "One at noon, the other at two."
         }
       ],
-      "related": [
-        {
-          "word": "un",
-          "gloss": "a"
-        }
-      ]
+      "related": []
     },
     "vouloir": {
       "lemma": "vouloir",
@@ -8495,11 +7865,11 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "+ noun or infinitive."
         },
         {
           "en": "je voulais = I wanted",
-          "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "Imparfait, softer."
         }
       ],
       "forms": {
@@ -8661,11 +8031,11 @@
       "meanings": [
         {
           "en": "you (polite)",
-          "note": "One person, formal. High-frequency French pronoun meaning 'you'; clitic object forms precede the conjugated verb."
+          "note": "One person, formal."
         },
         {
           "en": "you (plural)",
-          "note": "Several people. High-frequency French pronoun meaning 'you'; clitic object forms precede the conjugated verb."
+          "note": "Several people."
         },
         {
           "en": "you (object)",
@@ -8703,15 +8073,15 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Place: à Paris, à mon cours."
         },
         {
           "en": "at",
-          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Time: à midi."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Contractions."
         }
       ],
       "forms": null,
@@ -8730,12 +8100,7 @@
           "trans": "We're at the Westin."
         }
       ],
-      "related": [
-        {
-          "word": "à",
-          "gloss": "at"
-        }
-      ]
+      "related": []
     },
     "ça": {
       "lemma": "ça",
@@ -8745,11 +8110,11 @@
       "meanings": [
         {
           "en": "that, it",
-          "note": "Informal for cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "Informal for cela."
         },
         {
           "en": "ça fait... que = it's been...",
-          "note": "With time. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "With time."
         }
       ],
       "forms": null,
@@ -8768,12 +8133,7 @@
           "trans": "I'll take that. Thanks."
         }
       ],
-      "related": [
-        {
-          "word": "ça",
-          "gloss": "that"
-        }
-      ]
+      "related": []
     },
     "être": {
       "lemma": "être",
@@ -8783,11 +8143,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {

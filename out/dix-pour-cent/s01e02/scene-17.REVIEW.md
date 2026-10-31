@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Arlette | C'est culotté de la part de Gabriel. | That's cheeky of Gabriel. | #491 00:27:22: C'est culotté de la part de Gabriel | verbatim |
-| 2 | Andréa | Tu trouves ça culotté? | You think it's cheeky? | #492 00:27:26: Tu trouves ça culotté | verbatim |
+| 1 | Arlette | C'est cocasse, quand même! | It's funny, all the same! | #491 00:27:22: C'est culotté de la part de Gabriel | adapted: Original French audio uses cocasse, oddly funny, not the dual subtitles’ culotté, cheeky. Omits the following clause naming Gabriel’s casting suggestion. |
+| 2 | Andréa | Tu trouves ça cocasse? | You think it's funny? | #492 00:27:26: Tu trouves ça culotté | adapted: Restores the original cocasse in Andréa’s sceptical question. |
 | 3 | Arlette | Oui! Il y a une vieille histoire entre Line et Françoise. | Yes! There's an old story between Line and Françoise. | #495 00:27:34: histoire entre Line et Françoise | adapted: Turns the source condition about knowing the history into an explicit statement that there is an old history. |
 | 4 | Andréa | Quelle histoire? | What story? | #496 00:27:38: Quelle histoire | verbatim |
-| 5 | Arlette | Elles ne peuvent pas se sentir. | They can't stand each other. | #497 00:27:40: Elles ne peuvent pas se sentir | verbatim |
+| 5 | Arlette | Elles ne peuvent pas se sentir. | They can't stand each other. | #497 00:27:40: Elles ne peuvent pas se sentir | adapted: Neutral equivalent of the original informal Elles ne peuvent pas se piffer, they cannot stand each other. |
 | 6 | Andréa | Ah bon? Je n'ai jamais entendu ça. | Really? I've never heard that. | #498 00:27:42: Ah bon ? Je n'ai jamais entendu ça | verbatim |
 | 7 | Arlette | Line était une chanteuse connue. Françoise était une jeune actrice. | Line was a well-known singer. Françoise was a young actress. | #502 00:27:53: Line était une chanteuse connue | adapted: Simplifies the conservatoire background to being a young actress. |
-| 8 | Arlette | Françoise avait un amoureux. Devinez qui! | Françoise had a boyfriend. Guess who! | #504 00:27:58: Françoise<br>#505 00:28:03: Devinez qui | adapted: Summarises the romantic connection implied by the source and confirmed in the next exchange. |
+| 8 | Arlette | Françoise avait un amoureux. Devine qui! | Françoise had a boyfriend. Guess who! | #504 00:27:58: Françoise<br>#505 00:28:03: Devinez qui | adapted: Summarises the romantic connection confirmed in the next exchange; original French audio restores familiar Devine qui, rather than the dual subtitle’s formal Devinez. |
 | 9 | Andréa | Je ne sais pas. | I don't know. | #506 00:28:05: Je ne sais pas | verbatim |
 | 10 | Arlette | Samuel! | Samuel! | #507 00:28:07: Samuel | verbatim |
 | 11 | Andréa | Françoise était avec Samuel? | Françoise was with Samuel? | #508 00:28:09: Françoise était avec Samuel | verbatim |
@@ -31,8 +31,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That's cheeky of Gabriel.' Cheeky describes someone with the nerve to do something daring or presumptuous. On the part of identifies whose action is being judged; Arlette means Gabriel's casting suggestion.
-- 'You think it's cheeky?' The action word here is 'to find', used for opinions, just like 'do you find it cheeky?' Andréa is new, so she doesn't see the problem.
+- 'It's funny, all the same!' Funny here means oddly amusing, rather than a deliberately told joke. All the same adds emphasis to Arlette's reaction. She sees an irony in choosing Line to replace Françoise, because she knows their history.
+- 'You think it's funny?' Find can express an opinion, as in do you find it funny? That points to Gabriel's casting suggestion. Andréa's question challenges Arlette's reaction and invites her to explain it.
 - 'Yes! There's an old story between Line and Françoise.' Three little words at the start mean 'there is'. You'll hear them constantly.
 - 'What story?' This question word agrees with the word; story is feminine, so it takes the feminine spelling, though it sounds the same.
 - 'They can't stand each other.' Literally 'they can't smell each other'. The little self-directed word makes it mutual: each other. That's the first language point of the scene.
@@ -48,4 +48,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Deep down, Françoise would have liked to be a singer.' Would have liked looks back on an unrealised wish. Deep down introduces an underlying feeling, even if the person does not openly admit it.
 - 'And Line, a film actress.' Arlette doesn't repeat the verb; we understand it: Line would have liked to be an actress.
 - 'Each one hates the other?' Each one has a feminine ending for the two women and still takes a singular action word. The full source question links their hostility to envy: each had the career the other did not.
-- 'Exactly.' And that, Arlette says, is why Gabriel's idea is so cheeky. Now the whole story again.
+- 'Exactly.' Arlette confirms Andréa's explanation of the rivalry. This single word can endorse a whole account without repeating it. Now let's hear the story once more.

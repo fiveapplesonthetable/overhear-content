@@ -4,7 +4,7 @@ Title: Miranda dit non  (Miranda Says No)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E01
-
+French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -24,8 +24,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Miranda | Elle aura quarante et un ans pour le film. | She'll be forty-one for the film. | #599 00:33:22: Elle en aura<br>#599 00:33:22: quand on tournera le film | adapted: Future age statement condensed; number written out. |
 | 13 | Mathias | Oui, mais elle fait trente ans. | Yes, but she looks thirty. | #600 00:33:24: Oui, mais<br>#600 00:33:24: elle fait | verbatim |
 | 14 | Miranda | Je suis désolée, Mathias, c'est décidé. | I'm sorry, Mathias, it's decided. | #601 00:33:27: Mathias, c'est décidé | adapted: Feminine apology agrees with Miranda; source transcript uses masculine spelling. |
-| 15 | Miranda | Goûtez un macaron! C'est leur spécialité. | Try a macaron! It's their speciality. | #602 00:33:35: un macaron<br>#603 00:33:38: C'est leur spécialité | adapted: Polite suggestion shortened to a polite instruction. |
-| 16 | Mathias | Merci. | Thank you. | #603 00:33:38: Merci | verbatim |
+| 15 | Mathias | Goûtez un macaron! C'est leur spécialité. | Try a macaron! It's their speciality. | #602 00:33:35: un macaron<br>#603 00:33:38: C'est leur spécialité | adapted: Polite suggestion shortened to a polite instruction. |
+| 16 | Miranda | Merci. | Thank you. | #603 00:33:38: Merci | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -43,5 +43,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She'll be forty-one for the film.' French again uses 'have' for age, this time with an ending pointing to the future. Miranda is thinking about Cecile's age during filming.
 - 'Yes, but she looks thirty.' French uses the action 'do' before an age to say how old someone looks. It describes her appearance, rather than her actual age.
 - 'I'm sorry, Mathias, it's decided.' The word for 'sorry' is spelled with the feminine ending, because a woman says it, but it sounds exactly the same as a man's. The door is closed.
-- 'Try a macaron! It's their speciality.' The opening is a polite instruction. The possessive before 'speciality' refers to the tea room, and has a singular spelling because there is one speciality.
-- 'Thank you.' One word from Mathias, with a frozen smile. He has lost this round, but he is not the kind of man who gives up. Here's the whole conversation again.
+- 'Try a macaron! It's their speciality.' Mathias changes the subject with a polite invitation. The possessive before 'speciality' refers to the tea room and has a singular spelling for one speciality.
+- 'Thank you.' Miranda gives a short polite response to his offer. Her decision about the film part still stands.

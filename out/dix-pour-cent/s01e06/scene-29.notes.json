@@ -4,6 +4,76 @@
   "lines": [
     {
       "seg": 1,
+      "trans": "I can give you more than my body.",
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, first person singular"
+        },
+        {
+          "t": "peux",
+          "lemma": "pouvoir",
+          "pos": "verb",
+          "stress": "pø",
+          "gloss": "can",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "te",
+          "lemma": "te",
+          "pos": "pron",
+          "stress": "tə",
+          "gloss": "you (casual)",
+          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+        },
+        {
+          "t": "donner",
+          "lemma": "donner",
+          "pos": "verb",
+          "stress": "dɔne",
+          "gloss": "give",
+          "gram": "infinitive (question without a conjugated verb)"
+        },
+        {
+          "t": "plus",
+          "lemma": "plus",
+          "pos": "adv",
+          "stress": "ply",
+          "gloss": "more",
+          "gram": "adverb; not pronounced with final s in a negative"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "than",
+          "gram": "comparison after plus"
+        },
+        {
+          "t": "mon",
+          "lemma": "mon",
+          "pos": "det",
+          "stress": "mɔ̃",
+          "gloss": "my",
+          "gram": "possessive before a feminine noun beginning with a vowel"
+        },
+        {
+          "t": "corps.",
+          "lemma": "corps",
+          "pos": "noun",
+          "stress": "kɔʁ",
+          "gloss": "body",
+          "gram": "masculine singular; written final s is silent"
+        }
+      ]
+    },
+    {
+      "seg": 2,
       "trans": "I can also give you all my heart.",
       "words": [
         {
@@ -12,7 +82,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "peux",
@@ -48,11 +118,11 @@
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "mon",
@@ -73,8 +143,8 @@
       ]
     },
     {
-      "seg": 2,
-      "trans": "I know that I",
+      "seg": 3,
+      "trans": "I know that I'm not very good at it.",
       "words": [
         {
           "t": "Je",
@@ -82,7 +152,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "sais",
@@ -90,7 +160,7 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "que",
@@ -106,7 +176,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -151,8 +221,8 @@
       ]
     },
     {
-      "seg": 3,
-      "trans": "It",
+      "seg": 4,
+      "trans": "It's because I am afraid.",
       "words": [
         {
           "t": "C'est",
@@ -197,7 +267,7 @@
       ]
     },
     {
-      "seg": 4,
+      "seg": 5,
       "trans": "But I want to learn.",
       "words": [
         {
@@ -214,7 +284,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "veux",
@@ -229,13 +299,13 @@
           "lemma": "apprendre",
           "pos": "verb",
           "stress": "apʁɑ̃dʁ",
-          "gloss": "teach",
-          "gram": "infinitive; apprendre quelque chose à quelqu'un = teach"
+          "gloss": "learn",
+          "gram": "infinitive"
         }
       ]
     },
     {
-      "seg": 5,
+      "seg": 6,
       "trans": "I am not strong enough to teach you, Andréa.",
       "words": [
         {
@@ -244,7 +314,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -292,7 +362,7 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "gram": "preposition"
         },
         {
           "t": "t'apprendre,",
@@ -313,7 +383,7 @@
       ]
     },
     {
-      "seg": 6,
+      "seg": 7,
       "trans": "No, I want to learn from you. From you and from no one else.",
       "words": [
         {
@@ -322,7 +392,7 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "je",
@@ -330,7 +400,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "veux",
@@ -345,16 +415,16 @@
           "lemma": "apprendre",
           "pos": "verb",
           "stress": "apʁɑ̃dʁ",
-          "gloss": "teach",
-          "gram": "infinitive; apprendre quelque chose à quelqu'un = teach"
+          "gloss": "learn",
+          "gram": "infinitive"
         },
         {
           "t": "de",
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "toi.",
@@ -369,8 +439,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "toi",
@@ -393,8 +463,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "personne",
@@ -415,68 +485,6 @@
       ]
     },
     {
-      "seg": 7,
-      "trans": "My God! They",
-      "words": [
-        {
-          "t": "Mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "Dieu!",
-          "lemma": "dieu",
-          "pos": "name",
-          "stress": null,
-          "gloss": "God",
-          "gram": "proper noun in exclamation 'Mon Dieu!'"
-        },
-        {
-          "t": "Elles",
-          "lemma": "elle",
-          "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "they",
-          "gram": "subject pronoun, 3rd person plural feminine"
-        },
-        {
-          "t": "sont",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɔ̃",
-          "gloss": "are",
-          "gram": "present, 3rd person plural"
-        },
-        {
-          "t": "ensemble!",
-          "lemma": "ensemble",
-          "pos": "adv",
-          "stress": "ɑ̃sɑ̃bl",
-          "gloss": "together",
-          "gram": "invariable adverb ('ensemble', meaning 'together')"
-        },
-        {
-          "t": "Non,",
-          "lemma": "non",
-          "pos": "adv",
-          "stress": "nɔ̃",
-          "gloss": "no",
-          "gram": "negative answer"
-        },
-        {
-          "t": "non...",
-          "lemma": "non",
-          "pos": "adv",
-          "stress": "nɔ̃",
-          "gloss": "no",
-          "gram": "negative answer"
-        }
-      ]
-    },
-    {
       "seg": 8,
       "trans": "Take care of yourself, Andréa.",
       "words": [
@@ -485,8 +493,8 @@
           "lemma": "prendre",
           "pos": "verb",
           "stress": "pʁɑ̃",
-          "gloss": "will take",
-          "gram": "present, 1st person singular, for a decision"
+          "gloss": "take",
+          "gram": "imperative, second person singular"
         },
         {
           "t": "soin",
@@ -501,8 +509,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "toi,",
@@ -539,8 +547,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "dis",
@@ -555,16 +563,16 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "Tu",
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "m'embrasses",
@@ -587,8 +595,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "t'en",
@@ -618,7 +626,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -657,8 +665,8 @@
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
-          "gram": "subject pronoun, 3rd person feminine singular"
+          "gloss": "she",
+          "gram": "subject pronoun, feminine singular"
         },
         {
           "t": "préfère",
@@ -719,8 +727,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present, third person singular"
         },
         {
           "t": "ma",
@@ -789,8 +797,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "mélanger",
@@ -802,11 +810,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "travail",
@@ -836,6 +844,76 @@
     },
     {
       "seg": 14,
+      "trans": "I can give you more than my body.",
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, first person singular"
+        },
+        {
+          "t": "peux",
+          "lemma": "pouvoir",
+          "pos": "verb",
+          "stress": "pø",
+          "gloss": "can",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "te",
+          "lemma": "te",
+          "pos": "pron",
+          "stress": "tə",
+          "gloss": "you (casual)",
+          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+        },
+        {
+          "t": "donner",
+          "lemma": "donner",
+          "pos": "verb",
+          "stress": "dɔne",
+          "gloss": "give",
+          "gram": "infinitive (question without a conjugated verb)"
+        },
+        {
+          "t": "plus",
+          "lemma": "plus",
+          "pos": "adv",
+          "stress": "ply",
+          "gloss": "more",
+          "gram": "adverb; not pronounced with final s in a negative"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "than",
+          "gram": "comparison after plus"
+        },
+        {
+          "t": "mon",
+          "lemma": "mon",
+          "pos": "det",
+          "stress": "mɔ̃",
+          "gloss": "my",
+          "gram": "possessive before a feminine noun beginning with a vowel"
+        },
+        {
+          "t": "corps.",
+          "lemma": "corps",
+          "pos": "noun",
+          "stress": "kɔʁ",
+          "gloss": "body",
+          "gram": "masculine singular; written final s is silent"
+        }
+      ]
+    },
+    {
+      "seg": 16,
       "trans": "I can also give you all my heart.",
       "words": [
         {
@@ -844,7 +922,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "peux",
@@ -880,11 +958,11 @@
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "mon",
@@ -905,8 +983,8 @@
       ]
     },
     {
-      "seg": 16,
-      "trans": "I know that I",
+      "seg": 18,
+      "trans": "I know that I'm not very good at it.",
       "words": [
         {
           "t": "Je",
@@ -914,7 +992,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "sais",
@@ -922,7 +1000,7 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "que",
@@ -938,7 +1016,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -983,8 +1061,8 @@
       ]
     },
     {
-      "seg": 18,
-      "trans": "It",
+      "seg": 20,
+      "trans": "It's because I am afraid.",
       "words": [
         {
           "t": "C'est",
@@ -1029,7 +1107,7 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 22,
       "trans": "But I want to learn.",
       "words": [
         {
@@ -1046,7 +1124,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "veux",
@@ -1061,13 +1139,13 @@
           "lemma": "apprendre",
           "pos": "verb",
           "stress": "apʁɑ̃dʁ",
-          "gloss": "teach",
-          "gram": "infinitive; apprendre quelque chose à quelqu'un = teach"
+          "gloss": "learn",
+          "gram": "infinitive"
         }
       ]
     },
     {
-      "seg": 22,
+      "seg": 24,
       "trans": "I am not strong enough to teach you, Andréa.",
       "words": [
         {
@@ -1076,7 +1154,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -1124,7 +1202,7 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "gram": "preposition"
         },
         {
           "t": "t'apprendre,",
@@ -1145,7 +1223,7 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 26,
       "trans": "No, I want to learn from you. From you and from no one else.",
       "words": [
         {
@@ -1154,7 +1232,7 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "je",
@@ -1162,7 +1240,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "veux",
@@ -1177,16 +1255,16 @@
           "lemma": "apprendre",
           "pos": "verb",
           "stress": "apʁɑ̃dʁ",
-          "gloss": "teach",
-          "gram": "infinitive; apprendre quelque chose à quelqu'un = teach"
+          "gloss": "learn",
+          "gram": "infinitive"
         },
         {
           "t": "de",
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "toi.",
@@ -1201,8 +1279,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "toi",
@@ -1225,8 +1303,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "personne",
@@ -1247,68 +1325,6 @@
       ]
     },
     {
-      "seg": 26,
-      "trans": "My God! They",
-      "words": [
-        {
-          "t": "Mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "Dieu!",
-          "lemma": "dieu",
-          "pos": "name",
-          "stress": null,
-          "gloss": "God",
-          "gram": "proper noun in exclamation 'Mon Dieu!'"
-        },
-        {
-          "t": "Elles",
-          "lemma": "elle",
-          "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "they",
-          "gram": "subject pronoun, 3rd person plural feminine"
-        },
-        {
-          "t": "sont",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɔ̃",
-          "gloss": "are",
-          "gram": "present, 3rd person plural"
-        },
-        {
-          "t": "ensemble!",
-          "lemma": "ensemble",
-          "pos": "adv",
-          "stress": "ɑ̃sɑ̃bl",
-          "gloss": "together",
-          "gram": "invariable adverb ('ensemble', meaning 'together')"
-        },
-        {
-          "t": "Non,",
-          "lemma": "non",
-          "pos": "adv",
-          "stress": "nɔ̃",
-          "gloss": "no",
-          "gram": "negative answer"
-        },
-        {
-          "t": "non...",
-          "lemma": "non",
-          "pos": "adv",
-          "stress": "nɔ̃",
-          "gloss": "no",
-          "gram": "negative answer"
-        }
-      ]
-    },
-    {
       "seg": 28,
       "trans": "Take care of yourself, Andréa.",
       "words": [
@@ -1317,8 +1333,8 @@
           "lemma": "prendre",
           "pos": "verb",
           "stress": "pʁɑ̃",
-          "gloss": "will take",
-          "gram": "present, 1st person singular, for a decision"
+          "gloss": "take",
+          "gram": "imperative, second person singular"
         },
         {
           "t": "soin",
@@ -1333,8 +1349,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "toi,",
@@ -1371,8 +1387,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "dis",
@@ -1387,16 +1403,16 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "Tu",
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "m'embrasses",
@@ -1419,8 +1435,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "t'en",
@@ -1450,7 +1466,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -1489,8 +1505,8 @@
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
-          "gram": "subject pronoun, 3rd person feminine singular"
+          "gloss": "she",
+          "gram": "subject pronoun, feminine singular"
         },
         {
           "t": "préfère",
@@ -1551,8 +1567,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present, third person singular"
         },
         {
           "t": "ma",
@@ -1621,8 +1637,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "mélanger",
@@ -1634,11 +1650,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "travail",
@@ -1668,6 +1684,76 @@
     },
     {
       "seg": 38,
+      "trans": "I can give you more than my body.",
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, first person singular"
+        },
+        {
+          "t": "peux",
+          "lemma": "pouvoir",
+          "pos": "verb",
+          "stress": "pø",
+          "gloss": "can",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "te",
+          "lemma": "te",
+          "pos": "pron",
+          "stress": "tə",
+          "gloss": "you (casual)",
+          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+        },
+        {
+          "t": "donner",
+          "lemma": "donner",
+          "pos": "verb",
+          "stress": "dɔne",
+          "gloss": "give",
+          "gram": "infinitive (question without a conjugated verb)"
+        },
+        {
+          "t": "plus",
+          "lemma": "plus",
+          "pos": "adv",
+          "stress": "ply",
+          "gloss": "more",
+          "gram": "adverb; not pronounced with final s in a negative"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "than",
+          "gram": "comparison after plus"
+        },
+        {
+          "t": "mon",
+          "lemma": "mon",
+          "pos": "det",
+          "stress": "mɔ̃",
+          "gloss": "my",
+          "gram": "possessive before a feminine noun beginning with a vowel"
+        },
+        {
+          "t": "corps.",
+          "lemma": "corps",
+          "pos": "noun",
+          "stress": "kɔʁ",
+          "gloss": "body",
+          "gram": "masculine singular; written final s is silent"
+        }
+      ]
+    },
+    {
+      "seg": 39,
       "trans": "I can also give you all my heart.",
       "words": [
         {
@@ -1676,7 +1762,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "peux",
@@ -1712,11 +1798,11 @@
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "mon",
@@ -1737,8 +1823,8 @@
       ]
     },
     {
-      "seg": 39,
-      "trans": "I know that I",
+      "seg": 40,
+      "trans": "I know that I'm not very good at it.",
       "words": [
         {
           "t": "Je",
@@ -1746,7 +1832,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "sais",
@@ -1754,7 +1840,7 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "que",
@@ -1770,7 +1856,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -1815,8 +1901,8 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "It",
+      "seg": 41,
+      "trans": "It's because I am afraid.",
       "words": [
         {
           "t": "C'est",
@@ -1861,7 +1947,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 42,
       "trans": "But I want to learn.",
       "words": [
         {
@@ -1878,7 +1964,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "veux",
@@ -1893,13 +1979,13 @@
           "lemma": "apprendre",
           "pos": "verb",
           "stress": "apʁɑ̃dʁ",
-          "gloss": "teach",
-          "gram": "infinitive; apprendre quelque chose à quelqu'un = teach"
+          "gloss": "learn",
+          "gram": "infinitive"
         }
       ]
     },
     {
-      "seg": 42,
+      "seg": 43,
       "trans": "I am not strong enough to teach you, Andréa.",
       "words": [
         {
@@ -1908,7 +1994,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -1956,7 +2042,7 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "gram": "preposition"
         },
         {
           "t": "t'apprendre,",
@@ -1977,7 +2063,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 44,
       "trans": "No, I want to learn from you. From you and from no one else.",
       "words": [
         {
@@ -1986,7 +2072,7 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "je",
@@ -1994,7 +2080,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "veux",
@@ -2009,16 +2095,16 @@
           "lemma": "apprendre",
           "pos": "verb",
           "stress": "apʁɑ̃dʁ",
-          "gloss": "teach",
-          "gram": "infinitive; apprendre quelque chose à quelqu'un = teach"
+          "gloss": "learn",
+          "gram": "infinitive"
         },
         {
           "t": "de",
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "toi.",
@@ -2033,8 +2119,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "toi",
@@ -2057,8 +2143,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "personne",
@@ -2079,68 +2165,6 @@
       ]
     },
     {
-      "seg": 44,
-      "trans": "My God! They",
-      "words": [
-        {
-          "t": "Mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "Dieu!",
-          "lemma": "dieu",
-          "pos": "name",
-          "stress": null,
-          "gloss": "God",
-          "gram": "proper noun in exclamation 'Mon Dieu!'"
-        },
-        {
-          "t": "Elles",
-          "lemma": "elle",
-          "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "they",
-          "gram": "subject pronoun, 3rd person plural feminine"
-        },
-        {
-          "t": "sont",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɔ̃",
-          "gloss": "are",
-          "gram": "present, 3rd person plural"
-        },
-        {
-          "t": "ensemble!",
-          "lemma": "ensemble",
-          "pos": "adv",
-          "stress": "ɑ̃sɑ̃bl",
-          "gloss": "together",
-          "gram": "invariable adverb ('ensemble', meaning 'together')"
-        },
-        {
-          "t": "Non,",
-          "lemma": "non",
-          "pos": "adv",
-          "stress": "nɔ̃",
-          "gloss": "no",
-          "gram": "negative answer"
-        },
-        {
-          "t": "non...",
-          "lemma": "non",
-          "pos": "adv",
-          "stress": "nɔ̃",
-          "gloss": "no",
-          "gram": "negative answer"
-        }
-      ]
-    },
-    {
       "seg": 45,
       "trans": "Take care of yourself, Andréa.",
       "words": [
@@ -2149,8 +2173,8 @@
           "lemma": "prendre",
           "pos": "verb",
           "stress": "pʁɑ̃",
-          "gloss": "will take",
-          "gram": "present, 1st person singular, for a decision"
+          "gloss": "take",
+          "gram": "imperative, second person singular"
         },
         {
           "t": "soin",
@@ -2165,8 +2189,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "toi,",
@@ -2203,8 +2227,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "dis",
@@ -2219,16 +2243,16 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "Tu",
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "m'embrasses",
@@ -2251,8 +2275,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "t'en",
@@ -2282,7 +2306,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -2321,8 +2345,8 @@
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
-          "gram": "subject pronoun, 3rd person feminine singular"
+          "gloss": "she",
+          "gram": "subject pronoun, feminine singular"
         },
         {
           "t": "préfère",
@@ -2383,8 +2407,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present, third person singular"
         },
         {
           "t": "ma",
@@ -2453,8 +2477,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "mélanger",
@@ -2466,11 +2490,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "travail",
@@ -2515,8 +2539,8 @@
           "lemma": "revoir",
           "pos": "verb",
           "stress": "ʁəvwaʁ",
-          "gloss": "seeing again (goodbye)",
-          "gram": "infinitive used as noun"
+          "gloss": "see again",
+          "gram": "infinitive in au revoir: goodbye"
         }
       ]
     }
@@ -2534,11 +2558,11 @@
         },
         {
           "en": "aller + infinitive = going to (near future)",
-          "note": "Je vais déjeuner. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Je vais déjeuner."
         },
         {
           "en": "allez! = come on!",
-          "note": "Imperative used to encourage. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Imperative used to encourage."
         }
       ],
       "forms": {
@@ -2726,7 +2750,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Feminine amie. Masculine noun ('le ami', plural 'les amis') inherited through Romance vocabulary, used in everyday and professional French for 'friend'."
+          "note": "Feminine amie."
         },
         {
           "en": "boyfriend",
@@ -2782,7 +2806,7 @@
       "meanings": [
         {
           "en": "love",
-          "note": "Masculine noun ('le amour', plural 'les amours') inherited through Romance vocabulary, used in everyday and professional French for 'love'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2836,7 +2860,7 @@
       "meanings": [
         {
           "en": "to learn",
-          "note": "Apprendre le français. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to learn; to teach'."
+          "note": "Apprendre le français."
         },
         {
           "en": "to teach",
@@ -3036,40 +3060,6 @@
         }
       ]
     },
-    "au": {
-      "lemma": "au",
-      "stress": "o",
-      "pos": "prep",
-      "gloss": "at the, to the",
-      "meanings": [
-        {
-          "en": "at the, to the",
-          "note": "à + le contracted: au boulot, au téléphone"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je suis au boulot.",
-          "trans": "I'm at work."
-        },
-        {
-          "text": "Elle est au téléphone.",
-          "trans": "She's on the phone."
-        },
-        {
-          "text": "J'ai un problème au boulot.",
-          "trans": "I've got a problem at work."
-        }
-      ],
-      "related": [
-        {
-          "word": "au",
-          "gloss": "at the"
-        }
-      ]
-    },
     "aussi": {
       "lemma": "aussi",
       "stress": "osi",
@@ -3185,11 +3175,11 @@
         },
         {
           "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "J'ai appelé = I called."
         },
         {
           "en": "il y a = there is, there are",
-          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "Fixed expression."
         }
       ],
       "forms": {
@@ -3425,11 +3415,11 @@
       "meanings": [
         {
           "en": "heart",
-          "note": "Masculine noun ('le cœur', plural 'les cœurs') inherited through Romance vocabulary, used in everyday and professional French for 'heart'."
+          "note": ""
         },
         {
           "en": "briser le cœur = to break someone's heart",
-          "note": "Masculine noun ('le cœur', plural 'les cœurs') inherited through Romance vocabulary, used in everyday and professional French for 'heart'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3479,7 +3469,7 @@
       "meanings": [
         {
           "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "D' before a vowel."
         },
         {
           "en": "'s (possession)",
@@ -3487,7 +3477,7 @@
         },
         {
           "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
@@ -3772,7 +3762,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Donner quelque chose à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to give'; conjugates with 'avoir' in compound tenses (past participle 'donné')."
+          "note": "Donner quelque chose à quelqu'un."
         }
       ],
       "forms": {
@@ -4029,15 +4019,15 @@
       "meanings": [
         {
           "en": "to kiss",
-          "note": "Passé composé with être. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to kiss'; conjugates with 'avoir' in compound tenses (past participle 'embrassé')."
+          "note": "Passé composé with être."
         },
         {
           "en": "s'embrasser: to kiss (each other)",
-          "note": "Passé composé with être. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to kiss'; conjugates with 'avoir' in compound tenses (past participle 'embrassé')."
+          "note": "Passé composé with être."
         },
         {
           "en": "to hug",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to kiss'; conjugates with 'avoir' in compound tenses (past participle 'embrassé')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4221,48 +4211,6 @@
         }
       ]
     },
-    "ensemble": {
-      "lemma": "ensemble",
-      "stress": "ɑ̃sɑ̃bl",
-      "pos": "adv",
-      "gloss": "together",
-      "meanings": [
-        {
-          "en": "together",
-          "note": "Un ensemble. Invariable French adverb meaning 'together'; placed immediately after the conjugated verb in simple tenses."
-        },
-        {
-          "en": "as a noun: the whole, a set",
-          "note": "Un ensemble. Invariable French adverb meaning 'together'; placed immediately after the conjugated verb in simple tenses."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Mais ensemble…",
-          "trans": "But together…"
-        },
-        {
-          "text": "On travaille ensemble.",
-          "trans": "We work together."
-        },
-        {
-          "text": "On a toujours voulu jouer ensemble.",
-          "trans": "We've always wanted to act together."
-        }
-      ],
-      "related": [
-        {
-          "word": "sembler",
-          "gloss": "to seem"
-        },
-        {
-          "word": "un ensemble",
-          "gloss": "a set, outfit"
-        }
-      ]
-    },
     "ensuite": {
       "lemma": "ensuite",
       "stress": "ɑ̃sɥit",
@@ -4345,11 +4293,11 @@
       "meanings": [
         {
           "en": "woman",
-          "note": "Sa femme = his wife. Feminine noun ('la femme', plural 'les femmes') inherited through Romance vocabulary, used in everyday and professional French for 'woman'."
+          "note": "Sa femme = his wife."
         },
         {
           "en": "wife",
-          "note": "Ma femme = my wife. Feminine noun ('la femme', plural 'les femmes') inherited through Romance vocabulary, used in everyday and professional French for 'woman'."
+          "note": "Ma femme = my wife."
         }
       ],
       "forms": {
@@ -4456,44 +4404,6 @@
         }
       ]
     },
-    "il": {
-      "lemma": "il",
-      "stress": "il",
-      "pos": "pron",
-      "gloss": "he, it",
-      "meanings": [
-        {
-          "en": "he",
-          "note": "for masculine nouns, and in impersonal phrases: il y a"
-        },
-        {
-          "en": "it",
-          "note": "Also in fixed phrases: il y a. High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il me connaît.",
-          "trans": "He knows me."
-        },
-        {
-          "text": "Il vous attend?",
-          "trans": "Is he expecting you?"
-        },
-        {
-          "text": "Camille Valentini. Il me connaît.",
-          "trans": "Camille Valentini. He knows me."
-        }
-      ],
-      "related": [
-        {
-          "word": "il",
-          "gloss": "he"
-        }
-      ]
-    },
     "je": {
       "lemma": "je",
       "stress": "ʒə",
@@ -4502,7 +4412,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -4995,11 +4905,11 @@
       "meanings": [
         {
           "en": "nobody, not anyone",
-          "note": "With ne: il ne voit personne. High-frequency French pronoun meaning 'nobody'; clitic object forms precede the conjugated verb."
+          "note": "With ne: il ne voit personne."
         },
         {
           "en": "a person",
-          "note": "As a noun: une personne (feminine). High-frequency French pronoun meaning 'nobody'; clitic object forms precede the conjugated verb."
+          "note": "As a noun: une personne (feminine)."
         }
       ],
       "forms": {
@@ -5055,7 +4965,7 @@
       "meanings": [
         {
           "en": "fear",
-          "note": "Avoir peur de = to be afraid of. Derived with the Romance agent/quality suffix '-eur'/'-euse' (from Latin '-or'/'-tor'). Standard feminine noun meaning 'fear'."
+          "note": "Avoir peur de = to be afraid of."
         }
       ],
       "forms": {
@@ -5109,7 +5019,7 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+          "note": "+ infinitive: pour voir."
         }
       ],
       "forms": null,
@@ -5193,7 +5103,7 @@
       "meanings": [
         {
           "en": "can, to be able to",
-          "note": "+ infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'can, to be able to'."
+          "note": "+ infinitive."
         },
         {
           "en": "could (polite)",
@@ -5359,11 +5269,11 @@
         },
         {
           "en": "to have (food, drink)",
-          "note": "Je prends un café. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to take'."
+          "note": "Je prends un café."
         },
         {
           "en": "to cast (an actor)",
-          "note": "Prendre quelqu'un dans un film. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to take'."
+          "note": "Prendre quelqu'un dans un film."
         }
       ],
       "forms": {
@@ -5749,11 +5659,11 @@
       "meanings": [
         {
           "en": "to see again",
-          "note": "On se reverra: we'll meet again. French '-ir' verb (from Latin '-ire'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to see again'."
+          "note": "On se reverra: we'll meet again."
         },
         {
           "en": "au revoir = goodbye",
-          "note": "Literally 'until seeing again'. French '-ir' verb (from Latin '-ire'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to see again'."
+          "note": "Literally 'until seeing again'."
         }
       ],
       "forms": {
@@ -5911,11 +5821,11 @@
       "meanings": [
         {
           "en": "to know (a fact)",
-          "note": "Je ne sais pas = I don't know. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "Je ne sais pas = I don't know."
         },
         {
           "en": "to know how to, can",
-          "note": "+ infinitive: savoir monter. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "+ infinitive: savoir monter."
         }
       ],
       "forms": {
@@ -6075,11 +5985,11 @@
       "meanings": [
         {
           "en": "care",
-          "note": "Prendre soin de = to take care of. Masculine noun ('le soin', plural 'les soins') inherited through Romance vocabulary, used in everyday and professional French for 'care'."
+          "note": "Prendre soin de = to take care of."
         },
         {
           "en": "prendre soin de = to take care of",
-          "note": "Masculine noun ('le soin', plural 'les soins') inherited through Romance vocabulary, used in everyday and professional French for 'care'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6163,7 +6073,7 @@
       "meanings": [
         {
           "en": "you",
-          "note": "Stressed form: et toi? = and you?. High-frequency French pronoun meaning 'you'; clitic object forms precede the conjugated verb."
+          "note": "Stressed form: et toi? = and you?."
         }
       ],
       "forms": null,
@@ -6197,11 +6107,11 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Tout le monde = everybody."
         },
         {
           "en": "tout ce que = all that, everything that",
-          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Pronoun use."
         }
       ],
       "forms": {
@@ -6258,48 +6168,6 @@
         }
       ]
     },
-    "tout le monde": {
-      "lemma": "tout le monde",
-      "stress": "tuləmɔ̃d",
-      "pos": "phrase",
-      "gloss": "everybody, everyone",
-      "meanings": [
-        {
-          "en": "everybody, everyone",
-          "note": "takes a singular verb: tout le monde est là"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tout le monde est là.",
-          "trans": "Everyone is here."
-        },
-        {
-          "text": "Bonjour tout le monde!",
-          "trans": "Hello everyone!"
-        },
-        {
-          "text": "On est au Westin. Tout le monde est là.",
-          "trans": "We're at the Westin. Everyone is here."
-        }
-      ],
-      "related": [
-        {
-          "word": "tout",
-          "gloss": "all"
-        },
-        {
-          "word": "tout de suite",
-          "gloss": "right away"
-        },
-        {
-          "word": "tout à l'heure",
-          "gloss": "earlier"
-        }
-      ]
-    },
     "travail": {
       "lemma": "travail",
       "stress": "tʁavaj",
@@ -6310,11 +6178,11 @@
       "meanings": [
         {
           "en": "work, job",
-          "note": "Un travail = a job. Masculine noun ('le travail', plural 'les travaux') inherited through Romance vocabulary, used in everyday and professional French for 'work'."
+          "note": "Un travail = a job."
         },
         {
           "en": "au travail! = let's get to work!",
-          "note": "Masculine noun ('le travail', plural 'les travaux') inherited through Romance vocabulary, used in everyday and professional French for 'work'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6436,11 +6304,11 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "+ noun or infinitive."
         },
         {
           "en": "je voulais = I wanted",
-          "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "Imparfait, softer."
         }
       ],
       "forms": {
@@ -6602,15 +6470,15 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Place: à Paris, à mon cours."
         },
         {
           "en": "at",
-          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Time: à midi."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Contractions."
         }
       ],
       "forms": null,
@@ -6644,11 +6512,11 @@
       "meanings": [
         {
           "en": "that, it",
-          "note": "Informal for cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "Informal for cela."
         },
         {
           "en": "ça fait... que = it's been...",
-          "note": "With time. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "With time."
         }
       ],
       "forms": null,
@@ -6864,11 +6732,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {
@@ -7045,6 +6913,87 @@
           "gloss": "maybe, perhaps"
         }
       ]
+    },
+    "plus": {
+      "lemma": "plus",
+      "stress": "ply",
+      "pos": "adv",
+      "gloss": "no more, no longer; more",
+      "meanings": [
+        {
+          "en": "no more, no longer",
+          "note": "With ne: je n'en peux plus. Invariable French adverb meaning 'no more'; placed immediately after the conjugated verb in simple tenses."
+        },
+        {
+          "en": "more",
+          "note": "pronounced plys at the end of a sentence in this sense"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je n'en peux plus.",
+          "trans": "I can't take any more."
+        },
+        {
+          "text": "Il n'est plus là.",
+          "trans": "He's not here any more."
+        },
+        {
+          "text": "Je n'en peux plus, Andréa.",
+          "trans": "I can't take any more, Andréa."
+        }
+      ],
+      "related": [
+        {
+          "word": "plusieurs",
+          "gloss": "several"
+        }
+      ]
+    },
+    "corps": {
+      "lemma": "corps",
+      "stress": "kɔʁ",
+      "pos": "noun",
+      "gloss": "body",
+      "gender": "m",
+      "plural": "corps",
+      "meanings": [
+        {
+          "en": "body",
+          "note": "The final s is silent; singular and plural are written the same."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le corps",
+              "les corps"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il protège son corps.",
+          "trans": "He protects his body."
+        },
+        {
+          "text": "Le corps a besoin de repos.",
+          "trans": "The body needs rest."
+        }
+      ],
+      "related": []
     }
   }
 }

@@ -15,25 +15,55 @@ INTRO = ("At the agency, Andréa's ex-girlfriend Clémentine confronts her in th
  'first.')
 OPENER = "Let's walk through it line by line. Andréa and Colette encounter Clémentine in the agency hall."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "So much for convincing Colette that she doesn't have a string of ex-girlfriends. Back at the agency, Audrey Fleurot is arriving for her meeting with Augustin. See you next time!"
+OUTRO = ("Clémentine's confrontation has done nothing to help Andréa's chances with Colette. Meanwhile, Audrey arrives at "
+ 'the agency to meet Augustin about his film. See you next time!')
 CLOSING = ('andrea', 'Merci, au revoir.')
-STORY = [
-    ('andrea', "Clémentine! Qu'est-ce que tu fais ici?", 'Clémentine! What are you doing here?', [(291, "Clémentine ! Qu'est-ce que tu")], ''),
-    ('clementine', 'Je dois faire ça pour guérir.', 'I have to do this in order to heal.', [(292, 'Je dois faire ça pour guérir')], ''),
-    ('andrea', "D'accord, mais une autre fois!", 'Okay, but another time!', [(293, 'mais une autre fois')], ''),
-    ('clementine', 'Tu es un monstre de séduction.', "You're a monster of seduction.", [(294, 'Tu es un monstre de séduction')], ''),
-    ('andrea', 'Clémentine, écoute.', 'Clémentine, listen.', [(295, 'Clémentine, écoute')], ''),
-    ('clementine', "Tu m'as dévorée comme une hyène!", 'You devoured me like a hyena!', [(296, "Tu m'as dévorée comme une hyène")], ''),
-    ('andrea', "C'est ridicule. Ça n'a pas duré un mois!", "That's ridiculous. It didn't last a month!", [(298, "C'est ridicule"), (299, "Ça n'a pas duré un mois")], ''),
-    ('clementine', "Je parle de sentiments! J'avais des sentiments pour toi.", "I'm talking about feelings! I had feelings for you.", [(299, 'Je parle de sentiments'), (300, "J'avais des sentiments pour toi")], ''),
-    ('clementine', 'Et tu as demandé à ton assistante de me quitter!', 'And you asked your assistant to break up with me!', [(301, 'et tu as demandé à ton')], ''),
-    ('andrea', "Non, c'est faux!", "No, that's not true!", [(302, "Non, c'est faux")], ''),
-    ('clementine', "Tu es pourrie! Mais c'est fini.", "You're rotten! But it's over.", [(302, 'Pourri')], ''),
-    ('clementine', 'Je te pardonne.', 'I forgive you.', [(305, 'Je te pardonne')], ''),
-    ('andrea', "Tu as besoin d'un nouveau médecin, tu es folle!", "You need a new doctor, you're crazy!", [(306, "besoin d'un nouveau")], ''),
-    ('andrea', 'Les gens sont malades, non?', "People are crazy, aren't they?", [(307, 'Les gens sont malades')], ''),
-    ('andrea', 'Oui? Allô?', 'Yes? Hello?', [(309, 'Oui')], ''),
-]
+STORY = [('andrea',
+  "Clémentine! Qu'est-ce que tu fais ici?",
+  'Clémentine! What are you doing here?',
+  [(291, "Clémentine ! Qu'est-ce que tu")],
+  ''),
+ ('clementine',
+  'Je dois faire ça pour guérir.',
+  'I have to do this in order to heal.',
+  [(292, 'Je dois faire ça pour guérir')],
+  ''),
+ ('andrea', "D'accord, mais une autre fois!", 'Okay, but another time!', [(293, 'mais une autre fois')], ''),
+ ('clementine',
+  'Tu es un monstre de séduction.',
+  "You're a monster of seduction.",
+  [(294, 'Tu es un monstre de séduction')],
+  ''),
+ ('andrea', 'Clémentine, écoute.', 'Clémentine, listen.', [(295, 'Clémentine, écoute')], ''),
+ ('clementine',
+  "Tu m'as dévorée comme une hyène!",
+  'You devoured me like a hyena!',
+  [(296, "Tu m'as dévorée comme une hyène")],
+  ''),
+ ('andrea',
+  "C'est ridicule. Ça n'a pas duré un mois!",
+  "That's ridiculous. It didn't last a month!",
+  [(298, "C'est ridicule"), (299, "Ça n'a pas duré un mois")],
+  ''),
+ ('clementine',
+  "Je parle de sentiments! J'avais des sentiments pour toi.",
+  "I'm talking about feelings! I had feelings for you.",
+  [(299, 'Je parle de sentiments'), (300, "J'avais des sentiments pour toi")],
+  ''),
+ ('clementine',
+  'Et tu as demandé à ton assistante de me quitter!',
+  'And you asked your assistant to break up with me!',
+  [(301, 'et tu as demandé à ton')],
+  ''),
+ ('andrea', "Non, c'est faux!", "No, that's not true!", [(302, "Non, c'est faux")], ''),
+ ('clementine', "Tu es pourrie! Mais c'est fini.", "You're rotten! But it's over.", [(302, 'Pourri')], ''),
+ ('clementine', 'Je te pardonne.', 'I forgive you.', [(305, 'Je te pardonne')], ''),
+ ('andrea',
+  "Tu as besoin d'un nouveau médecin, tu es folle!",
+  "You need a new doctor, you're crazy!",
+  [(306, "besoin d'un nouveau")],
+  ''),
+ ('andrea', 'Les gens sont malades, non?', "People are crazy, aren't they?", [(307, 'Les gens sont malades')], '')]
 WALK = [(0,
   None,
   "'Clémentine! What are you doing here?' This long question phrase after Clémentine's name is the everyday "
@@ -85,8 +115,4 @@ WALK = [(0,
  (13,
   None,
   "'People are crazy, aren't they?' Literally 'people are sick, no?'. Andréa turns to Colette with an awkward "
-  'smile, but Colette simply bids Ms Martel a polite goodbye and walks off.'),
- (14,
-  None,
-  "'Yes? Hello?' The second greeting is specifically for phone calls. A rising 'yes?' can also answer a ringing "
-  'phone or ask the caller to continue.')]
+  'smile, but Colette simply bids Ms Martel a polite goodbye and walks off.')]

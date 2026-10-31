@@ -1,6 +1,6 @@
 # dix-pour-cent-s01e02-scene-27: review sheet
 
-Title: Pourquoi pas les deux?  (Why Not Both?)
+Title: Et si on prenait les deux?  (What If We Took Both?)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E02
@@ -10,43 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Andréa | Pourquoi ne pas prendre les deux? | Why not take them both? | #750: Pourquoi ne pas prendre les deux | verbatim |
-| 2 | Gabor | Les deux? | Both of them? | new | new |
-| 3 | Andréa | Bonnie et Clyde à quatre-vingts ans, avec deux femmes! | Bonnie and Clyde at eighty, with two women! | #751: Bonnie et Clyde à<br>#752: avec deux femmes | verbatim |
-| 4 | Andréa | Ça devient moderne. | It becomes modern. | #753: ça devient moderne | verbatim |
-| 5 | Gabor | Vous voulez dire un vrai couple de femmes? | You mean a real couple of women? | #755: Vous voulez dire un vrai couple de femmes | verbatim |
-| 6 | Andréa | Oui. Line Renaud et Françoise Fabian. | Yes. Line Renaud and Françoise Fabian. | #755: Oui<br>#757: Line Renaud, Françoise Fabian | verbatim |
-| 7 | Gabriel | On vient de les voir. | We've just seen them. | #757: On vient de les voir | verbatim |
-| 8 | Gabriel | Chacune est une star. | Each one is a star. | #758: Chacune est une star | verbatim |
-| 9 | Gabriel | Mais ensemble… | But together… | #759: Mais ensemble | verbatim |
-| 10 | Andréa | Vous avez vu ça? | Did you see that? | #760: Vous avez vu | verbatim |
-| 11 | Gabor | Ce n'est pas mal. | That's not bad. | #764: pas mal | verbatim |
-| 12 | Gabor | C'est totalement inattendu. | It's totally unexpected. | #765: C'est totalement inattendu | verbatim |
-| 13 | Gabor | Tout le monde en parlera. | Everyone will talk about it. | #767: Tout le monde en parlera | verbatim |
-| 14 | Andréa | Et vous avez deux stars! | And you get two stars! | #768: Et vous avez deux stars | verbatim |
-| 15 | Gabriel | On vous fait un bon prix. | We'll give you a good price. | #769: On vous fait un bon prix | verbatim |
-| 16 | Gabor | Outjet! | Outjet! (a made-up toast) | #770: Outjet | verbatim |
-| 17 | Andréa | Euh, oui, outjet! | Er, yes! | #771: Oui, outjet | verbatim |
-| 18 | Gabriel | Eh bien, outjet! | Well then. | #772: Eh bien... Outjet | verbatim |
-
+| 1 | Andréa | Et si on les prenait toutes les deux? | What if we took them both? | #750 00:46:23: Pourquoi ne pas prendre les deux | adapted: Restores actual French Et si on les prenait toutes les deux?, not the why-not infinitive invented by dual subtitles. |
+| 2 | Andréa | Bonnie et Clyde à quatre-vingts ans, avec deux femmes! | Bonnie and Clyde at eighty, with two women! | #751 00:46:26: Bonnie et Clyde à<br>#752 00:46:28: avec deux femmes | verbatim |
+| 3 | Andréa | Ça, c'est moderne. | That's modern. | #753 00:46:30: ça devient moderne | adapted: Restores original c’est moderne, not the invented devient moderne. |
+| 4 | Emma | Tu veux dire un vrai couple de femmes? | You mean a real couple of women? | #755 00:46:35: Vous voulez dire un vrai couple de femmes | adapted: Original French question is Emma’s; Andréa answers Ouais Emma. Source uses familiar tu, not formal vous. |
+| 5 | Andréa | Oui. Line Renaud et Françoise Fabian. | Yes. Line Renaud and Françoise Fabian. | #755 00:46:35: Oui<br>#757 00:46:39: Line Renaud, Françoise Fabian | verbatim |
+| 6 | Andréa | On vient de les voir. | We've just seen them. | #757 00:46:39: On vient de les voir | adapted: Source video confirms Andréa continues this comparison; not Gabriel. |
+| 7 | Andréa | Chacune est une star. | Each one is a star. | #758 00:46:43: Chacune est une star | adapted: Source video confirms Andréa continues this comparison; not Gabriel. |
+| 8 | Andréa | Mais ensemble… | But together… | #759 00:46:45: Mais ensemble | adapted: Source video confirms Andréa continues this comparison; not Gabriel. |
+| 9 | Andréa | Vous avez vu ça? | Did you see that? | #760 00:46:47: Vous avez vu | adapted: Simplifies source question about how the two women electrified the tribute. |
+| 10 | Gabriel | C'est totalement inattendu. | It's totally unexpected. | #765 00:47:00: C'est totalement inattendu | adapted: Two-frame-per-second original video confirms this speaker: Gabriel. |
+| 11 | Gabriel | Ça va faire parler, c'est sûr. | People will talk about it, that's certain. | #767 00:47:05: Tout le monde en parlera | adapted: Restores original ça va faire parler, c’est sûr, not simple future parlera invented by dual subtitles. |
+| 12 | Emma | Et puis, c'est deux cachets au lieu d'un. | And that's two fees instead of one. | #768 00:47:07: Et vous avez deux stars | adapted: Restores producer Emma’s budget objection: two fees instead of one, not an agent’s promise of two stars. Original audio and source camera cut confirm Emma. |
+| 13 | Andréa | On va te faire un petit prix. | We'll give you a good price. | #769 00:47:09: On vous fait un bon prix | adapted: Restores actual on va te faire un petit prix, addressed familiarly to Emma, not formal vous. Andréa speaks in the primary video. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why not take them both?' Notice the shape: 'why' plus 'not' plus an action word in its basic form. It's a neat way to suggest an idea. Gabor can't believe his ears.
-- 'Both of them?' Literally 'the two'. It's the same phrase as at the end of Andréa's question.
+- 'What if we took them both?' What if opens a suggestion. The past-shaped took imagines a possible casting choice. Them refers to the actresses, and the final expression both of them makes clear that Andréa wants the pair.
 - 'Bonnie and Clyde at eighty, with two women!' The famous couple of robbers, but old, and both played by women. The number eighty in French is literally 'four twenties', an old way of counting.
-- 'It becomes modern.' Andréa uses a short sentence with a useful action word, 'to become'. Gabor wants to be sure he understood.
-- 'You mean a real couple of women?' Literally 'you want to say'. That's how French says 'you mean'. Gabor uses the polite 'you' with the agents: this is business.
-- 'Yes. Line Renaud and Françoise Fabian.' Andréa names the two stars, who are standing just across the room. Gabriel joins in.
-- 'We've just seen them.' The verb 'to come' plus 'of' plus a verb means 'to have just done something'. Here the little word at the start means 'we', the everyday way to say it.
+- 'That's modern.' Andréa names the idea with that and then describes it: that, it is modern. Repeating the topic this way is common in conversation. She presents the two-woman couple as the fresh element.
+- 'You mean a real couple of women?' Emma asks Andréa to clarify the idea, using familiar you. Mean is literally want to say. Real makes clear that she is asking about a romantic couple, rather than simply two women in the cast.
+- 'Yes. Line Renaud and Françoise Fabian.' Andréa's yes confirms Gabor's understanding. She then joins the two full names with and, presenting the actresses as a pair rather than two competing choices.
+- 'We've just seen them.' Come followed by the short linking word and see means have just seen. Them stands for Line and Françoise and sits before see. Andréa points to the tribute they have all watched.
 - 'Each one is a star.' The first word is the feminine 'each one', because he's talking about two women.
-- 'But together…' He leaves the sentence hanging, so Gabor can imagine the rest.
-- 'Did you see that?' Andréa means the tribute, where the two actresses moved the whole room.
-- 'That's not bad.' Here's a grammar point: two little words wrap around the verb to make it negative. In everyday speech the first one often disappears, but you'll always see both in writing. And 'not bad' in French can mean 'pretty good'.
-- 'It's totally unexpected.' He's getting excited now.
-- 'Everyone will talk about it.' Literally 'all the world'. The verb is in the future: the ending tells you it hasn't happened yet. Andréa seizes the moment.
-- 'And you get two stars!' Andréa promises two names on the poster for one film. Gabriel adds the argument every producer likes.
-- 'We'll give you a good price.' Literally 'we make you a good price'. That's the agent's job: the deal. And then Gabor raises his glass.
-- 'Outjet! (a made-up toast)' That's not a real word. It's Gabor's own made-up toast, a bit like saying 'cheers' in his own private language. The agents have no idea what it means.
-- 'Er, yes!' Andréa hesitates, then plays along and repeats his strange word.
-- 'Well then.' Gabriel gives in too. The two little words at the start are what you say when you shrug and accept something. The deal is made. Let's hear the whole scene again, toast and all.
+- 'But together…' But turns away from considering each actress separately. Together invites Gabor to imagine the two in the same film. Andréa leaves the thought unfinished to make the combination sound intriguing.
+- 'Did you see that?' The French past uses have plus seen. That points back to the actresses' joint appearance at the tribute. The short question asks Gabor to share Andréa's reaction to what they watched.
+- 'It's totally unexpected.' Totally strengthens unexpected: Gabriel sells the combination as completely surprising. Unexpected describes the proposal itself, rather than either individual actress.
+- 'People will talk about it, that's certain.' The French wording literally says that is going to make people talk. The idea itself is the subject. Going to presents its publicity as an expected result, and certain adds Gabriel's confidence.
+- 'And that's two fees instead of one.' Emma brings up the cost. A fee here is the payment to a performer. Instead of is literally in the place of, comparing the two payments with the single one they had planned.
+- 'We'll give you a good price.' Literally, we are going to make you a little price. Little describes a reduced price, not a small object. Andréa uses familiar you with Emma while offering a deal.

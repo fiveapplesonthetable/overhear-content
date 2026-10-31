@@ -15,16 +15,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Andréa | Oui, bien sûr. Vous pouvez compter sur moi. | Yes, of course. You can count on me. | #269 00:16:10: Vous pouvez compter sur moi | verbatim |
 | 4 | Andréa | C'est une catastrophe pour l'agence. | It is a disaster for the agency. | new | new |
 | 5 | Camille | C'est si grave que ça? C'est du théâtre, quand même. | Is it that bad? It is only theatre, after all. | #271 00:16:21: C'est si grave que ça<br>#271 00:16:21: C'est du théâtre, quand même | verbatim |
-| 6 | Andréa | Vous savez ce que ça pourrait coûter? | Do you know what this could cost? | #272 00:16:25: Vous savez ce que ça pourrait coûter | verbatim |
+| 6 | Andréa | Tu sais ce que ça pourrait coûter? | Do you know what this could cost? | #272 00:16:25: Vous savez ce que ça pourrait coûter | adapted: Familiar address confirmed by unprompted original French audio. |
 | 7 | Andréa | On ne peut pas laisser filtrer cette histoire de coup de poing. | We cannot let this punch story get out. | #274 00:16:31: on ne peut pas laisser filtrer cette histoire de coup de poing | verbatim |
 | 8 | Andréa | Il faut étouffer ça maintenant. | We must stifle this right now. | #277 00:16:42: Il faut étouffer ça maintenant | verbatim |
 | 9 | Camille | Pour un client mécontent, ma mère baisse les tarifs. | For an unhappy client, my mother lowers the prices. | #278 00:16:45: Quand ma mère a un client mécontent<br>#278 00:16:45: elle fait un geste pour ses amis | adapted: Adapted from her commercial goodwill gesture and the following mention of reduced rates. |
 | 10 | Camille | Elle ne perd pas de clientèle. | She does not lose any customers. | #279 00:16:49: Elle ne perd pas de clientèle | verbatim |
 | 11 | Andréa | Donc on baisse les tarifs pour toutes nos stars? | So we lower the rates for all our stars? | #280 00:16:52: Donc on baisse les tarifs pour toutes nos stars | verbatim |
-| 12 | Andréa | Appelez-les vous-même, alors! | Call them yourself, then! | #281 00:16:56: Appelez-les vous-même, alors | verbatim |
+| 12 | Andréa | Appelle-les toi-même, alors! | Call them yourself, then! | #281 00:16:56: Appelez-les vous-même, alors | adapted: Familiar address confirmed by unprompted original French audio. |
 | 13 | Camille | Allô, Hippolyte? Bonjour, c'est Camille, d'ASK. | Hello, Hippolyte? Hello, this is Camille from ASK. | #284 00:17:21: Allô, Hippolyte ? Bonjour, c'est Camille, d'ASK | verbatim |
-| 14 | Camille | Andréa m'a demandé de vous appeler au sujet de vos contrats. | Andréa asked me to call you about your contracts. | #285 00:17:25: Andréa m'a demandé de vous appeler au sujet de vos contrats | verbatim |
-| 15 | Camille | Vous pouvez passer les vérifier et les signer? | Can you come by to check them and sign them? | #287 00:17:31: Vous pouvez passer les vérifier et les signer | verbatim |
+| 14 | Camille | Andréa m'a demandé de t'appeler au sujet de tes contrats. | Andréa asked me to call you about your contracts. | #285 00:17:25: Andréa m'a demandé de vous appeler au sujet de vos contrats | adapted: Familiar address confirmed by unprompted original French audio. |
+| 15 | Camille | Tu peux passer les vérifier et les signer? | Can you come by to check them and sign them? | #287 00:17:31: Vous pouvez passer les vérifier et les signer | adapted: Familiar address confirmed by unprompted original French audio. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +42,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Call them yourself, then!' The command for 'call' has the object 'them' attached by a hyphen. The following words mean 'yourself', insisting that Camille should make those calls.
 - 'Hello, Hippolyte? Hello, this is Camille from ASK.' The first word answers or opens a telephone call. Camille then identifies herself, with a shortened 'from' attached to the agency's initials.
 - 'Andréa asked me to call you about your contracts.' The completed action says Andréa asked her. The little attached object means 'me'. The final words identify the subject of the call: his contracts.
-- 'Can you come by to check them and sign them?' The question begins with the polite 'you can'. Two later objects mean 'them', referring to the contracts: first checking them, then signing them.
+- 'Can you come by to check them and sign them?' The question begins with 'you can', addressing one person familiarly. Two later objects mean 'them', referring to the contracts: first checking them, then signing them.

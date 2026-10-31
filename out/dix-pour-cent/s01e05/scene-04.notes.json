@@ -249,8 +249,6 @@
       ]
     },
     {
-      "seg": 6,
-      "trans": "Hi! I'm playing a servant, like you.",
       "words": [
         {
           "t": "Salut!",
@@ -301,14 +299,16 @@
           "gram": "comparison"
         },
         {
-          "t": "toi.",
-          "lemma": "toi",
+          "t": "vous.",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "twa",
+          "stress": "vu",
           "gloss": "you",
-          "gram": "stressed pronoun, 2nd person singular, informal"
+          "gram": "polite singular strong pronoun after comme"
         }
-      ]
+      ],
+      "seg": 6,
+      "trans": "Hi! I'm playing a servant, like you."
     },
     {
       "seg": 7,
@@ -1025,8 +1025,6 @@
       ]
     },
     {
-      "seg": 28,
-      "trans": "Hi! I'm playing a servant, like you.",
       "words": [
         {
           "t": "Salut!",
@@ -1077,14 +1075,16 @@
           "gram": "comparison"
         },
         {
-          "t": "toi.",
-          "lemma": "toi",
+          "t": "vous.",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "twa",
+          "stress": "vu",
           "gloss": "you",
-          "gram": "stressed pronoun, 2nd person singular, informal"
+          "gram": "polite singular strong pronoun after comme"
         }
-      ]
+      ],
+      "seg": 28,
+      "trans": "Hi! I'm playing a servant, like you."
     },
     {
       "seg": 30,
@@ -1801,8 +1801,6 @@
       ]
     },
     {
-      "seg": 55,
-      "trans": "Hi! I'm playing a servant, like you.",
       "words": [
         {
           "t": "Salut!",
@@ -1853,14 +1851,16 @@
           "gram": "comparison"
         },
         {
-          "t": "toi.",
-          "lemma": "toi",
+          "t": "vous.",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "twa",
+          "stress": "vu",
           "gloss": "you",
-          "gram": "stressed pronoun, 2nd person singular, informal"
+          "gram": "polite singular strong pronoun after comme"
         }
-      ]
+      ],
+      "seg": 55,
+      "trans": "Hi! I'm playing a servant, like you."
     },
     {
       "seg": 56,
@@ -2774,7 +2774,7 @@
         },
         {
           "en": "quite, rather",
-          "note": "Assez bien. Invariable French adverb meaning 'enough'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Assez bien."
         }
       ],
       "forms": null,
@@ -3973,12 +3973,7 @@
           "trans": "The duchess lives in a castle."
         }
       ],
-      "related": [
-        {
-          "word": "une duchesse / des duchesses",
-          "gloss": "a duchess / duchesss"
-        }
-      ]
+      "related": []
     },
     "déjà": {
       "lemma": "déjà",
@@ -4090,11 +4085,11 @@
       "meanings": [
         {
           "en": "well, I mean",
-          "note": "Correcting yourself: oui, enfin. Invariable French adverb meaning 'finally'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Correcting yourself: oui, enfin."
         },
         {
           "en": "finally, at last",
-          "note": "Invariable French adverb meaning 'finally'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5991,12 +5986,7 @@
           "trans": "Life is beautiful."
         }
       ],
-      "related": [
-        {
-          "word": "une vie / des vies",
-          "gloss": "a life / lifes"
-        }
-      ]
+      "related": []
     },
     "vous": {
       "lemma": "vous",
@@ -6524,12 +6514,7 @@
           "trans": "She has blue eyes."
         }
       ],
-      "related": [
-        {
-          "word": "un œil / des yeux",
-          "gloss": "a eye / eyes"
-        }
-      ]
+      "related": []
     }
   }
 }

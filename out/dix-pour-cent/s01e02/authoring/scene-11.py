@@ -18,11 +18,10 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'A rough morning for Andréa, but you came through it fine. See you next time!'
 CLOSING = ('andrea', 'Bon courage!')
 STORY = [('emma',
-  'Françoise a appelé. Elle dit que vous étiez odieuse.',
+  'Françoise a appelé. Elle dit que tu étais odieuse.',
   'Françoise phoned. She says you were horrible.',
   [(325, 'Françoise a appelé, elle dit que vous étiez odieux')],
-  'Feminine odieuse explicitly agrees with Andréa as the formal singular addressee, replacing the ambiguous '
-  'masculine source spelling.'),
+  'Original French audio uses familiar tu étais odieuse to Andréa; dual subtitles invented formal vous.'),
  ('andrea',
   "C'est tellement malhonnête! Elle avait déjà pris sa décision.",
   "That's so dishonest! She'd already made her decision.",
@@ -96,19 +95,19 @@ STORY = [('emma',
   [(354, 'Je me sens vraiment... nulle')],
   ''),
  ('andrea',
-  "Réservez-moi un massage, s'il vous plaît.",
+  "Réserve-moi un massage, s'il te plaît.",
   'Book me a massage, please.',
   [(359, "Réservez-moi un massage, s'il vous plaît")],
-  '')]
+  'Original French audio has familiar Réserve-moi and s’il te plaît. Omits evening/time details.')]
 WALK = [(0,
   'Françoise a appelé.',
   "'Françoise phoned.' The past with 'has' plus the action word, the everyday way to say something "
   'happened.'),
  (0,
-  'Elle dit que vous étiez odieuse.',
-  "'She says you were horrible.' Emma uses formal you to Andréa. The description has a feminine ending "
-  "because it describes Andréa, a woman. It criticises someone's behaviour as obnoxious, not merely untidy "
-  'or unskilled.'),
+  'Elle dit que tu étais odieuse.',
+  "'She says you were horrible.' Emma uses familiar you with Andréa. Horrible has a feminine ending because "
+  'it describes Andréa. It criticises her behaviour as obnoxious, rather than saying she was untidy or '
+  'unskilled.'),
  (1,
   "C'est tellement malhonnête!",
   "'That's so dishonest!' The long word in the middle means 'so', 'so very'."),
@@ -187,6 +186,6 @@ WALK = [(0,
   'struggling with the voicemail.'),
  (17,
   None,
-  "'Book me a massage, please.' Andréa gives a polite command to her assistant and adds 'please', literally "
-  "'if it pleases you'. After a morning like this, who can blame her? Okay. Now the whole thing again, from "
-  "Emma's first line.")]
+  "'Book me a massage, please.' The command addresses one familiar person, and me attaches to it with a "
+  'hyphen. The final please also contains the familiar you. Andréa directs her assistant to arrange '
+  'something for her after the difficult conversation. Now the whole scene again.')]

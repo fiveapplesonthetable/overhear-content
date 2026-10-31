@@ -1,3 +1,4 @@
+SOURCE_NOTE = 'French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.'
 # Authoring module for dix-pour-cent-s01e01-scene-08.
 ID = 'dix-pour-cent-s01e01-scene-08'
 SHOW = 'dix-pour-cent'
@@ -18,18 +19,26 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ("Camille has found a job, and you have heard several ways to ask about someone's background and "
  "availability. Listen again for the different uses of 'come'; see you next time.")
 CLOSING = ('camille', 'À bientôt!')
-STORY = [('andrea', 'Tu viens, oui ou non?', 'Are you coming or not?', [(251, 'Tu viens, oui ou non ?')], ''),
- ('andrea', "Tu viens d'où?", 'Where are you from?', [(252, "Tu viens d'où ?")], ''),
+STORY = [('andrea',
+  'Vous venez?',
+  'Are you coming?',
+  [(251, 'Tu viens, oui ou non ?')],
+  'A1 question preserves the initial polite address confirmed by original audio.'),
+ ('andrea',
+  "Vous venez d'où?",
+  'Where are you from?',
+  [(252, "Tu viens d'où ?")],
+  'A1 question preserves the initial polite address confirmed by original audio.'),
  ('camille',
   "Je viens de la Côte d'Azur. Près de Cannes.",
   "I'm from the Côte d'Azur. Near Cannes.",
   [(253, "Je viens... de la Côte d'Azur"), (254, 'Près de Cannes')],
   ''),
  ('andrea',
-  'Cannes? Tu as travaillé au festival?',
+  'Cannes? Vous avez travaillé au festival?',
   'Cannes? Did you work at the festival?',
   [(255, 'Cannes ? Tu as travaillé au festival ?')],
-  ''),
+  'A1 question preserves the initial polite address confirmed by original audio.'),
  ('camille',
   'Oui, exactement. Le Festival de Cannes.',
   'Yes, exactly. The Cannes Film Festival.',
@@ -46,7 +55,11 @@ STORY = [('andrea', 'Tu viens, oui ou non?', 'Are you coming or not?', [(251, 'T
   "Don't cry, we're going to fix this!",
   [(264, 'Pleurez pas. On va arranger ça')],
   ''),
- ('andrea', 'Tu as un petit ami?', 'Have you got a boyfriend?', [(270, 'Tu as un petit ami ?')], ''),
+ ('andrea',
+  'Vous avez un petit ami?',
+  'Have you got a boyfriend?',
+  [(270, 'Tu as un petit ami ?')],
+  'A1 question preserves the initial polite address confirmed by original audio.'),
  ('camille', 'Non.', 'No.', [(270, 'Non')], ''),
  ('andrea', 'Des amis à Paris?', 'Friends in Paris?', [(272, 'Des amis à Paris ?')], ''),
  ('camille',
@@ -54,7 +67,11 @@ STORY = [('andrea', 'Tu viens, oui ou non?', 'Are you coming or not?', [(251, 'T
   "No, I've just arrived. My dad, but it's complicated.",
   [(273, "Non, je viens d'arriver"), (274, "Mon père, mais c'est compliqué")],
   ''),
- ('andrea', "Tu t'occupes de lui?", 'Do you look after him?', [(275, "Tu t'occupes de lui ?")], ''),
+ ('andrea',
+  'Vous vous occupez de lui?',
+  'Do you look after him?',
+  [(275, "Tu t'occupes de lui ?")],
+  'A1 question preserves the initial polite address confirmed by original audio.'),
  ('camille', 'Hors de question!', 'No way!', [(276, 'Hors de question')], ''),
  ('andrea',
   "Je peux t'appeler à quatre heures du matin? Tu travailles le dimanche?",
@@ -74,8 +91,8 @@ STORY = [('andrea', 'Tu viens, oui ou non?', 'Are you coming or not?', [(251, 'T
  ('camille', 'Oui, maintenant!', 'Yes, right now!', [], '')]
 WALK = [(0,
   None,
-  "'Are you coming or not?' Literally, the last three words ask 'yes or no'. The familiar form of 'come' "
-  'makes this a question about what Camille will do now.'),
+  "'Are you coming?' Andrea initially uses the polite address with Camille. The form of 'come' follows that "
+  'address, even though she is speaking to one person.'),
  (1,
   None,
   "'Where are you from?' The same action now combines with a question meaning 'from where'. The question "
@@ -133,9 +150,8 @@ WALK = [(0,
  (13, None, "'No way!' Literally 'out of the question'. Andréa likes that. Then she gets to the real test."),
  (14,
   None,
-  "'Can I call you at four in the morning? Do you work on Sundays?' A day with the definite article can "
-  'describe a regular habit. Andrea wants someone available every Sunday, as well as very early in the '
-  'morning.'),
+  "'Can I call you at four in the morning? Do you work on Sundays?' Andrea now switches to the familiar "
+  "address as she sets out the job's demands. A day with the article can describe a regular weekly habit."),
  (15,
   None,
   "'Yes, yes.' The repeated answer confirms both requests Andrea has just made. Camille accepts both without "

@@ -44,10 +44,11 @@ STORY = [('sofia',
   [(77, 'Salut.'), (78, 'Tu fais quoi ?')],
   'Learner adaptation, not a verbatim French transcript.'),
  ('sofia',
-  'Salut! Je joue une servante, comme toi.',
+  'Salut! Je joue une servante, comme vous.',
   "Hi! I'm playing a servant, like you.",
   [(77, 'Salut.'), (79, 'je joue une servante, comme toi.')],
-  'Learner adaptation, not a verbatim French transcript.'),
+  'Original French audio uses VOUS from Sofia to Joey; he addresses her with TU. Learner adaptation, not a '
+  'verbatim French transcript.'),
  ('joey',
   "Je n'ai pas une scène avec toi?",
   "Don't I have a scene with you?",
@@ -120,8 +121,9 @@ WALK = [(0,
   'same easy word order as an ordinary statement.'),
  (5,
   None,
-  "'Hi! I'm playing a servant, like you.' French has a feminine word for the servant Sofia plays. The final "
-  'comparison connects her character with his.'),
+  "'Hi! I'm playing a servant, like you.' The feminine word for servant describes the role she is playing. "
+  'Sofia uses polite you with the established actor, while he addresses her with the familiar form; their '
+  'register is not symmetrical.'),
  (6,
   None,
   "'Don't I have a scene with you?' The question is negative, even though he suspects the answer is yes. "

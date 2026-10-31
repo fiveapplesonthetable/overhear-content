@@ -10,41 +10,36 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Hippolyte | Tu me plais vraiment! | I really like you! | #793: vraiment | verbatim |
-| 2 | Camille | Non, quelqu'un va entrer! | No, someone's going to come in! | #794: quelqu'un | verbatim |
-| 3 | Hippolyte | Personne ne va entrer. | Nobody's going to come in. | #795: Personne ne va entrer | verbatim |
-| 4 | Camille | Attends. | Wait. | #796: Attends | verbatim |
-| 5 | Camille | Je ne me souviens pas vraiment. | I don't really remember. | #797: souviens pas vraiment | verbatim |
-| 6 | Camille | On a fait quoi hier soir? | What did we do last night? | #797: On a fait quoi hier soir | verbatim |
-| 7 | Hippolyte | Tu ne te souviens de rien? | You don't remember anything? | #800: Tu ne te souviens de rien | verbatim |
-| 8 | Camille | Non, de rien. Dis-moi! | Tell me! | #805: Dis-moi | verbatim |
-| 9 | Hippolyte | On est rentrés chez moi. | We went back to my place. | #806: On est rentrés chez moi | verbatim |
-| 10 | Hippolyte | On s'est embrassés. | We kissed. | #806: on s'est embrassés | verbatim |
-| 11 | Hippolyte | Je t'ai portée jusqu'à mon lit. | I carried you to my bed. | #807: je t'ai portée jusqu'à mon lit | verbatim |
-| 12 | Hippolyte | Et après, rien. | And then, nothing. | #808: rien | verbatim |
-| 13 | Hippolyte | Tu t'es endormie en deux secondes. | You fell asleep in two seconds. | #809: Tu t'es endormie en deux secondes | verbatim |
-| 14 | Camille | Vraiment? | Really? | #809: Vraiment | verbatim |
-| 15 | Hippolyte | Oui, vraiment. | Yes, really. | #810: Oui, vraiment | verbatim |
-| 16 | Camille | Merci! | Thank you! | #811: Merci | verbatim |
-
-
+| 1 | Camille | Non, si quelqu'un entre… | No, what if someone comes in… | #794 00:48:35: quelqu'un | adapted: Condenses original warning si quelqu’un rentre; omits il ne faut pas and retains the unfinished condition. |
+| 2 | Hippolyte | Personne ne va entrer. | Nobody's going to come in. | #795 00:48:38: Personne ne va entrer | verbatim |
+| 3 | Camille | Attends. | Wait. | #796 00:48:40: Attends | verbatim |
+| 4 | Camille | Je ne me souviens plus très bien. | I don't remember very well anymore. | #797 00:48:42: souviens pas vraiment | adapted: Restores actual plus très bien from French audio, with the written first negative added. |
+| 5 | Camille | Qu'est-ce qu'on a fait hier soir? | What did we do last night? | #797 00:48:42: On a fait quoi hier soir | adapted: Restores actual opening Qu’est-ce qu’on; dual subtitles had moved quoi after the action. |
+| 6 | Hippolyte | Tu ne te souviens de rien? | You don't remember anything? | #800 00:48:51: Tu ne te souviens de rien | verbatim |
+| 7 | Camille | Dis-moi! | Tell me! | #805 00:49:02: Dis-moi | adapted: Short neutral equivalent of the original Réponds-moi!, answer me. Removes the invented de rien response. |
+| 8 | Hippolyte | On était chez moi. | We were at my place. | #806 00:49:04: On est rentrés chez moi | adapted: Restores actual on était chez moi, not the backtranslated movement construction on est rentrés. |
+| 9 | Hippolyte | On s'est embrassés. | We kissed. | #806 00:49:04: on s'est embrassés | verbatim |
+| 10 | Hippolyte | Je t'ai portée jusqu'à mon lit. | I carried you to my bed. | #807 00:49:07: je t'ai portée jusqu'à mon lit | verbatim |
+| 11 | Hippolyte | Et après, rien. | And then, nothing. | #808 00:49:08: rien | verbatim |
+| 12 | Hippolyte | Tu t'es endormie en deux secondes. | You fell asleep in two seconds. | #809 00:49:11: Tu t'es endormie en deux secondes | verbatim |
+| 13 | Camille | C'est vrai? | Is that true? | #809 00:49:11: Vraiment | adapted: Original French audio has c’est vrai, not the vraiment invented by the dual subtitles. |
+| 14 | Hippolyte | Oui, c'est vrai. | Yes, it's true. | #810 00:49:15: Oui, vraiment | adapted: Original French audio has c’est vrai, not the vraiment invented by the dual subtitles. |
+| 15 | Camille | Merci! | Thank you! | #811 00:49:16: Merci | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I really like you!' Word for word, 'you please me really'. In French the person you like is the subject of the sentence. Camille pulls back.
-- 'No, someone's going to come in!' The action word 'to go' plus another action word gives you the near future, just like 'going to' in English.
+- 'No, what if someone comes in…' If introduces the possible interruption she fears. Camille leaves the warning unfinished because the situation makes the consequence clear. Someone is not a specific person: it could be any guest.
 - 'Nobody's going to come in.' Here the word for 'nobody' comes first, and the little negative word follows it. Camille stops him.
 - 'Wait.' Camille gives a casual command, said to one person. Then she confesses something.
-- 'I don't really remember.' The verb 'to remember' comes with a little word for 'myself', and the negative wraps around both.
-- 'What did we do last night?' The word for 'what' comes at the end here, which is very common in spoken French. The last two words mean 'yesterday evening'. Hippolyte can't believe it.
+- 'I don't remember very well anymore.' Anymore replaces the ordinary second negative word after remember. Very well describes the clarity of her memory. She is asking him to fill in what she can no longer recall clearly.
+- 'What did we do last night?' The French question begins with what and keeps we before the past helper. Done carries the action, and yesterday evening is the usual way to say last night.
 - 'You don't remember anything?' This time the negative is not 'not' but 'nothing'. The second little word changes, the pattern stays the same.
-- 'No, nothing.' She just repeats his word for 'nothing'.
-- 'Tell me!' Camille gives a casual command with 'me' stuck on the end with a hyphen. Hippolyte tells the story.
-- 'We went back to my place.' Some verbs of movement build the past with 'to be' instead of 'to have', and this is one of them. The last two words mean 'at my home'.
+- 'Tell me!' The short me attaches to the familiar command with a hyphen. Camille asks for an answer to the question about last night, rather than continuing the flirtation.
+- 'We were at my place.' Were sets the scene before Hippolyte describes the kiss and the bed. At my place is built from the word for at someone's home and the strong form of me.
 - 'We kissed.' The verb has a little word meaning 'each other', and it also takes 'to be' in the past.
 - 'I carried you to my bed.' The past form gets an extra letter at the end in writing, because the person carried is a woman.
-- 'And then, nothing.' He takes his time before the last word, to tease her.
+- 'And then, nothing.' Then places this after the kiss and being carried to bed. Nothing stands alone because the previous question makes clear what further intimacy she is asking about.
 - 'You fell asleep in two seconds.' Again 'to be' in the past, and again a feminine ending, because it's Camille who fell asleep.
-- 'Really?' She can hardly believe it.
-- 'Yes, really.' He just repeats her word, a little vexed.
-- 'Thank you!' Here, Hippolyte thinks it's a strange answer. But we know why she's so relieved: he's her half-brother, and nothing happened. Here's the whole scene once more.
+- 'Is that true?' Literally, it is true? French keeps the ordinary statement order in this short spoken question, while English can put is before that. True asks whether Hippolyte's account really happened.
+- 'Yes, it's true.' Yes answers the question directly, and the following statement repeats his confirmation. The French word for true also means real or genuine in other settings, so context tells you what kind of truth is being checked.
+- 'Thank you!' French uses one word here, without needing a separate you. You can add what you are grateful for after the short linking word for for. Camille leaves it as one word because Hippolyte has just answered the question that worried her. Here's the whole conversation once more.

@@ -10,9 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'francoise': 'Françoise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
-INTRO = ('Andréa meets Françoise in a park after a screening and pretends the encounter is a surprise. She needs the '
- "actress back in Gabor's film and uses Line Renaud's name to stir up their rivalry. Elsewhere, Line is also "
- 'making barbed comments about Françoise. We follow the park conversation in French first.')
+INTRO = ('Andréa meets Françoise in a park and pretends the encounter is a surprise. She says she is coming from a '
+ "nearby screening. She needs the actress back in Gabor's film and uses Line Renaud's name to stir up their "
+ 'rivalry. Elsewhere, Line is making barbed comments about Françoise. We follow the park conversation in '
+ 'French first.')
 OPENER = "Let's go back over it. Andréa plays the surprise, with a lot of energy."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Andréa has set her trap with a smile, and you followed a very polite fight in French. See you next time!'
@@ -23,10 +24,16 @@ STORY = [('andrea',
   [(539, 'Quelle surprise ! Françoise')],
   ''),
  ('francoise',
-  "Andréa. Je viens d'assister à une projection.",
-  "Andréa. I've just been to a screening.",
-  [(540, 'Andréa'), (541, "Je viens d'assister à une projection")],
-  ''),
+  'Andréa!',
+  'Andréa!',
+  [(540, 'Andréa')],
+  'Françoise’s greeting only; the following screening remark is Andréa’s.'),
+ ('andrea',
+  "Je sors d'une projection.",
+  "I'm coming from a screening.",
+  [(541, "Je viens d'assister à une projection")],
+  'Original French audio restores Je sors d’une projection; 2fps video confirms Andréa says it, not '
+  'Françoise.'),
  ('andrea', 'Comment allez-vous?', 'How are you?', [(542, 'Comment allez-vous')], ''),
  ('francoise', 'Très bien, merci.', 'Very well, thank you.', [(542, 'Très bien, merci')], ''),
  ('andrea',
@@ -77,58 +84,63 @@ WALK = [(0,
   "'What a surprise! Françoise!' This question word for 'which' also works as an exclamation, like 'what a' "
   'in English. Françoise is calm and cool.'),
  (1,
-  "Je viens d'assister à une projection.",
-  "'I've just been to a screening.' The action word 'to come' followed by another action word means 'have "
-  "just done'. A very useful structure."),
+  None,
+  "'Andréa!' Françoise answers the greeting with Andréa's first name. A name on its own can recognise "
+  'someone you have just noticed, without adding another greeting.'),
  (2,
+  None,
+  "'I'm coming from a screening.' The French wording literally says I come out of a screening. From "
+  'identifies the event Andréa says she has just left. The same action word also describes leaving a '
+  'building.'),
+ (3,
   None,
   "'How are you?' The polite form, with the formal 'you'. Andréa is careful now; the last time they met, she "
   'lost her temper.'),
- (3,
+ (4,
   None,
   "'Very well, thank you.' Well describes how she is doing, rather than calling her a good person. Very "
   "strengthens it, and the thanks acknowledges Andréa's polite question."),
- (4,
+ (5,
   None,
   "'I'm sorry. I got carried away.' Both words end in the feminine spelling because a woman is speaking, "
   "though you can't hear it."),
- (5,
+ (6,
   None,
   "'It's forgotten.' Forgotten describes the matter as finished and forgiven. The short reply accepts the "
   "apology without repeating what happened at the florist's."),
- (6,
+ (7,
   None,
   "'Gabor respects your decision.' The word for 'your' is the formal one, matching the formal 'you'."),
- (7,
+ (8,
   None,
   "'He's a brilliant young man. How is he?' In the question the verb and the pronoun swap places, with a "
   "little extra sound in between. That swap is today's grammar point: a more elegant way to ask a question."),
- (8,
+ (9,
   None,
   "'To tell the truth, rather well. Really well, in fact.' Rather well is a measured answer; really well "
   'makes it stronger. The last word adds emphasis, like even or in fact, rather than meaning the same.'),
- (9,
+ (10,
   None,
   "'It's still confidential, but I can tell you.' Two little pronouns sit before the verb: 'to you' and "
   "'it'. Andréa pretends to share a secret."),
- (10,
+ (11,
   None,
   "'We're taking Line Renaud.' The word at the start means 'we' in everyday speech. And it's a lie: Gabor "
   "hasn't chosen Line at all."),
- (11,
+ (12,
   None,
   "'Line... Line Renaud?' Repeating the name as a question checks that she heard correctly. The pause before "
   'the full name also lets us hear her surprise; Andréa waits for it to have its effect.'),
- (12,
+ (13,
   None,
   "'It's Gabor's idea. You and Line have nothing in common.' The negative here pairs with the word for "
   "'nothing'. Andréa knows exactly where it hurts."),
- (13,
+ (14,
   None,
   "'That's wonderful. We see her so rarely on screen.' So strengthens rarely, rather than introducing a "
   "condition meaning if. The short word for her comes before see and points back to Line. Françoise's polite "
   "compliment carries a criticism of Line's film career."),
- (14,
+ (15,
   None,
   "'I still think the part was made for you.' The word for 'still' is the same as 'always'. Andréa plays her "
   "last card, and Françoise's answer will show it has worked. Let's listen to the whole meeting again.")]

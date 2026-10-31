@@ -7,47 +7,151 @@ SCENE = 22
 TITLE = 'Le traumatisme de la piscine  (The Swimming Pool Trauma)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'christophe': 'Christophe', 'francois': 'François'}
+LABELS = {'christophe_bel': 'Christophe Bel', 'francois': 'François'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
-INTRO = "Back at the rehearsal studio party, François, Christophe, and Andréa sit together at the edge of the indoor swimming pool with their feet near the water. Now that his secret is out, François explains why he has been terrified of swimming pools ever since a childhood holiday in Spain. Let's hear the scene in French first."
-OPENER = "Let's go back through the scene. Sitting by the water, François remembers his childhood holiday."
+INTRO = ('At his birthday party, director Christophe Bel tells François Berléand about a frightening swimming-pool accident in '
+ 'his own childhood. François listens, then connects the story to Dom Juan as he argues against putting the character '
+ 'in the water. The two men are seated at a table. Listen first in French.')
+OPENER = 'Now hear how the director tells his own childhood story, and how François turns it into an argument about the play.'
 TRANSITION = "Now let's listen to the whole poolside scene again."
-OUTRO = "In Christophe's arms in the shallow water, François finally overcomes his fear of the pool, and the play is saved. Thrilled by their reconciliation, Andréa celebrates a little too hard at the party. See you next time!"
-CLOSING = ('andrea', 'À bientôt!')
-STORY = [
-    ('francois', "J'étais en vacances avec mes parents en Espagne.", 'I was on holiday with my parents in Spain.', [(573, "J'étais en vacances avec mes parents en Espagne")], ''),
-    ('francois', "L'hôtel avait une piscine. J'y suis allé avec mon frère.", 'The hotel had a pool. I went there with my brother.', [(574, "L'hôtel avait une piscine"), (575, "J'y suis allé avec mon frère")], ''),
-    ('francois', 'On a joué à un jeu stupide.', 'We played a stupid game.', [(576, 'On a joué à un jeu stupide')], ''),
-    ('francois', 'On essayait de rester assis au fond.', 'We tried to stay sitting on the bottom.', [(577, 'rester assis au fond'), (580, 'essayer de rester au fond')], ''),
-    ('francois', 'Mais un jour, la pompe a bloqué mon maillot.', 'But one day, the pump trapped my swimsuit.', [(581, 'Mais un jour, mon maillot'), (581, 'la pompe')], ''),
-    ('francois', "J'ai eu très peur. Je croyais que j'allais mourir.", 'I was very scared. I thought I was going to die.', [(584, "Je croyais que j'allais mourir")], ''),
-    ('francois', "Et mon frère m'a sauvé.", 'And my brother saved me.', [(584, "et mon frère m'a sauvé")], ''),
-    ('francois', 'Après ça, je ne suis jamais retourné dans une piscine.', 'After that, I never went back into a pool.', [(585, "je n'ai jamais"), (585, 'dans une piscine')], ''),
-    ('francois', "C'est du passé maintenant.", "It's in the past now.", [(587, "C'est du passé maintenant")], ''),
-    ('christophe', "Mais c'est magnifique! C'est Dom Juan!", "But it's magnificent! That's Dom Juan!", [(588, "c'est magnifique"), (589, "C'est Dom Juan")], ''),
-    ('christophe', 'Sa peur de la mort, le désir, le plaisir!', 'His fear of death, desire, pleasure!', [(590, 'sa peur de la mort, le désir, le plaisir')], ''),
-    ('francois', "Non, c'était un jeu d'enfant qui a mal tourné.", 'No, it was a childhood game that went wrong.', [(591, "Non, c'était un jeu d'enfant qui a mal tourné")], ''),
-    ('christophe', "C'est exactement ça: Dom Juan ne sait pas nager!", "That's exactly it: Dom Juan doesn't know how to swim!", [(593, "C'est exactement ça : Dom Juan ne sait pas nager")], ''),
-    ('andrea', 'Tu vois! On ne peut pas le jeter dans la piscine.', "You see! You can't throw him in the pool.", [(594, 'Tu vois ! On ne peut pas le jeter dans la piscine')], ''),
-    ('christophe', "C'est pour ça qu'il y a le canard!", "That's why there's the duck!", [(595, "C'est pour ça qu'il y a le canard")], ''),
-    ('francois', 'Pas encore le canard! Non!', 'Not the duck again! No!', [(595, 'Pas encore le canard'), (596, 'Non')], ''),
-]
-WALK = [
-    (0, None, "'I was on holiday with my parents in Spain.' François recalls a childhood family holiday in Spain."),
-    (1, None, "'The hotel had a pool. I went there with my brother.' François describes going to the hotel swimming pool with his brother."),
-    (2, None, "'We played a stupid game.' François admits that he and his brother played a foolish game in the water."),
-    (3, None, "'We tried to stay sitting on the bottom.' Literally 'seated at the bottom' of the pool, right over the suction drain."),
-    (4, None, "'But one day, the pump trapped my swimsuit.' The sudden event breaks into the story in the past with 'has'."),
-    (5, None, "'I was very scared. I thought I was going to die.' Literally 'I had very fear', followed by the past form of 'I am going to die'."),
-    (6, None, "'And my brother saved me.' The object pronoun 'me' is shortened before the vowel of the auxiliary verb."),
-    (7, None, "'After that, I never went back into a pool.' The negative pair wraps around the auxiliary verb 'am'."),
-    (8, None, "'It's in the past now.' François tries to brush it off, but Christophe is deeply moved."),
-    (9, None, "'But it's magnificent! That's Dom Juan!' For the young director, François's childhood terror is pure theatre."),
-    (10, None, "'His fear of death, desire, pleasure!' Notice that French uses 'the' before abstract nouns like death, desire, and pleasure."),
-    (11, None, "'No, it was a childhood game that went wrong.' Literally 'that turned badly'."),
-    (12, None, "'That's exactly it: Dom Juan doesn't know how to swim!' Christophe remembers that in Act Two of Molière's play, a peasant saves Dom Juan from drowning."),
-    (13, None, "'You see! You can't throw him in the pool.' Andréa backs up her actor."),
-    (14, None, "'That's why there's the duck!' Christophe insists the inflatable yellow duck will save him."),
-    (15, None, "'Not the duck again! No!' Laughing, Christophe jumps into the shallow water and pulls François into his arms, cradling him gently in the pool while the party guests applaud."),
-]
+OUTRO = ('Christophe has shared his own frightening pool experience. François uses the story to make his case about Dom Juan, '
+ 'and the two men can finally talk about their disagreement. The inflatable duck remains a sticking point. See you '
+ 'next time.')
+CLOSING = ('francois', 'À bientôt!')
+STORY = [('christophe_bel',
+  "J'étais en vacances avec mes parents en Espagne.",
+  'I was on holiday with my parents in Spain.',
+  [(573, "J'étais en vacances avec mes parents en Espagne")],
+  'Speaker verified against original private video; the director describes his own childhood accident.'),
+ ('christophe_bel',
+  "L'hôtel avait une piscine. J'y suis allé avec mon frère.",
+  'The hotel had a pool. I went there with my brother.',
+  [(574, "L'hôtel avait une piscine"), (575, "J'y suis allé avec mon frère")],
+  ''),
+ ('christophe_bel',
+  'On a joué à un jeu stupide.',
+  'We played a stupid game.',
+  [(576, 'On a joué à un jeu stupide')],
+  ''),
+ ('christophe_bel',
+  'On essayait de rester assis au fond.',
+  'We tried to stay sitting on the bottom.',
+  [(577, 'rester assis au fond'), (580, 'essayer de rester au fond')],
+  ''),
+ ('christophe_bel',
+  'Mais un jour, la pompe a bloqué mon maillot.',
+  'But one day, the pump trapped my swimsuit.',
+  [(581, 'Mais un jour, mon maillot'), (581, 'la pompe')],
+  ''),
+ ('christophe_bel',
+  "J'ai eu très peur. Je croyais que j'allais mourir.",
+  'I was very scared. I thought I was going to die.',
+  [(584, "Je croyais que j'allais mourir")],
+  ''),
+ ('christophe_bel', "Et mon frère m'a sauvé.", 'And my brother saved me.', [(584, "et mon frère m'a sauvé")], ''),
+ ('christophe_bel',
+  'Après ça, je ne suis jamais retourné dans une piscine.',
+  'After that, I never went back into a pool.',
+  [(585, "je n'ai jamais"), (585, 'dans une piscine')],
+  ''),
+ ('christophe_bel', "C'est du passé maintenant.", "It's in the past now.", [(587, "C'est du passé maintenant")], ''),
+ ('francois',
+  "Mais c'est magnifique! C'est Dom Juan!",
+  "But it's magnificent! That's Dom Juan!",
+  [(588, "c'est magnifique"), (589, "C'est Dom Juan")],
+  ''),
+ ('francois',
+  'Sa peur de la mort, le désir, le plaisir!',
+  'His fear of death, desire, pleasure!',
+  [(590, 'sa peur de la mort, le désir, le plaisir')],
+  ''),
+ ('christophe_bel',
+  "Non, c'était un jeu d'enfant qui a mal tourné.",
+  'No, it was a childhood game that went wrong.',
+  [(591, "Non, c'était un jeu d'enfant qui a mal tourné")],
+  ''),
+ ('francois',
+  "C'est exactement ça: Dom Juan ne sait pas nager!",
+  "That's exactly it: Dom Juan doesn't know how to swim!",
+  [(593, "C'est exactement ça : Dom Juan ne sait pas nager")],
+  ''),
+ ('francois',
+  'Tu vois! On ne peut pas le jeter dans la piscine.',
+  "You see! You can't throw him in the pool.",
+  [(594, 'Tu vois ! On ne peut pas le jeter dans la piscine')],
+  'François makes this point himself at the party table, verified against private original video.'),
+ ('christophe_bel',
+  "C'est pour ça qu'il y a le canard!",
+  "That's why there's the duck!",
+  [(595, "C'est pour ça qu'il y a le canard")],
+  ''),
+ ('francois',
+  'Pas encore le canard! Non!',
+  'Not the duck again! No!',
+  [(595, 'Pas encore le canard'), (596, 'Non')],
+  '')]
+WALK = [(0,
+  None,
+  "'I was on holiday with my parents in Spain.' The opening looks back with 'I was'. The holiday word is plural in "
+  'French, and the final place expression puts the family in Spain.'),
+ (1,
+  None,
+  "'The hotel had a pool. I went there with my brother.' The first action describes what the hotel had. The attached "
+  "place word in the second sentence means 'there': the pool he entered with his brother."),
+ (2,
+  None,
+  "'We played a stupid game.' The opening 'we' is followed by a completed action: played. The short word after the "
+  "action means 'at', linking playing with the game."),
+ (3,
+  None,
+  "'We tried to stay sitting on the bottom.' The first action describes what they were trying to do repeatedly. The "
+  'final position means at the bottom, with the pool understood.'),
+ (4,
+  None,
+  "'But one day, the pump trapped my swimsuit.' The words for 'one day' introduce a particular event. The pump is the "
+  'subject of the completed action: it trapped his swimsuit.'),
+ (5,
+  None,
+  "'I was very scared. I thought I was going to die.' French expresses being scared as having fear. The second "
+  'sentence looks back at what he believed would happen: he was going to die.'),
+ (6,
+  None,
+  "'And my brother saved me.' The object attached to the completed action means 'me'. His brother is the person who "
+  'saved him; François is the person saved.'),
+ (7,
+  None,
+  "'After that, I never went back into a pool.' The opening places this after the accident. The two negative words "
+  "mean 'never', denying any return to a swimming pool afterwards."),
+ (8,
+  None,
+  "'It's in the past now.' The final word means 'now'. The past is treated as a thing here, so the statement places "
+  'that experience behind him.'),
+ (9,
+  None,
+  "'But it is magnificent! That is Dom Juan!' François now gives his interpretation of the director's story. The first "
+  "description means magnificent; the next sentence links the experience to the play's character."),
+ (10,
+  None,
+  "'His fear of death, desire, pleasure!' The possessive means 'his', attached to fear. The other two items name "
+  "desire and pleasure, the themes Christophe hears in the actor's experience."),
+ (11,
+  None,
+  "'No, it was a childhood game that went wrong.' The first word rejects that interpretation. The final action "
+  "literally means 'turned badly', the French way of saying a situation went wrong."),
+ (12,
+  None,
+  "'That's exactly it: Dom Juan doesn't know how to swim!' The word before 'that' means 'exactly'. The following "
+  "negative says the play's character does not know how to swim either."),
+ (13,
+  None,
+  "'You see! You can't throw him in the pool.' The opening asks whether Andréa's point is clear: 'you see'. The short "
+  "object before throwing means 'him', François or his character."),
+ (14,
+  None,
+  "'That's why there's the duck!' The opening means 'that is why'. The later three words mean 'there is'; the thing "
+  'they introduce is the duck that makes the staging possible.'),
+ (15,
+  None,
+  "'Not the duck again! No!' The word after 'not' means 'again' here. François rejects the return of the duck "
+  'proposal, even after the explanation of his fear.')]

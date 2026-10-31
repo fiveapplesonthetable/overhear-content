@@ -18,7 +18,7 @@
     },
     {
       "seg": 2,
-      "trans": "Sofia? Sorry, am I disturbing you?",
+      "trans": "Sofia?",
       "words": [
         {
           "t": "Sofia?",
@@ -27,7 +27,13 @@
           "stress": null,
           "gloss": "Sofia",
           "gram": "proper noun ('Sofia')"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 3,
+      "trans": "Sorry, am I disturbing you?",
+      "words": [
         {
           "t": "Excuse-moi,",
           "lemma": "excuser",
@@ -42,7 +48,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "te",
@@ -63,8 +69,8 @@
       ]
     },
     {
-      "seg": 3,
-      "trans": "No, you aren",
+      "seg": 4,
+      "trans": "No, you aren't bothering me.",
       "words": [
         {
           "t": "Non,",
@@ -72,15 +78,15 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "tu",
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "ne",
@@ -117,7 +123,7 @@
       ]
     },
     {
-      "seg": 4,
+      "seg": 5,
       "trans": "I had to see you.",
       "words": [
         {
@@ -126,7 +132,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "devais",
@@ -155,7 +161,7 @@
       ]
     },
     {
-      "seg": 5,
+      "seg": 6,
       "trans": "I feel really bad about earlier.",
       "words": [
         {
@@ -164,7 +170,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "me",
@@ -204,15 +210,15 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "gram": "preposition"
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "à",
@@ -233,7 +239,7 @@
       ]
     },
     {
-      "seg": 6,
+      "seg": 7,
       "trans": "What I said was horrible.",
       "words": [
         {
@@ -241,7 +247,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -265,8 +271,8 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "said",
+          "gram": "past participle with ai"
         },
         {
           "t": "était",
@@ -287,7 +293,7 @@
       ]
     },
     {
-      "seg": 7,
+      "seg": 8,
       "trans": "No, I should have told you.",
       "words": [
         {
@@ -296,7 +302,7 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "j'aurais",
@@ -324,11 +330,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "pron",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "it",
+          "gram": "direct object: the fact that Sofia cannot dance"
         },
         {
           "t": "dire.",
@@ -341,7 +347,7 @@
       ]
     },
     {
-      "seg": 8,
+      "seg": 9,
       "trans": "Do you want to drink something?",
       "words": [
         {
@@ -349,8 +355,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "veux",
@@ -370,24 +376,24 @@
         },
         {
           "t": "quelque",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "kɛlkə",
-          "gloss": "some (something)",
-          "gram": "part of quelque chose"
+          "lemma": "quelque",
+          "pos": "det",
+          "stress": "kɛlk",
+          "gloss": "some",
+          "gram": "indefinite determiner"
         },
         {
           "t": "chose?",
-          "lemma": "quelque chose",
-          "pos": "phrase",
+          "lemma": "chose",
+          "pos": "noun",
           "stress": "ʃoz",
-          "gloss": "thing (something)",
-          "gram": "part of quelque chose"
+          "gloss": "thing",
+          "gram": "feminine singular"
         }
       ]
     },
     {
-      "seg": 9,
+      "seg": 10,
       "trans": "Yes, gladly.",
       "words": [
         {
@@ -409,7 +415,7 @@
       ]
     },
     {
-      "seg": 10,
+      "seg": 11,
       "trans": "I have some port.",
       "words": [
         {
@@ -426,37 +432,7 @@
           "pos": "prep",
           "stress": "dy",
           "gloss": "some",
-          "gram": "partitive article: de + le"
-        },
-        {
-          "t": "porto.",
-          "lemma": "porto",
-          "pos": "noun",
-          "stress": "pɔʁto",
-          "gloss": "port wine, port",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 11,
-      "trans": "I love port.",
-      "words": [
-        {
-          "t": "J'adore",
-          "lemma": "adorer",
-          "pos": "verb",
-          "stress": "ʒadɔʁ",
-          "gloss": "I love",
-          "gram": "je (elided) + adore: present, 1st person singular"
-        },
-        {
-          "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
-          "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gram": "partitive article, de + le"
         },
         {
           "t": "porto.",
@@ -470,156 +446,186 @@
     },
     {
       "seg": 12,
-      "trans": "Gabriel! Open up!",
+      "trans": "I love port.",
       "words": [
         {
-          "t": "Gabriel!",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
+          "t": "J'adore",
+          "lemma": "adorer",
+          "pos": "verb",
+          "stress": "ʒadɔʁ",
+          "gloss": "I love",
+          "gram": "je (elided) + adore: present, 1st person singular"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "porto.",
+          "lemma": "porto",
+          "pos": "noun",
+          "stress": "pɔʁto",
+          "gloss": "port wine, port",
+          "gram": "masculine singular"
         }
       ]
     },
     {
       "seg": 13,
-      "trans": "Andréa? Are you hurt?",
+      "trans": "Gabriel!",
       "words": [
         {
-          "t": "Andréa?",
-          "lemma": "andréa",
+          "t": "Gabriel!",
+          "lemma": "gabriel",
           "pos": "name",
           "stress": null,
-          "gloss": "Andréa",
-          "gram": "first name, used to address her"
-        },
-        {
-          "t": "Tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
-        },
-        {
-          "t": "es",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "present, 2nd person singular"
-        },
-        {
-          "t": "blessée?",
-          "lemma": "blesser",
-          "pos": "verb",
-          "stress": "blɛse",
-          "gloss": "hurt, injured",
-          "gram": "past participle, feminine singular"
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         }
       ]
     },
     {
       "seg": 14,
-      "trans": "I had a pool problem!",
+      "trans": "Andréa? Are you hurt?",
       "words": [
         {
-          "t": "J'ai",
-          "lemma": "avoir",
+          "t": "Andréa?",
+          "lemma": "andréa",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Andréa",
+          "gram": "first name, used to address her"
+        },
+        {
+          "t": "Tu",
+          "lemma": "tu",
+          "pos": "pron",
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
+        },
+        {
+          "t": "es",
+          "lemma": "être",
           "pos": "verb",
-          "stress": "ʒe",
-          "gloss": "I have, I did",
-          "gram": "je (I) + ai: 1st person singular present of avoir"
+          "stress": "ɛ",
+          "gloss": "are",
+          "gram": "present, 2nd person singular"
         },
         {
-          "t": "eu",
-          "lemma": "avoir",
+          "t": "blessée?",
+          "lemma": "blesser",
           "pos": "verb",
-          "stress": "y",
-          "gloss": "had",
-          "gram": "past participle of avoir"
-        },
-        {
-          "t": "un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "problème",
-          "lemma": "problème",
-          "pos": "noun",
-          "stress": "pʁɔblɛm",
-          "gloss": "problem",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "piscine!",
-          "lemma": "piscine",
-          "pos": "noun",
-          "stress": "pisin",
-          "gloss": "pool",
-          "gram": "feminine singular"
+          "stress": "blɛse",
+          "gloss": "hurt, injured",
+          "gram": "past participle, feminine singular"
         }
       ]
     },
     {
       "seg": 15,
-      "trans": "Gabriel, marry me!",
+      "trans": "I had a pool problem!",
       "words": [
         {
-          "t": "Gabriel,",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
+          "t": "J'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "ʒe",
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
         },
         {
-          "t": "épouse-moi!",
-          "lemma": "épouser",
+          "t": "eu",
+          "lemma": "avoir",
           "pos": "verb",
-          "stress": "epuzmwa",
-          "gloss": "marry me!",
-          "gram": "2nd person singular imperative of épouser + moi"
+          "stress": "y",
+          "gloss": "had",
+          "gram": "past participle of avoir"
+        },
+        {
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "problème",
+          "lemma": "problème",
+          "pos": "noun",
+          "stress": "pʁɔblɛm",
+          "gloss": "problem",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of; from",
+          "gram": "preposition"
+        },
+        {
+          "t": "piscine!",
+          "lemma": "piscine",
+          "pos": "noun",
+          "stress": "pisin",
+          "gloss": "pool",
+          "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 16,
-      "trans": "Protect me, save me!",
+      "trans": "Gabriel, marry me!",
       "words": [
         {
-          "t": "Protège-moi,",
-          "lemma": "protéger",
-          "pos": "verb",
-          "stress": "pʁɔtɛʒmwa",
-          "gloss": "protect me!",
-          "gram": "2nd person singular imperative of protéger + moi"
+          "t": "Gabriel,",
+          "lemma": "gabriel",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
-          "t": "sauve-moi!",
-          "lemma": "sauver",
+          "t": "épouse-moi!",
+          "lemma": "épouser",
           "pos": "verb",
-          "stress": "sovmwa",
-          "gloss": "save me!",
-          "gram": "2nd person singular imperative of sauver + moi"
+          "stress": "epuzmwa",
+          "gloss": "marry me!",
+          "gram": "2nd person singular imperative of épouser + moi"
         }
       ]
     },
     {
       "seg": 17,
+      "trans": "Protect me, save me!",
+      "words": [
+        {
+          "t": "Protège-moi,",
+          "lemma": "protéger",
+          "pos": "verb",
+          "stress": "pʁɔtɛʒmwa",
+          "gloss": "protect me!",
+          "gram": "2nd person singular imperative of protéger + moi"
+        },
+        {
+          "t": "sauve-moi!",
+          "lemma": "sauver",
+          "pos": "verb",
+          "stress": "sovmwa",
+          "gloss": "save me!",
+          "gram": "2nd person singular imperative of sauver + moi"
+        }
+      ]
+    },
+    {
+      "seg": 18,
       "trans": "Help me, Gabriel...",
       "words": [
         {
@@ -641,7 +647,7 @@
       ]
     },
     {
-      "seg": 19,
+      "seg": 20,
       "trans": "Yes?",
       "words": [
         {
@@ -655,8 +661,8 @@
       ]
     },
     {
-      "seg": 21,
-      "trans": "Sofia? Sorry, am I disturbing you?",
+      "seg": 22,
+      "trans": "Sofia?",
       "words": [
         {
           "t": "Sofia?",
@@ -665,7 +671,13 @@
           "stress": null,
           "gloss": "Sofia",
           "gram": "proper noun ('Sofia')"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "Sorry, am I disturbing you?",
+      "words": [
         {
           "t": "Excuse-moi,",
           "lemma": "excuser",
@@ -680,7 +692,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "te",
@@ -701,8 +713,8 @@
       ]
     },
     {
-      "seg": 23,
-      "trans": "No, you aren",
+      "seg": 26,
+      "trans": "No, you aren't bothering me.",
       "words": [
         {
           "t": "Non,",
@@ -710,15 +722,15 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "tu",
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "ne",
@@ -755,7 +767,7 @@
       ]
     },
     {
-      "seg": 25,
+      "seg": 28,
       "trans": "I had to see you.",
       "words": [
         {
@@ -764,7 +776,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "devais",
@@ -793,7 +805,7 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 30,
       "trans": "I feel really bad about earlier.",
       "words": [
         {
@@ -802,7 +814,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "me",
@@ -842,15 +854,15 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "gram": "preposition"
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "à",
@@ -871,7 +883,7 @@
       ]
     },
     {
-      "seg": 29,
+      "seg": 32,
       "trans": "What I said was horrible.",
       "words": [
         {
@@ -879,7 +891,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -903,8 +915,8 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "said",
+          "gram": "past participle with ai"
         },
         {
           "t": "était",
@@ -925,7 +937,7 @@
       ]
     },
     {
-      "seg": 31,
+      "seg": 34,
       "trans": "No, I should have told you.",
       "words": [
         {
@@ -934,7 +946,7 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "j'aurais",
@@ -962,11 +974,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "pron",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "it",
+          "gram": "direct object: the fact that Sofia cannot dance"
         },
         {
           "t": "dire.",
@@ -979,7 +991,7 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 36,
       "trans": "Do you want to drink something?",
       "words": [
         {
@@ -987,8 +999,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "veux",
@@ -1008,24 +1020,24 @@
         },
         {
           "t": "quelque",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "kɛlkə",
-          "gloss": "some (something)",
-          "gram": "part of quelque chose"
+          "lemma": "quelque",
+          "pos": "det",
+          "stress": "kɛlk",
+          "gloss": "some",
+          "gram": "indefinite determiner"
         },
         {
           "t": "chose?",
-          "lemma": "quelque chose",
-          "pos": "phrase",
+          "lemma": "chose",
+          "pos": "noun",
           "stress": "ʃoz",
-          "gloss": "thing (something)",
-          "gram": "part of quelque chose"
+          "gloss": "thing",
+          "gram": "feminine singular"
         }
       ]
     },
     {
-      "seg": 35,
+      "seg": 38,
       "trans": "Yes, gladly.",
       "words": [
         {
@@ -1047,7 +1059,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 40,
       "trans": "I have some port.",
       "words": [
         {
@@ -1064,7 +1076,7 @@
           "pos": "prep",
           "stress": "dy",
           "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gram": "partitive article, de + le"
         },
         {
           "t": "porto.",
@@ -1077,7 +1089,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 42,
       "trans": "I love port.",
       "words": [
         {
@@ -1090,11 +1102,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "porto.",
@@ -1107,8 +1119,8 @@
       ]
     },
     {
-      "seg": 41,
-      "trans": "Gabriel! Open up!",
+      "seg": 44,
+      "trans": "Gabriel!",
       "words": [
         {
           "t": "Gabriel!",
@@ -1121,7 +1133,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 46,
       "trans": "Andréa? Are you hurt?",
       "words": [
         {
@@ -1137,8 +1149,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "es",
@@ -1159,7 +1171,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 48,
       "trans": "I had a pool problem!",
       "words": [
         {
@@ -1199,8 +1211,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "piscine!",
@@ -1213,7 +1225,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 50,
       "trans": "Gabriel, marry me!",
       "words": [
         {
@@ -1235,7 +1247,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 52,
       "trans": "Protect me, save me!",
       "words": [
         {
@@ -1253,48 +1265,48 @@
           "stress": "sovmwa",
           "gloss": "save me!",
           "gram": "2nd person singular imperative of sauver + moi"
-        }
-      ]
-    },
-    {
-      "seg": 51,
-      "trans": "Help me, Gabriel...",
-      "words": [
-        {
-          "t": "Aide-moi,",
-          "lemma": "aider",
-          "pos": "verb",
-          "stress": "ɛdmwa",
-          "gloss": "help me",
-          "gram": "imperative 2nd person singular 'aide' + pronoun 'moi'"
-        },
-        {
-          "t": "Gabriel...",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
-      "seg": 53,
-      "trans": "Yes?",
-      "words": [
-        {
-          "t": "Oui?",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
         }
       ]
     },
     {
       "seg": 54,
-      "trans": "Sofia? Sorry, am I disturbing you?",
+      "trans": "Help me, Gabriel...",
+      "words": [
+        {
+          "t": "Aide-moi,",
+          "lemma": "aider",
+          "pos": "verb",
+          "stress": "ɛdmwa",
+          "gloss": "help me",
+          "gram": "imperative 2nd person singular 'aide' + pronoun 'moi'"
+        },
+        {
+          "t": "Gabriel...",
+          "lemma": "gabriel",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
+        }
+      ]
+    },
+    {
+      "seg": 56,
+      "trans": "Yes?",
+      "words": [
+        {
+          "t": "Oui?",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        }
+      ]
+    },
+    {
+      "seg": 57,
+      "trans": "Sofia?",
       "words": [
         {
           "t": "Sofia?",
@@ -1303,7 +1315,13 @@
           "stress": null,
           "gloss": "Sofia",
           "gram": "proper noun ('Sofia')"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "Sorry, am I disturbing you?",
+      "words": [
         {
           "t": "Excuse-moi,",
           "lemma": "excuser",
@@ -1318,7 +1336,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "te",
@@ -1339,8 +1357,8 @@
       ]
     },
     {
-      "seg": 55,
-      "trans": "No, you aren",
+      "seg": 59,
+      "trans": "No, you aren't bothering me.",
       "words": [
         {
           "t": "Non,",
@@ -1348,15 +1366,15 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "tu",
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "ne",
@@ -1393,7 +1411,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 60,
       "trans": "I had to see you.",
       "words": [
         {
@@ -1402,7 +1420,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "devais",
@@ -1431,7 +1449,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 61,
       "trans": "I feel really bad about earlier.",
       "words": [
         {
@@ -1440,7 +1458,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "me",
@@ -1480,15 +1498,15 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
+          "gram": "preposition"
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "à",
@@ -1509,7 +1527,7 @@
       ]
     },
     {
-      "seg": 58,
+      "seg": 62,
       "trans": "What I said was horrible.",
       "words": [
         {
@@ -1517,7 +1535,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -1541,8 +1559,8 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "said",
+          "gram": "past participle with ai"
         },
         {
           "t": "était",
@@ -1563,7 +1581,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 63,
       "trans": "No, I should have told you.",
       "words": [
         {
@@ -1572,7 +1590,7 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "j'aurais",
@@ -1600,11 +1618,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "pron",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "it",
+          "gram": "direct object: the fact that Sofia cannot dance"
         },
         {
           "t": "dire.",
@@ -1617,7 +1635,7 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 64,
       "trans": "Do you want to drink something?",
       "words": [
         {
@@ -1625,8 +1643,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "veux",
@@ -1646,24 +1664,24 @@
         },
         {
           "t": "quelque",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "kɛlkə",
-          "gloss": "some (something)",
-          "gram": "part of quelque chose"
+          "lemma": "quelque",
+          "pos": "det",
+          "stress": "kɛlk",
+          "gloss": "some",
+          "gram": "indefinite determiner"
         },
         {
           "t": "chose?",
-          "lemma": "quelque chose",
-          "pos": "phrase",
+          "lemma": "chose",
+          "pos": "noun",
           "stress": "ʃoz",
-          "gloss": "thing (something)",
-          "gram": "part of quelque chose"
+          "gloss": "thing",
+          "gram": "feminine singular"
         }
       ]
     },
     {
-      "seg": 61,
+      "seg": 65,
       "trans": "Yes, gladly.",
       "words": [
         {
@@ -1685,7 +1703,7 @@
       ]
     },
     {
-      "seg": 62,
+      "seg": 66,
       "trans": "I have some port.",
       "words": [
         {
@@ -1702,7 +1720,7 @@
           "pos": "prep",
           "stress": "dy",
           "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gram": "partitive article, de + le"
         },
         {
           "t": "porto.",
@@ -1715,7 +1733,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 67,
       "trans": "I love port.",
       "words": [
         {
@@ -1728,11 +1746,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "porto.",
@@ -1745,8 +1763,8 @@
       ]
     },
     {
-      "seg": 64,
-      "trans": "Gabriel! Open up!",
+      "seg": 68,
+      "trans": "Gabriel!",
       "words": [
         {
           "t": "Gabriel!",
@@ -1759,7 +1777,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 69,
       "trans": "Andréa? Are you hurt?",
       "words": [
         {
@@ -1775,8 +1793,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "es",
@@ -1797,7 +1815,7 @@
       ]
     },
     {
-      "seg": 66,
+      "seg": 70,
       "trans": "I had a pool problem!",
       "words": [
         {
@@ -1837,8 +1855,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "piscine!",
@@ -1851,7 +1869,7 @@
       ]
     },
     {
-      "seg": 67,
+      "seg": 71,
       "trans": "Gabriel, marry me!",
       "words": [
         {
@@ -1873,7 +1891,7 @@
       ]
     },
     {
-      "seg": 68,
+      "seg": 72,
       "trans": "Protect me, save me!",
       "words": [
         {
@@ -1895,7 +1913,7 @@
       ]
     },
     {
-      "seg": 69,
+      "seg": 73,
       "trans": "Help me, Gabriel...",
       "words": [
         {
@@ -1917,7 +1935,7 @@
       ]
     },
     {
-      "seg": 71,
+      "seg": 75,
       "trans": "Goodbye!",
       "words": [
         {
@@ -1933,8 +1951,8 @@
           "lemma": "revoir",
           "pos": "verb",
           "stress": "ʁəvwaʁ",
-          "gloss": "seeing again (goodbye)",
-          "gram": "infinitive used as noun"
+          "gloss": "see again",
+          "gram": "infinitive in au revoir: goodbye"
         }
       ]
     }
@@ -1948,7 +1966,7 @@
       "meanings": [
         {
           "en": "to love, to adore",
-          "note": "Stronger than aimer for things. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to love'; conjugates with 'avoir' in compound tenses (past participle 'adoré')."
+          "note": "Stronger than aimer for things."
         }
       ],
       "forms": {
@@ -2110,7 +2128,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "Aider quelqu'un, no preposition. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to help'; conjugates with 'avoir' in compound tenses (past participle 'aidé')."
+          "note": "Aider quelqu'un, no preposition."
         }
       ],
       "forms": {
@@ -2284,40 +2302,6 @@
         }
       ]
     },
-    "au": {
-      "lemma": "au",
-      "stress": "o",
-      "pos": "prep",
-      "gloss": "at the, to the",
-      "meanings": [
-        {
-          "en": "at the, to the",
-          "note": "à + le contracted: au boulot, au téléphone"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je suis au boulot.",
-          "trans": "I'm at work."
-        },
-        {
-          "text": "Elle est au téléphone.",
-          "trans": "She's on the phone."
-        },
-        {
-          "text": "J'ai un problème au boulot.",
-          "trans": "I've got a problem at work."
-        }
-      ],
-      "related": [
-        {
-          "word": "au",
-          "gloss": "at the"
-        }
-      ]
-    },
     "avoir": {
       "lemma": "avoir",
       "stress": "avwaʁ",
@@ -2330,11 +2314,11 @@
         },
         {
           "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "J'ai appelé = I called."
         },
         {
           "en": "il y a = there is, there are",
-          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "Fixed expression."
         }
       ],
       "forms": {
@@ -2520,7 +2504,7 @@
         },
         {
           "en": "to offend, to wound",
-          "note": "Figurative. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to hurt'; conjugates with 'avoir' in compound tenses (past participle 'blessé')."
+          "note": "Figurative."
         }
       ],
       "forms": {
@@ -2682,7 +2666,7 @@
       "meanings": [
         {
           "en": "to drink",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to drink'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2981,7 +2965,7 @@
       "meanings": [
         {
           "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "D' before a vowel."
         },
         {
           "en": "'s (possession)",
@@ -2989,7 +2973,7 @@
         },
         {
           "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
@@ -3027,11 +3011,11 @@
       "meanings": [
         {
           "en": "must, to have to",
-          "note": "+ infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'must, to have to'."
+          "note": "+ infinitive."
         },
         {
           "en": "to owe",
-          "note": "French '-ir' verb (from Latin '-ire'). Core French verb meaning 'must, to have to'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3368,63 +3352,6 @@
         {
           "word": "dire la vérité à quelqu'un",
           "gloss": "to tell someone the truth"
-        }
-      ]
-    },
-    "du": {
-      "lemma": "du",
-      "stress": "dy",
-      "pos": "det",
-      "gloss": "some (partitive)",
-      "meanings": [
-        {
-          "en": "some",
-          "note": "for things you can't count; de la (feminine)"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "du (de l')",
-              "de la (de l')"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "des",
-              "des"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est du compost.",
-          "trans": "It's compost."
-        },
-        {
-          "text": "Je veux du pain.",
-          "trans": "I want some bread."
-        },
-        {
-          "text": "C'est du compost. Ça nourrit la terre.",
-          "trans": "It's compost. It feeds the earth."
-        }
-      ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "some"
         }
       ]
     },
@@ -3778,11 +3705,11 @@
       "meanings": [
         {
           "en": "hour",
-          "note": "Dans une heure = in an hour. Feminine noun ('la heure', plural 'les heures') inherited through Romance vocabulary, used in everyday and professional French for 'hour'."
+          "note": "Dans une heure = in an hour."
         },
         {
           "en": "o'clock",
-          "note": "À quatorze heures = at two pm. Feminine noun ('la heure', plural 'les heures') inherited through Romance vocabulary, used in everyday and professional French for 'hour'."
+          "note": "À quatorze heures = at two pm."
         }
       ],
       "forms": {
@@ -3836,7 +3763,7 @@
       "meanings": [
         {
           "en": "horrible, awful",
-          "note": "Adjective of capability/quality formed with '-able'/'-ible' (from Latin '-abilis'/'-ibilis')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3897,7 +3824,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -3994,11 +3921,11 @@
         },
         {
           "en": "pain, ache",
-          "note": "J'ai mal = it hurts. Masculine noun ('le mal', plural 'les maux') inherited through Romance vocabulary, used in everyday and professional French for 'harm'."
+          "note": "J'ai mal = it hurts."
         },
         {
           "en": "badly (adverb)",
-          "note": "Ça va mal. Masculine noun ('le mal', plural 'les maux') inherited through Romance vocabulary, used in everyday and professional French for 'harm'."
+          "note": "Ça va mal."
         }
       ],
       "forms": {
@@ -4048,7 +3975,7 @@
       "meanings": [
         {
           "en": "me, to me",
-          "note": "Before the verb; m' before a vowel. High-frequency French pronoun meaning 'me'; clitic object forms precede the conjugated verb."
+          "note": "Before the verb; m' before a vowel."
         }
       ],
       "forms": null,
@@ -4288,7 +4215,7 @@
       "meanings": [
         {
           "en": "port wine, port",
-          "note": "Fortified wine from Portugal. Masculine noun ('le porto', plural 'les portos') inherited through Romance vocabulary, used in everyday and professional French for 'port wine'."
+          "note": "Fortified wine from Portugal."
         }
       ],
       "forms": {
@@ -4346,7 +4273,7 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+          "note": "+ infinitive: pour voir."
         }
       ],
       "forms": null,
@@ -4390,7 +4317,7 @@
       "meanings": [
         {
           "en": "problem",
-          "note": "Masculine, although it ends in -e. Masculine noun ('le problème', plural 'les problèmes') inherited through Romance vocabulary, used in everyday and professional French for 'problem'."
+          "note": "Masculine, although it ends in -e."
         }
       ],
       "forms": {
@@ -4636,48 +4563,6 @@
         }
       ]
     },
-    "quelque chose": {
-      "lemma": "quelque chose",
-      "stress": "kɛlkəʃoz",
-      "pos": "phrase",
-      "gloss": "something",
-      "meanings": [
-        {
-          "en": "something",
-          "note": "Spoken French phrase expression meaning 'something', common in natural conversation."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Trouve quelque chose.",
-          "trans": "Think of something."
-        },
-        {
-          "text": "Tu veux quelque chose?",
-          "trans": "Do you want something?"
-        },
-        {
-          "text": "Je ne sais pas. Trouve quelque chose.",
-          "trans": "I don't know. Think of something."
-        }
-      ],
-      "related": [
-        {
-          "word": "quelque",
-          "gloss": "some"
-        },
-        {
-          "word": "quelqu'un",
-          "gloss": "someone"
-        },
-        {
-          "word": "quel",
-          "gloss": "what"
-        }
-      ]
-    },
     "revoir": {
       "lemma": "revoir",
       "stress": "ʁəvwaʁ",
@@ -4686,11 +4571,11 @@
       "meanings": [
         {
           "en": "to see again",
-          "note": "On se reverra: we'll meet again. French '-ir' verb (from Latin '-ire'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to see again'."
+          "note": "On se reverra: we'll meet again."
         },
         {
           "en": "au revoir = goodbye",
-          "note": "Literally 'until seeing again'. French '-ir' verb (from Latin '-ire'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to see again'."
+          "note": "Literally 'until seeing again'."
         }
       ],
       "forms": {
@@ -4848,7 +4733,7 @@
       "meanings": [
         {
           "en": "to save, rescue",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to save'; conjugates with 'avoir' in compound tenses (past participle 'sauvé')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5018,7 +4903,7 @@
         },
         {
           "en": "to smell",
-          "note": "Ça sent bon = it smells good. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to feel; to smell'."
+          "note": "Ça sent bon = it smells good."
         }
       ],
       "forms": {
@@ -5214,11 +5099,11 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Tout le monde = everybody."
         },
         {
           "en": "tout ce que = all that, everything that",
-          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Pronoun use."
         }
       ],
       "forms": {
@@ -5264,48 +5149,6 @@
         {
           "word": "tout le monde",
           "gloss": "everybody"
-        },
-        {
-          "word": "tout de suite",
-          "gloss": "right away"
-        },
-        {
-          "word": "tout à l'heure",
-          "gloss": "earlier"
-        }
-      ]
-    },
-    "tout le monde": {
-      "lemma": "tout le monde",
-      "stress": "tuləmɔ̃d",
-      "pos": "phrase",
-      "gloss": "everybody, everyone",
-      "meanings": [
-        {
-          "en": "everybody, everyone",
-          "note": "takes a singular verb: tout le monde est là"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tout le monde est là.",
-          "trans": "Everyone is here."
-        },
-        {
-          "text": "Bonjour tout le monde!",
-          "trans": "Hello everyone!"
-        },
-        {
-          "text": "On est au Westin. Tout le monde est là.",
-          "trans": "We're at the Westin. Everyone is here."
-        }
-      ],
-      "related": [
-        {
-          "word": "tout",
-          "gloss": "all"
         },
         {
           "word": "tout de suite",
@@ -5363,7 +5206,7 @@
         },
         {
           "en": "one",
-          "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
+          "note": "Number; l'un = one of them."
         }
       ],
       "forms": {
@@ -5424,7 +5267,7 @@
         },
         {
           "en": "to meet, to visit",
-          "note": "Voir quelqu'un. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to see'."
+          "note": "Voir quelqu'un."
         }
       ],
       "forms": {
@@ -5620,11 +5463,11 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "+ noun or infinitive."
         },
         {
           "en": "je voulais = I wanted",
-          "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "Imparfait, softer."
         }
       ],
       "forms": {
@@ -5786,7 +5629,7 @@
       "meanings": [
         {
           "en": "really, truly",
-          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem."
+          "note": "mind') to the feminine adjective stem."
         }
       ],
       "forms": null,
@@ -5820,15 +5663,15 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Place: à Paris, à mon cours."
         },
         {
           "en": "at",
-          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Time: à midi."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Contractions."
         }
       ],
       "forms": null,
@@ -6044,11 +5887,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {
@@ -6223,6 +6066,48 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
+        }
+      ]
+    },
+    "quelque": {
+      "lemma": "quelque",
+      "stress": "kɛlk",
+      "pos": "det",
+      "gloss": "some",
+      "meanings": [
+        {
+          "en": "some",
+          "note": "Quelque chose = something."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Elle a peur de rater quelque chose.",
+          "trans": "She's scared of missing something."
+        },
+        {
+          "text": "Je veux quelque chose.",
+          "trans": "I want something."
+        },
+        {
+          "text": "Trouve-moi quelque chose de fort! Tu me suis?",
+          "trans": "Find me something powerful! Do you follow me?"
+        }
+      ],
+      "related": [
+        {
+          "word": "quelque chose",
+          "gloss": "something"
+        },
+        {
+          "word": "quelqu'un",
+          "gloss": "someone"
+        },
+        {
+          "word": "quel",
+          "gloss": "what"
         }
       ]
     }

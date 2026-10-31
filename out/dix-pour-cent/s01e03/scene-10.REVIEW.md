@@ -38,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Three months! Do you know an acupuncturist for that?' She throws his own words back at him.
 - 'But you were happy!' The action word 'to be' in the form for describing how things were. And 'happy' has a feminine ending for Laura.
 - 'I love her.' The same verb can mean liking something or loving someone. The small object word before it refers to Laura's mother and loses its vowel before the action.
-- 'But I cannot stay with her on a boat!' After 'with', French uses the full form meaning 'her'. It happens to look the same as the subject word for 'she'.
+- 'But I cannot stay with her on a boat!' After the preposition, French uses the full pronoun to identify Laura's mother. It happens to look the same as the subject word for 'she'.
 - 'Wait.' Gabriel gives a casual command you'll hear all the time.
 - 'Talk to Akerfelt first.' This phrase in the middle means 'first of all'. Gabriel thinks the director will win her over.
 - 'Afterwards, you'll see things differently.' The verb 'to go' plus 'see' talks about the near future: you are going to see.

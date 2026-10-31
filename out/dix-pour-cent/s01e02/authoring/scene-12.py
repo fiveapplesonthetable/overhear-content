@@ -130,7 +130,8 @@ WALK = [(0,
   "it's negative, wrapped by the two little words for 'not'."),
  (9,
   "Je sais qu'il dira non.",
-  "'I know he'll say no.' This time it's the real future tense of the verb 'to say'."),
+  "'I know he'll say no.' The ending on say places the answer in the future. Andréa treats the rejection as "
+  'certain, which is why she refuses to ask Gabor.'),
  (10,
   None,
   "'It could save the film.' Could presents a possible result, not a certainty. Save means prevent the "
@@ -154,6 +155,6 @@ WALK = [(0,
   'discussion.'),
  (14,
   None,
-  "'Who's Line Renaud?' Camille is in her early twenties, and she has no idea who this legend is. The "
-  "question word comes last here, which is very common in spoken French. Here's the whole argument once "
-  'more, in French.')]
+  "'Who's Line Renaud?' The opening literally says it's who, followed by the name Camille wants explained. "
+  "Who asks about a person, unlike the earlier question what is that about the recording. Here's the whole "
+  'argument once more.')]
