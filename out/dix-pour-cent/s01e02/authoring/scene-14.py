@@ -7,12 +7,12 @@ SCENE = 14
 TITLE = 'Hélène veut vendre  (Hélène Wants to Sell)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'helene': 'Hélène', 'mathias': 'Mathias', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'helene': 'Hélène', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = ("An emergency meeting brings the four partners to a hotel to see Samuel's widow, Hélène. Andréa arrives "
- 'still talking to Gabor, the director, who is being dramatic about a bad cold. Hélène has inherited '
- "Samuel's shares and has a decision the agents do not want to hear. First, listen in French.")
+ "still talking to Gabor, the director, who is being dramatic about a bad cold. Gabriel offers the group's "
+ 'support. Hélène then explains her decision about the inherited shares. First, listen in French.')
 OPENER = ("Let's go back through it slowly. Andréa is still on the phone with Gabor, the director, who has a bad cold "
  'and is very dramatic about it.')
 TRANSITION = "Now let's listen to the entire dialogue once more."
@@ -25,11 +25,6 @@ STORY = [('andrea',
   [(396, 'Non, Gabor, tu ne vas pas mourir'), (400, "Je t'appelle demain")],
   ''),
  ('andrea', 'Désolée. Je suis là.', "Sorry. I'm here.", [(402, 'Désolée. Je suis là')], ''),
- ('gabriel',
-  'Hélène, vous pouvez compter sur nous.',
-  'Hélène, you can count on us.',
-  [(403, 'Hélène'), (404, 'vous pouvez compter sur nous')],
-  ''),
  ('helene',
   "Merci. Samuel n'a pas laissé de testament.",
   "Thank you. Samuel didn't leave a will.",
@@ -97,62 +92,58 @@ WALK = [(0,
   'and joins the others.'),
  (2,
   None,
-  "'Hélène, you can count on us.' Gabriel uses formal you to Samuel's widow. The polite address expresses "
-  'respect, while count on us offers the support of the whole group.'),
- (3,
-  None,
   "'Thank you. Samuel didn't leave a will.' The negative changes a will into no will: the short article "
   'before will is the one French normally uses after a negated have or leave. Here will means the '
   'inheritance document, not a future action.'),
- (4,
+ (3,
   None,
   "'So I inherit all his shares.' The word in the middle means 'so' or 'therefore'. Samuel's part of the "
   'agency now belongs to her.'),
- (5,
+ (4,
   None,
   "'I don't want to work at the agency. I want to sell.' Hélène builds two sentences the same way: the word "
   "for 'want', then another action word in its basic form. First negative, then positive."),
- (6,
+ (5,
   None,
   "'To whom?' The first word is to, not at: it introduces the person who would buy the shares. The question "
   "asks for the buyer's identity, not the price."),
- (7,
+ (6,
   None,
   "'I don't know. To the quickest.' The middle word makes quick into the quickest. The final description "
   'stands for the quickest buyer, so Hélène need not repeat buyer itself.'),
- (8,
+ (7,
   None,
   "'We can buy Samuel's shares.' Buy here means acquire the shares from their new owner, Hélène. The French "
   'action word can also mean buy back, but it does not require the buyer to have owned the thing before.'),
- (9,
+ (8,
   None,
   "'What do you mean, we?' Literally 'what do you want to say'. That's how French asks what someone means."),
- (10,
+ (9,
   None,
   "'Us. The four of us.' French uses the same word for we before an action and us standing alone here. "
   'Mathias means the four partners: himself, Andréa, Gabriel and Arlette.'),
- (11,
+ (10,
   None,
   "'Me, I have nothing. I rent my flat.' Starting with the strong word for 'me' puts the focus on herself. "
   "Andréa doesn't own a home, so she has nothing to put in."),
- (12,
+ (11,
   None,
   "'Money can be found.' Literally, money finds itself. That self pattern can express that something is "
   'possible or obtainable, without saying who does it. Mathias treats raising the money as a solvable '
   'problem.'),
- (13,
+ (12,
   None,
   "'That's easy to say when you have some!' The small word just before the last verb means 'some of it', the "
   'money.'),
- (14,
+ (13,
   None,
   "'You could earn more.' The ending on the verb makes it 'could'. Mathias thinks Andréa chooses her actors "
   'badly.'),
- (15,
+ (14,
   None,
   "'With rubbish films? No, thank you.' The word for 'rubbish' is a very common way to say something is bad. "
   'Andréa would rather work with artists she believes in.'),
- (16,
+ (15,
   None,
   "'Would you rather ASK disappeared?' A long sentence, but you can hear the key words: 'you would prefer' "
   "and the name of the agency. In the end it's Arlette who breaks the tension, joking that being sold would "
