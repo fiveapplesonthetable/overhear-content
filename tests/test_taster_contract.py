@@ -200,3 +200,15 @@ class TasterContract(unittest.TestCase):
         self.assertEqual(script['segments'][-1]['v'], 'narrator')
         del mod.FORMAT
         self.assertTrue(compose.build(mod, check_source=False)[2])
+
+    def test_missing_or_discontinuous_recap_cannot_reuse_walkthrough_or_original_story(self):
+        script = self.short_script()
+        del script['segments'][-3:-1]
+        self.assertTrue(any('separate contiguous recap' in e for e in self.short_errors(script)))
+        script = self.short_script()
+        script['segments'].insert(-2, {'v': 'narrator', 't': 'An unrelated comment.', 'gap': .4})
+        self.assertTrue(any('separate contiguous recap' in e for e in self.short_errors(script)))
+        script = self.short_script()
+        script['segments'][-2]['v'] = 'another_speaker'
+        script['labels']['another_speaker'] = 'Другой'
+        self.assertTrue(any('separate contiguous recap' in e for e in self.short_errors(script)))
