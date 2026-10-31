@@ -41,16 +41,14 @@
       ]
     },
     {
-      "seg": 2,
-      "trans": "Tell me about this Augustin. What's his surname?",
       "words": [
         {
-          "t": "Parle-moi",
+          "t": "Parlez-moi",
           "lemma": "parler",
           "pos": "verb",
-          "stress": "paʁləmwa",
+          "stress": "paʁlemwa",
           "gloss": "tell me, talk to me",
-          "gram": "imperative, 2nd person singular (tu) + moi (to me)"
+          "gram": "parlez: polite/plural imperative + moi: object after positive command"
         },
         {
           "t": "de",
@@ -124,7 +122,9 @@
           "gloss": "family",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 2,
+      "trans": "Tell me about this Augustin. What's his surname?"
     },
     {
       "seg": 3,
@@ -362,68 +362,6 @@
     },
     {
       "seg": 6,
-      "trans": "Look, this is the best of his videos.",
-      "words": [
-        {
-          "t": "Regarde,",
-          "lemma": "regarder",
-          "pos": "verb",
-          "stress": "ʁəɡaʁd",
-          "gloss": "look",
-          "gram": "imperative, 2nd person singular"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "meilleure",
-          "lemma": "meilleur",
-          "pos": "adj",
-          "stress": "mɛjœʁ",
-          "gloss": "best",
-          "gram": "feminine singular (agrees with 'vidéo')"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, links the two expressions"
-        },
-        {
-          "t": "ses",
-          "lemma": "son",
-          "pos": "det",
-          "stress": "se",
-          "gloss": "his",
-          "gram": "possessive, plural"
-        },
-        {
-          "t": "vidéos.",
-          "lemma": "vidéo",
-          "pos": "noun",
-          "stress": "video",
-          "gloss": "videos",
-          "gram": "feminine plural"
-        }
-      ]
-    },
-    {
-      "seg": 7,
       "trans": "Mathias, he's twelve years old!",
       "words": [
         {
@@ -469,7 +407,7 @@
       ]
     },
     {
-      "seg": 8,
+      "seg": 7,
       "trans": "He's young, but very talented. Like Xavier Dolan.",
       "words": [
         {
@@ -547,7 +485,7 @@
       ]
     },
     {
-      "seg": 9,
+      "seg": 8,
       "trans": "Really? Sweetheart, do you want a fruit compote?",
       "words": [
         {
@@ -617,7 +555,7 @@
       ]
     },
     {
-      "seg": 10,
+      "seg": 9,
       "trans": "It's the story of an ecologist stripper. Very funny, very modern.",
       "words": [
         {
@@ -695,8 +633,6 @@
       ]
     },
     {
-      "seg": 11,
-      "trans": "It's the perfect film for your comeback.",
       "words": [
         {
           "t": "C'est",
@@ -739,12 +675,12 @@
           "gram": "preposition ('pour', meaning 'for')"
         },
         {
-          "t": "ton",
-          "lemma": "ton",
+          "t": "votre",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "tɔ̃",
+          "stress": "vɔtʁ",
           "gloss": "your",
-          "gram": "possessive, informal, masculine singular"
+          "gram": "possessive, polite address; singular retour"
         },
         {
           "t": "retour.",
@@ -752,198 +688,200 @@
           "pos": "noun",
           "stress": "ʁətuʁ",
           "gloss": "return, comeback",
+          "gram": "masculine singular"
+        }
+      ],
+      "seg": 10,
+      "trans": "It's the perfect film for your comeback."
+    },
+    {
+      "seg": 11,
+      "trans": "I love the subject. But what's my part?",
+      "words": [
+        {
+          "t": "J'adore",
+          "lemma": "adorer",
+          "pos": "verb",
+          "stress": "ʒadɔʁ",
+          "gloss": "I love",
+          "gram": "je (elided) + adore: present, 1st person singular"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "sujet.",
+          "lemma": "sujet",
+          "pos": "noun",
+          "stress": "syʒɛ",
+          "gloss": "subject, topic",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "Mais",
+          "lemma": "mais",
+          "pos": "conj",
+          "stress": "mɛ",
+          "gloss": "but",
+          "gram": "coordinating conjunction"
+        },
+        {
+          "t": "quel",
+          "lemma": "quel",
+          "pos": "det",
+          "stress": "kɛl",
+          "gloss": "what, which",
+          "gram": "interrogative, masculine singular"
+        },
+        {
+          "t": "est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "ɛ",
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "mon",
+          "lemma": "mon",
+          "pos": "det",
+          "stress": "mɔ̃",
+          "gloss": "my",
+          "gram": "possessive, masculine singular"
+        },
+        {
+          "t": "rôle?",
+          "lemma": "rôle",
+          "pos": "noun",
+          "stress": "ʁol",
+          "gloss": "part, role",
           "gram": "masculine singular"
         }
       ]
     },
     {
       "seg": 12,
-      "trans": "I love the subject. But what's my part?",
+      "trans": "The ecologist stripper.",
       "words": [
         {
-          "t": "J'adore",
-          "lemma": "adorer",
-          "pos": "verb",
-          "stress": "ʒadɔʁ",
-          "gloss": "I love",
-          "gram": "je (elided) + adore: present, 1st person singular"
-        },
-        {
-          "t": "le",
+          "t": "La",
           "lemma": "le",
           "pos": "det",
-          "stress": "lə",
+          "stress": "la",
           "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "gram": "definite article, feminine singular"
         },
         {
-          "t": "sujet.",
-          "lemma": "sujet",
+          "t": "strip-teaseuse",
+          "lemma": "strip-teaseuse",
           "pos": "noun",
-          "stress": "syʒɛ",
-          "gloss": "subject, topic",
-          "gram": "masculine singular"
+          "stress": "stʁiptizøz",
+          "gloss": "stripper",
+          "gram": "feminine singular"
         },
         {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "quel",
-          "lemma": "quel",
-          "pos": "det",
-          "stress": "kɛl",
-          "gloss": "what, which",
-          "gram": "interrogative, masculine singular"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "rôle?",
-          "lemma": "rôle",
-          "pos": "noun",
-          "stress": "ʁol",
-          "gloss": "part, role",
-          "gram": "masculine singular"
+          "t": "écolo.",
+          "lemma": "écolo",
+          "pos": "adj",
+          "stress": "ekɔlo",
+          "gloss": "ecologist, green",
+          "gram": "feminine singular, informal"
         }
       ]
     },
     {
       "seg": 13,
-      "trans": "The ecologist stripper.",
+      "trans": "What? But does he know I had two children recently?",
       "words": [
         {
-          "t": "La",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
+          "t": "Quoi?",
+          "lemma": "quoi",
+          "pos": "pron",
+          "stress": "kwa",
+          "gloss": "what",
+          "gram": "question used alone to express surprise"
         },
         {
-          "t": "strip-teaseuse",
-          "lemma": "strip-teaseuse",
+          "t": "Mais",
+          "lemma": "mais",
+          "pos": "conj",
+          "stress": "mɛ",
+          "gloss": "but",
+          "gram": "coordinating conjunction"
+        },
+        {
+          "t": "il",
+          "lemma": "il",
+          "pos": "pron",
+          "stress": "il",
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular, refers to Augustin"
+        },
+        {
+          "t": "sait",
+          "lemma": "savoir",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "knows",
+          "gram": "present, 3rd person singular; knows that, not knows how to"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
+        },
+        {
+          "t": "j'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "ʒe",
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
+        },
+        {
+          "t": "eu",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "y",
+          "gloss": "had",
+          "gram": "past participle of avoir"
+        },
+        {
+          "t": "deux",
+          "lemma": "deux",
+          "pos": "num",
+          "stress": "dø",
+          "gloss": "two",
+          "gram": "cardinal number"
+        },
+        {
+          "t": "enfants",
+          "lemma": "enfant",
           "pos": "noun",
-          "stress": "stʁiptizøz",
-          "gloss": "stripper",
-          "gram": "feminine singular"
+          "stress": "ɑ̃fɑ̃",
+          "gloss": "children",
+          "gram": "plural, Audrey’s children"
         },
         {
-          "t": "écolo.",
-          "lemma": "écolo",
-          "pos": "adj",
-          "stress": "ekɔlo",
-          "gloss": "ecologist, green",
-          "gram": "feminine singular, informal"
+          "t": "récemment?",
+          "lemma": "récemment",
+          "pos": "adv",
+          "stress": "ʁesamɑ̃",
+          "gloss": "recently",
+          "gram": "adverb of time"
         }
       ]
     },
     {
       "seg": 14,
-      "trans": "What? But does he know I had two children recently?",
-      "words": [
-        {
-          "t": "Quoi?",
-          "lemma": "quoi",
-          "pos": "pron",
-          "stress": "kwa",
-          "gloss": "what",
-          "gram": "question used alone to express surprise"
-        },
-        {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, masculine singular, refers to Augustin"
-        },
-        {
-          "t": "sait",
-          "lemma": "savoir",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "knows",
-          "gram": "present, 3rd person singular; knows that, not knows how to"
-        },
-        {
-          "t": "que",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "kə",
-          "gloss": "that",
-          "gram": "conjunction, introduces what to say"
-        },
-        {
-          "t": "j'ai",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "ʒe",
-          "gloss": "I have, I did",
-          "gram": "je (I) + ai: 1st person singular present of avoir"
-        },
-        {
-          "t": "eu",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "y",
-          "gloss": "had",
-          "gram": "past participle of avoir"
-        },
-        {
-          "t": "deux",
-          "lemma": "deux",
-          "pos": "num",
-          "stress": "dø",
-          "gloss": "two",
-          "gram": "cardinal number"
-        },
-        {
-          "t": "enfants",
-          "lemma": "enfant",
-          "pos": "noun",
-          "stress": "ɑ̃fɑ̃",
-          "gloss": "children",
-          "gram": "plural, Audrey’s children"
-        },
-        {
-          "t": "récemment?",
-          "lemma": "récemment",
-          "pos": "adv",
-          "stress": "ʁesamɑ̃",
-          "gloss": "recently",
-          "gram": "adverb of time"
-        }
-      ]
-    },
-    {
-      "seg": 15,
       "trans": "That doesn't matter at all!",
       "words": [
         {
@@ -981,7 +919,7 @@
       ]
     },
     {
-      "seg": 17,
+      "seg": 16,
       "trans": "Sweetheart, do it for Mummy.",
       "words": [
         {
@@ -1019,16 +957,14 @@
       ]
     },
     {
-      "seg": 19,
-      "trans": "Tell me about this Augustin. What's his surname?",
       "words": [
         {
-          "t": "Parle-moi",
+          "t": "Parlez-moi",
           "lemma": "parler",
           "pos": "verb",
-          "stress": "paʁləmwa",
+          "stress": "paʁlemwa",
           "gloss": "tell me, talk to me",
-          "gram": "imperative, 2nd person singular (tu) + moi (to me)"
+          "gram": "parlez: polite/plural imperative + moi: object after positive command"
         },
         {
           "t": "de",
@@ -1102,10 +1038,12 @@
           "gloss": "family",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "seg": 18,
+      "trans": "Tell me about this Augustin. What's his surname?"
     },
     {
-      "seg": 21,
+      "seg": 20,
       "trans": "He's just called Augustin. He's a web star.",
       "words": [
         {
@@ -1183,7 +1121,7 @@
       ]
     },
     {
-      "seg": 23,
+      "seg": 22,
       "trans": "I don't know anything about all that. I even turned off the Wi-Fi!",
       "words": [
         {
@@ -1285,7 +1223,7 @@
       ]
     },
     {
-      "seg": 25,
+      "seg": 24,
       "trans": "It's bad for young brains.",
       "words": [
         {
@@ -1339,69 +1277,7 @@
       ]
     },
     {
-      "seg": 27,
-      "trans": "Look, this is the best of his videos.",
-      "words": [
-        {
-          "t": "Regarde,",
-          "lemma": "regarder",
-          "pos": "verb",
-          "stress": "ʁəɡaʁd",
-          "gloss": "look",
-          "gram": "imperative, 2nd person singular"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "meilleure",
-          "lemma": "meilleur",
-          "pos": "adj",
-          "stress": "mɛjœʁ",
-          "gloss": "best",
-          "gram": "feminine singular (agrees with 'vidéo')"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, links the two expressions"
-        },
-        {
-          "t": "ses",
-          "lemma": "son",
-          "pos": "det",
-          "stress": "se",
-          "gloss": "his",
-          "gram": "possessive, plural"
-        },
-        {
-          "t": "vidéos.",
-          "lemma": "vidéo",
-          "pos": "noun",
-          "stress": "video",
-          "gloss": "videos",
-          "gram": "feminine plural"
-        }
-      ]
-    },
-    {
-      "seg": 29,
+      "seg": 26,
       "trans": "Mathias, he's twelve years old!",
       "words": [
         {
@@ -1447,7 +1323,7 @@
       ]
     },
     {
-      "seg": 31,
+      "seg": 28,
       "trans": "He's young, but very talented. Like Xavier Dolan.",
       "words": [
         {
@@ -1525,7 +1401,7 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 30,
       "trans": "Really? Sweetheart, do you want a fruit compote?",
       "words": [
         {
@@ -1595,7 +1471,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 32,
       "trans": "It's the story of an ecologist stripper. Very funny, very modern.",
       "words": [
         {
@@ -1673,8 +1549,6 @@
       ]
     },
     {
-      "seg": 37,
-      "trans": "It's the perfect film for your comeback.",
       "words": [
         {
           "t": "C'est",
@@ -1717,12 +1591,12 @@
           "gram": "preposition ('pour', meaning 'for')"
         },
         {
-          "t": "ton",
-          "lemma": "ton",
+          "t": "votre",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "tɔ̃",
+          "stress": "vɔtʁ",
           "gloss": "your",
-          "gram": "possessive, informal, masculine singular"
+          "gram": "possessive, polite address; singular retour"
         },
         {
           "t": "retour.",
@@ -1732,10 +1606,12 @@
           "gloss": "return, comeback",
           "gram": "masculine singular"
         }
-      ]
+      ],
+      "seg": 34,
+      "trans": "It's the perfect film for your comeback."
     },
     {
-      "seg": 39,
+      "seg": 36,
       "trans": "I love the subject. But what's my part?",
       "words": [
         {
@@ -1805,7 +1681,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 38,
       "trans": "The ecologist stripper.",
       "words": [
         {
@@ -1835,7 +1711,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 40,
       "trans": "What? But does he know I had two children recently?",
       "words": [
         {
@@ -1921,7 +1797,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 42,
       "trans": "That doesn't matter at all!",
       "words": [
         {
@@ -1955,213 +1831,213 @@
           "stress": "ɛ̃pɔʁtɑ̃s",
           "gloss": "importance, significance",
           "gram": "feminine singular; 'n'avoir aucune importance' = not to matter at all"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "Sweetheart, do it for Mummy.",
+      "words": [
+        {
+          "t": "Chérie,",
+          "lemma": "chéri",
+          "pos": "adj",
+          "stress": "ʃeʁi",
+          "gloss": "darling",
+          "gram": "feminine singular, used as a term of address"
+        },
+        {
+          "t": "fais-le",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛlə",
+          "gloss": "do it",
+          "gram": "imperative, 2nd person singular (tu) + le (it), joined by a hyphen"
+        },
+        {
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "for",
+          "gram": "preposition ('pour', meaning 'for')"
+        },
+        {
+          "t": "maman.",
+          "lemma": "maman",
+          "pos": "noun",
+          "stress": "mamɑ̃",
+          "gloss": "Mummy",
+          "gram": "feminine singular, informal word for mother"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "t": "Parlez-moi",
+          "lemma": "parler",
+          "pos": "verb",
+          "stress": "paʁlemwa",
+          "gloss": "tell me, talk to me",
+          "gram": "parlez: polite/plural imperative + moi: object after positive command"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "about",
+          "gram": "preposition; parler de = talk about"
+        },
+        {
+          "t": "cet",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sɛt",
+          "gloss": "this",
+          "gram": "demonstrative determiner, masculine singular before a vowel"
+        },
+        {
+          "t": "Augustin.",
+          "lemma": "augustin",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Augustin",
+          "gram": "proper name"
+        },
+        {
+          "t": "Quel",
+          "lemma": "quel",
+          "pos": "det",
+          "stress": "kɛl",
+          "gloss": "what, which",
+          "gram": "interrogative, masculine singular"
+        },
+        {
+          "t": "est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "ɛ",
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "son",
+          "lemma": "son",
+          "pos": "det",
+          "stress": "sɔ̃",
+          "gloss": "his",
+          "gram": "possessive, masculine singular, agrees with nom"
+        },
+        {
+          "t": "nom",
+          "lemma": "nom",
+          "pos": "noun",
+          "stress": "nɔ̃",
+          "gloss": "name",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition, links the two expressions"
+        },
+        {
+          "t": "famille?",
+          "lemma": "famille",
+          "pos": "noun",
+          "stress": "famij",
+          "gloss": "family",
+          "gram": "feminine singular"
+        }
+      ],
+      "seg": 45,
+      "trans": "Tell me about this Augustin. What's his surname?"
+    },
+    {
+      "seg": 46,
+      "trans": "He's just called Augustin. He's a web star.",
+      "words": [
+        {
+          "t": "Il",
+          "lemma": "il",
+          "pos": "pron",
+          "stress": "il",
+          "gloss": "he",
+          "gram": "subject pronoun, masculine singular, refers to Augustin"
+        },
+        {
+          "t": "s'appelle",
+          "lemma": "s'appeler",
+          "pos": "verb",
+          "stress": "sapɛl",
+          "gloss": "is called",
+          "gram": "s' (se, reflexive) + present, 3rd person singular"
+        },
+        {
+          "t": "juste",
+          "lemma": "juste",
+          "pos": "adv",
+          "stress": "ʒyst",
+          "gloss": "just",
+          "gram": "adverb, after the verb"
+        },
+        {
+          "t": "Augustin.",
+          "lemma": "augustin",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Augustin",
+          "gram": "proper name"
+        },
+        {
+          "t": "C'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "a",
+          "gram": "indefinite article, feminine singular"
+        },
+        {
+          "t": "star",
+          "lemma": "star",
+          "pos": "noun",
+          "stress": "staʁ",
+          "gloss": "star (famous person)",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "du",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "dy",
+          "gloss": "of the",
+          "gram": "contraction de + le; star of the web"
+        },
+        {
+          "t": "web.",
+          "lemma": "web",
+          "pos": "noun",
+          "stress": "wɛb",
+          "gloss": "web, Internet",
+          "gram": "masculine singular"
         }
       ]
     },
     {
       "seg": 47,
-      "trans": "Sweetheart, do it for Mummy.",
-      "words": [
-        {
-          "t": "Chérie,",
-          "lemma": "chéri",
-          "pos": "adj",
-          "stress": "ʃeʁi",
-          "gloss": "darling",
-          "gram": "feminine singular, used as a term of address"
-        },
-        {
-          "t": "fais-le",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛlə",
-          "gloss": "do it",
-          "gram": "imperative, 2nd person singular (tu) + le (it), joined by a hyphen"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "maman.",
-          "lemma": "maman",
-          "pos": "noun",
-          "stress": "mamɑ̃",
-          "gloss": "Mummy",
-          "gram": "feminine singular, informal word for mother"
-        }
-      ]
-    },
-    {
-      "seg": 48,
-      "trans": "Tell me about this Augustin. What's his surname?",
-      "words": [
-        {
-          "t": "Parle-moi",
-          "lemma": "parler",
-          "pos": "verb",
-          "stress": "paʁləmwa",
-          "gloss": "tell me, talk to me",
-          "gram": "imperative, 2nd person singular (tu) + moi (to me)"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "about",
-          "gram": "preposition; parler de = talk about"
-        },
-        {
-          "t": "cet",
-          "lemma": "ce",
-          "pos": "det",
-          "stress": "sɛt",
-          "gloss": "this",
-          "gram": "demonstrative determiner, masculine singular before a vowel"
-        },
-        {
-          "t": "Augustin.",
-          "lemma": "augustin",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Augustin",
-          "gram": "proper name"
-        },
-        {
-          "t": "Quel",
-          "lemma": "quel",
-          "pos": "det",
-          "stress": "kɛl",
-          "gloss": "what, which",
-          "gram": "interrogative, masculine singular"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "son",
-          "lemma": "son",
-          "pos": "det",
-          "stress": "sɔ̃",
-          "gloss": "his",
-          "gram": "possessive, masculine singular, agrees with nom"
-        },
-        {
-          "t": "nom",
-          "lemma": "nom",
-          "pos": "noun",
-          "stress": "nɔ̃",
-          "gloss": "name",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, links the two expressions"
-        },
-        {
-          "t": "famille?",
-          "lemma": "famille",
-          "pos": "noun",
-          "stress": "famij",
-          "gloss": "family",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 49,
-      "trans": "He's just called Augustin. He's a web star.",
-      "words": [
-        {
-          "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, masculine singular, refers to Augustin"
-        },
-        {
-          "t": "s'appelle",
-          "lemma": "s'appeler",
-          "pos": "verb",
-          "stress": "sapɛl",
-          "gloss": "is called",
-          "gram": "s' (se, reflexive) + present, 3rd person singular"
-        },
-        {
-          "t": "juste",
-          "lemma": "juste",
-          "pos": "adv",
-          "stress": "ʒyst",
-          "gloss": "just",
-          "gram": "adverb, after the verb"
-        },
-        {
-          "t": "Augustin.",
-          "lemma": "augustin",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Augustin",
-          "gram": "proper name"
-        },
-        {
-          "t": "C'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "a",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "star",
-          "lemma": "star",
-          "pos": "noun",
-          "stress": "staʁ",
-          "gloss": "star (famous person)",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "du",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "dy",
-          "gloss": "of the",
-          "gram": "contraction de + le; star of the web"
-        },
-        {
-          "t": "web.",
-          "lemma": "web",
-          "pos": "noun",
-          "stress": "wɛb",
-          "gloss": "web, Internet",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 50,
       "trans": "I don't know anything about all that. I even turned off the Wi-Fi!",
       "words": [
         {
@@ -2263,7 +2139,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 48,
       "trans": "It's bad for young brains.",
       "words": [
         {
@@ -2317,69 +2193,7 @@
       ]
     },
     {
-      "seg": 52,
-      "trans": "Look, this is the best of his videos.",
-      "words": [
-        {
-          "t": "Regarde,",
-          "lemma": "regarder",
-          "pos": "verb",
-          "stress": "ʁəɡaʁd",
-          "gloss": "look",
-          "gram": "imperative, 2nd person singular"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "meilleure",
-          "lemma": "meilleur",
-          "pos": "adj",
-          "stress": "mɛjœʁ",
-          "gloss": "best",
-          "gram": "feminine singular (agrees with 'vidéo')"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, links the two expressions"
-        },
-        {
-          "t": "ses",
-          "lemma": "son",
-          "pos": "det",
-          "stress": "se",
-          "gloss": "his",
-          "gram": "possessive, plural"
-        },
-        {
-          "t": "vidéos.",
-          "lemma": "vidéo",
-          "pos": "noun",
-          "stress": "video",
-          "gloss": "videos",
-          "gram": "feminine plural"
-        }
-      ]
-    },
-    {
-      "seg": 53,
+      "seg": 49,
       "trans": "Mathias, he's twelve years old!",
       "words": [
         {
@@ -2425,7 +2239,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 50,
       "trans": "He's young, but very talented. Like Xavier Dolan.",
       "words": [
         {
@@ -2503,7 +2317,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 51,
       "trans": "Really? Sweetheart, do you want a fruit compote?",
       "words": [
         {
@@ -2573,7 +2387,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 52,
       "trans": "It's the story of an ecologist stripper. Very funny, very modern.",
       "words": [
         {
@@ -2651,8 +2465,6 @@
       ]
     },
     {
-      "seg": 57,
-      "trans": "It's the perfect film for your comeback.",
       "words": [
         {
           "t": "C'est",
@@ -2695,12 +2507,12 @@
           "gram": "preposition ('pour', meaning 'for')"
         },
         {
-          "t": "ton",
-          "lemma": "ton",
+          "t": "votre",
+          "lemma": "votre",
           "pos": "det",
-          "stress": "tɔ̃",
+          "stress": "vɔtʁ",
           "gloss": "your",
-          "gram": "possessive, informal, masculine singular"
+          "gram": "possessive, polite address; singular retour"
         },
         {
           "t": "retour.",
@@ -2710,10 +2522,12 @@
           "gloss": "return, comeback",
           "gram": "masculine singular"
         }
-      ]
+      ],
+      "seg": 53,
+      "trans": "It's the perfect film for your comeback."
     },
     {
-      "seg": 58,
+      "seg": 54,
       "trans": "I love the subject. But what's my part?",
       "words": [
         {
@@ -2783,7 +2597,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 55,
       "trans": "The ecologist stripper.",
       "words": [
         {
@@ -2813,7 +2627,7 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 56,
       "trans": "What? But does he know I had two children recently?",
       "words": [
         {
@@ -2899,7 +2713,7 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 57,
       "trans": "That doesn't matter at all!",
       "words": [
         {
@@ -2937,7 +2751,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 59,
       "trans": "Goodbye!",
       "words": [
         {
@@ -8108,6 +7922,58 @@
           "gloss": "maybe, perhaps"
         }
       ]
+    },
+    "votre": {
+      "lemma": "votre",
+      "stress": "vɔtʁ",
+      "pos": "det",
+      "gloss": "your (formal or plural)",
+      "meanings": [
+        {
+          "en": "your",
+          "note": "Polite or plural 'you'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "votre",
+              "votre"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "vos",
+              "vos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Votre nom?",
+          "trans": "Your name?"
+        },
+        {
+          "text": "Laissez vos photos ici.",
+          "trans": "Leave your photos here."
+        },
+        {
+          "text": "Laissez vos photos et votre CV ici.",
+          "trans": "Leave your photos and your CV here."
+        }
+      ],
+      "related": []
     }
   }
 }
