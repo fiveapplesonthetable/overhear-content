@@ -97,9 +97,11 @@ WALK = [(0,
   "the action word 'to wake'."),
  (1,
   "Il n'a pas dormi de la nuit.",
-  "'He didn't sleep all night.' Literally 'of the night', the idiomatic way to say 'all night long' after a "
-  'negative.'),
- (1, 'Il fait ses dents.', "'He's teething.' Literally 'he is making his teeth'."),
+  "'He didn't sleep all night.' French uses a negative statement about sleeping, followed by an expression that "
+  'covers the whole night.'),
+ (1,
+  'Il fait ses dents.',
+  "'He's teething.' The baby is teething. French describes this literally as making his teeth."),
  (2,
   None,
   "'We're not taking any risks. Let me do the talking.' The negative word after the action means 'not any'. The "
@@ -112,8 +114,8 @@ WALK = [(0,
   'takes the same form whether he represents a woman or a man.'),
  (5,
   None,
-  "'Madam, you are twenty-three months late.' Literally 'you have twenty-three months of delay'. French uses 'to "
-  "have' with a noun for being late."),
+  "'Madam, you are twenty-three months late.' French describes lateness as having an amount of delay. The number "
+  'of months tells us how long the payment has been overdue.'),
  (6,
   None,
   "'Yes, but at least I pay my taxes in France!' Listen for the two-word expression meaning 'at least'. It sets a "
@@ -124,16 +126,16 @@ WALK = [(0,
   "then the past form meaning 'had'. The phrase at the end gives the period in which this happened."),
  (8,
   None,
-  "'Now she wants to find work again and pay her taxes.' The prefix on 'to find again' works just like 're-' in "
-  'English.'),
+  "'Now she wants to find work again and pay her taxes.' The French verb for finding again has a prefix that "
+  'marks repetition. English does something similar with the word redo, meaning to do again.'),
  (9,
   None,
-  "'You can't find work, madam?' After a negative, the word for 'some' becomes the simple short word for 'of' or "
-  "'any'."),
+  "'You can't find work, madam?' After the negative, the partitive article becomes a shorter form. The sentence "
+  'asks whether she can find any work at all.'),
  (10,
   None,
-  "'Of course she can!' Notice the special word for 'yes' at the end: French uses it instead of the normal 'yes' "
-  'to contradict a negative question.'),
+  "'Of course she can!' French has a special affirmative response for contradicting a negative question. Mathias "
+  'uses it to reject the suggestion that Audrey cannot find work.'),
  (11,
   None,
   "'But you turned down a role in an action film.' Here 'you have' helps make a past action: 'you refused'. It "
@@ -144,8 +146,8 @@ WALK = [(0,
   "'after' here, as in chasing someone."),
  (13,
   None,
-  "'Audrey's return to a film shoot is imminent.' The short linking sound before her name means 'of': it is "
-  "Audrey's return. Mathias promises that she will be back on set very soon."),
+  "'Audrey's return to a film shoot is imminent.' The short linking sound before her name connects the return "
+  'with Audrey. Mathias promises that she will be back on set very soon.'),
  (14,
   None,
   "'Yes, it's a huge project.' The describing word comes after 'project'. It has the same spoken form for a "
