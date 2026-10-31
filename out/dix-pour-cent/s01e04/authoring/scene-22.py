@@ -10,7 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'armelle': 'Armelle', 'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "When the doorbell rings, Audrey lets in a young woman, thinking she is the next nanny on the list, Pauline Adam. Instead, it is Armelle Borzek, the young unknown actress whom Audrey replaced in Augustin's film. Let's listen to the scene in French first. Don't worry about catching every word; let the emotion guide you. Let's listen to the scene in French first."
+INTRO = ('Audrey opens her door expecting a nanny applicant. Instead, the visitor is Armelle Borzek, the actress who lost '
+ "the role in Augustin's film to Audrey. Armelle has been preparing for months and is distraught. First, listen "
+ 'to their conversation in French.')
 OPENER = "Let's walk through the scene line by line. Audrey opens the door expecting a nanny."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Audrey gives the role back to the young actress who worked so hard for it, and notice how they move from the polite 'you' at the start to the warm, casual 'you' on the doorstep. See you next time!"
@@ -33,21 +35,65 @@ STORY = [
     ('armelle', 'Tu sais quoi? Merci beaucoup, Audrey!', 'You know what? Thank you so much, Audrey!', [(602, 'Tu sais quoi')], ''),
     ('audrey', 'Allez, profite bien du tournage. Bonne chance!', 'Come on, enjoy the shoot. Good luck!', [(604, 'Allez, profite bien du tournage'), (605, 'Bonne chance')], ''),
 ]
-WALK = [
-    (0, None, "'Hello, come in. Are you Pauline Adam?' Both action words are in the polite form for a stranger. The young woman corrects her."),
-    (1, None, "'No. Armelle Borzek.' Here, Audrey doesn't recognise the name."),
-    (2, None, "'Did you change your name?' Literally 'you have changed of name', in the past. Armelle bursts out."),
-    (3, None, "'I trained for months.' Armelle uses a self-directed action word in the past, built with 'to be', so the ending takes a feminine letter for her."),
-    (4, None, "'Wait, I haven't started the interview.' Audrey still thinks this is about looking after her children. Then Armelle holds out her hands."),
-    (5, None, "'Look at my blisters! Touch my hands.' Armelle gives two polite commands. Her palms are raw from months on the metal pole. Mathias steps in."),
-    (6, None, "'Excuse me, what's the problem?' Mathias asks a direct, everyday question with the word for 'what' in the middle."),
-    (7, None, "'I learned Canadian French! Why did you do that to me?' Both sentences are in the past with 'have'. Armelle falls to her knees in tears."),
-    (8, None, "'You have to leave now.' The verb 'must' followed by 'to leave'. Mathias wants her out of the flat, but Audrey is moved."),
-    (9, None, "'Don't cry. But I didn't know.' First a negative command, then the past tense for how things were: Mathias never told Audrey that another actress already had the role."),
-    (10, None, "'You can't take my part from me! It was my big chance!' Notice the little word for 'from me' placed right before 'to take'."),
-    (11, None, "'It's a cruel profession.' Mathias shrugs it off as normal in the cinema world. Audrey has had enough of his coldness."),
-    (12, None, "'No, Mathias! Calm down. We're going to go into the kitchen.' She tells both of them to calm down, and leads Armelle away using the near future."),
-    (13, None, "'We're going to have some tea, okay?' Literally 'take some tea'. Over tea in the kitchen, Audrey decides to give the role back to Armelle. A little later, at the door, they are like old friends."),
-    (14, None, "'You know what? Thank you so much, Audrey!' Listen to the shift: Armelle now uses the casual 'you' with Audrey."),
-    (15, None, "'Come on, enjoy the shoot. Good luck!' And Audrey answers with the casual command too, wishing her luck on the film."),
-]
+WALK = [(0,
+  None,
+  "'Hello, come in. Are you Pauline Adam?' Both action words are in the polite form for a stranger. The young "
+  'woman corrects her.'),
+ (1,
+  None,
+  "'No. Armelle Borzek.' A correction can be just 'no' and the correct name. Armelle does not repeat the whole "
+  "sentence 'my name is' in this tense exchange."),
+ (2, None, "'Did you change your name?' Literally 'you have changed of name', in the past. Armelle bursts out."),
+ (3,
+  None,
+  "'I trained for months.' Armelle uses a self-directed action word in the past, built with 'to be', so the "
+  'ending takes a feminine letter for her.'),
+ (4,
+  None,
+  "'Wait, I haven't started the interview.' The negative surrounds the helping form of 'have', leaving the past "
+  "form 'started' after it. Audrey is still thinking about a nanny interview."),
+ (5,
+  None,
+  "'Look at my blisters! Touch my hands.' Armelle gives two polite commands. Her palms are raw from months on the "
+  'metal pole. Mathias steps in.'),
+ (6,
+  None,
+  "'Excuse me, what's the problem?' Mathias asks a direct, everyday question with the word for 'what' in the "
+  'middle.'),
+ (7,
+  None,
+  "'I learned Canadian French! Why did you do that to me?' Both sentences are in the past with 'have'. Armelle "
+  'falls to her knees in tears.'),
+ (8,
+  None,
+  "'You have to leave now.' The verb 'must' followed by 'to leave'. Mathias wants her out of the flat, but Audrey "
+  'is moved.'),
+ (9,
+  None,
+  "'Don't cry. But I didn't know.' First a negative command, then the past tense for how things were: Mathias "
+  'never told Audrey that another actress already had the role.'),
+ (10,
+  None,
+  "'You can't take my part from me! It was my big chance!' Notice the little word for 'from me' placed right "
+  "before 'to take'."),
+ (11,
+  None,
+  "'It's a cruel profession.' The noun for a job or trade is masculine, so the describing word is masculine too. "
+  'Mathias presents the loss of the role as part of the business.'),
+ (12,
+  None,
+  "'No, Mathias! Calm down. We're going to go into the kitchen.' Audrey stops Mathias, then politely asks Armelle "
+  "to calm down. The expression 'going to go' uses the same action twice, first as a helper and then for the "
+  'actual movement.'),
+ (13,
+  None,
+  "'We're going to have some tea, okay?' Literally 'take some tea'. Over tea in the kitchen, Audrey decides to "
+  'give the role back to Armelle. A little later, at the door, they are like old friends.'),
+ (14,
+  None,
+  "'You know what? Thank you so much, Audrey!' Listen to the shift: Armelle now uses the casual 'you' with "
+  'Audrey.'),
+ (15,
+  None,
+  "'Come on, enjoy the shoot. Good luck!' And Audrey answers with the casual command too, wishing her luck on the "
+  'film.')]
