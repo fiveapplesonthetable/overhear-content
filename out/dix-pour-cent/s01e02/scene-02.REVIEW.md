@@ -47,6 +47,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We're alone here.' The word for 'alone' is plural, because there are two of them.
 - 'Camille!' Just her name, used as a warning rather than a greeting. His sharp tone tells her to drop the subject; the French spelling gives the name a final sound like the y in yes.
 - 'Have I done something wrong?' The two opening words turn the statement into a yes-or-no question, without changing the order of the rest. Something is literally some thing, followed by wrong.
-- 'Apart from getting a job here?' Apart from introduces the exception that Mathias holds against her. French uses have found for getting here: she has already found the job.
+- 'Apart from getting a job here?' Apart from introduces the exception that Mathias holds against her. The French phrase describes a job she has already found. He objects to her working in his own agency.
 - 'I'm just doing my job. I don't even look at you.' Just means only here. The ending not even strengthens the denial; even sits before the final negative word, rather than meaning the same.
 - 'Even I don't know that I'm your daughter!' The opening means I myself and adds emphasis to the I that follows. Daughter and girl share one French word; your daughter makes the family meaning clear. Camille's bitter joke exposes how hard he is making her hide their relationship.
