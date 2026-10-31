@@ -25,7 +25,8 @@ class Coverage(unittest.TestCase):
         (root / 'meta/app.json').write_text(json.dumps({'pairs': [{'id': pair, 'learn': pair[:2], 'from': 'en', 'published': True}]}))
         (root / f'word-origins/{pair}.json').write_text(json.dumps({'entries': histories}))
         for sid, words, published in scenes:
-            blob = put(sid + '.gz', {'transcript': {'lines': [{'lang': pair[:2], 'words': words}]}})
+            line = {'lang': pair[:2], **words} if isinstance(words, dict) else {'lang': pair[:2], 'words': words}
+            blob = put(sid + '.gz', {'transcript': {'lines': [line]}})
             (root / f'pairs/{pair}/scenes/{sid}.json').write_text(json.dumps({'id': sid, 'published': published, 'content': blob}))
 
     def source(self):
@@ -104,3 +105,79 @@ class Coverage(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class NativeLearnCoverage(unittest.TestCase):
+    fixture = Coverage.fixture
+    source = Coverage.source
+
+    def native_report(self, run, words, entries=None, extra_lines=()):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            entries = entries or {'你们': {'gloss':'you plural'}, '一起':{'gloss':'together'}, '进去':{'gloss':'go in'}}
+            sid = 'behind-the-scenes-s01e01-scene-01'
+            self.fixture(root, 'zh-en', entries, {w:self.source() for w in entries},
+                scenes=[(sid, {'seg':3,'text':'你们一起进去。','words':words}, True)], articles={'published':{}})
+            if extra_lines:
+                blob = root / ('gcs/index/' + sid + '.gz')
+                assembled = json.loads(gzip.decompress(blob.read_bytes()))
+                assembled['transcript']['lines'].extend(extra_lines)
+                data = gzip.compress(json.dumps(assembled).encode())
+                blob.write_bytes(data)
+                scene_file = root / ('pairs/zh-en/scenes/' + sid + '.json')
+                scene = json.loads(scene_file.read_text())
+                scene['content']['sha256'] = hashlib.sha256(data).hexdigest()
+                scene_file.write_text(json.dumps(scene))
+            (root/'learn/zh-en').mkdir(parents=True)
+            (root/'learn/zh-en/published.json').write_text(json.dumps({'examples':[{'sceneId':sid,'seg':3}], 'body':{'en':'A reviewed example: *'+run+'*.'}}))
+            return inventory(root, root)
+
+    def words(self):
+        return [{'t':'你们','lex':'你们','charStart':0,'charEnd':2},
+                {'t':'一起','lex':'一起','charStart':2,'charEnd':4},
+                {'t':'进去','lex':'进去','charStart':4,'charEnd':6}]
+
+    def test_unspaced_example_resolves_to_actual_published_lexical_owners(self):
+        report = self.native_report('你们一起进去', self.words())
+        scope = report['zh-en']['seasons']['behind-the-scenes/s01']
+        self.assertEqual(scope['unresolved'], [])
+        self.assertEqual(scope['words'], 3)
+        self.assertTrue(completeness(report))
+
+    def test_no_dictionary_segmentation_is_guessed_without_source_spans(self):
+        words = self.words()
+        for word in words: del word['charStart']; del word['charEnd']
+        report = self.native_report('你们一起进去', words)
+        self.assertIn('你们一起进去', report['zh-en']['seasons']['behind-the-scenes/s01']['unresolved'])
+        self.assertFalse(completeness(report))
+
+    def test_partial_compound_cannot_be_claimed_as_a_whole_reviewed_word(self):
+        report = self.native_report('们一起', self.words())
+        self.assertIn('们一起', report['zh-en']['seasons']['behind-the-scenes/s01']['unresolved'])
+
+    def test_wrong_span_and_unmatched_example_remain_unresolved(self):
+        words = self.words(); words[0]['charEnd'] = 1
+        report = self.native_report('你们一起进去', words)
+        self.assertIn('你们一起进去', report['zh-en']['seasons']['behind-the-scenes/s01']['unresolved'])
+        report = self.native_report('你们不知道', self.words())
+        self.assertIn('你们不知道', report['zh-en']['seasons']['behind-the-scenes/s01']['unresolved'])
+
+    def test_missing_dictionary_owner_is_not_hidden_by_an_example_match(self):
+        report = self.native_report('你们一起进去', self.words(), {'你们':{'gloss':'you'},'进去':{'gloss':'go in'}})
+        self.assertIn('一起', report['zh-en']['seasons']['behind-the-scenes/s01']['unresolved'])
+        self.assertFalse(completeness(report))
+
+    def test_multiple_transcript_lines_of_one_segment_preserve_earlier_phrase(self):
+        later = {'lang':'zh','seg':3,'text':'你们。','words':[{'t':'你们','lex':'你们','charStart':0,'charEnd':2}]}
+        report = self.native_report('你们一起进去', self.words(), extra_lines=[later])
+        self.assertNotIn('你们一起进去', report['zh-en']['seasons']['behind-the-scenes/s01']['unresolved'])
+        self.assertTrue(completeness(report))
+
+    def test_multiple_lines_cannot_hide_conflicting_reviewed_owners(self):
+        later = {'lang':'zh','seg':3,'text':'你们一起进去。','words':[
+            {'t':'你','lex':'你','charStart':0,'charEnd':1}, {'t':'们','lex':'们','charStart':1,'charEnd':2},
+            *self.words()[1:]]}
+        report = self.native_report('你们一起进去', self.words(),
+            {'你们':{'gloss':'you'}, '你':{'gloss':'you'}, '们':{'gloss':'plural'}, '一起':{'gloss':'together'}, '进去':{'gloss':'go in'}}, extra_lines=[later])
+        self.assertIn('你们一起进去', report['zh-en']['seasons']['behind-the-scenes/s01']['unresolved'])
+        self.assertFalse(completeness(report))

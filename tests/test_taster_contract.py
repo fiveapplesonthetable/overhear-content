@@ -212,3 +212,14 @@ class TasterContract(unittest.TestCase):
         script['segments'][-2]['v'] = 'another_speaker'
         script['labels']['another_speaker'] = 'Другой'
         self.assertTrue(any('separate contiguous recap' in e for e in self.short_errors(script)))
+
+    def test_script_cli_dispatches_declared_pair_for_every_new_language(self):
+        import contextlib
+        import io
+        for lang in ('es', 'de', 'it', 'ja', 'zh', 'ko', 'ar'):
+            with self.subTest(lang=lang):
+                path = self.ep / 'generic-scene.json'
+                path.write_text(json.dumps({'pair':lang+'-en'}))
+                with patch.object(v, 'check_script') as check, patch.object(v, 'LENIENT_VERSION', [False]), contextlib.redirect_stdout(io.StringIO()):
+                    v.main([str(path), '--script'])
+                self.assertEqual(check.call_args.args[1], lang)
