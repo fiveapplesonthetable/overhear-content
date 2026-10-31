@@ -38,9 +38,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, her agent.' The possessive follows the gender of the job title, not the owner. A male agent therefore takes the same form whether he represents a woman or a man.
 - 'Madam, you are twenty-three months late.' French describes lateness as having an amount of delay. The number of months tells us how long the payment has been overdue.
 - 'Yes, but at least I pay my taxes in France!' Listen for the two-word expression meaning 'at least'. It sets a minimum positive point against the bad news about her late payment.
-- 'Audrey had two children in three years.' You hear two forms of 'to have' together: the short helping word, then the past form meaning 'had'. The phrase at the end gives the period in which this happened.
+- 'Audrey had two children in three years.' You hear two forms of 'to have' together: the short helping word, then the past form meaning 'had'. Both children were born within those three years.
 - 'Now she wants to find work again and pay her taxes.' The French verb for finding again has a prefix that marks repetition. English does something similar with the word redo, meaning to do again.
-- 'You can't find work, madam?' After the negative, the partitive article becomes a shorter form. The sentence asks whether she can find any work at all.
+- 'You can't find work, madam?' After a negative expression, this little French word shortens. The sentence asks whether she can find any work at all.
 - 'Of course she can!' French has a special affirmative response for contradicting a negative question. Mathias uses it to reject the suggestion that Audrey cannot find work.
 - 'But you turned down a role in an action film.' Here 'you have' helps make a past action: 'you refused'. It does not mean that she currently owns something.
 - 'I couldn't run after zombies!' The form of 'can' places her inability in the past. The word after 'run' means 'after' here, as in chasing someone.
@@ -49,3 +49,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I expect your cheque this week, with ten percent extra.' At the end, the word for 'more' means an added amount. It does not mean 'no longer': there is no negative around it.
 
 Original French audio audit: Audrey says Attendez/vous marchez, and Mathias addresses her politely. The shortened command preserves that register. The final seven English teaching rewrites avoid F5 dropping isolated quoted words; native French remains source-corrected.
+
+Production speech repair: original 103-sentence audit found happened spoken as happens in segment37 and a garbled technical article explanation in segment41. Rephrased only those two English explanations using born and plain language. Native French, segment structure, timing gaps and notes remain unchanged. Requires production re-synthesis and speech validation.
