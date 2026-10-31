@@ -3,8 +3,8 @@ SHOW = 'paquita-salas'
 SEASON = 1
 EPISODE = 1
 SCENE = 1
-TITLE = "Soy representante  (I'm an Agent)"
-LEVEL = 'A1 — Duolingo Section 2'
+TITLE = "Soy representante  (I'm an Agent — Taster)"
+LEVEL = 'A1 — beginner'
 PAIR = 'es-en'
 LABELS = {'paquita': 'Paquita', 'magui': 'Magüi'}
 SOURCE_NAME = 'Paquita Salas S01E01: Casada con esto'
@@ -32,20 +32,20 @@ STORY = [
     ('magui', 'Todo el mundo quiere a Paquita muchísimo.',
      'Everyone loves Paquita very much.', [(7, 'Todo el mundo quiere'), (7, 'a Paquita muchísimo')],
      'Omitted the separate opening praise and the trailing conversational aside.'),
-    ('paquita', 'Está mal que yo lo diga, pero todos me adoran.',
+    ('paquita', 'Está mal que yo lo diga, pero a mí todo el mundo me adora.',
      "I shouldn't say it myself, but everyone adores me.",
-     [(8, 'Está mal que yo lo diga'), (8, 'pero todos me adoran')],
-     'Caption-based adaptation: omitted the hesitation tag. The authored caption uses plural todos me adoran; independent audio ASR instead hears a mí todo el mundo me adora. Both express the same boast; the learner grammar follows the caption wording.'),
+     [(8, 'Está mal que yo lo diga')],
+     'Restored a mí todo el mundo me adora from actual source audio and independent unprompted ASR; the caption condenses this to plural todos me adoran. Omitted the hesitation tag. Learner grammar now follows the source-audio wording.'),
     ('paquita', 'Llevamos más de veinticinco años.',
      "We've been in business for more than twenty-five years.",
      [(15, 'Llevamos más de'), (15, 'años')],
      'Spelled out the caption numeral 25 for native speech; the duration refers to the agency introduced in the surrounding source.'),
     ('paquita', 'Empezamos como agencia de modelos.',
-     'We started out as a modelling agency.', [(15, 'Empezamos de agencia de modelos')],
+     'We started out as a modelling agency.', [(15, 'Empezamos'), (15, 'agencia de modelos')],
      'Restored como from independent small and production-reference ASR of the actual audio; the authored caption has de. The meaning is unchanged: the business started as a modelling agency.'),
-    ('paquita', 'Poco a poco fuimos creciendo.',
-     'Little by little, we grew.', [(16, 'poco a poco fuimos creciendo')],
-     'Retained the caption\'s first complete clause and omitted the following clause about earning the industry\'s trust. Independent audio ASR hears hemos ido creciendo rather than the caption\'s fuimos creciendo; the learner uses the caption\'s completed-past adaptation.'),
+    ('paquita', 'Poco a poco hemos ido creciendo.',
+     "Little by little, we've grown.", [(16, 'poco a poco'), (16, 'creciendo')],
+     'Restored hemos ido creciendo from the actual source-audio check; the caption compresses this to fuimos creciendo. Omitted the following clause about earning the industry\'s trust.'),
     ('paquita', 'Somos expertos en generar éxito.',
      "We're experts at creating success.", [(18, 'Somos expertos en generar éxito')], ''),
     ('paquita', 'Ahora mismo llevamos a Macarena García.',
@@ -63,17 +63,17 @@ STORY = [
     ('paquita', 'Tratamos de trabajar con gente que tiene esto muy claro.',
      'We try to work with people who understand that very clearly.',
      [(26, 'Tratamos de trabajar'), (26, 'con gente que tiene esto muy claro')],
-     'The demonstrative points back to acting being a profession. The caption has esto; independent ASR hears eso. This learner adaptation follows the authored caption. Omitted the next, profane clause rather than rewriting its content.')
+     'The demonstrative points back to acting being a profession. Authored native captions and the independent large-model source check agree on esto; the small decoder\'s eso was rejected. Omitted the next, profane clause rather than rewriting its content.')
 ]
 
 WALK = [
     (0, None, "'Hello, I'm Paquita Salas, and I'm an agent.' The same form of am introduces both her name and her job. There is no word for an before agent here: in a simple job description like this, Spanish usually leaves it out."),
     (1, None, "'Paquita is brilliant.' The borrowed word describes someone exceptionally good at something. The word for a before it is masculine here, although she is talking about a woman. This praise word can be used that way; it does not refer to a break or a crack in an object."),
     (2, None, "'Everyone loves Paquita very much.' Everyone is literally all the world, so the verb is singular. The little word before Paquita marks a person as the object of loves. It does not mean that the love is moving towards her."),
-    (3, None, "'I shouldn't say it myself, but everyone adores me.' The opening literally says it is bad that I say it. The short word for it points to the boast that follows. This time everyone is expressed with a plural word meaning all the people, and adores has a matching plural ending."),
+    (3, None, "'I shouldn't say it myself, but everyone adores me.' The opening literally says it is bad that I say it. The short word for it points to the boast that follows. Me is emphasized once at the beginning of the boast, and another me still sits just before adores. This doubling puts the spotlight on Paquita herself."),
     (4, None, "'We've been in business for more than twenty-five years.' Spanish uses a present-tense verb with the length of time to say how long something has continued. More than introduces the number; it does not mean exactly twenty-five."),
     (5, None, "'We started out as a modelling agency.' Started describes a completed event. This particular we form is also used for we start. Her story about the agency's beginning tells us that she means the past."),
-    (6, None, "'Little by little, we grew.' The repeated word for little makes the phrase mean gradually. The past form of go followed by growing describes a process developing over time; nobody is travelling anywhere."),
+    (6, None, "'Little by little, we've grown.' The repeated word for little makes the phrase mean gradually. The rest literally says we have gone growing. Spanish uses that pattern for gradual progress up to now."),
     (7, None, "'We're experts at creating success.' The word for experts has an ending meaning more than one, to match we. After experts at, Spanish uses the basic form meaning to create. The final word means success, rather than an exit from a building."),
     (8, None, "'At the moment, we represent Macarena García.' Earlier, this same word introduced the years they have been in business. Here it means represent or manage a client. The little word before Macarena marks the person they represent, and now means at the present time."),
     (9, None, "'Magüi, has Maca called?' She uses a short name for Macarena. Has plus called asks whether the call has happened. There is no separate word for she: the name at the end tells us who she is asking about."),
