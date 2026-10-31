@@ -10,7 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = 'Up on the rooftop overlooking Paris, Andréa finds the tax inspector Colette Brancillon looking out at the view. Earlier today at the Hotel Saint-Georges, Andréa and Gabriel panicked when they saw Colette walk in, and pretended to be secret lovers asking for their usual room. Now Andréa decides to clear the air. Listen to the French first, without worrying about catching every word.'
+INTRO = ('Up on the rooftop overlooking Paris, Andréa finds the tax inspector Colette Brancillon looking out at the view. '
+ 'Earlier at the Hotel Saint-Georges, Andréa and Gabriel panicked when they saw Colette walk in, and pretended to '
+ 'be secret lovers asking for their usual room. Now Andréa decides to clear the air. Listen to the French first, '
+ 'without worrying about catching every word.')
 OPENER = "Let's walk through it line by line. Andréa joins Colette at the edge of the roof."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Telling the truth finally broke the ice between Andréa and Colette. See you next time!'
