@@ -16,14 +16,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Hélène | Une de ses anciennes amies veut savoir si elle est dans son testament. | One of his old friends wants to know whether she is in his will. | #213 00:11:29: Une de ses anciennes<br>#214 00:11:30: son testament | adapted: Softens former mistress to old friend while retaining her question about inclusion in the will. |
 | 5 | Hélène | J'ai trouvé un acheteur pour l'agence. | I've found a buyer for the agency. | #215 00:11:36: J'ai trouvé un acheteur pour l'agence | verbatim |
 | 6 | Hélène | C'est une offre sérieuse. | It's a serious offer. | #215 00:11:36: C'est une offre sérieuse | verbatim |
-| 7 | Hélène | Une de ses anciennes amies veut voir son testament. | One of his old friends wants to see his will. | #213 00:11:29: Une de ses anciennes<br>#214 00:11:30: son testament | adapted: Softens former mistress to old friend; shortens the request about being included in the will. |
+| 7 | Hélène | Très généreuse, aussi. | Very generous, too. | #216 00:11:39: Très généreuse aussi | verbatim |
 | 8 | Mathias | Vous pouvez m'en dire plus? | Can you tell me more about it? | #217 00:11:42: Vous pouvez m'en dire plus | verbatim |
 | 9 | Hélène | Jonas Hirsch, de l'agence Sterne à Berlin. | Jonas Hirsch, from the Sterne agency in Berlin. | #218 00:11:43: Jonas Hirsch, de l'agence Sterne à Berlin | verbatim |
 | 10 | Hélène | Vous le connaissez? | Do you know him? | #219 00:11:46: Vous le connaissez | verbatim |
 | 11 | Mathias | Oui. | Yes. | #220 00:11:47: Oui | verbatim |
-| 12 | Mathias | Il veut créer un groupe d'agences européennes. | He wants to create a group of European agencies. | #221 00:11:49: Il veut créer un<br>#221 00:11:49: d'agences européennes | adapted: Simplifies hub to groupe. |
-| 13 | Mathias | Vous pouvez m'en dire plus? | Can you tell me more about it? | #217 00:11:42: Vous pouvez m'en dire plus | verbatim |
-| 14 | Hélène | Jonas Hirsch, de l'agence Sterne à Berlin. | Jonas Hirsch, from the Sterne agency in Berlin. | #218 00:11:43: Jonas Hirsch, de l'agence Sterne à Berlin | verbatim |
+| 12 | Hélène | Il veut créer un groupe d'agences européennes. | He wants to create a group of European agencies. | #221 00:11:49: Il veut créer un<br>#221 00:11:49: d'agences européennes | adapted: Simplifies hub to groupe. |
+| 13 | Hélène | Je lui ai demandé de vous garder tous les quatre. | I asked him to keep all four of you. | #222 00:11:51: Je lui ai demandé de vous garder tous les quatre | verbatim |
+| 14 | Hélène | Mais je ne sais pas si c'est dans ses projets. | But I don't know if that's in his plans. | #223 00:11:54: mais je ne sais pas si c'est dans ses projets | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +42,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I asked him to keep all four of you.' The first object means 'to him', referring to the buyer. The later 'you' is plural: Hélène means all four agents.
 - 'But I don't know if that's in his plans.' Here 'if' means 'whether', introducing something uncertain. Hélène has made a request, but cannot promise the outcome.
 
-Primary video: private E4dual MP4id1619500213,27frames682–791s. Hélène meets Mathias alone at a restaurant; the other agents are in a separate subsequent office conversation. The last conversation is Mathias and Catherine at home, not François. The lesson now keeps14French lines from the actual Hélène/Mathias meeting.
+Original audio + semantic consistency audit: Hélène explains the European agency group, requests retention of all four agents and explicitly cannot promise the buyer’s plans. Removed duplicate will/buyer questions accidentally retained in an earlier editorial script. Every story translation now matches its walkthrough explanation.
+
+Art repair: built-in imagegen; reference art/style/fr-01-agence.webp for house style. Prompt: Hélène (grey bob, black dress, pearls and gloves) meets Mathias alone at a restaurant table about a business offer. Rounded flat cartoon, canonical character hair/clothes, one dominant palette, no text/logos/actor likeness. Generated composition inspected; saved1024squareWebP.

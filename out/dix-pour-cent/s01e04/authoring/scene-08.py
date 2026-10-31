@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = ("Hélène, Samuel's widow, meets Mathias at a restaurant. She has found a serious buyer for the agency, and he "
  'wants to know what a sale would mean for the four agents. First, listen to their conversation in French.')
-OPENER = "Let's walk through it step by step. Mathias arrives late and apologises to Hélène."
+OPENER = "Let's walk through it step by step. Mathias apologises to Hélène at the restaurant."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('Back at the agency, the partners debate what they can do about the offer. At home, Mathias tells Catherine that '
  'joining StarMédia could make him enemies. You heard how to ask for more information and express uncertainty '
@@ -36,11 +36,7 @@ STORY = [('mathias', 'Désolé.', 'Sorry.', [(211, 'Désolé')], ''),
   [(215, "J'ai trouvé un acheteur pour l'agence")],
   ''),
  ('helene', "C'est une offre sérieuse.", "It's a serious offer.", [(215, "C'est une offre sérieuse")], ''),
- ('helene',
-  'Une de ses anciennes amies veut voir son testament.',
-  'One of his old friends wants to see his will.',
-  [(213, 'Une de ses anciennes'), (214, 'son testament')],
-  'Softens former mistress to old friend; shortens the request about being included in the will.'),
+ ('helene', 'Très généreuse, aussi.', 'Very generous, too.', [(216, 'Très généreuse aussi')], ''),
  ('mathias',
   "Vous pouvez m'en dire plus?",
   'Can you tell me more about it?',
@@ -53,20 +49,20 @@ STORY = [('mathias', 'Désolé.', 'Sorry.', [(211, 'Désolé')], ''),
   ''),
  ('helene', 'Vous le connaissez?', 'Do you know him?', [(219, 'Vous le connaissez')], ''),
  ('mathias', 'Oui.', 'Yes.', [(220, 'Oui')], ''),
- ('mathias',
+ ('helene',
   "Il veut créer un groupe d'agences européennes.",
   'He wants to create a group of European agencies.',
   [(221, 'Il veut créer un'), (221, "d'agences européennes")],
   'Simplifies hub to groupe.'),
- ('mathias',
-  "Vous pouvez m'en dire plus?",
-  'Can you tell me more about it?',
-  [(217, "Vous pouvez m'en dire plus")],
+ ('helene',
+  'Je lui ai demandé de vous garder tous les quatre.',
+  'I asked him to keep all four of you.',
+  [(222, 'Je lui ai demandé de vous garder tous les quatre')],
   ''),
  ('helene',
-  "Jonas Hirsch, de l'agence Sterne à Berlin.",
-  'Jonas Hirsch, from the Sterne agency in Berlin.',
-  [(218, "Jonas Hirsch, de l'agence Sterne à Berlin")],
+  "Mais je ne sais pas si c'est dans ses projets.",
+  "But I don't know if that's in his plans.",
+  [(223, "mais je ne sais pas si c'est dans ses projets")],
   '')]
 WALK = [(0,
   None,
