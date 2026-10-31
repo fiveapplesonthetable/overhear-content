@@ -4,7 +4,7 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 16
-TITLE = 'Fais une Bardot  (Do a Bardot)'
+TITLE = 'Jouer la star  (Act Like a Star)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
 LABELS = {'laura': 'Laura', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
@@ -47,10 +47,11 @@ STORY = [('laura',
   'Simplifies the conditional suggestion into a present-tense possibility.'),
  ('laura', 'Qui?', 'Who?', [(400, 'Qui')], ''),
  ('herve',
-  'Solveig! Fais juste une Bardot.',
-  'Solveig! Just do a Bardot.',
+  'Solveig! Joue la star.',
+  'Solveig! Act like a star.',
   [(401, 'Solveig'), (403, 'Fais juste une Bardot')],
-  ''),
+  "The actual audio coins a verb from Bardot's name. The A1 retelling uses the ordinary expression jouer la "
+  "star instead of teaching the subtitle's backtranslated faire une Bardot."),
  ('laura', "C'est quoi, ça?", "What's that?", [(404, "C'est quoi")], 'Omits the sexual joke.'),
  ('herve',
   'Tu deviens capricieuse, une star difficile comme Brigitte Bardot.',
@@ -65,10 +66,10 @@ STORY = [('laura',
   [(410, "c'est ridicule"), (411, 'Une très mauvaise idée')],
   ''),
  ('gabriel',
-  'Tu ne vas quand même pas faire une Bardot?',
-  "You're not actually going to do a Bardot?",
+  'Tu ne vas quand même pas faire ça?',
+  "You're not actually going to do that?",
   [(412, 'Tu ne vas quand même pas'), (413, 'faire une Bardot')],
-  'Completes the interrupted question.')]
+  'Uses a plain reference to the plan instead of the coined verb in the actual audio.')]
 WALK = [(0,
   None,
   "'I stayed at my mother's.' The past form of 'stay' uses the helper 'be', and its written ending agrees "
@@ -99,8 +100,9 @@ WALK = [(0,
   "'Who?' This single question word can stand alone. Laura needs Herve to make clear which woman he means."),
  (6,
   None,
-  "'Solveig! Just do a Bardot.' Herve gives a direct instruction, with no separate word for 'you'. The "
-  "actress's surname stands for playing a demanding star."),
+  "'Solveig! Act like a star.' The instruction literally says 'play the star'. In the episode Herve invents "
+  "a verb from the actress's surname; this retelling uses the ordinary expression for putting on that "
+  'important-person act.'),
  (7,
   None,
   "'What's that?' Literally 'it is what, that?'. This casual question puts 'what' after 'is', a pattern you "
@@ -123,5 +125,5 @@ WALK = [(0,
   "word for 'idea'. Gabriel opposes his assistant's plan."),
  (12,
   None,
-  "'You're not actually going to do a Bardot?' The two words inside the negative add the feeling of 'really' "
-  "or 'all the same'. Gabriel asks the question hoping that the answer will be no.")]
+  "'You're not actually going to do that?' The two words inside the negative add the feeling of 'really' or "
+  "'all the same'. Gabriel points back to the plan, hoping Laura will reject it.")]

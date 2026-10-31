@@ -4,7 +4,7 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 22
-TITLE = 'Un Bardot pour rien  (A Bardot for Nothing)'
+TITLE = 'Une mauvaise idée  (A Bad Idea)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
 LABELS = {'gabriel': 'Gabriel', 'herve': 'Hervé'}
@@ -44,10 +44,11 @@ STORY = [('herve',
   ''),
  ('herve', "C'est méchant!", "That's mean!", [(578, "C'est méchant")], ''),
  ('gabriel',
-  'Tu as fait faire un Bardot à Laura pour rien!',
-  'You made Laura do a Bardot for nothing!',
+  'Tu as fait faire ça à Laura pour rien!',
+  'You made Laura do that for nothing!',
   [(579, 'Tu as fait faire un Bardot à Laura pour rien')],
-  ''),
+  "Keeps the meaning of Gabriel's reproach without turning the actual coined Bardot verb into an ordinary "
+  'French noun.'),
  ('gabriel',
   'Sans Nathalie, Laura peut jouer la fille maintenant.',
   'Without Nathalie, Laura can play the daughter now.',
@@ -64,7 +65,11 @@ STORY = [('herve',
   'Am I really fired?',
   [(582, 'Je suis vraiment')],
   'Corrects subtitle feminine virée to masculine viré for Herve.'),
- ('gabriel', 'Non, je fais un Bardot!', "No, I'm doing a Bardot!", [(583, 'Non, je fais un Bardot')], '')]
+ ('gabriel',
+  "Non, c'est une blague!",
+  "No, it's a joke!",
+  [(583, 'Non, je fais un Bardot')],
+  'Plain A1 retelling of the actual coined-verb joke; Gabriel is not firing Herve.')]
 WALK = [(0,
   None,
   "'You have lots of calls.' The expression for 'a lot of' is followed by the short word for 'of'. Before "
@@ -95,7 +100,7 @@ WALK = [(0,
   "director's decision."),
  (7,
   None,
-  "'You made Laura do a Bardot for nothing!' French uses 'make' twice: a completed 'made', then 'do' in its "
+  "'You made Laura do that for nothing!' French uses 'make' twice: a completed 'made', then 'do' in its "
   'basic form. This expresses making someone else perform an action.'),
  (8,
   None,
@@ -115,5 +120,5 @@ WALK = [(0,
   'check that Gabriel means it.'),
  (12,
   None,
-  "'No, I'm doing a Bardot!' The action is in the present: Gabriel is putting on an act right now. He is "
-  'pretending to be difficult, rather than actually dismissing his assistant.')]
+  "'No, it's a joke!' The final word means 'joke' and follows the feminine word for 'a'. Gabriel reveals "
+  'that he was pretending to dismiss Herve.')]
