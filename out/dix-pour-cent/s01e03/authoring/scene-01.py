@@ -10,9 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'gabriel': 'Gabriel', 'andrea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = ('This is Call My Agent, set in a Paris talent agency. Gabriel has forgotten to post a letter that could '
- 'help the firm through a tax audit. His colleagues Andrea and Mathias ask what happened, while a client '
- 'waits outside. Listen to the French story first; you do not need to catch every word.')
+INTRO = ('This is Call My Agent, set in a Paris talent agency. Gabriel has forgotten to post an important letter. '
+ 'Sending this letter could help the firm through a tax audit. His colleagues Andrea and Mathias ask what '
+ 'happened, while a client waits outside. Listen to the French story first; you do not need to catch every '
+ 'word.')
 OPENER = ("Let's follow the forgotten letter. First Gabriel finishes a cheerful call, before Andrea brings up the tax "
  'audit.')
 TRANSITION = "Now let's listen to the entire dialogue once more."
@@ -76,9 +77,9 @@ STORY = [('gabriel',
  ('gabriel', 'Fais-lui un café.', 'Make her a coffee.', [(24, 'Fais-lui un café')], '')]
 WALK = [(0,
   None,
-  "'Cecile! Yes, great. Call me back. Bye.' The command 'call me back' attaches the word for 'me' after the "
-  'action with a hyphen. The final word is an informal goodbye. Gabriel has finished a call with his '
-  'client.'),
+  'Gabriel greets Cecile and gives an enthusiastic yes, saying that things sound great. He asks her to call '
+  'back and finishes with a casual goodbye. The request to call back is a familiar command. A hyphen joins '
+  'the command to a short object word identifying the person asking for the return call.'),
  (1,
   'Le contrôle fiscal.',
   "'The tax audit.' Literally 'the fiscal control'. The describing word follows the thing being checked: the "
@@ -89,16 +90,17 @@ WALK = [(0,
   'for letter is feminine.'),
  (2,
   None,
-  "'Yes, I sent it.' The small word for 'it' goes before the helper 'have' and loses its vowel. It refers to "
-  'the letter, so the written past form ends with an extra feminine e.'),
+  "'Yes, I sent it.' The object word refers back to the letter and comes before the helping word. It loses "
+  'its vowel before the next word. Because the letter is feminine, the completed action has an additional '
+  'feminine ending in writing.'),
  (3,
   "J'ai pris la lettre.",
   "'I took the letter.' The completed action uses 'have' and the past form of 'take'. Gabriel tries to "
   'remember the steps he followed.'),
  (3,
   "Je l'ai mise dans une enveloppe.",
-  "'I put it in an envelope.' Again the small object means the letter. Its feminine gender explains the "
-  "extra e on the written form of 'put'."),
+  "'I put it in an envelope.' The object word again refers to the letter. Its feminine gender gives the "
+  'completed action an extra ending in writing.'),
  (4,
   None,
   "'Oh no!' This short reaction replaces a swearword in the episode. Gabriel suddenly realises that putting "
@@ -113,8 +115,9 @@ WALK = [(0,
   'tries to shift the blame for his own mistake.'),
  (7,
   None,
-  "'No, Gabriel, you can't always fix everything!' The short word for 'we' or 'one' refers to people in "
-  "general here. Mathias rejects Gabriel's easy reassurance."),
+  "'No, Gabriel, you can't always fix everything!' The short word before the action can refer to a group "
+  'including the speaker, or to people in general. Here Mathias is talking about people in general as he '
+  "rejects Gabriel's easy reassurance."),
  (8,
   None,
   "'We had a call this morning.' The completed past of 'have' pairs a present helper with the short past "
