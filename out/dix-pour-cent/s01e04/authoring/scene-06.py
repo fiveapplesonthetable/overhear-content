@@ -32,20 +32,55 @@ STORY = [
     ('audrey', "Quoi? Mais il sait que j'ai eu deux enfants récemment?", 'What? But does he know I had two children recently?', [(190, "il sait que j'ai"), (190, 'eu deux enfants ?')], ''),
     ('mathias', "Ça n'a aucune importance!", "That doesn't matter at all!", [(191, "Ça n'a aucune importance.")], ''),
 ]
-WALK = [
-    (0, None, "'Sweetheart, do it for Mummy.' Notice the hyphenated command at the start: 'do it'. Then she turns back to Mathias."),
-    (1, None, "'Tell me about this Augustin. What's his surname?' Literally 'his name of family'."),
-    (2, None, "'He's just called Augustin. He's a web star.' Like a lot of young online comedians in France, he only uses his first name."),
-    (3, None, "'I don't know anything about all that. I even turned off the Wi-Fi!' Literally 'I have even cut the Wi-Fi'."),
-    (4, None, "'It's bad for young brains.' Audrey is a very protective new mother. Mathias holds up his phone."),
-    (5, None, "'Look, this is the best of his videos.' The word for 'the best' has a feminine ending here to match 'video'."),
-    (6, None, "'Mathias, he's twelve years old!' Here, Augustin is actually twenty-four, but to Audrey he looks like a schoolboy."),
-    (7, None, "'He's young, but very talented. Like Xavier Dolan.' Mathias compares him to the famous young Canadian director."),
-    (8, None, "'Really? Sweetheart, do you want a fruit compote?' Audrey is only half listening as she feeds her daughter."),
-    (9, None, "'It's the story of an ecologist stripper. Very funny, very modern.' Notice the short casual word for 'ecologist' or 'green'."),
-    (10, None, "'It's the perfect film for your comeback.' The word for 'return' also means an actor's comeback."),
-    (11, None, "'I love the subject. But what's my part?' Audrey likes the sound of the comedy, assuming she plays a sensible supporting role."),
-    (12, None, "'The ecologist stripper.' Mathias says it without blinking."),
-    (13, None, "'What? But does he know I had two children recently?' Audrey has just had two babies in two years, and the idea of pole dancing makes her eyes widen."),
-    (14, None, "'That doesn't matter at all!' Literally 'that has no importance'. For Mathias, nothing stands in the way of a contract. Let's hear the whole conversation again."),
-]
+WALK = [(0,
+  None,
+  "'Sweetheart, do it for Mummy.' Notice the hyphenated command at the start: 'do it'. Then she turns back to "
+  'Mathias.'),
+ (1, None, "'Tell me about this Augustin. What's his surname?' Literally 'his name of family'."),
+ (2,
+  None,
+  "'He's just called Augustin. He's a web star.' The word for 'just' means 'simply' here: he uses only the one "
+  "name. The last two little sounds join 'of' and 'the' before 'web'."),
+ (3,
+  None,
+  "'I don't know anything about all that. I even turned off the Wi-Fi!' Literally 'I have even cut the Wi-Fi'."),
+ (4,
+  None,
+  "'It's bad for young brains.' Hear the word meaning 'for' between 'bad' and 'brains'. The same pattern lets you "
+  'say that something is good or bad for a person or a thing.'),
+ (5,
+  None,
+  "'Look, this is the best of his videos.' The word for 'the best' has a feminine ending here to match 'video'."),
+ (6,
+  None,
+  "'Mathias, he's twelve years old!' Audrey exaggerates how young he looks. Age uses 'he has' in French, followed "
+  'by the number and the word for years.'),
+ (7,
+  None,
+  "'He's young, but very talented. Like Xavier Dolan.' The short word before the director's name means 'like'. It "
+  'makes a comparison, rather than saying that the two men are the same person.'),
+ (8,
+  None,
+  "'Really? Sweetheart, do you want a fruit compote?' The form meaning 'you want' belongs to a casual "
+  'conversation with one person. Audrey uses it with her daughter as she offers food.'),
+ (9,
+  None,
+  "'It's the story of an ecologist stripper. Very funny, very modern.' Notice the short casual word for "
+  "'ecologist' or 'green'."),
+ (10, None, "'It's the perfect film for your comeback.' The word for 'return' also means an actor's comeback."),
+ (11,
+  None,
+  "'I love the subject. But what's my part?' The possessive before 'part' means 'my'. It follows the masculine "
+  'word for a role, even though Audrey is a woman.'),
+ (12,
+  None,
+  "'The ecologist stripper.' A short answer can repeat just the role, without a whole sentence. Both words "
+  'describe a woman here; the second is the informal word for being green or environmentally minded.'),
+ (13,
+  None,
+  "'What? But does he know I had two children recently?' She uses the same ordinary past construction as before: "
+  "a helping form of 'have', then the past form meaning 'had'. The last word places it in the recent past."),
+ (14,
+  None,
+  "'That doesn't matter at all!' Literally 'that has no importance'. The feminine form of 'no' matches the "
+  'feminine word for importance. This is a stronger dismissal than simply saying it is not very important.')]
