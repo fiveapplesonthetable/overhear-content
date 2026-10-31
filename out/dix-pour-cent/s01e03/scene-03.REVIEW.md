@@ -45,6 +45,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, the mother and the daughter.' The film has a mother and a daughter, and the director wants these two.
 - 'We've always wanted to act together.' The everyday subject word refers to both women here, but it goes with a singular helping word in French. Nathalie describes a wish they have shared for a long time.
 - 'It's great!' Laura uses a casual, cheerful word that is the same as in English.
-- 'Does the director know we're mother and daughter?' The opening expression introduces a question that can be answered positively or negatively. French also has a feminine word for a woman directing a film, which fits Solveig here.
+- 'Does the director know we're mother and daughter?' The opening expression introduces a question that can be answered positively or negatively. French also has a feminine word for a woman directing a film, which fits the female director here.
 - 'No, she doesn't know anything at all.' The negative word rules out any knowledge of the family relationship. An extra expression at the end strengthens the denial.
 - 'What an adventure!' The word for 'what' takes a feminine ending here, to match 'adventure'. Here's the whole scene again.
