@@ -105,7 +105,7 @@ WALK = [(0,
   None,
   "'Stop it, Andréa. I know who you are.' Colette keeps polite address while rejecting the invitation. The first "
   'action is a command; the last is the matching polite form of being.'),
- (6, None, "'Really?' Andréa replies with two short words that mean 'oh really?' or 'is that so?'."),
+ (6, None, "'Really?' Andréa uses a short expression to ask for confirmation when she is surprised."),
  (7,
   None,
   "'Yes. I see everything in your bills.' The word after 'see' stands alone for 'everything'. It is different "

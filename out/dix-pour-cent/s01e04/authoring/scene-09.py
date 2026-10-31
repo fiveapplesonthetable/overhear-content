@@ -80,8 +80,8 @@ WALK = [(0, None, "'Hippolyte won't be here for dinner.' Future tense of 'to be'
   'and uses a rising voice. The source does not specify that he is learning acting lines.'),
  (2,
   None,
-  "'He doesn't say, but I doubt it.' The tiny word before 'doubt' means 'of it', because in French you doubt 'of' "
-  'something.'),
+  "'He doesn't say, but I doubt it.' French normally links the action of doubting to the uncertain fact with a "
+  'little connecting word. The short pronoun before the action replaces that connection and the fact together.'),
  (3,
   None,
   "'Is he still seeing Andréa's assistant?' The time word here means 'still', rather than 'always'. The action "
@@ -98,12 +98,11 @@ WALK = [(0, None, "'Hippolyte won't be here for dinner.' Future tense of 'to be'
   "'She's nice, isn't she?' Adding 'no?' at the end turns any statement into a friendly tag question."),
  (6,
   None,
-  "'I don't know her very well.' The short word for 'her' is before 'know'. Compare it with the article meaning "
-  "'the': it looks the same, but here there is an action after it, not a thing."),
+  "'I don't know her very well.' The short word for 'her' is before 'know'. The same spelling also serves as the "
+  'feminine article before a noun. Here it represents Camille and sits before the action.'),
  (7,
   None,
-  "'But she works at the agency!' Hear the same ending on 'works' as in the earlier question about him working. "
-  "This spoken form works with either 'he' or 'she'."),
+  "'But she works at the agency!' French uses the same spoken form of working for one man and for one woman."),
  (8,
   None,
   "'Not with me.' This short denial leaves out a full action word. After 'with', French uses the longer "
@@ -122,4 +121,4 @@ WALK = [(0, None, "'Hippolyte won't be here for dinner.' Future tense of 'to be'
   "'It's not very smart to go out with his agent's assistant.' The expression 'go out with' means 'date' here. "
   'Mathias frames his discomfort as a professional concern.'),
  (13, None, "'Tell him, then.' Command form of 'tell' joined by a hyphen to the word for 'to him'."),
- (14, None, "'Yes, I'll talk to him.' Near future again: 'I am going to talk to him'.")]
+ (14, None, "'Yes, I'll talk to him.' Near future: 'I am going to talk to him'.")]

@@ -30,23 +30,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hippolyte won't be here for dinner.' Future tense of 'to be' wrapped in the two-part negation.
 - 'Is he studying?' The action means reviewing or studying material. The question keeps ordinary statement order and uses a rising voice. The source does not specify that he is learning acting lines.
-- 'He doesn't say, but I doubt it.' The tiny word before 'doubt' means 'of it', because in French you doubt 'of' something.
+- 'He doesn't say, but I doubt it.' French normally links the action of doubting to the uncertain fact with a little connecting word. The short pronoun before the action replaces that connection and the fact together.
 - 'Is he still seeing Andréa's assistant?' The time word here means 'still', rather than 'always'. The action word 'see' can describe an ongoing romantic relationship, just as it can in English.
 - 'No idea. He doesn't tell me anything.' The negative wraps around the verb 'tells', with the word for 'anything' at the end.
 - 'Camille, is that right?' Literally 'that's it?', the easiest way to check a name or a fact.
 - 'She's nice, isn't she?' Adding 'no?' at the end turns any statement into a friendly tag question.
-- 'I don't know her very well.' The short word for 'her' is before 'know'. Compare it with the article meaning 'the': it looks the same, but here there is an action after it, not a thing.
-- 'But she works at the agency!' Hear the same ending on 'works' as in the earlier question about him working. This spoken form works with either 'he' or 'she'.
+- 'I don't know her very well.' The short word for 'her' is before 'know'. The same spelling also serves as the feminine article before a noun. Here it represents Camille and sits before the action.
+- 'But she works at the agency!' French uses the same spoken form of working for one man and for one woman.
 - 'Not with me.' This short denial leaves out a full action word. After 'with', French uses the longer independent form of 'me'. Mathias tries to distance himself from Camille.
 - 'He could marry her!' The form of 'can' makes this a possibility, not a statement of what he wants. The expression for getting married is self-directed and uses 'with' before the partner.
 - 'What on earth are you talking about?' Literally 'what is it that you are telling?'. Mathias nearly chokes on his wine.
 - 'I'm joking, Mathias.' Catherine uses a useful everyday action word for 'to joke' or 'to kid'.
 - 'It's not very smart to go out with his agent's assistant.' The expression 'go out with' means 'date' here. Mathias frames his discomfort as a professional concern.
 - 'Tell him, then.' Command form of 'tell' joined by a hyphen to the word for 'to him'.
-- 'Yes, I'll talk to him.' Near future again: 'I am going to talk to him'.
+- 'Yes, I'll talk to him.' Near future: 'I am going to talk to him'.
 
 Primaryvideo: private E4dual MP4id1619500213,12frames799–847s. Mathias cooks in the kitchen while Catherine talks. Correct adult pair; restored “Il révise?” without inventing acting lines and kept the marriage remark hypothetical. Omitted the ambiguous short concession between their replies.
 
 Full original French audio and primary video audited; lesson keeps the source situation and speakers. Learner adaptations are disclosed, and no false source register contrast is taught.
 
 Art repair: built-in imagegen; reference art/style/fr-01-agence.webp for house style. Prompt: Mathias cooks at his home kitchen counter while Catherine talks to him. Rounded flat cartoon, canonical character hair/clothes, one dominant palette, no text/logos/actor likeness. Generated composition inspected; saved1024squareWebP.
+
+Production speech polish: replaced English-only teaching with complete grammatical descriptions after three seed/speed retakes still dropped isolated quoted function words. Translation glosses, all native segments, speaker order, timing gaps and notes remain exact. Scene09 also removes a stale comparison to an earlier working question now source-corrected to studying.
+
+English precision edit: removed ambiguous again from the near-future explanation. Native dialogue, full translation glosses, notes, order and gaps unchanged.
