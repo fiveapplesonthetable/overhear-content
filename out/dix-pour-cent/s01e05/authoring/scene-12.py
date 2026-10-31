@@ -109,8 +109,8 @@ WALK = [(0,
   'register.'),
  (1,
   None,
-  "'That's Jean Gabin's armchair.' The connecting word of marks whose armchair it is. French places that "
-  'word before the full name, where English can attach a possessive ending.'),
+  "'That's Jean Gabin's armchair.' Arlette uses the dog's name to say whose armchair it is. The connecting "
+  'word of goes before the full name in French, where English can attach a possessive ending.'),
  (2,
   None,
   "'Marie-Sophie doesn't want your flowers.' Arlette uses the familiar form of your, although Mathias "
