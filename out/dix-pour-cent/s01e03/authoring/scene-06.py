@@ -79,8 +79,7 @@ WALK = [(0,
   'suspicious.'),
  (3,
   'Les assistantes ne sont pas invitées.',
-  "'Assistants don't get invited.' The written words for 'assistants' and 'invited' both have feminine "
-  'plural endings. Herve uses that form while including himself in the complaint.'),
+  "'Assistants don't get invited.' Both French words end with the letters used for a feminine plural. Herve uses that form while including himself in the complaint."),
  (3,
   "C'est quoi cette histoire?",
   "'What's going on?' Literally 'it's what, this story?'. A very common, slightly suspicious question. Hervé "
