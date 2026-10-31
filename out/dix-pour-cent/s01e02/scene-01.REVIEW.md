@@ -49,4 +49,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'At what age do these whims stop?' The demonstrative these is plural, matching whims. At the end, the pronoun they is attached to the verb with a hyphen to make an inverted question. Calling her grief a whim is the insult.
 - 'Sorry.' Andréa realises it immediately. She is a woman, so on paper the word gets an extra e.
 - 'Why do I stay with this agency?' Françoise asks a question with no change of word order at all: in speech, just raise your voice at the end.
-- 'Yes, it's perfect.' Perfect is masculine singular because the implicit subject is the arrangement or wreath. The florist shows them the finished order, though their working relationship is anything but perfect.
+- 'Yes, it's perfect.' This approves the finished arrangement as a whole. Perfect also works as a short response when someone checks a plan or an order. The florist shows them the wreath, though the agents' relationship is in trouble.
