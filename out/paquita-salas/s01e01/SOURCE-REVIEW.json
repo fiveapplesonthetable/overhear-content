@@ -432,17 +432,17 @@
     {
       "story_index": 9,
       "speaker": "paquita",
-      "learner_spanish": "Magüi, ¿ha llamado Maca?",
-      "complete_english": "Magüi, has Maca called?",
+      "learner_spanish": "¿Ha llamado Maca?",
+      "complete_english": "Has Maca called?",
       "source_cues": [
         {
           "cue": 22,
-          "exact_caption_fragment": "Magüi, ¿ha llamado Maca?",
+          "exact_caption_fragment": "¿ha llamado Maca?",
           "timecode": "00:01:00,600 --> 00:01:02,520",
           "text": "Eh... Magüi, ¿ha llamado Maca?"
         }
       ],
-      "adaptation_note": "Removed the opening hesitation. Maca is the familiar short name for Macarena García, not another client."
+      "adaptation_note": "Removed the opening hesitation and optional vocative Magüi. Three synthesized takes did not independently verify the name realization, so the beginner adaptation omits that address without changing who asks or the question about Maca. Maca is the familiar short name for Macarena García, not another client."
     },
     {
       "story_index": 10,
@@ -504,8 +504,8 @@
   ],
   "annotations": {
     "native_segments_annotated": 40,
-    "lexicon_entries": 61,
-    "unique_written_tokens": 64,
+    "lexicon_entries": 60,
+    "unique_written_tokens": 63,
     "translations_from": "Manually authored complete STORY translations, reused by exact full-text match; not extracted by splitting apostrophes.",
     "forms": "Written present tables for all used verbs, relevant preterite/subjunctive/perfect/non-finite tables, and noun/adjective forms. Common-gender person nouns have both article rows rather than a false single-gender claim.",
     "examples": "Two manually written Spanish/English teaching examples per lexicon entry; examples are not represented as source dialogue.",
@@ -516,7 +516,9 @@
       "ordinary_lemmas": 55,
       "proper_names": 6,
       "basis": "Specific checked primary sources, mainly RAE DLE/DPD; scholarly/official name sources. Reconstructed forms retain an asterisk; uncertain specific name histories are explicitly uncertain.",
-      "review_path": "pilot-source-discovery/spanish-pilot/es-en.origins-review.json"
+      "review_path": "pilot-source-discovery/spanish-pilot/es-en.origins-review.json",
+      "spoken_name_lemmas": 5,
+      "retained_unspoken_name_history": "Magüi remains a source-attested assistant label/history; the optional vocative is omitted from the synthesized question."
     },
     "targeted_context_checks": [
       "llevar elapsed duration versus client representation",
@@ -589,5 +591,23 @@
     "proof_path": "pilot-source-discovery/spanish-pilot/art-proof.json",
     "prompt_path": "pilot-source-discovery/spanish-pilot/art-prompt.txt",
     "visually_reviewed": true
-  }
+  },
+  "production_adaptations": [
+    {
+      "story_index": 9,
+      "original_source_question": "Magüi, ¿ha llamado Maca?",
+      "learner_question": "¿Ha llamado Maca?",
+      "complete_english": "Has Maca called?",
+      "reason": "Production could not independently verify the name realization after three synthesized attempts. Root authorized omitting only the optional vocative; the speaker, question and all other native words remain unchanged. This is an explicit beginner adaptation, not a waiver for unverified pronunciation.",
+      "changed_native_segments": [
+        10,
+        33,
+        50
+      ],
+      "changed_narrator_segment": 34,
+      "old_audio_ledger": "narrator-runs/codex-seven-tasters/es001/peer-judgements.json",
+      "old_audio_sha256": "f62da6d1390e67840f0271f0aac2aae6dc5b9322cf87ee4f0cb678ae1adb7c3e",
+      "old_ledger_does_not_approve_new_audio": true
+    }
+  ]
 }
