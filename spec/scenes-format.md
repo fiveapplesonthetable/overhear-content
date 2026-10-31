@@ -60,7 +60,7 @@ English title/intro so users can see the scope.
 
 Every cue overlapping the declared interval must be fully inside it (never cut through a cue), and every cue in that
 interval must belong to a scene. All scene boundaries and script source citations must stay in the declared interval;
-scripts must cite the same hashed subtitle file. Ordinary notes, script, teaching, cast, art and source-fragment checks
+scripts must cite the same hashed subtitle file. Every original story line must have an indexed citation whose fragment occurs in that line as well as in the source cue; empty citation lists and out-of-range line indexes fail. Ordinary notes, script, teaching, cast, art and source-fragment checks
 still apply. The excerpt declaration does not approve audio, word timing, native accuracy or publication. Without this
 object the existing full-episode coverage and end-time checks apply unchanged. It is an optional v1 extension.
 
