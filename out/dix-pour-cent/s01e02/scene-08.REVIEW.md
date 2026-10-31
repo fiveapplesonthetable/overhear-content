@@ -23,7 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Hippolyte | Non, mais je suis content d'être venu. | No, but I'm glad I came. | #256 00:14:45: Non, mais je suis content d'être venu | verbatim |
 | 12 | Camille | Qu'est-ce que je peux faire pour vous? | What can I do for you? | #257 00:14:46: Qu'est-ce que je peux faire pour vous | verbatim |
 | 13 | Hippolyte | Commence par me tutoyer. | Start by using the familiar you with me. | #258 00:14:48: Commence par te détendre | adapted: Restores the original request to resume familiar address, rather than the backtranslated invented request to relax. Condenses Déjà commencer par me retutoyer. |
-| 14 | Hippolyte | Tu viens prendre un café en terrasse? | Will you come for a coffee on the terrace? | #259 00:14:51: prendre un café en terrasse | verbatim |
+| 14 | Hippolyte | Tu viens prendre un café sur la terrasse? | Will you come for a coffee on the terrace? | #259 00:14:51: prendre un café en terrasse | adapted: Original French audio says sur la terrasse, the agency terrace, not en terrasse at an outdoor café. |
 | 15 | Camille | Je suis occupée. Il faut un rendez-vous. | I'm busy. You need an appointment. | #260 00:14:53: Je suis occupée. Il faut un rendez-vous | verbatim |
 | 16 | Hippolyte | Eh bien... merci quand même. | Well... thanks anyway. | #261 00:14:58: Eh bien... merci quand même | verbatim |
 | 17 | Hippolyte | Bonne journée. | Have a nice day. | #262 00:15:01: Bonne journée | verbatim |
@@ -44,7 +44,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, but I'm glad I came.' The word for 'glad' is in the masculine form, because he is a man. Camille stays professional.
 - 'What can I do for you?' Camille continues addressing him politely. For introduces the person she offers to help. The shift from their earlier familiar chat makes the offer sound like an assistant speaking to a client.
 - 'Start by using the familiar you with me.' The word for addressing someone familiarly describes the change Hippolyte wants. He asks Camille to return to the way she spoke before discovering he was an actor.
-- 'Will you come for a coffee on the terrace?' Take a coffee means have or drink a coffee here. The ending places it at the outdoor café tables; he is inviting her to leave the office with him.
+- 'Will you come for a coffee on the terrace?' Take a coffee means have or drink a coffee. On links the invitation to a place, and the terrace includes the feminine word for the. He is suggesting a break on the agency's terrace.
 - 'I'm busy.' Here the word for 'busy' has a feminine ending, because Camille is a woman.
 - 'You need an appointment.' This phrase means 'it is necessary', 'one needs'.
 - 'Well... thanks anyway.' The last two words mean 'all the same', a polite way to accept a no.
