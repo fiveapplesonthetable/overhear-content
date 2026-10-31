@@ -10,13 +10,25 @@ PAIR = 'fr-en'
 LABELS = {'gabriel': 'Gabriel', 'laura': 'Laura', 'nathalie': 'Nathalie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = "Now Gabriel has taken Laura into his office. He has a surprise for her: a script by the famous Scandinavian director Solveig Akerfelt, and he says it's for her alone. At the same moment, down the corridor, Mathias is talking to his own client, Nathalie. First in French; just listen for the excitement, and then the surprise."
+INTRO = ('Gabriel offers Laura Smet a film script that he says is exclusive to her. Meanwhile, another agent, '
+ 'Mathias, has given the same script to her mother Nathalie Baye. When they meet, the surprise is that the '
+ "director wants them both. This shortened exchange lets Gabriel relay the agents' explanations. Listen to "
+ 'the French first.')
 OPENER = "Let's take it apart. Laura sits down, and Gabriel puts a thick script in her hands."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "So Gabriel's 'exclusive' script was in Mathias's hands too. Right after this, Gabriel accuses Mathias of using spies to get it, and Mathias calmly says that a mother and daughter on one poster is good for the whole agency. See you next time!"
 CLOSING = ('nathalie', 'À demain!')
-STORY = [('laura', 'Une bonne histoire?', 'A good story?', [(54, 'Une bonne histoire ?')], ''),
- ('gabriel', "C'est un très bon scénario.", "It's a very good script.", [(55, 'scénarios aussi bons')], ''),
+STORY = [('laura',
+  'Une bonne histoire?',
+  'A good story?',
+  [(54, 'Une bonne histoire ?')],
+  'Adapted: Mathias asks Nathalie about the story in the source; Laura voices the same question here.'),
+ ('gabriel',
+  "C'est un très bon scénario.",
+  "It's a very good script.",
+  [(55, 'scénarios aussi bons')],
+  'Adapted: Nathalie praises the screenplay to Mathias in the source; Gabriel relays that praise to Laura '
+  'here.'),
  ('gabriel',
   'Laura Smet, Solveig Akerfelt vous veut pour son prochain film.',
   'Laura Smet, Solveig Akerfelt wants you for her next film.',
@@ -33,20 +45,20 @@ STORY = [('laura', 'Une bonne histoire?', 'A good story?', [(54, 'Une bonne hist
   "Toi seulement. C'est pour toi!",
   "Only you. It's for you!",
   [(63, 'Toi seulement'), (64, "C'est pour toi")],
-  ''),
+  "Adapted: combines Gabriel's reassurance to Laura with Mathias's similar reassurance to Nathalie."),
  ('gabriel',
   "C'est le seul exemplaire en France. Je te jure, c'est une bombe!",
   "It's the only copy in France. I swear, it's dynamite!",
   [(65, "C'est le seul exemplaire en France"), (67, 'je te jure'), (68, "c'est une bombe")],
   ''),
- ('laura', "J'ai hâte de le lire.", "I can't wait to read it.", [(70, "J'ai hâte de")], ''),
+ ('nathalie', "J'ai hâte de le lire.", "I can't wait to read it.", [(70, "J'ai hâte de")], ''),
  ('laura', 'Exclusif, hein?', 'Exclusive, huh?', [(77, 'exclusif')], ''),
  ('laura', "C'est le même rôle?", 'Is it the same part?', [(79, "C'est le même rôle ?")], ''),
  ('gabriel',
   'Non, la mère et la fille.',
   'No, the mother and the daughter.',
   [(79, 'Non, la mère et la fille')],
-  ''),
+  "Mathias gives this explanation in the source; folded into Gabriel's role for the three-voice lesson."),
  ('nathalie',
   'On a toujours voulu jouer ensemble.',
   "We've always wanted to act together.",
@@ -62,7 +74,7 @@ STORY = [('laura', 'Une bonne histoire?', 'A good story?', [(54, 'Une bonne hist
   'Non, elle ne sait rien du tout.',
   "No, she doesn't know anything at all.",
   [(85, 'Non, elle ne sait rien du tout')],
-  ''),
+  "Mathias answers in the source; folded into Gabriel's role for the three-voice lesson."),
  ('nathalie', 'Quelle aventure!', 'What an adventure!', [(85, 'Quelle aventure')], '')]
 WALK = [(0,
   None,
