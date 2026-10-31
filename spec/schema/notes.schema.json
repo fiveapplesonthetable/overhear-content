@@ -185,7 +185,10 @@
           "minLength": 1
         },
         "stress": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "minLength": 1
         },
         "pos": {
@@ -333,7 +336,37 @@
           ],
           "description": "Only for plural-only nouns (деньги, выборы, les vacances): \"pl\". Never put this in gender."
         }
-      }
+      },
+      "anyOf": [
+        {
+          "properties": {
+            "stress": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        {
+          "properties": {
+            "pos": {
+              "const": "name"
+            },
+            "stress": {
+              "type": "null"
+            }
+          }
+        },
+        {
+          "properties": {
+            "lemma": {
+              "pattern": "[ぁ-ヿ㐀-鿿가-힯ᄀ-ᇿ؀-ۿ𠀀-𱍏]"
+            },
+            "stress": {
+              "type": "null"
+            }
+          }
+        }
+      ]
     }
   }
 }
