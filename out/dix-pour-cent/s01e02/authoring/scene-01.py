@@ -85,7 +85,7 @@ STORY = [('francoise', 'Et la cause du décès?', 'And the cause of death?', [(5
   'Why do I stay with this agency?',
   [(50, 'Pourquoi je reste dans cette agence ?')],
   ''),
- ('andrea', "Oui, c'est parfait.", "Yes, it's perfect.", [(52, "Oui, c'est parfait")], '')]
+ ('francoise', "Oui, c'est parfait.", "Yes, it's perfect.", [(52, "Oui, c'est parfait")], '')]
 WALK = [(0,
   None,
   "'And the cause of death?' Françoise uses a rather formal word for death, the kind you see on official "

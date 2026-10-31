@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Andréa | À quel âge ces caprices s'arrêtent-ils? | At what age do these whims stop? | #47 00:02:12: À quel âge ces caprices s'arrêtent-ils ? | verbatim |
 | 16 | Andréa | Désolée. | Sorry. | #48 00:02:17: Désolé | verbatim |
 | 17 | Françoise | Pourquoi je reste dans cette agence? | Why do I stay with this agency? | #50 00:02:23: Pourquoi je reste dans cette agence ? | verbatim |
-| 18 | Andréa | Oui, c'est parfait. | Yes, it's perfect. | #52 00:02:29: Oui, c'est parfait | verbatim |
+| 18 | Françoise | Oui, c'est parfait. | Yes, it's perfect. | #52 00:02:29: Oui, c'est parfait | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
