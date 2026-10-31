@@ -12,8 +12,9 @@ SOURCE_FILE = 'sources/behind-the-scenes/s01/e01.zh.srt'
 SOURCE_NOTE = ('A short continuous original-Mandarin taster. The native sidecar is a reviewed excerpt transcript from '
  'burned Chinese captions, not a complete episode subtitle file. Spoken words were checked with independent '
  'unprompted cached CPU ASR; caption-resolved differences are documented. English translations are written '
- 'from the Chinese, not backtranslated into it. Punctuation and one condensed student greeting are '
- 'editorial; no direct source-audio listening is claimed.')
+ 'from the Chinese, not backtranslated into it. Punctuation is editorial. One brief offscreen greeting '
+ 'at317.4–318.3s is omitted because its individual speaker is not corroborated; the retained17-cue native '
+ 'transcript and source interval are unchanged. No direct source-audio listening is claimed.')
 INTRO = ('Here is a short Mandarin taster from Behind the Scenes. Xiaogu meets her classmate Qin Xiao outside their '
  'college. One of them has been waiting so they can visit Professor Fang together. Listen first, then we '
  'will unpack the exchange in English.')
@@ -60,12 +61,6 @@ STORY = [('bu_xiaogu',
   [(8, '你说这姑娘，怎么一点都不刻薄呢')],
   'Punctuation supplied for reading.'),
  ('bu_xiaogu', '走吧。', "Let's go.", [(9, '走吧')], 'Punctuation supplied for reading.'),
- ('qin_xiao',
-  '方老师。',
-  'Professor Fang.',
-  [(10, '方老师')],
-  'Punctuation supplied for reading. The brief offscreen student greeting is represented by Qin Xiao; this '
-  'condensed greeting is not a claim of exact source diarization.'),
  ('fang',
   '小谷，秦箫。',
   'Xiaogu, Qin Xiao.',
@@ -126,41 +121,37 @@ WALK = [(0,
  (7,
   None,
   "'Just look at her. How come she isn't the slightest bit mean?' The words for a little combine with all "
-  'and not to mean not the slightest bit. Xiaogu playfully praises her friend by saying she is completely '
-  'free of meanness.'),
+  'and not to mean not the slightest bit. Xiaogu answers the earlier jab with an exaggerated claim that her '
+  'friend is not mean at all; this is an ironic tease.'),
  (8,
   None,
   "'Let's go.' The word for go is followed by a small ending that turns it into a suggestion. It is a handy "
-  'way to invite someone to leave with you.'),
+  'way to invite someone to leave with you. They go inside to meet the professor.'),
  (9,
-  None,
-  "'Professor Fang.' A title alone can greet someone and get their attention. The word for teacher is also a "
-  'respectful way to address a university professor.'),
- (10,
   None,
   "'Xiaogu, Qin Xiao.' The professor uses the shortened given name for one student and the full name for the "
   'other. Names keep their normal spoken form when used to call someone.'),
- (11,
+ (10,
   None,
   "'Come on in.' Repeating come makes the invitation welcoming and immediate. Chinese can repeat an ordinary "
   'action word like this without adding a separate word for please.'),
- (12,
+ (11,
   None,
   "'Both of your initial thesis drafts have been approved.' The word for you has a plural marker, and two "
   "makes the number explicit. Both tells us that the approval applies to each student's draft."),
- (13,
+ (12,
   None,
   "'Next, make good use of the time.' The expression for make good use literally includes grasp tightly. "
   'Time is what they should grasp, meaning they should get on with the work promptly.'),
- (14,
+ (13,
   None,
   "'Hand in the final draft.' The final draft is placed before hand in. The little opening word sets up that "
   'object first, directing attention to what needs to be submitted.'),
- (15,
+ (14,
   None,
   "'Get ready for your thesis defence.' The word for prepare follows the word for thesis defence. The action "
   'at the beginning asks them to do the preparation well, rather than merely to begin it.'),
- (16,
+ (15,
   None,
   "'Yes, Professor.' The short affirmative accepts the instructions. Adding the respectful title makes it a "
   'direct reply to the professor without repeating the whole task.')]
