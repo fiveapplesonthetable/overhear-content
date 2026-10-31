@@ -12,13 +12,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Andréa | Non, Gabor, tu ne vas pas mourir. Je t'appelle demain. | No, Gabor, you're not going to die. I'll call you tomorrow. | #396 00:21:51: Non, Gabor, tu ne vas pas mourir<br>#400 00:22:01: Je t'appelle demain | verbatim |
 | 2 | Andréa | Désolée. Je suis là. | Sorry. I'm here. | #402 00:22:05: Désolée. Je suis là | verbatim |
-| 3 | Mathias | Hélène, vous pouvez compter sur nous. | Hélène, you can count on us. | #403 00:22:08: Hélène<br>#404 00:22:10: vous pouvez compter sur nous | verbatim |
+| 3 | Gabriel | Hélène, vous pouvez compter sur nous. | Hélène, you can count on us. | #403 00:22:08: Hélène<br>#404 00:22:10: vous pouvez compter sur nous | verbatim |
 | 4 | Hélène | Merci. Samuel n'a pas laissé de testament. | Thank you. Samuel didn't leave a will. | #405 00:22:13: Merci<br>#408 00:22:21: Samuel n'a pas laissé de testament | verbatim |
 | 5 | Hélène | J'hérite donc de toutes ses parts. | So I inherit all his shares. | #409 00:22:26: J'hérite donc de toutes ses parts | verbatim |
 | 6 | Hélène | Je ne veux pas travailler à l'agence. Je veux vendre. | I don't want to work at the agency. I want to sell. | #412 00:22:36: je veux vendre | adapted: Summarises her refusal to become involved in agency work before the explicit wish to sell. |
 | 7 | Andréa | À qui? | To whom? | #418 00:22:56: À qui ? | verbatim |
 | 8 | Hélène | Je ne sais pas. Au plus rapide. | I don't know. To the quickest. | #419 00:22:57: Je ne sais pas<br>#420 00:22:59: Au plus rapide | verbatim |
-| 9 | Mathias | On peut racheter les parts de Samuel. | We can buy Samuel's shares. | #426 00:23:12: On peut racheter les parts de Samuel | verbatim |
+| 9 | Andréa | On peut racheter les parts de Samuel. | We can buy Samuel's shares. | #426 00:23:12: On peut racheter les parts de Samuel | verbatim |
 | 10 | Hélène | Que voulez-vous dire, on? | What do you mean, we? | #427 00:23:20: Que voulez-vous dire | adapted: Makes the quoted on explicit to clarify Hélène's question. |
 | 11 | Mathias | Nous. Nous quatre. | Us. The four of us. | #428 00:23:22: Nous. Nous quatre | verbatim |
 | 12 | Andréa | Moi, je n'ai rien. Je suis locataire. | Me, I have nothing. I rent my flat. | #430 00:23:29: Moi j'ai rien<br>#431 00:23:31: je suis locataire | adapted: Restores ne in the spoken negative; locataire is translated as renting her home. |
@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, Gabor, you're not going to die.' The action word 'to go' plus another action word is the near future; here it's negative, so the two little words for 'not' wrap around the action word 'to go'.
 - 'I'll call you tomorrow.' French often uses the present for a near plan like this.
 - 'Sorry. I'm here.' The word for 'sorry' ends with an extra letter because Andréa is a woman. She hangs up and joins the others.
-- 'Hélène, you can count on us.' Mathias uses the formal 'you' with Samuel's widow. It's polite, and a bit cold.
+- 'Hélène, you can count on us.' Gabriel uses formal you to Samuel's widow. The polite address expresses respect, while count on us offers the support of the whole group.
 - 'Thank you. Samuel didn't leave a will.' The negative changes a will into no will: the short article before will is the one French normally uses after a negated have or leave. Here will means the inheritance document, not a future action.
 - 'So I inherit all his shares.' The word in the middle means 'so' or 'therefore'. Samuel's part of the agency now belongs to her.
 - 'I don't want to work at the agency. I want to sell.' Hélène builds two sentences the same way: the word for 'want', then another action word in its basic form. First negative, then positive.
