@@ -7,33 +7,34 @@ SCENE = 14
 TITLE = "On tourne la scène d'amour demain  (We Shoot the Love Scene Tomorrow)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'julie': 'Julie', 'samir': 'Samir'}
+LABELS = {'gabriel': 'Gabriel', 'julie': 'Julie', 'samir': 'Samir'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = ('Julie has been hurt in the greenhouse fall, but the director still needs the love scene filmed the next '
- 'day. Andrea tries to reassure him, then hears Julie suggest a symbolic alternative. Listen to the French '
- 'first and notice the different ways they talk about what must happen.')
+INTRO = ("The director and crew have fixed the next day's schedule, despite the actors' difficulties. Gabriel hears "
+ "Julie suggest a symbolic alternative to filming the love scene. The crew's scheduling lines are combined "
+ 'under the director in this learner version. Listen to the French first and notice the ways they talk about '
+ 'what must happen.')
 OPENER = 'The director starts with the shortage of time left for filming in the barn.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ("The schedule is fixed, and Julie's alternative is not convincing Andrea. You have heard how to describe "
+OUTRO = ("The schedule is fixed, and Julie's alternative is not convincing Gabriel. You have heard how to describe "
  'time remaining, say there is no choice and suggest what might be better. See you next time.')
 CLOSING = ('samir', 'À bientôt!')
 STORY = [('samir',
   'Avec tous ces retards, il nous reste une demi-journée dans la grange.',
   'With all these delays, we have half a day left in the barn.',
   [(252, 'Avec tous ces retards, il nous reste une demi-journée dans la grange')],
-  ''),
+  "Crew scheduling information is folded into the director's role to keep a three-role lesson."),
  ('samir',
   "J'ai dû réécrire le planning.",
   'I had to rewrite the schedule.',
   [(253, "J'ai dû réécrire le planning")],
-  ''),
+  "Crew scheduling information is folded into the director's role to keep a three-role lesson."),
  ('samir',
   "On tourne la scène d'amour demain.",
   'We shoot the love scene tomorrow.',
   [(254, "On tourne la scène d'amour demain")],
-  ''),
- ('andrea',
+  "Crew scheduling information is folded into the director's role to keep a three-role lesson."),
+ ('gabriel',
   "Ce n'est peut-être pas le bon moment.",
   'Maybe it is not the right time.',
   [(254, 'peut-être pas le bon moment')],
@@ -43,11 +44,11 @@ STORY = [('samir',
   'It is tomorrow, we have no choice!',
   [(255, "C'est demain, on n'a pas le choix")],
   ''),
- ('andrea',
+ ('gabriel',
   'On va y arriver, Samir.',
   'We are going to manage, Samir.',
   [(256, 'On va y arriver, Samir')],
-  ''),
+  "Andrea's brief reassurance is folded into Gabriel's role in this three-role lesson."),
  ('samir',
   'Si tu le dis. Dis-le aux acteurs, je suis trop occupé.',
   'If you say so. Tell the actors, I am too busy.',
@@ -63,19 +64,19 @@ STORY = [('samir',
   'It would be so much stronger to suggest it symbolically.',
   [(259, 'Ce serait tellement plus fort de le suggérer symboliquement')],
   ''),
- ('andrea', "C'est-à-dire?", 'Meaning what?', [(260, "C'est-à-dire")], ''),
+ ('gabriel', "C'est-à-dire?", 'Meaning what?', [(260, "C'est-à-dire")], ''),
  ('julie', 'Je ne sais pas.', "I don't know.", [(261, 'sais pas')], ''),
  ('julie',
   'Une rivière qui coule? Des animaux qui gambadent dans les bois?',
   'A flowing river? Animals frolicking in the woods?',
   [(262, 'Une rivière qui coule'), (262, 'Des animaux qui gambadent dans les bois')],
   ''),
- ('andrea',
+ ('gabriel',
   'Oui! Le public préférerait voir des lapins dans les bois.',
   'Yes! The audience would prefer to see rabbits in the woods.',
   [(263, 'Le public préférerait voir des lapins')],
   ''),
- ('andrea',
+ ('gabriel',
   "Plutôt que toi et JoeyStarr ensemble à l'écran!",
   'Rather than you and JoeyStarr together on screen!',
   [(264, 'plutôt que toi et JoeyStarr')],

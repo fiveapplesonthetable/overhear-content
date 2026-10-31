@@ -7,21 +7,21 @@ SCENE = 7
 TITLE = 'Comme un aimant  (Like a Magnet)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'gabriel': 'Gabriel', 'joey': 'JoeyStarr'}
+LABELS = {'andrea': 'Andréa', 'joey': 'JoeyStarr'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = ("Gabriel is meant to be listening to JoeyStarr's complaints about Julie, but his phone keeps distracting "
- 'him. Their conversation turns from the film-set argument to the woman Gabriel has met. Hear the French '
- 'first, and follow who is asking for attention.')
-OPENER = "JoeyStarr can see that Gabriel's mind is elsewhere. He asks whether he is boring him."
+INTRO = ("Andrea is meant to be listening to JoeyStarr's complaints about Julie, but her phone keeps distracting "
+ 'her. Their conversation turns from the film-set argument to the woman Andrea has met, Colette. Hear the '
+ 'French first, and follow who is asking for attention.')
+OPENER = "JoeyStarr can see that Andrea's mind is elsewhere. He asks whether he is boring her."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = ('Gabriel describes an attraction he cannot explain, and JoeyStarr applies the idea to his own clashes with '
+OUTRO = ('Andrea describes an attraction she cannot explain, and JoeyStarr applies the idea to his own clashes with '
  'Julie. Listen again for the expressions about giving attention and being drawn to someone. See you next '
  'time.')
-CLOSING = ('gabriel', 'Bonne soirée!')
+CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [('joey', "Dis-le si je t'ennuie.", "Say it if I'm boring you.", [(116, "Dis-le si je t'ennuie")], ''),
- ('gabriel',
-  "Non, excuse-moi! Regarde, j'écoute. Vas-y, je suis tout à toi.",
+ ('andrea',
+  "Non, excuse-moi! Regarde, j'écoute. Vas-y, je suis toute à toi.",
   "No, excuse me! Look, I'm listening. Go ahead, I'm all yours.",
   [(117, 'Non, excuse-moi'), (118, 'regarde'), (119, "J'écoute. Vas-y, je suis tout à toi")],
   ''),
@@ -30,7 +30,7 @@ STORY = [('joey', "Dis-le si je t'ennuie.", "Say it if I'm boring you.", [(116, 
   "I don't feel like it anymore now.",
   [(120, 'ai plus envie maintenant')],
   ''),
- ('gabriel',
+ ('andrea',
   "Allez, j'écoute! Et alors?",
   "Come on, I'm listening! And then?",
   [(120, "Allez, j'écoute"), (121, 'Et alors')],
@@ -40,7 +40,7 @@ STORY = [('joey', "Dis-le si je t'ennuie.", "Say it if I'm boring you.", [(116, 
   'I look like an idiot! Do you know what she is doing?',
   [(122, 'Je finis par passer pour un'), (123, "Tu sais ce qu'elle a fait")],
   ''),
- ('gabriel', 'Non.', 'No.', [(123, 'Non')], ''),
+ ('andrea', 'Non.', 'No.', [(123, 'Non')], ''),
  ('joey',
   "Elle n'avait pas son script avec elle.",
   "She didn't have her script with her.",
@@ -56,24 +56,24 @@ STORY = [('joey', "Dis-le si je t'ennuie.", "Say it if I'm boring you.", [(116, 
   "She takes it like a dirty rag! It's annoying.",
   [(126, 'Elle le prend'), (126, 'comme un torchon sale'), (127, "C'est agaçant")],
   ''),
- ('gabriel', 'Non, ça va.', "No, it's fine.", [(127, 'Non, ça va')], ''),
+ ('andrea', 'Non, ça va.', "No, it's fine.", [(127, 'Non, ça va')], ''),
  ('joey', 'Réponds!', 'Answer it!', [(128, 'Réponds')], ''),
- ('gabriel',
+ ('andrea',
   "D'accord. J'ai rencontré cette fille.",
   'Okay. I met this girl.',
   [(129, "D'accord"), (130, "j'ai rencontré cette")],
   ''),
- ('gabriel',
+ ('andrea',
   "Ce n'est pas mon genre. Elle est blonde, elle est normale!",
   "She's not my type. She's blonde, she's normal!",
   [(131, 'pas mon genre'), (132, 'elle est blonde'), (132, 'elle est normale')],
   ''),
- ('gabriel',
-  'Mais je suis attiré par elle comme un aimant.',
+ ('andrea',
+  'Mais je suis attirée par elle comme un aimant.',
   "But I'm drawn to her like a magnet.",
   [(133, 'Mais je suis attiré par elle comme un aimant')],
   ''),
- ('gabriel',
+ ('andrea',
   "Tu vois? C'est très puissant.",
   "You see? It's very powerful.",
   [(134, 'Tu vois'), (134, 'puissant')],
@@ -86,7 +86,7 @@ STORY = [('joey', "Dis-le si je t'ennuie.", "Say it if I'm boring you.", [(116, 
 WALK = [(0,
   None,
   "'Say it if I'm boring you.' The word for it attaches after say in this instruction. The final action "
-  'includes the little word for you because JoeyStarr asks whether he is boring Gabriel.'),
+  'includes the little word for you because JoeyStarr asks whether he is boring Andrea.'),
  (1,
   None,
   "'No, excuse me! Look, I'm listening. Go ahead, I'm all yours.' The final expression literally says I am "
@@ -105,7 +105,7 @@ WALK = [(0,
   "other people's eyes. It is about the impression he makes, rather than physically going past someone."),
  (5,
   None,
-  "'No.' A brief negative reply can stand on its own. Here it answers whether Gabriel knows the incident "
+  "'No.' A brief negative reply can stand on its own. Here it answers whether Andrea knows the incident "
   'JoeyStarr is about to describe.'),
  (6,
   None,
@@ -121,7 +121,7 @@ WALK = [(0,
   'is a comparison that shows how insulting he found the gesture.'),
  (9,
   None,
-  "'No, it's fine.' The expression literally says that goes. With the short no in front, Gabriel is saying "
+  "'No, it's fine.' The expression literally says that goes. With the short no in front, Andrea is saying "
   'there is no problem with leaving the phone unanswered.'),
  (10,
   None,
@@ -130,11 +130,11 @@ WALK = [(0,
  (11,
   None,
   "'Okay. I met this girl.' The completed past introduces a new event: meeting someone. The word for this "
-  'points to one particular woman he now wants to discuss.'),
+  'points to one particular woman she now wants to discuss.'),
  (12,
   None,
   "'She's not my type. She's blonde, she's normal!' Type can refer to the kind of person someone is "
-  'attracted to. The two descriptions that follow are feminine because he is describing a woman.'),
+  'attracted to. The two descriptions that follow are feminine because she is describing a woman.'),
  (13,
   None,
   "'But I'm drawn to her like a magnet.' The comparison uses like before magnet. The word meaning by "

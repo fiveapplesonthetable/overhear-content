@@ -3,108 +3,6 @@
   "id": "dix-pour-cent-s01e05-scene-11",
   "lines": [
     {
-      "seg": 1,
-      "trans": "We promised to be here.",
-      "words": [
-        {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third-person singular"
-        },
-        {
-          "t": "promis",
-          "lemma": "promettre",
-          "pos": "verb",
-          "stress": "pʁɔmi",
-          "gloss": "promised!",
-          "gram": "past participle of 'promettre', used on its own as 'promise!'"
-        },
-        {
-          "t": "d'être",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "dɛtʁ",
-          "gloss": "to be, of being",
-          "gram": "de (to/of) + être: infinitive"
-        },
-        {
-          "t": "là.",
-          "lemma": "là",
-          "pos": "adv",
-          "stress": "la",
-          "gloss": "here",
-          "gram": "adverb, être là = to be here"
-        }
-      ]
-    },
-    {
-      "seg": 2,
-      "trans": "But we didn't say when!",
-      "words": [
-        {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "n'a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "na",
-          "gloss": "does not have, has not",
-          "gram": "ne (not) + a: 3rd person singular present of avoir"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "dit",
-          "lemma": "dire",
-          "pos": "verb",
-          "stress": "di",
-          "gloss": "said",
-          "gram": "past participle after the helper avoir"
-        },
-        {
-          "t": "quand!",
-          "lemma": "quand",
-          "pos": "adv",
-          "stress": "kɑ̃",
-          "gloss": "when",
-          "gram": "question word"
-        }
-      ]
-    },
-    {
-      "seg": 3,
-      "trans": "Hello? Yes, okay, I'm on my way.",
       "words": [
         {
           "t": "Allô?",
@@ -113,7 +11,13 @@
           "stress": "alo",
           "gloss": "hello (phone)",
           "gram": "interjection / exclamation ('allô')"
-        },
+        }
+      ],
+      "seg": 1,
+      "trans": "Hello?"
+    },
+    {
+      "words": [
         {
           "t": "Oui,",
           "lemma": "oui",
@@ -123,7 +27,21 @@
           "gram": "answer, repeated for emphasis"
         },
         {
-          "t": "d'accord,",
+          "t": "oui.",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        }
+      ],
+      "seg": 2,
+      "trans": "Yes, yes."
+    },
+    {
+      "words": [
+        {
+          "t": "D'accord,",
           "lemma": "accord",
           "pos": "noun",
           "stress": "dakɔʁ",
@@ -138,7 +56,9 @@
           "gloss": "I'm on my way",
           "gram": "'je' + present, 1st person singular"
         }
-      ]
+      ],
+      "seg": 3,
+      "trans": "Okay, I'm on my way."
     },
     {
       "seg": 4,
@@ -179,8 +99,6 @@
       ]
     },
     {
-      "seg": 5,
-      "trans": "A mate in trouble. I have to go.",
       "words": [
         {
           "t": "Un",
@@ -221,7 +139,13 @@
           "stress": "panad",
           "gloss": "jam, trouble, mess",
           "gram": "feminine singular; 'être dans la panade' = to be in a jam"
-        },
+        }
+      ],
+      "seg": 5,
+      "trans": "A mate in trouble."
+    },
+    {
+      "words": [
         {
           "t": "Je",
           "lemma": "je",
@@ -244,7 +168,7 @@
           "pos": "pron",
           "stress": "i",
           "gloss": "there",
-          "gram": "refers back to the place he claims he must go"
+          "gram": "part of il y a"
         },
         {
           "t": "aller.",
@@ -254,10 +178,12 @@
           "gloss": "go",
           "gram": "infinitive"
         }
-      ]
+      ],
+      "seg": 6,
+      "trans": "I have to go."
     },
     {
-      "seg": 6,
+      "seg": 7,
       "trans": "Yes, of course.",
       "words": [
         {
@@ -283,649 +209,11 @@
           "stress": "syʁ",
           "gloss": "sure",
           "gram": "part of bien sûr: of course"
-        }
-      ]
-    },
-    {
-      "seg": 7,
-      "trans": "But can I get my phone back before you leave?",
-      "words": [
-        {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "peux",
-          "lemma": "pouvoir",
-          "pos": "verb",
-          "stress": "pø",
-          "gloss": "can",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "récupérer",
-          "lemma": "récupérer",
-          "pos": "verb",
-          "stress": "ʁekypeʁe",
-          "gloss": "get back",
-          "gram": "infinitive"
-        },
-        {
-          "t": "mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "téléphone",
-          "lemma": "téléphone",
-          "pos": "noun",
-          "stress": "telefɔn",
-          "gloss": "phone",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "avant",
-          "lemma": "avant",
-          "pos": "prep",
-          "stress": "avɑ̃",
-          "gloss": "before",
-          "gram": "preposition of time"
-        },
-        {
-          "t": "ton",
-          "lemma": "ton",
-          "pos": "det",
-          "stress": "tɔ̃",
-          "gloss": "your",
-          "gram": "possessive, informal, masculine singular"
-        },
-        {
-          "t": "départ?",
-          "lemma": "départ",
-          "pos": "noun",
-          "stress": "depaʁ",
-          "gloss": "departure",
-          "gram": "masculine singular"
         }
       ]
     },
     {
       "seg": 8,
-      "trans": "The door is locked! I don't want to stay here.",
-      "words": [
-        {
-          "t": "La",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
-        },
-        {
-          "t": "porte",
-          "lemma": "porte",
-          "pos": "noun",
-          "stress": "pɔʁt",
-          "gloss": "door",
-          "gram": "feminine singular; a physical door"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present third-person singular"
-        },
-        {
-          "t": "fermée!",
-          "lemma": "fermer",
-          "pos": "verb",
-          "stress": "fɛʁme",
-          "gloss": "closed, shut",
-          "gram": "past participle, feminine singular (agrees with 'porte')"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "veux",
-          "lemma": "vouloir",
-          "pos": "verb",
-          "stress": "vø",
-          "gloss": "want",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "rester",
-          "lemma": "rester",
-          "pos": "verb",
-          "stress": "ʁɛste",
-          "gloss": "stay",
-          "gram": "infinitive"
-        },
-        {
-          "t": "ici.",
-          "lemma": "ici",
-          "pos": "adv",
-          "stress": "isi",
-          "gloss": "here",
-          "gram": "adverb of place"
-        }
-      ]
-    },
-    {
-      "seg": 9,
-      "trans": "Look, there's a window up there!",
-      "words": [
-        {
-          "t": "Regardez,",
-          "lemma": "regarder",
-          "pos": "verb",
-          "stress": "ʁəɡaʁde",
-          "gloss": "look",
-          "gram": "imperative, 2nd person plural"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "third-person masculine singular subject"
-        },
-        {
-          "t": "y",
-          "lemma": "y",
-          "pos": "pron",
-          "stress": "i",
-          "gloss": "there",
-          "gram": "part of il y a"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third-person singular"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "fenêtre",
-          "lemma": "fenêtre",
-          "pos": "noun",
-          "stress": "fənɛtʁ",
-          "gloss": "window",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "là-haut!",
-          "lemma": "là-haut",
-          "pos": "adv",
-          "stress": "lao",
-          "gloss": "up there",
-          "gram": "adverb of place"
-        }
-      ]
-    },
-    {
-      "seg": 10,
-      "trans": "Julie! What are you doing?",
-      "words": [
-        {
-          "t": "Julie!",
-          "lemma": "julie",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Julie (first name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Qu'est-ce",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kɛs",
-          "gloss": "what",
-          "gram": "opening of an everyday question expression"
-        },
-        {
-          "t": "que",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kə",
-          "gloss": "(question object)",
-          "gram": "object component in qu'est-ce que: what"
-        },
-        {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
-        },
-        {
-          "t": "faites?",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛt",
-          "gloss": "are doing",
-          "gram": "present, 2nd person plural/formal (irregular)"
-        }
-      ]
-    },
-    {
-      "seg": 11,
-      "trans": "Careful, Julie!",
-      "words": [
-        {
-          "t": "Attention,",
-          "lemma": "attention",
-          "pos": "noun",
-          "stress": "atɑ̃sjɔ̃",
-          "gloss": "careful, watch out",
-          "gram": "warning shout (from the feminine noun)"
-        },
-        {
-          "t": "Julie!",
-          "lemma": "julie",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Julie (first name)",
-          "gram": "proper name"
-        }
-      ]
-    },
-    {
-      "seg": 12,
-      "trans": "Didier? Didier!",
-      "words": [
-        {
-          "t": "Didier?",
-          "lemma": "didier",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Didier (JoeyStarr's real first name, Didier Morville)",
-          "gram": "proper noun ('Didier')"
-        },
-        {
-          "t": "Didier!",
-          "lemma": "didier",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Didier (JoeyStarr's real first name, Didier Morville)",
-          "gram": "proper noun ('Didier')"
-        }
-      ]
-    },
-    {
-      "seg": 13,
-      "trans": "What's going on?",
-      "words": [
-        {
-          "t": "Qu'est-ce",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kɛs",
-          "gloss": "what",
-          "gram": "opening of an everyday question expression"
-        },
-        {
-          "t": "qui",
-          "lemma": "qui",
-          "pos": "pron",
-          "stress": "ki",
-          "gloss": "(question subject)",
-          "gram": "subject component of qu'est-ce qui: what"
-        },
-        {
-          "t": "se",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "reflexive pronoun, part of se passer"
-        },
-        {
-          "t": "passe?",
-          "lemma": "se passer",
-          "pos": "verb",
-          "stress": "pas",
-          "gloss": "happens",
-          "gram": "present third-person singular; expression for an event happening"
-        }
-      ]
-    },
-    {
-      "seg": 15,
-      "trans": "We promised to be here.",
-      "words": [
-        {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third-person singular"
-        },
-        {
-          "t": "promis",
-          "lemma": "promettre",
-          "pos": "verb",
-          "stress": "pʁɔmi",
-          "gloss": "promised!",
-          "gram": "past participle of 'promettre', used on its own as 'promise!'"
-        },
-        {
-          "t": "d'être",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "dɛtʁ",
-          "gloss": "to be, of being",
-          "gram": "de (to/of) + être: infinitive"
-        },
-        {
-          "t": "là.",
-          "lemma": "là",
-          "pos": "adv",
-          "stress": "la",
-          "gloss": "here",
-          "gram": "adverb, être là = to be here"
-        }
-      ]
-    },
-    {
-      "seg": 17,
-      "trans": "But we didn't say when!",
-      "words": [
-        {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "n'a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "na",
-          "gloss": "does not have, has not",
-          "gram": "ne (not) + a: 3rd person singular present of avoir"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "dit",
-          "lemma": "dire",
-          "pos": "verb",
-          "stress": "di",
-          "gloss": "said",
-          "gram": "past participle after the helper avoir"
-        },
-        {
-          "t": "quand!",
-          "lemma": "quand",
-          "pos": "adv",
-          "stress": "kɑ̃",
-          "gloss": "when",
-          "gram": "question word"
-        }
-      ]
-    },
-    {
-      "seg": 19,
-      "trans": "Hello? Yes, okay, I'm on my way.",
-      "words": [
-        {
-          "t": "Allô?",
-          "lemma": "allô",
-          "pos": "interj",
-          "stress": "alo",
-          "gloss": "hello (phone)",
-          "gram": "interjection / exclamation ('allô')"
-        },
-        {
-          "t": "Oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "d'accord,",
-          "lemma": "accord",
-          "pos": "noun",
-          "stress": "dakɔʁ",
-          "gloss": "agreed, okay",
-          "gram": "de (of) + accord (agreement): fixed expression"
-        },
-        {
-          "t": "j'arrive.",
-          "lemma": "arriver",
-          "pos": "verb",
-          "stress": "ʒaʁiv",
-          "gloss": "I'm on my way",
-          "gram": "'je' + present, 1st person singular"
-        }
-      ]
-    },
-    {
-      "seg": 21,
-      "trans": "Yes, right away.",
-      "words": [
-        {
-          "t": "Oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "tout",
-          "lemma": "tout",
-          "pos": "pron",
-          "stress": "tu",
-          "gloss": "all",
-          "gram": "part of tout de suite: immediately"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "suite.",
-          "lemma": "suite",
-          "pos": "noun",
-          "stress": "sɥit",
-          "gloss": "(tout de suite = right away)",
-          "gram": "feminine singular, fixed phrase"
-        }
-      ]
-    },
-    {
-      "seg": 23,
-      "trans": "A mate in trouble. I have to go.",
-      "words": [
-        {
-          "t": "Un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "pote",
-          "lemma": "pote",
-          "pos": "noun",
-          "stress": "pɔt",
-          "gloss": "buddy, pal",
-          "gram": "masculine singular (informal)"
-        },
-        {
-          "t": "dans",
-          "lemma": "dans",
-          "pos": "prep",
-          "stress": "dɑ̃",
-          "gloss": "in",
-          "gram": "preposition ('dans', meaning 'in')"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
-        },
-        {
-          "t": "panade.",
-          "lemma": "panade",
-          "pos": "noun",
-          "stress": "panad",
-          "gloss": "jam, trouble, mess",
-          "gram": "feminine singular; 'être dans la panade' = to be in a jam"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "dois",
-          "lemma": "devoir",
-          "pos": "verb",
-          "stress": "dwa",
-          "gloss": "have to",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "y",
-          "lemma": "y",
-          "pos": "pron",
-          "stress": "i",
-          "gloss": "there",
-          "gram": "refers back to the place he claims he must go"
-        },
-        {
-          "t": "aller.",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "ale",
-          "gloss": "go",
-          "gram": "infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 25,
-      "trans": "Yes, of course.",
-      "words": [
-        {
-          "t": "Oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "bien",
-          "lemma": "bien",
-          "pos": "adv",
-          "stress": "bjɛ̃",
-          "gloss": "well (very well)",
-          "gram": "invariable adverb ('bien', meaning 'well')"
-        },
-        {
-          "t": "sûr.",
-          "lemma": "sûr",
-          "pos": "adj",
-          "stress": "syʁ",
-          "gloss": "sure",
-          "gram": "part of bien sûr: of course"
-        }
-      ]
-    },
-    {
-      "seg": 27,
       "trans": "But can I get my phone back before you leave?",
       "words": [
         {
@@ -1003,224 +291,6 @@
       ]
     },
     {
-      "seg": 29,
-      "trans": "The door is locked! I don't want to stay here.",
-      "words": [
-        {
-          "t": "La",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
-        },
-        {
-          "t": "porte",
-          "lemma": "porte",
-          "pos": "noun",
-          "stress": "pɔʁt",
-          "gloss": "door",
-          "gram": "feminine singular; a physical door"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present third-person singular"
-        },
-        {
-          "t": "fermée!",
-          "lemma": "fermer",
-          "pos": "verb",
-          "stress": "fɛʁme",
-          "gloss": "closed, shut",
-          "gram": "past participle, feminine singular (agrees with 'porte')"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "veux",
-          "lemma": "vouloir",
-          "pos": "verb",
-          "stress": "vø",
-          "gloss": "want",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "rester",
-          "lemma": "rester",
-          "pos": "verb",
-          "stress": "ʁɛste",
-          "gloss": "stay",
-          "gram": "infinitive"
-        },
-        {
-          "t": "ici.",
-          "lemma": "ici",
-          "pos": "adv",
-          "stress": "isi",
-          "gloss": "here",
-          "gram": "adverb of place"
-        }
-      ]
-    },
-    {
-      "seg": 31,
-      "trans": "Look, there's a window up there!",
-      "words": [
-        {
-          "t": "Regardez,",
-          "lemma": "regarder",
-          "pos": "verb",
-          "stress": "ʁəɡaʁde",
-          "gloss": "look",
-          "gram": "imperative, 2nd person plural"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "third-person masculine singular subject"
-        },
-        {
-          "t": "y",
-          "lemma": "y",
-          "pos": "pron",
-          "stress": "i",
-          "gloss": "there",
-          "gram": "part of il y a"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third-person singular"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "fenêtre",
-          "lemma": "fenêtre",
-          "pos": "noun",
-          "stress": "fənɛtʁ",
-          "gloss": "window",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "là-haut!",
-          "lemma": "là-haut",
-          "pos": "adv",
-          "stress": "lao",
-          "gloss": "up there",
-          "gram": "adverb of place"
-        }
-      ]
-    },
-    {
-      "seg": 33,
-      "trans": "Julie! What are you doing?",
-      "words": [
-        {
-          "t": "Julie!",
-          "lemma": "julie",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Julie (first name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Qu'est-ce",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kɛs",
-          "gloss": "what",
-          "gram": "opening of an everyday question expression"
-        },
-        {
-          "t": "que",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kə",
-          "gloss": "(question object)",
-          "gram": "object component in qu'est-ce que: what"
-        },
-        {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
-        },
-        {
-          "t": "faites?",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛt",
-          "gloss": "are doing",
-          "gram": "present, 2nd person plural/formal (irregular)"
-        }
-      ]
-    },
-    {
-      "seg": 35,
-      "trans": "Careful, Julie!",
-      "words": [
-        {
-          "t": "Attention,",
-          "lemma": "attention",
-          "pos": "noun",
-          "stress": "atɑ̃sjɔ̃",
-          "gloss": "careful, watch out",
-          "gram": "warning shout (from the feminine noun)"
-        },
-        {
-          "t": "Julie!",
-          "lemma": "julie",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Julie (first name)",
-          "gram": "proper name"
-        }
-      ]
-    },
-    {
-      "seg": 37,
-      "trans": "Didier? Didier!",
       "words": [
         {
           "t": "Didier?",
@@ -1229,19 +299,41 @@
           "stress": null,
           "gloss": "Didier (JoeyStarr's real first name, Didier Morville)",
           "gram": "proper noun ('Didier')"
-        },
-        {
-          "t": "Didier!",
-          "lemma": "didier",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Didier (JoeyStarr's real first name, Didier Morville)",
-          "gram": "proper noun ('Didier')"
         }
-      ]
+      ],
+      "seg": 9,
+      "trans": "Didier?"
     },
     {
-      "seg": 39,
+      "words": [
+        {
+          "t": "Julie!",
+          "lemma": "julie",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Julie (first name)",
+          "gram": "proper name"
+        }
+      ],
+      "seg": 10,
+      "trans": "Julie!"
+    },
+    {
+      "words": [
+        {
+          "t": "Julie!",
+          "lemma": "julie",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Julie (first name)",
+          "gram": "proper name"
+        }
+      ],
+      "seg": 11,
+      "trans": "Julie!"
+    },
+    {
+      "seg": 12,
       "trans": "What's going on?",
       "words": [
         {
@@ -1279,108 +371,6 @@
       ]
     },
     {
-      "seg": 41,
-      "trans": "We promised to be here.",
-      "words": [
-        {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third-person singular"
-        },
-        {
-          "t": "promis",
-          "lemma": "promettre",
-          "pos": "verb",
-          "stress": "pʁɔmi",
-          "gloss": "promised!",
-          "gram": "past participle of 'promettre', used on its own as 'promise!'"
-        },
-        {
-          "t": "d'être",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "dɛtʁ",
-          "gloss": "to be, of being",
-          "gram": "de (to/of) + être: infinitive"
-        },
-        {
-          "t": "là.",
-          "lemma": "là",
-          "pos": "adv",
-          "stress": "la",
-          "gloss": "here",
-          "gram": "adverb, être là = to be here"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "But we didn't say when!",
-      "words": [
-        {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "n'a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "na",
-          "gloss": "does not have, has not",
-          "gram": "ne (not) + a: 3rd person singular present of avoir"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "dit",
-          "lemma": "dire",
-          "pos": "verb",
-          "stress": "di",
-          "gloss": "said",
-          "gram": "past participle after the helper avoir"
-        },
-        {
-          "t": "quand!",
-          "lemma": "quand",
-          "pos": "adv",
-          "stress": "kɑ̃",
-          "gloss": "when",
-          "gram": "question word"
-        }
-      ]
-    },
-    {
-      "seg": 43,
-      "trans": "Hello? Yes, okay, I'm on my way.",
       "words": [
         {
           "t": "Allô?",
@@ -1389,7 +379,13 @@
           "stress": "alo",
           "gloss": "hello (phone)",
           "gram": "interjection / exclamation ('allô')"
-        },
+        }
+      ],
+      "seg": 14,
+      "trans": "Hello?"
+    },
+    {
+      "words": [
         {
           "t": "Oui,",
           "lemma": "oui",
@@ -1399,7 +395,21 @@
           "gram": "answer, repeated for emphasis"
         },
         {
-          "t": "d'accord,",
+          "t": "oui.",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        }
+      ],
+      "seg": 16,
+      "trans": "Yes, yes."
+    },
+    {
+      "words": [
+        {
+          "t": "D'accord,",
           "lemma": "accord",
           "pos": "noun",
           "stress": "dakɔʁ",
@@ -1414,10 +424,12 @@
           "gloss": "I'm on my way",
           "gram": "'je' + present, 1st person singular"
         }
-      ]
+      ],
+      "seg": 18,
+      "trans": "Okay, I'm on my way."
     },
     {
-      "seg": 44,
+      "seg": 20,
       "trans": "Yes, right away.",
       "words": [
         {
@@ -1451,119 +463,493 @@
           "stress": "sɥit",
           "gloss": "(tout de suite = right away)",
           "gram": "feminine singular, fixed phrase"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "t": "Un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "pote",
+          "lemma": "pote",
+          "pos": "noun",
+          "stress": "pɔt",
+          "gloss": "buddy, pal",
+          "gram": "masculine singular (informal)"
+        },
+        {
+          "t": "dans",
+          "lemma": "dans",
+          "pos": "prep",
+          "stress": "dɑ̃",
+          "gloss": "in",
+          "gram": "preposition ('dans', meaning 'in')"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "feminine singular definite article"
+        },
+        {
+          "t": "panade.",
+          "lemma": "panade",
+          "pos": "noun",
+          "stress": "panad",
+          "gloss": "jam, trouble, mess",
+          "gram": "feminine singular; 'être dans la panade' = to be in a jam"
+        }
+      ],
+      "seg": 22,
+      "trans": "A mate in trouble."
+    },
+    {
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "dois",
+          "lemma": "devoir",
+          "pos": "verb",
+          "stress": "dwa",
+          "gloss": "have to",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "y",
+          "lemma": "y",
+          "pos": "pron",
+          "stress": "i",
+          "gloss": "there",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "aller.",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "ale",
+          "gloss": "go",
+          "gram": "infinitive"
+        }
+      ],
+      "seg": 24,
+      "trans": "I have to go."
+    },
+    {
+      "seg": 26,
+      "trans": "Yes, of course.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        },
+        {
+          "t": "bien",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well (very well)",
+          "gram": "invariable adverb ('bien', meaning 'well')"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "sûr",
+          "pos": "adj",
+          "stress": "syʁ",
+          "gloss": "sure",
+          "gram": "part of bien sûr: of course"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "But can I get my phone back before you leave?",
+      "words": [
+        {
+          "t": "Mais",
+          "lemma": "mais",
+          "pos": "conj",
+          "stress": "mɛ",
+          "gloss": "but",
+          "gram": "coordinating conjunction"
+        },
+        {
+          "t": "je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "peux",
+          "lemma": "pouvoir",
+          "pos": "verb",
+          "stress": "pø",
+          "gloss": "can",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "récupérer",
+          "lemma": "récupérer",
+          "pos": "verb",
+          "stress": "ʁekypeʁe",
+          "gloss": "get back",
+          "gram": "infinitive"
+        },
+        {
+          "t": "mon",
+          "lemma": "mon",
+          "pos": "det",
+          "stress": "mɔ̃",
+          "gloss": "my",
+          "gram": "possessive, masculine singular"
+        },
+        {
+          "t": "téléphone",
+          "lemma": "téléphone",
+          "pos": "noun",
+          "stress": "telefɔn",
+          "gloss": "phone",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "avant",
+          "lemma": "avant",
+          "pos": "prep",
+          "stress": "avɑ̃",
+          "gloss": "before",
+          "gram": "preposition of time"
+        },
+        {
+          "t": "ton",
+          "lemma": "ton",
+          "pos": "det",
+          "stress": "tɔ̃",
+          "gloss": "your",
+          "gram": "possessive, informal, masculine singular"
+        },
+        {
+          "t": "départ?",
+          "lemma": "départ",
+          "pos": "noun",
+          "stress": "depaʁ",
+          "gloss": "departure",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "t": "Didier?",
+          "lemma": "didier",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Didier (JoeyStarr's real first name, Didier Morville)",
+          "gram": "proper noun ('Didier')"
+        }
+      ],
+      "seg": 30,
+      "trans": "Didier?"
+    },
+    {
+      "words": [
+        {
+          "t": "Julie!",
+          "lemma": "julie",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Julie (first name)",
+          "gram": "proper name"
+        }
+      ],
+      "seg": 32,
+      "trans": "Julie!"
+    },
+    {
+      "words": [
+        {
+          "t": "Julie!",
+          "lemma": "julie",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Julie (first name)",
+          "gram": "proper name"
+        }
+      ],
+      "seg": 34,
+      "trans": "Julie!"
+    },
+    {
+      "seg": 36,
+      "trans": "What's going on?",
+      "words": [
+        {
+          "t": "Qu'est-ce",
+          "lemma": "que",
+          "pos": "pron",
+          "stress": "kɛs",
+          "gloss": "what",
+          "gram": "opening of an everyday question expression"
+        },
+        {
+          "t": "qui",
+          "lemma": "qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "(question subject)",
+          "gram": "subject component of qu'est-ce qui: what"
+        },
+        {
+          "t": "se",
+          "lemma": "se",
+          "pos": "pron",
+          "stress": "sə",
+          "gloss": "(reflexive)",
+          "gram": "reflexive pronoun, part of se passer"
+        },
+        {
+          "t": "passe?",
+          "lemma": "se passer",
+          "pos": "verb",
+          "stress": "pas",
+          "gloss": "happens",
+          "gram": "present third-person singular; expression for an event happening"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "t": "Allô?",
+          "lemma": "allô",
+          "pos": "interj",
+          "stress": "alo",
+          "gloss": "hello (phone)",
+          "gram": "interjection / exclamation ('allô')"
+        }
+      ],
+      "seg": 38,
+      "trans": "Hello?"
+    },
+    {
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        },
+        {
+          "t": "oui.",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        }
+      ],
+      "seg": 39,
+      "trans": "Yes, yes."
+    },
+    {
+      "words": [
+        {
+          "t": "D'accord,",
+          "lemma": "accord",
+          "pos": "noun",
+          "stress": "dakɔʁ",
+          "gloss": "agreed, okay",
+          "gram": "de (of) + accord (agreement): fixed expression"
+        },
+        {
+          "t": "j'arrive.",
+          "lemma": "arriver",
+          "pos": "verb",
+          "stress": "ʒaʁiv",
+          "gloss": "I'm on my way",
+          "gram": "'je' + present, 1st person singular"
+        }
+      ],
+      "seg": 40,
+      "trans": "Okay, I'm on my way."
+    },
+    {
+      "seg": 41,
+      "trans": "Yes, right away.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "part of tout de suite: immediately"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
+        },
+        {
+          "t": "suite.",
+          "lemma": "suite",
+          "pos": "noun",
+          "stress": "sɥit",
+          "gloss": "(tout de suite = right away)",
+          "gram": "feminine singular, fixed phrase"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "t": "Un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "pote",
+          "lemma": "pote",
+          "pos": "noun",
+          "stress": "pɔt",
+          "gloss": "buddy, pal",
+          "gram": "masculine singular (informal)"
+        },
+        {
+          "t": "dans",
+          "lemma": "dans",
+          "pos": "prep",
+          "stress": "dɑ̃",
+          "gloss": "in",
+          "gram": "preposition ('dans', meaning 'in')"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "feminine singular definite article"
+        },
+        {
+          "t": "panade.",
+          "lemma": "panade",
+          "pos": "noun",
+          "stress": "panad",
+          "gloss": "jam, trouble, mess",
+          "gram": "feminine singular; 'être dans la panade' = to be in a jam"
+        }
+      ],
+      "seg": 42,
+      "trans": "A mate in trouble."
+    },
+    {
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "dois",
+          "lemma": "devoir",
+          "pos": "verb",
+          "stress": "dwa",
+          "gloss": "have to",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "y",
+          "lemma": "y",
+          "pos": "pron",
+          "stress": "i",
+          "gloss": "there",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "aller.",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "ale",
+          "gloss": "go",
+          "gram": "infinitive"
+        }
+      ],
+      "seg": 43,
+      "trans": "I have to go."
+    },
+    {
+      "seg": 44,
+      "trans": "Yes, of course.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        },
+        {
+          "t": "bien",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well (very well)",
+          "gram": "invariable adverb ('bien', meaning 'well')"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "sûr",
+          "pos": "adj",
+          "stress": "syʁ",
+          "gloss": "sure",
+          "gram": "part of bien sûr: of course"
         }
       ]
     },
     {
       "seg": 45,
-      "trans": "A mate in trouble. I have to go.",
-      "words": [
-        {
-          "t": "Un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "pote",
-          "lemma": "pote",
-          "pos": "noun",
-          "stress": "pɔt",
-          "gloss": "buddy, pal",
-          "gram": "masculine singular (informal)"
-        },
-        {
-          "t": "dans",
-          "lemma": "dans",
-          "pos": "prep",
-          "stress": "dɑ̃",
-          "gloss": "in",
-          "gram": "preposition ('dans', meaning 'in')"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
-        },
-        {
-          "t": "panade.",
-          "lemma": "panade",
-          "pos": "noun",
-          "stress": "panad",
-          "gloss": "jam, trouble, mess",
-          "gram": "feminine singular; 'être dans la panade' = to be in a jam"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "dois",
-          "lemma": "devoir",
-          "pos": "verb",
-          "stress": "dwa",
-          "gloss": "have to",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "y",
-          "lemma": "y",
-          "pos": "pron",
-          "stress": "i",
-          "gloss": "there",
-          "gram": "refers back to the place he claims he must go"
-        },
-        {
-          "t": "aller.",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "ale",
-          "gloss": "go",
-          "gram": "infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 46,
-      "trans": "Yes, of course.",
-      "words": [
-        {
-          "t": "Oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "bien",
-          "lemma": "bien",
-          "pos": "adv",
-          "stress": "bjɛ̃",
-          "gloss": "well (very well)",
-          "gram": "invariable adverb ('bien', meaning 'well')"
-        },
-        {
-          "t": "sûr.",
-          "lemma": "sûr",
-          "pos": "adj",
-          "stress": "syʁ",
-          "gloss": "sure",
-          "gram": "part of bien sûr: of course"
-        }
-      ]
-    },
-    {
-      "seg": 47,
       "trans": "But can I get my phone back before you leave?",
       "words": [
         {
@@ -1641,224 +1027,6 @@
       ]
     },
     {
-      "seg": 48,
-      "trans": "The door is locked! I don't want to stay here.",
-      "words": [
-        {
-          "t": "La",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
-        },
-        {
-          "t": "porte",
-          "lemma": "porte",
-          "pos": "noun",
-          "stress": "pɔʁt",
-          "gloss": "door",
-          "gram": "feminine singular; a physical door"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present third-person singular"
-        },
-        {
-          "t": "fermée!",
-          "lemma": "fermer",
-          "pos": "verb",
-          "stress": "fɛʁme",
-          "gloss": "closed, shut",
-          "gram": "past participle, feminine singular (agrees with 'porte')"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "veux",
-          "lemma": "vouloir",
-          "pos": "verb",
-          "stress": "vø",
-          "gloss": "want",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "rester",
-          "lemma": "rester",
-          "pos": "verb",
-          "stress": "ʁɛste",
-          "gloss": "stay",
-          "gram": "infinitive"
-        },
-        {
-          "t": "ici.",
-          "lemma": "ici",
-          "pos": "adv",
-          "stress": "isi",
-          "gloss": "here",
-          "gram": "adverb of place"
-        }
-      ]
-    },
-    {
-      "seg": 49,
-      "trans": "Look, there's a window up there!",
-      "words": [
-        {
-          "t": "Regardez,",
-          "lemma": "regarder",
-          "pos": "verb",
-          "stress": "ʁəɡaʁde",
-          "gloss": "look",
-          "gram": "imperative, 2nd person plural"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "third-person masculine singular subject"
-        },
-        {
-          "t": "y",
-          "lemma": "y",
-          "pos": "pron",
-          "stress": "i",
-          "gloss": "there",
-          "gram": "part of il y a"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third-person singular"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "fenêtre",
-          "lemma": "fenêtre",
-          "pos": "noun",
-          "stress": "fənɛtʁ",
-          "gloss": "window",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "là-haut!",
-          "lemma": "là-haut",
-          "pos": "adv",
-          "stress": "lao",
-          "gloss": "up there",
-          "gram": "adverb of place"
-        }
-      ]
-    },
-    {
-      "seg": 50,
-      "trans": "Julie! What are you doing?",
-      "words": [
-        {
-          "t": "Julie!",
-          "lemma": "julie",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Julie (first name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "Qu'est-ce",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kɛs",
-          "gloss": "what",
-          "gram": "opening of an everyday question expression"
-        },
-        {
-          "t": "que",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kə",
-          "gloss": "(question object)",
-          "gram": "object component in qu'est-ce que: what"
-        },
-        {
-          "t": "vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
-        },
-        {
-          "t": "faites?",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛt",
-          "gloss": "are doing",
-          "gram": "present, 2nd person plural/formal (irregular)"
-        }
-      ]
-    },
-    {
-      "seg": 51,
-      "trans": "Careful, Julie!",
-      "words": [
-        {
-          "t": "Attention,",
-          "lemma": "attention",
-          "pos": "noun",
-          "stress": "atɑ̃sjɔ̃",
-          "gloss": "careful, watch out",
-          "gram": "warning shout (from the feminine noun)"
-        },
-        {
-          "t": "Julie!",
-          "lemma": "julie",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Julie (first name)",
-          "gram": "proper name"
-        }
-      ]
-    },
-    {
-      "seg": 52,
-      "trans": "Didier? Didier!",
       "words": [
         {
           "t": "Didier?",
@@ -1867,19 +1035,41 @@
           "stress": null,
           "gloss": "Didier (JoeyStarr's real first name, Didier Morville)",
           "gram": "proper noun ('Didier')"
-        },
-        {
-          "t": "Didier!",
-          "lemma": "didier",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Didier (JoeyStarr's real first name, Didier Morville)",
-          "gram": "proper noun ('Didier')"
         }
-      ]
+      ],
+      "seg": 46,
+      "trans": "Didier?"
     },
     {
-      "seg": 53,
+      "words": [
+        {
+          "t": "Julie!",
+          "lemma": "julie",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Julie (first name)",
+          "gram": "proper name"
+        }
+      ],
+      "seg": 47,
+      "trans": "Julie!"
+    },
+    {
+      "words": [
+        {
+          "t": "Julie!",
+          "lemma": "julie",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Julie (first name)",
+          "gram": "proper name"
+        }
+      ],
+      "seg": 48,
+      "trans": "Julie!"
+    },
+    {
+      "seg": 49,
       "trans": "What's going on?",
       "words": [
         {
@@ -1917,7 +1107,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 51,
       "trans": "See you tomorrow!",
       "words": [
         {
@@ -2378,58 +1568,6 @@
         }
       ]
     },
-    "attention": {
-      "lemma": "attention",
-      "stress": "atɑ̃sjɔ̃",
-      "pos": "noun",
-      "gloss": "attention; careful!",
-      "gender": "f",
-      "plural": "attentions",
-      "meanings": [
-        {
-          "en": "careful!, watch out!",
-          "note": "As a warning shout: attention!."
-        },
-        {
-          "en": "attention",
-          "note": "Faire attention = to be careful."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'attention",
-              "les attentions"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Attention, la route!",
-          "trans": "Careful, the road!"
-        },
-        {
-          "text": "Fais attention!",
-          "trans": "Be careful!"
-        }
-      ],
-      "related": [
-        {
-          "word": "attendre",
-          "gloss": "to wait"
-        }
-      ]
-    },
     "avant": {
       "lemma": "avant",
       "stress": "avɑ̃",
@@ -2457,192 +1595,6 @@
         {
           "word": "avantage",
           "gloss": "advantage"
-        }
-      ]
-    },
-    "avoir": {
-      "lemma": "avoir",
-      "stress": "avwaʁ",
-      "pos": "verb",
-      "gloss": "to have",
-      "meanings": [
-        {
-          "en": "to have",
-          "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
-        },
-        {
-          "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called."
-        },
-        {
-          "en": "il y a = there is, there are",
-          "note": "Fixed expression."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "j'ai",
-              "nous avons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu as",
-              "vous avez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle a",
-              "ils/elles ont"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai eu",
-                "nous avons eu"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as eu",
-                "vous avez eu"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a eu",
-                "ils/elles ont eu"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'avais",
-                "nous avions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu avais",
-                "vous aviez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle avait",
-                "ils/elles avaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'aurai",
-                "nous aurons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu auras",
-                "vous aurez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle aura",
-                "ils/elles auront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "ayons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "aie",
-                "ayez"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "J'ai un petit loft.",
-          "trans": "I've got a little loft."
-        },
-        {
-          "text": "Tu as une réunion.",
-          "trans": "You have a meeting."
-        }
-      ],
-      "related": [
-        {
-          "word": "avoir à voir",
-          "gloss": "to have to do with"
         }
       ]
     },
@@ -2964,188 +1916,6 @@
         }
       ]
     },
-    "dire": {
-      "lemma": "dire",
-      "stress": "diʁ",
-      "pos": "verb",
-      "gloss": "to say, to tell",
-      "meanings": [
-        {
-          "en": "to say",
-          "note": "dire la vérité à quelqu'un = to tell someone the truth"
-        },
-        {
-          "en": "to tell (someone)",
-          "note": "dire à quelqu'un; dis-lui = tell her/him"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je dis",
-              "nous disons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu dis",
-              "vous dites"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle dit",
-              "ils/elles disent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai dit",
-                "nous avons dit"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as dit",
-                "vous avez dit"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a dit",
-                "ils/elles ont dit"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je disais",
-                "nous disions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu disais",
-                "vous disiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle disait",
-                "ils/elles disaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je dirai",
-                "nous dirons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu diras",
-                "vous direz"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle dira",
-                "ils/elles diront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "disons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "dis",
-                "dites"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Dis-lui que je ne peux pas venir.",
-          "trans": "Tell her I can't come."
-        },
-        {
-          "text": "Qu'est-ce que je lui dis?",
-          "trans": "What do I tell her?"
-        }
-      ],
-      "related": [
-        {
-          "word": "dire la vérité à quelqu'un",
-          "gloss": "to tell someone the truth"
-        }
-      ]
-    },
     "départ": {
       "lemma": "départ",
       "stress": "depaʁ",
@@ -3191,440 +1961,6 @@
         {
           "word": "avant mon départ",
           "gloss": "before I leave"
-        }
-      ]
-    },
-    "faire": {
-      "lemma": "faire",
-      "stress": "fɛʁ",
-      "pos": "verb",
-      "gloss": "to do, to make",
-      "meanings": [
-        {
-          "en": "to do, to make",
-          "note": "for (duration): ça fait des mois que j'attends = I've been waiting for months"
-        },
-        {
-          "en": "faire confiance à = to trust",
-          "note": ""
-        },
-        {
-          "en": "faire la surprise à = to surprise",
-          "note": ""
-        },
-        {
-          "en": "ça fait trois semaines que = it's been three weeks since",
-          "note": "With time."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je fais",
-              "nous faisons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu fais",
-              "vous faites"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle fait",
-              "ils/elles font"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai fait",
-                "nous avons fait"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as fait",
-                "vous avez fait"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a fait",
-                "ils/elles ont fait"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je faisais",
-                "nous faisions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu faisais",
-                "vous faisiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle faisait",
-                "ils/elles faisaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je ferai",
-                "nous ferons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu feras",
-                "vous ferez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle fera",
-                "ils/elles feront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Qu'est-ce que tu fais?",
-          "trans": "What are you doing?"
-        },
-        {
-          "text": "Je peux vous faire confiance?",
-          "trans": "Can I trust you?"
-        }
-      ],
-      "related": [
-        {
-          "word": "faire attention",
-          "gloss": "to pay attention"
-        }
-      ]
-    },
-    "fenêtre": {
-      "lemma": "fenêtre",
-      "stress": "fənɛtʁ",
-      "pos": "noun",
-      "gloss": "window",
-      "gender": "f",
-      "plural": "fenêtres",
-      "meanings": [
-        {
-          "en": "window",
-          "note": "Ouvrir / fermer la fenêtre."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la fenêtre",
-              "les fenêtres"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Regardez, il y a une fenêtre là-haut!",
-          "trans": "Look, there's a window up there!"
-        },
-        {
-          "text": "Elle regarde par la fenêtre.",
-          "trans": "She looks out the window."
-        }
-      ],
-      "related": [
-        {
-          "word": "une fenêtre / des fenêtres",
-          "gloss": "a window / windows"
-        }
-      ]
-    },
-    "fermer": {
-      "lemma": "fermer",
-      "stress": "fɛʁme",
-      "pos": "verb",
-      "gloss": "to close, to shut",
-      "meanings": [
-        {
-          "en": "to close, to shut",
-          "note": "Fermer la porte."
-        },
-        {
-          "en": "fermer à clé = to lock",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je ferme",
-              "nous fermons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu fermes",
-              "vous fermez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle ferme",
-              "ils/elles ferment"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai fermé",
-                "nous avons fermé"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as fermé",
-                "vous avez fermé"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a fermé",
-                "ils/elles ont fermé"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je fermais",
-                "nous fermions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu fermais",
-                "vous fermiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle fermait",
-                "ils/elles fermaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je fermerai",
-                "nous fermerons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu fermeras",
-                "vous fermerez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle fermera",
-                "ils/elles fermeront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "fermons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "ferme",
-                "fermez"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Fermez à clé!",
-          "trans": "Lock the door!"
-        },
-        {
-          "text": "La porte est fermée.",
-          "trans": "The door is closed."
-        }
-      ],
-      "related": [
-        {
-          "word": "fermé",
-          "gloss": "closed"
-        },
-        {
-          "word": "fermeté",
-          "gloss": "firmness"
-        }
-      ]
-    },
-    "ici": {
-      "lemma": "ici",
-      "stress": "isi",
-      "pos": "adv",
-      "gloss": "here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est sympa ici.",
-          "trans": "It's nice here."
-        },
-        {
-          "text": "Laissez vos photos ici.",
-          "trans": "Leave your photos here."
-        }
-      ],
-      "related": [
-        {
-          "word": "là",
-          "gloss": "there, here"
-        },
-        {
-          "word": "par ici",
-          "gloss": "this way"
         }
       ]
     },
@@ -3715,74 +2051,6 @@
         }
       ]
     },
-    "là": {
-      "lemma": "là",
-      "stress": "la",
-      "pos": "adv",
-      "gloss": "there; here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": "être là = to be here, to be present"
-        },
-        {
-          "en": "there",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tout le monde est là.",
-          "trans": "Everyone is here."
-        },
-        {
-          "text": "Camille est là.",
-          "trans": "Camille is here."
-        }
-      ],
-      "related": [
-        {
-          "word": "ici",
-          "gloss": "here"
-        },
-        {
-          "word": "là-bas",
-          "gloss": "over there"
-        }
-      ]
-    },
-    "là-haut": {
-      "lemma": "là-haut",
-      "stress": "lao",
-      "pos": "adv",
-      "gloss": "up there",
-      "meanings": [
-        {
-          "en": "up there, high up",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Regardez, il y a une fenêtre là-haut!",
-          "trans": "Look, there's a window up there!"
-        },
-        {
-          "text": "Qui habite là-haut?",
-          "trans": "Who lives up there?"
-        }
-      ],
-      "related": [
-        {
-          "word": "là-haut",
-          "gloss": "up there"
-        }
-      ]
-    },
     "mais": {
       "lemma": "mais",
       "stress": "mɛ",
@@ -3863,74 +2131,6 @@
         {
           "word": "mon",
           "gloss": "my"
-        }
-      ]
-    },
-    "ne": {
-      "lemma": "ne",
-      "stress": "nə",
-      "pos": "part",
-      "gloss": "not (with pas, rien, que)",
-      "meanings": [
-        {
-          "en": "negation",
-          "note": "ne... pas = not; ne... rien = nothing; ne... que = only; n' before a vowel"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je ne sais pas.",
-          "trans": "I don't know."
-        },
-        {
-          "text": "Rien n'est signé.",
-          "trans": "Nothing is signed."
-        }
-      ],
-      "related": [
-        {
-          "word": "pas",
-          "gloss": "not"
-        },
-        {
-          "word": "jamais",
-          "gloss": "never"
-        }
-      ]
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɔ̃",
-      "pos": "pron",
-      "gloss": "we; one, people",
-      "meanings": [
-        {
-          "en": "we",
-          "note": "everyday speech, with a he/she verb form"
-        },
-        {
-          "en": "one, people",
-          "note": "General."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "On est au Westin.",
-          "trans": "We're at the Westin."
-        },
-        {
-          "text": "On attend l'appel.",
-          "trans": "We're waiting for the call."
-        }
-      ],
-      "related": [
-        {
-          "word": "on",
-          "gloss": "we"
         }
       ]
     },
@@ -4015,79 +2215,6 @@
           "gloss": "to be in a jam / in trouble"
         }
       ]
-    },
-    "pas": {
-      "lemma": "pas",
-      "stress": "pa",
-      "pos": "part",
-      "gloss": "not",
-      "meanings": [
-        {
-          "en": "not",
-          "note": "second half of ne... pas; in speech ne is often dropped"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je ne suis pas actrice.",
-          "trans": "I'm not an actress."
-        },
-        {
-          "text": "Pas maintenant.",
-          "trans": "Not now."
-        }
-      ],
-      "related": [
-        {
-          "word": "pas",
-          "gloss": "not"
-        }
-      ]
-    },
-    "porte": {
-      "lemma": "porte",
-      "stress": "pɔʁt",
-      "pos": "noun",
-      "gloss": "door",
-      "gender": "f",
-      "plural": "portes",
-      "meanings": [
-        {
-          "en": "door",
-          "note": "An ordinary door; not the Paris place name Porte des Lilas."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la porte",
-              "les portes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ouvre la porte.",
-          "trans": "Open the door."
-        },
-        {
-          "text": "La porte est fermée.",
-          "trans": "The door is closed."
-        }
-      ],
-      "related": []
     },
     "pote": {
       "lemma": "pote",
@@ -4299,190 +2426,6 @@
         }
       ]
     },
-    "promettre": {
-      "lemma": "promettre",
-      "stress": "pʁɔmɛtʁ",
-      "pos": "verb",
-      "gloss": "to promise",
-      "meanings": [
-        {
-          "en": "to promise",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je promets",
-              "nous promettons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu promets",
-              "vous promettez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle promet",
-              "ils/elles promettent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai promis",
-                "nous avons promis"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as promis",
-                "vous avez promis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a promis",
-                "ils/elles ont promis"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je promettais",
-                "nous promettions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu promettais",
-                "vous promettiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle promettait",
-                "ils/elles promettaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je promettrai",
-                "nous promettrons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu promettras",
-                "vous promettrez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle promettra",
-                "ils/elles promettront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Je ne promets rien.",
-          "trans": "I'm not promising anything."
-        },
-        {
-          "text": "Tu promets?",
-          "trans": "Do you promise?"
-        }
-      ],
-      "related": [
-        {
-          "word": "promesse",
-          "gloss": "promise"
-        }
-      ]
-    },
-    "quand": {
-      "lemma": "quand",
-      "stress": "kɑ̃",
-      "pos": "adv",
-      "gloss": "when",
-      "meanings": [
-        {
-          "en": "when",
-          "note": "Question word or conjunction."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous serez là quand?",
-          "trans": "When will you be here?"
-        },
-        {
-          "text": "Quand tu veux.",
-          "trans": "Whenever you like."
-        }
-      ],
-      "related": [
-        {
-          "word": "quand même",
-          "gloss": "still"
-        }
-      ]
-    },
     "que": {
       "lemma": "que",
       "stress": "kə",
@@ -4549,318 +2492,6 @@
         }
       ],
       "related": []
-    },
-    "regarder": {
-      "lemma": "regarder",
-      "stress": "ʁəɡaʁde",
-      "pos": "verb",
-      "gloss": "to look at, to watch",
-      "meanings": [
-        {
-          "en": "to look at",
-          "note": "no preposition needed: regarder la photo"
-        },
-        {
-          "en": "to watch",
-          "note": "A film, the TV."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je regarde",
-              "nous regardons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu regardes",
-              "vous regardez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il regarde",
-              "ils regardent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai regardé",
-                "nous avons regardé"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as regardé",
-                "vous avez regardé"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il a regardé",
-                "ils ont regardé"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je regardais",
-                "nous regardions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu regardais",
-                "vous regardiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il regardait",
-                "ils regardaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je regarderai",
-                "nous regarderons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu regarderas",
-                "vous regarderez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il regardera",
-                "ils regarderont"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Regarde bien cette photo sur la première page!",
-          "trans": "Look closely at this photo on the front page!"
-        },
-        {
-          "text": "Nous allons regarder les premiers essais cet après-midi.",
-          "trans": "We are going to watch the first screen tests this afternoon."
-        }
-      ],
-      "related": [
-        {
-          "word": "regard",
-          "gloss": "look"
-        }
-      ]
-    },
-    "rester": {
-      "lemma": "rester",
-      "stress": "ʁɛste",
-      "pos": "verb",
-      "gloss": "to stay",
-      "meanings": [
-        {
-          "en": "to stay, to remain",
-          "note": "Passé composé with être."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je reste",
-              "nous restons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu restes",
-              "vous restez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il reste",
-              "ils restent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je suis resté(e)",
-                "nous sommes restés"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu es resté(e)",
-                "vous êtes resté(s)"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il est resté",
-                "ils sont restés"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je restais",
-                "nous restions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu restais",
-                "vous restiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il restait",
-                "ils restaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je resterai",
-                "nous resterons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu resteras",
-                "vous resterez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il restera",
-                "ils resteront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Je reste à Paris.",
-          "trans": "I'm staying in Paris."
-        },
-        {
-          "text": "Elle est restée à l'agence.",
-          "trans": "She stayed with the agency."
-        }
-      ],
-      "related": [
-        {
-          "word": "reste",
-          "gloss": "rest"
-        }
-      ]
     },
     "récupérer": {
       "lemma": "récupérer",
@@ -5324,206 +2955,6 @@
         }
       ]
     },
-    "vouloir": {
-      "lemma": "vouloir",
-      "stress": "vulwaʁ",
-      "pos": "verb",
-      "gloss": "to want",
-      "meanings": [
-        {
-          "en": "to want",
-          "note": "+ noun or infinitive."
-        },
-        {
-          "en": "je voulais = I wanted",
-          "note": "Imparfait, softer."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je veux",
-              "nous voulons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu veux",
-              "vous voulez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle veut",
-              "ils/elles veulent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai voulu",
-                "nous avons voulu"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as voulu",
-                "vous avez voulu"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a voulu",
-                "ils/elles ont voulu"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je voulais",
-                "nous voulions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu voulais",
-                "vous vouliez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle voulait",
-                "ils/elles voulaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je voudrai",
-                "nous voudrons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu voudras",
-                "vous voudrez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle voudra",
-                "ils/elles voudront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Je veux juste voir Mathias.",
-          "trans": "I just want to see Mathias."
-        },
-        {
-          "text": "Je voulais te faire la surprise.",
-          "trans": "I wanted to surprise you."
-        }
-      ],
-      "related": [
-        {
-          "word": "volonté",
-          "gloss": "will, determination"
-        },
-        {
-          "word": "en vouloir à",
-          "gloss": "to hold a grudge against"
-        }
-      ]
-    },
-    "vous": {
-      "lemma": "vous",
-      "stress": "vu",
-      "pos": "pron",
-      "gloss": "you (polite or plural)",
-      "meanings": [
-        {
-          "en": "you (polite)",
-          "note": "One person, formal."
-        },
-        {
-          "en": "you (plural)",
-          "note": "Several people."
-        },
-        {
-          "en": "you (object)",
-          "note": "je vous rappelle = I'll call you back"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous êtes où?",
-          "trans": "Where are you?"
-        },
-        {
-          "text": "Je vous rappelle.",
-          "trans": "I'll call you back."
-        }
-      ],
-      "related": [
-        {
-          "word": "tu",
-          "gloss": "you (informal)"
-        }
-      ]
-    },
     "y": {
       "lemma": "y",
       "stress": "i",
@@ -5584,192 +3015,6 @@
         {
           "word": "à",
           "gloss": "at"
-        }
-      ]
-    },
-    "être": {
-      "lemma": "être",
-      "stress": "ɛtʁ",
-      "pos": "verb",
-      "gloss": "to be",
-      "meanings": [
-        {
-          "en": "to be",
-          "note": "The most common verb."
-        },
-        {
-          "en": "c'est = it is, this is",
-          "note": "Ce + est."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je suis",
-              "nous sommes"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu es",
-              "vous êtes"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle est",
-              "ils/elles sont"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai été",
-                "nous avons été"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as été",
-                "vous avez été"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a été",
-                "ils/elles ont été"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'étais",
-                "nous étions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu étais",
-                "vous étiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle était",
-                "ils/elles étaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je serai",
-                "nous serons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu seras",
-                "vous serez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle sera",
-                "ils/elles seront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "soyons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "sois",
-                "soyez"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Je suis à Paris.",
-          "trans": "I'm in Paris."
-        },
-        {
-          "text": "C'est important.",
-          "trans": "It's important."
-        }
-      ],
-      "related": [
-        {
-          "word": "un être",
-          "gloss": "a being, person"
-        },
-        {
-          "word": "peut-être",
-          "gloss": "maybe, perhaps"
         }
       ]
     },
@@ -5854,47 +3099,6 @@
           "gloss": "of course"
         }
       ]
-    },
-    "il": {
-      "lemma": "il",
-      "stress": "il",
-      "pos": "pron",
-      "gloss": "he; it",
-      "meanings": [
-        {
-          "en": "he; it",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "masculine",
-              "il",
-              "ils"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il est là.",
-          "trans": "He is here."
-        },
-        {
-          "text": "Il y a une réunion.",
-          "trans": "There is a meeting."
-        }
-      ],
-      "related": []
     }
   }
 }

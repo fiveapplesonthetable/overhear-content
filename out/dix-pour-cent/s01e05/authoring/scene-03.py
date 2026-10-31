@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = ("It is Camille's twenty-third birthday. Her family calls as she travels to the agency, while Sofia is "
- 'preparing for a small film role. Mathias has an envelope for Camille, but it contains work rather than a '
- 'birthday greeting. Listen to the French first, without trying to catch everything.')
+INTRO = ("It is Camille's twenty-third birthday. Her family calls as she reaches the agency. Nearby, Sofia tells a "
+ 'colleague about her small film role. Mathias has an envelope for Camille, but it contains work rather than '
+ 'a birthday greeting. Listen to the French first, without trying to catch everything.')
 OPENER = 'Camille first answers her mother. Then the office routine interrupts the birthday calls.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('The envelope is only a report for Andrea, and Mathias has not wished his daughter a happy birthday. You '
@@ -30,20 +30,12 @@ STORY = [('camille', 'Allô? Merci, Maman.', 'Hello? Thank you, Mum.', [(41, 'Al
   [(48, "J'essaierai de descendre un week-end bientôt")],
   ''),
  ('camille', 'Maman, ça suffit!', "Mum, that's enough!", [(50, 'Maman, ça suffit !')], ''),
- ('sofia', 'Salut, Camille.', 'Hi, Camille.', [(51, 'Salut, Camille')], ''),
  ('sofia',
   "J'ai une scène avec JoeyStarr, je dois vraiment me concentrer.",
   'I have a scene with JoeyStarr, I really have to focus.',
   [(52, "J'ai une scène avec JoeyStarr, je dois vraiment me concentrer")],
-  ''),
- ('sofia', 'Tu veux un autographe?', 'Do you want an autograph?', [(53, 'Tu veux un autographe ?')], ''),
- ('camille', 'Le tien?', 'Yours?', [(53, 'Le tien ?')], ''),
- ('sofia', 'Non, celui de JoeyStarr.', "No, JoeyStarr's.", [(54, 'Non, celui de JoeyStarr')], ''),
- ('camille',
-  'Oui, bien sûr. À plus!',
-  'Yes, of course. See you later!',
-  [(54, 'bien sûr'), (55, 'à plus')],
-  ''),
+  'Sofia speaks to a colleague as Camille passes; the autograph exchange with Hervé is omitted to retain '
+  'three lesson roles.'),
  ('camille',
   "Merci, Mamie. C'est vraiment une belle attention.",
   "Thank you, Gran. That's really a lovely thought.",
@@ -89,53 +81,33 @@ WALK = [(0,
   'way to ask someone to stop a topic.'),
  (4,
   None,
-  "'Hi, Camille.' This greeting fits familiar colleagues. It is less formal than the greeting used with an "
-  'unfamiliar visitor.'),
- (5,
-  None,
   "'I have a scene with JoeyStarr, I really have to focus.' The word meaning have to comes before the action "
   'she needs to perform. The little reflexive word makes focusing something she does herself.'),
- (6,
-  None,
-  "'Do you want an autograph?' French can ask this question with the same word order as a statement. The "
-  'rising voice makes the offer clear.'),
- (7,
-  None,
-  "'Yours?' The word stands in for your autograph. Its masculine form follows the French word for autograph, "
-  'rather than the gender of the person who might sign it.'),
- (8,
-  None,
-  "'No, JoeyStarr's.' French says the one of JoeyStarr. It uses a separate connecting word where English can "
-  'attach a possessive ending to the name.'),
- (9,
-  None,
-  "'Yes, of course. See you later!' The farewell is a shortened casual expression. It leaves the next "
-  'meeting open rather than fixing an exact time.'),
- (10,
+ (5,
   None,
   "'Thank you, Gran. That's really a lovely thought.' A kind gesture can be called an attention in French. "
   'Here it means consideration, rather than concentrating on something.'),
- (11,
+ (6,
   None,
   "'Camille, do you have a moment?' Asking whether someone has a moment is an ordinary way to interrupt "
   'politely. He is asking for her time, not for a physical thing.'),
- (12,
+ (7,
   None,
   "'I'll call you back, Gran, okay? Big kisses!' The action is written in the present, but it promises a "
   'call shortly afterwards. The affectionate ending fits the family conversation.'),
- (13,
+ (8,
   None,
   "'What is this?' The question word can come after the identifying expression in casual speech. Camille "
   'wants to know what the envelope contains.'),
- (14,
+ (9,
   None,
   "'The ministry report on cinema funding. For Andrea.' The words connecting report and ministry combine of "
   'with the article the. They do not mean some in this phrase.'),
- (15,
+ (10,
   None,
   "'What is the matter?' The question asks what there is, in an everyday expression for noticing a problem. "
   'Mathias has seen her disappointment.'),
- (16,
+ (11,
   None,
   "'No, nothing. It's for Andrea.' The short answer closes the conversation. Camille repeats the recipient's "
   'name instead of explaining why she is hurt.')]
