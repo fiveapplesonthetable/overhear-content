@@ -33,3 +33,9 @@ Used the built-in imagegen tool in edit mode after inspecting target images and 
 Prompt 05: Keep scene 05's composition, actress, courtyard and film equipment; replace the right-hand actor with scene 01's Black, close-cropped, clean-shaven servant in a cream shirt, brown breeches, white stockings and buckled shoes; replace the director with scene 01's dark-haired, bearded director in a navy sweater and tan trousers. Preserve the warm flat-color style and add no text or people.
 
 Prompt 12: Keep scene 12's composition, Mathias, office and pink armchair; replace the left-hand woman with scene 09's light-skinned Arlette, swept-up brown hair, round optical glasses, olive outfit and silk scarf; preserve her scissors gesture. Match scene 09's tan French bulldog on the chair. Preserve the warm flat-color style and add no text or people.
+
+## Batch 4: scenes 13–15 and 17
+
+Checked against source cues 237–336, including the intervening scenes merged into scene 17. Removed the invented horse fall; Julie's injury followed the greenhouse ladder escape. Rebuilt scene 17's 16-step walkthrough in story order, removed the duplicate wrong-index tailbone explanation attached to a thank-you, and restored complete English for the surprise, entrance, insistence and departure lines. All explanations now teach a useful contextual feature.
+
+Corrected river as a common noun, woods rather than drink, running rather than current, schedule components, impersonal objects, reflexive forms, and positive comparisons. Added proper noun/verb forms and examples. Four illustrations inspected; no generation needed for this batch. One notes-only follow-up to frozen scene 09 adds the positive comparative sense of “plus”; its already-correct token gloss and script are unchanged. Validation before that additive meaning: 0 errors, 74 episode warnings; one warning in scene 13 merely flags the accent in the proper place name Corrèze.
