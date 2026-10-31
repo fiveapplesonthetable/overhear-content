@@ -10,8 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'clementine': 'Clémentine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "Andréa denied everything. Yet the moment the two women step out onto the pavement, Andréa's dramatic ex-girlfriend Clémentine ambushes her right in front of Colette. Listen to the French first, without worrying about catching every word."
-OPENER = "Let's walk through it line by line. Andréa steps out of the shop with Colette and walks straight into Clémentine."
+INTRO = ("At the agency, Andréa's ex-girlfriend Clémentine confronts her in the hall, right in front of Colette. Andréa "
+ 'has just denied being a serial seducer, so the timing could hardly be worse. Listen to their exchange in French '
+ 'first.')
+OPENER = "Let's walk through it line by line. Andréa and Colette encounter Clémentine in the agency hall."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "So much for convincing Colette that she doesn't have a string of ex-girlfriends. Back at the agency, Audrey Fleurot is arriving for her meeting with Augustin. See you next time!"
 CLOSING = ('andrea', 'Merci, au revoir.')
@@ -63,7 +65,8 @@ WALK = [(0,
  (8,
   None,
   "'And you asked your assistant to break up with me!' The request uses 'ask someone to do something'. French "
-  "puts a short linking word before the second action, 'leave me'. It recalls the task Andréa gave Camille."),
+  "puts a short linking word before the second action, 'leave me'. Clémentine objects to having received the "
+  'breakup message through someone else.'),
  (9,
   None,
   "'No, that's not true!' Literally 'it is false', with Colette standing right there listening to every word."),

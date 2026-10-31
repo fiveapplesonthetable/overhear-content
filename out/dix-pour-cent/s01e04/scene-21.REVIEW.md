@@ -12,31 +12,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Audrey | Je n'ai pas eu le temps d'acheter une tenue. | I didn't have time to buy an outfit. | #540 00:32:00: Je n'ai pas eu le temps d'acheter | verbatim |
 | 2 | Audrey | J'ai un mois. J'ai déjà fait ça, mais il y a longtemps. | I have one month. I've done it before, but a long time ago. | #543 00:32:07: J'ai un mois<br>#544 00:32:10: Il y a longtemps | verbatim |
-| 3 | Audrey | On commence par le carrousel? Oh, c'est rapide! | Do we start with the carousel? Oh, that's fast! | #546 00:32:18: Le carrousel<br>#551 00:32:37: Oh, c'est rapide | verbatim |
-| 4 | Audrey | Attention, c'est glissant! | Careful, it's slippery! | #553 00:32:43: C'est glissant | verbatim |
-| 5 | Audrey | Mon cœur! Maman ne l'a pas fait exprès! | Sweetheart! Mummy didn't do it on purpose! | #554 00:33:05: Mon cœur ! Maman ne l'a pas fait exprès | verbatim |
-| 6 | Audrey | Fais voir, mon chéri. Je t'ai fait mal? | Let me see, darling. Did I hurt you? | #555 00:33:08: Fais voir, mon chéri. Je t'ai fait mal | verbatim |
-| 7 | Audrey | Bonjour, Mathias. Merci d'être venu. | Hello, Mathias. Thank you for coming. | #557 00:33:16: Bonjour, Mathias<br>#558 00:33:17: Merci d'être venu | verbatim |
-| 8 | Audrey | Traverser Paris avec les enfants, c'est difficile. | Crossing Paris with the children is hard. | #559 00:33:19: Traverser Paris avec | verbatim |
-| 9 | Mathias | Pas de problème, Audrey. | No problem, Audrey. | #560 00:33:24: Pas de problème<br>#557 00:33:16: Audrey | verbatim |
-| 10 | Audrey | Dis bonjour à Mathias. Mais c'est quoi ces bêtises? | Say hello to Mathias. Hey, what is this nonsense? | #561 00:33:26: Dis bonjour à Mathias<br>#563 00:33:29: C'est quoi ces bêtises | verbatim |
-| 11 | Audrey | Elle sent que je pars. Les enfants sont comme des éponges. | She senses that I'm leaving. Children are like sponges. | #564 00:33:35: Elle sent que je pars. Les enfants sont comme des éponges | verbatim |
-| 12 | Mathias | J'ai apporté cinq exemplaires des contrats. | I've brought five copies of the contracts. | #565 00:33:38: J'ai apporté cinq exemplaires des contrats | verbatim |
-| 13 | Audrey | Attends une seconde. C'est un questionnaire pour la nounou. | Wait a second. This is a questionnaire for the nanny. | #566 00:33:41: Attends une seconde<br>#567 00:33:44: C'est pour la nounou | verbatim |
-| 14 | Mathias | Avez-vous un problème avec l'alcool, le Coca-Cola, les bonbons? | Do you have a problem with alcohol, Coca-Cola, sweets? | #568 00:33:50: un problème avec<br>#568 00:33:50: l'alcool, le Coca-Cola, les bonbons | verbatim |
-| 15 | Mathias | Quoi? Les bonbons? | What? Sweets? | #568 00:33:50: les bonbons<br>#568 00:33:50: Quoi | verbatim |
-| 16 | Audrey | Le sucre est très mauvais! J'ai vu un documentaire. | Sugar is very bad! I saw a documentary. | #569 00:33:56: Le sucre est<br>#570 00:33:58: J'ai vu un documentaire | verbatim |
-| 17 | Audrey | Dis-moi ce que tu en penses. | Tell me what you think of it. | #571 00:34:01: Dis-moi ce que tu en penses | verbatim |
+| 3 | Audrey | Mon cœur! Maman ne l'a pas fait exprès! | Sweetheart! Mummy didn't do it on purpose! | #554 00:33:05: Mon cœur ! Maman ne l'a pas fait exprès | verbatim |
+| 4 | Audrey | Fais voir, mon chéri. Je t'ai fait mal? | Let me see, darling. Did I hurt you? | #555 00:33:08: Fais voir, mon chéri. Je t'ai fait mal | verbatim |
+| 5 | Audrey | Bonjour, Mathias. Merci d'être venu. | Hello, Mathias. Thank you for coming. | #557 00:33:16: Bonjour, Mathias<br>#558 00:33:17: Merci d'être venu | verbatim |
+| 6 | Audrey | Traverser Paris avec les enfants, c'est difficile. | Crossing Paris with the children is hard. | #559 00:33:19: Traverser Paris avec | verbatim |
+| 7 | Mathias | Pas de problème, Audrey. | No problem, Audrey. | #560 00:33:24: Pas de problème<br>#557 00:33:16: Audrey | verbatim |
+| 8 | Audrey | Dis bonjour à Mathias. Mais c'est quoi ces bêtises? | Say hello to Mathias. Hey, what is this nonsense? | #561 00:33:26: Dis bonjour à Mathias<br>#563 00:33:29: C'est quoi ces bêtises | verbatim |
+| 9 | Audrey | Elle sent que je pars. Les enfants sont comme des éponges. | She senses that I'm leaving. Children are like sponges. | #564 00:33:35: Elle sent que je pars. Les enfants sont comme des éponges | verbatim |
+| 10 | Mathias | J'ai apporté cinq exemplaires des contrats. | I've brought five copies of the contracts. | #565 00:33:38: J'ai apporté cinq exemplaires des contrats | verbatim |
+| 11 | Audrey | Attends une seconde. C'est un questionnaire pour la nounou. | Wait a second. This is a questionnaire for the nanny. | #566 00:33:41: Attends une seconde<br>#567 00:33:44: C'est pour la nounou | verbatim |
+| 12 | Mathias | Avez-vous un problème avec l'alcool, le Coca-Cola, les bonbons? | Do you have a problem with alcohol, Coca-Cola, sweets? | #568 00:33:50: un problème avec<br>#568 00:33:50: l'alcool, le Coca-Cola, les bonbons | verbatim |
+| 13 | Mathias | Quoi? Les bonbons? | What? Sweets? | #568 00:33:50: les bonbons<br>#568 00:33:50: Quoi | verbatim |
+| 14 | Audrey | Le sucre est très mauvais! J'ai vu un documentaire. | Sugar is very bad! I saw a documentary. | #569 00:33:56: Le sucre est<br>#570 00:33:58: J'ai vu un documentaire | verbatim |
+| 15 | Audrey | Dis-moi ce que tu en penses. | Tell me what you think of it. | #571 00:34:01: Dis-moi ce que tu en penses | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I didn't have time to buy an outfit.' Literally 'I have not had the time to buy'. With two small children, she barely has a minute to herself.
 - 'I have one month.' The word for month looks the same in the singular and plural. Here the word before it means one, so Audrey has a single month before filming.
 - 'I've done it before, but a long time ago.' Notice how 'ago' is expressed with the little phrase that usually means 'there is'.
-- 'Do we start with the carousel? Oh, that's fast!' The action 'start' is followed by a short word meaning 'with'. It introduces the first exercise they will try.
-- 'Careful, it's slippery!' The opening warning stands on its own. The word after 'it is' describes a surface that is easy to slip on; Audrey soon loses her balance.
 - 'Sweetheart! Mummy didn't do it on purpose!' Literally 'my heart!'. The last two words mean 'on purpose'.
-- 'Let me see, darling. Did I hurt you?' Literally 'did I do bad to you?'. Just then, Mathias walks into the studio.
+- 'Let me see, darling. Did I hurt you?' Literally 'did I do bad to you?'. Audrey is practising at home now, where her child is playing close to the pole. She checks immediately that the child is all right.
 - 'Hello, Mathias. Thank you for coming.' Literally 'thank you for having come'.
 - 'Crossing Paris with the children is hard.' The plain action 'to cross' acts as the subject of the sentence. English naturally uses the ending in 'crossing' for that same job.
 - 'No problem, Audrey.' This short reply has no full action word. Its negative meaning still reduces the article before 'problem', just as in a longer negative sentence.
@@ -49,3 +45,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What? Sweets?' Repeating the surprising item is enough to question it. The French word is plural here; English can call the same food 'sweets' or 'candy'.
 - 'Sugar is very bad! I saw a documentary.' Audrey uses 'I have seen' to describe a completed past viewing. The past form of 'see' sounds very different from the present 'I see'.
 - 'Tell me what you think of it.' Literally 'tell me that which you think of it'. Let's listen to the whole scene again without stopping.
+
+Primary-video check: private original E04 MP4id1619500213. Class with a female instructor, then Audrey practises at home; Mathias visits her HOME after the practice mishap, not the studio. Omitted trainer’s exercise question and slippery warning rather than assign them to Audrey. Original French audio audit pending.

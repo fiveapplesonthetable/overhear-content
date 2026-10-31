@@ -45,3 +45,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We're going to have some tea, okay?' Literally 'take some tea'. Over tea in the kitchen, Audrey decides to give the role back to Armelle. A little later, at the door, they are like old friends.
 - 'You know what? Thank you so much, Audrey!' Listen to the shift: Armelle now uses the casual 'you' with Audrey.
 - 'Come on, enjoy the shoot. Good luck!' And Audrey answers with the casual command too, wishing her luck on the film.
+
+Primary-video check: private original E04 MP4id1619500213. Audrey’s flat; Armelle arrives, shows her hands, cries, is comforted, and is warmly thanked at the door. Three adult roles match video; register claims remain pending original-audio audit. Original French audio audit pending.
