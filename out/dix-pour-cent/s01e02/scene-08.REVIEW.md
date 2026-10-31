@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Hippolyte | Tu viens prendre un café en terrasse? | Will you come for a coffee on the terrace? | #259 00:14:51: prendre un café en terrasse | verbatim |
 | 15 | Camille | Je suis occupée. Il faut un rendez-vous. | I'm busy. You need an appointment. | #260 00:14:53: Je suis occupée. Il faut un rendez-vous | verbatim |
 | 16 | Hippolyte | Eh bien... merci quand même. | Well... thanks anyway. | #261 00:14:58: Eh bien... merci quand même | verbatim |
-| 17 | Camille | Bonne journée. | Have a nice day. | #262 00:15:01: Bonne journée | verbatim |
+| 17 | Hippolyte | Bonne journée. | Have a nice day. | #262 00:15:01: Bonne journée | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -48,4 +48,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm busy.' Here the word for 'busy' has a feminine ending, because Camille is a woman.
 - 'You need an appointment.' This phrase means 'it is necessary', 'one needs'.
 - 'Well... thanks anyway.' The last two words mean 'all the same', a polite way to accept a no.
-- 'Have a nice day.' Literally good day, as a wish. This word for the day is feminine, which gives good its feminine ending. Camille closes the conversation politely, though rather coolly.
+- 'Have a nice day.' Literally good day, as a wish. This word for the day is feminine, which gives good its feminine ending. Hippolyte says it as he leaves after Camille has refused his invitation.
