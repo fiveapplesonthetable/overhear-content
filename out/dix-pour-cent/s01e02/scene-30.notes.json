@@ -178,15 +178,23 @@
   },
   {
    "seg": 6,
-   "trans": "I won't abandon you.",
+   "trans": "I promise I won't leave you all alone.",
    "words": [
     {
-     "t": "Je",
+     "t": "Promis,",
+     "lemma": "promettre",
+     "pos": "verb",
+     "stress": "pʁɔmi",
+     "gloss": "I promise",
+     "gram": "past participle used as a standalone commitment"
+    },
+    {
+     "t": "je",
      "lemma": "je",
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "ne",
@@ -194,53 +202,69 @@
      "pos": "part",
      "stress": "nə",
      "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "gram": "first negative element"
     },
     {
-     "t": "t'abandonnerai",
-     "lemma": "abandonner",
+     "t": "te",
+     "lemma": "te",
+     "pos": "pron",
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular direct object"
+    },
+    {
+     "t": "laisserai",
+     "lemma": "laisser",
      "pos": "verb",
-     "stress": "tabɑ̃dɔnʁe",
-     "gloss": "will abandon you",
-     "gram": "te (elided t', you) + abandonnerai: future, 1st person singular"
+     "stress": "lɛsəʁe",
+     "gloss": "will leave",
+     "gram": "first person singular future"
     },
     {
-     "t": "pas.",
+     "t": "pas",
      "lemma": "pas",
      "pos": "part",
      "stress": "pa",
      "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "gram": "second negative element"
+    },
+    {
+     "t": "toute",
+     "lemma": "tout",
+     "pos": "adv",
+     "stress": "tut",
+     "gloss": "all; completely",
+     "gram": "feminine form in toute seule, all alone"
+    },
+    {
+     "t": "seule.",
+     "lemma": "seul",
+     "pos": "adj",
+     "stress": "sœl",
+     "gloss": "alone",
+     "gram": "feminine singular describing Andréa"
     }
    ]
   },
   {
    "seg": 7,
-   "trans": "When you want a child…",
+   "trans": "To have a child.",
    "words": [
     {
-     "t": "Quand",
-     "lemma": "quand",
-     "pos": "conj",
-     "stress": "kɑ̃",
-     "gloss": "when",
-     "gram": "introduces a future time clause"
+     "t": "Pour",
+     "lemma": "pour",
+     "pos": "prep",
+     "stress": "puʁ",
+     "gloss": "to; in order to",
+     "gram": "introduces the purpose"
     },
     {
-     "t": "tu",
-     "lemma": "tu",
-     "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
-    },
-    {
-     "t": "voudras",
-     "lemma": "vouloir",
+     "t": "avoir",
+     "lemma": "avoir",
      "pos": "verb",
-     "stress": "vudʁa",
-     "gloss": "will want",
-     "gram": "futur, 2nd person singular"
+     "stress": "avwaʁ",
+     "gloss": "have",
+     "gram": "infinitive after pour"
     },
     {
      "t": "un",
@@ -248,10 +272,10 @@
      "pos": "det",
      "stress": "œ̃",
      "gloss": "a",
-     "gram": "indefinite article, masculine singular"
+     "gram": "masculine singular indefinite article"
     },
     {
-     "t": "enfant…",
+     "t": "enfant.",
      "lemma": "enfant",
      "pos": "noun",
      "stress": "ɑ̃fɑ̃",
@@ -262,7 +286,7 @@
   },
   {
    "seg": 8,
-   "trans": "I'll take you to Holland.",
+   "trans": "I'll go with you to Holland.",
    "words": [
     {
      "t": "Je",
@@ -270,23 +294,23 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
-     "t": "t'emmènerai",
-     "lemma": "emmener",
+     "t": "t'accompagnerai",
+     "lemma": "accompagner",
      "pos": "verb",
-     "stress": "tɑ̃mɛnʁe",
-     "gloss": "will take you",
-     "gram": "te (elided t', you) + emmènerai: future, 1st person singular"
+     "stress": "takɔ̃paɲəʁe",
+     "gloss": "will go with you",
+     "gram": "te plus first person singular future"
     },
     {
      "t": "en",
      "lemma": "en",
      "pos": "prep",
      "stress": "ɑ̃",
-     "gloss": "to; in",
-     "gram": "destination before feminine country name Hollande"
+     "gloss": "to",
+     "gram": "destination before a feminine country name"
     },
     {
      "t": "Hollande.",
@@ -294,7 +318,7 @@
      "pos": "name",
      "stress": null,
      "gloss": "Holland, the Netherlands",
-     "gram": "proper name"
+     "gram": "place name"
     }
    ]
   },
@@ -346,29 +370,53 @@
   },
   {
    "seg": 10,
-   "trans": "Without you…",
+   "trans": "If you weren't here…",
    "words": [
     {
-     "t": "Sans",
-     "lemma": "sans",
-     "pos": "prep",
-     "stress": "sɑ̃",
-     "gloss": "without",
-     "gram": "preposition ('sans', meaning 'without')"
+     "t": "Si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "if",
+     "gram": "introduces a hypothetical condition"
     },
     {
-     "t": "toi…",
-     "lemma": "toi",
+     "t": "tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "twa",
+     "stress": "ty",
      "gloss": "you",
-     "gram": "stressed pronoun, 2nd person singular, informal"
+     "gram": "familiar singular subject"
+    },
+    {
+     "t": "n'étais",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "netɛ",
+     "gloss": "were not",
+     "gram": "ne plus second person singular imparfait"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
+    },
+    {
+     "t": "là…",
+     "lemma": "là",
+     "pos": "adv",
+     "stress": "la",
+     "gloss": "here",
+     "gram": "presence in Andréa’s life"
     }
    ]
   },
   {
    "seg": 11,
-   "trans": "I think I'd quit this job.",
+   "trans": "I think I'd feel like quitting this job.",
    "words": [
     {
      "t": "Je",
@@ -376,15 +424,15 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "crois",
      "lemma": "croire",
      "pos": "verb",
      "stress": "kʁwa",
-     "gloss": "think, believe",
-     "gram": "present, 1st person singular"
+     "gloss": "think",
+     "gram": "first person singular present"
     },
     {
      "t": "que",
@@ -392,15 +440,31 @@
      "pos": "conj",
      "stress": "kə",
      "gloss": "that",
-     "gram": "conjunction, introduces what to say"
+     "gram": "introduces the thought"
     },
     {
-     "t": "j'arrêterais",
+     "t": "j'aurais",
+     "lemma": "avoir",
+     "pos": "verb",
+     "stress": "ʒoʁɛ",
+     "gloss": "I would have",
+     "gram": "first person singular conditional"
+    },
+    {
+     "t": "envie",
+     "lemma": "envie",
+     "pos": "noun",
+     "stress": "ɑ̃vi",
+     "gloss": "desire",
+     "gram": "feminine singular in avoir envie de, feel like"
+    },
+    {
+     "t": "d'arrêter",
      "lemma": "arrêter",
      "pos": "verb",
-     "stress": "ʒaʁɛtʁɛ",
-     "gloss": "I would quit",
-     "gram": "je (elided j') + arrêterais: conditional, 1st person singular"
+     "stress": "daʁɛte",
+     "gloss": "quitting",
+     "gram": "de plus infinitive after envie"
     },
     {
      "t": "ce",
@@ -408,14 +472,14 @@
      "pos": "det",
      "stress": "sə",
      "gloss": "this",
-     "gram": "masculine singular determiner before métier"
+     "gram": "masculine singular before métier"
     },
     {
      "t": "métier.",
      "lemma": "métier",
      "pos": "noun",
      "stress": "metje",
-     "gloss": "job, profession",
+     "gloss": "job; profession",
      "gram": "masculine singular"
     }
    ]
@@ -626,15 +690,23 @@
   },
   {
    "seg": 24,
-   "trans": "I won't abandon you.",
+   "trans": "I promise I won't leave you all alone.",
    "words": [
     {
-     "t": "Je",
+     "t": "Promis,",
+     "lemma": "promettre",
+     "pos": "verb",
+     "stress": "pʁɔmi",
+     "gloss": "I promise",
+     "gram": "past participle used as a standalone commitment"
+    },
+    {
+     "t": "je",
      "lemma": "je",
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "ne",
@@ -642,53 +714,69 @@
      "pos": "part",
      "stress": "nə",
      "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "gram": "first negative element"
     },
     {
-     "t": "t'abandonnerai",
-     "lemma": "abandonner",
+     "t": "te",
+     "lemma": "te",
+     "pos": "pron",
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular direct object"
+    },
+    {
+     "t": "laisserai",
+     "lemma": "laisser",
      "pos": "verb",
-     "stress": "tabɑ̃dɔnʁe",
-     "gloss": "will abandon you",
-     "gram": "te (elided t', you) + abandonnerai: future, 1st person singular"
+     "stress": "lɛsəʁe",
+     "gloss": "will leave",
+     "gram": "first person singular future"
     },
     {
-     "t": "pas.",
+     "t": "pas",
      "lemma": "pas",
      "pos": "part",
      "stress": "pa",
      "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "gram": "second negative element"
+    },
+    {
+     "t": "toute",
+     "lemma": "tout",
+     "pos": "adv",
+     "stress": "tut",
+     "gloss": "all; completely",
+     "gram": "feminine form in toute seule, all alone"
+    },
+    {
+     "t": "seule.",
+     "lemma": "seul",
+     "pos": "adj",
+     "stress": "sœl",
+     "gloss": "alone",
+     "gram": "feminine singular describing Andréa"
     }
    ]
   },
   {
    "seg": 26,
-   "trans": "When you want a child…",
+   "trans": "To have a child.",
    "words": [
     {
-     "t": "Quand",
-     "lemma": "quand",
-     "pos": "conj",
-     "stress": "kɑ̃",
-     "gloss": "when",
-     "gram": "introduces a future time clause"
+     "t": "Pour",
+     "lemma": "pour",
+     "pos": "prep",
+     "stress": "puʁ",
+     "gloss": "to; in order to",
+     "gram": "introduces the purpose"
     },
     {
-     "t": "tu",
-     "lemma": "tu",
-     "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
-    },
-    {
-     "t": "voudras",
-     "lemma": "vouloir",
+     "t": "avoir",
+     "lemma": "avoir",
      "pos": "verb",
-     "stress": "vudʁa",
-     "gloss": "will want",
-     "gram": "futur, 2nd person singular"
+     "stress": "avwaʁ",
+     "gloss": "have",
+     "gram": "infinitive after pour"
     },
     {
      "t": "un",
@@ -696,10 +784,10 @@
      "pos": "det",
      "stress": "œ̃",
      "gloss": "a",
-     "gram": "indefinite article, masculine singular"
+     "gram": "masculine singular indefinite article"
     },
     {
-     "t": "enfant…",
+     "t": "enfant.",
      "lemma": "enfant",
      "pos": "noun",
      "stress": "ɑ̃fɑ̃",
@@ -710,7 +798,7 @@
   },
   {
    "seg": 28,
-   "trans": "I'll take you to Holland.",
+   "trans": "I'll go with you to Holland.",
    "words": [
     {
      "t": "Je",
@@ -718,23 +806,23 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
-     "t": "t'emmènerai",
-     "lemma": "emmener",
+     "t": "t'accompagnerai",
+     "lemma": "accompagner",
      "pos": "verb",
-     "stress": "tɑ̃mɛnʁe",
-     "gloss": "will take you",
-     "gram": "te (elided t', you) + emmènerai: future, 1st person singular"
+     "stress": "takɔ̃paɲəʁe",
+     "gloss": "will go with you",
+     "gram": "te plus first person singular future"
     },
     {
      "t": "en",
      "lemma": "en",
      "pos": "prep",
      "stress": "ɑ̃",
-     "gloss": "to; in",
-     "gram": "destination before feminine country name Hollande"
+     "gloss": "to",
+     "gram": "destination before a feminine country name"
     },
     {
      "t": "Hollande.",
@@ -742,7 +830,7 @@
      "pos": "name",
      "stress": null,
      "gloss": "Holland, the Netherlands",
-     "gram": "proper name"
+     "gram": "place name"
     }
    ]
   },
@@ -794,29 +882,53 @@
   },
   {
    "seg": 32,
-   "trans": "Without you…",
+   "trans": "If you weren't here…",
    "words": [
     {
-     "t": "Sans",
-     "lemma": "sans",
-     "pos": "prep",
-     "stress": "sɑ̃",
-     "gloss": "without",
-     "gram": "preposition ('sans', meaning 'without')"
+     "t": "Si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "if",
+     "gram": "introduces a hypothetical condition"
     },
     {
-     "t": "toi…",
-     "lemma": "toi",
+     "t": "tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "twa",
+     "stress": "ty",
      "gloss": "you",
-     "gram": "stressed pronoun, 2nd person singular, informal"
+     "gram": "familiar singular subject"
+    },
+    {
+     "t": "n'étais",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "netɛ",
+     "gloss": "were not",
+     "gram": "ne plus second person singular imparfait"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
+    },
+    {
+     "t": "là…",
+     "lemma": "là",
+     "pos": "adv",
+     "stress": "la",
+     "gloss": "here",
+     "gram": "presence in Andréa’s life"
     }
    ]
   },
   {
    "seg": 34,
-   "trans": "I think I'd quit this job.",
+   "trans": "I think I'd feel like quitting this job.",
    "words": [
     {
      "t": "Je",
@@ -824,15 +936,15 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "crois",
      "lemma": "croire",
      "pos": "verb",
      "stress": "kʁwa",
-     "gloss": "think, believe",
-     "gram": "present, 1st person singular"
+     "gloss": "think",
+     "gram": "first person singular present"
     },
     {
      "t": "que",
@@ -840,15 +952,31 @@
      "pos": "conj",
      "stress": "kə",
      "gloss": "that",
-     "gram": "conjunction, introduces what to say"
+     "gram": "introduces the thought"
     },
     {
-     "t": "j'arrêterais",
+     "t": "j'aurais",
+     "lemma": "avoir",
+     "pos": "verb",
+     "stress": "ʒoʁɛ",
+     "gloss": "I would have",
+     "gram": "first person singular conditional"
+    },
+    {
+     "t": "envie",
+     "lemma": "envie",
+     "pos": "noun",
+     "stress": "ɑ̃vi",
+     "gloss": "desire",
+     "gram": "feminine singular in avoir envie de, feel like"
+    },
+    {
+     "t": "d'arrêter",
      "lemma": "arrêter",
      "pos": "verb",
-     "stress": "ʒaʁɛtʁɛ",
-     "gloss": "I would quit",
-     "gram": "je (elided j') + arrêterais: conditional, 1st person singular"
+     "stress": "daʁɛte",
+     "gloss": "quitting",
+     "gram": "de plus infinitive after envie"
     },
     {
      "t": "ce",
@@ -856,14 +984,14 @@
      "pos": "det",
      "stress": "sə",
      "gloss": "this",
-     "gram": "masculine singular determiner before métier"
+     "gram": "masculine singular before métier"
     },
     {
      "t": "métier.",
      "lemma": "métier",
      "pos": "noun",
      "stress": "metje",
-     "gloss": "job, profession",
+     "gloss": "job; profession",
      "gram": "masculine singular"
     }
    ]
@@ -1074,15 +1202,23 @@
   },
   {
    "seg": 43,
-   "trans": "I won't abandon you.",
+   "trans": "I promise I won't leave you all alone.",
    "words": [
     {
-     "t": "Je",
+     "t": "Promis,",
+     "lemma": "promettre",
+     "pos": "verb",
+     "stress": "pʁɔmi",
+     "gloss": "I promise",
+     "gram": "past participle used as a standalone commitment"
+    },
+    {
+     "t": "je",
      "lemma": "je",
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "ne",
@@ -1090,53 +1226,69 @@
      "pos": "part",
      "stress": "nə",
      "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "gram": "first negative element"
     },
     {
-     "t": "t'abandonnerai",
-     "lemma": "abandonner",
+     "t": "te",
+     "lemma": "te",
+     "pos": "pron",
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular direct object"
+    },
+    {
+     "t": "laisserai",
+     "lemma": "laisser",
      "pos": "verb",
-     "stress": "tabɑ̃dɔnʁe",
-     "gloss": "will abandon you",
-     "gram": "te (elided t', you) + abandonnerai: future, 1st person singular"
+     "stress": "lɛsəʁe",
+     "gloss": "will leave",
+     "gram": "first person singular future"
     },
     {
-     "t": "pas.",
+     "t": "pas",
      "lemma": "pas",
      "pos": "part",
      "stress": "pa",
      "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "gram": "second negative element"
+    },
+    {
+     "t": "toute",
+     "lemma": "tout",
+     "pos": "adv",
+     "stress": "tut",
+     "gloss": "all; completely",
+     "gram": "feminine form in toute seule, all alone"
+    },
+    {
+     "t": "seule.",
+     "lemma": "seul",
+     "pos": "adj",
+     "stress": "sœl",
+     "gloss": "alone",
+     "gram": "feminine singular describing Andréa"
     }
    ]
   },
   {
    "seg": 44,
-   "trans": "When you want a child…",
+   "trans": "To have a child.",
    "words": [
     {
-     "t": "Quand",
-     "lemma": "quand",
-     "pos": "conj",
-     "stress": "kɑ̃",
-     "gloss": "when",
-     "gram": "introduces a future time clause"
+     "t": "Pour",
+     "lemma": "pour",
+     "pos": "prep",
+     "stress": "puʁ",
+     "gloss": "to; in order to",
+     "gram": "introduces the purpose"
     },
     {
-     "t": "tu",
-     "lemma": "tu",
-     "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
-    },
-    {
-     "t": "voudras",
-     "lemma": "vouloir",
+     "t": "avoir",
+     "lemma": "avoir",
      "pos": "verb",
-     "stress": "vudʁa",
-     "gloss": "will want",
-     "gram": "futur, 2nd person singular"
+     "stress": "avwaʁ",
+     "gloss": "have",
+     "gram": "infinitive after pour"
     },
     {
      "t": "un",
@@ -1144,10 +1296,10 @@
      "pos": "det",
      "stress": "œ̃",
      "gloss": "a",
-     "gram": "indefinite article, masculine singular"
+     "gram": "masculine singular indefinite article"
     },
     {
-     "t": "enfant…",
+     "t": "enfant.",
      "lemma": "enfant",
      "pos": "noun",
      "stress": "ɑ̃fɑ̃",
@@ -1158,7 +1310,7 @@
   },
   {
    "seg": 45,
-   "trans": "I'll take you to Holland.",
+   "trans": "I'll go with you to Holland.",
    "words": [
     {
      "t": "Je",
@@ -1166,23 +1318,23 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
-     "t": "t'emmènerai",
-     "lemma": "emmener",
+     "t": "t'accompagnerai",
+     "lemma": "accompagner",
      "pos": "verb",
-     "stress": "tɑ̃mɛnʁe",
-     "gloss": "will take you",
-     "gram": "te (elided t', you) + emmènerai: future, 1st person singular"
+     "stress": "takɔ̃paɲəʁe",
+     "gloss": "will go with you",
+     "gram": "te plus first person singular future"
     },
     {
      "t": "en",
      "lemma": "en",
      "pos": "prep",
      "stress": "ɑ̃",
-     "gloss": "to; in",
-     "gram": "destination before feminine country name Hollande"
+     "gloss": "to",
+     "gram": "destination before a feminine country name"
     },
     {
      "t": "Hollande.",
@@ -1190,7 +1342,7 @@
      "pos": "name",
      "stress": null,
      "gloss": "Holland, the Netherlands",
-     "gram": "proper name"
+     "gram": "place name"
     }
    ]
   },
@@ -1242,29 +1394,53 @@
   },
   {
    "seg": 47,
-   "trans": "Without you…",
+   "trans": "If you weren't here…",
    "words": [
     {
-     "t": "Sans",
-     "lemma": "sans",
-     "pos": "prep",
-     "stress": "sɑ̃",
-     "gloss": "without",
-     "gram": "preposition ('sans', meaning 'without')"
+     "t": "Si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "if",
+     "gram": "introduces a hypothetical condition"
     },
     {
-     "t": "toi…",
-     "lemma": "toi",
+     "t": "tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "twa",
+     "stress": "ty",
      "gloss": "you",
-     "gram": "stressed pronoun, 2nd person singular, informal"
+     "gram": "familiar singular subject"
+    },
+    {
+     "t": "n'étais",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "netɛ",
+     "gloss": "were not",
+     "gram": "ne plus second person singular imparfait"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
+    },
+    {
+     "t": "là…",
+     "lemma": "là",
+     "pos": "adv",
+     "stress": "la",
+     "gloss": "here",
+     "gram": "presence in Andréa’s life"
     }
    ]
   },
   {
    "seg": 48,
-   "trans": "I think I'd quit this job.",
+   "trans": "I think I'd feel like quitting this job.",
    "words": [
     {
      "t": "Je",
@@ -1272,15 +1448,15 @@
      "pos": "pron",
      "stress": "ʒə",
      "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
+     "gram": "first person singular subject"
     },
     {
      "t": "crois",
      "lemma": "croire",
      "pos": "verb",
      "stress": "kʁwa",
-     "gloss": "think, believe",
-     "gram": "present, 1st person singular"
+     "gloss": "think",
+     "gram": "first person singular present"
     },
     {
      "t": "que",
@@ -1288,15 +1464,31 @@
      "pos": "conj",
      "stress": "kə",
      "gloss": "that",
-     "gram": "conjunction, introduces what to say"
+     "gram": "introduces the thought"
     },
     {
-     "t": "j'arrêterais",
+     "t": "j'aurais",
+     "lemma": "avoir",
+     "pos": "verb",
+     "stress": "ʒoʁɛ",
+     "gloss": "I would have",
+     "gram": "first person singular conditional"
+    },
+    {
+     "t": "envie",
+     "lemma": "envie",
+     "pos": "noun",
+     "stress": "ɑ̃vi",
+     "gloss": "desire",
+     "gram": "feminine singular in avoir envie de, feel like"
+    },
+    {
+     "t": "d'arrêter",
      "lemma": "arrêter",
      "pos": "verb",
-     "stress": "ʒaʁɛtʁɛ",
-     "gloss": "I would quit",
-     "gram": "je (elided j') + arrêterais: conditional, 1st person singular"
+     "stress": "daʁɛte",
+     "gloss": "quitting",
+     "gram": "de plus infinitive after envie"
     },
     {
      "t": "ce",
@@ -1304,14 +1496,14 @@
      "pos": "det",
      "stress": "sə",
      "gloss": "this",
-     "gram": "masculine singular determiner before métier"
+     "gram": "masculine singular before métier"
     },
     {
      "t": "métier.",
      "lemma": "métier",
      "pos": "noun",
      "stress": "metje",
-     "gloss": "job, profession",
+     "gloss": "job; profession",
      "gram": "masculine singular"
     }
    ]
@@ -1370,163 +1562,6 @@
   }
  ],
  "lexicon": {
-  "abandonner": {
-   "lemma": "abandonner",
-   "stress": "abɑ̃dɔne",
-   "pos": "verb",
-   "gloss": "to abandon, to leave",
-   "meanings": [
-    {
-     "en": "to abandon, to leave (someone)",
-     "note": "Leave a person without support."
-    },
-    {
-     "en": "to give up",
-     "note": "Give up a plan or activity."
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "j'abandonne",
-       "nous abandonnons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu abandonnes",
-       "vous abandonnez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle abandonne",
-       "ils/elles abandonnent"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Passé composé",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai abandonné",
-        "nous avons abandonné"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as abandonné",
-        "vous avez abandonné"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a abandonné",
-        "ils/elles ont abandonné"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imparfait",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'abandonnais",
-        "nous abandonnions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu abandonnais",
-        "vous abandonniez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle abandonnait",
-        "ils/elles abandonnaient"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Futur",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'abandonnerai",
-        "nous abandonnerons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu abandonneras",
-        "vous abandonnerez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle abandonnera",
-        "ils/elles abandonneront"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Je ne t'abandonnerai pas.",
-     "trans": "I won't abandon you."
-    },
-    {
-     "text": "Il abandonne le projet.",
-     "trans": "He's giving up the project."
-    },
-    {
-     "text": "Il m'abandonne.",
-     "trans": "He's abandoning me."
-    }
-   ],
-   "related": []
-  },
   "arrêter": {
    "lemma": "arrêter",
    "stress": "aʁɛte",
@@ -2192,159 +2227,6 @@
     }
    ]
   },
-  "emmener": {
-   "lemma": "emmener",
-   "stress": "ɑ̃məne",
-   "pos": "verb",
-   "gloss": "to take (someone somewhere)",
-   "meanings": [
-    {
-     "en": "to take (a person) somewhere",
-     "note": "Take a person or animal along to another place. For carrying an object away, use emporter."
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "j'emmène",
-       "nous emmenons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu emmènes",
-       "vous emmenez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle emmène",
-       "ils/elles emmènent"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Passé composé",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai emmené",
-        "nous avons emmené"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as emmené",
-        "vous avez emmené"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a emmené",
-        "ils/elles ont emmené"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imparfait",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'emmenais",
-        "nous emmenions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu emmenais",
-        "vous emmeniez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle emmenait",
-        "ils/elles emmenaient"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Futur",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'emmènerai",
-        "nous emmènerons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu emmèneras",
-        "vous emmènerez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle emmènera",
-        "ils/elles emmèneront"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Je t'emmènerai en Hollande.",
-     "trans": "I'll take you to Holland."
-    },
-    {
-     "text": "Elle emmène son fils à l'école.",
-     "trans": "She takes her son to school."
-    },
-    {
-     "text": "Quand tu voudras un enfant, je t'emmènerai en Hollande.",
-     "trans": "When you want a child, I'll take you to Holland."
-    }
-   ],
-   "related": []
-  },
   "en": {
    "lemma": "en",
    "stress": "ɑ̃",
@@ -2897,40 +2779,6 @@
     }
    ]
   },
-  "quand": {
-   "lemma": "quand",
-   "stress": "kɑ̃",
-   "pos": "adv",
-   "gloss": "when",
-   "meanings": [
-    {
-     "en": "when",
-     "note": "Question word or conjunction. Invariable French adverb meaning 'when'; placed immediately after the conjugated verb in simple tenses."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Vous serez là quand?",
-     "trans": "When will you be here?"
-    },
-    {
-     "text": "Quand tu veux.",
-     "trans": "Whenever you like."
-    },
-    {
-     "text": "Quand j'étais étudiante...",
-     "trans": "When I was a student..."
-    }
-   ],
-   "related": [
-    {
-     "word": "quand même",
-     "gloss": "still"
-    }
-   ]
-  },
   "que": {
    "lemma": "que",
    "stress": "kə",
@@ -2976,35 +2824,6 @@
      "gloss": "that"
     }
    ]
-  },
-  "sans": {
-   "lemma": "sans",
-   "stress": "sɑ̃",
-   "pos": "prep",
-   "gloss": "without",
-   "meanings": [
-    {
-     "en": "without",
-     "note": "Without a person, thing or action."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Sans rendez-vous?",
-     "trans": "Without an appointment?"
-    },
-    {
-     "text": "Un café sans sucre.",
-     "trans": "A coffee without sugar."
-    },
-    {
-     "text": "Sans rendez-vous? Je ne promets rien.",
-     "trans": "Without an appointment? I'm not promising anything."
-    }
-   ],
-   "related": []
   },
   "soirée": {
    "lemma": "soirée",
@@ -3061,35 +2880,6 @@
      "gloss": "evening"
     }
    ]
-  },
-  "toi": {
-   "lemma": "toi",
-   "stress": "twa",
-   "pos": "pron",
-   "gloss": "you",
-   "meanings": [
-    {
-     "en": "you",
-     "note": "Stressed familiar you, used after a preposition or for emphasis: de toi, et toi."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Et toi?",
-     "trans": "And you?"
-    },
-    {
-     "text": "C'est pour toi.",
-     "trans": "It's for you."
-    },
-    {
-     "text": "Oui, et toi?",
-     "trans": "Fine, and you?"
-    }
-   ],
-   "related": []
   },
   "tu": {
    "lemma": "tu",
@@ -3183,172 +2973,6 @@
     {
      "word": "un",
      "gloss": "a"
-    }
-   ]
-  },
-  "vouloir": {
-   "lemma": "vouloir",
-   "stress": "vulwaʁ",
-   "pos": "verb",
-   "gloss": "to want",
-   "meanings": [
-    {
-     "en": "to want",
-     "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
-    },
-    {
-     "en": "je voulais = I wanted",
-     "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je veux",
-       "nous voulons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu veux",
-       "vous voulez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle veut",
-       "ils/elles veulent"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Passé composé",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai voulu",
-        "nous avons voulu"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as voulu",
-        "vous avez voulu"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a voulu",
-        "ils/elles ont voulu"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imparfait",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je voulais",
-        "nous voulions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu voulais",
-        "vous vouliez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle voulait",
-        "ils/elles voulaient"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Futur",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je voudrai",
-        "nous voudrons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu voudras",
-        "vous voudrez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle voudra",
-        "ils/elles voudront"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Je veux juste voir Mathias.",
-     "trans": "I just want to see Mathias."
-    },
-    {
-     "text": "Je voulais te faire la surprise.",
-     "trans": "I wanted to surprise you."
-    },
-    {
-     "text": "Je ne suis pas actrice. Je veux juste voir Mathias.",
-     "trans": "I'm not an actress. I just want to see Mathias."
-    }
-   ],
-   "related": [
-    {
-     "word": "volonté",
-     "gloss": "will, determination"
-    },
-    {
-     "word": "en vouloir à",
-     "gloss": "to hold a grudge against"
     }
    ]
   },
@@ -3539,6 +3163,845 @@
     {
      "word": "peut-être",
      "gloss": "maybe, perhaps"
+    }
+   ]
+  },
+  "seul": {
+   "lemma": "seul",
+   "stress": "sœl",
+   "pos": "adj",
+   "gloss": "alone; only",
+   "meanings": [
+    {
+     "en": "alone; only",
+     "note": "Before a noun it can mean only; after a person it often means alone."
+    }
+   ],
+   "forms": {
+    "title": "Forms",
+    "columns": [
+     "",
+     "m",
+     "f"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "sg",
+       "seul",
+       "seule"
+      ]
+     },
+     {
+      "cells": [
+       "pl",
+       "seuls",
+       "seules"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Il est seul.",
+     "trans": "He is alone."
+    },
+    {
+     "text": "C'est notre seul allié.",
+     "trans": "He is our only ally."
+    }
+   ],
+   "related": []
+  },
+  "tout": {
+   "lemma": "tout",
+   "stress": "tu",
+   "pos": "det",
+   "gloss": "all; every",
+   "meanings": [
+    {
+     "en": "all; every",
+     "note": ""
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Tout le monde est là.",
+     "trans": "Everyone is here."
+    },
+    {
+     "text": "Tout va bien.",
+     "trans": "Everything is going well."
+    }
+   ],
+   "related": []
+  },
+  "si": {
+   "lemma": "si",
+   "stress": "si",
+   "pos": "conj",
+   "gloss": "if; yes (to a negative)",
+   "meanings": [
+    {
+     "en": "if",
+     "note": "Si tu veux = if you want."
+    },
+    {
+     "en": "yes",
+     "note": "answering a negative question: Aucune nouvelle? - Si!"
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Si tu veux, on peut en parler demain matin.",
+     "trans": "If you want, we can talk about it tomorrow morning."
+    },
+    {
+     "text": "Dis-moi tout de suite si le rôle t'intéresse.",
+     "trans": "Tell me right away if the role interests you."
+    }
+   ],
+   "related": [
+    {
+     "word": "si tu veux",
+     "gloss": "if you want"
+    }
+   ]
+  },
+  "là": {
+   "lemma": "là",
+   "stress": "la",
+   "pos": "adv",
+   "gloss": "there; here",
+   "meanings": [
+    {
+     "en": "here",
+     "note": "être là = to be here, to be present"
+    },
+    {
+     "en": "there",
+     "note": ""
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Tout le monde est là.",
+     "trans": "Everyone is here."
+    },
+    {
+     "text": "Camille est là.",
+     "trans": "Camille is here."
+    }
+   ],
+   "related": [
+    {
+     "word": "ici",
+     "gloss": "here"
+    },
+    {
+     "word": "là-bas",
+     "gloss": "over there"
+    }
+   ]
+  },
+  "promettre": {
+   "lemma": "promettre",
+   "stress": "pʁɔmɛtʁ",
+   "pos": "verb",
+   "gloss": "to promise",
+   "meanings": [
+    {
+     "en": "to promise",
+     "note": "Promise something to someone: promettre une chose à quelqu’un."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "je promets",
+       "nous promettons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu promets",
+       "vous promettez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle promet",
+       "ils/elles promettent"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Passé composé",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'ai promis",
+        "nous avons promis"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu as promis",
+        "vous avez promis"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle a promis",
+        "ils/elles ont promis"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Imparfait",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "je promettais",
+        "nous promettions"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu promettais",
+        "vous promettiez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle promettait",
+        "ils/elles promettaient"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Futur",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "je promettrai",
+        "nous promettrons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu promettras",
+        "vous promettrez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle promettra",
+        "ils/elles promettront"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Je ne promets rien.",
+     "trans": "I'm not promising anything."
+    },
+    {
+     "text": "Tu promets?",
+     "trans": "Do you promise?"
+    },
+    {
+     "text": "Sans rendez-vous? Je ne promets rien.",
+     "trans": "Without an appointment? I'm not promising anything."
+    }
+   ],
+   "related": []
+  },
+  "laisser": {
+   "lemma": "laisser",
+   "stress": "lɛse",
+   "pos": "verb",
+   "gloss": "to leave; to let",
+   "meanings": [
+    {
+     "en": "to leave (something somewhere)",
+     "note": "Leave an object somewhere or leave something for someone."
+    },
+    {
+     "en": "to let, to allow",
+     "note": "Allow someone to do something: laisser quelqu’un voir."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "je laisse",
+       "nous laissons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu laisses",
+       "vous laissez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle laisse",
+       "ils/elles laissent"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Passé composé",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'ai laissé",
+        "nous avons laissé"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu as laissé",
+        "vous avez laissé"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle a laissé",
+        "ils/elles ont laissé"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Imparfait",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "je laissais",
+        "nous laissions"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu laissais",
+        "vous laissiez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle laissait",
+        "ils/elles laissaient"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Futur",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "je laisserai",
+        "nous laisserons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu laisseras",
+        "vous laisserez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle laissera",
+        "ils/elles laisseront"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Imperative",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "—",
+        "laissons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "laisse",
+        "laissez"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Laissez vos photos ici.",
+     "trans": "Leave your photos here."
+    },
+    {
+     "text": "Laisse-moi parler!",
+     "trans": "Let me speak!"
+    },
+    {
+     "text": "Laissez vos photos et votre CV ici.",
+     "trans": "Leave your photos and your CV here."
+    }
+   ],
+   "related": []
+  },
+  "te": {
+   "lemma": "te",
+   "stress": "tə",
+   "pos": "pron",
+   "gloss": "you (casual, object)",
+   "meanings": [
+    {
+     "en": "you, to you",
+     "note": "Unstressed informal object pronoun; becomes t' before a vowel."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Je voulais te faire la surprise.",
+     "trans": "I wanted to surprise you."
+    },
+    {
+     "text": "Je te rappelle.",
+     "trans": "I'll call you back."
+    },
+    {
+     "text": "Je ne sais pas. Je voulais te faire la surprise.",
+     "trans": "I don't know. I wanted to surprise you."
+    }
+   ],
+   "related": []
+  },
+  "accompagner": {
+   "lemma": "accompagner",
+   "stress": "akɔ̃paɲe",
+   "pos": "verb",
+   "gloss": "to accompany; to go with",
+   "meanings": [
+    {
+     "en": "accompany or go with someone",
+     "note": "Offer company or support by going somewhere with a person."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "j'accompagne",
+       "nous accompagnons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu accompagnes",
+       "vous accompagnez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle accompagne",
+       "ils/elles accompagnent"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Future",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'accompagnerai",
+        "nous accompagnerons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu accompagneras",
+        "vous accompagnerez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle accompagnera",
+        "ils/elles accompagneront"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Past participle",
+     "columns": [
+      "",
+      "form"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "with avoir",
+        "accompagné"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Je t'accompagnerai.",
+     "trans": "I'll go with you."
+    },
+    {
+     "text": "Elle accompagne son amie à la gare.",
+     "trans": "She goes with her friend to the station."
+    }
+   ],
+   "related": []
+  },
+  "envie": {
+   "lemma": "envie",
+   "stress": "ɑ̃vi",
+   "pos": "noun",
+   "gloss": "desire; wish",
+   "gender": "f",
+   "plural": "envies",
+   "meanings": [
+    {
+     "en": "desire or wish",
+     "note": "Avoir envie de plus infinitive means feel like or want to do something."
+    }
+   ],
+   "forms": {
+    "title": "Forms",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "form",
+       "l'envie",
+       "les envies"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "J'ai envie de partir.",
+     "trans": "I feel like leaving."
+    },
+    {
+     "text": "Elle a envie d'un café.",
+     "trans": "She wants a coffee."
+    }
+   ],
+   "related": []
+  },
+  "avoir": {
+   "lemma": "avoir",
+   "stress": "avwaʁ",
+   "pos": "verb",
+   "gloss": "to have",
+   "meanings": [
+    {
+     "en": "to have",
+     "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
+    },
+    {
+     "en": "helper verb of the passé composé",
+     "note": "J'ai appelé = I called."
+    },
+    {
+     "en": "il y a = there is, there are",
+     "note": "Fixed expression."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "j'ai",
+       "nous avons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu as",
+       "vous avez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle a",
+       "ils/elles ont"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Passé composé",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'ai eu",
+        "nous avons eu"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu as eu",
+        "vous avez eu"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle a eu",
+        "ils/elles ont eu"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Imparfait",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'avais",
+        "nous avions"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu avais",
+        "vous aviez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle avait",
+        "ils/elles avaient"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Futur",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'aurai",
+        "nous aurons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu auras",
+        "vous aurez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle aura",
+        "ils/elles auront"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Imperative",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "—",
+        "ayons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "aie",
+        "ayez"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "J'ai un petit loft.",
+     "trans": "I've got a little loft."
+    },
+    {
+     "text": "Tu as une réunion.",
+     "trans": "You have a meeting."
+    }
+   ],
+   "related": [
+    {
+     "word": "avoir à voir",
+     "gloss": "to have to do with"
     }
    ]
   }
