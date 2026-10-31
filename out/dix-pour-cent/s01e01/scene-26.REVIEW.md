@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Gabriel | Merci, Mathias! Tu as volé Cécile! | Thanks, Mathias! You stole Cecile! | #684 00:38:35: Merci, Mathias<br>#684 00:38:35: Merci | verbatim |
+| 1 | Gabriel | Merci, Mathias! Tu as volé Cécile! | Thanks, Mathias! You stole Cecile! | #684 00:38:35: Merci, Mathias<br>#681 00:38:18: Il a volé Cécile | adapted: Thanks from cue684; Gabriel’s accusation from merged scene25 is addressed directly to Mathias. |
 | 2 | Gabriel | Et ne dis pas que c'était pour le bien de l'agence. | And don't say it was for the good of the agency. | #685 00:38:37: pour le bien de l'agence | verbatim |
 | 3 | Mathias | Bien sûr que oui, Gabriel. | Of course it was, Gabriel. | #686 00:38:40: Bien sûr que oui, Gabriel | verbatim |
 | 4 | Mathias | Deux autres agences voulaient Cécile. | Two other agencies wanted Cécile. | #689 00:38:48: Deux autres agences | verbatim |
