@@ -7,7 +7,7 @@ SCENE = 14
 TITLE = 'Hélène veut vendre  (Hélène Wants to Sell)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'helene': 'Hélène', 'mathias': 'Mathias'}
+LABELS = {'andrea': 'Andréa', 'helene': 'Hélène', 'mathias': 'Mathias', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = ("An emergency meeting brings the four partners to a hotel to see Samuel's widow, Hélène. Andréa arrives "
@@ -25,7 +25,7 @@ STORY = [('andrea',
   [(396, 'Non, Gabor, tu ne vas pas mourir'), (400, "Je t'appelle demain")],
   ''),
  ('andrea', 'Désolée. Je suis là.', "Sorry. I'm here.", [(402, 'Désolée. Je suis là')], ''),
- ('mathias',
+ ('gabriel',
   'Hélène, vous pouvez compter sur nous.',
   'Hélène, you can count on us.',
   [(403, 'Hélène'), (404, 'vous pouvez compter sur nous')],
@@ -51,7 +51,7 @@ STORY = [('andrea',
   "I don't know. To the quickest.",
   [(419, 'Je ne sais pas'), (420, 'Au plus rapide')],
   ''),
- ('mathias',
+ ('andrea',
   'On peut racheter les parts de Samuel.',
   "We can buy Samuel's shares.",
   [(426, 'On peut racheter les parts de Samuel')],
@@ -97,8 +97,8 @@ WALK = [(0,
   'and joins the others.'),
  (2,
   None,
-  "'Hélène, you can count on us.' Mathias uses the formal 'you' with Samuel's widow. It's polite, and a bit "
-  'cold.'),
+  "'Hélène, you can count on us.' Gabriel uses formal you to Samuel's widow. The polite address expresses "
+  'respect, while count on us offers the support of the whole group.'),
  (3,
   None,
   "'Thank you. Samuel didn't leave a will.' The negative changes a will into no will: the short article "
