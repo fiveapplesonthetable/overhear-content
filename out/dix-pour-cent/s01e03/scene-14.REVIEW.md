@@ -10,24 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Gabriel | Andréa. Voici la dame du centre des impôts. | Andréa. Here is the lady from the tax office. | #314: Andréa<br>#315: Voici la dame du centre des impôts | verbatim |
-| 2 | Andréa | Bonjour. Andréa Martel. | Hello. Andréa Martel. | #316: Bonjour. Andréa Martel | verbatim |
-| 3 | Colette | Colette Brancillon. J'ai besoin d'un bureau pour travailler. | Colette Brancillon. I need an office to work in. | #316: Colette Brancillon<br>#317: besoin d'un bureau pour travailler | verbatim |
-| 4 | Andréa | Notre patron est mort il y a trois semaines. | Our boss died three weeks ago. | #318: Notre patron est<br>#318: il y a trois semaines | verbatim |
-| 5 | Andréa | J'ai vraiment l'impression de vous connaître. | I really have the feeling I know you. | #320: J'ai vraiment l'impression de vous connaître | verbatim |
-| 6 | Colette | Non, je ne crois pas. | No, I don't think so. | #321: Non, je ne crois pas | verbatim |
-| 7 | Andréa | C'était peut-être dans une autre vie. | Maybe it was in another life. | #322: C'était peut-être dans une autre vie | verbatim |
-| 8 | Andréa | Vous avez tout ce qu'il vous faut? | Do you have everything you need? | #323: Vous avez<br>#324: tout ce qu'il vous faut | verbatim |
-| 9 | Colette | Oui, merci. | Yes, thank you. | #325: Oui, merci | verbatim |
-| 10 | Andréa | Mon bureau est juste là. À tout à l'heure. | See you later. | #326: mon bureau est juste là<br>#327: À tout à l'heure | verbatim |
-| 11 | Colette | D'accord, merci. | Okay, thank you. | #327: D'accord, merci | verbatim |
-| 12 | Andréa | Salut, Clément, c'est Andréa. | Hi, Clément, it's Andréa. | #328: c'est Andréa | verbatim |
-| 13 | Andréa | Avec Colette Brancillon, ça va aller. On oublie notre accord. | Forget our deal. | #329: avec Colette Brancillon<br>#330: on oublie | verbatim |
-| 14 | Gabriel | Elle va rester ici pendant des semaines? | Is she going to stay here for weeks? | #332: Elle va<br>#332: pendant des semaines | verbatim |
-| 15 | Gabriel | Et on peut faire faillite? | And could we go bankrupt? | #334: faire faillite | verbatim |
-| 16 | Andréa | Oui. Mais c'est la vie. | Yes. But that's life. | #336: c'est la vie | verbatim |
-
-
+| 1 | Gabriel | Andréa. Voici la dame du centre des impôts. | Andréa. Here is the lady from the tax office. | #314 00:18:36: Andréa<br>#315 00:18:37: Voici la dame du centre des impôts | verbatim |
+| 2 | Andréa | Bonjour. Andréa Martel. | Hello. Andréa Martel. | #316 00:18:41: Bonjour. Andréa Martel | verbatim |
+| 3 | Colette | Colette Brancillon. J'ai besoin d'un bureau pour travailler. | Colette Brancillon. I need an office to work in. | #316 00:18:41: Colette Brancillon<br>#317 00:18:45: besoin d'un bureau pour travailler | verbatim |
+| 4 | Andréa | Notre patron est mort il y a trois semaines. | Our boss died three weeks ago. | #318 00:18:50: Notre patron est<br>#318 00:18:50: il y a trois semaines | verbatim |
+| 5 | Andréa | J'ai vraiment l'impression de vous connaître. | I really have the feeling I know you. | #320 00:18:56: J'ai vraiment l'impression de vous connaître | verbatim |
+| 6 | Colette | Non, je ne crois pas. | No, I don't think so. | #321 00:19:01: Non, je ne crois pas | verbatim |
+| 7 | Andréa | C'était peut-être dans une autre vie. | Maybe it was in another life. | #322 00:19:05: C'était peut-être dans une autre vie | verbatim |
+| 8 | Andréa | Vous avez tout ce qu'il vous faut? | Do you have everything you need? | #323 00:19:09: Vous avez<br>#324 00:19:11: tout ce qu'il vous faut | verbatim |
+| 9 | Colette | Oui, merci. | Yes, thank you. | #325 00:19:13: Oui, merci | verbatim |
+| 10 | Andréa | Mon bureau est juste là. À tout à l'heure. | My office is right there. See you later. | #326 00:19:14: mon bureau est juste là<br>#327 00:19:18: À tout à l'heure | verbatim |
+| 11 | Colette | D'accord, merci. | Okay, thank you. | #327 00:19:18: D'accord, merci | verbatim |
+| 12 | Andréa | Salut, Clément, c'est Andréa. | Hi, Clément, it's Andréa. | #328 00:19:26: c'est Andréa | verbatim |
+| 13 | Andréa | Avec Colette Brancillon, ça va aller. On oublie notre accord. | With Colette Brancillon, it'll be fine. Forget our deal. | #329 00:19:29: avec Colette Brancillon<br>#330 00:19:32: on oublie | verbatim |
+| 14 | Gabriel | Elle va rester ici pendant des semaines? | Is she going to stay here for weeks? | #332 00:19:41: Elle va<br>#332 00:19:41: pendant des semaines | verbatim |
+| 15 | Gabriel | Et on peut faire faillite? | And could we go bankrupt? | #334 00:19:45: faire faillite | verbatim |
+| 16 | Andréa | Oui. Mais c'est la vie. | Yes. But that's life. | #336 00:19:50: c'est la vie | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
