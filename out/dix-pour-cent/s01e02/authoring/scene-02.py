@@ -148,8 +148,8 @@ WALK = [(0,
   'without changing the order of the rest. Something is literally some thing, followed by wrong.'),
  (15,
   None,
-  "'Apart from getting a job here?' Apart from introduces the exception that Mathias holds against her. "
-  'French uses have found for getting here: she has already found the job.'),
+  "'Apart from getting a job here?' Apart from introduces the exception that Mathias holds against her. The "
+  'French phrase describes a job she has already found. He objects to her working in his own agency.'),
  (16,
   None,
   "'I'm just doing my job. I don't even look at you.' Just means only here. The ending not even strengthens "
