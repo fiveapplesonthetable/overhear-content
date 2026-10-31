@@ -48,3 +48,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I don't know how to behave around you.' The self-directed action for behaving includes the short word meaning myself before its plain form. Andréa admits that she is uncertain how to act.
 
 Primary-source audit: full original French audio, unprompted large-v3-turbo transcript, and private source-video frames. Corrections preserve the actual situation and register. Subtitle fragments remain provenance anchors, not authoritative French transcripts. English translation, replay and story consistency checked.
+
+English precision edit: removed the unconfirmed same-day qualifier from the earlier hotel visit. Native dialogue, full translation glosses, notes, order and gaps unchanged.
