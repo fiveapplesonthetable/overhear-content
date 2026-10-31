@@ -347,8 +347,6 @@
       ]
     },
     {
-      "seg": 9,
-      "trans": "Sofia, do you want to come with me?",
       "words": [
         {
           "t": "Sofia,",
@@ -359,20 +357,20 @@
           "gram": "proper noun ('Sofia')"
         },
         {
-          "t": "tu",
-          "lemma": "tu",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you (polite)",
+          "gram": "polite second person plural subject or reflexive object"
         },
         {
-          "t": "veux",
+          "t": "voulez",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vø",
+          "stress": "vule",
           "gloss": "want",
-          "gram": "present second person singular of vouloir"
+          "gram": "present second person plural"
         },
         {
           "t": "venir",
@@ -398,7 +396,9 @@
           "gloss": "me",
           "gram": "stressed pronoun, 1st person singular, after a preposition"
         }
-      ]
+      ],
+      "trans": "Sofia, do you want to come with me?",
+      "seg": 9
     },
     {
       "words": [
@@ -983,8 +983,6 @@
       ]
     },
     {
-      "seg": 33,
-      "trans": "Sofia, do you want to come with me?",
       "words": [
         {
           "t": "Sofia,",
@@ -995,20 +993,20 @@
           "gram": "proper noun ('Sofia')"
         },
         {
-          "t": "tu",
-          "lemma": "tu",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you (polite)",
+          "gram": "polite second person plural subject or reflexive object"
         },
         {
-          "t": "veux",
+          "t": "voulez",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vø",
+          "stress": "vule",
           "gloss": "want",
-          "gram": "present second person singular of vouloir"
+          "gram": "present second person plural"
         },
         {
           "t": "venir",
@@ -1034,7 +1032,9 @@
           "gloss": "me",
           "gram": "stressed pronoun, 1st person singular, after a preposition"
         }
-      ]
+      ],
+      "trans": "Sofia, do you want to come with me?",
+      "seg": 33
     },
     {
       "words": [
@@ -1633,8 +1633,6 @@
       ]
     },
     {
-      "seg": 55,
-      "trans": "Sofia, do you want to come with me?",
       "words": [
         {
           "t": "Sofia,",
@@ -1645,20 +1643,20 @@
           "gram": "proper noun ('Sofia')"
         },
         {
-          "t": "tu",
-          "lemma": "tu",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you (polite)",
+          "gram": "polite second person plural subject or reflexive object"
         },
         {
-          "t": "veux",
+          "t": "voulez",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vø",
+          "stress": "vule",
           "gloss": "want",
-          "gram": "present second person singular of vouloir"
+          "gram": "present second person plural"
         },
         {
           "t": "venir",
@@ -1684,7 +1682,9 @@
           "gloss": "me",
           "gram": "stressed pronoun, 1st person singular, after a preposition"
         }
-      ]
+      ],
+      "trans": "Sofia, do you want to come with me?",
+      "seg": 55
     },
     {
       "words": [
@@ -4428,36 +4428,6 @@
       ],
       "related": []
     },
-    "tu": {
-      "lemma": "tu",
-      "stress": "ty",
-      "pos": "pron",
-      "gloss": "you (casual)",
-      "meanings": [
-        {
-          "en": "you",
-          "note": "one person you know well: friends, family, close colleagues"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu es pénible.",
-          "trans": "You're a pain."
-        },
-        {
-          "text": "Tu es en vacances?",
-          "trans": "Are you on holiday?"
-        }
-      ],
-      "related": [
-        {
-          "word": "vous",
-          "gloss": "you (polite or plural)"
-        }
-      ]
-    },
     "tête": {
       "lemma": "tête",
       "stress": "tɛt",
@@ -5546,6 +5516,44 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
+        }
+      ]
+    },
+    "vous": {
+      "lemma": "vous",
+      "stress": "vu",
+      "pos": "pron",
+      "gloss": "you (polite or plural)",
+      "meanings": [
+        {
+          "en": "you (polite)",
+          "note": "One person, formal."
+        },
+        {
+          "en": "you (plural)",
+          "note": "Several people."
+        },
+        {
+          "en": "you (object)",
+          "note": "je vous rappelle = I'll call you back"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        },
+        {
+          "text": "Je vous rappelle.",
+          "trans": "I'll call you back."
+        }
+      ],
+      "related": [
+        {
+          "word": "tu",
+          "gloss": "you (informal)"
         }
       ]
     }

@@ -4,7 +4,7 @@ Title: J'ai encore un agent?  (Do I Still Have an Agent?)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E01
-
+French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Cécile | C'est peut-être dans ma tête. | Maybe it's all in my head. | #407 00:22:31: C'est peut-être dans ma tête | verbatim |
 | 7 | Cécile | Mais j'ai l'impression que Gabriel m'évite. | But I have the feeling Gabriel is avoiding me. | #407 00:22:31: mais j'ai l'impression que Gabriel m'évite | verbatim |
 | 8 | Gabriel | Il est une heure. Je vais déjeuner. | It's one o'clock. I'm going to lunch. | #409 00:22:36: Il est une heure, je vais déjeuner | verbatim |
-| 9 | Gabriel | Sofia, tu veux venir avec moi? | Sofia, do you want to come with me? | #410 00:22:39: Tu veux | verbatim |
+| 9 | Gabriel | Sofia, vous voulez venir avec moi? | Sofia, do you want to come with me? | #410 00:22:39: Tu veux | adapted: The invitation preserves polite address confirmed by original French audio. |
 | 10 | Cécile | Qu'est-ce qui se passe ici? | What's going on here? | #413 00:22:45: Qu'est-ce qui se passe ici | adapted: Question addresses Herve; added Gabriel vocative removed. |
 | 11 | Hervé | Je suis désolé. Je dois répondre, c'est urgent. | I'm sorry. I have to answer; it's urgent. | #414 00:22:50: Je suis désolé<br>#415 00:22:51: Je dois répondre, c'est urgent | verbatim |
 | 12 | Hervé | Oui, allô? Ça fait des mois que j'attends ton appel! | Yes, hello? I've been waiting for your call for months! | #416 00:22:54: Oui, allô<br>#419 00:22:58: Ça fait des mois que j'attends ton appel | verbatim |
@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But I have the feeling Gabriel is avoiding me.' French says 'I have the impression that' for this feeling. Gabriel is trying to slip away while Cecile speaks to his assistant.
 - 'It's one o'clock.' For the time, French says 'it is one hour'.
 - 'I'm going to lunch.' Here's a pattern you'll use every day: the verb 'to go' plus another verb in its basic form talks about what you're about to do. I'm going to eat lunch.
-- 'Sofia, do you want to come with me?' 'Want' is followed by the plain action 'come'. After 'with', the pronoun meaning 'me' has a different shape from the one used before an action.
+- 'Sofia, do you want to come with me?' The polite request links 'want' to the plain action 'come'. After 'with', French uses a separate form for the person who would accompany Sofia.
 - 'What's going on here?' The opening asks 'what', while the action means 'is happening'. Cecile is now questioning Herve, who reaches for his telephone.
 - 'I'm sorry.' The description is masculine because Herve is speaking about himself. A woman adds a written letter at the end, but the apology sounds the same.
 - 'I have to answer, it's urgent.' Another verb plus a basic-form verb: I must, then 'answer'. And he starts talking to someone, or perhaps to no one.
