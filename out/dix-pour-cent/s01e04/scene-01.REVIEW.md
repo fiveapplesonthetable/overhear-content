@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Audrey | Attends, tu marches trop vite. Je ne veux pas le réveiller. | Wait, you're walking too fast. I don't want to wake him. | #1 00:00:02: Attends, tu marches trop vite<br>#2 00:00:05: Je ne veux pas le réveiller | verbatim |
+| 1 | Audrey | Attendez, vous marchez vite. Je ne veux pas le réveiller. | Wait, you're walking fast. I don't want to wake him. | #1 00:00:02: Attends, tu marches trop vite<br>#2 00:00:05: Je ne veux pas le réveiller | adapted: Actual original French audio uses polite vous, unlike backtranslated dual SRT. |
 | 2 | Audrey | Il n'a pas dormi de la nuit. Il fait ses dents. | He didn't sleep all night. He's teething. | #3 00:00:08: Il n'a pas dormi de la nuit<br>#4 00:00:10: Il fait ses dents | verbatim |
-| 3 | Mathias | On ne prend aucun risque. Laisse-moi parler. | We're not taking any risks. Let me do the talking. | #10 00:00:30: On ne prend aucun risque<br>#10 00:00:30: parler | verbatim |
+| 3 | Mathias | On ne prend aucun risque. Laissez-moi parler. | We're not taking any risks. Let me do the talking. | #10 00:00:30: On ne prend aucun risque<br>#10 00:00:30: parler | adapted: Original audio: Vous faites profil bas et vous me laissez parler. Shortened polite command preserves the original register. |
 | 4 | L'inspecteur | C'est votre mari? | Is he your husband? | #16 00:00:56: C'est votre mari ? | verbatim |
 | 5 | Mathias | Non, son agent. | No, her agent. | #16 00:00:56: Non, son agent | verbatim |
 | 6 | L'inspecteur | Madame, vous avez vingt-trois mois de retard. | Madam, you are twenty-three months late. | #19 00:01:06: madame<br>#20 00:01:10: vous avez<br>#20 00:01:10: mois de retard | verbatim |
@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, you're walking too fast.' Audrey gives a casual command from the action word 'to wait', followed by 'you walk too fast'.
+- 'Wait, you're walking fast.' Audrey uses a polite command, followed by the matching polite form of 'you walk'. She is worried about waking her baby.
 - 'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before the action word 'to wake'.
 - 'He didn't sleep all night.' Literally 'of the night', the idiomatic way to say 'all night long' after a negative.
 - 'He's teething.' Literally 'he is making his teeth'.
-- 'We're not taking any risks. Let me do the talking.' The negative word after the action word means 'no' or 'not any'. Mathias thinks the friendly inspector Mr Jarron is still in charge, but a much stricter man is sitting at the desk.
+- 'We're not taking any risks. Let me do the talking.' The negative word after the action means 'not any'. The command keeps polite address to one person. Mathias expects a familiar inspector, but a stricter replacement is now at the desk.
 - 'Is he your husband?' The inspector uses the polite 'your' as they sit down.
 - 'No, her agent.' The possessive follows the gender of the job title, not the owner. A male agent therefore takes the same form whether he represents a woman or a man.
 - 'Madam, you are twenty-three months late.' Literally 'you have twenty-three months of delay'. French uses 'to have' with a noun for being late.
@@ -48,4 +48,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, it's a huge project.' The describing word comes after 'project'. It has the same spoken form for a masculine or feminine thing, so you can reuse it to describe either kind of thing.
 - 'I expect your cheque this week, with ten percent extra.' At the end, the word for 'more' means an added amount. It does not mean 'no longer': there is no negative around it.
 
-Primary-video speaker check: private E4 dual MP4 file 1619500213, 38 frames spanning 00:00:00–00:02:33. Audrey carries her baby beside Mathias; the tax inspector is male. The reviewed lesson uses the correct three roles. Images stay private under /mnt/agent/narrator-runs/e04-editorial/source-review/.
+Original French audio audit: private source01-audio.wav, unprompted large-v3-turbo transcript row e04-scene01-actual in source-register-urgent02-asr.json. Audrey uses Attendez/vous marchez; Mathias also addresses her politely. Corrected both casual forms inherited from backtranslated dual SRT. Other lesson meanings match original audio; polite imperative is a disclosed shortening of source request.

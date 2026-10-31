@@ -19,20 +19,21 @@ OUTRO = ("Audrey's comeback has become an urgent promise. You heard how to descr
  'question and add an extra amount. Listen for those patterns when you meet them again. See you next time!')
 CLOSING = ('audrey', 'Au revoir!')
 STORY = [('audrey',
-  'Attends, tu marches trop vite. Je ne veux pas le réveiller.',
-  "Wait, you're walking too fast. I don't want to wake him.",
+  'Attendez, vous marchez vite. Je ne veux pas le réveiller.',
+  "Wait, you're walking fast. I don't want to wake him.",
   [(1, 'Attends, tu marches trop vite'), (2, 'Je ne veux pas le réveiller')],
-  ''),
+  'Actual original French audio uses polite vous, unlike backtranslated dual SRT.'),
  ('audrey',
   "Il n'a pas dormi de la nuit. Il fait ses dents.",
   "He didn't sleep all night. He's teething.",
   [(3, "Il n'a pas dormi de la nuit"), (4, 'Il fait ses dents')],
   ''),
  ('mathias',
-  'On ne prend aucun risque. Laisse-moi parler.',
+  'On ne prend aucun risque. Laissez-moi parler.',
   "We're not taking any risks. Let me do the talking.",
   [(10, 'On ne prend aucun risque'), (10, 'parler')],
-  ''),
+  'Original audio: Vous faites profil bas et vous me laissez parler. Shortened polite command preserves the '
+  'original register.'),
  ('inspecteur', "C'est votre mari?", 'Is he your husband?', [(16, "C'est votre mari ?")], ''),
  ('mathias', 'Non, son agent.', 'No, her agent.', [(16, 'Non, son agent')], ''),
  ('inspecteur',
@@ -87,9 +88,9 @@ STORY = [('audrey',
   [(47, "J'attends votre chèque cette semaine"), (48, 'majoration de 10 %')],
   'Shortened into one sentence; the source surcharge is ten percent.')]
 WALK = [(0,
-  'Attends, tu marches trop vite.',
-  "'Wait, you're walking too fast.' Audrey gives a casual command from the action word 'to wait', followed by "
-  "'you walk too fast'."),
+  'Attendez, vous marchez vite.',
+  "'Wait, you're walking fast.' Audrey uses a polite command, followed by the matching polite form of 'you walk'. "
+  'She is worried about waking her baby.'),
  (0,
   'Je ne veux pas le réveiller.',
   "'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before "
@@ -101,9 +102,9 @@ WALK = [(0,
  (1, 'Il fait ses dents.', "'He's teething.' Literally 'he is making his teeth'."),
  (2,
   None,
-  "'We're not taking any risks. Let me do the talking.' The negative word after the action word means 'no' or "
-  "'not any'. Mathias thinks the friendly inspector Mr Jarron is still in charge, but a much stricter man is "
-  'sitting at the desk.'),
+  "'We're not taking any risks. Let me do the talking.' The negative word after the action means 'not any'. The "
+  'command keeps polite address to one person. Mathias expects a familiar inspector, but a stricter replacement '
+  'is now at the desk.'),
  (3, None, "'Is he your husband?' The inspector uses the polite 'your' as they sit down."),
  (4,
   None,
