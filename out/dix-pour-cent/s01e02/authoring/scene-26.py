@@ -65,25 +65,27 @@ STORY = [('gabriel',
   ''),
  ('line', 'Tu nous manques, Samou.', 'We miss you, Samou.', [(735, 'Tu nous manques, Samou')], ''),
  ('line',
-  'Mais je te promets une chose. Nous continuerons à rire.',
-  "But I promise you one thing. We'll keep on laughing.",
+  'Mais je te promets une chose. Nous allons continuer de rigoler.',
+  "But I promise you one thing. We're going to keep on laughing.",
   [(736, 'Mais je te promets une chose'), (737, 'Nous continuerons à rire')],
-  ''),
+  'Restores actual original near future Nous allons continuer de rigoler, not the simple future invented by '
+  'the dual subtitles. Omits the following concessive clause.'),
  ('francoise',
   'Oui, il faut se battre contre le chagrin.',
   'Yes, we must fight against sorrow.',
   [(740, 'Oui, il faut se battre contre le chagrin')],
   ''),
  ('francoise',
-  'Samuel aimait vraiment rire.',
-  'Samuel really loved to laugh.',
+  'Samuel était très doué pour le rire.',
+  'Samuel had a real gift for laughter.',
   [(741, 'Samuel aimait vraiment rire')],
-  ''),
+  'Restores actual French gifted-for-laughter description; dual subtitles changed it to loved to laugh.'),
  ('line',
-  'Tu aimais une belle chanson. Celle-là surtout.',
-  'You loved a beautiful song. This one most of all.',
+  'Tu aimais tellement les chansons. Celle-ci surtout.',
+  'You loved songs so much. This one most of all.',
   [(746, 'Tu aimais une belle chanson'), (747, 'celle-là surtout')],
-  ''),
+  'Restores original plural songs/tellement and celle-ci. Condenses en particulier celle-ci as celle-ci '
+  'surtout.'),
  ('line',
   "Tu disais que c'était notre chanson.",
   'You used to say it was our song.',
@@ -138,22 +140,23 @@ WALK = [(0, 'Bonsoir.', "'Good evening.' Remember, this is the greeting for the 
   'Mais je te promets une chose.',
   "'But I promise you one thing.' She speaks to Samuel with the casual 'you', as to an old friend."),
  (10,
-  'Nous continuerons à rire.',
-  "'We'll keep on laughing.' This is the simple future: the verb 'continue' with a future ending. Line wants "
-  'laughter, not tears.'),
+  'Nous allons continuer de rigoler.',
+  "'We're going to keep on laughing.' The future plan uses go followed by keep on, which in turn links to "
+  "laugh. The last word is an informal way to say laugh or have fun. Line promises that Samuel's friends "
+  'will continue to find joy.'),
  (11,
   None,
   "'Yes, we must fight against sorrow.' Françoise takes the floor back, with the expression for 'we must'. "
   'The word at the end is a strong one for grief.'),
  (12,
   None,
-  "'Samuel really loved to laugh.' Loved followed directly by laugh describes something Samuel enjoyed. "
-  "Really strengthens the memory. Françoise agrees with Line's image of him, while trying to add her own "
-  'view of their friend.'),
+  "'Samuel had a real gift for laughter.' The French wording says he was very gifted for laughter. After "
+  'the, laugh becomes a naming word for laughter itself, rather than an action he is doing. Françoise '
+  'acknowledges his humour while adding her own view of him.'),
  (13,
   None,
-  "'You loved a beautiful song. This one most of all.' Line has the last word. The word for 'beautiful' is "
-  'feminine, like the song.'),
+  "'You loved songs so much. This one most of all.' So much strengthens loved. This one picks out a "
+  'particular song from the songs Samuel enjoyed. Its ending matches the feminine word for song.'),
  (14,
   None,
   "'You used to say it was our song.' Line uses two action words in the background past. Then the music "
