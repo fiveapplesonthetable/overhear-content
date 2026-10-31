@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'emma': 'Emma'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
-INTRO = ("Emma, the producer of Gabor's film, confronts Andréa after Françoise has withdrawn. Michel Piccoli refuses "
- 'to act without her, and years of work may collapse. Andréa promises to bring Françoise back, then '
- 'struggles to record an apology on her voicemail. First, listen to the argument in French.')
+INTRO = ("Emma, the producer of Gabor's film, confronts Andréa after Françoise has withdrawn. Her co-star refuses to "
+ 'act without her, and years of work may collapse. Andréa promises to bring Françoise back, then struggles '
+ 'to record an apology on her voicemail. First, listen to the argument in French.')
 OPENER = "Let's go back through it. Emma comes straight in with what Françoise told her."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'A rough morning for Andréa, but you came through it fine. See you next time!'
