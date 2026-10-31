@@ -1,3 +1,5 @@
+SOURCE_NOTE = ('French dialogue is an A1 abridgment. The dual subtitle sidecar provides scene locators; actual French '
+ 'audio confirms the familiar address in the phone call and polite address in the interview.')
 # Authoring module for dix-pour-cent-s01e01-scene-01.
 ID = 'dix-pour-cent-s01e01-scene-01'
 SHOW = 'dix-pour-cent'
@@ -20,10 +22,10 @@ OUTRO = ('You have heard how to ask where someone is and say that you are late. 
  'beyond this photo shoot. See you next time.')
 CLOSING = ('cecile', 'Bonne soirée!')
 STORY = [('gabriel',
-  'Cécile? Vous êtes où?',
+  'Cécile? Tu es où?',
   'Cecile? Where are you?',
   [(12, 'Cécile ?'), (13, 'Vous êtes où ?')],
-  ''),
+  'Simplified from actual French audio, preserving the familiar tu/te address.'),
  ('cecile',
   "Gabriel! Je suis à mon cours d'équitation.",
   "Gabriel! I'm at my horse-riding lesson.",
@@ -35,23 +37,31 @@ STORY = [('gabriel',
   [(14, 'On est au Westin'), (15, 'Tout le monde est là')],
   ''),
  ('cecile', 'Oh non! Je suis en retard.', "Oh no! I'm late.", [], ''),
- ('gabriel', 'Vous savez monter, non?', "You can ride, can't you?", [(19, 'vous saviez monter')], ''),
+ ('gabriel',
+  'Tu sais monter, non?',
+  "You can ride, can't you?",
+  [(19, 'vous saviez monter')],
+  'Simplified from actual French audio, preserving the familiar tu/te address.'),
  ('cecile',
   "Oui, oui. J'ai juste besoin d'un petit cours.",
   'Yes, yes. I just need a little lesson.',
   [(22, "J'ai juste besoin d'un petit cours")],
   ''),
  ('gabriel',
-  'Je peux vous faire confiance?',
+  'Je peux te faire confiance?',
   'Can I trust you?',
   [(26, 'Je peux vous faire confiance ?')],
-  ''),
+  'Simplified from actual French audio, preserving the familiar tu/te address.'),
  ('cecile',
-  'Oui. Je suis presque au point. Je vous rappelle.',
+  'Oui. Je suis presque au point. Je te rappelle.',
   "Yes. I've almost got it. I'll call you back.",
   [(27, 'Je suis presque au point'), (29, 'je vous rappelle')],
-  ''),
- ('gabriel', 'Vous serez là quand?', 'When will you be here?', [(30, 'Vous serez là quand ?')], ''),
+  'Simplified from actual French audio, preserving the familiar tu/te address.'),
+ ('gabriel',
+  'Tu es là quand?',
+  'When will you be here?',
+  [(30, 'Vous serez là quand ?')],
+  'Simplified from actual French audio, preserving the familiar tu/te address.'),
  ('cecile', 'Dans une heure.', 'In an hour.', [(30, 'Dans une heure')], ''),
  ('cecile',
   'Je suis désolée. Vraiment désolée.',
@@ -85,9 +95,9 @@ STORY = [('gabriel',
   [(68, "C'est comme un rêve pour moi")],
   'Shortened from the interrupted source sentence.')]
 WALK = [(0,
-  'Vous êtes où?',
-  "'Where are you?' The question word comes last in this everyday spoken question. The polite word for 'you' "
-  'also fits the relationship between an agent and his client.'),
+  'Tu es où?',
+  "'Where are you?' The question word comes last in this everyday spoken question. Gabriel uses the familiar "
+  'address with Cecile; these two already know each other well.'),
  (1,
   "Je suis à mon cours d'équitation.",
   "'I'm at my horse-riding lesson.' The possessive 'my' goes with a masculine noun meaning 'lesson'. It "
@@ -121,13 +131,13 @@ WALK = [(0,
   "'I've almost got it.' The expression at the end means being ready or having something worked out. Saying "
   "'almost' leaves a little room for doubt."),
  (7,
-  'Je vous rappelle.',
+  'Je te rappelle.',
   "'I'll call you back.' French uses the present here for an immediate promise. The person being called is "
   'named before the action.'),
  (8,
   None,
-  "'When will you be here?' This time the form of 'be' points to the future. Again the question word waits "
-  'until the end.'),
+  "'When will you be here?' The question uses the present form of 'be' for an expected arrival. The time "
+  'question again comes at the end.'),
  (9,
   None,
   "'In an hour.' The short word at the start locates a moment in the future. It does not say how long the "
