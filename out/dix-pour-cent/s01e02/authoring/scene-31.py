@@ -16,8 +16,9 @@ INTRO = ('Mathias confronts Camille outside the agency about Hippolyte. He knows
  'episode in French first.')
 OPENER = "Let's take it slowly. Mathias walks straight up to Camille and attacks."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ("That's the end of the second episode. It was a long, emotional week at the agency, and you followed it all "
- 'the way to the last puff of smoke. See you next time!')
+OUTRO = ("The second episode ends with a painful family argument and a quiet gesture of comfort. Arlette's final "
+ 'image links the cigarette smoke with troubles that will eventually pass. Listen again to the shift from '
+ 'accusations to reassurance. See you next time!')
 CLOSING = ('arlette', 'À demain, Camille.')
 STORY = [('mathias',
   'À quoi tu joues avec mon fils?',
@@ -34,46 +35,43 @@ STORY = [('mathias',
   'Tu es complètement irresponsable!',
   "You're completely irresponsible!",
   [(831, 'Tu es complètement irresponsable')],
-  ''),
+  'Neutral personal accusation equivalent to the original C’est complètement inconscient, that is completely '
+  'reckless.'),
  ('camille',
   "C'est toi qui mens à tout le monde!",
   "You're the one who lies to everybody!",
   [(832, "C'est toi qui mens à tout le monde")],
   ''),
- ('camille', 'Tu es un lâche!', "You're a coward!", [(833, 'lâche')], ''),
  ('camille',
-  "Tu n'as jamais dit la vérité sur nous!",
-  'You never told the truth about us!',
+  "Tu ne t'es jamais occupé de nous!",
+  'You never took care of us!',
   [(834, "Tu n'as jamais")],
-  'Short adaptation of Camille’s complaint that Mathias never acknowledged their relationship: uses telling '
-  'the truth rather than taking responsibility.'),
+  'Restores original complaint about never taking care of us, not the different truth-telling statement '
+  'invented by dual subtitles. Simplifies emphatic C’est toi qui and adds written ne.'),
  ('mathias',
-  'Reste loin de ma famille.',
-  'Stay away from my family.',
+  "Tu ne t'approches pas de ma famille!",
+  'Stay away from my family!',
   [(835, 'Reste loin de ma famille')],
-  ''),
+  'Restores original negative present used as a warning. Omits est-ce que c’est clair and adds written ne; '
+  'not an imperative reste.'),
  ('camille',
-  'Je fais partie de ta famille, moi aussi!',
-  "I'm part of your family too!",
+  'Moi aussi, je suis ta famille!',
+  "I'm your family too!",
   [(836, 'Je fais partie de ta famille, moi aussi')],
-  ''),
+  'Restores actual moi aussi je suis ta famille; dual subtitles had changed it into faire partie de.'),
  ('camille', 'Tu as du feu, Noémie?', 'Have you got a light, Noémie?', [(837, 'du feu, Noémie')], ''),
- ('arlette',
-  'Mais attends... Voilà.',
-  'But wait... There you go.',
-  [],
-  'Added brief invitation to accompany Arlette’s silent offer of the lighter.'),
  ('camille', 'Merci.', 'Thanks.', [(839, 'Merci')], ''),
  ('arlette',
-  "C'est rien.",
-  "It's nothing.",
+  "Ne t'en fais pas.",
+  "Don't worry.",
   [(840, "C'est rien")],
-  'Source video confirms Arlette offers the light and comfort; Noémie has already declined and left.'),
+  'Actual original Arlette says T’en fais pas, va. Adds written ne and omits the softening va; dual '
+  'subtitles had changed the meaning to C’est rien.'),
  ('arlette',
-  'Les chagrins, les hommes, tout part en fumée.',
-  'Sorrows, men, it all goes up in smoke.',
+  'Les chagrins, les hommes, tout finit par partir en fumée.',
+  'Sorrows, men, everything eventually goes up in smoke.',
   [(841, 'Les chagrins, les hommes'), (842, 'tout part en fumée')],
-  'Source video confirms Arlette offers the light and comfort; Noémie has already declined and left.')]
+  'Restores actual finit par partir, eventually goes, omitted by dual subtitles.')]
 WALK = [(0,
   None,
   "'What are you playing at with my son?' The opening is literally at what are you playing. Play can "
@@ -97,38 +95,34 @@ WALK = [(0,
   "one person. And 'everybody' is literally 'all the world'."),
  (5,
   None,
-  "'You're a coward!' The word for coward is a noun after a. It can name a man or a woman without changing "
-  'its spelling; here the article is masculine because Camille is addressing Mathias.'),
+  "'You never took care of us!' Never replaces the ordinary second negative word after the past helper. The "
+  'action takes the helper be because it comes with the short self word. Of introduces the people Mathias '
+  'failed to look after.'),
  (6,
   None,
-  "'You never told the truth about us!' Never replaces the usual second negative word after the past helper. "
-  'About introduces the subject of that truth: the relationship he has kept hidden.'),
+  "'Stay away from my family!' The French statement literally says you do not come near my family. Spoken "
+  'forcefully, it acts as a warning without changing the ordinary order. My family excludes Camille, and her '
+  'next line challenges that exclusion.'),
  (7,
   None,
-  "'Stay away from my family.' Stay is a command to one familiar person. Far from becomes away from in this "
-  'warning. Mathias excludes Camille with my family, and her answer challenges that exclusion.'),
+  "'I'm your family too!' Me too at the front insists on Camille's place among the people he has just "
+  'claimed as his family. The ordinary I then starts the statement. The familiar your makes the reply '
+  'personal.'),
  (8,
-  None,
-  "'I'm part of your family too!' Literally 'I make part of your family'. The last two words, 'me too', add "
-  'strong emphasis on who she is.'),
- (9,
   None,
   "'Have you got a light, Noémie?' Literally, do you have some fire? Fire here means a flame for the "
   'cigarette. Noémie says she does not smoke and leaves; Arlette then comes over with a lighter.'),
- (10,
-  None,
-  "'But wait... There you go.' Wait is another familiar command, now used to help rather than to warn. There "
-  "you go accompanies the offer of a light. Arlette's gesture changes the mood after the argument."),
- (11,
+ (9,
   None,
   "'Thanks.' One short word acknowledges a small act of help. Camille does not need to name the lighter or "
   'explain the favour: Arlette has just seen what she needed.'),
- (12,
+ (10,
   None,
-  "'It's nothing.' Arlette treats the favour as no trouble. The first negative word is absent in this "
-  'ordinary spoken phrase, but nothing still makes the meaning negative.'),
- (13,
+  "'Don't worry.' The short it refers to whatever is troubling Camille. In this fixed expression, the action "
+  'word do carries the meaning worry. Arlette offers reassurance without demanding an explanation of what '
+  'happened.'),
+ (11,
   None,
-  "'Sorrows, men, it all goes up in smoke.' Everything gathers the two topics into one idea. Goes up in "
-  'smoke is a fixed image for things disappearing. Arlette links it to the cigarette in front of them and '
-  "offers comfort without asking questions. Let's hear the scene once more.")]
+  "'Sorrows, men, everything eventually goes up in smoke.' Eventually comes from ends up followed by the "
+  'next action. Everything gathers the two topics into one idea. Arlette links them to the cigarette smoke '
+  "and suggests that the pain will pass. Let's hear the scene once more.")]
