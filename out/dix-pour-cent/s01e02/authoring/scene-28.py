@@ -7,47 +7,124 @@ SCENE = 28
 TITLE = "Toute la famille est là  (The Whole Family's Here)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'camille': 'Camille', 'hippolyte': 'Hippolyte', 'mathias': 'Mathias'}
+LABELS = {'camille': 'Camille', 'hippolyte': 'Hippolyte', 'catherine': 'Catherine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
-INTRO = "They arrived late, and Hippolyte's mother, Catherine, is scolding him for running through the cemetery. Camille doesn't know these people yet. In a minute she will, and she won't like what she finds out. Listen to it in French first; you don't need every word to feel the shock."
-OPENER = "Let's take it slowly. Hippolyte answers his mother, who is cross because he ran between the graves."
+INTRO = ('At the tribute, Camille asks Hippolyte about running through the cemetery. Then his mother Catherine joins '
+ "them. Camille is about to discover that Mathias is Hippolyte's father as well as her own. Catherine knows "
+ "Camille only as the agency's new assistant. Listen first as the introductions reveal the family "
+ 'connection.')
+OPENER = ("Let's take it slowly. Hippolyte answers Camille's question about running through the cemetery, before his "
+ 'mother joins them.')
 TRANSITION = 'Now listen to the whole scene again.'
-OUTRO = "A family reunion that only two people understand. Notice how Camille switches between the polite 'you' and the casual one, depending on who's listening. See you next time!"
+OUTRO = ('Camille now knows that the man she kissed is her half-brother. Catherine still sees an ordinary '
+ 'introduction at an agency gathering. Listen again for the family words and the simple statement of thirst '
+ 'that lets Camille escape the conversation. See you next time!')
 CLOSING = ('camille', 'Salut!')
-STORY = [
-    ('hippolyte', "Oui, j'ai couru dans le cimetière.", 'Yes, I ran in the cemetery.', [(776, "Oui, j'ai couru dans le cimetière")], ''),
-    ('hippolyte', 'Voici Catherine, ma mère.', 'This is Catherine, my mother.', [(778, 'Voici Catherine, ma mère')], ''),
-    ('camille', 'Bonjour, madame.', 'Hello.', [(778, 'Bonjour')], ''),
-    ('hippolyte', "Voici Camille, la nouvelle assistante d'Andréa.", "This is Camille, Andréa's new assistant.", [(779, "Voici Camille, la nouvelle assistante d'Andréa")], ''),
-    ('hippolyte', 'Mon père a travaillé avec Samuel pendant quinze ans.', 'My father worked with Samuel for fifteen years.', [(782, 'a travaillé avec lui pendant plus de 15 ans')], ''),
-    ('hippolyte', 'Quand on parle du loup… Papa!', 'Speak of the devil… Dad!', [(783, 'Quand on parle du loup')], ''),
-    ('camille', "Ton père, c'est Mathias?", 'Your father is Mathias?', [], ''),
-    ('mathias', 'Toute la famille est là maintenant.', "The whole family's here now.", [(784, 'Toute la famille est là maintenant')], ''),
-    ('mathias', 'Pas besoin de présentations.', 'No need for introductions.', [(785, 'présentations')], ''),
-    ('hippolyte', "Camille est l'assistante d'Andréa.", "Camille is Andréa's assistant.", [(786, "Camille est l'assistante d'Andréa")], ''),
-    ('mathias', "Oui, Hippolyte me l'a dit.", 'Yes, Hippolyte told me.', [(787, "Oui, Hippolyte me l'a dit")], ''),
-    ('camille', 'Je ne savais pas que votre fils était acteur.', "I didn't know your son was an actor.", [(788, 'Je ne savais pas que votre fils était acteur')], ''),
-    ('camille', "Pourquoi tu ne m'as pas dit ça?", "Why didn't you tell me that?", [(789, 'me le dire')], ''),
-    ('hippolyte', "Qu'est-ce que ça change?", 'What difference does it make?', [(790, "Qu'est-ce que ça change")], ''),
-    ('camille', "J'ai soif.", "I'm thirsty.", [(791, "J'ai soif")], ''),
-    ('hippolyte', 'On va prendre un verre?', 'Shall we get a drink?', [(792, 'On va prendre un verre')], ''),
-]
-WALK = [
-    (0, None, "'Yes, I ran in the cemetery.' He just repeats her words back to her, a bit cheeky."),
-    (1, None, "'This is Catherine, my mother.' The first word is the one you use to present someone: 'here is'. Camille greets her politely."),
-    (2, None, "'Hello.' The second word is the polite way to address a woman, and Catherine is older and a stranger. Now it's Camille's turn to be introduced."),
-    (3, None, "'This is Camille, Andréa's new assistant.' To say whose assistant, French says 'the assistant of Andréa'. There's no apostrophe-s. Then a bit of family history."),
-    (4, None, "'My father worked with Samuel for fifteen years.' Here, Camille hears it, but doesn't connect the dots yet. And right then, someone walks up."),
-    (5, None, "'Speak of the devil… Dad!' The French saying is literally 'when you talk about the wolf'. And the wolf is Mathias."),
-    (6, None, "'Your father is Mathias?' Word for word: 'your father, it's Mathias?' This is the moment Camille understands. Mathias is her father too, so Hippolyte, the boy she kissed last night, is her half-brother."),
-    (7, None, "'The whole family's here now.' Mathias says it to be polite, but for Camille it hurts: she's part of this family, and nobody here knows it except him."),
-    (8, None, "'No need for introductions.' Literally 'no need of introductions'. He knows exactly who she is. Hippolyte explains anyway."),
-    (9, None, "'Camille is Andréa's assistant.' Again, 'the assistant of Andréa'. Mathias plays it cool."),
-    (10, None, "'Yes, Hippolyte told me.' Literally 'Hippolyte told it to me'. Two little words sit in front of the verb: 'me' and 'it'. Camille answers him in the same game."),
-    (11, None, "'I didn't know your son was an actor.' Listen to how she addresses Mathias: the polite 'you', as if he were a stranger. In private she calls him by the casual 'you'. Here, she's playing along. Then she turns to Hippolyte."),
-    (12, None, "'Why didn't you tell me that?' With Hippolyte it's the casual 'you'."),
-    (13, None, "'What difference does it make?' Literally 'what does that change?'. For Hippolyte, nothing. For Camille, everything."),
-    (14, None, "'I'm thirsty.' In French you don't 'are' thirsty, you 'have' thirst. It's her way of escaping the conversation."),
-    (15, None, "'Shall we get a drink?' Literally 'we're going to take a glass?'. The verb 'to go' plus another verb talks about the near future. Now listen to the whole scene again."),
-]
+STORY = [('hippolyte',
+  "Oui, j'ai couru dans le cimetière.",
+  'Yes, I ran in the cemetery.',
+  [(776, "Oui, j'ai couru dans le cimetière")],
+  ''),
+ ('hippolyte',
+  'Voici Catherine, ma mère.',
+  'This is Catherine, my mother.',
+  [(778, 'Voici Catherine, ma mère')],
+  ''),
+ ('camille', 'Bonjour, madame.', 'Hello, madam.', [(778, 'Bonjour')], ''),
+ ('hippolyte',
+  "Voici Camille, la nouvelle assistante d'Andréa.",
+  "This is Camille, Andréa's new assistant.",
+  [(779, "Voici Camille, la nouvelle assistante d'Andréa")],
+  ''),
+ ('catherine',
+  'Mon mari a travaillé avec Samuel pendant quinze ans.',
+  'My husband worked with Samuel for fifteen years.',
+  [(782, 'a travaillé avec lui pendant plus de 15 ans')],
+  'Restores Catherine’s original husband reference, rather than inventing Hippolyte saying my father. Omits '
+  'source plus de, more than.'),
+ ('catherine',
+  'Quand on parle du loup… Mathias!',
+  'Speak of the devil… Mathias!',
+  [(783, 'Quand on parle du loup')],
+  'Source Catherine calls to her husband Mathias; not Hippolyte calling Papa.'),
+ ('hippolyte',
+  "Camille est l'assistante d'Andréa.",
+  "Camille is Andréa's assistant.",
+  [(786, "Camille est l'assistante d'Andréa")],
+  ''),
+ ('catherine',
+  "Oui, Hippolyte me l'a dit.",
+  'Yes, Hippolyte told me.',
+  [(787, "Oui, Hippolyte me l'a dit")],
+  'Primary video confirms Catherine answers Camille here, not Mathias.'),
+ ('camille',
+  'Je ne savais pas que votre fils était acteur.',
+  "I didn't know your son was an actor.",
+  [(788, 'Je ne savais pas que votre fils était acteur')],
+  ''),
+ ('camille',
+  "Pourquoi tu ne m'as pas dit ça?",
+  "Why didn't you tell me that?",
+  [(789, 'me le dire')],
+  'Simplifies the source reproach, you could have told me, as a direct question asking why he did not tell '
+  'her.'),
+ ('hippolyte',
+  "Qu'est-ce que ça change?",
+  'What difference does it make?',
+  [(790, "Qu'est-ce que ça change")],
+  ''),
+ ('camille', "J'ai soif.", "I'm thirsty.", [(791, "J'ai soif")], ''),
+ ('hippolyte', 'On va prendre un verre?', 'Shall we get a drink?', [(792, 'On va prendre un verre')], '')]
+WALK = [(0,
+  None,
+  "'Yes, I ran in the cemetery.' Have plus run places the action in the past. In the cemetery gives the "
+  "location. Hippolyte repeats Camille's wording as he answers her question."),
+ (1,
+  None,
+  "'This is Catherine, my mother.' The first word is the one you use to present someone: 'here is'. Camille "
+  'greets her politely.'),
+ (2,
+  None,
+  "'Hello, madam.' The second word is a respectful way to address a woman. It adds politeness to the "
+  'greeting without using a word for you. Catherine and Camille have just been introduced.'),
+ (3,
+  None,
+  "'This is Camille, Andréa's new assistant.' To say whose assistant, French says 'the assistant of Andréa'. "
+  "There's no apostrophe-s. Then a bit of family history."),
+ (4,
+  None,
+  "'My husband worked with Samuel for fifteen years.' Husband names Catherine's relationship to Mathias. For "
+  'introduces the length of time they worked together, while with names his colleague, Samuel.'),
+ (5,
+  None,
+  "'Speak of the devil… Mathias!' The French saying literally means when you speak of the wolf. Catherine "
+  'has just mentioned her husband when he appears. He remarks that the whole family is now here. His arrival '
+  "makes Camille realise who Hippolyte's father is."),
+ (6, None, "'Camille is Andréa's assistant.' Again, 'the assistant of Andréa'. Mathias plays it cool."),
+ (7,
+  None,
+  "'Yes, Hippolyte told me.' Catherine answers Camille. Told it to me is packed into the short French past: "
+  "me identifies the person informed, and it refers to Camille's job at the agency."),
+ (8,
+  None,
+  "'I didn't know your son was an actor.' Camille addresses Catherine politely with your son. Knew describes "
+  'her earlier lack of knowledge; was an actor names the job without needing a word for an before actor in '
+  'French.'),
+ (9,
+  None,
+  "'Why didn't you tell me that?' Camille now turns to Hippolyte and uses familiar you. The negative "
+  'surrounds the past helper, while me comes before it. Her question asks why he kept the family connection '
+  'from her.'),
+ (10,
+  None,
+  "'What difference does it make?' Literally what does that change? That stands for the fact they have just "
+  'discussed. For Hippolyte it seems unimportant, while Camille understands that they share a father.'),
+ (11,
+  None,
+  "'I'm thirsty.' In French you don't 'are' thirsty, you 'have' thirst. It's her way of escaping the "
+  'conversation.'),
+ (12,
+  None,
+  "'Shall we get a drink?' Literally 'we're going to take a glass?'. The verb 'to go' plus another verb "
+  'talks about the near future. Now listen to the whole scene again.')]
