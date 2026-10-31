@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Mathias | Bonjour. Ah, vous voilà. | Hello. Ah, there you are. | #158 00:09:35: Bonjour<br>#158 00:09:35: Ah, vous voilà | adapted: A greeting from Arlette and Mathias's reply are combined as Mathias's welcome. Learner adaptation, not a verbatim French transcript. |
-| 2 | Arlette | Voici Marie-Sophie Garnier, chef scénariste sur Heureux pour toujours. | This is Marie-Sophie Garnier, head screenwriter on Happy Ever After. | #159 00:09:37: Voici Marie-Sophie Garnier<br>#160 00:09:39: chef scénariste sur Heureux pour toujours | adapted: Learner adaptation, not a verbatim French transcript. |
+| 2 | Arlette | Voici Marie-Sophie Garnier, chef scénariste sur Que du bonheur. | This is Marie-Sophie Garnier, head screenwriter on Happy Ever After. | #159 00:09:37: Voici Marie-Sophie Garnier<br>#160 00:09:39: chef scénariste sur Heureux pour toujours | adapted: Learner adaptation, not a verbatim French transcript. Dedicated unprompted original-French ASR09/10 confirms Que du bonheur as the actual series title. Happy Ever After is the English working-subtitle localization, not a literal translation. |
 | 3 | Mathias | Je sais. Qu'est-ce qui se passe? Jonathan Joubert pose encore un problème? | I know. What's going on? Is Jonathan Joubert causing a problem again? | #161 00:09:42: Je sais. Qu'est-ce qui se passe ? Jonathan Joubert<br>#161 00:09:42: encore | adapted: Learner adaptation, not a verbatim French transcript. |
 | 4 | Arlette | Nous sommes là pour annoncer la mort de Jonathan. | We're here to announce Jonathan's death. | #162 00:09:46: Nous sommes là pour annoncer la mort de Jonathan | adapted: Learner adaptation, not a verbatim French transcript. |
 | 5 | Arlette | Dans la série, j'entends. | In the series, I mean. | #163 00:09:50: Dans la série, j'entends | adapted: Learner adaptation, not a verbatim French transcript. |
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello. Ah, there you are.' The expression announcing someone's arrival can put the word for you before the pointer word. It means there you are, rather than you exist.
-- 'This is Marie-Sophie Garnier, head screenwriter on Happy Ever After.' The opening word introduces someone present. The title head screenwriter names the person in charge of the writing, not the actor playing the part.
+- 'This is Marie-Sophie Garnier, head screenwriter on Happy Ever After.' Happy Ever After is the localized English title used here. The French words mean nothing but happiness. Head screenwriter names the person in charge of the writing, rather than an actor playing a part.
 - 'I know. What's going on? Is Jonathan Joubert causing a problem again?' The first short answer says he already knows who the visitor is. The question then uses the expression about something happening, before asking about another problem.
 - 'We're here to announce Jonathan's death.' The word for death is feminine, with the article before it. The connecting word of introduces whose death they mean, where English can use a possessive ending.
 - 'In the series, I mean.' The action usually means hear, but here it clarifies what the speaker means. She is distinguishing a fictional character's death from an actor's real life.

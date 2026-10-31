@@ -26,10 +26,12 @@ STORY = [('mathias',
   "A greeting from Arlette and Mathias's reply are combined as Mathias's welcome. Learner adaptation, not a "
   'verbatim French transcript.'),
  ('arlette',
-  'Voici Marie-Sophie Garnier, chef scénariste sur Heureux pour toujours.',
+  'Voici Marie-Sophie Garnier, chef scénariste sur Que du bonheur.',
   'This is Marie-Sophie Garnier, head screenwriter on Happy Ever After.',
   [(159, 'Voici Marie-Sophie Garnier'), (160, 'chef scénariste sur Heureux pour toujours')],
-  'Learner adaptation, not a verbatim French transcript.'),
+  'Learner adaptation, not a verbatim French transcript. Dedicated unprompted original-French ASR09/10 '
+  'confirms Que du bonheur as the actual series title. Happy Ever After is the English working-subtitle '
+  'localization, not a literal translation.'),
  ('mathias',
   "Je sais. Qu'est-ce qui se passe? Jonathan Joubert pose encore un problème?",
   "I know. What's going on? Is Jonathan Joubert causing a problem again?",
@@ -113,9 +115,9 @@ WALK = [(0,
   'the pointer word. It means there you are, rather than you exist.'),
  (1,
   None,
-  "'This is Marie-Sophie Garnier, head screenwriter on Happy Ever After.' The opening word introduces "
-  'someone present. The title head screenwriter names the person in charge of the writing, not the actor '
-  'playing the part.'),
+  "'This is Marie-Sophie Garnier, head screenwriter on Happy Ever After.' Happy Ever After is the localized "
+  'English title used here. The French words mean nothing but happiness. Head screenwriter names the person '
+  'in charge of the writing, rather than an actor playing a part.'),
  (2,
   None,
   "'I know. What's going on? Is Jonathan Joubert causing a problem again?' The first short answer says he "
