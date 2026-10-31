@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You're the one who lies to everybody!' Literally 'it's you who lies'. That's how French puts weight on one person. And 'everybody' is literally 'all the world'.
 - 'You never took care of us!' Never replaces the ordinary second negative word after the past helper. The action takes the helper be because it comes with the short self word. Of introduces the people Mathias failed to look after.
 - 'Stay away from my family!' The French statement literally says you do not come near my family. Spoken forcefully, it acts as a warning without changing the ordinary order. My family excludes Camille, and her next line challenges that exclusion.
-- 'I'm your family too!' Me too at the front insists on Camille's place among the people he has just claimed as his family. The ordinary I then starts the statement. The familiar your makes the reply personal.
+- 'I'm your family too!' The familiar word for your has its feminine form because family is feminine; it does not follow Mathias's gender. Me too before the ordinary I insists that Camille belongs among the people he has just claimed as his family.
 - 'Have you got a light, Noémie?' Literally, do you have some fire? Fire here means a flame for the cigarette. Noémie says she does not smoke and leaves; Arlette then comes over with a lighter.
 - 'Thanks.' One short word acknowledges a small act of help. Camille does not need to name the lighter or explain the favour: Arlette has just seen what she needed.
 - 'Don't worry.' The short it refers to whatever is troubling Camille. In this fixed expression, the action word do carries the meaning worry. Arlette offers reassurance without demanding an explanation of what happened.

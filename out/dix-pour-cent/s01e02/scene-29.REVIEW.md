@@ -22,8 +22,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Hippolyte | Je t'ai portée jusqu'à mon lit. | I carried you to my bed. | #807 00:49:07: je t'ai portée jusqu'à mon lit | verbatim |
 | 11 | Hippolyte | Et après, rien. | And then, nothing. | #808 00:49:08: rien | verbatim |
 | 12 | Hippolyte | Tu t'es endormie en deux secondes. | You fell asleep in two seconds. | #809 00:49:11: Tu t'es endormie en deux secondes | verbatim |
-| 13 | Camille | Vraiment? | Really? | #809 00:49:11: Vraiment | verbatim |
-| 14 | Hippolyte | Oui, vraiment. | Yes, really. | #810 00:49:15: Oui, vraiment | verbatim |
+| 13 | Camille | C'est vrai? | Is that true? | #809 00:49:11: Vraiment | adapted: Original French audio has c’est vrai, not the vraiment invented by the dual subtitles. |
+| 14 | Hippolyte | Oui, c'est vrai. | Yes, it's true. | #810 00:49:15: Oui, vraiment | adapted: Original French audio has c’est vrai, not the vraiment invented by the dual subtitles. |
 | 15 | Camille | Merci! | Thank you! | #811 00:49:16: Merci | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -40,6 +40,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I carried you to my bed.' The past form gets an extra letter at the end in writing, because the person carried is a woman.
 - 'And then, nothing.' Then places this after the kiss and being carried to bed. Nothing stands alone because the previous question makes clear what further intimacy she is asking about.
 - 'You fell asleep in two seconds.' Again 'to be' in the past, and again a feminine ending, because it's Camille who fell asleep.
-- 'Really?' One word can question whether a whole account is true. Camille repeats the word he used earlier to describe how much he liked her, but now she uses it to ask for reassurance.
-- 'Yes, really.' Yes confirms the account, and really strengthens the confirmation. He repeats her question word as an answer, leaving her no reason to think he is teasing about what happened.
-- 'Thank you!' This ordinary expression of gratitude sounds unexpected after his story. Camille thanks him because the evening stopped when she fell asleep. He still does not know why that is such a relief. Here's the whole scene once more.
+- 'Is that true?' Literally, it is true? French keeps the ordinary statement order in this short spoken question, while English can put is before that. True asks whether Hippolyte's account really happened.
+- 'Yes, it's true.' Yes answers the question directly, and the following statement repeats his confirmation. The French word for true also means real or genuine in other settings, so context tells you what kind of truth is being checked.
+- 'Thank you!' French uses one word here, without needing a separate you. You can add what you are grateful for after the short linking word for for. Camille leaves it as one word because Hippolyte has just answered the question that worried her. Here's the whole conversation once more.
