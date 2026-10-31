@@ -79,8 +79,6 @@
       ]
     },
     {
-      "seg": 3,
-      "trans": "I think you can help me.",
       "words": [
         {
           "t": "Je",
@@ -107,20 +105,20 @@
           "gram": "conjunction, introduces what to say"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you (familiar)",
+          "gram": "second person singular subject"
         },
         {
-          "t": "pouvez",
+          "t": "peux",
           "lemma": "pouvoir",
           "pos": "verb",
-          "stress": "puve",
+          "stress": "pø",
           "gloss": "can",
-          "gram": "present second person plural (polite)"
+          "gram": "present second person singular"
         },
         {
           "t": "m'aider.",
@@ -130,7 +128,9 @@
           "gloss": "help me",
           "gram": "me + aider: infinitive with object pronoun"
         }
-      ]
+      ],
+      "trans": "I think you can help me.",
+      "seg": 3
     },
     {
       "seg": 4,
@@ -171,8 +171,6 @@
       ]
     },
     {
-      "seg": 5,
-      "trans": "Please. There's nothing between Mathias and me, okay?",
       "words": [
         {
           "t": "S'il",
@@ -183,12 +181,12 @@
           "gram": "si + il; part of s’il vous plaît: please"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "te",
+          "lemma": "te",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "familiar second person singular object"
         },
         {
           "t": "plaît.",
@@ -270,7 +268,9 @@
           "gloss": "agreed, okay",
           "gram": "de (of) + accord (agreement): fixed expression"
         }
-      ]
+      ],
+      "trans": "Please. There's nothing between Mathias and me, okay?",
+      "seg": 5
     },
     {
       "seg": 6,
@@ -716,146 +716,6 @@
     },
     {
       "seg": 13,
-      "trans": "What's going on?",
-      "words": [
-        {
-          "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
-          "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question expression; qui follows when what is the subject"
-        },
-        {
-          "t": "qui",
-          "lemma": "qui",
-          "pos": "pron",
-          "stress": "ki",
-          "gloss": "(question marker)",
-          "gram": "subject part of qu’est-ce qui: what"
-        },
-        {
-          "t": "se",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "part of se passer: to happen"
-        },
-        {
-          "t": "passe?",
-          "lemma": "passer",
-          "pos": "verb",
-          "stress": "pas",
-          "gloss": "happens",
-          "gram": "present third person singular; se passer means to happen"
-        }
-      ]
-    },
-    {
-      "seg": 14,
-      "trans": "Someone told Cécile she was too old for the part.",
-      "words": [
-        {
-          "t": "Quelqu'un",
-          "lemma": "quelqu'un",
-          "pos": "pron",
-          "stress": "kɛlkœ̃",
-          "gloss": "someone",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third person singular"
-        },
-        {
-          "t": "dit",
-          "lemma": "dire",
-          "pos": "verb",
-          "stress": "di",
-          "gloss": "said",
-          "gram": "past participle of dire after avoir"
-        },
-        {
-          "t": "à",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "a",
-          "gloss": "to",
-          "gram": "marks the person being told"
-        },
-        {
-          "t": "Cécile",
-          "lemma": "cécile",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Cécile (de France)",
-          "gram": "first name"
-        },
-        {
-          "t": "qu'elle",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "kɛl",
-          "gloss": "that she, that it",
-          "gram": "que (that) + elle (she/it)"
-        },
-        {
-          "t": "était",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imparfait, 3rd person singular"
-        },
-        {
-          "t": "trop",
-          "lemma": "trop",
-          "pos": "adv",
-          "stress": "tʁo",
-          "gloss": "too",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "vieille",
-          "lemma": "vieux",
-          "pos": "adj",
-          "stress": "vjɛj",
-          "gloss": "old",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "masculine singular definite article"
-        },
-        {
-          "t": "rôle.",
-          "lemma": "rôle",
-          "pos": "noun",
-          "stress": "ʁol",
-          "gloss": "part, role",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 15,
       "trans": "She's gone! She's left me.",
       "words": [
         {
@@ -909,8 +769,6 @@
       ]
     },
     {
-      "seg": 16,
-      "trans": "Yes, Mathias? Of course.",
       "words": [
         {
           "t": "Oui,",
@@ -927,121 +785,13 @@
           "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
-        },
-        {
-          "t": "Bien",
-          "lemma": "bien",
-          "pos": "adv",
-          "stress": "bjɛ̃",
-          "gloss": "well",
-          "gram": "bien sûr means of course"
-        },
-        {
-          "t": "sûr.",
-          "lemma": "sûr",
-          "pos": "adj",
-          "stress": "syʁ",
-          "gloss": "sure",
-          "gram": "bien sûr means of course"
         }
-      ]
+      ],
+      "trans": "Yes, Mathias?",
+      "seg": 14
     },
     {
-      "seg": 17,
-      "trans": "He wants the number of Miranda Jones, Tarantino's producer.",
-      "words": [
-        {
-          "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "third person masculine singular subject"
-        },
-        {
-          "t": "veut",
-          "lemma": "vouloir",
-          "pos": "verb",
-          "stress": "vø",
-          "gloss": "wants",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "masculine singular definite article"
-        },
-        {
-          "t": "numéro",
-          "lemma": "numéro",
-          "pos": "noun",
-          "stress": "nymeʁo",
-          "gloss": "(phone) number",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "Miranda",
-          "lemma": "miranda",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Miranda",
-          "gram": "first name"
-        },
-        {
-          "t": "Jones,",
-          "lemma": "jones",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Jones",
-          "gram": "surname"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "productrice",
-          "lemma": "producteur",
-          "pos": "noun",
-          "stress": "pʁɔdyktʁis",
-          "gloss": "producer (woman)",
-          "gram": "feminine singular of producteur"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "Tarantino.",
-          "lemma": "tarantino",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Tarantino (the director)",
-          "gram": "surname"
-        }
-      ]
-    },
-    {
-      "seg": 19,
+      "seg": 16,
       "trans": "Isn't Hervé here?",
       "words": [
         {
@@ -1079,7 +829,7 @@
       ]
     },
     {
-      "seg": 21,
+      "seg": 18,
       "trans": "Noémie, I have a problem.",
       "words": [
         {
@@ -1117,8 +867,6 @@
       ]
     },
     {
-      "seg": 23,
-      "trans": "I think you can help me.",
       "words": [
         {
           "t": "Je",
@@ -1145,20 +893,20 @@
           "gram": "conjunction, introduces what to say"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you (familiar)",
+          "gram": "second person singular subject"
         },
         {
-          "t": "pouvez",
+          "t": "peux",
           "lemma": "pouvoir",
           "pos": "verb",
-          "stress": "puve",
+          "stress": "pø",
           "gloss": "can",
-          "gram": "present second person plural (polite)"
+          "gram": "present second person singular"
         },
         {
           "t": "m'aider.",
@@ -1168,10 +916,12 @@
           "gloss": "help me",
           "gram": "me + aider: infinitive with object pronoun"
         }
-      ]
+      ],
+      "trans": "I think you can help me.",
+      "seg": 20
     },
     {
-      "seg": 25,
+      "seg": 22,
       "trans": "I don't think so.",
       "words": [
         {
@@ -1209,8 +959,6 @@
       ]
     },
     {
-      "seg": 27,
-      "trans": "Please.",
       "words": [
         {
           "t": "S'il",
@@ -1221,12 +969,12 @@
           "gram": "si + il; part of s’il vous plaît: please"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "te",
+          "lemma": "te",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "familiar second person singular object"
         },
         {
           "t": "plaît.",
@@ -1236,10 +984,12 @@
           "gloss": "pleases",
           "gram": "present third person singular; part of s’il vous plaît: please"
         }
-      ]
+      ],
+      "trans": "Please.",
+      "seg": 24
     },
     {
-      "seg": 29,
+      "seg": 26,
       "trans": "There's nothing between Mathias and me, okay?",
       "words": [
         {
@@ -1317,7 +1067,7 @@
       ]
     },
     {
-      "seg": 31,
+      "seg": 28,
       "trans": "Excuse me? That doesn't worry me at all.",
       "words": [
         {
@@ -1379,7 +1129,7 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 30,
       "trans": "So, what's your problem?",
       "words": [
         {
@@ -1425,7 +1175,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 32,
       "trans": "I don't know anything about contracts.",
       "words": [
         {
@@ -1479,7 +1229,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 34,
       "trans": "Can I look at one of Mathias's contracts?",
       "words": [
         {
@@ -1541,7 +1291,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 36,
       "trans": "Canet's, for example?",
       "words": [
         {
@@ -1587,7 +1337,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 38,
       "trans": "No, no, no! That's impossible.",
       "words": [
         {
@@ -1633,7 +1383,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 40,
       "trans": "He doesn't let anyone see his contracts.",
       "words": [
         {
@@ -1695,7 +1445,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 42,
       "trans": "Where's the traitor? Where's the mole?",
       "words": [
         {
@@ -1765,147 +1515,7 @@
       ]
     },
     {
-      "seg": 47,
-      "trans": "What's going on?",
-      "words": [
-        {
-          "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
-          "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question expression; qui follows when what is the subject"
-        },
-        {
-          "t": "qui",
-          "lemma": "qui",
-          "pos": "pron",
-          "stress": "ki",
-          "gloss": "(question marker)",
-          "gram": "subject part of qu’est-ce qui: what"
-        },
-        {
-          "t": "se",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "part of se passer: to happen"
-        },
-        {
-          "t": "passe?",
-          "lemma": "passer",
-          "pos": "verb",
-          "stress": "pas",
-          "gloss": "happens",
-          "gram": "present third person singular; se passer means to happen"
-        }
-      ]
-    },
-    {
-      "seg": 49,
-      "trans": "Someone told Cécile she was too old for the part.",
-      "words": [
-        {
-          "t": "Quelqu'un",
-          "lemma": "quelqu'un",
-          "pos": "pron",
-          "stress": "kɛlkœ̃",
-          "gloss": "someone",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third person singular"
-        },
-        {
-          "t": "dit",
-          "lemma": "dire",
-          "pos": "verb",
-          "stress": "di",
-          "gloss": "said",
-          "gram": "past participle of dire after avoir"
-        },
-        {
-          "t": "à",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "a",
-          "gloss": "to",
-          "gram": "marks the person being told"
-        },
-        {
-          "t": "Cécile",
-          "lemma": "cécile",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Cécile (de France)",
-          "gram": "first name"
-        },
-        {
-          "t": "qu'elle",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "kɛl",
-          "gloss": "that she, that it",
-          "gram": "que (that) + elle (she/it)"
-        },
-        {
-          "t": "était",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imparfait, 3rd person singular"
-        },
-        {
-          "t": "trop",
-          "lemma": "trop",
-          "pos": "adv",
-          "stress": "tʁo",
-          "gloss": "too",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "vieille",
-          "lemma": "vieux",
-          "pos": "adj",
-          "stress": "vjɛj",
-          "gloss": "old",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "masculine singular definite article"
-        },
-        {
-          "t": "rôle.",
-          "lemma": "rôle",
-          "pos": "noun",
-          "stress": "ʁol",
-          "gloss": "part, role",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 51,
+      "seg": 44,
       "trans": "She's gone! She's left me.",
       "words": [
         {
@@ -1959,8 +1569,6 @@
       ]
     },
     {
-      "seg": 53,
-      "trans": "Yes, Mathias? Of course.",
       "words": [
         {
           "t": "Oui,",
@@ -1977,121 +1585,13 @@
           "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
-        },
-        {
-          "t": "Bien",
-          "lemma": "bien",
-          "pos": "adv",
-          "stress": "bjɛ̃",
-          "gloss": "well",
-          "gram": "bien sûr means of course"
-        },
-        {
-          "t": "sûr.",
-          "lemma": "sûr",
-          "pos": "adj",
-          "stress": "syʁ",
-          "gloss": "sure",
-          "gram": "bien sûr means of course"
         }
-      ]
+      ],
+      "trans": "Yes, Mathias?",
+      "seg": 46
     },
     {
-      "seg": 55,
-      "trans": "He wants the number of Miranda Jones, Tarantino's producer.",
-      "words": [
-        {
-          "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "third person masculine singular subject"
-        },
-        {
-          "t": "veut",
-          "lemma": "vouloir",
-          "pos": "verb",
-          "stress": "vø",
-          "gloss": "wants",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "masculine singular definite article"
-        },
-        {
-          "t": "numéro",
-          "lemma": "numéro",
-          "pos": "noun",
-          "stress": "nymeʁo",
-          "gloss": "(phone) number",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "Miranda",
-          "lemma": "miranda",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Miranda",
-          "gram": "first name"
-        },
-        {
-          "t": "Jones,",
-          "lemma": "jones",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Jones",
-          "gram": "surname"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "productrice",
-          "lemma": "producteur",
-          "pos": "noun",
-          "stress": "pʁɔdyktʁis",
-          "gloss": "producer (woman)",
-          "gram": "feminine singular of producteur"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "Tarantino.",
-          "lemma": "tarantino",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Tarantino (the director)",
-          "gram": "surname"
-        }
-      ]
-    },
-    {
-      "seg": 57,
+      "seg": 48,
       "trans": "Isn't Hervé here?",
       "words": [
         {
@@ -2129,7 +1629,7 @@
       ]
     },
     {
-      "seg": 58,
+      "seg": 49,
       "trans": "Noémie, I have a problem.",
       "words": [
         {
@@ -2167,8 +1667,6 @@
       ]
     },
     {
-      "seg": 59,
-      "trans": "I think you can help me.",
       "words": [
         {
           "t": "Je",
@@ -2195,20 +1693,20 @@
           "gram": "conjunction, introduces what to say"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you (familiar)",
+          "gram": "second person singular subject"
         },
         {
-          "t": "pouvez",
+          "t": "peux",
           "lemma": "pouvoir",
           "pos": "verb",
-          "stress": "puve",
+          "stress": "pø",
           "gloss": "can",
-          "gram": "present second person plural (polite)"
+          "gram": "present second person singular"
         },
         {
           "t": "m'aider.",
@@ -2218,10 +1716,12 @@
           "gloss": "help me",
           "gram": "me + aider: infinitive with object pronoun"
         }
-      ]
+      ],
+      "trans": "I think you can help me.",
+      "seg": 50
     },
     {
-      "seg": 60,
+      "seg": 51,
       "trans": "I don't think so.",
       "words": [
         {
@@ -2259,8 +1759,6 @@
       ]
     },
     {
-      "seg": 61,
-      "trans": "Please. There's nothing between Mathias and me, okay?",
       "words": [
         {
           "t": "S'il",
@@ -2271,12 +1769,12 @@
           "gram": "si + il; part of s’il vous plaît: please"
         },
         {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "te",
+          "lemma": "te",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "familiar second person singular object"
         },
         {
           "t": "plaît.",
@@ -2358,10 +1856,12 @@
           "gloss": "agreed, okay",
           "gram": "de (of) + accord (agreement): fixed expression"
         }
-      ]
+      ],
+      "trans": "Please. There's nothing between Mathias and me, okay?",
+      "seg": 52
     },
     {
-      "seg": 62,
+      "seg": 53,
       "trans": "Excuse me? That doesn't worry me at all.",
       "words": [
         {
@@ -2423,7 +1923,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 54,
       "trans": "So, what's your problem?",
       "words": [
         {
@@ -2469,7 +1969,7 @@
       ]
     },
     {
-      "seg": 64,
+      "seg": 55,
       "trans": "I don't know anything about contracts.",
       "words": [
         {
@@ -2523,7 +2023,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 56,
       "trans": "Can I look at one of Mathias's contracts? Canet's, for example?",
       "words": [
         {
@@ -2625,7 +2125,7 @@
       ]
     },
     {
-      "seg": 66,
+      "seg": 57,
       "trans": "No, no, no! That's impossible.",
       "words": [
         {
@@ -2671,7 +2171,7 @@
       ]
     },
     {
-      "seg": 67,
+      "seg": 58,
       "trans": "He doesn't let anyone see his contracts.",
       "words": [
         {
@@ -2733,7 +2233,7 @@
       ]
     },
     {
-      "seg": 68,
+      "seg": 59,
       "trans": "Where's the traitor? Where's the mole?",
       "words": [
         {
@@ -2803,147 +2303,7 @@
       ]
     },
     {
-      "seg": 69,
-      "trans": "What's going on?",
-      "words": [
-        {
-          "t": "Qu'est-ce",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
-          "stress": "kɛs",
-          "gloss": "what",
-          "gram": "question expression; qui follows when what is the subject"
-        },
-        {
-          "t": "qui",
-          "lemma": "qui",
-          "pos": "pron",
-          "stress": "ki",
-          "gloss": "(question marker)",
-          "gram": "subject part of qu’est-ce qui: what"
-        },
-        {
-          "t": "se",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "part of se passer: to happen"
-        },
-        {
-          "t": "passe?",
-          "lemma": "passer",
-          "pos": "verb",
-          "stress": "pas",
-          "gloss": "happens",
-          "gram": "present third person singular; se passer means to happen"
-        }
-      ]
-    },
-    {
-      "seg": 70,
-      "trans": "Someone told Cécile she was too old for the part.",
-      "words": [
-        {
-          "t": "Quelqu'un",
-          "lemma": "quelqu'un",
-          "pos": "pron",
-          "stress": "kɛlkœ̃",
-          "gloss": "someone",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present third person singular"
-        },
-        {
-          "t": "dit",
-          "lemma": "dire",
-          "pos": "verb",
-          "stress": "di",
-          "gloss": "said",
-          "gram": "past participle of dire after avoir"
-        },
-        {
-          "t": "à",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "a",
-          "gloss": "to",
-          "gram": "marks the person being told"
-        },
-        {
-          "t": "Cécile",
-          "lemma": "cécile",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Cécile (de France)",
-          "gram": "first name"
-        },
-        {
-          "t": "qu'elle",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "kɛl",
-          "gloss": "that she, that it",
-          "gram": "que (that) + elle (she/it)"
-        },
-        {
-          "t": "était",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imparfait, 3rd person singular"
-        },
-        {
-          "t": "trop",
-          "lemma": "trop",
-          "pos": "adv",
-          "stress": "tʁo",
-          "gloss": "too",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "vieille",
-          "lemma": "vieux",
-          "pos": "adj",
-          "stress": "vjɛj",
-          "gloss": "old",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "masculine singular definite article"
-        },
-        {
-          "t": "rôle.",
-          "lemma": "rôle",
-          "pos": "noun",
-          "stress": "ʁol",
-          "gloss": "part, role",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 71,
+      "seg": 60,
       "trans": "She's gone! She's left me.",
       "words": [
         {
@@ -2997,8 +2357,6 @@
       ]
     },
     {
-      "seg": 72,
-      "trans": "Yes, Mathias? Of course.",
       "words": [
         {
           "t": "Oui,",
@@ -3015,121 +2373,13 @@
           "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
-        },
-        {
-          "t": "Bien",
-          "lemma": "bien",
-          "pos": "adv",
-          "stress": "bjɛ̃",
-          "gloss": "well",
-          "gram": "bien sûr means of course"
-        },
-        {
-          "t": "sûr.",
-          "lemma": "sûr",
-          "pos": "adj",
-          "stress": "syʁ",
-          "gloss": "sure",
-          "gram": "bien sûr means of course"
         }
-      ]
+      ],
+      "trans": "Yes, Mathias?",
+      "seg": 61
     },
     {
-      "seg": 73,
-      "trans": "He wants the number of Miranda Jones, Tarantino's producer.",
-      "words": [
-        {
-          "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "third person masculine singular subject"
-        },
-        {
-          "t": "veut",
-          "lemma": "vouloir",
-          "pos": "verb",
-          "stress": "vø",
-          "gloss": "wants",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "masculine singular definite article"
-        },
-        {
-          "t": "numéro",
-          "lemma": "numéro",
-          "pos": "noun",
-          "stress": "nymeʁo",
-          "gloss": "(phone) number",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "Miranda",
-          "lemma": "miranda",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Miranda",
-          "gram": "first name"
-        },
-        {
-          "t": "Jones,",
-          "lemma": "jones",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Jones",
-          "gram": "surname"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "productrice",
-          "lemma": "producteur",
-          "pos": "noun",
-          "stress": "pʁɔdyktʁis",
-          "gloss": "producer (woman)",
-          "gram": "feminine singular of producteur"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "Tarantino.",
-          "lemma": "tarantino",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Tarantino (the director)",
-          "gram": "surname"
-        }
-      ]
-    },
-    {
-      "seg": 75,
+      "seg": 63,
       "trans": "Goodbye!",
       "words": [
         {
@@ -3610,48 +2860,6 @@
         }
       ]
     },
-    "bien": {
-      "lemma": "bien",
-      "stress": "bjɛ̃",
-      "pos": "adv",
-      "gloss": "well; good",
-      "meanings": [
-        {
-          "en": "well",
-          "note": "Très bien = very well, fine."
-        },
-        {
-          "en": "good, nice",
-          "note": "C'est bien."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Très bien.",
-          "trans": "Very well."
-        },
-        {
-          "text": "Elle est bien.",
-          "trans": "She's nice."
-        }
-      ],
-      "related": [
-        {
-          "word": "bien sûr",
-          "gloss": "of course"
-        },
-        {
-          "word": "bientôt",
-          "gloss": "soon"
-        },
-        {
-          "word": "bienvenue",
-          "gloss": "welcome"
-        }
-      ]
-    },
     "celui": {
       "lemma": "celui",
       "stress": "səlɥi",
@@ -4120,188 +3328,6 @@
         {
           "word": "des",
           "gloss": "de + les"
-        }
-      ]
-    },
-    "dire": {
-      "lemma": "dire",
-      "stress": "diʁ",
-      "pos": "verb",
-      "gloss": "to say, to tell",
-      "meanings": [
-        {
-          "en": "to say",
-          "note": "dire la vérité à quelqu'un = to tell someone the truth"
-        },
-        {
-          "en": "to tell (someone)",
-          "note": "dire à quelqu'un; dis-lui = tell her/him"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je dis",
-              "nous disons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu dis",
-              "vous dites"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle dit",
-              "ils/elles disent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai dit",
-                "nous avons dit"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as dit",
-                "vous avez dit"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a dit",
-                "ils/elles ont dit"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je disais",
-                "nous disions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu disais",
-                "vous disiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle disait",
-                "ils/elles disaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je dirai",
-                "nous dirons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu diras",
-                "vous direz"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle dira",
-                "ils/elles diront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "disons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "dis",
-                "dites"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Dis-lui que je ne peux pas venir.",
-          "trans": "Tell her I can't come."
-        },
-        {
-          "text": "Qu'est-ce que je lui dis?",
-          "trans": "What do I tell her?"
-        }
-      ],
-      "related": [
-        {
-          "word": "dire la vérité à quelqu'un",
-          "gloss": "to tell someone the truth"
         }
       ]
     },
@@ -5107,54 +4133,6 @@
         }
       ]
     },
-    "numéro": {
-      "lemma": "numéro",
-      "stress": "nymeʁo",
-      "pos": "noun",
-      "gloss": "number",
-      "gender": "m",
-      "plural": "numéros",
-      "meanings": [
-        {
-          "en": "number (phone, house, ticket)",
-          "note": "For a quantity, use nombre."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le numéro",
-              "les numéros"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu as son numéro?",
-          "trans": "Do you have her number?"
-        },
-        {
-          "text": "C'est le bon numéro.",
-          "trans": "It's the right number."
-        }
-      ],
-      "related": [
-        {
-          "word": "un numéro / des numéros",
-          "gloss": "a number / numbers"
-        }
-      ]
-    },
     "oui": {
       "lemma": "oui",
       "stress": "wi",
@@ -5886,48 +4864,6 @@
         }
       ]
     },
-    "pour": {
-      "lemma": "pour",
-      "stress": "puʁ",
-      "pos": "prep",
-      "gloss": "for; (in order) to",
-      "meanings": [
-        {
-          "en": "for",
-          "note": "before an infinitive: pour faire plaisir"
-        },
-        {
-          "en": "to, in order to",
-          "note": "+ infinitive: pour voir."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Deux places pour mardi.",
-          "trans": "Two tickets for Tuesday."
-        },
-        {
-          "text": "Je suis là pour voir Mathias.",
-          "trans": "I'm here to see Mathias."
-        }
-      ],
-      "related": [
-        {
-          "word": "pourquoi",
-          "gloss": "why"
-        },
-        {
-          "word": "pour cent",
-          "gloss": "percent"
-        },
-        {
-          "word": "pour de vrai",
-          "gloss": "for real"
-        }
-      ]
-    },
     "pouvoir": {
       "lemma": "pouvoir",
       "stress": "puvwaʁ",
@@ -6134,99 +5070,6 @@
         }
       ]
     },
-    "producteur": {
-      "lemma": "producteur",
-      "stress": "pʁɔdyktœʁ",
-      "pos": "noun",
-      "gloss": "producer",
-      "gender": "m",
-      "plural": "producteurs",
-      "meanings": [
-        {
-          "en": "(film) producer",
-          "note": "Feminine productrice."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "masculine",
-              "le producteur",
-              "les producteurs"
-            ]
-          },
-          {
-            "cells": [
-              "feminine",
-              "la productrice",
-              "les productrices"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Miranda est productrice.",
-          "trans": "Miranda is a producer."
-        },
-        {
-          "text": "Le producteur arrive.",
-          "trans": "The producer is arriving."
-        }
-      ],
-      "related": [
-        {
-          "word": "production",
-          "gloss": "film production"
-        },
-        {
-          "word": "prod",
-          "gloss": "production team"
-        },
-        {
-          "word": "produit",
-          "gloss": "product"
-        }
-      ]
-    },
-    "qu'est-ce que": {
-      "lemma": "qu'est-ce que",
-      "stress": "kɛskə",
-      "pos": "phrase",
-      "gloss": "what (in questions)",
-      "meanings": [
-        {
-          "en": "what",
-          "note": "starts a question: qu'est-ce que tu fais? = what are you doing?"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Qu'est-ce que je lui dis?",
-          "trans": "What do I tell her?"
-        },
-        {
-          "text": "Qu'est-ce que tu fais à Paris?",
-          "trans": "What are you doing in Paris?"
-        }
-      ],
-      "related": [
-        {
-          "word": "qu'est-ce qui",
-          "gloss": "what"
-        }
-      ]
-    },
     "que": {
       "lemma": "que",
       "stress": "kə",
@@ -6268,69 +5111,6 @@
           "gloss": "that"
         }
       ]
-    },
-    "quelqu'un": {
-      "lemma": "quelqu'un",
-      "stress": "kɛlkœ̃",
-      "pos": "pron",
-      "gloss": "someone",
-      "meanings": [
-        {
-          "en": "someone, somebody",
-          "note": "Quelqu'un de jeune = someone young."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Quelqu'un est là?",
-          "trans": "Is someone there?"
-        },
-        {
-          "text": "Il veut quelqu'un de jeune.",
-          "trans": "He wants someone young."
-        }
-      ],
-      "related": [
-        {
-          "word": "quelque chose",
-          "gloss": "something"
-        },
-        {
-          "word": "quelque",
-          "gloss": "some"
-        },
-        {
-          "word": "quel",
-          "gloss": "what"
-        }
-      ]
-    },
-    "qui": {
-      "lemma": "qui",
-      "stress": "ki",
-      "pos": "pron",
-      "gloss": "who; which; that",
-      "meanings": [
-        {
-          "en": "who; which; that",
-          "note": "In qu’est-ce qui, the question expression supplies the subject, and need not refer to a person."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Qui est là?",
-          "trans": "Who is there?"
-        },
-        {
-          "text": "Qu'est-ce qui se passe?",
-          "trans": "What is happening?"
-        }
-      ],
-      "related": []
     },
     "quitter": {
       "lemma": "quitter",
@@ -6897,79 +5677,6 @@
         }
       ]
     },
-    "rôle": {
-      "lemma": "rôle",
-      "stress": "ʁol",
-      "pos": "noun",
-      "gloss": "role, part",
-      "gender": "m",
-      "plural": "rôles",
-      "meanings": [
-        {
-          "en": "part, role (in a film or play)",
-          "note": "Un rôle dans un film."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le rôle",
-              "les rôles"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il a un nouveau rôle.",
-          "trans": "He has a new part."
-        },
-        {
-          "text": "C'est quoi le rôle?",
-          "trans": "What's the part?"
-        }
-      ],
-      "related": [
-        {
-          "word": "un rôle / des rôles",
-          "gloss": "a role / roles"
-        }
-      ]
-    },
-    "se": {
-      "lemma": "se",
-      "stress": "sə",
-      "pos": "pron",
-      "gloss": "himself; herself; itself; themselves",
-      "meanings": [
-        {
-          "en": "himself; herself; itself; themselves",
-          "note": "Reflexive clitic used with third-person subjects; s’ before a suitable vowel sound."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il se réveille.",
-          "trans": "He wakes up."
-        },
-        {
-          "text": "Elle se prépare.",
-          "trans": "She gets ready."
-        }
-      ],
-      "related": []
-    },
     "si": {
       "lemma": "si",
       "stress": "si",
@@ -7054,63 +5761,6 @@
         {
           "word": "son",
           "gloss": "his"
-        }
-      ]
-    },
-    "sûr": {
-      "lemma": "sûr",
-      "stress": "syʁ",
-      "pos": "adj",
-      "gloss": "sure",
-      "meanings": [
-        {
-          "en": "sure, certain",
-          "note": "Bien sûr = of course."
-        },
-        {
-          "en": "safe",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "sûr",
-              "sûre"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "sûrs",
-              "sûres"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu es sûr?",
-          "trans": "Are you sure?"
-        },
-        {
-          "text": "Bien sûr!",
-          "trans": "Of course!"
-        }
-      ],
-      "related": [
-        {
-          "word": "bien sûr",
-          "gloss": "of course"
         }
       ]
     },
@@ -7299,40 +5949,6 @@
         }
       ]
     },
-    "trop": {
-      "lemma": "trop",
-      "stress": "tʁo",
-      "pos": "adv",
-      "gloss": "too, too much",
-      "meanings": [
-        {
-          "en": "too",
-          "note": "Trop vieille = too old."
-        },
-        {
-          "en": "too much",
-          "note": "Trop de travail."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Elle est trop vieille pour le rôle.",
-          "trans": "She's too old for the part."
-        },
-        {
-          "text": "C'est trop difficile.",
-          "trans": "It's too difficult."
-        }
-      ],
-      "related": [
-        {
-          "word": "trophée",
-          "gloss": "trophy"
-        }
-      ]
-    },
     "un": {
       "lemma": "un",
       "stress": "œ̃",
@@ -7389,54 +6005,6 @@
           "gloss": "a"
         }
       ]
-    },
-    "vieux": {
-      "lemma": "vieux",
-      "stress": "vjø",
-      "pos": "adj",
-      "gloss": "old",
-      "meanings": [
-        {
-          "en": "old",
-          "note": "before the noun; vieil before a vowel: un vieil ami"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "vieux (vieil)",
-              "vieille"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "vieux",
-              "vieilles"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Elle est trop vieille pour le rôle.",
-          "trans": "She's too old for the part."
-        },
-        {
-          "text": "C'est un vieux film.",
-          "trans": "It's an old film."
-        }
-      ],
-      "related": []
     },
     "voir": {
       "lemma": "voir",
@@ -7593,206 +6161,6 @@
         {
           "word": "revoir",
           "gloss": "to see again"
-        }
-      ]
-    },
-    "vouloir": {
-      "lemma": "vouloir",
-      "stress": "vulwaʁ",
-      "pos": "verb",
-      "gloss": "to want",
-      "meanings": [
-        {
-          "en": "to want",
-          "note": "+ noun or infinitive."
-        },
-        {
-          "en": "je voulais = I wanted",
-          "note": "Imparfait, softer."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je veux",
-              "nous voulons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu veux",
-              "vous voulez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle veut",
-              "ils/elles veulent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai voulu",
-                "nous avons voulu"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as voulu",
-                "vous avez voulu"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a voulu",
-                "ils/elles ont voulu"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je voulais",
-                "nous voulions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu voulais",
-                "vous vouliez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle voulait",
-                "ils/elles voulaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je voudrai",
-                "nous voudrons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu voudras",
-                "vous voudrez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle voudra",
-                "ils/elles voudront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Je veux juste voir Mathias.",
-          "trans": "I just want to see Mathias."
-        },
-        {
-          "text": "Je voulais te faire la surprise.",
-          "trans": "I wanted to surprise you."
-        }
-      ],
-      "related": [
-        {
-          "word": "volonté",
-          "gloss": "will, determination"
-        },
-        {
-          "word": "en vouloir à",
-          "gloss": "to hold a grudge against"
-        }
-      ]
-    },
-    "vous": {
-      "lemma": "vous",
-      "stress": "vu",
-      "pos": "pron",
-      "gloss": "you (polite or plural)",
-      "meanings": [
-        {
-          "en": "you (polite)",
-          "note": "One person, formal."
-        },
-        {
-          "en": "you (plural)",
-          "note": "Several people."
-        },
-        {
-          "en": "you (object)",
-          "note": "je vous rappelle = I'll call you back"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous êtes où?",
-          "trans": "Where are you?"
-        },
-        {
-          "text": "Je vous rappelle.",
-          "trans": "I'll call you back."
-        }
-      ],
-      "related": [
-        {
-          "word": "tu",
-          "gloss": "you (informal)"
         }
       ]
     },
@@ -8079,60 +6447,65 @@
         }
       ]
     },
-    "passer": {
-      "lemma": "passer",
-      "stress": "pase",
-      "pos": "verb",
-      "gloss": "to pass; to happen",
+    "tu": {
+      "lemma": "tu",
+      "stress": "ty",
+      "pos": "pron",
+      "gloss": "you (casual)",
       "meanings": [
         {
-          "en": "to pass; to happen",
-          "note": "The reflexive expression se passer means to happen."
+          "en": "you",
+          "note": "one person you know well: friends, family, close colleagues"
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je passe",
-              "nous passons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu passes",
-              "vous passez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle passe",
-              "ils/elles passent"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Qu'est-ce qui se passe?",
-          "trans": "What is happening?"
+          "text": "Tu es pénible.",
+          "trans": "You're a pain."
         },
         {
-          "text": "Je passe demain.",
-          "trans": "I'll stop by tomorrow."
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "vous",
+          "gloss": "you (polite or plural)"
+        }
+      ]
+    },
+    "te": {
+      "lemma": "te",
+      "stress": "tə",
+      "pos": "pron",
+      "gloss": "you (casual, object)",
+      "meanings": [
+        {
+          "en": "you, to you",
+          "note": "casual object pronoun, before the verb"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je voulais te faire la surprise.",
+          "trans": "I wanted to surprise you."
+        },
+        {
+          "text": "Je te rappelle.",
+          "trans": "I'll call you back."
+        }
+      ],
+      "related": [
+        {
+          "word": "te",
+          "gloss": "you"
+        }
+      ]
     }
   }
 }

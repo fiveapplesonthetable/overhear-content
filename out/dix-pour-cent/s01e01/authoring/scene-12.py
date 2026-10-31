@@ -1,3 +1,4 @@
+SOURCE_NOTE = 'French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.'
 # Authoring module for dix-pour-cent-s01e01-scene-12.
 ID = 'dix-pour-cent-s01e01-scene-12'
 SHOW = 'dix-pour-cent'
@@ -46,7 +47,11 @@ STORY = [('cecile',
   "It's one o'clock. I'm going to lunch.",
   [(409, 'Il est une heure, je vais déjeuner')],
   ''),
- ('gabriel', 'Sofia, tu veux venir avec moi?', 'Sofia, do you want to come with me?', [(410, 'Tu veux')], ''),
+ ('gabriel',
+  'Sofia, vous voulez venir avec moi?',
+  'Sofia, do you want to come with me?',
+  [(410, 'Tu veux')],
+  'The invitation preserves polite address confirmed by original French audio.'),
  ('cecile',
   "Qu'est-ce qui se passe ici?",
   "What's going on here?",
@@ -98,8 +103,8 @@ WALK = [(0,
   "basic form talks about what you're about to do. I'm going to eat lunch."),
  (8,
   None,
-  "'Sofia, do you want to come with me?' 'Want' is followed by the plain action 'come'. After 'with', the "
-  "pronoun meaning 'me' has a different shape from the one used before an action."),
+  "'Sofia, do you want to come with me?' The polite request links 'want' to the plain action 'come'. After "
+  "'with', French uses a separate form for the person who would accompany Sofia."),
  (9,
   None,
   "'What's going on here?' The opening asks 'what', while the action means 'is happening'. Cecile is now "

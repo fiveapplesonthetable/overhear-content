@@ -41,8 +41,6 @@
       ]
     },
     {
-      "seg": 2,
-      "trans": "Fine, and you?",
       "words": [
         {
           "t": "Oui,",
@@ -66,14 +64,8 @@
           "pos": "pron",
           "stress": "twa",
           "gloss": "you",
-          "gram": "stressed pronoun, 2nd person singular, informal"
-        }
-      ]
-    },
-    {
-      "seg": 3,
-      "trans": "I tried to call you. It's non-stop at work today.",
-      "words": [
+          "gram": "stressed form used independently before et"
+        },
         {
           "t": "J'ai",
           "lemma": "avoir",
@@ -95,8 +87,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "to",
+          "gram": "links essayer to the following infinitive"
         },
         {
           "t": "t'appeler.",
@@ -105,7 +97,15 @@
           "stress": "taple",
           "gloss": "call you",
           "gram": "te (elided t') + infinitive"
-        },
+        }
+      ],
+      "trans": "Fine, and you? I tried to call you.",
+      "seg": 2
+    },
+    {
+      "seg": 3,
+      "trans": "It's non-stop at work today.",
+      "words": [
         {
           "t": "C'est",
           "lemma": "être",
@@ -2115,8 +2115,6 @@
       ]
     },
     {
-      "seg": 63,
-      "trans": "Fine, and you?",
       "words": [
         {
           "t": "Oui,",
@@ -2140,14 +2138,8 @@
           "pos": "pron",
           "stress": "twa",
           "gloss": "you",
-          "gram": "stressed pronoun, 2nd person singular, informal"
-        }
-      ]
-    },
-    {
-      "seg": 64,
-      "trans": "I tried to call you. It's non-stop at work today.",
-      "words": [
+          "gram": "stressed form used independently before et"
+        },
         {
           "t": "J'ai",
           "lemma": "avoir",
@@ -2169,8 +2161,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "to",
+          "gram": "links essayer to the following infinitive"
         },
         {
           "t": "t'appeler.",
@@ -2179,7 +2171,15 @@
           "stress": "taple",
           "gloss": "call you",
           "gram": "te (elided t') + infinitive"
-        },
+        }
+      ],
+      "trans": "Fine, and you? I tried to call you.",
+      "seg": 63
+    },
+    {
+      "seg": 64,
+      "trans": "It's non-stop at work today.",
+      "words": [
         {
           "t": "C'est",
           "lemma": "être",
