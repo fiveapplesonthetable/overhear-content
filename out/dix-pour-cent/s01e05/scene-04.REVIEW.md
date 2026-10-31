@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | L'assistante plateau | Julie attend. On est déjà en retard. | Julie is waiting. We're already late. | #74 00:05:08: Julie attend. On est déjà en retard. | adapted: Learner adaptation, not a verbatim French transcript. |
 | 4 | JoeyStarr | Elle peut attendre. | She can wait. | #75 00:05:11: Elle peut attendre. | adapted: Learner adaptation, not a verbatim French transcript. |
 | 5 | JoeyStarr | Salut! Tu fais quoi? | Hi! What are you doing? | #77 00:05:18: Salut.<br>#78 00:05:21: Tu fais quoi ? | adapted: Learner adaptation, not a verbatim French transcript. |
-| 6 | Sofia | Salut! Je joue une servante, comme toi. | Hi! I'm playing a servant, like you. | #77 00:05:18: Salut.<br>#79 00:05:23: je joue une servante, comme toi. | adapted: Learner adaptation, not a verbatim French transcript. |
+| 6 | Sofia | Salut! Je joue une servante, comme vous. | Hi! I'm playing a servant, like you. | #77 00:05:18: Salut.<br>#79 00:05:23: je joue une servante, comme toi. | adapted: Original French audio uses VOUS from Sofia to Joey; he addresses her with TU. Learner adaptation, not a verbatim French transcript. |
 | 7 | JoeyStarr | Je n'ai pas une scène avec toi? | Don't I have a scene with you? | #80 00:05:27: une scène avec toi ? | adapted: Learner adaptation, not a verbatim French transcript. |
 | 8 | Sofia | Si, c'est ça! | Yes, that's right! | #80 00:05:27: Si, c'est ça ! | adapted: Learner adaptation, not a verbatim French transcript. |
 | 9 | JoeyStarr | Tu as le trac? | Have you got stage fright? | #81 00:05:30: le trac ? | adapted: Learner adaptation, not a verbatim French transcript. |
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Julie is waiting. We're already late.' The word meaning already makes the delay more urgent. It says the problem exists now, not merely that it might happen later.
 - 'She can wait.' The short word meaning can comes before the action wait. JoeyStarr uses the possibility as a reason to ignore the assistant.
 - 'Hi! What are you doing?' The question word comes last in this familiar spoken question. He keeps the same easy word order as an ordinary statement.
-- 'Hi! I'm playing a servant, like you.' French has a feminine word for the servant Sofia plays. The final comparison connects her character with his.
+- 'Hi! I'm playing a servant, like you.' The feminine word for servant describes the role she is playing. Sofia uses polite you with the established actor, while he addresses her with the familiar form; their register is not symmetrical.
 - 'Don't I have a scene with you?' The question is negative, even though he suspects the answer is yes. Listen to the particular affirmative reply she chooses.
 - 'Yes, that's right!' French has a special yes for contradicting a negative question. Sofia confirms that they do have a scene together.
 - 'Have you got stage fright?' The French expression builds stage fright with have. It names the nervousness that comes before a performance.
