@@ -10,40 +10,133 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'julie': 'Julie', 'samir': 'Samir'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = "At the country hotel near the film set, Julie is resting in her room after bruising her back in the horse fall. In the corridor outside, director Samir tells Andréa that all the delays leave them no choice: they must shoot the big barn love scene tomorrow morning. When Andréa breaks the news to Julie, the actress tries to pitch a poetic alternative. Let's hear the scene in French first."
-OPENER = "Let's go through the scene line by line and look at how each sentence works."
+INTRO = ('Julie has been hurt in the greenhouse fall, but the director still needs the love scene filmed the next '
+ 'day. Andrea tries to reassure him, then hears Julie suggest a symbolic alternative. Listen to the French '
+ 'first and notice the different ways they talk about what must happen.')
+OPENER = 'The director starts with the shortage of time left for filming in the barn.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Julie's woodland rabbits do not stand a chance against Samir's shooting schedule, and now Gabriel has to convince JoeyStarr down the hall. Remember the verb for shooting a film: to turn. See you next time!"
+OUTRO = ("The schedule is fixed, and Julie's alternative is not convincing Andrea. You have heard how to describe "
+ 'time remaining, say there is no choice and suggest what might be better. See you next time.')
 CLOSING = ('samir', 'À bientôt!')
-STORY = [
-    ('samir', 'Avec tous ces retards, il nous reste une demi-journée dans la grange.', 'With all these delays, we have half a day left in the barn.', [(252, 'Avec tous ces retards, il nous reste une demi-journée dans la grange')], ''),
-    ('samir', "J'ai dû réécrire le planning.", 'I had to rewrite the schedule.', [(253, "J'ai dû réécrire le planning")], ''),
-    ('samir', "On tourne la scène d'amour demain.", 'We shoot the love scene tomorrow.', [(254, "On tourne la scène d'amour demain")], ''),
-    ('andrea', "Ce n'est peut-être pas le bon moment.", 'Maybe it is not the right time.', [(254, 'peut-être pas le bon moment')], ''),
-    ('samir', "C'est demain, on n'a pas le choix!", 'It is tomorrow, we have no choice!', [(255, "C'est demain, on n'a pas le choix")], ''),
-    ('andrea', 'On va y arriver, Samir.', 'We are going to manage, Samir.', [(256, 'On va y arriver, Samir')], ''),
-    ('samir', 'Si tu le dis. Dis-le aux acteurs, je suis trop occupé.', 'If you say so. Tell the actors, I am too busy.', [(256, 'Si tu le dis'), (257, 'Dis-le aux acteurs, je suis trop occupé')], ''),
-    ('julie', "Pourquoi il y a toujours des scènes d'amour?", 'Why are there always love scenes?', [(258, "Pourquoi il y a toujours des scènes d'amour")], ''),
-    ('julie', 'Ce serait tellement plus fort de le suggérer symboliquement.', 'It would be so much stronger to suggest it symbolically.', [(259, 'Ce serait tellement plus fort de le suggérer symboliquement')], ''),
-    ('andrea', "C'est-à-dire?", 'Meaning what?', [(260, "C'est-à-dire")], ''),
-    ('julie', 'Je ne sais pas.', "I don't know.", [(261, 'sais pas')], ''),
-    ('julie', 'Une rivière qui coule? Des animaux qui gambadent dans les bois?', 'A flowing river? Animals frolicking in the woods?', [(262, 'Une rivière qui coule'), (262, 'Des animaux qui gambadent dans les bois')], ''),
-    ('andrea', 'Oui! Le public préférerait voir des lapins dans les bois.', 'Yes! The audience would prefer to see rabbits in the woods.', [(263, 'Le public préférerait voir des lapins')], ''),
-    ('andrea', "Plutôt que toi et JoeyStarr ensemble à l'écran!", 'Rather than you and JoeyStarr together on screen!', [(264, 'plutôt que toi et JoeyStarr')], ''),
-]
-WALK = [
-    (0, None, "'With all these delays, we have half a day left in the barn.' This impersonal construction literally means 'there remains to us'."),
-    (1, None, "'I had to rewrite the schedule.' Notice the past participle of 'must' with a circumflex accent."),
-    (2, None, "'We shoot the love scene tomorrow.' In French cinema, the verb for turning camera reels means to shoot or film."),
-    (3, None, "'Maybe it is not the right time.' Andréa tries to buy time for her reluctant actress."),
-    (4, None, "'It is tomorrow, we have no choice!' Samir is completely inflexible."),
-    (5, None, "'We are going to manage, Samir.' The pronoun 'there' combines with the verb for 'arriving' to mean 'to pull it off'."),
-    (6, None, "'If you say so. Tell the actors, I am too busy.' Samir leaves the hard conversation to the agents."),
-    (7, None, "'Why are there always love scenes?' Inside the hotel bedroom, Julie groans at the news."),
-    (8, None, "'It would be so much stronger to suggest it symbolically.' She argues for an artistic compromise to soften the point."),
-    (9, None, "'Meaning what?' This hyphenated phrase literally means 'that is to say'."),
-    (10, None, "'I don't know.' Put on the spot, Julie scrambles for an example."),
-    (11, None, "'A flowing river? Animals frolicking in the woods?' She pitches vintage poetic cinema metaphors."),
-    (12, None, "'Yes! The audience would prefer to see rabbits in the woods.' Andréa replies with dry, affectionate sarcasm."),
-    (13, None, "'Rather than you and JoeyStarr together on screen!' She reminds Julie what the public really paid to see."),
-]
+STORY = [('samir',
+  'Avec tous ces retards, il nous reste une demi-journée dans la grange.',
+  'With all these delays, we have half a day left in the barn.',
+  [(252, 'Avec tous ces retards, il nous reste une demi-journée dans la grange')],
+  ''),
+ ('samir',
+  "J'ai dû réécrire le planning.",
+  'I had to rewrite the schedule.',
+  [(253, "J'ai dû réécrire le planning")],
+  ''),
+ ('samir',
+  "On tourne la scène d'amour demain.",
+  'We shoot the love scene tomorrow.',
+  [(254, "On tourne la scène d'amour demain")],
+  ''),
+ ('andrea',
+  "Ce n'est peut-être pas le bon moment.",
+  'Maybe it is not the right time.',
+  [(254, 'peut-être pas le bon moment')],
+  ''),
+ ('samir',
+  "C'est demain, on n'a pas le choix!",
+  'It is tomorrow, we have no choice!',
+  [(255, "C'est demain, on n'a pas le choix")],
+  ''),
+ ('andrea',
+  'On va y arriver, Samir.',
+  'We are going to manage, Samir.',
+  [(256, 'On va y arriver, Samir')],
+  ''),
+ ('samir',
+  'Si tu le dis. Dis-le aux acteurs, je suis trop occupé.',
+  'If you say so. Tell the actors, I am too busy.',
+  [(256, 'Si tu le dis'), (257, 'Dis-le aux acteurs, je suis trop occupé')],
+  ''),
+ ('julie',
+  "Pourquoi il y a toujours des scènes d'amour?",
+  'Why are there always love scenes?',
+  [(258, "Pourquoi il y a toujours des scènes d'amour")],
+  ''),
+ ('julie',
+  'Ce serait tellement plus fort de le suggérer symboliquement.',
+  'It would be so much stronger to suggest it symbolically.',
+  [(259, 'Ce serait tellement plus fort de le suggérer symboliquement')],
+  ''),
+ ('andrea', "C'est-à-dire?", 'Meaning what?', [(260, "C'est-à-dire")], ''),
+ ('julie', 'Je ne sais pas.', "I don't know.", [(261, 'sais pas')], ''),
+ ('julie',
+  'Une rivière qui coule? Des animaux qui gambadent dans les bois?',
+  'A flowing river? Animals frolicking in the woods?',
+  [(262, 'Une rivière qui coule'), (262, 'Des animaux qui gambadent dans les bois')],
+  ''),
+ ('andrea',
+  'Oui! Le public préférerait voir des lapins dans les bois.',
+  'Yes! The audience would prefer to see rabbits in the woods.',
+  [(263, 'Le public préférerait voir des lapins')],
+  ''),
+ ('andrea',
+  "Plutôt que toi et JoeyStarr ensemble à l'écran!",
+  'Rather than you and JoeyStarr together on screen!',
+  [(264, 'plutôt que toi et JoeyStarr')],
+  '')]
+WALK = [(0,
+  None,
+  "'With all these delays, we have half a day left in the barn.' The expression literally says there remains "
+  'to us. The little word for us marks whose time is left, while half a day is the remaining amount.'),
+ (1,
+  None,
+  "'I had to rewrite the schedule.' The completed past of have to is followed by the basic action rewrite. "
+  'The borrowed word for schedule refers to the filming timetable.'),
+ (2,
+  None,
+  "'We shoot the love scene tomorrow.' The action meaning turn can mean film when used with a scene. The "
+  'present tense and tomorrow together announce a scheduled future event.'),
+ (3,
+  None,
+  "'Maybe it is not the right time.' The expression meaning maybe softens the objection. Good before moment "
+  'means right or suitable, rather than morally good.'),
+ (4,
+  None,
+  "'It is tomorrow, we have no choice!' Having no choice uses the ordinary action have with a negative. It "
+  'presents the timing as something they cannot change.'),
+ (5,
+  None,
+  "'We are going to manage, Samir.' The expression about arriving there can also mean managing to do "
+  'something. The small word for there points back to the result they need to reach.'),
+ (6,
+  None,
+  "'If you say so. Tell the actors, I am too busy.' The first sentence cautiously accepts someone else's "
+  'claim. In the next instruction, the word for it attaches to tell and to the actors identifies the '
+  'recipients.'),
+ (7,
+  None,
+  "'Why are there always love scenes?' The familiar expression for there are stays singular in French even "
+  'before plural scenes. Why asks for the reason these scenes keep appearing.'),
+ (8,
+  None,
+  "'It would be so much stronger to suggest it symbolically.' Would be presents a possible alternative. More "
+  'strengthens the comparison with the planned scene, and the little word for it refers to the intimacy she '
+  'wants implied.'),
+ (9,
+  None,
+  "'Meaning what?' The whole expression literally means that is to say. Said as a question, it asks the "
+  'speaker to explain what she means.'),
+ (10,
+  None,
+  "'I don't know.' The negative wraps around know. This present-tense expression admits she has no ready "
+  'answer, rather than saying she forgot one.'),
+ (11,
+  None,
+  "'A flowing river? Animals frolicking in the woods?' The first description uses a singular action for the "
+  'river, then a plural one for the animals. The last word means woods, rather than the material used to '
+  'make furniture.'),
+ (12,
+  None,
+  "'Yes! The audience would prefer to see rabbits in the woods.' Would prefer presents a hypothetical "
+  'audience preference. Seeing remains in its basic form after prefer, with rabbits as what they would see.'),
+ (13,
+  None,
+  "'Rather than you and JoeyStarr together on screen!' Rather than introduces the alternative being rejected "
+  'in the comparison. On screen refers to their appearance in the film, rather than their physical location '
+  'now.')]
