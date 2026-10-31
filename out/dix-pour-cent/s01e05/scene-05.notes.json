@@ -491,8 +491,6 @@
       ]
     },
     {
-      "seg": 9,
-      "trans": "What? Out of the way! Open the door, Julie!",
       "words": [
         {
           "t": "Quoi?",
@@ -501,14 +499,6 @@
           "stress": "kwa",
           "gloss": "what",
           "gram": "interrogative pronoun, informal, after the verb"
-        },
-        {
-          "t": "Poussez-vous!",
-          "lemma": "pousser",
-          "pos": "verb",
-          "stress": "pusevu",
-          "gloss": "move aside!, out of the way!",
-          "gram": "reflexive imperative, 2nd person plural"
         },
         {
           "t": "Ouvre",
@@ -521,10 +511,10 @@
         {
           "t": "la",
           "lemma": "le",
-          "pos": "det",
+          "pos": "pron",
           "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
+          "gloss": "her",
+          "gram": "feminine singular direct object; the person pushed"
         },
         {
           "t": "porte,",
@@ -542,7 +532,9 @@
           "gloss": "Julie (first name)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "seg": 9,
+      "trans": "What? Out of the way! Open the door, Julie!"
     },
     {
       "seg": 10,
@@ -1273,8 +1265,6 @@
       ]
     },
     {
-      "seg": 31,
-      "trans": "What? Out of the way! Open the door, Julie!",
       "words": [
         {
           "t": "Quoi?",
@@ -1283,14 +1273,6 @@
           "stress": "kwa",
           "gloss": "what",
           "gram": "interrogative pronoun, informal, after the verb"
-        },
-        {
-          "t": "Poussez-vous!",
-          "lemma": "pousser",
-          "pos": "verb",
-          "stress": "pusevu",
-          "gloss": "move aside!, out of the way!",
-          "gram": "reflexive imperative, 2nd person plural"
         },
         {
           "t": "Ouvre",
@@ -1303,10 +1285,10 @@
         {
           "t": "la",
           "lemma": "le",
-          "pos": "det",
+          "pos": "pron",
           "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
+          "gloss": "her",
+          "gram": "feminine singular direct object; the person pushed"
         },
         {
           "t": "porte,",
@@ -1324,7 +1306,9 @@
           "gloss": "Julie (first name)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "seg": 31,
+      "trans": "What? Out of the way! Open the door, Julie!"
     },
     {
       "seg": 33,
@@ -2055,8 +2039,6 @@
       ]
     },
     {
-      "seg": 49,
-      "trans": "What? Out of the way! Open the door, Julie!",
       "words": [
         {
           "t": "Quoi?",
@@ -2065,14 +2047,6 @@
           "stress": "kwa",
           "gloss": "what",
           "gram": "interrogative pronoun, informal, after the verb"
-        },
-        {
-          "t": "Poussez-vous!",
-          "lemma": "pousser",
-          "pos": "verb",
-          "stress": "pusevu",
-          "gloss": "move aside!, out of the way!",
-          "gram": "reflexive imperative, 2nd person plural"
         },
         {
           "t": "Ouvre",
@@ -2085,10 +2059,10 @@
         {
           "t": "la",
           "lemma": "le",
-          "pos": "det",
+          "pos": "pron",
           "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
+          "gloss": "her",
+          "gram": "feminine singular direct object; the person pushed"
         },
         {
           "t": "porte,",
@@ -2106,7 +2080,9 @@
           "gloss": "Julie (first name)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "seg": 49,
+      "trans": "What? Out of the way! Open the door, Julie!"
     },
     {
       "seg": 50,
@@ -3036,12 +3012,7 @@
           "trans": "With all my heart."
         }
       ],
-      "related": [
-        {
-          "word": "un cœur / des cœurs",
-          "gloss": "a heart / hearts"
-        }
-      ]
+      "related": []
     },
     "d'abord": {
       "lemma": "d'abord",
@@ -3051,11 +3022,11 @@
       "meanings": [
         {
           "en": "first, first of all",
-          "note": "Invariable French adverb meaning 'first'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         },
         {
           "en": "at first",
-          "note": "Invariable French adverb meaning 'first'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4580,12 +4551,7 @@
           "trans": "Thank you, madam."
         }
       ],
-      "related": [
-        {
-          "word": "une madame / des mesdames",
-          "gloss": "a madam / madams"
-        }
-      ]
+      "related": []
     },
     "mais": {
       "lemma": "mais",
@@ -5397,164 +5363,6 @@
         }
       ],
       "related": []
-    },
-    "pousser": {
-      "lemma": "pousser",
-      "stress": "puse",
-      "pos": "verb",
-      "gloss": "to push, to shove",
-      "meanings": [
-        {
-          "en": "to push, to shove",
-          "note": "poussez-vous! = move aside! / out of the way!"
-        },
-        {
-          "en": "to grow (of plants or hair)",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je pousse",
-              "nous poussons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu pousses",
-              "vous poussez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle pousse",
-              "ils/elles poussent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai poussé",
-                "nous avons poussé"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as poussé",
-                "vous avez poussé"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a poussé",
-                "ils/elles ont poussé"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je poussais",
-                "nous poussions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu poussais",
-                "vous poussiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle poussait",
-                "ils/elles poussaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je pousserai",
-                "nous pousserons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu pousseras",
-                "vous pousserez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle poussera",
-                "ils/elles pousseront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Il la pousse dans les buissons.",
-          "trans": "He pushes her into the bushes."
-        },
-        {
-          "text": "Ne poussez pas!",
-          "trans": "Don't push!"
-        }
-      ],
-      "related": [
-        {
-          "word": "poussette",
-          "gloss": "stroller"
-        }
-      ]
     },
     "pouvoir": {
       "lemma": "pouvoir",
@@ -6977,11 +6785,11 @@
       "meanings": [
         {
           "en": "too",
-          "note": "Trop vieille = too old. Invariable French adverb meaning 'too'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Trop vieille = too old."
         },
         {
           "en": "too much",
-          "note": "Trop de travail. Invariable French adverb meaning 'too'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Trop de travail."
         }
       ],
       "forms": null,
@@ -7226,11 +7034,11 @@
       "meanings": [
         {
           "en": "there is, here's",
-          "note": "To present something. Invariable French adverb meaning 'there is'; placed immediately after the conjugated verb in simple tenses."
+          "note": "To present something."
         },
         {
           "en": "there you go, that's it",
-          "note": "Invariable French adverb meaning 'there is'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         }
       ],
       "forms": null,
