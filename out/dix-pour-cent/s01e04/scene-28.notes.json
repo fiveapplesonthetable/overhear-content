@@ -12,7 +12,7 @@
           "pos": "pron",
           "stress": "ki",
           "gloss": "who",
-          "gram": "relative pronoun, subject; c'est moi qui = I'm the one who"
+          "gram": "interrogative pronoun asking which person"
         },
         {
           "t": "veut",
@@ -27,7 +27,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an (one)",
+          "gloss": "a",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -40,11 +40,11 @@
         },
         {
           "t": "nouvelle?",
-          "lemma": "nouveau",
-          "pos": "adj",
+          "lemma": "nouvelle",
+          "pos": "noun",
           "stress": "nuvɛl",
-          "gloss": "new",
-          "gram": "feminine singular, before the noun"
+          "gloss": "piece of news",
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -62,11 +62,11 @@
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has (helping verb)",
+          "gram": "present, 3rd person singular, helping verb in a eu"
         },
         {
           "t": "eu",
@@ -78,11 +78,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle!",
@@ -116,11 +116,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "film",
@@ -135,8 +135,8 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "in",
+          "gram": "preposition"
         },
         {
           "t": "costume?",
@@ -154,11 +154,11 @@
       "words": [
         {
           "t": "Le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "réalisateur",
@@ -173,8 +173,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "intelligent.",
@@ -255,8 +255,6 @@
       ]
     },
     {
-      "seg": 7,
-      "trans": "Yes, she does the cleaning for the duchess.",
       "words": [
         {
           "t": "Oui,",
@@ -264,14 +262,14 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
+          "gram": "affirmative answer"
         },
         {
           "t": "elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
@@ -279,16 +277,16 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
+          "gloss": "does",
+          "gram": "present, 3rd person singular; faire le ménage = do the housework"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "ménage",
@@ -315,25 +313,27 @@
           "gram": "definite article, feminine singular"
         },
         {
-          "t": "duchesse.",
-          "lemma": "duchesse",
+          "t": "marquise.",
+          "lemma": "marquise",
           "pos": "noun",
-          "stress": "dyʃɛs",
-          "gloss": "duchess",
-          "gram": "feminine singular"
+          "stress": "maʁkiz",
+          "gloss": "marchioness",
+          "gram": "feminine singular, noble title"
         }
-      ]
+      ],
+      "seg": 7,
+      "trans": "Yes, she does the cleaning for the marchioness."
     },
     {
       "seg": 8,
-      "trans": "She",
+      "trans": "She's going to be furious with me.",
       "words": [
         {
           "t": "Elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
@@ -341,8 +341,8 @@
           "lemma": "aller",
           "pos": "verb",
           "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+          "gloss": "is going (to)",
+          "gram": "present, 3rd person singular with elle; near future"
         },
         {
           "t": "être",
@@ -380,7 +380,7 @@
     },
     {
       "seg": 9,
-      "trans": "I",
+      "trans": "I'm playing the slave?",
       "words": [
         {
           "t": "Je",
@@ -395,8 +395,8 @@
           "lemma": "jouer",
           "pos": "verb",
           "stress": "ʒu",
-          "gloss": "plays",
-          "gram": "present, 3rd person singular"
+          "gloss": "play",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "l'esclave?",
@@ -418,7 +418,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
+          "gram": "affirmative answer"
         },
         {
           "t": "mais",
@@ -457,16 +457,16 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "in (in addition)",
+          "gram": "preposition in en plus = in addition"
         },
         {
           "t": "plus.",
           "lemma": "plus",
           "pos": "adv",
-          "stress": "ply",
-          "gloss": "no more",
-          "gram": "second part of ne... plus"
+          "stress": "plys",
+          "gloss": "more, extra",
+          "gram": "adverb, en plus = as well, in addition; final s pronounced"
         }
       ]
     },
@@ -492,11 +492,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle?",
@@ -556,7 +556,7 @@
     },
     {
       "seg": 13,
-      "trans": "That",
+      "trans": "That's brilliant! Oh, Gabriel!",
       "words": [
         {
           "t": "C'est",
@@ -593,16 +593,14 @@
       ]
     },
     {
-      "seg": 14,
-      "trans": "Thank you! I love you, I love you!",
       "words": [
         {
           "t": "Merci!",
           "lemma": "merci",
           "pos": "interj",
           "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
+          "gloss": "thank you",
+          "gram": "gratitude"
         },
         {
           "t": "Je",
@@ -610,15 +608,23 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject"
         },
         {
-          "t": "t'aime,",
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Gabriel"
+        },
+        {
+          "t": "aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "tɛm",
-          "gloss": "love you",
-          "gram": "te (elided t', you) + aime: present, 1st person singular"
+          "stress": "ɛm",
+          "gloss": "love",
+          "gram": "present 1st singular"
         },
         {
           "t": "je",
@@ -626,17 +632,27 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject"
         },
         {
-          "t": "t'aime!",
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Gabriel"
+        },
+        {
+          "t": "aime!",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "tɛm",
-          "gloss": "love you",
-          "gram": "te (elided t', you) + aime: present, 1st person singular"
+          "stress": "ɛm",
+          "gloss": "love",
+          "gram": "present 1st singular"
         }
-      ]
+      ],
+      "seg": 14,
+      "trans": "Thank you! I love you, I love you!"
     },
     {
       "seg": 16,
@@ -648,7 +664,7 @@
           "pos": "pron",
           "stress": "ki",
           "gloss": "who",
-          "gram": "relative pronoun, subject; c'est moi qui = I'm the one who"
+          "gram": "interrogative pronoun asking which person"
         },
         {
           "t": "veut",
@@ -663,7 +679,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an (one)",
+          "gloss": "a",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -676,11 +692,11 @@
         },
         {
           "t": "nouvelle?",
-          "lemma": "nouveau",
-          "pos": "adj",
+          "lemma": "nouvelle",
+          "pos": "noun",
           "stress": "nuvɛl",
-          "gloss": "new",
-          "gram": "feminine singular, before the noun"
+          "gloss": "piece of news",
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -698,11 +714,11 @@
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has (helping verb)",
+          "gram": "present, 3rd person singular, helping verb in a eu"
         },
         {
           "t": "eu",
@@ -714,11 +730,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle!",
@@ -752,11 +768,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "film",
@@ -771,8 +787,8 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "in",
+          "gram": "preposition"
         },
         {
           "t": "costume?",
@@ -790,11 +806,11 @@
       "words": [
         {
           "t": "Le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "réalisateur",
@@ -809,8 +825,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "intelligent.",
@@ -891,8 +907,6 @@
       ]
     },
     {
-      "seg": 28,
-      "trans": "Yes, she does the cleaning for the duchess.",
       "words": [
         {
           "t": "Oui,",
@@ -900,14 +914,14 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
+          "gram": "affirmative answer"
         },
         {
           "t": "elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
@@ -915,16 +929,16 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
+          "gloss": "does",
+          "gram": "present, 3rd person singular; faire le ménage = do the housework"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "ménage",
@@ -951,25 +965,27 @@
           "gram": "definite article, feminine singular"
         },
         {
-          "t": "duchesse.",
-          "lemma": "duchesse",
+          "t": "marquise.",
+          "lemma": "marquise",
           "pos": "noun",
-          "stress": "dyʃɛs",
-          "gloss": "duchess",
-          "gram": "feminine singular"
+          "stress": "maʁkiz",
+          "gloss": "marchioness",
+          "gram": "feminine singular, noble title"
         }
-      ]
+      ],
+      "seg": 28,
+      "trans": "Yes, she does the cleaning for the marchioness."
     },
     {
       "seg": 30,
-      "trans": "She",
+      "trans": "She's going to be furious with me.",
       "words": [
         {
           "t": "Elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
@@ -977,8 +993,8 @@
           "lemma": "aller",
           "pos": "verb",
           "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+          "gloss": "is going (to)",
+          "gram": "present, 3rd person singular with elle; near future"
         },
         {
           "t": "être",
@@ -1016,7 +1032,7 @@
     },
     {
       "seg": 32,
-      "trans": "I",
+      "trans": "I'm playing the slave?",
       "words": [
         {
           "t": "Je",
@@ -1031,8 +1047,8 @@
           "lemma": "jouer",
           "pos": "verb",
           "stress": "ʒu",
-          "gloss": "plays",
-          "gram": "present, 3rd person singular"
+          "gloss": "play",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "l'esclave?",
@@ -1054,7 +1070,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
+          "gram": "affirmative answer"
         },
         {
           "t": "mais",
@@ -1093,16 +1109,16 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "in (in addition)",
+          "gram": "preposition in en plus = in addition"
         },
         {
           "t": "plus.",
           "lemma": "plus",
           "pos": "adv",
-          "stress": "ply",
-          "gloss": "no more",
-          "gram": "second part of ne... plus"
+          "stress": "plys",
+          "gloss": "more, extra",
+          "gram": "adverb, en plus = as well, in addition; final s pronounced"
         }
       ]
     },
@@ -1128,11 +1144,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle?",
@@ -1192,7 +1208,7 @@
     },
     {
       "seg": 40,
-      "trans": "That",
+      "trans": "That's brilliant! Oh, Gabriel!",
       "words": [
         {
           "t": "C'est",
@@ -1229,16 +1245,14 @@
       ]
     },
     {
-      "seg": 42,
-      "trans": "Thank you! I love you, I love you!",
       "words": [
         {
           "t": "Merci!",
           "lemma": "merci",
           "pos": "interj",
           "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
+          "gloss": "thank you",
+          "gram": "gratitude"
         },
         {
           "t": "Je",
@@ -1246,15 +1260,23 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject"
         },
         {
-          "t": "t'aime,",
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Gabriel"
+        },
+        {
+          "t": "aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "tɛm",
-          "gloss": "love you",
-          "gram": "te (elided t', you) + aime: present, 1st person singular"
+          "stress": "ɛm",
+          "gloss": "love",
+          "gram": "present 1st singular"
         },
         {
           "t": "je",
@@ -1262,17 +1284,27 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject"
         },
         {
-          "t": "t'aime!",
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Gabriel"
+        },
+        {
+          "t": "aime!",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "tɛm",
-          "gloss": "love you",
-          "gram": "te (elided t', you) + aime: present, 1st person singular"
+          "stress": "ɛm",
+          "gloss": "love",
+          "gram": "present 1st singular"
         }
-      ]
+      ],
+      "seg": 42,
+      "trans": "Thank you! I love you, I love you!"
     },
     {
       "seg": 44,
@@ -1284,7 +1316,7 @@
           "pos": "pron",
           "stress": "ki",
           "gloss": "who",
-          "gram": "relative pronoun, subject; c'est moi qui = I'm the one who"
+          "gram": "interrogative pronoun asking which person"
         },
         {
           "t": "veut",
@@ -1299,7 +1331,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an (one)",
+          "gloss": "a",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -1312,11 +1344,11 @@
         },
         {
           "t": "nouvelle?",
-          "lemma": "nouveau",
-          "pos": "adj",
+          "lemma": "nouvelle",
+          "pos": "noun",
           "stress": "nuvɛl",
-          "gloss": "new",
-          "gram": "feminine singular, before the noun"
+          "gloss": "piece of news",
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -1334,11 +1366,11 @@
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has (helping verb)",
+          "gram": "present, 3rd person singular, helping verb in a eu"
         },
         {
           "t": "eu",
@@ -1350,11 +1382,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle!",
@@ -1388,11 +1420,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "film",
@@ -1407,8 +1439,8 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "in",
+          "gram": "preposition"
         },
         {
           "t": "costume?",
@@ -1426,11 +1458,11 @@
       "words": [
         {
           "t": "Le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "réalisateur",
@@ -1445,8 +1477,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "intelligent.",
@@ -1527,8 +1559,6 @@
       ]
     },
     {
-      "seg": 50,
-      "trans": "Yes, she does the cleaning for the duchess.",
       "words": [
         {
           "t": "Oui,",
@@ -1536,14 +1566,14 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
+          "gram": "affirmative answer"
         },
         {
           "t": "elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
@@ -1551,16 +1581,16 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
+          "gloss": "does",
+          "gram": "present, 3rd person singular; faire le ménage = do the housework"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "ménage",
@@ -1587,25 +1617,27 @@
           "gram": "definite article, feminine singular"
         },
         {
-          "t": "duchesse.",
-          "lemma": "duchesse",
+          "t": "marquise.",
+          "lemma": "marquise",
           "pos": "noun",
-          "stress": "dyʃɛs",
-          "gloss": "duchess",
-          "gram": "feminine singular"
+          "stress": "maʁkiz",
+          "gloss": "marchioness",
+          "gram": "feminine singular, noble title"
         }
-      ]
+      ],
+      "seg": 50,
+      "trans": "Yes, she does the cleaning for the marchioness."
     },
     {
       "seg": 51,
-      "trans": "She",
+      "trans": "She's going to be furious with me.",
       "words": [
         {
           "t": "Elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
@@ -1613,8 +1645,8 @@
           "lemma": "aller",
           "pos": "verb",
           "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+          "gloss": "is going (to)",
+          "gram": "present, 3rd person singular with elle; near future"
         },
         {
           "t": "être",
@@ -1652,7 +1684,7 @@
     },
     {
       "seg": 52,
-      "trans": "I",
+      "trans": "I'm playing the slave?",
       "words": [
         {
           "t": "Je",
@@ -1667,8 +1699,8 @@
           "lemma": "jouer",
           "pos": "verb",
           "stress": "ʒu",
-          "gloss": "plays",
-          "gram": "present, 3rd person singular"
+          "gloss": "play",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "l'esclave?",
@@ -1690,7 +1722,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
+          "gram": "affirmative answer"
         },
         {
           "t": "mais",
@@ -1729,16 +1761,16 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "in (in addition)",
+          "gram": "preposition in en plus = in addition"
         },
         {
           "t": "plus.",
           "lemma": "plus",
           "pos": "adv",
-          "stress": "ply",
-          "gloss": "no more",
-          "gram": "second part of ne... plus"
+          "stress": "plys",
+          "gloss": "more, extra",
+          "gram": "adverb, en plus = as well, in addition; final s pronounced"
         }
       ]
     },
@@ -1764,11 +1796,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle?",
@@ -1828,7 +1860,7 @@
     },
     {
       "seg": 56,
-      "trans": "That",
+      "trans": "That's brilliant! Oh, Gabriel!",
       "words": [
         {
           "t": "C'est",
@@ -1865,16 +1897,14 @@
       ]
     },
     {
-      "seg": 57,
-      "trans": "Thank you! I love you, I love you!",
       "words": [
         {
           "t": "Merci!",
           "lemma": "merci",
           "pos": "interj",
           "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
+          "gloss": "thank you",
+          "gram": "gratitude"
         },
         {
           "t": "Je",
@@ -1882,15 +1912,23 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject"
         },
         {
-          "t": "t'aime,",
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Gabriel"
+        },
+        {
+          "t": "aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "tɛm",
-          "gloss": "love you",
-          "gram": "te (elided t', you) + aime: present, 1st person singular"
+          "stress": "ɛm",
+          "gloss": "love",
+          "gram": "present 1st singular"
         },
         {
           "t": "je",
@@ -1898,17 +1936,27 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject"
         },
         {
-          "t": "t'aime!",
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Gabriel"
+        },
+        {
+          "t": "aime!",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "tɛm",
-          "gloss": "love you",
-          "gram": "te (elided t', you) + aime: present, 1st person singular"
+          "stress": "ɛm",
+          "gloss": "love",
+          "gram": "present 1st singular"
         }
-      ]
+      ],
+      "seg": 57,
+      "trans": "Thank you! I love you, I love you!"
     },
     {
       "seg": 59,
@@ -1942,11 +1990,11 @@
       "meanings": [
         {
           "en": "to like",
-          "note": "With things and places. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to like'; conjugates with 'avoir' in compound tenses (past participle 'aimé')."
+          "note": "With things and places."
         },
         {
           "en": "to love",
-          "note": "With people. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to like'; conjugates with 'avoir' in compound tenses (past participle 'aimé')."
+          "note": "With people."
         }
       ],
       "forms": {
@@ -2108,11 +2156,11 @@
         },
         {
           "en": "aller + infinitive = going to (near future)",
-          "note": "Je vais déjeuner. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Je vais déjeuner."
         },
         {
           "en": "allez! = come on!",
-          "note": "Imperative used to encourage. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Imperative used to encourage."
         }
       ],
       "forms": {
@@ -2298,7 +2346,7 @@
       "meanings": [
         {
           "en": "with",
-          "note": "Core French preposition meaning 'with', linking a noun phrase or infinitive complement to the clause."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2317,12 +2365,7 @@
           "trans": "And tomorrow you're having lunch with Audiard."
         }
       ],
-      "related": [
-        {
-          "word": "avec",
-          "gloss": "with"
-        }
-      ]
+      "related": []
     },
     "avoir": {
       "lemma": "avoir",
@@ -2336,11 +2379,11 @@
         },
         {
           "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "J'ai appelé = I called."
         },
         {
           "en": "il y a = there is, there are",
-          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "Fixed expression."
         }
       ],
       "forms": {
@@ -2530,7 +2573,7 @@
         },
         {
           "en": "bonne journée = have a nice day",
-          "note": "Descriptive French adjective meaning 'good'; agrees in gender and number with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -2572,12 +2615,7 @@
           "trans": "It's a good film."
         }
       ],
-      "related": [
-        {
-          "word": "as an interjection: bon, alors...",
-          "gloss": "right, so..."
-        }
-      ]
+      "related": []
     },
     "contre": {
       "lemma": "contre",
@@ -2587,7 +2625,7 @@
       "meanings": [
         {
           "en": "against",
-          "note": "Core French preposition meaning 'against', linking a noun phrase or infinitive complement to the clause."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2627,7 +2665,7 @@
         },
         {
           "en": "stage or period costume",
-          "note": "Un film en costumes. Masculine noun ('le costume', plural 'les costumes') inherited through Romance vocabulary, used in everyday and professional French for 'suit'."
+          "note": "Un film en costumes."
         }
       ],
       "forms": {
@@ -2677,11 +2715,11 @@
       "meanings": [
         {
           "en": "in, inside",
-          "note": "J'étais dans les sous-vêtements. Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
+          "note": "J'étais dans les sous-vêtements."
         },
         {
           "en": "in (time from now)",
-          "note": "Dans une heure = in an hour. Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
+          "note": "Dans une heure = in an hour."
         }
       ],
       "forms": null,
@@ -2700,20 +2738,7 @@
           "trans": "You know lots of people in film. You could help me."
         }
       ],
-      "related": [
-        {
-          "word": "danse",
-          "gloss": "dance"
-        },
-        {
-          "word": "danser",
-          "gloss": "to dance"
-        },
-        {
-          "word": "danseur",
-          "gloss": "dancer"
-        }
-      ]
+      "related": []
     },
     "de": {
       "lemma": "de",
@@ -2723,7 +2748,7 @@
       "meanings": [
         {
           "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "D' before a vowel."
         },
         {
           "en": "'s (possession)",
@@ -2731,7 +2756,7 @@
         },
         {
           "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
@@ -2811,12 +2836,7 @@
           "trans": "It's compost. It feeds the earth."
         }
       ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "some"
-        }
-      ]
+      "related": []
     },
     "duchesse": {
       "lemma": "duchesse",
@@ -2828,7 +2848,7 @@
       "meanings": [
         {
           "en": "duchess (noblewoman)",
-          "note": "Masculine: le duc. Feminine noun ('la duchesse', plural 'les duchesses') inherited through Romance vocabulary, used in everyday and professional French for 'duchess'."
+          "note": "Masculine: le duc."
         }
       ],
       "forms": {
@@ -2863,12 +2883,7 @@
           "trans": "Lower your eyes before the duchess!"
         }
       ],
-      "related": [
-        {
-          "word": "une duchesse / des duchesses",
-          "gloss": "a duchess / duchesss"
-        }
-      ]
+      "related": []
     },
     "elle": {
       "lemma": "elle",
@@ -2878,7 +2893,7 @@
       "meanings": [
         {
           "en": "she",
-          "note": "for a feminine noun: l'industrie... elle"
+          "note": "Refers to a female person; can also refer to a feminine noun."
         },
         {
           "en": "it",
@@ -2901,12 +2916,7 @@
           "trans": "Listen, it's an industry, and it's full of sharks."
         }
       ],
-      "related": [
-        {
-          "word": "elle",
-          "gloss": "she"
-        }
-      ]
+      "related": []
     },
     "en": {
       "lemma": "en",
@@ -2987,12 +2997,7 @@
           "trans": "We want the slaves behind the chateau, okay?"
         }
       ],
-      "related": [
-        {
-          "word": "un esclave / des esclaves",
-          "gloss": "a slave / slaves"
-        }
-      ]
+      "related": []
     },
     "faire": {
       "lemma": "faire",
@@ -3006,15 +3011,15 @@
         },
         {
           "en": "faire confiance à = to trust",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": ""
         },
         {
           "en": "faire la surprise à = to surprise",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": ""
         },
         {
           "en": "ça fait trois semaines que = it's been three weeks since",
-          "note": "With time. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": "With time."
         }
       ],
       "forms": {
@@ -3174,7 +3179,7 @@
       "meanings": [
         {
           "en": "film, movie",
-          "note": "Masculine noun ('le film', plural 'les films') inherited through Romance vocabulary, used in everyday and professional French for 'film'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3209,12 +3214,7 @@
           "trans": "Are you making a film in the United States?"
         }
       ],
-      "related": [
-        {
-          "word": "un film / des films",
-          "gloss": "a film / films"
-        }
-      ]
+      "related": []
     },
     "furieux": {
       "lemma": "furieux",
@@ -3281,11 +3281,11 @@
       "meanings": [
         {
           "en": "brilliant, great",
-          "note": "Informal praise. Descriptive French adjective meaning 'brilliant'; agrees in gender and number with the noun it modifies."
+          "note": "Informal praise."
         },
         {
           "en": "of genius",
-          "note": "Descriptive French adjective meaning 'brilliant'; agrees in gender and number with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -3342,7 +3342,7 @@
       "meanings": [
         {
           "en": "there is, there are",
-          "note": "Never changes for plural. Spoken French phrase expression meaning 'there is', common in natural conversation."
+          "note": "Never changes for plural."
         },
         {
           "en": "ago",
@@ -3365,12 +3365,7 @@
           "trans": "No, it's Samuel's place. He died six days ago."
         }
       ],
-      "related": [
-        {
-          "word": "il y a",
-          "gloss": "there is"
-        }
-      ]
+      "related": []
     },
     "intelligent": {
       "lemma": "intelligent",
@@ -3380,7 +3375,7 @@
       "meanings": [
         {
           "en": "smart, intelligent, clever",
-          "note": "Prefix 'in-'/'im-' marks negation ('un-, in-') or inward motion."
+          "note": ""
         }
       ],
       "forms": {
@@ -3437,7 +3432,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -3456,12 +3451,7 @@
           "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
-      "related": [
-        {
-          "word": "je",
-          "gloss": "I"
-        }
-      ]
+      "related": []
     },
     "jouer": {
       "lemma": "jouer",
@@ -3475,11 +3465,11 @@
         },
         {
           "en": "to act, to perform",
-          "note": "Je joue dans un spectacle. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to play'; conjugates with 'avoir' in compound tenses (past participle 'joué')."
+          "note": "Je joue dans un spectacle."
         },
         {
           "en": "to play (a game, music)",
-          "note": "Jouer au foot, jouer du piano. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to play'; conjugates with 'avoir' in compound tenses (past participle 'joué')."
+          "note": "Jouer au foot, jouer du piano."
         }
       ],
       "forms": {
@@ -3638,6 +3628,10 @@
         {
           "en": "the",
           "note": "definite article; l' before a vowel"
+        },
+        {
+          "en": "him, her, it; them (les)",
+          "note": "Direct object placed before a verb; la is feminine singular, les is plural."
         }
       ],
       "forms": {
@@ -3679,12 +3673,7 @@
           "trans": "It's Tarantino's next film."
         }
       ],
-      "related": [
-        {
-          "word": "le",
-          "gloss": "the"
-        }
-      ]
+      "related": []
     },
     "mais": {
       "lemma": "mais",
@@ -3694,7 +3683,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": "Mais oui! = of course!. French conjunction meaning 'but', used to link clauses in spoken and written discourse."
+          "note": "Mais oui! = of course!."
         }
       ],
       "forms": null,
@@ -3762,7 +3751,7 @@
       "meanings": [
         {
           "en": "me",
-          "note": "Stressed form: pour moi, avec moi. High-frequency French pronoun meaning 'me'; clitic object forms precede the conjugated verb."
+          "note": "Stressed form: pour moi, avec moi."
         }
       ],
       "forms": null,
@@ -3781,12 +3770,7 @@
           "trans": "I'm the one firing you!"
         }
       ],
-      "related": [
-        {
-          "word": "moi",
-          "gloss": "me"
-        }
-      ]
+      "related": []
     },
     "ménage": {
       "lemma": "ménage",
@@ -3802,7 +3786,7 @@
         },
         {
           "en": "household, couple",
-          "note": "Masculine noun formed with the suffix '-age' (from Late Latin '-aticum') denoting an action, state, or collection. Standard masculine noun meaning 'housework, cleaning; household'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3856,7 +3840,7 @@
         },
         {
           "en": "..., non? = ..., don't you? / isn't it?",
-          "note": "Tag at the end of a question. Invariable French adverb meaning 'no'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Tag at the end of a question."
         }
       ],
       "forms": null,
@@ -3898,7 +3882,7 @@
         },
         {
           "en": "another, one more",
-          "note": "Un nouveau caprice. Descriptive French adjective meaning 'new'; agrees in gender and number with the noun it modifies."
+          "note": "Un nouveau caprice."
         }
       ],
       "forms": {
@@ -3965,11 +3949,11 @@
       "meanings": [
         {
           "en": "piece of news",
-          "note": "Plural for 'news': des nouvelles. Feminine noun ('la nouvelle', plural 'les nouvelles') inherited through Romance vocabulary, used in everyday and professional French for 'piece of news'."
+          "note": "Plural for 'news': des nouvelles."
         },
         {
           "en": "short story",
-          "note": "Literature. Feminine noun ('la nouvelle', plural 'les nouvelles') inherited through Romance vocabulary, used in everyday and professional French for 'piece of news'."
+          "note": "Literature."
         }
       ],
       "forms": {
@@ -4019,7 +4003,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise or dismay. Spoken French interj expression meaning 'oh', common in natural conversation."
+          "note": "Surprise or dismay."
         }
       ],
       "forms": null,
@@ -4038,12 +4022,7 @@
           "trans": "Oh no! I'm late."
         }
       ],
-      "related": [
-        {
-          "word": "oh",
-          "gloss": "oh"
-        }
-      ]
+      "related": []
     },
     "oui": {
       "lemma": "oui",
@@ -4053,7 +4032,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": "Invariable French adverb meaning 'yes'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4091,7 +4070,7 @@
       "meanings": [
         {
           "en": "no more, no longer",
-          "note": "With ne: je n'en peux plus. Invariable French adverb meaning 'no more'; placed immediately after the conjugated verb in simple tenses."
+          "note": "With ne: je n'en peux plus."
         },
         {
           "en": "more",
@@ -4133,7 +4112,7 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+          "note": "+ infinitive: pour voir."
         }
       ],
       "forms": null,
@@ -4179,7 +4158,7 @@
         },
         {
           "en": "who? (question)",
-          "note": "Qui parle?. High-frequency French pronoun meaning 'who'; clitic object forms precede the conjugated verb."
+          "note": "Qui parle?."
         }
       ],
       "forms": null,
@@ -4215,7 +4194,7 @@
       "meanings": [
         {
           "en": "film director",
-          "note": "Feminine: réalisatrice. Derived with the Romance agent/quality suffix '-eur'/'-euse' (from Latin '-or'/'-tor'). Prefix 'ré-' marks repetition, return, or intensity. Standard masculine noun meaning 'film director'."
+          "note": "Feminine: réalisatrice."
         }
       ],
       "forms": {
@@ -4275,7 +4254,7 @@
       "meanings": [
         {
           "en": "part, role (in a film or play)",
-          "note": "Un rôle dans un film. Masculine noun ('le rôle', plural 'les rôles') inherited through Romance vocabulary, used in everyday and professional French for 'role'."
+          "note": "Un rôle dans un film."
         }
       ],
       "forms": {
@@ -4310,12 +4289,7 @@
           "trans": "Yes! My favourite, Pierre Niney, has a new part."
         }
       ],
-      "related": [
-        {
-          "word": "un rôle / des rôles",
-          "gloss": "a role / roles"
-        }
-      ]
+      "related": []
     },
     "soirée": {
       "lemma": "soirée",
@@ -4327,11 +4301,11 @@
       "meanings": [
         {
           "en": "evening",
-          "note": "Bonne soirée = have a nice evening. Feminine noun ('la soirée', plural 'les soirées') inherited through Romance vocabulary, used in everyday and professional French for 'evening'."
+          "note": "Bonne soirée = have a nice evening."
         },
         {
           "en": "party",
-          "note": "Une soirée = an evening party. Feminine noun ('la soirée', plural 'les soirées') inherited through Romance vocabulary, used in everyday and professional French for 'evening'."
+          "note": "Une soirée = an evening party."
         }
       ],
       "forms": {
@@ -4382,7 +4356,7 @@
       "meanings": [
         {
           "en": "great, super",
-          "note": "Informal, does not change. Descriptive French adjective meaning 'great'; agrees in gender and number with the noun it modifies."
+          "note": "Informal, does not change."
         }
       ],
       "forms": {
@@ -4541,7 +4515,7 @@
         },
         {
           "en": "one",
-          "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
+          "note": "Number; l'un = one of them."
         }
       ],
       "forms": {
@@ -4583,12 +4557,7 @@
           "trans": "One at noon, the other at two."
         }
       ],
-      "related": [
-        {
-          "word": "un",
-          "gloss": "a"
-        }
-      ]
+      "related": []
     },
     "vouloir": {
       "lemma": "vouloir",
@@ -4598,11 +4567,11 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "+ noun or infinitive."
         },
         {
           "en": "je voulais = I wanted",
-          "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "Imparfait, softer."
         }
       ],
       "forms": {
@@ -4764,11 +4733,11 @@
       "meanings": [
         {
           "en": "true",
-          "note": "Descriptive French adjective meaning 'true'; agrees in gender and number with the noun it modifies."
+          "note": ""
         },
         {
           "en": "real, genuine, honest",
-          "note": "Descriptive French adjective meaning 'true'; agrees in gender and number with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -4825,11 +4794,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {
@@ -5004,6 +4973,96 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
+        }
+      ]
+    },
+    "vous": {
+      "lemma": "vous",
+      "stress": "vu",
+      "pos": "pron",
+      "gloss": "you (polite or plural)",
+      "meanings": [
+        {
+          "en": "you (polite)",
+          "note": "One person, formal."
+        },
+        {
+          "en": "you (plural)",
+          "note": "Several people."
+        },
+        {
+          "en": "you (object)",
+          "note": "je vous rappelle = I'll call you back"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        },
+        {
+          "text": "Je vous rappelle.",
+          "trans": "I'll call you back."
+        },
+        {
+          "text": "Il vous attend?",
+          "trans": "Is he expecting you?"
+        }
+      ],
+      "related": [
+        {
+          "word": "tu",
+          "gloss": "you (informal)"
+        }
+      ]
+    },
+    "marquise": {
+      "lemma": "marquise",
+      "stress": "maʁkiz",
+      "pos": "noun",
+      "gloss": "marchioness",
+      "gender": "f",
+      "plural": "marquises",
+      "meanings": [
+        {
+          "en": "marchioness",
+          "note": "A feminine noble title; masculine marquis."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la marquise",
+              "les marquises"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Elle joue la marquise.",
+          "trans": "She plays the marchioness."
+        },
+        {
+          "text": "La marquise entre dans le salon.",
+          "trans": "The marchioness enters the drawing room."
+        }
+      ],
+      "related": [
+        {
+          "word": "marquis",
+          "gloss": "marquess"
         }
       ]
     }
