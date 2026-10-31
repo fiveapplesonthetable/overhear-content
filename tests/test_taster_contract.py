@@ -139,3 +139,76 @@ class TasterContract(unittest.TestCase):
             with self.subTest(line=line, fragment=fragment):
                 self.script['source']['lines'] = [{'line': line, 'cue': 2, 'fragment': fragment}]
                 self.assertTrue(any('excerpt citation' in e for e in self.errors()))
+
+    def short_script(self):
+        story = [{'v': 'guest', 't': 'Привет 2.', 'gap': .5}, {'v': 'guest', 't': 'Привет 3.', 'gap': .5}]
+        return {'schemaVersion': 1, 'format': 'taster', 'id': 'kukhnya-s01e01-scene-01', 'pair': 'ru-en',
+                'show': 'kukhnya', 'season': 1, 'episode': 1, 'scene': 1, 'title': 'Привет  (Hello taster)',
+                'level': 'A1 — beginner', 'labels': {'guest': 'Гость'},
+                'segments': [{'v': 'narrator', 't': 'A visitor greets a colleague. Listen to the short conversation.', 'gap': .8}]
+                    + copy.deepcopy(story)
+                    + [{'v': 'narrator', 't': 'Let us go through the exchange.', 'gap': .4},
+                       copy.deepcopy(story[0]), {'v': 'narrator', 't': "'Hello.' This is a greeting.", 'gap': .4},
+                       copy.deepcopy(story[1]), {'v': 'narrator', 't': "'Hello.' The colleague greets the visitor too. Now listen again.", 'gap': .8}]
+                    + copy.deepcopy(story)
+                    + [{'v': 'narrator', 't': 'You heard two people greeting each other. See you next time.', 'gap': .5}],
+                'source': {'show': 'Kukhnya', 'file': 'sources/kukhnya/s01/e01.ru.srt',
+                           'lines': [{'line': 0, 'cue': 2, 'fragment': 'Привет 2'}, {'line': 1, 'cue': 3, 'fragment': 'Привет 3'}]}}
+
+    def short_errors(self, script, excerpt=True):
+        p = self.ep / 'short.json'; p.write_text(json.dumps(script))
+        rep = v.Report()
+        with patch.object(v, 'ROOT', self.root):
+            v.check_script(p, 'ru', rep, excerpt=excerpt)
+        return rep.errors
+
+    def test_short_taster_can_end_with_natural_english_outro(self):
+        self.assertEqual(self.short_errors(self.short_script()), [])
+
+    def test_marker_and_bounded_context_are_both_required_for_short_taster(self):
+        script = self.short_script()
+        self.assertTrue(any('explicit source-bound excerpt' in e for e in self.short_errors(script, excerpt=False)))
+        del script['format']
+        self.assertTrue(any('too short' in e for e in self.short_errors(script)))
+        sch = v.load_schema('script')
+        self.assertTrue(v.schema_errors(script, sch, sch))
+
+    def test_taster_recap_must_repeat_whole_story(self):
+        script = self.short_script(); script['segments'][-2]['t'] = 'Другая фраза.'
+        self.assertTrue(any('whole story is not repeated' in e for e in self.short_errors(script)))
+
+    def test_taster_may_close_with_exact_source_replay_but_not_unrelated_nonfarewell(self):
+        script = self.short_script()
+        script['segments'].append(copy.deepcopy(script['segments'][1]))
+        self.assertEqual(self.short_errors(script), [])
+        script['segments'][-1]['t'] = 'Случайная фраза.'
+        self.assertTrue(any('short farewell' in e for e in self.short_errors(script)))
+
+    def test_compose_does_not_add_a_fake_farewell_or_pad_short_taster(self):
+        import compose
+        from types import SimpleNamespace
+        mod = SimpleNamespace(ID='kukhnya-s01e01-scene-01', TITLE='Привет  (Hello taster)',
+            LEVEL='A1 — beginner', PAIR='ru-en', LABELS={'guest':'Гость'}, SOURCE_NAME='Kukhnya',
+            SOURCE_FILE='unused', INTRO='Listen to a greeting.', OPENER='Here is the first line.',
+            STORY=[('guest', 'Привет.', 'Hello.', [(1, 'Привет')], '')],
+            WALK=[(0, None, "'Hello.' A greeting.")], TRANSITION='Listen again.', OUTRO='See you next time.',
+            CLOSING=None, FORMAT='taster')
+        script, _, problems = compose.build(mod, check_source=False)
+        self.assertEqual(problems, [])
+        self.assertEqual(script['format'], 'taster')
+        self.assertEqual(len(script['segments']), 7)
+        self.assertEqual(script['segments'][-1]['v'], 'narrator')
+        del mod.FORMAT
+        self.assertTrue(compose.build(mod, check_source=False)[2])
+
+    def test_missing_or_discontinuous_recap_cannot_reuse_walkthrough_or_original_story(self):
+        script = self.short_script()
+        del script['segments'][-3:-1]
+        self.assertTrue(any('separate contiguous recap' in e for e in self.short_errors(script)))
+        script = self.short_script()
+        script['segments'].insert(-2, {'v': 'narrator', 't': 'An unrelated comment.', 'gap': .4})
+        self.assertTrue(any('separate contiguous recap' in e for e in self.short_errors(script)))
+        script = self.short_script()
+        script['segments'][-2]['v'] = 'another_speaker'
+        script['labels']['another_speaker'] = 'Другой'
+        self.assertTrue(any('separate contiguous recap' in e for e in self.short_errors(script)))
