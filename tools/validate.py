@@ -12,7 +12,7 @@
 Exit 0 = clean, 1 = errors. Warnings (e.g. subtitle gaps) are printed but pass unless --strict.
 Checks: spec/*.md describes each rule; FEEDBACK.md "P-1" describes the cast, narrator-name and explanation rules.
 """
-import hashlib, json, re, sys
+import hashlib, json, re, sys, unicodedata
 from pathlib import Path
 
 SCHEMA_DIR = Path(__file__).resolve().parents[1] / "spec" / "schema"
@@ -24,12 +24,22 @@ ART_SEEN = {}               # md5 of a scene's art -> scenes using it; judged by
 TEMPLATE_SEEN = {}          # show -> explanation skeleton -> [(where, scene id)]; judged by check_templates (whole show)
 PLACEHOLDER_SUMMARY = ("The characters discuss their situation", "ENG ")
 FAREWELL = {"ru": re.compile(r"Пока|До свидания|До встречи|До завтра|До скорого|До скорой|Увидимся|Всего (хорошего|доброго)|Счастливо|Хорошего дня|Спокойной ночи|Прощайте|Удачи", re.I),
-            "fr": re.compile(r"À bientôt|Au revoir|À demain|À plus|À tout à l'heure|À la prochaine|Salut|Bonne (soirée|journée|nuit)|Bonsoir|Bon courage", re.I)}
+            "fr": re.compile(r"À bientôt|Au revoir|À demain|À plus|À tout à l'heure|À la prochaine|Salut|Bonne (soirée|journée|nuit)|Bonsoir|Bon courage", re.I),
+            "es": re.compile(r"\b(?:Adiós|Hasta (?:luego|pronto|mañana|la próxima)|Nos vemos|Chao|Chau|Buenas (?:noches|tardes))\b", re.I)}
+FAREWELL.update({
+    "de": re.compile(r"Tschüss|Auf Wiedersehen|Bis (bald|morgen|später)|Schönen Tag", re.I),
+    "it": re.compile(r"Arrivederci|A presto|A domani|Ciao|Buona (giornata|serata)", re.I),
+    "ja": re.compile(r"さようなら|またね|また明日|また会いましょう|じゃあね"),
+    "zh": re.compile(r"再见|明天见|回头见|下次见"),
+    "ko": re.compile(r"안녕히 (가세요|계세요)|안녕|또 (봐요|만나요)|다음에 (봐요|만나요)"),
+    "ar": re.compile(r"مع السلامة|إلى اللقاء|الى اللقاء|نشوفك|أشوفك|اشوفك"),
+})
+
 SCHEMA_ERR_CAP = 8          # per file; the rest is summarised ("and N more")
 
 ROOT = Path(__file__).resolve().parents[1]
-SHOWS = {"kukhnya": "ru", "domashniy-arest": "ru", "dix-pour-cent": "fr"}
-PAIR = {"ru": "ru-en", "fr": "fr-en"}
+SHOWS = {"kukhnya": "ru", "domashniy-arest": "ru", "dix-pour-cent": "fr", "paquita-salas": "es", "die-discounter": "de", "boris": "it", "the-producers": "ko", "the-naked-director": "ja", "behind-the-scenes": "zh", "al-maktab": "ar"}
+PAIR = {lang: f"{lang}-en" for lang in ("ru", "fr", "es", "de", "it", "ko", "ja", "zh", "ar")}
 CYR = re.compile(r"[Ѐ-ӿ]")
 LAT = re.compile(r"[A-Za-z]")
 ACUTE = "́"
@@ -121,7 +131,7 @@ def check_learn(root, rep):
     scene under out/ (sceneId <show>-sNNeNN-scene-NN, seg = index into that scene's script segments). Section ids are checked by the publisher
     against the app's config/ui."""
     root = Path(root)
-    lang = {"ru-en": "ru", "fr-en": "fr"}
+    lang = {pair: target for target, pair in PAIR.items()}
     for pdir in sorted(p for p in (root / "learn").glob("*") if p.is_dir()):
         notes = {}
         for f in sorted(pdir.glob("*.json")):
@@ -194,10 +204,15 @@ def target_ok(lang, text, where, rep):
         if not CYR.search(text): rep.err(where, f"Russian line has no Cyrillic: {text[:50]!r}")
         if LAT.search(text): rep.err(where, f"Latin letters in Russian line: {text[:50]!r}")
     else:
-        if CYR.search(text): rep.err(where, f"Cyrillic in French line: {text[:50]!r}")
-        if re.search(r"\s[?!:;]", text): rep.err(where, f"space before ?!:; (write 'là?'): {text[:50]!r}")
-        if "’" in text: rep.err(where, "typographic apostrophe, use '")
-        if "«" in text or "»" in text: rep.err(where, "guillemets in a spoken line")
+        name = {"fr": "French", "es": "Spanish", "de": "German", "it": "Italian", "ja": "Japanese", "zh": "Chinese", "ko": "Korean", "ar": "Arabic"}.get(lang, lang)
+        if CYR.search(text): rep.err(where, f"Cyrillic in {name} line: {text[:50]!r}")
+        if lang in ("fr", "es") and re.search(r"\s[?!:;]", text): rep.err(where, f"space before ?!:; (write 'là?'): {text[:50]!r}")
+        if lang in ("fr", "es", "de", "it") and "’" in text: rep.err(where, "typographic apostrophe, use '")
+        if lang in ("fr", "es") and ("«" in text or "»" in text): rep.err(where, "guillemets in a spoken line")
+
+        native = {"ja": r"[\u3040-\u30ff\u3400-\u9fff]", "zh": r"[\u3400-\u9fff]", "ko": r"[\uac00-\ud7a3\u1100-\u11ff]", "ar": r"[\u0620-\u064a\u066e-\u06d3]"}.get(lang)
+        if native and not any(re.search(native, ch) and unicodedata.category(ch).startswith("L") and ch not in "ـー" for ch in text):
+            rep.err(where, f"{name} line has no native-script letters: {text[:50]!r}")
 
 
 def check_script(path, lang, rep, expect_id=None, cast=None):
@@ -605,8 +620,9 @@ def check_stress(lang, word, st, where, rep):
     if lang == "ru":
         if st.replace(ACUTE, "") != word: rep.err(where, f"stress {st!r} must be the word {word!r} plus U+0301")
     else:
-        if re.search(r"[\s/\[\]]", st) or re.search(r"[A-Z]", st) or ACUTE in st: rep.err(where, f"fr stress must be bare IPA: {st!r}")
-        if re.search(r"[éèêàùçôîï]", st): rep.err(where, f"fr stress holds spelling letters, not IPA: {st!r}")
+        if re.search(r"[\s/\[\]]", st) or re.search(r"[A-Z]", st) or ACUTE in st: rep.err(where, f"{lang} stress must be bare IPA: {st!r}")
+        if re.search(r"[éèêàùçôîï]" if lang == "fr" else r"[áéíóúñü]", st):
+            rep.err(where, f"{lang} stress holds spelling letters, not IPA: {st!r}")
 
 
 def check_notes(path, script, lang, require, rep):
@@ -640,8 +656,9 @@ def check_notes(path, script, lang, require, rep):
             if wd.get("lemma") and wd["lemma"].lower() not in lex and wd.get("pos") != "name":
                 rep.err(lw, f"lemma {wd['lemma']!r} has no entry in lexicon")
             if wd.get("pos") != "name" and not wd.get("stress") and (
-                    lang == "fr" or (len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
-                rep.err(lw, f"word {t!r} needs a stress value ({'IPA' if lang == 'fr' else 'U+0301 mark; null only for one-vowel words or ё'})")
+                    lang in ("fr", "es") or (len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
+                rep.err(lw, f"word {t!r} needs a stress value ({'IPA' if lang in ('fr', 'es') else 'U+0301 mark; null only for one-vowel words or ё'})")
+            if lang == "es": check_stress(lang, t, wd.get("stress"), lw, rep)
             if lang == "ru" and wd.get("stress") and len(re.findall("[аеёиоуыэюя]", wd["stress"].lower())) > 1 and ACUTE not in wd["stress"] and "ё" not in wd["stress"]:
                 rep.err(lw, f"stress {wd['stress']!r} lacks the U+0301 mark")
     for lemma, L in lex.items():
@@ -656,8 +673,8 @@ def check_notes(path, script, lang, require, rep):
         for f in LEX_FIELDS:
             LEX_SEEN.setdefault(lang, {}).setdefault(f, {}).setdefault(lemma, {}).setdefault(json.dumps(L.get(f), ensure_ascii=False), w)
         for t in [L.get("forms")] * bool(L.get("forms")) + list(L.get("moreForms") or []): table_ok(t, lw, rep)
-        if L.get("pos") in ("noun", "adj", "verb") and not L.get("forms") and lang == "ru":
-            rep.err(lw, "ru noun/adj/verb needs a forms table")
+        if L.get("pos") in ("noun", "adj", "verb") and not L.get("forms") and lang in ("ru", "es"):
+            rep.err(lw, f"{lang} noun/adj/verb needs a forms table")
         for m in L.get("meanings", []):
             if not m.get("en"): rep.err(lw, "meaning needs 'en'")
     if require:
@@ -695,6 +712,39 @@ def check_lexicon(rep):
                 rep.errors.insert(0, f"lexicon ({lang}): {len(bad)} lemmas have conflicting {f} across scenes; e.g. {ex}")
 
 
+def source_coverage(sc, cue, source_file, where, rep):
+    """Return the declared source scope; missing coverage retains whole-episode policy."""
+    coverage = sc.get("coverage")
+    if coverage is None:
+        return cue, None
+    if not isinstance(coverage, dict) or coverage.get("type") != "excerpt":
+        rep.err(where, "coverage must declare an explicit excerpt")
+        return cue, None
+    try:
+        for edge in (coverage["start"], coverage["end"]):
+            if not isinstance(edge, str) or not re.fullmatch(r"\d{2}:[0-5]\d:[0-5]\d,\d{3}", edge): raise ValueError()
+        start, end = ts(coverage["start"]), ts(coverage["end"])
+        if not 0 <= start < end: raise ValueError()
+    except (KeyError, TypeError, ValueError):
+        rep.err(where, "excerpt start/end must be valid increasing nonnegative timestamps")
+        return cue, None
+    if not source_file.is_file() or hashlib.sha256(source_file.read_bytes()).hexdigest() != coverage.get("sourceSha256"):
+        rep.err(where, "excerpt sourceSha256 must match the complete retained source subtitle bytes")
+    # Any overlapping cue belongs to the scope; cutting a cue at either edge is rejected.
+    selected = {n: c for n, c in cue.items() if c[0] < end and c[1] > start}
+    if not selected:
+        rep.err(where, "excerpt contains no source subtitle cues")
+    if any(c[0] < start - .001 or c[1] > end + .001 for c in selected.values()):
+        rep.err(where, "excerpt bounds cut through a source subtitle cue")
+    for scene in sc.get("scenes", []):
+        try:
+            a, b = ts(scene["start"]), ts(scene["end"])
+            if a < start - .001 or b > end + .001:
+                rep.err(where, "scene extends outside the declared excerpt")
+        except (KeyError, TypeError, ValueError): pass  # ordinary scene checks report this
+    return selected, (start, end)
+
+
 # ---------------------------------------------------------------- episode
 def check_scenes(epdir, show, rep):
     w = str(epdir / "scenes.json")
@@ -713,6 +763,7 @@ def check_scenes(epdir, show, rep):
     if not srt.is_file(): srt = srt.with_name(f"e{en}.{lang}.srt")      # Russian-only Whisper transcript (no English)
     cue = parse_srt(srt) if srt.is_file() else {}
     if not cue: rep.err(w, f"source subtitles missing: {srt.relative_to(ROOT)}")
+    scoped_cue, excerpt_bounds = source_coverage(sc, cue, srt, w, rep)
     cast = load_cast(epdir.parent, rep)
     prev_end = None
     for k, s in enumerate(scenes, 1):
@@ -752,6 +803,30 @@ def check_scenes(epdir, show, rep):
                         except (KeyError, TypeError, ValueError): pass  # reported by the scene checks
                     out = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") in cue and not any(start - 2 <= cue[ln["cue"]][0] <= end + 2 for start, end in source_ranges)]
                     if out: rep.err(sw, f"{len(out)} source cues lie outside this lesson's scene and merged source ranges (first: cue {out[0]}); tie lines only to cues of the scene or its merged transitions")
+                    if excerpt_bounds:
+                        citations = d["source"].get("lines", [])
+                        native_start = next((i for i, seg in enumerate(d.get("segments", [])) if seg.get("v") != "narrator"), None)
+                        story = []
+                        if native_start is not None:
+                            for seg in d["segments"][native_start:]:
+                                if seg.get("v") == "narrator": break
+                                story.append(seg.get("t", ""))
+                        if not citations or not story:
+                            rep.err(sw, "excerpt must bind every story line to a source citation")
+                        cited = set()
+                        for citation in citations:
+                            line = citation.get("line")
+                            if not isinstance(line, int) or isinstance(line, bool) or not 0 <= line < len(story):
+                                rep.err(sw, "excerpt citation line must index its original story")
+                            elif not squash(citation.get("fragment", "")) or squash(citation["fragment"]) not in squash(story[line]):
+                                rep.err(sw, "excerpt citation fragment must occur in its indexed story line")
+                            else: cited.add(line)
+                        if set(range(len(story))) - cited:
+                            rep.err(sw, "excerpt has story lines without source citations")
+                        if (ROOT / d["source"].get("file", "")).resolve() != srt.resolve():
+                            rep.err(sw, "excerpt script source.file must match its hashed coverage subtitle file")
+                        outside_scope = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") not in scoped_cue]
+                        if outside_scope: rep.err(sw, f"source cues lie outside the declared excerpt: {outside_scope[:5]}")
                     notes = epdir / f"scene-{n}.notes.json"
                     if notes.is_file(): check_notes(notes, d, lang, REQ[0], rep)
                     elif REQ[0]: rep.err(sw, f"missing scene-{n}.notes.json")
@@ -761,13 +836,13 @@ def check_scenes(epdir, show, rep):
                 size = webp_size(epdir / f"scene-{n}.webp")
                 if size != (1024, 1024): rep.err(sw, f"scene-{n}.webp must be a 1024x1024 webp, is {size}")
                 ART_SEEN.setdefault(hashlib.md5((epdir / f"scene-{n}.webp").read_bytes()).hexdigest(), []).append(f"{show}/{epdir.name}/scene-{n}")
-    # coverage: every cue must sit inside some scene; report long uncovered stretches
-    if cue:
+    # Every cue in the declared scope must be covered. Default is still the whole episode.
+    if scoped_cue:
         spans = [s["_t"] for s in scenes if "_t" in s]
-        miss = [(n, c) for n, c in sorted(cue.items()) if not any(a - 0.5 <= c[0] <= b + 0.5 for a, b in spans)]
+        miss = [(n, c) for n, c in sorted(scoped_cue.items()) if not any(a - 0.5 <= c[0] <= b + 0.5 for a, b in spans)]
         if miss:
-            rep.err(w, f"{len(miss)} subtitle cues fall outside every scene (first: cue {miss[0][0]} at {fmt(miss[0][1][0])}); scenes must cover the whole episode")
-        last = max(c[1] for c in cue.values())
+            rep.err(w, f"{len(miss)} subtitle cues fall outside every scene (first: cue {miss[0][0]} at {fmt(miss[0][1][0])}); scenes must cover the {'declared excerpt' if excerpt_bounds else 'whole episode'}")
+        last = max(c[1] for c in scoped_cue.values())
         if spans and spans[-1][1] < last - 1: rep.err(w, f"last scene ends {fmt(spans[-1][1])}, episode subtitles run to {fmt(last)}")
         for (a1, b1), (a2, b2) in zip(spans, spans[1:]):
             if a2 - b1 > 1: rep.warn(w, f"gap of {a2 - b1:.0f}s between scenes at {fmt(b1)}-{fmt(a2)}")
