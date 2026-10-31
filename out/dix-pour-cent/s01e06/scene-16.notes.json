@@ -4,14 +4,14 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "That",
+      "trans": "That's not at all what I had asked for.",
       "words": [
         {
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -35,23 +35,23 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction of de + le"
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -134,11 +134,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "début.",
@@ -160,7 +160,7 @@
     },
     {
       "seg": 3,
-      "trans": "Listen, it",
+      "trans": "Listen, it's the cops! We have to get out of here!",
       "words": [
         {
           "t": "Écoutez,",
@@ -175,7 +175,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -204,11 +204,11 @@
         },
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "it",
+          "gram": "impersonal subject in il faut: it is necessary"
         },
         {
           "t": "faut",
@@ -269,8 +269,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "as",
@@ -292,7 +292,7 @@
     },
     {
       "seg": 5,
-      "trans": "I",
+      "trans": "I'm sorry. I like you a lot, Sofia, but this isn't working.",
       "words": [
         {
           "t": "Je",
@@ -300,7 +300,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -324,7 +324,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "t'aime",
@@ -363,8 +363,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "ne",
@@ -409,8 +409,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "m'expliques",
@@ -425,7 +425,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -446,11 +446,11 @@
         },
         {
           "t": "passé,",
-          "lemma": "passé",
-          "pos": "noun",
+          "lemma": "passer",
+          "pos": "verb",
           "stress": "pase",
-          "gloss": "past",
-          "gram": "masculine singular"
+          "gloss": "happened",
+          "gram": "past participle in ce qui s’est passé: what happened"
         },
         {
           "t": "soit...",
@@ -464,7 +464,7 @@
     },
     {
       "seg": 7,
-      "trans": "It",
+      "trans": "It's hip-hop. I don't know how to dance.",
       "words": [
         {
           "t": "C'est",
@@ -479,8 +479,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction of de + le"
         },
         {
           "t": "hip-hop.",
@@ -496,7 +496,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -512,7 +512,7 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "pas",
@@ -534,7 +534,7 @@
     },
     {
       "seg": 8,
-      "trans": "Why didn",
+      "trans": "Why didn't you tell me?",
       "words": [
         {
           "t": "Pourquoi",
@@ -549,8 +549,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "ne",
@@ -589,8 +589,8 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "told",
+          "gram": "past participle of dire"
         }
       ]
     },
@@ -604,7 +604,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "t'avais",
@@ -619,8 +619,8 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "told",
+          "gram": "past participle of dire"
         },
         {
           "t": "que",
@@ -665,10 +665,10 @@
         {
           "t": "un!",
           "lemma": "un",
-          "pos": "det",
+          "pos": "num",
           "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "gloss": "one",
+          "gram": "cardinal number, condition numéro un"
         }
       ]
     },
@@ -689,8 +689,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "es",
@@ -745,8 +745,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "hip-hop!",
@@ -760,7 +760,7 @@
     },
     {
       "seg": 11,
-      "trans": "Because I",
+      "trans": "Because I'm black, I know how to dance hip-hop?",
       "words": [
         {
           "t": "Parce",
@@ -784,7 +784,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -808,7 +808,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "sais",
@@ -816,7 +816,7 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "danser",
@@ -828,11 +828,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "hip-hop?",
@@ -846,7 +846,7 @@
     },
     {
       "seg": 12,
-      "trans": "Excuse me? You",
+      "trans": "Excuse me? You're crossing the line!",
       "words": [
         {
           "t": "Pardon?",
@@ -861,8 +861,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "dépasses",
@@ -892,7 +892,7 @@
     },
     {
       "seg": 13,
-      "trans": "And that doesn",
+      "trans": "And that doesn't explain why you hit her assistant!",
       "words": [
         {
           "t": "Et",
@@ -907,8 +907,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "n'explique",
@@ -939,8 +939,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "as",
@@ -982,27 +982,27 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "it",
+          "gram": "impersonal subject in il y a: there are"
         },
         {
           "t": "y",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "y",
+          "pos": "pron",
           "stress": "i",
-          "gloss": "there (is)",
-          "gram": "part of il y a"
+          "gloss": "there",
+          "gram": "part of il y a: there is / there are"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present, third person singular"
         },
         {
           "t": "des",
@@ -1030,11 +1030,11 @@
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present, third person singular"
         },
         {
           "t": "une",
@@ -1079,8 +1079,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "m'appelles",
@@ -1110,7 +1110,7 @@
     },
     {
       "seg": 16,
-      "trans": "Why do people only offer me these cliché roles?",
+      "trans": "Why am I only offered these roles full of clichés?",
       "words": [
         {
           "t": "Pourquoi",
@@ -1125,8 +1125,8 @@
           "lemma": "on",
           "pos": "pron",
           "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+          "gloss": "people; they",
+          "gram": "indefinite subject, the people offering roles"
         },
         {
           "t": "me",
@@ -1181,8 +1181,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "clichés?",
@@ -1196,14 +1196,14 @@
     },
     {
       "seg": 18,
-      "trans": "That",
+      "trans": "That's not at all what I had asked for.",
       "words": [
         {
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -1227,23 +1227,23 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction of de + le"
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -1332,11 +1332,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "début.",
@@ -1358,7 +1358,7 @@
     },
     {
       "seg": 24,
-      "trans": "Listen, it",
+      "trans": "Listen, it's the cops! We have to get out of here!",
       "words": [
         {
           "t": "Écoutez,",
@@ -1373,7 +1373,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -1402,11 +1402,11 @@
         },
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "it",
+          "gram": "impersonal subject in il faut: it is necessary"
         },
         {
           "t": "faut",
@@ -1467,8 +1467,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "as",
@@ -1490,7 +1490,7 @@
     },
     {
       "seg": 28,
-      "trans": "I",
+      "trans": "I'm sorry. I like you a lot, Sofia, but this isn't working.",
       "words": [
         {
           "t": "Je",
@@ -1498,7 +1498,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -1522,7 +1522,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "t'aime",
@@ -1561,8 +1561,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "ne",
@@ -1607,8 +1607,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "m'expliques",
@@ -1623,7 +1623,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -1644,11 +1644,11 @@
         },
         {
           "t": "passé,",
-          "lemma": "passé",
-          "pos": "noun",
+          "lemma": "passer",
+          "pos": "verb",
           "stress": "pase",
-          "gloss": "past",
-          "gram": "masculine singular"
+          "gloss": "happened",
+          "gram": "past participle in ce qui s’est passé: what happened"
         },
         {
           "t": "soit...",
@@ -1662,7 +1662,7 @@
     },
     {
       "seg": 32,
-      "trans": "It",
+      "trans": "It's hip-hop. I don't know how to dance.",
       "words": [
         {
           "t": "C'est",
@@ -1677,8 +1677,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction of de + le"
         },
         {
           "t": "hip-hop.",
@@ -1694,7 +1694,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -1710,7 +1710,7 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "pas",
@@ -1732,7 +1732,7 @@
     },
     {
       "seg": 34,
-      "trans": "Why didn",
+      "trans": "Why didn't you tell me?",
       "words": [
         {
           "t": "Pourquoi",
@@ -1747,8 +1747,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "ne",
@@ -1787,8 +1787,8 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "told",
+          "gram": "past participle of dire"
         }
       ]
     },
@@ -1802,7 +1802,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "t'avais",
@@ -1817,8 +1817,8 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "told",
+          "gram": "past participle of dire"
         },
         {
           "t": "que",
@@ -1863,10 +1863,10 @@
         {
           "t": "un!",
           "lemma": "un",
-          "pos": "det",
+          "pos": "num",
           "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "gloss": "one",
+          "gram": "cardinal number, condition numéro un"
         }
       ]
     },
@@ -1887,8 +1887,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "es",
@@ -1943,8 +1943,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "hip-hop!",
@@ -1958,7 +1958,7 @@
     },
     {
       "seg": 40,
-      "trans": "Because I",
+      "trans": "Because I'm black, I know how to dance hip-hop?",
       "words": [
         {
           "t": "Parce",
@@ -1982,7 +1982,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -2006,7 +2006,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "sais",
@@ -2014,7 +2014,7 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "danser",
@@ -2026,11 +2026,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "hip-hop?",
@@ -2044,7 +2044,7 @@
     },
     {
       "seg": 42,
-      "trans": "Excuse me? You",
+      "trans": "Excuse me? You're crossing the line!",
       "words": [
         {
           "t": "Pardon?",
@@ -2059,8 +2059,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "dépasses",
@@ -2090,7 +2090,7 @@
     },
     {
       "seg": 44,
-      "trans": "And that doesn",
+      "trans": "And that doesn't explain why you hit her assistant!",
       "words": [
         {
           "t": "Et",
@@ -2105,8 +2105,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "n'explique",
@@ -2137,8 +2137,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "as",
@@ -2180,27 +2180,27 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "it",
+          "gram": "impersonal subject in il y a: there are"
         },
         {
           "t": "y",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "y",
+          "pos": "pron",
           "stress": "i",
-          "gloss": "there (is)",
-          "gram": "part of il y a"
+          "gloss": "there",
+          "gram": "part of il y a: there is / there are"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present, third person singular"
         },
         {
           "t": "des",
@@ -2228,11 +2228,11 @@
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present, third person singular"
         },
         {
           "t": "une",
@@ -2270,7 +2270,45 @@
     },
     {
       "seg": 48,
-      "trans": "Why do people only offer me these cliché roles?",
+      "trans": "Are you calling me a savage?",
+      "words": [
+        {
+          "t": "Tu",
+          "lemma": "tu",
+          "pos": "pron",
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
+        },
+        {
+          "t": "m'appelles",
+          "lemma": "appeler",
+          "pos": "verb",
+          "stress": "mapɛl",
+          "gloss": "call me",
+          "gram": "1st singular object + present 2nd singular"
+        },
+        {
+          "t": "une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "an (one)",
+          "gram": "indefinite article, feminine singular"
+        },
+        {
+          "t": "sauvage?",
+          "lemma": "sauvage",
+          "pos": "noun",
+          "stress": "sovaʒ",
+          "gloss": "savage, wild person",
+          "gram": "feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "Why am I only offered these roles full of clichés?",
       "words": [
         {
           "t": "Pourquoi",
@@ -2285,8 +2323,8 @@
           "lemma": "on",
           "pos": "pron",
           "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+          "gloss": "people; they",
+          "gram": "indefinite subject, the people offering roles"
         },
         {
           "t": "me",
@@ -2341,8 +2379,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "clichés?",
@@ -2355,133 +2393,15 @@
       ]
     },
     {
-      "seg": 50,
-      "trans": "So I",
-      "words": [
-        {
-          "t": "Donc",
-          "lemma": "donc",
-          "pos": "conj",
-          "stress": "dɔ̃k",
-          "gloss": "so",
-          "gram": "linking word"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "suis",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɥi",
-          "gloss": "am",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "soit",
-          "lemma": "soit",
-          "pos": "conj",
-          "stress": "swa",
-          "gloss": "either",
-          "gram": "first half of soit... soit"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "esclave,",
-          "lemma": "esclave",
-          "pos": "noun",
-          "stress": "ɛsklav",
-          "gloss": "slave",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "soit",
-          "lemma": "soit",
-          "pos": "conj",
-          "stress": "swa",
-          "gloss": "either",
-          "gram": "first half of soit... soit"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "danseuse",
-          "lemma": "danseur",
-          "pos": "noun",
-          "stress": "dɑ̃søz",
-          "gloss": "dancer",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "hip-hop,",
-          "lemma": "hip-hop",
-          "pos": "noun",
-          "stress": "ipɔp",
-          "gloss": "hip-hop!",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "soit",
-          "lemma": "soit",
-          "pos": "conj",
-          "stress": "swa",
-          "gloss": "either",
-          "gram": "first half of soit... soit"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "sauvage?",
-          "lemma": "sauvage",
-          "pos": "noun",
-          "stress": "sovaʒ",
-          "gloss": "savage, wild person",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
       "seg": 52,
-      "trans": "That",
+      "trans": "That's not at all what I had asked for.",
       "words": [
         {
           "t": "Ce",
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -2505,23 +2425,23 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction of de + le"
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -2604,11 +2524,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "début.",
@@ -2630,7 +2550,7 @@
     },
     {
       "seg": 54,
-      "trans": "Listen, it",
+      "trans": "Listen, it's the cops! We have to get out of here!",
       "words": [
         {
           "t": "Écoutez,",
@@ -2645,7 +2565,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -2674,11 +2594,11 @@
         },
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "it",
+          "gram": "impersonal subject in il faut: it is necessary"
         },
         {
           "t": "faut",
@@ -2739,8 +2659,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "as",
@@ -2762,7 +2682,7 @@
     },
     {
       "seg": 56,
-      "trans": "I",
+      "trans": "I'm sorry. I like you a lot, Sofia, but this isn't working.",
       "words": [
         {
           "t": "Je",
@@ -2770,7 +2690,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -2794,7 +2714,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "t'aime",
@@ -2833,8 +2753,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "ne",
@@ -2879,8 +2799,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "m'expliques",
@@ -2895,7 +2815,7 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sə",
-          "gloss": "this (ce soir = tonight)",
+          "gloss": "this; that",
           "gram": "demonstrative, masculine singular"
         },
         {
@@ -2916,11 +2836,11 @@
         },
         {
           "t": "passé,",
-          "lemma": "passé",
-          "pos": "noun",
+          "lemma": "passer",
+          "pos": "verb",
           "stress": "pase",
-          "gloss": "past",
-          "gram": "masculine singular"
+          "gloss": "happened",
+          "gram": "past participle in ce qui s’est passé: what happened"
         },
         {
           "t": "soit...",
@@ -2934,7 +2854,7 @@
     },
     {
       "seg": 58,
-      "trans": "It",
+      "trans": "It's hip-hop. I don't know how to dance.",
       "words": [
         {
           "t": "C'est",
@@ -2949,8 +2869,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction of de + le"
         },
         {
           "t": "hip-hop.",
@@ -2966,7 +2886,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "ne",
@@ -2982,7 +2902,7 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "pas",
@@ -3004,7 +2924,7 @@
     },
     {
       "seg": 59,
-      "trans": "Why didn",
+      "trans": "Why didn't you tell me?",
       "words": [
         {
           "t": "Pourquoi",
@@ -3019,8 +2939,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "ne",
@@ -3059,8 +2979,8 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "told",
+          "gram": "past participle of dire"
         }
       ]
     },
@@ -3074,7 +2994,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "t'avais",
@@ -3089,8 +3009,8 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "told",
+          "gram": "past participle of dire"
         },
         {
           "t": "que",
@@ -3135,10 +3055,10 @@
         {
           "t": "un!",
           "lemma": "un",
-          "pos": "det",
+          "pos": "num",
           "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "gloss": "one",
+          "gram": "cardinal number, condition numéro un"
         }
       ]
     },
@@ -3159,8 +3079,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "es",
@@ -3215,8 +3135,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "hip-hop!",
@@ -3230,7 +3150,7 @@
     },
     {
       "seg": 62,
-      "trans": "Because I",
+      "trans": "Because I'm black, I know how to dance hip-hop?",
       "words": [
         {
           "t": "Parce",
@@ -3254,7 +3174,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -3278,7 +3198,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "sais",
@@ -3286,7 +3206,7 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, second person singular"
         },
         {
           "t": "danser",
@@ -3298,11 +3218,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "hip-hop?",
@@ -3316,7 +3236,7 @@
     },
     {
       "seg": 63,
-      "trans": "Excuse me? You",
+      "trans": "Excuse me? You're crossing the line!",
       "words": [
         {
           "t": "Pardon?",
@@ -3331,8 +3251,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "dépasses",
@@ -3362,7 +3282,7 @@
     },
     {
       "seg": 64,
-      "trans": "And that doesn",
+      "trans": "And that doesn't explain why you hit her assistant!",
       "words": [
         {
           "t": "Et",
@@ -3377,8 +3297,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "n'explique",
@@ -3409,8 +3329,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "as",
@@ -3452,27 +3372,27 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "it",
+          "gram": "impersonal subject in il y a: there are"
         },
         {
           "t": "y",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "y",
+          "pos": "pron",
           "stress": "i",
-          "gloss": "there (is)",
-          "gram": "part of il y a"
+          "gloss": "there",
+          "gram": "part of il y a: there is / there are"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present, third person singular"
         },
         {
           "t": "des",
@@ -3500,11 +3420,11 @@
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present, third person singular"
         },
         {
           "t": "une",
@@ -3549,8 +3469,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "m'appelles",
@@ -3580,7 +3500,7 @@
     },
     {
       "seg": 67,
-      "trans": "Why do people only offer me these cliché roles?",
+      "trans": "Why am I only offered these roles full of clichés?",
       "words": [
         {
           "t": "Pourquoi",
@@ -3595,8 +3515,8 @@
           "lemma": "on",
           "pos": "pron",
           "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+          "gloss": "people; they",
+          "gram": "indefinite subject, the people offering roles"
         },
         {
           "t": "me",
@@ -3651,8 +3571,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "clichés?",
@@ -3748,11 +3668,11 @@
       "meanings": [
         {
           "en": "to like",
-          "note": "With things and places. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to like'; conjugates with 'avoir' in compound tenses (past participle 'aimé')."
+          "note": "With things and places."
         },
         {
           "en": "to love",
-          "note": "With people. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to like'; conjugates with 'avoir' in compound tenses (past participle 'aimé')."
+          "note": "With people."
         }
       ],
       "forms": {
@@ -3914,11 +3834,11 @@
         },
         {
           "en": "aller + infinitive = going to (near future)",
-          "note": "Je vais déjeuner. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Je vais déjeuner."
         },
         {
           "en": "allez! = come on!",
-          "note": "Imperative used to encourage. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Imperative used to encourage."
         }
       ],
       "forms": {
@@ -4108,7 +4028,7 @@
         },
         {
           "en": "s'appeler = to be called",
-          "note": "Je m'appelle Camille. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to call'; conjugates with 'avoir' in compound tenses (past participle 'appelé')."
+          "note": "Je m'appelle Camille."
         }
       ],
       "forms": {
@@ -4399,11 +4319,11 @@
         },
         {
           "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire')."
         },
         {
           "en": "il y a = there is, there are",
-          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "Fixed expression. French '-ir' verb (from Latin '-ire')."
         }
       ],
       "forms": {
@@ -4859,11 +4779,11 @@
       "meanings": [
         {
           "en": "requirement, prerequisite",
-          "note": "La condition numéro un. Feminine action/state noun from Latin '-tio'/'-sio'. Prefix 'con-'/'com-' (from Latin 'cum') means 'with, together'. Standard feminine noun meaning 'requirement, condition'."
+          "note": "La condition numéro un. Feminine action/state noun from Latin '-tio'/'-sio'."
         },
         {
           "en": "condition, state",
-          "note": "Les conditions de travail. Feminine action/state noun from Latin '-tio'/'-sio'. Prefix 'con-'/'com-' (from Latin 'cum') means 'with, together'. Standard feminine noun meaning 'requirement, condition'."
+          "note": "Les conditions de travail. Feminine action/state noun from Latin '-tio'/'-sio'."
         }
       ],
       "forms": {
@@ -5193,62 +5113,6 @@
         }
       ]
     },
-    "danseur": {
-      "lemma": "danseur",
-      "stress": "dɑ̃sœʁ",
-      "pos": "noun",
-      "gloss": "dancer",
-      "gender": "m",
-      "plural": "danseurs",
-      "meanings": [
-        {
-          "en": "dancer",
-          "note": "Feminine: danseuse. Derived with the Romance agent/quality suffix '-eur'/'-euse' (from Latin '-or'/'-tor'). Standard masculine noun meaning 'dancer'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le danseur",
-              "les danseurs"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Une danseuse de hip-hop.",
-          "trans": "A hip-hop dancer."
-        },
-        {
-          "text": "Donc je suis soit une esclave, soit une danseuse de hip-hop, soit une sauvage?",
-          "trans": "So I'm either a slave, or a hip-hop dancer, or a savage?"
-        }
-      ],
-      "related": [
-        {
-          "word": "dans",
-          "gloss": "in"
-        },
-        {
-          "word": "danse",
-          "gloss": "dance"
-        },
-        {
-          "word": "danser",
-          "gloss": "to dance"
-        }
-      ]
-    },
     "de": {
       "lemma": "de",
       "stress": "də",
@@ -5257,7 +5121,7 @@
       "meanings": [
         {
           "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "D' before a vowel."
         },
         {
           "en": "'s (possession)",
@@ -5265,7 +5129,7 @@
         },
         {
           "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
@@ -5303,7 +5167,7 @@
       "meanings": [
         {
           "en": "to ask, ask for",
-          "note": "Demander quelque chose à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to ask'; conjugates with 'avoir' in compound tenses (past participle 'demandé')."
+          "note": "Demander quelque chose à quelqu'un."
         }
       ],
       "forms": {
@@ -5489,7 +5353,7 @@
         },
         {
           "en": "since",
-          "note": "Depuis lundi. Core French preposition meaning 'since', linking a noun phrase or infinitive complement to the clause."
+          "note": "Depuis lundi."
         }
       ],
       "forms": null,
@@ -5701,40 +5565,6 @@
         }
       ]
     },
-    "donc": {
-      "lemma": "donc",
-      "stress": "dɔ̃k",
-      "pos": "conj",
-      "gloss": "so",
-      "meanings": [
-        {
-          "en": "so, therefore",
-          "note": "French conjunction meaning 'so', used to link clauses in spoken and written discourse."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Donc, en fait...",
-          "trans": "So, actually..."
-        },
-        {
-          "text": "Il est tard, donc je pars.",
-          "trans": "It's late, so I'm leaving."
-        },
-        {
-          "text": "Donc, en fait, je ne suis pas vraiment réceptionniste.",
-          "trans": "So, actually, I'm not really a receptionist."
-        }
-      ],
-      "related": [
-        {
-          "word": "donc",
-          "gloss": "so"
-        }
-      ]
-    },
     "début": {
       "lemma": "début",
       "stress": "deby",
@@ -5799,7 +5629,7 @@
         },
         {
           "en": "to overtake (a car)",
-          "note": "Sur la route. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to exceed'; conjugates with 'avoir' in compound tenses (past participle 'dépassé')."
+          "note": "Sur la route."
         }
       ],
       "forms": {
@@ -6007,58 +5837,6 @@
         {
           "word": "pardon",
           "gloss": "forgiveness, sorry"
-        }
-      ]
-    },
-    "esclave": {
-      "lemma": "esclave",
-      "stress": "ɛsklav",
-      "pos": "noun",
-      "gloss": "slave",
-      "gender": "m",
-      "plural": "esclaves",
-      "meanings": [
-        {
-          "en": "slave",
-          "note": "same form for masculine and feminine: un/une esclave, l'esclave"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'esclave",
-              "les esclaves"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Non, Sofia joue l'esclave.",
-          "trans": "No, Sofia is playing the slave."
-        },
-        {
-          "text": "Je joue l'esclave?",
-          "trans": "I'm playing the slave?"
-        },
-        {
-          "text": "On veut les esclaves derrière le château, d'accord?",
-          "trans": "We want the slaves behind the chateau, okay?"
-        }
-      ],
-      "related": [
-        {
-          "word": "un esclave / des esclaves",
-          "gloss": "a slave / slaves"
         }
       ]
     },
@@ -6270,15 +6048,15 @@
         },
         {
           "en": "faire confiance à = to trust",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": ""
         },
         {
           "en": "faire la surprise à = to surprise",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": ""
         },
         {
           "en": "ça fait trois semaines que = it's been three weeks since",
-          "note": "With time. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": "With time."
         }
       ],
       "forms": {
@@ -6648,11 +6426,11 @@
       "meanings": [
         {
           "en": "to hit, to strike",
-          "note": "Frapper quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to hit'; conjugates with 'avoir' in compound tenses (past participle 'frappé')."
+          "note": "Frapper quelqu'un."
         },
         {
           "en": "to knock (on a door)",
-          "note": "Frapper à la porte. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to hit'; conjugates with 'avoir' in compound tenses (past participle 'frappé')."
+          "note": "Frapper à la porte."
         }
       ],
       "forms": {
@@ -6904,7 +6682,7 @@
         },
         {
           "en": "it",
-          "note": "Also in fixed phrases: il y a. High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
+          "note": "Also in fixed phrases: il y a."
         }
       ],
       "forms": null,
@@ -6930,44 +6708,6 @@
         }
       ]
     },
-    "il y a": {
-      "lemma": "il y a",
-      "stress": "ilija",
-      "pos": "phrase",
-      "gloss": "there is, there are",
-      "meanings": [
-        {
-          "en": "there is, there are",
-          "note": "Never changes for plural. Spoken French phrase expression meaning 'there is', common in natural conversation."
-        },
-        {
-          "en": "ago",
-          "note": "il y a trois semaines = three weeks ago"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il y a une autre Clémentine?",
-          "trans": "Is there another Clémentine?"
-        },
-        {
-          "text": "Il y a une réunion.",
-          "trans": "There's a meeting."
-        },
-        {
-          "text": "Non, c'est la place de Samuel. Il est mort il y a six jours.",
-          "trans": "No, it's Samuel's place. He died six days ago."
-        }
-      ],
-      "related": [
-        {
-          "word": "il y a",
-          "gloss": "there is"
-        }
-      ]
-    },
     "je": {
       "lemma": "je",
       "stress": "ʒə",
@@ -6976,7 +6716,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -7101,7 +6841,7 @@
       "meanings": [
         {
           "en": "me, to me",
-          "note": "Before the verb; m' before a vowel. High-frequency French pronoun meaning 'me'; clitic object forms precede the conjugated verb."
+          "note": "Before the verb; m' before a vowel."
         }
       ],
       "forms": null,
@@ -7135,7 +6875,7 @@
       "meanings": [
         {
           "en": "me",
-          "note": "Stressed form: pour moi, avec moi. High-frequency French pronoun meaning 'me'; clitic object forms precede the conjugated verb."
+          "note": "Stressed form: pour moi, avec moi."
         }
       ],
       "forms": null,
@@ -7324,7 +7064,7 @@
         },
         {
           "en": "one, people",
-          "note": "General. High-frequency French pronoun meaning 'we'; clitic object forms precede the conjugated verb."
+          "note": "General."
         }
       ],
       "forms": null,
@@ -7400,7 +7140,7 @@
         },
         {
           "en": "pardon? = what did you say? / excuse me?",
-          "note": "With a rising voice. Spoken French interj expression meaning 'sorry', common in natural conversation."
+          "note": "With a rising voice."
         }
       ],
       "forms": null,
@@ -7434,7 +7174,7 @@
       "meanings": [
         {
           "en": "to leave, to go away",
-          "note": "No object: je pars = I'm leaving. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to leave, to go away'."
+          "note": "No object: je pars = I'm leaving. French '-ir' verb (from Latin '-ire')."
         },
         {
           "en": "to go (on a trip)",
@@ -7667,7 +7407,7 @@
         },
         {
           "en": "to spend (time)",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to pass'; conjugates with 'avoir' in compound tenses (past participle 'passé')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7821,58 +7561,6 @@
         }
       ]
     },
-    "passé": {
-      "lemma": "passé",
-      "stress": "pase",
-      "pos": "noun",
-      "gloss": "past",
-      "gender": "m",
-      "plural": "passés",
-      "meanings": [
-        {
-          "en": "the past",
-          "note": "C'est du passé = it's in the past. Masculine noun ('le passé', plural 'les passés') inherited through Romance vocabulary, used in everyday and professional French for 'past'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le passé",
-              "les passés"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est du passé.",
-          "trans": "It's in the past."
-        },
-        {
-          "text": "Il parle de son passé.",
-          "trans": "He talks about his past."
-        },
-        {
-          "text": "C'est du passé. J'ai tourné la page.",
-          "trans": "It's in the past. I've turned the page."
-        }
-      ],
-      "related": [
-        {
-          "word": "passer",
-          "gloss": "to pass"
-        }
-      ]
-    },
     "plein": {
       "lemma": "plein",
       "stress": "plɛ̃",
@@ -7980,11 +7668,11 @@
       "meanings": [
         {
           "en": "to suggest",
-          "note": "Proposer un rôle à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to suggest'; conjugates with 'avoir' in compound tenses (past participle 'proposé')."
+          "note": "Proposer un rôle à quelqu'un."
         },
         {
           "en": "to offer",
-          "note": "Proposer un rôle à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to suggest'; conjugates with 'avoir' in compound tenses (past participle 'proposé')."
+          "note": "Proposer un rôle à quelqu'un."
         }
       ],
       "forms": {
@@ -8195,40 +7883,6 @@
         }
       ]
     },
-    "qu'est-ce que": {
-      "lemma": "qu'est-ce que",
-      "stress": "kɛskə",
-      "pos": "phrase",
-      "gloss": "what (in questions)",
-      "meanings": [
-        {
-          "en": "what",
-          "note": "starts a question: qu'est-ce que tu fais? = what are you doing?"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Qu'est-ce que je lui dis?",
-          "trans": "What do I tell her?"
-        },
-        {
-          "text": "Qu'est-ce que tu fais à Paris?",
-          "trans": "What are you doing in Paris?"
-        },
-        {
-          "text": "Qu'est-ce que tu fais à Paris? Tu es en vacances?",
-          "trans": "What are you doing in Paris? Are you on holiday?"
-        }
-      ],
-      "related": [
-        {
-          "word": "qu'est-ce qui",
-          "gloss": "what"
-        }
-      ]
-    },
     "que": {
       "lemma": "que",
       "stress": "kə",
@@ -8287,7 +7941,7 @@
         },
         {
           "en": "who? (question)",
-          "note": "Qui parle?. High-frequency French pronoun meaning 'who'; clitic object forms precede the conjugated verb."
+          "note": "Qui parle?."
         }
       ],
       "forms": null,
@@ -8321,11 +7975,11 @@
       "meanings": [
         {
           "en": "to start again, to resume, to pick up",
-          "note": "Les affaires reprennent. Third-group irregular verb inherited from core Latin roots ('-ere'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to take back; to start again, to pick up'."
+          "note": "Les affaires reprennent."
         },
         {
           "en": "to take back, to have more of",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to take back; to start again, to pick up'."
+          "note": ""
         }
       ],
       "forms": {
@@ -8565,7 +8219,7 @@
       "meanings": [
         {
           "en": "reputation, good name",
-          "note": "La réputation de l'agence. Feminine action/state noun from Latin '-tio'/'-sio'. Prefix 'ré-' marks repetition, return, or intensity. Standard feminine noun meaning 'reputation, standing'."
+          "note": "La réputation de l'agence. Feminine action/state noun from Latin '-tio'/'-sio'."
         }
       ],
       "forms": {
@@ -8669,11 +8323,11 @@
       "meanings": [
         {
           "en": "savage, wild person",
-          "note": "Se comporter comme un sauvage. Masculine noun formed with the suffix '-age' (from Late Latin '-aticum') denoting an action, state, or collection. Standard masculine noun meaning 'savage, wild creature'."
+          "note": "Se comporter comme un sauvage. Masculine noun formed with the suffix '-age' (from Late Latin '-aticum') denoting an action, state, or collection."
         },
         {
           "en": "wild (adj)",
-          "note": "Un animal sauvage. Masculine noun formed with the suffix '-age' (from Late Latin '-aticum') denoting an action, state, or collection. Standard masculine noun meaning 'savage, wild creature'."
+          "note": "Un animal sauvage. Masculine noun formed with the suffix '-age' (from Late Latin '-aticum') denoting an action, state, or collection."
         }
       ],
       "forms": {
@@ -8727,11 +8381,11 @@
       "meanings": [
         {
           "en": "to know (a fact)",
-          "note": "Je ne sais pas = I don't know. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "Je ne sais pas = I don't know. French '-ir' verb (from Latin '-ire')."
         },
         {
           "en": "to know how to, can",
-          "note": "+ infinitive: savoir monter. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "+ infinitive: savoir monter. French '-ir' verb (from Latin '-ire')."
         }
       ],
       "forms": {
@@ -9070,11 +8724,11 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Tout le monde = everybody."
         },
         {
           "en": "tout ce que = all that, everything that",
-          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Pronoun use."
         }
       ],
       "forms": {
@@ -9120,48 +8774,6 @@
         {
           "word": "tout le monde",
           "gloss": "everybody"
-        },
-        {
-          "word": "tout de suite",
-          "gloss": "right away"
-        },
-        {
-          "word": "tout à l'heure",
-          "gloss": "earlier"
-        }
-      ]
-    },
-    "tout le monde": {
-      "lemma": "tout le monde",
-      "stress": "tuləmɔ̃d",
-      "pos": "phrase",
-      "gloss": "everybody, everyone",
-      "meanings": [
-        {
-          "en": "everybody, everyone",
-          "note": "takes a singular verb: tout le monde est là"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tout le monde est là.",
-          "trans": "Everyone is here."
-        },
-        {
-          "text": "Bonjour tout le monde!",
-          "trans": "Hello everyone!"
-        },
-        {
-          "text": "On est au Westin. Tout le monde est là.",
-          "trans": "We're at the Westin. Everyone is here."
-        }
-      ],
-      "related": [
-        {
-          "word": "tout",
-          "gloss": "all"
         },
         {
           "word": "tout de suite",
@@ -9219,7 +8831,7 @@
         },
         {
           "en": "one",
-          "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
+          "note": "Number; l'un = one of them."
         }
       ],
       "forms": {
@@ -9280,7 +8892,7 @@
         },
         {
           "en": "venir de + infinitive = to have just",
-          "note": "Je viens d'arriver. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to come'."
+          "note": "Je viens d'arriver. French '-ir' verb (from Latin '-ire')."
         }
       ],
       "forms": {
@@ -9462,11 +9074,11 @@
       "meanings": [
         {
           "en": "there",
-          "note": "Il y a = there is / there are. High-frequency French pronoun meaning 'there'; clitic object forms precede the conjugated verb."
+          "note": "Il y a = there is / there are."
         },
         {
           "en": "to it",
-          "note": "J'y pense = I think about it. High-frequency French pronoun meaning 'there'; clitic object forms precede the conjugated verb."
+          "note": "J'y pense = I think about it."
         }
       ],
       "forms": null,
@@ -9500,11 +9112,11 @@
       "meanings": [
         {
           "en": "that, it",
-          "note": "Informal for cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "Informal for cela."
         },
         {
           "en": "ça fait... que = it's been...",
-          "note": "With time. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "With time."
         }
       ],
       "forms": null,
@@ -9538,11 +9150,11 @@
       "meanings": [
         {
           "en": "to listen to",
-          "note": "No preposition. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to listen'; conjugates with 'avoir' in compound tenses (past participle 'écouté')."
+          "note": "No preposition."
         },
         {
           "en": "écoute = listen, look (to start a point)",
-          "note": "Casual imperative. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to listen'; conjugates with 'avoir' in compound tenses (past participle 'écouté')."
+          "note": "Casual imperative."
         }
       ],
       "forms": {
@@ -9724,11 +9336,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {
