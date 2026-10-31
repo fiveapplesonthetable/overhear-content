@@ -6,8 +6,7 @@
  "level": "A1 — débutant",
  "labels": {
   "augustin": "Augustin",
-  "mathias": "Mathias",
-  "noemie": "Noémie"
+  "mathias": "Mathias"
  },
  "segments": [
   {
@@ -16,13 +15,8 @@
    "gap": 0.8
   },
   {
-   "v": "noemie",
-   "t": "Voilà le café, Mathias.",
-   "gap": 0.55
-  },
-  {
    "v": "mathias",
-   "t": "Merci, Noémie. J'adore cette version finale.",
+   "t": "J'adore cette version finale.",
    "gap": 0.55
   },
   {
@@ -67,7 +61,12 @@
   },
   {
    "v": "augustin",
-   "t": "Audrey Fleurot? Pourquoi pas? Elle est sublime!",
+   "t": "Audrey Fleurot? Pourquoi pas?",
+   "gap": 0.55
+  },
+  {
+   "v": "mathias",
+   "t": "Elle est sublime!",
    "gap": 0.55
   },
   {
@@ -83,36 +82,21 @@
   {
    "v": "augustin",
    "t": "Elle t'a dit qu'elle les aimait? Vraiment?",
-   "gap": 0.55
-  },
-  {
-   "v": "noemie",
-   "t": "Ne faites pas attention à moi.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Let's break it down. Noémie sets down the coffee on Mathias's desk as he compliments Augustin's script.",
-   "gap": 0.4
-  },
-  {
-   "v": "noemie",
-   "t": "Voilà le café, Mathias.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Here is the coffee, Mathias.' The first word is the handy pointer word for 'here is' or 'there is'.",
+   "t": "Let's break it down. Mathias compliments Augustin's script before proposing a different actress for the lead.",
    "gap": 0.4
   },
   {
    "v": "mathias",
-   "t": "Merci, Noémie. J'adore cette version finale.",
+   "t": "J'adore cette version finale.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Thank you, Noémie. I love this final version.' The action word means 'to love' or 'to adore', very common in everyday French for things you really like.",
+   "t": "'I love this final version.' The action means 'love' or 'adore'. The describing word for 'final' has a feminine ending to match the word for version.",
    "gap": 0.4
   },
   {
@@ -197,12 +181,22 @@
   },
   {
    "v": "augustin",
-   "t": "Audrey Fleurot? Pourquoi pas? Elle est sublime!",
+   "t": "Audrey Fleurot? Pourquoi pas?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Audrey Fleurot? Why not? She's sublime!' The short question is an encouraging suggestion. You can use the same two-word pattern when someone offers you an idea or an invitation.",
+   "t": "'Audrey Fleurot? Why not?' The short question is an encouraging response to a suggestion. Augustin is warming to Mathias's proposal.",
+   "gap": 0.4
+  },
+  {
+   "v": "mathias",
+   "t": "Elle est sublime!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'She's sublime!' Mathias adds this enthusiastic compliment. The describing word has the same form whether it describes a man or a woman.",
    "gap": 0.4
   },
   {
@@ -232,27 +226,12 @@
   },
   {
    "v": "narrator",
-   "t": "'She told you she liked them? Really?' The short word before 'liked' means 'them', referring to the videos. French puts this object before the action, where English puts it afterwards.",
-   "gap": 0.4
-  },
-  {
-   "v": "noemie",
-   "t": "Ne faites pas attention à moi.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Don't mind me.' Literally 'do not pay attention to me'. It is a polite command, with the negative around 'do'. Augustin is dancing around the room when Noémie comes back. Now let's listen to the entire dialogue once more.",
+   "t": "'She told you she liked them? Really?' The short word before 'liked' means 'them', referring to the videos. French puts this object before the action, where English puts it afterwards. Now let's listen to the entire dialogue once more.",
    "gap": 0.9
   },
   {
-   "v": "noemie",
-   "t": "Voilà le café, Mathias.",
-   "gap": 0.5
-  },
-  {
    "v": "mathias",
-   "t": "Merci, Noémie. J'adore cette version finale.",
+   "t": "J'adore cette version finale.",
    "gap": 0.5
   },
   {
@@ -297,7 +276,12 @@
   },
   {
    "v": "augustin",
-   "t": "Audrey Fleurot? Pourquoi pas? Elle est sublime!",
+   "t": "Audrey Fleurot? Pourquoi pas?",
+   "gap": 0.5
+  },
+  {
+   "v": "mathias",
+   "t": "Elle est sublime!",
    "gap": 0.5
   },
   {
@@ -313,11 +297,6 @@
   {
    "v": "augustin",
    "t": "Elle t'a dit qu'elle les aimait? Vraiment?",
-   "gap": 0.5
-  },
-  {
-   "v": "noemie",
-   "t": "Ne faites pas attention à moi.",
    "gap": 0.9
   },
   {
@@ -336,89 +315,89 @@
   "file": "sources/dix-pour-cent/s01/e04.fr.dual.srt",
   "lines": [
    {
-    "line": 1,
+    "line": 0,
     "cue": 93,
     "fragment": "J'adore cette version finale"
    },
    {
-    "line": 2,
+    "line": 1,
     "cue": 94,
     "fragment": "Je crois qu'on tient vraiment quelque chose"
    },
    {
-    "line": 3,
+    "line": 2,
     "cue": 96,
     "fragment": "Vous êtes toujours sûr pour le rôle principal féminin ?"
    },
    {
-    "line": 4,
+    "line": 3,
     "cue": 97,
     "fragment": "Oui"
    },
    {
-    "line": 4,
+    "line": 3,
     "cue": 98,
     "fragment": "Armelle Borzek"
    },
    {
-    "line": 4,
+    "line": 3,
     "cue": 97,
     "fragment": "Elle est géniale !"
    },
    {
-    "line": 5,
+    "line": 4,
     "cue": 100,
     "fragment": "Retenez ce nom, elle est fantastique !"
    },
    {
-    "line": 6,
+    "line": 5,
     "cue": 102,
     "fragment": "Mais le public"
    },
    {
-    "line": 7,
+    "line": 6,
     "cue": 103,
     "fragment": "mes vidéos en ligne"
    },
    {
-    "line": 7,
+    "line": 6,
     "cue": 104,
     "fragment": "Pas de stars"
    },
    {
-    "line": 8,
+    "line": 7,
     "cue": 105,
     "fragment": "C'est vrai"
    },
    {
-    "line": 8,
+    "line": 7,
     "cue": 106,
     "fragment": "Mais le cinéma"
    },
    {
-    "line": 8,
+    "line": 7,
     "cue": 106,
     "fragment": "pas Internet"
    },
    {
-    "line": 9,
+    "line": 8,
     "cue": 108,
     "fragment": "Quand j'ai lu cette dernière version, j'ai pensé"
    },
    {
-    "line": 9,
+    "line": 8,
     "cue": 109,
     "fragment": "Audrey Fleurot"
    },
    {
-    "line": 10,
+    "line": 9,
     "cue": 112,
     "fragment": "Audrey Fleurot"
    },
    {
-    "line": 10,
+    "line": 9,
     "cue": 113,
-    "fragment": "Pourquoi pas ?"
+    "fragment": "Pourquoi pas"
    },
    {
     "line": 10,
@@ -454,11 +433,6 @@
     "line": 13,
     "cue": 124,
     "fragment": "Vraiment ?"
-   },
-   {
-    "line": 14,
-    "cue": 125,
-    "fragment": "Ne faites pas attention à moi"
    }
   ]
  },
