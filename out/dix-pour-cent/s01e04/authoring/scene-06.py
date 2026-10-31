@@ -10,8 +10,11 @@ PAIR = 'fr-en'
 LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "At the agency, Noémie has just scolded Camille for saying 'kiss-kiss' to a star on the phone. Now we're at a cafe with Mathias and his client Audrey Fleurot, who has brought her two small children along. Mathias is trying to pitch her Augustin's film between spoonfuls of baby food. We'll hear it in French first; just follow the story and don't worry about every word."
-OPENER = "Let's go back through their cafe meeting. Audrey is trying to get her little girl to eat first."
+INTRO = ("At Audrey's home, Mathias tries to pitch Augustin's film while she feeds her child. Her attention keeps "
+ 'shifting between the role and the family. First, listen in French; we will go through the expressions '
+ 'afterwards.')
+OPENER = ("Let's go back through their meeting in Audrey's kitchen. She wants her child to eat before she hears about the "
+ 'film.')
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Audrey has a lot of tax bills to pay, and now Mathias wants her to play a stripper. Listen out for how French says 'surname' and 'that doesn't matter'. See you next time!"
 CLOSING = ('audrey', 'Au revoir!')
