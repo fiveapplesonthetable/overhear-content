@@ -65,3 +65,16 @@ CPU-extracted private source frames, burned bilingual subtitles and denser one-f
 - 17: Checked the surprise, bath, injury aftermath and departure against source frames; roles and revised walkthrough order agree.
 
 Scripts/notes 02–11, 13–15 and 17 are reapproved for rendering after these changes. Artwork 06, 07, 08, 11, 12, 13, 14 and 15 is held for necessary role/scene corrections. Scene 12 remains held for its short speaker check as well. Episode validator: 0 errors; proper-name accent warnings and later unreviewed lessons remain.
+
+## Art correction after primary-video role audit
+
+Used the built-in imagegen edit tool for exactly the eight necessary affected illustrations, with inspected established character references. Final 1024×1024 WebP files were viewed together after conversion.
+
+- 06 and 14: Gabriel advises Julie.
+- 07 and 15: Andrea talks with/encourages JoeyStarr.
+- 08: removed the invented background Andrea/Julie tea scene.
+- 11: replaced the invented greenhouse/ladder image with JoeyStarr's borrowed-phone excuse at the restaurant table, watched by Julie.
+- 12: removed the unsupported dog on the armchair.
+- 13: Noémie presents the proposed notice to Mathias; removed the invented Hervé/Camille staging.
+
+These eight illustrations are approved for their corrected lesson scripts. Full prompts and built-in-tool provenance are recorded in `ART-REVIEW.json`. The independent source-audio/register check continues and is a separate publication gate.
