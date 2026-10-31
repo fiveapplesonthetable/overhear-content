@@ -737,8 +737,21 @@ def check_scenes(epdir, show, rep):
             else:
                 d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast)
                 if d is not None:
-                    out = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") in cue and not a - 2 <= cue[ln["cue"]][0] <= b + 2]
-                    if out: rep.err(sw, f"{len(out)} source cues lie outside this scene's time range {s['start']}-{s['end']} (first: cue {out[0]}); tie lines only to cues of the scene")
+                    # A transition explicitly folded into this lesson contributes its
+                    # own source range (spec/scenes-format.md), without changing the
+                    # underlying, non-overlapping scene boundaries.
+                    source_scenes = [s]
+                    left, right = k - 2, k
+                    while left >= 0 and scenes[left].get("merge") == "next":
+                        source_scenes.append(scenes[left]); left -= 1
+                    while right < len(scenes) and scenes[right].get("merge") == "prev":
+                        source_scenes.append(scenes[right]); right += 1
+                    source_ranges = []
+                    for source_scene in source_scenes:
+                        try: source_ranges.append((ts(source_scene["start"]), ts(source_scene["end"])))
+                        except (KeyError, TypeError, ValueError): pass  # reported by the scene checks
+                    out = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") in cue and not any(start - 2 <= cue[ln["cue"]][0] <= end + 2 for start, end in source_ranges)]
+                    if out: rep.err(sw, f"{len(out)} source cues lie outside this lesson's scene and merged source ranges (first: cue {out[0]}); tie lines only to cues of the scene or its merged transitions")
                     notes = epdir / f"scene-{n}.notes.json"
                     if notes.is_file(): check_notes(notes, d, lang, REQ[0], rep)
                     elif REQ[0]: rep.err(sw, f"missing scene-{n}.notes.json")
