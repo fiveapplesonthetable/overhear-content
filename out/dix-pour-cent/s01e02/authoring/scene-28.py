@@ -48,21 +48,17 @@ STORY = [('hippolyte',
   'Speak of the devil… Mathias!',
   [(783, 'Quand on parle du loup')],
   'Source Catherine calls to her husband Mathias; not Hippolyte calling Papa.'),
- ('hippolyte',
-  "Camille est l'assistante d'Andréa.",
-  "Camille is Andréa's assistant.",
-  [(786, "Camille est l'assistante d'Andréa")],
-  ''),
  ('catherine',
   "Oui, Hippolyte me l'a dit.",
   'Yes, Hippolyte told me.',
   [(787, "Oui, Hippolyte me l'a dit")],
   'Primary video confirms Catherine answers Camille here, not Mathias.'),
  ('camille',
-  'Je ne savais pas que votre fils était acteur.',
-  "I didn't know your son was an actor.",
+  'Je ne savais pas que vous aviez un fils comédien.',
+  "I didn't know you had a son who was an actor.",
   [(788, 'Je ne savais pas que votre fils était acteur')],
-  ''),
+  'Actual French vous aviez un fils comédien; Camille addresses MATHIAS, as confirmed by the original video '
+  'eyeline/reaction, not Catherine.'),
  ('camille',
   "Pourquoi tu ne m'as pas dit ça?",
   "Why didn't you tell me that?",
@@ -98,33 +94,32 @@ WALK = [(0,
   'introduces the length of time they worked together, while with names his colleague, Samuel.'),
  (5,
   None,
-  "'Speak of the devil… Mathias!' The French saying literally means when you speak of the wolf. Catherine "
-  'has just mentioned her husband when he appears. He remarks that the whole family is now here. His arrival '
-  "makes Camille realise who Hippolyte's father is."),
- (6, None, "'Camille is Andréa's assistant.' Again, 'the assistant of Andréa'. Mathias plays it cool."),
+  "'Speak of the devil… Mathias!' The saying literally means when you speak of the wolf. Catherine has just "
+  'mentioned her husband when he appears. He remarks that the whole family is here and introduces Camille as '
+  "Andréa's assistant."),
+ (6,
+  None,
+  "'Yes, Hippolyte told me.' Catherine answers Mathias's description of Camille. Told it to me packs two "
+  "small objects into the French past: me identifies the person informed, and it refers to Camille's job."),
  (7,
   None,
-  "'Yes, Hippolyte told me.' Catherine answers Camille. Told it to me is packed into the short French past: "
-  "me identifies the person informed, and it refers to Camille's job at the agency."),
+  "'I didn't know you had a son who was an actor.' Camille speaks to Mathias with formal you in front of the "
+  'others. Had a son makes the discovery personal. The word actor here covers performers generally, rather '
+  'than only people who do comedy.'),
  (8,
-  None,
-  "'I didn't know your son was an actor.' Camille addresses Catherine politely with your son. Knew describes "
-  'her earlier lack of knowledge; was an actor names the job without needing a word for an before actor in '
-  'French.'),
- (9,
   None,
   "'Why didn't you tell me that?' Camille now turns to Hippolyte and uses familiar you. The negative "
   'surrounds the past helper, while me comes before it. Her question asks why he kept the family connection '
   'from her.'),
- (10,
+ (9,
   None,
   "'What difference does it make?' Literally what does that change? That stands for the fact they have just "
   'discussed. For Hippolyte it seems unimportant, while Camille understands that they share a father.'),
- (11,
+ (10,
   None,
   "'I'm thirsty.' In French you don't 'are' thirsty, you 'have' thirst. It's her way of escaping the "
   'conversation.'),
- (12,
+ (11,
   None,
   "'Shall we get a drink?' Literally 'we're going to take a glass?'. The verb 'to go' plus another verb "
   'talks about the near future. Now listen to the whole scene again.')]
