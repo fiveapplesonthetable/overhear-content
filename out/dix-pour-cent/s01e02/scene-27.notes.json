@@ -4,39 +4,55 @@
  "lines": [
   {
    "seg": 1,
-   "trans": "Why not take them both?",
+   "trans": "What if we took them both?",
    "words": [
     {
-     "t": "Pourquoi",
-     "lemma": "pourquoi",
-     "pos": "adv",
-     "stress": "puʁkwa",
-     "gloss": "why",
-     "gram": "question word"
+     "t": "Et",
+     "lemma": "et",
+     "pos": "conj",
+     "stress": "e",
+     "gloss": "and",
+     "gram": "introduces a suggestion with et si"
     },
     {
-     "t": "ne",
-     "lemma": "ne",
-     "pos": "part",
-     "stress": "nə",
-     "gloss": "not",
-     "gram": "negation, first half, before the verb"
+     "t": "si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "what if",
+     "gram": "et si introduces a possible idea"
     },
     {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "t": "on",
+     "lemma": "on",
+     "pos": "pron",
+     "stress": "ɔ̃",
+     "gloss": "we",
+     "gram": "everyday we with singular verb"
     },
     {
-     "t": "prendre",
+     "t": "les",
+     "lemma": "le",
+     "pos": "pron",
+     "stress": "le",
+     "gloss": "them",
+     "gram": "plural direct object referring to the actresses"
+    },
+    {
+     "t": "prenait",
      "lemma": "prendre",
      "pos": "verb",
-     "stress": "pʁɑ̃dʁ",
-     "gloss": "take",
-     "gram": "infinitive in pourquoi ne pas, why not do something"
+     "stress": "pʁənɛ",
+     "gloss": "took",
+     "gram": "third person singular imparfait used in a suggestion"
+    },
+    {
+     "t": "toutes",
+     "lemma": "tout",
+     "pos": "pron",
+     "stress": "tut",
+     "gloss": "both",
+     "gram": "feminine plural agreeing with the two actresses in toutes les deux"
     },
     {
      "t": "les",
@@ -44,7 +60,7 @@
      "pos": "det",
      "stress": "le",
      "gloss": "the",
-     "gram": "plural article in les deux, both of them"
+     "gram": "plural article in toutes les deux"
     },
     {
      "t": "deux?",
@@ -52,774 +68,674 @@
      "pos": "num",
      "stress": "dø",
      "gloss": "two",
-     "gram": "cardinal number"
+     "gram": "toutes les deux means both of them"
     }
    ]
   },
   {
    "seg": 2,
-   "trans": "Both of them?",
+   "trans": "Bonnie and Clyde at eighty, with two women!",
    "words": [
     {
-     "t": "Les",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "le",
-     "gloss": "the",
-     "gram": "definite article, plural"
+     "t": "Bonnie",
+     "lemma": "bonnie",
+     "pos": "name",
+     "stress": null,
+     "gloss": "Bonnie",
+     "gram": "first name (Bonnie Parker)"
     },
     {
-     "t": "deux?",
+     "t": "et",
+     "lemma": "et",
+     "pos": "conj",
+     "stress": "e",
+     "gloss": "and",
+     "gram": "coordinating conjunction"
+    },
+    {
+     "t": "Clyde",
+     "lemma": "clyde",
+     "pos": "name",
+     "stress": null,
+     "gloss": "Clyde",
+     "gram": "first name (Clyde Barrow)"
+    },
+    {
+     "t": "à",
+     "lemma": "à",
+     "pos": "prep",
+     "stress": "a",
+     "gloss": "at",
+     "gram": "preposition ('à', meaning 'at')"
+    },
+    {
+     "t": "quatre-vingts",
+     "lemma": "quatre-vingts",
+     "pos": "num",
+     "stress": "katʁəvɛ̃",
+     "gloss": "eighty",
+     "gram": "number"
+    },
+    {
+     "t": "ans,",
+     "lemma": "an",
+     "pos": "noun",
+     "stress": "ɑ̃",
+     "gloss": "years",
+     "gram": "masculine plural"
+    },
+    {
+     "t": "avec",
+     "lemma": "avec",
+     "pos": "prep",
+     "stress": "avɛk",
+     "gloss": "with",
+     "gram": "preposition ('avec', meaning 'with')"
+    },
+    {
+     "t": "deux",
      "lemma": "deux",
      "pos": "num",
      "stress": "dø",
      "gloss": "two",
      "gram": "cardinal number"
+    },
+    {
+     "t": "femmes!",
+     "lemma": "femme",
+     "pos": "noun",
+     "stress": "fam",
+     "gloss": "women",
+     "gram": "feminine plural"
     }
    ]
   },
   {
    "seg": 3,
-   "trans": "Bonnie and Clyde at eighty, with two women!",
+   "trans": "That's modern.",
    "words": [
     {
-     "t": "Bonnie",
-     "lemma": "bonnie",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Bonnie",
-     "gram": "first name (Bonnie Parker)"
+     "t": "Ça,",
+     "lemma": "ça",
+     "pos": "pron",
+     "stress": "sa",
+     "gloss": "that",
+     "gram": "topic: the changed casting idea"
     },
     {
-     "t": "et",
-     "lemma": "et",
-     "pos": "conj",
-     "stress": "e",
-     "gloss": "and",
-     "gram": "coordinating conjunction"
+     "t": "c'est",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "sɛ",
+     "gloss": "it is",
+     "gram": "ce plus est repeats the topic"
     },
     {
-     "t": "Clyde",
-     "lemma": "clyde",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Clyde",
-     "gram": "first name (Clyde Barrow)"
-    },
-    {
-     "t": "à",
-     "lemma": "à",
-     "pos": "prep",
-     "stress": "a",
-     "gloss": "at",
-     "gram": "preposition ('à', meaning 'at')"
-    },
-    {
-     "t": "quatre-vingts",
-     "lemma": "quatre-vingts",
-     "pos": "num",
-     "stress": "katʁəvɛ̃",
-     "gloss": "eighty",
-     "gram": "number"
-    },
-    {
-     "t": "ans,",
-     "lemma": "an",
-     "pos": "noun",
-     "stress": "ɑ̃",
-     "gloss": "years",
-     "gram": "masculine plural"
-    },
-    {
-     "t": "avec",
-     "lemma": "avec",
-     "pos": "prep",
-     "stress": "avɛk",
-     "gloss": "with",
-     "gram": "preposition ('avec', meaning 'with')"
-    },
-    {
-     "t": "deux",
-     "lemma": "deux",
-     "pos": "num",
-     "stress": "dø",
-     "gloss": "two",
-     "gram": "cardinal number"
-    },
-    {
-     "t": "femmes!",
-     "lemma": "femme",
-     "pos": "noun",
-     "stress": "fam",
-     "gloss": "women",
-     "gram": "feminine plural"
+     "t": "moderne.",
+     "lemma": "moderne",
+     "pos": "adj",
+     "stress": "mɔdɛʁn",
+     "gloss": "modern",
+     "gram": "describes the proposal"
     }
    ]
   },
   {
    "seg": 4,
-   "trans": "That makes it modern.",
+   "trans": "You mean a real couple of women?",
    "words": [
     {
-     "t": "Ça",
-     "lemma": "ça",
+     "t": "Tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "sa",
-     "gloss": "that",
-     "gram": "demonstrative pronoun, informal"
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Andréa"
     },
     {
-     "t": "devient",
-     "lemma": "devenir",
+     "t": "veux",
+     "lemma": "vouloir",
      "pos": "verb",
-     "stress": "dəvjɛ̃",
-     "gloss": "becomes",
-     "gram": "present, 3rd person singular"
+     "stress": "vø",
+     "gloss": "want",
+     "gram": "second person singular present"
     },
     {
-     "t": "moderne.",
-     "lemma": "moderne",
+     "t": "dire",
+     "lemma": "dire",
+     "pos": "verb",
+     "stress": "diʁ",
+     "gloss": "say",
+     "gram": "infinitive after voulez; vouloir dire, mean"
+    },
+    {
+     "t": "un",
+     "lemma": "un",
+     "pos": "det",
+     "stress": "œ̃",
+     "gloss": "a",
+     "gram": "indefinite article, masculine singular"
+    },
+    {
+     "t": "vrai",
+     "lemma": "vrai",
      "pos": "adj",
-     "stress": "mɔdɛʁn",
-     "gloss": "modern",
-     "gram": "masculine singular (same form in the feminine)"
+     "stress": "vʁɛ",
+     "gloss": "real",
+     "gram": "masculine singular describing couple"
+    },
+    {
+     "t": "couple",
+     "lemma": "couple",
+     "pos": "noun",
+     "stress": "kupl",
+     "gloss": "couple, pair",
+     "gram": "noun, masculine singular"
+    },
+    {
+     "t": "de",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "də",
+     "gloss": "of",
+     "gram": "links couple to the people forming it"
+    },
+    {
+     "t": "femmes?",
+     "lemma": "femme",
+     "pos": "noun",
+     "stress": "fam",
+     "gloss": "women",
+     "gram": "feminine plural"
     }
    ]
   },
   {
    "seg": 5,
-   "trans": "You mean a real couple of women?",
+   "trans": "Yes. Line Renaud and Françoise Fabian.",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
-     "pos": "pron",
-     "stress": "vu",
-     "gloss": "you",
-     "gram": "plural or formal subject addressing the agents"
+     "t": "Oui.",
+     "lemma": "oui",
+     "pos": "adv",
+     "stress": "wi",
+     "gloss": "yes",
+     "gram": "affirmative answer"
     },
     {
-     "t": "voulez",
-     "lemma": "vouloir",
-     "pos": "verb",
-     "stress": "vule",
-     "gloss": "want",
-     "gram": "present, 2nd person plural (formal vous)"
+     "t": "Line",
+     "lemma": "line",
+     "pos": "name",
+     "stress": null,
+     "gloss": "Line",
+     "gram": "first name (Line Renaud)"
     },
     {
-     "t": "dire",
-     "lemma": "dire",
-     "pos": "verb",
-     "stress": "diʁ",
-     "gloss": "say",
-     "gram": "infinitive after voulez; vouloir dire, mean"
+     "t": "Renaud",
+     "lemma": "renaud",
+     "pos": "name",
+     "stress": null,
+     "gloss": "Renaud (Line's surname)",
+     "gram": "proper noun ('Renaud')"
     },
     {
-     "t": "un",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
+     "t": "et",
+     "lemma": "et",
+     "pos": "conj",
+     "stress": "e",
+     "gloss": "and",
+     "gram": "coordinating conjunction"
     },
     {
-     "t": "vrai",
-     "lemma": "vrai",
-     "pos": "adj",
-     "stress": "vʁɛ",
-     "gloss": "real",
-     "gram": "masculine singular describing couple"
+     "t": "Françoise",
+     "lemma": "françoise",
+     "pos": "name",
+     "stress": null,
+     "gloss": "Françoise (Fabian)",
+     "gram": "first name"
     },
     {
-     "t": "couple",
-     "lemma": "couple",
-     "pos": "noun",
-     "stress": "kupl",
-     "gloss": "couple, pair",
-     "gram": "noun, masculine singular"
-    },
-    {
-     "t": "de",
-     "lemma": "de",
-     "pos": "prep",
-     "stress": "də",
-     "gloss": "of",
-     "gram": "links couple to the people forming it"
-    },
-    {
-     "t": "femmes?",
-     "lemma": "femme",
-     "pos": "noun",
-     "stress": "fam",
-     "gloss": "women",
-     "gram": "feminine plural"
+     "t": "Fabian.",
+     "lemma": "fabian",
+     "pos": "name",
+     "stress": null,
+     "gloss": "Fabian",
+     "gram": "surname"
     }
    ]
   },
   {
    "seg": 6,
-   "trans": "Yes. Line Renaud and Françoise Fabian.",
+   "trans": "We've just seen them.",
    "words": [
     {
-     "t": "Oui.",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "affirmative answer"
+     "t": "On",
+     "lemma": "on",
+     "pos": "pron",
+     "stress": "ɔ̃",
+     "gloss": "we",
+     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
     },
     {
-     "t": "Line",
-     "lemma": "line",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Line",
-     "gram": "first name (Line Renaud)"
+     "t": "vient",
+     "lemma": "venir",
+     "pos": "verb",
+     "stress": "vjɛ̃",
+     "gloss": "has just (venir de)",
+     "gram": "present, 3rd person singular; venir de + infinitive = recent past"
     },
     {
-     "t": "Renaud",
-     "lemma": "renaud",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Renaud (Line's surname)",
-     "gram": "proper noun ('Renaud')"
+     "t": "de",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "də",
+     "gloss": "(have just)",
+     "gram": "links venir to voir in recent past"
     },
     {
-     "t": "et",
-     "lemma": "et",
-     "pos": "conj",
-     "stress": "e",
-     "gloss": "and",
-     "gram": "coordinating conjunction"
+     "t": "les",
+     "lemma": "le",
+     "pos": "pron",
+     "stress": "le",
+     "gloss": "them",
+     "gram": "plural direct object referring to the actresses"
     },
     {
-     "t": "Françoise",
-     "lemma": "françoise",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Françoise (Fabian)",
-     "gram": "first name"
-    },
-    {
-     "t": "Fabian.",
-     "lemma": "fabian",
-     "pos": "name",
-     "stress": null,
-     "gloss": "Fabian",
-     "gram": "surname"
+     "t": "voir.",
+     "lemma": "voir",
+     "pos": "verb",
+     "stress": "vwaʁ",
+     "gloss": "see",
+     "gram": "infinitive"
     }
    ]
   },
   {
    "seg": 7,
-   "trans": "We've just seen them.",
+   "trans": "Each one is a star.",
    "words": [
     {
-     "t": "On",
-     "lemma": "on",
+     "t": "Chacune",
+     "lemma": "chacun",
      "pos": "pron",
-     "stress": "ɔ̃",
-     "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+     "stress": "ʃakyn",
+     "gloss": "each one",
+     "gram": "indefinite pronoun, feminine singular"
     },
     {
-     "t": "vient",
-     "lemma": "venir",
+     "t": "est",
+     "lemma": "être",
      "pos": "verb",
-     "stress": "vjɛ̃",
-     "gloss": "has just (venir de)",
-     "gram": "present, 3rd person singular; venir de + infinitive = recent past"
+     "stress": "ɛ",
+     "gloss": "is",
+     "gram": "third person singular present agreeing with chacune"
     },
     {
-     "t": "de",
-     "lemma": "de",
-     "pos": "prep",
-     "stress": "də",
-     "gloss": "(have just)",
-     "gram": "links venir to voir in recent past"
+     "t": "une",
+     "lemma": "un",
+     "pos": "det",
+     "stress": "yn",
+     "gloss": "an (one)",
+     "gram": "indefinite article, feminine singular"
     },
     {
-     "t": "les",
-     "lemma": "le",
-     "pos": "pron",
-     "stress": "le",
-     "gloss": "them",
-     "gram": "plural direct object referring to the actresses"
-    },
-    {
-     "t": "voir.",
-     "lemma": "voir",
-     "pos": "verb",
-     "stress": "vwaʁ",
-     "gloss": "see",
-     "gram": "infinitive"
+     "t": "star.",
+     "lemma": "star",
+     "pos": "noun",
+     "stress": "staʁ",
+     "gloss": "star (famous person)",
+     "gram": "feminine singular"
     }
    ]
   },
   {
    "seg": 8,
-   "trans": "Each one is a star.",
+   "trans": "But together…",
    "words": [
     {
-     "t": "Chacune",
-     "lemma": "chacun",
-     "pos": "pron",
-     "stress": "ʃakyn",
-     "gloss": "each one",
-     "gram": "indefinite pronoun, feminine singular"
+     "t": "Mais",
+     "lemma": "mais",
+     "pos": "conj",
+     "stress": "mɛ",
+     "gloss": "but",
+     "gram": "coordinating conjunction"
     },
     {
-     "t": "est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "is",
-     "gram": "third person singular present agreeing with chacune"
-    },
-    {
-     "t": "une",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "yn",
-     "gloss": "an (one)",
-     "gram": "indefinite article, feminine singular"
-    },
-    {
-     "t": "star.",
-     "lemma": "star",
-     "pos": "noun",
-     "stress": "staʁ",
-     "gloss": "star (famous person)",
-     "gram": "feminine singular"
+     "t": "ensemble…",
+     "lemma": "ensemble",
+     "pos": "adv",
+     "stress": "ɑ̃sɑ̃bl",
+     "gloss": "together",
+     "gram": "invariable adverb ('ensemble', meaning 'together')"
     }
    ]
   },
   {
    "seg": 9,
-   "trans": "But together…",
+   "trans": "Did you see that?",
    "words": [
     {
-     "t": "Mais",
-     "lemma": "mais",
-     "pos": "conj",
-     "stress": "mɛ",
-     "gloss": "but",
-     "gram": "coordinating conjunction"
+     "t": "Vous",
+     "lemma": "vous",
+     "pos": "pron",
+     "stress": "vu",
+     "gloss": "you (polite)",
+     "gram": "formal singular or plural subject of avez"
     },
     {
-     "t": "ensemble…",
-     "lemma": "ensemble",
-     "pos": "adv",
-     "stress": "ɑ̃sɑ̃bl",
-     "gloss": "together",
-     "gram": "invariable adverb ('ensemble', meaning 'together')"
+     "t": "avez",
+     "lemma": "avoir",
+     "pos": "verb",
+     "stress": "ave",
+     "gloss": "have",
+     "gram": "second person plural present helper for vu"
+    },
+    {
+     "t": "vu",
+     "lemma": "voir",
+     "pos": "verb",
+     "stress": "vy",
+     "gloss": "seen",
+     "gram": "past participle of voir"
+    },
+    {
+     "t": "ça?",
+     "lemma": "ça",
+     "pos": "pron",
+     "stress": "sa",
+     "gloss": "that",
+     "gram": "demonstrative pronoun, informal"
     }
    ]
   },
   {
    "seg": 10,
-   "trans": "Did you see that?",
+   "trans": "It's totally unexpected.",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
-     "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular or plural subject of avez"
-    },
-    {
-     "t": "avez",
-     "lemma": "avoir",
+     "t": "C'est",
+     "lemma": "être",
      "pos": "verb",
-     "stress": "ave",
-     "gloss": "have",
-     "gram": "second person plural present helper for vu"
+     "stress": "sɛ",
+     "gloss": "it is, that is",
+     "gram": "ce (it/that) + est: 3rd person singular present of être"
     },
     {
-     "t": "vu",
-     "lemma": "voir",
-     "pos": "verb",
-     "stress": "vy",
-     "gloss": "seen",
-     "gram": "past participle of voir"
+     "t": "totalement",
+     "lemma": "totalement",
+     "pos": "adv",
+     "stress": "tɔtalmɑ̃",
+     "gloss": "totally",
+     "gram": "invariable adverb ('totalement', meaning 'totally')"
     },
     {
-     "t": "ça?",
-     "lemma": "ça",
-     "pos": "pron",
-     "stress": "sa",
-     "gloss": "that",
-     "gram": "demonstrative pronoun, informal"
+     "t": "inattendu.",
+     "lemma": "inattendu",
+     "pos": "adj",
+     "stress": "inatɑ̃dy",
+     "gloss": "unexpected",
+     "gram": "masculine singular"
     }
    ]
   },
   {
    "seg": 11,
-   "trans": "That's not bad.",
+   "trans": "People will talk about it, that's certain.",
    "words": [
     {
-     "t": "Ce",
-     "lemma": "ce",
+     "t": "Ça",
+     "lemma": "ça",
      "pos": "pron",
-     "stress": "sə",
+     "stress": "sa",
      "gloss": "that",
-     "gram": "demonstrative subject referring to the proposed idea"
+     "gram": "subject referring to the proposed casting"
     },
     {
-     "t": "n'est",
+     "t": "va",
+     "lemma": "aller",
+     "pos": "verb",
+     "stress": "va",
+     "gloss": "is going to",
+     "gram": "third person singular present before infinitive"
+    },
+    {
+     "t": "faire",
+     "lemma": "faire",
+     "pos": "verb",
+     "stress": "fɛʁ",
+     "gloss": "make",
+     "gram": "infinitive after va; faire parler means get people talking"
+    },
+    {
+     "t": "parler,",
+     "lemma": "parler",
+     "pos": "verb",
+     "stress": "paʁle",
+     "gloss": "talk",
+     "gram": "infinitive after faire"
+    },
+    {
+     "t": "c'est",
      "lemma": "être",
      "pos": "verb",
-     "stress": "nɛ",
-     "gloss": "is not",
-     "gram": "ne (not) + est: 3rd person singular present of être"
+     "stress": "sɛ",
+     "gloss": "it is",
+     "gram": "ce plus est"
     },
     {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
-    },
-    {
-     "t": "mal.",
-     "lemma": "mal",
-     "pos": "noun",
-     "stress": "mal",
-     "gloss": "bad",
-     "gram": "adverb in ce n’est pas mal, that is not bad"
+     "t": "sûr.",
+     "lemma": "sûr",
+     "pos": "adj",
+     "stress": "syʁ",
+     "gloss": "certain",
+     "gram": "adjective expressing certainty"
     }
    ]
   },
   {
    "seg": 12,
-   "trans": "It's totally unexpected.",
+   "trans": "And that's two fees instead of one.",
    "words": [
     {
-     "t": "C'est",
+     "t": "Et",
+     "lemma": "et",
+     "pos": "conj",
+     "stress": "e",
+     "gloss": "and",
+     "gram": "adds another point"
+    },
+    {
+     "t": "puis,",
+     "lemma": "puis",
+     "pos": "adv",
+     "stress": "pɥi",
+     "gloss": "then; besides",
+     "gram": "et puis adds a practical consideration"
+    },
+    {
+     "t": "c'est",
      "lemma": "être",
      "pos": "verb",
      "stress": "sɛ",
-     "gloss": "it is, that is",
-     "gram": "ce (it/that) + est: 3rd person singular present of être"
+     "gloss": "that is",
+     "gram": "spoken c’est before a plural amount"
     },
     {
-     "t": "totalement",
-     "lemma": "totalement",
-     "pos": "adv",
-     "stress": "tɔtalmɑ̃",
-     "gloss": "totally",
-     "gram": "invariable adverb ('totalement', meaning 'totally')"
+     "t": "deux",
+     "lemma": "deux",
+     "pos": "num",
+     "stress": "dø",
+     "gloss": "two",
+     "gram": "number of performers’ fees"
     },
     {
-     "t": "inattendu.",
-     "lemma": "inattendu",
-     "pos": "adj",
-     "stress": "inatɑ̃dy",
-     "gloss": "unexpected",
-     "gram": "masculine singular"
+     "t": "cachets",
+     "lemma": "cachet",
+     "pos": "noun",
+     "stress": "kaʃɛ",
+     "gloss": "fees",
+     "gram": "masculine plural, payments to performers"
+    },
+    {
+     "t": "au",
+     "lemma": "à",
+     "pos": "prep",
+     "stress": "o",
+     "gloss": "in the",
+     "gram": "à plus le in au lieu de, instead of"
+    },
+    {
+     "t": "lieu",
+     "lemma": "lieu",
+     "pos": "noun",
+     "stress": "ljø",
+     "gloss": "place",
+     "gram": "part of au lieu de, instead of"
+    },
+    {
+     "t": "d'un.",
+     "lemma": "un",
+     "pos": "num",
+     "stress": "dœ̃",
+     "gloss": "of one",
+     "gram": "de plus un; one fee"
     }
    ]
   },
   {
    "seg": 13,
-   "trans": "Everyone will talk about it.",
+   "trans": "We'll give you a good price.",
    "words": [
     {
-     "t": "Tout",
-     "lemma": "tout",
-     "pos": "det",
-     "stress": "tu",
-     "gloss": "all",
-     "gram": "masculine singular in tout le monde, everyone"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "masculine singular article in tout le monde"
-    },
-    {
-     "t": "monde",
-     "lemma": "monde",
-     "pos": "noun",
-     "stress": "mɔ̃d",
-     "gloss": "world",
-     "gram": "tout le monde means everyone"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
+     "t": "On",
+     "lemma": "on",
      "pos": "pron",
-     "stress": "ɑ̃",
-     "gloss": "about it",
-     "gram": "replaces de plus the idea being discussed"
+     "stress": "ɔ̃",
+     "gloss": "we",
+     "gram": "everyday we with singular verb"
     },
     {
-     "t": "parlera.",
-     "lemma": "parler",
+     "t": "va",
+     "lemma": "aller",
      "pos": "verb",
-     "stress": "paʁləʁa",
-     "gloss": "will talk",
-     "gram": "futur, 3rd person singular"
-    }
-   ]
-  },
-  {
-   "seg": 14,
-   "trans": "And you get two stars!",
-   "words": [
-    {
-     "t": "Et",
-     "lemma": "et",
-     "pos": "conj",
-     "stress": "e",
-     "gloss": "and",
-     "gram": "coordinating conjunction"
+     "stress": "va",
+     "gloss": "are going to",
+     "gram": "third person singular present before infinitive"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
+     "t": "te",
+     "lemma": "te",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular subject addressing Gabor"
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular indirect object addressing Emma"
     },
     {
-     "t": "avez",
-     "lemma": "avoir",
+     "t": "faire",
+     "lemma": "faire",
      "pos": "verb",
-     "stress": "ave",
-     "gloss": "have; get",
-     "gram": "second person plural present; the proposed film has two stars"
+     "stress": "fɛʁ",
+     "gloss": "give; make",
+     "gram": "infinitive after va"
     },
     {
-     "t": "deux",
-     "lemma": "deux",
-     "pos": "num",
-     "stress": "dø",
-     "gloss": "two",
-     "gram": "cardinal number"
+     "t": "un",
+     "lemma": "un",
+     "pos": "det",
+     "stress": "œ̃",
+     "gloss": "a",
+     "gram": "masculine singular indefinite article"
     },
     {
-     "t": "stars!",
-     "lemma": "star",
+     "t": "petit",
+     "lemma": "petit",
+     "pos": "adj",
+     "stress": "pəti",
+     "gloss": "low; little",
+     "gram": "masculine singular describing a reduced price"
+    },
+    {
+     "t": "prix.",
+     "lemma": "prix",
      "pos": "noun",
-     "stress": "staʁ",
-     "gloss": "star, celebrity",
-     "gram": "feminine plural"
+     "stress": "pʁi",
+     "gloss": "price",
+     "gram": "masculine singular"
     }
    ]
   },
   {
    "seg": 15,
-   "trans": "We'll give you a good price.",
+   "trans": "What if we took them both?",
    "words": [
     {
-     "t": "On",
+     "t": "Et",
+     "lemma": "et",
+     "pos": "conj",
+     "stress": "e",
+     "gloss": "and",
+     "gram": "introduces a suggestion with et si"
+    },
+    {
+     "t": "si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "what if",
+     "gram": "et si introduces a possible idea"
+    },
+    {
+     "t": "on",
      "lemma": "on",
      "pos": "pron",
      "stress": "ɔ̃",
      "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+     "gram": "everyday we with singular verb"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
+     "t": "les",
+     "lemma": "le",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you",
-     "gram": "formal singular indirect object, the person offered the price"
+     "stress": "le",
+     "gloss": "them",
+     "gram": "plural direct object referring to the actresses"
     },
     {
-     "t": "fait",
-     "lemma": "faire",
+     "t": "prenait",
+     "lemma": "prendre",
      "pos": "verb",
-     "stress": "fɛ",
-     "gloss": "give; make",
-     "gram": "third person singular present with on, we"
+     "stress": "pʁənɛ",
+     "gloss": "took",
+     "gram": "third person singular imparfait used in a suggestion"
     },
     {
-     "t": "un",
-     "lemma": "un",
+     "t": "toutes",
+     "lemma": "tout",
+     "pos": "pron",
+     "stress": "tut",
+     "gloss": "both",
+     "gram": "feminine plural agreeing with the two actresses in toutes les deux"
+    },
+    {
+     "t": "les",
+     "lemma": "le",
      "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
+     "stress": "le",
+     "gloss": "the",
+     "gram": "plural article in toutes les deux"
     },
     {
-     "t": "bon",
-     "lemma": "bon",
-     "pos": "adj",
-     "stress": "bɔ̃",
-     "gloss": "good",
-     "gram": "masculine singular adjective describing prix"
-    },
-    {
-     "t": "prix.",
-     "lemma": "prix",
-     "pos": "noun",
-     "stress": "pʁi",
-     "gloss": "price",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 16,
-   "trans": "Outjet!",
-   "words": [
-    {
-     "t": "Outjet!",
-     "lemma": "outjet",
-     "pos": "interj",
-     "stress": "autdʒɛt",
-     "gloss": "toast: Outjet!",
-     "gram": "character’s toast as transcribed in the subtitles"
+     "t": "deux?",
+     "lemma": "deux",
+     "pos": "num",
+     "stress": "dø",
+     "gloss": "two",
+     "gram": "toutes les deux means both of them"
     }
    ]
   },
   {
    "seg": 17,
-   "trans": "Er, yes, outjet!",
-   "words": [
-    {
-     "t": "Euh,",
-     "lemma": "euh",
-     "pos": "interj",
-     "stress": "ø",
-     "gloss": "er",
-     "gram": "hesitation sound"
-    },
-    {
-     "t": "oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "answer, repeated for emphasis"
-    },
-    {
-     "t": "outjet!",
-     "lemma": "outjet",
-     "pos": "interj",
-     "stress": "autdʒɛt",
-     "gloss": "toast: Outjet!",
-     "gram": "character’s toast as transcribed in the subtitles"
-    }
-   ]
-  },
-  {
-   "seg": 18,
-   "trans": "Well then, outjet!",
-   "words": [
-    {
-     "t": "Eh",
-     "lemma": "eh",
-     "pos": "interj",
-     "stress": "e",
-     "gloss": "well (eh bien)",
-     "gram": "interjection / exclamation ('eh')"
-    },
-    {
-     "t": "bien,",
-     "lemma": "bien",
-     "pos": "adv",
-     "stress": "bjɛ̃",
-     "gloss": "well (very well)",
-     "gram": "invariable adverb ('bien', meaning 'well')"
-    },
-    {
-     "t": "outjet!",
-     "lemma": "outjet",
-     "pos": "interj",
-     "stress": "autdʒɛt",
-     "gloss": "toast: Outjet!",
-     "gram": "character’s toast as transcribed in the subtitles"
-    }
-   ]
-  },
-  {
-   "seg": 20,
-   "trans": "Why not take them both?",
-   "words": [
-    {
-     "t": "Pourquoi",
-     "lemma": "pourquoi",
-     "pos": "adv",
-     "stress": "puʁkwa",
-     "gloss": "why",
-     "gram": "question word"
-    },
-    {
-     "t": "ne",
-     "lemma": "ne",
-     "pos": "part",
-     "stress": "nə",
-     "gloss": "not",
-     "gram": "negation, first half, before the verb"
-    },
-    {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
-    },
-    {
-     "t": "prendre",
-     "lemma": "prendre",
-     "pos": "verb",
-     "stress": "pʁɑ̃dʁ",
-     "gloss": "take",
-     "gram": "infinitive in pourquoi ne pas, why not do something"
-    },
-    {
-     "t": "les",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "le",
-     "gloss": "the",
-     "gram": "plural article in les deux, both of them"
-    },
-    {
-     "t": "deux?",
-     "lemma": "deux",
-     "pos": "num",
-     "stress": "dø",
-     "gloss": "two",
-     "gram": "cardinal number"
-    }
-   ]
-  },
-  {
-   "seg": 22,
-   "trans": "Both of them?",
-   "words": [
-    {
-     "t": "Les",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "le",
-     "gloss": "the",
-     "gram": "definite article, plural"
-    },
-    {
-     "t": "deux?",
-     "lemma": "deux",
-     "pos": "num",
-     "stress": "dø",
-     "gloss": "two",
-     "gram": "cardinal number"
-    }
-   ]
-  },
-  {
-   "seg": 24,
    "trans": "Bonnie and Clyde at eighty, with two women!",
    "words": [
     {
@@ -897,24 +813,24 @@
    ]
   },
   {
-   "seg": 26,
-   "trans": "That makes it modern.",
+   "seg": 19,
+   "trans": "That's modern.",
    "words": [
     {
-     "t": "Ça",
+     "t": "Ça,",
      "lemma": "ça",
      "pos": "pron",
      "stress": "sa",
      "gloss": "that",
-     "gram": "demonstrative pronoun, informal"
+     "gram": "topic: the changed casting idea"
     },
     {
-     "t": "devient",
-     "lemma": "devenir",
+     "t": "c'est",
+     "lemma": "être",
      "pos": "verb",
-     "stress": "dəvjɛ̃",
-     "gloss": "becomes",
-     "gram": "present, 3rd person singular"
+     "stress": "sɛ",
+     "gloss": "it is",
+     "gram": "ce plus est repeats the topic"
     },
     {
      "t": "moderne.",
@@ -922,29 +838,29 @@
      "pos": "adj",
      "stress": "mɔdɛʁn",
      "gloss": "modern",
-     "gram": "masculine singular (same form in the feminine)"
+     "gram": "describes the proposal"
     }
    ]
   },
   {
-   "seg": 28,
+   "seg": 21,
    "trans": "You mean a real couple of women?",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
+     "t": "Tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "vu",
+     "stress": "ty",
      "gloss": "you",
-     "gram": "plural or formal subject addressing the agents"
+     "gram": "familiar singular subject addressing Andréa"
     },
     {
-     "t": "voulez",
+     "t": "veux",
      "lemma": "vouloir",
      "pos": "verb",
-     "stress": "vule",
+     "stress": "vø",
      "gloss": "want",
-     "gram": "present, 2nd person plural (formal vous)"
+     "gram": "second person singular present"
     },
     {
      "t": "dire",
@@ -997,7 +913,7 @@
    ]
   },
   {
-   "seg": 30,
+   "seg": 23,
    "trans": "Yes. Line Renaud and Françoise Fabian.",
    "words": [
     {
@@ -1051,7 +967,7 @@
    ]
   },
   {
-   "seg": 32,
+   "seg": 25,
    "trans": "We've just seen them.",
    "words": [
     {
@@ -1097,7 +1013,7 @@
    ]
   },
   {
-   "seg": 34,
+   "seg": 27,
    "trans": "Each one is a star.",
    "words": [
     {
@@ -1135,7 +1051,7 @@
    ]
   },
   {
-   "seg": 36,
+   "seg": 29,
    "trans": "But together…",
    "words": [
     {
@@ -1157,7 +1073,7 @@
    ]
   },
   {
-   "seg": 38,
+   "seg": 31,
    "trans": "Did you see that?",
    "words": [
     {
@@ -1195,371 +1111,293 @@
    ]
   },
   {
-   "seg": 40,
-   "trans": "That's not bad.",
+   "seg": 33,
+   "trans": "It's totally unexpected.",
    "words": [
     {
-     "t": "Ce",
-     "lemma": "ce",
-     "pos": "pron",
-     "stress": "sə",
-     "gloss": "that",
-     "gram": "demonstrative subject referring to the proposed idea"
-    },
-    {
-     "t": "n'est",
+     "t": "C'est",
      "lemma": "être",
      "pos": "verb",
-     "stress": "nɛ",
-     "gloss": "is not",
-     "gram": "ne (not) + est: 3rd person singular present of être"
+     "stress": "sɛ",
+     "gloss": "it is, that is",
+     "gram": "ce (it/that) + est: 3rd person singular present of être"
     },
     {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
+     "t": "totalement",
+     "lemma": "totalement",
+     "pos": "adv",
+     "stress": "tɔtalmɑ̃",
+     "gloss": "totally",
+     "gram": "invariable adverb ('totalement', meaning 'totally')"
     },
     {
-     "t": "mal.",
-     "lemma": "mal",
+     "t": "inattendu.",
+     "lemma": "inattendu",
+     "pos": "adj",
+     "stress": "inatɑ̃dy",
+     "gloss": "unexpected",
+     "gram": "masculine singular"
+    }
+   ]
+  },
+  {
+   "seg": 35,
+   "trans": "People will talk about it, that's certain.",
+   "words": [
+    {
+     "t": "Ça",
+     "lemma": "ça",
+     "pos": "pron",
+     "stress": "sa",
+     "gloss": "that",
+     "gram": "subject referring to the proposed casting"
+    },
+    {
+     "t": "va",
+     "lemma": "aller",
+     "pos": "verb",
+     "stress": "va",
+     "gloss": "is going to",
+     "gram": "third person singular present before infinitive"
+    },
+    {
+     "t": "faire",
+     "lemma": "faire",
+     "pos": "verb",
+     "stress": "fɛʁ",
+     "gloss": "make",
+     "gram": "infinitive after va; faire parler means get people talking"
+    },
+    {
+     "t": "parler,",
+     "lemma": "parler",
+     "pos": "verb",
+     "stress": "paʁle",
+     "gloss": "talk",
+     "gram": "infinitive after faire"
+    },
+    {
+     "t": "c'est",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "sɛ",
+     "gloss": "it is",
+     "gram": "ce plus est"
+    },
+    {
+     "t": "sûr.",
+     "lemma": "sûr",
+     "pos": "adj",
+     "stress": "syʁ",
+     "gloss": "certain",
+     "gram": "adjective expressing certainty"
+    }
+   ]
+  },
+  {
+   "seg": 37,
+   "trans": "And that's two fees instead of one.",
+   "words": [
+    {
+     "t": "Et",
+     "lemma": "et",
+     "pos": "conj",
+     "stress": "e",
+     "gloss": "and",
+     "gram": "adds another point"
+    },
+    {
+     "t": "puis,",
+     "lemma": "puis",
+     "pos": "adv",
+     "stress": "pɥi",
+     "gloss": "then; besides",
+     "gram": "et puis adds a practical consideration"
+    },
+    {
+     "t": "c'est",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "sɛ",
+     "gloss": "that is",
+     "gram": "spoken c’est before a plural amount"
+    },
+    {
+     "t": "deux",
+     "lemma": "deux",
+     "pos": "num",
+     "stress": "dø",
+     "gloss": "two",
+     "gram": "number of performers’ fees"
+    },
+    {
+     "t": "cachets",
+     "lemma": "cachet",
      "pos": "noun",
-     "stress": "mal",
-     "gloss": "bad",
-     "gram": "adverb in ce n’est pas mal, that is not bad"
+     "stress": "kaʃɛ",
+     "gloss": "fees",
+     "gram": "masculine plural, payments to performers"
+    },
+    {
+     "t": "au",
+     "lemma": "à",
+     "pos": "prep",
+     "stress": "o",
+     "gloss": "in the",
+     "gram": "à plus le in au lieu de, instead of"
+    },
+    {
+     "t": "lieu",
+     "lemma": "lieu",
+     "pos": "noun",
+     "stress": "ljø",
+     "gloss": "place",
+     "gram": "part of au lieu de, instead of"
+    },
+    {
+     "t": "d'un.",
+     "lemma": "un",
+     "pos": "num",
+     "stress": "dœ̃",
+     "gloss": "of one",
+     "gram": "de plus un; one fee"
+    }
+   ]
+  },
+  {
+   "seg": 39,
+   "trans": "We'll give you a good price.",
+   "words": [
+    {
+     "t": "On",
+     "lemma": "on",
+     "pos": "pron",
+     "stress": "ɔ̃",
+     "gloss": "we",
+     "gram": "everyday we with singular verb"
+    },
+    {
+     "t": "va",
+     "lemma": "aller",
+     "pos": "verb",
+     "stress": "va",
+     "gloss": "are going to",
+     "gram": "third person singular present before infinitive"
+    },
+    {
+     "t": "te",
+     "lemma": "te",
+     "pos": "pron",
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular indirect object addressing Emma"
+    },
+    {
+     "t": "faire",
+     "lemma": "faire",
+     "pos": "verb",
+     "stress": "fɛʁ",
+     "gloss": "give; make",
+     "gram": "infinitive after va"
+    },
+    {
+     "t": "un",
+     "lemma": "un",
+     "pos": "det",
+     "stress": "œ̃",
+     "gloss": "a",
+     "gram": "masculine singular indefinite article"
+    },
+    {
+     "t": "petit",
+     "lemma": "petit",
+     "pos": "adj",
+     "stress": "pəti",
+     "gloss": "low; little",
+     "gram": "masculine singular describing a reduced price"
+    },
+    {
+     "t": "prix.",
+     "lemma": "prix",
+     "pos": "noun",
+     "stress": "pʁi",
+     "gloss": "price",
+     "gram": "masculine singular"
+    }
+   ]
+  },
+  {
+   "seg": 41,
+   "trans": "What if we took them both?",
+   "words": [
+    {
+     "t": "Et",
+     "lemma": "et",
+     "pos": "conj",
+     "stress": "e",
+     "gloss": "and",
+     "gram": "introduces a suggestion with et si"
+    },
+    {
+     "t": "si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "what if",
+     "gram": "et si introduces a possible idea"
+    },
+    {
+     "t": "on",
+     "lemma": "on",
+     "pos": "pron",
+     "stress": "ɔ̃",
+     "gloss": "we",
+     "gram": "everyday we with singular verb"
+    },
+    {
+     "t": "les",
+     "lemma": "le",
+     "pos": "pron",
+     "stress": "le",
+     "gloss": "them",
+     "gram": "plural direct object referring to the actresses"
+    },
+    {
+     "t": "prenait",
+     "lemma": "prendre",
+     "pos": "verb",
+     "stress": "pʁənɛ",
+     "gloss": "took",
+     "gram": "third person singular imparfait used in a suggestion"
+    },
+    {
+     "t": "toutes",
+     "lemma": "tout",
+     "pos": "pron",
+     "stress": "tut",
+     "gloss": "both",
+     "gram": "feminine plural agreeing with the two actresses in toutes les deux"
+    },
+    {
+     "t": "les",
+     "lemma": "le",
+     "pos": "det",
+     "stress": "le",
+     "gloss": "the",
+     "gram": "plural article in toutes les deux"
+    },
+    {
+     "t": "deux?",
+     "lemma": "deux",
+     "pos": "num",
+     "stress": "dø",
+     "gloss": "two",
+     "gram": "toutes les deux means both of them"
     }
    ]
   },
   {
    "seg": 42,
-   "trans": "It's totally unexpected.",
-   "words": [
-    {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "it is, that is",
-     "gram": "ce (it/that) + est: 3rd person singular present of être"
-    },
-    {
-     "t": "totalement",
-     "lemma": "totalement",
-     "pos": "adv",
-     "stress": "tɔtalmɑ̃",
-     "gloss": "totally",
-     "gram": "invariable adverb ('totalement', meaning 'totally')"
-    },
-    {
-     "t": "inattendu.",
-     "lemma": "inattendu",
-     "pos": "adj",
-     "stress": "inatɑ̃dy",
-     "gloss": "unexpected",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 44,
-   "trans": "Everyone will talk about it.",
-   "words": [
-    {
-     "t": "Tout",
-     "lemma": "tout",
-     "pos": "det",
-     "stress": "tu",
-     "gloss": "all",
-     "gram": "masculine singular in tout le monde, everyone"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "masculine singular article in tout le monde"
-    },
-    {
-     "t": "monde",
-     "lemma": "monde",
-     "pos": "noun",
-     "stress": "mɔ̃d",
-     "gloss": "world",
-     "gram": "tout le monde means everyone"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
-     "pos": "pron",
-     "stress": "ɑ̃",
-     "gloss": "about it",
-     "gram": "replaces de plus the idea being discussed"
-    },
-    {
-     "t": "parlera.",
-     "lemma": "parler",
-     "pos": "verb",
-     "stress": "paʁləʁa",
-     "gloss": "will talk",
-     "gram": "futur, 3rd person singular"
-    }
-   ]
-  },
-  {
-   "seg": 46,
-   "trans": "And you get two stars!",
-   "words": [
-    {
-     "t": "Et",
-     "lemma": "et",
-     "pos": "conj",
-     "stress": "e",
-     "gloss": "and",
-     "gram": "coordinating conjunction"
-    },
-    {
-     "t": "vous",
-     "lemma": "vous",
-     "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular subject addressing Gabor"
-    },
-    {
-     "t": "avez",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "ave",
-     "gloss": "have; get",
-     "gram": "second person plural present; the proposed film has two stars"
-    },
-    {
-     "t": "deux",
-     "lemma": "deux",
-     "pos": "num",
-     "stress": "dø",
-     "gloss": "two",
-     "gram": "cardinal number"
-    },
-    {
-     "t": "stars!",
-     "lemma": "star",
-     "pos": "noun",
-     "stress": "staʁ",
-     "gloss": "star, celebrity",
-     "gram": "feminine plural"
-    }
-   ]
-  },
-  {
-   "seg": 48,
-   "trans": "We'll give you a good price.",
-   "words": [
-    {
-     "t": "On",
-     "lemma": "on",
-     "pos": "pron",
-     "stress": "ɔ̃",
-     "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-    },
-    {
-     "t": "vous",
-     "lemma": "vous",
-     "pos": "pron",
-     "stress": "vu",
-     "gloss": "you",
-     "gram": "formal singular indirect object, the person offered the price"
-    },
-    {
-     "t": "fait",
-     "lemma": "faire",
-     "pos": "verb",
-     "stress": "fɛ",
-     "gloss": "give; make",
-     "gram": "third person singular present with on, we"
-    },
-    {
-     "t": "un",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
-    },
-    {
-     "t": "bon",
-     "lemma": "bon",
-     "pos": "adj",
-     "stress": "bɔ̃",
-     "gloss": "good",
-     "gram": "masculine singular adjective describing prix"
-    },
-    {
-     "t": "prix.",
-     "lemma": "prix",
-     "pos": "noun",
-     "stress": "pʁi",
-     "gloss": "price",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 50,
-   "trans": "Outjet!",
-   "words": [
-    {
-     "t": "Outjet!",
-     "lemma": "outjet",
-     "pos": "interj",
-     "stress": "autdʒɛt",
-     "gloss": "toast: Outjet!",
-     "gram": "character’s toast as transcribed in the subtitles"
-    }
-   ]
-  },
-  {
-   "seg": 52,
-   "trans": "Er, yes, outjet!",
-   "words": [
-    {
-     "t": "Euh,",
-     "lemma": "euh",
-     "pos": "interj",
-     "stress": "ø",
-     "gloss": "er",
-     "gram": "hesitation sound"
-    },
-    {
-     "t": "oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "answer, repeated for emphasis"
-    },
-    {
-     "t": "outjet!",
-     "lemma": "outjet",
-     "pos": "interj",
-     "stress": "autdʒɛt",
-     "gloss": "toast: Outjet!",
-     "gram": "character’s toast as transcribed in the subtitles"
-    }
-   ]
-  },
-  {
-   "seg": 54,
-   "trans": "Well then, outjet!",
-   "words": [
-    {
-     "t": "Eh",
-     "lemma": "eh",
-     "pos": "interj",
-     "stress": "e",
-     "gloss": "well (eh bien)",
-     "gram": "interjection / exclamation ('eh')"
-    },
-    {
-     "t": "bien,",
-     "lemma": "bien",
-     "pos": "adv",
-     "stress": "bjɛ̃",
-     "gloss": "well (very well)",
-     "gram": "invariable adverb ('bien', meaning 'well')"
-    },
-    {
-     "t": "outjet!",
-     "lemma": "outjet",
-     "pos": "interj",
-     "stress": "autdʒɛt",
-     "gloss": "toast: Outjet!",
-     "gram": "character’s toast as transcribed in the subtitles"
-    }
-   ]
-  },
-  {
-   "seg": 56,
-   "trans": "Why not take them both?",
-   "words": [
-    {
-     "t": "Pourquoi",
-     "lemma": "pourquoi",
-     "pos": "adv",
-     "stress": "puʁkwa",
-     "gloss": "why",
-     "gram": "question word"
-    },
-    {
-     "t": "ne",
-     "lemma": "ne",
-     "pos": "part",
-     "stress": "nə",
-     "gloss": "not",
-     "gram": "negation, first half, before the verb"
-    },
-    {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
-    },
-    {
-     "t": "prendre",
-     "lemma": "prendre",
-     "pos": "verb",
-     "stress": "pʁɑ̃dʁ",
-     "gloss": "take",
-     "gram": "infinitive in pourquoi ne pas, why not do something"
-    },
-    {
-     "t": "les",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "le",
-     "gloss": "the",
-     "gram": "plural article in les deux, both of them"
-    },
-    {
-     "t": "deux?",
-     "lemma": "deux",
-     "pos": "num",
-     "stress": "dø",
-     "gloss": "two",
-     "gram": "cardinal number"
-    }
-   ]
-  },
-  {
-   "seg": 57,
-   "trans": "Both of them?",
-   "words": [
-    {
-     "t": "Les",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "le",
-     "gloss": "the",
-     "gram": "definite article, plural"
-    },
-    {
-     "t": "deux?",
-     "lemma": "deux",
-     "pos": "num",
-     "stress": "dø",
-     "gloss": "two",
-     "gram": "cardinal number"
-    }
-   ]
-  },
-  {
-   "seg": 58,
    "trans": "Bonnie and Clyde at eighty, with two women!",
    "words": [
     {
@@ -1637,24 +1475,24 @@
    ]
   },
   {
-   "seg": 59,
-   "trans": "That makes it modern.",
+   "seg": 43,
+   "trans": "That's modern.",
    "words": [
     {
-     "t": "Ça",
+     "t": "Ça,",
      "lemma": "ça",
      "pos": "pron",
      "stress": "sa",
      "gloss": "that",
-     "gram": "demonstrative pronoun, informal"
+     "gram": "topic: the changed casting idea"
     },
     {
-     "t": "devient",
-     "lemma": "devenir",
+     "t": "c'est",
+     "lemma": "être",
      "pos": "verb",
-     "stress": "dəvjɛ̃",
-     "gloss": "becomes",
-     "gram": "present, 3rd person singular"
+     "stress": "sɛ",
+     "gloss": "it is",
+     "gram": "ce plus est repeats the topic"
     },
     {
      "t": "moderne.",
@@ -1662,29 +1500,29 @@
      "pos": "adj",
      "stress": "mɔdɛʁn",
      "gloss": "modern",
-     "gram": "masculine singular (same form in the feminine)"
+     "gram": "describes the proposal"
     }
    ]
   },
   {
-   "seg": 60,
+   "seg": 44,
    "trans": "You mean a real couple of women?",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
+     "t": "Tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "vu",
+     "stress": "ty",
      "gloss": "you",
-     "gram": "plural or formal subject addressing the agents"
+     "gram": "familiar singular subject addressing Andréa"
     },
     {
-     "t": "voulez",
+     "t": "veux",
      "lemma": "vouloir",
      "pos": "verb",
-     "stress": "vule",
+     "stress": "vø",
      "gloss": "want",
-     "gram": "present, 2nd person plural (formal vous)"
+     "gram": "second person singular present"
     },
     {
      "t": "dire",
@@ -1737,7 +1575,7 @@
    ]
   },
   {
-   "seg": 61,
+   "seg": 45,
    "trans": "Yes. Line Renaud and Françoise Fabian.",
    "words": [
     {
@@ -1791,7 +1629,7 @@
    ]
   },
   {
-   "seg": 62,
+   "seg": 46,
    "trans": "We've just seen them.",
    "words": [
     {
@@ -1837,7 +1675,7 @@
    ]
   },
   {
-   "seg": 63,
+   "seg": 47,
    "trans": "Each one is a star.",
    "words": [
     {
@@ -1875,7 +1713,7 @@
    ]
   },
   {
-   "seg": 64,
+   "seg": 48,
    "trans": "But together…",
    "words": [
     {
@@ -1897,7 +1735,7 @@
    ]
   },
   {
-   "seg": 65,
+   "seg": 49,
    "trans": "Did you see that?",
    "words": [
     {
@@ -1935,45 +1773,7 @@
    ]
   },
   {
-   "seg": 66,
-   "trans": "That's not bad.",
-   "words": [
-    {
-     "t": "Ce",
-     "lemma": "ce",
-     "pos": "pron",
-     "stress": "sə",
-     "gloss": "that",
-     "gram": "demonstrative subject referring to the proposed idea"
-    },
-    {
-     "t": "n'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "nɛ",
-     "gloss": "is not",
-     "gram": "ne (not) + est: 3rd person singular present of être"
-    },
-    {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
-    },
-    {
-     "t": "mal.",
-     "lemma": "mal",
-     "pos": "noun",
-     "stress": "mal",
-     "gloss": "bad",
-     "gram": "adverb in ce n’est pas mal, that is not bad"
-    }
-   ]
-  },
-  {
-   "seg": 67,
+   "seg": 50,
    "trans": "It's totally unexpected.",
    "words": [
     {
@@ -2003,54 +1803,62 @@
    ]
   },
   {
-   "seg": 68,
-   "trans": "Everyone will talk about it.",
+   "seg": 51,
+   "trans": "People will talk about it, that's certain.",
    "words": [
     {
-     "t": "Tout",
-     "lemma": "tout",
-     "pos": "det",
-     "stress": "tu",
-     "gloss": "all",
-     "gram": "masculine singular in tout le monde, everyone"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "masculine singular article in tout le monde"
-    },
-    {
-     "t": "monde",
-     "lemma": "monde",
-     "pos": "noun",
-     "stress": "mɔ̃d",
-     "gloss": "world",
-     "gram": "tout le monde means everyone"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
+     "t": "Ça",
+     "lemma": "ça",
      "pos": "pron",
-     "stress": "ɑ̃",
-     "gloss": "about it",
-     "gram": "replaces de plus the idea being discussed"
+     "stress": "sa",
+     "gloss": "that",
+     "gram": "subject referring to the proposed casting"
     },
     {
-     "t": "parlera.",
+     "t": "va",
+     "lemma": "aller",
+     "pos": "verb",
+     "stress": "va",
+     "gloss": "is going to",
+     "gram": "third person singular present before infinitive"
+    },
+    {
+     "t": "faire",
+     "lemma": "faire",
+     "pos": "verb",
+     "stress": "fɛʁ",
+     "gloss": "make",
+     "gram": "infinitive after va; faire parler means get people talking"
+    },
+    {
+     "t": "parler,",
      "lemma": "parler",
      "pos": "verb",
-     "stress": "paʁləʁa",
-     "gloss": "will talk",
-     "gram": "futur, 3rd person singular"
+     "stress": "paʁle",
+     "gloss": "talk",
+     "gram": "infinitive after faire"
+    },
+    {
+     "t": "c'est",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "sɛ",
+     "gloss": "it is",
+     "gram": "ce plus est"
+    },
+    {
+     "t": "sûr.",
+     "lemma": "sûr",
+     "pos": "adj",
+     "stress": "syʁ",
+     "gloss": "certain",
+     "gram": "adjective expressing certainty"
     }
    ]
   },
   {
-   "seg": 69,
-   "trans": "And you get two stars!",
+   "seg": 52,
+   "trans": "And that's two fees instead of one.",
    "words": [
     {
      "t": "Et",
@@ -2058,23 +1866,23 @@
      "pos": "conj",
      "stress": "e",
      "gloss": "and",
-     "gram": "coordinating conjunction"
+     "gram": "adds another point"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
-     "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular subject addressing Gabor"
+     "t": "puis,",
+     "lemma": "puis",
+     "pos": "adv",
+     "stress": "pɥi",
+     "gloss": "then; besides",
+     "gram": "et puis adds a practical consideration"
     },
     {
-     "t": "avez",
-     "lemma": "avoir",
+     "t": "c'est",
+     "lemma": "être",
      "pos": "verb",
-     "stress": "ave",
-     "gloss": "have; get",
-     "gram": "second person plural present; the proposed film has two stars"
+     "stress": "sɛ",
+     "gloss": "that is",
+     "gram": "spoken c’est before a plural amount"
     },
     {
      "t": "deux",
@@ -2082,20 +1890,44 @@
      "pos": "num",
      "stress": "dø",
      "gloss": "two",
-     "gram": "cardinal number"
+     "gram": "number of performers’ fees"
     },
     {
-     "t": "stars!",
-     "lemma": "star",
+     "t": "cachets",
+     "lemma": "cachet",
      "pos": "noun",
-     "stress": "staʁ",
-     "gloss": "star, celebrity",
-     "gram": "feminine plural"
+     "stress": "kaʃɛ",
+     "gloss": "fees",
+     "gram": "masculine plural, payments to performers"
+    },
+    {
+     "t": "au",
+     "lemma": "à",
+     "pos": "prep",
+     "stress": "o",
+     "gloss": "in the",
+     "gram": "à plus le in au lieu de, instead of"
+    },
+    {
+     "t": "lieu",
+     "lemma": "lieu",
+     "pos": "noun",
+     "stress": "ljø",
+     "gloss": "place",
+     "gram": "part of au lieu de, instead of"
+    },
+    {
+     "t": "d'un.",
+     "lemma": "un",
+     "pos": "num",
+     "stress": "dœ̃",
+     "gloss": "of one",
+     "gram": "de plus un; one fee"
     }
    ]
   },
   {
-   "seg": 70,
+   "seg": 53,
    "trans": "We'll give you a good price.",
    "words": [
     {
@@ -2104,23 +1936,31 @@
      "pos": "pron",
      "stress": "ɔ̃",
      "gloss": "we",
-     "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+     "gram": "everyday we with singular verb"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
+     "t": "va",
+     "lemma": "aller",
+     "pos": "verb",
+     "stress": "va",
+     "gloss": "are going to",
+     "gram": "third person singular present before infinitive"
+    },
+    {
+     "t": "te",
+     "lemma": "te",
      "pos": "pron",
-     "stress": "vu",
+     "stress": "tə",
      "gloss": "you",
-     "gram": "formal singular indirect object, the person offered the price"
+     "gram": "familiar singular indirect object addressing Emma"
     },
     {
-     "t": "fait",
+     "t": "faire",
      "lemma": "faire",
      "pos": "verb",
-     "stress": "fɛ",
+     "stress": "fɛʁ",
      "gloss": "give; make",
-     "gram": "third person singular present with on, we"
+     "gram": "infinitive after va"
     },
     {
      "t": "un",
@@ -2128,15 +1968,15 @@
      "pos": "det",
      "stress": "œ̃",
      "gloss": "a",
-     "gram": "indefinite article, masculine singular"
+     "gram": "masculine singular indefinite article"
     },
     {
-     "t": "bon",
-     "lemma": "bon",
+     "t": "petit",
+     "lemma": "petit",
      "pos": "adj",
-     "stress": "bɔ̃",
-     "gloss": "good",
-     "gram": "masculine singular adjective describing prix"
+     "stress": "pəti",
+     "gloss": "low; little",
+     "gram": "masculine singular describing a reduced price"
     },
     {
      "t": "prix.",
@@ -2149,81 +1989,7 @@
    ]
   },
   {
-   "seg": 71,
-   "trans": "Outjet!",
-   "words": [
-    {
-     "t": "Outjet!",
-     "lemma": "outjet",
-     "pos": "interj",
-     "stress": "autdʒɛt",
-     "gloss": "toast: Outjet!",
-     "gram": "character’s toast as transcribed in the subtitles"
-    }
-   ]
-  },
-  {
-   "seg": 72,
-   "trans": "Er, yes, outjet!",
-   "words": [
-    {
-     "t": "Euh,",
-     "lemma": "euh",
-     "pos": "interj",
-     "stress": "ø",
-     "gloss": "er",
-     "gram": "hesitation sound"
-    },
-    {
-     "t": "oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "answer, repeated for emphasis"
-    },
-    {
-     "t": "outjet!",
-     "lemma": "outjet",
-     "pos": "interj",
-     "stress": "autdʒɛt",
-     "gloss": "toast: Outjet!",
-     "gram": "character’s toast as transcribed in the subtitles"
-    }
-   ]
-  },
-  {
-   "seg": 73,
-   "trans": "Well then, outjet!",
-   "words": [
-    {
-     "t": "Eh",
-     "lemma": "eh",
-     "pos": "interj",
-     "stress": "e",
-     "gloss": "well (eh bien)",
-     "gram": "interjection / exclamation ('eh')"
-    },
-    {
-     "t": "bien,",
-     "lemma": "bien",
-     "pos": "adv",
-     "stress": "bjɛ̃",
-     "gloss": "well (very well)",
-     "gram": "invariable adverb ('bien', meaning 'well')"
-    },
-    {
-     "t": "outjet!",
-     "lemma": "outjet",
-     "pos": "interj",
-     "stress": "autdʒɛt",
-     "gloss": "toast: Outjet!",
-     "gram": "character’s toast as transcribed in the subtitles"
-    }
-   ]
-  },
-  {
-   "seg": 75,
+   "seg": 55,
    "trans": "See you soon!",
    "words": [
     {
@@ -2510,48 +2276,6 @@
     }
    ]
   },
-  "bien": {
-   "lemma": "bien",
-   "stress": "bjɛ̃",
-   "pos": "adv",
-   "gloss": "well; good",
-   "meanings": [
-    {
-     "en": "well",
-     "note": "Très bien = very well, fine."
-    },
-    {
-     "en": "good, nice",
-     "note": "C'est bien."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Très bien.",
-     "trans": "Very well."
-    },
-    {
-     "text": "Elle est bien.",
-     "trans": "She's nice."
-    }
-   ],
-   "related": [
-    {
-     "word": "bien sûr",
-     "gloss": "of course"
-    },
-    {
-     "word": "bientôt",
-     "gloss": "soon"
-    },
-    {
-     "word": "bienvenue",
-     "gloss": "welcome"
-    }
-   ]
-  },
   "bientôt": {
    "lemma": "bientôt",
    "stress": "bjɛ̃to",
@@ -2583,124 +2307,6 @@
     {
      "word": "bien sûr",
      "gloss": "of course"
-    }
-   ]
-  },
-  "bon": {
-   "lemma": "bon",
-   "stress": "bɔ̃",
-   "pos": "adj",
-   "gloss": "good",
-   "meanings": [
-    {
-     "en": "good",
-     "note": "as an interjection: bon, alors... = right, so..."
-    },
-    {
-     "en": "well, okay, right",
-     "note": "as an interjection: bon, alors... = right, so..."
-    },
-    {
-     "en": "bonne journée = have a nice day",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "bon",
-       "bonne"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "bons",
-       "bonnes"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Bon. Alors, je vais attendre.",
-     "trans": "Fine. Then I'll wait."
-    },
-    {
-     "text": "Bonne journée!",
-     "trans": "Have a nice day!"
-    }
-   ],
-   "related": [
-    {
-     "word": "as an interjection: bon, alors...",
-     "gloss": "right, so..."
-    }
-   ]
-  },
-  "ce": {
-   "lemma": "ce",
-   "stress": "sə",
-   "pos": "det",
-   "gloss": "this, that; it",
-   "meanings": [
-    {
-     "en": "this, that",
-     "note": "determiner: ce soir = tonight, cette semaine = this week"
-    },
-    {
-     "en": "it, this",
-     "note": "pronoun: c'est = it is; tout ce que = all that"
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "ce (cet)",
-       "cette"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "ces",
-       "ces"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Je ne peux pas venir ce soir.",
-     "trans": "I can't come tonight."
-    },
-    {
-     "text": "Cette agence ne représente que des stars.",
-     "trans": "This agency only represents stars."
-    }
-   ],
-   "related": [
-    {
-     "word": "determiner: ce soir",
-     "gloss": "tonight, cette semaine = this week"
     }
    ]
   },
@@ -2874,159 +2480,6 @@
      "gloss": "second"
     }
    ]
-  },
-  "devenir": {
-   "lemma": "devenir",
-   "stress": "dəvəniʁ",
-   "pos": "verb",
-   "gloss": "to become",
-   "meanings": [
-    {
-     "en": "to become",
-     "note": "Become; uses être in the past, with agreement: elle est devenue."
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je deviens",
-       "nous devenons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu deviens",
-       "vous devenez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle devient",
-       "ils/elles deviennent"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Passé composé",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je suis devenu(e)",
-        "nous sommes devenu(e)s"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu es devenu(e)",
-        "vous êtes devenu(e)(s)"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle est devenu(e)",
-        "ils/elles sont devenu(e)s"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imparfait",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je devenais",
-        "nous devenions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu devenais",
-        "vous deveniez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle devenait",
-        "ils/elles devenaient"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Futur",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je deviendrai",
-        "nous deviendrons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu deviendras",
-        "vous deviendrez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle deviendra",
-        "ils/elles deviendront"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Elle est devenue une star.",
-     "trans": "She became a star."
-    },
-    {
-     "text": "Il veut devenir acteur.",
-     "trans": "He wants to become an actor."
-    },
-    {
-     "text": "Line est devenue une star, et Françoise a fait du cinéma d'auteur.",
-     "trans": "Line became a star, and Françoise made art-house films."
-    }
-   ],
-   "related": []
   },
   "dire": {
    "lemma": "dire",
@@ -3210,69 +2663,6 @@
     }
    ]
   },
-  "eh": {
-   "lemma": "eh",
-   "stress": "e",
-   "pos": "interj",
-   "gloss": "well; hey",
-   "meanings": [
-    {
-     "en": "well",
-     "note": "An interjection used in eh bien, well then."
-    },
-    {
-     "en": "hey",
-     "note": "Can call for someone’s attention."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Eh bien... merci quand même.",
-     "trans": "Well... thanks anyway."
-    },
-    {
-     "text": "Eh, Camille!",
-     "trans": "Hey, Camille!"
-    },
-    {
-     "text": "Eh bien, évidemment!",
-     "trans": "Well, obviously!"
-    }
-   ],
-   "related": []
-  },
-  "en": {
-   "lemma": "en",
-   "stress": "ɑ̃",
-   "pos": "prep",
-   "gloss": "in",
-   "meanings": [
-    {
-     "en": "in",
-     "note": "en retard = late, en vacances = on holiday"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Je suis en retard.",
-     "trans": "I'm late."
-    },
-    {
-     "text": "Tu es en vacances?",
-     "trans": "Are you on holiday?"
-    }
-   ],
-   "related": [
-    {
-     "word": "en retard",
-     "gloss": "late, en vacances = on holiday"
-    }
-   ]
-  },
   "ensemble": {
    "lemma": "ensemble",
    "stress": "ɑ̃sɑ̃bl",
@@ -3335,35 +2725,6 @@
      "gloss": "and"
     }
    ]
-  },
-  "euh": {
-   "lemma": "euh",
-   "stress": "ø",
-   "pos": "interj",
-   "gloss": "er, um",
-   "meanings": [
-    {
-     "en": "er, um (hesitation)",
-     "note": "Hesitation sound, like English er or um."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Euh… oui.",
-     "trans": "Er… yes."
-    },
-    {
-     "text": "Euh, je ne sais pas.",
-     "trans": "Um, I don't know."
-    },
-    {
-     "text": "Euh, oui, outjet!",
-     "trans": "Er, yes, outjet!"
-    }
-   ],
-   "related": []
   },
   "faire": {
    "lemma": "faire",
@@ -3721,69 +3082,6 @@
     }
    ]
   },
-  "mal": {
-   "lemma": "mal",
-   "stress": "mal",
-   "pos": "noun",
-   "gloss": "harm, hurt; pain",
-   "gender": "m",
-   "plural": "maux",
-   "meanings": [
-    {
-     "en": "harm, hurt",
-     "note": "Harm or evil as a noun."
-    },
-    {
-     "en": "pain, ache",
-     "note": "Pain in avoir mal, hurt."
-    },
-    {
-     "en": "badly (adverb)",
-     "note": "Badly as an adverb; pas mal can mean not bad or quite good."
-    },
-    {
-     "en": "wrong; bad",
-     "note": ""
-    },
-    {
-     "en": "wrong; bad",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "le mal",
-       "les maux"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "J'ai mal à la tête.",
-     "trans": "I have a headache."
-    },
-    {
-     "text": "Je ne veux pas te faire de mal.",
-     "trans": "I don't want to hurt you."
-    },
-    {
-     "text": "J'ai mal réagi.",
-     "trans": "I reacted badly."
-    }
-   ],
-   "related": []
-  },
   "moderne": {
    "lemma": "moderne",
    "stress": "mɔdɛʁn",
@@ -3835,40 +3133,6 @@
     }
    ],
    "related": []
-  },
-  "ne": {
-   "lemma": "ne",
-   "stress": "nə",
-   "pos": "part",
-   "gloss": "not (with pas, rien, que)",
-   "meanings": [
-    {
-     "en": "negation",
-     "note": "ne... pas = not; ne... rien = nothing; ne... que = only; n' before a vowel"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Je ne sais pas.",
-     "trans": "I don't know."
-    },
-    {
-     "text": "Rien n'est signé.",
-     "trans": "Nothing is signed."
-    }
-   ],
-   "related": [
-    {
-     "word": "pas",
-     "gloss": "not"
-    },
-    {
-     "word": "jamais",
-     "gloss": "never"
-    }
-   ]
   },
   "on": {
    "lemma": "on",
@@ -3937,35 +3201,6 @@
      "gloss": "yes (contradicting a negative)"
     }
    ]
-  },
-  "outjet": {
-   "lemma": "outjet",
-   "stress": "autdʒɛt",
-   "pos": "interj",
-   "gloss": "(made-up toast)",
-   "meanings": [
-    {
-     "en": "a toast word invented by the director Gabor",
-     "note": "Gabor’s toast as represented in the subtitles; not a standard French vocabulary item."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "À votre santé, outjet, comme on dit chez Gabor!",
-     "trans": "To your health, cheers, as they say in Gabor's country!"
-    },
-    {
-     "text": "Le réalisateur lève son verre et crie joyeusement outjet!",
-     "trans": "The director raises his glass and cheerfully shouts cheers!"
-    },
-    {
-     "text": "Eh bien… outjet!",
-     "trans": "Well then… cheers!"
-    }
-   ],
-   "related": []
   },
   "parler": {
    "lemma": "parler",
@@ -4148,65 +3383,6 @@
      "gloss": "to discuss again"
     }
    ]
-  },
-  "pas": {
-   "lemma": "pas",
-   "stress": "pa",
-   "pos": "part",
-   "gloss": "not",
-   "meanings": [
-    {
-     "en": "not",
-     "note": "second half of ne... pas; in speech ne is often dropped"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Je ne suis pas actrice.",
-     "trans": "I'm not an actress."
-    },
-    {
-     "text": "Pas maintenant.",
-     "trans": "Not now."
-    }
-   ],
-   "related": [
-    {
-     "word": "pas",
-     "gloss": "not"
-    }
-   ]
-  },
-  "pourquoi": {
-   "lemma": "pourquoi",
-   "stress": "puʁkwa",
-   "pos": "adv",
-   "gloss": "why",
-   "meanings": [
-    {
-     "en": "why",
-     "note": "A question word, also used in an indirect question after a verb such as comprendre."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Pourquoi est-ce que tu ne m'as rien dit hier?",
-     "trans": "Why didn't you tell me anything yesterday?"
-    },
-    {
-     "text": "Je comprends enfin pourquoi elle a refusé ce film.",
-     "trans": "I finally understand why she turned down that film."
-    },
-    {
-     "text": "Pourquoi tu n'as pas appelé?",
-     "trans": "Why didn't you call?"
-    }
-   ],
-   "related": []
   },
   "prendre": {
    "lemma": "prendre",
@@ -5461,49 +4637,6 @@
     }
    ]
   },
-  "monde": {
-   "lemma": "monde",
-   "stress": "mɔ̃d",
-   "pos": "noun",
-   "gloss": "world; people",
-   "meanings": [
-    {
-     "en": "world; people",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "le monde",
-       "les mondes"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Tout le monde est là.",
-     "trans": "Everyone is here."
-    },
-    {
-     "text": "Il y a du monde.",
-     "trans": "There are people here."
-    }
-   ],
-   "related": [],
-   "gender": "m",
-   "plural": "mondes"
-  },
   "tout": {
    "lemma": "tout",
    "stress": "tu",
@@ -5525,6 +4658,522 @@
     {
      "text": "Tout va bien.",
      "trans": "Everything is going well."
+    }
+   ],
+   "related": []
+  },
+  "tu": {
+   "lemma": "tu",
+   "stress": "ty",
+   "pos": "pron",
+   "gloss": "you (casual)",
+   "meanings": [
+    {
+     "en": "you",
+     "note": "one person you know well: friends, family, close colleagues"
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Tu es pénible.",
+     "trans": "You're a pain."
+    },
+    {
+     "text": "Tu es en vacances?",
+     "trans": "Are you on holiday?"
+    }
+   ],
+   "related": [
+    {
+     "word": "vous",
+     "gloss": "you (polite or plural)"
+    }
+   ]
+  },
+  "petit": {
+   "lemma": "petit",
+   "stress": "pəti",
+   "pos": "adj",
+   "gloss": "small, little",
+   "meanings": [
+    {
+     "en": "small, little",
+     "note": "Affectionate, a bit condescending."
+    },
+    {
+     "en": "a little, a bit of (affectionate)",
+     "note": "Un petit cours."
+    }
+   ],
+   "forms": {
+    "title": "Forms",
+    "columns": [
+     "",
+     "m",
+     "f"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "sg",
+       "petit",
+       "petite"
+      ]
+     },
+     {
+      "cells": [
+       "pl",
+       "petits",
+       "petites"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "J'ai un petit loft.",
+     "trans": "I've got a little loft."
+    },
+    {
+     "text": "C'est une petite agence.",
+     "trans": "It's a small agency."
+    }
+   ],
+   "related": [
+    {
+     "word": "petit-déjeuner",
+     "gloss": "morning meal"
+    },
+    {
+     "word": "petit-bourgeois",
+     "gloss": "petty-bourgeois"
+    },
+    {
+     "word": "petit-fils",
+     "gloss": "grandson"
+    }
+   ]
+  },
+  "sûr": {
+   "lemma": "sûr",
+   "stress": "syʁ",
+   "pos": "adj",
+   "gloss": "sure",
+   "meanings": [
+    {
+     "en": "sure, certain",
+     "note": "Bien sûr = of course."
+    },
+    {
+     "en": "safe",
+     "note": ""
+    }
+   ],
+   "forms": {
+    "title": "Forms",
+    "columns": [
+     "",
+     "m",
+     "f"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "sg",
+       "sûr",
+       "sûre"
+      ]
+     },
+     {
+      "cells": [
+       "pl",
+       "sûrs",
+       "sûres"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Tu es sûr?",
+     "trans": "Are you sure?"
+    },
+    {
+     "text": "Bien sûr!",
+     "trans": "Of course!"
+    }
+   ],
+   "related": [
+    {
+     "word": "bien sûr",
+     "gloss": "of course"
+    }
+   ]
+  },
+  "te": {
+   "lemma": "te",
+   "stress": "tə",
+   "pos": "pron",
+   "gloss": "you (casual, object)",
+   "meanings": [
+    {
+     "en": "you, to you",
+     "note": "Unstressed informal object pronoun; becomes t' before a vowel."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Je voulais te faire la surprise.",
+     "trans": "I wanted to surprise you."
+    },
+    {
+     "text": "Je te rappelle.",
+     "trans": "I'll call you back."
+    },
+    {
+     "text": "Je ne sais pas. Je voulais te faire la surprise.",
+     "trans": "I don't know. I wanted to surprise you."
+    }
+   ],
+   "related": []
+  },
+  "cachet": {
+   "lemma": "cachet",
+   "stress": "kaʃɛ",
+   "pos": "noun",
+   "gloss": "performer’s fee",
+   "gender": "m",
+   "plural": "cachets",
+   "meanings": [
+    {
+     "en": "fee paid to a performer",
+     "note": "Here the payment for an actor’s work on a production."
+    }
+   ],
+   "forms": {
+    "title": "Forms",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "form",
+       "le cachet",
+       "les cachets"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Il faut payer deux cachets.",
+     "trans": "We have to pay two performers’ fees."
+    },
+    {
+     "text": "Son cachet est élevé.",
+     "trans": "Her fee is high."
+    }
+   ],
+   "related": []
+  },
+  "si": {
+   "lemma": "si",
+   "stress": "si",
+   "pos": "conj",
+   "gloss": "if; yes (to a negative)",
+   "meanings": [
+    {
+     "en": "if",
+     "note": "Si tu veux = if you want."
+    },
+    {
+     "en": "yes",
+     "note": "answering a negative question: Aucune nouvelle? - Si!"
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Si tu veux, on peut en parler demain matin.",
+     "trans": "If you want, we can talk about it tomorrow morning."
+    },
+    {
+     "text": "Dis-moi tout de suite si le rôle t'intéresse.",
+     "trans": "Tell me right away if the role interests you."
+    }
+   ],
+   "related": [
+    {
+     "word": "si tu veux",
+     "gloss": "if you want"
+    }
+   ]
+  },
+  "aller": {
+   "lemma": "aller",
+   "stress": "ale",
+   "pos": "verb",
+   "gloss": "to go",
+   "meanings": [
+    {
+     "en": "to go",
+     "note": "aller + infinitive: tu vas l'agacer = you're going to annoy her"
+    },
+    {
+     "en": "aller + infinitive = going to (near future)",
+     "note": "Je vais déjeuner."
+    },
+    {
+     "en": "allez! = come on!",
+     "note": "Imperative used to encourage."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "je vais",
+       "nous allons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu vas",
+       "vous allez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle va",
+       "ils/elles vont"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Passé composé",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "je suis allé(e)",
+        "nous sommes allé(e)s"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu es allé(e)",
+        "vous êtes allé(e)(s)"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle est allé(e)",
+        "ils/elles sont allé(e)s"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Imparfait",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'allais",
+        "nous allions"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu allais",
+        "vous alliez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle allait",
+        "ils/elles allaient"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Futur",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'irai",
+        "nous irons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu iras",
+        "vous irez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle ira",
+        "ils/elles iront"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Imperative",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "—",
+        "allons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "va",
+        "allez"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Je vais déjeuner deux fois.",
+     "trans": "I'm going to have lunch twice."
+    },
+    {
+     "text": "Allez, au travail!",
+     "trans": "Come on, to work!"
+    }
+   ],
+   "related": [
+    {
+     "word": "aller-retour",
+     "gloss": "round trip"
+    },
+    {
+     "word": "s'en aller",
+     "gloss": "to leave, go away"
+    }
+   ]
+  },
+  "puis": {
+   "lemma": "puis",
+   "stress": "pɥi",
+   "pos": "adv",
+   "gloss": "then; besides",
+   "meanings": [
+    {
+     "en": "then",
+     "note": "Introduces what comes next. Et puis can add another consideration: and besides."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Je travaille, puis je rentre.",
+     "trans": "I work, then I go home."
+    },
+    {
+     "text": "Et puis, c'est trop cher.",
+     "trans": "And besides, it's too expensive."
+    }
+   ],
+   "related": []
+  },
+  "lieu": {
+   "lemma": "lieu",
+   "stress": "ljø",
+   "pos": "noun",
+   "gloss": "place",
+   "gender": "m",
+   "plural": "lieux",
+   "meanings": [
+    {
+     "en": "place",
+     "note": "In au lieu de, literally in the place of, it forms the expression instead of."
+    }
+   ],
+   "forms": {
+    "title": "Forms",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "form",
+       "le lieu",
+       "les lieux"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Deux cachets au lieu d'un.",
+     "trans": "Two fees instead of one."
+    },
+    {
+     "text": "Choisissons un lieu calme.",
+     "trans": "Let's choose a quiet place."
     }
    ],
    "related": []
