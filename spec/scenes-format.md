@@ -67,3 +67,17 @@ object the existing full-episode coverage and end-time checks apply unchanged. I
 Registered taster shows are Die Discounter (`die-discounter`, `de-en`), Paquita Salas (`paquita-salas`, `es-en`), Boris
 (`boris`, `it-en`), The Producers (`the-producers`, `ko-en`), The Naked Director (`the-naked-director`, `ja-en`), Behind
 the Scenes (`behind-the-scenes`, `zh-en`) and Al Maktab (`al-maktab`, `ar-en`). Registration alone never activates a pair.
+
+### Short taster structure
+
+A script within an explicit excerpt may additionally declare `"format": "taster"` (authoring modules: `FORMAT = "taster"`).
+This permits a genuinely short story without padding to the full-lesson twenty-segment minimum; at least seven
+segments and the existing introduction/story/walk-through/exact-recap/outro structure still apply. The recap must
+repeat the whole original story unchanged. Every original story line remains source-cited. Ordinary annotations,
+teaching and audio gates stay in place. Without the matching excerpt, the taster marker is an error.
+
+An explicit taster may finish naturally with its English outro (`CLOSING = None` in compose), or with a replay of an
+actual story line. It need not fabricate a new target-language farewell absent from the source. A newly authored
+farewell is also allowed when genuinely synthesized and verified; do not pretend it came from the show. Full lessons
+retain the existing native farewell and minimum-length rules. Original recordings remain private verification and
+voice-conditioning inputs; final public lesson dialogue is generated and independently checked.
