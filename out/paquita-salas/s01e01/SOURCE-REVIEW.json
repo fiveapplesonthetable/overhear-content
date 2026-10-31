@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "paquita-salas-s01e01-scene-01",
-  "status": "source_grounded_opening_taster_draft_frozen_not_publishable",
+  "status": "source_grounded_taster_content_approved_for_synthesized_production_not_yet_published",
   "scope": {
     "language": "es",
     "show": "paquita-salas",
@@ -9,10 +9,10 @@
     "episode": 1,
     "lessons_authored": 1,
     "remaining_episode_authored": false,
-    "root_latest_scope": "One short opening taster only; finish source/notes artifacts, then hold artwork/render/publication for product-scope decision."
+    "root_latest_scope": "User explicitly authorized completion and publication of one short taster per new language. Spanish remains one opening lesson from E01 only."
   },
   "source": {
-    "private_original_path": "/mnt/agent/pilot-source-discovery/sources/es/paquita-salas-s01e01.mp4",
+    "private_original_path": "pilot-source-discovery/sources/es/paquita-salas-s01e01.mp4",
     "video_sha256": "defc4d561f8bfed45eeac4a0e3d09790cc24161a2b879f096d46c9895994720e",
     "episode_duration_seconds": 1698.56,
     "audio_stream_index": 1,
@@ -25,13 +25,20 @@
     "native_caption_cue_count": 505,
     "native_caption_file_in_content": "sources/paquita-salas/s01/e01.es.srt",
     "native_caption_file_truncated": false,
-    "source_provenance_private_path": "/mnt/agent/pilot-source-discovery/sources/es/source-provenance.json",
+    "source_provenance_private_path": "pilot-source-discovery/sources/es/source-provenance.json",
     "source_provenance_sha256_at_review": "15d5709d3f5cdb446fa3f1aaae294caedd5cba88dfff0ee1db41b58ef9721989",
     "lesson_source_start_seconds": 5.76,
     "lesson_source_end_seconds": 77.52,
     "source_times_meaning": "Exact authored-caption source window. These are not produced-lesson speech times or approved per-word acoustic boundaries.",
-    "source_provenance_snapshot_private_path": "/mnt/agent/pilot-source-discovery/spanish-pilot/source-provenance-snapshot.json",
-    "source_provenance_snapshot_sha256": "15d5709d3f5cdb446fa3f1aaae294caedd5cba88dfff0ee1db41b58ef9721989"
+    "source_provenance_snapshot_private_path": "pilot-source-discovery/spanish-pilot/source-provenance-snapshot.json",
+    "source_provenance_snapshot_sha256": "15d5709d3f5cdb446fa3f1aaae294caedd5cba88dfff0ee1db41b58ef9721989",
+    "coverage": {
+      "type": "excerpt",
+      "start": "00:00:05,760",
+      "end": "00:01:17,520",
+      "sourceSha256": "37b9b33f7997c6b6b69b01e0b6c868aa3c31d94ad7b265645ea12d15c5bb0b1c",
+      "reason": "Short reviewed opening taster; remaining source is retained and not published."
+    }
   },
   "primary_identity_sources": [
     {
@@ -59,7 +66,7 @@
   ],
   "speaker_review": {
     "method": "Actual source-frame inspection plus on-screen lower-third and official identity sources; no human audio-listening certification claimed.",
-    "contact_sheet_private_path": "/mnt/agent/pilot-source-discovery/spanish-pilot/opening-contact-sheet.jpg",
+    "contact_sheet_private_path": "pilot-source-discovery/spanish-pilot/opening-contact-sheet.jpg",
     "contact_sheet_sha256": "7910f77a9968da94acd4db1f9dc7f1d1abb19723f0653bd5d734f64e00b61ea4",
     "frame_labels": "Approximate sampled source times; not exact acoustic evidence.",
     "roles": [
@@ -92,12 +99,17 @@
         ]
       }
     ],
-    "specific_turn_note": "The no-call response is Paquita turning back toward the camera, not a fabricated voiced reply assigned to Magüi.",
-    "non_speaking_name": "Maca is Macarena García, the client, not a third dialogue voice."
+    "specific_turn_note": "Denser original frames63.4–65.8s show Magüi on the phone before the cut and Paquita visibly delivering the no-call/complaint sequence from approximately63.9s onward. The response belongs to Paquita.",
+    "non_speaking_name": "Maca is Macarena García, the client, not a third dialogue voice.",
+    "no_call_sequence_evidence": {
+      "path": "pilot-source-discovery/spanish-pilot/no-maca-speaker-proof.jpg",
+      "sha256": "086cc59b4f8a55c09b9d21594dc7d92c5fcb463ed6d557999e4aeb5ae8355b87",
+      "sampling": "5fps; image labels approximate, not per-word acoustic timing"
+    }
   },
   "independent_audio_check": {
     "accepted_evidence": {
-      "path": "/mnt/agent/pilot-source-discovery/spanish-pilot/opening-independent-small-asr.json",
+      "path": "pilot-source-discovery/spanish-pilot/opening-independent-small-asr.json",
       "sha256": "7e45b5f1e048c7c9e6674dc1e2c8289b2f9f977213647356fc4b95dc51af9b83",
       "model": "already-cached Systran/faster-whisper-small",
       "source_window_seconds": [
@@ -115,7 +127,7 @@
       "assessment": "Corroborates original Spanish and the opening propositions. It has name/lexical errors and does not override authored native captions. It is not a native-human certificate."
     },
     "diagnostic_evidence": {
-      "path": "/mnt/agent/pilot-source-discovery/spanish-pilot/opening-small-diagnostic-asr.json",
+      "path": "pilot-source-discovery/spanish-pilot/opening-small-diagnostic-asr.json",
       "sha256": "200f1e7aee2e931382ca0eba5977242c6bea0dc0a9cf0cd9c77eb0f3feeb50a5",
       "auto_detected_language": "es",
       "language_probability": 0.8885236978530884,
@@ -125,7 +137,7 @@
       ]
     },
     "rejected_evidence": {
-      "path": "/mnt/agent/pilot-source-discovery/spanish-pilot/opening-independent-asr.json",
+      "path": "pilot-source-discovery/spanish-pilot/opening-independent-asr.json",
       "sha256": "ab86269a7c7c5351c374ced3586b1841aa44b96dfa72511c651f1746d2aa2c52",
       "model": "already-cached mobiuslabsgmbh/faster-whisper-large-v3-turbo",
       "runtime_seconds": 57.47,
@@ -133,7 +145,61 @@
     },
     "pcm_assessment": "Original HE-AAC48k stereo decoded to16k mono PCM. Both original channels had equal non-silent levels; no phase-cancellation evidence. Small decoder successfully transcribed the same PCM.",
     "human_listening_certified": false,
-    "english_backtranslation_used": false
+    "english_backtranslation_used": false,
+    "final_targeted_source_checks": [
+      {
+        "id": "boast",
+        "path": "narrator-runs/codex-seven-tasters/source-checks/es-boast-large-asr.json",
+        "sha256": "55afef7a409af8f5dad52d7bd7bc17dfc4cec4dde38369350347de7977de3ba9",
+        "text": "La verdad.  Está mal que yo lo diga, pero a mí todo el mundo me adora.",
+        "request": {
+          "id": "es-boast",
+          "path": "narrator-runs/codex-seven-tasters/source-checks/es-boast.wav",
+          "sourceStart": 24.2,
+          "sourceEnd": 27.6,
+          "expectedLanguage": "es",
+          "decodeLanguage": "es",
+          "sha256": "b493a8c654e8f807cbb383647213d3d216a9446530e9ae656471c54d4479df45"
+        },
+        "method": "Existing large-v3-turbo, beam5, no expected text/initial prompt/hotwords/VAD/previous context;300ms silence padding",
+        "humanListeningCertified": false
+      },
+      {
+        "id": "growth",
+        "path": "narrator-runs/codex-seven-tasters/source-checks/es-growth-large-asr.json",
+        "sha256": "8d74e690386e745cb537ca857cba6fe1ef2c801d671a9bf487d09ba6ae97712b",
+        "text": "Como agencia de modelos, poco a poco hemos ido creciendo, ganándonos la confianza de la industria.",
+        "request": {
+          "id": "es-growth",
+          "path": "narrator-runs/codex-seven-tasters/source-checks/es-growth.wav",
+          "sourceStart": 42.3,
+          "sourceEnd": 47.7,
+          "expectedLanguage": "es",
+          "decodeLanguage": "es",
+          "sha256": "4670a13cb6c4e7e61c05ddd5720471c83595b0ed30d46ce128cc2a187210067d"
+        },
+        "method": "Existing large-v3-turbo, beam5, no expected text/initial prompt/hotwords/VAD/previous context;300ms silence padding",
+        "humanListeningCertified": false
+      },
+      {
+        "id": "clarity",
+        "path": "narrator-runs/codex-seven-tasters/source-checks/es-clarity-large-asr.json",
+        "sha256": "f82f980d8dd5fd0fe44c1cfbc5d17c8169c3d83b06ac9f347e2cfbfae484a4b0",
+        "text": "Tratamos de trabajar con gente que tiene esto muy claro.",
+        "request": {
+          "id": "es-clarity",
+          "path": "narrator-runs/codex-seven-tasters/source-checks/es-clarity.wav",
+          "sourceStart": 69.6,
+          "sourceEnd": 74.3,
+          "expectedLanguage": "es",
+          "decodeLanguage": "es",
+          "sha256": "1ed693ef4ce4cf050b997ffea711e6a1d6172e2b827aaf6edce0d0a85c775187"
+        },
+        "method": "Existing large-v3-turbo, beam5, no expected text/initial prompt/hotwords/VAD/previous context;300ms silence padding",
+        "humanListeningCertified": false
+      }
+    ],
+    "final_assessment": "Native source wording reconciled against authored Spanish captions, independent small ASR and separate unprompted large checks for disputed clauses. Both successful checks are evidence, not a human listening certificate. The earlier whole-window turbo hallucination remains rejected."
   },
   "caption_audio_differences_and_decisions": [
     {
@@ -146,7 +212,7 @@
       "source_cue": 8,
       "caption": "pero todos me adoran",
       "independent_asr": "pero a mí todo el mundo me adora",
-      "decision": "Caption-based learner adaptation keeps the same boast. Its plural teaching applies to the learner wording, not to a claimed verbatim original phrase."
+      "decision": "Use actual a mí todo el mundo me adora, independently confirmed by both small and separate large original-audio checks; the caption condensed this to todos me adoran."
     },
     {
       "source_cue": 15,
@@ -158,7 +224,7 @@
       "source_cue": 16,
       "caption": "poco a poco fuimos creciendo",
       "independent_asr": "poco a poco hemos ido creciendo",
-      "decision": "Keep the caption's completed-past learner adaptation and explain only that actual learner form."
+      "decision": "Use actual hemos ido creciendo, independently confirmed by both small and separate large original-audio checks; caption fuimos creciendo was compressed."
     },
     {
       "source_cue": 18,
@@ -182,7 +248,7 @@
       "source_cue": 26,
       "caption": "esto muy claro",
       "independent_asr": "eso muy claro",
-      "decision": "Keep authored-caption esto. Both refer to the previous proposition about acting as a profession; this is a declared learner adaptation."
+      "decision": "Use esto: the authored native caption and separate large source check agree, with large-model word probability0.981. The small decoder's eso was rejected rather than being called a source correction."
     }
   ],
   "story_line_provenance": [
@@ -205,7 +271,7 @@
           "text": "Hola, soy Paquita Salas y soy representante."
         }
       ],
-      "adaptation_note": "Verbatim authored caption wording, not a certification of exact original-audio wording."
+      "adaptation_note": "Native authored caption wording, corroborated in the actual-source opening check. No human listening certificate claimed."
     },
     {
       "story_index": 1,
@@ -252,7 +318,7 @@
     {
       "story_index": 3,
       "speaker": "paquita",
-      "learner_spanish": "Está mal que yo lo diga, pero todos me adoran.",
+      "learner_spanish": "Está mal que yo lo diga, pero a mí todo el mundo me adora.",
       "complete_english": "I shouldn't say it myself, but everyone adores me.",
       "source_cues": [
         {
@@ -260,15 +326,9 @@
           "exact_caption_fragment": "Está mal que yo lo diga",
           "timecode": "00:00:24,840 --> 00:00:26,960",
           "text": "Está mal que yo lo diga, ¿eh?, pero todos me adoran."
-        },
-        {
-          "cue": 8,
-          "exact_caption_fragment": "pero todos me adoran",
-          "timecode": "00:00:24,840 --> 00:00:26,960",
-          "text": "Está mal que yo lo diga, ¿eh?, pero todos me adoran."
         }
       ],
-      "adaptation_note": "Caption-based adaptation: omitted the hesitation tag. The authored caption uses plural todos me adoran; independent audio ASR instead hears a mí todo el mundo me adora. Both express the same boast; the learner grammar follows the caption wording."
+      "adaptation_note": "Restored a mí todo el mundo me adora from actual source audio and independent unprompted ASR; the caption condenses this to plural todos me adoran. Omitted the hesitation tag. Learner grammar now follows the source-audio wording."
     },
     {
       "story_index": 4,
@@ -299,7 +359,13 @@
       "source_cues": [
         {
           "cue": 15,
-          "exact_caption_fragment": "Empezamos de agencia de modelos",
+          "exact_caption_fragment": "Empezamos",
+          "timecode": "00:00:39,320 --> 00:00:42,960",
+          "text": "\"Llevamos más de 25 años. Empezamos de agencia de modelos"
+        },
+        {
+          "cue": 15,
+          "exact_caption_fragment": "agencia de modelos",
           "timecode": "00:00:39,320 --> 00:00:42,960",
           "text": "\"Llevamos más de 25 años. Empezamos de agencia de modelos"
         }
@@ -309,17 +375,23 @@
     {
       "story_index": 6,
       "speaker": "paquita",
-      "learner_spanish": "Poco a poco fuimos creciendo.",
-      "complete_english": "Little by little, we grew.",
+      "learner_spanish": "Poco a poco hemos ido creciendo.",
+      "complete_english": "Little by little, we've grown.",
       "source_cues": [
         {
           "cue": 16,
-          "exact_caption_fragment": "poco a poco fuimos creciendo",
+          "exact_caption_fragment": "poco a poco",
+          "timecode": "00:00:43,000 --> 00:00:46,000",
+          "text": "y poco a poco fuimos creciendo, ganándonos la confianza"
+        },
+        {
+          "cue": 16,
+          "exact_caption_fragment": "creciendo",
           "timecode": "00:00:43,000 --> 00:00:46,000",
           "text": "y poco a poco fuimos creciendo, ganándonos la confianza"
         }
       ],
-      "adaptation_note": "Retained the caption's first complete clause and omitted the following clause about earning the industry's trust. Independent audio ASR hears hemos ido creciendo rather than the caption's fuimos creciendo; the learner uses the caption's completed-past adaptation."
+      "adaptation_note": "Restored hemos ido creciendo from the actual source-audio check; the caption compresses this to fuimos creciendo. Omitted the following clause about earning the industry's trust."
     },
     {
       "story_index": 7,
@@ -334,7 +406,7 @@
           "text": "Somos expertos en generar éxito."
         }
       ],
-      "adaptation_note": "Verbatim authored caption wording, not a certification of exact original-audio wording."
+      "adaptation_note": "Native authored caption wording, corroborated in the actual-source opening check. No human listening certificate claimed."
     },
     {
       "story_index": 8,
@@ -355,7 +427,7 @@
           "text": "Ahora mismo llevamos a Macarena García."
         }
       ],
-      "adaptation_note": "Verbatim authored caption wording, not a certification of exact original-audio wording."
+      "adaptation_note": "Native authored caption wording, corroborated in the actual-source opening check. No human listening certificate claimed."
     },
     {
       "story_index": 9,
@@ -427,60 +499,95 @@
           "text": "Tratamos de trabajar con gente que tiene esto muy claro"
         }
       ],
-      "adaptation_note": "The demonstrative points back to acting being a profession. The caption has esto; independent ASR hears eso. This learner adaptation follows the authored caption. Omitted the next, profane clause rather than rewriting its content."
+      "adaptation_note": "The demonstrative points back to acting being a profession. Authored native captions and the independent large-model source check agree on esto; the small decoder's eso was rejected. Omitted the next, profane clause rather than rewriting its content."
     }
   ],
   "annotations": {
     "native_segments_annotated": 40,
-    "lexicon_entries": 54,
-    "unique_written_tokens": 63,
+    "lexicon_entries": 61,
+    "unique_written_tokens": 64,
     "translations_from": "Manually authored complete STORY translations, reused by exact full-text match; not extracted by splitting apostrophes.",
     "forms": "Written present tables for all used verbs, relevant preterite/subjunctive/perfect/non-finite tables, and noun/adjective forms. Common-gender person nouns have both article rows rather than a false single-gender claim.",
     "examples": "Two manually written Spanish/English teaching examples per lexicon entry; examples are not represented as source dialogue.",
     "pronunciation": "Broad Spain-Spanish IPA, bare strings; actual production pronunciation still requires native TTS speech QA.",
-    "word_origins": "No etymologies or historical claims supplied.",
+    "word_origins": {
+      "file": "word-origins/es-en.json",
+      "entries": 61,
+      "ordinary_lemmas": 55,
+      "proper_names": 6,
+      "basis": "Specific checked primary sources, mainly RAE DLE/DPD; scholarly/official name sources. Reconstructed forms retain an asterisk; uncertain specific name histories are explicitly uncertain.",
+      "review_path": "pilot-source-discovery/spanish-pilot/es-en.origins-review.json"
+    },
     "targeted_context_checks": [
       "llevar elapsed duration versus client representation",
       "personal a versus a in poco a poco",
+      "emphatic a mí plus unstressed me refers to one person",
       "de after más versus agency type versus tratar de; como introduces the starting role",
       "relative que versus conjunction que",
       "answer no versus negation no",
       "proper-name Maca versus Macarena",
-      "infinitive actuar versus conjugated forms",
-      "no gender agreement of llamado with auxiliary haber"
+      "hemos ido creciendo and written ido/non-finite forms",
+      "no gender agreement of llamado with auxiliary haber",
+      "esto follows the corroborated original source, not the small decoder's eso"
     ]
   },
   "validation": {
-    "episode_log_private_path": "/mnt/agent/pilot-source-discovery/spanish-pilot/content-validation.log",
-    "targeted_language_script_notes_errors": 0,
+    "taster_content_log": "pilot-source-discovery/spanish-pilot/final-content-validation.log",
+    "metadata_log": "pilot-source-discovery/spanish-pilot/final-metadata-validation.log",
+    "contract_test_log": "pilot-source-discovery/spanish-pilot/final-contract-tests.log",
+    "taster_errors": 0,
+    "taster_warnings": 0,
+    "metadata_errors": 0,
+    "contract_tests": 94,
+    "contract_test_failures": 0,
     "teaching_share_percent": 84,
     "teaching_explanations": 11,
     "total_explanations": 13,
     "grammar_term_explanations": 3,
-    "full_episode_validation_passed": false,
-    "open_errors": [
-      "Missing artwork, intentionally not generated under latest scope.",
-      "477 source cues outside the one authored opening scene under current validator tolerance.",
-      "Final scene ends at77.520s while full native source captions continue to1682.000s."
-    ],
-    "validation_was_weakened": false,
-    "placeholder_art_or_fake_scene_coverage_used": false
+    "full_episode_claimed_complete": false,
+    "explicit_excerpt_contract_used": true,
+    "complete_native_source_truncated": false,
+    "fake_scene_merges_or_placeholder_art_used": false,
+    "open_content_errors": []
   },
   "next_gates": [
-    "Root/user decision about short taster packaging and app support; no further authoring or rendering is authorized by this artifact.",
-    "Resolve honest partial-taster packaging before whole-episode coverage can pass; do not pretend all E01 is authored.",
-    "If selected, approve unique source-grounded art and production-owned genuine Spanish voice references.",
-    "Render only the frozen approved lesson; run independent native/English full-speech QA, timing/translation-link and content/remote checks.",
-    "Code22 is required by the prepared Spanish registry/search policy before exposing the pair; actual min-app metadata must be verified by integration owner.",
-    "No publication or public readiness claim until all applicable gates pass."
+    "Production-owned genuine Spanish reference freeze and voice registration.",
+    "Synthesize only this frozen source-backed taster; no original show speech in public teaching audio.",
+    "Independently check full native/English speech, alignment, translation links and audio quality; fix any real failures.",
+    "Run serving-candidate history/surface coverage including all names, Learn and forms before publication.",
+    "Integrate the actual app/publisher language registration and min-app gate, verify device playback/refresh and anonymous remote hashes.",
+    "Publish only after production gates pass; no further Spanish E01 lessons are in scope."
   ],
-  "production_authorized_by_this_artifact": false,
+  "production_authorized_by_this_artifact": true,
   "published": false,
   "production_reference_review": {
-    "private_path": "/mnt/agent/narrator-runs/codex-spanish-pilot/native-reference-candidates.json",
+    "private_path": "narrator-runs/codex-spanish-pilot/native-reference-candidates.json",
     "sha256_at_review": "9aa0954bdd823eeb52e587e7af2f5bc520f2abd606e31810d502c7fce172e30f",
     "status": "Candidate source clips only; no voices registered, no taster synthesized. Conditioning-text and scope approval remain production-owned holds.",
     "ownership": "/root/french_production",
     "note": "Source confirmed un crack and empezamos como are reflected in the learner draft; no new model pass was launched by the author to make these changes."
+  },
+  "learn": {
+    "file": "learn/es-en/name-and-job.json",
+    "source_scene_examples": [
+      1,
+      2,
+      8,
+      12
+    ],
+    "focus": "Name and profession introductions, omitted indefinite article in a simple job description, contrasting source activity-classification sentence."
+  },
+  "art": {
+    "file": "out/paquita-salas/s01e01/scene-01.webp",
+    "sha256": "d68e02c9a4ff7a369f01d9ebec7ad19471d6e90e388e5d1b28e7c518be431a44",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 53748,
+    "method": "Built-in imagegen using inspected house style and actual opening frames; synthetic cartoon, no original media published.",
+    "proof_path": "pilot-source-discovery/spanish-pilot/art-proof.json",
+    "prompt_path": "pilot-source-discovery/spanish-pilot/art-prompt.txt",
+    "visually_reviewed": true
   }
 }
