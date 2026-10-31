@@ -350,11 +350,11 @@
       "words": [
         {
           "t": "Parce",
-          "lemma": "parce que",
+          "lemma": "parce",
           "pos": "conj",
           "stress": "paʁs",
-          "gloss": "because (first part)",
-          "gram": "conjunction in two words"
+          "gloss": "because",
+          "gram": "first written component of the conjunction parce que; used with que"
         },
         {
           "t": "que",
@@ -1392,11 +1392,11 @@
       "words": [
         {
           "t": "Parce",
-          "lemma": "parce que",
+          "lemma": "parce",
           "pos": "conj",
           "stress": "paʁs",
-          "gloss": "because (first part)",
-          "gram": "conjunction in two words"
+          "gloss": "because",
+          "gram": "first written component of the conjunction parce que; used with que"
         },
         {
           "t": "que",
@@ -2434,11 +2434,11 @@
       "words": [
         {
           "t": "Parce",
-          "lemma": "parce que",
+          "lemma": "parce",
           "pos": "conj",
           "stress": "paʁs",
-          "gloss": "because (first part)",
-          "gram": "conjunction in two words"
+          "gloss": "because",
+          "gram": "first written component of the conjunction parce que; used with que"
         },
         {
           "t": "que",
@@ -5549,31 +5549,6 @@
       "gender": "f",
       "plural": "nuits"
     },
-    "parce que": {
-      "lemma": "parce que",
-      "stress": "paʁskə",
-      "pos": "conj",
-      "gloss": "because",
-      "meanings": [
-        {
-          "en": "because",
-          "note": "Parce qu' before a vowel. French conjunction meaning 'because', used to link clauses in spoken and written discourse."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Parce que tu ne peux pas.",
-          "trans": "Because you can't."
-        },
-        {
-          "text": "Parce qu'il est marié.",
-          "trans": "Because he's married."
-        }
-      ],
-      "related": []
-    },
     "pas": {
       "lemma": "pas",
       "stress": "pa",
@@ -7953,6 +7928,31 @@
           "gloss": "me"
         }
       ]
+    },
+    "parce": {
+      "lemma": "parce",
+      "stress": "paʁs",
+      "pos": "conj",
+      "gloss": "because (with que)",
+      "meanings": [
+        {
+          "en": "first written component of parce que: because",
+          "note": "This component is not used on its own with this meaning. Before a following vowel, que becomes qu'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je pars parce que je suis fatigué.",
+          "trans": "I am leaving because I am tired."
+        },
+        {
+          "text": "Parce qu'il pleut, on reste ici.",
+          "trans": "Because it is raining, we are staying here."
+        }
+      ],
+      "related": []
     }
   }
 }

@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello?' This is the special greeting used when answering a telephone. It does not tell us yet whether the call is genuine.
-- 'Yes, yes.' Repeating yes makes his answer sound like an ongoing conversation with the caller. It helps the pretence before he gives a reason to leave.
+- 'Yes, yes.' Repeating the word for yes makes a series of quick acknowledgements, rather than a single answer. He sounds as if he is listening to several things from the caller.
 - 'Okay, I'm on my way.' The present action literally says I arrive. French uses it when promising to come immediately, even before reaching a destination.
 - 'Yes, right away.' The final three words mean immediately. Together they work as a fixed expression about time, rather than a sequence to translate word by word.
 - 'A mate in trouble.' Mate is a familiar word for a friend. The expression for trouble describes being in a difficult situation; he uses it as an excuse.
