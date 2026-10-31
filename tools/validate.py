@@ -12,7 +12,7 @@
 Exit 0 = clean, 1 = errors. Warnings (e.g. subtitle gaps) are printed but pass unless --strict.
 Checks: spec/*.md describes each rule; FEEDBACK.md "P-1" describes the cast, narrator-name and explanation rules.
 """
-import hashlib, json, re, sys
+import hashlib, json, re, sys, unicodedata
 from pathlib import Path
 
 SCHEMA_DIR = Path(__file__).resolve().parents[1] / "spec" / "schema"
@@ -211,7 +211,8 @@ def target_ok(lang, text, where, rep):
         if lang in ("fr", "es") and ("«" in text or "»" in text): rep.err(where, "guillemets in a spoken line")
 
         native = {"ja": r"[\u3040-\u30ff\u3400-\u9fff]", "zh": r"[\u3400-\u9fff]", "ko": r"[\uac00-\ud7a3\u1100-\u11ff]", "ar": r"[\u0620-\u064a\u066e-\u06d3]"}.get(lang)
-        if native and not re.search(native, text): rep.err(where, f"{name} line has no native-script letters: {text[:50]!r}")
+        if native and not any(re.search(native, ch) and unicodedata.category(ch).startswith("L") and ch not in "ـー" for ch in text):
+            rep.err(where, f"{name} line has no native-script letters: {text[:50]!r}")
 
 
 def check_script(path, lang, rep, expect_id=None, cast=None):
