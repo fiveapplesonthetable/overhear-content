@@ -39,6 +39,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I worked very late.' The everyday past again: 'have' plus 'worked'.
 - 'And I fixed her favourite blouse.' The same past pattern with the verb 'to repair'. She's getting into her stride.
 - 'So she wanted to thank me.' The first word, meaning 'so', links the cause and the result. Then she adds one more thing.
-- 'And I gave her a recipe for pistou.' Pistou is a basil sauce from the south of France, where Camille comes from. A nice touch, and completely made up. She wraps it up.
+- 'And I gave her a recipe for basil sauce.' The sauce comes from the south of France, where Camille grew up. A nice touch, and completely made up. She wraps it up.
 - 'It must be for that.' The verb 'must' here shows a guess, the same way it does in English. Hervé has heard enough.
 - 'I hate you.' In this context the strong words express a colleague's exaggerated jealousy. The small word before the action identifies the person being addressed. Now the whole scene once more.
