@@ -13,20 +13,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Andréa | Bonjour! Salut, Mathias. | Morning! Hi, Mathias. | #74 00:04:52: Bonjour<br>#75 00:04:55: Salut, Mathias | verbatim |
 | 2 | Mathias | Oui, trois cent mille. Je parle de ses vingt ans de carrière. | Yes, three hundred thousand. I'm talking about his twenty years in the business. | #75 00:04:55: Oui, 300 000<br>#78 00:05:02: Je parle de ses 20 ans de carrière | adapted: Digits written as words for speech. |
 | 3 | Andréa | Magali, je dois voir la pièce de Koltès cette semaine. | Magali, I have to see the Koltès play this week. | #79 00:05:04: Je dois voir la pièce de Koltès cette semaine | verbatim |
-| 4 | Magali | Deux places pour mardi? Mardi, tu as le film de Kechiche. | Two tickets for Tuesday? On Tuesday you've got the Kechiche film. | #80 00:05:07: Deux places pour mardi<br>#81 00:05:09: Mardi tu as le film de Kechiche | verbatim |
-| 5 | Andréa | Jeudi, alors. | Thursday, then. | #82 00:05:11: Jeudi, alors | verbatim |
-| 6 | Magali | Et demain, tu déjeunes avec Audiard. | And tomorrow you're having lunch with Audiard. | #83 00:05:13: déjeuner avec Audiard<br>#83 00:05:13: demain | verbatim |
-| 7 | Andréa | Je prends ça. Merci. | I'll take that. Thanks. | #84 00:05:16: Je prends ça. Merci | verbatim |
-| 8 | Magali | Tu déjeunes aussi avec Dany Boon demain. | You're also having lunch with Dany Boon tomorrow. | #85 00:05:17: Tu déjeunes avec Dany Boon demain | verbatim |
-| 9 | Andréa | Tu es pénible, Magali. | You're a pain, Magali. | #86 00:05:20: Tu es pénible, Magali | verbatim |
-| 10 | Andréa | L'un à midi, l'autre à quatorze heures. Je vais déjeuner deux fois. | One at noon, the other at two. I'm going to have lunch twice. | #89 00:05:28: l'un à midi, l'autre à quatorze heures<br>#89 00:05:28: deux fois | verbatim |
-| 11 | Andréa | Appelle Clémentine. Dis-lui que je ne peux pas venir ce soir. | Call Clementine. Tell her I can't come tonight. | #90 00:05:32: Appelle Clémentine<br>#90 00:05:32: dis-lui que je ne peux pas venir ce soir | verbatim |
-| 12 | Magali | Clémentine? Celle de la semaine dernière? | Clémentine? The one from last week? | #91 00:05:36: Clémentine ? Celle de la semaine dernière ? | verbatim |
-| 13 | Andréa | Il y a une autre Clémentine? | Is there another Clémentine? | #91 00:05:36: une autre Clémentine | verbatim |
-| 14 | Magali | Qu'est-ce que je lui dis? | What do I tell her? | #94 00:05:44: Qu'est-ce que je lui dis ? | verbatim |
-| 15 | Andréa | Je ne sais pas. Trouve quelque chose. | I don't know. Think of something. | #93 00:05:43: Je ne sais pas<br>#97 00:05:54: Trouve quelque chose | verbatim |
-| 16 | Andréa | Dis que j'ai une réunion. Improvise! | Say I've got a meeting. Improvise! | #98 00:05:57: une réunion<br>#98 00:05:57: Improvise ! | verbatim |
-| 17 | Mathias | Gabriel. Tu ne rappelles pas Cécile de France? | Gabriel. Aren't you calling Cécile de France back? | #99 00:06:00: Gabriel.<br>#100 00:06:01: Tu ne rappelles pas Cécile de France ? | verbatim |
+| 4 | Andréa | Deux places pour mardi? | Two tickets for Tuesday? | #80 00:05:07: Deux places pour mardi | verbatim |
+| 5 | Magali | Mardi, tu as le film de Kechiche. | On Tuesday you've got the Kechiche film. | #81 00:05:09: Mardi tu as le film de Kechiche | verbatim |
+| 6 | Andréa | Jeudi, alors. | Thursday, then. | #82 00:05:11: Jeudi, alors | verbatim |
+| 7 | Magali | Et demain, tu déjeunes avec Audiard. | And tomorrow you're having lunch with Audiard. | #83 00:05:13: déjeuner avec Audiard<br>#83 00:05:13: demain | verbatim |
+| 8 | Andréa | Je prends ça. Merci. | I'll take that. Thanks. | #84 00:05:16: Je prends ça. Merci | verbatim |
+| 9 | Magali | Tu déjeunes aussi avec Dany Boon demain. | You're also having lunch with Dany Boon tomorrow. | #85 00:05:17: Tu déjeunes avec Dany Boon demain | verbatim |
+| 10 | Andréa | Tu es pénible, Magali. | You're a pain, Magali. | #86 00:05:20: Tu es pénible, Magali | verbatim |
+| 11 | Andréa | L'un à midi, l'autre à quatorze heures. Je vais déjeuner deux fois. | One at noon, the other at two. I'm going to have lunch twice. | #89 00:05:28: l'un à midi, l'autre à quatorze heures<br>#89 00:05:28: deux fois | verbatim |
+| 12 | Andréa | Appelle Clémentine. Dis-lui que je ne peux pas venir ce soir. | Call Clementine. Tell her I can't come tonight. | #90 00:05:32: Appelle Clémentine<br>#90 00:05:32: dis-lui que je ne peux pas venir ce soir | verbatim |
+| 13 | Magali | Clémentine? Celle de la semaine dernière? | Clémentine? The one from last week? | #91 00:05:36: Clémentine ? Celle de la semaine dernière ? | verbatim |
+| 14 | Andréa | Il y a une autre Clémentine? | Is there another Clémentine? | #91 00:05:36: une autre Clémentine | verbatim |
+| 15 | Magali | Qu'est-ce que je lui dis? | What do I tell her? | #94 00:05:44: Qu'est-ce que je lui dis ? | verbatim |
+| 16 | Andréa | Je ne sais pas. Trouve quelque chose. | I don't know. Think of something. | #93 00:05:43: Je ne sais pas<br>#97 00:05:54: Trouve quelque chose | verbatim |
+| 17 | Andréa | Dis que j'ai une réunion. Improvise! | Say I've got a meeting. Improvise! | #98 00:05:57: une réunion<br>#98 00:05:57: Improvise ! | verbatim |
+| 18 | Andréa | Gabriel. Tu ne rappelles pas Cécile de France? | Gabriel. Aren't you calling Cécile de France back? | #99 00:06:00: Gabriel.<br>#100 00:06:01: Tu ne rappelles pas Cécile de France ? | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
