@@ -126,7 +126,7 @@ WALK = [(0,
   'healthy. Hervé is exaggerating to tease Camille, rather than giving her medical advice.'),
  (6,
   None,
-  "'And I'm not going to meet anyone here.' The near future again, made negative: the two little negative "
+  "'And I'm not going to meet anyone here.' The near future, made negative: the two little negative "
   "words go around 'to go'."),
  (7,
   None,

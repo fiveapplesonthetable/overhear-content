@@ -38,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We don't have one.' The short word between the negative and have refers back to a life. English says one here. Reusing that small word lets Hervé answer without repeating the whole question.
 - 'I've been on my own for three months.' French uses the present tense with this word for 'since' or 'for': literally 'I am alone since three months'. In the show she puts it far more bluntly.
 - 'Three months, Camille! It's unhealthy.' Unhealthy contains a beginning meaning bad and an ending meaning healthy. Hervé is exaggerating to tease Camille, rather than giving her medical advice.
-- 'And I'm not going to meet anyone here.' The near future again, made negative: the two little negative words go around 'to go'.
+- 'And I'm not going to meet anyone here.' The near future, made negative: the two little negative words go around 'to go'.
 - 'I'm walking up. Are you coming?' Literally 'I go up on foot'. Hervé takes the stairs, and they use the casual 'you', like all the assistants.
 - 'No way!' Literally 'out of the question'. Camille takes the lift, and Mathias steps in.
 - 'What's going to happen now?' The opening what asks about the thing that will happen. The verb for go followed by happen points ahead, while now connects the question to Samuel's death and the future of the agency.
