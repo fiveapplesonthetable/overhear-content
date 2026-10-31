@@ -83,7 +83,7 @@ STORY = [('camille',
 WALK = [(0,
   None,
   "'Are you Mathias Barneville's assistant?' Notice how it's built: you are, the assistant, of Mathias. "
-  "French has no apostrophe-s for owners; it uses a little word meaning 'of'. Noémie answers at once."),
+  "French marks ownership with a separate word meaning 'of', rather than with the English possessive ending. Noémie answers at once."),
  (1,
   'Il est très sympa.',
   "'He's very nice.' The last word is a short, friendly way of saying 'nice' or 'likeable'. Hervé doesn't "
