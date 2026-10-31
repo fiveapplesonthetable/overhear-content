@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Andréa | Non, c'est la place de Samuel. Il est mort il y a six jours. | No, it's Samuel's place. He died six days ago. | #100 00:05:25: Non, c'est la place de Samuel. Il est mort il y a six jours | verbatim |
 | 4 | Mathias | Ne perdons pas de temps sur les détails. | Let's not waste time on details. | #106 00:05:46: Ne perdons pas de temps sur les détails | verbatim |
 | 5 | Mathias | Nous avons des problèmes urgents. À commencer par les clients de Samuel. | We have urgent problems. Starting with Samuel's clients. | #107 00:05:48: Nous avons des problèmes urgents<br>#108 00:05:51: À commencer par les clients de Samuel | verbatim |
-| 6 | Mathias | Si ça se sait, ils vont partir. | If word gets out, they'll leave. | #119 00:06:18: Si ça se sait, ils vont partir | verbatim |
+| 6 | Andréa | Si ça se sait, ils vont partir. | If word gets out, they'll leave. | #119 00:06:18: Si ça se sait, ils vont partir | adapted: Drops en masse from the end of the original warning. |
 | 7 | Mathias | Voici ce que je propose. | Here's what I suggest. | #121 00:06:27: Voici ce que je propose | verbatim |
 | 8 | Andréa | Un tableau Excel avec ce que gagne chaque personne? | A spreadsheet with what each person earns? | #123 00:06:35: Un tableau Excel avec ce que gagne chaque personne ? | verbatim |
 | 9 | Mathias | Exactement. | Exactly. | #124 00:06:38: Exactement | verbatim |
