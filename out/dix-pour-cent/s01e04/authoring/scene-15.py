@@ -10,7 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'audrey': 'Audrey', 'augustin': 'Augustin', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "At that very moment Mathias steps outside, phones François at the rival agency StarMédia to accept his offer, and is overheard by a heartbroken Noémie. Back inside Mathias's office, Augustin reveals a detail of the shoot that Mathias carefully hid from Audrey. Listen to the French first; you don't need to catch every word."
+INTRO = ('While Audrey meets Augustin, Mathias phones the rival agency StarMédia and accepts its offer. Back in the '
+ 'office, Augustin reveals a detail of the shoot that Mathias has not mentioned to Audrey. Listen in French '
+ 'first; then we will unpack the conversation.')
 OPENER = "Let's go through it step by step. Augustin is delighted that Audrey likes his script, and starts talking about the shooting schedule."
 TRANSITION = "Now let's listen to the whole scene again."
 OUTRO = 'So Gabriel has won Sofia an audition, while Audrey has just learned that the role means a month in Canada. And Augustin still has one more question for her: can she really pole dance? See you next time!'
@@ -33,21 +35,55 @@ STORY = [
     ('gabriel', 'Je peux vous proposer Sofia Leprince pour jouer la comtesse.', 'I can suggest Sofia Leprince to play the countess.', [(382, 'je peux'), (382, 'vous envoyer Sofia Leprince'), (383, 'pour jouer le rôle de la comtesse')], ''),
     ('gabriel', "C'est parfait! À bientôt.", "That's perfect! See you soon.", [(384, "C'est parfait"), (385, 'À bientôt')], ''),
 ]
-WALK = [
-    (0, None, "'I'm very pleased too.' Literally 'me too, I am very pleased', in the masculine form."),
-    (1, None, "'We're going to shoot the Canadian part first.' The verb for filming a movie is the same as the verb 'to turn'."),
-    (2, None, "'What Canadian part?' This question word at the start is in its feminine form to match 'part'."),
-    (3, None, "'A month of filming in Canada. Didn't Mathias tell you?' Before a masculine country name like Canada, French uses the combined word for 'to the'."),
-    (4, None, "'No, he forgot.' Audrey covers for Mathias, though she is privately furious that he hid a whole month abroad."),
-    (5, None, "'I'll explain to you now. It's in the north, near the lakes.' French uses the present tense here where English says 'I will explain'."),
-    (6, None, "'The landscape is magnificent!' Augustin is carried away by his artistic vision."),
-    (7, None, "'Sorry, but there are incredible places around Paris.' Audrey cannot bear the thought of leaving her babies for a month."),
-    (8, None, "'Do you know Rambouillet? There are big forests there too!' Rambouillet is a wooded town just outside Paris."),
-    (9, None, "'The film tells the story of my mother's life, and she's Canadian.' That settles the question of filming near Paris."),
-    (10, None, "'Oh, I see.' Three simple words when you finally understand."),
-    (11, None, "'So I really want to shoot over there.' The hyphenated word at the end means 'over there'."),
-    (12, None, "'Yes, of course.' Meanwhile, in the next office, Gabriel is pitching Sofia to a director making an eighteenth-century costume film."),
-    (13, None, "'I'm not saying to replace Julie Gayet with a Black actress.' Here, Julie Gayet is a well-known French star."),
-    (14, None, "'I can suggest Sofia Leprince to play the countess.' Gabriel tries to get Sofia a noble part."),
-    (15, None, "'That's perfect! See you soon.' The director agrees to see her, and Gabriel is thrilled."),
-]
+WALK = [(0, None, "'I'm very pleased too.' Literally 'me too, I am very pleased', in the masculine form."),
+ (1,
+  None,
+  "'We're going to shoot the Canadian part first.' The verb for filming a movie is the same as the verb 'to "
+  "turn'."),
+ (2, None, "'What Canadian part?' This question word at the start is in its feminine form to match 'part'."),
+ (3,
+  None,
+  "'A month of filming in Canada. Didn't Mathias tell you?' For being in a masculine country such as Canada, "
+  "French uses the combined form of 'at' and 'the'. The short object before 'has told' refers to this news."),
+ (4,
+  None,
+  "'No, he forgot.' Two short forms make the past action: 'he has', then 'forgotten'. Audrey simplifies the "
+  'awkward explanation rather than saying Mathias intentionally hid the trip.'),
+ (5,
+  None,
+  "'I'll explain to you now. It's in the north, near the lakes.' French uses the present tense here where English "
+  "says 'I will explain'."),
+ (6,
+  None,
+  "'The landscape is magnificent!' The word for landscape is masculine, so it takes the masculine article meaning "
+  "'the'. The describing word sounds and looks the same for either gender."),
+ (7,
+  None,
+  "'Sorry, but there are incredible places around Paris.' The expression for 'there are' stays the same even with "
+  'several places. Audrey proposes a location closer to her children.'),
+ (8,
+  None,
+  "'Do you know Rambouillet? There are big forests there too!' Before a plural describing word and its noun, the "
+  "article meaning 'some' shortens. Listen for the brief sound before 'big forests'."),
+ (9,
+  None,
+  "'The film tells the story of my mother's life, and she's Canadian.' The possessive before 'mother' is feminine "
+  'because it agrees with that family word. The nationality describing his mother is feminine too.'),
+ (10, None, "'Oh, I see.' Three simple words when you finally understand."),
+ (11, None, "'So I really want to shoot over there.' The hyphenated word at the end means 'over there'."),
+ (12,
+  None,
+  "'Yes, of course.' The two-word expression after 'yes' strengthens Audrey's agreement. We then move to "
+  "Gabriel's office, where he is proposing Sofia for another film."),
+ (13,
+  None,
+  "'I'm not saying to replace Julie Gayet with a Black actress.' To replace someone uses a short word meaning "
+  "'by' or 'with' before the replacement. Gabriel is proposing a different role for Sofia."),
+ (14,
+  None,
+  "'I can suggest Sofia Leprince to play the countess.' The verb meaning 'can' takes a plain action after it: "
+  "'suggest'. Later, the short word before 'play' gives the purpose of the suggestion."),
+ (15,
+  None,
+  "'That's perfect! See you soon.' The farewell literally points to a future meeting, 'until soon'. You can use "
+  'the same short phrase after making an arrangement by phone.')]

@@ -107,6 +107,28 @@ class T(unittest.TestCase):
                                       "summary": "s", "characters": [], "location": "x", "merge": "prev"})
         self.assertEqual(self.errs(), [])
 
+    def test_merged_transition_cues_belong_to_lesson(self):
+        # The example story uses cues 76 onwards. Split that source stretch
+        # across an explicitly merged neighbour, then verify both directions.
+        for direction in ("prev", "next"):
+            with self.subTest(direction=direction):
+                first = copy.deepcopy(self.scenes["scenes"][0])
+                first.update(end="00:10:00,000", merge="next" if direction == "next" else None)
+                second = dict(first, scene=2, start="00:10:00,000", end="00:24:11,000",
+                              merge="prev" if direction == "prev" else None)
+                self.scenes["scenes"] = [first, second]
+                self.write()
+                if direction == "next":
+                    script = copy.deepcopy(self.script)
+                    script.update(id="kukhnya-s01e02-scene-02", scene=2)
+                    (self.ep / "scene-02.json").write_text(json.dumps(script, ensure_ascii=False))
+                    shutil.copy(EX / "art.webp", self.ep / "scene-02.webp")
+                self.assertEqual(run(self.ep).errors, [])
+        # Removing the merge relationship must still reject those same cues.
+        self.scenes["scenes"][0]["merge"] = None
+        self.write()
+        self.assertTrue(any("source cues lie outside" in e for e in run(self.ep).errors))
+
     def test_notes_stray_acute(self):
         n = json.loads((EX / "scene.notes.json").read_text(encoding="utf-8"))
         n["lines"][0]["trans"] = "Chef́"
@@ -320,7 +342,7 @@ class T(unittest.TestCase):
         cue = self.script["source"]["lines"][0]["cue"]
         start = v.parse_srt(ROOT / self.script["source"]["file"])[cue][0]
         self.scenes["scenes"][0]["start"] = v.fmt(start + 60)      # scene now begins after the cue it cites
-        self.assertTrue(any("outside this scene's time range" in e for e in self.errs()))
+        self.assertTrue(any("outside this lesson's scene and merged source ranges" in e for e in self.errs()))
 
     def test_lexicon_must_agree_across_scenes(self):
         v.LEX_SEEN.clear()

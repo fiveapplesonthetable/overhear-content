@@ -66,15 +66,15 @@
           "pos": "verb",
           "stress": "vø",
           "gloss": "want",
-          "gram": "present, 1st person singular"
+          "gram": "present, 2nd person singular; vouloir dire = mean"
         },
         {
           "t": "dire",
           "lemma": "dire",
           "pos": "verb",
           "stress": "diʁ",
-          "gloss": "say",
-          "gram": "infinitive after pouvoir"
+          "gloss": "say (in the expression: mean)",
+          "gram": "infinitive after vouloir; vouloir dire = mean"
         },
         {
           "t": "trop",
@@ -140,11 +140,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle",
@@ -182,14 +182,14 @@
     },
     {
       "seg": 4,
-      "trans": "She",
+      "trans": "She's too white? But she has talent!",
       "words": [
         {
           "t": "Elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
@@ -197,8 +197,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "trop",
@@ -229,16 +229,16 @@
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present, 3rd person singular; have talent"
         },
         {
           "t": "du",
@@ -280,11 +280,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle",
@@ -343,8 +343,6 @@
       ]
     },
     {
-      "seg": 7,
-      "trans": "Sofia, everyone thinks you",
       "words": [
         {
           "t": "Sofia,",
@@ -356,43 +354,43 @@
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular determiner; tout le monde = everyone"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "masculine singular article; tout le monde = everyone"
         },
         {
           "t": "monde",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "monde",
+          "pos": "noun",
           "stress": "mɔ̃d",
-          "gloss": "world (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "people, world",
+          "gram": "masculine singular; tout le monde = everyone"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Sofia"
         },
         {
           "t": "trouve",
           "lemma": "trouver",
           "pos": "verb",
           "stress": "tʁuv",
-          "gloss": "find, think of",
-          "gram": "imperative, 2nd person singular"
+          "gloss": "finds, thinks ... is",
+          "gram": "present, 3rd person singular; subject tout le monde takes a singular verb"
         },
         {
           "t": "fantastique.",
@@ -402,11 +400,13 @@
           "gloss": "fantastic",
           "gram": "singular, same form for both genders"
         }
-      ]
+      ],
+      "seg": 7,
+      "trans": "Sofia, everyone thinks you're fantastic."
     },
     {
       "seg": 8,
-      "trans": "Fantastic? Then why don",
+      "trans": "Fantastic? Then why don't I get a part?",
       "words": [
         {
           "t": "Fantastique?",
@@ -461,8 +461,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "any",
+          "gram": "indefinite article reduced to de after a negative"
         },
         {
           "t": "rôle?",
@@ -475,24 +475,22 @@
       ]
     },
     {
-      "seg": 9,
-      "trans": "You",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to Sofia"
         },
         {
-          "t": "commences",
+          "t": "commencez",
           "lemma": "commencer",
           "pos": "verb",
-          "stress": "kɔmɑ̃s",
+          "stress": "kɔmɑ̃se",
           "gloss": "are starting out",
-          "gram": "present, 2nd person singular"
+          "gram": "present, polite/plural address"
         },
         {
           "t": "juste.",
@@ -534,7 +532,9 @@
           "gloss": "normal, natural",
           "gram": "masculine singular with 'c'est'"
         }
-      ]
+      ],
+      "seg": 9,
+      "trans": "You're just starting out. Rejections are normal."
     },
     {
       "seg": 10,
@@ -567,40 +567,38 @@
       ]
     },
     {
-      "seg": 11,
-      "trans": "Do you know how many auditions Cécile de France failed?",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to Sofia"
         },
         {
-          "t": "sais",
+          "t": "savez",
           "lemma": "savoir",
           "pos": "verb",
-          "stress": "sɛ",
+          "stress": "save",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, polite/plural address"
         },
         {
           "t": "combien",
           "lemma": "combien",
           "pos": "adv",
           "stress": "kɔ̃bjɛ̃",
-          "gloss": "how much",
-          "gram": "question / exclamation word"
+          "gloss": "how many",
+          "gram": "question word before a countable plural"
         },
         {
           "t": "d'auditions",
           "lemma": "audition",
           "pos": "noun",
           "stress": "dodisjɔ̃",
-          "gloss": "any auditions",
-          "gram": "de (elided d', after negative 'personne ne') + auditions (feminine plural)"
+          "gloss": "auditions (after how many)",
+          "gram": "de + auditions, feminine plural; combien de = how many"
         },
         {
           "t": "Cécile",
@@ -613,26 +611,26 @@
         {
           "t": "de",
           "lemma": "de",
-          "pos": "prep",
+          "pos": "name",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "de (in Cécile de France)",
+          "gram": "part of the actress’s proper name"
         },
         {
           "t": "France",
           "lemma": "cécile de france",
           "pos": "name",
-          "stress": null,
-          "gloss": "France (part of the name)",
-          "gram": "part of the actress's name"
+          "stress": "fʁɑ̃s",
+          "gloss": "France (surname)",
+          "gram": "part of the actress’s proper name"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has (helping verb)",
+          "gram": "present, 3rd person singular; helping verb in a ratées"
         },
         {
           "t": "ratées?",
@@ -640,12 +638,28 @@
           "pos": "verb",
           "stress": "ʁate",
           "gloss": "failed, missed",
-          "gram": "past participle of 'rater' used as adjective, feminine plural"
+          "gram": "past participle, feminine plural; agrees with the preceding auditions"
         }
-      ]
+      ],
+      "seg": 11,
+      "trans": "Do you know how many auditions Cécile de France failed?"
     },
     {
+      "words": [
+        {
+          "t": "Trois.",
+          "lemma": "trois",
+          "pos": "num",
+          "stress": "tʁwa",
+          "gloss": "three",
+          "gram": "cardinal number, answer to a counting question"
+        }
+      ],
       "seg": 12,
+      "trans": "Three."
+    },
+    {
+      "seg": 13,
       "trans": "Three?",
       "words": [
         {
@@ -655,60 +669,6 @@
           "stress": "tʁwa",
           "gloss": "three",
           "gram": "cardinal number"
-        }
-      ]
-    },
-    {
-      "seg": 13,
-      "trans": "Er, yes, three. But hang in there, Sofia!",
-      "words": [
-        {
-          "t": "Euh,",
-          "lemma": "euh",
-          "pos": "interj",
-          "stress": "ø",
-          "gloss": "er",
-          "gram": "hesitation sound"
-        },
-        {
-          "t": "oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "trois.",
-          "lemma": "trois",
-          "pos": "num",
-          "stress": "tʁwa",
-          "gloss": "three",
-          "gram": "cardinal number"
-        },
-        {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "courage,",
-          "lemma": "courage",
-          "pos": "noun",
-          "stress": "kuʁaʒ",
-          "gloss": "courage, bravery",
-          "gram": "masculine singular; bon courage = good luck"
-        },
-        {
-          "t": "Sofia!",
-          "lemma": "sofia",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Sofia",
-          "gram": "proper noun ('Sofia')"
         }
       ]
     },
@@ -776,15 +736,15 @@
           "pos": "verb",
           "stress": "vø",
           "gloss": "want",
-          "gram": "present, 1st person singular"
+          "gram": "present, 2nd person singular; vouloir dire = mean"
         },
         {
           "t": "dire",
           "lemma": "dire",
           "pos": "verb",
           "stress": "diʁ",
-          "gloss": "say",
-          "gram": "infinitive after pouvoir"
+          "gloss": "say (in the expression: mean)",
+          "gram": "infinitive after vouloir; vouloir dire = mean"
         },
         {
           "t": "trop",
@@ -850,11 +810,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle",
@@ -892,14 +852,14 @@
     },
     {
       "seg": 21,
-      "trans": "She",
+      "trans": "She's too white? But she has talent!",
       "words": [
         {
           "t": "Elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
@@ -907,8 +867,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "trop",
@@ -939,16 +899,16 @@
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present, 3rd person singular; have talent"
         },
         {
           "t": "du",
@@ -990,11 +950,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle",
@@ -1053,8 +1013,6 @@
       ]
     },
     {
-      "seg": 27,
-      "trans": "Sofia, everyone thinks you",
       "words": [
         {
           "t": "Sofia,",
@@ -1066,43 +1024,43 @@
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular determiner; tout le monde = everyone"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "masculine singular article; tout le monde = everyone"
         },
         {
           "t": "monde",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "monde",
+          "pos": "noun",
           "stress": "mɔ̃d",
-          "gloss": "world (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "people, world",
+          "gram": "masculine singular; tout le monde = everyone"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Sofia"
         },
         {
           "t": "trouve",
           "lemma": "trouver",
           "pos": "verb",
           "stress": "tʁuv",
-          "gloss": "find, think of",
-          "gram": "imperative, 2nd person singular"
+          "gloss": "finds, thinks ... is",
+          "gram": "present, 3rd person singular; subject tout le monde takes a singular verb"
         },
         {
           "t": "fantastique.",
@@ -1112,11 +1070,13 @@
           "gloss": "fantastic",
           "gram": "singular, same form for both genders"
         }
-      ]
+      ],
+      "seg": 27,
+      "trans": "Sofia, everyone thinks you're fantastic."
     },
     {
       "seg": 29,
-      "trans": "Fantastic? Then why don",
+      "trans": "Fantastic? Then why don't I get a part?",
       "words": [
         {
           "t": "Fantastique?",
@@ -1171,8 +1131,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "any",
+          "gram": "indefinite article reduced to de after a negative"
         },
         {
           "t": "rôle?",
@@ -1185,24 +1145,22 @@
       ]
     },
     {
-      "seg": 31,
-      "trans": "You",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to Sofia"
         },
         {
-          "t": "commences",
+          "t": "commencez",
           "lemma": "commencer",
           "pos": "verb",
-          "stress": "kɔmɑ̃s",
+          "stress": "kɔmɑ̃se",
           "gloss": "are starting out",
-          "gram": "present, 2nd person singular"
+          "gram": "present, polite/plural address"
         },
         {
           "t": "juste.",
@@ -1244,7 +1202,9 @@
           "gloss": "normal, natural",
           "gram": "masculine singular with 'c'est'"
         }
-      ]
+      ],
+      "seg": 31,
+      "trans": "You're just starting out. Rejections are normal."
     },
     {
       "seg": 33,
@@ -1277,40 +1237,38 @@
       ]
     },
     {
-      "seg": 35,
-      "trans": "Do you know how many auditions Cécile de France failed?",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to Sofia"
         },
         {
-          "t": "sais",
+          "t": "savez",
           "lemma": "savoir",
           "pos": "verb",
-          "stress": "sɛ",
+          "stress": "save",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, polite/plural address"
         },
         {
           "t": "combien",
           "lemma": "combien",
           "pos": "adv",
           "stress": "kɔ̃bjɛ̃",
-          "gloss": "how much",
-          "gram": "question / exclamation word"
+          "gloss": "how many",
+          "gram": "question word before a countable plural"
         },
         {
           "t": "d'auditions",
           "lemma": "audition",
           "pos": "noun",
           "stress": "dodisjɔ̃",
-          "gloss": "any auditions",
-          "gram": "de (elided d', after negative 'personne ne') + auditions (feminine plural)"
+          "gloss": "auditions (after how many)",
+          "gram": "de + auditions, feminine plural; combien de = how many"
         },
         {
           "t": "Cécile",
@@ -1323,26 +1281,26 @@
         {
           "t": "de",
           "lemma": "de",
-          "pos": "prep",
+          "pos": "name",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "de (in Cécile de France)",
+          "gram": "part of the actress’s proper name"
         },
         {
           "t": "France",
           "lemma": "cécile de france",
           "pos": "name",
-          "stress": null,
-          "gloss": "France (part of the name)",
-          "gram": "part of the actress's name"
+          "stress": "fʁɑ̃s",
+          "gloss": "France (surname)",
+          "gram": "part of the actress’s proper name"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has (helping verb)",
+          "gram": "present, 3rd person singular; helping verb in a ratées"
         },
         {
           "t": "ratées?",
@@ -1350,12 +1308,28 @@
           "pos": "verb",
           "stress": "ʁate",
           "gloss": "failed, missed",
-          "gram": "past participle of 'rater' used as adjective, feminine plural"
+          "gram": "past participle, feminine plural; agrees with the preceding auditions"
         }
-      ]
+      ],
+      "seg": 35,
+      "trans": "Do you know how many auditions Cécile de France failed?"
     },
     {
+      "words": [
+        {
+          "t": "Trois.",
+          "lemma": "trois",
+          "pos": "num",
+          "stress": "tʁwa",
+          "gloss": "three",
+          "gram": "cardinal number, answer to a counting question"
+        }
+      ],
       "seg": 37,
+      "trans": "Three."
+    },
+    {
+      "seg": 39,
       "trans": "Three?",
       "words": [
         {
@@ -1365,60 +1339,6 @@
           "stress": "tʁwa",
           "gloss": "three",
           "gram": "cardinal number"
-        }
-      ]
-    },
-    {
-      "seg": 39,
-      "trans": "Er, yes, three. But hang in there, Sofia!",
-      "words": [
-        {
-          "t": "Euh,",
-          "lemma": "euh",
-          "pos": "interj",
-          "stress": "ø",
-          "gloss": "er",
-          "gram": "hesitation sound"
-        },
-        {
-          "t": "oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "trois.",
-          "lemma": "trois",
-          "pos": "num",
-          "stress": "tʁwa",
-          "gloss": "three",
-          "gram": "cardinal number"
-        },
-        {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "courage,",
-          "lemma": "courage",
-          "pos": "noun",
-          "stress": "kuʁaʒ",
-          "gloss": "courage, bravery",
-          "gram": "masculine singular; bon courage = good luck"
-        },
-        {
-          "t": "Sofia!",
-          "lemma": "sofia",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Sofia",
-          "gram": "proper noun ('Sofia')"
         }
       ]
     },
@@ -1486,15 +1406,15 @@
           "pos": "verb",
           "stress": "vø",
           "gloss": "want",
-          "gram": "present, 1st person singular"
+          "gram": "present, 2nd person singular; vouloir dire = mean"
         },
         {
           "t": "dire",
           "lemma": "dire",
           "pos": "verb",
           "stress": "diʁ",
-          "gloss": "say",
-          "gram": "infinitive after pouvoir"
+          "gloss": "say (in the expression: mean)",
+          "gram": "infinitive after vouloir; vouloir dire = mean"
         },
         {
           "t": "trop",
@@ -1560,11 +1480,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle",
@@ -1602,14 +1522,14 @@
     },
     {
       "seg": 44,
-      "trans": "She",
+      "trans": "She's too white? But she has talent!",
       "words": [
         {
           "t": "Elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
@@ -1617,8 +1537,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "trop",
@@ -1649,16 +1569,16 @@
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
+          "gloss": "she",
           "gram": "subject pronoun, 3rd person feminine singular"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present, 3rd person singular; have talent"
         },
         {
           "t": "du",
@@ -1700,11 +1620,11 @@
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "rôle",
@@ -1763,8 +1683,6 @@
       ]
     },
     {
-      "seg": 47,
-      "trans": "Sofia, everyone thinks you",
       "words": [
         {
           "t": "Sofia,",
@@ -1776,43 +1694,43 @@
         },
         {
           "t": "tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular determiner; tout le monde = everyone"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "masculine singular article; tout le monde = everyone"
         },
         {
           "t": "monde",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "monde",
+          "pos": "noun",
           "stress": "mɔ̃d",
-          "gloss": "world (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "people, world",
+          "gram": "masculine singular; tout le monde = everyone"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Sofia"
         },
         {
           "t": "trouve",
           "lemma": "trouver",
           "pos": "verb",
           "stress": "tʁuv",
-          "gloss": "find, think of",
-          "gram": "imperative, 2nd person singular"
+          "gloss": "finds, thinks ... is",
+          "gram": "present, 3rd person singular; subject tout le monde takes a singular verb"
         },
         {
           "t": "fantastique.",
@@ -1822,11 +1740,13 @@
           "gloss": "fantastic",
           "gram": "singular, same form for both genders"
         }
-      ]
+      ],
+      "seg": 47,
+      "trans": "Sofia, everyone thinks you're fantastic."
     },
     {
       "seg": 48,
-      "trans": "Fantastic? Then why don",
+      "trans": "Fantastic? Then why don't I get a part?",
       "words": [
         {
           "t": "Fantastique?",
@@ -1881,8 +1801,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "any",
+          "gram": "indefinite article reduced to de after a negative"
         },
         {
           "t": "rôle?",
@@ -1895,24 +1815,22 @@
       ]
     },
     {
-      "seg": 49,
-      "trans": "You",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to Sofia"
         },
         {
-          "t": "commences",
+          "t": "commencez",
           "lemma": "commencer",
           "pos": "verb",
-          "stress": "kɔmɑ̃s",
+          "stress": "kɔmɑ̃se",
           "gloss": "are starting out",
-          "gram": "present, 2nd person singular"
+          "gram": "present, polite/plural address"
         },
         {
           "t": "juste.",
@@ -1954,7 +1872,9 @@
           "gloss": "normal, natural",
           "gram": "masculine singular with 'c'est'"
         }
-      ]
+      ],
+      "seg": 49,
+      "trans": "You're just starting out. Rejections are normal."
     },
     {
       "seg": 50,
@@ -1987,40 +1907,38 @@
       ]
     },
     {
-      "seg": 51,
-      "trans": "Do you know how many auditions Cécile de France failed?",
       "words": [
         {
-          "t": "Tu",
-          "lemma": "tu",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject, polite address to Sofia"
         },
         {
-          "t": "sais",
+          "t": "savez",
           "lemma": "savoir",
           "pos": "verb",
-          "stress": "sɛ",
+          "stress": "save",
           "gloss": "know",
-          "gram": "present, 1st person singular"
+          "gram": "present, polite/plural address"
         },
         {
           "t": "combien",
           "lemma": "combien",
           "pos": "adv",
           "stress": "kɔ̃bjɛ̃",
-          "gloss": "how much",
-          "gram": "question / exclamation word"
+          "gloss": "how many",
+          "gram": "question word before a countable plural"
         },
         {
           "t": "d'auditions",
           "lemma": "audition",
           "pos": "noun",
           "stress": "dodisjɔ̃",
-          "gloss": "any auditions",
-          "gram": "de (elided d', after negative 'personne ne') + auditions (feminine plural)"
+          "gloss": "auditions (after how many)",
+          "gram": "de + auditions, feminine plural; combien de = how many"
         },
         {
           "t": "Cécile",
@@ -2033,26 +1951,26 @@
         {
           "t": "de",
           "lemma": "de",
-          "pos": "prep",
+          "pos": "name",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "de (in Cécile de France)",
+          "gram": "part of the actress’s proper name"
         },
         {
           "t": "France",
           "lemma": "cécile de france",
           "pos": "name",
-          "stress": null,
-          "gloss": "France (part of the name)",
-          "gram": "part of the actress's name"
+          "stress": "fʁɑ̃s",
+          "gloss": "France (surname)",
+          "gram": "part of the actress’s proper name"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has (helping verb)",
+          "gram": "present, 3rd person singular; helping verb in a ratées"
         },
         {
           "t": "ratées?",
@@ -2060,12 +1978,28 @@
           "pos": "verb",
           "stress": "ʁate",
           "gloss": "failed, missed",
-          "gram": "past participle of 'rater' used as adjective, feminine plural"
+          "gram": "past participle, feminine plural; agrees with the preceding auditions"
         }
-      ]
+      ],
+      "seg": 51,
+      "trans": "Do you know how many auditions Cécile de France failed?"
     },
     {
+      "words": [
+        {
+          "t": "Trois.",
+          "lemma": "trois",
+          "pos": "num",
+          "stress": "tʁwa",
+          "gloss": "three",
+          "gram": "cardinal number, answer to a counting question"
+        }
+      ],
       "seg": 52,
+      "trans": "Three."
+    },
+    {
+      "seg": 53,
       "trans": "Three?",
       "words": [
         {
@@ -2075,60 +2009,6 @@
           "stress": "tʁwa",
           "gloss": "three",
           "gram": "cardinal number"
-        }
-      ]
-    },
-    {
-      "seg": 53,
-      "trans": "Er, yes, three. But hang in there, Sofia!",
-      "words": [
-        {
-          "t": "Euh,",
-          "lemma": "euh",
-          "pos": "interj",
-          "stress": "ø",
-          "gloss": "er",
-          "gram": "hesitation sound"
-        },
-        {
-          "t": "oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "trois.",
-          "lemma": "trois",
-          "pos": "num",
-          "stress": "tʁwa",
-          "gloss": "three",
-          "gram": "cardinal number"
-        },
-        {
-          "t": "Mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "courage,",
-          "lemma": "courage",
-          "pos": "noun",
-          "stress": "kuʁaʒ",
-          "gloss": "courage, bravery",
-          "gram": "masculine singular; bon courage = good luck"
-        },
-        {
-          "t": "Sofia!",
-          "lemma": "sofia",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Sofia",
-          "gram": "proper noun ('Sofia')"
         }
       ]
     },
@@ -2166,11 +2046,11 @@
       "meanings": [
         {
           "en": "agreement, deal",
-          "note": "Masculine noun ('le accord', plural 'les accords') inherited through Romance vocabulary, used in everyday and professional French for 'deal'."
+          "note": ""
         },
         {
           "en": "d'accord = okay, agreed",
-          "note": "Masculine noun ('le accord', plural 'les accords') inherited through Romance vocabulary, used in everyday and professional French for 'deal'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2224,11 +2104,11 @@
       "meanings": [
         {
           "en": "then, in that case",
-          "note": "Jeudi, alors. Invariable French adverb meaning 'then'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Jeudi, alors."
         },
         {
           "en": "so",
-          "note": "Invariable French adverb meaning 'then'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2270,7 +2150,7 @@
         },
         {
           "en": "quite, rather",
-          "note": "Assez bien. Invariable French adverb meaning 'enough'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Assez bien."
         }
       ],
       "forms": null,
@@ -2310,7 +2190,7 @@
       "meanings": [
         {
           "en": "audition (for an actor or musician)",
-          "note": "Passer une audition = to audition. Feminine action/state noun from Latin '-tio'/'-sio'. Standard feminine noun meaning 'audition, screen test'."
+          "note": "Passer une audition = to audition."
         }
       ],
       "forms": {
@@ -2368,11 +2248,11 @@
         },
         {
           "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "J'ai appelé = I called."
         },
         {
           "en": "il y a = there is, there are",
-          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "Fixed expression."
         }
       ],
       "forms": {
@@ -2558,7 +2438,7 @@
         },
         {
           "en": "white (wine: vin blanc)",
-          "note": "Descriptive French adjective meaning 'white'; agrees in gender and number with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -2615,11 +2495,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "Tu sais combien. Prefix 'com-' (from Latin 'cum') means 'with, together'."
+          "note": "Tu sais combien."
         },
         {
           "en": "how much (emotion)",
-          "note": "Tu sais combien. Prefix 'com-' (from Latin 'cum') means 'with, together'."
+          "note": "Tu sais combien."
         }
       ],
       "forms": null,
@@ -2821,11 +2701,11 @@
       "meanings": [
         {
           "en": "courage",
-          "note": "Said to encourage someone. Masculine noun formed with the suffix '-age' (from Late Latin '-aticum') denoting an action, state, or collection. Standard masculine noun meaning 'courage, bravery'."
+          "note": "Said to encourage someone."
         },
         {
           "en": "bon courage!: good luck!, hang in there!",
-          "note": "Masculine noun formed with the suffix '-age' (from Late Latin '-aticum') denoting an action, state, or collection. Standard masculine noun meaning 'courage, bravery'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2875,11 +2755,11 @@
       "meanings": [
         {
           "en": "okay, all right",
-          "note": "Agreement. Spoken French interj expression meaning 'okay', common in natural conversation."
+          "note": "Agreement."
         },
         {
           "en": "être d'accord = to agree",
-          "note": "Spoken French interj expression meaning 'okay', common in natural conversation."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2898,12 +2778,7 @@
           "trans": "Fine. Thank you."
         }
       ],
-      "related": [
-        {
-          "word": "d'accord",
-          "gloss": "okay"
-        }
-      ]
+      "related": []
     },
     "de": {
       "lemma": "de",
@@ -2913,7 +2788,7 @@
       "meanings": [
         {
           "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "D' before a vowel."
         },
         {
           "en": "'s (possession)",
@@ -2921,7 +2796,7 @@
         },
         {
           "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
@@ -2959,7 +2834,7 @@
       "meanings": [
         {
           "en": "tomorrow",
-          "note": "À demain = see you tomorrow. Invariable French adverb meaning 'tomorrow'; placed immediately after the conjugated verb in simple tenses."
+          "note": "À demain = see you tomorrow."
         }
       ],
       "forms": null,
@@ -3221,12 +3096,7 @@
           "trans": "It's compost. It feeds the earth."
         }
       ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "some"
-        }
-      ]
+      "related": []
     },
     "elle": {
       "lemma": "elle",
@@ -3236,7 +3106,7 @@
       "meanings": [
         {
           "en": "she",
-          "note": "for a feminine noun: l'industrie... elle"
+          "note": "Refers to a female person; can also refer to a feminine noun."
         },
         {
           "en": "it",
@@ -3259,12 +3129,7 @@
           "trans": "Listen, it's an industry, and it's full of sharks."
         }
       ],
-      "related": [
-        {
-          "word": "elle",
-          "gloss": "she"
-        }
-      ]
+      "related": []
     },
     "et": {
       "lemma": "et",
@@ -3274,7 +3139,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": "The t is never pronounced. French conjunction meaning 'and', used to link clauses in spoken and written discourse."
+          "note": "The t is never pronounced."
         }
       ],
       "forms": null,
@@ -3293,12 +3158,7 @@
           "trans": "And tomorrow you're having lunch with Audiard."
         }
       ],
-      "related": [
-        {
-          "word": "et",
-          "gloss": "and"
-        }
-      ]
+      "related": []
     },
     "euh": {
       "lemma": "euh",
@@ -3308,7 +3168,7 @@
       "meanings": [
         {
           "en": "er, um (hesitation)",
-          "note": "Spoken French interj expression meaning 'er', common in natural conversation."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3327,12 +3187,7 @@
           "trans": "Er, yes, outjet!"
         }
       ],
-      "related": [
-        {
-          "word": "euh",
-          "gloss": "er"
-        }
-      ]
+      "related": []
     },
     "exotique": {
       "lemma": "exotique",
@@ -3342,7 +3197,7 @@
       "meanings": [
         {
           "en": "exotic",
-          "note": "French relational/descriptive adjective derived from Latin adjectival roots."
+          "note": ""
         }
       ],
       "forms": {
@@ -3403,11 +3258,11 @@
       "meanings": [
         {
           "en": "fantastic, great",
-          "note": "Un film fantastique. French relational/descriptive adjective derived from Latin adjectival roots."
+          "note": "Un film fantastique."
         },
         {
           "en": "fantasy (genre)",
-          "note": "Un film fantastique. French relational/descriptive adjective derived from Latin adjectival roots."
+          "note": "Un film fantastique."
         }
       ],
       "forms": {
@@ -3468,7 +3323,7 @@
       "meanings": [
         {
           "en": "there is, there are",
-          "note": "Never changes for plural. Spoken French phrase expression meaning 'there is', common in natural conversation."
+          "note": "Never changes for plural."
         },
         {
           "en": "ago",
@@ -3491,12 +3346,7 @@
           "trans": "No, it's Samuel's place. He died six days ago."
         }
       ],
-      "related": [
-        {
-          "word": "il y a",
-          "gloss": "there is"
-        }
-      ]
+      "related": []
     },
     "je": {
       "lemma": "je",
@@ -3506,7 +3356,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -3525,12 +3375,7 @@
           "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
-      "related": [
-        {
-          "word": "je",
-          "gloss": "I"
-        }
-      ]
+      "related": []
     },
     "juste": {
       "lemma": "juste",
@@ -3540,11 +3385,11 @@
       "meanings": [
         {
           "en": "just, only",
-          "note": "Adverb: je veux juste. Invariable French adverb meaning 'just'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Adverb: je veux juste."
         },
         {
           "en": "fair, right",
-          "note": "Adjective. Invariable French adverb meaning 'just'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Adjective."
         }
       ],
       "forms": null,
@@ -3579,6 +3424,10 @@
         {
           "en": "the",
           "note": "definite article; l' before a vowel"
+        },
+        {
+          "en": "him, her, it; them (les)",
+          "note": "Direct object placed before a verb; la is feminine singular, les is plural."
         }
       ],
       "forms": {
@@ -3620,12 +3469,7 @@
           "trans": "It's Tarantino's next film."
         }
       ],
-      "related": [
-        {
-          "word": "le",
-          "gloss": "the"
-        }
-      ]
+      "related": []
     },
     "mais": {
       "lemma": "mais",
@@ -3635,7 +3479,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": "Mais oui! = of course!. French conjunction meaning 'but', used to link clauses in spoken and written discourse."
+          "note": "Mais oui! = of course!."
         }
       ],
       "forms": null,
@@ -3713,7 +3557,7 @@
         },
         {
           "en": "tout le monde = everybody",
-          "note": "Masculine noun ('le monde', plural 'les mondes') inherited through Romance vocabulary, used in everyday and professional French for 'world'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3771,7 +3615,7 @@
         },
         {
           "en": "dark",
-          "note": "Descriptive French adjective meaning 'black'; agrees in gender and number with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -3832,7 +3676,7 @@
         },
         {
           "en": "..., non? = ..., don't you? / isn't it?",
-          "note": "Tag at the end of a question. Invariable French adverb meaning 'no'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Tag at the end of a question."
         }
       ],
       "forms": null,
@@ -3929,7 +3773,7 @@
       "meanings": [
         {
           "en": "nanny, babysitter (informal for 'nourrice')",
-          "note": "Informal for 'nourrice'. Feminine noun ('la nounou', plural 'les nounous') inherited through Romance vocabulary, used in everyday and professional French for 'nanny'."
+          "note": "Informal for 'nourrice'."
         }
       ],
       "forms": {
@@ -3964,12 +3808,7 @@
           "trans": "And not exotic enough for the part of the nanny?"
         }
       ],
-      "related": [
-        {
-          "word": "une nounou / des nounous",
-          "gloss": "a nanny / nannys"
-        }
-      ]
+      "related": []
     },
     "oui": {
       "lemma": "oui",
@@ -3979,7 +3818,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": "Invariable French adverb meaning 'yes'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4036,12 +3875,7 @@
           "trans": "Tarantino won't take Cécile. A problem with her age."
         }
       ],
-      "related": [
-        {
-          "word": "pas",
-          "gloss": "not"
-        }
-      ]
+      "related": []
     },
     "pour": {
       "lemma": "pour",
@@ -4055,7 +3889,7 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+          "note": "+ infinitive: pour voir."
         }
       ],
       "forms": null,
@@ -4139,11 +3973,11 @@
       "meanings": [
         {
           "en": "to miss",
-          "note": "A train, a plane, an opportunity. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to miss'; conjugates with 'avoir' in compound tenses (past participle 'raté')."
+          "note": "A train, a plane, an opportunity."
         },
         {
           "en": "to fail, to mess up",
-          "note": "Informal. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to miss'; conjugates with 'avoir' in compound tenses (past participle 'raté')."
+          "note": "Informal."
         }
       ],
       "forms": {
@@ -4355,7 +4189,7 @@
       "meanings": [
         {
           "en": "part, role (in a film or play)",
-          "note": "Un rôle dans un film. Masculine noun ('le rôle', plural 'les rôles') inherited through Romance vocabulary, used in everyday and professional French for 'role'."
+          "note": "Un rôle dans un film."
         }
       ],
       "forms": {
@@ -4390,12 +4224,7 @@
           "trans": "Yes! My favourite, Pierre Niney, has a new part."
         }
       ],
-      "related": [
-        {
-          "word": "un rôle / des rôles",
-          "gloss": "a role / roles"
-        }
-      ]
+      "related": []
     },
     "savoir": {
       "lemma": "savoir",
@@ -4405,11 +4234,11 @@
       "meanings": [
         {
           "en": "to know (a fact)",
-          "note": "Je ne sais pas = I don't know. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "Je ne sais pas = I don't know."
         },
         {
           "en": "to know how to, can",
-          "note": "+ infinitive: savoir monter. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "+ infinitive: savoir monter."
         }
       ],
       "forms": {
@@ -4569,7 +4398,7 @@
       "meanings": [
         {
           "en": "talent",
-          "note": "Avoir du talent = to be talented. Masculine noun ('le talent', plural 'les talents') inherited through Romance vocabulary, used in everyday and professional French for 'talent'."
+          "note": "Avoir du talent = to be talented."
         }
       ],
       "forms": {
@@ -4638,12 +4467,7 @@
           "trans": "I don't know. I wanted to surprise you."
         }
       ],
-      "related": [
-        {
-          "word": "te",
-          "gloss": "you"
-        }
-      ]
+      "related": []
     },
     "tout": {
       "lemma": "tout",
@@ -4653,11 +4477,11 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Tout le monde = everybody."
         },
         {
           "en": "tout ce que = all that, everything that",
-          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Pronoun use."
         }
       ],
       "forms": {
@@ -4764,7 +4588,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "Spoken French num expression meaning 'three', common in natural conversation."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4783,12 +4607,7 @@
           "trans": "Yes, three hundred thousand. I'm talking about his twenty years of career."
         }
       ],
-      "related": [
-        {
-          "word": "trois",
-          "gloss": "three"
-        }
-      ]
+      "related": []
     },
     "trop": {
       "lemma": "trop",
@@ -4798,11 +4617,11 @@
       "meanings": [
         {
           "en": "too",
-          "note": "Trop vieille = too old. Invariable French adverb meaning 'too'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Trop vieille = too old."
         },
         {
           "en": "too much",
-          "note": "Trop de travail. Invariable French adverb meaning 'too'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Trop de travail."
         }
       ],
       "forms": null,
@@ -4821,12 +4640,7 @@
           "trans": "Too old? What's the part, a little girl?"
         }
       ],
-      "related": [
-        {
-          "word": "trophée",
-          "gloss": "trophy"
-        }
-      ]
+      "related": []
     },
     "trouver": {
       "lemma": "trouver",
@@ -4840,7 +4654,7 @@
         },
         {
           "en": "trouve quelque chose = think of something",
-          "note": "In context. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to find'; conjugates with 'avoir' in compound tenses (past participle 'trouvé')."
+          "note": "In context."
         }
       ],
       "forms": {
@@ -5056,11 +4870,11 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "+ noun or infinitive."
         },
         {
           "en": "je voulais = I wanted",
-          "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "Imparfait, softer."
         }
       ],
       "forms": {
@@ -5222,15 +5036,15 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Place: à Paris, à mon cours."
         },
         {
           "en": "at",
-          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Time: à midi."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Contractions."
         }
       ],
       "forms": null,
@@ -5249,12 +5063,7 @@
           "trans": "We're at the Westin."
         }
       ],
-      "related": [
-        {
-          "word": "à",
-          "gloss": "at"
-        }
-      ]
+      "related": []
     },
     "étudiant": {
       "lemma": "étudiant",
@@ -5266,7 +5075,7 @@
       "meanings": [
         {
           "en": "(university) student",
-          "note": "Feminine étudiante. Masculine noun ('le étudiant', plural 'les étudiants') inherited through Romance vocabulary, used in everyday and professional French for 'student'."
+          "note": "Feminine étudiante."
         }
       ],
       "forms": {
@@ -5323,11 +5132,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {
@@ -5502,6 +5311,48 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
+        }
+      ]
+    },
+    "vous": {
+      "lemma": "vous",
+      "stress": "vu",
+      "pos": "pron",
+      "gloss": "you (polite or plural)",
+      "meanings": [
+        {
+          "en": "you (polite)",
+          "note": "One person, formal."
+        },
+        {
+          "en": "you (plural)",
+          "note": "Several people."
+        },
+        {
+          "en": "you (object)",
+          "note": "je vous rappelle = I'll call you back"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        },
+        {
+          "text": "Je vous rappelle.",
+          "trans": "I'll call you back."
+        },
+        {
+          "text": "Il vous attend?",
+          "trans": "Is he expecting you?"
+        }
+      ],
+      "related": [
+        {
+          "word": "tu",
+          "gloss": "you (informal)"
         }
       ]
     }

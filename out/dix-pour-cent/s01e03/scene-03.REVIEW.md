@@ -10,29 +10,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Laura | Une bonne histoire? | A good story? | #54: Une bonne histoire ? | verbatim |
-| 2 | Gabriel | C'est un très bon scénario. | It's a very good script. | #55: scénarios aussi bons | verbatim |
-| 3 | Gabriel | Laura Smet, Solveig Akerfelt vous veut pour son prochain film. | Laura Smet, Solveig Akerfelt wants you for her next film. | #59: Laura Smet<br>#59: prochain film de Solveig Akerfelt | verbatim |
-| 4 | Laura | Non? C'est incroyable! | No? That's amazing! | #60: Non ? C'est incroyable ! | verbatim |
-| 5 | Gabriel | Elle vient à Paris demain juste pour te voir. | She's coming to Paris tomorrow just to see you. | #61: Elle vient à Paris demain juste pour te voir | verbatim |
-| 6 | Laura | Il y a d'autres actrices? | Are there other actresses? | #63: D'autres | verbatim |
-| 7 | Gabriel | Toi seulement. C'est pour toi! | Only you. It's for you! | #63: Toi seulement<br>#64: C'est pour toi | verbatim |
-| 8 | Gabriel | C'est le seul exemplaire en France. Je te jure, c'est une bombe! | I swear, it's dynamite! | #65: C'est le seul exemplaire en France<br>#67: je te jure<br>#68: c'est une bombe | verbatim |
-| 9 | Laura | J'ai hâte de le lire. | I can't wait to read it. | #70: J'ai hâte de | verbatim |
-| 10 | Laura | Exclusif, hein? | Exclusive, huh? | #77: exclusif | verbatim |
-| 11 | Laura | C'est le même rôle? | Is it the same part? | #79: C'est le même rôle ? | verbatim |
-| 12 | Gabriel | Non, la mère et la fille. | No, the mother and the daughter. | #79: Non, la mère et la fille | verbatim |
-| 13 | Nathalie | On a toujours voulu jouer ensemble. | We've always wanted to act together. | #83: On a toujours voulu<br>#81: ensemble | verbatim |
-| 14 | Laura | C'est super! | It's great! | #83: C'est super | verbatim |
-| 15 | Laura | Est-ce que la réalisatrice sait qu'on est mère et fille? | Does the director know we're mother and daughter? | #84: Est-ce que la réalisatrice sait qu'on est | verbatim |
-| 16 | Gabriel | Non, elle ne sait rien du tout. | No, she doesn't know anything at all. | #85: Non, elle ne sait rien du tout | verbatim |
-| 17 | Nathalie | Quelle aventure! | What an adventure! | #85: Quelle aventure | verbatim |
-
-
+| 1 | Laura | Une bonne histoire? | A good story? | #54 00:03:54: Une bonne histoire ? | adapted: Adapted: Mathias asks Nathalie about the story in the source; Laura voices the same question here. |
+| 2 | Gabriel | C'est un très bon scénario. | It's a very good script. | #55 00:03:55: scénarios aussi bons | adapted: Adapted: Nathalie praises the screenplay to Mathias in the source; Gabriel relays that praise to Laura here. |
+| 3 | Gabriel | Laura Smet, Solveig Akerfelt vous veut pour son prochain film. | Laura Smet, Solveig Akerfelt wants you for her next film. | #59 00:04:07: Laura Smet<br>#59 00:04:07: prochain film de Solveig Akerfelt | verbatim |
+| 4 | Laura | Non? C'est incroyable! | No? That's amazing! | #60 00:04:11: Non ? C'est incroyable ! | verbatim |
+| 5 | Gabriel | Elle vient à Paris demain juste pour te voir. | She's coming to Paris tomorrow just to see you. | #61 00:04:14: Elle vient à Paris demain juste pour te voir | verbatim |
+| 6 | Laura | Il y a d'autres actrices? | Are there other actresses? | #63 00:04:21: D'autres | verbatim |
+| 7 | Gabriel | Toi seulement. C'est pour toi! | Only you. It's for you! | #63 00:04:21: Toi seulement<br>#64 00:04:23: C'est pour toi | adapted: Adapted: combines Gabriel's reassurance to Laura with Mathias's similar reassurance to Nathalie. |
+| 8 | Gabriel | C'est le seul exemplaire en France. Je te jure, c'est une bombe! | It's the only copy in France. I swear, it's dynamite! | #65 00:04:27: C'est le seul exemplaire en France<br>#67 00:04:32: je te jure<br>#68 00:04:34: c'est une bombe | verbatim |
+| 9 | Nathalie | J'ai hâte de le lire. | I can't wait to read it. | #70 00:04:38: J'ai hâte de | verbatim |
+| 10 | Laura | Exclusif, hein? | Exclusive, huh? | #77 00:04:53: exclusif | verbatim |
+| 11 | Laura | C'est le même rôle? | Is it the same part? | #79 00:05:02: C'est le même rôle ? | verbatim |
+| 12 | Gabriel | Non, la mère et la fille. | No, the mother and the daughter. | #79 00:05:02: Non, la mère et la fille | adapted: Mathias gives this explanation in the source; folded into Gabriel's role for the three-voice lesson. |
+| 13 | Nathalie | On a toujours voulu jouer ensemble. | We've always wanted to act together. | #83 00:05:16: On a toujours voulu<br>#81 00:05:09: ensemble | verbatim |
+| 14 | Laura | C'est super! | It's great! | #83 00:05:16: C'est super | verbatim |
+| 15 | Laura | Est-ce que la réalisatrice sait qu'on est mère et fille? | Does the director know we're mother and daughter? | #84 00:05:19: Est-ce que la réalisatrice sait qu'on est | verbatim |
+| 16 | Gabriel | Non, elle ne sait rien du tout. | No, she doesn't know anything at all. | #85 00:05:21: Non, elle ne sait rien du tout | adapted: Mathias answers in the source; folded into Gabriel's role for the three-voice lesson. |
+| 17 | Nathalie | Quelle aventure! | What an adventure! | #85 00:05:21: Quelle aventure | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A good story?' Notice the word for 'good' comes before the word, like a few very common French describing words.
+- 'A good story?' Notice the word for 'good' comes before the noun, like a few very common French describing words.
 - 'It's a very good script.' Gabriel is so excited he can hardly sit still.
 - 'Laura Smet, Solveig Akerfelt wants you for her next film.' He suddenly switches to the formal 'you', as if making an official announcement. It's a joke: normally they use the casual one.
 - 'No? That's amazing!' Laura can't believe it.
@@ -47,6 +45,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, the mother and the daughter.' The film has a mother and a daughter, and the director wants these two.
 - 'We've always wanted to act together.' Nathalie uses the everyday word for 'we' with the past tense, 'we have wanted'.
 - 'It's great!' Laura uses a casual, cheerful word that is the same as in English.
-- 'Does the director know we're mother and daughter?' This two words at the start just announce a yes-or-no question. Note the feminine word for a film director, because Solveig is a woman.
+- 'Does the director know we're mother and daughter?' This opening expression at the start just announce a yes-or-no question. Note the feminine word for a film director, because Solveig is a woman.
 - 'No, she doesn't know anything at all.' The negative here uses the word for 'nothing', and the last three words mean 'at all'.
 - 'What an adventure!' The word for 'what' takes a feminine ending here, to match 'adventure'. Here's the whole scene again.

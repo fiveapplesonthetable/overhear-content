@@ -1,0 +1,38 @@
+{
+  "tool": "built-in imagegen",
+  "purpose": "source-verified role and plot correction",
+  "images": [
+    {
+      "scene": 6,
+      "prompt": "Use case: identity-preserve. Image 1 is the edit target, image 2 is the male agent identity reference. Correct the RIGHT-HAND adviser in image 1: he must be Gabriel, the tousled brown-haired, short-stubbled male agent wearing a navy suit and open pale-blue shirt, seen in the FOREGROUND CENTRE of image 2. Replace the inaccurate short-haired female adviser with that same male character. Keep his supportive hand on the blonde actress's shoulder, standing comforting posture and scale. Preserve the blonde actress, her worried expression, period hairstyle and pale-blue costume/white robe, dressing-room mirror, lamps, stool, square framing, warm flat-color storybook illustration style. Keep all background objects. No text or extra people. The true scene is Gabriel counselling Julie, not Andrea."
+    },
+    {
+      "scene": 7,
+      "prompt": "Use case: identity-preserve. Image 1 edit target; image 2 identity reference. Replace ONLY the right-hand phone-holding man of image 1 with the same female agent Andrea shown on the RIGHT of image 2: slim adult woman, warm light skin, expressive dark eyes, brown hair swept into a loose bun, black tailored suit/blazer. She sits holding and glancing at her phone, listening with a distracted half-smile. Keep the Black actor JoeyStarr on left in his cream servant shirt/brown waistcoat, his conversational gestures, dressing-room/trailer furnishings, mirror, costumes, square framing and clean warm flat-color storybook style. Add no text or people. It is Andrea discussing Colette with her client JoeyStarr, not Gabriel."
+    },
+    {
+      "scene": 8,
+      "prompt": "Use case: precise-object-edit. Edit this existing square story illustration. Remove ONLY the two women exchanging a cup in the BACKGROUND on the right, including their held cup/saucer. Continue the existing catering table, buffet objects and simple courtyard wall naturally behind the removed figures. Keep foreground Sofia on the left in her servant costume and head wrap, Gabriel in the centre holding his phone, their faces/poses/clothes, catering tent, all other relevant buffet objects, framing and warm flat-color storybook style unchanged. There are only these two foreground people in this illustration. No text or new characters."
+    },
+    {
+      "scene": 11,
+      "prompt": "Use case: compositing. Image 1 is the existing scene-11 illustration to replace because its greenhouse/ladder plot is inaccurate; images 2 and 3 are established character/style references. Redraw scene11 as the actual dinner conversation in the same clean warm flat-color square storybook style. Two actors sit opposite each other at a small restaurant table with simple plates and glasses. JoeyStarr is the same Black male actor from RIGHT of image2, close-cropped black hair, medium-dark skin, clean-shaven strong face, but off duty in a light gray knit cardigan over a cream polo shirt; he holds a borrowed mobile phone to his ear and pretends to have an urgent call, looking ready to leave. Julie is the same blonde actress from LEFT of image3, now with loose shoulder-length blonde hair, warm light skin, wearing a simple teal-blue blouse rather than period costume; she watches him with a suspicious, unimpressed expression and a palm extended as if requesting her phone back. Restaurant doorway/window and soft garden beyond, no other people. No ladder, greenhouse, locked door, fall, period wigs or film equipment. No text."
+    },
+    {
+      "scene": 12,
+      "prompt": "Use case: precise-object-edit. Correct this existing square story illustration by removing ONLY the dog sitting on the pink armchair. Reconstruct the chair upholstery and cushion naturally so the armchair is empty. Keep Arlette on the left with swept-up brown hair, round optical glasses, olive outfit, silk scarf and scissors gesture exactly unchanged; keep Mathias on the right, his face, silver hair, charcoal suit and expression; preserve the agency office, window, papers, colors, square framing and clean flat-color storybook style. No text, new people, animals or objects. The dialogue refers to an armchair, and no dog belongs in this scene."
+    },
+    {
+      "scene": 13,
+      "prompt": "Use case: identity-preserve. Image 1 is edit target; image 2 reference for Noémie. Correct the office conversation's cast: keep Mathias seated on LEFT exactly as in image 1. Remove the listening brown-haired woman in the CENTRE. Replace the inaccurate blond male presenter on the RIGHT with Noémie, the SAME adult female assistant in the CENTRE of image 2: light skin, straight shoulder-length brown hair with a fringe, gray tailored blazer over a pale blouse. Noémie stands holding the proposed printed notice with a simple anonymous head silhouette and no readable words, showing her idea to Mathias with a hopeful expression. Mathias looks unconvinced and keeps his rejecting hand raised. There are exactly TWO people, Mathias and Noémie. Preserve desk, office window, stacks of papers, square framing, clean warm flat-color storybook style. No text or new objects."
+    },
+    {
+      "scene": 14,
+      "prompt": "Use case: identity-preserve. Image 1 edit target; image 2 established Gabriel reference. Replace ONLY the foreground woman standing on RIGHT of image1 with Gabriel, the same male agent on RIGHT of image2: tousled brown hair, short stubble, warm light skin, navy suit with open pale-blue shirt. He stands with folded arms and a patiently skeptical half-smile listening to the actress. Keep Julie on LEFT seated in the chair, her blonde loose hair, light-blue period costume and white robe, her raised talking hands; keep the director in the BACKGROUND doorway, furniture, warm room, square framing and clean flat-color storybook style. No other people or text. This scene is Gabriel advising Julie, not Andrea."
+    },
+    {
+      "scene": 15,
+      "prompt": "Use case: identity-preserve. Image 1 edit target; image 2 established Andrea reference. Replace ONLY the seated male adviser on RIGHT of image1 with Andrea, the same female agent on RIGHT of image2: slim adult woman, warm light skin, expressive dark eyes, brown hair swept into a loose bun, black tailored suit/blazer. She sits gesturing encouragingly with a confident, slightly amused smile. Keep JoeyStarr standing on LEFT in his cream period shirt and brown breeches holding a book, his Black identity and close-cropped black hair; keep the mirror, wardrobe, bed, bedside lamp, square framing and clean warm flat-color storybook style. No new people or text. Andrea, not Gabriel or a costume assistant, encourages her actor here."
+    }
+  ]
+}

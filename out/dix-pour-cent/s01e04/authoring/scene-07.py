@@ -10,38 +10,103 @@ PAIR = 'fr-en'
 LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "At the cafe, Mathias has just pitched Audrey Fleurot the role of an ecologist stripper in Augustin's film. Meanwhile, out on a Paris street, Gabriel is walking with Sofia, his newest client, while arguing on the phone with a casting director who has just turned her down for several roles in a row. We'll hear it in French first; don't worry about catching every word."
-OPENER = "Let's walk through it. Gabriel is on the phone with a casting director, getting more annoyed by the second."
+INTRO = ('Gabriel argues with a casting director over the phone at the agency. The excuses for rejecting Sofia keep '
+ 'contradicting one another. Afterwards he tries to encourage her in the kitchen. Listen to the conversation in '
+ 'French first.')
+OPENER = "Let's walk through it. Gabriel is on the phone in his office, becoming more frustrated by the casting decisions."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Sofia's first auditions with Gabriel haven't gone well, and right after this Mathias walks into the agency on the phone with Audrey, joking that if her dress is too small she shouldn't eat until tomorrow. Listen out for the words meaning 'too' and 'not enough'. See you next time!"
+OUTRO = ('Gabriel challenges contradictory casting decisions, then tries to encourage Sofia. You heard the difference '
+ "between 'too' and 'not enough', and a short way to tell someone to keep going. See you next time!")
 CLOSING = ('gabriel', 'À demain!')
-STORY = [
-    ('gabriel', 'Et Sofia Leprince? Trop exotique?', 'And Sofia Leprince? Too exotic?', [(193, 'Et Sofia Leprince ?'), (193, 'trop exotique.')], ''),
-    ('gabriel', 'Tu veux dire trop noire?', 'Do you mean too black?', [(194, 'Tu veux dire trop noire ?')], ''),
-    ('gabriel', 'Et pas assez exotique pour le rôle de la nounou?', 'And not exotic enough for the part of the nanny?', [(195, 'pas assez exotique pour la nounou.')], ''),
-    ('gabriel', 'Elle est trop blanche? Mais elle a du talent!', "She's too white? But she has talent!", [(197, 'Trop blanche ?'), (199, 'Elle a du talent !')], ''),
-    ('gabriel', "Et pour le rôle de l'étudiante?", 'And for the part of the student?', [(200, "L'étudiante")], ''),
-    ('gabriel', "Non? D'accord, merci.", 'No? Okay, thank you.', [(201, 'Non')], ''),
-    ('gabriel', 'Sofia, tout le monde te trouve fantastique.', "Sofia, everyone thinks you're fantastic.", [(202, 'Tout le monde te trouve fantastique.')], ''),
-    ('sofia', "Fantastique? Alors pourquoi je n'ai pas de rôle?", "Fantastic? Then why don't I get a part?", [(203, 'Fantastique'), (204, 'Alors pourquoi je ne')], ''),
-    ('gabriel', "Tu commences juste. Les refus, c'est normal.", "You're just starting out. Rejections are normal.", [(205, "Les refus, c'est normal.")], ''),
-    ('sofia', 'Trois auditions ratées!', 'Three failed auditions!', [(206, 'Trois auditions ratées.')], ''),
-    ('gabriel', "Tu sais combien d'auditions Cécile de France a ratées?", 'Do you know how many auditions Cécile de France failed?', [(206, 'Tu sais combien Cécile de France')], ''),
-    ('sofia', 'Trois?', 'Three?', [(207, 'Trois ?')], ''),
-    ('gabriel', 'Euh, oui, trois. Mais courage, Sofia!', 'Er, yes, three. But hang in there, Sofia!', [(207, 'Trois ?')], ''),
-]
-WALK = [
-    (0, None, "'And Sofia Leprince? Too exotic?' The word before 'exotic' means 'too' or 'too much'."),
-    (1, None, "'Do you mean too black?' Literally 'you want to say too black?'. That's how French says 'you mean'. Notice the feminine ending on the colour word, for Sofia."),
-    (2, None, "'And not exotic enough for the part of the nanny?' The two words before 'exotic' mean 'not enough'. Then the casting director says the opposite."),
-    (3, None, "'She's too white? But she has talent!' For one role she is supposedly too dark, and for another too light. Gabriel is fed up with the excuses."),
-    (4, None, "'And for the part of the student?' He tries one last character in the script, using the feminine word for a university student."),
-    (5, None, "'No? Okay, thank you.' The casting director turns that down too, saying Sofia's background would become the whole story. Gabriel hangs up and turns to Sofia."),
-    (6, None, "'Sofia, everyone thinks you're fantastic.' Literally 'finds you fantastic'. He tries to soften the blow."),
-    (7, None, "'Fantastic? Then why don't I get a part?' After a negative verb, 'a part' becomes 'any part'."),
-    (8, None, "'You're just starting out. Rejections are normal.' Literally 'the refusals, it's normal'."),
-    (9, None, "'Three failed auditions!' The word at the end is the past form of a verb that means 'to miss' a train or 'to fail' an exam or audition."),
-    (10, None, "'Do you know how many auditions Cécile de France failed?' Gabriel reaches for an inspiring example from his biggest star client."),
-    (11, None, "'Three?' Sofia guesses the worst number she can think of."),
-    (12, None, "'Er, yes, three. But hang in there, Sofia!' Clearly Cécile de France only ever failed three, so Gabriel's example backfires a little, though his heart is in the right place."),
-]
+STORY = [('gabriel',
+  'Et Sofia Leprince? Trop exotique?',
+  'And Sofia Leprince? Too exotic?',
+  [(193, 'Et Sofia Leprince ?'), (193, 'trop exotique.')],
+  ''),
+ ('gabriel', 'Tu veux dire trop noire?', 'Do you mean too black?', [(194, 'Tu veux dire trop noire ?')], ''),
+ ('gabriel',
+  'Et pas assez exotique pour le rôle de la nounou?',
+  'And not exotic enough for the part of the nanny?',
+  [(195, 'pas assez exotique pour la nounou.')],
+  ''),
+ ('gabriel',
+  'Elle est trop blanche? Mais elle a du talent!',
+  "She's too white? But she has talent!",
+  [(197, 'Trop blanche ?'), (199, 'Elle a du talent !')],
+  ''),
+ ('gabriel', "Et pour le rôle de l'étudiante?", 'And for the part of the student?', [(200, "L'étudiante")], ''),
+ ('gabriel', "Non? D'accord, merci.", 'No? Okay, thank you.', [(201, 'Non')], ''),
+ ('gabriel',
+  'Sofia, tout le monde vous trouve fantastique.',
+  "Sofia, everyone thinks you're fantastic.",
+  [(202, 'Tout le monde te trouve fantastique.')],
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
+ ('sofia',
+  "Fantastique? Alors pourquoi je n'ai pas de rôle?",
+  "Fantastic? Then why don't I get a part?",
+  [(203, 'Fantastique'), (204, 'Alors pourquoi je ne')],
+  ''),
+ ('gabriel',
+  "Vous commencez juste. Les refus, c'est normal.",
+  "You're just starting out. Rejections are normal.",
+  [(205, "Les refus, c'est normal.")],
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
+ ('gabriel', 'Trois auditions ratées!', 'Three failed auditions!', [(206, 'Trois auditions ratées.')], ''),
+ ('gabriel',
+  "Vous savez combien d'auditions Cécile de France a ratées?",
+  'Do you know how many auditions Cécile de France failed?',
+  [(206, 'Tu sais combien Cécile de France')],
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
+ ('sofia',
+  'Trois.',
+  'Three.',
+  [(207, 'Trois ?')],
+  'Original audio gives Sofia’s answer, followed by Gabriel’s questioning repetition.'),
+ ('gabriel',
+  'Trois?',
+  'Three?',
+  [(207, 'Trois ?')],
+  'Gabriel repeats the number as a question; the source does not establish how many auditions Cécile failed.')]
+WALK = [(0, None, "'And Sofia Leprince? Too exotic?' The word before 'exotic' means 'too' or 'too much'."),
+ (1,
+  None,
+  "'Do you mean too black?' Literally 'you want to say too black?'. That's how French says 'you mean'. Notice the "
+  'feminine ending on the colour word, for Sofia.'),
+ (2,
+  None,
+  "'And not exotic enough for the part of the nanny?' The two words before 'exotic' mean 'not enough'. Then the "
+  'casting director says the opposite.'),
+ (3,
+  None,
+  "'She's too white? But she has talent!' French describes talent with 'she has', just like English. Gabriel "
+  "contrasts the casting director's complaints with the quality he thinks should count."),
+ (4,
+  None,
+  "'And for the part of the student?' He tries one last character in the script, using the feminine word for a "
+  'university student.'),
+ (5,
+  None,
+  "'No? Okay, thank you.' The short expression in the middle means 'agreed' or 'okay'. It can politely close a "
+  'phone call even when the result is disappointing.'),
+ (6,
+  None,
+  "'Sofia, everyone thinks you're fantastic.' Literally 'everyone finds you fantastic'. The short word for 'you' "
+  "goes before 'finds'. With the expression for 'everyone', the action stays in the singular."),
+ (7, None, "'Fantastic? Then why don't I get a part?' After a negative verb, 'a part' becomes 'any part'."),
+ (8, None, "'You're just starting out. Rejections are normal.' Literally 'the refusals, it's normal'."),
+ (9,
+  None,
+  "'Three failed auditions!' Gabriel repeats Sofia's disappointing total. The last word is the past form of an "
+  'action meaning to miss or fail; its feminine plural ending matches auditions.'),
+ (10,
+  None,
+  "'Do you know how many auditions Cécile de France failed?' The two-word pattern after 'know' asks 'how many'. "
+  'It comes directly before the thing being counted: auditions.'),
+ (11,
+  None,
+  "'Three.' Sofia offers the same number as her own unsuccessful auditions. A number can answer a counting "
+  'question without repeating the action or the thing being counted.'),
+ (12,
+  None,
+  "'Three?' Gabriel repeats the number as a question. Repeating a short word with a rising voice can express "
+  'surprise or uncertainty, rather than confirm a fact.')]
