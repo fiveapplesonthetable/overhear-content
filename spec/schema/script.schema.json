@@ -26,7 +26,7 @@
     },
     "id": {
       "type": "string",
-      "pattern": "^(kukhnya|domashniy-arest|dix-pour-cent|paquita-salas|die-discounter|boris|the-producers|the-naked-director|behind-the-scenes|al-maktab)-s\\d\\de\\d\\d-scene-\\d\\d$",
+      "pattern": "^(kukhnya|domashniy-arest|dix-pour-cent|paquita-salas|die-discounter|boris|the-producers|the-naked-director|behind-the-scenes|al-maktab|porta-dos-fundos)-s\\d\\de\\d\\d-scene-\\d\\d$",
       "description": "<show>-sNNeNN-scene-NN; never changes once published."
     },
     "pair": {
@@ -39,7 +39,8 @@
         "ko-en",
         "ja-en",
         "zh-en",
-        "ar-en"
+        "ar-en",
+        "pt-en"
       ]
     },
     "show": {
@@ -53,7 +54,8 @@
         "the-producers",
         "the-naked-director",
         "behind-the-scenes",
-        "al-maktab"
+        "al-maktab",
+        "porta-dos-fundos"
       ]
     },
     "season": {
@@ -161,7 +163,7 @@
         },
         "file": {
           "type": "string",
-          "pattern": "^sources/[a-z-]+/s\\d\\d/e\\d\\d\\.(ru|fr|es|de|it|ko|ja|zh|ar)(\\.dual)?\\.srt$"
+          "pattern": "^sources/[a-z-]+/s\\d\\d/e\\d\\d\\.(ru|fr|es|de|it|ko|ja|zh|ar|pt)(\\.dual)?\\.srt$"
         },
         "lines": {
           "type": "array",
