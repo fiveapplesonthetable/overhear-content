@@ -20,10 +20,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Line | Samou était plein de joie, libre! | Samou was full of joy, free! | #730 00:43:55: Samou était plein de joie, libre | verbatim |
 | 9 | Line | Comme on faisait la fête, dans le temps! | How we used to party, back in the day! | #732 00:44:01: Comme on faisait la fête, dans le temps | verbatim |
 | 10 | Line | Tu nous manques, Samou. | We miss you, Samou. | #735 00:44:15: Tu nous manques, Samou | verbatim |
-| 11 | Line | Mais je te promets une chose. Nous continuerons à rire. | But I promise you one thing. We'll keep on laughing. | #736 00:44:18: Mais je te promets une chose<br>#737 00:44:20: Nous continuerons à rire | verbatim |
+| 11 | Line | Mais je te promets une chose. Nous allons continuer de rigoler. | But I promise you one thing. We're going to keep on laughing. | #736 00:44:18: Mais je te promets une chose<br>#737 00:44:20: Nous continuerons à rire | adapted: Restores actual original near future Nous allons continuer de rigoler, not the simple future invented by the dual subtitles. Omits the following concessive clause. |
 | 12 | Françoise | Oui, il faut se battre contre le chagrin. | Yes, we must fight against sorrow. | #740 00:44:31: Oui, il faut se battre contre le chagrin | verbatim |
-| 13 | Françoise | Samuel aimait vraiment rire. | Samuel really loved to laugh. | #741 00:44:34: Samuel aimait vraiment rire | verbatim |
-| 14 | Line | Tu aimais une belle chanson. Celle-là surtout. | You loved a beautiful song. This one most of all. | #746 00:44:53: Tu aimais une belle chanson<br>#747 00:44:56: celle-là surtout | verbatim |
+| 13 | Françoise | Samuel était très doué pour le rire. | Samuel had a real gift for laughter. | #741 00:44:34: Samuel aimait vraiment rire | adapted: Restores actual French gifted-for-laughter description; dual subtitles changed it to loved to laugh. |
+| 14 | Line | Tu aimais tellement les chansons. Celle-ci surtout. | You loved songs so much. This one most of all. | #746 00:44:53: Tu aimais une belle chanson<br>#747 00:44:56: celle-là surtout | adapted: Restores original plural songs/tellement and celle-ci. Condenses en particulier celle-ci as celle-ci surtout. |
 | 15 | Line | Tu disais que c'était notre chanson. | You used to say it was our song. | #748 00:44:58: Tu disais que c'était | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -41,8 +41,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'How we used to party, back in the day!' The background past again, for something that happened again and again. Literally 'how we used to make the party'.
 - 'We miss you, Samou.' The same back-to-front verb as in Françoise's speech: the two rivals are saying the same thing.
 - 'But I promise you one thing.' She speaks to Samuel with the casual 'you', as to an old friend.
-- 'We'll keep on laughing.' This is the simple future: the verb 'continue' with a future ending. Line wants laughter, not tears.
+- 'We're going to keep on laughing.' The future plan uses go followed by keep on, which in turn links to laugh. The last word is an informal way to say laugh or have fun. Line promises that Samuel's friends will continue to find joy.
 - 'Yes, we must fight against sorrow.' Françoise takes the floor back, with the expression for 'we must'. The word at the end is a strong one for grief.
-- 'Samuel really loved to laugh.' Loved followed directly by laugh describes something Samuel enjoyed. Really strengthens the memory. Françoise agrees with Line's image of him, while trying to add her own view of their friend.
-- 'You loved a beautiful song. This one most of all.' Line has the last word. The word for 'beautiful' is feminine, like the song.
+- 'Samuel had a real gift for laughter.' The French wording says he was very gifted for laughter. After the, laugh becomes a naming word for laughter itself, rather than an action he is doing. Françoise acknowledges his humour while adding her own view of him.
+- 'You loved songs so much. This one most of all.' So much strengthens loved. This one picks out a particular song from the songs Samuel enjoyed. Its ending matches the feminine word for song.
 - 'You used to say it was our song.' Line uses two action words in the background past. Then the music starts, and the whole room sings Samuel's song together. Let's hear the whole farewell once more.
