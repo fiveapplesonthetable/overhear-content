@@ -23,14 +23,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Camille | Moi, c'est Camille. Je pars aujourd'hui. | I'm Camille. I'm leaving today. | new | new |
 | 12 | Camille | On dit que vous êtes la plus grande imprésario de Paris. | People say you're the greatest impresario in Paris. | #769 00:43:21: la plus grande imprésario de Paris | adapted: Shortened or rephrased from the cited source dialogue. |
 | 13 | Arlette | Pas besoin de me flatter! | No need to flatter me! | #770 00:43:24: Pas besoin de | adapted: Shortened or rephrased from the cited source dialogue. |
-| 14 | Camille | Vous avez dit imprésario. | You said impresario. | #771 00:43:28: Vous avez dit | adapted: Shortened or rephrased from the cited source dialogue. |
-| 15 | Arlette | C'est plus classe qu'agent. | It's classier than agent. | #771 00:43:28: C'est plus classe qu | adapted: Shortened or rephrased from the cited source dialogue. |
+| 14 | Arlette | Tu as dit imprésario? | Did you say impresario? | #771 00:43:28: Vous avez dit | adapted: Original French audio says t’as dit imprésario, toi; expanded to tu as. The reconstructed SRT’s vous is not followed. |
+| 15 | Camille | C'est plus classe qu'agent. | It's classier than agent. | #771 00:43:28: C'est plus classe qu | adapted: Shortened or rephrased from the cited source dialogue. |
 | 16 | Arlette | Allez, viens, Jean Gabin! | Come on, Jean Gabin! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'No! Let go of the contract!' Camille gives a short instruction without a separate 'you'. She uses the familiar form when speaking to the dog.
-- 'What are you doing?' The opening chunk is a fixed way to start a 'what' question; just learn it as one block. Arlette uses the casual 'you' with Camille, a young stranger. Older people sometimes do that.
+- 'What are you doing?' The opening question expression asks 'what'. Arlette uses the familiar 'you' in her direct question to Camille.
 - 'Look, here's your owner.' Camille says this to the dog, not to Arlette, so again it's the casual 'you'. The word she uses for 'owner' is the feminine one, literally the dog's 'mistress'.
 - 'I was walking by.' Literally 'I was passing through there'. The ending of the action word tells you it was going on in the background, an ongoing past action.
 - 'He was playing with a contract.' Same background past tense, same ending sound. Arlette is not convinced.
@@ -44,6 +44,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm leaving today.' The present form of 'leave' can describe a departure happening now or soon. The final word locates it on this day.
 - 'People say you're the greatest impresario in Paris.' 'The greatest' is built with 'the most big'. The first little word means 'people' or 'one', a very common way to say 'they say'. Arlette waves it off.
 - 'No need to flatter me!' This shortened expression leaves out a subject and a form of 'have'. The action 'flatter' follows a linking word, with 'me' placed before it.
-- 'You said impresario.' The polite 'you' again, and the verb in the past with 'have' plus 'said'. Arlette explains her choice.
-- 'It's classier than agent.' The word for 'more' plus an adjective gives you a comparison, and the little word after it means 'than'. Then she calls her dog.
+- 'Did you say impresario?' Arlette keeps the familiar 'you' with Camille, as earlier. The past action uses 'have' followed by 'said'.
+- 'It's classier than agent.' Camille answers with a comparison: 'more' before the description, followed by the small word for 'than'. Arlette then calls her dog.
 - 'Come on, Jean Gabin!' The first word literally means 'go', but here it's just 'come on'. Then a casual command to the dog: 'come'. And now the whole scene again, without stopping.
+
+## Source review
+
+Original video and unprompted French audio confirm Arlette’s familiar question t’as dit imprésario, toi, followed by Camille’s classier-than-agent reply. The learner question expands t’as to tu as. The false vous in the reconstructed SRT is not followed. Feminine agreement for the reference to Arlette is supported by the Académie entry linked in the lexicon.
