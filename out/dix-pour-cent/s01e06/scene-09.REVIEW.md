@@ -19,10 +19,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Christophe Bel | Tu es raide, tu es comme un vieux beauf! | You are stiff, you are like an old redneck! | #241 00:14:51: T'es comme ça, t'es raide, t'es comme un vieux beauf ! | verbatim |
 | 8 | François | C'est du théâtre, pas les Jeux olympiques! | This is theatre, not the Olympic Games! | #245 00:15:01: C'est du théâtre, pas les Jeux olympiques ! | verbatim |
 | 9 | Christophe Bel | Vous m'expliquez ce qu'est le théâtre? J'écoute! | You are explaining to me what theatre is? I am listening! | #247 00:15:08: Vous m'expliquez ce qu'est le théâtre ? Très bien, j'écoute ! | verbatim |
-| 10 | Andréa | Christophe, s'il te plaît, calme-toi. | Christophe, please, calm down. | #248 00:15:12: Christophe. | verbatim |
-| 11 | Christophe Bel | Je porte ce projet depuis des mois! Personne ne fait d'effort! | I have been carrying this project for months! Nobody makes an effort! | #252 00:15:20: Je porte ce projet depuis des mois !<br>#253 00:15:23: Personne ne fait d'effort ! | verbatim |
-| 12 | Christophe Bel | Au secours! François? | Help! François? | #255 00:15:33: Au secours ! François ? | verbatim |
-| 13 | François | Je suis désolé. Je ne l'ai pas fait exprès. | I am sorry. I did not do it on purpose. | #258 00:15:46: Je suis désolé.<br>#259 00:15:47: Je ne l'ai pas fait exprès. | verbatim |
+| 10 | Christophe Bel | Je porte ce projet depuis des mois! Personne ne fait d'effort! | I have been carrying this project for months! Nobody makes an effort! | #252 00:15:20: Je porte ce projet depuis des mois !<br>#253 00:15:23: Personne ne fait d'effort ! | verbatim |
+| 11 | Christophe Bel | Au secours! François? | Help! François? | #255 00:15:33: Au secours ! François ? | verbatim |
+| 12 | Christophe Bel | Je suis désolé. Je ne l'ai pas fait exprès. | I am sorry. I did not do it on purpose. | #258 00:15:46: Je suis désolé.<br>#259 00:15:47: Je ne l'ai pas fait exprès. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -35,7 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are stiff, you are like an old redneck!' The description begins 'stiff'. The comparison after 'like' turns insulting: the final slang word describes an uncultured, narrow-minded man.
 - 'This is theatre, not the Olympic Games!' The opening calls it theatre. The short negative before the sporting event contrasts acting with competing in sport.
 - 'You are explaining to me what theatre is? I am listening!' The shortened object before 'explain' means 'to me'. The final one-word reply includes 'I' attached to 'listen' and signals a sarcastic challenge.
-- 'Christophe, please, calm down.' The final hyphenated command joins the calming action to 'yourself'. Andréa is asking Christophe to calm himself, rather than someone else.
 - 'I have been carrying this project for months! Nobody makes an effort!' The time words after 'this project' mean 'for months'. The second sentence uses the word for 'nobody' to deny that anyone makes an effort.
 - 'Help! François?' The opening is a fixed cry for help. It literally mentions rescue, but works as the ordinary English 'help!'.
-- 'I am sorry. I did not do it on purpose.' The opening describes François as sorry. In the second sentence, the last word means 'on purpose', which he denies with the two negative words.
+- 'I am sorry. I did not do it on purpose.' The director has knocked François into the pool and now apologizes. The last word means 'on purpose', which he denies with the two negative words.
