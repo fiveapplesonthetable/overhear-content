@@ -152,7 +152,7 @@ WALK = [(0,
  (15,
   None,
   "'I'm sure you'd be a great dad.' Notice two things here: 'sure' has the feminine ending again, and 'you'd "
-  "be' is the hypothetical 'would' form of 'to be'. His clients even call him 'Daddy', she says. Then she "
+  "be' is the hypothetical 'would' form of 'to be'. Then she "
   'explains her thinking.'),
  (16,
   None,
