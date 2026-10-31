@@ -32,20 +32,58 @@ STORY = [
     ('andrea', 'Les gens sont malades, non?', "People are crazy, aren't they?", [(307, 'Les gens sont malades')], ''),
     ('andrea', 'Oui? Allô?', 'Yes? Hello?', [(309, 'Oui')], ''),
 ]
-WALK = [
-    (0, None, "'Clémentine! What are you doing here?' This long question phrase after Clémentine's name is the everyday spoken way to ask 'what'."),
-    (1, None, "'I have to do this in order to heal.' The first action word means 'must' or 'have to', and the linking word before 'heal' means 'in order to'."),
-    (2, None, "'Okay, but another time!' Andréa desperately wants to get rid of her before Colette hears too much."),
-    (3, None, "'You're a monster of seduction.' Clémentine is an actress, and she delivers her speech as if she were on stage."),
-    (4, None, "'Clémentine, listen.' Andréa gives a casual command for one person, dropping the word for 'you'."),
-    (5, None, "'You devoured me like a hyena!' The past form has an extra feminine letter at the end because the object word before the auxiliary refers to Clémentine."),
-    (6, None, "'That's ridiculous. It didn't last a month!' The two-part negative wraps around the helper word in the past."),
-    (7, None, "'I'm talking about feelings! I had feelings for you.' The second verb is in the past form used for how things used to be."),
-    (8, None, "'And you asked your assistant to break up with me!' Listeners who remember the first episode know that this is completely true: Andréa made poor Camille do it."),
-    (9, None, "'No, that's not true!' Literally 'it is false', with Colette standing right there listening to every word."),
-    (10, None, "'You're rotten! But it's over.' Clémentine's grand tragedy reaches its climax."),
-    (11, None, "'I forgive you.' The little object word for 'you' sits right in front of the verb. Having delivered her big forgiveness line, Clémentine stalks away."),
-    (12, None, "'You need a new doctor, you're crazy!' Literally 'you have need of a new doctor', and the adjective at the end is the feminine form of 'crazy'."),
-    (13, None, "'People are crazy, aren't they?' Literally 'people are sick, no?'. Andréa turns to Colette with an awkward smile, but Colette simply bids Ms Martel a polite goodbye and walks off."),
-    (14, None, "'Yes? Hello?' Saved by the bell, Andréa answers her ringing phone."),
-]
+WALK = [(0,
+  None,
+  "'Clémentine! What are you doing here?' This long question phrase after Clémentine's name is the everyday "
+  "spoken way to ask 'what'."),
+ (1,
+  None,
+  "'I have to do this in order to heal.' The first action word means 'must' or 'have to', and the linking word "
+  "before 'heal' means 'in order to'."),
+ (2,
+  None,
+  "'Okay, but another time!' The word meaning 'another' follows the feminine form of 'a'. Together with 'time', "
+  'it means a different occasion, not one more repetition right now.'),
+ (3,
+  None,
+  "'You're a monster of seduction.' The word for 'monster' stays masculine even though Andréa is a woman. It is "
+  'the name of the thing Clémentine compares her to.'),
+ (4, None, "'Clémentine, listen.' Andréa gives a casual command for one person, dropping the word for 'you'."),
+ (5,
+  None,
+  "'You devoured me like a hyena!' The past form has an extra feminine letter at the end because the object word "
+  'before the auxiliary refers to Clémentine.'),
+ (6,
+  None,
+  "'That's ridiculous. It didn't last a month!' The two-part negative wraps around the helper word in the past."),
+ (7,
+  None,
+  "'I'm talking about feelings! I had feelings for you.' The second verb is in the past form used for how things "
+  'used to be.'),
+ (8,
+  None,
+  "'And you asked your assistant to break up with me!' The request uses 'ask someone to do something'. French "
+  "puts a short linking word before the second action, 'leave me'. It recalls the task Andréa gave Camille."),
+ (9,
+  None,
+  "'No, that's not true!' Literally 'it is false', with Colette standing right there listening to every word."),
+ (10,
+  None,
+  "'You're rotten! But it's over.' The first describing word has a feminine ending for Andréa. After 'it is', the "
+  "form meaning 'finished' stays masculine; it refers to the whole situation."),
+ (11,
+  None,
+  "'I forgive you.' The little object word for 'you' sits right in front of the verb. Having delivered her big "
+  'forgiveness line, Clémentine stalks away.'),
+ (12,
+  None,
+  "'You need a new doctor, you're crazy!' Literally 'you have need of a new doctor', and the adjective at the end "
+  "is the feminine form of 'crazy'."),
+ (13,
+  None,
+  "'People are crazy, aren't they?' Literally 'people are sick, no?'. Andréa turns to Colette with an awkward "
+  'smile, but Colette simply bids Ms Martel a polite goodbye and walks off.'),
+ (14,
+  None,
+  "'Yes? Hello?' The second greeting is specifically for phone calls. A rising 'yes?' can also answer a ringing "
+  'phone or ask the caller to continue.')]

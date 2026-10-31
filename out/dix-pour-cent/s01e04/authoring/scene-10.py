@@ -34,22 +34,52 @@ STORY = [
     ('andrea', "C'est faux. Je suis souvent seule.", "That's false. I'm often alone.", [(286, 'Faux'), (290, 'Je suis souvent')], ''),
     ('colette', "De toute façon, tu n'es pas quelqu'un pour moi.", "Anyway, you're not someone for me.", [(287, "De toute façon, tu n'es pas quelqu'un pour moi")], ''),
 ]
-WALK = [
-    (0, None, "'Andréa! Brancillon came to my place at seven in the morning!' The verb 'to come' uses 'to be' in the past tense, so 'came' has a feminine ending for Brancillon."),
-    (1, None, "'What? To your place?' The little preposition for 'at someone's home' followed by 'you'."),
-    (2, None, "'To check my suits and my expense claims. Good luck!' Literally 'notes of expenses'. Gabriel warns her that she's next."),
-    (3, None, "'Colette? Hello! This jacket is very nice.' Later, in a clothes shop, Andréa approaches Colette by the racks."),
-    (4, None, "'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out."),
-    (5, None, "'Stop it, Andréa. I know who you are.' Colette switches straight to the informal 'you'."),
-    (6, None, "'Really?' Andréa replies with two short words that mean 'oh really?' or 'is that so?'."),
-    (7, None, "'Yes. I see everything in your bills.' Every restaurant receipt and shop bill is sitting in Colette's audit file."),
-    (8, None, "'What?' Andréa is caught off guard."),
-    (9, None, "'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the word for 'never'."),
-    (10, None, "'You pay for a gym, but you never go there.' Literally 'a room of sport', and the tiny word before 'go' means 'there'."),
-    (11, None, "'And you have a problem with your hair.' Plural possessive before 'hair', because 'hair' on your head is plural in French."),
-    (12, None, "'No!' Andréa protests."),
-    (13, None, "'Yes, you do. Always a different hairdresser.' Once again, the special word for 'yes' contradicts Andréa's 'no'."),
-    (14, None, "'And you have lots of girlfriends.' Literally 'little friends' in the feminine."),
-    (15, None, "'That's false. I'm often alone.' For once, Andréa drops her tough act and speaks honestly."),
-    (16, None, "'Anyway, you're not someone for me.' This three-word phrase at the start means 'in any case' or 'anyway'."),
-]
+WALK = [(0,
+  None,
+  "'Andréa! Brancillon came to my place at seven in the morning!' The verb 'to come' uses 'to be' in the past "
+  "tense, so 'came' has a feminine ending for Brancillon."),
+ (1, None, "'What? To your place?' The little preposition for 'at someone's home' followed by 'you'."),
+ (2,
+  None,
+  "'To check my suits and my expense claims. Good luck!' Literally 'notes of expenses'. Gabriel warns her that "
+  "she's next."),
+ (3,
+  None,
+  "'Colette? Hello! This jacket is very nice.' The describing word is the feminine form of 'beautiful', matching "
+  "'jacket'. It sounds different from the masculine form you hear for a man or a masculine object."),
+ (4, None, "'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out."),
+ (5, None, "'Stop it, Andréa. I know who you are.' Colette switches straight to the informal 'you'."),
+ (6, None, "'Really?' Andréa replies with two short words that mean 'oh really?' or 'is that so?'."),
+ (7,
+  None,
+  "'Yes. I see everything in your bills.' The word after 'see' stands alone for 'everything'. It is different "
+  "from the longer expression for 'everyone', which adds the words for 'the world'."),
+ (8, None, "'What?' Andréa is caught off guard."),
+ (9,
+  None,
+  "'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the word "
+  "for 'never'."),
+ (10,
+  None,
+  "'You pay for a gym, but you never go there.' The short place word before 'go' replaces the gym. It is joined "
+  "to the first part of the negative, while 'never' comes after the action."),
+ (11,
+  None,
+  "'And you have a problem with your hair.' Plural possessive before 'hair', because 'hair' on your head is "
+  'plural in French.'),
+ (12,
+  None,
+  "'No!' A complete protest can be just this one word. Colette immediately contradicts it with the other kind of "
+  "French 'yes'."),
+ (13,
+  None,
+  "'Yes, you do. Always a different hairdresser.' Once again, the special word for 'yes' contradicts Andréa's "
+  "'no'."),
+ (14, None, "'And you have lots of girlfriends.' Literally 'little friends' in the feminine."),
+ (15,
+  None,
+  "'That's false. I'm often alone.' The describing word has a feminine written ending because Andréa is speaking "
+  "about herself. The time word before it means 'often', not 'always'."),
+ (16,
+  None,
+  "'Anyway, you're not someone for me.' This three-word phrase at the start means 'in any case' or 'anyway'.")]
