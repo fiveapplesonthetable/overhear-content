@@ -144,8 +144,8 @@ WALK = [(0,
  (9,
   None,
   "'My phone was on silent. Do you want some champagne?' The imperfect form describes the phone's earlier "
-  'state. The familiar question offers some champagne, using a partitive form for an unspecified amount of '
-  'the drink.'),
+  'state. The familiar question offers some champagne, using a quantity expression for an unspecified amount '
+  'of the drink.'),
  (10,
   None,
   "'Camille helped me a lot this week. We are celebrating!' The small word for me attaches to the past "
