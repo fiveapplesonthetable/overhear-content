@@ -138,8 +138,8 @@ WALK = [(0,
   'morning.'),
  (15,
   None,
-  "'Yes, yes.' Repeating the answer confirms both requests Andrea has just made. Camille is willing to be "
-  'available early and on Sundays.'),
+  "'Yes, yes.' The repeated answer confirms both requests Andrea has just made. Camille accepts both without "
+  'hesitation.'),
  (16,
   None,
   "'Very good. Can you start now?' 'Can' is followed straight away by the plain action 'start'. The final "

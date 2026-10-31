@@ -10,21 +10,21 @@ PAIR = 'fr-en'
 LABELS = {'camille': 'Camille', 'cecile': 'Cécile'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
-INTRO = ("Camille has heard the office gossip about Cecile's lost film offer. When they meet at the washroom mirror, "
- 'she assumes that Cecile already knows why she was turned down. Listen to the French first and follow how a '
- 'friendly conversation goes wrong.')
-OPENER = "Let's follow the misunderstanding. A short question about Cecile's day starts the conversation."
+INTRO = ("Camille has heard the office gossip about Cecile's lost film offer. They meet in the elevator, where "
+ "Cecile asks about Camille's difficult day before mentioning her own worries. Camille assumes that the "
+ 'actress already knows why she was turned down; listen to how the conversation goes wrong.')
+OPENER = "Let's follow the misunderstanding. Cecile first asks Camille a short question about her day."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('You have heard how to show sympathy and ask someone to explain. Listen again for the polite forms and the '
  'descriptions that change to match the person or thing; see you next time.')
 CLOSING = ('camille', 'Bonne journée!')
-STORY = [('camille', 'Journée difficile?', 'Tough day?', [(423, 'Journée difficile')], ''),
- ('cecile',
+STORY = [('cecile', 'Journée difficile?', 'Tough day?', [(423, 'Journée difficile')], ''),
+ ('camille',
   'Pas difficile. Juste très particulière.',
   'Not tough. Just very strange.',
   [(424, 'Pas difficile'), (424, 'très particulière')],
   ''),
- ('camille', 'Moi aussi.', 'Me too.', [(425, 'Moi aussi')], ''),
+ ('cecile', 'Moi aussi.', 'Me too.', [(425, 'Moi aussi')], ''),
  ('cecile', 'Ce film de Tarantino...', 'This Tarantino film...', [(425, 'Ce film de Tarantino')], ''),
  ('camille',
   "Je comprends. C'est un coup dur.",
@@ -69,12 +69,12 @@ STORY = [('camille', 'Journée difficile?', 'Tough day?', [(423, 'Journée diffi
  ('camille', 'Au revoir!', 'Goodbye!', [(441, 'Au revoir')], '')]
 WALK = [(0,
   None,
-  "'Tough day?' Just two words, no verb: the noun for 'day' and the adjective for 'difficult'. Cécile "
-  'answers politely.'),
+  "'Tough day?' Just two words, no verb: a day and a description of difficulty. Cecile asks Camille after "
+  'helping her get into the elevator with her papers.'),
  (1,
   None,
-  "'Not tough. Just very strange.' Her word means 'peculiar' or 'unusual', and it has a feminine ending "
-  'because it describes the day, which is a feminine word in French. Camille sympathises.'),
+  "'Not tough. Just very strange.' Camille's description means 'peculiar' or 'unusual'. Its feminine ending "
+  'matches the French word for day.'),
  (2,
   None,
   "'Me too.' The short word for 'me' is the one that can stand alone. Adding 'also' gives the everyday "

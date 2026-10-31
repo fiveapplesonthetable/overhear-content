@@ -48,6 +48,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you look after him?' The expression for 'look after' needs a small word meaning 'of' before the person. The last word is the form of 'him' used after a preposition.
 - 'No way!' Literally 'out of the question'. Andréa likes that. Then she gets to the real test.
 - 'Can I call you at four in the morning? Do you work on Sundays?' A day with the definite article can describe a regular habit. Andrea wants someone available every Sunday, as well as very early in the morning.
-- 'Yes, yes.' Repeating the answer confirms both requests Andrea has just made. Camille is willing to be available early and on Sundays.
+- 'Yes, yes.' The repeated answer confirms both requests Andrea has just made. Camille accepts both without hesitation.
 - 'Very good. Can you start now?' 'Can' is followed straight away by the plain action 'start'. The final word makes the offer immediate.
 - 'Yes, right now!' The time word is the same one Andrea has just used. Camille repeats it to show that she is ready without any delay.
