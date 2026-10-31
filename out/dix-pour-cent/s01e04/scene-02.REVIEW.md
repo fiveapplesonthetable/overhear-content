@@ -23,9 +23,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Gabriel | Vous avez de la grâce. Oui, c'est ça, de la grâce. | You have grace. Yes, that's it, grace. | #77 00:04:19: Vous avez de la grâce. Oui, c'est ça, de la grâce | verbatim |
 | 12 | Sofia | Merci, Gabriel! | Thank you, Gabriel! | #50 00:03:14: Merci<br>#52 00:03:18: Gabriel ! | verbatim |
 | 13 | Gabriel | Bon, au travail! | Right, back to work! | #79 00:04:28: Bon, au travail ! | verbatim |
-| 14 | Andréa | Et après Sofia, tu prends aussi la fille de la boulangerie? | And after Sofia, are you taking on the girl from the bakery too? | #81 00:04:32: la fille de la boulangerie | verbatim |
+| 14 | Mathias | Et après Sofia, tu prends aussi la fille de la boulangerie? | And after Sofia, are you taking on the girl from the bakery too? | #81 00:04:32: la fille de la boulangerie | verbatim |
 | 15 | Gabriel | Elle fera la couverture d'un grand magazine! | She'll be on the cover of a big magazine! | #82 00:04:35: Elle fera la couverture de | verbatim |
-| 16 | Andréa | Tu l'aimes bien, non? | You like her, don't you? | #83 00:04:37: non ? | adapted: Softens Andréa’s explicit sexual teasing into a question about attraction; not a claim of romantic love. |
+| 16 | Mathias | Tu l'aimes bien, non? | You like her, don't you? | #83 00:04:37: non ? | adapted: Softens Mathias’s explicit sexual teasing into a question about attraction; not a claim of romantic love. |
 | 17 | Gabriel | Jamais avec mes clientes! | Never with my clients! | #83 00:04:37: Jamais avec mes clientes | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -42,8 +42,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's simple and natural.' Both adjectives stay in the masculine singular after 'it is'.
 - 'You have grace. Yes, that's it, grace.' The two words before 'grace' mean 'some', used before an abstract quality.
 - 'Thank you, Gabriel!' Sofia is glowing as the lift doors open.
-- 'Right, back to work!' Literally 'to the work'. Gabriel hurries into the lift, where Andréa is waiting.
+- 'Right, back to work!' Literally 'to the work'. Gabriel hurries into the lift, where Mathias is waiting.
 - 'And after Sofia, are you taking on the girl from the bakery too?' The action word normally means 'take'. For an agent, taking someone means adding them as a client.
 - 'She'll be on the cover of a big magazine!' Literally 'she will make the cover', using the future tense of 'to make'.
-- 'You like her, don't you?' Adding the word meaning 'well' after 'love' makes the everyday expression for liking someone. The final 'no?' asks him to confirm Andréa's suspicion.
+- 'You like her, don't you?' Adding the word meaning 'well' after 'love' makes the everyday expression for liking someone. The final 'no?' asks him to confirm Mathias's suspicion.
 - 'Never with my clients!' The final word has a feminine ending because he means female clients. Its spoken ending differs from the masculine form: listen for the clear final consonant.
+
+Primary-video speaker check: private E4 dual MP4 file 1619500213, frames spanning 00:03:12–00:05:02. Elevator teasing at 00:04:32–00:04:41 is Mathias speaking to Gabriel, not Andréa. All lesson roles now match the source sequence. Images stay private under /mnt/agent/narrator-runs/e04-editorial/source-review/.

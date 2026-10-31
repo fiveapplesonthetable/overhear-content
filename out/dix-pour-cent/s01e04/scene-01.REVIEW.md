@@ -47,3 +47,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Audrey's return to a film shoot is imminent.' The short linking sound before her name means 'of': it is Audrey's return. Mathias promises that she will be back on set very soon.
 - 'Yes, it's a huge project.' The describing word comes after 'project'. It has the same spoken form for a masculine or feminine thing, so you can reuse it to describe either kind of thing.
 - 'I expect your cheque this week, with ten percent extra.' At the end, the word for 'more' means an added amount. It does not mean 'no longer': there is no negative around it.
+
+Primary-video speaker check: private E4 dual MP4 file 1619500213, 38 frames spanning 00:00:00–00:02:33. Audrey carries her baby beside Mathias; the tax inspector is male. The reviewed lesson uses the correct three roles. Images stay private under /mnt/agent/narrator-runs/e04-editorial/source-review/.
