@@ -24,7 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Soyons professionnels. | Let's be professional. | #39 00:01:52: Soyons professionnels | verbatim |
 | 13 | Françoise | Vous n'avez pas de famille. J'ai une vie. | You have no family. I have a life. | #40 00:01:55: Vous n'avez pas de famille<br>#42 00:01:59: J'ai une vie | verbatim |
 | 14 | Andréa | Mais des gens comptent sur ce film! | But people are counting on this film! | #43 00:02:01: Mais des gens comptent sur ce film | verbatim |
-| 15 | Andréa | À quel âge ces caprices s'arrêtent-ils? | At what age do these whims stop? | #47 00:02:12: À quel âge ces caprices s'arrêtent-ils ? | verbatim |
+| 15 | Andréa | Ça s'arrête à quel âge, les caprices? | At what age do these whims stop? | #47 00:02:12: À quel âge ces caprices s'arrêtent-ils ? | adapted: Original French audio uses Ça s’arrête à quel âge, les caprices? The dual subtitles had invented an inverted question. |
 | 16 | Andréa | Désolée. | Sorry. | #48 00:02:17: Désolé | verbatim |
 | 17 | Françoise | Pourquoi je reste dans cette agence? | Why do I stay with this agency? | #50 00:02:23: Pourquoi je reste dans cette agence ? | verbatim |
 | 18 | Françoise | Oui, c'est parfait. | Yes, it's perfect. | #52 00:02:29: Oui, c'est parfait | verbatim |
@@ -46,7 +46,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Let's be professional.' This is a 'let's' command, made from the 'we' form of the verb 'to be'. Andréa switches to business.
 - 'You have no family. I have a life.' Françoise turns it round on Andréa: you only have your job. Notice 'no family': after a negative, French replaces 'a' or 'some' with the short word that normally means 'of'.
 - 'But people are counting on this film!' Count on means depend on someone or something. It is stronger than simply hoping: Andréa means that other people's work relies on Françoise going ahead.
-- 'At what age do these whims stop?' The demonstrative these is plural, matching whims. At the end, the pronoun they is attached to the verb with a hyphen to make an inverted question. Calling her grief a whim is the insult.
+- 'At what age do these whims stop?' The question starts with it stops and asks at what age in the middle. The final whims tells us what it refers to. Calling Françoise's grief a whim is the insult; the spoken question does not reverse the action and its subject.
 - 'Sorry.' Andréa realises it immediately. She is a woman, so on paper the word gets an extra e.
 - 'Why do I stay with this agency?' Françoise asks a question with no change of word order at all: in speech, just raise your voice at the end.
 - 'Yes, it's perfect.' This approves the finished arrangement as a whole. Perfect also works as a short response when someone checks a plan or an order. The florist shows them the wreath, though the agents' relationship is in trouble.

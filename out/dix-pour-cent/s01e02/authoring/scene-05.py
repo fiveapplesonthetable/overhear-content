@@ -16,8 +16,8 @@ INTRO = ('Back at the office, Andréa has twenty-four hours to win back Françoi
  'word.')
 OPENER = "Let's go through it. Camille starts by talking to the actress waiting at her desk, very politely."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ("Poor Camille: a kind heart for Rebecca, and a green shawl for Françoise. If you followed the polite 'you' "
- "between the two women, you're doing really well. See you next time!")
+OUTRO = ('Camille tries to help a client and makes an awkward choice of gift. Listen for the difference in address: '
+ 'she speaks respectfully to her boss, while Andréa uses the familiar you with her. See you next time!')
 CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [('camille',
   'Je vais voir si elle peut vous recevoir.',
@@ -59,16 +59,20 @@ STORY = [('camille',
   [(211, 'Les actrices peuvent pleurer quand elles veulent')],
   ''),
  ('andrea',
-  'Vous avez eu le châle pour Françoise Fabian?',
+  'Tu as eu le châle pour Françoise Fabian?',
   'Did you get the shawl for Françoise Fabian?',
   [(212, 'Vous avez eu le châle'), (212, 'pour Françoise Fabian ?')],
-  ''),
+  'Original French audio restores familiar address mistranslated as vous in dual subtitles.'),
  ('camille',
   "Oui, c'est envoyé. Voici la facture.",
   "Yes, it's been sent. Here's the bill.",
   [(213, "Oui, c'est envoyé. Voici la facture")],
   ''),
- ('andrea', 'Vous avez eu du vert?', 'You got green?', [(214, 'Vous avez eu du vert ?')], ''),
+ ('andrea',
+  'Tu as eu du vert?',
+  'You got green?',
+  [(214, 'Vous avez eu du vert ?')],
+  'Original French audio restores familiar address mistranslated as vous in dual subtitles.'),
  ('camille', 'Oui, un très beau vert.', 'Yes, a very nice green.', [(214, 'Oui, un très beau vert')], ''),
  ('andrea',
   "On n'offre pas du vert à une actrice. Ça porte malheur.",
@@ -82,9 +86,9 @@ WALK = [(0,
   'the end is for the actress, a stranger. Then Camille calls out to her boss.'),
  (1,
   None,
-  "'Andréa! One of your actresses is here, Rebecca Vialle.' Notice that Camille uses the polite 'you' with "
-  "Andréa, and Andréa uses it back. That's our first point today: in this scene, both women stay formal. "
-  'Then the question.'),
+  "'Andréa! One of your actresses is here, Rebecca Vialle.' One of singles out a client from Andréa's list. "
+  'Your actresses uses the respectful way to address the boss. Later Andréa addresses Camille familiarly, so '
+  'their forms of you are not symmetrical.'),
  (2,
   None,
   "'Can you see her?' The short word meaning her goes directly before see. It refers to Rebecca. In this "
