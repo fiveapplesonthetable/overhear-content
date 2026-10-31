@@ -66,7 +66,7 @@ object the existing full-episode coverage and end-time checks apply unchanged. I
 
 Registered taster shows are Die Discounter (`die-discounter`, `de-en`), Paquita Salas (`paquita-salas`, `es-en`), Boris
 (`boris`, `it-en`), The Producers (`the-producers`, `ko-en`), The Naked Director (`the-naked-director`, `ja-en`), Behind
-the Scenes (`behind-the-scenes`, `zh-en`) and Al Maktab (`al-maktab`, `ar-en`). Registration alone never activates a pair.
+the Scenes (`behind-the-scenes`, `zh-en`) Al Maktab (`al-maktab`, `ar-en`) and Porta dos Fundos (`porta-dos-fundos`, `pt-en`, Brazilian Portuguese). Registration alone never activates a pair.
 
 ### Short taster structure
 
