@@ -19,10 +19,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Gabriel | Sofia, tout le monde te trouve fantastique. | Sofia, everyone thinks you're fantastic. | #202 00:10:53: Tout le monde te trouve fantastique. | verbatim |
 | 8 | Sofia | Fantastique? Alors pourquoi je n'ai pas de rôle? | Fantastic? Then why don't I get a part? | #203 00:10:55: Fantastique<br>#204 00:10:56: Alors pourquoi je ne | verbatim |
 | 9 | Gabriel | Tu commences juste. Les refus, c'est normal. | You're just starting out. Rejections are normal. | #205 00:10:58: Les refus, c'est normal. | verbatim |
-| 10 | Sofia | Trois auditions ratées! | Three failed auditions! | #206 00:11:01: Trois auditions ratées. | verbatim |
+| 10 | Gabriel | Trois auditions ratées! | Three failed auditions! | #206 00:11:01: Trois auditions ratées. | verbatim |
 | 11 | Gabriel | Tu sais combien d'auditions Cécile de France a ratées? | Do you know how many auditions Cécile de France failed? | #206 00:11:01: Tu sais combien Cécile de France | verbatim |
 | 12 | Sofia | Trois? | Three? | #207 00:11:06: Trois ? | verbatim |
-| 13 | Gabriel | Euh, oui, trois. Mais courage, Sofia! | Er, yes, three. But hang in there, Sofia! | #207 00:11:06: Trois ? | verbatim |
+| 13 | Gabriel | Trois? | Three? | #207 00:11:06: Trois ? | adapted: Gabriel repeats the number as a question; the source does not establish how many auditions Cécile failed. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -35,7 +35,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Sofia, everyone thinks you're fantastic.' Literally 'everyone finds you fantastic'. The short word for 'you' goes before 'finds'. With the expression for 'everyone', the action stays in the singular.
 - 'Fantastic? Then why don't I get a part?' After a negative verb, 'a part' becomes 'any part'.
 - 'You're just starting out. Rejections are normal.' Literally 'the refusals, it's normal'.
-- 'Three failed auditions!' The word at the end is the past form of a verb that means 'to miss' a train or 'to fail' an exam or audition.
+- 'Three failed auditions!' Gabriel repeats Sofia's disappointing total. The last word is the past form of an action meaning to miss or fail; its feminine plural ending matches auditions.
 - 'Do you know how many auditions Cécile de France failed?' The two-word pattern after 'know' asks 'how many'. It comes directly before the thing being counted: auditions.
 - 'Three?' Repeating just a number with a rising voice is enough to ask a question. Sofia guesses the number of auditions she herself has just failed.
-- 'Er, yes, three. But hang in there, Sofia!' The word for courage can stand alone as encouragement. Gabriel wanted a reassuring example, but the number turns out to be the same as Sofia's.
+- 'Three?' Gabriel repeats the number as a question. Repeating a short word with a rising voice can express surprise or uncertainty, rather than confirm a fact.
+
+Primary-video check: private E4 dual MP4 file1619500213,13frames626–678s. Gabriel phones from the office, then speaks to Sofia in the agency kitchen; no walk on a Paris street. Gabriel speaks the three-failed-auditions line. The source ends with repeated “Trois?” questions and does not confirm a historical count for Cécile; corrected the invented affirmative answer.

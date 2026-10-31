@@ -10,27 +10,59 @@ PAIR = 'fr-en'
 LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "At the cafe, Mathias has just pitched Audrey Fleurot the role of an ecologist stripper in Augustin's film. Meanwhile, out on a Paris street, Gabriel is walking with Sofia, his newest client, while arguing on the phone with a casting director who has just turned her down for several roles in a row. We'll hear it in French first; don't worry about catching every word."
-OPENER = "Let's walk through it. Gabriel is on the phone with a casting director, getting more annoyed by the second."
+INTRO = ('Gabriel argues with a casting director over the phone at the agency. The excuses for rejecting Sofia keep '
+ 'contradicting one another. Afterwards he tries to encourage her in the kitchen. Listen to the conversation in '
+ 'French first.')
+OPENER = "Let's walk through it. Gabriel is on the phone in his office, becoming more frustrated by the casting decisions."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('Gabriel challenges contradictory casting decisions, then tries to encourage Sofia. You heard the difference '
  "between 'too' and 'not enough', and a short way to tell someone to keep going. See you next time!")
 CLOSING = ('gabriel', 'À demain!')
-STORY = [
-    ('gabriel', 'Et Sofia Leprince? Trop exotique?', 'And Sofia Leprince? Too exotic?', [(193, 'Et Sofia Leprince ?'), (193, 'trop exotique.')], ''),
-    ('gabriel', 'Tu veux dire trop noire?', 'Do you mean too black?', [(194, 'Tu veux dire trop noire ?')], ''),
-    ('gabriel', 'Et pas assez exotique pour le rôle de la nounou?', 'And not exotic enough for the part of the nanny?', [(195, 'pas assez exotique pour la nounou.')], ''),
-    ('gabriel', 'Elle est trop blanche? Mais elle a du talent!', "She's too white? But she has talent!", [(197, 'Trop blanche ?'), (199, 'Elle a du talent !')], ''),
-    ('gabriel', "Et pour le rôle de l'étudiante?", 'And for the part of the student?', [(200, "L'étudiante")], ''),
-    ('gabriel', "Non? D'accord, merci.", 'No? Okay, thank you.', [(201, 'Non')], ''),
-    ('gabriel', 'Sofia, tout le monde te trouve fantastique.', "Sofia, everyone thinks you're fantastic.", [(202, 'Tout le monde te trouve fantastique.')], ''),
-    ('sofia', "Fantastique? Alors pourquoi je n'ai pas de rôle?", "Fantastic? Then why don't I get a part?", [(203, 'Fantastique'), (204, 'Alors pourquoi je ne')], ''),
-    ('gabriel', "Tu commences juste. Les refus, c'est normal.", "You're just starting out. Rejections are normal.", [(205, "Les refus, c'est normal.")], ''),
-    ('sofia', 'Trois auditions ratées!', 'Three failed auditions!', [(206, 'Trois auditions ratées.')], ''),
-    ('gabriel', "Tu sais combien d'auditions Cécile de France a ratées?", 'Do you know how many auditions Cécile de France failed?', [(206, 'Tu sais combien Cécile de France')], ''),
-    ('sofia', 'Trois?', 'Three?', [(207, 'Trois ?')], ''),
-    ('gabriel', 'Euh, oui, trois. Mais courage, Sofia!', 'Er, yes, three. But hang in there, Sofia!', [(207, 'Trois ?')], ''),
-]
+STORY = [('gabriel',
+  'Et Sofia Leprince? Trop exotique?',
+  'And Sofia Leprince? Too exotic?',
+  [(193, 'Et Sofia Leprince ?'), (193, 'trop exotique.')],
+  ''),
+ ('gabriel', 'Tu veux dire trop noire?', 'Do you mean too black?', [(194, 'Tu veux dire trop noire ?')], ''),
+ ('gabriel',
+  'Et pas assez exotique pour le rôle de la nounou?',
+  'And not exotic enough for the part of the nanny?',
+  [(195, 'pas assez exotique pour la nounou.')],
+  ''),
+ ('gabriel',
+  'Elle est trop blanche? Mais elle a du talent!',
+  "She's too white? But she has talent!",
+  [(197, 'Trop blanche ?'), (199, 'Elle a du talent !')],
+  ''),
+ ('gabriel', "Et pour le rôle de l'étudiante?", 'And for the part of the student?', [(200, "L'étudiante")], ''),
+ ('gabriel', "Non? D'accord, merci.", 'No? Okay, thank you.', [(201, 'Non')], ''),
+ ('gabriel',
+  'Sofia, tout le monde te trouve fantastique.',
+  "Sofia, everyone thinks you're fantastic.",
+  [(202, 'Tout le monde te trouve fantastique.')],
+  ''),
+ ('sofia',
+  "Fantastique? Alors pourquoi je n'ai pas de rôle?",
+  "Fantastic? Then why don't I get a part?",
+  [(203, 'Fantastique'), (204, 'Alors pourquoi je ne')],
+  ''),
+ ('gabriel',
+  "Tu commences juste. Les refus, c'est normal.",
+  "You're just starting out. Rejections are normal.",
+  [(205, "Les refus, c'est normal.")],
+  ''),
+ ('gabriel', 'Trois auditions ratées!', 'Three failed auditions!', [(206, 'Trois auditions ratées.')], ''),
+ ('gabriel',
+  "Tu sais combien d'auditions Cécile de France a ratées?",
+  'Do you know how many auditions Cécile de France failed?',
+  [(206, 'Tu sais combien Cécile de France')],
+  ''),
+ ('sofia', 'Trois?', 'Three?', [(207, 'Trois ?')], ''),
+ ('gabriel',
+  'Trois?',
+  'Three?',
+  [(207, 'Trois ?')],
+  'Gabriel repeats the number as a question; the source does not establish how many auditions Cécile failed.')]
 WALK = [(0, None, "'And Sofia Leprince? Too exotic?' The word before 'exotic' means 'too' or 'too much'."),
  (1,
   None,
@@ -60,8 +92,8 @@ WALK = [(0, None, "'And Sofia Leprince? Too exotic?' The word before 'exotic' me
  (8, None, "'You're just starting out. Rejections are normal.' Literally 'the refusals, it's normal'."),
  (9,
   None,
-  "'Three failed auditions!' The word at the end is the past form of a verb that means 'to miss' a train or 'to "
-  "fail' an exam or audition."),
+  "'Three failed auditions!' Gabriel repeats Sofia's disappointing total. The last word is the past form of an "
+  'action meaning to miss or fail; its feminine plural ending matches auditions.'),
  (10,
   None,
   "'Do you know how many auditions Cécile de France failed?' The two-word pattern after 'know' asks 'how many'. "
@@ -72,5 +104,5 @@ WALK = [(0, None, "'And Sofia Leprince? Too exotic?' The word before 'exotic' me
   'auditions she herself has just failed.'),
  (12,
   None,
-  "'Er, yes, three. But hang in there, Sofia!' The word for courage can stand alone as encouragement. Gabriel "
-  "wanted a reassuring example, but the number turns out to be the same as Sofia's.")]
+  "'Three?' Gabriel repeats the number as a question. Repeating a short word with a rising voice can express "
+  'surprise or uncertainty, rather than confirm a fact.')]
