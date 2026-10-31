@@ -16,16 +16,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Hervé | C'est la comptabilité. Ils sont adorables. | This is Accounts. They're lovely. | #345 00:19:24: C'est la Comptabilité<br>#346 00:19:25: ils sont adorables | verbatim |
 | 5 | Camille | Bonjour, je suis Camille! | Hello, I'm Camille! | #348 00:19:30: Je suis Camille | verbatim |
 | 6 | Hervé | Maintenant, je vous montre le service juridique. | Now I'll show you the Legal Department. | #353 00:19:54: Maintenant je vous montre le service juridique | verbatim |
-| 7 | Noémie | Voici les scripts. Sans scénario, pas de film! | Here are the scripts. No script, no film! | #358 00:20:13: Voici les scripts<br>#360 00:20:19: Sans scénario, pas de film | verbatim |
+| 7 | Hervé | Voici les scripts. Sans scénario, pas de film! | Here are the scripts. No script, no film! | #358 00:20:13: Voici les scripts<br>#360 00:20:19: Sans scénario, pas de film | verbatim |
 | 8 | Camille | Et ici, c'est qui, Arlette? | And here, who's Arlette? | #362 00:20:24: C'est qui, Arlette | verbatim |
 | 9 | Hervé | Arlette, c'est la doyenne des agents à Paris. | Arlette is the most senior agent in Paris. | #363 00:20:27: la doyenne des agents à Paris | verbatim |
 | 10 | Hervé | Elle dit imprésario, pas agent. | She says impresario, not agent. | #364 00:20:29: Elle dit | verbatim |
 | 11 | Camille | Et Andréa ne lit pas? | And Andréa doesn't read? | #366 00:20:34: Andréa ne lit pas | verbatim |
-| 12 | Noémie | Tu plaisantes? Andréa lit tout. | Are you kidding? Andrea reads everything. | #367 00:20:37: Tu plaisantes ? Andréa lit tout | verbatim |
-| 13 | Noémie | Elle a peur de rater quelque chose. | She's scared of missing something. | #369 00:20:44: Elle a peur de rater quelque chose | verbatim |
+| 12 | Hervé | Tu plaisantes? Andréa lit tout. | Are you kidding? Andrea reads everything. | #367 00:20:37: Tu plaisantes ? Andréa lit tout | verbatim |
+| 13 | Hervé | Elle a peur de rater quelque chose. | She's scared of missing something. | #369 00:20:44: Elle a peur de rater quelque chose | verbatim |
 | 14 | Hervé | Et voilà la salle de presse. On appelle ça la boutique. | And here's the press room. We call it the shop. | #375 00:20:59: la salle de presse<br>#376 00:21:01: On appelle ça | verbatim |
-| 15 | Hervé | Cécile de France? Refusée, à cause de son âge. | Cécile de France? Turned down, because of her age. | #387 00:21:31: à cause de son âge | verbatim |
-| 16 | Noémie | Regardez! Cécile est là! | Look! Cécile's here! | #389 00:21:39: Regardez<br>#391 00:21:49: Cécile est là | verbatim |
+| 15 | Hervé | Cécile de France? Refusée, à cause de son âge. | Cécile de France? Turned down, because of her age. | #387 00:21:31: à cause de son âge | adapted: Herve's question about the rumour condensed. |
+| 16 | Hervé | Regardez! Cécile est là! | Look! Cécile's here! | #389 00:21:39: Regardez<br>#391 00:21:49: Cécile est là | verbatim |
 | 17 | Camille | Cécile de France? Ici? | Cécile de France? Here? | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Arlette is the most senior agent in Paris.' The noun for the senior member has a feminine form because it names Arlette. The small word after it means 'of the' and introduces the group of agents.
 - 'She says impresario, not agent.' A short negative can contrast two labels without repeating the whole sentence. Arlette prefers the older title for her work.
 - 'And Andrea doesn't read?' The two negative words go on either side of 'reads'. Camille is surprised by the small number of scripts on Andrea's shelf.
-- 'Are you kidding?' The familiar form of 'you' makes the question less formal than Camille's opening question. Noemie is speaking to a fellow assistant now.
+- 'Are you kidding?' The familiar form of 'you' makes the question less formal than Camille's opening question. Herve is speaking to a fellow assistant now.
 - 'Andréa reads everything.' The same verb as before, now without the negative around it.
 - 'She's scared of missing something.' French says 'she has fear' rather than using 'is scared'. A linking word then leads to the action she is afraid of, and the final pair means 'something'.
 - 'And here's the press room.' This is the cousin of the word we heard with the scripts, and it often means 'there you go'.
