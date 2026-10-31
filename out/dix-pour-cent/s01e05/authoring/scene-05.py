@@ -56,10 +56,11 @@ STORY = [('joey', 'Oh non! Pardon!', 'Oh no! Sorry!', [], ''),
   "The crew report is folded into the director's role to retain three voices. Learner adaptation, not a "
   'verbatim French transcript.'),
  ('joey',
-  'Quoi? Poussez-vous! Ouvre la porte, Julie!',
+  'Quoi? Ouvre la porte, Julie!',
   'What? Out of the way! Open the door, Julie!',
   [(98, 'Quoi ?'), (99, 'Poussez-vous !')],
-  'Learner adaptation, not a verbatim French transcript.'),
+  'Removes an invented plural instruction; the retained familiar request is a learner adaptation, not a '
+  'verbatim French transcript.'),
  ('samir',
   'Didier, arrête! Voilà les agents.',
   'Didier, stop! Here are the agents.',
@@ -115,9 +116,8 @@ WALK = [(0,
   'from the set. Refuses is followed by a connecting word before the next action, come out.'),
  (8,
   None,
-  "'What? Out of the way! Open the door, Julie!' The first instruction addresses people politely or as a "
-  'group; the next is familiar and singular because he is now addressing Julie. The change tells us who he '
-  'speaks to.'),
+  "'What? Out of the way! Open the door, Julie!' The familiar instruction to open addresses Julie alone. The "
+  'definite article refers to the particular door between them.'),
  (9,
   None,
   "'Didier, stop! Here are the agents.' The director uses the actor's real first name. The word announcing "
