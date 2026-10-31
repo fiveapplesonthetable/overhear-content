@@ -125,3 +125,11 @@ Full episode validation with --require-notes --strict-teaching:0 errors; every p
 Private source extraction at4frames/second over797–801s shows Arlette actively articulating the armchair reply after Mathias looks down with closed lips. Corrected12's short line to Arlette. Original audio names Jean Gabin; the source also visibly has a brown/white terrier in the chair. Earlier assertions that no dog belongs in the source were overstrong and are superseded. The current illustration omits the dog without asserting another event, and the lesson teaches the ownership construction without inventing a history for the name.
 
 Dense2798–2803s frames show Mathias actively articulating during the final line, supporting30's existing speaker. The lesson does not infer who receives that line. Central independent review of these same private clips/sheets is requested; private source media and signed URLs remain outside the content repository.
+
+## Final central confirmation and source-map cleanup
+
+Central production independently inspected the dense private4fps frames and confirmed Arlette speaking the12 chair reply and Mathias speaking30's final line. Both limited speaker holds are cleared; the final recipient remains unspecified, and uncertain source-audio me/te wording remains covered by the explicit learner-adaptation disclosure. This confirmation is based on original-audio ASR plus visible articulation, not a claim of direct original-audio listening.
+
+Cleaned the episode-local scenes.json source map so future planning/regeneration cannot reimport the superseded draft errors: agent roles06/07/14/15, female set assistant04/23, invented tea background08, locked-greenhouse plot11, false Camille/Hervé pitch13, birthday cake/boyfriend18, breakfast tray21, tractor23 and fictional series-set location29. Removed the unverified Hippolyte surname and kept the final recipient unnamed. No native dialogue or artwork changed in this metadata cleanup.
+
+All28 playable lessons are approved editorially for central render/listening QA. That approval does not certify rendered audio or public publication. The full chronological commit/source/art manifest is handed to production separately.
