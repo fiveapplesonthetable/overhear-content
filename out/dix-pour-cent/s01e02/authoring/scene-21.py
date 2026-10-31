@@ -15,9 +15,9 @@ INTRO = ("Andréa has persuaded Françoise to return to Gabor's film. Then Line 
  'expecting one role. Listen first as Line celebrates and Andréa turns on Gabriel.')
 OPENER = "Let's take it slowly. Line has just arrived at the agency after spending two hours with the director."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ('A brief celebration turns into an argument. You heard commands answered with negative commands, and the '
- "little word for everything gave Gabriel's accusation its force. The agents now have to solve the problem "
- 'of two actresses expecting the same part. See you next time!')
+OUTRO = ("Line's celebration turns into a bitter argument. Andréa gives instructions as ordinary statements, and "
+ 'Gabriel refuses to take orders from her. Listen again for how familiar words of friendship become '
+ 'accusations when the agents disagree about their clients. See you next time!')
 CLOSING = ('line', 'Bonne journée!')
 STORY = [('line', 'Gabi! Il me veut!', 'Gabi! He wants me!', [(608, 'Gabi'), (605, 'Il me veut')], ''),
  ('line',
@@ -66,17 +66,17 @@ STORY = [('line', 'Gabi! Il me veut!', 'Gabi! He wants me!', [(608, 'Gabi'), (60
   [(621, 'que le rôle est pris')],
   ''),
  ('andrea',
-  'Gabriel, je ne plaisante pas! Fais ce que je dis!',
-  "Gabriel, I'm not joking! Do what I say!",
+  'Gabriel, je ne joue pas! Tu fais ce que je dis!',
+  "Gabriel, I'm not playing! Do what I say!",
   [(622, 'Gabriel, je ne plaisante pas ! Fais ce que je dis')],
-  ''),
- ('gabriel', "Ne me donne pas d'ordres!", "Don't give me orders!", [(623, "Ne me donne pas d'ordres")], ''),
+  'Restores original jouer and present tu fais as a forceful instruction. The dual subtitles changed these '
+  'to plaisanter and an imperative.'),
  ('gabriel',
-  'Tu gâches tout!',
-  'You ruin everything!',
-  [(624, 'tout gâcher')],
-  'Gabriel speaks this accusation in the source video. Simplifies Tu ne fais que tout gâcher as Tu gâches '
-  'tout.'),
+  'Je ne suis pas à tes ordres!',
+  "I'm not at your command!",
+  [(623, "Ne me donne pas d'ordres")],
+  'Restores original statement je ne suis pas à tes ordres, rather than the negative command invented by '
+  'dual subtitles.'),
  ('gabriel',
   "Tu n'as besoin de personne, Andréa!",
   "You don't need anyone, Andréa!",
@@ -137,30 +137,27 @@ WALK = [(0,
   'filled.'),
  (10,
   None,
-  "'Gabriel, I'm not joking! Do what I say!' Another casual command, from the action word 'to do'. She is "
-  'giving orders.'),
+  "'Gabriel, I'm not playing! Do what I say!' Play means treating the situation as a game, so not playing "
+  'insists she is serious. The next French statement literally says you do what I say. In this tone it gives '
+  'an order without changing the ordinary wording.'),
  (11,
   None,
-  "'Don't give me orders!' Gabriel snaps back with a negative command as the two-part negative wraps around "
-  "'me' and the action word."),
+  "'I'm not at your command!' At your orders means at your command. Gabriel rejects the idea that Andréa can "
+  'order him about. The two negative words surround am; he is making a statement about their relationship.'),
  (12,
-  None,
-  "'You ruin everything!' Gabriel now accuses Andréa. Everything comes straight after ruin and stands on its "
-  'own: it is not followed by a noun and does not mean everyone.'),
- (13,
   None,
   "'You don't need anyone, Andréa!' Literally 'you have need of nobody'. The phrase for 'to need' is built "
   "with the verb 'to have'."),
- (14,
+ (13,
   None,
   "'Well, not you and your stupid ideas, anyway!' The word for 'your' is the casual one, plural here, to "
   "match 'ideas'."),
- (15,
+ (14,
   None,
   "'And when you want a child, find someone else!' The first verb is in the future, because it's about "
   "later; the second is a command. It's a low blow: at dinner the other night, Andréa said she could imagine "
   'having a child with him.'),
- (16,
+ (15,
   None,
   "'Exactly!' Andréa agrees with Gabriel's final rejection instead of trying to soften it. The same word can "
   "answer a factual question or confirm an argument; her delivery makes the agreement bitter. Here's the "
