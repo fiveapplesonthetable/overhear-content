@@ -7,47 +7,115 @@ SCENE = 35
 TITLE = 'Un appel de Rio  (A Call from Rio)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'consul': 'Le consul', 'mathias': 'Mathias'}
+LABELS = {'gabriel': 'Gabriel', 'mathias': 'Mathias', 'consul': 'Le consul'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
-INTRO = "Back at the office, the agents sit down for their meeting with Andréa, Mathias, Gabriel and Arlette around the table, and Gabriel walks in looking very pleased with himself. Then a call comes through from Rio, where Samuel is on holiday. As usual, the French comes first; just listen, and we'll go through it together afterwards."
-OPENER = "Let's walk through it gently. Gabriel arrives at the meeting, and Andréa notices his face straight away."
+INTRO = ('Back at the agency, Gabriel announces that Cecile is his client again, despite losing the film contract. '
+ 'The agents then take a call from Rio, where Samuel is on holiday. Listen to the French first as their '
+ 'ordinary meeting is interrupted by unexpected news.')
+OPENER = ("Let's go through the final meeting. Gabriel arrives pleased about keeping Cecile, while Mathias is focused "
+ 'on the lost film contract.')
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the end of the first episode, and of a very long first day at the agency. Take a breath, be proud of how much French you've heard. See you next time!"
-CLOSING = ('andrea', 'Au revoir, Samuel.')
-STORY = [
-    ('andrea', "Gabriel, tu as l'air satisfait de toi.", 'Gabriel, you look pleased with yourself.', [(910, "Tu as l'air satisfait de toi")], ''),
-    ('mathias', 'On a perdu un gros contrat.', 'We lost a big contract.', [(911, 'On a perdu un gros contrat')], ''),
-    ('andrea', 'Mais on a gardé une grande actrice.', 'But we kept a great actress.', [(912, 'Mais on a gardé une grande actrice')], ''),
-    ('mathias', 'Mais on a perdu un gros contrat.', 'But we lost a big contract.', [(913, 'Mais perdu un gros contrat')], ''),
-    ('andrea', "Un appel de Rio? C'est Samuel!", "A call from Rio? It's Samuel!", [(914, 'Un appel de Rio'), (915, "C'est Samuel")], ''),
-    ('andrea', 'Samuel, on est en réunion. Tu es sur haut-parleur.', "Samuel, we're in a meeting. You're on speaker.", [(916, 'Samuel, on est en réunion. Tu es sur haut-parleur')], ''),
-    ('mathias', "Ce n'est pas Samuel.", "It isn't Samuel.", [(917, 'pas Samuel')], ''),
-    ('consul', "Bonjour. Je suis Jean-Louis d'Entremont.", "I'm Jean-Louis d'Entremont.", [(918, "Je suis Jean-Louis d'Entremont")], ''),
-    ('consul', 'Je vous appelle du consulat français à Rio.', "I'm calling you from the French consulate in Rio.", [(919, 'Je vous appelle du consulat français à Rio')], ''),
-    ('consul', "J'ai de mauvaises nouvelles.", 'I have bad news.', [(920, 'de mauvaises nouvelles')], ''),
-    ('consul', 'Monsieur Samuel Kerr est décédé.', 'Mr Samuel Kerr has passed away.', [(921, 'Samuel Kerr est décédé')], ''),
-    ('andrea', 'Pardon? Quoi?', 'Sorry? What?', [(922, 'Pardon'), (924, 'Quoi')], ''),
-    ('consul', "Il est mort à l'hôpital.", 'He died in hospital.', [(923, "Il est mort à l'hôpital")], ''),
-    ('consul', 'Il a avalé une guêpe.', 'He swallowed a wasp.', [(926, 'il a avalé une guêpe')], ''),
-    ('mathias', "C'est une plaisanterie?", 'Is this a joke?', [(927, "C'est une plaisanterie")], ''),
-    ('consul', 'Non, je suis désolé.', "No, I'm sorry.", [(927, 'Non, je suis désolé')], ''),
-]
-WALK = [
-    (0, None, "'Gabriel, you look pleased with yourself.' This expression in the middle means 'to look' or 'to seem', and it is built on the action word 'to have'. Mathias is less happy."),
-    (1, None, "'We lost a big contract.' This is the everyday past: the helper word 'to have', then the past form of 'to lose'. The small word at the start is the everyday 'we' again."),
-    (2, None, "'But we kept a great actress.' The same past form, with the action word 'to keep'. The describing words for 'big' and 'great' both come before their words, which is normal for short, common describing words."),
-    (3, None, "'But we lost a big contract.' Mathias simply says it again. Neither of them wants to give up the last word."),
-    (4, None, "'A call from Rio? It's Samuel!' The phone at reception rings, and everyone assumes it's the boss calling from his holiday."),
-    (5, None, "'Samuel, we're in a meeting. You're on speaker.' Andréa talks to Samuel in the casual form, like one of the family. But the voice on the line belongs to someone else."),
-    (6, None, "'It isn't Samuel.' Here the negation wraps around the action word 'to be'. The stranger introduces himself."),
-    (7, "Je suis Jean-Louis d'Entremont.", "'I'm Jean-Louis d'Entremont.' The consul uses a formal way to give his full name to people he doesn't know."),
-    (8, None, "'I'm calling you from the French consulate in Rio.' He uses the polite 'you', as an official should with strangers. Notice the shift: the agents speak casually to each other, but this man keeps his distance."),
-    (9, None, "'I have bad news.' The word for 'bad' is feminine and plural here, because news is a feminine plural word in French."),
-    (10, None, "'Mr Samuel Kerr has passed away.' This is the gentle, official verb for dying, the kind used on the phone or in a letter."),
-    (11, None, "'Sorry? What?' Andréa can't take it in. The first word is the polite one, the second is the blunt one."),
-    (12, None, "'He died in hospital.' Unlike most verbs, the verb for dying uses 'to be' as its helper in the past, not 'to have'. Then comes the strangest detail."),
-    (13, None, "'He swallowed a wasp.' Back to the usual helper, 'to have', with the verb 'to swallow'. A sad and absurd end for the man who built the agency."),
-    (14, None, "'Is this a joke?' Mathias asks a question made just by raising his voice at the end, with no extra words needed."),
-    (15, None, "'No, I'm sorry.' The word for 'sorry' here describes how he feels. And that is how the first episode ends. Let's hear the whole scene one last time."),
-]
+OUTRO = ('That unexpected call ends the first episode; listen again for the expressions about giving news. See you '
+ 'next time.')
+CLOSING = ('gabriel', 'Au revoir.')
+STORY = [('gabriel',
+  'Excusez-moi, chers collègues.',
+  'Excuse me, dear colleagues.',
+  [(909, 'Excusez-moi, chers collègues')],
+  ''),
+ ('mathias',
+  "Gabriel, tu as l'air satisfait de toi.",
+  'Gabriel, you look pleased with yourself.',
+  [(910, "Tu as l'air satisfait de toi")],
+  'Shortened or rephrased from the cited source dialogue.'),
+ ('mathias',
+  'On a perdu un gros contrat.',
+  'We lost a big contract.',
+  [(911, 'On a perdu un gros contrat')],
+  ''),
+ ('gabriel',
+  'Mais on a gardé une grande actrice.',
+  'But we kept a great actress.',
+  [(912, 'Mais on a gardé une grande actrice')],
+  ''),
+ ('mathias',
+  'Mais on a perdu un gros contrat.',
+  'But we lost a big contract.',
+  [(913, 'Mais perdu un gros contrat')],
+  'Shortened or rephrased from the cited source dialogue.'),
+ ('consul',
+  "Bonjour. Je suis Jean-Louis d'Entremont.",
+  "Hello. I'm Jean-Louis d'Entremont.",
+  [(918, "Je suis Jean-Louis d'Entremont")],
+  'Shortened or rephrased from the cited source dialogue.'),
+ ('consul',
+  'Je vous appelle du consulat français à Rio.',
+  "I'm calling you from the French consulate in Rio.",
+  [(919, 'Je vous appelle du consulat français à Rio')],
+  ''),
+ ('consul',
+  "J'ai de mauvaises nouvelles.",
+  'I have bad news.',
+  [(920, 'de mauvaises nouvelles')],
+  'Shortened or rephrased from the cited source dialogue.'),
+ ('consul',
+  'Monsieur Samuel Kerr est décédé.',
+  'Mr Samuel Kerr has passed away.',
+  [(921, 'Samuel Kerr est décédé')],
+  'Shortened or rephrased from the cited source dialogue.'),
+ ('consul', "Il est mort à l'hôpital.", 'He died in hospital.', [(923, "Il est mort à l'hôpital")], ''),
+ ('consul', 'Il a avalé une guêpe.', 'He swallowed a wasp.', [(926, 'il a avalé une guêpe')], ''),
+ ('consul',
+  'Je suis désolé.',
+  "I'm sorry.",
+  [(927, 'je suis désolé')],
+  'Reply shortened after the omitted group reaction.')]
+WALK = [(0,
+  None,
+  "'Excuse me, dear colleagues.' The opening is a polite instruction with 'me' attached after the action. "
+  "The description 'dear' is plural because Gabriel addresses several people."),
+ (1,
+  None,
+  "'Gabriel, you look pleased with yourself.' The French expression for 'look' or 'seem' is built with "
+  "'have' and a word meaning 'air'. The final 'yourself' points back to Gabriel."),
+ (2,
+  None,
+  "'We lost a big contract.' Mathias uses the everyday form of 'we'. A helping form of 'have' followed by "
+  "'lost' puts the action in the past."),
+ (3,
+  None,
+  "'But we kept a great actress.' Gabriel answers with the same past pattern, now using 'kept'. The "
+  'description of the actress has a feminine form.'),
+ (4,
+  None,
+  "'But we lost a big contract.' Mathias repeats the contrast word 'but', turning the argument back to the "
+  'money. Then a call arrives from Rio, and Andrea puts it through, assuming it is Samuel.'),
+ (5,
+  None,
+  "'Hello. I'm Jean-Louis d'Entremont.' A greeting and 'I am' are enough to give a full name. This voice "
+  'belongs to someone at the consulate, rather than Samuel.'),
+ (6,
+  None,
+  "'I'm calling you from the French consulate in Rio.' The polite object meaning 'you' comes before 'call'. "
+  "The short word before 'consulate' combines 'from' with the masculine 'the'."),
+ (7,
+  None,
+  "'I have bad news.' The French noun for pieces of news is feminine and plural. The description 'bad' has "
+  'matching written endings.'),
+ (8,
+  None,
+  "'Mr Samuel Kerr has passed away.' This formal action expresses death gently. Its completed past uses 'be' "
+  'as the helping verb.'),
+ (9,
+  None,
+  "'He died in hospital.' The past form of 'die' also uses 'be'. French keeps the little word meaning 'the' "
+  "before 'hospital', where English simply says 'in hospital'."),
+ (10,
+  None,
+  "'He swallowed a wasp.' Here the helping action changes back to 'have'. The small word before 'wasp' has "
+  'its feminine form to match it.'),
+ (11,
+  None,
+  "'I'm sorry.' The description has a masculine spelling for the male caller. The first episode ends with "
+  'the agents still trying to understand the news.')]
