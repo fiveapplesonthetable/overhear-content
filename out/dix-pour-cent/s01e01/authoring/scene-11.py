@@ -1,3 +1,4 @@
+SOURCE_NOTE = 'French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.'
 # Authoring module for dix-pour-cent-s01e01-scene-11.
 ID = 'dix-pour-cent-s01e01-scene-11'
 SHOW = 'dix-pour-cent'
@@ -19,10 +20,10 @@ OUTRO = ('The tour has given Camille new colleagues, office vocabulary and some 
  'short ways to introduce a place, ask a question and describe someone; see you next time.')
 CLOSING = ('camille', 'À plus!')
 STORY = [('camille',
-  "Vous êtes l'assistante de Mathias Barneville?",
+  "Tu es l'assistante de Mathias Barneville?",
   "Are you Mathias Barneville's assistant?",
   [(335, "Vous êtes l'assistante de Mathias Barneville")],
-  ''),
+  'A1 dialogue preserves the familiar address confirmed by original audio.'),
  ('noemie', 'Oui. Il est très sympa.', "Yes. He's very nice.", [(336, 'Oui'), (337, 'Très sympa')], ''),
  ('herve',
   'Tout le monde le trouve horrible.',
@@ -36,10 +37,10 @@ STORY = [('camille',
   ''),
  ('camille', 'Bonjour, je suis Camille!', "Hello, I'm Camille!", [(348, 'Je suis Camille')], ''),
  ('herve',
-  'Maintenant, je vous montre le service juridique.',
+  'Maintenant, je te montre le service juridique.',
   "Now I'll show you the Legal Department.",
   [(353, 'Maintenant je vous montre le service juridique')],
-  ''),
+  'A1 dialogue preserves the familiar address confirmed by original audio.'),
  ('herve',
   'Voici les scripts. Sans scénario, pas de film!',
   'Here are the scripts. No script, no film!',
@@ -74,10 +75,10 @@ STORY = [('camille',
   [(387, 'à cause de son âge')],
   "Herve's question about the rumour condensed."),
  ('herve',
-  'Regardez! Cécile est là!',
-  "Look! Cécile's here!",
+  'Regarde! Cécile est là!',
+  "Look! Cecile's here!",
   [(389, 'Regardez'), (391, 'Cécile est là')],
-  ''),
+  'A1 dialogue preserves the familiar address confirmed by original audio.'),
  ('camille', 'Cécile de France? Ici?', 'Cécile de France? Here?', [], '')]
 WALK = [(0,
   None,
@@ -122,8 +123,8 @@ WALK = [(0,
   "the small number of scripts on Andrea's shelf."),
  (11,
   'Tu plaisantes?',
-  "'Are you kidding?' The familiar form of 'you' makes the question less formal than Camille's opening "
-  'question. Herve is speaking to a fellow assistant now.'),
+  "'Are you kidding?' Herve uses the familiar address, just as Camille did at the desks. The short question "
+  'challenges her guess about Andrea.'),
  (11,
   'Andréa lit tout.',
   "'Andréa reads everything.' The same verb as before, now without the negative around it."),
@@ -145,8 +146,8 @@ WALK = [(0,
   'for Cecile. The following three-word expression gives the reason for the rejection.'),
  (15,
   None,
-  "'Look! Cécile's here!' This first word is a polite command, 'look', and the second sentence uses a word "
-  "meaning 'there' that really means 'here, now'. The whole office starts shouting."),
+  "'Look! Cecile's here!' The first word is a familiar instruction. Herve points out the view, then "
+  'recognises the actress arriving below.'),
  (16,
   None,
   "'Cecile de France? Here?' Names can form part of a question without a verb. The final location word and a "

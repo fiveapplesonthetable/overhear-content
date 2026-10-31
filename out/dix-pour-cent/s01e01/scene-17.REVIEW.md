@@ -4,15 +4,15 @@ Title: Je change d'agent  (I'm Changing Agents)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E01
-
+French dialogue is an A1 abridgment. Original video confirms speakers and setting; unprompted original-audio transcription confirms the address forms. Dual subtitles provide scene locators.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Gabriel | Cécile, super! Ça va? | Cécile, great! How are you? | #486 00:27:34: Cécile, super !<br>#487 00:27:38: Ça va ? | verbatim |
-| 2 | Cécile | Oui, et toi? | Fine, and you? | #487 00:27:38: Oui, et toi ? | verbatim |
-| 3 | Gabriel | J'ai essayé de t'appeler. C'est non-stop au boulot aujourd'hui. | I tried to call you. It's non-stop at work today. | #488 00:27:40: J'ai essayé de t'appeler<br>#489 00:27:42: C'est non-stop au boulot aujourd'hui | verbatim |
+| 2 | Cécile | Oui, et toi? J'ai essayé de t'appeler. | Fine, and you? I tried to call you. | #487 00:27:38: Oui, et toi ?<br>#488 00:27:40: J'ai essayé de t'appeler | adapted: Greeting and complaint combined; original video confirms Cecile speaks both. |
+| 3 | Gabriel | C'est non-stop au boulot aujourd'hui. | It's non-stop at work today. | #489 00:27:42: C'est non-stop au boulot aujourd'hui | verbatim |
 | 4 | Cécile | Toujours aucune nouvelle? | Still no news? | #490 00:27:44: Toujours aucune nouvelle ? | verbatim |
 | 5 | Gabriel | Ah, si! J'ai eu Miranda Jones au téléphone. | Oh, yes! I had Miranda Jones on the phone. | #491 00:27:47: Ah, si !<br>#492 00:27:48: Miranda Jones au téléphone | verbatim |
 | 6 | Cécile | Dis-moi tout. | Tell me everything. | #493 00:27:52: Dis-moi tout | verbatim |
