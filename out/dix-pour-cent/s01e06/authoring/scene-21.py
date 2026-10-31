@@ -10,10 +10,8 @@ PAIR = 'fr-en'
 LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
-INTRO = ('Alone in a hotel room after Catherine leaves him, Mathias records a desperate voicemail begging his wife to let him '
- 'come home, just before hotel reception calls up to announce that Camille is waiting downstairs. Camille invites her '
- 'father to dinner, and over their meal in the hotel restaurant she tells him how she first fell in love with cinema. '
- "Let's listen to the scene in French first.")
+INTRO = ('Camille visits Mathias at his hotel after Catherine has told him to leave home. He invites her to dinner. Over the '
+ 'meal, Camille shares memories of discovering films and tries to comfort her father. Listen first in French.')
 OPENER = "Let's walk through the scene line by line. At the restaurant table, Camille talks about her childhood in the south."
 TRANSITION = "Now let's listen to the whole dinner scene again."
 OUTRO = ('Camille has shared memories of discovering films and offered her father some simple comfort. Mathias then tells her '

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = ('Mathias finds Catherine at a hair salon and asks for a chance to apologize. She refuses forgiveness and rejects his '
  "affectionate words. We then move to Andréa arranging to meet François at Christophe Bel's birthday party and "
  'explaining her changed plans to Colette. Listen first in French.')
-OPENER = "Let's go through it slowly. Mathias intercepts Catherine at her workplace."
+OPENER = "Now listen again to Mathias's apology at the salon and Andréa's later phone calls."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('While Mathias is left alone after Catherine rejects his apology, Andréa heads out to meet François at Christophe '
  "Bel's birthday party. See you next time!")

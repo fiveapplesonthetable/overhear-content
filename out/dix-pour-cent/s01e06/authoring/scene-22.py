@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = ('At his birthday party, director Christophe Bel tells François Berléand about a frightening swimming-pool accident in '
  'his own childhood. François listens, then connects the story to Dom Juan as he argues against putting the character '
  'in the water. The two men are seated at a table. Listen first in French.')
-OPENER = "Let's go back through the scene. Sitting by the water, François remembers his childhood holiday."
+OPENER = 'Now hear how the director tells his own childhood story, and how François turns it into an argument about the play.'
 TRANSITION = "Now let's listen to the whole poolside scene again."
 OUTRO = ('Christophe has shared his own frightening pool experience. François uses the story to make his case about Dom Juan, '
  'and the two men can finally talk about their disagreement. The inflatable duck remains a sticking point. See you '
