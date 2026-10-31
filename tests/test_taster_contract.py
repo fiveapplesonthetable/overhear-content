@@ -28,7 +28,7 @@ class TasterContract(unittest.TestCase):
                     'location': 'Kitchen', 'merge': None}], 'coverage': {'type': 'excerpt', 'start': '00:00:03,000',
                     'end': '00:00:08,000', 'sourceSha256': hashlib.sha256(self.source.read_bytes()).hexdigest(),
                     'reason': 'One bounded taster; remaining episode is not published.'}}
-        self.script = {'source': {'file': 'sources/kukhnya/s01/e01.ru.srt', 'lines': [{'cue': 2}]}}
+        self.script = {'segments': [{'v': 'narrator', 't': 'Intro.'}, {'v': 'guest', 't': 'Привет 2.'}, {'v': 'narrator', 't': 'Explanation.'}], 'source': {'file': 'sources/kukhnya/s01/e01.ru.srt', 'lines': [{'line': 0, 'cue': 2, 'fragment': 'Привет 2'}]}}
         (self.ep / 'scene-01.json').write_text('{}')
         (self.ep / 'scene-01.png').write_bytes(b'fixture')
 
@@ -126,3 +126,16 @@ class TasterContract(unittest.TestCase):
             with self.subTest(lang=lang, text=text):
                 rep = v.Report(); v.target_ok(lang, text, 'native', rep)
                 self.assertTrue(any('native-script' in e for e in rep.errors))
+
+    def test_excerpt_requires_citations_for_every_original_story_line(self):
+        self.script['source']['lines'] = []
+        self.assertTrue(any('bind every story line' in e for e in self.errors()))
+        self.script['source']['lines'] = [{'line': 0, 'cue': 2, 'fragment': 'Привет 2'}]
+        self.script['segments'].insert(2, {'v': 'guest', 't': 'Привет 3.'})
+        self.assertTrue(any('without source citations' in e for e in self.errors()))
+
+    def test_excerpt_citation_must_reference_the_actual_story_not_only_a_source_cue(self):
+        for line, fragment in [(2, 'Привет 2'), (True, 'Привет 2'), (0, 'Unrelated'), (0, '!!!')]:
+            with self.subTest(line=line, fragment=fragment):
+                self.script['source']['lines'] = [{'line': line, 'cue': 2, 'fragment': fragment}]
+                self.assertTrue(any('excerpt citation' in e for e in self.errors()))
