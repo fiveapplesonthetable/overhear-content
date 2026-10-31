@@ -505,24 +505,22 @@
       "trans": "No, Julie!"
     },
     {
-      "seg": 10,
-      "trans": "Have you heard her accent, her way of speaking?",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar second-person singular subject"
         },
         {
-          "t": "avez",
+          "t": "as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ave",
+          "stress": "a",
           "gloss": "have",
-          "gram": "present second-person plural or polite singular; past-tense helper here"
+          "gram": "present second-person singular used as past helper"
         },
         {
           "t": "entendu",
@@ -569,8 +567,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of",
-          "gram": "connects the preceding expression to the next action"
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "parler?",
@@ -580,7 +578,9 @@
           "gloss": "talk",
           "gram": "infinitive after pouvoir"
         }
-      ]
+      ],
+      "seg": 10,
+      "trans": "Have you heard her accent, her way of speaking?"
     },
     {
       "seg": 11,
@@ -1287,24 +1287,22 @@
       "trans": "No, Julie!"
     },
     {
-      "seg": 33,
-      "trans": "Have you heard her accent, her way of speaking?",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar second-person singular subject"
         },
         {
-          "t": "avez",
+          "t": "as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ave",
+          "stress": "a",
           "gloss": "have",
-          "gram": "present second-person plural or polite singular; past-tense helper here"
+          "gram": "present second-person singular used as past helper"
         },
         {
           "t": "entendu",
@@ -1351,8 +1349,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of",
-          "gram": "connects the preceding expression to the next action"
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "parler?",
@@ -1362,7 +1360,9 @@
           "gloss": "talk",
           "gram": "infinitive after pouvoir"
         }
-      ]
+      ],
+      "seg": 33,
+      "trans": "Have you heard her accent, her way of speaking?"
     },
     {
       "seg": 35,
@@ -2069,24 +2069,22 @@
       "trans": "No, Julie!"
     },
     {
-      "seg": 50,
-      "trans": "Have you heard her accent, her way of speaking?",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar second-person singular subject"
         },
         {
-          "t": "avez",
+          "t": "as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ave",
+          "stress": "a",
           "gloss": "have",
-          "gram": "present second-person plural or polite singular; past-tense helper here"
+          "gram": "present second-person singular used as past helper"
         },
         {
           "t": "entendu",
@@ -2133,8 +2131,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of",
-          "gram": "connects the preceding expression to the next action"
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "parler?",
@@ -2144,7 +2142,9 @@
           "gloss": "talk",
           "gram": "infinitive after pouvoir"
         }
-      ]
+      ],
+      "seg": 50,
+      "trans": "Have you heard her accent, her way of speaking?"
     },
     {
       "seg": 51,
@@ -6690,6 +6690,36 @@
         }
       ]
     },
+    "tu": {
+      "lemma": "tu",
+      "stress": "ty",
+      "pos": "pron",
+      "gloss": "you (casual)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "one person you know well: friends, family, close colleagues"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tu es pénible.",
+          "trans": "You're a pain."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        }
+      ],
+      "related": [
+        {
+          "word": "vous",
+          "gloss": "you (polite or plural)"
+        }
+      ]
+    },
     "un": {
       "lemma": "un",
       "stress": "œ̃",
@@ -6902,44 +6932,6 @@
         {
           "word": "ça vaut le coup / ça vaut un effort",
           "gloss": "it's worth it"
-        }
-      ]
-    },
-    "vous": {
-      "lemma": "vous",
-      "stress": "vu",
-      "pos": "pron",
-      "gloss": "you (polite or plural)",
-      "meanings": [
-        {
-          "en": "you (polite)",
-          "note": "One person, formal."
-        },
-        {
-          "en": "you (plural)",
-          "note": "Several people."
-        },
-        {
-          "en": "you (object)",
-          "note": "je vous rappelle = I'll call you back"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous êtes où?",
-          "trans": "Where are you?"
-        },
-        {
-          "text": "Je vous rappelle.",
-          "trans": "I'll call you back."
-        }
-      ],
-      "related": [
-        {
-          "word": "tu",
-          "gloss": "you (informal)"
         }
       ]
     },

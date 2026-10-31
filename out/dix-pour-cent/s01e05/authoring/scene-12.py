@@ -4,7 +4,7 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 12
-TITLE = 'Coupez!  (Cut!)'
+TITLE = "Couic!  (That's the End of Him!)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
 LABELS = {'arlette': 'Arlette', 'camille': 'Camille', 'mathias': 'Mathias'}
@@ -24,82 +24,96 @@ STORY = [('mathias',
   'Arlette, je veux vous parler de Jonathan Joubert.',
   'Arlette, I want to talk to you about Jonathan Joubert.',
   [(218, 'Arlette'), (218, 'de Jonathan Joubert')],
-  ''),
- ('arlette', "C'est son fauteuil.", "That's his armchair.", [(219, "C'est son fauteuil")], ''),
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('mathias',
+  "C'est le fauteuil de Jean Gabin.",
+  "That's Jean Gabin's armchair.",
+  [(219, "C'est son fauteuil")],
+  'Original French audio names Jean Gabin; working subtitles replace the name with his. Learner adaptation, '
+  'not a verbatim French transcript.'),
  ('arlette',
-  'Marie-Sophie ne veut pas de vos fleurs.',
+  'Marie-Sophie ne veut pas de tes fleurs.',
   "Marie-Sophie doesn't want your flowers.",
   [(220, 'Marie-Sophie ne veut pas de vos fleurs')],
-  ''),
+  'Arlette addresses Mathias with TU in original French audio. Learner adaptation, not a verbatim French '
+  'transcript.'),
  ('arlette',
-  'Vous ne pouvez rien faire contre la maladie de Ryan.',
+  'Tu ne peux rien faire contre la maladie de Ryan.',
   "You can't do anything against Ryan's illness.",
   [(221, 'Vous ne pouvez rien faire contre'), (221, 'de Ryan')],
-  ''),
+  'Familiar singular register, with the illness wording simplified for learners. Learner adaptation, not a '
+  'verbatim French transcript.'),
  ('mathias',
   "On va perdre beaucoup d'argent!",
   "We're going to lose a lot of money!",
   [(222, "On va perdre beaucoup d'argent")],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('arlette',
   "Tout ne tourne pas autour de l'argent.",
   'Not everything revolves around money.',
   [(222, "Tout ne tourne pas autour de l'argent")],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('mathias',
   'Arlette, votre part dans cette agence est très petite.',
   'Arlette, your share in this agency is very small.',
   [(223, 'Arlette, votre part dans cette agence est')],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('mathias',
   "Et Samuel n'est plus là pour vous protéger.",
   'And Samuel is no longer here to protect you.',
   [(224, "Samuel n'est plus là pour vous protéger")],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('arlette',
-  "Vos menaces ne m'impressionnent pas.",
+  "Tes menaces ne m'impressionnent pas.",
   "Your threats don't impress me.",
   [(225, "Vos menaces ne m'impressionnent pas")],
-  ''),
+  'Arlette uses familiar singular possession in this learner rephrasing. Learner adaptation, not a verbatim '
+  'French transcript.'),
  ('arlette',
   "Je ne parle pas d'argent, je parle de dignité et de loyauté.",
   "I'm not talking about money, I'm talking about dignity and loyalty.",
   [(226, "Je ne parle pas d'argent, je parle de dignité et de loyauté")],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('arlette',
   'Marie-Sophie vaut mille fois cet idiot de Jonathan Joubert!',
   'Marie-Sophie is worth a thousand of that idiot Jonathan Joubert!',
   [(229, 'vaut mille fois'), (229, 'de Jonathan Joubert')],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('arlette',
-  'Alors votre Ryan, coupez!',
-  'So as for your Ryan, cut!',
+  'Alors, ton Ryan, couic!',
+  "So as for your Ryan, that's the end of him!",
   [(230, 'Alors votre Ryan'), (231, 'Coupez')],
-  ''),
+  'Original French audio uses the sound couic with a cutting gesture, not the film-set instruction Coupez. '
+  'Learner adaptation, not a verbatim French transcript.'),
  ('camille',
   'Excusez-moi, il faut penser aux vrais fans de la série.',
   'Excuse me, we have to think of the real fans of the series.',
   [(232, 'penser aux vrais fans de')],
-  ''),
- ('mathias', 'Oui, Camille?', 'Yes, Camille?', [(234, 'Oui, Camille')], ''),
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('mathias',
+  'Oui, Camille?',
+  'Yes, Camille?',
+  [(234, 'Oui, Camille')],
+  'Learner adaptation, not a verbatim French transcript.'),
  ('camille',
   'Andréa voulait vous montrer quelque chose, mais pas maintenant.',
   'Andréa wanted to show you something, but not now.',
   [(235, 'Andréa voulait vous montrer quelque chose, mais'), (235, 'pas maintenant')],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('camille', 'Je vais revenir plus tard.', "I'll come back later.", [], '')]
 WALK = [(0,
   None,
-  "'Arlette, I want to talk to you about Jonathan Joubert.' The first you is polite, keeping some "
-  'professional distance. The word for about introduces the person they are going to discuss.'),
+  "'Arlette, I want to talk to you about Jonathan Joubert.' Mathias uses the polite word for you to address "
+  'Arlette. In this exchange she answers him with the familiar form, so the two speakers do not use the same '
+  'register.'),
  (1,
   None,
-  "'That's his armchair.' The possessive his follows the masculine word for armchair. It identifies the "
-  'chair with someone already known in the conversation.'),
+  "'That's Jean Gabin's armchair.' The connecting word of marks whose armchair it is. French places that "
+  'word before the full name, where English can attach a possessive ending.'),
  (2,
   None,
-  "'Marie-Sophie doesn't want your flowers.' After a negative expression about wanting something, French can "
-  'use of before the thing refused. Your is plural because it goes with flowers.'),
+  "'Marie-Sophie doesn't want your flowers.' Arlette uses the familiar form of your, although Mathias "
+  'addresses her politely. The possessive is plural because the flowers are plural.'),
  (3,
   None,
   "'You can't do anything against Ryan's illness.' The word for nothing follows can, while do stays in its "
@@ -122,8 +136,8 @@ WALK = [(0,
   'action protect stays in its basic form after the connecting word for.'),
  (8,
   None,
-  "'Your threats don't impress me.' The plural threats are the subject, which makes the action plural too. "
-  'The little word for me stands before that action.'),
+  "'Your threats don't impress me.' The familiar possessive your goes with the plural threats. The little "
+  'word for me stands before the action about impressing someone.'),
  (9,
   None,
   "'I'm not talking about money, I'm talking about dignity and loyalty.' The same pattern about speaking of "
@@ -134,8 +148,8 @@ WALK = [(0,
   'A thousand times makes the comparison deliberately extreme, showing her loyalty to the writer.'),
  (11,
   None,
-  "'So as for your Ryan, cut!' The instruction cut can also mean stopping a film take. Here its ordinary "
-  'cutting sense makes the dismissal of the character especially pointed.'),
+  "'So as for your Ryan, that's the end of him!' The final sound imitates a brief choked cry. In this "
+  'context it signals an abrupt end for the character she wants written out.'),
  (12,
   None,
   "'Excuse me, we have to think of the real fans of the series.' The impersonal expression means it is "
@@ -153,3 +167,6 @@ WALK = [(0,
   None,
   "'I'll come back later.' A form of go introduces the promise to return. The final phrase means later, "
   'literally more late, rather than never coming back.')]
+SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the '
+ 'bilingual working subtitles, whose French track is backtranslated; source video and separate '
+ 'original-audio checks verify roles, plot and register.')

@@ -4,85 +4,101 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 1
-TITLE = 'Vous êtes en verre?  (Are You Made of Glass?)'
+TITLE = 'Tu es en verre?  (Are You Made of Glass?)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
 LABELS = {'joey': 'JoeyStarr', 'julie': 'Julie', 'samir': 'Samir'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = ('In episode five of Call My Agent, Julie Gayet and JoeyStarr are acting together in an eighteenth-century '
- 'costume film. Julie plays an aristocrat, JoeyStarr a servant, and their argument is stopping the shoot. '
- 'Their agents, Andrea and Gabriel, will have to help. Listen to the French first; you do not need to catch '
- 'every word.')
+INTRO = ('Here is a French learning adaptation of episode five of Call My Agent. Julie Gayet and JoeyStarr are '
+ 'acting in an eighteenth-century costume film, but their argument is stopping the shoot. Their agents, '
+ 'Andrea and Gabriel, will have to help. Listen to the French first; you do not need to catch every word.')
 OPENER = "Let's return to the first take. A grand declaration of love ends with a much less grand argument."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('The director needs the agents because the two stars cannot work together. You have heard requests, '
  'complaints and a few very short instructions. See you next time.')
 CLOSING = ('joey', 'À demain!')
-STORY = [('joey', 'Madame.', 'Madam.', [(1, 'Madame')], ''),
- ('julie', "Non! Je n'y crois pas!", "No! I don't believe it!", [(2, "Non ! Je n'y crois pas")], ''),
+STORY = [('joey', 'Madame.', 'Madam.', [(1, 'Madame')], 'Learner adaptation, not a verbatim French transcript.'),
+ ('julie',
+  "Non! Je n'y crois pas!",
+  "No! I don't believe it!",
+  [(2, "Non ! Je n'y crois pas")],
+  'Learner adaptation, not a verbatim French transcript.'),
  ('samir',
   "Coupez! Qu'est-ce qui se passe?",
   'Cut! What is going on?',
   [(4, 'Coupez'), (4, "Qu'est-ce qui se passe ?")],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('julie',
   'Il la pousse dans les buissons.',
   'He pushes her into the bushes.',
   [(5, 'Il la pousse dans les buissons')],
-  ''),
- ('joey', 'Vous êtes en verre?', 'Are you made of glass?', [(6, 'Vous êtes en verre ?')], ''),
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('joey',
+  'Tu es en verre?',
+  'Are you made of glass?',
+  [(6, 'Vous êtes en verre ?')],
+  'Original audio establishes TU; glass remains a learner simplification of the material comparison. Learner '
+  'adaptation, not a verbatim French transcript.'),
  ('julie',
   'Non, je suis une aristocrate, il est serviteur.',
   'No, I am an aristocrat, he is a servant.',
   [(7, 'Non. Je suis une aristocrate, il est serviteur')],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('julie',
   'Il doit faire preuve de respect.',
   'He has to show respect.',
   [(8, 'il doit'), (8, 'faire preuve de respect')],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('julie',
   "Je travaille, d'accord?",
   "I'm working, okay?",
   [(10, 'je travaille'), (11, "D'accord")],
-  'Primary-video check: Julie replies that she is working; JoeyStarr does not speak this line.'),
+  'Primary-video check: Julie replies that she is working; JoeyStarr does not speak this line. Learner '
+  'adaptation, not a verbatim French transcript.'),
  ('julie',
   "On pourrait avoir un peu de délicatesse et d'élégance dans cette scène?",
   'Could we have a little delicacy and elegance in this scene?',
   [(12, "On pourrait avoir un peu de délicatesse et d'élégance"), (13, 'dans cette scène ?')],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('joey',
   "C'est pour moi? J'en ai marre.",
   "Is that aimed at me? I'm fed up.",
   [(14, "C'est pour moi ?"), (15, "J'en ai marre")],
-  ''),
- ('julie', 'Moi aussi!', 'Me too!', [(16, 'Moi aussi')], ''),
+  'Learner adaptation, not a verbatim French transcript.'),
+ ('julie',
+  'Moi aussi!',
+  'Me too!',
+  [(16, 'Moi aussi')],
+  'Learner adaptation, not a verbatim French transcript.'),
  ('joey',
-  'Allez à vos dîners mondains!',
+  'Va à tes dîners mondains!',
   'Go to your high-society dinners!',
   [(17, 'Allez à vos dîners mondains !')],
-  ''),
+  'Familiar singular instruction follows the original TU exchange. Learner adaptation, not a verbatim French '
+  'transcript.'),
  ('julie',
-  "Articulez, s'il vous plaît. Je ne comprends pas un mot.",
+  "Articule, s'il te plaît. Je ne comprends pas un mot.",
   "Articulate, please. I don't understand a word.",
   [(18, "Articulez, s'il vous plaît. Je ne comprends pas un mot")],
-  ''),
+  'Familiar singular request; simplified from original spoken French. Learner adaptation, not a verbatim '
+  'French transcript.'),
  ('samir',
   'On a combien de retard?',
   'How far behind schedule are we?',
   [(20, 'On a combien de retard ?')],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('samir',
   "Cinq jours. Je n'y crois pas!",
   "Five days. I don't believe it!",
   [(21, "Cinq jours. Je n'y crois pas !")],
-  ''),
+  'Learner adaptation, not a verbatim French transcript.'),
  ('samir',
-  'Appelez leurs agents maintenant!',
+  'Appelle leurs agents maintenant!',
   'Call their agents right now!',
   [(22, 'Appelez leurs agents maintenant !')],
-  '')]
+  'Familiar singular instruction to a crew member, as in original audio. Learner adaptation, not a verbatim '
+  'French transcript.')]
 WALK = [(0,
   None,
   "'Madam.' This form of address fits a servant speaking to an aristocrat. It is also the ordinary "
@@ -129,12 +145,12 @@ WALK = [(0,
   'agree with the complaint.'),
  (11,
   None,
-  "'Go to your high-society dinners!' Now JoeyStarr mocks Julie's social world. The instruction uses the "
-  'same polite form that the stars have been using to address one another.'),
+  "'Go to your high-society dinners!' The instruction addresses one person familiarly. Your is plural "
+  'because it goes with the dinners, not because more than one person is being addressed.'),
  (12,
   None,
-  "'Speak clearly, please. I don't understand a word.' The word for a single word makes the denial emphatic. "
-  'She claims to understand nothing at all.'),
+  "'Articulate, please. I don't understand a word.' The instruction uses the familiar form for one person. "
+  'The polite request for please keeps that familiar form as well.'),
  (13,
   None,
   "'How far behind schedule are we?' The question asks how much delay they have. French builds the thought "
@@ -147,3 +163,6 @@ WALK = [(0,
   None,
   "'Call their agents right now!' The possessive means their, referring to the two stars. The final word "
   'makes the timing urgent.')]
+SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the '
+ 'bilingual working subtitles, whose French track is backtranslated; source video and separate '
+ 'original-audio checks verify roles, plot and register.')
