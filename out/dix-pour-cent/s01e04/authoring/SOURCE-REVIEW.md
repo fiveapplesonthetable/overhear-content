@@ -35,3 +35,5 @@ The adapted learner dialogue is intentionally shorter and simpler than the episo
 Ten illustrations were replaced after source inspection: 04,06,07,08,09,10,16,19,30,32. Each uses built-in imagegen with the house-style reference, canonical character designs, no text/logos, and was inspected and saved as square1024 WebP. Exact prompt summaries are recorded in the respective scene REVIEW files.
 
 Validation: episode validator with required notes; full-line story/WALK English translation consistency; exact annotated-token order; source speaker/register checks; all scene art checked visually. Audio synthesis, final narration semantic checks, alignment, GPU reservation and publication are owned by the production agent and remain separate release gates.
+
+Final contextual-gloss audit corrected revoir to its own word lemma, tout in the time expression to its own intensifying use, and prendre to the action alone. The adverbial fixed-expression classification was checked against the Académie: https://www.dictionnaire-academie.fr/article/A9T1677 and https://www.dictionnaire-academie.fr/article/A8T0911. No audio-script changes.
