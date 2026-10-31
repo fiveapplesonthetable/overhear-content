@@ -163,7 +163,8 @@ WALK = [(0,
  (14,
   None,
   "'Andréa wanted to show you something, but not now.' The past form of want reports an earlier intention. "
-  'Something is an indefinite expression: Camille does not need to name the object she might show him.'),
+  'Something is an indefinite expression: Camille does not need to name the object Andrea wanted to show '
+  'Mathias.'),
  (15,
   None,
   "'I'll come back later.' A form of go introduces the promise to return. The final phrase means later, "
