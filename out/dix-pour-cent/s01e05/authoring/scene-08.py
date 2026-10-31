@@ -7,17 +7,16 @@ SCENE = 8
 TITLE = 'Gabriel Sarda, mon agent!  (Gabriel Sarda, My Agent!)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = ('At the film-set catering area, Sofia spots her agent Gabriel and proudly introduces him. She wants to '
- 'share her rehearsal news, but Gabriel has another phone call. Nearby, Andrea continues looking after '
- 'Julie. Listen to the French first and follow the changing attention.')
+ 'share her rehearsal news, but Gabriel has another phone call. Listen to the French first and follow the '
+ 'changing attention.')
 OPENER = 'Sofia first examines the snacks, then turns her attention to her visiting agent.'
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = ('Sofia is delighted by the film set, though Gabriel is distracted. Andrea still has to help Julie return to '
- 'work. You have heard how to ask about taste, a release date and permission to have something. See you next '
- 'time.')
+OUTRO = ('Sofia is delighted by the film set, though Gabriel is distracted. You have heard how to ask about taste, a '
+ 'release date and permission to have something. See you next time.')
 CLOSING = ('sofia', 'Bonne journée!')
 STORY = [('sofia',
   "L'un est noir et l'autre est jaune. Ça a quel goût?",
@@ -72,11 +71,6 @@ STORY = [('sofia',
   'Il y a des chevaux et tout!',
   'There are horses and everything!',
   [(155, 'Il y a des chevaux et tout')],
-  ''),
- ('andrea',
-  'Tiens, chérie. Ça va te faire du bien. Viens là.',
-  'Here, darling. This will do you good. Come here.',
-  [(156, 'Tiens, chérie. Ça va te'), (157, 'Viens là')],
   '')]
 WALK = [(0,
   None,
@@ -136,8 +130,4 @@ WALK = [(0,
  (13,
   None,
   "'There are horses and everything!' The phrase for there are uses a singular helper even with plural "
-  'horses. The ending and everything is an informal way of adding more impressive details.'),
- (14,
-  None,
-  "'Here, darling. This will do you good. Come here.' The first word offers something to the listener. Doing "
-  'someone good uses the little word for you before do, marking who should feel better.')]
+  'horses. The ending and everything is an informal way of adding more impressive details.')]

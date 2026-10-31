@@ -43,3 +43,25 @@ Corrected river as a common noun, woods rather than drink, running rather than c
 ## Primary-video check: scene 01
 
 Inspected private CPU-extracted source frames and burned bilingual subtitles for the opening set dispute. Corrected the remaining inherited speaker error: Julie, replying to JoeyStarr, says “Je travaille, d'accord?” Revised its English explanation accordingly. The other opening speaker assignments, including the split “Moi aussi!” / “Allez à vos dîners mondains!”, match the visible exchange. Scene 01 is reapproved for rendering after this correction. No private video frames or signed URLs are committed.
+
+## Primary-video correction pass: scenes 02–15 and 17
+
+CPU-extracted private source frames, burned bilingual subtitles and denser one-frame-per-second sequences supersede the earlier subtitle-only speaker assumptions. No source frames, audio, tokens or signed URLs are committed.
+
+- 02: Andrea brings breakfast and says “Voilà. De rien!”; corrected from Colette.
+- 03: Sofia's autograph exchange is with Hervé, not Camille. Removed that detour and its greeting, keeping 12 lines focused on Camille, Sofia's overheard film news and Mathias.
+- 04: Female set assistant is now `assistante_plateau`, coordinated with central cast/voice ownership.
+- 05: Documented brief crew-report folding into the director for three lesson voices.
+- 06: Gabriel advises Julie. Corrected Andrea's incorrectly assigned lines and all narrative references.
+- 07: Andrea listens to JoeyStarr and describes her attraction to Colette. Corrected the agent, female agreement and invented Gabriel/Anna narrative.
+- 08: Removed the last reassurance, which actually belongs to Arlette and Marie-Sophie at the agency, not Andrea and Julie on set.
+- 09: Arlette makes the comparison with her first husband; corrected from Marie-Sophie.
+- 10: Dense frames confirm Camille's mother/fan lines and Noémie's surprised reply. Only Hervé's opening question is deliberately folded into Camille's role, explicitly recorded in the review sheet; the visiting actor's request remains explicitly recast as Noémie's reply.
+- 11: Replaced the invented locked-greenhouse escape. JoeyStarr fakes the borrowed-phone call, Julie asks for her phone back, then the agents hear alarm outside. All French lines now follow that source sequence; three roles and 12 lines.
+- 12: Removed the unsupported dog/armchair story. The brief “his armchair” speaker still needs an independent primary check; this scene remains held pending that check.
+- 13: Noémie pitches the notice idea to Mathias while Camille listens from the doorway. Corrected the fabricated Camille/Hervé exchange, the narrator and feminine agreement.
+- 14: Gabriel counsels Julie. Brief crew scheduling information and Andrea's reassurance are explicitly folded into the director/Gabriel for three lesson roles.
+- 15: Andrea gives all encouragement, including the costume comment; no separate costumière or Gabriel speaks these lines.
+- 17: Checked the surprise, bath, injury aftermath and departure against source frames; roles and revised walkthrough order agree.
+
+Scripts/notes 02–11, 13–15 and 17 are reapproved for rendering after these changes. Artwork 06, 07, 08, 11, 12, 13, 14 and 15 is held for necessary role/scene corrections. Scene 12 remains held for its short speaker check as well. Episode validator: 0 errors; proper-name accent warnings and later unreviewed lessons remain.

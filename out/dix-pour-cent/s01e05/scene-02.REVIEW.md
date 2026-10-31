@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Andréa | Viens là. | Come here. | #23 00:02:32: Viens là | verbatim |
 | 2 | Colette | Je vais prendre une douche. | I'm going to take a shower. | #24 00:02:33: Je vais prendre une douche | verbatim |
-| 3 | Colette | Voilà. De rien! | There you go. You're welcome! | #25 00:02:38: Voilà<br>#25 00:02:38: De rien | verbatim |
+| 3 | Andréa | Voilà. De rien! | There you go. You're welcome! | #25 00:02:38: Voilà<br>#25 00:02:38: De rien | adapted: Primary-video check: Andrea brings breakfast and says this to Colette. |
 | 4 | Colette | Je vais vraiment être en retard. | I'm really going to be late. | #26 00:02:43: je vais vraiment<br>#26 00:02:43: être en retard | verbatim |
 | 5 | Andréa | Moi aussi. | Me too. | #27 00:02:45: moi aussi | verbatim |
 | 6 | Gabriel | Tu étais où? Tu ne répondais pas au téléphone. | Where were you? You weren't answering your phone. | #28 00:02:51: étais où<br>#29 00:02:53: Tu ne répondais pas au téléphone | verbatim |

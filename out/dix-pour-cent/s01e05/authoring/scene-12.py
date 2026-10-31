@@ -13,7 +13,8 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = ("Back in Paris, Arlette rejects the flowers and Mathias tries again to protect Jonathan's role. Their "
  'argument becomes a dispute about money, loyalty and power within the agency. Camille interrupts with the '
  'beginning of another idea. Hear the French first and follow the competing reasons.')
-OPENER = 'Mathias asks to reopen the subject. Arlette first reminds him whose armchair he is approaching.'
+OPENER = ('Mathias asks Arlette to reconsider the decision about Jonathan. Their conversation soon turns from the '
+ 'actor to the agency itself.')
 TRANSITION = "Now let's listen to the whole confrontation again."
 OUTRO = ('Arlette refuses to sacrifice loyalty for money. Camille has not yet explained her plan, but she wants the '
  'fans to have a say. Listen again for no longer, nothing and not everything: three different kinds of '
@@ -93,8 +94,8 @@ WALK = [(0,
   'professional distance. The word for about introduces the person they are going to discuss.'),
  (1,
   None,
-  "'That's his armchair.' The possessive his follows the masculine noun armchair. The line gives priority to "
-  'the small dog whose chair Mathias is trying to use.'),
+  "'That's his armchair.' The possessive his follows the masculine word for armchair. It identifies the "
+  'chair with someone already known in the conversation.'),
  (2,
   None,
   "'Marie-Sophie doesn't want your flowers.' After a negative expression about wanting something, French can "

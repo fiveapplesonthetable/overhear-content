@@ -14,11 +14,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Julie | Il doit s'excuser avant! | He has to apologise first! | #103 00:06:58: il | verbatim |
 | 3 | Julie | J'ai travaillé dur pour ce rôle. J'ai étudié l'époque! | I worked hard for this part. I studied the period! | #104 00:07:01: dur pour ce rôle<br>#104 00:07:01: l'époque | verbatim |
 | 4 | Julie | Et lui, il improvise! | And he just improvises! | #105 00:07:05: et lui il improvise ! | verbatim |
-| 5 | Andréa | Reste calme, Julie. Pense à ta carrière. | Stay calm, Julie. Think of your career. | #106 00:07:06: Reste<br>#106 00:07:06: ta carrière. | verbatim |
-| 6 | Andréa | Un film en costumes, c'est difficile à tourner. | A costume drama is difficult to shoot. | #107 00:07:10: Un film en costumes<br>#107 00:07:10: difficile à tourner | verbatim |
-| 7 | Andréa | Mais ça peut te valoir un César! Au minimum! | But that could win you a César! At least! | #108 00:07:14: Ça peut te valoir un César. Au minimum. | verbatim |
-| 8 | Andréa | Ça vaut bien un petit effort. | It's well worth a little effort. | #109 00:07:16: Ça vaut bien un petit effort. | verbatim |
-| 9 | Andréa | Non, Julie! | No, Julie! | #110 00:07:19: Non, Julie | verbatim |
+| 5 | Gabriel | Reste calme, Julie. Pense à ta carrière. | Stay calm, Julie. Think of your career. | #106 00:07:06: Reste<br>#106 00:07:06: ta carrière. | verbatim |
+| 6 | Gabriel | Un film en costumes, c'est difficile à tourner. | A costume drama is difficult to shoot. | #107 00:07:10: Un film en costumes<br>#107 00:07:10: difficile à tourner | verbatim |
+| 7 | Gabriel | Mais ça peut te valoir un César! Au minimum! | But that could win you a César! At least! | #108 00:07:14: Ça peut te valoir un César. Au minimum. | verbatim |
+| 8 | Gabriel | Ça vaut bien un petit effort. | It's well worth a little effort. | #109 00:07:16: Ça vaut bien un petit effort. | verbatim |
+| 9 | Gabriel | Non, Julie! | No, Julie! | #110 00:07:19: Non, Julie | verbatim |
 | 10 | JoeyStarr | Vous avez entendu son accent, sa façon de parler? | Have you heard her accent, her way of speaking? | #111 00:07:21: Vous avez entendu son accent, sa façon de parler ? | verbatim |
 | 11 | JoeyStarr | Elle se prend pour le prince Charles? | Does she think she's Prince Charles? | #112 00:07:25: Elle se prend pour le prince Charles ? | verbatim |
 | 12 | JoeyStarr | Elle prend des cours de musique ancienne! | She takes lessons in old music! | #113 00:07:27: de | adapted: Simplifies the harpsichord-teacher reference to early-music lessons. |
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A costume drama is difficult to shoot.' The French expression literally says a film in costumes. The action word that normally means turn can also mean shoot when the object is a film.
 - 'But that could win you a César! At least!' The action means earn or bring someone a result. The little word for you identifies who could receive the French film award.
 - 'It's well worth a little effort.' Now the same action word means be worth. Well strengthens the judgment that a little effort is a reasonable price for that possible reward.
-- 'No, Julie!' A short no followed by someone's name can protest or try to stop them. Andrea is trying to keep Julie in the conversation.
+- 'No, Julie!' A short no followed by someone's name can protest or try to stop them. Gabriel is trying to keep Julie in the conversation.
 - 'Have you heard her accent, her way of speaking?' The completed past question asks whether they have heard something. A way of speaking is built from the noun way followed by of and the action speak.
 - 'Does she think she's Prince Charles?' The expression literally says she takes herself for someone. It suggests pretension: he thinks her grand way of speaking is an act.
 - 'She takes lessons in old music!' The word for lessons is plural even though it ends in the same letter in the singular. Early music describes music from an older historical tradition.

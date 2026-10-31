@@ -7,7 +7,7 @@ SCENE = 4
 TITLE = 'Tu as le trac?  (Have You Got Stage Fright?)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'assistant': "L'assistant", 'joey': 'JoeyStarr', 'sofia': 'Sofia'}
+LABELS = {'sofia': 'Sofia', 'joey': 'JoeyStarr', 'assistante_plateau': "L'assistante plateau"}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = ('Sofia has reached the country film set for her two-line role. She is excited to act opposite JoeyStarr, '
@@ -28,7 +28,7 @@ STORY = [('sofia',
   "I have two lines, but they're quite long.",
   [(69, 'répliques'), (70, 'Deux, mais elles sont assez longues.')],
   ''),
- ('assistant',
+ ('assistante_plateau',
   'Julie attend. On est déjà en retard.',
   "Julie is waiting. We're already late.",
   [(74, 'Julie attend. On est déjà en retard.')],
@@ -48,7 +48,7 @@ STORY = [('sofia',
  ('sofia', "Si, c'est ça!", "Yes, that's right!", [(80, "Si, c'est ça !")], ''),
  ('joey', 'Tu as le trac?', 'Have you got stage fright?', [(81, 'le trac ?')], ''),
  ('sofia', 'Non. Enfin, oui, beaucoup!', 'No. Well, yes, a lot!', [(81, 'Non. Enfin')], ''),
- ('assistant',
+ ('assistante_plateau',
   "Joey, Julie s'énerve. Elle va quitter le plateau!",
   "Joey, Julie is getting angry. She's going to walk off the set!",
   [(83, "Joey, Julie s'énerve. Elle va quitter le plateau.")],
