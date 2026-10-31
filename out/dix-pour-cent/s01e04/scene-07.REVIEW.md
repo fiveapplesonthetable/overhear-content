@@ -41,3 +41,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Three?' Gabriel repeats the number as a question. Repeating a short word with a rising voice can express surprise or uncertainty, rather than confirm a fact.
 
 Audio confirms Gabriel addresses Sofia politely, Sofia offers Three, and Gabriel repeats Three as a question. The script does not present a documented count of Cécile’s rejections.
+
+Art repair: built-in imagegen; reference art/style/fr-01-agence.webp for house style. Prompt: Gabriel reassures Sofia over an audition paper at the agency kitchen table. Rounded flat cartoon, canonical character hair/clothes, one dominant palette, no text/logos/actor likeness. Generated composition inspected; saved1024squareWebP.

@@ -46,3 +46,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I'll talk to him.' Near future again: 'I am going to talk to him'.
 
 Primaryvideo: private E4dual MP4id1619500213,12frames799–847s. Mathias cooks in the kitchen while Catherine talks. Correct adult pair; restored “Il révise?” without inventing acting lines and kept the marriage remark hypothetical. Omitted the ambiguous short concession between their replies.
+
+Full original French audio and primary video audited; lesson keeps the source situation and speakers. Learner adaptations are disclosed, and no false source register contrast is taught.
+
+Art repair: built-in imagegen; reference art/style/fr-01-agence.webp for house style. Prompt: Mathias cooks at his home kitchen counter while Catherine talks to him. Rounded flat cartoon, canonical character hair/clothes, one dominant palette, no text/logos/actor likeness. Generated composition inspected; saved1024squareWebP.
