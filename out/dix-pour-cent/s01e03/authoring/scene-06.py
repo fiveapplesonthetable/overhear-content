@@ -10,7 +10,7 @@ PAIR = 'fr-en'
 LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = ('Mathias, one of the agents, has been trying to arrange film work for Camille, his assistant. She is '
+INTRO = ('Mathias, one of the agents, has been trying to arrange film work for Camille, an assistant at the agency. She is '
  'secretly his daughter. Now her colleagues Noemie and Herve notice an invitation to the Cesars on her desk. '
  'Assistants usually miss out on these French film awards. Listen to Camille try to explain her lucky '
  'invitation.')
