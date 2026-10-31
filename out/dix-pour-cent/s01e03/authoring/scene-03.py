@@ -126,9 +126,7 @@ WALK = [(0,
  (13, None, "'It's great!' Laura uses a casual, cheerful word that is the same as in English."),
  (14,
   None,
-  "'Does the director know we're mother and daughter?' The opening expression introduces a question that can "
-  'be answered positively or negatively. French also has a feminine word for a woman directing a film, which '
-  'fits Solveig here.'),
+  "'Does the director know we're mother and daughter?' The opening expression introduces a question that can be answered positively or negatively. French also has a feminine word for a woman directing a film, which fits the female director here."),
  (15,
   None,
   "'No, she doesn't know anything at all.' The negative word rules out any knowledge of the family "

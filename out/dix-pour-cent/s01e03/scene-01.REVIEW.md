@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- Gabriel greets Cecile and gives an enthusiastic yes, saying that things sound great. He asks her to call back and finishes with a casual goodbye. The request to call back is a familiar command. A hyphen joins the command to a short object word identifying the person asking for the return call.
+- Gabriel greets his client and gives an enthusiastic yes, saying that things sound great. He asks her to call back and finishes with a casual goodbye. The request to call back is a familiar command. A hyphen joins the command to a short object word identifying the person asking for the return call.
 - 'The tax audit.' Literally 'the fiscal control'. The describing word follows the thing being checked: the agency's tax affairs.
 - 'That letter for Mr Jarron?' The first word means 'this' or 'that' in a feminine form, because the word for letter is feminine.
 - 'Yes, I sent it.' The object word refers back to the letter and comes before the helping word. It loses its vowel before the next word. Because the letter is feminine, the completed action has an additional feminine ending in writing.
@@ -38,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm sorry.' This written apology has a masculine ending because Gabriel is speaking. An apology by a woman would add a silent e.
 - 'What's the point of paying an assistant?' Literally 'to what does it serve to pay an assistant'. Gabriel tries to shift the blame for his own mistake.
 - 'No, Gabriel, you can't always fix everything!' The short word before the action can refer to a group including the speaker, or to people in general. Here Mathias is talking about people in general as he rejects Gabriel's easy reassurance.
-- 'We had a call this morning.' The completed past of 'have' pairs a present helper with the short past form. The last two words identify this morning.
+- 'We had a call this morning.' To describe the call as a finished event, French uses a helping verb in the present followed by a participle. The last two words identify this morning.
 - 'The file is in another department.' The word for 'another' follows an indefinite article. Their tax case has moved away from the person who could help them.
 - 'Jarron was our only ally.' The past form of 'be' describes how things stood. The word for 'only' comes before the person described: their ally.
 - 'Maybe we need to put our books in order.' The first two words express necessity. Gabriel suggests doing what the audit demands, which is not what his colleagues want to hear.
