@@ -40,14 +40,15 @@ FAREWELL.update({
     "ja": re.compile(r"さようなら|またね|また明日|また会いましょう|じゃあね"),
     "zh": re.compile(r"再见|明天见|回头见|下次见"),
     "ko": re.compile(r"안녕히 (가세요|계세요)|안녕|또 (봐요|만나요)|다음에 (봐요|만나요)"),
+    "pt": re.compile(r"\b(?:Tchau|Até (?:logo|amanhã|mais|a próxima)|Adeus|Boa (?:noite|tarde))\b", re.I),
     "ar": re.compile(r"مع السلامة|إلى اللقاء|الى اللقاء|نشوفك|أشوفك|اشوفك"),
 })
 
 SCHEMA_ERR_CAP = 8          # per file; the rest is summarised ("and N more")
 
 ROOT = Path(__file__).resolve().parents[1]
-SHOWS = {"kukhnya": "ru", "domashniy-arest": "ru", "dix-pour-cent": "fr", "paquita-salas": "es", "die-discounter": "de", "boris": "it", "the-producers": "ko", "the-naked-director": "ja", "behind-the-scenes": "zh", "al-maktab": "ar"}
-PAIR = {lang: f"{lang}-en" for lang in ("ru", "fr", "es", "de", "it", "ko", "ja", "zh", "ar")}
+SHOWS = {"kukhnya": "ru", "domashniy-arest": "ru", "dix-pour-cent": "fr", "paquita-salas": "es", "die-discounter": "de", "boris": "it", "the-producers": "ko", "the-naked-director": "ja", "behind-the-scenes": "zh", "al-maktab": "ar", "porta-dos-fundos": "pt"}
+PAIR = {lang: f"{lang}-en" for lang in ("ru", "fr", "es", "de", "it", "ko", "ja", "zh", "ar", "pt")}
 CYR = re.compile(r"[Ѐ-ӿ]")
 LAT = re.compile(r"[A-Za-z]")
 ACUTE = "́"
@@ -212,10 +213,10 @@ def target_ok(lang, text, where, rep):
         if not CYR.search(text): rep.err(where, f"Russian line has no Cyrillic: {text[:50]!r}")
         if LAT.search(text): rep.err(where, f"Latin letters in Russian line: {text[:50]!r}")
     else:
-        name = {"fr": "French", "es": "Spanish", "de": "German", "it": "Italian", "ja": "Japanese", "zh": "Chinese", "ko": "Korean", "ar": "Arabic"}.get(lang, lang)
+        name = {"fr": "French", "es": "Spanish", "de": "German", "it": "Italian", "ja": "Japanese", "zh": "Chinese", "ko": "Korean", "ar": "Arabic", "pt": "Brazilian Portuguese"}.get(lang, lang)
         if CYR.search(text): rep.err(where, f"Cyrillic in {name} line: {text[:50]!r}")
         if lang in ("fr", "es") and re.search(r"\s[?!:;]", text): rep.err(where, f"space before ?!:; (write 'là?'): {text[:50]!r}")
-        if lang in ("fr", "es", "de", "it") and "’" in text: rep.err(where, "typographic apostrophe, use '")
+        if lang in ("fr", "es", "de", "it", "pt") and "’" in text: rep.err(where, "typographic apostrophe, use '")
         if lang in ("fr", "es") and ("«" in text or "»" in text): rep.err(where, "guillemets in a spoken line")
 
         native = {"ja": r"[\u3040-\u30ff\u3400-\u9fff]", "zh": r"[\u3400-\u9fff]", "ko": r"[\uac00-\ud7a3\u1100-\u11ff]", "ar": r"[\u0620-\u064a\u066e-\u06d3]"}.get(lang)
@@ -647,7 +648,7 @@ def check_stress(lang, word, st, where, rep):
         rep.err(where, f"{lang} stress must be null; reviewed alignment readings belong in words[].reading, not a guessed stress/pitch field")
     else:
         if re.search(r"[\s/\[\]]", st) or re.search(r"[A-Z]", st) or ACUTE in st: rep.err(where, f"{lang} stress must be bare IPA: {st!r}")
-        spelling = r"[éèêàùçôîï]" if lang == "fr" else r"[áéíóúñü]" if lang == "es" else r"[àèéìòù]" if lang == "it" else r"[äöüß]"
+        spelling = r"[éèêàùçôîï]" if lang == "fr" else r"[áéíóúñü]" if lang == "es" else r"[àèéìòù]" if lang == "it" else r"[áàâéêíóôúç]" if lang == "pt" else r"[äöüß]"
         if re.search(spelling, st): rep.err(where, f"{lang} stress holds spelling letters, not IPA: {st!r}")
 
 
@@ -689,9 +690,9 @@ def check_notes(path, script, lang, require, rep):
             if wd.get("lemma") and wd["lemma"].lower() not in lex and wd.get("pos") != "name":
                 rep.err(lw, f"lemma {wd['lemma']!r} has no entry in lexicon")
             if wd.get("pos") != "name" and not wd.get("stress") and (
-                    lang in ("fr", "es") or (lang == "ru" and len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
-                rep.err(lw, f"word {t!r} needs a stress value ({'IPA' if lang in ('fr', 'es') else 'U+0301 mark; null only for one-vowel words or ё'})")
-            if lang == "es": check_stress(lang, t, wd.get("stress"), lw, rep)
+                    lang in ("fr", "es", "pt") or (lang == "ru" and len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
+                rep.err(lw, f"word {t!r} needs a stress value ({'IPA' if lang in ('fr', 'es', 'pt') else 'U+0301 mark; null only for one-vowel words or ё'})")
+            if lang in ("es", "pt"): check_stress(lang, t, wd.get("stress"), lw, rep)
             if lang in ("ja", "zh", "ko", "ar"): check_stress(lang, t, wd.get("stress"), lw, rep)
             if lang == "ru" and wd.get("stress") and len(re.findall("[аеёиоуыэюя]", wd["stress"].lower())) > 1 and ACUTE not in wd["stress"] and "ё" not in wd["stress"]:
                 rep.err(lw, f"stress {wd['stress']!r} lacks the U+0301 mark")
@@ -701,7 +702,7 @@ def check_notes(path, script, lang, require, rep):
             if not L.get(f): rep.err(lw, f"missing {f}")
         if L.get("lemma") != lemma: rep.err(lw, "key must equal lemma")
         check_stress(lang, lemma, L.get("stress"), lw, rep)
-        if lang in ("fr", "es") and L.get("pos") != "name" and not L.get("stress"):
+        if lang in ("fr", "es", "pt") and L.get("pos") != "name" and not L.get("stress"):
             rep.err(lw, f"{lang} ordinary lexicon entries require reviewed IPA; only pos:name may omit it")
         if lemma != lemma.lower() and L.get("pos") != "name": rep.err(lw, "lexicon key/lemma must be lowercase")
         if lang == "ru" and L.get("stress") and len(re.findall("[аеёиоуыэюя]", lemma)) > 1 and "ё" not in lemma and ACUTE not in L["stress"]:
@@ -709,7 +710,7 @@ def check_notes(path, script, lang, require, rep):
         for f in LEX_FIELDS:
             LEX_SEEN.setdefault(lang, {}).setdefault(f, {}).setdefault(lemma, {}).setdefault(json.dumps(L.get(f), ensure_ascii=False), w)
         for t in [L.get("forms")] * bool(L.get("forms")) + list(L.get("moreForms") or []): table_ok(t, lw, rep)
-        if L.get("pos") in ("noun", "adj", "verb") and not L.get("forms") and lang in ("ru", "es"):
+        if L.get("pos") in ("noun", "adj", "verb") and not L.get("forms") and lang in ("ru", "es", "pt"):
             rep.err(lw, f"{lang} noun/adj/verb needs a forms table")
         for m in L.get("meanings", []):
             if not m.get("en"): rep.err(lw, "meaning needs 'en'")
