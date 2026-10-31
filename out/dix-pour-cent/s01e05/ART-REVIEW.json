@@ -48,6 +48,31 @@
       "scene": 21,
       "prompt": "Use case: identity-preserve. Image1 edit target; image2 correct Gabriel reference (RIGHT); image3 correct Andrea reference (RIGHT). Correct the two foreground characters of image1: LEFT must be Gabriel, same tousled brown hair, light stubble, warm light skin and adult male face from image2, in a navy jacket over pale-blue shirt; remove the inaccurate broad man with black curly hair. RIGHT must be Andrea, same slim adult woman with expressive dark eyes, brown hair loosely tied back and warm light skin from image3, but in a plain gray T-shirt and dark shorts with bare feet as at the hotel in the morning; remove the inaccurate pixie-haired teenager in a bathrobe. Gabriel stands at the open hotel-room door asking pointed questions, hands naturally gesturing; Andrea looks caught out and tries to explain. REMOVE the breakfast tray, cups and croissant completely: he does not carry a tray in the original scene. Preserve the simple hotel-doorway composition, lamp, square framing and warm flat-color storybook style. Exactly two people, no text or new objects.",
       "review": "Inspected final 1024 square output against primary-video roles and established character illustrations."
+    },
+    {
+      "scene": 22,
+      "prompt": "Use case: identity-preserve. Image1 target, image2 established Andrea and Gabriel reference. Correct identities ONLY in image1: replace the foreground boyish short-haired figure with the same adult FEMALE Andrea from the RIGHT of image2, brown hair in loose bun, warm light skin, expressive dark eyes, black jacket and gray trousers, walking away angrily holding her phone up. Correct the man inside the car to Gabriel, same tousled brown-haired male with short stubble and navy suit/light blue shirt from LEFT of image2. Keep her pose, phone, his concerned expression, compact car, road and green open countryside, square composition and clean flat-color storybook style. No text or extra people.",
+      "review": "Generated output and final square1024 WebP inspected against primary-video role and established identity references."
+    },
+    {
+      "scene": 23,
+      "prompt": "Use case: identity-preserve. Image1 target, image2 reference for Sofia. Correct image1's RIGHT-HAND crew worker from a short-haired man to a middle-aged FEMALE film-set assistant: light skin, straight shoulder-length auburn hair, olive green practical jacket over dark blue scarf, holding clipboard, headset, busy impatient expression. This is a woman, not a male assistant. Correct LEFT-HAND Sofia to same adult woman on LEFT of image2: warm medium tan skin, same face/eyes, dark hair tucked under cream period bonnet, brown servant costume and white apron. Keep her disappointment, the worker's scheduling gesture, film light/background, square framing and clean flat-color storybook style. Two women only. No text.",
+      "review": "Generated output and final square1024 WebP inspected against primary-video role and established identity references."
+    },
+    {
+      "scene": 25,
+      "prompt": "Use case: identity-preserve. Image1 target, image2 identity reference. Correct BOTH people in image1 to established adult agents: driver on LEFT is Gabriel, same tousled medium-brown hair, short stubble and warm light skin as LEFT of image2, navy jacket/open light-blue shirt; passenger on RIGHT is FEMALE Andrea, same expressive dark eyes and loose brown bun as RIGHT of image2, now dressed for work in a black tailored blazer and trousers. Keep the two seated positions, his hands on steering wheel, her receipts/papers, calmer conversational expressions, car interior and green countryside through windows. Preserve square composition and warm flat-color storybook style. No text or extra people. Do not give Andrea a boyish pixie haircut.",
+      "review": "Generated output and final square1024 WebP inspected against primary-video role and established identity references."
+    },
+    {
+      "scene": 29,
+      "prompt": "Use case: identity-preserve. Image1 target, image2 established Sofia reference. Preserve Gabriel on LEFT, desk, office, lamps, evening colors, poses, square framing and warm flat-color storybook illustration. Correct ONLY the woman on RIGHT to Sofia, the SAME adult woman on LEFT of image2, warm medium tan skin, same face/eyes, now with voluminous shoulder-length natural dark-brown CURLY hair, outside her period costume in a teal-green blouse under a black leather jacket, carrying shoulder bag. She is the actress returning to her reception job, not a different straight-haired woman. Friendly thoughtful expression and conversational posture. No text or extra people.",
+      "review": "Generated output and final square1024 WebP inspected against primary-video role and established identity references."
+    },
+    {
+      "scene": 30,
+      "prompt": "Use case: identity-preserve. Image1 target, image2 established Camille reference. Correct ONLY the young woman on FAR LEFT of image1 to Camille, the same young adult on RIGHT of image2: warm light skin, long softly wavy chestnut-brown hair parted slightly to one side, NO straight fringe/bangs, expressive brown eyes, small freckles. Keep her current pale blouse/cardigan and dark trousers, worried/surprised expression and standing position. Preserve Mathias with silver hair and champagne, Catherine, the young curly-haired man, evening glass office setting, square framing and clean warm flat-color storybook style. No text or added people.",
+      "review": "Generated output and final square1024 WebP inspected against primary-video role and established identity references."
     }
   ]
 }
