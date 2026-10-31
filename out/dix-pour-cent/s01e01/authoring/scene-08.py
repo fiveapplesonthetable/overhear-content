@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
-INTRO = ('After Magali leaves, Andrea needs a new assistant, and Sofia has turned the job down. She takes Camille '
- 'outside for an impromptu interview. Listen to the French first; you can follow the questions without '
- 'catching every word.')
+INTRO = ('After Magali leaves, Andrea needs a new assistant, and Sofia has turned the job down. She brings Camille '
+ 'into her office for an impromptu interview. Listen to the French first; you can follow the questions '
+ 'without catching every word.')
 OPENER = "Let's follow the interview. Andrea begins with a question that sounds almost like an order."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ("Camille has found a job, and you have heard several ways to ask about someone's background and "
@@ -61,7 +61,11 @@ STORY = [('andrea', 'Tu viens, oui ou non?', 'Are you coming or not?', [(251, 'T
   'Can I call you at four in the morning? Do you work on Sundays?',
   [(278, "Je peux t'appeler"), (278, 'à quatre heures du matin'), (279, 'le dimanche')],
   ''),
- ('camille', 'Oui à tout.', 'Yes to everything.', [(282, 'Oui à tout')], ''),
+ ('camille',
+  'Oui, oui.',
+  'Yes, yes.',
+  [(281, 'Oui, oui')],
+  'Only the answers to the two retained questions are kept.'),
  ('andrea',
   'Très bien. Tu peux commencer maintenant?',
   'Very good. Can you start now?',
@@ -134,8 +138,8 @@ WALK = [(0,
   'morning.'),
  (15,
   None,
-  "'Yes to everything.' The last word means 'everything' here. Camille accepts the whole set of demands in "
-  'one short answer.'),
+  "'Yes, yes.' Repeating the answer confirms both requests Andrea has just made. Camille is willing to be "
+  'available early and on Sundays.'),
  (16,
   None,
   "'Very good. Can you start now?' 'Can' is followed straight away by the plain action 'start'. The final "
