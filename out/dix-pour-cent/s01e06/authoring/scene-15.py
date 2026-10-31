@@ -17,7 +17,8 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ("Sofia's action performance has avoided the dance the casting director requested. She will now be asked to start over "
  'with the choreography. See you next time.')
 CLOSING = ('constance', 'À demain!')
-STORY = [('constance', 'Sofia, on y va?', 'Sofia, shall we go?', [(423, 'Sofia'), (424, 'On y va')], ''),
+STORY = [('constance', 'Sofia?', 'Sofia?', [(423, 'Sofia')], ''),
+ ('constance', 'On y va?', 'Shall we start?', [(424, 'On y va')], ''),
  ('sofia', 'Oui, je suis prête.', 'Yes, I am ready.', [(425, 'Désolée, oui')], ''),
  ('sofia',
   "Je m'appelle Sofia Leprince, j'ai 25 ans.",
@@ -59,57 +60,49 @@ STORY = [('constance', 'Sofia, on y va?', 'Sofia, shall we go?', [(423, 'Sofia')
   'Vous me voyez atterrir comme une héroïne?',
   'Do you see me landing like a heroine?',
   [(436, 'Vous me voyez'), (436, 'atterrir comme')],
-  ''),
- ('constance',
-  "Ce n'est pas du tout ce que j'avais demandé.",
-  'This is not at all what I had asked for.',
-  [(438, "pas du tout ce que j'avais demandé")],
   '')]
-WALK = [(0,
-  None,
-  "'Sofia, shall we go?' The two short words after 'we' express going there or getting started. With rising "
-  "intonation, this becomes 'shall we begin?'."),
+WALK = [(0, None, "'Sofia?' The casting director calls her by name as a question, checking that she is ready to respond."),
  (1,
+  None,
+  "'Shall we start?' The two short words after 'we' express going there or getting started. With rising intonation, "
+  'this becomes a suggestion to begin.'),
+ (2,
   None,
   "'Yes, I am ready.' The last word means ready. Its feminine written ending matches Sofia, who is saying she is ready "
   'to begin the audition.'),
- (2,
+ (3,
   None,
   "'My name is Sofia Leprince, I am twenty-five years old.' The first action literally says 'I call myself', the "
   "everyday way to give a name. Age then uses 'have', followed by a number of years."),
- (3,
+ (4,
   None,
   "'And my agent is Gabriel Sarda at ASK.' The small word before the agency's name means 'at' or 'with'. It identifies "
   'where her agent works rather than where Sofia is standing.'),
- (4,
+ (5,
   None,
   "'Perfect! We start right away.' The first word means perfect. The final three-word expression means 'immediately' "
   "or 'right away', so the start will not be delayed."),
- (5,
+ (6,
   None,
   "'First the choreography, then your scene, okay?' Two ordering words organize the tasks: first choreography, then "
   'the acting scene. The final check asks whether Sofia agrees to that order.'),
- (6,
+ (7,
   None,
   "'Okay, whenever you want.' The opening accepts the instruction. The remaining words literally mean 'when you want', "
   'inviting the casting director to choose when to start.'),
- (7,
+ (8,
   None,
   "'They want to fight with me?' The words after 'want' mean fighting one another. The final 'with me' identifies "
   "Sofia's character as the person they want to confront."),
- (8,
+ (9,
   None,
   "'I run faster than them!' The comparison joins 'more' and 'fast' to make 'faster'. The shortened word before 'them' "
   "means 'than', identifying the people she outruns."),
- (9,
+ (10,
   None,
   "'Now I am here, now I am no longer here!' The word for 'now' is repeated in both halves. The second half adds a "
   "negative meaning 'no longer', so she acts out disappearing from one place."),
- (10,
-  None,
-  "'Do you see me landing like a heroine?' The little object before 'see' means 'me'. The action after it means "
-  'landing, and the comparison describes doing so like a female hero.'),
  (11,
   None,
-  "'This is not at all what I had asked for.' The strong negative means 'not at all'. The completed earlier request "
-  "follows 'what': the director says this is different from what she had asked for.")]
+  "'Do you see me landing like a heroine?' The little object before 'see' means 'me'. The action after it means "
+  'landing, and the comparison describes doing so like a female hero.')]
