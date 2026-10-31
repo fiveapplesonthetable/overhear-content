@@ -43,7 +43,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm joking, Mathias.' Catherine uses a useful everyday action word for 'to joke' or 'to kid'.
 - 'It's not very smart to go out with his agent's assistant.' The expression 'go out with' means 'date' here. Mathias frames his discomfort as a professional concern.
 - 'Tell him, then.' Command form of 'tell' joined by a hyphen to the word for 'to him'.
-- 'Yes, I'll talk to him.' Near future again: 'I am going to talk to him'.
+- 'Yes, I'll talk to him.' Near future: 'I am going to talk to him'.
 
 Primaryvideo: private E4dual MP4id1619500213,12frames799–847s. Mathias cooks in the kitchen while Catherine talks. Correct adult pair; restored “Il révise?” without inventing acting lines and kept the marriage remark hypothetical. Omitted the ambiguous short concession between their replies.
 
@@ -52,3 +52,5 @@ Full original French audio and primary video audited; lesson keeps the source si
 Art repair: built-in imagegen; reference art/style/fr-01-agence.webp for house style. Prompt: Mathias cooks at his home kitchen counter while Catherine talks to him. Rounded flat cartoon, canonical character hair/clothes, one dominant palette, no text/logos/actor likeness. Generated composition inspected; saved1024squareWebP.
 
 Production speech polish: replaced English-only teaching with complete grammatical descriptions after three seed/speed retakes still dropped isolated quoted function words. Translation glosses, all native segments, speaker order, timing gaps and notes remain exact. Scene09 also removes a stale comparison to an earlier working question now source-corrected to studying.
+
+English precision edit: removed ambiguous again from the near-future explanation. Native dialogue, full translation glosses, notes, order and gaps unchanged.
