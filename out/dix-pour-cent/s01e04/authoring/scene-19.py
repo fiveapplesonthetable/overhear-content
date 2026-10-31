@@ -10,7 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'herve': 'Hervé', 'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "Back at the agency, though, Mathias is just leaving for the evening and admits to Noémie that he doesn't feel like going to the screening at all. When he forgets his phone on her desk, a message pops up on the screen and breaks Noémie's heart. Let's listen to the scene in French first; don't worry about catching every word."
+INTRO = ('At the end of the working day, Mathias leaves his phone behind at the agency. A message on the screen makes '
+ 'Noémie believe he is leaving for StarMédia without her. Hervé finds her crying on the office floor. First, '
+ 'listen in French.')
 OPENER = "Let's go through it slowly. At the end of the day, Noémie says goodbye to Mathias."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('Noémie has seen that the contract was sent and believes Mathias is leaving for StarMédia. What hurts her most '

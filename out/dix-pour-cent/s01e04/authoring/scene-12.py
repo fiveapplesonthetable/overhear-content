@@ -10,10 +10,13 @@ PAIR = 'fr-en'
 LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = "Outside the clothes shop, Andréa's ex-girlfriend Clémentine has just embarrassed her with a big dramatic scene right in front of Colette Brancillon. Meanwhile, back at ASK, Audrey Fleurot arrives for her first meeting with the young director Augustin. There are two small problems: she has brought both of her young children along, and she can barely breathe. Listen to the French first, without worrying about catching every word."
+INTRO = ('Clémentine has just embarrassed Andréa in the agency hall, in front of Colette. Meanwhile, Audrey arrives at '
+ 'ASK for her first meeting with Augustin. She has brought her two young children, and her tight girdle makes it '
+ 'difficult to breathe. First, listen in French.')
 OPENER = "Let's go through it gently. Mathias greets Audrey and immediately spots her two small children."
 TRANSITION = "Now let's listen to the whole conversation again."
-OUTRO = 'While Noémie looks after the children at the desks, Hervé takes a phone call from an admirer of Laura Smet and advises him to send Laura a fresh floral perfume — and to save the heavy perfume called Carnage for her mother instead. See you next time!'
+OUTRO = ('The agency now has two small visitors to keep busy while Audrey meets the director. In another office '
+ 'conversation, Hervé advises an admirer of Laura Smet about a perfume gift. See you next time!')
 CLOSING = ('audrey', 'À demain!')
 STORY = [
     ('mathias', "Bonjour, Audrey. Tu n'as pas trouvé de baby-sitter?", "Hello, Audrey. Didn't you find a babysitter?", [(310, 'Bonjour, Audrey'), (311, 'trouvé de baby-sitter')], ''),
