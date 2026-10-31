@@ -123,15 +123,15 @@ WALK = [(0,
  (7,
   None,
   "'Audrey had two children in three years.' You hear two forms of 'to have' together: the short helping word, "
-  "then the past form meaning 'had'. The phrase at the end gives the period in which this happened."),
+  "then the past form meaning 'had'. Both children were born within those three years."),
  (8,
   None,
   "'Now she wants to find work again and pay her taxes.' The French verb for finding again has a prefix that "
   'marks repetition. English does something similar with the word redo, meaning to do again.'),
  (9,
   None,
-  "'You can't find work, madam?' After the negative, the partitive article becomes a shorter form. The sentence "
-  'asks whether she can find any work at all.'),
+  "'You can't find work, madam?' After a negative expression, this little French word shortens. The sentence asks "
+  'whether she can find any work at all.'),
  (10,
   None,
   "'Of course she can!' French has a special affirmative response for contradicting a negative question. Mathias "
