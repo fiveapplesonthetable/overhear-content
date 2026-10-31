@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Cécile | Rien n'est signé. On attend l'appel. | Nothing is signed. We're waiting for the call. | #55 00:03:11: Rien n'est signé<br>#55 00:03:11: On attend l'appel | verbatim |
 | 14 | Cécile | C'est le prochain film de Tarantino. | It's Tarantino's next film. | #57 00:03:19: C'est le prochain film de Tarantino | verbatim |
 | 15 | La journaliste | Fantastique! | Fantastic! | #58 00:03:23: Fantastique ! | verbatim |
-| 16 | Gabriel | Tarantino ne prendra pas Cécile. Problème d'âge. | Tarantino won't cast Cecile. A problem with her age. | #63 00:03:32: Tarantino ne prendra pas Cécile<br>#64 00:03:35: Problème d'âge | verbatim |
+| 16 | Gabriel | Tarantino ne prendra pas Cécile. Problème d'âge. | Tarantino won't cast Cecile. A problem with her age. | #63 00:03:32: Tarantino ne prendra pas Cécile<br>#64 00:03:35: Problème d'âge | adapted: On-screen text message from Miranda Jones, read aloud by Gabriel in this abridgment; wording shortened. |
 | 17 | Cécile | C'est comme un rêve pour moi. | It's like a dream for me. | #68 00:03:51: C'est comme un rêve pour moi | adapted: Shortened from the interrupted source sentence. |
 
 ## Walk-through narration (English only, no target-language words quoted)
