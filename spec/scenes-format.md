@@ -30,10 +30,40 @@ Mid-sentence subtitle splits across a long gap (cue ends "You can't", next start
 
 ## Schema and canonical form (v1)
 Machine-readable: `spec/schema/scenes.schema.json`, enforced by `tools/validate.py`.
-- Top level has exactly `schemaVersion` (`1`), `show`, `season`, `episode`, `title` (string or null), `scenes`.
+- Top level requires `schemaVersion` (`1`), `show`, `season`, `episode`, `title` (string or null), `scenes`; optional `coverage` explicitly declares a taster excerpt (below).
   No `source_file`, `total_cues`, `source`.
 - Each scene has exactly `scene`, `start`, `end`, `title`, `summary`, `characters`, `location`, `merge`. No `id`,
   `time_range`, `status`, `cue_start`, `cue_end`, `merged_into` (the scene id is derived: `<show>-sNNeNN-scene-NN`).
 - `title` and `summary` are **English only**: not the bilingual `<target>  (<English>)` form (that belongs in
   `scene-NN.json`), no double spaces, never placeholder text such as `The characters discuss their situation.`
 - `location` is never empty.
+
+## Explicit taster excerpts
+
+Whole-episode coverage remains the default. A user-requested short taster can declare the optional top-level object:
+
+```json
+"coverage": {
+  "type": "excerpt",
+  "start": "00:00:05,760",
+  "end": "00:01:17,520",
+  "sourceSha256": "<SHA-256 of the complete retained source SRT bytes>",
+  "reason": "One reviewed opening taster; the rest of this episode is not published."
+}
+```
+
+Keep original source captions intact, including their numbering and source-relative timestamps. If no native caption
+track exists, a reviewed partial transcript must be clearly described as partial in the source-review document; never
+invent or imply the rest of an episode was transcribed. The hash binds exactly that retained transcript, not a claim
+of full episode verification. The reason must describe the actual bounded scope. Use a taster label in the lesson's
+English title/intro so users can see the scope.
+
+Every cue overlapping the declared interval must be fully inside it (never cut through a cue), and every cue in that
+interval must belong to a scene. All scene boundaries and script source citations must stay in the declared interval;
+scripts must cite the same hashed subtitle file. Every original story line must have an indexed citation whose fragment occurs in that line as well as in the source cue; empty citation lists and out-of-range line indexes fail. Ordinary notes, script, teaching, cast, art and source-fragment checks
+still apply. The excerpt declaration does not approve audio, word timing, native accuracy or publication. Without this
+object the existing full-episode coverage and end-time checks apply unchanged. It is an optional v1 extension.
+
+Registered taster shows are Die Discounter (`die-discounter`, `de-en`), Paquita Salas (`paquita-salas`, `es-en`), Boris
+(`boris`, `it-en`), The Producers (`the-producers`, `ko-en`), The Naked Director (`the-naked-director`, `ja-en`), Behind
+the Scenes (`behind-the-scenes`, `zh-en`) and Al Maktab (`al-maktab`, `ar-en`). Registration alone never activates a pair.
