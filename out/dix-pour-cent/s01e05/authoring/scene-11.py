@@ -81,8 +81,8 @@ WALK = [(0,
   'the call is genuine.'),
  (1,
   None,
-  "'Yes, yes.' Repeating yes makes his answer sound like an ongoing conversation with the caller. It helps "
-  'the pretence before he gives a reason to leave.'),
+  "'Yes, yes.' Repeating the word for yes makes a series of quick acknowledgements, rather than a single "
+  'answer. He sounds as if he is listening to several things from the caller.'),
  (2,
   None,
   "'Okay, I'm on my way.' The present action literally says I arrive. French uses it when promising to come "

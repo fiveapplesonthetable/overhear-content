@@ -19,9 +19,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Mathias | Camille, tu as un moment? | Camille, do you have a moment? | #58 00:04:19: Camille<br>#58 00:04:19: un moment | adapted: Learner adaptation, not a verbatim French transcript. |
 | 8 | Camille | Je te rappelle, Mamie, d'accord? Gros bisous! | I'll call you back, Gran, okay? Big kisses! | #59 00:04:21: Je te rappelle, mamie, d'accord ?<br>#60 00:04:24: Gros bisous ! | adapted: Learner adaptation, not a verbatim French transcript. |
 | 9 | Camille | C'est quoi, ça? | What is this? | #62 00:04:30: C'est quoi ça ? | adapted: Learner adaptation, not a verbatim French transcript. |
-| 10 | Mathias | Le rapport du ministère sur le financement du cinéma. Pour Andréa. | The ministry report on cinema funding. For Andréa. | #63 00:04:30: Le rapport du ministère sur le financement du cinéma. Pour Andréa | adapted: Learner adaptation, not a verbatim French transcript. |
+| 10 | Mathias | Le rapport du ministère sur le financement du cinéma. Pour Andréa. | The ministry report on cinema funding. For Andrea. | #63 00:04:30: Le rapport du ministère sur le financement du cinéma. Pour Andréa | adapted: Learner adaptation, not a verbatim French transcript. |
 | 11 | Mathias | Qu'est-ce qu'il y a? | What is the matter? | #65 00:04:39: Qu'est-ce qu'il y a ? | adapted: Learner adaptation, not a verbatim French transcript. |
-| 12 | Camille | Non, rien. C'est pour Andréa. | No, nothing. It's for Andréa. | #65 00:04:39: Non, rien<br>#67 00:04:49: C'est pour Andréa | adapted: Learner adaptation, not a verbatim French transcript. |
+| 12 | Camille | Non, rien. C'est pour Andréa. | No, nothing. It's for Andrea. | #65 00:04:39: Non, rien<br>#67 00:04:49: C'est pour Andréa | adapted: Learner adaptation, not a verbatim French transcript. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
