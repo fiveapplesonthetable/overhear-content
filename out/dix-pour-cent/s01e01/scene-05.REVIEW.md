@@ -18,15 +18,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Andréa | Il joue le frère de Guillaume Canet. | He plays Guillaume Canet's brother. | #187 00:11:20: frère de Guillaume Canet | verbatim |
 | 7 | Samuel | Excellent! Deux de nos acteurs. | Excellent! Two of our actors. | #188 00:11:22: Excellent !<br>#190 00:11:24: Deux de nos acteurs | verbatim |
 | 8 | Samuel | Autre chose? Gabriel? | Anything else? Gabriel? | #193 00:11:31: Autre chose ? Gabriel ? | verbatim |
-| 9 | Andréa | Cécile de France et Tarantino? | Cécile de France and Tarantino? | #194 00:11:34: Cécile de France et Tarantino ? | verbatim |
+| 9 | Samuel | Cécile de France et Tarantino? | Cécile de France and Tarantino? | #194 00:11:34: Cécile de France et Tarantino ? | verbatim |
 | 10 | Samuel | Ça ne se passe pas bien? | Isn't it going well? | #195 00:11:40: Ça ne se passe pas bien ? | verbatim |
 | 11 | Gabriel | Je ne dirais pas ça. | I wouldn't say that. | #196 00:11:43: Je ne dirais pas ça | verbatim |
 | 12 | Gabriel | Ça ne se passe pas du tout. | It's not happening at all. | #197 00:11:48: Ça ne se passe pas du tout | verbatim |
-| 13 | Andréa | Ce n'est pas possible! | That's not possible! | #198 00:11:52: pas possible | verbatim |
-| 14 | Gabriel | Ils ne veulent pas Cécile. | They don't want Cécile. | #202 00:12:03: veulent pas | verbatim |
-| 15 | Gabriel | Elle est trop vieille pour le rôle. | She's too old for the part. | #203 00:12:04: elle est trop vieille pour le rôle | verbatim |
-| 16 | Andréa | Trop vieille? C'est quoi le rôle, une gamine? | Too old? What's the part, a little girl? | #205 00:12:09: Trop vieille ? C'est quoi le rôle, une gamine ? | verbatim |
-| 17 | Samuel | Mathias, ça suffit! | Mathias, that's enough! | #211 00:12:25: Mathias, ça suffit ! | verbatim |
+| 13 | Gabriel | Ils ne veulent pas Cécile. | They don't want Cécile. | #202 00:12:03: veulent pas | verbatim |
+| 14 | Gabriel | Elle est trop vieille pour le rôle. | She's too old for the part. | #203 00:12:04: elle est trop vieille pour le rôle | verbatim |
+| 15 | Andréa | Trop vieille? C'est quoi le rôle, une gamine? | Too old? What's the part, a little girl? | #205 00:12:09: Trop vieille ? C'est quoi le rôle, une gamine ? | verbatim |
+| 16 | Samuel | Mathias, ça suffit! | Mathias, that's enough! | #211 00:12:25: Mathias, ça suffit ! | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,7 +41,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Isn't it going well?' Two small negative words surround the action. There is also a short word just before it because the French expression for 'to happen' uses that extra piece.
 - 'I wouldn't say that.' The ending of 'say' carries the idea of 'would'. It lets Gabriel correct Samuel's guess cautiously before giving the bad news.
 - 'It's not happening at all.' The two negatives remain. The extra expression strengthens them to 'not at all': the film offer is not happening.
-- 'That's not possible!' In the source conversation the first small negative is dropped, as it often is in speech. Our slower version includes both parts.
 - 'They don't want Cecile.' Listen to the plural form of 'want'. The two negative words go on either side of it, while the person they do not want comes last.
 - 'She's too old for the part.' The description of age has a special feminine form for Cecile. Its sound changes as well as its spelling; it is not just a silent extra letter.
 - 'Too old? What's the part, a little girl?' The last word is a casual word for a kid. Then Mathias jumps in: he says it was a three-film deal worth millions, and that Gabriel let it slip away. Samuel stops him.

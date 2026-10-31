@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Andréa | Magali! Tu as une enveloppe? | Magali! Have you got an envelope? | #213 00:12:30: Magali<br>#219 00:12:50: Tu as une enveloppe | verbatim |
+| 1 | Andréa | Magali! | Magali! | #213 00:12:30: Magali<br>#220 00:12:52: Magali | adapted: Repeated call condensed to one. |
 | 2 | Magali | J'en ai assez. Je pars! | I've had enough. I'm leaving! | #218 00:12:48: J'en ai assez, je pars | verbatim |
 | 3 | Andréa | Tu vas où? | Where are you going? | #221 00:12:55: Tu vas où ? | verbatim |
 | 4 | Andréa | Ne fais pas ça, Magali. | Don't do this, Magali. | #222 00:12:58: Ne fais pas ça, Magali | verbatim |
@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Magali! Have you got an envelope?' Andrea uses the familiar 'you' with her assistant. The noun for envelope is feminine, which chooses the little word meaning 'an'.
+- 'Magali!' Andrea calls her assistant by name. A name can stand on its own to get someone's attention. Magali has already decided that she wants to leave.
 - 'I've had enough. I'm leaving!' This first sentence is a fixed expression for being fed up, worth learning as one block. Andréa doesn't take it seriously at first.
 - 'Where are you going?' In everyday speech the question word can come at the very end, after the action word. Then Andréa gives an order.
 - 'Don't do this, Magali.' This instruction starts with the negative, without a separate word for 'you'. The command uses the same short form of 'do' that you hear with familiar 'you' in a statement.

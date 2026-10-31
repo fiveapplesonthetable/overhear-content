@@ -16,11 +16,7 @@ OPENER = "Let's take it slowly. Andréa is on the phone as usual, and she shouts
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "So Magali is gone, and Andréa has no assistant at all. If commands felt easy this time, you've already learned a lot. See you next time!"
 CLOSING = ('magali', 'Au revoir, Andréa!')
-STORY = [('andrea',
-  'Magali! Tu as une enveloppe?',
-  'Magali! Have you got an envelope?',
-  [(213, 'Magali'), (219, 'Tu as une enveloppe')],
-  ''),
+STORY = [('andrea', 'Magali!', 'Magali!', [(213, 'Magali'), (220, 'Magali')], 'Repeated call condensed to one.'),
  ('magali',
   "J'en ai assez. Je pars!",
   "I've had enough. I'm leaving!",
@@ -70,8 +66,8 @@ STORY = [('andrea',
  ('andrea', 'Tu es virée!', "You're fired!", [(238, 'Tu es virée !')], '')]
 WALK = [(0,
   None,
-  "'Magali! Have you got an envelope?' Andrea uses the familiar 'you' with her assistant. The noun for "
-  "envelope is feminine, which chooses the little word meaning 'an'."),
+  "'Magali!' Andrea calls her assistant by name. A name can stand on its own to get someone's attention. "
+  'Magali has already decided that she wants to leave.'),
  (1,
   None,
   "'I've had enough. I'm leaving!' This first sentence is a fixed expression for being fed up, worth "
