@@ -11,15 +11,15 @@
           "lemma": "son",
           "pos": "det",
           "stress": "sa",
-          "gloss": "her",
-          "gram": "possessive, 3rd person, feminine singular"
+          "gloss": "his",
+          "gram": "feminine singular possessive matching femme; the possessor is Mathias"
         },
         {
           "t": "femme",
           "lemma": "femme",
           "pos": "noun",
           "stress": "fam",
-          "gloss": "woman",
+          "gloss": "wife",
           "gram": "feminine singular"
         },
         {
@@ -27,16 +27,16 @@
           "lemma": "aider",
           "pos": "verb",
           "stress": "lɛd",
-          "gloss": "help her",
-          "gram": "la + aide: object pronoun + present, 3rd person singular"
+          "gloss": "helps him",
+          "gram": "le + aide: third person singular present; le refers to Mathias"
         },
         {
           "t": "à",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "to",
+          "gram": "introduces the action he is helped to do"
         },
         {
           "t": "racheter",
@@ -62,27 +62,27 @@
       "words": [
         {
           "t": "Tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "monde",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "monde",
+          "pos": "noun",
           "stress": "mɔ̃d",
-          "gloss": "world (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "people; world",
+          "gram": "masculine singular; with all, means everyone"
         },
         {
           "t": "panique",
@@ -113,8 +113,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction of de + le"
         },
         {
           "t": "contrôle",
@@ -144,15 +144,15 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "maman,",
           "lemma": "maman",
           "pos": "noun",
           "stress": "mamɑ̃",
-          "gloss": "Mum?",
-          "gram": "feminine singular, informal word for mother"
+          "gloss": "Mum",
+          "gram": "familiar word for mother; direct address"
         },
         {
           "t": "je",
@@ -160,7 +160,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -190,7 +190,7 @@
     },
     {
       "seg": 4,
-      "trans": "Who is that at this hour? I",
+      "trans": "Who is that at this hour? I'll go see.",
       "words": [
         {
           "t": "C'est",
@@ -238,7 +238,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "vais",
@@ -282,7 +282,7 @@
     },
     {
       "seg": 6,
-      "trans": "It",
+      "trans": "It's Catherine.",
       "words": [
         {
           "t": "Catherine.",
@@ -296,68 +296,6 @@
     },
     {
       "seg": 7,
-      "trans": "Catherine who? My father",
-      "words": [
-        {
-          "t": "Catherine",
-          "lemma": "catherine",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Catherine",
-          "gram": "first name"
-        },
-        {
-          "t": "qui?",
-          "lemma": "qui",
-          "pos": "pron",
-          "stress": "ki",
-          "gloss": "who",
-          "gram": "relative pronoun, subject; c'est moi qui = I'm the one who"
-        },
-        {
-          "t": "La",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "femme",
-          "lemma": "femme",
-          "pos": "noun",
-          "stress": "fam",
-          "gloss": "woman",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "père?",
-          "lemma": "père",
-          "pos": "noun",
-          "stress": "pɛʁ",
-          "gloss": "father, dad",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 8,
       "trans": "At the back of the courtyard, on the left.",
       "words": [
         {
@@ -373,16 +311,16 @@
           "lemma": "fond",
           "pos": "noun",
           "stress": "fɔ̃",
-          "gloss": "bottom (au fond = deep down)",
-          "gram": "masculine singular, fixed phrase"
+          "gloss": "back",
+          "gram": "masculine singular; au fond de: at the back of"
         },
         {
           "t": "de",
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "la",
@@ -419,7 +357,7 @@
       ]
     },
     {
-      "seg": 9,
+      "seg": 8,
       "trans": "Kisses, Mum!",
       "words": [
         {
@@ -435,13 +373,13 @@
           "lemma": "maman",
           "pos": "noun",
           "stress": "mamɑ̃",
-          "gloss": "Mum?",
-          "gram": "feminine singular, informal word for mother"
+          "gloss": "Mum",
+          "gram": "familiar word for mother; direct address"
         }
       ]
     },
     {
-      "seg": 10,
+      "seg": 9,
       "trans": "It calms me down.",
       "words": [
         {
@@ -449,8 +387,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "me",
@@ -462,16 +400,16 @@
         },
         {
           "t": "calme.",
-          "lemma": "calme",
-          "pos": "adj",
+          "lemma": "calmer",
+          "pos": "verb",
           "stress": "kalm",
-          "gloss": "calm,",
-          "gram": "descriptive adjective (lemma 'calme')"
+          "gloss": "calms",
+          "gram": "present, third person singular"
         }
       ]
     },
     {
-      "seg": 11,
+      "seg": 10,
       "trans": "Do you want some?",
       "words": [
         {
@@ -479,16 +417,16 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "some",
+          "gram": "stands for some of the thing being offered"
         },
         {
           "t": "veux?",
@@ -501,8 +439,8 @@
       ]
     },
     {
-      "seg": 12,
-      "trans": "No, thank you. What do you want?",
+      "seg": 11,
+      "trans": "No, thank you.",
       "words": [
         {
           "t": "Non,",
@@ -510,7 +448,7 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "merci.",
@@ -519,7 +457,13 @@
           "stress": "mɛʁsi",
           "gloss": "thanks",
           "gram": "interjection / exclamation ('merci')"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 12,
+      "trans": "What do you want?",
+      "words": [
         {
           "t": "Qu'est-ce",
           "lemma": "que",
@@ -541,8 +485,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "veux?",
@@ -579,8 +523,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "at",
+          "gram": "part of du moins: at least"
         },
         {
           "t": "moins",
@@ -647,15 +591,15 @@
           "lemma": "son",
           "pos": "det",
           "stress": "sa",
-          "gloss": "her",
-          "gram": "possessive, 3rd person, feminine singular"
+          "gloss": "his",
+          "gram": "feminine singular possessive matching femme; the possessor is Mathias"
         },
         {
           "t": "femme",
           "lemma": "femme",
           "pos": "noun",
           "stress": "fam",
-          "gloss": "woman",
+          "gloss": "wife",
           "gram": "feminine singular"
         },
         {
@@ -663,16 +607,16 @@
           "lemma": "aider",
           "pos": "verb",
           "stress": "lɛd",
-          "gloss": "help her",
-          "gram": "la + aide: object pronoun + present, 3rd person singular"
+          "gloss": "helps him",
+          "gram": "le + aide: third person singular present; le refers to Mathias"
         },
         {
           "t": "à",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "to",
+          "gram": "introduces the action he is helped to do"
         },
         {
           "t": "racheter",
@@ -698,27 +642,27 @@
       "words": [
         {
           "t": "Tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "monde",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "monde",
+          "pos": "noun",
           "stress": "mɔ̃d",
-          "gloss": "world (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "people; world",
+          "gram": "masculine singular; with all, means everyone"
         },
         {
           "t": "panique",
@@ -749,8 +693,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction of de + le"
         },
         {
           "t": "contrôle",
@@ -780,15 +724,15 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "maman,",
           "lemma": "maman",
           "pos": "noun",
           "stress": "mamɑ̃",
-          "gloss": "Mum?",
-          "gram": "feminine singular, informal word for mother"
+          "gloss": "Mum",
+          "gram": "familiar word for mother; direct address"
         },
         {
           "t": "je",
@@ -796,7 +740,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -826,7 +770,7 @@
     },
     {
       "seg": 22,
-      "trans": "Who is that at this hour? I",
+      "trans": "Who is that at this hour? I'll go see.",
       "words": [
         {
           "t": "C'est",
@@ -874,7 +818,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "vais",
@@ -918,7 +862,7 @@
     },
     {
       "seg": 26,
-      "trans": "It",
+      "trans": "It's Catherine.",
       "words": [
         {
           "t": "Catherine.",
@@ -932,68 +876,6 @@
     },
     {
       "seg": 28,
-      "trans": "Catherine who? My father",
-      "words": [
-        {
-          "t": "Catherine",
-          "lemma": "catherine",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Catherine",
-          "gram": "first name"
-        },
-        {
-          "t": "qui?",
-          "lemma": "qui",
-          "pos": "pron",
-          "stress": "ki",
-          "gloss": "who",
-          "gram": "relative pronoun, subject; c'est moi qui = I'm the one who"
-        },
-        {
-          "t": "La",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "femme",
-          "lemma": "femme",
-          "pos": "noun",
-          "stress": "fam",
-          "gloss": "woman",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "père?",
-          "lemma": "père",
-          "pos": "noun",
-          "stress": "pɛʁ",
-          "gloss": "father, dad",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 30,
       "trans": "At the back of the courtyard, on the left.",
       "words": [
         {
@@ -1009,16 +891,16 @@
           "lemma": "fond",
           "pos": "noun",
           "stress": "fɔ̃",
-          "gloss": "bottom (au fond = deep down)",
-          "gram": "masculine singular, fixed phrase"
+          "gloss": "back",
+          "gram": "masculine singular; au fond de: at the back of"
         },
         {
           "t": "de",
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "la",
@@ -1055,7 +937,7 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 30,
       "trans": "Kisses, Mum!",
       "words": [
         {
@@ -1071,13 +953,13 @@
           "lemma": "maman",
           "pos": "noun",
           "stress": "mamɑ̃",
-          "gloss": "Mum?",
-          "gram": "feminine singular, informal word for mother"
+          "gloss": "Mum",
+          "gram": "familiar word for mother; direct address"
         }
       ]
     },
     {
-      "seg": 34,
+      "seg": 32,
       "trans": "It calms me down.",
       "words": [
         {
@@ -1085,8 +967,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "me",
@@ -1098,16 +980,16 @@
         },
         {
           "t": "calme.",
-          "lemma": "calme",
-          "pos": "adj",
+          "lemma": "calmer",
+          "pos": "verb",
           "stress": "kalm",
-          "gloss": "calm,",
-          "gram": "descriptive adjective (lemma 'calme')"
+          "gloss": "calms",
+          "gram": "present, third person singular"
         }
       ]
     },
     {
-      "seg": 36,
+      "seg": 34,
       "trans": "Do you want some?",
       "words": [
         {
@@ -1115,16 +997,16 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "some",
+          "gram": "stands for some of the thing being offered"
         },
         {
           "t": "veux?",
@@ -1137,8 +1019,8 @@
       ]
     },
     {
-      "seg": 38,
-      "trans": "No, thank you. What do you want?",
+      "seg": 36,
+      "trans": "No, thank you.",
       "words": [
         {
           "t": "Non,",
@@ -1146,7 +1028,7 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "merci.",
@@ -1155,7 +1037,13 @@
           "stress": "mɛʁsi",
           "gloss": "thanks",
           "gram": "interjection / exclamation ('merci')"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "What do you want?",
+      "words": [
         {
           "t": "Qu'est-ce",
           "lemma": "que",
@@ -1177,8 +1065,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "veux?",
@@ -1215,8 +1103,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "at",
+          "gram": "part of du moins: at least"
         },
         {
           "t": "moins",
@@ -1283,15 +1171,15 @@
           "lemma": "son",
           "pos": "det",
           "stress": "sa",
-          "gloss": "her",
-          "gram": "possessive, 3rd person, feminine singular"
+          "gloss": "his",
+          "gram": "feminine singular possessive matching femme; the possessor is Mathias"
         },
         {
           "t": "femme",
           "lemma": "femme",
           "pos": "noun",
           "stress": "fam",
-          "gloss": "woman",
+          "gloss": "wife",
           "gram": "feminine singular"
         },
         {
@@ -1299,16 +1187,16 @@
           "lemma": "aider",
           "pos": "verb",
           "stress": "lɛd",
-          "gloss": "help her",
-          "gram": "la + aide: object pronoun + present, 3rd person singular"
+          "gloss": "helps him",
+          "gram": "le + aide: third person singular present; le refers to Mathias"
         },
         {
           "t": "à",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "to",
+          "gram": "introduces the action he is helped to do"
         },
         {
           "t": "racheter",
@@ -1334,27 +1222,27 @@
       "words": [
         {
           "t": "Tout",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "tout",
+          "pos": "det",
           "stress": "tu",
-          "gloss": "all (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
           "t": "le",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "le",
+          "pos": "det",
           "stress": "lə",
-          "gloss": "the (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
         },
         {
           "t": "monde",
-          "lemma": "tout le monde",
-          "pos": "phrase",
+          "lemma": "monde",
+          "pos": "noun",
           "stress": "mɔ̃d",
-          "gloss": "world (everyone)",
-          "gram": "part of tout le monde"
+          "gloss": "people; world",
+          "gram": "masculine singular; with all, means everyone"
         },
         {
           "t": "panique",
@@ -1385,8 +1273,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "of the",
+          "gram": "contraction of de + le"
         },
         {
           "t": "contrôle",
@@ -1416,15 +1304,15 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "maman,",
           "lemma": "maman",
           "pos": "noun",
           "stress": "mamɑ̃",
-          "gloss": "Mum?",
-          "gram": "feminine singular, informal word for mother"
+          "gloss": "Mum",
+          "gram": "familiar word for mother; direct address"
         },
         {
           "t": "je",
@@ -1432,7 +1320,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "suis",
@@ -1462,7 +1350,7 @@
     },
     {
       "seg": 47,
-      "trans": "Who is that at this hour? I",
+      "trans": "Who is that at this hour? I'll go see.",
       "words": [
         {
           "t": "C'est",
@@ -1510,7 +1398,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, first person singular"
         },
         {
           "t": "vais",
@@ -1554,7 +1442,7 @@
     },
     {
       "seg": 49,
-      "trans": "It",
+      "trans": "It's Catherine.",
       "words": [
         {
           "t": "Catherine.",
@@ -1568,68 +1456,6 @@
     },
     {
       "seg": 50,
-      "trans": "Catherine who? My father",
-      "words": [
-        {
-          "t": "Catherine",
-          "lemma": "catherine",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Catherine",
-          "gram": "first name"
-        },
-        {
-          "t": "qui?",
-          "lemma": "qui",
-          "pos": "pron",
-          "stress": "ki",
-          "gloss": "who",
-          "gram": "relative pronoun, subject; c'est moi qui = I'm the one who"
-        },
-        {
-          "t": "La",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "femme",
-          "lemma": "femme",
-          "pos": "noun",
-          "stress": "fam",
-          "gloss": "woman",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
-        },
-        {
-          "t": "père?",
-          "lemma": "père",
-          "pos": "noun",
-          "stress": "pɛʁ",
-          "gloss": "father, dad",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 51,
       "trans": "At the back of the courtyard, on the left.",
       "words": [
         {
@@ -1645,16 +1471,16 @@
           "lemma": "fond",
           "pos": "noun",
           "stress": "fɔ̃",
-          "gloss": "bottom (au fond = deep down)",
-          "gram": "masculine singular, fixed phrase"
+          "gloss": "back",
+          "gram": "masculine singular; au fond de: at the back of"
         },
         {
           "t": "de",
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
           "t": "la",
@@ -1691,7 +1517,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 51,
       "trans": "Kisses, Mum!",
       "words": [
         {
@@ -1707,13 +1533,13 @@
           "lemma": "maman",
           "pos": "noun",
           "stress": "mamɑ̃",
-          "gloss": "Mum?",
-          "gram": "feminine singular, informal word for mother"
+          "gloss": "Mum",
+          "gram": "familiar word for mother; direct address"
         }
       ]
     },
     {
-      "seg": 53,
+      "seg": 52,
       "trans": "It calms me down.",
       "words": [
         {
@@ -1721,8 +1547,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, informal"
+          "gloss": "that; it",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "me",
@@ -1734,16 +1560,16 @@
         },
         {
           "t": "calme.",
-          "lemma": "calme",
-          "pos": "adj",
+          "lemma": "calmer",
+          "pos": "verb",
           "stress": "kalm",
-          "gloss": "calm,",
-          "gram": "descriptive adjective (lemma 'calme')"
+          "gloss": "calms",
+          "gram": "present, third person singular"
         }
       ]
     },
     {
-      "seg": 54,
+      "seg": 53,
       "trans": "Do you want some?",
       "words": [
         {
@@ -1751,16 +1577,16 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "some",
+          "gram": "stands for some of the thing being offered"
         },
         {
           "t": "veux?",
@@ -1773,8 +1599,8 @@
       ]
     },
     {
-      "seg": 55,
-      "trans": "No, thank you. What do you want?",
+      "seg": 54,
+      "trans": "No, thank you.",
       "words": [
         {
           "t": "Non,",
@@ -1782,7 +1608,7 @@
           "pos": "adv",
           "stress": "nɔ̃",
           "gloss": "no",
-          "gram": "negative answer"
+          "gram": "negative answer; in a tag question, asks for agreement"
         },
         {
           "t": "merci.",
@@ -1791,7 +1617,13 @@
           "stress": "mɛʁsi",
           "gloss": "thanks",
           "gram": "interjection / exclamation ('merci')"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 55,
+      "trans": "What do you want?",
+      "words": [
         {
           "t": "Qu'est-ce",
           "lemma": "que",
@@ -1813,8 +1645,8 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gloss": "you",
+          "gram": "subject pronoun, informal singular"
         },
         {
           "t": "veux?",
@@ -1851,8 +1683,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "dy",
-          "gloss": "some",
-          "gram": "partitive article: de + le"
+          "gloss": "at",
+          "gram": "part of du moins: at least"
         },
         {
           "t": "moins",
@@ -1994,7 +1826,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "Aider quelqu'un, no preposition. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to help'; conjugates with 'avoir' in compound tenses (past participle 'aidé')."
+          "note": "Aider quelqu'un, no preposition."
         }
       ],
       "forms": {
@@ -2180,11 +2012,11 @@
         },
         {
           "en": "aller + infinitive = going to (near future)",
-          "note": "Je vais déjeuner. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Je vais déjeuner."
         },
         {
           "en": "allez! = come on!",
-          "note": "Imperative used to encourage. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Imperative used to encourage."
         }
       ],
       "forms": {
@@ -2577,71 +2409,6 @@
         }
       ]
     },
-    "calme": {
-      "lemma": "calme",
-      "stress": "kalm",
-      "pos": "adj",
-      "gloss": "calm, quiet",
-      "meanings": [
-        {
-          "en": "calm, relaxed, composed",
-          "note": "Rester calme = to stay calm. Descriptive French adjective meaning 'calm'; agrees in gender and number with the noun it modifies."
-        },
-        {
-          "en": "quiet, peaceful (place)",
-          "note": "Une rue calme = a quiet street. Descriptive French adjective meaning 'calm'; agrees in gender and number with the noun it modifies."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "calme",
-              "calme"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "calmes",
-              "calmes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Reste calme, Julie.",
-          "trans": "Stay calm, Julie."
-        },
-        {
-          "text": "C'est un quartier très calme.",
-          "trans": "It's a very quiet neighbourhood."
-        },
-        {
-          "text": "Reste calme, Julie. Pense à ta carrière.",
-          "trans": "Stay calm, Julie. Think of your career."
-        }
-      ],
-      "related": [
-        {
-          "word": "calmer",
-          "gloss": "to calm"
-        },
-        {
-          "word": "calmement",
-          "gloss": "calmly"
-        }
-      ]
-    },
     "calmer": {
       "lemma": "calmer",
       "stress": "kalme",
@@ -2957,7 +2724,7 @@
       "meanings": [
         {
           "en": "to understand",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Prefix 'com-' (from Latin 'cum') means 'with, together'. Core French verb meaning 'to understand'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3125,7 +2892,7 @@
         },
         {
           "en": "check, inspection (contrôle fiscal = tax audit)",
-          "note": "Prefix 'con-'/'com-' (from Latin 'cum') means 'with, together'. Standard masculine noun meaning 'control; check, inspection'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3227,7 +2994,7 @@
       "meanings": [
         {
           "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "D' before a vowel."
         },
         {
           "en": "'s (possession)",
@@ -3235,7 +3002,7 @@
         },
         {
           "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
@@ -3308,11 +3075,11 @@
       "meanings": [
         {
           "en": "to try",
-          "note": "Essayer de + infinitive. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to try'; conjugates with 'avoir' in compound tenses (past participle 'essayé')."
+          "note": "Essayer de + infinitive."
         },
         {
           "en": "to try on",
-          "note": "Clothes. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to try'; conjugates with 'avoir' in compound tenses (past participle 'essayé')."
+          "note": "Clothes."
         }
       ],
       "forms": {
@@ -3801,7 +3568,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -3916,7 +3683,7 @@
             "cells": [
               "form",
               "jus",
-              "juss"
+              "jus"
             ]
           }
         ]
@@ -4056,7 +3823,7 @@
       "meanings": [
         {
           "en": "me, to me",
-          "note": "Before the verb; m' before a vowel. High-frequency French pronoun meaning 'me'; clitic object forms precede the conjugated verb."
+          "note": "Before the verb; m' before a vowel."
         }
       ],
       "forms": null,
@@ -4151,63 +3918,6 @@
         {
           "word": "moins de trente ans",
           "gloss": "under thirty"
-        }
-      ]
-    },
-    "mon": {
-      "lemma": "mon",
-      "stress": "mɔ̃",
-      "pos": "det",
-      "gloss": "my",
-      "meanings": [
-        {
-          "en": "my",
-          "note": "ma before a feminine noun, mon before a vowel"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "mon",
-              "ma (mon)"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "mes",
-              "mes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je suis à mon cours.",
-          "trans": "I'm at my lesson."
-        },
-        {
-          "text": "C'est ma place.",
-          "trans": "It's my seat."
-        },
-        {
-          "text": "Gabriel! Je suis à mon cours d'équitation.",
-          "trans": "Gabriel! I'm at my horse-riding lesson."
-        }
-      ],
-      "related": [
-        {
-          "word": "mon",
-          "gloss": "my"
         }
       ]
     },
@@ -4445,7 +4155,7 @@
       "meanings": [
         {
           "en": "to panic",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to panic'; conjugates with 'avoir' in compound tenses (past participle 'paniqué')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4626,92 +4336,6 @@
         }
       ]
     },
-    "père": {
-      "lemma": "père",
-      "stress": "pɛʁ",
-      "pos": "noun",
-      "gloss": "father",
-      "gender": "m",
-      "plural": "pères",
-      "meanings": [
-        {
-          "en": "father, dad",
-          "note": "Masculine noun ('le père', plural 'les pères') inherited through Romance vocabulary, used in everyday and professional French for 'father'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le père",
-              "les pères"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Mon père, mais c'est compliqué.",
-          "trans": "My dad, but it's complicated."
-        },
-        {
-          "text": "Son père est agent.",
-          "trans": "Her father is an agent."
-        },
-        {
-          "text": "Non, je viens d'arriver. Mon père, mais c'est compliqué.",
-          "trans": "No, I've just arrived. My dad, but it's complicated."
-        }
-      ],
-      "related": [
-        {
-          "word": "un père / des pères",
-          "gloss": "a father / fathers"
-        }
-      ]
-    },
-    "qu'est-ce que": {
-      "lemma": "qu'est-ce que",
-      "stress": "kɛskə",
-      "pos": "phrase",
-      "gloss": "what (in questions)",
-      "meanings": [
-        {
-          "en": "what",
-          "note": "starts a question: qu'est-ce que tu fais? = what are you doing?"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Qu'est-ce que je lui dis?",
-          "trans": "What do I tell her?"
-        },
-        {
-          "text": "Qu'est-ce que tu fais à Paris?",
-          "trans": "What are you doing in Paris?"
-        },
-        {
-          "text": "Qu'est-ce que tu fais à Paris? Tu es en vacances?",
-          "trans": "What are you doing in Paris? Are you on holiday?"
-        }
-      ],
-      "related": [
-        {
-          "word": "qu'est-ce qui",
-          "gloss": "what"
-        }
-      ]
-    },
     "que": {
       "lemma": "que",
       "stress": "kə",
@@ -4770,7 +4394,7 @@
         },
         {
           "en": "who? (question)",
-          "note": "Qui parle?. High-frequency French pronoun meaning 'who'; clitic object forms precede the conjugated verb."
+          "note": "Qui parle?."
         }
       ],
       "forms": null,
@@ -4808,7 +4432,7 @@
         },
         {
           "en": "to buy more",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to buy back'; conjugates with 'avoir' in compound tenses (past participle 'racheté')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5023,11 +4647,11 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Tout le monde = everybody."
         },
         {
           "en": "tout ce que = all that, everything that",
-          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Pronoun use."
         }
       ],
       "forms": {
@@ -5073,48 +4697,6 @@
         {
           "word": "tout le monde",
           "gloss": "everybody"
-        },
-        {
-          "word": "tout de suite",
-          "gloss": "right away"
-        },
-        {
-          "word": "tout à l'heure",
-          "gloss": "earlier"
-        }
-      ]
-    },
-    "tout le monde": {
-      "lemma": "tout le monde",
-      "stress": "tuləmɔ̃d",
-      "pos": "phrase",
-      "gloss": "everybody, everyone",
-      "meanings": [
-        {
-          "en": "everybody, everyone",
-          "note": "takes a singular verb: tout le monde est là"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tout le monde est là.",
-          "trans": "Everyone is here."
-        },
-        {
-          "text": "Bonjour tout le monde!",
-          "trans": "Hello everyone!"
-        },
-        {
-          "text": "On est au Westin. Tout le monde est là.",
-          "trans": "We're at the Westin. Everyone is here."
-        }
-      ],
-      "related": [
-        {
-          "word": "tout",
-          "gloss": "all"
         },
         {
           "word": "tout de suite",
@@ -5172,7 +4754,7 @@
         },
         {
           "en": "to meet, to visit",
-          "note": "Voir quelqu'un. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to see'."
+          "note": "Voir quelqu'un. French '-ir' verb (from Latin '-ire')."
         }
       ],
       "forms": {
@@ -5330,11 +4912,11 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire')."
         },
         {
           "en": "je voulais = I wanted",
-          "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire')."
         }
       ],
       "forms": {
@@ -5496,15 +5078,15 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Place: à Paris, à mon cours."
         },
         {
           "en": "at",
-          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Time: à midi."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Contractions."
         }
       ],
       "forms": null,
@@ -5538,11 +5120,11 @@
       "meanings": [
         {
           "en": "that, it",
-          "note": "Informal for cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "Informal for cela."
         },
         {
           "en": "ça fait... que = it's been...",
-          "note": "With time. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "With time."
         }
       ],
       "forms": null,
@@ -5576,11 +5158,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {
