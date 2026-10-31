@@ -1,16 +1,20 @@
-# Al Maktab S01E01: bounded Arabic taster source review
+# Al Maktab S01E01: bounded Arabic salary taster source review
 
-## Exact scope
+## Exact scope and explicit omission
 
-Four retained utterances, 14 native written words, from 20.940–28.900 seconds of the [official MBC Shahid episode-one unexpected-call clip](https://www.youtube.com/watch?v=xqJ8wGtY_hg). The verified uploader is @MBCShahid. The official clip is 94.296 seconds; this lesson is a short taster, not a whole episode. The native source SRT is an explicitly partial, editorially reviewed transcript of only these four utterances. The omitted 26.6–27.6-second filler and the disputed continuation after 28.9 seconds are not silently corrected or presented as verified dialogue.
+Three retained utterances, seven native written words, from 20.940–25.820 seconds of the [official MBC Shahid episode-one unexpected-call clip](https://www.youtube.com/watch?v=xqJ8wGtY_hg). The verified uploader is @MBCShahid. The official clip is 94.296 seconds; this lesson is a short taster, not a whole episode.
 
-The lesson keeps the actual salary correction and the speaker change. Malik describes the staff payment as a monthly allowance; a female colleague calls it a salary; Malik says he is responsible for all the people outside. “Outside” refers to the people beyond the meeting room, not necessarily outdoors. English teaching explains the self-correction, possessive ending, plural verb, noun/adjective order and present statement without an English-style helping verb.
+The original four-cue partial native source SRT remains **byte-for-byte unchanged**, SHA-256 `58680ec00172049b14057dad649f0b0c5ba88b3a2cff0d9f5bd3fe295a7ab5f5`. The original source coverage range 20.940–28.900 seconds is retained as provenance, not a claim that every cue is spoken in this taster. Cues 1–3 form a complete salary correction: Malik describes staff payment as a monthly allowance, and his female colleague calls it a salary.
+
+Cue 4 (27.620–28.900), the responsibility statement, is deliberately omitted from the public story, all replays, teaching and recap. The source itself is corroborated, but generated speech failed the exact pronunciation gate: a finite retake was decoded with a final hamza by both independent engines (`براء` and `برأة`), rather than the intended outside expression. We do not rewrite source words, guess a pronunciation or waive the difference. `OMITTED-SOURCE.json` retains the exact cue, timestamps, source hash and reason. The earlier excluded unclear filler around 26.6–27.6 and disputed continuation after 28.9 remain excluded.
+
+English teaching now covers only the self-correction, possessive ending, plural verb and noun/adjective order. All three retained native texts, translations, detailed word annotations and form tables are unchanged. No untested farewell or additional Arabic line is added.
 
 ## Acquisition and independent checks
 
 The exact public clip was fetched through the existing download skill/put.io after direct local media delivery returned HTTP 403: transfer 108832920, file 1620360149. No DRM bypass, full-show acquisition, dual-subtitle backtranslation or original deletion occurred. The private original MP4 has 31,031,792 bytes and SHA-256 `3bdfb26329718748cf22bbb68b1e7ea42c97ae65594a4457a4a0a16bc9e21fda`. No source audio/video is committed or publicly served.
 
-No native or automatic caption tracks were exposed, and no burned dialogue captions were visible in sampled source frames. The original container audio tag `eng` is unreliable. Three independent unprompted source decodes detect Arabic: cached small CPU (0.989448), large-v3 CPU (0.986554) and large-v3-turbo GPU (0.954590). The small model garbles several colloquial lines and is not treated as authoritative. Both stronger source decoders agree on every word retained in the taster. Added punctuation and the division after the self-correction do not add speech. Other wording is omitted rather than guessed. These are model/text and visual source checks, not a human-listening certificate.
+No native or automatic caption tracks were exposed, and no burned dialogue captions were visible in sampled source frames. The original container audio tag `eng` is unreliable. Three independent unprompted source decodes detect Arabic: cached small CPU (0.989448), large-v3 CPU (0.986554) and large-v3-turbo GPU (0.954590). The small model garbles several colloquial lines and is not treated as authoritative. Both stronger source decoders agree on every word retained in the taster and on the separately documented omitted source clause. Added punctuation and the division after the self-correction do not add speech. Other wording is omitted rather than guessed. These are model/text and visual source checks, not a human-listening certificate.
 
 Private evidence directory: `/mnt/agent/pilot-source-discovery/arabic-research/`. Original decoding evidence: `original94s-large-auto-asr.json` and `/mnt/agent/narrator-runs/codex-seven-tasters/source-checks/ar-official-source-large-asr.json`. The detailed proof is `selected-source-proof.json`; its windows are source provenance, not public playback timings. Final generated audio requires its own word-level alignment and complete speech QA.
 
@@ -28,7 +32,7 @@ The script declares `format: taster`. Its final native reinforcement repeats the
 
 ## Learning metadata and limits
 
-Two focused Learn notes use exact scene examples and introduce no extra italic native vocabulary beyond the reviewed source words. All 14 ordinary dictionary lemmas now have individually sourced histories. The notes distinguish established formations, reconstructed older forms, historical grammatical proposals and documented lexical disputes. No generic filler or invented character-name etymology is used. The dictionary includes contextual glosses and usable noun, adjective and verb forms. The detailed claim/source review is `ORIGIN-REVIEW.md`; the authored audit resolves all 27 italic Learn word occurrences with no missing dictionary or history entry. This is completeness for this frozen taster, not an entire episode, a season expansion or the Arabic language. A real verified serving candidate must still pass the production origin inventory before publication.
+One focused Learn note explains the salary correction, allowance versus regular pay and noun/adjective order, using exact scene examples. All seven retained ordinary dictionary lemmas have individually sourced histories; all ten italic Learn word occurrences (five distinct surfaces) resolve to the retained dictionary and origins. The optional responsibility Learn note and its seven unused heads are removed. Forms for the retained words are unchanged. The detailed claim/source review is `ORIGIN-REVIEW.md`. A real serving candidate still requires production’s complete origin inventory.
 
 ## Illustration
 
