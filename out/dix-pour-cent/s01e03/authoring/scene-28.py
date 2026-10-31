@@ -100,16 +100,14 @@ WALK = [(0,
   'That differs from the polite form she used with the inspector inside.'),
  (10,
   None,
-  "'You don't like losing control.' The familiar word for 'you' comes before the negative. The basic action "
-  "'lose' follows 'like', without the English ending in 'ing'."),
+  "'You don't like losing control.' The familiar word for 'you' comes before the negative. The second French verb stays in its infinitive form after the verb expressing a preference; English expresses the same idea as losing control."),
  (11,
   None,
   "'You're a woman who likes power, Andrea!' Literally 'a woman of power'. Gabriel suggests that her "
   'discomfort comes from facing something she cannot control.'),
  (12,
   None,
-  "'Shall we go and eat?' The everyday word for 'we' comes before 'go' and then the plain action 'eat'. "
-  'Gabriel offers to continue the evening over a meal.'),
+  "'Shall we go and eat?' The informal group pronoun is followed by the present form of the verb for going, then the infinitive for eating. Gabriel offers to continue the evening over a meal."),
  (13,
   None,
   "'No, I'm going home.' French says 'I return to my place'. The final words locate the return at the "
