@@ -43,3 +43,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The ecologist stripper.' A short answer can repeat just the role, without a whole sentence. Both words describe a woman here; the second is the informal word for being green or environmentally minded.
 - 'What? But does he know I had two children recently?' She uses the same ordinary past construction as before: a helping form of 'have', then the past form meaning 'had'. The last word places it in the recent past.
 - 'That doesn't matter at all!' Literally 'that has no importance'. The feminine form of 'no' matches the feminine word for importance. This is a stronger dismissal than simply saying it is not very important.
+
+Primary-video check: private E4 dual MP4 file1619500213, sampled543–627s. Audrey and Mathias are in her home kitchen with her child, not in a cafe. Corrected narrator location; the French adult roles remain Audrey/Mathias.
