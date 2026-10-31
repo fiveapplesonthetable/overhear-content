@@ -16,12 +16,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Gabriel | Elle est trop blanche? Mais elle a du talent! | She's too white? But she has talent! | #197 00:10:37: Trop blanche ?<br>#199 00:10:40: Elle a du talent ! | verbatim |
 | 5 | Gabriel | Et pour le rôle de l'étudiante? | And for the part of the student? | #200 00:10:44: L'étudiante | verbatim |
 | 6 | Gabriel | Non? D'accord, merci. | No? Okay, thank you. | #201 00:10:48: Non | verbatim |
-| 7 | Gabriel | Sofia, tout le monde te trouve fantastique. | Sofia, everyone thinks you're fantastic. | #202 00:10:53: Tout le monde te trouve fantastique. | verbatim |
+| 7 | Gabriel | Sofia, tout le monde vous trouve fantastique. | Sofia, everyone thinks you're fantastic. | #202 00:10:53: Tout le monde te trouve fantastique. | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 8 | Sofia | Fantastique? Alors pourquoi je n'ai pas de rôle? | Fantastic? Then why don't I get a part? | #203 00:10:55: Fantastique<br>#204 00:10:56: Alors pourquoi je ne | verbatim |
-| 9 | Gabriel | Tu commences juste. Les refus, c'est normal. | You're just starting out. Rejections are normal. | #205 00:10:58: Les refus, c'est normal. | verbatim |
+| 9 | Gabriel | Vous commencez juste. Les refus, c'est normal. | You're just starting out. Rejections are normal. | #205 00:10:58: Les refus, c'est normal. | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 10 | Gabriel | Trois auditions ratées! | Three failed auditions! | #206 00:11:01: Trois auditions ratées. | verbatim |
-| 11 | Gabriel | Tu sais combien d'auditions Cécile de France a ratées? | Do you know how many auditions Cécile de France failed? | #206 00:11:01: Tu sais combien Cécile de France | verbatim |
-| 12 | Sofia | Trois? | Three? | #207 00:11:06: Trois ? | verbatim |
+| 11 | Gabriel | Vous savez combien d'auditions Cécile de France a ratées? | Do you know how many auditions Cécile de France failed? | #206 00:11:01: Tu sais combien Cécile de France | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
+| 12 | Sofia | Trois. | Three. | #207 00:11:06: Trois ? | adapted: Original audio gives Sofia’s answer, followed by Gabriel’s questioning repetition. |
 | 13 | Gabriel | Trois? | Three? | #207 00:11:06: Trois ? | adapted: Gabriel repeats the number as a question; the source does not establish how many auditions Cécile failed. |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You're just starting out. Rejections are normal.' Literally 'the refusals, it's normal'.
 - 'Three failed auditions!' Gabriel repeats Sofia's disappointing total. The last word is the past form of an action meaning to miss or fail; its feminine plural ending matches auditions.
 - 'Do you know how many auditions Cécile de France failed?' The two-word pattern after 'know' asks 'how many'. It comes directly before the thing being counted: auditions.
-- 'Three?' Repeating just a number with a rising voice is enough to ask a question. Sofia guesses the number of auditions she herself has just failed.
+- 'Three.' Sofia offers the same number as her own unsuccessful auditions. A number can answer a counting question without repeating the action or the thing being counted.
 - 'Three?' Gabriel repeats the number as a question. Repeating a short word with a rising voice can express surprise or uncertainty, rather than confirm a fact.
 
-Primary-video check: private E4 dual MP4 file1619500213,13frames626–678s. Gabriel phones from the office, then speaks to Sofia in the agency kitchen; no walk on a Paris street. Gabriel speaks the three-failed-auditions line. The source ends with repeated “Trois?” questions and does not confirm a historical count for Cécile; corrected the invented affirmative answer.
+Audio confirms Gabriel addresses Sofia politely, Sofia offers Three, and Gabriel repeats Three as a question. The script does not present a documented count of Cécile’s rejections.
