@@ -25,19 +25,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Jean Gabin too. Say sorry, Jean Gabin.' Arlette asks her dog to apologise for biting Mathias earlier. The action telling him to say something is a casual command to one listener.
-- 'No problem.' This everyday short response accepts an apology without a whole sentence. The negative word reduces the article before problem.
+- 'Jean Gabin too. Say sorry, Jean Gabin.' French uses a direct command when Arlette tells her dog to apologise. The word for saying something comes first, with no separate subject before it. You can reuse this pattern to tell someone what to say.
+- 'No problem.' French uses a shorter form of the article after a negative expression. Here that little word stands between the negative and the word for problem. This short response accepts an apology without repeating a full sentence.
 - 'Good boy!' The describing word means good or well-behaved here. Arlette is praising her male dog, rather than describing bravery in a dangerous situation.
 - 'A thought for Samuel!' A brief toast can name a thought for someone who is absent. The word for thought is feminine, so it begins with the feminine form of an indefinite article.
-- 'You were never going to leave?' Camille addresses Mathias casually. The past form of going combines with the negative meaning never to ask about his earlier intentions.
-- 'No! Do you doubt it?' The object before doubting refers back to his claim. Mathias answers his daughter's question, then asks whether she believes him.
+- 'You were never going to leave?' French combines a past form of going with the basic action of leaving. The negative expression means never and questions his earlier intention. Camille uses the casual form of you when speaking to her father.
+- 'No! Do you doubt it?' French puts a short word before doubting to refer back to the claim. English puts the equivalent object after the action in doubt it. The reply rejects Camille's suggestion, then asks whether she believes him.
 - 'A bit. But that's me.' The short expression at the start means a small amount. The independent form of me is used when Camille describes this as part of her character.
 - 'What a killjoy!' This compound describes someone who spoils a cheerful mood. The exclamation begins with a masculine form matching the word for killjoy.
-- 'To ASK!' A toast places the short word meaning to before the person or organisation being celebrated. Mathias names ASK.
-- 'To ASK!' Camille repeats the same toast as the glasses are raised. No full action word is needed when everyone is already joining the celebration.
+- 'To ASK!' French uses the same short preposition for a toast that can mean to in other situations. Place the name of the person or organisation after it. Mathias uses this pattern to celebrate ASK.
+- 'To ASK!' You can reuse this short phrase when joining someone else's toast. The preposition and the name are enough, so Camille repeats the wish without adding a full sentence.
 - 'Long life!' The description meaning long takes a feminine ending to match life. Together the two words form a wish for a lasting future.
 - 'It's good, this bubbly. A little unripe.' The word for sparkling wine is masculine here. The final description literally means green; for a young wine it can suggest an unripe or sharp taste.
 
 Art: built-in imagegen, house-style reference art/style/fr-01-agence.webp; prompt Camille, Mathias and Arlette raise champagne flutes at the agency, with the small terrier beside Arlette. Flat rounded shapes, canonical character styling, no text/logos/actor likeness. Generated result inspected and saved1024squareWebP.
 
 Primary-source audit: full original French audio, unprompted large-v3-turbo transcript, and private source-video frames. Corrections preserve the actual situation and register. Subtitle fragments remain provenance anchors, not authoritative French transcripts. English translation, replay and story consistency checked.
+
+Central strict-teaching repair: strengthened concrete English explanations of time, word order, meanings and reusable expressions. All native segments, speaker order, timing gaps and notes byte content are unchanged.
