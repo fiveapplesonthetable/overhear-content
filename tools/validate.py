@@ -279,8 +279,15 @@ def check_script(path, lang, rep, expect_id=None, cast=None, excerpt=False):
         k = len(segs) - 1
         while k > 0 and segs[k]["v"] != "narrator": k -= 1       # closing line sits after the outro
         tail = [s["t"] for s in segs[:k] if s["v"] != "narrator"][-len(story):]
-        if tail != story:
-            (rep.err if taster else rep.warn)(w, "the whole story is not repeated unchanged before the outro (part 4)")
+        if taster:
+            recap_start = k
+            while recap_start > j and segs[recap_start - 1]["v"] != "narrator": recap_start -= 1
+            expected = [(seg["v"], seg["t"]) for seg in segs[first:j]]
+            recap = [(seg["v"], seg["t"]) for seg in segs[recap_start:k]]
+            if recap_start <= j or recap != expected or not any(seg["v"] != "narrator" for seg in segs[j:recap_start]):
+                rep.err(w, "the whole story is not repeated unchanged in a separate contiguous recap before the outro (part 4)")
+        elif tail != story:
+            rep.warn(w, "the whole story is not repeated unchanged before the outro (part 4)")
         source_closing = taster and (segs[-1]["v"] == "narrator" or segs[-1]["t"] in story)
         if not source_closing and (not FAREWELL[lang].search(segs[-1]["t"]) or len(segs[-1]["t"].split()) > 6):
             rep.err(w, f"last segment must be a short farewell (Пока! / До свидания! / À bientôt!), not a story line: {segs[-1]['t'][:50]!r}")
