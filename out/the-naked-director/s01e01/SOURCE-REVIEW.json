@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "the-naked-director-s01e01-scene-01",
+  "scope": "One continuous request from the official Season 1 trailer; NOT a verified source Episode 1 scene or full episode. s01e01 is the first catalogue lesson slot.",
+  "editorialStatus": "Source text and character context approved for synthetic Japanese production; generated audio, actual alignment and publication remain separate gates.",
+  "source": {
+    "kind": "official_Season1_trailer",
+    "page": "https://www.youtube.com/watch?v=nwQuK8XKlIE",
+    "uploader": "Netflix Japan",
+    "title": "『全裸監督』予告編 2 - Netflix",
+    "privateVideoPath": "/mnt/agent/pilot-source-discovery/japanese-pilot/official-s1-trailer.mp4",
+    "videoSha256": "d3b89f72fa8376af0b69c44c85c48cafbab6e8c93ffaf7be73946312ec85be5f",
+    "durationSeconds": 108.401,
+    "retainedPartialTranscript": "sources/the-naked-director/s01/e01.ja.srt",
+    "partialTranscriptSha256": "a6f546ab03efb75cb52c1a1d9290621f28d7e1a5a52c8ff446e618c2fdd9c958",
+    "transcriptKind": "reviewed partial Japanese transcription; not authored captions; no backtranslation",
+    "boundsSeconds": [
+      19.68,
+      24.6
+    ],
+    "coverageLimit": "One retained cue covering the selected utterance only; no complete trailer or Episode 1 transcript certification."
+  },
+  "audioChecks": [
+    {
+      "kind": "supporting unprompted CPU ASR",
+      "path": "/mnt/agent/pilot-source-discovery/japanese-pilot/official-trailer-small-asr.json",
+      "sha256": "27fdb6e3f7514f42433685f9e43ffadd1bfa90108fc10d447684582a84b4676f",
+      "model": "cached faster-whisper-small int8 CPU2threads",
+      "forcedLanguage": "ja",
+      "initialPrompt": null,
+      "hotwords": null
+    },
+    {
+      "kind": "independent unprompted GPU ASR under sole production reservation",
+      "path": "/mnt/agent/narrator-runs/codex-seven-tasters/source-checks/ja-selected-dialogue-large-asr.json",
+      "sha256": "838ab8cee9c2893125ef16953cf4127ec3bd81adbef4ae9cd80746c2d8233b47",
+      "sourceAudioPath": "/mnt/agent/narrator-runs/codex-seven-tasters/source-checks/ja-selected-dialogue.wav",
+      "sourceAudioSha256": "888d5d21b19625b06a22cffb5ce0336beb35c6aa8c54acd4b76663c4622a8159",
+      "model": "existing large-v3-turbo beam5",
+      "sourceBoundsSeconds": [
+        19.15,
+        24.9
+      ],
+      "forcedLanguage": null,
+      "detectedLanguage": "ja",
+      "languageProbability": 0.87451171875,
+      "initialPrompt": null,
+      "hotwords": null,
+      "vad": false,
+      "previousContext": false,
+      "note": "The decoding helper added300ms silence for recognition; this is not permission to pad a native voice reference."
+    }
+  ],
+  "orthographicDecision": {
+    "spokenSequence": "itaku",
+    "bothDecoderSpelling": "痛く",
+    "retainedSpelling": "いたく",
+    "reason": "In 本当の自分でいたくなった, the speaker came to want to be her true self. This is いる + たい + なる, not physical pain. The independent contemporaneous Japanese trailer quotations below spell the phrase いたく. This is an explicit grammatical and written-source decision, not a claim that ASR distinguished homophones.",
+    "supportingWrittenSources": [
+      {
+        "title": "Eiga.com,2019-07-24: report directly quoting the original Japanese trailer line",
+        "url": "https://eiga.com/news/20190724/8/"
+      },
+      {
+        "title": "Pia/Natalie,2019-07-24: original Japanese quotations include all3selectedchunks",
+        "url": "https://lp.p.pia.jp/article/news/62320/index.html"
+      }
+    ]
+  },
+  "characterVerification": {
+    "key": "megumi",
+    "label": "恵美",
+    "gender": "f",
+    "basis": "Original trailer close-up and contemporary Japanese trailer quotations; actor agency identifies the role as 佐原恵美.",
+    "source": "https://www.sma.co.jp/s/sma/news/detail/82930"
+  },
+  "humanListeningCertified": false,
+  "visualReview": {
+    "privateFramePath": "/mnt/agent/pilot-source-discovery/japanese-pilot/megumi-dialogue-frame.jpg",
+    "frameTimeSeconds": 23.5,
+    "sha256": "8b001a4f4e710632fffb49c3b70c340a63a5bda82e370845b4ba86898d5620b5",
+    "facts": "Adult woman with long straight black hair, navy coat, high cream collar, workshop staircase and cream/green vehicle. Montage images are not treated as a fabricated continuous restaurant conversation."
+  },
+  "publicAudioPolicy": "All native dialogue must be newly generated and validated Japanese TTS. Original video/audio and reference crops remain private; candidate script has no sourceAudio field.",
+  "referenceCaution": "The next male utterance begins near24.6s in the full-trailer diagnostic. Crop female conditioning before that onset; do not assume the5.75srecognition window is a clean voice reference.",
+  "annotationReview": {
+    "format": "taster",
+    "segments": 16,
+    "originalStoryClauses": 3,
+    "nativeAnnotatedSegments": 10,
+    "ordinaryLemmas": 14,
+    "unspacedJapanese": true,
+    "offsetUnits": "half-open Unicodecodepoints",
+    "pitchAccentReviewed": false,
+    "stressValues": null,
+    "notes": "Reviewed kana readings guide alignment only; no interpolated source or synthetic word timings are authored."
+  },
+  "artReview": {
+    "file": "scene-01.webp",
+    "width": 1024,
+    "height": 1024,
+    "sha256": "87ef860a9ac5c056083ab4f2ae6374705ef5f774be8ad0a8e7d8479775fda591",
+    "status": "Final resized WebP visually inspected; fully clothed cartoon role, no actor portrait, no text/logo; source location and clothing represented."
+  }
+}
