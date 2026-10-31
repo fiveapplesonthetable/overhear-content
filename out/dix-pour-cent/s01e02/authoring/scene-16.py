@@ -62,7 +62,12 @@ STORY = [('arlette',
   'Do you need to pee, Jean Gabin?',
   [(489, 'Tu veux faire pipi ?'), (489, 'Jean Gabin')],
   ''),
- ('damien', 'Attendez, il fait pipi!', "Wait, he's peeing!", [(490, 'Attendez, il fait pipi !')], '')]
+ ('arlette',
+  'Attends, il fait pipi!',
+  "Wait, he's peeing!",
+  [(490, 'Attendez, il fait pipi !')],
+  'Original French audio has familiar singular Attends. Video shows Arlette holding Jean Gabin and calling '
+  'to Andréa as they walk; not a formal waiter-to-customer command.')]
 WALK = [(0,
   None,
   "'All right, darling? You're late.' The word for 'darling' is feminine here, because she's talking to a "
@@ -129,6 +134,6 @@ WALK = [(0,
   'or a dog.'),
  (16,
   None,
-  "'Wait, he's peeing!' Too late. The waiter's command uses the formal 'you', the polite form a waiter uses "
-  'with customers. So the tender moment ends with a puddle on the terrace. Now the whole breakfast once '
-  'more, in French.')]
+  "'Wait, he's peeing!' Arlette calls to Andréa while carrying the dog. Wait is a command to one familiar "
+  'person. The ordinary phrase do pee describes what Jean Gabin is doing, and turns the serious conversation '
+  'back to his needs. Now the whole breakfast once more, in French.')]
