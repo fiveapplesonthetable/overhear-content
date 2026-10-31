@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Camille | Quand j'étais petite, une ou deux fois par an. | When I was little, once or twice a year. | #66 00:04:19: Quand j'étais petite, une ou deux fois par an | verbatim |
 | 6 | Catherine | Qu'est-ce que vous faisiez? | What did you do? | #68 00:04:27: Qu'est-ce que vous faisiez ? | verbatim |
 | 7 | Camille | Il m'apportait un cadeau et passait du temps avec moi. | He would bring me a gift and spend time with me. | #69 00:04:29: Il m'apportait un cadeau<br>#69 00:04:29: passait du temps avec moi | verbatim |
-| 8 | Catherine | Vous avez quel âge? | How old are you? | #72 00:04:41: Vous avez quel âge ? | verbatim |
+| 8 | Catherine | Tu as quel âge? | How old are you? | #72 00:04:41: Vous avez quel âge ? | adapted: Informal singular address confirmed by unprompted original-audio ASR: t’as quel âge. |
 | 9 | Camille | J'ai eu vingt-trois ans la semaine dernière. | I turned twenty-three last week. | #72 00:04:41: J'ai eu 23 ans la semaine dernière | verbatim |
 | 10 | Catherine | Prends tes affaires et va-t'en! | Pack your things and get out! | #74 00:04:49: Prends tes affaires et va-t'en ! | verbatim |
 | 11 | Mathias | On peut se parler avant de crier? | Can we talk before shouting? | #76 00:04:52: On peut se parler avant de commencer à crier ? | verbatim |
