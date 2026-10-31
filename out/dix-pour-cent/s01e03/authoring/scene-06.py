@@ -11,7 +11,7 @@ LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = ('Mathias, one of the agents, has been trying to arrange film work for Camille, an assistant at the agency. She is '
- 'secretly his daughter. Now her colleagues Noemie and Herve notice an invitation to the Cesars on her desk. '
+ 'secretly his daughter. Now two colleagues at the agency notice an invitation to the French film awards on her desk. '
  'Assistants usually miss out on these French film awards. Listen to Camille try to explain her lucky '
  'invitation.')
 OPENER = ("Let's go back to the envelope. Camille discovers the invitation, and her colleagues want to know why she "
@@ -109,8 +109,7 @@ WALK = [(0,
   'one more thing.'),
  (11,
   None,
-  "'And I gave her a recipe for pistou.' Pistou is a basil sauce from the south of France, where Camille "
-  'comes from. A nice touch, and completely made up. She wraps it up.'),
+  "'And I gave her a recipe for basil sauce.' The sauce comes from the south of France, where Camille grew up. A nice touch, and completely made up. She wraps it up."),
  (12,
   None,
   "'It must be for that.' The verb 'must' here shows a guess, the same way it does in English. Hervé has "
