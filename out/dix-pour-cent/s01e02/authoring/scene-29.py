@@ -64,8 +64,16 @@ STORY = [('camille',
   'You fell asleep in two seconds.',
   [(809, "Tu t'es endormie en deux secondes")],
   ''),
- ('camille', 'Vraiment?', 'Really?', [(809, 'Vraiment')], ''),
- ('hippolyte', 'Oui, vraiment.', 'Yes, really.', [(810, 'Oui, vraiment')], ''),
+ ('camille',
+  "C'est vrai?",
+  'Is that true?',
+  [(809, 'Vraiment')],
+  'Original French audio has c’est vrai, not the vraiment invented by the dual subtitles.'),
+ ('hippolyte',
+  "Oui, c'est vrai.",
+  "Yes, it's true.",
+  [(810, 'Oui, vraiment')],
+  'Original French audio has c’est vrai, not the vraiment invented by the dual subtitles.'),
  ('camille', 'Merci!', 'Thank you!', [(811, 'Merci')], '')]
 WALK = [(0,
   None,
@@ -115,14 +123,15 @@ WALK = [(0,
   'Camille who fell asleep.'),
  (12,
   None,
-  "'Really?' One word can question whether a whole account is true. Camille repeats the word he used earlier "
-  'to describe how much he liked her, but now she uses it to ask for reassurance.'),
+  "'Is that true?' Literally, it is true? French keeps the ordinary statement order in this short spoken "
+  "question, while English can put is before that. True asks whether Hippolyte's account really happened."),
  (13,
   None,
-  "'Yes, really.' Yes confirms the account, and really strengthens the confirmation. He repeats her question "
-  'word as an answer, leaving her no reason to think he is teasing about what happened.'),
+  "'Yes, it's true.' Yes answers the question directly, and the following statement repeats his "
+  'confirmation. The French word for true also means real or genuine in other settings, so context tells you '
+  'what kind of truth is being checked.'),
  (14,
   None,
-  "'Thank you!' This ordinary expression of gratitude sounds unexpected after his story. Camille thanks him "
-  'because the evening stopped when she fell asleep. He still does not know why that is such a relief. '
-  "Here's the whole scene once more.")]
+  "'Thank you!' French uses one word here, without needing a separate you. You can add what you are grateful "
+  'for after the short linking word for for. Camille leaves it as one word because Hippolyte has just '
+  "answered the question that worried her. Here's the whole conversation once more.")]
