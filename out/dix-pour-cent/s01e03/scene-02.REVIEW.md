@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am the seagull.' Sofia rehearses a speech by Nina, an actress in Chekhov's play. The word for the bird is feminine, so it follows the feminine word for 'the'.
+- 'I am the seagull.' Sofia rehearses a speech by Nina, an actress in Chekhov's play. The word for the bird is feminine, so the article before it is feminine too.
 - 'No, that's wrong.' The second part literally says 'that is false'. It is a short way of correcting a mistake, including your own.
-- 'Chekhov, The Seagull, act four.' Nathalie recognises the play. The number follows the word for 'act', just as it follows 'chapter' when someone names a chapter.
-- 'I did it at drama school.' The small word for 'it' comes before the helper 'have'. The word meaning 'at the' combines two short French words into one.
-- 'Mum?' Laura recognises her mother. This familiar word can stand on its own as a call, and a rising voice makes it a surprised question.
+- Nathalie identifies the speech as coming from act four of Chekhov's play, The Seagull. The act number follows the word naming that section, just as a chapter number follows its label.
+- 'I did it at drama school.' The object pronoun refers to the speech Sofia studied and comes before the helping word. The location starts with a single French word that joins the preposition to the definite article.
+- Laura calls out to her mother in surprise. This familiar family word can stand on its own as a call, and a rising voice turns it into a question.
 - 'It's not easy to learn lines with all this noise.' The negative surrounds 'is'. The word for an actor's lines is simply the word for a text. Nathalie is still addressing Sofia.
-- 'Really work on it at home.' In this instruction, the word for 'it' attaches after 'work' with a hyphen. The last two words mean 'at your place'.
-- 'Thank you.' This single word gives an everyday thank-you. Sofia appreciates the experienced actress's advice. Gabriel then arrives to collect Laura, after the agency's crisis meeting.
-- 'Laura.' A name alone can call someone back. Nathalie wants one more word before her daughter leaves with her agent.
-- 'Yes?' The same word that agrees with a statement can answer someone calling your name. Here it invites Nathalie to continue.
+- 'Really work on it at home.' The object pronoun identifies the script being practised and follows the command after a hyphen. The closing expression tells Sofia to practise at her own home.
+- Sofia thanks Nathalie for her advice. This everyday thank-you is a polite response to the help she has received. Gabriel then arrives to collect Laura, after the agency's crisis meeting.
+- Nathalie calls her daughter by name, meaning she wants Laura to stop and listen. A name can stand alone as a short call for attention before someone leaves.
+- Laura answers her mother's call and invites her to continue. The same short response can express agreement with a statement or acknowledge someone saying your name.
 - 'Emmanuel, she must stand up straight.' The expression for 'stand straight' literally says 'hold oneself straight'. Nathalie gives advice about Laura's posture, but calls Gabriel by the wrong name.
-- 'It's Gabriel, Mum!' French names Gabriel and then Mum, without a separate 'it is'. Laura is correcting her mother's mistaken name for her agent.
+- 'It's Gabriel, Mum!' Laura simply gives her agent's correct name, followed by the familiar title she uses for her mother. There is no separate introductory statement in the French.
