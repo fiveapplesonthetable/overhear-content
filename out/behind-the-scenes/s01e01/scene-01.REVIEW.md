@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | 秦箫 | 方老师。 | Professor Fang. | #10 00:05:17: 方老师 | adapted: Punctuation supplied for reading. The brief offscreen student greeting is represented by Qin Xiao; this condensed greeting is not a claim of exact source diarization. |
 | 11 | 方老师 | 小谷，秦箫。 | Xiaogu, Qin Xiao. | #11 00:05:19: 小谷，秦箫 | adapted: Punctuation supplied for reading. Proper names checked against on-screen identity captions; ASR guesses different characters. |
 | 12 | 方老师 | 来来来。 | Come on in. | #12 00:05:21: 来来来 | adapted: Punctuation supplied for reading. |
-| 13 | 方老师 | 你们俩的论文初稿都已经通过了。 | Both of your thesis drafts have been approved. | #13 00:05:22: 你们俩的论文初稿都已经通过了 | adapted: Punctuation supplied for reading. The native caption resolves论文初稿; ASR omitted characters. |
+| 13 | 方老师 | 你们俩的论文初稿都已经通过了。 | Both of your initial thesis drafts have been approved. | #13 00:05:22: 你们俩的论文初稿都已经通过了 | adapted: Punctuation supplied for reading. The native caption resolves论文初稿; ASR omitted characters. |
 | 14 | 方老师 | 接下来抓紧时间。 | Next, make good use of the time. | #14 00:05:25: 接下来抓紧时间 | adapted: Punctuation supplied for reading. |
 | 15 | 方老师 | 把最终稿交上来。 | Hand in the final draft. | #15 00:05:26: 把最终稿交上来 | adapted: Punctuation supplied for reading. |
 | 16 | 方老师 | 做好答辩准备。 | Get ready for your thesis defence. | #16 00:05:27: 做好答辩准备 | adapted: Punctuation supplied for reading. 答辩 is visible in native captions; ASR gave a homophone. |
@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Professor Fang.' A title alone can greet someone and get their attention. The word for teacher is also a respectful way to address a university professor.
 - 'Xiaogu, Qin Xiao.' The professor uses the shortened given name for one student and the full name for the other. Names keep their normal spoken form when used to call someone.
 - 'Come on in.' Repeating come makes the invitation welcoming and immediate. Chinese can repeat an ordinary action word like this without adding a separate word for please.
-- 'Both of your thesis drafts have been approved.' The word for you has a plural marker, and two makes the number explicit. Both tells us that the approval applies to each student's draft.
+- 'Both of your initial thesis drafts have been approved.' The word for you has a plural marker, and two makes the number explicit. Both tells us that the approval applies to each student's draft.
 - 'Next, make good use of the time.' The expression for make good use literally includes grasp tightly. Time is what they should grasp, meaning they should get on with the work promptly.
 - 'Hand in the final draft.' The final draft is placed before hand in. The little opening word sets up that object first, directing attention to what needs to be submitted.
 - 'Get ready for your thesis defence.' The word for prepare follows the word for thesis defence. The action at the beginning asks them to do the preparation well, rather than merely to begin it.
