@@ -31,11 +31,11 @@ STORY = [('camille',
   'I can take off another five years!',
   [(148, 'enlever encore cinq ans')],
   ''),
- ('noemie',
+ ('camille',
   'Huit, ce serait peut-être trop.',
   'Eight might be too much.',
   [(149, 'Huit, ce serait peut-être trop')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('herve',
   "Allô? C'est pour le placement de produit?",
   'Hello? Is this about the product placement?',
@@ -43,10 +43,10 @@ STORY = [('camille',
   ''),
  ('camille', 'Bisou-bisou!', 'Kiss-kiss!', [(152, 'Bisou-bisou')], ''),
  ('noemie',
-  'Vous dites bisou-bisou à une grande star?',
+  'Tu dis bisou-bisou à une grande star?',
   'Do you say kiss-kiss to a big star?',
   [(154, 'Vous'), (154, 'bisou-bisou'), (154, 'stars ?')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('camille', 'Non!', 'No!', [(155, 'Non.')], ''),
  ('noemie', 'Si!', 'Yes, you did!', [(155, 'Si.')], ''),
  ('camille', "C'est juste une habitude.", "It's just a habit.", [(156, "C'est juste une habitude.")], ''),
@@ -80,8 +80,8 @@ WALK = [(0,
   'years. Camille jokes about making the actress even younger online.'),
  (5,
   None,
-  "'Eight might be too much.' The form of 'be' means 'would be', making this a cautious comment. The word meaning "
-  "'perhaps' adds another note of uncertainty."),
+  "'Eight might be too much.' Camille is still speaking on her phone. The form of 'be' means 'would be', making "
+  "this a cautious comment about changing the actress's listed age."),
  (6,
   None,
   "'Hello? Is this about the product placement?' Hervé answers a separate phone call. The expression at the end "
@@ -92,8 +92,8 @@ WALK = [(0,
   'but Noémie thinks it is too casual for business.'),
  (8,
   None,
-  "'Do you say kiss-kiss to a big star?' Noémie uses polite 'you' to address Camille while scolding her. The "
-  "describing word for 'big' is feminine to match the word for star."),
+  "'Do you say kiss-kiss to a big star?' Noémie addresses Camille casually while scolding her. The describing "
+  "word for 'big' is feminine to match the word for star."),
  (9, None, "'No!' Camille denies it with a one-word answer. Noémie immediately challenges that denial."),
  (10,
   None,
@@ -113,6 +113,6 @@ WALK = [(0,
   'complete sentence.'),
  (14,
   None,
-  "'You can't do whatever you want!' Noémie switches to casual 'you' in her reprimand. The expression after 'do' "
-  "means 'everything that', or 'whatever' here. She still wrongly believes Camille is Christophe Lambert's "
-  'daughter.')]
+  "'You can't do whatever you want!' The expression after 'do' means 'everything that', or 'whatever' here. "
+  "Noémie still wrongly believes Camille is Christophe Lambert's daughter; that is why she objects to supposed "
+  'special treatment.')]
