@@ -10,26 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Andréa | Clément, ça fait plaisir de te voir. | Clément, it's nice to see you. | #215: Clément, ça fait plaisir de te voir | verbatim |
-| 2 | Clément | Andréa. Ça fait combien de temps? Dix ans? | Andréa. How long has it been? Ten years? | #216: Andréa<br>#217: Ça fait combien de temps<br>#218: Dix | verbatim |
-| 3 | Clément | Alors, c'est pour quoi? Un contrôle fiscal? | A tax audit? | #220: Alors, c'est pour quoi<br>#224: Un contrôle fiscal | verbatim |
-| 4 | Andréa | Pas moi, mon agence. Je suis agent maintenant. | Not me, my agency. I'm an agent now. | #225: Pas moi, mon<br>#226: Je suis agent maintenant | verbatim |
-| 5 | Clément | Qui fait le contrôle? | Who is doing the audit? | #229: qui fait le contrôle | verbatim |
-| 6 | Andréa | Une femme. Colette Brancillon. | A woman. Colette Brancillon. | #229: Une femme<br>#231: Colette Brancillon | verbatim |
-| 7 | Clément | Je la connais. Elle est jeune et motivée. | I know her. She's young and keen. | #232: je la connais<br>#234: Elle est jeune et motivée | verbatim |
-| 8 | Clément | Ce n'est vraiment pas bon pour toi. | That's really not good for you. | #236: vraiment pas bon pour toi | verbatim |
-| 9 | Andréa | Tu peux faire quelque chose? Tu aimes toujours le cinéma? | Do you still like the cinema? | #237: tu peux faire quelque chose<br>#238: Tu aimes toujours le cinéma | verbatim |
-| 10 | Clément | Je t'écoute. | I'm listening. | #238: Je t'écoute | verbatim |
-| 11 | Andréa | Des invitations à Cannes, et une chambre au Carlton. | Invitations to Cannes, and a room at the Carlton. | #239: Cannes<br>#240: Des invitations<br>#241: Une chambre au Carlton | verbatim |
-| 12 | Clément | Une suite? | A suite? | #241: Une suite | verbatim |
-| 13 | Andréa | Allez, Clément! Je veux juste un service d'un vieil ami. | Come on, Clément! I just want a favour from an old friend. | #242: Allez, Clément<br>#244: Je veux juste un service d'un vieil ami | verbatim |
-| 14 | Clément | Un vieil ami? Tu m'as quitté avec un SMS! | An old friend? You broke up with me by text! | #244: Un vieil ami<br>#245: Tu m'as<br>#247: un SMS | verbatim |
-| 15 | Clément | Au revoir, Andréa. Et bonne chance pour l'audit. | Goodbye, Andréa. And good luck with the audit. | #249: Au revoir, Andréa. Et bonne chance pour l'audit | verbatim |
-| 16 | Andréa | Attends, Clément! D'accord pour la suite. | Wait, Clément! Okay for the suite. | #250: Attends, Clément<br>#251: D'accord pour la suite | verbatim |
-| 17 | Clément | Et une invitation pour les Césars. Donne-moi une semaine. | And an invitation to the Césars. Give me a week. | #252: Et une invitation pour les Césars<br>#256: Donne-moi une semaine | verbatim |
-| 18 | Clément | Je vais remplacer Brancillon. En attendant, sois sympa avec elle. | In the meantime, be nice to her. | #254: remplacer Brancillon<br>#258: Sois sympa avec elle | verbatim |
-
-
+| 1 | Andréa | Clément, ça fait plaisir de te voir. | Clément, it's nice to see you. | #215 00:13:06: Clément, ça fait plaisir de te voir | verbatim |
+| 2 | Clément | Andréa. Ça fait combien de temps? Dix ans? | Andréa. How long has it been? Ten years? | #216 00:13:10: Andréa<br>#217 00:13:11: Ça fait combien de temps<br>#218 00:13:13: Dix | verbatim |
+| 3 | Clément | Alors, c'est pour quoi? Un contrôle fiscal? | So, what is it for? A tax audit? | #220 00:13:17: Alors, c'est pour quoi<br>#224 00:13:30: Un contrôle fiscal | verbatim |
+| 4 | Andréa | Pas moi, mon agence. Je suis agent maintenant. | Not me, my agency. I'm an agent now. | #225 00:13:32: Pas moi, mon<br>#226 00:13:34: Je suis agent maintenant | verbatim |
+| 5 | Clément | Qui fait le contrôle? | Who is doing the audit? | #229 00:13:41: qui fait le contrôle | verbatim |
+| 6 | Andréa | Une femme. Colette Brancillon. | A woman. Colette Brancillon. | #229 00:13:41: Une femme<br>#231 00:13:48: Colette Brancillon | verbatim |
+| 7 | Clément | Je la connais. Elle est jeune et motivée. | I know her. She's young and keen. | #232 00:13:50: je la connais<br>#234 00:13:53: Elle est jeune et motivée | verbatim |
+| 8 | Clément | Ce n'est vraiment pas bon pour toi. | That's really not good for you. | #236 00:13:58: vraiment pas bon pour toi | verbatim |
+| 9 | Andréa | Tu peux faire quelque chose? Tu aimes toujours le cinéma? | Can you do something? Do you still like the cinema? | #237 00:14:00: tu peux faire quelque chose<br>#238 00:14:06: Tu aimes toujours le cinéma | verbatim |
+| 10 | Clément | Je t'écoute. | I'm listening. | #238 00:14:06: Je t'écoute | verbatim |
+| 11 | Andréa | Des invitations à Cannes, et une chambre au Carlton. | Invitations to Cannes, and a room at the Carlton. | #239 00:14:08: Cannes<br>#240 00:14:13: Des invitations<br>#241 00:14:17: Une chambre au Carlton | verbatim |
+| 12 | Clément | Une suite? | A suite? | #241 00:14:17: Une suite | verbatim |
+| 13 | Andréa | Allez, Clément! Je veux juste un service d'un vieil ami. | Come on, Clément! I just want a favour from an old friend. | #242 00:14:19: Allez, Clément<br>#244 00:14:23: Je veux juste un service d'un vieil ami | verbatim |
+| 14 | Clément | Un vieil ami? Tu m'as quitté avec un SMS! | An old friend? You broke up with me by text! | #244 00:14:23: Un vieil ami<br>#245 00:14:27: Tu m'as<br>#247 00:14:33: un SMS | verbatim |
+| 15 | Clément | Au revoir, Andréa. Et bonne chance pour l'audit. | Goodbye, Andréa. And good luck with the audit. | #249 00:14:37: Au revoir, Andréa. Et bonne chance pour l'audit | verbatim |
+| 16 | Andréa | Attends, Clément! D'accord pour la suite. | Wait, Clément! Okay for the suite. | #250 00:14:42: Attends, Clément<br>#251 00:14:47: D'accord pour la suite | verbatim |
+| 17 | Clément | Et une invitation pour les Césars. Donne-moi une semaine. | And an invitation to the Césars. Give me a week. | #252 00:14:49: Et une invitation pour les Césars<br>#256 00:15:03: Donne-moi une semaine | verbatim |
+| 18 | Clément | Je vais remplacer Brancillon. En attendant, sois sympa avec elle. | I'm going to replace Brancillon. In the meantime, be nice to her. | #254 00:14:54: remplacer Brancillon<br>#258 00:15:07: Sois sympa avec elle | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
