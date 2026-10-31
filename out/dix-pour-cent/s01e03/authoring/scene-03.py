@@ -12,8 +12,8 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = ('Gabriel offers Laura Smet a film script that he says is exclusive to her. Meanwhile, another agent, '
  'Mathias, has given the same script to her mother Nathalie Baye. When they meet, the surprise is that the '
- "director wants them both. This shortened exchange lets Gabriel relay the agents' explanations. Listen to "
- 'the French first.')
+ 'director wants them both. In this shortened exchange, Gabriel relays what the other agents have explained. '
+ 'Listen to the complete French scene first, and then we will go through it together.')
 OPENER = "Let's take it apart. Laura sits down, and Gabriel puts a thick script in her hands."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "So Gabriel's 'exclusive' script was in Mathias's hands too. Right after this, Gabriel accuses Mathias of using spies to get it, and Mathias calmly says that a mother and daughter on one poster is good for the whole agency. See you next time!"
@@ -96,8 +96,8 @@ WALK = [(0,
   'plural.'),
  (6,
   None,
-  "'Only you. It's for you!' This 'you' is the stressed casual form, the one used on its own or after a "
-  "little word like 'for'."),
+  'Gabriel insists that the offer is for Laura alone. The full casual pronoun is used for the person '
+  'addressed, either on its own or after a preposition.'),
  (7,
   "C'est le seul exemplaire en France.",
   "'It's the only copy in France.' The word for 'only' here comes before the noun."),
@@ -112,8 +112,8 @@ WALK = [(0,
   'Mathias.'),
  (9,
   None,
-  "'Exclusive, huh?' She throws Gabriel's own word back at him. The little word at the end asks for "
-  "agreement, like 'eh?' or 'right?'."),
+  "Laura throws Gabriel's promise of exclusivity back at him. The short tag at the end seeks agreement or "
+  'challenges him to confirm what he said.'),
  (10, None, "'Is it the same part?' The word for 'same' comes before the noun."),
  (11,
   None,
@@ -121,17 +121,18 @@ WALK = [(0,
   'two.'),
  (12,
   None,
-  "'We've always wanted to act together.' Nathalie uses the everyday word for 'we' with the past tense, 'we "
-  "have wanted'."),
+  "'We've always wanted to act together.' The everyday subject word refers to both women here, but it goes "
+  'with a singular helping word in French. Nathalie describes a wish they have shared for a long time.'),
  (13, None, "'It's great!' Laura uses a casual, cheerful word that is the same as in English."),
  (14,
   None,
-  "'Does the director know we're mother and daughter?' This opening expression at the start just announce a "
-  'yes-or-no question. Note the feminine word for a film director, because Solveig is a woman.'),
+  "'Does the director know we're mother and daughter?' The opening expression introduces a question that can "
+  'be answered positively or negatively. French also has a feminine word for a woman directing a film, which '
+  'fits Solveig here.'),
  (15,
   None,
-  "'No, she doesn't know anything at all.' The negative here uses the word for 'nothing', and the last three "
-  "words mean 'at all'."),
+  "'No, she doesn't know anything at all.' The negative word rules out any knowledge of the family "
+  'relationship. An extra expression at the end strengthens the denial.'),
  (16,
   None,
   "'What an adventure!' The word for 'what' takes a feminine ending here, to match 'adventure'. Here's the "
