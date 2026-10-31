@@ -4,102 +4,86 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Don't worry, be natural.",
+      "trans": "Sofia, shall we go?",
       "words": [
         {
-          "t": "Ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
+          "t": "Sofia,",
+          "lemma": "sofia",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Sofia",
+          "gram": "proper noun ('Sofia')"
         },
         {
-          "t": "t'inquiète",
-          "lemma": "inquiéter",
+          "t": "on",
+          "lemma": "on",
+          "pos": "pron",
+          "stress": "ɔ̃",
+          "gloss": "we",
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+        },
+        {
+          "t": "y",
+          "lemma": "y",
+          "pos": "pron",
+          "stress": "i",
+          "gloss": "there",
+          "gram": "pronoun of place; on y va means let’s go / shall we start"
+        },
+        {
+          "t": "va?",
+          "lemma": "aller",
           "pos": "verb",
-          "stress": "tɛ̃kjɛt",
-          "gloss": "worry (in ne t'inquiète pas = don't worry)",
-          "gram": "te (reflexive) + inquiète: 2nd person singular present/imperative of s'inquiéter"
-        },
-        {
-          "t": "pas,",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "sois",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "swa",
-          "gloss": "be",
-          "gram": "imperative of 'être', 2nd person singular (tu)"
-        },
-        {
-          "t": "naturelle.",
-          "lemma": "naturel",
-          "pos": "adj",
-          "stress": "natyʁɛl",
-          "gloss": "natural",
-          "gram": "feminine singular"
+          "stress": "va",
+          "gloss": "are going (to)",
+          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
         }
       ]
     },
     {
       "seg": 2,
-      "trans": "Sofia, shall we go?",
+      "trans": "Yes, I am ready.",
       "words": [
         {
-          "t": "Sofia,",
-          "lemma": "sofia",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Sofia",
-          "gram": "proper noun ('Sofia')"
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
         },
         {
-          "t": "on",
-          "lemma": "on",
+          "t": "je",
+          "lemma": "je",
           "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, first person singular"
         },
         {
-          "t": "y",
-          "lemma": "y",
-          "pos": "pron",
-          "stress": "i",
-          "gloss": "there",
-          "gram": "pronoun of place; on y va means let’s go / shall we start"
-        },
-        {
-          "t": "va?",
-          "lemma": "aller",
+          "t": "suis",
+          "lemma": "être",
           "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+          "stress": "sɥi",
+          "gloss": "am",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "prête.",
+          "lemma": "prêt",
+          "pos": "adj",
+          "stress": "pʁɛt",
+          "gloss": "ready",
+          "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 3,
-      "trans": "Yes, I am ready.",
+      "trans": "My name is Sofia Leprince, I am twenty-five years old.",
       "words": [
         {
-          "t": "Oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "je",
+          "t": "Je",
           "lemma": "je",
           "pos": "pron",
           "stress": "ʒə",
@@ -107,369 +91,393 @@
           "gram": "subject pronoun, first person singular"
         },
         {
-          "t": "suis",
-          "lemma": "être",
+          "t": "m'appelle",
+          "lemma": "appeler",
           "pos": "verb",
-          "stress": "sɥi",
-          "gloss": "am",
-          "gram": "present, 1st person singular"
+          "stress": "mapɛl",
+          "gloss": "am called; call myself",
+          "gram": "me + appelle: reflexive present, first person singular"
         },
         {
-          "t": "prête.",
-          "lemma": "prêt",
-          "pos": "adj",
-          "stress": "pʁɛt",
-          "gloss": "ready",
-          "gram": "feminine singular"
+          "t": "Sofia",
+          "lemma": "sofia",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Sofia",
+          "gram": "proper noun ('Sofia')"
+        },
+        {
+          "t": "Leprince,",
+          "lemma": "leprince",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Leprince (Sofia's surname)",
+          "gram": "proper name"
+        },
+        {
+          "t": "j'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "ʒe",
+          "gloss": "I have, I did",
+          "gram": "je (I) + ai: 1st person singular present of avoir"
+        },
+        {
+          "t": "25",
+          "lemma": "vingt-cinq",
+          "pos": "num",
+          "stress": "vɛ̃tsɛ̃k",
+          "gloss": "twenty-five",
+          "gram": "cardinal number"
+        },
+        {
+          "t": "ans.",
+          "lemma": "an",
+          "pos": "noun",
+          "stress": "ɑ̃",
+          "gloss": "years",
+          "gram": "masculine plural"
         }
       ]
     },
     {
       "seg": 4,
-      "trans": "My name is Sofia Leprince, I am twenty-five years old.",
+      "trans": "And my agent is Gabriel Sarda at ASK.",
       "words": [
         {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, first person singular"
+          "t": "Et",
+          "lemma": "et",
+          "pos": "conj",
+          "stress": "e",
+          "gloss": "and",
+          "gram": "coordinating conjunction"
         },
         {
-          "t": "m'appelle",
-          "lemma": "appeler",
+          "t": "mon",
+          "lemma": "mon",
+          "pos": "det",
+          "stress": "mɔ̃",
+          "gloss": "my",
+          "gram": "possessive, masculine singular"
+        },
+        {
+          "t": "agent",
+          "lemma": "agent",
+          "pos": "noun",
+          "stress": "aʒɑ̃",
+          "gloss": "agent (for actors)",
+          "gram": "noun, masculine singular"
+        },
+        {
+          "t": "est",
+          "lemma": "être",
           "pos": "verb",
-          "stress": "mapɛl",
-          "gloss": "am called; call myself",
-          "gram": "me + appelle: reflexive present, first person singular"
+          "stress": "ɛ",
+          "gloss": "is",
+          "gram": "present, third person singular"
         },
         {
-          "t": "Sofia",
-          "lemma": "sofia",
+          "t": "Gabriel",
+          "lemma": "gabriel",
           "pos": "name",
           "stress": null,
-          "gloss": "Sofia",
-          "gram": "proper noun ('Sofia')"
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
-          "t": "Leprince,",
-          "lemma": "leprince",
+          "t": "Sarda",
+          "lemma": "sarda",
           "pos": "name",
           "stress": null,
-          "gloss": "Leprince (Sofia's surname)",
+          "gloss": "Sarda (surname)",
           "gram": "proper name"
         },
         {
-          "t": "j'ai",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "ʒe",
-          "gloss": "I have, I did",
-          "gram": "je (I) + ai: 1st person singular present of avoir"
+          "t": "chez",
+          "lemma": "chez",
+          "pos": "prep",
+          "stress": "ʃe",
+          "gloss": "at; with",
+          "gram": "names the agency where Gabriel works"
         },
         {
-          "t": "25",
-          "lemma": "vingt-cinq",
-          "pos": "num",
-          "stress": "vɛ̃tsɛ̃k",
-          "gloss": "twenty-five",
-          "gram": "cardinal number"
-        },
-        {
-          "t": "ans.",
-          "lemma": "an",
-          "pos": "noun",
-          "stress": "ɑ̃",
-          "gloss": "years",
-          "gram": "masculine plural"
+          "t": "ASK.",
+          "lemma": "ask",
+          "pos": "name",
+          "stress": null,
+          "gloss": "ASK (Agence Samuel Kerr)",
+          "gram": "proper name"
         }
       ]
     },
     {
       "seg": 5,
-      "trans": "And my agent is Gabriel Sarda at ASK.",
+      "trans": "Perfect! We start right away.",
       "words": [
         {
-          "t": "Et",
-          "lemma": "et",
-          "pos": "conj",
-          "stress": "e",
-          "gloss": "and",
-          "gram": "coordinating conjunction"
+          "t": "Parfait!",
+          "lemma": "parfait",
+          "pos": "adj",
+          "stress": "paʁfɛ",
+          "gloss": "perfect",
+          "gram": "masculine singular"
         },
         {
-          "t": "mon",
-          "lemma": "mon",
-          "pos": "det",
-          "stress": "mɔ̃",
-          "gloss": "my",
-          "gram": "possessive, masculine singular"
+          "t": "On",
+          "lemma": "on",
+          "pos": "pron",
+          "stress": "ɔ̃",
+          "gloss": "we",
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
         },
         {
-          "t": "agent",
-          "lemma": "agent",
-          "pos": "noun",
-          "stress": "aʒɑ̃",
-          "gloss": "agent (for actors)",
-          "gram": "noun, masculine singular"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
+          "t": "commence",
+          "lemma": "commencer",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, third person singular"
+          "stress": "kɔmɑ̃s",
+          "gloss": "starts",
+          "gram": "present, 3rd person singular"
         },
         {
-          "t": "Gabriel",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
         },
         {
-          "t": "Sarda",
-          "lemma": "sarda",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Sarda (surname)",
-          "gram": "proper name"
-        },
-        {
-          "t": "chez",
-          "lemma": "chez",
+          "t": "de",
+          "lemma": "de",
           "pos": "prep",
-          "stress": "ʃe",
-          "gloss": "at; with",
-          "gram": "names the agency where Gabriel works"
+          "stress": "də",
+          "gloss": "of; from",
+          "gram": "preposition"
         },
         {
-          "t": "ASK.",
-          "lemma": "ask",
-          "pos": "name",
-          "stress": null,
-          "gloss": "ASK (Agence Samuel Kerr)",
-          "gram": "proper name"
+          "t": "suite.",
+          "lemma": "suite",
+          "pos": "noun",
+          "stress": "sɥit",
+          "gloss": "(tout de suite = right away)",
+          "gram": "feminine singular, fixed phrase"
         }
       ]
     },
     {
       "seg": 6,
-      "trans": "Perfect! We start right away.",
+      "trans": "First the choreography, then your scene, okay?",
       "words": [
         {
-          "t": "Parfait!",
-          "lemma": "parfait",
-          "pos": "adj",
-          "stress": "paʁfɛ",
-          "gloss": "perfect",
-          "gram": "masculine singular"
+          "t": "D'abord",
+          "lemma": "d'abord",
+          "pos": "adv",
+          "stress": "dabɔʁ",
+          "gloss": "first",
+          "gram": "adverb: 'first of all'"
         },
         {
-          "t": "On",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "commence",
-          "lemma": "commencer",
-          "pos": "verb",
-          "stress": "kɔmɑ̃s",
-          "gloss": "starts",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "tout",
-          "lemma": "tout",
+          "t": "la",
+          "lemma": "le",
           "pos": "det",
-          "stress": "tu",
-          "gloss": "all",
-          "gram": "masculine singular; use depends on the following words"
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
         },
         {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of; from",
-          "gram": "preposition"
-        },
-        {
-          "t": "suite.",
-          "lemma": "suite",
+          "t": "chorégraphie,",
+          "lemma": "chorégraphie",
           "pos": "noun",
-          "stress": "sɥit",
-          "gloss": "(tout de suite = right away)",
-          "gram": "feminine singular, fixed phrase"
+          "stress": "kɔʁeɡʁafi",
+          "gloss": "choreography",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "ensuite",
+          "lemma": "ensuite",
+          "pos": "adv",
+          "stress": "ɑ̃sɥit",
+          "gloss": "then, next",
+          "gram": "adverb of sequence"
+        },
+        {
+          "t": "votre",
+          "lemma": "votre",
+          "pos": "det",
+          "stress": "vɔtʁ",
+          "gloss": "your",
+          "gram": "possessive, singular, formal"
+        },
+        {
+          "t": "scène,",
+          "lemma": "scène",
+          "pos": "noun",
+          "stress": "sɛn",
+          "gloss": "scene",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "d'accord?",
+          "lemma": "accord",
+          "pos": "noun",
+          "stress": "dakɔʁ",
+          "gloss": "agreed, okay",
+          "gram": "de (of) + accord (agreement): fixed expression"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "First the choreography, then your scene, okay?",
+      "trans": "Okay, whenever you want.",
       "words": [
         {
-          "t": "D'abord",
-          "lemma": "d'abord",
-          "pos": "adv",
-          "stress": "dabɔʁ",
-          "gloss": "first",
-          "gram": "adverb: 'first of all'"
-        },
-        {
-          "t": "la",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "la",
-          "gloss": "the",
-          "gram": "definite article, feminine singular"
-        },
-        {
-          "t": "chorégraphie,",
-          "lemma": "chorégraphie",
-          "pos": "noun",
-          "stress": "kɔʁeɡʁafi",
-          "gloss": "choreography",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "ensuite",
-          "lemma": "ensuite",
-          "pos": "adv",
-          "stress": "ɑ̃sɥit",
-          "gloss": "then, next",
-          "gram": "adverb of sequence"
-        },
-        {
-          "t": "votre",
-          "lemma": "votre",
-          "pos": "det",
-          "stress": "vɔtʁ",
-          "gloss": "your",
-          "gram": "possessive, singular, formal"
-        },
-        {
-          "t": "scène,",
-          "lemma": "scène",
-          "pos": "noun",
-          "stress": "sɛn",
-          "gloss": "scene",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "d'accord?",
+          "t": "D'accord,",
           "lemma": "accord",
           "pos": "noun",
           "stress": "dakɔʁ",
           "gloss": "agreed, okay",
           "gram": "de (of) + accord (agreement): fixed expression"
+        },
+        {
+          "t": "quand",
+          "lemma": "quand",
+          "pos": "adv",
+          "stress": "kɑ̃",
+          "gloss": "when",
+          "gram": "question word"
+        },
+        {
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+        },
+        {
+          "t": "voulez.",
+          "lemma": "vouloir",
+          "pos": "verb",
+          "stress": "vule",
+          "gloss": "want",
+          "gram": "present, 2nd person plural (formal vous)"
         }
       ]
     },
     {
       "seg": 8,
-      "trans": "Okay, whenever you want.",
+      "trans": "They want to fight with me?",
       "words": [
         {
-          "t": "D'accord,",
-          "lemma": "accord",
-          "pos": "noun",
-          "stress": "dakɔʁ",
-          "gloss": "agreed, okay",
-          "gram": "de (of) + accord (agreement): fixed expression"
-        },
-        {
-          "t": "quand",
-          "lemma": "quand",
-          "pos": "adv",
-          "stress": "kɑ̃",
-          "gloss": "when",
-          "gram": "question word"
-        },
-        {
-          "t": "vous",
-          "lemma": "vous",
+          "t": "Ils",
+          "lemma": "ils",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "il",
+          "gloss": "they",
+          "gram": "subject pronoun, 3rd person plural"
         },
         {
-          "t": "voulez.",
+          "t": "veulent",
           "lemma": "vouloir",
           "pos": "verb",
-          "stress": "vule",
+          "stress": "vœl",
           "gloss": "want",
-          "gram": "present, 2nd person plural (formal vous)"
+          "gram": "present, 3rd person plural"
+        },
+        {
+          "t": "se",
+          "lemma": "se",
+          "pos": "pron",
+          "stress": "sə",
+          "gloss": "(reflexive)",
+          "gram": "reflexive pronoun, part of se passer"
+        },
+        {
+          "t": "battre",
+          "lemma": "se battre",
+          "pos": "verb",
+          "stress": "batʁ",
+          "gloss": "fight",
+          "gram": "infinitive; se battre contre = fight against"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition ('avec', meaning 'with')"
+        },
+        {
+          "t": "moi?",
+          "lemma": "moi",
+          "pos": "pron",
+          "stress": "mwa",
+          "gloss": "me",
+          "gram": "stressed pronoun, 1st person singular, after a preposition"
         }
       ]
     },
     {
       "seg": 9,
-      "trans": "They want to fight with me?",
+      "trans": "I run faster than them!",
       "words": [
         {
-          "t": "Ils",
-          "lemma": "ils",
+          "t": "Je",
+          "lemma": "je",
           "pos": "pron",
-          "stress": "il",
-          "gloss": "they",
-          "gram": "subject pronoun, 3rd person plural"
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, first person singular"
         },
         {
-          "t": "veulent",
-          "lemma": "vouloir",
+          "t": "cours",
+          "lemma": "courir",
           "pos": "verb",
-          "stress": "vœl",
-          "gloss": "want",
-          "gram": "present, 3rd person plural"
+          "stress": "kuʁ",
+          "gloss": "run",
+          "gram": "present, first person singular"
         },
         {
-          "t": "se",
-          "lemma": "se",
+          "t": "plus",
+          "lemma": "plus",
+          "pos": "adv",
+          "stress": "ply",
+          "gloss": "more",
+          "gram": "adverb; not pronounced with final s in a negative"
+        },
+        {
+          "t": "vite",
+          "lemma": "vite",
+          "pos": "adv",
+          "stress": "vit",
+          "gloss": "quickly",
+          "gram": "invariable adverb ('vite', meaning 'quickly')"
+        },
+        {
+          "t": "qu'eux!",
+          "lemma": "eux",
           "pos": "pron",
-          "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "reflexive pronoun, part of se passer"
-        },
-        {
-          "t": "battre",
-          "lemma": "se battre",
-          "pos": "verb",
-          "stress": "batʁ",
-          "gloss": "fight",
-          "gram": "infinitive; se battre contre = fight against"
-        },
-        {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
-        },
-        {
-          "t": "moi?",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "stressed pronoun, 1st person singular, after a preposition"
+          "stress": "kø",
+          "gloss": "than them",
+          "gram": "que (than) + eux (stressed pronoun, 3rd person plural masculine)"
         }
       ]
     },
     {
       "seg": 10,
-      "trans": "I run faster than them!",
+      "trans": "Now I am here, now I am no longer here!",
       "words": [
         {
-          "t": "Je",
+          "t": "Maintenant",
+          "lemma": "maintenant",
+          "pos": "adv",
+          "stress": "mɛ̃tnɑ̃",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "je",
           "lemma": "je",
           "pos": "pron",
           "stress": "ʒə",
@@ -477,189 +485,135 @@
           "gram": "subject pronoun, first person singular"
         },
         {
-          "t": "cours",
-          "lemma": "courir",
+          "t": "suis",
+          "lemma": "être",
           "pos": "verb",
-          "stress": "kuʁ",
-          "gloss": "run",
-          "gram": "present, first person singular"
+          "stress": "sɥi",
+          "gloss": "am",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "là,",
+          "lemma": "là",
+          "pos": "adv",
+          "stress": "la",
+          "gloss": "here",
+          "gram": "adverb, être là = to be here"
+        },
+        {
+          "t": "maintenant",
+          "lemma": "maintenant",
+          "pos": "adv",
+          "stress": "mɛ̃tnɑ̃",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, first person singular"
+        },
+        {
+          "t": "ne",
+          "lemma": "ne",
+          "pos": "part",
+          "stress": "nə",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
+        },
+        {
+          "t": "suis",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɥi",
+          "gloss": "am",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "plus",
           "lemma": "plus",
           "pos": "adv",
           "stress": "ply",
-          "gloss": "more",
-          "gram": "adverb; not pronounced with final s in a negative"
+          "gloss": "anymore",
+          "gram": "ne ... plus: no longer"
         },
         {
-          "t": "vite",
-          "lemma": "vite",
+          "t": "là!",
+          "lemma": "là",
           "pos": "adv",
-          "stress": "vit",
-          "gloss": "quickly",
-          "gram": "invariable adverb ('vite', meaning 'quickly')"
-        },
-        {
-          "t": "qu'eux!",
-          "lemma": "eux",
-          "pos": "pron",
-          "stress": "kø",
-          "gloss": "than them",
-          "gram": "que (than) + eux (stressed pronoun, 3rd person plural masculine)"
+          "stress": "la",
+          "gloss": "here",
+          "gram": "adverb, être là = to be here"
         }
       ]
     },
     {
       "seg": 11,
-      "trans": "Now I am here, now I am no longer here!",
+      "trans": "Do you see me landing like a heroine?",
       "words": [
         {
-          "t": "Maintenant",
-          "lemma": "maintenant",
-          "pos": "adv",
-          "stress": "mɛ̃tnɑ̃",
-          "gloss": "now",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, first person singular"
+          "stress": "vu",
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
-          "t": "suis",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɥi",
-          "gloss": "am",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "là,",
-          "lemma": "là",
-          "pos": "adv",
-          "stress": "la",
-          "gloss": "here",
-          "gram": "adverb, être là = to be here"
-        },
-        {
-          "t": "maintenant",
-          "lemma": "maintenant",
-          "pos": "adv",
-          "stress": "mɛ̃tnɑ̃",
-          "gloss": "now",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
+          "t": "me",
+          "lemma": "me",
           "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, first person singular"
+          "stress": "mə",
+          "gloss": "me, to me (object)",
+          "gram": "object pronoun, 1st person singular, before the verb"
         },
         {
-          "t": "ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "suis",
-          "lemma": "être",
+          "t": "voyez",
+          "lemma": "voir",
           "pos": "verb",
-          "stress": "sɥi",
-          "gloss": "am",
-          "gram": "present, 1st person singular"
+          "stress": "vwaje",
+          "gloss": "see",
+          "gram": "imperative, 2nd person plural (formal)"
         },
         {
-          "t": "plus",
-          "lemma": "plus",
-          "pos": "adv",
-          "stress": "ply",
-          "gloss": "anymore",
-          "gram": "ne ... plus: no longer"
+          "t": "atterrir",
+          "lemma": "atterrir",
+          "pos": "verb",
+          "stress": "ateʁiʁ",
+          "gloss": "landing, to land",
+          "gram": "infinitive"
         },
         {
-          "t": "là!",
-          "lemma": "là",
-          "pos": "adv",
-          "stress": "la",
-          "gloss": "here",
-          "gram": "adverb, être là = to be here"
+          "t": "comme",
+          "lemma": "comme",
+          "pos": "prep",
+          "stress": "kɔm",
+          "gloss": "like",
+          "gram": "comparison"
+        },
+        {
+          "t": "une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "an (one)",
+          "gram": "indefinite article, feminine singular"
+        },
+        {
+          "t": "héroïne?",
+          "lemma": "héroïne",
+          "pos": "noun",
+          "stress": "eʁɔin",
+          "gloss": "heroine",
+          "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 12,
-      "trans": "Do you see me landing like a heroine?",
-      "words": [
-        {
-          "t": "Vous",
-          "lemma": "vous",
-          "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
-        },
-        {
-          "t": "me",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "mə",
-          "gloss": "me, to me (object)",
-          "gram": "object pronoun, 1st person singular, before the verb"
-        },
-        {
-          "t": "voyez",
-          "lemma": "voir",
-          "pos": "verb",
-          "stress": "vwaje",
-          "gloss": "see",
-          "gram": "imperative, 2nd person plural (formal)"
-        },
-        {
-          "t": "atterrir",
-          "lemma": "atterrir",
-          "pos": "verb",
-          "stress": "ateʁiʁ",
-          "gloss": "landing, to land",
-          "gram": "infinitive"
-        },
-        {
-          "t": "comme",
-          "lemma": "comme",
-          "pos": "prep",
-          "stress": "kɔm",
-          "gloss": "like",
-          "gram": "comparison"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "héroïne?",
-          "lemma": "héroïne",
-          "pos": "noun",
-          "stress": "eʁɔin",
-          "gloss": "heroine",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 13,
       "trans": "This is not at all what I had asked for.",
       "words": [
         {
@@ -737,53 +691,7 @@
       ]
     },
     {
-      "seg": 15,
-      "trans": "Don't worry, be natural.",
-      "words": [
-        {
-          "t": "Ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "t'inquiète",
-          "lemma": "inquiéter",
-          "pos": "verb",
-          "stress": "tɛ̃kjɛt",
-          "gloss": "worry (in ne t'inquiète pas = don't worry)",
-          "gram": "te (reflexive) + inquiète: 2nd person singular present/imperative of s'inquiéter"
-        },
-        {
-          "t": "pas,",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "sois",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "swa",
-          "gloss": "be",
-          "gram": "imperative of 'être', 2nd person singular (tu)"
-        },
-        {
-          "t": "naturelle.",
-          "lemma": "naturel",
-          "pos": "adj",
-          "stress": "natyʁɛl",
-          "gloss": "natural",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 17,
+      "seg": 14,
       "trans": "Sofia, shall we go?",
       "words": [
         {
@@ -821,7 +729,7 @@
       ]
     },
     {
-      "seg": 19,
+      "seg": 16,
       "trans": "Yes, I am ready.",
       "words": [
         {
@@ -859,7 +767,7 @@
       ]
     },
     {
-      "seg": 21,
+      "seg": 18,
       "trans": "My name is Sofia Leprince, I am twenty-five years old.",
       "words": [
         {
@@ -921,7 +829,7 @@
       ]
     },
     {
-      "seg": 23,
+      "seg": 20,
       "trans": "And my agent is Gabriel Sarda at ASK.",
       "words": [
         {
@@ -991,7 +899,7 @@
       ]
     },
     {
-      "seg": 25,
+      "seg": 22,
       "trans": "Perfect! We start right away.",
       "words": [
         {
@@ -1045,7 +953,7 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 24,
       "trans": "First the choreography, then your scene, okay?",
       "words": [
         {
@@ -1107,7 +1015,7 @@
       ]
     },
     {
-      "seg": 29,
+      "seg": 26,
       "trans": "Okay, whenever you want.",
       "words": [
         {
@@ -1145,7 +1053,7 @@
       ]
     },
     {
-      "seg": 31,
+      "seg": 28,
       "trans": "They want to fight with me?",
       "words": [
         {
@@ -1199,7 +1107,7 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 30,
       "trans": "I run faster than them!",
       "words": [
         {
@@ -1245,7 +1153,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 32,
       "trans": "Now I am here, now I am no longer here!",
       "words": [
         {
@@ -1331,7 +1239,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 34,
       "trans": "Do you see me landing like a heroine?",
       "words": [
         {
@@ -1389,173 +1297,127 @@
           "stress": "eʁɔin",
           "gloss": "heroine",
           "gram": "feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "This is not at all what I had asked for.",
+      "words": [
+        {
+          "t": "Ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this; that",
+          "gram": "demonstrative, masculine singular"
+        },
+        {
+          "t": "n'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "nɛ",
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "part",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
+        },
+        {
+          "t": "du",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "dy",
+          "gloss": "of the",
+          "gram": "contraction of de + le"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "masculine singular; use depends on the following words"
+        },
+        {
+          "t": "ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this; that",
+          "gram": "demonstrative, masculine singular"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
+        },
+        {
+          "t": "j'avais",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "ʒavɛ",
+          "gloss": "I had",
+          "gram": "je (I) + avais: 1st person singular imperfect of avoir"
+        },
+        {
+          "t": "demandé.",
+          "lemma": "demander",
+          "pos": "verb",
+          "stress": "dəmɑ̃de",
+          "gloss": "asked",
+          "gram": "past participle (passé composé with avoir)"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "Sofia, shall we go?",
+      "words": [
+        {
+          "t": "Sofia,",
+          "lemma": "sofia",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Sofia",
+          "gram": "proper noun ('Sofia')"
+        },
+        {
+          "t": "on",
+          "lemma": "on",
+          "pos": "pron",
+          "stress": "ɔ̃",
+          "gloss": "we",
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
+        },
+        {
+          "t": "y",
+          "lemma": "y",
+          "pos": "pron",
+          "stress": "i",
+          "gloss": "there",
+          "gram": "pronoun of place; on y va means let’s go / shall we start"
+        },
+        {
+          "t": "va?",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "are going (to)",
+          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
         }
       ]
     },
     {
       "seg": 39,
-      "trans": "This is not at all what I had asked for.",
-      "words": [
-        {
-          "t": "Ce",
-          "lemma": "ce",
-          "pos": "det",
-          "stress": "sə",
-          "gloss": "this; that",
-          "gram": "demonstrative, masculine singular"
-        },
-        {
-          "t": "n'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "nɛ",
-          "gloss": "is not",
-          "gram": "ne (not) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "du",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "dy",
-          "gloss": "of the",
-          "gram": "contraction of de + le"
-        },
-        {
-          "t": "tout",
-          "lemma": "tout",
-          "pos": "det",
-          "stress": "tu",
-          "gloss": "all",
-          "gram": "masculine singular; use depends on the following words"
-        },
-        {
-          "t": "ce",
-          "lemma": "ce",
-          "pos": "det",
-          "stress": "sə",
-          "gloss": "this; that",
-          "gram": "demonstrative, masculine singular"
-        },
-        {
-          "t": "que",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "kə",
-          "gloss": "that",
-          "gram": "conjunction, introduces what to say"
-        },
-        {
-          "t": "j'avais",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "ʒavɛ",
-          "gloss": "I had",
-          "gram": "je (I) + avais: 1st person singular imperfect of avoir"
-        },
-        {
-          "t": "demandé.",
-          "lemma": "demander",
-          "pos": "verb",
-          "stress": "dəmɑ̃de",
-          "gloss": "asked",
-          "gram": "past participle (passé composé with avoir)"
-        }
-      ]
-    },
-    {
-      "seg": 41,
-      "trans": "Don't worry, be natural.",
-      "words": [
-        {
-          "t": "Ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "t'inquiète",
-          "lemma": "inquiéter",
-          "pos": "verb",
-          "stress": "tɛ̃kjɛt",
-          "gloss": "worry (in ne t'inquiète pas = don't worry)",
-          "gram": "te (reflexive) + inquiète: 2nd person singular present/imperative of s'inquiéter"
-        },
-        {
-          "t": "pas,",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "sois",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "swa",
-          "gloss": "be",
-          "gram": "imperative of 'être', 2nd person singular (tu)"
-        },
-        {
-          "t": "naturelle.",
-          "lemma": "naturel",
-          "pos": "adj",
-          "stress": "natyʁɛl",
-          "gloss": "natural",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "Sofia, shall we go?",
-      "words": [
-        {
-          "t": "Sofia,",
-          "lemma": "sofia",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Sofia",
-          "gram": "proper noun ('Sofia')"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "y",
-          "lemma": "y",
-          "pos": "pron",
-          "stress": "i",
-          "gloss": "there",
-          "gram": "pronoun of place; on y va means let’s go / shall we start"
-        },
-        {
-          "t": "va?",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
-        }
-      ]
-    },
-    {
-      "seg": 43,
       "trans": "Yes, I am ready.",
       "words": [
         {
@@ -1593,7 +1455,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 40,
       "trans": "My name is Sofia Leprince, I am twenty-five years old.",
       "words": [
         {
@@ -1655,7 +1517,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 41,
       "trans": "And my agent is Gabriel Sarda at ASK.",
       "words": [
         {
@@ -1725,7 +1587,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 42,
       "trans": "Perfect! We start right away.",
       "words": [
         {
@@ -1779,7 +1641,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 43,
       "trans": "First the choreography, then your scene, okay?",
       "words": [
         {
@@ -1841,7 +1703,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 44,
       "trans": "Okay, whenever you want.",
       "words": [
         {
@@ -1879,7 +1741,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 45,
       "trans": "They want to fight with me?",
       "words": [
         {
@@ -1933,7 +1795,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 46,
       "trans": "I run faster than them!",
       "words": [
         {
@@ -1979,7 +1841,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 47,
       "trans": "Now I am here, now I am no longer here!",
       "words": [
         {
@@ -2065,7 +1927,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 48,
       "trans": "Do you see me landing like a heroine?",
       "words": [
         {
@@ -2127,7 +1989,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 49,
       "trans": "This is not at all what I had asked for.",
       "words": [
         {
@@ -2205,7 +2067,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 51,
       "trans": "See you tomorrow!",
       "words": [
         {
@@ -4199,168 +4061,6 @@
         }
       ]
     },
-    "inquiéter": {
-      "lemma": "inquiéter",
-      "stress": "ɛ̃kjete",
-      "pos": "verb",
-      "gloss": "to worry (someone)",
-      "meanings": [
-        {
-          "en": "to worry someone",
-          "note": "Ça m'inquiète = that worries me."
-        },
-        {
-          "en": "s'inquiéter = to be worried",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "j'inquiète",
-              "nous inquiétons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu inquiètes",
-              "vous inquiétez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle inquiète",
-              "ils/elles inquiètent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai inquiété",
-                "nous avons inquiété"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as inquiété",
-                "vous avez inquiété"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a inquiété",
-                "ils/elles ont inquiété"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'inquiétais",
-                "nous inquiétions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu inquiétais",
-                "vous inquiétiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle inquiétait",
-                "ils/elles inquiétaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'inquiéterai",
-                "nous inquiéterons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu inquiéteras",
-                "vous inquiéterez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle inquiétera",
-                "ils/elles inquiéteront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ça ne m'inquiète pas.",
-          "trans": "That doesn't worry me."
-        },
-        {
-          "text": "Tu m'inquiètes.",
-          "trans": "You're worrying me."
-        },
-        {
-          "text": "Pardon? Ça ne m'inquiète pas du tout.",
-          "trans": "Excuse me? That doesn't worry me at all."
-        }
-      ],
-      "related": [
-        {
-          "word": "ça m'inquiète",
-          "gloss": "that worries me"
-        }
-      ]
-    },
     "je": {
       "lemma": "je",
       "stress": "ʒə",
@@ -4654,67 +4354,6 @@
         {
           "word": "mon",
           "gloss": "my"
-        }
-      ]
-    },
-    "naturel": {
-      "lemma": "naturel",
-      "stress": "natyʁɛl",
-      "pos": "adj",
-      "gloss": "natural",
-      "meanings": [
-        {
-          "en": "natural, unforced",
-          "note": "French relational/descriptive adjective derived from Latin adjectival roots."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "naturel",
-              "naturelle"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "naturels",
-              "naturelles"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est simple et naturel.",
-          "trans": "It's simple and natural."
-        },
-        {
-          "text": "Elle est très naturelle.",
-          "trans": "She is very natural."
-        },
-        {
-          "text": "Ne t'inquiète pas, sois naturelle.",
-          "trans": "Don't worry, be natural."
-        }
-      ],
-      "related": [
-        {
-          "word": "naturellement",
-          "gloss": "naturally"
-        },
-        {
-          "word": "nature",
-          "gloss": "natural world"
         }
       ]
     },
