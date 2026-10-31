@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "porta-dos-fundos-s01e01-scene-01",
+  "scope": "One four-turn shortened Brazilian Portuguese taster from one official workplace sketch. No full-sketch transcription or original channel episode-number claim.",
+  "source": {
+    "officialVideo": "https://www.youtube.com/watch?v=TrUW7lVLGFQ",
+    "officialPage": "https://portadosfundos.com.br/videos/vem-pra-reuniao/",
+    "title": "VEM PRA REUNIÃO",
+    "officialChannel": "Porta dos Fundos",
+    "channelId": "UCEWHPFNilsT0IfQfutVzsag",
+    "releaseDate": "2026-01-05",
+    "releaseBefore20261101": true,
+    "privateOriginalPath": "/mnt/agent/pilot-source-discovery/sources/pt/porta-vem-pra-reuniao.mp4",
+    "sha256": "5b17eae9c8c1ff02f4d957e465e8411d37dad83a4b1a8b0e4dc567501eacd831",
+    "durationSeconds": 207,
+    "captionProvenance": "Native pt-orig automatic captions, not authored captions; retained complete with original numbering and source-relative timestamps after ffmpeg conversion.",
+    "retainedSrt": "sources/porta-dos-fundos/s01/e01.pt.srt",
+    "retainedSrtSha256": "508c8ea0a433f6c5796b16e9fb30fc64cc72527d9dc02fc765a4adf39fc17969",
+    "captionWindowSeconds": [
+      6.6,
+      16.92
+    ],
+    "captionWindowIsNotExactAcousticTiming": true
+  },
+  "originalAudioVerification": {
+    "owner": "/root/french_production",
+    "path": "/mnt/agent/narrator-runs/codex-seven-tasters/pt-source/opening-asr.json",
+    "sha256": "81134cf817022720e210750c38a2f16e7ba0cbe9dc51e24421d7f09c0a146425",
+    "actualLanguage": "pt",
+    "languageProbability": 0.9892578125,
+    "windowSeconds": [
+      6.4,
+      18.6
+    ],
+    "text": "Bora pra reunião?  Reunião?  É.  Ah, não, não vou estar nessa reunião não, mas valeu, obrigado, meu irmão.  Você não vai pra reunião?  Não, é porque é reunião de planejamento de marketing, eu sou do financeiro, então não tem porquê eu estar lá.",
+    "method": "Independent unprompted large original-audio transcription by production, no expected-text forcing. Author ran no ASR/model jobs.",
+    "humanListeningCertified": false,
+    "fullSketchTranscriptCertified": false
+  },
+  "speakerEvidence": {
+    "frames": "/mnt/agent/pilot-source-discovery/portuguese-pilot/opening-source-sheet.jpg",
+    "frameSheetSha256": "cf2b9aea1d241a3cbca62e7caf073f0cae758ff4c64d3f8ee824a20986c37197",
+    "roles": "Standing burgundy-shirt colleague invites; seated bearded navy-shirt employee declines and explains finance. Frames inspect the actual speakers; no actor-name guess is used.",
+    "privateReferenceChecks": [
+      {
+        "file": "/mnt/agent/narrator-runs/codex-seven-tasters/pt-source/colleague-reference-asr.json",
+        "sha256": "7a1d610a8de6871a40ca8dee22a711541559bbb91e14ef8359c45477c0e3f72c"
+      },
+      {
+        "file": "/mnt/agent/narrator-runs/codex-seven-tasters/pt-source/finance-reference-asr.json",
+        "sha256": "f777f70e0eee60b4d243c08c9b6f9eba9e7695e0d98d3fb0f5f36d6ccb452d81"
+      }
+    ]
+  },
+  "adaptations": [
+    "Omit the brief Reunião?/É echo before the refusal.",
+    "Keep one initial negative and reinforcing final negative; omit Ah, an extra repeated initial negative and the additional Obrigado, meu irmão after the retained informal thanks.",
+    "Keep the source confirmation question; omit the separate opening no before the answer.",
+    "Shorten marketing-planning meeting to marketing meeting; omit porque and the following explanation that the employee has no reason to attend. His department and stated objection remain unchanged.",
+    "Add Até logo only as a lesson farewell; it is not a source quotation."
+  ],
+  "teaching": "English-only narration; all Portuguese is in native roles. Four complete leading translations, one technical grammar explanation and a spoken content recap.",
+  "metadata": "17 reviewed heads; token-specific glosses and broad Brazilian IPA. The rhotic and unstressed-vowel realization can vary by region; no universal all-Brazil accent claim. Every verb has written present and completed-past forms; noun/determiner forms are supplied. Histories cite relevant Priberam entries; até remains uncertain rather than asserting one speculative root.",
+  "publication": "Editorial bundle requires independent peer review and production-generated speech/pronunciation/alignment QA. This source evidence does not grant audio eligibility or claim publication."
+}

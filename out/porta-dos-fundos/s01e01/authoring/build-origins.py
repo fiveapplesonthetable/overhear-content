@@ -1,0 +1,27 @@
+import json
+from pathlib import Path
+R=Path(__file__).resolve().parents[4]
+# Each account was checked against the relevant Priberam homograph, not mechanically copied from neighboring entries.
+D={
+'bora':('An informal shortening of embora, used to encourage someone to go or do something. Priberam treats this separately from the unrelated name of an Adriatic wind, which comes from Italian. The office invitation uses the Portuguese encouragement.', 'established'),
+'pra':('An informal reduced form of para. Priberam also records a Brazilian spelling pra for a contraction including the feminine article a. These are related current uses, not a claim that every spoken pra contains a separately intended article.', 'established'),
+'reunião':('Priberam analyses reunião as re- plus união. The modern noun names the act of gathering or a gathering of people; a workplace meeting is one application of that meaning. The plural changes to reuniões.', 'established'),
+'não':('The negative word continues Latin non. Priberam distinguishes the ordinary negative adverb from a noun meaning a refusal. This lesson uses negation, including its conversational repetition, rather than the countable noun.', 'established'),
+'ir':('The infinitive belongs to the Latin eo, ire family for going. Modern Portuguese ir has very different-looking inflected forms, so its conjugation is not a sequence of regular changes to the written infinitive. The scene uses vou and vai.', 'established'),
+'estar':('Priberam traces estar to Latin sto, stare, with meanings concerning standing, remaining or staying firm. Modern estar also expresses location and presence, including being at a meeting. Its history does not limit it to standing upright.', 'established'),
+'nessa':('A Portuguese contraction of em and essa, documented as such by Priberam. The combined written word carries both the location relation and the feminine singular demonstrative. It belongs with reunião in this sentence.', 'established'),
+'mas':('The contrasting conjunction comes from Latin magis, meaning more. Its modern use introduces a different or qualifying point. Priberam gives another entry for a same-spelled pronoun contraction; that is not the conjunction in mas valeu.', 'established'),
+'valer':('Valer continues Latin valeo, -ere, associated with strength, vigour or health. Its modern meanings include being worth something or being useful. The past form valeu has a conventional informal thank-you use in Brazil; here it thanks the colleague without accepting his invitation.', 'established'),
+'você':('A contraction of the older address expression vossa mercê. The present word addresses another person while taking third-person verb agreement. Its history as a form of address helps explain why você vai differs from a first-person statement with vou.', 'established'),
+'ser':('Priberam records Latin sedeo, -ere, meaning to sit, in the history of ser. This is not an explanation that every modern form comes regularly from a single written stem: the modern verb is irregular, including sou and é in this exchange.', 'established'),
+'de':('The preposition continues Latin de. It can express origin, membership or a relation between things. In de marketing it names the meeting’s subject; do combines de with the masculine article o in the employee’s department phrase.', 'established'),
+'marketing':('An English loanword, explicitly identified as English by Priberam. Portuguese uses it for the business activity and field. No claim about an earlier borrowing date or an unverified ancient root is needed to explain this recorded source.', 'established'),
+'eu':('The subject pronoun continues Latin ego. Priberam treats it separately from same-spelled learned word-building elements. The speaker uses the ordinary personal pronoun when identifying his own department.', 'established'),
+'financeiro':('Formed in Portuguese from finança and the ending -eiro. The adjective relates something to finance. In the office exchange, the masculine form stands for the finance department; that contextual shortening is not a claim that every use names a department.', 'established'),
+'até':('The deeper origin is disputed in the consulted entry. Priberam offers either a reconstructed Latin line involving *ad tenes and tenus, or Arabic hatta. Its wording is tentative, so neither route is presented as settled. The modern word marks an endpoint, including the anticipated next meeting in a farewell.', 'uncertain'),
+'logo':('The time adverb is traced to Latin locus, meaning place. Priberam treats it separately from the modern shortening of logótipo and other same-spelled learned elements. In até logo it refers to seeing someone again soon or later, not to a visual brand mark.', 'established')}
+E={k:{'etymology':text,'certainty':certainty,'sources':[{'title':'Dicionário Priberam da Língua Portuguesa: '+k,'url':'https://dicionario.priberam.org/'+k}]} for k,(text,certainty) in D.items()}
+E['pra']['notes']='Source spelling is preserved. Informal Brazilian pra is not silently expanded in the native dialogue.'
+E['até']['notes']='The asterisk marks a reconstructed historical form. The Latin and Arabic alternatives are hypotheses in the dictionary, not two established stages of one chain.'
+n=json.loads((R/'out/porta-dos-fundos/s01e01/scene-01.notes.json').read_text());assert set(n['lexicon'])==set(E)
+(R/'word-origins/pt-en.json').write_text(json.dumps({'schemaVersion':1,'pair':'pt-en','entries':E},ensure_ascii=False,indent=2)+'\n')
