@@ -3,8 +3,6 @@
   "id": "dix-pour-cent-s01e03-scene-02",
   "lines": [
     {
-      "seg": 1,
-      "trans": "I am the seagull.",
       "words": [
         {
           "t": "Je",
@@ -38,11 +36,11 @@
           "gloss": "seagull",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "trans": "I am the seagull.",
+      "seg": 1
     },
     {
-      "seg": 2,
-      "trans": "No, that's wrong.",
       "words": [
         {
           "t": "Non,",
@@ -68,11 +66,103 @@
           "gloss": "wrong, false",
           "gram": "masculine singular"
         }
-      ]
+      ],
+      "trans": "No, that's wrong.",
+      "seg": 2
     },
     {
-      "seg": 3,
-      "trans": "Mum?",
+      "words": [
+        {
+          "t": "Tchekhov,",
+          "lemma": "tchekhov",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chekhov",
+          "gram": "surname of the playwright"
+        },
+        {
+          "t": "La",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "feminine singular definite article"
+        },
+        {
+          "t": "Mouette,",
+          "lemma": "mouette",
+          "pos": "noun",
+          "stress": "mwɛt",
+          "gloss": "seagull",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "acte",
+          "lemma": "acte",
+          "pos": "noun",
+          "stress": "akt",
+          "gloss": "act (of a play)",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "quatre.",
+          "lemma": "quatre",
+          "pos": "num",
+          "stress": "katʁ",
+          "gloss": "four",
+          "gram": "cardinal number"
+        }
+      ],
+      "trans": "Chekhov, The Seagull, act four.",
+      "seg": 3
+    },
+    {
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "l'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "le",
+          "gloss": "it + have",
+          "gram": "elided le/la object + first person singular of avoir"
+        },
+        {
+          "t": "fait",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "done",
+          "gram": "past participle of faire"
+        },
+        {
+          "t": "au",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "o",
+          "gloss": "to the, until",
+          "gram": "contracted preposition (à + le)"
+        },
+        {
+          "t": "conservatoire.",
+          "lemma": "conservatoire",
+          "pos": "noun",
+          "stress": "kɔ̃sɛʁvatwaʁ",
+          "gloss": "drama school, conservatory",
+          "gram": "masculine singular"
+        }
+      ],
+      "trans": "I did it at drama school.",
+      "seg": 4
+    },
+    {
       "words": [
         {
           "t": "Maman?",
@@ -82,33 +172,11 @@
           "gloss": "Mum",
           "gram": "feminine singular; familiar form of mère"
         }
-      ]
+      ],
+      "trans": "Mum?",
+      "seg": 5
     },
     {
-      "seg": 4,
-      "trans": "Well, well!",
-      "words": [
-        {
-          "t": "Tiens,",
-          "lemma": "tenir",
-          "pos": "verb",
-          "stress": "tjɛ̃",
-          "gloss": "well",
-          "gram": "imperative of 'tenir' (to hold), used as an exclamation of surprise"
-        },
-        {
-          "t": "tiens!",
-          "lemma": "tenir",
-          "pos": "verb",
-          "stress": "tjɛ̃",
-          "gloss": "well",
-          "gram": "imperative of 'tenir' (to hold), used as an exclamation of surprise"
-        }
-      ]
-    },
-    {
-      "seg": 5,
-      "trans": "It's not easy to learn lines with all this noise.",
       "words": [
         {
           "t": "Ce",
@@ -198,11 +266,11 @@
           "gloss": "noise",
           "gram": "masculine singular"
         }
-      ]
+      ],
+      "trans": "It's not easy to learn lines with all this noise.",
+      "seg": 6
     },
     {
-      "seg": 6,
-      "trans": "Really work on it at home.",
       "words": [
         {
           "t": "Travaille-le",
@@ -236,257 +304,25 @@
           "gloss": "you",
           "gram": "stressed pronoun, 2nd person singular, informal"
         }
-      ]
+      ],
+      "trans": "Really work on it at home.",
+      "seg": 7
     },
     {
-      "seg": 7,
-      "trans": "Thanks, Mum.",
       "words": [
         {
-          "t": "Merci,",
+          "t": "Merci.",
           "lemma": "merci",
           "pos": "interj",
           "stress": "mɛʁsi",
           "gloss": "thanks",
           "gram": "interjection / exclamation ('merci')"
-        },
-        {
-          "t": "Maman.",
-          "lemma": "maman",
-          "pos": "noun",
-          "stress": "mamɑ̃",
-          "gloss": "Mum",
-          "gram": "feminine singular; familiar form of mère"
         }
-      ]
+      ],
+      "trans": "Thank you.",
+      "seg": 8
     },
     {
-      "seg": 8,
-      "trans": "Hello. Sorry, we were in a crisis meeting.",
-      "words": [
-        {
-          "t": "Bonjour.",
-          "lemma": "bonjour",
-          "pos": "interj",
-          "stress": "bɔ̃ʒuʁ",
-          "gloss": "good morning",
-          "gram": "greeting"
-        },
-        {
-          "t": "Désolé,",
-          "lemma": "désolé",
-          "pos": "adj",
-          "stress": "dezɔle",
-          "gloss": "sorry",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "était",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imparfait, 3rd person singular"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "prep",
-          "stress": "ɑ̃",
-          "gloss": "in",
-          "gram": "preposition before a place or state"
-        },
-        {
-          "t": "réunion",
-          "lemma": "réunion",
-          "pos": "noun",
-          "stress": "ʁeynjɔ̃",
-          "gloss": "meeting",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "crise.",
-          "lemma": "crise",
-          "pos": "noun",
-          "stress": "kʁiz",
-          "gloss": "crisis",
-          "gram": "feminine singular; 'réunion de crise' = crisis meeting"
-        }
-      ]
-    },
-    {
-      "seg": 9,
-      "trans": "A little hitch.",
-      "words": [
-        {
-          "t": "Un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "petit",
-          "lemma": "petit",
-          "pos": "adj",
-          "stress": "pəti",
-          "gloss": "little",
-          "gram": "masculine singular, before the noun"
-        },
-        {
-          "t": "accroc.",
-          "lemma": "accroc",
-          "pos": "noun",
-          "stress": "akʁo",
-          "gloss": "hitch, snag",
-          "gram": "masculine singular (final c is silent)"
-        }
-      ]
-    },
-    {
-      "seg": 10,
-      "trans": "A crisis or a hitch?",
-      "words": [
-        {
-          "t": "Une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "crise",
-          "lemma": "crise",
-          "pos": "noun",
-          "stress": "kʁiz",
-          "gloss": "crisis",
-          "gram": "feminine singular; 'réunion de crise' = crisis meeting"
-        },
-        {
-          "t": "ou",
-          "lemma": "ou",
-          "pos": "conj",
-          "stress": "u",
-          "gloss": "or",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "accroc?",
-          "lemma": "accroc",
-          "pos": "noun",
-          "stress": "akʁo",
-          "gloss": "hitch, snag",
-          "gram": "masculine singular (final c is silent)"
-        }
-      ]
-    },
-    {
-      "seg": 11,
-      "trans": "For Gabriel, even a disaster is just a hitch!",
-      "words": [
-        {
-          "t": "Pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "Gabriel,",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        },
-        {
-          "t": "même",
-          "lemma": "même",
-          "pos": "adv",
-          "stress": "mɛm",
-          "gloss": "even",
-          "gram": "adverb emphasising catastrophe"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "catastrophe,",
-          "lemma": "catastrophe",
-          "pos": "noun",
-          "stress": "katastʁɔf",
-          "gloss": "disaster",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "ce + est; ce loses its vowel before est"
-        },
-        {
-          "t": "juste",
-          "lemma": "juste",
-          "pos": "adv",
-          "stress": "ʒyst",
-          "gloss": "just",
-          "gram": "adverb, after the verb"
-        },
-        {
-          "t": "un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "accroc!",
-          "lemma": "accroc",
-          "pos": "noun",
-          "stress": "akʁo",
-          "gloss": "hitch, snag",
-          "gram": "masculine singular (final c is silent)"
-        }
-      ]
-    },
-    {
-      "seg": 12,
-      "trans": "Laura.",
       "words": [
         {
           "t": "Laura.",
@@ -496,11 +332,11 @@
           "gloss": "Laura (calling her daughter)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "trans": "Laura.",
+      "seg": 9
     },
     {
-      "seg": 13,
-      "trans": "Yes?",
       "words": [
         {
           "t": "Oui?",
@@ -510,11 +346,11 @@
           "gloss": "yes",
           "gram": "answer, repeated for emphasis"
         }
-      ]
+      ],
+      "trans": "Yes?",
+      "seg": 10
     },
     {
-      "seg": 14,
-      "trans": "Emmanuel, she must stand up straight.",
       "words": [
         {
           "t": "Emmanuel,",
@@ -564,11 +400,11 @@
           "gloss": "straight, upright",
           "gram": "feminine singular (agrees with 'elle')"
         }
-      ]
+      ],
+      "trans": "Emmanuel, she must stand up straight.",
+      "seg": 11
     },
     {
-      "seg": 15,
-      "trans": "It's Gabriel, Mum!",
       "words": [
         {
           "t": "Gabriel,",
@@ -586,25 +422,11 @@
           "gloss": "Mum",
           "gram": "feminine singular; familiar form of mère"
         }
-      ]
+      ],
+      "trans": "It's Gabriel, Mum!",
+      "seg": 12
     },
     {
-      "seg": 16,
-      "trans": "Gabriel, right.",
-      "words": [
-        {
-          "t": "Gabriel.",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
-      "seg": 18,
-      "trans": "I am the seagull.",
       "words": [
         {
           "t": "Je",
@@ -638,11 +460,11 @@
           "gloss": "seagull",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "trans": "I am the seagull.",
+      "seg": 14
     },
     {
-      "seg": 20,
-      "trans": "No, that's wrong.",
       "words": [
         {
           "t": "Non,",
@@ -668,11 +490,103 @@
           "gloss": "wrong, false",
           "gram": "masculine singular"
         }
-      ]
+      ],
+      "trans": "No, that's wrong.",
+      "seg": 16
     },
     {
-      "seg": 22,
-      "trans": "Mum?",
+      "words": [
+        {
+          "t": "Tchekhov,",
+          "lemma": "tchekhov",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chekhov",
+          "gram": "surname of the playwright"
+        },
+        {
+          "t": "La",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "feminine singular definite article"
+        },
+        {
+          "t": "Mouette,",
+          "lemma": "mouette",
+          "pos": "noun",
+          "stress": "mwɛt",
+          "gloss": "seagull",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "acte",
+          "lemma": "acte",
+          "pos": "noun",
+          "stress": "akt",
+          "gloss": "act (of a play)",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "quatre.",
+          "lemma": "quatre",
+          "pos": "num",
+          "stress": "katʁ",
+          "gloss": "four",
+          "gram": "cardinal number"
+        }
+      ],
+      "trans": "Chekhov, The Seagull, act four.",
+      "seg": 18
+    },
+    {
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "l'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "le",
+          "gloss": "it + have",
+          "gram": "elided le/la object + first person singular of avoir"
+        },
+        {
+          "t": "fait",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "done",
+          "gram": "past participle of faire"
+        },
+        {
+          "t": "au",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "o",
+          "gloss": "to the, until",
+          "gram": "contracted preposition (à + le)"
+        },
+        {
+          "t": "conservatoire.",
+          "lemma": "conservatoire",
+          "pos": "noun",
+          "stress": "kɔ̃sɛʁvatwaʁ",
+          "gloss": "drama school, conservatory",
+          "gram": "masculine singular"
+        }
+      ],
+      "trans": "I did it at drama school.",
+      "seg": 20
+    },
+    {
       "words": [
         {
           "t": "Maman?",
@@ -682,33 +596,11 @@
           "gloss": "Mum",
           "gram": "feminine singular; familiar form of mère"
         }
-      ]
+      ],
+      "trans": "Mum?",
+      "seg": 22
     },
     {
-      "seg": 24,
-      "trans": "Well, well!",
-      "words": [
-        {
-          "t": "Tiens,",
-          "lemma": "tenir",
-          "pos": "verb",
-          "stress": "tjɛ̃",
-          "gloss": "well",
-          "gram": "imperative of 'tenir' (to hold), used as an exclamation of surprise"
-        },
-        {
-          "t": "tiens!",
-          "lemma": "tenir",
-          "pos": "verb",
-          "stress": "tjɛ̃",
-          "gloss": "well",
-          "gram": "imperative of 'tenir' (to hold), used as an exclamation of surprise"
-        }
-      ]
-    },
-    {
-      "seg": 26,
-      "trans": "It's not easy to learn lines with all this noise.",
       "words": [
         {
           "t": "Ce",
@@ -798,11 +690,11 @@
           "gloss": "noise",
           "gram": "masculine singular"
         }
-      ]
+      ],
+      "trans": "It's not easy to learn lines with all this noise.",
+      "seg": 24
     },
     {
-      "seg": 28,
-      "trans": "Really work on it at home.",
       "words": [
         {
           "t": "Travaille-le",
@@ -836,249 +728,25 @@
           "gloss": "you",
           "gram": "stressed pronoun, 2nd person singular, informal"
         }
-      ]
+      ],
+      "trans": "Really work on it at home.",
+      "seg": 26
     },
     {
-      "seg": 30,
-      "trans": "Thanks, Mum.",
       "words": [
         {
-          "t": "Merci,",
+          "t": "Merci.",
           "lemma": "merci",
           "pos": "interj",
           "stress": "mɛʁsi",
           "gloss": "thanks",
           "gram": "interjection / exclamation ('merci')"
-        },
-        {
-          "t": "Maman.",
-          "lemma": "maman",
-          "pos": "noun",
-          "stress": "mamɑ̃",
-          "gloss": "Mum",
-          "gram": "feminine singular; familiar form of mère"
         }
-      ]
+      ],
+      "trans": "Thank you.",
+      "seg": 28
     },
     {
-      "seg": 32,
-      "trans": "Sorry, we were in a crisis meeting.",
-      "words": [
-        {
-          "t": "Désolé,",
-          "lemma": "désolé",
-          "pos": "adj",
-          "stress": "dezɔle",
-          "gloss": "sorry",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "était",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imparfait, 3rd person singular"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "prep",
-          "stress": "ɑ̃",
-          "gloss": "in",
-          "gram": "preposition before a place or state"
-        },
-        {
-          "t": "réunion",
-          "lemma": "réunion",
-          "pos": "noun",
-          "stress": "ʁeynjɔ̃",
-          "gloss": "meeting",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "crise.",
-          "lemma": "crise",
-          "pos": "noun",
-          "stress": "kʁiz",
-          "gloss": "crisis",
-          "gram": "feminine singular; 'réunion de crise' = crisis meeting"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "A little hitch.",
-      "words": [
-        {
-          "t": "Un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "petit",
-          "lemma": "petit",
-          "pos": "adj",
-          "stress": "pəti",
-          "gloss": "little",
-          "gram": "masculine singular, before the noun"
-        },
-        {
-          "t": "accroc.",
-          "lemma": "accroc",
-          "pos": "noun",
-          "stress": "akʁo",
-          "gloss": "hitch, snag",
-          "gram": "masculine singular (final c is silent)"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "A crisis or a hitch?",
-      "words": [
-        {
-          "t": "Une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "crise",
-          "lemma": "crise",
-          "pos": "noun",
-          "stress": "kʁiz",
-          "gloss": "crisis",
-          "gram": "feminine singular; 'réunion de crise' = crisis meeting"
-        },
-        {
-          "t": "ou",
-          "lemma": "ou",
-          "pos": "conj",
-          "stress": "u",
-          "gloss": "or",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "accroc?",
-          "lemma": "accroc",
-          "pos": "noun",
-          "stress": "akʁo",
-          "gloss": "hitch, snag",
-          "gram": "masculine singular (final c is silent)"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "For Gabriel, even a disaster is just a hitch!",
-      "words": [
-        {
-          "t": "Pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "Gabriel,",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        },
-        {
-          "t": "même",
-          "lemma": "même",
-          "pos": "adv",
-          "stress": "mɛm",
-          "gloss": "even",
-          "gram": "adverb emphasising catastrophe"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "catastrophe,",
-          "lemma": "catastrophe",
-          "pos": "noun",
-          "stress": "katastʁɔf",
-          "gloss": "disaster",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "ce + est; ce loses its vowel before est"
-        },
-        {
-          "t": "juste",
-          "lemma": "juste",
-          "pos": "adv",
-          "stress": "ʒyst",
-          "gloss": "just",
-          "gram": "adverb, after the verb"
-        },
-        {
-          "t": "un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "accroc!",
-          "lemma": "accroc",
-          "pos": "noun",
-          "stress": "akʁo",
-          "gloss": "hitch, snag",
-          "gram": "masculine singular (final c is silent)"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "Laura.",
       "words": [
         {
           "t": "Laura.",
@@ -1088,11 +756,11 @@
           "gloss": "Laura (calling her daughter)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "trans": "Laura.",
+      "seg": 30
     },
     {
-      "seg": 42,
-      "trans": "Yes?",
       "words": [
         {
           "t": "Oui?",
@@ -1102,11 +770,11 @@
           "gloss": "yes",
           "gram": "answer, repeated for emphasis"
         }
-      ]
+      ],
+      "trans": "Yes?",
+      "seg": 32
     },
     {
-      "seg": 44,
-      "trans": "Emmanuel, she must stand up straight.",
       "words": [
         {
           "t": "Emmanuel,",
@@ -1156,11 +824,11 @@
           "gloss": "straight, upright",
           "gram": "feminine singular (agrees with 'elle')"
         }
-      ]
+      ],
+      "trans": "Emmanuel, she must stand up straight.",
+      "seg": 34
     },
     {
-      "seg": 46,
-      "trans": "It's Gabriel, Mum!",
       "words": [
         {
           "t": "Gabriel,",
@@ -1178,25 +846,11 @@
           "gloss": "Mum",
           "gram": "feminine singular; familiar form of mère"
         }
-      ]
+      ],
+      "trans": "It's Gabriel, Mum!",
+      "seg": 36
     },
     {
-      "seg": 48,
-      "trans": "Gabriel, right.",
-      "words": [
-        {
-          "t": "Gabriel.",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
-      "seg": 50,
-      "trans": "I am the seagull.",
       "words": [
         {
           "t": "Je",
@@ -1230,572 +884,398 @@
           "gloss": "seagull",
           "gram": "feminine singular"
         }
-      ]
+      ],
+      "trans": "I am the seagull.",
+      "seg": 38
+    },
+    {
+      "words": [
+        {
+          "t": "Non,",
+          "lemma": "non",
+          "pos": "adv",
+          "stress": "nɔ̃",
+          "gloss": "no",
+          "gram": "negative answer"
+        },
+        {
+          "t": "c'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is",
+          "gram": "ce + est; ce loses its vowel before est"
+        },
+        {
+          "t": "faux.",
+          "lemma": "faux",
+          "pos": "adj",
+          "stress": "fo",
+          "gloss": "wrong, false",
+          "gram": "masculine singular"
+        }
+      ],
+      "trans": "No, that's wrong.",
+      "seg": 39
+    },
+    {
+      "words": [
+        {
+          "t": "Tchekhov,",
+          "lemma": "tchekhov",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chekhov",
+          "gram": "surname of the playwright"
+        },
+        {
+          "t": "La",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "feminine singular definite article"
+        },
+        {
+          "t": "Mouette,",
+          "lemma": "mouette",
+          "pos": "noun",
+          "stress": "mwɛt",
+          "gloss": "seagull",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "acte",
+          "lemma": "acte",
+          "pos": "noun",
+          "stress": "akt",
+          "gloss": "act (of a play)",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "quatre.",
+          "lemma": "quatre",
+          "pos": "num",
+          "stress": "katʁ",
+          "gloss": "four",
+          "gram": "cardinal number"
+        }
+      ],
+      "trans": "Chekhov, The Seagull, act four.",
+      "seg": 40
+    },
+    {
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "l'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "le",
+          "gloss": "it + have",
+          "gram": "elided le/la object + first person singular of avoir"
+        },
+        {
+          "t": "fait",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "done",
+          "gram": "past participle of faire"
+        },
+        {
+          "t": "au",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "o",
+          "gloss": "to the, until",
+          "gram": "contracted preposition (à + le)"
+        },
+        {
+          "t": "conservatoire.",
+          "lemma": "conservatoire",
+          "pos": "noun",
+          "stress": "kɔ̃sɛʁvatwaʁ",
+          "gloss": "drama school, conservatory",
+          "gram": "masculine singular"
+        }
+      ],
+      "trans": "I did it at drama school.",
+      "seg": 41
+    },
+    {
+      "words": [
+        {
+          "t": "Maman?",
+          "lemma": "maman",
+          "pos": "noun",
+          "stress": "mamɑ̃",
+          "gloss": "Mum",
+          "gram": "feminine singular; familiar form of mère"
+        }
+      ],
+      "trans": "Mum?",
+      "seg": 42
+    },
+    {
+      "words": [
+        {
+          "t": "Ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "demonstrative: this or that"
+        },
+        {
+          "t": "n'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "nɛ",
+          "gloss": "is not",
+          "gram": "ne (not) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "part",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
+        },
+        {
+          "t": "facile",
+          "lemma": "facile",
+          "pos": "adj",
+          "stress": "fasil",
+          "gloss": "easy",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "d'apprendre",
+          "lemma": "apprendre",
+          "pos": "verb",
+          "stress": "dapʁɑ̃dʁ",
+          "gloss": "to learn",
+          "gram": "de (elided d', to) + apprendre (infinitive): 'facile de + infinitive'"
+        },
+        {
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "texte",
+          "lemma": "texte",
+          "pos": "noun",
+          "stress": "tɛkst",
+          "gloss": "text, lines",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition ('avec', meaning 'with')"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "masculine singular determiner"
+        },
+        {
+          "t": "ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "demonstrative: this or that"
+        },
+        {
+          "t": "bruit.",
+          "lemma": "bruit",
+          "pos": "noun",
+          "stress": "bʁɥi",
+          "gloss": "noise",
+          "gram": "masculine singular"
+        }
+      ],
+      "trans": "It's not easy to learn lines with all this noise.",
+      "seg": 43
+    },
+    {
+      "words": [
+        {
+          "t": "Travaille-le",
+          "lemma": "travailler",
+          "pos": "verb",
+          "stress": "tʁavajlə",
+          "gloss": "work on it",
+          "gram": "imperative, 2nd person singular (tu) + le (it), joined by a hyphen"
+        },
+        {
+          "t": "vraiment",
+          "lemma": "vraiment",
+          "pos": "adv",
+          "stress": "vʁɛmɑ̃",
+          "gloss": "really",
+          "gram": "invariable adverb ('vraiment', meaning 'really')"
+        },
+        {
+          "t": "chez",
+          "lemma": "chez",
+          "pos": "prep",
+          "stress": "ʃe",
+          "gloss": "at",
+          "gram": "chez toi: at your place, at home"
+        },
+        {
+          "t": "toi.",
+          "lemma": "toi",
+          "pos": "pron",
+          "stress": "twa",
+          "gloss": "you",
+          "gram": "stressed pronoun, 2nd person singular, informal"
+        }
+      ],
+      "trans": "Really work on it at home.",
+      "seg": 44
+    },
+    {
+      "words": [
+        {
+          "t": "Merci.",
+          "lemma": "merci",
+          "pos": "interj",
+          "stress": "mɛʁsi",
+          "gloss": "thanks",
+          "gram": "interjection / exclamation ('merci')"
+        }
+      ],
+      "trans": "Thank you.",
+      "seg": 45
+    },
+    {
+      "words": [
+        {
+          "t": "Laura.",
+          "lemma": "laura",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Laura (calling her daughter)",
+          "gram": "proper name"
+        }
+      ],
+      "trans": "Laura.",
+      "seg": 46
+    },
+    {
+      "words": [
+        {
+          "t": "Oui?",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        }
+      ],
+      "trans": "Yes?",
+      "seg": 47
+    },
+    {
+      "words": [
+        {
+          "t": "Emmanuel,",
+          "lemma": "emmanuel",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Emmanuel (wrong first name for Gabriel)",
+          "gram": "proper name"
+        },
+        {
+          "t": "elle",
+          "lemma": "elle",
+          "pos": "pron",
+          "stress": "ɛl",
+          "gloss": "she",
+          "gram": "subject pronoun referring to Laura"
+        },
+        {
+          "t": "doit",
+          "lemma": "devoir",
+          "pos": "verb",
+          "stress": "dwa",
+          "gloss": "must, has to",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "se",
+          "lemma": "se",
+          "pos": "pron",
+          "stress": "sə",
+          "gloss": "(reflexive)",
+          "gram": "reflexive pronoun, part of se passer"
+        },
+        {
+          "t": "tenir",
+          "lemma": "tenir",
+          "pos": "verb",
+          "stress": "təniʁ",
+          "gloss": "hold, keep",
+          "gram": "infinitive; 'se tenir droite' = to stand up straight"
+        },
+        {
+          "t": "droite.",
+          "lemma": "droit",
+          "pos": "adj",
+          "stress": "dʁwat",
+          "gloss": "straight, upright",
+          "gram": "feminine singular (agrees with 'elle')"
+        }
+      ],
+      "trans": "Emmanuel, she must stand up straight.",
+      "seg": 48
+    },
+    {
+      "words": [
+        {
+          "t": "Gabriel,",
+          "lemma": "gabriel",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
+        },
+        {
+          "t": "Maman!",
+          "lemma": "maman",
+          "pos": "noun",
+          "stress": "mamɑ̃",
+          "gloss": "Mum",
+          "gram": "feminine singular; familiar form of mère"
+        }
+      ],
+      "trans": "It's Gabriel, Mum!",
+      "seg": 49
     },
     {
       "seg": 51,
-      "trans": "No, that's wrong.",
-      "words": [
-        {
-          "t": "Non,",
-          "lemma": "non",
-          "pos": "adv",
-          "stress": "nɔ̃",
-          "gloss": "no",
-          "gram": "negative answer"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "ce + est; ce loses its vowel before est"
-        },
-        {
-          "t": "faux.",
-          "lemma": "faux",
-          "pos": "adj",
-          "stress": "fo",
-          "gloss": "wrong, false",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 52,
-      "trans": "Mum?",
-      "words": [
-        {
-          "t": "Maman?",
-          "lemma": "maman",
-          "pos": "noun",
-          "stress": "mamɑ̃",
-          "gloss": "Mum",
-          "gram": "feminine singular; familiar form of mère"
-        }
-      ]
-    },
-    {
-      "seg": 53,
-      "trans": "Well, well!",
-      "words": [
-        {
-          "t": "Tiens,",
-          "lemma": "tenir",
-          "pos": "verb",
-          "stress": "tjɛ̃",
-          "gloss": "well",
-          "gram": "imperative of 'tenir' (to hold), used as an exclamation of surprise"
-        },
-        {
-          "t": "tiens!",
-          "lemma": "tenir",
-          "pos": "verb",
-          "stress": "tjɛ̃",
-          "gloss": "well",
-          "gram": "imperative of 'tenir' (to hold), used as an exclamation of surprise"
-        }
-      ]
-    },
-    {
-      "seg": 54,
-      "trans": "It's not easy to learn lines with all this noise.",
-      "words": [
-        {
-          "t": "Ce",
-          "lemma": "ce",
-          "pos": "det",
-          "stress": "sə",
-          "gloss": "this",
-          "gram": "demonstrative: this or that"
-        },
-        {
-          "t": "n'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "nɛ",
-          "gloss": "is not",
-          "gram": "ne (not) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "facile",
-          "lemma": "facile",
-          "pos": "adj",
-          "stress": "fasil",
-          "gloss": "easy",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "d'apprendre",
-          "lemma": "apprendre",
-          "pos": "verb",
-          "stress": "dapʁɑ̃dʁ",
-          "gloss": "to learn",
-          "gram": "de (elided d', to) + apprendre (infinitive): 'facile de + infinitive'"
-        },
-        {
-          "t": "un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "texte",
-          "lemma": "texte",
-          "pos": "noun",
-          "stress": "tɛkst",
-          "gloss": "text, lines",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "avec",
-          "lemma": "avec",
-          "pos": "prep",
-          "stress": "avɛk",
-          "gloss": "with",
-          "gram": "preposition ('avec', meaning 'with')"
-        },
-        {
-          "t": "tout",
-          "lemma": "tout",
-          "pos": "det",
-          "stress": "tu",
-          "gloss": "all",
-          "gram": "masculine singular determiner"
-        },
-        {
-          "t": "ce",
-          "lemma": "ce",
-          "pos": "det",
-          "stress": "sə",
-          "gloss": "this",
-          "gram": "demonstrative: this or that"
-        },
-        {
-          "t": "bruit.",
-          "lemma": "bruit",
-          "pos": "noun",
-          "stress": "bʁɥi",
-          "gloss": "noise",
-          "gram": "masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 55,
-      "trans": "Really work on it at home.",
-      "words": [
-        {
-          "t": "Travaille-le",
-          "lemma": "travailler",
-          "pos": "verb",
-          "stress": "tʁavajlə",
-          "gloss": "work on it",
-          "gram": "imperative, 2nd person singular (tu) + le (it), joined by a hyphen"
-        },
-        {
-          "t": "vraiment",
-          "lemma": "vraiment",
-          "pos": "adv",
-          "stress": "vʁɛmɑ̃",
-          "gloss": "really",
-          "gram": "invariable adverb ('vraiment', meaning 'really')"
-        },
-        {
-          "t": "chez",
-          "lemma": "chez",
-          "pos": "prep",
-          "stress": "ʃe",
-          "gloss": "at",
-          "gram": "chez toi: at your place, at home"
-        },
-        {
-          "t": "toi.",
-          "lemma": "toi",
-          "pos": "pron",
-          "stress": "twa",
-          "gloss": "you",
-          "gram": "stressed pronoun, 2nd person singular, informal"
-        }
-      ]
-    },
-    {
-      "seg": 56,
-      "trans": "Thanks, Mum.",
-      "words": [
-        {
-          "t": "Merci,",
-          "lemma": "merci",
-          "pos": "interj",
-          "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
-        },
-        {
-          "t": "Maman.",
-          "lemma": "maman",
-          "pos": "noun",
-          "stress": "mamɑ̃",
-          "gloss": "Mum",
-          "gram": "feminine singular; familiar form of mère"
-        }
-      ]
-    },
-    {
-      "seg": 57,
-      "trans": "Hello. Sorry, we were in a crisis meeting.",
-      "words": [
-        {
-          "t": "Bonjour.",
-          "lemma": "bonjour",
-          "pos": "interj",
-          "stress": "bɔ̃ʒuʁ",
-          "gloss": "good morning",
-          "gram": "greeting"
-        },
-        {
-          "t": "Désolé,",
-          "lemma": "désolé",
-          "pos": "adj",
-          "stress": "dezɔle",
-          "gloss": "sorry",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
-        },
-        {
-          "t": "était",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imparfait, 3rd person singular"
-        },
-        {
-          "t": "en",
-          "lemma": "en",
-          "pos": "prep",
-          "stress": "ɑ̃",
-          "gloss": "in",
-          "gram": "preposition before a place or state"
-        },
-        {
-          "t": "réunion",
-          "lemma": "réunion",
-          "pos": "noun",
-          "stress": "ʁeynjɔ̃",
-          "gloss": "meeting",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "crise.",
-          "lemma": "crise",
-          "pos": "noun",
-          "stress": "kʁiz",
-          "gloss": "crisis",
-          "gram": "feminine singular; 'réunion de crise' = crisis meeting"
-        }
-      ]
-    },
-    {
-      "seg": 58,
-      "trans": "A little hitch.",
-      "words": [
-        {
-          "t": "Un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "petit",
-          "lemma": "petit",
-          "pos": "adj",
-          "stress": "pəti",
-          "gloss": "little",
-          "gram": "masculine singular, before the noun"
-        },
-        {
-          "t": "accroc.",
-          "lemma": "accroc",
-          "pos": "noun",
-          "stress": "akʁo",
-          "gloss": "hitch, snag",
-          "gram": "masculine singular (final c is silent)"
-        }
-      ]
-    },
-    {
-      "seg": 59,
-      "trans": "A crisis or a hitch?",
-      "words": [
-        {
-          "t": "Une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "crise",
-          "lemma": "crise",
-          "pos": "noun",
-          "stress": "kʁiz",
-          "gloss": "crisis",
-          "gram": "feminine singular; 'réunion de crise' = crisis meeting"
-        },
-        {
-          "t": "ou",
-          "lemma": "ou",
-          "pos": "conj",
-          "stress": "u",
-          "gloss": "or",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "accroc?",
-          "lemma": "accroc",
-          "pos": "noun",
-          "stress": "akʁo",
-          "gloss": "hitch, snag",
-          "gram": "masculine singular (final c is silent)"
-        }
-      ]
-    },
-    {
-      "seg": 60,
-      "trans": "For Gabriel, even a disaster is just a hitch!",
-      "words": [
-        {
-          "t": "Pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "Gabriel,",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        },
-        {
-          "t": "même",
-          "lemma": "même",
-          "pos": "adv",
-          "stress": "mɛm",
-          "gloss": "even",
-          "gram": "adverb emphasising catastrophe"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "catastrophe,",
-          "lemma": "catastrophe",
-          "pos": "noun",
-          "stress": "katastʁɔf",
-          "gloss": "disaster",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "ce + est; ce loses its vowel before est"
-        },
-        {
-          "t": "juste",
-          "lemma": "juste",
-          "pos": "adv",
-          "stress": "ʒyst",
-          "gloss": "just",
-          "gram": "adverb, after the verb"
-        },
-        {
-          "t": "un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "accroc!",
-          "lemma": "accroc",
-          "pos": "noun",
-          "stress": "akʁo",
-          "gloss": "hitch, snag",
-          "gram": "masculine singular (final c is silent)"
-        }
-      ]
-    },
-    {
-      "seg": 61,
-      "trans": "Laura.",
-      "words": [
-        {
-          "t": "Laura.",
-          "lemma": "laura",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Laura (calling her daughter)",
-          "gram": "proper name"
-        }
-      ]
-    },
-    {
-      "seg": 62,
-      "trans": "Yes?",
-      "words": [
-        {
-          "t": "Oui?",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        }
-      ]
-    },
-    {
-      "seg": 63,
-      "trans": "Emmanuel, she must stand up straight.",
-      "words": [
-        {
-          "t": "Emmanuel,",
-          "lemma": "emmanuel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Emmanuel (wrong first name for Gabriel)",
-          "gram": "proper name"
-        },
-        {
-          "t": "elle",
-          "lemma": "elle",
-          "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject pronoun referring to Laura"
-        },
-        {
-          "t": "doit",
-          "lemma": "devoir",
-          "pos": "verb",
-          "stress": "dwa",
-          "gloss": "must, has to",
-          "gram": "present, 3rd person singular"
-        },
-        {
-          "t": "se",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "reflexive pronoun, part of se passer"
-        },
-        {
-          "t": "tenir",
-          "lemma": "tenir",
-          "pos": "verb",
-          "stress": "təniʁ",
-          "gloss": "hold, keep",
-          "gram": "infinitive; 'se tenir droite' = to stand up straight"
-        },
-        {
-          "t": "droite.",
-          "lemma": "droit",
-          "pos": "adj",
-          "stress": "dʁwat",
-          "gloss": "straight, upright",
-          "gram": "feminine singular (agrees with 'elle')"
-        }
-      ]
-    },
-    {
-      "seg": 64,
-      "trans": "It's Gabriel, Mum!",
-      "words": [
-        {
-          "t": "Gabriel,",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        },
-        {
-          "t": "Maman!",
-          "lemma": "maman",
-          "pos": "noun",
-          "stress": "mamɑ̃",
-          "gloss": "Mum",
-          "gram": "feminine singular; familiar form of mère"
-        }
-      ]
-    },
-    {
-      "seg": 65,
-      "trans": "Gabriel, right.",
-      "words": [
-        {
-          "t": "Gabriel.",
-          "lemma": "gabriel",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Gabriel (her agent)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
-      "seg": 67,
       "trans": "Goodbye!",
       "words": [
         {
@@ -1818,58 +1298,6 @@
     }
   ],
   "lexicon": {
-    "accroc": {
-      "lemma": "accroc",
-      "stress": "akʁo",
-      "pos": "noun",
-      "gloss": "hitch, snag",
-      "gender": "m",
-      "plural": "accrocs",
-      "meanings": [
-        {
-          "en": "hitch, small problem",
-          "note": "The final c is silent."
-        },
-        {
-          "en": "tear, rip (in fabric)",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'accroc",
-              "les accrocs"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Un petit accroc.",
-          "trans": "A little hitch."
-        },
-        {
-          "text": "Tout s'est passé sans accroc.",
-          "trans": "Everything went without a hitch."
-        }
-      ],
-      "related": [
-        {
-          "word": "un accroc / des accrocs",
-          "gloss": "a hitch / hitchs"
-        }
-      ]
-    },
     "apprendre": {
       "lemma": "apprendre",
       "stress": "apʁɑ̃dʁ",
@@ -2062,36 +1490,6 @@
         }
       ]
     },
-    "bonjour": {
-      "lemma": "bonjour",
-      "stress": "bɔ̃ʒuʁ",
-      "pos": "interj",
-      "gloss": "hello, good morning",
-      "meanings": [
-        {
-          "en": "hello, good morning, good afternoon",
-          "note": "the standard greeting until evening"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bonjour, Camille.",
-          "trans": "Hello, Camille."
-        },
-        {
-          "text": "Bonjour tout le monde!",
-          "trans": "Hello everyone!"
-        }
-      ],
-      "related": [
-        {
-          "word": "bonjour",
-          "gloss": "hello"
-        }
-      ]
-    },
     "bruit": {
       "lemma": "bruit",
       "stress": "bʁɥi",
@@ -2137,54 +1535,6 @@
         {
           "word": "faire du bruit",
           "gloss": "to make noise"
-        }
-      ]
-    },
-    "catastrophe": {
-      "lemma": "catastrophe",
-      "stress": "katastʁɔf",
-      "pos": "noun",
-      "gloss": "disaster, catastrophe",
-      "gender": "f",
-      "plural": "catastrophes",
-      "meanings": [
-        {
-          "en": "disaster, catastrophe",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la catastrophe",
-              "les catastrophes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Même une catastrophe, c'est juste un accroc!",
-          "trans": "Even a disaster is just a hitch!"
-        },
-        {
-          "text": "Quelle catastrophe!",
-          "trans": "What a disaster!"
-        }
-      ],
-      "related": [
-        {
-          "word": "catastrophique",
-          "gloss": "disastrous"
         }
       ]
     },
@@ -2276,100 +1626,6 @@
         {
           "word": "chez",
           "gloss": "at"
-        }
-      ]
-    },
-    "crise": {
-      "lemma": "crise",
-      "stress": "kʁiz",
-      "pos": "noun",
-      "gloss": "crisis",
-      "gender": "f",
-      "plural": "crises",
-      "meanings": [
-        {
-          "en": "crisis",
-          "note": "Réunion de crise = crisis meeting."
-        },
-        {
-          "en": "outburst, fit",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la crise",
-              "les crises"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "On était en réunion de crise.",
-          "trans": "We were in a crisis meeting."
-        },
-        {
-          "text": "Une crise ou un accroc?",
-          "trans": "A crisis or a hitch?"
-        }
-      ],
-      "related": [
-        {
-          "word": "réunion de crise",
-          "gloss": "crisis meeting"
-        }
-      ]
-    },
-    "de": {
-      "lemma": "de",
-      "stress": "də",
-      "pos": "prep",
-      "gloss": "of, from; some",
-      "meanings": [
-        {
-          "en": "of, from",
-          "note": "D' before a vowel."
-        },
-        {
-          "en": "'s (possession)",
-          "note": "le film de Tarantino = Tarantino's film"
-        },
-        {
-          "en": "du = de + le",
-          "note": "Also 'some': du sucre."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le film de Kechiche.",
-          "trans": "The Kechiche film."
-        },
-        {
-          "text": "C'est du sucre.",
-          "trans": "It's sugar."
-        }
-      ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "de + le"
-        },
-        {
-          "word": "des",
-          "gloss": "de + les"
         }
       ]
     },
@@ -2596,63 +1852,6 @@
         }
       ]
     },
-    "désolé": {
-      "lemma": "désolé",
-      "stress": "dezɔle",
-      "pos": "adj",
-      "gloss": "sorry",
-      "meanings": [
-        {
-          "en": "sorry",
-          "note": "je suis désolé(e) = I'm sorry; désolé! alone also works"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "désolé",
-              "désolée"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "désolés",
-              "désolées"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je suis désolée.",
-          "trans": "I'm sorry. (a woman speaking)"
-        },
-        {
-          "text": "Désolé, c'est tout.",
-          "trans": "Sorry, that's all. (a man speaking)"
-        }
-      ],
-      "related": [
-        {
-          "word": "désoler",
-          "gloss": "to distress, sadden"
-        },
-        {
-          "word": "pardon",
-          "gloss": "forgiveness, sorry"
-        }
-      ]
-    },
     "elle": {
       "lemma": "elle",
       "stress": "ɛl",
@@ -2684,36 +1883,6 @@
         {
           "word": "elle",
           "gloss": "she"
-        }
-      ]
-    },
-    "en": {
-      "lemma": "en",
-      "stress": "ɑ̃",
-      "pos": "prep",
-      "gloss": "in",
-      "meanings": [
-        {
-          "en": "in",
-          "note": "en retard = late, en vacances = on holiday"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je suis en retard.",
-          "trans": "I'm late."
-        },
-        {
-          "text": "Tu es en vacances?",
-          "trans": "Are you on holiday?"
-        }
-      ],
-      "related": [
-        {
-          "word": "en retard",
-          "gloss": "late, en vacances = on holiday"
         }
       ]
     },
@@ -2858,40 +2027,6 @@
         {
           "word": "je",
           "gloss": "I"
-        }
-      ]
-    },
-    "juste": {
-      "lemma": "juste",
-      "stress": "ʒyst",
-      "pos": "adv",
-      "gloss": "just, only",
-      "meanings": [
-        {
-          "en": "just, only",
-          "note": "Adverb: je veux juste."
-        },
-        {
-          "en": "fair, right",
-          "note": "Adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je veux juste voir Mathias.",
-          "trans": "I just want to see Mathias."
-        },
-        {
-          "text": "J'ai juste besoin d'un cours.",
-          "trans": "I just need a lesson."
-        }
-      ],
-      "related": [
-        {
-          "word": "justement",
-          "gloss": "just now"
         }
       ]
     },
@@ -3074,67 +2209,6 @@
         }
       ]
     },
-    "même": {
-      "lemma": "même",
-      "stress": "mɛm",
-      "pos": "adv",
-      "gloss": "same",
-      "meanings": [
-        {
-          "en": "same",
-          "note": "Before the noun: le même lifting."
-        },
-        {
-          "en": "even",
-          "note": "as an adverb: même Andréa = even Andréa"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "même",
-              "même"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "mêmes",
-              "mêmes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Elles ont le même lifting.",
-          "trans": "They have the same facelift."
-        },
-        {
-          "text": "C'est la même chose.",
-          "trans": "It's the same thing."
-        }
-      ],
-      "related": [
-        {
-          "word": "très même",
-          "gloss": "very same"
-        },
-        {
-          "word": "plus même",
-          "gloss": "more same"
-        }
-      ]
-    },
     "non": {
       "lemma": "non",
       "stress": "nɔ̃",
@@ -3170,70 +2244,6 @@
         {
           "word": "non plus",
           "gloss": "neither, either"
-        }
-      ]
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɔ̃",
-      "pos": "pron",
-      "gloss": "we; one, people",
-      "meanings": [
-        {
-          "en": "we",
-          "note": "everyday speech, with a he/she verb form"
-        },
-        {
-          "en": "one, people",
-          "note": "General."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "On est au Westin.",
-          "trans": "We're at the Westin."
-        },
-        {
-          "text": "On attend l'appel.",
-          "trans": "We're waiting for the call."
-        }
-      ],
-      "related": [
-        {
-          "word": "on",
-          "gloss": "we"
-        }
-      ]
-    },
-    "ou": {
-      "lemma": "ou",
-      "stress": "u",
-      "pos": "conj",
-      "gloss": "or",
-      "meanings": [
-        {
-          "en": "or",
-          "note": "Oui ou non? = yes or no?."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu viens, oui ou non?",
-          "trans": "Are you coming or not?"
-        },
-        {
-          "text": "Un café ou un thé?",
-          "trans": "A coffee or a tea?"
-        }
-      ],
-      "related": [
-        {
-          "word": "oui ou non?",
-          "gloss": "yes or no?"
         }
       ]
     },
@@ -3298,113 +2308,6 @@
         {
           "word": "pas",
           "gloss": "not"
-        }
-      ]
-    },
-    "petit": {
-      "lemma": "petit",
-      "stress": "pəti",
-      "pos": "adj",
-      "gloss": "small, little",
-      "meanings": [
-        {
-          "en": "small, little",
-          "note": "Affectionate, a bit condescending."
-        },
-        {
-          "en": "a little, a bit of (affectionate)",
-          "note": "Un petit cours."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "petit",
-              "petite"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "petits",
-              "petites"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "J'ai un petit loft.",
-          "trans": "I've got a little loft."
-        },
-        {
-          "text": "C'est une petite agence.",
-          "trans": "It's a small agency."
-        }
-      ],
-      "related": [
-        {
-          "word": "petit-déjeuner",
-          "gloss": "morning meal"
-        },
-        {
-          "word": "petit-bourgeois",
-          "gloss": "petty-bourgeois"
-        },
-        {
-          "word": "petit-fils",
-          "gloss": "grandson"
-        }
-      ]
-    },
-    "pour": {
-      "lemma": "pour",
-      "stress": "puʁ",
-      "pos": "prep",
-      "gloss": "for; (in order) to",
-      "meanings": [
-        {
-          "en": "for",
-          "note": "before an infinitive: pour faire plaisir"
-        },
-        {
-          "en": "to, in order to",
-          "note": "+ infinitive: pour voir."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Deux places pour mardi.",
-          "trans": "Two tickets for Tuesday."
-        },
-        {
-          "text": "Je suis là pour voir Mathias.",
-          "trans": "I'm here to see Mathias."
-        }
-      ],
-      "related": [
-        {
-          "word": "pourquoi",
-          "gloss": "why"
-        },
-        {
-          "word": "pour cent",
-          "gloss": "percent"
-        },
-        {
-          "word": "pour de vrai",
-          "gloss": "for real"
         }
       ]
     },
@@ -3563,54 +2466,6 @@
         {
           "word": "au revoir",
           "gloss": "goodbye"
-        }
-      ]
-    },
-    "réunion": {
-      "lemma": "réunion",
-      "stress": "ʁeynjɔ̃",
-      "pos": "noun",
-      "gloss": "meeting",
-      "gender": "f",
-      "plural": "réunions",
-      "meanings": [
-        {
-          "en": "meeting",
-          "note": "être en réunion = to be in a meeting"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la réunion",
-              "les réunions"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "J'ai une réunion.",
-          "trans": "I've got a meeting."
-        },
-        {
-          "text": "La réunion est à midi.",
-          "trans": "The meeting is at noon."
-        }
-      ],
-      "related": [
-        {
-          "word": "être en réunion",
-          "gloss": "to be in a meeting"
         }
       ]
     },
@@ -4439,6 +3294,496 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
+        }
+      ]
+    },
+    "acte": {
+      "lemma": "acte",
+      "stress": "akt",
+      "pos": "noun",
+      "gloss": "act (of a play); deed",
+      "gender": "m",
+      "plural": "actes",
+      "meanings": [
+        {
+          "en": "act (division of a play)",
+          "note": "Acte quatre = act four."
+        },
+        {
+          "en": "act, deed",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'acte",
+              "les actes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tchekhov, La Mouette, acte quatre.",
+          "trans": "Chekhov, The Seagull, act four."
+        },
+        {
+          "text": "Le premier acte.",
+          "trans": "The first act."
+        }
+      ],
+      "related": [
+        {
+          "word": "acte quatre",
+          "gloss": "act four"
+        }
+      ]
+    },
+    "quatre": {
+      "lemma": "quatre",
+      "stress": "katʁ",
+      "pos": "num",
+      "gloss": "four",
+      "meanings": [
+        {
+          "en": "four",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "À quatre heures du matin.",
+          "trans": "At four in the morning."
+        },
+        {
+          "text": "J'ai quatre frères.",
+          "trans": "I have four brothers."
+        }
+      ],
+      "related": [
+        {
+          "word": "quatorze",
+          "gloss": "fourteen"
+        },
+        {
+          "word": "quatre-vingts",
+          "gloss": "eighty"
+        },
+        {
+          "word": "quatrième",
+          "gloss": "fourth"
+        }
+      ]
+    },
+    "avoir": {
+      "lemma": "avoir",
+      "stress": "avwaʁ",
+      "pos": "verb",
+      "gloss": "to have",
+      "meanings": [
+        {
+          "en": "to have",
+          "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
+        },
+        {
+          "en": "helper verb of the passé composé",
+          "note": "J'ai appelé = I called."
+        },
+        {
+          "en": "il y a = there is, there are",
+          "note": "Fixed expression."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "j'ai",
+              "nous avons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu as",
+              "vous avez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle a",
+              "ils/elles ont"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai eu",
+                "nous avons eu"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as eu",
+                "vous avez eu"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a eu",
+                "ils/elles ont eu"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'avais",
+                "nous avions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu avais",
+                "vous aviez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle avait",
+                "ils/elles avaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'aurai",
+                "nous aurons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu auras",
+                "vous aurez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle aura",
+                "ils/elles auront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "ayons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "aie",
+                "ayez"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "J'ai un petit loft.",
+          "trans": "I've got a little loft."
+        },
+        {
+          "text": "Tu as une réunion.",
+          "trans": "You have a meeting."
+        }
+      ],
+      "related": [
+        {
+          "word": "avoir à voir",
+          "gloss": "to have to do with"
+        }
+      ]
+    },
+    "faire": {
+      "lemma": "faire",
+      "stress": "fɛʁ",
+      "pos": "verb",
+      "gloss": "to do, to make",
+      "meanings": [
+        {
+          "en": "to do, to make",
+          "note": "for (duration): ça fait des mois que j'attends = I've been waiting for months"
+        },
+        {
+          "en": "faire confiance à = to trust",
+          "note": ""
+        },
+        {
+          "en": "faire la surprise à = to surprise",
+          "note": ""
+        },
+        {
+          "en": "ça fait trois semaines que = it's been three weeks since",
+          "note": "With time."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je fais",
+              "nous faisons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu fais",
+              "vous faites"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle fait",
+              "ils/elles font"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai fait",
+                "nous avons fait"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as fait",
+                "vous avez fait"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a fait",
+                "ils/elles ont fait"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je faisais",
+                "nous faisions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu faisais",
+                "vous faisiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle faisait",
+                "ils/elles faisaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je ferai",
+                "nous ferons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu feras",
+                "vous ferez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle fera",
+                "ils/elles feront"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Qu'est-ce que tu fais?",
+          "trans": "What are you doing?"
+        },
+        {
+          "text": "Je peux vous faire confiance?",
+          "trans": "Can I trust you?"
+        }
+      ],
+      "related": [
+        {
+          "word": "faire attention",
+          "gloss": "to pay attention"
+        }
+      ]
+    },
+    "conservatoire": {
+      "lemma": "conservatoire",
+      "stress": "kɔ̃sɛʁvatwaʁ",
+      "pos": "noun",
+      "gloss": "drama school, conservatory",
+      "gender": "m",
+      "plural": "conservatoires",
+      "meanings": [
+        {
+          "en": "drama or music academy",
+          "note": "au conservatoire = at the national drama school"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le conservatoire",
+              "les conservatoires"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je l'ai fait au conservatoire.",
+          "trans": "I did it at drama school."
+        },
+        {
+          "text": "Elle étudie au conservatoire.",
+          "trans": "She studies at the conservatory."
+        }
+      ],
+      "related": [
+        {
+          "word": "au conservatoire",
+          "gloss": "at the national drama school"
         }
       ]
     }

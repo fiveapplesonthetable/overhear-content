@@ -7,146 +7,121 @@ SCENE = 16
 TITLE = 'Fais une Bardot  (Do a Bardot)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'gabriel': 'Gabriel', 'laura': 'Laura', 'nathalie': 'Nathalie'}
+LABELS = {'laura': 'Laura', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
-INTRO = ('Laura Smet and her mother Nathalie Baye remember a summer together after Laura broke her ankle. Neither '
- 'wants to repeat it on a three-month film shoot, but Laura fears that refusing the role will hurt her '
- 'mother. Her agent Gabriel proposes a trick: make the director reject her instead. Listen to the memory and '
- 'the plan in French.')
-OPENER = "Let's go through it step by step. First, both women remember the summer of twenty eleven."
+INTRO = ('Laura Smet and her mother Nathalie Baye each remember how badly a summer together went after Laura broke '
+ "her ankle. Neither wants three months together on a boat for a film. In Gabriel's office, Laura fears that "
+ "refusing will break her mother's heart. Gabriel's assistant Herve suggests a trick, and Gabriel objects. "
+ 'Listen to the plan in French.')
+OPENER = "Let's return to Laura's memory, then hear how a difficult conversation turns into Herve's risky idea."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'So Nathalie wants to sabotage her audition, and Gabriel wants Laura to sabotage hers by playing the diva. See you next time!'
+OUTRO = ('Herve has suggested acting like an impossible star so the director refuses Laura. Gabriel thinks it is a '
+ 'terrible idea, while Nathalie is separately trying to avoid the same film. Notice who gives the orders and '
+ 'who objects when you hear the scene again. See you next time!')
 CLOSING = ('gabriel', 'À bientôt!')
-STORY = [('nathalie',
-  "Été deux mille onze. Elle s'est cassé la cheville.",
-  'Summer twenty eleven. She broke her ankle.',
-  [(378, 'cassé la cheville'), (379, 'Été')],
-  ''),
- ('laura',
-  'Je ne pouvais pas marcher. Je suis restée chez ma mère.',
-  "I couldn't walk. I stayed at my mother's.",
-  [(381, 'ne pouvait pas marcher'), (382, 'Je suis restée chez ma mère')],
-  ''),
- ('nathalie',
-  "L'horreur absolue! C'était comme si elle avait treize ans.",
-  'Total horror! It was as if she were thirteen.',
-  [(383, "L'horreur absolue"), (384, "C'était comme si elle avait"), (384, 'ans')],
+STORY = [('laura',
+  'Je suis restée chez ma mère.',
+  "I stayed at my mother's.",
+  [(382, 'Je suis restée chez ma mère')],
   ''),
  ('laura',
   "J'ai complètement craqué. On s'est dit des choses horribles.",
   'I completely lost it. We said horrible things to each other.',
   [(387, "J'ai complètement craqué"), (389, "On s'est dit des choses horribles")],
   ''),
- ('nathalie',
-  'Jamais plus! Je ne vais pas sacrifier notre relation pour un film.',
-  "Never again! I'm not going to sacrifice our relationship for a film.",
-  [(390, 'Jamais plus'), (392, 'je ne vais pas sacrifier notre relation pour un film')],
+ ('laura',
+  'Ça va lui briser le cœur.',
+  "It's going to break her heart.",
+  [(398, 'Ça va lui briser le cœur')],
   ''),
  ('laura',
-  "Si je dis non, elle va penser que c'est sa faute!",
-  'If I say no, she will think that it is her fault!',
-  [(395, 'Elle va croire que'), (397, "c'est à cause d'elle")],
-  ''),
- ('laura',
-  "C'est horrible! Ça va lui briser le cœur.",
-  "That's horrible! It's going to break her heart.",
-  [(396, "C'est horrible"), (398, 'Ça va lui briser le cœur')],
-  ''),
- ('laura',
-  'Tu as raison, Gabriel. Je ne peux pas refuser.',
-  "You're right, Gabriel. I can't refuse.",
+  'Tu as raison, je ne peux pas refuser.',
+  "You're right, I can't refuse.",
   [(399, 'Tu as raison, je ne peux pas refuser')],
   ''),
- ('gabriel',
+ ('herve',
   "Si. Tu peux faire en sorte qu'elle refuse.",
   'Yes, you can. You can make sure that she refuses.',
   [(399, 'Si'), (399, "faire en sorte qu'elle refuse")],
-  ''),
+  'Simplifies the conditional suggestion into a present-tense possibility.'),
  ('laura', 'Qui?', 'Who?', [(400, 'Qui')], ''),
- ('gabriel',
+ ('herve',
   'Solveig! Fais juste une Bardot.',
   'Solveig! Just do a Bardot.',
   [(401, 'Solveig'), (403, 'Fais juste une Bardot')],
   ''),
- ('laura', "C'est quoi, ça?", "What's that?", [(404, "C'est quoi")], ''),
- ('gabriel',
+ ('laura', "C'est quoi, ça?", "What's that?", [(404, "C'est quoi")], 'Omits the sexual joke.'),
+ ('herve',
   'Tu deviens capricieuse, une star difficile comme Brigitte Bardot.',
   'You become capricious, a difficult star like Brigitte Bardot.',
   [(405, 'tu deviens'), (405, 'une star comme Brigitte Bardot'), (409, 'capricieuse')],
-  ''),
- ('gabriel', 'Akerfelt déteste ça!', 'Akerfelt hates that!', [(408, 'Akerfelt'), (408, 'déteste ça')], ''),
- ('laura',
-  "Mais c'est ridicule! C'est une très mauvaise idée.",
-  "But that's ridiculous! It's a very bad idea.",
+  'Softens the vulgar adjective and combines the explanation.'),
+ ('gabriel', 'Arrête ça maintenant!', 'Stop that now!', [(406, 'Arrête ça maintenant')], ''),
+ ('herve', 'Akerfelt déteste ça!', 'Akerfelt hates that!', [(408, 'Akerfelt'), (408, 'déteste ça')], ''),
+ ('gabriel',
+  "C'est ridicule! C'est une très mauvaise idée.",
+  "That's ridiculous! It's a very bad idea.",
   [(410, "c'est ridicule"), (411, 'Une très mauvaise idée')],
   ''),
- ('laura',
-  'Je ne vais quand même pas faire une Bardot!',
-  "I'm not actually going to do a Bardot!",
-  [(412, 'quand même pas'), (413, 'faire une Bardot')],
-  '')]
+ ('gabriel',
+  'Tu ne vas quand même pas faire une Bardot?',
+  "You're not actually going to do a Bardot?",
+  [(412, 'Tu ne vas quand même pas'), (413, 'faire une Bardot')],
+  'Completes the interrupted question.')]
 WALK = [(0,
   None,
-  "'Summer twenty eleven. She broke her ankle.' With parts of the body, French uses a self-directed action "
-  "word and the word for 'the' instead of 'her'."),
+  "'I stayed at my mother's.' The past form of 'stay' uses the helper 'be', and its written ending agrees "
+  "with Laura. The last three words locate the stay at her mother's home."),
  (1,
   None,
-  "'I couldn't walk. I stayed at my mother's.' The first action word describes how things were, and the "
-  "second is a single event. The linking word before 'my mother' means 'at the home of'."),
+  "'I completely lost it. We said horrible things to each other.' The first action literally means cracking "
+  "or snapping. In the second sentence, the small word before 'said' makes it reciprocal: each person said "
+  'things to the other.'),
  (2,
   None,
-  "'Total horror! It was as if she were thirteen.' Again, French expresses age with the action word 'to "
-  "have': she had thirteen years."),
+  "'It's going to break her heart.' French literally says 'break the heart to her'. The small word before "
+  "'break' identifies whose heart Laura means."),
  (3,
   None,
-  "'I completely lost it. We said horrible things to each other.' The first verb literally means to crack or "
-  'snap.'),
- (4, 'Jamais plus!', "'Never again!' Literally 'never more'. Both mother and daughter swear the same thing."),
+  "'You're right, I can't refuse.' French says 'you have reason' to mean 'you are right'. Laura fears that "
+  'saying no will hurt her mother. Herve offers another route.'),
  (4,
-  'Je ne vais pas sacrifier notre relation pour un film.',
-  "'I'm not going to sacrifice our relationship for a film.' The two negative words surround 'am going'. The "
-  'next action stays in its basic form, so this is a future plan that Nathalie firmly rejects.'),
+  'Si.',
+  "'Yes, you can.' This special yes contradicts Laura's negative statement. It firmly pushes back against "
+  'her claim that she cannot refuse.'),
+ (4,
+  "Tu peux faire en sorte qu'elle refuse.",
+  "'You can make sure that she refuses.' The expression in the middle means arranging for something to "
+  "happen. The person meant by 'she' is the director, not Laura's mother."),
  (5,
   None,
-  "'If I say no, she'll think it's her fault!' The first word introduces a condition. A present action, 'I "
-  "say', leads into a future result, 'she is going to think'."),
+  "'Who?' This single question word can stand alone. Laura needs Herve to make clear which woman he means."),
  (6,
   None,
-  "'That's horrible! It's going to break her heart.' Literally 'break the heart to her', with the indirect "
-  "object word before the verb 'break'."),
+  "'Solveig! Just do a Bardot.' Herve gives a direct instruction, with no separate word for 'you'. The "
+  "actress's surname stands for playing a demanding star."),
  (7,
   None,
-  "'You're right, Gabriel. I can't refuse.' Literally 'you have reason', the standard French idiom for 'you "
-  "are right'."),
+  "'What's that?' Literally 'it is what, that?'. This casual question puts 'what' after 'is', a pattern you "
+  'will often hear in conversation.'),
  (8,
   None,
-  "'Yes, you can. You can make sure that she refuses.' Notice the special word for 'yes' at the start, "
-  "contradicting Laura's negative sentence."),
+  "'You become capricious, a difficult star like Brigitte Bardot.' The describing word for 'capricious' has "
+  'a feminine ending because it refers to Laura. Herve wants a performance that will put the director off.'),
  (9,
   None,
-  "'Who?' Laura asks a single short question word, because she thinks Gabriel still means her mother."),
+  "'Stop that now!' Gabriel gives a short command to Herve. The final word means 'now', making his objection "
+  'immediate.'),
  (10,
   None,
-  "'Solveig! Just do a Bardot.' He means the famous French icon Brigitte Bardot, using her name for a whole "
-  'way of behaving.'),
+  "'Akerfelt hates that!' The word for 'that' points back to difficult-star behaviour. Herve argues that "
+  'only this particular director would reject Laura for it.'),
  (11,
   None,
-  "'What's that?' Literally 'it is what, that?', the casual spoken way to ask what something means."),
+  "'That's ridiculous! It's a very bad idea.' The word for 'bad' takes a feminine ending beside the feminine "
+  "word for 'idea'. Gabriel opposes his assistant's plan."),
  (12,
   None,
-  "'You become capricious, a difficult star like Brigitte Bardot.' The describing words for 'capricious' and "
-  "'difficult' refer to Laura. The first has a feminine ending that also changes its sound."),
- (13,
-  None,
-  "'Akerfelt hates that!' The word for 'that' comes after the action. It points back to the whole idea of "
-  'acting like a demanding star, rather than to one particular object.'),
- (14,
-  None,
-  "'But that's ridiculous! It's a very bad idea.' The adjective for 'bad' is in its feminine form to match "
-  "'idea'."),
- (15,
-  None,
-  "'I'm not actually going to do a Bardot!' This two-word phrase inside the negative adds 'all the same' or "
-  "'really'. And yet, in the very next scenes, both mother and daughter will try to sabotage their "
-  'auditions.')]
+  "'You're not actually going to do a Bardot?' The two words inside the negative add the feeling of 'really' "
+  "or 'all the same'. Gabriel asks the question hoping that the answer will be no.")]
