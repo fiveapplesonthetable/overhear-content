@@ -13,7 +13,8 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = ("After Arlette's warning, Gabriel goes to the riding school to find Cecile. They still disagree about his "
  'lie, and their argument begins while she is struggling to control a horse. Listen to the French first and '
  'follow the short accusations and warnings.')
-OPENER = "Let's go back through it slowly. Gabriel walks into the riding school and asks a member of staff where his star is."
+OPENER = ("Let's go back through it slowly. Gabriel asks where to find Cecile and catches up with her on his scooter "
+ 'while she rides.')
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "That's the riding school. If you can now hear the difference between saying something and saying you didn't, you've got the main idea of this scene. See you next time!"
 CLOSING = ('gabriel', 'À bientôt!')
@@ -32,11 +33,8 @@ STORY = [('gabriel',
   'Gabriel? What are you doing here?',
   [(851, "Qu'est-ce que tu fais là")],
   'Shortened or rephrased from the cited source dialogue.'),
- ('cecile',
-  'Stop! Stop! Je ne peux pas!',
-  "Stop! Stop! I can't!",
-  [(851, 'Stop'), (852, 'je peux pas')],
-  'Shortened or rephrased from the cited source dialogue.'),
+ ('gabriel', 'Stop!', 'Stop!', [(851, 'Stop')], ''),
+ ('cecile', 'Je ne peux pas!', "I can't!", [(852, 'je peux pas')], 'Standard negative expanded with ne.'),
  ('gabriel',
   'Cécile, tu es vraiment nulle à ça.',
   "Cécile, you're really bad at this.",
@@ -101,54 +99,58 @@ WALK = [(0,
   "'Gabriel? What are you doing here?' The opening question expression asks 'what'. The final small word "
   'points to this place, where she did not expect to see him.'),
  (3,
+  None,
+  "'Stop!' Gabriel gives a short instruction as he catches up with the horse. This warning has the same "
+  'written form in French and English.'),
+ (4,
   'Je ne peux pas!',
   "'I can't!' The two negatives surround 'can'. The action she cannot manage is left unsaid because the "
   'runaway horse makes it obvious.'),
- (4,
+ (5,
   None,
   "'Cécile, you're really bad at this.' Not very kind, but he is hurt. The word for 'bad at' or 'useless' "
   'here ends in a feminine way, because he is talking about a woman.'),
- (5,
+ (6,
   "Tu m'as dit que tu savais monter.",
   "'You told me you could ride.' After the past action 'told', another past form describes what she knew how "
   "to do. In this horse-riding setting, the final action means 'ride'."),
- (5,
+ (6,
   'Tu as menti.',
   "'You lied.' Gabriel uses a short past form: the helper word meaning 'to have', then the past form of 'to "
   "lie'. Cécile protests."),
- (6,
+ (7,
   None,
   "'I didn't lie, Gabriel.' Here is the same negation pattern in the past: the two pieces wrap around the "
   "helper word, not around the word for 'lied'. She explains."),
- (7,
+ (8,
   'Je vais bientôt être assez bonne.',
   "'I'm soon going to be good enough.' To talk about the near future, take the verb 'to go' and put a plain "
   "verb after it, exactly like 'going to' in English. The word for 'good' is feminine again."),
- (8,
+ (9,
   None,
   "'Look how bad you are!' The instruction begins directly with 'look'. The description of being bad at "
   'something has a feminine form for Cecile.'),
- (9,
+ (10,
   None,
   "'And you lied to me too!' The small object attached to 'have' means 'to me'. The extra word meaning "
   "'also' turns Gabriel's accusation back on him."),
- (10,
+ (11,
   None,
   "'There's lying and there's lying.' Literally 'there is to lie and to lie'. It's his excuse: some lies are "
   'worse than others.'),
- (11,
+ (12,
   None,
   "'I didn't want to hurt you.' Again the negation wraps around the verb, this time a past form for wanting. "
   'And at that very moment, the horse decides it has heard enough.'),
- (12,
+ (13,
   None,
   "'Oh no! He won't stop!' The French expression for 'stop' here includes a short reflexive piece attached "
   'with an apostrophe. The same expression works for a person or vehicle coming to a stop.'),
- (13,
+ (14,
   None,
   "'Wait! Cecile, hold on!' The first instruction uses the polite or plural form. The second addresses "
   "Cecile familiarly, with the short piece meaning 'yourself' attached after the action."),
- (14,
+ (15,
   None,
   "'Careful, you're heading for the road!' The very first word is the classic warning shout. The argument "
   'will have to wait.')]

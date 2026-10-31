@@ -23,7 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Gabriel | D'accord. À tout à l'heure. | Okay. See you later. | #885 00:50:54: À tout à l'heure | adapted: Shortened or rephrased from the cited source dialogue. |
 | 12 | Cécile | Bonjour. J'ai rendez-vous avec le docteur Lubek. | Hello. I have an appointment with Doctor Lubek. | #888 00:51:15: Bonjour. J'ai rendez-vous avec le | adapted: Shortened or rephrased from the cited source dialogue. |
 | 13 | Cécile | Gabriel? Tu es encore là? | Gabriel? You're still here? | #894 00:52:26: Encore là | adapted: Shortened or rephrased from the cited source dialogue. |
-| 14 | Cécile | Je ne le fais pas. Jamais! | I'm not doing it. Never! | #895 00:52:30: Jamais | adapted: Shortened or rephrased from the cited source dialogue. |
+| 14 | Cécile | Je ne le fais pas. | I'm not doing it. | new | new: New short line expresses Cecile’s decision shown by her return from the clinic; not a quotation of the ambiguous source jamais turn. |
 | 15 | Gabriel | Je le savais! Tu es une grande actrice. | I knew it! You're a great actress. | #894 00:52:26: Je savais<br>#897 00:52:35: grande actrice | adapted: Shortened or rephrased from the cited source dialogue. |
 | 16 | Cécile | Gabriel, mon ange gardien, tu veux être mon agent? | Gabriel, my guardian angel, will you be my agent? | #900 00:52:43: Gabriel, mon ange gardien<br>#901 00:52:45: Tu veux être mon agent | verbatim |
 | 17 | Gabriel | Et comment! | You bet! | #902 00:52:48: Et comment | verbatim |
@@ -36,15 +36,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Mathias found it.' Literally 'it's Mathias who found it'. That shape puts the spotlight on one person, and Gabriel hears the name of his rival very clearly.
 - 'Can you come with me? I'm scared.' To be afraid, French says 'I have fear'.
 - 'We'll see.' The action has a future form, but the short subject is the everyday word for 'we'. It makes a convenient answer when someone has not committed to yes.
-- 'Thanks for the lift.' The preposition after 'thanks' introduces the thing being thanked for. The noun can describe a journey, and here it is the car ride Gabriel gave her.
+- 'Thanks for the lift.' The preposition after 'thanks' introduces the thing being thanked for. Here the journey was a scooter ride, and they are standing outside the clinic.
 - 'Don't make that face.' Cécile gives an order in the casual form, made negative.
 - 'I've made my decision.' Literally 'I have taken my decision'. French takes a decision where English makes one.
 - 'You're right. Everybody does it.' Another idea with 'to have': in French you have reason, which means you're right. He is trying hard to sound supportive.
 - 'I'll call you afterwards. Okay?' The present tense is perfectly normal for something that will happen soon.
 - 'Okay. See you later.' The second part means later on today, not some day in the future.
 - 'Hello. I have an appointment with Doctor Lubek.' In this expression, French says 'have appointment' without an article. The doctor's name follows the small word meaning 'with'.
-- 'Gabriel? You're still here?' The short word before 'here' means 'still'. The question shows Cecile did not expect him to remain outside.
-- 'I'm not doing it. Never!' First the negation around the verb, then the word for 'never' on its own, as a complete answer.
+- 'Gabriel? You're still here?' The small word before 'here' means 'still'. Cecile comes back outside and finds that Gabriel has waited with his scooter.
+- 'I'm not doing it.' This short line makes Cecile's decision explicit. The object meaning 'it' goes before 'do', inside the two little negative words.
 - 'I knew it! You're a great actress.' The word for 'great' comes before the noun here, and it is feminine to match the actress. Then Cécile asks him something important.
 - 'Gabriel, my guardian angel, will you be my agent?' Cécile asks a question in the casual form, just by raising her voice at the end. She wants him back.
 - 'You bet!' Literally 'and how!'. It's a happy, enthusiastic yes. Here's the scene again from the beginning, straight through.
+
+## Primary-video review
+
+The first clinic discussion is at the stables. Gabriel later gives Cecile a scooter ride and waits outside. The new short refusal makes her shown decision explicit; it does not quote the ambiguous jamais turn. The artwork now shows the outdoor scooter setting.

@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Cécile | Bonjour, Mathias. Entrez. | Hello, Mathias. Come in. | #651 00:36:30: Bonjour, Mathias<br>#652 00:36:36: Entrez | verbatim |
-| 2 | Mathias | Bonjour, Cécile. Ces fleurs sont pour vous. | Hello, Cécile. These flowers are for you. | new | new |
-| 3 | Cécile | Merci. Posez-les ici. Je jardine. Vous venez? | Thank you. Put them here. I'm gardening. Are you coming? | #653 00:36:39: Posez-les ici<br>#656 00:36:46: Je jardine. Vous venez | verbatim |
+| 2 | Mathias | Cécile. | Cecile. | #651 00:36:30: Cécile | verbatim |
+| 3 | Cécile | Je jardine. Vous venez? | I'm gardening. Are you coming? | #656 00:36:46: Je jardine. Vous venez | verbatim |
 | 4 | Mathias | Au nom de l'agence, je vous présente mes excuses. | On behalf of the agency, I apologise. | #657 00:36:49: Au nom de l'agence, je vous présente mes excuses | verbatim |
-| 5 | Cécile | Vous voulez me récupérer, mais il n'y a aucune chance. | You want to win me back, but there is no chance. | #659 00:36:58: Je sais que vous êtes là pour me récupérer<br>#660 00:37:01: il n'y a aucune chance | verbatim |
+| 5 | Cécile | Vous voulez me récupérer, mais il n'y a aucune chance. | You want to win me back, but there is no chance. | #659 00:36:58: Je sais que vous êtes là pour me récupérer<br>#660 00:37:01: il n'y a aucune chance | adapted: Shortened or rephrased from the cited source dialogue. |
 | 6 | Mathias | Tu vas signer avec StarMédia? | Are you going to sign with StarMédia? | #661 00:37:03: Tu vas signer avec StarMédia | verbatim |
-| 7 | Cécile | Je ne sais pas. Tout le monde ment dans ce milieu. | I don't know. Everyone lies in this business. | #661 00:37:03: sais pas<br>#663 00:37:08: Tout le monde ment dans ce milieu | verbatim |
+| 7 | Cécile | Je ne sais pas. Tout le monde ment dans ce milieu. | I don't know. Everyone lies in this business. | #661 00:37:03: sais pas<br>#663 00:37:08: Tout le monde ment dans ce milieu | adapted: Shortened or rephrased from the cited source dialogue. |
 | 8 | Cécile | Tu peux me donner un coup de main? | Can you give me a hand? | #665 00:37:17: Tu peux me donner un coup de main | verbatim |
-| 9 | Mathias | Oui, bien sûr. | Yes, of course. | #665 00:37:17: Oui | verbatim |
+| 9 | Mathias | Oui, bien sûr. | Yes, of course. | #665 00:37:17: Oui | adapted: Shortened or rephrased from the cited source dialogue. |
 | 10 | Cécile | Passe-moi le seau. | Hand me the bucket. | #667 00:37:34: Passe-moi le seau | verbatim |
 | 11 | Mathias | Le seau? Ah, oui. | The bucket? Oh, yes. | #667 00:37:34: Le seau<br>#668 00:37:37: Ah, oui | verbatim |
 | 12 | Cécile | C'est du compost. Ça nourrit la terre. | It's compost. It feeds the earth. | #669 00:37:41: c'est du compost<br>#670 00:37:44: Ça nourrit la terre | verbatim |
-| 13 | Cécile | La terre, elle est vraie. Elle ne sait pas mentir. | The earth is genuine. It doesn't know how to lie. | #671 00:37:47: La terre, elle est vraie<br>#671 00:37:47: sait pas mentir | verbatim |
+| 13 | Cécile | La terre, elle est vraie. Elle ne sait pas mentir. | The earth is genuine. It doesn't know how to lie. | #671 00:37:47: La terre, elle est vraie<br>#671 00:37:47: sait pas mentir | adapted: Shortened or rephrased from the cited source dialogue. |
 | 14 | Mathias | Écoute, Cécile. Je comprends ta déception. | Listen, Cécile. I understand your disappointment. | #672 00:37:52: Écoute, Cécile<br>#673 00:37:55: Je comprends ta déception | verbatim |
 | 15 | Mathias | J'ai parlé à Miranda. | I talked to Miranda. | #675 00:38:04: j'ai parlé à Miranda | verbatim |
 | 16 | Mathias | Ils sont prêts à en discuter. | They're ready to talk about it. | #676 00:38:08: Ils sont prêts à en discuter | verbatim |
@@ -30,9 +30,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Mathias. Come in.' That command uses the polite form of 'you'. Keep an eye on that: by the end of the scene they will both slip into the casual one. Mathias holds out his flowers.
-- 'Hello, Cécile. These flowers are for you.' The word for 'flowers' is feminine and plural. He is still using the polite 'you', the careful voice of an agent.
-- 'Thanks. Put them here.' Another polite command. The little word stuck on with a hyphen means 'them', the flowers. She doesn't make a fuss over the bouquet.
+- 'Hello, Mathias. Come in.' The instruction uses the polite form. Later in the garden, both speakers switch to the familiar form.
+- 'Cecile.' Mathias answers her greeting with her first name. They know each other through the agency.
 - 'I'm gardening. Are you coming?' French has no separate 'I am doing' form: 'I garden' also means 'I'm gardening'. Out in the garden, Mathias starts with an apology.
 - 'On behalf of the agency, I apologise.' Literally, he presents his apologies 'in the name of' the agency. The French apology noun is plural in this formal expression.
 - 'You want to win me back, but there is no chance.' The action meaning 'get back' can refer to recovering a client. Cecile recognises exactly why he has come.
@@ -51,3 +50,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I talked to Miranda.' This is the past tense with 'have' plus the past form of 'talk'. Miranda is the producer who said Cécile was too old.
 - 'They're ready to talk about it.' The tiny word in front of the verb means 'about it'. And that changes everything for Cécile.
 - 'Really? What did she say?' The first two words show surprise, a bit like 'oh really?'. Suddenly she is listening very closely. Let's listen to the whole scene again, in one go.
+
+## Primary-video review
+
+The rival agency sends the flowers. The adaptation omits the delivery exchange; Mathias does not offer the flowers to Cecile.

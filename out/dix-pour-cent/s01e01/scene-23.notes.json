@@ -4,31 +4,47 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Mathias, I want to shoot in Paris.",
+      "trans": "Do you have the permits to shoot in Paris?",
       "words": [
         {
-          "t": "Mathias,",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "stress": "vu",
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
-          "t": "veux",
-          "lemma": "vouloir",
+          "t": "avez",
+          "lemma": "avoir",
           "pos": "verb",
-          "stress": "vø",
-          "gloss": "want",
-          "gram": "present, 1st person singular"
+          "stress": "ave",
+          "gloss": "have",
+          "gram": "present second person plural or polite singular"
+        },
+        {
+          "t": "les",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "le",
+          "gloss": "the",
+          "gram": "definite article, plural"
+        },
+        {
+          "t": "autorisations",
+          "lemma": "autorisation",
+          "pos": "noun",
+          "stress": "otɔʁizasjɔ̃",
+          "gloss": "permits",
+          "gram": "feminine plural"
+        },
+        {
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "to",
+          "gram": "introduces the purpose, shooting in Paris"
         },
         {
           "t": "tourner",
@@ -47,7 +63,7 @@
           "gram": "preposition; location"
         },
         {
-          "t": "Paris.",
+          "t": "Paris?",
           "lemma": "paris",
           "pos": "name",
           "stress": null,
@@ -58,110 +74,8 @@
     },
     {
       "seg": 2,
-      "trans": "Paris? That's a very good idea.",
+      "trans": "Ah, French paperwork!",
       "words": [
-        {
-          "t": "Paris?",
-          "lemma": "paris",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Paris",
-          "gram": "city"
-        },
-        {
-          "t": "C'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "très",
-          "lemma": "très",
-          "pos": "adv",
-          "stress": "tʁɛ",
-          "gloss": "very",
-          "gram": "invariable adverb ('très', meaning 'very')"
-        },
-        {
-          "t": "bonne",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔn",
-          "gloss": "good",
-          "gram": "feminine singular adjective"
-        },
-        {
-          "t": "idée.",
-          "lemma": "idée",
-          "pos": "noun",
-          "stress": "ide",
-          "gloss": "idea",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 3,
-      "trans": "Yes, but we need permits. Ah, French paperwork!",
-      "words": [
-        {
-          "t": "Oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "it",
-          "gram": "third person singular subject"
-        },
-        {
-          "t": "faut",
-          "lemma": "falloir",
-          "pos": "verb",
-          "stress": "fo",
-          "gloss": "is needed",
-          "gram": "present, 3rd person singular, impersonal: il faut = you need"
-        },
-        {
-          "t": "des",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "de",
-          "gloss": "some (often not translated)",
-          "gram": "indefinite article, plural"
-        },
-        {
-          "t": "autorisations.",
-          "lemma": "autorisation",
-          "pos": "noun",
-          "stress": "otɔʁizasjɔ̃",
-          "gloss": "permits",
-          "gram": "feminine plural"
-        },
         {
           "t": "Ah,",
           "lemma": "ah",
@@ -193,6 +107,36 @@
           "stress": "fʁɑ̃sɛz",
           "gloss": "French",
           "gram": "feminine singular, after the noun"
+        }
+      ]
+    },
+    {
+      "seg": 3,
+      "trans": "Yes, it's difficult.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        },
+        {
+          "t": "c'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "difficile.",
+          "lemma": "difficile",
+          "pos": "adj",
+          "stress": "difisil",
+          "gloss": "tough, difficult",
+          "gram": "adjective, feminine singular"
         }
       ]
     },
@@ -933,124 +877,48 @@
       ]
     },
     {
-      "seg": 16,
-      "trans": "Fine. I'll talk to Quentin.",
-      "words": [
-        {
-          "t": "Bon.",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔ̃",
-          "gloss": "right, okay",
-          "gram": "discourse marker, moving on"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "vais",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "vɛ",
-          "gloss": "am going (to)",
-          "gram": "present, 1st person singular; aller + infinitive = near future"
-        },
-        {
-          "t": "parler",
-          "lemma": "parler",
-          "pos": "verb",
-          "stress": "paʁle",
-          "gloss": "talk",
-          "gram": "infinitive after pouvoir"
-        },
-        {
-          "t": "à",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "a",
-          "gloss": "to",
-          "gram": "preposition"
-        },
-        {
-          "t": "Quentin.",
-          "lemma": "quentin",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Quentin (Tarantino)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
       "seg": 17,
-      "trans": "Thank you, Miranda. Good luck!",
+      "trans": "Do you have the permits to shoot in Paris?",
       "words": [
         {
-          "t": "Merci,",
-          "lemma": "merci",
-          "pos": "interj",
-          "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
-        },
-        {
-          "t": "Miranda.",
-          "lemma": "miranda",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Miranda",
-          "gram": "first name"
-        },
-        {
-          "t": "Bonne",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔn",
-          "gloss": "good",
-          "gram": "feminine singular adjective"
-        },
-        {
-          "t": "chance!",
-          "lemma": "chance",
-          "pos": "noun",
-          "stress": "ʃɑ̃s",
-          "gloss": "luck",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 19,
-      "trans": "Mathias, I want to shoot in Paris.",
-      "words": [
-        {
-          "t": "Mathias,",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
-        },
-        {
-          "t": "je",
-          "lemma": "je",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "stress": "vu",
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
-          "t": "veux",
-          "lemma": "vouloir",
+          "t": "avez",
+          "lemma": "avoir",
           "pos": "verb",
-          "stress": "vø",
-          "gloss": "want",
-          "gram": "present, 1st person singular"
+          "stress": "ave",
+          "gloss": "have",
+          "gram": "present second person plural or polite singular"
+        },
+        {
+          "t": "les",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "le",
+          "gloss": "the",
+          "gram": "definite article, plural"
+        },
+        {
+          "t": "autorisations",
+          "lemma": "autorisation",
+          "pos": "noun",
+          "stress": "otɔʁizasjɔ̃",
+          "gloss": "permits",
+          "gram": "feminine plural"
+        },
+        {
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "to",
+          "gram": "introduces the purpose, shooting in Paris"
         },
         {
           "t": "tourner",
@@ -1069,125 +937,17 @@
           "gram": "preposition; location"
         },
         {
-          "t": "Paris.",
-          "lemma": "paris",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Paris",
-          "gram": "city"
-        }
-      ]
-    },
-    {
-      "seg": 21,
-      "trans": "Paris? That's a very good idea.",
-      "words": [
-        {
           "t": "Paris?",
           "lemma": "paris",
           "pos": "name",
           "stress": null,
           "gloss": "Paris",
           "gram": "city"
-        },
-        {
-          "t": "C'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "très",
-          "lemma": "très",
-          "pos": "adv",
-          "stress": "tʁɛ",
-          "gloss": "very",
-          "gram": "invariable adverb ('très', meaning 'very')"
-        },
-        {
-          "t": "bonne",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔn",
-          "gloss": "good",
-          "gram": "feminine singular adjective"
-        },
-        {
-          "t": "idée.",
-          "lemma": "idée",
-          "pos": "noun",
-          "stress": "ide",
-          "gloss": "idea",
-          "gram": "feminine singular"
         }
       ]
     },
     {
-      "seg": 23,
-      "trans": "Yes, but we need permits.",
-      "words": [
-        {
-          "t": "Oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "it",
-          "gram": "third person singular subject"
-        },
-        {
-          "t": "faut",
-          "lemma": "falloir",
-          "pos": "verb",
-          "stress": "fo",
-          "gloss": "is needed",
-          "gram": "present, 3rd person singular, impersonal: il faut = you need"
-        },
-        {
-          "t": "des",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "de",
-          "gloss": "some (often not translated)",
-          "gram": "indefinite article, plural"
-        },
-        {
-          "t": "autorisations.",
-          "lemma": "autorisation",
-          "pos": "noun",
-          "stress": "otɔʁizasjɔ̃",
-          "gloss": "permits",
-          "gram": "feminine plural"
-        }
-      ]
-    },
-    {
-      "seg": 25,
+      "seg": 19,
       "trans": "Ah, French paperwork!",
       "words": [
         {
@@ -1225,7 +985,37 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 21,
+      "trans": "Yes, it's difficult.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        },
+        {
+          "t": "c'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "difficile.",
+          "lemma": "difficile",
+          "pos": "adj",
+          "stress": "difisil",
+          "gloss": "tough, difficult",
+          "gram": "adjective, feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 23,
       "trans": "It's simpler when you know the right people.",
       "words": [
         {
@@ -1303,7 +1093,7 @@
       ]
     },
     {
-      "seg": 29,
+      "seg": 25,
       "trans": "Really?",
       "words": [
         {
@@ -1317,7 +1107,7 @@
       ]
     },
     {
-      "seg": 31,
+      "seg": 27,
       "trans": "If you need help, just ask.",
       "words": [
         {
@@ -1371,7 +1161,7 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 29,
       "trans": "I know the Minister of Culture.",
       "words": [
         {
@@ -1433,7 +1223,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 31,
       "trans": "She's a brilliant young woman.",
       "words": [
         {
@@ -1479,7 +1269,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 33,
       "trans": "And she loves Cécile de France!",
       "words": [
         {
@@ -1533,7 +1323,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 35,
       "trans": "But Cécile isn't in the project any more.",
       "words": [
         {
@@ -1595,7 +1385,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 37,
       "trans": "I know. She's going to be very sad.",
       "words": [
         {
@@ -1657,7 +1447,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 39,
       "trans": "So shooting in Paris might be impossible.",
       "words": [
         {
@@ -1719,7 +1509,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 41,
       "trans": "She doesn't need to know.",
       "words": [
         {
@@ -1781,7 +1571,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 43,
       "trans": "They're very close.",
       "words": [
         {
@@ -1819,7 +1609,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 45,
       "trans": "It's hard to hide the truth.",
       "words": [
         {
@@ -1873,7 +1663,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 47,
       "trans": "You're bluffing.",
       "words": [
         {
@@ -1895,7 +1685,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 49,
       "trans": "Not at all.",
       "words": [
         {
@@ -1925,8 +1715,8 @@
       ]
     },
     {
-      "seg": 55,
-      "trans": "No Cécile, no Paris.",
+      "seg": 51,
+      "trans": "No Cecile, no Paris.",
       "words": [
         {
           "t": "Pas",
@@ -1979,124 +1769,48 @@
       ]
     },
     {
-      "seg": 57,
-      "trans": "Fine. I'll talk to Quentin.",
+      "seg": 53,
+      "trans": "Do you have the permits to shoot in Paris?",
       "words": [
         {
-          "t": "Bon.",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔ̃",
-          "gloss": "right, okay",
-          "gram": "discourse marker, moving on"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
+          "t": "Vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "stress": "vu",
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
-          "t": "vais",
-          "lemma": "aller",
+          "t": "avez",
+          "lemma": "avoir",
           "pos": "verb",
-          "stress": "vɛ",
-          "gloss": "am going (to)",
-          "gram": "present, 1st person singular; aller + infinitive = near future"
+          "stress": "ave",
+          "gloss": "have",
+          "gram": "present second person plural or polite singular"
         },
         {
-          "t": "parler",
-          "lemma": "parler",
-          "pos": "verb",
-          "stress": "paʁle",
-          "gloss": "talk",
-          "gram": "infinitive after pouvoir"
+          "t": "les",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "le",
+          "gloss": "the",
+          "gram": "definite article, plural"
         },
         {
-          "t": "à",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "a",
-          "gloss": "to",
-          "gram": "preposition"
-        },
-        {
-          "t": "Quentin.",
-          "lemma": "quentin",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Quentin (Tarantino)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
-      "seg": 59,
-      "trans": "Thank you, Miranda. Good luck!",
-      "words": [
-        {
-          "t": "Merci,",
-          "lemma": "merci",
-          "pos": "interj",
-          "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
-        },
-        {
-          "t": "Miranda.",
-          "lemma": "miranda",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Miranda",
-          "gram": "first name"
-        },
-        {
-          "t": "Bonne",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔn",
-          "gloss": "good",
-          "gram": "feminine singular adjective"
-        },
-        {
-          "t": "chance!",
-          "lemma": "chance",
+          "t": "autorisations",
+          "lemma": "autorisation",
           "pos": "noun",
-          "stress": "ʃɑ̃s",
-          "gloss": "luck",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 61,
-      "trans": "Mathias, I want to shoot in Paris.",
-      "words": [
-        {
-          "t": "Mathias,",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
+          "stress": "otɔʁizasjɔ̃",
+          "gloss": "permits",
+          "gram": "feminine plural"
         },
         {
-          "t": "je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "veux",
-          "lemma": "vouloir",
-          "pos": "verb",
-          "stress": "vø",
-          "gloss": "want",
-          "gram": "present, 1st person singular"
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "to",
+          "gram": "introduces the purpose, shooting in Paris"
         },
         {
           "t": "tourner",
@@ -2115,121 +1829,19 @@
           "gram": "preposition; location"
         },
         {
-          "t": "Paris.",
-          "lemma": "paris",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Paris",
-          "gram": "city"
-        }
-      ]
-    },
-    {
-      "seg": 62,
-      "trans": "Paris? That's a very good idea.",
-      "words": [
-        {
           "t": "Paris?",
           "lemma": "paris",
           "pos": "name",
           "stress": null,
           "gloss": "Paris",
           "gram": "city"
-        },
-        {
-          "t": "C'est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "très",
-          "lemma": "très",
-          "pos": "adv",
-          "stress": "tʁɛ",
-          "gloss": "very",
-          "gram": "invariable adverb ('très', meaning 'very')"
-        },
-        {
-          "t": "bonne",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔn",
-          "gloss": "good",
-          "gram": "feminine singular adjective"
-        },
-        {
-          "t": "idée.",
-          "lemma": "idée",
-          "pos": "noun",
-          "stress": "ide",
-          "gloss": "idea",
-          "gram": "feminine singular"
         }
       ]
     },
     {
-      "seg": 63,
-      "trans": "Yes, but we need permits. Ah, French paperwork!",
+      "seg": 54,
+      "trans": "Ah, French paperwork!",
       "words": [
-        {
-          "t": "Oui,",
-          "lemma": "oui",
-          "pos": "adv",
-          "stress": "wi",
-          "gloss": "yes",
-          "gram": "answer, repeated for emphasis"
-        },
-        {
-          "t": "mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "it",
-          "gram": "third person singular subject"
-        },
-        {
-          "t": "faut",
-          "lemma": "falloir",
-          "pos": "verb",
-          "stress": "fo",
-          "gloss": "is needed",
-          "gram": "present, 3rd person singular, impersonal: il faut = you need"
-        },
-        {
-          "t": "des",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "de",
-          "gloss": "some (often not translated)",
-          "gram": "indefinite article, plural"
-        },
-        {
-          "t": "autorisations.",
-          "lemma": "autorisation",
-          "pos": "noun",
-          "stress": "otɔʁizasjɔ̃",
-          "gloss": "permits",
-          "gram": "feminine plural"
-        },
         {
           "t": "Ah,",
           "lemma": "ah",
@@ -2265,7 +1877,37 @@
       ]
     },
     {
-      "seg": 64,
+      "seg": 55,
+      "trans": "Yes, it's difficult.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "answer, repeated for emphasis"
+        },
+        {
+          "t": "c'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
+        },
+        {
+          "t": "difficile.",
+          "lemma": "difficile",
+          "pos": "adj",
+          "stress": "difisil",
+          "gloss": "tough, difficult",
+          "gram": "adjective, feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 56,
       "trans": "It's simpler when you know the right people.",
       "words": [
         {
@@ -2343,7 +1985,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 57,
       "trans": "Really?",
       "words": [
         {
@@ -2357,7 +1999,7 @@
       ]
     },
     {
-      "seg": 66,
+      "seg": 58,
       "trans": "If you need help, just ask.",
       "words": [
         {
@@ -2411,7 +2053,7 @@
       ]
     },
     {
-      "seg": 67,
+      "seg": 59,
       "trans": "I know the Minister of Culture. She's a brilliant young woman.",
       "words": [
         {
@@ -2513,7 +2155,7 @@
       ]
     },
     {
-      "seg": 68,
+      "seg": 60,
       "trans": "And she loves Cécile de France!",
       "words": [
         {
@@ -2567,7 +2209,7 @@
       ]
     },
     {
-      "seg": 69,
+      "seg": 61,
       "trans": "But Cécile isn't in the project any more.",
       "words": [
         {
@@ -2629,7 +2271,7 @@
       ]
     },
     {
-      "seg": 70,
+      "seg": 62,
       "trans": "I know. She's going to be very sad.",
       "words": [
         {
@@ -2691,7 +2333,7 @@
       ]
     },
     {
-      "seg": 71,
+      "seg": 63,
       "trans": "So shooting in Paris might be impossible.",
       "words": [
         {
@@ -2753,7 +2395,7 @@
       ]
     },
     {
-      "seg": 72,
+      "seg": 64,
       "trans": "She doesn't need to know.",
       "words": [
         {
@@ -2815,7 +2457,7 @@
       ]
     },
     {
-      "seg": 73,
+      "seg": 65,
       "trans": "They're very close. It's hard to hide the truth.",
       "words": [
         {
@@ -2901,7 +2543,7 @@
       ]
     },
     {
-      "seg": 74,
+      "seg": 66,
       "trans": "You're bluffing.",
       "words": [
         {
@@ -2923,7 +2565,7 @@
       ]
     },
     {
-      "seg": 75,
+      "seg": 67,
       "trans": "Not at all. No Cecile, no Paris.",
       "words": [
         {
@@ -3001,99 +2643,7 @@
       ]
     },
     {
-      "seg": 76,
-      "trans": "Fine. I'll talk to Quentin.",
-      "words": [
-        {
-          "t": "Bon.",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔ̃",
-          "gloss": "right, okay",
-          "gram": "discourse marker, moving on"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "vais",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "vɛ",
-          "gloss": "am going (to)",
-          "gram": "present, 1st person singular; aller + infinitive = near future"
-        },
-        {
-          "t": "parler",
-          "lemma": "parler",
-          "pos": "verb",
-          "stress": "paʁle",
-          "gloss": "talk",
-          "gram": "infinitive after pouvoir"
-        },
-        {
-          "t": "à",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "a",
-          "gloss": "to",
-          "gram": "preposition"
-        },
-        {
-          "t": "Quentin.",
-          "lemma": "quentin",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Quentin (Tarantino)",
-          "gram": "first name"
-        }
-      ]
-    },
-    {
-      "seg": 77,
-      "trans": "Thank you, Miranda. Good luck!",
-      "words": [
-        {
-          "t": "Merci,",
-          "lemma": "merci",
-          "pos": "interj",
-          "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
-        },
-        {
-          "t": "Miranda.",
-          "lemma": "miranda",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Miranda",
-          "gram": "first name"
-        },
-        {
-          "t": "Bonne",
-          "lemma": "bon",
-          "pos": "adj",
-          "stress": "bɔn",
-          "gloss": "good",
-          "gram": "feminine singular adjective"
-        },
-        {
-          "t": "chance!",
-          "lemma": "chance",
-          "pos": "noun",
-          "stress": "ʃɑ̃s",
-          "gloss": "luck",
-          "gram": "feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 79,
+      "seg": 69,
       "trans": "Goodbye, Mathias!",
       "words": [
         {
@@ -4309,62 +3859,6 @@
         }
       ]
     },
-    "chance": {
-      "lemma": "chance",
-      "stress": "ʃɑ̃s",
-      "pos": "noun",
-      "gloss": "luck; chance",
-      "gender": "f",
-      "plural": "chances",
-      "meanings": [
-        {
-          "en": "luck",
-          "note": "Bonne chance = good luck."
-        },
-        {
-          "en": "chance, possibility",
-          "note": "Aucune chance = no chance."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "une chance",
-              "des chances"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bonne chance!",
-          "trans": "Good luck!"
-        },
-        {
-          "text": "Il n'y a aucune chance.",
-          "trans": "There's no chance."
-        }
-      ],
-      "related": [
-        {
-          "word": "chanceux",
-          "gloss": "lucky"
-        },
-        {
-          "word": "bonne chance",
-          "gloss": "good luck"
-        }
-      ]
-    },
     "connaître": {
       "lemma": "connaître",
       "stress": "kɔnɛtʁ",
@@ -4950,165 +4444,6 @@
         }
       ]
     },
-    "falloir": {
-      "lemma": "falloir",
-      "stress": "falwaʁ",
-      "pos": "verb",
-      "gloss": "to be necessary (il faut)",
-      "governs": "impersonal: il faut + noun / infinitive",
-      "meanings": [
-        {
-          "en": "to be needed, to be necessary",
-          "note": "only with impersonal il: il faut + noun or infinitive"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "—",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "—",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il faut",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "—",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il a fallu",
-                "—"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "—",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il fallait",
-                "—"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "—",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il faudra",
-                "—"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Il faut des autorisations.",
-          "trans": "You need permits."
-        },
-        {
-          "text": "Il faut partir.",
-          "trans": "We have to leave."
-        }
-      ],
-      "related": [
-        {
-          "word": "il faut",
-          "gloss": "it is necessary, one must"
-        },
-        {
-          "word": "nécessaire",
-          "gloss": "necessary"
-        }
-      ]
-    },
     "femme": {
       "lemma": "femme",
       "stress": "fam",
@@ -5217,90 +4552,6 @@
           "gloss": "more French"
         }
       ]
-    },
-    "idée": {
-      "lemma": "idée",
-      "stress": "ide",
-      "pos": "noun",
-      "gloss": "idea",
-      "meanings": [
-        {
-          "en": "idea",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'idée",
-              "les idées"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'était mon idée.",
-          "trans": "It was my idea."
-        },
-        {
-          "text": "J'ai une idée.",
-          "trans": "I have an idea."
-        }
-      ],
-      "related": [],
-      "gender": "f",
-      "plural": "idées"
-    },
-    "il": {
-      "lemma": "il",
-      "stress": "il",
-      "pos": "pron",
-      "gloss": "he; it",
-      "meanings": [
-        {
-          "en": "he; it",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "masculine",
-              "il",
-              "ils"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il est là.",
-          "trans": "He is here."
-        },
-        {
-          "text": "Il y a une réunion.",
-          "trans": "There is a meeting."
-        }
-      ],
-      "related": []
     },
     "impossible": {
       "lemma": "impossible",
@@ -5529,36 +4780,6 @@
         }
       ]
     },
-    "merci": {
-      "lemma": "merci",
-      "stress": "mɛʁsi",
-      "pos": "interj",
-      "gloss": "thank you",
-      "meanings": [
-        {
-          "en": "thank you, thanks",
-          "note": "merci beaucoup = thank you very much"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Merci beaucoup pour votre aide précieuse aujourd'hui.",
-          "trans": "Thank you very much for your valuable help today."
-        },
-        {
-          "text": "Je te dis mille fois merci pour ce beau rôle!",
-          "trans": "I thank you a thousand times for this great role!"
-        }
-      ],
-      "related": [
-        {
-          "word": "merci beaucoup",
-          "gloss": "thank you very much"
-        }
-      ]
-    },
     "ministre": {
       "lemma": "ministre",
       "stress": "ministʁ",
@@ -5720,188 +4941,6 @@
         {
           "word": "une paperasse / des paperasses",
           "gloss": "a paperwork / paperworks"
-        }
-      ]
-    },
-    "parler": {
-      "lemma": "parler",
-      "stress": "paʁle",
-      "pos": "verb",
-      "gloss": "to speak, to talk",
-      "meanings": [
-        {
-          "en": "to speak, to talk",
-          "note": "parler à quelqu'un = to talk to someone"
-        },
-        {
-          "en": "parler de = to talk about",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je parle",
-              "nous parlons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu parles",
-              "vous parlez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle parle",
-              "ils/elles parlent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai parlé",
-                "nous avons parlé"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as parlé",
-                "vous avez parlé"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a parlé",
-                "ils/elles ont parlé"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je parlais",
-                "nous parlions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu parlais",
-                "vous parliez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle parlait",
-                "ils/elles parlaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je parlerai",
-                "nous parlerons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu parleras",
-                "vous parlerez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle parlera",
-                "ils/elles parleront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "parlons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "parle",
-                "parlez"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Je parle de sa carrière.",
-          "trans": "I'm talking about his career."
-        },
-        {
-          "text": "Tu parles français?",
-          "trans": "Do you speak French?"
-        }
-      ],
-      "related": [
-        {
-          "word": "reparler",
-          "gloss": "to discuss again"
         }
       ]
     },
@@ -6794,168 +5833,6 @@
         }
       ]
     },
-    "vouloir": {
-      "lemma": "vouloir",
-      "stress": "vulwaʁ",
-      "pos": "verb",
-      "gloss": "to want",
-      "meanings": [
-        {
-          "en": "to want",
-          "note": "+ noun or infinitive."
-        },
-        {
-          "en": "je voulais = I wanted",
-          "note": "Imparfait, softer."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je veux",
-              "nous voulons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu veux",
-              "vous voulez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle veut",
-              "ils/elles veulent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai voulu",
-                "nous avons voulu"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as voulu",
-                "vous avez voulu"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a voulu",
-                "ils/elles ont voulu"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je voulais",
-                "nous voulions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu voulais",
-                "vous vouliez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle voulait",
-                "ils/elles voulaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je voudrai",
-                "nous voudrons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu voudras",
-                "vous voudrez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle voudra",
-                "ils/elles voudront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Je veux juste voir Mathias.",
-          "trans": "I just want to see Mathias."
-        },
-        {
-          "text": "Je voulais te faire la surprise.",
-          "trans": "I wanted to surprise you."
-        }
-      ],
-      "related": [
-        {
-          "word": "volonté",
-          "gloss": "will, determination"
-        },
-        {
-          "word": "en vouloir à",
-          "gloss": "to hold a grudge against"
-        }
-      ]
-    },
     "vous": {
       "lemma": "vous",
       "stress": "vu",
@@ -7455,6 +6332,48 @@
         {
           "word": "au revoir",
           "gloss": "goodbye"
+        }
+      ]
+    },
+    "pour": {
+      "lemma": "pour",
+      "stress": "puʁ",
+      "pos": "prep",
+      "gloss": "for; (in order) to",
+      "meanings": [
+        {
+          "en": "for",
+          "note": "before an infinitive: pour faire plaisir"
+        },
+        {
+          "en": "to, in order to",
+          "note": "+ infinitive: pour voir."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Deux places pour mardi.",
+          "trans": "Two tickets for Tuesday."
+        },
+        {
+          "text": "Je suis là pour voir Mathias.",
+          "trans": "I'm here to see Mathias."
+        }
+      ],
+      "related": [
+        {
+          "word": "pourquoi",
+          "gloss": "why"
+        },
+        {
+          "word": "pour cent",
+          "gloss": "percent"
+        },
+        {
+          "word": "pour de vrai",
+          "gloss": "for real"
         }
       ]
     }

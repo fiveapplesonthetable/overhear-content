@@ -10,30 +10,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Miranda | Mathias, je veux tourner à Paris. | Mathias, I want to shoot in Paris. | #642 00:35:41: Tourner à Paris | verbatim |
-| 2 | Mathias | Paris? C'est une très bonne idée. | Paris? That's a very good idea. | new | new |
-| 3 | Miranda | Oui, mais il faut des autorisations. Ah, la paperasse française! | Yes, but we need permits. Ah, French paperwork! | #629 00:34:58: les autorisations<br>#631 00:35:04: La paperasse française | verbatim |
-| 4 | Mathias | C'est plus simple quand on connaît les bonnes personnes. | It's simpler when you know the right people. | #633 00:35:10: quand on connaît les bonnes personnes | verbatim |
+| 1 | Mathias | Vous avez les autorisations pour tourner à Paris? | Do you have the permits to shoot in Paris? | #629 00:34:58: Tu peux obtenir les autorisations pour tourner à Paris | adapted: Source question shortened to a polite question about permits; original speaker retained. |
+| 2 | Miranda | Ah, la paperasse française! | Ah, French paperwork! | #631 00:35:04: La paperasse française | adapted: Shortened or rephrased from the cited source dialogue. |
+| 3 | Mathias | Oui, c'est difficile. | Yes, it's difficult. | #632 00:35:07: On peut certainement critiquer la paperasse française | adapted: Criticism of the paperwork simplified for this adaptation. |
+| 4 | Mathias | C'est plus simple quand on connaît les bonnes personnes. | It's simpler when you know the right people. | #633 00:35:10: quand on connaît les bonnes personnes | adapted: Shortened or rephrased from the cited source dialogue. |
 | 5 | Miranda | Vraiment? | Really? | #634 00:35:14: Vraiment | verbatim |
 | 6 | Mathias | Si vous avez besoin d'aide, demandez. | If you need help, just ask. | #634 00:35:14: Si vous avez besoin d'aide, demandez | verbatim |
-| 7 | Mathias | Je connais la ministre de la Culture. C'est une jeune femme brillante. | I know the Minister of Culture. She's a brilliant young woman. | #635 00:35:17: ministre de la culture<br>#637 00:35:24: C'est une jeune femme brillante | verbatim |
-| 8 | Mathias | Et elle adore Cécile de France! | And she loves Cécile de France! | #639 00:35:30: elle adore Cécile de France | verbatim |
-| 9 | Miranda | Mais Cécile n'est plus dans le projet. | But Cécile isn't in the project any more. | #641 00:35:37: projet | verbatim |
+| 7 | Mathias | Je connais la ministre de la Culture. C'est une jeune femme brillante. | I know the Minister of Culture. She's a brilliant young woman. | #635 00:35:17: ministre de la culture<br>#637 00:35:24: C'est une jeune femme brillante | adapted: Shortened or rephrased from the cited source dialogue. |
+| 8 | Mathias | Et elle adore Cécile de France! | And she loves Cécile de France! | #639 00:35:30: elle adore Cécile de France | adapted: Shortened or rephrased from the cited source dialogue. |
+| 9 | Miranda | Mais Cécile n'est plus dans le projet. | But Cécile isn't in the project any more. | #641 00:35:37: projet | adapted: Shortened or rephrased from the cited source dialogue. |
 | 10 | Mathias | Je sais. Elle va être très triste. | I know. She's going to be very sad. | new | new |
-| 11 | Mathias | Alors, tourner à Paris, c'est peut-être impossible. | So shooting in Paris might be impossible. | #642 00:35:41: Tourner à Paris<br>#642 00:35:41: peut-être impossible | verbatim |
+| 11 | Mathias | Alors, tourner à Paris, c'est peut-être impossible. | So shooting in Paris might be impossible. | #642 00:35:41: Tourner à Paris<br>#642 00:35:41: peut-être impossible | adapted: Shortened or rephrased from the cited source dialogue. |
 | 12 | Miranda | Elle n'a pas besoin de le savoir. | She doesn't need to know. | #643 00:35:44: Elle n'a pas besoin de le savoir | verbatim |
-| 13 | Mathias | Elles sont très proches. C'est difficile de cacher la vérité. | They're very close. It's hard to hide the truth. | #644 00:35:47: Elles sont très proches<br>#645 00:35:48: C'est difficile de cacher des choses à ses amies | verbatim |
+| 13 | Mathias | Elles sont très proches. C'est difficile de cacher la vérité. | They're very close. It's hard to hide the truth. | #644 00:35:47: Elles sont très proches<br>#645 00:35:48: C'est difficile de cacher des choses à ses amies | adapted: Shortened or rephrased from the cited source dialogue. |
 | 14 | Miranda | Vous bluffez. | You're bluffing. | #647 00:35:58: Vous bluffez | verbatim |
 | 15 | Mathias | Pas du tout. Pas de Cécile, pas de Paris. | Not at all. No Cecile, no Paris. | #647 00:35:58: Pas du tout<br>#648 00:36:02: Pas de Cécile, pas de Paris | verbatim |
-| 16 | Miranda | Bon. Je vais parler à Quentin. | Fine. I'll talk to Quentin. | new | new |
-| 17 | Mathias | Merci, Miranda. Bonne chance! | Thank you, Miranda. Good luck! | #650 00:36:18: Bonne chance | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias, I want to shoot in Paris.' The first action word means 'I want', and right after it comes an action word in its dictionary form, just like in English. Mathias likes the idea.
-- 'Paris? That's a very good idea.' The word for 'idea' is feminine, so the little word before it is the feminine 'a'. Then Miranda sighs.
-- 'Yes, but we need permits.' The expression meaning 'it is necessary' uses an impersonal 'it'. This present form stays singular, even though the permits are plural.
-- 'Ah, French paperwork!' The description 'French' has a feminine form to match 'paperwork'. Its final consonant becomes audible in this form.
+- 'Do you have the permits to shoot in Paris?' Mathias puts the polite 'you' before 'have'. The action at the end means making a film, rather than turning an object.
+- 'Ah, French paperwork!' The description 'French' takes a feminine form to match 'paperwork'. Its final consonant becomes audible in this form.
+- 'Yes, it's difficult.' A short description after 'it's' is enough to agree with Miranda's complaint. Mathias then offers a way around the problem.
 - 'It's simpler when you know the right people.' The word in the middle means 'one' or 'people in general'. It sounds like a hint, and it is one.
 - 'Really?' Miranda is curious now. One word, rising at the end.
 - 'If you need help, just ask.' Notice the polite form of 'you' all through this scene: Mathias and Miranda are business partners, so they stay formal. The last word is a polite command, 'ask'.
@@ -48,6 +45,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's hard to hide the truth.' After the description 'difficult', a short linking word introduces the action. Notice that 'truth' has a definite article, as in English here.
 - 'You're bluffing.' The same word as in poker, with the polite form of 'you'. And now the line of the scene.
 - 'Not at all.' This three-word reply strengthens the refusal. You can use it on its own when denying an accusation, as Mathias does here.
-- 'No Cécile, no Paris.' Without a verb, the negative word alone is enough, with a little word linking it to the noun. Short and hard to forget. Miranda gives in.
-- 'Fine. I'll talk to Quentin.' The near future again: 'I am going to' plus 'talk'. Quentin is Tarantino, of course.
-- 'Thank you, Miranda. Good luck!' The wish for luck uses a feminine form of 'good', because the noun for luck is feminine.
+- 'No Cecile, no Paris.' Without a verb, the negative word pairs with a short link to each name. The tea-room conversation ends with that threat; outside, Mathias confirms to another man that this is a rescue operation.
+
+## Primary-video review
+
+The original tea-room permit question is Mathias’s. The subsequent street exchange at cues649–650 is narrated in English and is not presented as a reply from Miranda.
