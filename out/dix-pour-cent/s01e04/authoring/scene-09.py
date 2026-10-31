@@ -121,4 +121,4 @@ WALK = [(0, None, "'Hippolyte won't be here for dinner.' Future tense of 'to be'
   "'It's not very smart to go out with his agent's assistant.' The expression 'go out with' means 'date' here. "
   'Mathias frames his discomfort as a professional concern.'),
  (13, None, "'Tell him, then.' Command form of 'tell' joined by a hyphen to the word for 'to him'."),
- (14, None, "'Yes, I'll talk to him.' Near future again: 'I am going to talk to him'.")]
+ (14, None, "'Yes, I'll talk to him.' Near future: 'I am going to talk to him'.")]
