@@ -15,9 +15,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Audrey | Vous avez changé de nom? | Did you change your name? | #578 00:34:29: Vous avez changé de nom | verbatim |
 | 4 | Armelle | Je me suis entraînée pendant des mois. | I trained for months. | #578 00:34:29: Je me suis entraînée pendant des mois | verbatim |
 | 5 | Audrey | Attendez, je n'ai pas commencé l'entretien. | Wait, I haven't started the interview. | #580 00:34:35: attendez<br>#580 00:34:35: commencé l'entretien | verbatim |
-| 6 | Armelle | Regardez mes ampoules! Touchez mes mains. | Look at my blisters! Touch my hands. | #582 00:34:42: Regardez mes ampoules<br>#583 00:34:48: touchez mes mains | verbatim |
-| 7 | Mathias | Pardon, c'est quoi le problème? | Excuse me, what's the problem? | #584 00:34:50: Pardon | verbatim |
-| 8 | Armelle | J'ai appris le français canadien! Pourquoi vous m'avez fait ça? | I learned Canadian French! Why did you do that to me? | #585 00:34:52: J'ai appris le français canadien<br>#586 00:34:53: Pourquoi vous m'avez fait ça | verbatim |
+| 6 | Armelle | Regarde mes ampoules! Touche mes mains. | Look at my blisters! Touch my hands. | #582 00:34:42: Regardez mes ampoules<br>#583 00:34:48: touchez mes mains | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
+| 7 | Audrey | Pardon, c'est quoi le problème? | Excuse me, what's the problem? | #584 00:34:50: Pardon | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
+| 8 | Armelle | J'ai appris le français canadien! Pourquoi tu me fais ça? | I learned Canadian French! Why are you doing that to me? | #585 00:34:52: J'ai appris le français canadien<br>#586 00:34:53: Pourquoi vous m'avez fait ça | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 9 | Mathias | Vous devez partir maintenant. | You have to leave now. | #589 00:35:01: Vous devez partir maintenant | verbatim |
 | 10 | Audrey | Ne pleurez pas. Mais je ne savais pas. | Don't cry. But I didn't know. | #587 00:34:55: Ne pleurez pas<br>#588 00:34:58: Mais je ne savais pas | verbatim |
 | 11 | Armelle | Vous ne pouvez pas me prendre mon rôle! C'était ma grande chance! | You can't take my part from me! It was my big chance! | #588 00:34:58: Vous ne pouvez pas me prendre mon rôle<br>#592 00:35:10: C'était ma grande chance | verbatim |
@@ -34,9 +34,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Did you change your name?' Literally 'you have changed of name', in the past. Armelle bursts out.
 - 'I trained for months.' Armelle uses a self-directed action word in the past, built with 'to be', so the ending takes a feminine letter for her.
 - 'Wait, I haven't started the interview.' The negative surrounds the helping form of 'have', leaving the past form 'started' after it. Audrey is still thinking about a nanny interview.
-- 'Look at my blisters! Touch my hands.' Armelle gives two polite commands. Her palms are raw from months on the metal pole. Mathias steps in.
-- 'Excuse me, what's the problem?' Mathias asks a direct, everyday question with the word for 'what' in the middle.
-- 'I learned Canadian French! Why did you do that to me?' Both sentences are in the past with 'have'. Armelle falls to her knees in tears.
+- 'Look at my blisters! Touch my hands.' Armelle gives two urgent casual commands. Her raw palms are the physical evidence of all her dance practice.
+- 'Excuse me, what's the problem?' Audrey is confused about what the visitor wants. The everyday question puts the word meaning what in the middle.
+- 'I learned Canadian French! Why are you doing that to me?' Armelle moves from a completed past action to a present question. The short object before doing marks her as the person being hurt.
 - 'You have to leave now.' The verb 'must' followed by 'to leave'. Mathias wants her out of the flat, but Audrey is moved.
 - 'Don't cry. But I didn't know.' First a negative command, then the past tense for how things were: Mathias never told Audrey that another actress already had the role.
 - 'You can't take my part from me! It was my big chance!' Notice the little word for 'from me' placed right before 'to take'.
@@ -46,4 +46,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You know what? Thank you so much, Audrey!' Listen to the shift: Armelle now uses the casual 'you' with Audrey.
 - 'Come on, enjoy the shoot. Good luck!' And Audrey answers with the casual command too, wishing her luck on the film.
 
-Primary-video check: private original E04 MP4id1619500213. Audrey’s flat; Armelle arrives, shows her hands, cries, is comforted, and is warmly thanked at the door. Three adult roles match video; register claims remain pending original-audio audit. Original French audio audit pending.
+Actual original French audio + primary video audited. Corrected original register, speaker attribution and full-clause meanings; learner paraphrases remain disclosed.

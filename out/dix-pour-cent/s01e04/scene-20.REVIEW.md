@@ -13,11 +13,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Catherine | Déjà de retour? J'ai invité les enfants à dîner! | Back already? I invited the kids for dinner! | #495 00:28:40: Déjà de retour<br>#497 00:28:46: J'ai invité les enfants à dîner | verbatim |
 | 2 | Mathias | J'avais juste envie de rentrer. | I just wanted to come home. | #496 00:28:43: J'avais juste envie de rentrer | verbatim |
 | 3 | Camille | Je suis venue chercher les photos d'Hippolyte. Andréa me l'a demandé. | I came to get Hippolyte's photos. Andréa asked me to. | #498 00:28:53: chercher les photos d'Hippolyte<br>#499 00:28:57: Andréa me l'a demandé | verbatim |
-| 4 | Catherine | Qu'est-ce que tu as fait à la fac? | What did you study at university? | #501 00:29:14: Qu'est-ce que tu as fait à la fac | verbatim |
+| 4 | Mathias | Qu'est-ce que vous avez fait à la fac? | What did you study at university? | #501 00:29:14: Qu'est-ce que tu as fait à la fac | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 5 | Camille | J'ai fait un an de socio, puis j'ai arrêté. | I did a year of sociology, then I stopped. | #502 00:29:17: J'ai fait un an de socio, puis j'ai arrêté | verbatim |
-| 6 | Mathias | C'est dommage. Tu veux être agent? | That's a shame. Do you want to be an agent? | #503 00:29:20: C'est dommage<br>#506 00:29:32: Tu veux être agent | verbatim |
+| 6 | Mathias | C'est dommage. Vous voulez être agent? | That's a shame. Do you want to be an agent? | #503 00:29:20: C'est dommage<br>#506 00:29:32: Tu veux être agent | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 7 | Camille | J'y réfléchis. | I'm thinking about it. | #508 00:29:38: J'y réfléchis | verbatim |
-| 8 | Mathias | Qu'est-ce que font tes parents? | What do your parents do? | #511 00:30:01: Qu'est-ce que font tes parents | verbatim |
+| 8 | Mathias | Qu'est-ce que font vos parents? | What do your parents do? | #511 00:30:01: Qu'est-ce que font tes parents | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 9 | Camille | Ma mère est coiffeuse. Elle a son propre salon. | My mother is a hairdresser. She has her own salon. | #512 00:30:04: Ma mère est coiffeuse<br>#514 00:30:11: Elle a son propre salon | verbatim |
 | 10 | Catherine | C'est super! | That's great! | #512 00:30:04: C'est super | adapted: Drops the subsequent question whose voice needs further audit. |
 | 11 | Camille | Mon père répare des bateaux. | My father repairs boats. | #517 00:30:22: Mon père répare des bateaux | verbatim |
@@ -37,9 +37,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Andréa asked me to.' Literally 'Andréa asked it to me', with 'to me' and 'it' placed before the helper word.
 - 'What did you study at university?' The last word is an everyday short word for university. The completed past uses the helper 'have' with the past form of 'do'.
 - 'I did a year of sociology, then I stopped.' Sociology is shortened too in casual speech.
-- 'That's a shame. Do you want to be an agent?' The expression for 'that's a shame' has no article before the word for damage or pity. It reacts to Camille giving up her studies.
+- 'That's a shame. Do you want to be an agent?' Mathias asks about Camille's plans using polite address at the family table. The expression for pity stands without an article.
 - 'I'm thinking about it.' The tiny word before the verb means 'about it'.
-- 'What do your parents do?' The form of 'do' is plural because it refers to both parents. In this question, doing something means their occupations.
+- 'What do your parents do?' The action is plural because it refers to both parents. The possessive addresses Camille politely; the question asks about their occupations.
 - 'My mother is a hairdresser. She has her own salon.' Notice there is no word for 'a' before a profession.
 - 'That's great!' This enthusiastic describing word works for either a masculine or feminine thing. It does not need an extra ending here.
 - 'My father repairs boats.' The word for boats has a written plural ending with x. The action remains singular because the father, rather than the boats, is doing it.
@@ -51,5 +51,3 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Stop seeing him, okay?' Mathias gives a direct command, with 'him' right before the basic form 'to see'.
 - 'I can't believe this! Tell him why yourself!' The first phrase literally says 'I'm dreaming', but expresses disbelief here. The emphatic word after 'tell him' puts the responsibility back on Mathias.
 - 'We'll talk about it tomorrow.' The little word before 'talk' means 'about it'. The action has an ordinary present form; 'tomorrow' makes the future timing clear.
-
-Primary-video check: private original E04 MP4id1619500213. Dinner with Mathias, Catherine, Camille and Hippolyte. Mathias asks about Camille’s parents. Removed an uncertain follow-up question rather than assigning its voice without evidence. Original French audio audit pending.

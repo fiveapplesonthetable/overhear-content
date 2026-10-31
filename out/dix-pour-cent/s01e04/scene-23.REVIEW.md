@@ -12,19 +12,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Audrey | Augustin avait choisi une autre actrice. C'était horrible. | Augustin had chosen another actress. It was horrible. | #606 00:35:52: Augustin avait choisi<br>#607 00:35:55: C'était horrible | verbatim |
 | 2 | Mathias | Les acteurs prennent toujours le rôle d'un autre. | Actors always take someone else's role. | #608 00:35:57: Les acteurs prennent toujours | verbatim |
-| 3 | Audrey | Tu as bien regardé Armelle? Elle va être fantastique! | Did you take a good look at Armelle? She's going to be fantastic! | #610 00:36:03: Tu as bien regardé Armelle<br>#611 00:36:05: Elle va être fantastique | verbatim |
-| 4 | Mathias | Alors tu n'as pas besoin d'argent, finalement. | So you don't need money, after all. | #614 00:36:11: pas besoin d'argent, finalement | verbatim |
-| 5 | Audrey | Tu as une vision horrible de la vie. Elle m'a touchée. | You have a horrible view of life. She moved me. | #615 00:36:14: Tu as une vision horrible de la vie. Elle m'a touchée | verbatim |
-| 6 | Mathias | Ce n'est pas pour ça! Tu ne veux pas quitter tes enfants. | It's not because of that! You don't want to leave your children. | #616 00:36:18: pour ça<br>#616 00:36:18: quitter tes enfants | verbatim |
+| 3 | Audrey | Vous avez bien regardé Armelle? Elle va être fantastique! | Did you take a good look at Armelle? She's going to be fantastic! | #610 00:36:03: Tu as bien regardé Armelle<br>#611 00:36:05: Elle va être fantastique | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
+| 4 | Mathias | Alors vous n'avez pas besoin d'argent, finalement. | So you don't need money, after all. | #614 00:36:11: pas besoin d'argent, finalement | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
+| 5 | Audrey | Vous avez une vision horrible de la vie. Elle m'a touchée. | You have a horrible view of life. She moved me. | #615 00:36:14: Tu as une vision horrible de la vie. Elle m'a touchée | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
+| 6 | Mathias | Ce n'est pas pour ça! Vous ne voulez pas quitter vos enfants. | It's not because of that! You don't want to leave your children. | #616 00:36:18: pour ça<br>#616 00:36:18: quitter tes enfants | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 7 | Audrey | N'importe quoi! | Nonsense! | #617 00:36:22: N'importe quoi | verbatim |
-| 8 | Mathias | Tes enfants vont grandir et partir. | Your children are going to grow up and leave. | #618 00:36:23: Tes enfants vont grandir et partir | verbatim |
+| 8 | Mathias | Vos enfants vont grandir et partir. | Your children are going to grow up and leave. | #618 00:36:23: Tes enfants vont grandir et partir | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 9 | Audrey | Je veux travailler, mais ils sont petits! | I want to work, but they're small! | #624 00:36:40: je veux travailler<br>#625 00:36:42: mais ils sont petits | verbatim |
 | 10 | Audrey | Ils ont besoin de moi. Alors je fais quoi? | They need me. So what do I do? | #625 00:36:42: ont besoin de moi<br>#626 00:36:44: Alors je fais quoi | verbatim |
-| 11 | Audrey | Je les abandonne six mois? Tu ne m'as pas parlé du Canada! | Do I abandon them for six months? You didn't tell me about Canada! | #627 00:36:45: Je les abandonne six mois<br>#627 00:36:45: Tu ne m'as pas parlé du Canada | verbatim |
+| 11 | Audrey | Je les abandonne six mois par an? Vous ne m'avez pas parlé du Canada! | Do I abandon them for six months a year? You didn't tell me about Canada! | #627 00:36:45: Je les abandonne six mois<br>#627 00:36:45: Tu ne m'as pas parlé du Canada | adapted: Original audio says six months per year in a working parent’s career, distinct from the one-month Canada shoot. |
 | 12 | Mathias | Je ne savais pas. | I didn't know. | #628 00:36:50: savais pas | verbatim |
 | 13 | Audrey | Et c'est impossible de travailler avec un bébé partout. | And it's impossible to work with a baby around all the time. | #629 00:36:52: un bébé partout<br>#630 00:36:55: tu peux pas travailler | adapted: Combines Mathias’s complaint about taking a baby everywhere with his claim that it prevents work. |
-| 14 | Mathias | Tu dois beaucoup d'argent aux impôts. | You owe a lot of money in taxes. | #634 00:37:07: tu dois aux impôts<br>#635 00:37:09: mais je te souhaite bonne chance | adapted: Keeps the debt reminder separate from Audrey’s sarcastic farewell. |
-| 15 | Audrey | Mais je te souhaite bonne chance! | But I wish you good luck! | #635 00:37:09: mais je te souhaite bonne chance | verbatim |
+| 14 | Mathias | Vous devez beaucoup d'argent aux impôts. | You owe a lot of money in taxes. | #634 00:37:07: tu dois aux impôts<br>#635 00:37:09: mais je te souhaite bonne chance | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
+| 15 | Mathias | Mais je vous souhaite bonne chance! | But I wish you good luck! | #635 00:37:09: mais je te souhaite bonne chance | adapted: Original French audio checked: register/speaker corrected from backtranslated SRT. |
 | 16 | Mathias | Bonjour! | Hello! | #638 00:37:25: Bonjour | adapted: Mathias greets people when he returns to the agency; not a farewell on a train. |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -39,11 +39,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Your children are going to grow up and leave.' The near future again: 'are going to' followed by two verbs.
 - 'I want to work, but they're small!' The plural word for 'they' refers back to her children. The describing word for 'small' has a plural written ending to match them.
 - 'They need me. So what do I do?' There's that 'have need of' expression again, this time in the third person plural.
-- 'Do I abandon them for six months? You didn't tell me about Canada!' The little word for 'them' goes before the verb. With a masculine country name like Canada, 'about' combines with 'the'.
+- 'Do I abandon them for six months a year? You didn't tell me about Canada!' The object meaning them goes before the action. Audrey worries about spending months of each year away from her children; the specific Canada shoot is one month, not six.
 - 'I didn't know.' This past form of 'know' describes someone's state of knowledge. It is different from saying that they found something out at a particular moment.
 - 'And it's impossible to work with a baby around all the time.' The description 'impossible' is followed by a linking word and the plain action 'work'. This is Audrey's objection to taking her baby everywhere.
-- 'You owe a lot of money in taxes.' The action word here means 'owe'. Before another action it can mean 'must', but before an amount of money it describes a debt.
-- 'But I wish you good luck!' Audrey turns the farewell back on Mathias. The word for 'you' comes before 'wish' and marks the person receiving the wish; the describing word for 'good' agrees with feminine 'luck'.
+- 'You owe a lot of money in taxes.' The action means owe before an amount of money. Mathias reminds Audrey of the bill she still has to pay.
+- 'But I wish you good luck!' Mathias ends his own reminder about her tax debt with this sarcastic wish. The polite object means Audrey is the recipient; the feminine description matches luck.
 - 'Hello!' Mathias has returned to the agency. The same everyday greeting works when arriving at an office as when meeting someone outside.
 
-Primary-video check: private original E04 MP4id1619500213. Argument outside Audrey’s building. Audrey complains about taking a baby everywhere and gives the sarcastic good-luck farewell. Final hello is Mathias back at the agency, not a train-door exchange. Original French audio audit pending.
+Actual original French audio + primary video audited. Corrected original register, speaker attribution and full-clause meanings; learner paraphrases remain disclosed.
+
+Audio overrides an earlier still-frame interpretation: Mathias continues his tax-debt reminder into the sarcastic good-luck wish. Reaction shots of Audrey do not make her the speaker.
