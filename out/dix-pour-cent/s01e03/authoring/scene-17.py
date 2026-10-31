@@ -33,21 +33,55 @@ STORY = [
     ('nathalie', 'Depuis que tu es petite, je le savais.', 'Since you were little, I knew it.', [(444, 'Depuis que tu es petite')], ''),
     ('nathalie', "C'est plus neutre?", 'Is that more neutral?', [(445, "C'est plus neutre")], ''),
 ]
-WALK = [
-    (0, None, "'No, thank you. A glass of water.' The little word in the middle means 'of', just like a glass of water in English. Meanwhile Mathias whispers to Nathalie."),
-    (1, None, "'No, Nathalie, you can't do that.' He uses the casual 'you'; they've worked together for years. He has guessed her plan: to spoil the audition on purpose."),
-    (2, None, "'Of course I can.' Literally 'of course that yes'. A very French way to insist."),
-    (3, None, "'You don't even know how to do it.' The word for 'even' slips in after the negative. Mathias means she is too good an actress to act badly."),
-    (4, None, "'What do you know about it, Mathias?' The tiny word before the action word means 'about it'. She is a little offended."),
-    (5, None, "'It's very poetic. I'm very moved.' The word for 'moved' ends in the feminine spelling because Nathalie is a woman, though it sounds the same. She is talking about the script, and she means it."),
-    (6, None, "'Right, here I go.' Literally 'I go there'. People say it before jumping into anything."),
-    (7, None, "'But you're the one who wants to leave.' Now she is reading the script: a mother talking to her daughter. The pattern 'it's you who' puts the weight on the person."),
-    (8, None, "'Go, then! Go!' Nathalie gives a casual command from the action word 'to leave'. Commands are our language point: the action word alone, with no word for 'you'. She plays it with huge drama."),
-    (9, None, "'I'm not surprised.' The two-part negative around the action word 'to be'."),
-    (10, None, "'You've always loved the wind.' The word for 'always' sits between the two parts of the past action word. Solveig listens, and then asks for something else."),
-    (11, None, "'Can you try again, without so much tragedy?' The verb for 'try again' is just 'try' with a prefix meaning 'again'. Solveig wants less drama."),
-    (12, None, "'Something more neutral.' After the word for 'something', French adds a small linking word before the adjective."),
-    (13, None, "'If that's what you want.' Nathalie starts again, in exactly the same tragic voice."),
-    (14, None, "'Since you were little, I knew it.' The word for 'since' starts the sentence, and the second verb is in the tense for long, ongoing things in the past."),
-    (15, None, "'Is that more neutral?' Asked with total innocence. It wasn't neutral at all, and everyone in the room knows it. Now the whole audition again."),
-]
+WALK = [(0,
+  None,
+  "'No, thank you. A glass of water.' The little word in the middle means 'of', just like a glass of water "
+  'in English. Meanwhile Mathias whispers to Nathalie.'),
+ (1,
+  None,
+  "'No, Nathalie, you can't do that.' He uses the casual 'you'; they've worked together for years. He has "
+  'guessed her plan: to spoil the audition on purpose.'),
+ (2, None, "'Of course I can.' Literally 'of course that yes'. A very French way to insist."),
+ (3,
+  None,
+  "'You don't even know how to do it.' The word for 'even' slips in after the negative. Mathias means she is "
+  'too good an actress to act badly.'),
+ (4,
+  None,
+  "'What do you know about it, Mathias?' The tiny word before the action word means 'about it'. She is a "
+  'little offended.'),
+ (5,
+  None,
+  "'It's very poetic. I'm very moved.' The word for 'moved' ends in the feminine spelling because Nathalie "
+  'is a woman, though it sounds the same. She is talking about the script, and she means it.'),
+ (6, None, "'Right, here I go.' Literally 'I go there'. People say it before jumping into anything."),
+ (7,
+  None,
+  "'But you're the one who wants to leave.' Now she is reading the script: a mother talking to her daughter. "
+  "The pattern 'it's you who' puts the weight on the person."),
+ (8,
+  None,
+  "'Go, then! Go!' Nathalie gives a casual command from the action word 'to leave'. Commands are our "
+  "language point: the action word alone, with no word for 'you'. She plays it with huge drama."),
+ (9, None, "'I'm not surprised.' The two-part negative around the action word 'to be'."),
+ (10,
+  None,
+  "'You've always loved the wind.' The word for 'always' sits between the two parts of the past action word. "
+  'Solveig listens, and then asks for something else.'),
+ (11,
+  None,
+  "'Can you try again, without so much tragedy?' The verb for 'try again' is just 'try' with a prefix "
+  "meaning 'again'. Solveig wants less drama."),
+ (12,
+  None,
+  "'Something more neutral.' After the word for 'something', French adds a small linking word before the "
+  'adjective.'),
+ (13, None, "'If that's what you want.' Nathalie starts again, in exactly the same tragic voice."),
+ (14,
+  None,
+  "'Since you were little, I knew it.' The word for 'since' starts the sentence, and the second verb is in "
+  'the tense for long, ongoing things in the past.'),
+ (15,
+  None,
+  "'Is that more neutral?' The short comparison word means 'more'. With the adjective 'neutral', it asks "
+  'whether Nathalie has reduced the drama; the rising voice makes it a question.')]
