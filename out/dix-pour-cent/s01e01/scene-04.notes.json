@@ -3,8 +3,6 @@
   "id": "dix-pour-cent-s01e01-scene-04",
   "lines": [
     {
-      "seg": 1,
-      "trans": "Hello, Camille. Come in.",
       "words": [
         {
           "t": "Bonjour,",
@@ -23,14 +21,16 @@
           "gram": "first name"
         },
         {
-          "t": "Entrez.",
-          "lemma": "entrer",
+          "t": "Venez.",
+          "lemma": "venir",
           "pos": "verb",
-          "stress": "ɑ̃tʁe",
-          "gloss": "come in",
-          "gram": "imperative, 2nd person plural (formal vous)"
+          "stress": "vəne",
+          "gloss": "come",
+          "gram": "polite second person plural imperative"
         }
-      ]
+      ],
+      "trans": "Hello, Camille. Come along.",
+      "seg": 1
     },
     {
       "seg": 2,
@@ -1041,18 +1041,18 @@
       ]
     },
     {
-      "seg": 20,
-      "trans": "Come in.",
       "words": [
         {
-          "t": "Entrez.",
-          "lemma": "entrer",
+          "t": "Venez.",
+          "lemma": "venir",
           "pos": "verb",
-          "stress": "ɑ̃tʁe",
-          "gloss": "come in",
-          "gram": "imperative, 2nd person plural (formal vous)"
+          "stress": "vəne",
+          "gloss": "come",
+          "gram": "polite second person plural imperative"
         }
-      ]
+      ],
+      "trans": "Come along.",
+      "seg": 20
     },
     {
       "seg": 22,
@@ -1927,8 +1927,6 @@
       ]
     },
     {
-      "seg": 54,
-      "trans": "Hello, Camille. Come in.",
       "words": [
         {
           "t": "Bonjour,",
@@ -1947,14 +1945,16 @@
           "gram": "first name"
         },
         {
-          "t": "Entrez.",
-          "lemma": "entrer",
+          "t": "Venez.",
+          "lemma": "venir",
           "pos": "verb",
-          "stress": "ɑ̃tʁe",
-          "gloss": "come in",
-          "gram": "imperative, 2nd person plural (formal vous)"
+          "stress": "vəne",
+          "gloss": "come",
+          "gram": "polite second person plural imperative"
         }
-      ]
+      ],
+      "trans": "Hello, Camille. Come along.",
+      "seg": 54
     },
     {
       "seg": 55,
@@ -4777,196 +4777,6 @@
         {
           "word": "un endroit / des endroits",
           "gloss": "a place / places"
-        }
-      ]
-    },
-    "entrer": {
-      "lemma": "entrer",
-      "stress": "ɑ̃tʁe",
-      "pos": "verb",
-      "gloss": "to enter, to come in",
-      "meanings": [
-        {
-          "en": "to come in, to go in",
-          "note": "Passé composé with être."
-        },
-        {
-          "en": "entrez! = come in!",
-          "note": "Polite imperative."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "j'entre",
-              "nous entrons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu entres",
-              "vous entrez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle entre",
-              "ils/elles entrent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je suis entré(e)",
-                "nous sommes entré(e)s"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu es entré(e)",
-                "vous êtes entré(e)(s)"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle est entré(e)",
-                "ils/elles sont entré(e)s"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'entrais",
-                "nous entrions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu entrais",
-                "vous entriez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle entrait",
-                "ils/elles entraient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'entrerai",
-                "nous entrerons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu entreras",
-                "vous entrerez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle entrera",
-                "ils/elles entreront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "entrons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "entre",
-                "entrez"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Entrez, je vous en prie, la porte est ouverte.",
-          "trans": "Come in, please, the door is open."
-        },
-        {
-          "text": "Elle vient d'entrer dans le bureau de Mathias.",
-          "trans": "She just walked into Mathias's office."
-        }
-      ],
-      "related": [
-        {
-          "word": "entre",
-          "gloss": "between"
-        },
-        {
-          "word": "entraîner",
-          "gloss": "to train"
-        },
-        {
-          "word": "entretien",
-          "gloss": "interview"
         }
       ]
     },
@@ -7841,6 +7651,188 @@
         {
           "word": "qu'est-ce qui",
           "gloss": "what"
+        }
+      ]
+    },
+    "venir": {
+      "lemma": "venir",
+      "stress": "vəniʁ",
+      "pos": "verb",
+      "gloss": "to come",
+      "meanings": [
+        {
+          "en": "to come",
+          "note": "venir de + infinitive: je viens d'arriver = I've just arrived"
+        },
+        {
+          "en": "venir de + infinitive = to have just",
+          "note": "Je viens d'arriver."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je viens",
+              "nous venons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu viens",
+              "vous venez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle vient",
+              "ils/elles viennent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je suis venu(e)",
+                "nous sommes venu(e)s"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu es venu(e)",
+                "vous êtes venu(e)(s)"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle est venu(e)",
+                "ils/elles sont venu(e)s"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je venais",
+                "nous venions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu venais",
+                "vous veniez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle venait",
+                "ils/elles venaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je viendrai",
+                "nous viendrons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu viendras",
+                "vous viendrez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle viendra",
+                "ils/elles viendront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "venons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "viens",
+                "venez"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Je ne peux pas venir ce soir.",
+          "trans": "I can't come tonight."
+        },
+        {
+          "text": "Tu viens?",
+          "trans": "Are you coming?"
+        }
+      ],
+      "related": [
+        {
+          "word": "venir de + infinitive: je viens d'arriver",
+          "gloss": "I've just arrived"
         }
       ]
     }

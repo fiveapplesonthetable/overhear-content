@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Camille | Journée difficile? | Tough day? | #423 00:23:36: Journée difficile | verbatim |
-| 2 | Cécile | Pas difficile. Juste très particulière. | Not tough. Just very strange. | #424 00:23:40: Pas difficile<br>#424 00:23:40: très particulière | verbatim |
-| 3 | Camille | Moi aussi. | Me too. | #425 00:23:43: Moi aussi | verbatim |
+| 1 | Cécile | Journée difficile? | Tough day? | #423 00:23:36: Journée difficile | verbatim |
+| 2 | Camille | Pas difficile. Juste très particulière. | Not tough. Just very strange. | #424 00:23:40: Pas difficile<br>#424 00:23:40: très particulière | verbatim |
+| 3 | Cécile | Moi aussi. | Me too. | #425 00:23:43: Moi aussi | verbatim |
 | 4 | Cécile | Ce film de Tarantino... | This Tarantino film... | #425 00:23:43: Ce film de Tarantino | verbatim |
 | 5 | Camille | Je comprends. C'est un coup dur. | I understand. It's a real blow. | #426 00:23:48: Je comprends<br>#427 00:23:49: un coup de massue | adapted: The image of a heavy blow is shortened to coup dur. |
 | 6 | Cécile | C'est-à-dire? | Meaning? | #428 00:23:52: C'est-à-dire | verbatim |
@@ -30,8 +30,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tough day?' Just two words, no verb: the noun for 'day' and the adjective for 'difficult'. Cécile answers politely.
-- 'Not tough. Just very strange.' Her word means 'peculiar' or 'unusual', and it has a feminine ending because it describes the day, which is a feminine word in French. Camille sympathises.
+- 'Tough day?' Just two words, no verb: a day and a description of difficulty. Cecile asks Camille after helping her get into the elevator with her papers.
+- 'Not tough. Just very strange.' Camille's description means 'peculiar' or 'unusual'. Its feminine ending matches the French word for day.
 - 'Me too.' The short word for 'me' is the one that can stand alone. Adding 'also' gives the everyday response 'me too'.
 - 'This Tarantino film...' The small word before 'film' points to a particular film. French links it to the director's name with 'of'.
 - 'I understand.' The familiar sound at the end belongs to the present form used with 'I'. Camille means to show sympathy, but she has misunderstood what Cecile knows.
