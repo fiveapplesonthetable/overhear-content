@@ -45,7 +45,7 @@ def annotation_spans(text, words, required=False):
 
 
 def source_audio_metadata(value):
-    """Validate public metadata only. The renderer verifies private bytes and actual media bounds."""
+    """Validate private-proof metadata only. Original show speech is not publishable audio."""
     if not isinstance(value, dict) or set(value) != {"file", "sha256", "start", "end"}:
         raise ValueError("sourceAudio needs exactly file, sha256, start and end")
     name = value["file"]
