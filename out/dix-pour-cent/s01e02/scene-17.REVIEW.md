@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Arlette | Elles ne peuvent pas se sentir. | They can't stand each other. | #497 00:27:40: Elles ne peuvent pas se sentir | verbatim |
 | 6 | Andréa | Ah bon? Je n'ai jamais entendu ça. | Really? I've never heard that. | #498 00:27:42: Ah bon ? Je n'ai jamais entendu ça | verbatim |
 | 7 | Arlette | Line était une chanteuse connue. Françoise était une jeune actrice. | Line was a well-known singer. Françoise was a young actress. | #502 00:27:53: Line était une chanteuse connue | adapted: Simplifies the conservatoire background to being a young actress. |
-| 8 | Arlette | Françoise avait un amoureux. Devinez qui! | Françoise had a boyfriend. Guess who! | #504 00:27:58: Françoise<br>#505 00:28:03: Devinez qui | adapted: Summarises the romantic connection implied by the source and confirmed in the next exchange. |
+| 8 | Arlette | Françoise avait un amoureux. Devine qui! | Françoise had a boyfriend. Guess who! | #504 00:27:58: Françoise<br>#505 00:28:03: Devinez qui | adapted: Summarises the romantic connection confirmed in the next exchange; original French audio restores familiar Devine qui, rather than the dual subtitle’s formal Devinez. |
 | 9 | Andréa | Je ne sais pas. | I don't know. | #506 00:28:05: Je ne sais pas | verbatim |
 | 10 | Arlette | Samuel! | Samuel! | #507 00:28:07: Samuel | verbatim |
 | 11 | Andréa | Françoise était avec Samuel? | Françoise was with Samuel? | #508 00:28:09: Françoise était avec Samuel | verbatim |
