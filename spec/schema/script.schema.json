@@ -90,7 +90,7 @@
     },
     "segments": {
       "type": "array",
-      "minItems": 20,
+      "minItems": 7,
       "items": {
         "type": "object",
         "additionalProperties": false,
@@ -113,6 +113,35 @@
             "type": "number",
             "minimum": 0,
             "maximum": 3
+          },
+          "sourceAudio": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "file",
+              "sha256",
+              "start",
+              "end"
+            ],
+            "description": "Native original speech only. Relative identifier under external private OVERHEAR_SOURCE_AUDIO_ROOT; never commit media or absolute paths. Public transcript omits this object.",
+            "properties": {
+              "file": {
+                "type": "string",
+                "pattern": "^sources/[a-zA-Z0-9][a-zA-Z0-9_./-]*\\.(mp4|mkv|webm|m4a|wav|flac|mp3|ogg)$"
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "start": {
+                "type": "number",
+                "minimum": 0
+              },
+              "end": {
+                "type": "number",
+                "minimum": 0
+              }
+            }
           }
         }
       }
@@ -161,6 +190,30 @@
           }
         }
       }
+    },
+    "format": {
+      "const": "taster",
+      "description": "Short source-bound taster; requires a matching explicit excerpt in scenes.json. Optional; full lessons remain the default."
     }
-  }
+  },
+  "anyOf": [
+    {
+      "properties": {
+        "segments": {
+          "type": "array",
+          "minItems": 20
+        }
+      }
+    },
+    {
+      "required": [
+        "format"
+      ],
+      "properties": {
+        "format": {
+          "const": "taster"
+        }
+      }
+    }
+  ]
 }
