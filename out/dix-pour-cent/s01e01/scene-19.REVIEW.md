@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Isn't Herve here?' Two small negatives surround 'is'. The last word can mean either 'here' or 'there', depending on where the speaker is looking.
-- 'Noémie, I have a problem.' Simple and direct: I have, then the thing. She tries to sound casual.
-- 'I think you can help me.' A short linking word joins 'think' to the next statement. Camille uses the familiar address with Noemie, as the assistants do with each other.
+- 'Noémie, I have a problem.' French uses a form of 'have' to say that there is a problem, just as English does here. The article before 'problem' is masculine and singular; it introduces a problem she has not yet explained.
+- 'I think you can help me.' A short linking word joins 'think' to the next statement. After 'can', 'help' stays in its infinitive form. The little object meaning 'me' goes immediately before 'help'.
 - 'I don't think so.' The two negative words surround 'think'. Noemie is reluctant to help, and suspicious about Camille's relationship with Mathias.
 - 'Please.' The expression literally means 'if it pleases you'. Its middle word has the familiar form for one person.
 - 'There's nothing between Mathias and me, okay?' Here the negative pairs with the word for 'nothing' instead of the usual 'not'. Camille thinks Noémie is jealous. Of course she can't say that Mathias is really her father.
 - 'Excuse me? That doesn't worry me at all.' The words at the end mean 'at all', and they make the denial stronger. She says it a little too fast to be believed.
 - 'So, what's your problem?' The familiar possessive before 'problem' matches the way the two assistants address each other. Noemie now asks what Camille actually needs.
-- 'I don't know anything about contracts.' Negative plus 'nothing' again. Camille plays the innocent beginner, which is partly true.
+- 'I don't know anything about contracts.' Here 'nothing' replaces the ordinary negative 'not'. The word before 'contracts' combines 'to' with the plural article 'the'; French uses that combination after this way of saying 'know nothing'.
 - 'Can I look at one of Mathias's contracts?' The owner follows a short word meaning 'of'. French says 'a contract of Mathias', where English uses the ending on his name.
 - 'Canet's, for example?' The first word means 'the one' and replaces the masculine noun 'contract'. Camille can name the contract she wants without repeating that noun.
 - 'No, no, no! That's impossible.' Repeating 'no' strengthens the refusal. The description that follows already contains the idea of 'not possible', without another pair of negatives.
 - 'He doesn't let anyone see his contracts.' This time the small negative before 'let' pairs with 'nobody' after it. The possessive before 'contracts' is plural because there is more than one contract.
-- 'Where's the traitor? Where's the mole?' Gabriel repeats the same question pattern with two different people to find. The noun for 'mole' also means a spy inside an organisation.
+- 'Where's the traitor? Where's the mole?' Both questions put 'where' before 'is'. The two nouns have different grammatical genders: 'traitor' is masculine here, while 'mole' is feminine. The second is a spy inside an organisation.
 - 'She's gone! She's left me.' The action meaning 'depart' builds this past with 'be'. The action meaning 'leave someone' uses 'have', with the little object meaning 'me' before it.
 - 'Yes, Mathias?' Noemie answers when her boss calls her. Naming him at the end identifies the person whose attention she is acknowledging.
