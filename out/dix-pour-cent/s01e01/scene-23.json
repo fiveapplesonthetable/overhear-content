@@ -15,18 +15,18 @@
    "gap": 0.8
   },
   {
+   "v": "mathias",
+   "t": "Vous avez les autorisations pour tourner à Paris?",
+   "gap": 0.55
+  },
+  {
    "v": "miranda",
-   "t": "Mathias, je veux tourner à Paris.",
+   "t": "Ah, la paperasse française!",
    "gap": 0.55
   },
   {
    "v": "mathias",
-   "t": "Paris? C'est une très bonne idée.",
-   "gap": 0.55
-  },
-  {
-   "v": "miranda",
-   "t": "Oui, mais il faut des autorisations. Ah, la paperasse française!",
+   "t": "Oui, c'est difficile.",
    "gap": 0.55
   },
   {
@@ -87,16 +87,6 @@
   {
    "v": "mathias",
    "t": "Pas du tout. Pas de Cécile, pas de Paris.",
-   "gap": 0.55
-  },
-  {
-   "v": "miranda",
-   "t": "Bon. Je vais parler à Quentin.",
-   "gap": 0.55
-  },
-  {
-   "v": "mathias",
-   "t": "Merci, Miranda. Bonne chance!",
    "gap": 0.9
   },
   {
@@ -105,33 +95,13 @@
    "gap": 0.4
   },
   {
-   "v": "miranda",
-   "t": "Mathias, je veux tourner à Paris.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Mathias, I want to shoot in Paris.' The first action word means 'I want', and right after it comes an action word in its dictionary form, just like in English. Mathias likes the idea.",
-   "gap": 0.4
-  },
-  {
    "v": "mathias",
-   "t": "Paris? C'est une très bonne idée.",
+   "t": "Vous avez les autorisations pour tourner à Paris?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Paris? That's a very good idea.' The word for 'idea' is feminine, so the little word before it is the feminine 'a'. Then Miranda sighs.",
-   "gap": 0.4
-  },
-  {
-   "v": "miranda",
-   "t": "Oui, mais il faut des autorisations.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Yes, but we need permits.' The expression meaning 'it is necessary' uses an impersonal 'it'. This present form stays singular, even though the permits are plural.",
+   "t": "'Do you have the permits to shoot in Paris?' Mathias puts the polite 'you' before 'have'. The action at the end means making a film, rather than turning an object.",
    "gap": 0.4
   },
   {
@@ -141,7 +111,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Ah, French paperwork!' The description 'French' has a feminine form to match 'paperwork'. Its final consonant becomes audible in this form.",
+   "t": "'Ah, French paperwork!' The description 'French' takes a feminine form to match 'paperwork'. Its final consonant becomes audible in this form.",
+   "gap": 0.4
+  },
+  {
+   "v": "mathias",
+   "t": "Oui, c'est difficile.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Yes, it's difficult.' A short description after 'it's' is enough to agree with Miranda's complaint. Mathias then offers a way around the problem.",
    "gap": 0.4
   },
   {
@@ -291,42 +271,22 @@
   },
   {
    "v": "narrator",
-   "t": "'No Cécile, no Paris.' Without a verb, the negative word alone is enough, with a little word linking it to the noun. Short and hard to forget. Miranda gives in.",
-   "gap": 0.4
-  },
-  {
-   "v": "miranda",
-   "t": "Bon. Je vais parler à Quentin.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Fine. I'll talk to Quentin.' The near future again: 'I am going to' plus 'talk'. Quentin is Tarantino, of course.",
-   "gap": 0.4
-  },
-  {
-   "v": "mathias",
-   "t": "Merci, Miranda. Bonne chance!",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Thank you, Miranda. Good luck!' The wish for luck uses a feminine form of 'good', because the noun for luck is feminine. Now let's listen to the entire dialogue once more.",
+   "t": "'No Cecile, no Paris.' Without a verb, the negative word pairs with a short link to each name. The tea-room conversation ends with that threat; outside, Mathias confirms to another man that this is a rescue operation. Now let's listen to the entire dialogue once more.",
    "gap": 0.9
   },
   {
+   "v": "mathias",
+   "t": "Vous avez les autorisations pour tourner à Paris?",
+   "gap": 0.5
+  },
+  {
    "v": "miranda",
-   "t": "Mathias, je veux tourner à Paris.",
+   "t": "Ah, la paperasse française!",
    "gap": 0.5
   },
   {
    "v": "mathias",
-   "t": "Paris? C'est une très bonne idée.",
-   "gap": 0.5
-  },
-  {
-   "v": "miranda",
-   "t": "Oui, mais il faut des autorisations. Ah, la paperasse française!",
+   "t": "Oui, c'est difficile.",
    "gap": 0.5
   },
   {
@@ -387,16 +347,6 @@
   {
    "v": "mathias",
    "t": "Pas du tout. Pas de Cécile, pas de Paris.",
-   "gap": 0.5
-  },
-  {
-   "v": "miranda",
-   "t": "Bon. Je vais parler à Quentin.",
-   "gap": 0.5
-  },
-  {
-   "v": "mathias",
-   "t": "Merci, Miranda. Bonne chance!",
    "gap": 0.9
   },
   {
@@ -416,18 +366,18 @@
   "lines": [
    {
     "line": 0,
-    "cue": 642,
-    "fragment": "Tourner à Paris"
-   },
-   {
-    "line": 2,
     "cue": 629,
-    "fragment": "les autorisations"
+    "fragment": "Tu peux obtenir les autorisations pour tourner à Paris"
    },
    {
-    "line": 2,
+    "line": 1,
     "cue": 631,
     "fragment": "La paperasse française"
+   },
+   {
+    "line": 2,
+    "cue": 632,
+    "fragment": "On peut certainement critiquer la paperasse française"
    },
    {
     "line": 3,
@@ -503,11 +453,6 @@
     "line": 14,
     "cue": 648,
     "fragment": "Pas de Cécile, pas de Paris"
-   },
-   {
-    "line": 16,
-    "cue": 650,
-    "fragment": "Bonne chance"
    }
   ]
  },

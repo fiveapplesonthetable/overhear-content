@@ -13,38 +13,42 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = ('Mathias has brought Miranda back to speak with Cecile about the film. The role may be available again, but '
  "the offer comes with a demand about her appearance. Listen to the French first, following Cecile's "
  'changing reaction.')
-OPENER = "Let's go back through it. Mathias opens with what sounds like the best news of Cécile's year."
+OPENER = "Let's go back through it. Miranda begins with promising news, but Cecile still has questions."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "That's a hard choice for Cécile, and a good one for you to remember: 'not' and 'not anymore' are built the same way, only the second little word changes. See you next time!"
 CLOSING = ('cecile', 'À bientôt!')
-STORY = [('mathias',
+STORY = [('miranda',
   'Quentin a réfléchi. Il te veut vraiment.',
   'Quentin has thought it over. He really wants you.',
   [(735, 'Quentin a réfléchi. Il te veut vraiment')],
   ''),
  ('cecile', "Merci, c'est super!", "Thanks, that's great!", [(736, "Merci, c'est super")], ''),
- ('mathias',
+ ('miranda',
   'Mais il veut une femme plus jeune.',
   'But he wants a younger woman.',
   [(737, 'une femme plus jeune')],
   'Shortened or rephrased from the cited source dialogue.'),
- ('mathias',
+ ('miranda',
   'Si tu veux le rôle, tu dois changer.',
   'If you want the part, you have to change.',
   [(738, 'si tu veux le rôle, tu dois changer')],
   ''),
  ('cecile', 'Je ne comprends pas.', "I don't understand.", [(739, 'Je ne comprends pas')], ''),
- ('mathias',
+ ('miranda',
   'Tu as de la chance. Il faut juste faire les joues.',
   "You're lucky. You just need to have your cheeks done.",
   [(740, "T'as de la chance, t'as juste les joues à faire")],
   'Simplified from the cited source dialogue.'),
- ('cecile', 'Une opération? Tu es sérieux?', 'An operation? Are you serious?', [], ''),
- ('mathias',
-  "Non. C'est du lipofilling.",
-  "No. It's lipofilling.",
-  [(742, 'Non'), (743, 'Du lipofilling')],
-  'Shortened or rephrased from the cited source dialogue.'),
+ ('cecile',
+  'Une opération? Tu es sérieuse?',
+  'An operation? Are you serious?',
+  [],
+  'Short question adapted for the female producer addressed by Cecile.'),
+ ('miranda',
+  "C'est du lipofilling.",
+  "It's lipofilling.",
+  [(743, 'Du lipofilling')],
+  'Short answer expanded with c’est; original speaker Miranda retained.'),
  ('miranda',
   "C'est totalement différent.",
   "It's totally different.",
@@ -76,7 +80,7 @@ STORY = [('mathias',
   "They start with Botox, then they don't stop anymore.",
   [(754, 'Elles commencent avec un peu de Botox'), (754, "elles ne peuvent plus s'arrêter")],
   'Shortened or rephrased from the cited source dialogue.'),
- ('mathias',
+ ('miranda',
   "Tu veux jouer l'immortelle?",
   'Do you want to play the immortal woman?',
   [(756, "Tu veux jouer l'immortelle")],
@@ -89,16 +93,16 @@ WALK = [(0,
   'sound. The thought is complete before this meeting begins.'),
  (0,
   'Il te veut vraiment.',
-  "'He really wants you.' The short object meaning 'you' comes before 'wants'. The final word strengthens "
-  "Mathias's reassurance."),
+  "'He really wants you.' Miranda places the short object meaning 'you' before 'wants'. The final word "
+  'strengthens her reassurance.'),
  (1,
   None,
   "'Thanks, that's great!' The last word sounds just like its English cousin, and the French use it all the "
   'time for anything they like. But then comes the catch.'),
  (2,
   None,
-  "'But he wants a younger woman.' This phrase for 'younger' is 'more young': the word for 'more' goes "
-  'before the adjective, a simple way to compare. Mathias spells it out.'),
+  "'But he wants a younger woman.' The comparison literally says 'more young'. The small word for 'more' "
+  'goes before the description, as Miranda explains the problem.'),
  (3,
   None,
   "'If you want the part, you have to change.' The second half uses the verb 'must'. Cécile doesn't see what "
@@ -116,12 +120,12 @@ WALK = [(0,
   "say what has to happen, without saying who. Cécile can't believe it."),
  (6,
   None,
-  "'An operation? Are you serious?' She asks with her voice rising, no special question words needed. "
-  'Mathias says no, not surgery, something else.'),
+  "'An operation? Are you serious?' Cecile uses the feminine form of 'serious' because she is questioning "
+  'Miranda. The rising voice makes it a question without a special question expression.'),
  (7,
   None,
-  "'No. It's lipofilling.' The small word before the treatment name introduces an unspecified amount. "
-  'Mathias gives it a technical name to make the proposal sound less alarming.'),
+  "'It's lipofilling.' The small word before the treatment name introduces an unspecified amount. Miranda "
+  'gives it a technical name to make the proposal sound less alarming.'),
  (8,
   None,
   "'It's totally different.' The long word before 'different' means 'completely'. It strengthens the "

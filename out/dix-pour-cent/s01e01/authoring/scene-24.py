@@ -10,10 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'cecile': 'Cécile', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
-INTRO = ('After his meeting with Miranda, Mathias visits Cecile with flowers. She has left Gabriel and distrusts '
- 'agents, but she lets Mathias join her in the garden. Hear the French first and follow the change in her '
- 'mood.')
-OPENER = "Let's walk back through the garden. Cécile greets Mathias at the door with a short, polite command."
+INTRO = ('After his meeting with Miranda, Mathias visits Cecile at home. She has left Gabriel and distrusts agents, '
+ 'but she lets Mathias join her in the garden. Hear the French first and follow the change in her mood.')
+OPENER = "Let's go through the visit. Cecile welcomes Mathias, but she is not yet ready to trust another agent."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "That's this scene done. When you watch it, notice how the polite 'you' turns casual as they work side by side in the garden. See you next time!"
 CLOSING = ('cecile', 'À bientôt, Mathias!')
@@ -22,15 +21,11 @@ STORY = [('cecile',
   'Hello, Mathias. Come in.',
   [(651, 'Bonjour, Mathias'), (652, 'Entrez')],
   ''),
- ('mathias',
-  'Bonjour, Cécile. Ces fleurs sont pour vous.',
-  'Hello, Cécile. These flowers are for you.',
-  [],
-  ''),
+ ('mathias', 'Cécile.', 'Cecile.', [(651, 'Cécile')], ''),
  ('cecile',
-  'Merci. Posez-les ici. Je jardine. Vous venez?',
-  "Thank you. Put them here. I'm gardening. Are you coming?",
-  [(653, 'Posez-les ici'), (656, 'Je jardine. Vous venez')],
+  'Je jardine. Vous venez?',
+  "I'm gardening. Are you coming?",
+  [(656, 'Je jardine. Vous venez')],
   ''),
  ('mathias',
   "Au nom de l'agence, je vous présente mes excuses.",
@@ -41,7 +36,7 @@ STORY = [('cecile',
   "Vous voulez me récupérer, mais il n'y a aucune chance.",
   'You want to win me back, but there is no chance.',
   [(659, 'Je sais que vous êtes là pour me récupérer'), (660, "il n'y a aucune chance")],
-  ''),
+  'Shortened or rephrased from the cited source dialogue.'),
  ('mathias',
   'Tu vas signer avec StarMédia?',
   'Are you going to sign with StarMédia?',
@@ -51,13 +46,17 @@ STORY = [('cecile',
   'Je ne sais pas. Tout le monde ment dans ce milieu.',
   "I don't know. Everyone lies in this business.",
   [(661, 'sais pas'), (663, 'Tout le monde ment dans ce milieu')],
-  ''),
+  'Shortened or rephrased from the cited source dialogue.'),
  ('cecile',
   'Tu peux me donner un coup de main?',
   'Can you give me a hand?',
   [(665, 'Tu peux me donner un coup de main')],
   ''),
- ('mathias', 'Oui, bien sûr.', 'Yes, of course.', [(665, 'Oui')], ''),
+ ('mathias',
+  'Oui, bien sûr.',
+  'Yes, of course.',
+  [(665, 'Oui')],
+  'Shortened or rephrased from the cited source dialogue.'),
  ('cecile', 'Passe-moi le seau.', 'Hand me the bucket.', [(667, 'Passe-moi le seau')], ''),
  ('mathias', 'Le seau? Ah, oui.', 'The bucket? Oh, yes.', [(667, 'Le seau'), (668, 'Ah, oui')], ''),
  ('cecile',
@@ -69,7 +68,7 @@ STORY = [('cecile',
   'La terre, elle est vraie. Elle ne sait pas mentir.',
   "The earth is genuine. It doesn't know how to lie.",
   [(671, 'La terre, elle est vraie'), (671, 'sait pas mentir')],
-  ''),
+  'Shortened or rephrased from the cited source dialogue.'),
  ('mathias',
   'Écoute, Cécile. Je comprends ta déception.',
   'Listen, Cécile. I understand your disappointment.',
@@ -88,16 +87,11 @@ STORY = [('cecile',
   '')]
 WALK = [(0,
   None,
-  "'Hello, Mathias. Come in.' That command uses the polite form of 'you'. Keep an eye on that: by the end of "
-  'the scene they will both slip into the casual one. Mathias holds out his flowers.'),
+  "'Hello, Mathias. Come in.' The instruction uses the polite form. Later in the garden, both speakers "
+  'switch to the familiar form.'),
  (1,
   None,
-  "'Hello, Cécile. These flowers are for you.' The word for 'flowers' is feminine and plural. He is still "
-  "using the polite 'you', the careful voice of an agent."),
- (2,
-  'Merci. Posez-les ici.',
-  "'Thanks. Put them here.' Another polite command. The little word stuck on with a hyphen means 'them', the "
-  "flowers. She doesn't make a fuss over the bouquet."),
+  "'Cecile.' Mathias answers her greeting with her first name. They know each other through the agency."),
  (2,
   'Je jardine. Vous venez?',
   "'I'm gardening. Are you coming?' French has no separate 'I am doing' form: 'I garden' also means 'I'm "

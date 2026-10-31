@@ -13,15 +13,16 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = ("Gabriel is looking at a possible new client after losing Cecile to Mathias. In Arlette's office, he claims "
  'to be working, but the older agent thinks he is giving up too easily. Listen to the French first and '
  'follow her increasingly direct advice.')
-OPENER = "Let's go through it together. Arlette comes in, looks at Gabriel stretched out on her sofa, and asks the obvious question."
+OPENER = ("Let's go through the conversation. Gabriel is stretched out on Arlette's sofa while she questions his plan "
+ 'to replace Cecile.')
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Well done, that was a quick and witty exchange. Listen for the 'not anymore' and the 'nothing' when you watch. See you next time!"
 CLOSING = ('arlette', 'Bonne journée!')
 STORY = [('arlette',
-  'Il fait chaud. Vous faites quoi?',
-  "It's hot. What are you doing?",
-  [(823, 'Il fait chaud'), (823, 'Vous faites quoi')],
-  ''),
+  'Vous faites quoi?',
+  'What are you doing?',
+  [(823, 'Vous faites quoi')],
+  'Weather remark omitted because it belongs to Gabriel; Arlette’s question retained.'),
  ('gabriel', 'Je travaille.', "I'm working.", [(823, 'Je travaille')], ''),
  ('gabriel',
   'Alice Tiscalini. Vous la connaissez?',
@@ -57,34 +58,30 @@ STORY = [('arlette',
   "She doesn't want to talk to me anymore.",
   [(839, 'elle ne veut plus me parler')],
   ''),
- ('gabriel',
+ ('arlette',
   "Elle est partie avec Mathias. C'est son choix.",
   "She left with Mathias. It's her choice.",
   [(840, 'elle est partie avec')],
   'Shortened or rephrased from the cited source dialogue.'),
- ('arlette',
+ ('gabriel',
   'Vous croyez? Elle est mieux avec Mathias?',
   "You think so? She's better off with Mathias?",
   [(844, 'est mieux avec Mathias')],
   'Shortened or rephrased from the cited source dialogue.'),
- ('arlette',
+ ('gabriel',
   'Je connais Cécile. Elle déteste les hommes comme Mathias.',
   'I know Cécile. She hates men like Mathias.',
   [(845, 'Je connais Cécile. Elle déteste les')],
   'Shortened or rephrased from the cited source dialogue.'),
- ('arlette', "C'est Mathias. Il manipule tout le monde.", "That's Mathias. He manipulates everyone.", [], ''),
  ('arlette',
   'Allez, Gabriel! Ne restez pas là à ne rien faire!',
   "Come on, Gabriel! Don't just lie there doing nothing!",
   [(847, 'à ne rien faire')],
   'Shortened or rephrased from the cited source dialogue.')]
 WALK = [(0,
-  'Il fait chaud.',
-  "'It's hot.' For the weather, French uses the action word 'to make' with 'it': literally 'it makes hot'."),
- (0,
-  'Vous faites quoi?',
-  "'What are you doing?' Same action word, 'to make' or 'to do', now with the formal 'you'. Arlette and "
-  "Gabriel are colleagues, but she's from another generation, so they keep it formal."),
+  None,
+  "'What are you doing?' Arlette uses a polite question with the question word after the action. French uses "
+  "the same action word for 'do' and 'make'."),
  (1,
   None,
   "'I'm working.' One action word in the present covers both 'I work' and 'I'm working'. From the sofa, "
@@ -132,17 +129,13 @@ WALK = [(0,
   'final written letter agrees with the woman who left.'),
  (13,
   None,
-  "'You think so? She's better off with Mathias?' The short word for 'better' describes how Cecile is doing, "
-  "rather than directly describing her. Arlette's rising voice challenges Gabriel's assumption."),
+  "'You think so? She's better off with Mathias?' Gabriel asks for confirmation. The small word for 'better' "
+  'describes how Cecile is doing, rather than directly describing her.'),
  (14,
   None,
-  "'I know Cecile. She hates men like Mathias.' The first action means knowing a person. The second, "
-  "stronger than 'dislike', makes Arlette's opinion clear."),
+  "'I know Cecile. She hates men like Mathias.' Knowing a person uses a different French action word from "
+  'knowing a fact. Gabriel is beginning to question why Cecile chose Mathias.'),
  (15,
-  None,
-  "'That's Mathias. He manipulates everyone.' The expression for 'everyone' literally says 'all the world'. "
-  'French treats it as singular, although it refers to many people.'),
- (16,
   None,
   "'Come on, Gabriel! Don't just lie there doing nothing!' Arlette uses two negatives here: first 'don't "
   "stay', then 'nothing', both built around the action word. And it works: in the next scene, Gabriel goes "
