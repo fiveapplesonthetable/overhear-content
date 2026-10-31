@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Emma | Françoise a appelé. Elle dit que vous étiez odieuse. | Françoise phoned. She says you were horrible. | #325 00:17:57: Françoise a appelé, elle dit que vous étiez odieux | adapted: Feminine odieuse explicitly agrees with Andréa as the formal singular addressee, replacing the ambiguous masculine source spelling. |
+| 1 | Emma | Françoise a appelé. Elle dit que tu étais odieuse. | Françoise phoned. She says you were horrible. | #325 00:17:57: Françoise a appelé, elle dit que vous étiez odieux | adapted: Original French audio uses familiar tu étais odieuse to Andréa; dual subtitles invented formal vous. |
 | 2 | Andréa | C'est tellement malhonnête! Elle avait déjà pris sa décision. | That's so dishonest! She'd already made her decision. | #326 00:18:00: C'est tellement malhonnête ! Elle avait déjà pris sa décision | verbatim |
 | 3 | Emma | Et Piccoli ne fait pas le film sans Françoise. | And Piccoli won't do the film without Françoise. | #327 00:18:04: Piccoli | adapted: Condenses Piccoli's reported condition into a direct statement. |
 | 4 | Emma | Sans Samuel, vous vous effondrez! | Without Samuel, you're falling apart! | #328 00:18:09: Sans Samuel, vous vous effondrez | verbatim |
@@ -27,12 +27,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Andréa | Je voudrais m'excuser pour hier. | I'd like to apologise for yesterday. | #344 00:18:54: Je voudrais m'excuser pour hier | verbatim |
 | 16 | Andréa | J'ai une grande admiration pour vous. | I have great admiration for you. | #352 00:19:19: J'ai une grande admiration pour vous | verbatim |
 | 17 | Andréa | Je me sens vraiment... nulle! | I really feel... useless! | #354 00:19:26: Je me sens vraiment... nulle | verbatim |
-| 18 | Andréa | Réservez-moi un massage, s'il vous plaît. | Book me a massage, please. | #359 00:19:46: Réservez-moi un massage, s'il vous plaît | verbatim |
+| 18 | Andréa | Réserve-moi un massage, s'il te plaît. | Book me a massage, please. | #359 00:19:46: Réservez-moi un massage, s'il vous plaît | adapted: Original French audio has familiar Réserve-moi and s’il te plaît. Omits evening/time details. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Françoise phoned.' The past with 'has' plus the action word, the everyday way to say something happened.
-- 'She says you were horrible.' Emma uses formal you to Andréa. The description has a feminine ending because it describes Andréa, a woman. It criticises someone's behaviour as obnoxious, not merely untidy or unskilled.
+- 'She says you were horrible.' Emma uses familiar you with Andréa. Horrible has a feminine ending because it describes Andréa. It criticises her behaviour as obnoxious, rather than saying she was untidy or unskilled.
 - 'That's so dishonest!' The long word in the middle means 'so', 'so very'.
 - 'She'd already made her decision.' In French you 'take' a decision, you don't make one. Emma has worse news.
 - 'And Piccoli won't do the film without Françoise.' The French present describes a refusal that governs the future: he does not do it without her. Without introduces the person he insists on having in the cast.
@@ -51,4 +51,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'd like to apologise for yesterday.' This 'would like' is the polite form of 'want'. But the message goes wrong, she gets tangled up, and the voicemail robot offers to let her record it again. She tries a second time.
 - 'I have great admiration for you.' The word for 'great' comes before the noun, and it's feminine to match 'admiration'.
 - 'I really feel... useless!' Here feel comes with the small self word, unlike feeling an object move. Useless has a feminine ending because Andréa describes herself. She is calling herself hopeless after struggling with the voicemail.
-- 'Book me a massage, please.' Andréa gives a polite command to her assistant and adds 'please', literally 'if it pleases you'. After a morning like this, who can blame her? Okay. Now the whole thing again, from Emma's first line.
+- 'Book me a massage, please.' The command addresses one familiar person, and me attaches to it with a hyphen. The final please also contains the familiar you. Andréa directs her assistant to arrange something for her after the difficult conversation. Now the whole scene again.
