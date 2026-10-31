@@ -12,7 +12,7 @@ SOURCE_FILE = 'sources/the-producers/s01/e01.ko.srt'
 SOURCE_NOTE = ('Original Korean audio independently decoded without prompts by cached small and large models. '
                'The complete official Part1 automatic-caption track is retained with explicit bounded opening corrections; '
                'outside the opening it remains unreviewed automatic ASR. No English backtranslation or human-listening certificate.')
-INTRO = ('Outside KBS, a camera operator stops Seung-chan on his first day. He is in a hurry. '
+INTRO = ('Outside KBS, a camera operator stops a new employee on his first day. He is in a hurry. '
          'Listen for a polite question about why he is running, then the reason he gives.')
 STORY = [
  ('camera_pd', 'KBS 신입사원이시죠?', "You're a new KBS employee, right?", [(7, 'KBS 신입사원이시죠?')], 'Camera operator confirms the newcomer\'s status; original audio resolves the automatic caption\'s missing ending.'),
