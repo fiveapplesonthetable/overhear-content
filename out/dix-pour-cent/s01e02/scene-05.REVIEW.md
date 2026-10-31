@@ -21,9 +21,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Camille | Si on ne l'aide pas, elle ne trouvera pas de travail. | If we don't help her, she won't find work. | #209 00:11:13: Si on ne l'aide pas, elle ne trouvera pas de travail | verbatim |
 | 10 | Camille | Elle a commencé à pleurer. | She's started crying. | #210 00:11:16: Elle a commencé à pleurer | verbatim |
 | 11 | Andréa | Les actrices peuvent pleurer quand elles veulent. | Actresses can cry whenever they want. | #211 00:11:18: Les actrices peuvent pleurer quand elles veulent | verbatim |
-| 12 | Andréa | Vous avez eu le châle pour Françoise Fabian? | Did you get the shawl for Françoise Fabian? | #212 00:11:21: Vous avez eu le châle<br>#212 00:11:21: pour Françoise Fabian ? | verbatim |
+| 12 | Andréa | Tu as eu le châle pour Françoise Fabian? | Did you get the shawl for Françoise Fabian? | #212 00:11:21: Vous avez eu le châle<br>#212 00:11:21: pour Françoise Fabian ? | adapted: Original French audio restores familiar address mistranslated as vous in dual subtitles. |
 | 13 | Camille | Oui, c'est envoyé. Voici la facture. | Yes, it's been sent. Here's the bill. | #213 00:11:25: Oui, c'est envoyé. Voici la facture | verbatim |
-| 14 | Andréa | Vous avez eu du vert? | You got green? | #214 00:11:34: Vous avez eu du vert ? | verbatim |
+| 14 | Andréa | Tu as eu du vert? | You got green? | #214 00:11:34: Vous avez eu du vert ? | adapted: Original French audio restores familiar address mistranslated as vous in dual subtitles. |
 | 15 | Camille | Oui, un très beau vert. | Yes, a very nice green. | #214 00:11:34: Oui, un très beau vert | verbatim |
 | 16 | Andréa | On n'offre pas du vert à une actrice. Ça porte malheur. | You don't give green to an actress. It brings bad luck. | #215 00:11:37: On n'offre pas du vert à une actrice. Ça porte malheur | verbatim |
 | 17 | Camille | Oh non! | Oh no! | #216 00:11:51: Merde | adapted: Clean reaction replacing the original swear word. |
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I'll see if she can see you.' The first part is the near future: 'I'm going to see'. The polite 'you' at the end is for the actress, a stranger. Then Camille calls out to her boss.
-- 'Andréa! One of your actresses is here, Rebecca Vialle.' Notice that Camille uses the polite 'you' with Andréa, and Andréa uses it back. That's our first point today: in this scene, both women stay formal. Then the question.
+- 'Andréa! One of your actresses is here, Rebecca Vialle.' One of singles out a client from Andréa's list. Your actresses uses the respectful way to address the boss. Later Andréa addresses Camille familiarly, so their forms of you are not symmetrical.
 - 'Can you see her?' The short word meaning her goes directly before see. It refers to Rebecca. In this sentence can is followed by the action of seeing, so her belongs with that second action.
 - 'She's here?' No question word at all, just a rising voice. Camille answers in three words.
 - 'In the corridor.' A corridor or hallway is a masculine word, so Camille uses the masculine word for the. It is a short answer: she does not need to repeat she is.

@@ -39,12 +39,12 @@
      "gram": "preposition introducing the action that bothers her"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
+     "t": "te",
+     "lemma": "te",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular direct-object pronoun of voir"
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular direct object of voir"
     },
     {
      "t": "voir",
@@ -597,20 +597,20 @@
    "trans": "You want Françoise Fabian? I saw her this morning.",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
+     "t": "Tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular subject pronoun addressed to Mathias"
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Mathias"
     },
     {
-     "t": "voulez",
+     "t": "veux",
      "lemma": "vouloir",
      "pos": "verb",
-     "stress": "vule",
+     "stress": "vø",
      "gloss": "want",
-     "gram": "present, 2nd person plural (formal vous)"
+     "gram": "second person singular present"
     },
     {
      "t": "Françoise",
@@ -675,20 +675,20 @@
    "trans": "You approached her?",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
+     "t": "Tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular subject pronoun addressed to Andréa"
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Andréa"
     },
     {
-     "t": "l'avez",
+     "t": "l'as",
      "lemma": "avoir",
      "pos": "verb",
-     "stress": "lave",
+     "stress": "la",
      "gloss": "have her (past-tense helper)",
-     "gram": "la elided + second person plural present of avoir; la refers to Françoise"
+     "gram": "la plus second person singular present avoir"
     },
     {
      "t": "approchée?",
@@ -791,12 +791,12 @@
      "gram": "third person feminine singular subject pronoun"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
+     "t": "te",
+     "lemma": "te",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular direct-object pronoun"
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular direct object"
     },
     {
      "t": "veut?",
@@ -1026,55 +1026,71 @@
   },
   {
    "seg": 18,
-   "trans": "Sort it out in twenty-four hours or I step in!",
+   "trans": "If it's not sorted out within twenty-four hours, I step in!",
    "words": [
     {
-     "t": "Réglez",
+     "t": "Si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "if",
+     "gram": "introduces a condition"
+    },
+    {
+     "t": "ce",
+     "lemma": "ce",
+     "pos": "pron",
+     "stress": "sə",
+     "gloss": "it",
+     "gram": "subject referring to the casting problem"
+    },
+    {
+     "t": "n'est",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "nɛ",
+     "gloss": "is not",
+     "gram": "ne plus third person singular present"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
+    },
+    {
+     "t": "réglé",
      "lemma": "régler",
      "pos": "verb",
      "stress": "ʁeɡle",
-     "gloss": "sort out",
-     "gram": "imperative, 2nd person plural (formal vous)"
+     "gloss": "sorted out",
+     "gram": "past participle describing a resolved problem"
     },
     {
-     "t": "ça",
-     "lemma": "ça",
-     "pos": "pron",
-     "stress": "sa",
-     "gloss": "that",
-     "gram": "demonstrative pronoun, informal"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
+     "t": "dans",
+     "lemma": "dans",
      "pos": "prep",
-     "stress": "ɑ̃",
-     "gloss": "in; within",
-     "gram": "preposition introducing the time allowed"
+     "stress": "dɑ̃",
+     "gloss": "within",
+     "gram": "deadline counted from now"
     },
     {
      "t": "vingt-quatre",
      "lemma": "vingt-quatre",
      "pos": "num",
-     "stress": "vɛ̃tkatʁ",
+     "stress": "vɛ̃katʁ",
      "gloss": "twenty-four",
-     "gram": "cardinal number"
+     "gram": "number of hours"
     },
     {
-     "t": "heures",
+     "t": "heures,",
      "lemma": "heure",
      "pos": "noun",
      "stress": "œʁ",
      "gloss": "hours",
-     "gram": "feminine plural noun for a duration"
-    },
-    {
-     "t": "ou",
-     "lemma": "ou",
-     "pos": "conj",
-     "stress": "u",
-     "gloss": "or",
-     "gram": "coordinating conjunction"
+     "gram": "feminine plural"
     },
     {
      "t": "j'interviens!",
@@ -1082,7 +1098,7 @@
      "pos": "verb",
      "stress": "ʒɛ̃tɛʁvjɛ̃",
      "gloss": "I step in",
-     "gram": "je + interviens: present, 1st person singular, for a threat"
+     "gram": "first person present used as a threat about the future"
     }
    ]
   },
@@ -1123,12 +1139,12 @@
      "gram": "preposition introducing the action that bothers her"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
+     "t": "te",
+     "lemma": "te",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular direct-object pronoun of voir"
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular direct object of voir"
     },
     {
      "t": "voir",
@@ -1757,20 +1773,20 @@
    "trans": "You want Françoise Fabian?",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
+     "t": "Tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular subject pronoun addressed to Mathias"
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Mathias"
     },
     {
-     "t": "voulez",
+     "t": "veux",
      "lemma": "vouloir",
      "pos": "verb",
-     "stress": "vule",
+     "stress": "vø",
      "gloss": "want",
-     "gram": "present, 2nd person plural (formal vous)"
+     "gram": "second person singular present"
     },
     {
      "t": "Françoise",
@@ -1841,20 +1857,20 @@
    "trans": "You approached her?",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
+     "t": "Tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular subject pronoun addressed to Andréa"
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Andréa"
     },
     {
-     "t": "l'avez",
+     "t": "l'as",
      "lemma": "avoir",
      "pos": "verb",
-     "stress": "lave",
+     "stress": "la",
      "gloss": "have her (past-tense helper)",
-     "gram": "la elided + second person plural present of avoir; la refers to Françoise"
+     "gram": "la plus second person singular present avoir"
     },
     {
      "t": "approchée?",
@@ -1957,12 +1973,12 @@
      "gram": "third person feminine singular subject pronoun"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
+     "t": "te",
+     "lemma": "te",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular direct-object pronoun"
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular direct object"
     },
     {
      "t": "veut?",
@@ -2192,55 +2208,71 @@
   },
   {
    "seg": 60,
-   "trans": "Sort it out in twenty-four hours or I step in!",
+   "trans": "If it's not sorted out within twenty-four hours, I step in!",
    "words": [
     {
-     "t": "Réglez",
+     "t": "Si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "if",
+     "gram": "introduces a condition"
+    },
+    {
+     "t": "ce",
+     "lemma": "ce",
+     "pos": "pron",
+     "stress": "sə",
+     "gloss": "it",
+     "gram": "subject referring to the casting problem"
+    },
+    {
+     "t": "n'est",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "nɛ",
+     "gloss": "is not",
+     "gram": "ne plus third person singular present"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
+    },
+    {
+     "t": "réglé",
      "lemma": "régler",
      "pos": "verb",
      "stress": "ʁeɡle",
-     "gloss": "sort out",
-     "gram": "imperative, 2nd person plural (formal vous)"
+     "gloss": "sorted out",
+     "gram": "past participle describing a resolved problem"
     },
     {
-     "t": "ça",
-     "lemma": "ça",
-     "pos": "pron",
-     "stress": "sa",
-     "gloss": "that",
-     "gram": "demonstrative pronoun, informal"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
+     "t": "dans",
+     "lemma": "dans",
      "pos": "prep",
-     "stress": "ɑ̃",
-     "gloss": "in; within",
-     "gram": "preposition introducing the time allowed"
+     "stress": "dɑ̃",
+     "gloss": "within",
+     "gram": "deadline counted from now"
     },
     {
      "t": "vingt-quatre",
      "lemma": "vingt-quatre",
      "pos": "num",
-     "stress": "vɛ̃tkatʁ",
+     "stress": "vɛ̃katʁ",
      "gloss": "twenty-four",
-     "gram": "cardinal number"
+     "gram": "number of hours"
     },
     {
-     "t": "heures",
+     "t": "heures,",
      "lemma": "heure",
      "pos": "noun",
      "stress": "œʁ",
      "gloss": "hours",
-     "gram": "feminine plural noun for a duration"
-    },
-    {
-     "t": "ou",
-     "lemma": "ou",
-     "pos": "conj",
-     "stress": "u",
-     "gloss": "or",
-     "gram": "coordinating conjunction"
+     "gram": "feminine plural"
     },
     {
      "t": "j'interviens!",
@@ -2248,7 +2280,7 @@
      "pos": "verb",
      "stress": "ʒɛ̃tɛʁvjɛ̃",
      "gloss": "I step in",
-     "gram": "je + interviens: present, 1st person singular, for a threat"
+     "gram": "first person present used as a threat about the future"
     }
    ]
   },
@@ -2289,12 +2321,12 @@
      "gram": "preposition introducing the action that bothers her"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
+     "t": "te",
+     "lemma": "te",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular direct-object pronoun of voir"
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular direct object of voir"
     },
     {
      "t": "voir",
@@ -2847,20 +2879,20 @@
    "trans": "You want Françoise Fabian? I saw her this morning.",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
+     "t": "Tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular subject pronoun addressed to Mathias"
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Mathias"
     },
     {
-     "t": "voulez",
+     "t": "veux",
      "lemma": "vouloir",
      "pos": "verb",
-     "stress": "vule",
+     "stress": "vø",
      "gloss": "want",
-     "gram": "present, 2nd person plural (formal vous)"
+     "gram": "second person singular present"
     },
     {
      "t": "Françoise",
@@ -2925,20 +2957,20 @@
    "trans": "You approached her?",
    "words": [
     {
-     "t": "Vous",
-     "lemma": "vous",
+     "t": "Tu",
+     "lemma": "tu",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular subject pronoun addressed to Andréa"
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Andréa"
     },
     {
-     "t": "l'avez",
+     "t": "l'as",
      "lemma": "avoir",
      "pos": "verb",
-     "stress": "lave",
+     "stress": "la",
      "gloss": "have her (past-tense helper)",
-     "gram": "la elided + second person plural present of avoir; la refers to Françoise"
+     "gram": "la plus second person singular present avoir"
     },
     {
      "t": "approchée?",
@@ -3041,12 +3073,12 @@
      "gram": "third person feminine singular subject pronoun"
     },
     {
-     "t": "vous",
-     "lemma": "vous",
+     "t": "te",
+     "lemma": "te",
      "pos": "pron",
-     "stress": "vu",
-     "gloss": "you (polite)",
-     "gram": "formal singular direct-object pronoun"
+     "stress": "tə",
+     "gloss": "you",
+     "gram": "familiar singular direct object"
     },
     {
      "t": "veut?",
@@ -3276,55 +3308,71 @@
   },
   {
    "seg": 79,
-   "trans": "Sort it out in twenty-four hours or I step in!",
+   "trans": "If it's not sorted out within twenty-four hours, I step in!",
    "words": [
     {
-     "t": "Réglez",
+     "t": "Si",
+     "lemma": "si",
+     "pos": "conj",
+     "stress": "si",
+     "gloss": "if",
+     "gram": "introduces a condition"
+    },
+    {
+     "t": "ce",
+     "lemma": "ce",
+     "pos": "pron",
+     "stress": "sə",
+     "gloss": "it",
+     "gram": "subject referring to the casting problem"
+    },
+    {
+     "t": "n'est",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "nɛ",
+     "gloss": "is not",
+     "gram": "ne plus third person singular present"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
+    },
+    {
+     "t": "réglé",
      "lemma": "régler",
      "pos": "verb",
      "stress": "ʁeɡle",
-     "gloss": "sort out",
-     "gram": "imperative, 2nd person plural (formal vous)"
+     "gloss": "sorted out",
+     "gram": "past participle describing a resolved problem"
     },
     {
-     "t": "ça",
-     "lemma": "ça",
-     "pos": "pron",
-     "stress": "sa",
-     "gloss": "that",
-     "gram": "demonstrative pronoun, informal"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
+     "t": "dans",
+     "lemma": "dans",
      "pos": "prep",
-     "stress": "ɑ̃",
-     "gloss": "in; within",
-     "gram": "preposition introducing the time allowed"
+     "stress": "dɑ̃",
+     "gloss": "within",
+     "gram": "deadline counted from now"
     },
     {
      "t": "vingt-quatre",
      "lemma": "vingt-quatre",
      "pos": "num",
-     "stress": "vɛ̃tkatʁ",
+     "stress": "vɛ̃katʁ",
      "gloss": "twenty-four",
-     "gram": "cardinal number"
+     "gram": "number of hours"
     },
     {
-     "t": "heures",
+     "t": "heures,",
      "lemma": "heure",
      "pos": "noun",
      "stress": "œʁ",
      "gloss": "hours",
-     "gram": "feminine plural noun for a duration"
-    },
-    {
-     "t": "ou",
-     "lemma": "ou",
-     "pos": "conj",
-     "stress": "u",
-     "gloss": "or",
-     "gram": "coordinating conjunction"
+     "gram": "feminine plural"
     },
     {
      "t": "j'interviens!",
@@ -3332,7 +3380,7 @@
      "pos": "verb",
      "stress": "ʒɛ̃tɛʁvjɛ̃",
      "gloss": "I step in",
-     "gram": "je + interviens: present, 1st person singular, for a threat"
+     "gram": "first person present used as a threat about the future"
     }
    ]
   },
@@ -5121,36 +5169,6 @@
     }
    ]
   },
-  "en": {
-   "lemma": "en",
-   "stress": "ɑ̃",
-   "pos": "prep",
-   "gloss": "in",
-   "meanings": [
-    {
-     "en": "in",
-     "note": "en retard = late, en vacances = on holiday"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Je suis en retard.",
-     "trans": "I'm late."
-    },
-    {
-     "text": "Tu es en vacances?",
-     "trans": "Are you on holiday?"
-    }
-   ],
-   "related": [
-    {
-     "word": "en retard",
-     "gloss": "late, en vacances = on holiday"
-    }
-   ]
-  },
   "enfin": {
    "lemma": "enfin",
    "stress": "ɑ̃fɛ̃",
@@ -6560,35 +6578,6 @@
      "gloss": "ourselves"
     }
    ]
-  },
-  "ou": {
-   "lemma": "ou",
-   "stress": "u",
-   "pos": "conj",
-   "gloss": "or",
-   "meanings": [
-    {
-     "en": "or",
-     "note": "Joins alternatives; do not confuse it with où, where."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Tu viens, oui ou non?",
-     "trans": "Are you coming or not?"
-    },
-    {
-     "text": "Un café ou un thé?",
-     "trans": "A coffee or a tea?"
-    },
-    {
-     "text": "Réglez ça en vingt-quatre heures ou j'interviens!",
-     "trans": "Sort it out in twenty-four hours or I step in!"
-    }
-   ],
-   "related": []
   },
   "oui": {
    "lemma": "oui",
@@ -8704,44 +8693,6 @@
     }
    ]
   },
-  "vous": {
-   "lemma": "vous",
-   "stress": "vu",
-   "pos": "pron",
-   "gloss": "you (polite or plural)",
-   "meanings": [
-    {
-     "en": "you (polite)",
-     "note": "One person, formal."
-    },
-    {
-     "en": "you (plural)",
-     "note": "Several people."
-    },
-    {
-     "en": "you (object)",
-     "note": "je vous rappelle = I'll call you back"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Vous êtes où?",
-     "trans": "Where are you?"
-    },
-    {
-     "text": "Je vous rappelle.",
-     "trans": "I'll call you back."
-    }
-   ],
-   "related": [
-    {
-     "word": "tu",
-     "gloss": "you (informal)"
-    }
-   ]
-  },
   "à": {
    "lemma": "à",
    "stress": "a",
@@ -9024,6 +8975,107 @@
     }
    ],
    "related": []
+  },
+  "tu": {
+   "lemma": "tu",
+   "stress": "ty",
+   "pos": "pron",
+   "gloss": "you (casual)",
+   "meanings": [
+    {
+     "en": "you",
+     "note": "one person you know well: friends, family, close colleagues"
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Tu es pénible.",
+     "trans": "You're a pain."
+    },
+    {
+     "text": "Tu es en vacances?",
+     "trans": "Are you on holiday?"
+    }
+   ],
+   "related": [
+    {
+     "word": "vous",
+     "gloss": "you (polite or plural)"
+    }
+   ]
+  },
+  "te": {
+   "lemma": "te",
+   "stress": "tə",
+   "pos": "pron",
+   "gloss": "you (casual, object)",
+   "meanings": [
+    {
+     "en": "you, to you",
+     "note": "Unstressed informal object pronoun; becomes t' before a vowel."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Je voulais te faire la surprise.",
+     "trans": "I wanted to surprise you."
+    },
+    {
+     "text": "Je te rappelle.",
+     "trans": "I'll call you back."
+    },
+    {
+     "text": "Je ne sais pas. Je voulais te faire la surprise.",
+     "trans": "I don't know. I wanted to surprise you."
+    }
+   ],
+   "related": []
+  },
+  "dans": {
+   "lemma": "dans",
+   "stress": "dɑ̃",
+   "pos": "prep",
+   "gloss": "in, inside; in (time)",
+   "meanings": [
+    {
+     "en": "in, inside",
+     "note": "J'étais dans les sous-vêtements."
+    },
+    {
+     "en": "in (time from now)",
+     "note": "Dans une heure = in an hour."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Dans une heure.",
+     "trans": "In an hour."
+    },
+    {
+     "text": "Dans le cinéma.",
+     "trans": "In the film business."
+    }
+   ],
+   "related": [
+    {
+     "word": "danse",
+     "gloss": "dance"
+    },
+    {
+     "word": "danser",
+     "gloss": "to dance"
+    },
+    {
+     "word": "danseur",
+     "gloss": "dancer"
+    }
+   ]
   }
  }
 }

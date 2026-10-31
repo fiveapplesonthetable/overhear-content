@@ -17,14 +17,15 @@ INTRO = ("The phones won't stop: the funeral is on Thursday at Père-Lachaise, a
 OPENER = ("Let's go through it. Mathias has settled into the chair at the head of the table, and Andréa says what "
  'everyone is thinking.')
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ("Two agents fighting over a chair and a client, all in the polite 'you'. Don't worry about every detail; "
- "you've got the shape of it. See you next time!")
+OUTRO = ('The same familiar you can carry an argument as well as a friendly chat. Here it accompanies a dispute over '
+ "Samuel's chair, a client and an urgent deadline. Listen again for how the small words for you change "
+ 'position when someone is doing an action or receiving it. See you next time!')
 CLOSING = ('andrea', 'Au revoir!')
 STORY = [('andrea',
-  'Ça me dérange de vous voir assis là.',
+  'Ça me dérange de te voir assis là.',
   'It bothers me to see you sitting there.',
   [(97, 'Ça me dérange, de vous voir assis là')],
-  ''),
+  'Original French audio restores familiar address mistranslated as vous in dual subtitles.'),
  ('mathias', "C'est une chaise.", "It's a chair.", [(99, "C'est une chaise")], ''),
  ('andrea',
   "Non, c'est la place de Samuel. Il est mort il y a six jours.",
@@ -54,17 +55,25 @@ STORY = [('andrea',
   ''),
  ('mathias', 'Exactement.', 'Exactly.', [(124, 'Exactement')], ''),
  ('andrea',
-  "Vous voulez Françoise Fabian? Je l'ai vue ce matin.",
+  "Tu veux Françoise Fabian? Je l'ai vue ce matin.",
   'You want Françoise Fabian? I saw her this morning.',
   [(129, "Vous voulez Françoise Fabian ? Je l'ai vue ce matin")],
-  ''),
- ('mathias', "Vous l'avez approchée?", 'You approached her?', [(130, "Vous l'avez approchée")], ''),
+  'Original French audio restores familiar address mistranslated as vous in dual subtitles.'),
+ ('mathias',
+  "Tu l'as approchée?",
+  'You approached her?',
+  [(130, "Vous l'avez approchée")],
+  'Original French audio restores familiar address mistranslated as vous in dual subtitles.'),
  ('andrea',
   "Non! C'est elle qui a demandé à me voir.",
   "No! She's the one who asked to see me.",
   [(131, 'Non'), (132, "C'est elle qui a demandé à me voir")],
   ''),
- ('mathias', 'Elle vous veut?', 'She wants you?', [(133, 'Elle vous veut ?')], ''),
+ ('mathias',
+  'Elle te veut?',
+  'She wants you?',
+  [(133, 'Elle vous veut ?')],
+  'Original French audio restores familiar address mistranslated as vous in dual subtitles.'),
  ('andrea',
   "Oui. Enfin, c'est compliqué.",
   "Yes. Well, it's complicated.",
@@ -82,15 +91,15 @@ STORY = [('andrea',
   [(138, "Non, Mathias, c'est moi qui gère")],
   ''),
  ('mathias',
-  "Réglez ça en vingt-quatre heures ou j'interviens!",
-  'Sort it out in twenty-four hours or I step in!',
+  "Si ce n'est pas réglé dans vingt-quatre heures, j'interviens!",
+  "If it's not sorted out within twenty-four hours, I step in!",
   [(144, "Réglez ça en 24 heures ou j'interviens")],
-  '')]
+  'Restores the actual French conditional threat; dual subtitles had invented a formal command.')]
 WALK = [(0,
   None,
-  "'It bothers me to see you sitting there.' The little word for 'me' comes before the verb 'to bother'. And "
-  "here Andréa and Mathias use the polite 'you' with each other, a sign of how cold things are between "
-  'them.'),
+  "'It bothers me to see you sitting there.' Me names the person bothered and comes before bothers. The "
+  'second short object names the person she sees: you. Andréa uses familiar address with her colleague, '
+  'despite the tense exchange.'),
  (1,
   None,
   "'It's a chair.' The word for chair is feminine, so it takes the feminine word for a. Mathias reduces "
@@ -132,9 +141,10 @@ WALK = [(0,
   "'Exactly.' This can stand alone as an emphatic agreement: that's right. Its ending corresponds to the "
   "English ending in exactly. Mathias calmly confirms that he has listed the clients' earnings."),
  (9,
-  'Vous voulez Françoise Fabian?',
-  "'You want Françoise Fabian?' It is an ordinary statement order turned into a question by rising "
-  'intonation. Wanting her means taking her on as a client, and the polite you keeps the exchange formal.'),
+  'Tu veux Françoise Fabian?',
+  "'You want Françoise Fabian?' Ordinary statement order becomes a spoken question through the voice. "
+  'Wanting her means taking her on as a client. Andréa uses the familiar you with Mathias, as in the '
+  'original conversation.'),
  (9,
   "Je l'ai vue ce matin.",
   "'I saw her this morning.' The little word for 'her' sits before the verb, and loses its vowel. And "
@@ -168,6 +178,6 @@ WALK = [(0,
   "not you'."),
  (17,
   None,
-  "'Sort it out in twenty-four hours or I step in!' Here in means within the time allowed. The final I step "
-  'in works as a threat about the future, even though its wording is present. Mathias gives Andréa a '
-  'deadline.')]
+  "'If it's not sorted out within twenty-four hours, I step in!' If makes the unresolved problem a condition "
+  'for his intervention. Within gives the deadline. The final I step in works as a threat about the future, '
+  'though its wording is present.')]
