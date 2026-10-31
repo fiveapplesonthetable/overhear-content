@@ -36,15 +36,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No? That's amazing!' Laura can't believe it.
 - 'She's coming to Paris tomorrow just to see you.' And now back to the casual 'you', just before the action word 'to see'.
 - 'Are there other actresses?' This phrase that means 'there is' or 'there are' doesn't change for the plural.
-- 'Only you. It's for you!' This 'you' is the stressed casual form, the one used on its own or after a little word like 'for'.
+- Gabriel insists that the offer is for Laura alone. The full casual pronoun is used for the person addressed, either on its own or after a preposition.
 - 'It's the only copy in France.' The word for 'only' here comes before the noun.
 - 'I swear, it's dynamite!' Literally 'I swear to you, it's a bomb'. In the show he swears quite a lot more.
 - 'I can't wait to read it.' Literally 'I have haste to read it'. A very useful way to say you're looking forward to something. Then, in the corridor, Laura sees her mother holding the very same script, with Mathias.
-- 'Exclusive, huh?' She throws Gabriel's own word back at him. The little word at the end asks for agreement, like 'eh?' or 'right?'.
+- Laura throws Gabriel's promise of exclusivity back at him. The short tag at the end seeks agreement or challenges him to confirm what he said.
 - 'Is it the same part?' The word for 'same' comes before the noun.
 - 'No, the mother and the daughter.' The film has a mother and a daughter, and the director wants these two.
-- 'We've always wanted to act together.' Nathalie uses the everyday word for 'we' with the past tense, 'we have wanted'.
+- 'We've always wanted to act together.' The everyday subject word refers to both women here, but it goes with a singular helping word in French. Nathalie describes a wish they have shared for a long time.
 - 'It's great!' Laura uses a casual, cheerful word that is the same as in English.
-- 'Does the director know we're mother and daughter?' This opening expression at the start just announce a yes-or-no question. Note the feminine word for a film director, because Solveig is a woman.
-- 'No, she doesn't know anything at all.' The negative here uses the word for 'nothing', and the last three words mean 'at all'.
+- 'Does the director know we're mother and daughter?' The opening expression introduces a question that can be answered positively or negatively. French also has a feminine word for a woman directing a film, which fits Solveig here.
+- 'No, she doesn't know anything at all.' The negative word rules out any knowledge of the family relationship. An extra expression at the end strengthens the denial.
 - 'What an adventure!' The word for 'what' takes a feminine ending here, to match 'adventure'. Here's the whole scene again.
