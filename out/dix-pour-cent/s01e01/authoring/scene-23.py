@@ -10,10 +10,8 @@ PAIR = 'fr-en'
 LABELS = {'mathias': 'Mathias', 'miranda': 'Miranda'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
-INTRO = ('Mathias is still negotiating with Miranda, the film producer who turned Cecile down. When she asks about '
- 'permits to shoot in Paris, he sees a way to reopen the casting decision. Listen to the French conversation '
- 'first; the main idea matters more than every word.')
-OPENER = "Let's take it slowly. Miranda opens with what she wants, and the verb she uses is the film-world word for shooting a scene."
+INTRO = 'Mathias is still negotiating with Miranda, the film producer who turned Cecile down. He asks about permits to shoot in Paris and sees a way to reopen the casting decision. Listen to the French conversation first; the main idea matters more than every word.'
+OPENER = "Let's take it slowly. Mathias opens with a question about filming in Paris. The final action word means shooting a film, rather than turning an object."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "That's the end of this scene. When you watch it, listen for the short, punchy line about Cécile and Paris; you'll recognise it straight away. See you next time!"
 CLOSING = ('miranda', 'Au revoir, Mathias!')
