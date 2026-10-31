@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | JoeyStarr | Vous êtes en verre? | Are you made of glass? | #6 00:00:40: Vous êtes en verre ? | verbatim |
 | 6 | Julie | Non, je suis une aristocrate, il est serviteur. | No, I am an aristocrat, he is a servant. | #7 00:00:42: Non. Je suis une aristocrate, il est serviteur | verbatim |
 | 7 | Julie | Il doit faire preuve de respect. | He has to show respect. | #8 00:00:44: il doit<br>#8 00:00:44: faire preuve de respect | verbatim |
-| 8 | JoeyStarr | Je travaille, d'accord? | I'm working, okay? | #10 00:00:48: je travaille<br>#11 00:00:51: D'accord | verbatim |
+| 8 | Julie | Je travaille, d'accord? | I'm working, okay? | #10 00:00:48: je travaille<br>#11 00:00:51: D'accord | adapted: Primary-video check: Julie replies that she is working; JoeyStarr does not speak this line. |
 | 9 | Julie | On pourrait avoir un peu de délicatesse et d'élégance dans cette scène? | Could we have a little delicacy and elegance in this scene? | #12 00:00:52: On pourrait avoir un peu de délicatesse et d'élégance<br>#13 00:00:55: dans cette scène ? | verbatim |
 | 10 | JoeyStarr | C'est pour moi? J'en ai marre. | Is that aimed at me? I'm fed up. | #14 00:00:56: C'est pour moi ?<br>#15 00:00:58: J'en ai marre | verbatim |
 | 11 | Julie | Moi aussi! | Me too! | #16 00:01:00: Moi aussi | verbatim |
@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you made of glass?' French uses its word for in before a material here. The question is sarcastic: he thinks she is being too delicate.
 - 'No, I am an aristocrat, he is a servant.' Her character has higher social rank. Listen to how French can name a role without always using a word for a before it.
 - 'He has to show respect.' The expression literally says to make proof of respect. It is a way of saying that a quality should be visible in someone's behaviour.
-- 'I'm working, okay?' The French action word needs no separate helper for an activity happening now. He presents the rough acting as part of his job.
+- 'I'm working, okay?' The French action word needs no separate helper for an activity happening now. Julie insists that her concern for the performance is part of her work.
 - 'Could we have a little delicacy and elegance in this scene?' Asking whether they could have something makes a demand sound more indirect. The complaint is still very pointed.
 - 'Is that aimed at me? I'm fed up.' The last expression means having had enough. Its small connecting word refers back to the thing causing the irritation.
 - 'Me too!' French uses a strong form of me for this short reply. No separate action word is needed to agree with the complaint.
