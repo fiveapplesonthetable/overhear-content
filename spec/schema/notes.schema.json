@@ -93,6 +93,21 @@
                 "gram": {
                   "type": "string",
                   "minLength": 1
+                },
+                "span": {
+                  "type": "array",
+                  "minItems": 2,
+                  "maxItems": 2,
+                  "items": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "description": "Exact half-open Unicode code-point offsets into the unmodified script segment text. Required on every Japanese/Chinese word; all-or-none on a line."
+                },
+                "reading": {
+                  "type": "string",
+                  "minLength": 1,
+                  "description": "Reviewed spoken alignment reading; Japanese kana for Han compounds/particles, contextual pinyin for Mandarin. Does not replace display text or assert pitch accent."
                 }
               }
             }
