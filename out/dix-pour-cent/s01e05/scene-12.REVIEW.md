@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Arlette, I want to talk to you about Jonathan Joubert.' Mathias uses the polite word for you to address Arlette. In this exchange she answers him with the familiar form, so the two speakers do not use the same register.
-- 'That's Jean Gabin's armchair.' The connecting word of marks whose armchair it is. French places that word before the full name, where English can attach a possessive ending.
+- 'That's Jean Gabin's armchair.' Arlette uses the dog's name to say whose armchair it is. The connecting word of goes before the full name in French, where English can attach a possessive ending.
 - 'Marie-Sophie doesn't want your flowers.' Arlette uses the familiar form of your, although Mathias addresses her politely. The possessive is plural because the flowers are plural.
 - 'You can't do anything against Ryan's illness.' The word for nothing follows can, while do stays in its basic form. Together the negative means that no useful action is possible.
 - 'We're going to lose a lot of money!' The quantity a lot is followed by of before money. A form of go announces the financial loss he expects if the character is removed.
