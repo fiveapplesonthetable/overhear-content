@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | C'est facile à dire quand on en a! | That's easy to say when you have some! | #437 00:23:47: c'est facile à dire quand on en a | verbatim |
 | 14 | Mathias | Tu pourrais gagner plus. | You could earn more. | #438 00:23:50: Tu pourrais gagner plus | verbatim |
 | 15 | Andréa | Avec des films nuls? Non, merci. | With rubbish films? No, thank you. | #440 00:23:57: des films nuls | adapted: Shortens the angry argument to a clean refusal of bad films. |
-| 16 | Mathias | Tu préférerais qu'ASK disparaisse? | Would you rather ASK disappeared? | #444 00:24:08: Tu préférerais qu'ASK disparaisse ? | verbatim |
+| 16 | Mathias | Vous préférez qu'ASK disparaisse? | Would you rather ASK disappeared? | #444 00:24:08: Tu préférerais qu'ASK disparaisse ? | adapted: Original French audio uses plural vous préférez, addressing the partners as a group, not familiar conditional tu préférerais. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -45,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That's easy to say when you have some!' The small word just before the last verb means 'some of it', the money.
 - 'You could earn more.' The ending on the verb makes it 'could'. Mathias thinks Andréa chooses her actors badly.
 - 'With rubbish films? No, thank you.' The word for 'rubbish' is a very common way to say something is bad. Andréa would rather work with artists she believes in.
-- 'Would you rather ASK disappeared?' A long sentence, but you can hear the key words: 'you would prefer' and the name of the agency. In the end it's Arlette who breaks the tension, joking that being sold would be a bit like having Mathias as their boss. Let's hear the whole meeting again, all in French.
+- 'Would you rather ASK disappeared?' Mathias addresses the partners as a group with the plural you. The French wording literally asks whether they prefer the agency to disappear. English would rather makes the same choice sound natural. Let's hear the whole meeting again.
