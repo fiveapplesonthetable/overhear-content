@@ -26,20 +26,22 @@
     },
     "id": {
       "type": "string",
-      "pattern": "^(kukhnya|domashniy-arest|dix-pour-cent)-s\\d\\de\\d\\d-scene-\\d\\d$",
+      "pattern": "^(kukhnya|domashniy-arest|dix-pour-cent|paquita-salas)-s\\d\\de\\d\\d-scene-\\d\\d$",
       "description": "<show>-sNNeNN-scene-NN; never changes once published."
     },
     "pair": {
       "enum": [
         "ru-en",
-        "fr-en"
+        "fr-en",
+        "es-en"
       ]
     },
     "show": {
       "enum": [
         "kukhnya",
         "domashniy-arest",
-        "dix-pour-cent"
+        "dix-pour-cent",
+        "paquita-salas"
       ]
     },
     "season": {
@@ -117,7 +119,7 @@
         },
         "file": {
           "type": "string",
-          "pattern": "^sources/[a-z-]+/s\\d\\d/e\\d\\d\\.(ru|fr)(\\.dual)?\\.srt$"
+          "pattern": "^sources/[a-z-]+/s\\d\\d/e\\d\\d\\.(ru|fr|es)(\\.dual)?\\.srt$"
         },
         "lines": {
           "type": "array",
