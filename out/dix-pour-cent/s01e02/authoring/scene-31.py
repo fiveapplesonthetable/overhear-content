@@ -105,9 +105,9 @@ WALK = [(0,
   'next line challenges that exclusion.'),
  (7,
   None,
-  "'I'm your family too!' Me too at the front insists on Camille's place among the people he has just "
-  'claimed as his family. The ordinary I then starts the statement. The familiar your makes the reply '
-  'personal.'),
+  "'I'm your family too!' The familiar word for your has its feminine form because family is feminine; it "
+  "does not follow Mathias's gender. Me too before the ordinary I insists that Camille belongs among the "
+  'people he has just claimed as his family.'),
  (8,
   None,
   "'Have you got a light, Noémie?' Literally, do you have some fire? Fire here means a flame for the "
