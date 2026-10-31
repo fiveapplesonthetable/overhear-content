@@ -1,0 +1,13 @@
+# Opening taster: source and scope
+
+This is one unpublished opening lesson, **not a completed episode or season**. The current user scope is short tasters and an app-support decision. Do not author the remaining episode, generate artwork, render or publish until root coordinates that decision.
+
+The original Spanish video is private at `/mnt/agent/pilot-source-discovery/sources/es/paquita-salas-s01e01.mp4`. Its SHA-256 is `defc4d561f8bfed45eeac4a0e3d09790cc24161a2b879f096d46c9895994720e`. The native input is its authored Spanish `mov_text` stream 4; Spanish audio is stream 1. The source subtitle file retains all 505 original cues unchanged, SHA-256 `37b9b33f7997c6b6b69b01e0b6c868aa3c31d94ad7b265645ea12d15c5bb0b1c`. English subtitles were never used to reconstruct Spanish.
+
+Only cues 1–27, 00:00:05.760–00:01:17.520, inform this lesson. Source frames verify Paquita and Magüi, including the assistant's on-screen name and role. The native captions condense some actual spoken wording. Caption-based learner lines are adaptations, not a claim of a verbatim audio transcript. The private evidence and explicit differences are recorded in `SOURCE-REVIEW.json`.
+
+Every learner segment has a complete English translation and ordered token notes, including the two full-story repetitions, the walkthrough replays and the new farewell. Written forms cover the used verbs, nouns and adjectives; contextual notes distinguish duration versus client representation, personal-object marking versus little by little, and the two different uses of no. No etymologies, word histories, unreviewed name origins or pre-recorded example audio are invented.
+
+The scene tree currently has only the first scene's actual time range. **Whole-source episode-coverage checks report the remaining episode as uncovered** (477 cues under the validator's timing tolerance, plus the final end-time gap). Do not extend scene 1 to the end of the episode, merge unseen material into it, truncate the source file to hide the gap, add placeholder scenes, or weaken validation to present this taster as exhaustive. Validate the authored scene/notes directly, retain this explicit coverage hold, and resolve the intended taster packaging with root if it is selected for production.
+
+Artwork is absent by the latest scope instruction. Native voice-reference candidates are a separate production-owned CPU review; no voice, French reference, recording or model result has been relabelled as Spanish here. A failed turbo transcription remains rejected in the private evidence; a cached small-model check corroborates the native opening. Neither is represented as a human listening certificate.
