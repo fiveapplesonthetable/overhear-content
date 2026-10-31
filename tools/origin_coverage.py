@@ -66,28 +66,27 @@ def reviewed_run_words(run, examples, native_lines):
     """
     alternatives = {}
     for ref in examples:
-        line = native_lines.get((ref.get("sceneId"), ref.get("seg")))
-        if not line: continue
-        text, words = line.get("text", ""), line.get("words", [])
-        position = text.find(run)
-        while position >= 0:
-            stop = position + len(run)
-            selected, owned, cursor, valid = [], set(), 0, True
-            for word in words:
-                start, end = word.get("charStart"), word.get("charEnd")
-                if type(start) is not int or type(end) is not int or not cursor <= start < end <= len(text) or text[start:end] != word.get("t"):
-                    valid = False; break
-                cursor = end
-                if end <= position or start >= stop: continue
-                outside = text[start:min(end, position)] + text[max(start, stop):end]
-                if any(unicodedata.category(ch)[0] in "LNM" for ch in outside):
-                    valid = False; break
-                selected.append(word)
-                owned.update(range(max(start, position), min(end, stop)))
-            if valid and selected and all(position + i in owned for i, ch in enumerate(run) if unicodedata.category(ch)[0] in "LNM"):
-                key = tuple((word.get("lex") or word.get("lemma") or word["t"]).lower() for word in selected)
-                alternatives[key] = selected
-            position = text.find(run, position + 1)
+        for line in native_lines.get((ref.get("sceneId"), ref.get("seg")), []):
+            text, words = line.get("text", ""), line.get("words", [])
+            position = text.find(run)
+            while position >= 0:
+                stop = position + len(run)
+                selected, owned, cursor, valid = [], set(), 0, True
+                for word in words:
+                    start, end = word.get("charStart"), word.get("charEnd")
+                    if type(start) is not int or type(end) is not int or not cursor <= start < end <= len(text) or text[start:end] != word.get("t"):
+                        valid = False; break
+                    cursor = end
+                    if end <= position or start >= stop: continue
+                    outside = text[start:min(end, position)] + text[max(start, stop):end]
+                    if any(unicodedata.category(ch)[0] in "LNM" for ch in outside):
+                        valid = False; break
+                    selected.append(word)
+                    owned.update(range(max(start, position), min(end, stop)))
+                if valid and selected and all(position + i in owned for i, ch in enumerate(run) if unicodedata.category(ch)[0] in "LNM"):
+                    key = tuple((word.get("lex") or word.get("lemma") or word["t"]).lower() for word in selected)
+                    alternatives[key] = selected
+                position = text.find(run, position + 1)
     return next(iter(alternatives.values())) if len(alternatives) == 1 else None
 
 
@@ -136,7 +135,7 @@ def inventory(out, content):
             assembled = blob_document(out, scene['content'])
             for line_index, line in enumerate(assembled['transcript']['lines']):
                 if line['lang'] == pair['learn']:
-                    native_lines[(scene['id'], line.get('seg', line.get('i', line_index)))] = line
+                    native_lines.setdefault((scene['id'], line.get('seg', line.get('i', line_index))), []).append(line)
                     occurrences.update((w.get('lex') or w.get('lemma') or '').lower() for w in line['words'])
                     for word in line['words']:
                         key = (word.get('lex') or word.get('lemma') or '').lower()
