@@ -223,7 +223,7 @@ def target_ok(lang, text, where, rep):
             rep.err(where, f"{name} line has no native-script letters: {text[:50]!r}")
 
 
-def check_script(path, lang, rep, expect_id=None, cast=None):
+def check_script(path, lang, rep, expect_id=None, cast=None, excerpt=False):
     """cast = {role key: cast.json entry} of the show, or None (--script mode: no cast checks)."""
     w = str(path)
     try: d = json.loads(Path(path).read_text(encoding="utf-8"))
@@ -235,6 +235,9 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
     if expect_id and d.get("id") != expect_id: rep.err(w, f"id should be {expect_id!r}, is {d.get('id')!r}")
     if d.get("pair") != PAIR[lang]: rep.err(w, f"pair should be {PAIR[lang]!r}")
     segs = d["segments"]
+    taster = excerpt and d.get("format") == "taster"
+    if d.get("format") == "taster" and not excerpt:
+        rep.err(w, "taster format requires an explicit source-bound excerpt in scenes.json")
     if not isinstance(segs, list) or not all(isinstance(s, dict) and isinstance(s.get("v"), str) for s in segs):
         return rep.err(w, "segments must be a list of {v, t, gap}")
     roles = sorted({s["v"] for s in segs if s["v"] != "narrator"})
@@ -244,7 +247,7 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
     for r in roles:
         if r not in labels and not (cast is None and r in SLOT_KEYS):       # (--script mode: examples/ predate cast.json and labels)
             rep.err(w, f"labels missing display name for role {r!r}")
-    if len(segs) < 20: return rep.err(w, "segments missing or too short (a scene has ~60-80)")
+    if len(segs) < (7 if taster else 20): return rep.err(w, "segments missing or too short (full lessons need at least20; explicit tasters at least7)")
     for i, s in enumerate(segs):
         sw = f"{w} segment {i}"
         if not isinstance(s, dict) or not {"v", "t", "gap"} <= set(s): rep.err(sw, "needs v, t, gap"); continue
@@ -265,7 +268,7 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
         else:
             target_ok(lang, s["t"], sw, rep)
     if segs[0]["v"] != "narrator": rep.err(w, "first segment must be the narrator intro")
-    if segs[-1]["v"] == "narrator": rep.err(w, "last segment must be one short target-language line")
+    if segs[-1]["v"] == "narrator" and not taster: rep.err(w, "last segment must be one short target-language line")
     # 5-part shape: intro, story, walk-through, story again, outro + closing line
     first = next((i for i, s in enumerate(segs) if s["v"] != "narrator"), None)
     if first is not None:
@@ -276,8 +279,10 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
         k = len(segs) - 1
         while k > 0 and segs[k]["v"] != "narrator": k -= 1       # closing line sits after the outro
         tail = [s["t"] for s in segs[:k] if s["v"] != "narrator"][-len(story):]
-        if tail != story: rep.warn(w, "the whole story is not repeated unchanged before the outro (part 4)")
-        if not FAREWELL[lang].search(segs[-1]["t"]) or len(segs[-1]["t"].split()) > 6:
+        if tail != story:
+            (rep.err if taster else rep.warn)(w, "the whole story is not repeated unchanged before the outro (part 4)")
+        source_closing = taster and (segs[-1]["v"] == "narrator" or segs[-1]["t"] in story)
+        if not source_closing and (not FAREWELL[lang].search(segs[-1]["t"]) or len(segs[-1]["t"].split()) > 6):
             rep.err(w, f"last segment must be a short farewell (Пока! / До свидания! / À bientôt!), not a story line: {segs[-1]['t'][:50]!r}")
         if sum(1 for s in segs[j:k] if s["v"] == "narrator") < 3: rep.warn(w, "walk-through (part 3) looks missing")
     check_narration(w, d, cast, rep, getattr(cast, "other", frozenset()))
@@ -808,7 +813,7 @@ def check_scenes(epdir, show, rep):
             sp = epdir / f"scene-{n}.json"
             if not sp.is_file(): rep.err(sw, f"missing scene-{n}.json")
             else:
-                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast)
+                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast, excerpt=excerpt_bounds is not None)
                 if d is not None:
                     # A transition explicitly folded into this lesson contributes its
                     # own source range (spec/scenes-format.md), without changing the
