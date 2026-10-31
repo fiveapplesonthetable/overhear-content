@@ -81,3 +81,29 @@ Machine-readable: `spec/schema/notes.schema.json`, enforced by `tools/validate.p
   values, never an IPA string. Russian lexicon `stress` carries the U+0301 mark on every word of 2+ vowels.
 - The same lemma has the same `pos`, `gender`, `aspect`, `pair` and `stress` in every scene's lexicon (a lemma is
   looked up, not re-decided per scene). Keys are lowercase.
+
+## Exact native word spans and reviewed readings
+
+`words[].span: [start, end]` uses half-open **Unicode code-point** offsets into
+that script segment's exact `t`. The selected substring must equal `words[].t`.
+A line uses explicit spans on every word or on none. Spans must be ordered,
+nonoverlapping and cover every written letter, number and attached combining
+mark; whitespace and punctuation may remain in gaps. Do not split a base
+character from its marks. Do not insert spaces into Japanese or Mandarin to make
+annotation easier. Python indices already use these units; Android converts them
+to UTF-16 indices at the content boundary.
+
+Japanese and Mandarin native lines require explicit spans and a reviewed
+`words[].reading`. Japanese readings use contextually correct kana, including
+spoken particles; a compound's reading belongs to its entire authored lexical
+span, not invented per-kanji intervals. Mandarin readings use reviewed contextual
+pinyin, including resolved spoken numbers. Korean and Arabic may also provide
+reviewed readings; their native written spacing and logical order remain intact.
+Japanese, Mandarin, Korean and Arabic `stress` values remain null: do not invent
+stress or pitch-accent descriptions. `reading` is alignment guidance and does
+not replace the written text or establish pronunciation/audio quality by itself.
+
+The renderer must reject unresolved native alignment, partial coverage or
+ownership that crosses independently selectable words. Missing words cannot be
+published using interpolated acoustic boundaries. Source-span correctness and
+actual acoustic boundary quality are separate checks.

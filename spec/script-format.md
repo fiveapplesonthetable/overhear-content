@@ -64,3 +64,31 @@ Machine-readable: `spec/schema/script.schema.json`, enforced by `tools/validate.
 - Narration names only people of `cast.json` (or its `other_names`), and the person who actually speaks the line it
   explains. Explanations follow the P-1 rules in FEEDBACK.md (no templates, no grammar-label endings).
 - Narration never contains placeholder text (`The characters discuss their situation`, `ENG `).
+
+## Private original native source-audio proof
+
+A private verification script may specify (a public teaching script must omit it):
+
+```json
+"sourceAudio": {
+  "file": "sources/al-maktab/s01/e01.mp4",
+  "sha256": "<entire original media SHA256, 64 lowercase hex characters>",
+  "start": 12.5,
+  "end": 14.2
+}
+```
+
+This portable relative identifier resolves only under the renderer's external
+private `OVERHEAR_SOURCE_AUDIO_ROOT` (default `/mnt/agent/pilot-source-audio`).
+Production provisions the original media there; **never commit full video/audio
+or an absolute private file path into the content repository**. Path traversal
+and symlink escapes are rejected. The renderer verifies the media hash and
+actual bounds before extracting speech. Replays reuse the identical hash and
+window. The segment text must be a reviewed transcript of that exact speech;
+source reuse cannot justify invented or changed dialogue. English narrator
+segments continue to use their configured narrator voice. Public transcript
+content omits `sourceAudio` entirely. Original show clips, including extracted
+speech embedded in a teaching MP3, remain private. The publisher rejects scripts
+or rendered provenance using original source audio; final public native dialogue
+must be synthesized and independently checked. Original clips may guide private
+verification and authorized voice conditioning only.
