@@ -15,7 +15,7 @@ SOURCE_NOTE = ('A short continuous original-Mandarin taster. The native sidecar 
  'from the Chinese, not backtranslated into it. Punctuation is editorial. One brief offscreen greeting '
  'at317.4–318.3s is omitted because its individual speaker is not corroborated; the retained17-cue native '
  'transcript and source interval are unchanged. No direct source-audio listening is claimed.')
-INTRO = ('Here is a short Mandarin taster from Behind the Scenes. Xiaogu meets her classmate Qin Xiao outside their '
+INTRO = ('Here is a short Mandarin taster from Behind the Scenes. Two classmates meet outside their '
  'college. One of them has been waiting so they can visit Professor Fang together. Listen first, then we '
  'will unpack the exchange in English.')
 OPENER = "Let's look at the words. She asks why her friend is here early."
@@ -129,8 +129,8 @@ WALK = [(0,
   'way to invite someone to leave with you. They go inside to meet the professor.'),
  (9,
   None,
-  "'Xiaogu, Qin Xiao.' The professor uses the shortened given name for one student and the full name for the "
-  'other. Names keep their normal spoken form when used to call someone.'),
+  'The professor calls both students by name. He uses a shortened given name for one student and the full '
+  'name for the other. Names keep their normal spoken form when used to call someone.'),
  (10,
   None,
   "'Come on in.' Repeating come makes the invitation welcoming and immediate. Chinese can repeat an ordinary "
