@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "show": "the-producers",
+  "nativeTitle": "프로듀사",
+  "pair": "ko-en",
+  "season": 1,
+  "episode": 1,
+  "scope": "One short taster from official E01 part1; no full-episode completion claim.",
+  "status": "native_audio_confirmed_exact_dialogue_review_pending",
+  "source": {
+    "page": "https://www.youtube.com/watch?v=FFkJCbZi9ws",
+    "title": "[IND] Drama 'The Producers' (2015) Ep. 1 Part 1 | KBS WORLD TV",
+    "channel": "KBS WORLD Indonesian",
+    "durationSeconds": 1163.741,
+    "bytes": 68330883,
+    "sha256": "b289382603d1f7e33eee2bce24587077a29756ccceacec766ce3dfbbbc4c2cd5",
+    "privateMediaPath": "/mnt/agent/pilot-source-discovery/sources/ko/the-producers-s01e01-kbs-part1.mp4",
+    "originalMediaCommitted": false,
+    "logicalSourceAudioFile": "sources/the-producers/s01/e01.mp4"
+  },
+  "captionEvidence": {
+    "kind": "native-audio automatic ko-orig ASR captions, not authored or certified transcript",
+    "sha256": "791de42cbfcf6eb6f53ef8b4f91a3a2d9b3da299b8f5c9ce1ff72fac5b6a2877",
+    "privatePath": "/mnt/agent/pilot-source-discovery/sources/ko/the-producers-s01e01-kbs-part1.ko-orig.vtt",
+    "nativeLanguage": "ko",
+    "notBacktranslated": true
+  },
+  "audioVerification": {
+    "method": "already cached Systran/faster-whisper-small",
+    "detectedLanguage": "ko",
+    "probability": 0.9954458475112915,
+    "offsetSeconds": 44,
+    "durationSeconds": 17,
+    "unprompted": true,
+    "proofPath": "/mnt/agent/pilot-source-discovery/korean-pilot/opening-independent-small-asr.json",
+    "proofSha256": "94cb53f1fd572e9415e88973ba80f17327bb139e0a8db6fc8e3f5362387d8d0c",
+    "humanListeningCertified": false
+  },
+  "visualIdentity": {
+    "evidence": "/mnt/agent/pilot-source-discovery/korean-pilot/opening-contact-sheet.jpg",
+    "facts": [
+      "Original source has KBS watermark.",
+      "At51–53seconds the source identifies 백승찬27세 and KBS신입PD.",
+      "A visible camera operator approaches the new employee."
+    ],
+    "notHumanAudioCertification": true
+  },
+  "currentHolds": [
+    "Exact Korean morphology and role mapping require independent large-ASR comparison; do not author from the imperfect automatic caption.",
+    "No native text, lesson, illustration or render approved yet.",
+    "Root-owned explicit excerpt/native-word-span/sourceAudio contract must be integrated."
+  ],
+  "sharedManifestOwner": "/root/french_e03",
+  "sourceOwnership": "Private media stays outside Git/public storage; production provisions the hash-checked external sourceAudio root."
+}
