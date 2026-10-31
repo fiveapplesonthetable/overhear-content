@@ -10,33 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Gabriel | Au début, nous étions vraiment très tristes tous les trois. | At first, all three of us were really very sad. | #769: D'abord, on a pensé à un suicide collectif<br>#770: Enfin, moi. Un suicide collectif tout seul | verbatim |
-| 2 | Andréa | Puis nous avons trouvé le bon whisky de Samuel. | Then we found Samuel's good whisky. | #774: Mais finalement, on a trouvé le whisky de Samuel, donc on ne se tue pas | verbatim |
-| 3 | Andréa | Tu es ivre, Mathias. Je ne t'ai jamais vu ivre! | You are drunk, Mathias. I have never seen you drunk! | #780: Tu es ivre, Mathias<br>#781: Je ne t'ai jamais vu ivre | verbatim |
-| 4 | Mathias | Je ne suis pas ivre, pas du tout! | I am not drunk, not at all! | #782: Je ne suis pas ivre, pas du tout | verbatim |
-| 5 | Gabriel | À ton premier Festival de Cannes, tu as disparu trois jours. | At your first Cannes Festival, you disappeared for three days. | #783: C'est comme ton premier Festival de Cannes<br>#785: Tu avais disparu pendant trois jours | verbatim |
-| 6 | Andréa | C'était un jeune homme sobre, toujours très professionnel... | He was a sober young man, always very professional... | #788: C'était un jeune homme sobre, toujours très professionnel | verbatim |
-| 7 | Gabriel | Mais il y avait cette fête dans une villa avec une piscine... | But there was this party in a villa with a swimming pool... | #789: Mais il y avait cette fête<br>#790: dans une villa avec une piscine | verbatim |
-| 8 | Andréa | Ne parlez pas de piscine, s'il vous plaît! | Don't talk about swimming pools, please! | #791: Ne parlez pas de piscine, s'il vous plaît | verbatim |
-| 9 | Gabriel | Qu'est-ce que tu as fait pendant trois jours? On veut savoir! | What did you do for three days? We want to know! | #798: Qu'est-ce que tu as fait pendant trois jours<br>#800: On veut savoir | verbatim |
-| 10 | Mathias | Je ne me souviens pas, Gabriel. | I don't remember, Gabriel. | #799: Je ne me souviens pas, Gabriel | verbatim |
-| 11 | Andréa | On va s'en sortir, les enfants. On l'a toujours fait. | We're going to get through this, kids. We always have. | #805: On va s'en sortir, les enfants. On l'a toujours fait | verbatim |
-| 12 | Mathias | Bonne nuit. À bientôt, Camille. | Good night. See you soon, Camille. | #806: Bonne nuit<br>#811: À bientôt, Camille | verbatim |
-| 13 | Andréa | Quand tout va mal, il y a toujours le cinéma. | When everything is going badly, there is always the movies. | #821: Quand tout va mal<br>#822: il y a toujours le cinéma | verbatim |
-
+| 1 | Mathias | Pour une fois qu'on est d'accord! | For once we agree! | #773 00:48:10: Pour une fois qu'on est d'accord | verbatim |
+| 2 | Arlette | On a trouvé le whisky de Samuel. | We found Samuel's whisky. | #774 00:48:12: on a trouvé le whisky de Samuel | verbatim |
+| 3 | Andréa | Tu es ivre, Mathias. Je ne t'ai jamais vu ivre! | You are drunk, Mathias. I have never seen you drunk! | #780 00:48:29: Tu es ivre, Mathias<br>#781 00:48:31: Je ne t'ai jamais vu ivre | verbatim |
+| 4 | Arlette | C'est comme ton premier Festival de Cannes. | It is like your first Cannes Film Festival. | #783 00:48:36: C'est comme ton premier Festival de Cannes | verbatim |
+| 5 | Mathias | C'était un jeune homme sobre, toujours très professionnel. | He was a sober young man, always very professional. | #788 00:48:48: C'était un jeune homme sobre, toujours très professionnel | verbatim |
+| 6 | Andréa | Ne parlez pas de piscine, s'il vous plaît! | Do not talk about swimming pools, please! | #791 00:48:56: Ne parlez pas de piscine, s'il vous plaît | verbatim |
+| 7 | Mathias | Alors, on est rentrés à Paris sans lui. | So we returned to Paris without him. | #793 00:49:00: Alors on est rentrés à Paris sans lui | verbatim |
+| 8 | Mathias | Qu'est-ce que tu as fait pendant trois jours? | What did you do for three days? | #798 00:49:13: Qu'est-ce que tu as fait pendant trois jours | verbatim |
+| 9 | Arlette | On va s'en sortir, les enfants. | We are going to get through this, kids. | #805 00:49:39: On va s'en sortir, les enfants | verbatim |
+| 10 | Arlette | On l'a toujours fait. | We always have. | #805 00:49:39: On l'a toujours fait | verbatim |
+| 11 | Arlette | Tu veux aller voir un film? | Do you want to go see a film? | #814 00:50:38: Tu veux aller voir un film | verbatim |
+| 12 | Arlette | Quand tout va mal, il y a toujours le cinéma. | When everything goes badly, there is always the cinema. | #821 00:50:57: Quand tout va mal<br>#822 00:50:59: il y a toujours le cinéma | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At first, all three of us were really very sad.' This phrase 'all alone' means 'all by myself'.
-- 'Then we found Samuel's good whisky.' Drinking their late founder's whiskey brings the four rivals back together.
-- 'You are drunk, Mathias. I have never seen you drunk!' The negation 'not...
-- 'I am not drunk, not at all!' This fixed phrase 'not of the all' means 'not at all'.
-- 'At your first Cannes Festival, you disappeared for three days.' Gabriel brings up a legendary agency mystery from twenty years ago.
-- 'He was a sober young man, always very professional...' Even in his twenties, Mathias was known for being buttoned-up and serious.
-- 'But there was this party in a villa with a swimming pool...' The imperfect form 'there was' sets the scene of the Cannes party.
-- 'Don't talk about swimming pools, please!' After Francois Berleand's pool drama and falling into the water at the party, Andrea never wants to hear the word 'pool' again.
-- 'What did you do for three days? We want to know!' Everyone presses Mathias for his secret.
-- 'I don't remember, Gabriel.' Mathias smiles enigmatically, keeping the memory of Camille's mother to himself.
-- 'We're going to get through this, kids. We always have.' The reflexive verb 'to get oneself out of it' means 'to pull through' or 'to manage'.
-- 'Good night. See you soon, Camille.' Down on the street, Mathias gives his daughter a warm farewell as she stays on at ASK.
-- 'When everything is going badly, there is always the movies.' As Arlette slips into a late-night cinema with Hervé and her dog Jean Gabin, she sums up the spirit of the whole agency.
+- 'For once we agree!' Mathias begins with 'for once'. The final expression means being in agreement: he jokes that they have finally found something to agree about.
+- 'We found Samuel's whisky.' The completed action means 'found'. The little word before Samuel's name means 'of' or possession, identifying whose whisky they are sharing.
+- 'You are drunk, Mathias. I have never seen you drunk!' The first description calls Mathias drunk. In the next sentence, the two negative words mean 'never': Andréa says she has never seen him like this.
+- 'It is like your first Cannes Film Festival.' Arlette introduces a comparison with a first visit to the film festival. The possessive before 'first' addresses the person whose trip they are remembering.
+- 'He was a sober young man, always very professional.' Mathias describes the young man in their memory as sober. The final words mean 'always very professional', setting up the contrast with his later disappearance.
+- 'Do not talk about swimming pools, please!' Andréa interrupts the pool story. The negative command is addressed to more than one person; the polite ending adds please despite her exasperation.
+- 'So we returned to Paris without him.' The completed return uses 'are' rather than 'have' in French. The final words mean 'without him': they returned to Paris while he was still missing.
+- 'What did you do for three days?' The opening question asks 'what'. The final time words count the three days he disappeared; Mathias wants to know what happened during them.
+- 'We are going to get through this, kids.' Outside the agency, Arlette gives reassurance. The central expression means managing to get out of a difficult situation; 'children' is an affectionate address to the group.
+- 'We always have.' The little object before the completed action means 'it'. The word for 'always' connects this problem with earlier difficulties they have survived.
+- 'Do you want to go see a film?' Arlette now invites Camille to the cinema. The two actions mean going and seeing, with 'a film' as the thing they will see.
+- 'When everything goes badly, there is always the cinema.' The opening means 'when everything goes badly'. The final statement says cinema is still available as comfort; the word before it means 'always'.
