@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Arlette, I want to talk to you about Jonathan Joubert.' The first you is polite, keeping some professional distance. The word for about introduces the person they are going to discuss.
-- 'That's his armchair.' The possessive his follows the masculine noun armchair. The line gives priority to the small dog whose chair Mathias is trying to use.
+- 'That's his armchair.' The possessive his follows the masculine word for armchair. It identifies the chair with someone already known in the conversation.
 - 'Marie-Sophie doesn't want your flowers.' After a negative expression about wanting something, French can use of before the thing refused. Your is plural because it goes with flowers.
 - 'You can't do anything against Ryan's illness.' The word for nothing follows can, while do stays in its basic form. Together the negative means that no useful action is possible.
 - 'We're going to lose a lot of money!' The quantity a lot is followed by of before money. A form of go announces the financial loss he expects if the character is removed.

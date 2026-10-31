@@ -7,29 +7,29 @@ SCENE = 13
 TITLE = "La cible, c'est la femme chez le coiffeur  (The Target Is the Woman at the Hairdresser's)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'mathias': 'Mathias'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
-INTRO = ("At the agency, Camille suggests using the soap opera's loyal viewers to oppose Ryan's death. Hervé shows a "
- 'proposed notice, but Mathias thinks it goes much too far. Listen to the French first and follow how an '
- 'idea is offered, rejected and replaced with another task.')
+INTRO = ("At the agency, Noémie and Mathias discuss a plan involving the soap opera's loyal viewers and a proposed "
+ 'notice. Camille listens from the doorway. Mathias thinks the idea goes too far. Listen to the French first '
+ 'and follow how a suggestion is offered, rejected and replaced with another task.')
 OPENER = 'Camille begins with the audience she thinks would care most about Ryan.'
 TRANSITION = 'Now listen to the entire office exchange one more time at natural speed.'
-OUTRO = ('Mathias rejects the notice and gives Hervé another job. Camille still sees the viewers as a possible way '
- 'to save the character. Listen again for I mean, drop it and thanks all the same. See you next time.')
+OUTRO = ('Mathias rejects the notice and gives Noémie another job. Camille has heard the conversation about the '
+ 'viewers. Listen again for I mean, drop it and thanks all the same. See you next time.')
 CLOSING = ('mathias', 'Bonne journée!')
-STORY = [('camille',
+STORY = [('noemie',
   "Notre public, c'est la femme qui parle chez le coiffeur.",
   "Our audience is the woman chatting at the hairdresser's.",
   [(237, 'La cible'), (238, "c'est la femme qui bavarde avec ses amies chez le coiffeur")],
   ''),
- ('camille',
+ ('noemie',
   'Le genre de femme qui adore Jonathan Joubert.',
   'The kind of woman who adores Jonathan Joubert.',
   [(239, 'le genre de femme qui adore Jonathan Joubert')],
   ''),
- ('camille', 'Ryan, je veux dire.', 'Ryan, I mean.', [(240, 'Ryan, je veux dire')], ''),
- ('camille',
+ ('noemie', 'Ryan, je veux dire.', 'Ryan, I mean.', [(240, 'Ryan, je veux dire')], ''),
+ ('noemie',
   'Il nous faut une rumeur pour faire réagir les fans.',
   'We need a rumor to make the fans react.',
   [(241, "Ce qu'il nous faut, c'est une fuite, pour que les fans commencent à protester")],
@@ -39,12 +39,13 @@ STORY = [('camille',
   'What is your idea, like a death notice?',
   [(242, "C'est quoi ton idée"), (242, 'un avis de décès')],
   ''),
- ('herve', 'Exactement!', 'Exactly!', [(243, 'Exactement')], ''),
- ('herve',
-  "Je me suis inspiré de cette affaire d'un enfant disparu en Corrèze.",
+ ('noemie', 'Exactement!', 'Exactly!', [(243, 'Exactement')], ''),
+ ('noemie',
+  "Je me suis inspirée de cette affaire d'un enfant disparu en Corrèze.",
   'I took inspiration from that case of a missing child in Corrèze.',
   [(244, "Je me suis inspiré de cette affaire d'un enfant disparu en Corrèze")],
-  ''),
+  'Primary-video check: Noémie pitches this idea while Camille listens in the doorway. Feminine agreement '
+  'follows Noémie.'),
  ('mathias', "C'est horrible.", "It's horrible.", [(246, "C'est"), (247, 'horrible')], ''),
  ('mathias', 'Écoute, laisse tomber.', 'Listen, drop it.', [(248, 'Écoute, laisse tomber')], ''),
  ('mathias',
@@ -58,7 +59,7 @@ STORY = [('camille',
   [(250, "Elle a un problème d'emploi du temps avec ses enfants")],
   ''),
  ('mathias', 'Merci quand même.', 'Thanks all the same.', [(251, 'Merci quand même')], ''),
- ('herve', 'De rien.', "You're welcome.", [(251, 'De rien')], '')]
+ ('noemie', 'De rien.', "You're welcome.", [(251, 'De rien')], '')]
 WALK = [(0,
   None,
   "'Our audience is the woman chatting at the hairdresser's.' The word for at can introduce a person or "
@@ -81,7 +82,7 @@ WALK = [(0,
   'this casual question. A death notice is a public announcement, which is why it sounds so extreme here.'),
  (5,
   None,
-  "'Exactly!' The single word confirms that the suggestion matches his idea exactly. It can answer a whole "
+  "'Exactly!' The single word confirms that the suggestion matches her idea exactly. It can answer a whole "
   'question without repeating its wording.'),
  (6,
   None,
@@ -99,7 +100,7 @@ WALK = [(0,
  (9,
   None,
   "'Take care of Audrey Fleurot.' The word for yourself attaches after the instruction. Take care of "
-  'introduces the person whose problem Hervé should now handle.'),
+  'introduces the person whose problem Noémie should now handle.'),
  (10,
   None,
   "'She has a schedule problem with her children.' The expression for schedule literally means use of time. "
