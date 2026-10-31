@@ -73,8 +73,6 @@
       ]
     },
     {
-      "seg": 2,
-      "trans": "That's his armchair.",
       "words": [
         {
           "t": "C'est",
@@ -82,29 +80,53 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "it is",
-          "gram": "ce + est"
+          "gram": "ce + est; present third-person singular"
         },
         {
-          "t": "son",
-          "lemma": "son",
+          "t": "le",
+          "lemma": "le",
           "pos": "det",
-          "stress": "sɔ̃",
-          "gloss": "his",
-          "gram": "possessive agreeing with masculine fauteuil; the dog's chair"
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "masculine singular definite article"
         },
         {
-          "t": "fauteuil.",
+          "t": "fauteuil",
           "lemma": "fauteuil",
           "pos": "noun",
           "stress": "fotœj",
           "gloss": "armchair",
           "gram": "masculine singular"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
+        },
+        {
+          "t": "Jean",
+          "lemma": "jean",
+          "pos": "name",
+          "gloss": "Jean",
+          "stress": "ʒɑ̃",
+          "gram": "given name"
+        },
+        {
+          "t": "Gabin.",
+          "lemma": "gabin",
+          "pos": "name",
+          "gloss": "Gabin",
+          "stress": "ɡabɛ̃",
+          "gram": "surname"
         }
-      ]
+      ],
+      "seg": 2,
+      "trans": "That's Jean Gabin's armchair."
     },
     {
-      "seg": 3,
-      "trans": "Marie-Sophie doesn't want your flowers.",
       "words": [
         {
           "t": "Marie-Sophie",
@@ -147,12 +169,12 @@
           "gram": "preposition, shows possession"
         },
         {
-          "t": "vos",
-          "lemma": "votre",
+          "t": "tes",
+          "lemma": "ton",
           "pos": "det",
-          "stress": "vo",
+          "stress": "te",
           "gloss": "your",
-          "gram": "possessive, plural, formal"
+          "gram": "familiar possession, agreeing with the following noun"
         },
         {
           "t": "fleurs.",
@@ -162,19 +184,19 @@
           "gloss": "flowers",
           "gram": "feminine plural"
         }
-      ]
+      ],
+      "seg": 3,
+      "trans": "Marie-Sophie doesn't want your flowers."
     },
     {
-      "seg": 4,
-      "trans": "You can't do anything against Ryan's illness.",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
           "t": "ne",
@@ -185,12 +207,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "pouvez",
+          "t": "peux",
           "lemma": "pouvoir",
           "pos": "verb",
-          "stress": "puve",
+          "stress": "pø",
           "gloss": "can",
-          "gram": "present, 2nd person plural (formal vous)"
+          "gram": "present second-person singular"
         },
         {
           "t": "rien",
@@ -205,8 +227,8 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "do",
-          "gram": "infinitive after can"
+          "gloss": "make",
+          "gram": "infinitive; faire preuve de means show or demonstrate"
         },
         {
           "t": "contre",
@@ -219,10 +241,10 @@
         {
           "t": "la",
           "lemma": "le",
-          "pos": "det",
+          "pos": "pron",
           "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
+          "gloss": "her",
+          "gram": "feminine singular direct object; the person pushed"
         },
         {
           "t": "maladie",
@@ -248,7 +270,9 @@
           "gloss": "Ryan (Jonathan's character in the soap opera)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "seg": 4,
+      "trans": "You can't do anything against Ryan's illness."
     },
     {
       "seg": 5,
@@ -507,16 +531,14 @@
       ]
     },
     {
-      "seg": 9,
-      "trans": "Your threats don't impress me.",
       "words": [
         {
-          "t": "Vos",
-          "lemma": "votre",
+          "t": "Tes",
+          "lemma": "ton",
           "pos": "det",
-          "stress": "vo",
+          "stress": "te",
           "gloss": "your",
-          "gram": "possessive, plural, formal"
+          "gram": "familiar possession, agreeing with the following noun"
         },
         {
           "t": "menaces",
@@ -550,7 +572,9 @@
           "gloss": "not",
           "gram": "negation, second half, after the verb"
         }
-      ]
+      ],
+      "seg": 9,
+      "trans": "Your threats don't impress me."
     },
     {
       "seg": 10,
@@ -733,11 +757,9 @@
       ]
     },
     {
-      "seg": 12,
-      "trans": "So as for your Ryan, cut!",
       "words": [
         {
-          "t": "Alors",
+          "t": "Alors,",
           "lemma": "alors",
           "pos": "adv",
           "stress": "alɔʁ",
@@ -745,12 +767,12 @@
           "gram": "invariable adverb ('alors', meaning 'then')"
         },
         {
-          "t": "votre",
-          "lemma": "votre",
+          "t": "ton",
+          "lemma": "ton",
           "pos": "det",
-          "stress": "vɔtʁ",
+          "stress": "tɔ̃",
           "gloss": "your",
-          "gram": "possessive, singular, formal"
+          "gram": "familiar possession, agreeing with the following noun"
         },
         {
           "t": "Ryan,",
@@ -761,14 +783,16 @@
           "gram": "proper name"
         },
         {
-          "t": "coupez!",
-          "lemma": "couper",
-          "pos": "verb",
-          "stress": "kupe",
-          "gloss": "cut!",
-          "gram": "imperative, 2nd person plural/formal; film director's command to stop rolling"
+          "t": "couic!",
+          "lemma": "couic",
+          "pos": "interj",
+          "gloss": "eek; the end!",
+          "stress": "kwik",
+          "gram": "sound effect suggesting an abrupt end"
         }
-      ]
+      ],
+      "seg": 12,
+      "trans": "So as for your Ryan, that's the end of him!"
     },
     {
       "seg": 13,
@@ -1073,8 +1097,6 @@
       ]
     },
     {
-      "seg": 20,
-      "trans": "That's his armchair.",
       "words": [
         {
           "t": "C'est",
@@ -1082,29 +1104,53 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "it is",
-          "gram": "ce + est"
+          "gram": "ce + est; present third-person singular"
         },
         {
-          "t": "son",
-          "lemma": "son",
+          "t": "le",
+          "lemma": "le",
           "pos": "det",
-          "stress": "sɔ̃",
-          "gloss": "his",
-          "gram": "possessive agreeing with masculine fauteuil; the dog's chair"
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "masculine singular definite article"
         },
         {
-          "t": "fauteuil.",
+          "t": "fauteuil",
           "lemma": "fauteuil",
           "pos": "noun",
           "stress": "fotœj",
           "gloss": "armchair",
           "gram": "masculine singular"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
+        },
+        {
+          "t": "Jean",
+          "lemma": "jean",
+          "pos": "name",
+          "gloss": "Jean",
+          "stress": "ʒɑ̃",
+          "gram": "given name"
+        },
+        {
+          "t": "Gabin.",
+          "lemma": "gabin",
+          "pos": "name",
+          "gloss": "Gabin",
+          "stress": "ɡabɛ̃",
+          "gram": "surname"
         }
-      ]
+      ],
+      "seg": 20,
+      "trans": "That's Jean Gabin's armchair."
     },
     {
-      "seg": 22,
-      "trans": "Marie-Sophie doesn't want your flowers.",
       "words": [
         {
           "t": "Marie-Sophie",
@@ -1147,12 +1193,12 @@
           "gram": "preposition, shows possession"
         },
         {
-          "t": "vos",
-          "lemma": "votre",
+          "t": "tes",
+          "lemma": "ton",
           "pos": "det",
-          "stress": "vo",
+          "stress": "te",
           "gloss": "your",
-          "gram": "possessive, plural, formal"
+          "gram": "familiar possession, agreeing with the following noun"
         },
         {
           "t": "fleurs.",
@@ -1162,19 +1208,19 @@
           "gloss": "flowers",
           "gram": "feminine plural"
         }
-      ]
+      ],
+      "seg": 22,
+      "trans": "Marie-Sophie doesn't want your flowers."
     },
     {
-      "seg": 24,
-      "trans": "You can't do anything against Ryan's illness.",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
           "t": "ne",
@@ -1185,12 +1231,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "pouvez",
+          "t": "peux",
           "lemma": "pouvoir",
           "pos": "verb",
-          "stress": "puve",
+          "stress": "pø",
           "gloss": "can",
-          "gram": "present, 2nd person plural (formal vous)"
+          "gram": "present second-person singular"
         },
         {
           "t": "rien",
@@ -1205,8 +1251,8 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "do",
-          "gram": "infinitive after can"
+          "gloss": "make",
+          "gram": "infinitive; faire preuve de means show or demonstrate"
         },
         {
           "t": "contre",
@@ -1219,10 +1265,10 @@
         {
           "t": "la",
           "lemma": "le",
-          "pos": "det",
+          "pos": "pron",
           "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
+          "gloss": "her",
+          "gram": "feminine singular direct object; the person pushed"
         },
         {
           "t": "maladie",
@@ -1248,7 +1294,9 @@
           "gloss": "Ryan (Jonathan's character in the soap opera)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "seg": 24,
+      "trans": "You can't do anything against Ryan's illness."
     },
     {
       "seg": 26,
@@ -1507,16 +1555,14 @@
       ]
     },
     {
-      "seg": 34,
-      "trans": "Your threats don't impress me.",
       "words": [
         {
-          "t": "Vos",
-          "lemma": "votre",
+          "t": "Tes",
+          "lemma": "ton",
           "pos": "det",
-          "stress": "vo",
+          "stress": "te",
           "gloss": "your",
-          "gram": "possessive, plural, formal"
+          "gram": "familiar possession, agreeing with the following noun"
         },
         {
           "t": "menaces",
@@ -1550,7 +1596,9 @@
           "gloss": "not",
           "gram": "negation, second half, after the verb"
         }
-      ]
+      ],
+      "seg": 34,
+      "trans": "Your threats don't impress me."
     },
     {
       "seg": 36,
@@ -1733,11 +1781,9 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "So as for your Ryan, cut!",
       "words": [
         {
-          "t": "Alors",
+          "t": "Alors,",
           "lemma": "alors",
           "pos": "adv",
           "stress": "alɔʁ",
@@ -1745,12 +1791,12 @@
           "gram": "invariable adverb ('alors', meaning 'then')"
         },
         {
-          "t": "votre",
-          "lemma": "votre",
+          "t": "ton",
+          "lemma": "ton",
           "pos": "det",
-          "stress": "vɔtʁ",
+          "stress": "tɔ̃",
           "gloss": "your",
-          "gram": "possessive, singular, formal"
+          "gram": "familiar possession, agreeing with the following noun"
         },
         {
           "t": "Ryan,",
@@ -1761,14 +1807,16 @@
           "gram": "proper name"
         },
         {
-          "t": "coupez!",
-          "lemma": "couper",
-          "pos": "verb",
-          "stress": "kupe",
-          "gloss": "cut!",
-          "gram": "imperative, 2nd person plural/formal; film director's command to stop rolling"
+          "t": "couic!",
+          "lemma": "couic",
+          "pos": "interj",
+          "gloss": "eek; the end!",
+          "stress": "kwik",
+          "gram": "sound effect suggesting an abrupt end"
         }
-      ]
+      ],
+      "seg": 40,
+      "trans": "So as for your Ryan, that's the end of him!"
     },
     {
       "seg": 42,
@@ -2073,8 +2121,6 @@
       ]
     },
     {
-      "seg": 51,
-      "trans": "That's his armchair.",
       "words": [
         {
           "t": "C'est",
@@ -2082,29 +2128,53 @@
           "pos": "verb",
           "stress": "sɛ",
           "gloss": "it is",
-          "gram": "ce + est"
+          "gram": "ce + est; present third-person singular"
         },
         {
-          "t": "son",
-          "lemma": "son",
+          "t": "le",
+          "lemma": "le",
           "pos": "det",
-          "stress": "sɔ̃",
-          "gloss": "his",
-          "gram": "possessive agreeing with masculine fauteuil; the dog's chair"
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "masculine singular definite article"
         },
         {
-          "t": "fauteuil.",
+          "t": "fauteuil",
           "lemma": "fauteuil",
           "pos": "noun",
           "stress": "fotœj",
           "gloss": "armchair",
           "gram": "masculine singular"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
+        },
+        {
+          "t": "Jean",
+          "lemma": "jean",
+          "pos": "name",
+          "gloss": "Jean",
+          "stress": "ʒɑ̃",
+          "gram": "given name"
+        },
+        {
+          "t": "Gabin.",
+          "lemma": "gabin",
+          "pos": "name",
+          "gloss": "Gabin",
+          "stress": "ɡabɛ̃",
+          "gram": "surname"
         }
-      ]
+      ],
+      "seg": 51,
+      "trans": "That's Jean Gabin's armchair."
     },
     {
-      "seg": 52,
-      "trans": "Marie-Sophie doesn't want your flowers.",
       "words": [
         {
           "t": "Marie-Sophie",
@@ -2147,12 +2217,12 @@
           "gram": "preposition, shows possession"
         },
         {
-          "t": "vos",
-          "lemma": "votre",
+          "t": "tes",
+          "lemma": "ton",
           "pos": "det",
-          "stress": "vo",
+          "stress": "te",
           "gloss": "your",
-          "gram": "possessive, plural, formal"
+          "gram": "familiar possession, agreeing with the following noun"
         },
         {
           "t": "fleurs.",
@@ -2162,19 +2232,19 @@
           "gloss": "flowers",
           "gram": "feminine plural"
         }
-      ]
+      ],
+      "seg": 52,
+      "trans": "Marie-Sophie doesn't want your flowers."
     },
     {
-      "seg": 53,
-      "trans": "You can't do anything against Ryan's illness.",
       "words": [
         {
-          "t": "Vous",
-          "lemma": "vous",
+          "t": "Tu",
+          "lemma": "tu",
           "pos": "pron",
-          "stress": "vu",
-          "gloss": "you (polite)",
-          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "familiar singular subject"
         },
         {
           "t": "ne",
@@ -2185,12 +2255,12 @@
           "gram": "negation, first half, before the verb"
         },
         {
-          "t": "pouvez",
+          "t": "peux",
           "lemma": "pouvoir",
           "pos": "verb",
-          "stress": "puve",
+          "stress": "pø",
           "gloss": "can",
-          "gram": "present, 2nd person plural (formal vous)"
+          "gram": "present second-person singular"
         },
         {
           "t": "rien",
@@ -2205,8 +2275,8 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "do",
-          "gram": "infinitive after can"
+          "gloss": "make",
+          "gram": "infinitive; faire preuve de means show or demonstrate"
         },
         {
           "t": "contre",
@@ -2219,10 +2289,10 @@
         {
           "t": "la",
           "lemma": "le",
-          "pos": "det",
+          "pos": "pron",
           "stress": "la",
-          "gloss": "the",
-          "gram": "feminine singular definite article"
+          "gloss": "her",
+          "gram": "feminine singular direct object; the person pushed"
         },
         {
           "t": "maladie",
@@ -2248,7 +2318,9 @@
           "gloss": "Ryan (Jonathan's character in the soap opera)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "seg": 53,
+      "trans": "You can't do anything against Ryan's illness."
     },
     {
       "seg": 54,
@@ -2507,16 +2579,14 @@
       ]
     },
     {
-      "seg": 58,
-      "trans": "Your threats don't impress me.",
       "words": [
         {
-          "t": "Vos",
-          "lemma": "votre",
+          "t": "Tes",
+          "lemma": "ton",
           "pos": "det",
-          "stress": "vo",
+          "stress": "te",
           "gloss": "your",
-          "gram": "possessive, plural, formal"
+          "gram": "familiar possession, agreeing with the following noun"
         },
         {
           "t": "menaces",
@@ -2550,7 +2620,9 @@
           "gloss": "not",
           "gram": "negation, second half, after the verb"
         }
-      ]
+      ],
+      "seg": 58,
+      "trans": "Your threats don't impress me."
     },
     {
       "seg": 59,
@@ -2733,11 +2805,9 @@
       ]
     },
     {
-      "seg": 61,
-      "trans": "So as for your Ryan, cut!",
       "words": [
         {
-          "t": "Alors",
+          "t": "Alors,",
           "lemma": "alors",
           "pos": "adv",
           "stress": "alɔʁ",
@@ -2745,12 +2815,12 @@
           "gram": "invariable adverb ('alors', meaning 'then')"
         },
         {
-          "t": "votre",
-          "lemma": "votre",
+          "t": "ton",
+          "lemma": "ton",
           "pos": "det",
-          "stress": "vɔtʁ",
+          "stress": "tɔ̃",
           "gloss": "your",
-          "gram": "possessive, singular, formal"
+          "gram": "familiar possession, agreeing with the following noun"
         },
         {
           "t": "Ryan,",
@@ -2761,14 +2831,16 @@
           "gram": "proper name"
         },
         {
-          "t": "coupez!",
-          "lemma": "couper",
-          "pos": "verb",
-          "stress": "kupe",
-          "gloss": "cut!",
-          "gram": "imperative, 2nd person plural/formal; film director's command to stop rolling"
+          "t": "couic!",
+          "lemma": "couic",
+          "pos": "interj",
+          "gloss": "eek; the end!",
+          "stress": "kwik",
+          "gram": "sound effect suggesting an abrupt end"
         }
-      ]
+      ],
+      "seg": 61,
+      "trans": "So as for your Ryan, that's the end of him!"
     },
     {
       "seg": 62,
@@ -3544,6 +3616,48 @@
         }
       ]
     },
+    "chose": {
+      "lemma": "chose",
+      "stress": "ʃoz",
+      "pos": "noun",
+      "gloss": "thing",
+      "meanings": [
+        {
+          "en": "thing",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la chose",
+              "les choses"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est une chose importante.",
+          "trans": "It is an important thing."
+        },
+        {
+          "text": "Les choses changent.",
+          "trans": "Things change."
+        }
+      ],
+      "related": [],
+      "gender": "f"
+    },
     "contre": {
       "lemma": "contre",
       "stress": "kɔ̃tʁ",
@@ -3574,57 +3688,27 @@
         }
       ]
     },
-    "couper": {
-      "lemma": "couper",
-      "stress": "kupe",
-      "pos": "verb",
-      "gloss": "to cut",
+    "couic": {
+      "lemma": "couic",
+      "stress": "kwik",
+      "pos": "interj",
+      "gloss": "eek; an abrupt end",
       "meanings": [
         {
-          "en": "to cut",
-          "note": ""
+          "en": "a short choked cry",
+          "note": "In this scene the sound suggests abruptly finishing the character off."
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je coupe",
-              "nous coupons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu coupes",
-              "vous coupez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle coupe",
-              "ils/elles coupent"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Coupez!",
-          "trans": "Cut!"
+          "text": "Couic! Plus un bruit.",
+          "trans": "Eek! Not another sound."
         },
         {
-          "text": "Je coupe le pain.",
-          "trans": "I am cutting the bread."
+          "text": "Il n'a pas eu le temps de dire couic.",
+          "trans": "He did not even have time to squeak."
         }
       ],
       "related": []
@@ -4537,6 +4621,47 @@
           "gloss": "a idiot / idiots"
         }
       ]
+    },
+    "il": {
+      "lemma": "il",
+      "stress": "il",
+      "pos": "pron",
+      "gloss": "he; it",
+      "meanings": [
+        {
+          "en": "he; it",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "masculine",
+              "il",
+              "ils"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il est là.",
+          "trans": "He is here."
+        },
+        {
+          "text": "Il y a une réunion.",
+          "trans": "There is a meeting."
+        }
+      ],
+      "related": []
     },
     "impressionner": {
       "lemma": "impressionner",
@@ -6240,6 +6365,47 @@
         }
       ]
     },
+    "quelque": {
+      "lemma": "quelque",
+      "stress": "kɛlk",
+      "pos": "det",
+      "gloss": "some; a certain",
+      "meanings": [
+        {
+          "en": "some; a certain",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "quelque",
+              "quelques"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "J'ai quelque chose à vous dire.",
+          "trans": "I have something to tell you."
+        },
+        {
+          "text": "Il reste quelques fleurs.",
+          "trans": "There are a few flowers left."
+        }
+      ],
+      "related": []
+    },
     "revenir": {
       "lemma": "revenir",
       "stress": "ʁəvəniʁ",
@@ -6500,59 +6666,6 @@
         }
       ]
     },
-    "son": {
-      "lemma": "son",
-      "stress": "sɔ̃",
-      "pos": "det",
-      "gloss": "his, her, its",
-      "meanings": [
-        {
-          "en": "his, her, its",
-          "note": "agrees with the thing owned, not the owner"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "son",
-              "sa"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "ses",
-              "ses"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ses vingt ans de carrière.",
-          "trans": "His twenty years of career."
-        },
-        {
-          "text": "C'est son agent.",
-          "trans": "It's her agent."
-        }
-      ],
-      "related": [
-        {
-          "word": "son",
-          "gloss": "his"
-        }
-      ]
-    },
     "série": {
       "lemma": "série",
       "stress": "seʁi",
@@ -6636,6 +6749,59 @@
         {
           "word": "tardif",
           "gloss": "late"
+        }
+      ]
+    },
+    "ton": {
+      "lemma": "ton",
+      "stress": "tɔ̃",
+      "pos": "det",
+      "gloss": "your (informal)",
+      "meanings": [
+        {
+          "en": "your",
+          "note": "Informal, one owner; ton, ta, tes."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "ton",
+              "ta"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "tes",
+              "tes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tes premières vacances!",
+          "trans": "Your first holiday!"
+        },
+        {
+          "text": "C'est ton vélo?",
+          "trans": "Is it your bike?"
+        }
+      ],
+      "related": [
+        {
+          "word": "ton",
+          "gloss": "your"
         }
       ]
     },
@@ -6873,6 +7039,36 @@
         {
           "word": "très bien",
           "gloss": "very well"
+        }
+      ]
+    },
+    "tu": {
+      "lemma": "tu",
+      "stress": "ty",
+      "pos": "pron",
+      "gloss": "you (casual)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "one person you know well: friends, family, close colleagues"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tu es pénible.",
+          "trans": "You're a pain."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        }
+      ],
+      "related": [
+        {
+          "word": "vous",
+          "gloss": "you (polite or plural)"
         }
       ]
     },
@@ -7567,130 +7763,6 @@
           "gloss": "maybe, perhaps"
         }
       ]
-    },
-    "quelque": {
-      "lemma": "quelque",
-      "stress": "kɛlk",
-      "pos": "det",
-      "gloss": "some; a certain",
-      "meanings": [
-        {
-          "en": "some; a certain",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "quelque",
-              "quelques"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "J'ai quelque chose à vous dire.",
-          "trans": "I have something to tell you."
-        },
-        {
-          "text": "Il reste quelques fleurs.",
-          "trans": "There are a few flowers left."
-        }
-      ],
-      "related": []
-    },
-    "chose": {
-      "lemma": "chose",
-      "stress": "ʃoz",
-      "pos": "noun",
-      "gloss": "thing",
-      "meanings": [
-        {
-          "en": "thing",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la chose",
-              "les choses"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est une chose importante.",
-          "trans": "It is an important thing."
-        },
-        {
-          "text": "Les choses changent.",
-          "trans": "Things change."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "il": {
-      "lemma": "il",
-      "stress": "il",
-      "pos": "pron",
-      "gloss": "he; it",
-      "meanings": [
-        {
-          "en": "he; it",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "masculine",
-              "il",
-              "ils"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il est là.",
-          "trans": "He is here."
-        },
-        {
-          "text": "Il y a une réunion.",
-          "trans": "There is a meeting."
-        }
-      ],
-      "related": []
     }
   }
 }

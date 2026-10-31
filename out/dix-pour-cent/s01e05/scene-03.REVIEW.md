@@ -4,24 +4,24 @@ Title: Bon anniversaire, ma chérie!  (Happy Birthday, Darling!)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E05
-
+The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the bilingual working subtitles, whose French track is backtranslated; source video and separate original-audio checks verify roles, plot and register.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Camille | Allô? Merci, Maman. | Hello? Thank you, Mum. | #41 00:03:37: Allô<br>#43 00:03:39: Merci, maman | verbatim |
-| 2 | Camille | Arrête! J'ai du travail ici. | Stop it! I have work here. | #44 00:03:40: Arrête<br>#45 00:03:43: J'ai du travail ici | verbatim |
-| 3 | Camille | J'essaierai de descendre un week-end bientôt. | I'll try to come down for a weekend soon. | #48 00:03:50: J'essaierai de descendre un week-end bientôt | verbatim |
-| 4 | Camille | Maman, ça suffit! | Mum, that's enough! | #50 00:03:55: Maman, ça suffit ! | verbatim |
-| 5 | Sofia | J'ai une scène avec JoeyStarr, je dois vraiment me concentrer. | I have a scene with JoeyStarr, I really have to focus. | #52 00:03:59: J'ai une scène avec JoeyStarr, je dois vraiment me concentrer | adapted: Sofia speaks to a colleague as Camille passes; the autograph exchange with Hervé is omitted to retain three lesson roles. |
-| 6 | Camille | Merci, Mamie. C'est vraiment une belle attention. | Thank you, Gran. That's really a lovely thought. | #56 00:04:13: Merci, mamie. C'est vraiment une belle attention | verbatim |
-| 7 | Mathias | Camille, tu as un moment? | Camille, do you have a moment? | #58 00:04:19: Camille<br>#58 00:04:19: un moment | verbatim |
-| 8 | Camille | Je te rappelle, Mamie, d'accord? Gros bisous! | I'll call you back, Gran, okay? Big kisses! | #59 00:04:21: Je te rappelle, mamie, d'accord ?<br>#60 00:04:24: Gros bisous ! | verbatim |
-| 9 | Camille | C'est quoi, ça? | What is this? | #62 00:04:30: C'est quoi ça ? | verbatim |
-| 10 | Mathias | Le rapport du ministère sur le financement du cinéma. Pour Andréa. | The ministry report on cinema funding. For Andréa. | #63 00:04:30: Le rapport du ministère sur le financement du cinéma. Pour Andréa | verbatim |
-| 11 | Mathias | Qu'est-ce qu'il y a? | What is the matter? | #65 00:04:39: Qu'est-ce qu'il y a ? | verbatim |
-| 12 | Camille | Non, rien. C'est pour Andréa. | No, nothing. It's for Andréa. | #65 00:04:39: Non, rien<br>#67 00:04:49: C'est pour Andréa | verbatim |
+| 1 | Camille | Allô? Merci, Maman. | Hello? Thank you, Mum. | #41 00:03:37: Allô<br>#43 00:03:39: Merci, maman | adapted: Learner adaptation, not a verbatim French transcript. |
+| 2 | Camille | Arrête! J'ai du travail ici. | Stop it! I have work here. | #44 00:03:40: Arrête<br>#45 00:03:43: J'ai du travail ici | adapted: Learner adaptation, not a verbatim French transcript. |
+| 3 | Camille | J'essaierai de descendre un week-end bientôt. | I'll try to come down for a weekend soon. | #48 00:03:50: J'essaierai de descendre un week-end bientôt | adapted: Learner adaptation, not a verbatim French transcript. |
+| 4 | Camille | Maman, ça suffit! | Mum, that's enough! | #50 00:03:55: Maman, ça suffit ! | adapted: Learner adaptation, not a verbatim French transcript. |
+| 5 | Sofia | J'ai une scène avec JoeyStarr, je dois vraiment me concentrer. | I have a scene with JoeyStarr, I really have to focus. | #52 00:03:59: J'ai une scène avec JoeyStarr, je dois vraiment me concentrer | adapted: Sofia speaks to a colleague as Camille passes; the autograph exchange with Hervé is omitted to retain three lesson roles. Learner adaptation, not a verbatim French transcript. |
+| 6 | Camille | Merci, Mamie. C'est vraiment une belle attention. | Thank you, Gran. That's really a lovely thought. | #56 00:04:13: Merci, mamie. C'est vraiment une belle attention | adapted: Learner adaptation, not a verbatim French transcript. |
+| 7 | Mathias | Camille, tu as un moment? | Camille, do you have a moment? | #58 00:04:19: Camille<br>#58 00:04:19: un moment | adapted: Learner adaptation, not a verbatim French transcript. |
+| 8 | Camille | Je te rappelle, Mamie, d'accord? Gros bisous! | I'll call you back, Gran, okay? Big kisses! | #59 00:04:21: Je te rappelle, mamie, d'accord ?<br>#60 00:04:24: Gros bisous ! | adapted: Learner adaptation, not a verbatim French transcript. |
+| 9 | Camille | C'est quoi, ça? | What is this? | #62 00:04:30: C'est quoi ça ? | adapted: Learner adaptation, not a verbatim French transcript. |
+| 10 | Mathias | Le rapport du ministère sur le financement du cinéma. Pour Andréa. | The ministry report on cinema funding. For Andréa. | #63 00:04:30: Le rapport du ministère sur le financement du cinéma. Pour Andréa | adapted: Learner adaptation, not a verbatim French transcript. |
+| 11 | Mathias | Qu'est-ce qu'il y a? | What is the matter? | #65 00:04:39: Qu'est-ce qu'il y a ? | adapted: Learner adaptation, not a verbatim French transcript. |
+| 12 | Camille | Non, rien. C'est pour Andréa. | No, nothing. It's for Andréa. | #65 00:04:39: Non, rien<br>#67 00:04:49: C'est pour Andréa | adapted: Learner adaptation, not a verbatim French transcript. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

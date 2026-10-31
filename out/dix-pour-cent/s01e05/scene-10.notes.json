@@ -451,16 +451,14 @@
       ]
     },
     {
-      "seg": 9,
-      "trans": "Don't forget the flowers for Marie-Sophie Garnier.",
       "words": [
         {
-          "t": "N'oublie",
+          "t": "N'oubliez",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "nubli",
-          "gloss": "don't forget",
-          "gram": "'ne' + imperative, 2nd person singular (tu)"
+          "gloss": "do not forget",
+          "stress": "nublije",
+          "gram": "negative polite or plural instruction"
         },
         {
           "t": "pas",
@@ -510,7 +508,9 @@
           "gloss": "Garnier (Marie-Sophie's surname)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "seg": 9,
+      "trans": "Don't forget the flowers for Marie-Sophie Garnier."
     },
     {
       "seg": 10,
@@ -1387,16 +1387,14 @@
       ]
     },
     {
-      "seg": 34,
-      "trans": "Don't forget the flowers for Marie-Sophie Garnier.",
       "words": [
         {
-          "t": "N'oublie",
+          "t": "N'oubliez",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "nubli",
-          "gloss": "don't forget",
-          "gram": "'ne' + imperative, 2nd person singular (tu)"
+          "gloss": "do not forget",
+          "stress": "nublije",
+          "gram": "negative polite or plural instruction"
         },
         {
           "t": "pas",
@@ -1446,7 +1444,9 @@
           "gloss": "Garnier (Marie-Sophie's surname)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "seg": 34,
+      "trans": "Don't forget the flowers for Marie-Sophie Garnier."
     },
     {
       "seg": 36,
@@ -2323,16 +2323,14 @@
       ]
     },
     {
-      "seg": 58,
-      "trans": "Don't forget the flowers for Marie-Sophie Garnier.",
       "words": [
         {
-          "t": "N'oublie",
+          "t": "N'oubliez",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "nubli",
-          "gloss": "don't forget",
-          "gram": "'ne' + imperative, 2nd person singular (tu)"
+          "gloss": "do not forget",
+          "stress": "nublije",
+          "gram": "negative polite or plural instruction"
         },
         {
           "t": "pas",
@@ -2382,7 +2380,9 @@
           "gloss": "Garnier (Marie-Sophie's surname)",
           "gram": "proper name"
         }
-      ]
+      ],
+      "seg": 58,
+      "trans": "Don't forget the flowers for Marie-Sophie Garnier."
     },
     {
       "seg": 59,
@@ -5006,6 +5006,172 @@
         }
       ]
     },
+    "plaire": {
+      "lemma": "plaire",
+      "stress": "plɛʁ",
+      "pos": "verb",
+      "gloss": "to please",
+      "meanings": [
+        {
+          "en": "to please, to be liked by",
+          "note": "Ça me plaît = I like it."
+        },
+        {
+          "en": "s'il vous plaît / s'il te plaît = please",
+          "note": "Formal / informal."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je plais",
+              "nous plaisons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu plais",
+              "vous plaisez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle plaît",
+              "ils/elles plaisent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai plu",
+                "nous avons plu"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as plu",
+                "vous avez plu"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a plu",
+                "ils/elles ont plu"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je plaisais",
+                "nous plaisions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu plaisais",
+                "vous plaisiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle plaisait",
+                "ils/elles plaisaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je plairai",
+                "nous plairons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu plairas",
+                "vous plairez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle plaira",
+                "ils/elles plairont"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Un café, s'il vous plaît.",
+          "trans": "A coffee, please."
+        },
+        {
+          "text": "Paris me plaît beaucoup.",
+          "trans": "I like Paris a lot."
+        }
+      ],
+      "related": [
+        {
+          "word": "plaisanter",
+          "gloss": "to joke"
+        },
+        {
+          "word": "plaisir",
+          "gloss": "pleasure"
+        },
+        {
+          "word": "plaisanterie",
+          "gloss": "joke"
+        }
+      ]
+    },
     "possible": {
       "lemma": "possible",
       "stress": "pɔsibl",
@@ -5873,6 +6039,54 @@
         }
       ]
     },
+    "surpris": {
+      "lemma": "surpris",
+      "stress": "syʁpʁi",
+      "pos": "adj",
+      "gloss": "surprised",
+      "meanings": [
+        {
+          "en": "surprised",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "surpris",
+              "surprise"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "surpris",
+              "surprises"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Elle est surprise.",
+          "trans": "She is surprised."
+        },
+        {
+          "text": "Je suis surpris de te voir.",
+          "trans": "I am surprised to see you."
+        }
+      ],
+      "related": []
+    },
     "série": {
       "lemma": "série",
       "stress": "seʁi",
@@ -5922,6 +6136,63 @@
         {
           "word": "sérieusement",
           "gloss": "earnestly"
+        }
+      ]
+    },
+    "sûr": {
+      "lemma": "sûr",
+      "stress": "syʁ",
+      "pos": "adj",
+      "gloss": "sure",
+      "meanings": [
+        {
+          "en": "sure, certain",
+          "note": "Bien sûr = of course."
+        },
+        {
+          "en": "safe",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "sûr",
+              "sûre"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "sûrs",
+              "sûres"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tu es sûr?",
+          "trans": "Are you sure?"
+        },
+        {
+          "text": "Bien sûr!",
+          "trans": "Of course!"
+        }
+      ],
+      "related": [
+        {
+          "word": "bien sûr",
+          "gloss": "of course"
         }
       ]
     },
@@ -6760,277 +7031,6 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
-        }
-      ]
-    },
-    "surpris": {
-      "lemma": "surpris",
-      "stress": "syʁpʁi",
-      "pos": "adj",
-      "gloss": "surprised",
-      "meanings": [
-        {
-          "en": "surprised",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "surpris",
-              "surprise"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "surpris",
-              "surprises"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Elle est surprise.",
-          "trans": "She is surprised."
-        },
-        {
-          "text": "Je suis surpris de te voir.",
-          "trans": "I am surprised to see you."
-        }
-      ],
-      "related": []
-    },
-    "plaire": {
-      "lemma": "plaire",
-      "stress": "plɛʁ",
-      "pos": "verb",
-      "gloss": "to please",
-      "meanings": [
-        {
-          "en": "to please, to be liked by",
-          "note": "Ça me plaît = I like it."
-        },
-        {
-          "en": "s'il vous plaît / s'il te plaît = please",
-          "note": "Formal / informal."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je plais",
-              "nous plaisons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu plais",
-              "vous plaisez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle plaît",
-              "ils/elles plaisent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai plu",
-                "nous avons plu"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as plu",
-                "vous avez plu"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a plu",
-                "ils/elles ont plu"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je plaisais",
-                "nous plaisions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu plaisais",
-                "vous plaisiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle plaisait",
-                "ils/elles plaisaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je plairai",
-                "nous plairons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu plairas",
-                "vous plairez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle plaira",
-                "ils/elles plairont"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Un café, s'il vous plaît.",
-          "trans": "A coffee, please."
-        },
-        {
-          "text": "Paris me plaît beaucoup.",
-          "trans": "I like Paris a lot."
-        }
-      ],
-      "related": [
-        {
-          "word": "plaisanter",
-          "gloss": "to joke"
-        },
-        {
-          "word": "plaisir",
-          "gloss": "pleasure"
-        },
-        {
-          "word": "plaisanterie",
-          "gloss": "joke"
-        }
-      ]
-    },
-    "sûr": {
-      "lemma": "sûr",
-      "stress": "syʁ",
-      "pos": "adj",
-      "gloss": "sure",
-      "meanings": [
-        {
-          "en": "sure, certain",
-          "note": "Bien sûr = of course."
-        },
-        {
-          "en": "safe",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "sûr",
-              "sûre"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "sûrs",
-              "sûres"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu es sûr?",
-          "trans": "Are you sure?"
-        },
-        {
-          "text": "Bien sûr!",
-          "trans": "Of course!"
-        }
-      ],
-      "related": [
-        {
-          "word": "bien sûr",
-          "gloss": "of course"
         }
       ]
     }

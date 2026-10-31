@@ -4,25 +4,25 @@ Title: Je ne peux pas jouer comme ça!  (I Can't Act Like This!)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E05
-
+The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the bilingual working subtitles, whose French track is backtranslated; source video and separate original-audio checks verify roles, plot and register.
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | JoeyStarr | Oh non! Pardon! | Oh no! Sorry! | new | new |
-| 2 | JoeyStarr | Madame, je sais que notre amour est mille fois interdit. | Madam, I know that our love is forbidden a thousand times over. | #91 00:06:16: Madame, je sais que notre amour est mille fois interdit. | verbatim |
-| 3 | JoeyStarr | Ma raison me dit mille fois de partir. | My reason tells me a thousand times to leave. | #92 00:06:20: Ma raison me dit mille fois de | verbatim |
-| 4 | JoeyStarr | Mais mon cœur me dit de partir. Non, de rester! | But my heart tells me to leave. No, to stay! | #93 00:06:23: mais mon cœur me dit de<br>#94 00:06:26: Non, de rester ! | verbatim |
-| 5 | Julie | Je ne peux pas jouer comme ça! | I can't act like this! | #95 00:06:30: Je ne peux pas jouer comme ça ! | verbatim |
-| 6 | Samir | Bon, on arrête. | Okay, let's stop. | #96 00:06:31: Bon, on arrête. | verbatim |
-| 7 | JoeyStarr | Mais qu'est-ce qu'elle fait encore? | But what is she doing now? | #97 00:06:34: Mais qu'est-ce qu'elle<br>#97 00:06:34: encore ? | verbatim |
-| 8 | Samir | Elle est dans sa loge. Elle refuse de sortir. | She's in her dressing room. She refuses to come out. | #98 00:06:36: Elle refuse de sortir. | adapted: The crew report is folded into the director's role to retain three voices. |
-| 9 | JoeyStarr | Quoi? Poussez-vous! Ouvre la porte, Julie! | What? Out of the way! Open the door, Julie! | #98 00:06:36: Quoi ?<br>#99 00:06:39: Poussez-vous ! | verbatim |
-| 10 | Samir | Didier, arrête! Voilà les agents. | Didier, stop! Here are the agents. | #100 00:06:46: Didier ! | adapted: The brief crew warning is voiced by the director in the three-role lesson. |
-| 11 | JoeyStarr | Elle m'énerve! Elle vit encore au dix-huitième siècle! | She gets on my nerves! She still lives in the eighteenth century! | #101 00:06:50: Elle<br>#101 00:06:50: encore au<br>#101 00:06:50: siècle. | verbatim |
-| 12 | JoeyStarr | Elle est trop sérieuse! Elle a grandi dans un couvent! | She's too serious! She grew up in a convent! | #102 00:06:54: Elle est<br>#102 00:06:54: elle a grandi dans un couvent. | verbatim |
-| 13 | Julie | Il doit s'excuser d'abord! | He must apologise first! | #103 00:06:58: il | verbatim |
+| 2 | JoeyStarr | Madame, je sais que notre amour est mille fois interdit. | Madam, I know that our love is forbidden a thousand times over. | #91 00:06:16: Madame, je sais que notre amour est mille fois interdit. | adapted: Learner adaptation, not a verbatim French transcript. |
+| 3 | JoeyStarr | Ma raison me dit mille fois de partir. | My reason tells me a thousand times to leave. | #92 00:06:20: Ma raison me dit mille fois de | adapted: Learner adaptation, not a verbatim French transcript. |
+| 4 | JoeyStarr | Mais mon cœur me dit de partir. Non, de rester! | But my heart tells me to leave. No, to stay! | #93 00:06:23: mais mon cœur me dit de<br>#94 00:06:26: Non, de rester ! | adapted: Learner adaptation, not a verbatim French transcript. |
+| 5 | Julie | Je ne peux pas jouer comme ça! | I can't act like this! | #95 00:06:30: Je ne peux pas jouer comme ça ! | adapted: Learner adaptation, not a verbatim French transcript. |
+| 6 | Samir | Bon, on arrête. | Okay, let's stop. | #96 00:06:31: Bon, on arrête. | adapted: Learner adaptation, not a verbatim French transcript. |
+| 7 | JoeyStarr | Mais qu'est-ce qu'elle fait encore? | But what is she doing now? | #97 00:06:34: Mais qu'est-ce qu'elle<br>#97 00:06:34: encore ? | adapted: Learner adaptation, not a verbatim French transcript. |
+| 8 | Samir | Elle est dans sa loge. Elle refuse de sortir. | She's in her dressing room. She refuses to come out. | #98 00:06:36: Elle refuse de sortir. | adapted: The crew report is folded into the director's role to retain three voices. Learner adaptation, not a verbatim French transcript. |
+| 9 | JoeyStarr | Quoi? Poussez-vous! Ouvre la porte, Julie! | What? Out of the way! Open the door, Julie! | #98 00:06:36: Quoi ?<br>#99 00:06:39: Poussez-vous ! | adapted: Learner adaptation, not a verbatim French transcript. |
+| 10 | Samir | Didier, arrête! Voilà les agents. | Didier, stop! Here are the agents. | #100 00:06:46: Didier ! | adapted: The brief crew warning is voiced by the director in the three-role lesson. Learner adaptation, not a verbatim French transcript. |
+| 11 | JoeyStarr | Elle m'énerve! Elle vit encore au dix-huitième siècle! | She gets on my nerves! She still lives in the eighteenth century! | #101 00:06:50: Elle<br>#101 00:06:50: encore au<br>#101 00:06:50: siècle. | adapted: Learner adaptation, not a verbatim French transcript. |
+| 12 | JoeyStarr | Elle est trop sérieuse! Elle a grandi dans un couvent! | She's too serious! She grew up in a convent! | #102 00:06:54: Elle est<br>#102 00:06:54: elle a grandi dans un couvent. | adapted: Learner adaptation, not a verbatim French transcript. |
+| 13 | Julie | Il doit s'excuser d'abord! | He must apologise first! | #103 00:06:58: il | adapted: Learner adaptation, not a verbatim French transcript. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
