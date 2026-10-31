@@ -14,7 +14,7 @@ INTRO = ('On her way out of the agency, Andréa reassures Colette on the phone t
  "only stopping for a quick drink at the rehearsal studio to save the play before joining Colette's friends for "
  "dessert. Outside the studio, Andréa meets François and brings him into Christophe Bel's birthday party. Let's listen "
  "to the scene in French first; don't worry about catching every word.")
-OPENER = "Let's go through it slowly. As they arrive at the party, Andréa spots what François is holding."
+OPENER = "Let's listen again to the party conversation as François threatens to leave and Andréa reveals his secret."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = ('Now that Christophe knows the real reason François refused to get into the pool, he immediately runs after François '
  'to catch him before he leaves. See you next time!')
