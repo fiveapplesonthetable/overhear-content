@@ -156,6 +156,6 @@ WALK = [(0,
   'speech, just raise your voice at the end.'),
  (17,
   None,
-  "'Yes, it's perfect.' Perfect is masculine singular because the implicit subject is the arrangement or "
-  'wreath. The florist shows them the finished order, though their working relationship is anything but '
-  'perfect.')]
+  "'Yes, it's perfect.' This approves the finished arrangement as a whole. Perfect also works as a short "
+  "response when someone checks a plan or an order. The florist shows them the wreath, though the agents' "
+  'relationship is in trouble.')]
