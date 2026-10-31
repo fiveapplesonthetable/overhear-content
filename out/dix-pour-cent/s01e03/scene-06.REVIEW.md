@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'An invitation to the Cesars!' Camille reads the card she has just opened. The word before the awards combines 'to' and the plural word for 'the'. It names the event she is invited to.
 - 'I didn't get an invitation.' Here's our language point: the everyday past, a helper word plus a past form. With a negative, the two little 'not' words wrap around the helper word only. Noémie joins in.
 - 'Me neither.' Literally 'me not more'. It's the way to agree with a negative sentence. Then Noémie gets suspicious.
-- 'Assistants don't get invited.' The written words for 'assistants' and 'invited' both have feminine plural endings. Herve uses that form while including himself in the complaint.
+- 'Assistants don't get invited.' Both French words end with the letters used for a feminine plural. Herve uses that form while including himself in the complaint.
 - 'What's going on?' Literally 'it's what, this story?'. A very common, slightly suspicious question. Hervé wants details.
 - 'What's this invitation? Who's it from?' This second question ends on the question word, 'from who?', which is very relaxed and spoken. Camille is caught off guard.
 - 'Er, I don't know.' The first sound is French for 'um' or 'er'. Then an idea comes to her.
