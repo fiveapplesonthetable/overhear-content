@@ -120,3 +120,9 @@ class TasterContract(unittest.TestCase):
                 self.assertEqual(rep.errors, [])
                 rep = v.Report(); v.target_ok(lang, 'Translated English only.', 'native', rep)
                 self.assertTrue(any('native-script' in e for e in rep.errors))
+
+    def test_script_punctuation_and_extenders_are_not_native_letters(self):
+        for lang, text in [('ja', 'English only・'), ('ja', 'English onlyー'), ('ar', 'English onlyـ')]:
+            with self.subTest(lang=lang, text=text):
+                rep = v.Report(); v.target_ok(lang, text, 'native', rep)
+                self.assertTrue(any('native-script' in e for e in rep.errors))
