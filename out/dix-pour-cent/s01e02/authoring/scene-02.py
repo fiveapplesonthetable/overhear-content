@@ -4,20 +4,21 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 2
-TITLE = "Ne me tutoyez pas  (Don't Be So Familiar)"
+TITLE = "Évite de me tutoyer  (Don't Be So Familiar)"
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
 LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
-INTRO = ("Now it's morning in the agency's lobby. Camille, the new assistant, has been working for Andréa for ten "
- "days, and she is worn out. She moans to Hervé, Gabriel's chatty assistant, then takes the lift, and "
- "Mathias gets in too. Remember: Mathias is Camille's father, and nobody at the agency knows. We'll hear it "
- 'in French first; just follow the feeling of it.')
+INTRO = ('Camille and Hervé are walking to the agency. After ten days in her new job, Camille is exhausted by the '
+ 'late nights. Then she takes the lift with Mathias. He is her father, but their colleagues do not know it. '
+ "Listen for the difference between her friendly conversation with Hervé and her father's demand for "
+ 'distance at work.')
 OPENER = "Let's take it slowly. Camille and Hervé walk in together, and she starts complaining straight away."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ("You've just seen the casual and the polite 'you' used as a weapon, in a lift. Don't worry if it went fast; "
- 'the main lines will jump out at you when you watch. See you next time!')
+OUTRO = ('Mathias asks Camille to avoid the familiar you at work, yet he keeps using it himself. The verb for '
+ "addressing someone that way makes the demand explicit. Camille's reply reminds us why the professional "
+ 'distance hurts: she is his daughter. See you next time!')
 CLOSING = ('herve', 'À bientôt!')
 STORY = [('camille',
   "Je travaille tous les jours jusqu'à vingt-deux heures. C'est dingue.",
@@ -61,13 +62,21 @@ STORY = [('camille',
   "Bonjour. Qu'est-ce qui va se passer maintenant?",
   "Hello. What's going to happen now?",
   [(74, 'Bonjour'), (75, "Qu'est-ce qui va se passer maintenant")],
-  ''),
+  'Simplified question: the original also refers to your boss. The lesson omits that possessive, rather than '
+  'changing its register.'),
  ('mathias',
-  "Je ne sais pas. On attend l'avocat.",
-  "I don't know. We're waiting for the lawyer.",
-  [(75, 'Je ne sais pas'), (76, 'On attend'), (76, "l'avocat")],
-  ''),
- ('mathias', 'Ne me tutoyez pas.', "Don't be so familiar.", [(77, 'Ne me tutoyez pas')], ''),
+  'Je ne sais pas. On attend des nouvelles du notaire.',
+  "I don't know. We're waiting to hear from the notary.",
+  [(75, 'Je ne sais pas'), (76, 'On attend')],
+  'Original French audio says des nouvelles du notaire; the dual subtitles mistranslated this as waiting for '
+  'the lawyer. The following purpose clause is omitted in this short adaptation.'),
+ ('mathias',
+  'Évite de me tutoyer ici, tu veux bien?',
+  "Don't use the familiar you with me here, will you?",
+  [(77, 'Ne me tutoyez pas')],
+  'Wording restored from original French audio: Évite de me tutoyer ici, tu veux bien? The dual subtitles '
+  'had changed this into a formal negative imperative. Mathias continues using tu while demanding '
+  'professional distance.'),
  ('camille', 'On est seuls ici.', "We're alone here.", [(77, 'On est seuls ici')], ''),
  ('mathias', 'Camille!', 'Camille!', [(78, 'Camille !')], ''),
  ('camille',
@@ -126,17 +135,19 @@ WALK = [(0,
  (8, None, "'No way!' Literally 'out of the question'. Camille takes the lift, and Mathias steps in."),
  (9,
   "Qu'est-ce qui va se passer maintenant?",
-  "'What's going to happen now?' The opening what asks about the thing that will happen. There is no you in "
-  "this line: Camille is asking about the agency after Samuel's death."),
+  "'What's going to happen now?' The opening what asks about the thing that will happen. The verb for go "
+  "followed by happen points ahead, while now connects the question to Samuel's death and the future of the "
+  'agency.'),
  (10,
   None,
-  "'I don't know. We're waiting for the lawyer.' Waiting for takes its object directly in French: there is "
-  "no extra word corresponding to the English for. The lawyer will explain Samuel's last wishes."),
+  "'I don't know. We're waiting to hear from the notary.' The French wording says they are waiting for news "
+  'from the notary. News is plural here. From the combines into one short word before the notary, who deals '
+  "with Samuel's estate."),
  (11,
   None,
-  "'Don't be so familiar.' Literally 'don't call me the casual you'. French has a verb that means 'to say "
-  "the casual you to someone', and Mathias uses it in the negative, with the polite form himself. At work, "
-  'he wants her to keep her distance.'),
+  "'Don't use the familiar you with me here, will you?' The opening literally says avoid addressing me as "
+  'the familiar you. The ending will you makes it a request. Mathias demands professional distance, while '
+  'still using the familiar you himself.'),
  (12, None, "'We're alone here.' The word for 'alone' is plural, because there are two of them."),
  (13,
   None,

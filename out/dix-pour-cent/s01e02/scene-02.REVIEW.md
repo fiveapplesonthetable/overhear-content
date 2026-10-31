@@ -1,6 +1,6 @@
 # dix-pour-cent-s01e02-scene-02: review sheet
 
-Title: Ne me tutoyez pas  (Don't Be So Familiar)
+Title: Évite de me tutoyer  (Don't Be So Familiar)
 Level: A1 — débutant
 Pair: fr-en
 Source: Dix pour cent (Call My Agent!) S01E02
@@ -19,9 +19,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Camille | Et je ne vais pas rencontrer quelqu'un ici. | And I'm not going to meet anyone here. | #66 00:03:40: rencontrer quelqu'un ici | adapted: Restored a full subject and negative around the source phrase. |
 | 8 | Hervé | Je monte à pied. Tu viens? | I'm walking up. Are you coming? | #70 00:03:51: Je monte à pied. Tu viens ? | verbatim |
 | 9 | Camille | Hors de question! | No way! | #70 00:03:51: Hors de question | verbatim |
-| 10 | Camille | Bonjour. Qu'est-ce qui va se passer maintenant? | Hello. What's going to happen now? | #74 00:04:05: Bonjour<br>#75 00:04:14: Qu'est-ce qui va se passer maintenant | verbatim |
-| 11 | Mathias | Je ne sais pas. On attend l'avocat. | I don't know. We're waiting for the lawyer. | #75 00:04:14: Je ne sais pas<br>#76 00:04:18: On attend<br>#76 00:04:18: l'avocat | verbatim |
-| 12 | Mathias | Ne me tutoyez pas. | Don't be so familiar. | #77 00:04:22: Ne me tutoyez pas | verbatim |
+| 10 | Camille | Bonjour. Qu'est-ce qui va se passer maintenant? | Hello. What's going to happen now? | #74 00:04:05: Bonjour<br>#75 00:04:14: Qu'est-ce qui va se passer maintenant | adapted: Simplified question: the original also refers to your boss. The lesson omits that possessive, rather than changing its register. |
+| 11 | Mathias | Je ne sais pas. On attend des nouvelles du notaire. | I don't know. We're waiting to hear from the notary. | #75 00:04:14: Je ne sais pas<br>#76 00:04:18: On attend | adapted: Original French audio says des nouvelles du notaire; the dual subtitles mistranslated this as waiting for the lawyer. The following purpose clause is omitted in this short adaptation. |
+| 12 | Mathias | Évite de me tutoyer ici, tu veux bien? | Don't use the familiar you with me here, will you? | #77 00:04:22: Ne me tutoyez pas | adapted: Wording restored from original French audio: Évite de me tutoyer ici, tu veux bien? The dual subtitles had changed this into a formal negative imperative. Mathias continues using tu while demanding professional distance. |
 | 13 | Camille | On est seuls ici. | We're alone here. | #77 00:04:22: On est seuls ici | verbatim |
 | 14 | Mathias | Camille! | Camille! | #78 00:04:26: Camille ! | verbatim |
 | 15 | Camille | Est-ce que j'ai fait quelque chose de mal? | Have I done something wrong? | #79 00:04:27: Est-ce que j'ai fait quelque chose | adapted: The source continues with an explicit intensifier; the lesson uses neutral de mal. |
@@ -41,9 +41,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And I'm not going to meet anyone here.' The near future again, made negative: the two little negative words go around 'to go'.
 - 'I'm walking up. Are you coming?' Literally 'I go up on foot'. Hervé takes the stairs, and they use the casual 'you', like all the assistants.
 - 'No way!' Literally 'out of the question'. Camille takes the lift, and Mathias steps in.
-- 'What's going to happen now?' The opening what asks about the thing that will happen. There is no you in this line: Camille is asking about the agency after Samuel's death.
-- 'I don't know. We're waiting for the lawyer.' Waiting for takes its object directly in French: there is no extra word corresponding to the English for. The lawyer will explain Samuel's last wishes.
-- 'Don't be so familiar.' Literally 'don't call me the casual you'. French has a verb that means 'to say the casual you to someone', and Mathias uses it in the negative, with the polite form himself. At work, he wants her to keep her distance.
+- 'What's going to happen now?' The opening what asks about the thing that will happen. The verb for go followed by happen points ahead, while now connects the question to Samuel's death and the future of the agency.
+- 'I don't know. We're waiting to hear from the notary.' The French wording says they are waiting for news from the notary. News is plural here. From the combines into one short word before the notary, who deals with Samuel's estate.
+- 'Don't use the familiar you with me here, will you?' The opening literally says avoid addressing me as the familiar you. The ending will you makes it a request. Mathias demands professional distance, while still using the familiar you himself.
 - 'We're alone here.' The word for 'alone' is plural, because there are two of them.
 - 'Camille!' Just her name, used as a warning rather than a greeting. His sharp tone tells her to drop the subject; the French spelling gives the name a final sound like the y in yes.
 - 'Have I done something wrong?' The two opening words turn the statement into a yes-or-no question, without changing the order of the rest. Something is literally some thing, followed by wrong.
