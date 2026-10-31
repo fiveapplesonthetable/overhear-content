@@ -15,12 +15,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Gabriel | Merci, Andréa. | Thank you, Andréa. | new | new: Added brief acknowledgement in this condensed reconciliation. |
 | 4 | Gabriel | Moi aussi. | Me too. | #820 00:49:52: Moi aussi, je suis | adapted: Splits the original me too and apology at a natural phrase boundary. |
 | 5 | Gabriel | Je suis désolé. | I'm sorry. | #820 00:49:52: Moi aussi, je suis | adapted: The remainder of Gabriel’s apology. |
-| 6 | Gabriel | Je ne t'abandonnerai pas. | I won't abandon you. | #821 00:49:55: Je ne t'abandonnerai pas | verbatim |
-| 7 | Gabriel | Quand tu voudras un enfant… | When you want a child… | #821 00:49:55: un enfant<br>#822 00:50:00: Je t'emmènerai en Hollande | adapted: Opening time clause of Gabriel’s promise; the next line completes it. |
-| 8 | Gabriel | Je t'emmènerai en Hollande. | I'll take you to Holland. | #821 00:49:55: un enfant<br>#822 00:50:00: Je t'emmènerai en Hollande | adapted: The main promise following the time clause. |
+| 6 | Gabriel | Promis, je ne te laisserai pas toute seule. | I promise I won't leave you all alone. | #821 00:49:55: Je ne t'abandonnerai pas | adapted: Restores actual future laisserai rather than the backtranslated abandonnerai. The purpose follows in the next line. |
+| 7 | Gabriel | Pour avoir un enfant. | To have a child. | #821 00:49:55: un enfant<br>#822 00:50:00: Je t'emmènerai en Hollande | adapted: Short neutral purpose clause for the source pour faire ton petit bébé à quarante ans. Removes an invented when-plus-future clause. |
+| 8 | Gabriel | Je t'accompagnerai en Hollande. | I'll go with you to Holland. | #821 00:49:55: un enfant<br>#822 00:50:00: Je t'emmènerai en Hollande | adapted: Actual French audio says accompagnerai, accompany or go with, not the backtranslated emmènerai, take along. |
 | 9 | Andréa | Oh, Gabriel! Tu es bête! | Oh, Gabriel! You're silly! | new | new: Neutral affectionate response replacing the original stronger expression. |
-| 10 | Andréa | Sans toi… | Without you… | #824 00:50:04: Sans toi, je crois que j'arrêterais ce métier | adapted: Separates the condition from the main statement at a natural pause. |
-| 11 | Andréa | Je crois que j'arrêterais ce métier. | I think I'd quit this job. | #824 00:50:04: Sans toi, je crois que j'arrêterais ce métier | adapted: Main statement completing without you. |
+| 10 | Andréa | Si tu n'étais pas là… | If you weren't here… | #824 00:50:04: Sans toi, je crois que j'arrêterais ce métier | adapted: Restores original si tu n’étais pas là instead of backtranslated sans toi. |
+| 11 | Andréa | Je crois que j'aurais envie d'arrêter ce métier. | I think I'd feel like quitting this job. | #824 00:50:04: Sans toi, je crois que j'arrêterais ce métier | adapted: Restores actual conditional avoir envie; omits des fois and un petit peu. The dual subtitles had invented conditional arrêterais. |
 | 12 | Gabriel | Oui, Sue Ellen! | Yes, Sue Ellen! | #825 00:50:08: Oui, Sue Ellen | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -30,10 +30,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thank you, Andréa.' Thanks followed by a name makes a simple personal acknowledgement. Here it accepts her praise and helps move the conversation away from their argument.
 - 'Me too.' These two words let Gabriel say he feels the same. The opening me is the strong form used on its own; it is not the short me that attaches to an action.
 - 'I'm sorry.' Gabriel completes the thought from me too. His written sorry has no feminine ending, but it sounds exactly like Andréa's earlier apology.
-- 'I won't abandon you.' The ending puts abandon in the future. The short you comes before it and identifies the person he promises to support. He takes back his angry remark about finding someone else.
-- 'When you want a child…' French uses will want after when here, even though ordinary English says when you want. The sentence points to a possible later time and leads into his promise.
-- 'I'll take you to Holland.' Take means take a person along, rather than carry an object. You comes before take. The destination recalls their earlier conversation about a donor; Gabriel turns that memory into a joke about supporting her.
+- 'I promise I won't leave you all alone.' The opening promised works as a short commitment: I promise. Will leave puts the support in the future. All alone describes Andréa, so both words carry their feminine form.
+- 'To have a child.' To introduces the purpose of the promise before it. French uses the same short linking word as for when it introduces a purpose, followed by the action. He is promising she will not face it alone.
+- 'I'll go with you to Holland.' Go with means accompany someone, offering company and support. You attaches to the future action. The destination recalls their earlier conversation about a donor, and Gabriel turns it into a joke between friends.
 - 'Oh, Gabriel! You're silly!' Silly can sound affectionate when said with a smile. It has the same spoken and written ending when describing a man or a woman.
-- 'Without you…' Without introduces the person whose absence would change things. French uses the strong you after this word, the same form heard in and you or for you.
-- 'I think I'd quit this job.' The ending on quit makes this a hypothetical result of being without Gabriel. This job means the profession of being an agent, rather than one particular task.
+- 'If you weren't here…' If opens an imagined situation. Weren't describes his absence as hypothetical. Here refers to his presence in her life and work, rather than only his seat beside her.
+- 'I think I'd feel like quitting this job.' Feel like is built from have, desire and the action. The would ending is on have, while quit stays in its basic form after the linking word. She imagines how she would feel without Gabriel.
 - 'Yes, Sue Ellen!' Gabriel answers the confession by using a familiar television character's name as a teasing nickname. He keeps the moment light rather than making another grand declaration. Let's hear the conversation again.
