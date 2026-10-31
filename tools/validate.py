@@ -15,6 +15,14 @@ Checks: spec/*.md describes each rule; FEEDBACK.md "P-1" describes the cast, nar
 import hashlib, json, re, sys, unicodedata
 from pathlib import Path
 
+import importlib.util
+
+_word_span_spec = importlib.util.spec_from_file_location("overhear_word_spans", Path(__file__).with_name("word_spans.py"))
+_word_spans = importlib.util.module_from_spec(_word_span_spec)
+_word_span_spec.loader.exec_module(_word_spans)
+annotation_spans = _word_spans.annotation_spans
+source_audio_metadata = _word_spans.source_audio_metadata
+
 SCHEMA_DIR = Path(__file__).resolve().parents[1] / "spec" / "schema"
 SCHEMA_FILES = {"scenes": "scenes.schema.json", "script": "script.schema.json", "notes": "notes.schema.json", "cast": "cast.schema.json", "learn": "learn-article.schema.json", "origins": "word-origins.schema.json", "dictionary": "dictionary.schema.json"}
 LENIENT_VERSION = [False]   # --script mode: examples/ predate the schema (and cannot be edited), so schema errors only warn
@@ -215,7 +223,7 @@ def target_ok(lang, text, where, rep):
             rep.err(where, f"{name} line has no native-script letters: {text[:50]!r}")
 
 
-def check_script(path, lang, rep, expect_id=None, cast=None):
+def check_script(path, lang, rep, expect_id=None, cast=None, excerpt=False):
     """cast = {role key: cast.json entry} of the show, or None (--script mode: no cast checks)."""
     w = str(path)
     try: d = json.loads(Path(path).read_text(encoding="utf-8"))
@@ -227,6 +235,9 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
     if expect_id and d.get("id") != expect_id: rep.err(w, f"id should be {expect_id!r}, is {d.get('id')!r}")
     if d.get("pair") != PAIR[lang]: rep.err(w, f"pair should be {PAIR[lang]!r}")
     segs = d["segments"]
+    taster = excerpt and d.get("format") == "taster"
+    if d.get("format") == "taster" and not excerpt:
+        rep.err(w, "taster format requires an explicit source-bound excerpt in scenes.json")
     if not isinstance(segs, list) or not all(isinstance(s, dict) and isinstance(s.get("v"), str) for s in segs):
         return rep.err(w, "segments must be a list of {v, t, gap}")
     roles = sorted({s["v"] for s in segs if s["v"] != "narrator"})
@@ -236,13 +247,17 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
     for r in roles:
         if r not in labels and not (cast is None and r in SLOT_KEYS):       # (--script mode: examples/ predate cast.json and labels)
             rep.err(w, f"labels missing display name for role {r!r}")
-    if len(segs) < 20: return rep.err(w, "segments missing or too short (a scene has ~60-80)")
+    if len(segs) < (7 if taster else 20): return rep.err(w, "segments missing or too short (full lessons need at least20; explicit tasters at least7)")
     for i, s in enumerate(segs):
         sw = f"{w} segment {i}"
         if not isinstance(s, dict) or not {"v", "t", "gap"} <= set(s): rep.err(sw, "needs v, t, gap"); continue
         if not isinstance(s["t"], str) or not s["t"].strip(): rep.err(sw, "empty text"); continue
         if not isinstance(s["gap"], (int, float)) or not 0 <= s["gap"] <= 3: rep.err(sw, "gap must be 0..3 seconds")
         if ACUTE in s["t"]: rep.err(sw, "stress mark in text (stress belongs only in stress fields)")
+        if "sourceAudio" in s:
+            try: source_audio_metadata(s["sourceAudio"])
+            except ValueError as exc: rep.err(sw, str(exc))
+            if s["v"] == "narrator": rep.err(sw, "sourceAudio is for original native speech, not the English narrator")
         if s["v"] == "narrator":
             if any(x in s["t"] for x in PLACEHOLDER_SUMMARY): rep.err(sw, f"placeholder text leaked into the narration: {s['t'][:60]!r}")
             if CYR.search(s["t"]): rep.err(sw, f"narrator must be English only: {s['t'][:50]!r}")
@@ -253,7 +268,7 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
         else:
             target_ok(lang, s["t"], sw, rep)
     if segs[0]["v"] != "narrator": rep.err(w, "first segment must be the narrator intro")
-    if segs[-1]["v"] == "narrator": rep.err(w, "last segment must be one short target-language line")
+    if segs[-1]["v"] == "narrator" and not taster: rep.err(w, "last segment must be one short target-language line")
     # 5-part shape: intro, story, walk-through, story again, outro + closing line
     first = next((i for i, s in enumerate(segs) if s["v"] != "narrator"), None)
     if first is not None:
@@ -264,8 +279,17 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
         k = len(segs) - 1
         while k > 0 and segs[k]["v"] != "narrator": k -= 1       # closing line sits after the outro
         tail = [s["t"] for s in segs[:k] if s["v"] != "narrator"][-len(story):]
-        if tail != story: rep.warn(w, "the whole story is not repeated unchanged before the outro (part 4)")
-        if not FAREWELL[lang].search(segs[-1]["t"]) or len(segs[-1]["t"].split()) > 6:
+        if taster:
+            recap_start = k
+            while recap_start > j and segs[recap_start - 1]["v"] != "narrator": recap_start -= 1
+            expected = [(seg["v"], seg["t"]) for seg in segs[first:j]]
+            recap = [(seg["v"], seg["t"]) for seg in segs[recap_start:k]]
+            if recap_start <= j or recap != expected or not any(seg["v"] != "narrator" for seg in segs[j:recap_start]):
+                rep.err(w, "the whole story is not repeated unchanged in a separate contiguous recap before the outro (part 4)")
+        elif tail != story:
+            rep.warn(w, "the whole story is not repeated unchanged before the outro (part 4)")
+        source_closing = taster and (segs[-1]["v"] == "narrator" or segs[-1]["t"] in story)
+        if not source_closing and (not FAREWELL[lang].search(segs[-1]["t"]) or len(segs[-1]["t"].split()) > 6):
             rep.err(w, f"last segment must be a short farewell (Пока! / До свидания! / À bientôt!), not a story line: {segs[-1]['t'][:50]!r}")
         if sum(1 for s in segs[j:k] if s["v"] == "narrator") < 3: rep.warn(w, "walk-through (part 3) looks missing")
     check_narration(w, d, cast, rep, getattr(cast, "other", frozenset()))
@@ -608,7 +632,7 @@ def table_ok(t, where, rep):
 
 def no_acute_outside_stress(o, where, rep, key=""):
     if isinstance(o, str):
-        if ACUTE in o and key != "stress": rep.err(where, f"U+0301 outside a stress field (key {key!r})")
+        if ACUTE in o and key not in ("stress", "reading"): rep.err(where, f"U+0301 outside a stress field (key {key!r})")
     elif isinstance(o, dict):
         for k, v in o.items(): no_acute_outside_stress(v, where, rep, k)
     elif isinstance(o, list):
@@ -619,10 +643,12 @@ def check_stress(lang, word, st, where, rep):
     if st is None: return
     if lang == "ru":
         if st.replace(ACUTE, "") != word: rep.err(where, f"stress {st!r} must be the word {word!r} plus U+0301")
+    elif lang in ("ja", "zh", "ko", "ar"):
+        rep.err(where, f"{lang} stress must be null; reviewed alignment readings belong in words[].reading, not a guessed stress/pitch field")
     else:
         if re.search(r"[\s/\[\]]", st) or re.search(r"[A-Z]", st) or ACUTE in st: rep.err(where, f"{lang} stress must be bare IPA: {st!r}")
-        if re.search(r"[éèêàùçôîï]" if lang == "fr" else r"[áéíóúñü]", st):
-            rep.err(where, f"{lang} stress holds spelling letters, not IPA: {st!r}")
+        spelling = r"[éèêàùçôîï]" if lang == "fr" else r"[áéíóúñü]" if lang == "es" else r"[àèéìòù]" if lang == "it" else r"[äöüß]"
+        if re.search(spelling, st): rep.err(where, f"{lang} stress holds spelling letters, not IPA: {st!r}")
 
 
 def check_notes(path, script, lang, require, rep):
@@ -642,23 +668,31 @@ def check_notes(path, script, lang, require, rep):
         text = segs[i]["t"]
         if not str(e.get("trans", "")).strip() and segs[i]["v"] != "narrator": rep.err(lw, "missing trans (English translation)")
         pos = 0
+        try:
+            authored_spans = annotation_spans(text, e.get("words", []), required=lang in ("ja", "zh") and segs[i]["v"] != "narrator")
+        except ValueError as exc:
+            rep.err(lw, str(exc))
+            authored_spans = None
         toks = [x for x in text.split() if re.search(r"\w", x)]       # bare dashes ("—") need no entry
-        if segs[i]["v"] != "narrator" and [wd.get("t") for wd in e.get("words", [])] != toks:
+        if authored_spans is None and segs[i]["v"] != "narrator" and [wd.get("t") for wd in e.get("words", [])] != toks:
             rep.err(lw, f"words must be the line's whitespace-separated tokens, one entry each, none merged or split ({len(toks)} in text, {len(e.get('words', []))} annotated): {text[:40]!r}")
-        for wd in e.get("words", []):
+        for wi, wd in enumerate(e.get("words", [])):
             t = wd.get("t", "")
-            at = text.find(t, pos)
+            at = authored_spans[wi][0] if authored_spans is not None else text.find(t, pos)
             if not t or at < 0: rep.err(lw, f"word {t!r} not found in order in the line"); continue
             pos = at + len(t)
+            if lang in ("ja", "zh") and segs[i]["v"] != "narrator" and not str(wd.get("reading", "")).strip():
+                rep.err(lw, f"word {t!r} needs a reviewed spoken reading (kana for Japanese, contextual pinyin for Mandarin)")
             for f in ("lemma", "pos", "gloss"):
                 if wd.get(f) in (None, ""): rep.err(lw, f"word {t!r} missing {f}")
             if wd.get("pos") and wd["pos"] not in POS: rep.err(lw, f"word {t!r}: pos {wd['pos']!r} not in {sorted(POS)}")
             if wd.get("lemma") and wd["lemma"].lower() not in lex and wd.get("pos") != "name":
                 rep.err(lw, f"lemma {wd['lemma']!r} has no entry in lexicon")
             if wd.get("pos") != "name" and not wd.get("stress") and (
-                    lang in ("fr", "es") or (len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
+                    lang in ("fr", "es") or (lang == "ru" and len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
                 rep.err(lw, f"word {t!r} needs a stress value ({'IPA' if lang in ('fr', 'es') else 'U+0301 mark; null only for one-vowel words or ё'})")
             if lang == "es": check_stress(lang, t, wd.get("stress"), lw, rep)
+            if lang in ("ja", "zh", "ko", "ar"): check_stress(lang, t, wd.get("stress"), lw, rep)
             if lang == "ru" and wd.get("stress") and len(re.findall("[аеёиоуыэюя]", wd["stress"].lower())) > 1 and ACUTE not in wd["stress"] and "ё" not in wd["stress"]:
                 rep.err(lw, f"stress {wd['stress']!r} lacks the U+0301 mark")
     for lemma, L in lex.items():
@@ -667,6 +701,8 @@ def check_notes(path, script, lang, require, rep):
             if not L.get(f): rep.err(lw, f"missing {f}")
         if L.get("lemma") != lemma: rep.err(lw, "key must equal lemma")
         check_stress(lang, lemma, L.get("stress"), lw, rep)
+        if lang in ("fr", "es") and L.get("pos") != "name" and not L.get("stress"):
+            rep.err(lw, f"{lang} ordinary lexicon entries require reviewed IPA; only pos:name may omit it")
         if lemma != lemma.lower() and L.get("pos") != "name": rep.err(lw, "lexicon key/lemma must be lowercase")
         if lang == "ru" and L.get("stress") and len(re.findall("[аеёиоуыэюя]", lemma)) > 1 and "ё" not in lemma and ACUTE not in L["stress"]:
             rep.err(lw, f"stress {L['stress']!r} lacks the U+0301 mark")
@@ -786,7 +822,7 @@ def check_scenes(epdir, show, rep):
             sp = epdir / f"scene-{n}.json"
             if not sp.is_file(): rep.err(sw, f"missing scene-{n}.json")
             else:
-                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast)
+                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast, excerpt=excerpt_bounds is not None)
                 if d is not None:
                     # A transition explicitly folded into this lesson contributes its
                     # own source range (spec/scenes-format.md), without changing the
