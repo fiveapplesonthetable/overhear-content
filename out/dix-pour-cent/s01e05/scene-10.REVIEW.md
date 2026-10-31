@@ -41,7 +41,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Of course. Interflora, please.' The first expression means of course. The following request gives the name of the flower service she wants to reach.
 - 'Is it true that they're going to kill off Ryan?' The question opens with is it true that. The plural form of go announces what the producers intend to do to the fictional character.
 - 'That's not possible!' Possible has the same written form for masculine or feminine things. The negative expression rejects the news as unbelievable.
-- 'My mother is going to be very sad.' The possessive my follows the feminine word for mother. The form of go before be presents her sadness as an expected consequence.
+- 'My mother is going to be very sad.' The possessive my takes a feminine form with the word for mother. The form of go before be presents her sadness as an expected consequence.
 - 'She watches the series every day!' The phrase for every day literally says all the days. French uses the plural even though English naturally uses a singular day.
 - 'If I tell her that, she's going to organise protests!' The word for to her stands before tell. The if part describes the possible trigger, and the next part says what the mother is expected to do.
 - 'My mother is going to be very surprised in her salon!' The description surprised is feminine for her mother. In the lesson's simplified version, the salon is where the news will spread among fans.
