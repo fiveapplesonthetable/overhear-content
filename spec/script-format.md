@@ -65,9 +65,9 @@ Machine-readable: `spec/schema/script.schema.json`, enforced by `tools/validate.
   explains. Explanations follow the P-1 rules in FEEDBACK.md (no templates, no grammar-label endings).
 - Narration never contains placeholder text (`The characters discuss their situation`, `ENG `).
 
-## Original native source audio
+## Private original native source-audio proof
 
-A native segment may specify:
+A private verification script may specify (a public teaching script must omit it):
 
 ```json
 "sourceAudio": {
@@ -87,4 +87,8 @@ actual bounds before extracting speech. Replays reuse the identical hash and
 window. The segment text must be a reviewed transcript of that exact speech;
 source reuse cannot justify invented or changed dialogue. English narrator
 segments continue to use their configured narrator voice. Public transcript
-content omits `sourceAudio` entirely.
+content omits `sourceAudio` entirely. Original show clips, including extracted
+speech embedded in a teaching MP3, remain private. The publisher rejects scripts
+or rendered provenance using original source audio; final public native dialogue
+must be synthesized and independently checked. Original clips may guide private
+verification and authorized voice conditioning only.

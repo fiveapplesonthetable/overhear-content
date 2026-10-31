@@ -694,6 +694,8 @@ def check_notes(path, script, lang, require, rep):
             if not L.get(f): rep.err(lw, f"missing {f}")
         if L.get("lemma") != lemma: rep.err(lw, "key must equal lemma")
         check_stress(lang, lemma, L.get("stress"), lw, rep)
+        if lang in ("fr", "es") and L.get("pos") != "name" and not L.get("stress"):
+            rep.err(lw, f"{lang} ordinary lexicon entries require reviewed IPA; only pos:name may omit it")
         if lemma != lemma.lower() and L.get("pos") != "name": rep.err(lw, "lexicon key/lemma must be lowercase")
         if lang == "ru" and L.get("stress") and len(re.findall("[аеёиоуыэюя]", lemma)) > 1 and "ё" not in lemma and ACUTE not in L["stress"]:
             rep.err(lw, f"stress {L['stress']!r} lacks the U+0301 mark")
