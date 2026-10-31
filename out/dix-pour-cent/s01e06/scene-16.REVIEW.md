@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Sofia | Mais tu es venu me proposer un rôle de hip-hop! | But you came to offer me a hip-hop role! | #457 00:27:53: Mais tu es venu me proposer un rôle de hip-hop | verbatim |
 | 11 | Sofia | Parce que je suis noire, je sais danser le hip-hop? | Because I'm black, I know how to dance hip-hop? | #458 00:27:56: Parce que je suis noire<br>#458 00:27:56: je sais danser le hip-hop | verbatim |
 | 12 | Gabriel | Pardon? Tu dépasses les bornes! | Excuse me? You're crossing the line! | #459 00:27:59: Pardon<br>#460 00:28:01: Tu dépasses les bornes | verbatim |
-| 13 | Gabriel | Et ça n'explique pas pourquoi tu as frappé son assistante! | And that doesn't explain why you hit her assistant! | #461 00:28:02: Et ça n'explique pas pourquoi tu as frappé son assistante | verbatim |
+| 13 | Gabriel | Et ça n'explique pas pourquoi tu as frappé son assistant! | And that doesn't explain why you hit her assistant! | #461 00:28:02: Et ça n'explique pas pourquoi tu as frappé son assistante | adapted: The private video shows a male assistant; the subtitle’s feminine ending is corrected. |
 | 14 | Gabriel | Il y a des règles! L'agence a une réputation! Moi aussi! | There are rules! The agency has a reputation! So do I! | #462 00:28:05: Il y a des règles<br>#463 00:28:07: L'agence a une réputation<br>#463 00:28:07: Moi aussi | verbatim |
 | 15 | Sofia | Tu m'appelles une sauvage? | Are you calling me a savage? | #466 00:28:13: Tu m'appelles une sauvage | verbatim |
 | 16 | Sofia | Pourquoi on me propose seulement ces rôles pleins de clichés? | Why am I only offered these roles full of clichés? | #467 00:28:15: Donc je suis soit une esclave, soit une danseuse de hip-hop, soit une sauvage | verbatim |
@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But you came to offer me a hip-hop role!' The completed arrival word describes Gabriel, so it is masculine. The object before 'offer' means 'me': Sofia challenges the role he brought her.
 - 'Because I'm black, I know how to dance hip-hop?' The opening means 'because'. Sofia uses a statement-shaped question to challenge the assumption that being Black implies she can dance hip-hop.
 - 'Excuse me? You're crossing the line!' The first word asks him to repeat or justify himself. The next expression literally means exceeding the boundaries: crossing a line.
-- 'And that doesn't explain why you hit her assistant!' The completed action means 'hit'. The possessive before assistant belongs to the casting director, and the feminine ending identifies a woman.
+- 'And that doesn't explain why you hit her assistant!' The completed action means 'hit'. The possessive before assistant refers to the casting director; her male assistant was struck during Sofia's performance.
 - 'There are rules! The agency has a reputation! So do I!' The opening three words mean 'there are'. The later 'has' is an ordinary possession word: the agency has a reputation, and Gabriel says he does too.
 - 'Are you calling me a savage?' The little object attached to 'call' means 'me'. Sofia asks whether he is labelling her a savage, directly challenging his characterization.
 - 'Why am I only offered these roles full of clichés?' The first word asks 'why'. The small object before 'offer' means 'to me'; 'only' restricts the offers to roles filled with clichés.

@@ -10,23 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Gabriel | Ne t'inquiète pas, sois naturelle. | Don't worry, be natural. | #424 00:26:02: On y va | verbatim |
-| 2 | Constance | Sofia, on y va? | Sofia, shall we go? | #423 00:26:00: Sofia<br>#424 00:26:02: On y va | verbatim |
-| 3 | Sofia | Oui, je suis prête. | Yes, I am ready. | #425 00:26:04: Désolée, oui | verbatim |
-| 4 | Sofia | Je m'appelle Sofia Leprince, j'ai 25 ans. | My name is Sofia Leprince, I am twenty-five years old. | #426 00:26:06: Je m'appelle Sofia Leprince, j'ai 25 ans | verbatim |
-| 5 | Sofia | Et mon agent est Gabriel Sarda chez ASK. | And my agent is Gabriel Sarda at ASK. | #427 00:26:09: et mon agent est Gabriel Sarda chez ASK | verbatim |
-| 6 | Constance | Parfait! On commence tout de suite. | Perfect! We start right away. | #428 00:26:11: Parfait<br>#428 00:26:11: On commence | verbatim |
-| 7 | Constance | D'abord la chorégraphie, ensuite votre scène, d'accord? | First the choreography, then your scene, okay? | #429 00:26:15: D'abord la chorégraphie, ensuite votre scène, d'accord | verbatim |
-| 8 | Sofia | D'accord, quand vous voulez. | Okay, whenever you want. | #430 00:26:18: D'accord<br>#431 00:26:25: Quand vous voulez | verbatim |
-| 9 | Sofia | Ils veulent se battre avec moi? | They want to fight with me? | #433 00:26:39: Ils veulent se frotter à moi | verbatim |
-| 10 | Sofia | Je cours plus vite qu'eux! | I run faster than them! | #434 00:26:41: Je cours plus vite qu'eux | verbatim |
-| 11 | Sofia | Maintenant je suis là, maintenant je ne suis plus là! | Now I am here, now I am no longer here! | #435 00:26:44: Maintenant je suis là, maintenant je suis plus là | verbatim |
-| 12 | Sofia | Vous me voyez atterrir comme une héroïne? | Do you see me landing like a heroine? | #436 00:26:47: Vous me voyez<br>#436 00:26:47: atterrir comme | verbatim |
-| 13 | Constance | Ce n'est pas du tout ce que j'avais demandé. | This is not at all what I had asked for. | #413 00:25:24: pas | verbatim |
+| 1 | Constance | Sofia, on y va? | Sofia, shall we go? | #423 00:26:00: Sofia<br>#424 00:26:02: On y va | verbatim |
+| 2 | Sofia | Oui, je suis prête. | Yes, I am ready. | #425 00:26:04: Désolée, oui | verbatim |
+| 3 | Sofia | Je m'appelle Sofia Leprince, j'ai 25 ans. | My name is Sofia Leprince, I am twenty-five years old. | #426 00:26:06: Je m'appelle Sofia Leprince, j'ai 25 ans | verbatim |
+| 4 | Sofia | Et mon agent est Gabriel Sarda chez ASK. | And my agent is Gabriel Sarda at ASK. | #427 00:26:09: et mon agent est Gabriel Sarda chez ASK | verbatim |
+| 5 | Constance | Parfait! On commence tout de suite. | Perfect! We start right away. | #428 00:26:11: Parfait<br>#428 00:26:11: On commence | verbatim |
+| 6 | Constance | D'abord la chorégraphie, ensuite votre scène, d'accord? | First the choreography, then your scene, okay? | #429 00:26:15: D'abord la chorégraphie, ensuite votre scène, d'accord | verbatim |
+| 7 | Sofia | D'accord, quand vous voulez. | Okay, whenever you want. | #430 00:26:18: D'accord<br>#431 00:26:25: Quand vous voulez | verbatim |
+| 8 | Sofia | Ils veulent se battre avec moi? | They want to fight with me? | #433 00:26:39: Ils veulent se frotter à moi | verbatim |
+| 9 | Sofia | Je cours plus vite qu'eux! | I run faster than them! | #434 00:26:41: Je cours plus vite qu'eux | verbatim |
+| 10 | Sofia | Maintenant je suis là, maintenant je ne suis plus là! | Now I am here, now I am no longer here! | #435 00:26:44: Maintenant je suis là, maintenant je suis plus là | verbatim |
+| 11 | Sofia | Vous me voyez atterrir comme une héroïne? | Do you see me landing like a heroine? | #436 00:26:47: Vous me voyez<br>#436 00:26:47: atterrir comme | verbatim |
+| 12 | Constance | Ce n'est pas du tout ce que j'avais demandé. | This is not at all what I had asked for. | #438 00:26:54: pas du tout ce que j'avais demandé | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Don't worry, be natural.' The first instruction says not to worry. The second commands 'be natural'; its feminine ending matches Sofia, the person being coached.
 - 'Sofia, shall we go?' The two short words after 'we' express going there or getting started. With rising intonation, this becomes 'shall we begin?'.
 - 'Yes, I am ready.' The last word means ready. Its feminine written ending matches Sofia, who is saying she is ready to begin the audition.
 - 'My name is Sofia Leprince, I am twenty-five years old.' The first action literally says 'I call myself', the everyday way to give a name. Age then uses 'have', followed by a number of years.
