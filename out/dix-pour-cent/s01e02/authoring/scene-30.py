@@ -16,8 +16,9 @@ INTRO = ("The two actresses' casting problem has been solved, but Andréa and Ga
  'first to their reconciliation.')
 OPENER = "Let's go back through it. Andréa opens with an apology about yesterday."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ("And just like that, the two friends are back together. When you watch, listen for 'me too' and the future "
- "tense of 'to take': you'll hear them clearly now. See you next time!")
+OUTRO = ('Andréa and Gabriel have found their way back to friendship. The promise to go with her makes his support '
+ 'concrete, and her hypothetical confession shows what he means to her. Listen again for the words that '
+ 'soften this conversation after their argument. See you next time!')
 CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [('andrea',
   'Gabriel? Désolée pour hier.',
@@ -44,32 +45,40 @@ STORY = [('andrea',
   "I'm sorry.",
   [(820, 'Moi aussi, je suis')],
   'The remainder of Gabriel’s apology.'),
- ('gabriel', "Je ne t'abandonnerai pas.", "I won't abandon you.", [(821, "Je ne t'abandonnerai pas")], ''),
  ('gabriel',
-  'Quand tu voudras un enfant…',
-  'When you want a child…',
-  [(821, 'un enfant'), (822, "Je t'emmènerai en Hollande")],
-  'Opening time clause of Gabriel’s promise; the next line completes it.'),
+  'Promis, je ne te laisserai pas toute seule.',
+  "I promise I won't leave you all alone.",
+  [(821, "Je ne t'abandonnerai pas")],
+  'Restores actual future laisserai rather than the backtranslated abandonnerai. The purpose follows in the '
+  'next line.'),
  ('gabriel',
-  "Je t'emmènerai en Hollande.",
-  "I'll take you to Holland.",
+  'Pour avoir un enfant.',
+  'To have a child.',
   [(821, 'un enfant'), (822, "Je t'emmènerai en Hollande")],
-  'The main promise following the time clause.'),
+  'Short neutral purpose clause for the source pour faire ton petit bébé à quarante ans. Removes an invented '
+  'when-plus-future clause.'),
+ ('gabriel',
+  "Je t'accompagnerai en Hollande.",
+  "I'll go with you to Holland.",
+  [(821, 'un enfant'), (822, "Je t'emmènerai en Hollande")],
+  'Actual French audio says accompagnerai, accompany or go with, not the backtranslated emmènerai, take '
+  'along.'),
  ('andrea',
   'Oh, Gabriel! Tu es bête!',
   "Oh, Gabriel! You're silly!",
   [],
   'Neutral affectionate response replacing the original stronger expression.'),
  ('andrea',
-  'Sans toi…',
-  'Without you…',
+  "Si tu n'étais pas là…",
+  "If you weren't here…",
   [(824, "Sans toi, je crois que j'arrêterais ce métier")],
-  'Separates the condition from the main statement at a natural pause.'),
+  'Restores original si tu n’étais pas là instead of backtranslated sans toi.'),
  ('andrea',
-  "Je crois que j'arrêterais ce métier.",
-  "I think I'd quit this job.",
+  "Je crois que j'aurais envie d'arrêter ce métier.",
+  "I think I'd feel like quitting this job.",
   [(824, "Sans toi, je crois que j'arrêterais ce métier")],
-  'Main statement completing without you.'),
+  'Restores actual conditional avoir envie; omits des fois and un petit peu. The dual subtitles had invented '
+  'conditional arrêterais.'),
  ('gabriel', 'Oui, Sue Ellen!', 'Yes, Sue Ellen!', [(825, 'Oui, Sue Ellen')], '')]
 WALK = [(0,
   None,
@@ -93,29 +102,32 @@ WALK = [(0,
   "sounds exactly like Andréa's earlier apology."),
  (5,
   None,
-  "'I won't abandon you.' The ending puts abandon in the future. The short you comes before it and "
-  'identifies the person he promises to support. He takes back his angry remark about finding someone else.'),
+  "'I promise I won't leave you all alone.' The opening promised works as a short commitment: I promise. "
+  'Will leave puts the support in the future. All alone describes Andréa, so both words carry their feminine '
+  'form.'),
  (6,
   None,
-  "'When you want a child…' French uses will want after when here, even though ordinary English says when "
-  'you want. The sentence points to a possible later time and leads into his promise.'),
+  "'To have a child.' To introduces the purpose of the promise before it. French uses the same short linking "
+  'word as for when it introduces a purpose, followed by the action. He is promising she will not face it '
+  'alone.'),
  (7,
   None,
-  "'I'll take you to Holland.' Take means take a person along, rather than carry an object. You comes before "
-  'take. The destination recalls their earlier conversation about a donor; Gabriel turns that memory into a '
-  'joke about supporting her.'),
+  "'I'll go with you to Holland.' Go with means accompany someone, offering company and support. You "
+  'attaches to the future action. The destination recalls their earlier conversation about a donor, and '
+  'Gabriel turns it into a joke between friends.'),
  (8,
   None,
   "'Oh, Gabriel! You're silly!' Silly can sound affectionate when said with a smile. It has the same spoken "
   'and written ending when describing a man or a woman.'),
  (9,
   None,
-  "'Without you…' Without introduces the person whose absence would change things. French uses the strong "
-  'you after this word, the same form heard in and you or for you.'),
+  "'If you weren't here…' If opens an imagined situation. Weren't describes his absence as hypothetical. "
+  'Here refers to his presence in her life and work, rather than only his seat beside her.'),
  (10,
   None,
-  "'I think I'd quit this job.' The ending on quit makes this a hypothetical result of being without "
-  'Gabriel. This job means the profession of being an agent, rather than one particular task.'),
+  "'I think I'd feel like quitting this job.' Feel like is built from have, desire and the action. The would "
+  'ending is on have, while quit stays in its basic form after the linking word. She imagines how she would '
+  'feel without Gabriel.'),
  (11,
   None,
   "'Yes, Sue Ellen!' Gabriel answers the confession by using a familiar television character's name as a "
