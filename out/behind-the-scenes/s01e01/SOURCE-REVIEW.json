@@ -93,12 +93,12 @@
     },
     {
       "cue": 10,
-      "role": "qin_xiao",
+      "role": null,
       "native": "方老师。",
       "english": "Professor Fang.",
       "start": 317.4,
       "end": 318.3,
-      "review": "The brief offscreen student greeting is represented by Qin Xiao; this condensed greeting is not a claim of exact source diarization."
+      "review": "Caption and words identified; individual speaker not corroborated. Omitted from learner dialogue."
     },
     {
       "cue": 11,
@@ -164,5 +164,26 @@
       "review": "Qin Xiao visibly replies in the source."
     }
   ],
-  "publicationStatus": "authoring; independent native audio/render/span/device QA pending"
+  "publicationStatus": "editorially reviewed after bounded peer fixes; native generated speech, timing, serving and device QA pending",
+  "omissions": [
+    {
+      "cue": 10,
+      "native": "方老师。",
+      "start": 317.4,
+      "end": 318.3,
+      "reason": "The brief offscreen greeting’s individual speaker is unverified. Omitted from native learner dialogue/replays instead of assigning a guessed speaker. The source transcript and time coverage remain intact."
+    }
+  ],
+  "properNameHeads": {
+    "方": [
+      "方"
+    ],
+    "布小谷": [
+      "布小谷",
+      "小谷"
+    ],
+    "秦箫": [
+      "秦箫"
+    ]
+  }
 }
