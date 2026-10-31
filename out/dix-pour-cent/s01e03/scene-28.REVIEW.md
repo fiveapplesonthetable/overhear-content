@@ -39,9 +39,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Goodbye, Ms Martel.' Very correct, with the title and the surname.
 - 'Yes, goodbye.' The farewell ends Andrea's embarrassed exchange with Colette. Later, outside the agency, Gabriel notices that Andrea is unsettled.
 - 'Are you stressed about the audit?' Gabriel uses the familiar form of 'you' with his colleague Andrea. That differs from the polite form she used with the inspector inside.
-- 'You don't like losing control.' The familiar word for 'you' comes before the negative. The basic action 'lose' follows 'like', without the English ending in 'ing'.
+- 'You don't like losing control.' The familiar word for 'you' comes before the negative. The second French verb stays in its infinitive form after the verb expressing a preference; English expresses the same idea as losing control.
 - 'You're a woman who likes power, Andrea!' Literally 'a woman of power'. Gabriel suggests that her discomfort comes from facing something she cannot control.
-- 'Shall we go and eat?' The everyday word for 'we' comes before 'go' and then the plain action 'eat'. Gabriel offers to continue the evening over a meal.
+- 'Shall we go and eat?' The informal group pronoun is followed by the present form of the verb for going, then the infinitive for eating. Gabriel offers to continue the evening over a meal.
 - 'No, I'm going home.' French says 'I return to my place'. The final words locate the return at the speaker's home. Andrea declines the invitation.
 - 'Thanks anyway.' The last two words mean 'all the same' or 'anyway'. Andrea acknowledges Gabriel's invitation while keeping her answer a clear no.
 - 'You're right. See you tomorrow.' French says 'have reason' where English says 'be right'. Gabriel uses the familiar form with Andrea and accepts her decision to go home.
