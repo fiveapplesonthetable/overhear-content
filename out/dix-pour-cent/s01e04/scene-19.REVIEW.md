@@ -42,3 +42,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Of course not, Noémie.' Literally 'but no'. This small response can gently reject a person's worried conclusion rather than argue with a fact.
 - 'I want to die, Hervé.' The form of 'want' is followed directly by the unchanged action 'to die'. No extra linking word is needed between those two actions.
 - 'I want to die, Hervé.' Poor Noémie is always dramatic when it comes to Mathias.
+
+Primary-video check: private original E04 MP4id1619500213. Noémie cries on the office floor, not in a washroom. A forgotten phone message refers to the contract being sent, not signed. Original French audio audit pending.

@@ -36,10 +36,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You devoured me like a hyena!' The past form has an extra feminine letter at the end because the object word before the auxiliary refers to Clémentine.
 - 'That's ridiculous. It didn't last a month!' The two-part negative wraps around the helper word in the past.
 - 'I'm talking about feelings! I had feelings for you.' The second verb is in the past form used for how things used to be.
-- 'And you asked your assistant to break up with me!' The request uses 'ask someone to do something'. French puts a short linking word before the second action, 'leave me'. It recalls the task Andréa gave Camille.
+- 'And you asked your assistant to break up with me!' The request uses 'ask someone to do something'. French puts a short linking word before the second action, 'leave me'. Clémentine objects to having received the breakup message through someone else.
 - 'No, that's not true!' Literally 'it is false', with Colette standing right there listening to every word.
 - 'You're rotten! But it's over.' The first describing word has a feminine ending for Andréa. After 'it is', the form meaning 'finished' stays masculine; it refers to the whole situation.
 - 'I forgive you.' The little object word for 'you' sits right in front of the verb. Having delivered her big forgiveness line, Clémentine stalks away.
 - 'You need a new doctor, you're crazy!' Literally 'you have need of a new doctor', and the adjective at the end is the feminine form of 'crazy'.
 - 'People are crazy, aren't they?' Literally 'people are sick, no?'. Andréa turns to Colette with an awkward smile, but Colette simply bids Ms Martel a polite goodbye and walks off.
 - 'Yes? Hello?' The second greeting is specifically for phone calls. A rising 'yes?' can also answer a ringing phone or ask the caller to continue.
+
+Primary-video check: private original E04 MP4id1619500213. Agency hall, not a pavement or shop. Clémentine and Andréa are the two speakers; Colette witnesses the exchange. Original French audio audit pending.

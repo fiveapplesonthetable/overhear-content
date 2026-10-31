@@ -10,12 +10,13 @@ PAIR = 'fr-en'
 LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
-INTRO = ('Audrey has one month to prepare for the film, so she takes a pole-dancing class. Her two children are with her '
- 'at the studio, and Mathias brings the contracts. Listen in French first; we will return to the useful '
- 'expressions afterwards.')
+INTRO = ('Audrey takes a pole-dancing class with her children nearby. She then practises at home, where Mathias comes to '
+ 'discuss the contracts. She also wants his opinion on a questionnaire for prospective nannies. First, listen in '
+ 'French.')
 OPENER = "Let's go through the scene step by step. The dance coach asks if Audrey is ready, and Audrey apologises for her ordinary sports clothes."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Audrey is trying her best to prepare for the role and find a nanny, even if her heart isn't really in leaving her children. Back at her flat, she is about to interview her first nanny applicant—or so she thinks. See you next time!"
+OUTRO = ('Audrey has begun preparing for the film, but home practice and childcare keep colliding. After Mathias reads '
+ 'her nanny questionnaire, she expects to meet an applicant at her flat. See you next time!')
 CLOSING = ('audrey', "À tout à l'heure!")
 STORY = [('audrey',
   "Je n'ai pas eu le temps d'acheter une tenue.",
@@ -27,12 +28,6 @@ STORY = [('audrey',
   "I have one month. I've done it before, but a long time ago.",
   [(543, "J'ai un mois"), (544, 'Il y a longtemps')],
   ''),
- ('audrey',
-  "On commence par le carrousel? Oh, c'est rapide!",
-  "Do we start with the carousel? Oh, that's fast!",
-  [(546, 'Le carrousel'), (551, "Oh, c'est rapide")],
-  ''),
- ('audrey', "Attention, c'est glissant!", "Careful, it's slippery!", [(553, "C'est glissant")], ''),
  ('audrey',
   "Mon cœur! Maman ne l'a pas fait exprès!",
   "Sweetheart! Mummy didn't do it on purpose!",
@@ -104,60 +99,52 @@ WALK = [(0,
   "means 'there is'."),
  (2,
   None,
-  "'Do we start with the carousel? Oh, that's fast!' The action 'start' is followed by a short word meaning "
-  "'with'. It introduces the first exercise they will try."),
+  "'Sweetheart! Mummy didn't do it on purpose!' Literally 'my heart!'. The last two words mean 'on purpose'."),
  (3,
   None,
-  "'Careful, it's slippery!' The opening warning stands on its own. The word after 'it is' describes a surface "
-  'that is easy to slip on; Audrey soon loses her balance.'),
- (4,
-  None,
-  "'Sweetheart! Mummy didn't do it on purpose!' Literally 'my heart!'. The last two words mean 'on purpose'."),
+  "'Let me see, darling. Did I hurt you?' Literally 'did I do bad to you?'. Audrey is practising at home now, "
+  'where her child is playing close to the pole. She checks immediately that the child is all right.'),
+ (4, None, "'Hello, Mathias. Thank you for coming.' Literally 'thank you for having come'."),
  (5,
-  None,
-  "'Let me see, darling. Did I hurt you?' Literally 'did I do bad to you?'. Just then, Mathias walks into the "
-  'studio.'),
- (6, None, "'Hello, Mathias. Thank you for coming.' Literally 'thank you for having come'."),
- (7,
   None,
   "'Crossing Paris with the children is hard.' The plain action 'to cross' acts as the subject of the sentence. "
   "English naturally uses the ending in 'crossing' for that same job."),
- (8,
+ (6,
   None,
   "'No problem, Audrey.' This short reply has no full action word. Its negative meaning still reduces the article "
   "before 'problem', just as in a longer negative sentence."),
- (9,
+ (7,
   'Dis bonjour à Mathias.',
   "'Say hello to Mathias.' The first word is a casual command for one child. The little word before Mathias marks "
   'the person who should receive the greeting.'),
- (9,
+ (7,
   "Mais c'est quoi ces bêtises?",
   "'Hey, what is this nonsense?' The last word means 'silly things' or 'nonsense'."),
- (10,
+ (8,
   None,
   "'She senses that I'm leaving. Children are like sponges.' The word for 'like' introduces a comparison. Audrey "
   'compares children absorbing emotions with sponges absorbing water.'),
- (11,
+ (9,
   None,
   "'I've brought five copies of the contracts.' The word for copies is a noun here. The short combined word "
   "before contracts means 'of the', linking the copies to those documents."),
- (12,
+ (10,
   None,
   "'Wait a second. This is a questionnaire for the nanny.' The opening uses a casual command from 'wait', "
   'followed by a small amount of time. Audrey interrupts the business discussion for another request.'),
- (13,
+ (11,
   None,
   "'Do you have a problem with alcohol, Coca-Cola, sweets?' The order of 'have' and 'you' is reversed to make a "
   'formal written question. Mathias is reading the nanny questionnaire aloud.'),
- (14,
+ (12,
   None,
   "'What? Sweets?' Repeating the surprising item is enough to question it. The French word is plural here; "
   "English can call the same food 'sweets' or 'candy'."),
- (15,
+ (13,
   None,
   "'Sugar is very bad! I saw a documentary.' Audrey uses 'I have seen' to describe a completed past viewing. The "
   "past form of 'see' sounds very different from the present 'I see'."),
- (16,
+ (14,
   None,
   "'Tell me what you think of it.' Literally 'tell me that which you think of it'. Let's listen to the whole "
   'scene again without stopping.')]
