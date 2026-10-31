@@ -19,20 +19,20 @@ OUTRO = ('Gabriel and Hervé help keep the room private while Audrey feeds her b
  'skills with practical requests about the door and curtains. See you next time!')
 CLOSING = ('audrey', 'Au revoir!')
 STORY = [('augustin',
-  'Pour la danse à la barre, je sais que vous faites du tango.',
+  'Pour la danse à la barre, je sais que tu fais du tango.',
   'As for pole dancing, I know you do tango.',
   [(393, 'Pour la danse à la barre'), (393, 'je sais que vous faites du tango')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('audrey',
   'Non, je sais aussi faire un peu de barre.',
   'No, I also know how to do a bit of pole dancing.',
   [(394, 'Non, je sais aussi faire un peu de barre')],
   ''),
  ('augustin',
-  'Ah bon? Vous savez vraiment faire de la barre?',
+  'Ah bon? Tu sais vraiment faire de la barre?',
   'Really? Do you really know how to pole dance?',
   [(395, 'Ah bon'), (397, 'Vous savez vraiment faire de la barre')],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('audrey',
   'Oui. Je connais les bases.',
   'Yes. I know the basics.',
@@ -69,11 +69,11 @@ STORY = [('augustin',
   'Hold the door closed and draw the curtains.',
   [(410, 'Maintenez la porte fermée et tirez les rideaux')],
   ''),
- ('augustin',
-  "Vous n'êtes pas fâchée? C'est juste une idée.",
-  "You're not angry? It's just an idea.",
-  [(412, "Vous n'êtes pas fâchée"), (414, "C'est juste une idée")],
-  '')]
+ ('audrey',
+  'Oui, oui.',
+  'Yes, yes.',
+  [(411, 'Oui')],
+  'Audrey answers the concern at the door; omits an ambiguous plural-address question rather than misassign it.')]
 WALK = [(0,
   None,
   "'As for pole dancing, I know you do tango.' The expression for pole dancing literally says 'dance at the "
@@ -84,14 +84,20 @@ WALK = [(0,
   "'know' straight before the verb 'to do'."),
  (2,
   None,
-  "'Really? Do you really know how to pole dance?' The polite form of 'know' comes before 'do'. The word for "
-  "'really' strengthens his surprised question."),
+  "'Really? Do you really know how to pole dance?' The action meaning know is followed directly by the plain "
+  "action meaning do. The emphasis on knowing for real strengthens Augustin's surprised question."),
  (3,
   None,
   "'Yes. I know the basics.' Notice that French uses a different verb for 'know' when it's followed by a noun "
   'instead of a verb.'),
- (4, None, "'That's more than enough. Fantastic!' Literally 'widely sufficient'."),
- (5, None, "'I like to work with what's real.' Literally 'with the true'."),
+ (4,
+  None,
+  "'That's more than enough. Fantastic!' The expression for more than enough describes a skill that comfortably "
+  'meets his needs. The final exclamation adds enthusiastic approval.'),
+ (5,
+  None,
+  "'I like to work with what's real.' French turns the description meaning true or real into the thing Augustin "
+  'wants to work with. He values the performer having the skill herself.'),
  (6,
   None,
   "'In the film, it's a gesture of rebellion.' The short word between 'gesture' and 'rebellion' means 'of'. It "
@@ -114,5 +120,5 @@ WALK = [(0,
   "'closed' has a feminine ending to match 'door', while 'curtains' is plural."),
  (11,
   None,
-  "'You're not angry? It's just an idea.' The word meaning 'angry' has a feminine ending for Audrey. Augustin "
-  "reduces the force of his suggestion with the small word meaning 'just'.")]
+  "'Yes, yes.' Repeating an affirmative can reassure someone quickly. Audrey answers from the room while the "
+  'others help protect her privacy.')]
