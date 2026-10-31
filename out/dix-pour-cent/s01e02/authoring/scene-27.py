@@ -4,10 +4,10 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 27
-TITLE = 'Pourquoi pas les deux?  (Why Not Both?)'
+TITLE = 'Et si on prenait les deux?  (What If We Took Both?)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-LABELS = {'andrea': 'Andréa', 'gabor': 'Gabor', 'gabriel': 'Gabriel'}
+LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'emma': 'Emma'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = ('After the tribute, Andréa and Gabriel speak to director Gabor and producer Emma. Both Line and Françoise '
@@ -15,31 +15,31 @@ INTRO = ('After the tribute, Andréa and Gabriel speak to director Gabor and pro
  "of elderly robbers together. Listen first to the suggestion and Gabor's response.")
 OPENER = "Let's go through it slowly. Andréa opens with a question that sounds simple, but changes everything."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = ('Why not followed by an action is a useful way to suggest a solution. Here the agents turn two competing '
- 'stars into a pair, and Gabor starts to imagine the publicity. Their proposal has brought the conversation '
- 'back to a possible deal. See you next time!')
+OUTRO = ("A what-if question turns the casting problem into a new idea. Andréa and Gabriel sell the combination's "
+ 'appeal, while Emma points out that two stars also mean two fees. Listen again to the suggestion and the '
+ 'offer of a lower price. See you next time!')
 CLOSING = ('andrea', 'À bientôt!')
 STORY = [('andrea',
-  'Pourquoi ne pas prendre les deux?',
-  'Why not take them both?',
+  'Et si on les prenait toutes les deux?',
+  'What if we took them both?',
   [(750, 'Pourquoi ne pas prendre les deux')],
-  ''),
- ('gabor', 'Les deux?', 'Both of them?', [], 'Added short echo to make the condensed exchange clear.'),
+  'Restores actual French Et si on les prenait toutes les deux?, not the why-not infinitive invented by dual '
+  'subtitles.'),
  ('andrea',
   'Bonnie et Clyde à quatre-vingts ans, avec deux femmes!',
   'Bonnie and Clyde at eighty, with two women!',
   [(751, 'Bonnie et Clyde à'), (752, 'avec deux femmes')],
   ''),
  ('andrea',
-  'Ça devient moderne.',
-  'That makes it modern.',
+  "Ça, c'est moderne.",
+  "That's modern.",
   [(753, 'ça devient moderne')],
-  'Condenses Andréa’s comparison with other films.'),
- ('gabor',
-  'Vous voulez dire un vrai couple de femmes?',
+  'Restores original c’est moderne, not the invented devient moderne.'),
+ ('emma',
+  'Tu veux dire un vrai couple de femmes?',
   'You mean a real couple of women?',
   [(755, 'Vous voulez dire un vrai couple de femmes')],
-  ''),
+  'Original French question is Emma’s; Andréa answers Ouais Emma. Source uses familiar tu, not formal vous.'),
  ('andrea',
   'Oui. Line Renaud et Françoise Fabian.',
   'Yes. Line Renaud and Françoise Fabian.',
@@ -65,107 +65,82 @@ STORY = [('andrea',
   'Did you see that?',
   [(760, 'Vous avez vu')],
   'Simplifies source question about how the two women electrified the tribute.'),
- ('gabor',
-  "Ce n'est pas mal.",
-  "That's not bad.",
-  [(764, 'pas mal')],
-  'Restores the first negative element omitted in spoken source.'),
  ('gabriel',
   "C'est totalement inattendu.",
   "It's totally unexpected.",
   [(765, "C'est totalement inattendu")],
   'Two-frame-per-second original video confirms this speaker: Gabriel.'),
  ('gabriel',
-  'Tout le monde en parlera.',
-  'Everyone will talk about it.',
+  "Ça va faire parler, c'est sûr.",
+  "People will talk about it, that's certain.",
   [(767, 'Tout le monde en parlera')],
-  'Two-frame-per-second original video confirms this speaker: Gabriel.'),
- ('andrea', 'Et vous avez deux stars!', 'And you get two stars!', [(768, 'Et vous avez deux stars')], ''),
+  'Restores original ça va faire parler, c’est sûr, not simple future parlera invented by dual subtitles.'),
+ ('emma',
+  "Et puis, c'est deux cachets au lieu d'un.",
+  "And that's two fees instead of one.",
+  [(768, 'Et vous avez deux stars')],
+  'Restores producer Emma’s budget objection: two fees instead of one, not an agent’s promise of two stars. '
+  'Original audio and source camera cut confirm Emma.'),
  ('andrea',
-  'On vous fait un bon prix.',
+  'On va te faire un petit prix.',
   "We'll give you a good price.",
   [(769, 'On vous fait un bon prix')],
-  'Two-frame-per-second original video confirms this speaker: Andréa.'),
- ('gabor',
-  'Outjet!',
-  'Outjet!',
-  [(770, 'Outjet')],
-  'Subtitles represent Gabor’s toast this way; no claim about its linguistic origin.'),
- ('andrea', 'Euh, oui, outjet!', 'Er, yes, outjet!', [(771, 'Oui, outjet')], 'Agents echo Gabor’s toast.'),
- ('gabriel',
-  'Eh bien, outjet!',
-  'Well then, outjet!',
-  [(772, 'Eh bien... Outjet')],
-  'Agents echo Gabor’s toast.')]
+  'Restores actual on va te faire un petit prix, addressed familiarly to Emma, not formal vous. Andréa '
+  'speaks in the primary video.')]
 WALK = [(0,
   None,
-  "'Why not take them both?' Notice the shape: 'why' plus 'not' plus an action word in its basic form. It's "
-  "a neat way to suggest an idea. Gabor can't believe his ears."),
- (1, None, "'Both of them?' Literally 'the two'. It's the same phrase as at the end of Andréa's question."),
- (2,
+  "'What if we took them both?' What if opens a suggestion. The past-shaped took imagines a possible casting "
+  'choice. Them refers to the actresses, and the final expression both of them makes clear that Andréa wants '
+  'the pair.'),
+ (1,
   None,
   "'Bonnie and Clyde at eighty, with two women!' The famous couple of robbers, but old, and both played by "
   "women. The number eighty in French is literally 'four twenties', an old way of counting."),
+ (2,
+  None,
+  "'That's modern.' Andréa names the idea with that and then describes it: that, it is modern. Repeating the "
+  'topic this way is common in conversation. She presents the two-woman couple as the fresh element.'),
  (3,
   None,
-  "'That makes it modern.' The French wording literally says that becomes modern. That points to their "
-  'revised story: two women playing the couple of robbers. Become describes a change, rather than a '
-  'permanent quality.'),
+  "'You mean a real couple of women?' Emma asks Andréa to clarify the idea, using familiar you. Mean is "
+  'literally want to say. Real makes clear that she is asking about a romantic couple, rather than simply '
+  'two women in the cast.'),
  (4,
-  None,
-  "'You mean a real couple of women?' Literally 'you want to say'. That's how French says 'you mean'. Gabor "
-  "uses the polite 'you' with the agents: this is business."),
- (5,
   None,
   "'Yes. Line Renaud and Françoise Fabian.' Andréa's yes confirms Gabor's understanding. She then joins the "
   'two full names with and, presenting the actresses as a pair rather than two competing choices.'),
- (6,
+ (5,
   None,
   "'We've just seen them.' Come followed by the short linking word and see means have just seen. Them stands "
   'for Line and Françoise and sits before see. Andréa points to the tribute they have all watched.'),
- (7,
+ (6,
   None,
   "'Each one is a star.' The first word is the feminine 'each one', because he's talking about two women."),
- (8,
+ (7,
   None,
   "'But together…' But turns away from considering each actress separately. Together invites Gabor to "
   'imagine the two in the same film. Andréa leaves the thought unfinished to make the combination sound '
   'intriguing.'),
- (9,
+ (8,
   None,
   "'Did you see that?' The French past uses have plus seen. That points back to the actresses' joint "
   "appearance at the tribute. The short question asks Gabor to share Andréa's reaction to what they "
   'watched.'),
- (10,
-  None,
-  "'That's not bad.' The two negative words surround is. In ordinary speech the first is often dropped, as "
-  'in the original scene. Not bad can offer cautious praise, rather than merely denying that something is '
-  'terrible.'),
- (11,
+ (9,
   None,
   "'It's totally unexpected.' Totally strengthens unexpected: Gabriel sells the combination as completely "
   'surprising. Unexpected describes the proposal itself, rather than either individual actress.'),
+ (10,
+  None,
+  "'People will talk about it, that's certain.' The French wording literally says that is going to make "
+  'people talk. The idea itself is the subject. Going to presents its publicity as an expected result, and '
+  "certain adds Gabriel's confidence."),
+ (11,
+  None,
+  "'And that's two fees instead of one.' Emma brings up the cost. A fee here is the payment to a performer. "
+  'Instead of is literally in the place of, comparing the two payments with the single one they had '
+  'planned.'),
  (12,
   None,
-  "'Everyone will talk about it.' Literally 'all the world'. The verb is in the future: the ending tells you "
-  "it hasn't happened yet. Andréa seizes the moment."),
- (13,
-  None,
-  "'And you get two stars!' The French wording says you have two stars. Have presents the casting as part of "
-  'the proposed package; English get captures what the director gains by agreeing.'),
- (14,
-  None,
-  "'We'll give you a good price.' Literally, we make you a good price. Good describes a price favourable to "
-  'the person paying. The short you comes before make and identifies the person receiving the offer.'),
- (15,
-  None,
-  "'Outjet!' Gabor raises a toast. This is the way the subtitles represent his exclamation; it is not a "
-  'standard French expression to learn for ordering a drink. The agents follow his lead.'),
- (16,
-  None,
-  "'Er, yes, outjet!' The hesitation comes before yes. Andréa then echoes the unfamiliar toast, using "
-  'repetition to join in without asking what it means.'),
- (17,
-  None,
-  "'Well then, outjet!' The opening well then can introduce a response or mark acceptance. Gabriel follows "
-  "it by repeating the toast too. Let's hear the whole exchange once more.")]
+  "'We'll give you a good price.' Literally, we are going to make you a little price. Little describes a "
+  'reduced price, not a small object. Andréa uses familiar you with Emma while offering a deal.')]
