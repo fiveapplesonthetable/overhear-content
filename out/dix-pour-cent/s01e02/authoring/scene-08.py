@@ -86,7 +86,7 @@ STORY = [('hippolyte',
   'Well... thanks anyway.',
   [(261, 'Eh bien... merci quand même')],
   ''),
- ('camille', 'Bonne journée.', 'Have a nice day.', [(262, 'Bonne journée')], '')]
+ ('hippolyte', 'Bonne journée.', 'Have a nice day.', [(262, 'Bonne journée')], '')]
 WALK = [(0,
   'Tout va bien?',
   "'Everything okay?' Literally 'all goes well?'. You can ask it of a friend, a colleague, or someone "
@@ -155,4 +155,4 @@ WALK = [(0,
  (16,
   None,
   "'Have a nice day.' Literally good day, as a wish. This word for the day is feminine, which gives good its "
-  'feminine ending. Camille closes the conversation politely, though rather coolly.')]
+  'feminine ending. Hippolyte says it as he leaves after Camille has refused his invitation.')]
