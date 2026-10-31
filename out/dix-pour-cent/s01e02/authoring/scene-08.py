@@ -56,10 +56,10 @@ STORY = [('hippolyte',
   [(254, "Tu ne m'as pas vu dans les fichiers d'Andréa")],
   ''),
  ('camille',
-  'Si. Tu as rendez-vous?',
+  'Si. Vous avez rendez-vous?',
   'Yes, I have. Do you have an appointment?',
   [(255, 'Si. Tu as rendez-vous')],
-  ''),
+  'Original French audio switches to vous at the appointment question; dual subtitles incorrectly had tu.'),
  ('hippolyte',
   "Non, mais je suis content d'être venu.",
   "No, but I'm glad I came.",
@@ -70,7 +70,12 @@ STORY = [('hippolyte',
   'What can I do for you?',
   [(257, "Qu'est-ce que je peux faire pour vous")],
   ''),
- ('hippolyte', 'Commence par te détendre.', 'Start by relaxing.', [(258, 'Commence par te détendre')], ''),
+ ('hippolyte',
+  'Commence par me tutoyer.',
+  'Start by using the familiar you with me.',
+  [(258, 'Commence par te détendre')],
+  'Restores the original request to resume familiar address, rather than the backtranslated invented request '
+  'to relax. Condenses Déjà commencer par me retutoyer.'),
  ('hippolyte',
   'Tu viens prendre un café en terrasse?',
   'Will you come for a coffee on the terrace?',
@@ -129,18 +134,23 @@ WALK = [(0,
   "'Yes, I have.' This is a special yes. When someone asks a negative question and you want to say 'yes, "
   "actually', you don't use the normal word for yes, you use this one. It means 'oh yes I did'."),
  (9,
-  'Tu as rendez-vous?',
-  "'Do you have an appointment?' French says have appointment, without a word for an in this fixed wording. "
-  'Camille is returning to her duties as an assistant, even though she still uses the familiar you.'),
+  'Vous avez rendez-vous?',
+  "'Do you have an appointment?' French says have appointment without a word for an. Camille now switches to "
+  'the polite you as she returns to her professional duties, after recognising him as a client.'),
  (10,
   None,
   "'No, but I'm glad I came.' The word for 'glad' is in the masculine form, because he is a man. Camille "
   'stays professional.'),
  (11,
   None,
-  "'What can I do for you?' Listen: now she switches to the polite 'you'. It's her way of keeping him at "
-  "arm's length. He doesn't take the hint."),
- (12, None, "'Start by relaxing.' Hippolyte gives a casual command: start, then 'by relaxing yourself'."),
+  "'What can I do for you?' Camille continues addressing him politely. For introduces the person she offers "
+  'to help. The shift from their earlier familiar chat makes the offer sound like an assistant speaking to a '
+  'client.'),
+ (12,
+  None,
+  "'Start by using the familiar you with me.' The word for addressing someone familiarly describes the "
+  'change Hippolyte wants. He asks Camille to return to the way she spoke before discovering he was an '
+  'actor.'),
  (13,
   None,
   "'Will you come for a coffee on the terrace?' Take a coffee means have or drink a coffee here. The ending "
