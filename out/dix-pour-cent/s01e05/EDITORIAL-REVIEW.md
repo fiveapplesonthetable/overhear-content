@@ -119,3 +119,9 @@ Every explanation rewritten with contextual word/construction teaching, complete
 Artwork29/30 was corrected separately in19faf4005 and approved after inspection; existing27/28 art matches the learner story. A short11 acknowledgement explanation was refined during strict-teaching audit; its native dialogue stayed fixed. Authoring03 now uses the same English spelling Andrea already present in narration/notes.
 
 Full episode validation with --require-notes --strict-teaching:0 errors; every playable lesson meets the teaching threshold. Private source media never committed. This editorial review is separate from central audio render/listening QA and public publication. Two short speaker details remain held for independent central confirmation:12 Jean Gabin armchair line (currently Mathias), and30 final confession line (currently Mathias; recipient not specified in the lesson). All other27–29 editorial material is approved for central rendering/listening;30 remains on the stated short-speaker hold.
+
+## Dense-frame follow-up for final speaker checks
+
+Private source extraction at4frames/second over797–801s shows Arlette actively articulating the armchair reply after Mathias looks down with closed lips. Corrected12's short line to Arlette. Original audio names Jean Gabin; the source also visibly has a brown/white terrier in the chair. Earlier assertions that no dog belongs in the source were overstrong and are superseded. The current illustration omits the dog without asserting another event, and the lesson teaches the ownership construction without inventing a history for the name.
+
+Dense2798–2803s frames show Mathias actively articulating during the final line, supporting30's existing speaker. The lesson does not infer who receives that line. Central independent review of these same private clips/sheets is requested; private source media and signed URLs remain outside the content repository.
