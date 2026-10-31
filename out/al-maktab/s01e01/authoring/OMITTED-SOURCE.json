@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "sourceFile": "sources/al-maktab/s01/e01.ar.srt",
+  "sourceSha256": "58680ec00172049b14057dad649f0b0c5ba88b3a2cff0d9f5bd3fe295a7ab5f5",
+  "retainedSourceRange": {
+    "start": "00:00:20,940",
+    "end": "00:00:28,900"
+  },
+  "sourceFileUnchanged": true,
+  "storyCues": [
+    1,
+    2,
+    3
+  ],
+  "omittedCues": [
+    {
+      "cue": 4,
+      "start": "00:00:27,620",
+      "end": "00:00:28,900",
+      "text": "أنا مسؤول عن كل الناس اللي برا.",
+      "translation": "I'm responsible for all the people outside.",
+      "reason": "Original source words are corroborated, but final generated speech and finite retakes did not establish correct pronunciation. Optional clause and all its teaching/replays are excluded instead of weakening the gate. The source transcript is preserved, not silently shortened.",
+      "generatedEvidence": {
+        "turboTake0": "أنا مسؤول عن كل الناس اللي براء",
+        "independentLargeV3Take0": "أنا مسؤول عن كل الناس اللي برأة",
+        "take0Sha256": "ff0dcbd13858de9877a5dbc8da1553f410aaeb3536b3745a8590d04db4e0a318"
+      }
+    }
+  ],
+  "otherOmissions": "The earlier source review already excluded unclear filler around 26.6–27.6 seconds and a disputed continuation after 28.9 seconds; neither is newly guessed or added."
+}
