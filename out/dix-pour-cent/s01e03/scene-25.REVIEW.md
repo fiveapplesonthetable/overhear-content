@@ -10,26 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Andréa | C'est dingue! Je vous ai vue quelque part. | I've seen you somewhere. | #640: C'est dingue<br>#641: vue quelque part | verbatim |
-| 2 | Colette | Je vais vous donner un indice. | I'll give you a clue. | #642: Je vais vous donner un indice | verbatim |
-| 3 | Colette | Je cite: pas de petites filles comme vous. | I quote: no little girls like you. | #644: Je cite<br>#645: petites filles | verbatim |
+| 1 | Andréa | C'est dingue! Je vous ai vue quelque part. | It's crazy! I've seen you somewhere. | #640 00:37:03: C'est dingue<br>#641 00:37:04: vue quelque part | verbatim |
+| 2 | Colette | Je vais vous donner un indice. | I'll give you a clue. | #642 00:37:09: Je vais vous donner un indice | verbatim |
+| 3 | Colette | Je cite: pas de petites filles comme vous. | I quote: no little girls like you. | #644 00:37:12: Je cite<br>#645 00:37:14: petites filles | verbatim |
 | 4 | Andréa | Oh non. C'était vous! | Oh no. It was you! | new | new |
-| 5 | Colette | Laissez-moi tranquille! | Leave me alone! | #647: Laissez-moi tranquille | verbatim |
-| 6 | Andréa | C'était juste un malentendu. | It was just a misunderstanding. | #648: c'était juste un malentendu | verbatim |
-| 7 | Andréa | Colette, on a raté notre premier rendez-vous. | Colette, we missed our first date. | #650: Colette, on a raté notre premier rendez-vous | verbatim |
-| 8 | Colette | Laissez la porte ouverte, s'il vous plaît. | Leave the door open, please. | #651: Laissez la porte ouverte, s'il vous plaît | verbatim |
-| 9 | Andréa | Vous êtes bien plus jolie en vrai. | You're much prettier in real life. | #652: Vous êtes bien plus jolie en vrai | verbatim |
-| 10 | Colette | Maintenant vous êtes gentille, à cause de votre agence. | Now you're being nice, because of your agency. | #654: votre agence | verbatim |
-| 11 | Colette | C'est pathétique. | It's pathetic. | #655: C'est pathétique | verbatim |
-| 12 | Andréa | Pas du tout. Je suis sincère. | Not at all. I mean it. | #655: Pas du tout<br>#656: Je suis sincère | verbatim |
-| 13 | Colette | Je ne mélange pas le travail et la vie privée. | I don't mix work and private life. | #657: Je ne mélange pas | verbatim |
-| 14 | Andréa | Je veux juste parler. | I just want to talk. | #660: Je veux juste parler | verbatim |
-| 15 | Andréa | On peut en rire? | Can we laugh about it? | #662: On peut en rire | verbatim |
-| 16 | Colette | Moi, je n'ai pas envie de rire. | I don't feel like laughing. | #662: envie de rire | verbatim |
-| 17 | Colette | Partez maintenant. Au revoir, madame Martel. | Leave now. Goodbye, Ms Martel. | #664: Partez maintenant<br>#666: Au revoir | verbatim |
-| 18 | Andréa | Au revoir, Colette. | Goodbye, Colette. | #666: Au revoir, Colette | verbatim |
-
-
+| 5 | Colette | Laissez-moi tranquille! | Leave me alone! | #647 00:37:22: Laissez-moi tranquille | verbatim |
+| 6 | Andréa | C'était juste un malentendu. | It was just a misunderstanding. | #648 00:37:27: c'était juste un malentendu | verbatim |
+| 7 | Andréa | Colette, on a raté notre premier rendez-vous. | Colette, we missed our first date. | #650 00:37:38: Colette, on a raté notre premier rendez-vous | verbatim |
+| 8 | Colette | Laissez la porte ouverte, s'il vous plaît. | Leave the door open, please. | #651 00:37:41: Laissez la porte ouverte, s'il vous plaît | verbatim |
+| 9 | Andréa | Vous êtes bien plus jolie en vrai. | You're much prettier in real life. | #652 00:37:43: Vous êtes bien plus jolie en vrai | verbatim |
+| 10 | Colette | Maintenant vous êtes gentille, à cause de votre agence. | Now you're being nice, because of your agency. | #654 00:37:50: votre agence | verbatim |
+| 11 | Colette | C'est pathétique. | It's pathetic. | #655 00:37:53: C'est pathétique | verbatim |
+| 12 | Andréa | Pas du tout. Je suis sincère. | Not at all. I mean it. | #655 00:37:53: Pas du tout<br>#656 00:37:55: Je suis sincère | verbatim |
+| 13 | Colette | Je ne mélange pas le travail et la vie privée. | I don't mix work and private life. | #657 00:37:58: Je ne mélange pas | verbatim |
+| 14 | Andréa | Je veux juste parler. | I just want to talk. | #660 00:38:07: Je veux juste parler | verbatim |
+| 15 | Andréa | On peut en rire? | Can we laugh about it? | #662 00:38:14: On peut en rire | verbatim |
+| 16 | Colette | Moi, je n'ai pas envie de rire. | I don't feel like laughing. | #662 00:38:14: envie de rire | verbatim |
+| 17 | Colette | Partez maintenant. Au revoir, madame Martel. | Leave now. Goodbye, Ms Martel. | #664 00:38:22: Partez maintenant<br>#666 00:38:29: Au revoir | verbatim |
+| 18 | Andréa | Au revoir, Colette. | Goodbye, Colette. | #666 00:38:29: Au revoir, Colette | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

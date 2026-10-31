@@ -17,9 +17,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Nathalie | Qu'est-ce que tu en sais, Mathias? | What do you know about it, Mathias? | #423 00:24:25: Qu'est-ce que tu en sais, Mathias | verbatim |
 | 6 | Nathalie | C'est très poétique. Je suis très émue. | It's very poetic. I'm very moved. | #424 00:24:28: C'est très poétique<br>#424 00:24:28: émue | verbatim |
 | 7 | Nathalie | Bon, j'y vais. | Right, here I go. | #425 00:24:33: J'y vais | verbatim |
-| 8 | Nathalie | Mais c'est toi qui veux partir. | But you're the one who wants to leave. | #426 00:24:38: Mais c'est toi qui veux partir | verbatim |
+| 8 | Nathalie | Mais c'est toi qui veux partir. | But you're the one who wants to leave. | #426 00:24:38: Mais c'est toi qui veux partir | adapted: The director reads this side of the dramatic script in the source. Nathalie reads both parts in this shortened lesson; the director's instructions retain her own voice. |
 | 9 | Nathalie | Pars, alors! Pars! | Go, then! Go! | #428 00:24:42: Pars, alors ! Pars | verbatim |
-| 10 | Nathalie | Je ne suis pas surprise. | I'm not surprised. | #430 00:24:48: je ne suis pas surprise | verbatim |
+| 10 | Nathalie | Je ne suis pas surprise. | I'm not surprised. | #430 00:24:48: je ne suis pas surprise | adapted: The director reads this side of the dramatic script in the source. Nathalie reads both parts in this shortened lesson; the director's instructions retain her own voice. |
 | 11 | Nathalie | Tu as toujours aimé le vent. | You've always loved the wind. | #432 00:24:56: Tu as toujours aimé le vent | verbatim |
 | 12 | Solveig | Tu peux réessayer, sans tant de tragédie? | Can you try again, without so much tragedy? | #437 00:25:12: réessayer, sans tant de tragédie | verbatim |
 | 13 | Solveig | Quelque chose de plus neutre. | Something more neutral. | #438 00:25:21: Quelque chose de plus neutre | verbatim |

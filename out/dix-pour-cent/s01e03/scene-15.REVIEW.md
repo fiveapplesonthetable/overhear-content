@@ -16,10 +16,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Nathalie | Non, ça peut créer quelque chose d'intense. | No, it can create something intense. | #344 00:20:24: Non<br>#344 00:20:24: ça peut créer quelque chose d'intense | verbatim |
 | 5 | Laura | On est ensemble dans chaque scène. C'est beaucoup. | We're together in every scene. That's a lot. | #345 00:20:28: On est ensemble dans chaque scène<br>#346 00:20:31: C'est beaucoup | verbatim |
 | 6 | Nathalie | Tiens-toi droite. | Stand up straight. | #350 00:20:45: Tiens-toi | verbatim |
-| 7 | Mathias | Bonjour, Nathalie. Bonjour, Laura. On y va? | Hello, Nathalie. Hello, Laura. Shall we go? | #352 00:20:50: Bonjour, Nathalie<br>#353 00:20:52: Laura<br>#354 00:20:53: On y va | verbatim |
+| 7 | Mathias | Bonjour, Nathalie. Bonjour, Laura. On y va? | Hello, Nathalie. Hello, Laura. Shall we go? | #352 00:20:50: Bonjour, Nathalie<br>#353 00:20:52: Laura<br>#354 00:20:53: On y va | adapted: Combines Mathias's greeting to Nathalie and Gabriel's greeting to Laura into Mathias's role. |
 | 8 | Nathalie | Mathias, je peux te voir seul d'abord? | Mathias, can I see you alone first? | #355 00:20:55: Je peux te voir seul d'abord | verbatim |
 | 9 | Mathias | Bien sûr. | Of course. | #355 00:20:55: Bien sûr | verbatim |
-| 10 | Laura | Tu ne connais pas ma mère. Trois mois avec elle, non! | You don't know my mother. Three months with her, no! | #358 00:21:09: trois mois<br>#359 00:21:13: Non<br>#360 00:21:15: Tu ne connais pas ma mère | verbatim |
+| 10 | Laura | Trois mois avec elle, non! | Three months with her, no! | #358 00:21:09: trois mois<br>#359 00:21:13: Non | adapted: Shortens Laura's anxious question and the exchange about living with a mother. |
 | 11 | Nathalie | Impossible! Pourquoi tu ne m'as pas prévenue? | Impossible! Why didn't you warn me? | #367 00:21:35: Impossible ! Pourquoi tu ne m'as pas prévenue | verbatim |
 | 12 | Mathias | Mais vous vous entendez très bien! | But you get on very well! | #368 00:21:38: vous entendre | verbatim |
 | 13 | Nathalie | Oui, on s'entend bien. | Yes, we get on well. | #369 00:21:42: On s'entend bien | verbatim |
@@ -39,7 +39,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello, Nathalie. Hello, Laura. Shall we go?' Literally 'we go there?'. Mathias and Gabriel are waiting outside the lift.
 - 'Mathias, can I see you alone first?' This phrase at the end means 'first of all'. Meanwhile Laura asks Gabriel for the exact same private chat.
 - 'Of course.' Literally 'well sure'. The doors close on two separate offices.
-- 'You don't know my mother. Three months with her, no!' In Gabriel's office, Laura says the action word for knowing a person. Now listen to Nathalie in Mathias's office.
+- 'Three months with her, no!' The full form meaning 'her' follows 'with'. The same form can mean 'she' when it stands before an action. Laura is imagining the long shoot with her mother.
 - 'Impossible! Why didn't you warn me?' The past form at the end has a feminine letter because the shortened object word before the auxiliary refers to Nathalie.
 - 'But you get on very well!' Literally 'you hear each other very well'. In French, getting along with someone is understanding or hearing each other.
 - 'Yes, we get on well.' The everyday word for 'we' takes a singular verb form. The small object word before 'understand' makes this the expression 'get on with each other'.
