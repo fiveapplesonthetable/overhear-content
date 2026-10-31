@@ -8,6 +8,6 @@ The preceding uncertain identity question, repeated encouragement, goldfish mono
 
 Five story lines are intentional for this short taster. The normal validator's short-story warning remains visible. No filler, invented reply or duplicated dialogue was added to meet a count.
 
-Every target segment, including replays and newly authored `Ciao!`, has an English translation, exact whitespace tokens and contextual word notes. All20lemmas have dictionary entries, forms where useful, and checked primary-source word histories; the uncertain origin of `niente` remains explicitly uncertain. The closing farewell and lexicon practice examples are new teaching text, not claimed source dialogue.
+Every target segment, including replays and newly authored `Ciao!`, has an English translation, exact whitespace tokens and contextual word notes. All 20 lemmas have dictionary entries, forms where useful, and checked primary-source word histories; the uncertain origin of `niente` remains explicitly uncertain. The closing farewell and lexicon practice examples are new teaching text, not claimed source dialogue.
 
 Voice and publication gates remain owned by production: source speaker confirmation, genuine Italian references, English narrator, complete generated-speech review, word timing, loudness, cache fingerprints, final package validation and serving verification. The content draft itself does not establish those audio gates.

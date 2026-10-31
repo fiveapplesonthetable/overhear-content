@@ -18,4 +18,4 @@ The seven-cue SRT is an honest newly authored excerpt transcript. No earlier ori
 
 Source contact sheet and additional137.8s/135.95s source frames were inspected privately for clothing, setting and speaker context. Reaction shots alone are not treated as proof of an offscreen voice. The two opening questions were omitted from the learner lesson because their offscreen speaker was not independently established.
 
-Editorial checks: approved shared content contract41ce9cac4 loaded read-only with ROOT pointing at this worktree; excerpt validator with required notes and strict teaching:0errors,1visible short-story warning,100%teaching. Metadata validator:0errors. No tools/spec/shared language registration files were edited by this author.
+Editorial checks: latest shared main contract db3f4c558 merged into this worktree, including source-citation and native-letter checks; excerpt validator with required notes and strict teaching:0errors,1visible short-story warning,100% teaching. Metadata validator:0 errors. The16 explicit-taster regression tests also pass. No tools/spec/shared language registration files were edited by this author.
