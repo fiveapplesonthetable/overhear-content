@@ -90,7 +90,7 @@
     },
     "segments": {
       "type": "array",
-      "minItems": 20,
+      "minItems": 7,
       "items": {
         "type": "object",
         "additionalProperties": false,
@@ -161,6 +161,30 @@
           }
         }
       }
+    },
+    "format": {
+      "const": "taster",
+      "description": "Short source-bound taster; requires a matching explicit excerpt in scenes.json. Optional; full lessons remain the default."
     }
-  }
+  },
+  "anyOf": [
+    {
+      "properties": {
+        "segments": {
+          "type": "array",
+          "minItems": 20
+        }
+      }
+    },
+    {
+      "required": [
+        "format"
+      ],
+      "properties": {
+        "format": {
+          "const": "taster"
+        }
+      }
+    }
+  ]
 }
