@@ -24,7 +24,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Mathias | Il veut créer un groupe d'agences européennes. | He wants to create a group of European agencies. | #221 00:11:49: Il veut créer un<br>#221 00:11:49: d'agences européennes | adapted: Simplifies hub to groupe. |
 | 13 | Mathias | Vous pouvez m'en dire plus? | Can you tell me more about it? | #217 00:11:42: Vous pouvez m'en dire plus | verbatim |
 | 14 | Hélène | Jonas Hirsch, de l'agence Sterne à Berlin. | Jonas Hirsch, from the Sterne agency in Berlin. | #218 00:11:43: Jonas Hirsch, de l'agence Sterne à Berlin | verbatim |
-| 15 | Hélène | Vous le connaissez? | Do you know him? | #219 00:11:46: Vous le connaissez | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +41,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He wants to create a group of European agencies.' The form meaning 'wants' is followed by the unchanged action 'to create'. The final description matches the feminine plural agencies.
 - 'I asked him to keep all four of you.' The first object means 'to him', referring to the buyer. The later 'you' is plural: Hélène means all four agents.
 - 'But I don't know if that's in his plans.' Here 'if' means 'whether', introducing something uncertain. Hélène has made a request, but cannot promise the outcome.
-- 'There must be a solution!' The short expression for 'there is' follows 'must', so its action word changes to the plain form 'to have'. The sense is 'there must be'.
+
+Primary video: private E4dual MP4id1619500213,27frames682–791s. Hélène meets Mathias alone at a restaurant; the other agents are in a separate subsequent office conversation. The last conversation is Mathias and Catherine at home, not François. The lesson now keeps14French lines from the actual Hélène/Mathias meeting.
