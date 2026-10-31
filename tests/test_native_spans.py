@@ -61,3 +61,15 @@ class NativeSpans(unittest.TestCase):
 
 
 if __name__ == '__main__': unittest.main()
+
+class NamePronunciation(unittest.TestCase):
+    def test_schema_allows_unassessed_name_but_not_missing_latin_common_word_ipa(self):
+        schema = v.load_schema('notes')
+        lex = {'lemma': 'magüi', 'stress': None, 'pos': 'name', 'gloss': 'a source-attested name', 'meanings': [{'en': 'name', 'note': ''}],
+               'forms': None, 'moreForms': [], 'examples': [{'text': 'Magüi.', 'trans': 'Magüi.'}, {'text': 'Hola, Magüi.', 'trans': 'Hello, Magüi.'}], 'related': []}
+        name_errors = v.schema_errors(lex, schema['$defs']['lex'], schema)
+        self.assertEqual(name_errors, [])
+        lex.update(lemma='hola', pos='interj')
+        self.assertTrue(v.schema_errors(lex, schema['$defs']['lex'], schema))
+        lex.update(lemma='学校', pos='noun')
+        self.assertEqual(v.schema_errors(lex, schema['$defs']['lex'], schema), [])
