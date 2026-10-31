@@ -134,8 +134,8 @@ WALK = [(0,
   'here, it sounds like an irritated complaint.'),
  (10,
   "L'un à midi, l'autre à quatorze heures.",
-  "'One at noon, the other at two.' The pair 'one' and 'the other' separates the two appointments. Fourteen "
-  'hours on the clock means two in the afternoon.'),
+  "'One at noon, the other at two.' This contrast separates two different appointments: the first and the "
+  'second. Fourteen hours on the clock means two in the afternoon.'),
  (10,
   'Je vais déjeuner deux fois.',
   "'I'm going to have lunch twice.' A form of 'go' followed by an action gives a plan for the future. The "
