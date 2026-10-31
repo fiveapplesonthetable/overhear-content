@@ -12,19 +12,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Andréa | Pas de chance pour moi! | Unlucky me! | #708 00:39:39: Pas de chance pour moi | verbatim |
 | 2 | Andréa | Je trouve une assistante qui me plaît. | I find an assistant I like. | #709 00:39:41: Je trouve une assistante qui me plaît | verbatim |
-| 3 | Andréa | Mais je me suis trompée. | But I was wrong. | #711 00:39:46: Mais je me suis trompé | verbatim |
+| 3 | Andréa | Mais je me suis trompée. | But I was wrong. | #711 00:39:46: Mais je me suis trompé | adapted: Shortened or rephrased from the cited source dialogue. |
 | 4 | Andréa | Tu réalises ce que tu as fait? | Do you realise what you did? | #715 00:39:58: Tu réalises ce que tu as fait | verbatim |
-| 5 | Andréa | Tu voulais un selfie? Un autographe? | Did you want a selfie? An autograph? | #714 00:39:55: Un selfie<br>#714 00:39:55: Un autographe | verbatim |
-| 6 | Andréa | Nous avons presque perdu une grande star! | We almost lost a big star! | #716 00:40:01: plus grandes stars | verbatim |
-| 7 | Camille | Oui, mais Cécile est restée à l'agence. | Yes, but Cécile stayed with the agency. | #717 00:40:04: Ouais, mais | verbatim |
-| 8 | Camille | Non, ce n'est pas comme ça. | No, it isn't like that. | #719 00:40:08: pas comme ça | verbatim |
-| 9 | Camille | Je ne suis pas bavarde. | I'm not a chatterbox. | #720 00:40:10: Je ne suis pas | verbatim |
+| 5 | Andréa | Tu voulais un selfie? Un autographe? | Did you want a selfie? An autograph? | #714 00:39:55: Un selfie<br>#714 00:39:55: Un autographe | adapted: Shortened or rephrased from the cited source dialogue. |
+| 6 | Andréa | Nous avons presque perdu une grande star! | We almost lost a big star! | #716 00:40:01: plus grandes stars | adapted: Shortened or rephrased from the cited source dialogue. |
+| 7 | Camille | Oui, mais Cécile est restée à l'agence. | Yes, but Cécile stayed with the agency. | #717 00:40:04: Ouais, mais | adapted: Shortened or rephrased from the cited source dialogue. |
+| 8 | Camille | Non, ce n'est pas comme ça. | No, it isn't like that. | #719 00:40:08: pas comme ça | adapted: Shortened or rephrased from the cited source dialogue. |
+| 9 | Camille | Je ne suis pas bavarde. | I'm not a chatterbox. | #720 00:40:10: Je ne suis pas | adapted: Shortened or rephrased from the cited source dialogue. |
 | 10 | Andréa | Prends tes affaires. | Get your things. | #724 00:40:22: Prends tes affaires | verbatim |
 | 11 | Hervé | C'était bref, mais intense. | It was short, but intense. | #725 00:40:27: C'était bref, mais intense | verbatim |
 | 12 | Hervé | Mais il y a un côté positif. | But there's a bright side. | #726 00:40:30: Mais il y a un côté positif | verbatim |
-| 13 | Hervé | Tu es loin de ce business. Je le pense vraiment. | You're far from this business. I really mean it. | #727 00:40:33: Tu es hors de ce<br>#727 00:40:33: Je le pense vraiment | verbatim |
-| 14 | Hervé | Noémie, dis au revoir à Camille! | Noémie, say goodbye to Camille! | #728 00:40:38: dire au revoir à Camille | verbatim |
-| 15 | Camille | Ce n'est pas grave. Elle est pressée. | It doesn't matter. She's in a hurry. | #730 00:40:44: je suis pressée | verbatim |
+| 13 | Hervé | Tu es loin de ce business. Je le pense vraiment. | You're far from this business. I really mean it. | #727 00:40:33: Tu es hors de ce<br>#727 00:40:33: Je le pense vraiment | adapted: Shortened or rephrased from the cited source dialogue. |
+| 14 | Hervé | Noémie, dis au revoir à Camille! | Noémie, say goodbye to Camille! | #728 00:40:38: dire au revoir à Camille | adapted: Shortened or rephrased from the cited source dialogue. |
+| 15 | Camille | Ce n'est pas grave. Elle est pressée. | It doesn't matter. She's in a hurry. | #730 00:40:44: je suis pressée | adapted: New reply summarises Noemie's comment in the third person, keeping the condensed scene to three voices. |
 | 16 | Camille | Bon, au revoir. | Well, goodbye. | #733 00:40:54: Bon, au revoir | verbatim |
 | 17 | Hervé | Au revoir, Camille. Bon courage! | Goodbye, Camille. Good luck! | new | new |
 | 18 | Camille | Je suis sûre qu'on se reverra. | I'm sure we'll see each other again. | #734 00:40:55: Je suis sûre qu'on se reverra | verbatim |
@@ -51,3 +51,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well, goodbye.' The first word is a little sigh that means 'right then'. Hervé answers warmly.
 - 'Goodbye, Camille. Good luck!' This second phrase literally means 'good courage', and it's how you wish someone strength for something hard. And Camille leaves on a hopeful note.
 - 'I'm sure we'll see each other again.' The description 'sure' has a feminine spelling for Camille. The action at the end points to a future meeting and includes the idea of seeing each other again.
+
+## Primary-video review
+
+The dismissal and farewell speakers were checked. Camille’s third-person reply about Noemie is explicitly labelled as newly written connective dialogue.

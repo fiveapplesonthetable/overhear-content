@@ -10,12 +10,14 @@ PAIR = 'fr-en'
 LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
-INTRO = ('After the riding-school argument, Cecile asks Gabriel to come with her to the clinic. He drives her there '
- 'the next day and waits while she considers the treatment proposed for the film. Hear the French first and '
- 'listen for the change in her decision.')
-OPENER = "Let's take it a line at a time. They're in the car, and Gabriel asks the question he has been avoiding."
+INTRO = ('After the riding-school argument, Cecile asks Gabriel to come with her to the clinic. He takes her there '
+ 'by scooter the next day and waits outside while she considers the treatment proposed for the film. Hear '
+ 'the French first and listen for the change in her decision.')
+OPENER = ("Let's take it a line at a time. After the difficult ride, Gabriel and Cecile sit together at the stables "
+ 'and talk about the clinic.')
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'So Cécile keeps her face, and Gabriel gets his client back. Listen out for that happy little yes at the end when you watch. See you next time!'
+OUTRO = ('Cecile decides against the treatment, and Gabriel becomes her agent again. Listen for the requests, the '
+ 'thanks and the final enthusiastic yes when you hear the scene again.')
 CLOSING = ('gabriel', 'Au revoir!')
 STORY = [('gabriel',
   'Tu vas à la clinique quand?',
@@ -75,10 +77,11 @@ STORY = [('gabriel',
   [(894, 'Encore là')],
   'Shortened or rephrased from the cited source dialogue.'),
  ('cecile',
-  'Je ne le fais pas. Jamais!',
-  "I'm not doing it. Never!",
-  [(895, 'Jamais')],
-  'Shortened or rephrased from the cited source dialogue.'),
+  'Je ne le fais pas.',
+  "I'm not doing it.",
+  [],
+  'New short line expresses Cecile’s decision shown by her return from the clinic; not a quotation of the '
+  'ambiguous source jamais turn.'),
  ('gabriel',
   'Je le savais! Tu es une grande actrice.',
   "I knew it! You're a great actress.",
@@ -113,8 +116,8 @@ WALK = [(0,
   'a convenient answer when someone has not committed to yes.'),
  (6,
   None,
-  "'Thanks for the lift.' The preposition after 'thanks' introduces the thing being thanked for. The noun "
-  'can describe a journey, and here it is the car ride Gabriel gave her.'),
+  "'Thanks for the lift.' The preposition after 'thanks' introduces the thing being thanked for. Here the "
+  'journey was a scooter ride, and they are standing outside the clinic.'),
  (7,
   'Ne fais pas cette tête.',
   "'Don't make that face.' Cécile gives an order in the casual form, made negative."),
@@ -137,12 +140,12 @@ WALK = [(0,
   "without an article. The doctor's name follows the small word meaning 'with'."),
  (12,
   None,
-  "'Gabriel? You're still here?' The short word before 'here' means 'still'. The question shows Cecile did "
-  'not expect him to remain outside.'),
+  "'Gabriel? You're still here?' The small word before 'here' means 'still'. Cecile comes back outside and "
+  'finds that Gabriel has waited with his scooter.'),
  (13,
   None,
-  "'I'm not doing it. Never!' First the negation around the verb, then the word for 'never' on its own, as a "
-  'complete answer.'),
+  "'I'm not doing it.' This short line makes Cecile's decision explicit. The object meaning 'it' goes before "
+  "'do', inside the two little negative words."),
  (14,
   None,
   "'I knew it! You're a great actress.' The word for 'great' comes before the noun here, and it is feminine "
