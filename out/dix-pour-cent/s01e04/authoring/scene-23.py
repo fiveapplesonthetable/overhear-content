@@ -92,16 +92,18 @@ STORY = [('audrey',
   'Mathias greets people when he returns to the agency; not a farewell on a train.')]
 WALK = [(0,
   None,
-  "'Augustin had chosen another actress. It was horrible.' The first action was already completed before this "
-  "argument: a past helping form of 'have' comes before 'chosen'. The next sentence reacts to the encounter."),
+  "'Augustin had chosen another actress. It was horrible.' French uses a past form of having before the past form "
+  "of choosing. Together they place Augustin's choice before the events Audrey is talking about. English does the "
+  'same job with had chosen.'),
  (1,
   None,
   "'Actors always take someone else's role.' The action word 'to take' is in its plural form, and 'always' sits "
   'right after it.'),
  (2,
   None,
-  "'Did you take a good look at Armelle? She's going to be fantastic!' First the past with 'have', then the near "
-  "future with 'is going to be'."),
+  "'Did you take a good look at Armelle? She's going to be fantastic!' French uses a past form of looking for the "
+  'first question. In the next sentence, going followed by being describes a future result. Audrey moves from '
+  'what she saw to what she expects.'),
  (3,
   None,
   "'So you don't need money, after all.' French says 'have need of' for 'need'. The short linking sound before "
@@ -112,8 +114,9 @@ WALK = [(0,
   "feminine ending because 'me' is Audrey."),
  (5,
   None,
-  "'It's not because of that! You don't want to leave your children.' The first short phrase rejects her "
-  "explanation. The second negative surrounds 'want', while 'leave' stays in its plain form afterwards."),
+  "'It's not because of that! You don't want to leave your children.' French puts the negative around the action "
+  'of wanting. The next action, leaving, keeps its basic form. You can reuse this pattern to say that you do not '
+  'want to do something.'),
  (6,
   None,
   "'Nonsense!' Audrey uses a very common three-word expression that literally means 'no matter what', used "
@@ -131,26 +134,27 @@ WALK = [(0,
   'plural.'),
  (10,
   None,
-  "'Do I abandon them for six months a year? You didn't tell me about Canada!' The object meaning them goes "
-  'before the action. Audrey worries about spending months of each year away from her children; the specific '
-  'Canada shoot is one month, not six.'),
+  "'Do I abandon them for six months a year? You didn't tell me about Canada!' French puts the word for them "
+  'before the action of abandoning. The expression for six months a year gives a repeated yearly amount. The '
+  'specific Canada shoot lasts one month.'),
  (11,
   None,
-  "'I didn't know.' This past form of 'know' describes someone's state of knowledge. It is different from saying "
-  'that they found something out at a particular moment.'),
+  "'I didn't know.' French uses this past form of knowing to describe what Mathias knew at the time. It describes "
+  'his state of knowledge before this conversation. He is denying that he knew about the trip.'),
  (12,
   None,
   "'And it's impossible to work with a baby around all the time.' The description 'impossible' is followed by a "
   "linking word and the plain action 'work'. This is Audrey's objection to taking her baby everywhere."),
  (13,
   None,
-  "'You owe a lot of money in taxes.' The action means owe before an amount of money. Mathias reminds Audrey of "
-  'the bill she still has to pay.'),
+  "'You owe a lot of money in taxes.' French uses the same action word for owing money and having to do "
+  'something. Here the money amount makes the meaning clear: Audrey owes a debt. When another action follows this '
+  'word, it can express an obligation.'),
  (14,
   None,
   "'But I wish you good luck!' Mathias ends his own reminder about her tax debt with this sarcastic wish. The "
   'polite object means Audrey is the recipient; the feminine description matches luck.'),
  (15,
   None,
-  "'Hello!' Mathias has returned to the agency. The same everyday greeting works when arriving at an office as "
-  'when meeting someone outside.')]
+  "'Hello!' This everyday word is a greeting when you arrive or meet someone during the day. You can use it at an "
+  'office, in a shop or when meeting a neighbour. Mathias uses it as he returns to the agency.')]
