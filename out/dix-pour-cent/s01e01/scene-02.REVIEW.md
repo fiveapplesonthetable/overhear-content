@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'll take that. Thanks.' The present form of 'take' suits a decision made right now. The small word after it points to the thing being offered.
 - 'You're also having lunch with Dany Boon tomorrow.' The extra word meaning 'also' reveals the problem. Both lunches are on the same day.
 - 'You're a pain, Magali.' The adjective can describe something difficult or tiresome. Applied to a person here, it sounds like an irritated complaint.
-- 'One at noon, the other at two.' The pair 'one' and 'the other' separates the two appointments. Fourteen hours on the clock means two in the afternoon.
+- 'One at noon, the other at two.' This contrast separates two different appointments: the first and the second. Fourteen hours on the clock means two in the afternoon.
 - 'I'm going to have lunch twice.' A form of 'go' followed by an action gives a plan for the future. The last two words literally say 'two times'.
 - 'Call Clementine.' An instruction can begin straight with the action, without a separate word for 'you'. This one addresses a familiar person.
 - 'Tell her I can't come tonight.' In this instruction the little word for 'to her' attaches after 'tell'. In an ordinary statement it would go before the action.
