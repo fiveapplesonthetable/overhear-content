@@ -6,13 +6,12 @@
  "level": "A1 — débutant",
  "labels": {
   "camille": "Camille",
-  "mathias": "Mathias",
-  "noemie": "Noémie"
+  "mathias": "Mathias"
  },
  "segments": [
   {
    "v": "narrator",
-   "t": "Sofia has let Camille through to Mathias's office. Noemie takes their drinks order, and then the conversation becomes much more familiar. Listen for Camille's plans and Mathias's reluctant answers.",
+   "t": "Mathias greets Camille at the agency, then continues their conversation at a restaurant. He orders coffee, she asks for tea, and they begin to talk about her plans in Paris. Listen to the polite order and the much more familiar conversation that follows.",
    "gap": 0.8
   },
   {
@@ -21,18 +20,13 @@
    "gap": 0.55
   },
   {
-   "v": "camille",
+   "v": "mathias",
    "t": "Un café, s'il vous plaît.",
    "gap": 0.55
   },
   {
-   "v": "noemie",
-   "t": "Très bien. Et vous?",
-   "gap": 0.55
-  },
-  {
-   "v": "mathias",
-   "t": "Un thé. Merci.",
+   "v": "camille",
+   "t": "Un thé.",
    "gap": 0.55
   },
   {
@@ -102,7 +96,7 @@
   },
   {
    "v": "narrator",
-   "t": "Let's go through it. Mathias greets her in the doorway, in front of his assistant, and he is very proper about it.",
+   "t": "Let's go through the meeting. Mathias first greets Camille at the agency; at the restaurant, a waiter takes their drinks order.",
    "gap": 0.4
   },
   {
@@ -126,7 +120,7 @@
    "gap": 0.4
   },
   {
-   "v": "camille",
+   "v": "mathias",
    "t": "Un café, s'il vous plaît.",
    "gap": 0.55
   },
@@ -136,23 +130,13 @@
    "gap": 0.4
   },
   {
-   "v": "noemie",
-   "t": "Très bien. Et vous?",
+   "v": "camille",
+   "t": "Un thé.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Very well. And you?' Noemie turns the question to Mathias. The polite form of 'you' stands alone here because the drinks request is already understood.",
-   "gap": 0.4
-  },
-  {
-   "v": "mathias",
-   "t": "Un thé. Merci.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Tea. Thank you.' Mathias answers with the drink and its small word meaning 'a'. A complete sentence is unnecessary when someone has just asked what you want.",
+   "t": "'Tea.' Camille names her drink in one short group. The little word before it means 'a', as in Mathias's coffee order. A complete sentence is unnecessary when the waiter is taking an order.",
    "gap": 0.4
   },
   {
@@ -182,7 +166,7 @@
   },
   {
    "v": "narrator",
-   "t": "'It's nice here. Free lollipops!' She has spotted a bowl of sticks on the reception desk. The word for 'nice' here is a friendly, informal one.",
+   "t": "'It's nice here. Free lollipops!' At the restaurant table, Camille mistakes the wrapped sugar sticks for sweets. The informal description 'nice' fits her cheerful first impression.",
    "gap": 0.4
   },
   {
@@ -192,7 +176,7 @@
   },
   {
    "v": "narrator",
-   "t": "'It's sugar for the coffee.' The little word before 'sugar' means an unspecified amount. French uses it here even though English can simply say 'sugar'.",
+   "t": "'It's sugar for the coffee.' The little word before 'sugar' names an unspecified amount. Mathias points out what the sticks really are.",
    "gap": 0.4
   },
   {
@@ -301,18 +285,13 @@
    "gap": 0.5
   },
   {
-   "v": "camille",
+   "v": "mathias",
    "t": "Un café, s'il vous plaît.",
    "gap": 0.5
   },
   {
-   "v": "noemie",
-   "t": "Très bien. Et vous?",
-   "gap": 0.5
-  },
-  {
-   "v": "mathias",
-   "t": "Un thé. Merci.",
+   "v": "camille",
+   "t": "Un thé.",
    "gap": 0.5
   },
   {
@@ -382,7 +361,7 @@
   },
   {
    "v": "narrator",
-   "t": "Did you notice the switch from the formal 'you' to the casual one as soon as the door closed? That small change gives away a father and daughter. See you next time!",
+   "t": "You have heard a polite order to a waiter and a familiar conversation between people who know each other well. The word for you changes with the person being addressed. See you next time.",
    "gap": 0.5
   },
   {
@@ -413,130 +392,120 @@
    {
     "line": 2,
     "cue": 126,
-    "fragment": "Très bien. Et vous ?"
-   },
-   {
-    "line": 3,
-    "cue": 126,
     "fragment": "Un thé ?"
    },
    {
     "line": 3,
-    "cue": 127,
-    "fragment": "Merci"
-   },
-   {
-    "line": 4,
     "cue": 128,
     "fragment": "Pourquoi tu n'as pas appelé ?"
    },
    {
-    "line": 5,
+    "line": 4,
     "cue": 129,
     "fragment": "Je sais pas"
    },
    {
-    "line": 5,
+    "line": 4,
     "cue": 129,
     "fragment": "Je voulais te faire la surprise"
    },
    {
-    "line": 6,
+    "line": 5,
     "cue": 133,
     "fragment": "C'est sympa ici"
    },
    {
-    "line": 6,
+    "line": 5,
     "cue": 134,
     "fragment": "Des sucettes gratuites"
    },
    {
-    "line": 7,
+    "line": 6,
     "cue": 135,
     "fragment": "C'est du sucre pour le café"
    },
    {
-    "line": 8,
+    "line": 7,
     "cue": 137,
     "fragment": "Qu'est-ce que tu fais à Paris ? Tu es en vacances ?"
    },
    {
-    "line": 9,
+    "line": 8,
     "cue": 138,
     "fragment": "En quelque sorte"
    },
    {
-    "line": 9,
+    "line": 8,
     "cue": 139,
     "fragment": "Ça fait trois semaines que je suis là"
    },
    {
-    "line": 10,
+    "line": 9,
     "cue": 141,
     "fragment": "Tu n'aimais pas"
    },
    {
-    "line": 10,
+    "line": 9,
     "cue": 141,
     "fragment": "Mandelieu"
    },
    {
-    "line": 10,
+    "line": 9,
     "cue": 142,
     "fragment": "C'est un bel endroit"
    },
    {
-    "line": 11,
+    "line": 10,
     "cue": 150,
     "fragment": "un petit loft"
    },
    {
-    "line": 11,
+    "line": 10,
     "cue": 151,
     "fragment": "Et je cherche du boulot"
    },
    {
-    "line": 12,
+    "line": 11,
     "cue": 152,
     "fragment": "tu connais beaucoup de monde dans le cinéma"
    },
    {
-    "line": 12,
+    "line": 11,
     "cue": 153,
     "fragment": "tu pourrais m'aider"
    },
    {
-    "line": 13,
+    "line": 12,
     "cue": 154,
     "fragment": "Un nouveau caprice ?"
    },
    {
-    "line": 14,
+    "line": 13,
     "cue": 155,
     "fragment": "je suis sérieuse"
    },
    {
-    "line": 14,
+    "line": 13,
     "cue": 156,
     "fragment": "J'ai toujours adoré le cinéma"
    },
    {
-    "line": 15,
+    "line": 14,
     "cue": 161,
     "fragment": "Écoute"
    },
    {
-    "line": 15,
+    "line": 14,
     "cue": 163,
     "fragment": "C'est une industrie"
    },
    {
-    "line": 15,
+    "line": 14,
     "cue": 164,
     "fragment": "et elle est pleine de requins"
    },
    {
-    "line": 16,
+    "line": 15,
     "cue": 170,
     "fragment": "Désolé, c'est tout ce que je peux faire"
    }
