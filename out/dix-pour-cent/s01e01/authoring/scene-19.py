@@ -87,11 +87,10 @@ WALK = [(0,
   'depending on where the speaker is looking.'),
  (1,
   None,
-  "'Noémie, I have a problem.' Simple and direct: I have, then the thing. She tries to sound casual."),
+  "'Noémie, I have a problem.' French uses a form of 'have' to say that there is a problem, just as English does here. The article before 'problem' is masculine and singular; it introduces a problem she has not yet explained."),
  (2,
   None,
-  "'I think you can help me.' A short linking word joins 'think' to the next statement. Camille uses the "
-  'familiar address with Noemie, as the assistants do with each other.'),
+  "'I think you can help me.' A short linking word joins 'think' to the next statement. After 'can', 'help' stays in its infinitive form. The little object meaning 'me' goes immediately before 'help'."),
  (3,
   None,
   "'I don't think so.' The two negative words surround 'think'. Noemie is reluctant to help, and suspicious "
@@ -115,8 +114,7 @@ WALK = [(0,
   'address each other. Noemie now asks what Camille actually needs.'),
  (7,
   None,
-  "'I don't know anything about contracts.' Negative plus 'nothing' again. Camille plays the innocent "
-  'beginner, which is partly true.'),
+  "'I don't know anything about contracts.' Here 'nothing' replaces the ordinary negative 'not'. The word before 'contracts' combines 'to' with the plural article 'the'; French uses that combination after this way of saying 'know nothing'."),
  (8,
   'Je peux regarder un contrat de Mathias?',
   "'Can I look at one of Mathias's contracts?' The owner follows a short word meaning 'of'. French says 'a "
@@ -135,8 +133,7 @@ WALK = [(0,
   "after it. The possessive before 'contracts' is plural because there is more than one contract."),
  (11,
   None,
-  "'Where's the traitor? Where's the mole?' Gabriel repeats the same question pattern with two different "
-  "people to find. The noun for 'mole' also means a spy inside an organisation."),
+  "'Where's the traitor? Where's the mole?' Both questions put 'where' before 'is'. The two nouns have different grammatical genders: 'traitor' is masculine here, while 'mole' is feminine. The second is a spy inside an organisation."),
  (12,
   None,
   "'She's gone! She's left me.' The action meaning 'depart' builds this past with 'be'. The action meaning "
