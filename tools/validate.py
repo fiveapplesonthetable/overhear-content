@@ -804,6 +804,25 @@ def check_scenes(epdir, show, rep):
                     out = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") in cue and not any(start - 2 <= cue[ln["cue"]][0] <= end + 2 for start, end in source_ranges)]
                     if out: rep.err(sw, f"{len(out)} source cues lie outside this lesson's scene and merged source ranges (first: cue {out[0]}); tie lines only to cues of the scene or its merged transitions")
                     if excerpt_bounds:
+                        citations = d["source"].get("lines", [])
+                        native_start = next((i for i, seg in enumerate(d.get("segments", [])) if seg.get("v") != "narrator"), None)
+                        story = []
+                        if native_start is not None:
+                            for seg in d["segments"][native_start:]:
+                                if seg.get("v") == "narrator": break
+                                story.append(seg.get("t", ""))
+                        if not citations or not story:
+                            rep.err(sw, "excerpt must bind every story line to a source citation")
+                        cited = set()
+                        for citation in citations:
+                            line = citation.get("line")
+                            if not isinstance(line, int) or isinstance(line, bool) or not 0 <= line < len(story):
+                                rep.err(sw, "excerpt citation line must index its original story")
+                            elif not squash(citation.get("fragment", "")) or squash(citation["fragment"]) not in squash(story[line]):
+                                rep.err(sw, "excerpt citation fragment must occur in its indexed story line")
+                            else: cited.add(line)
+                        if set(range(len(story))) - cited:
+                            rep.err(sw, "excerpt has story lines without source citations")
                         if (ROOT / d["source"].get("file", "")).resolve() != srt.resolve():
                             rep.err(sw, "excerpt script source.file must match its hashed coverage subtitle file")
                         outside_scope = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") not in scoped_cue]
