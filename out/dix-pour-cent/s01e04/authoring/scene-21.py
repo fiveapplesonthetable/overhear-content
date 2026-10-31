@@ -65,10 +65,10 @@ STORY = [('audrey',
   [(565, "J'ai apporté cinq exemplaires des contrats")],
   ''),
  ('audrey',
-  "Attends une seconde. C'est un questionnaire pour la nounou.",
+  "Attendez une seconde. C'est un questionnaire pour la nounou.",
   'Wait a second. This is a questionnaire for the nanny.',
   [(566, 'Attends une seconde'), (567, "C'est pour la nounou")],
-  ''),
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.'),
  ('mathias',
   "Avez-vous un problème avec l'alcool, le Coca-Cola, les bonbons?",
   'Do you have a problem with alcohol, Coca-Cola, sweets?',
@@ -81,10 +81,10 @@ STORY = [('audrey',
   [(569, 'Le sucre est'), (570, "J'ai vu un documentaire")],
   ''),
  ('audrey',
-  'Dis-moi ce que tu en penses.',
+  'Dites-moi ce que vous en pensez.',
   'Tell me what you think of it.',
   [(571, 'Dis-moi ce que tu en penses')],
-  '')]
+  'Original French audio checked: register/speaker corrected from backtranslated SRT.')]
 WALK = [(0,
   None,
   "'I didn't have time to buy an outfit.' Literally 'I have not had the time to buy'. With two small children, "
@@ -130,8 +130,8 @@ WALK = [(0,
   "before contracts means 'of the', linking the copies to those documents."),
  (10,
   None,
-  "'Wait a second. This is a questionnaire for the nanny.' The opening uses a casual command from 'wait', "
-  'followed by a small amount of time. Audrey interrupts the business discussion for another request.'),
+  "'Wait a second. This is a questionnaire for the nanny.' Audrey interrupts the contract discussion with a "
+  'polite request for a brief pause. The last phrase names the person she hopes to hire.'),
  (11,
   None,
   "'Do you have a problem with alcohol, Coca-Cola, sweets?' The order of 'have' and 'you' is reversed to make a "
@@ -146,5 +146,5 @@ WALK = [(0,
   "past form of 'see' sounds very different from the present 'I see'."),
  (14,
   None,
-  "'Tell me what you think of it.' Literally 'tell me that which you think of it'. Let's listen to the whole "
-  'scene again without stopping.')]
+  "'Tell me what you think of it.' Audrey asks Mathias for his opinion using polite address. The short object "
+  'before thinking refers back to the questionnaire.')]
