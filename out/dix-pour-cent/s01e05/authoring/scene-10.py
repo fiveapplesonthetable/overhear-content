@@ -153,8 +153,8 @@ WALK = [(0,
   'expression rejects the news as unbelievable.'),
  (12,
   None,
-  "'My mother is going to be very sad.' The possessive my follows the feminine word for mother. The form of "
-  'go before be presents her sadness as an expected consequence.'),
+  "'My mother is going to be very sad.' The possessive my takes a feminine form with the word for mother. "
+  'The form of go before be presents her sadness as an expected consequence.'),
  (13,
   None,
   "'She watches the series every day!' The phrase for every day literally says all the days. French uses the "
