@@ -4,15 +4,15 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Make a list of Mathias",
+      "trans": "Make a list of Mathias's actors. We have to be quick.",
       "words": [
         {
           "t": "Fais",
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "are doing",
-          "gram": "present, 2nd person singular"
+          "gloss": "make",
+          "gram": "imperative, 2nd singular"
         },
         {
           "t": "une",
@@ -32,11 +32,11 @@
         },
         {
           "t": "des",
-          "lemma": "un",
-          "pos": "det",
+          "lemma": "de",
+          "pos": "prep",
           "stress": "de",
-          "gloss": "some (often not translated)",
-          "gram": "indefinite article, plural"
+          "gloss": "of the",
+          "gram": "de + les, links list to actors"
         },
         {
           "t": "acteurs",
@@ -51,8 +51,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "preposition linking deed with Mathias"
         },
         {
           "t": "Mathias.",
@@ -64,11 +64,11 @@
         },
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "it",
+          "gram": "impersonal subject of falloir"
         },
         {
           "t": "faut",
@@ -83,8 +83,8 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "(faire confiance) trust",
-          "gram": "infinitive, after pouvoir"
+          "gloss": "do, act",
+          "gram": "infinitive after falloir, faire vite = act quickly"
         },
         {
           "t": "vite.",
@@ -103,18 +103,18 @@
         {
           "t": "L'Allemand",
           "lemma": "allemand",
-          "pos": "adj",
-          "stress": "lalmɑ̃",
-          "gloss": "the German",
-          "gram": "le (elided l') + Allemand, masculine singular"
+          "pos": "noun",
+          "stress": "almɑ̃",
+          "gloss": "the German buyer",
+          "gram": "le + Allemand, masculine noun naming a person"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
           "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "reflexive pronoun, part of se passer"
+          "gloss": "himself",
+          "gram": "reflexive pronoun in se retirer, pull out"
         },
         {
           "t": "retire.",
@@ -146,19 +146,19 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present 3rd singular, past auxiliary"
         },
         {
           "t": "appris",
@@ -208,11 +208,11 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "dit",
@@ -220,7 +220,7 @@
           "pos": "verb",
           "stress": "di",
           "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gram": "present 3rd singular"
         },
         {
           "t": "que",
@@ -243,8 +243,8 @@
           "lemma": "lui",
           "pos": "pron",
           "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
+          "gloss": "him",
+          "gram": "stressed pronoun after sans"
         },
         {
           "t": "l'agence",
@@ -259,8 +259,8 @@
           "lemma": "aller",
           "pos": "verb",
           "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+          "gloss": "is going",
+          "gram": "present 3rd singular, near future"
         },
         {
           "t": "perdre",
@@ -268,7 +268,7 @@
           "pos": "verb",
           "stress": "pɛʁdʁ",
           "gloss": "to lose, losing",
-          "gram": "infinitive after 'aimer'"
+          "gram": "infinitive after aller, near future"
         },
         {
           "t": "trop",
@@ -283,8 +283,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "quantity link after trop"
         },
         {
           "t": "valeur.",
@@ -297,8 +297,6 @@
       ]
     },
     {
-      "seg": 6,
-      "trans": "Are you sure about it? What does Hélène say?",
       "words": [
         {
           "t": "Tu",
@@ -311,10 +309,10 @@
         {
           "t": "en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "about it",
+          "gram": "object referring to the news"
         },
         {
           "t": "es",
@@ -331,52 +329,30 @@
           "stress": "syʁ",
           "gloss": "sure",
           "gram": "feminine singular"
-        },
-        {
-          "t": "Qu'est-ce",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kɛs",
-          "gloss": "what is",
-          "gram": "qu' (what) + est-ce (is it): question opener"
-        },
-        {
-          "t": "qu'Hélène",
-          "lemma": "hélène",
-          "pos": "name",
-          "stress": null,
-          "gloss": "that Hélène",
-          "gram": "que (elided qu') + Hélène Kerr"
-        },
-        {
-          "t": "dit?",
-          "lemma": "dire",
-          "pos": "verb",
-          "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
         }
-      ]
+      ],
+      "seg": 6,
+      "trans": "Are you sure about it?"
     },
     {
       "seg": 7,
-      "trans": "She",
+      "trans": "She's furious with Mathias.",
       "words": [
         {
           "t": "Elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
-          "gram": "subject pronoun, 3rd person feminine singular"
+          "gloss": "she",
+          "gram": "subject, Hélène"
         },
         {
           "t": "est",
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present 3rd singular"
         },
         {
           "t": "furieuse",
@@ -406,96 +382,88 @@
     },
     {
       "seg": 8,
-      "trans": "And what if he did it on purpose? To save the agency!",
+      "trans": "A generous act from Mathias? What a joke!",
       "words": [
         {
-          "t": "Et",
-          "lemma": "et",
-          "pos": "conj",
-          "stress": "e",
-          "gloss": "and",
-          "gram": "coordinating conjunction"
+          "t": "Un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
         },
         {
-          "t": "s'il",
-          "lemma": "si",
-          "pos": "conj",
-          "stress": "sil",
-          "gloss": "if he, if it",
-          "gram": "si (if) + il (he/it)"
-        },
-        {
-          "t": "l'avait",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "lavɛ",
-          "gloss": "had him/her/it",
-          "gram": "le/la (him/her/it) + avait: 3rd person singular imperfect of avoir"
-        },
-        {
-          "t": "fait",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
-        },
-        {
-          "t": "exprès?",
-          "lemma": "exprès",
-          "pos": "adv",
-          "stress": "ɛkspʁɛ",
-          "gloss": "on purpose",
-          "gram": "'sans faire exprès' = without meaning to, by accident"
-        },
-        {
-          "t": "Pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "sauver",
-          "lemma": "sauver",
-          "pos": "verb",
-          "stress": "sove",
-          "gloss": "save",
-          "gram": "infinitive"
-        },
-        {
-          "t": "l'agence!",
-          "lemma": "agence",
+          "t": "acte",
+          "lemma": "acte",
           "pos": "noun",
-          "stress": "laʒɑ̃s",
-          "gloss": "the agency",
-          "gram": "l' (elided la) + agence, feminine singular"
+          "stress": "akt",
+          "gloss": "deed, act",
+          "gram": "masculine singular, a person’s action"
+        },
+        {
+          "t": "généreux",
+          "lemma": "généreux",
+          "pos": "adj",
+          "stress": "ʒeneʁø",
+          "gloss": "generous",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition linking deed with Mathias"
+        },
+        {
+          "t": "Mathias?",
+          "lemma": "mathias",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mathias",
+          "gram": "first name"
+        },
+        {
+          "t": "Quelle",
+          "lemma": "quel",
+          "pos": "det",
+          "stress": "kɛl",
+          "gloss": "what (a)",
+          "gram": "exclamative, feminine singular"
+        },
+        {
+          "t": "blague!",
+          "lemma": "blague",
+          "pos": "noun",
+          "stress": "blaɡ",
+          "gloss": "joke",
+          "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 9,
-      "trans": "A generous act from Mathias? What a joke!",
+      "trans": "Maybe not generous, but he's a strategist.",
       "words": [
         {
-          "t": "Un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "t": "Peut-être",
+          "lemma": "peut-être",
+          "pos": "adv",
+          "stress": "pøtɛtʁ",
+          "gloss": "maybe",
+          "gram": "invariable adverb ('peut-être', meaning 'maybe')"
         },
         {
-          "t": "acte",
-          "lemma": "acte",
-          "pos": "noun",
-          "stress": "akt",
-          "gloss": "act (of a play)",
-          "gram": "masculine singular"
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "part",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
         },
         {
-          "t": "généreux",
+          "t": "généreux,",
           "lemma": "généreux",
           "pos": "adj",
           "stress": "ʒeneʁø",
@@ -503,134 +471,72 @@
           "gram": "masculine singular"
         },
         {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "t": "mais",
+          "lemma": "mais",
+          "pos": "conj",
+          "stress": "mɛ",
+          "gloss": "but",
+          "gram": "coordinating conjunction"
         },
         {
-          "t": "Mathias?",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
+          "t": "c'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "it is, that is",
+          "gram": "ce (it/that) + est: 3rd person singular present of être"
         },
         {
-          "t": "Quelle",
-          "lemma": "quel",
+          "t": "un",
+          "lemma": "un",
           "pos": "det",
-          "stress": "kɛl",
-          "gloss": "what (a)",
-          "gram": "exclamative, feminine singular"
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
         },
         {
-          "t": "blague!",
-          "lemma": "blague",
+          "t": "stratège.",
+          "lemma": "stratège",
           "pos": "noun",
-          "stress": "blaɡ",
-          "gloss": "joke",
-          "gram": "feminine singular"
+          "stress": "stʁatɛʒ",
+          "gloss": "strategist",
+          "gram": "masculine singular"
         }
       ]
     },
     {
       "seg": 10,
-      "trans": "Maybe not generous, but he",
+      "trans": "He's pulling out?",
       "words": [
         {
-          "t": "Peut-être",
-          "lemma": "peut-être",
-          "pos": "adv",
-          "stress": "pøtɛtʁ",
-          "gloss": "maybe",
-          "gram": "invariable adverb ('peut-être', meaning 'maybe')"
+          "t": "Il",
+          "lemma": "il",
+          "pos": "pron",
+          "stress": "il",
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
+          "t": "se",
+          "lemma": "se",
+          "pos": "pron",
+          "stress": "sə",
+          "gloss": "himself",
+          "gram": "reflexive pronoun in se retirer, pull out"
         },
         {
-          "t": "généreux,",
-          "lemma": "généreux",
-          "pos": "adj",
-          "stress": "ʒeneʁø",
-          "gloss": "generous",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "mais",
-          "lemma": "mais",
-          "pos": "conj",
-          "stress": "mɛ",
-          "gloss": "but",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "c'est",
-          "lemma": "être",
+          "t": "retire?",
+          "lemma": "retirer",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it is, that is",
-          "gram": "ce (it/that) + est: 3rd person singular present of être"
-        },
-        {
-          "t": "un",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
-        },
-        {
-          "t": "stratège.",
-          "lemma": "stratège",
-          "pos": "noun",
-          "stress": "stʁatɛʒ",
-          "gloss": "strategist",
-          "gram": "masculine singular"
+          "stress": "ʁətiʁ",
+          "gloss": "withdraws, pulls out",
+          "gram": "present, 3rd person singular of 'se retirer'"
         }
       ]
     },
     {
       "seg": 11,
-      "trans": "He",
-      "words": [
-        {
-          "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
-          "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
-        },
-        {
-          "t": "se",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "reflexive pronoun, part of se passer"
-        },
-        {
-          "t": "retire?",
-          "lemma": "retirer",
-          "pos": "verb",
-          "stress": "ʁətiʁ",
-          "gloss": "withdraws, pulls out",
-          "gram": "present, 3rd person singular of 'se retirer'"
-        }
-      ]
-    },
-    {
-      "seg": 12,
-      "trans": "No, I didn",
+      "trans": "No, I didn't tell Mr Hirsch that I was joining StarMédia.",
       "words": [
         {
           "t": "Non,",
@@ -669,16 +575,16 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "said",
+          "gram": "past participle after ai"
         },
         {
           "t": "à",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "to",
+          "gram": "preposition marking whom he told"
         },
         {
           "t": "monsieur",
@@ -731,8 +637,6 @@
       ]
     },
     {
-      "seg": 13,
-      "trans": "I don",
       "words": [
         {
           "t": "Je",
@@ -772,23 +676,23 @@
           "pos": "adv",
           "stress": "kɔmɑ̃",
           "gloss": "how",
-          "gram": "adverb; 'et comment!' = you bet!"
+          "gram": "introduces an indirect question"
         },
         {
           "t": "il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "l'a",
           "lemma": "avoir",
           "pos": "verb",
           "stress": "la",
-          "gloss": "has him/her/it",
-          "gram": "le/la (him/her/it) + a: 3rd person singular present of avoir"
+          "gloss": "has ... it",
+          "gram": "le + a: object referring to news + past auxiliary, 3rd singular"
         },
         {
           "t": "appris.",
@@ -807,88 +711,34 @@
           "gram": "first name, used to address her"
         },
         {
-          "t": "calme-toi.",
+          "t": "calmez-vous.",
           "lemma": "calmer",
           "pos": "verb",
-          "stress": "kalmtwa",
+          "stress": "kalmevu",
           "gloss": "calm down",
-          "gram": "reflexive imperative, 2nd person singular (se calmer)"
+          "gram": "reflexive imperative, polite/plural address"
         }
-      ]
+      ],
+      "seg": 12,
+      "trans": "I don't know how he found out. Hélène, calm down."
     },
     {
-      "seg": 14,
-      "trans": "Bravo, Mathias! Let me kiss you.",
       "words": [
-        {
-          "t": "Bravo,",
-          "lemma": "bravo",
-          "pos": "interj",
-          "stress": "bʁavo",
-          "gloss": "bravo, well done",
-          "gram": "exclamation of praise"
-        },
-        {
-          "t": "Mathias!",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
-        },
-        {
-          "t": "Laisse-moi",
-          "lemma": "laisser",
-          "pos": "verb",
-          "stress": "lɛsmwa",
-          "gloss": "let me",
-          "gram": "imperative, 2nd person singular (informal) + moi (me)"
-        },
-        {
-          "t": "t'embrasser.",
-          "lemma": "embrasser",
-          "pos": "verb",
-          "stress": "tɑ̃bʁase",
-          "gloss": "kiss you",
-          "gram": "te (elided t') + embrasser, infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 15,
-      "trans": "Thank you, Hélène. I",
-      "words": [
-        {
-          "t": "Merci,",
-          "lemma": "merci",
-          "pos": "interj",
-          "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
-        },
-        {
-          "t": "Hélène.",
-          "lemma": "hélène",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Hélène (Samuel's widow)",
-          "gram": "first name, used to address her"
-        },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Hélène"
         },
         {
           "t": "rappelle.",
@@ -896,107 +746,23 @@
           "pos": "verb",
           "stress": "ʁapɛl",
           "gloss": "call back",
-          "gram": "present, 1st person singular, used for the near future"
+          "gram": "present 1st singular, immediate future in context"
         }
-      ]
+      ],
+      "seg": 13,
+      "trans": "I'll call you back."
     },
     {
-      "seg": 16,
-      "trans": "Great, Mathias! You did something wonderful. Bravo!",
-      "words": [
-        {
-          "t": "Super,",
-          "lemma": "super",
-          "pos": "adj",
-          "stress": "sypɛʁ",
-          "gloss": "great",
-          "gram": "invariable, informal"
-        },
-        {
-          "t": "Mathias!",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
-        },
-        {
-          "t": "Tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
-        },
-        {
-          "t": "as",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "have (got)",
-          "gram": "present, 2nd person singular"
-        },
-        {
-          "t": "fait",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
-        },
-        {
-          "t": "quelque",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "kɛlkə",
-          "gloss": "some (something)",
-          "gram": "part of quelque chose"
-        },
-        {
-          "t": "chose",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "ʃoz",
-          "gloss": "thing (something)",
-          "gram": "part of quelque chose"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "formidable.",
-          "lemma": "formidable",
-          "pos": "adj",
-          "stress": "fɔʁmidabl",
-          "gloss": "wonderful, tremendous",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "Bravo!",
-          "lemma": "bravo",
-          "pos": "interj",
-          "stress": "bʁavo",
-          "gloss": "bravo, well done",
-          "gram": "exclamation of praise"
-        }
-      ]
-    },
-    {
-      "seg": 18,
-      "trans": "Make a list of Mathias",
+      "seg": 15,
+      "trans": "Make a list of Mathias's actors. We have to be quick.",
       "words": [
         {
           "t": "Fais",
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "are doing",
-          "gram": "present, 2nd person singular"
+          "gloss": "make",
+          "gram": "imperative, 2nd singular"
         },
         {
           "t": "une",
@@ -1016,11 +782,11 @@
         },
         {
           "t": "des",
-          "lemma": "un",
-          "pos": "det",
+          "lemma": "de",
+          "pos": "prep",
           "stress": "de",
-          "gloss": "some (often not translated)",
-          "gram": "indefinite article, plural"
+          "gloss": "of the",
+          "gram": "de + les, links list to actors"
         },
         {
           "t": "acteurs",
@@ -1035,8 +801,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "preposition linking deed with Mathias"
         },
         {
           "t": "Mathias.",
@@ -1048,11 +814,11 @@
         },
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "it",
+          "gram": "impersonal subject of falloir"
         },
         {
           "t": "faut",
@@ -1067,8 +833,8 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "(faire confiance) trust",
-          "gram": "infinitive, after pouvoir"
+          "gloss": "do, act",
+          "gram": "infinitive after falloir, faire vite = act quickly"
         },
         {
           "t": "vite.",
@@ -1081,24 +847,24 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 17,
       "trans": "The German is pulling out.",
       "words": [
         {
           "t": "L'Allemand",
           "lemma": "allemand",
-          "pos": "adj",
-          "stress": "lalmɑ̃",
-          "gloss": "the German",
-          "gram": "le (elided l') + Allemand, masculine singular"
+          "pos": "noun",
+          "stress": "almɑ̃",
+          "gloss": "the German buyer",
+          "gram": "le + Allemand, masculine noun naming a person"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
           "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "reflexive pronoun, part of se passer"
+          "gloss": "himself",
+          "gram": "reflexive pronoun in se retirer, pull out"
         },
         {
           "t": "retire.",
@@ -1111,7 +877,7 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 19,
       "trans": "What?",
       "words": [
         {
@@ -1125,24 +891,24 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 21,
       "trans": "He heard that Mathias is joining StarMédia.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present 3rd singular, past auxiliary"
         },
         {
           "t": "appris",
@@ -1187,16 +953,16 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 23,
       "trans": "He says that without him, the agency is going to lose too much value.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "dit",
@@ -1204,7 +970,7 @@
           "pos": "verb",
           "stress": "di",
           "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gram": "present 3rd singular"
         },
         {
           "t": "que",
@@ -1227,8 +993,8 @@
           "lemma": "lui",
           "pos": "pron",
           "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
+          "gloss": "him",
+          "gram": "stressed pronoun after sans"
         },
         {
           "t": "l'agence",
@@ -1243,8 +1009,8 @@
           "lemma": "aller",
           "pos": "verb",
           "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+          "gloss": "is going",
+          "gram": "present 3rd singular, near future"
         },
         {
           "t": "perdre",
@@ -1252,7 +1018,7 @@
           "pos": "verb",
           "stress": "pɛʁdʁ",
           "gloss": "to lose, losing",
-          "gram": "infinitive after 'aimer'"
+          "gram": "infinitive after aller, near future"
         },
         {
           "t": "trop",
@@ -1267,8 +1033,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "quantity link after trop"
         },
         {
           "t": "valeur.",
@@ -1281,8 +1047,6 @@
       ]
     },
     {
-      "seg": 28,
-      "trans": "Are you sure about it? What does Hélène say?",
       "words": [
         {
           "t": "Tu",
@@ -1295,10 +1059,10 @@
         {
           "t": "en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "about it",
+          "gram": "object referring to the news"
         },
         {
           "t": "es",
@@ -1315,52 +1079,30 @@
           "stress": "syʁ",
           "gloss": "sure",
           "gram": "feminine singular"
-        },
-        {
-          "t": "Qu'est-ce",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kɛs",
-          "gloss": "what is",
-          "gram": "qu' (what) + est-ce (is it): question opener"
-        },
-        {
-          "t": "qu'Hélène",
-          "lemma": "hélène",
-          "pos": "name",
-          "stress": null,
-          "gloss": "that Hélène",
-          "gram": "que (elided qu') + Hélène Kerr"
-        },
-        {
-          "t": "dit?",
-          "lemma": "dire",
-          "pos": "verb",
-          "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
         }
-      ]
+      ],
+      "seg": 25,
+      "trans": "Are you sure about it?"
     },
     {
-      "seg": 30,
-      "trans": "She",
+      "seg": 27,
+      "trans": "She's furious with Mathias.",
       "words": [
         {
           "t": "Elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
-          "gram": "subject pronoun, 3rd person feminine singular"
+          "gloss": "she",
+          "gram": "subject, Hélène"
         },
         {
           "t": "est",
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present 3rd singular"
         },
         {
           "t": "furieuse",
@@ -1389,77 +1131,7 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "And what if he did it on purpose? To save the agency!",
-      "words": [
-        {
-          "t": "Et",
-          "lemma": "et",
-          "pos": "conj",
-          "stress": "e",
-          "gloss": "and",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "s'il",
-          "lemma": "si",
-          "pos": "conj",
-          "stress": "sil",
-          "gloss": "if he, if it",
-          "gram": "si (if) + il (he/it)"
-        },
-        {
-          "t": "l'avait",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "lavɛ",
-          "gloss": "had him/her/it",
-          "gram": "le/la (him/her/it) + avait: 3rd person singular imperfect of avoir"
-        },
-        {
-          "t": "fait",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
-        },
-        {
-          "t": "exprès?",
-          "lemma": "exprès",
-          "pos": "adv",
-          "stress": "ɛkspʁɛ",
-          "gloss": "on purpose",
-          "gram": "'sans faire exprès' = without meaning to, by accident"
-        },
-        {
-          "t": "Pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "sauver",
-          "lemma": "sauver",
-          "pos": "verb",
-          "stress": "sove",
-          "gloss": "save",
-          "gram": "infinitive"
-        },
-        {
-          "t": "l'agence!",
-          "lemma": "agence",
-          "pos": "noun",
-          "stress": "laʒɑ̃s",
-          "gloss": "the agency",
-          "gram": "l' (elided la) + agence, feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 34,
+      "seg": 29,
       "trans": "A generous act from Mathias? What a joke!",
       "words": [
         {
@@ -1475,8 +1147,8 @@
           "lemma": "acte",
           "pos": "noun",
           "stress": "akt",
-          "gloss": "act (of a play)",
-          "gram": "masculine singular"
+          "gloss": "deed, act",
+          "gram": "masculine singular, a person’s action"
         },
         {
           "t": "généreux",
@@ -1491,8 +1163,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "preposition linking deed with Mathias"
         },
         {
           "t": "Mathias?",
@@ -1521,8 +1193,8 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "Maybe not generous, but he",
+      "seg": 31,
+      "trans": "Maybe not generous, but he's a strategist.",
       "words": [
         {
           "t": "Peut-être",
@@ -1583,24 +1255,24 @@
       ]
     },
     {
-      "seg": 38,
-      "trans": "He",
+      "seg": 33,
+      "trans": "He's pulling out?",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
           "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "reflexive pronoun, part of se passer"
+          "gloss": "himself",
+          "gram": "reflexive pronoun in se retirer, pull out"
         },
         {
           "t": "retire?",
@@ -1613,8 +1285,8 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "No, I didn",
+      "seg": 35,
+      "trans": "No, I didn't tell Mr Hirsch that I was joining StarMédia.",
       "words": [
         {
           "t": "Non,",
@@ -1653,16 +1325,16 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "said",
+          "gram": "past participle after ai"
         },
         {
           "t": "à",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "to",
+          "gram": "preposition marking whom he told"
         },
         {
           "t": "monsieur",
@@ -1711,378 +1383,238 @@
           "stress": null,
           "gloss": "StarMédia",
           "gram": "name of a rival agency"
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "ne",
+          "lemma": "ne",
+          "pos": "part",
+          "stress": "nə",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
+        },
+        {
+          "t": "sais",
+          "lemma": "savoir",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "know",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "part",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
+        },
+        {
+          "t": "comment",
+          "lemma": "comment",
+          "pos": "adv",
+          "stress": "kɔmɑ̃",
+          "gloss": "how",
+          "gram": "introduces an indirect question"
+        },
+        {
+          "t": "il",
+          "lemma": "il",
+          "pos": "pron",
+          "stress": "il",
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
+        },
+        {
+          "t": "l'a",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "la",
+          "gloss": "has ... it",
+          "gram": "le + a: object referring to news + past auxiliary, 3rd singular"
+        },
+        {
+          "t": "appris.",
+          "lemma": "apprendre",
+          "pos": "verb",
+          "stress": "apʁi",
+          "gloss": "learned",
+          "gram": "past participle of 'apprendre'"
+        },
+        {
+          "t": "Hélène,",
+          "lemma": "hélène",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Hélène (Samuel's widow)",
+          "gram": "first name, used to address her"
+        },
+        {
+          "t": "calmez-vous.",
+          "lemma": "calmer",
+          "pos": "verb",
+          "stress": "kalmevu",
+          "gloss": "calm down",
+          "gram": "reflexive imperative, polite/plural address"
+        }
+      ],
+      "seg": 37,
+      "trans": "I don't know how he found out. Hélène, calm down."
+    },
+    {
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject"
+        },
+        {
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Hélène"
+        },
+        {
+          "t": "rappelle.",
+          "lemma": "rappeler",
+          "pos": "verb",
+          "stress": "ʁapɛl",
+          "gloss": "call back",
+          "gram": "present 1st singular, immediate future in context"
+        }
+      ],
+      "seg": 39,
+      "trans": "I'll call you back."
+    },
+    {
+      "seg": 41,
+      "trans": "Make a list of Mathias's actors. We have to be quick.",
+      "words": [
+        {
+          "t": "Fais",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "make",
+          "gram": "imperative, 2nd singular"
+        },
+        {
+          "t": "une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "an (one)",
+          "gram": "indefinite article, feminine singular"
+        },
+        {
+          "t": "liste",
+          "lemma": "liste",
+          "pos": "noun",
+          "stress": "list",
+          "gloss": "list, notepad",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "des",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "de",
+          "gloss": "of the",
+          "gram": "de + les, links list to actors"
+        },
+        {
+          "t": "acteurs",
+          "lemma": "acteur",
+          "pos": "noun",
+          "stress": "aktœʁ",
+          "gloss": "actors",
+          "gram": "masculine plural"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition linking deed with Mathias"
+        },
+        {
+          "t": "Mathias.",
+          "lemma": "mathias",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mathias",
+          "gram": "first name"
+        },
+        {
+          "t": "Il",
+          "lemma": "il",
+          "pos": "pron",
+          "stress": "il",
+          "gloss": "it",
+          "gram": "impersonal subject of falloir"
+        },
+        {
+          "t": "faut",
+          "lemma": "falloir",
+          "pos": "verb",
+          "stress": "fo",
+          "gloss": "is needed",
+          "gram": "present, 3rd person singular, impersonal: il faut = you need"
+        },
+        {
+          "t": "faire",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛʁ",
+          "gloss": "do, act",
+          "gram": "infinitive after falloir, faire vite = act quickly"
+        },
+        {
+          "t": "vite.",
+          "lemma": "vite",
+          "pos": "adv",
+          "stress": "vit",
+          "gloss": "quickly",
+          "gram": "invariable adverb ('vite', meaning 'quickly')"
         }
       ]
     },
     {
       "seg": 42,
-      "trans": "I don",
-      "words": [
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "ne",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "negation, first half, before the verb"
-        },
-        {
-          "t": "sais",
-          "lemma": "savoir",
-          "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "know",
-          "gram": "present, 1st person singular"
-        },
-        {
-          "t": "pas",
-          "lemma": "pas",
-          "pos": "part",
-          "stress": "pa",
-          "gloss": "not",
-          "gram": "negation, second half, after the verb"
-        },
-        {
-          "t": "comment",
-          "lemma": "comment",
-          "pos": "adv",
-          "stress": "kɔmɑ̃",
-          "gloss": "how",
-          "gram": "adverb; 'et comment!' = you bet!"
-        },
-        {
-          "t": "il",
-          "lemma": "il y a",
-          "pos": "phrase",
-          "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
-        },
-        {
-          "t": "l'a",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "la",
-          "gloss": "has him/her/it",
-          "gram": "le/la (him/her/it) + a: 3rd person singular present of avoir"
-        },
-        {
-          "t": "appris.",
-          "lemma": "apprendre",
-          "pos": "verb",
-          "stress": "apʁi",
-          "gloss": "learned",
-          "gram": "past participle of 'apprendre'"
-        },
-        {
-          "t": "Hélène,",
-          "lemma": "hélène",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Hélène (Samuel's widow)",
-          "gram": "first name, used to address her"
-        },
-        {
-          "t": "calme-toi.",
-          "lemma": "calmer",
-          "pos": "verb",
-          "stress": "kalmtwa",
-          "gloss": "calm down",
-          "gram": "reflexive imperative, 2nd person singular (se calmer)"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "Bravo, Mathias! Let me kiss you.",
-      "words": [
-        {
-          "t": "Bravo,",
-          "lemma": "bravo",
-          "pos": "interj",
-          "stress": "bʁavo",
-          "gloss": "bravo, well done",
-          "gram": "exclamation of praise"
-        },
-        {
-          "t": "Mathias!",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
-        },
-        {
-          "t": "Laisse-moi",
-          "lemma": "laisser",
-          "pos": "verb",
-          "stress": "lɛsmwa",
-          "gloss": "let me",
-          "gram": "imperative, 2nd person singular (informal) + moi (me)"
-        },
-        {
-          "t": "t'embrasser.",
-          "lemma": "embrasser",
-          "pos": "verb",
-          "stress": "tɑ̃bʁase",
-          "gloss": "kiss you",
-          "gram": "te (elided t') + embrasser, infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 46,
-      "trans": "Thank you, Hélène. I",
-      "words": [
-        {
-          "t": "Merci,",
-          "lemma": "merci",
-          "pos": "interj",
-          "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
-        },
-        {
-          "t": "Hélène.",
-          "lemma": "hélène",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Hélène (Samuel's widow)",
-          "gram": "first name, used to address her"
-        },
-        {
-          "t": "Je",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
-        },
-        {
-          "t": "te",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
-        },
-        {
-          "t": "rappelle.",
-          "lemma": "rappeler",
-          "pos": "verb",
-          "stress": "ʁapɛl",
-          "gloss": "call back",
-          "gram": "present, 1st person singular, used for the near future"
-        }
-      ]
-    },
-    {
-      "seg": 48,
-      "trans": "Great, Mathias! You did something wonderful. Bravo!",
-      "words": [
-        {
-          "t": "Super,",
-          "lemma": "super",
-          "pos": "adj",
-          "stress": "sypɛʁ",
-          "gloss": "great",
-          "gram": "invariable, informal"
-        },
-        {
-          "t": "Mathias!",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
-        },
-        {
-          "t": "Tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
-        },
-        {
-          "t": "as",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "have (got)",
-          "gram": "present, 2nd person singular"
-        },
-        {
-          "t": "fait",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
-        },
-        {
-          "t": "quelque",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "kɛlkə",
-          "gloss": "some (something)",
-          "gram": "part of quelque chose"
-        },
-        {
-          "t": "chose",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "ʃoz",
-          "gloss": "thing (something)",
-          "gram": "part of quelque chose"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "formidable.",
-          "lemma": "formidable",
-          "pos": "adj",
-          "stress": "fɔʁmidabl",
-          "gloss": "wonderful, tremendous",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "Bravo!",
-          "lemma": "bravo",
-          "pos": "interj",
-          "stress": "bʁavo",
-          "gloss": "bravo, well done",
-          "gram": "exclamation of praise"
-        }
-      ]
-    },
-    {
-      "seg": 50,
-      "trans": "Make a list of Mathias",
-      "words": [
-        {
-          "t": "Fais",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛ",
-          "gloss": "are doing",
-          "gram": "present, 2nd person singular"
-        },
-        {
-          "t": "une",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "yn",
-          "gloss": "an (one)",
-          "gram": "indefinite article, feminine singular"
-        },
-        {
-          "t": "liste",
-          "lemma": "liste",
-          "pos": "noun",
-          "stress": "list",
-          "gloss": "list, notepad",
-          "gram": "feminine singular"
-        },
-        {
-          "t": "des",
-          "lemma": "un",
-          "pos": "det",
-          "stress": "de",
-          "gloss": "some (often not translated)",
-          "gram": "indefinite article, plural"
-        },
-        {
-          "t": "acteurs",
-          "lemma": "acteur",
-          "pos": "noun",
-          "stress": "aktœʁ",
-          "gloss": "actors",
-          "gram": "masculine plural"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "Mathias.",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
-        },
-        {
-          "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
-          "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
-        },
-        {
-          "t": "faut",
-          "lemma": "falloir",
-          "pos": "verb",
-          "stress": "fo",
-          "gloss": "is needed",
-          "gram": "present, 3rd person singular, impersonal: il faut = you need"
-        },
-        {
-          "t": "faire",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛʁ",
-          "gloss": "(faire confiance) trust",
-          "gram": "infinitive, after pouvoir"
-        },
-        {
-          "t": "vite.",
-          "lemma": "vite",
-          "pos": "adv",
-          "stress": "vit",
-          "gloss": "quickly",
-          "gram": "invariable adverb ('vite', meaning 'quickly')"
-        }
-      ]
-    },
-    {
-      "seg": 51,
       "trans": "The German is pulling out.",
       "words": [
         {
           "t": "L'Allemand",
           "lemma": "allemand",
-          "pos": "adj",
-          "stress": "lalmɑ̃",
-          "gloss": "the German",
-          "gram": "le (elided l') + Allemand, masculine singular"
+          "pos": "noun",
+          "stress": "almɑ̃",
+          "gloss": "the German buyer",
+          "gram": "le + Allemand, masculine noun naming a person"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
           "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "reflexive pronoun, part of se passer"
+          "gloss": "himself",
+          "gram": "reflexive pronoun in se retirer, pull out"
         },
         {
           "t": "retire.",
@@ -2095,7 +1627,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 43,
       "trans": "What?",
       "words": [
         {
@@ -2109,24 +1641,24 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 44,
       "trans": "He heard that Mathias is joining StarMédia.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "a",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "avoir",
+          "pos": "verb",
           "stress": "a",
-          "gloss": "is (there is)",
-          "gram": "part of il y a: avoir, 3rd person singular"
+          "gloss": "has",
+          "gram": "present 3rd singular, past auxiliary"
         },
         {
           "t": "appris",
@@ -2171,16 +1703,16 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 45,
       "trans": "He says that without him, the agency is going to lose too much value.",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "dit",
@@ -2188,7 +1720,7 @@
           "pos": "verb",
           "stress": "di",
           "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gram": "present 3rd singular"
         },
         {
           "t": "que",
@@ -2211,8 +1743,8 @@
           "lemma": "lui",
           "pos": "pron",
           "stress": "lɥi",
-          "gloss": "to her",
-          "gram": "indirect object pronoun, 3rd person singular"
+          "gloss": "him",
+          "gram": "stressed pronoun after sans"
         },
         {
           "t": "l'agence",
@@ -2227,8 +1759,8 @@
           "lemma": "aller",
           "pos": "verb",
           "stress": "va",
-          "gloss": "are going (to)",
-          "gram": "present, 3rd person singular (with on); aller + infinitive = near future"
+          "gloss": "is going",
+          "gram": "present 3rd singular, near future"
         },
         {
           "t": "perdre",
@@ -2236,7 +1768,7 @@
           "pos": "verb",
           "stress": "pɛʁdʁ",
           "gloss": "to lose, losing",
-          "gram": "infinitive after 'aimer'"
+          "gram": "infinitive after aller, near future"
         },
         {
           "t": "trop",
@@ -2251,8 +1783,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "quantity link after trop"
         },
         {
           "t": "valeur.",
@@ -2265,8 +1797,6 @@
       ]
     },
     {
-      "seg": 55,
-      "trans": "Are you sure about it? What does Hélène say?",
       "words": [
         {
           "t": "Tu",
@@ -2279,10 +1809,10 @@
         {
           "t": "en",
           "lemma": "en",
-          "pos": "prep",
+          "pos": "pron",
           "stress": "ɑ̃",
-          "gloss": "(en retard) late",
-          "gram": "preposition, in en retard"
+          "gloss": "about it",
+          "gram": "object referring to the news"
         },
         {
           "t": "es",
@@ -2299,52 +1829,30 @@
           "stress": "syʁ",
           "gloss": "sure",
           "gram": "feminine singular"
-        },
-        {
-          "t": "Qu'est-ce",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kɛs",
-          "gloss": "what is",
-          "gram": "qu' (what) + est-ce (is it): question opener"
-        },
-        {
-          "t": "qu'Hélène",
-          "lemma": "hélène",
-          "pos": "name",
-          "stress": null,
-          "gloss": "that Hélène",
-          "gram": "que (elided qu') + Hélène Kerr"
-        },
-        {
-          "t": "dit?",
-          "lemma": "dire",
-          "pos": "verb",
-          "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
         }
-      ]
+      ],
+      "seg": 46,
+      "trans": "Are you sure about it?"
     },
     {
-      "seg": 56,
-      "trans": "She",
+      "seg": 47,
+      "trans": "She's furious with Mathias.",
       "words": [
         {
           "t": "Elle",
           "lemma": "elle",
           "pos": "pron",
           "stress": "ɛl",
-          "gloss": "it (the industry)",
-          "gram": "subject pronoun, 3rd person feminine singular"
+          "gloss": "she",
+          "gram": "subject, Hélène"
         },
         {
           "t": "est",
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "are (we are)",
-          "gram": "present, 3rd person singular, used with on = we"
+          "gloss": "is",
+          "gram": "present 3rd singular"
         },
         {
           "t": "furieuse",
@@ -2373,77 +1881,7 @@
       ]
     },
     {
-      "seg": 57,
-      "trans": "And what if he did it on purpose? To save the agency!",
-      "words": [
-        {
-          "t": "Et",
-          "lemma": "et",
-          "pos": "conj",
-          "stress": "e",
-          "gloss": "and",
-          "gram": "coordinating conjunction"
-        },
-        {
-          "t": "s'il",
-          "lemma": "si",
-          "pos": "conj",
-          "stress": "sil",
-          "gloss": "if he, if it",
-          "gram": "si (if) + il (he/it)"
-        },
-        {
-          "t": "l'avait",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "lavɛ",
-          "gloss": "had him/her/it",
-          "gram": "le/la (him/her/it) + avait: 3rd person singular imperfect of avoir"
-        },
-        {
-          "t": "fait",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
-        },
-        {
-          "t": "exprès?",
-          "lemma": "exprès",
-          "pos": "adv",
-          "stress": "ɛkspʁɛ",
-          "gloss": "on purpose",
-          "gram": "'sans faire exprès' = without meaning to, by accident"
-        },
-        {
-          "t": "Pour",
-          "lemma": "pour",
-          "pos": "prep",
-          "stress": "puʁ",
-          "gloss": "for",
-          "gram": "preposition ('pour', meaning 'for')"
-        },
-        {
-          "t": "sauver",
-          "lemma": "sauver",
-          "pos": "verb",
-          "stress": "sove",
-          "gloss": "save",
-          "gram": "infinitive"
-        },
-        {
-          "t": "l'agence!",
-          "lemma": "agence",
-          "pos": "noun",
-          "stress": "laʒɑ̃s",
-          "gloss": "the agency",
-          "gram": "l' (elided la) + agence, feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 58,
+      "seg": 48,
       "trans": "A generous act from Mathias? What a joke!",
       "words": [
         {
@@ -2459,8 +1897,8 @@
           "lemma": "acte",
           "pos": "noun",
           "stress": "akt",
-          "gloss": "act (of a play)",
-          "gram": "masculine singular"
+          "gloss": "deed, act",
+          "gram": "masculine singular, a person’s action"
         },
         {
           "t": "généreux",
@@ -2475,8 +1913,8 @@
           "lemma": "de",
           "pos": "prep",
           "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gloss": "of",
+          "gram": "preposition linking deed with Mathias"
         },
         {
           "t": "Mathias?",
@@ -2505,8 +1943,8 @@
       ]
     },
     {
-      "seg": 59,
-      "trans": "Maybe not generous, but he",
+      "seg": 49,
+      "trans": "Maybe not generous, but he's a strategist.",
       "words": [
         {
           "t": "Peut-être",
@@ -2567,24 +2005,24 @@
       ]
     },
     {
-      "seg": 60,
-      "trans": "He",
+      "seg": 50,
+      "trans": "He's pulling out?",
       "words": [
         {
           "t": "Il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
           "stress": "sə",
-          "gloss": "(reflexive)",
-          "gram": "reflexive pronoun, part of se passer"
+          "gloss": "himself",
+          "gram": "reflexive pronoun in se retirer, pull out"
         },
         {
           "t": "retire?",
@@ -2597,8 +2035,8 @@
       ]
     },
     {
-      "seg": 61,
-      "trans": "No, I didn",
+      "seg": 51,
+      "trans": "No, I didn't tell Mr Hirsch that I was joining StarMédia.",
       "words": [
         {
           "t": "Non,",
@@ -2637,16 +2075,16 @@
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "says",
-          "gram": "present, 3rd person singular"
+          "gloss": "said",
+          "gram": "past participle after ai"
         },
         {
           "t": "à",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "at",
-          "gram": "preposition ('à', meaning 'at')"
+          "gloss": "to",
+          "gram": "preposition marking whom he told"
         },
         {
           "t": "monsieur",
@@ -2699,8 +2137,6 @@
       ]
     },
     {
-      "seg": 62,
-      "trans": "I don",
       "words": [
         {
           "t": "Je",
@@ -2740,23 +2176,23 @@
           "pos": "adv",
           "stress": "kɔmɑ̃",
           "gloss": "how",
-          "gram": "adverb; 'et comment!' = you bet!"
+          "gram": "introduces an indirect question"
         },
         {
           "t": "il",
-          "lemma": "il y a",
-          "pos": "phrase",
+          "lemma": "il",
+          "pos": "pron",
           "stress": "il",
-          "gloss": "it (there is)",
-          "gram": "part of il y a"
+          "gloss": "he",
+          "gram": "subject, buyer Jonas Hirsch"
         },
         {
           "t": "l'a",
           "lemma": "avoir",
           "pos": "verb",
           "stress": "la",
-          "gloss": "has him/her/it",
-          "gram": "le/la (him/her/it) + a: 3rd person singular present of avoir"
+          "gloss": "has ... it",
+          "gram": "le + a: object referring to news + past auxiliary, 3rd singular"
         },
         {
           "t": "appris.",
@@ -2775,88 +2211,34 @@
           "gram": "first name, used to address her"
         },
         {
-          "t": "calme-toi.",
+          "t": "calmez-vous.",
           "lemma": "calmer",
           "pos": "verb",
-          "stress": "kalmtwa",
+          "stress": "kalmevu",
           "gloss": "calm down",
-          "gram": "reflexive imperative, 2nd person singular (se calmer)"
+          "gram": "reflexive imperative, polite/plural address"
         }
-      ]
+      ],
+      "seg": 52,
+      "trans": "I don't know how he found out. Hélène, calm down."
     },
     {
-      "seg": 63,
-      "trans": "Bravo, Mathias! Let me kiss you.",
       "words": [
-        {
-          "t": "Bravo,",
-          "lemma": "bravo",
-          "pos": "interj",
-          "stress": "bʁavo",
-          "gloss": "bravo, well done",
-          "gram": "exclamation of praise"
-        },
-        {
-          "t": "Mathias!",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
-        },
-        {
-          "t": "Laisse-moi",
-          "lemma": "laisser",
-          "pos": "verb",
-          "stress": "lɛsmwa",
-          "gloss": "let me",
-          "gram": "imperative, 2nd person singular (informal) + moi (me)"
-        },
-        {
-          "t": "t'embrasser.",
-          "lemma": "embrasser",
-          "pos": "verb",
-          "stress": "tɑ̃bʁase",
-          "gloss": "kiss you",
-          "gram": "te (elided t') + embrasser, infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 64,
-      "trans": "Thank you, Hélène. I",
-      "words": [
-        {
-          "t": "Merci,",
-          "lemma": "merci",
-          "pos": "interj",
-          "stress": "mɛʁsi",
-          "gloss": "thanks",
-          "gram": "interjection / exclamation ('merci')"
-        },
-        {
-          "t": "Hélène.",
-          "lemma": "hélène",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Hélène (Samuel's widow)",
-          "gram": "first name, used to address her"
-        },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject"
         },
         {
-          "t": "te",
-          "lemma": "te",
+          "t": "vous",
+          "lemma": "vous",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you (casual)",
-          "gram": "indirect object pronoun, 2nd person singular, before the verb"
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "direct object, polite address to Hélène"
         },
         {
           "t": "rappelle.",
@@ -2864,98 +2246,14 @@
           "pos": "verb",
           "stress": "ʁapɛl",
           "gloss": "call back",
-          "gram": "present, 1st person singular, used for the near future"
+          "gram": "present 1st singular, immediate future in context"
         }
-      ]
+      ],
+      "seg": 53,
+      "trans": "I'll call you back."
     },
     {
-      "seg": 65,
-      "trans": "Great, Mathias! You did something wonderful. Bravo!",
-      "words": [
-        {
-          "t": "Super,",
-          "lemma": "super",
-          "pos": "adj",
-          "stress": "sypɛʁ",
-          "gloss": "great",
-          "gram": "invariable, informal"
-        },
-        {
-          "t": "Mathias!",
-          "lemma": "mathias",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mathias",
-          "gram": "first name"
-        },
-        {
-          "t": "Tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
-        },
-        {
-          "t": "as",
-          "lemma": "avoir",
-          "pos": "verb",
-          "stress": "a",
-          "gloss": "have (got)",
-          "gram": "present, 2nd person singular"
-        },
-        {
-          "t": "fait",
-          "lemma": "faire",
-          "pos": "verb",
-          "stress": "fɛ",
-          "gloss": "makes (ça fait... que = it's been)",
-          "gram": "present, 3rd person singular, in a time expression"
-        },
-        {
-          "t": "quelque",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "kɛlkə",
-          "gloss": "some (something)",
-          "gram": "part of quelque chose"
-        },
-        {
-          "t": "chose",
-          "lemma": "quelque chose",
-          "pos": "phrase",
-          "stress": "ʃoz",
-          "gloss": "thing (something)",
-          "gram": "part of quelque chose"
-        },
-        {
-          "t": "de",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
-        },
-        {
-          "t": "formidable.",
-          "lemma": "formidable",
-          "pos": "adj",
-          "stress": "fɔʁmidabl",
-          "gloss": "wonderful, tremendous",
-          "gram": "masculine singular"
-        },
-        {
-          "t": "Bravo!",
-          "lemma": "bravo",
-          "pos": "interj",
-          "stress": "bʁavo",
-          "gloss": "bravo, well done",
-          "gram": "exclamation of praise"
-        }
-      ]
-    },
-    {
-      "seg": 67,
+      "seg": 55,
       "trans": "Goodbye!",
       "words": [
         {
@@ -2988,11 +2286,11 @@
       "meanings": [
         {
           "en": "act (division of a play)",
-          "note": "Acte quatre = act four. Masculine noun ('le acte', plural 'les actes') inherited through Romance vocabulary, used in everyday and professional French for 'act'."
+          "note": "Acte quatre = act four."
         },
         {
           "en": "act, deed",
-          "note": "Masculine noun ('le acte', plural 'les actes') inherited through Romance vocabulary, used in everyday and professional French for 'act'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3044,7 +2342,7 @@
       "meanings": [
         {
           "en": "actor",
-          "note": "Feminine: actrice. Derived with the Romance agent/quality suffix '-eur'/'-euse' (from Latin '-or'/'-tor'). Standard masculine noun meaning 'actor'."
+          "note": "Feminine: actrice."
         }
       ],
       "forms": {
@@ -3146,11 +2444,11 @@
       "meanings": [
         {
           "en": "German (adjective)",
-          "note": "Capitalised as a noun. Descriptive French adjective meaning 'German'; agrees in gender and number with the noun it modifies."
+          "note": "Capitalised as a noun."
         },
         {
           "en": "un Allemand / une Allemande = a German (person)",
-          "note": "Capitalised as a noun. Descriptive French adjective meaning 'German'; agrees in gender and number with the noun it modifies."
+          "note": "Capitalised as a noun."
         }
       ],
       "forms": {
@@ -3177,7 +2475,32 @@
           }
         ]
       },
-      "moreForms": [],
+      "moreForms": [
+        {
+          "title": "As a noun",
+          "columns": [
+            "",
+            "m",
+            "f"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "sg",
+                "un Allemand",
+                "une Allemande"
+              ]
+            },
+            {
+              "cells": [
+                "pl",
+                "des Allemands",
+                "des Allemandes"
+              ]
+            }
+          ]
+        }
+      ],
       "examples": [
         {
           "text": "Un acheteur allemand.",
@@ -3211,11 +2534,11 @@
         },
         {
           "en": "aller + infinitive = going to (near future)",
-          "note": "Je vais déjeuner. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Je vais déjeuner."
         },
         {
           "en": "allez! = come on!",
-          "note": "Imperative used to encourage. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+          "note": "Imperative used to encourage."
         }
       ],
       "forms": {
@@ -3401,7 +2724,7 @@
       "meanings": [
         {
           "en": "to learn",
-          "note": "Apprendre le français. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to learn; to teach'."
+          "note": "Apprendre le français."
         },
         {
           "en": "to teach",
@@ -3586,12 +2909,7 @@
           "trans": "I've got a problem at work."
         }
       ],
-      "related": [
-        {
-          "word": "au",
-          "gloss": "at the"
-        }
-      ]
+      "related": []
     },
     "avoir": {
       "lemma": "avoir",
@@ -3605,11 +2923,11 @@
         },
         {
           "en": "helper verb of the passé composé",
-          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "J'ai appelé = I called."
         },
         {
           "en": "il y a = there is, there are",
-          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "note": "Fixed expression."
         }
       ],
       "forms": {
@@ -3843,7 +3161,7 @@
       "meanings": [
         {
           "en": "bravo!, well done!",
-          "note": "Spoken French interj expression meaning 'bravo', common in natural conversation."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4119,11 +3437,11 @@
       "meanings": [
         {
           "en": "how",
-          "note": "Comment ça va?. Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem. Prefix 'com-' (from Latin 'cum') means 'with, together'."
+          "note": "Comment ça va?."
         },
         {
           "en": "et comment! = you bet! / absolutely!",
-          "note": "Informal. Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem. Prefix 'com-' (from Latin 'cum') means 'with, together'."
+          "note": "Informal."
         }
       ],
       "forms": null,
@@ -4161,7 +3479,7 @@
       "meanings": [
         {
           "en": "against",
-          "note": "Core French preposition meaning 'against', linking a noun phrase or infinitive complement to the clause."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4195,7 +3513,7 @@
       "meanings": [
         {
           "en": "of, from",
-          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "D' before a vowel."
         },
         {
           "en": "'s (possession)",
@@ -4203,7 +3521,7 @@
         },
         {
           "en": "du = de + le",
-          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
@@ -4469,12 +3787,7 @@
           "trans": "It's compost. It feeds the earth."
         }
       ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "some"
-        }
-      ]
+      "related": []
     },
     "elle": {
       "lemma": "elle",
@@ -4507,12 +3820,7 @@
           "trans": "Listen, it's an industry, and it's full of sharks."
         }
       ],
-      "related": [
-        {
-          "word": "elle",
-          "gloss": "she"
-        }
-      ]
+      "related": []
     },
     "embrasser": {
       "lemma": "embrasser",
@@ -4522,15 +3830,15 @@
       "meanings": [
         {
           "en": "to kiss",
-          "note": "Passé composé with être. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to kiss'; conjugates with 'avoir' in compound tenses (past participle 'embrassé')."
+          "note": "Passé composé with être."
         },
         {
           "en": "s'embrasser: to kiss (each other)",
-          "note": "Passé composé with être. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to kiss'; conjugates with 'avoir' in compound tenses (past participle 'embrassé')."
+          "note": "Passé composé with être."
         },
         {
           "en": "to hug",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to kiss'; conjugates with 'avoir' in compound tenses (past participle 'embrassé')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4722,7 +4030,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": "The t is never pronounced. French conjunction meaning 'and', used to link clauses in spoken and written discourse."
+          "note": "The t is never pronounced."
         }
       ],
       "forms": null,
@@ -4741,12 +4049,7 @@
           "trans": "And tomorrow you're having lunch with Audiard."
         }
       ],
-      "related": [
-        {
-          "word": "et",
-          "gloss": "and"
-        }
-      ]
+      "related": []
     },
     "exprès": {
       "lemma": "exprès",
@@ -4775,12 +4078,7 @@
           "trans": "Maybe you told Noémie, without meaning to."
         }
       ],
-      "related": [
-        {
-          "word": "exprès",
-          "gloss": "on purpose"
-        }
-      ]
+      "related": []
     },
     "faire": {
       "lemma": "faire",
@@ -4794,15 +4092,15 @@
         },
         {
           "en": "faire confiance à = to trust",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": ""
         },
         {
           "en": "faire la surprise à = to surprise",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": ""
         },
         {
           "en": "ça fait trois semaines que = it's been three weeks since",
-          "note": "With time. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "note": "With time."
         }
       ],
       "forms": {
@@ -5123,7 +4421,7 @@
       "meanings": [
         {
           "en": "wonderful, great, tremendous",
-          "note": "Adjective of capability/quality formed with '-able'/'-ible' (from Latin '-abilis'/'-ibilis')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5237,7 +4535,7 @@
       "meanings": [
         {
           "en": "generous",
-          "note": "Feminine in -euse. French relational/descriptive adjective derived from Latin adjectival roots."
+          "note": "Feminine in -euse."
         }
       ],
       "forms": {
@@ -5302,7 +4600,7 @@
         },
         {
           "en": "it",
-          "note": "Also in fixed phrases: il y a. High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
+          "note": "Also in fixed phrases: il y a."
         }
       ],
       "forms": null,
@@ -5321,12 +4619,7 @@
           "trans": "Camille Valentini. He knows me."
         }
       ],
-      "related": [
-        {
-          "word": "il",
-          "gloss": "he"
-        }
-      ]
+      "related": []
     },
     "il y a": {
       "lemma": "il y a",
@@ -5336,7 +4629,7 @@
       "meanings": [
         {
           "en": "there is, there are",
-          "note": "Never changes for plural. Spoken French phrase expression meaning 'there is', common in natural conversation."
+          "note": "Never changes for plural."
         },
         {
           "en": "ago",
@@ -5359,12 +4652,7 @@
           "trans": "No, it's Samuel's place. He died six days ago."
         }
       ],
-      "related": [
-        {
-          "word": "il y a",
-          "gloss": "there is"
-        }
-      ]
+      "related": []
     },
     "je": {
       "lemma": "je",
@@ -5374,7 +4662,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel."
         }
       ],
       "forms": null,
@@ -5393,12 +4681,7 @@
           "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
-      "related": [
-        {
-          "word": "je",
-          "gloss": "I"
-        }
-      ]
+      "related": []
     },
     "laisser": {
       "lemma": "laisser",
@@ -5412,7 +4695,7 @@
         },
         {
           "en": "to let, to allow",
-          "note": "Laisse-moi = let me. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to leave'; conjugates with 'avoir' in compound tenses (past participle 'laissé')."
+          "note": "Laisse-moi = let me."
         }
       ],
       "forms": {
@@ -5596,7 +4879,7 @@
       "meanings": [
         {
           "en": "list",
-          "note": "Sur ma liste = on my list. Feminine noun ('la liste', plural 'les listes') inherited through Romance vocabulary, used in everyday and professional French for 'list'."
+          "note": "Sur ma liste = on my list."
         }
       ],
       "forms": {
@@ -5646,11 +4929,11 @@
       "meanings": [
         {
           "en": "to him, to her",
-          "note": "Indirect object. High-frequency French pronoun meaning 'to him'; clitic object forms precede the conjugated verb."
+          "note": "Indirect object."
         },
         {
           "en": "him",
-          "note": "Stressed form: avec lui. High-frequency French pronoun meaning 'to him'; clitic object forms precede the conjugated verb."
+          "note": "Stressed form: avec lui."
         }
       ],
       "forms": null,
@@ -5669,12 +4952,7 @@
           "trans": "Do you look after him?"
         }
       ],
-      "related": [
-        {
-          "word": "lui",
-          "gloss": "to him"
-        }
-      ]
+      "related": []
     },
     "mais": {
       "lemma": "mais",
@@ -5684,7 +4962,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": "Mais oui! = of course!. French conjunction meaning 'but', used to link clauses in spoken and written discourse."
+          "note": "Mais oui! = of course!."
         }
       ],
       "forms": null,
@@ -5758,11 +5036,11 @@
         },
         {
           "en": "sir",
-          "note": "Polite address: merci, monsieur. Derived with the Romance agent/quality suffix '-eur'/'-euse' (from Latin '-or'/'-tor'). Standard masculine noun meaning 'sir; Mr; gentleman'."
+          "note": "Polite address: merci, monsieur."
         },
         {
           "en": "gentleman, man",
-          "note": "Un monsieur. Derived with the Romance agent/quality suffix '-eur'/'-euse' (from Latin '-or'/'-tor'). Standard masculine noun meaning 'sir; Mr; gentleman'."
+          "note": "Un monsieur."
         }
       ],
       "forms": {
@@ -5797,12 +5075,7 @@
           "trans": "Mr Samuel Kerr has passed away."
         }
       ],
-      "related": [
-        {
-          "word": "un monsieur / des messieurs",
-          "gloss": "a sir / sirs"
-        }
-      ]
+      "related": []
     },
     "ne": {
       "lemma": "ne",
@@ -5854,7 +5127,7 @@
         },
         {
           "en": "..., non? = ..., don't you? / isn't it?",
-          "note": "Tag at the end of a question. Invariable French adverb meaning 'no'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Tag at the end of a question."
         }
       ],
       "forms": null,
@@ -5911,12 +5184,7 @@
           "trans": "Tarantino won't take Cécile. A problem with her age."
         }
       ],
-      "related": [
-        {
-          "word": "pas",
-          "gloss": "not"
-        }
-      ]
+      "related": []
     },
     "perdre": {
       "lemma": "perdre",
@@ -6092,7 +5360,7 @@
       "meanings": [
         {
           "en": "maybe, perhaps",
-          "note": "Invariable French adverb meaning 'maybe'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6134,7 +5402,7 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+          "note": "+ infinitive: pour voir."
         }
       ],
       "forms": null,
@@ -6210,19 +5478,19 @@
       "meanings": [
         {
           "en": "that",
-          "note": "Joins two parts: dis-lui que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "Joins two parts: dis-lui que."
         },
         {
           "en": "which, that",
-          "note": "Relative: tout ce que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "Relative: tout ce que."
         },
         {
           "en": "only",
-          "note": "With ne: ne... que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "With ne: ne... que."
         },
         {
           "en": "since",
-          "note": "Ça fait trois semaines que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "note": "Ça fait trois semaines que."
         }
       ],
       "forms": null,
@@ -6241,12 +5509,7 @@
           "trans": "Call Clémentine. Tell her I can't come tonight."
         }
       ],
-      "related": [
-        {
-          "word": "que",
-          "gloss": "that"
-        }
-      ]
+      "related": []
     },
     "quel": {
       "lemma": "quel",
@@ -6256,11 +5519,11 @@
       "meanings": [
         {
           "en": "what, which (question)",
-          "note": "Agrees with the noun. Spoken French det expression meaning 'what', common in natural conversation."
+          "note": "Agrees with the noun."
         },
         {
           "en": "what a ...! (exclamation)",
-          "note": "Quelle surprise!. Spoken French det expression meaning 'what', common in natural conversation."
+          "note": "Quelle surprise!."
         }
       ],
       "forms": {
@@ -6325,7 +5588,7 @@
       "meanings": [
         {
           "en": "some",
-          "note": "Quelque chose = something. Spoken French det expression meaning 'some', common in natural conversation."
+          "note": "Quelque chose = something."
         }
       ],
       "forms": null,
@@ -6367,7 +5630,7 @@
       "meanings": [
         {
           "en": "something",
-          "note": "Spoken French phrase expression meaning 'something', common in natural conversation."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6428,12 +5691,7 @@
           "trans": "What's the part?"
         }
       ],
-      "related": [
-        {
-          "word": "quoi",
-          "gloss": "what"
-        }
-      ]
+      "related": []
     },
     "rappeler": {
       "lemma": "rappeler",
@@ -6443,11 +5701,11 @@
       "meanings": [
         {
           "en": "to call back, to phone again",
-          "note": "Rappeler quelque chose à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to call back'; conjugates with 'avoir' in compound tenses (past participle 'rappelé')."
+          "note": "Rappeler quelque chose à quelqu'un."
         },
         {
           "en": "to remind",
-          "note": "Rappeler quelque chose à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to call back'; conjugates with 'avoir' in compound tenses (past participle 'rappelé')."
+          "note": "Rappeler quelque chose à quelqu'un."
         }
       ],
       "forms": {
@@ -6629,11 +5887,11 @@
       "meanings": [
         {
           "en": "to join (a company, a group)",
-          "note": "Rejoindre une agence. Third-group irregular verb inherited from core Latin roots ('-ere'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to join, to meet up with'."
+          "note": "Rejoindre une agence."
         },
         {
           "en": "to meet up with (someone)",
-          "note": "Je te rejoins au café. Third-group irregular verb inherited from core Latin roots ('-ere'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to join, to meet up with'."
+          "note": "Je te rejoins au café."
         }
       ],
       "forms": {
@@ -6795,7 +6053,11 @@
         },
         {
           "en": "to withdraw (money)",
-          "note": "Retirer de l'argent. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to pull back'; conjugates with 'avoir' in compound tenses (past participle 'retiré')."
+          "note": "Retirer de l'argent."
+        },
+        {
+          "en": "se retirer = to withdraw, pull out",
+          "note": "Reflexive; here the buyer withdraws from buying the agency."
         }
       ],
       "forms": {
@@ -6922,6 +6184,68 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Reflexive present",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je me retire",
+                "nous nous retirons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu te retires",
+                "vous vous retirez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle se retire",
+                "ils/elles se retirent"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reflexive passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je me suis retiré(e)",
+                "nous nous sommes retiré(e)s"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu t’es retiré(e)",
+                "vous vous êtes retiré(e)(s)"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il s’est retiré / elle s’est retirée",
+                "ils se sont retirés / elles se sont retirées"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6934,14 +6258,14 @@
           "trans": "He takes off his jacket."
         },
         {
-          "text": "Mais je l'ai vite retiré.",
-          "trans": "But I quickly pulled it back."
+          "text": "L'acheteur se retire.",
+          "trans": "The buyer pulls out."
         }
       ],
       "related": [
         {
-          "word": "je l'ai vite retiré",
-          "gloss": "I quickly pulled it back"
+          "word": "retrait",
+          "gloss": "withdrawal"
         }
       ]
     },
@@ -6953,11 +6277,11 @@
       "meanings": [
         {
           "en": "to see again",
-          "note": "On se reverra: we'll meet again. French '-ir' verb (from Latin '-ire'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to see again'."
+          "note": "On se reverra: we'll meet again."
         },
         {
           "en": "au revoir = goodbye",
-          "note": "Literally 'until seeing again'. French '-ir' verb (from Latin '-ire'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to see again'."
+          "note": "Literally 'until seeing again'."
         }
       ],
       "forms": {
@@ -7149,7 +6473,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "Core French preposition meaning 'without', linking a noun phrase or infinitive complement to the clause."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7168,12 +6492,7 @@
           "trans": "Without an appointment? I'm not promising anything."
         }
       ],
-      "related": [
-        {
-          "word": "sans",
-          "gloss": "without"
-        }
-      ]
+      "related": []
     },
     "sauver": {
       "lemma": "sauver",
@@ -7183,7 +6502,7 @@
       "meanings": [
         {
           "en": "to save, rescue",
-          "note": "Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to save'; conjugates with 'avoir' in compound tenses (past participle 'sauvé')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7349,11 +6668,11 @@
       "meanings": [
         {
           "en": "to know (a fact)",
-          "note": "Je ne sais pas = I don't know. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "Je ne sais pas = I don't know."
         },
         {
           "en": "to know how to, can",
-          "note": "+ infinitive: savoir monter. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to know; to know how to'."
+          "note": "+ infinitive: savoir monter."
         }
       ],
       "forms": {
@@ -7530,12 +6849,7 @@
           "trans": "It's not going well?"
         }
       ],
-      "related": [
-        {
-          "word": "se",
-          "gloss": "oneself"
-        }
-      ]
+      "related": []
     },
     "si": {
       "lemma": "si",
@@ -7545,7 +6859,7 @@
       "meanings": [
         {
           "en": "if",
-          "note": "Si tu veux = if you want. French conjunction meaning 'if', used to link clauses in spoken and written discourse."
+          "note": "Si tu veux = if you want."
         },
         {
           "en": "yes",
@@ -7581,7 +6895,7 @@
       "meanings": [
         {
           "en": "strategist",
-          "note": "Un grand stratège. Masculine noun ('le stratège', plural 'les stratèges') inherited through Romance vocabulary, used in everyday and professional French for 'strategist'."
+          "note": "Un grand stratège."
         }
       ],
       "forms": {
@@ -7616,12 +6930,7 @@
           "trans": "Maybe not generous, but he's a strategist."
         }
       ],
-      "related": [
-        {
-          "word": "un stratège / des stratèges",
-          "gloss": "a strategist / strategists"
-        }
-      ]
+      "related": []
     },
     "super": {
       "lemma": "super",
@@ -7632,7 +6941,7 @@
       "meanings": [
         {
           "en": "great, super",
-          "note": "Informal, does not change. Descriptive French adjective meaning 'great'; agrees in gender and number with the noun it modifies."
+          "note": "Informal, does not change."
         }
       ],
       "forms": {
@@ -7689,11 +6998,11 @@
       "meanings": [
         {
           "en": "sure, certain",
-          "note": "Bien sûr = of course. Descriptive French adjective meaning 'sure'; agrees in gender and number with the noun it modifies."
+          "note": "Bien sûr = of course."
         },
         {
           "en": "safe",
-          "note": "Descriptive French adjective meaning 'sure'; agrees in gender and number with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -7769,12 +7078,7 @@
           "trans": "I don't know. I wanted to surprise you."
         }
       ],
-      "related": [
-        {
-          "word": "te",
-          "gloss": "you"
-        }
-      ]
+      "related": []
     },
     "trop": {
       "lemma": "trop",
@@ -7784,11 +7088,11 @@
       "meanings": [
         {
           "en": "too",
-          "note": "Trop vieille = too old. Invariable French adverb meaning 'too'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Trop vieille = too old."
         },
         {
           "en": "too much",
-          "note": "Trop de travail. Invariable French adverb meaning 'too'; placed immediately after the conjugated verb in simple tenses."
+          "note": "Trop de travail."
         }
       ],
       "forms": null,
@@ -7860,7 +7164,7 @@
         },
         {
           "en": "one",
-          "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
+          "note": "Number; l'un = one of them."
         }
       ],
       "forms": {
@@ -7902,12 +7206,7 @@
           "trans": "One at noon, the other at two."
         }
       ],
-      "related": [
-        {
-          "word": "un",
-          "gloss": "a"
-        }
-      ]
+      "related": []
     },
     "valeur": {
       "lemma": "valeur",
@@ -7969,7 +7268,7 @@
       "meanings": [
         {
           "en": "quickly, fast",
-          "note": "Invariable French adverb meaning 'quickly'; placed immediately after the conjugated verb in simple tenses."
+          "note": ""
         }
       ],
       "forms": null,
@@ -8003,15 +7302,15 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Place: à Paris, à mon cours."
         },
         {
           "en": "at",
-          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Time: à midi."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+          "note": "Contractions."
         }
       ],
       "forms": null,
@@ -8030,12 +7329,7 @@
           "trans": "We're at the Westin."
         }
       ],
-      "related": [
-        {
-          "word": "à",
-          "gloss": "at"
-        }
-      ]
+      "related": []
     },
     "être": {
       "lemma": "être",
@@ -8045,11 +7339,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "The most common verb."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "note": "Ce + est."
         }
       ],
       "forms": {
@@ -8224,6 +7518,48 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
+        }
+      ]
+    },
+    "vous": {
+      "lemma": "vous",
+      "stress": "vu",
+      "pos": "pron",
+      "gloss": "you (polite or plural)",
+      "meanings": [
+        {
+          "en": "you (polite)",
+          "note": "One person, formal."
+        },
+        {
+          "en": "you (plural)",
+          "note": "Several people."
+        },
+        {
+          "en": "you (object)",
+          "note": "je vous rappelle = I'll call you back"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        },
+        {
+          "text": "Je vous rappelle.",
+          "trans": "I'll call you back."
+        },
+        {
+          "text": "Il vous attend?",
+          "trans": "Is he expecting you?"
+        }
+      ],
+      "related": [
+        {
+          "word": "tu",
+          "gloss": "you (informal)"
         }
       ]
     }
