@@ -298,61 +298,31 @@
   },
   {
    "seg": 6,
-   "trans": "You're a coward!",
+   "trans": "You never took care of us!",
    "words": [
     {
      "t": "Tu",
      "lemma": "tu",
      "pos": "pron",
      "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Mathias"
     },
     {
-     "t": "es",
+     "t": "ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
+    },
+    {
+     "t": "t'es",
      "lemma": "être",
      "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "are",
-     "gram": "present, 2nd person singular"
-    },
-    {
-     "t": "un",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
-    },
-    {
-     "t": "lâche!",
-     "lemma": "lâche",
-     "pos": "noun",
-     "stress": "laʃ",
-     "gloss": "coward",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 7,
-   "trans": "You never told the truth about us!",
-   "words": [
-    {
-     "t": "Tu",
-     "lemma": "tu",
-     "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
-    },
-    {
-     "t": "n'as",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "na",
-     "gloss": "do not have, have not",
-     "gram": "ne (not) + as: 2nd person singular present of avoir"
+     "stress": "tɛ",
+     "gloss": "have (yourself)",
+     "gram": "te plus second person singular past helper être"
     },
     {
      "t": "jamais",
@@ -360,39 +330,23 @@
      "pos": "adv",
      "stress": "ʒamɛ",
      "gloss": "never",
-     "gram": "negation, second part (with ne)"
+     "gram": "second negative element"
     },
     {
-     "t": "dit",
-     "lemma": "dire",
+     "t": "occupé",
+     "lemma": "s'occuper",
      "pos": "verb",
-     "stress": "di",
-     "gloss": "told",
-     "gram": "past participle of dire"
+     "stress": "ɔkype",
+     "gloss": "taken care",
+     "gram": "past participle with être; masculine singular for Mathias"
     },
     {
-     "t": "la",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "la",
-     "gloss": "the",
-     "gram": "definite article, feminine singular"
-    },
-    {
-     "t": "vérité",
-     "lemma": "vérité",
-     "pos": "noun",
-     "stress": "veʁite",
-     "gloss": "truth",
-     "gram": "feminine singular"
-    },
-    {
-     "t": "sur",
-     "lemma": "sur",
+     "t": "de",
+     "lemma": "de",
      "pos": "prep",
-     "stress": "syʁ",
-     "gloss": "about",
-     "gram": "introduces the subject of the truth"
+     "stress": "də",
+     "gloss": "of",
+     "gram": "s’occuper de introduces the people cared for"
     },
     {
      "t": "nous!",
@@ -400,37 +354,53 @@
      "pos": "pron",
      "stress": "nu",
      "gloss": "us",
-     "gram": "stressed first person plural after sur"
+     "gram": "stressed first person plural after de"
     }
    ]
   },
   {
-   "seg": 8,
-   "trans": "Stay away from my family.",
+   "seg": 7,
+   "trans": "Stay away from my family!",
    "words": [
     {
-     "t": "Reste",
-     "lemma": "rester",
-     "pos": "verb",
-     "stress": "ʁɛst",
-     "gloss": "stay",
-     "gram": "familiar singular imperative"
+     "t": "Tu",
+     "lemma": "tu",
+     "pos": "pron",
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject"
     },
     {
-     "t": "loin",
-     "lemma": "loin",
-     "pos": "adv",
-     "stress": "lwɛ̃",
-     "gloss": "far",
-     "gram": "adverb, loin de = far from"
+     "t": "ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
+    },
+    {
+     "t": "t'approches",
+     "lemma": "approcher",
+     "pos": "verb",
+     "stress": "tapʁɔʃ",
+     "gloss": "come near",
+     "gram": "te plus second person singular present in s’approcher de"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
     },
     {
      "t": "de",
      "lemma": "de",
      "pos": "prep",
      "stress": "də",
-     "gloss": "from",
-     "gram": "loin de means far from"
+     "gloss": "(near)",
+     "gram": "introduces what someone approaches"
     },
     {
      "t": "ma",
@@ -438,10 +408,64 @@
      "pos": "det",
      "stress": "ma",
      "gloss": "my",
-     "gram": "possessive, feminine singular"
+     "gram": "feminine singular possessive before famille"
     },
     {
-     "t": "famille.",
+     "t": "famille!",
+     "lemma": "famille",
+     "pos": "noun",
+     "stress": "famij",
+     "gloss": "family",
+     "gram": "feminine singular"
+    }
+   ]
+  },
+  {
+   "seg": 8,
+   "trans": "I'm your family too!",
+   "words": [
+    {
+     "t": "Moi",
+     "lemma": "moi",
+     "pos": "pron",
+     "stress": "mwa",
+     "gloss": "me",
+     "gram": "stressed first person pronoun for emphasis"
+    },
+    {
+     "t": "aussi,",
+     "lemma": "aussi",
+     "pos": "adv",
+     "stress": "osi",
+     "gloss": "too",
+     "gram": "adds Camille to the family"
+    },
+    {
+     "t": "je",
+     "lemma": "je",
+     "pos": "pron",
+     "stress": "ʒə",
+     "gloss": "I",
+     "gram": "first person singular subject"
+    },
+    {
+     "t": "suis",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "sɥi",
+     "gloss": "am",
+     "gram": "first person singular present"
+    },
+    {
+     "t": "ta",
+     "lemma": "ton",
+     "pos": "det",
+     "stress": "ta",
+     "gloss": "your",
+     "gram": "familiar feminine singular before famille"
+    },
+    {
+     "t": "famille!",
      "lemma": "famille",
      "pos": "noun",
      "stress": "famij",
@@ -452,76 +476,6 @@
   },
   {
    "seg": 9,
-   "trans": "I'm part of your family too!",
-   "words": [
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "fais",
-     "lemma": "faire",
-     "pos": "verb",
-     "stress": "fɛ",
-     "gloss": "am (part of)",
-     "gram": "first person singular present in faire partie de, be part of"
-    },
-    {
-     "t": "partie",
-     "lemma": "partie",
-     "pos": "noun",
-     "stress": "paʁti",
-     "gloss": "part",
-     "gram": "feminine singular noun in faire partie de"
-    },
-    {
-     "t": "de",
-     "lemma": "de",
-     "pos": "prep",
-     "stress": "də",
-     "gloss": "of",
-     "gram": "links part to the group someone belongs to"
-    },
-    {
-     "t": "ta",
-     "lemma": "ton",
-     "pos": "det",
-     "stress": "ta",
-     "gloss": "your",
-     "gram": "possessive, informal, feminine singular"
-    },
-    {
-     "t": "famille,",
-     "lemma": "famille",
-     "pos": "noun",
-     "stress": "famij",
-     "gloss": "family",
-     "gram": "feminine singular"
-    },
-    {
-     "t": "moi",
-     "lemma": "moi",
-     "pos": "pron",
-     "stress": "mwa",
-     "gloss": "me",
-     "gram": "stressed first person pronoun for emphasis"
-    },
-    {
-     "t": "aussi!",
-     "lemma": "aussi",
-     "pos": "adv",
-     "stress": "osi",
-     "gloss": "also",
-     "gram": "invariable adverb ('aussi', meaning 'also')"
-    }
-   ]
-  },
-  {
-   "seg": 10,
    "trans": "Have you got a light, Noémie?",
    "words": [
     {
@@ -567,37 +521,7 @@
    ]
   },
   {
-   "seg": 11,
-   "trans": "But wait... There you go.",
-   "words": [
-    {
-     "t": "Mais",
-     "lemma": "mais",
-     "pos": "conj",
-     "stress": "mɛ",
-     "gloss": "but",
-     "gram": "coordinating conjunction"
-    },
-    {
-     "t": "attends...",
-     "lemma": "attendre",
-     "pos": "verb",
-     "stress": "atɑ̃",
-     "gloss": "wait",
-     "gram": "imperative, 2nd person singular"
-    },
-    {
-     "t": "Voilà.",
-     "lemma": "voilà",
-     "pos": "adv",
-     "stress": "vwala",
-     "gloss": "there you go",
-     "gram": "presentation word offering the lighter"
-    }
-   ]
-  },
-  {
-   "seg": 12,
+   "seg": 10,
    "trans": "Thanks.",
    "words": [
     {
@@ -611,30 +535,46 @@
    ]
   },
   {
-   "seg": 13,
-   "trans": "It's nothing.",
+   "seg": 11,
+   "trans": "Don't worry.",
    "words": [
     {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "it is, that is",
-     "gram": "ce (it/that) + est: 3rd person singular present of être"
+     "t": "Ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
     },
     {
-     "t": "rien.",
-     "lemma": "rien",
+     "t": "t'en",
+     "lemma": "en",
      "pos": "pron",
-     "stress": "ʁjɛ̃",
-     "gloss": "nothing",
-     "gram": "negative pronoun, with ne"
+     "stress": "tɑ̃",
+     "gloss": "yourself (about it)",
+     "gram": "te plus en in the idiom s’en faire, worry"
+    },
+    {
+     "t": "fais",
+     "lemma": "faire",
+     "pos": "verb",
+     "stress": "fɛ",
+     "gloss": "worry",
+     "gram": "familiar singular negative imperative in ne pas s’en faire"
+    },
+    {
+     "t": "pas.",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
     }
    ]
   },
   {
-   "seg": 14,
-   "trans": "Sorrows, men, it all goes up in smoke.",
+   "seg": 12,
+   "trans": "Sorrows, men, everything eventually goes up in smoke.",
    "words": [
     {
      "t": "Les",
@@ -642,7 +582,7 @@
      "pos": "det",
      "stress": "le",
      "gloss": "the",
-     "gram": "definite article, plural"
+     "gram": "plural article before chagrins"
     },
     {
      "t": "chagrins,",
@@ -658,7 +598,7 @@
      "pos": "det",
      "stress": "le",
      "gloss": "the",
-     "gram": "definite article, plural"
+     "gram": "plural article before hommes"
     },
     {
      "t": "hommes,",
@@ -674,23 +614,39 @@
      "pos": "pron",
      "stress": "tu",
      "gloss": "everything",
-     "gram": "singular subject referring back to the sorrows and men"
+     "gram": "singular subject gathering the two topics"
     },
     {
-     "t": "part",
+     "t": "finit",
+     "lemma": "finir",
+     "pos": "verb",
+     "stress": "fini",
+     "gloss": "ends up",
+     "gram": "third person singular present in finir par"
+    },
+    {
+     "t": "par",
+     "lemma": "par",
+     "pos": "prep",
+     "stress": "paʁ",
+     "gloss": "(ends up)",
+     "gram": "links finir to the eventual action"
+    },
+    {
+     "t": "partir",
      "lemma": "partir",
      "pos": "verb",
-     "stress": "paʁ",
-     "gloss": "goes",
-     "gram": "third person singular present in partir en fumée, go up in smoke"
+     "stress": "paʁtiʁ",
+     "gloss": "go; disappear",
+     "gram": "infinitive after finir par"
     },
     {
      "t": "en",
      "lemma": "en",
      "pos": "prep",
      "stress": "ɑ̃",
-     "gloss": "in; into",
-     "gram": "part of en fumée, into smoke"
+     "gloss": "into",
+     "gram": "en fumée, into smoke"
     },
     {
      "t": "fumée.",
@@ -703,7 +659,7 @@
    ]
   },
   {
-   "seg": 16,
+   "seg": 14,
    "trans": "What are you playing at with my son?",
    "words": [
     {
@@ -756,6 +712,76 @@
     },
     {
      "t": "fils?",
+     "lemma": "fils",
+     "pos": "noun",
+     "stress": "fis",
+     "gloss": "son",
+     "gram": "masculine singular"
+    }
+   ]
+  },
+  {
+   "seg": 16,
+   "trans": "I didn't know he was your son.",
+   "words": [
+    {
+     "t": "Je",
+     "lemma": "je",
+     "pos": "pron",
+     "stress": "ʒə",
+     "gloss": "I",
+     "gram": "subject pronoun, 1st person singular"
+    },
+    {
+     "t": "ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "negation, first half, before the verb"
+    },
+    {
+     "t": "savais",
+     "lemma": "savoir",
+     "pos": "verb",
+     "stress": "savɛ",
+     "gloss": "knew",
+     "gram": "first person singular imparfait; know a fact"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "negation, second half, after the verb"
+    },
+    {
+     "t": "que",
+     "lemma": "que",
+     "pos": "conj",
+     "stress": "kə",
+     "gloss": "that",
+     "gram": "conjunction, introduces what to say"
+    },
+    {
+     "t": "c'était",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "setɛ",
+     "gloss": "it was, that was",
+     "gram": "ce (it/that) + était: 3rd person singular imperfect of être"
+    },
+    {
+     "t": "ton",
+     "lemma": "ton",
+     "pos": "det",
+     "stress": "tɔ̃",
+     "gloss": "your",
+     "gram": "possessive, informal, masculine singular"
+    },
+    {
+     "t": "fils.",
      "lemma": "fils",
      "pos": "noun",
      "stress": "fis",
@@ -766,76 +792,6 @@
   },
   {
    "seg": 18,
-   "trans": "I didn't know he was your son.",
-   "words": [
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "ne",
-     "lemma": "ne",
-     "pos": "part",
-     "stress": "nə",
-     "gloss": "not",
-     "gram": "negation, first half, before the verb"
-    },
-    {
-     "t": "savais",
-     "lemma": "savoir",
-     "pos": "verb",
-     "stress": "savɛ",
-     "gloss": "knew",
-     "gram": "first person singular imparfait; know a fact"
-    },
-    {
-     "t": "pas",
-     "lemma": "pas",
-     "pos": "part",
-     "stress": "pa",
-     "gloss": "not",
-     "gram": "negation, second half, after the verb"
-    },
-    {
-     "t": "que",
-     "lemma": "que",
-     "pos": "conj",
-     "stress": "kə",
-     "gloss": "that",
-     "gram": "conjunction, introduces what to say"
-    },
-    {
-     "t": "c'était",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "setɛ",
-     "gloss": "it was, that was",
-     "gram": "ce (it/that) + était: 3rd person singular imperfect of être"
-    },
-    {
-     "t": "ton",
-     "lemma": "ton",
-     "pos": "det",
-     "stress": "tɔ̃",
-     "gloss": "your",
-     "gram": "possessive, informal, masculine singular"
-    },
-    {
-     "t": "fils.",
-     "lemma": "fils",
-     "pos": "noun",
-     "stress": "fis",
-     "gloss": "son",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 20,
    "trans": "He didn't tell me.",
    "words": [
     {
@@ -889,7 +845,7 @@
    ]
   },
   {
-   "seg": 22,
+   "seg": 20,
    "trans": "You're completely irresponsible!",
    "words": [
     {
@@ -927,7 +883,7 @@
    ]
   },
   {
-   "seg": 24,
+   "seg": 22,
    "trans": "You're the one who lies to everybody!",
    "words": [
     {
@@ -997,62 +953,32 @@
    ]
   },
   {
-   "seg": 26,
-   "trans": "You're a coward!",
+   "seg": 24,
+   "trans": "You never took care of us!",
    "words": [
     {
      "t": "Tu",
      "lemma": "tu",
      "pos": "pron",
      "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Mathias"
     },
     {
-     "t": "es",
+     "t": "ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
+    },
+    {
+     "t": "t'es",
      "lemma": "être",
      "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "are",
-     "gram": "present, 2nd person singular"
-    },
-    {
-     "t": "un",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
-    },
-    {
-     "t": "lâche!",
-     "lemma": "lâche",
-     "pos": "noun",
-     "stress": "laʃ",
-     "gloss": "coward",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 28,
-   "trans": "You never told the truth about us!",
-   "words": [
-    {
-     "t": "Tu",
-     "lemma": "tu",
-     "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
-    },
-    {
-     "t": "n'as",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "na",
-     "gloss": "do not have, have not",
-     "gram": "ne (not) + as: 2nd person singular present of avoir"
+     "stress": "tɛ",
+     "gloss": "have (yourself)",
+     "gram": "te plus second person singular past helper être"
     },
     {
      "t": "jamais",
@@ -1060,123 +986,15 @@
      "pos": "adv",
      "stress": "ʒamɛ",
      "gloss": "never",
-     "gram": "negation, second part (with ne)"
+     "gram": "second negative element"
     },
     {
-     "t": "dit",
-     "lemma": "dire",
+     "t": "occupé",
+     "lemma": "s'occuper",
      "pos": "verb",
-     "stress": "di",
-     "gloss": "told",
-     "gram": "past participle of dire"
-    },
-    {
-     "t": "la",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "la",
-     "gloss": "the",
-     "gram": "definite article, feminine singular"
-    },
-    {
-     "t": "vérité",
-     "lemma": "vérité",
-     "pos": "noun",
-     "stress": "veʁite",
-     "gloss": "truth",
-     "gram": "feminine singular"
-    },
-    {
-     "t": "sur",
-     "lemma": "sur",
-     "pos": "prep",
-     "stress": "syʁ",
-     "gloss": "about",
-     "gram": "introduces the subject of the truth"
-    },
-    {
-     "t": "nous!",
-     "lemma": "nous",
-     "pos": "pron",
-     "stress": "nu",
-     "gloss": "us",
-     "gram": "stressed first person plural after sur"
-    }
-   ]
-  },
-  {
-   "seg": 30,
-   "trans": "Stay away from my family.",
-   "words": [
-    {
-     "t": "Reste",
-     "lemma": "rester",
-     "pos": "verb",
-     "stress": "ʁɛst",
-     "gloss": "stay",
-     "gram": "familiar singular imperative"
-    },
-    {
-     "t": "loin",
-     "lemma": "loin",
-     "pos": "adv",
-     "stress": "lwɛ̃",
-     "gloss": "far",
-     "gram": "adverb, loin de = far from"
-    },
-    {
-     "t": "de",
-     "lemma": "de",
-     "pos": "prep",
-     "stress": "də",
-     "gloss": "from",
-     "gram": "loin de means far from"
-    },
-    {
-     "t": "ma",
-     "lemma": "mon",
-     "pos": "det",
-     "stress": "ma",
-     "gloss": "my",
-     "gram": "possessive, feminine singular"
-    },
-    {
-     "t": "famille.",
-     "lemma": "famille",
-     "pos": "noun",
-     "stress": "famij",
-     "gloss": "family",
-     "gram": "feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 32,
-   "trans": "I'm part of your family too!",
-   "words": [
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "fais",
-     "lemma": "faire",
-     "pos": "verb",
-     "stress": "fɛ",
-     "gloss": "am (part of)",
-     "gram": "first person singular present in faire partie de, be part of"
-    },
-    {
-     "t": "partie",
-     "lemma": "partie",
-     "pos": "noun",
-     "stress": "paʁti",
-     "gloss": "part",
-     "gram": "feminine singular noun in faire partie de"
+     "stress": "ɔkype",
+     "gloss": "taken care",
+     "gram": "past participle with être; masculine singular for Mathias"
     },
     {
      "t": "de",
@@ -1184,26 +1002,86 @@
      "pos": "prep",
      "stress": "də",
      "gloss": "of",
-     "gram": "links part to the group someone belongs to"
+     "gram": "s’occuper de introduces the people cared for"
     },
     {
-     "t": "ta",
-     "lemma": "ton",
+     "t": "nous!",
+     "lemma": "nous",
+     "pos": "pron",
+     "stress": "nu",
+     "gloss": "us",
+     "gram": "stressed first person plural after de"
+    }
+   ]
+  },
+  {
+   "seg": 26,
+   "trans": "Stay away from my family!",
+   "words": [
+    {
+     "t": "Tu",
+     "lemma": "tu",
+     "pos": "pron",
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject"
+    },
+    {
+     "t": "ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
+    },
+    {
+     "t": "t'approches",
+     "lemma": "approcher",
+     "pos": "verb",
+     "stress": "tapʁɔʃ",
+     "gloss": "come near",
+     "gram": "te plus second person singular present in s’approcher de"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
+    },
+    {
+     "t": "de",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "də",
+     "gloss": "(near)",
+     "gram": "introduces what someone approaches"
+    },
+    {
+     "t": "ma",
+     "lemma": "mon",
      "pos": "det",
-     "stress": "ta",
-     "gloss": "your",
-     "gram": "possessive, informal, feminine singular"
+     "stress": "ma",
+     "gloss": "my",
+     "gram": "feminine singular possessive before famille"
     },
     {
-     "t": "famille,",
+     "t": "famille!",
      "lemma": "famille",
      "pos": "noun",
      "stress": "famij",
      "gloss": "family",
      "gram": "feminine singular"
-    },
+    }
+   ]
+  },
+  {
+   "seg": 28,
+   "trans": "I'm your family too!",
+   "words": [
     {
-     "t": "moi",
+     "t": "Moi",
      "lemma": "moi",
      "pos": "pron",
      "stress": "mwa",
@@ -1211,17 +1089,49 @@
      "gram": "stressed first person pronoun for emphasis"
     },
     {
-     "t": "aussi!",
+     "t": "aussi,",
      "lemma": "aussi",
      "pos": "adv",
      "stress": "osi",
-     "gloss": "also",
-     "gram": "invariable adverb ('aussi', meaning 'also')"
+     "gloss": "too",
+     "gram": "adds Camille to the family"
+    },
+    {
+     "t": "je",
+     "lemma": "je",
+     "pos": "pron",
+     "stress": "ʒə",
+     "gloss": "I",
+     "gram": "first person singular subject"
+    },
+    {
+     "t": "suis",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "sɥi",
+     "gloss": "am",
+     "gram": "first person singular present"
+    },
+    {
+     "t": "ta",
+     "lemma": "ton",
+     "pos": "det",
+     "stress": "ta",
+     "gloss": "your",
+     "gram": "familiar feminine singular before famille"
+    },
+    {
+     "t": "famille!",
+     "lemma": "famille",
+     "pos": "noun",
+     "stress": "famij",
+     "gloss": "family",
+     "gram": "feminine singular"
     }
    ]
   },
   {
-   "seg": 34,
+   "seg": 30,
    "trans": "Have you got a light, Noémie?",
    "words": [
     {
@@ -1267,37 +1177,7 @@
    ]
   },
   {
-   "seg": 36,
-   "trans": "But wait... There you go.",
-   "words": [
-    {
-     "t": "Mais",
-     "lemma": "mais",
-     "pos": "conj",
-     "stress": "mɛ",
-     "gloss": "but",
-     "gram": "coordinating conjunction"
-    },
-    {
-     "t": "attends...",
-     "lemma": "attendre",
-     "pos": "verb",
-     "stress": "atɑ̃",
-     "gloss": "wait",
-     "gram": "imperative, 2nd person singular"
-    },
-    {
-     "t": "Voilà.",
-     "lemma": "voilà",
-     "pos": "adv",
-     "stress": "vwala",
-     "gloss": "there you go",
-     "gram": "presentation word offering the lighter"
-    }
-   ]
-  },
-  {
-   "seg": 38,
+   "seg": 32,
    "trans": "Thanks.",
    "words": [
     {
@@ -1311,30 +1191,46 @@
    ]
   },
   {
-   "seg": 40,
-   "trans": "It's nothing.",
+   "seg": 34,
+   "trans": "Don't worry.",
    "words": [
     {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "it is, that is",
-     "gram": "ce (it/that) + est: 3rd person singular present of être"
+     "t": "Ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
     },
     {
-     "t": "rien.",
-     "lemma": "rien",
+     "t": "t'en",
+     "lemma": "en",
      "pos": "pron",
-     "stress": "ʁjɛ̃",
-     "gloss": "nothing",
-     "gram": "negative pronoun, with ne"
+     "stress": "tɑ̃",
+     "gloss": "yourself (about it)",
+     "gram": "te plus en in the idiom s’en faire, worry"
+    },
+    {
+     "t": "fais",
+     "lemma": "faire",
+     "pos": "verb",
+     "stress": "fɛ",
+     "gloss": "worry",
+     "gram": "familiar singular negative imperative in ne pas s’en faire"
+    },
+    {
+     "t": "pas.",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
     }
    ]
   },
   {
-   "seg": 42,
-   "trans": "Sorrows, men, it all goes up in smoke.",
+   "seg": 36,
+   "trans": "Sorrows, men, everything eventually goes up in smoke.",
    "words": [
     {
      "t": "Les",
@@ -1342,7 +1238,7 @@
      "pos": "det",
      "stress": "le",
      "gloss": "the",
-     "gram": "definite article, plural"
+     "gram": "plural article before chagrins"
     },
     {
      "t": "chagrins,",
@@ -1358,7 +1254,7 @@
      "pos": "det",
      "stress": "le",
      "gloss": "the",
-     "gram": "definite article, plural"
+     "gram": "plural article before hommes"
     },
     {
      "t": "hommes,",
@@ -1374,23 +1270,39 @@
      "pos": "pron",
      "stress": "tu",
      "gloss": "everything",
-     "gram": "singular subject referring back to the sorrows and men"
+     "gram": "singular subject gathering the two topics"
     },
     {
-     "t": "part",
+     "t": "finit",
+     "lemma": "finir",
+     "pos": "verb",
+     "stress": "fini",
+     "gloss": "ends up",
+     "gram": "third person singular present in finir par"
+    },
+    {
+     "t": "par",
+     "lemma": "par",
+     "pos": "prep",
+     "stress": "paʁ",
+     "gloss": "(ends up)",
+     "gram": "links finir to the eventual action"
+    },
+    {
+     "t": "partir",
      "lemma": "partir",
      "pos": "verb",
-     "stress": "paʁ",
-     "gloss": "goes",
-     "gram": "third person singular present in partir en fumée, go up in smoke"
+     "stress": "paʁtiʁ",
+     "gloss": "go; disappear",
+     "gram": "infinitive after finir par"
     },
     {
      "t": "en",
      "lemma": "en",
      "pos": "prep",
      "stress": "ɑ̃",
-     "gloss": "in; into",
-     "gram": "part of en fumée, into smoke"
+     "gloss": "into",
+     "gram": "en fumée, into smoke"
     },
     {
      "t": "fumée.",
@@ -1403,7 +1315,7 @@
    ]
   },
   {
-   "seg": 44,
+   "seg": 38,
    "trans": "What are you playing at with my son?",
    "words": [
     {
@@ -1465,7 +1377,7 @@
    ]
   },
   {
-   "seg": 45,
+   "seg": 39,
    "trans": "I didn't know he was your son.",
    "words": [
     {
@@ -1535,7 +1447,7 @@
    ]
   },
   {
-   "seg": 46,
+   "seg": 40,
    "trans": "He didn't tell me.",
    "words": [
     {
@@ -1589,7 +1501,7 @@
    ]
   },
   {
-   "seg": 47,
+   "seg": 41,
    "trans": "You're completely irresponsible!",
    "words": [
     {
@@ -1627,7 +1539,7 @@
    ]
   },
   {
-   "seg": 48,
+   "seg": 42,
    "trans": "You're the one who lies to everybody!",
    "words": [
     {
@@ -1697,62 +1609,32 @@
    ]
   },
   {
-   "seg": 49,
-   "trans": "You're a coward!",
+   "seg": 43,
+   "trans": "You never took care of us!",
    "words": [
     {
      "t": "Tu",
      "lemma": "tu",
      "pos": "pron",
      "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
+     "gloss": "you",
+     "gram": "familiar singular subject addressing Mathias"
     },
     {
-     "t": "es",
+     "t": "ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
+    },
+    {
+     "t": "t'es",
      "lemma": "être",
      "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "are",
-     "gram": "present, 2nd person singular"
-    },
-    {
-     "t": "un",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
-    },
-    {
-     "t": "lâche!",
-     "lemma": "lâche",
-     "pos": "noun",
-     "stress": "laʃ",
-     "gloss": "coward",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 50,
-   "trans": "You never told the truth about us!",
-   "words": [
-    {
-     "t": "Tu",
-     "lemma": "tu",
-     "pos": "pron",
-     "stress": "ty",
-     "gloss": "you (casual)",
-     "gram": "subject pronoun, 2nd person singular, informal"
-    },
-    {
-     "t": "n'as",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "na",
-     "gloss": "do not have, have not",
-     "gram": "ne (not) + as: 2nd person singular present of avoir"
+     "stress": "tɛ",
+     "gloss": "have (yourself)",
+     "gram": "te plus second person singular past helper être"
     },
     {
      "t": "jamais",
@@ -1760,123 +1642,15 @@
      "pos": "adv",
      "stress": "ʒamɛ",
      "gloss": "never",
-     "gram": "negation, second part (with ne)"
+     "gram": "second negative element"
     },
     {
-     "t": "dit",
-     "lemma": "dire",
+     "t": "occupé",
+     "lemma": "s'occuper",
      "pos": "verb",
-     "stress": "di",
-     "gloss": "told",
-     "gram": "past participle of dire"
-    },
-    {
-     "t": "la",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "la",
-     "gloss": "the",
-     "gram": "definite article, feminine singular"
-    },
-    {
-     "t": "vérité",
-     "lemma": "vérité",
-     "pos": "noun",
-     "stress": "veʁite",
-     "gloss": "truth",
-     "gram": "feminine singular"
-    },
-    {
-     "t": "sur",
-     "lemma": "sur",
-     "pos": "prep",
-     "stress": "syʁ",
-     "gloss": "about",
-     "gram": "introduces the subject of the truth"
-    },
-    {
-     "t": "nous!",
-     "lemma": "nous",
-     "pos": "pron",
-     "stress": "nu",
-     "gloss": "us",
-     "gram": "stressed first person plural after sur"
-    }
-   ]
-  },
-  {
-   "seg": 51,
-   "trans": "Stay away from my family.",
-   "words": [
-    {
-     "t": "Reste",
-     "lemma": "rester",
-     "pos": "verb",
-     "stress": "ʁɛst",
-     "gloss": "stay",
-     "gram": "familiar singular imperative"
-    },
-    {
-     "t": "loin",
-     "lemma": "loin",
-     "pos": "adv",
-     "stress": "lwɛ̃",
-     "gloss": "far",
-     "gram": "adverb, loin de = far from"
-    },
-    {
-     "t": "de",
-     "lemma": "de",
-     "pos": "prep",
-     "stress": "də",
-     "gloss": "from",
-     "gram": "loin de means far from"
-    },
-    {
-     "t": "ma",
-     "lemma": "mon",
-     "pos": "det",
-     "stress": "ma",
-     "gloss": "my",
-     "gram": "possessive, feminine singular"
-    },
-    {
-     "t": "famille.",
-     "lemma": "famille",
-     "pos": "noun",
-     "stress": "famij",
-     "gloss": "family",
-     "gram": "feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 52,
-   "trans": "I'm part of your family too!",
-   "words": [
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "fais",
-     "lemma": "faire",
-     "pos": "verb",
-     "stress": "fɛ",
-     "gloss": "am (part of)",
-     "gram": "first person singular present in faire partie de, be part of"
-    },
-    {
-     "t": "partie",
-     "lemma": "partie",
-     "pos": "noun",
-     "stress": "paʁti",
-     "gloss": "part",
-     "gram": "feminine singular noun in faire partie de"
+     "stress": "ɔkype",
+     "gloss": "taken care",
+     "gram": "past participle with être; masculine singular for Mathias"
     },
     {
      "t": "de",
@@ -1884,26 +1658,86 @@
      "pos": "prep",
      "stress": "də",
      "gloss": "of",
-     "gram": "links part to the group someone belongs to"
+     "gram": "s’occuper de introduces the people cared for"
     },
     {
-     "t": "ta",
-     "lemma": "ton",
+     "t": "nous!",
+     "lemma": "nous",
+     "pos": "pron",
+     "stress": "nu",
+     "gloss": "us",
+     "gram": "stressed first person plural after de"
+    }
+   ]
+  },
+  {
+   "seg": 44,
+   "trans": "Stay away from my family!",
+   "words": [
+    {
+     "t": "Tu",
+     "lemma": "tu",
+     "pos": "pron",
+     "stress": "ty",
+     "gloss": "you",
+     "gram": "familiar singular subject"
+    },
+    {
+     "t": "ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
+    },
+    {
+     "t": "t'approches",
+     "lemma": "approcher",
+     "pos": "verb",
+     "stress": "tapʁɔʃ",
+     "gloss": "come near",
+     "gram": "te plus second person singular present in s’approcher de"
+    },
+    {
+     "t": "pas",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
+    },
+    {
+     "t": "de",
+     "lemma": "de",
+     "pos": "prep",
+     "stress": "də",
+     "gloss": "(near)",
+     "gram": "introduces what someone approaches"
+    },
+    {
+     "t": "ma",
+     "lemma": "mon",
      "pos": "det",
-     "stress": "ta",
-     "gloss": "your",
-     "gram": "possessive, informal, feminine singular"
+     "stress": "ma",
+     "gloss": "my",
+     "gram": "feminine singular possessive before famille"
     },
     {
-     "t": "famille,",
+     "t": "famille!",
      "lemma": "famille",
      "pos": "noun",
      "stress": "famij",
      "gloss": "family",
      "gram": "feminine singular"
-    },
+    }
+   ]
+  },
+  {
+   "seg": 45,
+   "trans": "I'm your family too!",
+   "words": [
     {
-     "t": "moi",
+     "t": "Moi",
      "lemma": "moi",
      "pos": "pron",
      "stress": "mwa",
@@ -1911,17 +1745,49 @@
      "gram": "stressed first person pronoun for emphasis"
     },
     {
-     "t": "aussi!",
+     "t": "aussi,",
      "lemma": "aussi",
      "pos": "adv",
      "stress": "osi",
-     "gloss": "also",
-     "gram": "invariable adverb ('aussi', meaning 'also')"
+     "gloss": "too",
+     "gram": "adds Camille to the family"
+    },
+    {
+     "t": "je",
+     "lemma": "je",
+     "pos": "pron",
+     "stress": "ʒə",
+     "gloss": "I",
+     "gram": "first person singular subject"
+    },
+    {
+     "t": "suis",
+     "lemma": "être",
+     "pos": "verb",
+     "stress": "sɥi",
+     "gloss": "am",
+     "gram": "first person singular present"
+    },
+    {
+     "t": "ta",
+     "lemma": "ton",
+     "pos": "det",
+     "stress": "ta",
+     "gloss": "your",
+     "gram": "familiar feminine singular before famille"
+    },
+    {
+     "t": "famille!",
+     "lemma": "famille",
+     "pos": "noun",
+     "stress": "famij",
+     "gloss": "family",
+     "gram": "feminine singular"
     }
    ]
   },
   {
-   "seg": 53,
+   "seg": 46,
    "trans": "Have you got a light, Noémie?",
    "words": [
     {
@@ -1967,37 +1833,7 @@
    ]
   },
   {
-   "seg": 54,
-   "trans": "But wait... There you go.",
-   "words": [
-    {
-     "t": "Mais",
-     "lemma": "mais",
-     "pos": "conj",
-     "stress": "mɛ",
-     "gloss": "but",
-     "gram": "coordinating conjunction"
-    },
-    {
-     "t": "attends...",
-     "lemma": "attendre",
-     "pos": "verb",
-     "stress": "atɑ̃",
-     "gloss": "wait",
-     "gram": "imperative, 2nd person singular"
-    },
-    {
-     "t": "Voilà.",
-     "lemma": "voilà",
-     "pos": "adv",
-     "stress": "vwala",
-     "gloss": "there you go",
-     "gram": "presentation word offering the lighter"
-    }
-   ]
-  },
-  {
-   "seg": 55,
+   "seg": 47,
    "trans": "Thanks.",
    "words": [
     {
@@ -2011,30 +1847,46 @@
    ]
   },
   {
-   "seg": 56,
-   "trans": "It's nothing.",
+   "seg": 48,
+   "trans": "Don't worry.",
    "words": [
     {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "it is, that is",
-     "gram": "ce (it/that) + est: 3rd person singular present of être"
+     "t": "Ne",
+     "lemma": "ne",
+     "pos": "part",
+     "stress": "nə",
+     "gloss": "not",
+     "gram": "first negative element"
     },
     {
-     "t": "rien.",
-     "lemma": "rien",
+     "t": "t'en",
+     "lemma": "en",
      "pos": "pron",
-     "stress": "ʁjɛ̃",
-     "gloss": "nothing",
-     "gram": "negative pronoun, with ne"
+     "stress": "tɑ̃",
+     "gloss": "yourself (about it)",
+     "gram": "te plus en in the idiom s’en faire, worry"
+    },
+    {
+     "t": "fais",
+     "lemma": "faire",
+     "pos": "verb",
+     "stress": "fɛ",
+     "gloss": "worry",
+     "gram": "familiar singular negative imperative in ne pas s’en faire"
+    },
+    {
+     "t": "pas.",
+     "lemma": "pas",
+     "pos": "part",
+     "stress": "pa",
+     "gloss": "not",
+     "gram": "second negative element"
     }
    ]
   },
   {
-   "seg": 57,
-   "trans": "Sorrows, men, it all goes up in smoke.",
+   "seg": 49,
+   "trans": "Sorrows, men, everything eventually goes up in smoke.",
    "words": [
     {
      "t": "Les",
@@ -2042,7 +1894,7 @@
      "pos": "det",
      "stress": "le",
      "gloss": "the",
-     "gram": "definite article, plural"
+     "gram": "plural article before chagrins"
     },
     {
      "t": "chagrins,",
@@ -2058,7 +1910,7 @@
      "pos": "det",
      "stress": "le",
      "gloss": "the",
-     "gram": "definite article, plural"
+     "gram": "plural article before hommes"
     },
     {
      "t": "hommes,",
@@ -2074,23 +1926,39 @@
      "pos": "pron",
      "stress": "tu",
      "gloss": "everything",
-     "gram": "singular subject referring back to the sorrows and men"
+     "gram": "singular subject gathering the two topics"
     },
     {
-     "t": "part",
+     "t": "finit",
+     "lemma": "finir",
+     "pos": "verb",
+     "stress": "fini",
+     "gloss": "ends up",
+     "gram": "third person singular present in finir par"
+    },
+    {
+     "t": "par",
+     "lemma": "par",
+     "pos": "prep",
+     "stress": "paʁ",
+     "gloss": "(ends up)",
+     "gram": "links finir to the eventual action"
+    },
+    {
+     "t": "partir",
      "lemma": "partir",
      "pos": "verb",
-     "stress": "paʁ",
-     "gloss": "goes",
-     "gram": "third person singular present in partir en fumée, go up in smoke"
+     "stress": "paʁtiʁ",
+     "gloss": "go; disappear",
+     "gram": "infinitive after finir par"
     },
     {
      "t": "en",
      "lemma": "en",
      "pos": "prep",
      "stress": "ɑ̃",
-     "gloss": "in; into",
-     "gram": "part of en fumée, into smoke"
+     "gloss": "into",
+     "gram": "en fumée, into smoke"
     },
     {
      "t": "fumée.",
@@ -2103,7 +1971,7 @@
    ]
   },
   {
-   "seg": 59,
+   "seg": 51,
    "trans": "See you tomorrow, Camille.",
    "words": [
     {
@@ -2134,192 +2002,6 @@
   }
  ],
  "lexicon": {
-  "attendre": {
-   "lemma": "attendre",
-   "stress": "atɑ̃dʁ",
-   "pos": "verb",
-   "gloss": "to wait (for); to expect",
-   "meanings": [
-    {
-     "en": "to wait for",
-     "note": "No preposition: attendre quelqu'un. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to wait (for); to expect'."
-    },
-    {
-     "en": "to expect (a visitor)",
-     "note": "Il vous attend?. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to wait (for); to expect'."
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "j'attends",
-       "nous attendons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu attends",
-       "vous attendez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle attend",
-       "ils/elles attendent"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Passé composé",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai attendu",
-        "nous avons attendu"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as attendu",
-        "vous avez attendu"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a attendu",
-        "ils/elles ont attendu"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imparfait",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'attendais",
-        "nous attendions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu attendais",
-        "vous attendiez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle attendait",
-        "ils/elles attendaient"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Futur",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'attendrai",
-        "nous attendrons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu attendras",
-        "vous attendrez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle attendra",
-        "ils/elles attendront"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "—",
-        "attendons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "attends",
-        "attendez"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Attendez-moi deux minutes devant le bureau!",
-     "trans": "Wait two minutes for me in front of the office!"
-    },
-    {
-     "text": "Nous attendons un appel très important de Los Angeles.",
-     "trans": "We are waiting for a very important call from Los Angeles."
-    },
-    {
-     "text": "On attend l'appel.",
-     "trans": "We're waiting for the call."
-    }
-   ],
-   "related": [
-    {
-     "word": "attention",
-     "gloss": "attention"
-    }
-   ]
-  },
   "aussi": {
    "lemma": "aussi",
    "stress": "osi",
@@ -3759,127 +3441,6 @@
     }
    ]
   },
-  "loin": {
-   "lemma": "loin",
-   "stress": "lwɛ̃",
-   "pos": "adv",
-   "gloss": "far",
-   "meanings": [
-    {
-     "en": "far",
-     "note": "Far away; loin de, far from."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Tu es loin de ce business.",
-     "trans": "You're far from this business."
-    },
-    {
-     "text": "C'est loin?",
-     "trans": "Is it far?"
-    },
-    {
-     "text": "Tu es loin de ce business. Je le pense vraiment.",
-     "trans": "You're far from this business. I really mean it."
-    }
-   ],
-   "related": []
-  },
-  "lâche": {
-   "lemma": "lâche",
-   "stress": "laʃ",
-   "pos": "noun",
-   "gloss": "coward",
-   "gender": "m",
-   "plural": "lâches",
-   "meanings": [
-    {
-     "en": "coward",
-     "note": "A coward; un lâche or une lâche."
-    },
-    {
-     "en": "cowardly; loose",
-     "note": "As an adjective, cowardly; the spelling stays the same for masculine and feminine."
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "m",
-       "un lâche",
-       "des lâches"
-      ]
-     },
-     {
-      "cells": [
-       "f",
-       "une lâche",
-       "des lâches"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Tu es un lâche.",
-     "trans": "You're a coward."
-    },
-    {
-     "text": "Ne sois pas lâche!",
-     "trans": "Don't be a coward!"
-    },
-    {
-     "text": "Tu es un menteur et un lâche. Je sais que c'est à cause de mon âge.",
-     "trans": "You're a liar and a coward. I know it's because of my age."
-    }
-   ],
-   "related": []
-  },
-  "mais": {
-   "lemma": "mais",
-   "stress": "mɛ",
-   "pos": "conj",
-   "gloss": "but",
-   "meanings": [
-    {
-     "en": "but",
-     "note": "Mais oui! = of course!. French conjunction meaning 'but', used to link clauses in spoken and written discourse."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Non, mais c'est important.",
-     "trans": "No, but it's important."
-    },
-    {
-     "text": "Mais pourquoi?",
-     "trans": "But why?"
-    },
-    {
-     "text": "Mon père, mais c'est compliqué.",
-     "trans": "My dad, but it's complicated."
-    }
-   ],
-   "related": [
-    {
-     "word": "maison",
-     "gloss": "house"
-    }
-   ]
-  },
   "me": {
    "lemma": "me",
    "stress": "mə",
@@ -4307,61 +3868,6 @@
     }
    ]
   },
-  "partie": {
-   "lemma": "partie",
-   "stress": "paʁti",
-   "pos": "noun",
-   "gloss": "part",
-   "gender": "f",
-   "plural": "parties",
-   "meanings": [
-    {
-     "en": "part",
-     "note": "A part or portion of a whole."
-    },
-    {
-     "en": "faire partie de = to be part of",
-     "note": "In faire partie de, belong to or be part of."
-    },
-    {
-     "en": "game, match",
-     "note": "A game or match, such as une partie de cartes."
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "la partie",
-       "les parties"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Je fais partie de ta famille.",
-     "trans": "I'm part of your family."
-    },
-    {
-     "text": "Une partie du film.",
-     "trans": "Part of the film."
-    },
-    {
-     "text": "Je fais partie de ta famille, moi aussi!",
-     "trans": "I'm part of your family too!"
-    }
-   ],
-   "related": []
-  },
   "partir": {
    "lemma": "partir",
    "stress": "paʁtiʁ",
@@ -4690,193 +4196,6 @@
    ],
    "related": []
   },
-  "rester": {
-   "lemma": "rester",
-   "stress": "ʁɛste",
-   "pos": "verb",
-   "gloss": "to stay",
-   "meanings": [
-    {
-     "en": "to stay, to remain",
-     "note": "Stay or remain; compound past uses être."
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je reste",
-       "nous restons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu restes",
-       "vous restez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il reste",
-       "ils restent"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Passé composé",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je suis resté(e)",
-        "nous sommes restés"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu es resté(e)",
-        "vous êtes resté(s)"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il est resté",
-        "ils sont restés"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imparfait",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je restais",
-        "nous restions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu restais",
-        "vous restiez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il restait",
-        "ils restaient"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Futur",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je resterai",
-        "nous resterons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu resteras",
-        "vous resterez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il restera",
-        "ils resteront"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Je reste à Paris.",
-     "trans": "I'm staying in Paris."
-    },
-    {
-     "text": "Elle est restée à l'agence.",
-     "trans": "She stayed with the agency."
-    },
-    {
-     "text": "Oui, mais Cécile est restée à l'agence.",
-     "trans": "Yes, but Cécile stayed with the agency."
-    }
-   ],
-   "related": []
-  },
-  "rien": {
-   "lemma": "rien",
-   "stress": "ʁjɛ̃",
-   "pos": "pron",
-   "gloss": "nothing",
-   "meanings": [
-    {
-     "en": "nothing",
-     "note": "with ne: je ne promets rien; rien n'est signé"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Je ne promets rien.",
-     "trans": "I'm not promising anything."
-    },
-    {
-     "text": "Rien n'est signé.",
-     "trans": "Nothing is signed."
-    },
-    {
-     "text": "Rien n'est signé. On attend l'appel.",
-     "trans": "Nothing is signed. We're waiting for the call."
-    }
-   ],
-   "related": [
-    {
-     "word": "rien du tout",
-     "gloss": "nothing at all"
-    }
-   ]
-  },
   "savoir": {
    "lemma": "savoir",
    "stress": "savwaʁ",
@@ -5036,44 +4355,6 @@
     {
      "word": "je ne sais pas",
      "gloss": "I don't know"
-    }
-   ]
-  },
-  "sur": {
-   "lemma": "sur",
-   "stress": "syʁ",
-   "pos": "prep",
-   "gloss": "on, onto",
-   "meanings": [
-    {
-     "en": "on, onto",
-     "note": "Sur la table, sur la route. Core French preposition meaning 'on', linking a noun phrase or infinitive complement to the clause."
-    },
-    {
-     "en": "on (a device)",
-     "note": "Sur haut-parleur = on speaker. Core French preposition meaning 'on', linking a noun phrase or infinitive complement to the clause."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Le livre est sur la table.",
-     "trans": "The book is on the table."
-    },
-    {
-     "text": "Tu es sur haut-parleur.",
-     "trans": "You're on speaker."
-    },
-    {
-     "text": "Attention, tu arrives sur la route!",
-     "trans": "Careful, you're heading for the road!"
-    }
-   ],
-   "related": [
-    {
-     "word": "sur",
-     "gloss": "on"
     }
    ]
   },
@@ -5265,147 +4546,6 @@
      "gloss": "you (polite or plural)"
     }
    ]
-  },
-  "un": {
-   "lemma": "un",
-   "stress": "œ̃",
-   "pos": "det",
-   "gloss": "a, an; one",
-   "meanings": [
-    {
-     "en": "a, an",
-     "note": "indefinite article; des in the plural"
-    },
-    {
-     "en": "one",
-     "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "un",
-       "une"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "des",
-       "des"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Un café, s'il vous plaît.",
-     "trans": "A coffee, please."
-    },
-    {
-     "text": "Dans une heure.",
-     "trans": "In an hour."
-    },
-    {
-     "text": "L'un à midi, l'autre à deux heures.",
-     "trans": "One at noon, the other at two."
-    }
-   ],
-   "related": [
-    {
-     "word": "un",
-     "gloss": "a"
-    }
-   ]
-  },
-  "voilà": {
-   "lemma": "voilà",
-   "stress": "vwala",
-   "pos": "adv",
-   "gloss": "there is; here's; there you go",
-   "meanings": [
-    {
-     "en": "there is, here's",
-     "note": "Presents something available or just completed: there it is, there you go."
-    },
-    {
-     "en": "there you go, that's it",
-     "note": "Can sum up or close an explanation."
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Voilà exactement le contrat que je cherchais depuis ce matin!",
-     "trans": "Here is the exact contract I have been looking for since this morning!"
-    },
-    {
-     "text": "Nous voilà enfin arrivés devant le grand hôtel.",
-     "trans": "Here we are at last in front of the grand hotel."
-    },
-    {
-     "text": "Voilà la salle de presse.",
-     "trans": "Here's the press room."
-    }
-   ],
-   "related": []
-  },
-  "vérité": {
-   "lemma": "vérité",
-   "stress": "veʁite",
-   "pos": "noun",
-   "gloss": "truth",
-   "gender": "f",
-   "plural": "vérités",
-   "meanings": [
-    {
-     "en": "truth",
-     "note": "Truth; dire la vérité, tell the truth."
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "la vérité",
-       "les vérités"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Dis la vérité!",
-     "trans": "Tell the truth!"
-    },
-    {
-     "text": "Tu n'as jamais dit la vérité sur nous!",
-     "trans": "You never told the truth about us!"
-    },
-    {
-     "text": "Dites la vérité.",
-     "trans": "Tell the truth."
-    }
-   ],
-   "related": []
   },
   "à": {
    "lemma": "à",
@@ -5638,6 +4778,374 @@
      "gloss": "maybe, perhaps"
     }
    ]
+  },
+  "approcher": {
+   "lemma": "approcher",
+   "stress": "apʁɔʃe",
+   "pos": "verb",
+   "gloss": "to approach",
+   "meanings": [
+    {
+     "en": "to approach, to go up to",
+     "note": "Here, contact a prospective client to sound her out. Also approach someone physically."
+    },
+    {
+     "en": "come near",
+     "note": "Pronominal s’approcher de means move closer to a person or thing."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "j'approche",
+       "nous approchons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu approches",
+       "vous approchez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle approche",
+       "ils/elles approchent"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Passé composé",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'ai approché",
+        "nous avons approché"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu as approché",
+        "vous avez approché"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle a approché",
+        "ils/elles ont approché"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Imparfait",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'approchais",
+        "nous approchions"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu approchais",
+        "vous approchiez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle approchait",
+        "ils/elles approchaient"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Futur",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'approcherai",
+        "nous approcherons"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu approcheras",
+        "vous approcherez"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle approchera",
+        "ils/elles approcheront"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Vous l'avez approchée?",
+     "trans": "You approached her?"
+    },
+    {
+     "text": "Approchez, s'il vous plaît.",
+     "trans": "Come closer, please."
+    },
+    {
+     "text": "Le bilan de fin d'année approche rapidement.",
+     "trans": "The year-end review is approaching quickly."
+    }
+   ],
+   "related": []
+  },
+  "s'occuper": {
+   "lemma": "s'occuper",
+   "stress": "sɔkype",
+   "pos": "verb",
+   "gloss": "to take care of; to deal with",
+   "meanings": [
+    {
+     "en": "take care of someone",
+     "note": "S’occuper de introduces the person looked after."
+    },
+    {
+     "en": "deal with a task or matter",
+     "note": "Use the same de to introduce the matter being handled."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "je m'occupe",
+       "nous nous occupons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu t'occupes",
+       "vous vous occupez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle s'occupe",
+       "ils/elles s'occupent"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Passé composé",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "je me suis occupé(e)",
+        "nous nous sommes occupé(e)s"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu t'es occupé(e)",
+        "vous vous êtes occupé(e)(s)"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle s'est occupé(e)",
+        "ils/elles se sont occupé(e)s"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Elle s'occupe de ses enfants.",
+     "trans": "She takes care of her children."
+    },
+    {
+     "text": "Je m'occupe du dossier.",
+     "trans": "I'm handling the file."
+    }
+   ],
+   "related": []
+  },
+  "finir": {
+   "lemma": "finir",
+   "stress": "finiʁ",
+   "pos": "verb",
+   "gloss": "to finish; to end",
+   "meanings": [
+    {
+     "en": "finish or end",
+     "note": "Finir par plus infinitive means eventually do something or end up doing it."
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "je finis",
+       "nous finissons"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "tu finis",
+       "vous finissez"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "il/elle finit",
+       "ils/elles finissent"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Passé composé",
+     "columns": [
+      "",
+      "sg",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "1st",
+        "j'ai fini",
+        "nous avons fini"
+       ]
+      },
+      {
+       "cells": [
+        "2nd",
+        "tu as fini",
+        "vous avez fini"
+       ]
+      },
+      {
+       "cells": [
+        "3rd",
+        "il/elle a fini",
+        "ils/elles ont fini"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Tout finit par passer.",
+     "trans": "Everything eventually passes."
+    },
+    {
+     "text": "Je finis mon travail.",
+     "trans": "I'm finishing my work."
+    }
+   ],
+   "related": []
+  },
+  "par": {
+   "lemma": "par",
+   "stress": "paʁ",
+   "pos": "prep",
+   "gloss": "by, through",
+   "meanings": [
+    {
+     "en": "by, through",
+     "note": "By or through; also links an action after commencer par or finir par."
+    },
+    {
+     "en": "par exemple = for example",
+     "note": "Introduces the agent or means of an action."
+    }
+   ],
+   "forms": null,
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Par exemple, le contrat de Canet.",
+     "trans": "For example, Canet's contract."
+    },
+    {
+     "text": "Passe par ici.",
+     "trans": "Come this way."
+    },
+    {
+     "text": "Je peux regarder un contrat de Mathias? Celui de Canet, par exemple?",
+     "trans": "Can I look at one of Mathias's contracts? Canet's, for example?"
+    }
+   ],
+   "related": []
   }
  }
 }
