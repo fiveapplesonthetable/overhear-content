@@ -25,8 +25,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Cécile | Gabriel? Tu es encore là? | Gabriel? You're still here? | #894 00:52:26: Encore là | adapted: Shortened or rephrased from the cited source dialogue. |
 | 14 | Cécile | Je ne le fais pas. | I'm not doing it. | new | new: New short line expresses Cecile’s decision shown by her return from the clinic; not a quotation of the ambiguous source jamais turn. |
 | 15 | Gabriel | Je le savais! Tu es une grande actrice. | I knew it! You're a great actress. | #894 00:52:26: Je savais<br>#897 00:52:35: grande actrice | adapted: Shortened or rephrased from the cited source dialogue. |
-| 16 | Cécile | Gabriel, mon ange gardien, tu veux être mon agent? | Gabriel, my guardian angel, will you be my agent? | #900 00:52:43: Gabriel, mon ange gardien<br>#901 00:52:45: Tu veux être mon agent | verbatim |
-| 17 | Gabriel | Et comment! | You bet! | #902 00:52:48: Et comment | verbatim |
+| 16 | Cécile | Gabriel, mon ange gardien, vous voulez être mon agent? | Gabriel, my guardian angel, will you be my agent? | #900 00:52:43: Gabriel, mon ange gardien<br>#901 00:52:45: Tu veux être mon agent | adapted: Original audio uses playful formal vous accepteriez; simplified to present vous voulez while retaining the formal address. |
+| 17 | Gabriel | Oui, madame! | Yes, madam! | #902 00:52:48: Et comment | adapted: Original audio replies Madame; yes is made explicit. The reconstructed Et comment is not followed. |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -46,9 +46,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Gabriel? You're still here?' The small word before 'here' means 'still'. Cecile comes back outside and finds that Gabriel has waited with his scooter.
 - 'I'm not doing it.' This short line makes Cecile's decision explicit. The object meaning 'it' goes before 'do', inside the two little negative words.
 - 'I knew it! You're a great actress.' The word for 'great' comes before the noun here, and it is feminine to match the actress. Then Cécile asks him something important.
-- 'Gabriel, my guardian angel, will you be my agent?' Cécile asks a question in the casual form, just by raising her voice at the end. She wants him back.
-- 'You bet!' Literally 'and how!'. It's a happy, enthusiastic yes. Here's the scene again from the beginning, straight through.
+- 'Gabriel, my guardian angel, will you be my agent?' Cecile now chooses polite 'you' for a playful request. They have been speaking familiarly, but she treats him as an agent she is asking to hire.
+- 'Yes, madam!' Gabriel answers in the same polite tone. The title for a woman makes his enthusiastic yes sound like a formal acceptance.
 
-## Primary-video review
+## Source review
 
-The first clinic discussion is at the stables. Gabriel later gives Cecile a scooter ride and waits outside. The new short refusal makes her shown decision explicit; it does not quote the ambiguous jamais turn. The artwork now shows the outdoor scooter setting.
+Original video confirms the first clinic discussion is at the stables; Gabriel later gives Cecile a scooter ride and waits outside. The new short refusal makes her shown decision explicit. Original French audio confirms Cecile’s final playful formal request and Gabriel’s Madame reply. The learner request simplifies the conditional to vous voulez while retaining that formality; Oui makes his affirmative reply explicit. The image was repaired to show the outdoor scooter setting.

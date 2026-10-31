@@ -14,7 +14,8 @@ INTRO = ('After his meeting with Miranda, Mathias visits Cecile at home. She has
  'but she lets Mathias join her in the garden. Hear the French first and follow the change in her mood.')
 OPENER = "Let's go through the visit. Cecile welcomes Mathias, but she is not yet ready to trust another agent."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's this scene done. When you watch it, notice how the polite 'you' turns casual as they work side by side in the garden. See you next time!"
+OUTRO = ('You have heard an apology and several requests for help; listen again for the polite forms and the small '
+ 'words naming who is helped. See you next time.')
 CLOSING = ('cecile', 'À bientôt, Mathias!')
 STORY = [('cecile',
   'Bonjour, Mathias. Entrez.',
@@ -38,26 +39,30 @@ STORY = [('cecile',
   [(659, 'Je sais que vous êtes là pour me récupérer'), (660, "il n'y a aucune chance")],
   'Shortened or rephrased from the cited source dialogue.'),
  ('mathias',
-  'Tu vas signer avec StarMédia?',
+  'Vous allez signer avec StarMédia?',
   'Are you going to sign with StarMédia?',
   [(661, 'Tu vas signer avec StarMédia')],
-  ''),
+  'Formal address follows the checked original French audio; the paired SRT is a reconstruction.'),
  ('cecile',
   'Je ne sais pas. Tout le monde ment dans ce milieu.',
   "I don't know. Everyone lies in this business.",
   [(661, 'sais pas'), (663, 'Tout le monde ment dans ce milieu')],
   'Shortened or rephrased from the cited source dialogue.'),
  ('cecile',
-  'Tu peux me donner un coup de main?',
+  'Vous pouvez me donner un coup de main?',
   'Can you give me a hand?',
   [(665, 'Tu peux me donner un coup de main')],
-  ''),
+  'Formal address follows the checked original French audio; the paired SRT is a reconstruction.'),
  ('mathias',
   'Oui, bien sûr.',
   'Yes, of course.',
   [(665, 'Oui')],
   'Shortened or rephrased from the cited source dialogue.'),
- ('cecile', 'Passe-moi le seau.', 'Hand me the bucket.', [(667, 'Passe-moi le seau')], ''),
+ ('cecile',
+  'Passez-moi le seau.',
+  'Hand me the bucket.',
+  [(667, 'Passe-moi le seau')],
+  'Formal address follows the checked original French audio; the paired SRT is a reconstruction.'),
  ('mathias', 'Le seau? Ah, oui.', 'The bucket? Oh, yes.', [(667, 'Le seau'), (668, 'Ah, oui')], ''),
  ('cecile',
   "C'est du compost. Ça nourrit la terre.",
@@ -70,10 +75,10 @@ STORY = [('cecile',
   [(671, 'La terre, elle est vraie'), (671, 'sait pas mentir')],
   'Shortened or rephrased from the cited source dialogue.'),
  ('mathias',
-  'Écoute, Cécile. Je comprends ta déception.',
+  'Écoutez, Cécile. Je comprends votre déception.',
   'Listen, Cécile. I understand your disappointment.',
   [(672, 'Écoute, Cécile'), (673, 'Je comprends ta déception')],
-  ''),
+  'Formal address follows the checked original French audio; the paired SRT is a reconstruction.'),
  ('mathias', "J'ai parlé à Miranda.", 'I talked to Miranda.', [(675, "j'ai parlé à Miranda")], ''),
  ('mathias',
   'Ils sont prêts à en discuter.',
@@ -87,8 +92,8 @@ STORY = [('cecile',
   '')]
 WALK = [(0,
   None,
-  "'Hello, Mathias. Come in.' The instruction uses the polite form. Later in the garden, both speakers "
-  'switch to the familiar form.'),
+  "'Hello, Mathias. Come in.' The polite instruction begins straight with the action, without a separate "
+  "word for 'you'. It welcomes Mathias inside."),
  (1,
   None,
   "'Cecile.' Mathias answers her greeting with her first name. They know each other through the agency."),
@@ -110,8 +115,8 @@ WALK = [(0,
   "becomes negative. The word before 'chance' means 'not a single'."),
  (5,
   None,
-  "'Are you going to sign with StarMédia?' Here he switches to the casual 'you' for the first time. And it's "
-  "the near future again: 'you go' plus 'to sign'."),
+  "'Are you going to sign with StarMedia?' The polite form of 'go' comes before the action 'sign', showing a "
+  "plan. The small word linking it to the agency means 'with'."),
  (6,
   'Je ne sais pas.',
   "'I don't know.' The negative wraps around the action word in two parts. In everyday speech the French "
@@ -122,16 +127,16 @@ WALK = [(0,
   'and at agents in general.'),
  (7,
   None,
-  "'Can you give me a hand?' Now Cécile uses the casual 'you' as well. Asking for help with the garden is "
-  'her way of letting him in a little.'),
+  "'Can you give me a hand?' The expression asks for help, rather than a body part. Cecile keeps the polite "
+  "'you' when she asks Mathias to help with the garden."),
  (8,
   None,
   "'Yes, of course.' The final two words make a useful reply on their own. Mathias agrees readily to her "
   'request for help.'),
  (9,
   None,
-  "'Hand me the bucket.' Cécile gives a casual command this time, dropping the final 's' of the casual 'you' "
-  'form. Compare it with the polite command at the start of the scene.'),
+  "'Hand me the bucket.' In this polite instruction, 'me' attaches after the action with a hyphen. In an "
+  'ordinary statement it would come before the action.'),
  (10,
   None,
   "'The bucket? Oh, yes.' The little definite article is masculine, matching 'bucket'. Mathias repeats her "
@@ -150,8 +155,8 @@ WALK = [(0,
   'people, she means. Mathias puts on his gentle voice.'),
  (13,
   None,
-  "'Listen, Cécile. I understand your disappointment.' This first word is a casual command, 'listen'. Then "
-  'he reveals why he came.'),
+  "'Listen, Cecile. I understand your disappointment.' The first word is a polite instruction. The word "
+  "meaning 'your' also keeps their conversation polite."),
  (14,
   None,
   "'I talked to Miranda.' This is the past tense with 'have' plus the past form of 'talk'. Miranda is the "

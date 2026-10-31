@@ -62,12 +62,13 @@ STORY = [('camille',
   'No need to flatter me!',
   [(770, 'Pas besoin de')],
   'Shortened or rephrased from the cited source dialogue.'),
- ('camille',
-  'Vous avez dit imprésario.',
-  'You said impresario.',
-  [(771, 'Vous avez dit')],
-  'Shortened or rephrased from the cited source dialogue.'),
  ('arlette',
+  'Tu as dit imprésario?',
+  'Did you say impresario?',
+  [(771, 'Vous avez dit')],
+  'Original French audio says t’as dit imprésario, toi; expanded to tu as. The reconstructed SRT’s vous is '
+  'not followed.'),
+ ('camille',
   "C'est plus classe qu'agent.",
   "It's classier than agent.",
   [(771, "C'est plus classe qu")],
@@ -79,8 +80,8 @@ WALK = [(0,
   'familiar form when speaking to the dog.'),
  (1,
   None,
-  "'What are you doing?' The opening chunk is a fixed way to start a 'what' question; just learn it as one "
-  "block. Arlette uses the casual 'you' with Camille, a young stranger. Older people sometimes do that."),
+  "'What are you doing?' The opening question expression asks 'what'. Arlette uses the familiar 'you' in her "
+  'direct question to Camille.'),
  (2,
   None,
   "'Look, here's your owner.' Camille says this to the dog, not to Arlette, so again it's the casual 'you'. "
@@ -133,12 +134,12 @@ WALK = [(0,
   "'flatter' follows a linking word, with 'me' placed before it."),
  (13,
   None,
-  "'You said impresario.' The polite 'you' again, and the verb in the past with 'have' plus 'said'. Arlette "
-  'explains her choice.'),
+  "'Did you say impresario?' Arlette keeps the familiar 'you' with Camille, as earlier. The past action uses "
+  "'have' followed by 'said'."),
  (14,
   None,
-  "'It's classier than agent.' The word for 'more' plus an adjective gives you a comparison, and the little "
-  "word after it means 'than'. Then she calls her dog."),
+  "'It's classier than agent.' Camille answers with a comparison: 'more' before the description, followed by "
+  "the small word for 'than'. Arlette then calls her dog."),
  (15,
   None,
   "'Come on, Jean Gabin!' The first word literally means 'go', but here it's just 'come on'. Then a casual "
