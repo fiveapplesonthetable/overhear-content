@@ -95,7 +95,10 @@ def build(mod, check_source=True):
     for k, (role, text, *_r) in enumerate(mod.STORY):
         add(role, text, 0.9 if k == len(mod.STORY) - 1 else 0.5)
     add("narrator", mod.OUTRO, 0.5)
-    add(mod.CLOSING[0], mod.CLOSING[1], 0.3)
+    if mod.CLOSING is not None:
+        add(mod.CLOSING[0], mod.CLOSING[1], 0.3)
+    elif getattr(mod, "FORMAT", None) != "taster":
+        problems.append("Only an explicit taster may end with the English outro without a native closing")
 
     for r in {s["v"] for s in segs} - {"narrator"}:
         if r not in mod.LABELS:
@@ -134,6 +137,7 @@ def build(mod, check_source=True):
     spec = {"id": mod.ID, "pair": mod.PAIR, "title": mod.TITLE, "level": mod.LEVEL,
             "labels": mod.LABELS, "segments": segs,
             "source": {"show": mod.SOURCE_NAME, "file": str(mod.SOURCE_FILE), "lines": sources}}
+    if getattr(mod, "FORMAT", None) is not None: spec["format"] = mod.FORMAT
     return spec, "\n".join(review) + "\n", problems
 
 
