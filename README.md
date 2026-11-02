@@ -33,7 +33,7 @@ anything, fix the content, commit, and re-render.
 | ko | The Producers (`the-producers`) | S1E1-E11 (of 12) | `e01..e11.ko.srt` (Whisper large-v3, the whole episode: KBS's three uploaded parts joined) |
 | it | Boris (`boris`) | one full episode, S1E1 | `e01.it.srt` (Whisper large-v3) + `e01.en.srt` (English subtitles) |
 | zh | 幕后之王 Behind the Scenes (`behind-the-scenes`) | one full episode, S1E1 | `e01.zh.srt` (Whisper large-v3) |
-| ja | 全裸監督 The Naked Director (`the-naked-director`) | full **season 2** (E1 first) | `s02/eNN.ja.srt` + `s02/eNN.en.srt`, E1-E8 (Netflix subtitles). Closed-caption marks (speaker names in （）, readings in ( ), sound cues) are not dialogue. The show is about the adult-video industry, so keep story lines clean (spec/quality.md §3) |
+| ja | 全裸監督 The Naked Director (`the-naked-director`) | full **seasons 1 and 2** (S1E1 first) | `s01/eNN.ja.srt` + `s01/eNN.en.srt` and `s02/...`, E1-E8 each (Netflix subtitles). Closed-caption marks (speaker names in （）, readings in ( ), sound cues) are not dialogue. The show is about the adult-video industry, so keep story lines clean (spec/quality.md §3) |
 | ar | مدرسة الروابي للبنات AlRawabi School for Girls (`alrawabi-school`) | S1E1-E4 (of 6) | `e01..e04.ar.srt` (Whisper large-v3, Jordanian Arabic) |
 
 A "full episode" means the whole episode, every scene from the first cue to the last, as for RU and FR. A pilot language
