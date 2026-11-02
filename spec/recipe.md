@@ -30,8 +30,9 @@ into the nearest role.
 2. **Whole story in the target language**: 12-18 short lines, a tiny plot with a small warm turn.
 3. **Narrator walk-through**: go back through it in English, replaying key target lines (verbatim from the story, one
    sentence at a time, by the right role) then giving their meaning; teach 1-2 grammar points in passing.
-   Narrator text never contains target-language script (replays are separate target segments); transliterate a word
-   when you name it ("zato", "oguzok").
+   Narrator text never contains target-language words, in any script or transliterated: the English voice would say them
+   with an English accent. To name a word, split the sentence around it and make the word its own target segment by the
+   role who said it (narrator "His little word" / kostya "Зато." / narrator "means 'but on the plus side'.").
 4. **Whole story again**: the same lines, unchanged, shorter gaps.
 5. **Narrator send-off** (2 sentences; reassure; "see you next time") then **one short target-language line**
    from a character (Пока! / До свидания! / À bientôt! / ¡Hasta luego! / Tschüss! / 안녕히 계세요! ...), always a **new** short farewell,
