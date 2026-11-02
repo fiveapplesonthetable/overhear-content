@@ -389,6 +389,17 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
         log(f"FAILED {sid}: {err}")
         settle()
 
+    scenes_per_synth = max(1, int(os.environ.get("OVERHEAR_SCENES_PER_SYNTH", "5")))
+
+    def multi_stage_cmd(stage, sids_csv, mib, venv=None):
+        cmd = ([config.GPURUN, str(mib)] if mib else []) + [
+            f"{venv or config.VENV_QWEN}/bin/python", "-I", str(HERE / "stage.py"), stage,
+            "--scenes", sids_csv, "--content", str(args.content), "--store", str(args.store),
+        ]
+        if args.settings:
+            cmd += ["--settings", args.settings]
+        return cmd
+
     def lane_a():
         while True:
             phase, order, sid, payload = qa.get()
@@ -406,29 +417,58 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
             t = time.time()
             ru, en = bool(config.ru_engine(settings)), bool(config.en_engine(settings))
             if phase == 1:
-                tag, r = "OK", {"audio_s": 0.0, "n": 0, "cached": 0}
-                # ESpeech (ru) and F5 (en) run in the F5 venv, Qwen (the rest) in its own; each is a no-op when all cached
+                batch_sids = [sid]
+                while len(batch_sids) < scenes_per_synth and not stop.is_set():
+                    try:
+                        p2, o2, sid2, pay2 = qa.get_nowait()
+                    except queue.Empty:
+                        break
+                    if sid2 is None or p2 != 1:
+                        qa.put((p2, o2, sid2, pay2))
+                        break
+                    batch_sids.append(sid2)
+                sids_csv = ",".join(batch_sids)
                 steps = ([("synth-ru", gpu["ruMiB"], config.VENV_F5)] if ru else []) + \
                         ([("synth-en", gpu["enMiB"], config.VENV_F5)] if en else []) + \
                         ([("synth-ar", gpu.get("arMiB", gpu["ttsMiB"]), config.VENV_AR)] if config.ar_engine(settings) else []) + \
                         [("synth", gpu["ttsMiB"], None)]
-                tag, miss = run_stage(stage_cmd(args, settings, "missing", sid, 0))      # no GPU reservation for a step with nothing to do
-                if tag != "OK":
-                    miss = {"ru": 1, "en": 1, "other": 1}
-                active = [(stage, mib, venv) for stage, mib, venv in steps
-                          if miss.get({"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar", "synth": "other"}[stage], 1)]
+                if len(batch_sids) == 1:
+                    tag_m, miss = run_stage(stage_cmd(args, settings, "missing", sid, 0))
+                    if tag_m != "OK":
+                        miss = {"ru": 1, "en": 1, "ar": 1, "other": 1}
+                    active = [(stage, mib, venv) for stage, mib, venv in steps
+                              if miss.get({"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar", "synth": "other"}[stage], 1)]
+                    runner = lambda s: run_stage(stage_cmd(args, settings, s[0], sid, s[1], venv=s[2]))
+                else:
+                    active = steps
+                    runner = lambda s: run_stage(multi_stage_cmd(s[0], sids_csv, s[1], venv=s[2]))
                 if len(active) > 1:
                     with concurrent.futures.ThreadPoolExecutor(max_workers=len(active)) as pool:
-                        results = list(pool.map(lambda s: run_stage(stage_cmd(args, settings, s[0], sid, s[1], venv=s[2])), active))
+                        results = list(pool.map(runner, active))
                 else:
-                    results = [run_stage(stage_cmd(args, settings, s[0], sid, s[1], venv=s[2])) for s in active]
-                tag = "OK"
+                    results = [runner(s) for s in active]
+                tag, r = "OK", {"audio_s": 0.0, "n": 0, "cached": 0}
                 for tag1, r1 in results:
                     if tag1 != "OK":
                         tag, r = tag1, r1
                         break
                     r = {"audio_s": r["audio_s"] + r1.get("audio_s", 0.0), "n": r["n"] + r1.get("n", 0), "cached": r["cached"] + r1.get("cached", 0)}
-                key = "synth"
+                if tag != "OK":
+                    for bsid in batch_sids:
+                        fail(bsid, r.get("error", "?"))
+                    continue
+                dt_per = (time.time() - t) / len(batch_sids)
+                with lock:
+                    for idx, bsid in enumerate(batch_sids):
+                        tm = times.setdefault(bsid, {})
+                        tm["synth"] = tm.get("synth", 0) + dt_per
+                        if idx == 0:
+                            tm.update(generatedSec=r.get("audio_s", 0.0), generated=r.get("n", 0), cached=r.get("cached", 0))
+                        else:
+                            tm.update(generatedSec=0.0, generated=0, cached=0)
+                for bsid in batch_sids:
+                    qb.put((bsid, False))
+                continue
             else:
                 f5 = ru or en
                 tag, r = run_stage(stage_cmd(args, settings, "retake", sid, max(gpu["ruMiB"], gpu["enMiB"]) if f5 else gpu["ttsMiB"],
@@ -440,9 +480,7 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
             with lock:
                 tm = times.setdefault(sid, {})
                 tm[key] = tm.get(key, 0) + (time.time() - t)
-                if key == "synth":
-                    tm.update(generatedSec=r.get("audio_s", 0.0), generated=r.get("n", 0), cached=r.get("cached", 0))
-            qb.put((sid, phase != 1))
+            qb.put((sid, True))
 
     def lane_b():
         while True:
@@ -509,7 +547,7 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
             qc.put(sid)
         tc.start()
     # feed scenes in priority order; retakes (phase 0) jump the queue
-    max_q = max(4, n_synth * 3)
+    max_q = max(12, n_synth * scenes_per_synth * 2)
     for i, (sc, _) in enumerate(queue_):
         if args.max_minutes and time.time() - t_run > args.max_minutes * 60:
             log("run time budget reached; finishing what is in flight")

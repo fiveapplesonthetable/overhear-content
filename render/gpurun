@@ -1,20 +1,12 @@
 #!/usr/bin/env python3
-"""Run a command on the shared GPU with a VRAM reservation instead of an exclusive lock.
+"""Run a command on the shared GPU with live VRAM + unallocated-startup accounting.
 
     gpurun <MiB> <cmd> [args...]
 
-Each job declares how much VRAM it needs. The job starts as soon as two things fit:
-the sum of live reservations stays within budget, and nvidia-smi reports enough free
-memory. Small jobs (whisper, MMS alignment, pyannote, demucs) therefore share the GPU
-with a TTS inference job. A job that reserves the whole budget (e.g. training at 7500)
-runs alone.
-
-Reservations are files in $OVERHEAR_HOME/gpu-slots/<pid>.json. A dead pid's slot is ignored.
-Waiting jobs queue in $OVERHEAR_HOME/gpu-slots/queue/. A job may start only if it still fits
-after counting every waiter ahead of it as already reserved, so a big job (training) is
-not starved by a stream of small ones. Order is GPURUN_PRIO (higher first), then arrival.
-The old exclusive lock $OVERHEAR_HOME/gpu.lock is still respected: while it is held,
-nothing new starts, so old-style scripts keep working.
+Free memory from `nvidia-smi` already reflects models loaded on the GPU; slots in
+$OVERHEAR_HOME/gpu-slots/<pid>.json track unallocated startup headroom for processes
+still loading weights onto CUDA plus activation-spike cushions for active workers, so
+40 GB A100 HBM stays packed without OOMing or stalling behind paper over-estimates.
 """
 import fcntl, json, os, subprocess, sys, time
 
@@ -23,9 +15,9 @@ SLOTS = os.path.join(_HOME, "gpu-slots")
 QUEUE = os.path.join(SLOTS, "queue")
 LEDGER = os.path.join(_HOME, "gpu-slots.lock")
 OLD_LOCK = os.path.join(_HOME, "gpu.lock")
-BUDGET = int(os.environ.get("GPURUN_BUDGET_MIB", "38500"))  # A100 40 GB minus headroom
-MARGIN = 600  # MiB kept free beyond the request, for allocator fragmentation; capped at BUDGET
-# so a job reserving the whole budget can still start on an otherwise idle card
+BUDGET = int(os.environ.get("GPURUN_BUDGET_MIB", "37800"))  # A100 40 GB minus ctranslate2/driver headroom
+MARGIN = int(os.environ.get("GPURUN_MARGIN_MIB", "2200"))
+POLL_SEC = float(os.environ.get("GPURUN_POLL_SEC", "1.0"))
 
 
 def alive(pid):
@@ -39,31 +31,101 @@ def alive(pid):
 
 
 def entries(d):
+    if not os.path.isdir(d):
+        return
     for name in os.listdir(d):
         if name.endswith(".json"):
             yield os.path.join(d, name)
 
 
-def reserved():
-    total = 0
+def proc_children_map():
+    children = {}
+    try:
+        for name in os.listdir("/proc"):
+            if not name.isdigit():
+                continue
+            try:
+                with open(f"/proc/{name}/stat") as f:
+                    parts = f.read().rsplit(")", 1)[1].split()
+                ppid = int(parts[1])
+                children.setdefault(ppid, []).append(int(name))
+            except OSError:
+                continue
+    except OSError:
+        pass
+    return children
+
+
+def tree_pids(root_pid, children):
+    out, stack = [root_pid], [root_pid]
+    while stack:
+        p = stack.pop()
+        for c in children.get(p, ()):
+            out.append(c)
+            stack.append(c)
+    return out
+
+
+def gpu_snapshot():
+    """Return (free_mib, total_used_mib, {pid: used_mib})."""
+    free_out = subprocess.run(
+        ["nvidia-smi", "--query-gpu=memory.free,memory.used", "--format=csv,noheader,nounits"],
+        capture_output=True, text=True, check=True,
+    ).stdout.strip().split(",")
+    free_m, used_m = int(free_out[0].strip()), int(free_out[1].strip())
+    proc_out = subprocess.run(
+        ["nvidia-smi", "--query-compute-apps=pid,used_memory", "--format=csv,noheader,nounits"],
+        capture_output=True, text=True, check=True,
+    ).stdout
+    by_pid = {}
+    for line in proc_out.splitlines():
+        if "," not in line:
+            continue
+        p_s, m_s = line.split(",", 1)
+        try:
+            by_pid[int(p_s.strip())] = int(m_s.strip())
+        except ValueError:
+            continue
+    return free_m, used_m, by_pid
+
+
+def unallocated_pending(by_pid):
+    """MiB not yet reflected in nvidia-smi free_mib (startup weight loads + KV-cache spike cushion)."""
+    children = proc_children_map()
+    now = time.time()
+    pending = 0
     for path in entries(SLOTS):
         try:
             with open(path) as f:
                 slot = json.load(f)
         except (OSError, ValueError):
             continue
-        if alive(slot["pid"]):
-            total += slot["mib"]
-        else:
+        pid = slot["pid"]
+        if not alive(pid):
             try:
                 os.remove(path)
             except OSError:
                 pass
-    return total
+            continue
+        decl = int(slot["mib"])
+        age = now - float(slot.get("t", now - 30.0))
+        actual = sum(by_pid.get(p, 0) for p in tree_pids(pid, children))
+        if actual >= 1500:
+            # Qwen weights sit at ~4.6 GiB during talker token gen, then spike to ~11-13 GiB in speech_tokenizer.decode.
+            pending += max(800, min(decl, 11500) - actual)
+        elif actual > 0:
+            pending += 2000
+        elif age < 22.0:
+            # Process just started and hasn't called model.to('cuda') yet.
+            pending += min(decl, 10500)
+        else:
+            # Process is doing CPU prep (e.g. RUAccent) before touching GPU.
+            pending += min(decl, 3000)
+    return pending
 
 
 def ahead_of(me):
-    """MiB wanted by live waiters ordered before `me` (prio desc, then arrival)."""
+    """Only yield to whole-card/training jobs (>=18 GiB) ordered ahead of `me`."""
     total = 0
     for path in entries(QUEUE):
         try:
@@ -77,17 +139,9 @@ def ahead_of(me):
             except OSError:
                 pass
             continue
-        # Only block backfilling behind large whole-card/training waiters (>=18 GiB)
-        # so short 1.5-2.5 GiB align/ASR steps immediately fill open VRAM gaps.
         if w["pid"] != me["pid"] and w["mib"] >= 18000 and (-w["prio"], w["t"]) < (-me["prio"], me["t"]):
             total += w["mib"]
     return total
-
-
-def free_mib():
-    out = subprocess.run(["nvidia-smi", "--query-gpu=memory.free", "--format=csv,noheader,nounits"],
-                         capture_output=True, text=True, check=True).stdout
-    return int(out.split()[0])
 
 
 def old_lock_held():
@@ -116,18 +170,23 @@ def main():
     while True:
         with open(LEDGER, "a") as ledger:
             fcntl.flock(ledger, fcntl.LOCK_EX)
-            # Free memory already reflects running jobs, so only reservations not yet
-            # allocated matter; requiring both checks is conservative and simple.
-            if (not old_lock_held() and reserved() + ahead_of(me) + mib <= BUDGET
-                    and free_mib() >= min(mib + MARGIN, BUDGET)):
+            free_m, used_m, by_pid = gpu_snapshot()
+            pend = unallocated_pending(by_pid)
+            need = min(mib + MARGIN, BUDGET)
+            if (not old_lock_held()
+                    and used_m + pend + ahead_of(me) + min(mib, 13000) <= BUDGET
+                    and free_m - pend >= min(need, 13000 + MARGIN)):
                 with open(slot, "w") as f:
-                    json.dump({"pid": me["pid"], "mib": mib, "cmd": me["cmd"]}, f)
-                os.remove(ticket)
+                    json.dump({"pid": me["pid"], "mib": mib, "t": time.time(), "cmd": me["cmd"]}, f)
+                try:
+                    os.remove(ticket)
+                except OSError:
+                    pass
                 break
         if not waited:
-            print(f"gpurun: waiting for {mib} MiB", file=sys.stderr)
+            print(f"gpurun: waiting for {mib} MiB (free={free_m} pend={pend})", file=sys.stderr, flush=True)
             waited = True
-        time.sleep(15)
+        time.sleep(POLL_SEC)
     env = dict(os.environ, PYTORCH_CUDA_ALLOC_CONF="expandable_segments:True")
     try:
         sys.exit(subprocess.call(cmd, env=env))
