@@ -41,27 +41,28 @@ class AudioGates:
 
     def check_length_pause(self, wav, sr, text, lang, max_pause=0.60, len_mult=1.35):
         median_spc = 0.20 if lang in ["ja", "zh", "ko"] else 0.085
-        dur = len(wav) / sr
-        expected = len(text) * median_spc
-        if expected < 0.8: expected = 0.8
-        
-        if dur > expected * len_mult:
-            return False, "length"
+        t_strip = text.strip()
+        n_internal_sents = sum(t_strip[:-1].count(p) for p in (". ", "! ", "? ", "… ", "。", "！", "？", "؟")) if len(t_strip) > 2 else 0
+        expected = max(0.8, len(t_strip) * median_spc + 0.35 + 0.50 * n_internal_sents)
 
         frame_len = int(sr * 0.05)
         hop_len = int(sr * 0.01)
         if len(wav) < frame_len:
-            return True, "ok"
+            return (len(wav) / sr <= expected * len_mult), ("ok" if len(wav) / sr <= expected * len_mult else "length")
         rms = librosa.feature.rms(y=wav, frame_length=frame_len, hop_length=hop_len)[0]
         silence_thresh = rms.max() * 0.05
         is_silence = rms < silence_thresh
-        
+
         non_sil = np.where(~is_silence)[0]
         if len(non_sil) == 0:
             return True, "ok"
-        
+
+        speech_dur = (non_sil[-1] - non_sil[0] + 1) * hop_len / sr
+        if speech_dur > expected * len_mult:
+            return False, "length"
+
         is_silence_speech = is_silence[non_sil[0]:non_sil[-1]+1]
-        
+
         max_sil_frames = 0
         cur_sil = 0
         for s in is_silence_speech:
@@ -71,14 +72,12 @@ class AudioGates:
                     max_sil_frames = cur_sil
             else:
                 cur_sil = 0
-                
+
         max_pause_sec = max_sil_frames * hop_len / sr
-        t_strip = text.strip()
-        has_multi_sent = any(p in t_strip[:-1] for p in (". ", "! ", "? ", "… ", "。", "！", "？", "؟")) if len(t_strip) > 2 else False
-        eff_max_pause = max(max_pause, 0.95) if has_multi_sent else max_pause
+        eff_max_pause = max(max_pause, 0.95) if n_internal_sents > 0 else max_pause
         if max_pause_sec > eff_max_pause:
             return False, "pause"
-            
+
         return True, "ok"
 
     def check_repeat_and_cer(self, wav, sr, text, lang):
