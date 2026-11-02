@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/domashniy-arest/s01/e01.ru.dual.srt'
 INTRO = "Now we're in the mayor's office. Last time, Arkady told his wife he had an emergency meeting tonight, though the caller was clearly a woman. Today his secretary, Lidia Alekseyevna, comes in with a visitor who won't take no for an answer: Samson, the big boy who bullied little Arkady in the communal flat. Let's listen in Russian first."
 OPENER = "Let's go back through it. The secretary is clearly annoyed with this visitor."
 TRANSITION = "Let's hear the whole thing again from the start."
-OUTRO = "Samson has just quit his job on the spot, trusting the boy he once bullied. Listen for 'I'm very glad to see you' when you watch, and. See you next time!"
+OUTRO = "Samson has just quit his job on the spot, trusting the boy he once bullied. Listen for 'I'm very glad to see you' when you watch. See you next time!"
 CLOSING = ('samson', 'Всё, до свидания!')
 STORY = [
     ('lydia', 'Аркадий Борисович, извините, тут к вам человек.', "Arkady Borisovich, I'm sorry, there's a man here to see you.", [(212, 'Аркадий Борисович, извините')], "'тут к вам человек' new (cue 213 'вот человек, который...')"),
@@ -36,23 +36,23 @@ STORY = [
     ('samson', 'Теперь я начальник нашей стройки. Ты уволен!', "Now I'm the boss of our building site. You're fired!", [(285, 'теперь я начальник нашей стройки'), (286, 'Ты уволен')], 'crude insults at 287-289 dropped'),
 ]
 WALK = [
-    (0, None, "'Arkady Borisovich, I'm sorry, there's a man here to see you.' Literally, 'here, to you, a man'. No 'is' at all, and it's perfectly natural. She explains that she tried to stop him."),
-    (1, None, "'I told him you're not seeing anyone today.' The action word 'told' ends in 'a' because the secretary is a woman. And she uses the polite 'you' with her boss. But Arkady waves it away."),
-    (2, None, "'It's all right, Lidia Alekseyevna.' Literally 'everything is normal', a phrase you'll hear all the time. Then he looks at his visitor."),
-    (3, None, "'Well, hello, Samson.' Notice the greeting: it's the casual form of hello, for someone you know well. Samson is surprised."),
-    (4, 'Узнал.', "'You recognised me.' Just one word, a past form, and the 'you' is understood. Then he says thank you."),
-    (4, 'Спасибо, что принял меня.', "'Thanks for seeing me.' Literally, 'thank you that you received me'. A useful pattern: thank you, then 'that', then what the person did. He admits he was worried."),
-    (5, None, "'I thought maybe you wouldn't see me.' After all, he once pushed Arkady's head into a toilet. Arkady acts as if it never happened."),
-    (6, None, "'Oh, come on! I'm very glad to see you.' The word for 'glad' is masculine here, because Arkady is a man. A woman would add an 'a'. Then he asks for news."),
-    (7, None, "'So, tell me, how are you doing?' The first action word is a friendly command, 'tell me', and the last two words are the everyday 'how are things'. Samson answers simply."),
-    (8, None, "'Everything's fine. I work on a building site.' Here's the language tip: 'on a building site' uses the location ending, an 'e' on the end. You'll meet it after 'in' and 'on' whenever you say where something is. Then Samson gets to the point."),
-    (9, None, "'Arkash, I wanted to ask you something.' The name is cut short, the friendly way to call someone. And the action word comes last, which sounds relaxed and a bit shy. So what does he want?"),
-    (10, None, "'Excavator driver isn't my level. Maybe you could help?' A long word for his job, then 'not my level'. The last action word is in the future, 'will you help?'. Arkady doesn't hesitate."),
-    (11, None, "'Of course I'll help. Who's your boss now?' The question begins with 'who', and the word for 'boss' comes last. Samson names him."),
-    (12, None, "'Well, it's Golovamzyuk.' That's the boss's surname. Arkady has a bold idea."),
-    (13, None, "'Let's fire him and put you in his place.' 'Let's' plus 'we will': a very common way to suggest doing something together. And 'him' and 'you' sit before the action words. Samson can't believe his luck."),
-    (14, None, "'No way, what, seriously?' The first two words are a very common way to say 'you're kidding'. Arkady pushes him on."),
-    (15, None, "'Of course. Call him.' A short, casual command. So Samson dials the number and speaks to his boss, using the boss's first name and his father's name."),
-    (16, None, "'Nikolai Filippovich, I'm in the mayor's office right now.' Literally 'in the office at the mayor's'. And then the big news."),
-    (17, None, "'Now I'm the boss of our building site. You're fired!' No word for 'am' again: 'now I boss'. And to his old boss he suddenly uses the casual, rude 'you'. Arkady watches with a smile."),
+    (0, None, "'Arkady Borisovich, I'm sorry, there's a man here to see you.' Literally, 'here, to you, a man' — \"tut k vam chelovek\" needs no 'is' at all. She explains that she tried to stop him."),
+    (1, None, "'I told him you're not seeing anyone today.' \"Skazala\" ends in '-a' for a female speaker, and Lidia uses formal \"vy\" with her boss. Arkady waves it away."),
+    (2, None, "'It's all right, Lidia Alekseyevna.' \"Vsyo normalno\" — literally 'everything is normal' — is an all-purpose phrase meaning 'it's fine'. Then he looks at his visitor."),
+    (3, None, "'Well, hello, Samson.' Notice \"zdravstvuy\" without '-te' on the end: that's the familiar greeting for someone you know well. Samson is surprised."),
+    (4, 'Узнал.', "'You recognised me.' single-word \"uznal\" leaves the 'you' unspoken. Then he says thank you."),
+    (4, 'Спасибо, что принял меня.', "'Thanks for seeing me.' Literally, 'thank you that you received me' — \"spasibo, chto...\" is how Russian thanks someone for doing something. He admits he was worried."),
+    (5, None, "'I thought maybe you wouldn't see me.' \"Mozhet\" is everyday shorthand for 'maybe', followed by \"ne primesh\" ('you won't receive me'). Arkady acts as if their childhood never happened."),
+    (6, None, "'Oh, come on! I'm very glad to see you.' \"Nu chto ty?\" brushes away an apology like 'oh, don't be silly!', and \"rad\" is the male speaker's form for 'glad'; a woman says \"rada\"."),
+    (7, None, "'So, tell me, how are you doing?' \"Rasskazyvay\" warmly urges 'tell me all about it', paired with classic \"kak dela?\" ('how are things?'). Samson answers simply."),
+    (8, None, "'Everything's fine. I work on a building site.' Notice \"na stroyke\": after \"na\" ('on' or 'at'), \"stroyka\" ('building site') shifts its ending to '-e' to mark location."),
+    (9, None, "'Arkash, I wanted to ask you something.' Dropping the final '-a' from \"Arkasha\" to \"Arkash\" sounds warm and colloquial, and putting \"khotel\" ('wanted') last makes the request sound bashful."),
+    (10, None, "'Excavator driver isn't my level. Maybe you could help?' Long \"ekskavatorshchik\" names the operator from \"ekskavator\", and \"mozhet, pomozhesh?\" asks 'maybe you'll help?'."),
+    (11, None, "'Of course I'll help. Who's your boss now?' \"Kto u vas seychas nachalnik?\" literally asks 'who at you now is boss?', saving \"nachalnik\" ('boss') for the end. Samson names him."),
+    (12, None, "'Well, it's Golovamzyuk.' \"Eto\" introduces the boss's surname after hesitant \"nu\". Arkady has a bold idea."),
+    (13, None, "'Let's fire him and put you in his place.' \"Davay\" ('let's') teams up with \"my yego uvolim\" ('we'll fire him') to propose doing something together. Samson can't believe his luck."),
+    (14, None, "'No way, what, seriously?' \"Da ladno\" is a favourite Russian reaction for 'get out of here, really?'. Arkady pushes him on."),
+    (15, None, "'Of course. Call him.' \"Zvoni yemu\" orders 'ring him!', putting \"on\" ('he') into its 'to him' form \"yemu\". So Samson dials his boss right there."),
+    (16, None, "'Nikolai Filippovich, I'm in the mayor's office right now.' \"V kabinete u mera\" literally says 'in the office at the mayor's'. And then comes the big news."),
+    (17, None, "'Now I'm the boss of our building site. You're fired!' Suddenly formal address vanishes: \"ty uvolen!\" switches to blunt \"ty\" to tell his old boss 'you're sacked!'."),
 ]

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/domashniy-arest/s01/e01.ru.dual.srt'
 INTRO = "Same little room, a moment later. Last time Pasha admitted that he set up Arkady's arrest himself, and reminded him that all his money is in his wife's name. Now Vika tells Arkady her own secret, and Pasha has the last word. We'll hear it in Russian first; don't worry about catching every word."
 OPENER = "Let's take it slowly. Vika starts gently, almost kindly."
 TRANSITION = "Let's hear the whole scene one more time."
-OUTRO = 'In a few minutes Arkady has lost his freedom, his wife and his money. Listen out for that short, cheerful goodbye when you watch, and. See you next time!'
+OUTRO = "In a few minutes Arkady has lost his freedom, his wife and his money. Listen out for that short, cheerful goodbye when you watch, and that's it. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Аркаша, я понимаю, тебе сейчас тяжело. Но…', "Arkasha, I understand, it's hard for you right now. But...", [(862, 'Аркаша, я понимаю, тебе сейчас'), (862, 'тяжело')], "'без этого' dropped"),
@@ -46,7 +46,7 @@ WALK = [
     (7, None, "'Vika, look at him.' A command in the casual form, the one you use with family."),
     (8, None, "'All he wants is your money.' Literally, 'to him only your money is needed'. A very useful pattern for saying what someone needs. Vika hears it differently."),
     (9, None, "'So you mean I can only be loved for my money?' The first two words mean 'that is', or 'so you mean'. Arkady backs off."),
-    (10, None, "'No, Vika, that's not what I mean at all.' The word for 'at all' sits right before 'not'. Too late."),
+    (10, None, "'No, Vika, that's not what I mean at all.' The word means 'at all' sits right before 'not'. Too late."),
     (11, None, "'What a horrible person you are!' The first word works like 'what a' in English. And she walks out."),
     (12, None, "'Vikulya, wait!' Vikulya is a tender form of Vika, the name he uses when he wants her back. Now Pasha is the one who speaks."),
     (13, None, "'All right, Arkashenka. We'll be off, it's time.' He uses the sweetest form of Arkady's name, and he doesn't mean it kindly. 'We' means him and Vika. Then he lists his plans."),

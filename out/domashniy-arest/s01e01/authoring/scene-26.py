@@ -10,7 +10,7 @@ PAIR = 'ru-en'
 LABELS = {'arkady': 'Аркадий', 'pasha': 'Паша', 'samson': 'Самсон'}
 SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.01'
 SOURCE_FILE = 'sources/domashniy-arest/s01/e01.ru.dual.srt'
-INTRO = "That evening, in the shared kitchen of the communal flat. Last time, Arkady scrubbed the flooded bathroom, Samson took the credit, and Nina refused to say a word to her husband. Now the two men sit with a bottle of very bad vodka, and on television Pasha, Arkady's old deputy, makes a big announcement. Let's listen in Russian first."
+INTRO = "That evening, in the shared kitchen of the communal flat. Last time, Arkady scrubbed the flooded bathroom, Samson took the credit, and Nina refused to say a word to her husband that's it. Now the two men sit with a bottle of very bad vodka, and on television Pasha, Arkady's old deputy, makes a big announcement. Let's listen in Russian first."
 OPENER = "Let's go through it bit by bit. Pasha is on the screen, smiling, and he starts with himself."
 TRANSITION = "Let's hear the whole conversation again."
 OUTRO = "And that's this scene. When you watch, listen for Pasha's big promise on television, and for the moment Samson says it's all the same to him; you'll recognise them now. Until next time!"
@@ -38,7 +38,7 @@ STORY = [
 WALK = [
     (0, None, "'I know our town like nobody else.' The verb 'know' comes right after 'I', and the last two words mean 'like no one'. Then comes the news."),
     (1, None, "'That's why I've decided to become mayor.' He has just helped to put Arkady under arrest, and now he wants his job. Samson is impressed by the style."),
-    (2, None, "'Look how he talks!' The first word is a casual command, 'look'. Arkady is not impressed at all."),
+    (2, None, "'Look how he talks!' It begins with a casual command, 'look'. Arkady is not impressed at all."),
     (3, None, "'He learned that from me.' The phrase in the middle, literally 'at me', is how you say who you learned something from. Pasha moves on to his big project."),
     (4, None, "'We will build the cluster. That means thousands of jobs.' The cluster is the industrial project Arkady blocked, and the reason Pasha set him up. Arkady talks back to the television."),
     (5, None, "'Pasha, you won't win this election.' The verb here has a future meaning, even though it looks like a present form. That is how completed actions work in Russian. Samson just laughs."),
@@ -47,7 +47,7 @@ WALK = [
     (8, None, "'Never mind, never mind.' The word literally means 'nothing', and it's how you say 'it's fine, never mind'. Arkady tries to sound hopeful."),
     (9, None, "'As our governor says, there's always a way out.' He tells Samson the governor once burned a pile of money before a police search, and stayed free. Samson is not convinced."),
     (10, None, "'Yeah, sure.' Said slowly, it means 'I don't believe a word of it'. Then he gets serious."),
-    (11, None, "'Do you want me to tell you honestly?' The first word is the verb 'want', and the last one, 'I'll tell', is in the future. Arkady lets him go on."),
+    (11, None, "'Do you want me to tell you honestly?' It begins with the verb 'want', and the last one, 'I'll tell', is in the future. Arkady lets him go on."),
     (12, None, "'Tell me.' One word, a command from the same verb. And Samson is very direct."),
     (13, None, "'It's all the same to me. You or him.' The first sentence starts with 'to me': in Russian the person who feels something often comes first, in this form. The second literally says 'what you, what him'. Arkady asks why."),
     (14, None, "'Why?' And the answer is short."),
