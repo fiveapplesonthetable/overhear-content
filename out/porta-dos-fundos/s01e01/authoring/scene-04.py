@@ -35,16 +35,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'All right. You're going inside there.' \"Ta bom\", literally \"it's good\", is the everyday Brazilian \"okay\" or \"all right\", though here the colleague uses it to start giving orders."),
-    (1, None, "'And you're going to stay seated that whole time.' \"Inteiro\" means \"whole\" or \"entire\", and placing it after \"esse tempo\" stresses every single minute he has to sit still."),
-    (2, None, "'Deal? Are we aligned?' \"Fechou\" literally means \"it closed\", like closing a deal, and \"estamos alinhados\" is classic Brazilian office-speak for \"we're on the same page\"."),
-    (3, None, "'Yes, sir.' Calling a peer \"senhor\" here is pure dry humour, like saluting a drill sergeant just to end the lecture."),
-    (4, None, "'Oh, folks! The guy canceled the meeting.' \"Marcar\" means to book or schedule, so adding \"des-\" on the front flips \"desmarcou\" neatly into \"un-booked\" or \"canceled\"."),
-    (5, None, "'He canceled? What happened?' \"Que que houve\" is the go-to spoken question when something unexpected happens, built around \"houve\", meaning \"there was\"."),
-    (6, None, "'The other meeting ran late. He is not coming anymore.' Adding \"mais\" right after \"nao vem\" gives you \"not anymore\", where \"mais\" literally means \"more\"."),
-    (7, None, "'We are free!' Because \"livres\" describes both of them together, it adds \"-s\" to match \"estamos\", meaning \"we are\"."),
-    (8, None, "'We are free! Shall we grab a little coffee?' In Brazil you never just invite someone for \"cafe\": adding the warm ending \"-zinho\" makes \"cafezinho\" sound quick, friendly, and impossible to refuse."),
-    (9, None, "'I would like to, but right now I have to sort out a few little things.' Notice the employee fights back with the same affectionate ending: \"coisinhas\" shrinks \"things\" into \"just a few little tasks\" to soften his excuse."),
-    (10, None, "'Let's have a little coffee with sweetener!' \"Adocante\" comes from \"doce\", the word for \"sweet\", so it literally names the thing that sweetens your cup."),
-    (11, None, "'Yay.' Normally \"oba\" is a cheerful Brazilian shout of delight, which makes the employee's flat, defeated delivery even funnier."),
+    (0, None, ["'All right. You're going inside there.' ", ('financeiro', 'Tá bom.'), ', literally "it\'s good", is the everyday Brazilian "okay" or "all right", though here the colleague uses it to start giving orders.']),
+    (1, None, ["'And you're going to stay seated that whole time.' ", ('colega', 'inteiro.'), ' means "whole" or "entire", and placing it after ', ('colega', 'esse tempo'), ' stresses every single minute he has to sit still.']),
+    (2, None, ["'Deal? Are we aligned?' ", ('colega', 'Fechou?'), ' literally means "it closed", like closing a deal, and ', ('colega', 'estamos alinhados?'), ' is classic Brazilian office-speak for "we\'re on the same page".']),
+    (3, None, ["'Yes, sir.' Calling a peer ", ('financeiro', 'senhor.'), ' here is pure dry humour, like saluting a drill sergeant just to end the lecture.']),
+    (4, None, ["'Oh, folks! The guy canceled the meeting.' The verb means to book or schedule, so adding a prefix flips ", ('colega', 'desmarcou'), ' neatly into "un-booked" or "canceled".']),
+    (5, None, ["'He canceled? What happened?' ", ('financeiro', 'Que que houve?'), ' is the go-to spoken question when something unexpected happens, built around the verb meaning "there was".']),
+    (6, None, ["'The other meeting ran late. He is not coming anymore.' Adding ", ('colega', 'mais.'), ' right after ', ('colega', 'não vem'), ' gives you "not anymore", where ', ('colega', 'mais.'), ' literally means "more".']),
+    (7, None, ["'We are free!' Because ", ('colega', 'livres!'), " describes both of them together, it adds an 's' to match ", ('colega', 'estamos'), ', meaning "we are".']),
+    (8, None, ["'We are free! Shall we grab a little coffee?' In Brazil you never just invite someone for the plain drink: adding the warm ending makes ", ('colega', 'cafezinho?'), ' sound quick, friendly, and impossible to refuse.']),
+    (9, None, ["'I would like to, but right now I have to sort out a few little things.' Notice the employee fights back with the same affectionate ending: ", ('financeiro', 'coisinhas.'), ' shrinks "things" into "just a few little tasks" to soften his excuse.']),
+    (10, None, ["'Let's have a little coffee with sweetener!' ", ('colega', 'adoçante!'), ' comes from a root meaning "sweet", so it literally names the thing that sweetens your cup.']),
+    (11, None, ["'Yay.' Normally ", ('financeiro', 'Oba.'), " is a cheerful Brazilian shout of delight, which makes the employee's flat, defeated delivery even funnier."]),
 ]

@@ -154,6 +154,116 @@ class AudioGates:
                 
         return True, "ok", wav
 
+    def check_prosody(self, wav, sr):
+        """Measure voiced F0 standard deviation (Hz); prefer natural expressive range 18-45 Hz over flat monotone."""
+        if len(wav) < int(sr * 0.35):
+            return 25.0, 0.0
+        wav_16k = librosa.resample(wav, orig_sr=sr, target_sr=16000) if sr != 16000 else wav
+        rms = librosa.feature.rms(y=wav_16k, frame_length=1024, hop_length=256)[0]
+        if len(rms) == 0 or rms.max() <= 1e-6:
+            return 0.0, 1.0
+        f0 = librosa.yin(wav_16k.astype(np.float32), fmin=65, fmax=420, sr=16000, frame_length=1024, hop_length=256)
+        n = min(len(rms), len(f0))
+        voiced = f0[:n][(rms[:n] >= rms.max() * 0.08) & (f0[:n] >= 70.0) & (f0[:n] <= 390.0)]
+        if len(voiced) < 5:
+            return 25.0, 0.0
+        f0_std = float(np.std(voiced))
+        if 18.0 <= f0_std <= 45.0:
+            return f0_std, 0.0
+        dist = (18.0 - f0_std) if f0_std < 18.0 else (f0_std - 45.0)
+        return f0_std, round(min(1.0, dist / 45.0), 4)
+
+    def score_candidates(self, wavs, sr, ref_path, text_plain, lang, cpu_pool=None, beam_size=3):
+        """Score N candidate takes through all 5 §6 gates + F0 prosody tie-breaker.
+        Returns (best_wav, all_ok, counts_dict, best_meta)."""
+        def _cpu_prep(w):
+            len_ok, len_reason = self.check_length_pause(w, sr, text_plain, lang)
+            tran_ok, tran_reason, w_trim = self.check_transient(w, sr)
+            w_16k = (librosa.resample(w_trim, orig_sr=sr, target_sr=16000) if sr != 16000 else w_trim).astype(np.float32)
+            f0_std, pros_pen = self.check_prosody(w_16k, 16000)
+            return len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen
+
+        if cpu_pool is not None and len(wavs) > 1:
+            prepped = list(cpu_pool.map(_cpu_prep, wavs))
+        else:
+            prepped = [_cpu_prep(w) for w in wavs]
+
+        import jiwer, re
+        ref_norm = re.sub(r"[\W_]+", " ", text_plain.lower()).strip()
+        ref_path = str(ref_path)
+        if ref_path not in self.ref_embeddings:
+            ref_wav, ref_sr = sf.read(ref_path)
+            if ref_wav.ndim > 1:
+                ref_wav = ref_wav.mean(axis=1)
+            self.ref_embeddings[ref_path] = self.get_embedding(ref_wav, ref_sr)
+
+        cands = []
+        for idx, (len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen) in enumerate(prepped):
+            emb = self.get_embedding(w_16k, 16000)
+            sim_val = float(torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item())
+            sim_ok = sim_val >= 0.65
+
+            segs, _ = self.whisper.transcribe(
+                w_16k, language=lang, beam_size=beam_size,
+                word_timestamps=True, condition_on_previous_text=False,
+            )
+            words = []
+            hyp_parts = []
+            for s in segs:
+                hyp_parts.append(s.text)
+                if s.words:
+                    for ww in s.words:
+                        words.append(ww.word.strip().lower())
+            hyp_text = " ".join(hyp_parts).strip()
+            rep_ok = True
+            t_lower = text_plain.lower()
+            for wi in range(len(words) - 1):
+                if words[wi] == words[wi + 1] and len(words[wi]) > 1 and t_lower.count(words[wi]) < 2:
+                    rep_ok = False
+                    break
+            hyp_norm = re.sub(r"[\W_]+", " ", hyp_text.lower()).strip()
+            cer_val = float(jiwer.cer(ref_norm, hyp_norm)) if ref_norm else 0.0
+            cer_ok = cer_val <= 0.18
+
+            all_ok = sim_ok and len_ok and tran_ok and rep_ok and cer_ok
+            cer_bucket = 0.0 if cer_val <= 0.02 else round(cer_val, 2)
+            cands.append({
+                "wav": w_trim,
+                "all_ok": all_ok,
+                "cer": cer_val,
+                "cer_bucket": cer_bucket,
+                "pros_pen": pros_pen,
+                "f0_std": f0_std,
+                "sim": sim_val,
+                "fails": {
+                    "similarity": not sim_ok,
+                    "length": (not len_ok and len_reason == "length"),
+                    "pause": (not len_ok and len_reason == "pause"),
+                    "transient": not tran_ok,
+                    "repeat": not rep_ok,
+                    "cer": not cer_ok,
+                },
+            })
+
+        passing = [c for c in cands if c["all_ok"]]
+        if passing:
+            best = min(passing, key=lambda x: (x["cer_bucket"], x["pros_pen"], -x["sim"], x["cer"]))
+            ok = True
+        else:
+            best = min(cands, key=lambda x: (sum(x["fails"].values()), x["cer"], x["pros_pen"], -x["sim"]))
+            ok = False
+
+        counts = {
+            "takes": len(cands),
+            "retakes": max(0, len(cands) - 1),
+            "length": sum(1 for x in cands if x["fails"]["length"] or x["fails"]["pause"]),
+            "repeat": sum(1 for x in cands if x["fails"]["repeat"]),
+            "transient": sum(1 for x in cands if x["fails"]["transient"]),
+            "similarity": sum(1 for x in cands if x["fails"]["similarity"]),
+            "cer": sum(1 for x in cands if x["fails"]["cer"]),
+        }
+        return best["wav"], ok, counts, {"cer": round(best["cer"], 4), "sim": round(best["sim"], 4), "f0_std": round(best["f0_std"], 1)}
+
 _gates = None
 def get_gates():
     global _gates

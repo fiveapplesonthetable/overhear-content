@@ -33,14 +33,14 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Look at Cintia, for example. Look at her.' Brazilians regularly put \"a\" or \"o\" right before first names, so \"a Cintia\" sounds warm and familiar rather than stiff."),
-    (1, None, "'What's up with Cintia?' \"Que que tem\" literally asks \"what is it that she has?\", and it is a super handy everyday chunk for \"what's wrong with...?\" or \"what about...?\". "),
-    (2, None, "'She missed a meeting and got ahead on her work.' \"Adiantar\" comes from \"adiante\", meaning \"ahead\" or \"forward\", so \"adiantou o trabalho\" means she knocked her work out early."),
-    (3, None, "'Except now she needs Carlos's help.' \"So que\" literally says \"only that\", and in conversation it works just like \"except\" or \"the catch is\" when a plan hits a snag."),
-    (4, None, "'And Carlos is in the marketing meeting.' Here \"na\" fuses \"em\" with \"a\" for \"in the\" before feminine \"reuniao\", matching \"do\" before masculine \"marketing\"."),
-    (5, None, "'Now she has nothing to do and stays on her phone.' Using \"fica\" — literally \"stays\" — captures sitting around stuck in a habit, and Brazil's word for a mobile phone is \"celular\"."),
-    (6, None, "'Is that what you want for your life? To lose focus?' Framing a question with \"e isso que\" — \"is that what...\" — puts theatrical spotlight on \"isso\", turning a small delay into a life crisis."),
-    (7, None, "'I think you're exaggerating.' Where English can drop \"that\", Portuguese keeps \"que\" in \"eu acho que\", a gentle opener you can reuse before any opinion."),
-    (8, None, "'Did you need to shout at me in front of everyone else?' Instead of saying \"com mim\" for \"with me\", Portuguese joins them into one special word, \"comigo\", and here you shout \"with\" someone rather than \"at\" them."),
-    (9, None, "'I'm being generous, my friend.' Just as \"esta\" shrinks to \"ta\", \"estou\" shrinks in everyday speech to \"to\", so \"to sendo\" rolls off the tongue for \"I'm being\"."),
+    (0, None, ["'Look at Cintia, for example. Look at her.' Brazilians regularly put ", ('colega', 'a'), ' or ', ('colega', 'o'), ' right before first names, so ', ('colega', 'a Cíntia,'), ' sounds warm and familiar rather than stiff.']),
+    (1, None, ["'What's up with Cintia?' ", ('colega', 'Que que tem?'), ' literally asks "what is it that she has?", and it is a super handy everyday chunk for "what\'s wrong with...?" or "what about...?". ']),
+    (2, None, ["'She missed a meeting and got ahead on her work.' The word ", ('colega', 'adiantou o trabalho'), ' comes from a root meaning "ahead" or "forward", so it means she knocked her work out early.']),
+    (3, None, ["'Except now she needs Carlos's help.' ", ('colega', 'Só que'), ' literally says "only that", and in conversation it works just like "except" or "the catch is" when a plan hits a snag.']),
+    (4, None, ["'And Carlos is in the marketing meeting.' Here ", ('colega', 'na'), ' fuses the preposition with ', ('colega', 'a'), ' for "in the" before feminine ', ('colega', 'reunião'), ', matching ', ('colega', 'do'), ' before masculine ', ('colega', 'marketing.'), '.']),
+    (5, None, ["'Now she has nothing to do and stays on her phone.' Using ", ('colega', 'fica'), ' — literally "stays" — captures sitting around stuck in a habit, and Brazil\'s word for a mobile phone is ', ('colega', 'celular.'), '.']),
+    (6, None, ["'Is that what you want for your life? To lose focus?' Framing a question with ", ('colega', 'É isso que'), ' — "is that what..." — puts theatrical spotlight on ', ('colega', 'isso'), ', turning a small delay into a life crisis.']),
+    (7, None, ['\'I think you\'re exaggerating.\' Where English can drop "that", Portuguese keeps ', ('financeiro', 'que'), ' in ', ('financeiro', 'eu acho que'), ', a gentle opener you can reuse before any opinion.']),
+    (8, None, ['\'Did you need to shout at me in front of everyone else?\' Instead of saying the separate words for "with me", Portuguese joins them into one special word, ', ('financeiro', 'comigo'), ', and here you shout "with" someone rather than "at" them.']),
+    (9, None, ["'I'm being generous, my friend.' Just as the full verb shrinks in everyday speech, ", ('colega', 'Tô sendo'), ' rolls off the tongue for "I\'m being".']),
 ]
