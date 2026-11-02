@@ -89,8 +89,8 @@ WALK = [
     (5, None, "'It was just a misunderstanding.' A long word, but you can almost see the English in it: 'mis-heard'. Then she tries charm."),
     (6, None, "'Colette, we missed our first date.' The small word for 'we' at the start is the everyday one."),
     (7, None, "'Leave the door open, please.' She doesn't want to be alone in a closed room with Andréa. The last part is the polite 'please', literally 'if it pleases you'."),
-    (8, None, "'You're much prettier in real life.' The word for 'pretty' takes a feminine ending here. Colette isn't fooled."),
-    (9, None, "'Now you're being nice, because of your agency.' The word for 'nice' is feminine too, because Andréa is a woman. Colette thinks she's only nice because of the tax audit."),
+    (8, None, "'You're much prettier in real life.' That short word for 'pretty' takes a feminine ending here. Colette isn't fooled."),
+    (9, None, "'Now you're being nice, because of your agency.' The everyday word for 'nice' is feminine too, because Andréa is a woman. Colette thinks she's only nice because of the tax audit."),
     (10, None, "'It's pathetic.' Easy to guess from the English."),
     (11, None, "'Not at all. I mean it.' The second sentence literally says 'I am sincere'. Colette lays down her rule."),
     (12, None, "'I don't mix work and private life.' Another grammar point: to make a verb negative, French wraps two little words around it, one before, one after. Andréa insists."),
@@ -98,5 +98,5 @@ WALK = [
     (14, None, "'Can we laugh about it?' The little word in the middle means 'about it'. Colette is not amused."),
     (15, None, "'I don't feel like laughing.' Literally 'I don't have the desire to laugh'. The negative wraps around 'have'."),
     (16, None, "'Leave now. Goodbye, Ms Martel.' Another polite command, and her surname: very cold, very official. Andréa answers with her first name."),
-    (17, None, "'Goodbye, Colette.' Using the first name is Andréa's last little attempt at warmth. Let's listen to the whole scene again."),
+    (17, None, "'Goodbye, Colette.' Using the first name is Andréa's last little attempt at warmth."),
 ]

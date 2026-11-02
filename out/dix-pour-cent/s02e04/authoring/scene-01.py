@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'arlette': 'Arlette', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = "We start at the reception desk with Sofia and Gabriel. Listen to the whole scene in French first — don't worry if it goes by fast."
+INTRO = "We start at the agency with Arlette and Mathias. Listen to the whole scene in French first — don't worry if it goes by fast."
 OPENER = "Let's examine how Arlette shares her passion for television with Mathias."
-TRANSITION = "Now let's listen to Arlette and Mathias's humorous banter again at full speed."
+TRANSITION = "Now let's listen to the whole humorous exchange between Arlette and Mathias again at full speed."
 OUTRO = "Arlette's obsession with fantasy television amuses the office, but Mathias remains strictly focused on client contracts. Their teasing dynamic highlights the lighthearted atmosphere at ASK before new challenges arrive. See you next time!"
 CLOSING = ('arlette', 'À demain!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('mathias', 'Au fait, ton haut sent la friture.', 'By the way, your top smells like frying.', [(21, 'Au fait, ton haut sent la friture.')], ''),
 ]
 WALK = [
-    (0, None, "'That actress is so magnetic and elegant.' In the cinema, Arlette whispers that Isabelle Adjani is so magnetic and elegant on screen."),
-    (1, None, "'She is truly poetic as well.' Arlette adds admiringly that the actress has a truly poetic presence too."),
-    (2, None, "'Then, the small woman becomes blind.' Arlette loudly narrates the next plot twist: the shorter woman goes blind."),
-    (3, None, "'And the stupid tall girl dies!' Arlette spoils the ending out loud as the tall girl dies on screen."),
-    (4, None, "'Arlette, are you still watching this series?' Mathias inquires about a workplace distraction."),
-    (5, None, "'Yes, the ending annoys me a lot.' Arlette says the ending of the series really annoys her."),
-    (6, None, "'Can you find the next season?' Arlette asks for pirated episodes."),
-    (7, None, "'One year is too long to wait.' Arlette complains impatiently about the long wait between seasons."),
-    (8, None, "'What is the title again?' Mathias seeks clarification."),
-    (9, None, "'Do you live in a cave, Mathias?' Arlette teases his lack of television awareness."),
-    (10, None, "'It is the famous series Game of Thrones.' Arlette introduces the global hit series."),
-    (11, None, "'I will see Louis Garrel at the theater Thursday.' Mathias outlines his evening schedule."),
-    (12, None, "'Tell Berléand that his contracts are ready.' Mathias delivers professional instructions."),
-    (13, None, "'By the way, your top smells like frying.' Mathias points out a kitchen odor. Now let's listen to Arlette and Mathias's humorous banter again at full speed."),
+    (0, None, "'That actress is so magnetic and elegant.' Arlette piles on two easy English cognates, linking them with an intensifier that means 'so' or 'to such a degree'."),
+    (1, None, "'She is truly poetic as well.' Notice how 'also' tucks neatly onto the very end in French rather than sitting right after 'is'."),
+    (2, None, "'Then, the small woman becomes blind.' Opening with a handy word meaning 'next' or 'afterward' keeps a story moving from one twist to the next."),
+    (3, None, "'And the stupid tall girl dies!' One describing word stands before 'girl' for height while the insult comes after it, surrounding the person in French."),
+    (4, None, "'Arlette, are you still watching this series?' Mathias uses the casual 'you' with a colleague he knows well, and the word meaning 'still' can mean 'again' in other contexts."),
+    (5, None, "'Yes, the ending annoys me a lot.' Literally 'gets on my nerves', the action puts 'me' shortened to a single letter right before the vowel."),
+    (6, None, "'Can you find the next season?' Flipping 'can' and casual 'you' builds a crisp question, though in relaxed speech you'll hear people keep normal statement order."),
+    (7, None, "'One year is too long to wait.' Naming 'one year' first and then echoing it with 'it is' gives the complaint punchy spoken rhythm in French."),
+    (8, None, "'What is the title again?' Adding a word that usually means 'already' onto the end of a question is how you ask 'again?' when a detail slips your mind."),
+    (9, None, "'Do you live in a cave, Mathias?' This teasing expression matches the English idiom almost word-for-word, using casual 'you' and rising pitch alone to ask."),
+    (10, None, "'It is the famous series Game of Thrones.' Placing 'famous' ahead of 'series' lends dramatic flair, whereas many describing words in French follow what they describe."),
+    (11, None, "'I will see Louis Garrel at the theater Thursday.' Just as in English, the day of the week drops in bare at the end without needing 'on' before it."),
+    (12, None, "'Tell Berleand that his contracts are ready.' Where English says 'tell someone', French builds this command with 'say to' before the actor's surname."),
+    (13, None, "'By the way, your top smells like frying.' Starting with a two-word chunk literally meaning 'at the fact' lets Mathias pivot smoothly, and 'smells the frying' needs no 'like'."),
 ]

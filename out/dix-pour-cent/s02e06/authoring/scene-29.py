@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At a lavish Cannes Film Festival party, Gabriel is searching frantically for Sofia. Meanwhile, Hicham catches up with Camille and tries to lure her back to the agency with an exciting offer. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through Gabriel's search across the party step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
 OUTRO = 'While Gabriel frantically hunts for Sofia across the crowded Cannes party, Camille and Hicham discuss her exciting prospects with an American agency. See you next time!'
 CLOSING = ('hicham', 'À demain!')
 STORY = [
@@ -33,19 +33,19 @@ STORY = [
     ('hicham', "C'est une opportunité très tentante.", 'It is a very tempting opportunity.', [(844, "C'est trop tentant")], ''),
 ]
 WALK = [
-    (0, None, "'Gabriel, I need to talk to you.' Camille tries to deliver her exciting career news."),
-    (1, None, "'Not now, Camille!' Gabriel brushes her off, consumed by anxiety over Sofia."),
-    (2, None, "'Guy wants me to be his agent.' Camille proudly announces her first major client."),
-    (3, None, "'Great, but have you seen Sofia?' Gabriel barely registers the news in his panic."),
-    (4, None, "'She was talking with France 2 earlier.' Camille points Gabriel toward the television executives."),
-    (5, None, "'Are you looking for someone, Gabriel?' Hicham casually checks on his agitated agent."),
-    (6, None, "'Yes, I am desperately looking for Sofia.' Gabriel rushes away to continue his search."),
-    (7, None, "'Camille, you should come back to ASK.' Hicham makes an unexpected pitch to hire her back."),
-    (8, None, "'That is very kind, Hicham.' Camille responds with polite diplomatic gratitude."),
-    (9, None, "'I really need an assistant.' Hicham admits that he needs her organizational talents."),
-    (10, None, "'Mathias is the one who pleaded your case.' Hicham reveals that her father advocated for her."),
-    (11, None, "'I prefer going to New York with Andréa.' Camille declines in favor of an international adventure."),
-    (12, None, "'Working for that American agency?' Hicham inquires about the famous talent representation firm."),
-    (13, None, "'Yes, the agency is called UBA.' Camille names the prestigious international agency."),
-    (14, None, "'It is a very tempting opportunity.' Hicham nods in respect of her ambitious choice. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Gabriel, I need to talk to you.' Compact 'I have to speak' with 'to you' tucked in front is a brisk expression in French for 'I need to talk to you.'"),
+    (1, None, "'Not now, Camille!' Two blunt words—'not now'—work word for word in French when someone is in a rush."),
+    (2, None, "'Guy wants me to be his agent.' After 'wants that,' French switches 'am' to its wish-form 'be'—literally 'wants that I be his agent.'"),
+    (3, None, "'Great, but have you seen Sofia?' International 'super!' opens the reply, followed by 'you have seen Sofia?' with rising pitch in French."),
+    (4, None, "'She was talking with France 2 earlier.' Notice that the exact same three-word chunk meaning 'see you later' ALSO means 'just earlier today' when paired with a past action in French!"),
+    (5, None, "'Are you looking for someone, Gabriel?' Unlike English 'look for,' French packs 'for' right inside 'seek'—so no extra preposition is needed before 'someone'!"),
+    (6, None, "'Yes, I am desperately looking for Sofia.' Long adverb 'desperately' sits right after 'seek' in French, built by adding '-ment' onto 'desperate.'"),
+    (7, None, "'Camille, you should come back to ASK.' Built from 'come' with 're-,' 'come back' pairs with 'at the home of' before company name ASK in French."),
+    (8, None, "'That is very kind, Hicham.' Everyday 'nice/kind' is a warm polite brush-off in French when someone appreciates an offer she plans to decline."),
+    (9, None, "'I really need an assistant.' Putting 'really' between 'have' and 'need of' gives Hicham's pitch extra sincerity in French."),
+    (10, None, "'Mathias is the one who pleaded your case.' Framing 'Mathias' inside 'it is... who' spotlights him, followed by the courtroom expression 'pleaded your cause' in French."),
+    (11, None, "'I prefer going to New York with Andrea.' After 'prefer' in French, 'leave/depart' attaches directly without any preposition, followed by 'to New York.'"),
+    (12, None, "'Working for that American agency?' Leading with bare 'to work' as an echoed question fragment sounds completely natural in French."),
+    (13, None, "'Yes, the agency is called UBA.' Literally 'the agency calls itself UBA'—how French always states the name of a person, pet, or company!"),
+    (14, None, "'It is a very tempting opportunity.' Notice 'opportunity very tempting' putting the '-ant' description after the noun in French."),
 ]

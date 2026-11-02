@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At the driving exam registration office, Gabriel Sarda desperately attempts to negotiate an early test date for Norman. With the film shoot fast approaching, every week counts, but the strict receptionist refuses to grant special treatment. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel tries to persuade the driving center receptionist."
-TRANSITION = "Now let's listen to Gabriel's tense discussion at the counter again at full speed."
+TRANSITION = "Now let's hear Gabriel's tense discussion at the counter again at full speed."
 OUTRO = "The receptionist refuses to bend the rules for a celebrity client, reminding Gabriel that everyone must wait. Faced with a two-month delay, Gabriel must find another solution for Norman's role. See you next time!"
 CLOSING = ('receptionniste', 'Au revoir, monsieur.')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('receptionniste', 'Alors, vous voulez le seize juin?', 'So, do you want June sixteenth?', [(66, 'Alors...'), (67, 'tu veux le 16 juin ?')], ''),
 ]
 WALK = [
-    (0, None, "'There is nothing available for April.' The receptionist introduces the month."),
-    (1, None, "'The next date is June sixteenth.' The receptionist specifies the calendar appointment."),
-    (2, None, "'It is much too late, that will not work.' Gabriel expresses urgency."),
-    (3, None, "'My client acts in a major movie.' Gabriel proudly tells the driving-school receptionist that his client is starring in a major film."),
-    (4, None, "'Norman? My children often talk about him.' The receptionist recognizes Norman's name because her children talk about his videos all the time."),
-    (5, None, "'Exactly, it is a key moment for him.' Gabriel agrees warmly and explains that this movie is a turning point for Norman."),
-    (6, None, "'In the movie, he plays a taxi driver.' Gabriel describes the character's occupation."),
-    (7, None, "'The shooting starts in two weeks only.' Gabriel expresses imminent production."),
-    (8, None, "'You must simply postpone this shoot.' The receptionist expresses an uncompromising practical solution."),
-    (9, None, "'Everyone is ready to shoot.' Gabriel announces that everyone on set is ready to shoot."),
-    (10, None, "'Can you make an effort for us?' Gabriel asks for special assistance."),
-    (11, None, "'No, the rules are the same for all.' The receptionist rejects exceptionalism."),
-    (12, None, "'I waited ten years for my papers.' The receptionist illustrates personal resilience and delay."),
-    (13, None, "'So, do you want June sixteenth?' The receptionist offers the only remaining appointment. Now let's listen to Gabriel's tense discussion at the counter again at full speed."),
+    (0, None, "'There is nothing available for April.' Built from 'there has nothing', this opening negates the usual 'there is' chunk, then inserts 'of' before 'available' where English puts nothing."),
+    (1, None, "'The next date is June sixteenth.' Calendar dates in French use plain counting numbers rather than 'sixteenth', literally saying 'the sixteen June' with the day before the month."),
+    (2, None, "'It is much too late, that will not work.' Putting 'a lot' before 'too late' matches 'much too late', and the closing idiom literally says 'that does not go' for 'that will not work'."),
+    (3, None, "'My client acts in a major movie.' Placed before 'film', the term meaning 'big' shifts from physical size to 'major' in French, while 'plays' covers acting on screen."),
+    (4, None, "'Norman? My children often talk about him.' Notice that 'often' sits after 'speak' in French rather than before it, and 'of him' stands in for 'about him'."),
+    (5, None, "'Exactly, it is a key moment for him.' Unlike English, French puts 'key' right after 'moment' to build 'key moment', echoing the cognate opener 'exactly'."),
+    (6, None, "'In the movie, he plays a taxi driver.' Borrowed into English for a luxury driver, this job title simply means 'driver', joined by 'of' to 'taxi' in French."),
+    (7, None, "'The shooting starts in two weeks only.' Coming from 'turning' camera reels, the opening word means a 'film shoot', and 'in two weeks' marks how soon it begins."),
+    (8, None, "'You must simply postpone this shoot.' Watch out for a classic false friend: the action that looks like 'report' actually means 'postpone' or 'push back' in French."),
+    (9, None, "'Everyone is ready to shoot.' Literally 'all the world', this three-word expression means 'everyone' and always pairs with 'is' rather than 'are'."),
+    (10, None, "'Can you make an effort for us?' Flipping 'can' ahead of polite 'you' gives the request a formal edge at the counter, paired with the cognate 'effort'."),
+    (11, None, "'No, the rules are the same for all.' You'll notice 'same' takes an '-s' in writing to match 'rules', though that final letter stays completely silent in speech."),
+    (12, None, "'I waited ten years for my papers.' Where English needs 'waited for', French uses 'waited' directly, only adding 'for' here to introduce 'my official papers'."),
+    (13, None, "'So, do you want June sixteenth?' Rising pitch alone turns 'you want' into a question in French, kicked off by a conversational 'so' or 'well then'."),
 ]

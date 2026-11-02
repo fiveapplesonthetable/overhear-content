@@ -77,58 +77,20 @@ STORY = [('mathias',
   "Mathias, look, she has drawn you! She's very talented!",
   [(327, "Mathias, regarde, elle t'a dessiné"), (328, 'Elle est'), (328, 'douée')],
   'Original audio uses polite address to Mathias.')]
-WALK = [(0,
-  None,
-  "'Hello, Audrey. Didn't you find a babysitter?' After a negative action word, the word for 'a' changes to the "
-  "short word meaning 'any'."),
- (1,
-  None,
-  "'I didn't have children just to leave them with a stranger!' Literally 'I did not make children for to leave "
-  "them to an unknown woman'."),
- (2,
-  None,
-  "'And your husband?' Mathias asks a brief follow-up about Audrey's partner. The polite possessive makes clear "
-  "that he means her husband rather than someone else's."),
- (3,
-  None,
-  "'He's filming a documentary about landless farmers in Honduras.' Literally 'peasants without land'. So her "
-  'partner is on the other side of the world.'),
- (4,
-  None,
-  "'Are you losing your voice?' French uses the definite article before voice where English uses a possessive. "
-  'The action still addresses Audrey directly through the polite form of you.'),
- (5,
-  None,
-  "'No, I still have a bit of a tummy.' The word after 'I have' means 'still': her tummy has not yet gone away. "
-  "Then comes the expression 'a little of', giving a small amount."),
- (6, None, "'So I'm wearing a girdle.' The verb means 'wear' as well as 'carry'."),
- (7,
-  None,
-  "'But it's very tight! I can hardly breathe.' The adjective for 'tight' is feminine to match 'girdle', and the "
-  "word for 'almost' sits inside the negative."),
- (8,
-  None,
-  "'I'm fine, if I speak softly.' The short opening literally means 'it goes'. It is a very common way to say "
-  'things are okay, followed here by the condition that makes it possible.'),
- (9,
-  None,
-  "'Are they staying here?' The plural word for 'they' refers to the children. A question can keep statement "
-  'order and let the voice rise at the end.'),
- (10, None, "'Mathias, having children isn't an illness!' Literally 'to have children, it is not an illness'."),
- (11,
-  None,
-  "'Audrey, directors have no imagination.' Again, after a negative, the word before 'imagination' shrinks before "
-  'the vowel.'),
- (12,
-  None,
-  "'With children here, they think about babies, not about cinema!' After 'think', French uses the same short "
-  'linking word before both subjects. It combines with the following article in two different forms. Listen to '
-  'the two destinations of their thoughts.'),
- (13,
-  None,
-  "'Thank you, my little kitten.' French parents often use 'my kitten' as a sweet pet name for a small child."),
- (14,
-  None,
-  "'Mathias, look, she has drawn you! She's very talented!' The polite command draws his attention to the "
-  'picture. The object meaning you goes before the past helping word; the final feminine description praises the '
-  'child.')]
+WALK = [
+    (0, None, "'Hello, Audrey. Didn't you find a babysitter?' After a negative action word, that word meaning 'a' changes to the short word meaning 'any'."),
+    (1, None, "'I didn't have children just to leave them with a stranger!' Literally 'I did not make children for to leave them to an unknown woman'."),
+    (2, None, "'And your husband?' Mathias asks a brief follow-up about Audrey's partner. The polite possessive makes clear that he means her husband rather than someone else's."),
+    (3, None, "'He's filming a documentary about landless farmers in Honduras.' Literally 'peasants without land'. So her partner is on the other side of the world."),
+    (4, None, "'Are you losing your voice?' French uses the definite article before voice where English uses a possessive. The action still addresses Audrey directly through the polite form of you."),
+    (5, None, "'No, I still have a bit of a tummy.' The word after 'I have' means 'still': her tummy has not yet gone away. Then comes the expression 'a little of', giving a small amount."),
+    (6, None, "'So I'm wearing a girdle.' The verb means 'wear' as well as 'carry'."),
+    (7, None, "'But it's very tight! I can hardly breathe.' The adjective for 'tight' is feminine to match 'girdle', and the French word for 'almost' sits inside the negative."),
+    (8, None, "'I'm fine, if I speak softly.' The short opening literally means 'it goes'. It is a very common way to say things are okay, followed here by the condition that makes it possible."),
+    (9, None, "'Are they staying here?' The plural word for 'they' refers to the children. A question can keep statement order and let the voice rise at the end."),
+    (10, None, "'Mathias, having children isn't an illness!' Literally 'to have children, it is not an illness'."),
+    (11, None, "'Audrey, directors have no imagination.' Again, after a negative, the word before 'imagination' shrinks before the vowel."),
+    (12, None, "'With children here, they think about babies, not about cinema!' After 'think', French uses the same short linking word before both subjects. It combines with the following article in two different forms. Listen to the two destinations of their thoughts."),
+    (13, None, "'Thank you, my little kitten.' French parents often use 'my kitten' as a sweet pet name for a small child."),
+    (14, None, "'Mathias, look, she has drawn you! She's very talented!' The polite command draws his attention to the picture. The object meaning you goes before the past helping word; the final feminine description praises the child."),
+]

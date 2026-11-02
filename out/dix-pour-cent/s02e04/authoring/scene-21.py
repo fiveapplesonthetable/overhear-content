@@ -12,8 +12,8 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "Inside Hicham's executive office, Gabriel and Hicham interview prospective assistant Leopoldine Schneck. The energetic candidate presents her cinema degree and event planning experience, hoping to land the coveted spot at ASK. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
-TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Leopoldine leaves the office having made a memorable impression on both partners. Notice how the near future is formed with aller followed by an infinitive: nous allons reflechir. See you next time!'
+TRANSITION = "Now let's listen to the whole exchange once more from beginning to end."
+OUTRO = 'Leopoldine leaves the office having made a memorable impression on both partners. See you next time!'
 CLOSING = ('hicham', 'À demain!')
 STORY = [
     ('hicham', 'Faites entrer mademoiselle Léopoldine Schneck!', 'Send in Miss Leopoldine Schneck!', [(582, '-Faites-la entrer.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('hicham', "C'est parfait, nous allons réfléchir.", 'That is perfect, we will think about it.', [(621, '-Ouais... voilà, maintenant tu sais.')], ''),
 ]
 WALK = [
-    (0, None, "'Send in Miss Leopoldine Schneck!' Hicham calls in the job applicant for her interview."),
-    (1, None, "'Hello, tell us a bit about yourself.' Gabriel invites the candidate to summarize her background."),
-    (2, None, "'I studied cinema in Paris.' Leopoldine describes her academic credentials to the partners."),
-    (3, None, "'I worked for an events agency.' She shares her prior practical work experience in media."),
-    (4, None, "'Did you do a lot of music?' Hicham asks about her specific projects in the entertainment sector."),
-    (5, None, "'Yes, especially for concerts.' She confirms her experience with musical artists and live shows."),
-    (6, None, "'I organized circus performances.' Leopoldine explains another unusual facet of her professional background."),
-    (7, None, "'Do you know our actors well?' Gabriel inquires about her familiarity with agency clients."),
-    (8, None, "'I love all of ASK's artists.' She expresses genuine enthusiasm for the talent agency roster."),
-    (9, None, "'You have lots of positive energy.' Hicham praises her dynamic personality and lively presence."),
-    (10, None, "'Thank you very much for that nice compliment.' Leopoldine politely accepts the encouraging feedback."),
-    (11, None, "'The assistant job is difficult.' Gabriel reminds her of the intense demands of the position."),
-    (12, None, "'I am ready for this job.' She confidently affirms her readiness to tackle the challenges."),
-    (13, None, "'That is perfect, we will think about it.' Hicham concludes the meeting courteously. Now let's listen to the entire exchange once more from beginning to end."),
+    (0, None, "'Send in Miss Leopoldine Schneck!' Putting 'make' directly ahead of 'enter' is how you say 'send someone in' or 'show in' in French."),
+    (1, None, "'Hello, tell us a bit about yourself.' Closer to 'speak-us a little of you' word-for-word, French uses 'speak of' where English says 'tell about'."),
+    (2, None, "'I studied cinema in Paris.' Academic fields like 'the cinema' keep 'the' after 'studied' in French, followed by single-letter 'in' before city names."),
+    (3, None, "'I worked for an events agency.' Built on the root meaning 'event', one long describing word after 'agency' packs 'event-planning' neatly into French."),
+    (4, None, "'Did you do a lot of music?' Expressions like 'a lot of' pair with bare 'of' before the topic in French, never 'of the'."),
+    (5, None, "'Yes, especially for concerts.' Built from 'above' and 'all', that handy word after 'yes' means 'especially' or 'mostly'."),
+    (6, None, "'I organized circus performances.' Beyond 'spectacles', that central word means live 'shows' or 'performances' in French, linked by 'of' to 'circus'."),
+    (7, None, "'Do you know our actors well?' Notice 'well' tucks right after 'know' in French rather than waiting until the end after 'our actors'."),
+    (8, None, "'I love all the artists at ASK.' When 'all' precedes 'the artists' in French, its final 's' stays completely silent."),
+    (9, None, "'You have lots of positive energy.' Before a vowel, 'of' after 'a lot' shortens to a single letter attached to 'energy', with 'positive' following in French."),
+    (10, None, "'Thank you very much for that nice compliment.' While 'pretty' usually describes looks in English, its French counterpart happily describes a 'nice compliment' too."),
+    (11, None, "'The assistant job is difficult.' Linking 'the work' and 'assistant' with shortened 'of' builds 'the assistant job' in French."),
+    (12, None, "'I am ready for this job.' Sounding the final 't' on 'ready' marks Leopoldine as a female speaker in French, paired with 'for' just like English."),
+    (13, None, "'That is perfect, we will think about it.' Where English tucks 'about it' onto the end, the French action meaning 'reflect' stands complete on its own."),
 ]

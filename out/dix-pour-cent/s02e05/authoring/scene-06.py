@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
-INTRO = "In Gabriel's office, Andréa is anxious after visiting Guy Marchand's doctor. Trying to shift focus to agency business, she asks Gabriel about recruiting a junior agent, but encounters unexpected hesitation. Let's listen to the scene in French first."
-OPENER = "Let's examine Andréa and Gabriel's private office discussion step by step to explore professional boundaries and vulnerabilities."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Andréa and Gabriel navigate professional challenges and personal vulnerabilities as the agency faces major changes. Let's review the workplace and emotional vocabulary from this scene. See you next time!"
+INTRO = "In Gabriel's office, Andrea is anxious after visiting Guy Marchand's doctor. Trying to shift focus to agency business, she asks Gabriel about recruiting a junior agent, but encounters unexpected hesitation. Let's listen to the scene in French first."
+OPENER = "Let's examine Andrea and Gabriel's private office discussion step by step to explore professional boundaries and vulnerabilities."
+TRANSITION = "Now let's listen to the whole dialogue again."
+OUTRO = "Andrea and Gabriel navigate professional challenges and personal vulnerabilities as the agency faces major changes. Let's review the workplace and emotional vocabulary from this scene. See you next time!"
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('andrea', 'Je sors de chez le médecin de Guy.', "I have just come from Guy's doctor.", [(159, 'Je sors de chez le médecin de Guy.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('gabriel', "Maintenant, j'ai beaucoup de travail.", 'Right now, I have a lot of work.', [(187, "J'ai du travail.")], ''),
 ]
 WALK = [
-    (0, None, "'I have just come from Guy's doctor.' Andrea explains where she has been earlier that morning."),
-    (1, None, "'Guy's health is a disaster.' Andrea worries about her veteran actor client's serious medical condition."),
-    (2, None, "'Do you want to talk about something else?' Gabriel senses she needs to vent about other pressing agency matters."),
-    (3, None, "'Yes, about the junior agent.' Andrea brings up the ongoing debate over expanding the team."),
-    (4, None, "'Do you want one?' Andrea seeks Gabriel's honest view on bringing in fresh blood."),
-    (5, None, "'Taking on a junior does not scare me.' Gabriel insists he is not insecure about mentoring a younger colleague."),
-    (6, None, "'Your opinion means a lot to me.' Andrea reminds him that she considers him her core partner at ASK."),
-    (7, None, "'It is not my priority right now.' Gabriel admits he is preoccupied with his own demanding clients."),
-    (8, None, "'Do you want a boy or a girl?' Andrea asks if he has any demographic preference for the hire."),
-    (9, None, "'Both suit me very well.' Gabriel stays open-minded with no preference for either."),
-    (10, None, "'Do you think that will make you look weak?' Andrea probes whether showing stress makes him feel vulnerable."),
-    (11, None, "'I am not like that, Andréa.' Gabriel asserts that he is not guarded or competitive toward her."),
-    (12, None, "'Right now, I have a lot of work.' Gabriel closes the discussion to return to his pressing tasks. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'I have just come from Guy's doctor.' Because French has no apostrophe-s, 'Guy's doctor' becomes 'the doctor of Guy', preceded by 'from the office of'."),
+    (1, None, "'Guy's health is a disaster.' Notice 'the health of Guy' — that word meaning 'health' is the very same one you'll hear in French toasts when clinking glasses."),
+    (2, None, "'Do you want to talk about something else?' French says 'speak of other thing', contracting 'of' before 'other' to cover English 'about something else'."),
+    (3, None, "'Yes, about the junior agent.' Literally 'at the subject of', that three-word opener is a handy phrase meaning 'regarding' in workplace conversations, placing 'junior' after 'agent'."),
+    (4, None, "'Do you want one?' Where English simply says 'want one', French slips a tiny 'of them' right before 'want' — literally 'do you of-them want one?'"),
+    (5, None, "'Taking on a junior does not scare me.' French starts with plain 'to take' rather than an '-ing' word, and 'scare me' is built from 'make fear to me'."),
+    (6, None, "'Your opinion means a lot to me.' Word for word, Andrea says 'your opinion counts a lot for me', choosing a cousin of English 'advice' that means 'opinion' in French."),
+    (7, None, "'It is not my priority right now.' At the end, 'in this moment' is the natural French expression for 'right now' or 'at the moment'."),
+    (8, None, "'Do you want a boy or a girl?' Andrea keeps statement order and simply raises her pitch, joining the two choices with 'or' — pronounced just like the French question word meaning 'where'."),
+    (9, None, "'Both suit me very well.' Instead of a separate single word meaning 'both', French says 'the two', and 'go very well to me' is how you'd say something suits you fine."),
+    (10, None, "'Do you think that will make you look weak?' When 'make' precedes a quality like 'weak', French reaches for a cousin of English 'render' — literally 'render you weak' — rather than 'do'."),
+    (11, None, "'I am not like that, Andrea.' Right before her name, 'like that' is a super reusable two-word chunk you can swap in for 'that way' or 'like this' in everyday talk."),
+    (12, None, "'Right now, I have a lot of work.' Notice how 'I' drops its vowel and fuses onto 'have' via an apostrophe, followed by 'a lot of work' to politely end the chat."),
 ]

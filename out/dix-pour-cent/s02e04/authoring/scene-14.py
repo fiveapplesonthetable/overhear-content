@@ -12,8 +12,8 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = 'At a major Paris radio station, acclaimed director Sacha Hartman gives a live broadcast interview about his provocative film. Camille waits patiently in the sound booth to escort the guest director back to the agency. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'As Sacha Hartman wraps up his defiant interview, Camille must quickly guide him outside through brewing street protests. Listen to the entire scene once more in French. See you next time!'
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
+OUTRO = 'As Sacha Hartman wraps up his defiant interview, Camille must quickly guide him outside through brewing street protests. See you next time!'
 CLOSING = ('sacha', 'À bientôt!')
 STORY = [
     ('animateur', 'Bonjour, Sacha Hartman.', 'Hello, Sacha Hartman.', [(374, 'Bonjour, Sacha Hartman')], ''),
@@ -33,19 +33,19 @@ STORY = [
     ('sacha', "D'accord, je te suis.", 'All right, I am following you.', [(394, 'On y va')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Sacha Hartman.' The radio presenter introduces the celebrated guest."),
-    (1, None, "'Thank you for being with us.' The polite opening welcomes him to the studio broadcast."),
-    (2, None, "'You speak perfect French.' The host compliments the visiting director's fluency."),
-    (3, None, "'I attended the French school in Berlin.' Sacha explains his early language immersion."),
-    (4, None, "'My parents have always loved France.' He attributes his bilingualism to family ties."),
-    (5, None, "'Your first movie won a prize.' The journalist recalls his striking artistic debut."),
-    (6, None, "'The Palme d'Or at Cannes!' The host highlights the highest festival accolade."),
-    (7, None, "'An association is trying to ban your film.' This question addresses conservative censorship."),
-    (8, None, "'How do you react to these attacks?' This host invites his comment on public controversy."),
-    (9, None, "'I do not want to give them a platform.' Sacha refuses to amplify his loudest critics."),
-    (10, None, "'Nor give them the slightest attention.' He dismisses the protesters entirely."),
-    (11, None, "'They belong to the old world.' The filmmaker views the opposition as outdated reactionaries."),
-    (12, None, "'The interview is over, Sacha.' Camille signals that their broadcast segment has wrapped up."),
-    (13, None, "'We must go now.' Camille urges him toward the door before crowds gather."),
-    (14, None, "'All right, I am following you.' Sacha calmly prepares to leave the premises. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Hello, Sacha Hartman.' Radio hosts greet studio guests by full name after 'good day', setting a crisp broadcast tone in French."),
+    (1, None, "'Thank you for being with us.' Thanking someone 'for doing' something links 'thanks' with 'of' plus the base action rather than 'for' plus '-ing' as in English."),
+    (2, None, "'You speak perfect French.' Language names stay lowercase in French, and adding 'a' before 'French perfect' praises the quality of someone's speech."),
+    (3, None, "'I attended the French school in Berlin.' Watch the cognate 'frequented': it is what you'd say in French for 'attended' a school."),
+    (4, None, "'My parents have always loved France.' Country names keep 'the' in French even after 'love', unlike English where 'France' stands bare."),
+    (5, None, "'Your first movie won a prize.' Built from 'carry back', the action pictures taking home a trophy, while the final word can mean both 'prize' and 'price'."),
+    (6, None, "'The Golden Palm at Cannes!' Linking 'palm' to 'gold' with 'of' tells what material Cannes's famous festival trophy is made of in French."),
+    (7, None, "'An association is trying to ban your film.' Stringing together 'seeks to make forbid' expresses 'trying to have your film banned' in French."),
+    (8, None, "'How do you react to these attacks?' Flipping 'react' and polite 'you' after 'how' gives the presenter's question formal broadcast polish."),
+    (9, None, "'I do not want to give them a platform.' Notice 'to them' sits ahead of 'offer', and the final word originally means a speaker's rostrum in French."),
+    (10, None, "'Nor give them the slightest attention.' Opening with 'nor' extends Sacha's refusal in the negative, followed by an expression meaning 'the least attention'."),
+    (11, None, "'They belong to the old world.' Placed ahead of 'world', that describing word means 'former' or 'bygone', whereas after 'world' in French it would mean 'ancient'."),
+    (12, None, "'The interview is over, Sacha.' French borrows 'interview' straight from English for media broadcasts, pairing it with a cognate meaning 'terminated' or 'finished'."),
+    (13, None, "'We must go now.' Slipping 'there' ahead of 'go' is standard in French whenever 'go' has no destination named after it."),
+    (14, None, "'All right, I am following you.' Look closely at a famous twin form in French: 'I follow' and 'I am' look and sound identical, though 'you' before it proves Sacha means 'follow'."),
 ]

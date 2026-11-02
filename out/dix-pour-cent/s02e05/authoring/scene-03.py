@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the examination room, a doctor explains the test results to Guy Marchand and his agent Gabriel. While Guy is relieved that he does not have Alzheimer's disease, the doctor warns that his minor stroke will cause lingering confusion. Let's listen to the scene in French first."
 OPENER = "Let's examine how the doctor explains Guy Marchand's medical diagnosis."
-TRANSITION = "Now let's listen to the doctor's reassuring consultation again at full speed."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'The diagnosis of a minor stroke relieves Guy but leaves Gabriel deeply concerned about the production. Keeping Guy on set without risking another public incident will test the agency to its limits. See you next time!'
 CLOSING = ('guy', 'À bientôt!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('gabriel', 'Merci docteur, nous allons être très prudents.', 'Thank you doctor, we are going to be very careful.', [(110, 'On vous laisse vous occuper de ceux qui en ont vraiment besoin.')], ''),
 ]
 WALK = [
-    (0, None, "'Look at the tests, it is not Alzheimer's.' The doctor rules out a feared degenerative illness."),
-    (1, None, "'It is not a serious neurodegenerative disease.' Reassuring medical terminology dismissing long-term dementia."),
-    (2, None, "'So that is good news, doctor?' Gabriel seeks confirmation with a relief-seeking question."),
-    (3, None, "'You simply had a minor stroke.' The doctor identifies the medical episode."),
-    (4, None, "'A small blood vessel got blocked.' The doctor gives a clear medical explanation of the brief blockage."),
-    (5, None, "'That explains your recent confusion at work.' The physician attributes the on-set disorientation."),
-    (6, None, "'Will that pass quickly?' Guy inquires about the expected duration of recovery."),
-    (7, None, "'Yes, that will improve with time.' The doctor promises natural gradual healing."),
-    (8, None, "'Wonderful, I am going to sleep very well tonight.' Guy reacts with cheerful optimism to the hospital rest."),
-    (9, None, "'And tomorrow morning, I will go shoot by bike!' Defiant athletic determination to return to work immediately."),
-    (10, None, "'Watch out, you will still have moments of confusion.' The doctor warns of temporary lapses."),
-    (11, None, "'Moments of confusion during filming?' Gabriel spots the massive professional and financial risk."),
-    (12, None, "'Yes, over the coming weeks.' The doctor establishes the danger window for the film."),
-    (13, None, "'Thank you doctor, we are going to be very careful.' Gabriel politely commits to vigilant monitoring. Now let's listen to the doctor's reassuring consultation again at full speed."),
+    (0, None, "'Look at the tests, it is not Alzheimer's.' Unlike English, French needs no 'at' after 'look' — it says 'look the exams' directly, using the same word for medical scans and school tests."),
+    (1, None, "'It is not a serious neurodegenerative disease.' Both descriptions come after 'illness' in French, ending on a cognate of 'grave' that simply means 'serious' in everyday speech."),
+    (2, None, "'So that is good news, doctor?' Where English treats 'news' as uncountable, French counts a single update as 'a good new thing', built from the everyday word meaning 'new'."),
+    (3, None, "'You simply had a minor stroke.' Notice how 'simply' wedges right between 'have' and 'had', while French speakers refer to a stroke by a three-letter medical abbreviation softened here by 'little'."),
+    (4, None, "'A small blood vessel got blocked.' You can spot a cognate of 'vessel' paired with 'blood-related', while 'got blocked' comes from the same root as a bottle cork."),
+    (5, None, "'That explains your recent confusion at work.' Three cognates in a row make this diagnosis easy to follow, and 'at work' literally says 'at the work' in French."),
+    (6, None, "'Will that pass quickly?' Guy builds the near future from 'goes to pass', ending on a single brisk word that covers both 'fast' and 'quickly' in French."),
+    (7, None, "'Yes, that will improve with time.' Here 'improve' is a cousin of English 'ameliorate', and French says 'with the time' rather than bare 'with time'."),
+    (8, None, "'Wonderful, I am going to sleep very well tonight.' In French, that opening cognate means 'terrific' rather than intimidating, and 'very well' sits right before 'to sleep' instead of at the end."),
+    (9, None, "'And tomorrow morning, I will go shoot by bike!' French packs 'I will go' into a single word after 'tomorrow morning', followed straight away by 'to shoot' with no 'and' in between."),
+    (10, None, "'Watch out, you will still have moments of confusion.' Used on its own at the start, that cognate of 'attention' means 'careful!' or 'watch out!', and the word after 'will have' can mean either 'still' or 'again'."),
+    (11, None, "'Moments of confusion during filming?' Unlike English, French almost never leaves 'moments' bare at the start — it puts an untranslated 'some' right out front."),
+    (12, None, "'Yes, over the coming weeks.' Word for word, the doctor says 'during the next weeks to come', pairing 'next' before 'weeks' with 'to come' right after."),
+    (13, None, "'Thank you doctor, we are going to be very careful.' What looks like formal English 'prudent' is simply how you'd say 'careful' in everyday French."),
 ]

@@ -14,7 +14,7 @@ INTRO = ("JoeyStarr has helped Sofia rehearse, but his own scene with Julie is g
  'speech, Julie leaves the set, and the agents arrive to deal with the argument. Listen to the French first '
  'and follow the change from acting to a real quarrel.')
 OPENER = 'The romantic speech begins badly. JoeyStarr apologises and tries to start again.'
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('The actors cannot continue until the argument is settled. Listen again for the two opposite actions, '
  'leaving and staying, that spoil the romantic speech. See you next time.')
 CLOSING = ('julie', 'Au revoir!')
@@ -82,59 +82,21 @@ STORY = [('joey', 'Oh non! Pardon!', 'Oh no! Sorry!', [], ''),
   'He must apologise first!',
   [(103, 'il')],
   'Learner adaptation, not a verbatim French transcript.')]
-WALK = [(0,
-  None,
-  "'Oh no! Sorry!' The apology replaces the stronger language in the original scene. It is a short "
-  'expression for admitting a mistake and starting again.'),
- (1,
-  None,
-  "'Madam, I know that our love is forbidden a thousand times over.' The word for thousand stays unchanged "
-  "when counting thousands. Here it exaggerates how impossible the lovers' relationship is supposed to be."),
- (2,
-  None,
-  "'My reason tells me a thousand times to leave.' The little word linking tells me to leave is the same "
-  'word often translated as of. Its job here is to introduce what his reason tells him to do.'),
- (3,
-  None,
-  "'But my heart tells me to leave. No, to stay!' Leave and stay are opposites. Saying the wrong one "
-  'reverses the meaning of the romantic speech, which is why his correction ruins the take.'),
- (4,
-  None,
-  "'I can't act like this!' The action word can mean play a game, play a role or act. The final expression "
-  'means like this and points to the whole difficult situation.'),
- (5,
-  None,
-  "'Okay, let's stop.' The everyday word meaning we comes before stop. With the present tense and this tone, "
-  'it proposes stopping now rather than describing a routine.'),
- (6,
-  None,
-  "'But what is she doing now?' The long opening is an ordinary spoken question pattern. The last word "
-  'carries the irritation of what she is doing yet again.'),
- (7,
-  None,
-  "'She's in her dressing room. She refuses to come out.' A dressing room is the place an actor uses away "
-  'from the set. Refuses is followed by a connecting word before the next action, come out.'),
- (8,
-  None,
-  "'What? Out of the way! Open the door, Julie!' The familiar instruction to open addresses Julie alone. The "
-  'definite article refers to the particular door between them.'),
- (9,
-  None,
-  "'Didier, stop! Here are the agents.' The director uses the actor's real first name. The word announcing "
-  'the agents can present a person who has just arrived, rather than say where they are.'),
- (10,
-  None,
-  "'She gets on my nerves! She still lives in the eighteenth century!' The expression about irritating him "
-  'puts me before the action. The word for still then suggests that Julie has not left the old-fashioned '
-  'world of her character.'),
- (11,
-  None,
-  "'She's too serious! She grew up in a convent!' The first description is written in its feminine form for "
-  'Julie. The second sentence builds a completed past action with has and grown up.'),
- (12,
-  None,
-  "'He must apologise first!' The action means to excuse oneself, or apologise. The final expression puts "
-  'that apology before any return to work.')]
+WALK = [
+    (0, None, "'Oh no! Sorry!' The apology replaces the stronger language in the original scene. It is a short expression for admitting a mistake and starting again."),
+    (1, None, "'Madam, I know that our love is forbidden a thousand times over.' The word for thousand stays unchanged when counting thousands. Here it exaggerates how impossible the lovers' relationship is supposed to be."),
+    (2, None, "'My reason tells me a thousand times to leave.' The little word linking tells me to leave is the same word often translated as of. Its job here is to introduce what his reason tells him to do."),
+    (3, None, "'But my heart tells me to leave. No, to stay!' Leave and stay are opposites. Saying the wrong one reverses the meaning of the romantic speech, which is why his correction ruins the take."),
+    (4, None, "'I can't act like this!' The action word can mean play a game, play a role or act. The final expression means like this and points to the whole difficult situation."),
+    (5, None, "'Okay, let's stop.' The everyday word meaning we comes before stop. With the present tense and this tone, it proposes stopping now rather than describing a routine."),
+    (6, None, "'But what is she doing now?' The long opening is an ordinary spoken question pattern. The last word carries the irritation of what she is doing yet again."),
+    (7, None, "'She's in her dressing room. She refuses to come out.' A dressing room is the place an actor uses away from the set. Refuses is followed by a connecting word before the next action, come out."),
+    (8, None, "'What? Out of the way! Open the door, Julie!' The familiar instruction to open addresses Julie alone. The definite article refers to the particular door between them."),
+    (9, None, "'Didier, stop! Here are the agents.' The director uses the actor's real first name. The word announcing the agents can present a person who has just arrived, rather than say where they are."),
+    (10, None, "'She gets on my nerves! She still lives in the eighteenth century!' The expression about irritating him puts me before the action. The word for still then suggests that Julie has not left the old-fashioned world of her character."),
+    (11, None, "'She's too serious! She grew up in a convent!' The first description is written in its feminine form for Julie. The second sentence builds a completed past action with has and grown up."),
+    (12, None, "'He must apologise first!' The action means to excuse oneself, or apologise. The final expression puts that apology before any return to work."),
+]
 SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the '
  'bilingual working subtitles, whose French track is backtranslated; source video and separate '
  'original-audio checks verify roles, plot and register.')

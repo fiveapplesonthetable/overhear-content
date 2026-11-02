@@ -15,7 +15,7 @@ INTRO = ('At the end of the working day, Mathias leaves his phone behind at the 
  'listen in French.')
 OPENER = ("Let's go through it slowly. Mathias announces that he is leaving for the evening, and Noémie wishes him a good "
  'screening.')
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Noémie has seen that the contract was sent and believes Mathias is leaving for StarMédia. What hurts her most '
  'is that he has not asked her to come with him. See you next time!')
 CLOSING = ('herve', 'Bonne journée!')
@@ -78,63 +78,20 @@ STORY = [('mathias',
   'This is awful, Hervé.',
   [(492, 'Hervé')],
   'Keeps the actual statement of distress instead of the draft’s invented wish to die.')]
-WALK = [(0,
-  None,
-  "'Right, I'm leaving.' The opening is an everyday way of announcing departure. The two short object words "
-  'inside the action describe going away from here.'),
- (1,
-  None,
-  "'Enjoy the screening.' Noémie gives a polite command. The word after the action intensifies her wish that he "
-  'enjoy the film screening.'),
- (2,
-  None,
-  "'I really don't feel like it. See you tomorrow.' The short object before 'have' refers to going to the "
-  'screening. French describes not feeling like it as not having the desire for it.'),
- (3,
-  None,
-  "'Yes, Mathias.' Noémie acknowledges him by name. A direct address can follow a short reply with a small "
-  'pause.'),
- (4,
-  None,
-  "'He forgot his phone. Mathias!' The completed past uses a helping form of 'have' and the past form of "
-  "'forget'. The possessive refers to Mathias’s phone."),
- (5,
-  None,
-  "'Contract sent by email. A new adventure begins.' A text message can leave out a helping verb before 'sent'. "
-  'The second sentence has a present-tense action meaning that something begins.'),
- (6,
-  None,
-  "'What? Oh, thanks. See you tomorrow, Noémie.' The farewell points to the next day. The final name makes clear "
-  'whom he is thanking and saying goodbye to.'),
- (7,
-  None,
-  "'Noémie? What's wrong?' Hervé asks what the matter is. The long everyday question literally asks what there "
-  'is, but here concerns what has happened to Noémie.'),
- (8,
-  None,
-  "'I don't understand. It's Mathias.' The negative surrounds the action meaning understand. The short second "
-  'sentence identifies Mathias as the cause of her distress.'),
- (9,
-  None,
-  "'He's leaving with all his stars for StarMédia.' The action means leaving. The feminine plural possessive "
-  'description covers all his stars; the final place expression names their destination.'),
- (10,
-  None,
-  "'He didn't even ask me to come with him.' The word meaning even strengthens the negative. After asking "
-  'someone, a short linking word introduces the requested action of coming along.'),
- (11,
-  None,
-  "'He's abandoning me.' The object meaning me shortens before the vowel of the action. Noémie interprets his "
-  'departure as personal abandonment.'),
- (12,
-  None,
-  "'I'm nothing to him.' Noémie describes feeling worthless to Mathias. The negative word means nothing, and the "
-  'independent object after the final preposition refers to him.'),
- (13,
-  None,
-  "'Of course not, Noémie.' Hervé gently contradicts her self-criticism. A short negative answer can offer "
-  'reassurance without repeating the whole statement.'),
- (14,
-  None,
-  "'This is awful, Hervé.' The describing word means awful or horrible. It describes the situation rather than "
-  'agreeing with Noémie’s gender.')]
+WALK = [
+    (0, None, "'Right, I'm leaving.' The opening is an everyday way of announcing departure. The two short object words inside the action describe going away from here."),
+    (1, None, "'Enjoy the screening.' Noémie gives a polite command. The word after the action intensifies her wish that he enjoy the film screening."),
+    (2, None, "'I really don't feel like it. See you tomorrow.' The short object before 'have' refers to going to the screening. French describes not feeling like it as not having the desire for it."),
+    (3, None, "'Yes, Mathias.' Noémie acknowledges him by name. A direct address can follow a short reply with a small pause."),
+    (4, None, "'He forgot his phone. Mathias!' The completed past uses a helping form of 'have' and the past form of 'forget'. The possessive refers to Mathias’s phone."),
+    (5, None, "'Contract sent by email. A new adventure begins.' A text message can leave out a helping verb before 'sent'. The second sentence has a present-tense action meaning that something begins."),
+    (6, None, "'What? Oh, thanks. See you tomorrow, Noémie.' The farewell points to the next day. The final name makes clear whom he is thanking and saying goodbye to."),
+    (7, None, "'Noémie? What's wrong?' Hervé asks what the matter is. The long everyday question literally asks what there is, but here concerns what has happened to Noémie."),
+    (8, None, "'I don't understand. It's Mathias.' The negative surrounds the action meaning understand. The short second sentence identifies Mathias as the cause of her distress."),
+    (9, None, "'He's leaving with all his stars for StarMédia.' The action means leaving. The feminine plural possessive description covers all his stars; the final place expression names their destination."),
+    (10, None, "'He didn't even ask me to come with him.' The word meaning even strengthens the negative. After asking someone, a short linking word introduces the requested action of coming along."),
+    (11, None, "'He's abandoning me.' The object meaning me shortens before the vowel of the action. Noémie interprets his departure as personal abandonment."),
+    (12, None, "'I'm nothing to him.' Noémie describes feeling worthless to Mathias. The negative word means nothing, and the independent object after the final preposition refers to him."),
+    (13, None, "'Of course not, Noémie.' Hervé gently contradicts her self-criticism. A short negative answer can offer reassurance without repeating the whole statement."),
+    (14, None, "'This is awful, Hervé.' The describing word means awful or horrible. It describes the situation rather than agreeing with Noémie’s gender."),
+]

@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'eugenie': 'Eugénie', 'gabriel': 'Gabriel', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = "In the hallway at ASK, Gabriel welcomes job applicant Eugenie while Noémie watches closely. Noémie reveals the mischievous advice she gave the candidate to disrupt her chances. Let's listen to the scene in French first."
+INTRO = 'In the hallway at ASK, Gabriel welcomes job applicant Eugenie while Noemie watches closely. Noemie reveals the mischievous advice she gave the candidate to disrupt her chances. Listen to the scene in French first.'
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'Noémie pulls off a hilarious office prank by convincing applicant Eugenie that senior agent Arlette is completely deaf. Eugenie shouts her greeting at the top of her lungs, confusing everyone in the agency. See you next time!'
+TRANSITION = "Now let's hear the entire dialogue once more to lock in what you have learned."
+OUTRO = 'Noemie pulls off a hilarious office prank by convincing applicant Eugenie that senior agent Arlette is completely deaf. Eugenie shouts her greeting at the top of her lungs, confusing everyone in the agency. See you next time!'
 CLOSING = ('noemie', 'Bonne soirée!')
 STORY = [
     ('gabriel', "Par ici, mademoiselle, s'il vous plaît.", 'This way, miss, please.', [(341, "Par ici, s'il vous plaît.")], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('noemie', 'Voilà, sa carrière chez ASK commence très bien.', 'There, her career at ASK is off to a great start.', [(344, 'ici')], ''),
 ]
 WALK = [
-    (0, None, "'This way, miss, please.' Gabriel politely guides Eugenie toward the office."),
-    (1, None, "'Thank you very much. Hello.' Eugenie replies courteously."),
-    (2, None, "'What did you say to her, Noémie?' Gabriel questions Noemie's suspicious interference."),
-    (3, None, "'I gave her a little tip to succeed.' Noemie innocently disguises her sabotage."),
-    (4, None, "'What kind of tip?' Gabriel presses for clarification."),
-    (5, None, "'I told her that the real boss here was Arlette Azémar.' Noemie reveals her fabricated hierarchy."),
-    (6, None, "'And that she was the one who had to be convinced.' Noemie explains her misleading instruction."),
-    (7, None, "'Arlette? But she is not the one hiring!' Gabriel protests the absurd misdirection."),
-    (8, None, "'I told her to go for it, to speak very loudly.' Noemie describes her outrageous delivery advice."),
-    (9, None, "'And why speak very loudly?' Gabriel asks with growing disbelief."),
-    (10, None, "'Because she is deaf.' Noemie delivers the punchline of her prank."),
-    (11, None, "'But Arlette is not deaf at all!' Gabriel points out the obvious flaw."),
-    (12, None, "'Hello, ma'am!' Eugenie shouts enthusiastically across the reception area."),
-    (13, None, "'So happy to meet you!' Eugenie bellows her eager admiration."),
-    (14, None, "'Working alongside you is a dream for any young agent!' Eugenie yells her flattery loudly."),
-    (15, None, "'There, her career at ASK is off to a great start.' Noemie watches the unfolding chaos with satisfaction. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'This way, miss, please.' Built from 'my damsel', that traditional address pairs here with the polite 'you' version of 'please'."),
+    (1, None, "'Thank you very much. Hello.' Built from 'good' and 'day', the standard French hello works politely all day long until evening."),
+    (2, None, "'What did you say to her, Noemie?' Gabriel keeps the formal 'you' with his colleague's assistant, tucking 'to her' right ahead of 'have said'."),
+    (3, None, "'I gave her a little tip to succeed.' Unlike English uncountable 'advice', you can say 'a little counsel' in French for a single tip."),
+    (4, None, "'What kind of tip?' Literally 'what genre of counsel', this handy chunk lets you ask 'what kind of' about almost anything."),
+    (5, None, "'I told her that the real boss here was Arlette Azemar.' Doubling the consonant at the end of 'boss' marks a female chief in French."),
+    (6, None, "'And that she was the one who had to be convinced.' Combining 'it is she' with 'it was necessary to convince' puts total emphasis on Arlette in French."),
+    (7, None, "'Arlette? But she is not the one hiring!' Wrapping 'it is' in the negative before 'she who recruits' mirrors that same spotlight pattern to deny it."),
+    (8, None, "'I told her to go for it, to speak very loudly.' Saying 'to go there' idiomatically means 'go for it', while the word meaning 'strong' also means 'loudly' in French."),
+    (9, None, "'And why speak very loudly?' Pairing 'why' directly with the base action — just as in English 'why speak?' — makes a brisk follow-up in French."),
+    (10, None, "'Because she is deaf.' Notice how the second word of 'because' drops its final vowel before 'she' in French so the words flow smoothly together."),
+    (11, None, "'But Arlette is not deaf at all!' Adding two short words literally meaning 'of the all' onto the end strengthens 'not' into 'not at all'."),
+    (12, None, "'Hello, ma'am!' Built originally from 'my lady', that polite title accompanies 'hello' whenever addressing a senior woman you don't know in French."),
+    (13, None, "'So happy to meet you!' Skipping 'I am' at the start makes Eugenie's shouted greeting punchier, with polite 'you' tucked before 'meet'."),
+    (14, None, "'Working alongside you is a dream for any young agent!' Literally 'at your sides', that idiomatic expression means 'alongside you', and 'all' before 'young agent' means 'any'."),
+    (15, None, "'There, her career at ASK is off to a great start.' Opening with a pointing word that literally means 'see there' frames Noemie's smug commentary."),
 ]

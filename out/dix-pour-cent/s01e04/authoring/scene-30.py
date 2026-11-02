@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "While Andréa and Colette are talking on the agency roof, Mathias has brought Audrey Fleurot to a big charity gala for UNICEF. After the tabloids printed photos of Audrey at the billionaire Kadropov's birthday party, Mathias has a plan to save her reputation—though it means giving away the very money she earned to pay her taxes. Listen to the scene in French first, and enjoy how Audrey handles it."
 OPENER = "Let's go through it step by step. Backstage before her speech, Audrey is still reluctant to part with her twenty thousand euros."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("The donation repairs Audrey's public image, and Mathias brings news of a promising film opportunity. It could "
  'also help with her overdue tax bill. You heard how to correct an amount, give something to an organisation and '
  'describe being able to do something. See you next time!')
@@ -89,69 +89,21 @@ STORY = [('audrey',
   "Can you tell them? I'm scared of the tax office.",
   [(802, 'Tu peux leur dire'), (802, "de l'administration")],
   'Original audio Audrey and Mathias use polite address consistently.')]
-WALK = [(0,
-  None,
-  "'Are you sure it's the only solution?' The describing word for sure has a masculine ending because Audrey is "
-  'asking Mathias. The description of the solution uses the feminine form meaning only or sole.'),
- (1,
-  None,
-  "'Trust me, Audrey. Beyoncé did that after her concert.' French expresses trust by making confidence in "
-  'someone. Mathias offers a reassurance and then points to a similar celebrity story.'),
- (2,
-  None,
-  "'I am delighted to be with you tonight.' Audrey uses a feminine description for being delighted. The final "
-  'time phrase means this evening, rather than every evening.'),
- (3,
-  None,
-  "'The media can be cruel.' The action meaning can has a plural form to agree with the media. The description of "
-  'cruelty is plural too.'),
- (4,
-  None,
-  "'I came solely to help the children.' The past form of coming has a feminine written ending for Audrey. On "
-  'stage she nearly says she went for her own children, then quickly turns it into a claim about helping children '
-  'generally.'),
- (5,
-  None,
-  "'I am giving all of Mr. Kadropov's money to UNICEF.' The action of giving is in the present. The word before "
-  'money means the whole amount, and the final preposition marks the organisation receiving it.'),
- (6,
-  None,
-  "'Ten thousand euros. Twenty thousand euros, sorry. Twenty thousand euros.' Audrey first names half the fee, "
-  "then corrects herself under Mathias's gaze. The word for thousand keeps the same written form after either "
-  'number.'),
- (7,
-  None,
-  "'Sorry. Excuse me. Thank you.' A brief apology can consist of three everyday expressions without a longer "
-  'sentence. Here she acknowledges the missing signature on the cheque.'),
- (8,
-  None,
-  "'Still no news from the nanny.' The negative expression means that no news has arrived yet. The word for news "
-  'is a feminine thing, rather than the describing word meaning new.'),
- (9,
-  None,
-  "'Well, I may have a film for you.' The word meaning maybe makes this a possible new film opportunity. The "
-  'independent polite form of you follows the final preposition.'),
- (10,
-  None,
-  "'What?' This short question can stand alone to ask what someone means or what the new proposal is. It does not "
-  'need a full action word.'),
- (11,
-  None,
-  "'Michel Hazanavicius. He saw you with Kadropov.' The object meaning you is placed before the helping word in "
-  'the past. The past form of seen takes a feminine written ending because Audrey is the person seen.'),
- (12,
-  None,
-  "'He wants you for the next OSS one-one-seven.' The object for Audrey goes directly before the action meaning "
-  "wants. The final description means next and comes before the film's title."),
- (13,
-  None,
-  "'Mathias, that's great!' The exclamation greets good news enthusiastically. The describing word for great "
-  'works without a different masculine or feminine ending.'),
- (14,
-  None,
-  "'You'll be able to pay your taxes.' The action of going introduces a near future. It is followed by being able "
-  'to, then paying: the chain describes a new ability to settle her taxes.'),
- (15,
-  None,
-  "'Can you tell them? I'm scared of the tax office.' The short object before telling means to them, referring to "
-  'the tax authorities. French describes being scared as having fear, followed by what causes it.')]
+WALK = [
+    (0, None, "'Are you sure it's the only solution?' The describing word for sure has a masculine ending because Audrey is asking Mathias. The description of the solution uses the feminine form meaning only or sole."),
+    (1, None, "'Trust me, Audrey. Beyoncé did that after her concert.' French expresses trust by making confidence in someone. Mathias offers a reassurance and then points to a similar celebrity story."),
+    (2, None, "'I am delighted to be with you tonight.' Audrey uses a feminine description for being delighted. The final time phrase means this evening, rather than every evening."),
+    (3, None, "'The media can be cruel.' The action meaning can has a plural form to agree with the media. The description of cruelty is plural too."),
+    (4, None, "'I came solely to help the children.' The past form of coming has a feminine written ending for Audrey. On stage she nearly says she went for her own children, then quickly turns it into a claim about helping children generally."),
+    (5, None, "'I am giving all of Mr. Kadropov's money to UNICEF.' The action of giving is in the present. The word before money means the whole amount, and the final preposition marks the organisation receiving it."),
+    (6, None, "'Ten thousand euros. Twenty thousand euros, sorry. Twenty thousand euros.' Audrey first names half the fee, then corrects herself under Mathias's gaze. The word for thousand keeps the same written form after either number."),
+    (7, None, "'Sorry. Excuse me. Thank you.' A brief apology can consist of three everyday expressions without a longer sentence. Here she acknowledges the missing signature on the cheque."),
+    (8, None, "'Still no news from the nanny.' The negative expression means that no news has arrived yet. The word for news is a feminine thing, rather than the describing word meaning new."),
+    (9, None, "'Well, I may have a film for you.' The word meaning maybe makes this a possible new film opportunity. The independent polite form of you follows the final preposition."),
+    (10, None, "'What?' This short question can stand alone to ask what someone means or what the new proposal is. It does not need a full action word."),
+    (11, None, "'Michel Hazanavicius. He saw you with Kadropov.' The object meaning you is placed before the helping word in the past. The past form of seen takes a feminine written ending because Audrey is the person seen."),
+    (12, None, "'He wants you for the next OSS one-one-seven.' The object for Audrey goes directly before the action meaning wants. The final description means next and comes before the film's title."),
+    (13, None, "'Mathias, that's great!' The exclamation greets good news enthusiastically. The describing word for great works without a different masculine or feminine ending."),
+    (14, None, "'You'll be able to pay your taxes.' The action of going introduces a near future. It is followed by being able to, then paying: the chain describes a new ability to settle her taxes."),
+    (15, None, "'Can you tell them? I'm scared of the tax office.' The short object before telling means to them, referring to the tax authorities. French describes being scared as having fear, followed by what causes it."),
+]

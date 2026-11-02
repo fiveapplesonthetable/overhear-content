@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'colette': 'Colette', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
-INTRO = "Andréa meets Colette at a neighborhood cafe to talk through a personal crisis. As Andréa confesses to an unexpected pregnancy, an unexpected visit from Hicham sparks a startling realization. Listen to the scene in French first. Don't worry about catching every word."
+INTRO = "Andrea meets Colette at a neighborhood cafe to talk through a personal crisis. As Andrea confesses to an unexpected pregnancy, an unexpected visit from Hicham sparks a startling realization. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this intense cafe confession step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "After confessing her unplanned pregnancy to Colette, Andréa is interrupted by Hicham, sparking Colette's sharp intuition about who the father might be. See you next time!"
+TRANSITION = "Now let's listen to the whole dialogue again."
+OUTRO = "After confessing her unplanned pregnancy to Colette, Andrea is interrupted by Hicham, sparking Colette's sharp intuition about who the father might be. See you next time!"
 CLOSING = ('colette', 'Bonne journée!')
 STORY = [
     ('colette', "C'est mauvais pour le bébé.", 'It is bad for the baby.', [(875, "Même à petite dose, c'est mauvais pour le bébé")], ''),
@@ -35,21 +35,21 @@ STORY = [
     ('colette', "Dis-moi, c'est lui le père?", 'Tell me, is he the father?', [(916, "C'est lui, le père")], ''),
 ]
 WALK = [
-    (0, None, "'It is bad for the baby.' Colette notices Andrea ordering an alcoholic drink."),
-    (1, None, "'For now, there is no baby.' Andrea responds defensively about her early pregnancy."),
-    (2, None, "'And no father either?' Colette gently probes into the complicated situation."),
-    (3, None, "'It was a stupid mistake.' Andrea dismisses the encounter with regret."),
-    (4, None, "'A completely improbable accident.' Andrea explains the bizarre nature of the event."),
-    (5, None, "'You are not going to keep it?' Colette asks directly about Andrea's intentions."),
-    (6, None, "'I cannot, Colette.' Andrea admits her feelings of unreadiness for motherhood."),
-    (7, None, "'Do you need my help?' Colette understands why Andrea reached out to her."),
-    (8, None, "'Hello, hello! How are you, Marteau?' Hicham cheerfully intrudes on their private moment."),
-    (9, None, "'Who is your ravishing friend?' Hicham immediately turns his charm toward Colette."),
-    (10, None, "'Hicham, we are not at the office.' Andrea firmly protects her personal boundary."),
-    (11, None, "'I am Hicham Janowski.' Hicham boldly introduces himself to the tax auditor."),
-    (12, None, "'Colette Brancillon. Nice to meet you.' Colette introduces herself with polite poise."),
-    (13, None, "'Hicham is the shareholder of ASK.' Andrea clarifies their professional connection."),
-    (14, None, "'I must get going now.' Colette decides to cut the awkward encounter short."),
-    (15, None, "'Have a good evening, both of you.' Hicham bids them farewell and steps away."),
-    (16, None, "'Tell me, is he the father?' Colette directly voices her sudden and accurate suspicion. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'It is bad for the baby.' Saying 'it is bad for' works just like English when warning someone off a habit, ending on the cognate meaning 'baby'."),
+    (1, None, "'For now, there is no baby.' In the negative, 'there is' becomes 'it there has not of' — another spot where 'a' turns into 'of' after 'not'."),
+    (2, None, "'And no father either?' Where English switches 'too' to 'either' in the negative, French uses a two-word chunk at the end that literally means 'no more'."),
+    (3, None, "'It was a stupid mistake.' Where 'error' can sound technical in English, its French cognate is the everyday choice for a personal 'mistake', placing 'stupid' after it."),
+    (4, None, "'A completely improbable accident.' Three cognates line up in classic French order here: 'accident' comes first, followed by 'completely improbable'."),
+    (5, None, "'You are not going to keep it?' Notice where 'it' lands in a negative 'going to' sentence in French: after 'not', tucked right ahead of 'to keep'."),
+    (6, None, "'I cannot, Colette.' Standing complete on its own with nothing else needed, 'I cannot' in French wraps 'not ... not' around 'can'."),
+    (7, None, "'Do you need my help?' Because 'help' starts with a vowel sound in French, 'my' swaps in its 'n'-ending version so the two words link smoothly aloud."),
+    (8, None, "'Hello, hello! How are you, Marteau?' After breezy 'it goes?', Hicham twists Andrea's surname Martel into a teasing nickname that literally means 'Hammer' in French."),
+    (9, None, "'Who is your ravishing friend?' Casual spoken French often opens with 'it is who?' rather than 'who is', and 'friend' adds a silent 'e' on paper for a woman."),
+    (10, None, "'Hicham, we are not at the office.' Because 'one' already links with an 'n' sound before 'is', 'we are' and 'we are not' sound nearly identical in French until the negative word after 'is' lands!"),
+    (11, None, "'I am Hicham Janowski.' Introducing yourself with 'I am' plus your first name and surname works identically in French and English."),
+    (12, None, "'Colette Brancillon. Nice to meet you.' Compare Colette's 'enchanted' with Guy's earlier on set: both sound identical aloud, with an extra silent 'e' spelled for a female speaker."),
+    (13, None, "'Hicham is the shareholder of ASK.' In French finance, the cognate of 'action' can also mean a company 'share' — so adding '-naire' builds 'shareholder'."),
+    (14, None, "'I must get going now.' Literally 'I must go there', slipping that single-letter 'there' ahead of 'to go' creates the universal French exit line meaning 'I should head off'."),
+    (15, None, "'Have a good evening, both of you.' When parting for the night rather than arriving, French uses the longer '-ee' version of 'evening' to wish 'you two' a pleasant night ahead."),
+    (16, None, "'Tell me, is he the father?' Opening with hyphenated 'say-me', Colette frames her hunch in French as 'it is him, the father?' — spotlighting 'him' for maximum impact."),
 ]

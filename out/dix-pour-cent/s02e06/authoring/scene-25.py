@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "In Cannes, Camille enjoys ice cream on the street with her mother Annick while watching festival crowds from afar. When Mathias calls with a last-minute party invitation, he brings a dress while Annick helps with shoes. Let's listen to the scene in French first."
 OPENER = "Let's examine how Mathias convinces Camille to attend the Cannes party with help from her mother step by step."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
 OUTRO = "Thanks to Annick's loving support and Mathias's persistence, Camille is ready to make an entrance at the Cannes party. Let's review the festival and dressing vocabulary from this scene. See you next time!"
 CLOSING = ('annick', 'Bonne soirée!')
 STORY = [
@@ -33,19 +33,19 @@ STORY = [
     ('annick', 'Allez, ma chérie, profite bien de ta soirée.', 'Go on, darling, enjoy your evening.', [(736, 'Allez, ma chérie, profites-en bien.')], ''),
 ]
 WALK = [
-    (0, None, "'Do you want to eat an ice cream with me?' Annick suggests a relaxing treat to distract Camille from her worries."),
-    (1, None, "'Yes, if you like, Mom.' Camille agrees in a gentle, affectionate tone."),
-    (2, None, "'Stop torturing yourself over this agency.' Annick advises her daughter not to dwell on past professional pain."),
-    (3, None, "'They are real people with lives.' Camille acknowledges the glamour of festival agents while keeping perspective."),
-    (4, None, "'Look, it is Mathias calling you!' Annick alerts Camille as the phone rings on the boulevard."),
-    (5, None, "'Camille, I have an invitation for you tonight.' Mathias invites Camille to a prominent film party in a private villa."),
-    (6, None, "'That is kind, but I no longer work at ASK.' Camille feels awkward about attending without agency credentials."),
-    (7, None, "'I really want to introduce you to important people.' Mathias shows genuine paternal care by offering networking opportunities."),
-    (8, None, "'I have nothing suitable to wear.' Camille points out that she has no formal evening dress in Cannes."),
-    (9, None, "'Look, I found a pretty dress for you!' Mathias arrives with an elegant dress tailored for the event."),
-    (10, None, "'It is magnificent, but I am in flip-flops!' Camille points comically to her casual beach footwear."),
-    (11, None, "'I completely forgot to get shoes.' Mathias realizes he overlooked formal footwear during his shopping trip."),
-    (12, None, "'Take mine, we wear the same shoe size.' Annick generously offers her own stylish shoes to save the day."),
-    (13, None, "'Thank you Mom, you are truly wonderful!' Camille thanks her mother with heartfelt enthusiasm."),
-    (14, None, "'Go on, darling, enjoy your evening.' Annick encourages Camille to seize the exciting opportunity with confidence. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Do you want to eat an ice cream with me?' Literally 'eat an ice,' since the single term meaning 'ice' or 'mirror' also means 'ice cream' in French!"),
+    (1, None, "'Yes, if you like, Mom.' Adding 'well' after 'if you want' softens it into a warm 'if you'd like' in French."),
+    (2, None, "'Stop torturing yourself over this agency.' Again 'stop of' leads into 'torturing yourself,' using 'for' where English says 'over.'"),
+    (3, None, "'They are real people with lives.' Before a description like 'real' at the front in French, 'some' shortens to simple 'of'!"),
+    (4, None, "'Look, it is Mathias calling you!' Framing 'Mathias' inside 'it is... who calls you' is how speakers in French point out a caller on a ringing screen."),
+    (5, None, "'Camille, I have an invitation for you tonight.' Spelled identically in both languages, 'invitation' gets a nasal French ending and leads cleanly into 'for you.'"),
+    (6, None, "'That is kind, but I no longer work at ASK.' Notice 'at' before a company or person's workplace uses the 'at the home of' preposition in French!"),
+    (7, None, "'I really want to introduce you to important people.' Careful false friend: in French, 'present' someone ALWAYS means 'introduce' them, while 'introduce' means 'insert'!"),
+    (8, None, "'I have nothing suitable to wear.' Literally 'nothing of suitable to put on myself'—French connects any description after 'nothing' or 'something' with 'of'!"),
+    (9, None, "'Look, I found a pretty dress for you!' Short everyday praise 'pretty' sits BEFORE 'dress' in French, right after 'have found.'"),
+    (10, None, "'It is magnificent, but I am in flip-flops!' Just like 'in tuxedo' earlier, French says 'in flip-flops' with no article after 'in.'"),
+    (11, None, "'I completely forgot to get shoes.' Placing 'completely' between 'have' and 'forgotten' keeps the adverb snug inside the past chunk in French."),
+    (12, None, "'Take mine, we wear the same shoe size.' Literally 'we make the same shoe-size'—French uses 'make' for sizes, and has a dedicated noun just for shoe size!"),
+    (13, None, "'Thank you Mom, you are truly wonderful!' Despite looking like English 'formidable,' this false friend in French is pure praise meaning 'terrific' or 'wonderful'!"),
+    (14, None, "'Go on, darling, enjoy your evening.' Opening with group 'go!' as an encouraging 'come on!' in French, Annick reuses 'profit well of' for 'really enjoy.'"),
 ]

@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham', 'uba': 'Directrice UBA'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = "At the villa reception, Andréa learns that director Gillières accepted Juliette Binoche's decision gracefully. Soon after, an American executive from agency UBA approaches Andréa with an unexpected career proposition. Let's listen to the scene in French first."
-OPENER = "Let's examine how the American executive tests Andréa's career ambitions and agency loyalty step by step."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "The tempting offer from New York plants an intriguing seed in Andréa's mind amidst agency turmoil. Let's review the corporate recruitment and international business vocabulary from this scene. See you next time!"
+INTRO = "At the villa reception, Andrea learns that director Gillieres accepted Juliette Binoche's decision gracefully. Soon after, an American executive from agency UBA approaches Andrea with an unexpected career proposition. Let's listen to the scene in French first."
+OPENER = "Let's examine how the American executive tests Andrea's career ambitions and agency loyalty step by step."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
+OUTRO = "The tempting offer from New York plants an intriguing seed in Andrea's mind amidst agency turmoil. Let's review the corporate recruitment and international business vocabulary from this scene. See you next time!"
 CLOSING = ('uba', 'Bonne journée!')
 STORY = [
     ('hicham', "J'ai reçu un message très positif de Gillières.", 'I received a very positive message from Gillières.', [(739, "J'ai reçu un message de Jean-Denis Gillières.")], ''),
@@ -33,19 +33,19 @@ STORY = [
     ('uba', 'Réfléchissez bien à votre avenir professionnel, Andréa.', 'Think carefully about your professional future, Andréa.', [(762, 'Que va devenir ASK avec lui comme patron ?'), (763, 'Tu veux te faire diriger par un type comme ça ?')], ''),
 ]
 WALK = [
-    (0, None, "'I received a very positive message from Gillières.' Hicham conveys relief that the crisis was successfully averted."),
-    (1, None, "'He perfectly understands Juliette's situation.' Hicham confirms that the director took the withdrawal well."),
-    (2, None, "'I found the right words to convince him.' Andrea takes professional pride in handling the delicate negotiation."),
-    (3, None, "'Good evening Andréa, I looked into your background.' The UBA executive initiates a targeted conversation with Andrea."),
-    (4, None, "'Your work with Luchini is very impressive.' The executive praises Andrea's major talent coup with Fabrice Luchini."),
-    (5, None, "'You speak remarkable English, apparently.' The executive notes Andrea's readiness for an international market."),
-    (6, None, "'Would you like to come work in New York?' The executive makes a direct and bold recruitment pitch."),
-    (7, None, "'My husband manages the large agency UBA.' The executive establishes her direct influence at United Broad Talent."),
-    (8, None, "'It is an entirely serious offer.' The executive underlines that the career proposition is fully vetted."),
-    (9, None, "'Thank you very much, I am genuinely flattered.' Andrea responds with professional courtesy and poise."),
-    (10, None, "'But I am deeply attached to my actors.' Andrea expresses strong personal commitment to her French talent roster."),
-    (11, None, "'And what do you really think of Hicham Janowski?' The executive probes Andrea's feelings about her new agency boss."),
-    (12, None, "'Is he an asset or a real handicap?' The executive sharply frames Hicham's erratic leadership style as a liability."),
-    (13, None, "'Hicham is our new boss at ASK.' Andrea provides a guarded answer to avoid undermining her own agency."),
-    (14, None, "'Think carefully about your professional future, Andréa.' The executive urges Andrea to consider her long-term horizons. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'I received a very positive message from Gillieres.' Notice 'message very positive' putting the description after 'message' in French, right after 'have received.'"),
+    (1, None, "'He perfectly understands Juliette's situation.' French places 'perfectly' right AFTER 'understands' rather than before it as in English."),
+    (2, None, "'I found the right words to convince him.' Placed BEFORE 'words,' 'good' shifts to mean 'the right words' in French, followed by 'him convince.'"),
+    (3, None, "'Good evening Andrea, I looked into your background.' Literally 'I informed myself on you,' a polished French expression for doing homework on someone's career."),
+    (4, None, "'Your work with Luchini is very impressive.' Built from 'impression,' that final cognate means 'impressive' in French."),
+    (5, None, "'You speak remarkable English, apparently.' Unlike English, French capitalizes country names while keeping language names like 'English' lowercase—and adds 'an' before 'English remarkable'!"),
+    (6, None, "'Would you like to come work in New York?' Inverting polite 'you' onto 'would want' creates an ultra-courteous business pitch, using 'to' before city names like New York."),
+    (7, None, "'My husband manages the large agency UBA.' False friend note: in French, 'directs' is the everyday action for running or managing a company!"),
+    (8, None, "'It is an entirely serious offer.' Slipping that three-word intensifier meaning 'quite' or 'completely' before 'serious' gives the pitch extra weight in French."),
+    (9, None, "'Thank you very much, I am genuinely flattered.' Because Andrea is speaking, 'flattered' adds a silent '-e' at the end in French."),
+    (10, None, "'But I am deeply attached to my actors.' Where English says 'actors' for both stage and screen, French loves using 'comedians' for dramatic actors of every kind!"),
+    (11, None, "'And what do you really think of Hicham Janowski?' Literally 'what think-you really of,' eliding 'of' smoothly before silent-'h' Hicham."),
+    (12, None, "'Is he an asset or a real handicap?' Borrowed from card games, that first noun means a 'trump card' or 'asset' in French, contrasted with 'handicap.'"),
+    (13, None, "'Hicham is our new boss at ASK.' Again, French uses the 'at the home of' preposition to mean 'at' a company like ASK."),
+    (14, None, "'Think carefully about your professional future, Andrea.' Literally 'reflect well to your future professional,' connecting 'reflect' with 'to' where English says 'think about.'"),
 ]

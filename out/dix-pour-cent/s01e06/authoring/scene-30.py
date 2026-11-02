@@ -70,51 +70,17 @@ STORY = [('mathias',
   'When everything goes badly, there is always the cinema.',
   [(821, 'Quand tout va mal'), (822, 'il y a toujours le cinéma')],
   '')]
-WALK = [(0,
-  None,
-  "'For once we agree!' Mathias begins with 'for once'. The final expression means being in agreement: he jokes that "
-  'they have finally found something to agree about.'),
- (1,
-  None,
-  "'We found Samuel's whisky.' The completed action means 'found'. The little word before Samuel's name means 'of' or "
-  'possession, identifying whose whisky they are sharing.'),
- (2,
-  None,
-  "'You are drunk, Mathias. I have never seen you drunk!' The first description calls Mathias drunk. In the next "
-  "sentence, the two negative words mean 'never': Andréa says she has never seen him like this."),
- (3,
-  None,
-  "'It is like your first Cannes Film Festival.' Arlette introduces a comparison with a first visit to the film "
-  "festival. The possessive before 'first' addresses the person whose trip they are remembering."),
- (4,
-  None,
-  "'He was a sober young man, always very professional.' Mathias describes the young man in their memory as sober. The "
-  "final words mean 'always very professional', setting up the contrast with his later disappearance."),
- (5,
-  None,
-  "'Do not talk about swimming pools, please!' Andréa interrupts the pool story. The negative command is addressed to "
-  'more than one person; the polite ending adds please despite her exasperation.'),
- (6,
-  None,
-  "'So we returned to Paris without him.' The completed return uses 'are' rather than 'have' in French. The final "
-  "words mean 'without him': they returned to Paris while he was still missing."),
- (7,
-  None,
-  "'What did you do for three days?' The opening question asks 'what'. The final time words count the three days he "
-  'disappeared; Mathias wants to know what happened during them.'),
- (8,
-  None,
-  "'We are going to get through this, kids.' Outside the agency, Arlette gives reassurance. The central expression "
-  "means managing to get out of a difficult situation; 'children' is an affectionate address to the group."),
- (9,
-  None,
-  "'We always have.' The little object before the completed action means 'it'. The word for 'always' connects this "
-  'problem with earlier difficulties they have survived.'),
- (10,
-  None,
-  "'Do you want to go see a film?' Arlette now invites Camille to the cinema. The two actions mean going and seeing, "
-  "with 'a film' as the thing they will see."),
- (11,
-  None,
-  "'When everything goes badly, there is always the cinema.' The opening means 'when everything goes badly'. The final "
-  "statement says cinema is still available as comfort; the word before it means 'always'.")]
+WALK = [
+    (0, None, "'For once we agree!' Mathias begins with 'for once'. The final expression means being in agreement: he jokes that they have finally found something to agree about."),
+    (1, None, "'We found Samuel's whisky.' The completed action means 'found'. The little word before Samuel's name means 'of' or possession, identifying whose whisky they are sharing."),
+    (2, None, "'You are drunk, Mathias. I have never seen you drunk!' The first description calls Mathias drunk. In the next sentence, the two negative words mean 'never': Andréa says she has never seen him like this."),
+    (3, None, "'It is like your first Cannes Film Festival.' Arlette introduces a comparison with a first visit to the film festival. The possessive before 'first' addresses the person whose trip they are remembering."),
+    (4, None, "'He was a sober young man, always very professional.' Mathias describes the young man in their memory as sober. The final words mean 'always very professional', setting up the contrast with his later disappearance."),
+    (5, None, "'Do not talk about swimming pools, please!' Andréa interrupts the pool story. The negative command is addressed to more than one person; the polite ending adds please despite her exasperation."),
+    (6, None, "'So we returned to Paris without him.' The completed return uses 'are' rather than 'have' in French. The final words mean 'without him': they returned to Paris while he was still missing."),
+    (7, None, "'What did you do for three days?' The opening question asks 'what'. The final time words count the three days he disappeared; Mathias wants to know what happened during them."),
+    (8, None, "'We are going to get through this, kids.' Outside the agency, Arlette gives reassurance. The central expression means managing to get out of a difficult situation; 'children' is an affectionate address to the group."),
+    (9, None, "'We always have.' The little object before the completed action means 'it'. This expression for 'always' connects this problem with earlier difficulties they have survived."),
+    (10, None, "'Do you want to go see a film?' Arlette now invites Camille to the cinema. The two actions mean going and seeing, with 'a film' as the thing they will see."),
+    (11, None, "'When everything goes badly, there is always the cinema.' The opening means 'when everything goes badly'. The final statement says cinema is still available as comfort; the word before it means 'always'."),
+]

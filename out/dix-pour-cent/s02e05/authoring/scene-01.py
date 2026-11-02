@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'guy': 'Guy', 'hippolyte': 'Hippolyte'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
-INTRO = "In Episode 5 of Season 2 of Dix pour cent, beloved comic actor Guy Marchand suffers sudden memory lapses right in the middle of a film shoot, leaving Mathias and Camille scrambling to protect his dignity and keep the production alive. We begin in Mathias's office as he meets screenwriter Hippolyte Rivière. You'll hear the whole exchange in French first — don't worry about catching every word."
+INTRO = "In Episode 5 of Season 2 of Dix pour cent, beloved comic actor Guy Marchand suffers sudden memory lapses right in the middle of a film shoot, leaving Mathias and Camille scrambling to protect his dignity and keep the production alive. We begin on set as Guy chats with co-star Hippolyte. You'll hear the whole exchange in French first — don't worry about catching every word."
 OPENER = "Let's examine how Hippolyte and Guy encourage each other before the rehearsal."
-TRANSITION = "Now let's listen to Hippolyte and Guy's friendly chat again at full speed."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'Hippolyte and Guy share mutual respect as actors, preparing to rehearse their upcoming scene together. Their relaxed conversation masks the underlying pressure of the first day on set. See you next time!'
 CLOSING = ('guy', 'Bonne soirée!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('guy', 'Oui, volontiers, cela me fera du bien.', 'Yes, gladly, that will do me good.', [(25, 'Ça me fera du bien aussi.'), (26, 'Oui, volontiers. Merci.')], ''),
 ]
 WALK = [
-    (0, None, "'I took up cycling recently.' Hippolyte takes up a new sporting hobby."),
-    (1, None, "'I really love doing sport in the morning.' Jogging alongside his father, Hippolyte says he loves exercising in the morning."),
-    (2, None, "'Do you do many kilometers per week?' Guy inquires about training distance."),
-    (3, None, "'Yes, about one hundred fifty kilometers every week.' Hippolyte shows the discipline of a serious athlete."),
-    (4, None, "'That is impressive, that is a lot of road!' Guy acknowledges effort."),
-    (5, None, "'I came to the movie set by bicycle.' Hippolyte details morning commute."),
-    (6, None, "'It helps me stay calm and focused.' Hippolyte explains how archery helps him stay calm and focused."),
-    (7, None, "'Me, I must go over my lines.' Guy introduces professional study."),
-    (8, None, "'Are you stressing out a bit today?' Hippolyte checks on colleague anxiety."),
-    (9, None, "'A bit, yes, shooting is starting.' Guy candidly admits feeling tense on the first day of filming."),
-    (10, None, "'You are always flawless in your movies.' Generous peer praise recognizing consistent screen quality."),
-    (11, None, "'Thank you Hippolyte, that is very kind of you.' Guy acknowledges the compliment."),
-    (12, None, "'Do you want us to rehearse our text together?' Hippolyte suggests line rehearsal."),
-    (13, None, "'Yes, gladly, that will do me good.' Guy welcomes rehearsal support. Now let's listen to Hippolyte and Guy's friendly chat again at full speed."),
+    (0, None, "'I took up cycling recently.' Literally 'I put myself to the bike recently' — 'putting yourself to' an activity is how you say you started doing it, and Hippolyte is proud of his new routine."),
+    (1, None, "'I really love doing sport in the morning.' Notice 'the morning' at the end with no extra linking word: in French, 'the morning' on its own means 'in the morning' as a regular habit."),
+    (2, None, "'Do you do many kilometers per week?' Guy addresses his younger co-star with the casual 'you', while 'by week' at the end works just like 'per week' in English."),
+    (3, None, "'Yes, about one hundred fifty kilometers every week.' French builds 'one hundred fifty' straight from 'hundred' and 'fifty', with no 'a' in front and no 'and' in the middle."),
+    (4, None, "'That is impressive, that is a lot of road!' Here 'a lot of road' is an idiom for covering serious distance, paired with a close cognate of English 'impressive'."),
+    (5, None, "'I came to the movie set by bicycle.' Word for word, the opening says 'I am come' rather than 'I have come', and the word that usually means a tray or flat surface also means a film set."),
+    (6, None, "'It helps me stay calm and focused.' Where English can say 'helps me stay' directly, French links 'helps' and 'stay' with a connecting 'to' in between."),
+    (7, None, "'Me, I must go over my lines.' Doubling up with 'me, I' at the start is how French speakers shift the spotlight onto themselves, and an actor's lines come from the idea of spoken 'replies'."),
+    (8, None, "'Are you stressing out a bit today?' Out of respect for the veteran star, Hippolyte sticks to the polite 'you', opening his question with 'is it that'."),
+    (9, None, "'A bit, yes, shooting is starting.' Filming comes from the root meaning 'to turn', harking back to the early days when camera operators cranked film reels by hand."),
+    (10, None, "'You are always flawless in your movies.' That praise uses an exact spelling cognate of 'impeccable', which you'll hear constantly in everyday French for anything done without a hitch."),
+    (11, None, "'Thank you Hippolyte, that is very kind of you.' Notice the end of the compliment: French says 'kind to you' rather than 'kind of you', a handy chunk whenever someone pays you a warm tribute."),
+    (12, None, "'Do you want us to rehearse our text together?' Instead of 'want us to rehearse', French says 'want that we rehearse', and 'rehearse' comes from the same action as 'repeat'."),
+    (13, None, "'Yes, gladly, that will do me good.' Accepting an invitation with that single word meaning 'gladly' sounds warm and natural, followed by an expression meaning 'will do some good to me'."),
 ]

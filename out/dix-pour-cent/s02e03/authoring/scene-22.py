@@ -12,8 +12,8 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Inside the test vehicle, nervous candidate Norman Thavaud embarks on his fourth attempt at the practical driving exam. Guiding the car through busy city streets, Norman manages to keep his cool and successfully impresses the strict examiner. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
-TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Norman celebrates a successful driving exam that opens the door to his new movie role. Remember the common conversational idiom for asking what someone means: vouloir dire. See you next time!'
+TRANSITION = "Now let's listen to the whole exchange once more from beginning to end."
+OUTRO = 'Norman celebrates a successful driving exam that opens the door to his new movie role. Notice how French combines wanting and saying to ask what someone really means. See you next time!'
 CLOSING = ('examinateur', 'À demain!')
 STORY = [
     ('norman', "J'adore vraiment conduire.", 'I truly love driving.', [(562, "J'adore conduire")], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('examinateur', 'Maintenant, sortez du véhicule.', 'Now, exit the vehicle.', [(587, 'Maintenant partez !')], ''),
 ]
 WALK = [
-    (0, None, "'I truly love driving.' Norman expresses his newfound enthusiasm behind the steering wheel."),
-    (1, None, "'I could drive indefinitely.' He feels surprisingly relaxed and confident on the road."),
-    (2, None, "'That is fine, but concentrate.' The driving examiner sternly reminds him to stay focused on traffic."),
-    (3, None, "'Here, we turn right.' The official gives the next directional instruction."),
-    (4, None, "'Do not forget the turn signal!' Norman reminds himself aloud to signal properly before turning."),
-    (5, None, "'Watch out for the pedestrian crossing.' The examiner points out an approaching danger on the street."),
-    (6, None, "'Let that lady cross first.' The candidate must yield right of way to walking pedestrians."),
-    (7, None, "'The road is completely clear.' Norman checks his mirrors and assesses the traffic situation."),
-    (8, None, "'Park the car along the sidewalk.' The final maneuver test is requested by the examiner."),
-    (9, None, "'It went rather well.' The official hints at a surprisingly positive assessment."),
-    (10, None, "'You mean that I passed?' Norman hopes for confirmation that he finally earned his license."),
-    (11, None, "'I said absolutely nothing!' The examiner refuses to break official confidentiality rules."),
-    (12, None, "'Thank you very much, that is wonderful!' Norman rejoices at having overcome his driving exam anxiety."),
-    (13, None, "'Now, exit the vehicle.' The official dismisses the candidate at the end of the test. Now let's listen to the entire exchange once more from beginning to end."),
+    (0, None, "'I truly love driving.' Placing 'truly' right after 'adore' follows natural rhythm in French, linking straight to 'to drive' with no extra bridge."),
+    (1, None, "'I could drive indefinitely.' Literally 'roll', the everyday action here means 'drive along' or 'cruise' in a vehicle in French."),
+    (2, None, "'That is fine, but concentrate.' Addressing a test candidate calls for polite '-ez' plus hyphenated 'yourself' to say 'stay focused' in French."),
+    (3, None, "'Here, we turn right.' Driving teachers in French often use inclusive 'one turns' to guide a student smoothly, ending with 'at right' for 'to the right'."),
+    (4, None, "'Do not forget the turn signal!' Built from 'blinking', the closing term literally means 'the blinker'—the everyday name for a car's turn signal in French."),
+    (5, None, "'Watch out for the pedestrian crossing.' Combining 'attention' with 'to the' warns a driver to watch out for something, followed by 'crossing for pedestrians' in French."),
+    (6, None, "'Let that lady cross first.' Placing 'let' directly before 'to pass' creates a smooth two-action unit meaning 'let cross' in French, closed by 'at first'."),
+    (7, None, "'The road is completely clear.' Related to 'disengaged', the closing description means 'unobstructed' or 'wide open' for traffic or skies in French."),
+    (8, None, "'Park the car along the sidewalk.' Sharing a root with 'garage', the opening command means 'park', followed by 'the length of the' for 'along' in French."),
+    (9, None, "'It went rather well.' Literally 'that passed itself rather well', this reflexive expression is how you say an exam or meeting 'went well' in French."),
+    (10, None, "'You mean that I passed?' Built word-for-word as 'you want to say', that two-piece idiom is how French asks 'you mean...?', while 'succeeded' covers passing a test."),
+    (11, None, "'I said absolutely nothing!' Notice 'absolutely nothing' squeezes between 'have' and 'said' rather than trailing at the end in French."),
+    (12, None, "'Thank you very much, that is wonderful!' Remember that 'formidable' is warm, joyful praise meaning 'terrific' in French—never scary like in English."),
+    (13, None, "'Now, exit the vehicle.' Exiting a place or car in French pairs 'go out' with 'of the'—literally 'exit from the vehicle'."),
 ]

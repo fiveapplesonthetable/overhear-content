@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = "In the ASK offices on the eve of the Cannes film festival, Andréa scrambles to organize Juliette Binoche's high-stakes schedule. Gabriel and Hervé struggle to keep up as office tension reaches a boiling point. Let's listen to the scene in French first."
-OPENER = "Let's examine how Andréa and her colleagues handle the extreme pressure step by step to explore festival preparations."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "The pre-festival rush tests everyone's patience as Andréa tries to secure top-tier luxury support for Juliette Binoche. See you next time!"
+INTRO = "In the ASK offices on the eve of the Cannes film festival, Andrea scrambles to organize Juliette Binoche's high-stakes schedule. Gabriel and Herve struggle to keep up as office tension reaches a boiling point. Let's listen to the scene in French first."
+OPENER = "Let's examine how Andrea and her colleagues handle the extreme pressure step by step to explore festival preparations."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
+OUTRO = "The pre-festival rush tests everyone's patience as Andrea tries to secure top-tier luxury support for Juliette Binoche. See you next time!"
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('andrea', 'Prenez rendez-vous avec Chopard pour Juliette Binoche.', 'Make an appointment with Chopard for Juliette Binoche.', [(94, 'Prenez rendez-vous avec Chopard pour Juliette Binoche immédiatement.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('gabriel', 'Calmons-nous avant de monter les marches.', 'Let us calm down before climbing the red carpet stairs.', [(102, 'Je monte déjà ces marches !')], ''),
 ]
 WALK = [
-    (0, None, "'Make an appointment with Chopard for Juliette Binoche.' Andrea gives urgent orders to prepare jewelry for the star."),
-    (1, None, "'My schedule is much too tight.' Herve protests that he is already overwhelmed with logistics."),
-    (2, None, "'Who exactly is this fashion house Chopard?' Gabriel wonders about the prestige of the luxury brand."),
-    (3, None, "'It is the official partner of the festival!' Andrea reminds Gabriel of the luxury brand's major role."),
-    (4, None, "'They manufacture the famous Palme d'Or.' Andrea points out that Chopard creates the highest award in cinema."),
-    (5, None, "'Andréa, we do not have the time.' Gabriel tries to set realistic boundaries before their trip."),
-    (6, None, "'Not right before our departure for Cannes!' Herve stresses how impossible last-minute requests are."),
-    (7, None, "'I am leaving tomorrow morning for the festival.' Andrea insists that time is running out quickly."),
-    (8, None, "'I have a thousand urgent things to do.' Andrea describes her overwhelming pre-festival workload."),
-    (9, None, "'And without Camille, you cannot cope.' Gabriel notes how hard it is to work without their best assistant."),
-    (10, None, "'Do not utter that name here anymore!' Andrea refuses to hear Camille mentioned after her departure."),
-    (11, None, "'We are doing all the work ourselves.' Herve complains about taking on extra duties without help."),
-    (12, None, "'Let us calm down before climbing the red carpet stairs.' Gabriel urges the team to stay focused. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Make an appointment with Chopard for Juliette Binoche.' Where English says 'make an appointment,' French says 'take rendezvous,' barking the order with formal 'you.'"),
+    (1, None, "'My schedule is much too tight.' Literally 'my use of the time is too loaded,' this fixed three-word chunk is what French speakers call a daily schedule."),
+    (2, None, "'Who exactly is this fashion house Chopard?' Opening casually with 'it is who,' Gabriel calls the jeweler a 'house'—what French uses for a heritage luxury brand."),
+    (3, None, "'It is the official partner of the festival!' Both 'partner' and 'official' are a clean cognate pair, though French flips them to 'partner official.'"),
+    (4, None, "'They manufacture the famous Palme d'Or.' Notice 'famous' sitting BEFORE the prize name here to mean 'well-known,' whereas putting it after can mean 'delicious' or 'great.'"),
+    (5, None, "'Andrea, we do not have the time.' Unlike English 'have time,' French keeps the definite article 'the' in 'have the time.'"),
+    (6, None, "'Not right before our departure for Cannes!' Combining 'not' with 'just before' builds a brisk protest fragment you can say in French without any action word at all."),
+    (7, None, "'I am leaving tomorrow morning for the festival.' French uses present 'I leave' with 'tomorrow morning'—no 'in the' needed between 'tomorrow' and 'morning.'"),
+    (8, None, "'I have a thousand urgent things to do.' Just as in English, 'a thousand' exaggerates a mountain of tasks, with 'to do' attached by the preposition 'to.'"),
+    (9, None, "'And without Camille, you cannot cope.' Literally 'you do not arrive there,' this idiomatic chunk is how French says 'manage' or 'cope with it.'"),
+    (10, None, "'Do not utter that name here anymore!' Wrapping 'pronounce' in 'not... anymore' creates a sharp ban, addressed to the whole room with plural 'you.'"),
+    (11, None, "'We are doing all the work ourselves.' Casual 'one' stands for 'we' in French, paired with a slangy everyday synonym meaning 'work' and 'ourselves' at the end."),
+    (12, None, "'Let us calm down before climbing the red carpet stairs.' Literally 'climb the steps,' those final three words are the iconic French expression for walking the Cannes red carpet!"),
 ]

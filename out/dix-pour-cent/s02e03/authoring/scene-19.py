@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'Stepping away from the lunch table, Mathias confronts Catherine about her sudden friendship with Annick. Their bitter divorce erupts into a furious argument over money, trust, and the family apartment. Listen to the scene in French first.'
 OPENER = "Let's examine how Catherine and Mathias bitterly clash over their divorce."
-TRANSITION = "Now let's listen to their explosive argument once more from start to finish."
+TRANSITION = "Now let's hear their explosive argument once more from start to finish."
 OUTRO = 'With all bridges burned and bitter secrets exposed, Catherine and Mathias leave only the lawyers to resolve their shattered marriage. See you next time!'
 CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('mathias', 'Alors réglons tout avec nos avocats.', "Then let's settle everything with our lawyers.", [(487, "Pourquoi ne m'avez-vous pas appelée")], ''),
 ]
 WALK = [
-    (0, None, "'Why did you want Annick's number?' Mathias demands angrily."),
-    (1, None, "'Is it forbidden for women to talk to each other?' Catherine deflects coolly."),
-    (2, None, "'You're doing this just to annoy me!' Mathias sees right through her game."),
-    (3, None, "'Poor Camille, caught between two fires.' Mathias sympathizes with Camille for being caught in the middle."),
-    (4, None, "'This situation is becoming completely toxic.' Mathias criticizes Catherine's maneuver."),
-    (5, None, "'You dare talk to me about what is toxic?' Catherine turns on him fiercely."),
-    (6, None, "'Selling our apartment behind my back?' She reveals his hidden scheme."),
-    (7, None, "'It is my personal apartment!' Mathias shouts defensively."),
-    (8, None, "'I financed the renovations five years ago.' Catherine counters with facts."),
-    (9, None, "'If it's a simple question of money...' Mathias attempts to reduce the dispute."),
-    (10, None, "'You are hiding your former mistress at the agency!' Catherine denounces his lies."),
-    (11, None, "'I simply wanted to protect our family.' Mathias insists on his good intentions."),
-    (12, None, "'Hippolyte told me you were collapsing.' Catherine mentions their son's worry."),
-    (13, None, "'I am doing very well, as you see.' Mathias refuses to show vulnerability."),
-    (14, None, "'We really can't talk to each other anymore.' Catherine recognizes the end of dialogue."),
-    (15, None, "'Then let's settle everything with our lawyers.' Mathias surrenders to legal warfare. Now let's listen to their explosive argument once more from start to finish."),
+    (0, None, "'Why did you want Annick's number?' Phone numbers and street numbers take a dedicated 'assigned-number' word in French—not the general counting word."),
+    (1, None, "'Is it forbidden for women to talk to each other?' Opening with 'it is forbidden that' prompts a reciprocal 'speak to one another' form in French."),
+    (2, None, "'You're doing this just to annoy me!' Built from the root meaning 'beast' or 'silly', the final action means 'bother' or 'pester' in everyday French."),
+    (3, None, "'Poor Camille, caught between two fires.' Taken word-for-word as 'caught between two fires', this vivid expression matches English 'caught in the crossfire'."),
+    (4, None, "'This situation is becoming completely toxic.' Combining the prefix 'bad-' with 'healthy' builds an expressive word that means 'unhealthy' or 'toxic' in French."),
+    (5, None, "'You dare talk to me about what is toxic?' After 'you dare', 'talk' follows directly with no 'to' bridge, while 'that which is' stands in for 'what is' in French."),
+    (6, None, "'Selling our apartment behind my back?' Literally 'in my back', French uses 'in' where English says 'behind my back', starting with 'to sell' for English 'selling'."),
+    (7, None, "'It is my personal apartment!' Putting 'personal' after 'apartment' gives Mathias extra emphasis on the final word, pairing two transparent cognates in French."),
+    (8, None, "'I financed the renovations five years ago.' Literally 'it there has five years', that three-word time marker sits ahead of the number to mean 'ago' in French."),
+    (9, None, "'If it's a simple question of money...' Ahead of 'question', 'simple' means 'mere' or 'nothing more than'—whereas after 'question' it would mean 'easy' in French."),
+    (10, None, "'You are hiding your former mistress at the agency!' Watch the position shift: before 'mistress', the term meaning 'ancient' means 'former', whereas afterward it would mean 'old'."),
+    (11, None, "'I simply wanted to protect our family.' Notice 'simply' follows 'wanted' instead of preceding it, paired with a close cognate of 'protect' in French."),
+    (12, None, "'Hippolyte told me you were collapsing.' Literally 'foundering yourself', this dramatic action pictures someone crumbling emotionally, linked by an obligatory 'that' in French."),
+    (13, None, "'I am doing very well, as you see.' Slipping 'it' before 'see'—literally 'as you it see'—makes the retort sound polished and pointed in French."),
+    (14, None, "'We really can't talk to each other anymore.' Pairing the negative starter with 'more' instead of 'not' means 'no longer' or 'not anymore' in French."),
+    (15, None, "'Then let's settle everything with our lawyers.' Look out for a culinary false friend: what resembles 'avocados' is actually the standard term that means 'lawyers' in French!"),
 ]

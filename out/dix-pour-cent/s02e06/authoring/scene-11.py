@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "On stage inside the grand festival auditorium in Cannes, Juliette Binoche rehearses her opening ceremony address. An audio technician tests a discreet wireless earpiece designed to prompt her speech lines seamlessly. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
+TRANSITION = "Now let's listen to the whole dialogue once more to lock in what you have learned."
 OUTRO = 'Juliette Binoche rehearses her Cannes opening speech under the guidance of a sound technician. Through a hidden wireless earpiece, she learns to receive prompting smoothly without breaking character. See you next time!'
 CLOSING = ('technicien', 'Bonne journée!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('technicien', 'Très bien, elle est opérationnelle.', 'Very good, it is operational.', [(246, 'Bien'), (259, 'Elle est opérationnelle.')], ''),
 ]
 WALK = [
-    (0, None, "'Good evening everyone, thank you for coming.' Juliette greets the imaginary audience on stage."),
-    (1, None, "'It is with immense pride that I welcome you here.' Juliette delivers an emotional opening line."),
-    (2, None, "'In the most beautiful place in the world: a movie theater.' Juliette praises the cinema hall."),
-    (3, None, "'I have your earpiece. Do you want to try it?' The technician prompts device."),
-    (4, None, "'How does it work?' Juliette asks about the technical operation."),
-    (5, None, "'I can show you if you like.' The technician offers a direct demonstration."),
-    (6, None, "'Do you mind if we speak informally?' The technician asks to drop formal address."),
-    (7, None, "'No, not at all.' Juliette warmly accepts the informal address."),
-    (8, None, "'Look straight ahead, as if I were not here.' The technician guides Juliette's stage posture."),
-    (9, None, "'I hear you perfectly. It works.' The technician checks the sound levels through his microphone."),
-    (10, None, "'Okay, I hear you too.' Juliette speaks back instinctively into the open microphone."),
-    (11, None, "'Do not answer. No one knows that you have an earpiece.' The technician reminds her that the earpiece must remain a secret."),
-    (12, None, "'It is just a voice in your head, like your own thoughts.' The technician coaches her mental approach."),
-    (13, None, "'Oh, yes! I understand now.' Juliette catches on to the technique."),
-    (14, None, "'Do you receive me? Take a step back.' The technician tests the wireless range."),
-    (15, None, "'Very good, it is operational.' The technician concludes the audio test successfully. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'Good evening everyone, thank you for coming.' Literally 'good evening to all,' followed by 'thank you of having come'—using 'are' as the past helper on 'come.'"),
+    (1, None, "'It is with immense pride that I welcome you here.' Framing 'with an immense pride' inside 'it is... that' in French lets Juliette spotlight her emotion right at the start."),
+    (2, None, "'In the most beautiful place in the world: a movie theater.' Before vowel-initial 'place,' 'beautiful' switches to its smooth linking form, and 'movie theater' is literally 'room of cinema.'"),
+    (3, None, "'I have your earpiece. Do you want to try it?' Built from 'ear' with a diminutive '-ette' ending, French calls an earpiece a 'little ear'!"),
+    (4, None, "'How does it work?' Three breezy words—literally 'how that functions?'—give you a reusable question for any gadget or app."),
+    (5, None, "'I can show you if you like.' Polite 'you' sits ahead of 'show' as the recipient, and 'if you want' works nicely for 'if you like.'"),
+    (6, None, "'Do you mind if we speak informally?' French actually has a dedicated action built from casual 'you' that means 'address each other informally'!"),
+    (7, None, "'No, not at all.' Literally 'not of the all,' those three quick words after 'no' are how you'll hear French speakers say 'not at all.'"),
+    (8, None, "'Look straight ahead, as if I were not here.' Literally 'look straight in-front-of you,' paired with 'as if' plus past 'was' for an imaginary scenario."),
+    (9, None, "'I hear you perfectly. It works.' Keeping 'you' right before 'hear' is standard in French, and the technician wraps up by repeating 'that functions.'"),
+    (10, None, "'Okay, I hear you too.' Slipping 'also' onto the end mirrors English 'too' word for word."),
+    (11, None, "'Do not answer. No one knows that you have an earpiece.' Even after 'no one' opens the sentence in the negative, French still keeps 'not' before 'knows.'"),
+    (12, None, "'It is just a voice in your head, like your own thoughts.' Placed BEFORE 'thoughts,' this word means 'own,' whereas placed AFTER a noun it means 'clean'!"),
+    (13, None, "'Oh, yes! I understand now.' Simple present 'I understand' paired with 'now' in French signals the exact moment an instruction clicks."),
+    (14, None, "'Do you receive me? Take a step back.' Radio check 'you me receive?' is followed by 'make a step in backward'—French 'makes' a step rather than 'taking' one."),
+    (15, None, "'Very good, it is operational.' Because 'earpiece' is grammatically female in French, 'it' here uses the 'she' word, matched by the ending on 'operational.'"),
 ]

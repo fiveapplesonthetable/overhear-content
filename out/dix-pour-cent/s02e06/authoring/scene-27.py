@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = "At the poolside of the Cannes party, Andréa spots Camille and invites her for a toast. Reaffirming their bond, Andréa asks Camille to follow her to New York to build a new career abroad. Let's listen to the scene in French first."
-OPENER = "Let's examine how Andréa rebuilds trust with Camille and offers her a thrilling new horizon in New York step by step."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "The unexpected reunion in Cannes opens an exhilarating international chapter for Andréa and Camille. Let's review the friendship and travel vocabulary from this scene. See you next time!"
+INTRO = "At the poolside of the Cannes party, Andrea spots Camille and invites her for a toast. Reaffirming their bond, Andrea asks Camille to follow her to New York to build a new career abroad. Let's listen to the scene in French first."
+OPENER = "Let's examine how Andrea rebuilds trust with Camille and offers her a thrilling new horizon in New York step by step."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
+OUTRO = "The unexpected reunion in Cannes opens an exhilarating international chapter for Andrea and Camille. Let's review the friendship and travel vocabulary from this scene. See you next time!"
 CLOSING = ('andrea', 'À bientôt!')
 STORY = [
     ('camille', "Salut Andréa, laisse-moi t'expliquer ma présence...", 'Hi Andréa, let me explain my presence...', [(765, 'Salut.'), (766, 'Laisse-moi expliquer...')], ''),
@@ -33,19 +33,19 @@ STORY = [
     ('andrea', 'Parfait, nous en reparlerons très vite ensemble.', 'Perfect, we will discuss it very soon together.', [(786, '-Très bien ! -On se reparlera.')], ''),
 ]
 WALK = [
-    (0, None, "'Hi Andréa, let me explain my presence...' Camille starts nervously, fearing Andrea might be displeased to see her."),
-    (1, None, "'There is absolutely no need.' Andrea cuts her off gently, dismissing any awkward tension."),
-    (2, None, "'It is hard to no longer work together!' Andrea acknowledges the emotional gap created by Camille's departure."),
-    (3, None, "'Let us toast to our reunion, cheers Camille!' Andrea raises her champagne glass to celebrate their friendship."),
-    (4, None, "'I missed you very much these past days.' Andrea openly admits her attachment to her former assistant."),
-    (5, None, "'Is that true? I missed you too.' Camille responds with spontaneous and sincere warmth."),
-    (6, None, "'And what are these funny shoes?' Andrea playfully points out Camille's slightly oversized party shoes."),
-    (7, None, "'These are my mother's shoes!' Camille explains the comical rescue arranged by Annick earlier."),
-    (8, None, "'Tell me, do you know the city of New York?' Andrea introduces a momentous life topic casually."),
-    (9, None, "'Not at all, I have never been there.' Camille answers with genuine curiosity and modesty."),
-    (10, None, "'Do you want to come to New York with me?' Andrea extends an extraordinary invitation to cross the Atlantic."),
-    (11, None, "'They are offering me a position at UBA.' Andrea discloses the confidential offer from the international agency."),
-    (12, None, "'I will definitely need an assistant over there.' Andrea makes clear that she trusts no one else by her side."),
-    (13, None, "'Yes, of course, that is completely crazy!' Camille reacts with joyous shock at the incredible prospect."),
-    (14, None, "'Perfect, we will discuss it very soon together.' Andrea seals the partnership with optimistic confidence. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Hi Andrea, let me explain my presence...' Casual 'hi' plus 'let-me to-you explain' puts recipient 'you' right ahead of 'explain' in French."),
+    (1, None, "'There is absolutely no need.' Literally 'it is not the trouble,' this reassuring French idiom waves away an apology—just like saying 'don't even worry about it!'"),
+    (2, None, "'It is hard to no longer work together!' Again both negative halves stay glued side-by-side IN FRONT of 'work' when negating an action in French."),
+    (3, None, "'Let us toast to our reunion, cheers Camille!' Built from the clinking sound of glasses, the first word means 'let's clink glasses,' capped by 'health!' for 'cheers!'"),
+    (4, None, "'I missed you very much these past days.' Famous backwards French twist: 'you have missed to me' actually means 'I missed YOU'—the person missed is the subject!"),
+    (5, None, "'Is that true? I missed you too.' Camille flips that exact same backwards pattern right back: 'you to-me have missed too' means 'I missed you too!'"),
+    (6, None, "'And what are these funny shoes?' Casual spoken opener 'it is what, these...' avoids formal inversion while keeping 'funny of' before 'shoes' in French."),
+    (7, None, "'These are my mother's shoes!' Plural presenter 'these are' pairs with 'the shoes of my mother'—again using 'of' rather than apostrophe-s."),
+    (8, None, "'Tell me, do you know the city of New York?' For knowing a place or person firsthand, French chooses its familiarity 'know' rather than its fact-knowing twin!"),
+    (9, None, "'Not at all, I have never been there.' Tiny 'there' before 'am never gone' stands in for New York—how French says 'I've never been there.'"),
+    (10, None, "'Do you want to come to New York with me?' Inverting 'want-you' gives Andrea's life-changing question an earnest, cinematic lift in French."),
+    (11, None, "'They are offering me a position at UBA.' Impersonal 'one proposes to-me' is how you'll hear French speakers say 'they're offering me' without naming who 'they' are."),
+    (12, None, "'I will definitely need an assistant over there.' Future-tense 'I will-have need of' pairs with 'assistant' carrying a pronounced feminine '-te' ending in French."),
+    (13, None, "'Yes, of course, that is completely crazy!' Closing with a beloved slang word in French that means 'nuts' or 'crazy' in the best possible way!"),
+    (14, None, "'Perfect, we will discuss it very soon together.' Putting 're-' onto 'speak' plus tiny 'of it' ahead of it packs 'talk about it again' into two sleek words in French!"),
 ]

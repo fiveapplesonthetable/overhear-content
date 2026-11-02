@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'arlette': 'Arlette', 'guy': 'Guy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
-INTRO = 'Outside the soundstage, veteran actor Guy Marchand catches up with his longtime agent Arlette Azémar. Accompanied by her dog Jean Gabin, Arlette offers warm encouragement before Guy returns to his shoot. Listen to the scene in French first.'
+INTRO = 'Outside the soundstage, veteran actor Guy Marchand catches up with his longtime agent Arlette Azemar. Accompanied by her dog Jean Gabin, Arlette offers warm encouragement before Guy returns to his shoot. Listen to the scene in French first.'
 OPENER = "Let's examine how Arlette and Guy share a touching moment of friendship."
-TRANSITION = "Now let's listen to the fond conversation once more at natural pace."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'Outside the soundstage, Arlette and Guy celebrate a lifetime of loyalty and artistic partnership. Listen to the affectionate conversation once more in French. See you next time!'
 CLOSING = ('arlette', 'Au revoir!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('arlette', 'Vas-y, Guy, montre-leur ton immense talent!', 'Go on, Guy, show them your immense talent!', [], ''),
 ]
 WALK = [
-    (0, None, "'Sorry for my agitation earlier.' Guy apologizes for his visible stress."),
-    (1, None, "'You do not have to apologize, Guy.' Arlette dismisses his concern gently."),
-    (2, None, "'Your dog Jean Gabin is really nice.' Guy compliments her companion."),
-    (3, None, "'He has a good nose, like his mistress.' Arlette makes a humorous comparison."),
-    (4, None, "'It is true, you always guess the problems.' Guy acknowledges her sharp intuition."),
-    (5, None, "'I have known my actors for a long time.' Arlette explains her deep experience."),
-    (6, None, "'Why does everyone call you Arlette Davidson?' Guy asks about her famous nickname."),
-    (7, None, "'Because I always ride a motorcycle!' Arlette proudly reveals the origin."),
-    (8, None, "'You are a free and rebellious woman.' Guy praises her independent spirit."),
-    (9, None, "'I always refused to make concessions.' Arlette speaks of her lifelong principles."),
-    (10, None, "'You often saved me on movie shoots.' Guy expresses sincere gratitude."),
-    (11, None, "'It is the job of a good agent.' Arlette defines her professional duty."),
-    (12, None, "'Thanks for coming today, Arlette Davidson.' Guy repeats her affectionate nickname."),
-    (13, None, "'I will always be there for my friends.' Arlette reaffirms her enduring loyalty."),
-    (14, None, "'Now, I can return to filming peacefully.' Guy feels calm and focused again."),
-    (15, None, "'Go on, Guy, show them your immense talent!' Arlette sends him off with strong encouragement. Now let's listen to the fond conversation once more at natural pace."),
+    (0, None, "'Sorry for my agitation earlier.' Literally 'all at the hour', that closing expression can mean either 'a little earlier' or 'in a little while' depending on context!"),
+    (1, None, "'You do not have to apologize, Guy.' Saying 'you have not to excuse yourself' is a handy sentence whenever someone apologizes unnecessarily."),
+    (2, None, "'Your dog Jean Gabin is really nice.' That closing cousin of English 'gentle' means 'sweet' or 'kind', and its final 'l' stays completely silent in French."),
+    (3, None, "'He has a good nose, like his mistress.' English borrowed 'flair' for stylish instinct straight from this French word, which originally meant a hunting dog's keen nose!"),
+    (4, None, "'It is true, you always guess the problems.' Notice 'always' comes after 'guess' in French, and 'guess' shares its root with English 'divine' — sensing what is hidden."),
+    (5, None, "'I have known my actors for a long time.' Because she still knows them today, French uses the present 'I know' paired with 'since longtime', unlike English 'have known'."),
+    (6, None, "'Why does everyone call you Arlette Davidson?' After 'why', casual French needs no helper like English 'does' — it keeps 'all the world you-calls' in straight order."),
+    (7, None, "'Because I always ride a motorcycle!' French uses 'roll' for cruising on any wheeled vehicle, paired with the everyday clipped word meaning 'motorcycle'."),
+    (8, None, "'You are a free and rebellious woman.' Both descriptions follow 'woman' in French, pairing a cousin of 'liberty' and a cognate of 'rebel'."),
+    (9, None, "'I always refused to make concessions.' Notice how 'always' tucks between 'have' and 'refused', and French says 'make some concessions' rather than bare 'concessions'."),
+    (10, None, "'You often saved me on movie shoots.' Word for word, Guy says 'you me-have often saved', sandwiching 'often' right between 'have' and 'saved'."),
+    (11, None, "'It is the job of a good agent.' One everyday word in French can mean both uncountable 'work' and 'the job' or 'duty' of a profession."),
+    (12, None, "'Thanks for coming today, Arlette Davidson.' That apostrophe inside French 'today' comes from 'on the day of today', followed warmly by Arlette's biker nickname."),
+    (13, None, "'I will always be there for my friends.' Because French packs 'will be' into one word rather than two, 'always' sits right after 'will-be' instead of before 'be'."),
+    (14, None, "'Now, I can return to filming peacefully.' You'll hear a playful echo right in the middle: 'return' and 'shoot a film' share the exact same 'turn' root side by side!"),
+    (15, None, "'Go on, Guy, show them your immense talent!' Literally 'go-there!', that opening two-word cheer is how French speakers say 'go on!' or 'go for it!', followed by 'show-them'."),
 ]

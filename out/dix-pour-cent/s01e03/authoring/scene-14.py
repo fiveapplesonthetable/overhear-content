@@ -14,7 +14,7 @@ INTRO = ('Tax inspector Colette Brancillon arrives at the agency. Andrea has arr
  'her, but the inspector looks familiar and Andrea suddenly thinks she can manage. You will hear Andrea and '
  "Colette, with Gabriel relaying the other partners' brief comments in this shortened French retelling.")
 OPENER = "Let's walk through it together. After checking that the inspector doesn't mind Arlette's dog, Gabriel brings her to Andréa."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'Colette is installed in her office, and Andréa has just thrown away her only safety net at the tax office. See you next time!'
 CLOSING = ('colette', 'Bonne soirée!')
 STORY = [('gabriel',
@@ -86,7 +86,7 @@ WALK = [
     (6, None, "'Maybe it was in another life.' The verb at the front is the past form for how things were, and the hyphenated word after it means 'maybe'."),
     (7, None, "'Do you have everything you need?' The French phrase uses an impersonal verb for what is necessary, with a short pronoun identifying the person who needs it. A polite, standard phrase when showing a visitor to a room."),
     (8, None, "'Yes, thank you.' Short and polite. Colette doesn't waste a syllable."),
-    (9, 'Mon bureau est juste là.', "'My office is right there.' The word for 'my' is masculine here to match 'office'."),
+    (9, 'Mon bureau est juste là.', "'My office is right there.' The common word for 'my' is masculine here to match 'office'."),
     (9, "À tout à l'heure.", "'See you later.' You use this when you will see the person again later the same day."),
     (10, None, "'Okay, thank you.' Now Colette shuts the door, and Andréa immediately phones Clément to cancel her expensive Cannes bribe."),
     (11, None, "'Hi, Clément, it's Andréa.' On the phone, French speakers introduce themselves with 'it is' plus their name."),
@@ -94,5 +94,5 @@ WALK = [
     (12, 'On oublie notre accord.', "'Forget our deal.' Literally 'we forget our agreement', using the everyday word for 'we'."),
     (13, None, "'Is she going to stay here for weeks?' The verb 'to go' plus 'stay' builds the near future, and the preposition before 'weeks' means 'for' or 'during'."),
     (14, None, "'And could we go bankrupt?' Literally 'make bankruptcy'. Gabriel is terrified for the agency."),
-    (15, None, "'Yes. But that's life.' Literally 'it is the life'. Andréa shrugs it off, not yet knowing where she really met Colette. Now listen to the whole scene again from start to finish."),
+    (15, None, "'Yes. But that's life.' Literally 'it is the life'. Andréa shrugs it off, not yet knowing where she really met Colette."),
 ]

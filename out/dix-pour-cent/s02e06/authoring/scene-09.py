@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = "At a luxury Cannes hotel suite, Andréa arrives with frustrating news for client Juliette Binoche. Another major international star has chosen the exact same tuxedo for the opening red carpet. Let's listen to the scene in French first."
+INTRO = "At a luxury Cannes hotel suite, Andrea arrives with frustrating news for client Juliette Binoche. Another major international star has chosen the exact same tuxedo for the opening red carpet. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'Andréa navigates a classic Cannes red-carpet crisis: when another A-list star wears a tuxedo, Juliette Binoche graciously pivots to her backup dress to ensure an unforgettable festival opening. See you next time!'
+TRANSITION = "Now let's listen to the whole dialogue once more to lock in what you have learned."
+OUTRO = 'Andrea navigates a classic Cannes red-carpet crisis: when another A-list star wears a tuxedo, Juliette Binoche graciously pivots to her backup dress to ensure an unforgettable festival opening. See you next time!'
 CLOSING = ('andrea', 'À demain!')
 STORY = [
     ('andrea', 'Bienvenue à Cannes, Juliette.', 'Welcome to Cannes, Juliette.', [(171, 'Bienvenue à Cannes.')], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('juliette', 'Non, je pense que ça ira très bien.', 'No, I think that will be very fine.', [(197, 'Non, ça ira très bien.'), (198, 'Je pense que ça ira très bien.')], ''),
 ]
 WALK = [
-    (0, None, "'Welcome to Cannes, Juliette.' Andrea arrives at the hotel with an affectionate greeting."),
-    (1, None, "'Hello Andréa, how are you?' Juliette welcomes her agent warmly."),
-    (2, None, "'We have a problem with the tuxedo.' Andrea delivers the diplomatic wardrobe dilemma."),
-    (3, None, "'The Chinese actress Gong Li is wearing one for the opening ceremony.' Andrea explains the conflict."),
-    (4, None, "'An Armani too?' Juliette checks the specific fashion house."),
-    (5, None, "'No, another designer. But it is still a tuxedo.' Andrea insists on the visual clash."),
-    (6, None, "'Two women cannot wear the same dress!' Andrea states the red-carpet protocol."),
-    (7, None, "'But all the men can dress the same!' Juliette points out the unfair double standard."),
-    (8, None, "'I felt very good in that tuxedo.' Juliette expresses her disappointment."),
-    (9, None, "'I will call her agent and we will discuss it.' Andrea offers to negotiate a resolution."),
-    (10, None, "'That will be useless.' Juliette realistically assesses the balance of power."),
-    (11, None, "'Gong Li is the icon of L'Oreal, the main partner of the festival.' Andrea admits the corporate clout."),
-    (12, None, "'But we have good news. Your second choice has been repaired.' Andrea presents an alternative."),
-    (13, None, "'And I need high-heeled shoes.' Juliette highlights the complexity."),
-    (14, None, "'We could arrange a new fitting with three outfits.' Andrea proposes a quick styling session."),
-    (15, None, "'No, I think that will be very fine.' Juliette decides to make the best of the backup gown. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'Welcome to Cannes, Juliette.' Built from 'well' and 'come,' French pairs 'welcome' with 'to' just as English does when greeting a traveler."),
+    (1, None, "'Hello Andrea, how are you?' Literally 'how go-you,' Juliette flips casual 'you' after 'go' to ask how her agent is doing."),
+    (2, None, "'We have a problem with the tuxedo.' Formal 'we' sets a diplomatic tone in French as Andrea breaks news about 'the smoking'—meaning a tuxedo."),
+    (3, None, "'The Chinese actress Gong Li is wearing one for the opening ceremony.' Slipping a tiny stand-in meaning 'of them' before 'wears' lets French say 'is wearing one' smoothly."),
+    (4, None, "'An Armani too?' Three crisp words with rising intonation make a complete follow-up question in French, ending with 'also' for 'too.'"),
+    (5, None, "'No, another designer. But it is still a tuxedo.' Literally 'creator' for fashion designer, followed by a two-word concession chunk meaning 'even so' or 'still.'"),
+    (6, None, "'Two women cannot wear the same dress!' Placed before 'dress,' this pointer means 'the same,' whereas placing it right after would mean 'the very dress itself.'"),
+    (7, None, "'But all the men can dress the same!' French turns 'get dressed' into 'dress themselves,' capped with a single adverb meaning 'alike' or 'the same way.'"),
+    (8, None, "'I felt very good in that tuxedo.' Ongoing past 'felt myself' in French looks back wistfully at how comfortable Juliette was before the bad news arrived."),
+    (9, None, "'I will call her agent and we will discuss it.' Because French ties 'possessive' words to the item owned rather than the owner, 'her agent' uses the masculine form matching 'agent'!"),
+    (10, None, "'That will be useless.' Literally 'that will serve to nothing,' this idiomatic future sentence is what you'll hear whenever an effort is pointless."),
+    (11, None, "'Gong Li is the icon of L'Oreal, the main partner of the festival.' Notice 'partner main' reversing the English order, with 'icon' sounding almost identical as a cognate."),
+    (12, None, "'But we have good news. Your second choice has been repaired.' Unlike uncountable English 'good news,' French treats a single piece of tidings as countable—literally 'a good news'!"),
+    (13, None, "'And I need high-heeled shoes.' Literally 'I have need of shoes with heels high,' joining shoe style with 'to/with' just like 'strawberry ice cream' does in French."),
+    (14, None, "'We could arrange a new fitting with three outfits.' Before vowel-initial 'fitting' in French, 'new' switches to its smooth vowel-linking spelling."),
+    (15, None, "'No, I think that will be very fine.' Literally 'that will go very well,' future-tense 'go' is a handy chunk for reassuring someone that everything will work out."),
 ]

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = 'On the movie set, veteran actor Guy Marchand arrives and confronts his agent Gabriel and Arlette. Suspecting that everyone thinks he is past his prime after a memory lapse, Guy passionately insists that he will finish the shoot. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'Despite his recent memory lapse, Guy Marchand makes it clear that he will not give up his role in the film. See you next time!'
 CLOSING = ('guy', 'Au revoir!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('guy', "À côté de Pialat, c'est une partie de plaisir!", 'Compared to Pialat, this is a walk in the park!', [(404, "J'ai survécu à une mise en scène de Pialat"), (405, "c'est une partie de plaisir")], ''),
 ]
 WALK = [
-    (0, None, "'Gabriel, hello!' Guy greets his agent as he walks in."),
-    (1, None, "'Well, I am going to my office.' Arlette tactfully withdraws to give them privacy."),
-    (2, None, "'You were talking about me, right?' Guy suspects they were discussing his health."),
-    (3, None, "'No, we were talking about me!' Gabriel deflects Guy's suspicion with humor."),
-    (4, None, "'I was saying that I am taking up the ukulele.' Gabriel fabricates a silly hobby to ease the mood."),
-    (5, None, "'Everyone loves you here, Guy.' Arlette warmly reassures the veteran actor before leaving."),
-    (6, None, "'Everyone says that I am finished.' Guy voices his deep fear of being sidelined."),
-    (7, None, "'I know how it goes!' He claims to see through their polite reassurances."),
-    (8, None, "'No, you are imagining things.' Gabriel tries to calm Guy's anxieties."),
-    (9, None, "'I was not born yesterday.' Guy uses a classic French idiom to assert his savvy."),
-    (10, None, "'One thing is clear: I am going to make this film!' Guy asserts his determination."),
-    (11, None, "'I can do it and I will do it.' Guy forcefully repeats his commitment."),
-    (12, None, "'I understand, but what if it happens again?' Gabriel gently raises the risk of another memory lapse."),
-    (13, None, "'Compared to Pialat, this is a walk in the park!' Guy laughs off the pressure by invoking a notoriously tough director. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Gabriel, hello!' Calling his agent's name first grabs everyone's attention, followed by the daytime greeting built from 'good' plus 'day'."),
+    (1, None, "'Well, I am going to my office.' Starting with 'good' works like English 'well then' when excusing yourself, and the closing word can mean both 'desk' and 'office' in French."),
+    (2, None, "'You were talking about me, right?' Adding 'no?' onto the end of any statement is an effortless French shortcut when you'd say 'weren't you?' or 'right?'."),
+    (3, None, "'No, we were talking about me!' Casual 'one' stands in for 'we' in French, and after 'of', standalone 'me' sits at the end just like in English."),
+    (4, None, "'I was saying that I am taking up the ukulele.' Gabriel reuses the 'put myself to' expression for starting a new hobby — swap in any sport or instrument after 'to the'."),
+    (5, None, "'Everyone loves you here, Guy.' Notice how polite 'you' sits ahead of 'loves' in French, right after 'all the world' meaning 'everyone'."),
+    (6, None, "'Everyone says that I am finished.' Saying 'I am finished' in French always means 'I'm washed up' — unlike English, where 'I'm finished' can also mean finishing dinner!"),
+    (7, None, "'I know how it goes!' Literally 'I know how that passes itself', this handy sentence means 'I know how these things play out'."),
+    (8, None, "'No, you are imagining things.' Where English leaves 'things' bare, French requires 'some things' — even for vague worries in your head."),
+    (9, None, "'I was not born yesterday.' Where English says 'born yesterday', this classic French idiom says 'born from the last rain' — like a mushroom that just sprouted after a shower."),
+    (10, None, "'One thing is clear: I am going to make this film!' One word in French covers both 'a' and the number 'one', opening Guy's vow to 'make this film'."),
+    (11, None, "'I can do it and I will do it.' Compare where 'it' lands in French across the two halves: first tucked right before 'to do', then right before single-word 'will-do'."),
+    (12, None, "'I understand, but what if it happens again?' Where English asks 'what if', French simply asks 'but if' without 'what', choosing 're-begin' to mean 'happen again'."),
+    (13, None, "'Compared to Pialat, this is a walk in the park!' Literally 'next to' that famously grueling director, this shoot is 'a game of pleasure' — the French idiom meaning a breeze."),
 ]

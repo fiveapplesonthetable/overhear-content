@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
-INTRO = "In the ASK restroom, Camille weeps after the harsh accusations from Hervé. Andréa comes in to comfort her, explaining that she earned her opportunity and that destiny rarely knocks twice. Let's listen to the scene in French first."
+INTRO = "In the ASK restroom, Camille weeps after the harsh accusations from Hervé. Andrea comes in to comfort her, explaining that she earned her opportunity and that destiny rarely knocks twice. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'In an intimate conversation in the restroom, Andréa offers heartfelt support to Camille. Reassuring her that opportunity rarely knocks twice, Andréa encourages Camille to embrace her new role. See you next time!'
+TRANSITION = "Now let's listen to the whole dialogue again."
+OUTRO = 'In an intimate conversation in the restroom, Andrea offers heartfelt support to Camille. Reassuring her that opportunity rarely knocks twice, Andrea encourages Camille to embrace her new role. See you next time!'
 CLOSING = ('andrea', 'Bonne journée!')
 STORY = [
     ('andrea', 'Ma Camille. Ne pleure pas.', 'My Camille. Do not cry.', [(341, 'Ma Camille.')], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('camille', 'Merci, Andréa. Ça me fait du bien.', 'Thank you, Andréa. That makes me feel good.', [(341, 'Ma Camille.')], ''),
 ]
 WALK = [
-    (0, None, "'My Camille. Do not cry.' Andrea comforts the weeping assistant warmly."),
-    (1, None, "'Everyone hates me now.' Camille expresses her overwhelming feeling of isolation."),
-    (2, None, "'I believe you. I know you did not want it.' Andrea reassures Camille of her unconditional trust."),
-    (3, None, "'Hervé thinks that my father arranged everything.' Camille explains the hurtful accusation."),
-    (4, None, "'It is destiny knocking at your door.' Andrea frames the sudden opportunity poetically."),
-    (5, None, "'And girls like us, we have no right to refuse.' Andrea identifies with Camille's struggle."),
-    (6, None, "'Because it will not come back knocking. Do you understand?' Andrea stresses the urgency of seizing one's chance."),
-    (7, None, "'Yes, I understand very well, Andréa.' Camille absorbs her mentor's advice."),
-    (8, None, "'You know, your story with Christophe Lambert...' Andrea recalls Camille's earlier romantic cover story."),
-    (9, None, "'I never believed it.' Andrea confesses her lasting skepticism."),
-    (10, None, "'Intellectually, yes, but not deep down.' Andrea contrasts head and heart."),
-    (11, None, "'I always knew there was something else.' Andrea explains her instinctive intuition."),
-    (12, None, "'Something deeper, that would bring us closer one day.' Andrea speaks of an enduring bond."),
-    (13, None, "'And you are not angry with me?' Camille seeks final reassurance."),
-    (14, None, "'No, not at all. We are like a family.' Andrea reaffirms their sisterly connection."),
-    (15, None, "'Thank you, Andréa. That makes me feel good.' Camille finds comfort in her friendship. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'My Camille. Do not cry.' Placing 'my' before a first name is a tender sign of affection in French, followed by 'not ... not' wrapped around 'cry'."),
+    (1, None, "'Everyone hates me now.' Where English 'detest' sounds intense, its French cognate is simply the normal everyday choice meaning 'hates'."),
+    (2, None, "'I believe you. I know you did not want it.' Unlike English, which can drop 'that' after 'I know', French always keeps 'that' to bridge the two halves."),
+    (3, None, "'Hervé thinks that my father arranged everything.' Notice where 'everything' sits in French: it wedges right between 'has' and 'arranged' rather than at the end."),
+    (4, None, "'It is destiny knocking at your door.' In French, 'knocking on a door' literally says 'striking at your door', framed inside 'it is the destiny who strikes'."),
+    (5, None, "'And girls like us, we have no right to refuse.' Saying 'have not the right of refusing' is a handy expression in French for both big moral duties and everyday rules."),
+    (6, None, "'Because it will not come back knocking. Do you understand?' French builds 'come back' in a single word from 're-' plus 'come', attaching 'to knock' right after."),
+    (7, None, "'Yes, I understand very well, Andrea.' Built from 'take' just like its cognate 'comprehend', 'I understand' pairs with 'very well' to show she is taking the advice to heart."),
+    (8, None, "'You know, your story with Christophe Lambert...' Because 'story' starts with a silent 'h' in French, 'your' swaps in its 'n'-ending partner so the words glide together."),
+    (9, None, "'I never believed it.' Because believing a story is 'believing to it' in French, 'it' becomes the single-letter word meaning 'there' or 'in it' before 'have'."),
+    (10, None, "'Intellectually, yes, but not deep down.' Andrea uses counter-'yes' to push back against her own 'never', then says 'at the bottom of me' — a vivid idiom meaning 'deep down'."),
+    (11, None, "'I always knew there was something else.' Literally 'I have always known that it there had other thing', packing 'known' into a tiny two-letter word after 'always'."),
+    (12, None, "'Something deeper, that would bring us closer one day.' After 'something', French always inserts 'of' before a description — literally 'something of more deep' — and 'bring closer' comes from 'near'."),
+    (13, None, "'And you are not angry with me?' Instead of English 'angry with me', French says 'in anger against me', built around a cousin of 'choler'."),
+    (14, None, "'No, not at all. We are like a family.' Choosing the fuller 'we are' rather than casual 'one is' in French gives Andrea's statement extra solemnity and warmth."),
+    (15, None, "'Thank you, Andrea. That makes me feel good.' Word for word 'that makes me some good', this warm expression is what you'd say whenever a kind chat lifts a weight off your chest."),
 ]

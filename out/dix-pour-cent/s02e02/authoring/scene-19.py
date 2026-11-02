@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = 'Back at the ASK offices, Sofia and Gabriel have a candid, mature discussion about their future. Realizing that mixing love and professional representation causes unnecessary tension, Sofia looks for a new agent within ASK. Listen to their conversation in French first.'
 OPENER = "Let's examine how Sofia and Gabriel navigate this professional transition line by line."
 TRANSITION = "Now let's listen to the entire conversation once more from start to finish."
-OUTRO = "Sofia has chosen Mathias as her new agent, creating a clear professional boundary while keeping Gabriel's love. Remember the key expression for having someone in mind: avoir quelqu'un en tête. See you next time!"
+OUTRO = "Sofia has chosen Mathias as her new agent, creating a clear professional boundary while keeping Gabriel's love. Remember the key expression for having someone in mind: avoir quelqu'un en tete. See you next time!"
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('sofia', 'Je crois que vous avez raison.', 'I think you are right.', [(677, 'Je crois que vous avez raison')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('sofia', "Oui, je crois. À tout à l'heure!", 'Yes, I think so. See you shortly!', [(691, 'Oui, je crois'), (692, "À tout à l'heure")], ''),
 ]
 WALK = [
-    (0, None, "'I think you are right.' Sofia acknowledges the wisdom of separating romance from management."),
-    (1, None, "'Mixing work and personal life is difficult.' She names the central conflict."),
-    (2, None, "'So are you dropping me or finding a new agent?' Gabriel asks for clarity."),
-    (3, None, "'If I change agents, can you still advise me?' Sofia seeks reassurance that Gabriel will remain close."),
-    (4, None, "'Or help me discreetly?' She wants his behind-the-scenes guidance."),
-    (5, None, "'Of course. Do you have someone in mind? Andréa?' Gabriel suggests their dynamic colleague."),
-    (6, None, "'I don't know, she's a bit scary.' Sofia hesitates given Andréa's fierce intensity."),
-    (7, None, "'Besides she is your friend, it's delicate.' She points out the awkward overlapping friendships."),
-    (8, None, "'Arlette might not be the right choice for a young actress.' Gabriel considers generational differences."),
-    (9, None, "'Even if we like her!' Sofia adds warmly to avoid sounding dismissive."),
-    (10, None, "'I was thinking of Mathias. Because he's a good agent.' Sofia reveals her top candidate."),
-    (11, None, "'With him, I have no special privilege.' Here, Mathias's strict professionalism protects her reputation."),
-    (12, None, "'I'm sure you are right. It's a good choice.' Gabriel gracefully accepts her decision."),
-    (13, None, "'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism. Now let's listen to the entire conversation once more from start to finish."),
+    (0, None, "'I think you are right.' Sofia acknowledges the wisdom of separating romance from management. This translates closer to 'you have reason'. The French find this natural."),
+    (1, None, "'Mixing work and personal life is difficult.' Sofia names the central conflict. Here, 'personal life' is expressed literally as 'sentimental life'. In French, this sounds very fluent."),
+    (2, None, "'So are you dropping me or finding a new agent?' Gabriel asks for clarity. This idiom literally means 'you drop me' or 'let go of me'. The French use this structure often."),
+    (3, None, "'If I change agents, can you still advise me?' Sofia seeks reassurance. In French, you place a tiny joining word between 'change' and 'agents'. In French, this phrasing is common."),
+    (4, None, "'Or help me discreetly?' Sofia wants his behind-the-scenes guidance. You'll hear this when someone wants something done quietly. You will find this useful in French."),
+    (5, None, "'Of course. Do you have someone in mind? Andréa?' Gabriel suggests their dynamic colleague. Literally 'someone in head', you can say this to ask for a suggestion. This sounds extremely natural in French."),
+    (6, None, "'I don't know, she's a bit scary.' Sofia hesitates given the fierce intensity. This expression means 'she makes fear'. In French, this is perfectly fine."),
+    (7, None, "'Besides she is your friend, it's delicate.' Sofia points out the awkwardness. It is built from 'in plus', meaning additionally. A standard way to speak in French."),
+    (8, None, "'Arlette might not be the right choice for a young actress.' Gabriel considers generational differences. In French, 'perhaps' translates literally as 'can be'. In French, you will hear this."),
+    (9, None, "'Even if we like her!' Sofia adds warmly to avoid sounding dismissive. This handy chunk translates word-for-word to 'same if'. The French say this often."),
+    (10, None, "'I was thinking of Mathias. Because he's a good agent.' Sofia reveals her top candidate. You'd use this to state who you have been considering. In French, this is quite common."),
+    (11, None, "'With him, I have no special privilege.' Sofia notes that strict professionalism protects her reputation. This means she will not receive preferential treatment. This is how you say it in French."),
+    (12, None, "'I'm sure you are right. It's a good choice.' Gabriel gracefully accepts her decision. Again, the phrase literally translates as 'you have reason'. A handy phrase in French."),
+    (13, None, "'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism. This handy phrase means 'see you later today'. A useful expression in French."),
 ]

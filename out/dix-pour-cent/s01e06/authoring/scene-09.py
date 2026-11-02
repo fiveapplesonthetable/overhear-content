@@ -14,7 +14,7 @@ INTRO = ('At the theatre rehearsal, Christophe Bel keeps asking François Berlé
  "argument escalates, and the director knocks François into the water. His apology will not prevent the actor's "
  'furious response. Listen first in French.')
 OPENER = "Let's break down this dramatic escalation line by line."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Rehearsals have broken down, and the argument has ended in a punch. Andréa now faces the job of rescuing the '
  'production. See you next time.')
 CLOSING = ('christophe_bel', 'Au revoir!')
@@ -74,51 +74,17 @@ STORY = [('christophe_bel',
   'I am sorry. I did not do it on purpose.',
   [(258, 'Je suis désolé.'), (259, "Je ne l'ai pas fait exprès.")],
   '')]
-WALK = [(0,
-  None,
-  "'From the beginning. And closer to the water.' The first words send the actors back to the beginning. The "
-  "comparison 'closer' is followed by 'to the water', identifying the new position."),
- (1,
-  None,
-  "'Closer? How? My feet are already wet!' He repeats 'closer' as a question. French says 'I have the feet wet' here, "
-  "using 'the' for body parts where English uses 'my'."),
- (2,
-  None,
-  "'François, manage on your own! You are an actor, do something!' The hyphenated command tells François to manage for "
-  "himself. The second command asks him to do 'some thing': something, rather than a named action."),
- (3,
-  None,
-  "'What can I tell you? I love you both.' This is now a line from the play. The short object before 'love' means "
-  "'you'; the ending means both women he is addressing."),
- (4,
-  None,
-  "'No, that will not do! That does not work!' Two negative statements reject the performance. The first literally "
-  "says 'it does not go'; in context it means 'that will not do'."),
- (5,
-  None,
-  "'If you are not in the pool, it simply does not work.' The opening 'if' gives a condition. The negative after it "
-  'excludes him from the pool; the second half says that the staging then does not work.'),
- (6,
-  None,
-  "'You are stiff, you are like an old redneck!' The description begins 'stiff'. The comparison after 'like' turns "
-  'insulting: the final slang word describes an uncultured, narrow-minded man.'),
- (7,
-  None,
-  "'This is theatre, not the Olympic Games!' The opening calls it theatre. The short negative before the sporting "
-  'event contrasts acting with competing in sport.'),
- (8,
-  None,
-  "'You are explaining to me what theatre is? I am listening!' The shortened object before 'explain' means 'to me'. "
-  "The final one-word reply includes 'I' attached to 'listen' and signals a sarcastic challenge."),
- (9,
-  None,
-  "'I have been carrying this project for months! Nobody makes an effort!' The time words after 'this project' mean "
-  "'for months'. The second sentence uses the word for 'nobody' to deny that anyone makes an effort."),
- (10,
-  None,
-  "'Help! François?' The opening is a fixed cry for help. It literally mentions rescue, but works as the ordinary "
-  "English 'help!'."),
- (11,
-  None,
-  "'I am sorry. I did not do it on purpose.' The director has knocked François into the pool and now apologizes. The "
-  "last word means 'on purpose', which he denies with the two negative words.")]
+WALK = [
+    (0, None, "'From the beginning. And closer to the water.' The first words send the actors back to the beginning. The comparison 'closer' is followed by 'to the water', identifying the new position."),
+    (1, None, "'Closer? How? My feet are already wet!' He repeats 'closer' as a question. French says 'I have the feet wet' here, using 'the' for body parts where English uses 'my'."),
+    (2, None, "'François, manage on your own! You are an actor, do something!' The hyphenated command tells François to manage for himself. The second command asks him to do 'some thing': something, rather than a named action."),
+    (3, None, "'What can I tell you? I love you both.' This is now a line from the play. The short object before 'love' means 'you'; the ending means both women he is addressing."),
+    (4, None, "'No, that will not do! That does not work!' Two negative statements reject the performance. The first literally says 'it does not go'; in context it means 'that will not do'."),
+    (5, None, "'If you are not in the pool, it simply does not work.' The opening 'if' gives a condition. The negative after it excludes him from the pool; the second half says that the staging then does not work."),
+    (6, None, "'You are stiff, you are like an old redneck!' The description begins 'stiff'. The comparison after 'like' turns insulting: the final slang word describes an uncultured, narrow-minded man."),
+    (7, None, "'This is theatre, not the Olympic Games!' The opening calls it theatre. The short negative before the sporting event contrasts acting with competing in sport."),
+    (8, None, "'You are explaining to me what theatre is? I am listening!' The shortened object before 'explain' means 'to me'. The final one-word reply includes 'I' attached to 'listen' and signals a sarcastic challenge."),
+    (9, None, "'I have been carrying this project for months! Nobody makes an effort!' The time words after 'this project' mean 'for months'. The second sentence uses French's word for 'nobody' to deny that anyone makes an effort."),
+    (10, None, "'Help! François?' The opening is a fixed cry for help. It literally mentions rescue, but works as the ordinary English 'help!'."),
+    (11, None, "'I am sorry. I did not do it on purpose.' The director has knocked François into the pool and now apologizes. The last word means 'on purpose', which he denies with the two negative words."),
+]

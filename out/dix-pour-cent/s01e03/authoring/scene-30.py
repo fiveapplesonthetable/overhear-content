@@ -14,7 +14,7 @@ INTRO = ('Sofia, the agency receptionist, has invited her colleagues to see her 
  'promise and watches her in a poetic stage play called Absence. After the performance, he walks out with '
  'her and tells her what he thought. Listen to their conversation in French.')
 OPENER = "Let's walk back through it. Sofia is still buzzing from the show, and she can hardly believe her eyes."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Sofia now has an agent who believes in her acting. But the episode ends with a threat to the agency: '
  'Francois, from rival StarMedia, offers Mathias a leading role there if he brings his clients with him. '
  "Mathias knows that leaving could finish ASK. Sofia's hopeful evening and that difficult offer set up what "
@@ -69,62 +69,23 @@ STORY = [('sofia', "Tu es venu! C'est incroyable!", "You came! I can't believe i
   [(790, "Je vais t'aider à trouver du travail")],
   ''),
  ('sofia', "D'accord. Très bien!", 'Okay. Great!', [(791, "D'accord"), (792, 'Très bien')], '')]
-WALK = [(0,
-  None,
-  "'You came! I can't believe it!' Literally 'it's unbelievable'. The first action is a past form built with "
-  "'to be'. Remember that helper with this particular action, 'come'; movement words do not all follow the "
-  'same pattern.'),
- (1,
-  None,
-  "'I didn't see you until the end.' Literally 'before the end'. The little word for 'you' sits before the "
-  "helper word, inside the 'not'."),
- (2,
-  'Tu as aimé les autres?',
-  "'Did you like the others?' The past tense with 'to have' and the past form of 'to like'."),
- (2,
-  'Ils sont bien, non?',
-  "'They're good, aren't they?' Adding the word for 'no' at the end is the easy French way to say 'aren't "
-  "they?' or 'right?'."),
- (3, None, "'Yes, they're good.' Gabriel is polite about the rest of the cast."),
- (4,
-  None,
-  "'But it's mostly you. You were wonderful.' The past form for 'you were' describes how she was on stage, a "
-  'lasting state.'),
- (5,
-  None,
-  "'Thank you, Gabriel. Thank you for coming.' French uses a completed form, literally 'to be come', after "
-  "'thank you for'. The little word before it means 'for' in this expression and loses its vowel."),
- (6,
-  None,
-  "'I'm the one who should thank you.' Literally 'it's me who must thank you'. The same trick to put weight "
-  'on one person.'),
- (7,
-  None,
-  "'You're a real actress.' The words for 'real' and 'actress' both have feminine endings. This means a lot "
-  'to Sofia, who spends her days answering phones.'),
- (8, None, "'Thank you so much.' Literally 'thank you infinitely'. A very warm thank-you."),
- (9,
-  None,
-  "'Bye, Gabriel. See you tomorrow.' Tomorrow she'll be back behind the reception desk. She starts to walk "
-  'away.'),
- (10,
-  None,
-  "'Sofia? Wait.' Gabriel gives a casual command, because they use the casual 'you' with each other."),
- (11,
-  None,
-  "'I want to be your agent.' The verb 'to want', then the plain verb 'to be'. It's the big moment of the "
-  'scene.'),
- (12, None, "'Are you serious?' Sofia asks a question made just by her voice going up at the end."),
- (13, None, "'Yes, I'm serious.' Gabriel means it."),
- (14,
-  None,
-  "'I don't have much work, you know.' After 'not', 'a lot of' becomes 'much'. Same words in French: "
-  "literally 'not a lot of work'."),
- (15,
-  None,
-  "'I'm going to help you find work.' The verb 'to go' plus another verb for the near future again, and "
-  "after 'help', a little word for 'to' before the next verb."),
- (16,
-  None,
-  "'Okay. Great!' Two of the most useful words in French, and Sofia has a real agent at last. Here's the "
-  'whole scene again, from the top.')]
+WALK = [
+    (0, None, "'You came! I can't believe it!' Literally 'it's unbelievable'. The first action is a past form built with 'to be'. Remember that helper with this particular action, 'come'; movement words do not all follow the same pattern."),
+    (1, None, "'I didn't see you until the end.' Literally 'before the end'. The little word for 'you' sits before the helper word, inside the 'not'."),
+    (2, 'Tu as aimé les autres?', "'Did you like the others?' The past tense with 'to have' and the past form of 'to like'."),
+    (2, 'Ils sont bien, non?', "'They're good, aren't they?' Adding the word for 'no' at the end is the easy French way to say 'aren't they?' or 'right?'."),
+    (3, None, "'Yes, they're good.' Gabriel is polite about the rest of the cast."),
+    (4, None, "'But it's mostly you. You were wonderful.' The past form for 'you were' describes how she was on stage, a lasting state."),
+    (5, None, "'Thank you, Gabriel. Thank you for coming.' French uses a completed form, literally 'to be come', after 'thank you for'. The little word before it means 'for' in this expression and loses its vowel."),
+    (6, None, "'I'm the one who should thank you.' Literally 'it's me who must thank you'. The same trick to put weight on one person."),
+    (7, None, "'You're a real actress.' The words for 'real' and 'actress' both have feminine endings. This means a lot to Sofia, who spends her days answering phones."),
+    (8, None, "'Thank you so much.' Literally 'thank you infinitely'. A very warm thank-you."),
+    (9, None, "'Bye, Gabriel. See you tomorrow.' Tomorrow she'll be back behind the reception desk. She starts to walk away."),
+    (10, None, "'Sofia? Wait.' Gabriel gives a casual command, because they use the casual 'you' with each other."),
+    (11, None, "'I want to be your agent.' The verb 'to want', then the plain verb 'to be'. It's the big moment of the scene."),
+    (12, None, "'Are you serious?' Sofia asks a question made just by her voice going up at the end."),
+    (13, None, "'Yes, I'm serious.' Gabriel means it."),
+    (14, None, "'I don't have much work, you know.' After 'not', 'a lot of' becomes 'much'. Same words in French: literally 'not a lot of work'."),
+    (15, None, "'I'm going to help you find work.' The verb 'to go' plus another verb for the near future again, and after 'help', a little word for 'to' before the next verb."),
+    (16, None, "'Okay. Great!' Two of the most useful words in French, and Sofia has a real agent at last."),
+]

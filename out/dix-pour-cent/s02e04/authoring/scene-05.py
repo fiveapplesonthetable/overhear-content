@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = "In Gabriel's office, new agency owner Hicham Janowski informs the agents that candidate interviews will take place in his office. Andréa immediately resists his top-down commands, forcing a tense negotiation over who controls the hiring process. Let's listen to the scene in French first."
-OPENER = "Let's examine the tense exchange between Hicham and Andréa step by step to understand the power struggle."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Andréa holds her ground against Hicham's demands, demonstrating the uneasy balance of power between the agents and their new boss. Let's review the workplace and negotiation vocabulary from this scene. See you next time!"
+INTRO = "In Gabriel's office, new agency owner Hicham Janowski informs the agents that candidate interviews will take place in his office. Andrea immediately resists his top-down commands, forcing a tense negotiation over who controls the hiring process. Let's listen to the scene in French first."
+OPENER = "Let's examine the tense exchange between Hicham and Andrea step by step to understand the power struggle."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
+OUTRO = "Andrea holds her ground against Hicham's demands, demonstrating the uneasy balance of power between the agents and their new boss. Let's review the workplace and negotiation vocabulary from this scene. See you next time!"
 CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('hicham', 'Les entretiens auront lieu dans mon bureau.', 'The interviews will take place in my office.', [(119, "les entretiens pour le poste d'agent junior"), (120, 'auront lieu dans mon bureau')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('gabriel', 'Tiens, prends un peu de café.', 'Here, have some coffee.', [(135, 'Tiens... du café.')], ''),
 ]
 WALK = [
-    (0, None, "'The interviews will take place in my office.' Hicham asserts his control over the junior agent recruitment process."),
-    (1, None, "'I want an agent with me.' Hicham requires one senior agent to sit in on each interview session."),
-    (2, None, "'We will choose the best candidate together.' Hicham promises a joint decision on the new hire."),
-    (3, None, "'Shall we start right away, Marteau?' Hicham playfully uses Andrea's old nickname to prompt her."),
-    (4, None, "'No, I am not available.' Andrea promptly rebuffs Hicham's request with cool indifference."),
-    (5, None, "'Fine, with another candidate then.' Hicham tries to accommodate her schedule without backing down."),
-    (6, None, "'Not before next week.' Andrea pushes back the timeline to protect her independence."),
-    (7, None, "'We have ten candidates in total.' Gabriel chimes in to clarify the total number of applicant files."),
-    (8, None, "'You do three of them with me.' Hicham bargains firmly on the minimum number of interviews Andrea must attend."),
-    (9, None, "'All right, I will do two candidates.' Andrea yields slightly but caps her participation at two."),
-    (10, None, "'But I am the one who decides when.' Andrea maintains the upper hand by dictating the schedule."),
-    (11, None, "'Perfect, interviews in my office.' Hicham accepts the compromise while keeping the meetings on his turf."),
-    (12, None, "'Here, have some coffee.' Gabriel breaks the lingering tension by offering Andrea a cup of coffee. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'The interviews will take place in my office.' Literally 'will have place', French builds 'take place' with 'have' rather than 'take', and 'office' can mean 'desk' too."),
+    (1, None, "'I want an agent with me.' Direct and unsoftened, 'I want' sounds blunt in French; polite requests usually swap in 'I would like'."),
+    (2, None, "'We will choose the best candidate together.' French places 'together' right after the future action instead of saving it for the very end as in English."),
+    (3, None, "'Shall we start right away, Marteau?' Hicham teases Andrea with a nickname meaning 'hammer', and the three-word chunk before it literally means 'all of sequence'."),
+    (4, None, "'No, I am not available.' That final word meaning 'available' or 'free' is a handy workplace expression when turning down a meeting."),
+    (5, None, "'Fine, with another candidate then.' Dropping 'then' onto the close of a short reply in French mirrors English rhythm and nudges the negotiation forward."),
+    (6, None, "'Not before next week.' Notice the reversed order at the end: French says 'the week next' rather than 'next week'."),
+    (7, None, "'We have ten candidates in total.' Ending with 'at the total' gives a useful chunk you can say whenever summing up a count."),
+    (8, None, "'You do three of them with me.' Slipping a tiny two-letter word meaning 'of them' before 'do' lets French keep a bare number without repeating 'candidates'."),
+    (9, None, "'All right, I will do two candidates.' Opening with an everyday expression that literally means 'of agreement' softens Andrea's counteroffer."),
+    (10, None, "'But I am the one who decides when.' Literally 'it is me who decides when', French uses this framing structure whenever speakers stress 'I' instead of just raising their voice."),
+    (11, None, "'Perfect, interviews in my office.' Even in a shorthand reminder without an action, French keeps 'the' before 'interviews' where English drops it."),
+    (12, None, "'Here, have some coffee.' Opening with a casual command that literally means 'hold!' is what you'd say in French whenever handing someone a cup."),
 ]

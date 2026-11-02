@@ -87,55 +87,22 @@ STORY = [('gabriel',
   "Anyway, you're not someone for me.",
   [(287, "De toute façon, tu n'es pas quelqu'un pour moi")],
   'Original French audio checked: register/speaker corrected from backtranslated SRT.')]
-WALK = [(0,
-  None,
-  "'Andréa! Brancillon came to my place at seven in the morning!' The verb 'to come' uses 'to be' in the past "
-  "tense, so 'came' has a feminine ending for Brancillon."),
- (1, None, "'What? To your place?' The little preposition for 'at someone's home' followed by 'you'."),
- (2,
-  None,
-  "'To check my suits and my expense claims. Good luck!' Literally 'notes of expenses'. Gabriel warns her that "
-  "she's next."),
- (3,
-  None,
-  "'Colette? Hello!' Andréa addresses her by name before the greeting. The tax inspector is checking records in "
-  "Andréa's office while Andréa tries to charm her."),
- (4, None, "'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out."),
- (5,
-  None,
-  "'Stop it, Andréa. I know who you are.' Colette keeps polite address while rejecting the invitation. The first "
-  'action is a command; the last is the matching polite form of being.'),
- (6, None, "'Really?' Andréa uses a short expression to ask for confirmation when she is surprised."),
- (7,
-  None,
-  "'Yes. I see everything in your bills.' The word after 'see' stands alone for 'everything'. It is different "
-  "from the longer expression for 'everyone', which adds the words for 'the world'."),
- (8, None, "'What?' Andréa is caught off guard."),
- (9,
-  None,
-  "'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the word "
-  "for 'never'."),
- (10,
-  None,
-  "'You pay for a gym, but you never go there.' The short place word before 'go' replaces the gym. It is joined "
-  "to the first part of the negative, while 'never' comes after the action."),
- (11,
-  None,
-  "'And you have a problem with your hair.' Plural possessive before 'hair', because 'hair' on your head is "
-  'plural in French.'),
- (12,
-  None,
-  "'No!' A complete protest can be just this one word. Colette immediately contradicts it with the other kind of "
-  "French 'yes'."),
- (13,
-  None,
-  "'Yes, you do. Always a different hairdresser.' Colette contradicts the denial. The short second sentence "
-  'leaves out an action because the pattern of changing hairdressers is already clear.'),
- (14, None, "'And you have lots of girlfriends.' Literally 'little friends' in the feminine."),
- (15,
-  None,
-  "'That's false.' The describing word after 'it is' means 'false' or 'untrue'. It stays masculine here because "
-  'it describes the whole claim, not Andréa herself.'),
- (16,
-  None,
-  "'Anyway, you're not someone for me.' This three-word phrase at the start means 'in any case' or 'anyway'.")]
+WALK = [
+    (0, None, "'Andréa! Brancillon came to my place at seven in the morning!' The verb 'to come' uses 'to be' in the past tense, so 'came' has a feminine ending for Brancillon."),
+    (1, None, "'What? To your place?' The little preposition for 'at someone's home' followed by 'you'."),
+    (2, None, "'To check my suits and my expense claims. Good luck!' Literally 'notes of expenses'. Gabriel warns her that she's next."),
+    (3, None, "'Colette? Hello!' Andréa addresses her by name before the greeting. The tax inspector is checking records in Andréa's office while Andréa tries to charm her."),
+    (4, None, "'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out."),
+    (5, None, "'Stop it, Andréa. I know who you are.' Colette keeps polite address while rejecting the invitation. The first action is a command; the last is the matching polite form of being."),
+    (6, None, "'Really?' Andréa uses a short expression to ask for confirmation when she is surprised."),
+    (7, None, "'Yes. I see everything in your bills.' The word after 'see' stands alone for 'everything'. It is different from the longer expression for 'everyone', which adds the words for 'the world'."),
+    (8, None, "'What?' Andréa is caught off guard."),
+    (9, None, "'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the everyday word for 'never'."),
+    (10, None, "'You pay for a gym, but you never go there.' The short place word before 'go' replaces the gym. It is joined to the first part of the negative, while 'never' comes after the action."),
+    (11, None, "'And you have a problem with your hair.' Plural possessive before 'hair', because 'hair' on your head is plural in French."),
+    (12, None, "'No!' A complete protest can be just this one word. Colette immediately contradicts it with the other kind of French 'yes'."),
+    (13, None, "'Yes, you do. Always a different hairdresser.' Colette contradicts the denial. The short second sentence leaves out an action because the pattern of changing hairdressers is already clear."),
+    (14, None, "'And you have lots of girlfriends.' Literally 'little friends' in the feminine."),
+    (15, None, "'That's false.' The describing word after 'it is' means 'false' or 'untrue'. It stays masculine here because it describes the whole claim, not Andréa herself."),
+    (16, None, "'Anyway, you're not someone for me.' This three-word phrase at the start means 'in any case' or 'anyway'."),
+]

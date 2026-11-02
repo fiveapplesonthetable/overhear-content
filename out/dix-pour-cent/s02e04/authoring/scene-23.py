@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'arlette': 'Arlette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = "In Gabriel's quiet office, senior agent Arlette Azémar checks in on her colleague as he wrestles with private doubts. Confessing his jealousy over Sofia's new artistic project with Julien Dore, Gabriel receives wise and reassuring advice from the veteran agent. Listen to the scene in French first. Don't worry about catching every word."
+INTRO = "In Gabriel's quiet office, senior agent Arlette Azemar checks in on her colleague as he wrestles with private doubts. Confessing his jealousy over Sofia's new artistic project with Julien Dore, Gabriel receives wise and reassuring advice from the veteran agent. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
-TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = "Calmed by Arlette's experience and warmth, Gabriel learns to separate his professional role from his personal insecurities. Remember the essential French phrase for placing trust in someone: faire confiance. See you next time!"
+TRANSITION = "Now let's listen to the whole exchange once more from beginning to end."
+OUTRO = "Calmed by Arlette's experience and warmth, Gabriel learns to separate his professional role from his personal insecurities. See you next time!"
 CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
     ('arlette', 'Tu vas bien, mon cher Gabriel?', 'Are you doing well, my dear Gabriel?', [(640, 'Ça va ?')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('arlette', "Elle t'aimera encore plus ainsi.", 'She will love you even more that way.', [(675, "Elle t'aimera encore plus.")], ''),
 ]
 WALK = [
-    (0, None, "'Are you doing well, my dear Gabriel?' Arlette gently checks in on her troubled colleague."),
-    (1, None, "'It is great for Sofia's movie.' Gabriel acknowledges the artistic breakthrough for his partner."),
-    (2, None, "'Since their meeting, Sofia is radiant.' Arlette notices the actress's vibrant artistic energy."),
-    (3, None, "'I think that I am jealous!' Gabriel candidly confesses his private insecurity to the veteran agent."),
-    (4, None, "'I am no longer so sure.' He second-guesses the wisdom of setting up the collaboration."),
-    (5, None, "'The script is a bit vulgar.' He rationalizes his personal jealousy by criticizing the screenplay."),
-    (6, None, "'You know this business very well.' Arlette reminds him of the realities of the film industry."),
-    (7, None, "'We sell desire in cinema.' The senior agent explains that dramatic art thrives on emotional chemistry."),
-    (8, None, "'Julien likes pretty women a lot.' Gabriel voices his anxiety about the charismatic musician's reputation."),
-    (9, None, "'I do not want any trouble.' The protective agent fears emotional heartbreak in his personal life."),
-    (10, None, "'There must be desire between artists.' Arlette insists that creative passion requires genuine mutual attraction."),
-    (11, None, "'Let her live her own life.' She counsels Gabriel to avoid suffocating his talented girlfriend."),
-    (12, None, "'Trust her above all.' The veteran agent offers timeless wisdom on loving an artist."),
-    (13, None, "'She will love you even more that way.' Arlette reassures him that respecting Sofia's independence strengthens love. Now let's listen to the entire exchange once more from beginning to end."),
+    (0, None, "'Are you doing well, my dear Gabriel?' Adding 'my dear' ahead of Gabriel's name gives Arlette's casual 'you go well?' a warm maternal touch in French."),
+    (1, None, "'It is great for Sofia's movie.' French has no apostrophe-'s' possessive, saying 'the film of Sofia' instead, led here by casual 'super'."),
+    (2, None, "'Since their meeting, Sofia is radiant.' Built on 'ray' or 'beam of light', that glowing final word sounds its 't' when describing Sofia in French."),
+    (3, None, "'I think that I am jealous!' Notice 'jealous' ends on a silent 'x' in French for Gabriel, whereas for a female speaker it shifts to a 'z' sound."),
+    (4, None, "'I am no longer so sure.' Swapping 'not' for the word meaning 'more' after 'am' flips the negative meaning to 'no longer' in French."),
+    (5, None, "'The script is a bit vulgar.' Softening the cognate 'vulgar' with a handy chunk meaning 'a little' makes Gabriel's excuse sound hesitant."),
+    (6, None, "'You know this business very well.' That final word names a craft or profession you practice — closer to 'line of work' than corporate 'business'."),
+    (7, None, "'We sell desire in cinema.' Abstract qualities sold in unspecified amounts take 'of the' before 'desire' in French, followed by 'at the cinema'."),
+    (8, None, "'Julien likes pretty women a lot.' With people, adding 'a lot' right after 'love' tones it down to 'likes a lot' rather than romantic love in French."),
+    (9, None, "'I do not want any trouble.' In the negative, 'some' shifts to shortened 'of' before 'story', which here idiomatically means 'drama' or 'trouble'."),
+    (10, None, "'There must be desire between artists.' Opening with impersonal 'it is necessary' plus 'some desire' expresses general artistic need in French."),
+    (11, None, "'Let her live her own life.' Placed ahead of 'life', that describing word means 'own', whereas placed after something in French it means 'clean'."),
+    (12, None, "'Trust her above all.' Built as 'make-to-her trust', this key expression closes with 'before all' to mean 'above all else'."),
+    (13, None, "'She will love you even more that way.' Pairing 'still' with 'more' creates 'even more' in French, wrapped up neatly by a formal word meaning 'thus'."),
 ]

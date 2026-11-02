@@ -11,9 +11,9 @@ LABELS = {'andrea': 'Andréa', 'eva': 'Eva', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = 'We open at the agency as everyone prepares to leave for the coast. Listen to the full scene in French first — just focus on the tone and energy.'
-OPENER = "Let's explore how Juliette explains her costume choice to Andréa and Eva."
-TRANSITION = "Now let's listen to Juliette, Andréa, and Eva again at full speed."
-OUTRO = 'Juliette Binoche rejects the restrictive dress in favor of a sleek Armani tuxedo, choosing comfort and independence. Her agent Andréa and producer Eva respect her decision as preparations for the Cannes festival continue. See you next time!'
+OPENER = "Let's explore how Juliette explains her costume choice to Andrea and Eva."
+TRANSITION = "Now let's listen to the whole scene again with Juliette, Andrea, and Eva."
+OUTRO = 'Juliette Binoche rejects the restrictive dress in favor of a sleek Armani tuxedo, choosing comfort and independence. Her agent Andrea and producer Eva respect her decision as preparations for the Cannes festival continue. See you next time!'
 CLOSING = ('juliette', 'Bonne journée!')
 STORY = [
     ('juliette', 'Je suis en plein essayage pour Cannes.', 'I am in the middle of a fitting for Cannes.', [(2, 'Je suis en essayage pour Cannes.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('eva', 'Très bien, va pour le smoking Armani!', 'Very well, let us go with the Armani tuxedo!', [(54, "Très bien, alors. Nous sommes tous d'accord."), (55, 'Le smoking Armani.')], ''),
 ]
 WALK = [
-    (0, None, "'I am in the middle of a fitting for Cannes.' Juliette indicates an ongoing dress fitting."),
-    (1, None, "'Sorry Juliette, my taxi was stuck.' Andréa apologizes politely and blames the Paris traffic."),
-    (2, None, "'Hello Andréa, we were talking about the ceremony.' Eva greets Andréa and explains they were just discussing the Cannes ceremony."),
-    (3, None, "'Juliette will be a perfect mistress of ceremonies.' Andréa reassures Juliette Binoche that she will be a flawless mistress of ceremonies."),
-    (4, None, "'This dress is really very complicated!' Juliette critiques garment comfort."),
-    (5, None, "'You just have to get used to it.' The designer tells Juliette she simply needs a moment to get used to the gown."),
-    (6, None, "'I think that it is too tight.' Juliette winces and says she thinks the dress is far too tight."),
-    (7, None, "'Yet, you are simply divine!' Andréa insists admiringly that Juliette looks simply divine in it."),
-    (8, None, "'It is much too sophisticated for me.' Juliette expresses personal aesthetic preference."),
-    (9, None, "'This dress requires a thousand hours of work.' Eva emphasizes artisanal couture labor."),
-    (10, None, "'I prefer to wear the Armani tuxedo.' Juliette proposes an alternative outfit."),
-    (11, None, "'Do you feel better in a tuxedo?' Andréa checks bodily comfort."),
-    (12, None, "'Yes, I feel freer.' Juliette highlights physical and artistic ease."),
-    (13, None, "'Very well, let us go with the Armani tuxedo!' Eva confirms the wardrobe decision. Now let's listen to Juliette, Andrea, and Eva again at full speed."),
+    (0, None, "'I am in the middle of a fitting for Cannes.' Literally 'in full fitting,' this lively expression drops you straight into an ongoing activity, with 'fitting' built from the root meaning 'to try.'"),
+    (1, None, "'Sorry Juliette, my taxi was stuck.' Andrea opens by saying 'sorry' on its own without 'I am,' and French uses 'blocked' where English says a cab got 'stuck' in traffic."),
+    (2, None, "'Hello Andrea, we were talking about the ceremony.' Eva chooses the formal 'we' here, pairing it with an ongoing past ending that means 'were talking' rather than a single finished remark."),
+    (3, None, "'Juliette will be a perfect mistress of ceremonies.' Unlike English, French puts 'perfect' right after the title 'mistress of ceremony' instead of before it."),
+    (4, None, "'This dress is really very complicated!' Pairing 'really' with 'very' gives Juliette extra punch, and 'complicated' is a clean cognate you'll hear constantly for fussy outfits or plans."),
+    (5, None, "'You just have to get used to it.' Impersonal 'it is necessary' kicks off this handy sentence, while a tiny stand-in meaning 'to it' tucks neatly before 'accustom yourself.'"),
+    (6, None, "'I think that it is too tight.' Leading with 'I believe that' softens her complaint, and the closing word literally means 'squeezed' when clothes feel too tight."),
+    (7, None, "'Yet, you are simply divine!' Notice Andrea switching to casual 'you' with her star client, after opening with a single connector meaning 'yet' or 'even so.'"),
+    (8, None, "'It is much too sophisticated for me.' Joining 'a lot' and 'too' builds 'much too' in French, a reusable intensifier you can drop before any description."),
+    (9, None, "'This dress requires a thousand hours of work.' Where English says 'requires,' French reaches for 'asks for'—so the gown literally 'asks a thousand hours of work.'"),
+    (10, None, "'I prefer to wear the Armani tuxedo.' Funny false friend alert: in French, 'the smoking' means a dinner jacket or tuxedo rather than cigarette smoke!"),
+    (11, None, "'Do you feel better in a tuxedo?' Casual 'you' pairs with 'feel yourself' here, and 'in tuxedo' drops the article 'a' entirely after 'in.'"),
+    (12, None, "'Yes, I feel freer.' Repeating the 'feel myself' pattern in the first person, Juliette adds 'more free'—since French builds comparisons with 'more' rather than an '-er' ending."),
+    (13, None, "'Very well, let us go with the Armani tuxedo!' Literally 'goes for the Armani tuxedo,' this crisp idiom seals an agreement the moment everyone settles on a choice."),
 ]

@@ -56,60 +56,19 @@ STORY = [('camille',
   [(56, 'Comprendre. Ou du moins essayer')],
   ''),
  ('camille', "Jus d'orange ou bière?", 'Orange juice or beer?', [(58, "Jus d'orange ou bière")], '')]
-WALK = [(0,
-  None,
-  "'His wife is helping him buy back the agency.' The first word means 'his' here because Camille is talking about "
-  "Mathias. Its feminine shape matches the word 'wife'. The short object attached to 'helps' means 'him'."),
- (1,
-  None,
-  "'Everyone is panicking because of the tax audit.' The opening three-word expression means 'everyone'. Notice that "
-  "the action after it has the same shape as after 'he' or 'she'. The words after 'panics' introduce the cause: the "
-  'tax audit.'),
- (2,
-  None,
-  "'No, Mum, I feel good here.' The middle words mean 'I am'. Adding the word for 'well' makes 'I feel good' or 'I am "
-  "comfortable'. The final word locates that feeling 'here'."),
- (3,
-  None,
-  "'Who is that at this hour? I'll go see.' The first question asks who is there. The ending of the time expression "
-  "emphasizes 'this particular hour'. In the reply, 'I go' followed by 'see' expresses what Camille is about to do."),
- (4,
-  None,
-  "'Yes? Catherine?' Two short questions do the work here: first 'yes?', then the visitor's name. A name alone can "
-  'become a question when the speaker raises her voice at the end.'),
- (5,
-  None,
-  "'It's Catherine.' Catherine answers with just her name. French can leave out an entire introduction when the "
-  'situation makes its meaning obvious.'),
- (6,
-  None,
-  "'At the back of the courtyard, on the left.' Two sets of directions are joined together. The first places the door "
-  'at the back of the courtyard; the second says to turn left. Listen for where each set of directions begins.'),
- (7,
-  None,
-  "'Kisses, Mum!' The first word is an affectionate plural 'kisses', a familiar way to end a call. The word after it "
-  'addresses her mother directly.'),
- (8,
-  None,
-  "'It calms me down.' Camille is talking about what she is smoking. The opening points to it as 'that'; the little "
-  "word before 'calms' means 'me'. Put together, it is 'that calms me down'."),
- (9,
-  None,
-  "'Do you want some?' The short word before 'want' stands for 'some of it'. Camille offers Catherine some of what she "
-  'is smoking, rather than naming it again.'),
- (10,
-  None,
-  "'No, thank you.' Catherine declines the offer. The first word says 'no', and the second adds the everyday courtesy "
-  "'thank you'."),
- (11,
-  None,
-  "'What do you want?' The question frame at the beginning asks 'what'. It is followed by informal 'you' and the verb "
-  "'want'. Camille means something to drink; Catherine interprets it more broadly."),
- (12,
-  None,
-  "'To understand. Or at least try.' The first verb is left in its basic 'to understand' form. It answers the previous "
-  "question: that is what Catherine wants. The next phrase lowers the ambition to 'at least try'."),
- (13,
-  None,
-  "'Orange juice or beer?' Now Camille gives the drinks she meant to offer. The small word between them means 'or'. In "
-  "the first drink, the shortened word between juice and orange means 'of'.")]
+WALK = [
+    (0, None, "'His wife is helping him buy back the agency.' The first word means 'his' here because Camille is talking about Mathias. Its feminine shape matches the word 'wife'. The short object attached to 'helps' means 'him'."),
+    (1, None, "'Everyone is panicking because of the tax audit.' The opening three-word expression means 'everyone'. Notice that the action after it has the same shape as after 'he' or 'she'. The words after 'panics' introduce the cause: the tax audit."),
+    (2, None, "'No, Mum, I feel good here.' The middle words mean 'I am'. Adding the everyday word for 'well' makes 'I feel good' or 'I am comfortable'. The final word locates that feeling 'here'."),
+    (3, None, "'Who is that at this hour? I'll go see.' The first question asks who is there. The ending of the time expression emphasizes 'this particular hour'. In the reply, 'I go' followed by 'see' expresses what Camille is about to do."),
+    (4, None, "'Yes? Catherine?' Two short questions do the work here: first 'yes?', then the visitor's name. A name alone can become a question when the speaker raises her voice at the end."),
+    (5, None, "'It's Catherine.' Catherine answers with just her name. French can leave out an entire introduction when the situation makes its meaning obvious."),
+    (6, None, "'At the back of the courtyard, on the left.' Two sets of directions are joined together. The first places the door at the back of the courtyard; the second says to turn left. Listen for where each set of directions begins."),
+    (7, None, "'Kisses, Mum!' The first word is an affectionate plural 'kisses', a familiar way to end a call. The word after it addresses her mother directly."),
+    (8, None, "'It calms me down.' Camille is talking about what she is smoking. The opening points to it as 'that'; the little word before 'calms' means 'me'. Put together, it is 'that calms me down'."),
+    (9, None, "'Do you want some?' The short word before 'want' stands for 'some of it'. Camille offers Catherine some of what she is smoking, rather than naming it again."),
+    (10, None, "'No, thank you.' Catherine declines the offer. The first word says 'no', and the second adds the everyday courtesy 'thank you'."),
+    (11, None, "'What do you want?' The question frame at the beginning asks 'what'. It is followed by informal 'you' and the verb 'want'. Camille means something to drink; Catherine interprets it more broadly."),
+    (12, None, "'To understand. Or at least try.' The first verb is left in its basic 'to understand' form. It answers the previous question: that is what Catherine wants. The next phrase lowers the ambition to 'at least try'."),
+    (13, None, "'Orange juice or beer?' Now Camille gives the drinks she meant to offer. The small word between them means 'or'. In the first drink, the shortened word between juice and orange means 'of'."),
+]

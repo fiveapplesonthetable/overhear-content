@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
-INTRO = 'Following a visit by prospective buyers and estate agents, Mathias sits alone in his apartment, feeling overwhelmed. Noémie arrives and finds him drowning in nostalgia, offering him the comfort and strength he needs to carry on. Listen to the scene in French first.'
-OPENER = "Let's examine how Noémie comforts a grieving and overwhelmed Mathias."
-TRANSITION = "Now let's listen to the emotional conversation once more at normal pace."
-OUTRO = 'In the empty apartment, Noémie gives Mathias the warmth and courage he needs to face the future. Listen to the poignant conversation once more in French. See you next time!'
+INTRO = 'Following a visit by prospective buyers and estate agents, Mathias sits alone in his apartment, feeling overwhelmed. Noemie arrives and finds him drowning in nostalgia, offering him the comfort and strength he needs to carry on. Listen to the scene in French first.'
+OPENER = "Let's examine how Noemie comforts a grieving and overwhelmed Mathias."
+TRANSITION = "Now let's listen to the whole dialogue again."
+OUTRO = 'In the empty apartment, Noemie gives Mathias the warmth and courage he needs to face the future. Listen to the poignant conversation once more in French. See you next time!'
 CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('mathias', "La visite de l'appartement vient de se terminer.", 'The apartment viewing has just finished.', [(596, 'Monsieur Barneville ?'), (607, 'Bon, on ne va pas vous déranger plus longtemps.')], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('noemie', 'Je suis là avec toi, nous réussirons ensemble.', 'I am here with you, we will succeed together.', [(642, 'Chéri.')], ''),
 ]
 WALK = [
-    (0, None, "'The apartment viewing has just finished.' Mathias speaks with weary relief."),
-    (1, None, "'How did the visit go with the buyers?' Noémie inquires with caring interest."),
-    (2, None, "'They loved the place and want to make an offer.' Mathias reports their positive reaction."),
-    (3, None, "'It is good news to settle your problems.' Noémie tries to highlight the bright side of the offer."),
-    (4, None, "'Yet, I feel completely overwhelmed.' Mathias shares his internal emotional turmoil."),
-    (5, None, "'What is hurting you, Mathias?' Noémie gently probes the cause of his sadness."),
-    (6, None, "'This young couple reminds me of Catherine and me in the past.' Mathias is haunted by nostalgia."),
-    (7, None, "'We were so happy in this apartment.' Mathias looks back on happier years."),
-    (8, None, "'I understand your sadness about this change.' Noémie shows deep empathy for his pain."),
-    (9, None, "'I cannot take it anymore, everything is becoming too difficult.' Mathias admits his exhaustion."),
-    (10, None, "'You are brave, you will overcome this trial.' Noémie offers steadfast reassurance."),
-    (11, None, "'My father used to say that life is a long trial.' Mathias recalls a somber family proverb."),
-    (12, None, "'Your father was wrong to be so pessimistic.' Noémie rejects the cynical worldview."),
-    (13, None, "'Maybe, but I have trouble keeping hope.' Mathias struggles against despair."),
-    (14, None, "'Look at me, Mathias. You are not alone.' Noémie reminds him of her loyal presence."),
-    (15, None, "'I am here with you, we will succeed together.' Noémie promises her loving support. Now let's listen to the emotional conversation once more at normal pace."),
+    (0, None, "'The apartment viewing has just finished.' To say something 'has just' happened, French pairs 'comes from' with the action — literally 'comes from finishing itself'."),
+    (1, None, "'How did the visit go with the buyers?' At the end, 'buyers' is built directly from 'to buy', while the opening flips 'the visit' after 'passed itself'."),
+    (2, None, "'They loved the place and want to make an offer.' For a physical location like a home, French prefers 'spot' rather than the lookalike of 'place', which often means a town square or seat."),
+    (3, None, "'It is good news to settle your problems.' That handy action meaning 'settle' or 'sort out' comes from 'rule', and you'll hear it just as often when paying a restaurant bill."),
+    (4, None, "'Yet, I feel completely overwhelmed.' That vivid final word for being emotionally shaken literally comes from rolling and turning everything upside down."),
+    (5, None, "'What is hurting you, Mathias?' Literally 'what is it that makes some sorrow to you?', built around a gentle cousin of English 'pain' meaning 'heartache'."),
+    (6, None, "'This young couple reminds me of Catherine and me in the past.' Unlike English 'reminds me of', French needs no 'of' — it literally says 'recalls to me' followed straight by the names."),
+    (7, None, "'We were so happy in this apartment.' Before a vowel sound like 'apartment', French swaps in a 't'-ending version of 'this' so the two words link smoothly aloud."),
+    (8, None, "'I understand your sadness about this change.' Here 'sadness' is built by adding '-esse' to 'sad', followed by 'face to' — a neat expression meaning 'in the face of'."),
+    (9, None, "'I cannot take it anymore, everything is becoming too difficult.' Literally 'I can of it no more', those opening words are the classic French idiom when you are completely drained."),
+    (10, None, "'You are brave, you will overcome this trial.' Everyday French uses the cognate of 'surmount' — literally 'climb over' — paired with a word that can mean both a test and an ordeal."),
+    (11, None, "'My father used to say that life is a long trial.' Where English needs three words for 'used to say', French packs a past habit into one word, and keeps 'the' before 'life'."),
+    (12, None, "'Your father was wrong to be so pessimistic.' In French, people are never 'wrong' with 'to be' — you literally 'have wrong' or 'have right'!"),
+    (13, None, "'Maybe, but I have trouble keeping hope.' Saying 'I have some trouble to...' is a handy chunk whenever you're struggling to do something, closed by the fixed idiom 'keep hope'."),
+    (14, None, "'Look at me, Mathias. You are not alone.' Placing 'all' before 'alone' turns the phrase into 'all alone' in French, right after the hyphenated command 'look-me'."),
+    (15, None, "'I am here with you, we will succeed together.' What English borrowed as 'ensemble' for a cast of performers is simply the everyday word meaning 'together' in French."),
 ]

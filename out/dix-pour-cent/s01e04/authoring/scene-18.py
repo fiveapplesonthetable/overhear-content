@@ -80,57 +80,22 @@ STORY = [('camille',
   'Do you like chicken, Camille?',
   [(472, 'Tu aimes le poulet, Camille')],
   'Original French audio checked: register/speaker corrected from backtranslated SRT.')]
-WALK = [(0,
-  None,
-  "'Are you sure that your parents aren't here?' The word for 'sure' is masculine because she is asking "
-  'Hippolyte.'),
- (1, None, "'No, it's fine. I'll go and get the photos.' Literally 'I am going to look for the photos'."),
- (2, None, "'These are the best ones.' The plural form of 'it is' introduces a plural noun."),
- (3,
-  None,
-  "'The one with the bike is good. Where is that?' The first word means 'the one', feminine to match 'photo'."),
- (4, None, "'At my grandmother's, in Burgundy.' French has a special preposition that means 'at the home of'."),
- (5,
-  None,
-  "'Why do you ask me so many questions about my family?' In French you don't 'ask' a question, you 'put' it."),
- (6,
-  None,
-  "'I like hearing about families.' Literally 'hearing talk of families'. Camille is secretly curious about the "
-  'family she never had.'),
- (7, None, "'And I like you.' Literally 'you please to me'. Then he leans in to kiss her, and Camille panics."),
- (8,
-  None,
-  "'I have a lot of work. I have to go.' The expression for 'have to' is followed by the plain action 'go'. The "
-  'little place word before it makes the everyday phrase for leaving.'),
- (9,
-  None,
-  "'Camille, what is the problem?' This question uses 'what' directly before the form meaning 'is'. It is a "
-  'compact alternative to the longer spoken question pattern heard elsewhere.'),
- (10,
-  None,
-  "'It's not you, I swear to you.' The first 'you' is the longer form after 'it is not'. The second is the short "
-  "object before 'swear', showing two jobs for the same person in one sentence."),
- (11,
-  None,
-  "'How do you know? I feel something special between us.' The word for 'it' before 'know' refers to the "
-  "situation. The later expression starts with 'something', then links it to the description 'special'."),
- (12,
-  None,
-  "'Are you staying for dinner?' Literally 'you stay to dine?' The action 'to dine' follows 'stay' directly. "
-  'Catherine is inviting Camille to remain for the meal.'),
- (13,
-  None,
-  "'Thank you, but I have to go home.' After the polite thanks, 'but' introduces Camille's objection. The final "
-  'action means returning home, not just going out.'),
- (14,
-  None,
-  "'Excellent idea!' Hippolyte welcomes his mother's invitation. The describing word has a feminine ending to "
-  "match 'idea'."),
- (15,
-  None,
-  "'Your dad has a screening. Don't leave me alone!' Catherine addresses her son, Hippolyte, about his father's "
-  'plans. Her negative command puts the object meaning me before the action meaning leave.'),
- (16,
-  None,
-  "'Do you like chicken, Camille?' French uses the article meaning 'the' with a food in general. English usually "
-  'leaves it out in this kind of question.')]
+WALK = [
+    (0, None, "'Are you sure that your parents aren't here?' The French word for 'sure' is masculine because she is asking Hippolyte."),
+    (1, None, "'No, it's fine. I'll go and get the photos.' Literally 'I am going to look for the photos'."),
+    (2, None, "'These are the best ones.' The plural form of 'it is' introduces a plural noun."),
+    (3, None, "'The one with the bike is good. Where is that?' The first word means 'the one', feminine to match 'photo'."),
+    (4, None, "'At my grandmother's, in Burgundy.' French has a special preposition that means 'at the home of'."),
+    (5, None, "'Why do you ask me so many questions about my family?' In French you don't 'ask' a question, you 'put' it."),
+    (6, None, "'I like hearing about families.' Literally 'hearing talk of families'. Camille is secretly curious about the family she never had."),
+    (7, None, "'And I like you.' Literally 'you please to me'. Then he leans in to kiss her, and Camille panics."),
+    (8, None, "'I have a lot of work. I have to go.' The expression for 'have to' is followed by the plain action 'go'. The little place word before it makes the everyday phrase for leaving."),
+    (9, None, "'Camille, what is the problem?' This question uses 'what' directly before the form meaning 'is'. It is a compact alternative to the longer spoken question pattern heard elsewhere."),
+    (10, None, "'It's not you, I swear to you.' The first 'you' is the longer form after 'it is not'. The second is the short object before 'swear', showing two jobs for the same person in one sentence."),
+    (11, None, "'How do you know? I feel something special between us.' The French word for 'it' before 'know' refers to the situation. The later expression starts with 'something', then links it to the description 'special'."),
+    (12, None, "'Are you staying for dinner?' Literally 'you stay to dine?' The action 'to dine' follows 'stay' directly. Catherine is inviting Camille to remain for the meal."),
+    (13, None, "'Thank you, but I have to go home.' After the polite thanks, 'but' introduces Camille's objection. The final action means returning home, not just going out."),
+    (14, None, "'Excellent idea!' Hippolyte welcomes his mother's invitation. The describing word has a feminine ending to match 'idea'."),
+    (15, None, "'Your dad has a screening. Don't leave me alone!' Catherine addresses her son, Hippolyte, about his father's plans. Her negative command puts the object meaning me before the action meaning leave."),
+    (16, None, "'Do you like chicken, Camille?' French uses the article meaning 'the' with a food in general. English usually leaves it out in this kind of question."),
+]

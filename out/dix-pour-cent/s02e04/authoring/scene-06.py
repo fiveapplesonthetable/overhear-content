@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = "Alone in Gabriel's office, Gabriel asks Andréa why she seemed so unnerved by Hicham's presence. Andréa drops her guard and confesses a shocking secret that leaves Gabriel stunned and amused. Let's listen to the scene in French first."
-OPENER = "Let's examine Andréa's surprising confession step by step to appreciate the comic banter between the two friends."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Andréa's hilarious confession strengthens the bond of trust between Gabriel and her, even as the workplace dynamics become delightfully chaotic. Let's review the conversational expressions and vocabulary from this scene. See you next time!"
+INTRO = "Alone in Gabriel's office, Gabriel asks Andrea why she seemed so unnerved by Hicham's presence. Andrea drops her guard and confesses a shocking secret that leaves Gabriel stunned and amused. Let's listen to the scene in French first."
+OPENER = "Let's examine Andrea's surprising confession step by step to appreciate the comic banter between the two friends."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
+OUTRO = "Andrea's hilarious confession strengthens the bond of trust between Gabriel and her, even as the workplace dynamics become delightfully chaotic. Let's review the conversational expressions and vocabulary from this scene. See you next time!"
 CLOSING = ('andrea', 'À demain!')
 STORY = [
     ('gabriel', "Ça va? Tu avais l'air tendue.", 'Are you okay? You seemed tense.', [(137, 'Ça va ?'), (138, "Tu avais l'air tendu.")], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('andrea', "C'était très lourd et poilu!", 'It was very heavy and hairy!', [(169, 'Lourd et poilu.')], ''),
 ]
 WALK = [
-    (0, None, "'Are you okay? You seemed tense.' Gabriel checks in on his visibly agitated colleague."),
-    (1, None, "'I cannot stand his orders.' Andrea explains that she rebels instinctively against Hicham's bossy attitude."),
-    (2, None, "'He cannot fire us.' Gabriel reminds her that their client relationships make them irreplaceable at the agency."),
-    (3, None, "'I will not bow down.' Andrea refuses to flatter the boss or show weakness."),
-    (4, None, "'Is it because of Aymeline Val?' Gabriel suspects the tension relates to their shared client Aymeline."),
-    (5, None, "'Is he dating her?' Gabriel bluntly asks if Hicham scored with the model."),
-    (6, None, "'We spent the evening together.' Andrea reveals that she and Hicham had a three-way encounter."),
-    (7, None, "'No, that is not true!' Gabriel reacts with sheer astonishment and shock."),
-    (8, None, "'It was a mistake, he provoked me.' Andrea rationalizes the incident as a competitive reaction after being challenged."),
-    (9, None, "'You sleep with men now?' Gabriel playfully teases Andrea about her sudden departure from her usual dating preferences."),
-    (10, None, "'No, it was a tiny exception.' Andrea insists the one-night stand was completely out of character."),
-    (11, None, "'So, what was it like with Hicham?' Gabriel cannot resist probing for funny personal details."),
-    (12, None, "'It was very heavy and hairy!' Andrea's candid summary leaves Gabriel in stitches. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Are you okay? You seemed tense.' Literally 'you had the air stretched', that everyday expression meaning 'to look' or 'to seem' pairs naturally with any feeling."),
+    (1, None, "'I cannot stand his orders.' Watch out for a classic false friend: the action looks like 'support', yet in French it means 'tolerate' or 'put up with'."),
+    (2, None, "'He cannot fire us.' In workplace slang, a lively action that originally means 'to veer' or 'turn out' becomes what you'd say to mean 'fire someone'."),
+    (3, None, "'I will not bow down.' Built on a root meaning 'flat', saying 'flatten myself' paints a vivid picture of groveling before a new boss."),
+    (4, None, "'Is it because of Aymeline Val?' Literally 'at cause of', this three-word link in French usually points to a problem rather than a welcome reason."),
+    (5, None, "'Is he dating her?' Just as in English, 'go out with' can mean dating someone, introduced here by the standard spoken question chunk."),
+    (6, None, "'We spent the evening together.' French has a special word covering the whole evening's social experience rather than just the clock hour."),
+    (7, None, "'No, that is not true!' Literally 'that is not true', you'll hear this cry of disbelief constantly in French much like 'no way!' in English."),
+    (8, None, "'It was a mistake, he provoked me.' Because 'me' comes ahead of 'has provoked' and refers to Andrea, written French adds a silent final letter."),
+    (9, None, "'You sleep with men now?' Unlike English, which uses bare 'men' in general questions, French still keeps a word meaning 'some' before it."),
+    (10, None, "'No, it was a tiny exception.' Putting 'little' ahead of the cognate 'exception' downplays the slip and makes it sound harmless."),
+    (11, None, "'So, what was it like with Hicham?' Placing 'how' after 'it was' rather than at the start builds a relaxed, gossipy question in French."),
+    (12, None, "'It was very heavy and hairy!' That final word comes from the everyday term meaning body hair rather than head hair, making Andrea's punchline extra vivid."),
 ]

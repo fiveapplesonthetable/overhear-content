@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = "Lost behind the scenes of the Palais des Festivals, Andréa, Juliette Binoche, and Hicham rush frantically through service hallways. Time is running out before the opening ceremony as panic escalates. Let's listen to the scene in French first."
-OPENER = "Let's examine how Andréa, Juliette, and Hicham navigate the backstage maze step by step."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+INTRO = "Lost behind the scenes of the Palais des Festivals, Andrea, Juliette Binoche, and Hicham rush frantically through service hallways. Time is running out before the opening ceremony as panic escalates. Let's listen to the scene in French first."
+OPENER = "Let's examine how Andrea, Juliette, and Hicham navigate the backstage maze step by step."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
 OUTRO = "A frantic search for a restroom turns into a backstage labyrinth as Juliette's dress suffers unexpected damage moments before the show. See you next time!"
 CLOSING = ('juliette', 'À bientôt!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('juliette', 'La cérémonie va bientôt commencer!', 'The ceremony will begin soon!', [(600, 'Tu montes')], ''),
 ]
 WALK = [
-    (0, None, "'This way, let us hurry up a bit!' Andrea urges everyone to move quickly through the building."),
-    (1, None, "'I have to go on stage soon.' Juliette reminds them that the clock is ticking down."),
-    (2, None, "'It is a true nightmare!' Juliette laments their chaotic predicament."),
-    (3, None, "'Where do all these long corridors lead?' Hicham asks as they wander through unfamiliar hallways."),
-    (4, None, "'There are bathrooms over there.' Andrea thinks she has found the right direction."),
-    (5, None, "'Be careful with my dress!' Juliette warns them to mind her delicate designer outfit."),
-    (6, None, "'Look, this door is locked!' Hicham points out that their path is blocked."),
-    (7, None, "'It is not possible, we are turning!' Andrea realizes they are running in circles."),
-    (8, None, "'I only see doors.' Juliette despairs at the maze of unmarked doors."),
-    (9, None, "'We are completely lost here!' Hicham states the obvious truth about their situation."),
-    (10, None, "'Let us take this corridor this way.' Andrea tries another turn to escape the maze."),
-    (11, None, "'Watch out, my beautiful dress is tearing!' Juliette gasps as her garment snags on an obstacle."),
-    (12, None, "'Oh no, a tear at the bottom!' Andrea spots the damage to the gown with dismay."),
-    (13, None, "'The ceremony will begin soon!' Juliette worries that she must go on stage in damaged clothes. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'This way, let us hurry up a bit!' Literally 'by here,' that quick two-word pointer leads into 'hurry-ourselves a little' in French."),
+    (1, None, "'I have to go on stage soon.' Pairing 'I must' with 'mount on stage' in French drops any article before 'stage'—just like English 'on stage.'"),
+    (2, None, "'It is a true nightmare!' Placing 'veritable' ahead of 'nightmare' intensifies the disaster in French, where 'nightmare' has its own vivid single word."),
+    (3, None, "'Where do all these long corridors lead?' After 'where' in French, 'lead' flips ahead of the entire subject 'all these long corridors'!"),
+    (4, None, "'There are bathrooms over there.' Notice the twin to line one's 'by here': swapping 'here' for 'there' after 'by' means 'that way' or 'over there.'"),
+    (5, None, "'Be careful with my dress!' Literally 'make attention to my dress,' French builds 'be careful with' using 'make' and 'to'!"),
+    (6, None, "'Look, this door is locked!' Depending on context, the description at the end can mean either 'closed' or 'locked' in French."),
+    (7, None, "'It is not possible, we are turning!' Saying 'we turn' on its own captures the panicky feeling of going around in circles in French."),
+    (8, None, "'I only see doors.' Framing 'see' inside 'not... than' expresses 'only' in French, followed by 'some doors.'"),
+    (9, None, "'We are completely lost here!' Notice casual 'one is' paired with '-s' on 'lost'—because 'one' actually refers to all three of them in French!"),
+    (10, None, "'Let us take this corridor this way.' Dropping 'we' before 'take' gives an instant 'let's take' suggestion in French."),
+    (11, None, "'Watch out, my beautiful dress is tearing!' Turning 'tear' into 'tears itself' in French describes fabric ripping on its own without naming a culprit."),
+    (12, None, "'Oh no, a tear at the bottom!' Built from 'hook,' that handy word means a 'snag' or 'rip' in fabric, followed by 'in low' for 'at the bottom.'"),
+    (13, None, "'The ceremony will begin soon!' Placing 'soon' right between 'goes' and 'begin' slots the time adverb neatly inside the near-future pair in French."),
 ]

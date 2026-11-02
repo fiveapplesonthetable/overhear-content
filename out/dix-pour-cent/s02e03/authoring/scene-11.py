@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
-INTRO = "Inside Mathias's office, Noémie presents a clever calendar solution for star client Nathalie Baye. While reviewing the tight shooting dates, personal intimacy and office diplomacy collide. Let's listen to the scene in French first."
+INTRO = "Inside Mathias's office, Noemie presents a clever calendar solution for star client Nathalie Baye. While reviewing the tight shooting dates, personal intimacy and office diplomacy collide. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'Noémie demonstrates her logistical genius by aligning two competing film shoots for Nathalie Baye. See you next time!'
+TRANSITION = "Now let's listen to the whole dialogue once more to lock in what you have learned."
+OUTRO = 'Noemie demonstrates her logistical genius by aligning two competing film shoots for Nathalie Baye. See you next time!'
 CLOSING = ('noemie', 'Au revoir!')
 STORY = [
     ('noemie', "J'ai trouvé une solution pour Nathalie Baye.", 'I found a solution for Nathalie Baye.', [(260, "j'ai trouvé une solution pour Nathalie Baye.")], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('noemie', 'Laisse-moi faire, ça va rentrer.', 'Leave it to me, it will fit.', [(280, 'Laisse-moi faire.'), (281, 'Ça va rentrer.')], ''),
 ]
 WALK = [
-    (0, None, "'I found a solution for Nathalie Baye.' Noemie announces her scheduling breakthrough."),
-    (1, None, "'Ah, excellent. Show me that.' Mathias reacts with interest and demands to inspect the plan."),
-    (2, None, "'Here is Xavier Beauvois's schedule.' Noemie lays out the first production timetable."),
-    (3, None, "'This one is Tonie Marshall's.' Noemie compares the two competing schedules."),
-    (4, None, "'The shooting days are marked in red.' Noemie points out the color-coded days."),
-    (5, None, "'Everything fits together perfectly here.' Noemie marvels at the puzzle pieces aligning."),
-    (6, None, "'Nathalie can do both movies.' Noemie concludes triumphantly."),
-    (7, None, "'No, I tell you that it does not work.' Mathias remains skeptical of the tight logistics."),
-    (8, None, "'Do you regret it, Mathias?' Noemie suddenly changes the subject to their secret past."),
-    (9, None, "'That is not the topic, we are at work.' Mathias attempts to restore professional boundaries."),
-    (10, None, "'Beauvois always exceeds the dates.' Mathias cites the director's notorious delays."),
-    (11, None, "'Nathalie needs two weeks of rest.' Mathias defends his star client's physical stamina."),
-    (12, None, "'You said no, so you do not regret anything.' Noemie interprets his hesitation flirtatiously."),
-    (13, None, "'Listen, Noémie, I prefer not to speak of it here.' Mathias deflects the personal banter."),
-    (14, None, "'In any case, do not worry, Mathias.' Noemie reassures him with confidence."),
-    (15, None, "'Leave it to me, it will fit.' Noemie concludes with breezy determination. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'I found a solution for Nathalie Baye.' Built from 'I have found', this everyday past structure in French covers English 'I found', paired with the cognate 'solution'."),
+    (1, None, "'Ah, excellent. Show me that.' Joining 'me' with a hyphen onto the command 'show' mirrors English word order, though 'excellent' ends with a nasal vowel in French."),
+    (2, None, "'Here is Xavier Beauvois's schedule.' Borrowed with an '-ing' ending, that false-friend loanword means a 'schedule' or 'calendar' in French rather than the act of planning."),
+    (3, None, "'This one is Tonie Marshall's.' Because French never adds apostrophe-s to a name, speakers say 'the one of Tonie Marshall', contrasting with 'this one here' at the start."),
+    (4, None, "'The shooting days are marked in red.' Literally 'the days of shooting', the two ideas are joined by 'of' in French, followed by 'marked in red'."),
+    (5, None, "'Everything fits together perfectly here.' Built from the root meaning 'box', the action literally means 'boxes itself together', picturing dates slotting neatly into place."),
+    (6, None, "'Nathalie can do both movies.' Where English has a dedicated word 'both', French simply says 'the two films' right after 'can do'."),
+    (7, None, "'No, I tell you that it does not work.' Literally 'that does not walk', this everyday idiom in French is what you'd say whenever a plan 'does not work'."),
+    (8, None, "'Do you regret it, Mathias?' Notice how 'it' sits ahead of 'regret' in French rather than after it, while casual 'you' hints at their private closeness."),
+    (9, None, "'That is not the topic, we are at work.' Blending 'at' and 'the' before 'work' gives you a handy chunk meaning 'at work' in French, right after the cognate 'subject'."),
+    (10, None, "'Beauvois always exceeds the dates.' Related to English 'pass', this prefix-boosted action means 'goes past' or 'overruns' a deadline in French, followed by 'always'."),
+    (11, None, "'Nathalie needs two weeks of rest.' Literally 'has need of', French expresses needing something through 'have' rather than a standalone action, ending with 'of rest'."),
+    (12, None, "'You said no, so you do not regret anything.' Pairing the negative marker before 'regret' with 'nothing' after it builds 'do not regret anything' in French, linked by 'therefore'."),
+    (13, None, "'Listen, Noemie, I prefer not to speak of it here.' Before a 'to do' action in French, both halves of the negative sit side by side in front, followed by a tiny 'of it' marker."),
+    (14, None, "'In any case, do not worry, Mathias.' Literally 'of every manner', that three-word opener is a handy phrase you'll hear constantly for 'anyway' or 'in any case'."),
+    (15, None, "'Leave it to me, it will fit.' Taken word-for-word as 'let me do', this confident chunk means 'leave it to me', while 'go enter' idiomatically means the dates 'will squeeze in'."),
 ]

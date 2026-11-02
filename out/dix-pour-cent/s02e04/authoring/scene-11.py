@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = "At the ASK offices, Camille is terrified by the impressive resumes of outside applicants for the junior agent post. Her friends Noémie and Hervé spot a top contender and consider dirty tricks to help Camille. Let's listen to the scene in French first."
+INTRO = "At the ASK offices, Camille is terrified by the impressive resumes of outside applicants for the junior agent post. Her friends Noemie and Herve spot a top contender and consider dirty tricks to help Camille. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Facing stiff outside competition for the junior agent post, Camille feels inadequate next to Eugenie's credentials. Despite Camille's moral objections, Noémie sets out to sabotage the applicant's interview. See you next time!"
+TRANSITION = "Now let's hear the entire dialogue once more to lock in what you have learned."
+OUTRO = "Facing stiff outside competition for the junior agent post, Camille feels inadequate next to Eugenie's credentials. Despite Camille's moral objections, Noemie sets out to sabotage the applicant's interview. See you next time!"
 CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('herve', 'Attends, viens là, Camille.', 'Wait, come over here, Camille.', [(313, 'Attends... viens là.')], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('noemie', "C'est comme ça que j'ai appris à contrôler mes émotions.", 'That is how I learned to control my emotions.', [(325, "C'est comme ça que j'ai appris à contrôler mes émotions.")], ''),
 ]
 WALK = [
-    (0, None, "'Wait, come over here, Camille.' Herve calls Camille over to discuss her interview."),
-    (1, None, "'Imitate Hicham at your interview? Shouldn't you be yourself?' Herve questions the psychological tactic."),
-    (2, None, "'My head is spinning.' Camille confesses her mounting panic."),
-    (3, None, "'The resumes of these candidates are Harvard level!' Camille marvels at the fierce competition."),
-    (4, None, "'You have the advantage of working here.' Noemie reminds Camille of her insider status."),
-    (5, None, "'Look, that is Eugenie Leon-Brun.' Noemie identifies the most formidable rival."),
-    (6, None, "'Law school, specialized in intellectual property.' Noemie recites Eugenie's stellar academic qualifications."),
-    (7, None, "'Three years in production, then two at VMA.' Noemie details Eugenie's extensive industry experience."),
-    (8, None, "'And plus she is pretty, Hicham is going to love her.' Noemie points out Eugenie's obvious appeal."),
-    (9, None, "'I can destabilize her if you want.' Noemie offers to take matters into her own hands."),
-    (10, None, "'You cannot do that, it is not done!' Camille refuses to win through dirty tricks."),
-    (11, None, "'Yes, that would be disgraceful. Still...' Noemie wavers between professional ethics and agency loyalty."),
-    (12, None, "'Go on, Noémie, crush the rival!' Herve enthusiastically encourages the sabotage."),
-    (13, None, "'I will talk to her about NLP and body language.' Noemie devises a psychological scheme."),
-    (14, None, "'Did you really take a training course?' Camille asks skeptically about Noemie's qualifications."),
-    (15, None, "'That is how I learned to control my emotions.' Noemie claims newfound emotional mastery. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'Wait, come over here, Camille.' Pairing 'wait' with 'come there' uses the everyday pointer meaning 'there' where English prefers 'over here'."),
+    (1, None, "'Imitate Hicham at your interview? Shouldn't you be yourself?' Joining '-same' onto stressed casual 'you' builds 'yourself' word-for-word in French."),
+    (2, None, "'My head is spinning.' Literally 'I have the head which turns', French frames dizziness as something you 'have' rather than saying 'my head spins'."),
+    (3, None, "'The resumes of these candidates are Harvard level!' French speakers use two-letter initials meaning 'course of life' for resumes, followed by 'of the level Harvard'."),
+    (4, None, "'You have the advantage of working here.' Notice the cognate 'advantage' linked by 'of' to the base action where English uses 'working'."),
+    (5, None, "'Look, that is Eugenie Leon-Brun.' Opening with casual 'look!' grabs Camille's attention, then 'it is' introduces the rival applicant by name in French."),
+    (6, None, "'Law school, specialized in intellectual property.' Here the word that means 'right' or 'straight' can mean 'law' as a university subject in French."),
+    (7, None, "'Three years in production, then two at VMA.' Before a company or person's workplace, French uses a special word meaning 'at the house of' rather than 'at'."),
+    (8, None, "'And plus she is pretty, Hicham is going to love her.' Where English needs 'it' or 'her' after 'love', casual French often lets 'adore' stand on its own at the end."),
+    (9, None, "'I can destabilize her if you want.' Notice how 'her' sits right ahead of 'destabilize' in French rather than after it, closed by 'if you want'."),
+    (10, None, "'You cannot do that, it is not done!' Literally 'that does not do itself', that closing idiom is what you'd say whenever a trick breaks unwritten social rules."),
+    (11, None, "'Yes, that would be disgraceful. Still...' Closing on a two-word chunk literally meaning 'when same' expresses 'even so' or 'all the same'."),
+    (12, None, "'Go on, Noemie, crush the rival!' Opening with a lively cheer that literally means 'go!' urges a friend forward, even when addressing just one person in French."),
+    (13, None, "'I will talk to her about NLP and body language.' Literally 'bodily language', French reverses the English order and tucks 'to her' ahead of 'speak'."),
+    (14, None, "'Did you really take a training course?' Watch out for a false friend: that final word looks like 'formation', yet in French it means 'training course'."),
+    (15, None, "'That is how I learned to control my emotions.' Learning 'to do' something takes the single-letter connector meaning 'at' or 'to' after 'learned' in French."),
 ]

@@ -121,7 +121,7 @@ WALK = [(0,
  (7,
   None,
   "'I'm really happy for you. One second. Hello?' The description happy is masculine for Gabriel. The word "
-  'for for introduces the person whose success pleases him; one second then politely interrupts the '
+  "for 'for' introduces the person whose success pleases him; one second then politely interrupts the "
   'conversation.'),
  (8,
   None,

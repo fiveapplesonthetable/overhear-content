@@ -15,7 +15,7 @@ INTRO = ('Gabriel offers Laura Smet a film script that he says is exclusive to h
  'director wants them both. In this shortened exchange, Gabriel relays what the other agents have explained. '
  'Listen to the complete French scene first, and then we will go through it together.')
 OPENER = "Let's take it apart. Laura sits down, and Gabriel puts a thick script in her hands."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "So Gabriel's 'exclusive' script was in Mathias's hands too. Right after this, Gabriel accuses Mathias of using spies to get it, and Mathias calmly says that a mother and daughter on one poster is good for the whole agency. See you next time!"
 CLOSING = ('nathalie', 'À demain!')
 STORY = [('laura',
@@ -76,62 +76,23 @@ STORY = [('laura',
   [(85, 'Non, elle ne sait rien du tout')],
   "Mathias answers in the source; folded into Gabriel's role for the three-voice lesson."),
  ('nathalie', 'Quelle aventure!', 'What an adventure!', [(85, 'Quelle aventure')], '')]
-WALK = [(0,
-  None,
-  "'A good story?' Notice the word for 'good' comes before the noun, like a few very common French "
-  'describing words.'),
- (1, None, "'It's a very good script.' Gabriel is so excited he can hardly sit still."),
- (2,
-  None,
-  "'Laura Smet, Solveig Akerfelt wants you for her next film.' He suddenly switches to the formal 'you', as "
-  "if making an official announcement. It's a joke: normally they use the casual one."),
- (3, None, "'No? That's amazing!' Laura can't believe it."),
- (4,
-  None,
-  "'She's coming to Paris tomorrow just to see you.' And now back to the casual 'you', just before the "
-  "action word 'to see'."),
- (5,
-  None,
-  "'Are there other actresses?' This phrase that means 'there is' or 'there are' doesn't change for the "
-  'plural.'),
- (6,
-  None,
-  'Gabriel insists that the offer is for Laura alone. The full casual pronoun is used for the person '
-  'addressed, either on its own or after a preposition.'),
- (7,
-  "C'est le seul exemplaire en France.",
-  "'It's the only copy in France.' The word for 'only' here comes before the noun."),
- (7,
-  "Je te jure, c'est une bombe!",
-  "'I swear, it's dynamite!' Literally 'I swear to you, it's a bomb'. In the show he swears quite a lot "
-  'more.'),
- (8,
-  None,
-  "'I can't wait to read it.' Literally 'I have haste to read it'. A very useful way to say you're looking "
-  'forward to something. Then, in the corridor, Laura sees her mother holding the very same script, with '
-  'Mathias.'),
- (9,
-  None,
-  "Laura throws Gabriel's promise of exclusivity back at him. The short tag at the end seeks agreement or "
-  'challenges him to confirm what he said.'),
- (10, None, "'Is it the same part?' The word for 'same' comes before the noun."),
- (11,
-  None,
-  "'No, the mother and the daughter.' The film has a mother and a daughter, and the director wants these "
-  'two.'),
- (12,
-  None,
-  "'We've always wanted to act together.' The everyday subject word refers to both women here, but it goes "
-  'with a singular helping word in French. Nathalie describes a wish they have shared for a long time.'),
- (13, None, "'It's great!' Laura uses a casual, cheerful word that is the same as in English."),
- (14,
-  None,
-  "'Does the director know we're mother and daughter?' The opening expression introduces a question that can be answered positively or negatively. French also has a feminine word for a woman directing a film, which fits the female director here."),
- (15,
-  None,
-  "'No, she doesn't know anything at all.' The negative word rules out any knowledge of the family "
-  'relationship. An extra expression at the end strengthens the denial.'),
- (16,
-  None,
-  "'What an adventure!' The word for 'what' takes a feminine ending here, to match 'adventure'. Here's the "
-  'whole scene again.')]
+WALK = [
+    (0, None, "'A good story?' Notice the expression for 'good' comes before the noun, like a few very common French describing words."),
+    (1, None, "'It's a very good script.' Gabriel is so excited he can hardly sit still."),
+    (2, None, "'Laura Smet, Solveig Akerfelt wants you for her next film.' He suddenly switches to the formal 'you', as if making an official announcement. It's a joke: normally they use the casual one."),
+    (3, None, "'No? That's amazing!' Laura can't believe it."),
+    (4, None, "'She's coming to Paris tomorrow just to see you.' And now back to the casual 'you', just before the action word 'to see'."),
+    (5, None, "'Are there other actresses?' This phrase that means 'there is' or 'there are' doesn't change for the plural."),
+    (6, None, "'Only you. It's for you!' Gabriel insists that the offer is for Laura alone. The full casual pronoun is used for the person addressed, either on its own or after a preposition."),
+    (7, "C'est le seul exemplaire en France.", "'It's the only copy in France.' The French word for 'only' here comes before the noun."),
+    (7, "Je te jure, c'est une bombe!", "'I swear, it's dynamite!' Literally 'I swear to you, it's a bomb'. In the show he swears quite a lot more."),
+    (8, None, "'I can't wait to read it.' Literally 'I have haste to read it'. A very useful way to say you're looking forward to something. Then, in the corridor, Laura sees her mother holding the very same script, with Mathias."),
+    (9, None, "'Exclusive, huh?' Laura throws Gabriel's promise of exclusivity back at him. The short tag at the end seeks agreement or challenges him to confirm what he said."),
+    (10, None, "'Is it the same part?' The French word for 'same' comes before the noun."),
+    (11, None, "'No, the mother and the daughter.' The film has a mother and a daughter, and the director wants these two."),
+    (12, None, "'We've always wanted to act together.' The everyday subject word refers to both women here, but it goes with a singular helping word in French. Nathalie describes a wish they have shared for a long time."),
+    (13, None, "'It's great!' Laura uses a casual, cheerful word that is the same as in English."),
+    (14, None, "'Does the director know we're mother and daughter?' The opening expression introduces a question that can be answered positively or negatively. French also has a feminine word for a woman directing a film, which fits the female director here."),
+    (15, None, "'No, she doesn't know anything at all.' The negative word rules out any knowledge of the family relationship. An extra expression at the end strengthens the denial."),
+    (16, None, "'What an adventure!' This expression for 'what' takes a feminine ending here, to match 'adventure'."),
+]

@@ -109,76 +109,25 @@ STORY = [('mathias',
   'He deserves it after eight years of tiring me out!',
   [(176, 'Il le mérite après huit ans à me')],
   'Learner adaptation, not a verbatim French transcript.')]
-WALK = [(0,
-  None,
-  "'Hello. Ah, there you are.' The expression announcing someone's arrival can put the word for you before "
-  'the pointer word. It means there you are, rather than you exist.'),
- (1,
-  None,
-  "'This is Marie-Sophie Garnier, head screenwriter on Happy Ever After.' Happy Ever After is the localized "
-  'English title used here. The French words mean nothing but happiness. Head screenwriter names the person '
-  'in charge of the writing, rather than an actor playing a part.'),
- (2,
-  None,
-  "'I know. What's going on? Is Jonathan Joubert causing a problem again?' The first short answer says he "
-  'already knows who the visitor is. The question then uses the expression about something happening, before '
-  'asking about another problem.'),
- (3,
-  None,
-  "'We're here to announce Jonathan's death.' The word for death is feminine, with the article before it. "
-  'The connecting word of introduces whose death they mean, where English can use a possessive ending.'),
- (4,
-  None,
-  "'In the series, I mean.' The action usually means hear, but here it clarifies what the speaker means. She "
-  "is distinguishing a fictional character's death from an actor's real life."),
- (5,
-  None,
-  "'Ryan is a darling of the public. You can't kill him!' The public's favourite is described with a "
-  'masculine noun. The little word for him stands before kill, naming the person Mathias wants to protect.'),
- (6,
-  None,
-  "'He's a bigger egoist than my first husband!' The comparison places more before the description and than "
-  'before the person used as the comparison. First agrees with the masculine word for husband.'),
- (7,
-  None,
-  "'I've been on the series for eight years.' French uses the present for a situation that began in the past "
-  'and continues now. The word connecting it to eight years gives the duration so far.'),
- (8,
-  None,
-  "'We work for a long time, and he changes all the lines.' The strong word for him stresses the contrast "
-  'with the writers. All is written in the feminine plural because it describes the lines he changes.'),
- (9,
-  None,
-  "'He wants to write, direct, choose his partners. It's hell!' The three actions remain in their basic "
-  'forms after wants. The possessive his changes shape because it goes with the plural word for partners.'),
- (10,
-  None,
-  "'I'm going to call him and fix that.' A form of go announces the plan. The little word for him attaches "
-  'before call, while the final word that refers back to the problem to be fixed.'),
- (11,
-  None,
-  "'No, we've already spoken to him. He doesn't listen at all!' The little word for to him stands before the "
-  'helper in the completed past. The ending at all strengthens the denial that he listens.'),
- (12,
-  None,
-  "'Let me talk to him.' The word for me attaches to the instruction let. The other small word for him "
-  'belongs before talk, so the two people have different jobs in the sentence.'),
- (13,
-  None,
-  "'Jonathan is going to die!' A form of go introduces the coming action die. She names the actor when she "
-  'means the character, showing how closely the dispute has tied them together.'),
- (14,
-  None,
-  "'Ryan.' A single name can correct the previous speaker. Arlette replaces the actor's name with the name "
-  'of the fictional character who is to die.'),
- (15,
-  None,
-  "'Of a terrible cancer.' The opening means of a and links back to die. The description comes after the "
-  'illness, whereas English places terrible before cancer.'),
- (16,
-  None,
-  "'He deserves it after eight years of tiring me out!' The little word for it comes before deserves and "
-  'points back to the punishment. After introduces the eight years that explain her anger.')]
+WALK = [
+    (0, None, "'Hello. Ah, there you are.' The expression announcing someone's arrival can put the word for you before the pointer word. It means there you are, rather than you exist."),
+    (1, None, "'This is Marie-Sophie Garnier, head screenwriter on Happy Ever After.' Happy Ever After is the localized English title used here. The French words mean nothing but happiness. Head screenwriter names the person in charge of the writing, rather than an actor playing a part."),
+    (2, None, "'I know. What's going on? Is Jonathan Joubert causing a problem again?' The first short answer says he already knows who the visitor is. The question then uses the expression about something happening, before asking about another problem."),
+    (3, None, "'We're here to announce Jonathan's death.' The word for death is feminine, with the article before it. The connecting word of introduces whose death they mean, where English can use a possessive ending."),
+    (4, None, "'In the series, I mean.' The action usually means hear, but here it clarifies what the speaker means. She is distinguishing a fictional character's death from an actor's real life."),
+    (5, None, "'Ryan is a darling of the public. You can't kill him!' The public's favourite is described with a masculine noun. One tiny word meaning him stands before kill, naming the person Mathias wants to protect."),
+    (6, None, "'He's a bigger egoist than my first husband!' The comparison places more before the description and than before the person used as the comparison. First agrees with the masculine word for husband."),
+    (7, None, "'I've been on the series for eight years.' French uses the present for a situation that began in the past and continues now. The word connecting it to eight years gives the duration so far."),
+    (8, None, "'We work for a long time, and he changes all the lines.' The strong word for him stresses the contrast with the writers. All is written in the feminine plural because it describes the lines he changes."),
+    (9, None, "'He wants to write, direct, choose his partners. It's hell!' The three actions remain in their basic forms after wants. The possessive his changes shape because it goes with the plural word for partners."),
+    (10, None, "'I'm going to call him and fix that.' A form of go announces the plan. The small word for him attaches before call, while the final word that refers back to the problem to be fixed."),
+    (11, None, "'No, we've already spoken to him. He doesn't listen at all!' The tiny word for to him stands before the helper in the completed past. The ending at all strengthens the denial that he listens."),
+    (12, None, "'Let me talk to him.' The word for me attaches to the instruction let. The other small word for him belongs before talk, so the two people have different jobs in the sentence."),
+    (13, None, "'Jonathan is going to die!' A form of go introduces the coming action die. She names the actor when she means the character, showing how closely the dispute has tied them together."),
+    (14, None, "'Ryan.' A single name can correct the previous speaker. Arlette replaces the actor's name with the name of the fictional character who is to die."),
+    (15, None, "'Of a terrible cancer.' The opening means of a and links back to die. The description comes after the illness, whereas English places terrible before cancer."),
+    (16, None, "'He deserves it after eight years of tiring me out!' That short word for it comes before deserves and points back to the punishment. After introduces the eight years that explain her anger."),
+]
 SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the '
  'bilingual working subtitles, whose French track is backtranslated; source video and separate '
  'original-audio checks verify roles, plot and register.')

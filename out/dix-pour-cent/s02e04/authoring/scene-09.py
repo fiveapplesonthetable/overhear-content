@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At the music studio, Julien Dore welcomes Sofia to record their duet while Gabriel accompanies her. Julien gently asks Gabriel to wait outside so the vocal booth stays intimate and focused. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
+TRANSITION = "Now let's hear the entire dialogue once more to lock in what you have learned."
 OUTRO = "Julien Dore establishes an intimate recording environment for Sofia, isolating her from Gabriel's watchful agency eye. Sofia steps up to the microphone, ready to launch her musical career. See you next time!"
 CLOSING = ('sofia', 'À bientôt!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('sofia', "D'accord, je suis prête.", 'Okay, I am ready.', [(250, "D'accord.")], ''),
 ]
 WALK = [
-    (0, None, "'Hi Julien. Mathias could not make it.' Gabriel announces Mathias's absence casually."),
-    (1, None, "'Okay, no problem.' Julien accepts the situation smoothly."),
-    (2, None, "'Welcome, Sofia. How are you?' Julien greets Sofia warmly."),
-    (3, None, "'Hi, I am doing very well.' Sofia returns the friendly greeting."),
-    (4, None, "'I made a few different arrangements for the song.' Julien reveals his creative work."),
-    (5, None, "'Your voice inspired me so much...' Julien compliments the actress warmly on her inspiring voice."),
-    (6, None, "'Oh really? Thank you very much.' Sofia responds with modest gratitude."),
-    (7, None, "'This way, come along.' Julien directs Sofia toward the recording area."),
-    (8, None, "'Sorry, Gabriel, I prefer working in peace here.' Julien gently excludes Gabriel."),
-    (9, None, "'All right, see you in a bit.' Gabriel steps back politely."),
-    (10, None, "'Here we are, this is the most important room in the studio.' Julien highlights the sacred space."),
-    (11, None, "'The most intimate. I will let you go in.' Julien ushers Sofia into the vocal chamber."),
-    (12, None, "'Thank you, it is very impressive.' Sofia admires the professional setting."),
-    (13, None, "'Here are your headphones.' Julien hands her the audio gear."),
-    (14, None, "'Relax, everything is fine. Whenever you are ready.' Julien offers warm reassurance."),
-    (15, None, "'Okay, I am ready.' Sofia collects herself to perform. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'Hi Julien. Mathias could not make it.' Opening with an informal greeting that can mean both 'hi' and 'bye', Gabriel says literally 'has not been able to come'."),
+    (1, None, "'Okay, no problem.' Dropping any action word, 'not of problem' is a handy phrase you'll hear constantly to brush off a minor hiccup."),
+    (2, None, "'Welcome, Sofia. How are you?' Built from 'well' and 'come', the greeting mirrors English 'welcome' piece by piece, followed by casual 'it goes?'."),
+    (3, None, "'Hi, I am doing very well.' Answering 'it goes?' with those exact same two words plus 'very well' is the easiest natural exchange in French."),
+    (4, None, "'I made a few different arrangements for the song.' Notice how 'a few' stands ahead of the cognate 'arrangements' while 'different' comes after it in French."),
+    (5, None, "'Your voice inspired me so much...' Placing the intensifier meaning 'so much' right between 'has' and 'inspired' gives Julien's compliment warm musical emphasis in French."),
+    (6, None, "'Oh really? Thank you very much.' Literally 'ah yes?', those two tiny words work just like 'oh really?' when reacting with pleased surprise."),
+    (7, None, "'This way, come along.' Literally 'by here', that directional chunk pairs with a polite 'you' command as Julien shifts into studio-host mode."),
+    (8, None, "'Sorry, Gabriel, I prefer working in peace here.' Starting with bare 'sorry' rather than 'I am sorry' sounds brisk and natural, while 'at the calm' means 'in peace and quiet'."),
+    (9, None, "'All right, see you in a bit.' Saying 'until right at the hour' is the standard French farewell when you'll see someone again later the same day."),
+    (10, None, "'Here we are, this is the most important room in the studio.' Beyond 'piece' or 'play', that central word means 'room', followed by 'of the studio' where English says 'in'."),
+    (11, None, "'The most intimate. I will let you go in.' Julien uses polite 'you' with Sofia even inside a cozy recording booth, keeping respectful professional poise."),
+    (12, None, "'Thank you, it is very impressive.' Even when praising a feminine 'room' just named, general reactions after 'it is' stay in the default neutral shape in French."),
+    (13, None, "'Here are your headphones.' One single item that originally means 'helmet' covers a pair of studio headphones in French."),
+    (14, None, "'Relax, everything is fine. Whenever you are ready.' Built on 'un-stretch yourself', the polite command 'relax' precedes 'ready' with a sounded final 't' for Sofia."),
+    (15, None, "'Okay, I am ready.' Sofia echoes that same sounded 't' at the close of 'ready' to match herself as the speaker in French."),
 ]

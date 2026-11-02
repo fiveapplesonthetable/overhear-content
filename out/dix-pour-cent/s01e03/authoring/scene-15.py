@@ -15,7 +15,7 @@ INTRO = ('Actresses Nathalie Baye and Laura Smet pretend to be pleased about the
  "combines the agents' greeting; I will explain what happens in Gabriel's office. Listen to the polite "
  'conversation turn into two protests.')
 OPENER = "Let's go through it line by line. Mother and daughter are in the lift, each waiting for the other to blink first."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'So neither mother nor daughter wants to spend three months trapped with the other, and next they have to confess it in the same room. See you next time!'
 CLOSING = ('laura', 'Bonne journée!')
 STORY = [('nathalie',
@@ -74,66 +74,22 @@ STORY = [('nathalie',
   "It's very beautiful, but I only want to act this role!",
   [(373, "Oui, c'est ça qui est beau. Je veux le jouer"), (374, 'pas le vivre')],
   '')]
-WALK = [(0,
-  None,
-  "'It's a great script, isn't it?' Putting the word for 'no' at the end of a statement turns it into 'isn't "
-  "it?' or 'right?'."),
- (1,
-  "Oui, c'est fort!",
-  "'Yes, it's powerful!' Literally 'it is strong', a common way to praise a story or performance."),
- (1,
-  "Mais tu n'aimes pas le froid.",
-  "'But you don't like the cold.' Laura tries gently to put her mother off the shoot."),
- (2,
-  None,
-  "'Doesn't that worry you?' The little word for 'you' shrinks before the action word because the action "
-  'word starts with a vowel.'),
- (3,
-  None,
-  "'No, it can create something intense.' After the phrase for 'something', French always links the "
-  "describing word with a short word meaning 'of'."),
- (4,
-  None,
-  "'We're together in every scene. That's a lot.' Laura tries a second hint, and still her mother doesn't "
-  'budge.'),
- (5,
-  None,
-  "'Stand up straight.' Literally 'hold yourself straight'. Even in the lift, Nathalie cannot stop mothering "
-  'her thirty-year-old daughter.'),
- (6,
-  None,
-  "'Hello, Nathalie. Hello, Laura. Shall we go?' Literally 'we go there?'. Mathias and Gabriel are waiting "
-  'outside the lift.'),
- (7,
-  None,
-  "'Mathias, can I see you alone first?' This phrase at the end means 'first of all'. Meanwhile Laura asks "
-  'Gabriel for the exact same private chat.'),
- (8, None, "'Of course.' Literally 'well sure'. The doors close on two separate offices."),
- (9,
-  None,
-  "'Three months with her, no!' The full form meaning 'her' follows 'with'. The same form can mean 'she' "
-  'when it stands before an action. Laura is imagining the long shoot with her mother.'),
- (10,
-  None,
-  "'Impossible! Why didn't you warn me?' The past form at the end has a feminine letter because the "
-  'shortened object word before the auxiliary refers to Nathalie.'),
- (11,
-  None,
-  "'But you get on very well!' Literally 'you hear each other very well'. In French, getting along with "
-  'someone is understanding or hearing each other.'),
- (12,
-  None,
-  "'Yes, we get on well.' The everyday word for 'we' takes a singular verb form. The small object word "
-  "before 'understand' makes this the expression 'get on with each other'."),
- (13,
-  None,
-  "'A mother and her daughter alone for three months is too long!' The adjective meaning 'alone' has a "
-  'feminine plural ending, because it describes both women together.'),
- (14,
-  None,
-  "'But that's the script!' Mathias uses the definite article before 'script': it is the particular story "
-  'they have both read. He thinks their tension makes them ideal for it.'),
- (15,
-  None,
-  "'It's very beautiful, but I only want to act this role!' The action word for playing a game also means "
-  'performing a role. Nathalie is willing to act the family conflict, but does not want to live through it.')]
+WALK = [
+    (0, None, "'It's a great script, isn't it?' Putting the expression for 'no' at the end of a statement turns it into 'isn't it?' or 'right?'."),
+    (1, "Oui, c'est fort!", "'Yes, it's powerful!' Literally 'it is strong', a common way to praise a story or performance."),
+    (1, "Mais tu n'aimes pas le froid.", "'But you don't like the cold.' Laura tries gently to put her mother off the shoot."),
+    (2, None, "'Doesn't that worry you?' The little word for 'you' shrinks before the action word because the action word starts with a vowel."),
+    (3, None, "'No, it can create something intense.' After the expression for 'something', French always links the describing word with a short word meaning 'of'."),
+    (4, None, "'We're together in every scene. That's a lot.' Laura tries a second hint, and still her mother doesn't budge."),
+    (5, None, "'Stand up straight.' Literally 'hold yourself straight'. Even in the lift, Nathalie cannot stop mothering her thirty-year-old daughter."),
+    (6, None, "'Hello, Nathalie. Hello, Laura. Shall we go?' Literally 'we go there?'. Mathias and Gabriel are waiting outside the lift."),
+    (7, None, "'Mathias, can I see you alone first?' This phrase at the end means 'first of all'. Meanwhile Laura asks Gabriel for the exact same private chat."),
+    (8, None, "'Of course.' Literally 'well sure'. The doors close on two separate offices."),
+    (9, None, "'Three months with her, no!' The full form meaning 'her' follows 'with'. The same form can mean 'she' when it stands before an action. Laura is imagining the long shoot with her mother."),
+    (10, None, "'Impossible! Why didn't you warn me?' The past form at the end has a feminine letter because the shortened object word before the auxiliary refers to Nathalie."),
+    (11, None, "'But you get on very well!' Literally 'you hear each other very well'. In French, getting along with someone is understanding or hearing each other."),
+    (12, None, "'Yes, we get on well.' The everyday word for 'we' takes a singular verb form. The small object word before 'understand' makes this the expression 'get on with each other'."),
+    (13, None, "'A mother and her daughter alone for three months is too long!' The adjective meaning 'alone' has a feminine plural ending, because it describes both women together."),
+    (14, None, "'But that's the script!' Mathias uses the definite article before 'script': it is the particular story they have both read. He thinks their tension makes them ideal for it."),
+    (15, None, "'It's very beautiful, but I only want to act this role!' The action word for playing a game also means performing a role. Nathalie is willing to act the family conflict, but does not want to live through it."),
+]

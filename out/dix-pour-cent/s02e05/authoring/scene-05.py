@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the hallway at ASK, Hervé teases Camille following the explosive revelation about her parentage. Camille struggles with how her colleagues perceive her, while Hervé tries to cheer her up with movie references. Let's listen to the scene in French first."
 OPENER = "Let's examine how Hervé and Camille discuss her new status step by step to understand the humor and emotion."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "Hervé uses humor and cinema references to cheer up Camille as she adjusts to life in the spotlight at ASK. Let's review the conversational phrases and vocabulary from this scene. See you next time!"
 CLOSING = ('herve', 'À demain!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('herve', "On t'aime quand même, Camillette!", 'We love you anyway, Camillette!', [(153, "mais on l'aime quand même. On t'aime quand même.")], ''),
 ]
 WALK = [
-    (0, None, "'Stop it, Jean Gabin, it's Camille!' Herve jokingly calls Camille by the legendary French actor's name."),
-    (1, None, "'Do not hold it against him too much.' Camille urges Herve not to be too hard on the colleague venting frustration."),
-    (2, None, "'He transfers his hatred for Mathias to you.' Herve points out how office resentment against Mathias falls on Camille."),
-    (3, None, "'It is horrible, I have become someone else.' Camille describes feeling like an entirely different person."),
-    (4, None, "'Nobody at the agency recognizes me.' Camille feels alienated by how differently her coworkers now treat her."),
-    (5, None, "'It is like in the movie The Mustache.' Herve brings up a famous French film about unrecognized identity."),
-    (6, None, "'The guy shaves, nobody notices.' Herve summarizes the absurd plot of the movie."),
-    (7, None, "'No, it is exactly the opposite.' Camille corrects him, noting that in her case everyone imagines a huge change."),
-    (8, None, "'Everyone thinks that I have changed.' Camille laments that people look past her actual personality."),
-    (9, None, "'Mathias being my father changes nothing.' Camille insists that her relationship to Mathias does not alter who she is."),
-    (10, None, "'It is rather like in Blade Runner.' Herve switches to a sci-fi reference about discovering an android identity."),
-    (11, None, "'When you find out that he is a replicant.' Herve playfully compares Mathias's lineage to an artificial creation."),
-    (12, None, "'We love you anyway, Camillette!' Herve uses an affectionate nickname to reassure Camille of his loyalty. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Stop it, Jean Gabin, it's Camille!' Herve calls out 'stop!' in the casual 'you' command, teasing a scowling coworker via the surname of cinema's classic tough guy."),
+    (1, None, "'Do not hold it against him too much.' That whole line turns on a classic French idiom: literally 'wanting of it to someone' means holding a grudge against them."),
+    (2, None, "'He transfers his hatred for Mathias to you.' Notice how 'his' before 'hatred' matches the thing owned rather than the male speaker — unlike English, where 'his' tracks the owner."),
+    (3, None, "'It is horrible, I have become someone else.' Word for word, Camille says 'I am become an other' — 'become' pairs with 'am' rather than 'have' in the past."),
+    (4, None, "'Nobody at the agency recognizes me.' Here 'recognize' is built from 're-' plus 'to know' — literally 'knowing someone again' when you see them."),
+    (5, None, "'It is like in the movie The Mustache.' One versatile connector covers both 'like' and 'as' in French, while the title word is the exact source of English 'mustache'."),
+    (6, None, "'The guy shaves, nobody notices.' Calling a man 'the type' is breezy everyday French for 'the guy', and 'shaves' literally says 'shaves himself'."),
+    (7, None, "'No, it is exactly the opposite.' Where English says 'the opposite', French reaches for a cognate of 'contrary' — a handy chunk whenever you want to flip someone's point around."),
+    (8, None, "'Everyone thinks that I have changed.' Literally 'all the world thinks': French expresses 'everyone' through 'all the world' and treats it as a single unit."),
+    (9, None, "'Mathias being my father changes nothing.' Opening with 'that Mathias be my father' packages the whole fact as the subject, while 'not ... nothing' wraps around 'changes'."),
+    (10, None, "'It is rather like in Blade Runner.' That word meaning 'rather' comes from 'more' fused with 'soon' — much like English saying 'I would sooner compare it to this'."),
+    (11, None, "'When you find out that he is a replicant.' French uses impersonal 'one' where English uses general 'you' for a viewer watching a movie, and 'find out' literally means 'uncover'."),
+    (12, None, "'We love you anyway, Camillette!' Literally 'when same', that two-word expression is how you'll hear French speakers say 'all the same' or 'anyway', topped off by an affectionate '-ette' nickname."),
 ]

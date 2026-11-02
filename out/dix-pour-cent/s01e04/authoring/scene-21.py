@@ -14,7 +14,7 @@ INTRO = ('Audrey takes a pole-dancing class with her children nearby. She then p
  'discuss the contracts. She also wants his opinion on a questionnaire for prospective nannies. First, listen in '
  'French.')
 OPENER = "Let's go through the scene step by step. The dance coach asks if Audrey is ready, and Audrey apologises for her ordinary sports clothes."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Audrey has begun preparing for the film, but home practice and childcare keep colliding. After Mathias reads '
  'her nanny questionnaire, she expects to meet an applicant at her flat. See you next time!')
 CLOSING = ('audrey', "À tout à l'heure!")
@@ -85,66 +85,22 @@ STORY = [('audrey',
   'Tell me what you think of it.',
   [(571, 'Dis-moi ce que tu en penses')],
   'Original French audio checked: register/speaker corrected from backtranslated SRT.')]
-WALK = [(0,
-  None,
-  "'I didn't have time to buy an outfit.' Literally 'I have not had the time to buy'. With two small children, "
-  'she barely has a minute to herself.'),
- (1,
-  "J'ai un mois.",
-  "'I have one month.' The word for month looks the same in the singular and plural. Here the word before it "
-  'means one, so Audrey has a single month before filming.'),
- (1,
-  "J'ai déjà fait ça, mais il y a longtemps.",
-  "'I've done it before, but a long time ago.' Notice how 'ago' is expressed with the little phrase that usually "
-  "means 'there is'."),
- (2,
-  None,
-  "'Sweetheart! Mummy didn't do it on purpose!' Literally 'my heart!'. The last two words mean 'on purpose'."),
- (3,
-  None,
-  "'Let me see, darling. Did I hurt you?' Literally 'did I do bad to you?'. Audrey is practising at home now, "
-  'where her child is playing close to the pole. She checks immediately that the child is all right.'),
- (4, None, "'Hello, Mathias. Thank you for coming.' Literally 'thank you for having come'."),
- (5,
-  None,
-  "'Crossing Paris with the children is hard.' The plain action 'to cross' acts as the subject of the sentence. "
-  "English naturally uses the ending in 'crossing' for that same job."),
- (6,
-  None,
-  "'No problem, Audrey.' This short reply has no full action word. Its negative meaning still reduces the article "
-  "before 'problem', just as in a longer negative sentence."),
- (7,
-  'Dis bonjour à Mathias.',
-  "'Say hello to Mathias.' The first word is a casual command for one child. The little word before Mathias marks "
-  'the person who should receive the greeting.'),
- (7,
-  "Mais c'est quoi ces bêtises?",
-  "'Hey, what is this nonsense?' The last word means 'silly things' or 'nonsense'."),
- (8,
-  None,
-  "'She senses that I'm leaving. Children are like sponges.' The word for 'like' introduces a comparison. Audrey "
-  'compares children absorbing emotions with sponges absorbing water.'),
- (9,
-  None,
-  "'I've brought five copies of the contracts.' The word for copies is a noun here. The short combined word "
-  "before contracts means 'of the', linking the copies to those documents."),
- (10,
-  None,
-  "'Wait a second. This is a questionnaire for the nanny.' Audrey interrupts the contract discussion with a "
-  'polite request for a brief pause. The last phrase names the person she hopes to hire.'),
- (11,
-  None,
-  "'Do you have a problem with alcohol, Coca-Cola, sweets?' The order of 'have' and 'you' is reversed to make a "
-  'formal written question. Mathias is reading the nanny questionnaire aloud.'),
- (12,
-  None,
-  "'What? Sweets?' Repeating the surprising item is enough to question it. The French word is plural here; "
-  "English can call the same food 'sweets' or 'candy'."),
- (13,
-  None,
-  "'Sugar is very bad! I saw a documentary.' Audrey uses 'I have seen' to describe a completed past viewing. The "
-  "past form of 'see' sounds very different from the present 'I see'."),
- (14,
-  None,
-  "'Tell me what you think of it.' Audrey asks Mathias for his opinion using polite address. The short object "
-  'before thinking refers back to the questionnaire.')]
+WALK = [
+    (0, None, "'I didn't have time to buy an outfit.' Literally 'I have not had the time to buy'. With two small children, she barely has a minute to herself."),
+    (1, "J'ai un mois.", "'I have one month.' The word for month looks the same in the singular and plural. Here the word before it means one, so Audrey has a single month before filming."),
+    (1, "J'ai déjà fait ça, mais il y a longtemps.", "'I've done it before, but a long time ago.' Notice how 'ago' is expressed with the little phrase that usually means 'there is'."),
+    (2, None, "'Sweetheart! Mummy didn't do it on purpose!' Literally 'my heart!'. The last two words mean 'on purpose'."),
+    (3, None, "'Let me see, darling. Did I hurt you?' Literally 'did I do bad to you?'. Audrey is practising at home now, where her child is playing close to the pole. She checks immediately that the child is all right."),
+    (4, None, "'Hello, Mathias. Thank you for coming.' Literally 'thank you for having come'."),
+    (5, None, "'Crossing Paris with the children is hard.' The plain action 'to cross' acts as the subject of the sentence. English naturally uses the ending in 'crossing' for that same job."),
+    (6, None, "'No problem, Audrey.' This short reply has no full action word. Its negative meaning still reduces the article before 'problem', just as in a longer negative sentence."),
+    (7, 'Dis bonjour à Mathias.', "'Say hello to Mathias.' The first word is a casual command for one child. The little word before Mathias marks the person who should receive the greeting."),
+    (7, "Mais c'est quoi ces bêtises?", "'Hey, what is this nonsense?' The last word means 'silly things' or 'nonsense'."),
+    (8, None, "'She senses that I'm leaving. Children are like sponges.' This expression for 'like' introduces a comparison. Audrey compares children absorbing emotions with sponges absorbing water."),
+    (9, None, "'I've brought five copies of the contracts.' The word for copies is a noun here. The short combined word before contracts means 'of the', linking the copies to those documents."),
+    (10, None, "'Wait a second. This is a questionnaire for the nanny.' Audrey interrupts the contract discussion with a polite request for a brief pause. The last phrase names the person she hopes to hire."),
+    (11, None, "'Do you have a problem with alcohol, Coca-Cola, sweets?' The order of 'have' and 'you' is reversed to make a formal written question. Mathias is reading the nanny questionnaire aloud."),
+    (12, None, "'What? Sweets?' Repeating the surprising item is enough to question it. The French word is plural here; English can call the same food 'sweets' or 'candy'."),
+    (13, None, "'Sugar is very bad! I saw a documentary.' Audrey uses 'I have seen' to describe a completed past viewing. The past form of 'see' sounds very different from the present 'I see'."),
+    (14, None, "'Tell me what you think of it.' Audrey asks Mathias for his opinion using polite address. The short object before thinking refers back to the questionnaire."),
+]

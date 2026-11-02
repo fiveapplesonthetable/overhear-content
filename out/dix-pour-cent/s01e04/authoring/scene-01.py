@@ -14,7 +14,7 @@ INTRO = ('Audrey brings her baby to the tax office with her agent, Mathias. Her 
  'hopes to talk their way out of trouble. Listen to the whole scene in French first; we will unpack it together '
  'afterwards.')
 OPENER = "Let's go back through it step by step. Audrey is carrying her baby son down the corridor as she tries to keep up with Mathias."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("Audrey's comeback has become an urgent promise. You heard how to describe a late payment, contradict a negative "
  'question and add an extra amount. Listen for those patterns when you meet them again. See you next time!')
 CLOSING = ('audrey', 'Au revoir!')
@@ -87,72 +87,23 @@ STORY = [('audrey',
   'I expect your cheque this week, with ten percent extra.',
   [(47, "J'attends votre chèque cette semaine"), (48, 'majoration de 10 %')],
   'Shortened into one sentence; the source surcharge is ten percent.')]
-WALK = [(0,
-  'Attendez, vous marchez vite.',
-  "'Wait, you're walking fast.' Audrey uses a polite command, followed by the matching polite form of 'you walk'. "
-  'She is worried about waking her baby.'),
- (0,
-  'Je ne veux pas le réveiller.',
-  "'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before "
-  "the action word 'to wake'."),
- (1,
-  "Il n'a pas dormi de la nuit.",
-  "'He didn't sleep all night.' French uses a negative statement about sleeping, followed by an expression that "
-  'covers the whole night.'),
- (1,
-  'Il fait ses dents.',
-  "'He's teething.' The baby is teething. French describes this literally as making his teeth."),
- (2,
-  None,
-  "'We're not taking any risks. Let me do the talking.' The negative word after the action means 'not any'. The "
-  'command keeps polite address to one person. Mathias expects a familiar inspector, but a stricter replacement '
-  'is now at the desk.'),
- (3, None, "'Is he your husband?' The inspector uses the polite 'your' as they sit down."),
- (4,
-  None,
-  "'No, her agent.' The possessive follows the gender of the job title, not the owner. A male agent therefore "
-  'takes the same form whether he represents a woman or a man.'),
- (5,
-  None,
-  "'Madam, you are twenty-three months late.' French describes lateness as having an amount of delay. The number "
-  'of months tells us how long the payment has been overdue.'),
- (6,
-  None,
-  "'Yes, but at least I pay my taxes in France!' Listen for the two-word expression meaning 'at least'. It sets a "
-  'minimum positive point against the bad news about her late payment.'),
- (7,
-  None,
-  "'Audrey had two children in three years.' You hear two forms of 'to have' together: the short helping word, "
-  "then the past form meaning 'had'. Both children were born within those three years."),
- (8,
-  None,
-  "'Now she wants to find work again and pay her taxes.' The French verb for finding again has a prefix that "
-  'marks repetition. English does something similar with the word redo, meaning to do again.'),
- (9,
-  None,
-  "'You can't find work, madam?' After a negative expression, this little French word shortens. The sentence asks "
-  'whether she can find any work at all.'),
- (10,
-  None,
-  "'Of course she can!' French has a special affirmative response for contradicting a negative question. Mathias "
-  'uses it to reject the suggestion that Audrey cannot find work.'),
- (11,
-  None,
-  "'But you turned down a role in an action film.' Here 'you have' helps make a past action: 'you refused'. It "
-  'does not mean that she currently owns something.'),
- (12,
-  None,
-  "'I couldn't run after zombies!' The form of 'can' places her inability in the past. The word after 'run' means "
-  "'after' here, as in chasing someone."),
- (13,
-  None,
-  "'Audrey's return to a film shoot is imminent.' The short linking sound before her name connects the return "
-  'with Audrey. Mathias promises that she will be back on set very soon.'),
- (14,
-  None,
-  "'Yes, it's a huge project.' The describing word comes after 'project'. It has the same spoken form for a "
-  'masculine or feminine thing, so you can reuse it to describe either kind of thing.'),
- (15,
-  None,
-  "'I expect your cheque this week, with ten percent extra.' At the end, the word for 'more' means an added "
-  "amount. It does not mean 'no longer': there is no negative around it.")]
+WALK = [
+    (0, 'Attendez, vous marchez vite.', "'Wait, you're walking fast.' Audrey uses a polite command, followed by the matching polite form of 'you walk'. She is worried about waking her baby."),
+    (0, 'Je ne veux pas le réveiller.', "'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before the action word 'to wake'."),
+    (1, "Il n'a pas dormi de la nuit.", "'He didn't sleep all night.' French uses a negative statement about sleeping, followed by an expression that covers the whole night."),
+    (1, 'Il fait ses dents.', "'He's teething.' The baby is teething. French describes this literally as making his teeth."),
+    (2, None, "'We're not taking any risks. Let me do the talking.' The negative word after the action means 'not any'. The command keeps polite address to one person. Mathias expects a familiar inspector, but a stricter replacement is now at the desk."),
+    (3, None, "'Is he your husband?' The inspector uses the polite 'your' as they sit down."),
+    (4, None, "'No, her agent.' The possessive follows the gender of the job title, not the owner. A male agent therefore takes the same form whether he represents a woman or a man."),
+    (5, None, "'Madam, you are twenty-three months late.' French describes lateness as having an amount of delay. The number of months tells us how long the payment has been overdue."),
+    (6, None, "'Yes, but at least I pay my taxes in France!' Listen for the two-word expression meaning 'at least'. It sets a minimum positive point against the bad news about her late payment."),
+    (7, None, "'Audrey had two children in three years.' You hear two forms of 'to have' together: the short helping word, then the past form meaning 'had'. Both children were born within those three years."),
+    (8, None, "'Now she wants to find work again and pay her taxes.' The French verb for finding again has a prefix that marks repetition. English does something similar with the word redo, meaning to do again."),
+    (9, None, "'You can't find work, madam?' After a negative expression, this little French word shortens. The sentence asks whether she can find any work at all."),
+    (10, None, "'Of course she can!' French has a special affirmative response for contradicting a negative question. Mathias uses it to reject the suggestion that Audrey cannot find work."),
+    (11, None, "'But you turned down a role in an action film.' Here 'you have' helps make a past action: 'you refused'. It does not mean that she currently owns something."),
+    (12, None, "'I couldn't run after zombies!' The form of 'can' places her inability in the past. The word after 'run' means 'after' here, as in chasing someone."),
+    (13, None, "'Audrey's return to a film shoot is imminent.' The short linking sound before her name connects the return with Audrey. Mathias promises that she will be back on set very soon."),
+    (14, None, "'Yes, it's a huge project.' The describing word comes after 'project'. It has the same spoken form for a masculine or feminine thing, so you can reuse it to describe either kind of thing."),
+    (15, None, "'I expect your cheque this week, with ten percent extra.' At the end, the French word for 'more' means an added amount. It does not mean 'no longer': there is no negative around it."),
+]

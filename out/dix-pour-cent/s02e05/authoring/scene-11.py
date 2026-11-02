@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the hallway at ASK, Hervé confronts Camille after her sudden promotion to junior agent. Feeling deeply betrayed and suspecting nepotism, Hervé bitterly accuses her of stealing the job behind his back. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "Hervé vents his bitter disappointment at being passed over for the junior agent post, accusing Camille of benefiting from family nepotism. Camille is left heartbroken by her friend's fierce anger. See you next time!"
 CLOSING = ('herve', 'Bonne soirée!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('herve', 'Tu as pris ma place, Camille.', 'You took my place, Camille.', [(323, "C'était Hicham.")], ''),
 ]
 WALK = [
-    (0, None, "'Here it is, and he that was called Judas!' Herve summons Camille with ominous biblical solemnity."),
-    (1, None, "'Judas Barneville, daughter of Mathias!' Herve delivers his biting personal accusation."),
-    (2, None, "'Hervé, stop... I am sorry.' Camille tries to apologize for the unexpected promotion."),
-    (3, None, "'Let me finish! You betrayed your friends.' Herve cuts off her defense angrily."),
-    (4, None, "'It was Hicham. I never asked for it.' Camille explains that the decision came entirely from Hicham."),
-    (5, None, "'Did you really never want to take his place?' Herve demands a moral confession."),
-    (6, None, "'At first, a little. But I never put myself forward as a candidate.' Camille admits her private longing honestly."),
-    (7, None, "'Not to your father?' Herve suspects family lobbying behind closed doors."),
-    (8, None, "'No. In passing, maybe, but that is all.' Camille downplays any casual conversation."),
-    (9, None, "'Now it all makes sense! It was all premeditated.' Herve fits the conspiracy pieces together."),
-    (10, None, "'Not at all! That is not true.' Camille denies any underhanded calculation."),
-    (11, None, "'Yes! Mathias pulled strings for his daughter!' Herve accuses Mathias of blatant nepotism."),
-    (12, None, "'He influenced Hicham to pick you!' Herve asserts Mathias's hidden leverage over the agency boss."),
-    (13, None, "'And Miss Judas was telling me that it is bad to trip up others!' Herve mocks Camille's earlier moral advice."),
-    (14, None, "'Stop, Hervé! I did not want to hurt you.' Camille pleads for understanding."),
-    (15, None, "'You took my place, Camille.' Herve states his deep feeling of professional loss. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'Here it is, and he that was called Judas!' That dramatic opener is built from 'see' fused with 'here' — literally 'see-here!' — followed by 'the one whom one called'."),
+    (1, None, "'Judas Barneville, daughter of Mathias!' One single word in French can mean both 'girl' and 'daughter', used bare without 'the' to sound like a mock royal title."),
+    (2, None, "'Hervé, stop... I am sorry.' Literally 'I am desolate', that closing apology sounds far more natural and everyday in French than its dramatic English cognate suggests."),
+    (3, None, "'Let me finish! You betrayed your friends.' Joining 'me' onto 'leave' with a hyphen gives the handy chunk 'let me', while 'betrayed' shares its root with English 'traitor'."),
+    (4, None, "'It was Hicham. I never asked for it.' Literally 'I never sought it': the action meaning 'look for' already has 'for' baked inside it in French."),
+    (5, None, "'Did you really never want to take his place?' In French offices, 'taking someone's place' is the standard expression for stepping into a role another person wanted."),
+    (6, None, "'At first, a little. But I never put myself forward as a candidate.' Notice 'at the debut' meaning 'at first', followed by an expression that literally means 'carried myself candidate'."),
+    (7, None, "'Not to your father?' Rather than plain 'to', Herve chooses a compound built on 'near', which in French implies putting in a word with someone influential."),
+    (8, None, "'No. In passing, maybe, but that is all.' English borrowed 'in passing' straight from this French expression, and 'maybe' is literally built from 'can-be'."),
+    (9, None, "'Now it all makes sense! It was all premeditated.' Literally 'now everything explains itself!', that punchy idiom is what you'd say whenever a mystery clicks into place."),
+    (10, None, "'Not at all! That is not true.' Pairing 'not of the all' and 'that is not true' gives Camille a double denial you'll hear in almost every heated French argument."),
+    (11, None, "'Yes! Mathias pulled strings for his daughter!' To contradict a negative claim, French swaps in a special counter-'yes!', and 'pulling strings' comes from an engine 'piston' boosting someone upward."),
+    (12, None, "'He influenced Hicham to pick you!' At the end, 'in order to pick you' arranges the pieces in French as 'for you to-choose', tucking 'you' ahead of 'choose'."),
+    (13, None, "'And Miss Judas was telling me that it is bad to trip up others!' When judging behavior as morally wrong rather than poor quality, French says 'it is bad of' before the action."),
+    (14, None, "'Stop, Hervé! I did not want to hurt you.' Beware a startling false friend at the end: it looks just like English 'bless', yet in French it means 'to wound' or 'hurt'."),
+    (15, None, "'You took my place, Camille.' French expresses 'you took' as 'you have taken', built around a short cousin of English 'surprise' and 'prize'."),
 ]

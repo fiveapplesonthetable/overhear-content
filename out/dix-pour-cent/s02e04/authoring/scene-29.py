@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In the aftermath of the collapsed meeting, the agency partners corner Camille, demanding answers. As Hicham threatens to fire her on the spot, Mathias steps in and reveals a life-altering truth. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the shocking revelation of Mathias step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
 OUTRO = 'With Mathias finally admitting that Camille is his secret daughter, the entire balance of power at ASK is turned upside down. See you next time!'
 CLOSING = ('hicham', 'À bientôt!')
 STORY = [
@@ -35,21 +35,21 @@ STORY = [
     ('hicham', "Je suis tout à fait d'accord.", 'I completely agree.', [(946, "Je suis tout à fait d'accord")], ''),
 ]
 WALK = [
-    (0, None, "'Camille, give me an explanation.' Andrea demands answers after the disastrous meeting."),
-    (1, None, "'We have just lost Sacha Hartman and Isabelle Adjani.' Hicham highlights the catastrophic loss."),
-    (2, None, "'The real problem is Camille.' Hicham directs everyone's anger toward the young assistant."),
-    (3, None, "'She threw the screenplay in the trash.' Andrea explains Camille's shocking behavior."),
-    (4, None, "'Maybe she is a mole.' Hicham suspects corporate espionage from a rival agency."),
-    (5, None, "'At the slightest doubt, she is out.' Hicham threatens immediate dismissal."),
-    (6, None, "'I am the one who asked her to lie.' Mathias steps forward and confesses his instructions."),
-    (7, None, "'I am the one who threw out this script.' Mathias takes personal ownership of the old grudge."),
-    (8, None, "'Camille is my daughter.' Mathias delivers the stunning revelation that shocks the entire agency."),
-    (9, None, "'Pardon? Your daughter?' Andrea reacts with utter disbelief and shock."),
-    (10, None, "'When were you planning to tell us?' Hicham questions the senior agent's secrecy."),
-    (11, None, "'When the time came. Today, apparently.' Mathias answers with bitter resignation."),
-    (12, None, "'She has been here for nine months!' Andrea is appalled by how long the secret was kept."),
-    (13, None, "'You really made fun of us!' Andrea expresses anger over being deceived by her colleague."),
-    (14, None, "'I take full responsibility.' Mathias refuses to deflect blame onto his daughter."),
-    (15, None, "'If someone has to leave, it is me.' Mathias offers his own resignation to save Camille."),
-    (16, None, "'I completely agree.' Hicham coldly accepts the senior partner's departure. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Camille, give me an explanation.' Notice the cognate 'explanation' keeps the 'c' from 'explicate' in French, paired with casual 'give-me'."),
+    (1, None, "'We have just lost Sacha Hartman and Isabelle Adjani.' Pairing 'one comes from' with 'lose' expresses 'we have just lost' seconds after the blowup in French."),
+    (2, None, "'The real problem is Camille.' Naming 'the real problem' first and then pointing back with 'it is' builds dramatic courtroom emphasis in French."),
+    (3, None, "'She threw the screenplay in the trash.' Andrea repeats the exact 'threw at the trash bin' chunk in French that she privately confessed earlier."),
+    (4, None, "'Maybe she is a mole.' Just as in English spy stories, the word meaning a burrowing 'mole' doubles as slang for an inside informant in French."),
+    (5, None, "'At the slightest doubt, she is out.' Closer to 'she clears off', that blunt slang action means 'she gets booted out' in French."),
+    (6, None, "'I am the one who asked her to lie.' Because 'who' refers back to 'me', French matches 'have asked' to 'I' — saying 'it is me who have asked' in French."),
+    (7, None, "'I am the one who threw out this script.' Repeating 'it is me who have' hammers home Mathias's confession in French, taking 'script' straight from English."),
+    (8, None, "'Camille is my daughter.' Paired with 'my', the everyday word that means 'girl' shifts unmistakably to mean 'daughter' in French."),
+    (9, None, "'Pardon? Your daughter?' Rising pitch turns 'pardon' into 'excuse me?', while Andrea keeps formal 'your' even in total shock in French."),
+    (10, None, "'When were you planning to tell us?' Followed by another action, the word that usually means 'count' shifts to mean 'intend' or 'plan to' in French."),
+    (11, None, "'When the time came. Today, apparently.' Built word-for-word as 'the moment come', that compact three-word expression means 'when the right time arrived'."),
+    (12, None, "'She has been here for nine months!' Present 'she is here' plus 'since nine months' expresses 'she has been here for nine months' in French."),
+    (13, None, "'You really made fun of us!' Built around 'mock oneself of someone', slipping 'well' inside adds indignant 'you really played us!' punch in French."),
+    (14, None, "'I take full responsibility.' Watch a subtle false friend: in French that action means 'own up to' or 'shoulder responsibility', never 'guess'."),
+    (15, None, "'If someone has to leave, it is me.' Pairing 'must' with 'leave' sets up the condition, closed by stressed 'me' after 'it is' in French."),
+    (16, None, "'I completely agree.' Combining 'all to fact' with 'of agreement' builds an emphatic 'I completely agree' in French."),
 ]

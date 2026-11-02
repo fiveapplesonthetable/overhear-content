@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'guy': 'Guy', 'hippolyte': 'Hippolyte', 'vera': 'Véra'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
-INTRO = "On the movie set, director Vera prepares Guy Marchand and Hippolyte Rivière for a crucial dialogue scene. When Guy struggles with his lines, Hippolyte playfully swaps roles to help him connect with the emotion. Let's listen to the scene in French first."
+INTRO = "On the movie set, director Vera prepares Guy Marchand and Hippolyte for a crucial dialogue scene. When Guy struggles with his lines, Hippolyte playfully swaps roles to help him connect with the emotion. Let's listen to the scene in French first."
 OPENER = "Let's examine how the two veteran actors improvise by exchanging their lines step by step."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "By trading roles, Guy and Hippolyte rediscover their theatrical chemistry and mutual respect. Let's review the cinema and acting vocabulary from this rehearsal. See you next time!"
 CLOSING = ('guy', 'Au revoir!')
 STORY = [
@@ -33,19 +33,19 @@ STORY = [
     ('vera', 'Parfait, continuons cette belle répétition ensemble.', 'Perfect, let us continue this fine rehearsal together.', [(810, 'Je suis content que vous le réalisiez.')], ''),
 ]
 WALK = [
-    (0, None, "'Silence for a rehearsal please!' Vera calls for quiet on the bustling soundstage."),
-    (1, None, "'I wanted to say... this girl is called Marianne.' Guy begins his lines with hesitant pacing."),
-    (2, None, "'Guy, you are saying my lines!' Hippolyte immediately realizes Guy is reciting the wrong part."),
-    (3, None, "'It was to relax you before starting.' Guy playfully covers up his mistake with gentle humor."),
-    (4, None, "'Do you not know that, swapping lines?' Guy proposes an acting exercise to get a feel for the scene."),
-    (5, None, "'I would like to see what that produces.' Vera finds the unconventional technique intriguing."),
-    (6, None, "'Hippolyte, can you say Guy's lines?' Vera asks Hippolyte to play Guy's role directly."),
-    (7, None, "'Okay, I start with the first sentence.' Hippolyte accepts the challenge with good grace."),
-    (8, None, "'She looked at me and I looked at her.' Hippolyte demonstrates romantic longing with poetic poise."),
-    (9, None, "'She was even more beautiful than before.' Hippolyte delivers the emotional description smoothly."),
-    (10, None, "'And what could I say to her now?' Guy responds in character with genuine curiosity."),
-    (11, None, "'To seduce, one must be very active!' Hippolyte coaches Guy to take romantic initiative."),
-    (12, None, "'Hello, I remember you very well.' Guy adjusts his tone into an assertive, seductive greeting."),
-    (13, None, "'It is much better, we grasp this moment!' Hippolyte commends the newfound energy of their exchange."),
-    (14, None, "'Perfect, let us continue this fine rehearsal together.' Vera approves of their creative breakthrough. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Silence for a rehearsal please!' Addressing the whole crew on set, Vera closes with polite 'please' — literally 'if it to-you pleases'."),
+    (1, None, "'I wanted to say... this girl is called Marianne.' Saying 'I wanted to say' is the natural French recovery chunk whenever you stumble and mean 'I meant to say'."),
+    (2, None, "'Guy, you are saying my lines!' To stress an action happening right this second, French says 'you are in train of saying' — its dedicated expression for 'right in the middle of'."),
+    (3, None, "'It was to relax you before starting.' Here 'relax' literally means 'un-stretch' the tension, and 'before starting' is built in French as 'before of to-start'."),
+    (4, None, "'Do you not know that, swapping lines?' Asking in the negative — 'you don't know that?' — sounds playfully incredulous, paired with a close cognate of 'exchange'."),
+    (5, None, "'I would like to see what that produces.' Softening 'want' into polite 'I would like', Vera adds a favorite French idiom: 'see what that gives' means 'see how it turns out'."),
+    (6, None, "'Hippolyte, can you say Guy's lines?' Unlike the formal 'you' she used with veteran Guy earlier, Vera uses casual 'can-you' with younger Hippolyte, followed by 'the text of Guy'."),
+    (7, None, "'Okay, I start with the first sentence.' Two neat details meet here: French says 'start by' rather than 'start with', and the lookalike of 'phrase' means a full 'sentence'!"),
+    (8, None, "'She looked at me and I looked at her.' Both halves sound identical aloud, though on paper the second 'looked' adds a silent 'e' because 'her' sits before 'have' in French."),
+    (9, None, "'She was even more beautiful than before.' Placed right ahead of 'more', the word that usually means 'again' or 'still' shifts in French to mean 'even more'."),
+    (10, None, "'And what could I say to her now?' Speaking a written movie line, Guy uses polished 'what could-I' inversion rather than casual street French."),
+    (11, None, "'To seduce, one must be very active!' Using impersonal 'it is necessary to be' lets Hippolyte give acting notes tactfully in French without pointing 'you must' directly at Guy."),
+    (12, None, "'Hello, I remember you very well.' Remembering in French comes from the same word English borrowed as 'souvenir', and always links to the person via 'of you'."),
+    (13, None, "'It is much better, we grasp this moment!' After 'much better', Hippolyte reaches for a cognate of English 'seize' — literally 'we seize this instant!'."),
+    (14, None, "'Perfect, let us continue this fine rehearsal together.' Dropping 'we' ahead of the '-ons' action turns it straight into a 'let's continue' encouragement in French."),
 ]

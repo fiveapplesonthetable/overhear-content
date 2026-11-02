@@ -12,8 +12,8 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "Late at night in her small Paris apartment, an overwhelmed Camille calls her mother Annick in tears. Suffering from the bitter jealousy and harsh treatment of her colleagues at ASK, Camille seeks comfort and advice. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
-TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = "Heartened by her mother's loving support, Camille considers stepping away from the ruthless pressure of the agency. Remember the common French idiom for having reached one's limit: ne plus en pouvoir. See you next time!"
+TRANSITION = "Now let's listen to the whole dialogue again."
+OUTRO = "Heartened by her mother's loving support, Camille considers stepping away from the ruthless pressure of the agency. Remember the common French idiom for having reached your limit: 'being able to take no more'. See you next time!"
 CLOSING = ('annick', 'À bientôt!')
 STORY = [
     ('camille', 'Coucou maman, ça ne va pas.', 'Hi Mom, things are not going well.', [(697, '-Coucou, maman.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('camille', 'Merci maman, je vais y réfléchir.', 'Thank you Mom, I will think about it.', [(715, "D'accord.")], ''),
 ]
 WALK = [
-    (0, None, "'Hi Mom, things are not going well.' Camille reaches out to her mother in tears late at night."),
-    (1, None, "'What is going on, my sweetie?' Annick responds with maternal warmth and concern."),
-    (2, None, "'At the agency, it is a real hell!' The young woman pours out her distress over the hostile atmosphere."),
-    (3, None, "'They are all jealous of me.' She explains how her promotion created resentment among colleagues."),
-    (4, None, "'Hervé will not even talk to me anymore.' Her former friend and fellow assistant has turned against her."),
-    (5, None, "'He calls me Judas all day long.' Here, Herve considers her promotion a betrayal of their assistant solidarity."),
-    (6, None, "'Andréa is always yelling at me.' Her boss takes out stress on her through verbal outbursts."),
-    (7, None, "'I cannot take it anymore, Mom!' Camille reaches her breaking point under the toxic pressure."),
-    (8, None, "'Do not cry, my little girl.' Annick tries to comfort her weeping daughter over the phone."),
-    (9, None, "'Come home with me.' Her mother urges her to abandon Paris and return to the south of France."),
-    (10, None, "'Work must not be painful.' Annick affirms that no job is worth sacrificing mental health."),
-    (11, None, "'I will pay for your ticket.' The mother generously offers to cover her train fare home."),
-    (12, None, "'We will go together to the beach.' She paints an idyllic picture of rest and recovery by the Mediterranean."),
-    (13, None, "'Thank you Mom, I will think about it.' Camille feels soothed by her mother's unconditional love. Now let's listen to the entire exchange once more from beginning to end."),
+    (0, None, "'Hi Mom, things are not going well.' Literally the 'cuckoo' bird call, that opening greeting is the warmest casual 'hi!' in French for family, followed by 'it goes not'."),
+    (1, None, "'What is going on, my sweetie?' Literally 'what is it that passes itself?', this handy sentence is the first thing French speakers ask when someone sounds upset."),
+    (2, None, "'At the agency, it is a real hell!' Placed ahead of a cousin of 'inferno', the cognate of 'veritable' means 'downright' or 'utter' in everyday French."),
+    (3, None, "'They are all jealous of me.' Standing on its own right after 'are', 'all' has its final 's' pronounced clearly aloud in French, followed by 'jealous of me'."),
+    (4, None, "'Hervé will not even talk to me anymore.' Combining 'even' with 'no more' in the negative gives the compact chunk 'not even anymore' right after 'speaks'."),
+    (5, None, "'He calls me Judas all day long.' For the full lived span from morning to evening, French chooses the longer '-ee' version of 'day' — 'all the day-long'."),
+    (6, None, "'Andrea is always yelling at me.' Where English says 'yells at me', colloquial French says 'to-me shouts on top' — putting 'on top' at the very end."),
+    (7, None, "'I cannot take it anymore, Mom!' Built from 'can', 'of it', and 'no more', this outcry is what you'll hear whenever someone hits their breaking point in French."),
+    (8, None, "'Do not cry, my little girl.' Kept unhyphenated, 'my little girl' means 'my dear daughter' — whereas joining those last two words with a hyphen in French means 'granddaughter'!"),
+    (9, None, "'Come home with me.' What looks like 're-enter' is the everyday French action for coming back home, paired here with 'to the house'."),
+    (10, None, "'Work must not be painful.' Even for 'work' in general, French opens with 'the work', ending on a cousin of English 'dolorous' that simply means 'painful'."),
+    (11, None, "'I will pay for your ticket.' Unlike English 'pay for', French needs no 'for' after 'pay', tucking 'to-you' ahead of 'pay' to mean buying the ticket for her."),
+    (12, None, "'We will go together to the beach.' Spoken French uses 'one will go' for 'we'll go', placing 'together' right after 'will go' ahead of 'to the beach'."),
+    (13, None, "'Thank you Mom, I will think about it.' Because 'reflect on' takes 'to' in French, 'about it' becomes that single-letter word meaning 'there' right before 'reflect'."),
 ]
