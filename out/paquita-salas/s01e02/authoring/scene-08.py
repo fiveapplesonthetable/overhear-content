@@ -69,16 +69,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, """'Paquita, everything goes by link nowadays.' Literally "now everything goes via link", using "goes" for how business operates today. Spanish speakers in media drop the borrowed English word "link" straight into conversation."""),
+    (0, None, """'Paquita, everything goes by link nowadays.' Literally, "now everything goes via link", using "goes" for how business operates today. Spanish speakers in media drop the borrowed English word "link" straight into conversation."""),
     (1, None, """'And what is that? The computer?' In Spain, people call a computer an "organiser", rather than using a word closer to English "computer". Notice the neuter word "that" when Paquita doesn't even know what kind of thing a link is."""),
     (2, None, """'The Internet.' Unlike English, Spanish normally names "Internet" as a bare word without "the" in front of it. Magüi answers with that single word to sum up the whole online world."""),
     (3, None, """'And do we have any of that?' Starting with "of that" puts Paquita's scepticism first, literally "and of that, we have?". You can reuse this handy pattern whenever someone mentions something unfamiliar and you wonder if you have any."""),
     (4, None, """'PS Management is looking for the three-sixty actress.' One compact Spanish word covers "looks for" without needing a separate word "for". Instead, the personal marker before "the actress" shows they are searching for a person, and "three sixty" means an all-round performer."""),
     (5, None, """'It doesn't fit.' Two short words say there isn't enough room, whether for clothes in a suitcase or characters in a text box. Swap in anything else as the subject when something won't fit."""),
     (6, None, """'What do you mean it doesn't fit?' Putting "how that" in front of someone's exact words is Spain's go-to way to challenge what they just said. It carries the surprised punch of "what do you mean...?"."""),
-    (7, None, """'This app has a word limit.' Both "this" and "application" match as feminine singular here. Literally "a maximum of words", it flips the English order "word limit" around with "of" in the middle."""),
+    (7, None, """'This app has a word limit.' Both "this" and "application" match as feminine singular here. Literally, "a maximum of words", it flips the English order "word limit" around with "of" in the middle."""),
     (8, None, """'Who follows us?' On social media, the Spanish word "follows" works just like English "follow". The tiny word "us" sits right before "follows" rather than after it."""),
-    (9, None, """'Nothing so far.' Literally "of moment, nothing", that opening two-word chunk is a super common everyday way to say "for now" or "so far". Paired with "nothing", it makes a crisp two-beat update."""),
+    (9, None, """'Nothing so far.' Literally, "of moment, nothing", that opening two-word chunk is a super common everyday way to say "for now" or "so far". Paired with "nothing", it makes a crisp two-beat update."""),
     (10, None, """'I don't really like vinegar.' Spanish builds likes backwards compared with English: "vinegar does not please me much". Because she talks about vinegar in general, Spanish keeps "the" in front of "vinegar"."""),
     (11, None, """'Salt is very bad. I'm giving up salt too.' Salt is feminine in Spanish, so "bad" takes its feminine ending "-a", and general "salt" keeps "the" again. In the second sentence, "leaving" also means quitting a habit, and mentioning "the salt" early makes Spanish echo it with "her" before "am leaving"."""),
     (12, None, """'Magüi, we aren't going to find her like this.' That brisk two-syllable word after Magüi's name means "like this" or "this way". Then "no" and "her" sit together right before "we are going to find".""")

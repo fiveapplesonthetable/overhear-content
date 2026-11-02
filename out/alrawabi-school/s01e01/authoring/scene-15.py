@@ -45,5 +45,5 @@ WALK = [
     (10, None, ["'Then you come and ask my permission beforehand.' ", ('mariam', 'بتيجي'), ' means "you come", which Jordanians often pair right alongside the next action.']),
     (11, None, ['\'Excuse me, your plan all by yourself?\' Swapping "-i" for "-ik" turns "my plan" into ', ('noaf', 'خطتك'), ', "your plan", throwing Mariam\'s word right back at her.']),
     (12, None, ['\'I mean all of our plan together.\' Now the ending changes to "-na" in ', ('mariam', 'خطتنا'), '—"our plan"—and ', ('mariam', 'كلنا'), ' reinforces "all of us".']),
-    (13, None, ["'Alright never mind, what matters is staying united.' Literally ", ('dina', 'إيد واحدة'), ' says "one hand", a warm Arabic idiom for standing united.']),
+    (13, None, ["'Alright never mind, what matters is staying united.' Literally, ", ('dina', 'إيد واحدة'), ' says "one hand", a warm Arabic idiom for standing united.']),
 ]

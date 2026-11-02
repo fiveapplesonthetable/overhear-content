@@ -35,7 +35,7 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Go stand in front of the shelf and block the camera.' Literally Peter says 'place yourself before-the shelf', squeezing 'before' and 'the' into one punchy spoken contraction. Then 'cover' pairs with 'off' at the end to mean blocking a view."),
+    (0, None, "'Go stand in front of the shelf and block the camera.' Literally, Peter says 'place yourself before-the shelf', squeezing 'before' and 'the' into one punchy spoken contraction. Then 'cover' pairs with 'off' at the end to mean blocking a view."),
     (1, None, "'Just pretend we are sorting something here.' Where English uses one word for 'pretend', German literally says 'do simply so, as whether...' and sends the word for 'sorting' to the end of the clause."),
     (2, None, "'Peter, I really don't feel like doing this in my first week.' Having 'no billy-goat' is the most famous casual idiom in Germany for 'I really can't be bothered' or 'I'm not up for it' — casual with friends, though not one for a job interview!"),
     (4, None, "'I'm in my trial week! I don't feel like getting fired right now.' Look at the neat workplace compound joining 'trial' and 'week'. At the close, the everyday word for 'to fly' doubles in casual speech as 'to get kicked out' or 'be fired'."),

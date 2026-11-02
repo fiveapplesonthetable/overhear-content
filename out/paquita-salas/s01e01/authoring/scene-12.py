@@ -66,11 +66,11 @@ STORY = [
 
 WALK = [
     (0, None, "'And was that one important?' Because the word for email is masculine, that one uses the masculine form without needing a word for one. Ongoing was describes what that message was about."),
-    (1, None, "'Unbelievable. All of this is work.' Literally what barbarity, a lively everyday Spanish reaction whenever an amount, price, or mess is outrageous. Neuter all this needs no word for of."),
+    (1, None, "'Unbelievable. All of this is work.' Literally, what barbarity, a lively everyday Spanish reaction whenever an amount, price, or mess is outrageous. Neuter all this needs no word for of."),
     (2, None, "'Well, don't worry.' Starting with the word for good softens the reassurance, just like English well. Negative casual commands flip the ending vowel from a to es and put you in front."),
     (3, None, "'Macarena García. When is this one from?' Unlike English, Spanish never strands from at the end of a question: it asks literally this one, of when is it, with a written accent on when."),
     (4, None, "'Five days ago.' Where English puts ago after the time span, Spanish puts it makes at the front: literally it makes five days."),
-    (5, None, "'Oh, my goodness! Oh, Macarena!' Literally my goodness with the stressed word for mine placed after the noun rather than simple my before it, giving the exclamation extra weight."),
+    (5, None, "'Oh, my goodness! Oh, Macarena!' Literally, my goodness with the stressed word for mine placed after the noun rather than simple my before it, giving the exclamation extra weight."),
     (6, None, "'Wait, what's wrong, Magüi?' Leading with the word for but before what happens captures Álex's sudden alarm as Magüi stares at the screen."),
     (7, None, "'The email is from five days ago.' Putting the little word for of right before five days ago builds the phrase for from five days ago cleanly."),
     (8, None, "'Macarena García left Paquita five days ago.' Earlier this same word meant leaving a parcel on a desk; with a person and the personal marker before Paquita, has left means ended their professional relationship."),

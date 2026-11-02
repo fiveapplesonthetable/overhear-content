@@ -92,7 +92,7 @@ STORY = [('andrea', 'Pas de chance pour moi!', 'Unlucky me!', [(708, 'Pas de cha
   [(734, "Je suis sûre qu'on se reverra")],
   '')]
 WALK = [
-    (0, None, "'Unlucky me!' Literally 'no luck for me'. It's sarcastic: Camille is the one about to be in trouble. Then Andrea explains."),
+    (0, None, "'Unlucky me!' Literally, 'no luck for me'. It's sarcastic: Camille is the one about to be in trouble. Then Andrea explains."),
     (1, None, "'I find an assistant I like.' Word for word, 'an assistant who pleases me'. That's how French says 'I like her': the person does the pleasing. And then the twist."),
     (2, None, "'But I was wrong.' Listen to the ending of the last word. Andrea is a woman, so the word gets a silent extra letter, the feminine ending. You won't hear it, but you'll see it written. Now she turns on Camille."),
     (3, None, "'Do you realise what you did?' The small expression after 'realise' introduces 'what you did'. The past action uses a form of 'have' followed by 'done'."),
@@ -103,11 +103,11 @@ WALK = [
     (8, None, "'I'm not a chatterbox.' Same pattern: the two little negative words hug the verb 'am'. The word for 'chatterbox' ends in the feminine form, because Camille is talking about herself. Andrea doesn't want to hear it."),
     (9, None, "'Get your things.' Three words, and Camille is fired. It's a casual command, said to one person. Hervé, at the next desk, tries to soften the blow."),
     (10, None, "'It was short, but intense.' The two descriptions are linked by the small word 'but'. The first description has a different feminine form, although this sentence uses its masculine form."),
-    (11, None, "'But there's a bright side.' Literally 'there is a positive side'. The opening three words mean 'there is', and you hear them everywhere in French."),
+    (11, None, "'But there's a bright side.' Literally, 'there is a positive side'. The opening three words mean 'there is', and you hear them everywhere in French."),
     (12, 'Tu es loin de ce business.', "'You're far from this business.' Hervé means she has escaped a nasty world. The word for business is simply the English one."),
-    (12, 'Je le pense vraiment.', "'I really mean it.' Literally 'I think it really'. Now Hervé turns to Noemie, who hasn't looked up from her screen."),
+    (12, 'Je le pense vraiment.', "'I really mean it.' Literally, 'I think it really'. Now Hervé turns to Noemie, who hasn't looked up from her screen."),
     (13, None, "'Noemie, say goodbye to Camille!' Another casual command, from the verb 'to say'. Noemie mumbles that she's too busy, and Camille covers for her."),
-    (14, "Ce n'est pas grave.", "'It doesn't matter.' Literally 'it isn't serious', with the same two negative words around the verb. It's what French people say all day long when something is no big deal."),
+    (14, "Ce n'est pas grave.", "'It doesn't matter.' Literally, 'it isn't serious', with the same two negative words around the verb. It's what French people say all day long when something is no big deal."),
     (14, 'Elle est pressée.', "'She's in a hurry.' One more feminine ending: Noemie is a woman, so the adjective takes the extra letter. Camille picks up her bag."),
     (15, None, "'Well, goodbye.' The first word is a little sigh that means 'right then'. Hervé answers warmly."),
     (16, None, "'Goodbye, Camille. Good luck!' This second phrase literally means 'good courage', and it's how you wish someone strength for something hard. And Camille leaves on a hopeful note."),

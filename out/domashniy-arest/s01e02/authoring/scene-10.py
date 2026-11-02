@@ -11,7 +11,7 @@ LABELS = {'arkady': 'Аркадий', 'nina': 'Нина', 'samson': 'Самсо�
 SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.02'
 SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Back in the communal flat, Arkady has just been brought home from Pasha's office. Last time, Pasha demanded Arkady's hidden millions for the Moscow deal and gave him until evening, or the guards would get rough. Now Arkady has a hangover, and Samson is keen to start his election campaign. We'll hear it in Russian first; don't worry about catching every word."
-OPENER = "Let's go back through it slowly. Last night Arkady and Samson drank together, and Samson is the first to ask how he's doing."
+OPENER = "Let's go back through it slowly. Last night, Arkady and Samson drank together, and Samson is the first to ask how he's doing."
 TRANSITION = "Now let's hear the whole scene again, without stopping."
 OUTRO = "So Samson's campaign is over before it began, and Arkady still has no way to reach the governor. Take it easy, and. See you next time!"
 CLOSING = ('arkady', 'Пока!')
@@ -55,5 +55,5 @@ WALK = [
     (15, 'Он заблокирован.', "'It's blocked.' The phone is masculine, so it's 'he' in Russian. The authorities have cut it off."),
     (15, 'Ниночка, дайте, пожалуйста, телефон позвонить.', "'Ninochka, please let me use your phone to make a call.' Ninochka is a sweet, affectionate form of Nina, and he uses the polite form of 'give', laying on the charm. Nina isn't charmed."),
     (16, 'Вот когда выйдешь, тогда и дам.', "'When you get out of here, then I'll give it to you.' A neat 'when, then' pair; since he's under house arrest, it means never. And one more word to send him away. This comes from a common root."),
-    (16, 'Шагай.', "'Off you go.' Literally 'step', or 'march'. It's a brisk way to tell someone to leave."),
+    (16, 'Шагай.', "'Off you go.' Literally, 'step', or 'march'. It's a brisk way to tell someone to leave."),
 ]

@@ -38,7 +38,7 @@ WALK = [
     (0, None, "'You look at me as if you want to kill me.' The phrase in the middle means 'as if'. The verb 'look' takes a little word meaning 'at', just like in English. Samson plays innocent."),
     (1, 'Нормально я на тебя смотрю.', "'I'm looking at you normally.' The first term is the handy everyday word for 'normally', 'fine'. Then two short words back at him."),
     (1, 'Ты чего?', "'What's up with you?' It's very casual, something friends or rivals say when the other one is acting oddly. Nikolai won't let it go. This is completely normal in Russian."),
-    (2, 'Скажи мне в глаза.', "'Say it to my face.' Literally 'say to me into the eyes'. Then the real question."),
+    (2, 'Скажи мне в глаза.', "'Say it to my face.' Literally, 'say to me into the eyes'. Then the real question."),
     (2, 'За что ты меня так ненавидишь?', "'Why do you hate me so much?' The first two words together ask 'for what', meaning what have I done to deserve it. Samson decides to be honest."),
     (3, None, "'All right. Look, Nikolai.' He just uses the boss's first name, with the casual 'you'. These two clearly go back a long way. Now comes the evidence."),
     (4, None, "'Right now you're pouring me vodka, aren't you?' The little 'yes' at the end turns it into a question, like 'aren't you?'. Nikolai can't deny it. Russians happily use this construction."),

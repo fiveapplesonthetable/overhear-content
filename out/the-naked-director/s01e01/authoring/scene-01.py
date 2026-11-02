@@ -93,7 +93,7 @@ WALK = [
         ("muranishi", "閉じ"), ", and this word this word means to shut, whenever you want to say 'please do not'."
     ]),
     (10, 'いいですね？', [
-        '"\'Are you ready?\' Literally " The phrase contains ',
+        '"\'Are you ready?\' Literally, " The phrase contains ',
         ("muranishi", "いいですね"), " asks 'is it good, right?', checking that everyone is following along. A rising tone turns that short check into 'ready?' or 'got it?'."
     ]),
     (11, None, [

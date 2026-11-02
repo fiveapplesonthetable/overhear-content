@@ -140,7 +140,7 @@ WALK = [
     (
         6,
         None,
-        '\'But on the contract dispute, we must not take sides.\' Literally "zhandui" means \'stand in a line\', '
+        '\'But on the contract dispute, we must not take sides.\' Literally, "zhandui" means \'stand in a line\', '
         'which everyday Chinese uses for picking sides in an argument, while "jieyue" means breaking a contract.',
     ),
     (
@@ -170,7 +170,7 @@ WALK = [
     (
         11,
         None,
-        '\'Rest assured, there are no rookies in our department.\' Literally "fangxin" tells someone to \'set your '
+        '\'Rest assured, there are no rookies in our department.\' Literally, "fangxin" tells someone to \'set your '
         'heart down\', and inclusive "zanmen" warmly sweeps both speaker and listener into \'our\'.',
     ),
 ]

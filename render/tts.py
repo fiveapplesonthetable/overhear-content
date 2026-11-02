@@ -336,6 +336,9 @@ class QwenCustomEngine:
         return stats
 
 
+QwenEngine.synth_many = QwenCustomEngine.synth_many
+
+
 def load_wav(path):
     x, sr = sf.read(str(path), dtype="float32")
     return x, sr

@@ -48,7 +48,7 @@ WALK = [
     (10, 'Ну как же ты не вовремя!', ["'Your timing couldn't be worse!' Literally, 'how untimely you are!'. Notice that Arkady uses the casual word for 'you',", ('arkady', 'ты'), ", while Arakelyan uses the polite one. That tells you who is the boss here."]),
     (10, 'Где ты сейчас?', ["'Where are you now?' The language omits the present action word for 'to be', connecting the term for 'where',", ('arkady', 'Где'), ", directly with 'now'."]),
     (11, None, ["'I'm at the Santa Fe.' Literally, ", ('arakelyan', 'Я'), " and ", ('arakelyan', 'в'), " translates to 'I in', as it's the name of a café in town. Arkady makes up his mind."]),
-    (12, 'Ладно, будь там.', ["'All right, stay there.' Literally 'be there'. The word", ('arkady', 'будь'), "is the command for the action word 'to be'."]),
+    (12, 'Ладно, будь там.', ["'All right, stay there.' Literally, 'be there'. The word", ('arkady', 'будь'), "is the command for the action word 'to be'."]),
     (12, 'Через десять минут буду.', ["'I'll be there in ten minutes.' the translation for 'in',", ('arkady', 'Через'), ", is used when you count time forward. The last word translates to 'I will be'. In the present, the language has no 'am', but in the future you do need this action word."]),
     (13, None, ["'Fine. I'll be waiting for you.' Literally, 'I'm waiting for you', where meaning 'waiting',", ('arakelyan', 'Жду'), ", is used. And again, the polite word for 'you'. Now new orders for the driver."]),
     (14, None, ["'Vitalik, we're going to the Santa Fe.' The action word", ('arkady', 'едем'), "translates to 'we are going' and is used for a plan that starts right now. The same action word we heard at the very beginning."]),

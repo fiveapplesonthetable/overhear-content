@@ -70,7 +70,7 @@ WALK = [
     (1, None, "'We were married for five years.' Spanish needs no word for before the five years, and uses the completed past form because the marriage is firmly over."),
     (2, None, "'Imagine the contacts I have in the film world.' Casual you tacks onto imagine as one word. Unlike English, Spanish never drops the linking word for that between contacts and I have."),
     (3, None, "'They've had dinner at my house and stayed over to sleep.' Spanish has a dedicated single action word for eating dinner, rather than saying have dinner. In the second half, stayed adds a little word for themselves before to sleep."),
-    (4, None, "'Give me a name and I'll tell you a story.' Literally tell me a name and to you I tell an anecdote, using simple present forms for an immediate challenge."),
+    (4, None, "'Give me a name and I'll tell you a story.' Literally, tell me a name and to you I tell an anecdote, using simple present forms for an immediate challenge."),
     (5, None, "'You're a bit tense, aren't you?' Because Paquita is speaking to Magüi, the word for tense ends in a feminine vowel. The little tag at the end works like right or aren't you."),
     (6, None, "'A shot to loosen you up. Come on, relax.' Spain's cute diminutive word for a small shot glass of spirits comes from sucking or sipping. After for, to loosen tacks you onto its end."),
     (7, None, "'Do you want a shot, Lidia?' Earlier we heard this same word mean loves when talking about a person; with a thing like a drink, it simply means want."),

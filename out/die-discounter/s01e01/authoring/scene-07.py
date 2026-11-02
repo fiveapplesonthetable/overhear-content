@@ -27,7 +27,7 @@ STORY = [
     ('thorsten', 'Das geht so nicht! Der Hund kann hier nicht bleiben.', "This won't work like this! The dog cannot stay here.", [(203, 'Das geht so nicht. Der Hund kann'), (203, 'nicht')], 'Soften crude dog line into clean A1 German.'),
     ('thorsten', 'Sabine kommt gleich! Wie stehe ich denn dann da?', 'Sabine is coming any minute! How is that going to make me look?', [(207, 'kommt gleich. Wie stehe ich denn dann da')], 'Restore Sabine from auto-caption Der Bine.'),
     ('thorsten', 'Tu mir einen Gefallen und pack deine Sachen mal zusammen.', 'Do me a favour and pack your things up.', [(207, 'gefallen'), (209, 'Pack'), (211, 'mal zusammen')], 'Replace colloquial Krams with everyday Sachen.'),
-    ('thorsten', 'Geh heute mal in den Park! Sonst gibt es großen Ärger.', 'Go to the park today! Otherwise there will be big trouble.', [(211, 'und geh'), (213, 'in Park heute. Es gibt'), (213, 'Ärger')], 'Restore standard in den Park and großen Ärger.'),
+    ('thorsten', 'Geh heute mal in den Park! Sonst gibt es großen Ärger.', 'Go to the park today! Otherwise, there will be big trouble.', [(211, 'und geh'), (213, 'in Park heute. Es gibt'), (213, 'Ärger')], 'Restore standard in den Park and großen Ärger.'),
     ('thorsten', 'Hier sind vierzig Euro, mach das mal bitte im Park.', 'Here is forty euros — please do that in the park.', [(215, 'Mach das mal bitte im Park')], 'Spell out 40 € from cue 213 as vierzig Euro.'),
     ('camper', 'Komm her, Puffi! Wir packen alles ein.', 'Come here, Puffi! We are packing everything up.', [(217, 'Puffi'), (217, 'Pack ein')], 'Omit swear word from cue 217.'),
     ('camper', 'Ich habe mich hier gerade erst eingerichtet.', 'I only just got myself settled in here.', [(221, 'ich habe mich'), (221, 'gerade eingerichtet')], ''),
@@ -36,10 +36,10 @@ STORY = [
 
 WALK = [
     (0, None, "'Listen up, come with me for a second.' Both halves rely on split-apart action words: 'watch out' becomes 'listen up' when calling for attention, and 'come with' needs no extra 'me' at the end in German, unlike English."),
-    (1, None, "'This won't work like this! The dog cannot stay here.' Literally the first sentence says 'that goes so not' — a short, punchy phrase you'll hear whenever someone puts a stop to a situation that isn't acceptable."),
+    (1, None, "'This won't work like this! The dog cannot stay here.' Literally, the first sentence says 'that goes so not' — a short, punchy phrase you'll hear whenever someone puts a stop to a situation that isn't acceptable."),
     (2, None, "'Sabine is coming any minute! How is that going to make me look?' Word for word, Thorsten asks 'how do I stand there then?', an expressive idiom for how you come across in front of other people."),
     (3, None, "'Do me a favour and pack your things up.' Asking 'do to me a favour' works almost word for word like English. Then 'pack' teams up with 'together' at the end of the clause to mean gathering scattered belongings."),
-    (4, None, "'Go to the park today! Otherwise there will be big trouble.' Notice 'in the park' uses the movement form for 'into' here, whereas the next line uses the contracted location form for 'inside the park'. At the close, German literally says 'it gives big trouble' where English says 'there will be big trouble'."),
+    (4, None, "'Go to the park today! Otherwise, there will be big trouble.' Notice 'in the park' uses the movement form for 'into' here, whereas the next line uses the contracted location form for 'inside the park'. At the close, German literally says 'it gives big trouble' where English says 'there will be big trouble'."),
     (7, None, "'I only just got myself settled in here.' The long word at the end is built from 'in' and 'arrange' or 'furnish': used with 'myself', it means setting up camp or making a space feel like home."),
     (8, None, "'I don't have a guilty conscience about it. Alright, alright!' Where English speaks of a guilty conscience, German literally says a 'bad conscience'. His closing three words — 'is indeed good!' — brush off complaints when a speaker wants the matter dropped.")
 ]

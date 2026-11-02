@@ -99,7 +99,7 @@ WALK = [
     (8, 'Je vais bientôt être assez bonne.', "'I'm soon going to be good enough.' To talk about the near future, take the verb 'to go' and put a plain verb after it, exactly like 'going to' in English. The French word for 'good' is feminine again."),
     (9, None, "'Look how bad you are!' The instruction begins directly with 'look'. The description of being bad at something has a feminine form for Cecile."),
     (10, None, "'And you lied to me too!' The small object attached to 'have' means 'to me'. The extra word meaning 'also' turns Gabriel's accusation back on him."),
-    (11, None, "'There's lying and there's lying.' Literally 'there is to lie and to lie'. It's his excuse: some lies are worse than others."),
+    (11, None, "'There's lying and there's lying.' Literally, 'there is to lie and to lie'. It's his excuse: some lies are worse than others."),
     (12, None, "'I didn't want to hurt you.' Again the negation wraps around the verb, this time a past form for wanting. And at that very moment, the horse decides it has heard enough."),
     (13, None, "'Oh no! He won't stop!' The French expression for 'stop' here includes a short reflexive piece attached with an apostrophe. The same expression works for a person or vehicle coming to a stop."),
     (14, None, "'Wait! Cecile, hold on!' The first instruction uses the polite or plural form. The second addresses Cecile familiarly, with the short piece meaning 'yourself' attached after the action."),

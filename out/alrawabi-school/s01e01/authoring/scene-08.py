@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'There is no other place like this place.' ", ("mariam", "ما في"), " is the everyday Levantine way to say \"there is not\", and ", ("mariam", "تاني"), " means \"other\" or \"second\"."]),
-    (1, None, ["'A girl has to see it with her own eyes before judging.' Literally ", ("dina", "بعينها"), " says \"with her single eye\", which is how Arabic expresses \"with her own eyes\"."]),
+    (1, None, ["'A girl has to see it with her own eyes before judging.' Literally, ", ("dina", "بعينها"), " says \"with her single eye\", which is how Arabic expresses \"with her own eyes\"."]),
     (2, None, ["'Look over there by the courtyard gate.' ", ("mariam", "اطلعي"), " tells one girl to look, while ", ("mariam", "هناك"), " points \"over there\"."]),
     (3, None, ["'Layan is standing with Rania and Roqayya as usual.' ", ("dina", "واقفة"), " describes a woman standing right now, and ", ("dina", "كالعادة"), " neatly packs \"like the habit\" into one word for \"as usual\"."]),
     (4, None, ["'The girls are always walking behind her at school.' ", ("mariam", "وراها"), " glues \"behind\" and \"her\" together, showing how Layan's clique trails her everywhere."]),

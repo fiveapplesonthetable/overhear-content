@@ -51,7 +51,7 @@ WALK = [
     (8, 'Что вы от него ещё хотите?', "'What more do you want from him?' The small term in the middle means 'more', or 'else'. Zavarzin answers."),
     (9, None, "'For him to give back the money he stole.' The first word means 'so that', and the action term after it, 'give back', is in the past form, as it always is after that word. Marina has her doubts about where the money would go."),
     (10, None, "'And who will get it? The people who sit higher up?' She means the bosses, the people with higher posts. Notice the same idea of sitting: you sit high up in power, and you get sat down in prison. Then the agents change their tune. Russians always use this form here."),
-    (11, 'А вашу работу вернуть можно.', "'But we can get your job back for you.' Literally 'your job, it's possible to return'. Marina has just been fired from the university, so this is a real temptation. And there's more."),
+    (11, 'А вашу работу вернуть можно.', "'But we can get your job back for you.' Literally, 'your job, it's possible to return'. Marina has just been fired from the university, so this is a real temptation. And there's more."),
     (11, 'И мы хорошо платим.', "'And we pay well.' A short, clear offer of money. Then Zavarzin adds something very personal. It built from a common stem."),
     (12, None, "'Buy your child a games console.' The action term is the polite command, 'buy'. Marina and her son are saving for exactly this, so it gives her a shock. This is how Russians typically say it."),
     (13, None, "'What, are you watching us?' The action term means 'to follow', 'to keep watch on', and it goes with a little word meaning 'behind', literally 'you follow behind us'. Zavarzin brushes it off."),

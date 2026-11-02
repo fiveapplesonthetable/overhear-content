@@ -117,6 +117,6 @@ WALK = [
     (14, None, "'At first, Françoise Fabian was supposed to take the part.' The verb 'must' in this past form means 'was supposed to'. Now the truth is out, or half of it."),
     (15, None, "'She was just a bit tired.' One French word for 'tired' has a feminine ending for Françoise. It's a polite little lie."),
     (16, None, "'Line Renaud in a Gabor Rajevski film?' She gives the director's name after the short word of, where English can place the name before film. She is imagining how that credit would sound on a poster."),
-    (17, 'Je trouve que ça sonne vraiment bien.', "'I think that sounds really good.' Literally 'I find that it sounds'. Using 'find' for 'think' is very common in opinions."),
+    (17, 'Je trouve que ça sonne vraiment bien.', "'I think that sounds really good.' Literally, 'I find that it sounds'. Using 'find' for 'think' is very common in opinions."),
     (17, 'Pourquoi pas?', "'Why not?' Two little words that leave the idea open. Now he only has to tell Andréa. Lovely."),
 ]

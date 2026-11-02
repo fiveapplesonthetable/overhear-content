@@ -67,7 +67,7 @@ WALK = [
     (3, None, "'I still don't know which one it is, and I have to change it.' Placed before no, the first word means still or yet. Then have plus that plus to change expresses must change."),
     (4, None, "'Do you want to change your dress? Girl, we're at the petrol station.' Built from the word for petrol, the place word ending in era names a filling station. Paquita misses the metaphor completely!"),
     (5, None, "'Oh, sorry. It's not that, never mind.' One short word gives an everyday apology for sorry or pardon me, softer than formal excuses."),
-    (6, None, "'Hey, you're worrying me.' Literally me you are worrying, putting me at the front of are worrying to talk about what is happening right this minute."),
+    (6, None, "'Hey, you're worrying me.' Literally, me you are worrying, putting me at the front of are worrying to talk about what is happening right this minute."),
     (7, None, "'I remembered it and got emotional. Sorry.' Watch out for another classic false friend: in Spanish this word means sensitive or emotional, never sensible or practical! Putting myself with put means became emotional."),
     (8, None, "'Magüi, girl, I'm on my way to Valladolid.' Where English says I'm on my way, Spanish pairs I am with the irregular ing-form meaning going to Valladolid."),
     (9, None, "'Please, what's wrong? I'm in a hurry, tell me now.' Being in a hurry is literally I have haste. Then tell, me, and it fuse into a single punchy word followed by now."),

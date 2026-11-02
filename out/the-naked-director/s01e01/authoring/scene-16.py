@@ -46,7 +46,7 @@ WALK = [
         ("client_f", "過ぎてる"), " comes from the verb for to pass beyond."
     ]),
     (1, '申し訳ございません。', [
-        '"\'I am deeply sorry.\' Literally " We can hear ',
+        '"\'I am deeply sorry.\' Literally, " We can hear ',
         ("muranishi", "申し訳"), " this word means an excuse or explanation, so saying none exists—",
         ("muranishi", "ございません"), "—declares 'my mistake is inexcusable'."
     ]),

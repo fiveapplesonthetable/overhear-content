@@ -46,7 +46,7 @@ WALK = [
         '\'Sit down.\' "Siediti" tucks "ti", "yourself", onto the end of "siedi" to make a casual one-word invitation to take a seat.'
     ]),
     (1, None, [
-        '\'Did you watch the first two episodes?\' In Italian television, an episode of a series is "una puntata", while "le prime due" puts "the first" ahead of "two".'
+        '\'Did you watch the first two episodes?\' In Italian, television, an episode of a series is "una puntata", while "le prime due" puts "the first" ahead of "two".'
     ]),
     (2, None, [
         '\'Yes, a little bit.\' "Qualcosa" literally means "something", and on its own it works nicely for "a bit here and there".'
@@ -67,7 +67,7 @@ WALK = [
         '\'Do you know why it is awful?\' Adding little "lo" before "sai" literally asks "do you know it, why...", a very natural Italian rhythm.'
     ]),
     (8, None, [
-        '\'I do not know.\' In English "I don\'t know" needs no object, whereas Italian almost always keeps "lo" for "it": "non lo so".'
+        '\'I do not know.\' In English, "I don\'t know" needs no object, whereas Italian almost always keeps "lo" for "it": "non lo so".'
     ]),
     (9, None, [
         '\'Because that is how they want it.\' Placing "loro", "they", at the very end throws extra weight onto the shadowy network bosses: "they" are the ones who want it bad.'

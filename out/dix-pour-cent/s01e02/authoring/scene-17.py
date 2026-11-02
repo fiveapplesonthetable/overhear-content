@@ -99,7 +99,7 @@ WALK = [
     (1, None, "'You think it's funny?' Find can express an opinion, as in do you find it funny? That points to Gabriel's casting suggestion. Andréa's question challenges Arlette's reaction and invites her to explain it."),
     (2, None, "'Yes! There's an old story between Line and Françoise.' Three little words at the start mean 'there is'. You'll hear them constantly."),
     (3, None, "'What story?' This question word agrees with the word; story is feminine, so it takes the feminine spelling, though it sounds the same."),
-    (4, None, "'They can't stand each other.' Literally 'they can't smell each other'. The little self-directed word makes it mutual: each other. That's the first language point of the scene."),
+    (4, None, "'They can't stand each other.' Literally, 'they can't smell each other'. The little self-directed word makes it mutual: each other. That's the first language point of the scene."),
     (5, None, "'Really? I've never heard that.' The French word for 'never' takes the place of the usual 'not' in the two-part negative. Arlette settles in to tell the story."),
     (6, None, "'Line was a well-known singer. Françoise was a young actress.' The past descriptions give the background before the particular events. Both singer and actress are feminine here, and the words describing them take feminine endings too."),
     (7, None, "'Françoise had a boyfriend. Guess who!' Had describes a relationship that existed then. Arlette follows it with a playful invitation to guess the man's identity, rather than naming him immediately."),

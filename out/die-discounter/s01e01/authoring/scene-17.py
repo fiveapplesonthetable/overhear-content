@@ -35,7 +35,7 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Do you realize you will be replaced if things do not work here?' Literally Beyza opens with 'is to-you clear that...?', a sharp everyday way to ask 'do you realize...?'. At the end, 'runs' means 'works smoothly'."),
+    (0, None, "'Do you realize you will be replaced if things do not work here?' Literally, Beyza opens with 'is to-you clear that...?', a sharp everyday way to ask 'do you realize...?'. At the end, 'runs' means 'works smoothly'."),
     (2, None, "'The security system! Are the cameras even running?' Look at the compound built from 'security' and 'system'. Then the same verb for 'running' asks whether the cameras are switched on, boosted by the final word meaning 'at all' or 'even'."),
     (3, None, "'Why is it that so much stock is still going missing here?' Word for word, the opening chunk asks 'where-on lies that?' — a super natural German way to ask what the underlying cause of a problem is. At the close, 'goes lost' means 'goes missing'."),
     (4, None, "'Jonas does a great job here! After all, this is Altona.' That key word for 'after all' lets a speaker justify something as obvious to anyone who knows the busy Hamburg neighbourhood of Altona."),

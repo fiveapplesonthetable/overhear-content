@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'This is AlRawabi School for Girls.' In Jordanian speech, ", ("mariam", "هاي"), " means \"this\" for female words like ", ("mariam", "مدرسة"), ", \"school\"."]),
-    (1, None, ["'And this is Layan, whom nobody messes with.' Literally ", ("mariam", "بيلعب معها"), " says \"plays with her\", which in Arabic also means messing with someone you shouldn't."]),
+    (1, None, ["'And this is Layan, whom nobody messes with.' Literally, ", ("mariam", "بيلعب معها"), " says \"plays with her\", which in Arabic also means messing with someone you shouldn't."]),
     (2, None, ["'And her friends always defend her.' ", ("mariam", "بيدافعوا عنها"), " pairs \"defend\" with ", ("mariam", "عنها"), ", literally \"from her\", as if shielding trouble away from her."]),
     (3, None, ["'And woe to the girl who stands in her way.' ", ("mariam", "ويا ويل"), " is a dramatic everyday warning, like \"watch out for\" or \"heaven help\"."]),
     (4, None, ["'May I know why I am here, Miss?' Starting a question with ", ("layan", "ممكن"), ", \"possible\", is the smoothest polite way to say \"may I\" or \"can I\"."]),

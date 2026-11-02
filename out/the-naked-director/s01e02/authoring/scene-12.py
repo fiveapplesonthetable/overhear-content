@@ -40,7 +40,7 @@ WALK = [
     (4, None, "'Hokudai Kanda bookstores will keep expanding from here on.' \"Kono saki mo\" pairs \"kono saki\", ahead from here, with \"mo\", even further, while \"kakudai suru\" means to expand in scale."),
     (5, None, "'Naturally, you will expand your sales network even further beyond Hokkaido, right?' \"Touzen\" opens with 'naturally, of course'. \"Hanbaimou\" links \"hanbai\", sales, with \"mou\", net, and \"hirogeru\" means to spread or widen."),
     (7, None, "'We will end up meeting in an unfortunate way.' \"Oretachi\" adds plural \"tachi\" to masculine \"ore\" for 'us'. \"Fukou na katachi\", an unfortunate form, leads into \"deatte shimau\", where \"shimau\" adds a heavy sense of 'regrettably end up'."),
-    (8, '失礼します。', "'Excuse me for leaving.' Literally 'I am committing a rudeness', \"shitsurei shimasu\" is the standard polite line when excusing yourself from a meeting or leaving the room before a superior."),
+    (8, '失礼します。', "'Excuse me for leaving.' Literally, 'I am committing a rudeness', \"shitsurei shimasu\" is the standard polite line when excusing yourself from a meeting or leaving the room before a superior."),
     (8, 'あなたに会えてよかった。', "'I am glad I got to meet you.' Turning \"au\", meet, into \"aete\", 'able to meet', and adding \"yokatta\", 'was good', creates a warm, dignified farewell—even when turning a deal down flat."),
     (9, None, "'Let us go, Toshi.' Back on his feet, Muranishi drops the polite polish: plain \"iku\", go, plus punchy masculine \"zo\" tells his partner they are walking out right now."),
     (10, None, "'Hey, wait up.' Staring at the cash left behind, Toshi calls out \"chotto matte yo\"—combining \"matte\", wait, from \"matsu\", with insistent \"yo\"."),

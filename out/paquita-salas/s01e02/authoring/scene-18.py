@@ -70,7 +70,7 @@ STORY = [
 WALK = [
     (0, None, "'Darling, of course you're going to triumph.' Paquita opens with her signature term of endearment, literally \"fondness\", then pairs \"clear that\" with \"you are going to triumph\" to sound completely certain."),
     (1, None, "'Of course you're a star.' Repeating \"clear that\" hammers the encouragement home. Here Paquita uses permanent \"eres\" because being a star is who Mariona truly is."),
-    (2, None, "'You'll do Velvet, Vis a vis, and El secreto de Puente Viejo.' Instead of \"going to do\", Paquita steps up to the punchy one-word future \"you will do\" as she reels off three huge Spanish television hits of the era."),
+    (2, None, "'You'll do Velvet, Vis a vis, and El secreto de Puente Viejo.' Instead, of \"going to do\", Paquita steps up to the punchy one-word future \"you will do\" as she reels off three huge Spanish television hits of the era."),
     (3, None, "'I'll catch up with you later, Canelón. Let's go.' In Spain, the casual action word \"pillar\" means \"catch\" or \"nab\", so \"I'll catch you\" promises Fernando a future reckoning. \"Vámonos\" glues \"us\" onto \"we go\" for a brisk \"let's get out of here\"."),
     (4, None, "'Come on, marching out.' Originally used for soldiers or runway models parading in formation, this \"-ando\" word is a funny Spanish way to say \"move along\" with your head held high."),
     (5, None, "'Please don't touch me, sir.' Swapping \"her\" for \"me\" turns Magüi's earlier warning into \"don't touch me\". Adding polite \"señor\" at the end makes Paquita's brush-off extra icy."),

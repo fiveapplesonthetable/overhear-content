@@ -77,7 +77,7 @@ WALK = [
     (1, None, "'I didn't know he was your son.' Camille uses two past forms here for states that lasted: 'I knew' and 'it was'. With the 'not' around the first one."),
     (2, None, "'He didn't tell me.' Camille speaks a short sentence packed with small words: 'me' and 'it' both sit before the action word, inside the 'not'."),
     (3, None, "'You're completely irresponsible!' The long word in the middle means 'completely'. That ending often works like English 'ly'."),
-    (4, None, "'You're the one who lies to everybody!' Literally 'it's you who lies'. That's how French puts weight on one person. And 'everybody' is literally 'all the world'."),
+    (4, None, "'You're the one who lies to everybody!' Literally, 'it's you who lies'. That's how French puts weight on one person. And 'everybody' is literally 'all the world'."),
     (5, None, "'You never took care of us!' Never replaces the ordinary second negative word after the past helper. The action takes the helper be because it comes with the short self word. Of introduces the people Mathias failed to look after."),
     (6, None, "'Stay away from my family!' The French statement literally says you do not come near my family. Spoken forcefully, it acts as a warning without changing the ordinary order. My family excludes Camille, and her next line challenges that exclusion."),
     (7, None, "'I'm your family too!' The familiar word for your has its feminine form because family is feminine; it does not follow Mathias's gender. Me too before the ordinary I insists that Camille belongs among the people he has just claimed as his family."),

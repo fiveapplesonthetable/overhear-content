@@ -94,7 +94,7 @@ WALK = [
     (2, None, "'But he wants a younger woman.' The comparison literally says 'more young'. The small word for 'more' goes before the description, as Miranda explains the problem."),
     (3, None, "'If you want the part, you have to change.' The second half uses the verb 'must'. Cecile doesn't see what he means."),
     (4, None, "'I don't understand.' Notice the two little negative words around the verb. Keep that in mind; there's a variation at the end of the scene."),
-    (5, 'Tu as de la chance.', "'You're lucky.' Literally 'you have some luck'. French often uses 'to have' where English uses 'to be'."),
+    (5, 'Tu as de la chance.', "'You're lucky.' Literally, 'you have some luck'. French often uses 'to have' where English uses 'to be'."),
     (5, 'Il faut juste faire les joues.', "'You just need to have your cheeks done.' The first two words mean 'it is necessary', a very handy way to say what has to happen, without saying who. Cecile can't believe it."),
     (6, None, "'An operation? Are you serious?' Cecile uses the feminine form of 'serious' because she is questioning Miranda. The rising voice makes it a question without a special question expression."),
     (7, None, "'It's lipofilling.' The small word before the treatment name introduces an unspecified amount. Miranda gives it a technical name to make the proposal sound less alarming."),

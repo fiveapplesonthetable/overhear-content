@@ -62,7 +62,7 @@ STORY = [
 WALK = [
  (0,
   None,
-  "'Hello, Teacher Wang Er!' In Chinese media and creative teams, people routinely address seasoned seniors as "
+  "'Hello, Teacher Wang Er!' In Chinese, media and creative teams, people routinely address seasoned seniors as "
   '\"laoshi\", \'teacher\', as a mark of respect, paired with polite \"nin hao\".'),
  (1,
   None,

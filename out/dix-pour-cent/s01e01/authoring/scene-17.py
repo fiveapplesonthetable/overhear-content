@@ -96,7 +96,7 @@ WALK = [
     (7, None, "'They thought it would be better with a man.' Gabriel reports a past decision using 'have' and 'thought'. Inside the reported idea, 'would be' presents the proposed change as hypothetical."),
     (8, None, "'A man?' She repeats it, staring at him."),
     (9, None, "'I know, it's crazy!' He pretends to be as shocked as she is."),
-    (10, None, "'It has nothing to do with me?' Literally 'that has nothing to see with me'. She's giving him one last chance."),
+    (10, None, "'It has nothing to do with me?' Literally, 'that has nothing to see with me'. She's giving him one last chance."),
     (11, 'Pas du tout!', "'Not at all!' Gabriel uses a strong, useful way to say no."),
     (11, 'Elle a dit que tu étais fantastique.', "'She said you were fantastic.' The second verb is in the past form French uses for descriptions, 'you were'."),
     (12, None, "'I know you're disappointed, but we'll bounce back.' The description 'disappointed' has a feminine spelling for Cecile. After 'but', a present form of 'go' introduces their supposed next step."),

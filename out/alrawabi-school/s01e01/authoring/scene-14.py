@@ -37,7 +37,7 @@ WALK = [
     (4, None, ['\'Cut out your cold attitude with us.\' "Battli" tells one girl to stop or quit doing something, and "harakaatik" literally means "your moves" or "your antics".']),
     (5, None, ['\'By the way, I am just like you.\' "Ala fikra" literally says "on an idea", and in conversation it works exactly like "by the way" or "for your information".']),
     (6, None, ['\'I am not very happy about this situation.\' "Mabsoota" is one of Levantine Arabic\'s favorite words for feeling happy, pleased, or content.']),
-    (7, None, ['\'So stay in your own lane and leave me in mine.\' Literally "khalleekom bi-haalkom" says "keep yourselves in your own state"—a crisp way to say "mind your own business".']),
+    (7, None, ['\'So stay in your own lane and leave me in mine.\' Literally, "khalleekom bi-haalkom" says "keep yourselves in your own state"—a crisp way to say "mind your own business".']),
     (8, None, ['\'Roqayya, do you think she heard everything?\' "Tiftikri" asks a woman "do you suppose", and "simiat" means "she heard".']),
     (9, None, ['\'What do you mean? Which matter exactly?\' "Shu qasdik" literally asks "what is your intention", the everyday Jordanian way to ask a girl "what do you mean?".']),
     (10, None, ['\'I mean the talk that happened in the washroom.\' Answering "shu qasdik" with "qasdi"—"my intention is"—mirrors the question word for word.']),

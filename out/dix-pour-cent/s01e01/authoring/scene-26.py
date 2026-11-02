@@ -91,7 +91,7 @@ WALK = [
     (0, 'Merci, Mathias!', "'Thanks, Mathias!' Pure sarcasm. Then he says what he really thinks."),
     (0, 'Tu as volé Cécile!', "'You stole Cecile!' This is the everyday past: the action word 'to have' plus the past form of 'steal'. It's the language point of this scene, and you'll hear it again and again."),
     (1, None, "'And don't say it was for the good of the agency.' Gabriel gives a negative command where the negative wraps around the casual 'say'. Gabriel knows exactly what Mathias will answer."),
-    (2, None, "'Of course it was, Gabriel.' Literally 'of course yes'. Mathias doesn't apologise for anything."),
+    (2, None, "'Of course it was, Gabriel.' Literally, 'of course yes'. Mathias doesn't apologise for anything."),
     (3, None, "'Two other agencies wanted Cecile.' The verb is 'to want' in the past, describing how things stood: a different past tense, used for background."),
     (4, None, "'Twenty-four more hours, and she comes back!' Gabriel speaks in the present to make it vivid: one more day, and she would have come home."),
     (5, None, "'We didn't have twenty-four hours.' The word at the start means 'we' in everyday speech."),
@@ -108,5 +108,5 @@ WALK = [
     (15, None, "'Where did you find her? She's dangerous.' This question word for 'where' comes at the very end, which is common in spoken French."),
     (16, 'Gabriel ne sait rien.', "'Gabriel knows nothing.' The negative pair literally leaves out the ordinary word for 'not': 'nothing' supplies the second part. Mathias says he has kept the assistant's mistake from Gabriel."),
     (16, 'Mais règle ce problème très vite!', "'But fix this problem very quickly!' This instruction literally uses the familiar singular form without a separate 'you'. The final two words add urgency."),
-    (17, None, "'Have a nice day.' Literally 'good day'. A sweet goodbye, literally, that leaves Andrea with a big problem."),
+    (17, None, "'Have a nice day.' Literally, 'good day'. A sweet goodbye, literally, that leaves Andrea with a big problem."),
 ]

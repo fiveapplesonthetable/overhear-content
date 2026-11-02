@@ -61,7 +61,7 @@ WALK = [
         (None, "はいはい"), "—saying yes twice in a row this word means 'yeah, yeah, whatever you say'."
     ]),
     (6, '助かったよ。', [
-        '"\'You really helped me out.\' Literally " You can catch ',
+        '"\'You really helped me out.\' Literally, " You can catch ',
         (None, "助かったよ"), " this word means 'I was saved!'—the everyday way speakers thank someone whenever a small favour rescues them."
     ]),
     (7, None, [

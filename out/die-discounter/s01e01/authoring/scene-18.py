@@ -41,5 +41,5 @@ WALK = [
     (5, None, "'You do have my number, right?' Slipping that tiny word in after 'you have' signals shared knowledge — 'as we both know' — and 'or?' at the end checks for confirmation."),
     (6, None, "'Yes, I have it. Safe travels, Beyza!' Wishing someone a 'good journey' or 'good drive' is a warm two-word send-off you can use whenever a visitor heads home by car, train, or bus."),
     (7, None, "'I think she just doesn't quite dare yet.' Here is the same 'dare oneself' expression Flora used with Titus at the till, softened by 'not so rightly' to mean 'not quite yet'."),
-    (8, None, "'She doesn't want to show yet that she's into me.' Literally Thorsten says 'that she stands on me' — the everyday colloquial idiom across Germany for having a crush on someone.")
+    (8, None, "'She doesn't want to show yet that she's into me.' Literally, Thorsten says 'that she stands on me' — the everyday colloquial idiom across Germany for having a crush on someone.")
 ]

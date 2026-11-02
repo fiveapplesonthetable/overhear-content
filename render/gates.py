@@ -121,49 +121,85 @@ class AudioGates:
         cer = jiwer.cer(ref_norm, hyp_norm)
         return True, cer, hyp_text.strip()
 
-    def check_transient(self, wav, sr):
+    def check_transient(self, wav, sr, n_internal_sents=0):
         hop = int(sr * 0.01)
-        if len(wav) < hop: return True, "ok", wav
-        
-        rms = librosa.feature.rms(y=wav, frame_length=hop*2, hop_length=hop)[0]
-        silence_thresh = rms.max() * 0.05
+        if len(wav) < hop * 4:
+            return True, "ok", wav
+
+        rms = librosa.feature.rms(y=wav, frame_length=hop * 2, hop_length=hop)[0]
+        pk_rms = float(rms.max()) if len(rms) > 0 else 0.0
+        if pk_rms <= 1e-6:
+            return True, "ok", wav
+
+        silence_thresh = max(10.0 ** (-44.0 / 20.0), pk_rms * 0.06)
         speech_rms = rms[rms >= silence_thresh]
-        mean_speech_rms = speech_rms.mean() if len(speech_rms) > 0 else 0
-        if mean_speech_rms == 0: return True, "ok", wav
-        
-        b, a = scipy.signal.butter(4, 150, btype='lowpass', fs=sr)
-        wav_low = scipy.signal.filtfilt(b, a, wav)
-        rms_low = librosa.feature.rms(y=wav_low, frame_length=hop*2, hop_length=hop)[0]
-        
-        first_speech = np.where(rms >= silence_thresh)[0][0] * hop
-        last_speech = np.where(rms >= silence_thresh)[0][-1] * hop
-        
-        # Check bursts
-        retake = False
-        trim_start = 0
-        trim_end = len(wav)
-        
-        for i, (r, r_low) in enumerate(zip(rms, rms_low)):
-            if r > mean_speech_rms * 4.0 or r_low > mean_speech_rms * 4.0:
-                pos = i * hop
-                time_ms = pos / sr * 1000
-                if pos < first_speech:
-                    trim_start = max(trim_start, pos + hop)
-                elif pos > last_speech:
-                    trim_end = min(trim_end, pos - hop)
-                else:
-                    if time_ms < 80 or time_ms > (len(wav)/sr*1000 - 80):
-                        retake = True
-        
-        if retake:
-            return False, "transient", wav
-        
-        if trim_start > 0 or trim_end < len(wav):
-            if trim_start < trim_end:
-                wav = wav[trim_start:trim_end]
+        if len(speech_rms) == 0:
+            return True, "ok", wav
+        med_speech_rms = float(np.median(speech_rms))
+        if med_speech_rms <= 1e-6:
+            return True, "ok", wav
+
+        # 1. Detect active speech islands; strip short (< 220 ms) post-silence EOS pops/bangs and reject (>= 220 ms) babble
+        act = rms >= max(silence_thresh, med_speech_rms * 0.10)
+        islands = []
+        i = 0
+        while i < len(act):
+            if act[i]:
+                j = i + 1
+                while j < len(act) and act[j]:
+                    j += 1
+                islands.append((i, j))
+                i = j
             else:
+                i += 1
+
+        while len(islands) >= 2:
+            prev_s, prev_e = islands[-2]
+            last_s, last_e = islands[-1]
+            gap_ms = (last_s - prev_e) * 10
+            tail_ms = (last_e - last_s) * 10
+            main_ms = (islands[-2][1] - islands[0][0]) * 10
+            if main_ms >= 100 and gap_ms >= 75 and tail_ms <= 220:
+                cut_sample = min(len(wav), (prev_e + 2) * hop)
+                wav = wav[:cut_sample]
+                rms = rms[:prev_e + 2]
+                islands.pop()
+            elif n_internal_sents == 0 and main_ms >= 100 and gap_ms >= 180 and tail_ms > 220:
+                # Single-sentence turn followed by silence and extra hallucinated babble/echo (e.g. F5 bleed)
                 return False, "transient", wav
-                
+            else:
+                break
+
+        # Also strip any isolated < 120 ms pre-speech click separated by >= 60 ms before main speech
+        if len(islands) >= 2:
+            first_s, first_e = islands[0]
+            next_s, _ = islands[1]
+            if (first_e - first_s) * 10 <= 120 and (next_s - first_e) * 10 >= 60:
+                cut_start = max(0, (next_s - 2) * hop)
+                wav = wav[cut_start:]
+                rms = librosa.feature.rms(y=wav, frame_length=hop * 2, hop_length=hop)[0]
+
+        if len(wav) < hop * 4 or len(rms) == 0:
+            return False, "transient", wav
+
+        # 2. Check 10 ms broadband & < 150 Hz low-frequency bursts against median active speech RMS
+        speech_idx = np.where(rms >= max(10.0 ** (-44.0 / 20.0), float(rms.max()) * 0.06))[0]
+        if len(speech_idx) == 0:
+            return False, "transient", wav
+        med_rms = float(np.median(rms[speech_idx]))
+        b, a = scipy.signal.butter(4, 150, btype="lowpass", fs=sr)
+        wav_low = scipy.signal.filtfilt(b, a, wav)
+        rms_low = librosa.feature.rms(y=wav_low, frame_length=hop * 2, hop_length=hop)[0]
+
+        f0_i, f1_i = int(speech_idx[0]), int(speech_idx[-1])
+        for idx_f in range(f0_i, min(len(rms), len(rms_low), f1_i + 1)):
+            r, rl = float(rms[idx_f]), float(rms_low[idx_f])
+            near_edge = (idx_f - f0_i) <= 12 or (f1_i - idx_f) <= 25   # first 120 ms or last 250 ms of active speech
+            if near_edge and (r > med_rms * 3.1 or rl > med_rms * 1.9):
+                return False, "transient", wav
+            if r > med_rms * 4.2 or rl > med_rms * 2.6:
+                return False, "transient", wav
+
         return True, "ok", wav
 
     def check_prosody(self, wav, sr):
@@ -188,9 +224,11 @@ class AudioGates:
     def score_candidates(self, wavs, sr, ref_path, text_plain, lang, cpu_pool=None, beam_size=3):
         """Score N candidate takes through all 5 §6 gates + F0 prosody tie-breaker.
         Returns (best_wav, all_ok, counts_dict, best_meta)."""
+        t_strip = text_plain.strip()
+        n_int_sents = sum(t_strip[:-1].count(p) for p in (". ", "! ", "? ", "… ", "。", "！", "？", "؟")) if len(t_strip) > 2 else 0
         def _cpu_prep(w):
-            len_ok, len_reason = self.check_length_pause(w, sr, text_plain, lang)
-            tran_ok, tran_reason, w_trim = self.check_transient(w, sr)
+            tran_ok, tran_reason, w_trim = self.check_transient(w, sr, n_internal_sents=n_int_sents)
+            len_ok, len_reason = self.check_length_pause(w_trim, sr, text_plain, lang)
             w_16k = (librosa.resample(w_trim, orig_sr=sr, target_sr=16000) if sr != 16000 else w_trim).astype(np.float32)
             f0_std, pros_pen = self.check_prosody(w_16k, 16000)
             return len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen
@@ -213,7 +251,8 @@ class AudioGates:
         for idx, (len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen) in enumerate(prepped):
             emb = self.get_embedding(w_16k, 16000)
             sim_val = float(torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item())
-            sim_ok = sim_val >= 0.65
+            sim_thresh = 0.72 if lang == "en" else 0.67
+            sim_ok = sim_val >= sim_thresh
 
             segs, _ = self.whisper.transcribe(
                 w_16k, language=lang, beam_size=beam_size,

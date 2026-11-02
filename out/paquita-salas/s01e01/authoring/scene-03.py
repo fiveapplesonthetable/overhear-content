@@ -69,18 +69,18 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'And what else?' Literally and what more, using the everyday word for more where English reaches for else. You can ask this three-word question in shops, interviews, or chats."),
+    (0, None, "'And what else?' Literally, and what more, using the everyday word for more where English reaches for else. You can ask this three-word question in shops, interviews, or chats."),
     (1, None, "'I shot a film in China.' The first word comes from the action word for rolling camera reels, so in cinema it means shoot or film. Notice the feminine word for a before film."),
     (2, None, "'Yes, theatre and micro-theatre. I've done more.' Adding the prefix for micro onto the word for theatre names short fifteen-minute plays performed for tiny audiences in Madrid. Then I have plus the irregular form for done means I've done."),
     (3, None, "'The ten Pasapalabra episodes.' Using the masculine plural word for the right before ten turns the show's title into ten appearances on Pasapalabra without needing a word for episodes."),
     (4, None, "'Thirty.' Lidia corrects ten to thirty in a single word. Unlike twenty-five, which joins into one word, numbers in the thirties add the little word for and if you keep counting past thirty."),
-    (5, None, "'Thirty? Goodness me, Lidi.' Literally mother of mine, a warm, harmless exclamation you'll hear constantly in Spain for surprise or disbelief. Lidi is Paquita's affectionate short name for Lidia."),
+    (5, None, "'Thirty? Goodness me, Lidi.' Literally, mother of mine, a warm, harmless exclamation you'll hear constantly in Spain for surprise or disbelief. Lidi is Paquita's affectionate short name for Lidia."),
     (6, None, "'We represent people with a lot of talent and enthusiasm.' Notice how the word for a lot changes its ending: masculine singular before talent, then feminine plural before the word for desires or keenness, which is how Spanish says enthusiasm."),
     (7, None, "'People who want to work. That's very important.' Because the word for people is grammatically singular, wants stays singular too. In the second sentence, that uses the neuter form because it points to the whole idea."),
     (8, None, "'There are lots of people who don't actually want to work.' One short three-letter word at the front covers both there is and there are, never changing for singular or plural. At the end, in reality means actually."),
     (9, None, "'They offered her a lovely part in Puente Viejo.' The word for paper also means an acting part or role, since actors used to receive their lines on a roll of paper. Lovely comes after the word it describes."),
-    (10, None, "'A nurse role. She had an incredible storyline.' Literally a role of nurse, with no word for a before nurse. The word for plot or storyline originally meant the weave of threads in cloth."),
+    (10, None, "'A nurse role. She had an incredible storyline.' Literally, a role of nurse, with no word for a before nurse. The word for plot or storyline originally meant the weave of threads in cloth."),
     (11, None, "'She didn't want to do it because Puente Viejo wasn't big enough for her.' Notice how the little word for it sits in front of wanted rather than after to do, though tacking it onto do would also work in Spanish."),
     (12, None, "'Puente Viejo isn't enough for you? This is a job.' After the word for, casual you uses its special form rather than the subject form. Calling something little here means beneath you or not prestigious enough."),
-    (13, None, "'Puente Viejo called you. Take that opportunity.' Literally they called you from Puente Viejo. Then Paquita uses a direct casual command meaning make the most of or seize that opportunity.")
+    (13, None, "'Puente Viejo called you. Take that opportunity.' Literally, they called you from Puente Viejo. Then Paquita uses a direct casual command meaning make the most of or seize that opportunity.")
 ]

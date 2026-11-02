@@ -35,7 +35,7 @@ OPENER = "Watch how Muranishi agrees politely with a customer's objection before
 
 WALK = [
     (0, None, [
-        '"\'Well, look at you go!\' Literally " We can hear ',
+        '"\'Well, look at you go!\' Literally, " We can hear ',
         ("ono", "やるじゃないか"), " asks 'do you not do well?', an idiomatic pat on the back meaning 'hey, not bad at all!'"
     ]),
     (1, None, [

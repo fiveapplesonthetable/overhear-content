@@ -83,7 +83,7 @@ WALK = [(0,
   'plural too: your, first, all with a plural ending. Samuel thanks everyone and gets down to business.'),
  (2,
   'Bon, dernière réunion avant mon départ.',
-  "'Right, last meeting before I go.' Literally 'before my departure'. The little opening word is how French "
+  "'Right, last meeting before I go.' Literally, 'before my departure'. The little opening word is how French "
   "speakers say 'right' or 'okay then' when they move on. He asks for news."),
  (3,
   None,

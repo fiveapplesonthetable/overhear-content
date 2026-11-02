@@ -36,7 +36,7 @@ STORY = [
 
 WALK = [
     (0, None, "'Okay, now open up the till.' German builds 'open up' by pairing the everyday action word for 'make' with the word for 'on' or 'open' at the very end. Notice too that the word for cash register covers both the till drawer itself and the whole checkout lane."),
-    (2, None, "'Go on, be a bit bolder! Speak a little louder.' Literally Flora tells him 'dare yourself calmly a bit more' — here the word for 'calmly' acts as a warm encourager meaning 'feel free to' or 'don't hold back'. Then 'make a bit louder' is casual shorthand for speaking up."),
+    (2, None, "'Go on, be a bit bolder! Speak a little louder.' Literally, Flora tells him 'dare yourself calmly a bit more' — here the word for 'calmly' acts as a warm encourager meaning 'feel free to' or 'don't hold back'. Then 'make a bit louder' is casual shorthand for speaking up."),
     (3, None, "'You are welcome to come to checkout two! It is free now.' Addressing shoppers calls for the polite 'you', and slipping in the word for 'gladly' is how German says 'you're welcome to'. In the second sentence, 'the' stands in for the feminine checkout lane — 'she is free now'."),
     (4, None, "'Hello Frau Buchholz, how are you? I haven't seen you in a long time.' Word for word, the polite greeting asks 'how goes it to you?', using the formal indirect form of 'you'. Follow that with 'long not seen' and you have a warm, reusable line for any familiar face."),
     (5, None, "'I could really use a bit of a holiday again too.' The plain action word here means 'need', softened by a cluster of small conversational words meaning 'once again a little bit'. In German, the word for holiday specifically means time off work rather than a public bank holiday."),

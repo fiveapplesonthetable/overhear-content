@@ -186,6 +186,24 @@ def group_turn_chunks(sents, text: str, max_chars: int = 0):
     return chunks
 
 
+_INTRO_COMMA_RE = re.compile(
+    r"(^|(?<=[.!?…]\s)|(?<=['\"]\s))"
+    r"(A little later|Later that (?:night|evening|day|morning)|The next (?:morning|day)|"
+    r"Tomorrow morning|This morning|Last night|Right now|At first|At last|At the start|At the end|"
+    r"In the present tense|In the past tense|In the future tense|"
+    r"In Russian|In French|In Spanish|In German|In Italian|In Portuguese|In Arabic|In Japanese|In Korean|In Mandarin|In Chinese|In English|"
+    r"Meanwhile|Afterwards|Instead|Otherwise|Fortunately|Unfortunately|Luckily|Finally|Normally|Usually|Literally|Word for word)"
+    r"\s+(?=[A-Z\"'a-z])"
+)
+
+
+def polish_english_commas(text: str) -> str:
+    """Insert missing natural prosodic commas after introductory English phrases for TTS delivery."""
+    def _repl(m):
+        return f"{m.group(1)}{m.group(2)}, "
+    return _INTRO_COMMA_RE.sub(_repl, text)
+
+
 def prepare_segment(seg_i: int, role: str, text: str, lang: str, words, policy: str, gap: float, isent: float,
                     hom=None, ruaccent=None, max_turn_chars: int = 0):
     """Sentences (or merged whole-turn chunks <= `max_turn_chars`) of one segment.
@@ -194,7 +212,8 @@ def prepare_segment(seg_i: int, role: str, text: str, lang: str, words, policy: 
     out = []
     if lang != "ru" or policy == "none":
         for k, (a, b, s) in enumerate(sents):
-            out.append(Sentence(seg_i, k, role, lang, s, s, a, gap=(gap if k == len(sents) - 1 else isent)))
+            s_tts = polish_english_commas(s) if lang == "en" else s
+            out.append(Sentence(seg_i, k, role, lang, s, s_tts, a, gap=(gap if k == len(sents) - 1 else isent)))
         return out
     inserts, expected, missing = segment_inserts(text, words, policy, hom)
     for k, (a, b, s) in enumerate(sents):
