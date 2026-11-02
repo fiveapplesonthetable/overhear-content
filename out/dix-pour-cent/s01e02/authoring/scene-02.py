@@ -15,7 +15,7 @@ INTRO = ('Camille and Hervé are walking to the agency. After ten days in her ne
  "Listen for the difference between her friendly conversation with Hervé and her father's demand for "
  'distance at work.')
 OPENER = "Let's take it slowly. Camille and Hervé walk in together, and she starts complaining straight away."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Mathias asks Camille to avoid the familiar you at work, yet he keeps using it himself. The verb for '
  "addressing someone that way makes the demand explicit. Camille's reply reminds us why the professional "
  'distance hurts: she is his daughter. See you next time!')
@@ -99,74 +99,24 @@ STORY = [('camille',
   "Even I don't know that I'm your daughter!",
   [(82, 'Moi-même, je ne sais pas que je suis ta fille')],
   '')]
-WALK = [(0,
-  "Je travaille tous les jours jusqu'à vingt-deux heures.",
-  "'I work until ten at night every day.' On the twenty-four-hour clock, ten at night is twenty-two hours."),
- (0, "C'est dingue.", "'It's crazy.' Camille uses a casual word, very common among young people."),
- (1,
-  None,
-  "'I'm exhausted after only ten days.' The word for exhausted takes a feminine ending, because Camille is a "
-  'woman.'),
- (2,
-  None,
-  "'How do you all manage to have a life?' Here you means the assistants as a group. The wording literally "
-  'asks how you do it in order to have a life: she wants to know how they manage, rather than what they are '
-  'doing.'),
- (3,
-  None,
-  "'We don't have one.' The short word between the negative and have refers back to a life. English says one "
-  'here. Reusing that small word lets Hervé answer without repeating the whole question.'),
- (4,
-  None,
-  "'I've been on my own for three months.' French uses the present tense with this word for 'since' or "
-  "'for': literally 'I am alone since three months'. In the show she puts it far more bluntly."),
- (5,
-  None,
-  "'Three months, Camille! It's unhealthy.' Unhealthy contains a beginning meaning bad and an ending meaning "
-  'healthy. Hervé is exaggerating to tease Camille, rather than giving her medical advice.'),
- (6,
-  None,
-  "'And I'm not going to meet anyone here.' The near future, made negative: the two little negative "
-  "words go around 'to go'."),
- (7,
-  None,
-  "'I'm walking up. Are you coming?' Literally 'I go up on foot'. Hervé takes the stairs, and they use the "
-  "casual 'you', like all the assistants."),
- (8, None, "'No way!' Literally 'out of the question'. Camille takes the lift, and Mathias steps in."),
- (9,
-  "Qu'est-ce qui va se passer maintenant?",
-  "'What's going to happen now?' The opening what asks about the thing that will happen. The verb for go "
-  "followed by happen points ahead, while now connects the question to Samuel's death and the future of the "
-  'agency.'),
- (10,
-  None,
-  "'I don't know. We're waiting to hear from the notary.' The French wording says they are waiting for news "
-  'from the notary. News is plural here. From the combines into one short word before the notary, who deals '
-  "with Samuel's estate."),
- (11,
-  None,
-  "'Don't use the familiar you with me here, will you?' The opening literally says avoid addressing me as "
-  'the familiar you. The ending will you makes it a request. Mathias demands professional distance, while '
-  'still using the familiar you himself.'),
- (12, None, "'We're alone here.' The word for 'alone' is plural, because there are two of them."),
- (13,
-  None,
-  "'Camille!' Just her name, used as a warning rather than a greeting. His sharp tone tells her to drop the "
-  'subject; the French spelling gives the name a final sound like the y in yes.'),
- (14,
-  None,
-  "'Have I done something wrong?' The two opening words turn the statement into a yes-or-no question, "
-  'without changing the order of the rest. Something is literally some thing, followed by wrong.'),
- (15,
-  None,
-  "'Apart from getting a job here?' Apart from introduces the exception that Mathias holds against her. The "
-  'French phrase describes a job she has already found. He objects to her working in his own agency.'),
- (16,
-  None,
-  "'I'm just doing my job. I don't even look at you.' Just means only here. The ending not even strengthens "
-  'the denial; even sits before the final negative word, rather than meaning the same.'),
- (17,
-  None,
-  "'Even I don't know that I'm your daughter!' The opening means I myself and adds emphasis to the I that "
-  "follows. Daughter and girl share one French word; your daughter makes the family meaning clear. Camille's "
-  'bitter joke exposes how hard he is making her hide their relationship.')]
+WALK = [
+    (0, "Je travaille tous les jours jusqu'à vingt-deux heures.", "'I work until ten at night every day.' On the twenty-four-hour clock, ten at night is twenty-two hours."),
+    (0, "C'est dingue.", "'It's crazy.' Camille uses a casual word, very common among young people."),
+    (1, None, "'I'm exhausted after only ten days.' The word for exhausted takes a feminine ending, because Camille is a woman."),
+    (2, None, "'How do you all manage to have a life?' Here you means the assistants as a group. The wording literally asks how you do it in order to have a life: she wants to know how they manage, rather than what they are doing."),
+    (3, None, "'We don't have one.' The short word between the negative and have refers back to a life. English says one here. Reusing that small word lets Hervé answer without repeating the whole question."),
+    (4, None, "'I've been on my own for three months.' French uses the present tense with this word for 'since' or 'for': literally 'I am alone since three months'. In the show she puts it far more bluntly."),
+    (5, None, "'Three months, Camille! It's unhealthy.' Unhealthy contains a beginning meaning bad and an ending meaning healthy. Hervé is exaggerating to tease Camille, rather than giving her medical advice."),
+    (6, None, "'And I'm not going to meet anyone here.' The near future, made negative: the two little negative words go around 'to go'."),
+    (7, None, "'I'm walking up. Are you coming?' Literally 'I go up on foot'. Hervé takes the stairs, and they use the casual 'you', like all the assistants."),
+    (8, None, "'No way!' Literally 'out of the question'. Camille takes the lift, and Mathias steps in."),
+    (9, "Qu'est-ce qui va se passer maintenant?", "'What's going to happen now?' The opening what asks about the thing that will happen. The verb for go followed by happen points ahead, while now connects the question to Samuel's death and the future of the agency."),
+    (10, None, "'I don't know. We're waiting to hear from the notary.' The French wording says they are waiting for news from the notary. News is plural here. From the combines into one short word before the notary, who deals with Samuel's estate."),
+    (11, None, "'Don't use the familiar you with me here, will you?' The opening literally says avoid addressing me as the familiar you. The ending will you makes it a request. Mathias demands professional distance, while still using the familiar you himself."),
+    (12, None, "'We're alone here.' This expression for 'alone' is plural, because there are two of them."),
+    (13, None, "'Camille!' Just her name, used as a warning rather than a greeting. His sharp tone tells her to drop the subject; the French spelling gives the name a final sound like the y in yes."),
+    (14, None, "'Have I done something wrong?' The two opening words turn the statement into a yes-or-no question, without changing the order of the rest. Something is literally some thing, followed by wrong."),
+    (15, None, "'Apart from getting a job here?' Apart from introduces the exception that Mathias holds against her. The French phrase describes a job she has already found. He objects to her working in his own agency."),
+    (16, None, "'I'm just doing my job. I don't even look at you.' Just means only here. The ending not even strengthens the denial; even sits before the final negative word, rather than meaning the same."),
+    (17, None, "'Even I don't know that I'm your daughter!' The opening means I myself and adds emphasis to the I that follows. Daughter and girl share one French word; your daughter makes the family meaning clear. Camille's bitter joke exposes how hard he is making her hide their relationship."),
+]

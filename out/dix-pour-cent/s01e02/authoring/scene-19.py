@@ -15,7 +15,7 @@ INTRO = ('Andréa meets Françoise in a park and pretends the encounter is a sur
  'rivalry. Elsewhere, Line is making barbed comments about Françoise. We follow the park conversation in '
  'French first.')
 OPENER = "Let's go back over it. Andréa plays the surprise, with a lot of energy."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'Andréa has set her trap with a smile, and you followed a very polite fight in French. See you next time!'
 CLOSING = ('francoise', 'À demain!')
 STORY = [('andrea',
@@ -79,68 +79,21 @@ STORY = [('andrea',
   'I still think the part was made for you.',
   [(588, 'Je pense toujours que le rôle était fait pour vous')],
   '')]
-WALK = [(0,
-  None,
-  "'What a surprise! Françoise!' This question word for 'which' also works as an exclamation, like 'what a' "
-  'in English. Françoise is calm and cool.'),
- (1,
-  None,
-  "'Andréa!' Françoise answers the greeting with Andréa's first name. A name on its own can recognise "
-  'someone you have just noticed, without adding another greeting.'),
- (2,
-  None,
-  "'I'm coming from a screening.' The French wording literally says I come out of a screening. From "
-  'identifies the event Andréa says she has just left. The same action word also describes leaving a '
-  'building.'),
- (3,
-  None,
-  "'How are you?' The polite form, with the formal 'you'. Andréa is careful now; the last time they met, she "
-  'lost her temper.'),
- (4,
-  None,
-  "'Very well, thank you.' Well describes how she is doing, rather than calling her a good person. Very "
-  "strengthens it, and the thanks acknowledges Andréa's polite question."),
- (5,
-  None,
-  "'I'm sorry. I got carried away.' Both words end in the feminine spelling because a woman is speaking, "
-  "though you can't hear it."),
- (6,
-  None,
-  "'It's forgotten.' Forgotten describes the matter as finished and forgiven. The short reply accepts the "
-  "apology without repeating what happened at the florist's."),
- (7,
-  None,
-  "'Gabor respects your decision.' The word for 'your' is the formal one, matching the formal 'you'."),
- (8,
-  None,
-  "'He's a brilliant young man. How is he?' In the question the verb and the pronoun swap places, with a "
-  "little extra sound in between. That swap is today's grammar point: a more elegant way to ask a question."),
- (9,
-  None,
-  "'To tell the truth, rather well. Really well, in fact.' Rather well is a measured answer; really well "
-  'makes it stronger. The last word adds emphasis, like even or in fact, rather than meaning the same.'),
- (10,
-  None,
-  "'It's still confidential, but I can tell you.' Two little pronouns sit before the verb: 'to you' and "
-  "'it'. Andréa pretends to share a secret."),
- (11,
-  None,
-  "'We're taking Line Renaud.' The word at the start means 'we' in everyday speech. And it's a lie: Gabor "
-  "hasn't chosen Line at all."),
- (12,
-  None,
-  "'Line... Line Renaud?' Repeating the name as a question checks that she heard correctly. The pause before "
-  'the full name also lets us hear her surprise; Andréa waits for it to have its effect.'),
- (13,
-  None,
-  "'It's Gabor's idea. You and Line have nothing in common.' The negative here pairs with the word for "
-  "'nothing'. Andréa knows exactly where it hurts."),
- (14,
-  None,
-  "'That's wonderful. We see her so rarely on screen.' So strengthens rarely, rather than introducing a "
-  "condition meaning if. The short word for her comes before see and points back to Line. Françoise's polite "
-  "compliment carries a criticism of Line's film career."),
- (15,
-  None,
-  "'I still think the part was made for you.' The word for 'still' is the same as 'always'. Andréa plays her "
-  "last card, and Françoise's answer will show it has worked. Let's listen to the whole meeting again.")]
+WALK = [
+    (0, None, "'What a surprise! Françoise!' This question word for 'which' also works as an exclamation, like 'what a' in English. Françoise is calm and cool."),
+    (1, None, "'Andréa!' Françoise answers the greeting with Andréa's first name. A name on its own can recognise someone you have just noticed, without adding another greeting."),
+    (2, None, "'I'm coming from a screening.' The French wording literally says I come out of a screening. From identifies the event Andréa says she has just left. The same action word also describes leaving a building."),
+    (3, None, "'How are you?' The polite form, with the formal 'you'. Andréa is careful now; the last time they met, she lost her temper."),
+    (4, None, "'Very well, thank you.' Well describes how she is doing, rather than calling her a good person. Very strengthens it, and the thanks acknowledges Andréa's polite question."),
+    (5, None, "'I'm sorry. I got carried away.' Both words end in the feminine spelling because a woman is speaking, though you can't hear it."),
+    (6, None, "'It's forgotten.' Forgotten describes the matter as finished and forgiven. The short reply accepts the apology without repeating what happened at the florist's."),
+    (7, None, "'Gabor respects your decision.' This expression for 'your' is the formal one, matching the formal 'you'."),
+    (8, None, "'He's a brilliant young man. How is he?' In the question the verb and the pronoun swap places, with a little extra sound in between. That swap is today's grammar point: a more elegant way to ask a question."),
+    (9, None, "'To tell the truth, rather well. Really well, in fact.' Rather well is a measured answer; really well makes it stronger. The last word adds emphasis, like even or in fact, rather than meaning the same."),
+    (10, None, "'It's still confidential, but I can tell you.' Two little pronouns sit before the verb: 'to you' and 'it'. Andréa pretends to share a secret."),
+    (11, None, "'We're taking Line Renaud.' The word at the start means 'we' in everyday speech. And it's a lie: Gabor hasn't chosen Line at all."),
+    (12, None, "'Line... Line Renaud?' Repeating the name as a question checks that she heard correctly. The pause before the full name also lets us hear her surprise; Andréa waits for it to have its effect."),
+    (13, None, "'It's Gabor's idea. You and Line have nothing in common.' The negative here pairs with French's word for 'nothing'. Andréa knows exactly where it hurts."),
+    (14, None, "'That's wonderful. We see her so rarely on screen.' So strengthens rarely, rather than introducing a condition meaning if. The short word for her comes before see and points back to Line. Françoise's polite compliment carries a criticism of Line's film career."),
+    (15, None, "'I still think the part was made for you.' That short word for 'still' is the same as 'always'. Andréa plays her last card, and Françoise's answer will show it has worked."),
+]

@@ -44,6 +44,6 @@ WALK = [
     (9, None, '\'Bring me another fish just like this!\' "Prinesite", bring, has the "-te" of formal commands. "Yeshchyo odnu takuyu" ends in -u to match "rybu", fish.'),
     (10, None, '\'We will prepare everything right away, bon appetit.\' "Priyatnogo appetita" is "of pleasant appetite", the standard wish before a meal.'),
     (11, None, '\'Max, let\'s head quickly to the kitchen.\' "Poshli" is "went", but here it means "let\'s go", which is very common. "Skoreye" is "quicker".'),
-    (12, None, '\'Chef, you called me by my name!\' "Po imeni" is "by name", and Max is delighted. "Nazvali", called, ends in -li because Max says "vy" to his boss.'),
+    (12, None, '\'Chef, you called me by my name!\' "Po imeni" is "by name", and Max is delighted. "Nazvali", called, takes -li since Max says "vy" to his boss.'),
     (13, None, '\'Oguzok, do not come out to the dining room without permission!\' "Bez sprosa" is "without asking", from "sprosit\'", to ask. "Ne vykhodi" is "don\'t come out", and the chef is back to calling Max "Oguzok".'),
 ]

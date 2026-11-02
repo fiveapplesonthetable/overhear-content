@@ -14,7 +14,7 @@ INTRO = ("Meanwhile, Mathias takes Samuel's widow, Hélène Kerr, to a restauran
  "in the agency, and Mathias has an offer for her. We'll take this one from Hélène's side of the table. "
  "First the French; don't try to catch everything.")
 OPENER = "Let's go back through the meal. Hélène starts by checking the numbers, very calmly."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Hélène turns a discussion of shares into a question about marriage. Listen for the contrast between the '
  'financial offer and her personal reason for refusing it. The ordinary words for your wife give the '
  'conversation a sudden new direction. See you next time!')
@@ -98,81 +98,24 @@ STORY = [('helene',
   "Oh, yes. Everyone wants Samuel's place.",
   [(657, 'Oh, oui')],
   'Neutral adaptation of the source image about jumping on dead bodies: competitors want Samuel’s position.')]
-WALK = [(0,
-  None,
-  "'So I keep seventeen percent of the shares?' So sums up the offer she has heard. Percent literally means "
-  'per hundred. Of the joins into one word before shares, linking the percentage to what she would still '
-  'own.'),
- (1,
-  None,
-  "'Yes. You have nothing to do.' Nothing replaces the usual second negative word after have. The final to "
-  'do explains what there is nothing of: Mathias is promising income without work. He addresses Hélène '
-  'politely.'),
- (2,
-  None,
-  "'You simply collect the profits.' The action word is the one for 'to touch', and here it means to receive "
-  'money. It sounds like a gift, but Hélène is not fooled.'),
- (3,
-  None,
-  "'How kind of you to think of my retirement.' The first word, which usually means 'like', here turns the "
-  'sentence into an exclamation. She is being sarcastic.'),
- (4,
-  None,
-  "'We've made a huge effort, Hélène.' Have and made put the effort in the past. The adjective huge comes "
-  'before effort and sounds the same whether it describes a masculine or feminine noun.'),
- (5,
-  None,
-  "'Andréa has taken out a twenty-year loan.' The past again: 'has' plus 'taken'. The agents are putting "
-  'their own money on the table.'),
- (6,
-  None,
-  "'And you become the boss of ASK.' She sees straight through him. The word for 'boss' is the ordinary one "
-  "you'd use for the head of any company."),
- (7,
-  None,
-  "'And in a year, we buy everything back.' French often uses the present for a plan in the near future, "
-  "just like 'we fly out tomorrow' in English."),
- (8,
-  None,
-  "'Have you ever cheated on your wife, Mathias?' French keeps you before have in the original spoken "
-  'question. The question comes through in the voice, without reversing those words. The word often '
-  'translated already means ever here: she is asking about his experience.'),
- (9,
-  None,
-  "'Forgive me, but I don't talk about that.' Mathias starts with a polite command, 'forgive me', then a "
-  "firm negative around 'talk'."),
- (10,
-  None,
-  "'Samuel cheated on me a lot, mostly with actresses.' The past tense once more. There's an extra letter on "
-  'the end of the past form, silent, because the person cheated on is a woman: Hélène herself.'),
- (11,
-  None,
-  "'But you knew that, didn't you?' Hélène uses a past form for something that went on over time. The little "
-  "'no?' at the end works like 'didn't you?' in English."),
- (12,
-  None,
-  "'Not really, no.' The first two words soften the denial: he avoids a simple firm no. Really can "
-  'strengthen a statement, but after not it also lets a speaker qualify an answer.'),
- (13,
-  'Je vais vous dire quelque chose.',
-  "'I'll tell you something.' The near future: 'I am going' plus 'to tell'."),
- (13,
-  'Je déteste les actrices.',
-  "'I hate actresses.' Short and brutal, for a woman whose husband ran a talent agency full of them."),
- (14,
-  None,
-  "'Sorry, Mathias, but I have to look at the other offers.' The word for 'sorry' takes its feminine "
-  'spelling because Hélène is a woman, though it sounds the same.'),
- (15,
-  None,
-  "'The bill, please.' Hélène uses a sentence worth knowing for any restaurant. The last part is the polite "
-  "'please'."),
- (16,
-  None,
-  "'Other offers?' A short word meaning some joins other before the plural offers. Mathias repeats only the "
-  'surprising part of what Hélène has said, turning those two words into a question.'),
- (17,
-  None,
-  "'Oh, yes. Everyone wants Samuel's place.' This phrase for 'everyone' is literally 'all the world', and it "
-  'takes a singular verb. In the show she puts it much more darkly, about people jumping on dead bodies. '
-  "Let's hear the whole dinner once more, without stopping.")]
+WALK = [
+    (0, None, "'So I keep seventeen percent of the shares?' So sums up the offer she has heard. Percent literally means per hundred. Of the joins into one word before shares, linking the percentage to what she would still own."),
+    (1, None, "'Yes. You have nothing to do.' Nothing replaces the usual second negative word after have. The final to do explains what there is nothing of: Mathias is promising income without work. He addresses Hélène politely."),
+    (2, None, "'You simply collect the profits.' The action word is the one for 'to touch', and here it means to receive money. It sounds like a gift, but Hélène is not fooled."),
+    (3, None, "'How kind of you to think of my retirement.' The first word, which usually means 'like', here turns the sentence into an exclamation. She is being sarcastic."),
+    (4, None, "'We've made a huge effort, Hélène.' Have and made put the effort in the past. The adjective huge comes before effort and sounds the same whether it describes a masculine or feminine noun."),
+    (5, None, "'Andréa has taken out a twenty-year loan.' The past again: 'has' plus 'taken'. The agents are putting their own money on the table."),
+    (6, None, "'And you become the boss of ASK.' She sees straight through him. The French word for 'boss' is the ordinary one you'd use for the head of any company."),
+    (7, None, "'And in a year, we buy everything back.' French often uses the present for a plan in the near future, just like 'we fly out tomorrow' in English."),
+    (8, None, "'Have you ever cheated on your wife, Mathias?' French keeps you before have in the original spoken question. The question comes through in the voice, without reversing those words. The word often translated already means ever here: she is asking about his experience."),
+    (9, None, "'Forgive me, but I don't talk about that.' Mathias starts with a polite command, 'forgive me', then a firm negative around 'talk'."),
+    (10, None, "'Samuel cheated on me a lot, mostly with actresses.' The past tense once more. There's an extra letter on the end of the past form, silent, because the person cheated on is a woman: Hélène herself."),
+    (11, None, "'But you knew that, didn't you?' Hélène uses a past form for something that went on over time. The little 'no?' at the end works like 'didn't you?' in English."),
+    (12, None, "'Not really, no.' The first two words soften the denial: he avoids a simple firm no. Really can strengthen a statement, but after not it also lets a speaker qualify an answer."),
+    (13, 'Je vais vous dire quelque chose.', "'I'll tell you something.' The near future: 'I am going' plus 'to tell'."),
+    (13, 'Je déteste les actrices.', "'I hate actresses.' Short and brutal, for a woman whose husband ran a talent agency full of them."),
+    (14, None, "'Sorry, Mathias, but I have to look at the other offers.' The French word for 'sorry' takes its feminine spelling because Hélène is a woman, though it sounds the same."),
+    (15, None, "'The bill, please.' Hélène uses a sentence worth knowing for any restaurant. The last part is the polite 'please'."),
+    (16, None, "'Other offers?' A short word meaning some joins other before the plural offers. Mathias repeats only the surprising part of what Hélène has said, turning those two words into a question."),
+    (17, None, "'Oh, yes. Everyone wants Samuel's place.' This expression for 'everyone' is literally 'all the world', and it takes a singular verb. In the show she puts it much more darkly, about people jumping on dead bodies."),
+]

@@ -14,7 +14,7 @@ INTRO = ("Emma, the producer of Gabor's film, confronts Andréa after Françoise
  'act without her, and years of work may collapse. Andréa promises to bring Françoise back, then struggles '
  'to record an apology on her voicemail. First, listen to the argument in French.')
 OPENER = "Let's go back through it. Emma comes straight in with what Françoise told her."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'A rough morning for Andréa, but you came through it fine. See you next time!'
 CLOSING = ('andrea', 'Bon courage!')
 STORY = [('emma',
@@ -99,93 +99,26 @@ STORY = [('emma',
   'Book me a massage, please.',
   [(359, "Réservez-moi un massage, s'il vous plaît")],
   'Original French audio has familiar Réserve-moi and s’il te plaît. Omits evening/time details.')]
-WALK = [(0,
-  'Françoise a appelé.',
-  "'Françoise phoned.' The past with 'has' plus the action word, the everyday way to say something "
-  'happened.'),
- (0,
-  'Elle dit que tu étais odieuse.',
-  "'She says you were horrible.' Emma uses familiar you with Andréa. Horrible has a feminine ending because "
-  'it describes Andréa. It criticises her behaviour as obnoxious, rather than saying she was untidy or '
-  'unskilled.'),
- (1,
-  "C'est tellement malhonnête!",
-  "'That's so dishonest!' The long word in the middle means 'so', 'so very'."),
- (1,
-  'Elle avait déjà pris sa décision.',
-  "'She'd already made her decision.' In French you 'take' a decision, you don't make one. Emma has worse "
-  'news.'),
- (2,
-  None,
-  "'And Piccoli won't do the film without Françoise.' The French present describes a refusal that governs "
-  'the future: he does not do it without her. Without introduces the person he insists on having in the '
-  'cast.'),
- (3,
-  None,
-  "'Without Samuel, you're falling apart!' You hear the word for 'you' twice: once as the subject, once as "
-  "'yourselves', because this action word always comes with a 'self'."),
- (4,
-  None,
-  "'That's really low, Emma.' Low is about moral behaviour here, not physical height. Andréa thinks Emma is "
-  "being unfair by invoking Samuel's death, and really strengthens the accusation."),
- (5,
-  None,
-  "'I've been working on this project for four years!' Here is a key pattern: French uses the present, plus "
-  "a word meaning 'since', for something that started in the past and is still going on. Literally 'I work "
-  "on it since four years'."),
- (6,
-  None,
-  "'But this film is dead.' Dead is a metaphor for a project that cannot continue. The description has a "
-  'masculine shape because film is masculine; Emma is declaring the production finished.'),
- (7,
-  None,
-  "'No, it's Samuel who is dead.' The pattern it is someone who puts the emphasis on that person. Andréa "
-  'insists on the literal meaning of dead: Samuel has died, but the film can still be saved.'),
- (8,
-  None,
-  "'A film never dies!' Not, then the action word, then 'never' instead of the usual second half. Andréa's "
-  'battle cry.'),
- (9,
-  None,
-  "'We'll find a solution.' The verb 'to go' plus another verb is the near future: we are going to find. "
-  'Emma repeats it back to her, mockingly.'),
- (10,
-  None,
-  "'A solution? A great eighty-year-old actress, free in three weeks?' In French you say 'an actress of "
-  "eighty years'. Emma thinks no such person exists."),
- (11,
-  None,
-  "'We don't have to replace Françoise Fabian.' Literally 'we are not obliged to replace'. The word for "
-  "'obliged' takes a plural ending, because 'we' is plural."),
- (12,
-  'Je vais la convaincre de revenir.',
-  "'I'm going to persuade her to come back.' The near future once more, and the tiny word for 'her' sits "
-  'right before the verb it belongs to.'),
- (12,
-  "J'en suis capable.",
-  "'I can do it.' Literally, I am capable of it. The short word before am stands for of it and refers to "
-  'persuading Françoise to return. English can use can here instead of capable. Emma leaves, and Andréa '
-  'tries her voicemail.'),
- (13,
-  None,
-  "'Hello, Françoise, it's Andréa Martel.' On the phone, this is how you say who's calling: it's me, "
-  'Andréa.'),
- (14,
-  None,
-  "'I'd like to apologise for yesterday.' This 'would like' is the polite form of 'want'. But the message "
-  'goes wrong, she gets tangled up, and the voicemail robot offers to let her record it again. She tries a '
-  'second time.'),
- (15,
-  None,
-  "'I have great admiration for you.' The word for 'great' comes before the noun, and it's feminine to match "
-  "'admiration'."),
- (16,
-  None,
-  "'I really feel... useless!' Here feel comes with the small self word, unlike feeling an object move. "
-  'Useless has a feminine ending because Andréa describes herself. She is calling herself hopeless after '
-  'struggling with the voicemail.'),
- (17,
-  None,
-  "'Book me a massage, please.' The command addresses one familiar person, and me attaches to it with a "
-  'hyphen. The final please also contains the familiar you. Andréa directs her assistant to arrange '
-  'something for her after the difficult conversation. Now the whole scene again.')]
+WALK = [
+    (0, 'Françoise a appelé.', "'Françoise phoned.' The past with 'has' plus the action word, the everyday way to say something happened."),
+    (0, 'Elle dit que tu étais odieuse.', "'She says you were horrible.' Emma uses familiar you with Andréa. Horrible has a feminine ending because it describes Andréa. It criticises her behaviour as obnoxious, rather than saying she was untidy or unskilled."),
+    (1, "C'est tellement malhonnête!", "'That's so dishonest!' The long word in the middle means 'so', 'so very'."),
+    (1, 'Elle avait déjà pris sa décision.', "'She'd already made her decision.' In French you 'take' a decision, you don't make one. Emma has worse news."),
+    (2, None, "'And Piccoli won't do the film without Françoise.' The French present describes a refusal that governs the future: he does not do it without her. Without introduces the person he insists on having in the cast."),
+    (3, None, "'Without Samuel, you're falling apart!' You hear the word for 'you' twice: once as the subject, once as 'yourselves', because this action word always comes with a 'self'."),
+    (4, None, "'That's really low, Emma.' Low is about moral behaviour here, not physical height. Andréa thinks Emma is being unfair by invoking Samuel's death, and really strengthens the accusation."),
+    (5, None, "'I've been working on this project for four years!' Here is a key pattern: French uses the present, plus a word meaning 'since', for something that started in the past and is still going on. Literally 'I work on it since four years'."),
+    (6, None, "'But this film is dead.' Dead is a metaphor for a project that cannot continue. The description has a masculine shape because film is masculine; Emma is declaring the production finished."),
+    (7, None, "'No, it's Samuel who is dead.' The pattern it is someone who puts the emphasis on that person. Andréa insists on the literal meaning of dead: Samuel has died, but the film can still be saved."),
+    (8, None, "'A film never dies!' Not, then the action word, then 'never' instead of the usual second half. Andréa's battle cry."),
+    (9, None, "'We'll find a solution.' The verb 'to go' plus another verb is the near future: we are going to find. Emma repeats it back to her, mockingly."),
+    (10, None, "'A solution? A great eighty-year-old actress, free in three weeks?' In French you say 'an actress of eighty years'. Emma thinks no such person exists."),
+    (11, None, "'We don't have to replace Françoise Fabian.' Literally 'we are not obliged to replace'. The French word for 'obliged' takes a plural ending, because 'we' is plural."),
+    (12, 'Je vais la convaincre de revenir.', "'I'm going to persuade her to come back.' The near future once more, and the tiny word for 'her' sits right before the verb it belongs to."),
+    (12, "J'en suis capable.", "'I can do it.' Literally, I am capable of it. The short word before am stands for of it and refers to persuading Françoise to return. English can use can here instead of capable. Emma leaves, and Andréa tries her voicemail."),
+    (13, None, "'Hello, Françoise, it's Andréa Martel.' On the phone, this is how you say who's calling: it's me, Andréa."),
+    (14, None, "'I'd like to apologise for yesterday.' This 'would like' is the polite form of 'want'. But the message goes wrong, she gets tangled up, and the voicemail robot offers to let her record it again. She tries a second time."),
+    (15, None, "'I have great admiration for you.' The French word for 'great' comes before the noun, and it's feminine to match 'admiration'."),
+    (16, None, "'I really feel... useless!' Here feel comes with the small self word, unlike feeling an object move. Useless has a feminine ending because Andréa describes herself. She is calling herself hopeless after struggling with the voicemail."),
+    (17, None, "'Book me a massage, please.' The command addresses one familiar person, and me attaches to it with a hyphen. The final please also contains the familiar you. Andréa directs her assistant to arrange something for her after the difficult conversation."),
+]

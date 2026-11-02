@@ -16,7 +16,7 @@ INTRO = ('Andréa swore she would win Françoise back, then made a mess of three
  'French first; just catch what you can.')
 OPENER = ("Let's go through it together. Gabriel proposes a replacement for Françoise, and Andréa immediately "
  'questions his choice.')
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Well done: that was a fast, funny row, and you followed it. Keep your ears open, because Gabriel is about '
  'to have doubts of his own. See you next time!')
 CLOSING = ('andrea', 'À plus tard!')
@@ -83,78 +83,23 @@ STORY = [('andrea',
   [(382, "J'ai des convictions, c'est tout")],
   ''),
  ('camille', "C'est qui, Line Renaud?", "Who's Line Renaud?", [(383, "C'est qui, Line Renaud ?")], '')]
-WALK = [(0,
-  None,
-  "'Yes, Gabriel? What's that?' This second question is the casual, spoken way to ask 'what is that': "
-  "literally 'it's what, that?'. In careful French the question word would come first."),
- (1,
-  None,
-  "'Line Renaud, to replace Françoise Fabian.' The name comes first, followed by the purpose: to replace the "
-  'other actress. The short link before replace is the same one used for for; here it introduces what '
-  'Gabriel wants Line to do.'),
- (2,
-  'Quelle idée!',
-  "'What an idea!' The word for 'what' here is an exclamation, and it agrees with the feminine word for "
-  "'idea'. From Andréa, it's not a compliment."),
- (2,
-  'Line Renaud dans un film de Rajevski?',
-  "'Line Renaud in a Rajevski film?' The director's name follows of in French, where English can put "
-  'Rajevski directly before film. Andréa repeats the proposed casting as a sceptical question.'),
- (3,
-  None,
-  "'Brilliant, isn't it?' The little word for 'no' at the end asks her to agree. Gabriel is very pleased "
-  'with himself.'),
- (4,
-  None,
-  "'Why not Enrico Macias?' Why not can be a serious suggestion or an ironic challenge. Andréa names another "
-  "popular singer to mock Gabriel's choice, rather than actually suggesting a new cast member."),
- (5,
-  None,
-  "'Line Renaud is beautiful, the right age, and very popular.' Three good reasons. 'The right age' is "
-  "literally 'of the good age'."),
- (6,
-  None,
-  "'Gabriel, you've completely lost your mind!' Literally 'you have completely lost the head'. This is the "
-  "everyday past: the action word 'have', then the action."),
- (7,
-  None,
-  "'I like Line Renaud, but she's not made for this.' Adding the word for 'well' after the action word for "
-  "'love' softens it to 'I like'. And the word for 'made' is feminine, because it describes Line."),
- (8,
-  None,
-  "'Not in a Gabor film!' This is a shortened refusal: she leaves out the rest of I will not put her. The "
-  'preposition in still links the actress with the production she supposedly does not suit.'),
- (9,
-  "Je ne vais pas m'humilier.",
-  "'I'm not going to humiliate myself.' The verb 'to go' plus another verb is the easy French future. Here "
-  "it's negative, wrapped by the two little words for 'not'."),
- (9,
-  "Je sais qu'il dira non.",
-  "'I know he'll say no.' The ending on say places the answer in the future. Andréa treats the rejection as "
-  'certain, which is why she refuses to ask Gabor.'),
- (10,
-  None,
-  "'It could save the film.' Could presents a possible result, not a certainty. Save means prevent the "
-  'project from collapsing here, rather than rescue someone from physical danger.'),
- (11,
-  None,
-  "'It would be a different film.' The same 'would' ending, on the verb 'to be'. For Andréa, art comes "
-  'first.'),
- (12,
-  'Tu peux être tellement snob, Andréa.',
-  "'You can be such a snob, Andréa.' The French borrowed the English word for a snob. Gabriel, usually so "
-  'gentle, is hurt.'),
- (12,
-  "C'est pitoyable!",
-  "'It's pathetic!' Pathetic is a strong criticism here, rather than a sympathetic word for someone "
-  'deserving pity. The same spelling works for masculine and feminine descriptions. Gabriel thinks Andréa is '
-  'being snobbish.'),
- (13,
-  None,
-  "'I have convictions, that's all.' The last two words, 'that's all', are a handy way to close a "
-  'discussion.'),
- (14,
-  None,
-  "'Who's Line Renaud?' The opening literally says it's who, followed by the name Camille wants explained. "
-  "Who asks about a person, unlike the earlier question what is that about the recording. Here's the whole "
-  'argument once more.')]
+WALK = [
+    (0, None, "'Yes, Gabriel? What's that?' This second question is the casual, spoken way to ask 'what is that': literally 'it's what, that?'. In careful French the question word would come first."),
+    (1, None, "'Line Renaud, to replace Françoise Fabian.' The name comes first, followed by the purpose: to replace the other actress. The short link before replace is the same one used for 'for'; here it introduces what Gabriel wants Line to do."),
+    (2, 'Quelle idée!', "'What an idea!' This expression for 'what' here is an exclamation, and it agrees with the feminine word for 'idea'. From Andréa, it's not a compliment."),
+    (2, 'Line Renaud dans un film de Rajevski?', "'Line Renaud in a Rajevski film?' The director's name follows of in French, where English can put Rajevski directly before film. Andréa repeats the proposed casting as a sceptical question."),
+    (3, None, "'Brilliant, isn't it?' The little word for 'no' at the end asks her to agree. Gabriel is very pleased with himself."),
+    (4, None, "'Why not Enrico Macias?' Why not can be a serious suggestion or an ironic challenge. Andréa names another popular singer to mock Gabriel's choice, rather than actually suggesting a new cast member."),
+    (5, None, "'Line Renaud is beautiful, the right age, and very popular.' Three good reasons. 'The right age' is literally 'of the good age'."),
+    (6, None, "'Gabriel, you've completely lost your mind!' Literally 'you have completely lost the head'. This is the everyday past: the action word 'have', then the action."),
+    (7, None, "'I like Line Renaud, but she's not made for this.' Adding the French word for 'well' after the action word for 'love' softens it to 'I like'. And the expression for 'made' is feminine, because it describes Line."),
+    (8, None, "'Not in a Gabor film!' This is a shortened refusal: she leaves out the rest of I will not put her. The preposition in still links the actress with the production she supposedly does not suit."),
+    (9, "Je ne vais pas m'humilier.", "'I'm not going to humiliate myself.' The verb 'to go' plus another verb is the easy French future. Here it's negative, wrapped by the two little words for 'not'."),
+    (9, "Je sais qu'il dira non.", "'I know he'll say no.' The ending on say places the answer in the future. Andréa treats the rejection as certain, which is why she refuses to ask Gabor."),
+    (10, None, "'It could save the film.' Could presents a possible result, not a certainty. Save means prevent the project from collapsing here, rather than rescue someone from physical danger."),
+    (11, None, "'It would be a different film.' The same 'would' ending, on the verb 'to be'. For Andréa, art comes first."),
+    (12, 'Tu peux être tellement snob, Andréa.', "'You can be such a snob, Andréa.' The French borrowed the English word for a snob. Gabriel, usually so gentle, is hurt."),
+    (12, "C'est pitoyable!", "'It's pathetic!' Pathetic is a strong criticism here, rather than a sympathetic word for someone deserving pity. The same spelling works for masculine and feminine descriptions. Gabriel thinks Andréa is being snobbish."),
+    (13, None, "'I have convictions, that's all.' The last two words, 'that's all', are a handy way to close a discussion."),
+    (14, None, "'Who's Line Renaud?' The opening literally says it's who, followed by the name Camille wants explained. Who asks about a person, unlike the earlier question what is that about the recording."),
+]

@@ -14,7 +14,7 @@ INTRO = ("After Samuel's burial at Père-Lachaise, the agency holds a tribute. G
  'introduces Françoise Fabian. Line Renaud then joins in with her own memories. Both actresses loved Samuel, '
  'but their rivalry colours the way they remember him. Listen first to their words of affection and loss.')
 OPENER = "Let's go back through the tribute. Gabriel greets everyone and thanks them for coming."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("That's the end of this scene. When you watch it, listen for the back-to-front way of saying 'we miss you'; "
  'both Françoise and Line use it. See you next time!')
 CLOSING = ('francoise', 'Bonne journée!')
@@ -91,73 +91,23 @@ STORY = [('gabriel',
   'You used to say it was our song.',
   [(748, "Tu disais que c'était")],
   '')]
-WALK = [(0, 'Bonsoir.', "'Good evening.' Remember, this is the greeting for the evening."),
- (0,
-  "Au nom d'ASK, je vous remercie d'être venus.",
-  "'On behalf of ASK, thank you for coming.' Literally 'in the name of ASK, I thank you for having come'. A "
-  'formal phrase for speeches.'),
- (1,
-  None,
-  "'I give the floor to a great friend of Samuel's, Françoise Fabian.' Literally 'I leave the word to'. The "
-  "word for 'friend' has its feminine ending here, and so does 'great'."),
- (2, 'Bonsoir.', "'Good evening.' Françoise greets the room in the same way, simply and with dignity."),
- (2,
-  'Il y a quelques semaines, je dînais avec Samuel.',
-  "'A few weeks ago, I was having dinner with Samuel.' The same opening can mean there is or ago. Before a "
-  'number of weeks, it places the dinner in the past; was having dinner sets the scene for what Samuel '
-  'said.'),
- (3,
-  None,
-  "'He said something wonderful.' Has plus said presents one completed remark. Something is built from some "
-  'and thing, with a short linking word before wonderful. The description tells us what kind of thing he '
-  'said.'),
- (4,
-  None,
-  "'You actors, you play so you don't grow up.' Françoise quotes Samuel addressing actors as a group. Play "
-  "links their profession with children's games. The purpose phrase explains what they hope to avoid: "
-  'growing up.'),
- (5,
-  None,
-  "'You play so you don't die.' The same purpose pattern returns. The two words for not sit together before "
-  'die, because they are denying that action rather than the earlier play.'),
- (6,
-  None,
-  "'Samuel, we miss you terribly.' Watch out, this one works back to front. In French you say 'you are "
-  "missing to us'. The person who is missed is the subject."),
- (7,
-  None,
-  "'Samou was full of joy, free!' Line's pet name makes the memory intimate. Full of links the quality to "
-  'joy; free adds another description of Samuel, rather than referring to a price.'),
- (8,
-  None,
-  "'How we used to party, back in the day!' The background past again, for something that happened again and "
-  "again. Literally 'how we used to make the party'."),
- (9,
-  None,
-  "'We miss you, Samou.' The same back-to-front verb as in Françoise's speech: the two rivals are saying the "
-  'same thing.'),
- (10,
-  'Mais je te promets une chose.',
-  "'But I promise you one thing.' She speaks to Samuel with the casual 'you', as to an old friend."),
- (10,
-  'Nous allons continuer de rigoler.',
-  "'We're going to keep on laughing.' The future plan uses go followed by keep on, which in turn links to "
-  "laugh. The last word is an informal way to say laugh or have fun. Line promises that Samuel's friends "
-  'will continue to find joy.'),
- (11,
-  None,
-  "'Yes, we must fight against sorrow.' Françoise takes the floor back, with the expression for 'we must'. "
-  'The word at the end is a strong one for grief.'),
- (12,
-  None,
-  "'Samuel had a real gift for laughter.' The French wording says he was very gifted for laughter. After "
-  'the, laugh becomes a naming word for laughter itself, rather than an action he is doing. Françoise '
-  'acknowledges his humour while adding her own view of him.'),
- (13,
-  None,
-  "'You loved songs so much. This one most of all.' So much strengthens loved. This one picks out a "
-  'particular song from the songs Samuel enjoyed. Its ending matches the feminine word for song.'),
- (14,
-  None,
-  "'You used to say it was our song.' Line uses two action words in the background past. Then the music "
-  "starts, and the whole room sings Samuel's song together. Let's hear the whole farewell once more.")]
+WALK = [
+    (0, 'Bonsoir.', "'Good evening.' Remember, this is the greeting for the evening."),
+    (0, "Au nom d'ASK, je vous remercie d'être venus.", "'On behalf of ASK, thank you for coming.' Literally 'in the name of ASK, I thank you for having come'. A formal phrase for speeches."),
+    (1, None, "'I give the floor to a great friend of Samuel's, Françoise Fabian.' Literally 'I leave the word to'. That short word for 'friend' has its feminine ending here, and so does 'great'."),
+    (2, 'Bonsoir.', "'Good evening.' Françoise greets the room in the same way, simply and with dignity."),
+    (2, 'Il y a quelques semaines, je dînais avec Samuel.', "'A few weeks ago, I was having dinner with Samuel.' The same opening can mean there is or ago. Before a number of weeks, it places the dinner in the past; was having dinner sets the scene for what Samuel said."),
+    (3, None, "'He said something wonderful.' Has plus said presents one completed remark. Something is built from some and thing, with a short linking word before wonderful. The description tells us what kind of thing he said."),
+    (4, None, "'You actors, you play so you don't grow up.' Françoise quotes Samuel addressing actors as a group. Play links their profession with children's games. The purpose phrase explains what they hope to avoid: growing up."),
+    (5, None, "'You play so you don't die.' The same purpose pattern returns. The two words for not sit together before die, because they are denying that action rather than the earlier play."),
+    (6, None, "'Samuel, we miss you terribly.' Watch out, this one works back to front. In French you say 'you are missing to us'. The person who is missed is the subject."),
+    (7, None, "'Samou was full of joy, free!' Line's pet name makes the memory intimate. Full of links the quality to joy; free adds another description of Samuel, rather than referring to a price."),
+    (8, None, "'How we used to party, back in the day!' The background past again, for something that happened again and again. Literally 'how we used to make the party'."),
+    (9, None, "'We miss you, Samou.' The same back-to-front verb as in Françoise's speech: the two rivals are saying the same thing."),
+    (10, 'Mais je te promets une chose.', "'But I promise you one thing.' She speaks to Samuel with the casual 'you', as to an old friend."),
+    (10, 'Nous allons continuer de rigoler.', "'We're going to keep on laughing.' The future plan uses go followed by keep on, which in turn links to laugh. The last word is an informal way to say laugh or have fun. Line promises that Samuel's friends will continue to find joy."),
+    (11, None, "'Yes, we must fight against sorrow.' Françoise takes the floor back, with the expression for 'we must'. The word at the end is a strong one for grief."),
+    (12, None, "'Samuel had a real gift for laughter.' The French wording says he was very gifted for laughter. After the, laugh becomes a naming word for laughter itself, rather than an action he is doing. Françoise acknowledges his humour while adding her own view of him."),
+    (13, None, "'You loved songs so much. This one most of all.' So much strengthens loved. This one picks out a particular song from the songs Samuel enjoyed. Its ending matches the feminine word for song."),
+    (14, None, "'You used to say it was our song.' Line uses two action words in the background past. Then the music starts, and the whole room sings Samuel's song together."),
+]

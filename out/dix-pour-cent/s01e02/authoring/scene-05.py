@@ -15,7 +15,7 @@ INTRO = ('Back at the office, Andréa has twenty-four hours to win back Françoi
  "discovers a mistake of her own involving Françoise's gift. First the scene in French; you don't need every "
  'word.')
 OPENER = "Let's go through it. Camille starts by talking to the actress waiting at her desk, very politely."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Camille tries to help a client and makes an awkward choice of gift. Listen for the difference in address: '
  'she speaks respectfully to her boss, while Andréa uses the familiar you with her. See you next time!')
 CLOSING = ('andrea', 'Bonne soirée!')
@@ -80,74 +80,22 @@ STORY = [('camille',
   [(215, "On n'offre pas du vert à une actrice. Ça porte malheur")],
   ''),
  ('camille', 'Oh non!', 'Oh no!', [(216, 'Merde')], 'Clean reaction replacing the original swear word.')]
-WALK = [(0,
-  None,
-  "'I'll see if she can see you.' The first part is the near future: 'I'm going to see'. The polite 'you' at "
-  'the end is for the actress, a stranger. Then Camille calls out to her boss.'),
- (1,
-  None,
-  "'Andréa! One of your actresses is here, Rebecca Vialle.' One of singles out a client from Andréa's list. "
-  'Your actresses uses the respectful way to address the boss. Later Andréa addresses Camille familiarly, so '
-  'their forms of you are not symmetrical.'),
- (2,
-  None,
-  "'Can you see her?' The short word meaning her goes directly before see. It refers to Rebecca. In this "
-  'sentence can is followed by the action of seeing, so her belongs with that second action.'),
- (3, None, "'She's here?' No question word at all, just a rising voice. Camille answers in three words."),
- (4,
-  None,
-  "'In the corridor.' A corridor or hallway is a masculine word, so Camille uses the masculine word for the. "
-  'It is a short answer: she does not need to repeat she is.'),
- (5,
-  None,
-  "'Is Rebecca Vialle in my diary today?' The opening question marker turns a statement into a yes-or-no "
-  'question. Diary means an appointment book here, rather than a personal journal; Andréa is asking whether '
-  'Rebecca booked a time.'),
- (6,
-  None,
-  "'But she's still a client.' The middle words mean 'all the same' or 'still'. Camille has a good heart. "
-  'Andréa is less sentimental.'),
- (7,
-  None,
-  "'She hasn't worked for two years.' Here's our second point, the negative with a past verb: the two little "
-  "'not' words go around the helper verb 'has', not around 'worked'. She adds that the actress is just a "
-  'name on her list. Camille insists.'),
- (8,
-  None,
-  "'If we don't help her, she won't find work.' Camille combines two negatives in one sentence, and the "
-  'second one is in the future. Then Camille plays her last card.'),
- (9,
-  None,
-  "'She's started crying.' Starting an activity is followed by the short linking word to, then the activity "
-  'itself. The French wording literally means she has started to cry; Camille hopes the tears will make '
-  'Andréa relent.'),
- (10,
-  None,
-  "'Actresses can cry whenever they want.' When has the broader sense whenever in this general statement. "
-  'Can and want both have plural endings because she is talking about actresses as a group.'),
- (11,
-  None,
-  "'Did you get the shawl for Françoise Fabian?' Get is expressed with the past of have: did you have or "
-  'obtain it? A shawl is a large piece of fabric worn over the shoulders; this one is a cashmere gift.'),
- (12,
-  None,
-  "'Yes, it's been sent. Here's the bill.' The last word is the invoice, the paper that shows what it cost. "
-  'Then Andréa notices something.'),
- (13,
-  None,
-  "'You got green?' The colour is being treated as a thing or shade, so French can say some green. Andréa "
-  'repeats it as a surprised question; it is the choice of colour, not the fabric, that worries her.'),
- (14,
-  None,
-  "'Yes, a very nice green.' The word for 'nice' here is the one for beautiful, in its masculine form, "
-  'because the colour word is masculine. And then the bad news.'),
- (15,
-  None,
-  "'You don't give green to an actress. It brings bad luck.' In French theatre, green is said to bring bad "
-  "luck on stage, an old superstition. The little word at the start means 'one' or 'people in general'. "
-  "Camille realises what she's done."),
- (16,
-  None,
-  "'Oh no!' This is a clean replacement for the swear word in the original scene. The little negative can "
-  'stand alone as a refusal or, as here, an unhappy reaction. The green shawl is already on its way to '
-  'Françoise.')]
+WALK = [
+    (0, None, "'I'll see if she can see you.' The first part is the near future: 'I'm going to see'. The polite 'you' at the end is for the actress, a stranger. Then Camille calls out to her boss."),
+    (1, None, "'Andréa! One of your actresses is here, Rebecca Vialle.' One of singles out a client from Andréa's list. Your actresses uses the respectful way to address the boss. Later Andréa addresses Camille familiarly, so their forms of you are not symmetrical."),
+    (2, None, "'Can you see her?' The short word meaning her goes directly before see. It refers to Rebecca. In this sentence can is followed by the action of seeing, so her belongs with that second action."),
+    (3, None, "'She's here?' No question word at all, just a rising voice. Camille answers in three words."),
+    (4, None, "'In the corridor.' A corridor or hallway is a masculine word, so Camille uses the masculine word for the. It is a short answer: she does not need to repeat she is."),
+    (5, None, "'Is Rebecca Vialle in my diary today?' The opening question marker turns a statement into a yes-or-no question. Diary means an appointment book here, rather than a personal journal; Andréa is asking whether Rebecca booked a time."),
+    (6, None, "'But she's still a client.' The middle words mean 'all the same' or 'still'. Camille has a good heart. Andréa is less sentimental."),
+    (7, None, "'She hasn't worked for two years.' Here's our second point, the negative with a past verb: the two little 'not' words go around the helper verb 'has', not around 'worked'. She adds that the actress is just a name on her list. Camille insists."),
+    (8, None, "'If we don't help her, she won't find work.' Camille combines two negatives in one sentence, and the second one is in the future. Then Camille plays her last card."),
+    (9, None, "'She's started crying.' Starting an activity is followed by the short linking word to, then the activity itself. The French wording literally means she has started to cry; Camille hopes the tears will make Andréa relent."),
+    (10, None, "'Actresses can cry whenever they want.' When has the broader sense whenever in this general statement. Can and want both have plural endings because she is talking about actresses as a group."),
+    (11, None, "'Did you get the shawl for Françoise Fabian?' Get is expressed with the past of have: did you have or obtain it? A shawl is a large piece of fabric worn over the shoulders; this one is a cashmere gift."),
+    (12, None, "'Yes, it's been sent. Here's the bill.' The last word is the invoice, the paper that shows what it cost. Then Andréa notices something."),
+    (13, None, "'You got green?' The colour is being treated as a thing or shade, so French can say some green. Andréa repeats it as a surprised question; it is the choice of colour, not the fabric, that worries her."),
+    (14, None, "'Yes, a very nice green.' That short word for 'nice' here is the one for beautiful, in its masculine form, because the colour word is masculine. And then the bad news."),
+    (15, None, "'You don't give green to an actress. It brings bad luck.' In French theatre, green is said to bring bad luck on stage, an old superstition. The little word at the start means 'one' or 'people in general'. Camille realises what she's done."),
+    (16, None, "'Oh no!' This is a clean replacement for the swear word in the original scene. The little negative can stand alone as a refusal or, as here, an unhappy reaction. The green shawl is already on its way to Françoise."),
+]

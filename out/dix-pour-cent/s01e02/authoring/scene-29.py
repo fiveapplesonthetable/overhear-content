@@ -14,7 +14,7 @@ INTRO = ('Camille has just discovered that Hippolyte is her half-brother. He doe
  'still wants to kiss her. Away from the other guests, she urgently asks what happened at his flat the night '
  'before. Listen first to her questions and his account of the evening.')
 OPENER = "Let's walk through it. Camille pulls back and worries that someone might come into the room."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('The account moves from where they were to the kiss, the bed and falling asleep. Listen for the different '
  "ways French sets a scene and then tells what happened. Camille's relief makes sense to us, while Hippolyte "
  'still does not know their family connection. See you next time!')
@@ -75,63 +75,20 @@ STORY = [('camille',
   [(810, 'Oui, vraiment')],
   'Original French audio has c’est vrai, not the vraiment invented by the dual subtitles.'),
  ('camille', 'Merci!', 'Thank you!', [(811, 'Merci')], '')]
-WALK = [(0,
-  None,
-  "'No, what if someone comes in…' If introduces the possible interruption she fears. Camille leaves the "
-  'warning unfinished because the situation makes the consequence clear. Someone is not a specific person: '
-  'it could be any guest.'),
- (1,
-  None,
-  "'Nobody's going to come in.' Here the word for 'nobody' comes first, and the little negative word follows "
-  'it. Camille stops him.'),
- (2, None, "'Wait.' Camille gives a casual command, said to one person. Then she confesses something."),
- (3,
-  None,
-  "'I don't remember very well anymore.' Anymore replaces the ordinary second negative word after remember. "
-  'Very well describes the clarity of her memory. She is asking him to fill in what she can no longer recall '
-  'clearly.'),
- (4,
-  None,
-  "'What did we do last night?' The French question begins with what and keeps we before the past helper. "
-  'Done carries the action, and yesterday evening is the usual way to say last night.'),
- (5,
-  None,
-  "'You don't remember anything?' This time the negative is not 'not' but 'nothing'. The second little word "
-  'changes, the pattern stays the same.'),
- (6,
-  None,
-  "'Tell me!' The short me attaches to the familiar command with a hyphen. Camille asks for an answer to the "
-  'question about last night, rather than continuing the flirtation.'),
- (7,
-  None,
-  "'We were at my place.' Were sets the scene before Hippolyte describes the kiss and the bed. At my place "
-  "is built from the word for at someone's home and the strong form of me."),
- (8,
-  None,
-  "'We kissed.' The verb has a little word meaning 'each other', and it also takes 'to be' in the past."),
- (9,
-  None,
-  "'I carried you to my bed.' The past form gets an extra letter at the end in writing, because the person "
-  'carried is a woman.'),
- (10,
-  None,
-  "'And then, nothing.' Then places this after the kiss and being carried to bed. Nothing stands alone "
-  'because the previous question makes clear what further intimacy she is asking about.'),
- (11,
-  None,
-  "'You fell asleep in two seconds.' Again 'to be' in the past, and again a feminine ending, because it's "
-  'Camille who fell asleep.'),
- (12,
-  None,
-  "'Is that true?' Literally, it is true? French keeps the ordinary statement order in this short spoken "
-  "question, while English can put is before that. True asks whether Hippolyte's account really happened."),
- (13,
-  None,
-  "'Yes, it's true.' Yes answers the question directly, and the following statement repeats his "
-  'confirmation. The French word for true also means real or genuine in other settings, so context tells you '
-  'what kind of truth is being checked.'),
- (14,
-  None,
-  "'Thank you!' French uses one word here, without needing a separate you. You can add what you are grateful "
-  'for after the short linking word for for. Camille leaves it as one word because Hippolyte has just '
-  "answered the question that worried her. Here's the whole conversation once more.")]
+WALK = [
+    (0, None, "'No, what if someone comes in…' If introduces the possible interruption she fears. Camille leaves the warning unfinished because the situation makes the consequence clear. Someone is not a specific person: it could be any guest."),
+    (1, None, "'Nobody's going to come in.' Here the French word for 'nobody' comes first, and the little negative word follows it. Camille stops him."),
+    (2, None, "'Wait.' Camille gives a casual command, said to one person. Then she confesses something."),
+    (3, None, "'I don't remember very well anymore.' Anymore replaces the ordinary second negative word after remember. Very well describes the clarity of her memory. She is asking him to fill in what she can no longer recall clearly."),
+    (4, None, "'What did we do last night?' The French question begins with what and keeps we before the past helper. Done carries the action, and yesterday evening is the usual way to say last night."),
+    (5, None, "'You don't remember anything?' This time the negative is not 'not' but 'nothing'. The second little word changes, the pattern stays the same."),
+    (6, None, "'Tell me!' The short me attaches to the familiar command with a hyphen. Camille asks for an answer to the question about last night, rather than continuing the flirtation."),
+    (7, None, "'We were at my place.' Were sets the scene before Hippolyte describes the kiss and the bed. At my place is built from the word for at someone's home and the strong form of me."),
+    (8, None, "'We kissed.' The verb has a little word meaning 'each other', and it also takes 'to be' in the past."),
+    (9, None, "'I carried you to my bed.' The past form gets an extra letter at the end in writing, because the person carried is a woman."),
+    (10, None, "'And then, nothing.' Then places this after the kiss and being carried to bed. Nothing stands alone because the previous question makes clear what further intimacy she is asking about."),
+    (11, None, "'You fell asleep in two seconds.' Again 'to be' in the past, and again a feminine ending, because it's Camille who fell asleep."),
+    (12, None, "'Is that true?' Literally, it is true? French keeps the ordinary statement order in this short spoken question, while English can put is before that. True asks whether Hippolyte's account really happened."),
+    (13, None, "'Yes, it's true.' Yes answers the question directly, and the following statement repeats his confirmation. The French word for true also means real or genuine in other settings, so context tells you what kind of truth is being checked."),
+    (14, None, "'Thank you!' French uses one word here, without needing a separate you. You can add what you are grateful for after the short linking word for 'for'. Camille leaves it as one word because Hippolyte has just answered the question that worried her."),
+]
