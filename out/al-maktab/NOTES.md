@@ -1,9 +1,0 @@
-# Arabic salary pilot scope and validation
-
-One short Al Maktab S1E1 taster: three retained source utterances, seven native written words, sixteen script segments. Cues 1–3 contain the complete allowance/salary correction. The unchanged four-cue partial SRT and its original 20.940–28.900 provenance range remain hash-bound. Source cue 4 is deliberately omitted from speech, replays, teaching, recap and learning vocabulary after generated pronunciation failed independent checks. See `s01e01/authoring/OMITTED-SOURCE.json` for the exact preserved clause and evidence. This is not a whole episode.
-
-All seven target dictionary lemmas have specifically sourced histories, and the remaining Learn article’s ten italic word occurrences (five distinct surfaces) resolve uniquely. Retained forms and word annotations are unchanged; twenty-three half-open codepoint spans select the exact logical Arabic substrings. No untested native closing was added: the final line repeats the source salary correction.
-
-Original media and references stay private. Synthesized final audio, acoustic word timing, complete speech/pronunciation QA, actual serving origin inventory and actual-device Arabic/RTL checks remain production responsibilities. The prior four-line generated candidate stays held. Narrowing the taster does not approve any prior audio or relax the gate.
-
-Validation: the production snapshot validator (`content-a000e9bbc`, with ROOT pinned to this worktree) and local strict teaching/required-notes validator both report **0 errors, 1 expected short-taster warning**, with 3/3 concrete explanations. Metadata validation reports **0 errors**. Independent authoring reproduction, unchanged source SHA, all 23 exact spans, retained seven lemma/history payloads and 10/10 Learn word occurrences were checked. Private proof: `arabic-research/salary-only-freeze-proof.json`.

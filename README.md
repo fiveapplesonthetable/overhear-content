@@ -1,137 +1,178 @@
-# overhear-content: brief for the content agent
+# overhear-content: brief for the production agent
 
-> **Latest review: read FEEDBACK.md first.** It lists what must change in the existing output (with counts and the exact
-> expected form), the new rules, and the command that has to print `OK`.
+You are making Overhear lessons: short A1 listening scenes adapted from real TV episodes, told by an English narrator
+who replays the target-language lines and explains them. You make **everything**: scene breakdowns, scripts, translations,
+word notes, art, and the rendered audio with word timing. You review your own work. A separate machine then fetches
+your output, verifies it and copies it to Firebase **unchanged**. Nobody fixes anything after you.
 
-You are making the story content for **Overhear**, an app that teaches Russian and French by turning scenes of TV shows
-into short narrated listening stories. You have **no app code and no other context**: this repository is everything.
-Work through it all day without asking questions; where something is ambiguous, pick the reading that follows the rules
-below, note the decision in `out/<show>/NOTES.md`, and carry on.
+## The one rule that matters most: file formats and groupings
 
-## Mission
-Turn **every scene of every episode** of these shows, in order, into a listening story for learners, each with
-a script, annotations and one picture:
+The app reads exactly the files the pipeline writes, in exactly the layout it writes them. Read
+**[spec/OUTPUT-CONTRACT.md](spec/OUTPUT-CONTRACT.md) first**. It defines every file, field, id, hash and grouping. Two
+checkers enforce it. Work they reject does not ship:
 
-| show | slug | language | sidecars in `sources/` |
+```
+python3 -I tools/validate.py --require-notes out/<show>/sNNeNN              # content (git)
+python3 -I tools/check_render.py $OVERHEAR_HOME/render-store --episode <show>-sNNeNN   # rendered audio, timing, clips, forms
+```
+
+Never invent a field, rename a file, re-serialize a rendered JSON or hand-edit audio. Text, translation and timing stay in
+sync because the audio and timing are rendered from the committed script and notes and stamped with their hash. To fix
+anything, fix the content, commit, and re-render.
+
+## What to produce
+
+| language | show (slug) | target | sources in `sources/` |
 |---|---|---|---|
-| Кухня (Kukhnya) | `kukhnya` | ru | S1 e01-20, S2 e01-03 dual; S2 e04-S6 e20 Russian only, `eNN.ru.srt` (see `sources/INDEX.md`) |
-| Dix pour cent (Call My Agent!) | `dix-pour-cent` | fr | S1-S4, 6 episodes each |
-| Домашний арест (Domashniy Arest) | `domashniy-arest` | ru | S1 e01-12 |
+| ru | Кухня (`kukhnya`) | **every season, S1-S6** (20 episodes each) | S1, S2 e01-e03: ru+en dual subtitles. S2 e04-S6: Russian-only Whisper transcripts (`eNN.ru.srt`); translate yourself |
+| ru | Домашний арест (`domashniy-arest`) | **S1** (12 episodes, the whole show) | ru+en dual |
+| fr | Dix pour cent (`dix-pour-cent`) | **every season, S1-S4** (6 episodes each) | fr+en dual |
+| es | Paquita Salas (`paquita-salas`) | **one full episode**, S1E1 | `e01.es.srt` + `e01.en.srt` (embedded subtitles) |
+| de | Die Discounter (`die-discounter`) | one full episode, S1E1 | `e01.de.srt` (Whisper) + `e01.de-orig.auto.vtt` (platform auto-captions) |
+| pt | Porta dos Fundos (`porta-dos-fundos`) | one full sketch, "Vem pra reunião" | `e01.pt.srt` (Whisper) + auto-captions |
+| ko | The Producers (`the-producers`) | one full episode, S1E1 | `e01.ko.srt` covers part 1 of 3 (KBS upload); get parts 2-3 or pick another full episode |
+| it | Boris (`boris`) | one full episode, S1E1 | media and English subtitles exist (see below); make `e01.it.srt` with Whisper large-v3 |
+| zh | `behind-the-scenes` | one full episode | media exists (see below); make `e01.zh.srt` with Whisper large-v3 |
+| ja | your choice | one full episode | **none yet**: find a comedy or workplace drama with a lawful copy, transcribe with Whisper |
+| ar | your choice | one full episode | **none yet**: same |
 
-Structure: **Show -> Season -> Episode -> Scenes** (a movie would be Movie -> Scenes). The **first scene of an episode
-carries the full intro** (the show, who the characters are, the setting, what the episode is about). **Later scenes open
-with a short bridge and recap** ("Meanwhile, back in the kitchen, ... "), so each works alone and also back to back with
-its neighbours. Every scene is one story following the 5-part recipe in `spec/recipe.md`: narrator intro, whole story
-in the target language, narrator walk-through, whole story again, send-off plus one short target-language line.
-The narrator speaks **English only**, calm, no hype. Target-language text must read **naturally to a native speaker**.
-**No stress marks anywhere except inside `stress` fields.** Learner level: A1 (see recipe).
+A "full episode" means the whole episode, every scene from the first cue to the last, as for RU and FR. A pilot language
+starts with `out/<slug>/show.json` (`spec/schema/show.schema.json`); no code change is needed for a new show or language.
 
-## What is where
-| path | what |
-|---|---|
-| `sources/<show>/sNN/eNN.<lang>.dual.srt` or `eNN.ru.srt` | the subtitles: `dual` = for each cue the original line, then its English; `eNN.ru.srt` = Russian only (Whisper transcript, may contain recognition errors; Kukhnya S2 e04 - S6 e20). Copyrighted show material, input only. |
-| `sources/INDEX.md` | coverage, cue counts, running time per episode |
-| `spec/recipe.md` | cast, voices, level, tone, 5 parts, gaps, text rules |
-| `spec/script-format.md` | `scene-NN.json` field by field |
-| `spec/scenes-format.md`, `spec/scenes.example.json` | `scenes.json` |
-| `spec/annotations.md` | `scene-NN.notes.json`: translations, word notes, lemma, POS, stress, meanings, forms |
-| `art/style/` | house style, reusable prompt (`STYLE.md`), 9 reference pictures, SVG sources |
-| `examples/` | three finished models: `kukhnya-s01e02-knife`, `kukhnya-s01e05-orders`, `dix-pour-cent-s04e01-agence` (each: `scene.json`, `authoring.py`, `REVIEW.md`, `art.webp`, `sample.mp3` (a low-bitrate sample of how it sounds); the knife one also has `scene.notes.json`, an excerpt of the annotation format). Read them before starting. |
-| `spec/schema/*.schema.json` | JSON Schemas (draft 2020-12, versioned by `schemaVersion`) for `scenes.json`, `scene-NN.json`, `scene-NN.notes.json`; `validate.py` enforces them |
-| `tools/validate.py` | the checker (stdlib only) |
-| `tools/compose.py` | authoring module -> `scene-NN.json` with correct gaps + `REVIEW.md` |
-| `tools/gaps.py` | lists silences between cues to find scene breaks |
-| `out/` | **your output** |
+**Media.** Video and audio files never go in git. The owner rsyncs the pilot media (`es de it ko pt zh`) to the A100 next to
+this checkout. Use it to transcribe (Whisper large-v3 on the A100) and to check who says what. **Never** put show audio in
+a render, a voice reference or a release (contract §2, "Forbidden anywhere in a render").
 
-**Do not edit `examples/` or `sources/`.** No audio: voices and timing are produced elsewhere. Don't make mp3s.
+## Order of work
 
-## Priority order
-1. Kukhnya S1, e01 -> e20 in order.
-2. Dix pour cent S1, e01 -> e06.
-3. Domashniy Arest S1, e01 -> e12.
-4. Kukhnya S2 e01-03, then Dix pour cent S2, S3, S4.
-5. Kukhnya S2 e04 -> S6 e20 last. These are `eNN.ru.srt`: Russian only, machine transcribed (Whisper), complete for every
-   episode; **no English dual subtitles are coming, so do not wait for them**. Do them only after everything above, in
-   order, working from the Russian-only file: translate it yourself for your own understanding, and in
-   `out/kukhnya/NOTES.md` note that the transcript may have recognition errors (and list any line you suspected was
-   misheard and how you read it). Where a cue looks garbled, prefer a line you are sure of or leave it out. If an
-   `eNN.ru.dual.srt` ever does appear next to one, use that instead.
+1. **Bring the existing RU and FR content up to the gates, Kukhnya S1 first.** Every RU and FR episode already has a seed
+   in `out/` (156 episodes: scene breakdowns, scripts, notes, art, casting). It has the right structure but fails the
+   quality gates (see `out/PROGRESS.md`): mostly repeated narrator phrasing and too little word teaching. Rewrite the
+   explanations by hand per `spec/quality.md`, and re-check story, speakers and notes against the sources, until the
+   whole-`out/` validator run passes with `--strict-teaching`. Kukhnya S2 e04 onwards was written from Whisper transcripts,
+   so check those scenes against the media.
+2. **Render and package season by season**, in `render/settings.json` `priority` order: Kukhnya S1, Dix pour cent S1,
+   Domashniy Arest S1, Kukhnya S2, Dix S2-S4, then Kukhnya S3-S6. Package each episode as soon as it passes. Fix the next
+   season's text while the GPU renders the current one.
+3. **Pilots, in this order:** es, de, pt, ko; then it and zh (transcribe first); then ja and ar (find sources first). Make
+   their voices first (`spec/voices.md`).
 
-Finish an episode completely (all scenes, notes, art, validated, pushed) before starting the next.
+Work in parallel where the machine allows (writing the next episode while the GPU renders the last one), but never ship an
+episode before it passes.
 
-## Workflow for one episode (`<show>`, `sNNeNN`)
-1. **Read the subtitles** in `sources/<show>/sNN/eNN.<lang>.dual.srt` (or `eNN.ru.srt` for the Russian-only Kukhnya episodes; skim all of it; you need the plot). Read the
-   previous episode's `scenes.json`/`NOTES.md` and `out/<show>/characters.md` for continuity.
-2. **Break it into scenes.** Run `python3 tools/gaps.py <srt>` to list silences, then read the lines around each gap.
-   Split on **time gaps, a change of who is speaking or present, and a change of location**. Capture **every** scene,
-   skip none: the scenes must cover the whole file from first to last cue (the validator enforces it). A very short
-   transitional scene (a few lines, no plot of its own) is **not dropped**: keep it in the list with `merge: "prev"` or
-   `"next"`. Write `out/<show>/sNNeNN/scenes.json` ([format](spec/scenes-format.md)). Typical: 5-12 scenes per episode.
-   Opening titles and credits belong to the neighbouring scene, not their own.
-3. **Character sheet.** Add any new character/place to `out/<show>/characters.md` (start from `out/TEMPLATE-characters.md`):
-   name, role in the show, how to draw them (hair, clothes, colours, prop), their story role key and label.
-4. **Write each (non-merged) scene** `scene-NN`: an authoring module `out/<show>/sNNeNN/authoring/scene-NN.py`
-   (copy the closest `examples/*/authoring.py`), borrowing short real lines from the cues of that scene's time range,
-   then `python3 tools/compose.py out/<show>/sNNeNN/authoring/scene-NN.py --out out/<show>/sNNeNN/scene-NN.json`.
-   Fix every PROBLEM it prints. Scene 1 gets the full intro; later scenes the bridge and recap. Keep the recipe's 5 parts, A1 level,
-   12-18 story lines, 2 (max 3) speaking roles. The compose step also writes `scene-NN.REVIEW.md` (commit it).
-5. **Annotate** each scene: `out/<show>/sNNeNN/scene-NN.notes.json` ([format](spec/annotations.md)): English translation of
-   every target-language segment, per-word lemma/POS/stress/gloss/grammar, and a lexicon entry per lemma with meanings and
-   forms tables. Be correct: check gender, aspect pairs, conjugations, IPA.
-6. **Art**: one image per scene, `scene-NN.webp` (1024x1024), per `art/style/STYLE.md`, drawing characters exactly as in
-   `characters.md`. Look at the picture before accepting it: no text in it, right characters, readable small.
-7. **Validate**: `python3 tools/validate.py out/<show>/sNNeNN --require-notes` must print `OK` (read the warnings too, and fix
-   those that are real; subtitle-gap warnings can be explained in `NOTES.md`). Also `python3 -m unittest discover -s tests`
-   if you touched the tools (you shouldn't).
-8. **Commit and push**, one episode per commit: add the episode folder, update `out/PROGRESS.md` and `characters.md`, then
-   `git add -A && git commit -m "<show> sNNeNN: N scenes" && git push`. Push after every episode. If push fails, retry; never
-   force-push, never rewrite history.
-9. Next episode.
+## Machine setup (A100 40 GB)
 
-## Output layout
 ```
-out/
-  PROGRESS.md
-  <show>/
-    characters.md            # people and places, for art consistency
-    NOTES.md                 # decisions, open questions, anything odd (append)
-    s01e01/
-      scenes.json            # the breakdown
-      scene-01.json          # script (episode JSON format)
-      scene-01.notes.json    # annotations
-      scene-01.webp          # art, square 1024
-      scene-01.REVIEW.md     # from compose.py
-      authoring/scene-01.py  # source of scene-01.json
-      scene-02.json ...      # a merged scene has no files of its own, only its entry in scenes.json
+git clone https://github.com/fiveapplesonthetable/overhear-content && cd overhear-content
+OVERHEAR_HOME=~/overhear HF_TOKEN=hf_... bash render/setup/setup.sh     # venvs, every model, self-check
+export OVERHEAR_HOME=~/overhear GPURUN_BUDGET_MIB=38500
+python3 -I render/pipeline.py --status
 ```
+
+The HF token comes from the owner. Never commit it or print it. `render/settings.json` is already sized for 40 GB (batch 16,
+several scenes on the GPU at once through `render/gpurun`). Use the RAM and cores too: run Whisper and alignment beside
+TTS, and pre-render the next episode while you review the last. If a step runs out of memory, lower `tts.batch`, not the
+reservations. You may try bigger or better models if the conditions in contract §4 hold. Measure them, and record what you
+measured in `out/PROGRESS.md`.
+
+**Settings per language.** `render/settings.json` renders ru and fr. A pilot language renders with its own profile:
+`OVERHEAR_RENDER_SETTINGS=render/settings.<lang>-qwen-en.json` (Arabic: `settings.ar-chatterbox-en.json`). Set that
+profile's `priority` to your show slug.
+
+## The loop, per episode (`<show>`, `sNNeNN`)
+
+1. **Read the sources** (`sources/<show>/sNN/eNN.*`) end to end, plus the previous episode's `scenes.json`, and
+   `out/<show>/characters.md` and `cast.json`.
+2. **Split into scenes.** `python3 tools/gaps.py <srt>` lists silences. Split on time gaps, a change of who is present, or a
+   change of place. Cover the whole file, first cue to last. A short transitional scene stays in the list with
+   `"merge": "prev"` or `"next"`. Write `out/<show>/sNNeNN/scenes.json` (`spec/scenes-format.md`). Typically 8-30 scenes.
+3. **Cast.** Add every new speaker to `out/<show>/cast.json` (one key per character for the whole show) and describe them in
+   `characters.md` (start from `out/TEMPLATE-characters.md`).
+4. **Write each non-merged scene** as `authoring/scene-NN.py`. Copy the closest `examples/*/authoring.py` or a gold scene,
+   follow `spec/recipe.md` and `spec/quality.md`, and borrow short real lines tied to their cues. Then
+   `python3 -I tools/compose.py out/<show>/sNNeNN/authoring/scene-NN.py --out out/<show>/sNNeNN/scene-NN.json` and fix every
+   PROBLEM it prints.
+5. **Annotate**: `scene-NN.notes.json` (`spec/annotations.md`): the translation of every target segment, per-word lemma, POS,
+   stress or IPA, gloss and grammar, and a lexicon entry per lemma with examples and forms tables. Check gender, aspect,
+   conjugation and IPA. Wrong notes teach wrong things.
+6. **Art**: `scene-NN.webp`, 1024x1024, per `art/style/STYLE.md`, with the characters as `characters.md` describes them. Look
+   at every image before keeping it.
+7. **Validate.** Run `python3 -I tools/validate.py --require-notes out/<show>/sNNeNN`, then the whole corpus with
+   `python3 -I tools/validate.py --require-notes --strict-teaching out` (template and phrase limits are show-wide). Both must
+   print `OK`. Read the warnings.
+8. **Review the text** (below). Fix, re-compose, re-validate.
+9. **Commit and push the content**, one episode per commit (`<show> sNNeNN: N scenes`), with `out/PROGRESS.md` updated in the
+   same commit. Never force-push or rewrite history.
+10. **Render**: `python3 -I render/pipeline.py --episode <show>-sNNeNN`. It renders the scenes, then the example clips and the
+    form clips. `--status` shows progress.
+11. **Review the audio** (below). A fix means changing the content, committing, and rendering again.
+12. **Check and ship**: `python3 -I tools/check_render.py $OVERHEAR_HOME/render-store --episode <show>-sNNeNN`, then
+    `python3 -I tools/package_render.py $OVERHEAR_HOME/render-store --episode <show>-sNNeNN --release`. Package only a pushed
+    commit, and only the whole episode.
+
+## Review: Opus writes, Gemini reviews
+
+Every scene gets a second read by a different model before it is committed, and every rendered episode gets a listening pass.
+
+* **Text review (Gemini, given the scene JSON, notes and the source cues for its time range):** Is it faithful to the episode?
+  Is each speaker right? Is the formal or informal address right (FR tu/vous, RU ты/вы, and so on)? Is the target language
+  natural? Is it A1? Does each explanation teach one concrete thing, per `spec/quality.md` §2? Are the translations and
+  notes correct (stress, IPA, gender, aspect)? Ask for specific line-level findings, fix them, and repeat until it has none
+  that are real.
+* **Audio review:** read every `report.json` (`stress.unresolved`, `warnings`, `timing.notOk`). Listen to at least the first
+  scene of every episode and every scene a gate flagged. `render/listen_page.py` builds an ear-check page. Have Gemini
+  listen to a sample too: wrong stress, a wrong voice for a character, a mispronounced name, clipped words.
+* **Speaker check against the original:** for lines where the subtitles are ambiguous about who speaks (common in Whisper
+  sources), check the media. Never ship a guess.
+
+Record what each review found and what you changed in `out/PROGRESS.md`. Do not commit review sheets next to the scenes.
+
+## Done means
+
+Per episode: every non-merged scene has a script, notes and art, and `validate.py --strict-teaching` passes for the whole
+of `out/`. Text review is clean. `check_render.py --episode` prints `OK: 0 errors`. Every report has been read and the
+listening pass is done. The package is released from a pushed commit, and `out/PROGRESS.md` says so. RU and FR are done when
+every listed season is; each pilot language is done when its one full episode is.
 
 ## Rules recap
-- Narrator English only; never target-language words in narrator lines (replay them as separate target segments).
-- Target language: natural, A1, polite/familiar register correct for the relationship; French punctuation attached
-  (`là?`), straight apostrophes; Russian Cyrillic only.
-- No stress marks outside `stress`; no emoji; no text inside images.
-- Tie each borrowed line to its cue (`source.lines`), the validator checks the fragment exists in that cue.
-- Don't invent plot: the story must match what happens in that stretch of the episode. Don't quote long runs of
-  dialogue: short lines only.
-- Never output audio; never edit `examples/`, `sources/`, `tools/`, `spec/`; never commit secrets or credentials.
-- Every JSON file you write carries `"schemaVersion": 1` and follows `spec/schema/` exactly (no extra fields, no renamed
-  fields). `compose.py` writes it for scripts; you add it to `scenes.json` and `scene-NN.notes.json`.
-- Scene ids and filenames are stable: once published, `<show>-sNNeNN-scene-NN` never changes meaning. Editing a published
-  scene in place is fine (and expected when FEEDBACK.md asks for it); renumbering scenes is not.
-- The last segment of a script is a short new farewell (`Пока!`, `À bientôt!`), never a repeat of a story line.
-- A character keeps one role key (their own name) for the whole show; every key is in `out/<show>/cast.json`; scripts have no `voices`. Read FEEDBACK.md "P-1" first.
-- Run the validator before every push: `python3 -I tools/validate.py out --require-notes` must print `OK`.
 
-## Learning notes and word histories
+* The narrator speaks English only. Target-language words in narrator text are transliterated in quotes; the real line is
+  replayed as its own target segment. ja/zh/ko/ar story lines are in native script.
+* Target lines are natural, A1, short, and in the right register. Russian is Cyrillic only. French punctuation is attached
+  (`là?`) with straight apostrophes.
+* Stress marks go only in notes `stress`. No emoji. No text in images.
+* Tie each borrowed line to its cue (`source.lines`). Never invent plot or change who says what. Never quote long runs.
+* Every JSON you write carries `"schemaVersion": 1` and matches `spec/schema/` exactly.
+* Scene ids are permanent: `<show>-sNNeNN-scene-NN` never changes meaning once published. Edit in place; never renumber.
+* The last segment is a short new farewell, never a repeated story line.
+* No secrets, tokens or media in git. No original show audio in any public output.
+* The tools and specs are yours to fix if they are wrong, but a change to a checker needs a test (`tests/`) and must keep
+  the contract. Run `python3 -m pytest -q tests` and `render/tests/run_all.sh`.
 
-`learn/<pair>/<id>.json` holds focused learning notes with checked source-scene examples. French examples are italicised in English prose so the app can recognise the target-language spans. Keep explanations specific and avoid claims that a word has one fixed translation in every construction.
+## What is where
 
-`dictionary/<pair>.json` can provide written dictionary entries before scene audio exists. `word-origins/<pair>.json` holds etymology, historical forms, word parts, cognates, word families and source links. These are separate from the scene render inputs: editing them does not invalidate audio. Their versioned schemas are in `spec/schema/`. Publish a history only after checking it against a specific authoritative entry and adding its source link. A reconstruction is marked with an asterisk; competing or uncertain origins must say so. Historical parts are not automatically modern morphemes. The initial checked batch contains 11 Russian and 12 French histories; recovered but unreviewed material is not served.
+| path | what |
+|---|---|
+| `spec/OUTPUT-CONTRACT.md` | **the file formats and groupings the app consumes** |
+| `spec/quality.md` | what a good scene is: cast, explanations, story, notes, art, audio |
+| `spec/recipe.md` | the 5-part scene recipe (intro, story, walk-through, replay, outro) |
+| `spec/script-format.md`, `spec/scenes-format.md`, `spec/annotations.md`, `spec/schema/` | content formats |
+| `spec/voices.md` | the voice pool, and how to make voices for a new language |
+| `examples/` | three reviewed scenes with authoring module, script, sample audio and review |
+| `out/` | the content: one folder per show (`show.json`, `cast.json`, `characters.md`, episodes); `out/PROGRESS.md` |
+| `sources/` | subtitles per show and episode; `sources/INDEX.md` lists coverage |
+| `art/style/` | the art style guide and reference images |
+| `render/` | the render pipeline (TTS, alignment, gates, assembly, clips, forms); `render/README.md` |
+| `tools/validate.py`, `tools/check_render.py` | the two checkers |
+| `tools/compose.py`, `tools/gaps.py` | authoring module to script; scene-break finder |
+| `tools/package_render.py`, `tools/fetch_renders.py` | episode packages: make on the A100, install on the receiving machine |
+| `learn/`, `dictionary/`, `word-origins/` | learning notes, written dictionary entries, word histories (below) |
 
-For changes confined to these metadata folders, run `python3 -I tools/validate.py . --metadata-only` and the unit tests. Full corpus validation remains required for scene changes; known problems in the unrendered corpus are not hidden by the metadata check.
+## Learning notes, dictionary and word histories
 
-For each new or expanded season, word-history review is part of publication readiness. Build and deep-verify its serving candidate, then run `python3 tools/origin_coverage.py --serving-out /path/to/verified/candidate --season <show>/sNN --require-complete`. Resolve all reported history gaps and unknown word forms before publishing that season. Apply the same review to published learning-note vocabulary. `word-origins/COVERAGE.md` records the existing backlog across every published scope; it must not be described as complete until the checks pass.
-
-### Initial French listening pilot
-
-The first two reviewed Dix pour cent S1E1 scenes ship individually after speech, timing and serving verification, following Zim's request to publish as work proceeds. This bounded pilot does not claim an exhaustive episode, season or proper-name history collection. Its ordinary-word dictionary histories are reviewed; unresolved names and surface mappings remain visible in the strict audit and in `out/dix-pour-cent/s01e01/PILOT-REVIEW.md`. The strict command continues to fail while these gaps exist; do not hide them or label the season exhaustive. Narration, annotation, source fidelity and audio verification remain publication requirements for every pilot scene.
+`learn/<pair>/<id>.json` holds focused learning notes with checked examples from source scenes. `dictionary/<pair>.json`
+gives written dictionary entries. `word-origins/<pair>.json` holds etymology with a source link per entry (see
+`word-origins/README.md`). None of these affect rendering. After changing only these folders, run
+`python3 -I tools/validate.py . --metadata-only`. Add a history only after checking it against a specific authoritative
+entry, and link that entry. Never publish an unsourced history. The publishing machine reports missing histories per
+season (`tools/origin_coverage.py` runs on its serving build); fill the gaps it reports when the owner passes them on.

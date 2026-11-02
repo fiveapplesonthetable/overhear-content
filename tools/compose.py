@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
-"""Turn an authoring module into a scene script (scene-NN.json) and its review sheet (scene-NN.REVIEW.md).
+"""Turn an authoring module into a scene script (scene-NN.json); optionally write a review sheet (--review FILE).
 
 The structure is fixed (mirrors episodes 01-05): narrator intro, the whole story, a narrator
 walk-through that replays key lines, the story again with shorter gaps, a send-off ending on one
 short target-language line. The authoring module supplies the words; this script supplies the
 gaps, checks the language rules, and checks every claimed source line against the subtitle file.
 
-    python3 tools/compose.py draft.py --out out/kukhnya/s01e02/scene-01.json [--no-source-check]
+    python3 tools/compose.py out/kukhnya/s01e02/authoring/scene-01.py --out out/kukhnya/s01e02/scene-01.json
+        [--review /tmp/scene-01.md]   a sheet of every line, its meaning and source cue, for your own read-through (never commit it)
+        [--no-source-check]
     (see examples/*/authoring.py; SOURCE_FILE is relative to the repo root)
 
 An authoring module defines:
-    ID, TITLE, LEVEL, PAIR ("ru-en" | "fr-en"), LABELS, SOURCE_NAME, SOURCE_FILE,
+    ID, TITLE, LEVEL, PAIR (the show.json pair, e.g. "ru-en"), LABELS, SOURCE_NAME, SOURCE_FILE,
     INTRO, STORY, OPENER, WALK, TRANSITION, OUTRO, CLOSING
   STORY    [(role, text, english, [(cue_no, "fragment of the subtitle line"), ...], note)]
   WALK     [(story_line_index, sentence_or_None, narrator_gloss)]  replay then explain
@@ -20,11 +22,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SHOW_FIELDS = ("SHOW", "SEASON", "EPISODE", "SCENE")   # optional module attributes copied into the JSON
-SENT = re.compile(r'(?<=[.!?…])[\s]+')     # same split as render.py
+sys.path.insert(0, str(ROOT / "render"))
+from textprep import split_sentences           # the renderer's own split, so replays and spans agree (incl. 。！？؟)
 
 
 def sentences(text):
-    return [p.strip() for p in SENT.split(text.strip()) if p.strip()]
+    return [seg.strip() for _, _, seg in split_sentences(text.strip()) if seg.strip()]
 
 
 def load(path):
@@ -97,8 +100,8 @@ def build(mod, check_source=True):
     add("narrator", mod.OUTRO, 0.5)
     if mod.CLOSING is not None:
         add(mod.CLOSING[0], mod.CLOSING[1], 0.3)
-    elif getattr(mod, "FORMAT", None) != "taster":
-        problems.append("Only an explicit taster may end with the English outro without a native closing")
+    else:
+        problems.append("CLOSING is required: every lesson ends with a short new target-language farewell")
 
     for r in {s["v"] for s in segs} - {"narrator"}:
         if r not in mod.LABELS:
@@ -137,7 +140,6 @@ def build(mod, check_source=True):
     spec = {"id": mod.ID, "pair": mod.PAIR, "title": mod.TITLE, "level": mod.LEVEL,
             "labels": mod.LABELS, "segments": segs,
             "source": {"show": mod.SOURCE_NAME, "file": str(mod.SOURCE_FILE), "lines": sources}}
-    if getattr(mod, "FORMAT", None) is not None: spec["format"] = mod.FORMAT
     return spec, "\n".join(review) + "\n", problems
 
 
@@ -150,6 +152,8 @@ if __name__ == "__main__":
     out = Path(sys.argv[sys.argv.index("--out") + 1]) if "--out" in sys.argv else None
     if out and str(out) in args: args.remove(str(out))
     mod = load(args[0])
+    review_to = Path(sys.argv[sys.argv.index("--review") + 1]) if "--review" in sys.argv else None
+    if review_to and str(review_to) in args: args.remove(str(review_to))
     out = out or Path(args[0]).with_suffix(".json")
     spec, review, problems = build(mod, "--no-source-check" not in sys.argv)
     for f in SHOW_FIELDS:
@@ -163,5 +167,5 @@ if __name__ == "__main__":
         sys.exit(1)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(spec, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    out.with_suffix(".REVIEW.md").write_text(review, encoding="utf-8")
+    if review_to: review_to.write_text(review, encoding="utf-8")
     print(f"{mod.ID}: {len(mod.STORY)} story lines, {len(spec['segments'])} segments -> {out}")

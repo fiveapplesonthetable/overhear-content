@@ -1,0 +1,180 @@
+{
+  "_note": "Spanish (es-en) profile: base Qwen3-TTS speaks Spanish and the English narrator; no Russian LoRA. Select with OVERHEAR_RENDER_SETTINGS. Voices: synthetic or CC0 only (spec/voices.md); set clips.voices and forms.voices to the neutral reader once it exists. priority names the show to render first; replace it with your chosen show.",
+  "renderVersion": "r2",
+  "tts": {
+    "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+    "dtype": "bfloat16",
+    "attn": "sdpa",
+    "batch": 16,
+    "batchEn": 16,
+    "temperature": 0.9,
+    "top_k": 50,
+    "top_p": 1.0,
+    "repetition_penalty": 1.05,
+    "max_new_tokens": 1024,
+    "sentence_retries": 3,
+    "languages": {
+      "ru": "Russian",
+      "fr": "French",
+      "en": "English",
+      "es": "Spanish"
+    }
+  },
+  "ttsRu": {
+    "_note": "Target-language (ru) engine: ESpeech-TTS-1 RL-V2 (F5-TTS, venv-f5), reference-cloned from voices.json. Russian sentence cache keys use ONLY this block (not tts{}), so changing the English/narrator engine never invalidates Russian audio. Stress text = RUAccent on the sentence, with the notes' marks winning on homographs.",
+    "engine": "espeech",
+    "repo": "ESpeech/ESpeech-TTS-1_RL-V2",
+    "ckpt": "espeech_tts_rlv2.pt",
+    "nfe": 48,
+    "cfg": 2.0,
+    "sway": -1.0,
+    "speeds": [
+      1.0,
+      0.7,
+      0.55,
+      0.45
+    ],
+    "ruaccent": "turbo3.1",
+    "textVersion": 1
+  },
+  "narratorRu": {
+    "_note": "Narrator method B (narrator.py): English narrator lines that contain Russian words are spliced from English parts (F5 sky, ttsEn) and native Russian parts (Qwen3-TTS 1.7B + the stress LoRA, ruVoice), 150-250 ms apart, matched in loudness to the line they replace, 8 ms equal-power crossfades at near-silent joins. Each part is Whisper-checked and re-taken (takesPerRound x rounds); a line whose part never passes keeps its old audio and is logged to narrator-failures.jsonl and remembered per render key and version. stress: all | content | none. Does not enter the render key: applied after a scene is rendered, or later with narrator.py --scene/--season/--all.",
+    "version": "b1",
+    "enVoice": "sky",
+    "ruVoice": "ru-f1",
+    "lora": true,
+    "stress": "all",
+    "crossfadeMs": 8,
+    "lineLoudnessTolLU": 1.5,
+    "maxGainDb": 12,
+    "maxLimiterDb": 3,
+    "publishLockWaitSec": 3600,
+    "gapMs": [
+      150,
+      250
+    ],
+    "takesPerRound": 1,
+    "fragmentSpeeds": [
+      1.0,
+      0.85,
+      0.7,
+      0.55
+    ],
+    "rounds": 4,
+    "temperatures": [
+      0.9,
+      0.75,
+      1.0,
+      0.6
+    ],
+    "ruBatch": 4,
+    "ruMiB": 6300,
+    "enMiB": 2400,
+    "checkMiB": 2000,
+    "enCer": 0.25,
+    "ruCer": 0.25
+  },
+  "lora": {
+    "_note": "Stress LoRA switch. enabled=false until run 4 results are in. 'local' wins over 'hf' when it exists.",
+    "enabled": false,
+    "hf": "zimuzostanley/qwen3-tts-ru-stress-lora",
+    "revision": null,
+    "local": "(set by config.LORA_LOCAL / OVERHEAR_LORA_LOCAL)",
+    "tag": "run3"
+  },
+  "stress": {
+    "_note": "policy: all | homographs | none | auto (auto = all when the LoRA is on, else homographs: the base model garbles text that carries a mark on every word, WER 0.84 in the qwen-ft eval).",
+    "policy": "auto",
+    "ruaccentFallback": true,
+    "ruaccentPython": "(set by config.RUACCENT_PYTHON)"
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "segLufs": -20.0,
+    "programLufs": -16.0,
+    "mp3Kbps": 96,
+    "fadeMs": 15,
+    "trimDb": -50,
+    "interSentenceGap": {
+      "ru": 0.5,
+      "fr": 0.5,
+      "en": 0.28,
+      "es": 0.5
+    },
+    "edgeMs": 20
+  },
+  "align": {
+    "aligner": "mms_fa",
+    "snapMaxMs": 120,
+    "version": "a1"
+  },
+  "stressCheck": {
+    "scope": "homographs",
+    "ratio": 1.25
+  },
+  "priority": [
+    [
+      "paquita-salas",
+      1
+    ]
+  ],
+  "stressRetry": {
+    "_note": "A stress-flagged sentence is re-synthesised locally with different seeds/temperatures; the take with the best stress match is kept (and written to the sentence cache). No other engine is ever used in a scene.",
+    "attempts": 4,
+    "temperatures": [
+      0.9,
+      0.75,
+      1.0,
+      0.6
+    ]
+  },
+  "clips": {
+    "_note": "Audio for the lexicon's written examples (clips.py): one neutral dictionary voice per language, scene mp3 format, program loudness, Whisper-checked (CER <= cerMax), retaken up to `retakes` times, then dropped (no icon). batch: sentences per Qwen call (4 = 6.3 GB; lower it to leave room for the scene lanes).",
+    "voices": {},
+    "programLufs": -16.0,
+    "padMs": 80,
+    "cerMax": 0.15,
+    "retakes": 2,
+    "temperatures": [
+      0.75,
+      0.6
+    ],
+    "batch": 16,
+    "prio": -1,
+    "gpu": {
+      "ttsMiB": 12000,
+      "asrMiB": 2500
+    },
+    "scenesPerRun": 2
+  },
+  "forms": {
+    "_note": "Audio for the forms in the lexicon's tables (forms.py): the clips' voice and format, but with the run3 stress LoRA on and stress policy 'all' (lora: false renders them on the base model). Whisper check on the form alone: CER <= cerMax after folding the unstressed-vowel pairs, with padSec of silence on each side of the clip for Whisper only. dictionary: Wiktionary's Russian inflection tables (wiktextract JSONL from kaikki.org, CC BY-SA; not in git, see form_dict.py): the stress of each table slot, first choice; null/missing file = RuAccent and the notes only. chunk: forms per GPU round (progress is saved per chunk).",
+    "voices": {},
+    "lora": true,
+    "dictionary": "(set by config.FORMS_DICTIONARY / OVERHEAR_FORMS_DICTIONARY)",
+    "programLufs": -16.0,
+    "padMs": 80,
+    "cerMax": 0.15,
+    "asrPadSec": 0.3,
+    "retakes": 2,
+    "extraRetakes": 1,
+    "temperatures": [
+      0.75,
+      0.6
+    ],
+    "batch": 32,
+    "chunk": 400,
+    "prio": -1,
+    "gpu": {
+      "ttsMiB": 16000,
+      "asrMiB": 2500
+    }
+  },
+  "gpu": {
+    "_note": "VRAM reservations for pipeline/gpu/gpurun; one reservation per step per scene. Steps are separate processes so the MMS step of scene N can overlap the Qwen step of scene N+1. ttsMiB 6300 is the measured peak of batch 4 (6.2 GB; batch 1 peaks at 4.6 GB, batch 8 at 7.0 GB). Set tts.batch 1 and ttsMiB 4800 to share the card more.",
+    "ttsMiB": 12000,
+    "ruMiB": 3400,
+    "enMiB": 2400,
+    "alignMiB": 1500
+  }
+}

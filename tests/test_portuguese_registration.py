@@ -29,13 +29,13 @@ def check(tmp_path, doc):
 
 
 def test_brazilian_portuguese_identity_source_path_and_nasal_ipa_are_supported(tmp_path):
-    assert v.SHOWS['porta-dos-fundos'] == 'pt' and v.PAIR['pt'] == 'pt-en'
+    assert v.PAIR['pt'] == 'pt-en'
     assert check(tmp_path, notes()) == []
     schema = v.load_schema('script')
     for key, value in [('id', notes()['id']), ('pair', 'pt-en'), ('show', 'porta-dos-fundos')]:
         assert v.schema_errors(value, schema['properties'][key], schema) == []
     assert v.schema_errors('sources/porta-dos-fundos/s01/e01.pt.srt', schema['properties']['source']['properties']['file'], schema) == []
-    assert v.schema_errors('unknown-show-s01e01-scene-01', schema['properties']['id'], schema)
+    assert v.schema_errors('porta-dos-fundos-s1e1-scene-1', schema['properties']['id'], schema)
     for farewell in ['Tchau!', 'Até logo.', 'Até amanhã.']:
         assert v.FAREWELL['pt'].search(farewell)
 
