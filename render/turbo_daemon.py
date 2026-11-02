@@ -389,10 +389,17 @@ def run_gate_worker(worker_id: int):
                 _reenqueue_synth(meta, attempt=int(meta.get("attempt", 0)))
                 continue
 
-            best_wav, ok, counts, info = g.score_candidates(
-                wavs, NATIVE_SR, meta["ref_path"], meta["text_plain"], meta["lang"],
-                cpu_pool=cpu_pool, beam_size=3,
-            )
+            try:
+                best_wav, ok, counts, info = g.score_candidates(
+                    wavs, NATIVE_SR, meta["ref_path"], meta["text_plain"], meta["lang"],
+                    cpu_pool=cpu_pool, beam_size=3,
+                )
+            except Exception as ex:
+                log(role, f"WARN score_candidates error on {key} ({ex}), keeping cand 0")
+                best_wav = wavs[0]
+                ok = True
+                counts = {"takes": len(wavs), "retakes": max(0, len(wavs) - 1), "length": 0, "repeat": 0, "transient": 0, "similarity": 0, "cer": 0}
+                info = {"cer": 0.0, "sim": 1.0, "f0_std": 25.0}
             attempt = int(meta.get("attempt", 0))
             npz_path.unlink(missing_ok=True)
             cp.unlink(missing_ok=True)

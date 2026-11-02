@@ -23,6 +23,8 @@ class AudioGates:
             wav_16k = librosa.resample(wav, orig_sr=sr, target_sr=16000)
         else:
             wav_16k = wav
+        if len(wav_16k) < 8000:
+            wav_16k = np.pad(wav_16k, (0, 8000 - len(wav_16k)))
         inputs = self.extractor(wav_16k, return_tensors="pt", sampling_rate=16000).to("cuda")
         with torch.no_grad(), torch.backends.cudnn.flags(enabled=False):
             emb = self.spk_model(**inputs).embeddings
