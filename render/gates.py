@@ -45,17 +45,25 @@ class AudioGates:
         n_internal_sents = sum(t_strip[:-1].count(p) for p in (". ", "! ", "? ", "… ", "。", "！", "？", "؟")) if len(t_strip) > 2 else 0
         expected = max(0.8, len(t_strip) * median_spc + 0.35 + 0.50 * n_internal_sents)
 
+        has_alnum = any(c.isalnum() for c in t_strip)
+        if has_alnum:
+            if len(wav) < int(sr * 0.12) or float(np.abs(wav).max()) < 0.015:
+                return False, "length"
+            abs_idx = np.where(np.abs(wav) > (10.0 ** (-50.0 / 20.0)))[0]
+            if len(abs_idx) == 0 or (abs_idx[-1] - abs_idx[0]) / sr < 0.06:
+                return False, "length"
+
         frame_len = int(sr * 0.05)
         hop_len = int(sr * 0.01)
         if len(wav) < frame_len:
-            return (len(wav) / sr <= expected * len_mult), ("ok" if len(wav) / sr <= expected * len_mult else "length")
+            return (not has_alnum and len(wav) / sr <= expected * len_mult), ("ok" if (not has_alnum and len(wav) / sr <= expected * len_mult) else "length")
         rms = librosa.feature.rms(y=wav, frame_length=frame_len, hop_length=hop_len)[0]
         silence_thresh = rms.max() * 0.05
         is_silence = rms < silence_thresh
 
         non_sil = np.where(~is_silence)[0]
         if len(non_sil) == 0:
-            return True, "ok"
+            return (not has_alnum), ("ok" if not has_alnum else "length")
 
         speech_dur = (non_sil[-1] - non_sil[0] + 1) * hop_len / sr
         if speech_dur > expected * len_mult:

@@ -209,10 +209,95 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
 
 
 # ---------------------------------------------------------------------------
+# 1b. Persistent English CustomVoice Narrator Worker (venv-qwen, pure PyTorch)
+# ---------------------------------------------------------------------------
+def run_en_custom_worker(worker_id: int, batch_seqs: int):
+    role = f"en-custom-{worker_id}"
+    os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+    from store import Store
+    from tts import QwenCustomEngine
+    from voices import Voices
+
+    settings = config.load_settings(str(REPO / "render" / "settings.fr-qwen-en.json"))
+    voices = Voices()
+    store = Store(config.STORE)
+    eng = QwenCustomEngine(settings, voices, log=lambda *a: log(role, *a))
+    t_cfg = settings["tts"]
+    temp = t_cfg.get("temperature", 0.7) * 0.95
+    rep = t_cfg.get("repetition_penalty", 1.0) * 1.1
+
+    jobs_dir = SHM_ROOT / "jobs_en"
+    cands_dir = SHM_ROOT / "cands"
+    stop_file = SHM_ROOT / "STOP"
+    tick = 0
+
+    while not stop_file.exists():
+        tick += 1
+        if sum(1 for _ in cands_dir.glob("*.json")) > 800:
+            time.sleep(0.25)
+            continue
+        if tick % 20 == 0:
+            reclaim_stale_claims(jobs_dir)
+
+        claimed = claim_jobs(jobs_dir, max_jobs=12, max_expanded=min(12, batch_seqs), max_chars=1250)
+        if not claimed:
+            time.sleep(0.2)
+            continue
+
+        todo = []
+        for cp, job in claimed:
+            if store.tts_path(job["key"]).exists():
+                cp.unlink(missing_ok=True)
+            else:
+                todo.append((cp, job))
+        if not todo:
+            continue
+
+        todo.sort(key=lambda x: len(x[1]["text_tts"]))
+        expanded_batch = []
+        slices = []
+        for cp, job in todo:
+            start = len(expanded_batch)
+            n_c = int(job["n_cands"])
+            lang_name = QWEN_LANGS[job["lang"]]
+            for _ in range(n_c):
+                expanded_batch.append((job["voice"], lang_name, job["text_tts"]))
+            slices.append((cp, job, start, start + n_c))
+
+        seed = int(todo[0][1]["key"][:8], 16) + int(todo[0][1].get("attempt", 0)) * 7919 + worker_id * 173
+        t0 = time.time()
+        try:
+            wavs = eng.generate(expanded_batch, seed, temperature=temp, repetition_penalty=rep)
+            for cp, job, s0, s1 in slices:
+                write_cand_bundle(cands_dir, job, wavs[s0:s1])
+                cp.unlink(missing_ok=True)
+            eng.torch.cuda.empty_cache()
+            log(role, f"synthesized {len(todo)} en narrator lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
+        except Exception as ex:
+            log(role, f"WARN en batch failed ({ex}), falling back per-item")
+            eng.torch.cuda.empty_cache()
+            for cp, job, _s0, _s1 in slices:
+                try:
+                    n_c = int(job["n_cands"])
+                    lang_name = QWEN_LANGS[job["lang"]]
+                    w_item = eng.generate([(job["voice"], lang_name, job["text_tts"])] * n_c, seed, temperature=temp, repetition_penalty=rep)
+                    write_cand_bundle(cands_dir, job, w_item)
+                    cp.unlink(missing_ok=True)
+                except Exception as ex2:
+                    log(role, f"ERROR en item {job['key']} failed: {ex2}")
+                    orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
+                    try:
+                        cp.rename(orig)
+                    except OSError:
+                        pass
+                    time.sleep(1.0)
+
+
+# ---------------------------------------------------------------------------
 # 2. Persistent Russian ESpeech Worker (venv-f5, pure PyTorch)
 # ---------------------------------------------------------------------------
-def run_ru_worker(batch_seqs: int):
-    role = "ru-espeech"
+def run_ru_worker(worker_id: int, batch_seqs: int):
+    role = f"ru-espeech-{worker_id}"
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
     from espeech import EspeechEngine
     from store import Store
@@ -307,8 +392,8 @@ def run_ar_worker():
     idle_ticks = 0
 
     while not stop_file.exists():
-        # Wait for ru-espeech queue to drain so Chatterbox (~3.8 GiB) steps cleanly into ESpeech's freed VRAM slot
-        if any(ru_jobs_dir.glob("*.json")):
+        # Only wait while prio-1 Russian Round-1 jobs remain
+        if any(ru_jobs_dir.glob("0001_*.json")):
             time.sleep(2.0)
             continue
         if idle_ticks % 40 == 20:
@@ -496,7 +581,7 @@ def run_orchestrator():
     prep_pool = concurrent.futures.ThreadPoolExecutor(max_workers=8)
 
     while not stop_file.exists():
-        for sub in ("jobs_qwen", "jobs_ru", "jobs_ar", "cands"):
+        for sub in ("jobs_qwen", "jobs_en", "jobs_ru", "jobs_ar", "cands"):
             reclaim_stale_claims(SHM_ROOT / sub)
         if ep_file.exists():
             try:
@@ -553,7 +638,8 @@ def run_orchestrator():
                         continue
                     enqueued_keys.add(k)
                     lang = it["lang"]
-                    eng_kind = "ru" if (lang == "ru" and ru_cfg) else ("ar" if (lang == "ar" and ar_cfg) else "qwen")
+                    has_custom = bool(voices.refs.get(it["voice"], {}).get("customVoice"))
+                    eng_kind = "en" if has_custom else ("ru" if (lang == "ru" and ru_cfg) else ("ar" if (lang == "ar" and ar_cfg) else "qwen"))
                     n_cands = 1 if lang == "en" else 3
                     job = {
                         "prio": prio,
@@ -662,24 +748,30 @@ def run_orchestrator():
 # 6. Master Supervisor (spawns & monitors the persistent worker pool)
 # ---------------------------------------------------------------------------
 def run_master(qwen_workers: int, gate_workers: int, batch_seqs: int):
-    for sub in ("jobs_qwen", "jobs_ru", "jobs_ar", "cands"):
+    for sub in ("jobs_qwen", "jobs_en", "jobs_ru", "jobs_ar", "cands"):
         (SHM_ROOT / sub).mkdir(parents=True, exist_ok=True)
     (SHM_ROOT / "STOP").unlink(missing_ok=True)
-    for sub in ("jobs_qwen", "jobs_ru", "jobs_ar", "cands"):
+    for sub in ("jobs_qwen", "jobs_en", "jobs_ru", "jobs_ar", "cands"):
         reclaim_stale_claims(SHM_ROOT / sub)
 
     specs = []
     for wid in range(1, qwen_workers + 1):
         specs.append((
             f"qwen-{wid}",
-            [f"{config.VENV_QWEN}/bin/python", "-I", str( Path(__file__).resolve() ), "qwen-worker", "--id", str(wid), "--batch-seqs", str(batch_seqs)],
+            [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "qwen-worker", "--id", str(wid), "--batch-seqs", str(batch_seqs)],
             venv_cuda_libs(config.VENV_QWEN),
         ))
     specs.append((
-        "ru-espeech",
-        [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--batch-seqs", "16"],
-        venv_cuda_libs(config.VENV_F5),
+        "en-custom-1",
+        [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "en-worker", "--id", "1", "--batch-seqs", "12"],
+        venv_cuda_libs(config.VENV_QWEN),
     ))
+    for rid in (1, 2):
+        specs.append((
+            f"ru-espeech-{rid}",
+            [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--id", str(rid), "--batch-seqs", "14"],
+            venv_cuda_libs(config.VENV_F5),
+        ))
     specs.append((
         "ar-chatterbox",
         [f"{config.VENV_ASR}/bin/python", "-I", str(Path(__file__).resolve()), "ar-worker"],
@@ -741,7 +833,12 @@ def main():
     qw.add_argument("--id", type=int, required=True)
     qw.add_argument("--batch-seqs", type=int, default=24)
 
+    ew = sub.add_parser("en-worker")
+    ew.add_argument("--id", type=int, default=1)
+    ew.add_argument("--batch-seqs", type=int, default=12)
+
     rw = sub.add_parser("ru-worker")
+    rw.add_argument("--id", type=int, default=1)
     rw.add_argument("--batch-seqs", type=int, default=16)
 
     sub.add_parser("ar-worker")
@@ -756,8 +853,10 @@ def main():
         run_master(a.qwen_workers, a.gate_workers, a.batch_seqs)
     elif a.cmd == "qwen-worker":
         run_qwen_worker(a.id, a.batch_seqs)
+    elif a.cmd == "en-worker":
+        run_en_custom_worker(a.id, a.batch_seqs)
     elif a.cmd == "ru-worker":
-        run_ru_worker(a.batch_seqs)
+        run_ru_worker(a.id, a.batch_seqs)
     elif a.cmd == "ar-worker":
         run_ar_worker()
     elif a.cmd == "gate-worker":
