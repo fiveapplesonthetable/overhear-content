@@ -27,7 +27,7 @@ anything, fix the content, commit, and re-render.
 | ru | Кухня (`kukhnya`) | **every season, S1-S6** (20 episodes each) | S1, S2 e01-e03: ru+en dual subtitles. S2 e04-S6: Russian-only Whisper transcripts (`eNN.ru.srt`); translate yourself |
 | ru | Домашний арест (`domashniy-arest`) | **S1** (12 episodes, the whole show) | ru+en dual |
 | fr | Dix pour cent (`dix-pour-cent`) | **every season, S1-S4** (6 episodes each) | fr+en dual |
-| es | Paquita Salas (`paquita-salas`) | **one full episode**, S1E1 | `e01.es.srt` + `e01.en.srt` (embedded subtitles) |
+| es | Paquita Salas (`paquita-salas`) | full **season 1** (E1 first) | `eNN.es.srt` + `eNN.en.srt`, E1-E5 (Netflix subtitles; the Spanish is a transcript of the Spanish audio) |
 | de | Die Discounter (`die-discounter`) | one full episode, S1E1 | `e01.de.srt` (Whisper) + `e01.de-orig.auto.vtt` (platform auto-captions) |
 | pt | Porta dos Fundos (`porta-dos-fundos`) | one full sketch, "Vem pra reunião" | `e01.pt.srt` (Whisper) + auto-captions |
 | ko | The Producers (`the-producers`) | one full episode, S1E1 | `e01.ko.srt` (Whisper large-v3, the whole episode: KBS's three uploaded parts joined) |
