@@ -254,43 +254,56 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             continue
 
         todo.sort(key=lambda x: len(x[1]["text_tts"]))
-        expanded_batch = []
-        slices = []
-        for cp, job in todo:
-            start = len(expanded_batch)
-            n_c = int(job["n_cands"])
-            lang_name = QWEN_LANGS[job["lang"]]
-            for _ in range(n_c):
-                expanded_batch.append((job["voice"], lang_name, job["text_tts"]))
-            slices.append((cp, job, start, start + n_c))
+        # Split into length-homogeneous sub-batches (<= 2.2x ratio) so short phrases never wait on 240-char max_tokens
+        groups = []
+        cur = []
+        for item in todo:
+            if cur and len(item[1]["text_tts"]) > max(30, len(cur[0][1]["text_tts"])) * 2.2:
+                groups.append(cur)
+                cur = [item]
+            else:
+                cur.append(item)
+        if cur:
+            groups.append(cur)
 
-        seed = int(todo[0][1]["key"][:8], 16) + int(todo[0][1].get("attempt", 0)) * 7919 + worker_id * 173
-        t0 = time.time()
-        try:
-            wavs = eng.generate(expanded_batch, seed, temperature=temp, repetition_penalty=rep)
-            for cp, job, s0, s1 in slices:
-                write_cand_bundle(cands_dir, job, wavs[s0:s1])
-                cp.unlink(missing_ok=True)
-            eng.torch.cuda.empty_cache()
-            log(role, f"synthesized {len(todo)} en narrator lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
-        except Exception as ex:
-            log(role, f"WARN en batch failed ({ex}), falling back per-item")
-            eng.torch.cuda.empty_cache()
-            for cp, job, _s0, _s1 in slices:
-                try:
-                    n_c = int(job["n_cands"])
-                    lang_name = QWEN_LANGS[job["lang"]]
-                    w_item = eng.generate([(job["voice"], lang_name, job["text_tts"])] * n_c, seed, temperature=temp, repetition_penalty=rep)
-                    write_cand_bundle(cands_dir, job, w_item)
+        for grp in groups:
+            expanded_batch = []
+            slices = []
+            for cp, job in grp:
+                start = len(expanded_batch)
+                n_c = int(job["n_cands"])
+                lang_name = QWEN_LANGS[job["lang"]]
+                for _ in range(n_c):
+                    expanded_batch.append((job["voice"], lang_name, job["text_tts"]))
+                slices.append((cp, job, start, start + n_c))
+
+            seed = int(grp[0][1]["key"][:8], 16) + int(grp[0][1].get("attempt", 0)) * 7919 + worker_id * 173
+            t0 = time.time()
+            try:
+                wavs = eng.generate(expanded_batch, seed, temperature=temp, repetition_penalty=rep)
+                for cp, job, s0, s1 in slices:
+                    write_cand_bundle(cands_dir, job, wavs[s0:s1])
                     cp.unlink(missing_ok=True)
-                except Exception as ex2:
-                    log(role, f"ERROR en item {job['key']} failed: {ex2}")
-                    orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
+                eng.torch.cuda.empty_cache()
+                log(role, f"synthesized {len(grp)} en narrator lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
+            except Exception as ex:
+                log(role, f"WARN en batch failed ({ex}), falling back per-item")
+                eng.torch.cuda.empty_cache()
+                for cp, job, _s0, _s1 in slices:
                     try:
-                        cp.rename(orig)
-                    except OSError:
-                        pass
-                    time.sleep(1.0)
+                        n_c = int(job["n_cands"])
+                        lang_name = QWEN_LANGS[job["lang"]]
+                        w_item = eng.generate([(job["voice"], lang_name, job["text_tts"])] * n_c, seed, temperature=temp, repetition_penalty=rep)
+                        write_cand_bundle(cands_dir, job, w_item)
+                        cp.unlink(missing_ok=True)
+                    except Exception as ex2:
+                        log(role, f"ERROR en item {job['key']} failed: {ex2}")
+                        orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
+                        try:
+                            cp.rename(orig)
+                        except OSError:
+                            pass
+                        time.sleep(1.0)
 
 
 # ---------------------------------------------------------------------------
