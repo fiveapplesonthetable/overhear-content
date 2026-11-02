@@ -2,7 +2,7 @@
   "_note": "Render settings. Anything here changes audio => it is part of the render key (see config.render_signature). Edit voices.json for casting.",
   "renderVersion": "r2",
   "tts": {
-    "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+    "model": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
     "dtype": "bfloat16",
     "attn": "sdpa",
     "batch": 16,
