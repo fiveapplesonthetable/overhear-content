@@ -34,13 +34,15 @@ Episode titles are not carried by the sidecars; if you learn an official title, 
 ## Pilots (one full episode each)
 
 Whisper or auto-caption transcripts (`*.auto.vtt` is the raw caption, the `.srt` is its cleaned cue list) can mishear;
-check unclear cues against the media. Media is rsynced by the owner next to this checkout (README, "Media") and never committed.
+an unclear cue is never used as it stands: take a line you are sure of or leave it out. Media is never in git and is not needed.
 
 | show | lang | file | cues | note |
 |---|---|---|---|---|
 | `paquita-salas` | es | s01/e01.es.srt, s01/e01.en.srt | 505 / 452 | full episode, Spanish and English subtitles |
 | `die-discounter` | de | s01/e01.de.srt (+ .de-orig.auto.vtt) | 785 | full episode, machine transcript |
 | `porta-dos-fundos` | pt | s01/e01.pt.srt (+ .pt-orig.auto.vtt) | 263 | one sketch, machine transcript |
-| `the-producers` | ko | s01/e01.ko.srt | 308 | part 1 of 3 of episode 1 |
-| it, zh | | none | | media exists (see README); transcribe with faster-whisper large-v3 first |
-| ja, ar | | none | | find a source first (README, "Order of work") |
+| `the-producers` | ko | s01/e01.ko.srt | 1107 | full episode (71 min), Whisper large-v3; KBS uploaded it in three parts, joined here with their offsets. A few cues span a music gap, so their end time runs long |
+| `boris` | it | s01/e01.it.srt, s01/e01.en.srt | 444 / 441 | full episode (23 min); Italian is Whisper large-v3, English is a fan subtitle (timing matches within a second or two) |
+| `behind-the-scenes` | zh | s01/e01.zh.srt | 901 | full episode (幕后之王 EP01, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `the-naked-director` | ja | s02/e01.ja.srt, s02/e01.en.srt | 700 / 618 | full episode (45 min), Netflix's own Japanese (closed captions: speaker names in （）, readings in ( ) after kanji, sound cues) and English subtitles |
+| ar | | | | (filled in below when the Arabic episode lands) |

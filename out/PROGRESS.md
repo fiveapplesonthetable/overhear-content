@@ -37,7 +37,7 @@ No episode is rendered or packaged under the current contract. Earlier renders a
   `christophe` (Lambert) and the name is ambiguous with another cast entry. Check the source cue and fix the cast or
   the narration.
 
-Kukhnya S2e04 to S6e20 were written from Whisper (`ru-only`) transcripts. Spot-check names and numbers against the media.
+Kukhnya S2e04 to S6e20 were written from Whisper (`ru-only`) transcripts. Names and numbers may be misheard: check them against the show's cast and the surrounding cues, and drop a line you cannot confirm.
 
 ## Next
 

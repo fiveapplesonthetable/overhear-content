@@ -30,18 +30,18 @@ anything, fix the content, commit, and re-render.
 | es | Paquita Salas (`paquita-salas`) | **one full episode**, S1E1 | `e01.es.srt` + `e01.en.srt` (embedded subtitles) |
 | de | Die Discounter (`die-discounter`) | one full episode, S1E1 | `e01.de.srt` (Whisper) + `e01.de-orig.auto.vtt` (platform auto-captions) |
 | pt | Porta dos Fundos (`porta-dos-fundos`) | one full sketch, "Vem pra reunião" | `e01.pt.srt` (Whisper) + auto-captions |
-| ko | The Producers (`the-producers`) | one full episode, S1E1 | `e01.ko.srt` covers part 1 of 3 (KBS upload); get parts 2-3 or pick another full episode |
-| it | Boris (`boris`) | one full episode, S1E1 | media and English subtitles exist (see below); make `e01.it.srt` with Whisper large-v3 |
-| zh | `behind-the-scenes` | one full episode | media exists (see below); make `e01.zh.srt` with Whisper large-v3 |
-| ja | your choice | one full episode | **none yet**: find a comedy or workplace drama with a lawful copy, transcribe with Whisper |
+| ko | The Producers (`the-producers`) | one full episode, S1E1 | `e01.ko.srt` (Whisper large-v3, the whole episode: KBS's three uploaded parts joined) |
+| it | Boris (`boris`) | one full episode, S1E1 | `e01.it.srt` (Whisper large-v3) + `e01.en.srt` (English subtitles) |
+| zh | 幕后之王 Behind the Scenes (`behind-the-scenes`) | one full episode, S1E1 | `e01.zh.srt` (Whisper large-v3) |
+| ja | 全裸監督 The Naked Director (`the-naked-director`) | one full episode, **S2E1** | `s02/e01.ja.srt` + `s02/e01.en.srt` (Netflix subtitles). Closed-caption marks (speaker names in （）, readings in ( ), sound cues) are not dialogue. The show is about the adult-video industry, so keep story lines clean (spec/quality.md §3) |
 | ar | your choice | one full episode | **none yet**: same |
 
 A "full episode" means the whole episode, every scene from the first cue to the last, as for RU and FR. A pilot language
 starts with `out/<slug>/show.json` (`spec/schema/show.schema.json`); no code change is needed for a new show or language.
 
-**Media.** Video and audio files never go in git. The owner rsyncs the pilot media (`es de it ko pt zh`) to the A100 next to
-this checkout. Use it to transcribe (Whisper large-v3 on the A100) and to check who says what. **Never** put show audio in
-a render, a voice reference or a release (contract §2, "Forbidden anywhere in a render").
+**Sources are text only, and everything you need is in `sources/`.** There is no media to fetch: every episode has a
+subtitle or Whisper transcript, and that is what you build from. Never put show audio in a render, a voice reference or a
+release (contract §2, "Forbidden anywhere in a render").
 
 ## Order of work
 
@@ -50,11 +50,11 @@ a render, a voice reference or a release (contract §2, "Forbidden anywhere in a
    quality gates (see `out/PROGRESS.md`): mostly repeated narrator phrasing and too little word teaching. Rewrite the
    explanations by hand per `spec/quality.md`, and re-check story, speakers and notes against the sources, until the
    whole-`out/` validator run passes with `--strict-teaching`. Kukhnya S2 e04 onwards was written from Whisper transcripts,
-   so check those scenes against the media.
+   so re-read those scenes against their cues: where a name or number looks misheard, use a line you are sure of or leave it out.
 2. **Render and package season by season**, in `render/settings.json` `priority` order: Kukhnya S1, Dix pour cent S1,
    Domashniy Arest S1, Kukhnya S2, Dix S2-S4, then Kukhnya S3-S6. Package each episode as soon as it passes. Fix the next
    season's text while the GPU renders the current one.
-3. **Pilots, in this order:** es, de, pt, ko; then it and zh (transcribe first); then ja and ar (find sources first). Make
+3. **Pilots, in this order:** es, de, pt, ko; then it and zh; then ja and ar. Make
    their voices first (`spec/voices.md`).
 
 Work in parallel where the machine allows (writing the next episode while the GPU renders the last one), but never ship an
@@ -123,7 +123,7 @@ Every scene gets a second read by a different model before it is committed, and 
   scene of every episode and every scene a gate flagged. `render/listen_page.py` builds an ear-check page. Have Gemini
   listen to a sample too: wrong stress, a wrong voice for a character, a mispronounced name, clipped words.
 * **Speaker check against the original:** for lines where the subtitles are ambiguous about who speaks (common in Whisper
-  sources), check the media. Never ship a guess.
+  sources), use the cue timing and context; if it is still unclear, leave the line out. Never ship a guess.
 
 Record what each review found and what you changed in `out/PROGRESS.md`. Do not commit review sheets next to the scenes.
 

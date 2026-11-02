@@ -7,7 +7,7 @@ import pytest
 
 @pytest.mark.parametrize("lang,show", [
     ("de", "die-discounter"), ("it", "boris"), ("ja", "the-naked-director"),
-    ("zh", "behind-the-scenes"), ("ko", "the-producers"), ("ar", "al-maktab"),
+    ("zh", "behind-the-scenes"), ("ko", "the-producers"), ("ar", "alrawabi-school"),
 ])
 def test_pilot_pair_scene_is_discovered_with_its_own_language(tmp_path, lang, show):
     episode = tmp_path / "out" / show / "s01e01"
