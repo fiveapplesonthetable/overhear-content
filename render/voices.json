@@ -466,17 +466,17 @@
   "ar-f1": {
    "file": "refs/ar-f1.flac",
    "lang": "ar",
-   "text": "This is a CC0 reference for ar f.",
-   "desc": "VoiceDesign: natural ar f, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "f",
+   "text": "Hello, this is a warm, natural, and grounded studio recording to establish the tone, pitch, and resonance of my voice.",
+   "desc": "VoiceDesign: A deep, warm, natural Arabic woman, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
+   "seconds": 8.23,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
      "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "f"
+   ]
   },
   "ar-f2": {
    "file": "refs/ar-f2.flac",
@@ -511,17 +511,17 @@
   "ar-m1": {
    "file": "refs/ar-m1.flac",
    "lang": "ar",
-   "text": "This is a CC0 reference for ar m.",
-   "desc": "VoiceDesign: natural ar m, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "m",
+   "text": "Hello, this is a warm, natural, and grounded studio recording to establish the tone, pitch, and resonance of my voice.",
+   "desc": "VoiceDesign: A deep, warm, natural Arabic man, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
+   "seconds": 8.3,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
      "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "m"
+   ]
   },
   "ar-m2": {
    "file": "refs/ar-m2.flac",
@@ -556,17 +556,17 @@
   "de-f1": {
    "file": "refs/de-f1.flac",
    "lang": "de",
-   "text": "This is a CC0 reference for de f.",
-   "desc": "VoiceDesign: natural de f, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "f",
+   "text": "Guten Morgen! Ich gehe kurz in den Supermarkt an der Ecke, um frisches Brot, Milch und Äpfel für unser Frühstück zu kaufen.",
+   "desc": "VoiceDesign: A calm, clear Standard German woman in her late twenties, warm natural studio voice, steady pace, crisp pronunciation for dictionary examples.",
+   "seconds": 8.79,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
      "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "f"
+   ]
   },
   "de-f2": {
    "file": "refs/de-f2.flac",
@@ -601,17 +601,17 @@
   "de-m1": {
    "file": "refs/de-m1.flac",
    "lang": "de",
-   "text": "This is a CC0 reference for de m.",
-   "desc": "VoiceDesign: natural de m, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "m",
+   "text": "Entschuldigung, können Sie mir bitte kurz sagen, in welchem Gang ich hier im Markt den Kaffee und die Hafermilch finde?",
+   "desc": "VoiceDesign: A warm, natural Standard German man in his early thirties, clear baritone voice, relaxed conversational pace, clean studio quality.",
+   "seconds": 7.36,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
-     "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 1,
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "m"
+   ]
   },
   "de-m2": {
    "file": "refs/de-m2.flac",
@@ -646,17 +646,17 @@
   "es-f1": {
    "file": "refs/es-f1.flac",
    "lang": "es",
-   "text": "This is a CC0 reference for es f.",
-   "desc": "VoiceDesign: natural es f, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "f",
+   "text": "Hola, buenos días. Hoy tenemos mucho trabajo en la oficina, pero primero vamos a tomar un café tranquilo y revisar la agenda de esta semana.",
+   "desc": "VoiceDesign: A calm, clear, warm Castilian Spanish woman in her late twenties, natural studio microphone quality, steady conversational pace, crisp articulation, pleasant everyday tone.",
+   "seconds": 8.92,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
      "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "f"
+   ]
   },
   "es-f2": {
    "file": "refs/es-f2.flac",
@@ -691,17 +691,17 @@
   "es-m1": {
    "file": "refs/es-m1.flac",
    "lang": "es",
-   "text": "This is a CC0 reference for es m.",
-   "desc": "VoiceDesign: natural es m, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "m",
+   "text": "Perdona que llegue cinco minutos tarde, había muchísimo tráfico en el centro y el autobús tardó bastante en pasar por mi calle.",
+   "desc": "VoiceDesign: A clear, warm Spanish man in his early thirties, natural baritone voice, relaxed everyday pace, clean studio recording.",
+   "seconds": 8.48,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
-     "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
     }
-   ],
-   "gender": "m"
+   ]
   },
   "es-m2": {
    "file": "refs/es-m2.flac",
@@ -736,17 +736,17 @@
   "it-f1": {
    "file": "refs/it-f1.flac",
    "lang": "it",
-   "text": "This is a CC0 reference for it f.",
-   "desc": "VoiceDesign: natural it f, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "f",
+   "text": "Buongiorno a tutti! Prima di iniziare le riprese sul set, prendiamo un caffè insieme e controlliamo il programma di oggi.",
+   "desc": "VoiceDesign: A calm, clear Standard Italian woman in her late twenties, warm natural timbre, steady conversational pace, crisp studio diction.",
+   "seconds": 8.16,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
      "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "f"
+   ]
   },
   "it-f2": {
    "file": "refs/it-f2.flac",
@@ -781,17 +781,17 @@
   "it-m1": {
    "file": "refs/it-m1.flac",
    "lang": "it",
-   "text": "This is a CC0 reference for it m.",
-   "desc": "VoiceDesign: natural it m, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "m",
+   "text": "Scusa il ritardo, purtroppo stamattina c'era molto traffico sul raccordo, ma ho portato tutti i copioni per la prova.",
+   "desc": "VoiceDesign: A clear, warm Standard Italian man in his early thirties, natural baritone voice, relaxed pace, clean studio recording.",
+   "seconds": 8.61,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
-     "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
     }
-   ],
-   "gender": "m"
+   ]
   },
   "it-m2": {
    "file": "refs/it-m2.flac",
@@ -826,17 +826,17 @@
   "ja-f1": {
    "file": "refs/ja-f1.flac",
    "lang": "ja",
-   "text": "This is a CC0 reference for ja f.",
-   "desc": "VoiceDesign: natural ja f, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "f",
+   "text": "おはようございます。今日も一日いいお天気になりそうですね。午後の打ち合わせの前に、新しい資料を一緒に確認しておきましょう。",
+   "desc": "VoiceDesign: A calm, clear Tokyo Standard Japanese woman in her late twenties, warm polite voice, steady conversational pace, crisp studio diction.",
+   "seconds": 9.15,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
-     "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
     }
-   ],
-   "gender": "f"
+   ]
   },
   "ja-f2": {
    "file": "refs/ja-f2.flac",
@@ -871,17 +871,17 @@
   "ja-m1": {
    "file": "refs/ja-m1.flac",
    "lang": "ja",
-   "text": "This is a CC0 reference for ja m.",
-   "desc": "VoiceDesign: natural ja m, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "m",
+   "text": "お待たせして申し訳ありません。電車の連絡が少し遅れましたが、本日の企画書はすべて揃っておりますのでご安心ください。",
+   "desc": "VoiceDesign: A clear, warm Tokyo Standard Japanese man in his early thirties, natural baritone voice, polite steady pace, studio quality.",
+   "seconds": 8.31,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
      "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "m"
+   ]
   },
   "ja-m2": {
    "file": "refs/ja-m2.flac",
@@ -916,17 +916,17 @@
   "ko-f1": {
    "file": "refs/ko-f1.flac",
    "lang": "ko",
-   "text": "This is a CC0 reference for ko f.",
-   "desc": "VoiceDesign: natural ko f, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "f",
+   "text": "안녕하세요, 오늘 아침 날씨가 참 맑고 선선하네요. 회의 시작하기 전에 따뜻한 커피 한 잔 마시면서 오늘 일정을 같이 확인해 볼까요?",
+   "desc": "VoiceDesign: A calm, clear Seoul Standard Korean woman in her late twenties, warm studio voice, steady natural pace, crisp diction.",
+   "seconds": 9.28,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
-     "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 2,
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "f"
+   ]
   },
   "ko-f2": {
    "file": "refs/ko-f2.flac",
@@ -961,17 +961,17 @@
   "ko-m1": {
    "file": "refs/ko-m1.flac",
    "lang": "ko",
-   "text": "This is a CC0 reference for ko m.",
-   "desc": "VoiceDesign: natural ko m, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "m",
+   "text": "죄송합니다, 출근길에 버스가 조금 막혀서 오 분 정도 늦었습니다. 오늘 촬영 준비 자료는 책상 위에 모두 정리해 두었습니다.",
+   "desc": "VoiceDesign: A clear, polite Seoul Standard Korean man in his early thirties, warm baritone voice, steady conversational pace, studio quality.",
+   "seconds": 8.39,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
-     "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 53,
+     "note": "synthetic, no show audio"
     }
-   ],
-   "gender": "m"
+   ]
   },
   "ko-m2": {
    "file": "refs/ko-m2.flac",
@@ -1006,17 +1006,17 @@
   "pt-f1": {
    "file": "refs/pt-f1.flac",
    "lang": "pt",
-   "text": "This is a CC0 reference for pt f.",
-   "desc": "VoiceDesign: natural pt f, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "f",
+   "text": "Bom dia! Hoje o tempo está muito agradável aqui no Rio, então vou caminhar um pouco antes de começar a trabalhar no escritório.",
+   "desc": "VoiceDesign: A deep, warm, natural Brazilian Portuguese woman, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
+   "seconds": 7.68,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
      "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "f"
+   ]
   },
   "pt-f2": {
    "file": "refs/pt-f2.flac",
@@ -1051,17 +1051,17 @@
   "pt-m1": {
    "file": "refs/pt-m1.flac",
    "lang": "pt",
-   "text": "This is a CC0 reference for pt m.",
-   "desc": "VoiceDesign: natural pt m, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "m",
+   "text": "Com licença, você sabe me dizer se esse ônibus passa perto da estação central ou se é melhor pegar o metrô agora?",
+   "desc": "VoiceDesign: A deep, warm, natural Brazilian Portuguese man, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
+   "seconds": 7.99,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
-     "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 7,
+     "note": "synthetic, VoiceDesign regen"
     }
-   ],
-   "gender": "m"
+   ]
   },
   "pt-m2": {
    "file": "refs/pt-m2.flac",
@@ -1096,17 +1096,17 @@
   "zh-f1": {
    "file": "refs/zh-f1.flac",
    "lang": "zh",
-   "text": "This is a CC0 reference for zh f.",
-   "desc": "VoiceDesign: natural zh f, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "f",
+   "text": "大家早上好，今天我们的录制时间比较紧，请先喝杯热茶休息一下，然后我们一起核对今天的节目流程。",
+   "desc": "VoiceDesign: A calm, clear Standard Mandarin woman in her late twenties, warm natural broadcast-quality voice, steady pace, crisp tones.",
+   "seconds": 8.57,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
-     "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
     }
-   ],
-   "gender": "f"
+   ]
   },
   "zh-f2": {
    "file": "refs/zh-f2.flac",
@@ -1141,17 +1141,17 @@
   "zh-m1": {
    "file": "refs/zh-m1.flac",
    "lang": "zh",
-   "text": "This is a CC0 reference for zh m.",
-   "desc": "VoiceDesign: natural zh m, mid pitch, conversational.",
-   "seconds": 8.0,
+   "gender": "m",
+   "text": "不好意思让你久等了，刚才路上有一些堵车，我已经把今天下午开会需要用到的资料全部准备好了。",
+   "desc": "VoiceDesign: A clear, warm Standard Mandarin man in his early thirties, natural baritone voice, steady conversational rhythm, studio clarity.",
+   "seconds": 7.48,
    "source": [
     {
-     "model": "Mozilla Common Voice 13.0",
-     "seed": 0,
-     "note": "CC0 human reference, no show audio"
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
     }
-   ],
-   "gender": "m"
+   ]
   },
   "zh-m2": {
    "file": "refs/zh-m2.flac",
