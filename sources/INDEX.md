@@ -62,6 +62,16 @@ an unclear cue is never used as it stands: take a line you are sure of or leave 
 | `behind-the-scenes` | zh | s01/e07.zh.srt | 972 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
 | `behind-the-scenes` | zh | s01/e08.zh.srt | 1037 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
 | `behind-the-scenes` | zh | s01/e09.zh.srt | 1051 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e10.zh.srt | 1019 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e11.zh.srt | 837 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e12.zh.srt | 917 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e13.zh.srt | 981 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e14.zh.srt | 943 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e15.zh.srt | 1058 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e16.zh.srt | 801 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e17.zh.srt | 920 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e18.zh.srt | 907 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e19.zh.srt | 1244 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
 | `the-naked-director` | ja | s01/e01-e08 .ja.srt + .en.srt | e01 704 / 505 | **full season 1** (8 episodes, 45-60 min each), Netflix's own Japanese (closed captions: speaker names in （）, readings in ( ) after kanji, sound cues) and English subtitles |
 | `the-naked-director` | ja | s02/e01-e08 .ja.srt + .en.srt | e01 700 / 618 | **full season 2** (8 episodes, about 45 min each), Netflix's own Japanese (closed captions: speaker names in （）, readings in ( ) after kanji, sound cues) and English subtitles |
 | `alrawabi-school` | ar | s01/e01.ar.srt | 461 | full episode (43 min), Whisper large-v3. The show speaks Jordanian Arabic; Whisper sometimes renders a stretch in formal Arabic or mishears English loanwords ("Zac Efron"), so build lines on cues that read as natural Jordanian speech |
