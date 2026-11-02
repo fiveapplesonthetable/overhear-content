@@ -465,18 +465,21 @@ def run_ar_worker():
 # ---------------------------------------------------------------------------
 def run_gate_worker(worker_id: int):
     role = f"gate-{worker_id}"
+    import gc
     import numpy as np
     import soundfile as sf
+    import torch
     import gates
     from store import Store
     from tts import NATIVE_SR
 
-    g = gates.get_gates()
+    g = gates.AudioGates() if worker_id == 1 else None
     store = Store(config.STORE)
     cands_dir = SHM_ROOT / "cands"
     stop_file = SHM_ROOT / "STOP"
     cpu_pool = concurrent.futures.ThreadPoolExecutor(max_workers=4)
-    log(role, "Whisper large-v3-turbo + WavLM-base-plus-sv + 4-thread CPU F0/transient scorer ready")
+    if g is not None:
+        log(role, "Whisper large-v3-turbo + WavLM-base-plus-sv + 4-thread CPU F0/transient scorer ready")
 
     scored_n = 0
     t_window = time.time()
@@ -485,9 +488,20 @@ def run_gate_worker(worker_id: int):
     while not stop_file.exists():
         if idle_ticks % 40 == 20:
             reclaim_stale_claims(cands_dir)
+        if worker_id > 1 and g is None:
+            if sum(1 for _ in cands_dir.glob("*.json")) < 40:
+                time.sleep(1.0)
+                continue
+            log(role, "cands backlog >= 40, loading overflow gate scorer")
+            g = gates.AudioGates()
         claimed = claim_jobs(cands_dir, max_jobs=4)
         if not claimed:
             idle_ticks += 1
+            if worker_id > 1 and g is not None and idle_ticks > 200:
+                log(role, "cands empty, freeing overflow gate scorer VRAM")
+                g = None
+                gc.collect()
+                torch.cuda.empty_cache()
             time.sleep(0.15)
             continue
         idle_ticks = 0
@@ -775,7 +789,7 @@ def run_orchestrator():
 # ---------------------------------------------------------------------------
 # 6. Master Supervisor (spawns & monitors the persistent worker pool)
 # ---------------------------------------------------------------------------
-def run_master(qwen_workers: int, gate_workers: int, batch_seqs: int):
+def run_master(qwen_workers: int, en_workers: int, gate_workers: int, batch_seqs: int):
     for sub in ("jobs_qwen", "jobs_en", "jobs_ru", "jobs_ar", "cands"):
         (SHM_ROOT / sub).mkdir(parents=True, exist_ok=True)
     (SHM_ROOT / "STOP").unlink(missing_ok=True)
@@ -789,11 +803,12 @@ def run_master(qwen_workers: int, gate_workers: int, batch_seqs: int):
             [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "qwen-worker", "--id", str(wid), "--batch-seqs", str(batch_seqs)],
             venv_cuda_libs(config.VENV_QWEN),
         ))
-    specs.append((
-        "en-custom-1",
-        [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "en-worker", "--id", "1", "--batch-seqs", "12"],
-        venv_cuda_libs(config.VENV_QWEN),
-    ))
+    for eid in range(1, en_workers + 1):
+        specs.append((
+            f"en-custom-{eid}",
+            [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "en-worker", "--id", str(eid), "--batch-seqs", "12"],
+            venv_cuda_libs(config.VENV_QWEN),
+        ))
     for rid in (1, 2):
         specs.append((
             f"ru-espeech-{rid}",
@@ -853,9 +868,10 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     m = sub.add_parser("master")
-    m.add_argument("--qwen-workers", type=int, default=3)
+    m.add_argument("--qwen-workers", type=int, default=2)
+    m.add_argument("--en-workers", type=int, default=3)
     m.add_argument("--gate-workers", type=int, default=2)
-    m.add_argument("--batch-seqs", type=int, default=24)
+    m.add_argument("--batch-seqs", type=int, default=16)
 
     qw = sub.add_parser("qwen-worker")
     qw.add_argument("--id", type=int, required=True)
@@ -878,7 +894,7 @@ def main():
 
     a = ap.parse_args()
     if a.cmd == "master":
-        run_master(a.qwen_workers, a.gate_workers, a.batch_seqs)
+        run_master(a.qwen_workers, a.en_workers, a.gate_workers, a.batch_seqs)
     elif a.cmd == "qwen-worker":
         run_qwen_worker(a.id, a.batch_seqs)
     elif a.cmd == "en-worker":
