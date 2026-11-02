@@ -45,4 +45,4 @@ an unclear cue is never used as it stands: take a line you are sure of or leave 
 | `boris` | it | s01/e01.it.srt, s01/e01.en.srt | 444 / 441 | full episode (23 min); Italian is Whisper large-v3, English is a fan subtitle (timing matches within a second or two) |
 | `behind-the-scenes` | zh | s01/e01.zh.srt | 901 | full episode (幕后之王 EP01, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
 | `the-naked-director` | ja | s02/e01.ja.srt, s02/e01.en.srt | 700 / 618 | full episode (45 min), Netflix's own Japanese (closed captions: speaker names in （）, readings in ( ) after kanji, sound cues) and English subtitles |
-| ar | | | | (filled in below when the Arabic episode lands) |
+| `alrawabi-school` | ar | s01/e01.ar.srt | 461 | full episode (43 min), Whisper large-v3. The show speaks Jordanian Arabic; Whisper sometimes renders a stretch in formal Arabic or mishears English loanwords ("Zac Efron"), so build lines on cues that read as natural Jordanian speech |
