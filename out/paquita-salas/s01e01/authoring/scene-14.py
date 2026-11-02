@@ -68,11 +68,11 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'There we go, we're in the car now.' Literally already it is, a brisk two-word phrase meaning all sorted, done, or there we go, followed by already we are in the car."),
-    (1, None, "'What's going to happen? Nothing's wrong.' Literally nothing happens, one of Spain's most reassuring everyday sentences for it's fine or nothing is wrong."),
+    (0, None, "'There we go, we're in the car now.' Literally, already it is, a brisk two-word phrase meaning all sorted, done, or there we go, followed by already we are in the car."),
+    (1, None, "'What's going to happen? Nothing's wrong.' Literally, nothing happens, one of Spain's most reassuring everyday sentences for it's fine or nothing is wrong."),
     (2, None, "'I had two shots because I was going to the wedding.' For food and drinks, Spanish prefers take over have, adding the little word for myself to sound casual and complete."),
     (3, None, "'Magüi was going to drive.' Putting Magüi at the end of was going to drive highlights who the designated driver was meant to be."),
-    (4, None, "'Be careful.' Literally have care: the short one-syllable command form of have pairs with care to warn a driver or friend."),
+    (4, None, "'Be careful.' Literally, have care: the short one-syllable command form of have pairs with care to warn a driver or friend."),
     (5, None, "'Look, I'll put some music on for you. What shall I put on?' Where English says I'll put on, Spanish uses simple present I put for an immediate offer, and repeats it in what do I put for you."),
     (6, None, "'I don't mind, whatever you like.' Adding the tiny word for to me in front of gives equal turns never mind into I don't mind, followed by literally that which you want."),
     (7, None, "'You look very pretty.' Using the temporary state form rather than permanent are turns pretty into you look very pretty today."),

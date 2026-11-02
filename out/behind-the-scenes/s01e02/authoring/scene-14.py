@@ -121,7 +121,7 @@ WALK = [
     (
         4,
         None,
-        '\'I know you people from the chief editor office are impressive.\' At the end of the line, "liaobuqi" '
+        '\'I know you people from the chief editor office are impressive.\' At the end, of the line, "liaobuqi" '
         "means 'remarkable' or 'impressive', though Lin Jie gives it a dry, teasing edge here.",
     ),
     (

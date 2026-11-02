@@ -68,7 +68,7 @@ WALK = [
         '\'Tomorrow seven-thirty sharp.\' "Sette e mezza" says "seven and a half" for 7:30, and "puntuale" adds "on the dot".'
     ]),
     (9, None, [
-        '\'Watch out because you are already on thin ice.\' Literally "eye!", opening with "occhio che..." is a vivid everyday warning for "heads up" or "watch yourself", while "a rischio" means "at risk".'
+        '\'Watch out because you are already on thin ice.\' Literally, "eye!", opening with "occhio che..." is a vivid everyday warning for "heads up" or "watch yourself", while "a rischio" means "at risk".'
     ]),
     (10, None, [
         '\'Hello? No, I am going back tomorrow.\' Italian comfortably uses present "torno", "I return", for a firm plan happening tomorrow.'

@@ -76,5 +76,5 @@ WALK = [
     (9, None, "'Maca can't miss the Seminci premiere.' Losing something is one thing, but adding the little word for herself turns lose into miss out on an event. Premiere is masculine here."),
     (10, None, "'There's no wedding today, because I'm married to this job.' Here is the episode's title! Where English is married to something, Spanish says married with this, and links the reason with casual that meaning because."),
     (11, None, "'I want to apologise to Macarena García for ruining her big night.' Apologising is literally asking for excuses. Before night, the word for great drops its final syllable so it means big or special rather than physically large."),
-    (12, None, "'It will never happen again. I promise you.' Literally it will not happen never more, stacking negative words together for emphasis, followed by to you it I promise.")
+    (12, None, "'It will never happen again. I promise you.' Literally, it will not happen never more, stacking negative words together for emphasis, followed by to you it I promise.")
 ]

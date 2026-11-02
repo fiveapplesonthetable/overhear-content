@@ -52,7 +52,7 @@ WALK = [
         (None, "ですかね"), " onto the end softens his excuse into 'could it be... I wonder?'"
     ]),
     (4, '違うよ。', [
-        '"\'Wrong.\' Literally " Here, the word ',
+        '"\'Wrong.\' Literally, " Here, the word ',
         (None, "違う"), " this word means 'it differs', and speakers reach for it constantly to say 'no, that is wrong' or 'not at all'."
     ]),
     (5, None, [

@@ -39,7 +39,7 @@ WALK = [
     (0, None, "'Welcome to all our rookie producers!' Raising a glass, Tae-ho pairs warm inclusive \"uri\", 'our', with \"sinip\", 'newcomer', and plain cheering \"hwanyeonghanda\", 'we welcome you!'."),
     (1, None, "'I look forward to working with you.' Every new hire in Korea learns \"jal butakdeurigesseumnida\" on day one — a humble bow in words asking seniors for their guidance and goodwill."),
     (2, None, "'Hey, why did you get here so late? Sit down.' Spotting Seung-chan by the door, Tae-ho calls out \"wae ireoke neutge wasseo\", using \"neutge\" for 'late', then pats a chair with casual \"anja\", 'have a seat'."),
-    (3, None, "'I heard you caused a blunder today? It's fine.' In Korean workplaces, \"sago chida\" means 'to cause an accident' or 'make a big blunder'. Tae-ho brushes it right off with \"gwaenchana\", 'it's okay'."),
+    (3, None, "'I heard you caused a blunder today? It's fine.' In Korean, workplaces, \"sago chida\" means 'to cause an accident' or 'make a big blunder'. Tae-ho brushes it right off with \"gwaenchana\", 'it's okay'."),
     (4, None, "'Later on, if your own show does well, everything turns out fine.' \"Najunge\" looks ahead to 'later on', while \"gwaenchanajineun geoya\" turns 'okay' into 'it becomes okay over time'."),
     (5, None, "'Did you hear back from your father?' Sliding in beside him, Ye-jin asks about \"abeoji\", 'father', hoping for a discount on the bumper scratch from Episode 1."),
     (6, None, "'Yes, he said he charged only the strictly necessary repair cost.' Honest to a fault, Seung-chan relays \"suribi\", 'repair fee', restricted with \"-man\", 'only', leaving zero wiggle room for a bargain."),

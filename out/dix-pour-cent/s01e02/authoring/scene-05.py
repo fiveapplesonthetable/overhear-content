@@ -96,6 +96,6 @@ WALK = [
     (12, None, "'Yes, it's been sent. Here's the bill.' The last word is the invoice, the paper that shows what it cost. Then Andréa notices something."),
     (13, None, "'You got green?' The colour is being treated as a thing or shade, so French can say some green. Andréa repeats it as a surprised question; it is the choice of colour, not the fabric, that worries her."),
     (14, None, "'Yes, a very nice green.' That short word for 'nice' here is the one for beautiful, in its masculine form, because the colour word is masculine. And then the bad news."),
-    (15, None, "'You don't give green to an actress. It brings bad luck.' In French theatre, green is said to bring bad luck on stage, an old superstition. The little word at the start means 'one' or 'people in general'. Camille realises what she's done."),
+    (15, None, "'You don't give green to an actress. It brings bad luck.' In French, theatre, green is said to bring bad luck on stage, an old superstition. The little word at the start means 'one' or 'people in general'. Camille realises what she's done."),
     (16, None, "'Oh no!' This is a clean replacement for the swear word in the original scene. The little negative can stand alone as a refusal or, as here, an unhappy reaction. The green shawl is already on its way to Françoise."),
 ]

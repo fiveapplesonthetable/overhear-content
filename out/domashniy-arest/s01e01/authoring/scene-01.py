@@ -57,7 +57,7 @@ WALK = [
         " is the long, polite word for hello a child uses with a grown-up; it literally translates to wishing the other person good health. Then he asks a question a neighbour asked."
     ]),
     (3, 'Как там в Венгрии?', [
-        "'How was it there in Hungary?' Literally translates to 'how is it there, in Hungary'. After the little word ",
+        "'How was it there in Hungary?' Literally, translates to 'how is it there, in Hungary'. After the little word ",
         ('arkady', 'в'),
         ", meaning 'in', the expression for Hungary, ",
         ('arkady', 'Венгрии'),

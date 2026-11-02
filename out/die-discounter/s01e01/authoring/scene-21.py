@@ -35,7 +35,7 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Fahri! What on earth are you doing here?' Literally asking 'what make you then here?' is the classic surprised greeting you'll hear whenever friends bump into each other unexpectedly."),
+    (0, None, "'Fahri! What on earth are you doing here?' Literally, asking 'what make you then here?' is the classic surprised greeting you'll hear whenever friends bump into each other unexpectedly."),
     (1, None, "'Handsome Thorsten! Well hello, my friend — do you work here or something?' Calling someone 'my dear one' can be warm or playfully mocking. At the end, slipping in that little word for 'perhaps' or 'don't tell me' signals amused disbelief."),
     (3, None, "'What do you mean, your shop? Does Kolinski belong to you now?' Ownership in German very often uses the action word for 'belongs to' — literally 'belongs Kolinski now to-you?' rather than 'do you own it?'."),
     (4, None, "'I'm the store manager! I have eight people under me.' Look at the crisp job-title compound built from 'market' and 'leader' — the standard word on a German supermarket manager's name badge."),

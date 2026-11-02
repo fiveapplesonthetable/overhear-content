@@ -29,12 +29,15 @@ def _k_filters(sr):
 
 
 def lufs(x, sr):
-    """Integrated loudness of a mono signal; -inf when silent."""
+    """Integrated loudness of a mono signal; -inf when silent.
+    Short clips (< 400 ms) are tiled rather than zero-padded so 1-word callouts do not get +12 dB silence-padding gain."""
     from scipy.signal import lfilter
     x = np.asarray(x, dtype=np.float64)
+    if len(x) == 0 or float(np.max(np.abs(x))) <= 1e-7:
+        return float("-inf")
     blk, step = int(0.4 * sr), int(0.1 * sr)
     if len(x) < blk:
-        x = np.pad(x, (0, blk - len(x)))
+        x = np.resize(x, blk)
     (bs, as_), (bh, ah) = _k_filters(sr)
     y = lfilter(bh, ah, lfilter(bs, as_, x))
     n = 1 + (len(y) - blk) // step
@@ -52,7 +55,50 @@ def lufs(x, sr):
     return float(-0.691 + 10 * np.log10(np.mean(z[keep])))
 
 
+def _strip_detached_tail_pop(x, sr):
+    """Strip any detached < 200 ms EOS click/pop/bang at the tail separated from main speech by >= 75 ms of quiet."""
+    hop = max(1, int(0.01 * sr))
+    n = len(x) // hop
+    if n < 22:
+        return x
+    frames = x[:n * hop].reshape(n, hop)
+    rms = np.sqrt(np.mean(frames * frames, axis=1))
+    pk = float(rms.max())
+    if pk <= 1e-6:
+        return x
+    active_thr = max(10 ** (-42.0 / 20.0), pk * 0.06)
+    act = rms >= active_thr
+    if not act.any():
+        return x
+    # Find contiguous active islands
+    islands = []
+    i = 0
+    while i < n:
+        if act[i]:
+            j = i + 1
+            while j < n and act[j]:
+                j += 1
+            islands.append((i, j))
+            i = j
+        else:
+            i += 1
+    while len(islands) >= 2:
+        prev_s, prev_e = islands[-2]
+        last_s, last_e = islands[-1]
+        gap_ms = (last_s - prev_e) * 10
+        tail_ms = (last_e - last_s) * 10
+        main_ms = (islands[-2][1] - islands[0][0]) * 10
+        if main_ms >= 100 and gap_ms >= 75 and tail_ms <= 200:
+            cut_sample = min(len(x), (prev_e + 2) * hop)
+            x = x[:cut_sample]
+            islands.pop()
+        else:
+            break
+    return x
+
+
 def trim(x, sr, db=-50.0, margin=0.02):
+    x = _strip_detached_tail_pop(x, sr)
     thr = 10 ** (db / 20.0)
     idx = np.where(np.abs(x) > thr)[0]
     if not len(idx):
@@ -64,7 +110,7 @@ def trim(x, sr, db=-50.0, margin=0.02):
 def fade(x, sr, ms):
     n = min(int(sr * ms / 1000), len(x) // 2)
     if n > 0:
-        r = np.linspace(0, 1, n, dtype=x.dtype)
+        r = (0.5 * (1.0 - np.cos(np.linspace(0.0, np.pi, n)))).astype(x.dtype)
         x = x.copy()
         x[:n] *= r
         x[-n:] *= r[::-1]
@@ -72,11 +118,12 @@ def fade(x, sr, ms):
 
 
 def prepare_sentence(x, sr, audio_cfg):
-    """Trim, level to the segment loudness, de-click. Returns float32."""
+    """Trim, level to the segment loudness (bounded gain), raised-cosine de-click. Returns float32."""
     x = trim(np.asarray(x, dtype=np.float32), sr, audio_cfg["trimDb"], audio_cfg.get("edgeMs", 20) / 1000.0)
     l = lufs(x, sr)
     if np.isfinite(l) and l > -60:
-        g = max(-12.0, min(15.0, audio_cfg["segLufs"] - l))
+        max_up = 5.0 if len(x) < int(0.45 * sr) else 7.5
+        g = max(-12.0, min(max_up, audio_cfg["segLufs"] - l))
         x = x * np.float32(10 ** (g / 20.0))
     return fade(x, sr, audio_cfg["fadeMs"])
 
@@ -112,8 +159,48 @@ def assemble(lines, sr, audio_cfg):
     return sig, lay_out(units)
 
 
+def _podcast_warm_eq(sig, sr):
+    """Subtle studio podcast warmth: 55 Hz rumble cut, +2.0 dB warm chest fullness at 155 Hz, +1.2 dB presence at 5.2 kHz."""
+    if len(sig) < int(0.05 * sr):
+        return sig
+    from scipy.signal import butter, sosfilt, lfilter
+    import math
+    x = np.asarray(sig, dtype=np.float64)
+    # 1. 55 Hz 2nd-order high-pass (kills subsonic thumps/pops)
+    sos_hp = butter(2, 55.0 / (0.5 * sr), btype="highpass", output="sos")
+    x = sosfilt(sos_hp, x)
+    # 2. +2.0 dB peaking EQ at 155 Hz (Q=0.75) for full human chest resonance
+    A = 10.0 ** (2.0 / 40.0)
+    w0 = 2.0 * math.pi * 155.0 / sr
+    alpha = math.sin(w0) / (2.0 * 0.75)
+    b0 = 1.0 + alpha * A
+    b1 = -2.0 * math.cos(w0)
+    b2 = 1.0 - alpha * A
+    a0 = 1.0 + alpha / A
+    a1 = -2.0 * math.cos(w0)
+    a2 = 1.0 - alpha / A
+    x = lfilter([b0 / a0, b1 / a0, b2 / a0], [1.0, a1 / a0, a2 / a0], x)
+    # 3. +1.2 dB high-shelf at 5200 Hz (Q=0.707) for crisp natural presence
+    if 5200.0 < 0.45 * sr:
+        As = 10.0 ** (1.2 / 40.0)
+        ws = 2.0 * math.pi * 5200.0 / sr
+        cw, sw = math.cos(ws), math.sin(ws)
+        al_s = sw / 2.0 * math.sqrt((As + 1.0 / As) * (1.0 / 0.707 - 1.0) + 2.0)
+        sq = 2.0 * math.sqrt(As) * al_s
+        sb0 = As * ((As + 1.0) + (As - 1.0) * cw + sq)
+        sb1 = -2.0 * As * ((As - 1.0) + (As + 1.0) * cw)
+        sb2 = As * ((As + 1.0) + (As - 1.0) * cw - sq)
+        sa0 = (As + 1.0) - (As - 1.0) * cw + sq
+        sa1 = 2.0 * ((As - 1.0) - (As + 1.0) * cw)
+        sa2 = (As + 1.0) - (As - 1.0) * cw - sq
+        x = lfilter([sb0 / sa0, sb1 / sa0, sb2 / sa0], [1.0, sa1 / sa0, sa2 / sa0], x)
+    return x.astype(np.float32)
+
+
 def master(sig, sr, audio_cfg):
-    """One constant gain to the program loudness (no pumping); returns (signal, gain_db, measured_lufs)."""
+    """Warm podcast EQ + one constant gain to the program loudness (no pumping); returns (signal, gain_db, measured_lufs)."""
+    if audio_cfg.get("warmEq", True) and "segLufs" in audio_cfg:
+        sig = _podcast_warm_eq(sig, sr)
     l = lufs(sig, sr)
     if not np.isfinite(l):
         return sig, 0.0, l

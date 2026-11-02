@@ -34,7 +34,7 @@ WALK = [
     (1, None, ["'Did I not tell you that I was in the washroom?' Notice how Jordanian Arabic turns a statement into a yes-or-no question simply by lifting the voice at the end."]),
     (2, None, ["'You startled me, I thought nobody was here.' ", ('mariam', 'خوفتيني'), ' packs "you scared me" into one word, and ', ('mariam', 'فكرت'), ' means "I thought".']),
     (3, None, ["'Alright sorry, I did not mean to scare you.' Because Noaf is female, she says ", ('noaf', 'آسفة'), ' with a soft "-e" at the end rather than ', ('noaf', 'آسف'), '.']),
-    (4, None, ["'I was only trying to lighten the mood a little.' Literally ", ('noaf', 'ألطف الجو'), ' says "soften the weather", the exact everyday idiom for lightening a tense mood.']),
+    (4, None, ["'I was only trying to lighten the mood a little.' Literally, ", ('noaf', 'ألطف الجو'), ' says "soften the weather", the exact everyday idiom for lightening a tense mood.']),
     (5, None, ["'Today was very hard on me.' ", ('mariam', 'صعب'), ' means "hard" or "difficult", and ', ('mariam', 'علي'), ' adds "on me" to show who carried the weight of the day.']),
     (6, None, ["'I know, I saw how the girls bothered you.' ", ('noaf', 'ضايقوكي'), ' comes from the root for tightness or narrowness—so bothering someone literally crowds their space.']),
     (7, None, ["'You can take a break here in peace.' ", ('noaf', 'استراحة'), ' comes from resting, and ', ('noaf', 'بهدوء'), ' means "quietly" or "in peace".']),

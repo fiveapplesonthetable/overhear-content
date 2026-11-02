@@ -64,7 +64,7 @@ STORY = [
 WALK = [
     (0, None, """'Bravo!' Theatre audiences across Spain shout this classic Italian loanword to cheer a great performance."""),
     (1, None, """'Oh, we've found her! She's the one.' Slipping the little word "that" before "we have her" adds excited punch in spoken Spanish, like "oh, we really have her!". Then two crisp words — literally "is she" — mean "she's the one"."""),
-    (2, None, """'She has the full three-sixty.' Instead of saying "she is", Magüi says "she has three sixty", treating complete all-round talent as something an actress possesses."""),
+    (2, None, """'She has the full three-sixty.' Instead, of saying "she is", Magüi says "she has three sixty", treating complete all-round talent as something an actress possesses."""),
     (3, None, """'What a tremendous play she's put on. I'm going to stand up.' Adding the big "-ón" ending to the term "play" supersizes it into "a powerhouse performance". In the second sentence, "put myself of foot" is the everyday Spanish chunk for standing up."""),
     (4, None, """'Such elegance. Gorgeous!' Shouting the feminine word "pretty" or "gorgeous" from your seat is a classic, affectionate theatre cheer in Spain — right alongside "bravo!"."""),
     (5, None, """'Many thanks to all of you, everyone.' Notice Spain's informal plural word "you all", which speakers in Madrid use constantly with groups of friends or students. At the end, the masculine plural for "youngsters" addresses a mixed group of men and women."""),
@@ -72,5 +72,5 @@ WALK = [
     (7, None, """'I wanted to invite a very important person onto the stage.' Saying "I wanted to invite" sounds softer and more polite than a blunt "I want". Next comes "al", which merges "to" and masculine "the" before "stage", followed by personal "a" before "a person"."""),
     (8, None, """'Today they finish their journey here at the Primera Fila school.' The Spanish word "trajectory" is an everyday way to talk about someone's training path or career journey. Notice how present-tense "they finish" marks a milestone happening today."""),
     (9, None, """'What's more, he's in the front row.' Opening with a handy connector for "besides" or "what's more", the director makes a dad joke on the school's name: lowercase "primera fila" literally means sitting in the "front row"."""),
-    (10, None, """'Please welcome Fernando Canelón, from the Red Carpet agency. Welcome.' Literally "well come", the closing word changes its ending to match who arrives — masculine "-o" here for Fernando, or "-a" for a woman.""")
+    (10, None, """'Please welcome Fernando Canelón, from the Red Carpet agency. Welcome.' Literally, "well come", the closing word changes its ending to match who arrives — masculine "-o" here for Fernando, or "-a" for a woman.""")
 ]

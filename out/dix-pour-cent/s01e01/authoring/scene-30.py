@@ -108,7 +108,7 @@ WALK = [
     (4, None, "'My friends talk about it all the time.' The small word before 'talk' stands for 'about it'. French can refer back to the treatment without repeating its name."),
     (5, None, "'It's easy, but I didn't think I'd do that one day.' The past form of 'think' describes her earlier expectation. She then uses a plain action form for what she never imagined doing."),
     (6, None, "'Look. That's my wife.' Another casual command, and a surprise: he's going to use his own wife as the example."),
-    (7, None, "'How old would you say she is?' Literally 'what age do you give her?'. The small word before the verb means 'to her'. And Mathias uses the casual 'you' with Cecile, because they've known each other for years."),
+    (7, None, "'How old would you say she is?' Literally, 'what age do you give her?'. The small word before the verb means 'to her'. And Mathias uses the casual 'you' with Cecile, because they've known each other for years."),
     (8, None, "'Forty? Forty-two?' Ages can be guessed with just a number and a rising voice. She says 'years' after the first number, then leaves it understood after the second."),
     (9, None, "'She's fifty-one.' Here's that 'to have' again: literally 'she has fifty-one years'. Much older than Cecile guessed."),
     (10, None, "'Botox every year, and her eyes two years ago.' This phrase at the end, 'there are two years', is how French says 'two years ago'. Mathias lists everything, perfectly calm."),

@@ -72,10 +72,10 @@ WALK = [
     (4, None, "'I remember.' Answering takes just two words: the little word for myself followed by the I form, matching the pattern of Álex's question."),
     (5, None, "'Can I send you her showreel?' Notice how the tiny word for to you sits right in front of can I, though tacking it onto send would mean the exact same thing. Spanish actors use the borrowed compound videobook for a video showreel."),
     (6, None, "'Of course, send it to me. Write down the email.' Earlier the word for clear meant understandable; on its own like this, it means of course. Then send bundles me and it onto one word, followed by jot down the email."),
-    (7, None, "'Here, I'll give you our card.' Literally I leave you the card: the same everyday action word Álex used for leaving the parcel now means handing over a business card."),
-    (8, None, "'How gorgeous you look, Magüi.' Literally what pretty you go: in Spain, saying someone goes pretty is a warm, idiomatic way to compliment how they are dressed to go out."),
+    (7, None, "'Here, I'll give you our card.' Literally, I leave you the card: the same everyday action word Álex used for leaving the parcel now means handing over a business card."),
+    (8, None, "'How gorgeous you look, Magüi.' Literally, what pretty you go: in Spain, saying someone goes pretty is a warm, idiomatic way to compliment how they are dressed to go out."),
     (9, None, "'Thank you very much, Paquita. I'm heading off now.' Because thanks is feminine plural, many before it takes the matching feminine plural ending too. Adding already before I leave gives the sense of I'm off now."),
-    (10, None, "'Hold on, darling. Can you check that socket for me? I don't know what's wrong with it.' Literally can you see that plug or socket for me, then I don't know what happens to it, a reusable pattern whenever a gadget acts up."),
+    (10, None, "'Hold on, darling. Can you check that socket for me? I don't know what's wrong with it.' Literally, can you see that plug or socket for me, then I don't know what happens to it, a reusable pattern whenever a gadget acts up."),
     (11, None, "'I pulled hard on the lamp.' Where English pulls on something, Spanish pulls of the lamp. The word for strong doubles here as hard without changing its ending."),
     (12, None, "'It's a bit loose.' Because socket is masculine, loose ends in o, and Spanish picks the temporary state form because being loose is a current condition rather than its nature."),
     (13, None, "'I have five minutes. I'll take a look at it.' Earlier Álex used throw for signing a form; now he says I throw an eye to it, Spain's favourite casual idiom for taking a quick look.")

@@ -90,7 +90,7 @@ WALK = [
     (5, None, "'To whom?' The first word is to, not at: it introduces the person who would buy the shares. The question asks for the buyer's identity, not the price."),
     (6, None, "'I don't know. To the quickest.' The middle word makes quick into the quickest. The final description stands for the quickest buyer, so Hélène need not repeat buyer itself."),
     (7, None, "'We can buy Samuel's shares.' Buy here means acquire the shares from their new owner, Hélène. The French action word can also mean buy back, but it does not require the buyer to have owned the thing before."),
-    (8, None, "'What do you mean, we?' Literally 'what do you want to say'. That's how French asks what someone means."),
+    (8, None, "'What do you mean, we?' Literally, 'what do you want to say'. That's how French asks what someone means."),
     (9, None, "'Us. The four of us.' French uses the same word for we before an action and us standing alone here. Mathias means the four partners: himself, Andréa, Gabriel and Arlette."),
     (10, None, "'Me, I have nothing. I rent my flat.' Starting with the strong word for 'me' puts the focus on herself. Andréa doesn't own a home, so she has nothing to put in."),
     (11, None, "'Money can be found.' Literally, money finds itself. That self pattern can express that something is possible or obtainable, without saying who does it. Mathias treats raising the money as a solvable problem."),

@@ -34,7 +34,7 @@ WALK = [
     (1, None, ["'That was not the deal, Mariam.' ", ('dina', 'مش هيك'), ' means "not like this", a short two-word protest Jordanians use whenever plans go sideways.']),
     (2, None, ["'You keep planning all by yourself in this story.' ", ('dina', 'بتضلك'), ' means "you keep on", and ', ('dina', 'بالقصة'), ' literally says "in the story" for "in this whole affair".']),
     (3, None, ["'Tell me ahead of time instead of me being surprised like this.' ", ('dina', 'بدل ما'), ' means "instead of", a super handy connector whenever you suggest a better option.']),
-    (4, None, ["'It was not in my hands to change the room assignments.' Literally ", ('mariam', 'ما كان بإيدي'), ' says "it was not in my hand", matching English "out of my hands".']),
+    (4, None, ["'It was not in my hands to change the room assignments.' Literally, ", ('mariam', 'ما كان بإيدي'), ' says "it was not in my hand", matching English "out of my hands".']),
     (5, None, ["'I was so excited for us to be in the same room.' ", ('dina', 'متحمسة'), ' means "excited" when a girl is speaking, and ', ('dina', 'بنفس الغرفة'), ' is "in the same room".']),
     (6, None, ["'I wanted the three of us to sit together.' ", ('dina', 'سوا'), ' is a warm, tiny Levantine word for "together", interchangeable with مع بعض.']),
     (7, None, ["'Chatting and staying up together all night.' ", ('dina', 'ندردش'), ' is a delightful everyday word for casual chatting, and ', ('dina', 'نسهر'), ' means staying up late at night.']),

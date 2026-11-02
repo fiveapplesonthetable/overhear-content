@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Sorry I did not come to the movie yesterday.' Dina says ", ('dina', 'آسفة'), ', the female form of "sorry", and ', ('dina', 'مبارح'), ' is how Jordanians say "yesterday" in everyday speech.']),
-    (1, None, ["'I was doing homework and did not have time.' Instead of an action word for \"have\", Arabic says \"at me\" with ", ('dina', 'عندي'), ', so ', ('dina', 'وما كان عندي وقت'), ' is literally "there was not at me time".']),
+    (1, None, ["'I was doing homework and did not have time.' Instead, of an action word for \"have\", Arabic says \"at me\" with ", ('dina', 'عندي'), ', so ', ('dina', 'وما كان عندي وقت'), ' is literally "there was not at me time".']),
     (2, None, ["'Of course, as usual, Dina.' Mariam teases her gently. That little word ", ('mariam', 'يا'), " right before Dina's name is how Arabic calls out directly to the person you are talking to."]),
     (3, None, ["'So, how was the movie?' Jordanian conversations constantly open with ", ('dina', 'شو'), ', a tiny all-purpose word for "what" or "so".']),
     (4, None, ["'Did I miss anything good?' Word for word, ", ('dina', 'راح علي'), ' says "it went past on me", a handy everyday chunk whenever you miss an event. And ', ('dina', 'إشي'), ' is pure Amman speech for "anything" or "something".']),

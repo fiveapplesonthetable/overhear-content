@@ -85,7 +85,7 @@ STORY = [('mathias',
  ('noemie', 'Il est très, très marié.', "He's very, very married.", [(463, 'Il est très, très marié')], '')]
 WALK = [
     (0, None, "'What are you doing here?' He uses the casual 'you', the one for family and friends, so we already sense these two know each other well. Camille answers brightly."),
-    (1, "J'ai trouvé un travail.", "'I found a job.' This is the past French uses most in conversation: a helper word, 'have', plus the action. Literally 'I have found a job'."),
+    (1, "J'ai trouvé un travail.", "'I found a job.' This is the past French uses most in conversation: a helper word, 'have', plus the action. Literally, 'I have found a job'."),
     (1, 'Super, non?', "'Great, isn't it?' Adding the little word for 'no' with a question mark at the end is an easy way to ask for agreement. Mathias can only repeat her words."),
     (3, None, "'I'm Andrea Martel's new assistant.' The description 'new' has a feminine form to match 'assistant'. French names the owner after a short linking word, which loses its vowel before Andrea's name."),
     (4, None, "'Listen, I reacted badly this morning.' He starts with a casual command, 'listen', to calm things down. It's almost an apology."),

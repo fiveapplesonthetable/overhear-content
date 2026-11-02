@@ -47,7 +47,7 @@ WALK = [
     (1, None, [
         "'Quiet, Senya! A decisive match is on right now!' The word for quiet is ",
         ('barinov', 'Тихо,'),
-        " In Russian a match literally goes, ",
+        " In Russian, a match literally goes, ",
         ('barinov', 'идёт'),
         " and the word for decisive, ",
         ('barinov', 'решающий'),

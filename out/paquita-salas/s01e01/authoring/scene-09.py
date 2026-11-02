@@ -69,11 +69,11 @@ WALK = [
     (2, None, "'When she leaves for the train station, can you send me a WhatsApp?' Spaniards often say the RENFE, using the rail company's name as the word for the train station itself. After when referring to later today, leaves uses its g-stem form rather than regular sale."),
     (3, None, "'Yes, at half past six.' Even when written timetables show eighteen thirty, everyday spoken Spanish says at the six and half, using feminine plural the because hours is understood."),
     (4, None, "'What? There's a change of plan?' When you mishear or can't believe what someone just said on the phone, asking the word for how is much more polite in English's place for what."),
-    (5, None, "'To the schedule? What time does she finish?' Literally at what hour does she go out: leaving work or wrapping a shoot uses the everyday word for go out."),
+    (5, None, "'To the schedule? What time does she finish?' Literally, at what hour does she go out: leaving work or wrapping a shoot uses the everyday word for go out."),
     (6, None, "'Maca finishes at half past eight today?' Keeping statement word order rather than adding a helper word like English does turns the new time into an incredulous question."),
     (7, None, "'And you sent me an email about that?' In Peninsular Spanish, speakers reach for the two-word form you have sent when talking about earlier today, and link the topic with that rather than about that."),
     (8, None, "'What email? There's no email.' After there is no, Spanish drops the word for an, saying literally no there-is mail."),
-    (9, None, "'Apparently there was an email, but it never arrived.' Literally it seems that there was an email: ongoing there was sets the background, while completed arrived says it never showed up."),
+    (9, None, "'Apparently there was an email, but it never arrived.' Literally, it seems that there was an email: ongoing there was sets the background, while completed arrived says it never showed up."),
     (10, None, "'It was an email warning about a schedule change on the series.' Where English uses warning with ing, Spanish uses a clause meaning that warned of a change of schedule."),
     (11, None, "'We had already bought the ticket for Seminci tonight.' Putting the tiny word for already right at the start stresses that the train ticket was paid for before they heard any news."),
     (12, None, "'Now she won't make it. It can't be.' Present-tense she doesn't arrive works where English uses won't make it. Then the handy phrase at the end literally means it cannot be.")

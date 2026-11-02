@@ -33,7 +33,7 @@ STORY = [
 WALK = [
     (0, None, ["'Nastya, you will drive me crazy one of these days!' He's already in a mood. The term for \"one of these days\" ", ('barinov', "когда-нибудь"), " means \"someday\", and said like this it's a warning."]),
     (1, None, ["'One must not run into the kitchen so unexpectedly.' The house rule: you don't burst into his kitchen. There is no \"you\" in the Russian, just the term for \"it is not allowed\", ", ('barinov', "Нельзя"), ", which is how rules are stated."]),
-    (2, None, ["'Chef, I have a very urgent question.' Nastya doesn't flinch. In Russian she literally says ", ('nastya', "у меня"), ", which translates to \"at me\" rather than \"I have\": the question sits with her."]),
+    (2, None, ["'Chef, I have a very urgent question.' Nastya doesn't flinch. In Russian, she literally says ", ('nastya', "у меня"), ", which translates to \"at me\" rather than \"I have\": the question sits with her."]),
     (3, None, ["'What is the correct term for a female chef?' Nastya asks it innocently. The term for \"head chef\", ", ('nastya', "шеф-повар"), ", has no obvious female version, which is exactly what sets him off."]),
     (4, None, ["'A female head chef is a freak of nature.' Barinov's answer, and it's a harsh one. ", ('barinov', "ошибка природы."), " translates to \"freak of nature\" and is a real Russian expression for something that shouldn't exist."]),
     (5, None, ["'Why do you speak so unfairly?' She uses the formal word for \"you\", ", ('nastya', "вы"), ", even while disagreeing, which is how a waitress objects to her boss."]),

@@ -90,7 +90,7 @@ WALK = [
     (5, None, "'The same age?' The description 'same' comes between 'the' and 'age'. Andrea repeats just that group of words to challenge his comparison."),
     (6, None, "'All old ladies get along, is that it?' Both the word for 'all' and the word for 'old' take the feminine plural form, to match 'ladies'. She is joking, but she is annoyed."),
     (7, None, "'I'm only thirty-four. Thanks a lot!' French again uses 'have' with a number of years. The small word after it limits the age to 'only' thirty-four; her thanks is sarcastic."),
-    (8, None, "'Sorry, that's not what I meant.' Literally 'that's not what I wanted to say'. A useful sentence when you need to take something back."),
+    (8, None, "'Sorry, that's not what I meant.' Literally, 'that's not what I wanted to say'. A useful sentence when you need to take something back."),
     (9, None, "'But you're so good at this!' The description means 'gifted' or 'talented'. Its feminine spelling matches Andrea, although the extra written letter is silent."),
     (10, None, "'Listen, give her a bit of space.' Both instructions address a familiar person. In the second, 'to her' attaches after the action with a hyphen."),
     (11, None, "'You'll only annoy her.' The present action 'go' introduces what will happen next. The small object meaning 'her' attaches to the beginning of 'annoy'."),

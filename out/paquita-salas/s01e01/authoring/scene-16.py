@@ -69,7 +69,7 @@ STORY = [
 WALK = [
     (0, None, "'Hello, Sofi, how are things? Hey, take good care of her for me.' Look how much affection fits into that final four-syllable word: look after, plus for me, plus feminine her for Macarena."),
     (1, None, "'Promised.' Using the masculine singular past form of promise all by itself is a crisp, reusable one-word reply meaning I promise or consider it done."),
-    (2, None, "'I've decided I'd better head back to Madrid.' Literally I have thought that better I return myself to Madrid, adding myself to return for the casual feel of heading back."),
+    (2, None, "'I've decided I'd better head back to Madrid.' Literally, I have thought that better I return myself to Madrid, adding myself to return for the casual feel of heading back."),
     (3, None, "'Why?' Two short words ask why: the word for followed by accented what."),
     (4, None, "'Because I'm tired. What am I doing here dressed like this?' Notice how two-word why is answered immediately by one-word unaccented because! Both tired and dressed end in feminine a for Paquita."),
     (5, None, "'If I hurry, maybe I'll make the wedding drinks.' Earlier having haste meant being in a hurry; giving yourself haste means hurrying up. Plural glasses also means the late-night drinks party at a Spanish wedding."),

@@ -82,7 +82,7 @@ WALK = [
     (6, None, "'Yes, Hippolyte told me.' Catherine answers Mathias's description of Camille. Told it to me packs two small objects into the French past: me identifies the person informed, and it refers to Camille's job."),
     (7, None, "'I didn't know you had a son who was an actor.' Camille speaks to Mathias with formal you in front of the others. Had a son makes the discovery personal. The word actor here covers performers generally, rather than only people who do comedy."),
     (8, None, "'Why didn't you tell me that?' Camille now turns to Hippolyte and uses familiar you. The negative surrounds the past helper, while me comes before it. Her question asks why he kept the family connection from her."),
-    (9, None, "'What difference does it make?' Literally what does that change? That stands for the fact they have just discussed. For Hippolyte it seems unimportant, while Camille understands that they share a father."),
-    (10, None, "'I'm thirsty.' In French you don't 'are' thirsty, you 'have' thirst. It's her way of escaping the conversation."),
-    (11, None, "'Shall we get a drink?' Literally 'we're going to take a glass?'. The verb 'to go' plus another verb talks about the near future."),
+    (9, None, "'What difference does it make?' Literally, what does that change? That stands for the fact they have just discussed. For Hippolyte it seems unimportant, while Camille understands that they share a father."),
+    (10, None, "'I'm thirsty.' In French, you don't 'are' thirsty, you 'have' thirst. It's her way of escaping the conversation."),
+    (11, None, "'Shall we get a drink?' Literally, 'we're going to take a glass?'. The verb 'to go' plus another verb talks about the near future."),
 ]

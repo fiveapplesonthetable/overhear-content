@@ -99,6 +99,6 @@ WALK = [
     (8, None, "'Did you see that?' The French past uses have plus seen. That points back to the actresses' joint appearance at the tribute. The short question asks Gabor to share Andréa's reaction to what they watched."),
     (9, None, "'It's totally unexpected.' Totally strengthens unexpected: Gabriel sells the combination as completely surprising. Unexpected describes the proposal itself, rather than either individual actress."),
     (10, None, "'People will talk about it, that's certain.' The French wording literally says that is going to make people talk. The idea itself is the subject. Going to presents its publicity as an expected result, and certain adds Gabriel's confidence."),
-    (11, None, "'And that's two fees instead of one.' Emma brings up the cost. A fee here is the payment to a performer. Instead of is literally in the place of, comparing the two payments with the single one they had planned."),
+    (11, None, "'And that's two fees instead of one.' Emma brings up the cost. A fee here is the payment to a performer. Instead, of is literally in the place of, comparing the two payments with the single one they had planned."),
     (12, None, "'We'll give you a good price.' Literally, we are going to make you a little price. Little describes a reduced price, not a small object. Andréa uses familiar you with Emma while offering a deal."),
 ]

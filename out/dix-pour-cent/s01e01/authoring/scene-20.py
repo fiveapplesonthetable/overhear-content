@@ -102,7 +102,7 @@ WALK = [
     (4, None, "'We understand Tarantino's hesitation.' Mathias uses the word for 'we' to speak for the agency. The ending of 'understand' matches that subject."),
     (5, None, "'Yes, Quentin has a lot of talent.' A short word meaning 'of' links 'a lot' to 'talent'. The French noun can stay singular when talking about someone's ability."),
     (6, None, "'It's a real shame about Cecile.' The short expression beginning 'it's' introduces disappointment. Here the word for 'for' naturally becomes English 'about'."),
-    (7, None, "'But he wants someone under thirty.' Literally 'someone of less than thirty years'. So now we know: it really is about age."),
+    (7, None, "'But he wants someone under thirty.' Literally, 'someone of less than thirty years'. So now we know: it really is about age."),
     (8, None, "'Yes, Cecile is a little older.' French builds 'older' by putting 'more' before the description of age. The extra written letter for Cecile's gender is silent here."),
     (9, None, "'A little? She's forty-one.' Listen to how age works: in French you don't 'are' an age, you 'have' it. She has forty-one years."),
     (10, None, "'Forty. She's just turned forty.' A present form of 'come', a short word meaning 'from', and another action together mean 'has just'. The action 'have' belongs to the French way of saying someone's age."),

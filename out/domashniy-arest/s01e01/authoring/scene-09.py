@@ -10,7 +10,7 @@ PAIR = 'ru-en'
 LABELS = {'nina': 'Нина', 'samson': 'Самсон', 'yulia': 'Юля'}
 SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.01'
 SOURCE_FILE = 'sources/domashniy-arest/s01/e01.ru.dual.srt'
-INTRO = "Now we're in the communal flat, in the Samsonovs' small room. Last time, over his morning coffee, Arkady turned down Pasha's big factory deal. Meanwhile Samson, who quit his job yesterday on Arkady's word, is on the phone to his old boss, trying to get it back, while his wife Nina listens. We'll hear it in Russian first; don't worry about catching every word."
+INTRO = "Now we're in the communal flat, in the Samsonovs' small room. Last time, over his morning coffee, Arkady turned down Pasha's big factory deal. Meanwhile, Samson, who quit his job yesterday on Arkady's word, is on the phone to his old boss, trying to get it back, while his wife Nina listens. We'll hear it in Russian first; don't worry about catching every word."
 OPENER = "Let's go through it together. Samson is calling his old boss, the man he was so rude to yesterday."
 TRANSITION = "Let's hear the whole family scene once more."
 OUTRO = "That's all for this scene: a lost job, a leaking pipe, and a dream of the sea. Listen out for Nina's 'I want to go to the sea' when you watch. See you next time!"
@@ -85,7 +85,7 @@ WALK = [
         " stands on its own to express a chore ahead."
     ]),
     (6, None, [
-        "'But you were offered a job. What, is it a bad job?' Literally translates to 'to you they offered work' — ",
+        "'But you were offered a job. What, is it a bad job?' Literally, translates to 'to you they offered work' — ",
         ('nina', 'тебе же предложили работу.'),
         " She means Arkady's offer."
     ]),

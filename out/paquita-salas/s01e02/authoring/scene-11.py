@@ -64,7 +64,7 @@ STORY = [
 WALK = [
     (0, None, """'Right, this is about to start.' Opening with the term "good" works like English "well" or "right" when wrapping up a chat. Then "goes to start" expresses something about to happen any second."""),
     (1, None, """'We'll talk later. See you later.' Present-tense "later we talk" is Spain's natural everyday promise to catch up soon, without needing a future form. Notice the same word "later" returning after "until" in "see you later"."""),
-    (2, None, """'You can tell he's very fond of you.' Literally "itself sees that", that neat two-word opener means "it's obvious that" or "you can tell". After it, Spanish says "he has much fondness for you"."""),
+    (2, None, """'You can tell he's very fond of you.' Literally, "itself sees that", that neat two-word opener means "it's obvious that" or "you can tell". After it, Spanish says "he has much fondness for you"."""),
     (3, None, """'He's a very good lad. I love him very much.' Placed right before "boy", the masculine word "good" drops its final "-o" to become a crisp single syllable. Calling a grown former assistant a "good boy" shows Paquita's motherly warmth."""),
     (4, None, """'What nerves.' Two quick words — literally "what nerves" — are how Spaniards confess butterflies before an exam, a match, or curtain-up."""),
     (5, None, """'Such nerves. And how nervous must they be?' Here "have to be" doesn't express a rule or duty — it wonders aloud "imagine how they must be feeling!". Spanish uses "be" for temporary feelings like stage fright."""),
@@ -72,5 +72,5 @@ WALK = [
     (7, None, """'My destiny is clearly mapped out.' Adding the "-mente" ending to the feminine form of "clear" works just like adding "-ly" in English "clearly". The final word literally means "traced" or "drawn" like a line on a map."""),
     (8, None, """'Do you want to know what it is?' Again, formal "usted" sits right after "wants" for polite theatrical distance. At the end, "it" glues straight onto "to know" to make one smooth word."""),
     (9, None, """'Look at that girl.' Unlike English "look at", the Spanish command for "look" takes no extra term "at" before "that girl". Notice the feminine form of "that" matching "girl"."""),
-    (10, None, """'Boring myself to death.' Adding "myself" onto "to bore" means getting bored rather than boring someone else. Literally "until to die", those final two words match English "to death".""")
+    (10, None, """'Boring myself to death.' Adding "myself" onto "to bore" means getting bored rather than boring someone else. Literally, "until to die", those final two words match English "to death".""")
 ]

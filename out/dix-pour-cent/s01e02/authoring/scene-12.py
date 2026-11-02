@@ -91,7 +91,7 @@ WALK = [
     (3, None, "'Brilliant, isn't it?' The little word for 'no' at the end asks her to agree. Gabriel is very pleased with himself."),
     (4, None, "'Why not Enrico Macias?' Why not can be a serious suggestion or an ironic challenge. Andréa names another popular singer to mock Gabriel's choice, rather than actually suggesting a new cast member."),
     (5, None, "'Line Renaud is beautiful, the right age, and very popular.' Three good reasons. 'The right age' is literally 'of the good age'."),
-    (6, None, "'Gabriel, you've completely lost your mind!' Literally 'you have completely lost the head'. This is the everyday past: the action word 'have', then the action."),
+    (6, None, "'Gabriel, you've completely lost your mind!' Literally, 'you have completely lost the head'. This is the everyday past: the action word 'have', then the action."),
     (7, None, "'I like Line Renaud, but she's not made for this.' Adding the French word for 'well' after the action word for 'love' softens it to 'I like'. And the expression for 'made' is feminine, because it describes Line."),
     (8, None, "'Not in a Gabor film!' This is a shortened refusal: she leaves out the rest of I will not put her. The preposition in still links the actress with the production she supposedly does not suit."),
     (9, "Je ne vais pas m'humilier.", "'I'm not going to humiliate myself.' The verb 'to go' plus another verb is the easy French future. Here it's negative, wrapped by the two little words for 'not'."),

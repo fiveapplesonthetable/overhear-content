@@ -152,7 +152,7 @@ WALK = [
     (
         8,
         None,
-        '\'Last night I accidentally fell asleep again.\' Literally "bu xiaoxin" says \'not careful\' for doing '
+        '\'Last night I accidentally fell asleep again.\' Literally, "bu xiaoxin" says \'not careful\' for doing '
         'something by accident, and "shuizhao" adds "zhao" onto "shui" to mean \'fall asleep\'.',
     ),
     (

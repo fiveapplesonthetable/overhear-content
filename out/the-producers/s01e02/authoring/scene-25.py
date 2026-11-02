@@ -43,7 +43,7 @@ WALK = [
     (2, None, "'Hurry and go get it.' \"Ppalli\", 'quickly', combines with \"gatda wa\", literally 'go and come back' — the everyday Korean command for running a quick errand."),
     (3, None, "'Please use this.' Holding out a large black umbrella, Seung-chan says \"igeo sseuseyo\"; in Korean, \"sseuda\" covers putting on hats, glasses, and holding open an umbrella."),
     (4, None, "'Thank you.' Surprised by the kind gesture, Cindy replies \"gomawoyo\", a warm, natural polite 'thanks'."),
-    (5, None, "'Ah, by the way, this umbrella isn't mine.' Instead of walking away coolly, Seung-chan adds \"je geo anigoyo\", using humble \"je geo\" for 'mine'."),
+    (5, None, "'Ah, by the way, this umbrella isn't mine.' Instead, of walking away coolly, Seung-chan adds \"je geo anigoyo\", using humble \"je geo\" for 'mine'."),
     (6, None, "'I just borrowed it from the lobby desk.' \"Banggeum\" means 'just a moment ago', and \"billin\" comes from \"billida\", 'to borrow'."),
     (7, None, "'If you don't return it, they deduct the umbrella cost from my salary.' Dead serious, he pairs \"bannap\", 'returning a loaner item', with \"wolgeup\", 'monthly paycheck', and \"gongjehamnida\", 'they deduct it'."),
     (8, None, "'Okay, I will bring it back.' Trying to end the awkward lecture, Cindy promises \"gatda deurilkkeyo\", humbly offering to return it."),

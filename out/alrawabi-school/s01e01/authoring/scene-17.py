@@ -37,7 +37,7 @@ WALK = [
     (4, None, ["'Layan came up to me and grabbed me by force.' The everyday word ", ('mariam', 'لعندي'), ' glues "to" and "by me" together to mean "right up to me".']),
     (5, None, ["'Do not believe her, Mariam is lying!' ", ('layan', 'لا تصدقوها'), ' is a command form telling the group "don\'t believe her", with "her" tucked onto the end.']),
     (6, None, ["'Nobody here messes with me at school.' Swapping معها for ", ('layan', 'معي'), ' changes "with her" into "with me".']),
-    (7, None, ["'I saw everything with my own eyes, Layan.' Literally ", ('noaf', 'بعيني'), ' says "with my eye", giving personal eyewitness weight to Noaf\'s words.']),
+    (7, None, ["'I saw everything with my own eyes, Layan.' Literally, ", ('noaf', 'بعيني'), ' says "with my eye", giving personal eyewitness weight to Noaf\'s words.']),
     (8, None, ["'You are a new girl and you do not know anything.' ", ('layan', 'بنت جديدة'), ' puts the word for "girl" before "new", matching the soft "-e" ending on both words.']),
     (9, None, ["'I know very well who is telling the truth.' Saying ", ('noaf', 'عم بيحكي'), ' means "is speaking right now", spotlighting who is telling the truth in this moment.']),
     (10, None, ["'Not everything the eye sees is the truth.' The Arabic word ", ('mariam', 'العين'), ' can mean both a physical eye and a fresh water spring.']),

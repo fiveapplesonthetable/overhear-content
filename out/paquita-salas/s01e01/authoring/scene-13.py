@@ -79,7 +79,7 @@ WALK = [
     (5, None, "'What's the problem? Everything is fine.' Before is the problem, Spanish asks which is the problem rather than what is the problem."),
     (6, None, "'I know what's up with you.' Putting already before I know means I've worked it out now, followed by the neuter two-word chunk meaning what happens to you."),
     (7, None, "'The thing is, I was going to Paco's wedding with Magüi.' That opening two-word excuse literally says it is that, followed by ongoing I was going for a plan that was interrupted."),
-    (8, None, "'You've done me a favour.' Literally to me you have made a favour, using the same irregular form for made or done that Lidia used earlier."),
+    (8, None, "'You've done me a favour.' Literally, to me you have made a favour, using the same irregular form for made or done that Lidia used earlier."),
     (9, None, "'Listen, Paquita, have you received an email of mine?' Putting mine after an email lets Macarena ask casually about an email of mine rather than saying the email."),
     (10, None, "'No, I haven't received the email. I don't know what happened with the email.' Notice how Paquita swaps the word for an out for the definite word for the, thinking Macarena means Juanfran's schedule notice."),
     (11, None, "'It's technology, Magüi is already sorting it out.' General ideas like technology take the feminine word for the in Spanish. At the end, sorting out tacks masculine it onto one word."),

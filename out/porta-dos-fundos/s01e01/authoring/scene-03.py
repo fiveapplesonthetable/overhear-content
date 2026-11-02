@@ -41,6 +41,6 @@ WALK = [
     (5, None, ["'Now she has nothing to do and stays on her phone.' Using ", ('colega', 'fica'), ' — literally "stays" — captures sitting around stuck in a habit, and Brazil\'s word for a mobile phone is ', ('colega', 'celular.'), '.']),
     (6, None, ["'Is that what you want for your life? To lose focus?' Framing a question with ", ('colega', 'É isso que'), ' — "is that what..." — puts theatrical spotlight on ', ('colega', 'isso'), ', turning a small delay into a life crisis.']),
     (7, None, ['\'I think you\'re exaggerating.\' Where English can drop "that", Portuguese keeps ', ('financeiro', 'que'), ' in ', ('financeiro', 'eu acho que'), ', a gentle opener you can reuse before any opinion.']),
-    (8, None, ['\'Did you need to shout at me in front of everyone else?\' Instead of saying the separate words for "with me", Portuguese joins them into one special word, ', ('financeiro', 'comigo'), ', and here you shout "with" someone rather than "at" them.']),
+    (8, None, ['\'Did you need to shout at me in front of everyone else?\' Instead, of saying the separate words for "with me", Portuguese joins them into one special word, ', ('financeiro', 'comigo'), ', and here you shout "with" someone rather than "at" them.']),
     (9, None, ["'I'm being generous, my friend.' Just as the full verb shrinks in everyday speech, ", ('colega', 'Tô sendo'), ' rolls off the tongue for "I\'m being".']),
 ]

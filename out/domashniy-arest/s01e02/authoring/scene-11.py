@@ -42,7 +42,7 @@ WALK = [
     (2, 'Деньги будут.', '\'The money will be there.\' "Dengi" (money) is always plural in Russian, so the action term \'will be\' is plural too. The partner wants a date.'),
     (3, None, "'And when will it be there?' He puts the question word last, which makes it sound sharp and impatient. Pasha has an excuse ready. Russians always use this form here."),
     (4, None, '\'I need to do a little work on the former mayor.\' After "S" (with), both \'former\' and \'mayor\' take the \'with/as\' form. The former mayor is Arkady, and Pasha\'s \'work\' means squeezing the money out of him. The partner reminds him of his promise.'),
-    (5, None, "'You told me the money would be here today.' In Russian you keep the time of the original promise: word for word, 'you told me, the money will be today'. Then Stepan Gennadyevich, the older partner, loses patience."),
+    (5, None, "'You told me the money would be here today.' In Russian, you keep the time of the original promise: word for word, 'you told me, the money will be today'. Then Stepan Gennadyevich, the older partner, loses patience."),
     (6, 'Мы сюда зачем прилетели?', "'What did we even fly out here for?' The action term means 'to arrive by flying'; the same root was in the greeting at the start."),
     (6, 'Я сразу сказал: с ним ничего не получится.', "'I said from the start: nothing will come of it with him.' He means Pasha. The partner explains how much they have already done. It built from a common stem."),
     (7, None, "'We got everything ready and flew in for the deal.' Two past forms, both in the plural because the subject is 'we'. Pasha tries to calm them down."),
@@ -54,7 +54,7 @@ WALK = [
     (12, None, "'And the advance stays with us.' The phrase at the end, literally 'at us', is how Russians say 'we have it' or 'with us'. Pasha panics."),
     (13, 'Подождите!', "'Hold on!' The polite form, because he's begging important people. Then his complaint."),
     (13, 'Два дня — это же очень мало.', '\'Two days is far too little.\' "nemnozhko" (little) here means \'not enough\' when it describes time or money. Stepan has a nasty answer.'),
-    (14, None, "'Too little for people who do nothing.' Literally 'for those who do nothing'. In Russian, 'nothing' needs a 'not' before the action term as well: a double negative that is perfectly correct. Pasha makes an offer."),
+    (14, None, "'Too little for people who do nothing.' Literally, 'for those who do nothing'. In Russian, 'nothing' needs a 'not' before the action term as well: a double negative that is perfectly correct. Pasha makes an offer."),
     (15, None, "'All right, let's say three. On my personal responsibility.' He puts his own name on the line. And the partner gives in, a little. Russians just love this phrase."),
-    (16, None, "'Three days. I can't give you more.' Literally 'more I can't'. With that, the meeting is over."),
+    (16, None, "'Three days. I can't give you more.' Literally, 'more I can't'. With that, the meeting is over."),
 ]

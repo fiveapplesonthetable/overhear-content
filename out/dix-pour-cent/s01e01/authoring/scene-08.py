@@ -105,7 +105,7 @@ WALK = [
     (11, "Non, je viens d'arriver.", "'No, I've just arrived.' 'Come' followed by 'from' and an action describes something that has just happened. Here Camille is explaining why she has no friends in Paris yet."),
     (11, "Mon père, mais c'est compliqué.", "'My dad, but it's complicated.' The possessive matches a masculine noun because she is naming her father. The connecting word 'but' warns that having him in Paris does not make things simple."),
     (12, None, "'Do you look after him?' The expression for 'look after' needs a small word meaning 'of' before the person. The last word is the form of 'him' used after a preposition."),
-    (13, None, "'No way!' Literally 'out of the question'. Andrea likes that. Then she gets to the real test."),
+    (13, None, "'No way!' Literally, 'out of the question'. Andrea likes that. Then she gets to the real test."),
     (14, None, "'Can I call you at four in the morning? Do you work on Sundays?' Andrea now switches to the familiar address as she sets out the job's demands. A day with the article can describe a regular weekly habit."),
     (15, None, "'Yes, yes.' The repeated answer confirms both requests Andrea has just made. Camille accepts both without hesitation."),
     (16, None, "'Very good. Can you start now?' 'Can' is followed straight away by the plain action 'start'. The final word makes the offer immediate."),

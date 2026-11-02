@@ -59,7 +59,7 @@ WALK = [
         (None, "でしょ"), " snaps back 'is you, obviously!'"
     ]),
     (5, None, [
-        '"\'What part of me is shameful!\' Literally " The speaker uses ',
+        '"\'What part of me is shameful!\' Literally, " The speaker uses ',
         (None, "俺のどこが"), " asks 'where of me?'—the natural Japanese way to challenge someone with 'just what is wrong with me?!'"
     ]),
     (6, None, [

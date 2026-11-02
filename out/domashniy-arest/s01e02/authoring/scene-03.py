@@ -35,7 +35,7 @@ STORY = [
     ('samson', 'Поехали!', 'Here we go!', [(115, 'Поехали')], 'speaker not marked; given to Samson (the toast)'),
 ]
 WALK = [
-    (0, None, "'Vodka is liquid bread.' An old drinking joke: it's made from grain, so it must be food. In Russian there is no word for 'is' in a sentence like this; the dash does the job."),
+    (0, None, "'Vodka is liquid bread.' An old drinking joke: it's made from grain, so it must be food. In Russian, there is no word for 'is' in a sentence like this; the dash does the job."),
     (1, None, "'You'll make a great mayor, Samson.' Literally, 'a great mayor will come out of you'. The first term is a casual 'great, cool'. Then Arkady looks his candidate up and down."),
     (2, None, "'You've got a belly like a member of parliament.' The phrase in the middle, literally 'at you', is how Russians say 'you have'. In Arkady's world, that's a compliment. Samson just nods."),
     (3, None, "'Uh-huh.' Not a word, just a sound for 'yes'. Now Arkady shows him how a candidate should look."),

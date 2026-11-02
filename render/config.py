@@ -90,13 +90,13 @@ def sentence_signature(s, lang):
     signature. (voice, reference version and text are added by plan.cache_key.)"""
     ru, en, ar = ru_engine(s), en_engine(s), ar_engine(s)
     if lang == "ru" and ru:
-        return {"ru": _public(ru), "takeGates": "v2"}
+        return {"ru": _public(ru), "takeGates": "v3"}
     if lang == "en" and en:
         return {"en": _public(en), "takeGates": "v2"}
     if lang == "ar" and ar:
         return {"ar": _public(ar), "takeGates": "v2"}
     d = tts_signature(s, with_en=False, with_ar=False)
-    d["takeGates"] = "v2"
+    d["takeGates"] = "v3" if lang == "en" else "v2"
     return d    # Other languages' sentence caches do not depend on Arabic/narrator engines.
 
 
@@ -110,7 +110,8 @@ def engine_label(s, lang):
 
 def assembly_signature(s):
     return {"audio": s["audio"], "align": s["align"], "renderVersion": s["renderVersion"],
-            "turnMaxChars": int(s["audio"].get("turnMaxChars", 240))}
+            "turnMaxChars": int(s["audio"].get("turnMaxChars", 240)),
+            "inlineCarrier": "v1", "warmMaster": "v1"}
 
 
 def sha(obj) -> str:

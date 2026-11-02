@@ -27,7 +27,7 @@ STORY = [
     ('thorsten', 'Das ist Beyza, die Assistentin von Sabine.', 'That is Beyza, Sabine\'s assistant.', [(290, 'Das ist'), (290, 'die'), (290, 'von Sabine')], 'Correct auto-caption Bes, die Assistente to Beyza, die Assistentin.'),
     ('thorsten', 'Heute frage ich sie nach einem Abendessen.', 'Today I am going to ask her to dinner.', [(291, 'Heute frage ich sie')], 'Clarify what Thorsten plans to ask her (anticipating his dinner invitation in Scene 16).'),
     ('thorsten', 'Hallo Beyza! Schön, dass du hier bist.', "Hello Beyza! Nice that you're here.", [], 'Restored from raw rolling cue 293 (Hallo Bisa) with warm A1 welcome.'),
-    ('beyza', 'Hallo Thorsten! Sabine kommt heute leider nicht.', 'Hello Thorsten! Unfortunately Sabine is not coming today.', [], 'Natural conversational reply establishing why Beyza came in Sabine\'s place.'),
+    ('beyza', 'Hallo Thorsten! Sabine kommt heute leider nicht.', 'Hello Thorsten! Unfortunately, Sabine is not coming today.', [], 'Natural conversational reply establishing why Beyza came in Sabine\'s place.'),
     ('thorsten', 'Kein Problem! Möchtest du zuerst einen Kaffee trinken?', 'No problem! Would you like to drink a coffee first?', [], 'Bridges Thorsten\'s attempt to charm Beyza before the inspection.'),
     ('beyza', 'Nein danke, ich habe heute leider nicht viel Zeit.', "No thank you, unfortunately I don't have much time today.", [], 'Keep Beyza\'s brisk, businesslike tone at A1 level.'),
     ('beyza', 'Und, wollen wir direkt ins Büro gehen?', 'So, shall we go straight to the office?', [(296, 'Und wollen wir')], 'Expand elliptical Und, wollen wir? with direkt ins Büro gehen for beginner clarity.')
@@ -38,7 +38,7 @@ WALK = [
     (1, None, "'That is Beyza, Sabine's assistant.' Rather than adding an apostrophe-'s' to a name the way English does, everyday spoken German links people with the word for 'of' or 'from' — literally 'the assistant of Sabine', complete with the feminine job ending."),
     (2, None, "'Today I am going to ask her to dinner.' Notice how German needs no special future helper when a time word like 'today' already makes the plan clear: 'today ask I her' does the whole job, ending with the compound word for 'evening meal'."),
     (3, None, "'Hello Beyza! Nice that you're here.' This warm greeting — literally 'nice that you here are' — is one of the friendliest ways to welcome a guest or coworker. Notice how the word for 'that' sends 'are' right to the end of the clause."),
-    (4, None, "'Hello Thorsten! Unfortunately Sabine is not coming today.' Slipping the single word for 'unfortunately' into the middle of a sentence softens bad news or a change of plans without needing a whole extra clause."),
+    (4, None, "'Hello Thorsten! Unfortunately, Sabine is not coming today.' Slipping the single word for 'unfortunately' into the middle of a sentence softens bad news or a change of plans without needing a whole extra clause."),
     (5, None, "'No problem! Would you like to drink a coffee first?' Pairing 'no' with 'problem' works just like in English, followed by a polite phrase for 'would you like to...?' that sends the word for 'drink' cleanly to the end."),
     (7, None, "'So, shall we go straight to the office?' Beyza uses the contraction for 'into the office' — squeezing two little words into one neat syllable — and rounds off with 'shall we?' to get straight down to work.")
 ]

@@ -34,9 +34,9 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Tell me, do you feel like going out to eat with me today?' Literally asking 'do you have desire...?' is the friendly, reusable way to invite someone to dinner, coffee, or a film."),
+    (0, None, "'Tell me, do you feel like going out to eat with me today?' Literally, asking 'do you have desire...?' is the friendly, reusable way to invite someone to dinner, coffee, or a film."),
     (2, None, "'Morning! How can I help you two? What's up?' That famous one-syllable word is the signature greeting of Hamburg and Northern Germany — you'll hear locals say it morning, afternoon, and night!"),
-    (3, None, "'The numbers don't look good, and he doesn't know the details.' Literally 'knowing notice' or 'knowing information' is a super handy two-word idiom meaning 'to be in the loop' or 'know the score'."),
+    (3, None, "'The numbers don't look good, and he doesn't know the details.' Literally, 'knowing notice' or 'knowing information' is a super handy two-word idiom meaning 'to be in the loop' or 'know the score'."),
     (4, None, "'Nonsense, that's not true, of course I know what's going on!' That lively word for 'nonsense' or 'rubbish' is classic casual pushback among coworkers, followed by a handy phrase meaning 'that isn't right'."),
     (5, None, "'That fifteen-thousand-euro surplus from last month — where did that come from?' Watch how German splits 'where from?' across the question: 'where' opens the clause while the little word for 'from' lands right at the end."),
     (6, None, "'That money saved you! Without that money it would all be over already.' At the close, 'all out' — like a light switched off — is a vivid everyday expression meaning 'all over' or 'finished'."),

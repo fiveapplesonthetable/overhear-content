@@ -34,7 +34,7 @@ STORY = [
     ('marina', 'Это наш мэр, Лёша.', "That's our mayor, Lyosha.", [], 'she knows him from the protest (cues 160, 164)'),
 ]
 WALK = [
-    (0, None, "'Little ones can hold on, but grown-ups can't, got it?' The verb that follows 'little ones' means 'can', in the sense of 'know how to'. At the end he checks the boy has understood, with a masculine past form, because he's talking to a boy. The boy protests."),
+    (0, None, "'Little ones can hold on, but grown-ups can't, got it?' The verb that follows 'little ones' means 'can', in the sense of 'know how to'. At the end, he checks the boy has understood, with a masculine past form, because he's talking to a boy. The boy protests."),
     (1, None, '\'That\'s not fair.\' Notice that \'not\' is glued to "nechestno" (fair) here, and it makes one word: \'unfair\'. Arkady pretends to be friendly.'),
     (2, None, "'What's your name, boy?' Literally, 'how do they call you?'. It's the normal way to ask a name, and you'll use it all the time. The answer is just one word."),
     (3, None, "'Lyokha.' A casual, boyish form of Alexei. Elsewhere you'll also hear him called Lyosha. Arkady then uses the name against him. Russians happily use this construction."),
@@ -43,7 +43,7 @@ WALK = [
     (5, 'Мама!', "'Mum!' Exactly what you'd expect. The word literally translates differently."),
     (5, 'Он идёт без очереди!', "'He's jumping the queue!' Word for word: 'he goes without queue'. It's the classic complaint in any line in Russia. Soon someone is knocking on the toilet door."),
     (6, 'Послушайте, в чём дело, женщина?', "'Listen, what's the matter, woman?' He starts with the polite command form of 'listen'. But calling a stranger simply 'woman' sounds rude and old-fashioned."),
-    (6, 'Здесь занято.', "'It's occupied.' Literally 'here is taken'. It's the word you'll hear through any locked toilet door. The woman outside is not impressed."),
+    (6, 'Здесь занято.', "'It's occupied.' Literally, 'here is taken'. It's the word you'll hear through any locked toilet door. The woman outside is not impressed."),
     (7, 'Вы взяточник!', "'You're a bribe-taker!' She uses the polite 'you', but there's nothing polite about the rest. Remember, Arkady was arrested for taking a bribe."),
     (7, 'Вы лезете вперёд больного ребёнка.', "'You're pushing in ahead of a sick child.' The verb literally means 'climb', and it's the term for 'barging' in. 'Ahead of' is followed by a special form of the words for 'sick' and 'child', the form that means 'of'. Now Arkady takes a proper look at her."),
     (8, None, "'I think I've seen you somewhere.' The verb is past, masculine, because Arkady is a man. The little word at the end means 'it seems'. She reminds him who she is."),

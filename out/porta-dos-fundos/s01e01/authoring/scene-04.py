@@ -46,5 +46,5 @@ WALK = [
     (8, None, ["'We are free! Shall we grab a little coffee?' In Brazil you never just invite someone for the plain drink: adding the warm ending makes ", ('colega', 'cafezinho?'), ' sound quick, friendly, and impossible to refuse.']),
     (9, None, ["'I would like to, but right now I have to sort out a few little things.' Notice the employee fights back with the same affectionate ending: ", ('financeiro', 'coisinhas.'), ' shrinks "things" into "just a few little tasks" to soften his excuse.']),
     (10, None, ["'Let's have a little coffee with sweetener!' ", ('colega', 'adoçante!'), ' comes from a root meaning "sweet", so it literally names the thing that sweetens your cup.']),
-    (11, None, ["'Yay.' Normally ", ('financeiro', 'Oba.'), " is a cheerful Brazilian shout of delight, which makes the employee's flat, defeated delivery even funnier."]),
+    (11, None, ["'Yay.' Normally, ", ('financeiro', 'Oba.'), " is a cheerful Brazilian shout of delight, which makes the employee's flat, defeated delivery even funnier."]),
 ]

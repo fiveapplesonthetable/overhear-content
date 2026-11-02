@@ -93,7 +93,7 @@ STORY = [('hippolyte',
   ''),
  ('hippolyte', 'Bonne journée.', 'Have a nice day.', [(262, 'Bonne journée')], '')]
 WALK = [
-    (0, 'Tout va bien?', "'Everything okay?' Literally 'all goes well?'. You can ask it of a friend, a colleague, or someone fighting with a machine."),
+    (0, 'Tout va bien?', "'Everything okay?' Literally, 'all goes well?'. You can ask it of a friend, a colleague, or someone fighting with a machine."),
     (1, 'Il fait des caprices.', "'It's playing up.' Literally, it is having tantrums. The machine is treated as masculine in this line, so French uses the word also used for he. That follows the gender of the French name for the machine; it does not make it a living person."),
     (2, None, "'No, it's working fine.' The verb here is 'to walk', which in French also means 'to work', for machines and for plans. Then he looks at her copies like an art critic."),
     (3, None, "'The contrast is really good.' Good describes contrast, a masculine word, so it has its masculine shape. Contrast here is the difference between light and dark areas of the copies; he uses the technical comment as an opening to flirt."),
@@ -111,5 +111,5 @@ WALK = [
     (14, 'Je suis occupée.', "'I'm busy.' Here the word for 'busy' has a feminine ending, because Camille is a woman."),
     (14, 'Il faut un rendez-vous.', "'You need an appointment.' This phrase means 'it is necessary', 'one needs'."),
     (15, None, "'Well... thanks anyway.' The last two words mean 'all the same', a polite way to accept a no."),
-    (16, None, "'Have a nice day.' Literally good day, as a wish. This word for the day is feminine, which gives good its feminine ending. Hippolyte says it as he leaves after Camille has refused his invitation."),
+    (16, None, "'Have a nice day.' Literally, good day, as a wish. This word for the day is feminine, which gives good its feminine ending. Hippolyte says it as he leaves after Camille has refused his invitation."),
 ]

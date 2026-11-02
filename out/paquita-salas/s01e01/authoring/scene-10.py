@@ -66,7 +66,7 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Never mind the email. Search for trains because she won't make it.' Literally it gives equal, Spain's go-to phrase for it doesn't matter or never mind. Notice too that search needs no separate word for before trains."),
+    (0, None, "'Never mind the email. Search for trains because she won't make it.' Literally, it gives equal, Spain's go-to phrase for it doesn't matter or never mind. Notice too that search needs no separate word for before trains."),
     (1, None, "'Nothing. Sold out, sold out.' On Spanish train websites and hotel signs, the word for complete or full is the standard way to say sold out or fully booked."),
     (2, None, "'I'm searching on Rumbo, on Kayak.' Where English searches on a website, Spanish searches in Rumbo and in Kayak, two travel booking sites."),
     (3, None, "'How could she go by kayak to Valladolid?' Unfamiliar with the travel site Kayak, Paquita hears a literal paddle boat! Notice how Spanish uses in before a vehicle or boat where English says by kayak."),
@@ -75,7 +75,7 @@ WALK = [
     (6, None, "'There's no airport in Valladolid.' Once again, negative there-is drops the word for an before masculine airport, keeping the refusal short and blunt."),
     (7, None, "'Magüi, there definitely is an airport.' Pairing yes with the little linking word right before there is adds lively insistence, just like saying there definitely is in English."),
     (8, None, "'I've never gone to Valladolid by plane.' Because the word for never sits at the very front of the sentence, Spanish puts no extra negative word before I have gone, and uses in plane rather than by plane."),
-    (9, None, "'Have you ever been to Russia?' Literally have you been some time in Russia: Spanish says been in a country rather than been to a country, and uses some time to mean ever."),
+    (9, None, "'Have you ever been to Russia?' Literally, have you been some time in Russia: Spanish says been in a country rather than been to a country, and uses some time to mean ever."),
     (10, None, "'And just because you haven't been there, Russia doesn't exist?' Notice how explicit casual you adds pointed sarcasm, while Spanish leaves out any word for there after haven't been."),
     (11, None, "'There's no airport in Valladolid, Paquita.' Magüi repeats her exact five-word sentence unchanged, adding Paquita's name at the end to stand her ground."),
     (12, None, "'Maybe they've closed it already. Look on Wikipedia.' That friendly three-word chunk at the start literally says to the best, and means maybe or perhaps in everyday speech."),

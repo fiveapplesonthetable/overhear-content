@@ -44,7 +44,7 @@ WALK = [
         '\'Listen, come with me. Do you know how to play foosball?\' "Sapere" before an action means knowing how to do a skill, and "il biliardino" — literally "little billiards" — is table football.'
     ]),
     (1, None, [
-        '\'I am a natural!\' Literally "I am a dragon!" Calling yourself "un drago" is a playful, colloquial brag for being brilliant at a game.'
+        '\'I am a natural!\' Literally, "I am a dragon!" Calling yourself "un drago" is a playful, colloquial brag for being brilliant at a game.'
     ]),
     (2, None, [
         '\'You are a legend! Are you married or in a relationship?\' "Sei un grande" literally calls someone "a big one", while "fidanzato" covers both a boyfriend and a fiance.'

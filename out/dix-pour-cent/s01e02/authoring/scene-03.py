@@ -115,6 +115,6 @@ WALK = [
     (13, None, "'Yes. Well, it's complicated.' The second word here is a little hesitation, like 'well' or 'I mean'."),
     (14, None, "'She says she doesn't want to do Gabor's film.' The little word meaning that joins what she says to her reported decision. It loses its final vowel before she, so the two are written with an apostrophe."),
     (15, None, "'I'll call her.' The near future once more, with the little word for 'her' right before the action word."),
-    (16, None, "'No, Mathias, I'm handling it!' Literally 'it's me who manages'. The same pattern as before, to say 'me, not you'."),
+    (16, None, "'No, Mathias, I'm handling it!' Literally, 'it's me who manages'. The same pattern as before, to say 'me, not you'."),
     (17, None, "'If it's not sorted out within twenty-four hours, I step in!' If makes the unresolved problem a condition for his intervention. Within gives the deadline. The final I step in works as a threat about the future, though its wording is present."),
 ]

@@ -555,8 +555,8 @@ def run_gate_worker(worker_id: int):
                     counts[ck] = counts.get(ck, 0) + prev_counts.get(ck, 0)
                 counts["retakes"] = max(0, counts["takes"] - 1)
 
-            if not ok and attempt < 1:
-                # Re-synthesize once with fresh seed & 4 candidates
+            if not ok and attempt < 3:
+                # Re-synthesize up to 3 retries with fresh seed & 4 candidates so failed takes never slip through
                 _reenqueue_synth(meta, attempt=attempt + 1, prev_counts=counts, n_cands=4)
                 continue
 

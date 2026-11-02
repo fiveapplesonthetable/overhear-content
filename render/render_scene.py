@@ -28,9 +28,140 @@ def seg_tokens(text, words=None):
     return [t for t in text.split() if TOKEN_RE.search(t)]
 
 
+class CarrierChain:
+    """One continuous WALK explanation chain [a..b] where all English narrator parts are synthesized
+    as a single unbroken sentence (with 'phrase' placeholders at target-language callout slots) and sliced at MMS_FA valleys."""
+
+    def __init__(self, a, b, carrier_key, carrier_text, char_maps, gaps_override):
+        self.a, self.b = a, b
+        self.key = carrier_key
+        self.text = carrier_text
+        self.char_maps = char_maps          # {seg_idx: [carrier_char_idx_or_None, ...]}
+        self.gaps_override = gaps_override  # {seg_idx: float_gap_sec}
+
+
+def _find_inline_chains(segments):
+    chains = []
+    n = len(segments)
+    i = 0
+    while i < n - 1:
+        g_val = round(float(segments[i].get("gap", 0.35) or 0), 3)
+        if g_val == 0.25:
+            a = i
+            b = i + 1
+            while b < n - 1 and round(float(segments[b].get("gap", 0.35) or 0), 3) == 0.25:
+                b += 1
+            roles_in = {segments[k]["v"] for k in range(a, b + 1)}
+            if "narrator" in roles_in and len(roles_in) >= 2:
+                chains.append((a, b))
+            i = b + 1
+        else:
+            i += 1
+    return chains
+
+
+def _build_carrier_spec(segments, a, b):
+    """Build (carrier_text, char_maps, gaps_override) for inline chain segments[a..b]."""
+    buf = []
+    char_maps = {}
+    gaps_override = {}
+    consumed_leading = set()
+
+    for k in range(a, b + 1):
+        seg = segments[k]
+        orig_gap = float(seg.get("gap", 0.35) or 0)
+        if seg["v"] == "narrator":
+            orig = seg["t"]
+            cmap = [None] * len(orig)
+            if not seg_tokens(orig):
+                # Punctuation-only narrator tail (e.g. '.' or '!'): punctuation already attached to preceding placeholder
+                char_maps[k] = cmap
+                gaps_override[k] = orig_gap
+                continue
+            start_ci = 0
+            if k in consumed_leading:
+                m = re.match(r"^(\s*[,;:]+)", orig)
+                if m:
+                    start_ci = m.end()
+            if buf and buf[-1] not in (" ", "\n") and start_ci < len(orig) and not orig[start_ci].isspace():
+                buf.append(" ")
+            for ci in range(start_ci, len(orig)):
+                ch = orig[ci]
+                if ci == start_ci and ch.isspace() and buf and buf[-1] == " ":
+                    continue
+                cmap[ci] = len(buf)
+                buf.append(ch)
+            char_maps[k] = cmap
+            if k < b:
+                r_txt = orig.rstrip()
+                tail_ch = r_txt[-1:] if r_txt else ""
+                if tail_ch in ".!?…":
+                    gaps_override[k] = 0.22
+                elif tail_ch in ":;":
+                    gaps_override[k] = 0.13
+                elif tail_ch == ",":
+                    gaps_override[k] = 0.11
+                else:
+                    gaps_override[k] = 0.06
+            else:
+                gaps_override[k] = orig_gap
+        else:
+            # Target-language callout slot -> insert crisp 1-word placeholder 'phrase' (+ punctuation if needed)
+            if buf and buf[-1] not in (" ", "\n", '"', "'", "("):
+                buf.append(" ")
+            punct = ""
+            comma_pause = False
+            t_strip = seg["t"].rstrip()
+            if k + 1 <= b and segments[k + 1]["v"] == "narrator":
+                nxt_t = segments[k + 1]["t"]
+                if not seg_tokens(nxt_t):
+                    p_only = nxt_t.strip()
+                    punct = p_only if p_only in (".", "!", "?", '."', ".'") else "."
+                else:
+                    m = re.match(r"^\s*([,;:]+)", nxt_t)
+                    if m:
+                        punct = m.group(1)[0]
+                        consumed_leading.add(k + 1)
+                        comma_pause = True
+            if not punct and t_strip[-1:] in ",;:":
+                punct = ","
+                comma_pause = True
+            if k == b and not punct:
+                punct = "."
+            for ch in ("phrase" + punct):
+                buf.append(ch)
+            if k < b:
+                if k + 1 <= b and segments[k + 1]["v"] == "narrator" and not seg_tokens(segments[k + 1]["t"]):
+                    gaps_override[k] = 0.01
+                elif comma_pause:
+                    gaps_override[k] = 0.13
+                else:
+                    gaps_override[k] = 0.07
+            else:
+                gaps_override[k] = orig_gap
+
+    carrier_text = re.sub(r" {2,}", " ", "".join(buf)).strip()
+    # Recompute exact character map on clean carrier_text by building without duplicate spaces
+    buf2 = []
+    cmap_clean = {k: [None] * len(segments[k]["t"]) for k in range(a, b + 1) if segments[k]["v"] == "narrator"}
+    for idx_b, ch in enumerate(buf):
+        if ch == " " and (not buf2 or buf2[-1] == " "):
+            continue
+        new_pos = len(buf2)
+        buf2.append(ch)
+        for k, cm in char_maps.items():
+            for ci, old_p in enumerate(cm):
+                if old_p == idx_b:
+                    cmap_clean[k][ci] = new_pos
+    while buf2 and buf2[-1] == " ":
+        buf2.pop()
+    return "".join(buf2), cmap_clean, gaps_override
+
+
 class Ctx:
-    def __init__(self, scene, roles, rkey, sents, uniq):
+    def __init__(self, scene, roles, rkey, sents, uniq, carriers=None):
         self.scene, self.roles, self.rkey, self.sents, self.uniq = scene, roles, rkey, sents, uniq
+        self.carriers = carriers or []
 
 
 class Renderer:
@@ -52,15 +183,42 @@ class Renderer:
         notes_by_seg = {l["seg"]: l.get("words") or [] for l in scene.notes.get("lines", []) if isinstance(l, dict)}
         sents = []
         isent_cfg = self.s["audio"]["interSentenceGap"]
-        for i, g in enumerate(scene.script["segments"]):
+        segments = scene.script["segments"]
+
+        # Build continuous carrier sentences for split WALK inline callout chains so the narrator speaks
+        # one unbroken, comma-inflected sentence per explanation with tight conversational inline timing.
+        carriers = []
+        chain_by_seg = {}
+        narr_voice = roles["narrator"]
+        narr_lang = self.voices.lang_of(narr_voice)
+        for a, b in _find_inline_chains(segments):
+            c_text, c_maps, g_over = _build_carrier_spec(segments, a, b)
+            if c_text and c_maps:
+                c_key = tts.cache_key(self.s, narr_voice, self.voices.ref_version(narr_voice), narr_lang, c_text)
+                ch_obj = CarrierChain(a, b, c_key, c_text, c_maps, g_over)
+                carriers.append(ch_obj)
+                for k in range(a, b + 1):
+                    chain_by_seg[k] = ch_obj
+
+        for i, g in enumerate(segments):
             voice = roles[g["v"]]
             lang = self.voices.lang_of(voice)
+            ch_obj = chain_by_seg.get(i)
+            if ch_obj is not None and g["v"] == "narrator":
+                st = textprep.Sentence(i, 0, "narrator", lang, g["t"], g["t"], 0, gap=ch_obj.gaps_override[i])
+                st.voice = voice
+                st.key = f"{ch_obj.key}__part_{i}"
+                st.carrier_chain = ch_obj
+                sents.append(st)
+                continue
+
+            eff_gap = ch_obj.gaps_override[i] if ch_obj is not None else float(g.get("gap", 0.35) or 0)
             native_words = native_text.words_for_segment(g["t"], notes_by_seg.get(i), lang) if lang in native_text.LANGUAGES else ()
             turn_max = int(self.s["audio"].get("turnMaxChars", 240))
             if lang == "ru" and config.ru_engine(self.s):
                 turn_max = min(turn_max, 90)
             for st in textprep.prepare_segment(
-                    i, g["v"], g["t"], lang, notes_by_seg.get(i), self.policy, float(g.get("gap", 0.35) or 0), isent_cfg.get(lang, isent_cfg["en"]),
+                    i, g["v"], g["t"], lang, notes_by_seg.get(i), self.policy, eff_gap, isent_cfg.get(lang, isent_cfg["en"]),
                     ruaccent=self.ruaccent if (lang == "ru" and self.s["stress"]["ruaccentFallback"]) else None,
                     max_turn_chars=turn_max):
                 st.voice = voice
@@ -75,9 +233,15 @@ class Renderer:
                                          "words": [[word.text, word.start, word.end, word.reading] for word in st.alignment_words]})
                 sents.append(st)
         uniq = {}
+        for ch_obj in carriers:
+            c_tts = textprep.polish_english_commas(ch_obj.text) if narr_lang == "en" else ch_obj.text
+            uniq.setdefault(ch_obj.key, {"key": ch_obj.key, "voice": narr_voice, "lang": narr_lang,
+                                         "text_tts": c_tts, "text_plain": ch_obj.text})
         for st in sents:
+            if getattr(st, "carrier_chain", None) is not None:
+                continue
             uniq.setdefault(st.key, {"key": st.key, "voice": st.voice, "lang": st.lang, "text_tts": st.tts, "text_plain": st.plain})
-        return Ctx(scene, roles, rkey, sents, uniq)
+        return Ctx(scene, roles, rkey, sents, uniq, carriers=carriers)
 
     # -- step 1: synthesis ------------------------------------------------------------------------------------
     def synth(self, ctx, engine, lang=None, not_lang=None):
@@ -131,16 +295,92 @@ class Renderer:
 
         first = {}
         for st in sents:
-            first.setdefault(st.key, st)
+            if getattr(st, "carrier_chain", None) is None:
+                first.setdefault(st.key, st)
         best = {}
         for key, st in first.items():
             wav = tts.load_wav(self.store.tts_path(key))[0]
             clip, ct, x16, ck = evaluate(st, wav)
             best[key] = {"bad": self.badness(ck), "wav": wav, "clip": clip, "ct": ct, "x16": x16, "ck": ck, "take": 0}
-        
+
+        # Slice continuous narrator carrier waveforms cleanly at MMS_FA acoustic energy valleys around 'phrase' slots
+        carrier_aligned = {}
+        for ch_obj in getattr(ctx, "carriers", []):
+            if ch_obj.key not in carrier_aligned:
+                c_wav = tts.load_wav(self.store.tts_path(ch_obj.key))[0]
+                c_clip = audio.prepare_sentence(c_wav, sr, s["audio"])
+                c_ct, c_x16 = aligner.char_times(c_clip, sr, ch_obj.text, "en")
+                c_env, c_hop = audio_env(c_x16)
+                carrier_aligned[ch_obj.key] = (c_clip, c_ct, c_x16, c_env, c_hop)
+            c_clip, c_ct, c_x16, c_env, c_hop = carrier_aligned[ch_obj.key]
+            dur_c = len(c_clip) / sr
+
+            for k_seg, cmap in ch_obj.char_maps.items():
+                part_key = f"{ch_obj.key}__part_{k_seg}"
+                orig_t = scene.script["segments"][k_seg]["t"]
+                valid_mi = [mi for mi in cmap if mi is not None and mi < len(c_ct) and c_ct[mi] is not None]
+                if not seg_tokens(orig_t):
+                    sil_clip = np.zeros(int(0.025 * sr), dtype=np.float32)
+                    sil_16 = np.zeros(int(0.025 * 16000), dtype=np.float32)
+                    best[part_key] = {"bad": (0, 0.0), "wav": sil_clip, "clip": sil_clip,
+                                      "ct": [None] * len(orig_t), "x16": sil_16, "ck": [], "take": 0}
+                    continue
+                if not valid_mi:
+                    # Rare CTC fallback: proportional slice across carrier duration
+                    n_parts = max(1, len(ch_obj.char_maps))
+                    rank = sorted(ch_obj.char_maps).index(k_seg)
+                    s_sec = dur_c * rank / n_parts
+                    e_sec = max(s_sec + 0.06, dur_c * (rank + 1) / n_parts)
+                else:
+                    min_mi, max_mi = min(valid_mi), max(valid_mi)
+                    raw_s = min(c_ct[mi][0] for mi in valid_mi)
+                    raw_e = max(c_ct[mi][1] for mi in valid_mi)
+                    prev_hits = [c_ct[p][1] for p in range(0, min_mi) if p < len(c_ct) and c_ct[p] is not None]
+                    next_hits = [c_ct[p][0] for p in range(max_mi + 1, len(c_ct)) if c_ct[p] is not None]
+                    prev_bound = max(prev_hits) + 0.012 if prev_hits else 0.0
+                    next_bound = min(next_hits) - 0.012 if next_hits else dur_c
+
+                    if k_seg == ch_obj.a:
+                        s_sec = 0.0
+                    else:
+                        lo_s = max(0.0, min(raw_s, max(prev_bound, raw_s - 0.065)))
+                        f0 = max(0, int(lo_s / c_hop))
+                        f1 = min(len(c_env), max(f0 + 1, int(raw_s / c_hop) + 1))
+                        s_sec = (f0 + int(np.argmin(c_env[f0:f1]))) * c_hop if f1 > f0 else lo_s
+
+                    if k_seg == ch_obj.b:
+                        e_sec = dur_c
+                    else:
+                        hi_e = min(dur_c, max(raw_e, min(next_bound, raw_e + 0.085)))
+                        f0 = max(0, int(raw_e / c_hop))
+                        f1 = min(len(c_env), max(f0 + 1, int(hi_e / c_hop) + 1))
+                        e_sec = (f0 + int(np.argmin(c_env[f0:f1]))) * c_hop if f1 > f0 else hi_e
+
+                    if e_sec < s_sec + 0.045:
+                        e_sec = min(dur_c, s_sec + 0.045)
+
+                i0, i1 = max(0, int(round(s_sec * sr))), min(len(c_clip), int(round(e_sec * sr)))
+                if i1 <= i0:
+                    i1 = min(len(c_clip), i0 + int(0.045 * sr))
+                part_clip = audio.fade(c_clip[i0:i1], sr, 12)
+                part_dur = len(part_clip) / sr
+                j0, j1 = max(0, int(round(s_sec * 16000))), min(len(c_x16), int(round(e_sec * 16000)))
+                part_x16 = c_x16[j0:j1] if j1 > j0 else np.zeros(int(0.045 * 16000), dtype=np.float32)
+
+                part_ct = [None] * len(orig_t)
+                for ci, mi in enumerate(cmap):
+                    if mi is not None and mi < len(c_ct) and c_ct[mi] is not None:
+                        ca = max(0.0, min(part_dur, c_ct[mi][0] - s_sec))
+                        cb = max(ca, min(part_dur, c_ct[mi][1] - s_sec))
+                        part_ct[ci] = (ca, cb)
+
+                best[part_key] = {"bad": (0, 0.0), "wav": part_clip, "clip": part_clip,
+                                  "ct": part_ct, "x16": part_x16, "ck": [], "take": 0}
+
         # New Retake Stats Aggregation from .gates.json (created by synth_many gates)
         retake = {"sentences": [], "takes": 0, "retakes": 0, "length": 0, "repeat": 0, "transient": 0, "similarity": 0, "cer": 0}
-        for key, st in first.items():
+        seen_gate_keys = set(first.keys()) | {ch.key for ch in getattr(ctx, "carriers", [])}
+        for key in seen_gate_keys:
             if self.store.tts_path(key).with_name(f"{key}.gates.json").exists():
                 try:
                     counts = json.loads(self.store.tts_path(key).with_name(f"{key}.gates.json").read_text())
