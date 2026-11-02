@@ -1,0 +1,467 @@
+{
+ "_note": "Voice references (the pool). Each: clip + transcript + language + gender; refVersion = sha256(clip bytes + text)[:8] is computed, so changing either re-renders the scenes that use it. Who speaks with which voice is NOT here: casting/<show>.json (character -> voice, persisted in git, append-only; extended automatically by pipeline.py/tools/cast.py from out/<show>/cast.json). Pool order = preference order within (language, gender). `designedFor`: the voice-lab designed this voice for that Kukhnya character, so it is preferred for that role key. Pilot-language voices (es/de/it/pt/ja/zh/ko/ar) are NOT here: the earlier ones were cut from show audio and are private. Make new ones per spec/voices.md and add them here.",
+ "refs": {
+  "alisa": {
+   "file": "refs/alisa.flac",
+   "lang": "ru",
+   "text": "Хорошо, шеф. Я всегда знала, что буду поваром. Сегодня у подруги день рождения.",
+   "desc": "natural Russian young female — USER-PICKED for Anya (LTAS 0.50 from anja)",
+   "seconds": 7.8,
+   "source": [
+    {
+     "clip": "2abff6f03d3c61d7.mp3",
+     "episode": "06-knife",
+     "seconds": 2.53,
+     "text": "Хорошо, шеф."
+    },
+    {
+     "clip": "8bfcf04610e645df.mp3",
+     "episode": "05-kitchen",
+     "seconds": 2.3,
+     "text": "Я всегда знала, что буду поваром."
+    },
+    {
+     "clip": "23c9c7cff482038a.mp3",
+     "episode": "04-market",
+     "seconds": 2.27,
+     "text": "Сегодня у подруги день рождения."
+    }
+   ],
+   "gender": "f"
+  },
+  "anja": {
+   "file": "refs/anja.flac",
+   "lang": "ru",
+   "text": "Сегодня обед для персонала готовит Аня. Я тоже иду туда. Сегодня у Кати день рождения.",
+   "desc": "podcast, warm — bright/clear (user-approved)",
+   "seconds": 9.25,
+   "source": [
+    {
+     "clip": "f80b745fc5453782.mp3",
+     "episode": "07-lunch",
+     "seconds": 3.36,
+     "text": "Сегодня обед для персонала готовит Аня."
+    },
+    {
+     "clip": "6aa7bd5d6a8c8723.mp3",
+     "episode": "03-directions",
+     "seconds": 2.63,
+     "text": "Я тоже иду туда."
+    },
+    {
+     "clip": "a1dc388f4733f978.mp3",
+     "episode": "01-surprise",
+     "seconds": 2.56,
+     "text": "Сегодня у Кати день рождения."
+    }
+   ],
+   "gender": "f"
+  },
+  "angelina": {
+   "file": "refs/angelina.flac",
+   "lang": "ru",
+   "text": "Ты, главное, не торопись. Давай ещё разок. Не переживай. Подвинься. Ладно. Что?",
+   "desc": "clear & friendly",
+   "seconds": 6.78,
+   "source": [
+    {
+     "clip": "8f09d27c95a9fc6f.mp3",
+     "episode": "08-orders",
+     "seconds": 1.49,
+     "text": "Ты, главное, не торопись."
+    },
+    {
+     "clip": "c035ed60633bff98.mp3",
+     "episode": "08-orders",
+     "seconds": 0.96,
+     "text": "Давай ещё разок."
+    },
+    {
+     "clip": "41151c07883270e6.mp3",
+     "episode": "08-orders",
+     "seconds": 0.83,
+     "text": "Не переживай."
+    },
+    {
+     "clip": "822534217c4645f4.mp3",
+     "episode": "08-orders",
+     "seconds": 0.64,
+     "text": "Подвинься."
+    },
+    {
+     "clip": "224b8a952231ed13.mp3",
+     "episode": "08-orders",
+     "seconds": 0.61,
+     "text": "Ладно."
+    },
+    {
+     "clip": "aed2449ec8d30307.mp3",
+     "episode": "08-orders",
+     "seconds": 0.51,
+     "text": "Что?"
+    }
+   ],
+   "gender": "f"
+  },
+  "ru-m1": {
+   "file": "refs/ru-m1.flac",
+   "lang": "ru",
+   "gender": "m",
+   "designedFor": "max",
+   "text": "Привет, я только вчера приехал в Москву из Воронежа. Работа мечты уже рядом, и я сегодня невероятно счастлив.",
+   "desc": "voice-lab VoiceDesign: A young Russian man, about 23 years old. Light, bright tenor-baritone voice, energetic and charming, quick lively delivery, a cheeky half-smile in the voice, slightly informal southern Russian casual speech.",
+   "seconds": 8.24,
+   "source": [
+    {
+     "lab": "voice-lab exp1 max_t4.wav",
+     "text": "Привет, я только вчера приехал в Москву из Воронежа. Работа мечты уже рядом, и я сегодня невероятно счастлив.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ru-m2": {
+   "file": "refs/ru-m2.flac",
+   "lang": "ru",
+   "gender": "m",
+   "designedFor": "barinov",
+   "text": "Слушайте меня внимательно, инвалиды. Сегодня в зале сидит очень важный гость, и я не хочу слышать ни одной жалобы.",
+   "desc": "voice-lab VoiceDesign: A stocky Russian man of about 50. Deep, gravelly, booming baritone, a little hoarse, commanding and theatrical, stern and sarcastic, loud projected voice of a tyrannical head chef who is secretly warm.",
+   "seconds": 10.08,
+   "source": [
+    {
+     "lab": "voice-lab exp1 chef_pp.wav",
+     "text": "Слушайте меня внимательно, инвалиды. Сегодня в зале сидит очень важный гость, и я не хочу слышать ни одной жалобы.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ru-m3": {
+   "file": "refs/ru-m3.flac",
+   "lang": "ru",
+   "gender": "m",
+   "designedFor": "kostya",
+   "text": "Макс, ты можешь жить у меня сколько захочешь. Только, пожалуйста, не трогай мои бутылки на барной стойке.",
+   "desc": "voice-lab VoiceDesign: A tall, athletic young Russian man of about 24. Relaxed, friendly, warm baritone, easy-going and good-natured, a bartender who is bad at lying.",
+   "seconds": 7.04,
+   "source": [
+    {
+     "lab": "voice-lab exp1 kostya_t2.wav",
+     "text": "Макс, ты можешь жить у меня сколько захочешь. Только, пожалуйста, не трогай мои бутылки на барной стойке.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ru-m4": {
+   "file": "refs/ru-m4.flac",
+   "lang": "ru",
+   "gender": "m",
+   "designedFor": "senya",
+   "text": "Тише, тише, не шуми. Я принёс отличный кусок мяса, только шефу об этом знать совсем не обязательно.",
+   "desc": "voice-lab VoiceDesign: A Russian man of about 34. Warm, relaxed mid-range voice with a slight husky roughness, jovial and conspiratorial, always sounding like he is smiling and about to tell a joke.",
+   "seconds": 9.2,
+   "source": [
+    {
+     "lab": "voice-lab exp1 senya_t2.wav",
+     "text": "Тише, тише, не шуми. Я принёс отличный кусок мяса, только шефу об этом знать совсем не обязательно.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ru-m5": {
+   "file": "refs/ru-m5.flac",
+   "lang": "ru",
+   "gender": "m",
+   "designedFor": "fedya",
+   "text": "Когда я служил на флоте, я каждый день готовил рыбу для всей команды. Такую уху ты нигде больше не попробуешь.",
+   "desc": "voice-lab VoiceDesign: A tall, swaggering Russian man of about 35. Rich, resonant, slightly nasal baritone, boastful and lively, a talkative storyteller who exaggerates, louder and more animated than average.",
+   "seconds": 7.76,
+   "source": [
+    {
+     "lab": "voice-lab exp1 fedya_t3.wav",
+     "text": "Когда я служил на флоте, я каждый день готовил рыбу для всей команды. Такую уху ты нигде больше не попробуешь.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ru-m6": {
+   "file": "refs/ru-m6.flac",
+   "lang": "ru",
+   "gender": "m",
+   "designedFor": "lyova",
+   "text": "Простите, шеф, я всё проверил два раза. Я думаю, что сегодня на кухне всё будет хорошо, правда.",
+   "desc": "voice-lab VoiceDesign: A Russian man of about 32. Soft, gentle, higher-pitched tenor, polite and earnest, a little anxious and hesitant, speaking quietly and carefully like a loyal assistant who is afraid to make a mistake.",
+   "seconds": 8.48,
+   "source": [
+    {
+     "lab": "voice-lab exp1 lyova_t4.wav",
+     "text": "Простите, шеф, я всё проверил два раза. Я думаю, что сегодня на кухне всё будет хорошо, правда.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ru-m7": {
+   "file": "refs/ru-m7.flac",
+   "lang": "ru",
+   "gender": "m",
+   "designedFor": "nagiyev",
+   "text": "Друзья мои, этот ресторан носит моё имя. Поэтому здесь всё должно быть просто идеально, и даже лучше.",
+   "desc": "voice-lab VoiceDesign: A charismatic Russian man of about 45. Smooth, theatrical, self-important voice with dramatic pauses, flamboyant and vain, a TV-host drawl, mid-low pitch.",
+   "seconds": 9.76,
+   "source": [
+    {
+     "lab": "voice-lab exp1 nagiyev_t2.wav",
+     "text": "Друзья мои, этот ресторан носит моё имя. Поэтому здесь всё должно быть просто идеально, и даже лучше.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ru-f1": {
+   "file": "refs/ru-f1.flac",
+   "lang": "ru",
+   "gender": "f",
+   "designedFor": "vika",
+   "text": "Добрый вечер, ваш столик уже готов. Пожалуйста, следуйте за мной, я покажу вам лучшее место в нашем зале.",
+   "desc": "voice-lab VoiceDesign: A Russian woman of about 27. Clear, poised mezzo-soprano, crisp and precise diction, composed, confident and professional with a slightly cool, ambitious edge.",
+   "seconds": 7.84,
+   "source": [
+    {
+     "lab": "voice-lab exp1 vika_t3.wav",
+     "text": "Добрый вечер, ваш столик уже готов. Пожалуйста, следуйте за мной, я покажу вам лучшее место в нашем зале.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ru-f2": {
+   "file": "refs/ru-f2.flac",
+   "lang": "ru",
+   "gender": "f",
+   "designedFor": "nastya",
+   "text": "Пожалуйста, не выбрасывайте эту еду. Рядом на улице живёт человек, и ему сегодня очень нужен тёплый ужин.",
+   "desc": "voice-lab VoiceDesign: A petite young Russian woman of about 22. Sweet, bright, light soprano voice, earnest and gentle, youthful and emotional, warm and sincere.",
+   "seconds": 9.84,
+   "source": [
+    {
+     "lab": "voice-lab exp1 nastya_pp.wav",
+     "text": "Пожалуйста, не выбрасывайте эту еду. Рядом на улице живёт человек, и ему сегодня очень нужен тёплый ужин.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ru-f3": {
+   "file": "refs/ru-f3.flac",
+   "lang": "ru",
+   "gender": "f",
+   "designedFor": "ainura",
+   "text": "Не ругайся, сынок, кушай лучше. Хороший человек всегда найдёт дорогу домой, и на кухне тоже.",
+   "desc": "voice-lab VoiceDesign: A warm, practical woman of about 45 from Kyrgyzstan speaking Russian with a soft Central Asian accent. Mature, slow, kind voice, wise, sharing folk wisdom.",
+   "seconds": 7.68,
+   "source": [
+    {
+     "lab": "voice-lab exp1 ainura_t2.wav",
+     "text": "Не ругайся, сынок, кушай лучше. Хороший человек всегда найдёт дорогу домой, и на кухне тоже.",
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "sky": {
+   "file": "refs/sky.flac",
+   "lang": "en",
+   "text": "When you watch the second episode, listen for the chef asking where his knife is, and for the one word he shouts when he's in a hurry.",
+   "desc": "relaxed British, natural & melodic",
+   "seconds": 8.08,
+   "source": [
+    {
+     "clip": "aa148b7095764097.mp3",
+     "episode": "06-knife",
+     "seconds": 8.08,
+     "text": "When you watch the second episode, listen for the chef asking where his knife is, and for the one word he shouts when he's in a hurry."
+    }
+   ],
+   "gender": "f"
+  },
+  "lucie": {
+   "file": "refs/lucie.flac",
+   "lang": "fr",
+   "text": "Je suis un peu stressée. Il est dix heures. De rien. Je réserve la salle de réunion.",
+   "desc": "French (fr-FR) young-ish female, casual conversational; bright (HF/LF -12.5 dB). Protagonist Léa",
+   "seconds": 9.02,
+   "source": [
+    {
+     "clip": "49edbef6db86fcdc.mp3",
+     "episode": "fr-01-agence",
+     "seconds": 2.56,
+     "text": "Je suis un peu stressée."
+    },
+    {
+     "clip": "e85aa402bc646ecc.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 2.14,
+     "text": "Il est dix heures."
+    },
+    {
+     "clip": "60c1c0f720921cec.mp3",
+     "episode": "fr-03-rendez-vous",
+     "seconds": 1.67,
+     "text": "De rien."
+    },
+    {
+     "clip": "25712cbb1771b8cb.mp3",
+     "episode": "fr-03-rendez-vous",
+     "seconds": 1.6,
+     "text": "Je réserve la salle de réunion."
+    }
+   ],
+   "gender": "f"
+  },
+  "emilie": {
+   "file": "refs/emilie.flac",
+   "lang": "fr",
+   "text": "Moi, c'est Arlette. Allez, c'est l'heure. Ce n'est pas un problème. Bienvenue parmi nous!",
+   "desc": "French (fr-FR) female, casual conversational podcast host; bright (HF/LF -13.6 dB)",
+   "seconds": 5.03,
+   "source": [
+    {
+     "clip": "ca908e38712be30f.mp3",
+     "episode": "fr-01-agence",
+     "seconds": 0.96,
+     "text": "Moi, c'est Arlette."
+    },
+    {
+     "clip": "9992cb6883b1e275.mp3",
+     "episode": "fr-01-agence",
+     "seconds": 0.94,
+     "text": "Allez, c'est l'heure."
+    },
+    {
+     "clip": "8879fb627f710cc1.mp3",
+     "episode": "fr-01-agence",
+     "seconds": 0.91,
+     "text": "Ce n'est pas un problème."
+    },
+    {
+     "clip": "9e06f248784cef7d.mp3",
+     "episode": "fr-01-agence",
+     "seconds": 1.18,
+     "text": "Bienvenue parmi nous!"
+    }
+   ],
+   "gender": "f"
+  },
+  "theo": {
+   "file": "refs/theo.flac",
+   "lang": "fr",
+   "text": "Ça va, mais je suis en retard. Tu es géniale, Léa. Un café, peut-être? Dis-lui d'attendre. Je n'ai pas le temps. C'est Gabriel. Merci de ton aide. Quelle heure est-il? Quelqu'un m'a appelé? Bonne journée! Léa?",
+   "desc": "French (fr-FR) warm young male, gentle conversational",
+   "seconds": 11.94,
+   "source": [
+    {
+     "clip": "ec58b31b30d1f2bd.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 1.44,
+     "text": "Ça va, mais je suis en retard."
+    },
+    {
+     "clip": "602e470b2d61a537.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 0.96,
+     "text": "Tu es géniale, Léa."
+    },
+    {
+     "clip": "14fbab0d1c10a094.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 1.04,
+     "text": "Un café, peut-être?"
+    },
+    {
+     "clip": "b9fe653d1c94b0c6.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 0.88,
+     "text": "Dis-lui d'attendre."
+    },
+    {
+     "clip": "37244f8a6a15a962.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 0.64,
+     "text": "Je n'ai pas le temps."
+    },
+    {
+     "clip": "26c1813b483c72c6.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 0.62,
+     "text": "C'est Gabriel."
+    },
+    {
+     "clip": "c4d116506c68e142.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 0.59,
+     "text": "Merci de ton aide."
+    },
+    {
+     "clip": "0ce4041d2aba68d7.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 0.64,
+     "text": "Quelle heure est-il?"
+    },
+    {
+     "clip": "cdd75cc8a9c47d65.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 0.63,
+     "text": "Quelqu'un m'a appelé?"
+    },
+    {
+     "clip": "32e0ecf772a911ea.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 0.53,
+     "text": "Bonne journée!"
+    },
+    {
+     "clip": "c0e3f242b71e9cfd.mp3",
+     "episode": "fr-02-telephone",
+     "seconds": 0.47,
+     "text": "Léa?"
+    }
+   ],
+   "gender": "m"
+  },
+  "marcel": {
+   "file": "refs/marcel.flac",
+   "lang": "fr",
+   "text": "C'est avec Madame de Serisy. Ça va être une belle journée. Et deux cafés, s'il vous plaît. Demain, dix heures. Je ne sais pas encore si elle vient.",
+   "desc": "French (fr-FR) warm male, casual conversational, older",
+   "seconds": 8.73,
+   "source": [
+    {
+     "clip": "4bc4f699b579fc40.mp3",
+     "episode": "fr-03-rendez-vous",
+     "seconds": 1.6,
+     "text": "C'est avec Madame de Serisy."
+    },
+    {
+     "clip": "06d6266b84ddfced.mp3",
+     "episode": "fr-03-rendez-vous",
+     "seconds": 1.6,
+     "text": "Ça va être une belle journée."
+    },
+    {
+     "clip": "c8a1149394551f40.mp3",
+     "episode": "fr-03-rendez-vous",
+     "seconds": 1.44,
+     "text": "Et deux cafés, s'il vous plaît."
+    },
+    {
+     "clip": "1d8cbb9123919958.mp3",
+     "episode": "fr-03-rendez-vous",
+     "seconds": 1.35,
+     "text": "Demain, dix heures."
+    },
+    {
+     "clip": "ddfb239abcef075d.mp3",
+     "episode": "fr-03-rendez-vous",
+     "seconds": 1.35,
+     "text": "Je ne sais pas encore si elle vient."
+    }
+   ],
+   "gender": "m"
+  }
+ }
+}

@@ -1,165 +1,51 @@
-# Progress (update after every episode, in the same commit)
+# Progress
 
-Order for this run (set by the project owner, overriding the README priority list): Domashniy Arest S1 e01-e12
-and Dix pour cent S1-S4 (all 24 episodes) first, worked in parallel, each show in episode order; then Kukhnya S1
-e01-e20, then the remaining Kukhnya episodes (S2 e04 - S6 e20) from their Russian-only `eNN.ru.srt` transcripts; no English dual sidecars are coming, so do not wait for them (see README priority 5 and FEEDBACK.md). Quality over speed: every scene complete
-and checked, no shortcuts.
+The running log of this work. Update it in the same commit as the work it describes: what changed, what the checkers said,
+what review found, and what you tried on the A100 (models, batch sizes, measured RTF and CER). Newest entries go at the
+bottom of "Log".
 
-| show | episode | scenes | merged | status |
-|---|---|---|---|---|
-| domashniy-arest | s01e01 | 28 (25 scripted) | 3 (10, 23, 28) | done: validate OK (19 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s01e01 "Cécile" | 35 (28 scripted) | 7 (7, 9, 10, 15, 18, 22, 25) | done: validate OK (30 gap + 201 accented-name-in-narration warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s01e02 "Line et Françoise" | 31 (23 scripted) | 8 (7, 10, 13, 15, 18, 20, 23, 25) | done: validate OK (26 gap + 149 accented-name warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e02 | 34 (26 scripted) | 8 (4, 5, 7, 12, 19, 20, 30, 34) | done: validate OK (18 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s01e03 "Nathalie et Laura" | 31 (22 scripted) | 9 (4, 5, 8, 12, 21, 23, 27, 29, 31) | done: validate OK (28 gap + 84 accented-name warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e03 | 36 (33 scripted) | 3 (17, 33, 36) | done: validate OK (25 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s01e04 "Audrey" | 32 (28 scripted) | 4 (3, 13, 14, 25) | done: validate OK (27 gap + 111 accented-name warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e04 | 30 (28 scripted) | 2 (5, 27) | done: validate OK (18 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s01e05 "Julie et Joey" | 30 (28 scripted) | 2 (16, 26) | done: validate OK (26 gap + 70 accented-name warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e05 | 30 (29 scripted) | 1 (13) | done: validate OK (17 gap warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e06 | 31 (29 scripted) | 2 (14, 24) | done: validate OK (20 gap warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e07 | 34 (32 scripted) | 2 (20, 26) | done: validate OK (19 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s01e06 "François" | 30 (28 scripted) | 2 (18, 20) | done: validate OK (24 gap + 57 accented-name warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s02e01 "Virginie et Ramzy" | 29 (28 scripted) | 1 (5) | done: validate OK (25 gap + 37 accented-name warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e08 | 48 (48 scripted) | 0 | done: validate OK (32 gap warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e09 | 39 (39 scripted) | 0 | done: validate OK (38 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s02e02 "Fabrice Luchini" | 29 (29 scripted) | 0 | done: validate OK (15 gap + 47 accented-name warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e10 | 42 (42 scripted) | 0 | done: validate OK (41 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s02e03 "Norman Thavaud" | 31 (31 scripted) | 0 | done: validate OK (19 gap + 31 accented-name warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s02e04 "Isabelle Adjani" | 29 (29 scripted) | 0 | done: validate OK (18 gap + 53 accented-name warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e11 | 40 (40 scripted) | 0 | done: validate OK (39 gap warnings, see NOTES.md), qa OK |
-| domashniy-arest | s01e12 | 37 (37 scripted) | 0 | done: validate OK (36 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s02e05 "Guy Marchand" | 27 (27 scripted) | 0 | done: validate OK (17 gap + 33 accented-name warnings, see NOTES.md), qa OK |
-| kukhnya | s01e01 | 25 (25 scripted) | 0 | done: validate OK (24 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s02e06 "Juliette Binoche" | 31 (31 scripted) | 0 | done: validate OK (16 gap + 42 accented-name warnings, see NOTES.md), qa OK |
-| kukhnya | s01e02 | 25 (25 scripted) | 0 | done: validate OK (24 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e03 | 20 (20 scripted) | 0 | done: validate OK (18 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s03e01 "Jean Dujardin" | 27 (27 scripted) | 0 | done: validate OK (25 gap + 17 accented-name warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s03e02 "Monica" | 27 (27 scripted) | 0 | done: validate OK (22 gap + 22 accented-name warnings, see NOTES.md), qa OK |
-| kukhnya | s01e04 | 24 (24 scripted) | 0 | done: validate OK (22 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s03e03 "Gérard" | 25 (25 scripted) | 0 | done: validate OK (21 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e05 | 23 (23 scripted) | 0 | done: validate OK (22 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s03e04 "Isabelle" | 25 (25 scripted) | 0 | done: validate OK (24 gap + 21 accented-name warnings, see NOTES.md), qa OK |
-| kukhnya | s01e06 | 23 (23 scripted) | 0 | done: validate OK (22 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s03e05 "Béatrice" | 29 (29 scripted) | 0 | done: validate OK (28 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e07 | 20 (20 scripted) | 0 | done: validate OK (17 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s03e06 "ASK" | 28 (28 scripted) | 0 | done: validate OK (27 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e08 | 34 (34 scripted) | 0 | done: validate OK (32 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s04e01 "Charlotte" | 26 (26 scripted) | 0 | done: validate OK (25 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e09 | 20 (20 scripted) | 0 | done: validate OK (19 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s04e02 "Franck" | 25 (25 scripted) | 0 | done: validate OK (24 gap + 2 accented-name warnings, see NOTES.md), qa OK |
-| kukhnya | s01e10 | 46 (46 scripted) | 0 | done: validate OK (45 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s04e03 "José" | 25 (25 scripted) | 0 | done: validate OK (24 gap + 2 accented-name warnings, see NOTES.md), qa OK |
-| kukhnya | s01e11 | 25 (25 scripted) | 0 | done: validate OK (24 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s04e04 "Sandrine" | 28 (28 scripted) | 0 | done: validate OK (27 gap + 21 accented-name warnings, see NOTES.md), qa OK |
-| kukhnya | s01e12 | 23 (23 scripted) | 0 | done: validate OK (22 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s04e05 | 27 (27 scripted) | 0 | done: validate OK (25 gap warnings, see NOTES.md), qa OK |
-| dix-pour-cent | s04e06 | 27 (26 scripted) | 1 | done: validate OK (26 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e15 | 20 (20 scripted) | 0 | done: validate OK (19 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e14 | 26 (26 scripted) | 0 | done: validate OK (25 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e13 | 22 (22 scripted) | 0 | done: validate OK (7 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e16 | 25 (25 scripted) | 0 | done: validate OK (24 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e18 | 21 (21 scripted) | 0 | done: validate OK (20 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e17 | 24 (24 scripted) | 0 | done: validate OK (26 warnings, see NOTES.md), qa OK |
-| kukhnya | s01e19 | 22 (22 scripted) | 0 | done: validate OK (25 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e02 | 20 (20 scripted) | 0 | done: validate OK (19 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s01e20 | 23 (23 scripted) | 0 | done: validate OK (32 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e01 | 25 (25 scripted) | 0 | done: validate OK (24 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s02e03 | 23 (23 scripted) | 0 | done: validate OK (22 gap warnings, see NOTES.md), qa OK |
-| kukhnya | s02e04 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e05 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e06 | 21 (21 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e07 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e08 | 21 (21 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e09 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e10 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e11 | 18 (18 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e12 | 21 (21 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e13 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e14 | 21 (21 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e15 | 21 (21 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e16 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e17 | 18 (18 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e18 | 21 (21 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e19 | 21 (21 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s02e20 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e01 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e02 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e03 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e04 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e05 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e06 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e07 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e08 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e09 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e10 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e11 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e12 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e13 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e14 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e15 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e16 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e17 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e18 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e19 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s03e20 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e01 | 18 (18 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e02 | 18 (18 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e03 | 18 (18 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e04 | 18 (18 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e05 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e06 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e07 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e08 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e09 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e10 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e11 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e12 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e13 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e14 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e15 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e16 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e17 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e18 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e19 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s04e20 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e01 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e02 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e03 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e04 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e05 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e06 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e07 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e08 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e09 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e10 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e11 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e12 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e13 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e14 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e15 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e16 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e17 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e18 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e19 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s05e20 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e01 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e02 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e03 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e04 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e05 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e06 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e07 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e08 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e09 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e10 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e11 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e12 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e13 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e14 | 19 (19 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e15 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e16 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e17 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e18 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e19 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
-| kukhnya | s06e20 | 20 (20 scripted) | 0 | done: validate OK (0 warnings, see NOTES.md), qa OK |
+## Starting point (2026-11-02)
+
+Every RU and FR episode has seed content: scripts, notes, scenes.json, authoring modules and art.
+
+| show | lang | seasons | episodes | art files | status |
+|---|---|---|---|---|---|
+| `kukhnya` | ru | S1-S6 | 120 | 2474 | seed; not release-ready |
+| `domashniy-arest` | ru | S1 | 12 | 408 | seed; not release-ready |
+| `dix-pour-cent` | fr | S1-S4 | 24 | 650 | seed; not release-ready |
+| es, de, it, pt, ja, zh, ko, ar pilots | | | 0 | | no content, no voices (README "What to produce", spec/voices.md) |
+
+No episode is rendered or packaged under the current contract. Earlier renders are not valid for release.
+
+### Validator baseline
+
+`python3 tools/validate.py --require-notes --all out` gave **FAIL: 676 errors, 4622 warnings**:
+
+* **669 repeated narrator phrases** (`PHRASE_MAX` 50 per show): 628 in kukhnya, the rest in dix-pour-cent and
+  domashniy-arest. They are template explanations ("Q right at the" x1847, "now let listen to" x425). Rewrite those
+  explanations by hand (spec/quality.md §2); never with a generator.
+* **Word-teaching share** (target 60%, an error under `--strict-teaching`): kukhnya 64%, domashniy-arest 37%,
+  dix-pour-cent 27%. Shows can pass overall while individual scenes stay below 60%, so check each scene.
+* **Lexicon conflicts:**
+  * ru: `шеф-повар` has two stresses.
+  * fr stress: blesser, expliquer, fêter, s'arrêter.
+  * fr gender: bonheur, frais, mort, vert.
+  * fr pos: frais, mort, même, soudain.
+  * Fix: pick one shape per lemma for the whole show. Where two parts of speech are genuinely different words, split
+    them into separate lemma keys.
+* **Speaker naming:** `dix-pour-cent/s02e02/scene-21` segments 19, 25 and 41 say "Christophe", but the speaker key is
+  `christophe` (Lambert) and the name is ambiguous with another cast entry. Check the source cue and fix the cast or
+  the narration.
+
+Kukhnya S2e04 to S6e20 were written from Whisper (`ru-only`) transcripts. Spot-check names and numbers against the media.
+
+## Next
+
+1. Kukhnya S1: fix to `--strict-teaching`, review, render, check, package. This is the first release.
+2. Then dix-pour-cent S1 and domashniy-arest S1, then the rest of the README order.
+
+## Log
+
+| date | what | result |
+|---|---|---|
+| 2026-11-02 | Repo prepared as the A100 brief (README, spec/OUTPUT-CONTRACT.md, spec/quality.md, spec/voices.md) | content tests 100 passed; render tests 113 + 166 passed |
