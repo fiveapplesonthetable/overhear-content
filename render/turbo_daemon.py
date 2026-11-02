@@ -137,23 +137,22 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
     jobs_dir = SHM_ROOT / "jobs_qwen"
     cands_dir = SHM_ROOT / "cands"
     stop_file = SHM_ROOT / "STOP"
-    idle_ticks = 0
+    tick = 0
 
     while not stop_file.exists():
+        tick += 1
         # Backpressure if gate-workers have > 800 bundles queued in /dev/shm (~1.2 GB)
         if sum(1 for _ in cands_dir.glob("*.json")) > 800:
             time.sleep(0.25)
             continue
 
-        if idle_ticks % 40 == 20:
+        if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
 
         claimed = claim_jobs(jobs_dir, max_jobs=14, max_expanded=batch_seqs)
         if not claimed:
-            idle_ticks += 1
             time.sleep(0.2)
             continue
-        idle_ticks = 0
 
         # Filter any already completed in cache/tts
         todo = []
