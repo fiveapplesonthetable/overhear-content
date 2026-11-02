@@ -136,6 +136,11 @@ so no take was ever redone. Before a take is accepted, gate it on all of these:
 * **Best of N:** render 2-3 takes of every target-language line (seed or temperature varied) and keep the one that
   passes with the lowest CER. Lower the sampling temperature or raise the repetition penalty if repeats stay common.
 
+* **Same voice:** owner listening also heard the narrator sound like different people from one sentence to the next.
+  A voice described in words (voice design) is re-imagined on every take. Design the narrator (and each character)
+  once, keep one approved reference clip, and clone every take from that clip with the same settings. Gate each take
+  on speaker similarity (e.g. an ECAPA or WavLM speaker embedding, cosine against the reference); retake outliers.
+
 Record the counts in `report.json` `retake` and in `out/PROGRESS.md`.
 
 Then listen to at least the first scene of each episode, and every scene a gate flagged. Fix the content and re-render.
