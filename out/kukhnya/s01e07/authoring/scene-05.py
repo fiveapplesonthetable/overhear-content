@@ -14,7 +14,7 @@ INTRO = "Chef Barinov of Claude Monet has gone to the food market for the day's 
 OPENER = "Let's go back. Both of them use the polite 'you' and the father's name, which makes the insults land harder."
 TRANSITION = 'Now the whole market encounter again.'
 OUTRO = "The fight is about who is best, and it's told through apples. 'We'll see' and 'learn while I'm kind' are two good lines to keep. See you next time."
-CLOSING = ('barinov', 'До встречи!')
+CLOSING = ('barinov', 'Пока')
 STORY = [
     ('elena', 'Доброе утро, шеф Виктор Петрович!', 'Good morning, Chef Viktor Petrovich!', [(41, 'Доброе утро, Виктор Петрович')], ''),
     ('barinov', 'Доброе утро, Елена Павловна.', 'Good morning, Elena Pavlovna.', [(42, 'Не уверен, Елена Павловна')], ''),

@@ -202,11 +202,11 @@
         },
         {
           "t": "есть.",
-          "lemma": "быть",
+          "lemma": "есть",
           "pos": "verb",
           "stress": null,
-          "gloss": "there is (у меня есть = I have)",
-          "gram": "present, the form есть, imperfective"
+          "gloss": "to eat",
+          "gram": "infinitive, imperfective"
         }
       ]
     },
@@ -380,7 +380,7 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": "фе́дя",
+          "stress": null,
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
@@ -674,7 +674,7 @@
           "t": "Ставь",
           "lemma": "ставить",
           "pos": "verb",
-          "stress": "ста́вь",
+          "stress": null,
           "gloss": "put, place",
           "gram": "imperative, singular"
         },
@@ -990,11 +990,11 @@
         },
         {
           "t": "есть.",
-          "lemma": "быть",
+          "lemma": "есть",
           "pos": "verb",
           "stress": null,
-          "gloss": "there is (у меня есть = I have)",
-          "gram": "present, the form есть, imperfective"
+          "gloss": "to eat",
+          "gram": "infinitive, imperfective"
         }
       ]
     },
@@ -1168,7 +1168,7 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": "фе́дя",
+          "stress": null,
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
@@ -1462,7 +1462,7 @@
           "t": "Ставь",
           "lemma": "ставить",
           "pos": "verb",
-          "stress": "ста́вь",
+          "stress": null,
           "gloss": "put, place",
           "gram": "imperative, singular"
         },
@@ -1778,11 +1778,11 @@
         },
         {
           "t": "есть.",
-          "lemma": "быть",
+          "lemma": "есть",
           "pos": "verb",
           "stress": null,
-          "gloss": "there is (у меня есть = I have)",
-          "gram": "present, the form есть, imperfective"
+          "gloss": "to eat",
+          "gram": "infinitive, imperfective"
         }
       ]
     },
@@ -1956,7 +1956,7 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": "фе́дя",
+          "stress": null,
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
@@ -2250,7 +2250,7 @@
           "t": "Ставь",
           "lemma": "ставить",
           "pos": "verb",
-          "stress": "ста́вь",
+          "stress": null,
           "gloss": "put, place",
           "gram": "imperative, singular"
         },
@@ -2368,23 +2368,15 @@
     },
     {
       "seg": 59,
-      "trans": "See you soon!",
+      "trans": "bye!",
       "words": [
         {
-          "t": "До",
-          "lemma": "до",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "until",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "встречи!",
-          "lemma": "встреча",
-          "pos": "noun",
-          "stress": "встре́чи",
-          "gloss": "meeting, next time",
-          "gram": "genitive feminine singular"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -7599,6 +7591,148 @@
           "gloss": "to me (dative)"
         }
       ]
+    },
+    "есть": {
+      "aspect": "impf",
+      "examples": [
+        {
+          "text": "Я вчера ел грибы.",
+          "trans": "Yesterday I ate mushrooms."
+        },
+        {
+          "text": "Что ты ешь?",
+          "trans": "What are you eating?"
+        },
+        {
+          "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
+          "trans": "Yesterday I ate pickled mushrooms. Maybe one mushroom was bad."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ем",
+              "едим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ешь",
+              "едите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ест",
+              "едят"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to eat",
+      "lemma": "есть",
+      "meanings": [
+        {
+          "en": "to eat",
+          "note": "not to be confused with есть 'there is' (from быть)"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "ел",
+                "ела",
+                "ело",
+                "ели"
+              ]
+            }
+          ],
+          "title": "Past"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ешь",
+                "ешьте"
+              ]
+            }
+          ],
+          "title": "Imperative"
+        }
+      ],
+      "pair": "съесть",
+      "pos": "verb",
+      "related": [
+        {
+          "gloss": "to eat",
+          "word": "съесть"
+        },
+        {
+          "gloss": "to eat",
+          "word": "поесть"
+        }
+      ],
+      "stress": "есть"
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": []
     }
   }
 }

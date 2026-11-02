@@ -14,7 +14,7 @@ INTRO = 'Still at the Moscow market, Chef Barinov moves on to a stall that sells
 OPENER = 'Slowly now. The salesman is flattering, and Barinov is hard to impress.'
 TRANSITION = 'The knife stall once more, start to finish.'
 OUTRO = "Barinov asks the shopper's question: how much does it cost. That's worth keeping, along with a few words for describing a good knife. See you next time."
-CLOSING = ('barinov', 'До встречи!')
+CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('seller', 'Уважаемый шеф, подходите и выбирайте ножи!', 'Respected chef, step right up and choose knives!', [(56, 'Подходим, выбираем')], ''),
     ('seller', 'Посмотрите, какое острое и тонкое лезвие!', 'Look what a sharp and thin blade!', [(56, 'Острый')], ''),

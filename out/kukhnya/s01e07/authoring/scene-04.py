@@ -14,7 +14,7 @@ INTRO = "Back in the kitchen, the chef is out, so two of his cooks have a moment
 OPENER = "Let's go through the excuses. Senya has a new one in every line."
 TRANSITION = "Let's hear the lot together."
 OUTRO = "The scene ends with 'I'm working and not stealing anymore', which is a promise nobody believes. Meanwhile you've learned 'to steal', 'to take' and 'to tear off'. See you next time."
-CLOSING = ('fedya', 'До встречи!')
+CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('fedya', 'Ты что, совсем с ума сошёл?', 'Have you completely lost your mind?', [(24, 'Ты что, совсем что ли уже')], ''),
     ('fedya', 'Ты зачем воруешь наш уксус?', 'Why are you stealing our vinegar?', [(25, 'Ты уксус тырешь')], ''),

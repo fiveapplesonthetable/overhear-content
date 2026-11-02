@@ -14,7 +14,7 @@ INTRO = 'At Claude Monet, Chef Barinov has invented a new sauce in his kitchen a
 OPENER = "Let's go through the tasting. Everyone says what the chef wants to hear."
 TRANSITION = 'And now the tasting in one piece.'
 OUTRO = "The tasting teaches you a handful of praise words: delicious, amazing, delight. They're the cheap way to please a chef. See you next time."
-CLOSING = ('max', 'Пока!')
+CLOSING = ('max', 'Пока')
 STORY = [
     ('barinov', 'Повара, быстро подойдите все сюда!', 'Cooks, quickly come over here, everyone!', [(169, 'подошли все сюда')], ''),
     ('max', 'Что вы приготовили, шеф?', 'What did you cook, chef?', [], ''),
