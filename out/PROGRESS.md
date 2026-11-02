@@ -42,7 +42,8 @@ Kukhnya S2e04 to S6e20 were written from Whisper (`ru-only`) transcripts. Names 
 ## Next
 
 * **Clean takes (owner feedback 2026-11-02):** stammered words and bangs inside TTS takes. Add the take gates in
-  spec/quality.md §6 (length, verbatim repeats, transients, best of N) to the renderer before rendering anything else.
+  spec/quality.md §6 (length, verbatim repeats, transients, best of N, same voice: clone every take from one
+  approved reference clip) to the renderer before rendering anything else.
 
 0. **Owner feedback (2026-11-02), before anything renders:**
    * Target words said by the English narrator had an English accent. README "Rules recap" and spec/recipe.md now forbid
