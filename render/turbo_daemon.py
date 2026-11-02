@@ -239,7 +239,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
 
-        claimed = claim_jobs(jobs_dir, max_jobs=12, max_expanded=min(12, batch_seqs), max_chars=3600)
+        claimed = claim_jobs(jobs_dir, max_jobs=batch_seqs, max_expanded=batch_seqs, max_chars=4200)
         if not claimed:
             time.sleep(0.2)
             continue
@@ -798,7 +798,7 @@ def run_orchestrator():
 # ---------------------------------------------------------------------------
 # 6. Master Supervisor (spawns & monitors the persistent worker pool)
 # ---------------------------------------------------------------------------
-def run_master(qwen_workers: int, en_workers: int, gate_workers: int, batch_seqs: int):
+def run_master(qwen_workers: int, en_workers: int, ru_workers: int, gate_workers: int, batch_seqs: int):
     for sub in ("jobs_qwen", "jobs_en", "jobs_ru", "jobs_ar", "cands"):
         (SHM_ROOT / sub).mkdir(parents=True, exist_ok=True)
     (SHM_ROOT / "STOP").unlink(missing_ok=True)
@@ -828,14 +828,15 @@ def run_master(qwen_workers: int, en_workers: int, gate_workers: int, batch_seqs
     for eid in range(1, en_workers + 1):
         specs.append((
             f"en-custom-{eid}",
-            [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "en-worker", "--id", str(eid), "--batch-seqs", "12"],
+            [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "en-worker", "--id", str(eid), "--batch-seqs", str(batch_seqs)],
             venv_cuda_libs(config.VENV_QWEN),
         ))
-    specs.append((
-        "ru-espeech-1",
-        [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--id", "1", "--batch-seqs", "12"],
-        venv_cuda_libs(config.VENV_F5),
-    ))
+    for rid in range(1, ru_workers + 1):
+        specs.append((
+            f"ru-espeech-{rid}",
+            [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--id", str(rid), "--batch-seqs", "14"],
+            venv_cuda_libs(config.VENV_F5),
+        ))
     specs.append((
         "ar-chatterbox",
         [f"{config.VENV_ASR}/bin/python", "-I", str(Path(__file__).resolve()), "ar-worker"],
@@ -878,10 +879,11 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     m = sub.add_parser("master")
-    m.add_argument("--qwen-workers", type=int, default=2)
-    m.add_argument("--en-workers", type=int, default=3)
-    m.add_argument("--gate-workers", type=int, default=2)
-    m.add_argument("--batch-seqs", type=int, default=16)
+    m.add_argument("--qwen-workers", type=int, default=1)
+    m.add_argument("--en-workers", type=int, default=1)
+    m.add_argument("--ru-workers", type=int, default=2)
+    m.add_argument("--gate-workers", type=int, default=1)
+    m.add_argument("--batch-seqs", type=int, default=18)
 
     qw = sub.add_parser("qwen-worker")
     qw.add_argument("--id", type=int, required=True)
@@ -904,7 +906,7 @@ def main():
 
     a = ap.parse_args()
     if a.cmd == "master":
-        run_master(a.qwen_workers, a.en_workers, a.gate_workers, a.batch_seqs)
+        run_master(a.qwen_workers, a.en_workers, a.ru_workers, a.gate_workers, a.batch_seqs)
     elif a.cmd == "qwen-worker":
         run_qwen_worker(a.id, a.batch_seqs)
     elif a.cmd == "en-worker":
