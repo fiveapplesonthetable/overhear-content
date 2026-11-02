@@ -46,3 +46,6 @@ an unclear cue is never used as it stands: take a line you are sure of or leave 
 | `behind-the-scenes` | zh | s01/e01.zh.srt | 901 | full episode (幕后之王 EP01, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
 | `the-naked-director` | ja | s02/e01-e08 .ja.srt + .en.srt | e01 700 / 618 | **full season 2** (8 episodes, about 45 min each), Netflix's own Japanese (closed captions: speaker names in （）, readings in ( ) after kanji, sound cues) and English subtitles |
 | `alrawabi-school` | ar | s01/e01.ar.srt | 461 | full episode (43 min), Whisper large-v3. The show speaks Jordanian Arabic; Whisper sometimes renders a stretch in formal Arabic or mishears English loanwords ("Zac Efron"), so build lines on cues that read as natural Jordanian speech |
+| `alrawabi-school` | ar | s01/e02.ar.srt | 642 | full episode, Whisper large-v3 (same caveats as E1) |
+| `alrawabi-school` | ar | s01/e03.ar.srt | 484 | full episode, Whisper large-v3 (same caveats as E1) |
+| `alrawabi-school` | ar | s01/e04.ar.srt | 547 | full episode, Whisper large-v3 (same caveats as E1) |
