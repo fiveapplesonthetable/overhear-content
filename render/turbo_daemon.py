@@ -329,13 +329,11 @@ def run_ru_worker(worker_id: int, batch_seqs: int):
         if sum(1 for _ in cands_dir.glob("*.json")) > 800:
             time.sleep(0.25)
             continue
-        # Prioritize Round 1 (prio 0001..0010): once prio-1 Russian (0001_) is done, yield VRAM to Round-1 Qwen/CustomVoice until Round 1 finishes!
-        if not any(jobs_dir.glob("0001_*.json")) and not any(jobs_dir.glob("0001_*.claim.*")):
+        # Prioritize Round 1 (prio 0000..0009): once Round-1 Russian is done, yield VRAM to Round-1 Qwen/CustomVoice until Round 1 finishes!
+        if not any(jobs_dir.glob("000[0-9]_*.json")) and not any(jobs_dir.glob("000[0-9]_*.claim.*")):
             r1_busy = (
-                any((SHM_ROOT / "jobs_qwen").glob("000[1-9]_*.json"))
-                or any((SHM_ROOT / "jobs_qwen").glob("0010_*.json"))
-                or any((SHM_ROOT / "jobs_en").glob("000[1-9]_*.json"))
-                or any((SHM_ROOT / "jobs_en").glob("0010_*.json"))
+                any((SHM_ROOT / "jobs_qwen").glob("000[0-9]_*.json"))
+                or any((SHM_ROOT / "jobs_en").glob("000[0-9]_*.json"))
             )
             if r1_busy:
                 if eng is not None:
@@ -420,10 +418,6 @@ def run_ar_worker():
     idle_ticks = 0
 
     while not stop_file.exists():
-        # Only wait while prio-1 Russian Round-1 jobs remain
-        if any(ru_jobs_dir.glob("0001_*.json")):
-            time.sleep(2.0)
-            continue
         if idle_ticks % 40 == 20:
             reclaim_stale_claims(jobs_dir)
         claimed = claim_jobs(jobs_dir, max_jobs=2, max_expanded=8)
@@ -809,12 +803,11 @@ def run_master(qwen_workers: int, en_workers: int, gate_workers: int, batch_seqs
             [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "en-worker", "--id", str(eid), "--batch-seqs", "12"],
             venv_cuda_libs(config.VENV_QWEN),
         ))
-    for rid in (1, 2):
-        specs.append((
-            f"ru-espeech-{rid}",
-            [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--id", str(rid), "--batch-seqs", "14"],
-            venv_cuda_libs(config.VENV_F5),
-        ))
+    specs.append((
+        "ru-espeech-1",
+        [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--id", "1", "--batch-seqs", "16"],
+        venv_cuda_libs(config.VENV_F5),
+    ))
     specs.append((
         "ar-chatterbox",
         [f"{config.VENV_ASR}/bin/python", "-I", str(Path(__file__).resolve()), "ar-worker"],
