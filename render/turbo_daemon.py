@@ -69,11 +69,12 @@ def reclaim_stale_claims(folder: Path):
                 pass
 
 
-def claim_jobs(folder: Path, max_jobs: int, max_expanded: int = 0):
-    """Atomically claim up to max_jobs (and <= max_expanded candidates) in priority order."""
+def claim_jobs(folder: Path, max_jobs: int, max_expanded: int = 0, max_chars: int = 0):
+    """Atomically claim up to max_jobs (bounded by max_expanded candidates and max_chars total chars) in priority order."""
     pid = os.getpid()
     claimed = []
     expanded = 0
+    chars = 0
     for p in sorted(folder.glob("*.json")):
         if len(claimed) >= max_jobs:
             break
@@ -87,8 +88,9 @@ def claim_jobs(folder: Path, max_jobs: int, max_expanded: int = 0):
         except Exception:
             claim_p.unlink(missing_ok=True)
             continue
-        n_c = int(data.get("n_cands", 4))
-        if max_expanded and claimed and (expanded + n_c > max_expanded):
+        n_c = int(data.get("n_cands", 3))
+        c_len = max(40, len(data.get("text_tts", ""))) * n_c
+        if claimed and ((max_expanded and expanded + n_c > max_expanded) or (max_chars and chars + c_len > max_chars)):
             # Return this one to queue for another worker
             try:
                 claim_p.rename(p)
@@ -97,6 +99,7 @@ def claim_jobs(folder: Path, max_jobs: int, max_expanded: int = 0):
             break
         claimed.append((claim_p, data))
         expanded += n_c
+        chars += c_len
     return claimed
 
 
@@ -149,7 +152,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
 
-        claimed = claim_jobs(jobs_dir, max_jobs=14, max_expanded=batch_seqs)
+        claimed = claim_jobs(jobs_dir, max_jobs=10, max_expanded=min(10, batch_seqs), max_chars=1100)
         if not claimed:
             time.sleep(0.2)
             continue
@@ -183,8 +186,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
             for cp, job, s0, s1 in slices:
                 write_cand_bundle(cands_dir, job, wavs[s0:s1])
                 cp.unlink(missing_ok=True)
-            if len(expanded_batch) >= 16:
-                eng.torch.cuda.empty_cache()
+            eng.torch.cuda.empty_cache()
             log(role, f"synthesized {len(todo)} lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
         except Exception as ex:
             log(role, f"WARN batch failed ({ex}), falling back per-item")
@@ -585,6 +587,7 @@ def run_orchestrator():
                 "all_scenes": scenes,
                 "started_at": time.time(),
             }
+            break  # Prepare one new episode per tick so ready higher-priority scenes finish immediately!
 
         # Check ready scenes in episode priority order
         git_commit = None
@@ -598,9 +601,13 @@ def run_orchestrator():
                     t_f = time.time()
                     try:
                         kind, res = r.finish(ctx, aligner, git_commit, allow_retake=False)
+                        import torch
+                        torch.cuda.empty_cache()
                         log(role, f"[{ep}] finished {sid} in {time.time() - t_f:.2f}s (audio={res.get('audioSec', res.get('duration_s'))}s, remaining={len(scenes_todo) - len(done_sids) - 1})")
                         done_sids.append(sid)
                     except Exception as ex:
+                        import torch
+                        torch.cuda.empty_cache()
                         log(role, f"ERROR finishing {sid}: {ex}")
                         traceback.print_exc()
             for sid in done_sids:
