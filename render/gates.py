@@ -104,14 +104,10 @@ class AudioGates:
         else:
             wav_16k = wav
         wav_16k = wav_16k.astype(np.float32)
-        segs, info = self.whisper.transcribe(wav_16k, language=lang, beam_size=5, word_timestamps=True, condition_on_previous_text=False)
-        words = []
-        hyp_text = ""
-        for s in segs:
-            hyp_text += s.text + " "
-            if s.words:
-                for w in s.words:
-                    words.append(w.word.strip().lower())
+        import re
+        segs, info = self.whisper.transcribe(wav_16k, language=lang, beam_size=1, word_timestamps=False, condition_on_previous_text=False)
+        hyp_text = " ".join(s.text for s in segs).strip()
+        words = re.findall(r"\w+", hyp_text.lower())
                     
         # Repeat check
         for i in range(len(words)-1):
@@ -265,17 +261,11 @@ class AudioGates:
             sim_ok = sim_val >= sim_thresh
 
             segs, _ = self.whisper.transcribe(
-                w_16k, language=lang, beam_size=beam_size,
-                word_timestamps=True, condition_on_previous_text=False,
+                w_16k, language=lang, beam_size=1,
+                word_timestamps=False, condition_on_previous_text=False,
             )
-            words = []
-            hyp_parts = []
-            for s in segs:
-                hyp_parts.append(s.text)
-                if s.words:
-                    for ww in s.words:
-                        words.append(ww.word.strip().lower())
-            hyp_text = " ".join(hyp_parts).strip()
+            hyp_text = " ".join(s.text for s in segs).strip()
+            words = re.findall(r"\w+", hyp_text.lower())
             rep_ok = True
             t_lower = text_plain.lower()
             for wi in range(len(words) - 1):
