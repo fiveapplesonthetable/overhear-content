@@ -152,7 +152,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
 
-        claimed = claim_jobs(jobs_dir, max_jobs=10, max_expanded=min(10, batch_seqs), max_chars=1100)
+        claimed = claim_jobs(jobs_dir, max_jobs=14, max_expanded=batch_seqs, max_chars=3200)
         if not claimed:
             time.sleep(0.2)
             continue
@@ -239,7 +239,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
 
-        claimed = claim_jobs(jobs_dir, max_jobs=12, max_expanded=min(12, batch_seqs), max_chars=1250)
+        claimed = claim_jobs(jobs_dir, max_jobs=12, max_expanded=min(12, batch_seqs), max_chars=3600)
         if not claimed:
             time.sleep(0.2)
             continue
@@ -254,11 +254,11 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             continue
 
         todo.sort(key=lambda x: len(x[1]["text_tts"]))
-        # Split into length-homogeneous sub-batches (<= 2.2x ratio) so short phrases never wait on 240-char max_tokens
+        # Split only on extreme (> 3.2x) length ratio so normal 80..250-char sentences stay in one fast GPU batch
         groups = []
         cur = []
         for item in todo:
-            if cur and len(item[1]["text_tts"]) > max(30, len(cur[0][1]["text_tts"])) * 2.2:
+            if cur and len(item[1]["text_tts"]) > max(65, len(cur[0][1]["text_tts"])) * 3.2:
                 groups.append(cur)
                 cur = [item]
             else:
@@ -503,7 +503,7 @@ def run_gate_worker(worker_id: int):
                 continue
             log(role, "cands backlog >= 40, loading overflow gate scorer")
             g = gates.AudioGates()
-        claimed = claim_jobs(cands_dir, max_jobs=4)
+        claimed = claim_jobs(cands_dir, max_jobs=16)
         if not claimed:
             idle_ticks += 1
             if worker_id > 1 and g is not None and idle_ticks > 200:
