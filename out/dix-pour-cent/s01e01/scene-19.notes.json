@@ -959,6 +959,8 @@
       ]
     },
     {
+      "seg": 24,
+      "trans": "if it / you / pleases",
       "words": [
         {
           "t": "S'il",
@@ -984,13 +986,11 @@
           "gloss": "pleases",
           "gram": "present third person singular; part of s’il vous plaît: please"
         }
-      ],
-      "trans": "Please.",
-      "seg": 24
+      ]
     },
     {
       "seg": 26,
-      "trans": "There's nothing between Mathias and me, okay?",
+      "trans": "it / not there / is / nothing / between / Mathias / and / me / agreed, okay",
       "words": [
         {
           "t": "Il",
@@ -1230,7 +1230,7 @@
     },
     {
       "seg": 34,
-      "trans": "Can I look at one of Mathias's contracts?",
+      "trans": "I / can / look at / a / contract / of ('s) / Mathias",
       "words": [
         {
           "t": "Je",
@@ -1238,7 +1238,11 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "subject pronoun, 1st person singular"
+          "gram": "subject pronoun, 1st person singular",
+          "span": [
+            0,
+            2
+          ]
         },
         {
           "t": "peux",
@@ -1246,7 +1250,11 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "present, 1st person singular"
+          "gram": "present, 1st person singular",
+          "span": [
+            3,
+            7
+          ]
         },
         {
           "t": "regarder",
@@ -1254,7 +1262,11 @@
           "pos": "verb",
           "stress": "ʁəɡaʁde",
           "gloss": "look at",
-          "gram": "infinitive after pouvoir"
+          "gram": "infinitive after pouvoir",
+          "span": [
+            8,
+            16
+          ]
         },
         {
           "t": "un",
@@ -1262,7 +1274,11 @@
           "pos": "det",
           "stress": "œ̃",
           "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "gram": "indefinite article, masculine singular",
+          "span": [
+            17,
+            19
+          ]
         },
         {
           "t": "contrat",
@@ -1270,7 +1286,11 @@
           "pos": "noun",
           "stress": "kɔ̃tʁa",
           "gloss": "contract",
-          "gram": "masculine singular"
+          "gram": "masculine singular",
+          "span": [
+            20,
+            27
+          ]
         },
         {
           "t": "de",
@@ -1278,7 +1298,11 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gram": "preposition, shows possession",
+          "span": [
+            28,
+            30
+          ]
         },
         {
           "t": "Mathias?",
@@ -1286,13 +1310,17 @@
           "pos": "name",
           "stress": null,
           "gloss": "Mathias",
-          "gram": "first name"
+          "gram": "first name",
+          "span": [
+            31,
+            39
+          ]
         }
       ]
     },
     {
       "seg": 36,
-      "trans": "Canet's, for example?",
+      "trans": "the one / of ('s) / Canet / by (par exemple = for example) / example",
       "words": [
         {
           "t": "Celui",
@@ -1300,7 +1328,11 @@
           "pos": "pron",
           "stress": "səlɥi",
           "gloss": "the one",
-          "gram": "demonstrative pronoun, masculine singular (stands for le contrat)"
+          "gram": "demonstrative pronoun, masculine singular (stands for le contrat)",
+          "span": [
+            0,
+            5
+          ]
         },
         {
           "t": "de",
@@ -1308,7 +1340,11 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gram": "preposition, shows possession",
+          "span": [
+            6,
+            8
+          ]
         },
         {
           "t": "Canet,",
@@ -1316,7 +1352,11 @@
           "pos": "name",
           "stress": null,
           "gloss": "Canet",
-          "gram": "surname (French actor)"
+          "gram": "surname (French actor)",
+          "span": [
+            9,
+            15
+          ]
         },
         {
           "t": "par",
@@ -1324,7 +1364,11 @@
           "pos": "prep",
           "stress": "paʁ",
           "gloss": "by (par exemple = for example)",
-          "gram": "preposition ('par', meaning 'by')"
+          "gram": "preposition ('par', meaning 'by')",
+          "span": [
+            16,
+            19
+          ]
         },
         {
           "t": "exemple?",
@@ -1332,7 +1376,11 @@
           "pos": "noun",
           "stress": "ɛɡzɑ̃pl",
           "gloss": "example",
-          "gram": "masculine singular"
+          "gram": "masculine singular",
+          "span": [
+            20,
+            28
+          ]
         }
       ]
     },

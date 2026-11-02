@@ -98,7 +98,7 @@ WALK = [
     (4, None, "'You want to win me back, but there is no chance.' The action meaning 'get back' can refer to recovering a client. Cecile recognises exactly why he has come."),
     (4, None, "'You want to win me back, but there is no chance.' In the second half, the expression for 'there is' becomes negative. The word before 'chance' means 'not a single'."),
     (5, None, "'Are you going to sign with StarMedia?' The polite form of 'go' comes before the action 'sign', showing a plan. The small word linking it to the agency means 'with'."),
-    (6, 'Je ne sais pas.', "'I don't know.' The negative wraps around the action word in two parts. In everyday speech the French often drop the first part, and Cécile does in the show, but the full form is the one to learn."),
+    (6, 'Je ne sais pas.', "'I don't know.' The negative wraps around the action word in two parts. In everyday speech the French often drop the first part, and Cecile does in the show, but the full form is the one to learn."),
     (6, 'Tout le monde ment dans ce milieu.', "'Everyone lies in this business.' Literally 'all the world lies in this circle'. That's a dig at Gabriel, and at agents in general."),
     (7, None, "'Can you give me a hand?' The expression asks for help, rather than a body part. Cecile keeps the polite 'you' when she asks Mathias to help with the garden."),
     (8, None, "'Yes, of course.' The final two words make a useful reply on their own. Mathias agrees readily to her request for help."),
@@ -108,7 +108,7 @@ WALK = [
     (12, 'La terre, elle est vraie.', "'The earth is honest.' Literally 'the earth, it is true'. French often names the thing first and then repeats it with a short stand-in word."),
     (12, 'Elle ne sait pas mentir.', "'It doesn't know how to lie.' After the verb for 'to know how' comes an infinitive: 'to lie'. Unlike people, she means. Mathias puts on his gentle voice."),
     (13, None, "'Listen, Cecile. I understand your disappointment.' The first word is a polite instruction. The word meaning 'your' also keeps their conversation polite."),
-    (14, None, "'I talked to Miranda.' This is the past tense with 'have' plus the past form of 'talk'. Miranda is the producer who said Cécile was too old."),
-    (15, None, "'They're ready to talk about it.' The tiny word in front of the verb means 'about it'. And that changes everything for Cécile."),
+    (14, None, "'I talked to Miranda.' This is the past tense with 'have' plus the past form of 'talk'. Miranda is the producer who said Cecile was too old."),
+    (15, None, "'They're ready to talk about it.' The tiny word in front of the verb means 'about it'. And that changes everything for Cecile."),
     (16, None, "'Really? What did she say?' The first two words show surprise, a bit like 'oh really?'. Suddenly she is listening very closely."),
 ]

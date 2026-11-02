@@ -898,7 +898,7 @@
     },
     {
       "seg": 20,
-      "trans": "I found a job.",
+      "trans": "I have, I did / found / a / job",
       "words": [
         {
           "t": "J'ai",
@@ -936,7 +936,7 @@
     },
     {
       "seg": 22,
-      "trans": "Great, isn't it?",
+      "trans": "great / no",
       "words": [
         {
           "t": "Super,",
@@ -1352,7 +1352,7 @@
     },
     {
       "seg": 38,
-      "trans": "Because you can't.",
+      "trans": "because (first part) / (because) / you (casual) / not / can / not",
       "words": [
         {
           "t": "Parce",
@@ -1360,7 +1360,11 @@
           "pos": "conj",
           "stress": "paʁs",
           "gloss": "because (first part)",
-          "gram": "conjunction in two words"
+          "gram": "conjunction in two words",
+          "span": [
+            0,
+            5
+          ]
         },
         {
           "t": "que",
@@ -1368,7 +1372,11 @@
           "pos": "conj",
           "stress": "kə",
           "gloss": "(because)",
-          "gram": "second part of parce que: because"
+          "gram": "second part of parce que: because",
+          "span": [
+            6,
+            9
+          ]
         },
         {
           "t": "tu",
@@ -1376,7 +1384,11 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal"
+          "gram": "subject pronoun, 2nd person singular, informal",
+          "span": [
+            10,
+            12
+          ]
         },
         {
           "t": "ne",
@@ -1384,7 +1396,11 @@
           "pos": "part",
           "stress": "nə",
           "gloss": "not",
-          "gram": "negation, first half, before the verb"
+          "gram": "negation, first half, before the verb",
+          "span": [
+            13,
+            15
+          ]
         },
         {
           "t": "peux",
@@ -1392,7 +1408,11 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "present, 2nd person singular"
+          "gram": "present, 2nd person singular",
+          "span": [
+            16,
+            20
+          ]
         },
         {
           "t": "pas.",
@@ -1400,13 +1420,17 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the verb"
+          "gram": "negation, second half, after the verb",
+          "span": [
+            21,
+            25
+          ]
         }
       ]
     },
     {
       "seg": 40,
-      "trans": "It's my life!",
+      "trans": "it is, that is / my / life",
       "words": [
         {
           "t": "C'est",

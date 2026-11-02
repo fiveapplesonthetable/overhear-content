@@ -5,7 +5,7 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 8
-TITLE = 'Andréa engage Camille  (Andréa Hires Camille)'
+TITLE = 'Andrea engage Camille  (Andrea Hires Camille)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'camille': 'Camille'}
@@ -100,12 +100,12 @@ WALK = [
     (6, "Au début, j'étais dans les sous-vêtements des stars.", "'At first, I worked with celebrity underwear.' Literally, she says she 'was in' that kind of clothing. The past form of 'be' describes her supposed area of work, and 'at first' places it earlier in her story."),
     (7, None, "'Don't cry, we're going to fix this!' Camille imitates what she would tell a star. The polite command is negative; after it, 'go' plus the plain action 'fix' promises an immediate solution."),
     (8, None, "'Have you got a boyfriend?' The expression literally combines 'little' and 'friend'. Together, the two words can mean boyfriend rather than a friend who is small."),
-    (9, None, "'No.' That's the first of many short answers. Andréa moves on."),
+    (9, None, "'No.' That's the first of many short answers. Andrea moves on."),
     (10, None, "'Friends in Paris?' Both the word for 'friends' and the small word before it are plural. Andrea leaves out a verb because the question is clear from the conversation."),
     (11, "Non, je viens d'arriver.", "'No, I've just arrived.' 'Come' followed by 'from' and an action describes something that has just happened. Here Camille is explaining why she has no friends in Paris yet."),
     (11, "Mon père, mais c'est compliqué.", "'My dad, but it's complicated.' The possessive matches a masculine noun because she is naming her father. The connecting word 'but' warns that having him in Paris does not make things simple."),
     (12, None, "'Do you look after him?' The expression for 'look after' needs a small word meaning 'of' before the person. The last word is the form of 'him' used after a preposition."),
-    (13, None, "'No way!' Literally 'out of the question'. Andréa likes that. Then she gets to the real test."),
+    (13, None, "'No way!' Literally 'out of the question'. Andrea likes that. Then she gets to the real test."),
     (14, None, "'Can I call you at four in the morning? Do you work on Sundays?' Andrea now switches to the familiar address as she sets out the job's demands. A day with the article can describe a regular weekly habit."),
     (15, None, "'Yes, yes.' The repeated answer confirms both requests Andrea has just made. Camille accepts both without hesitation."),
     (16, None, "'Very good. Can you start now?' 'Can' is followed straight away by the plain action 'start'. The final word makes the offer immediate."),

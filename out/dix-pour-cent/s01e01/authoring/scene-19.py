@@ -83,11 +83,11 @@ STORY = [('camille', "Hervé n'est pas là?", "Isn't Hervé here?", [(538, "Herv
   'Noemie answers her boss directly; no phone call is involved.')]
 WALK = [
     (0, None, "'Isn't Herve here?' Two small negatives surround 'is'. The last word can mean either 'here' or 'there', depending on where the speaker is looking."),
-    (1, None, "'Noémie, I have a problem.' French uses a form of 'have' to say that there is a problem, just as English does here. The article before 'problem' is masculine and singular; it introduces a problem she has not yet explained."),
+    (1, None, "'Noemie, I have a problem.' French uses a form of 'have' to say that there is a problem, just as English does here. The article before 'problem' is masculine and singular; it introduces a problem she has not yet explained."),
     (2, None, "'I think you can help me.' A short linking word joins 'think' to the next statement. After 'can', 'help' stays in its infinitive form. The little object meaning 'me' goes immediately before 'help'."),
     (3, None, "'I don't think so.' The two negative words surround 'think'. Noemie is reluctant to help, and suspicious about Camille's relationship with Mathias."),
     (4, "S'il te plaît.", "'Please.' The expression literally means 'if it pleases you'. Its middle word has the familiar form for one person."),
-    (4, "Il n'y a rien entre Mathias et moi, d'accord?", "'There's nothing between Mathias and me, okay?' Here the negative pairs with the word for 'nothing' instead of the usual 'not'. Camille thinks Noémie is jealous. Of course she can't say that Mathias is really her father."),
+    (4, "Il n'y a rien entre Mathias et moi, d'accord?", "'There's nothing between Mathias and me, okay?' Here the negative pairs with the word for 'nothing' instead of the usual 'not'. Camille thinks Noemie is jealous. Of course she can't say that Mathias is really her father."),
     (5, None, "'Excuse me? That doesn't worry me at all.' The words at the end mean 'at all', and they make the denial stronger. She says it a little too fast to be believed."),
     (6, None, "'So, what's your problem?' The familiar possessive before 'problem' matches the way the two assistants address each other. Noemie now asks what Camille actually needs."),
     (7, None, "'I don't know anything about contracts.' Here 'nothing' replaces the ordinary negative 'not'. The word before 'contracts' combines 'to' with the plural article 'the'; French uses that combination after this way of saying 'know nothing'."),
