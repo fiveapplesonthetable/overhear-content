@@ -136,8 +136,9 @@ every listed season is; each pilot language is done when every episode it has in
 
 ## Rules recap
 
-* The narrator speaks English only. Target-language words in narrator text are transliterated in quotes; the real line is
-  replayed as its own target segment. ja/zh/ko/ar story lines are in native script.
+* The narrator speaks English only, and never says a target-language word in English pronunciation. A word or line the
+  narrator names is its own short target segment, voiced by the character who said it, so it is heard with a native accent:
+  narrator "Kostya's little word" / kostya "Зато." / narrator "means 'but on the plus side'." The real line is replayed the same way. ja/zh/ko/ar story lines are in native script.
 * Target lines are natural, A1, short, and in the right register. Russian is Cyrillic only. French punctuation is attached
   (`là?`) with straight apostrophes.
 * Stress marks go only in notes `stress`. No emoji. No text in images.

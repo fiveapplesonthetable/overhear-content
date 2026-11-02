@@ -16,6 +16,12 @@ Every voice in a public render is cloned from a reference clip in `render/refs/<
 ru: `alisa anja angelina ru-f1 ru-f2 ru-f3` (f), `ru-m1`..`ru-m7` (m). fr: `lucie emilie` (f), `theo marcel` (m). en
 narrator: `sky`. The pilot languages (es, de, it, pt, ja, zh, ko, ar) have **no voices yet**. Make them before their first render.
 
+## Owner listening feedback (2026-11-02)
+
+On the earlier pilot renders: the **Arabic voices were very bad**, and one **Portuguese voice was far too high-pitched and
+unpleasant**. Do not reuse those voices. For ar and pt, design more candidates than usual, reject anything shrill, thin or
+robotic, and have Gemini listen with that complaint in mind. Prefer natural mid or low pitch over bright voices in every language.
+
 ## Making voices for a new language
 
 1. For each pilot show, list the speaking characters by gender from `out/<show>/cast.json`. Plan at least 3 voices per gender,
