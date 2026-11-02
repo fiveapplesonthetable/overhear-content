@@ -116,3 +116,10 @@ The pipeline gates every sentence on Whisper CER and retakes failures. Read ever
 
 Then listen to at least the first scene of each episode, and every scene a gate flagged. Fix the content and re-render.
 Never patch an mp3.
+
+**Known weak spot: the English narrator.** Owner listening found narrator sentences that lose words or come out flat. A
+short phrase such as "I wish you..." was left out, and the intonation did not match the meaning: questions not rising,
+wishes and warnings read like a list. Whisper CER can still pass when a short phrase is missing. So in review, compare
+the narrator's audio word for word against the script (the `timing.json` items marked `ok: false` or `missing` are the
+first place to look), and judge tone, not just words. Re-take or re-word such sentences, try a different seed, or try a
+stronger English TTS (contract §4), and record what worked in `out/PROGRESS.md`.

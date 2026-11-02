@@ -53,7 +53,7 @@ class NativeSpans(unittest.TestCase):
         self.assertTrue(any('stress must be null' in str(e) for e in rep.errors))
 
     def test_private_source_metadata_is_portable_and_bounded(self):
-        value = {'file': 'sources/al-maktab/s01/e01.mp4', 'sha256': 'a' * 64, 'start': 12.5, 'end': 14.2}
+        value = {'file': 'sources/alrawabi-school/s01/e01.mp4', 'sha256': 'a' * 64, 'start': 12.5, 'end': 14.2}
         self.assertEqual(source_audio_metadata(value), value)
         for patch in [{'file': '/mnt/private/source.mp4'}, {'file': 'sources/../../private.mp4'}, {'file': 'sources/a/./x.mp4'},
                       {'file': 'sources/a//x.mp4'}, {'sha256': 'wrong'}, {'end': 12.5}, {'start': -1}, {'end': float('inf')}]:
