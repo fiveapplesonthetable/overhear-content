@@ -257,7 +257,7 @@ class AudioGates:
         for idx, (len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen) in enumerate(prepped):
             emb = self.get_embedding(w_16k, 16000)
             sim_val = float(torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item())
-            sim_thresh = 0.72 if lang == "en" else 0.67
+            sim_thresh = 0.78 if lang == "en" else 0.67
             sim_ok = sim_val >= sim_thresh
 
             segs, _ = self.whisper.transcribe(

@@ -209,22 +209,24 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
 
 
 # ---------------------------------------------------------------------------
-# 1b. Persistent English CustomVoice Narrator Worker (venv-qwen, pure PyTorch)
+# 1b. Persistent English Narrator Worker (venv-qwen, British female 'sky' locked @ temp=0.60)
 # ---------------------------------------------------------------------------
 def run_en_custom_worker(worker_id: int, batch_seqs: int):
-    role = f"en-custom-{worker_id}"
+    role = f"en-sky-{worker_id}"
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
     from store import Store
-    from tts import QwenCustomEngine
+    from tts import QwenEngine
     from voices import Voices
 
     settings = config.load_settings(str(REPO / "render" / "settings.fr-qwen-en.json"))
     voices = Voices()
     store = Store(config.STORE)
-    eng = QwenCustomEngine(settings, voices, log=lambda *a: log(role, *a))
-    t_cfg = settings["tts"]
-    temp = t_cfg.get("temperature", 0.7) * 0.95
-    rep = t_cfg.get("repetition_penalty", 1.0) * 1.1
+    eng = QwenEngine(settings, voices, log=lambda *a: log(role, *a))
+    # Low-entropy sampling locks zero-shot Qwen3-Base onto sky.flac's relaxed British female voice & RP accent
+    temp = 0.60
+    top_k = 30
+    top_p = 0.88
+    rep = 1.08
 
     jobs_dir = SHM_ROOT / "jobs_en"
     cands_dir = SHM_ROOT / "cands"
@@ -280,12 +282,12 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             seed = int(grp[0][1]["key"][:8], 16) + int(grp[0][1].get("attempt", 0)) * 7919 + worker_id * 173
             t0 = time.time()
             try:
-                wavs = eng.generate(expanded_batch, seed, temperature=temp, repetition_penalty=rep)
+                wavs = eng.generate(expanded_batch, seed, temperature=temp, repetition_penalty=rep, top_k=top_k, top_p=top_p)
                 for cp, job, s0, s1 in slices:
                     write_cand_bundle(cands_dir, job, wavs[s0:s1])
                     cp.unlink(missing_ok=True)
                 eng.torch.cuda.empty_cache()
-                log(role, f"synthesized {len(grp)} en narrator lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
+                log(role, f"synthesized {len(grp)} en sky lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
             except Exception as ex:
                 log(role, f"WARN en batch failed ({ex}), falling back per-item")
                 eng.torch.cuda.empty_cache()
@@ -293,7 +295,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
                     try:
                         n_c = int(job["n_cands"])
                         lang_name = QWEN_LANGS[job["lang"]]
-                        w_item = eng.generate([(job["voice"], lang_name, job["text_tts"])] * n_c, seed, temperature=temp, repetition_penalty=rep)
+                        w_item = eng.generate([(job["voice"], lang_name, job["text_tts"])] * n_c, seed, temperature=temp, repetition_penalty=rep, top_k=top_k, top_p=top_p)
                         write_cand_bundle(cands_dir, job, w_item)
                         cp.unlink(missing_ok=True)
                     except Exception as ex2:
@@ -690,8 +692,8 @@ def run_orchestrator():
                     enqueued_keys.add(k)
                     lang = it["lang"]
                     has_custom = bool(voices.refs.get(it["voice"], {}).get("customVoice"))
-                    eng_kind = "en" if has_custom else ("ru" if (lang == "ru" and ru_cfg) else ("ar" if (lang == "ar" and ar_cfg) else "qwen"))
-                    n_cands = 1 if lang == "en" else 3
+                    eng_kind = "en" if (has_custom or lang == "en") else ("ru" if (lang == "ru" and ru_cfg) else ("ar" if (lang == "ar" and ar_cfg) else "qwen"))
+                    n_cands = 2 if lang == "en" else 3
                     job = {
                         "prio": prio,
                         "episode": ep,
