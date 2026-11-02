@@ -41,18 +41,47 @@ STORY = [
     ('stanis', 'Ti piace Seppia?', 'Do you like Squid?', [(163, 'ti piace Seppia')], ''),
 ]
 WALK = [
-    (0, None, "'What an extraordinary studio smell! I feel at home.' Opening with \"che\" before a thing means \"what a\", and \"mi sento a casa\" is the warm phrase for feeling right at home."),
-    (1, None, "'As soon as I can, I am quitting this series.' \"Appena\" means \"as soon as\", while \"mollare\" is a lively casual word for dropping or quitting something."),
-    (2, None, "'I am kidding! I am in top form.' \"Sto scherzando\" is the exact equivalent of \"I'm joking\", built with \"stare\" to show what he is doing right this second."),
-    (3, None, "'Hi Stanis, how are you?' \"Come stai?\" is the classic friendly greeting for someone you know well; with a stranger you would say \"come sta?\" instead."),
-    (4, None, "'Well, thank you.' Simple, clean, and everywhere: \"bene, grazie\" answers \"come stai?\" in two effortless words."),
-    (5, None, "'Did you go and play tennis?' Where English says \"play tennis\" directly, Italian links sport names with \"a\": \"giocare a tennis\"."),
-    (6, None, "'Of course.' \"Certo\" literally means \"certain\" or \"sure\", and by itself it makes an upbeat, confident \"of course\"."),
-    (7, None, "'Under your contract you cannot play tennis.' \"Da contratto\" packs \"according to your contract\" into two brisk workplace words."),
-    (8, None, "'I need to talk to you.' Notice \"ti\" right at the front, meaning \"to you\", before \"devo parlare\", \"I must speak\"."),
-    (9, None, "'Later.' Stanis brushes Arianna off with a single word: \"dopo\" covers both \"after\" and \"later\"."),
-    (10, None, "'Well, look who is here!' \"Guarda chi c'e\" is a cheerful, theatrical greeting when you spot someone, even when Stanis actually has no idea who Alessandro is."),
-    (11, None, "'I am Alessandro, the new directing intern.' Adding \"di regia\" specifies his department: \"stagista di regia\" is an intern on the directing team."),
-    (12, None, "'No, from today on you will be called Squid.' \"Da oggi in poi\" means \"from today onwards\", and \"seppia\" is a cuttlefish or squid — Stanis decides Alessandro looks pale."),
-    (13, None, "'Do you like Squid?' In Italian, \"ti piace\" literally works backwards from English: \"Seppia\" is the thing that is pleasing \"to you\"."),
+    (0, None, [
+        '\'What an extraordinary studio smell! I feel at home.\' Opening with "che" before a thing means "what a", and "mi sento a casa" is the warm phrase for feeling right at home.'
+    ]),
+    (1, None, [
+        '\'As soon as I can, I am quitting this series.\' "Appena" means "as soon as", while "mollare" is a lively casual word for dropping or quitting something.'
+    ]),
+    (2, None, [
+        '\'I am kidding! I am in top form.\' "Sto scherzando" is the exact equivalent of "I\'m joking", built with "stare" to show what he is doing right this second.'
+    ]),
+    (3, None, [
+        '\'Hi Stanis, how are you?\' "Come stai?" is the classic friendly greeting for someone you know well; with a stranger you would say "come sta?" instead.'
+    ]),
+    (4, None, [
+        '\'Well, thank you.\' Simple, clean, and everywhere: "bene, grazie" answers "come stai?" in two effortless words.'
+    ]),
+    (5, None, [
+        '\'Did you go and play tennis?\' Where English says "play tennis" directly, Italian links sport names with "a": "giocare a tennis".'
+    ]),
+    (6, None, [
+        '\'Of course.\' "Certo" literally means "certain" or "sure", and by itself it makes an upbeat, confident "of course".'
+    ]),
+    (7, None, [
+        '\'Under your contract you cannot play tennis.\' "Da contratto" packs "according to your contract" into two brisk workplace words.'
+    ]),
+    (8, None, [
+        '\'I need to talk to you.\' Notice "ti" right at the front, meaning "to you", before "devo parlare", "I must speak".'
+    ]),
+    (9, None, [
+        '\'Later.\' Stanis brushes Arianna off with a single word: "dopo" covers both "after" and "later".'
+    ]),
+    (10, None, [
+        '\'Well, look who is here!\' "Guarda chi c\'e" is a cheerful, theatrical greeting when you spot someone, even when Stanis actually has no idea who Alessandro is.'
+    ]),
+    (11, None, [
+        '\'I am Alessandro, the new directing intern.\' Adding "di regia" specifies his department: "stagista di regia" is an intern on the directing team.'
+    ]),
+    (12, None, [
+        '\'No, from today on you will be called Squid.\' "Da oggi in poi" means "from today onwards", and "seppia" is a cuttlefish or squid — Stanis decides Alessandro looks pale.'
+    ]),
+    (13, None, [
+        '\'Do you like Squid?\' In Italian, "ti piace" literally works backwards from English: "Seppia" is the thing that is pleasing "to you".'
+    ]),
 ]
+

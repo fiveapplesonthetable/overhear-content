@@ -34,22 +34,60 @@ STORY = [
 OPENER = "From panicked humility to triumphant applause, Muranishi rides every emotional wave in Japanese. Let's look at the key expressions."
 
 WALK = [
-    (0, 'めっそうもございません！', "'Perish the thought!' Built around humble \"messou\", this old-fashioned set expression waves away an accusation—'heaven forbid, I would never dream of looking down on you!'"),
-    (0, 'お薦めする理由がもう一つあります。', "'There is one more reason I recommend this.' \"Osusume\" means recommendation—the word printed on every restaurant menu's chef specials! \"Mou hitotsu\" adds 'one more'."),
-    (3, None, "'If you learn and use the words written here, you are all set.' \"Koko ni kakarete iru\" describes words 'written here'. Linking \"oboete\", memorize, to \"tsukaeba\", if you use, leads smoothly into reassuring \"daijoubu desu\"."),
-    (4, None, "'For example?' One word, \"tatoeba\", works both to introduce your own example and, with a rising voice, to ask someone 'such as?'"),
-    (6, 'それだったら俺も言えるぜ。', "'If that is all, I can say it too.' \"Sore dattara\" means 'if it is just that'. Turning \"iu\", to say, into \"ieru\" builds 'can say', and masculine \"ze\" adds swagger."),
-    (7, None, "'That is absolute perfection!' Muranishi dresses up English 'perfect'—\"paafekuto\"—with grand \"de gozaimasu\", cheering his customer like a prize pupil."),
-    (9, None, "'Hey, you two!' Hearing the commotion, Nakai's wife bursts in shouting \"antatachi\", built from casual \"anta\", you, plus group-marker \"tachi\"."),
-    (10, None, "'Madam, starting tomorrow your husband becomes an English master.' Notice the respectful pair for someone else's marriage: \"okusama\" addresses a wife politely, while \"goshujin\" refers to her husband."),
-    (11, None, "'Can I buy it?' After acting like a tough boss all afternoon, Nakai meekly asks his wife \"katte mo ii\", literally 'is buying okay?'—the everyday pattern with \"mo ii\" for asking permission!"),
+    (0, 'めっそうもございません！', [
+        '"\'Perish the thought!\' Built around humble " Listen for ',
+        ("muranishi", "めっそう"), ", this old-fashioned set expression waves away an accusation—'heaven forbid, I would never dream of looking down on you!'"
+    ]),
+    (0, 'お薦めする理由がもう一つあります。', [
+        "'There is one more reason I recommend this.'  We can hear ",
+        ("muranishi", "お薦め"), " this word means recommendation—the word printed on every restaurant menu's chef specials! ",
+        ("muranishi", "もう一つ"), " adds 'one more'."
+    ]),
+    (3, None, [
+        "'If you learn and use the words written here, you are all set.'  Listen for ",
+        ("muranishi", "ここに書かれている"), " describes words 'written here'. Linking ",
+        ("muranishi", "覚えて"), ", memorize, to ",
+        ("muranishi", "使えば"), ", if you use, leads smoothly into reassuring ",
+        ("muranishi", "大丈夫です")
+    ]),
+    (4, None, [
+        '"\'For example?\' One word, " We can hear ',
+        ("nakai", "例えば？"), ", works both to introduce your own example and, with a rising voice, to ask someone 'such as?'"
+    ]),
+    (6, 'それだったら俺も言えるぜ。', [
+        "'If that is all, I can say it too.'  It features ",
+        ("nakai", "それだったら"), " this word means 'if it is just that'. Turning the verb for 'to say' into ",
+        ("nakai", "言える"), " builds 'can say', and masculine ",
+        ("nakai", "ぜ"), " adds swagger."
+    ]),
+    (7, None, [
+        '"\'That is absolute perfection!\' Muranishi dresses up English \'perfect\'—" Starting off with ',
+        ("muranishi", "パーフェクト"), "—with grand ",
+        ("muranishi", "でございます"), ", cheering his customer like a prize pupil."
+    ]),
+    (9, None, [
+        '"\'Hey, you two!\' Hearing the commotion, Nakai\'s wife bursts in shouting " We can hear ',
+        ("okusama", "あんたたち！"), ", and this word is built from casual ",
+        ("okusama", "あんた"), ", you, plus group-marker ",
+        ("okusama", "たち")
+    ]),
+    (10, None, [
+        '"\'Madam, starting tomorrow your husband becomes an English master.\' Notice the respectful pair for someone else\'s marriage: " Focus on ',
+        ("muranishi", "奥様"), " addresses a wife politely, while ",
+        ("muranishi", "ご主人"), " refers to her husband."
+    ]),
+    (11, None, [
+        '"\'Can I buy it?\' After acting like a tough boss all afternoon, Nakai meekly asks his wife " You can catch ',
+        ("nakai", "買ってもいい"), ", literally 'is buying okay?'—the everyday pattern with ",
+        ("nakai", "もいい"), " for asking permission!"
+    ]),
 ]
 
 TRANSITION = "Now let's listen to Muranishi's first victorious sale from start to finish."
 
 OUTRO = (
-    "Take away \"osusume\" for recommendations, \"tatoeba\" for 'for example', "
-    "and \"katte mo ii\" whenever you want to ask if it is okay to buy something. "
+    "Take away these expressions: the word for recommendations, the one for 'for example', "
+    "and the phrase whenever you want to ask if it is okay to buy something. "
     "See you in scene fifteen."
 )
 

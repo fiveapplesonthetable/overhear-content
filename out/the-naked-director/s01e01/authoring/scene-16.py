@@ -34,24 +34,69 @@ STORY = [
 OPENER = "Muranishi turns an ordinary sales visit into high theatre, culminating in his most famous catchphrase. Let's hear how each line lands."
 
 WALK = [
-    (0, '遅いわよ。', "'You are late.' \"Osoi\" covers both slow and late, and assertive \"wa yo\" adds sharp impatience as she glares at the door."),
-    (0, '約束の時間が過ぎてる。', "'The appointment time has passed.' \"Yakusoku\" means promise or appointment, \"jikan\" is time, and \"sugiteru\" comes from \"sugiru\", to pass beyond."),
-    (1, '申し訳ございません。', "'I am deeply sorry.' Literally \"moushiwake\" means an excuse or explanation, so saying none exists—\"gozaimasen\"—declares 'my mistake is inexcusable'."),
-    (1, 'お待たせしすぎたのかもしれません。', "'Perhaps I kept you waiting too long.' Here is Muranishi's signature line! Polite \"omatase shita\", kept you waiting, gets \"sugi\", too much, tucked inside—turning an ordinary late arrival into dramatic fate."),
-    (2, None, "'Every meeting between people is a miracle.' \"Deai\" comes from \"deau\", to encounter by chance, naming a meaningful meeting in life, paired with \"subete\", all."),
-    (3, None, "'If you cannot decide now, you will not decide in a lifetime.' \"Kimerareru\" is the 'can decide' version of \"kimeru\", and \"isshou\" spans one entire lifetime."),
-    (6, None, "'To put it plainly, this is your last chance!' \"Hakkiri\" is an expressive sound-word meaning clearly or bluntly, leading straight into katakana English \"rasuto chansu\"."),
-    (8, None, "'This is my mission!' \"Shimei\" means a calling or mission, and \"nan desu\" wraps it in earnest conviction."),
-    (9, None, "'Just now!' Muranishi shouts English \"jasuto nau\" to mean 'right this very second!'—even though English speakers would say 'right now!'"),
-    (10, '俺、買うよ。', "'I will buy it.' Swept up in the urgency, the buyer blurts plain dictionary-form \"kau\", to buy, plus decisive \"yo\"."),
-    (11, '今しかありませんよ！', "'There is only right now!' Pairing \"shika\" after \"ima\", now, with negative \"arimasen\" creates a spotlight meaning 'nothing except right now!'"),
+    (0, '遅いわよ。', [
+        "'You are late.'  Starting off with ",
+        ("client_f", "遅い"), ". This word covers both slow and late, and assertive ",
+        ("client_f", "わよ"), " adds sharp impatience as she glares at the door."
+    ]),
+    (0, '約束の時間が過ぎてる。', [
+        "'The appointment time has passed.'  The speaker uses ",
+        ("client_f", "約束"), " this word means promise or appointment, ",
+        ("client_f", "時間"), " is time, and ",
+        ("client_f", "過ぎてる"), " comes from the verb for to pass beyond."
+    ]),
+    (1, '申し訳ございません。', [
+        '"\'I am deeply sorry.\' Literally " We can hear ',
+        ("muranishi", "申し訳"), " this word means an excuse or explanation, so saying none exists—",
+        ("muranishi", "ございません"), "—declares 'my mistake is inexcusable'."
+    ]),
+    (1, 'お待たせしすぎたのかもしれません。', [
+        '"\'Perhaps I kept you waiting too long.\' Here is Muranishi\'s signature line! Polite " We can hear ',
+        ("muranishi", "お待たせ"), ", keeping you waiting, gets ",
+        ("muranishi", "しすぎた"), ". This word means too much, tucked inside—turning an ordinary late arrival into dramatic fate."
+    ]),
+    (2, None, [
+        "'Every meeting between people is a miracle.'  The character says ",
+        ("muranishi", "出会い"), " comes from the verb for to encounter by chance, naming a meaningful meeting in life, paired with ",
+        ("muranishi", "すべて"), ", all."
+    ]),
+    (3, None, [
+        "'If you cannot decide now, you will not decide in a lifetime.'  We can hear ",
+        ("muranishi", "決められない"), " this word is the 'cannot decide' version of the verb for to decide, and ",
+        ("muranishi", "一生"), " spans one entire lifetime."
+    ]),
+    (6, None, [
+        "'To put it plainly, this is your last chance!'  The phrase contains ",
+        ("muranishi", "はっきり"), " is an expressive sound-word meaning clearly or bluntly, leading straight into katakana English ",
+        ("muranishi", "ラストチャンス"), "."
+    ]),
+    (8, None, [
+        "'This is my mission!'  It features ",
+        ("muranishi", "使命"), " this word means a calling or mission, and ",
+        ("muranishi", "なんです"), " wraps it in earnest conviction."
+    ]),
+    (9, None, [
+        '"\'Just now!\' Muranishi shouts English " Pay attention to ',
+        ("muranishi", "ジャストナウ！"), " to mean 'right this very second!'—even though English speakers would say 'right now!'"
+    ]),
+    (10, '俺、買うよ。', [
+        '"\'I will buy it.\' Swept up in the urgency, the buyer blurts plain dictionary-form " The word ',
+        ("customer", "買う"), ". This word means to buy, plus decisive ",
+        ("customer", "よ")
+    ]),
+    (11, '今しかありませんよ！', [
+        '"\'There is only right now!\' Pairing " Listen for ',
+        ("muranishi", "しか"), " after ",
+        ("muranishi", "今"), ", now, with negative ",
+        ("muranishi", "ありません"), " creates a spotlight meaning 'nothing except right now!'"
+    ]),
 ]
 
 TRANSITION = "Now let's listen to Muranishi's legendary late-arrival pitch again."
 
 OUTRO = (
-    "Remember \"yakusoku no jikan\" for an appointment time, \"moushiwake gozaimasen\" when you need a sincere formal apology, "
-    "and \"ima shika arimasen\" for 'there is only now!'. "
+    "Remember the phrase for an appointment time, the expression when you need a sincere formal apology, "
+    "and the expression for 'there is only now!'. "
     "See you at the celebration next."
 )
 

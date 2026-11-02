@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/alrawabi-school/s01/e01.ar.srt'
 INTRO = "Out in the hallway after being blamed in Ms. Faten's office, Mariam meets up with Dina and newcomer Noaf. Tired of staying quiet while Layan's clique bullies others, the three girls decide they have reached their limit. Let's hear the whole conversation in Jordanian Arabic first."
 OPENER = "Now let's break down the scene line by line."
 TRANSITION = "Let's hear the full hallway conversation one more time."
-OUTRO = "That hallway pact marks the start of Mariam, Dina, and Noaf pushing back together. Keep an ear out for \"rah\" before future plans and \"baad heik\" for \"after this\". See you next time."
+OUTRO = "That hallway pact marks the start of Mariam, Dina, and Noaf pushing back together. Keep an ear out for \"رح\" before future plans and \"بعد هيك\" for \"after this\". See you next time."
 CLOSING = ("noaf", "نشوفك!")
 STORY = [
     ('dina', 'مريم، ليش زعلانة هيك اليوم؟', 'Mariam, why are you upset like this today?', [], 'opening check-in from Dina'),
@@ -30,16 +30,16 @@ STORY = [
     ('dina', 'خلص، أنا معكم بكل خطوة.', 'Deal, I am with you in every step.', [], 'warm solidarity close'),
 ]
 WALK = [
-    (0, None, "'Mariam, why are you upset like this today?' \"Zaalaane\" means \"upset\" or \"hurt\"—a warm, everyday feeling word far softer than furious anger."),
-    (1, None, "'Layan and her friends lied about me in front of the principal.' \"Quddaam\" means \"in front of\", and \"il-mudeera\" is \"the female principal\" or director."),
-    (2, None, "'Those girls always make trouble.' \"Mashaakil\" is the everyday word for \"problems\" or \"trouble\", built from \"mushkile\", a single problem."),
-    (3, None, "'A person can keep putting up with many things.' Jordanians use \"il-waahid\", literally \"the one\", the same way English speakers say \"a person\" or \"you\" in general."),
-    (4, None, "'Right, and hold it in his heart up to a certain point.' \"Yikbit\" means bottling feelings up inside, and \"bi-qalbo\" literally adds \"in his heart\"."),
-    (5, None, "'Alright, what do you want to do now, Mariam?' \"Tayyib\" literally means \"good\", and in conversation it works just like \"alright\" or \"okay then\"."),
-    (6, None, "'I am going to put an end to their unfairness at school.' Putting the little word \"rah\" in front of \"akhlus\" is the cleanest spoken way to talk about the future, like \"going to\"."),
-    (7, None, "'We will hold them accountable one after another.' \"Wara\" means \"behind\" or \"after\", so \"waahde wara it-taanye\" paints them lining up one behind the next."),
-    (8, None, "'But the plan is a little hard for us.' \"Shwayy\" is a tiny gem in Levantine Arabic meaning \"a little bit\"—useful for softening complaints or polite requests."),
-    (9, None, "'No, we must teach them a lesson for their mistake.' \"Nrabbeehom\" comes from bringing up children with manners, so between teenagers it means teaching bullies a proper lesson."),
-    (10, None, "'Definitely, they will not hurt anyone after this.' Notice \"ma rah\" for \"will not\", and \"baad heik\", literally \"after like this\", for \"after this\"."),
-    (11, None, "'Deal, I am with you in every step.' When someone opens with \"khalas\", literally \"finished\", it means \"settled\" or \"deal\"—decision made."),
+    (0, None, ["'Mariam, why are you upset like this today?' ", ('dina', 'زعلانة'), ' means "upset" or "hurt"—a warm, everyday feeling word far softer than furious anger.']),
+    (1, None, ["'Layan and her friends lied about me in front of the principal.' ", ('mariam', 'قدام'), ' means "in front of", and ', ('mariam', 'المديرة'), ' is "the female principal" or director.']),
+    (2, None, ["'Those girls always make trouble.' ", ('noaf', 'مشاكل'), ' is the everyday word for "problems" or "trouble", built from مشكلة, a single problem.']),
+    (3, None, ["'A person can keep putting up with many things.' Jordanians use ", ('mariam', 'الواحد'), ', literally "the one", the same way English speakers say "a person" or "you" in general.']),
+    (4, None, ["'Right, and hold it in his heart up to a certain point.' ", ('noaf', 'يكبت'), ' means bottling feelings up inside, and ', ('noaf', 'بقلبه'), ' literally adds "in his heart".']),
+    (5, None, ["'Alright, what do you want to do now, Mariam?' ", ('dina', 'طيب'), ' literally means "good", and in conversation it works just like "alright" or "okay then".']),
+    (6, None, ["'I am going to put an end to their unfairness at school.' Putting the little word ", ('mariam', 'رح'), ' in front of ', ('mariam', 'أخلص'), ' is the cleanest spoken way to talk about the future, like "going to".']),
+    (7, None, ["'We will hold them accountable one after another.' ", ('mariam', 'ورا'), ' means "behind" or "after", so ', ('mariam', 'واحدة ورا الثانية'), ' paints them lining up one behind the next.']),
+    (8, None, ["'But the plan is a little hard for us.' ", ('dina', 'شوي'), ' is a tiny gem in Levantine Arabic meaning "a little bit"—useful for softening complaints or polite requests.']),
+    (9, None, ["'No, we must teach them a lesson for their mistake.' ", ('noaf', 'نربيهم'), ' comes from bringing up children with manners, so between teenagers it means teaching bullies a proper lesson.']),
+    (10, None, ["'Definitely, they will not hurt anyone after this.' Notice ", ('mariam', 'ما رح'), ' for "will not", and ', ('mariam', 'بعد هيك'), ', literally "after like this", for "after this".']),
+    (11, None, ["'Deal, I am with you in every step.' When someone opens with ", ('dina', 'خلص'), ', literally "finished", it means "settled" or "deal"—decision made.']),
 ]

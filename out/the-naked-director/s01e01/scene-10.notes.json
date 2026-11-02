@@ -7,7 +7,7 @@
       "trans": "Hello.",
       "words": [
         {
-          "t": "こんにちは",
+          "t": "こんにちは。",
           "lemma": "こんにちは",
           "pos": "interj",
           "stress": null,
@@ -15,7 +15,7 @@
           "gram": "Standard daytime greeting; は is pronounced ワ.",
           "span": [
             0,
-            5
+            6
           ],
           "reading": "コンニチワ"
         }
@@ -129,7 +129,7 @@
       "trans": "What?",
       "words": [
         {
-          "t": "何",
+          "t": "何？",
           "lemma": "何",
           "pos": "pron",
           "stress": null,
@@ -137,7 +137,7 @@
           "gram": "Blunt interrogative pronoun.",
           "span": [
             0,
-            1
+            2
           ],
           "reading": "ナニ"
         }
@@ -671,7 +671,7 @@
       "trans": "Sorry.",
       "words": [
         {
-          "t": "すいません",
+          "t": "すいません。",
           "lemma": "すみません",
           "pos": "interj",
           "stress": null,
@@ -679,7 +679,7 @@
           "gram": "Colloquial pronunciation of すみません (sorry).",
           "span": [
             0,
-            5
+            6
           ],
           "reading": "スイマセン"
         }
@@ -690,7 +690,7 @@
       "trans": "Hello.",
       "words": [
         {
-          "t": "こんにちは",
+          "t": "こんにちは。",
           "lemma": "こんにちは",
           "pos": "interj",
           "stress": null,
@@ -698,7 +698,7 @@
           "gram": "Standard daytime greeting; は is pronounced ワ.",
           "span": [
             0,
-            5
+            6
           ],
           "reading": "コンニチワ"
         }
@@ -706,6 +706,25 @@
     },
     {
       "seg": 16,
+      "trans": "Hello.",
+      "words": [
+        {
+          "t": "こんにちは。",
+          "lemma": "こんにちは",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "hello",
+          "gram": "Standard daytime greeting; は is pronounced ワ.",
+          "span": [
+            0,
+            6
+          ],
+          "reading": "コンニチワ"
+        }
+      ]
+    },
+    {
+      "seg": 18,
       "trans": "Do you like English?",
       "words": [
         {
@@ -776,7 +795,45 @@
       ]
     },
     {
-      "seg": 18,
+      "seg": 20,
+      "trans": "English",
+      "words": [
+        {
+          "t": "英語",
+          "lemma": "英語",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "English",
+          "gram": "Noun.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "エイゴ"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "liked; fond of",
+      "words": [
+        {
+          "t": "好き。",
+          "lemma": "好き。",
+          "pos": "name",
+          "stress": null,
+          "gloss": "liked; fond of",
+          "gram": "Polite お-prefix + na-adjective 好き (liked).",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "オスキ"
+        }
+      ]
+    },
+    {
+      "seg": 24,
       "trans": "No, thank you.",
       "words": [
         {
@@ -808,7 +865,71 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 26,
+      "trans": "No, thank you.",
+      "words": [
+        {
+          "t": "結構",
+          "lemma": "結構",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "no, thank you",
+          "gram": "Na-adjective used here for a polite refusal.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ケッコウ"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "Polite copula.",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "デス"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "No, thank you.",
+      "words": [
+        {
+          "t": "結構",
+          "lemma": "結構",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "no, thank you",
+          "gram": "Na-adjective used here for a polite refusal.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ケッコウ"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "Polite copula.",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "デス"
+        }
+      ]
+    },
+    {
+      "seg": 30,
       "trans": "In the era ahead, English is going to become necessary.",
       "words": [
         {
@@ -931,7 +1052,103 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 32,
+      "trans": "from now on",
+      "words": [
+        {
+          "t": "これから",
+          "lemma": "これから",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "from now on",
+          "gram": "Time expression meaning 'from now on'.",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "コレカラ"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "from now on / of / era; age",
+      "words": [
+        {
+          "t": "これから",
+          "lemma": "これから",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "from now on",
+          "gram": "Time expression meaning 'from now on'.",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "コレカラ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "of",
+          "gram": "Links これから to 時代 (era).",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "時代",
+          "lemma": "時代",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "era; age",
+          "gram": "Noun.",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "ジダイ"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "becoming / comes to be",
+      "words": [
+        {
+          "t": "なって",
+          "lemma": "なる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "becoming",
+          "gram": "て-form of なる (to become).",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ナッテ"
+        },
+        {
+          "t": "きます",
+          "lemma": "くる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "comes to be",
+          "gram": "Polite ます-form of auxiliary くる, showing a change developing over time.",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "キマス"
+        }
+      ]
+    },
+    {
+      "seg": 38,
       "trans": "I'm busy right now.",
       "words": [
         {
@@ -989,7 +1206,45 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 40,
+      "trans": "now",
+      "words": [
+        {
+          "t": "今",
+          "lemma": "今",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "now",
+          "gram": "Time noun.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "イマ"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "busy",
+      "words": [
+        {
+          "t": "忙しい",
+          "lemma": "忙しい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "busy",
+          "gram": "Plain い-adjective.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "イソガシイ"
+        }
+      ]
+    },
+    {
+      "seg": 44,
       "trans": "In ten years, it will definitely be necessary, you know!",
       "words": [
         {
@@ -1086,7 +1341,64 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 46,
+      "trans": "ten years from now",
+      "words": [
+        {
+          "t": "十年。",
+          "lemma": "十年。",
+          "pos": "name",
+          "stress": null,
+          "gloss": "ten years from now",
+          "gram": "Compound of 十年 (ten years) + 後 (after).",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ジュウネンゴ"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "ten years from now",
+      "words": [
+        {
+          "t": "後。",
+          "lemma": "後。",
+          "pos": "name",
+          "stress": null,
+          "gloss": "ten years from now",
+          "gram": "Compound of 十年 (ten years) + 後 (after).",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ジュウネンゴ"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "definitely",
+      "words": [
+        {
+          "t": "絶対",
+          "lemma": "絶対",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "definitely",
+          "gram": "Adverbial noun used for strong emphasis.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ゼッタイ"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "Your smile is way too creepy.",
       "words": [
         {
@@ -1157,7 +1469,45 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 54,
+      "trans": "smile",
+      "words": [
+        {
+          "t": "笑顔",
+          "lemma": "笑顔",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "smile",
+          "gram": "Noun.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "エガオ"
+        }
+      ]
+    },
+    {
+      "seg": 56,
+      "trans": "way too creepy/suspicious",
+      "words": [
+        {
+          "t": "怪しすぎ",
+          "lemma": "怪しい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "way too creepy/suspicious",
+          "gram": "Stem of 怪しい (suspicious) + すぎ (excessive).",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "アヤシスギ"
+        }
+      ]
+    },
+    {
+      "seg": 58,
       "trans": "Completely hopeless.",
       "words": [
         {
@@ -1202,11 +1552,49 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 60,
+      "trans": "completely; not at all",
+      "words": [
+        {
+          "t": "全然",
+          "lemma": "全然",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "completely; not at all",
+          "gram": "Adverb intensifying the negative judgment.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ゼンゼン"
+        }
+      ]
+    },
+    {
+      "seg": 62,
+      "trans": "no good; hopeless",
+      "words": [
+        {
+          "t": "だめ",
+          "lemma": "だめ",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "no good; hopeless",
+          "gram": "Na-adjective.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ダメ"
+        }
+      ]
+    },
+    {
+      "seg": 64,
       "trans": "Sorry.",
       "words": [
         {
-          "t": "すいません",
+          "t": "すいません。",
           "lemma": "すみません",
           "pos": "interj",
           "stress": null,
@@ -1214,18 +1602,37 @@
           "gram": "Colloquial pronunciation of すみません (sorry).",
           "span": [
             0,
-            5
+            6
           ],
           "reading": "スイマセン"
         }
       ]
     },
     {
-      "seg": 32,
+      "seg": 66,
+      "trans": "Sorry.",
+      "words": [
+        {
+          "t": "すいません。",
+          "lemma": "すみません",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "sorry",
+          "gram": "Colloquial pronunciation of すみません (sorry).",
+          "span": [
+            0,
+            6
+          ],
+          "reading": "スイマセン"
+        }
+      ]
+    },
+    {
+      "seg": 68,
       "trans": "Hello.",
       "words": [
         {
-          "t": "こんにちは",
+          "t": "こんにちは。",
           "lemma": "こんにちは",
           "pos": "interj",
           "stress": null,
@@ -1233,14 +1640,14 @@
           "gram": "Standard daytime greeting; は is pronounced ワ.",
           "span": [
             0,
-            5
+            6
           ],
           "reading": "コンニチワ"
         }
       ]
     },
     {
-      "seg": 33,
+      "seg": 69,
       "trans": "Do you like English?",
       "words": [
         {
@@ -1311,7 +1718,7 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 70,
       "trans": "No, thank you.",
       "words": [
         {
@@ -1343,11 +1750,11 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 71,
       "trans": "What?",
       "words": [
         {
-          "t": "何",
+          "t": "何？",
           "lemma": "何",
           "pos": "pron",
           "stress": null,
@@ -1355,14 +1762,14 @@
           "gram": "Blunt interrogative pronoun.",
           "span": [
             0,
-            1
+            2
           ],
           "reading": "ナニ"
         }
       ]
     },
     {
-      "seg": 36,
+      "seg": 72,
       "trans": "Hello. Do you like English?",
       "words": [
         {
@@ -1446,7 +1853,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 73,
       "trans": "In the era ahead, English is going to become necessary.",
       "words": [
         {
@@ -1569,7 +1976,7 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 74,
       "trans": "I'm busy right now.",
       "words": [
         {
@@ -1627,7 +2034,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 75,
       "trans": "In ten years, it will definitely be necessary, you know!",
       "words": [
         {
@@ -1724,7 +2131,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 76,
       "trans": "Are you out of your mind?",
       "words": [
         {
@@ -1769,7 +2176,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 77,
       "trans": "Your smile is way too creepy.",
       "words": [
         {
@@ -1840,7 +2247,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 78,
       "trans": "Completely hopeless.",
       "words": [
         {
@@ -1885,11 +2292,11 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 79,
       "trans": "Sorry.",
       "words": [
         {
-          "t": "すいません",
+          "t": "すいません。",
           "lemma": "すみません",
           "pos": "interj",
           "stress": null,
@@ -1897,14 +2304,14 @@
           "gram": "Colloquial pronunciation of すみません (sorry).",
           "span": [
             0,
-            5
+            6
           ],
           "reading": "スイマセン"
         }
       ]
     },
     {
-      "seg": 45,
+      "seg": 81,
       "trans": "See you again.",
       "words": [
         {

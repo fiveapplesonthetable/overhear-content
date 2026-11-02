@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/alrawabi-school/s01/e01.ar.srt'
 INTRO = "In the stairwell of AlRawabi School, Layan rules as the popular girl everyone wants to impress yet fears crossing. When independent transfer student Noaf refuses to step aside for her, Layan and Rania confront her head-on. Listen to the whole exchange in Jordanian Arabic first."
 OPENER = "Let's step back and examine each line of that clash."
 TRANSITION = "Now let's hear the full stairwell confrontation again."
-OUTRO = "Noaf refuses to flinch, earning herself Layan's sharpest threat yet. Keep an ear out for \"alf hsaab\", a vivid Arabic way to say people tread very carefully around someone. See you next time."
+OUTRO = ["Noaf refuses to flinch, earning herself Layan's sharpest threat yet. Keep an ear out for ", ("rania", "ألف حساب"), ", a vivid Arabic way to say people tread very carefully around someone. See you next time."]
 CLOSING = ("noaf", "إلى اللقاء!")
 STORY = [
     ('rania', 'ليان البنت المشهورة هون بالمدرسة.', 'Layan is the famous girl here at school.', [(243, 'ليان'), (244, 'المشهورة')], 'natural Jordanian phrasing'),
@@ -30,16 +30,16 @@ STORY = [
     ('noaf', 'اعملي اللي بدك إياه يا ليان.', 'Do whatever you want, Layan.', [], 'fearless closing line'),
 ]
 WALK = [
-    (0, None, "'Layan is the famous girl here at school.' \"Il-mashhoora\" means \"the famous one\" or \"the popular girl\", built from the root for spreading word far and wide."),
-    (1, None, "'Every girl wishes to be part of her clique.' \"Shille\" is the everyday word across Jordan and the Levant for a tight-knit friend group or clique."),
-    (2, None, "'And at the same time everyone is afraid of her.' \"Bi-nafs il-waqt\" matches English word for word: \"in the same time\", while \"bikhaaf minha\" says \"fears from her\"."),
-    (3, None, "'Of course, everyone thinks twice before crossing her.' Literally \"bihsib ilha alf hsaab\" says \"calculates a thousand accounts for her\"—meaning nobody dares cross her lightly."),
-    (4, None, "'But I am not afraid of anyone here.' Putting \"ma\" before \"bakhaaf\" gives \"I am not afraid\", a simple everyday way to stand your ground."),
-    (5, None, "'Excuse me? Are you challenging me, Noaf?' When said with a sharp rising tone, \"naam\"—normally \"yes\"—flips into a disbelief-filled \"excuse me?\"."),
-    (6, None, "'What? I am only standing in my spot.' \"Bi-makaani\" glues together \"in\", \"place\", and \"my\" into one tidy word for \"in my spot\"."),
-    (7, None, "'How dare you stand in my face in this way?' Literally \"btuqafi bi-wijhi\" means \"you stand in my face\", the exact Jordanian idiom for defying someone openly."),
-    (8, None, "'Step out of my way, please.' \"Law samahti\" literally says \"if you permitted\", which is the polite everyday way to say \"please\" or \"excuse me\" to a woman."),
-    (9, None, "'Listen well, I am going to ruin you.' \"Ismai\" commands one girl to listen, and \"rah adammrik\" packs \"I will ruin you\" into two forceful words."),
-    (10, None, "'Even if this is the last thing I do in my life.' \"Hatta law\" is the go-to pair for \"even if\", useful whenever someone makes a dramatic promise."),
-    (11, None, "'Do whatever you want, Layan.' That little word \"iyyaah\" at the end carries \"it\", turning \"illi biddik iyyaah\" into a cool \"whatever you want\"."),
+    (0, None, ["'Layan is the famous girl here at school.' ", ("rania", "المشهورة"), " means \"the famous one\" or \"the popular girl\", built from the root for spreading word far and wide."]),
+    (1, None, ["'Every girl wishes to be part of her clique.' ", ("rania", "شلتها"), " is the everyday word across Jordan and the Levant for a tight-knit friend group or clique."]),
+    (2, None, ["'And at the same time everyone is afraid of her.' ", ("noaf", "وبنفس الوقت"), " matches English word for word: \"in the same time\", while ", ("noaf", "بخاف منها"), " says \"fears from her\"."]),
+    (3, None, ["'Of course, everyone thinks twice before crossing her.' Literally ", ("rania", "بحسب إلها ألف حساب"), " says \"calculates a thousand accounts for her\"—meaning nobody dares cross her lightly."]),
+    (4, None, ["'But I am not afraid of anyone here.' Putting ", ("noaf", "ما"), " before ", ("noaf", "بخاف"), " gives \"I am not afraid\", a simple everyday way to stand your ground."]),
+    (5, None, ["'Excuse me? Are you challenging me, Noaf?' When said with a sharp rising tone, ", ("layan", "نعم؟"), "—normally \"yes\"—flips into a disbelief-filled \"excuse me?\"."]),
+    (6, None, ["'What? I am only standing in my spot.' ", ("noaf", "بمكاني"), " glues together \"in\", \"place\", and \"my\" into one tidy word for \"in my spot\"."]),
+    (7, None, ["'How dare you stand in my face in this way?' Literally ", ("layan", "بتوقفي بوجهي"), " means \"you stand in my face\", the exact Jordanian idiom for defying someone openly."]),
+    (8, None, ["'Step out of my way, please.' ", ("noaf", "لو سمحتي"), " literally says \"if you permitted\", which is the polite everyday way to say \"please\" or \"excuse me\" to a woman."]),
+    (9, None, ["'Listen well, I am going to ruin you.' ", ("layan", "اسمعي"), " commands one girl to listen, and ", ("layan", "رح أدمرك"), " packs \"I will ruin you\" into two forceful words."]),
+    (10, None, ["'Even if this is the last thing I do in my life.' ", ("layan", "حتى لو"), " is the go-to pair for \"even if\", useful whenever someone makes a dramatic promise."]),
+    (11, None, ["'Do whatever you want, Layan.' That little word ", ("noaf", "إياه"), " at the end carries \"it\", turning ", ("noaf", "اللي بدك إياه"), " into a cool \"whatever you want\"."]),
 ]

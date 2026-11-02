@@ -607,7 +607,7 @@
       "trans": "Ow!",
       "words": [
         {
-          "t": "痛い",
+          "t": "痛い！",
           "lemma": "痛い",
           "pos": "adj",
           "stress": null,
@@ -615,7 +615,7 @@
           "gram": "i-adjective",
           "span": [
             0,
-            2
+            3
           ],
           "reading": "イタイ"
         }
@@ -836,6 +836,102 @@
     },
     {
       "seg": 16,
+      "trans": "when",
+      "words": [
+        {
+          "t": "いつ",
+          "lemma": "いつ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "when",
+          "gram": "interrogative",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イツ"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "until",
+      "words": [
+        {
+          "t": "まで",
+          "lemma": "まで",
+          "pos": "part",
+          "stress": null,
+          "gloss": "until",
+          "gram": "extent particle",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "マデ"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "do; play / connecting particle / explanatory / is (plain)",
+      "words": [
+        {
+          "t": "やっ",
+          "lemma": "やる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do; play",
+          "gram": "verb (te-form)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ヤッ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "ん",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "explanatory",
+          "gram": "nominalizer",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ン"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is (plain)",
+          "gram": "plain copula",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ダ"
+        }
+      ]
+    },
+    {
+      "seg": 22,
       "trans": "I was so close to getting the high score!",
       "words": [
         {
@@ -932,7 +1028,71 @@
       ]
     },
     {
-      "seg": 18,
+      "seg": 24,
+      "trans": "just; almost / a little / with; in",
+      "words": [
+        {
+          "t": "もう",
+          "lemma": "もう",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "just; almost",
+          "gram": "adverb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "モウ"
+        },
+        {
+          "t": "少し",
+          "lemma": "少し",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "a little",
+          "gram": "adverb",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "スコシ"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "pos": "part",
+          "stress": null,
+          "gloss": "with; in",
+          "gram": "case particle",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "デ"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "even though; and yet",
+      "words": [
+        {
+          "t": "のに",
+          "lemma": "のに",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "even though; and yet",
+          "gram": "conjunctive particle",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ノニ"
+        }
+      ]
+    },
+    {
+      "seg": 28,
       "trans": "Hey you, what school are you from?",
       "words": [
         {
@@ -977,7 +1137,58 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 30,
+      "trans": "you (rough)",
+      "words": [
+        {
+          "t": "お前",
+          "lemma": "お前",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (rough)",
+          "gram": "pronoun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "オマエ"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "where / is (plain)",
+      "words": [
+        {
+          "t": "どこ",
+          "lemma": "どこ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "where",
+          "gram": "interrogative",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ドコ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is (plain)",
+          "gram": "plain copula",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ダ"
+        }
+      ]
+    },
+    {
+      "seg": 34,
       "trans": "Kita High.",
       "words": [
         {
@@ -1009,7 +1220,45 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 36,
+      "trans": "Kita High School",
+      "words": [
+        {
+          "t": "北",
+          "lemma": "北",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Kita High School",
+          "gram": "proper noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ホッコウ"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "Kita High School",
+      "words": [
+        {
+          "t": "高",
+          "lemma": "高",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Kita High School",
+          "gram": "proper noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ホッコウ"
+        }
+      ]
+    },
+    {
+      "seg": 40,
       "trans": "What about you?!",
       "words": [
         {
@@ -1067,7 +1316,45 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 42,
+      "trans": "for sure; rather",
+      "words": [
+        {
+          "t": "こそ",
+          "lemma": "こそ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "for sure; rather",
+          "gram": "emphatic particle",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "コソ"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "you; your side",
+      "words": [
+        {
+          "t": "そっち",
+          "lemma": "そっち",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you; your side",
+          "gram": "pronoun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ソッチ"
+        }
+      ]
+    },
+    {
+      "seg": 46,
       "trans": "Shut up, take it outside!",
       "words": [
         {
@@ -1138,7 +1425,128 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 48,
+      "trans": "noisy; shut up",
+      "words": [
+        {
+          "t": "うるさい",
+          "lemma": "うるさい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "noisy; shut up",
+          "gram": "i-adjective",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "ウルサイ"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "man (emphatic)",
+      "words": [
+        {
+          "t": "な",
+          "lemma": "な",
+          "pos": "part",
+          "stress": null,
+          "gloss": "man (emphatic)",
+          "gram": "sentence-final particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ナ"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "outside / at; in / do it",
+      "words": [
+        {
+          "t": "外",
+          "lemma": "外",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "outside",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ソト"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "pos": "part",
+          "stress": null,
+          "gloss": "at; in",
+          "gram": "locative particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "デ"
+        },
+        {
+          "t": "やれ",
+          "lemma": "やる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do it",
+          "gram": "verb (imperative)",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ヤレ"
+        }
+      ]
+    },
+    {
+      "seg": 54,
+      "trans": "outside",
+      "words": [
+        {
+          "t": "外",
+          "lemma": "外",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "outside",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ソト"
+        }
+      ]
+    },
+    {
+      "seg": 56,
+      "trans": "do it",
+      "words": [
+        {
+          "t": "やれ",
+          "lemma": "やる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do it",
+          "gram": "verb (imperative)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ヤレ"
+        }
+      ]
+    },
+    {
+      "seg": 58,
       "trans": "You can't play video games outside, can you?",
       "words": [
         {
@@ -1222,7 +1630,90 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 60,
+      "trans": "outside / in; at (topic)",
+      "words": [
+        {
+          "t": "外",
+          "lemma": "外",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "outside",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ソト"
+        },
+        {
+          "t": "では",
+          "lemma": "では",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "in; at (topic)",
+          "gram": "compound particle",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "デワ"
+        }
+      ]
+    },
+    {
+      "seg": 62,
+      "trans": "can do / not",
+      "words": [
+        {
+          "t": "でき",
+          "lemma": "できる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "can do",
+          "gram": "potential verb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "デキ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ナイ"
+        }
+      ]
+    },
+    {
+      "seg": 64,
+      "trans": "probably; right?",
+      "words": [
+        {
+          "t": "だろう",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "probably; right?",
+          "gram": "conjectural copula",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ダロウ"
+        }
+      ]
+    },
+    {
+      "seg": 66,
       "trans": "We're not finished yet.",
       "words": [
         {
@@ -1319,11 +1810,88 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 68,
+      "trans": "still; yet",
+      "words": [
+        {
+          "t": "まだ",
+          "lemma": "まだ",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "still; yet",
+          "gram": "adverb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "マダ"
+        }
+      ]
+    },
+    {
+      "seg": 70,
+      "trans": "finish; end / connecting particle / be (state) / not",
+      "words": [
+        {
+          "t": "終わっ",
+          "lemma": "終わる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "finish; end",
+          "gram": "verb (te-form)",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "オワッ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "い",
+          "lemma": "いる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be (state)",
+          "gram": "aspectual auxiliary",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "イ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "ナイ"
+        }
+      ]
+    },
+    {
+      "seg": 72,
       "trans": "Ow!",
       "words": [
         {
-          "t": "痛い",
+          "t": "痛い！",
           "lemma": "痛い",
           "pos": "adj",
           "stress": null,
@@ -1331,14 +1899,33 @@
           "gram": "i-adjective",
           "span": [
             0,
-            2
+            3
           ],
           "reading": "イタイ"
         }
       ]
     },
     {
-      "seg": 32,
+      "seg": 74,
+      "trans": "Ow!",
+      "words": [
+        {
+          "t": "痛い！",
+          "lemma": "痛い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "ouch; painful",
+          "gram": "i-adjective",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "イタイ"
+        }
+      ]
+    },
+    {
+      "seg": 76,
       "trans": "Let's go!",
       "words": [
         {
@@ -1370,7 +1957,45 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 78,
+      "trans": "go",
+      "words": [
+        {
+          "t": "行く",
+          "lemma": "行く",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "go",
+          "gram": "verb (plain)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イク"
+        }
+      ]
+    },
+    {
+      "seg": 80,
+      "trans": "emphatic particle",
+      "words": [
+        {
+          "t": "ぞ",
+          "lemma": "ぞ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphatic particle",
+          "gram": "sentence-final particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ゾ"
+        }
+      ]
+    },
+    {
+      "seg": 82,
       "trans": "This is a coffeehouse in Sapporo, you know.",
       "words": [
         {
@@ -1467,7 +2092,45 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 84,
+      "trans": "here",
+      "words": [
+        {
+          "t": "ここ",
+          "lemma": "ここ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "here",
+          "gram": "pronoun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ココ"
+        }
+      ]
+    },
+    {
+      "seg": 86,
+      "trans": "coffeehouse; cafe",
+      "words": [
+        {
+          "t": "喫茶店",
+          "lemma": "喫茶店",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "coffeehouse; cafe",
+          "gram": "noun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "キッサテン"
+        }
+      ]
+    },
+    {
+      "seg": 88,
       "trans": "How long are you going to keep playing?!",
       "words": [
         {
@@ -1551,7 +2214,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 89,
       "trans": "I was so close to getting the high score!",
       "words": [
         {
@@ -1648,7 +2311,7 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 90,
       "trans": "Hey you, what school are you from?",
       "words": [
         {
@@ -1693,7 +2356,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 91,
       "trans": "Kita High.",
       "words": [
         {
@@ -1725,7 +2388,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 92,
       "trans": "What about you?!",
       "words": [
         {
@@ -1783,7 +2446,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 93,
       "trans": "Nishi Junior High!",
       "words": [
         {
@@ -1815,7 +2478,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 94,
       "trans": "Shut up, take it outside!",
       "words": [
         {
@@ -1886,7 +2549,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 95,
       "trans": "You can't play video games outside, can you?",
       "words": [
         {
@@ -1970,7 +2633,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 96,
       "trans": "We're not finished yet.",
       "words": [
         {
@@ -2067,11 +2730,11 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 97,
       "trans": "Ow!",
       "words": [
         {
-          "t": "痛い",
+          "t": "痛い！",
           "lemma": "痛い",
           "pos": "adj",
           "stress": null,
@@ -2079,14 +2742,14 @@
           "gram": "i-adjective",
           "span": [
             0,
-            2
+            3
           ],
           "reading": "イタイ"
         }
       ]
     },
     {
-      "seg": 46,
+      "seg": 98,
       "trans": "Let's go!",
       "words": [
         {
@@ -2118,7 +2781,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 99,
       "trans": "This is a coffeehouse in Sapporo, you know.",
       "words": [
         {
@@ -2215,7 +2878,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 101,
       "trans": "See ya.",
       "words": [
         {

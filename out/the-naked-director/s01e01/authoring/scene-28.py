@@ -11,9 +11,9 @@ SOURCE_NAME = '全裸監督 (The Naked Director) S01E01'
 SOURCE_FILE = 'sources/the-naked-director/s01/e01.ja.srt'
 
 INTRO = (
-    "Seeing Toshi's stack of unsold cassette tapes, Muranishi's salesman instincts suddenly wake up. "
+    "Seeing a stack of unsold cassette tapes, our protagonist's salesman instincts suddenly wake up. "
     "He marches into a specialty shop, charms the owner into buying twenty tapes for sixty thousand yen cash, and proposes an ambitious partnership on the street outside. "
-    "Listen to Muranishi work his magic."
+    "Listen to him work his magic."
 )
 
 STORY = [
@@ -31,28 +31,65 @@ STORY = [
     ('toshi', 'あんた、この世界に入る覚悟はあるのか？', 'Do you really have the resolve to step into this world?', [(681, 'あんた この世界に入る覚悟')], 'Standardised あんのかよ to あるのか.'),
 ]
 
-OPENER = "Notice how Muranishi switches smoothly between silky customer flattery inside the shop and brisk business numbers outside."
+OPENER = "Notice how the protagonist switches smoothly between silky customer flattery inside the shop and brisk business numbers outside."
 
 WALK = [
-    (1, None, "'They will not sell that easily.' \"Kantan ni\" means easily or simply, and \"urenai\" comes from \"ureru\", to sell well on the market—distinct from \"uru\", which is what the seller does."),
-    (2, '買ってやるよ。', "'I will buy them from you.' Amused by Muranishi's pitch, the shopkeeper adds gruff \"te yaru\" onto \"kau\", to buy, doing the newcomer a favour."),
-    (3, 'さすがオーナー様、お目が高い！', "'As expected of you, Owner, you have a keen eye!' Every salesperson in Japan knows \"sasuga\", 'true to your reputation!', and the classic flattery \"ome ga takai\"—literally 'your eyes are high', meaning refined taste!"),
-    (4, None, "'They sold! At three thousand yen apiece, that is sixty thousand yen.' Long cylindrical or spooled items like tapes, bottles, and umbrellas count with \"hon\" (or \"ippon\" for one): \"ippon sanzen-en\" totals \"rokuman-en\", sixty thousand yen."),
-    (5, None, "'Wait, were you a salesman?' \"Eigyouman\" blends Japanese \"eigyou\", sales, with English 'man'—the everyday word for a sales rep."),
-    (6, None, "'Roughly how many of these sell per day?' Asking \"nanbon gurai\" combines \"nanbon\", how many tapes, with \"gurai\", approximately."),
-    (7, None, "'Well, two a day at most.' \"Ookute\" comes from \"ooi\", many, and at the start of an estimate it means 'at the very most'."),
-    (8, 'じゃあ他の店も行こう。', "'Then let us hit other shops too.' \"Hoka no mise\" means other shops, and \"ikou\" is the energetic 'let us go!' form of \"iku\"."),
-    (8, '一日の目標は六十本だ。', "'Our daily target is sixty.' Where Toshi sells two, Muranishi calmly sets \"mokuhyou\", target or goal, at \"rokujuppon\", sixty tapes!"),
-    (9, 'ちょっと待てよ。', "'Hold on a second.' \"Chotto mate yo\" turns \"matsu\", to wait, into 'hey, wait a minute!'"),
-    (11, None, "'Do you really have the resolve to step into this world?' \"Kakugo\" means mental readiness to face consequences—'are you truly prepared for what comes next?'"),
+    (1, None, [
+        "'They will not sell that easily.'  Check out ",
+        (None, "簡単に"), " this word means easily or simply, and ",
+        (None, "売れない"), " comes from the verb for selling well on the market—distinct from what the seller does."
+    ]),
+    (2, '買ってやるよ。', [
+        '"\'I will buy them from you.\' Amused by the pitch, the shopkeeper uses " Check out ',
+        (None, "買ってやるよ"), ", doing the newcomer a favour."
+    ]),
+    (3, 'さすがオーナー様、お目が高い！', [
+        '"\'As expected of you, Owner, you have a keen eye!\' Every salesperson in Japan knows " It features ',
+        (None, "さすが"), ", 'true to your reputation!', and the classic flattery ",
+        (None, "お目が高い"), "—literally 'your eyes are high', meaning refined taste!"
+    ]),
+    (4, None, [
+        '"\'They sold! At three thousand yen apiece, that is sixty thousand yen.\' Long cylindrical or spooled items like tapes, bottles, and umbrellas count with the counter for long things: " Check out ',
+        (None, "一本三千円"), " totals ",
+        (None, "六万円"), ", sixty thousand yen."
+    ]),
+    (5, None, [
+        "'Wait, were you a salesman?'  They are saying ",
+        (None, "営業マン"), " blends the Japanese word for sales with the English word 'man'—the everyday word for a sales rep."
+    ]),
+    (6, None, [
+        '"\'Roughly how many of these sell per day?\' Asking " Check out ',
+        (None, "何本ぐらい"), " combines the word for how many tapes with the word for approximately."
+    ]),
+    (7, None, [
+        "'Well, two a day at most.'  It features ",
+        (None, "多くて"), " comes from the word for many, and at the start of an estimate it this word means 'at the very most'."
+    ]),
+    (8, 'じゃあ他の店も行こう。', [
+        '"It means \'Then let us hit other shops too.\' " In this sentence, ',
+        (None, "他の店"), " this word means other shops, and ",
+        (None, "行こう"), " this word is the energetic 'let us go!' form of the verb to go."
+    ]),
+    (8, '一日の目標は六十本だ。', [
+        '"\'Our daily target is sixty.\' Where the young hustler sells two, our protagonist calmly sets " Notice how ',
+        (None, "目標"), ", target or goal, at ",
+        (None, "六十本"), ", sixty tapes!"
+    ]),
+    (9, 'ちょっと待てよ。', [
+        "'Hold on a second.'  Starting off with ",
+        (None, "ちょっと待てよ"), " turns the verb to wait into 'hey, wait a minute!'"
+    ]),
+    (11, None, [
+        "'Do you really have the resolve to step into this world?'  Focus on ",
+        (None, "覚悟"), " this word means mental readiness to face consequences—'are you truly prepared for what comes next?'"
+    ]),
 ]
 
-TRANSITION = "Now let's listen to Muranishi's sixty-thousand-yen triumph again."
+TRANSITION = "Now let's listen to this sixty-thousand-yen triumph again."
 
 OUTRO = (
-    "Remember \"kantan ni\" for easily, \"ome ga takai\" when complimenting someone's good taste, "
-    "\"mokuhyou\" for a goal, and \"chotto mate\" to say hold on! "
+    "Remember the expression for easily, the phrase for complimenting someone's good taste, "
+    "the word for a goal, and the command to say hold on! "
     "One final scene concludes Episode One."
 )
-
 CLOSING = ('owner', 'また会いましょう。')

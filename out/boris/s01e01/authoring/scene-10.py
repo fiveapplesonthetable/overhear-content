@@ -41,18 +41,47 @@ STORY = [
     ('rene', 'Scrive un articolo su di noi.', 'He is writing an article about us.', [(350, 'Scrive un articolo su di noi')], ''),
 ]
 WALK = [
-    (0, None, "'Hello? Someone made a big mistake.' Italians answer the phone with \"pronto?\", literally \"ready?\", dating back to early switchboard operators."),
-    (1, None, "'She has to say that she is thirty-four, period.' \"Punto e basta\" literally says \"full stop and enough\", the ultimate Italian way to declare a topic closed — right before Sergio caves."),
-    (2, None, "'What did Duccio say?' Short \"che\" at the start of a question works just like \"cosa\" for \"what\": \"che ha detto?\""),
-    (3, None, "'I did not find him.' Alessandro covers for Duccio! Before \"ho\", \"lo\" for \"him\" drops its vowel to become \"l'ho trovato\"."),
-    (4, None, "'We will sort it out, do not worry.' Notice how fast Sergio switches to ultra-polite \"non si preoccupi\", addressing the network boss respectfully as \"lei\"."),
-    (5, None, "'All right, no problem. Goodbye.' \"Non c'e problema\" is the effortless everyday twin of English \"no problem\"."),
-    (6, None, "'What do we do?' In Italian, \"che facciamo?\" covers both \"what are we doing?\" and \"what shall we do now?\""),
-    (7, None, "'We are sorting it out.' Pairing \"stiamo\" with \"risolvendo\" emphasises action right in progress: \"we're in the middle of fixing it\"."),
-    (8, None, "'Hi. Sorry about earlier.' \"Prima\" means \"before\" or \"earlier\", so \"scusa per prima\" is the natural way to apologise for an earlier outburst."),
-    (9, None, "'I made a fool of myself in front of Antonio Di Pollina from Repubblica.' \"Fare una brutta figura\" — literally \"making an ugly figure\" — is Italy's classic cultural phrase for losing face in public."),
-    (10, None, "'Is there a journalist here?' Like \"regista\" and \"stagista\", \"giornalista\" ends in \"-ista\" and serves for men and women alike, with \"un\" marking a male reporter here."),
-    (11, None, "'Yes, there is. There he is over there.' \"Ecco\" points someone out, and hooking \"lo\" onto it makes \"eccolo la\", \"there he is over there\"."),
-    (12, None, "'They always speak badly of television.' Just like \"andare male\" earlier, \"parlare male di\" literally says \"to speak badly of\", meaning to trash or pan something."),
-    (13, None, "'He is writing an article about us.' Where English says \"an article about us\", Italian stacks \"su di\" before personal words like \"noi\": \"su di noi\"."),
+    (0, None, [
+        '\'Hello? Someone made a big mistake.\' Italians answer the phone with "pronto?", literally "ready?", dating back to early switchboard operators.'
+    ]),
+    (1, None, [
+        '\'She has to say that she is thirty-four, period.\' "Punto e basta" literally says "full stop and enough", the ultimate Italian way to declare a topic closed — right before Sergio caves.'
+    ]),
+    (2, None, [
+        '\'What did Duccio say?\' Short "che" at the start of a question works just like "cosa" for "what": "che ha detto?"'
+    ]),
+    (3, None, [
+        '\'I did not find him.\' Alessandro covers for Duccio! Before "ho", "lo" for "him" drops its vowel to become "l\'ho trovato".'
+    ]),
+    (4, None, [
+        '\'We will sort it out, do not worry.\' Notice how fast Sergio switches to ultra-polite "non si preoccupi", addressing the network boss respectfully as "lei".'
+    ]),
+    (5, None, [
+        '\'All right, no problem. Goodbye.\' "Non c\'e problema" is the effortless everyday twin of English "no problem".'
+    ]),
+    (6, None, [
+        '\'What do we do?\' In Italian, "che facciamo?" covers both "what are we doing?" and "what shall we do now?"'
+    ]),
+    (7, None, [
+        '\'We are sorting it out.\' Pairing "stiamo" with "risolvendo" emphasises action right in progress: "we\'re in the middle of fixing it".'
+    ]),
+    (8, None, [
+        '\'Hi. Sorry about earlier.\' "Prima" means "before" or "earlier", so "scusa per prima" is the natural way to apologise for an earlier outburst.'
+    ]),
+    (9, None, [
+        '\'I made a fool of myself in front of Antonio Di Pollina from Repubblica.\' "Fare una brutta figura" — literally "making an ugly figure" — is Italy\'s classic cultural phrase for losing face in public.'
+    ]),
+    (10, None, [
+        '\'Is there a journalist here?\' Like "regista" and "stagista", "giornalista" ends in "-ista" and serves for men and women alike, with "un" marking a male reporter here.'
+    ]),
+    (11, None, [
+        '\'Yes, there is. There he is over there.\' "Ecco" points someone out, and hooking "lo" onto it makes "eccolo la", "there he is over there".'
+    ]),
+    (12, None, [
+        '\'They always speak badly of television.\' Just like "andare male" earlier, "parlare male di" literally says "to speak badly of", meaning to trash or pan something.'
+    ]),
+    (13, None, [
+        '\'He is writing an article about us.\' Where English says "an article about us", Italian stacks "su di" before personal words like "noi": "su di noi".'
+    ]),
 ]
+

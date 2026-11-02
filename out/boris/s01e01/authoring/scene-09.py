@@ -42,19 +42,50 @@ STORY = [
     ('duccio', 'Manda via Arianna.', 'Send Arianna away.', [(324, 'Manda'), (324, 'Arianna')], 'Softened Duccio\'s blunt dismissal for A1 learners.'),
 ]
 WALK = [
-    (0, None, "'Sit down.' \"Siediti\" tucks \"ti\", \"yourself\", onto the end of \"siedi\" to make a casual one-word invitation to take a seat."),
-    (1, None, "'Did you watch the first two episodes?' In Italian television, an episode of a series is \"una puntata\", while \"le prime due\" puts \"the first\" ahead of \"two\"."),
-    (2, None, "'Yes, a little bit.' \"Qualcosa\" literally means \"something\", and on its own it works nicely for \"a bit here and there\"."),
-    (3, None, "'Did you like the cinematography?' Notice \"piaciuta\" ends in \"-a\" because \"la fotografia\" — literally photography, and in film the cinematography — is feminine."),
-    (4, None, "'Very much.' Alessandro tries to flatter his elder with a polite single-word \"molto\", and walks straight into a trap."),
-    (5, None, "'You do not understand anything.' \"Capisci\" comes from \"capire\", \"to understand\", paired once again with \"non\" and \"niente\"."),
-    (6, None, "'The cinematography is awful.' \"Fa schifo\" literally says \"it makes disgust\", the punchiest everyday Italian way to say something stinks."),
-    (7, None, "'Do you know why it is awful?' Adding little \"lo\" before \"sai\" literally asks \"do you know it, why...\", a very natural Italian rhythm."),
-    (8, None, "'I do not know.' In English \"I don't know\" needs no object, whereas Italian almost always keeps \"lo\" for \"it\": \"non lo so\"."),
-    (9, None, "'Because that is how they want it.' Placing \"loro\", \"they\", at the very end throws extra weight onto the shadowy network bosses: \"they\" are the ones who want it bad."),
-    (10, None, "'The cinematography must not be prettier than the commercials.' \"Piu bella\" builds \"prettier\" with \"piu\", \"more\", and \"la pubblicita\" covers advertising and TV commercials."),
-    (11, None, "'Otherwise people change the channel.' \"Se no\" — literally \"if not\" — means \"otherwise\". Also notice \"la gente\", \"people\", is singular in Italian, so it takes \"cambia\"."),
-    (12, None, "'They have thought of everything.' Unlike English \"think of\", Italian links \"pensare\" with \"a\": \"pensare a tutto\"."),
-    (13, None, "'Arianna wanted to know about the scene...' Once again Alessandro uses gentle past-time \"voleva\", \"wanted\", to soften an awkward question."),
-    (14, None, "'Send Arianna away.' \"Mandare via\" pairs \"mandare\", \"to send\", with \"via\", \"away\" — Duccio has zero intention of rushing back to set."),
+    (0, None, [
+        '\'Sit down.\' "Siediti" tucks "ti", "yourself", onto the end of "siedi" to make a casual one-word invitation to take a seat.'
+    ]),
+    (1, None, [
+        '\'Did you watch the first two episodes?\' In Italian television, an episode of a series is "una puntata", while "le prime due" puts "the first" ahead of "two".'
+    ]),
+    (2, None, [
+        '\'Yes, a little bit.\' "Qualcosa" literally means "something", and on its own it works nicely for "a bit here and there".'
+    ]),
+    (3, None, [
+        '\'Did you like the cinematography?\' Notice "piaciuta" ends in "-a" because "la fotografia" — literally photography, and in film the cinematography — is feminine.'
+    ]),
+    (4, None, [
+        '\'Very much.\' Alessandro tries to flatter his elder with a polite single-word "molto", and walks straight into a trap.'
+    ]),
+    (5, None, [
+        '\'You do not understand anything.\' "Capisci" comes from "capire", "to understand", paired once again with "non" and "niente".'
+    ]),
+    (6, None, [
+        '\'The cinematography is awful.\' "Fa schifo" literally says "it makes disgust", the punchiest everyday Italian way to say something stinks.'
+    ]),
+    (7, None, [
+        '\'Do you know why it is awful?\' Adding little "lo" before "sai" literally asks "do you know it, why...", a very natural Italian rhythm.'
+    ]),
+    (8, None, [
+        '\'I do not know.\' In English "I don\'t know" needs no object, whereas Italian almost always keeps "lo" for "it": "non lo so".'
+    ]),
+    (9, None, [
+        '\'Because that is how they want it.\' Placing "loro", "they", at the very end throws extra weight onto the shadowy network bosses: "they" are the ones who want it bad.'
+    ]),
+    (10, None, [
+        '\'The cinematography must not be prettier than the commercials.\' "Piu bella" builds "prettier" with "piu", "more", and "la pubblicita" covers advertising and TV commercials.'
+    ]),
+    (11, None, [
+        '\'Otherwise people change the channel.\' "Se no" — literally "if not" — means "otherwise". Also notice "la gente", "people", is singular in Italian, so it takes "cambia".'
+    ]),
+    (12, None, [
+        '\'They have thought of everything.\' Unlike English "think of", Italian links "pensare" with "a": "pensare a tutto".'
+    ]),
+    (13, None, [
+        '\'Arianna wanted to know about the scene...\' Once again Alessandro uses gentle past-time "voleva", "wanted", to soften an awkward question.'
+    ]),
+    (14, None, [
+        '\'Send Arianna away.\' "Mandare via" pairs "mandare", "to send", with "via", "away" — Duccio has zero intention of rushing back to set.'
+    ]),
 ]
+

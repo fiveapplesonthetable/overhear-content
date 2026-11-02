@@ -40,17 +40,44 @@ STORY = [
     ('arianna', 'Non fa niente, grazie. Vai!', 'Never mind, thanks. Go!', [(289, 'Non fa niente, grazie'), (290, 'Vai')], ''),
 ]
 WALK = [
-    (0, None, "'Listen, come with me. Do you know how to play foosball?' \"Sapere\" before an action means knowing how to do a skill, and \"il biliardino\" — literally \"little billiards\" — is table football."),
-    (1, None, "'I am a natural!' Literally \"I am a dragon!\" Calling yourself \"un drago\" is a playful, colloquial brag for being brilliant at a game."),
-    (2, None, "'You are a legend! Are you married or in a relationship?' \"Sei un grande\" literally calls someone \"a big one\", while \"fidanzato\" covers both a boyfriend and a fiance."),
-    (3, None, "'In a relationship, though she lives in Milan.' Here \"sta\" from \"stare\" means \"lives\" or \"is based\", a very common Roman and everyday Italian shortcut for \"abita\"."),
-    (4, None, "'What is your name?' \"Come ti chiami?\" literally asks \"how do you call yourself?\", the essential casual question when meeting someone new."),
-    (5, None, "'Alessandro.' Even after asking, Biascica immediately forgets the name in the show and calls him someone else two seconds later."),
-    (6, None, "'Let us play, you stay in goal.' In football and foosball alike, \"la porta\" — literally \"the door\" — means the goal, so \"stare in porta\" puts Alessandro on defence."),
-    (7, None, "'Write in the production log: filming suspended due to the network.' Arianna dictates clipped telegraphic notes: \"causa rete\" drops all little linking words to say \"because of the network\"."),
-    (8, None, "'Go to Duccio and ask how long it takes him for scene one seventy.' Notice \"da Duccio\": when going to a person's place or workstation, Italian uses \"da\" rather than \"a\"."),
-    (9, None, "'Leave him, I need him, he has to stay in goal!' \"Mi serve\" works backwards from English: Alessandro is the one who \"is useful to me\", meaning \"I need him\"."),
-    (10, None, "'Duccio, one seventy.' Arianna ignores Biascica and boils her order down to two words: the person to find and the scene number."),
-    (11, None, "'Yes, I am Alessandro.' Poor Alessandro tries one more time to get Arianna to learn his actual name."),
-    (12, None, "'Never mind, thanks. Go!' Arianna repeats the exact brush-off from earlier, \"non fa niente\", and shoos him out the door with \"vai!\"."),
+    (0, None, [
+        '\'Listen, come with me. Do you know how to play foosball?\' "Sapere" before an action means knowing how to do a skill, and "il biliardino" — literally "little billiards" — is table football.'
+    ]),
+    (1, None, [
+        '\'I am a natural!\' Literally "I am a dragon!" Calling yourself "un drago" is a playful, colloquial brag for being brilliant at a game.'
+    ]),
+    (2, None, [
+        '\'You are a legend! Are you married or in a relationship?\' "Sei un grande" literally calls someone "a big one", while "fidanzato" covers both a boyfriend and a fiance.'
+    ]),
+    (3, None, [
+        '\'In a relationship, though she lives in Milan.\' Here "sta" from "stare" means "lives" or "is based", a very common Roman and everyday Italian shortcut for "abita".'
+    ]),
+    (4, None, [
+        '\'What is your name?\' "Come ti chiami?" literally asks "how do you call yourself?", the essential casual question when meeting someone new.'
+    ]),
+    (5, None, [
+        "'Alessandro.' Even after asking, Biascica immediately forgets the name in the show and calls him someone else two seconds later."
+    ]),
+    (6, None, [
+        '\'Let us play, you stay in goal.\' In football and foosball alike, "la porta" — literally "the door" — means the goal, so "stare in porta" puts Alessandro on defence.'
+    ]),
+    (7, None, [
+        '\'Write in the production log: filming suspended due to the network.\' Arianna dictates clipped telegraphic notes: "causa rete" drops all little linking words to say "because of the network".'
+    ]),
+    (8, None, [
+        '\'Go to Duccio and ask how long it takes him for scene one seventy.\' Notice "da Duccio": when going to a person\'s place or workstation, Italian uses "da" rather than "a".'
+    ]),
+    (9, None, [
+        '\'Leave him, I need him, he has to stay in goal!\' "Mi serve" works backwards from English: Alessandro is the one who "is useful to me", meaning "I need him".'
+    ]),
+    (10, None, [
+        "'Duccio, one seventy.' Arianna ignores Biascica and boils her order down to two words: the person to find and the scene number."
+    ]),
+    (11, None, [
+        "'Yes, I am Alessandro.' Poor Alessandro tries one more time to get Arianna to learn his actual name."
+    ]),
+    (12, None, [
+        '\'Never mind, thanks. Go!\' Arianna repeats the exact brush-off from earlier, "non fa niente", and shoos him out the door with "vai!".'
+    ]),
 ]
+

@@ -34,23 +34,91 @@ STORY = [
 OPENER = "Muranishi swings from formal apologies to bold sales claims—and walks right into trouble on the final line. Let's inspect each piece."
 
 WALK = [
-    (1, None, "'Please forgive my rudeness.' When casual \"suimasen\" is not nearly polite enough, \"shitsurei itashimashita\" literally says 'I humbly committed a rudeness'—the gold-standard business apology."),
-    (2, None, "'Hurry up and explain it.' \"Setsumei\" means explanation, and turning \"suru\" into \"shiro yo\" barks 'explain it now!'"),
-    (3, None, "'Yes! Sir, it looks truly beautiful on you.' Addressing the man of the house respectfully as \"goshujin\", Muranishi leans on \"totemo\", very, plus English \"byuutifoo\"."),
-    (4, None, "'With its special aura, it is truly one of a kind.' Notice homegrown Japanese English \"onrii wan\", from 'only one'! Where English says 'one of a kind' or 'unique', Japanese loves \"onrii wan\"."),
-    (5, None, "'Maybe you are right.' \"Sou kamo na\" packs \"sou\", so, with \"kamo\", short for \"kamoshirenai\", maybe—showing the flattery just melted Nakai's guard."),
-    (7, None, "'That is right where this encyclopedia comes in handy.' \"Yaku ni tatsu\" literally means 'stand in service', the everyday expression for being useful or helpful."),
-    (8, None, "'Love, good, hello—you just memorize short words like these.' Hear how English 'love', 'good', and 'hello' become \"rabu\", \"guddo\", and \"haroo\" in Japanese syllables, followed by \"mijikai\", short, and \"oboeru\", to memorize."),
-    (9, None, "'With just that, you can speak with foreigners.' \"Gaikokujin\" combines \"gaikoku\", outside country, with \"jin\", person. Adding \"koto ga dekimasu\" after \"hanasu\", to speak, states politely 'you are able to speak'."),
-    (10, None, "'If it is just those three, even I could probably learn them.' \"Mittsu\" counts three things using native Japanese counting, and attaching \"sou\" onto \"oboerareru\", can memorize, expresses 'looks like I could'."),
-    (11, None, "'Because even a grade-schooler can learn them!' \"Shougakusei\" means an elementary-school child, and \"demo\" here means 'even'—a well-meant reassurance that accidentally insults the boss!"),
+    (1, None, [
+        '"\'Please forgive my rudeness.\' When the casual word for sorry is not nearly polite enough, " Pay attention to ',
+        (None, "失礼いたしました。"),
+        " literally says 'I humbly committed a rudeness'—the gold-standard business apology."
+    ]),
+    (2, None, [
+        '"\'Hurry up and explain it.\' As a noun, the word for explanation is " In this line, ',
+        (None, "説明。"),
+        ", and turning the verb to do into ",
+        (None, "しろよ。"),
+        " barks 'explain it now!'"
+    ]),
+    (3, None, [
+        '"\'Yes! Sir, it looks truly beautiful on you.\' Addressing the man of the house respectfully as " The phrase contains ',
+        (None, "ご主人。"),
+        ", Muranishi leans on ",
+        (None, "とても。"),
+        ", very, plus English ",
+        (None, "ビューティフォー。"),
+        "."
+    ]),
+    (4, None, [
+        '"\'With its special aura, it is truly one of a kind.\' Notice homegrown Japanese English " Here, the word ',
+        (None, "オンリーワン。"),
+        ", from 'only one'! Where English says 'one of a kind' or 'unique', Japanese loves ",
+        (None, "オンリーワン。"),
+        "."
+    ]),
+    (5, None, [
+        '"\'Maybe you are right.\' This response, " Focus on ',
+        (None, "そうかもな。"),
+        ", packs ",
+        (None, "そう。"),
+        ", so, with ",
+        (None, "かも。"),
+        ", short for maybe—showing the flattery just melted Nakai's guard."
+    ]),
+    (7, None, [
+        '"\'That is right where this encyclopedia comes in handy.\' In everyday speech, the phrase for being useful is " You can catch ',
+        (None, "役に立ちます。"),
+        ", which literally means 'stand in service'."
+    ]),
+    (8, None, [
+        '"\'Love, good, hello—you just memorize short words like these.\' Hear how English \'love\', \'good\', and \'hello\' become " It features ',
+        (None, "ラブ。"),
+        ", ",
+        (None, "グッド。"),
+        ", and ",
+        (None, "ハロー。"),
+        " in Japanese syllables, followed by ",
+        (None, "短い。"),
+        ", short, and ",
+        (None, "覚える。"),
+        ", to memorize."
+    ]),
+    (9, None, [
+        '"\'With just that, you can speak with foreigners.\' The word for foreigner is " The word ',
+        (None, "外国人。"),
+        ", which combines outside country with person. Adding ",
+        (None, "ことができます。"),
+        " after ",
+        (None, "話す。"),
+        ", to speak, states politely 'you are able to speak'."
+    ]),
+    (10, None, [
+        '"\'If it is just those three, even I could probably learn them.\' By itself, the word for three things is " Starting off with ',
+        (None, "三つ。"),
+        ", using native Japanese counting, and attaching the suffix for appearance onto the verb can memorize, forming ",
+        (None, "覚えられそう。"),
+        ", expresses 'looks like I could'."
+    ]),
+    (11, None, [
+        '"\'Because even a grade-schooler can learn them!\' The word for an elementary-school child is " Pay attention to ',
+        (None, "小学生。"),
+        ", and ",
+        (None, "でも。"),
+        " here means 'even'—a well-meant reassurance that accidentally insults the boss!"
+    ]),
 ]
 
 TRANSITION = "Now let's listen to Muranishi's high-stakes tatami pitch again."
 
 OUTRO = (
-    "Keep \"shitsurei itashimashita\" for formal apologies, \"yaku ni tatsu\" when something comes in handy, "
-    "and \"hanasu koto ga dekimasu\" to talk about languages you can speak. "
+    "Keep the formal phrase for apologies, the expression when something comes in handy, "
+    "and the polite phrasing to talk about languages you can speak. "
     "Let's see how Muranishi rescues himself in scene fourteen."
 )
 

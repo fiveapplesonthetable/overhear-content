@@ -32,27 +32,72 @@ STORY = [
     ('kacho', '小野から学んで結果を出せ。', 'Learn from Ono and get results.', [(82, '学んで結果を出せ')], 'Replaced pronoun あいつ with Ono by name.'),
 ]
 
-OPENER = "Watch how Muranishi stays polite with \"masu\" and \"desu\" while his boss speaks down to him in plain, clipped endings."
+OPENER = "Watch how Muranishi stays polite with 'masu' and 'desu' while his boss speaks down to him in plain, clipped endings."
 
 WALK = [
-    (0, None, "'Muranishi, a moment.' Calling someone's surname followed by \"chotto\", a little bit, is the classic office signal for 'step over here a second'."),
-    (2, None, "'Zero contracts again?' \"Mata\" means again, \"keiyaku\" is a business contract, and \"zero\" is borrowed straight from English. Ending with sharp \"ka\" snaps the question shut."),
-    (3, None, "'Maybe it is the effect of the recession.' \"Fukeiki\" combines \"fu\", non-, with \"keiki\", economic mood, giving 'recession'. Tacking \"desu ka ne\" onto the end softens his excuse into 'could it be... I wonder?'"),
-    (4, '違うよ。', "'Wrong.' Literally \"chigau\" means 'it differs', and Japanese speakers reach for it constantly to say 'no, that is wrong' or 'not at all'."),
-    (5, None, "'You do not need to come in starting next month.' \"Raigetsu\" means next month, followed by \"kara\", from. \"Konakute ii\" links negative \"konai\", not come, to \"ii\", good—a cold boss's way of saying 'do not bother coming back'."),
-    (6, 'それは困りますよ。', "'That puts me in a bind.' \"Komarimasu\" comes from \"komaru\", to be troubled or stuck. Whenever a rule or schedule causes a problem, \"sore wa komarimasu\" politely pushes back without sounding rude."),
-    (6, '家族がいるんで。', "'I have a family.' \"Kazoku\" is family, and living people take \"iru\", to exist, rather than \"aru\". Softening \"node\", because, into \"nde\" leaves his plea hanging politely."),
-    (7, None, "'You really are a strange guy.' \"Fushigi\" means mysterious or baffling, and rough \"yatsu\" means guy or fellow."),
-    (9, None, "'I am not praising you!' \"Homete nai yo\" comes from \"homeru\", to praise—a key word that will soon transform Muranishi's entire sales career."),
-    (10, None, "'My father taught me to live positively.' \"Maemuki\" literally faces \"mae\", forward, so it means positive or upbeat. \"Chichi\" is the humble word you use when speaking about your own father to outsiders."),
-    (11, None, "'Learn from Ono and get results.' \"Manande\" connects \"manabu\", to learn, into the blunt command \"kekka o dase\", literally 'put out results!'"),
+    (0, None, [
+        '"\'Muranishi, a moment.\' Calling someone\'s surname followed by " Notice how ',
+        (None, "ちょっと"), ", a little bit, this word is the classic office signal for 'step over here a second'."
+    ]),
+    (2, None, [
+        "'Zero contracts again?'  Check out ",
+        (None, "また"), " this word means again, ",
+        (None, "契約"), " this word is a business contract, and ",
+        (None, "ゼロ"), " is borrowed straight from English. Ending with the sharp ",
+        (None, "か"), " snaps the question shut."
+    ]),
+    (3, None, [
+        "'Maybe it is the effect of the recession.'  The word ",
+        (None, "不景気"), " combines the prefix for non- with the word for economic mood, giving 'recession'. Tacking ",
+        (None, "ですかね"), " onto the end softens his excuse into 'could it be... I wonder?'"
+    ]),
+    (4, '違うよ。', [
+        '"\'Wrong.\' Literally " Here, the word ',
+        (None, "違う"), " this word means 'it differs', and speakers reach for it constantly to say 'no, that is wrong' or 'not at all'."
+    ]),
+    (5, None, [
+        "'You do not need to come in starting next month.'  The character says ",
+        (None, "来月"), " this word means next month, followed by ",
+        (None, "から"), ", from. ",
+        (None, "来なくていい"), " links the negative form for not come to the word for good—a cold boss's way of saying 'do not bother coming back'."
+    ]),
+    (6, 'それは困りますよ。', [
+        "'That puts me in a bind.'  It features ",
+        (None, "困ります"), " comes from the verb meaning to be troubled or stuck. Whenever a rule or schedule causes a problem, ",
+        (None, "それは困りますよ"), " politely pushes back without sounding rude."
+    ]),
+    (6, '家族がいるんで。', [
+        "'I have a family.'  Here, the word ",
+        (None, "家族"), " is family, and living people take ",
+        (None, "いる"), ", to exist. Softening the word for because into ",
+        (None, "んで"), " leaves his plea hanging politely."
+    ]),
+    (7, None, [
+        "'You really are a strange guy.'  Listen for ",
+        (None, "不思議"), " this word means mysterious or baffling, and the rough ",
+        (None, "やつ"), " this word means guy or fellow."
+    ]),
+    (9, None, [
+        "'I am not praising you!'  Starting off with ",
+        (None, "褒めてないよ"), " comes from the verb to praise—a key word that will soon transform Muranishi's entire sales career."
+    ]),
+    (10, None, [
+        "'My father taught me to live positively.'  Notice how ",
+        (None, "前向き"), " literally faces forward, so it this word means positive or upbeat. ",
+        (None, "父"), " this word is the humble word you use when speaking about your own father to outsiders."
+    ]),
+    (11, None, [
+        "'Learn from Ono and get results.'  The speaker uses ",
+        (None, "学んで"), " connects the verb for learn into the blunt command ",
+        (None, "結果を出せ"), ", literally 'put out results!'"
+    ]),
 ]
 
 TRANSITION = "Now let's listen to the whole office scolding again."
 
 OUTRO = (
-    "Keep \"chigau\" handy for 'that is wrong', \"komarimasu\" when something causes trouble, "
-    "and \"kazoku ga iru\" to talk about having family. "
+    "Keep the phrase for 'that is wrong' handy, express being troubled when something causes problems, "
+    "and remember how to talk about having family. "
     "See you next time."
 )
 

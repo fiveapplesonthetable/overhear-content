@@ -41,18 +41,47 @@ STORY = [
     ('corinna', 'Il dottor Cane mi ha detto che potevo dire quello che volevo.', 'Doctor Cane told me that I could say whatever I wanted.', [(241, 'il dottor Cane'), (242, 'mi ha detto'), (242, 'che potevo dire quello che volevo')], ''),
 ]
 WALK = [
-    (0, None, "'The Eyes of the Heart two, one sixty-eight first take. Action!' \"Occhi del cuore\" literally means \"Eyes of the Heart\", the melodramatic soap they are filming, and \"azione\" kicks off the take."),
-    (1, None, "'Sometimes I feel like starting everything all over again.' \"Avere voglia di\" means \"to feel like\" doing something, and \"da capo\" — literally \"from the head\" — is the same musical phrase English borrowed for \"from the top\"."),
-    (2, None, "'Going to a new place, where nobody knows me.' Notice how \"un luogo nuovo\" puts \"nuovo\", \"new\", after \"luogo\", \"place\", the default Italian order for descriptive words."),
-    (3, None, "'I do not know, changing cities.' Like \"caffe\", \"citta\" ends in an accented vowel, so it stays identical whether you change one city or several."),
-    (4, None, "'I know this feeling. It is called growing up.' \"Si chiama\" literally says \"calls itself\", used both for introducing people and for naming an idea like \"crescere\", growing up."),
-    (5, None, "'I am twenty-four years old.' Where English says you \"are\" an age, Italian says you \"have\" those years: \"ho ventiquattro anni\"."),
-    (6, None, "'Stop! Thirty-four you must say, thirty-four years old!' Rene explodes from behind the monitor, fronting \"trentaquattro\" to hammer home the ten missing years."),
-    (7, None, "'No, excuse me all, but I am not saying it.' Addressing the whole crew, Corinna switches from singular \"scusa\" to plural \"scusate\", and \"la\" stands in for \"la battuta\", the line."),
-    (8, None, "'What do you mean you are not saying it? Come on, let us redo it.' Opening a question with \"ma come\" expresses disbelief — \"what do you mean?\" — while \"rifacciamola\" packs \"let's do it again\" into one word."),
-    (9, None, "'No, you cannot force me.' Again Corinna addresses the crew as plural \"voi\" with \"potete\", hooking \"mi\" for \"me\" onto the end of \"obbligare\", \"to force\"."),
-    (10, None, "'Everyone guesses twenty-four for me, so I am twenty-four.' Idiomatic gold: \"dare ventiquattro anni a qualcuno\" literally \"gives\" someone twenty-four years, meaning people guess that age when they look at her."),
-    (11, None, "'Sorry Corinna, there is a script.' \"C'e\" squeezes \"ci e\" together for \"there is\", and \"il copione\" is the everyday theatre and film word for a script."),
-    (12, None, "'Scripts get changed. I spoke with the network.' Here \"la rete\" literally means \"the net\", and in television it means \"the broadcast network\"."),
-    (13, None, "'Doctor Cane told me that I could say whatever I wanted.' \"Quello che\" is the clean everyday chunk for \"what\" or \"whatever\" in the middle of a sentence: \"quello che volevo\", whatever I wanted."),
+    (0, None, [
+        '\'The Eyes of the Heart two, one sixty-eight first take. Action!\' "Occhi del cuore" literally means "Eyes of the Heart", the melodramatic soap they are filming, and "azione" kicks off the take.'
+    ]),
+    (1, None, [
+        '\'Sometimes I feel like starting everything all over again.\' "Avere voglia di" means "to feel like" doing something, and "da capo" — literally "from the head" — is the same musical phrase English borrowed for "from the top".'
+    ]),
+    (2, None, [
+        '\'Going to a new place, where nobody knows me.\' Notice how "un luogo nuovo" puts "nuovo", "new", after "luogo", "place", the default Italian order for descriptive words.'
+    ]),
+    (3, None, [
+        '\'I do not know, changing cities.\' Like "caffe", "citta" ends in an accented vowel, so it stays identical whether you change one city or several.'
+    ]),
+    (4, None, [
+        '\'I know this feeling. It is called growing up.\' "Si chiama" literally says "calls itself", used both for introducing people and for naming an idea like "crescere", growing up.'
+    ]),
+    (5, None, [
+        '\'I am twenty-four years old.\' Where English says you "are" an age, Italian says you "have" those years: "ho ventiquattro anni".'
+    ]),
+    (6, None, [
+        '\'Stop! Thirty-four you must say, thirty-four years old!\' Rene explodes from behind the monitor, fronting "trentaquattro" to hammer home the ten missing years.'
+    ]),
+    (7, None, [
+        '\'No, excuse me all, but I am not saying it.\' Addressing the whole crew, Corinna switches from singular "scusa" to plural "scusate", and "la" stands in for "la battuta", the line.'
+    ]),
+    (8, None, [
+        '\'What do you mean you are not saying it? Come on, let us redo it.\' Opening a question with "ma come" expresses disbelief — "what do you mean?" — while "rifacciamola" packs "let\'s do it again" into one word.'
+    ]),
+    (9, None, [
+        '\'No, you cannot force me.\' Again Corinna addresses the crew as plural "voi" with "potete", hooking "mi" for "me" onto the end of "obbligare", "to force".'
+    ]),
+    (10, None, [
+        '\'Everyone guesses twenty-four for me, so I am twenty-four.\' Idiomatic gold: "dare ventiquattro anni a qualcuno" literally "gives" someone twenty-four years, meaning people guess that age when they look at her.'
+    ]),
+    (11, None, [
+        '\'Sorry Corinna, there is a script.\' "C\'e" squeezes "ci e" together for "there is", and "il copione" is the everyday theatre and film word for a script.'
+    ]),
+    (12, None, [
+        '\'Scripts get changed. I spoke with the network.\' Here "la rete" literally means "the net", and in television it means "the broadcast network".'
+    ]),
+    (13, None, [
+        '\'Doctor Cane told me that I could say whatever I wanted.\' "Quello che" is the clean everyday chunk for "what" or "whatever" in the middle of a sentence: "quello che volevo", whatever I wanted.'
+    ]),
 ]
+

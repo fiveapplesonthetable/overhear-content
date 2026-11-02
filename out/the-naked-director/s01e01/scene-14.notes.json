@@ -512,7 +512,7 @@
       "trans": "For example?",
       "words": [
         {
-          "t": "例えば",
+          "t": "例えば？",
           "lemma": "例えば",
           "pos": "adv",
           "stress": null,
@@ -520,7 +520,7 @@
           "gram": "adverb",
           "span": [
             0,
-            3
+            4
           ],
           "reading": "タトエバ"
         }
@@ -815,7 +815,7 @@
       "trans": "You two!",
       "words": [
         {
-          "t": "あんたたち",
+          "t": "あんたたち！",
           "lemma": "あんたたち",
           "pos": "pron",
           "stress": null,
@@ -823,7 +823,7 @@
           "gram": "casual plural pronoun",
           "span": [
             0,
-            5
+            6
           ],
           "reading": "アンタタチ"
         }
@@ -1012,7 +1012,7 @@
     },
     {
       "seg": 14,
-      "trans": "Perish the thought!",
+      "trans": "absurd; unthinkable / even / be (polite) / polite suffix / not",
       "words": [
         {
           "t": "めっそう",
@@ -1083,7 +1083,26 @@
     },
     {
       "seg": 16,
-      "trans": "There is one more reason I recommend it.",
+      "trans": "absurd; unthinkable",
+      "words": [
+        {
+          "t": "めっそう",
+          "lemma": "めっそう",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "absurd; unthinkable",
+          "gram": "na-adjective",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "メッソウ"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "recommendation / do / reason / subject marker / more; another / one (thing) / exist; have / polite suffix",
       "words": [
         {
           "t": "お薦め",
@@ -1192,7 +1211,58 @@
       ]
     },
     {
-      "seg": 18,
+      "seg": 20,
+      "trans": "recommendation",
+      "words": [
+        {
+          "t": "お薦め",
+          "lemma": "お薦め",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "recommendation",
+          "gram": "verbal noun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "オススメ"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "more; another / one (thing)",
+      "words": [
+        {
+          "t": "もう",
+          "lemma": "もう",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "more; another",
+          "gram": "adverb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "モウ"
+        },
+        {
+          "t": "一つ",
+          "lemma": "一つ",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one (thing)",
+          "gram": "native counter",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ヒトツ"
+        }
+      ]
+    },
+    {
+      "seg": 24,
       "trans": "If you memorize and use the words written here, you'll be fine.",
       "words": [
         {
@@ -1367,11 +1437,178 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 26,
+      "trans": "here / in; on / be written / te-form particle / be (state)",
+      "words": [
+        {
+          "t": "ここ",
+          "lemma": "ここ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "here",
+          "gram": "demonstrative pronoun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ココ"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; on",
+          "gram": "locative particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "書かれ",
+          "lemma": "書く",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be written",
+          "gram": "passive, continuative",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "カカレ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "te-form particle",
+          "gram": "conjunctive particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "いる",
+          "lemma": "いる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be (state)",
+          "gram": "progressive/resultative auxiliary",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "イル"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "memorize; learn / te-form particle",
+      "words": [
+        {
+          "t": "覚え",
+          "lemma": "覚える",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "memorize; learn",
+          "gram": "ichidan verb, continuative",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "オボエ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "te-form particle",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        }
+      ]
+    },
+    {
+      "seg": 30,
+      "trans": "use / if",
+      "words": [
+        {
+          "t": "使え",
+          "lemma": "使う",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "use",
+          "gram": "godan verb, hypothetical stem",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ツカエ"
+        },
+        {
+          "t": "ば",
+          "lemma": "ば",
+          "pos": "part",
+          "stress": null,
+          "gloss": "if",
+          "gram": "conditional particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "バ"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "okay; all right / be; is (polite)",
+      "words": [
+        {
+          "t": "大丈夫",
+          "lemma": "大丈夫",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "okay; all right",
+          "gram": "na-adjective",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ダイジョウブ"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be; is (polite)",
+          "gram": "polite copula",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "デス"
+        }
+      ]
+    },
+    {
+      "seg": 33,
       "trans": "For example?",
       "words": [
         {
-          "t": "例えば",
+          "t": "例えば？",
           "lemma": "例えば",
           "pos": "adv",
           "stress": null,
@@ -1379,15 +1616,34 @@
           "gram": "adverb",
           "span": [
             0,
-            3
+            4
           ],
           "reading": "タトエバ"
         }
       ]
     },
     {
-      "seg": 22,
-      "trans": "If that's all it takes, even I can say it.",
+      "seg": 35,
+      "trans": "For example?",
+      "words": [
+        {
+          "t": "例えば？",
+          "lemma": "例えば",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "for example",
+          "gram": "adverb",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "タトエバ"
+        }
+      ]
+    },
+    {
+      "seg": 37,
+      "trans": "that / be / if / I; me / also; too / be able to say / emphasis particle",
       "words": [
         {
           "t": "それ",
@@ -1483,7 +1739,90 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 39,
+      "trans": "that / be / if",
+      "words": [
+        {
+          "t": "それ",
+          "lemma": "それ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "that",
+          "gram": "demonstrative pronoun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ソレ"
+        },
+        {
+          "t": "だっ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be",
+          "gram": "plain copula, ta-stem",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ダッ"
+        },
+        {
+          "t": "たら",
+          "lemma": "たら",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "if",
+          "gram": "conditional conjunction",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "タラ"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "be able to say",
+      "words": [
+        {
+          "t": "言える",
+          "lemma": "言う",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be able to say",
+          "gram": "potential, dictionary form",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "イエル"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "emphasis particle",
+      "words": [
+        {
+          "t": "ぜ",
+          "lemma": "ぜ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis particle",
+          "gram": "casual masculine sentence-ending particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ゼ"
+        }
+      ]
+    },
+    {
+      "seg": 45,
       "trans": "That is perfection!",
       "words": [
         {
@@ -1541,11 +1880,75 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 47,
+      "trans": "perfect",
+      "words": [
+        {
+          "t": "パーフェクト",
+          "lemma": "パーフェクト",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "perfect",
+          "gram": "na-adjective (loanword)",
+          "span": [
+            0,
+            6
+          ],
+          "reading": "パーフェクト"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "be / be (polite) / polite suffix",
+      "words": [
+        {
+          "t": "で",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be",
+          "gram": "te-form of copula だ",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "デ"
+        },
+        {
+          "t": "ござい",
+          "lemma": "ござる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be (polite)",
+          "gram": "polite auxiliary, masu-stem",
+          "span": [
+            1,
+            4
+          ],
+          "reading": "ゴザイ"
+        },
+        {
+          "t": "ます",
+          "lemma": "ます",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "マス"
+        }
+      ]
+    },
+    {
+      "seg": 51,
       "trans": "You two!",
       "words": [
         {
-          "t": "あんたたち",
+          "t": "あんたたち！",
           "lemma": "あんたたち",
           "pos": "pron",
           "stress": null,
@@ -1553,14 +1956,71 @@
           "gram": "casual plural pronoun",
           "span": [
             0,
-            5
+            6
           ],
           "reading": "アンタタチ"
         }
       ]
     },
     {
-      "seg": 28,
+      "seg": 53,
+      "trans": "You two!",
+      "words": [
+        {
+          "t": "あんたたち！",
+          "lemma": "あんたたち",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you guys; you lot",
+          "gram": "casual plural pronoun",
+          "span": [
+            0,
+            6
+          ],
+          "reading": "アンタタチ"
+        }
+      ]
+    },
+    {
+      "seg": 55,
+      "trans": "you guys; you lot",
+      "words": [
+        {
+          "t": "あんた",
+          "lemma": "あんた",
+          "pos": "name",
+          "stress": null,
+          "gloss": "you guys; you lot",
+          "gram": "casual plural pronoun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "アンタタチ"
+        }
+      ]
+    },
+    {
+      "seg": 57,
+      "trans": "you guys; you lot",
+      "words": [
+        {
+          "t": "たち",
+          "lemma": "たち",
+          "pos": "name",
+          "stress": null,
+          "gloss": "you guys; you lot",
+          "gram": "casual plural pronoun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "アンタタチ"
+        }
+      ]
+    },
+    {
+      "seg": 58,
       "trans": "Madam, starting tomorrow your husband will be an English master.",
       "words": [
         {
@@ -1683,7 +2143,45 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 60,
+      "trans": "madam; wife (honorific)",
+      "words": [
+        {
+          "t": "奥様",
+          "lemma": "奥様",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "madam; wife (honorific)",
+          "gram": "honorific noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "オクサマ"
+        }
+      ]
+    },
+    {
+      "seg": 62,
+      "trans": "husband; master",
+      "words": [
+        {
+          "t": "ご主人",
+          "lemma": "ご主人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "husband; master",
+          "gram": "honorific noun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ゴシュジン"
+        }
+      ]
+    },
+    {
+      "seg": 64,
       "trans": "May I buy it?",
       "words": [
         {
@@ -1741,7 +2239,97 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 66,
+      "trans": "May I buy it?",
+      "words": [
+        {
+          "t": "買っ",
+          "lemma": "買う",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "buy",
+          "gram": "godan verb, te-stem",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カッ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "te-form particle",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "pos": "part",
+          "stress": null,
+          "gloss": "even if",
+          "gram": "concessive particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "モ"
+        },
+        {
+          "t": "いい",
+          "lemma": "いい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good; okay",
+          "gram": "i-adjective (てもいい = may)",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "イイ"
+        }
+      ]
+    },
+    {
+      "seg": 68,
+      "trans": "even if / good; okay",
+      "words": [
+        {
+          "t": "も",
+          "lemma": "も",
+          "pos": "part",
+          "stress": null,
+          "gloss": "even if",
+          "gram": "concessive particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "モ"
+        },
+        {
+          "t": "いい",
+          "lemma": "いい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good; okay",
+          "gram": "i-adjective (てもいい = may)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "イイ"
+        }
+      ]
+    },
+    {
+      "seg": 70,
       "trans": "Perish the thought! There is one more reason I recommend it.",
       "words": [
         {
@@ -1916,7 +2504,7 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 71,
       "trans": "What is it?",
       "words": [
         {
@@ -1948,7 +2536,7 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 72,
       "trans": "You can communicate with love.",
       "words": [
         {
@@ -2071,7 +2659,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 73,
       "trans": "If you memorize and use the words written here, you'll be fine.",
       "words": [
         {
@@ -2246,11 +2834,11 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 74,
       "trans": "For example?",
       "words": [
         {
-          "t": "例えば",
+          "t": "例えば？",
           "lemma": "例えば",
           "pos": "adv",
           "stress": null,
@@ -2258,14 +2846,14 @@
           "gram": "adverb",
           "span": [
             0,
-            3
+            4
           ],
           "reading": "タトエバ"
         }
       ]
     },
     {
-      "seg": 37,
+      "seg": 75,
       "trans": "Simply, 'Oh, good, good!'",
       "words": [
         {
@@ -2336,7 +2924,7 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 76,
       "trans": "If that's all it takes, even I can say it. Good!",
       "words": [
         {
@@ -2446,7 +3034,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 77,
       "trans": "That is perfection!",
       "words": [
         {
@@ -2504,7 +3092,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 78,
       "trans": "Hello! Love! Good!",
       "words": [
         {
@@ -2549,11 +3137,11 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 79,
       "trans": "You two!",
       "words": [
         {
-          "t": "あんたたち",
+          "t": "あんたたち！",
           "lemma": "あんたたち",
           "pos": "pron",
           "stress": null,
@@ -2561,14 +3149,14 @@
           "gram": "casual plural pronoun",
           "span": [
             0,
-            5
+            6
           ],
           "reading": "アンタタチ"
         }
       ]
     },
     {
-      "seg": 42,
+      "seg": 80,
       "trans": "Madam, starting tomorrow your husband will be an English master.",
       "words": [
         {
@@ -2691,7 +3279,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 81,
       "trans": "May I buy it?",
       "words": [
         {
@@ -2749,86 +3337,21 @@
       ]
     },
     {
-      "seg": 45,
-      "trans": "Thank you very much! Let's meet again.",
+      "seg": 83,
+      "trans": "Translation.",
       "words": [
         {
-          "t": "ありがとう",
-          "lemma": "ありがとう",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "thank you",
-          "gram": "interjection",
+          "t": "ありがとうございます、また会いましょう。",
+          "lemma": "ありがとうございます、また会いましょう。",
+          "pos": "noun",
+          "gloss": "closing",
+          "gram": "closing",
           "span": [
             0,
-            5
+            20
           ],
-          "reading": "アリガトウ"
-        },
-        {
-          "t": "ござい",
-          "lemma": "ござる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be (polite)",
-          "gram": "polite auxiliary, masu-stem",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "ゴザイ"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "polite suffix",
-          "gram": "polite auxiliary",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "マス"
-        },
-        {
-          "t": "また",
-          "lemma": "また",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "again",
-          "gram": "adverb",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "マタ"
-        },
-        {
-          "t": "会い",
-          "lemma": "会う",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "meet; see",
-          "gram": "godan verb, masu-stem",
-          "span": [
-            13,
-            15
-          ],
-          "reading": "アイ"
-        },
-        {
-          "t": "ましょう",
-          "lemma": "ます",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "let's (polite)",
-          "gram": "polite volitional",
-          "span": [
-            15,
-            19
-          ],
-          "reading": "マショウ"
+          "reading": "ありがとうございます、また会いましょう。",
+          "stress": null
         }
       ]
     }
@@ -4554,6 +5077,31 @@
           "trans": "At this price, we can buy it."
         }
       ],
+      "related": []
+    },
+    "ありがとうございます、また会いましょう。": {
+      "lemma": "ありがとうございます、また会いましょう。",
+      "pos": "phrase",
+      "gloss": "closing phrase",
+      "meanings": [
+        {
+          "en": "closing phrase",
+          "note": ""
+        }
+      ],
+      "examples": [
+        {
+          "text": "ありがとうございます、また会いましょう。",
+          "trans": "Closing phrase."
+        },
+        {
+          "text": "ありがとうございます、また会いましょう。",
+          "trans": "Closing phrase."
+        }
+      ],
+      "stress": null,
+      "forms": null,
+      "moreForms": [],
       "related": []
     }
   }

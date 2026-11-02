@@ -42,19 +42,50 @@ STORY = [
     ('alessandro', 'Forza Roma!', 'Go Roma!', [(116, 'Forza Roma')], ''),
 ]
 WALK = [
-    (0, None, "'I remind you all that there is no smoking on set.' \"Non si fuma\" literally says \"one does not smoke\", the exact phrasing you will see on \"No smoking\" signs across Italy."),
-    (1, None, "'First: you never speak.' Just as in the first scene, \"non\" before \"parli\" pairs up with \"mai\", meaning \"never\", after it."),
-    (2, None, "'Second: if I tell you something, you do it and that is all.' Adding \"e basta\" at the end literally means \"and enough\", shutting down any argument on the spot."),
-    (3, None, "'Third: you are a machine, you are a ferret.' Arianna counts off \"primo, secondo, terzo\" for \"first, second, third\", and compares a quick intern to a \"furetto\", a darting ferret."),
-    (4, None, "'If that does not suit you, you leave.' \"Ti sta bene\" literally asks whether something \"stands well\" with you, while \"te ne vai\" is the brisk everyday chunk for \"you walk away\"."),
-    (5, None, "'All right, I am Alessandro.' \"Va bene\" is the universal Italian agreement, literally \"it goes well\", useful in almost every conversation."),
-    (6, None, "'Yes, never mind, come with me.' Arianna brushes his name right off with \"non fa niente\", literally \"it makes nothing\", meaning \"it doesn't matter\"."),
-    (7, None, "'Which team do you support?' Word for word, Biascica asks \"of what team are you?\" using \"squadra\", the word for a sports team or work crew."),
-    (8, None, "'Sorry, what was that?' Pairing \"come\", literally \"how\", with \"scusa\" is a natural, polite way to ask someone to repeat a question."),
-    (9, None, "'Roma?' Notice \"della\", combining \"of\" and \"the\", because Italian football clubs carry \"the\" in front of the city name: you belong \"of the Roma\"."),
-    (10, None, "'Good lad! Do you see those light stands?' \"Bravo\" praises one male listener; for a woman it changes to \"brava\". \"Stativi\" are the heavy metal stands holding studio lamps."),
-    (11, None, "'Where should I carry them?' \"Portare\" covers \"bring\", \"take\", and \"carry\", and little \"li\" stands in for \"them\" right before \"devo\"."),
-    (12, None, "'No, you have to watch them, people steal everything here.' Italian uses plural \"rubano\", \"they steal\", without naming a subject whenever English would say \"people steal\"."),
-    (13, None, "'And then make seven coffees for the guys.' Words ending in a stressed vowel, like \"caffe\", never change their ending in the plural: one \"caffe\", seven \"caffe\"."),
-    (14, None, "'Go Roma!' \"Forza\" literally means \"strength\" or \"force\", and shouting \"Forza\" before a team's name is how Italians cheer."),
+    (0, None, [
+        '\'I remind you all that there is no smoking on set.\' "Non si fuma" literally says "one does not smoke", the exact phrasing you will see on "No smoking" signs across Italy.'
+    ]),
+    (1, None, [
+        '\'First: you never speak.\' Just as in the first scene, "non" before "parli" pairs up with "mai", meaning "never", after it.'
+    ]),
+    (2, None, [
+        '\'Second: if I tell you something, you do it and that is all.\' Adding "e basta" at the end literally means "and enough", shutting down any argument on the spot.'
+    ]),
+    (3, None, [
+        '\'Third: you are a machine, you are a ferret.\' Arianna counts off "primo, secondo, terzo" for "first, second, third", and compares a quick intern to a "furetto", a darting ferret.'
+    ]),
+    (4, None, [
+        '\'If that does not suit you, you leave.\' "Ti sta bene" literally asks whether something "stands well" with you, while "te ne vai" is the brisk everyday chunk for "you walk away".'
+    ]),
+    (5, None, [
+        '\'All right, I am Alessandro.\' "Va bene" is the universal Italian agreement, literally "it goes well", useful in almost every conversation.'
+    ]),
+    (6, None, [
+        '\'Yes, never mind, come with me.\' Arianna brushes his name right off with "non fa niente", literally "it makes nothing", meaning "it doesn\'t matter".'
+    ]),
+    (7, None, [
+        '\'Which team do you support?\' Word for word, Biascica asks "of what team are you?" using "squadra", the word for a sports team or work crew.'
+    ]),
+    (8, None, [
+        '\'Sorry, what was that?\' Pairing "come", literally "how", with "scusa" is a natural, polite way to ask someone to repeat a question.'
+    ]),
+    (9, None, [
+        '\'Roma?\' Notice "della", combining "of" and "the", because Italian football clubs carry "the" in front of the city name: you belong "of the Roma".'
+    ]),
+    (10, None, [
+        '\'Good lad! Do you see those light stands?\' "Bravo" praises one male listener; for a woman it changes to "brava". "Stativi" are the heavy metal stands holding studio lamps.'
+    ]),
+    (11, None, [
+        '\'Where should I carry them?\' "Portare" covers "bring", "take", and "carry", and little "li" stands in for "them" right before "devo".'
+    ]),
+    (12, None, [
+        '\'No, you have to watch them, people steal everything here.\' Italian uses plural "rubano", "they steal", without naming a subject whenever English would say "people steal".'
+    ]),
+    (13, None, [
+        '\'And then make seven coffees for the guys.\' Words ending in a stressed vowel, like "caffe", never change their ending in the plural: one "caffe", seven "caffe".'
+    ]),
+    (14, None, [
+        '\'Go Roma!\' "Forza" literally means "strength" or "force", and shouting "Forza" before a team\'s name is how Italians cheer.'
+    ]),
 ]
+

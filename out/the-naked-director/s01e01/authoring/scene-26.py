@@ -11,9 +11,9 @@ SOURCE_NAME = '全裸監督 (The Naked Director) S01E01'
 SOURCE_FILE = 'sources/the-naked-director/s01/e01.ja.srt'
 
 INTRO = (
-    "Over drinks at the bar, Muranishi asks Toshi what he was selling that caused such a fight. "
-    "Toshi pulls out cassette tapes from his bag and tells Muranishi that every human being has two sides: a public surface and a hidden underside. "
-    "Listen to Toshi's philosophy."
+    "Over drinks at the bar, the protagonist asks the young hustler what he was selling that caused such a fight. "
+    "He pulls out cassette tapes from his bag and tells him that every human being has two sides: a public surface and a hidden underside. "
+    "Listen to this philosophy."
 )
 
 STORY = [
@@ -34,23 +34,61 @@ STORY = [
 OPENER = "This scene introduces the episode's central pair of words—front and back, surface and underside. Let's explore them."
 
 WALK = [
-    (0, None, "'What was it you sold earlier?' \"Sakki\" points back to just a few minutes ago—much closer in time than 'yesterday'—and \"utta\" is the past of \"uru\", to sell."),
-    (1, 'よくぞ聞いてくれたよ。', "'Glad you asked!' Energetic \"yokuzo\" praises the listener for asking the exact question the speaker was dying to answer, paired with warm \"kiite kureta\"."),
-    (3, None, "'Is it a fake?' \"Nisemono\" joins \"nise\", counterfeit or imitation, with \"mono\", thing."),
-    (4, 'これは正真正銘の本物だぜ。', "'This is the genuine, real deal.' Meet the opposite of \"nisemono\": \"honmono\", built from \"hon\", true, plus \"mono\", thing! Traditional \"shoushin-shoumei\" stamps it 'one hundred percent genuine'."),
-    (5, None, "'I have devoted my entire life to my family.' Pouring his heart out, Muranishi pairs \"jinsei no subete\", all of my life, with \"sasagete kita\", have dedicated up to now."),
-    (6, '気持ちは分かるよ。', "'I get how you feel.' \"Kimochi\" means feelings or emotional state, so \"kimochi wa wakaru\" is the most natural way in Japanese to show empathy."),
-    (7, None, "'Well then, I have things I want to say too.' Turning \"iu\", to say, into \"iitai\" builds 'want to say', so \"iitai koto ga aru\" means 'I have got something on my chest!'"),
-    (8, None, "'Every single person has a public front and a hidden side.' Cultural key to Japan: \"omote\" is the polite front face shown to society, while \"ura\" is the reverse side kept behind closed doors."),
-    (9, None, "'A hidden side? People hide that, so how could anyone know?' \"Kakushiteru\" comes from \"kakusu\", to hide or conceal."),
-    (10, None, "'By way of thanks, shall I show it to you? The hidden world.' \"Orei\" means gratitude or a thank-you gift, and \"misete yarou ka\" offers 'shall I show you?'—pointing to \"ura no sekai\", the hidden world that gives this episode its title."),
+    (0, None, [
+        "'What was it you sold earlier?'  You can catch ",
+        (None, "さっき"), " points back to just a few minutes ago—much closer in time than 'yesterday'—and ",
+        (None, "売った"), " this word is the past of the verb to sell."
+    ]),
+    (1, 'よくぞ聞いてくれたよ。', [
+        '"\'Glad you asked!\' Energetic " Here, the word ',
+        (None, "よくぞ"), " praises the listener for asking the exact question the speaker was dying to answer, paired with warm ",
+        (None, "聞いてくれた")
+    ]),
+    (3, None, [
+        "'Is it a fake?'  You can catch ",
+        (None, "偽物"), " joins the word for counterfeit or imitation, with the word for thing."
+    ]),
+    (4, 'これは正真正銘の本物だぜ。', [
+        '"\'This is the genuine, real deal.\' Meet the opposite of a fake: " We can hear ',
+        (None, "本物"), ", and this word is built from true, plus thing! Traditional ",
+        (None, "正真正銘"), " stamps it 'one hundred percent genuine'."
+    ]),
+    (5, None, [
+        '"\'I have devoted my entire life to my family.\' Pouring his heart out, he pairs " Check out ',
+        (None, "人生のすべて"), ", all of my life, with ",
+        (None, "ささげてきた"), ", have dedicated up to now."
+    ]),
+    (6, '気持ちは分かるよ。', [
+        "'I get how you feel.'  Starting off with ",
+        (None, "気持ち"), " this word means feelings or emotional state, so ",
+        (None, "気持ちは分かる"), " this word is the most natural way to show empathy."
+    ]),
+    (7, None, [
+        '"\'Well then, I have things I want to say too.\' Turning the verb to say into " They are saying ',
+        (None, "言いたい"), " builds 'want to say', so ",
+        (None, "言いたいことがある"), " this word means 'I have got something on my chest!'"
+    ]),
+    (8, None, [
+        '"\'Every single person has a public front and a hidden side.\' Cultural key to Japan: " Focus on ',
+        (None, "表"), " this word is the polite front face shown to society, while ",
+        (None, "裏"), " this word is the reverse side kept behind closed doors."
+    ]),
+    (9, None, [
+        "'A hidden side? People hide that, so how could anyone know?'  Check out ",
+        (None, "隠してる"), " comes from the verb to hide or conceal."
+    ]),
+    (10, None, [
+        "'By way of thanks, shall I show it to you? The hidden world.'  The character says ",
+        (None, "お礼"), " this word means gratitude or a thank-you gift, and ",
+        (None, "見せてやろうか"), " offers 'shall I show you?'—pointing to ",
+        (None, "裏の世界"), ", the hidden world that gives this episode its title."
+    ]),
 ]
 
-TRANSITION = "Now let's listen to Toshi and Muranishi's conversation about surface and underside again."
+TRANSITION = "Now let's listen to their conversation about surface and underside again."
 
 OUTRO = (
-    "Remember that vivid pair—\"nisemono\" for a fake and \"honmono\" for the real thing—alongside cultural twins \"omote\", the public front, and \"ura\", the hidden side. "
+    "Remember that vivid pair—the word for a fake and the word for the real thing—alongside cultural twins for the public front, and the hidden side. "
     "See you in scene twenty-eight."
 )
-
 CLOSING = ('toshi', 'じゃあね。')

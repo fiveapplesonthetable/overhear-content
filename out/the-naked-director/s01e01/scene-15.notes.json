@@ -1317,6 +1317,64 @@
     },
     {
       "seg": 16,
+      "trans": "Look at you, you pulled it off!",
+      "words": [
+        {
+          "t": "やる",
+          "lemma": "やる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do; pull off",
+          "gram": "godan verb, dictionary form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ヤル"
+        },
+        {
+          "t": "じゃ",
+          "lemma": "じゃ",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "contraction of では",
+          "gram": "copula contraction",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ジャ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "ナイ"
+        },
+        {
+          "t": "か",
+          "lemma": "か",
+          "pos": "part",
+          "stress": null,
+          "gloss": "question marker",
+          "gram": "rhetorical question particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "カ"
+        }
+      ]
+    },
+    {
+      "seg": 18,
       "trans": "If you knew, you should have told me!",
       "words": [
         {
@@ -1426,8 +1484,143 @@
       ]
     },
     {
-      "seg": 18,
-      "trans": "You can become a full-fledged salesman.",
+      "seg": 20,
+      "trans": "know / te-form particle / past tense / if",
+      "words": [
+        {
+          "t": "知っ",
+          "lemma": "知る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "know",
+          "gram": "godan verb, te-stem",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "シッ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "te-form particle",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "た",
+          "lemma": "た",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "past tense",
+          "gram": "contracted いた (past state)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "タ"
+        },
+        {
+          "t": "なら",
+          "lemma": "なら",
+          "pos": "part",
+          "stress": null,
+          "gloss": "if",
+          "gram": "conditional particle",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "ナラ"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "tell; teach / te-form particle / please (do) / emphasis particle",
+      "words": [
+        {
+          "t": "教え",
+          "lemma": "教える",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "tell; teach",
+          "gram": "ichidan verb, continuative",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "オシエ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "te-form particle",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "ください",
+          "lemma": "ください",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "please (do)",
+          "gram": "polite request auxiliary",
+          "span": [
+            3,
+            7
+          ],
+          "reading": "クダサイ"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis particle",
+          "gram": "sentence-ending particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "emphasis particle",
+      "words": [
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis particle",
+          "gram": "sentence-ending particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 25,
+      "trans": "full-fledged; grown-up / of; linking particle / salesman / into; to / be able to become",
       "words": [
         {
           "t": "一人前",
@@ -1497,7 +1690,26 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 27,
+      "trans": "full-fledged; grown-up",
+      "words": [
+        {
+          "t": "一人前",
+          "lemma": "一人前",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "full-fledged; grown-up",
+          "gram": "noun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "イチニンマエ"
+        }
+      ]
+    },
+    {
+      "seg": 29,
       "trans": "I have no need for it.",
       "words": [
         {
@@ -1581,7 +1793,90 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 31,
+      "trans": "for; to / topic marker",
+      "words": [
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "for; to",
+          "gram": "dative particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ワ"
+        }
+      ]
+    },
+    {
+      "seg": 33,
+      "trans": "I; me",
+      "words": [
+        {
+          "t": "俺",
+          "lemma": "俺",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I; me",
+          "gram": "casual masculine pronoun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "オレ"
+        }
+      ]
+    },
+    {
+      "seg": 35,
+      "trans": "necessary; needed / not",
+      "words": [
+        {
+          "t": "必要",
+          "lemma": "必要",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "necessary; needed",
+          "gram": "na-adjective",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ヒツヨウ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ナイ"
+        }
+      ]
+    },
+    {
+      "seg": 36,
       "trans": "Please try keeping it up for fifteen minutes a day, for three months.",
       "words": [
         {
@@ -1691,7 +1986,142 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 38,
+      "trans": "one day; per day / fifteen minutes",
+      "words": [
+        {
+          "t": "一日",
+          "lemma": "一日",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "one day; per day",
+          "gram": "temporal noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イチニチ"
+        },
+        {
+          "t": "十五分",
+          "lemma": "十五分",
+          "pos": "num",
+          "stress": null,
+          "gloss": "fifteen minutes",
+          "gram": "duration",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "ジュウゴフン"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "continue; keep up / te-form particle / try doing / te-form particle / please (do)",
+      "words": [
+        {
+          "t": "続け",
+          "lemma": "続ける",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "continue; keep up",
+          "gram": "ichidan verb, continuative",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ツヅケ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "te-form particle",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "み",
+          "lemma": "みる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "try doing",
+          "gram": "subsidiary verb, continuative",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ミ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "te-form particle",
+          "gram": "conjunctive particle",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "ください",
+          "lemma": "ください",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "please (do)",
+          "gram": "polite request auxiliary",
+          "span": [
+            5,
+            9
+          ],
+          "reading": "クダサイ"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "try doing / te-form particle",
+      "words": [
+        {
+          "t": "み",
+          "lemma": "みる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "try doing",
+          "gram": "subsidiary verb, continuative",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ミ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "te-form particle",
+          "gram": "conjunctive particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "テ"
+        }
+      ]
+    },
+    {
+      "seg": 44,
       "trans": "I do not want you to give up on life.",
       "words": [
         {
@@ -1827,7 +2257,90 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 46,
+      "trans": "life",
+      "words": [
+        {
+          "t": "人生",
+          "lemma": "人生",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "life",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ジンセイ"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "want (someone to do) / not",
+      "words": [
+        {
+          "t": "ほしく",
+          "lemma": "ほしい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "want (someone to do)",
+          "gram": "i-adjective, ku-form",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ホシク"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "ナイ"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "give up / te-form particle",
+      "words": [
+        {
+          "t": "諦め",
+          "lemma": "諦める",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give up",
+          "gram": "ichidan verb, continuative",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "アキラメ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "te-form particle",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "Still, isn't it a little expensive?",
       "words": [
         {
@@ -1898,7 +2411,52 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 54,
+      "trans": "a little / expensive; high / not",
+      "words": [
+        {
+          "t": "少し",
+          "lemma": "少し",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "a little",
+          "gram": "adverb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "スコシ"
+        },
+        {
+          "t": "高く",
+          "lemma": "高い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "expensive; high",
+          "gram": "i-adjective, ku-form",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "タカク"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "ナイ"
+        }
+      ]
+    },
+    {
+      "seg": 56,
       "trans": "It may certainly feel a bit expensive.",
       "words": [
         {
@@ -2021,7 +2579,84 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 58,
+      "trans": "certainly; indeed",
+      "words": [
+        {
+          "t": "確かに",
+          "lemma": "確かに",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "certainly; indeed",
+          "gram": "adverb",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "タシカニ"
+        }
+      ]
+    },
+    {
+      "seg": 60,
+      "trans": "maybe; might / be known (in かもしれない) / polite suffix / not",
+      "words": [
+        {
+          "t": "かも",
+          "lemma": "かも",
+          "pos": "part",
+          "stress": null,
+          "gloss": "maybe; might",
+          "gram": "epistemic particle",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カモ"
+        },
+        {
+          "t": "しれ",
+          "lemma": "しれる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be known (in かもしれない)",
+          "gram": "ichidan verb, negative stem",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "シレ"
+        },
+        {
+          "t": "ませ",
+          "lemma": "ます",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary, negative stem",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "マセ"
+        },
+        {
+          "t": "ん",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "polite negative ending",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ン"
+        }
+      ]
+    },
+    {
+      "seg": 62,
       "trans": "Three thousand yen a month means one hundred yen a day.",
       "words": [
         {
@@ -2144,7 +2779,129 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 64,
+      "trans": "month; per month / 3,000 yen",
+      "words": [
+        {
+          "t": "月",
+          "lemma": "月",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "month; per month",
+          "gram": "temporal noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ツキ"
+        },
+        {
+          "t": "三千円",
+          "lemma": "三千円",
+          "pos": "num",
+          "stress": null,
+          "gloss": "3,000 yen",
+          "gram": "currency amount",
+          "span": [
+            1,
+            4
+          ],
+          "reading": "サンゼンエン"
+        }
+      ]
+    },
+    {
+      "seg": 66,
+      "trans": "quotative particle / say; mean / matter; thing (abstract) / topic marker",
+      "words": [
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "quotative particle",
+          "gram": "quotative particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "いう",
+          "lemma": "いう",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "say; mean",
+          "gram": "godan verb, dictionary form",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "イウ"
+        },
+        {
+          "t": "こと",
+          "lemma": "こと",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "matter; thing (abstract)",
+          "gram": "formal noun",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "コト"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ワ"
+        }
+      ]
+    },
+    {
+      "seg": 68,
+      "trans": "one day; per day / 100 yen",
+      "words": [
+        {
+          "t": "一日",
+          "lemma": "一日",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "one day; per day",
+          "gram": "temporal noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イチニチ"
+        },
+        {
+          "t": "百円",
+          "lemma": "百円",
+          "pos": "num",
+          "stress": null,
+          "gloss": "100 yen",
+          "gram": "currency amount",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ヒャクエン"
+        }
+      ]
+    },
+    {
+      "seg": 70,
       "trans": "Far from being expensive, I believe it is way too cheap.",
       "words": [
         {
@@ -2254,7 +3011,64 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 72,
+      "trans": "far from; let alone",
+      "words": [
+        {
+          "t": "どころか",
+          "lemma": "どころか",
+          "pos": "part",
+          "stress": null,
+          "gloss": "far from; let alone",
+          "gram": "conjunctive particle",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "ドコロカ"
+        }
+      ]
+    },
+    {
+      "seg": 74,
+      "trans": "expensive; high",
+      "words": [
+        {
+          "t": "高い",
+          "lemma": "高い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "expensive; high",
+          "gram": "i-adjective",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "タカイ"
+        }
+      ]
+    },
+    {
+      "seg": 76,
+      "trans": "be too cheap",
+      "words": [
+        {
+          "t": "安すぎる",
+          "lemma": "安すぎる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be too cheap",
+          "gram": "ichidan compound verb",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "ヤススギル"
+        }
+      ]
+    },
+    {
+      "seg": 78,
       "trans": "Look at you, you pulled it off!",
       "words": [
         {
@@ -2312,7 +3126,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 79,
       "trans": "If you knew, you should have told me!",
       "words": [
         {
@@ -2422,7 +3236,7 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 80,
       "trans": "It's love. You can become a full-fledged salesman.",
       "words": [
         {
@@ -2532,7 +3346,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 81,
       "trans": "Do you feel the need for English conversation?",
       "words": [
         {
@@ -2629,7 +3443,7 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 82,
       "trans": "I have no need for it.",
       "words": [
         {
@@ -2713,7 +3527,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 83,
       "trans": "I do not think so.",
       "words": [
         {
@@ -2836,7 +3650,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 84,
       "trans": "Please try keeping it up for fifteen minutes a day, for three months.",
       "words": [
         {
@@ -2946,7 +3760,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 85,
       "trans": "I do not want you to give up on life.",
       "words": [
         {
@@ -3082,7 +3896,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 86,
       "trans": "Still, isn't it a little expensive?",
       "words": [
         {
@@ -3153,7 +3967,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 87,
       "trans": "It may certainly feel a bit expensive.",
       "words": [
         {
@@ -3276,7 +4090,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 88,
       "trans": "Three thousand yen a month means one hundred yen a day.",
       "words": [
         {
@@ -3399,7 +4213,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 89,
       "trans": "Far from being expensive, I believe it is way too cheap.",
       "words": [
         {
@@ -3509,7 +4323,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 91,
       "trans": "Goodbye.",
       "words": [
         {

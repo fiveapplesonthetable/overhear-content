@@ -41,18 +41,47 @@ STORY = [
     ('sergio', 'È sempre uguale.', 'It is always the same.', [(90, 'sempre uguale')], ''),
 ]
 WALK = [
-    (0, None, "'Everyone says that this series is madness.' \"Tutti\" means \"everyone\", and \"pazzia\" is \"madness\" or \"folly\", built from \"pazzo\", the word for \"crazy\"."),
-    (1, None, "'No, it did not go badly.' Lopez defends the flop. In Italian, \"andare male\" literally says \"to go badly\", a handy everyday way to describe something failing."),
-    (2, None, "'The time slot was not right.' Television people call a broadcast slot a \"fascia oraria\", literally an \"hourly band\" in the schedule."),
-    (3, None, "'However, we need to change our mindset.' \"Bisogna\" is a wonderfully useful impersonal word meaning \"it is necessary\" or \"one must\", without naming who has to do the work."),
-    (4, None, "'Rene is not a director.' Notice that \"regista\" ends in \"-a\" even when describing a man, just like \"stagista\" in the first scene."),
-    (5, None, "'Rene is directing itself.' Lopez flatters him by swapping the person word \"regista\" for the craft itself, \"la regia\", meaning the art of directing."),
-    (6, None, "'I ask you to put your heart into it. Good work, everyone!' Italians say \"buon lavoro\" to wish colleagues a productive day, where English might say \"good luck\"."),
-    (7, None, "'Sir, with all due respect.' In Rome and across Italy, calling a boss \"dottore\" shows polite deference even when nobody in the room is a medical doctor."),
-    (8, None, "'There is still the issue of the April overtime.' \"Straordinari\" literally means \"extraordinary hours\", the standard workplace word for overtime pay."),
-    (9, None, "'But that is a story from a year and a half ago!' Little \"fa\" at the very end works just like English \"ago\", placed after \"un anno e mezzo\", a year and a half."),
-    (10, None, "'Exactly, we have been waiting for a year and a half.' \"Appunto\" is a sharp single-word comeback for \"precisely\" or \"that's my point\". Notice Italian uses present \"aspettiamo\" because they are still waiting."),
-    (11, None, "'Biascica, you will never see that money.' Where English treats \"money\" as singular, Italian \"soldi\" is plural, so Sergio echoes it with \"li\" for \"them\"."),
-    (12, None, "'No, it is not fair. That is no way to behave.' \"Non si fa cosi\" literally says \"one does not do like this\", a classic everyday protest when someone breaks the rules."),
-    (13, None, "'It is always the same.' Sergio sighs as Biascica walks off. \"Uguale\" means \"equal\" or \"the same\", and you will hear this three-word shrug constantly in Italian."),
+    (0, None, [
+        '\'Everyone says that this series is madness.\' "Tutti" means "everyone", and "pazzia" is "madness" or "folly", built from "pazzo", the word for "crazy".'
+    ]),
+    (1, None, [
+        '\'No, it did not go badly.\' Lopez defends the flop. In Italian, "andare male" literally says "to go badly", a handy everyday way to describe something failing.'
+    ]),
+    (2, None, [
+        '\'The time slot was not right.\' Television people call a broadcast slot a "fascia oraria", literally an "hourly band" in the schedule.'
+    ]),
+    (3, None, [
+        '\'However, we need to change our mindset.\' "Bisogna" is a wonderfully useful impersonal word meaning "it is necessary" or "one must", without naming who has to do the work.'
+    ]),
+    (4, None, [
+        '\'Rene is not a director.\' Notice that "regista" ends in "-a" even when describing a man, just like "stagista" in the first scene.'
+    ]),
+    (5, None, [
+        '\'Rene is directing itself.\' Lopez flatters him by swapping the person word "regista" for the craft itself, "la regia", meaning the art of directing.'
+    ]),
+    (6, None, [
+        '\'I ask you to put your heart into it. Good work, everyone!\' Italians say "buon lavoro" to wish colleagues a productive day, where English might say "good luck".'
+    ]),
+    (7, None, [
+        '\'Sir, with all due respect.\' In Rome and across Italy, calling a boss "dottore" shows polite deference even when nobody in the room is a medical doctor.'
+    ]),
+    (8, None, [
+        '\'There is still the issue of the April overtime.\' "Straordinari" literally means "extraordinary hours", the standard workplace word for overtime pay.'
+    ]),
+    (9, None, [
+        '\'But that is a story from a year and a half ago!\' Little "fa" at the very end works just like English "ago", placed after "un anno e mezzo", a year and a half.'
+    ]),
+    (10, None, [
+        '\'Exactly, we have been waiting for a year and a half.\' "Appunto" is a sharp single-word comeback for "precisely" or "that\'s my point". Notice Italian uses present "aspettiamo" because they are still waiting.'
+    ]),
+    (11, None, [
+        '\'Biascica, you will never see that money.\' Where English treats "money" as singular, Italian "soldi" is plural, so Sergio echoes it with "li" for "them".'
+    ]),
+    (12, None, [
+        '\'No, it is not fair. That is no way to behave.\' "Non si fa cosi" literally says "one does not do like this", a classic everyday protest when someone breaks the rules.'
+    ]),
+    (13, None, [
+        '\'It is always the same.\' Sergio sighs as Biascica walks off. "Uguale" means "equal" or "the same", and you will hear this three-word shrug constantly in Italian.'
+    ]),
 ]
+

@@ -41,17 +41,44 @@ STORY = [
     ('arianna', 'Non è del tuo reparto.', "It's not from your department.", [(31, 'Non è del tuo reparto')], ''),
 ]
 WALK = [
-    (0, None, "'Excuse me, do you know where the director is?' Alessandro opens politely with \"scusi\", the formal way to get a stranger's attention. Notice how \"dove\" and \"e\" squeeze together into \"dov'e\" for \"where is\"."),
-    (1, None, "'Listen to me carefully now, Boris.' Rene is talking to a goldfish in a glass bowl. In Italian, the little word \"mi\" for \"to me\" hooks straight onto the end of \"ascolta\", making one compact command."),
-    (2, None, "'We have to do some truly great directing.' Adding the ending \"-issima\" to \"grande\" cranks \"big\" all the way up to \"huge\" or \"truly great\", a favourite Italian way to exaggerate."),
-    (3, None, "'I want you focused like last year, got it?' \"L'anno scorso\" literally puts \"the year\" before \"last\". Tacking \"capito\" onto the end is the everyday Italian check for \"understood?\""),
-    (4, None, "'Excuse me, are you the director?' Here \"lei\" literally means \"she\", yet in polite Italian it serves as the respectful \"you\" for a boss or a stranger, even when speaking to a man like Rene."),
-    (5, None, "'Lopez has arrived.' Arianna cuts in with urgent set news. Italian often puts the action before the person's name when announcing who just walked in."),
-    (6, None, "'Who are you? What do you want? What are you doing here?' Three rapid-fire questions, and Arianna switches straight to the casual \"tu\" forms because she already outranks the newcomer."),
-    (7, None, "'Actually, I'm the intern.' \"Veramente\" gently corrects someone without sounding rude. Before \"stagista\", Italian uses \"lo\" for \"the\" because the word starts with \"s\" plus another consonant."),
-    (8, None, "'I just wanted...' Using the past form \"volevo\" softens the request, just like \"I was hoping\" in English, while \"solo\" adds \"only\" or \"just\" before he gets cut off."),
-    (9, None, "'No, you don't want anything.' Italian happily pairs \"non\" before the action with \"niente\" after it; the two negatives reinforce each other rather than cancelling out."),
-    (10, None, "'You stay right here, quietly.' \"Fermo\" means \"still\" and ends in \"-o\" to match Alessandro. At the end, \"in silenzio\" literally says \"in silence\", telling him not to make a sound."),
-    (11, None, "'And you wait for instructions, okay?' Unlike English, \"aspettare\" needs no extra word for \"for\": you simply wait the instructions directly."),
-    (12, None, "'It's not from your department.' When Alessandro reaches out to help on set, Arianna stops him again with \"reparto\", the everyday crew word for a film department."),
+    (0, None, [
+        '\'Excuse me, do you know where the director is?\' Alessandro opens politely with "scusi", the formal way to get a stranger\'s attention. Notice how "dove" and "e" squeeze together into "dov\'e" for "where is".'
+    ]),
+    (1, None, [
+        '\'Listen to me carefully now, Boris.\' Rene is talking to a goldfish in a glass bowl. In Italian, the little word "mi" for "to me" hooks straight onto the end of "ascolta", making one compact command.'
+    ]),
+    (2, None, [
+        '\'We have to do some truly great directing.\' Adding the ending "-issima" to "grande" cranks "big" all the way up to "huge" or "truly great", a favourite Italian way to exaggerate.'
+    ]),
+    (3, None, [
+        '\'I want you focused like last year, got it?\' "L\'anno scorso" literally puts "the year" before "last". Tacking "capito" onto the end is the everyday Italian check for "understood?"'
+    ]),
+    (4, None, [
+        '\'Excuse me, are you the director?\' Here "lei" literally means "she", yet in polite Italian it serves as the respectful "you" for a boss or a stranger, even when speaking to a man like Rene.'
+    ]),
+    (5, None, [
+        "'Lopez has arrived.' Arianna cuts in with urgent set news. Italian often puts the action before the person's name when announcing who just walked in."
+    ]),
+    (6, None, [
+        '\'Who are you? What do you want? What are you doing here?\' Three rapid-fire questions, and Arianna switches straight to the casual "tu" forms because she already outranks the newcomer.'
+    ]),
+    (7, None, [
+        '\'Actually, I\'m the intern.\' "Veramente" gently corrects someone without sounding rude. Before "stagista", Italian uses "lo" for "the" because the word starts with "s" plus another consonant.'
+    ]),
+    (8, None, [
+        '\'I just wanted...\' Using the past form "volevo" softens the request, just like "I was hoping" in English, while "solo" adds "only" or "just" before he gets cut off.'
+    ]),
+    (9, None, [
+        '\'No, you don\'t want anything.\' Italian happily pairs "non" before the action with "niente" after it; the two negatives reinforce each other rather than cancelling out.'
+    ]),
+    (10, None, [
+        '\'You stay right here, quietly.\' "Fermo" means "still" and ends in "-o" to match Alessandro. At the end, "in silenzio" literally says "in silence", telling him not to make a sound.'
+    ]),
+    (11, None, [
+        '\'And you wait for instructions, okay?\' Unlike English, "aspettare" needs no extra word for "for": you simply wait the instructions directly.'
+    ]),
+    (12, None, [
+        '\'It\'s not from your department.\' When Alessandro reaches out to help on set, Arianna stops him again with "reparto", the everyday crew word for a film department.'
+    ]),
 ]
+

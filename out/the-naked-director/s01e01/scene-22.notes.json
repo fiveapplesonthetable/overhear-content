@@ -233,7 +233,7 @@
       "trans": "How shameful!",
       "words": [
         {
-          "t": "みっともない",
+          "t": "みっともない！",
           "lemma": "みっともない",
           "pos": "adj",
           "stress": null,
@@ -241,7 +241,7 @@
           "gram": "i-adjective, plain non-past",
           "span": [
             0,
-            6
+            7
           ],
           "reading": "ミットモナイ"
         }
@@ -901,6 +901,102 @@
     },
     {
       "seg": 16,
+      "trans": "such; like that / place",
+      "words": [
+        {
+          "t": "そんな",
+          "lemma": "そんな",
+          "pos": "det",
+          "stress": null,
+          "gloss": "such; like that",
+          "gram": "prenoun adjectival",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ソンナ"
+        },
+        {
+          "t": "ところ",
+          "lemma": "ところ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "place",
+          "gram": "noun",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "トコロ"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "in; at / be; exist",
+      "words": [
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at",
+          "gram": "location particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "いる",
+          "lemma": "いる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be; exist",
+          "gram": "ichidan, plain non-past",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "イル"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "explanatory / emphasis",
+      "words": [
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "explanatory",
+          "gram": "explanatory particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis",
+          "gram": "sentence-ending particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 22,
       "trans": "Sachiko, what is the meaning of this?",
       "words": [
         {
@@ -958,8 +1054,53 @@
       ]
     },
     {
-      "seg": 18,
-      "trans": "No!",
+      "seg": 24,
+      "trans": "what kind of / thing; matter / is",
+      "words": [
+        {
+          "t": "どういう",
+          "lemma": "どういう",
+          "pos": "det",
+          "stress": null,
+          "gloss": "what kind of",
+          "gram": "prenoun adjectival",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "ドウイウ"
+        },
+        {
+          "t": "こと",
+          "lemma": "こと",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "thing; matter",
+          "gram": "noun",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "コト"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "copula, plain non-past",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ダ"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "no; unpleasant / is",
       "words": [
         {
           "t": "嫌",
@@ -990,11 +1131,43 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 28,
+      "trans": "no; unpleasant / is",
+      "words": [
+        {
+          "t": "嫌",
+          "lemma": "嫌",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "no; unpleasant",
+          "gram": "na-adjective stem",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "イヤ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "copula, plain non-past",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ダ"
+        }
+      ]
+    },
+    {
+      "seg": 30,
       "trans": "How shameful!",
       "words": [
         {
-          "t": "みっともない",
+          "t": "みっともない！",
           "lemma": "みっともない",
           "pos": "adj",
           "stress": null,
@@ -1002,14 +1175,33 @@
           "gram": "i-adjective, plain non-past",
           "span": [
             0,
-            6
+            7
           ],
           "reading": "ミットモナイ"
         }
       ]
     },
     {
-      "seg": 22,
+      "seg": 32,
+      "trans": "How shameful!",
+      "words": [
+        {
+          "t": "みっともない！",
+          "lemma": "みっともない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "shameful; disgraceful",
+          "gram": "i-adjective, plain non-past",
+          "span": [
+            0,
+            7
+          ],
+          "reading": "ミットモナイ"
+        }
+      ]
+    },
+    {
+      "seg": 34,
       "trans": "You're the one who's shameful!",
       "words": [
         {
@@ -1080,7 +1272,90 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 36,
+      "trans": "How shameful!",
+      "words": [
+        {
+          "t": "みっともない！",
+          "lemma": "みっともない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "shameful; disgraceful",
+          "gram": "i-adjective, plain non-past",
+          "span": [
+            0,
+            7
+          ],
+          "reading": "ミットモナイ"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "shameful; disgraceful / the one who / topic",
+      "words": [
+        {
+          "t": "みっともない",
+          "lemma": "みっともない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "shameful; disgraceful",
+          "gram": "i-adjective, plain non-past",
+          "span": [
+            0,
+            6
+          ],
+          "reading": "ミットモナイ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "the one who",
+          "gram": "nominalizer",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic",
+          "gram": "topic particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ワ"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "right?; isn't it",
+      "words": [
+        {
+          "t": "でしょ",
+          "lemma": "です",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "right?; isn't it",
+          "gram": "copula, presumptive",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "デショ"
+        }
+      ]
+    },
+    {
+      "seg": 42,
       "trans": "What's so shameful about me?!",
       "words": [
         {
@@ -1177,7 +1452,65 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 44,
+      "trans": "I; me / of / where; what part / subject",
+      "words": [
+        {
+          "t": "俺",
+          "lemma": "俺",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I; me",
+          "gram": "personal pronoun (masculine)",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "オレ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "of",
+          "gram": "possessive particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "どこ",
+          "lemma": "どこ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "where; what part",
+          "gram": "interrogative pronoun",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ドコ"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject",
+          "gram": "subject particle",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ガ"
+        }
+      ]
+    },
+    {
+      "seg": 46,
       "trans": "Papa! What about my RC car? What about my Countach?",
       "words": [
         {
@@ -1248,7 +1581,45 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 48,
+      "trans": "RC car",
+      "words": [
+        {
+          "t": "ラジコン",
+          "lemma": "ラジコン",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "RC car",
+          "gram": "noun",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "ラジコン"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "topic",
+      "words": [
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic",
+          "gram": "topic particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ワ"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "Daisuke, I'm sorry.",
       "words": [
         {
@@ -1293,7 +1664,58 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 54,
+      "trans": "sorry",
+      "words": [
+        {
+          "t": "ごめん",
+          "lemma": "ごめん",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "sorry",
+          "gram": "interjection",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ゴメン"
+        }
+      ]
+    },
+    {
+      "seg": 56,
+      "trans": "sorry / you know",
+      "words": [
+        {
+          "t": "ごめん",
+          "lemma": "ごめん",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "sorry",
+          "gram": "interjection",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ゴメン"
+        },
+        {
+          "t": "な",
+          "lemma": "な",
+          "pos": "part",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "sentence-ending particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ナ"
+        }
+      ]
+    },
+    {
+      "seg": 58,
       "trans": "Mom, stay out of this!",
       "words": [
         {
@@ -1377,7 +1799,52 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 60,
+      "trans": "mouth / object / put out; meddle",
+      "words": [
+        {
+          "t": "口",
+          "lemma": "口",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "mouth",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "クチ"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "object",
+          "gram": "object particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "出す",
+          "lemma": "出す",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "put out; meddle",
+          "gram": "godan, plain non-past",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ダス"
+        }
+      ]
+    },
+    {
+      "seg": 62,
       "trans": "Daisuke, we're leaving!",
       "words": [
         {
@@ -1422,7 +1889,45 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 64,
+      "trans": "go",
+      "words": [
+        {
+          "t": "行く",
+          "lemma": "いく",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "go",
+          "gram": "godan, plain non-past",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イク"
+        }
+      ]
+    },
+    {
+      "seg": 66,
+      "trans": "emphasis",
+      "words": [
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis",
+          "gram": "sentence-ending particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 68,
       "trans": "Why are you in a place like that?",
       "words": [
         {
@@ -1519,7 +2024,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 69,
       "trans": "Sachiko, what is the meaning of this?",
       "words": [
         {
@@ -1577,7 +2082,7 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 70,
       "trans": "No! It's over already.",
       "words": [
         {
@@ -1648,11 +2153,11 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 71,
       "trans": "How shameful!",
       "words": [
         {
-          "t": "みっともない",
+          "t": "みっともない！",
           "lemma": "みっともない",
           "pos": "adj",
           "stress": null,
@@ -1660,14 +2165,14 @@
           "gram": "i-adjective, plain non-past",
           "span": [
             0,
-            6
+            7
           ],
           "reading": "ミットモナイ"
         }
       ]
     },
     {
-      "seg": 38,
+      "seg": 72,
       "trans": "You're the one who's shameful!",
       "words": [
         {
@@ -1738,7 +2243,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 73,
       "trans": "What's so shameful about me?!",
       "words": [
         {
@@ -1835,7 +2340,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 74,
       "trans": "Papa! What about my RC car? What about my Countach?",
       "words": [
         {
@@ -1906,7 +2411,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 75,
       "trans": "Daisuke, I'm sorry.",
       "words": [
         {
@@ -1951,7 +2456,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 76,
       "trans": "This is our problem.",
       "words": [
         {
@@ -2035,7 +2540,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 77,
       "trans": "Mom, stay out of this!",
       "words": [
         {
@@ -2119,7 +2624,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 78,
       "trans": "Daisuke, we're leaving!",
       "words": [
         {
@@ -2164,7 +2669,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 79,
       "trans": "Come on, go quickly!",
       "words": [
         {
@@ -2222,7 +2727,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 81,
       "trans": "Goodbye.",
       "words": [
         {

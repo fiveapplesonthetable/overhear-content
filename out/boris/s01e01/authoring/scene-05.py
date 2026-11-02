@@ -41,18 +41,47 @@ STORY = [
     ('rene', "Un bell'applauso per Stanis e Corinna! E anche per il maestro!", 'A big round of applause for Stanis and Corinna! And also for the Maestro!', [(203, 'applauso per Stanis e Corinna'), (204, 'E anche per il maestro')], 'Standardised elision "bell\'applauso".'),
 ]
 WALK = [
-    (0, None, "'Let us bring the day home. Are you up for it?' \"Portare a casa\" literally means \"to carry home\", used here for surviving the workday, and \"ti va?\" is a breezy two-word check for \"do you fancy it?\""),
-    (1, None, "'How much longer for Corinna?' On a busy set, \"quanto per...\" drops \"how much time\" down to a single word, \"quanto\"."),
-    (2, None, "'All right, then go on now.' \"Allora\" bridges thoughts like \"so\" or \"well then\", giving Rene's order a brisk push."),
-    (3, None, "'Tell her that we are starting with a very easy scene.' Notice \"dille\": \"di'\" for \"say\" fuses with \"le\" for \"to her\", doubling the \"l\" in spelling and sound."),
-    (4, None, "'Listen Corinna, we are starting with a very difficult scene.' Arianna flips \"facilissima\", very easy, straight into its opposite \"difficilissima\", very difficult, to flatter the star's ego."),
-    (5, None, "'However, since you are brilliant, you will do great.' \"Siccome\" means \"since\" or \"seeing as\", while \"alla grande\" is an upbeat everyday expression for doing something in grand style."),
-    (6, None, "'Thank you.' Corinna beams at the invented compliment; \"grazie\" works for every thank-you from casual favours to grand praise."),
-    (7, None, "'Might that not be too much makeup?' \"Il trucco\" means both stage makeup and a magic trick. Using future \"sara\", \"will it be\", softens Arianna's criticism into a polite wonder."),
-    (8, None, "'In the scene she has just woken up.' Pairing \"appena\" with \"svegliata\" captures \"just woken up\" — Corinna is wearing full evening glamour in bed."),
-    (9, None, "'I would say let us shoot it right away, all right?' On a film set, \"girare\" literally means \"to turn\" — from cranking old camera reels — and today means \"to shoot\" a scene."),
-    (10, None, "'We will not even rehearse it. Do you feel up to it?' \"Provare\" means \"to try\" or \"to rehearse\", and \"te la senti?\" literally asks \"do you feel it in yourself?\" — \"are you game?\""),
-    (11, None, "'All right. Always perfect, right?' Adding \"giusto?\" onto the end of a statement works just like English \"right?\" when fishing for reassurance."),
-    (12, None, "'Rene, sorry, shall we applaud for the first take?' Italian crews call the clapperboard \"il ciak\", named after the sharp snap of the wooden slate closing."),
-    (13, None, "'A big round of applause for Stanis and Corinna! And also for the Maestro!' Before a vowel, \"bello\" trims down to \"bell'\", and Rene shamelessly adds himself as \"il maestro\", the master."),
+    (0, None, [
+        '\'Let us bring the day home. Are you up for it?\' "Portare a casa" literally means "to carry home", used here for surviving the workday, and "ti va?" is a breezy two-word check for "do you fancy it?"'
+    ]),
+    (1, None, [
+        '\'How much longer for Corinna?\' On a busy set, "quanto per..." drops "how much time" down to a single word, "quanto".'
+    ]),
+    (2, None, [
+        '\'All right, then go on now.\' "Allora" bridges thoughts like "so" or "well then", giving Rene\'s order a brisk push.'
+    ]),
+    (3, None, [
+        '\'Tell her that we are starting with a very easy scene.\' Notice "dille": "di\'" for "say" fuses with "le" for "to her", doubling the "l" in spelling and sound.'
+    ]),
+    (4, None, [
+        '\'Listen Corinna, we are starting with a very difficult scene.\' Arianna flips "facilissima", very easy, straight into its opposite "difficilissima", very difficult, to flatter the star\'s ego.'
+    ]),
+    (5, None, [
+        '\'However, since you are brilliant, you will do great.\' "Siccome" means "since" or "seeing as", while "alla grande" is an upbeat everyday expression for doing something in grand style.'
+    ]),
+    (6, None, [
+        '\'Thank you.\' Corinna beams at the invented compliment; "grazie" works for every thank-you from casual favours to grand praise.'
+    ]),
+    (7, None, [
+        '\'Might that not be too much makeup?\' "Il trucco" means both stage makeup and a magic trick. Using future "sara", "will it be", softens Arianna\'s criticism into a polite wonder.'
+    ]),
+    (8, None, [
+        '\'In the scene she has just woken up.\' Pairing "appena" with "svegliata" captures "just woken up" — Corinna is wearing full evening glamour in bed.'
+    ]),
+    (9, None, [
+        '\'I would say let us shoot it right away, all right?\' On a film set, "girare" literally means "to turn" — from cranking old camera reels — and today means "to shoot" a scene.'
+    ]),
+    (10, None, [
+        '\'We will not even rehearse it. Do you feel up to it?\' "Provare" means "to try" or "to rehearse", and "te la senti?" literally asks "do you feel it in yourself?" — "are you game?"'
+    ]),
+    (11, None, [
+        '\'All right. Always perfect, right?\' Adding "giusto?" onto the end of a statement works just like English "right?" when fishing for reassurance.'
+    ]),
+    (12, None, [
+        '\'Rene, sorry, shall we applaud for the first take?\' Italian crews call the clapperboard "il ciak", named after the sharp snap of the wooden slate closing.'
+    ]),
+    (13, None, [
+        '\'A big round of applause for Stanis and Corinna! And also for the Maestro!\' Before a vowel, "bello" trims down to "bell\'", and Rene shamelessly adds himself as "il maestro", the master.'
+    ]),
 ]
+

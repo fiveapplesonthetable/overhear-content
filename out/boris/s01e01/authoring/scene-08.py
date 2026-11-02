@@ -38,15 +38,38 @@ STORY = [
     ('stanis', 'Ok, però Corinna è troppo italiana.', 'Okay, though Corinna is too Italian.', [(308, 'Ok'), (308, 'però Corinna è'), (309, 'troppo italiana')], 'Omitted vulgarity for A1 focus.'),
 ]
 WALK = [
-    (0, None, "'Duccio? Duccio?' Alessandro wanders down the dim corridor calling out for the director of photography."),
-    (1, None, "'Listen, I have been thinking of quitting the series.' Earlier Stanis joked \"mollo questa serie\"; now he brings back \"mollare\" with \"ho pensato di\", \"I've thought about\"."),
-    (2, None, "'How does that make you feel?' Word for word, \"che effetto ti fa?\" asks \"what effect does it make on you?\", fishing for a gasp that never comes."),
-    (3, None, "'Stop it, Stanis.' Adding \"la\" onto \"smetti\" makes the punchy everyday command \"smettila!\" — \"cut it out!\" or \"drop it!\""),
-    (4, None, "'No, seriously, Arianna, because I am not happy.' \"Sul serio\" is the go-to two-word phrase for \"seriously\" or \"for real\"."),
-    (5, None, "'When I am not happy, my lawyers swing into action.' \"Entrare in azione\" literally means \"to enter into action\", and \"avvocati\" is the plural of \"avvocato\", lawyer."),
-    (6, None, "'Do you know what they are doing? They are dissolving my contract.' \"Sciogliere\" normally means melting snow or untying a knot; in legal talk it means dissolving a contract."),
-    (7, None, "'We have tons of problems, Stanis. Come on, behave yourself.' \"Un sacco di\" literally says \"a sack of\", a favourite casual way to say \"loads of\", and \"fai il bravo\" talks to Stanis like a naughty child."),
-    (8, None, "'Yes, but what do you say? Should I drop it?' Notice how \"tu che dici?\", \"what do you say?\", stands in for English \"what do you think?\" when asking for advice."),
-    (9, None, "'You are an idiot, Stanis.' Arianna refuses to play along and punctures his drama in four blunt words."),
-    (10, None, "'Okay, though Corinna is too Italian.' Stanis caves immediately. Throughout the show, his pretentious catchphrase is dismissing anything messy or melodramatic as \"troppo italiano\", too Italian."),
+    (0, None, [
+        "'Duccio? Duccio?' Alessandro wanders down the dim corridor calling out for the director of photography."
+    ]),
+    (1, None, [
+        '\'Listen, I have been thinking of quitting the series.\' Earlier Stanis joked "mollo questa serie"; now he brings back "mollare" with "ho pensato di", "I\'ve thought about".'
+    ]),
+    (2, None, [
+        '\'How does that make you feel?\' Word for word, "che effetto ti fa?" asks "what effect does it make on you?", fishing for a gasp that never comes.'
+    ]),
+    (3, None, [
+        '\'Stop it, Stanis.\' Adding "la" onto "smetti" makes the punchy everyday command "smettila!" — "cut it out!" or "drop it!"'
+    ]),
+    (4, None, [
+        '\'No, seriously, Arianna, because I am not happy.\' "Sul serio" is the go-to two-word phrase for "seriously" or "for real".'
+    ]),
+    (5, None, [
+        '\'When I am not happy, my lawyers swing into action.\' "Entrare in azione" literally means "to enter into action", and "avvocati" is the plural of "avvocato", lawyer.'
+    ]),
+    (6, None, [
+        '\'Do you know what they are doing? They are dissolving my contract.\' "Sciogliere" normally means melting snow or untying a knot; in legal talk it means dissolving a contract.'
+    ]),
+    (7, None, [
+        '\'We have tons of problems, Stanis. Come on, behave yourself.\' "Un sacco di" literally says "a sack of", a favourite casual way to say "loads of", and "fai il bravo" talks to Stanis like a naughty child.'
+    ]),
+    (8, None, [
+        '\'Yes, but what do you say? Should I drop it?\' Notice how "tu che dici?", "what do you say?", stands in for English "what do you think?" when asking for advice.'
+    ]),
+    (9, None, [
+        "'You are an idiot, Stanis.' Arianna refuses to play along and punctures his drama in four blunt words."
+    ]),
+    (10, None, [
+        '\'Okay, though Corinna is too Italian.\' Stanis caves immediately. Throughout the show, his pretentious catchphrase is dismissing anything messy or melodramatic as "troppo italiano", too Italian.'
+    ]),
 ]
+
