@@ -14,7 +14,7 @@ INTRO = ('At the agency reception desk, Camille asks for Mathias without an appo
  'young visitor wants to become an actress, but Camille has come for a different reason. Listen to their '
  'first conversation in French.')
 OPENER = "Let's walk through it. When Camille arrives, Sofia is still on the phone, offering somebody two possible meeting times."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "You've just learned how to ask for someone at a front desk, and how to say you only want one thing. See you next time!"
 CLOSING = ('camille', 'Merci, au revoir!')
 STORY = [('sofia',
@@ -72,62 +72,22 @@ STORY = [('sofia',
   'Mathias, Camille Valentini is here. Sorry to bother you.',
   [(121, 'Mathias, Camille Valentini est là'), (122, 'Désolée de vous déranger')],
   '')]
-WALK = [(0,
-  None,
-  "'Either Thursday at two, or Friday at eleven.' The same little word, said twice, gives you 'either, or'. "
-  'And two in the afternoon is fourteen hours again, office style.'),
- (1, None, "'Hello.' Camille waits politely for her turn."),
- (2,
-  'Je peux vous aider?',
-  "'Can I help you?' Sofia uses the formal 'you', the right choice with a stranger at a front desk."),
- (3,
-  None,
-  "'I'm here to see Mathias Barneville.' A short word meaning 'in order to' links 'here' to the action "
-  "'see'. Camille introduces her visit with his full name."),
- (4, None, "'Is he expecting you?' Literally 'he waits for you'. The formal 'you' sits before the verb."),
- (5,
-  None,
-  "'No, but it's important.' The short expression after 'but' joins 'it' and 'is'. You can use the same "
-  "beginning before other descriptions, such as 'possible' or 'difficult'."),
- (6,
-  None,
-  "'Leave your photos and your CV here.' Sofia gives a polite command with the formal ending. She is sure "
-  'Camille is one more young actress hoping to be discovered.'),
- (7,
-  None,
-  "'This agency only represents stars.' Here's a neat trick: the negative pair is used with a different "
-  "second word, and the meaning becomes 'only'. Nothing but stars."),
- (8,
-  'Je ne suis pas actrice.',
-  "'I'm not an actress.' The ordinary negative this time, wrapped around the verb 'to be'. And with jobs, "
-  "French drops the word for 'a'."),
- (8,
-  'Je veux juste voir Mathias.',
-  "'I just want to see Mathias.' The small word meaning 'just' limits what Camille is asking for. It comes "
-  "between 'want' and the action she wants to do."),
- (9,
-  None,
-  "'Your name?' The polite possessive goes with one name. When Sofia asked for photos earlier, its plural "
-  'form went with the things she wanted.'),
- (10,
-  'Il me connaît.',
-  "'He knows me.' The object meaning 'me' comes before 'knows'. Sofia is not convinced."),
- (11,
-  None,
-  "'Without an appointment? I'm not promising anything.' The first word means 'without'. The next sentence "
-  "pairs the small negative before 'promise' with 'nothing' after it."),
- (12,
-  None,
-  "'Have a seat.' Literally 'sit yourself down', a polite command you'll hear in any waiting room."),
- (13,
-  None,
-  "'Thank you.' This short expression can stand on its own. Here it acknowledges Sofia's invitation to sit "
-  'down.'),
- (14,
-  'Mathias, Camille Valentini est là.',
-  "'Mathias, Camille Valentini is here.' The name is followed by the same short pair meaning 'is here' that "
-  'you can use to announce any visitor.'),
- (14,
-  'Désolée de vous déranger.',
-  "'Sorry to bother you.' The apology is followed by a little linking word and the action 'to disturb'. "
-  "Sofia uses the polite 'you' with her boss as well.")]
+WALK = [
+    (0, None, "'Either Thursday at two, or Friday at eleven.' The same little word, said twice, gives you 'either, or'. And two in the afternoon is fourteen hours again, office style."),
+    (1, None, "'Hello.' Camille waits politely for her turn."),
+    (2, 'Je peux vous aider?', "'Can I help you?' Sofia uses the formal 'you', the right choice with a stranger at a front desk."),
+    (3, None, "'I'm here to see Mathias Barneville.' A short word meaning 'in order to' links 'here' to the action 'see'. Camille introduces her visit with his full name."),
+    (4, None, "'Is he expecting you?' Literally 'he waits for you'. The formal 'you' sits before the verb."),
+    (5, None, "'No, but it's important.' The short expression after 'but' joins 'it' and 'is'. You can use the same beginning before other descriptions, such as 'possible' or 'difficult'."),
+    (6, None, "'Leave your photos and your CV here.' Sofia gives a polite command with the formal ending. She is sure Camille is one more young actress hoping to be discovered."),
+    (7, None, "'This agency only represents stars.' Here's a neat trick: the negative pair is used with a different second word, and the meaning becomes 'only'. Nothing but stars."),
+    (8, 'Je ne suis pas actrice.', "'I'm not an actress.' The ordinary negative this time, wrapped around the verb 'to be'. And with jobs, French drops the word for 'a'."),
+    (8, 'Je veux juste voir Mathias.', "'I just want to see Mathias.' The small word meaning 'just' limits what Camille is asking for. It comes between 'want' and the action she wants to do."),
+    (9, None, "'Your name?' The polite possessive goes with one name. When Sofia asked for photos earlier, its plural form went with the things she wanted."),
+    (10, 'Il me connaît.', "'He knows me.' The object meaning 'me' comes before 'knows'. Sofia is not convinced."),
+    (11, None, "'Without an appointment? I'm not promising anything.' The first word means 'without'. The next sentence pairs the small negative before 'promise' with 'nothing' after it."),
+    (12, None, "'Have a seat.' Literally 'sit yourself down', a polite command you'll hear in any waiting room."),
+    (13, None, "'Thank you.' This short expression can stand on its own. Here it acknowledges Sofia's invitation to sit down."),
+    (14, 'Mathias, Camille Valentini est là.', "'Mathias, Camille Valentini is here.' The name is followed by the same short pair meaning 'is here' that you can use to announce any visitor."),
+    (14, 'Désolée de vous déranger.', "'Sorry to bother you.' The apology is followed by a little linking word and the action 'to disturb'. Sofia uses the polite 'you' with her boss as well."),
+]

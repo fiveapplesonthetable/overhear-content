@@ -580,6 +580,8 @@ def main():
     # Use the same selection syntax for renders and backfills as narrator-only.
     args.scene = [x for value in args.scene for x in value.split(",") if x]
     args.episode = [x for value in args.episode for x in value.split(",") if x]
+    if args.settings:
+        args.settings = str(Path(args.settings).resolve())
 
     settings = config.load_settings(args.settings)
     voices = Voices()

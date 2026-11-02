@@ -14,7 +14,7 @@ INTRO = ('Mathias has brought Miranda back to speak with Cecile about the film. 
  "the offer comes with a demand about her appearance. Listen to the French first, following Cecile's "
  'changing reaction.')
 OPENER = "Let's go back through it. Miranda begins with promising news, but Cecile still has questions."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "That's a hard choice for Cécile, and a good one for you to remember: 'not' and 'not anymore' are built the same way, only the second little word changes. See you next time!"
 CLOSING = ('cecile', 'À bientôt!')
 STORY = [('miranda',
@@ -87,80 +87,25 @@ STORY = [('miranda',
   ''),
  ('cecile', 'Oui, bien sûr, mais…', 'Yes, of course, but…', [(756, 'Oui, bien sûr, mais')], ''),
  ('cecile', 'Je ne sais plus.', "I don't know anymore.", [(757, 'Je ne sais plus')], '')]
-WALK = [(0,
-  'Quentin a réfléchi.',
-  "'Quentin has thought it over.' The past action uses 'have' and a short past form ending in a clear vowel "
-  'sound. The thought is complete before this meeting begins.'),
- (0,
-  'Il te veut vraiment.',
-  "'He really wants you.' Miranda places the short object meaning 'you' before 'wants'. The final word "
-  'strengthens her reassurance.'),
- (1,
-  None,
-  "'Thanks, that's great!' The last word sounds just like its English cousin, and the French use it all the "
-  'time for anything they like. But then comes the catch.'),
- (2,
-  None,
-  "'But he wants a younger woman.' The comparison literally says 'more young'. The small word for 'more' "
-  'goes before the description, as Miranda explains the problem.'),
- (3,
-  None,
-  "'If you want the part, you have to change.' The second half uses the verb 'must'. Cécile doesn't see what "
-  'he means.'),
- (4,
-  None,
-  "'I don't understand.' Notice the two little negative words around the verb. Keep that in mind; there's a "
-  'variation at the end of the scene.'),
- (5,
-  'Tu as de la chance.',
-  "'You're lucky.' Literally 'you have some luck'. French often uses 'to have' where English uses 'to be'."),
- (5,
-  'Il faut juste faire les joues.',
-  "'You just need to have your cheeks done.' The first two words mean 'it is necessary', a very handy way to "
-  "say what has to happen, without saying who. Cécile can't believe it."),
- (6,
-  None,
-  "'An operation? Are you serious?' Cecile uses the feminine form of 'serious' because she is questioning "
-  'Miranda. The rising voice makes it a question without a special question expression.'),
- (7,
-  None,
-  "'It's lipofilling.' The small word before the treatment name introduces an unspecified amount. Miranda "
-  'gives it a technical name to make the proposal sound less alarming.'),
- (8,
-  None,
-  "'It's totally different.' The long word before 'different' means 'completely'. It strengthens the "
-  "producer's claim rather than naming a different procedure."),
- (9,
-  None,
-  "'Sorry, I'm not touching my face.' The word for 'sorry' has a feminine ending, because Cécile is a "
-  'woman.'),
- (10,
-  None,
-  "'Wait, Cécile. Let's listen to Miranda.' This second command ends in the sound for 'let's', which means "
-  "'we' are doing it together. Miranda makes it sound like nothing."),
- (11, None, "'It's so simple.' The middle word means 'so' or 'really', and it makes anything stronger."),
- (12,
-  None,
-  "'And there you go, it's done. Baby face!' The first short expression presents a finished result, like "
-  "'there you are'. Miranda makes the change sound quick and easy."),
- (13,
-  None,
-  "'No, it's easy to say done.' She throws Miranda's own word back at her. Then she says what she's seen "
-  'around her.'),
- (14,
-  None,
-  "'They start with Botox, then they don't stop anymore.' The second negative word means 'anymore', "
-  "replacing ordinary 'not'. Here 'they' refers to other women having cosmetic treatments."),
- (15,
-  None,
-  "'Do you want to play the immortal woman?' The character's title is feminine, so the article and its "
-  'ending refer to a woman. The part is the one Cecile still hopes to play.'),
- (16,
-  None,
-  "'Yes, of course, but…' The final small word promises a qualification. Cecile leaves it unfinished because "
-  'she is still unsure.'),
- (17,
-  None,
-  "'I don't know anymore.' Compare it with 'I don't know', which would end with the usual negative word. "
-  "Here, the word for 'anymore' takes its place. One small swap, and you go from not knowing to no longer "
-  "knowing. Here's the scene again from start to finish.")]
+WALK = [
+    (0, 'Quentin a réfléchi.', "'Quentin has thought it over.' The past action uses 'have' and a short past form ending in a clear vowel sound. The thought is complete before this meeting begins."),
+    (0, 'Il te veut vraiment.', "'He really wants you.' Miranda places the short object meaning 'you' before 'wants'. The final word strengthens her reassurance."),
+    (1, None, "'Thanks, that's great!' The last word sounds just like its English cousin, and the French use it all the time for anything they like. But then comes the catch."),
+    (2, None, "'But he wants a younger woman.' The comparison literally says 'more young'. The small word for 'more' goes before the description, as Miranda explains the problem."),
+    (3, None, "'If you want the part, you have to change.' The second half uses the verb 'must'. Cécile doesn't see what he means."),
+    (4, None, "'I don't understand.' Notice the two little negative words around the verb. Keep that in mind; there's a variation at the end of the scene."),
+    (5, 'Tu as de la chance.', "'You're lucky.' Literally 'you have some luck'. French often uses 'to have' where English uses 'to be'."),
+    (5, 'Il faut juste faire les joues.', "'You just need to have your cheeks done.' The first two words mean 'it is necessary', a very handy way to say what has to happen, without saying who. Cécile can't believe it."),
+    (6, None, "'An operation? Are you serious?' Cecile uses the feminine form of 'serious' because she is questioning Miranda. The rising voice makes it a question without a special question expression."),
+    (7, None, "'It's lipofilling.' The small word before the treatment name introduces an unspecified amount. Miranda gives it a technical name to make the proposal sound less alarming."),
+    (8, None, "'It's totally different.' The long word before 'different' means 'completely'. It strengthens the producer's claim rather than naming a different procedure."),
+    (9, None, "'Sorry, I'm not touching my face.' The word for 'sorry' has a feminine ending, because Cécile is a woman."),
+    (10, None, "'Wait, Cécile. Let's listen to Miranda.' This second command ends in the sound for 'let's', which means 'we' are doing it together. Miranda makes it sound like nothing."),
+    (11, None, "'It's so simple.' The middle word means 'so' or 'really', and it makes anything stronger."),
+    (12, None, "'And there you go, it's done. Baby face!' The first short expression presents a finished result, like 'there you are'. Miranda makes the change sound quick and easy."),
+    (13, None, "'No, it's easy to say done.' She throws Miranda's own word back at her. Then she says what she's seen around her."),
+    (14, None, "'They start with Botox, then they don't stop anymore.' The second negative word means 'anymore', replacing ordinary 'not'. Here 'they' refers to other women having cosmetic treatments."),
+    (15, None, "'Do you want to play the immortal woman?' The character's title is feminine, so the article and its ending refer to a woman. The part is the one Cecile still hopes to play."),
+    (16, None, "'Yes, of course, but…' The final small word promises a qualification. Cecile leaves it unfinished because she is still unsure."),
+    (17, None, "'I don't know anymore.' Compare it with 'I don't know', which would end with the usual negative word. Here, the word for 'anymore' takes its place. One small swap, and you go from not knowing to no longer knowing."),
+]

@@ -15,7 +15,7 @@ INTRO = ("Camille has found work as Andrea's assistant, despite Mathias's refusa
  'find her at his own agency and tries to persuade her to leave. Listen to the argument, and then to '
  "Noemie's mistaken warning about Mathias.")
 OPENER = "Let's take it slowly. Mathias stops dead when he sees Camille in the corridor, and his first words are not exactly a warm hello."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('You have heard an offer of help, a refusal and a warning. The familiar and polite forms of you change with '
  'the relationship between the speakers. See you next time.')
 CLOSING = ('camille', 'À bientôt!')
@@ -83,68 +83,22 @@ STORY = [('mathias',
   [(461, 'Mathias, vous savez'), (462, 'est marié')],
   'The familiar address is confirmed by original French audio.'),
  ('noemie', 'Il est très, très marié.', "He's very, very married.", [(463, 'Il est très, très marié')], '')]
-WALK = [(0,
-  None,
-  "'What are you doing here?' He uses the casual 'you', the one for family and friends, so we already sense "
-  'these two know each other well. Camille answers brightly.'),
- (1,
-  "J'ai trouvé un travail.",
-  "'I found a job.' This is the past French uses most in conversation: a helper word, 'have', plus the "
-  "action. Literally 'I have found a job'."),
- (1,
-  'Super, non?',
-  "'Great, isn't it?' Adding the little word for 'no' with a question mark at the end is an easy way to ask "
-  'for agreement. Mathias can only repeat her words.'),
- (3,
-  None,
-  "'I'm Andrea Martel's new assistant.' The description 'new' has a feminine form to match 'assistant'. "
-  "French names the owner after a short linking word, which loses its vowel before Andrea's name."),
- (4,
-  None,
-  "'Listen, I reacted badly this morning.' He starts with a casual command, 'listen', to calm things down. "
-  "It's almost an apology."),
- (5,
-  None,
-  "'I wasn't expecting to see you.' The expression meaning 'expect' is followed by a short linking word and "
-  "the action 'see'. The small word for 'you' comes just before that action."),
- (6,
-  None,
-  "'If you want, I can help you find a job.' The offer begins with 'if' and a present form. After 'can', "
-  "'help' stays in its plain form, followed by another link to 'find'."),
- (7,
-  None,
-  "'That's kind, but I'm fine here.' French literally says 'I am well here'. Camille uses the description "
-  "'kind' to acknowledge his offer before 'but' turns it down."),
- (8,
-  None,
-  "'No, Camille! It's not possible.' Here is that negative wrap again, around the verb 'is'. In fast speech "
-  "the French often drop the first little word, and you'll hear exactly that in the episode."),
- (9, None, "'Why?' One short word, and Camille stands her ground."),
- (10,
-  'Parce que tu ne peux pas.',
-  "'Because you can't.' The verb here means 'to be able to', and it often stands alone like this."),
- (10,
-  "C'est ma vie!",
-  "'It's my life!' The possessive is feminine because 'life' is a feminine noun. Mathias's own gender does "
-  'not choose its form.'),
- (11,
-  None,
-  "'You give me nothing.' Another negative wrap, this time with a different second word, the one that means "
-  "'nothing'. Camille fires back."),
- (12,
-  None,
-  "'So I'll manage on my own, as always!' That verb in the middle is a very French one: to get by, to sort "
-  "yourself out. The word for 'alone' is feminine here, because she is talking about herself. Then Mathias "
-  'walks off.'),
- (13,
-  None,
-  "'Hello. Actually, you and him...' After 'and', French uses the separate form of 'you', just as it uses a "
-  "separate form of 'him'. Noemie is hinting at a relationship she has misunderstood."),
- (14,
-  None,
-  "'Mathias, you know, is married.' The little aside 'you know' directly addresses Camille. It has the "
-  'familiar form and interrupts the statement about Mathias.'),
- (15,
-  None,
-  "'He's very, very married.' Repeating 'very' strengthens Noemie's warning. The description of Mathias has "
-  'a masculine form; its feminine form would sound the same.')]
+WALK = [
+    (0, None, "'What are you doing here?' He uses the casual 'you', the one for family and friends, so we already sense these two know each other well. Camille answers brightly."),
+    (1, "J'ai trouvé un travail.", "'I found a job.' This is the past French uses most in conversation: a helper word, 'have', plus the action. Literally 'I have found a job'."),
+    (1, 'Super, non?', "'Great, isn't it?' Adding the little word for 'no' with a question mark at the end is an easy way to ask for agreement. Mathias can only repeat her words."),
+    (3, None, "'I'm Andrea Martel's new assistant.' The description 'new' has a feminine form to match 'assistant'. French names the owner after a short linking word, which loses its vowel before Andrea's name."),
+    (4, None, "'Listen, I reacted badly this morning.' He starts with a casual command, 'listen', to calm things down. It's almost an apology."),
+    (5, None, "'I wasn't expecting to see you.' The expression meaning 'expect' is followed by a short linking word and the action 'see'. The small word for 'you' comes just before that action."),
+    (6, None, "'If you want, I can help you find a job.' The offer begins with 'if' and a present form. After 'can', 'help' stays in its plain form, followed by another link to 'find'."),
+    (7, None, "'That's kind, but I'm fine here.' French literally says 'I am well here'. Camille uses the description 'kind' to acknowledge his offer before 'but' turns it down."),
+    (8, None, "'No, Camille! It's not possible.' Here is that negative wrap again, around the verb 'is'. In fast speech the French often drop the first little word, and you'll hear exactly that in the episode."),
+    (9, None, "'Why?' One short word, and Camille stands her ground."),
+    (10, 'Parce que tu ne peux pas.', "'Because you can't.' The verb here means 'to be able to', and it often stands alone like this."),
+    (10, "C'est ma vie!", "'It's my life!' The possessive is feminine because 'life' is a feminine noun. Mathias's own gender does not choose its form."),
+    (11, None, "'You give me nothing.' Another negative wrap, this time with a different second word, the one that means 'nothing'. Camille fires back."),
+    (12, None, "'So I'll manage on my own, as always!' That verb in the middle is a very French one: to get by, to sort yourself out. The word for 'alone' is feminine here, because she is talking about herself. Then Mathias walks off."),
+    (13, None, "'Hello. Actually, you and him...' After 'and', French uses the separate form of 'you', just as it uses a separate form of 'him'. Noemie is hinting at a relationship she has misunderstood."),
+    (14, None, "'Mathias, you know, is married.' The little aside 'you know' directly addresses Camille. It has the familiar form and interrupts the statement about Mathias."),
+    (15, None, "'He's very, very married.' Repeating 'very' strengthens Noemie's warning. The description of Mathias has a masculine form; its feminine form would sound the same."),
+]

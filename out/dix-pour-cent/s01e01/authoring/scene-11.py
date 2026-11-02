@@ -15,7 +15,7 @@ INTRO = ('Samuel has left for his holiday, and Gabriel has turned away another c
  'Camille to the other assistants; Herve then gives her a tour while Noemie stays at her desk. Listen to the '
  'French first, and follow the rooms and the gossip.')
 OPENER = "Let's retrace the tour. Camille first wants to know more about Mathias's assistant and her boss."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('The tour has given Camille new colleagues, office vocabulary and some dangerous gossip. You have heard '
  'short ways to introduce a place, ask a question and describe someone; see you next time.')
 CLOSING = ('camille', 'À plus!')
@@ -80,75 +80,25 @@ STORY = [('camille',
   [(389, 'Regardez'), (391, 'Cécile est là')],
   'A1 dialogue preserves the familiar address confirmed by original audio.'),
  ('camille', 'Cécile de France? Ici?', 'Cécile de France? Here?', [], '')]
-WALK = [(0,
-  None,
-  "'Are you Mathias Barneville's assistant?' Notice how it's built: you are, the assistant, of Mathias. "
-  "French marks ownership with a separate word meaning 'of', rather than with the English possessive ending. Noémie answers at once."),
- (1,
-  'Il est très sympa.',
-  "'He's very nice.' The last word is a short, friendly way of saying 'nice' or 'likeable'. Hervé doesn't "
-  'agree at all.'),
- (2,
-  None,
-  "'Everyone thinks he's horrible.' The opening expression literally says 'all the world' and takes a "
-  "singular action. The little word before 'finds' means 'him', so it refers back to Mathias."),
- (3,
-  None,
-  "'This is Accounts. They're lovely.' The first sentence names a department, while the plural subject in "
-  'the next sentence refers to its staff. Hervé is describing the people, rather than the office.'),
- (4, None, "'Hello, I'm Camille!' The verb 'to be', first person: I am. Short and warm."),
- (5,
-  None,
-  "'Now I'll show you the Legal Department.' The present form of 'show' describes what Herve is about to do. "
-  'The person receiving the tour appears before that action.'),
- (6,
-  'Voici les scripts.',
-  "'Here are the scripts.' This little word is how you present something: here is, here are."),
- (6,
-  'Sans scénario, pas de film!',
-  "'No script, no film!' This compact expression leaves out the actions. The first part begins with "
-  "'without'; the second uses a short pair meaning 'no' before the film noun."),
- (7, None, "'And here, who's Arlette?' Camille asks a casual question: 'it is who, Arlette?'"),
- (8,
-  None,
-  "'Arlette is the most senior agent in Paris.' The noun for the senior member has a feminine form because "
-  "it names Arlette. The small word after it means 'of the' and introduces the group of agents."),
- (9,
-  None,
-  "'She says impresario, not agent.' A short negative can contrast two labels without repeating the whole "
-  'sentence. Arlette prefers the older title for her work.'),
- (10,
-  None,
-  "'And Andrea doesn't read?' The two negative words go on either side of 'reads'. Camille is surprised by "
-  "the small number of scripts on Andrea's shelf."),
- (11,
-  'Tu plaisantes?',
-  "'Are you kidding?' Herve uses the familiar address, just as Camille did at the desks. The short question "
-  'challenges her guess about Andrea.'),
- (11,
-  'Andréa lit tout.',
-  "'Andréa reads everything.' The same verb as before, now without the negative around it."),
- (12,
-  None,
-  "'She's scared of missing something.' French says 'she has fear' rather than using 'is scared'. A linking "
-  "word then leads to the action she is afraid of, and the final pair means 'something'."),
- (13,
-  'Et voilà la salle de presse.',
-  "'And here's the press room.' This is the cousin of the word we heard with the scripts, and it often means "
-  "'there you go'."),
- (13,
-  'On appelle ça la boutique.',
-  "'We call it the shop.' Free gifts for the stars end up there. The first little word means 'we' or "
-  "'people' in everyday speech. And then the gossip turns to the star of the day."),
- (14,
-  None,
-  "'Cecile de France? Turned down, because of her age.' The description 'turned down' has a feminine ending "
-  'for Cecile. The following three-word expression gives the reason for the rejection.'),
- (15,
-  None,
-  "'Look! Cecile's here!' The first word is a familiar instruction. Herve points out the view, then "
-  'recognises the actress arriving below.'),
- (16,
-  None,
-  "'Cecile de France? Here?' Names can form part of a question without a verb. The final location word and a "
-  "rising voice express Camille's surprise.")]
+WALK = [
+    (0, None, "'Are you Mathias Barneville's assistant?' Notice how it's built: you are, the assistant, of Mathias. French marks ownership with a separate word meaning 'of', rather than with the English possessive ending. Noémie answers at once."),
+    (1, 'Il est très sympa.', "'He's very nice.' The last word is a short, friendly way of saying 'nice' or 'likeable'. Hervé doesn't agree at all."),
+    (2, None, "'Everyone thinks he's horrible.' The opening expression literally says 'all the world' and takes a singular action. The little word before 'finds' means 'him', so it refers back to Mathias."),
+    (3, None, "'This is Accounts. They're lovely.' The first sentence names a department, while the plural subject in the next sentence refers to its staff. Hervé is describing the people, rather than the office."),
+    (4, None, "'Hello, I'm Camille!' The verb 'to be', first person: I am. Short and warm."),
+    (5, None, "'Now I'll show you the Legal Department.' The present form of 'show' describes what Herve is about to do. The person receiving the tour appears before that action."),
+    (6, 'Voici les scripts.', "'Here are the scripts.' This little word is how you present something: here is, here are."),
+    (6, 'Sans scénario, pas de film!', "'No script, no film!' This compact expression leaves out the actions. The first part begins with 'without'; the second uses a short pair meaning 'no' before the film noun."),
+    (7, None, "'And here, who's Arlette?' Camille asks a casual question: 'it is who, Arlette?'"),
+    (8, None, "'Arlette is the most senior agent in Paris.' The noun for the senior member has a feminine form because it names Arlette. The small word after it means 'of the' and introduces the group of agents."),
+    (9, None, "'She says impresario, not agent.' A short negative can contrast two labels without repeating the whole sentence. Arlette prefers the older title for her work."),
+    (10, None, "'And Andrea doesn't read?' The two negative words go on either side of 'reads'. Camille is surprised by the small number of scripts on Andrea's shelf."),
+    (11, 'Tu plaisantes?', "'Are you kidding?' Herve uses the familiar address, just as Camille did at the desks. The short question challenges her guess about Andrea."),
+    (11, 'Andréa lit tout.', "'Andréa reads everything.' The same verb as before, now without the negative around it."),
+    (12, None, "'She's scared of missing something.' French says 'she has fear' rather than using 'is scared'. A linking word then leads to the action she is afraid of, and the final pair means 'something'."),
+    (13, 'Et voilà la salle de presse.', "'And here's the press room.' This is the cousin of the word we heard with the scripts, and it often means 'there you go'."),
+    (13, 'On appelle ça la boutique.', "'We call it the shop.' Free gifts for the stars end up there. The first little word means 'we' or 'people' in everyday speech. And then the gossip turns to the star of the day."),
+    (14, None, "'Cecile de France? Turned down, because of her age.' The description 'turned down' has a feminine ending for Cecile. The following three-word expression gives the reason for the rejection."),
+    (15, None, "'Look! Cecile's here!' The first word is a familiar instruction. Herve points out the view, then recognises the actress arriving below."),
+    (16, None, "'Cecile de France? Here?' Names can form part of a question without a verb. The final location word and a rising voice express Camille's surprise."),
+]

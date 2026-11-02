@@ -144,7 +144,7 @@
     "batch": 16,
     "prio": -1,
     "gpu": {
-      "ttsMiB": 12000,
+      "ttsMiB": 7800,
       "asrMiB": 2500
     },
     "scenesPerRun": 2
@@ -168,13 +168,13 @@
     "chunk": 400,
     "prio": -1,
     "gpu": {
-      "ttsMiB": 16000,
+      "ttsMiB": 9000,
       "asrMiB": 2500
     }
   },
   "gpu": {
     "_note": "VRAM reservations for pipeline/gpu/gpurun; one reservation per step per scene. Steps are separate processes so the MMS step of scene N can overlap the Qwen step of scene N+1. ttsMiB 6300 is the measured peak of batch 4 (6.2 GB; batch 1 peaks at 4.6 GB, batch 8 at 7.0 GB). Set tts.batch 1 and ttsMiB 4800 to share the card more.",
-    "ttsMiB": 12000,
+    "ttsMiB": 7800,
     "ruMiB": 3400,
     "enMiB": 2400,
     "alignMiB": 1500

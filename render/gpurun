@@ -77,7 +77,9 @@ def ahead_of(me):
             except OSError:
                 pass
             continue
-        if w["pid"] != me["pid"] and (-w["prio"], w["t"]) < (-me["prio"], me["t"]):
+        # Only block backfilling behind large whole-card/training waiters (>=18 GiB)
+        # so short 1.5-2.5 GiB align/ASR steps immediately fill open VRAM gaps.
+        if w["pid"] != me["pid"] and w["mib"] >= 18000 and (-w["prio"], w["t"]) < (-me["prio"], me["t"]):
             total += w["mib"]
     return total
 

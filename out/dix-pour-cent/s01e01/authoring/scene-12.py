@@ -15,7 +15,7 @@ INTRO = ('Cecile has come to the agency after Gabriel avoids her calls. While he
  'lunch with Sofia, his assistant Herve faces her questions. Listen to how Herve tries to escape the '
  'conversation with an urgent phone call.')
 OPENER = "Let's go back through the visit. Cecile starts by explaining who she has come to see."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("You have heard a visitor's request, a question about the time and several excuses. Listen again for the "
  "short actions that follow 'want', 'must' and 'go'; see you next time.")
 CLOSING = ('cecile', "À tout à l'heure!")
@@ -68,64 +68,21 @@ STORY = [('cecile',
   [(416, 'Oui, allô'), (419, "Ça fait des mois que j'attends ton appel")],
   ''),
  ('cecile', 'Un appel urgent? Vraiment?', 'An urgent call? Really?', [], '')]
-WALK = [(0,
-  'Je suis là pour voir Gabriel.',
-  "'I'm here to see Gabriel.' The short word meaning 'here' locates Cecile, and the linking word after it "
-  "explains her purpose. The plain action 'see' comes at the end of that pattern."),
- (1,
-  None,
-  "'Herve! Herve!' Cecile repeats his name to get his attention. The repeated call makes him stop and turn "
-  'toward her.'),
- (2,
-  None,
-  "'Oh! Hello, Cecile.' The opening sound shows surprise. Herve follows it with the ordinary daytime "
-  'greeting and her first name.'),
- (3,
-  None,
-  "'Do I still have an agent here?' The word in the middle means 'still', and it's what makes the question "
-  'sting. Notice the question is just a statement with a rising voice; no special word order needed.'),
- (4,
-  None,
-  "'Yes, why?' The short question word can stand on its own after an answer. Herve is asking why Cecile "
-  'doubts that she still has an agent.'),
- (5,
-  None,
-  "'Maybe it's all in my head.' Literally, the phrase begins 'it is perhaps'. The word meaning 'maybe' "
-  "follows the form of 'be', and 'my' has a feminine form to match 'head'."),
- (6,
-  None,
-  "'But I have the feeling Gabriel is avoiding me.' French says 'I have the impression that' for this "
-  'feeling. Gabriel is trying to slip away while Cecile speaks to his assistant.'),
- (7, 'Il est une heure.', "'It's one o'clock.' For the time, French says 'it is one hour'."),
- (7,
-  'Je vais déjeuner.',
-  "'I'm going to lunch.' Here's a pattern you'll use every day: the verb 'to go' plus another verb in its "
-  "basic form talks about what you're about to do. I'm going to eat lunch."),
- (8,
-  None,
-  "'Sofia, do you want to come with me?' The polite request links 'want' to the plain action 'come'. After "
-  "'with', French uses a separate form for the person who would accompany Sofia."),
- (9,
-  None,
-  "'What's going on here?' The opening asks 'what', while the action means 'is happening'. Cecile is now "
-  'questioning Herve, who reaches for his telephone.'),
- (10,
-  'Je suis désolé.',
-  "'I'm sorry.' The description is masculine because Herve is speaking about himself. A woman adds a written "
-  'letter at the end, but the apology sounds the same.'),
- (10,
-  "Je dois répondre, c'est urgent.",
-  "'I have to answer, it's urgent.' Another verb plus a basic-form verb: I must, then 'answer'. And he "
-  'starts talking to someone, or perhaps to no one.'),
- (11,
-  'Oui, allô?',
-  "'Yes, hello?' This particular greeting is used for answering the telephone. It suits Herve's attempt to "
-  'make his call sound real.'),
- (11,
-  "Ça fait des mois que j'attends ton appel!",
-  "'I've been waiting for your call for months!' French uses a present form of 'wait' after the expression "
-  'for elapsed time. The waiting began earlier and, in his story, continues until this call.'),
- (12,
-  None,
-  "'An urgent call? Really?' The description follows the noun for 'call'. The final adverb questions whether "
-  "Herve's excuse is true.")]
+WALK = [
+    (0, 'Je suis là pour voir Gabriel.', "'I'm here to see Gabriel.' The short word meaning 'here' locates Cecile, and the linking word after it explains her purpose. The plain action 'see' comes at the end of that pattern."),
+    (1, None, "'Herve! Herve!' Cecile repeats his name to get his attention. The repeated call makes him stop and turn toward her."),
+    (2, None, "'Oh! Hello, Cecile.' The opening sound shows surprise. Herve follows it with the ordinary daytime greeting and her first name."),
+    (3, None, "'Do I still have an agent here?' The word in the middle means 'still', and it's what makes the question sting. Notice the question is just a statement with a rising voice; no special word order needed."),
+    (4, None, "'Yes, why?' The short question word can stand on its own after an answer. Herve is asking why Cecile doubts that she still has an agent."),
+    (5, None, "'Maybe it's all in my head.' Literally, the phrase begins 'it is perhaps'. The word meaning 'maybe' follows the form of 'be', and 'my' has a feminine form to match 'head'."),
+    (6, None, "'But I have the feeling Gabriel is avoiding me.' French says 'I have the impression that' for this feeling. Gabriel is trying to slip away while Cecile speaks to his assistant."),
+    (7, 'Il est une heure.', "'It's one o'clock.' For the time, French says 'it is one hour'."),
+    (7, 'Je vais déjeuner.', "'I'm going to lunch.' Here's a pattern you'll use every day: the verb 'to go' plus another verb in its basic form talks about what you're about to do. I'm going to eat lunch."),
+    (8, None, "'Sofia, do you want to come with me?' The polite request links 'want' to the plain action 'come'. After 'with', French uses a separate form for the person who would accompany Sofia."),
+    (9, None, "'What's going on here?' The opening asks 'what', while the action means 'is happening'. Cecile is now questioning Herve, who reaches for his telephone."),
+    (10, 'Je suis désolé.', "'I'm sorry.' The description is masculine because Herve is speaking about himself. A woman adds a written letter at the end, but the apology sounds the same."),
+    (10, "Je dois répondre, c'est urgent.", "'I have to answer, it's urgent.' Another verb plus a basic-form verb: I must, then 'answer'. And he starts talking to someone, or perhaps to no one."),
+    (11, 'Oui, allô?', "'Yes, hello?' This particular greeting is used for answering the telephone. It suits Herve's attempt to make his call sound real."),
+    (11, "Ça fait des mois que j'attends ton appel!", "'I've been waiting for your call for months!' French uses a present form of 'wait' after the expression for elapsed time. The waiting began earlier and, in his story, continues until this call."),
+    (12, None, "'An urgent call? Really?' The description follows the noun for 'call'. The final adverb questions whether Herve's excuse is true."),
+]

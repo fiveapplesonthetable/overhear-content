@@ -15,7 +15,7 @@ INTRO = ('Gabriel has gone to lunch with Sofia, who hopes he will take an intere
  'job and offers him the flyer for her play, while he is distracted by a problem at work. Listen to their '
  'conversation before Cecile arrives at the table.')
 OPENER = "Let's go back through it. Sofia takes a deep breath and starts with a confession about her day job."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "Well done: you just sat through Sofia's first pitch in French. Listen for 'I'm an actress' when you watch, and for the moment Cécile walks in. See you next time!"
 CLOSING = ('sofia', 'Au revoir!')
 STORY = [('sofia',
@@ -71,56 +71,19 @@ STORY = [('sofia',
   'A problem at work, Gabriel?',
   [(485, 'Un problème au boulot, Gabriel ?')],
   '')]
-WALK = [(0,
-  None,
-  "'So, actually, I'm not really a receptionist.' 'So' introduces Sofia's explanation, and the next short "
-  "expression means 'in fact'. Before a job description, French can leave out the word meaning 'a'."),
- (1,
-  None,
-  "'It's just a job to make my family happy.' Literally 'to do pleasure to my family'. Then she adds, with a "
-  'smile...'),
- (2,
-  None,
-  "'My banker too.' The first small word, meaning 'to', carries on the previous expression about pleasing "
-  'someone. The final word adds the banker to her family.'),
- (3,
-  None,
-  "'Because actually, I'm an actress.' This noun can mean an actor on stage or screen. It does not mean that "
-  'Sofia necessarily performs comedy.'),
- (4,
-  None,
-  "'Right now, I am acting in a new show.' The verb meaning 'play' also means 'act' in this setting. A short "
-  'expression at the beginning tells us that she is performing at present.'),
- (5,
-  None,
-  "'Porte des Lilas, right.' Gabriel repeats the place name. The small expression at the end signals "
-  "agreement or acknowledgement, as English 'okay' does."),
- (6,
-  None,
-  "'It would be great if you could come.' The first action is a hypothetical 'would be'. After 'if', French "
-  "uses a past form of 'can', even though the invitation concerns a future visit."),
- (7,
-  'Voilà le flyer.',
-  "'Here's the flyer.' This handy word means 'here it is', when you hand something over. The French borrow "
-  'the English word for the leaflet.'),
- (7,
-  "Ça s'appelle Absence.",
-  "'It's called Absence.' Literally 'it calls itself Absence', the same pattern French uses to say your own "
-  'name.'),
- (8,
-  None,
-  "'Thank you.' This can acknowledge something someone hands you, as Gabriel does with the flyer. It does "
-  'not promise that he will attend.'),
- (9, None, "'You're not interested?' Sofia forms a question just by raising her voice at the end."),
- (10,
-  None,
-  "'No, it's not that.' The final word points back to Sofia's suggestion that he is uninterested. He denies "
-  'that explanation without yet giving his own.'),
- (11,
-  None,
-  "'I've got a problem at work.' The noun for 'work' is informal. The short word before it combines 'at' "
-  "with the masculine article 'the'."),
- (12,
-  None,
-  "'A problem at work, Gabriel?' Cecile repeats his words as a question. Naming him at the end makes it "
-  'clear that she expects an answer.')]
+WALK = [
+    (0, None, "'So, actually, I'm not really a receptionist.' 'So' introduces Sofia's explanation, and the next short expression means 'in fact'. Before a job description, French can leave out the word meaning 'a'."),
+    (1, None, "'It's just a job to make my family happy.' Literally 'to do pleasure to my family'. Then she adds, with a smile..."),
+    (2, None, "'My banker too.' The first small word, meaning 'to', carries on the previous expression about pleasing someone. The final word adds the banker to her family."),
+    (3, None, "'Because actually, I'm an actress.' This noun can mean an actor on stage or screen. It does not mean that Sofia necessarily performs comedy."),
+    (4, None, "'Right now, I am acting in a new show.' The verb meaning 'play' also means 'act' in this setting. A short expression at the beginning tells us that she is performing at present."),
+    (5, None, "'Porte des Lilas, right.' Gabriel repeats the place name. The small expression at the end signals agreement or acknowledgement, as English 'okay' does."),
+    (6, None, "'It would be great if you could come.' The first action is a hypothetical 'would be'. After 'if', French uses a past form of 'can', even though the invitation concerns a future visit."),
+    (7, 'Voilà le flyer.', "'Here's the flyer.' This handy word means 'here it is', when you hand something over. The French borrow the English word for the leaflet."),
+    (7, "Ça s'appelle Absence.", "'It's called Absence.' Literally 'it calls itself Absence', the same pattern French uses to say your own name."),
+    (8, None, "'Thank you.' This can acknowledge something someone hands you, as Gabriel does with the flyer. It does not promise that he will attend."),
+    (9, None, "'You're not interested?' Sofia forms a question just by raising her voice at the end."),
+    (10, None, "'No, it's not that.' The final word points back to Sofia's suggestion that he is uninterested. He denies that explanation without yet giving his own."),
+    (11, None, "'I've got a problem at work.' The noun for 'work' is informal. The short word before it combines 'at' with the masculine article 'the'."),
+    (12, None, "'A problem at work, Gabriel?' Cecile repeats his words as a question. Naming him at the end makes it clear that she expects an answer."),
+]
