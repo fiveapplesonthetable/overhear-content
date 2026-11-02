@@ -73,7 +73,10 @@ class AudioGates:
                 cur_sil = 0
                 
         max_pause_sec = max_sil_frames * hop_len / sr
-        if max_pause_sec > max_pause:
+        t_strip = text.strip()
+        has_multi_sent = any(p in t_strip[:-1] for p in (". ", "! ", "? ", "… ", "。", "！", "？", "؟")) if len(t_strip) > 2 else False
+        eff_max_pause = max(max_pause, 0.95) if has_multi_sent else max_pause
+        if max_pause_sec > eff_max_pause:
             return False, "pause"
             
         return True, "ok"

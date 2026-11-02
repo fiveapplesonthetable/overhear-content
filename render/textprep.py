@@ -170,11 +170,27 @@ def apply_inserts(text: str, offsets) -> str:
     return "".join(out)
 
 
+def group_turn_chunks(sents, text: str, max_chars: int = 0):
+    """Merge consecutive sentences of one segment up to `max_chars` so TTS voices whole turns with continuous prosody."""
+    if not max_chars or len(sents) <= 1:
+        return sents
+    chunks = []
+    ca, cb = sents[0][0], sents[0][1]
+    for a, b, _s in sents[1:]:
+        if (b - ca) <= max_chars:
+            cb = b
+        else:
+            chunks.append((ca, cb, text[ca:cb]))
+            ca, cb = a, b
+    chunks.append((ca, cb, text[ca:cb]))
+    return chunks
+
+
 def prepare_segment(seg_i: int, role: str, text: str, lang: str, words, policy: str, gap: float, isent: float,
-                    hom=None, ruaccent=None):
-    """Sentences of one segment. `ruaccent`: optional callable(list[str]) -> list[str] marked with U+0301,
-    used for tokens the notes do not cover. Only Russian segments get marks."""
-    sents = split_sentences(text)
+                    hom=None, ruaccent=None, max_turn_chars: int = 0):
+    """Sentences (or merged whole-turn chunks <= `max_turn_chars`) of one segment.
+    `ruaccent`: optional callable(list[str]) -> list[str] marked with U+0301, used for tokens the notes do not cover."""
+    sents = group_turn_chunks(split_sentences(text), text, max_turn_chars)
     out = []
     if lang != "ru" or policy == "none":
         for k, (a, b, s) in enumerate(sents):

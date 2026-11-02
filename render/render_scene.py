@@ -56,9 +56,13 @@ class Renderer:
             voice = roles[g["v"]]
             lang = self.voices.lang_of(voice)
             native_words = native_text.words_for_segment(g["t"], notes_by_seg.get(i), lang) if lang in native_text.LANGUAGES else ()
+            turn_max = int(self.s["audio"].get("turnMaxChars", 240))
+            if lang == "ru" and config.ru_engine(self.s):
+                turn_max = min(turn_max, 90)
             for st in textprep.prepare_segment(
                     i, g["v"], g["t"], lang, notes_by_seg.get(i), self.policy, float(g.get("gap", 0.35) or 0), isent_cfg.get(lang, isent_cfg["en"]),
-                    ruaccent=self.ruaccent if (lang == "ru" and self.s["stress"]["ruaccentFallback"]) else None):
+                    ruaccent=self.ruaccent if (lang == "ru" and self.s["stress"]["ruaccentFallback"]) else None,
+                    max_turn_chars=turn_max):
                 st.voice = voice
                 st.key = tts.cache_key(self.s, voice, self.voices.ref_version(voice), lang, st.tts)
                 if native_words:
@@ -212,11 +216,6 @@ class Renderer:
         for si, g in enumerate(scene.script["segments"]):
             start, end, nxt, sent_spans = lay[si]
             ids = by_seg[si]
-            spans_segments.append({
-                "seg": si, "v": g["v"], "voice": roles[g["v"]], "lang": sents[ids[0]].lang,
-                "start": round(start, 3), "end": round(end, 3), "nextStart": round(nxt, 3),
-                "sentences": [{"i": sents[n].idx, "start": round(a, 3), "end": round(b, 3), "text": sents[n].plain,
-                               "engine": config.engine_label(s, sents[n].lang)} for n, (a, b) in zip(ids, sent_spans)]})
             native = sents[ids[0]].lang in native_text.LANGUAGES
             units = native_text.words_for_segment(g["t"], notes_by_seg.get(si), sents[ids[0]].lang) if native else ()
             toks = [word.text for word in units] if native else seg_tokens(g["t"], notes_by_seg.get(si))
@@ -248,6 +247,37 @@ class Renderer:
                 prev = words[j]["e"]
             timing_bad += sum(1 for w in words if not w["ok"])
             timing[str(si)] = words
+
+            # Derive fine per-sentence (start, end) spans inside merged whole-turn chunks from MMS_FA word timestamps
+            sub_sents = textprep.split_sentences(g["t"])
+            eng_lbl = config.engine_label(s, sents[ids[0]].lang)
+            if len(sub_sents) == len(ids):
+                fine_sentences = [{"i": sents[n].idx, "start": round(a, 3), "end": round(b, 3), "text": sents[n].plain,
+                                   "engine": eng_lbl} for n, (a, b) in zip(ids, sent_spans)]
+            else:
+                fine_sentences = []
+                cur_s = start
+                for sk, (sa, sb, stext) in enumerate(sub_sents):
+                    sw = [words[j] for j, sp in enumerate(tspans) if sp is not None and sa <= sp[0] < sb and words[j] is not None and words[j]["e"] > words[j]["s"]]
+                    if sk == 0:
+                        s_a = start
+                    elif sw:
+                        s_a = max(cur_s, sw[0]["s"])
+                    else:
+                        s_a = cur_s
+                    if sk == len(sub_sents) - 1:
+                        s_b = end
+                    elif sw:
+                        s_b = min(end, max(s_a + 0.01, sw[-1]["e"]))
+                    else:
+                        s_b = min(end, s_a + max(0.05, (end - cur_s) / (len(sub_sents) - sk)))
+                    cur_s = s_b
+                    fine_sentences.append({"i": sk, "start": round(s_a, 3), "end": round(s_b, 3), "text": stext, "engine": eng_lbl})
+
+            spans_segments.append({
+                "seg": si, "v": g["v"], "voice": roles[g["v"]], "lang": sents[ids[0]].lang,
+                "start": round(start, 3), "end": round(end, 3), "nextStart": round(nxt, 3),
+                "sentences": fine_sentences})
 
         still = []
         checked = flagged_words = 0

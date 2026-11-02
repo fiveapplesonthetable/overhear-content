@@ -109,7 +109,8 @@ def engine_label(s, lang):
 
 
 def assembly_signature(s):
-    return {"audio": s["audio"], "align": s["align"], "renderVersion": s["renderVersion"]}
+    return {"audio": s["audio"], "align": s["align"], "renderVersion": s["renderVersion"],
+            "turnMaxChars": int(s["audio"].get("turnMaxChars", 240))}
 
 
 def sha(obj) -> str:
