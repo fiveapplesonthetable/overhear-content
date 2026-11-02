@@ -44,7 +44,8 @@ about the target language**, varied from line to line:
 * where the language differs from English: "Russian happily doubles the no here, 'never' and 'not' together, and that's
   correct."
 * a reusable chunk: "It's a handy sentence for any job you find tough, so swap in your own work for 'kitchen'."
-* a named word, transliterated: "Kostya's little word 'zato' means 'but on the plus side'."
+* a named word, spoken natively as its own segment by the character: narrator "Kostya's little word", kostya "Зато.",
+  narrator "means 'but on the plus side'."
 * register: "She uses the formal 'you' even while disagreeing, which is how a waitress objects to her boss."
 
 A plot or tone note is fine on top of that ("Max sounds proud."), and fine on its own for at most about one line in four.
