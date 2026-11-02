@@ -316,6 +316,21 @@ def run_ru_worker(worker_id: int, batch_seqs: int):
         if sum(1 for _ in cands_dir.glob("*.json")) > 800:
             time.sleep(0.25)
             continue
+        # Prioritize Round 1 (prio 0001..0010): once prio-1 Russian (0001_) is done, yield VRAM to Round-1 Qwen/CustomVoice until Round 1 finishes!
+        if not any(jobs_dir.glob("0001_*.json")) and not any(jobs_dir.glob("0001_*.claim.*")):
+            r1_busy = (
+                any((SHM_ROOT / "jobs_qwen").glob("000[1-9]_*.json"))
+                or any((SHM_ROOT / "jobs_qwen").glob("0010_*.json"))
+                or any((SHM_ROOT / "jobs_en").glob("000[1-9]_*.json"))
+                or any((SHM_ROOT / "jobs_en").glob("0010_*.json"))
+            )
+            if r1_busy:
+                if eng is not None:
+                    log(role, "Round-1 Russian complete; freeing ESpeech VRAM for Round-1 Qwen/CustomVoice")
+                    eng.free()
+                    eng = None
+                time.sleep(3.0)
+                continue
         if idle_ticks % 40 == 20:
             reclaim_stale_claims(jobs_dir)
 
