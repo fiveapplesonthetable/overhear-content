@@ -33,7 +33,7 @@ anything, fix the content, commit, and re-render.
 | ko | The Producers (`the-producers`) | one full episode, S1E1 | `e01.ko.srt` (Whisper large-v3, the whole episode: KBS's three uploaded parts joined) |
 | it | Boris (`boris`) | one full episode, S1E1 | `e01.it.srt` (Whisper large-v3) + `e01.en.srt` (English subtitles) |
 | zh | 幕后之王 Behind the Scenes (`behind-the-scenes`) | one full episode, S1E1 | `e01.zh.srt` (Whisper large-v3) |
-| ja | 全裸監督 The Naked Director (`the-naked-director`) | one full episode, **S2E1** | `s02/e01.ja.srt` + `s02/e01.en.srt` (Netflix subtitles). Closed-caption marks (speaker names in （）, readings in ( ), sound cues) are not dialogue. The show is about the adult-video industry, so keep story lines clean (spec/quality.md §3) |
+| ja | 全裸監督 The Naked Director (`the-naked-director`) | full **season 2** (E1 first) | `s02/eNN.ja.srt` + `s02/eNN.en.srt`, E1-E8 (Netflix subtitles). Closed-caption marks (speaker names in （）, readings in ( ), sound cues) are not dialogue. The show is about the adult-video industry, so keep story lines clean (spec/quality.md §3) |
 | ar | مدرسة الروابي للبنات AlRawabi School for Girls (`alrawabi-school`) | one full episode, S1E1 | `e01.ar.srt` (Whisper large-v3, Jordanian Arabic) |
 
 A "full episode" means the whole episode, every scene from the first cue to the last, as for RU and FR. A pilot language
@@ -132,7 +132,7 @@ Record what each review found and what you changed in `out/PROGRESS.md`. Do not 
 Per episode: every non-merged scene has a script, notes and art, and `validate.py --strict-teaching` passes for the whole
 of `out/`. Text review is clean. `check_render.py --episode` prints `OK: 0 errors`. Every report has been read and the
 listening pass is done. The package is released from a pushed commit, and `out/PROGRESS.md` says so. RU and FR are done when
-every listed season is; each pilot language is done when its one full episode is.
+every listed season is; each pilot language is done when every episode it has in `sources/` is; do its E1 first, then the rest in order.
 
 ## Rules recap
 
