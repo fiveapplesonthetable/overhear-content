@@ -1,0 +1,643 @@
+{
+ "schemaVersion": 1,
+ "id": "kukhnya-s01e04-scene-19",
+ "pair": "ru-en",
+ "title": "Обед для персонала  (Staff Lunch)",
+ "level": "A1 — Duolingo Section 2",
+ "labels": {
+  "max": "Макс",
+  "senya": "Сеня"
+ },
+ "segments": [
+  {
+   "v": "narrator",
+   "t": "The staff are hungry, and Max is in charge of lunch. Senya asks when it will be ready, and Max promises a special soup that is nothing like the usual slop. Here's the Russian first.",
+   "gap": 0.8
+  },
+  {
+   "v": "senya",
+   "t": "Макс, мы сегодня обедать будем?",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Конечно, всё уже почти готово!",
+   "gap": 0.55
+  },
+  {
+   "v": "senya",
+   "t": "Мы все очень хотим есть.",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Подождите ещё пару минут.",
+   "gap": 0.55
+  },
+  {
+   "v": "senya",
+   "t": "Что ты нам приготовил сегодня?",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Я сварил особенный суп-пюре.",
+   "gap": 0.55
+  },
+  {
+   "v": "senya",
+   "t": "Обычный суп был бы лучше.",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Вы все пальчики оближете!",
+   "gap": 0.55
+  },
+  {
+   "v": "senya",
+   "t": "Надеюсь, это можно есть.",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Вы такого никогда не пробовали.",
+   "gap": 0.55
+  },
+  {
+   "v": "senya",
+   "t": "Главное, чтобы было вкусно.",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Это не то обычное месиво.",
+   "gap": 0.55
+  },
+  {
+   "v": "senya",
+   "t": "Ладно, неси скорее на стол!",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Сейчас я вас всех удивлю!",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Now the wait for lunch.",
+   "gap": 0.4
+  },
+  {
+   "v": "senya",
+   "t": "Макс, мы сегодня обедать будем?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Max, are we going to have lunch today?' The word for 'to have lunch' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "обедать",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", built from lunch. Senya puts it before ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "будем",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", meaning we will, which stresses the lunch.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Конечно, всё уже почти готово!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Of course, everything is already almost ready!' The word for 'almost' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "почти",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ". ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Готово",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " matches the shape of ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "всё",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", meaning everything.",
+   "gap": 0.4
+  },
+  {
+   "v": "senya",
+   "t": "Мы все очень хотим есть.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'We all really want to eat.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "Хотим есть",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'we want to eat', which is the usual phrase for 'we're hungry'.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Подождите ещё пару минут.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Wait a couple more minutes.' The word for 'wait' aimed at several people is ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "подождите",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ". ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Ещё пару минут",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'another couple of minutes'.",
+   "gap": 0.4
+  },
+  {
+   "v": "senya",
+   "t": "Что ты нам приготовил сегодня?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'What did you prepare for us today?' ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "Нам",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", literally 'to us', does the job of 'for us'. ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "Приготовил",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'prepared' when said of a man.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Я сварил особенный суп-пюре.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I cooked a special purée soup.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Сварил",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is built from the action word for boil, with a prefix showing it is finished. ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Суп-пюре",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is a borrowed combination.",
+   "gap": 0.4
+  },
+  {
+   "v": "senya",
+   "t": "Обычный суп был бы лучше.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'A regular soup would be better.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "Бы",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is the little word for 'would', so ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "был бы лучше",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'would be better'.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Вы все пальчики оближете!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'You will all lick your fingers!' A cook's promise: ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "пальчики оближете",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", literally 'you'll lick your little fingers', is the Russian phrase for 'finger-licking good'. ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Пальчики",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is built from the normal word for fingers.",
+   "gap": 0.4
+  },
+  {
+   "v": "senya",
+   "t": "Надеюсь, это можно есть.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I hope this is edible.' The word for 'I hope', ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "надеюсь",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", shares a root with the name for hope. ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "Можно есть",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " literally means 'it is possible to eat', meaning edible.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Вы такого никогда не пробовали.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'You have never tasted such a thing.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Никогда не пробовали",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " doubles the negative. After it, the describing word for 'such a thing' takes its 'of' form, ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "такого",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ".",
+   "gap": 0.4
+  },
+  {
+   "v": "senya",
+   "t": "Главное, чтобы было вкусно.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'The main thing is that it is tasty.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "Чтобы",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'so that', and the action word after it goes into the past, as in ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "чтобы было вкусно",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ".",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Это не то обычное месиво.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'This is not that usual slop.' The word for 'slop', ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "месиво",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", is built from the action word to knead. The describing word ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "обычное",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " matches its shape.",
+   "gap": 0.4
+  },
+  {
+   "v": "senya",
+   "t": "Ладно, неси скорее на стол!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Alright, bring it quickly to the table!' The action word for carry while walking gives us its command to one person, ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "неси",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ". ",
+   "gap": 0.25
+  },
+  {
+   "v": "senya",
+   "t": "На стол",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", literally 'onto the table', uses the little word for a surface.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Сейчас я вас всех удивлю!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Now I will surprise you all!' ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Удивлю",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", meaning I'll surprise, has the word for a marvel at its root. ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Вас всех",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'all of you'. Now let's listen to the whole conversation again from start to finish.",
+   "gap": 0.9
+  },
+  {
+   "v": "senya",
+   "t": "Макс, мы сегодня обедать будем?",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Конечно, всё уже почти готово!",
+   "gap": 0.5
+  },
+  {
+   "v": "senya",
+   "t": "Мы все очень хотим есть.",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Подождите ещё пару минут.",
+   "gap": 0.5
+  },
+  {
+   "v": "senya",
+   "t": "Что ты нам приготовил сегодня?",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Я сварил особенный суп-пюре.",
+   "gap": 0.5
+  },
+  {
+   "v": "senya",
+   "t": "Обычный суп был бы лучше.",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Вы все пальчики оближете!",
+   "gap": 0.5
+  },
+  {
+   "v": "senya",
+   "t": "Надеюсь, это можно есть.",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Вы такого никогда не пробовали.",
+   "gap": 0.5
+  },
+  {
+   "v": "senya",
+   "t": "Главное, чтобы было вкусно.",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Это не то обычное месиво.",
+   "gap": 0.5
+  },
+  {
+   "v": "senya",
+   "t": "Ладно, неси скорее на стол!",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Сейчас я вас всех удивлю!",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Max promises an unforgettable lunch, and the cooks aren't sure whether to be pleased or worried. Notice the phrase for \"finger-licking\".",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Пока!",
+   "gap": 0.3
+  }
+ ],
+ "source": {
+  "show": "Кухня (Kukhnya) S1.04",
+  "file": "sources/kukhnya/s01/e04.ru.dual.srt",
+  "lines": [
+   {
+    "line": 0,
+    "cue": 264,
+    "fragment": "Мы сегодня есть"
+   },
+   {
+    "line": 1,
+    "cue": 265,
+    "fragment": "Все готово"
+   },
+   {
+    "line": 2,
+    "cue": 264,
+    "fragment": "Вообще будем"
+   },
+   {
+    "line": 3,
+    "cue": 265,
+    "fragment": "Будете, будете"
+   },
+   {
+    "line": 5,
+    "cue": 267,
+    "fragment": "Суппюре"
+   },
+   {
+    "line": 7,
+    "cue": 266,
+    "fragment": "пальчики оближите"
+   },
+   {
+    "line": 9,
+    "cue": 267,
+    "fragment": "никогда не пробовали"
+   },
+   {
+    "line": 11,
+    "cue": 268,
+    "fragment": "Не то месиво"
+   }
+  ]
+ },
+ "show": "kukhnya",
+ "season": 1,
+ "episode": 4,
+ "scene": 19
+}

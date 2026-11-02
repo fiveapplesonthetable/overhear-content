@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "The roast goose is ready, and Chef Barinov comes to look at it. It's tiny, much smaller than he expected. The cooks have to decide what to do about it before the banquet. Here is the conversation in Russian first."
 OPENER = "Now let's see how small the goose is."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'A tiny goose, a big banquet, and a chef who needs a plan. If you remember anything, take "iz-za", "because of".'
+OUTRO = 'A tiny goose, a big banquet, and a chef who needs a plan. If you remember anything, take the phrase for "because of".'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Лёва, покажи мне этого гуся.', 'Lyova, show me this goose.', [(255, 'он такой')], ''),
@@ -30,16 +30,103 @@ STORY = [
     ('barinov', 'Гости должны быть довольны нашим банкетом!', 'The guests must be pleased with our banquet!', [(255, 'такой')], ''),
 ]
 WALK = [
-    (0, None, '\'Lyova, show me this goose.\' "Pokazhi" is the "ty" command "show". "Etogo gusya", this goose, takes the creature\'s object endings, -ogo and -ya.'),
-    (1, None, '\'Here it is, chef, I already finished.\' "Vot on" is "here he is", because "gus\'" is masculine. "Zakonchil", finished, ends in -l for a man.'),
-    (2, None, '\'Why is it so strangely small?\' "Chego" is spoken Russian for "why". "Stranno", strangely, is the adverb of "strannyy", strange, and "malen\'kiy" is "small".'),
-    (3, None, '\'It turned out like that because of feathers.\' "Iz-za" is "because of", usually for something bad. "Per\'ya", feathers, becomes "per\'yev" after it, and "tak poluchilos\'" is "so it turned out".'),
-    (4, None, '\'It turned out that it has very thick feathers.\' "Okazalos\'", it turned out, is a handy way to open news. "U nego" is "at him", the goose\'s "have", and "gustyye" is "thick".'),
-    (5, None, '\'We bought a huge bird after all!\' "Zhe" gives the "after all". "Kupili" is "we bought", and "ogromnuyu ptitsu", a huge bird, ends in -u as the thing bought.'),
-    (6, None, '\'I was surprised myself when I was plucking it.\' "Sam udivilsya" is "myself was surprised", with -sya on the verb. "Oshchipyval", was plucking, comes from "shchipat\'", to pinch.'),
-    (7, None, '\'There is very little meat here for the guests.\' "Malo", little, is followed by "myasa", the "of" form of "myaso". "Dlya gostey" is "for the guests".'),
-    (8, None, '\'What should we do with it now?\' "Chto nam delat\'?" is "what to us to do?". "S nim", with him, gets the added "n" after "s".'),
-    (9, None, '\'Prepare a special sauce and a beautiful side dish.\' "Prigotov\'" is the command "prepare". "Sous" and "garnir", side dish, both came from French.'),
-    (10, None, '\'Alright, chef, I will do everything quickly.\' "Sdelayu", I\'ll do, is the finished partner of "delayu", so it means "I\'ll get it done". "Bystro" is "quickly".'),
-    (11, None, '\'The guests must be pleased with our banquet!\' "Dolzhny byt\'" is "must be". "Dovol\'ny" means "pleased", and what you\'re pleased with takes -om: "nashim banketom".'),
+    (0, None, [
+        "'Lyova, show me this goose.' In Russian, ",
+        ('barinov', 'покажи'),
+        " is the word for the informal instruction to 'show'. ",
+        ('barinov', 'этого гуся.'),
+        " translates to 'this goose', and takes the object shape."
+    ]),
+    (1, None, [
+        "'Here it is, chef, I already finished.' For this line, ",
+        ('lyova', 'Вот он,'),
+        " literally translates to 'here he is', because the word for goose is a 'he' word. ",
+        ('lyova', 'закончил.'),
+        " means 'finished', and ends with an 'L' sound for a man."
+    ]),
+    (2, None, [
+        "'Why is it so strangely small?' Notice that ",
+        ('barinov', 'Чего'),
+        " translates to 'why' in spoken language. ",
+        ('barinov', 'странно'),
+        " is the word for 'strangely', coming from 'strange', and ",
+        ('barinov', 'маленький?'),
+        " is 'small'."
+    ]),
+    (3, None, [
+        "'It turned out like that because of feathers.' As you hear, ",
+        ('lyova', 'из-за'),
+        " translates to 'because of', often used for problems. ",
+        ('lyova', 'перьев'),
+        " is the 'of' shape for feathers, and ",
+        ('lyova', 'так получилось.'),
+        " is literally 'so it turned out'."
+    ]),
+    (4, None, [
+        "'It turned out that it has very thick feathers.' Another detail, ",
+        ('lyova', 'Оказалось,'),
+        " meaning 'it turned out', is a great way to share news. ",
+        ('lyova', 'у него'),
+        " literally translates to 'at him' to show possession, and ",
+        ('lyova', 'густые'),
+        " is the word for 'thick'."
+    ]),
+    (5, None, [
+        "'We bought a huge bird after all!' Another detail, ",
+        ('barinov', 'же'),
+        " gives the 'after all' feeling. ",
+        ('barinov', 'купили'),
+        " is the word for 'we bought', and ",
+        ('barinov', 'огромную птицу!'),
+        " meaning 'a huge bird', changes its ending because it is the thing being bought."
+    ]),
+    (6, None, [
+        "'I was surprised myself when I was plucking it.' Let us review ",
+        ('lyova', 'сам удивился,'),
+        " literally translates to 'myself was surprised', with a self-reflective ending on the action word. ",
+        ('lyova', 'ощипывал'),
+        " meaning 'was plucking', is built from the action to pinch."
+    ]),
+    (7, None, [
+        "'There is very little meat here for the guests.' What happens here, ",
+        ('barinov', 'мало'),
+        " the word for 'little', is followed by ",
+        ('barinov', 'мяса'),
+        " the 'of' shape of meat. ",
+        ('barinov', 'для гостей.'),
+        " translates to 'for the guests'."
+    ]),
+    (8, None, [
+        "'What should we do with it now?' Observe how ",
+        ('lyova', 'Что же нам'),
+        ' mixed with ',
+        ('lyova', 'делать?'),
+        " literally translates to 'what to us to do?'. ",
+        ('lyova', 'с ним'),
+        " meaning 'with him', gets an added 'n' sound after the word for 'with'."
+    ]),
+    (9, None, [
+        "'Prepare a special sauce and a beautiful side dish.' As you hear, ",
+        ('barinov', 'Приготовь'),
+        " is the word for the instruction to 'prepare'. Both ",
+        ('barinov', 'соус'),
+        ' and ',
+        ('barinov', 'гарнир.'),
+        " meaning 'side dish', are built from French words."
+    ]),
+    (10, None, [
+        "'Alright, chef, I will do everything quickly.' Focusing here, ",
+        ('lyova', 'сделаю.'),
+        " translates to 'I will do', and is the finished version of the action, meaning 'I will get it done'. ",
+        ('lyova', 'быстро'),
+        " is the word for 'quickly'."
+    ]),
+    (11, None, [
+        "'The guests must be pleased with our banquet!' Check out how ",
+        ('barinov', 'должны быть'),
+        " translates to 'must be'. ",
+        ('barinov', 'довольны'),
+        " is the word for 'pleased', and what you are pleased with takes a special shape: ",
+        ('barinov', 'нашим банкетом!')
+    ]),
 ]

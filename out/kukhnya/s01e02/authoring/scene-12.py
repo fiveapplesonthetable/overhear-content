@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = 'Elena has told Barinov the fricassee was fine, and the chef marches back to the kitchen anyway, furious that his knife is gone and his kitchen has been used without him. He lies about what the guest said, and Senya and Fedya start to blame each other. Here it is in Russian first.'
 OPENER = "Let's hear the blame game again."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Barinov sends them all out, and he is still fuming when they go. The phrase to keep is "khvatit", which means "enough".'
+OUTRO = 'Barinov sends them all out, and he is still fuming when they go. The phrase to keep means "enough".'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Вы украли мой любимый японский нож!', 'You stole my favorite Japanese knife!', [(169, 'нож мой сперли')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Убирайтесь с моей кухни прямо сейчас!', 'Get out of my kitchen right now!', [], ''),
 ]
 WALK = [
-    (0, None, '\'You stole my favorite Japanese knife!\' "Ukrali" is "stole", from "krast\'", to steal, with "u-", away, at the front. It ends in -li because the chef is accusing several people.'),
-    (1, None, '\'And you completely ruined my dish!\' "Isportili" is "spoiled", the finished form of "portit\'". "Sovershenno", completely, is related to "sovershennyy", perfect.'),
-    (2, None, '\'And all of you get out of here quickly!\' "Vyshli" is a past "went out", but the chef barks it as an order. Russians sometimes do that when they want something done right now. "Otsyuda" is "from here".'),
-    (3, None, '\'Chef, we were only trying to help!\' "My khoteli kak luchshe" is "we wanted as better". It\'s the stock excuse when good intentions go wrong.'),
-    (4, None, '\'I do not care what you were trying to do!\' "Mne plevat\'" is "to me to spit", a rude "I couldn\'t care less". Then "chego vy tam khoteli", "what you there wanted".'),
-    (5, None, '\'Do you know what the guest said about the fricassee?\' A rising voice turns "znayete", "you know", into a question. "Gost\'ya" is the feminine of "gost\'", guest, and "pro" is a casual "about".'),
-    (6, None, '\'Was she completely delighted?\' "V polnom vostorge", "in full delight", is a phrase worth keeping. "Byla", was, ends in -a for a woman.'),
-    (7, None, '\'She said that it was disgusting!\' "Otvratitel\'no", disgusting, ends in -o to match "ono", the fricassee. The "that" is "chto", the same word as "what".'),
-    (8, None, '\'Chef, I told them right away!\' The past "govoril" here is the same one as in "ya zhe govoril", the Russian "I told you so". Little pronouns like "im", to them, like to sit right before the verb, and "srazu" means at once.'),
-    (9, None, '\'It was Senya who made that terrible sauce!\' "Eto Senya gotovil" is "this Senya cooked", a handy way to point at who did it. "Uzhasnyy", terrible, comes from "uzhas", horror.'),
-    (10, None, '\'No, Fedya roasted that partridge himself!\' "Sam", himself, is the word for passing the blame. "Zharil", roasted, comes from "zhar", heat, and "kuropatka" becomes "kuropatku" as the thing roasted.'),
-    (11, None, '\'Stop arguing! You are all terrible cooks!\' "Khvatit" is "enough", or "it suffices". "Povara", cooks, makes its plural with -a, like "doma", houses.'),
-    (12, None, '\'Get out of my kitchen right now!\' "Ubiraytes\'" is "take yourselves away", a rude "clear off". In "s moyey kukhni", "off my kitchen", "s" is the "from" that goes with "na" places.'),
+    (0, None, ['\'You stole my favorite Japanese knife!\' The word for stole is built from ', ('barinov', 'украли'), ', which comes from a root meaning to steal, with an "away" part at the front. It ends with an action word ending that shows the chef is accusing several people.']),
+    (1, None, ['\'And you completely ruined my dish!\' Literally, completely translates to ', ('barinov', 'совершенно'), ', which is related to a describing word meaning perfect. The word for spoiled is ', ('barinov', 'испортили'), '.']),
+    (2, None, ['\'And all of you get out of here quickly!\' The action word meaning went out translates to ', ('barinov', 'вышли'), ', but the chef barks it as an order. Locals sometimes do that when they want something done right now. The word for from here is ', ('barinov', 'отсюда!'), '.']),
+    (3, None, ['\'Chef, we were only trying to help!\' Literally, this translates to we wanted as better: ', ('senya', 'мы хотели как лучше!'), '. It is the stock excuse when good intentions go wrong.']),
+    (4, None, ['\'I do not care what you were trying to do!\' Literally, this starts with to me to spit: ', ('barinov', 'Мне плевать,'), ', which is a rude way of saying I could not care less. Then the word for what you there wanted is added.']),
+    (5, None, ['\'Do you know what the guest said about the fricassee?\' A rising voice turns the word for you know into a question: ', ('barinov', 'Знаете,'), '. The word for guest is ', ('barinov', 'гостья'), ', which refers specifically to a woman, and the little word for about is casual.']),
+    (6, None, ['\'Was she completely delighted?\' Literally, in full delight translates to ', ('fedya', 'в полном восторге?'), ', which is a phrase worth keeping. The action word meaning was ends with a sound indicating a woman.']),
+    (7, None, ['\'She said that it was disgusting!\' The word for disgusting is ', ('barinov', 'отвратительно!'), ', ending in a sound to match the dish. The word for that is the same word as what.']),
+    (8, None, ['\'Chef, I told them right away!\' The action word for told translates to ', ('senya', 'говорил!'), ', which is the same one used in the local phrase for I told you so. Little words meaning to them like to sit right before the action word, and the word for at once is ', ('senya', 'сразу'), '.']),
+    (9, None, ['\'It was Senya who made that terrible sauce!\' Literally, this translates to this Senya cooked: ', ('fedya', 'Это Сеня готовил'), ', which is a handy way to point at who did it. The word for terrible is built from a root meaning horror.']),
+    (10, None, ['\'No, Fedya roasted that partridge himself!\' The word for himself translates to ', ('senya', 'сам'), ', which is the word for passing the blame. The action word for roasted is built from a root meaning heat, and the naming word for the bird changes its ending as the thing being roasted.']),
+    (11, None, ['\'Stop arguing! You are all terrible cooks!\' The word for enough or it suffices translates to ', ('barinov', 'Хватит'), '. The naming word for cooks changes its ending for multiple people, similar to houses.']),
+    (12, None, ['\'Get out of my kitchen right now!\' Literally, take yourselves away translates to ', ('barinov', 'Убирайтесь'), ', which is a rude way to say clear off. In the phrase for off my kitchen, the little word for from is the one that goes with on places.']),
 ]

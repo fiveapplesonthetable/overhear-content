@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "The chef is in a terrible mood, and he is stomping round the kitchen picking at things. A dirty box is in the wrong place, and he still hasn't found his knife. Lyova, his sous-chef, has to answer for it. Here is the exchange in Russian first."
 OPENER = "Now the chef's questions again."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Lyova hurries off to keep looking, and he has no idea where the knife actually is. You\'ve heard "ishchite", the command "look!" for a group.'
+OUTRO = 'Lyova hurries off to keep looking, and he has no idea where the knife actually is. You have heard the command for a group to look!'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Ты почему тут поставил грязную коробку?', 'Why did you put a dirty box here?', [(235, 'коробку грязную поставил')], ''),
@@ -31,17 +31,90 @@ STORY = [
     ('barinov', 'Без ножа мы не сможем работать!', 'Without the knife we will not be able to work!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Why did you put a dirty box here?\' "Postavil", put, really means "made stand", so a box is stood somewhere. "Gryaznaya korobka" becomes "gryaznuyu korobku" as the thing put.'),
-    (1, None, '\'Remove it from here very quickly!\' "Yeyo", it, is the "her" word, because "korobka" is feminine. "Uberi" is the friendly "take away".'),
-    (2, None, '\'Lyova, have you already found my knife?\' The chef says "vy", but here it\'s the plural "you all", not the polite one. "Nashli", found, ends in -li for the group.'),
-    (3, None, '\'We have not found it yet, Chef.\' "Yeshchyo ne" is "still not", the Russian "not yet". "Yego", it, never changes.'),
-    (4, None, '\'Did you definitely look well everywhere?\' The chef asks the whole team, so it\'s "vy", and "iskali", looked for, carries the plural -li to match. "Tochno" here isn\'t "exactly" but "for sure": are you sure you looked?'),
-    (5, None, '\'Yes, we checked everything in the kitchen.\' "Proverili", checked, ends in -li for "we". "Vsyo" is "everything".'),
-    (6, None, '\'Then continue to look further!\' "Znachit", then, is literally "it means". "Prodolzhayte" is "keep on", said to a group, and "dal\'she" is "further".'),
-    (7, None, '\'Someone could have accidentally left the knife inside.\' "Mog" is "could". "Sluchayno", by accident, comes from "sluchay", a chance, and "vnutri" is "inside".'),
-    (8, None, '\'For example, someone forgot the knife in the fish.\' "Naprimer" is "on example". "Zabyl", forgot, ends in -l, and "v rybe" puts an -e on the fish.'),
-    (9, None, '\'In the fish? That is impossible, Chef!\' Lyova repeats "v rybe" as a question. "Nevozmozhno" is "ne" plus "vozmozhno", possible.'),
-    (10, None, '\'I do not know. Look everywhere!\' "Ishchite" is "look for", said to a group. "Vezde", everywhere, is the same word Lyova used.'),
-    (11, None, '\'Alright, Chef, we will find everything.\' "Naydyom" is "we\'ll find". "Vsyo", everything, is the thing found.'),
-    (12, None, '\'Without the knife we will not be able to work!\' "Bez nozha": "bez" makes "nozh" take an -a. "Ne smozhem" is "won\'t be able".'),
+    (0, None, [
+        '\'Why did you put a dirty box here?\' The word for put is ',
+        ('barinov', 'поставил'),
+        ' which literally means "made stand", so a box is stood somewhere. The describing words for dirty box change to ',
+        ('barinov', 'грязную коробку?'),
+        ' because it is the thing being put.'
+    ]),
+    (1, None, [
+        '\'Remove it from here very quickly!\' The word for it translates to the "her" word, ',
+        ('barinov', 'её'),
+        ' because the word for box is a girl word. The action word for remove is the friendly take away, ',
+        ('barinov', 'Убери')
+    ]),
+    (2, None, [
+        '\'Lyova, have you already found my knife?\' The chef uses the word for you all, ',
+        ('barinov', 'вы'),
+        ' referring to the whole kitchen team. The action word for found translates to ',
+        ('barinov', 'нашли'),
+        ' ending in a group sound.'
+    ]),
+    (3, None, [
+        '\'We have not found it yet, Chef.\' The phrase for not yet is literally built from still not, ',
+        ('lyova', 'ещё не'),
+        ' The little word for it, ',
+        ('lyova', 'его,'),
+        ' never changes.'
+    ]),
+    (4, None, [
+        '\'Did you definitely look well everywhere?\' The chef asks the whole team again, so the action word for looked, ',
+        ('barinov', 'искали?'),
+        ' ends in a group sound to match. The word for definitely translates to for sure here: ',
+        ('barinov', 'точно')
+    ]),
+    (5, None, [
+        '\'Yes, we checked everything in the kitchen.\' The action word for checked, ',
+        ('lyova', 'проверили'),
+        ' ends in a group sound for "we". The word for everything is ',
+        ('lyova', 'всё')
+    ]),
+    (6, None, [
+        '\'Then continue to look further!\' The word for then is literally it means, ',
+        ('barinov', 'Значит,'),
+        ' The action word for continue is keep on, ',
+        ('barinov', 'продолжайте'),
+        ' and the word for further is ',
+        ('barinov', 'дальше!')
+    ]),
+    (7, None, [
+        '\'Someone could have accidentally left the knife inside.\' The word for could is ',
+        ('barinov', 'мог'),
+        ' The word for accidentally translates to by accident, ',
+        ('barinov', 'случайно'),
+        ' built from a chance. And the word for inside is ',
+        ('barinov', 'внутри.')
+    ]),
+    (8, None, [
+        '\'For example, someone forgot the knife in the fish.\' The phrase for for example literally translates to on example, ',
+        ('barinov', 'Например,'),
+        ' The action word for forgot is ',
+        ('barinov', 'забыл'),
+        ' and placing it in the fish puts a changing sound on the end of fish, ',
+        ('barinov', 'в рыбе.')
+    ]),
+    (9, None, [
+        '\'In the fish? That is impossible, Chef!\' Lyova repeats in the fish as a question. The word for impossible is built from not plus possible, ',
+        ('lyova', 'невозможно,')
+    ]),
+    (10, None, [
+        '\'I do not know. Look everywhere!\' The action word for look is ',
+        ('barinov', 'Ищите'),
+        ' spoken to a group. The word for everywhere is ',
+        ('barinov', 'везде'),
+        ' exactly what Lyova said.'
+    ]),
+    (11, None, [
+        '\'Alright, Chef, we will find everything.\' The action word for we will find is ',
+        ('lyova', 'найдём.'),
+        ' The word for everything translates to ',
+        ('lyova', 'всё')
+    ]),
+    (12, None, [
+        '\'Without the knife we will not be able to work!\' Saying without the knife, ',
+        ('barinov', 'Без ножа'),
+        ' makes the word for knife change its ending. The phrase for will not be able translates to ',
+        ('barinov', 'не сможем')
+    ]),
 ]

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "The big birthday banquet is about to start, and Vika, the art director, is running through her checklist with Sasha, the waitress. The tables are laid, the champagne is ready, and the roast goose is on its way. Here's the Russian first."
 OPENER = "Let's follow the checklist."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'The banquet begins, and the goose is on its way, small as it is. You\'ve heard "pora", "it\'s time to", which is very handy.'
+OUTRO = 'The banquet begins, and the goose is on its way, small as it is. You\'ve heard the phrase for "it\'s time to", which is very handy.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Саша, всё готово к праздничному банкету?', 'Sasha, is everything ready for the festive banquet?', [], ''),
@@ -31,17 +31,129 @@ STORY = [
     ('vika', 'Тогда начинаем праздник на высшем уровне!', 'Then we begin the celebration at the highest level!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Sasha, is everything ready for the festive banquet?\' "Gotovo k" is "ready towards", and after "k" the words take the "to" ending: "k prazdnichnomu banketu". "Prazdnichnyy" is from "prazdnik", a holiday.'),
-    (1, None, '\'Yes, the guests are already sitting at the table.\' Russians sit "za stolom", behind the table, with -om after "za". "Sidyat" is "they sit".'),
-    (2, None, '\'Has the chef already finished cooking the main dish?\' "Zakonchil", finished, has "konets", end, in it. "Glavnoye blyudo" ends in -oye, because "blyudo", dish, is neuter.'),
-    (3, None, '\'The cooks are just now carrying the roasted goose.\' "Kak raz" turns up again for "right now". "Zapechyonnogo" is from "pech\'", stove, so it means "oven-baked", with the creature\'s -ogo ending.'),
-    (4, None, '\'Excellent, it is time to congratulate the birthday girl!\' "Pora" is "it\'s time". "Pozdravlyat\'" holds "zdrav-", health, as in "zdravstvuyte". "Imeninnitsa" comes from "imeniny", a name day.'),
-    (5, None, '\'Shall we light beautiful candles on the cake?\' "Zazhzhyom", we\'ll light, is from "zhech\'", to burn. "Svechi" are candles, and "na torte" is "on the cake".'),
-    (6, None, '\'Yes, and open the most expensive champagne.\' "Otkroyte", open, is said to several people. "Shampanskoye" is a neuter word, so "samoye dorogoye", the most expensive, ends in -oye too.'),
-    (7, None, '\'The judge looks very happy today.\' After "vyglyadit", looks, the word takes -oy: "schastlivoy", for a woman. It comes from "schast\'ye", happiness.'),
-    (8, None, '\'She is a strict person, but loves attention.\' "Chelovek", person, is masculine but covers everyone, so "strogiy" stays masculine. "Lyubit vnimaniye" is "loves attention".'),
-    (9, None, '\'Her husband gave her a magnificent bouquet of flowers.\' "Podaril" holds "dar", gift, so it\'s "gave as a present". "Buket tsvetov" is "a bouquet of flowers", with -ov.'),
-    (10, None, '\'I hope our restaurant gives her joy.\' "Radost\'", joy, grows from "rad", glad. "Podarit" is the same gift verb, now "will give".'),
-    (11, None, '\'All the waiters are ready to greet guests with a smile.\' "Vstrechat\'", to greet, is from "vstrecha", a meeting. "Ulybka", smile, becomes "ulybkoy", meaning "with a smile".'),
-    (12, None, '\'Then we begin the celebration at the highest level!\' "Na vysshem urovne" is "on the highest level", a stock phrase for top quality. "Vysshiy" is the top of "vysokiy", high.'),
+    (0, None, [
+        "'Sasha, is everything ready for the festive banquet?' Looking closely, ",
+        ('vika', 'готово к'),
+        ' literally means "ready towards", and after ',
+        ('vika', 'к'),
+        ' the words change shape: ',
+        ('vika', 'к праздничному банкету?'),
+        ('vika', 'праздничному'),
+        ' is built from ',
+        ('vika', 'праздничному'),
+        ', the word for a holiday.'
+    ]),
+    (1, None, [
+        "'Yes, the guests are already sitting at the table.' Russians sit ",
+        ('sasha', 'за столом.'),
+        ' literally behind the table. ',
+        ('sasha', 'сидят'),
+        ' translates to "they sit".'
+    ]),
+    (2, None, [
+        "'Has the chef already finished cooking the main dish?' Another detail, ",
+        ('vika', 'закончил'),
+        ', finished, is built from ',
+        ('vika', 'закончил'),
+        ', the word for end. ',
+        ('vika', 'главное блюдо?'),
+        ' translates to "main dish".'
+    ]),
+    (3, None, [
+        "'The cooks are just now carrying the roasted goose.' Another detail, ",
+        ('sasha', 'как раз'),
+        ' turns up again for "right now". ',
+        ('sasha', 'запечённого'),
+        ' is built from ',
+        ('sasha', 'запечённого'),
+        ', the word for stove, so it literally means "oven-baked".'
+    ]),
+    (4, None, [
+        "'Excellent, it is time to congratulate the birthday girl!' For this line, ",
+        ('vika', 'пора'),
+        ' translates to "it is time". ',
+        ('vika', 'поздравлять'),
+        ' is built from ',
+        ('vika', 'здрав'),
+        ', health, as in ',
+        ('vika', 'поздравлять'),
+        '. ',
+        ('vika', 'именинницу!'),
+        ' comes from ',
+        ('vika', 'именинницу'),
+        ', the word for a name day.'
+    ]),
+    (5, None, [
+        "'Shall we light beautiful candles on the cake?' As you hear, ",
+        ('sasha', 'зажжём'),
+        ', we will light, is built from ',
+        ('sasha', 'зажжём'),
+        ', the word for to burn. ',
+        ('sasha', 'свечи'),
+        ' translates to candles, and ',
+        ('sasha', 'на торте?'),
+        ' is "on the cake".'
+    ]),
+    (6, None, [
+        "'Yes, and open the most expensive champagne.' Pay attention to ",
+        ('vika', 'откройте'),
+        ', the word for open, is said to several people. For ',
+        ('vika', 'шампанское.'),
+        ' the words for the most expensive change shape to match: ',
+        ('vika', 'самое дорогое шампанское.')
+    ]),
+    (7, None, [
+        "'The judge looks very happy today.' After ",
+        ('sasha', 'выглядит'),
+        ', the word for looks, the next word changes shape for a woman: ',
+        ('sasha', 'счастливой.'),
+        ' It is built from ',
+        ('sasha', 'счастливой'),
+        ', the word for happiness.'
+    ]),
+    (8, None, [
+        "'She is a strict person, but loves attention.' For this line, ",
+        ('vika', 'человек,'),
+        ' the word for person, is a guy word but covers everyone, so ',
+        ('vika', 'строгий'),
+        ' stays in its original shape. ',
+        ('vika', 'любит внимание.'),
+        ' translates to "loves attention".'
+    ]),
+    (9, None, [
+        "'Her husband gave her a magnificent bouquet of flowers.' Let us check ",
+        ('sasha', 'подарил'),
+        ' is built from ',
+        ('sasha', 'дар'),
+        ', the word for gift, so it literally means "gave as a present". ',
+        ('sasha', 'букет цветов.'),
+        ' translates to "a bouquet of flowers".'
+    ]),
+    (10, None, [
+        "'I hope our restaurant gives her joy.' What happens here, ",
+        ('vika', 'радость.'),
+        ' the word for joy, grows from ',
+        ('vika', 'рад'),
+        ', glad. ',
+        ('vika', 'подарит'),
+        ' is the same gift action word, which translates to "will give".'
+    ]),
+    (11, None, [
+        "'All the waiters are ready to greet guests with a smile.' Focusing here, ",
+        ('sasha', 'встречать гостей'),
+        ' translates to "to greet guests", built from ',
+        ('sasha', 'встреча'),
+        ', the word for a meeting. ',
+        ('sasha', 'улыбкой.'),
+        ' literally means "with a smile".'
+    ]),
+    (12, None, [
+        "'Then we begin the celebration at the highest level!' Check out how ",
+        ('vika', 'на высшем уровне!'),
+        ' literally translates to "on the highest level", a stock phrase for top quality. ',
+        ('vika', 'высшем'),
+        ' is the top shape of ',
+        ('vika', 'высшем'),
+        ', the word for high.'
+    ]),
 ]

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = 'Max catches Vika outside the dining room and awkwardly tries to agree that they will keep their night together a secret. Vika is not impressed by how he says it, and then her ex-husband Vadim turns up asking questions, so she decides to use Max. Here is the Russian first.'
 OPENER = "Let's follow them step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'So Max is now a boyfriend, whether he likes it or not. Take away "mne vsyo ravno", "I don\'t care", and notice it has a second life as "anyway".'
+OUTRO = 'So Max is now a boyfriend, whether he likes it or not. Take away his phrase for "I don\'t care", and notice it has a second life as "anyway".'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Вика, нам нужно спокойно поговорить.', 'Vika, we need to talk calmly.', [], ''),
@@ -31,17 +31,102 @@ STORY = [
     ('max', 'Очень приятно познакомиться, уважаемый Вадим.', 'Very nice to meet you, esteemed Vadim.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Vika, we need to talk calmly.\' "Nam nuzhno" is "to us necessary". "Spokoyno", calmly, is from "spokoynyy", calm, the word in "spokoynoy nochi", good night.'),
-    (1, None, '\'My personal life is none of your business.\' "Tebya ne kasayetsya" is "does not touch you", the Russian "none of your business". "Lichnaya zhizn\'" is "personal life".'),
-    (2, None, '\'Let us not tell anyone anything.\' "Davay ne budem" is "let\'s not". Then come "nikomu", to nobody, and "nichego", nothing, stacking the negatives.'),
-    (3, None, '\'Are you afraid that I will tell colleagues?\' "Boish\'sya", you\'re afraid, ends in -sya. "Kollegam" is "to colleagues", with the -am plural for "to".'),
-    (4, None, '\'Me? No, I do not care at all.\' The classic Russian shrug is "mne vsyo ravno", literally "to me all is equal". Max slips "voobshche" into the middle to push it to "I couldn\'t care less".'),
-    (5, None, '\'There is nothing serious between us anyway.\' Here "vsyo ravno" means "anyway". "Mezhdu nami" is "between us", and "nichego ser\'yoznogo net" is "nothing serious there isn\'t".'),
-    (6, None, '\'Oh, so that is how you speak now!\' "Zagovoril" is "govoril", spoke, with "za-", which here means "started". "Ah vot kak" is "ah, so that\'s how".'),
-    (7, None, '\'Vika, wait! Who is this young man?\' "Postoy" is "stand a moment", from "stoyat\'", to stand. "Molodoy chelovek", young man, is the standard way to refer to a young stranger.'),
-    (8, None, '\'Vadim, did you want to know the truth?\' Vika says "ty" to her ex-husband. "Khotel", wanted, ends in -l for a man, and "pravda" is "truth".'),
-    (9, None, '\'Yes, I want to know everything.\' Short and handy: "khochu" plus "znat\'", to know, then "vsyo", everything. Careful, "vsyo" with its yo sound is "everything", while "vse" is "everyone", a different word.'),
-    (10, None, '\'Here, meet my boyfriend.\' "Paren\'" means both "guy" and "boyfriend". "Poznakom\'sya", meet, ends in -sya, and "s moim parnem", with my boyfriend, ends in -im and -em after "s".'),
-    (11, None, '\'This is my Max, we are together now!\' Two little sentences with no verb at all: "eto moy Maks", this my Max, and "my teper\' vmeste", we now together. Don\'t mix up "my", which is Russian for "we", with "moy", my.'),
-    (12, None, '\'Very nice to meet you, esteemed Vadim.\' "Ochen\' priyatno poznakomit\'sya" is "very pleasant to get acquainted". "Uvazhayemyy", esteemed, means "respected", and it sounds stiff here.'),
+    (0, None, [
+        "'Vika, we need to talk calmly.' In Russian, ",
+        ('max', 'нам нужно'),
+        ' translates to "to us necessary". ',
+        ('max', 'спокойно'),
+        ' literally means "calmly".'
+    ]),
+    (1, None, [
+        '\'My personal life is none of your business.\' The phrase for "personal life" is ',
+        ('vika', 'Моя личная жизнь'),
+        ' And ',
+        ('vika', 'тебя не касается.'),
+        ' literally translates to "does not touch you", a handy way to say "none of your business".'
+    ]),
+    (2, None, [
+        '\'Let us not tell anyone anything.\' The phrase for "let\'s not" is ',
+        ('max', 'Давай не будем'),
+        ' Then come ',
+        ('max', 'никому'),
+        ' to nobody, and ',
+        ('max', 'ничего'),
+        ' nothing, stacking the no-words.'
+    ]),
+    (3, None, [
+        '\'Are you afraid that I will tell colleagues?\' The word for "afraid" is ',
+        ('vika', 'боишься,'),
+        ' which ends with a sound showing something happening to yourself. ',
+        ('vika', 'коллегам?'),
+        ' translates to "to colleagues", with a sound at the end for the "to" direction.'
+    ]),
+    (4, None, [
+        "'Me? No, I do not care at all.' The classic shrug here is ",
+        ('max', 'мне вообще всё равно.'),
+        ' which literally translates to "to me all is equal". He slips ',
+        ('max', 'вообще'),
+        ' into the middle to push it to "I couldn\'t care less".'
+    ]),
+    (5, None, [
+        '\'There is nothing serious between us anyway.\' Here the phrase for "anyway" is ',
+        ('max', 'всё равно'),
+        ('max', 'Между нами'),
+        ' translates to "between us", and ',
+        ('max', 'ничего серьёзного нет.'),
+        ' literally means "nothing serious there isn\'t".'
+    ]),
+    (6, None, [
+        '\'Oh, so that is how you speak now!\' The word for "started speaking" is ',
+        ('vika', 'заговорил!'),
+        ' built from an action word for speaking plus a start sound. ',
+        ('vika', 'Ах вот как'),
+        ' translates to "ah, so that\'s how".'
+    ]),
+    (7, None, [
+        '\'Vika, wait! Who is this young man?\' The word for "wait" is ',
+        ('vadim', 'постой!'),
+        ' which literally means "stand a moment". ',
+        ('vadim', 'молодой человек?'),
+        ' translates to "young man", the standard way to refer to a young stranger.'
+    ]),
+    (8, None, [
+        "'Vadim, did you want to know the truth?' Vika says ",
+        ('vika', 'ты'),
+        ' to her ex-husband to show they are close. ',
+        ('vika', 'хотел'),
+        ' translates to "wanted", with an ending showing it is about a man, and ',
+        ('vika', 'правду?'),
+        ' is the word for "truth".'
+    ]),
+    (9, None, [
+        "'Yes, I want to know everything.' Short and handy: ",
+        ('vadim', 'хочу'),
+        ' plus ',
+        ('vadim', 'знать'),
+        ' the word for "to know", then ',
+        ('vadim', 'всё.'),
+        ' everything. Careful with the final sound, as changing it gives the word for "everyone".'
+    ]),
+    (10, None, [
+        '\'Here, meet my boyfriend.\' The action word for "meet" is ',
+        ('vika', 'познакомься'),
+        ' with an ending showing it happens to yourself. Then comes ',
+        ('vika', 'с моим парнем.'),
+        ' translating to "with my boyfriend", where the ends of the words change to match the "with" direction.'
+    ]),
+    (11, None, [
+        "'This is my Max, we are together now!' Two little parts with no action word at all: ",
+        ('vika', 'Это мой Макс,'),
+        ' this my Max, and ',
+        ('vika', 'мы теперь вместе!'),
+        ' we now together. Do not mix up the word for "we" with the word for "my".'
+    ]),
+    (12, None, [
+        "'Very nice to meet you, esteemed Vadim.' Check out how ",
+        ('max', 'Очень приятно познакомиться,'),
+        ' literally means "very pleasant to get acquainted". ',
+        ('max', 'уважаемый'),
+        ' translates to "esteemed" or "respected", and it sounds stiff here.'
+    ]),
 ]

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = 'Max goes to Nastya to put in a good word for Kostya, but he explains it so clumsily that she is sure Max is talking about himself. Here is the misunderstanding in Russian first.'
 OPENER = "Let's follow the mix-up."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Instead of helping Kostya, Max has talked himself into an imaginary romance. You\'ve learned how Russians say "a friend of mine": "odin drug", literally "one friend".'
+OUTRO = 'Instead of helping Kostya, Max has talked himself into an imaginary romance. You\'ve learned how to say a friend of mine, literally "one friend".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Настя, мне надо с тобой поговорить.', 'Nastya, I need to talk to you.', [(221, 'Мне надо с тобой поговорить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Вот это я помог Косте...', 'Now I really helped Kostya...', [], ''),
 ]
 WALK = [
-    (0, None, '\'Nastya, I need to talk to you.\' Russian puts the person who needs in the "to" form: "mne nado", to me it\'s needed. "S toboy", with you, comes from "ty", so this is a friend talking.'),
-    (1, None, '\'Yes, Max, what did you want to discuss?\' "O chyom ty khotel?" is "about what did you want?", with "to talk" left unsaid.'),
-    (2, None, '\'I have a good friend.\' "U menya yest\'" is "at me there is". "Odin", one, here means "a certain": a friend of mine.'),
-    (3, None, '\'And he really likes you very much.\' "Ty yemu nravish\'sya" is "you to him are pleasing". "Yemu", to him, names the one who does the liking.'),
-    (4, None, '\'A friend who likes me so much?\' "Kotoromu" is "to whom", in the "to" form because of "nravlyus\'". "Ya nravlyus\'" is "I am pleasing".'),
-    (5, None, '\'Yes, he wants to ask you on a date.\' Going to an event takes "na", so a date is "na svidaniye", like "na rabotu", to work. "Tebya" is "you" as the one being invited.'),
-    (6, None, '\'I immediately understood everything perfectly!\' "Ponyala" ends in -a for Nastya. "Srazu" is "at once".'),
-    (7, None, '\'Guys always say that about friends!\' "Parni" is the plural of "paren\'". "Pro druzey" is "about friends", with "drug" in an irregular plural.'),
-    (8, None, '\'Wait, you understood completely wrong.\' "Nepravil\'no" is "ne" plus "pravil\'no", correctly. "Sovsem" is "completely".'),
-    (9, None, '\'There is a real cosmic connection between us!\' "Mezhdu nami" is "between us". "Svyaz\'", connection, is from "vyazat\'", to tie.'),
-    (10, None, '\'It is so great that you said this!\' "Zdorovo", great, is from "zdorov\'ye", health. "Tak... chto" is "so... that".'),
-    (11, None, '\'I must run, the chef is calling for hot food!\' "Pobegu" is "I\'ll run off", with "po-" for setting off. "Goryacheye", hot, works as a noun: the hot course.'),
-    (12, None, '\'Now I really helped Kostya...\' "Vot eto" at the start is sarcastic, "well, that\'s how". "Koste" is "to Kostya", because "pomoch\'" takes "to".'),
+    (0, None, ['\'Nastya, I need to talk to you.\' The language puts the person who needs in the "to" form: ', ('max', 'мне надо'), ', literally "to me it is needed". The phrase for "with you", ', ('max', 'с тобой'), ', comes from the familiar "you", so this is a friend talking.']),
+    (1, None, ['\'Yes, Max, what did you want to discuss?\' The question translates to "about what did you want?", ', ('nastya', 'о чём ты хотел?'), ' with the action word for "to talk" left unsaid.']),
+    (2, None, ['\'I have a good friend.\' The phrase for "I have", ', ('max', 'У меня есть'), ', literally means "at me there is". The number one, ', ('max', 'один'), ', here translates to "a certain", meaning a friend of mine.']),
+    (3, None, ['\'And he really likes you very much.\' This translates to "you to him are very much pleasing", ', ('max', 'ты ему очень сильно нравишься.'), '. The phrase for "to him", ', ('max', 'ему'), ', points out the person who feels the liking.']),
+    (4, None, ['\'A friend who likes me so much?\' The Russian term for "who", ', ('nastya', 'которому'), ', translates to "to whom", because it pairs with ', ('nastya', 'я так нравлюсь?'), ', literally "I am so pleasing".']),
+    (5, None, ['\'Yes, he wants to ask you on a date.\' Going to an event uses the little word for "on", so a date is ', ('max', 'на свидание.'), ', built from the same pattern as going to work. The expression for "you", ', ('max', 'тебя'), ', represents the person being invited.']),
+    (6, None, ['\'I immediately understood everything perfectly!\' The action word for "understood", ', ('nastya', 'поняла!'), ', ends with an "a" sound because Nastya is a woman. The term for "immediately", ', ('nastya', 'сразу'), ', translates to "at once".']),
+    (7, None, ['\'Guys always say that about friends!\' The Russian term for "guys", ', ('nastya', 'Парни'), ', is the multiple form of "guy". The phrase for "about friends", ', ('nastya', 'про друзей'), ', is built from the naming word for friend.']),
+    (8, None, ['\'Wait, you understood completely wrong.\' The Russian term for "wrong", ', ('max', 'неправильно'), ', is built from the word for "not" plus "correctly". The Russian expression for "completely" is ', ('max', 'совсем'), '.']),
+    (9, None, ['\'There is a real cosmic connection between us!\' The phrase for "between us" is ', ('nastya', 'Между нами'), '. The Russian term for "connection", ', ('nastya', 'связь!'), ', is built from the action word for "to tie".']),
+    (10, None, ['\'It is so great that you said this!\' The phrase for "great", ', ('nastya', 'здорово,'), ', is built from the Russian term for health. The combination ', ('nastya', 'так'), ' and ', ('nastya', 'что'), ' translates to "so" and "that".']),
+    (11, None, ['\'I must run, the chef is calling for hot food!\' The phrase for "I will run", ', ('nastya', 'побегу,'), ', translates to "I will run off", with a little piece added for setting off. The describing word for "hot", ', ('nastya', 'горячее!'), ', works as a naming word here, meaning the hot course.']),
+    (12, None, ['\'Now I really helped Kostya...\' The starting phrase, ', ('max', 'Вот это'), ', translates to a sarcastic "well, that is how". The name Kostya becomes ', ('max', 'Косте...'), ', literally "to Kostya", because the action word for "help" points to someone.']),
 ]

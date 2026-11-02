@@ -14,7 +14,6 @@ INTRO = 'Vika has shown the owner, Nagiyev, a video of Max in a scuffle in the c
 OPENER = "Let's go back through the video and the verdict."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max keeps his job, and even a few friends. You've heard how Russian says that every medal has two sides, which is what English calls a coin."
-CLOSING = ('max', 'Пока!')
 STORY = [
     ('nagiyev', 'Вика говорит, что ты устроил драку.', 'Vika says that you started a fight.', [(310, 'Еще он сегодня устроил драку.')], ''),
     ('max', 'Мы просто дурачились на заднем дворе.', 'We were simply fooling around in the backyard.', [(313, 'Да мы так дурачились.')], ''),
@@ -32,18 +31,117 @@ STORY = [
     ('max', 'Жизнь продолжается, и завтра новый день!', 'Life goes on, and tomorrow is a new day!', [(334, 'Вот как-то так.')], ''),
 ]
 WALK = [
-    (0, None, '\'Vika says that you started a fight.\' "Ustroil", set up, is how Russians say you started a fight. "Draka", fight, becomes "draku" as the thing set up.'),
-    (1, None, '\'We were simply fooling around in the backyard.\' "Durachilis\'", fooled around, comes from "durak", a fool. "Na zadnem dvore" is "on the back yard".'),
-    (2, None, '\'Show me the video of this fight of yours.\' "Pokazhite", show, has the formal "-te". "Etoy vashey draki" puts the same "of" ending on all three words.'),
-    (3, None, '\'Is that really a fight? You did not even fight back!\' "Razve" opens a doubtful "really?". "Dralsya", fought, ends in "-sya", and "dazhe" is "even".'),
-    (4, None, '\'So there is no reason to fire the cook yet.\' "Ne za chto" is "not for what", here meaning "no reason". "Poka", yet, is the same word as "bye".'),
-    (5, None, '\'Dmitry, thank you for the fair decision.\' "Spasibo za" is "thanks for". "Spravedlivoye", fair, and "resheniye", decision, both end in -oye and -iye to match.'),
-    (6, None, '\'Listen to me everyone: forget about this video!\' "Slushayte" and "zabud\'te" are commands to the whole room. "Ob etom", about this, uses "ob" before a vowel.'),
-    (7, None, '\'Vika still has to work here as art director.\' There\'s no "has to" verb in it. Russian puts Vika in the "to" form, "Vike", adds a plain infinitive, "rabotat\'", and the job title ends in -om, the ending for working "as" something.'),
-    (8, None, '\'Whoever dares laugh will immediately get out!\' "Posmeyet", dares, sounds like "smeyat\'sya", to laugh, but it comes from "smet\'", to dare. "Poydyot von" is "will go out".'),
-    (9, None, '\'Every coin has two sides.\' Russian says "medal\'", medal, where English says "coin". "Dve", two, is feminine to match "storony", sides.'),
-    (10, None, '\'One day everything around can change drastically.\' Russian packs "one day" into a single word, "odnazhdy". And "drastically" here is the same word as "sharply", as in a sharp turn.'),
-    (11, None, '\'A former enemy unexpectedly becomes your friend.\' "Byvshiy", former, grows from "byl", was. "Stanovitsya", becomes, puts the next word in its "as" shape: "tvoim drugom".'),
-    (12, None, '\'And a strict tyrant becomes a little bit kinder.\' "Dobreye", kinder, ends in "-eye", the same "more" ending as "bystreye", faster. "Nemnogo" is "a little".'),
-    (13, None, '\'Life goes on, and tomorrow is a new day!\' "Prodolzhayetsya", goes on, ends in "-sya", as if life keeps itself going. "Zavtra" is "tomorrow".'),
+    (0, None, [
+        '\'Vika says that you started a fight.\' ',
+        ('nagiyev', 'устроил'),
+        ', translates to set up, which is how Russians say you started a fight. The word for fight, ',
+        ('nagiyev', 'драку.'),
+        ', gets a special ending as the thing set up.'
+    ]),
+    (1, None, [
+        '\'We were simply fooling around in the backyard.\' The action word ',
+        ('max', 'дурачились'),
+        ', meaning fooled around, is built from the word for a fool. And ',
+        ('max', 'на заднем дворе.'),
+        ' translates to on the back yard.'
+    ]),
+    (2, None, [
+        '\'Show me the video of this fight of yours.\' The word for show, ',
+        ('nagiyev', 'Покажите'),
+        ', ends with a formal sign of respect. The phrase ',
+        ('nagiyev', 'этой вашей драки.'),
+        ', literally meaning of this fight of yours, puts a matching ending on all three words.'
+    ]),
+    (3, None, [
+        '\'Is that really a fight? You did not even fight back!\' The little word ',
+        ('nagiyev', 'Разве'),
+        ' opens a doubtful really? The action word ',
+        ('nagiyev', 'дрался!'),
+        ' translates to fought, and the word for even is ',
+        ('nagiyev', 'даже'),
+        '.'
+    ]),
+    (4, None, [
+        '\'So there is no reason to fire the cook yet.\' The phrase ',
+        ('nagiyev', 'не за что.'),
+        ' literally translates to not for what, here meaning no reason. The word for yet, ',
+        ('nagiyev', 'пока'),
+        ', is the exact same word used for bye.'
+    ]),
+    (5, None, [
+        '\'Dmitry, thank you for the fair decision.\' The phrase ',
+        ('barinov', 'спасибо вам за'),
+        ' translates to thanks for. The describing word ',
+        ('barinov', 'справедливое'),
+        ', literally fair, and the word for decision, ',
+        ('barinov', 'решение.'),
+        ', have matching endings.'
+    ]),
+    (6, None, [
+        '\'Listen to me everyone: forget about this video!\' The action words ',
+        ('barinov', 'Слушайте'),
+        ' and ',
+        ('barinov', 'забудьте'),
+        ' are commands to the whole room. The phrase ',
+        ('barinov', 'об этом'),
+        ', which translates to about this, uses a special little word for a smoother sound.'
+    ]),
+    (7, None, [
+        '\'Vika still has to work here as art director.\' There is no has to action word here. Instead, Russian puts Vika in a special shape, ',
+        ('barinov', 'Вике'),
+        ', adds a base action word, ',
+        ('barinov', 'работать'),
+        ', and the word for art director ends with a special sound, ',
+        ('barinov', 'арт-директором.'),
+        ', representing working as something.'
+    ]),
+    (8, None, [
+        '\'Whoever dares laugh will immediately get out!\' The word for dares, ',
+        ('barinov', 'посмеет'),
+        ', sounds like the action word to laugh, ',
+        ('barinov', 'смеяться,'),
+        ', but is built from a different word meaning to dare. And ',
+        ('barinov', 'пойдёт вон!'),
+        ' translates to will get out.'
+    ]),
+    (9, None, [
+        '\'Every coin has two sides.\' Russian uses the word for medal, ',
+        ('max', 'медали'),
+        ', where English says coin. The number two, ',
+        ('max', 'две'),
+        ', is in a special shape to match the word for sides, ',
+        ('max', 'стороны.'),
+        '.'
+    ]),
+    (10, None, [
+        '\'One day everything around can change drastically.\' Russian packs one day into a single word, ',
+        ('max', 'Однажды'),
+        '. The word for drastically here, ',
+        ('max', 'резко'),
+        ', literally translates to sharply, as in a sharp turn.'
+    ]),
+    (11, None, [
+        '\'A former enemy unexpectedly becomes your friend.\' The word for former, ',
+        ('max', 'Бывший'),
+        ', is built from the word was. The action word ',
+        ('max', 'становится'),
+        ', meaning becomes, forces the phrase for your friend into a special shape, ',
+        ('max', 'твоим другом.'),
+        '.'
+    ]),
+    (12, None, [
+        '\'And a strict tyrant becomes a little bit kinder.\' The word for kinder, ',
+        ('max', 'добрее.'),
+        ', ends with a sound that means more. The word for a little bit is ',
+        ('max', 'немного'),
+        '.'
+    ]),
+    (13, None, [
+        '\'Life goes on, and tomorrow is a new day!\' The word for goes on, ',
+        ('max', 'продолжается,'),
+        ', has a special ending, literally as if life keeps itself going. And ',
+        ('max', 'завтра'),
+        ' translates to tomorrow.'
+    ]),
 ]
+CLOSING = ("max", "Пока!")

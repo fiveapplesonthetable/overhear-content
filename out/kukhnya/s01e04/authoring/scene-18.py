@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "Chef Barinov marches into the rival restaurant to find Elena Sokolova, determined to find out which of his cooks came to her for a job. Elena has no intention of telling him. Here's the Russian first."
 OPENER = "Let's go through the standoff."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Barinov leaves without a name, but he\'s determined to find the traitor himself. Take away "vsego vam dobrogo", the Russian way to say "all the best".'
+OUTRO = ['Barinov leaves without a name, but he\'s determined to find the traitor himself. Take away ', ('elena', 'всего вам доброго!'), ', the Russian way to say "all the best".']
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'У меня к вам совсем простой вопрос.', 'I have a very simple question for you.', [(251, 'простой вопрос')], ''),
@@ -31,17 +31,75 @@ STORY = [
     ('elena', 'Вот и отлично, всего вам доброго!', 'Wonderful then, all the best to you!', [(263, 'Ну и хорошо')], ''),
 ]
 WALK = [
-    (0, None, '\'I have a very simple question for you.\' Word for word, "at me to you a quite simple question", with no verb "have" at all. Barinov says "k vam", the polite plural, keeping his rival at a distance.'),
-    (1, None, '\'From one head chef to another?\' "Kak u shef-povara k shef-povaru" is "as at a head chef to a head chef", with -a for "at" and -u for "to".'),
-    (2, None, '\'Which of my cooks came to see you?\' "Kto iz moikh povarov" is "who of my cooks". "Prikhodil", came, describes a trip there and back, which makes it a visit.'),
-    (3, None, '\'I do not rat out my people, Viktor.\' "Sdavat\'" is to hand over, to the police or to an examiner. "Svoikh lyudey" is "my own people".'),
-    (4, None, '\'He is my cook, not yours!\' "A ne vash" is "and not yours". The little "a" sets one claim against the other.'),
-    (5, None, '\'He wants to work in a good kitchen.\' Russians work "na kukhne", on the kitchen. "Khoroshey" takes -ey to match.'),
-    (6, None, '\'I have the best kitchen in this city!\' "Luchshaya", best, is feminine for "kukhnya". "V etom gorode" is "in this city".'),
-    (7, None, '\'Then why are your people looking for work?\' Elena throws back the very words Barinov used about newspapers, "ishchut rabotu", they look for work. "Vashi" is the polite "your" in the plural, to match "lyudi".'),
-    (8, None, '\'I will definitely find out his name myself!\' "Obyazatel\'no" is "definitely". "Yego", his, never changes, and "uznayu" is "I\'ll find out".'),
-    (9, None, '\'It is time for me to go to the kitchen.\' "Mne pora" is "to me it\'s time". "Na kukhnyu" takes -u for heading there.'),
-    (10, None, '\'Will you find the way out yourself?\' "Vykhod", exit, is "vy-", out, plus "khod", a going. "Sami", yourself, is the polite plural of "sam".'),
-    (11, None, '\'I will, I remember the way very well.\' Russian answers by repeating the verb, "naydu", I\'ll find. "Dorogu" is "doroga", road, as the object.'),
-    (12, None, '\'Wonderful then, all the best to you!\' "Vsego dobrogo" is "of all good", a wish in the "of" form. It is a polite goodbye.'),
+    (0, None, [
+        '\'I have a very simple question for you.\' Literally, "at me to you a quite simple question", with no action word "have" at all. Barinov says ',
+        ('barinov', 'к вам'),
+        ', the polite form, keeping his rival at a distance.'
+    ]),
+    (1, None, [
+        "'From one head chef to another?' ",
+        ('elena', 'Как у шеф-повара к шеф-повару?'),
+        ' translates to "as at a head chef to a head chef", ending in -a for "at" and -u for "to".'
+    ]),
+    (2, None, [
+        "'Which of my cooks came to see you?' ",
+        ('barinov', 'Кто из моих поваров'),
+        ' translates to "who of my cooks". The Russian term for "came", ',
+        ('barinov', 'приходил'),
+        ', describes a trip there and back, which makes it a visit.'
+    ]),
+    (3, None, [
+        '\'I do not rat out my people, Viktor.\' The Russian expression for "rat out" translates to hand over, to the police or to an examiner. ',
+        ('elena', 'своих людей,'),
+        ' translates to "my own people".'
+    ]),
+    (4, None, [
+        "'He is my cook, not yours!' ",
+        ('barinov', 'а не ваш!'),
+        ' translates to "and not yours". The little ',
+        ('barinov', 'а'),
+        ' sets one claim against the other.'
+    ]),
+    (5, None, [
+        '\'He wants to work in a good kitchen.\' Russians work literally on the kitchen. The describing word for "good" takes a matching ending.'
+    ]),
+    (6, None, [
+        '\'I have the best kitchen in this city!\' The phrase for "best" has a feminine ending to match the kitchen. ',
+        ('barinov', 'в этом городе!'),
+        ' translates to "in this city".'
+    ]),
+    (7, None, [
+        "'Then why are your people looking for work?' Elena throws back the very words Barinov used about newspapers, ",
+        ('elena', 'ищут работу?'),
+        ', they look for work. ',
+        ('elena', 'ваши'),
+        ' marks the polite "your" for multiple people, to match the word for "people".'
+    ]),
+    (8, None, [
+        "'I will definitely find out his name myself!' ",
+        ('barinov', 'обязательно'),
+        ' translates to "definitely". The term for "his" never changes, and ',
+        ('barinov', 'узнаю'),
+        ' translates to "I\'ll find out".'
+    ]),
+    (9, None, [
+        '\'It is time for me to go to the kitchen.\' The phrase for "it is time for me" literally translates to "to me already it\'s time". The term for kitchen takes a "to" ending for heading there.'
+    ]),
+    (10, None, [
+        '\'Will you find the way out yourself?\' The Russian term for "exit", ',
+        ('elena', 'выход'),
+        ', is built from "out" plus "a going". ',
+        ('elena', 'сами'),
+        ' is the polite form for "yourself".'
+    ]),
+    (11, None, [
+        "'I will, I remember the way very well.' Russian answers by repeating the action word, ",
+        ('barinov', 'Найду,'),
+        ', I\'ll find. The expression for "road" gets an action-receiving ending.'
+    ]),
+    (12, None, [
+        "'Wonderful then, all the best to you!' ",
+        ('elena', 'всего вам доброго!'),
+        ' translates to "of all good to you", a wish in the "of" form. It is a polite goodbye.'
+    ]),
 ]

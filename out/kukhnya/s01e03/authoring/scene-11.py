@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "In the dining room, Vadim corners Vika and tries to talk about their past. Then his wife, Elvira, walks in, delighted with the restaurant and with Vika, who has just helped her. It's a very awkward moment, and Vika plays it cool. Here's the Russian first."
 OPENER = "Let's go through the awkward meeting."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Vika keeps her composure while Vadim sweats. If you\'re looking for a phrase to take away, "ostav\' menya v pokoye", "leave me in peace", is worth learning.'
+OUTRO = 'Vika keeps her composure while Vadim sweats. If you\'re looking for a phrase to take away, the one for "leave me in peace" is worth learning.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vadim', 'Вика, нам нужно серьёзно поговорить.', 'Vika, we need to talk seriously.', [(244, 'надо поговорить')], ''),
@@ -31,17 +31,109 @@ STORY = [
     ('vika', 'Спасибо, я всегда рада помочь вам.', 'Thank you, I am always glad to help you.', [(252, 'помогла')], ''),
 ]
 WALK = [
-    (0, None, '\'Vika, we need to talk seriously.\' "Nam nuzhno" is "to us necessary", the "we need" pattern again. "Ser\'yozno pogovorit\'" is "seriously to talk".'),
-    (1, None, '\'I already told you everything.\' "Skazala", told, ends in -la because Vika is a woman. "Tebe" is "to you", and "uzhe" is "already".'),
-    (2, None, '\'Come on, don\'t be angry with me.\' "Khvatit" is "it\'s enough", a way of saying "stop it". "Ne zlis\'", don\'t be angry, has the -s\' ending, and "na menya" is "at me".'),
-    (3, None, '\'You know my real feelings.\' "Ty zhe znayesh\'" is "you do know", with "zhe" leaning on it. "Chuvstva", feelings, is the plural of "chuvstvo", and "moi" matches it.'),
-    (4, None, '\'Leave me alone right now!\' "Ostav\' menya v pokoye" is "leave me in peace". "Pokoy", peace, becomes "pokoye" after "v".'),
-    (5, None, '\'Vadik, darling, there you are!\' "Vadik" is a pet form of "Vadim". "Milyy" is "sweet" or "dear", and "vot ty gde" is "here you where", Russian for "there you are".'),
-    (6, None, '\'We are just discussing an important banquet.\' "Kak raz" is "just", in the sense of "exactly now". "Obsuzhdayem", we discuss, has "sud", judgement, at its root.'),
-    (7, None, '\'Get acquainted, this is my wife Elvira.\' "Supruga" is the formal word for wife; "zhena" is the everyday one. "Poznakom\'tes\'", get acquainted, is said to two people.'),
-    (8, None, '\'And she and I have already met!\' "My s ney" is "we with her", the Russian "she and I". "Poznakomilis\'", met, ends in -lis\' for "we".'),
-    (9, None, '\'Viktoria Sergeyevna helped me a lot today.\' Russians help "to" someone, so "me" is "mne". "Pomogla", helped, ends in -la for a woman, and "ochen\'" is "a lot".'),
-    (10, None, '\'Vadik, good for you for choosing this restaurant!\' "Ty molodets, chto" is "you\'re well done that", the frame for praising what someone did. "Vybral", chose, is "brat\'" with "vy-".'),
-    (11, None, '\'You are my absolute best husband.\' "Ty u menya" is "you at me", a warm way to say "you\'re my". "Samyy luchshiy" doubles up on "best", and "muzh" is husband.'),
-    (12, None, '\'Thank you, I am always glad to help you.\' "Rada", glad, is the woman\'s form; a man would say "rad". "Vsegda" is "always", and "pomoch\' vam" is "to help to you".'),
+    (0, None, [
+        "'Vika, we need to talk seriously.' Check out how ",
+        ('vadim', 'нам нужно'),
+        " translates to 'to us necessary', the 'we need' pattern again. ",
+        ('vadim', 'серьёзно поговорить.'),
+        " literally means 'seriously to talk'."
+    ]),
+    (1, None, [
+        "'I already told you everything.' What happens here, ",
+        ('vika', 'сказала.'),
+        ', told, ends with a sound that shows Vika is a woman. ',
+        ('vika', 'тебе'),
+        " is the word for 'to you', and ",
+        ('vika', 'уже'),
+        " is 'already'."
+    ]),
+    (2, None, [
+        "'Come on, don't be angry with me.' ",
+        ('vadim', 'хватит,'),
+        " literally means 'it's enough', a way of saying 'stop it'. ",
+        ('vadim', 'не злись'),
+        " is the phrase for 'don't be angry', and ",
+        ('vadim', 'на меня.'),
+        " translates to 'at me'."
+    ]),
+    (3, None, [
+        "'You know my real feelings.' Looking closely, ",
+        ('vadim', 'Ты же знаешь'),
+        " translates to 'you do know', with a little emphasis word in the middle. ",
+        ('vadim', 'чувства.'),
+        ', feelings, is the shape for more than one, and ',
+        ('vadim', 'мои'),
+        ' matches it.'
+    ]),
+    (4, None, [
+        "'Leave me alone right now!' Notice that ",
+        ('vika', 'Оставь меня в покое'),
+        " literally means 'leave me in peace'. The word for peace changes its ending when it comes after ",
+        ('vika', 'в'),
+        '.'
+    ]),
+    (5, None, [
+        "'Vadik, darling, there you are!' In this sentence, ",
+        ('elvira', 'Вадик,'),
+        ' is a sweet nickname for Vadim. ',
+        ('elvira', 'милый,'),
+        " is the word for 'sweet' or 'dear', and ",
+        ('elvira', 'вот ты где!'),
+        " literally means 'here you where', which translates to 'there you are'."
+    ]),
+    (6, None, [
+        "'We are just discussing an important banquet.' Here we see ",
+        ('vadim', 'как раз'),
+        " is the phrase for 'just', in the sense of 'exactly now'. The action word ",
+        ('vadim', 'обсуждаем'),
+        ", meaning 'we discuss', is built from the word for judgement."
+    ]),
+    (7, None, [
+        "'Get acquainted, this is my wife Elvira.' We can hear ",
+        ('vadim', 'супруга'),
+        ' is the formal word for wife, instead of the everyday one. ',
+        ('vadim', 'Познакомьтесь,'),
+        " translates to 'get acquainted', spoken here to two people."
+    ]),
+    (8, None, [
+        "'And she and I have already met!' Let us review ",
+        ('elvira', 'мы с ней'),
+        " literally means 'we with her', the local way to say 'she and I'. The action word ",
+        ('elvira', 'познакомились!'),
+        ", meaning 'met', ends with a sound that matches 'we'."
+    ]),
+    (9, None, [
+        "'Viktoria Sergeyevna helped me a lot today.' Locals help 'to' someone, so 'me' becomes ",
+        ('elvira', 'мне'),
+        ". The word for 'helped', ",
+        ('elvira', 'помогла'),
+        ', ends with a sound for a woman, and ',
+        ('elvira', 'очень'),
+        " translates to 'a lot'."
+    ]),
+    (10, None, [
+        "'Vadik, good for you for choosing this restaurant!' Observe how ",
+        ('elvira', 'ты молодец, что'),
+        " literally means 'you're well done that', a nice way to praise what someone did. ",
+        ('elvira', 'выбрал'),
+        " is the word for 'chose'."
+    ]),
+    (11, None, [
+        "'You are my absolute best husband.' In this sentence, ",
+        ('elvira', 'Ты у меня'),
+        " literally translates to 'you at me', a warm way to say 'you're my'. ",
+        ('elvira', 'самый лучший'),
+        " doubles up on 'best', and ",
+        ('elvira', 'муж.'),
+        ' is the word for husband.'
+    ]),
+    (12, None, [
+        "'Thank you, I am always glad to help you.' Let us check ",
+        ('vika', 'рада'),
+        ", the word for 'glad', is the shape for a woman. ",
+        ('vika', 'всегда'),
+        " translates to 'always', and ",
+        ('vika', 'помочь вам.'),
+        " literally means 'to help to you'."
+    ]),
 ]

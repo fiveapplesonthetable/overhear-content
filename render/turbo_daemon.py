@@ -289,6 +289,8 @@ def run_ru_worker(batch_seqs: int):
 def run_ar_worker():
     role = "ar-chatterbox"
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+    import torch
+    torch.backends.cudnn.enabled = False
     from chatterbox_ar import ChatterboxArEngine
     from store import Store
     from voices import Voices
@@ -298,11 +300,16 @@ def run_ar_worker():
     store = Store(config.STORE)
     eng = None
     jobs_dir = SHM_ROOT / "jobs_ar"
+    ru_jobs_dir = SHM_ROOT / "jobs_ru"
     cands_dir = SHM_ROOT / "cands"
     stop_file = SHM_ROOT / "STOP"
     idle_ticks = 0
 
     while not stop_file.exists():
+        # Wait for ru-espeech queue to drain so Chatterbox (~3.8 GiB) steps cleanly into ESpeech's freed VRAM slot
+        if any(ru_jobs_dir.glob("*.json")):
+            time.sleep(2.0)
+            continue
         if idle_ticks % 40 == 20:
             reclaim_stale_claims(jobs_dir)
         claimed = claim_jobs(jobs_dir, max_jobs=2, max_expanded=8)
@@ -395,7 +402,16 @@ def run_gate_worker(worker_id: int):
                     cpu_pool=cpu_pool, beam_size=3,
                 )
             except Exception as ex:
-                log(role, f"WARN score_candidates error on {key} ({ex}), keeping cand 0")
+                err_s = str(ex)
+                if "CUDA" in err_s or "cudaError" in err_s or "out of memory" in err_s:
+                    log(role, f"ERROR CUDA context error on {key} ({ex}), returning bundle & restarting worker")
+                    orig = cands_dir / cp.name.rsplit(".claim.", 1)[0]
+                    try:
+                        cp.rename(orig)
+                    except OSError:
+                        pass
+                    sys.exit(1)
+                log(role, f"WARN score_candidates non-CUDA error on {key} ({ex}), keeping cand 0")
                 best_wav = wavs[0]
                 ok = True
                 counts = {"takes": len(wavs), "retakes": max(0, len(wavs) - 1), "length": 0, "repeat": 0, "transient": 0, "similarity": 0, "cer": 0}
@@ -479,6 +495,8 @@ def run_orchestrator():
     prep_pool = concurrent.futures.ThreadPoolExecutor(max_workers=8)
 
     while not stop_file.exists():
+        for sub in ("jobs_qwen", "jobs_ru", "jobs_ar", "cands"):
+            reclaim_stale_claims(SHM_ROOT / sub)
         if ep_file.exists():
             try:
                 ep_specs = json.loads(ep_file.read_text("utf-8"))
@@ -535,7 +553,7 @@ def run_orchestrator():
                     enqueued_keys.add(k)
                     lang = it["lang"]
                     eng_kind = "ru" if (lang == "ru" and ru_cfg) else ("ar" if (lang == "ar" and ar_cfg) else "qwen")
-                    n_cands = 2 if lang == "en" else 4
+                    n_cands = 1 if lang == "en" else 3
                     job = {
                         "prio": prio,
                         "episode": ep,

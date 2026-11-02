@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = 'Outside, Chef Barinov meets his rival, Elena Sokolova, and mocks her for hiring cooks through a newspaper ad. Elena replies smoothly that some very good people have already applied, and some may be from his own kitchen. Here is the Russian first.'
 OPENER = 'Back to the war of words.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Barinov swears he\'ll eat his hat, and Elena calmly wishes him bon appetit. If you remember anything, take "ya s\'\'yem kolpak", the Russian "I\'ll eat my hat".'
+OUTRO = "Barinov swears he'll eat his hat, and Elena calmly wishes him bon appetit. If you remember anything, take the Russian phrase for 'I\'ll eat my hat'." 
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Елена, вы набираете поваров по объявлению?', 'Elena, are you hiring cooks through an ad?', [(6, 'вы персонал по объявлению набираете')], ''),
@@ -31,17 +31,99 @@ STORY = [
     ('barinov', 'Мои люди преданы мне до конца.', 'My people are loyal to me to the end.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Elena, are you hiring cooks through an ad?\' "Nabirat\'" is to gather up, and it is the verb for hiring a team. "Po ob\'\'yavleniyu" is "by an announcement", meaning through an ad.'),
-    (1, None, '\'Hello, Viktor Petrovich. Yes, we are expanding.\' Elena uses his name and father\'s name, "Viktor Petrovich", which is formal. "Rasshiryayemsya" holds "shirokiy", wide: we widen ourselves.'),
-    (2, None, '\'You had better put a sign near the metro!\' "Luchshe", better, before a command turns it into advice. "Tablichka" is a small sign, and "vozle" is "next to".'),
-    (3, None, '\'There is no need for that.\' "Net nikakoy neobkhodimosti" is "there isn\'t any necessity". After "net", "neobkhodimost\'" takes the "of" form "neobkhodimosti".'),
-    (4, None, '\'Normal professionals do not look for work in newspapers.\' "Ishchut", they look for, is from "iskat\'", to search. "Po gazetam" is "through newspapers", with -am after "po".'),
-    (5, None, '\'Excellent candidates have already come to me.\' "Ko mne" is "k", to, with an extra -o so that "k mne" is easier to say. "Prishli", came, is the plural past.'),
-    (6, None, '\'And from which restaurants are these people?\' "Iz", out of, puts both words in the plural "of" form: "kakikh restoranov".'),
-    (7, None, '\'Some work in very respectable places.\' "Dostoynykh", worthy, shares a root with "dostoinstvo", dignity. "Mestakh" is "mesta", places, with the plural "in" ending -akh.'),
-    (8, None, '\'Could someone really be leaving good restaurants?\' "Neuzheli" opens a question of disbelief, like "can it really be?". "Iz khoroshikh restoranov" is "from good restaurants".'),
-    (9, None, '\'Maybe even from your restaurant.\' Word for word, "may be, even out of your restaurant". Elena stays on polite "vy", so "your" is "vash", and after "iz" it takes the "of" ending: "vashego restorana".'),
-    (10, None, '\'I will eat my chef\'s hat if my cooks leave!\' "S\'\'yem", I will eat, is the irregular future of "s\'\'yest\'". "Kolpak" is the tall chef\'s hat, and "uydut" is "they will leave".'),
-    (11, None, '\'Then in advance I wish you bon appétit!\' "Zaraneye" is "in advance". "Priyatnogo appetita" is in the "of" form because a wish usually takes it after "zhelayu", I wish.'),
-    (12, None, '\'My people are loyal to me to the end.\' "Predany", devoted, and "predat\'", to betray, both come from "hand over": you hand yourself to someone, or hand them to the enemy. "Do kontsa" is "to the end", from "konets".'),
+    (0, None, [
+        "'Elena, are you hiring cooks through an ad?' The expression for gathering up is ",
+        ("barinov", "набираете"),
+        ", and it is the action word for hiring a team. ",
+        ("barinov", "по объявлению?"),
+        " literally means 'by an announcement', meaning through an ad."
+    ]),
+    (1, None, [
+        "'Hello, Viktor Petrovich. Yes, we are expanding.' Elena uses his name and father's name, ",
+        ("elena", "Виктор Петрович."),
+        ", which is formal. The phrase for 'we are expanding' is ",
+        ("elena", "расширяемся."),
+        ", built from the term for 'wide': we widen ourselves."
+    ]),
+    (2, None, [
+        "'You had better put a sign near the metro!' The expression for 'better', ",
+        ("barinov", "лучше"),
+        ", before a command turns it into advice. ",
+        ("barinov", "табличку"),
+        " is a small sign, and ",
+        ("barinov", "возле"),
+        " translates to 'next to'."
+    ]),
+    (3, None, [
+        "'There is no need for that.' ",
+        ("elena", "нет никакой необходимости."),
+        " literally means 'there isn't any necessity'. After ",
+        ("elena", "нет"),
+        ", the translation for necessity takes the 'of' form, ",
+        ("elena", "необходимости."),
+        "."
+    ]),
+    (4, None, [
+        "'Normal professionals do not look for work in newspapers.' ",
+        ("barinov", "ищут"),
+        ", meaning 'they look for', is built from the action word to search. ",
+        ("barinov", "по газетам."),
+        " translates to 'through newspapers'."
+    ]),
+    (5, None, [
+        "'Excellent candidates have already come to me.' ",
+        ("elena", "Ко мне"),
+        " is the little word for 'to', with an extra 'o' to make it easier to say. The Russian expression for 'came' is ",
+        ("elena", "пришли"),
+        ", describing a past action by many."
+    ]),
+    (6, None, [
+        "'And from which restaurants are these people?' The expression for 'out of', ",
+        ("barinov", "из"),
+        ", puts both following words in the multiple 'of' form: ",
+        ("barinov", "каких ресторанов"),
+        "."
+    ]),
+    (7, None, [
+        "'Some work in very respectable places.' The describing word for 'respectable' or 'worthy', ",
+        ("elena", "достойных"),
+        ", is built from the phrase for dignity. ",
+        ("elena", "местах."),
+        " literally means 'in places'."
+    ]),
+    (8, None, [
+        "'Could someone really be leaving good restaurants?' The term for disbelief, ",
+        ("barinov", "Неужели"),
+        ", opens a question like 'can it really be?'. ",
+        ("barinov", "из хороших ресторанов?"),
+        " translates to 'from good restaurants'."
+    ]),
+    (9, None, [
+        "'Maybe even from your restaurant.' Literally, this translates to 'may be, even out of your restaurant'. Elena stays polite, so the word for 'your' takes the 'of' ending: ",
+        ("elena", "вашего ресторана."),
+        "."
+    ]),
+    (10, None, [
+        "'I will eat my chef's hat if my cooks leave!' The phrase for 'I will eat', ",
+        ("barinov", "съем"),
+        ", describes a future action. ",
+        ("barinov", "колпак,"),
+        " is the tall chef's hat, and ",
+        ("barinov", "уйдут!"),
+        " translates to 'they will leave'."
+    ]),
+    (11, None, [
+        "'Then in advance I wish you bon appétit!' The Russian expression for 'in advance' is ",
+        ("elena", "заранее"),
+        ". ",
+        ("elena", "приятного аппетита!"),
+        " is in the 'of' form because a wish usually takes it after the action word for 'I wish'."
+    ]),
+    (12, None, [
+        "'My people are loyal to me to the end.' The Russian term for 'devoted', ",
+        ("barinov", "преданы"),
+        ", and the word to betray are both built from the idea to 'hand over': you hand yourself to someone, or hand them to the enemy. ",
+        ("barinov", "до конца."),
+        " translates to 'to the end'."
+    ]),
 ]

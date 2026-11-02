@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "The chef is alone in his office, still fuming about Max. Vika walks in and claims it was she, not Max, who went to the rival restaurant, and she tells him he never lets his cooks grow. Here's the Russian first."
 OPENER = "Now Vika's argument."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Vika asks whether she can say Max isn\'t fired, and the chef is too tired to refuse. Notice "ne dayosh\' yemu rasti", "you don\'t let him grow".'
+OUTRO = "Vika asks whether she can say Max isn't fired, and the chef is too tired to refuse. Notice she says you don't let him grow."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Этого парня больше никуда не возьмут!', 'They will not take this guy anywhere anymore!', [(290, 'не возьмут')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Делай что хочешь, только оставь меня!', 'Do what you want, just leave me alone!', [], ''),
 ]
 WALK = [
-    (0, None, '\'They will not take this guy anywhere anymore!\' "Ne voz\'mut" is "they won\'t take", with nobody named. "Nikuda" is "nowhere".'),
-    (1, None, '\'Viktor, we need to talk urgently.\' Vika calls him "Viktor", without his father\'s name. "Nam nuzhno" is "to us it\'s needed".'),
-    (2, None, '\'I do not want to talk about this cook.\' "Ob etom povare" is "about this cook", with "ob" before a vowel and -e on "povar".'),
-    (3, None, '\'Max did not go to that interview.\' The verb "khodit\'" means going there and back, so "ne khodil" says he never made the trip at all. "Sobesedovaniye", an interview, is built on "beseda", a conversation.'),
-    (4, None, '\'What are you saying right now?\' "Chto ty takoye govorish\'?" is "what such are you saying?", a surprised question.'),
-    (5, None, '\'It was I who went to the other restaurant.\' "Eto ya" puts the spotlight on "I". "Khodila" ends in -la for a woman, and "chuzhoy" is "someone else\'s".'),
-    (6, None, '\'Max really is a very talented guy.\' "Talantlivyy" is "talant" made into an adjective. "Deystvitel\'no" is "really".'),
-    (7, None, '\'But you do not let him grow at all.\' "Ne dayosh\' yemu rasti" is "you don\'t give him to grow", the same pattern as "ne dayote mne gotovit\'".'),
-    (8, None, '\'How many good people have left here?\' "Skol\'ko" is "how many", and after it "lyudi" becomes "lyudey". "Ushli" is "left".'),
-    (9, None, '\'Stop giving me your moral lectures!\' "Nravoucheniya" joins "nrav", morals, and "uchit\'", to teach. "Khvatit" is "enough".'),
-    (10, None, '\'I simply genuinely feel sorry for this guy.\' "Mne zhal\'" is "to me it\'s a pity", and the person pitied takes the "of" form, "etogo parnya". "Iskrenne" is "sincerely".'),
-    (11, None, '\'Can I say that he is not fired?\' "Mogu" is "I can". "Ne uvolen" is the short "not fired".'),
-    (12, None, '\'Do what you want, just leave me alone!\' "Delay chto khochesh\'" is "do what you want". "Ostav\' menya", leave me, is the command of "ostavit\'", to leave behind, and Russian needs no word for "alone".'),
+    (0, None, ['\'They will not take this guy anywhere anymore!\' The Russian expression for "they will not take" is ', ('barinov', 'не возьмут!'), ' with nobody named. The expression for "nowhere" is ', ('barinov', 'никуда')]),
+    (1, None, ['\'Viktor, we need to talk urgently.\' Vika calls him Viktor, without his father\'s name. Literally, it translates to "to us it\'s needed", which is ', ('vika', 'нам нужно')]),
+    (2, None, ['\'I do not want to talk about this cook.\' The phrase ', ('barinov', 'об этом поваре.'), ' translates to "about this cook", with a little word for "about" before a vowel sound and an extra ending on the word for cook.']),
+    (3, None, ['\'Max did not go to that interview.\' The action word for going means going there and back, so ', ('vika', 'не ходил'), ' says he never made the trip at all. The term for an interview is ', ('vika', 'собеседование.'), ' built from the Russian term for a conversation.']),
+    (4, None, ['\'What are you saying right now?\' Literally, he asks ', ('barinov', 'Что ты такое сейчас говоришь?'), ' which translates to "what such are you saying right now?", a surprised question.']),
+    (5, None, ['\'It was I who went to the other restaurant.\' The words ', ('vika', 'Это я'), ' put the spotlight on "I". The action word ends with a sound for a woman, and the term for the other restaurant translates to "someone else\'s".']),
+    (6, None, ['\'Max really is a very talented guy.\' The describing word for talented, ', ('vika', 'талантливый'), ' is built from the expression for talent. The Russian expression for "really" is ', ('vika', 'действительно')]),
+    (7, None, ['\'But you do not let him grow at all.\' Literally, ', ('vika', 'не даёшь ему расти.'), ' translates to "you don\'t give him to grow", similar to earlier phrases.']),
+    (8, None, ['\'How many good people have left here?\' The word for "how many" is ', ('vika', 'Сколько'), ' and after it the Russian term for people changes its ending. The action word for "left" is ', ('vika', 'ушли')]),
+    (9, None, ['\'Stop giving me your moral lectures!\' The expression for moral lectures is ', ('barinov', 'нравоучения!'), ' built from the words for morals and teaching. The term for "stop" or "enough" is ', ('barinov', 'Хватит')]),
+    (10, None, ['\'I simply genuinely feel sorry for this guy.\' Literally, ', ('vika', 'жаль'), ' translates to "a pity", and the person pitied takes a special form. The word for "genuinely" or "sincerely" is ', ('vika', 'искренне')]),
+    (11, None, ['\'Can I say that he is not fired?\' The Russian term for "I can" is ', ('vika', 'могу'), ' The short describing word for "not fired" is ', ('vika', 'не уволен?')]),
+    (12, None, ['\'Do what you want, just leave me alone!\' The phrase ', ('barinov', 'Делай что хочешь,'), ' translates to "do what you want". The phrase ', ('barinov', 'оставь меня!'), ' translates to "leave me", an order to leave behind, and Russian needs no word for "alone".']),
 ]

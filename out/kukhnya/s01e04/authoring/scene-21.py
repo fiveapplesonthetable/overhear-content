@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "A guest in the dining room has been served the blue soup, and his tongue has turned blue. Barinov is furious, and gives Max two minutes to pack up and leave. Here's the Russian first."
 OPENER = "Let's hear the chef lose his patience."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Barinov has no patience left and no interest in listening. Notice "dve minuty", two minutes, where the noun ends in "-y" after "two".'
+OUTRO = ["Barinov has no patience left and no interest in listening. Notice how he says two minutes, ", ('barinov', 'две минуты!'), ", where the naming word changes shape after the word for two."]
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('fedya', 'Шеф, наш новичок снова сильно отличился.', 'Chef, our newcomer stood out again.', [(281, 'опять отличился')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Я больше ничего не хочу слышать!', 'I do not want to hear anything anymore!', [(289, 'Не желаю ничего слышать.')], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, our newcomer stood out again.\' "Otlichilsya" is "distinguished himself", said here with irony. "Otlichnyy", excellent, comes from the same root.'),
-    (1, None, '\'What did you do in the kitchen again?\' "Natvoril" is "got up to mischief", with "tvorit\'", to create, inside.'),
-    (2, None, '\'In the dining room the guest\'s tongue turned blue!\' No "his" here: Russian says "u gostya yazyk", at the guest the tongue. After "stal", became, the colour takes the -im ending, "sinim".'),
-    (3, None, '\'Did you ruin the soup with food coloring?\' "Pishchevym" is "food" as an adjective, from "pishcha". "Krasitelem" ends in -em for "with".'),
-    (4, None, '\'Chef, the soup turned out very delicious!\' "Poluchilsya", turned out, is masculine for "sup". After it, "vkusnyy" becomes "vkusnym".'),
-    (5, None, '\'This is how you thank me for kindness!\' "Blagodarish\'" joins "blago", good, and "dar", gift. "Za dobrotu" is "for kindness".'),
-    (6, None, '\'I gave you a chance to become a good cook.\' "Stat\'" is "to become", and after it "khoroshiy povar" becomes "khoroshim povarom".'),
-    (7, None, '\'Please, listen to me for at least a minute.\' "Vyslushayte" has "vy-", out: hear me out. "Khotya by minutu" is "at least a minute".'),
-    (8, None, '\'You have exactly two minutes!\' After "dve", two, the noun takes the "of" ending, so "minuta" becomes "minuty". It\'s "dve" and not "dva" because "minuta" is feminine.'),
-    (9, None, '\'Quickly pack all your things!\' "Soberi" is "gather", Russian for packing. "Svoi veshchi" is "your own things".'),
-    (10, None, '\'Chef, I did not want to offend anyone.\' "Nikogo" is "nobody" as the object, with "ne" too. "Obidet\'" is from "obida", a hurt.'),
-    (11, None, '\'Leave here, you are fired from the restaurant!\' "Ukhodi" is the command "leave". "Uvolen iz" is "fired from".'),
-    (12, None, '\'I do not want to hear anything anymore!\' "Bol\'she nichego ne" is "more nothing not", the double negative.'),
+    (0, None, ["'Chef, our newcomer stood out again.' The translation for 'stood out', ", ('fedya', 'отличился.'), ", literally translates to 'distinguished himself', said here with irony."]),
+    (1, None, ["'What did you do in the kitchen again?' The Russian term for 'got up to mischief', ", ('barinov', 'натворил'), ", is built from the action word to create."]),
+    (2, None, ["'In the dining room the guest's tongue turned blue!' No 'his' here: the phrasing ", ('fedya', 'У гостя'), " literally translates to 'at the guest'. After the word for 'became', ", ('fedya', 'стал'), ", the color changes its shape to ", ('fedya', 'синим!'), "."]),
+    (3, None, ["'Did you ruin the soup with food coloring?' The expression for 'food', ", ('barinov', 'пищевым'), ", is used here as a describing word. The term for 'coloring', ", ('barinov', 'красителем?'), ", changes its shape to show it was used to do something."]),
+    (4, None, ["'Chef, the soup turned out very delicious!' The Russian term for 'turned out', ", ('max', 'получился'), ", matches the word for 'soup'. After it, the describing word for 'delicious' changes to ", ('max', 'вкусным!'), "."]),
+    (5, None, ["'This is how you thank me for kindness!' The expression for 'thank', ", ('barinov', 'благодаришь'), ", is built from the words for 'good' and 'gift'. And the phrase for 'for kindness' is ", ('barinov', 'за доброту!'), "."]),
+    (6, None, ["'I gave you a chance to become a good cook.' The Russian term for 'to become' is ", ('barinov', 'стать'), ", and after it the phrase for 'good cook' changes shape to ", ('barinov', 'хорошим поваром.'), "."]),
+    (7, None, ["'Please, listen to me for at least a minute.' The phrase for 'listen', ", ('max', 'выслушайте'), ", literally means 'hear out'. The phrase for 'at least a minute' is ", ('max', 'хотя бы минуту.'), "."]),
+    (8, None, ["'You have exactly two minutes!' After the term for 'two', ", ('barinov', 'две'), ", the naming word changes shape to ", ('barinov', 'минуты!'), "."]),
+    (9, None, ["'Quickly pack all your things!' The Russian expression for 'pack', ", ('barinov', 'собери'), ", literally translates to 'gather'. The phrase for 'your things' is ", ('barinov', 'свои вещи!'), "."]),
+    (10, None, ["'Chef, I did not want to offend anyone.' The term for 'anyone', ", ('max', 'никого'), ", literally translates to 'nobody', paired with a 'not' earlier in the sentence. The action word for 'offend' is ", ('max', 'обидеть.'), "."]),
+    (11, None, ["'Leave here, you are fired from the restaurant!' The expression for 'leave' is ", ('barinov', 'Уходи'), ". The phrase for 'fired from' is ", ('barinov', 'уволен из'), "."]),
+    (12, None, ["'I do not want to hear anything anymore!' The phrase for 'not anymore', ", ('barinov', 'больше ничего не'), ", literally translates to 'more nothing not'."]),
 ]

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = 'Senya is next in the chair, and he breaks down before the machine is even switched on. Instead of answering about the rival restaurant, he starts confessing to every bit of food he has ever taken from the kitchen. Here is the Russian first.'
 OPENER = 'Now the confession.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Barinov stares at his sobbing cook and decides what to do next. You\'ve heard "klyanus\'", "I swear", which is a good one to know.'
+OUTRO = "Barinov stares at his sobbing cook and decides what to do next. You've heard the phrase for I swear, which is a good one to know."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Шеф, пожалуйста, не включайте прибор!', 'Chef, please, do not turn on the device!', [(146, 'Шеф, пожалуйста')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('senya', 'Нет! Я предан только вам!', 'No! I am loyal only to you!', [(154, 'Нет')], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, please, do not turn on the device!\' "Ne vklyuchayte" is "don\'t switch on", with the polite -te. "Pribor" is a device or gauge.'),
-    (1, None, '\'Why are you shaking so hard?\' "Ty chego" is a spoken "why are you". "Drozhish\'" is "you tremble", and "sil\'no" is "strongly".'),
-    (2, None, '\'I will tell you everything honestly myself!\' "Sam" is "myself", here "of my own accord". "Rasskazhu" is "I\'ll tell", and "chestno" is "honestly".'),
-    (3, None, '\'I took that fish after the banquet!\' "Vzyal ya" is "took I", with "ya" last for emphasis. "Posle banketa" is "after the banquet".'),
-    (4, None, '\'And I took that venison away too!\' "Olenina", venison, is from "olen\'", deer. "Unyos" is "carried off", with "u-" for away.'),
-    (5, None, '\'And half a kilo of expensive caviar?\' "Polkilo" is "pol-", half, plus "kilo". After it, "dorogaya ikra" becomes "dorogoy ikry".'),
-    (6, None, '\'No, Chef, I did not take the caviar!\' Senya puts "ikru" first for stress: the caviar, I did not take. "Ne bral" is "didn\'t take".'),
-    (7, None, '\'Forgive me, please, Chef!\' "Prostite menya" is "forgive me" with the polite -te.'),
-    (8, None, '\'I do not care about your venison!\' "Mne plevat\'" is "to me to spit", a blunt "I couldn\'t care less". "Na tvoyu oleninu" is what he spits on.'),
-    (9, None, '\'Did you go to the neighboring restaurant?\' The same question Fedya got: "khodil", went and came back.'),
-    (10, None, '\'No, Chef, I swear to you!\' "Klyanus\'" is "I swear", with -s\'. "Vam" is "to you", polite.'),
-    (11, None, '\'Tell the truth, yes or no?\' "Govori pravdu" is "speak the truth", with "pravda" becoming "pravdu" as the object.'),
-    (12, None, '\'No! I am loyal only to you!\' "Predan" is the man\'s short "devoted". "Tol\'ko vam" is "only to you".'),
+    (0, None, ["'Chef, please, do not turn on the device!' The term for don't switch on is ", ('senya', "не включайте"), " ending with a polite sound. The Russian term for device or gauge is ", ('senya', "прибор!")]),
+    (1, None, ["'Why are you shaking so hard?' A spoken phrase for why are you is ", ('barinov', "Ты чего"), " The phrase for you tremble is ", ('barinov', "дрожишь?"), " and the translation for strongly is ", ('barinov', "сильно")]),
+    (2, None, ["'I will tell you everything honestly myself!' The Russian expression for myself, here meaning of my own accord, is ", ('senya', "сам"), " It is paired with ", ('senya', "расскажу!"), " which translates to I will tell, and ", ('senya', "честно"), " for honestly."]),
+    (3, None, ["'I took that fish after the banquet!' The ending phrase ", ('senya', "взял я!"), " literally translates to took I, with the I placed last for emphasis. The phrase ", ('senya', "после банкета"), " means after the banquet."]),
+    (4, None, ["'And I took that venison away too!' The expression for venison is ", ('senya', "оленину"), " which is built from the word for deer. The action word ", ('senya', "унёс"), " translates to carried off, with a starting sound that means away."]),
+    (5, None, ["'And half a kilo of expensive caviar?' The Russian term for half a kilo is ", ('barinov', "полкило"), " built from half plus kilo. After it, the describing words for expensive caviar change their endings to ", ('barinov', "дорогой икры?")]),
+    (6, None, ["'No, Chef, I did not take the caviar!' Senya puts the term for caviar, ", ('senya', "икру"), " first for stress: the caviar, I did not take. The phrase for did not take is ", ('senya', "не брал!")]),
+    (7, None, ["'Forgive me, please, Chef!' The phrase ", ('senya', "Простите меня,"), " translates to forgive me, ending with a polite sound."]),
+    (8, None, ["'I do not care about your venison!' The phrase ", ('barinov', "Мне плевать"), " literally translates to to me to spit, which is a blunt way to say I couldn't care less. He then says he spits on your venison, ", ('barinov', "на твою оленину!")]),
+    (9, None, ["'Did you go to the neighboring restaurant?' The chef asks the same question he asked Fedya, using the term for went and came back, ", ('barinov', "ходил")]),
+    (10, None, ["'No, Chef, I swear to you!' The word for I swear is ", ('senya', "клянусь"), " with a reflexive sound at the end. The Russian term for to you is the polite ", ('senya', "вам")]),
+    (11, None, ["'Tell the truth, yes or no?' The phrase ", ('barinov', "Говори правду,"), " translates to speak the truth, with the phrase for truth changing its ending because it is the target of the action."]),
+    (12, None, ["'No! I am loyal only to you!' The describing word ", ('senya', "предан"), " translates to devoted, in a short form for a man. The phrase ", ('senya', "только вам!"), " means only to you."]),
 ]

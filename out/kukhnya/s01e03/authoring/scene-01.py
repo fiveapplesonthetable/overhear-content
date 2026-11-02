@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "This is Kukhnya, the Russian comedy about a hot-tempered chef and the staff of a smart Moscow restaurant called Claude Monet. In this third episode, Max, the young cook, has spent a week unloading deliveries and is longing to be allowed near a stove. Instead, Chef Barinov hands him something very different: a live goose. Here is their conversation in Russian first, so don't worry about catching every word."
+INTRO = "This is The Kitchen, the Russian comedy about a hot-tempered chef and the staff of a smart Moscow restaurant called Claude Monet. In this third episode, Max, the young cook, has spent a week unloading deliveries and is longing to be allowed near a stove. Instead, Chef Barinov hands him something very different: a live goose. Here is their conversation in Russian first, so don't worry about catching every word."
 OPENER = "Let's go back and watch Max's face."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'So Max has been given a goose and an ultimatum. If "zhivoy", alive, sticks in your head after this, good: you\'ll meet it again.'
+OUTRO = "So Max has been given a goose and an ultimatum. If the word for alive sticks in your head after this, good: you'll meet it again."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Доброе утро, шеф!', 'Good morning, chef!', [(46, 'Доброе утро, шеф')], ''),
@@ -31,17 +31,115 @@ STORY = [
     ('max', 'Хорошо, я попробую сделать это.', 'Fine, I will try to do it.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Good morning, chef!\' "Dobroye utro" puts -oye on "good" because "utro", morning, is a neuter word. For the evening it changes to "dobryy vecher", since "vecher" is masculine.'),
-    (1, None, '\'Hello, oguzok. Here is your work.\' "Zdravstvuy" is the hello for one person you call "ty". Add -te and you get "zdravstvuyte", the polite one. "Oguzok" is a butcher\'s word for the rump cut, and "vot tvoya rabota" is "here your work".'),
-    (2, None, '\'Chef, this is a live goose!\' "Eto zhivoy gus\'" is "this live goose", with no word for "is". "Zhivoy" means alive, and "gus\'" is a goose.'),
-    (3, None, '\'We have a very important banquet today.\' "U nas", "at us", is how Russian says "we have". "Vazhnyy" is "important", and "banket" is the banquet.'),
-    (4, None, '\'Why do we need a live goose in the kitchen?\' "Zachem nam" is "what for, to us", and that "nam" carries the "we need". Note "na kukhne": Russians are "on" the kitchen, not "in" it.'),
-    (5, None, '\'The guests need the freshest product!\' The guests get the "to" ending -am, "gostyam", because in Russian the thing needed is the subject. So "nuzhen" agrees with "produkt", masculine, and "samyy svezhiy" builds "freshest" out of "most fresh".'),
-    (6, None, '\'But I am a cook, not a butcher.\' "Ya povar, a ne myasnik": the little "a ne", "and not", sets one job against the other. "Myasnik" is built on "myaso", meat.'),
-    (7, None, '\'Every chef is obliged to know how to butcher meat.\' "Obyazan", obliged, has a man\'s ending, and for a woman it would be "obyazana". "Umet\'" is "know how", for skills, and "razdelyvat\'" is to cut a carcass into pieces.'),
-    (8, None, '\'What, do I need to kill it?\' "Mne nuzhno" is "to me necessary", the plain "I need to". "Ubit\'" is "to kill", and "yego", him, is the goose.'),
-    (9, None, '\'Did you think meat grows on trees?\' "Dumal" ends in -l, so Barinov is talking to a man. "Derevo", tree, has the odd plural "derev\'ya", and "on trees" is "na derev\'yakh".'),
-    (10, None, '\'I have never done this in my life.\' "Nikogda... ne delal" is "never not did", the Russian double negative. "Etogo", this, takes its "of" form after the "ne", and "v zhizni" is "in life".'),
-    (11, None, '\'Kill the goose, or you are fired!\' "Ubey" is the command "kill". "Gus\'" becomes "gusya" as the thing killed, the ending for a living creature. "Ty uvolen" is "you are fired".'),
-    (12, None, '\'Fine, I will try to do it.\' "Poprobuyu", I\'ll try, is the future of "poprobovat\'", the finished partner of "probovat\'". "Sdelat\' eto" is "to do it".'),
+    (0, None, [
+        "'Good morning, chef!' Here we see ",
+        ('max', 'Доброе утро,'),
+        " translates to 'good morning', and it puts a special ending on 'good' because the word for morning, ",
+        ('max', 'утро,'),
+        " uses a middle shape."
+    ]),
+    (1, None, [
+        "'Hello, oguzok. Here is your work.' Looking closely, ",
+        ('barinov', 'Здравствуй,'),
+        " translates to the hello for one person you know well. Add an extra sound at the end and you get the polite version. ",
+        ('barinov', 'огузок.'),
+        " is the word for the rump cut in a cow, and ",
+        ('barinov', 'Вот твоя работа.'),
+        " literally means 'here your work'."
+    ]),
+    (2, None, [
+        "'Chef, this is a live goose!' Looking closely, ",
+        ('max', 'это живой гусь!'),
+        " literally says 'this live goose', with no action word for 'is'. ",
+        ('max', 'живой'),
+        " translates to 'alive', and ",
+        ('max', 'гусь!'),
+        " is the word for a goose."
+    ]),
+    (3, None, [
+        "'We have a very important banquet today.' Pay attention to ",
+        ('barinov', 'У нас'),
+        " literally means 'at us', which is how they say 'we have'. ",
+        ('barinov', 'важный'),
+        " translates to 'important', and ",
+        ('barinov', 'банкет.'),
+        " is the word for the banquet."
+    ]),
+    (4, None, [
+        "'Why do we need a live goose in the kitchen?' Focusing here, ",
+        ('max', 'Зачем нам'),
+        " translates to 'what for, to us', and that second word carries the feeling of 'we need'. Note ",
+        ('max', 'на кухне?'),
+        " — they literally say they are 'on' the kitchen, not 'in' it."
+    ]),
+    (5, None, [
+        "'The guests need the freshest product!' The word for the guests, ",
+        ('barinov', 'Гостям'),
+        ", gets a 'to' ending, because the thing needed is the main focus. So the needed word matches with ",
+        ('barinov', 'продукт!'),
+        ", which has a guy shape, and ",
+        ('barinov', 'самый свежий'),
+        " is built from 'most fresh'."
+    ]),
+    (6, None, [
+        "'But I am a cook, not a butcher.' In ",
+        ('max', 'я повар, а не мясник.'),
+        ", the little phrase ",
+        ('max', 'а не'),
+        " translates to 'and not', setting one job against the other. The word for butcher, ",
+        ('max', 'мясник.'),
+        ", is built from the word for meat."
+    ]),
+    (7, None, [
+        "'Every chef is obliged to know how to butcher meat.' Looking closely, ",
+        ('barinov', 'обязан'),
+        " translates to 'obliged', and has a man's ending. ",
+        ('barinov', 'уметь'),
+        " is the word for 'know how' when talking about skills, and ",
+        ('barinov', 'разделывать'),
+        " means to cut an animal into pieces."
+    ]),
+    (8, None, [
+        "'What, do I need to kill it?' Observe how ",
+        ('max', 'мне нужно'),
+        " literally says 'to me necessary', which is the standard way to say 'I need to'. ",
+        ('max', 'убить'),
+        " is the word for 'to kill', and ",
+        ('max', 'его?'),
+        ", meaning 'him', refers to the goose."
+    ]),
+    (9, None, [
+        "'Did you think meat grows on trees?' Listen carefully, ",
+        ('barinov', 'думал,'),
+        " ends in a specific sound because Barinov is talking to a man. The word for tree changes into a strange shape for more than one, making 'on trees' look like ",
+        ('barinov', 'на деревьях?'),
+        "."
+    ]),
+    (10, None, [
+        "'I have never done this in my life.' In Russian, ",
+        ('max', 'никогда'),
+        " and ",
+        ('max', 'не делал.'),
+        " literally pair up to say 'never not did', which is their way of saying 'not' twice. The word for 'this', ",
+        ('max', 'этого'),
+        ", takes an 'of' shape because of the negative, and ",
+        ('max', 'в жизни'),
+        " translates to 'in life'."
+    ]),
+    (11, None, [
+        "'Kill the goose, or you are fired!' Let us review ",
+        ('barinov', 'Убей'),
+        " translates to the action word 'kill!'. The word for the goose becomes ",
+        ('barinov', 'гуся,'),
+        " because it is the living creature receiving the action. ",
+        ('barinov', 'ты уволен!'),
+        " literally means 'you are fired'."
+    ]),
+    (12, None, [
+        "'Fine, I will try to do it.' Focusing here, ",
+        ('max', 'попробую'),
+        " translates to 'I will try', which is the finished-action partner shape of the base action word. ",
+        ('max', 'сделать это.'),
+        " is built from the words for 'to do it'."
+    ]),
 ]

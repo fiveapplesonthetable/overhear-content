@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = 'Barinov is still angry with the judge who took away his licence, and he and the cook Senya have a plan for her birthday dinner. Senya has brought a strong "remedy", and the chef wants to know exactly what it does. Here\'s the Russian first.'
 OPENER = "Let's follow the plan."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Barinov plans to deliver his revenge himself. You have heard "ne boysya", "don\'t be afraid", which is a useful command.'
+OUTRO = 'Barinov plans to deliver his revenge himself. You have heard the phrase "don\'t be afraid", which is a useful command.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Сеня, ты принёс то особое средство?', 'Senya, did you bring that special remedy?', [], ''),
@@ -31,17 +31,104 @@ STORY = [
     ('barinov', 'Не бойся, я сделаю всё лично.', 'Do not fear, I will do everything personally.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Senya, did you bring that special remedy?\' "Prinyos", brought, is a man\'s past of "prinesti", to carry here. "To osoboye sredstvo" is "that special means", and "sredstvo" is any means or remedy.'),
-    (1, None, '\'Yes, chef, this is a strong remedy.\' "Sil\'noye", strong, is "sila", strength, made into an adjective. It ends in -oye because "sredstvo" is neuter.'),
-    (2, None, '\'This is brand new powerful medicine.\' "Voobshche novoye" is "totally new". "Moshchnoye", powerful, is from "moshch\'", power, and "lekarstvo" is a drug from the pharmacy.'),
-    (3, None, '\'How quickly does it start to act?\' "Nachinayet deystvovat\'" is "begins to act", from "deystviye", action. "Ono", it, is neuter to match the medicine.'),
-    (4, None, '\'Very quickly, chef, literally right away.\' "Bukval\'no", literally, has "bukva", a letter, inside it, just as "literally" has "letter". "Srazu" is "at once".'),
-    (5, None, '\'One pill solves all your problems.\' "Odna" is feminine because "tabletka", pill, is. "Reshayet" is "solves", and "vse vashi problemy" is "all your problems".'),
-    (6, None, '\'And what will be the exact effect?\' Masculine to match "effekt", "kakoy" asks "what kind of". "Budet", will be, is all the future needs here, and "tochnyy", exact, is the adjective behind the familiar "tochno".'),
-    (7, None, '\'I promise, the customer will not leave the toilet!\' "Ne otoydyot ot" is "won\'t step away from", and after "ot" the word becomes "unitaza". "Obeshchayu" is "I promise".'),
-    (8, None, '\'Excellent, the judge will remember this anniversary!\' "Zapomnit" is "will remember", with "za-" for fixing it in memory. "Yubiley" is a round-number birthday or anniversary.'),
-    (9, None, '\'Shall we add the pill into her soup?\' "Dobavim" is "we\'ll add". "Yeyo", her, never changes its ending, and "v sup" is "into the soup".'),
-    (10, None, '\'No, we will put the powder directly on the goose.\' "Polozhim" is "we\'ll lay", for putting something down flat. "Poroshok" is "powder", and "na gusya" is "onto the goose".'),
-    (11, None, '\'The main thing is that other guests do not get poisoned.\' "Glavnoye, chtoby" is "the main thing, so that". "Otravilis\'", got poisoned, ends in -lis\', and it follows "chtoby" in the past form.'),
-    (12, None, '\'Do not fear, I will do everything personally.\' "Ne boysya" is the "ty" command "don\'t be afraid". "Lichno" is "personally", and "sdelayu vsyo" is "I\'ll do everything".'),
+    (0, None, (
+        "'Senya, did you bring that special remedy?' The word for brought, ",
+        ('barinov', 'принёс'),
+        ", is a man's action word for carrying here. The word for any means or remedy is the basis for \"that special means\", ",
+        ('barinov', 'то особое средство?')
+    )),
+    (1, None, (
+        "'Yes, chef, this is a strong remedy.' The word for strong, ",
+        ('senya', 'сильное'),
+        ", is built from the word for strength. It has an \"it\" shape because it matches ",
+        ('senya', 'средство.')
+    )),
+    (2, None, (
+        "'This is brand new powerful medicine.' Translates to \"totally new\", ",
+        ('senya', 'вообще новое'),
+        ". The word for powerful, ",
+        ('senya', 'мощное'),
+        ", is built from the word for power, and a drug from the pharmacy is ",
+        ('senya', 'лекарство.')
+    )),
+    (3, None, (
+        "'How quickly does it start to act?' The word for it, ",
+        ('barinov', 'оно'),
+        ", has an \"it\" shape to match the medicine. Translates to \"begins to act\", ",
+        ('barinov', 'начинает действовать?')
+    )),
+    (4, None, (
+        "'Very quickly, chef, literally right away.' The word for literally, ",
+        ('senya', 'буквально'),
+        ", has the word for letter inside it, just as the English word literally does. Translates to \"at once\", ",
+        ('senya', 'сразу.')
+    )),
+    (5, None, (
+        "'One pill solves all your problems.' The word for one, ",
+        ('senya', 'Одна'),
+        ", has a \"girl\" shape because ",
+        ('senya', 'таблетка'),
+        " does. The word for solves is ",
+        ('senya', 'решает'),
+        ", and translates to \"all your problems\", ",
+        ('senya', 'все ваши проблемы.')
+    )),
+    (6, None, (
+        "'And what will be the exact effect?' With a \"boy\" shape to match the effect, ",
+        ('barinov', 'какой'),
+        " asks \"what kind of\". Translates to \"will be\", ",
+        ('barinov', 'будет'),
+        ", which is all that is needed for things happening later. The word for exact is ",
+        ('barinov', 'точный'),
+        "."
+    )),
+    (7, None, (
+        "'I promise, the customer will not leave the toilet!' The word for \"I promise\" is ",
+        ('senya', 'Обещаю,'),
+        " and after the linking word ",
+        ('senya', 'от'),
+        ", the toilet becomes ",
+        ('senya', 'унитаза'),
+        ". Translates to \"won't step away from\", ",
+        ('senya', 'не отойдёт!')
+    )),
+    (8, None, (
+        "'Excellent, the judge will remember this anniversary!' The word for will remember, ",
+        ('barinov', 'запомнит'),
+        ", uses a starting piece for fixing something in memory. The word for a round-number birthday or anniversary is ",
+        ('barinov', 'юбилей!')
+    )),
+    (9, None, (
+        "'Shall we add the pill into her soup?' The word for \"we'll add\" is ",
+        ('senya', 'добавим'),
+        ". The word for her, ",
+        ('senya', 'её'),
+        ", never changes its ending, and translates to \"into the soup\" (if we remove \"her\"), using the linking word ",
+        ('senya', 'в'),
+        " before ",
+        ('senya', 'суп?')
+    )),
+    (10, None, (
+        "'No, we will put the powder directly on the goose.' Translates to \"we'll lay\", ",
+        ('barinov', 'положим'),
+        ", for putting something down flat. The word for powder is ",
+        ('barinov', 'порошок'),
+        ", and onto the goose is ",
+        ('barinov', 'на гуся.')
+    )),
+    (11, None, (
+        "'The main thing is that other guests do not get poisoned.' Translates to \"the main thing, so that\", ",
+        ('senya', 'Главное, чтобы'),
+        ". The word for \"got poisoned\", ",
+        ('senya', 'отравились.'),
+        ", has an ending for more than one person, and it follows the \"so that\" word in a shape for things that already happened."
+    )),
+    (12, None, (
+        "'Do not fear, I will do everything personally.' Translates to the friendly command \"don't be afraid\", ",
+        ('barinov', 'Не бойся,'),
+        " and translates to \"I'll do everything\", ",
+        ('barinov', 'сделаю всё'),
+        ". The word for personally is ",
+        ('barinov', 'лично.')
+    )),
 ]

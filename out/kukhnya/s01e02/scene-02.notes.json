@@ -768,6 +768,28 @@
     },
     {
       "seg": 17,
+      "trans": "two / hours",
+      "words": [
+        {
+          "t": "два",
+          "lemma": "два",
+          "pos": "num",
+          "stress": null,
+          "gloss": "two",
+          "gram": "masculine/neuter nominative"
+        },
+        {
+          "t": "часа!",
+          "lemma": "час",
+          "pos": "noun",
+          "stress": "часа́",
+          "gloss": "hours",
+          "gram": "genitive singular, masculine (after два)"
+        }
+      ]
+    },
+    {
+      "seg": 19,
       "trans": "He is late, meaning I won the bet!",
       "words": [
         {
@@ -821,7 +843,21 @@
       ]
     },
     {
-      "seg": 19,
+      "seg": 21,
+      "trans": "won",
+      "words": [
+        {
+          "t": "выиграл",
+          "lemma": "выиграть",
+          "pos": "verb",
+          "stress": "вы́играл",
+          "gloss": "won",
+          "gram": "past masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 23,
       "trans": "Everyone who bet, pay up quickly!",
       "words": [
         {
@@ -867,7 +903,21 @@
       ]
     },
     {
-      "seg": 21,
+      "seg": 25,
+      "trans": "pay up",
+      "words": [
+        {
+          "t": "скидывайтесь",
+          "lemma": "скидываться",
+          "pos": "verb",
+          "stress": "ски́дывайтесь",
+          "gloss": "pay up",
+          "gram": "imperative 2nd person plural"
+        }
+      ]
+    },
+    {
+      "seg": 27,
       "trans": "Chef, forgive me, I got stuck in a traffic jam.",
       "words": [
         {
@@ -921,7 +971,21 @@
       ]
     },
     {
-      "seg": 23,
+      "seg": 29,
+      "trans": "excuse me",
+      "words": [
+        {
+          "t": "простите,",
+          "lemma": "простить",
+          "pos": "verb",
+          "stress": "прости́те",
+          "gloss": "excuse me",
+          "gram": "imperative, polite/plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 31,
       "trans": "You lifted my mood this morning.",
       "words": [
         {
@@ -975,7 +1039,37 @@
       ]
     },
     {
-      "seg": 25,
+      "seg": 33,
+      "trans": "to lift, to raise; to rouse / to me (мне некогда = I have no time) / mood",
+      "words": [
+        {
+          "t": "поднял",
+          "lemma": "поднять",
+          "pos": "verb",
+          "stress": "подня́л",
+          "gloss": "to lift, to raise; to rouse",
+          "gram": "past.m.sg"
+        },
+        {
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "настроение",
+          "lemma": "настроение",
+          "pos": "noun",
+          "stress": "настрое́ние",
+          "gloss": "mood",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 35,
       "trans": "Therefore I reward you with an important task.",
       "words": [
         {
@@ -1029,7 +1123,21 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 37,
+      "trans": "reward",
+      "words": [
+        {
+          "t": "награждаю",
+          "lemma": "награждать",
+          "pos": "verb",
+          "stress": "награжда́ю",
+          "gloss": "reward",
+          "gram": "1st person singular present, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 39,
       "trans": "You will unload groceries the whole day!",
       "words": [
         {
@@ -1083,7 +1191,21 @@
       ]
     },
     {
-      "seg": 29,
+      "seg": 41,
+      "trans": "groceries",
+      "words": [
+        {
+          "t": "продукты!",
+          "lemma": "продукт",
+          "pos": "noun",
+          "stress": "проду́кты",
+          "gloss": "groceries",
+          "gram": "masculine plural accusative"
+        }
+      ]
+    },
+    {
+      "seg": 43,
       "trans": "Chef, but I thought I would be cooking.",
       "words": [
         {
@@ -1145,7 +1267,29 @@
       ]
     },
     {
-      "seg": 31,
+      "seg": 45,
+      "trans": "I / thought",
+      "words": [
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "думал,",
+          "lemma": "думать",
+          "pos": "verb",
+          "stress": "ду́мал",
+          "gloss": "thought",
+          "gram": "past, masculine singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 47,
       "trans": "You credited yourself with two non-existent abilities!",
       "words": [
         {
@@ -1199,7 +1343,29 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 49,
+      "trans": "credited / yourself (в себе = in one's right mind)",
+      "words": [
+        {
+          "t": "приписал",
+          "lemma": "приписать",
+          "pos": "verb",
+          "stress": "приписа́л",
+          "gloss": "credited",
+          "gram": "past masculine singular, perfective"
+        },
+        {
+          "t": "себе",
+          "lemma": "себя",
+          "pos": "pron",
+          "stress": "себе́",
+          "gloss": "yourself (в себе = in one's right mind)",
+          "gram": "reflexive pronoun, prepositional"
+        }
+      ]
+    },
+    {
+      "seg": 51,
       "trans": "The ability to think and the ability to cook!",
       "words": [
         {
@@ -1245,7 +1411,21 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 53,
+      "trans": "ability",
+      "words": [
+        {
+          "t": "Способность",
+          "lemma": "способность",
+          "pos": "noun",
+          "stress": "спосо́бность",
+          "gloss": "ability",
+          "gram": "feminine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 55,
       "trans": "I studied very well at the culinary college.",
       "words": [
         {
@@ -1307,7 +1487,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 57,
       "trans": "And here is a restaurant, not your college!",
       "words": [
         {
@@ -1369,7 +1549,29 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 59,
+      "trans": "and, but / here",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "здесь",
+          "lemma": "здесь",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 61,
       "trans": "Now go to work immediately, oguzok!",
       "words": [
         {
@@ -1423,7 +1625,21 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 63,
+      "trans": "Rump",
+      "words": [
+        {
+          "t": "огузок!",
+          "lemma": "огузок",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Rump",
+          "gram": "proper name, masculine nominative/vocative"
+        }
+      ]
+    },
+    {
+      "seg": 65,
       "trans": "Lavrov, you are two hours late!",
       "words": [
         {
@@ -1477,7 +1693,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 66,
       "trans": "He is late, meaning I won the bet!",
       "words": [
         {
@@ -1531,7 +1747,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 67,
       "trans": "Everyone who bet, pay up quickly!",
       "words": [
         {
@@ -1577,7 +1793,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 68,
       "trans": "Chef, forgive me, I got stuck in a traffic jam.",
       "words": [
         {
@@ -1631,7 +1847,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 69,
       "trans": "You lifted my mood this morning.",
       "words": [
         {
@@ -1685,7 +1901,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 70,
       "trans": "Therefore I reward you with an important task.",
       "words": [
         {
@@ -1739,7 +1955,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 71,
       "trans": "You will unload groceries the whole day!",
       "words": [
         {
@@ -1793,7 +2009,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 72,
       "trans": "Chef, but I thought I would be cooking.",
       "words": [
         {
@@ -1855,7 +2071,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 73,
       "trans": "You credited yourself with two non-existent abilities!",
       "words": [
         {
@@ -1909,7 +2125,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 74,
       "trans": "The ability to think and the ability to cook!",
       "words": [
         {
@@ -1955,7 +2171,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 75,
       "trans": "I studied very well at the culinary college.",
       "words": [
         {
@@ -2017,7 +2233,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 76,
       "trans": "And here is a restaurant, not your college!",
       "words": [
         {
@@ -2079,7 +2295,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 77,
       "trans": "Now go to work immediately, oguzok!",
       "words": [
         {
@@ -2133,7 +2349,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 79,
       "trans": "Bye!",
       "words": [
         {

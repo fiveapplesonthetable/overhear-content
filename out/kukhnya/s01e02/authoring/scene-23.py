@@ -14,7 +14,7 @@ INTRO = "Ainura, who cleans and washes up, catches Jindi holding the chef's famo
 OPENER = "Let's take it line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'Ainura has given the order: hide it, and say nothing. Notice how often she says "no one" and "nothing" in the same sentence.'
-CLOSING = ('ainura', 'Пока!')
+CLOSING = ("ainura", "Счастливо!")
 STORY = [
     ('ainura', 'Ой, Джинди, скорее спрячь этот нож!', 'Oh, Jindi, hide this knife quickly!', [(245, 'Джинди, спрячь нож')], ''),
     ('jindi', 'Зачем мне прятать этот нож?', 'Why should I hide this knife?', [], ''),
