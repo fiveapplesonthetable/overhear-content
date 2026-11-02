@@ -81,7 +81,7 @@ STORY = [('camille',
   'A1 dialogue preserves the familiar address confirmed by original audio.'),
  ('camille', 'Cécile de France? Ici?', 'Cécile de France? Here?', [], '')]
 WALK = [
-    (0, None, "'Are you Mathias Barneville's assistant?' Notice how it's built: you are, the assistant, of Mathias. French marks ownership with a separate word meaning 'of', rather than with the English possessive ending. Noémie answers at once."),
+    (0, None, "'Are you Mathias Barneville's assistant?' Notice how it's built: you are, the assistant, of Mathias. French marks ownership with a separate word meaning 'of', rather than with the English possessive ending. Noemie answers at once."),
     (1, 'Il est très sympa.', "'He's very nice.' The last word is a short, friendly way of saying 'nice' or 'likeable'. Hervé doesn't agree at all."),
     (2, None, "'Everyone thinks he's horrible.' The opening expression literally says 'all the world' and takes a singular action. The little word before 'finds' means 'him', so it refers back to Mathias."),
     (3, None, "'This is Accounts. They're lovely.' The first sentence names a department, while the plural subject in the next sentence refers to its staff. Hervé is describing the people, rather than the office."),
@@ -94,7 +94,7 @@ WALK = [
     (9, None, "'She says impresario, not agent.' A short negative can contrast two labels without repeating the whole sentence. Arlette prefers the older title for her work."),
     (10, None, "'And Andrea doesn't read?' The two negative words go on either side of 'reads'. Camille is surprised by the small number of scripts on Andrea's shelf."),
     (11, 'Tu plaisantes?', "'Are you kidding?' Herve uses the familiar address, just as Camille did at the desks. The short question challenges her guess about Andrea."),
-    (11, 'Andréa lit tout.', "'Andréa reads everything.' The same verb as before, now without the negative around it."),
+    (11, 'Andréa lit tout.', "'Andrea reads everything.' The same verb as before, now without the negative around it."),
     (12, None, "'She's scared of missing something.' French says 'she has fear' rather than using 'is scared'. A linking word then leads to the action she is afraid of, and the final pair means 'something'."),
     (13, 'Et voilà la salle de presse.', "'And here's the press room.' This is the cousin of the word we heard with the scripts, and it often means 'there you go'."),
     (13, 'On appelle ça la boutique.', "'We call it the shop.' Free gifts for the stars end up there. The first little word means 'we' or 'people' in everyday speech. And then the gossip turns to the star of the day."),

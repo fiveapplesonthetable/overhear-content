@@ -82,9 +82,9 @@ STORY = [('gabriel',
   [(617, "Attends. Au moins jusqu'à demain")],
   '')]
 WALK = [
-    (0, None, "'Andréa, I don't know what to do.' The action word for 'to know' is wrapped in the two-part negative, and then comes 'what to do'. A line you can use any time you're stuck."),
+    (0, None, "'Andrea, I don't know what to do.' The action word for 'to know' is wrapped in the two-part negative, and then comes 'what to do'. A line you can use any time you're stuck."),
     (1, None, "'Cecile has left. She wants to change agents.' After 'wants', the action 'change' stays in its plain form. The small word meaning 'of' then links it to 'agent'."),
-    (2, None, "'Can't you talk to her?' Notice the casual 'you': Andréa and Gabriel are colleagues and friends."),
+    (2, None, "'Can't you talk to her?' Notice the casual 'you': Andrea and Gabriel are colleagues and friends."),
     (3, None, "'Me? What can I say to her?' The little word for 'to her' comes just before 'say'. At the beginning, the separate form of 'me' makes Andrea's surprise clear."),
     (4, None, "'I don't know. You're the same age, aren't you?' French says 'you have the same age'. Here 'you' refers to Andrea and Cecile together; Gabriel is comparing two people."),
     (5, None, "'The same age?' The description 'same' comes between 'the' and 'age'. Andrea repeats just that group of words to challenge his comparison."),

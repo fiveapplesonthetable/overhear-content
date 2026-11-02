@@ -106,7 +106,7 @@ WALK = [
     (4, None, "'Can you come with me? I'm scared.' To be afraid, French says 'I have fear'."),
     (5, None, "'We'll see.' The action has a future form, but the short subject is the everyday word for 'we'. It makes a convenient answer when someone has not committed to yes."),
     (6, None, "'Thanks for the lift.' The preposition after 'thanks' introduces the thing being thanked for. Here the journey was a scooter ride, and they are standing outside the clinic."),
-    (7, 'Ne fais pas cette tête.', "'Don't make that face.' Cécile gives an order in the casual form, made negative."),
+    (7, 'Ne fais pas cette tête.', "'Don't make that face.' Cecile gives an order in the casual form, made negative."),
     (7, "J'ai pris ma décision.", "'I've made my decision.' Literally 'I have taken my decision'. French takes a decision where English makes one."),
     (8, None, "'You're right. Everybody does it.' Another idea with 'to have': in French you have reason, which means you're right. He is trying hard to sound supportive."),
     (9, None, "'I'll call you afterwards. Okay?' The present tense is perfectly normal for something that will happen soon."),
@@ -114,7 +114,7 @@ WALK = [
     (11, None, "'Hello. I have an appointment with Doctor Lubek.' In this expression, French says 'have appointment' without an article. The doctor's name follows the small word meaning 'with'."),
     (12, None, "'Gabriel? You're still here?' The small word before 'here' means 'still'. Cecile comes back outside and finds that Gabriel has waited with his scooter."),
     (13, None, "'I'm not doing it.' This short line makes Cecile's decision explicit. The object meaning 'it' goes before 'do', inside the two little negative words."),
-    (14, None, "'I knew it! You're a great actress.' The French word for 'great' comes before the noun here, and it is feminine to match the actress. Then Cécile asks him something important."),
+    (14, None, "'I knew it! You're a great actress.' The French word for 'great' comes before the noun here, and it is feminine to match the actress. Then Cecile asks him something important."),
     (15, None, "'Gabriel, my guardian angel, will you be my agent?' Cecile now chooses polite 'you' for a playful request. They have been speaking familiarly, but she treats him as an agent she is asking to hire."),
     (16, None, "'Yes, madam!' Gabriel answers in the same polite tone. The title for a woman makes his enthusiastic yes sound like a formal acceptance."),
 ]

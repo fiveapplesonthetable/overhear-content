@@ -11,7 +11,7 @@ LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'samuel': 'Samuel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = ('The agency gathers for one last meeting before Samuel goes on holiday. Andrea has good news about a film, '
- "but Gabriel still has to explain what happened to Cecile's offer. Hear how the mood changes in the French "
+ "but Gabriel still has to explain what happened to Cécile's offer. Hear how the mood changes in the French "
  'conversation.')
 OPENER = "Let's go back through it slowly. Samuel's agents have just been teasing him about his trip to Brazil, and he wants to make one thing clear."
 TRANSITION = "Now let's listen to the whole meeting again."
@@ -51,7 +51,7 @@ STORY = [('samuel',
  ('samuel', 'Autre chose? Gabriel?', 'Anything else? Gabriel?', [(193, 'Autre chose ? Gabriel ?')], ''),
  ('samuel',
   'Cécile de France et Tarantino?',
-  'Cécile de France and Tarantino?',
+  'Cecile de France and Tarantino?',
   [(194, 'Cécile de France et Tarantino ?')],
   ''),
  ('samuel', 'Ça ne se passe pas bien?', "Isn't it going well?", [(195, 'Ça ne se passe pas bien ?')], ''),
@@ -61,7 +61,7 @@ STORY = [('samuel',
   "It's not happening at all.",
   [(197, 'Ça ne se passe pas du tout')],
   ''),
- ('gabriel', 'Ils ne veulent pas Cécile.', "They don't want Cécile.", [(202, 'veulent pas')], ''),
+ ('gabriel', 'Ils ne veulent pas Cécile.', "They don't want Cecile.", [(202, 'veulent pas')], ''),
  ('gabriel',
   'Elle est trop vieille pour le rôle.',
   "She's too old for the part.",
@@ -107,7 +107,7 @@ WALK = [(0,
   "goes with the word for 'thing'."),
  (8,
   None,
-  "'Cécile de France and Tarantino?' Just two names and a rising voice make a question. Gabriel stays quiet, "
+  "'Cecile de France and Tarantino?' Just two names and a rising voice make a question. Gabriel stays quiet, "
   'so Samuel guesses.'),
  (9,
   None,

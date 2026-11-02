@@ -4,7 +4,7 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 23
-TITLE = 'Pas de Cécile, pas de Paris  (No Cécile, No Paris)'
+TITLE = 'Pas de Cecile, pas de Paris  (No Cecile, No Paris)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
 LABELS = {'mathias': 'Mathias', 'miranda': 'Miranda'}
@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = 'Mathias is still negotiating with Miranda, the film producer who turned Cecile down. He asks about permits to shoot in Paris and sees a way to reopen the casting decision. Listen to the French conversation first; the main idea matters more than every word.'
 OPENER = "Let's take it slowly. Mathias opens with a question about filming in Paris. The final action word means shooting a film, rather than turning an object."
 TRANSITION = "Now let's listen to the whole dialogue again."
-OUTRO = "That's the end of this scene. When you watch it, listen for the short, punchy line about Cécile and Paris; you'll recognise it straight away. See you next time!"
+OUTRO = "That's the end of this scene. When you watch it, listen for the short, punchy line about Cecile and Paris; you'll recognise it straight away. See you next time!"
 CLOSING = ('miranda', 'Au revoir, Mathias!')
 STORY = [('mathias',
   'Vous avez les autorisations pour tourner à Paris?',
@@ -87,12 +87,12 @@ WALK = [
     (5, None, "'If you need help, just ask.' Notice the polite form of 'you' all through this scene: Mathias and Miranda are business partners, so they stay formal. The last word is a polite command, 'ask'."),
     (6, 'Je connais la ministre de la Culture.', "'I know the Minister of Culture.' The action word means to know a person. And the minister is a woman, so she gets the feminine 'the'."),
     (6, "C'est une jeune femme brillante.", "'She's a brilliant young woman.' In this phrase 'young' goes before the noun and 'brilliant' after it. Adjective position is something to learn with the particular description, rather than from its length."),
-    (7, None, "'And she loves Cécile de France!' The action word is stronger than just 'like': it means 'adore'. Miranda sees the problem coming."),
-    (8, None, "'But Cécile isn't in the project any more.' Here is our second language point. The negative in French wraps around the action word, and when the second half is this word, it means 'no longer', 'not any more'."),
+    (7, None, "'And she loves Cecile de France!' The action word is stronger than just 'like': it means 'adore'. Miranda sees the problem coming."),
+    (8, None, "'But Cecile isn't in the project any more.' Here is our second language point. The negative in French wraps around the action word, and when the second half is this word, it means 'no longer', 'not any more'."),
     (9, None, "'I know. She's going to be very sad.' To talk about the near future, take the verb 'to go' and add an infinitive, exactly like 'going to be' in English."),
     (10, None, "'So shooting in Paris might be impossible.' The small hyphenated expression means 'perhaps'. Mathias uses uncertainty to make his threat sound indirect."),
     (11, None, "'She doesn't need to know.' The negative wraps around the verb again, this time with the ordinary 'not'. Mathias doesn't let go."),
-    (12, 'Elles sont très proches.', "'They're very close.' The pronoun here is the plural for women, since both are women: the minister and Cécile."),
+    (12, 'Elles sont très proches.', "'They're very close.' The pronoun here is the plural for women, since both are women: the minister and Cecile."),
     (12, "C'est difficile de cacher la vérité.", "'It's hard to hide the truth.' After the description 'difficult', a short linking word introduces the action. Notice that 'truth' has a definite article, as in English here."),
     (13, None, "'You're bluffing.' The same word as in poker, with the polite form of 'you'. And now the line of the scene."),
     (14, 'Pas du tout.', "'Not at all.' This three-word reply strengthens the refusal. You can use it on its own when denying an accusation, as Mathias does here."),

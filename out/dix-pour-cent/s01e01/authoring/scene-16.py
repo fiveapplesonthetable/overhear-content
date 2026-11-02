@@ -16,7 +16,7 @@ INTRO = ('Gabriel has gone to lunch with Sofia, who hopes he will take an intere
  'conversation before Cecile arrives at the table.')
 OPENER = "Let's go back through it. Sofia takes a deep breath and starts with a confession about her day job."
 TRANSITION = "Now let's listen to the whole dialogue again."
-OUTRO = "Well done: you just sat through Sofia's first pitch in French. Listen for 'I'm an actress' when you watch, and for the moment Cécile walks in. See you next time!"
+OUTRO = "Well done: you just sat through Sofia's first pitch in French. Listen for 'I'm an actress' when you watch, and for the moment Cecile walks in. See you next time!"
 CLOSING = ('sofia', 'Au revoir!')
 STORY = [('sofia',
   'Donc, en fait, je ne suis pas vraiment réceptionniste.',

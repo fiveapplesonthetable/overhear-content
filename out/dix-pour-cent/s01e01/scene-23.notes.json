@@ -1162,7 +1162,7 @@
     },
     {
       "seg": 29,
-      "trans": "I know the Minister of Culture.",
+      "trans": "I / know / the / minister / of ('s) / the / culture, the arts",
       "words": [
         {
           "t": "Je",
@@ -1224,7 +1224,7 @@
     },
     {
       "seg": 31,
-      "trans": "She's a brilliant young woman.",
+      "trans": "it is, that is / an (one) / young / woman / brilliant",
       "words": [
         {
           "t": "C'est",
@@ -1572,7 +1572,7 @@
     },
     {
       "seg": 43,
-      "trans": "They're very close.",
+      "trans": "they / are / very / close",
       "words": [
         {
           "t": "Elles",
@@ -1610,7 +1610,7 @@
     },
     {
       "seg": 45,
-      "trans": "It's hard to hide the truth.",
+      "trans": "it is, that is / tough, difficult / of ('s) / hide / the / truth",
       "words": [
         {
           "t": "C'est",
@@ -1686,7 +1686,7 @@
     },
     {
       "seg": 49,
-      "trans": "Not at all.",
+      "trans": "not / at / all",
       "words": [
         {
           "t": "Pas",
@@ -1716,7 +1716,7 @@
     },
     {
       "seg": 51,
-      "trans": "No Cecile, no Paris.",
+      "trans": "not / of ('s) / Cécile (de France) / not / of ('s) / Paris",
       "words": [
         {
           "t": "Pas",
@@ -1724,7 +1724,11 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the verb"
+          "gram": "negation, second half, after the verb",
+          "span": [
+            0,
+            3
+          ]
         },
         {
           "t": "de",
@@ -1732,7 +1736,11 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gram": "preposition, shows possession",
+          "span": [
+            4,
+            6
+          ]
         },
         {
           "t": "Cécile,",
@@ -1740,7 +1748,11 @@
           "pos": "name",
           "stress": null,
           "gloss": "Cécile (de France)",
-          "gram": "first name"
+          "gram": "first name",
+          "span": [
+            7,
+            14
+          ]
         },
         {
           "t": "pas",
@@ -1748,7 +1760,11 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the verb"
+          "gram": "negation, second half, after the verb",
+          "span": [
+            15,
+            18
+          ]
         },
         {
           "t": "de",
@@ -1756,7 +1772,11 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of ('s)",
-          "gram": "preposition, shows possession"
+          "gram": "preposition, shows possession",
+          "span": [
+            19,
+            21
+          ]
         },
         {
           "t": "Paris.",
@@ -1764,7 +1784,11 @@
           "pos": "name",
           "stress": null,
           "gloss": "Paris",
-          "gram": "city"
+          "gram": "city",
+          "span": [
+            22,
+            28
+          ]
         }
       ]
     },

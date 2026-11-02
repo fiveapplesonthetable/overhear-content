@@ -874,7 +874,7 @@
     },
     {
       "seg": 19,
-      "trans": "Where are you?",
+      "trans": "you (familiar) / are / where",
       "words": [
         {
           "t": "Tu",
@@ -904,7 +904,7 @@
     },
     {
       "seg": 21,
-      "trans": "I'm at my horse-riding lesson.",
+      "trans": "I / am / at / my / lesson / riding (lesson)",
       "words": [
         {
           "t": "Je",
@@ -958,7 +958,7 @@
     },
     {
       "seg": 23,
-      "trans": "We're at the hotel.",
+      "trans": "we / are / at the / the Westin (a Paris hotel)",
       "words": [
         {
           "t": "On",
@@ -996,7 +996,7 @@
     },
     {
       "seg": 25,
-      "trans": "Everyone is here.",
+      "trans": "all / the / world / are / here",
       "words": [
         {
           "t": "Tout",
@@ -1250,7 +1250,7 @@
     },
     {
       "seg": 35,
-      "trans": "I've almost got it.",
+      "trans": "I / am / almost / at the / point",
       "words": [
         {
           "t": "Je",
@@ -1296,7 +1296,7 @@
     },
     {
       "seg": 37,
-      "trans": "I'll call you back.",
+      "trans": "I / you / call back",
       "words": [
         {
           "t": "Je",
@@ -1616,7 +1616,7 @@
     },
     {
       "seg": 53,
-      "trans": "Tarantino won't cast Cecile.",
+      "trans": "Tarantino (the director) / not / will cast / not / Cécile (de France)",
       "words": [
         {
           "t": "Tarantino",
@@ -1624,7 +1624,11 @@
           "pos": "name",
           "stress": null,
           "gloss": "Tarantino (the director)",
-          "gram": "surname"
+          "gram": "surname",
+          "span": [
+            0,
+            9
+          ]
         },
         {
           "t": "ne",
@@ -1632,7 +1636,11 @@
           "pos": "part",
           "stress": "nə",
           "gloss": "not",
-          "gram": "negation, first half, before the verb"
+          "gram": "negation, first half, before the verb",
+          "span": [
+            10,
+            12
+          ]
         },
         {
           "t": "prendra",
@@ -1640,7 +1648,11 @@
           "pos": "verb",
           "stress": "pʁɑ̃dʁa",
           "gloss": "will cast",
-          "gram": "future, 3rd person singular"
+          "gram": "future, 3rd person singular",
+          "span": [
+            13,
+            20
+          ]
         },
         {
           "t": "pas",
@@ -1648,7 +1660,11 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the verb"
+          "gram": "negation, second half, after the verb",
+          "span": [
+            21,
+            24
+          ]
         },
         {
           "t": "Cécile.",
@@ -1656,13 +1672,17 @@
           "pos": "name",
           "stress": null,
           "gloss": "Cécile (de France)",
-          "gram": "first name"
+          "gram": "first name",
+          "span": [
+            25,
+            32
+          ]
         }
       ]
     },
     {
       "seg": 55,
-      "trans": "A problem with her age.",
+      "trans": "problem / of age, with age",
       "words": [
         {
           "t": "Problème",

@@ -936,6 +936,48 @@
     },
     {
       "seg": 17,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Работать",
+          "lemma": "работать",
+          "pos": "verb",
+          "stress": "рабо́тать",
+          "gloss": "to work",
+          "gram": "infinitive, imperfective",
+          "span": [
+            0,
+            8
+          ]
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "particle; negates what follows",
+          "span": [
+            9,
+            11
+          ]
+        },
+        {
+          "t": "будет",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́дет",
+          "gloss": "will",
+          "gram": "future, 3rd person singular, imperfective; будет + infinitive = future tense",
+          "span": [
+            12,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 19,
       "trans": "Just a second, since when do you give orders here?",
       "words": [
         {
@@ -1005,7 +1047,79 @@
       ]
     },
     {
-      "seg": 19,
+      "seg": 21,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Секундочку",
+          "lemma": "секундочка",
+          "pos": "noun",
+          "gloss": "just a second",
+          "gram": "accusative singular, feminine; short for 'wait a second'",
+          "span": [
+            0,
+            10
+          ],
+          "stress": "секу́ндочку"
+        }
+      ]
+    },
+    {
+      "seg": 23,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "с",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "since; с каких пор = since when",
+          "gram": "preposition + genitive",
+          "span": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "каких",
+          "lemma": "какой",
+          "pos": "det",
+          "stress": "каки́х",
+          "gloss": "what kind of",
+          "gram": "genitive plural",
+          "span": [
+            2,
+            7
+          ]
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "part",
+          "stress": "э́то",
+          "gloss": "(adds emphasis)",
+          "gram": "particle; adds emphasis to the question",
+          "span": [
+            8,
+            11
+          ]
+        },
+        {
+          "t": "пор",
+          "lemma": "пора",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "time; с каких пор = since when",
+          "gram": "genitive plural, feminine",
+          "span": [
+            12,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 25,
       "trans": "I am the restaurant's art director and I know our standards!",
       "words": [
         {
@@ -1067,7 +1181,55 @@
       ]
     },
     {
-      "seg": 21,
+      "seg": 27,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Знаю",
+          "lemma": "знать",
+          "pos": "verb",
+          "gloss": "know",
+          "gram": "present, 1st person singular, imperfective",
+          "span": [
+            0,
+            4
+          ],
+          "stress": "зна́ю"
+        }
+      ]
+    },
+    {
+      "seg": 31,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Наши",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́ши",
+          "gloss": "our",
+          "gram": "accusative plural",
+          "span": [
+            0,
+            4
+          ]
+        },
+        {
+          "t": "стандарты",
+          "lemma": "стандарт",
+          "pos": "noun",
+          "stress": "станда́рты",
+          "gloss": "standards",
+          "gram": "accusative plural, masculine",
+          "span": [
+            5,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 33,
       "trans": "Senya, say loudly, who is the boss in this kitchen?",
       "words": [
         {
@@ -1137,7 +1299,109 @@
       ]
     },
     {
-      "seg": 23,
+      "seg": 35,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Скажи",
+          "lemma": "сказать",
+          "pos": "verb",
+          "gloss": "say",
+          "gram": "imperative, 2nd person singular, perfective",
+          "span": [
+            0,
+            5
+          ],
+          "stress": "скажи́"
+        }
+      ]
+    },
+    {
+      "seg": 37,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Главный",
+          "lemma": "главный",
+          "pos": "adj",
+          "gloss": "in charge, the boss",
+          "gram": "nominative singular, masculine; used as a noun: the one in charge",
+          "span": [
+            0,
+            7
+          ],
+          "stress": "гла́вный"
+        }
+      ]
+    },
+    {
+      "seg": 39,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "кто",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "nominative; question word",
+          "span": [
+            0,
+            3
+          ]
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in; на кухне = in the kitchen",
+          "gram": "preposition + prepositional",
+          "span": [
+            4,
+            6
+          ]
+        },
+        {
+          "t": "этой",
+          "lemma": "этот",
+          "pos": "det",
+          "stress": "э́той",
+          "gloss": "this",
+          "gram": "prepositional singular, feminine",
+          "span": [
+            7,
+            11
+          ]
+        },
+        {
+          "t": "кухне",
+          "lemma": "кухня",
+          "pos": "noun",
+          "stress": "ку́хне",
+          "gloss": "kitchen",
+          "gram": "prepositional singular, feminine",
+          "span": [
+            12,
+            17
+          ]
+        },
+        {
+          "t": "главный",
+          "lemma": "главный",
+          "pos": "adj",
+          "stress": "гла́вный",
+          "gloss": "in charge, the boss",
+          "gram": "nominative singular, masculine; used as a noun: the one in charge",
+          "span": [
+            18,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 41,
       "trans": "All the cooks know perfectly well that I am the boss here.",
       "words": [
         {
@@ -1207,7 +1471,61 @@
       ]
     },
     {
-      "seg": 25,
+      "seg": 43,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Повара",
+          "lemma": "повар",
+          "pos": "noun",
+          "gloss": "cooks",
+          "gram": "nominative plural, masculine",
+          "span": [
+            0,
+            6
+          ],
+          "stress": "повара́"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "повар",
+          "lemma": "повар",
+          "pos": "noun",
+          "gloss": "cooks",
+          "gram": "nominative plural, masculine",
+          "span": [
+            0,
+            5
+          ],
+          "stress": "повара́"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Знают",
+          "lemma": "знать",
+          "pos": "verb",
+          "gloss": "(they) know",
+          "gram": "present, 3rd person plural, imperfective",
+          "span": [
+            0,
+            5
+          ],
+          "stress": "зна́ют"
+        }
+      ]
+    },
+    {
+      "seg": 49,
       "trans": "You are hiring the first random person off the street!",
       "words": [
         {
@@ -1269,7 +1587,73 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 51,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "встречного",
+          "lemma": "встречный",
+          "pos": "adj",
+          "gloss": "random (anyone you meet)",
+          "gram": "accusative singular, masculine, animate",
+          "span": [
+            0,
+            10
+          ],
+          "stress": "встре́чного"
+        }
+      ]
+    },
+    {
+      "seg": 53,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Нанимаете",
+          "lemma": "нанимать",
+          "pos": "verb",
+          "gloss": "are hiring",
+          "gram": "present, 2nd person plural or polite, imperfective",
+          "span": [
+            0,
+            9
+          ],
+          "stress": "нанима́ете"
+        }
+      ]
+    },
+    {
+      "seg": 55,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "С",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from, off",
+          "gram": "preposition + genitive",
+          "span": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "улицы",
+          "lemma": "улица",
+          "pos": "noun",
+          "stress": "у́лицы",
+          "gloss": "street",
+          "gram": "genitive singular, feminine",
+          "span": [
+            2,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 57,
       "trans": "I alone decide who works in my kitchen!",
       "words": [
         {
@@ -1339,7 +1723,97 @@
       ]
     },
     {
-      "seg": 29,
+      "seg": 59,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Один",
+          "lemma": "один",
+          "pos": "num",
+          "gloss": "alone",
+          "gram": "nominative, masculine; один here means alone",
+          "span": [
+            0,
+            4
+          ],
+          "stress": "оди́н"
+        }
+      ]
+    },
+    {
+      "seg": 61,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Кому",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": "кому́",
+          "gloss": "who (to whom)",
+          "gram": "dative; кому + infinitive = who is to do it",
+          "span": [
+            0,
+            4
+          ]
+        },
+        {
+          "t": "работать",
+          "lemma": "работать",
+          "pos": "verb",
+          "stress": "рабо́тать",
+          "gloss": "to work",
+          "gram": "infinitive, imperfective",
+          "span": [
+            5,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 63,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "На",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in; на кухне = in the kitchen",
+          "gram": "preposition + prepositional",
+          "span": [
+            0,
+            2
+          ]
+        },
+        {
+          "t": "моей",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": "мое́й",
+          "gloss": "my",
+          "gram": "prepositional singular, feminine",
+          "span": [
+            3,
+            7
+          ]
+        },
+        {
+          "t": "кухне",
+          "lemma": "кухня",
+          "pos": "noun",
+          "stress": "ку́хне",
+          "gloss": "kitchen",
+          "gram": "prepositional singular, feminine",
+          "span": [
+            8,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 65,
       "trans": "You will regret this strange and foolish decision.",
       "words": [
         {
@@ -1409,7 +1883,43 @@
       ]
     },
     {
-      "seg": 31,
+      "seg": 67,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Пожалеете",
+          "lemma": "пожалеть",
+          "pos": "verb",
+          "gloss": "will regret",
+          "gram": "future, 2nd person plural or polite, perfective; пожалеть о = regret",
+          "span": [
+            0,
+            9
+          ],
+          "stress": "пожале́ете"
+        }
+      ]
+    },
+    {
+      "seg": 69,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "решении",
+          "lemma": "решение",
+          "pos": "noun",
+          "gloss": "decision",
+          "gram": "prepositional singular, neuter",
+          "span": [
+            0,
+            7
+          ],
+          "stress": "реше́нии"
+        }
+      ]
+    },
+    {
+      "seg": 71,
       "trans": "Oguzok, you are officially hired onto our restaurant staff!",
       "words": [
         {
@@ -1479,7 +1989,73 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 73,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Огузок",
+          "lemma": "огузок",
+          "pos": "name",
+          "gloss": "Runt (nickname)",
+          "gram": "nickname, used as address",
+          "span": [
+            0,
+            6
+          ],
+          "stress": null
+        }
+      ]
+    },
+    {
+      "seg": 75,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Штат",
+          "lemma": "штат",
+          "pos": "noun",
+          "gloss": "staff",
+          "gram": "accusative singular, masculine",
+          "span": [
+            0,
+            4
+          ],
+          "stress": null
+        }
+      ]
+    },
+    {
+      "seg": 77,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "onto; принять в штат = hire",
+          "gram": "preposition + accusative",
+          "span": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "штат",
+          "lemma": "штат",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "staff",
+          "gram": "accusative singular, masculine",
+          "span": [
+            2,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 79,
       "trans": "You will work on a two-on, two-off schedule.",
       "words": [
         {
@@ -1541,7 +2117,79 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 81,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Два",
+          "lemma": "два",
+          "pos": "num",
+          "stress": null,
+          "gloss": "two",
+          "gram": "nominative; два через два = two days on, two days off",
+          "span": [
+            0,
+            3
+          ]
+        },
+        {
+          "t": "через",
+          "lemma": "через",
+          "pos": "prep",
+          "stress": "че́рез",
+          "gloss": "after",
+          "gram": "preposition + accusative",
+          "span": [
+            4,
+            9
+          ]
+        },
+        {
+          "t": "два",
+          "lemma": "два",
+          "pos": "num",
+          "stress": null,
+          "gloss": "two",
+          "gram": "accusative",
+          "span": [
+            10,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 83,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Будешь",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́дешь",
+          "gloss": "will",
+          "gram": "future, 2nd person singular, imperfective; будешь + infinitive = future tense",
+          "span": [
+            0,
+            6
+          ]
+        },
+        {
+          "t": "работать",
+          "lemma": "работать",
+          "pos": "verb",
+          "stress": "рабо́тать",
+          "gloss": "to work",
+          "gram": "infinitive, imperfective",
+          "span": [
+            7,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 85,
       "trans": "This is simply outrageous and completely unacceptable behavior!",
       "words": [
         {
@@ -1603,7 +2251,79 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 87,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Недопустимое",
+          "lemma": "недопустимый",
+          "pos": "adj",
+          "gloss": "unacceptable",
+          "gram": "nominative singular, neuter",
+          "span": [
+            0,
+            12
+          ],
+          "stress": "недопусти́мое"
+        }
+      ]
+    },
+    {
+      "seg": 89,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "gloss": "not",
+          "gram": "particle; negates what follows",
+          "span": [
+            0,
+            2
+          ],
+          "stress": null
+        }
+      ]
+    },
+    {
+      "seg": 91,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "допустимое",
+          "lemma": "недопустимый",
+          "pos": "adj",
+          "gloss": "unacceptable",
+          "gram": "nominative singular, neuter",
+          "span": [
+            0,
+            10
+          ],
+          "stress": "недопусти́мое"
+        }
+      ]
+    },
+    {
+      "seg": 93,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "поведение",
+          "lemma": "поведение",
+          "pos": "noun",
+          "gloss": "behaviour",
+          "gram": "nominative singular, neuter",
+          "span": [
+            0,
+            9
+          ],
+          "stress": "поведе́ние"
+        }
+      ]
+    },
+    {
+      "seg": 95,
       "trans": "And you can go command your waiters.",
       "words": [
         {
@@ -1665,7 +2385,85 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 97,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Можете",
+          "lemma": "мочь",
+          "pos": "verb",
+          "stress": "мо́жете",
+          "gloss": "can, may",
+          "gram": "present, 2nd person plural or polite, imperfective",
+          "span": [
+            0,
+            6
+          ]
+        },
+        {
+          "t": "идти",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "идти́",
+          "gloss": "to go",
+          "gram": "infinitive, imperfective",
+          "span": [
+            7,
+            11
+          ]
+        },
+        {
+          "t": "командовать",
+          "lemma": "командовать",
+          "pos": "verb",
+          "stress": "кома́ндовать",
+          "gloss": "to boss around",
+          "gram": "infinitive, imperfective; командовать + instrumental",
+          "span": [
+            12,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "seg": 99,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Официантами",
+          "lemma": "официант",
+          "pos": "noun",
+          "gloss": "waiters",
+          "gram": "instrumental plural, masculine",
+          "span": [
+            0,
+            11
+          ],
+          "stress": "официа́нтами"
+        }
+      ]
+    },
+    {
+      "seg": 101,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "командовать",
+          "lemma": "командовать",
+          "pos": "verb",
+          "gloss": "to boss around",
+          "gram": "infinitive, imperfective; командовать + instrumental",
+          "span": [
+            0,
+            11
+          ],
+          "stress": "кома́ндовать"
+        }
+      ]
+    },
+    {
+      "seg": 103,
       "trans": "Create a wonderful atmosphere in the hall of our establishment!",
       "words": [
         {
@@ -1727,7 +2525,61 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 105,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "Создавайте",
+          "lemma": "создавать",
+          "pos": "verb",
+          "gloss": "create",
+          "gram": "imperative, 2nd person plural or polite, imperfective",
+          "span": [
+            0,
+            10
+          ],
+          "stress": "создава́йте"
+        }
+      ]
+    },
+    {
+      "seg": 107,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "прекрасную",
+          "lemma": "прекрасный",
+          "pos": "adj",
+          "gloss": "wonderful",
+          "gram": "accusative singular, feminine",
+          "span": [
+            0,
+            10
+          ],
+          "stress": "прекра́сную"
+        }
+      ]
+    },
+    {
+      "seg": 109,
+      "trans": "Inline word callout.",
+      "words": [
+        {
+          "t": "прекрасную",
+          "lemma": "прекрасный",
+          "pos": "adj",
+          "gloss": "wonderful",
+          "gram": "accusative singular, feminine",
+          "span": [
+            0,
+            10
+          ],
+          "stress": "прекра́сную"
+        }
+      ]
+    },
+    {
+      "seg": 111,
       "trans": "Viktor Petrovich, this guy will not work here!",
       "words": [
         {
@@ -1797,7 +2649,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 112,
       "trans": "Just a second, since when do you give orders here?",
       "words": [
         {
@@ -1867,7 +2719,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 113,
       "trans": "I am the restaurant's art director and I know our standards!",
       "words": [
         {
@@ -1929,7 +2781,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 114,
       "trans": "Senya, say loudly, who is the boss in this kitchen?",
       "words": [
         {
@@ -1999,7 +2851,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 115,
       "trans": "All the cooks know perfectly well that I am the boss here.",
       "words": [
         {
@@ -2069,7 +2921,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 116,
       "trans": "You are hiring the first random person off the street!",
       "words": [
         {
@@ -2131,7 +2983,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 117,
       "trans": "I alone decide who works in my kitchen!",
       "words": [
         {
@@ -2201,7 +3053,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 118,
       "trans": "You will regret this strange and foolish decision.",
       "words": [
         {
@@ -2271,7 +3123,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 119,
       "trans": "Oguzok, you are officially hired onto our restaurant staff!",
       "words": [
         {
@@ -2341,7 +3193,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 120,
       "trans": "You will work on a two-on, two-off schedule.",
       "words": [
         {
@@ -2403,7 +3255,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 121,
       "trans": "This is simply outrageous and completely unacceptable behavior!",
       "words": [
         {
@@ -2465,7 +3317,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 122,
       "trans": "And you can go command your waiters.",
       "words": [
         {
@@ -2527,7 +3379,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 123,
       "trans": "Create a wonderful atmosphere in the hall of our establishment!",
       "words": [
         {
@@ -2589,7 +3441,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 125,
       "trans": "Bye!",
       "words": [
         {
