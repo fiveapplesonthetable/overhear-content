@@ -14,7 +14,7 @@ INTRO = "A different story now. Max, the young cook, and Vika, the restaurant's 
 OPENER = "Let's go through the whispering. Vika is furious, and Max is improvising as fast as he can."
 TRANSITION = "Now the whole argument in one go."
 OUTRO = "Max says \"podygray mne\", play along with me, and Vika says \"ty s uma soshyol\", are you out of your mind. Between them, that's most of an emergency. See you next time."
-CLOSING = ('max', 'Пока!')
+CLOSING = ('max', 'Пока')
 STORY = [
     ('vika', 'Макс, зачем ты соврал про нашу будущую свадьбу?', 'Max, why did you lie about our future wedding?', [(226, 'Мы с Викой как раз женимся через месяц')], ''),
     ('max', 'Она отдаст эту собаку только семейной паре.', 'She will give this dog only to a married couple.', [(224, 'только семейной паре')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Зато этот милый пёс будет жить у нас.', 'At least this sweet dog will live with us.', [(232, 'забрать собаку')], ''),
 ]
 WALK = [
-    (0, None, "'Max, why did you lie about our future wedding?' Vika's \"sovral\" means 'you lied', once and for good; the everyday 'to lie' is \"vrat\". After \"pro\", about, \"svadba\", wedding, shifts to \"nashu budushchuyu svadbu\"."),
-    (1, None, "'She will give this dog only to a married couple.' Russian says \"semeynaya para\", 'a family couple', for a married one. Here it is \"semeynoy pare\", since the couple is who the dog goes to."),
-    (2, None, "'I do not know how to lie so foolishly to people.' For skills, Russians say \"umeyu\", I know how to: \"ya umeyu plavat\" is 'I can swim'. You lie to someone, so \"lyudi\", people, becomes \"lyudyam\"."),
-    (3, None, "'You yourself desperately wanted to take this puppy!' Max says \"sama\", yourself, because he is talking to a woman; to a man it would be \"sam\". In \"bezumno\", madly, you can hear \"bez\", without, and \"um\", mind."),
-    (4, None, "'But you and I are not even dating!' Russian puts 'you and I' as \"my s toboy\", literally 'we with you'. For dating, \"vstrechaemsya\" literally says 'we meet each other', from \"vstrecha\", a meeting."),
-    (5, None, "'Play along with me a little while she pours tea.' Max's \"podygray\" is \"pod\", under, plus \"igray\", play: in music it means to accompany someone. And \"poka\" here is 'while', though you also know it as 'bye'."),
-    (6, None, "'She will immediately realize that we are just coworkers.' Vika's \"poymyot\" means 'she'll get it', in the future, while \"ponimaet\" would be 'she understands' right now. And \"kollegi\" is English 'colleagues'."),
-    (7, None, "'Then quickly hug me right now.' Max's \"obnimi\", hug me, is an order to someone he calls \"ty\". The Russian 'right now' is \"pryamo seychas\", literally 'straight now'."),
-    (8, None, "'Are you out of your mind, stop shouting immediately!' Vika's \"ty s uma soshyol\" translates word for word as 'you came down off your mind', with \"s\" meaning 'off'. After \"prekrati\", stop, comes plain \"krichat\", to shout."),
-    (9, None, "'Smile, the owner is already coming back here.' The -sya on \"ulybaysya\", smile, is part of the word itself. And \"syuda\" is 'to here', for movement, while \"zdes\" is 'here' for where something is."),
-    (10, None, "'I will kill you after this strange meeting.' The threat \"ubyu\", I'll kill, already means the future without any helper. Because \"posle\", after, wants the 'of' shape, \"vstrecha\" becomes \"etoy strannoy vstrechi\"."),
-    (11, None, "'At least this sweet dog will live with us.' Max's \"zato\" is 'but on the plus side', a word Russians use to turn a complaint around. The male dog is \"pyos\", and \"u nas\" is 'at our place'."),
+    (0, None, ["'Max, why did you lie about our future wedding?' The confused woman asks why he ", ('vika', 'соврал'), ' or lied about their future wedding.']),
+    (1, None, ["'She will give this dog only to a married couple.' The young cook points out that ", ('max', 'семейной'), ' describes the married couple who can get the dog.']),
+    (2, None, ["'I do not know how to lie so foolishly to people.' She complains that she does not ", ('vika', 'умею'), ' or know how to lie so foolishly.']),
+    (3, None, ["'You yourself desperately wanted to take this puppy!' He reminds her of wanting the ", ('max', 'щенка'), ' or puppy so desperately herself.']),
+    (4, None, ["'But you and I are not even dating!' The angry art director protests that ", ('vika', 'встречаемся'), ' means they are dating which they are not.']),
+    (5, None, ["'Play along with me a little while she pours tea.' Desperate for help he asks her to ", ('max', 'Подыграй'), ' or play along while tea is poured.']),
+    (6, None, ["'She will immediately realize that we are just coworkers.' It is obvious to her that ", ('vika', 'коллеги'), ' simply shows they are just ordinary coworkers.']),
+    (7, None, ["'Then quickly hug me right now.' To fix this quickly he says ", ('max', 'обними'), ' to tell her to hug him right now.']),
+    (8, None, ["'Are you out of your mind, stop shouting immediately!' Out of her mind with frustration ", ('vika', 'прекрати'), ' is her way to say stop shouting.']),
+    (9, None, ["'Smile, the owner is already coming back here.' Since the owner is walking back ", ('max', 'обратно'), ' he tells his colleague to keep smiling.']),
+    (10, None, ["'I will kill you after this strange meeting.' After this strange meeting is over ", ('vika', 'убью'), ' reveals her plan to kill him for this.']),
+    (11, None, ["'At least this sweet dog will live with us.' At least there is a positive ", ('max', 'Зато'), ' because the sweet dog will live with them.']),
 ]
