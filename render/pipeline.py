@@ -205,8 +205,9 @@ def run_clip_group(args, settings, sids, log=log):
     # accent the sentences first, on the CPU, so the GPU reservation below is not held while RuAccent starts
     clips.warm_ruaccent(loaded, settings, RuAccent(settings["stress"]["ruaccentPython"], Path(args.store) / "cache" / "ruaccent.json"))
     totals = {"passed": 0, "failed": 0}
+    clip_venv = config.VENV_AR if (config.ar_engine(settings) and any(sc.lang == "ar" for sc in loaded)) else config.VENV_QWEN
     for attempt in range(cfg["retakes"] + 1):
-        cmd = [config.GPURUN, str(cfg["gpu"]["ttsMiB"]), f"{config.VENV_QWEN}/bin/python", "-I", str(HERE / "stage.py"), "clips",
+        cmd = [config.GPURUN, str(cfg["gpu"]["ttsMiB"]), f"{clip_venv}/bin/python", "-I", str(HERE / "stage.py"), "clips",
                "--scenes", scenes, "--attempt", str(attempt), "--content", str(args.content), "--store", str(args.store)]
         if args.settings:
             cmd += ["--settings", args.settings]
@@ -245,7 +246,7 @@ def run_forms(args, settings, voices, store, scenes, limit=0, log=log):
         return {"passed": 0, "failed": 0, "pending": 0, "ambiguous": 0, "resolved_by_dictionary": 0}
     lock = open(Path(args.store) / "forms.lock", "w")      # one forms run at a time, whoever started it
     try:
-        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        fcntl.flock(lock, fcntl.LOCK_EX | (0 if (args.episode or args.forms_only) else fcntl.LOCK_NB))
     except BlockingIOError:
         log("forms skipped: forms run active")
         return None
@@ -278,9 +279,10 @@ def run_forms(args, settings, voices, store, scenes, limit=0, log=log):
             return
         ids_file = Path(args.store) / "forms" / (".chunk.json" if n_form_workers == 1 else f".chunk-{ci}.json")
         ids_file.write_text(json.dumps(chunk), "utf-8")
+        form_venv = config.VENV_AR if (config.ar_engine(settings) and "ar" in cfg["voices"]) else config.VENV_QWEN
         try:
             for attempt in range(cfg["retakes"] + int(cfg.get("extraRetakes", 0)) + 1):
-                cmd = [config.GPURUN, str(cfg["gpu"]["ttsMiB"]), f"{config.VENV_QWEN}/bin/python", "-I", str(HERE / "stage.py"), "forms",
+                cmd = [config.GPURUN, str(cfg["gpu"]["ttsMiB"]), f"{form_venv}/bin/python", "-I", str(HERE / "stage.py"), "forms",
                        "--ids-file", str(ids_file), "--attempt", str(attempt), "--store", str(args.store)]
                 if args.settings:
                     cmd += ["--settings", args.settings]

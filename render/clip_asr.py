@@ -103,6 +103,11 @@ def comparison_cer(record, kind, hyp, fold_vowels=False):
         if record["lang"] == "ru":
             return nz(text)
         text = unicodedata.normalize("NFC", text).lower()
+        if record["lang"] == "ar":
+            text = re.sub(r"[\u0640\u064b-\u065f\u0670]", "", text)
+            text = re.sub(r"[أإآٱ]", "ا", text)
+        if record["lang"] in ("ja", "zh"):
+            return re.sub(r"[^\w]", "", text)
         return re.sub(r"\s+", " ", re.sub(r"[^\w\s]", " ", text)).strip()
     if not normalize(heard):
         return 1.0
