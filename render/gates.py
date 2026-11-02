@@ -24,7 +24,7 @@ class AudioGates:
         else:
             wav_16k = wav
         inputs = self.extractor(wav_16k, return_tensors="pt", sampling_rate=16000).to("cuda")
-        with torch.no_grad():
+        with torch.no_grad(), torch.backends.cudnn.flags(enabled=False):
             emb = self.spk_model(**inputs).embeddings
         return torch.nn.functional.normalize(emb, dim=-1).squeeze()
 

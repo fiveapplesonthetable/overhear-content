@@ -184,6 +184,8 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
             for cp, job, s0, s1 in slices:
                 write_cand_bundle(cands_dir, job, wavs[s0:s1])
                 cp.unlink(missing_ok=True)
+            if len(expanded_batch) >= 16:
+                eng.torch.cuda.empty_cache()
             log(role, f"synthesized {len(todo)} lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
         except Exception as ex:
             log(role, f"WARN batch failed ({ex}), falling back per-item")
@@ -539,8 +541,10 @@ def run_orchestrator():
                     }
                     folder = SHM_ROOT / f"jobs_{eng_kind}"
                     stem = f"{prio:04d}_{ep}_{k}"
-                    tmp = folder / f".{stem}.json"
                     fin = folder / f"{stem}.json"
+                    if fin.exists() or any(folder.glob(f"{stem}.json.claim.*")):
+                        continue
+                    tmp = folder / f".{stem}.json"
                     tmp.write_text(json.dumps(job, ensure_ascii=False), encoding="utf-8")
                     tmp.replace(fin)
                     new_jobs += 1
