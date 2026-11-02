@@ -729,7 +729,7 @@
         {
           "t": "fraîche",
           "lemma": "frais",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "fʁɛʃ",
           "gloss": "cool, fresh",
           "gram": "adjective, feminine singular"
@@ -1549,7 +1549,7 @@
         {
           "t": "fraîche",
           "lemma": "frais",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "fʁɛʃ",
           "gloss": "cool, fresh",
           "gram": "adjective, feminine singular"
@@ -2369,7 +2369,7 @@
         {
           "t": "fraîche",
           "lemma": "frais",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "fʁɛʃ",
           "gloss": "cool, fresh",
           "gram": "adjective, feminine singular"
@@ -4782,62 +4782,6 @@
         {
           "word": "enfiler",
           "gloss": "to slip on"
-        }
-      ]
-    },
-    "frais": {
-      "lemma": "frais",
-      "stress": "fʁɛ",
-      "pos": "noun",
-      "gloss": "expenses, costs",
-      "gender": "m",
-      "plural": "frais",
-      "meanings": [
-        {
-          "en": "expenses, costs (always plural)",
-          "note": "une note de frais = an expense claim"
-        },
-        {
-          "en": "fresh, cool (adjective)",
-          "note": "De l'eau fraîche. Masculine noun ('le frais', plural 'les frais') inherited through Romance vocabulary, used in everyday and professional French for 'expenses'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "—",
-              "les frais"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Mes notes de frais.",
-          "trans": "My expense claims."
-        },
-        {
-          "text": "Les frais de voyage.",
-          "trans": "Travel expenses."
-        },
-        {
-          "text": "Pour vérifier mes costumes et mes notes de frais. Bonne chance!",
-          "trans": "To check my suits and my expense claims. Good luck!"
-        }
-      ],
-      "related": [
-        {
-          "word": "fraise",
-          "gloss": "strawberry"
         }
       ]
     },
@@ -8002,6 +7946,58 @@
           "gloss": "maybe, perhaps"
         }
       ]
+    },
+    "frais": {
+      "lemma": "frais",
+      "stress": "fʁɛ",
+      "pos": "adj",
+      "gloss": "fresh; cool",
+      "meanings": [
+        {
+          "en": "fresh; new",
+          "note": "argent frais = fresh funds"
+        },
+        {
+          "en": "cool, chilled",
+          "note": "de l'eau fraîche = cool water"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "frais",
+              "fraîche"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "frais",
+              "fraîches"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il nous faut de l'argent frais.",
+          "trans": "We need fresh funds."
+        },
+        {
+          "text": "Je voudrais de l'eau fraîche.",
+          "trans": "I would like cool water."
+        }
+      ],
+      "related": []
     }
   }
 }

@@ -22,7 +22,7 @@ _HOME = os.environ.get("OVERHEAR_HOME", os.path.expanduser("~/overhear"))
 SLOTS = os.path.join(_HOME, "gpu-slots")
 QUEUE = os.path.join(SLOTS, "queue")
 LEDGER = os.path.join(_HOME, "gpu-slots.lock")
-OLD_LOCK = "$OVERHEAR_HOME/gpu.lock"
+OLD_LOCK = os.path.join(_HOME, "gpu.lock")
 BUDGET = int(os.environ.get("GPURUN_BUDGET_MIB", "38500"))  # A100 40 GB minus headroom
 MARGIN = 600  # MiB kept free beyond the request, for allocator fragmentation; capped at BUDGET
 # so a job reserving the whole budget can still start on an otherwise idle card
