@@ -384,15 +384,30 @@ def run_ru_worker(worker_id: int, batch_seqs: int):
                     cp.unlink(missing_ok=True)
                 log(role, f"synthesized {len(v_items)} ru lines ({len(expanded)} takes) in {time.time() - t0:.2f}s")
             except Exception as ex:
-                log(role, f"ERROR ru batch failed ({ex})")
+                log(role, f"WARN ru batch failed ({ex}), falling back per-item")
                 eng.torch.cuda.empty_cache()
-                for cp, _job, _s0, _s1 in slices:
-                    orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
+                for cp, job, _s0, _s1 in slices:
                     try:
-                        cp.rename(orig)
-                    except OSError:
-                        pass
-                time.sleep(1.0)
+                        n_c = int(job["n_cands"])
+                        try:
+                            w_item = eng.generate([(voice, "Russian", job["text_tts"])] * n_c, seed, speed=speed)
+                        except Exception:
+                            g_txt = eng.text(job["text_tts"])
+                            w_item = []
+                            for ci in range(n_c):
+                                eng.torch.manual_seed(seed + ci)
+                                w_item.append(eng._single(voice, g_txt, speed))
+                        write_cand_bundle(cands_dir, job, w_item)
+                        cp.unlink(missing_ok=True)
+                    except Exception as ex2:
+                        log(role, f"ERROR ru item {job['key']} failed ({ex2})")
+                        eng.torch.cuda.empty_cache()
+                        orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
+                        try:
+                            cp.rename(orig)
+                        except OSError:
+                            pass
+                        time.sleep(1.0)
 
 
 # ---------------------------------------------------------------------------
@@ -791,6 +806,19 @@ def run_master(qwen_workers: int, en_workers: int, gate_workers: int, batch_seqs
         reclaim_stale_claims(SHM_ROOT / sub)
 
     specs = []
+    # Spawn gate-workers and orchestrator FIRST so Whisper/WavLM (ctranslate2) and MMS_FA
+    # pin their VRAM before PyTorch TTS workers reserve expandable CUDA segments.
+    for gid in range(1, gate_workers + 1):
+        specs.append((
+            f"gate-{gid}",
+            [f"{config.VENV_ASR}/bin/python", "-I", str(Path(__file__).resolve()), "gate-worker", "--id", str(gid)],
+            venv_cuda_libs(config.VENV_ASR),
+        ))
+    specs.append((
+        "orchestrator",
+        [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "orchestrator"],
+        venv_cuda_libs(config.VENV_QWEN),
+    ))
     for wid in range(1, qwen_workers + 1):
         specs.append((
             f"qwen-{wid}",
@@ -805,24 +833,13 @@ def run_master(qwen_workers: int, en_workers: int, gate_workers: int, batch_seqs
         ))
     specs.append((
         "ru-espeech-1",
-        [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--id", "1", "--batch-seqs", "16"],
+        [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--id", "1", "--batch-seqs", "12"],
         venv_cuda_libs(config.VENV_F5),
     ))
     specs.append((
         "ar-chatterbox",
         [f"{config.VENV_ASR}/bin/python", "-I", str(Path(__file__).resolve()), "ar-worker"],
         venv_cuda_libs(config.VENV_ASR),
-    ))
-    for gid in range(1, gate_workers + 1):
-        specs.append((
-            f"gate-{gid}",
-            [f"{config.VENV_ASR}/bin/python", "-I", str(Path(__file__).resolve()), "gate-worker", "--id", str(gid)],
-            venv_cuda_libs(config.VENV_ASR),
-        ))
-    specs.append((
-        "orchestrator",
-        [f"{config.VENV_QWEN}/bin/python", "-I", str(Path(__file__).resolve()), "orchestrator"],
-        venv_cuda_libs(config.VENV_QWEN),
     ))
 
     procs = {}
