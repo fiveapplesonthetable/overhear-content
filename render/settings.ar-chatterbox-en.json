@@ -186,13 +186,13 @@
     "modelLocal": "(set by config.CHATTERBOX_LOCAL / OVERHEAR_CHATTERBOX)",
     "model": "chatterbox-multilingual-v2",
     "language": "ar",
-    "temperature": 0.8,
-    "cfg_weight": 0.5,
-    "exaggeration": 0.5,
+    "temperature": 0.68,
+    "cfg_weight": 0.6,
+    "exaggeration": 0.28,
     "repetition_penalty": 2.0,
     "min_p": 0.05,
-    "top_p": 1.0,
-    "sentence_retries": 1,
+    "top_p": 0.95,
+    "sentence_retries": 2,
     "batch": 1
   }
 }
