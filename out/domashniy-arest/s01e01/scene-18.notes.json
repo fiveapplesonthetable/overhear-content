@@ -10,7 +10,7 @@
           "t": "Узнаёшь?",
           "lemma": "узнавать",
           "pos": "verb",
-          "stress": null,
+          "stress": "У́знаёшь?",
           "gloss": "do you recognise (it)",
           "gram": "present, 2nd person singular, imperfective"
         },
@@ -88,7 +88,7 @@
           "t": "Самсон!",
           "lemma": "самсон",
           "pos": "name",
-          "stress": null,
+          "stress": "Са́мсон!",
           "gloss": "Samson",
           "gram": "nickname, used as address"
         }
@@ -188,7 +188,7 @@
           "t": "Самсон,",
           "lemma": "самсон",
           "pos": "name",
-          "stress": null,
+          "stress": "Са́мсон,",
           "gloss": "Samson",
           "gram": "nickname, used as address"
         },
@@ -466,7 +466,7 @@
           "t": "Нина,",
           "lemma": "нина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ни́на,",
           "gloss": "Nina",
           "gram": "used as address"
         },
@@ -714,7 +714,7 @@
           "t": "Юля,",
           "lemma": "юля",
           "pos": "name",
-          "stress": null,
+          "stress": "Ю́ля,",
           "gloss": "Yulia",
           "gram": "name, used as address"
         },
@@ -846,7 +846,7 @@
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": null,
+          "stress": "по́йдём",
           "gloss": "let's go",
           "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
@@ -870,13 +870,13 @@
     },
     {
       "seg": 17,
-      "trans": "Recognise it?",
+      "trans": "do you recognise (it)",
       "words": [
         {
           "t": "Узнаёшь?",
           "lemma": "узнавать",
           "pos": "verb",
-          "stress": null,
+          "stress": "У́знаёшь?",
           "gloss": "do you recognise (it)",
           "gram": "present, 2nd person singular, imperfective"
         }
@@ -884,7 +884,21 @@
     },
     {
       "seg": 19,
-      "trans": "Nothing has changed here.",
+      "trans": "do you recognise (it)",
+      "words": [
+        {
+          "t": "Узнаёшь",
+          "lemma": "узнавать",
+          "pos": "verb",
+          "stress": "У́знаёшь",
+          "gloss": "do you recognise (it)",
+          "gram": "present, 2nd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 21,
+      "trans": "at, near, with / us / here / nothing / not / has changed",
       "words": [
         {
           "t": "У",
@@ -937,7 +951,37 @@
       ]
     },
     {
-      "seg": 21,
+      "seg": 23,
+      "trans": "nothing / not / has changed",
+      "words": [
+        {
+          "t": "ничего",
+          "lemma": "ничто",
+          "pos": "pron",
+          "stress": "ничего́",
+          "gloss": "nothing",
+          "gram": "genitive (with не); г is said like в"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "изменилось",
+          "lemma": "измениться",
+          "pos": "verb",
+          "stress": "измени́лось",
+          "gloss": "has changed",
+          "gram": "past, neuter singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 25,
       "trans": "Let me go, Samson!",
       "words": [
         {
@@ -960,15 +1004,15 @@
           "t": "Самсон!",
           "lemma": "самсон",
           "pos": "name",
-          "stress": null,
+          "stress": "Са́мсон!",
           "gloss": "Samson",
           "gram": "nickname, used as address"
         }
       ]
     },
     {
-      "seg": 23,
-      "trans": "Now you're going to fix the pipe.",
+      "seg": 27,
+      "trans": "now / will (be) / fix / the pipe",
       "words": [
         {
           "t": "Сейчас",
@@ -1005,8 +1049,22 @@
       ]
     },
     {
-      "seg": 25,
-      "trans": "And don't forget to wash the toilet.",
+      "seg": 29,
+      "trans": "will (be)",
+      "words": [
+        {
+          "t": "будешь",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́дешь",
+          "gloss": "will (be)",
+          "gram": "future, 2nd person singular (auxiliary)"
+        }
+      ]
+    },
+    {
+      "seg": 31,
+      "trans": "and / toilet bowl / not / forget / to wash",
       "words": [
         {
           "t": "И",
@@ -1051,7 +1109,21 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 33,
+      "trans": "toilet bowl",
+      "words": [
+        {
+          "t": "унитаз",
+          "lemma": "унитаз",
+          "pos": "noun",
+          "stress": "унита́з",
+          "gloss": "toilet bowl",
+          "gram": "nominative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 35,
       "trans": "Listen, Samson, I'm not going to do this.",
       "words": [
         {
@@ -1066,7 +1138,7 @@
           "t": "Самсон,",
           "lemma": "самсон",
           "pos": "name",
-          "stress": null,
+          "stress": "Са́мсон,",
           "gloss": "Samson",
           "gram": "nickname, used as address"
         },
@@ -1113,8 +1185,22 @@
       ]
     },
     {
-      "seg": 29,
-      "trans": "I'll be out of here in two weeks.",
+      "seg": 37,
+      "trans": "will be (there)",
+      "words": [
+        {
+          "t": "буду",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́ду",
+          "gloss": "will be (there)",
+          "gram": "future, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 39,
+      "trans": "I / I'll get out / from here / in (time) / two / weeks",
       "words": [
         {
           "t": "Я",
@@ -1167,8 +1253,22 @@
       ]
     },
     {
-      "seg": 31,
-      "trans": "I'll solve all your problems.",
+      "seg": 41,
+      "trans": "I'll get out",
+      "words": [
+        {
+          "t": "выйду",
+          "lemma": "выйти",
+          "pos": "verb",
+          "stress": "вы́йду",
+          "gloss": "I'll get out",
+          "gram": "future, 1st person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "I / I'll solve / all / your / problems",
       "words": [
         {
           "t": "Я",
@@ -1213,7 +1313,21 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 45,
+      "trans": "I'll solve",
+      "words": [
+        {
+          "t": "решу",
+          "lemma": "решить",
+          "pos": "verb",
+          "stress": "решу́",
+          "gloss": "I'll solve",
+          "gram": "future, 1st person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 47,
       "trans": "You'll have everything you want.",
       "words": [
         {
@@ -1267,7 +1381,45 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 49,
+      "trans": "at, near, with / you / will be / everything",
+      "words": [
+        {
+          "t": "У",
+          "lemma": "у",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "вас",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural / polite, accusative"
+        },
+        {
+          "t": "будет",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́дет",
+          "gloss": "will be",
+          "gram": "future, 3rd person singular"
+        },
+        {
+          "t": "всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        }
+      ]
+    },
+    {
+      "seg": 51,
       "trans": "Everything we want, you say?",
       "words": [
         {
@@ -1305,7 +1457,21 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 53,
+      "trans": "we (will) want",
+      "words": [
+        {
+          "t": "захотим",
+          "lemma": "захотеть",
+          "pos": "verb",
+          "stress": "захоти́м",
+          "gloss": "we (will) want",
+          "gram": "future, 1st person plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 55,
       "trans": "Everything you want. I swear!",
       "words": [
         {
@@ -1343,14 +1509,14 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 57,
       "trans": "Nina, don't listen. It's another trick.",
       "words": [
         {
           "t": "Нина,",
           "lemma": "нина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ни́на,",
           "gloss": "Nina",
           "gram": "used as address"
         },
@@ -1397,7 +1563,21 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 59,
+      "trans": "again",
+      "words": [
+        {
+          "t": "опять",
+          "lemma": "опять",
+          "pos": "adv",
+          "stress": "опя́ть",
+          "gloss": "again",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 61,
       "trans": "No, it's not a trick. This time everything will be official.",
       "words": [
         {
@@ -1483,7 +1663,21 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 63,
+      "trans": "official, officially",
+      "words": [
+        {
+          "t": "официально",
+          "lemma": "официально",
+          "pos": "adv",
+          "stress": "официа́льно",
+          "gloss": "official, officially",
+          "gram": "adverb (predicative)"
+        }
+      ]
+    },
+    {
+      "seg": 65,
       "trans": "You're not leaving here until you sign everything.",
       "words": [
         {
@@ -1545,7 +1739,45 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 67,
+      "trans": "bye! / everything / not / you sign",
+      "words": [
+        {
+          "t": "Пока",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
+        },
+        {
+          "t": "всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "подпишешь",
+          "lemma": "подписать",
+          "pos": "verb",
+          "stress": "подпи́шешь",
+          "gloss": "you sign",
+          "gram": "future, 2nd person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 69,
       "trans": "Now there's a businesswoman, you can see it at once.",
       "words": [
         {
@@ -1591,14 +1823,36 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 71,
+      "trans": "at once / one can see",
+      "words": [
+        {
+          "t": "сразу",
+          "lemma": "сразу",
+          "pos": "adv",
+          "stress": "сра́зу",
+          "gloss": "at once",
+          "gram": "adverb"
+        },
+        {
+          "t": "видно",
+          "lemma": "видно",
+          "pos": "adv",
+          "stress": "ви́дно",
+          "gloss": "one can see",
+          "gram": "predicative adverb"
+        }
+      ]
+    },
+    {
+      "seg": 73,
       "trans": "Yulia, bring a pen and a piece of paper.",
       "words": [
         {
           "t": "Юля,",
           "lemma": "юля",
           "pos": "name",
-          "stress": null,
+          "stress": "Ю́ля,",
           "gloss": "Yulia",
           "gram": "name, used as address"
         },
@@ -1637,8 +1891,8 @@
       ]
     },
     {
-      "seg": 49,
-      "trans": "Listen, could we go somewhere else?",
+      "seg": 75,
+      "trans": "listen / and, but / may, can / in, into / another, other / place, post",
       "words": [
         {
           "t": "Послушайте,",
@@ -1691,8 +1945,22 @@
       ]
     },
     {
-      "seg": 51,
-      "trans": "It smells bad in here.",
+      "seg": 77,
+      "trans": "may, can",
+      "words": [
+        {
+          "t": "можно",
+          "lemma": "можно",
+          "pos": "adv",
+          "stress": "мо́жно",
+          "gloss": "may, can",
+          "gram": "predicative adverb (permission)"
+        }
+      ]
+    },
+    {
+      "seg": 79,
+      "trans": "here / badly / it smells",
       "words": [
         {
           "t": "Здесь",
@@ -1721,7 +1989,37 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 81,
+      "trans": "here / badly / it smells",
+      "words": [
+        {
+          "t": "Здесь",
+          "lemma": "здесь",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        },
+        {
+          "t": "плохо",
+          "lemma": "плохо",
+          "pos": "adv",
+          "stress": "пло́хо",
+          "gloss": "badly",
+          "gram": "adverb"
+        },
+        {
+          "t": "пахнет",
+          "lemma": "пахнуть",
+          "pos": "verb",
+          "stress": "па́хнет",
+          "gloss": "it smells",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 83,
       "trans": "All right, let's go to our room.",
       "words": [
         {
@@ -1736,7 +2034,7 @@
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": null,
+          "stress": "по́йдём",
           "gloss": "let's go",
           "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
@@ -1759,14 +2057,28 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 85,
+      "trans": "let's go",
+      "words": [
+        {
+          "t": "пойдём",
+          "lemma": "пойти",
+          "pos": "verb",
+          "stress": "по́йдём",
+          "gloss": "let's go",
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
+        }
+      ]
+    },
+    {
+      "seg": 87,
       "trans": "Recognise it? Nothing has changed here.",
       "words": [
         {
           "t": "Узнаёшь?",
           "lemma": "узнавать",
           "pos": "verb",
-          "stress": null,
+          "stress": "У́знаёшь?",
           "gloss": "do you recognise (it)",
           "gram": "present, 2nd person singular, imperfective"
         },
@@ -1821,7 +2133,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 88,
       "trans": "Let me go, Samson!",
       "words": [
         {
@@ -1844,14 +2156,14 @@
           "t": "Самсон!",
           "lemma": "самсон",
           "pos": "name",
-          "stress": null,
+          "stress": "Са́мсон!",
           "gloss": "Samson",
           "gram": "nickname, used as address"
         }
       ]
     },
     {
-      "seg": 57,
+      "seg": 89,
       "trans": "Now you're going to fix the pipe. And don't forget to wash the toilet.",
       "words": [
         {
@@ -1929,7 +2241,7 @@
       ]
     },
     {
-      "seg": 58,
+      "seg": 90,
       "trans": "Listen, Samson, I'm not going to do this.",
       "words": [
         {
@@ -1944,7 +2256,7 @@
           "t": "Самсон,",
           "lemma": "самсон",
           "pos": "name",
-          "stress": null,
+          "stress": "Са́мсон,",
           "gloss": "Samson",
           "gram": "nickname, used as address"
         },
@@ -1991,7 +2303,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 91,
       "trans": "I'll be out of here in two weeks. I'll solve all your problems.",
       "words": [
         {
@@ -2085,7 +2397,7 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 92,
       "trans": "You'll have everything you want.",
       "words": [
         {
@@ -2139,7 +2451,7 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 93,
       "trans": "Everything we want, you say?",
       "words": [
         {
@@ -2177,7 +2489,7 @@
       ]
     },
     {
-      "seg": 62,
+      "seg": 94,
       "trans": "Everything you want. I swear!",
       "words": [
         {
@@ -2215,14 +2527,14 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 95,
       "trans": "Nina, don't listen. It's another trick.",
       "words": [
         {
           "t": "Нина,",
           "lemma": "нина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ни́на,",
           "gloss": "Nina",
           "gram": "used as address"
         },
@@ -2269,7 +2581,7 @@
       ]
     },
     {
-      "seg": 64,
+      "seg": 96,
       "trans": "No, it's not a trick. This time everything will be official.",
       "words": [
         {
@@ -2355,7 +2667,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 97,
       "trans": "You're not leaving here until you sign everything.",
       "words": [
         {
@@ -2417,7 +2729,7 @@
       ]
     },
     {
-      "seg": 66,
+      "seg": 98,
       "trans": "Now there's a businesswoman, you can see it at once.",
       "words": [
         {
@@ -2463,14 +2775,14 @@
       ]
     },
     {
-      "seg": 67,
+      "seg": 99,
       "trans": "Yulia, bring a pen and a piece of paper.",
       "words": [
         {
           "t": "Юля,",
           "lemma": "юля",
           "pos": "name",
-          "stress": null,
+          "stress": "Ю́ля,",
           "gloss": "Yulia",
           "gram": "name, used as address"
         },
@@ -2509,7 +2821,7 @@
       ]
     },
     {
-      "seg": 68,
+      "seg": 100,
       "trans": "Listen, could we go somewhere else? It smells bad in here.",
       "words": [
         {
@@ -2587,7 +2899,7 @@
       ]
     },
     {
-      "seg": 69,
+      "seg": 101,
       "trans": "All right, let's go to our room.",
       "words": [
         {
@@ -2602,7 +2914,7 @@
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": null,
+          "stress": "по́йдём",
           "gloss": "let's go",
           "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
@@ -2625,8 +2937,8 @@
       ]
     },
     {
-      "seg": 71,
-      "trans": "Bye!",
+      "seg": 103,
+      "trans": "bye!",
       "words": [
         {
           "t": "Пока!",

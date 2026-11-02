@@ -514,12 +514,15 @@ def run_orchestrator():
                     todo_list.append((sc, rkey))
 
             log(role, f"[{ep}] prio={prio} discovered {len(scenes)} scenes ({len(todo_list)} to render)")
-            # Prepare all todo scenes across 8 CPU threads (note RuAccent cache is thread-safe enough sequentially if ru, else parallel)
             scenes_todo = {}
-            if any(sc.lang == "ru" for sc, _ in todo_list):
-                ctxs = [r.prepare(sc) for sc, _ in todo_list]
-            else:
-                ctxs = list(prep_pool.map(r.prepare, [sc for sc, _ in todo_list]))
+            try:
+                if any(sc.lang == "ru" for sc, _ in todo_list):
+                    ctxs = [r.prepare(sc) for sc, _ in todo_list]
+                else:
+                    ctxs = list(prep_pool.map(r.prepare, [sc for sc, _ in todo_list]))
+            except Exception as ex:
+                log(role, f"ERROR preparing {ep}: {ex} (skipping episode for 15s)")
+                continue
 
             ru_cfg, ar_cfg = config.ru_engine(settings), config.ar_engine(settings)
             new_jobs = 0

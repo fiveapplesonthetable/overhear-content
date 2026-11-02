@@ -32,22 +32,110 @@ STORY = [
     ('reporter', 'Спасибо, Аркадий Борисович!', 'Thank you, Arkady Borisovich!', [], 'the reporter closes the interview'),
 ]
 WALK = [
-    (0, 'Спасибо, спасибо!', "'Thank you, thank you!' Repeating \"spasibo\" twice warms up the crowd before he starts his speech."),
-    (0, 'Как вы все знаете, я родился и вырос в Синеозерске.', "'As you all know, I was born and grew up in Sineozersk.' \"Rodilsya\" ('was born') and \"vyros\" ('grew up') are the male past forms. Now comes the sad part of his story."),
-    (1, 'Детство у меня было трудное.', "'My childhood was hard.' Literally, 'childhood at me was hard' — \"u menya\" works just like saying what you have. Then a detail we saw for ourselves."),
-    (1, 'Я вырос в коммуналке.', "'I grew up in a communal flat.' \"Kommunalka\" is everyday shorthand for a shared Soviet flat where several families share one kitchen and toilet. So he makes a claim."),
-    (2, None, "'I know the problems of ordinary people.' \"Prostykh lyudey\" literally says 'of simple people', a politician's favourite phrase. Then he talks about his job."),
-    (3, None, "'I've been working as mayor for four years now.' Russian uses present \"rabotayu\" ('I work') where English says 'I've been working', and \"merom\" adds '-om' to mean 'as mayor'."),
-    (4, None, "'We've done a lot, but we need to do even more.' \"Nado\" ('we need to') is the very same everyday word little Vanya used back in the bathroom. Then the big news."),
-    (5, 'Я очень люблю наш город.', "'I love our town very much.' In Russian, \"ochen\" ('very much') sits right before \"lyublyu\", as if saying 'I very love our town'. So he makes his announcement."),
-    (5, 'Поэтому я иду на второй срок.', "'That's why I'm running for a second term.' Literally, 'I'm going onto a second term' — \"idu na vtoroy srok\" — how Russian talks about standing again. He finishes politely."),
-    (6, None, "'Thank you for your trust!' \"Spasibo za...\" is the go-to pattern whenever you thank someone for something, here \"doveriye\" ('trust'). Then the questions start."),
-    (7, None, "'Arkady Borisovich, who are your rivals?' Addressing him by first name plus patronymic \"Borisovich\" ('son of Boris') is standard polite Russian. Arkady brushes it off."),
-    (8, 'Мне некогда об этом думать.', "'I have no time to think about that.' \"Mne nekogda\" packs 'to me there is no time' into just two words. He gives a reason."),
-    (8, 'Слишком много дел.', "'There's too much to do.' \"Slishkom\" adds the sense of 'too' or 'excessively' before \"mnogo del\" ('many matters'). Another question."),
-    (9, None, "'Tell us, when will your programme be out?' \"Skazhite\" is the polite 'tell us!' with '-te' on the end, and \"programma\" means his election manifesto."),
-    (10, None, "'Any day now, on the website.' \"Na dnyakh\" literally says 'on the days', a handy chunk for 'in the next few days'. Then comes the awkward question."),
-    (11, None, "'And does the governor support you?' \"Gubernator\" runs the whole region, and putting \"vas\" ('you') up front spotlights Arkady before the verb \"podderzhivayet\" ('supports'). Watch how he answers."),
-    (12, None, "'The most important thing is the people.' \"Samoye glavnoye\" ('the main thing') linked by a spoken pause to \"narod\" ('the people') dodges answering yes or no. The reporter gives up."),
-    (13, None, "'Thank you, Arkady Borisovich!' Once again the polite pairing of first name and patronymic closes the exchange."),
+    (0, 'Спасибо, спасибо!', [
+        "'Thank you, thank you!' Repeating the term meaning 'thank you', ",
+        ('arkady', "спасибо"),
+        ", twice warms up the crowd before he starts his speech."
+    ]),
+    (0, 'Как вы все знаете, я родился и вырос в Синеозерске.', [
+        "'As you all know, I was born and grew up in Sineozersk.' ",
+        ('arkady', "Родился"),
+        " ('was born') and ",
+        ('arkady', "вырос"),
+        " ('grew up') are the past action words for a man. Now comes the sad part of his story."
+    ]),
+    (1, 'Детство у меня было трудное.', [
+        "'My childhood was hard.' Literally, 'childhood at me was hard' — ",
+        ('arkady', "у меня"),
+        " works just like saying what you have. Then a detail we saw for ourselves."
+    ]),
+    (1, 'Я вырос в коммуналке.', [
+        "'I grew up in a communal flat.' the translation for a shared Soviet flat, ",
+        ('arkady', "коммуналке"),
+        ", is everyday shorthand where several families share one kitchen and toilet. So he makes a claim."
+    ]),
+    (2, None, [
+        "'I know the problems of ordinary people.' ",
+        ('arkady', "Простых людей"),
+        " literally translates to 'of simple people', a politician's favourite phrase. Then he talks about his job."
+    ]),
+    (3, None, [
+        "'I've been working as mayor for four years now.' Russian uses the present action word ",
+        ('arkady', "работаю"),
+        " ('I work') where English says 'I've been working', and ",
+        ('arkady', "мэром"),
+        " is built from the Russian for mayor with a little ending."
+    ]),
+    (4, None, [
+        "'We've done a lot, but we need to do even more.' which translates to 'we need to', ",
+        ('arkady', "надо"),
+        ", is the very same everyday word little Vanya used back in the bathroom. Then the big news."
+    ]),
+    (5, 'Я очень люблю наш город.', [
+        "'I love our town very much.' In Russian, the term meaning 'very much', ",
+        ('arkady', "очень"),
+        ", sits right before ",
+        ('arkady', "люблю"),
+        ", as if saying 'I very love our town'. So he makes his announcement."
+    ]),
+    (5, 'Поэтому я иду на второй срок.', [
+        "'That's why I'm running for a second term.' Literally, 'I'm going onto a second term' — ",
+        ('arkady', "иду на второй срок"),
+        " — how Russian talks about standing again. He finishes politely."
+    ]),
+    (6, None, [
+        "'Thank you for your trust!' ",
+        ('arkady', "Спасибо за"),
+        " is the go-to pattern whenever you thank someone for something, here the Russian for 'trust', ",
+        ('arkady', "доверие"),
+        ". Then the questions start."
+    ]),
+    (7, None, [
+        "'Arkady Borisovich, who are your rivals?' Addressing him by first name plus his father's name, ",
+        ('reporter', "Борисович"),
+        ", translates to 'son of Boris' and is standard polite Russian. Arkady brushes it off."
+    ]),
+    (8, 'Мне некогда об этом думать.', [
+        "'I have no time to think about that.' ",
+        ('arkady', "Мне некогда"),
+        " literally translates to 'to me there is no time' packed into just two words. He gives a reason."
+    ]),
+    (8, 'Слишком много дел.', [
+        "'There's too much to do.' the term meaning 'excessively', ",
+        ('arkady', "слишком"),
+        ", adds the sense of 'too' before ",
+        ('arkady', "много дел"),
+        " ('many matters'). Another question."
+    ]),
+    (9, None, [
+        "'Tell us, when will your programme be out?' ",
+        ('reporter', "Скажите"),
+        " is the polite 'tell us!' built from a polite ending on the action word, and ",
+        ('reporter', "программа"),
+        " translates to his election manifesto."
+    ]),
+    (10, None, [
+        "'Any day now, on the website.' ",
+        ('arkady', "На днях"),
+        " literally translates to 'on the days', a handy chunk for 'in the next few days'. Then comes the awkward question."
+    ]),
+    (11, None, [
+        "'And does the governor support you?' ",
+        ('reporter', "Губернатор"),
+        " translates to the one who runs the whole region, and putting ",
+        ('reporter', "вас"),
+        " ('you') up front spotlights Arkady before the action word ",
+        ('reporter', "поддерживает"),
+        " ('supports'). Watch how he answers."
+    ]),
+    (12, None, [
+        "'The most important thing is the people.' ",
+        ('arkady', "Самое главное"),
+        " ('the main thing') linked by a spoken pause to ",
+        ('arkady', "народ"),
+        ", the term for 'the people', dodges answering yes or no. The reporter gives up."
+    ]),
+    (13, None, [
+        "'Thank you, Arkady Borisovich!' Once again the polite pairing of first name and father's name closes the exchange."
+    ]),
 ]

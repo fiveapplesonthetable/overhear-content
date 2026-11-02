@@ -10,7 +10,7 @@
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша,",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         },
@@ -48,7 +48,7 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -232,7 +232,7 @@
           "t": "Ванечка!",
           "lemma": "ванечка",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́нечка!",
           "gloss": "Vanechka (Ivan)",
           "gram": "tender form of Ваня, used as address"
         }
@@ -448,7 +448,7 @@
           "t": "Нина?",
           "lemma": "нина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ни́на?",
           "gloss": "Nina",
           "gram": "used as address"
         },
@@ -502,7 +502,7 @@
           "t": "твоё",
           "lemma": "твой",
           "pos": "det",
-          "stress": null,
+          "stress": "тво́ё",
           "gloss": "yours",
           "gram": "nominative singular, neuter"
         },
@@ -524,7 +524,7 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -562,7 +562,7 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -632,7 +632,7 @@
           "t": "Ваня!",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня!",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         }
@@ -646,7 +646,7 @@
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша,",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         },
@@ -678,13 +678,27 @@
     },
     {
       "seg": 18,
-      "trans": "Vanya, it's much worse than that.",
+      "trans": "our",
+      "words": [
+        {
+          "t": "наша",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́ша",
+          "gloss": "our",
+          "gram": "possessive, nominative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "Vanya (Ivan) / everything / much / worse",
       "words": [
         {
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -715,8 +729,22 @@
       ]
     },
     {
-      "seg": 20,
-      "trans": "I've been cheated.",
+      "seg": 22,
+      "trans": "much",
+      "words": [
+        {
+          "t": "гораздо",
+          "lemma": "гораздо",
+          "pos": "adv",
+          "stress": "гора́здо",
+          "gloss": "much",
+          "gram": "adverb, before a comparative"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "me / (they) cheated",
       "words": [
         {
           "t": "Меня",
@@ -737,7 +765,21 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 26,
+      "trans": "(they) cheated",
+      "words": [
+        {
+          "t": "обманули",
+          "lemma": "обмануть",
+          "pos": "verb",
+          "stress": "обману́ли",
+          "gloss": "(they) cheated",
+          "gram": "past, plural, perfective; no subject = 'I was cheated'"
+        }
+      ]
+    },
+    {
+      "seg": 28,
       "trans": "What? Who cheated you?",
       "words": [
         {
@@ -775,7 +817,21 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 30,
+      "trans": "what?",
+      "words": [
+        {
+          "t": "Чего",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": "чего́",
+          "gloss": "what?",
+          "gram": "genitive form, casual 'what?' (pronounced 'chevo')"
+        }
+      ]
+    },
+    {
+      "seg": 32,
       "trans": "I have nothing left.",
       "words": [
         {
@@ -821,7 +877,21 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 34,
+      "trans": "nothing",
+      "words": [
+        {
+          "t": "ничего",
+          "lemma": "ничто",
+          "pos": "pron",
+          "stress": "ничего́",
+          "gloss": "nothing",
+          "gram": "genitive (with не); г is said like в"
+        }
+      ]
+    },
+    {
+      "seg": 36,
       "trans": "And the list? A flat, a car, a spa!",
       "words": [
         {
@@ -867,22 +937,50 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 38,
+      "trans": "list",
+      "words": [
+        {
+          "t": "список",
+          "lemma": "список",
+          "pos": "noun",
+          "stress": "спи́сок",
+          "gloss": "list",
+          "gram": "nominative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 40,
       "trans": "Vanechka!",
       "words": [
         {
           "t": "Ванечка!",
           "lemma": "ванечка",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́нечка!",
           "gloss": "Vanechka (Ivan)",
           "gram": "tender form of Ваня, used as address"
         }
       ]
     },
     {
-      "seg": 30,
-      "trans": "I'm telling you: there's no money.",
+      "seg": 42,
+      "trans": "Vanechka!",
+      "words": [
+        {
+          "t": "Ванечка",
+          "lemma": "ванечка",
+          "pos": "name",
+          "stress": "Ва́нечка",
+          "gloss": "Vanechka (Ivan)",
+          "gram": "tender form of Ваня, used as address"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "I / for you, to you / am telling / money / no",
       "words": [
         {
           "t": "Я",
@@ -927,8 +1025,22 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "Where am I supposed to get you a flat?",
+      "seg": 46,
+      "trans": "money",
+      "words": [
+        {
+          "t": "денег",
+          "lemma": "деньги",
+          "pos": "noun",
+          "stress": "де́нег",
+          "gloss": "money",
+          "gram": "genitive plural (after не хватило)"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "where / I / for you, to you / will get / flat",
       "words": [
         {
           "t": "Где",
@@ -973,7 +1085,21 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 50,
+      "trans": "will get",
+      "words": [
+        {
+          "t": "возьму",
+          "lemma": "взять",
+          "pos": "verb",
+          "stress": "возьму́",
+          "gloss": "will get",
+          "gram": "future, 1st person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "Here, take this. You're going to fix the pipe.",
       "words": [
         {
@@ -1011,7 +1137,21 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 54,
+      "trans": "fix",
+      "words": [
+        {
+          "t": "чинить",
+          "lemma": "чинить",
+          "pos": "verb",
+          "stress": "чини́ть",
+          "gloss": "fix",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 56,
       "trans": "What for? I'm not fixing anything!",
       "words": [
         {
@@ -1065,7 +1205,21 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 58,
+      "trans": "what for",
+      "words": [
+        {
+          "t": "Зачем",
+          "lemma": "зачем",
+          "pos": "adv",
+          "stress": "заче́м",
+          "gloss": "what for",
+          "gram": "question word (purpose)"
+        }
+      ]
+    },
+    {
+      "seg": 60,
       "trans": "What are you staring at, Nina? Your Majesty!",
       "words": [
         {
@@ -1096,7 +1250,7 @@
           "t": "Нина?",
           "lemma": "нина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ни́на?",
           "gloss": "Nina",
           "gram": "used as address"
         },
@@ -1111,7 +1265,21 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 62,
+      "trans": "queen (sarcastic)",
+      "words": [
+        {
+          "t": "Королева",
+          "lemma": "королева",
+          "pos": "noun",
+          "stress": "короле́ва",
+          "gloss": "queen (sarcastic)",
+          "gram": "nominative singular, feminine, used as address"
+        }
+      ]
+    },
+    {
+      "seg": 64,
       "trans": "You wanted a spa? There it is, your kingdom!",
       "words": [
         {
@@ -1150,7 +1318,7 @@
           "t": "твоё",
           "lemma": "твой",
           "pos": "det",
-          "stress": null,
+          "stress": "тво́ё",
           "gloss": "yours",
           "gram": "nominative singular, neuter"
         },
@@ -1165,14 +1333,28 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 66,
+      "trans": "wanted",
+      "words": [
+        {
+          "t": "захотела",
+          "lemma": "захотеть",
+          "pos": "verb",
+          "stress": "захоте́ла",
+          "gloss": "wanted",
+          "gram": "past, feminine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 68,
       "trans": "Vanya, the water! There's water everywhere!",
       "words": [
         {
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -1203,14 +1385,28 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 70,
+      "trans": "everywhere",
+      "words": [
+        {
+          "t": "Везде",
+          "lemma": "везде",
+          "pos": "adv",
+          "stress": "везде́",
+          "gloss": "everywhere",
+          "gram": "adverb of place"
+        }
+      ]
+    },
+    {
+      "seg": 72,
       "trans": "Vanya, I'm begging you!",
       "words": [
         {
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -1241,7 +1437,21 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 74,
+      "trans": "beg, ask",
+      "words": [
+        {
+          "t": "прошу",
+          "lemma": "просить",
+          "pos": "verb",
+          "stress": "прошу́",
+          "gloss": "beg, ask",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 76,
       "trans": "This is a shared bathroom, Vanya!",
       "words": [
         {
@@ -1280,21 +1490,35 @@
           "t": "Ваня!",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня!",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         }
       ]
     },
     {
-      "seg": 48,
+      "seg": 78,
+      "trans": "worse",
+      "words": [
+        {
+          "t": "же",
+          "lemma": "хуже",
+          "pos": "adv",
+          "stress": "ху́же",
+          "gloss": "worse",
+          "gram": "comparative of 'плохо'"
+        }
+      ]
+    },
+    {
+      "seg": 80,
       "trans": "Arkasha, where's our car?",
       "words": [
         {
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша,",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         },
@@ -1325,14 +1549,14 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 81,
       "trans": "Vanya, it's much worse than that. I've been cheated.",
       "words": [
         {
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -1379,7 +1603,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 82,
       "trans": "What? Who cheated you?",
       "words": [
         {
@@ -1417,7 +1641,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 83,
       "trans": "I have nothing left.",
       "words": [
         {
@@ -1463,7 +1687,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 84,
       "trans": "And the list? A flat, a car, a spa!",
       "words": [
         {
@@ -1509,21 +1733,21 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 85,
       "trans": "Vanechka!",
       "words": [
         {
           "t": "Ванечка!",
           "lemma": "ванечка",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́нечка!",
           "gloss": "Vanechka (Ivan)",
           "gram": "tender form of Ваня, used as address"
         }
       ]
     },
     {
-      "seg": 54,
+      "seg": 86,
       "trans": "I'm telling you: there's no money. Where am I supposed to get you a flat?",
       "words": [
         {
@@ -1609,7 +1833,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 87,
       "trans": "Here, take this. You're going to fix the pipe.",
       "words": [
         {
@@ -1647,7 +1871,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 88,
       "trans": "What for? I'm not fixing anything!",
       "words": [
         {
@@ -1701,7 +1925,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 89,
       "trans": "What are you staring at, Nina? Your Majesty!",
       "words": [
         {
@@ -1732,7 +1956,7 @@
           "t": "Нина?",
           "lemma": "нина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ни́на?",
           "gloss": "Nina",
           "gram": "used as address"
         },
@@ -1747,7 +1971,7 @@
       ]
     },
     {
-      "seg": 58,
+      "seg": 90,
       "trans": "You wanted a spa? There it is, your kingdom!",
       "words": [
         {
@@ -1786,7 +2010,7 @@
           "t": "твоё",
           "lemma": "твой",
           "pos": "det",
-          "stress": null,
+          "stress": "тво́ё",
           "gloss": "yours",
           "gram": "nominative singular, neuter"
         },
@@ -1801,14 +2025,14 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 91,
       "trans": "Vanya, the water! There's water everywhere!",
       "words": [
         {
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -1839,14 +2063,14 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 92,
       "trans": "Vanya, I'm begging you!",
       "words": [
         {
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -1877,7 +2101,7 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 93,
       "trans": "This is a shared bathroom, Vanya!",
       "words": [
         {
@@ -1916,14 +2140,14 @@
           "t": "Ваня!",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня!",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         }
       ]
     },
     {
-      "seg": 63,
+      "seg": 95,
       "trans": "Right, that's it. Bye!",
       "words": [
         {

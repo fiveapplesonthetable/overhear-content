@@ -18,7 +18,7 @@
           "t": "Ваня!",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня!",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -326,7 +326,7 @@
           "t": "ребёнок",
           "lemma": "ребёнок",
           "pos": "noun",
-          "stress": null,
+          "stress": "ре́бёнок",
           "gloss": "a child",
           "gram": "nominative singular, masculine"
         },
@@ -348,7 +348,7 @@
           "t": "Юля,",
           "lemma": "юля",
           "pos": "name",
-          "stress": null,
+          "stress": "Ю́ля,",
           "gloss": "Yulia",
           "gram": "name, used as address"
         },
@@ -440,7 +440,7 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркадий",
           "gloss": "Arkady",
           "gram": "first name, nominative, used as address"
         },
@@ -448,7 +448,7 @@
           "t": "Аникеев.",
           "lemma": "аникеев",
           "pos": "name",
-          "stress": null,
+          "stress": "А́никеев.",
           "gloss": "Anikeev (Arkady's surname)",
           "gram": "surname"
         }
@@ -478,7 +478,7 @@
           "t": "Аркашка?",
           "lemma": "аркашка",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркашка?",
           "gloss": "Arkasha (familiar)",
           "gram": "familiar form of Аркадий, nominative"
         }
@@ -648,7 +648,7 @@
           "t": "Аникеева.",
           "lemma": "аникеев",
           "pos": "name",
-          "stress": null,
+          "stress": "А́никеева.",
           "gloss": "Anikeev's",
           "gram": "surname, genitive"
         }
@@ -754,7 +754,7 @@
           "t": "Ваня!",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня!",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -810,6 +810,20 @@
     },
     {
       "seg": 20,
+      "trans": "and, but",
+      "words": [
+        {
+          "t": "а",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        }
+      ]
+    },
+    {
+      "seg": 22,
       "trans": "Why are you shouting?",
       "words": [
         {
@@ -847,8 +861,22 @@
       ]
     },
     {
-      "seg": 22,
-      "trans": "Why am I shouting?",
+      "seg": 24,
+      "trans": "what",
+      "words": [
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "what / I / am shouting",
       "words": [
         {
           "t": "Что",
@@ -877,8 +905,22 @@
       ]
     },
     {
-      "seg": 24,
-      "trans": "I want to live a normal life!",
+      "seg": 28,
+      "trans": "am shouting",
+      "words": [
+        {
+          "t": "кричу",
+          "lemma": "кричать",
+          "pos": "verb",
+          "stress": "кричу́",
+          "gloss": "am shouting",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 30,
+      "trans": "I / to live / fine, OK / want",
       "words": [
         {
           "t": "Я",
@@ -915,7 +957,21 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 32,
+      "trans": "fine, OK",
+      "words": [
+        {
+          "t": "нормально",
+          "lemma": "нормально",
+          "pos": "adv",
+          "stress": "норма́льно",
+          "gloss": "fine, OK",
+          "gram": "adverb (predicative)"
+        }
+      ]
+    },
+    {
+      "seg": 34,
       "trans": "And what could I do?",
       "words": [
         {
@@ -961,7 +1017,21 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 36,
+      "trans": "can, to be able",
+      "words": [
+        {
+          "t": "мог",
+          "lemma": "мочь",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "can, to be able",
+          "gram": "past m sg"
+        }
+      ]
+    },
+    {
+      "seg": 38,
       "trans": "You should have got a receipt from him.",
       "words": [
         {
@@ -1015,7 +1085,43 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 40,
+      "trans": "it is necessary / was",
+      "words": [
+        {
+          "t": "Надо",
+          "lemma": "надо",
+          "pos": "adv",
+          "stress": "на́до",
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
+        },
+        {
+          "t": "было",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бы́ло",
+          "gloss": "was",
+          "gram": "past, neuter singular (agrees with детство)"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "a receipt",
+      "words": [
+        {
+          "t": "расписку",
+          "lemma": "расписка",
+          "pos": "noun",
+          "stress": "распи́ску",
+          "gloss": "a receipt",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 44,
       "trans": "A receipt? From the mayor?",
       "words": [
         {
@@ -1045,7 +1151,35 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 46,
+      "trans": "oh, come on",
+      "words": [
+        {
+          "t": "У",
+          "lemma": "ну",
+          "pos": "part",
+          "stress": null,
+          "gloss": "oh, come on",
+          "gram": "particle of impatience"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "the mayor",
+      "words": [
+        {
+          "t": "мэра",
+          "lemma": "мэр",
+          "pos": "noun",
+          "stress": "мэ́ра",
+          "gloss": "the mayor",
+          "gram": "genitive singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 50,
       "trans": "Yes! Even a child knows.",
       "words": [
         {
@@ -1068,7 +1202,7 @@
           "t": "ребёнок",
           "lemma": "ребёнок",
           "pos": "noun",
-          "stress": null,
+          "stress": "ре́бёнок",
           "gloss": "a child",
           "gram": "nominative singular, masculine"
         },
@@ -1083,14 +1217,36 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 52,
+      "trans": "even / a child",
+      "words": [
+        {
+          "t": "Даже",
+          "lemma": "даже",
+          "pos": "part",
+          "stress": "да́же",
+          "gloss": "even",
+          "gram": "particle"
+        },
+        {
+          "t": "ребёнок",
+          "lemma": "ребёнок",
+          "pos": "noun",
+          "stress": "ре́бёнок",
+          "gloss": "a child",
+          "gram": "nominative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 54,
       "trans": "Yulia, go and do your homework!",
       "words": [
         {
           "t": "Юля,",
           "lemma": "юля",
           "pos": "name",
-          "stress": null,
+          "stress": "Ю́ля,",
           "gloss": "Yulia",
           "gram": "name, used as address"
         },
@@ -1121,7 +1277,35 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 56,
+      "trans": "go",
+      "words": [
+        {
+          "t": "иди",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "иди́",
+          "gloss": "go",
+          "gram": "imperative, 2nd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "learn, do (homework)",
+      "words": [
+        {
+          "t": "учи",
+          "lemma": "учить",
+          "pos": "verb",
+          "stress": "учи́",
+          "gloss": "learn, do (homework)",
+          "gram": "imperative, 2nd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 60,
       "trans": "Oh, look! The news.",
       "words": [
         {
@@ -1151,7 +1335,21 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 62,
+      "trans": "the news",
+      "words": [
+        {
+          "t": "Новости",
+          "lemma": "новость",
+          "pos": "noun",
+          "stress": "но́вости",
+          "gloss": "the news",
+          "gram": "nominative plural"
+        }
+      ]
+    },
+    {
+      "seg": 64,
       "trans": "The town's mayor, Arkady Anikeev, has been detained.",
       "words": [
         {
@@ -1182,7 +1380,7 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркадий",
           "gloss": "Arkady",
           "gram": "first name, nominative, used as address"
         },
@@ -1190,14 +1388,28 @@
           "t": "Аникеев.",
           "lemma": "аникеев",
           "pos": "name",
-          "stress": null,
+          "stress": "А́никеев.",
           "gloss": "Anikeev (Arkady's surname)",
           "gram": "surname"
         }
       ]
     },
     {
-      "seg": 40,
+      "seg": 66,
+      "trans": "has been detained",
+      "words": [
+        {
+          "t": "Задержан",
+          "lemma": "задержать",
+          "pos": "verb",
+          "stress": "заде́ржан",
+          "gloss": "has been detained",
+          "gram": "short passive participle, masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 68,
       "trans": "What? Our Arkasha?",
       "words": [
         {
@@ -1220,14 +1432,28 @@
           "t": "Аркашка?",
           "lemma": "аркашка",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркашка?",
           "gloss": "Arkasha (familiar)",
           "gram": "familiar form of Аркадий, nominative"
         }
       ]
     },
     {
-      "seg": 42,
+      "seg": 70,
+      "trans": "our",
+      "words": [
+        {
+          "t": "Наш",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": null,
+          "gloss": "our",
+          "gram": "accusative masculine singular, inanimate"
+        }
+      ]
+    },
+    {
+      "seg": 72,
       "trans": "The court has decided: house arrest at his registered address.",
       "words": [
         {
@@ -1289,7 +1515,37 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 74,
+      "trans": "about; along; by; according to / place / of registration",
+      "words": [
+        {
+          "t": "по",
+          "lemma": "по",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "about; along; by; according to",
+          "gram": "preposition with dative"
+        },
+        {
+          "t": "месту",
+          "lemma": "место",
+          "pos": "noun",
+          "stress": "ме́сту",
+          "gloss": "place",
+          "gram": "dative singular"
+        },
+        {
+          "t": "прописки",
+          "lemma": "прописка",
+          "pos": "noun",
+          "stress": "пропи́ски",
+          "gloss": "of registration",
+          "gram": "genitive singular"
+        }
+      ]
+    },
+    {
+      "seg": 76,
       "trans": "At his registered address? But that's here, at our place!",
       "words": [
         {
@@ -1359,7 +1615,43 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 78,
+      "trans": "even",
+      "words": [
+        {
+          "t": "же",
+          "lemma": "даже",
+          "pos": "part",
+          "stress": "да́же",
+          "gloss": "even",
+          "gram": "particle"
+        }
+      ]
+    },
+    {
+      "seg": 80,
+      "trans": "at, near, with / us",
+      "words": [
+        {
+          "t": "у",
+          "lemma": "у",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "нас",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "us",
+          "gram": "1st person plural, genitive"
+        }
+      ]
+    },
+    {
+      "seg": 82,
       "trans": "The new mayor is Anikeev's deputy.",
       "words": [
         {
@@ -1390,14 +1682,36 @@
           "t": "Аникеева.",
           "lemma": "аникеев",
           "pos": "name",
-          "stress": null,
+          "stress": "А́никеева.",
           "gloss": "Anikeev's",
           "gram": "surname, genitive"
         }
       ]
     },
     {
-      "seg": 48,
+      "seg": 84,
+      "trans": "new / mayor",
+      "words": [
+        {
+          "t": "Новый",
+          "lemma": "новый",
+          "pos": "adj",
+          "stress": "но́вый",
+          "gloss": "new",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "мэр",
+          "lemma": "мэр",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "mayor",
+          "gram": "nominative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 86,
       "trans": "Well, that's news!",
       "words": [
         {
@@ -1427,7 +1741,29 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 88,
+      "trans": "there, here / this",
+      "words": [
+        {
+          "t": "Вот",
+          "lemma": "вот",
+          "pos": "part",
+          "stress": null,
+          "gloss": "there, here",
+          "gram": "pointing particle"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 90,
       "trans": "No job, and no mayor either.",
       "words": [
         {
@@ -1481,7 +1817,35 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 92,
+      "trans": "no",
+      "words": [
+        {
+          "t": "нет",
+          "lemma": "нет",
+          "pos": "part",
+          "stress": null,
+          "gloss": "no",
+          "gram": "negative answer"
+        }
+      ]
+    },
+    {
+      "seg": 94,
+      "trans": "are shouting",
+      "words": [
+        {
+          "t": "И",
+          "lemma": "кричать",
+          "pos": "verb",
+          "stress": "кричи́шь",
+          "gloss": "are shouting",
+          "gram": "present, 2nd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 96,
       "trans": "Oh, Vanya! You did everything, and there's no job.",
       "words": [
         {
@@ -1496,7 +1860,7 @@
           "t": "Ваня!",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня!",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -1551,7 +1915,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 97,
       "trans": "Why are you shouting?",
       "words": [
         {
@@ -1589,7 +1953,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 98,
       "trans": "Why am I shouting? I want to live a normal life!",
       "words": [
         {
@@ -1651,7 +2015,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 99,
       "trans": "And what could I do?",
       "words": [
         {
@@ -1697,7 +2061,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 100,
       "trans": "You should have got a receipt from him.",
       "words": [
         {
@@ -1751,7 +2115,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 101,
       "trans": "A receipt? From the mayor?",
       "words": [
         {
@@ -1781,7 +2145,7 @@
       ]
     },
     {
-      "seg": 58,
+      "seg": 102,
       "trans": "Yes! Even a child knows.",
       "words": [
         {
@@ -1804,7 +2168,7 @@
           "t": "ребёнок",
           "lemma": "ребёнок",
           "pos": "noun",
-          "stress": null,
+          "stress": "ре́бёнок",
           "gloss": "a child",
           "gram": "nominative singular, masculine"
         },
@@ -1819,14 +2183,14 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 103,
       "trans": "Yulia, go and do your homework!",
       "words": [
         {
           "t": "Юля,",
           "lemma": "юля",
           "pos": "name",
-          "stress": null,
+          "stress": "Ю́ля,",
           "gloss": "Yulia",
           "gram": "name, used as address"
         },
@@ -1857,7 +2221,7 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 104,
       "trans": "Oh, look! The news.",
       "words": [
         {
@@ -1887,7 +2251,7 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 105,
       "trans": "The town's mayor, Arkady Anikeev, has been detained.",
       "words": [
         {
@@ -1918,7 +2282,7 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркадий",
           "gloss": "Arkady",
           "gram": "first name, nominative, used as address"
         },
@@ -1926,14 +2290,14 @@
           "t": "Аникеев.",
           "lemma": "аникеев",
           "pos": "name",
-          "stress": null,
+          "stress": "А́никеев.",
           "gloss": "Anikeev (Arkady's surname)",
           "gram": "surname"
         }
       ]
     },
     {
-      "seg": 62,
+      "seg": 106,
       "trans": "What? Our Arkasha?",
       "words": [
         {
@@ -1956,14 +2320,14 @@
           "t": "Аркашка?",
           "lemma": "аркашка",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркашка?",
           "gloss": "Arkasha (familiar)",
           "gram": "familiar form of Аркадий, nominative"
         }
       ]
     },
     {
-      "seg": 63,
+      "seg": 107,
       "trans": "The court has decided: house arrest at his registered address.",
       "words": [
         {
@@ -2025,7 +2389,7 @@
       ]
     },
     {
-      "seg": 64,
+      "seg": 108,
       "trans": "At his registered address? But that's here, at our place!",
       "words": [
         {
@@ -2095,7 +2459,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 109,
       "trans": "The new mayor is Anikeev's deputy.",
       "words": [
         {
@@ -2126,14 +2490,14 @@
           "t": "Аникеева.",
           "lemma": "аникеев",
           "pos": "name",
-          "stress": null,
+          "stress": "А́никеева.",
           "gloss": "Anikeev's",
           "gram": "surname, genitive"
         }
       ]
     },
     {
-      "seg": 66,
+      "seg": 110,
       "trans": "Well, that's news!",
       "words": [
         {
@@ -2163,7 +2527,7 @@
       ]
     },
     {
-      "seg": 67,
+      "seg": 111,
       "trans": "No job, and no mayor either.",
       "words": [
         {
@@ -2217,7 +2581,7 @@
       ]
     },
     {
-      "seg": 69,
+      "seg": 113,
       "trans": "Bye!",
       "words": [
         {

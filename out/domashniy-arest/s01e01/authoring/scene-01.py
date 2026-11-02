@@ -34,22 +34,114 @@ STORY = [
     ('arkady', 'Нельзя? Ладно, пойду учить уроки.', 'Dialogue line.', [(66, 'Уроки')], ''),
 ]
 WALK = [
-    (0, None, "'Hi, Dad!' \"Privet\" is the casual hello you use with family and friends. Dad has something to show him."),
-    (1, 'Смотри, что у меня есть.', "'Look what I've got.' Literally, 'look, what is at me'. That's how you say you have something: at me there is. The first thing out of the suitcase is a big one."),
-    (2, None, "'Wow, a tape recorder! A Japanese one!' \"Magnitofon\" was a real treasure in the Soviet nineteen eighties, and \"ogo\" is the cry of 'wow!'. Little Arkady is watching from the doorway, and he greets the father politely."),
-    (3, 'Здравствуйте!', "'Hello!' \"Zdravstvuyte\" is the long, polite hello a child uses with a grown-up; it literally wishes the other person good health. Then he asks a question a neighbour asked."),
-    (3, 'Как там в Венгрии?', "'How was it there in Hungary?' Literally, 'how is it there, in Hungary'. After \"v\" ('in'), \"Vengriya\" shifts its ending to \"Vengrii\". The father keeps it short."),
-    (4, None, "'Good! Everything's fine over there.' \"Normalno\" sounds a lot like 'normal', and Russians use it constantly for 'fine' or 'all good'. Vanya only cares about one thing."),
-    (5, None, "'Dad, did you bring any gum?' Russian needs no helper like 'did' here: rising intonation turns \"ty privyoz\" straight into a question, and \"privyoz\" is the male speaker's form. Dad likes to tease."),
-    (6, None, "'Gum? I didn't have enough money.' In Russian, \"dengi\" ('money') is always treated like 'funds', and \"ne khvatilo\" literally says 'it didn't suffice'. Vanya is not having it."),
-    (7, None, "'Oh, come on, Dad!' Tiny \"nu\" at the front does all the pleading work of 'oh, come on'. So Dad gives in."),
-    (8, 'Ладно, держи.', "'All right, here you go.' \"Derzhi\" literally means 'hold', and Russians say it whenever they hand something over. Then he points."),
-    (8, 'Вот, смотри.', "'There, look.' \"Vot\" is the pointing word Russians use as they show or hand you something, paired with \"smotri\" ('look'). Vanya can't believe his luck."),
-    (9, None, "'So much gum! Cool!' \"Klass\" literally means 'class', and kids shout it for 'cool!' or 'awesome!'. There's one more present."),
-    (10, None, "'And this is for you. A toy car!' \"Mashinka\" is built from \"mashina\" ('car') with a little '-ka' ending that shrinks it into a toy car. Vanya remembers his manners."),
-    (11, None, "'Thanks, Dad!' \"Spasibo\" is the everyday Russian 'thank you', historically shortened from 'may God save you'. Then Dad gives an instruction."),
-    (12, None, "'Share it all equally with everyone, understand?' \"Porovnu\" means 'in equal shares', and \"ponyal\" at the end asks 'got it?'. Vanya promises."),
-    (13, None, "'Got it.' Repeating \"ponyal\" by itself turns 'did you understand?' straight into 'understood'. Keep an eye on that promise, because Arkady has a question too."),
-    (14, None, "'Can I go and have a look?' \"Mozhno\" up front asks 'is it allowed?', followed by \"poydu posmotryu\" — literally 'I'll go, I'll look' side by side. An adult in his room says no."),
-    (15, None, "'Not allowed? All right, I'll go and do my homework.' \"Nelzya\" means 'not allowed', the exact opposite of \"mozhno\", and doing homework in Russian is literally \"uchit uroki\" — 'to learn lessons'."),
+    (0, None, [
+        "'Hi, Dad!' ",
+        ('samson', 'Привет'),
+        " is the casual word for hello you use with family and friends. Dad has something to show him."
+    ]),
+    (1, 'Смотри, что у меня есть.', [
+        "'Look what I've got.' The phrase ",
+        ('father', 'у меня есть'),
+        " literally translates to 'at me there is'. That's how you say you have something. The first thing out of the suitcase is a big one."
+    ]),
+    (2, None, [
+        "'Wow, a tape recorder! A Japanese one!' the term for tape recorder, ",
+        ('samson', 'магнитофон'),
+        ", was a real treasure in the Soviet nineteen eighties, and ",
+        ('samson', 'ого'),
+        " is the cry of 'wow!'. Little Arkady is watching from the doorway, and he greets the father politely."
+    ]),
+    (3, 'Здравствуйте!', [
+        "'Hello!' ",
+        ('arkady', 'Здравствуйте'),
+        " is the long, polite word for hello a child uses with a grown-up; it literally translates to wishing the other person good health. Then he asks a question a neighbour asked."
+    ]),
+    (3, 'Как там в Венгрии?', [
+        "'How was it there in Hungary?' Literally translates to 'how is it there, in Hungary'. After the little word ",
+        ('arkady', 'в'),
+        ", meaning 'in', the expression for Hungary, ",
+        ('arkady', 'Венгрии'),
+        ", shifts its last sound to ",
+        ('arkady', 'Венгрии'),
+        ". The father keeps it short."
+    ]),
+    (4, None, [
+        "'Good! Everything's fine over there.' which translates to fine, ",
+        ('father', 'нормально'),
+        ", sounds a lot like 'normal', and Russians use it constantly for 'fine' or 'all good'. Vanya only cares about one thing."
+    ]),
+    (5, None, [
+        "'Dad, did you bring any gum?' Russian needs no helper word like 'did' here: a rising voice turns ",
+        ('samson', 'ты привёз'),
+        " straight into a question, and ",
+        ('samson', 'привёз'),
+        " is the action word used by a male speaker. Dad likes to tease."
+    ]),
+    (6, None, [
+        "'Gum? I didn't have enough money.' In Russian, meaning money, ",
+        ('father', 'Денег'),
+        ", is always treated like 'funds', and ",
+        ('father', 'не хватило'),
+        " literally translates to 'it didn't suffice'. Vanya is not having it."
+    ]),
+    (7, None, [
+        "'Oh, come on, Dad!' The tiny word ",
+        ('samson', 'ну'),
+        " at the front does all the pleading work of 'oh, come on'. So Dad gives in."
+    ]),
+    (8, 'Ладно, держи.', [
+        "'All right, here you go.' the Russian word ",
+        ('father', 'держи'),
+        " literally translates to 'hold', and Russians say it whenever they hand something over. Then he points."
+    ]),
+    (8, 'Вот, смотри.', [
+        "'There, look.' ",
+        ('father', 'Вот'),
+        " is the pointing word Russians use as they show or hand you something, paired with the action word ",
+        ('father', 'смотри'),
+        ", which translates to 'look'. Vanya can't believe his luck."
+    ]),
+    (9, None, [
+        "'So much gum! Cool!' the term ",
+        ('samson', 'класс'),
+        " literally translates to 'class', and kids shout it for 'cool!' or 'awesome!'. There's one more present."
+    ]),
+    (10, None, [
+        "'And this is for you. A toy car!' the term for toy car, ",
+        ('father', 'машинка'),
+        ", is built from ",
+        ('father', 'Машинка'),
+        ", meaning 'car', with a little '-ka' sound at the end that shrinks it into a toy car. Vanya remembers his manners."
+    ]),
+    (11, None, [
+        "'Thanks, Dad!' the Russian word ",
+        ('samson', 'спасибо'),
+        " is the everyday Russian word for 'thank you', historically shortened from 'may God save you'. Then Dad gives an instruction."
+    ]),
+    (12, None, [
+        "'Share it all equally with everyone, understand?' the term ",
+        ('father', 'поровну'),
+        " translates to 'in equal shares', and ",
+        ('father', 'понял'),
+        " at the end asks 'got it?'. Vanya promises."
+    ]),
+    (13, None, [
+        "'Got it.' Repeating the term ",
+        ('samson', 'понял'),
+        " by itself turns 'did you understand?' straight into 'understood'. Keep an eye on that promise, because Arkady has a question too."
+    ]),
+    (14, None, [
+        "'Can I go and have a look?' the expression ",
+        ('arkady', 'можно'),
+        " up front asks 'is it allowed?', followed by the action words ",
+        ('arkady', 'пойду посмотрю'),
+        " — which literally translates to 'I'll go, I'll look' side by side. An adult in his room says no."
+    ]),
+    (15, None, [
+        "'Not allowed? All right, I'll go and do my homework.' the Russian word ",
+        ('arkady', 'Нельзя'),
+        " translates to 'not allowed', the exact opposite of allowed, and doing homework in Russian is literally ",
+        ('arkady', 'учить уроки'),
+        " — which translates to 'to learn lessons'."
+    ]),
 ]

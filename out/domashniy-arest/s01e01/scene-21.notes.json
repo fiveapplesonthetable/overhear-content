@@ -10,7 +10,7 @@
           "t": "Паша,",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша,",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -96,7 +96,7 @@
           "t": "Аракеляном.",
           "lemma": "аракелян",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ракеляном.",
           "gloss": "Arakelyan",
           "gram": "surname, instrumental singular (after 'с')"
         },
@@ -120,7 +120,7 @@
           "t": "заберёт",
           "lemma": "забрать",
           "pos": "verb",
-          "stress": null,
+          "stress": "за́берёт",
           "gloss": "will take back, withdraw",
           "gram": "future, 3rd person singular, perfective"
         },
@@ -150,7 +150,7 @@
           "t": "заберёт",
           "lemma": "забрать",
           "pos": "verb",
-          "stress": null,
+          "stress": "за́берёт",
           "gloss": "will take back, withdraw",
           "gram": "future, 3rd person singular, perfective"
         },
@@ -174,7 +174,7 @@
           "t": "Аркаша.",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша.",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         }
@@ -336,7 +336,7 @@
           "t": "Паша?",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша?",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         }
@@ -578,7 +578,7 @@
           "t": "жёстким.",
           "lemma": "жёсткий",
           "pos": "adj",
-          "stress": null,
+          "stress": "жё́стким.",
           "gloss": "tough",
           "gram": "instrumental singular, masculine (after 'быть')"
         }
@@ -608,7 +608,7 @@
           "t": "Вика?",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка?",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -754,7 +754,7 @@
           "t": "ещё",
           "lemma": "ещё",
           "pos": "adv",
-          "stress": null,
+          "stress": "е́щё",
           "gloss": "more, still",
           "gram": "adverb"
         },
@@ -916,7 +916,7 @@
           "t": "Вика",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -946,7 +946,7 @@
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша,",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         },
@@ -992,7 +992,7 @@
           "t": "Паша,",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша,",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -1056,7 +1056,21 @@
     },
     {
       "seg": 21,
-      "trans": "Talk to Arakelyan.",
+      "trans": "and, but",
+      "words": [
+        {
+          "t": "а",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        }
+      ]
+    },
+    {
+      "seg": 23,
+      "trans": "talk / with / from / Arakelyan",
       "words": [
         {
           "t": "Поговори",
@@ -1078,15 +1092,29 @@
           "t": "Аракеляном.",
           "lemma": "аракелян",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ракеляном.",
           "gloss": "Arakelyan",
           "gram": "surname, instrumental singular (after 'с')"
         }
       ]
     },
     {
-      "seg": 23,
-      "trans": "Get him to withdraw his statement.",
+      "seg": 25,
+      "trans": "listen",
+      "words": [
+        {
+          "t": "с",
+          "lemma": "слушать",
+          "pos": "verb",
+          "stress": "слу́шай",
+          "gloss": "listen",
+          "gram": "imperative, 2nd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 27,
+      "trans": "let (him) / he / will take back, withdraw / statement",
       "words": [
         {
           "t": "Пусть",
@@ -1108,7 +1136,7 @@
           "t": "заберёт",
           "lemma": "забрать",
           "pos": "verb",
-          "stress": null,
+          "stress": "за́берёт",
           "gloss": "will take back, withdraw",
           "gram": "future, 3rd person singular, perfective"
         },
@@ -1123,7 +1151,21 @@
       ]
     },
     {
-      "seg": 25,
+      "seg": 29,
+      "trans": "let (him)",
+      "words": [
+        {
+          "t": "Пусть",
+          "lemma": "пусть",
+          "pos": "part",
+          "stress": null,
+          "gloss": "let (him)",
+          "gram": "particle"
+        }
+      ]
+    },
+    {
+      "seg": 31,
       "trans": "He won't withdraw the statement, Arkasha.",
       "words": [
         {
@@ -1138,7 +1180,7 @@
           "t": "заберёт",
           "lemma": "забрать",
           "pos": "verb",
-          "stress": null,
+          "stress": "за́берёт",
           "gloss": "will take back, withdraw",
           "gram": "future, 3rd person singular, perfective"
         },
@@ -1162,14 +1204,14 @@
           "t": "Аркаша.",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша.",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         }
       ]
     },
     {
-      "seg": 27,
+      "seg": 33,
       "trans": "Then make sure he does.",
       "words": [
         {
@@ -1215,8 +1257,8 @@
       ]
     },
     {
-      "seg": 29,
-      "trans": "And why would I?",
+      "seg": 35,
+      "trans": "and, but / what for",
       "words": [
         {
           "t": "А",
@@ -1237,8 +1279,8 @@
       ]
     },
     {
-      "seg": 31,
-      "trans": "I'm the one who made him write it.",
+      "seg": 37,
+      "trans": "I / myself, yourself, himself (emphatic) / did / so / so that / he / him / wrote",
       "words": [
         {
           "t": "Я",
@@ -1307,7 +1349,21 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 39,
+      "trans": "myself, yourself, himself (emphatic)",
+      "words": [
+        {
+          "t": "сам",
+          "lemma": "сам",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "myself, yourself, himself (emphatic)",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 41,
       "trans": "What do you mean, Pasha?",
       "words": [
         {
@@ -1330,15 +1386,15 @@
           "t": "Паша?",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша?",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         }
       ]
     },
     {
-      "seg": 35,
-      "trans": "I told you this morning: don't rush.",
+      "seg": 43,
+      "trans": "I / for you, to you / this morning / said, were saying / not / rush",
       "words": [
         {
           "t": "Я",
@@ -1391,8 +1447,22 @@
       ]
     },
     {
-      "seg": 37,
-      "trans": "It's a very important question.",
+      "seg": 45,
+      "trans": "this morning",
+      "words": [
+        {
+          "t": "утром",
+          "lemma": "утром",
+          "pos": "adv",
+          "stress": "у́тром",
+          "gloss": "this morning",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "this / very much / important / question, matter",
       "words": [
         {
           "t": "Это",
@@ -1429,7 +1499,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 49,
       "trans": "Everyone in town wants this cluster. Only you are against it.",
       "words": [
         {
@@ -1507,7 +1577,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 51,
       "trans": "You've become too sentimental. And a leader has to be tough.",
       "words": [
         {
@@ -1578,14 +1648,28 @@
           "t": "жёстким.",
           "lemma": "жёсткий",
           "pos": "adj",
-          "stress": null,
+          "stress": "жё́стким.",
           "gloss": "tough",
           "gram": "instrumental singular, masculine (after 'быть')"
         }
       ]
     },
     {
-      "seg": 43,
+      "seg": 53,
+      "trans": "has to, must",
+      "words": [
+        {
+          "t": "должен",
+          "lemma": "должен",
+          "pos": "adj",
+          "stress": "до́лжен",
+          "gloss": "has to, must",
+          "gram": "short form, masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 55,
       "trans": "Did you get that, Vika? He has cheated us.",
       "words": [
         {
@@ -1608,7 +1692,7 @@
           "t": "Вика?",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка?",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -1639,7 +1723,21 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 57,
+      "trans": "understood",
+      "words": [
+        {
+          "t": "поняла",
+          "lemma": "понять",
+          "pos": "verb",
+          "stress": "поняла́",
+          "gloss": "understood",
+          "gram": "past, feminine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 59,
       "trans": "Easy, easy.",
       "words": [
         {
@@ -1661,7 +1759,21 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 61,
+      "trans": "easy, quiet",
+      "words": [
+        {
+          "t": "Тихо",
+          "lemma": "тихо",
+          "pos": "adv",
+          "stress": "ти́хо",
+          "gloss": "easy, quiet",
+          "gram": "adverb used as a command"
+        }
+      ]
+    },
+    {
+      "seg": 63,
       "trans": "Don't touch me!",
       "words": [
         {
@@ -1691,8 +1803,22 @@
       ]
     },
     {
-      "seg": 49,
-      "trans": "Do you know how much money I have?",
+      "seg": 65,
+      "trans": "not",
+      "words": [
+        {
+          "t": "Не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        }
+      ]
+    },
+    {
+      "seg": 67,
+      "trans": "you / know / how much, so much / at, near, with / me / money",
       "words": [
         {
           "t": "Ты",
@@ -1745,8 +1871,8 @@
       ]
     },
     {
-      "seg": 51,
-      "trans": "You'll be sorry!",
+      "seg": 69,
+      "trans": "you / more, still / (you'll) regret",
       "words": [
         {
           "t": "Ты",
@@ -1760,7 +1886,7 @@
           "t": "ещё",
           "lemma": "ещё",
           "pos": "adv",
-          "stress": null,
+          "stress": "е́щё",
           "gloss": "more, still",
           "gram": "adverb"
         },
@@ -1775,7 +1901,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 71,
       "trans": "But you don't have any money.",
       "words": [
         {
@@ -1829,7 +1955,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 73,
       "trans": "All the money is your wife's.",
       "words": [
         {
@@ -1875,7 +2001,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 75,
       "trans": "So what? What difference does it make? Vika is my wife.",
       "words": [
         {
@@ -1922,7 +2048,7 @@
           "t": "Вика",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -1945,14 +2071,14 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 77,
       "trans": "Arkasha, there's something I have to tell you...",
       "words": [
         {
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша,",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         },
@@ -1991,14 +2117,28 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 79,
+      "trans": "should, must",
+      "words": [
+        {
+          "t": "должна",
+          "lemma": "должен",
+          "pos": "adj",
+          "stress": "должна́",
+          "gloss": "should, must",
+          "gram": "short form, feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 81,
       "trans": "Pasha, listen. They weren't local police, they were from Moscow.",
       "words": [
         {
           "t": "Паша,",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша,",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -2061,7 +2201,7 @@
       ]
     },
     {
-      "seg": 62,
+      "seg": 82,
       "trans": "Talk to Arakelyan. Get him to withdraw his statement.",
       "words": [
         {
@@ -2084,7 +2224,7 @@
           "t": "Аракеляном.",
           "lemma": "аракелян",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ракеляном.",
           "gloss": "Arakelyan",
           "gram": "surname, instrumental singular (after 'с')"
         },
@@ -2108,7 +2248,7 @@
           "t": "заберёт",
           "lemma": "забрать",
           "pos": "verb",
-          "stress": null,
+          "stress": "за́берёт",
           "gloss": "will take back, withdraw",
           "gram": "future, 3rd person singular, perfective"
         },
@@ -2123,7 +2263,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 83,
       "trans": "He won't withdraw the statement, Arkasha.",
       "words": [
         {
@@ -2138,7 +2278,7 @@
           "t": "заберёт",
           "lemma": "забрать",
           "pos": "verb",
-          "stress": null,
+          "stress": "за́берёт",
           "gloss": "will take back, withdraw",
           "gram": "future, 3rd person singular, perfective"
         },
@@ -2162,14 +2302,14 @@
           "t": "Аркаша.",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша.",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         }
       ]
     },
     {
-      "seg": 64,
+      "seg": 84,
       "trans": "Then make sure he does.",
       "words": [
         {
@@ -2215,7 +2355,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 85,
       "trans": "And why would I? I'm the one who made him write it.",
       "words": [
         {
@@ -2301,7 +2441,7 @@
       ]
     },
     {
-      "seg": 66,
+      "seg": 86,
       "trans": "What do you mean, Pasha?",
       "words": [
         {
@@ -2324,14 +2464,14 @@
           "t": "Паша?",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша?",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         }
       ]
     },
     {
-      "seg": 67,
+      "seg": 87,
       "trans": "I told you this morning: don't rush. It's a very important question.",
       "words": [
         {
@@ -2417,7 +2557,7 @@
       ]
     },
     {
-      "seg": 68,
+      "seg": 88,
       "trans": "Everyone in town wants this cluster. Only you are against it.",
       "words": [
         {
@@ -2495,7 +2635,7 @@
       ]
     },
     {
-      "seg": 69,
+      "seg": 89,
       "trans": "You've become too sentimental. And a leader has to be tough.",
       "words": [
         {
@@ -2566,14 +2706,14 @@
           "t": "жёстким.",
           "lemma": "жёсткий",
           "pos": "adj",
-          "stress": null,
+          "stress": "жё́стким.",
           "gloss": "tough",
           "gram": "instrumental singular, masculine (after 'быть')"
         }
       ]
     },
     {
-      "seg": 70,
+      "seg": 90,
       "trans": "Did you get that, Vika? He has cheated us.",
       "words": [
         {
@@ -2596,7 +2736,7 @@
           "t": "Вика?",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка?",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -2627,7 +2767,7 @@
       ]
     },
     {
-      "seg": 71,
+      "seg": 91,
       "trans": "Easy, easy.",
       "words": [
         {
@@ -2649,7 +2789,7 @@
       ]
     },
     {
-      "seg": 72,
+      "seg": 92,
       "trans": "Don't touch me!",
       "words": [
         {
@@ -2679,7 +2819,7 @@
       ]
     },
     {
-      "seg": 73,
+      "seg": 93,
       "trans": "Do you know how much money I have? You'll be sorry!",
       "words": [
         {
@@ -2742,7 +2882,7 @@
           "t": "ещё",
           "lemma": "ещё",
           "pos": "adv",
-          "stress": null,
+          "stress": "е́щё",
           "gloss": "more, still",
           "gram": "adverb"
         },
@@ -2757,7 +2897,7 @@
       ]
     },
     {
-      "seg": 74,
+      "seg": 94,
       "trans": "But you don't have any money.",
       "words": [
         {
@@ -2811,7 +2951,7 @@
       ]
     },
     {
-      "seg": 75,
+      "seg": 95,
       "trans": "All the money is your wife's.",
       "words": [
         {
@@ -2857,7 +2997,7 @@
       ]
     },
     {
-      "seg": 76,
+      "seg": 96,
       "trans": "So what? What difference does it make? Vika is my wife.",
       "words": [
         {
@@ -2904,7 +3044,7 @@
           "t": "Вика",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -2927,14 +3067,14 @@
       ]
     },
     {
-      "seg": 77,
+      "seg": 97,
       "trans": "Arkasha, there's something I have to tell you...",
       "words": [
         {
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша,",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         },
@@ -2973,7 +3113,7 @@
       ]
     },
     {
-      "seg": 79,
+      "seg": 99,
       "trans": "That's it. Goodbye!",
       "words": [
         {

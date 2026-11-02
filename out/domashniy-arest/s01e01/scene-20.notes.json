@@ -10,7 +10,7 @@
           "t": "Вика,",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка,",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -18,7 +18,7 @@
           "t": "Паша!",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша!",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -172,7 +172,7 @@
           "t": "Паша,",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша,",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -204,7 +204,7 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -274,7 +274,7 @@
           "t": "Виктория.",
           "lemma": "виктория",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ктория.",
           "gloss": "Victoria",
           "gram": "full first name"
         }
@@ -288,7 +288,7 @@
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша,",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         },
@@ -380,7 +380,7 @@
           "t": "Вика,",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка,",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -450,7 +450,7 @@
           "t": "Кайене.",
           "lemma": "кайен",
           "pos": "name",
-          "stress": null,
+          "stress": "Ка́йене.",
           "gloss": "the Cayenne (a Porsche)",
           "gram": "car model, prepositional singular, masculine"
         }
@@ -510,7 +510,7 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -534,7 +534,7 @@
           "t": "твоё.",
           "lemma": "твой",
           "pos": "det",
-          "stress": null,
+          "stress": "тво́ё.",
           "gloss": "yours",
           "gram": "nominative singular, neuter"
         },
@@ -732,7 +732,7 @@
           "t": "Нина,",
           "lemma": "нина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ни́на,",
           "gloss": "Nina",
           "gram": "used as address"
         },
@@ -748,7 +748,7 @@
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": null,
+          "stress": "по́йдём",
           "gloss": "let's go",
           "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
@@ -802,13 +802,13 @@
     },
     {
       "seg": 19,
-      "trans": "Vika, Pasha!",
+      "trans": "Vika / Pasha",
       "words": [
         {
           "t": "Вика,",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка,",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -816,7 +816,7 @@
           "t": "Паша!",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша!",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         }
@@ -824,7 +824,7 @@
     },
     {
       "seg": 21,
-      "trans": "I'm so glad.",
+      "trans": "how / I / glad",
       "words": [
         {
           "t": "Как",
@@ -854,7 +854,21 @@
     },
     {
       "seg": 23,
-      "trans": "Come in, please.",
+      "trans": "glad",
+      "words": [
+        {
+          "t": "рад,",
+          "lemma": "рад",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "glad",
+          "gram": "short form, masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 25,
+      "trans": "come in / please",
       "words": [
         {
           "t": "Проходите,",
@@ -875,7 +889,21 @@
       ]
     },
     {
-      "seg": 25,
+      "seg": 27,
+      "trans": "come in",
+      "words": [
+        {
+          "t": "Проходите,",
+          "lemma": "проходить",
+          "pos": "verb",
+          "stress": "проходи́те",
+          "gloss": "come in",
+          "gram": "imperative, plural/polite, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 29,
       "trans": "I've brought you your things.",
       "words": [
         {
@@ -913,7 +941,21 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 31,
+      "trans": "brought (she, by car)",
+      "words": [
+        {
+          "t": "привезла,",
+          "lemma": "привезти",
+          "pos": "verb",
+          "stress": "привезла́",
+          "gloss": "brought (she, by car)",
+          "gram": "past, feminine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 33,
       "trans": "Very good. Well then, let's introduce everyone.",
       "words": [
         {
@@ -967,8 +1009,30 @@
       ]
     },
     {
-      "seg": 29,
-      "trans": "This is Pasha, my deputy.",
+      "seg": 35,
+      "trans": "let's (do it) / get acquainted",
+      "words": [
+        {
+          "t": "давайте",
+          "lemma": "давать",
+          "pos": "verb",
+          "stress": "дава́йте",
+          "gloss": "let's (do it)",
+          "gram": "imperative, plural/polite, imperfective; = 'let's'"
+        },
+        {
+          "t": "знакомиться,",
+          "lemma": "знакомиться",
+          "pos": "verb",
+          "stress": "знако́миться",
+          "gloss": "get acquainted",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 37,
+      "trans": "this / Pasha / my / deputy",
       "words": [
         {
           "t": "Это",
@@ -982,7 +1046,7 @@
           "t": "Паша,",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша,",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -1005,8 +1069,22 @@
       ]
     },
     {
-      "seg": 31,
-      "trans": "This is Vanya, my childhood friend.",
+      "seg": 39,
+      "trans": "this",
+      "words": [
+        {
+          "t": "Это,",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "this / Vanya (Ivan) / friend / of my / childhood",
       "words": [
         {
           "t": "Это",
@@ -1020,7 +1098,7 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -1051,7 +1129,37 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 43,
+      "trans": "friend / of my / childhood",
+      "words": [
+        {
+          "t": "друг",
+          "lemma": "друг",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "nominative singular"
+        },
+        {
+          "t": "моего",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": "моего́",
+          "gloss": "of my",
+          "gram": "genitive singular, masculine / neuter"
+        },
+        {
+          "t": "детства,",
+          "lemma": "детство",
+          "pos": "noun",
+          "stress": "де́тства",
+          "gloss": "childhood",
+          "gram": "genitive singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 45,
       "trans": "And this is my wife, Victoria.",
       "words": [
         {
@@ -1090,21 +1198,21 @@
           "t": "Виктория.",
           "lemma": "виктория",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ктория.",
           "gloss": "Victoria",
           "gram": "full first name"
         }
       ]
     },
     {
-      "seg": 35,
+      "seg": 47,
       "trans": "Arkasha, what's happened to your finger?",
       "words": [
         {
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша,",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         },
@@ -1135,7 +1243,37 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 49,
+      "trans": "what / with / from / finger",
+      "words": [
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "с",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "with / from",
+          "gram": "preposition"
+        },
+        {
+          "t": "пальцем?",
+          "lemma": "палец",
+          "pos": "noun",
+          "stress": "па́льцем",
+          "gloss": "finger",
+          "gram": "instrumental singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 51,
       "trans": "Nothing serious. Now we're one team.",
       "words": [
         {
@@ -1189,14 +1327,36 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 53,
+      "trans": "nothing / terrible, serious",
+      "words": [
+        {
+          "t": "Ничего",
+          "lemma": "ничто",
+          "pos": "pron",
+          "stress": "ничего́",
+          "gloss": "nothing",
+          "gram": "genitive (with не); г is said like в"
+        },
+        {
+          "t": "страшного,",
+          "lemma": "страшный",
+          "pos": "adj",
+          "stress": "стра́шного",
+          "gloss": "terrible, serious",
+          "gram": "genitive singular, neuter; 'ничего страшного' = nothing serious"
+        }
+      ]
+    },
+    {
+      "seg": 55,
       "trans": "Vika, which car did you come in today?",
       "words": [
         {
           "t": "Вика,",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка,",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -1251,7 +1411,21 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 57,
+      "trans": "you",
+      "words": [
+        {
+          "t": "ты,",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        }
+      ]
+    },
+    {
+      "seg": 59,
       "trans": "The Cayenne.",
       "words": [
         {
@@ -1266,14 +1440,14 @@
           "t": "Кайене.",
           "lemma": "кайен",
           "pos": "name",
-          "stress": null,
+          "stress": "Ка́йене.",
           "gloss": "the Cayenne (a Porsche)",
           "gram": "car model, prepositional singular, masculine"
         }
       ]
     },
     {
-      "seg": 43,
+      "seg": 61,
       "trans": "The white one? Give me the keys.",
       "words": [
         {
@@ -1319,14 +1493,28 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 63,
+      "trans": "the white (one)",
+      "words": [
+        {
+          "t": "белом,",
+          "lemma": "белый",
+          "pos": "adj",
+          "stress": "бе́лом",
+          "gloss": "the white (one)",
+          "gram": "prepositional singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 65,
       "trans": "Vanya, this is yours now. And it's only the beginning.",
       "words": [
         {
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -1350,7 +1538,7 @@
           "t": "твоё.",
           "lemma": "твой",
           "pos": "det",
-          "stress": null,
+          "stress": "тво́ё.",
           "gloss": "yours",
           "gram": "nominative singular, neuter"
         },
@@ -1389,7 +1577,21 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 67,
+      "trans": "yours",
+      "words": [
+        {
+          "t": "твоё,",
+          "lemma": "твой",
+          "pos": "det",
+          "stress": "тво́ё,",
+          "gloss": "yours",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 69,
       "trans": "What do you mean?",
       "words": [
         {
@@ -1411,7 +1613,29 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 71,
+      "trans": "What do you mean?",
+      "words": [
+        {
+          "t": "В",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "смысле?",
+          "lemma": "смысл",
+          "pos": "noun",
+          "stress": "смы́сле",
+          "gloss": "sense ('what do you mean?')",
+          "gram": "prepositional singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 73,
       "trans": "I'll explain everything later.",
       "words": [
         {
@@ -1449,7 +1673,21 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 75,
+      "trans": "I'll explain",
+      "words": [
+        {
+          "t": "объясню,",
+          "lemma": "объяснить",
+          "pos": "verb",
+          "stress": "объясню́",
+          "gloss": "I'll explain",
+          "gram": "future, 1st person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 77,
       "trans": "So this is our car now?",
       "words": [
         {
@@ -1487,7 +1725,21 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 79,
+      "trans": "our",
+      "words": [
+        {
+          "t": "наша,",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́ша",
+          "gloss": "our",
+          "gram": "possessive, nominative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 81,
       "trans": "Yes. Go downstairs, it's parked there.",
       "words": [
         {
@@ -1541,14 +1793,44 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 83,
+      "trans": "she; it / there / stands, is",
+      "words": [
+        {
+          "t": "она",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": "она́",
+          "gloss": "she; it",
+          "gram": "nominative, feminine"
+        },
+        {
+          "t": "там",
+          "lemma": "там",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "there",
+          "gram": "adverb of place"
+        },
+        {
+          "t": "стоит,",
+          "lemma": "стоять",
+          "pos": "verb",
+          "stress": "стои́т",
+          "gloss": "stands, is",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 85,
       "trans": "Nina, kids, let's go and have a look!",
       "words": [
         {
           "t": "Нина,",
           "lemma": "нина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ни́на,",
           "gloss": "Nina",
           "gram": "used as address"
         },
@@ -1564,7 +1846,7 @@
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": null,
+          "stress": "по́йдём",
           "gloss": "let's go",
           "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
@@ -1579,7 +1861,35 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 87,
+      "trans": "let's go",
+      "words": [
+        {
+          "t": "пойдём,",
+          "lemma": "пойти",
+          "pos": "verb",
+          "stress": "по́йдём,",
+          "gloss": "let's go",
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
+        }
+      ]
+    },
+    {
+      "seg": 89,
+      "trans": "(and) have a look",
+      "words": [
+        {
+          "t": "посмотрим.",
+          "lemma": "посмотреть",
+          "pos": "verb",
+          "stress": "посмо́трим",
+          "gloss": "(and) have a look",
+          "gram": "future, 1st person plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 91,
       "trans": "Yes, go on. Don't mix it up with another one!",
       "words": [
         {
@@ -1617,14 +1927,14 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 93,
       "trans": "Vika, Pasha! I'm so glad. Come in, please.",
       "words": [
         {
           "t": "Вика,",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка,",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -1632,7 +1942,7 @@
           "t": "Паша!",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша!",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -1679,7 +1989,7 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 94,
       "trans": "I've brought you your things.",
       "words": [
         {
@@ -1717,7 +2027,7 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 95,
       "trans": "Very good. Well then, let's introduce everyone.",
       "words": [
         {
@@ -1771,7 +2081,7 @@
       ]
     },
     {
-      "seg": 62,
+      "seg": 96,
       "trans": "This is Pasha, my deputy. This is Vanya, my childhood friend.",
       "words": [
         {
@@ -1786,7 +2096,7 @@
           "t": "Паша,",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша,",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -1818,7 +2128,7 @@
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -1849,7 +2159,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 97,
       "trans": "And this is my wife, Victoria.",
       "words": [
         {
@@ -1888,21 +2198,21 @@
           "t": "Виктория.",
           "lemma": "виктория",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ктория.",
           "gloss": "Victoria",
           "gram": "full first name"
         }
       ]
     },
     {
-      "seg": 64,
+      "seg": 98,
       "trans": "Arkasha, what's happened to your finger?",
       "words": [
         {
           "t": "Аркаша,",
           "lemma": "аркаша",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаша,",
           "gloss": "Arkasha",
           "gram": "affectionate form of Аркадий, used as address"
         },
@@ -1933,7 +2243,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 99,
       "trans": "Nothing serious. Now we're one team.",
       "words": [
         {
@@ -1987,14 +2297,14 @@
       ]
     },
     {
-      "seg": 66,
+      "seg": 100,
       "trans": "Vika, which car did you come in today?",
       "words": [
         {
           "t": "Вика,",
           "lemma": "вика",
           "pos": "name",
-          "stress": null,
+          "stress": "Ви́ка,",
           "gloss": "Vika",
           "gram": "short for Виктория, used as address"
         },
@@ -2049,7 +2359,7 @@
       ]
     },
     {
-      "seg": 67,
+      "seg": 101,
       "trans": "The Cayenne.",
       "words": [
         {
@@ -2064,14 +2374,14 @@
           "t": "Кайене.",
           "lemma": "кайен",
           "pos": "name",
-          "stress": null,
+          "stress": "Ка́йене.",
           "gloss": "the Cayenne (a Porsche)",
           "gram": "car model, prepositional singular, masculine"
         }
       ]
     },
     {
-      "seg": 68,
+      "seg": 102,
       "trans": "The white one? Give me the keys.",
       "words": [
         {
@@ -2117,14 +2427,14 @@
       ]
     },
     {
-      "seg": 69,
+      "seg": 103,
       "trans": "Vanya, this is yours now. And it's only the beginning.",
       "words": [
         {
           "t": "Ваня,",
           "lemma": "ваня",
           "pos": "name",
-          "stress": null,
+          "stress": "Ва́ня,",
           "gloss": "Vanya (Ivan)",
           "gram": "name, used as address"
         },
@@ -2148,7 +2458,7 @@
           "t": "твоё.",
           "lemma": "твой",
           "pos": "det",
-          "stress": null,
+          "stress": "тво́ё.",
           "gloss": "yours",
           "gram": "nominative singular, neuter"
         },
@@ -2187,7 +2497,7 @@
       ]
     },
     {
-      "seg": 70,
+      "seg": 104,
       "trans": "What do you mean?",
       "words": [
         {
@@ -2209,7 +2519,7 @@
       ]
     },
     {
-      "seg": 71,
+      "seg": 105,
       "trans": "I'll explain everything later.",
       "words": [
         {
@@ -2247,7 +2557,7 @@
       ]
     },
     {
-      "seg": 72,
+      "seg": 106,
       "trans": "So this is our car now?",
       "words": [
         {
@@ -2285,7 +2595,7 @@
       ]
     },
     {
-      "seg": 73,
+      "seg": 107,
       "trans": "Yes. Go downstairs, it's parked there.",
       "words": [
         {
@@ -2339,14 +2649,14 @@
       ]
     },
     {
-      "seg": 74,
+      "seg": 108,
       "trans": "Nina, kids, let's go and have a look!",
       "words": [
         {
           "t": "Нина,",
           "lemma": "нина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ни́на,",
           "gloss": "Nina",
           "gram": "used as address"
         },
@@ -2362,7 +2672,7 @@
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": null,
+          "stress": "по́йдём",
           "gloss": "let's go",
           "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
@@ -2377,7 +2687,7 @@
       ]
     },
     {
-      "seg": 75,
+      "seg": 109,
       "trans": "Yes, go on. Don't mix it up with another one!",
       "words": [
         {
@@ -2415,7 +2725,7 @@
       ]
     },
     {
-      "seg": 77,
+      "seg": 111,
       "trans": "Bye!",
       "words": [
         {
