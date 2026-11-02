@@ -21,6 +21,16 @@ NATIVE_SR = 24000
 from plan import cache_key, plausible  # noqa: E402,F401
 
 
+def _local_snapshot(repo_or_path, revision=None):
+    if repo_or_path and Path(str(repo_or_path)).exists():
+        return str(repo_or_path)
+    try:
+        from huggingface_hub import snapshot_download
+        return snapshot_download(repo_or_path, revision=revision, local_files_only=True)
+    except Exception:
+        return repo_or_path
+
+
 class QwenEngine:
     def __init__(self, settings, voices, log=print):
         import torch
@@ -33,7 +43,8 @@ class QwenEngine:
         kw = dict(device_map="cuda:0", dtype=dtype)
         if t.get("attn"):
             kw["attn_implementation"] = t["attn"]
-        self.q = Qwen3TTSModel.from_pretrained(t["model"], **kw)
+        model_src = _local_snapshot(t["model"])
+        self.q = Qwen3TTSModel.from_pretrained(model_src, **kw)
         self.lora_info = None
         if settings["lora"]["enabled"]:
             self._load_lora(settings["lora"])
@@ -42,7 +53,7 @@ class QwenEngine:
 
     def _load_lora(self, cfg):
         from peft import PeftModel
-        src = cfg["local"] if cfg.get("local") and Path(cfg["local"]).exists() else cfg["hf"]
+        src = cfg["local"] if cfg.get("local") and Path(cfg["local"]).exists() else _local_snapshot(cfg["hf"], cfg.get("revision"))
         kw = {}
         if not Path(str(src)).exists():
             tok = config.HF_TOKEN_FILE.read_text().strip() if config.HF_TOKEN_FILE.exists() else None
