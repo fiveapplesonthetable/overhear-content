@@ -13,7 +13,7 @@ This document records the proven end-to-end content, voice, TTS, splicing, maste
   3. **Detached commas & big `300+ ms` gaps:** Leading commas (`', "for", then...'`) were stripped by the TTS tokenizer, while `0.25s` segment gaps + `20ms` trim margins created unnatural `~350 ms` dead silences around every word.
 - **V3 Fix — Continuous Carrier-Sentence Inline Splicing (`render/render_scene.py: CarrierChain`):**
   - `Renderer.prepare()` detects every inline `WALK` chain (`gap == 0.25`) and builds **one complete, grammatically punctuated English carrier sentence** per explanation (inserting `"phrase"` / `"phrase,"` at target callout slots and moving detached commas onto the placeholder).
-  - `Qwen3-TTS-12Hz-1.7B-CustomVoice` (`ryan`) synthesizes the **entire carrier sentence in a single continuous take**, locking 100% identical voice, room presence, and natural comma/falling intonation across the whole explanation.
+  - `Qwen3-TTS-12Hz-1.7B-Base` (`sky`, cloned from `render/refs/sky.flac` at low-entropy `temperature=0.60, top_k=30, top_p=0.88, repetition_penalty=1.08` with 2 candidates and `WavLM >= 0.78`) synthesizes the **entire carrier sentence in a single continuous take**, locking 100% identical relaxed British female voice, RP accent, room presence, and natural comma/falling intonation across the whole explanation.
   - `Renderer.finish()` runs `MMS_FA` (`aligner.char_times`) once on the leveled carrier waveform, cuts at true `5 ms` acoustic energy valleys around each placeholder (`12 ms` raised-cosine fades), maps exact character timings back to each script segment, and drops the character's native-voiced word inline with **punctuation-aware conversational micro-gaps (`60 ms` lead-in, `70 ms` inline continuation, `130 ms` comma breath, `220 ms` sentence boundary)**.
   - Result: 100% contract-compliant per-segment `spans.json` and `timing.json` (`check_render.py` = `0 errors`), zero foreign words in narrator JSON, single unbroken narrator voice, and natural inline bilingual cadence.
 
@@ -50,7 +50,7 @@ This document records the proven end-to-end content, voice, TTS, splicing, maste
 
 | Role / Language | Engine & Checkpoint | License | Key Settings |
 |---|---|---|---|
-| **English Narrator (`all 10 pairs`)** | `Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice` (`ryan`) | `Apache-2.0` | Post-trained human-studio speaker `ryan` (`~106 Hz` baritone) + podcast storyteller `instruct`; `WavLM >= 0.72` |
+| **English Narrator (`all 10 pairs`)** | `Qwen/Qwen3-TTS-12Hz-1.7B-Base` (`sky` British female) | `Apache-2.0` | Cloned from `render/refs/sky.flac` (`relaxed British, natural & melodic`) on full `CarrierChain` sentences at `temp=0.60, top_k=30, top_p=0.88`, `2` takes, `WavLM >= 0.78` |
 | **Target (`fr, pt, es, de, it, ja, zh, ko`)** | `Qwen/Qwen3-TTS-12Hz-1.7B-Base` | `Apache-2.0` | Single-ref zero-shot cloning from Pilot Voices V2 (`f: 178–221 Hz`, `m: 95–177 Hz`); `WavLM >= 0.67` |
 | **Target (`ru`)** | `ESpeech/ESpeech-TTS-1_RL-V2` + `RUAccent` | Permissive | Homograph stress from `.notes.json` + `RUAccent` fallback; `speeds: [1.0, 0.92, 0.85]` |
 | **Target (`ar`)** | `ResembleAI/chatterbox` (`ChatterboxMultilingualTTS`) | `MIT` | Warm V2 `ar` voice pool; `torch.backends.cudnn.enabled = False` isolation |

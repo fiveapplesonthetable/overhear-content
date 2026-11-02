@@ -79,7 +79,7 @@ class QwenEngine:
             self.prompts[voice] = self.q.create_voice_clone_prompt(ref_audio=(x, sr), ref_text=self.voices.refs[voice]["text"])[0]
         return self.prompts[voice]
 
-    def generate(self, batch, seed, temperature=None, repetition_penalty=None):
+    def generate(self, batch, seed, temperature=None, repetition_penalty=None, top_k=None, top_p=None):
         """batch: [(voice, language_name, text_for_model)] -> [np.float32 wav at 24 kHz]."""
         torch = self.torch
         out = [None] * len(batch)
@@ -96,12 +96,14 @@ class QwenEngine:
         np.random.seed(seed % (2 ** 32))
         t = self.s["tts"]
         longest = max(len(b[2]) for b in sub)
-        cps_floor = 4.5 if any(b[1] in ("Chinese", "Japanese", "Korean") for b in sub) else 8.0
+        cps_floor = 4.5 if any(b[1] in ("Chinese", "Japanese", "Korean") for b in sub) else (9.5 if all(b[1] == "English" for b in sub) else 8.0)
         max_tokens = min(t["max_new_tokens"], int((longest / cps_floor + 2.2) * 12.5) + 20)
         wavs, sr = self.q.generate_voice_clone(
             text=[b[2] for b in sub], language=[b[1] for b in sub],
             voice_clone_prompt=[self._prompt(b[0]) for b in sub],
-            temperature=temperature or t["temperature"], top_k=t["top_k"], top_p=t["top_p"],
+            temperature=temperature or t["temperature"],
+            top_k=top_k if top_k is not None else t["top_k"],
+            top_p=top_p if top_p is not None else t["top_p"],
             repetition_penalty=repetition_penalty if repetition_penalty is not None else t["repetition_penalty"], max_new_tokens=max_tokens)
         assert sr == NATIVE_SR, sr
         for idx, w in zip(real_idx, wavs):
@@ -204,7 +206,10 @@ class QwenCustomEngine:
                 wavs_en = []
                 if chunk_en:
                     try:
-                        wavs_en = self.generate([(c["voice"], langs[c["lang"]], c["text_tts"]) for c in chunk_en], seed)
+                        wavs_en = self.generate(
+                            [(c["voice"], langs[c["lang"]], c["text_tts"]) for c in chunk_en],
+                            seed, temperature=0.60, repetition_penalty=1.08, top_k=30, top_p=0.88,
+                        )
                     except torch.cuda.OutOfMemoryError:
                         torch.cuda.empty_cache()
                         if bs == 1: raise
@@ -240,7 +245,7 @@ class QwenCustomEngine:
                 # process en
                 for c, w in zip(chunk_en, wavs_en):
                     ref_path = self.voices.ref_path(c["voice"])
-                    sim_ok, sim_val = g.check_similarity(w, NATIVE_SR, ref_path)
+                    sim_ok, sim_val = g.check_similarity(w, NATIVE_SR, ref_path, threshold=0.78)
                     len_ok, len_reason = g.check_length_pause(w, NATIVE_SR, c["text_plain"], c["lang"])
                     tran_ok, tran_reason, w_trimmed = g.check_transient(w, NATIVE_SR)
                     rep_ok, cer_val, hyp = g.check_repeat_and_cer(w_trimmed, NATIVE_SR, c["text_plain"], c["lang"])
