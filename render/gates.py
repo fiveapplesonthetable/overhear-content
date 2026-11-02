@@ -165,7 +165,7 @@ class AudioGates:
             gap_ms = (last_s - prev_e) * 10
             tail_ms = (last_e - last_s) * 10
             main_ms = (islands[-2][1] - islands[0][0]) * 10
-            if main_ms >= 100 and gap_ms >= 75 and tail_ms <= 220:
+            if main_ms >= 100 and gap_ms >= 260 and tail_ms <= 150:
                 cut_sample = min(len(wav), (prev_e + 2) * hop)
                 wav = wav[:cut_sample]
                 rms = rms[:prev_e + 2]
