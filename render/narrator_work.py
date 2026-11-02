@@ -271,18 +271,36 @@ def take_speed(plain, k, speeds):
 
 
 def stage_en(a):
-    from voices import Voices
-    from f5en import F5EnEngine
-    import torch
+    import copy
     import soundfile as sf
+    from voices import Voices
     s = config.load_settings(a.settings)
     todo = json.loads((Path(a.work) / "todo_en.json").read_text("utf-8"))
-    eng = F5EnEngine(s, Voices(), log=log)
-    voice = s["narratorRu"]["enVoice"]
     out = Path(a.work) / "takes"
     out.mkdir(exist_ok=True)
-    speeds = s["narratorRu"]["fragmentSpeeds"]
+    voice = s["narratorRu"]["enVoice"]
     n = 0
+    if not config.en_engine(s):
+        from tts import QwenEngine
+        nr = s["narratorRu"]
+        sq = copy.deepcopy(s)
+        sq["lora"]["enabled"] = False
+        batch = int(nr.get("enBatch", sq["tts"].get("batchEn", 32)))
+        sq["tts"]["batch"] = batch
+        eng = QwenEngine(sq, Voices(), log=log)
+        temps = nr["temperatures"]
+        for k, chunk in ru_chunks(todo, batch):
+            wavs = eng.generate([(voice, sq["tts"]["languages"]["en"], it["plain"]) for it in chunk],
+                                seed_of(chunk[0]["id"], k), temps[k % len(temps)])
+            for it, w in zip(chunk, wavs):
+                sf.write(str(out / f"{it['id']}.t{k}.wav"), w, NATIVE_SR)
+                n += 1
+        print("OK " + json.dumps({"stage": "en", "takes": n}), flush=True)
+        return
+    from f5en import F5EnEngine
+    import torch
+    eng = F5EnEngine(s, Voices(), log=log)
+    speeds = s["narratorRu"]["fragmentSpeeds"]
     for it in todo:
         for k in it["takes"]:
             torch.manual_seed(seed_of(it["id"], k))

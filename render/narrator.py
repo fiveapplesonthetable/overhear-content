@@ -278,8 +278,9 @@ def parse_args(argv=None):
 # ---- orchestration ---------------------------------------------------------------------------------------------------
 def part_id(kind, voice, text, s, syllable=False):
     nr = s["narratorRu"]
+    en_sig = (s["ttsEn"]["nfe"], s["ttsEn"]["cfg"]) if config.en_engine(s) else ("qwen", s["tts"]["model"], nr["temperatures"])
     sig = {"kind": kind, "voice": voice, "text": text, "v": nr["version"],
-           "eng": (s["ttsEn"]["nfe"], s["ttsEn"]["cfg"]) if kind == "en" else (s["lora"]["tag"], nr["temperatures"])}
+           "eng": en_sig if kind == "en" else (s["lora"]["tag"], nr["temperatures"])}
     if syllable:
         sig["syllable"] = True          # judged differently from a word of the same letters (narrator_work.passes)
     return config.sha(sig)[:16]
@@ -503,9 +504,15 @@ def _run_locked(args, settings, scene_ids, store, nr, work, log):
                     todo.append({"id": p["id"], "text": p["text"], "plain": p["plain"], "takes": new})
             (work / key).write_text(json.dumps(todo, ensure_ascii=False), "utf-8")
         log(f"round {r + 1}/{nr['rounds']}: {len(lacking)} part(s) without a passing take")
-        for kind, venv, mib in (("en", config.VENV_F5, nr["enMiB"]), ("ru", config.VENV_QWEN, nr["ruMiB"])):
-            if json.loads((work / f"todo_{kind}.json").read_text()):
-                tag, res = run_step([config.GPURUN, str(mib), f"{venv}/bin/python", "-I", worker, kind] + common, what=kind)
+        import concurrent.futures
+        en_venv = config.VENV_F5 if config.en_engine(settings) else config.VENV_QWEN
+        en_mib = nr["enMiB"] if config.en_engine(settings) else nr.get("enQwenMiB", nr["ruMiB"])
+        synth_jobs = [(kind, venv, mib) for kind, venv, mib in (("en", en_venv, en_mib), ("ru", config.VENV_QWEN, nr["ruMiB"]))
+                      if json.loads((work / f"todo_{kind}.json").read_text())]
+        if synth_jobs:
+            with concurrent.futures.ThreadPoolExecutor(max_workers=len(synth_jobs)) as pool:
+                outs = list(pool.map(lambda j: (j[0], *run_step([config.GPURUN, str(j[2]), f"{j[1]}/bin/python", "-I", worker, j[0]] + common, what=j[0])), synth_jobs))
+            for kind, tag, res in outs:
                 log(kind, tag, res)
                 if tag != "OK":
                     raise RuntimeError(f"narrator {kind} step failed: {res}")

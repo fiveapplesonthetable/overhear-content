@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'The director wants you for this role.' Réalisateur is a film director, and te veut puts the object pronoun te right before veut from vouloir."),
     (11, None, "'Read the script tonight.' Lis is the tu imperative of lire, 'to read', paired with le scénario, 'the script', and ce soir, 'tonight'."),
     (12, None, "'All right, I will read it quickly.' Lambert uses near-future je vais lire, 'I am going to read', tucking le, 'it', before the infinitive."),
-    (13, None, "'See you later Mathias. Goodbye!' À tout à l'heure is used when you will see someone again later the same day. Now let's listen to the whole dialogue again."),
+    (13, None, "'See you later Mathias. Goodbye!' À tout à l'heure is used when you will see someone again later the same day."),
 ]

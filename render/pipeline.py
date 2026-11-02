@@ -264,40 +264,59 @@ def run_forms(args, settings, voices, store, scenes, limit=0, log=log):
         f"{stats['resolved_by_dictionary']} of {stats['ambiguous_without_dictionary']} slots whose stress was uncertain, {stats['ambiguous']} left without audio "
         f"(see {review}); {len(items)} to have audio, {len(todo)} to make")
     totals = {"passed": 0, "failed": 0, "pending": len(todo), "ambiguous": stats["ambiguous"], "resolved_by_dictionary": stats["resolved_by_dictionary"]}
-    ids_file = Path(args.store) / "forms" / ".chunk.json"
     step = int(cfg["chunk"])
-    for i in range(0, len(todo), step):
-        if args.max_minutes and time.time() - t0 > args.max_minutes * 60:
-            break
-        chunk = [it.id for it in todo[i:i + step]]
+    chunks = [(i // step, [it.id for it in todo[i:i + step]]) for i in range(0, len(todo), step)]
+    n_form_workers = max(1, int(os.environ.get("OVERHEAR_FORM_WORKERS", "2")))
+    import concurrent.futures
+    import threading
+    flock_ = threading.Lock()
+    abort_forms = threading.Event()
+
+    def do_form_chunk(ci_chunk):
+        ci, chunk = ci_chunk
+        if abort_forms.is_set() or (args.max_minutes and time.time() - t0 > args.max_minutes * 60):
+            return
+        ids_file = Path(args.store) / "forms" / (".chunk.json" if n_form_workers == 1 else f".chunk-{ci}.json")
         ids_file.write_text(json.dumps(chunk), "utf-8")
-        for attempt in range(cfg["retakes"] + int(cfg.get("extraRetakes", 0)) + 1):
-            cmd = [config.GPURUN, str(cfg["gpu"]["ttsMiB"]), f"{config.VENV_QWEN}/bin/python", "-I", str(HERE / "stage.py"), "forms",
-                   "--ids-file", str(ids_file), "--attempt", str(attempt), "--store", str(args.store)]
-            if args.settings:
-                cmd += ["--settings", args.settings]
-            tag, r = run_stage(cmd, env)
-            if tag != "OK":
-                log(f"forms FAILED (chunk {i // step}, attempt {attempt}): {r.get('error', '?')}")
-                return totals
-            if not r["ids"]:
-                break
-            cmd = [config.GPURUN, str(cfg["gpu"]["asrMiB"]), f"{config.VENV_ASR}/bin/python", "-I", str(HERE / "clip_asr.py"), "--store", str(args.store),
-                   "--cer-max", str(cfg["cerMax"]), "--retakes", str(cfg["retakes"]), "--kind", forms.KIND, "--pad-sec", str(cfg["asrPadSec"]),
-                   "--fold-vowels", "--extra-retakes", str(cfg.get("extraRetakes", 0)), *r["ids"]]
-            tag, c = run_stage(cmd, {**env, "LD_LIBRARY_PATH": cuda_libs()})
-            if tag != "OK":
-                log(f"forms check FAILED (attempt {attempt}): {c.get('error', '?')}")
-                return totals
-            totals["passed"] += c["passed"]
-            totals["failed"] += len(c["failed"])
-            for fid in c["failed"]:          # the dropped forms, for a later look at whether Whisper is biased toward the dictionary form
-                rec = clips.ClipStore(args.store, forms.KIND).record(fid) or {}
-                log(f"forms dropped {fid}: {rec.get('text')!r} heard {rec.get('hyp')!r} cer {rec.get('cer')}")
-            if not c["retry"]:
-                break
-        totals["pending"] = len(todo) - i - len(chunk)
-        log(f"forms: {totals['passed']} passed, {totals['failed']} dropped, {totals['pending']} left, {time.time() - t0:.0f}s")
+        try:
+            for attempt in range(cfg["retakes"] + int(cfg.get("extraRetakes", 0)) + 1):
+                cmd = [config.GPURUN, str(cfg["gpu"]["ttsMiB"]), f"{config.VENV_QWEN}/bin/python", "-I", str(HERE / "stage.py"), "forms",
+                       "--ids-file", str(ids_file), "--attempt", str(attempt), "--store", str(args.store)]
+                if args.settings:
+                    cmd += ["--settings", args.settings]
+                tag, r = run_stage(cmd, env)
+                if tag != "OK":
+                    log(f"forms FAILED (chunk {ci}, attempt {attempt}): {r.get('error', '?')}")
+                    abort_forms.set()
+                    return
+                if not r["ids"]:
+                    break
+                cmd = [config.GPURUN, str(cfg["gpu"]["asrMiB"]), f"{config.VENV_ASR}/bin/python", "-I", str(HERE / "clip_asr.py"), "--store", str(args.store),
+                       "--cer-max", str(cfg["cerMax"]), "--retakes", str(cfg["retakes"]), "--kind", forms.KIND, "--pad-sec", str(cfg["asrPadSec"]),
+                       "--fold-vowels", "--extra-retakes", str(cfg.get("extraRetakes", 0)), *r["ids"]]
+                tag, c = run_stage(cmd, {**env, "LD_LIBRARY_PATH": cuda_libs()})
+                if tag != "OK":
+                    log(f"forms check FAILED (chunk {ci}, attempt {attempt}): {c.get('error', '?')}")
+                    abort_forms.set()
+                    return
+                with flock_:
+                    totals["passed"] += c["passed"]
+                    totals["failed"] += len(c["failed"])
+                for fid in c["failed"]:          # the dropped forms, for a later look at whether Whisper is biased toward the dictionary form
+                    rec = clips.ClipStore(args.store, forms.KIND).record(fid) or {}
+                    log(f"forms dropped {fid}: {rec.get('text')!r} heard {rec.get('hyp')!r} cer {rec.get('cer')}")
+                if not c["retry"]:
+                    break
+            with flock_:
+                totals["pending"] = max(0, totals["pending"] - len(chunk))
+                log(f"forms: {totals['passed']} passed, {totals['failed']} dropped, {totals['pending']} left, {time.time() - t0:.0f}s")
+        finally:
+            if n_form_workers > 1:
+                ids_file.unlink(missing_ok=True)
+
+    if chunks:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=min(n_form_workers, len(chunks))) as ex:
+            list(ex.map(do_form_chunk, chunks))
     return totals
 
 
@@ -335,11 +354,16 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
     if args.limit:
         queue_ = queue_[:args.limit]
     log(f"{len(queue_)} scene(s) to render")
+    import concurrent.futures
+    n_synth = max(1, int(os.environ.get("OVERHEAR_SYNTH_WORKERS", "4")))
+    n_align = max(1, int(os.environ.get("OVERHEAR_ALIGN_WORKERS", "4")))
+    clips_wait = float(os.environ.get("OVERHEAR_CLIPS_WAIT_SEC", "12"))
     gpu = settings["gpu"]
     keys = {sc.id: key for sc, key in queue_}
     qa = queue.PriorityQueue()          # (phase, order, sid, payload): phase 0 = retakes go first
-    qb = queue.Queue(maxsize=3)         # backpressure: Qwen runs at most 3 scenes ahead of the aligner
+    qb = queue.Queue(maxsize=max(3, n_synth * 3))  # backpressure scaled to concurrent synth workers
     lock = threading.Lock()
+    synth_alive = {"n": n_synth}
     t_run = time.time()
     times = {}
     done = {"n": 0, "fail": 0}
@@ -369,7 +393,12 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
         while True:
             phase, order, sid, payload = qa.get()
             if sid is None:
-                qb.put(None)
+                with lock:
+                    synth_alive["n"] -= 1
+                    last = synth_alive["n"] == 0
+                if last:
+                    for _ in range(n_align):
+                        qb.put(None)
                 return
             if stop.is_set() and phase == 1:
                 settle()
@@ -386,14 +415,19 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
                 tag, miss = run_stage(stage_cmd(args, settings, "missing", sid, 0))      # no GPU reservation for a step with nothing to do
                 if tag != "OK":
                     miss = {"ru": 1, "en": 1, "other": 1}
-                for stage, mib, venv in steps:
-                    if not miss.get({"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar", "synth": "other"}[stage], 1):
-                        continue
-                    tag, r1 = run_stage(stage_cmd(args, settings, stage, sid, mib, venv=venv))
-                    if tag != "OK":
-                        r = r1
+                active = [(stage, mib, venv) for stage, mib, venv in steps
+                          if miss.get({"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar", "synth": "other"}[stage], 1)]
+                if len(active) > 1:
+                    with concurrent.futures.ThreadPoolExecutor(max_workers=len(active)) as pool:
+                        results = list(pool.map(lambda s: run_stage(stage_cmd(args, settings, s[0], sid, s[1], venv=s[2])), active))
+                else:
+                    results = [run_stage(stage_cmd(args, settings, s[0], sid, s[1], venv=s[2])) for s in active]
+                tag = "OK"
+                for tag1, r1 in results:
+                    if tag1 != "OK":
+                        tag, r = tag1, r1
                         break
-                    r = {"audio_s": r["audio_s"] + r1.get("audio_s", 0.0), "n": r["n"] + r1.get("n", 0), "cached": r1.get("cached", 0)}
+                    r = {"audio_s": r["audio_s"] + r1.get("audio_s", 0.0), "n": r["n"] + r1.get("n", 0), "cached": r["cached"] + r1.get("cached", 0)}
                 key = "synth"
             else:
                 f5 = ru or en
@@ -403,10 +437,11 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
             if tag != "OK":
                 fail(sid, r.get("error", "?"))
                 continue
-            tm = times.setdefault(sid, {})
-            tm[key] = tm.get(key, 0) + (time.time() - t)
-            if key == "synth":
-                tm.update(generatedSec=r.get("audio_s", 0.0), generated=r.get("n", 0), cached=r.get("cached", 0))
+            with lock:
+                tm = times.setdefault(sid, {})
+                tm[key] = tm.get(key, 0) + (time.time() - t)
+                if key == "synth":
+                    tm.update(generatedSec=r.get("audio_s", 0.0), generated=r.get("n", 0), cached=r.get("cached", 0))
             qb.put((sid, phase != 1))
 
     def lane_b():
@@ -415,8 +450,10 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
             if item is None:
                 return
             sid, final = item
+            with lock:
+                t_json = json.dumps(times.get(sid, {}))
             tag, r = run_stage(stage_cmd(args, settings, "finish", sid, gpu["alignMiB"],
-                                         ["--times", json.dumps(times.get(sid, {}))] + (["--no-retake"] if final else [])))
+                                         ["--times", t_json] + (["--no-retake"] if final else [])))
             if tag == "NEED_RETAKE":
                 qa.put((0, order_of[sid], sid, r["keys"]))
             elif tag == "RESULT":
@@ -440,10 +477,10 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
             if first is None:
                 return
             group, end = [first], False
-            deadline = time.time() + 90      # let a few scenes gather: one model load serves the whole group
+            deadline = time.time() + clips_wait      # let a few scenes gather: one model load serves the whole group
             while len(group) < per and time.time() < deadline and not end:
                 try:
-                    nxt = qc.get(timeout=5)
+                    nxt = qc.get(timeout=1)
                 except queue.Empty:
                     if lanes_done.is_set():
                         break
@@ -460,29 +497,38 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
 
     lanes_done = threading.Event()
     order_of = {sc.id: i for i, (sc, _) in enumerate(queue_)}
-    ta, tb = threading.Thread(target=lane_a), threading.Thread(target=lane_b)
+    tas = [threading.Thread(target=lane_a) for _ in range(n_synth)]
+    tbs = [threading.Thread(target=lane_b) for _ in range(n_align)]
     tc = threading.Thread(target=lane_c)
-    ta.start(); tb.start()
+    for t in tas:
+        t.start()
+    for t in tbs:
+        t.start()
     if clips_on:
         for sid in backlog:
             qc.put(sid)
         tc.start()
     # feed scenes in priority order; retakes (phase 0) jump the queue
+    max_q = max(4, n_synth * 3)
     for i, (sc, _) in enumerate(queue_):
         if args.max_minutes and time.time() - t_run > args.max_minutes * 60:
             log("run time budget reached; finishing what is in flight")
             stop.set()
             break
-        while qa.qsize() > 4 and not stop.is_set():
-            time.sleep(2)           # keep the feed short so priority/time budgets stay meaningful
+        while qa.qsize() > max_q and not stop.is_set():
+            time.sleep(0.5)         # keep the feed short so priority/time budgets stay meaningful
         with cond:
             out["n"] += 1
         qa.put((1, i, sc.id, None))
     with cond:
         while out["n"] > 0:
-            cond.wait(timeout=5)
-    qa.put((9, 10 ** 9, None, None))
-    ta.join(); tb.join()
+            cond.wait(timeout=2)
+    for _ in range(n_synth):
+        qa.put((9, 10 ** 9, None, None))
+    for t in tas:
+        t.join()
+    for t in tbs:
+        t.join()
     lanes_done.set()
     if clips_on:
         qc.put(None)

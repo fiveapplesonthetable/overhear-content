@@ -22,6 +22,9 @@ class ChatterboxArEngine(QwenEngine):
         import torch
         os.environ.setdefault("HF_HUB_OFFLINE", "1")
         os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
+        import perth
+        if getattr(perth, "PerthImplicitWatermarker", None) is None:
+            perth.PerthImplicitWatermarker = perth.DummyWatermarker
         from chatterbox.mtl_tts import ChatterboxMultilingualTTS
         self.torch, self.voices, self.log = torch, voices, log
         self.s = copy.deepcopy(settings)
