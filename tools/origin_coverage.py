@@ -217,7 +217,7 @@ def markdown(report):
         lines += [f'## Next words: {pair}', '', ', '.join(w['lemma'] for w in row['queue'][:20]), '']
     lines += ['Regenerate from a verified serving build:', '', '```sh',
               'python3 tools/origin_coverage.py --serving-out /path/to/verified/out '
-              '--markdown word-origins/COVERAGE.md --json /path/to/review-queue.json', '```', '']
+              '--markdown /path/to/coverage.md --json /path/to/review-queue.json', '```', '']
     lines += ['Before publishing a new or expanded season, require a complete audited candidate:', '', '```sh',
               'python3 tools/origin_coverage.py --serving-out /path/to/verified/candidate '
               '--season dix-pour-cent/s01 --require-complete', '```', '',

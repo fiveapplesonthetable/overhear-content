@@ -22,11 +22,11 @@ One file per scene. This is the "episode JSON" of the recipe plus provenance fie
 
 | field | rule |
 |---|---|
-| `id` | `<show>-sNNeNN-scene-NN`, matching the folder and file (`kukhnya`, `domashniy-arest`, `dix-pour-cent`). |
-| `pair` | `ru-en` for Russian shows, `fr-en` for French. |
+| `id` | `<show>-sNNeNN-scene-NN`, matching the folder and file. |
+| `pair` | the show's pair from `out/<show>/show.json` (`ru-en`, `fr-en`, `es-en`, `de-en`, `it-en`, `pt-en`, `ja-en`, `zh-en`, `ko-en`, `ar-en`). |
 | `show`,`season`,`episode`,`scene` | Integers (show is the slug). Recommended. |
 | `title` | `<target-language title>  (<English title>)`, two spaces before the bracket. Short, concrete. No scene number. |
-| `level` | `"A1 — Duolingo Section 2"` (ru) or `"A1 — débutant"` (fr). |
+| `level` | `"A1 — Duolingo Section 2"` (ru), `"A1 — débutant"` (fr), `"A1 — beginner"` (every other language). |
 | `labels` | role key -> display name for every speaking role. Must equal `ru` of that key in `out/<show>/cast.json`. There is **no `voices` field**: the renderer casts voices from `cast.json` by gender. |
 | `segments[]` | Ordered. `v` is `narrator` or a key of `out/<show>/cast.json` (the character's own name: `max`, `barinov`; never a viewpoint slot such as `anya`/`lea`); `t` the text (1-2 sentences); `gap` seconds of silence after, 0..3. |
 | `source.file` | Repo-relative path of the subtitle sidecar the scene is built from. |
@@ -43,7 +43,8 @@ SHOW, SEASON, EPISODE, SCENE) and run
     python3 tools/compose.py out/kukhnya/s01e02/authoring/scene-03.py --out out/kukhnya/s01e02/scene-03.json
 
 It builds the segments with the right gaps, checks language rules, verifies every claimed subtitle fragment against the
-sidecar, and writes `scene-03.REVIEW.md` (each line, its meaning and the cue it came from).
+sidecar. `--review /tmp/x.md` also writes a review sheet (each line, its meaning and the cue it came from) for your own
+read-through; never commit it.
 `STORY` rows are `(role, text, english, [(cue_no, "fragment"), ...], note)`; `WALK` rows are
 `(story_line_index, sentence_or_None, narrator_gloss)`.
 
@@ -52,43 +53,20 @@ Machine-readable: `spec/schema/script.schema.json`, enforced by `tools/validate.
 - `schemaVersion` (integer, `1`) is the first field. `show` is the slug (`kukhnya`, ...), **not** a display name (the
   `show` field of the old `examples/` files is legacy); `show`, `season`, `episode`, `scene` are required and
   must match `id`. No other top-level fields.
-- `level` is exactly `"A1 — Duolingo Section 2"` (ru) or `"A1 — débutant"` (fr), never `"A1"` or `"beginner"`.
+- `level` is exactly one of the three values above, never `"A1"` or `"beginner"`.
 - `title` is `<target title>  (<English title>)`: exactly two spaces before the bracket, no other double space, no
   leading or trailing space.
-- `source.file` is the sidecar actually used: `sources/<show>/sNN/eNN.<lang>.dual.srt`, or `eNN.ru.srt` for the
-  Russian-only Kukhnya episodes. Every `source.lines[].cue` must lie inside that scene's `start`-`end` in `scenes.json`.
+- `source.file` is the sidecar actually used: `sources/<show>/sNN/eNN.<lang>.dual.srt` when an English-paired file
+  exists, else `eNN.<lang>.srt` (for example the Russian-only Kukhnya S2-S6 transcripts). Every `source.lines[].cue` must lie inside that scene's `start`-`end` in `scenes.json`.
 - The **last segment is a short farewell** by a speaking role (`Пока!`, `До свидания!`, `Хорошего дня!`, `À bientôt!`,
   `Au revoir!`), new text, not a repeat of a story line.
 - `labels` has an entry for every speaking role, equal to its `cast.json` `ru`; one character = one role key = one label
-  for the whole show. No `voices`. See `spec/schema/cast.schema.json` and FEEDBACK.md "P-1".
+  for the whole show. No `voices`. See `spec/schema/cast.schema.json` and `spec/quality.md`.
 - Narration names only people of `cast.json` (or its `other_names`), and the person who actually speaks the line it
-  explains. Explanations follow the P-1 rules in FEEDBACK.md (no templates, no grammar-label endings).
+  explains. Explanations follow `spec/quality.md` (they teach the language; no templates, no grammar-label endings).
 - Narration never contains placeholder text (`The characters discuss their situation`, `ENG `).
 
-## Private original native source-audio proof
-
-A private verification script may specify (a public teaching script must omit it):
-
-```json
-"sourceAudio": {
-  "file": "sources/al-maktab/s01/e01.mp4",
-  "sha256": "<entire original media SHA256, 64 lowercase hex characters>",
-  "start": 12.5,
-  "end": 14.2
-}
-```
-
-This portable relative identifier resolves only under the renderer's external
-private `OVERHEAR_SOURCE_AUDIO_ROOT` (default `/mnt/agent/pilot-source-audio`).
-Production provisions the original media there; **never commit full video/audio
-or an absolute private file path into the content repository**. Path traversal
-and symlink escapes are rejected. The renderer verifies the media hash and
-actual bounds before extracting speech. Replays reuse the identical hash and
-window. The segment text must be a reviewed transcript of that exact speech;
-source reuse cannot justify invented or changed dialogue. English narrator
-segments continue to use their configured narrator voice. Public transcript
-content omits `sourceAudio` entirely. Original show clips, including extracted
-speech embedded in a teaching MP3, remain private. The publisher rejects scripts
-or rendered provenance using original source audio; final public native dialogue
-must be synthesized and independently checked. Original clips may guide private
-verification and authorized voice conditioning only.
+## No original audio, ever
+Scripts carry no `sourceAudio` (the validator rejects it) and nothing in a render may contain original show audio. Media
+from the shows lives only on the render machine, outside git, and is used to read and time the source, never to make
+public audio. See `spec/OUTPUT-CONTRACT.md`.

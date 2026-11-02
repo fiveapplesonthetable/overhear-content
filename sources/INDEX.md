@@ -2,7 +2,7 @@
 
 `sources/<show>/sNN/eNN.<lang>.dual.srt`: each cue = original line + English line (`dual`).
 `sources/<show>/sNN/eNN.ru.srt`: Russian only, a Whisper transcript with no English (`ru-only`): translate it yourself and
-note possible recognition errors in `out/<show>/NOTES.md`. Where both exist, use the dual file.
+note possible recognition errors in `out/PROGRESS.md`. Where both exist, use the dual file.
 Episode titles are not carried by the sidecars; if you learn an official title, put it in `scenes.json` `title`.
 
 ## Кухня (Kukhnya)  (`kukhnya`, ru)
@@ -31,3 +31,16 @@ Episode titles are not carried by the sidecars; if you learn an official title, 
 | S3 | 6/6 | none | e01 (1107, 00:52:40); e02 (1201, 00:56:51); e03 (1392, 00:54:17); e04 (1304, 01:05:08); e05 (1144, 00:53:49); e06 (1362, 01:04:40) |
 | S4 | 6/6 | none | e01 (1012, 00:57:16); e02 (1106, 00:53:55); e03 (1083, 00:55:18); e04 (1287, 01:06:25); e05 (924, 00:59:38); e06 (1042, 01:00:33) |
 
+## Pilots (one full episode each)
+
+Whisper or auto-caption transcripts (`*.auto.vtt` is the raw caption, the `.srt` is its cleaned cue list) can mishear;
+check unclear cues against the media. Media is rsynced by the owner next to this checkout (README, "Media") and never committed.
+
+| show | lang | file | cues | note |
+|---|---|---|---|---|
+| `paquita-salas` | es | s01/e01.es.srt, s01/e01.en.srt | 505 / 452 | full episode, Spanish and English subtitles |
+| `die-discounter` | de | s01/e01.de.srt (+ .de-orig.auto.vtt) | 785 | full episode, machine transcript |
+| `porta-dos-fundos` | pt | s01/e01.pt.srt (+ .pt-orig.auto.vtt) | 263 | one sketch, machine transcript |
+| `the-producers` | ko | s01/e01.ko.srt | 308 | part 1 of 3 of episode 1 |
+| it, zh | | none | | media exists (see README); transcribe with faster-whisper large-v3 first |
+| ja, ar | | none | | find a source first (README, "Order of work") |

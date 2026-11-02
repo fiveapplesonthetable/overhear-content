@@ -25,6 +25,8 @@ class T(unittest.TestCase):
         self.tmp = Path(tempfile.mkdtemp())
         self.ep = self.tmp / "kukhnya" / "s01e02"
         self.ep.mkdir(parents=True)
+        shutil.copy(ROOT / "out" / "kukhnya" / "show.json", self.tmp / "kukhnya" / "show.json")
+        v.SHOWS.clear()
         self.cast = {"schemaVersion": 1, "show": "kukhnya", "other_names": ["Claude Monet"], "cast": [
             {"key": "barinov", "ru": "Шеф", "en": ["Barinov", "Viktor", "Chef"], "gender": "m"},
             {"key": "nastya", "ru": "Настя", "en": ["Nastya"], "gender": "f"},

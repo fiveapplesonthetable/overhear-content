@@ -26,6 +26,8 @@ class Checks(unittest.TestCase):
         self.root = Path(tempfile.mkdtemp())
         sc = self.root / "out" / "kukhnya" / "s01e02"
         sc.mkdir(parents=True)
+        shutil.copy(ROOT / "out" / "kukhnya" / "show.json", sc.parent / "show.json")
+        v.SHOWS.clear()
         (sc / "scene-01.json").write_text(json.dumps({"segments": [{"v": "narrator", "t": "x"}, {"v": "max", "t": "Привет"}]}), "utf-8")
         self.dir = self.root / "learn" / "ru-en"
         self.dir.mkdir(parents=True)

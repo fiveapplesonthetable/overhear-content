@@ -1,6 +1,6 @@
 # The story recipe and house rules
 
-Adapted from the project's recipe. Every scene becomes one short listening story ("scene script").
+Every scene becomes one short listening story ("scene script").
 
 ## Cast (fixed)
 - **narrator** = voice `sky`. English only, calm London delivery, like a friend explaining. No "welcome back!",
@@ -16,8 +16,8 @@ into the nearest role.
 ## Level and tone
 - **A1** (Duolingo section 2/3): very simple vocabulary, short present-tense sentences, a few new words per scene,
   reuse words from earlier scenes. Past/future only if the source line needs it, kept simple.
-- Target-language text must read naturally to a native speaker. Polite *вы / vous* with strangers and bosses,
-  *ты / tu* with friends. No textbook stiffness, no translationese.
+- Target-language text must read naturally to a native speaker. Polite *вы / vous / usted / Sie* with strangers and bosses,
+  *ты / tu / tú / du* with friends; in ja/ko use the register the characters use. No textbook stiffness, no translationese.
 - Lines come from the subtitle file where possible (verbatim or lightly adapted); write new lines only to glue the
   scene together. Every line taken from a subtitle goes in `source.lines` (cue number + exact fragment).
 - The scene must stay true to what happens in that part of the episode (who, where, what changes).
@@ -30,10 +30,12 @@ into the nearest role.
 2. **Whole story in the target language**: 12-18 short lines, a tiny plot with a small warm turn.
 3. **Narrator walk-through**: go back through it in English, replaying key target lines (verbatim from the story, one
    sentence at a time, by the right role) then giving their meaning; teach 1-2 grammar points in passing.
-   Narrator text never contains target-language words (replays are separate target segments).
+   Narrator text never contains target-language script (replays are separate target segments); transliterate a word
+   when you name it ("zato", "oguzok").
 4. **Whole story again**: the same lines, unchanged, shorter gaps.
 5. **Narrator send-off** (2 sentences; reassure; "see you next time") then **one short target-language line**
-   from a character (Пока! / До свидания! / À bientôt!). The last segment is always that target line.
+   from a character (Пока! / До свидания! / À bientôt! / ¡Hasta luego! / Tschüss! / 안녕히 계세요! ...), always a **new** short farewell,
+   never a repeat of a story line. The last segment is always that target line.
 
 ## Gaps (seconds of silence after a segment)
 0.8 after the intro; 0.55 between story lines (pass 1); 0.4 after narrator walk-through lines; 0.55 after a replayed line;
@@ -44,10 +46,10 @@ into the nearest role.
 - No stress marks (U+0301) anywhere except in `stress` fields.
 - French: punctuation attached to the word (`là?`, `Bonjour!`), no space before `? ! : ;`, straight apostrophe `'`,
   no guillemets in spoken lines.
-- Russian: Cyrillic only in spoken lines (no Latin letters).
+- Russian: Cyrillic only in spoken lines (no Latin letters). ja/zh/ko/ar: native script only in spoken lines; romanisation
+  goes in the notes, never in the line.
 - Split sentences with `. ! ? …`; each segment is 1-2 sentences.
 
-## Added rules (see FEEDBACK.md, 2026-10-28)
-- Part 5 ends with a **new** short farewell line, never a repeat of a story line.
-- A character keeps **one role key for the whole show**, the character's own name, listed in `out/<show>/cast.json`.
-  See FEEDBACK.md "P-1". Walk-through explanations sound like a person, not a template (same section).
+## Quality
+`spec/quality.md` says what a good walk-through explanation is (it teaches one concrete thing about the language, in
+plain words), with the gold scenes to copy and the checks the validator applies. Read it before writing a scene.

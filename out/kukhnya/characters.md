@@ -2,9 +2,7 @@
 
 Show: Кухня (*Kukhnya*, "The Kitchen"), S1–S2. Setting: Moscow's upscale French restaurant *Claude Monet* («Клод Моне»), owned by celebrity showman Dmitry Nagiyev and run by brilliant, hot-tempered head chef Viktor Petrovich Barinov. Language: Russian (`ru-en`).
 
-Role keys: one character = one role key = the character's own name (`max`, `barinov`, `kostya`, `nastya`, ...), in every scene of the show. The machine-readable cast is `cast.json` next to this file (key, Russian display name, English narration names, gender); it is the only source for keys and labels. There are no viewpoint slot keys and scripts carry no `voices`: the renderer picks voices from `gender`. Grammar always follows the character's gender. Rules: FEEDBACK.md "P-1".
-
-The role key / display name / gender table lives in `cast.json` (no voice column any more).
+Role keys: one character = one role key = the character's own name, in every scene of the show. The machine-readable cast is `cast.json` next to this file (key, display name in the target language, English narration names, gender); it is the only source for keys and labels. There are no viewpoint slot keys and scripts carry no `voices`: the renderer picks voices from `gender`. Grammar always follows the character's gender. Rules: spec/quality.md "Cast".
 
 
 ## Макс Лавров, "Огузок" (Max Lavrov; young chef from Voronezh; first seen s01e01)
@@ -116,7 +114,6 @@ The role key / display name / gender table lives in `cast.json` (no voice column
 - **Раздевалка и коридор (Staff Locker Room & Corridor)**: row of tall grey-blue metal staff lockers `#6E86A0`, wooden changing bench, and mirror. Dominant colour: sage teal `#5E9A78` or slate `#6E86A0`.
 - **Квартира Макса и Кости / Квартира Вики (Max & Kostya's Flat / Vika's Flat)**: cosy Moscow apartment with warm patterned wallpaper, a plush sofa, floor lamp, window with curtains, and a small kitchen table with tea mugs. Dominant colour: warm peach `#D97B66` or soft mustard `#F2C14E`.
 
-<!-- CANONICAL_EXTRAS_START -->
 ## Complete Show-Wide Role Key & Voice Directory (All Speaking Roles & Extras)
 
 Every role key used in any episode of this show is listed below with its character label, visual appearance notes, and fixed voice:
@@ -181,4 +178,3 @@ Every role key used in any episode of this show is listed below with its charact
 - **Суслан** (label: `Суслан`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Role key: `suslan` (see `cast.json`).
 - **Отец Насти** (label: `Отец Насти`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Role key: `nastya_father` (see `cast.json`).
 - **Валя** (label: `Валя`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Role key: `valya` (see `cast.json`).
-<!-- CANONICAL_EXTRAS_END -->

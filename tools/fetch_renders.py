@@ -1,0 +1,92 @@
+#!/usr/bin/env python3
+"""Installs episode packages (tools/package_render.py) into a render directory, verifying everything first. Python 3 stdlib only (+ `gh`).
+
+  python3 tools/fetch_renders.py RENDER_DIR --tar dist/render-kukhnya-s01e01.tar     # a local package
+  python3 tools/fetch_renders.py RENDER_DIR --episode kukhnya-s01e01                 # download GitHub release render-<episode>
+  python3 tools/fetch_renders.py RENDER_DIR --all                                    # every render-* release
+  options: --content DIR  content checkout to verify against (default: this repo; check it out at the commit the packages name)
+
+A package is installed only when every file matches MANIFEST.json, every scene's contentHash equals sha256(script + notes) of the
+content checkout, and the tarball has no path outside the layout. The episode's form-plan rows are merged into
+RENDER_DIR/forms/.plan.json (same id: the package wins). Then tools/check_render.py --episode runs on the installed result.
+"""
+import hashlib, json, re, subprocess, sys, tarfile, tempfile
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import check_render as cr
+
+ROOT = Path(__file__).resolve().parents[1]
+SAFE = re.compile(r"^(?:[a-z][a-z0-9-]*-s\d\de\d\d-scene-\d\d/(?:audio\.mp3|spans\.json|timing\.json|meta\.json|report\.json)"
+                  r"|(?:clips|forms)/[0-9a-f]{16}\.(?:json|mp3)|forms-plan/[a-z][a-z0-9-]*-s\d\de\d\d\.json|MANIFEST\.json)$")
+
+
+def install(tar_path, render, content):
+    with tarfile.open(tar_path) as tar:
+        members = tar.getmembers()
+        for m in members:
+            if not m.isfile() or not SAFE.match(m.name):
+                raise SystemExit(f"{tar_path}: unexpected member {m.name!r}")
+        data = {m.name: tar.extractfile(m).read() for m in members}
+    man = json.loads(data.pop("MANIFEST.json"))
+    ep = man["episode"]
+    if set(data) != set(man["files"]):
+        raise SystemExit(f"{tar_path}: files differ from MANIFEST.json")
+    for name, b in data.items():
+        if hashlib.sha256(b).hexdigest() != man["files"][name]:
+            raise SystemExit(f"{tar_path}: {name} sha256 mismatch")
+    scripts = {s[0]: s for s in cr.scenes_of(content, episode=ep)}
+    for s in man["scenes"]:
+        sid = s["sceneId"]
+        if sid not in scripts:
+            raise SystemExit(f"{tar_path}: {sid} is not a scene of the content checkout")
+        _, sp, npth, _ = scripts[sid]
+        if cr.content_hash(sp, npth) != s["contentHash"]:
+            raise SystemExit(f"{tar_path}: {sid} was rendered from other content (commit {man['contentCommit'][:12]}); check that commit out")
+    plan_rows = json.loads(data.pop(f"forms-plan/{ep}.json"))
+    for name, b in data.items():
+        p = render / name
+        p.parent.mkdir(parents=True, exist_ok=True)
+        tmp = p.with_name(p.name + ".tmp")
+        tmp.write_bytes(b)
+        tmp.replace(p)
+    pf = render / "forms" / ".plan.json"
+    pf.parent.mkdir(parents=True, exist_ok=True)
+    rows = json.loads(pf.read_text(encoding="utf-8")) if pf.is_file() else []
+    merged = {r["id"]: r for r in rows}
+    merged.update({r["id"]: r for r in plan_rows})
+    tmp = pf.with_name(".plan.json.tmp")
+    tmp.write_text(json.dumps(list(merged.values()), ensure_ascii=False), encoding="utf-8")
+    tmp.replace(pf)
+    print(f"{ep}: installed {len(man['scenes'])} scenes, {len(data)} files")
+    return ep
+
+
+def main(argv):
+    args = [a for a in argv if not a.startswith("--")]
+    if not args:
+        print(__doc__); return 2
+    render = Path(args[0]).resolve()
+    content = Path(argv[argv.index("--content") + 1]).resolve() if "--content" in argv else ROOT
+    tars = []
+    with tempfile.TemporaryDirectory() as tmp:
+        if "--tar" in argv:
+            tars = [Path(argv[argv.index("--tar") + 1])]
+        else:
+            if "--all" in argv:
+                listing = subprocess.run(["gh", "release", "list", "--limit", "1000", "--json", "tagName"], capture_output=True, text=True, check=True)
+                tags = [r["tagName"] for r in json.loads(listing.stdout) if r["tagName"].startswith("render-")]
+            else:
+                tags = [f"render-{argv[argv.index('--episode') + 1]}"]
+            for tag in tags:
+                subprocess.run(["gh", "release", "download", tag, "--dir", tmp, "--pattern", f"{tag}.tar", "--clobber"], check=True)
+                tars.append(Path(tmp) / f"{tag}.tar")
+        bad = 0
+        for t in tars:
+            ep = install(t, render, content)
+            bad |= cr.main([str(render), "--episode", ep, "--content", str(content)])
+    return 1 if bad else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))
