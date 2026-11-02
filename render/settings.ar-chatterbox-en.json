@@ -132,7 +132,9 @@
   },
   "clips": {
     "_note": "Audio for the lexicon's written examples (clips.py): one neutral dictionary voice per language, scene mp3 format, program loudness, Whisper-checked (CER <= cerMax), retaken up to `retakes` times, then dropped (no icon). batch: sentences per Qwen call (4 = 6.3 GB; lower it to leave room for the scene lanes).",
-    "voices": {},
+    "voices": {
+      "ar": "ar-f1"
+    },
     "programLufs": -16.0,
     "padMs": 80,
     "cerMax": 0.15,
@@ -151,7 +153,9 @@
   },
   "forms": {
     "_note": "Audio for the forms in the lexicon's tables (forms.py): the clips' voice and format, but with the run3 stress LoRA on and stress policy 'all' (lora: false renders them on the base model). Whisper check on the form alone: CER <= cerMax after folding the unstressed-vowel pairs, with padSec of silence on each side of the clip for Whisper only. dictionary: Wiktionary's Russian inflection tables (wiktextract JSONL from kaikki.org, CC BY-SA; not in git, see form_dict.py): the stress of each table slot, first choice; null/missing file = RuAccent and the notes only. chunk: forms per GPU round (progress is saved per chunk).",
-    "voices": {},
+    "voices": {
+      "ar": "ar-f1"
+    },
     "lora": true,
     "dictionary": "(set by config.FORMS_DICTIONARY / OVERHEAR_FORMS_DICTIONARY)",
     "programLufs": -16.0,
