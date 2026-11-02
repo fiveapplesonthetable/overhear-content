@@ -196,12 +196,13 @@ def run_clip_group(args, settings, sids, log=log):
     Low GPU priority, so the scene lanes are served first; a failed step is logged and the next run picks the work up again."""
     cfg = settings["clips"]
     env = {**os.environ, "GPURUN_PRIO": os.environ.get("OVERHEAR_CLIPS_PRIO", str(cfg["prio"]))}
-    lock = open(Path(args.store) / "clips.lock", "w")      # one clip run at a time, whoever started it (a --clips-only backfill or a scene run)
+    loaded = [x for x in (content.load_scene(content.scene_path(args.content, sid)) for sid in sids) if isinstance(x, content.Scene)]
+    lock_lang = loaded[0].lang if loaded else "all"
+    lock = open(Path(args.store) / f"clips.{lock_lang}.lock", "w")      # one clip run per language at a time
     fcntl.flock(lock, fcntl.LOCK_EX)
     scenes = ",".join(sids)
     t0 = time.time()
     from ruaccent_fallback import RuAccent
-    loaded = [x for x in (content.load_scene(content.scene_path(args.content, sid)) for sid in sids) if isinstance(x, content.Scene)]
     # accent the sentences first, on the CPU, so the GPU reservation below is not held while RuAccent starts
     clips.warm_ruaccent(loaded, settings, RuAccent(settings["stress"]["ruaccentPython"], Path(args.store) / "cache" / "ruaccent.json"))
     totals = {"passed": 0, "failed": 0}
