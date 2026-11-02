@@ -82,18 +82,31 @@ class QwenEngine:
     def generate(self, batch, seed, temperature=None, repetition_penalty=None):
         """batch: [(voice, language_name, text_for_model)] -> [np.float32 wav at 24 kHz]."""
         torch = self.torch
+        out = [None] * len(batch)
+        real_idx = []
+        for idx, b in enumerate(batch):
+            if not any(ch.isalnum() for ch in b[2]):
+                out[idx] = np.zeros(int(0.08 * NATIVE_SR), dtype=np.float32)
+            else:
+                real_idx.append(idx)
+        if not real_idx:
+            return out
+        sub = [batch[i] for i in real_idx]
         torch.manual_seed(seed)
         np.random.seed(seed % (2 ** 32))
         t = self.s["tts"]
-        longest = max(len(b[2]) for b in batch)
-        max_tokens = min(t["max_new_tokens"], int((longest / 4.5 + 3) * 12.5) + 30)
+        longest = max(len(b[2]) for b in sub)
+        cps_floor = 4.5 if any(b[1] in ("Chinese", "Japanese", "Korean") for b in sub) else 8.0
+        max_tokens = min(t["max_new_tokens"], int((longest / cps_floor + 2.2) * 12.5) + 20)
         wavs, sr = self.q.generate_voice_clone(
-            text=[b[2] for b in batch], language=[b[1] for b in batch],
-            voice_clone_prompt=[self._prompt(b[0]) for b in batch],
+            text=[b[2] for b in sub], language=[b[1] for b in sub],
+            voice_clone_prompt=[self._prompt(b[0]) for b in sub],
             temperature=temperature or t["temperature"], top_k=t["top_k"], top_p=t["top_p"],
             repetition_penalty=repetition_penalty if repetition_penalty is not None else t["repetition_penalty"], max_new_tokens=max_tokens)
         assert sr == NATIVE_SR, sr
-        return [np.asarray(w, dtype=np.float32) for w in wavs]
+        for idx, w in zip(real_idx, wavs):
+            out[idx] = np.asarray(w, dtype=np.float32)
+        return out
 
 
 class QwenCustomEngine:
@@ -123,17 +136,29 @@ class QwenCustomEngine:
     def generate(self, batch, seed, temperature=None, repetition_penalty=None):
         """batch: [(voice, language_name, text_for_model)] -> [np.float32 wav at 24 kHz]."""
         torch = self.torch
+        out = [None] * len(batch)
+        real_idx = []
+        for idx, b in enumerate(batch):
+            if not any(ch.isalnum() for ch in b[2]):
+                out[idx] = np.zeros(int(0.08 * NATIVE_SR), dtype=np.float32)
+            else:
+                real_idx.append(idx)
+        if not real_idx:
+            return out
+        sub = [batch[i] for i in real_idx]
         torch.manual_seed(seed)
         np.random.seed(seed % (2 ** 32))
         t = self.s["tts"]
-        longest = max(len(b[2]) for b in batch)
-        max_tokens = min(t["max_new_tokens"], int((longest / 4.5 + 3) * 12.5) + 30)
-        speakers = [self.voices.refs[b[0]]["customVoice"]["speaker"] for b in batch]
-        instructs = [self.voices.refs[b[0]]["customVoice"].get("instruct", "") for b in batch]
+        longest = max(len(b[2]) for b in sub)
+        # Alphabetic English speaks at ~13-16 chars/s; 9.5 chars/s + 2.0s gives generous ceiling without 80s EOS-miss babble
+        cps_floor = 4.5 if any(b[1] in ("Chinese", "Japanese", "Korean") for b in sub) else 9.5
+        max_tokens = min(t["max_new_tokens"], int((longest / cps_floor + 2.0) * 12.5) + 16)
+        speakers = [self.voices.refs[b[0]]["customVoice"]["speaker"] for b in sub]
+        instructs = [self.voices.refs[b[0]]["customVoice"].get("instruct", "") for b in sub]
         wavs, sr = self.q.generate_custom_voice(
-            text=[b[2] for b in batch],
+            text=[b[2] for b in sub],
             speaker=speakers,
-            language=[b[1] for b in batch],
+            language=[b[1] for b in sub],
             instruct=instructs,
             temperature=temperature or t["temperature"],
             top_k=t["top_k"],
@@ -142,7 +167,9 @@ class QwenCustomEngine:
             max_new_tokens=max_tokens,
         )
         assert sr == NATIVE_SR, sr
-        return [np.asarray(w, dtype=np.float32) for w in wavs]
+        for idx, w in zip(real_idx, wavs):
+            out[idx] = np.asarray(w, dtype=np.float32)
+        return out
 
     def synth_many(self, items, store):
         """items: [dict(key, voice, lang, text_tts, text_plain)] unique by key. Fills store.tts_path(key) for each.
