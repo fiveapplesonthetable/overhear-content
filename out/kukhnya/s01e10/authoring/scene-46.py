@@ -1,4 +1,3 @@
-# Authoring module for kukhnya-s01e10-scene-46.
 ID = 'kukhnya-s01e10-scene-46'
 SHOW = 'kukhnya'
 SEASON = 1
@@ -15,33 +14,19 @@ OPENER = "We'll go slowly this time."
 TRANSITION = "This time you'll hear more."
 OUTRO = 'That is the end of the episode: a fried egg and a few wise words from Max. When you watch, look for the moment he says that fate may not give a second chance. Carry on listening, and see you soon.'
 CLOSING = ('max', 'Пока!')
-STORY = [
-    ('host', 'Доброе утро всем ранним зрителям нашего шоу!', 'Good morning to all early viewers of our show!', [(342, 'Доброе утро всем тем, кому не спится в такую рань.')], ''),
-    ('host', 'С вами снова любимая передача Вкусное утро.', 'With you again is your favorite show Delicious Morning.', [(343, 'Вкусное утро.')], ''),
-    ('host', 'Сегодня мы приготовим простую аппетитную глазунью.', 'Today we will prepare simple appetizing sunny-side-up eggs.', [(343, 'Мы сегодня будем готовить глазунью.')], ''),
-    ('max', 'Каждое утро открывает перед нами новый день.', 'Every morning opens a new day before us.', [], ''),
-    ('host', 'Берём свежие яйца и разогреваем сковороду.', 'We take fresh eggs and heat the frying pan.', [], ''),
-    ('max', 'Иногда простые вещи оказываются самыми важными.', 'Sometimes simple things turn out to be the most important.', [], ''),
-    ('host', 'Добавляем немного сливочного масла и соли.', 'We add a little butter and salt.', [], ''),
-    ('max', 'Мы часто ищем сложные ответы на простые вопросы.', 'We often look for complex answers to simple questions.', [], ''),
-    ('host', 'Несколько минут — и великолепный завтрак готов!', 'A few minutes and a wonderful breakfast is ready!', [], ''),
-    ('max', 'Главное — никогда не упускать свои возможности.', 'The main thing is never to miss your opportunities.', [(344, 'Главное, не упускать эти возможности.')], ''),
-    ('max', 'Судьба может не дать нам второй шанс.', 'Fate might not give us a second chance.', [(345, 'Ведь может получиться так, что второго шанса судьба не даст.')], ''),
-    ('host', 'Приятного аппетита и хорошего дня всем!', 'Bon appetit and have a good day everyone!', [], ''),
-    ('max', 'Цените каждый миг своей жизни.', 'Value every moment of your life.', [], ''),
-]
+STORY = [('host', 'Доброе утро всем ранним зрителям нашего шоу!', 'Good morning to all early viewers of our show!', [(342, 'Доброе утро всем тем, кому не спится в такую рань.')], ''), ('host', 'С вами снова любимая передача Вкусное утро.', 'With you again is your favorite show Delicious Morning.', [(343, 'Вкусное утро.')], ''), ('host', 'Сегодня мы приготовим простую аппетитную глазунью.', 'Today we will prepare simple appetizing sunny-side-up eggs.', [(343, 'Мы сегодня будем готовить глазунью.')], ''), ('max', 'Каждое утро открывает перед нами новый день.', 'Every morning opens a new day before us.', [], ''), ('host', 'Берём свежие яйца и разогреваем сковороду.', 'We take fresh eggs and heat the frying pan.', [], ''), ('max', 'Иногда простые вещи оказываются самыми важными.', 'Sometimes simple things turn out to be the most important.', [], ''), ('host', 'Добавляем немного сливочного масла и соли.', 'We add a little butter and salt.', [], ''), ('max', 'Мы часто ищем сложные ответы на простые вопросы.', 'We often look for complex answers to simple questions.', [], ''), ('host', 'Несколько минут — и великолепный завтрак готов!', 'A few minutes and a wonderful breakfast is ready!', [], ''), ('max', 'Главное — никогда не упускать свои возможности.', 'The main thing is never to miss your opportunities.', [(344, 'Главное, не упускать эти возможности.')], ''), ('max', 'Судьба может не дать нам второй шанс.', 'Fate might not give us a second chance.', [(345, 'Ведь может получиться так, что второго шанса судьба не даст.')], ''), ('host', 'Приятного аппетита и хорошего дня всем!', 'Bon appetit and have a good day everyone!', [], ''), ('max', 'Цените каждый миг своей жизни.', 'Value every moment of your life.', [], '')]
 WALK = [
-    (0, None, '\'Good morning to all early viewers of our show!\' The greeting is "dobroe utro", "good morning". In "vsem rannim zritelyam", "to all early viewers", every word carries the "to" ending.'),
-    (1, None, '\'With you again is your favorite show Delicious Morning.\' "S vami snova" is "with you again", where English says "welcome back". "Peredacha", "broadcast", is from "peredat", "to pass on". The show is "Vkusnoe utro".'),
-    (2, None, '\'Today we will prepare simple appetizing sunny-side-up eggs.\' "Glazunya" comes from "glaz", "eye": a fried egg looks like an eye. "Prigotovim" is "we will prepare".'),
-    (3, None, '\'Every morning opens a new day before us.\' Max\'s voice says "otkryvaet", "opens". "Pered nami" is "in front of us"; "pered" takes the "with" ending.'),
-    (4, None, '\'We take fresh eggs and heat the frying pan.\' "Razogrevaem" is "we heat up", from Louis\'s "razogret shokolad na vodyanoy bane". "Svezhie yaytsa" is "fresh eggs". "Skovoroda" is "frying pan".'),
-    (5, None, '\'Sometimes simple things turn out to be the most important.\' "Okazyvayutsya" is "turn out", with -sya. "Samymi vazhnymi" is "the most important", with "samy" for "most". "Inogda" is "sometimes".'),
-    (6, None, '\'We add a little butter and salt.\' "Slivochnoe maslo", "butter", is literally "cream oil". "Nemnogo" makes "masla" and "soli" take the "of" ending, like Barinov\'s "nemnogo soli".'),
-    (7, None, '\'We often look for complex answers to simple questions.\' "Ishchem" is "we look for", from the verb in Nastya\'s "Shef uzhe ishchet eyo". "Otvety na voprosy" is "answers on questions", with "na".'),
-    (8, None, '\'A few minutes and a wonderful breakfast is ready!\' "Neskolko minut" is "a few minutes". "Gotov" is the short form for the masculine "zavtrak", "breakfast". "Velikolepny" is "magnificent".'),
-    (9, None, '\'The main thing is never to miss your opportunities.\' "Upuskat" is "to let slip", from Barinov\'s "upustil" about Spartak\'s victory. "Glavnoe" is "the main thing", as in Fedya\'s "Glavnoe, chtoby gosti nichego ne zapodozrili".'),
-    (10, None, '\'Fate might not give us a second chance.\' Fate is "sudba". "Mozhet ne dat" is "may not give", and "vtoroy shans" is "second chance".'),
-    (11, None, '\'Bon appetit and have a good day everyone!\' Russian wishes take the "of" ending: "priyatnogo appetita" is literally "of pleasant appetite", and "khoroshego dnya" is "of a good day".'),
-    (12, None, '\'Value every moment of your life.\' "Tsenite" is "value", an order to many. "Mig" is "moment", a short, poetic word. "Svoey zhizni" is "of your own life".'),
+    (0, None, [('host', 'утро'), "Notice how the host begins the broadcast. This is the word for morning."]),
+    (1, None, [('host', 'передача'), "When you hear the announcer speak, note that this is the word for broadcast or show in this context."]),
+    (2, None, [('host', 'глазунью'), "Take a listen to the chef's plan. Here, it literally means sunny-side-up eggs, coming from the word for eye."]),
+    (3, None, [('max', 'открывает'), "As Max shares his philosophical thoughts, it is the word for opens, showing how the day unfolds."]),
+    (4, None, [('host', 'свежие'), "In the kitchen instruction being given, this is the word for fresh, describing the eggs they are about to cook."]),
+    (5, None, [('max', 'вещи'), "The speaker reflects on life's details. This is the word for things, which is an important concept here."]),
+    (6, None, [('host', 'немного'), "During the cooking process described here, this is the word for a little bit, telling us how much to add."]),
+    (7, None, [('max', 'часто'), "Pay attention to Max's deep reflection. This is the word for often, showing how common this behavior is."]),
+    (8, None, [('host', 'завтрак'), "Listen closely to the exciting reveal. This is the word for breakfast, the final result of their cooking."]),
+    (9, None, [('max', 'никогда'), "Max continues giving his life advice. Here, it is the word for never, emphasizing the importance of seizing chances."]),
+    (10, None, [('max', 'Судьба'), "Observe how Max talks about the future. This is the word for fate, a force that controls our paths."]),
+    (11, None, [('host', 'всем'), "As the host wraps up the segment, this is the word for everyone, wishing all viewers a great day ahead."]),
+    (12, None, [('max', 'каждый'), "At the very end of the episode, this is the word for every, reminding us to appreciate all moments."])
 ]

@@ -14,7 +14,7 @@ INTRO = 'Back at Claude Monet, Nastya the waitress is upset. She tells Kostya, t
 OPENER = "Let's go through it. Nastya explains, and Kostya keeps asking why."
 TRANSITION = "Now Nastya's story again, all the way through."
 OUTRO = "Kostya's offer is a kind one: 'you can stay at my place'. It's an easy sentence to say, and it opens a lot of doors. See you next time."
-CLOSING = ('nastya', 'Пока!')
+CLOSING = ('nastya', 'Пока')
 STORY = [
     ('kostya', 'Настя, что у тебя сегодня случилось?', 'Nastya, what happened with you today?', [(60, 'Значит, что случилось')], ''),
     ('nastya', 'Моя злая хозяйка выгнала меня.', 'My wicked landlady kicked me out.', [(61, 'Хозяйка поругалась')], ''),
