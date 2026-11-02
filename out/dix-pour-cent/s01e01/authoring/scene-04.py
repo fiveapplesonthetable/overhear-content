@@ -15,7 +15,7 @@ INTRO = ('Mathias greets Camille at the agency, then continues their conversatio
  'more familiar conversation that follows.')
 OPENER = ("Let's go through the meeting. Mathias first greets Camille at the agency; at the restaurant, a waiter "
  'takes their drinks order.')
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('You have heard a polite order to a waiter and a familiar conversation between people who know each other '
  'well. The word for you changes with the person being addressed. See you next time.')
 CLOSING = ('camille', 'Salut, Mathias!')
@@ -87,75 +87,23 @@ STORY = [('mathias',
   "Sorry, that's all I can do.",
   [(170, "Désolé, c'est tout ce que je peux faire")],
   '')]
-WALK = [(0,
-  'Bonjour, Camille.',
-  "'Hello, Camille.' A greeting followed directly by someone's name is enough to welcome them. Mathias keeps "
-  'his tone reserved.'),
- (0,
-  'Venez.',
-  "'Come along.' The instruction uses the polite form of 'come'. In front of the agency staff, Mathias keeps "
-  'his greeting formal.'),
- (1,
-  None,
-  "'A coffee, please.' The last part literally means 'if it pleases you', with the formal 'you'; it's the "
-  "standard way to say please to anyone you don't know."),
- (2,
-  None,
-  "'Tea.' Camille names her drink in one short group. The little word before it means 'a', as in Mathias's "
-  'coffee order. A complete sentence is unnecessary when the waiter is taking an order.'),
- (3,
-  None,
-  "'Why didn't you call?' The question begins with 'why'. Mathias has switched to the familiar 'you', and "
-  "the two little negatives surround the helping verb meaning 'have'."),
- (4,
-  'Je voulais te faire la surprise.',
-  "'I wanted to surprise you.' Camille answers with the casual 'you' too; the small word for 'you' sits "
-  'right before the verb.'),
- (5,
-  None,
-  "'It's nice here. Free lollipops!' At the restaurant table, Camille mistakes the wrapped sugar sticks for "
-  "sweets. The informal description 'nice' fits her cheerful first impression."),
- (6,
-  None,
-  "'It's sugar for the coffee.' The little word before 'sugar' names an unspecified amount. Mathias points "
-  'out what the sticks really are.'),
- (7,
-  None,
-  "'What are you doing in Paris? Are you on holiday?' The opening question expression asks 'what'. The "
-  'holiday noun in this expression normally has a plural form, although English uses the singular.'),
- (8,
-  'Ça fait trois semaines que je suis là.',
-  "'I've been here for three weeks.' French uses the present tense for this: literally 'it makes three weeks "
-  "that I am here'. She has moved to Paris without telling him."),
- (9,
-  None,
-  "'Didn't you like Mandelieu? It's a lovely place.' Listen to the ending of the description 'lovely'. "
-  'Before a masculine word beginning with a vowel, it has a special short form.'),
- (10,
-  None,
-  "'I've got a little loft. And I'm looking for work.' The word for work here is a casual one, like 'a "
-  "job'."),
- (11,
-  "Tu pourrais m'aider.",
-  "'You could help me.' This is the gentle, polite 'could'. She hopes he'll use his contacts in the film "
-  'business.'),
- (12,
-  None,
-  "'Another whim?' The adjective means 'new', but 'another' captures his impatient tone. Its ending matches "
-  'a masculine noun.'),
- (13,
-  'Je suis sérieuse.',
-  "'I'm serious.' The word for 'serious' takes a feminine ending, because Camille is a woman. The man's "
-  'version ends differently.'),
- (13,
-  "J'ai toujours adoré le cinéma.",
-  "'I've always loved films.' The word for 'always' fits between 'have' and the past action. Here the French "
-  'word for cinema includes films and the world of film-making.'),
- (14,
-  None,
-  "'Listen, it's an industry, and it's full of sharks.' The word for 'full' has a feminine ending to match "
-  "'industry'. The sharks are a warning about the people in that business."),
- (15,
-  None,
-  "'Sorry, that's all I can do.' The last action is left in its plain form after 'can'. The apology makes "
-  'his refusal sound gentler, but he still offers no help.')]
+WALK = [
+    (0, 'Bonjour, Camille.', "'Hello, Camille.' A greeting followed directly by someone's name is enough to welcome them. Mathias keeps his tone reserved."),
+    (0, 'Venez.', "'Come along.' The instruction uses the polite form of 'come'. In front of the agency staff, Mathias keeps his greeting formal."),
+    (1, None, "'A coffee, please.' The last part literally means 'if it pleases you', with the formal 'you'; it's the standard way to say please to anyone you don't know."),
+    (2, None, "'Tea.' Camille names her drink in one short group. The little word before it means 'a', as in Mathias's coffee order. A complete sentence is unnecessary when the waiter is taking an order."),
+    (3, None, "'Why didn't you call?' The question begins with 'why'. Mathias has switched to the familiar 'you', and the two little negatives surround the helping verb meaning 'have'."),
+    (4, 'Je voulais te faire la surprise.', "'I wanted to surprise you.' Camille answers with the casual 'you' too; the small word for 'you' sits right before the verb."),
+    (5, None, "'It's nice here. Free lollipops!' At the restaurant table, Camille mistakes the wrapped sugar sticks for sweets. The informal description 'nice' fits her cheerful first impression."),
+    (6, None, "'It's sugar for the coffee.' The little word before 'sugar' names an unspecified amount. Mathias points out what the sticks really are."),
+    (7, None, "'What are you doing in Paris? Are you on holiday?' The opening question expression asks 'what'. The holiday noun in this expression normally has a plural form, although English uses the singular."),
+    (8, 'Ça fait trois semaines que je suis là.', "'I've been here for three weeks.' French uses the present tense for this: literally 'it makes three weeks that I am here'. She has moved to Paris without telling him."),
+    (9, None, "'Didn't you like Mandelieu? It's a lovely place.' Listen to the ending of the description 'lovely'. Before a masculine word beginning with a vowel, it has a special short form."),
+    (10, None, "'I've got a little loft. And I'm looking for work.' The word for work here is a casual one, like 'a job'."),
+    (11, "Tu pourrais m'aider.", "'You could help me.' This is the gentle, polite 'could'. She hopes he'll use his contacts in the film business."),
+    (12, None, "'Another whim?' The adjective means 'new', but 'another' captures his impatient tone. Its ending matches a masculine noun."),
+    (13, 'Je suis sérieuse.', "'I'm serious.' The word for 'serious' takes a feminine ending, because Camille is a woman. The man's version ends differently."),
+    (13, "J'ai toujours adoré le cinéma.", "'I've always loved films.' The word for 'always' fits between 'have' and the past action. Here the French word for cinema includes films and the world of film-making."),
+    (14, None, "'Listen, it's an industry, and it's full of sharks.' The word for 'full' has a feminine ending to match 'industry'. The sharks are a warning about the people in that business."),
+    (15, None, "'Sorry, that's all I can do.' The last action is left in its plain form after 'can'. The apology makes his refusal sound gentler, but he still offers no help."),
+]

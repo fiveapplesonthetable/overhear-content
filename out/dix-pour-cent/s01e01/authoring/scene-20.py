@@ -15,7 +15,7 @@ INTRO = ("Mathias meets the producer Miranda Jones at a Paris tea room. He hopes
  'Miranda has already made a decision. Listen to the compliments, the argument about age and the sudden '
  'change of subject.')
 OPENER = "Let's take it slowly. Mathias starts the way he always does with an important person: with a big compliment."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "That's the scene: words like radiant and student change their sound for a woman, and now you can hear the difference. See you next time!"
 CLOSING = ('miranda', 'Au revoir, Mathias!')
 STORY = [('mathias',
@@ -94,67 +94,21 @@ STORY = [('mathias',
   [(602, 'un macaron'), (603, "C'est leur spécialité")],
   'Polite suggestion shortened to a polite instruction.'),
  ('miranda', 'Merci.', 'Thank you.', [(603, 'Merci')], '')]
-WALK = [(0,
-  None,
-  "'Miranda, you look radiant.' French literally says 'you are radiant'. Listen for the final consonant in "
-  'the feminine description; the masculine version ends sooner.'),
- (1,
-  None,
-  "'Paris suits you wonderfully.' Mathias uses a set phrase: the city 'goes to you' marvellously. Flattery, "
-  'in the smoothest possible French.'),
- (2,
-  None,
-  "'Thank you, Mathias. I love Paris!' The action word here is 'to adore', and the French use it for things "
-  'they like a lot, cities included.'),
- (3,
-  None,
-  "'I lived here when I was a student.' The word for 'student' takes the feminine ending too, because "
-  "Miranda is talking about herself. She jokes that she won't say how long ago that was."),
- (4,
-  None,
-  "'We understand Tarantino's hesitation.' Mathias uses the word for 'we' to speak for the agency. The "
-  "ending of 'understand' matches that subject."),
- (5,
-  None,
-  "'Yes, Quentin has a lot of talent.' A short word meaning 'of' links 'a lot' to 'talent'. The French noun "
-  "can stay singular when talking about someone's ability."),
- (6,
-  None,
-  "'It's a real shame about Cecile.' The short expression beginning 'it's' introduces disappointment. Here "
-  "the word for 'for' naturally becomes English 'about'."),
- (7,
-  None,
-  "'But he wants someone under thirty.' Literally 'someone of less than thirty years'. So now we know: it "
-  'really is about age.'),
- (8,
-  None,
-  "'Yes, Cecile is a little older.' French builds 'older' by putting 'more' before the description of age. "
-  "The extra written letter for Cecile's gender is silent here."),
- (9,
-  None,
-  "'A little? She's forty-one.' Listen to how age works: in French you don't 'are' an age, you 'have' it. "
-  'She has forty-one years.'),
- (10,
-  None,
-  "'Forty. She's just turned forty.' A present form of 'come', a short word meaning 'from', and another "
-  "action together mean 'has just'. The action 'have' belongs to the French way of saying someone's age."),
- (11,
-  None,
-  "'She'll be forty-one for the film.' French again uses 'have' for age, this time with an ending pointing "
-  "to the future. Miranda is thinking about Cecile's age during filming."),
- (12,
-  None,
-  "'Yes, but she looks thirty.' French uses the action 'do' before an age to say how old someone looks. It "
-  'describes her appearance, rather than her actual age.'),
- (13,
-  None,
-  "'I'm sorry, Mathias, it's decided.' The word for 'sorry' is spelled with the feminine ending, because a "
-  "woman says it, but it sounds exactly the same as a man's. The door is closed."),
- (14,
-  None,
-  "'Try a macaron! It's their speciality.' Mathias changes the subject with a polite invitation. The "
-  "possessive before 'speciality' refers to the tea room and has a singular spelling for one speciality."),
- (15,
-  None,
-  "'Thank you.' Miranda gives a short polite response to his offer. Her decision about the film part still "
-  'stands.')]
+WALK = [
+    (0, None, "'Miranda, you look radiant.' French literally says 'you are radiant'. Listen for the final consonant in the feminine description; the masculine version ends sooner."),
+    (1, None, "'Paris suits you wonderfully.' Mathias uses a set phrase: the city 'goes to you' marvellously. Flattery, in the smoothest possible French."),
+    (2, None, "'Thank you, Mathias. I love Paris!' The action word here is 'to adore', and the French use it for things they like a lot, cities included."),
+    (3, None, "'I lived here when I was a student.' The word for 'student' takes the feminine ending too, because Miranda is talking about herself. She jokes that she won't say how long ago that was."),
+    (4, None, "'We understand Tarantino's hesitation.' Mathias uses the word for 'we' to speak for the agency. The ending of 'understand' matches that subject."),
+    (5, None, "'Yes, Quentin has a lot of talent.' A short word meaning 'of' links 'a lot' to 'talent'. The French noun can stay singular when talking about someone's ability."),
+    (6, None, "'It's a real shame about Cecile.' The short expression beginning 'it's' introduces disappointment. Here the word for 'for' naturally becomes English 'about'."),
+    (7, None, "'But he wants someone under thirty.' Literally 'someone of less than thirty years'. So now we know: it really is about age."),
+    (8, None, "'Yes, Cecile is a little older.' French builds 'older' by putting 'more' before the description of age. The extra written letter for Cecile's gender is silent here."),
+    (9, None, "'A little? She's forty-one.' Listen to how age works: in French you don't 'are' an age, you 'have' it. She has forty-one years."),
+    (10, None, "'Forty. She's just turned forty.' A present form of 'come', a short word meaning 'from', and another action together mean 'has just'. The action 'have' belongs to the French way of saying someone's age."),
+    (11, None, "'She'll be forty-one for the film.' French again uses 'have' for age, this time with an ending pointing to the future. Miranda is thinking about Cecile's age during filming."),
+    (12, None, "'Yes, but she looks thirty.' French uses the action 'do' before an age to say how old someone looks. It describes her appearance, rather than her actual age."),
+    (13, None, "'I'm sorry, Mathias, it's decided.' The word for 'sorry' is spelled with the feminine ending, because a woman says it, but it sounds exactly the same as a man's. The door is closed."),
+    (14, None, "'Try a macaron! It's their speciality.' Mathias changes the subject with a polite invitation. The possessive before 'speciality' refers to the tea room and has a singular spelling for one speciality."),
+    (15, None, "'Thank you.' Miranda gives a short polite response to his offer. Her decision about the film part still stands."),
+]

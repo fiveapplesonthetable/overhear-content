@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = ('After his meeting with Miranda, Mathias visits Cecile at home. She has left Gabriel and distrusts agents, '
  'but she lets Mathias join her in the garden. Hear the French first and follow the change in her mood.')
 OPENER = "Let's go through the visit. Cecile welcomes Mathias, but she is not yet ready to trust another agent."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('You have heard an apology and several requests for help; listen again for the polite forms and the small '
  'words naming who is helped. See you next time.')
 CLOSING = ('cecile', 'À bientôt, Mathias!')
@@ -90,82 +90,25 @@ STORY = [('cecile',
   'Really? What did she say?',
   [(678, 'Ah bon'), (679, "Qu'est-ce qu'elle a dit")],
   '')]
-WALK = [(0,
-  None,
-  "'Hello, Mathias. Come in.' The polite instruction begins straight with the action, without a separate "
-  "word for 'you'. It welcomes Mathias inside."),
- (1,
-  None,
-  "'Cecile.' Mathias answers her greeting with her first name. They know each other through the agency."),
- (2,
-  'Je jardine. Vous venez?',
-  "'I'm gardening. Are you coming?' French has no separate 'I am doing' form: 'I garden' also means 'I'm "
-  "gardening'. Out in the garden, Mathias starts with an apology."),
- (3,
-  None,
-  "'On behalf of the agency, I apologise.' Literally, he presents his apologies 'in the name of' the agency. "
-  'The French apology noun is plural in this formal expression.'),
- (4,
-  None,
-  "'You want to win me back, but there is no chance.' The action meaning 'get back' can refer to recovering "
-  'a client. Cecile recognises exactly why he has come.'),
- (4,
-  None,
-  "'You want to win me back, but there is no chance.' In the second half, the expression for 'there is' "
-  "becomes negative. The word before 'chance' means 'not a single'."),
- (5,
-  None,
-  "'Are you going to sign with StarMedia?' The polite form of 'go' comes before the action 'sign', showing a "
-  "plan. The small word linking it to the agency means 'with'."),
- (6,
-  'Je ne sais pas.',
-  "'I don't know.' The negative wraps around the action word in two parts. In everyday speech the French "
-  'often drop the first part, and Cécile does in the show, but the full form is the one to learn.'),
- (6,
-  'Tout le monde ment dans ce milieu.',
-  "'Everyone lies in this business.' Literally 'all the world lies in this circle'. That's a dig at Gabriel, "
-  'and at agents in general.'),
- (7,
-  None,
-  "'Can you give me a hand?' The expression asks for help, rather than a body part. Cecile keeps the polite "
-  "'you' when she asks Mathias to help with the garden."),
- (8,
-  None,
-  "'Yes, of course.' The final two words make a useful reply on their own. Mathias agrees readily to her "
-  'request for help.'),
- (9,
-  None,
-  "'Hand me the bucket.' In this polite instruction, 'me' attaches after the action with a hyphen. In an "
-  'ordinary statement it would come before the action.'),
- (10,
-  None,
-  "'The bucket? Oh, yes.' The little definite article is masculine, matching 'bucket'. Mathias repeats her "
-  'request while working out what she wants.'),
- (11,
-  None,
-  "'It's compost. It feeds the earth.' The first little word before compost means 'some', because you can't "
-  'count compost. The man in the elegant suit is carrying a bucket of it.'),
- (12,
-  'La terre, elle est vraie.',
-  "'The earth is honest.' Literally 'the earth, it is true'. French often names the thing first and then "
-  'repeats it with a short stand-in word.'),
- (12,
-  'Elle ne sait pas mentir.',
-  "'It doesn't know how to lie.' After the verb for 'to know how' comes an infinitive: 'to lie'. Unlike "
-  'people, she means. Mathias puts on his gentle voice.'),
- (13,
-  None,
-  "'Listen, Cecile. I understand your disappointment.' The first word is a polite instruction. The word "
-  "meaning 'your' also keeps their conversation polite."),
- (14,
-  None,
-  "'I talked to Miranda.' This is the past tense with 'have' plus the past form of 'talk'. Miranda is the "
-  'producer who said Cécile was too old.'),
- (15,
-  None,
-  "'They're ready to talk about it.' The tiny word in front of the verb means 'about it'. And that changes "
-  'everything for Cécile.'),
- (16,
-  None,
-  "'Really? What did she say?' The first two words show surprise, a bit like 'oh really?'. Suddenly she is "
-  "listening very closely. Let's listen to the whole scene again, in one go.")]
+WALK = [
+    (0, None, "'Hello, Mathias. Come in.' The polite instruction begins straight with the action, without a separate word for 'you'. It welcomes Mathias inside."),
+    (1, None, "'Cecile.' Mathias answers her greeting with her first name. They know each other through the agency."),
+    (2, 'Je jardine. Vous venez?', "'I'm gardening. Are you coming?' French has no separate 'I am doing' form: 'I garden' also means 'I'm gardening'. Out in the garden, Mathias starts with an apology."),
+    (3, None, "'On behalf of the agency, I apologise.' Literally, he presents his apologies 'in the name of' the agency. The French apology noun is plural in this formal expression."),
+    (4, None, "'You want to win me back, but there is no chance.' The action meaning 'get back' can refer to recovering a client. Cecile recognises exactly why he has come."),
+    (4, None, "'You want to win me back, but there is no chance.' In the second half, the expression for 'there is' becomes negative. The word before 'chance' means 'not a single'."),
+    (5, None, "'Are you going to sign with StarMedia?' The polite form of 'go' comes before the action 'sign', showing a plan. The small word linking it to the agency means 'with'."),
+    (6, 'Je ne sais pas.', "'I don't know.' The negative wraps around the action word in two parts. In everyday speech the French often drop the first part, and Cécile does in the show, but the full form is the one to learn."),
+    (6, 'Tout le monde ment dans ce milieu.', "'Everyone lies in this business.' Literally 'all the world lies in this circle'. That's a dig at Gabriel, and at agents in general."),
+    (7, None, "'Can you give me a hand?' The expression asks for help, rather than a body part. Cecile keeps the polite 'you' when she asks Mathias to help with the garden."),
+    (8, None, "'Yes, of course.' The final two words make a useful reply on their own. Mathias agrees readily to her request for help."),
+    (9, None, "'Hand me the bucket.' In this polite instruction, 'me' attaches after the action with a hyphen. In an ordinary statement it would come before the action."),
+    (10, None, "'The bucket? Oh, yes.' The little definite article is masculine, matching 'bucket'. Mathias repeats her request while working out what she wants."),
+    (11, None, "'It's compost. It feeds the earth.' The first little word before compost means 'some', because you can't count compost. The man in the elegant suit is carrying a bucket of it."),
+    (12, 'La terre, elle est vraie.', "'The earth is honest.' Literally 'the earth, it is true'. French often names the thing first and then repeats it with a short stand-in word."),
+    (12, 'Elle ne sait pas mentir.', "'It doesn't know how to lie.' After the verb for 'to know how' comes an infinitive: 'to lie'. Unlike people, she means. Mathias puts on his gentle voice."),
+    (13, None, "'Listen, Cecile. I understand your disappointment.' The first word is a polite instruction. The word meaning 'your' also keeps their conversation polite."),
+    (14, None, "'I talked to Miranda.' This is the past tense with 'have' plus the past form of 'talk'. Miranda is the producer who said Cécile was too old."),
+    (15, None, "'They're ready to talk about it.' The tiny word in front of the verb means 'about it'. And that changes everything for Cécile."),
+    (16, None, "'Really? What did she say?' The first two words show surprise, a bit like 'oh really?'. Suddenly she is listening very closely."),
+]

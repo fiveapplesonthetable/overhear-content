@@ -15,7 +15,7 @@ INTRO = ("Andrea wants to know the terms of Mathias's contract for the actor Gui
  'find out. Camille asks Noemie for help, while Gabriel is trying to discover who told Cecile the truth. '
  'Listen to the requests, denials and interruption in French.')
 OPENER = "Let's go back through it slowly. Camille arrives at the desks, looks around, and notices that the friendly assistant is missing."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('You have heard refusals built with not, nothing and nobody. Meanwhile, Mathias asks Noemie to find Miranda '
  "Jones's number: he wants to see the producer about Cecile's part. See you next time.")
 CLOSING = ('noemie', 'Au revoir!')
@@ -81,64 +81,21 @@ STORY = [('camille', "Hervé n'est pas là?", "Isn't Hervé here?", [(538, "Herv
   'Yes, Mathias?',
   [(579, 'Oui, Mathias')],
   'Noemie answers her boss directly; no phone call is involved.')]
-WALK = [(0,
-  None,
-  "'Isn't Herve here?' Two small negatives surround 'is'. The last word can mean either 'here' or 'there', "
-  'depending on where the speaker is looking.'),
- (1,
-  None,
-  "'Noémie, I have a problem.' French uses a form of 'have' to say that there is a problem, just as English does here. The article before 'problem' is masculine and singular; it introduces a problem she has not yet explained."),
- (2,
-  None,
-  "'I think you can help me.' A short linking word joins 'think' to the next statement. After 'can', 'help' stays in its infinitive form. The little object meaning 'me' goes immediately before 'help'."),
- (3,
-  None,
-  "'I don't think so.' The two negative words surround 'think'. Noemie is reluctant to help, and suspicious "
-  "about Camille's relationship with Mathias."),
- (4,
-  "S'il te plaît.",
-  "'Please.' The expression literally means 'if it pleases you'. Its middle word has the familiar form for "
-  'one person.'),
- (4,
-  "Il n'y a rien entre Mathias et moi, d'accord?",
-  "'There's nothing between Mathias and me, okay?' Here the negative pairs with the word for 'nothing' "
-  "instead of the usual 'not'. Camille thinks Noémie is jealous. Of course she can't say that Mathias is "
-  'really her father.'),
- (5,
-  None,
-  "'Excuse me? That doesn't worry me at all.' The words at the end mean 'at all', and they make the denial "
-  'stronger. She says it a little too fast to be believed.'),
- (6,
-  None,
-  "'So, what's your problem?' The familiar possessive before 'problem' matches the way the two assistants "
-  'address each other. Noemie now asks what Camille actually needs.'),
- (7,
-  None,
-  "'I don't know anything about contracts.' Here 'nothing' replaces the ordinary negative 'not'. The word before 'contracts' combines 'to' with the plural article 'the'; French uses that combination after this way of saying 'know nothing'."),
- (8,
-  'Je peux regarder un contrat de Mathias?',
-  "'Can I look at one of Mathias's contracts?' The owner follows a short word meaning 'of'. French says 'a "
-  "contract of Mathias', where English uses the ending on his name."),
- (8,
-  'Celui de Canet, par exemple?',
-  "'Canet's, for example?' The first word means 'the one' and replaces the masculine noun 'contract'. "
-  'Camille can name the contract she wants without repeating that noun.'),
- (9,
-  None,
-  "'No, no, no! That's impossible.' Repeating 'no' strengthens the refusal. The description that follows "
-  "already contains the idea of 'not possible', without another pair of negatives."),
- (10,
-  None,
-  "'He doesn't let anyone see his contracts.' This time the small negative before 'let' pairs with 'nobody' "
-  "after it. The possessive before 'contracts' is plural because there is more than one contract."),
- (11,
-  None,
-  "'Where's the traitor? Where's the mole?' Both questions put 'where' before 'is'. The two nouns have different grammatical genders: 'traitor' is masculine here, while 'mole' is feminine. The second is a spy inside an organisation."),
- (12,
-  None,
-  "'She's gone! She's left me.' The action meaning 'depart' builds this past with 'be'. The action meaning "
-  "'leave someone' uses 'have', with the little object meaning 'me' before it."),
- (13,
-  None,
-  "'Yes, Mathias?' Noemie answers when her boss calls her. Naming him at the end identifies the person whose "
-  'attention she is acknowledging.')]
+WALK = [
+    (0, None, "'Isn't Herve here?' Two small negatives surround 'is'. The last word can mean either 'here' or 'there', depending on where the speaker is looking."),
+    (1, None, "'Noémie, I have a problem.' French uses a form of 'have' to say that there is a problem, just as English does here. The article before 'problem' is masculine and singular; it introduces a problem she has not yet explained."),
+    (2, None, "'I think you can help me.' A short linking word joins 'think' to the next statement. After 'can', 'help' stays in its infinitive form. The little object meaning 'me' goes immediately before 'help'."),
+    (3, None, "'I don't think so.' The two negative words surround 'think'. Noemie is reluctant to help, and suspicious about Camille's relationship with Mathias."),
+    (4, "S'il te plaît.", "'Please.' The expression literally means 'if it pleases you'. Its middle word has the familiar form for one person."),
+    (4, "Il n'y a rien entre Mathias et moi, d'accord?", "'There's nothing between Mathias and me, okay?' Here the negative pairs with the word for 'nothing' instead of the usual 'not'. Camille thinks Noémie is jealous. Of course she can't say that Mathias is really her father."),
+    (5, None, "'Excuse me? That doesn't worry me at all.' The words at the end mean 'at all', and they make the denial stronger. She says it a little too fast to be believed."),
+    (6, None, "'So, what's your problem?' The familiar possessive before 'problem' matches the way the two assistants address each other. Noemie now asks what Camille actually needs."),
+    (7, None, "'I don't know anything about contracts.' Here 'nothing' replaces the ordinary negative 'not'. The word before 'contracts' combines 'to' with the plural article 'the'; French uses that combination after this way of saying 'know nothing'."),
+    (8, 'Je peux regarder un contrat de Mathias?', "'Can I look at one of Mathias's contracts?' The owner follows a short word meaning 'of'. French says 'a contract of Mathias', where English uses the ending on his name."),
+    (8, 'Celui de Canet, par exemple?', "'Canet's, for example?' The first word means 'the one' and replaces the masculine noun 'contract'. Camille can name the contract she wants without repeating that noun."),
+    (9, None, "'No, no, no! That's impossible.' Repeating 'no' strengthens the refusal. The description that follows already contains the idea of 'not possible', without another pair of negatives."),
+    (10, None, "'He doesn't let anyone see his contracts.' This time the small negative before 'let' pairs with 'nobody' after it. The possessive before 'contracts' is plural because there is more than one contract."),
+    (11, None, "'Where's the traitor? Where's the mole?' Both questions put 'where' before 'is'. The two nouns have different grammatical genders: 'traitor' is masculine here, while 'mole' is feminine. The second is a spy inside an organisation."),
+    (12, None, "'She's gone! She's left me.' The action meaning 'depart' builds this past with 'be'. The action meaning 'leave someone' uses 'have', with the little object meaning 'me' before it."),
+    (13, None, "'Yes, Mathias?' Noemie answers when her boss calls her. Naming him at the end identifies the person whose attention she is acknowledging."),
+]

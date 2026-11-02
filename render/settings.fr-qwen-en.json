@@ -167,7 +167,7 @@
     "batch": 16,
     "prio": -1,
     "gpu": {
-      "ttsMiB": 12000,
+      "ttsMiB": 7800,
       "asrMiB": 2500
     },
     "scenesPerRun": 8
@@ -194,13 +194,13 @@
     "chunk": 400,
     "prio": -1,
     "gpu": {
-      "ttsMiB": 16000,
+      "ttsMiB": 9000,
       "asrMiB": 2500
     }
   },
   "gpu": {
     "_note": "VRAM reservations for render/gpurun (budget GPURUN_BUDGET_MIB, default 38500 for an A100 40 GB). One reservation per step per scene, so several scenes run at once. Measured on 8 GB: Qwen batch 4 = 6.2 GB, batch 8 = 7.0 GB; batch 16 is estimated at about 9-11 GB. If a step OOMs, lower tts.batch, not the reservations. Batch sizes and paths are not in the render key.",
-    "ttsMiB": 12000,
+    "ttsMiB": 7800,
     "ruMiB": 3400,
     "enMiB": 2400,
     "alignMiB": 1500

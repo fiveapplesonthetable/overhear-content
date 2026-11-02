@@ -15,7 +15,7 @@ INTRO = ('After the riding-school argument, Cecile asks Gabriel to come with her
  'the French first and listen for the change in her decision.')
 OPENER = ("Let's take it a line at a time. After the difficult ride, Gabriel and Cecile sit together at the stables "
  'and talk about the clinic.')
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Cecile decides against the treatment, and Gabriel becomes her agent again. Listen for the requests, the '
  'thanks and the final enthusiastic yes when you hear the scene again.')
 CLOSING = ('gabriel', 'Au revoir!')
@@ -98,68 +98,23 @@ STORY = [('gabriel',
   'Yes, madam!',
   [(902, 'Et comment')],
   'Original audio replies Madame; yes is made explicit. The reconstructed Et comment is not followed.')]
-WALK = [(0,
-  None,
-  "'When are you going to the clinic?' This question word for 'when' sits at the very end, which is how "
-  'people really talk. She answers in one word.'),
- (1,
-  None,
-  "'Tomorrow. No comment?' The first word supplies the time without repeating the whole answer. The second "
-  'short question asks whether Gabriel has anything to say about her plan.'),
- (2,
-  None,
-  "'No, I understand why you're doing it.' The small word just before the last action word means 'it', the "
-  'operation. It comes before the action word, not after it as in English.'),
- (3,
-  "C'est Mathias qui l'a trouvée.",
-  "'Mathias found it.' Literally 'it's Mathias who found it'. That shape puts the spotlight on one person, "
-  'and Gabriel hears the name of his rival very clearly.'),
- (4, None, "'Can you come with me? I'm scared.' To be afraid, French says 'I have fear'."),
- (5,
-  None,
-  "'We'll see.' The action has a future form, but the short subject is the everyday word for 'we'. It makes "
-  'a convenient answer when someone has not committed to yes.'),
- (6,
-  None,
-  "'Thanks for the lift.' The preposition after 'thanks' introduces the thing being thanked for. Here the "
-  'journey was a scooter ride, and they are standing outside the clinic.'),
- (7,
-  'Ne fais pas cette tête.',
-  "'Don't make that face.' Cécile gives an order in the casual form, made negative."),
- (7,
-  "J'ai pris ma décision.",
-  "'I've made my decision.' Literally 'I have taken my decision'. French takes a decision where English "
-  'makes one.'),
- (8,
-  None,
-  "'You're right. Everybody does it.' Another idea with 'to have': in French you have reason, which means "
-  "you're right. He is trying hard to sound supportive."),
- (9,
-  None,
-  "'I'll call you afterwards. Okay?' The present tense is perfectly normal for something that will happen "
-  'soon.'),
- (10, None, "'Okay. See you later.' The second part means later on today, not some day in the future."),
- (11,
-  None,
-  "'Hello. I have an appointment with Doctor Lubek.' In this expression, French says 'have appointment' "
-  "without an article. The doctor's name follows the small word meaning 'with'."),
- (12,
-  None,
-  "'Gabriel? You're still here?' The small word before 'here' means 'still'. Cecile comes back outside and "
-  'finds that Gabriel has waited with his scooter.'),
- (13,
-  None,
-  "'I'm not doing it.' This short line makes Cecile's decision explicit. The object meaning 'it' goes before "
-  "'do', inside the two little negative words."),
- (14,
-  None,
-  "'I knew it! You're a great actress.' The word for 'great' comes before the noun here, and it is feminine "
-  'to match the actress. Then Cécile asks him something important.'),
- (15,
-  None,
-  "'Gabriel, my guardian angel, will you be my agent?' Cecile now chooses polite 'you' for a playful "
-  'request. They have been speaking familiarly, but she treats him as an agent she is asking to hire.'),
- (16,
-  None,
-  "'Yes, madam!' Gabriel answers in the same polite tone. The title for a woman makes his enthusiastic yes "
-  'sound like a formal acceptance.')]
+WALK = [
+    (0, None, "'When are you going to the clinic?' This question word for 'when' sits at the very end, which is how people really talk. She answers in one word."),
+    (1, None, "'Tomorrow. No comment?' The first word supplies the time without repeating the whole answer. The second short question asks whether Gabriel has anything to say about her plan."),
+    (2, None, "'No, I understand why you're doing it.' The small word just before the last action word means 'it', the operation. It comes before the action word, not after it as in English."),
+    (3, "C'est Mathias qui l'a trouvée.", "'Mathias found it.' Literally 'it's Mathias who found it'. That shape puts the spotlight on one person, and Gabriel hears the name of his rival very clearly."),
+    (4, None, "'Can you come with me? I'm scared.' To be afraid, French says 'I have fear'."),
+    (5, None, "'We'll see.' The action has a future form, but the short subject is the everyday word for 'we'. It makes a convenient answer when someone has not committed to yes."),
+    (6, None, "'Thanks for the lift.' The preposition after 'thanks' introduces the thing being thanked for. Here the journey was a scooter ride, and they are standing outside the clinic."),
+    (7, 'Ne fais pas cette tête.', "'Don't make that face.' Cécile gives an order in the casual form, made negative."),
+    (7, "J'ai pris ma décision.", "'I've made my decision.' Literally 'I have taken my decision'. French takes a decision where English makes one."),
+    (8, None, "'You're right. Everybody does it.' Another idea with 'to have': in French you have reason, which means you're right. He is trying hard to sound supportive."),
+    (9, None, "'I'll call you afterwards. Okay?' The present tense is perfectly normal for something that will happen soon."),
+    (10, None, "'Okay. See you later.' The second part means later on today, not some day in the future."),
+    (11, None, "'Hello. I have an appointment with Doctor Lubek.' In this expression, French says 'have appointment' without an article. The doctor's name follows the small word meaning 'with'."),
+    (12, None, "'Gabriel? You're still here?' The small word before 'here' means 'still'. Cecile comes back outside and finds that Gabriel has waited with his scooter."),
+    (13, None, "'I'm not doing it.' This short line makes Cecile's decision explicit. The object meaning 'it' goes before 'do', inside the two little negative words."),
+    (14, None, "'I knew it! You're a great actress.' The French word for 'great' comes before the noun here, and it is feminine to match the actress. Then Cécile asks him something important."),
+    (15, None, "'Gabriel, my guardian angel, will you be my agent?' Cecile now chooses polite 'you' for a playful request. They have been speaking familiarly, but she treats him as an agent she is asking to hire."),
+    (16, None, "'Yes, madam!' Gabriel answers in the same polite tone. The title for a woman makes his enthusiastic yes sound like a formal acceptance."),
+]
