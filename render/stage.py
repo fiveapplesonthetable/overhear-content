@@ -73,7 +73,11 @@ def main():
                     fs = forms.forms_settings(settings, lang)
                     if os.environ.get("OVERHEAR_FORMS_BATCH"):
                         fs["tts"]["batch"] = fs["forms"]["batch"] = int(os.environ["OVERHEAR_FORMS_BATCH"])
-                    eng = QwenEngine(fs, voices, log=log)
+                    if lang == "ar" and config.ar_engine(fs):
+                        from chatterbox_ar import ChatterboxArEngine
+                        eng = ChatterboxArEngine(fs, voices, log=log)
+                    else:
+                        eng = QwenEngine(fs, voices, log=log)
                     out.extend(clips.render_items([it for it in items if it.lang == lang], eng, store, fs, a.attempt, log=log, kind=forms.KIND))
                     eng.free()
             print("OK " + json.dumps({"stage": "forms", "ids": out, "wall": round(time.time() - t0, 2)}), flush=True)
@@ -95,8 +99,14 @@ def main():
             ids = []
             if items:
                 settings["tts"]["batch"] = settings["clips"]["batch"]
-                eng = QwenEngine(settings, voices, log=log)
-                ids = clips.render_items(items, eng, store, settings, a.attempt, log=log)
+                for lang in sorted({it.lang for it in items}):
+                    if lang == "ar" and config.ar_engine(settings):
+                        from chatterbox_ar import ChatterboxArEngine
+                        eng = ChatterboxArEngine(settings, voices, log=log)
+                    else:
+                        eng = QwenEngine(settings, voices, log=log)
+                    ids.extend(clips.render_items([it for it in items if it.lang == lang], eng, store, settings, a.attempt, log=log))
+                    eng.free()
             print("OK " + json.dumps({"stage": "clips", "ids": ids, "wall": round(time.time() - t0, 2)}), flush=True)
             return
         if a.stage in ("synth", "synth-ru", "synth-en", "synth-ar") and a.scenes:

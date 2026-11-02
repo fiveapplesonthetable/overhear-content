@@ -16,7 +16,7 @@ def test_spanish_profile_uses_base_qwen_and_requires_honest_native_references():
     assert config.en_engine(spanish) is None
     assert spanish["tts"]["languages"]["es"] == "Spanish"
     assert spanish["audio"]["interSentenceGap"]["es"] == 0.5
-    assert spanish["clips"]["voices"] == spanish["forms"]["voices"] == {}
+    assert spanish["clips"]["voices"] == spanish["forms"]["voices"] == {"es": "es-f1"}
     assert spanish["priority"] == [["paquita-salas", 1]]
     assert "es" not in default["tts"]["languages"]
     assert "es" not in default["audio"]["interSentenceGap"]
