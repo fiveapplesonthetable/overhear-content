@@ -1,0 +1,624 @@
+{
+ "schemaVersion": 1,
+ "id": "kukhnya-s01e04-scene-10",
+ "pair": "ru-en",
+ "title": "Детектор лжи  (The Lie Detector)",
+ "level": "A1 — Duolingo Section 2",
+ "labels": {
+  "barinov": "Шеф",
+  "expert": "Эксперт",
+  "fedya": "Федя"
+ },
+ "segments": [
+  {
+   "v": "narrator",
+   "t": "The chef is determined to find the traitor, so he has hired a lie-detector expert and set up a machine in his office. Fedya, the fish cook, is the first to be questioned. Here is the Russian first.",
+   "gap": 0.8
+  },
+  {
+   "v": "barinov",
+   "t": "Заходи, Федя. Садись на стул.",
+   "gap": 0.55
+  },
+  {
+   "v": "fedya",
+   "t": "Шеф, а что это такое?",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Это настоящий детектор лжи, Федя.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Я должен поймать крысу на кухне.",
+   "gap": 0.55
+  },
+  {
+   "v": "expert",
+   "t": "Отвечайте только «да» или «нет».",
+   "gap": 0.55
+  },
+  {
+   "v": "fedya",
+   "t": "Хорошо, это мне вполне понятно.",
+   "gap": 0.55
+  },
+  {
+   "v": "expert",
+   "t": "Скажите, сегодня действительно среда?",
+   "gap": 0.55
+  },
+  {
+   "v": "fedya",
+   "t": "Да, сегодня среда.",
+   "gap": 0.55
+  },
+  {
+   "v": "expert",
+   "t": "Ваше настоящее имя Фёдор?",
+   "gap": 0.55
+  },
+  {
+   "v": "fedya",
+   "t": "Да.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Ты ходил в соседний ресторан?",
+   "gap": 0.55
+  },
+  {
+   "v": "fedya",
+   "t": "Нет, я никуда не ходил.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Свободен. Позови сюда Сеню.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Let's go through the questioning.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Заходи, Федя. Садись на стул.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"Come in, Fedya. Sit down on the chair.\" The word for come in is ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "Заходи,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", built from the starting part for going inside. The action word for seat yourself is ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "Садись",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", built from an ending that means doing it to yourself.",
+   "gap": 0.4
+  },
+  {
+   "v": "fedya",
+   "t": "Шеф, а что это такое?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"Chef, what is this thing?\" The phrase ",
+   "gap": 0.25
+  },
+  {
+   "v": "fedya",
+   "t": "что это такое",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " literally translates to \"what is this such?\", a handy way to ask what something is.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Это настоящий детектор лжи, Федя.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"This is a real lie detector, Fedya.\" The word for a lie drops a sound to become ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "лжи,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", meaning \"of a lie\". The whole phrase translates to \"detector of a lie\".",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Я должен поймать крысу на кухне.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"I must catch the rat in the kitchen.\" The word for rat, ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "крысу",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", is also slang for a traitor. The action word ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "поймать",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to \"to catch\", and ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "должен",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is the describing word for \"must\" when a man is speaking.",
+   "gap": 0.4
+  },
+  {
+   "v": "expert",
+   "t": "Отвечайте только «да» или «нет».",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"Answer only yes or no.\" The action word ",
+   "gap": 0.25
+  },
+  {
+   "v": "expert",
+   "t": "Отвечайте",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is an instruction built from a polite ending. The word for only is ",
+   "gap": 0.25
+  },
+  {
+   "v": "expert",
+   "t": "только",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", and the little word for or is ",
+   "gap": 0.25
+  },
+  {
+   "v": "expert",
+   "t": "или",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ".",
+   "gap": 0.4
+  },
+  {
+   "v": "fedya",
+   "t": "Хорошо, это мне вполне понятно.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"Fine, that is completely clear to me.\" The word for completely, ",
+   "gap": 0.25
+  },
+  {
+   "v": "fedya",
+   "t": "вполне",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", literally translates to \"in full\". The word for clear, ",
+   "gap": 0.25
+  },
+  {
+   "v": "fedya",
+   "t": "понятно.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", needs no word for \"I\" when you say it is clear to you.",
+   "gap": 0.4
+  },
+  {
+   "v": "expert",
+   "t": "Скажите, сегодня действительно среда?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"Tell me, is today really Wednesday?\" The word for Wednesday, ",
+   "gap": 0.25
+  },
+  {
+   "v": "expert",
+   "t": "среда?",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", is built from the word for middle, since it falls mid-week. The word for really is ",
+   "gap": 0.25
+  },
+  {
+   "v": "expert",
+   "t": "действительно",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ".",
+   "gap": 0.4
+  },
+  {
+   "v": "fedya",
+   "t": "Да, сегодня среда.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"Yes, today is Wednesday.\" Fedya repeats ",
+   "gap": 0.25
+  },
+  {
+   "v": "fedya",
+   "t": "среда?",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " with no action word, because the language leaves out the word for \"is\".",
+   "gap": 0.4
+  },
+  {
+   "v": "expert",
+   "t": "Ваше настоящее имя Фёдор?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"Is your real name Fyodor?\" The full name behind Fedya is ",
+   "gap": 0.25
+  },
+  {
+   "v": "expert",
+   "t": "Фёдор?",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ". The describing word for real, ",
+   "gap": 0.25
+  },
+  {
+   "v": "expert",
+   "t": "настоящее",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", takes a matching ending for the word for name, ",
+   "gap": 0.25
+  },
+  {
+   "v": "expert",
+   "t": "имя",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ".",
+   "gap": 0.4
+  },
+  {
+   "v": "fedya",
+   "t": "Да.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"Yes.\" Just ",
+   "gap": 0.25
+  },
+  {
+   "v": "fedya",
+   "t": "«да»",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", which is exactly what the expert asked for.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Ты ходил в соседний ресторан?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"Did you go to the neighboring restaurant?\" The action word ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "ходил",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " literally translates to \"went and came back\". The describing word for neighboring, ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "соседний",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", is built from the word for neighbor.",
+   "gap": 0.4
+  },
+  {
+   "v": "fedya",
+   "t": "Нет, я никуда не ходил.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"No, I did not go anywhere.\" The phrase ",
+   "gap": 0.25
+  },
+  {
+   "v": "fedya",
+   "t": "никуда не ходил",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " literally translates to \"nowhere not went\", which doubles the negative.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Свободен. Позови сюда Сеню.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "\"You are free to go. Call Senya in here.\" The word for free is ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "Свободен.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", used here as a short word for a man. The action word for call is ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "Позови",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": ", and Senya turns into ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "Сеню.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " as the target of the action. Now let's listen to the whole conversation again from start to finish.",
+   "gap": 0.9
+  },
+  {
+   "v": "barinov",
+   "t": "Заходи, Федя. Садись на стул.",
+   "gap": 0.5
+  },
+  {
+   "v": "fedya",
+   "t": "Шеф, а что это такое?",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Это настоящий детектор лжи, Федя.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Я должен поймать крысу на кухне.",
+   "gap": 0.5
+  },
+  {
+   "v": "expert",
+   "t": "Отвечайте только «да» или «нет».",
+   "gap": 0.5
+  },
+  {
+   "v": "fedya",
+   "t": "Хорошо, это мне вполне понятно.",
+   "gap": 0.5
+  },
+  {
+   "v": "expert",
+   "t": "Скажите, сегодня действительно среда?",
+   "gap": 0.5
+  },
+  {
+   "v": "fedya",
+   "t": "Да, сегодня среда.",
+   "gap": 0.5
+  },
+  {
+   "v": "expert",
+   "t": "Ваше настоящее имя Фёдор?",
+   "gap": 0.5
+  },
+  {
+   "v": "fedya",
+   "t": "Да.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Ты ходил в соседний ресторан?",
+   "gap": 0.5
+  },
+  {
+   "v": "fedya",
+   "t": "Нет, я никуда не ходил.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Свободен. Позови сюда Сеню.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Fedya passes the test and is sent to fetch Senya. The key takeaway is the phrase for a lie detector, which literally means detector of a lie.",
+   "gap": 0.5
+  },
+  {
+   "v": "fedya",
+   "t": "Пока!",
+   "gap": 0.3
+  }
+ ],
+ "source": {
+  "show": "Кухня (Kukhnya) S1.04",
+  "file": "sources/kukhnya/s01/e04.ru.dual.srt",
+  "lines": [
+   {
+    "line": 0,
+    "cue": 114,
+    "fragment": "Заходи"
+   },
+   {
+    "line": 1,
+    "cue": 116,
+    "fragment": "Шеф, это чего"
+   },
+   {
+    "line": 2,
+    "cue": 117,
+    "fragment": "Это детектор лжи, Федя"
+   },
+   {
+    "line": 3,
+    "cue": 118,
+    "fragment": "поймать крысу"
+   },
+   {
+    "line": 4,
+    "cue": 120,
+    "fragment": "Отвечайте только"
+   },
+   {
+    "line": 5,
+    "cue": 121,
+    "fragment": "Понятно"
+   },
+   {
+    "line": 6,
+    "cue": 123,
+    "fragment": "Скажите, сегодня среда"
+   },
+   {
+    "line": 7,
+    "cue": 124,
+    "fragment": "Да"
+   },
+   {
+    "line": 8,
+    "cue": 129,
+    "fragment": "Ваше имя Фёдор"
+   },
+   {
+    "line": 9,
+    "cue": 130,
+    "fragment": "Да"
+   },
+   {
+    "line": 10,
+    "cue": 135,
+    "fragment": "соседний ресторан"
+   },
+   {
+    "line": 11,
+    "cue": 137,
+    "fragment": "Нет"
+   },
+   {
+    "line": 12,
+    "cue": 138,
+    "fragment": "Свободен"
+   },
+   {
+    "line": 12,
+    "cue": 139,
+    "fragment": "позови там Сеню"
+   }
+  ]
+ },
+ "show": "kukhnya",
+ "season": 1,
+ "episode": 4,
+ "scene": 10
+}

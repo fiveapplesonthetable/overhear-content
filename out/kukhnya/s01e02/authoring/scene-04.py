@@ -13,8 +13,8 @@ SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "Chef Barinov has lost his favourite knife, and he is not going to let anyone forget it. Nastya is one of the people he questions. Here's the whole scene in Russian first, and don't worry about catching every word."
 OPENER = "Let's go back and watch the chef lose his temper."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'A missing knife, and no one is allowed home. If you hear "ne znayu" or "ne budu" in the next episode, you\'ll know what they mean.'
-CLOSING = ('nastya', 'До встречи!')
+OUTRO = 'A missing knife, and no one is allowed home. In the next episode, you might hear some of these useful phrases again.'
+CLOSING = ("nastya", "Счастливо!")
 STORY = [
     ('barinov', 'А где мой нож?', 'And where is my knife?', [(76, 'где мой нож')], ''),
     ('barinov', 'Кто взял мой нож?', 'Who took my knife?', [(80, 'Кто взял мой нож')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'А ты знаешь, что это за нож?', 'And do you know what kind of knife this is?', [(93, 'А ты знаешь, что это за нож')], ''),
 ]
 WALK = [
-    (0, None, '\'And where is my knife?\' Word for word, "and where my knife", with no "is" anywhere, since Russian drops "to be" in the present. The little "a" in front just nudges the question along, like a weary "so".'),
-    (1, None, '\'Who took my knife?\' "Kto vzyal" is "who took". "Kto" always takes the masculine past, so it\'s "vzyal" with a plain -l, whoever the thief turns out to be.'),
-    (2, None, '\'Chef, I didn\'t take it.\' "Ya ne brala" is "I not took". Nastya switches to "brat\'", the everyday partner of "vzyat\'", because she\'s denying any taking at all. The "-a" shows she\'s a woman; a man would say "ne bral".'),
-    (3, None, '\'I repeat: who took my knife?\' "Povtoryayu" is "I repeat", from "povtor", a repeat. This is what you say when your patience has run out.'),
-    (4, None, '\'I don\'t know, chef.\' "Ya ne znayu", "I not know", is one of the most useful sentences in Russian. "Ne" goes right in front of the word it cancels.'),
-    (5, None, '\'Nobody will go home from here.\' Russian doubles the negative, so "nobody" and "not" both appear before the verb. Going home is the single word "domoy", and "otsyuda" means "from here".'),
-    (6, None, '\'Until you find the knife.\' Russian has no separate word for "until" here. It says "while you don\'t find", so "poka" plus "ne". And "poka" is also the casual "bye", which really means "for now".'),
-    (7, None, '\'Understood, chef.\' "Ponyatno" is one word that means "it\'s clear". Nastya needs no "I" in it, and it\'s the usual way to show you got the message.'),
-    (8, None, '\'I will not cook anything.\' "Ne budu" and "nichego" both say no, and Russian insists on both. "Gotovit\'", to cook, has "gotov", ready, inside it: cooking is getting things ready.'),
-    (9, None, '\'Right, everyone, look for the knife.\' "Tak" works as "right" or "so". "Vse ishchem" is "all of us look", with the "we" form of the verb, so the chef counts himself in.'),
-    (10, None, '\'Quick!\' "Zhivo" comes from "zhivoy", alive, so it\'s "look lively", get a move on.'),
-    (11, None, '\'What is the problem?\' "Chto za" means "what kind of", so Nastya\'s question is "what kind of problem?". You can ask "chto za" about nearly anything.'),
-    (12, None, '\'We will buy the same knife.\' "Takoy zhe" is "the same kind of", and "kupim", "we\'ll buy", is a single word. Nastya makes it sound very simple.'),
-    (13, None, '\'And do you know what kind of knife this is?\' Look for the "chto za" again: "what kind of knife is this". The chef says "you" the friendly way to Nastya, as bosses do in kitchens.'),
+    (0, None, ['\'And where is my knife?\' Literally, "and where my knife", with no "is" anywhere, since Russian drops the existence word for now. The little word ', ('barinov', 'А'), ' in front just nudges the question along, like a weary "so".']),
+    (1, None, ['\'Who took my knife?\' ', ('barinov', 'Кто взял'), ' translates to "who took". The term for "who" always takes the default past form for a man, so it ends with a plain -l, whoever the thief turns out to be.']),
+    (2, None, ['\'Chef, I didn\'t take it.\' ', ('nastya', 'я не брала.'), ' literally means "I not took". Nastya switches to the everyday action word for taking, because she is denying any taking at all. The little "a" at the end shows she is a woman.']),
+    (3, None, ['\'I repeat: who took my knife?\' The term for "I repeat" is ', ('barinov', 'Повторяю.'), ', built from the term for a repeat. This is what you say when your patience has run out.']),
+    (4, None, ['\'I don\'t know, chef.\' ', ('nastya', 'Я не знаю,'), ' translates to "I not know", and is one of the most useful sentences in Russian. The little word for "not" goes right in front of the action word it cancels.']),
+    (5, None, ['\'Nobody will go home from here.\' Russian doubles the negative, so "nobody" and "not" both appear before the action word. Going home is the single word ', ('barinov', 'домой'), ', and ', ('barinov', 'отсюда'), ' translates to "from here".']),
+    (6, None, ['\'Until you find the knife.\' Russian has no separate word for "until" here. It translates to "while you don\'t find", so it uses ', ('barinov', 'Пока'), ' plus the term for "not". And that first word is also the casual "bye", which really means "for now".']),
+    (7, None, ['\'Understood, chef.\' The term for "understood" is ', ('nastya', 'Понятно,'), ', which literally means "it\'s clear". Nastya needs no "I" in it, and it\'s the usual way to show you got the message.']),
+    (8, None, ['\'I will not cook anything.\' The words for "I will not" and "nothing" both say no, and Russian insists on both. The action word for cooking is ', ('barinov', 'готовить.'), ', built from the describing word for "ready": cooking is getting things ready.']),
+    (9, None, ['\'Right, everyone, look for the knife.\' ', ('barinov', 'Так,'), ' works as "right" or "so". ', ('barinov', 'все ищем'), ' translates to "all of us look", with the "we" form of the action word, so the chef counts himself in.']),
+    (10, None, ['\'Quick!\' ', ('barinov', 'Живо!'), ' is built from the describing word for "alive", so it translates to "look lively" or "get a move on".']),
+    (11, None, ['\'What is the problem?\' ', ('nastya', 'что за'), ' translates to "what kind of", so Nastya\'s question literally means "what kind of problem?". You can ask this about nearly anything.']),
+    (12, None, ['\'We will buy the same knife.\' ', ('nastya', 'такой же'), ' translates to "the same kind of", and the term for "we\'ll buy" is a single action word. Nastya makes it sound very simple.']),
+    (13, None, ['\'And do you know what kind of knife this is?\' Look for the phrase ', ('barinov', 'что это за'), ' again: it translates to "what kind of knife is this". The chef uses the term for "you" in the friendly way to Nastya, as bosses do in kitchens.']),
 ]

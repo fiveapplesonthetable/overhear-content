@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'sasha': 'Саша', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = 'The secret fricassee has reached a guest in the dining room, and now she is asking for the chef. Sasha, a waitress, brings the news to the kitchen, and the two cooks who made the dish, Senya and Fedya, start arguing about who should go and face Barinov. This is the Russian first.'
+INTRO = 'The secret fricassee has reached a guest in the dining room, and now she is asking for the chef. Sasha, a waitress, brings the news to the kitchen, and the two cooks who made the dish, Senya and Fedya, start arguing about who should go and face Barinov. This is the conversation first.'
 OPENER = 'Now the panic, one line at a time.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Neither of them wants to be the one who goes, and the clock is ticking. If you remember one thing, make it "ne nado karkat\'", the Russian way to say "don\'t jinx it".'
+OUTRO = 'Neither of them wants to be the one who goes, and the clock is ticking. If you remember one thing, make it the local way to say "don\'t jinx it".'
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('sasha', 'Ребята, гости в зале просят шефа!', 'Guys, the guests in the dining hall want the chef!', [(138, 'Гости просят шефа')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('fedya', 'Не надо каркать раньше времени!', 'No need to jinx it ahead of time!', [(148, 'Не надо каркать')], ''),
 ]
 WALK = [
-    (0, None, '\'Guys, the guests in the dining hall want the chef!\' Sasha opens with "rebyata", the word for any informal group. "Prosyat shefa" is "ask for the chef", and "shef" gains an -a as the one being asked for.'),
-    (1, None, '\'What? Has she already tasted our dish?\' "Poprobovala" is "tasted": the "po-" makes it a finished taste, and the "-la" shows it\'s a woman.'),
-    (2, None, '\'Yes, she ate almost all the fricassee.\' "S\'yela" is "ate up", the finished partner of "yest\'", to eat. "Pochti vsyo" is "almost everything".'),
-    (3, None, '\'Maybe she wants seconds?\' "Mozhet byt\'" is "maybe". "Dobavka", seconds, is literally "an addition", like the verb "dobavit\'", add.'),
-    (4, None, '\'No, she is calling specifically for the head chef.\' "Imenno" means "precisely", a word that points right at the one you mean. "Zovyot" is "calls".'),
-    (5, None, '\'I warned you! That was a bad idea!\' "Preduprezhdal" is "I warned", and "byla", "was", ends in -a because "ideya" is a feminine word.'),
-    (6, None, '\'Go to Chef\'s office yourself!\' "Sam", "yourself", throws the job back at the other cook. "V kabinet", "into the office", keeps "kabinet" unchanged because he\'d be going into it.'),
-    (7, None, '\'Why me? You came up with all of this!\' "Pochemu ya" is "why I?", with no change to "ya". "Pridumal", "came up with", has "dumat\'", to think, inside it.'),
-    (8, None, '\'You are his right-hand man in the kitchen.\' "Pravaya ruka", "right hand", is the same idiom as in English. "Pravyy" is "right", and its cousin "prav" means "correct".'),
-    (9, None, '\'I am not going, he will kill me!\' "Ne poydu" looks like a present form, but the "po-" makes it a future: "I won\'t go". "Ub\'yot", "will kill", works the same way.'),
-    (10, None, '\'Let us just send Chef a text message.\' "Davayte napishem" is "let\'s write". "Soobshcheniye", a message, is what you send to "soobshchit\'", let someone know.'),
-    (11, None, '\'And write our resignation letters right away?\' "Zayavleniye ob uvol\'nenii" is "an application about dismissal", and "uvol\'neniye" comes from "uvolit\'", to fire. "O" becomes "ob" before a vowel.'),
-    (12, None, '\'No need to jinx it ahead of time!\' The verb means to caw like a crow, and Russians use it for predicting doom out loud. "Ahead of time" is literally "earlier than time".'),
+    (0, None, [ '\'Guys, the guests in the dining hall want the chef!\' Sasha opens with ', ('sasha', 'Ребята,'), ', the word for any informal group. She says ', ('sasha', 'просят шефа!'), ' which translates to "ask for the chef".' ]),
+    (1, None, [ '\'What? Has she already tasted our dish?\' ', ('senya', 'попробовала'), ' is the word for "tasted". The action word has a starting part making it a finished taste, and ends with a sound showing it is a woman.' ]),
+    (2, None, [ '\'Yes, she ate almost all the fricassee.\' ', ('fedya', 'съела'), ' translates to "ate up", the finished partner of the action word to eat. ', ('fedya', 'почти всё'), ' is the phrase for "almost everything".' ]),
+    (3, None, [ '\'Maybe she wants seconds?\' The phrase ', ('senya', 'Может быть,'), ' is "maybe". The word for seconds is literally "an addition", built from the action word to add.' ]),
+    (4, None, [ '\'No, she is calling specifically for the head chef.\' ', ('fedya', 'именно'), ' translates to "precisely", a little word that points right at the one you mean. ', ('fedya', 'зовёт'), ' translates to "calls".' ]),
+    (5, None, [ '\'I warned you! That was a bad idea!\' ', ('senya', 'предупреждал!'), ' translates to "I warned", and the action word for "was" gets a special ending because it describes the word for idea.' ]),
+    (6, None, [ '\'Go to Chef\'s office yourself!\' ', ('fedya', 'Сам'), ', literally "yourself", throws the job back at the other cook. The phrase for "into the office" keeps the word for office unchanged because he would be going into it.' ]),
+    (7, None, [ '\'Why me? You came up with all of this!\' ', ('senya', 'Почему я?'), ' translates to "why I?", with no change to the word for "I". ', ('senya', 'придумал!'), ', translating to "came up with", is built from the action word to think.' ]),
+    (8, None, [ '\'You are his right-hand man in the kitchen.\' ', ('fedya', 'правая рука'), ', literally "right hand", is the same idiom as in English. The describing word for "right" has a cousin that means "correct".' ]),
+    (9, None, [ '\'I am not going, he will kill me!\' ', ('senya', 'не пойду,'), ' translates to "I won\'t go". It looks like a present tense form, but the starting sound makes it a future action. ', ('senya', 'убьёт!'), ' translates to "will kill", and works the same way.' ]),
+    (10, None, [ '\'Let us just send Chef a text message.\' ', ('fedya', 'Давайте просто напишем'), ' translates to "let\'s write". The word for a message is what you send to let someone know.' ]),
+    (11, None, [ '\'And write our resignation letters right away?\' ', ('senya', 'заявление об увольнении?'), ' is literally "an application about dismissal", and the word for dismissal is built from the action word to fire. The little word for "about" adds an extra sound before a vowel.' ]),
+    (12, None, [ '\'No need to jinx it ahead of time!\' The action word ', ('fedya', 'каркать'), ' means to caw like a crow, and locals use it for predicting doom out loud. The phrase for "ahead of time" is literally "earlier than time".' ]),
 ]

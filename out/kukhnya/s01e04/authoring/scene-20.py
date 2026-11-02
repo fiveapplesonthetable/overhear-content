@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = 'Max brings his special soup to the kitchen crew, and it is a startling bright blue. The cooks are suspicious, Louis the pastry chef recognises his missing food dye, and the soup turns out to taste surprisingly good. Here is the Russian first.'
 OPENER = "Let's look at the blue soup."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'The cooks have to admit the blue soup tastes good. You\'ve heard "kak budto", "as if", which is a very useful phrase.'
+OUTRO = 'The cooks have to admit the blue soup tastes good. You\'ve heard a very useful phrase for "as if".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('senya', 'Что это за странное блюдо?', 'What kind of strange dish is this?', [(269, 'Что за фигня')], ''),
@@ -32,18 +32,108 @@ STORY = [
     ('max', 'Я же говорил, что вкусно!', 'I told you it was delicious!', [(278, 'Правда, вкусно')], ''),
 ]
 WALK = [
-    (0, None, '\'What kind of strange dish is this?\' "Chto eto za" is "what kind of". "Strannoye", strange, ends in -oye because "blyudo" is neuter.'),
-    (1, None, '\'This is my new delicious soup!\' "Moy novyy vkusnyy sup": every word is masculine to match "sup".'),
-    (2, None, '\'Why is it such a blue color?\' Russian gives colour in the "of" form: "takogo sinego tsveta", of such a blue colour. "Tsveta" is also the plural "colours", while "tsvety" are flowers.'),
-    (3, None, '\'This is an original creator\'s recipe.\' "Avtorskiy", author\'s, is the word in "avtorskaya kukhnya", a chef\'s own cooking. "Original\'nyy" is borrowed.'),
-    (4, None, '\'Thanks, I am on a diet today.\' "Spasibo" here is a polite no. "Na diete" is "on a diet", with -e after "na".'),
-    (5, None, '\'Wait, this is really very delicious!\' "Podozhdi" is the familiar "wait". "Deystvitel\'no" is "really", and "vkusno" is "tasty".'),
-    (6, None, '\'Pardon, that is my food coloring!\' "Pardon" is borrowed. "Krasitel\'", dye, is from "krasit\'", to paint, and "eto zhe" is "why, that\'s".'),
-    (7, None, '\'I looked for it for so long!\' "Iskal" is "looked for", with the man\'s -l. "Tak dolgo" is "so long".'),
-    (8, None, '\'Wait, where are you all going?\' "Kuda" asks "where to", for movement. "Vy vse" is "you all", and "ukhodite" is "you are leaving".'),
-    (9, None, '\'We do not want to eat chemicals.\' "Khimiya", chemistry, is the Russian word for artificial additives. As the object, it becomes "khimiyu".'),
-    (10, None, '\'But this is actually delicious!\' "Real\'no" is slang for "really". "Eto zhe" adds "after all".'),
-    (11, None, '\'What an interesting pretty little soup.\' "Supchik" is "sup" with the little -chik, a fond word for soup. "Kakoy" opens the exclamation.'),
-    (12, None, '\'Like you are eating the sea directly.\' "Kak budto" is "as if". "Yesh\'", you eat, means "one eats", said to nobody in particular.'),
-    (13, None, '\'I told you it was delicious!\' "Ya zhe govoril" is "I did say", with "zhe" for "after all".'),
+    (0, None, [
+        "'What kind of strange dish is this?' ",
+        ('senya', 'Что это за'),
+        " translates to 'what kind of'. ",
+        ('senya', 'странное'),
+        ', strange, describes the Russian term for dish, ',
+        ('senya', 'блюдо?'),
+        '.'
+    ]),
+    (1, None, [
+        "'This is my new delicious soup!' Built from ",
+        ('max', 'мой новый вкусный'),
+        " meaning 'my new delicious', where every describing word matches the Russian term for soup, ",
+        ('max', 'суп!'),
+        '.'
+    ]),
+    (2, None, [
+        "'Why is it such a blue color?' Russian literally gives color as an 'of' phrase: ",
+        ('senya', 'такого синего цвета?'),
+        ", meaning 'of such a blue color'. The Russian expression for color here is ",
+        ('senya', 'цвета?'),
+        '.'
+    ]),
+    (3, None, [
+        "'This is an original creator's recipe.' The Russian term for author's is ",
+        ('max', 'авторский'),
+        ", which describes a chef's own unique cooking. ",
+        ('max', 'оригинальный'),
+        " translates to 'original'."
+    ]),
+    (4, None, [
+        "'Thanks, I am on a diet today.' The phrase for thanks, ",
+        ('senya', 'Спасибо,'),
+        ', is used here as a polite no. ',
+        ('senya', 'на диете.'),
+        " literally translates to 'on a diet'."
+    ]),
+    (5, None, [
+        "'Wait, this is really very delicious!' ",
+        ('max', 'Подожди,'),
+        ' is the translation for wait. ',
+        ('max', 'действительно'),
+        " translates to 'really', and ",
+        ('max', 'вкусно!'),
+        " is 'tasty'."
+    ]),
+    (6, None, [
+        "'Pardon, that is my food coloring!' The Russian expression for dye, ",
+        ('louis', 'краситель!'),
+        ', is built from the action word for paint, and ',
+        ('louis', 'это же'),
+        " translates to 'why, that's'."
+    ]),
+    (7, None, [
+        "'I looked for it for so long!' ",
+        ('louis', 'искал!'),
+        " translates to 'looked for', and ",
+        ('louis', 'так долго'),
+        " is the phrase for 'so long'."
+    ]),
+    (8, None, [
+        "'Wait, where are you all going?' The translation for 'where to' is ",
+        ('max', 'куда'),
+        '. ',
+        ('max', 'вы'),
+        ' and ',
+        ('max', 'все'),
+        " together translate to 'you all', and ",
+        ('max', 'уходите?'),
+        " means 'you are leaving'."
+    ]),
+    (9, None, [
+        "'We do not want to eat chemicals.' The expression for chemistry, ",
+        ('senya', 'химию.'),
+        ', is used here to mean artificial additives.'
+    ]),
+    (10, None, [
+        "'But this is actually delicious!' ",
+        ('max', 'реально'),
+        " is the slang word for 'really'. ",
+        ('max', 'это же'),
+        " literally adds the feeling of 'after all'."
+    ]),
+    (11, None, [
+        "'What an interesting pretty little soup.' The translation for little soup, ",
+        ('senya', 'супчик.'),
+        ', is built from soup with an affectionate ending, making it a cozy little dish. ',
+        ('senya', 'Какой'),
+        " literally translates to 'what a'."
+    ]),
+    (12, None, [
+        "'Like you are eating the sea directly.' The term for 'as if' is ",
+        ('senya', 'Как будто'),
+        '. ',
+        ('senya', 'ешь.'),
+        " translates to 'you eat', meaning 'one eats' in general."
+    ]),
+    (13, None, [
+        "'I told you it was delicious!' ",
+        ('max', 'Я же говорил,'),
+        " translates to 'I did say', built from ",
+        ('max', 'же'),
+        " meaning 'after all'."
+    ]),
 ]

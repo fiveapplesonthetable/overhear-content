@@ -1,0 +1,598 @@
+{
+ "schemaVersion": 1,
+ "id": "kukhnya-s01e04-scene-04",
+ "pair": "ru-en",
+ "title": "Сладкий сон  (A Sweet Dream)",
+ "level": "A1 — Duolingo Section 2",
+ "labels": {
+  "barinov": "Шеф",
+  "max": "Макс"
+ },
+ "segments": [
+  {
+   "v": "narrator",
+   "t": "Max has fallen asleep in the dining room and is having a lovely dream about the chef. When Barinov shakes him awake, Max is still half in the dream and says things he really shouldn't. Here's the Russian first.",
+   "gap": 0.8
+  },
+  {
+   "v": "max",
+   "t": "Ты молодец, Витька.",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Витюшенька, мой огузок.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Ты что, совсем с ума сошёл?",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Ты что здесь спишь?",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Шеф, простите меня, пожалуйста.",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Я прилёг на пять минут.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "На кухне спать нельзя!",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Я всю ночь не мог уснуть.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Почему ты ночью не спал?",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Наверное, это акклиматизация.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Какая ещё акклиматизация?",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Я ещё не привык к Москве.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Быстро вставай и мой посуду!",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Уже встаю, шеф.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Now let's see what Max says in his sleep.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Ты молодец, Витька.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Good job, Vitka.' The phrase ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Ты молодец,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'you're a fine fellow', the everyday praise. ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Витька.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is an overfamiliar short form of the name Viktor, and Max uses the familiar 'you' with his boss in his sleep.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Витюшенька, мой огузок.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Vityushenka, my Oguzok.' The word for this doting pet form of Viktor is ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Витюшенька,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " built from extra syllables for tenderness. Max then flips the chef's nickname for him back onto the chef by calling him ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "мой огузок.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Ты что, совсем с ума сошёл?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Have you completely lost your mind?' The phrase ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "с ума сошёл",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " literally translates to 'came down off the mind'. Starting with ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "Ты что,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'what's wrong with you?'.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Ты что здесь спишь?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Why are you sleeping here?' Here, ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "Ты что",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " does the job of 'why', as in everyday speech. The word for 'you sleep' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "спишь?",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Шеф, простите меня, пожалуйста.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Chef, please forgive me.' Awake, Max switches to the polite 'you'. The word for 'forgive' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "простите",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " built from the polite extra letters at the end.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Я прилёг на пять минут.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I lay down for five minutes.' The added part turns the word for 'lay down' into ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "прилёг",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " which literally translates to 'lay down for a bit'. And ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "на пять минут",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'for five minutes'.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "На кухне спать нельзя!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'You cannot sleep in the kitchen!' The word for 'it's not allowed' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "нельзя!",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " It needs no person doing the action. The action word ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "спать",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to the plain 'to sleep'.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Я всю ночь не мог уснуть.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I could not sleep all night.' The phrase for 'all night' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "всю ночь,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " which needs no extra little word for 'during'. The phrase ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "не мог уснуть",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'could not fall asleep', built from the man's past form of 'can'.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Почему ты ночью не спал?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Why didn't you sleep at night?' The word for 'at night' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "ночью",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " built from 'night' with an extra sound at the end. Other times of day work the same way, taking a similar extra sound to mean 'in the morning' or 'in the evening'.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Наверное, это акклиматизация.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Probably it is acclimatization.' Max gives the same long borrowed word as before for 'acclimatization', ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "акклиматизация.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " And the word for 'probably' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Наверное,",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Какая ещё акклиматизация?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'What acclimatization?' The phrase ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "Какая ещё",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " repeats the word back with an edge, which translates to 'what acclimatization, exactly?'.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Я ещё не привык к Москве.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I am not used to Moscow yet.' The phrase that translates to 'got used to' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "привык к,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " and the little word linking to the city changes its spelling, making it ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "к Москве.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " The phrase that translates to 'not yet' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "ещё не.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Быстро вставай и мой посуду!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Quickly get up and wash dishes!' The word for telling someone to 'wash' here is ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "мой",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " and it is spelled the same as the word for 'my'. The word for 'dishes' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "посуду!",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " which translates to one singular thing in Russian.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Уже встаю, шеф.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Already getting up, Chef.' The phrase ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Уже встаю",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'already I get up'. The plain action word stands in for 'I am getting up'. Now let's listen to the whole conversation again from start to finish.",
+   "gap": 0.9
+  },
+  {
+   "v": "max",
+   "t": "Ты молодец, Витька.",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Витюшенька, мой огузок.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Ты что, совсем с ума сошёл?",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Ты что здесь спишь?",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Шеф, простите меня, пожалуйста.",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Я прилёг на пять минут.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "На кухне спать нельзя!",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Я всю ночь не мог уснуть.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Почему ты ночью не спал?",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Наверное, это акклиматизация.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Какая ещё акклиматизация?",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Я ещё не привык к Москве.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Быстро вставай и мой посуду!",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Уже встаю, шеф.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Calling the boss by a pet name is not the way to keep a job. If you take one thing away, remember the word for 'it's not allowed'.",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "До встречи!",
+   "gap": 0.3
+  }
+ ],
+ "source": {
+  "show": "Кухня (Kukhnya) S1.04",
+  "file": "sources/kukhnya/s01/e04.ru.dual.srt",
+  "lines": [
+   {
+    "line": 0,
+    "cue": 30,
+    "fragment": "Ты молодец, Витька"
+   },
+   {
+    "line": 1,
+    "cue": 31,
+    "fragment": "Витюшенька"
+   },
+   {
+    "line": 1,
+    "cue": 31,
+    "fragment": "Мой Агузак"
+   },
+   {
+    "line": 2,
+    "cue": 32,
+    "fragment": "Ты что, совсем"
+   },
+   {
+    "line": 3,
+    "cue": 33,
+    "fragment": "Ты что здесь"
+   },
+   {
+    "line": 4,
+    "cue": 33,
+    "fragment": "Шеф, я"
+   },
+   {
+    "line": 5,
+    "cue": 34,
+    "fragment": "прилег на пять минут заснуть"
+   },
+   {
+    "line": 7,
+    "cue": 35,
+    "fragment": "Всю ночь не мог"
+   },
+   {
+    "line": 9,
+    "cue": 35,
+    "fragment": "акклиматизация, наверное"
+   }
+  ]
+ },
+ "show": "kukhnya",
+ "season": 1,
+ "episode": 4,
+ "scene": 4
+}

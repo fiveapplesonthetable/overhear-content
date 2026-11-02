@@ -672,6 +672,42 @@
     },
     {
       "seg": 17,
+      "trans": "good / morning",
+      "words": [
+        {
+          "t": "Доброе",
+          "lemma": "добрый",
+          "pos": "adj",
+          "stress": "до́брое",
+          "gloss": "good",
+          "gram": "nominative singular, neuter"
+        },
+        {
+          "t": "утро,",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 19,
+      "trans": "morning",
+      "words": [
+        {
+          "t": "утро,",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 21,
       "trans": "Hello, oguzok. Here is your work.",
       "words": [
         {
@@ -717,7 +753,65 @@
       ]
     },
     {
-      "seg": 19,
+      "seg": 23,
+      "trans": "hello",
+      "words": [
+        {
+          "t": "Здравствуй,",
+          "lemma": "здравствуй",
+          "pos": "interj",
+          "stress": "здра́вствуй",
+          "gloss": "hello",
+          "gram": "greeting, informal (ты) form"
+        }
+      ]
+    },
+    {
+      "seg": 25,
+      "trans": "Runt (nickname)",
+      "words": [
+        {
+          "t": "огузок.",
+          "lemma": "огузок",
+          "pos": "name",
+          "stress": "огу́зок",
+          "gloss": "Runt (nickname)",
+          "gram": "proper name, masculine nominative/vocative"
+        }
+      ]
+    },
+    {
+      "seg": 27,
+      "trans": "there, here / your / job",
+      "words": [
+        {
+          "t": "Вот",
+          "lemma": "вот",
+          "pos": "part",
+          "stress": null,
+          "gloss": "there, here",
+          "gram": "pointing particle"
+        },
+        {
+          "t": "твоя",
+          "lemma": "твой",
+          "pos": "det",
+          "stress": "твоя́",
+          "gloss": "your",
+          "gram": "possessive, informal, feminine nominative singular"
+        },
+        {
+          "t": "работа.",
+          "lemma": "работа",
+          "pos": "noun",
+          "stress": "рабо́та",
+          "gloss": "job",
+          "gram": "nominative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 29,
       "trans": "Chef, this is a live goose!",
       "words": [
         {
@@ -755,7 +849,65 @@
       ]
     },
     {
-      "seg": 21,
+      "seg": 31,
+      "trans": "this / alive / goose",
+      "words": [
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "живой",
+          "lemma": "живой",
+          "pos": "adj",
+          "stress": "живо́й",
+          "gloss": "alive",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "гусь!",
+          "lemma": "гусь",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "goose",
+          "gram": "nom m sg"
+        }
+      ]
+    },
+    {
+      "seg": 33,
+      "trans": "alive",
+      "words": [
+        {
+          "t": "живой",
+          "lemma": "живой",
+          "pos": "adj",
+          "stress": "живо́й",
+          "gloss": "alive",
+          "gram": "masculine nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 35,
+      "trans": "goose",
+      "words": [
+        {
+          "t": "гусь!",
+          "lemma": "гусь",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "goose",
+          "gram": "nom m sg"
+        }
+      ]
+    },
+    {
+      "seg": 37,
       "trans": "We have a very important banquet today.",
       "words": [
         {
@@ -809,592 +961,8 @@
       ]
     },
     {
-      "seg": 23,
-      "trans": "Why do we need a live goose in the kitchen?",
-      "words": [
-        {
-          "t": "Зачем",
-          "lemma": "зачем",
-          "pos": "adv",
-          "stress": "заче́м",
-          "gloss": "what for",
-          "gram": "question word (purpose)"
-        },
-        {
-          "t": "нам",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural dative"
-        },
-        {
-          "t": "живой",
-          "lemma": "живой",
-          "pos": "adj",
-          "stress": "живо́й",
-          "gloss": "alive",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "гусь",
-          "lemma": "гусь",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "goose",
-          "gram": "nom m sg"
-        },
-        {
-          "t": "на",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "кухне?",
-          "lemma": "кухня",
-          "pos": "noun",
-          "stress": "ку́хне",
-          "gloss": "kitchen",
-          "gram": "feminine singular, prepositional"
-        }
-      ]
-    },
-    {
-      "seg": 25,
-      "trans": "The guests need the freshest product!",
-      "words": [
-        {
-          "t": "Гостям",
-          "lemma": "гость",
-          "pos": "noun",
-          "stress": "гостя́м",
-          "gloss": "guests",
-          "gram": "masculine animate noun, dative plural"
-        },
-        {
-          "t": "нужен",
-          "lemma": "нужный",
-          "pos": "adj",
-          "stress": "ну́жен",
-          "gloss": "is needed",
-          "gram": "short form, masculine singular"
-        },
-        {
-          "t": "самый",
-          "lemma": "самый",
-          "pos": "adj",
-          "stress": "са́мый",
-          "gloss": "the most",
-          "gram": "nominative singular, masculine (superlative helper)"
-        },
-        {
-          "t": "свежий",
-          "lemma": "свежий",
-          "pos": "adj",
-          "stress": "све́жий",
-          "gloss": "fresh",
-          "gram": "masculine singular accusative adjective"
-        },
-        {
-          "t": "продукт!",
-          "lemma": "продукт",
-          "pos": "noun",
-          "stress": "проду́кт",
-          "gloss": "product",
-          "gram": "masculine singular nominative"
-        }
-      ]
-    },
-    {
-      "seg": 27,
-      "trans": "But I am a cook, not a butcher.",
-      "words": [
-        {
-          "t": "Но",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "повар,",
-          "lemma": "повар",
-          "pos": "noun",
-          "stress": "по́вар",
-          "gloss": "chef, cook",
-          "gram": "masculine, nominative singular"
-        },
-        {
-          "t": "а",
-          "lemma": "а",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "мясник.",
-          "lemma": "мясник",
-          "pos": "noun",
-          "stress": "мясни́к",
-          "gloss": "butcher",
-          "gram": "masculine singular nominative"
-        }
-      ]
-    },
-    {
-      "seg": 29,
-      "trans": "Every chef is obliged to know how to butcher meat.",
-      "words": [
-        {
-          "t": "Каждый",
-          "lemma": "каждый",
-          "pos": "adj",
-          "stress": "ка́ждый",
-          "gloss": "every",
-          "gram": "accusative, masculine singular"
-        },
-        {
-          "t": "повар",
-          "lemma": "повар",
-          "pos": "noun",
-          "stress": "по́вар",
-          "gloss": "chef, cook",
-          "gram": "masculine, nominative singular"
-        },
-        {
-          "t": "обязан",
-          "lemma": "обязанный",
-          "pos": "adj",
-          "stress": "обя́зан",
-          "gloss": "obliged, owing",
-          "gram": "short form, masculine singular"
-        },
-        {
-          "t": "уметь",
-          "lemma": "уметь",
-          "pos": "verb",
-          "stress": "уме́ть",
-          "gloss": "to know how",
-          "gram": "infinitive"
-        },
-        {
-          "t": "разделывать",
-          "lemma": "разделывать",
-          "pos": "verb",
-          "stress": "разде́лывать",
-          "gloss": "to butcher",
-          "gram": "infinitive, imperfective"
-        },
-        {
-          "t": "мясо.",
-          "lemma": "мясо",
-          "pos": "noun",
-          "stress": "мя́со",
-          "gloss": "meat",
-          "gram": "neuter singular, nominative / accusative"
-        }
-      ]
-    },
-    {
-      "seg": 31,
-      "trans": "What, do I need to kill it?",
-      "words": [
-        {
-          "t": "Что,",
-          "lemma": "что",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "what",
-          "gram": "relative pronoun, accusative"
-        },
-        {
-          "t": "мне",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "to me (мне некогда = I have no time)",
-          "gram": "1st person singular, dative"
-        },
-        {
-          "t": "нужно",
-          "lemma": "нужно",
-          "pos": "adv",
-          "stress": "ну́жно",
-          "gloss": "(it is) necessary",
-          "gram": "predicative, + dative of the person + infinitive"
-        },
-        {
-          "t": "убить",
-          "lemma": "убить",
-          "pos": "verb",
-          "stress": "уби́ть",
-          "gloss": "kill",
-          "gram": "infinitive, perfective"
-        },
-        {
-          "t": "его?",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": "его́",
-          "gloss": "him",
-          "gram": "3rd person masculine singular, accusative; г is said like в"
-        }
-      ]
-    },
-    {
-      "seg": 33,
-      "trans": "Did you think meat grows on trees?",
-      "words": [
-        {
-          "t": "А",
-          "lemma": "а",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "думал,",
-          "lemma": "думать",
-          "pos": "verb",
-          "stress": "ду́мал",
-          "gloss": "thought",
-          "gram": "past, masculine singular, imperfective"
-        },
-        {
-          "t": "мясо",
-          "lemma": "мясо",
-          "pos": "noun",
-          "stress": "мя́со",
-          "gloss": "meat",
-          "gram": "neuter singular, nominative / accusative"
-        },
-        {
-          "t": "растёт",
-          "lemma": "расти",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "grows",
-          "gram": "3rd person singular present, imperfective"
-        },
-        {
-          "t": "на",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "деревьях?",
-          "lemma": "дерево",
-          "pos": "noun",
-          "stress": "дере́вьях",
-          "gloss": "trees",
-          "gram": "neuter plural prepositional"
-        }
-      ]
-    },
-    {
-      "seg": 35,
-      "trans": "I have never done this in my life.",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "никогда",
-          "lemma": "никогда",
-          "pos": "adv",
-          "stress": "никогда́",
-          "gloss": "never",
-          "gram": "adverb"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "жизни",
-          "lemma": "жизнь",
-          "pos": "noun",
-          "stress": "жи́зни",
-          "gloss": "life",
-          "gram": "prepositional singular, feminine"
-        },
-        {
-          "t": "этого",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́того",
-          "gloss": "that",
-          "gram": "genitive (after negation)"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "делал.",
-          "lemma": "делать",
-          "pos": "verb",
-          "stress": "де́лал",
-          "gloss": "were doing",
-          "gram": "past, masculine singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 37,
-      "trans": "Kill the goose, or you are fired!",
-      "words": [
-        {
-          "t": "Убей",
-          "lemma": "убить",
-          "pos": "verb",
-          "stress": "убе́й",
-          "gloss": "kill",
-          "gram": "imperative 2nd person singular, perfective"
-        },
-        {
-          "t": "гуся,",
-          "lemma": "гусь",
-          "pos": "noun",
-          "stress": "гуся́",
-          "gloss": "goose",
-          "gram": "masculine singular accusative animate"
-        },
-        {
-          "t": "или",
-          "lemma": "или",
-          "pos": "conj",
-          "stress": "и́ли",
-          "gloss": "or",
-          "gram": "conjunction"
-        },
-        {
-          "t": "ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "уволен!",
-          "lemma": "уволить",
-          "pos": "verb",
-          "stress": "уво́лен",
-          "gloss": "fired",
-          "gram": "short passive participle, masculine singular, perfective"
-        }
-      ]
-    },
-    {
       "seg": 39,
-      "trans": "Fine, I will try to do it.",
-      "words": [
-        {
-          "t": "Хорошо,",
-          "lemma": "хорошо",
-          "pos": "adv",
-          "stress": "хорошо́",
-          "gloss": "good, fine",
-          "gram": "adverb used as an answer"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "попробую",
-          "lemma": "попробовать",
-          "pos": "verb",
-          "stress": "попро́бую",
-          "gloss": "will try",
-          "gram": "future, 1st person singular, perfective"
-        },
-        {
-          "t": "сделать",
-          "lemma": "сделать",
-          "pos": "verb",
-          "stress": "сде́лать",
-          "gloss": "to do",
-          "gram": "infinitive, perfective"
-        },
-        {
-          "t": "это.",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        }
-      ]
-    },
-    {
-      "seg": 41,
-      "trans": "Good morning, chef!",
-      "words": [
-        {
-          "t": "Доброе",
-          "lemma": "добрый",
-          "pos": "adj",
-          "stress": "до́брое",
-          "gloss": "good",
-          "gram": "nominative singular, neuter"
-        },
-        {
-          "t": "утро,",
-          "lemma": "утро",
-          "pos": "noun",
-          "stress": "у́тро",
-          "gloss": "morning",
-          "gram": "nominative singular, neuter"
-        },
-        {
-          "t": "шеф!",
-          "lemma": "шеф",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "Hello, oguzok. Here is your work.",
-      "words": [
-        {
-          "t": "Здравствуй,",
-          "lemma": "здравствуй",
-          "pos": "interj",
-          "stress": "здра́вствуй",
-          "gloss": "hello",
-          "gram": "greeting, informal (ты) form"
-        },
-        {
-          "t": "огузок.",
-          "lemma": "огузок",
-          "pos": "name",
-          "stress": "огу́зок",
-          "gloss": "Runt (nickname)",
-          "gram": "proper name, masculine nominative/vocative"
-        },
-        {
-          "t": "Вот",
-          "lemma": "вот",
-          "pos": "part",
-          "stress": null,
-          "gloss": "there, here",
-          "gram": "pointing particle"
-        },
-        {
-          "t": "твоя",
-          "lemma": "твой",
-          "pos": "det",
-          "stress": "твоя́",
-          "gloss": "your",
-          "gram": "possessive, informal, feminine nominative singular"
-        },
-        {
-          "t": "работа.",
-          "lemma": "работа",
-          "pos": "noun",
-          "stress": "рабо́та",
-          "gloss": "job",
-          "gram": "nominative singular, feminine"
-        }
-      ]
-    },
-    {
-      "seg": 43,
-      "trans": "Chef, this is a live goose!",
-      "words": [
-        {
-          "t": "Шеф,",
-          "lemma": "шеф",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "chef, boss",
-          "gram": "nominative singular / form of address"
-        },
-        {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "живой",
-          "lemma": "живой",
-          "pos": "adj",
-          "stress": "живо́й",
-          "gloss": "alive",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "гусь!",
-          "lemma": "гусь",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "goose",
-          "gram": "nom m sg"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "We have a very important banquet today.",
+      "trans": "at, near, with / us",
       "words": [
         {
           "t": "У",
@@ -1411,23 +979,13 @@
           "stress": null,
           "gloss": "us",
           "gram": "1st person plural, genitive"
-        },
-        {
-          "t": "сегодня",
-          "lemma": "сегодня",
-          "pos": "adv",
-          "stress": "сего́дня",
-          "gloss": "today",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "important",
+      "words": [
         {
           "t": "важный",
           "lemma": "важный",
@@ -1435,7 +993,13 @@
           "stress": "ва́жный",
           "gloss": "important",
           "gram": "nominative singular, masculine"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "banquet",
+      "words": [
         {
           "t": "банкет.",
           "lemma": "банкет",
@@ -1501,7 +1065,51 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 47,
+      "trans": "what for / us",
+      "words": [
+        {
+          "t": "Зачем",
+          "lemma": "зачем",
+          "pos": "adv",
+          "stress": "заче́м",
+          "gloss": "what for",
+          "gram": "question word (purpose)"
+        },
+        {
+          "t": "нам",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "us",
+          "gram": "1st person plural dative"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "on, onto / kitchen",
+      "words": [
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "кухне?",
+          "lemma": "кухня",
+          "pos": "noun",
+          "stress": "ку́хне",
+          "gloss": "kitchen",
+          "gram": "feminine singular, prepositional"
+        }
+      ]
+    },
+    {
+      "seg": 51,
       "trans": "The guests need the freshest product!",
       "words": [
         {
@@ -1547,7 +1155,57 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 53,
+      "trans": "guests",
+      "words": [
+        {
+          "t": "Гостям",
+          "lemma": "гость",
+          "pos": "noun",
+          "stress": "гостя́м",
+          "gloss": "guests",
+          "gram": "masculine animate noun, dative plural"
+        }
+      ]
+    },
+    {
+      "seg": 55,
+      "trans": "product",
+      "words": [
+        {
+          "t": "продукт!",
+          "lemma": "продукт",
+          "pos": "noun",
+          "stress": "проду́кт",
+          "gloss": "product",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 57,
+      "trans": "the most / fresh",
+      "words": [
+        {
+          "t": "самый",
+          "lemma": "самый",
+          "pos": "adj",
+          "stress": "са́мый",
+          "gloss": "the most",
+          "gram": "nominative singular, masculine (superlative helper)"
+        },
+        {
+          "t": "свежий",
+          "lemma": "свежий",
+          "pos": "adj",
+          "stress": "све́жий",
+          "gloss": "fresh",
+          "gram": "masculine singular accusative adjective"
+        }
+      ]
+    },
+    {
+      "seg": 59,
       "trans": "But I am a cook, not a butcher.",
       "words": [
         {
@@ -1601,7 +1259,89 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 61,
+      "trans": "I / chef, cook / and, but / not / butcher",
+      "words": [
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "повар,",
+          "lemma": "повар",
+          "pos": "noun",
+          "stress": "по́вар",
+          "gloss": "chef, cook",
+          "gram": "masculine, nominative singular"
+        },
+        {
+          "t": "а",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "мясник.",
+          "lemma": "мясник",
+          "pos": "noun",
+          "stress": "мясни́к",
+          "gloss": "butcher",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 63,
+      "trans": "and, but / not",
+      "words": [
+        {
+          "t": "а",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        }
+      ]
+    },
+    {
+      "seg": 65,
+      "trans": "butcher",
+      "words": [
+        {
+          "t": "мясник.",
+          "lemma": "мясник",
+          "pos": "noun",
+          "stress": "мясни́к",
+          "gloss": "butcher",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 67,
       "trans": "Every chef is obliged to know how to butcher meat.",
       "words": [
         {
@@ -1655,7 +1395,49 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 69,
+      "trans": "obliged, owing",
+      "words": [
+        {
+          "t": "обязан",
+          "lemma": "обязанный",
+          "pos": "adj",
+          "stress": "обя́зан",
+          "gloss": "obliged, owing",
+          "gram": "short form, masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 71,
+      "trans": "to know how",
+      "words": [
+        {
+          "t": "уметь",
+          "lemma": "уметь",
+          "pos": "verb",
+          "stress": "уме́ть",
+          "gloss": "to know how",
+          "gram": "infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 73,
+      "trans": "to butcher",
+      "words": [
+        {
+          "t": "разделывать",
+          "lemma": "разделывать",
+          "pos": "verb",
+          "stress": "разде́лывать",
+          "gloss": "to butcher",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 75,
       "trans": "What, do I need to kill it?",
       "words": [
         {
@@ -1701,7 +1483,57 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 77,
+      "trans": "to me (мне некогда = I have no time) / (it is) necessary",
+      "words": [
+        {
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "нужно",
+          "lemma": "нужно",
+          "pos": "adv",
+          "stress": "ну́жно",
+          "gloss": "(it is) necessary",
+          "gram": "predicative, + dative of the person + infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 79,
+      "trans": "kill",
+      "words": [
+        {
+          "t": "убить",
+          "lemma": "убить",
+          "pos": "verb",
+          "stress": "уби́ть",
+          "gloss": "kill",
+          "gram": "infinitive, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 81,
+      "trans": "today",
+      "words": [
+        {
+          "t": "его?",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 83,
       "trans": "Did you think meat grows on trees?",
       "words": [
         {
@@ -1763,7 +1595,43 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 85,
+      "trans": "thought",
+      "words": [
+        {
+          "t": "думал,",
+          "lemma": "думать",
+          "pos": "verb",
+          "stress": "ду́мал",
+          "gloss": "thought",
+          "gram": "past, masculine singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 87,
+      "trans": "on, onto / trees",
+      "words": [
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "деревьях?",
+          "lemma": "дерево",
+          "pos": "noun",
+          "stress": "дере́вьях",
+          "gloss": "trees",
+          "gram": "neuter plural prepositional"
+        }
+      ]
+    },
+    {
+      "seg": 89,
       "trans": "I have never done this in my life.",
       "words": [
         {
@@ -1825,7 +1693,79 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 91,
+      "trans": "never",
+      "words": [
+        {
+          "t": "никогда",
+          "lemma": "никогда",
+          "pos": "adv",
+          "stress": "никогда́",
+          "gloss": "never",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 93,
+      "trans": "not / were doing",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "делал.",
+          "lemma": "делать",
+          "pos": "verb",
+          "stress": "де́лал",
+          "gloss": "were doing",
+          "gram": "past, masculine singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 95,
+      "trans": "that",
+      "words": [
+        {
+          "t": "этого",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́того",
+          "gloss": "that",
+          "gram": "genitive (after negation)"
+        }
+      ]
+    },
+    {
+      "seg": 97,
+      "trans": "in, into / life",
+      "words": [
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "жизни",
+          "lemma": "жизнь",
+          "pos": "noun",
+          "stress": "жи́зни",
+          "gloss": "life",
+          "gram": "prepositional singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 99,
       "trans": "Kill the goose, or you are fired!",
       "words": [
         {
@@ -1871,7 +1811,57 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 101,
+      "trans": "kill",
+      "words": [
+        {
+          "t": "Убей",
+          "lemma": "убить",
+          "pos": "verb",
+          "stress": "убе́й",
+          "gloss": "kill",
+          "gram": "imperative 2nd person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 103,
+      "trans": "goose",
+      "words": [
+        {
+          "t": "гуся,",
+          "lemma": "гусь",
+          "pos": "noun",
+          "stress": "гуся́",
+          "gloss": "goose",
+          "gram": "masculine singular accusative animate"
+        }
+      ]
+    },
+    {
+      "seg": 105,
+      "trans": "you / fired",
+      "words": [
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "уволен!",
+          "lemma": "уволить",
+          "pos": "verb",
+          "stress": "уво́лен",
+          "gloss": "fired",
+          "gram": "short passive participle, masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 107,
       "trans": "Fine, I will try to do it.",
       "words": [
         {
@@ -1917,7 +1907,681 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 109,
+      "trans": "will try",
+      "words": [
+        {
+          "t": "попробую",
+          "lemma": "попробовать",
+          "pos": "verb",
+          "stress": "попро́бую",
+          "gloss": "will try",
+          "gram": "future, 1st person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 111,
+      "trans": "to do / this",
+      "words": [
+        {
+          "t": "сделать",
+          "lemma": "сделать",
+          "pos": "verb",
+          "stress": "сде́лать",
+          "gloss": "to do",
+          "gram": "infinitive, perfective"
+        },
+        {
+          "t": "это.",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 113,
+      "trans": "Good morning, chef!",
+      "words": [
+        {
+          "t": "Доброе",
+          "lemma": "добрый",
+          "pos": "adj",
+          "stress": "до́брое",
+          "gloss": "good",
+          "gram": "nominative singular, neuter"
+        },
+        {
+          "t": "утро,",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "nominative singular, neuter"
+        },
+        {
+          "t": "шеф!",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
+        }
+      ]
+    },
+    {
+      "seg": 114,
+      "trans": "Hello, oguzok. Here is your work.",
+      "words": [
+        {
+          "t": "Здравствуй,",
+          "lemma": "здравствуй",
+          "pos": "interj",
+          "stress": "здра́вствуй",
+          "gloss": "hello",
+          "gram": "greeting, informal (ты) form"
+        },
+        {
+          "t": "огузок.",
+          "lemma": "огузок",
+          "pos": "name",
+          "stress": "огу́зок",
+          "gloss": "Runt (nickname)",
+          "gram": "proper name, masculine nominative/vocative"
+        },
+        {
+          "t": "Вот",
+          "lemma": "вот",
+          "pos": "part",
+          "stress": null,
+          "gloss": "there, here",
+          "gram": "pointing particle"
+        },
+        {
+          "t": "твоя",
+          "lemma": "твой",
+          "pos": "det",
+          "stress": "твоя́",
+          "gloss": "your",
+          "gram": "possessive, informal, feminine nominative singular"
+        },
+        {
+          "t": "работа.",
+          "lemma": "работа",
+          "pos": "noun",
+          "stress": "рабо́та",
+          "gloss": "job",
+          "gram": "nominative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 115,
+      "trans": "Chef, this is a live goose!",
+      "words": [
+        {
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "живой",
+          "lemma": "живой",
+          "pos": "adj",
+          "stress": "живо́й",
+          "gloss": "alive",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "гусь!",
+          "lemma": "гусь",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "goose",
+          "gram": "nom m sg"
+        }
+      ]
+    },
+    {
+      "seg": 116,
+      "trans": "We have a very important banquet today.",
+      "words": [
+        {
+          "t": "У",
+          "lemma": "у",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "нас",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "us",
+          "gram": "1st person plural, genitive"
+        },
+        {
+          "t": "сегодня",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "важный",
+          "lemma": "важный",
+          "pos": "adj",
+          "stress": "ва́жный",
+          "gloss": "important",
+          "gram": "nominative singular, masculine"
+        },
+        {
+          "t": "банкет.",
+          "lemma": "банкет",
+          "pos": "noun",
+          "stress": "банке́т",
+          "gloss": "banquet",
+          "gram": "nominative / accusative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 117,
+      "trans": "Why do we need a live goose in the kitchen?",
+      "words": [
+        {
+          "t": "Зачем",
+          "lemma": "зачем",
+          "pos": "adv",
+          "stress": "заче́м",
+          "gloss": "what for",
+          "gram": "question word (purpose)"
+        },
+        {
+          "t": "нам",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "us",
+          "gram": "1st person plural dative"
+        },
+        {
+          "t": "живой",
+          "lemma": "живой",
+          "pos": "adj",
+          "stress": "живо́й",
+          "gloss": "alive",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "гусь",
+          "lemma": "гусь",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "goose",
+          "gram": "nom m sg"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "кухне?",
+          "lemma": "кухня",
+          "pos": "noun",
+          "stress": "ку́хне",
+          "gloss": "kitchen",
+          "gram": "feminine singular, prepositional"
+        }
+      ]
+    },
+    {
+      "seg": 118,
+      "trans": "The guests need the freshest product!",
+      "words": [
+        {
+          "t": "Гостям",
+          "lemma": "гость",
+          "pos": "noun",
+          "stress": "гостя́м",
+          "gloss": "guests",
+          "gram": "masculine animate noun, dative plural"
+        },
+        {
+          "t": "нужен",
+          "lemma": "нужный",
+          "pos": "adj",
+          "stress": "ну́жен",
+          "gloss": "is needed",
+          "gram": "short form, masculine singular"
+        },
+        {
+          "t": "самый",
+          "lemma": "самый",
+          "pos": "adj",
+          "stress": "са́мый",
+          "gloss": "the most",
+          "gram": "nominative singular, masculine (superlative helper)"
+        },
+        {
+          "t": "свежий",
+          "lemma": "свежий",
+          "pos": "adj",
+          "stress": "све́жий",
+          "gloss": "fresh",
+          "gram": "masculine singular accusative adjective"
+        },
+        {
+          "t": "продукт!",
+          "lemma": "продукт",
+          "pos": "noun",
+          "stress": "проду́кт",
+          "gloss": "product",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 119,
+      "trans": "But I am a cook, not a butcher.",
+      "words": [
+        {
+          "t": "Но",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "повар,",
+          "lemma": "повар",
+          "pos": "noun",
+          "stress": "по́вар",
+          "gloss": "chef, cook",
+          "gram": "masculine, nominative singular"
+        },
+        {
+          "t": "а",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "мясник.",
+          "lemma": "мясник",
+          "pos": "noun",
+          "stress": "мясни́к",
+          "gloss": "butcher",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 120,
+      "trans": "Every chef is obliged to know how to butcher meat.",
+      "words": [
+        {
+          "t": "Каждый",
+          "lemma": "каждый",
+          "pos": "adj",
+          "stress": "ка́ждый",
+          "gloss": "every",
+          "gram": "accusative, masculine singular"
+        },
+        {
+          "t": "повар",
+          "lemma": "повар",
+          "pos": "noun",
+          "stress": "по́вар",
+          "gloss": "chef, cook",
+          "gram": "masculine, nominative singular"
+        },
+        {
+          "t": "обязан",
+          "lemma": "обязанный",
+          "pos": "adj",
+          "stress": "обя́зан",
+          "gloss": "obliged, owing",
+          "gram": "short form, masculine singular"
+        },
+        {
+          "t": "уметь",
+          "lemma": "уметь",
+          "pos": "verb",
+          "stress": "уме́ть",
+          "gloss": "to know how",
+          "gram": "infinitive"
+        },
+        {
+          "t": "разделывать",
+          "lemma": "разделывать",
+          "pos": "verb",
+          "stress": "разде́лывать",
+          "gloss": "to butcher",
+          "gram": "infinitive, imperfective"
+        },
+        {
+          "t": "мясо.",
+          "lemma": "мясо",
+          "pos": "noun",
+          "stress": "мя́со",
+          "gloss": "meat",
+          "gram": "neuter singular, nominative / accusative"
+        }
+      ]
+    },
+    {
+      "seg": 121,
+      "trans": "What, do I need to kill it?",
+      "words": [
+        {
+          "t": "Что,",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "нужно",
+          "lemma": "нужно",
+          "pos": "adv",
+          "stress": "ну́жно",
+          "gloss": "(it is) necessary",
+          "gram": "predicative, + dative of the person + infinitive"
+        },
+        {
+          "t": "убить",
+          "lemma": "убить",
+          "pos": "verb",
+          "stress": "уби́ть",
+          "gloss": "kill",
+          "gram": "infinitive, perfective"
+        },
+        {
+          "t": "его?",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": "его́",
+          "gloss": "him",
+          "gram": "3rd person masculine singular, accusative; г is said like в"
+        }
+      ]
+    },
+    {
+      "seg": 122,
+      "trans": "Did you think meat grows on trees?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "думал,",
+          "lemma": "думать",
+          "pos": "verb",
+          "stress": "ду́мал",
+          "gloss": "thought",
+          "gram": "past, masculine singular, imperfective"
+        },
+        {
+          "t": "мясо",
+          "lemma": "мясо",
+          "pos": "noun",
+          "stress": "мя́со",
+          "gloss": "meat",
+          "gram": "neuter singular, nominative / accusative"
+        },
+        {
+          "t": "растёт",
+          "lemma": "расти",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "grows",
+          "gram": "3rd person singular present, imperfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "деревьях?",
+          "lemma": "дерево",
+          "pos": "noun",
+          "stress": "дере́вьях",
+          "gloss": "trees",
+          "gram": "neuter plural prepositional"
+        }
+      ]
+    },
+    {
+      "seg": 123,
+      "trans": "I have never done this in my life.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "никогда",
+          "lemma": "никогда",
+          "pos": "adv",
+          "stress": "никогда́",
+          "gloss": "never",
+          "gram": "adverb"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "жизни",
+          "lemma": "жизнь",
+          "pos": "noun",
+          "stress": "жи́зни",
+          "gloss": "life",
+          "gram": "prepositional singular, feminine"
+        },
+        {
+          "t": "этого",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́того",
+          "gloss": "that",
+          "gram": "genitive (after negation)"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "делал.",
+          "lemma": "делать",
+          "pos": "verb",
+          "stress": "де́лал",
+          "gloss": "were doing",
+          "gram": "past, masculine singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 124,
+      "trans": "Kill the goose, or you are fired!",
+      "words": [
+        {
+          "t": "Убей",
+          "lemma": "убить",
+          "pos": "verb",
+          "stress": "убе́й",
+          "gloss": "kill",
+          "gram": "imperative 2nd person singular, perfective"
+        },
+        {
+          "t": "гуся,",
+          "lemma": "гусь",
+          "pos": "noun",
+          "stress": "гуся́",
+          "gloss": "goose",
+          "gram": "masculine singular accusative animate"
+        },
+        {
+          "t": "или",
+          "lemma": "или",
+          "pos": "conj",
+          "stress": "и́ли",
+          "gloss": "or",
+          "gram": "conjunction"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "уволен!",
+          "lemma": "уволить",
+          "pos": "verb",
+          "stress": "уво́лен",
+          "gloss": "fired",
+          "gram": "short passive participle, masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 125,
+      "trans": "Fine, I will try to do it.",
+      "words": [
+        {
+          "t": "Хорошо,",
+          "lemma": "хорошо",
+          "pos": "adv",
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "попробую",
+          "lemma": "попробовать",
+          "pos": "verb",
+          "stress": "попро́бую",
+          "gloss": "will try",
+          "gram": "future, 1st person singular, perfective"
+        },
+        {
+          "t": "сделать",
+          "lemma": "сделать",
+          "pos": "verb",
+          "stress": "сде́лать",
+          "gloss": "to do",
+          "gram": "infinitive, perfective"
+        },
+        {
+          "t": "это.",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 127,
       "trans": "Bye!",
       "words": [
         {

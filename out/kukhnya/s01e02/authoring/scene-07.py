@@ -13,8 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "Max's bartending career has not gone well. There is spilled milk all over the counter, and Sasha, a waitress, arrives and is not impressed. Here is the exchange in Russian first."
 OPENER = 'Back to the spilled milk.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max has been sent back to the kitchen, and the coffee machine is safe at last. You\'ve learned a good Russian jab: "tozhe mne", "some ... you are".'
-CLOSING = ('sasha', 'Пока!')
+OUTRO = 'Max has been sent back to the kitchen, and the coffee machine is safe at last. You\'ve learned a good Russian jab for "some ... you are".'
 STORY = [
     ('sasha', 'Что ты тут вообще делаешь?', 'What are you even doing here?', [], ''),
     ('max', 'Я просто варю кофе для гостей.', 'I am just brewing coffee for the guests.', [], ''),
@@ -30,16 +29,87 @@ STORY = [
     ('max', 'Уже ухожу, шеф бара!', 'Leaving already, bar boss!', [], ''),
 ]
 WALK = [
-    (0, None, '\'What are you even doing here?\' "Voobshche" adds "even" or "at all" and gives the question an edge. "Tut" is the casual "here".'),
-    (1, None, '\'I am just brewing coffee for the guests.\' "Varyu" is the same boiling verb as "vari kofe" in the last scene. After "dlya", for, "gosti" becomes "gostey".'),
-    (2, None, '\'You spilled milk all over the counter!\' You can hear the pieces in "razlil": "raz-", apart, and "lil", poured. So the milk went everywhere.'),
-    (3, None, '\'I wanted to show a neat trick.\' "Khotel pokazat\'" is "wanted to show", two verbs side by side. "Fokus" is a trick, as in a magic trick.'),
-    (4, None, '\'Some bartender you are!\' "Tozhe mne" in front of a noun is Russian for "some ... you are!". It\'s literally "also to me", and you can put almost any noun after it.'),
-    (5, None, '\'Every master makes mistakes.\' Russian puts it as "at every master there happen mistakes". "Byvayut" means "happen from time to time", and "u kazhdogo" is "at each".'),
-    (6, None, '\'Get lost, go on, I will do everything myself.\' "Provalivay" is a rude "scram", from "provalit\'sya", to fall through. "Sama", "myself", ends in -a because Sasha is a woman.'),
-    (7, None, '\'All right, I had better go to the kitchen.\' "Ya luchshe poydu" is "I better will go", the same "luchshe" Max used to turn down a seat.'),
-    (8, None, '\'And never touch the coffee machine again!\' "Bol\'she nikogda ne" is "more never not": "nikogda" and "ne" both say no, and Russian is happy with that. "Kofemashina" is "coffee" and "machine" stuck together.'),
-    (9, None, '\'The kitchen is definitely closer to my heart than this bar.\' Max never actually says "heart". He says the kitchen is "closer to me", with "mne" doing the work of "to me", and "chem" brings in the thing he compares it with, just as "than" does.'),
-    (10, None, '\'Then go help the cooks.\' "Vot i idi" is "well, go then". "Povaram", "to the cooks", has the "-am" ending that means "to" for a group.'),
-    (11, None, '\'Leaving already, bar boss!\' Said halfway out the door: "ukhozhu" means "I\'m leaving" right now, exactly like the English. In "shef bara" the bar picks up an extra -a, the ending that means "of".'),
+    (0, None, [
+        "'What are you even doing here?' The word for 'even' or 'at all' is ",
+        ('sasha', 'вообще'),
+        ", and it gives the question an edge. The casual word for 'here' is ",
+        ('sasha', 'тут'),
+        "."
+    ]),
+    (1, None, [
+        "'I am just brewing coffee for the guests.' The action word ",
+        ('max', 'варю'),
+        " translates to 'brewing', the same boiling action as in the last scene. After the little word for 'for', ",
+        ('max', 'для'),
+        ", the guests become ",
+        ('max', 'гостей.'),
+        "."
+    ]),
+    (2, None, [
+        "'You spilled milk all over the counter!' The word for 'spilled' is ",
+        ('sasha', 'разлил'),
+        ". It is built from 'apart' and 'poured', so the milk went everywhere."
+    ]),
+    (3, None, [
+        "'I wanted to show a neat trick.' ",
+        ('max', 'хотел показать'),
+        " translates to 'wanted to show', two action words side by side. The word for a trick, as in a magic trick, is ",
+        ('max', 'фокус.'),
+        "."
+    ]),
+    (4, None, [
+        "'Some bartender you are!' The phrase ",
+        ('sasha', 'Тоже мне'),
+        " in front of a naming word is Russian for 'some ... you are!'. It is literally 'also to me', and you can put almost any naming word after it."
+    ]),
+    (5, None, [
+        "'Every master makes mistakes.' It literally translates to 'at every master there happen mistakes'. The action word ",
+        ('max', 'бывают'),
+        " means 'happen from time to time', and ",
+        ('max', 'У каждого'),
+        " translates to 'at each'."
+    ]),
+    (6, None, [
+        "'Get lost, go on, I will do everything myself.' The action word ",
+        ('sasha', 'Проваливай,'),
+        " translates to a rude 'scram', built from falling through. The word for 'myself', ",
+        ('sasha', 'сама'),
+        ", ends in an 'a' sound because Sasha is a woman."
+    ]),
+    (7, None, [
+        "'All right, I had better go to the kitchen.' ",
+        ('max', 'я лучше пойду'),
+        " translates to 'I better will go'. The word for 'better', ",
+        ('max', 'лучше'),
+        ", is the same one Max used to turn down a seat."
+    ]),
+    (8, None, [
+        "'And never touch the coffee machine again!' The phrase ",
+        ('sasha', 'больше никогда не'),
+        " literally translates to 'more never not', with two negative words, and Russian is happy with that. The word for 'coffee machine' is ",
+        ('sasha', 'кофемашину!'),
+        ", built from 'coffee' and 'machine' stuck together."
+    ]),
+    (9, None, [
+        "'The kitchen is definitely closer to my heart than this bar.' Max never actually says 'heart'. He says the kitchen is 'closer to me', with ",
+        ('max', 'мне'),
+        " doing the work of 'to me', and ",
+        ('max', 'чем'),
+        " brings in the thing he compares it with, the word for 'than'."
+    ]),
+    (10, None, [
+        "'Then go help the cooks.' ",
+        ('sasha', 'Вот и иди'),
+        " translates to 'well, go then'. The word for 'to the cooks', ",
+        ('sasha', 'поварам.'),
+        ", has a special ending that means 'to' for a group."
+    ]),
+    (11, None, [
+        "'Leaving already, bar boss!' Said halfway out the door: ",
+        ('max', 'ухожу,'),
+        " translates to 'I am leaving' right now, exactly like the English. In ",
+        ('max', 'шеф бара!'),
+        ", the word for 'bar' picks up an extra ending that means 'of'."
+    ]),
 ]
+CLOSING = ("max", "Пока!")

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "The kitchen is in the middle of a rush, and Chef Barinov can't find Max. He searches the back store and finds him fast asleep on vegetable crates in the dark. Here's the confrontation in Russian first."
 OPENER = "Let's go back and see how Max defends himself."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max\'s excuse is a fancy foreign word, and the chef is not impressed. Keep the verb "vstavay", "get up", which comes back in the next scene.'
+OUTRO = ['Max\'s excuse is a fancy foreign word, and the chef is not impressed. Keep the action word ', ('barinov', 'вставай'), ' "get up", which comes back in the next scene.']
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'На кухне сегодня страшная спешка!', 'There is a terrible rush in the kitchen today!', [(21, 'Быстрее, девочки, двигаемся')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Уже встаю, шеф, всё понял.', 'Already getting up, chef, understood everything.', [], ''),
 ]
 WALK = [
-    (0, None, '\'There is a terrible rush in the kitchen today!\' "Strashnaya", terrible, grows out of "strakh", fear. "Speshka", a rush, belongs with "speshit\'", to hurry.'),
-    (1, None, '\'Chef, I did not hear your shouts.\' After "ne slyshal", the thing not heard takes the "of" form, so "kriki" becomes "krikov". "Slyshal" ends in -l for a man.'),
-    (2, None, '\'What are you doing here in the dark?\' "V temnote" is "in darkness", from "temnyy", dark. "Ty chto delayesh\'" uses the familiar "ty".'),
-    (3, None, '\'I simply lay down for five minutes.\' "Prilyog" is "lyog", lay down, with "pri-" for doing it briefly. "Na pyat\' minut" uses "na" for a planned stretch of time.'),
-    (4, None, '\'Oguzok, are you sleeping right on the crates?!\' "Na yashchikakh" is "yashchiki", crates, with the plural -akh after "na". "Spish\'" is "you sleep", from "spat\'".'),
-    (5, None, '\'Forgive me, chef, I was very tired.\' "Ustal" is the man\'s "got tired", and a woman would say "ustala". "Prostite" is "forgive" with the polite -te.'),
-    (6, None, '\'You have a daytime work shift going on!\' "Dnevnaya", daytime, comes from "den\'", day. "Idyot", it goes, is how Russian says something is under way.'),
-    (7, None, '\'I could not fall asleep all night.\' "Vsyu noch\'", the whole night, needs no word for "during". "Zasnut\'" is "spat\'" with "za-" for the start: to fall asleep.'),
-    (8, None, '\'Your nights do not concern me at all.\' "Nochi", nights, is the subject, so "volnuyut", worry, is plural. "Ne volnuysya", don\'t worry, is from the same verb.'),
-    (9, None, '\'Probably I have difficult acclimatization.\' "Navernoye" is "probably". "Akklimatizatsiya" is a borrowed word, and "slozhnaya", difficult, is feminine to match it.'),
-    (10, None, '\'What on earth kind of acclimatization?!\' "Kakaya yeshchyo", what further, mocks a word someone just used. "K chyortu" is "to the devil", a mild curse.'),
-    (11, None, '\'Now get up immediately and go to work!\' "A nu" is a push, "come on now". "Zhivo" is "look lively", "vstavay" is "get up", and "idi rabotat\'" is "go work".'),
-    (12, None, '\'Already getting up, chef, understood everything.\' The present "vstayu" covers "I\'m getting up". "Vsyo ponyal" is "understood everything", with no "I".'),
+    (0, None, ['\'There is a terrible rush in the kitchen today!\' The expression for terrible, ', ('barinov', 'страшная'), ' grows out of the phrase for fear. The term for a rush, ', ('barinov', 'спешка!'), ' belongs with the action word to hurry.']),
+    (1, None, ['\'Chef, I did not hear your shouts.\' After the phrase for did not hear, ', ('max', 'не слышал'), ' the thing not heard changes its ending, so the Russian expression for shouts gets a new ending, becoming ', ('max', 'криков.'), ' Note how the Russian expression for heard, ', ('max', 'слышал'), ' ends in an L sound for a man.']),
+    (2, None, ['\'What are you doing here in the dark?\' The phrase ', ('barinov', 'в темноте?'), ' translates to "in darkness", built from the describing word for dark. The phrase for what are you doing here, ', ('barinov', 'Ты что здесь делаешь'), ' uses the familiar word for you, ', ('barinov', 'Ты')]),
+    (3, None, ['\'I simply lay down for five minutes.\' The Russian term for lay down, ', ('max', 'прилёг'), ' is built from the action word for lay down with an added start for doing it briefly. The phrase for for five minutes, ', ('max', 'на пять минут.'), ' uses the little word ', ('max', 'на'), ' for a planned stretch of time.']),
+    (4, None, ['\'Oguzok, are you sleeping right on the crates?!\' The phrase for on the crates is ', ('barinov', 'на ящиках?!'), ' built from the Russian term for crates with a special ending after ', ('barinov', 'На'), ' The action word ', ('barinov', 'спишь'), ' translates to "you sleep", built from the Russian expression for to sleep.']),
+    (5, None, ['\'Forgive me, chef, I was very tired.\' The term for got tired, ', ('max', 'устал.'), ' is the man\'s version, and a woman would say it differently. The expression for forgive, ', ('max', 'Простите,'), ' translates to "forgive" with the polite ending.']),
+    (6, None, ['\'You have a daytime work shift going on!\' The Russian term for daytime, ', ('barinov', 'дневная'), ' comes from the term for day. The action word ', ('barinov', 'идёт'), ' literally "it goes", is how Russian says something is under way.']),
+    (7, None, ['\'I could not fall asleep all night.\' The phrase for the whole night, ', ('max', 'всю ночь.'), ' needs no word for "during". The action word ', ('max', 'заснуть'), ' is built from the Russian term for to sleep with an added start to mean falling asleep.']),
+    (8, None, ['\'Your nights do not concern me at all.\' Because the Russian expression for nights, ', ('barinov', 'ночи.'), ' is multiple, the action word for worry, ', ('barinov', 'волнуют'), ' changes its ending to match. The phrase for don\'t worry is built from the same action word.']),
+    (9, None, ['\'Probably I have difficult acclimatization.\' The translation for probably is ', ('max', 'Наверное,'), ' The word ', ('max', 'акклиматизация.'), ' is a borrowed word, and the describing word for difficult, ', ('max', 'сложная'), ' matches its ending to it.']),
+    (10, None, ['\'What on earth kind of acclimatization?!\' The phrase ', ('barinov', 'Какая ещё'), ' literally "what further", mocks a word someone just used. The phrase ', ('barinov', 'к чёрту'), ' translates to "to the devil", a mild curse.']),
+    (11, None, ['\'Now get up immediately and go to work!\' The phrase ', ('barinov', 'А ну'), ' is a push, literally "come on now". The term for look lively is ', ('barinov', 'живо'), ' the action word for get up is ', ('barinov', 'вставай'), ' and the phrase for go work is ', ('barinov', 'иди работать!')]),
+    (12, None, ['\'Already getting up, chef, understood everything.\' The action word ', ('max', 'встаю,'), ' translates to "I\'m getting up". The phrase ', ('max', 'всё понял.'), ' translates to "understood everything", with no word for "I".']),
 ]

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "In the dining room, Chef Barinov brings a dessert to an important guest himself, boasting that he does whatever the guests ask. Then the guest tells him what she does for a living, and the chef goes pale. Here's the Russian first."
 OPENER = "Let's go back to the table."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'The judge is not about to give back his licence, and Barinov slinks back to the kitchen. Take "skazhite spasibo" with you: it\'s how Russians say "count yourself lucky".'
+OUTRO = 'The judge is not about to give back his licence, and Barinov slinks back to the kitchen. Take that last phrase with you: it\'s how Russians say "count yourself lucky".'
 CLOSING = ('judge', 'Пока!')
 STORY = [
     ('barinov', 'Вот десерт от нашего кондитера.', 'Here is dessert from our pastry chef.', [(167, 'от нашего кондитера')], ''),
@@ -31,17 +31,99 @@ STORY = [
     ('judge', 'Скажите спасибо, что срок всего год.', 'Say thank you that the suspension is only a year.', [(192, 'спасибо скажите, что вас только на год')], ''),
 ]
 WALK = [
-    (0, None, '\'Here is dessert from our pastry chef.\' "Ot nashego konditera" puts the "from" ending on both words, -ego and -a. A "konditer" makes cakes and pastries.'),
-    (1, None, '\'Thank you for changing the menu for me.\' "Spasibo, chto" is "thanks that", the frame for thanking someone for what they did. "Izmenili", changed, has the -li of the polite "vy".'),
-    (2, None, '\'I am the chef and I fulfill any orders.\' "Lyubyye", any, comes from "lyubit\'", to love, so it\'s "whichever you like". "Vypolnyayu zakazy" is "I fulfill orders".'),
-    (3, None, '\'And what do you do, if it is not a secret?\' "Kem vy rabotayete?" is "as whom do you work?", with "kto" changed to "kem". "Yesli ne sekret" softens a personal question.'),
-    (4, None, '\'I work as a judge at the Tverskoy court.\' "Sud\'ya" becomes "sud\'yoy" for "as a judge". "V Tverskom sude" is "in the Tverskoy court", with -om and -e for being in a place.'),
-    (5, None, '\'Whoa! And they suspended my license yesterday!\' A driving licence is "prava", rights, always plural. "Menya lishili prav" is "they deprived me of rights", with no one named as "they".'),
-    (6, None, '\'What is your last name?\' "Familiya" looks like "family", but it means only your surname. "Kak vasha familiya?" is "how your surname?".'),
-    (7, None, '\'My last name is Barinov. Viktor Barinov.\' Russian leaves out "is": "moya familiya Barinov". "Viktor" is his first name.'),
-    (8, None, '\'So it was I who issued that decision!\' "Vynesti resheniye", to carry out a decision, is how a court passes a ruling. "Eto ya", it\'s I, puts the weight on her.'),
-    (9, None, '\'Maybe we can fix everything?\' "Mozhet byt\'" is "may be", the full "maybe". "Ispravit\'", to fix, has "pravyy", right, at its core, so it means "set right".'),
-    (10, None, '\'No. You knocked down a traffic light on the road!\' "Svetofor" joins "svet", light, to a Greek root for "carrying". "Sbili" is "knocked down", and "na doroge" is "on the road".'),
-    (11, None, '\'But I had a valid excuse.\' "U menya bylo" is "at me there was", the past of "I have". "Uvazhitel\'noye", valid, shares a root with "uvazheniye", respect, and "opravdaniye" is "excuse".'),
-    (12, None, '\'Say thank you that the suspension is only a year.\' "Skazhite spasibo, chto" means "be grateful that". "Srok" is a fixed term, and "vsego god" is "in all a year".'),
+    (0, None, [
+        '\'Here is dessert from our pastry chef.\' The phrase for "from our pastry chef", ',
+        ('barinov', 'от нашего кондитера.'),
+        ', puts a special ending on both words. This word translates to a person who makes cakes and pastries.'
+    ]),
+    (1, None, [
+        "'Thank you for changing the menu for me.' The phrase for thanking someone is ",
+        ('judge', 'Спасибо, что'),
+        ', which literally means "thanks that". The word for "changed" is ',
+        ('judge', 'изменили'),
+        ' which has the ending for the polite "you".'
+    ]),
+    (2, None, [
+        '\'I am the chef and I fulfill any orders.\' The word for "any", ',
+        ('barinov', 'любые'),
+        ', is built from the word for "to love", so it literally means "whichever you like". And ',
+        ('barinov', 'выполняю'),
+        ' translates to "I fulfill".'
+    ]),
+    (3, None, [
+        '\'And what do you do, if it is not a secret?\' The phrase for "what do you do" is ',
+        ('barinov', 'кем работаете,'),
+        ' which literally asks "as whom do you work?". The phrase ',
+        ('barinov', 'если не секрет?'),
+        ' translates to "if it is not a secret" and softens a personal question.'
+    ]),
+    (4, None, [
+        '\'I work as a judge at the Tverskoy court.\' The word for a judge takes a special ending to mean "as a judge", becoming ',
+        ('judge', 'судьёй'),
+        '. The phrase for "in the Tverskoy court" is ',
+        ('judge', 'в Тверском суде.'),
+        ' which has special word shapes for being inside a place.'
+    ]),
+    (5, None, [
+        '\'Whoa! And they suspended my license yesterday!\' A driving licence translates to "rights" and is always in a shape for more than one, which here is ',
+        ('barinov', 'прав!'),
+        ' The phrase for suspending a license literally means "they deprived me of rights", using ',
+        ('barinov', 'лишили'),
+        ' for "they deprived", without actually naming who "they" are.'
+    ]),
+    (6, None, [
+        '\'What is your last name?\' The word for "surname", ',
+        ('judge', 'фамилия?'),
+        ', looks like "family" but only means your last name. The full question translates to "how is your surname?", asked as ',
+        ('judge', 'Как ваша фамилия?')
+    ]),
+    (7, None, [
+        '\'My last name is Barinov. Viktor Barinov.\' Russian leaves out the word for "is", so you just say ',
+        ('barinov', 'Моя фамилия Баринов.'),
+        ' His first name is given as ',
+        ('barinov', 'Виктор')
+    ]),
+    (8, None, [
+        "'So it was I who issued that decision!' The phrase for a court passing a ruling is built from the action words to carry out a decision, shown here as ",
+        ('judge', 'вынесла'),
+        ' followed by ',
+        ('judge', 'решение!'),
+        ' Saying ',
+        ('judge', 'это я'),
+        ' literally translates to "it\'s I", putting the weight on her.'
+    ]),
+    (9, None, [
+        '\'Maybe we can fix everything?\' The phrase for "maybe" is ',
+        ('barinov', 'Может быть,'),
+        ' which literally means "may be". The word for "to fix", ',
+        ('barinov', 'исправить?'),
+        ', is built from the root for "right", so it translates to "set right".'
+    ]),
+    (10, None, [
+        '\'No. You knocked down a traffic light on the road!\' The word for "traffic light", ',
+        ('judge', 'светофор'),
+        ', joins the word for "light" to a Greek root for "carrying". The action word ',
+        ('judge', 'сбили'),
+        ' means "knocked down", and ',
+        ('judge', 'на дороге!'),
+        ' translates to "on the road".'
+    ]),
+    (11, None, [
+        '\'But I had a valid excuse.\' The phrase for "I had" is ',
+        ('barinov', 'у меня было'),
+        ', which literally means "at me there was". The word for "valid", ',
+        ('barinov', 'уважительное'),
+        ', is built from the root for "respect", and ',
+        ('barinov', 'оправдание.'),
+        ' translates to "excuse".'
+    ]),
+    (12, None, [
+        '\'Say thank you that the suspension is only a year.\' The phrase for "be grateful that" is literally ',
+        ('judge', 'Скажите спасибо, что'),
+        ' which translates to "say thank you that". The word for a fixed term is ',
+        ('judge', 'срок'),
+        ', and ',
+        ('judge', 'всего год.'),
+        ' means "in all a year".'
+    ]),
 ]

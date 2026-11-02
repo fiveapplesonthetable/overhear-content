@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "Behind the bar, Kostya is gloomy: his attempt to charm Nastya went badly. Max teases him a little, and then Kostya asks Max to talk to her on his behalf. Max, who thinks he is a born diplomat, agrees. Here's the Russian first."
 OPENER = "Let's go back to the bar."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max promises to be gentle, which is not what he\'s known for. A nice thing to keep: "minut sem\'", where the number after the noun means "about".'
+OUTRO = ["Max promises to be gentle, which is not what he's known for. A nice phrase to remember is ", ('max', 'минут семь'), ", where putting the number after the Russian expression for minutes means \"about\"."]
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Я понял, свидания у тебя не будет?', "I take it you won't have a date?", [(211, 'свидания у тебя не будет')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Не волнуйся, я прирождённый дипломат!', 'Do not worry, I am a natural diplomat!', [], ''),
 ]
 WALK = [
-    (0, None, '\'I take it you won\'t have a date?\' "Ya ponyal", I understood, opens the line as "I take it". "U tebya ne budet" is "at you there won\'t be", and after "ne budet", "svidaniye" becomes "svidaniya".'),
-    (1, None, '\'Yes, I said something completely stupid again.\' Russian says "skazal glupost\'", said a stupidity. "Polnuyu", complete, takes -uyu as the object.'),
-    (2, None, '\'You get way too nervous around her.\' "Slishkom" is "too". "Nervnichayesh\'" is from "nervy", nerves, and "pered ney" is "in front of her".'),
-    (3, None, '\'I cannot manage to speak beautifully!\' Russians often skip "I can\'t" and say "ne poluchayetsya u menya", it doesn\'t work out at me, as if the speech itself were failing. "Krasivo" is the adverb from "krasivyy", beautiful.'),
-    (4, None, '\'One needs to learn this long and patiently.\' "Terpelivo", patiently, is from "terpet\'", to endure. "Uchit\'sya" takes "to" for the subject learned, so "eto" becomes "etomu".'),
-    (5, None, '\'Listen, maybe you could talk with her?\' Familiar from the first word: "slushay" is the ty form of "listen". In "pogovorish\'", the "po-" makes it one short talk, and -ish\' means "you will".'),
-    (6, None, '\'What exactly am I supposed to tell her?\' "Dolzhen" is "must" for a man. "Yey" is "to her".'),
-    (7, None, '\'Explain that I really like her.\' "Ob\'\'yasni" is "explain". In "ona mne nravitsya", she does the pleasing and "mne" receives it.'),
-    (8, None, '\'Okay, I will try to talk with Nastya.\' After "s", with, "Nastya" becomes "Nastey".'),
-    (9, None, '\'Thank you, friend, you will really help me out!\' "Vyruchish\'" is "you\'ll get me out of a jam", warmer than "pomozhesh\'", you\'ll help.'),
-    (10, None, '\'I have about seven minutes right now.\' Putting the number after the noun makes it rough: "minut sem\'" is about seven, "sem\' minut" is seven.'),
-    (11, None, '\'Just say everything as gently as possible.\' "Maksimal\'no" is borrowed, "maximally". "Nezhno", gently, is from "nezhnyy", tender.'),
-    (12, None, '\'Do not worry, I am a natural diplomat!\' "Prirozhdyonnyy" is "pri-" plus "rozhdyonnyy", born: born to it. "Diplomat" was borrowed into Russian unchanged.'),
+    (0, None, ["'I take it you won't have a date?' The phrase for 'I understood', ", ('max', 'Я понял,'), ", opens the line as 'I take it'. Literally, ", ('max', 'у тебя не будет?'), " translates to 'at you there won't be', and the term for 'date', ", ('max', 'свидания'), ", changes its ending because it is not happening."]),
+    (1, None, ["'Yes, I said something completely stupid again.' The Russian literally translates to saying a stupidity, as in the word ", ('kostya', 'глупость.'), ". The describing word for 'complete', ", ('kostya', 'полную'), ", changes its ending to show it's the target of the action."]),
+    (2, None, ["'You get way too nervous around her.' The expression for 'too' is ", ('max', 'слишком'), ". The action word ", ('max', 'нервничаешь'), " is built from the expression for nerves, and the phrase ", ('max', 'перед ней.'), " literally translates to 'in front of her'."]),
+    (3, None, ["'I cannot manage to speak beautifully!' Russians often skip 'I can't' and say ", ('kostya', 'Не получается у меня'), ". This literally translates to 'it doesn't work out at me', as if the speech itself were failing. The describing word ", ('kostya', 'красиво'), " is built from the Russian term for beautiful."]),
+    (4, None, ["'One needs to learn this long and patiently.' The expression for patiently, ", ('max', 'терпеливо'), ", is built from the action word for 'to endure'. The term for 'learn', ", ('max', 'учиться.'), ", takes 'to' for the subject being learned, so 'this' changes its ending to match."]),
+    (5, None, ["'Listen, maybe you could talk with her?' It's familiar from the first word, as ", ('kostya', 'Слушай,'), " translates to the informal 'listen'. In the action word ", ('kostya', 'поговоришь?'), ", the prefix makes it one short talk, and the ending translates to 'you will'."]),
+    (6, None, ["'What exactly am I supposed to tell her?' The translation for 'must' when spoken by a man is ", ('max', 'должен'), ". And the Russian expression for \'to her\', as in ", (\'max\', \'ей сказать?\'), ", literally translates to \'to her to tell\'."]),
+    (7, None, ["'Explain that I really like her.' The Russian expression for 'explain' is ", ('kostya', 'Объясни,'), ". In the phrase ", ('kostya', 'она мне очень нравится.'), ", she literally does the pleasing and the speaker receives it."]),
+    (8, None, ["'Okay, I will try to talk with Nastya.' After the little word for \'with\', as in ", (\'max\', \'с Настей.\'), ", the name Nastya changes its ending."]),
+    (9, None, ["'Thank you, friend, you will really help me out!' The word ", ('kostya', 'выручишь!'), " translates to 'you will get me out of a jam', which is much warmer than the standard word for 'you will help'."]),
+    (10, None, ["'I have about seven minutes right now.' Putting the number after the naming word makes it a rough guess: ", ('max', 'минут семь'), " translates to 'about seven', whereas putting the number first means exactly seven."]),
+    (11, None, ["'Just say everything as gently as possible.' The word ", ('kostya', 'максимально'), " translates to 'maximally'. The Russian term for 'gently', ", ('kostya', 'нежно.'), ", is built from the describing word for 'tender'."]),
+    (12, None, ["'Do not worry, I am a natural diplomat!' The Russian term for 'natural', ", ('max', 'прирождённый'), ", is built from the Russian expression for 'born', meaning 'born to it'. The word ", ('max', 'дипломат!'), " was borrowed into Russian unchanged."]),
 ]

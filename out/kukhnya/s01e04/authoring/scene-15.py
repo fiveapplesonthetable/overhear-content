@@ -1,3 +1,4 @@
+
 # Authoring module for kukhnya-s01e04-scene-15.
 ID = 'kukhnya-s01e04-scene-15'
 SHOW = 'kukhnya'
@@ -13,7 +14,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "The chef catches Max in his office and asks whether the staff lunch is cooked. Max says it is nearly done, the lie detector says otherwise, and Max tries flattery. Here's the Russian first."
 OPENER = "Let's listen to the chef catch him out."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max narrowly escapes, and sprints back to the stove. You\'ve heard "slushayus\'", the soldier\'s "yes, sir", which Max uses whenever the chef gives an order.'
+OUTRO = "Max narrowly escapes, and sprints back to the stove. You've heard the soldier's 'yes, sir', which Max uses whenever the chef gives an order."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Лавров, подойди сюда прямо сейчас.', 'Lavrov, come here right now.', [(180, 'соседний ресторан')], ''),
@@ -31,17 +32,17 @@ STORY = [
     ('max', 'Слушаюсь, шеф, я сделаю всё моментально.', 'Understood, chef, I will do everything instantly.', [(195, 'не обману')], ''),
 ]
 WALK = [
-    (0, None, '\'Lavrov, come here right now.\' "Podoydi" is "come up", with "pod-", up to. The surname, "Lavrov", marks a serious talk.'),
-    (1, None, '\'Chef, can I already go to the kitchen?\' Just like English "can go", "mogu", I can, is followed by a plain infinitive, "idti", to go on foot. "Uzhe", already, slips in between them.'),
-    (2, None, '\'Wait! Did you cook lunch for the cooks?\' "Podozhdi" is the familiar "wait". "Dlya povarov" is "for the cooks", with -ov.'),
-    (3, None, '\'Yes, of course, I already made everything.\' "Sdelal" is "did" or "made", with the man\'s -l. "Uzhe" is "already".'),
-    (4, None, '\'Is everything definitely ready? You aren\'t deceiving me?\' "Tochno" is "for sure". "Obmanyvayesh\'" is from "obman", a deception.'),
-    (5, None, '\'Well, almost cooked, very little is left.\' "Pochti" is "almost". "Ostalos\'", is left, takes the neuter -o because nothing named is the subject.'),
-    (6, None, '\'You are lying to my face again!\' "Vryosh\'" is the blunt everyday "you lie", from "vrat\'". "V litso" is "into the face".'),
-    (7, None, '\'Chef, I never lie to you.\' "Nikogda ne vru" is "never not lie", the double negative. "Vam" is the polite "to you".'),
-    (8, None, '\'The lie detector shows something completely different!\' Literally, "the detector of lie": "lozh\'", a lie, turns into "lzhi" in the "of" form. "Drugoye", other, is neuter because the thing it shows has no name.'),
-    (9, None, '\'This stupid machine simply broke.\' "Slomalas\'" is "broke", with -s\' for breaking by itself and -a for "mashina".'),
-    (10, None, '\'Chef, you are like my own father to me.\' "Rodnoy", one\'s own, is from "rod", kin. "Kak rodnoy otets" is "like a blood father".'),
-    (11, None, '\'Quickly run to the kitchen and feed people!\' Two ty commands back to back, "begi", run, and "kormi", feed. After "kormi", "lyudi", people, becomes "lyudey".'),
-    (12, None, '\'Understood, chef, I will do everything instantly.\' "Slushayus\'" is the soldier\'s "yes, sir", literally "I obey". "Momental\'no" is "instantly", from "moment".'),
+    (0, None, ["'Lavrov, come here right now.' The Russian expression for 'come up' is ", ("barinov", "подойди"), " built from a prefix meaning 'up to'. Using the surname, ", ("barinov", "Лавров,"), " marks a serious talk."]),
+    (1, None, ["'Chef, can I already go to the kitchen?' Just like English 'can go', the Russian term for 'I can', ", ("max", "могу"), " is followed by a plain action word, ", ("max", "идти"), " to go on foot. The translation for 'already', ", ("max", "уже"), " slips in between them."]),
+    (2, None, ["'Wait! Did you cook lunch for the cooks?' The expression for the familiar 'wait' is ", ("barinov", "Подожди!"), " 'For the cooks' translates to ", ("barinov", "для поваров?")]),
+    (3, None, ["'Yes, of course, I already made everything.' The Russian term for 'did' or 'made' is ", ("max", "сделал."), " ending with the man's action sound. The term for 'already' translates to ", ("max", "уже")]),
+    (4, None, ["'Is everything definitely ready? You aren't deceiving me?' The translation for 'for sure' is ", ("barinov", "Точно"), " 'You are deceiving' translates to ", ("barinov", "обманываешь"), " built from a word meaning a deception."]),
+    (5, None, ["'Well, almost cooked, very little is left.' The word for 'almost' is ", ("max", "почти"), " The Russian term for 'is left' is ", ("max", "осталось"), " which has an ending used when the thing it refers to has no name."]),
+    (6, None, ["'You are lying to my face again!' The Russian term for the blunt everyday 'you lie' translates to ", ("barinov", "врёшь"), " from the action word for lying. 'To my face' translates literally to ", ("barinov", "в лицо!"), " or 'into the face'."]),
+    (7, None, ["'Chef, I never lie to you.' The phrase for 'never lie' translates literally to ", ("max", "никогда не вру"), " meaning 'never not lie', a double negative. The expression for the polite 'to you' is ", ("max", "вам.")]),
+    (8, None, ["'The lie detector shows something completely different!' Translates literally to 'the detector of lie'. The phrase for a lie changes to ", ("barinov", "лжи"), " in this form. The translation for 'other', ", ("barinov", "другое!"), " takes an ending used when the thing it shows has no name."]),
+    (9, None, ["'This stupid machine simply broke.' The expression for 'broke' translates to ", ("max", "сломалась."), " with a sound at the end meaning it broke by itself, and an ending that matches the describing word for the machine, ", ("max", "машина")]),
+    (10, None, ["'Chef, you are like my own father to me.' The phrase for 'one's own', ", ("max", "родной"), " is built from a word meaning kin. The phrase for 'like my own father' translates literally to ", ("max", "как родной отец."), " meaning 'like a blood father'."]),
+    (11, None, ["'Quickly run to the kitchen and feed people!' Two familiar commands back to back: the Russian term for 'run' is ", ("barinov", "беги"), " and the translation for 'feed' is ", ("barinov", "корми"), " After 'feed', the translation for people changes to ", ("barinov", "людей!")]),
+    (12, None, ["'Understood, chef, I will do everything instantly.' The Russian expression for the soldier's 'yes, sir' translates to ", ("max", "Слушаюсь,"), " which translates literally to 'I obey'. The term for 'instantly' is ", ("max", "моментально."), " built from the term for 'moment'."]),
 ]

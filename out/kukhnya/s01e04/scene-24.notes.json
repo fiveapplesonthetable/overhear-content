@@ -662,6 +662,34 @@
     },
     {
       "seg": 18,
+      "trans": "wait",
+      "words": [
+        {
+          "t": "подожди",
+          "lemma": "подождать",
+          "pos": "verb",
+          "stress": "подожди́",
+          "gloss": "wait",
+          "gram": "imperative, 2nd person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "a minute",
+      "words": [
+        {
+          "t": "минуту!",
+          "lemma": "минута",
+          "pos": "noun",
+          "stress": "мину́ту",
+          "gloss": "a minute",
+          "gram": "accusative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 22,
       "trans": "Vika? What happened?",
       "words": [
         {
@@ -691,7 +719,29 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 24,
+      "trans": "what / happened",
+      "words": [
+        {
+          "t": "Что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "случилось?",
+          "lemma": "случиться",
+          "pos": "verb",
+          "stress": "случи́лось",
+          "gloss": "happened",
+          "gram": "past, neuter singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 25,
       "trans": "You are not leaving anywhere.",
       "words": [
         {
@@ -729,7 +779,43 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 27,
+      "trans": "are leaving",
+      "words": [
+        {
+          "t": "уходишь.",
+          "lemma": "уходить",
+          "pos": "verb",
+          "stress": "ухо́дишь",
+          "gloss": "are leaving",
+          "gram": "2nd person singular present, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 29,
+      "trans": "nowhere, anywhere (with motion) / not",
+      "words": [
+        {
+          "t": "никуда",
+          "lemma": "никуда",
+          "pos": "adv",
+          "stress": "никуда́",
+          "gloss": "nowhere, anywhere (with motion)",
+          "gram": "negative adverb of direction"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        }
+      ]
+    },
+    {
+      "seg": 31,
       "trans": "But the chef just fired me.",
       "words": [
         {
@@ -783,7 +869,43 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 33,
+      "trans": "only / what",
+      "words": [
+        {
+          "t": "только",
+          "lemma": "только",
+          "pos": "adv",
+          "stress": "то́лько",
+          "gloss": "only",
+          "gram": "limiting adverb"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 35,
+      "trans": "to fire, to dismiss",
+      "words": [
+        {
+          "t": "уволил.",
+          "lemma": "уволить",
+          "pos": "verb",
+          "stress": "уво́лил",
+          "gloss": "to fire, to dismiss",
+          "gram": "pf praet m sg"
+        }
+      ]
+    },
+    {
+      "seg": 37,
       "trans": "I spoke with the chef.",
       "words": [
         {
@@ -821,7 +943,43 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 39,
+      "trans": "talked, had a talk",
+      "words": [
+        {
+          "t": "поговорила",
+          "lemma": "поговорить",
+          "pos": "verb",
+          "stress": "поговори́ла",
+          "gloss": "talked, had a talk",
+          "gram": "feminine singular past (perfective)"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "with / from / chef",
+      "words": [
+        {
+          "t": "с",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "with / from",
+          "gram": "preposition"
+        },
+        {
+          "t": "шефом.",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": "ше́фом",
+          "gloss": "chef",
+          "gram": "masculine singular instrumental"
+        }
+      ]
+    },
+    {
+      "seg": 42,
       "trans": "And what did he tell you?",
       "words": [
         {
@@ -867,7 +1025,43 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 44,
+      "trans": "for you, to you",
+      "words": [
+        {
+          "t": "тебе",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебе́",
+          "gloss": "for you, to you",
+          "gram": "2nd person singular, dative"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "for you, to you / said",
+      "words": [
+        {
+          "t": "тебе",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебе́",
+          "gloss": "for you, to you",
+          "gram": "2nd person singular, dative"
+        },
+        {
+          "t": "сказал?",
+          "lemma": "сказать",
+          "pos": "verb",
+          "stress": "сказа́л",
+          "gloss": "said",
+          "gram": "past, masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 48,
       "trans": "He allowed you to stay in the kitchen.",
       "words": [
         {
@@ -921,7 +1115,43 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 50,
+      "trans": "allowed, gave permission",
+      "words": [
+        {
+          "t": "разрешил",
+          "lemma": "разрешить",
+          "pos": "verb",
+          "stress": "разреши́л",
+          "gloss": "allowed, gave permission",
+          "gram": "masculine singular past (perfective)"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "for you, to you / to remain, to be left",
+      "words": [
+        {
+          "t": "тебе",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебе́",
+          "gloss": "for you, to you",
+          "gram": "2nd person singular, dative"
+        },
+        {
+          "t": "остаться",
+          "lemma": "остаться",
+          "pos": "verb",
+          "stress": "оста́ться",
+          "gloss": "to remain, to be left",
+          "gram": "infinitive, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 54,
       "trans": "Really? You saved me!",
       "words": [
         {
@@ -959,7 +1189,35 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 56,
+      "trans": "saved (she)",
+      "words": [
+        {
+          "t": "спасла!",
+          "lemma": "спасти",
+          "pos": "verb",
+          "stress": "спасла́",
+          "gloss": "saved (she)",
+          "gram": "past, feminine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "honestly",
+      "words": [
+        {
+          "t": "Правда?",
+          "lemma": "правда",
+          "pos": "noun",
+          "stress": "пра́вда",
+          "gloss": "honestly",
+          "gram": "feminine singular, nominative; used as a side word"
+        }
+      ]
+    },
+    {
+      "seg": 59,
       "trans": "Just do not make stupid mistakes anymore.",
       "words": [
         {
@@ -1013,7 +1271,57 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 61,
+      "trans": "to commit, make (mistake)",
+      "words": [
+        {
+          "t": "совершай",
+          "lemma": "совершать",
+          "pos": "verb",
+          "stress": "соверша́й",
+          "gloss": "to commit, make (mistake)",
+          "gram": "ipf impv 2sg"
+        }
+      ]
+    },
+    {
+      "seg": 63,
+      "trans": "mistakes, errors",
+      "words": [
+        {
+          "t": "ошибок.",
+          "lemma": "ошибка",
+          "pos": "noun",
+          "stress": "оши́бок",
+          "gloss": "mistakes, errors",
+          "gram": "genitive plural, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 65,
+      "trans": "more / not",
+      "words": [
+        {
+          "t": "больше",
+          "lemma": "больше",
+          "pos": "adv",
+          "stress": "бо́льше",
+          "gloss": "more",
+          "gram": "comparative adverb (of много)"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        }
+      ]
+    },
+    {
+      "seg": 67,
       "trans": "I promise, I will work very diligently.",
       "words": [
         {
@@ -1067,7 +1375,43 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 69,
+      "trans": "diligently, painstakingly",
+      "words": [
+        {
+          "t": "старательно.",
+          "lemma": "старательно",
+          "pos": "adv",
+          "stress": "стара́тельно",
+          "gloss": "diligently, painstakingly",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 71,
+      "trans": "will be (there) / to work",
+      "words": [
+        {
+          "t": "буду",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́ду",
+          "gloss": "will be (there)",
+          "gram": "future, 1st person singular, imperfective"
+        },
+        {
+          "t": "работать",
+          "lemma": "работать",
+          "pos": "verb",
+          "stress": "рабо́тать",
+          "gloss": "to work",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 73,
       "trans": "Return to your work station.",
       "words": [
         {
@@ -1113,7 +1457,43 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 75,
+      "trans": "return",
+      "words": [
+        {
+          "t": "Возвращайся",
+          "lemma": "возвращаться",
+          "pos": "verb",
+          "stress": "возвраща́йся",
+          "gloss": "return",
+          "gram": "2nd person singular imperative"
+        }
+      ]
+    },
+    {
+      "seg": 77,
+      "trans": "work / place, post",
+      "words": [
+        {
+          "t": "рабочее",
+          "lemma": "рабочий",
+          "pos": "adj",
+          "stress": "рабо́чее",
+          "gloss": "work",
+          "gram": "neuter, accusative singular"
+        },
+        {
+          "t": "место.",
+          "lemma": "место",
+          "pos": "noun",
+          "stress": "ме́сто",
+          "gloss": "place, post",
+          "gram": "accusative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 79,
       "trans": "Thank you very much for your help, Vika!",
       "words": [
         {
@@ -1167,7 +1547,43 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 81,
+      "trans": "thank you / huge, so very much",
+      "words": [
+        {
+          "t": "Спасибо",
+          "lemma": "спасибо",
+          "pos": "interj",
+          "stress": "спаси́бо",
+          "gloss": "thank you",
+          "gram": "fixed expression"
+        },
+        {
+          "t": "огромное",
+          "lemma": "огромный",
+          "pos": "adj",
+          "stress": "огро́мное",
+          "gloss": "huge, so very much",
+          "gram": "neuter nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 83,
+      "trans": "help",
+      "words": [
+        {
+          "t": "помощь,",
+          "lemma": "помощь",
+          "pos": "noun",
+          "stress": "по́мощь",
+          "gloss": "help",
+          "gram": "nominative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 85,
       "trans": "Go, before the chef changes his mind.",
       "words": [
         {
@@ -1213,7 +1629,57 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 87,
+      "trans": "bye! / chef, boss",
+      "words": [
+        {
+          "t": "пока",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
+        },
+        {
+          "t": "шеф",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
+        }
+      ]
+    },
+    {
+      "seg": 89,
+      "trans": "not",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        }
+      ]
+    },
+    {
+      "seg": 91,
+      "trans": "changed your mind",
+      "words": [
+        {
+          "t": "передумал.",
+          "lemma": "передумать",
+          "pos": "verb",
+          "stress": "переду́мал",
+          "gloss": "changed your mind",
+          "gram": "past masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 93,
       "trans": "I got a second chance!",
       "words": [
         {
@@ -1259,7 +1725,59 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 95,
+      "trans": "at, near, with / me / appeared",
+      "words": [
+        {
+          "t": "У",
+          "lemma": "у",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "меня",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́",
+          "gloss": "me",
+          "gram": "1st person singular, genitive"
+        },
+        {
+          "t": "появился",
+          "lemma": "появиться",
+          "pos": "verb",
+          "stress": "появи́лся",
+          "gloss": "appeared",
+          "gram": "perfective past, masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 97,
+      "trans": "second / chance",
+      "words": [
+        {
+          "t": "второй",
+          "lemma": "второй",
+          "pos": "adj",
+          "stress": "второ́й",
+          "gloss": "second",
+          "gram": "accusative masculine singular, inanimate, ordinal"
+        },
+        {
+          "t": "шанс!",
+          "lemma": "шанс",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chance",
+          "gram": "masculine singular, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 98,
       "trans": "Max, wait a minute!",
       "words": [
         {
@@ -1289,7 +1807,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 99,
       "trans": "Vika? What happened?",
       "words": [
         {
@@ -1319,7 +1837,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 100,
       "trans": "You are not leaving anywhere.",
       "words": [
         {
@@ -1357,7 +1875,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 101,
       "trans": "But the chef just fired me.",
       "words": [
         {
@@ -1411,7 +1929,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 102,
       "trans": "I spoke with the chef.",
       "words": [
         {
@@ -1449,7 +1967,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 103,
       "trans": "And what did he tell you?",
       "words": [
         {
@@ -1495,7 +2013,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 104,
       "trans": "He allowed you to stay in the kitchen.",
       "words": [
         {
@@ -1549,7 +2067,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 105,
       "trans": "Really? You saved me!",
       "words": [
         {
@@ -1587,7 +2105,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 106,
       "trans": "Just do not make stupid mistakes anymore.",
       "words": [
         {
@@ -1641,7 +2159,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 107,
       "trans": "I promise, I will work very diligently.",
       "words": [
         {
@@ -1695,7 +2213,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 108,
       "trans": "Return to your work station.",
       "words": [
         {
@@ -1741,7 +2259,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 109,
       "trans": "Thank you very much for your help, Vika!",
       "words": [
         {
@@ -1795,7 +2313,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 110,
       "trans": "Go, before the chef changes his mind.",
       "words": [
         {
@@ -1841,7 +2359,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 111,
       "trans": "I got a second chance!",
       "words": [
         {
@@ -1887,8 +2405,8 @@
       ]
     },
     {
-      "seg": 59,
-      "trans": "Bye!",
+      "seg": 113,
+      "trans": "bye!",
       "words": [
         {
           "t": "Пока!",

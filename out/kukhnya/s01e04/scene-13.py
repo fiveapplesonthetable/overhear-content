@@ -1,0 +1,563 @@
+{
+ "schemaVersion": 1,
+ "id": "kukhnya-s01e04-scene-13",
+ "pair": "ru-en",
+ "title": "Заказ у бара  (Order at the Bar)",
+ "level": "A1 — Duolingo Section 2",
+ "labels": {
+  "kostya": "Костя",
+  "nastya": "Настя"
+ },
+ "segments": [
+  {
+   "v": "narrator",
+   "t": "At the bar, Nastya gives Kostya an urgent drinks order. Kostya, who is secretly in love with her, loses track of what she said and has to ask again. Here's the conversation in Russian first.",
+   "gap": 0.8
+  },
+  {
+   "v": "nastya",
+   "t": "Костя, приготовь срочный заказ для гостей.",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "Я слушаю тебя очень внимательно.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Мне нужно триста грамм хорошего коньяка.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "И налей два виски по сто грамм.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "А ещё принеси три горячих чайника чая.",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "Конечно, сделаем всё быстро и аккуратно.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Почему ты стоишь и не работаешь?",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "Настя, я хотел спросить кое-что.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Что именно ты хочешь узнать?",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "Сколько именно виски нужно наливать в стаканы?",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Два раза по сто грамм, как обычно!",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "Понял, сейчас всё приготовлю в лучшем виде.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Now the drinks order.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Костя, приготовь срочный заказ для гостей.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Kostya, prepare an urgent order for the guests.' The word for prepare is ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "приготовь",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " The word for urgent is ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "срочный",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " and literally for the guests translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "для гостей.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Я слушаю тебя очень внимательно.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I am listening to you very attentively.' The word for I listen translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "слушаю",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " which also covers I am listening. The word for attentively is ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "внимательно.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Мне нужно триста грамм хорошего коньяка.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I need three hundred grams of good cognac.' The word for three hundred is ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "триста",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " built from the word for hundred. Literally good cognac translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "хорошего коньяка.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "И налей два виски по сто грамм.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'And pour two whiskeys of a hundred grams each.' The word for a hundred each is ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "по сто,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " built from the word for each, ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "по",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " The word for whiskey translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "виски",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "А ещё принеси три горячих чайника чая.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'And also bring three hot pots of tea.' The word for teapot translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "чайник,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " built from the word for tea, ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "чай.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " The word for three is ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "три",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Конечно, сделаем всё быстро и аккуратно.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Of course, we will do everything quickly and neatly.' The word for we'll do is ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "сделаем",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " just one word. The word for neatly translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "аккуратно.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Почему ты стоишь и не работаешь?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Why are you standing and not working?' Literally you stand translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "стоишь",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " often used for being idle. The phrase for not working is ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "не работаешь.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Настя, я хотел спросить кое-что.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Nastya, I wanted to ask something.' The word for something in particular is ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "кое-что.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " The phrase for wanted to ask translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "хотел спросить.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Что именно ты хочешь узнать?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'What exactly do you want to find out?' The word for exactly translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "именно",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " pointing at the very thing. The word for to find out is ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "узнать?",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Сколько именно виски нужно наливать в стаканы?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'How much whiskey exactly do I need to pour into the glasses?' The word for how much is ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "Сколько",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " which also covers how many. Into the glasses translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "в стаканы.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Два раза по сто грамм, как обычно!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Two times a hundred grams, as usual!' The phrase for two times translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "два раза,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " built from the word for time, ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "раз.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " The phrase for as usual is ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "как обычно.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Понял, сейчас всё приготовлю в лучшем виде.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Got it, now I will prepare everything in the best way.' Literally in the best form translates to ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "в лучшем виде,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " a fixed phrase for doing a thing properly. The word for I'll prepare is ",
+   "gap": 0.25
+  },
+  {
+   "v": "kostya",
+   "t": "приготовлю",
+   "gap": 0.9
+  },
+  {
+   "v": "nastya",
+   "t": "Костя, приготовь срочный заказ для гостей.",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Я слушаю тебя очень внимательно.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Мне нужно триста грамм хорошего коньяка.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "И налей два виски по сто грамм.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "А ещё принеси три горячих чайника чая.",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Конечно, сделаем всё быстро и аккуратно.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Почему ты стоишь и не работаешь?",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Настя, я хотел спросить кое-что.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Что именно ты хочешь узнать?",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Сколько именно виски нужно наливать в стаканы?",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Два раза по сто грамм, как обычно!",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Понял, сейчас всё приготовлю в лучшем виде.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Kostya makes the drinks, and Nastya hurries off. You've heard the phrase for in the best way, which means he'll do it properly.",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Пока!",
+   "gap": 0.3
+  }
+ ],
+ "source": {
+  "show": "Кухня (Kukhnya) S1.04",
+  "file": "sources/kukhnya/s01/e04.ru.dual.srt",
+  "lines": [
+   {
+    "line": 0,
+    "cue": 166,
+    "fragment": "мне коньяку"
+   },
+   {
+    "line": 1,
+    "cue": 168,
+    "fragment": "Сделаем"
+   },
+   {
+    "line": 2,
+    "cue": 166,
+    "fragment": "коньяку 300"
+   },
+   {
+    "line": 3,
+    "cue": 166,
+    "fragment": "виски два по сто"
+   },
+   {
+    "line": 4,
+    "cue": 167,
+    "fragment": "три чайника"
+   },
+   {
+    "line": 5,
+    "cue": 168,
+    "fragment": "Сделаем"
+   },
+   {
+    "line": 6,
+    "cue": 169,
+    "fragment": "И что мы стоим"
+   },
+   {
+    "line": 7,
+    "cue": 170,
+    "fragment": "Настя, а"
+   },
+   {
+    "line": 8,
+    "cue": 170,
+    "fragment": "Что"
+   },
+   {
+    "line": 9,
+    "cue": 171,
+    "fragment": "Сколько наливать"
+   },
+   {
+    "line": 10,
+    "cue": 172,
+    "fragment": "Два по сто"
+   },
+   {
+    "line": 11,
+    "cue": 172,
+    "fragment": "так и говори"
+   }
+  ]
+ },
+ "show": "kukhnya",
+ "season": 1,
+ "episode": 4,
+ "scene": 13
+}

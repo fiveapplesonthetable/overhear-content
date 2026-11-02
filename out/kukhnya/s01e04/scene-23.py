@@ -1,0 +1,649 @@
+{
+ "schemaVersion": 1,
+ "id": "kukhnya-s01e04-scene-23",
+ "pair": "ru-en",
+ "title": "Увольнение Макса  (Max's Dismissal)",
+ "level": "A1 — Duolingo Section 2",
+ "labels": {
+  "barinov": "Шеф",
+  "max": "Макс",
+  "nastya": "Настя"
+ },
+ "segments": [
+  {
+   "v": "narrator",
+   "t": "In his office, the chef is complaining to his pet fish, Arkady, while in the locker room Max packs his bag, and Nastya tries to comfort him. Here's the Russian first.",
+   "gap": 0.8
+  },
+  {
+   "v": "barinov",
+   "t": "Только ты, Аркадий, меня понимаешь.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Вокруг меня одни лентяи и неумехи!",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Максим, ты куда сейчас собираешься?",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Куда-нибудь, шеф меня только что уволил.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Может быть, шеф просто неудачно пошутил?",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Нет, он никогда так не шутит.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Я очень не хочу, чтобы ты уходил!",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Я тоже хотел остаться на этой кухне.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Давай я спрячу тебя прямо здесь!",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Спасибо, Настя, но прятаться глупо.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Ты главное не переживай из-за шефа.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Теперь у тебя в ресторане есть я!",
+   "gap": 0.55
+  },
+  {
+   "v": "max",
+   "t": "Спасибо за поддержку, ты настоящий друг.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Мы обязательно что-нибудь придумаем!",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Let's go through the two sad scenes.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Только ты, Аркадий, меня понимаешь.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Only you, Arkady, understand me.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "Только ты",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'only you'. He tells his fish ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "понимаешь.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " which is the word for 'you understand'.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Вокруг меня одни лентяи и неумехи!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Around me are only slackers and fools!' Here, ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "одни",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'nothing but'. The word for slackers, ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "лентяи",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is built from the word for laziness, and ",
+   "gap": 0.25
+  },
+  {
+   "v": "barinov",
+   "t": "неумехи!",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is built from the action word for not knowing how.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Максим, ты куда сейчас собираешься?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Maxim, where are you getting ready to go now?' ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "собираешься?",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " literally means 'you gather yourself', which is the word for getting ready. ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "куда",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'where to'.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Куда-нибудь, шеф меня только что уволил.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Anywhere, the chef just fired me.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Куда-нибудь,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'anywhere' or 'somewhere or other'. ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Только что",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is the word for 'just now'.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Может быть, шеф просто неудачно пошутил?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Maybe the chef was just joking unsuccessfully?' The word for unsuccessfully, ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "неудачно",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is built from the word for luckily. The action word ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "пошутил?",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is built from the word for a joke.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Нет, он никогда так не шутит.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'No, he never jokes like that.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "Никогда так не шутит",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " literally translates to 'never so doesn\\'t joke'.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Я очень не хочу, чтобы ты уходил!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I really do not want you to leave!' After saying ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "Не хочу, чтобы,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " meaning 'I don\\'t want that', the following action word takes a past form, as in ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "Чтобы ты уходил.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Я тоже хотел остаться на этой кухне.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I also wanted to stay in this kitchen.' The word for 'to stay' is ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "остаться",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "На этой кухне",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'in this kitchen'.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Давай я спрячу тебя прямо здесь!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Let me hide you right here!' Using ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "Давай я",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " followed by an action word for yourself translates to 'let me'. ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "спрячу",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is the word for 'I\\'ll hide'.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Спасибо, Настя, но прятаться глупо.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Thank you, Nastya, but hiding is silly.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "прятаться",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'to hide oneself'. ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "глупо.",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " meaning silly, is built from the describing word for stupid.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Ты главное не переживай из-за шефа.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'The main thing is do not worry because of the chef.' ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "Не переживай",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'don\\'t fret', and is literally built from 'to live through'. ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "из-за",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is the little word for 'because of'.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Теперь у тебя в ресторане есть я!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Now you have me in the restaurant!' ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "У тебя",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " means 'at you', and ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "Есть я",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " literally translates to 'there is me', which is how you express having something.",
+   "gap": 0.4
+  },
+  {
+   "v": "max",
+   "t": "Спасибо за поддержку, ты настоящий друг.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Thank you for the support, you are a true friend.' The word for support, ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "поддержку,",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " is built from the word for 'under' and the action word for 'to hold'. ",
+   "gap": 0.25
+  },
+  {
+   "v": "max",
+   "t": "настоящий",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " translates to 'real'.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Мы обязательно что-нибудь придумаем!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'We will definitely come up with something!' By adding an extra part to the action word for 'to think', you get ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "придумаем!",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " meaning 'we will think up'. Tacking a little word onto 'what' gives ",
+   "gap": 0.25
+  },
+  {
+   "v": "nastya",
+   "t": "что-нибудь",
+   "gap": 0.25
+  },
+  {
+   "v": "narrator",
+   "t": " which is the word for 'something'. Now let's listen to the whole conversation again from start to finish.",
+   "gap": 0.9
+  },
+  {
+   "v": "barinov",
+   "t": "Только ты, Аркадий, меня понимаешь.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Вокруг меня одни лентяи и неумехи!",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Максим, ты куда сейчас собираешься?",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Куда-нибудь, шеф меня только что уволил.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Может быть, шеф просто неудачно пошутил?",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Нет, он никогда так не шутит.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Я очень не хочу, чтобы ты уходил!",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Я тоже хотел остаться на этой кухне.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Давай я спрячу тебя прямо здесь!",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Спасибо, Настя, но прятаться глупо.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Ты главное не переживай из-за шефа.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Теперь у тебя в ресторане есть я!",
+   "gap": 0.5
+  },
+  {
+   "v": "max",
+   "t": "Спасибо за поддержку, ты настоящий друг.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Мы обязательно что-нибудь придумаем!",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Nastya promises that Max won't be alone, and the two of them will think of something. If you take one phrase from here, make it the one for \"you have me\".",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Пока!",
+   "gap": 0.3
+  }
+ ],
+ "source": {
+  "show": "Кухня (Kukhnya) S1.04",
+  "file": "sources/kukhnya/s01/e04.ru.dual.srt",
+  "lines": [
+   {
+    "line": 0,
+    "cue": 317,
+    "fragment": "Только ты, Аркадий, меня и понимаешь."
+   },
+   {
+    "line": 2,
+    "cue": 318,
+    "fragment": "Ты куда?"
+   },
+   {
+    "line": 3,
+    "cue": 319,
+    "fragment": "Куда-нибудь. Меня только что уволили."
+   },
+   {
+    "line": 4,
+    "cue": 320,
+    "fragment": "А может, он пошутил?"
+   },
+   {
+    "line": 5,
+    "cue": 321,
+    "fragment": "Он нас любит шутить."
+   },
+   {
+    "line": 6,
+    "cue": 327,
+    "fragment": "Максим, я не хочу, чтобы ты уходил."
+   },
+   {
+    "line": 7,
+    "cue": 328,
+    "fragment": "Я тоже."
+   },
+   {
+    "line": 8,
+    "cue": 325,
+    "fragment": "Я тебя спрячу."
+   },
+   {
+    "line": 10,
+    "cue": 329,
+    "fragment": "Ты не переживай."
+   },
+   {
+    "line": 11,
+    "cue": 330,
+    "fragment": "Теперь у тебя есть я."
+   }
+  ]
+ },
+ "show": "kukhnya",
+ "season": 1,
+ "episode": 4,
+ "scene": 23
+}

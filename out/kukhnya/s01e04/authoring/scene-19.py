@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "The staff are hungry, and Max is in charge of lunch. Senya asks when it will be ready, and Max promises a special soup that is nothing like the usual slop. Here's the Russian first."
 OPENER = 'Now the wait for lunch.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max promises an unforgettable lunch, and the cooks aren\'t sure whether to be pleased or worried. Notice "pal\'chiki oblizhete", the Russian for "finger-licking".'
+OUTRO = 'Max promises an unforgettable lunch, and the cooks aren\'t sure whether to be pleased or worried. Notice the phrase for "finger-licking".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('senya', 'Макс, мы сегодня обедать будем?', 'Max, are we going to have lunch today?', [(264, 'Мы сегодня есть')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Сейчас я вас всех удивлю!', 'Now I will surprise you all!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Max, are we going to have lunch today?\' "Obedat\'" is "to have lunch", from "obed". Senya puts it before "budem", we will, which stresses lunch.'),
-    (1, None, '\'Of course, everything is already almost ready!\' "Pochti" is "almost". "Gotovo" ends in -o to agree with "vsyo".'),
-    (2, None, '\'We all really want to eat.\' "Khotim yest\'", we want to eat, is the usual way to say "we\'re hungry".'),
-    (3, None, '\'Wait a couple more minutes.\' "Podozhdite" is "wait" for several people. "Yeshchyo paru minut" is "another couple of minutes".'),
-    (4, None, '\'What did you prepare for us today?\' "Nam", to us, does the job of "for us". "Prigotovil" is the man\'s "prepared".'),
-    (5, None, '\'I cooked a special purée soup.\' "Svaril" is "varit\'", to boil, with "s-" for finished. "Sup-pyure" is a borrowed compound.'),
-    (6, None, '\'A regular soup would be better.\' "By" is the little word for "would": "byl by luchshe", would be better.'),
-    (7, None, '\'You will all lick your fingers!\' A cook\'s promise: "pal\'chiki oblizhete", you\'ll lick your little fingers, the Russian "finger-licking good". "Pal\'chiki" is the fond small form of "pal\'tsy", fingers.'),
-    (8, None, '\'I hope this is edible.\' "Nadeyus\'", I hope, shares a root with "nadezhda", hope. "Mozhno yest\'" is "it\'s possible to eat", meaning edible.'),
-    (9, None, '\'You have never tasted such a thing.\' "Nikogda ne probovali" doubles the negative. After it, "takoye" becomes the "of" form "takogo".'),
-    (10, None, '\'The main thing is that it is tasty.\' "Chtoby" is "so that", and the verb after it goes into the past: "chtoby bylo vkusno".'),
-    (11, None, '\'This is not that usual slop.\' "Mesivo", slop, is from "mesit\'", to knead. "Obychnoye", usual, is neuter to match.'),
-    (12, None, '\'Alright, bring it quickly to the table!\' Carrying something while walking is "nesti", and "nesi" is its command to one person. "Na stol", onto the table, uses "na" for a surface.'),
-    (13, None, '\'Now I will surprise you all!\' "Udivlyu", I\'ll surprise, has "divo", a marvel, at its root. "Vas vsekh" is "all of you".'),
+    (0, None, ["'Max, are we going to have lunch today?' The Russian expression for 'to have lunch' is ", ('senya', "обедать"), ", built from lunch. Senya puts it before ", ('senya', "будем?"), ", meaning we will, which stresses the lunch."]),
+    (1, None, ["'Of course, everything is already almost ready!' The Russian term for 'almost' is ", ('max', "почти"), ". ", ('max', "готово!"), " matches the shape of ", ('max', "всё"), ", meaning everything."]),
+    (2, None, ["'We all really want to eat.' ", ('senya', "хотим есть."), " translates to 'we want to eat', which is the usual phrase for 'we're hungry'."]),
+    (3, None, ["'Wait a couple more minutes.' The Russian expression for 'wait' aimed at several people is ", ('max', "Подождите"), ". ", ('max', "ещё пару минут."), " translates to 'another couple of minutes'."]),
+    (4, None, ["'What did you prepare for us today?' ", ('senya', "нам"), ", literally 'to us', does the job of 'for us'. ", ('senya', "приготовил"), " translates to 'prepared' when said of a man."]),
+    (5, None, ["'I cooked a special purée soup.' ", ('max', "сварил"), " is built from the action word for boil, with a prefix showing it is finished. ", ('max', "суп-пюре."), " is a borrowed combination."]),
+    (6, None, ["'A regular soup would be better.' ", ('senya', "бы"), " is the little word for 'would', so ", ('senya', "был бы лучше."), " translates to 'would be better'."]),
+    (7, None, ["'You will all lick your fingers!' A cook's promise: ", ('max', "пальчики оближете!"), ", literally 'you'll lick your little fingers', is the Russian phrase for 'finger-licking good'. ", ('max', "пальчики"), " is built from the normal word for fingers."]),
+    (8, None, ["'I hope this is edible.' The phrase for 'I hope', ", ('senya', "Надеюсь,"), ", shares a root with the name for hope. ", ('senya', "можно есть."), " literally means 'it is possible to eat', meaning edible."]),
+    (9, None, ["'You have never tasted such a thing.' ", ('max', "никогда не пробовали."), " doubles the negative. After it, the describing word for 'such a thing' takes its 'of' form, ", ('max', "такого"), "."]),
+    (10, None, ["'The main thing is that it is tasty.' ", ('senya', "чтобы"), " translates to 'so that', and the action word after it goes into the past, as in ", ('senya', "чтобы было вкусно."), "."]),
+    (11, None, ["'This is not that usual slop.' The expression for 'slop', ", ('max', "месиво."), ", is built from the action word to knead. The describing word ", ('max', "обычное"), " matches its shape."]),
+    (12, None, ["'Alright, bring it quickly to the table!' The action word for carry while walking gives us its command to one person, ", ('senya', "неси"), ". ", ('senya', "на стол!"), ", literally 'onto the table', uses the little word for a surface."]),
+    (13, None, ["'Now I will surprise you all!' ", ('max', "удивлю!"), ", meaning I'll surprise, has the word for a marvel at its root. ", ('max', "вас всех"), " translates to 'all of you'."]),
 ]

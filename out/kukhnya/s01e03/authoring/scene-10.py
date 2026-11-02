@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = 'Max has quietly swapped the live goose for a ready-plucked one from the market, and now he has to explain to Barinov why his apron is spotless. He tells the chef a story that is more dramatic than the truth. Here is the Russian first.'
 OPENER = 'Now the lie, line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max has saved the goose, and he has also saved his job. Remember "ni kapli", "not a drop", which is how Russians say "not even a bit".'
+OUTRO = 'Max has saved the goose, and he has also saved his job. Remember "not a drop", which is how they say "not even a bit".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Огузок! Где мой свежий гусь?', 'Oguzok! Where is my fresh goose?', [(235, 'Где гусь')], ''),
@@ -31,17 +31,86 @@ STORY = [
     ('max', 'Я спас птицу и свою работу.', 'I saved the bird and my job.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Oguzok! Where is my fresh goose?\' Barinov opens with the nickname. "Gde" is "where", and "svezhiy" is "fresh".'),
-    (1, None, '\'I have just finished it off!\' "Prikonchil" contains "konets", end, so it\'s "brought to an end". "Tol\'ko chto" is "only what", meaning "just now".'),
-    (2, None, '\'Why are you so suspiciously clean?\' "Podozritel\'no" is "podozritel\'nyy", suspicious, with the -o of a how-word. "Chistyy" is "clean".'),
-    (3, None, '\'There is not a drop of blood on you!\' "Net ni kapli krovi" is "there isn\'t not a drop of blood": "ni" means "not even". "Kaplya" and "krov\'" both take the "of" form.'),
-    (4, None, '\'I did not cut it at all.\' "Sovsem ne" is "not at all". "Rezal", cut, ends in -l for a man, and "yego" is the goose.'),
-    (5, None, '\'And how did you kill it?\' "Kak" is "how". "Ubil", killed, is the past of "ubit\'", the verb from the goose scene.'),
-    (6, None, '\'Chef, I simply strangled it!\' "Zadushil", strangled, is "dushit\'", to choke, with "za-" for finishing it, related to "dukh", breath. "Prosto" is "simply".'),
-    (7, None, '\'What a nightmare! A real Othello in the kitchen!\' "Kakoy koshmar!" is "what a nightmare!". "Otello" strangles his wife in Shakespeare, so the chef is joking.'),
-    (8, None, '\'Drag your bird to the sous-chef\'s table!\' "Tashchi" is "drag", said of anything heavy. "Su-shefu", to the sous-chef, takes -u for "to", and "svoyu ptitsu" is "your own bird".'),
-    (9, None, '\'Lyova, start preparing the goose quickly!\' "Nachinay" is the "ty" command "start". "Gotovit\' gusya" is "to cook the goose", with -ya on the bird.'),
-    (10, None, '\'Understood, Chef, I am turning on the oven.\' "Vklyuchayu", I switch on, also means "I include", and it works for any switch. "Dukhovka", oven, comes from "dukh", hot air.'),
-    (11, None, '\'And I will take care of an important compliment.\' "Zaymus\'", I\'ll take care, ends in -s\'. What you take care of changes its ending, so it\'s "vazhnym komplimentom". A chef\'s "kompliment" is a free little dish.'),
-    (12, None, '\'I saved the bird and my job.\' "Spas", saved, shares its root with "spasibo", once "spasi Bog", "may God save you". "Svoyu rabotu" is "my own job".'),
+    (0, None, [
+        "'Oguzok! Where is my fresh goose?' Barinov opens with the nickname. ",
+        ('barinov', 'Где'),
+        ' is the word for "where", and ',
+        ('barinov', 'свежий'),
+        ' is the word for "fresh".'
+    ]),
+    (1, None, [
+        "'I have just finished it off!' Another detail, ",
+        ('max', 'прикончил'),
+        ' is built from the word for "end", so it means "brought to an end". ',
+        ('max', 'только что'),
+        ' literally means "only what", but translates to "just now".'
+    ]),
+    (2, None, [
+        "'Why are you so suspiciously clean?' Take note of ",
+        ('barinov', 'подозрительно'),
+        ' is built from the word for "suspicious", changing the ending to make it a how-word. The word for "clean" is ',
+        ('barinov', 'чистый?')
+    ]),
+    (3, None, [
+        "'There is not a drop of blood on you!' You will hear ",
+        ('barinov', 'ни'),
+        ' translates to "not even". The words for "drop" and "blood" both take the "of" shape.'
+    ]),
+    (4, None, [
+        "'I did not cut it at all.' In this sentence, ",
+        ('max', 'совсем не'),
+        ' translates to "not at all". And the action word for "cut", ending with an "l" sound for a man, is ',
+        ('max', 'резал.')
+    ]),
+    (5, None, [
+        "'And how did you kill it?' Another detail, ",
+        ('barinov', 'как'),
+        ' translates to "how". And built from the same action word we saw in the goose scene is the word for "killed", ',
+        ('barinov', 'убил?')
+    ]),
+    (6, None, [
+        "'Chef, I simply strangled it!' Pay attention to ",
+        ('max', 'просто'),
+        ' translates to "simply". And built from the word for "to choke", adding a starting sound that means bringing it to an end, is the word for "strangled", ',
+        ('max', 'задушил!')
+    ]),
+    (7, None, [
+        "'What a nightmare! A real Othello in the kitchen!' The chef is joking because in Shakespeare his wife is strangled by ",
+        ('barinov', 'Отелло'),
+        '. The phrase for "what a nightmare!" translates to ',
+        ('barinov', 'Какой кошмар!')
+    ]),
+    (8, None, [
+        "'Drag your bird to the sous-chef's table!' ",
+        ('barinov', 'Тащи'),
+        ' is the word for "drag", said of anything heavy. ',
+        ('barinov', 'су-шефу'),
+        ' translates to "to the sous-chef", taking a "to" ending, and ',
+        ('barinov', 'свою птицу'),
+        ' translates to "your own bird".'
+    ]),
+    (9, None, [
+        "'Lyova, start preparing the goose quickly!' Let us check ",
+        ('barinov', 'начинай'),
+        ' is an informal order meaning "start". Changing the ending on the bird, "to cook the goose" translates to ',
+        ('barinov', 'готовить гуся!')
+    ]),
+    (10, None, [
+        "'Understood, Chef, I am turning on the oven.' Take note of ",
+        ('lyova', 'включаю'),
+        ', the word for "I switch on", also translates to "I include", and it works for any switch. Built from the word for "hot air" is the word for oven, ',
+        ('lyova', 'духовку.')
+    ]),
+    (11, None, [
+        "'And I will take care of an important compliment.' Take note of ",
+        ('barinov', 'займусь'),
+        ' translates to "I\'ll take care of". What you take care of changes its shape, so the free little dish becomes an "important compliment", or ',
+        ('barinov', 'важным комплиментом.')
+    ]),
+    (12, None, [
+        "'I saved the bird and my job.' You will hear ",
+        ('max', 'спас'),
+        ', the word for "saved", is related to the word for "thank you", which literally means "may God save you". "My own job" translates to ',
+        ('max', 'свою работу.')
+    ]),
 ]

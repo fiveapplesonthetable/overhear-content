@@ -32,18 +32,106 @@ STORY = [
     ('barinov', 'Иди работай и не болтай.', 'Go work and do not chat.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, I have big problems.\' "U menya", "at me", is the Russian "I have". "Bol\'shiye problemy" puts the plural -iye and -y on both words.'),
-    (1, None, '\'What happened again, Oguzok?\' "Stryaslos\'" is a colloquial "happened", kept for unpleasant surprises. "Opyat\'" is "again", and the chef uses his nickname for Max.'),
-    (2, None, '\'A terrible prosecutor is looking for me.\' "Menya ishchet" puts "me" first, then "looks for". "Groznyy" is the tsar\'s title that English gives as "the Terrible", and it means fearsome.'),
-    (3, None, '\'And why is he looking for you?\' "Za chto" is "for what", the "why" you ask about a punishment. "Zhe" sharpens the question.'),
-    (4, None, '\'He knows about me and Vika.\' "Pro" is the spoken word for "about". After it, "Vika" becomes "Viku", and "ya" becomes "menya".'),
-    (5, None, '\'You slept with someone else\'s woman?\' "Spal s" is "slept with", and after "s" the words take -oy: "s chuzhoy zhenshchinoy". "Chuzhoy" is "someone else\'s".'),
-    (6, None, '\'I did not know that she is married.\' "Zamuzhem", for a woman, is "za muzhem", behind a husband. A married man is "zhenat", from "zhena", wife.'),
-    (7, None, '\'He was the most talented cook.\' "Eto byl" is "this was", and Barinov talks about Max in the past. "Samyy talantlivyy" is "the most talented".'),
-    (8, None, '\'Whom I ever knew.\' "Kotorogo", whom, is "kotoryy" in its object shape for a person. "Kogda-libo" is "ever", "kogda", when, with -libo.'),
-    (9, None, '\'Chef, are you already burying me?\' Max says "vy" to the chef. "Khoronite" is "you bury", and "uzhe" is "already".'),
-    (10, None, '\'You don\'t mess with a prosecutor.\' "S prokurorom shutki plokhi" is "with a prosecutor jokes are bad". It\'s a fixed phrase, and "prokuror" can be swapped for anyone dangerous.'),
-    (11, None, '\'He will quickly send you behind bars.\' "Za reshyotku" is "behind the grille", which means prison. "Otpravit" is "will send".'),
-    (12, None, '\'What should I do now?\' "Chto mne delat\'?" is "what to me to do?", the pattern for asking advice. "Teper\'" is "now", and "zhe" adds despair.'),
-    (13, None, '\'Go work and do not chat.\' "Idi rabotay" puts two commands side by side, "go" and "work". "Ne boltay" is "don\'t chatter", from "boltat\'".'),
+    (0, None, [
+        "'Chef, I have big problems.' Let us review ",
+        ('max', 'у меня'),
+        ", literally 'at me', translates to 'I have'. ",
+        ('max', 'большие проблемы.'),
+        ' puts the shape for more than one on both words.'
+    ]),
+    (1, None, [
+        "'What happened again, Oguzok?' Take note of ",
+        ('barinov', 'стряслось,'),
+        " translates to a casual 'happened', kept for unpleasant surprises. The word for 'again' is ",
+        ('barinov', 'опять'),
+        ', and the chef uses his nickname for Max.'
+    ]),
+    (2, None, [
+        "'A terrible prosecutor is looking for me.' Observe how ",
+        ('max', 'Меня ищет'),
+        " puts 'me' first, then the action word 'looks for'. ",
+        ('max', 'грозный'),
+        " is the word for the tsar's title that English translates to 'the Terrible', and it means fearsome."
+    ]),
+    (3, None, [
+        "'And why is he looking for you?' Observe how ",
+        ('barinov', 'за что'),
+        " literally means 'for what', the 'why' you ask about a punishment. ",
+        ('barinov', 'же'),
+        ' sharpens the question.'
+    ]),
+    (4, None, [
+        "'He knows about me and Vika.' What happens here, ",
+        ('max', 'про'),
+        " is the spoken word for 'about'. After it, the name Vika changes its ending to ",
+        ('max', 'Вику.'),
+        " and 'I' changes to ",
+        ('max', 'меня'),
+        '.'
+    ]),
+    (5, None, [
+        "'You slept with someone else's woman?' ",
+        ('barinov', 'спал с'),
+        " translates to 'slept with', and after the word for 'with', the next words change their endings: ",
+        ('barinov', 'чужой женщиной?'),
+        ' The word ',
+        ('barinov', 'чужой'),
+        " translates to 'someone else's'."
+    ]),
+    (6, None, [
+        "'I did not know that she is married.' The word for a married woman is ",
+        ('max', 'замужем.'),
+        " It is literally built from words meaning 'behind a husband'."
+    ]),
+    (7, None, [
+        "'He was the most talented cook.' We can hear ",
+        ('barinov', 'Это был'),
+        " translates to 'this was', and the chef talks about Max as a memory. ",
+        ('barinov', 'самый талантливый'),
+        " is the phrase for 'the most talented'."
+    ]),
+    (8, None, [
+        "'Whom I ever knew.' Let us check ",
+        ('barinov', 'Которого'),
+        " is the word for 'whom', in a special shape for the target of an action. The word ",
+        ('barinov', 'когда-либо'),
+        " translates to 'ever', and is built from the word for 'when'."
+    ]),
+    (9, None, [
+        "'Chef, are you already burying me?' Max says ",
+        ('max', 'вы'),
+        " as a respectful 'you' to the chef. ",
+        ('max', 'хороните?'),
+        " translates to 'you bury', and ",
+        ('max', 'уже'),
+        " is the word for 'already'."
+    ]),
+    (10, None, [
+        "'You don't mess with a prosecutor.' ",
+        ('barinov', 'С прокурором шутки плохи.'),
+        " literally translates to 'with a prosecutor jokes are bad'. It's a fixed phrase, and the word for 'prosecutor' can be swapped for anyone dangerous."
+    ]),
+    (11, None, [
+        "'He will quickly send you behind bars.' Focusing here, ",
+        ('barinov', 'за решётку'),
+        " literally translates to 'behind the grille', which means prison. ",
+        ('barinov', 'отправит.'),
+        " is the action word for 'will send'."
+    ]),
+    (12, None, [
+        "'What should I do now?' Observe how ",
+        ('max', 'Что же мне теперь делать?'),
+        " literally translates to 'what to me to do?', the pattern for asking advice. The word for 'now' is ",
+        ('max', 'теперь'),
+        ', and ',
+        ('max', 'же'),
+        ' adds a sense of despair.'
+    ]),
+    (13, None, [
+        "'Go work and do not chat.' In this sentence, ",
+        ('barinov', 'Иди работай'),
+        " puts two commands side by side, 'go' and 'work'. ",
+        ('barinov', 'не болтай.'),
+        " translates to 'do not chatter'."
+    ]),
 ]
