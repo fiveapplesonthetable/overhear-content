@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/domashniy-arest/s01/e02.ru.dual.srt'
 INTRO = "Later that night, in the same flat, Arkady has a visitor. Last time, he told little Lyosha there would be no console and took his iPhone back from Slavik. Now Pasha arrives with Arkady's old guards, led by Vitalik, to get the money out of him; we'll hear it in Russian first, so don't worry about catching every word."
 OPENER = "Let's walk through it slowly. Pasha starts with a joke that every Russian knows."
 TRANSITION = 'Now listen to the whole scene once more.'
-OUTRO = "Afterwards a stranger comes up to Arkady, asks if he's the mayor who broke his finger, and says he has a business proposal; and Marina phones the agents to say she has changed her mind and agrees. That's the end of the second episode, with the song about how much money it takes to be happy; well done, and see you in the next one. See you next time!"
+OUTRO = "Afterwards a stranger comes up to Arkady, asks if he's the mayor who broke his finger, and says he has a business proposal; and Marina phones the agents to say she has changed her mind and agrees. That's the end of the second episode, with the song about how much money it takes to be happy; well done! See you next time!"
 CLOSING = ('arkady', 'Спокойной ночи!')
 STORY = [
     ('pasha', 'Ну что, Аркаша? Наступила ночь, просыпается мафия.', 'So, Arkasha? Night has fallen, the mafia wakes up.', [(1195, 'наступила ночь, просыпается мафия')], 'Аркашенька -> Аркаша'),
@@ -36,11 +36,11 @@ STORY = [
     ('pasha', 'Цирк какой-то.', 'What a circus.', [(1221, 'какой-то')], '«Шапито какой-то» -> «Цирк какой-то» (plain word; speaker not marked, given to Pasha)'),
 ]
 WALK = [
-    (0, 'Ну что, Аркаша?', "'So, Arkasha?' At this point, Arkasha is the childhood form of Arkady, and from Pasha it sounds mocking. Then comes the joke."),
+    (0, 'Ну что, Аркаша?', "'So, Arkasha?' At this point, Arkasha is the childhood form of Arkady, and from Pasha it sounds mocking. Then comes the joke. The word literally translates differently."),
     (0, 'Наступила ночь, просыпается мафия.', "'Night has fallen, the mafia wakes up.' These are the words of the host in a popular party game called Mafia, where the 'mafia' players secretly wake up at night. Arkady is not amused."),
     (1, None, "'What kind of jokes are these?' The two little words at the start together mean 'what kind of', and they often sound annoyed. Pasha brushes it off and gets to the point."),
     (2, None, "'Normal jokes. Where's the money?' Money is always plural in Russian, so it acts like 'they'. Arkady replies with a line every Russian knows by heart."),
-    (3, None, "'There's no money, but hang in there.' This is a well-known phrase from Russian public life that people quote all the time as a joke. After 'there's no', money takes the ending for 'of'. Pasha turns it back on him."),
+    (3, None, "'There's no money, but hang in there.' This is a well-known phrase from Russian public life that people quote all the time as a joke. After 'there's no', money takes the ending meaning 'of'. Pasha turns it back on him."),
     (4, None, "'You're the one who should hang in there.' Here, Arkady used the polite plural form of the command; Pasha uses the short, familiar one. Then he calls in the muscle."),
     (5, None, "'Vitalik, have a word with him.' The command ends the plural way, because Pasha means all the guards, not just Vitalik. And 'a word' here is not a friendly chat. But Vitalik has news."),
     (6, None, "'Pavel Yuryevich, we're not going to have a word with Arkady Borisovich.' First name plus father's name is the respectful way to address someone. 'We won't' is literally 'we will not be', followed by the verb. Pasha can't believe it, so Vitalik explains."),
@@ -49,10 +49,10 @@ WALK = [
     (9, None, "'But she died anyway.' The middle two words mean 'all the same', 'anyway'. Vitalik doesn't back down."),
     (10, None, "'But he did send her.' The little word after 'he' adds emphasis, like 'he did'. Arkady is delighted."),
     (11, None, "'Good deeds come back to the sender.' Like 'what goes around comes around', with the good, and the last word is the one used for the sender of a letter. Feeling bold, Arkady gives an order of his own."),
-    (12, None, "'And now break Pavel Yuryevich's arm.' Again Pasha gets the ending for 'to': literally, 'break to Pavel Yuryevich the arm'. Russian often shows whose body part it is this way. The guards refuse him too."),
-    (13, 'Тоже не можем.', "'We can't do that either.' Just 'also we can't'. Then the real reason."),
+    (12, None, "'And now break Pavel Yuryevich's arm.' Again Pasha gets the ending meaning 'to': literally, 'break to Pavel Yuryevich the arm'. Russian often shows whose body part it is this way. The guards refuse him too."),
+    (13, 'Тоже не можем.', "'We can't do that either.' Just 'also we can't'. Then the real reason. This literally changes the meaning."),
     (13, 'Мы на вас больше не работаем.', "'We don't work for you any more.' To work for someone is literally to work 'on' them. They nod at Pasha."),
-    (14, None, "'We work for him.' Meanwhile, Pasha is the acting mayor now. So he threatens them."),
+    (14, None, "'We work for him.' Meanwhile, Pasha is the acting mayor now. So he threatens them. Russians simply use this chunk."),
     (15, None, "'Then I'll fire you.' This verb is in the future tense, a single finished action. The guards are not worried."),
     (16, 'Хотите, увольняйте.', "'Fire us if you like.' Literally, 'you want, fire'. The command is in the polite plural form. And they add one more thing."),
     (16, 'Лучше всё равно не найдёте.', "'You won't find better anyway.' The same two words for 'anyway' we heard a moment ago. Pasha gives up."),
