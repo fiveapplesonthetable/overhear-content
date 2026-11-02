@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In Gabriel's office, Gabriel excitedly tells Sofia that pop singer and client Julien Dore is arriving to discuss his musical movie. Seeking to launch Sofia's singing career, Gabriel coaches her to act like an established artist while keeping their personal life secret. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel coaches Sofia step by step to prepare for the meeting."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
 OUTRO = "Gabriel prepares Sofia to impress Julien Dore while carefully guarding her dual identity as receptionist and girlfriend. Let's review the vocabulary and conversational expressions used in this dialogue. See you next time!"
 CLOSING = ('sofia', 'Au revoir!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('sofia', "Je l'adore, c'est pour ça que je panique!", 'I adore him, that is why I am panicking!', [(172, "Je l'adore !"), (173, "C'est pour ça que je panique !")], ''),
 ]
 WALK = [
-    (0, None, "'Julien Dore is coming to talk about his film.' Gabriel announces the impending arrival of his pop-star client."),
-    (1, None, "'You want to introduce me to Julien Dore?' Sofia is amazed that Gabriel wants to set up a meeting."),
-    (2, None, "'He is looking for a singer for his film.' Gabriel reveals that Julien needs a singing partner for his musical soundtrack."),
-    (3, None, "'Charlotte Le Bon does not sing?' Sofia inquires about the film's lead actress."),
-    (4, None, "'No, she sings very badly!' Gabriel humorously confesses that Charlotte has no musical talent."),
-    (5, None, "'But you, my love, you sing wonderfully.' Gabriel affectionately praises Sofia's remarkable singing voice."),
-    (6, None, "'Does he know that I am your girlfriend?' Sofia asks if Julien is aware of their romantic relationship."),
-    (7, None, "'No, you are a client of the agency.' Gabriel explains that he presented her strictly as an agency talent."),
-    (8, None, "'Do not put pressure on yourself, Sofia.' Gabriel encourages Sofia to relax before the audition."),
-    (9, None, "'Does he know that I am a receptionist?' Sofia worries that her day job at ASK will undermine her credibility."),
-    (10, None, "'Of course not, sit down there.' Gabriel directs her to sit on the couch and look like an established actress."),
-    (11, None, "'Do you really like Julien Dore?' Gabriel asks about her opinion of the musician."),
-    (12, None, "'I adore him, that is why I am panicking!' Sofia admits she is terrified precisely because she is such a big fan. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Julien Dore is coming to talk about his film.' Notice there is no connector between 'comes' and 'to talk' in French—unlike 'just happened', plain 'comes to do' links straight to the next action."),
+    (1, None, "'You want to introduce me to Julien Dore?' Watch the cognate: what looks like 'present' is the everyday French way to say 'introduce' someone, with 'me' tucked before it."),
+    (2, None, "'He is looking for a singer for his film.' One French action covers 'looks for' with no 'for' needed afterward, and the '-euse' ending marks a female singer."),
+    (3, None, "'Charlotte Le Bon does not sing?' Keeping statement order and raising her pitch at the end lets Sofia turn a negative sentence into an incredulous question in French."),
+    (4, None, "'No, she sings very badly!' Short and punchy, 'very badly' ends with a three-letter word that means 'badly' after an action or 'harm' on its own."),
+    (5, None, "'But you, my love, you sing wonderfully.' Gabriel stresses 'you' up front before repeating casual 'you' with 'sing', and caps it with an idiom literally meaning 'to marvel'."),
+    (6, None, "'Does he know that I am your girlfriend?' When talking about facts rather than people, French uses its fact-knowing word 'knows', while the final word can mean either 'female friend' or 'girlfriend'."),
+    (7, None, "'No, you are a client of the agency.' Adding '-e' to 'client' marks a female client—and unlike silent vowel endings, this '-e' lets you clearly hear the preceding 't' sound."),
+    (8, None, "'Do not put pressure on yourself, Sofia.' Literally 'do not put yourself the pressure', this idiomatic coaching phrase uses 'the' before 'pressure' where English leaves it bare."),
+    (9, None, "'Does he know that I am a receptionist?' Job titles after 'I am' stand without 'a' in French, so Sofia literally asks 'that I am receptionist'."),
+    (10, None, "'Of course not, sit down there.' Literally 'well sure that no', this emphatic three-word expression is what you'd say for 'of course not!' in everyday French."),
+    (11, None, "'Do you really like Julien Dore?' Sliding 'really' between 'like' and a person's name keeps the French action from sounding like romantic 'love'—here it means 'are you really a fan of'."),
+    (12, None, "'I adore him, that is why I am panicking!' Built word-for-word as 'it is for this reason I panic', this high-energy spoken frame is how French speakers say 'that's why'."),
 ]

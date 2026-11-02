@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'Hicham introduces his ten-year-old son Elvis at the agency and looks for entertainment during their week together in Paris. When the boy asks for a laser tag party, Hicham quickly delegates all the party logistics to Camille. Listen to the conversation in French first.'
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
 OUTRO = 'Mathias worries that Camille is lowering herself to an errand runner, but Camille remains determined to earn her promotion. Listen to the French scene once more. See you next time!'
 CLOSING = ('camille', 'Bonne journée!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('camille', 'Donc je fais attention, Mathias.', 'So I am being careful, Mathias.', [(383, 'donc je fais attention')], ''),
 ]
 WALK = [
-    (0, None, "'Hello everyone!' Hicham greets the open office with typical swagger."),
-    (1, None, "'Hello Hicham.' Camille replies politely to her new boss."),
-    (2, None, "'This is my son, Elvis.' Hicham introduces his visiting young boy."),
-    (3, None, "'He is ten this weekend.' The upcoming milestone prompts a celebration."),
-    (4, None, "'We are having a party in Paris.' Hicham plans festivities during their week together."),
-    (5, None, "'Elvis likes laser tag.' Hicham mentions what his son Elvis loves to play."),
-    (6, None, "'Can you arrange that, Camille?' Hicham immediately delegates the party logistics."),
-    (7, None, "'Okay, leave it to me.' Camille readily takes charge of the task."),
-    (8, None, "'Two round-trip tickets for his friends.' Hicham orders transportation arrangements."),
-    (9, None, "'Thanks, Camille.' Hicham expresses brisk satisfaction with her help."),
-    (10, None, "'Are you crazy, Camille?' Mathias pulls his secret daughter aside in disbelief."),
-    (11, None, "'Why do you say that?' Camille questions his sharp objection."),
-    (12, None, "'You are playing the babysitter for him.' Mathias warns her against subservient duties."),
-    (13, None, "'He will not respect you.' Mathias cautions that flunky tasks undermine authority."),
-    (14, None, "'I want to be a junior agent.' Camille reaffirms her clear professional ambition."),
-    (15, None, "'So I am being careful, Mathias.' Camille insists she knows how to manage the boundary. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Hello everyone!' Greeting a full room in French combines 'good day' with 'all the world', the standard chunk meaning 'everyone'."),
+    (1, None, "'Hello Hicham.' Used all morning and afternoon until evening falls, 'good day' is the universal polite greeting you'll hear in any Paris office."),
+    (2, None, "'This is my son, Elvis.' Pointing someone out with 'see here' works smoothly for introductions without needing 'this is' in French."),
+    (3, None, "'He is ten this weekend.' Ages in French use 'has ten years' instead of 'is ten', followed by the hyphenated English borrowing 'weekend'."),
+    (4, None, "'We are having a party in Paris.' Hosts in French 'make a party' while English speakers 'have' or 'throw' one, paired with 'at Paris'."),
+    (5, None, "'Elvis likes laser tag.' Placing 'well' right after 'loves' tones the intensity down to a friendly 'likes' in French, keeping 'the' before the game's name."),
+    (6, None, "'Can you arrange that, Camille?' Pairing casual 'you can' with the cognate 'arrange' keeps statement order, ending with everyday 'that'."),
+    (7, None, "'Okay, leave it to me.' Borrowed 'okay' leads into a reassuring three-piece idiom—literally 'let me do'—that you can say whenever taking charge of a task."),
+    (8, None, "'Two round-trip tickets for his friends.' Joining 'goings' and 'returns' with a hyphen creates the compound meaning 'round-trip tickets' in French."),
+    (9, None, "'Thanks, Camille.' On its own before a colleague's first name, a brisk 'thanks' works for both casual 'thanks' and polite 'thank you' in French."),
+    (10, None, "'Are you crazy, Camille?' Fast spoken French drops the vowel off casual 'you' before 'are', fusing two words into a single snappy syllable."),
+    (11, None, "'Why do you say that?' Keeping 'you say' unflipped after 'why' sounds natural and conversational, with no 'do' helper anywhere in French."),
+    (12, None, "'You are playing the babysitter for him.' Acting out a role in real life uses 'play the'—literally 'you play the babysitters'—borrowing the English job term."),
+    (13, None, "'He will not respect you.' Built directly on 'respect', the '-ra' ending marks 'will respect', with 'you' tucked inside the negative frame in French."),
+    (14, None, "'I want to be a junior agent.' Flipping the English order, 'junior' follows 'agent' in French, and the job title stands without 'a'."),
+    (15, None, "'So I am being careful, Mathias.' Opening with 'therefore' connects Camille's goal to her caution, followed by 'make attention', which means 'be careful'."),
 ]

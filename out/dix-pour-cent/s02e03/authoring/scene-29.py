@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Following a chaotic birthday joyride, YouTuber Norman Thavaud is taken to the police station for speeding without his driver's license. Gabriel rushes to the station, only to find a panicked Norman desperate to abandon his dream role in Jacques Audiard's upcoming film. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the tense police station encounter step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
 OUTRO = 'After feigning a cancellation call to Audiard and clashing with the police officer, Gabriel finds himself locked inside the drunk tank alongside his anxious client. See you next time!'
 CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
@@ -36,22 +36,22 @@ STORY = [
     ('gabriel', "Pas du tout. Vous avez été casté dans un film d'Audiard.", 'Not at all. You were cast in an Audiard movie.', [(799, "Pas du tout. Vous avez été casté dans un film d'Audiard")], ''),
 ]
 WALK = [
-    (0, None, "'Good evening. What is going on?' Arriving at the police station, Gabriel politely asks the officer what happened."),
-    (1, None, "'Mr. Norman Thavaud was speeding.' The officer explains that Norman was pulled over for speeding."),
-    (2, None, "'The judge could take away his license.' Wait—the problem is that Norman does not even have a driver's license to lose!"),
-    (3, None, "'May I see him?' The formal inversion 'puis-je' asks polite permission."),
-    (4, None, "'This way. He is in the sobering-up cell.' The officer leads Gabriel down the hall toward the holding cell."),
-    (5, None, "'What are you playing at? You don't want to do the film anymore?' Gabriel expresses utter disbelief."),
-    (6, None, "'He already thinks that I am a loser.' Inside the cell, Norman groans that his father already thinks he is a loser."),
-    (7, None, "'Stop it, he cast you, you convinced him.' Gabriel urges Norman to trust his talent."),
-    (8, None, "'He is not from my world, not my universe.' Norman fears the prestigious cinema world."),
-    (9, None, "'I am going to make a fool of myself.' Norman worries he will make a fool of himself on Jacques Audiard's film set."),
-    (10, None, "'Call him, cancel and let's get it over with.' Two urgent imperatives command immediate cancellation."),
-    (11, None, "'Hello Jacques. It is Gabriel Sarda.' Gabriel pretends to dial the famous director."),
-    (12, None, "'Norman does not want to do your movie.' The negation 'ne..."),
-    (13, None, "'Do not raise your voice!' The negative imperative warns Gabriel against shouting."),
-    (14, None, "'Have you been drinking?' The compound past tense uses the auxiliary verb 'avoir'."),
-    (15, None, "'Are you locking me up too?' When the cell door locks behind him, Gabriel asks in alarm if they are locking him up too."),
-    (16, None, "'I am a failure.' Norman sinks into self-pity on the cell bench."),
-    (17, None, "'Not at all. You were cast in an Audiard movie.' Gabriel encourages his despondent young star. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Good evening. What is going on?' After dusk, 'good evening' replaces 'good day', and 'what passes itself?' inserts a '-t-' sound bridge so it is pronounced smoothly in French."),
+    (1, None, "'Mr. Norman Thavaud was speeding.' Literally 'rolling in excess of speed', that official police expression is how French law describes speeding."),
+    (2, None, "'The judge could take away his license.' Rather than saying 'his license', French says 'to-him withdraw the license', pairing 'the' with an indirect recipient."),
+    (3, None, "'May I see him?' When 'can' flips ahead of 'I' in polite questions, it switches to a special formal shape that means 'may I' in French."),
+    (4, None, "'This way. He is in the sobering-up cell.' Guiding someone down a hall takes 'by here' for 'this way', while 'un-tipsying cell' is police terminology for the drunk tank in French."),
+    (5, None, "'What are you playing at? You don't want to do the film anymore?' Literally 'you play at what?', putting 'at what' at the end makes Gabriel's question sound sharp in French."),
+    (6, None, "'He already thinks that I am a loser.' Everyday youth slang borrows 'loser' straight from English, keeping 'already' right after 'thinks' in French."),
+    (7, None, "'Stop it, he cast you, you convinced him.' Film insiders turn English 'cast' into a French action with an '-e' past ending, paired with a cognate of 'convinced'."),
+    (8, None, "'He is not from my world, not my universe.' Saying someone is 'of my world' covers 'from my world', closing with the cognate 'universe' minus its final '-e' in French."),
+    (9, None, "'I am going to make a fool of myself.' Packing all of 'make a fool of myself' into a single reflexive action built on 'ridicule' is classic compact French."),
+    (10, None, "'Call him, cancel and let's get it over with.' Closing with 'that one of-it finishes!' is a vivid, impatient idiom you'll hear for 'let's get it over with!'."),
+    (11, None, "'Hello Jacques. It is Gabriel Sarda.' Even on a pretend late-night call, Gabriel identifies himself with 'it is' plus his first name and surname in French."),
+    (12, None, "'Norman does not want to do your movie.' Addressing the revered director calls for polite 'your' before 'film', right after 'wants not to make' in French."),
+    (13, None, "'Do not raise your voice!' Built from the root meaning 'high', the command means 'raise', and French uses 'the voice' rather than 'your voice'."),
+    (14, None, "'Have you been drinking?' Just three short words—literally 'you have drunk?'—cover both 'did you drink?' and 'have you been drinking?' in French."),
+    (15, None, "'Are you locking me up too?' Literally 'one embarks me too?', nautical 'embark' doubles as colloquial slang for hauling someone into custody in French."),
+    (16, None, "'I am a failure.' Turning 'missed' or 'botched' into a label for a person gives you a blunt, self-pitying term that means 'a failure' in French."),
+    (17, None, "'Not at all. You were cast in an Audiard movie.' Echoing formal 'you have been cast' gives Gabriel's reminder the weight of an official honor in French."),
 ]

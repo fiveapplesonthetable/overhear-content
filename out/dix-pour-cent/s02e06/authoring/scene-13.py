@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'gillieres': 'Jean-Denis', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = 'At the Cannes luxury hotel, powerful media mogul Jean-Denis Gillières corners Andréa, insisting on meeting with Juliette Binoche. Learning that Juliette despises his advances, Andréa cleverly arranges a business lunch on his private yacht for a day when Juliette will have already left town. Listen to the scene in French first.'
+INTRO = 'At the Cannes luxury hotel, powerful media mogul Jean-Denis Gillieres corners Andrea, insisting on meeting with Juliette Binoche. Learning that Juliette despises his advances, Andrea cleverly arranges a business lunch on his private yacht for a day when Juliette will have already left town. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "By agreeing to a yacht lunch after Juliette's departure, Andréa protects her star client while politely humoring the wealthy mogul. See you next time!"
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
+OUTRO = "By agreeing to a yacht lunch after Juliette's departure, Andrea protects her star client while politely humoring the wealthy mogul. See you next time!"
 CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('andrea', 'Juliette, je suis avec Jean-Denis Gillières.', 'Juliette, I am with Jean-Denis Gillières.', [(288, 'je suis avec Jean-Denis Gillières')], ''),
@@ -33,19 +33,19 @@ STORY = [
     ('andrea', "Lundi, c'est parfait pour nous!", 'Monday is perfect for us!', [(322, "Lundi, c'est parfait")], ''),
 ]
 WALK = [
-    (0, None, "'Juliette, I am with Jean-Denis Gillières.' Andrea calls her client from the hotel lobby."),
-    (1, None, "'He wants to see you right away.' Andrea asks if the businessman can come up."),
-    (2, None, "'No, I beg you, not him!' Juliette pleads with her agent to keep him away."),
-    (3, None, "'I do not want to see him.' She firmly refuses any meeting with him."),
-    (4, None, "'He is so tiresome!' Juliette explains how intrusive his unwanted attention has been."),
-    (5, None, "'He does not understand the word no.' Juliette points out his persistent boundary crossing."),
-    (6, None, "'Understood, I am taking care of it.' Andrea steps in to shield her celebrity client."),
-    (7, None, "'Juliette is truly sorry, sir.' Andrea returns to Gillieres with a diplomatic excuse."),
-    (8, None, "'She is rehearsing her important speech.' Andrea invents an urgent professional excuse for Juliette's absence."),
-    (9, None, "'I adore intelligent women!' Gillieres expresses admiring condescension toward the actress."),
-    (10, None, "'She is preparing her first film.' Andrea mentions Juliette's directing aspirations to steer the conversation."),
-    (11, None, "'Let us have lunch on my boat on Monday.' Gillieres proposes an exclusive meeting on his yacht."),
-    (12, None, "'It will be calm and very pleasant.' The wealthy mogul promises a secluded setting."),
-    (13, None, "'I can help with the financing.' Gillieres dangles financial backing for her movie project."),
-    (14, None, "'Monday is perfect for us!' Andrea eagerly agrees, knowing Juliette leaves Cannes on Sunday. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Juliette, I am with Jean-Denis Gillieres.' Simple 'I am with' works identically in French and English when briefing someone discreetly over the phone."),
+    (1, None, "'He wants to see you right away.' Casual 'you' sits ahead of 'to see' in French, followed by that handy three-word idiom meaning 'right away.'"),
+    (2, None, "'No, I beg you, not him!' Literally 'I beg you of it,' that dramatic plea in French slips a tiny 'of it' stand-in right before 'beg.'"),
+    (3, None, "'I do not want to see him.' Notice how 'not' wraps ONLY around 'want' in French, leaving 'him to see' untouched afterward."),
+    (4, None, "'He is so tiresome!' That final description comes from 'pain' or 'trouble,' making it the go-to French insult for someone exhausting and pushy."),
+    (5, None, "'He does not understand the word no.' Saying 'the word no' word for word gives Juliette's complaint crystal-clear punch in French."),
+    (6, None, "'Understood, I am taking care of it.' Literally 'I occupy myself of it,' this reassuring handy sentence tells someone 'leave it to me!'"),
+    (7, None, "'Juliette is truly sorry, sir.' Notice how Andrea pivots from casual 'you' on the phone to formal 'sir' the second she faces Gillieres."),
+    (8, None, "'She is rehearsing her important speech.' Fun double life: the action here means both 'repeat' and 'rehearse' in French—since rehearsing is repeating lines!"),
+    (9, None, "'I adore intelligent women!' Unlike English, which drops 'the' for general groups, French requires 'the women intelligent' even when speaking broadly."),
+    (10, None, "'She is preparing her first film.' Ordinal 'first' is one of the select descriptions that sit BEFORE 'film' in French rather than after it."),
+    (11, None, "'Let us have lunch on my boat on Monday.' Dropping 'we' turns the first-person plural ending directly into 'let's have lunch,' and days like 'Monday' need no 'on' in French."),
+    (12, None, "'It will be calm and very pleasant.' Future-tense 'that will be' pairs two easy descriptions—with the second being a direct cognate of 'agreeable.'"),
+    (13, None, "'I can help with the financing.' Where English says 'help with,' French links 'help' to 'the financing' using 'for.'"),
+    (14, None, "'Monday is perfect for us!' Naming 'Monday' first and following up with 'that is perfect' is a classic conversational topic-comment pattern in French."),
 ]

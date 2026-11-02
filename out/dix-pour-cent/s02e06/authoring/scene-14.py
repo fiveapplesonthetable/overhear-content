@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'catherine': 'Catherine', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = "At the agency office in Paris, Mathias's wife Catherine arrives unexpectedly, hoping to travel down to Cannes to surprise her husband. Desperate to book a ticket when all flights are sold out, Catherine turns to Noémie, unaware that the assistant must sacrifice her own secret ticket. Listen to the scene in French first."
+INTRO = "At the agency office in Paris, Mathias's wife Catherine arrives unexpectedly, hoping to travel down to Cannes to surprise her husband. Desperate to book a ticket when all flights are sold out, Catherine turns to Noemie, unaware that the assistant must sacrifice her own secret ticket. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "Heartbroken and conflicted, Noémie gives up her own overnight train ticket so that Mathias's wife can surprise him in Cannes. See you next time!"
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
+OUTRO = "Heartbroken and conflicted, Noemie gives up her own overnight train ticket so that Mathias's wife can surprise him in Cannes. See you next time!"
 CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('catherine', 'Bonjour, Noémie, vous partez?', 'Hello, Noémie, are you leaving?', [(334, 'Bonjour, Noémie'), (335, 'Vous partez')], ''),
@@ -33,19 +33,19 @@ STORY = [
     ('catherine', 'Mathias ne peut pas se passer de toi.', 'Mathias cannot manage without you.', [(364, 'ne peut pas se passer de toi')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Noémie, are you leaving?' Catherine greets Mathias's dedicated assistant in the office."),
-    (1, None, "'Are you joining Mathias in Cannes?' Catherine asks about Mathias's schedule at the festival."),
-    (2, None, "'I want to surprise him!' Catherine reveals her secret romantic plan."),
-    (3, None, "'I need his schedule.' Catherine asks for her husband's festival agenda."),
-    (4, None, "'Could you book a flight for me?' She requests assistant help with travel bookings."),
-    (5, None, "'But everything is fully booked today.' Noemie explains that festival flights are unavailable."),
-    (6, None, "'Things are going much better between us.' Catherine confides that their marital relationship has improved."),
-    (7, None, "'I will print Mathias's schedule.' Noemie cooperates despite her hidden affair with Mathias."),
-    (8, None, "'All flights are fully booked, madam.' She confirms the complete lack of airplane seats."),
-    (9, None, "'What about the train?' Catherine refuses to give up on traveling down south."),
-    (10, None, "'One seat remains on the night train.' Noemie reluctantly gives up her own reserved sleeper berth."),
-    (11, None, "'I can bring him croissants!' Catherine excitedly imagines breakfast with her husband."),
-    (12, None, "'You are my savior, Noémie!' Catherine warmly hugs the conflicted assistant."),
-    (13, None, "'Thank you for your valuable help.' She expresses heartfelt appreciation for the booking."),
-    (14, None, "'Mathias cannot manage without you.' Catherine praises Noemie's indispensable role, unaware of their secret romance. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Hello, Noemie, are you leaving?' Catherine starts with polite 'you,' turning 'you leave' into a question simply by raising her voice at the end."),
+    (1, None, "'Are you joining Mathias in Cannes?' Built from 'join' with 're-,' this action means catching up with someone who has already traveled ahead—without needing any preposition before 'Mathias.'"),
+    (2, None, "'I want to surprise him!' Literally 'make the surprise to him,' French builds 'surprise someone' around 'make' rather than a single action word."),
+    (3, None, "'I need his schedule.' Literally 'I have need of his program,' where 'program' is the everyday French term for an event itinerary or schedule."),
+    (4, None, "'Could you book a flight for me?' Notice 'for me' tucked right before 'reserve' as 'me,' and 'a flight' coming from the word that means 'fly.'"),
+    (5, None, "'But everything is fully booked today.' False friend alert: for hotels, trains, and planes in French, 'complete' means 'sold out' or 'fully booked'!"),
+    (6, None, "'Things are going much better between us.' Just like English, French uses 'things go' for how life or a marriage is going, boosted by 'a lot better.'"),
+    (7, None, "'I will print Mathias's schedule.' Near-future 'I go print' sounds natural in French, and 'schedule of Mathias' avoids English apostrophe-s."),
+    (8, None, "'All flights are fully booked, madam.' Because 'flights' is plural here, 'complete' picks up a plural '-s' in spelling even though it sounds identical aloud in French."),
+    (9, None, "'What about the train?' Opening with 'and for' is a super-handy phrase in French whenever you want to pivot and ask 'what about...?'"),
+    (10, None, "'One seat remains on the night train.' Literally 'train of night,' joining the travel style with 'of,' while 'place' means an available seat or berth."),
+    (11, None, "'I can bring him croissants!' For carrying objects like pastries rather than people, French chooses 'bring' built on 'carry' rather than 'lead.'"),
+    (12, None, "'You are my savior, Noemie!' Notice Catherine suddenly switching from polite 'you' to warm casual 'you' out of sheer relief—then switching right back in the next breath!"),
+    (13, None, "'Thank you for your valuable help.' Literally 'help precious,' returning to formal 'your' as Catherine collects herself."),
+    (14, None, "'Mathias cannot manage without you.' Literally 'pass himself of you,' that idiomatic expression is how French says 'do without someone.'"),
 ]

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = 'At the studio canteen, veteran actor Guy Marchand eats lunch while feeling anxious about recent memory blanks on set. Arlette arrives with her faithful dog Jean Gabin to comfort her old friend before his afternoon scenes. Listen to the scene in French first.'
 OPENER = "Let's examine how Arlette comforts an anxious veteran actor."
-TRANSITION = "Now let's listen to the warm conversation once more at normal pace."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "Arlette restores Guy's confidence with affection and humor before his next scene on set. Listen to the touching dialogue once more in French. See you next time!"
 CLOSING = ('arlette', 'À bientôt!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('arlette', 'Je serai toujours là pour veiller sur toi.', 'I will always be there to watch over you.', [(581, 'Arlette Davidson.'), (582, "C'est mon surnom.")], ''),
 ]
 WALK = [
-    (0, None, "'There is a wide selection of cheeses here.' Guy admires the canteen buffet."),
-    (1, None, "'Hello Guy! How is your filming going?' Arlette greets her long-time client warmly."),
-    (2, None, "'I confuse the pepper and the salt today.' Guy admits his momentary confusion."),
-    (3, None, "'That is not serious, that happens to everyone.' Arlette reassures him immediately."),
-    (4, None, "'People are asking me questions about my memory.' Guy expresses his frustration with inquiries."),
-    (5, None, "'They are afraid that I forget my lines.' Guy senses the crew's anxiety."),
-    (6, None, "'You have fifty years of career behind you.' Arlette reminds him of his vast experience."),
-    (7, None, "'Look, Jean Gabin loves the butter!' Guy feeds a treat to the dog."),
-    (8, None, "'Jean Gabin, behave yourself at the table!' Arlette scolds her pampered dog gently."),
-    (9, None, "'Guy, are you still doing your famous butter trick?' Arlette playfully brings up his signature habit."),
-    (10, None, "'It is an old habit to charm the dairywoman.' Guy chuckles at the recurring joke."),
-    (11, None, "'Do not get upset over a few memory blanks.' Arlette urges him to stay calm and poised."),
-    (12, None, "'I want to succeed in my scene this afternoon.' Guy focuses on his acting performance."),
-    (13, None, "'You are a wonderful actor, have confidence.' Arlette bolsters his self-assurance."),
-    (14, None, "'Thanks for coming to see me on the set.' Guy appreciates her physical presence."),
-    (15, None, "'I will always be there to watch over you.' Arlette pledges her unwavering loyalty. Now let's listen to the warm conversation once more at normal pace."),
+    (0, None, "'There is a wide selection of cheeses here.' Opening with 'it there has' gives 'there is', followed by 'a big choice' where English says 'a wide selection'."),
+    (1, None, "'Hello Guy! How is your filming going?' Dropping the formal 'you' she keeps with colleagues, Arlette uses warm casual 'your' with Guy, asking 'how passes itself your shoot?'."),
+    (2, None, "'I confuse the pepper and the salt today.' Even for everyday table items like salt and pepper, French keeps 'the' in front of each one."),
+    (3, None, "'That is not serious, that happens to everyone.' Two everyday gems sit side by side: 'it is not serious' means 'no big deal', and the cognate of 'arrive' can mean 'happen'!"),
+    (4, None, "'People are asking me questions about my memory.' Careful with a classic trap: in French you never 'ask' a question — you always 'pose' questions, just like English 'pose a question'."),
+    (5, None, "'They are afraid that I forget my lines.' French expresses fear as 'they have fear', and on a movie set 'my text' is how actors refer to their lines."),
+    (6, None, "'You have fifty years of career behind you.' Just as French uses 'to have' when stating your age, Arlette says 'you have fifty years of career' to remind him of his stature."),
+    (7, None, "'Look, Jean Gabin loves the butter!' After actions of liking or loving, French always includes 'the' — so 'loves the butter' means loving butter in general."),
+    (8, None, "'Jean Gabin, behave yourself at the table!' Literally 'hold yourself well!', that handy phrase means 'mind your manners!', followed by 'at table' without 'the'."),
+    (9, None, "'Guy, are you still doing your famous butter trick?' A word that literally means a 'stroke' or 'blow' turns into 'the trick of' in everyday French idioms."),
+    (10, None, "'It is an old habit to charm the dairywoman.' What looks like 'seduce' often just means 'charm' in French, and 'dairywoman' comes from 'cream' — a wink at a proverb about wanting everything at once."),
+    (11, None, "'Do not get upset over a few memory blanks.' Where English pictures 'blanks' in your memory, French calls them 'holes of memory'!"),
+    (12, None, "'I want to succeed in my scene this afternoon.' Unlike English 'succeed in', French attaches 'my scene' straight onto 'succeed' to mean 'nail it', before 'after-noon' at the end."),
+    (13, None, "'You are a wonderful actor, have confidence.' Closing on the casual command 'have confidence', French joins 'have' directly to 'confidence' with nothing in between."),
+    (14, None, "'Thanks for coming to see me on the set.' Rather than 'thanks for coming', French says 'thanks of being come', followed straight away by 'me to-see'."),
+    (15, None, "'I will always be there to watch over you.' Near the end, 'watch over' comes from staying awake — a cousin of English 'vigil'."),
 ]

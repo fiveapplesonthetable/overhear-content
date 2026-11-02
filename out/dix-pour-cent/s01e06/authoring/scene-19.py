@@ -15,7 +15,7 @@ INTRO = ('On her way out of the agency, Andréa reassures Colette on the phone t
  "dessert. Outside the studio, Andréa meets François and brings him into Christophe Bel's birthday party. Let's listen "
  "to the scene in French first; don't worry about catching every word.")
 OPENER = "Let's listen again to the party conversation as François threatens to leave and Andréa reveals his secret."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Now that Christophe knows the real reason François refused to get into the pool, he immediately runs after François '
  'to catch him before he leaves. See you next time!')
 CLOSING = ('christophe_bel', 'Au revoir!')
@@ -80,70 +80,22 @@ STORY = [('andrea', 'Tu as apporté un cadeau?', 'Did you bring a present?', [(5
   ''),
  ('christophe_bel', 'Quoi?', 'What?', [(531, 'Quoi')], ''),
  ('andrea', 'Il ne sait pas nager!', "He doesn't know how to swim!", [(531, 'Il ne sait pas nager')], '')]
-WALK = [(0,
-  None,
-  "'Did you bring a present?' The completed action means 'brought'. The final word is a gift, so Andréa is checking "
-  'whether François brought a birthday present.'),
- (1,
-  None,
-  "'Very good. Very funny. I am glad that amuses you.' Two short judgments begin the reply: 'very good' and 'very "
-  "funny'. The later little object attached to 'amuses' means 'you'."),
- (2,
-  None,
-  "'I have to take care of the music. Enjoy the atmosphere.' The first action means 'have to'. It is followed by "
-  'taking care of something: the music. The following command tells François to enjoy the atmosphere.'),
- (3,
-  None,
-  "'He isn't talking to me! He invites me, and he ignores me!' Three little objects refer to François: 'to me', then "
-  "inviting 'me', then ignoring 'me'. His repeated complaints show the contrast between invitation and welcome."),
- (4,
-  None,
-  "'Wait, he's going to come back.' The opening is a command to wait. The later 'going to' introduces a return: Andréa "
-  'says Christophe will come back.'),
- (5,
-  None,
-  "'It's his party, he's stressed. Give him time.' The possessive before party means 'his'. The later command has 'to "
-  "him' attached after a hyphen: she asks François to give him time."),
- (6,
-  None,
-  "'No, I'm leaving.' The shortened middle sequence belongs to a common expression for leaving. Translate the whole "
-  "statement as 'I am leaving', rather than word by word."),
- (7,
-  None,
-  "'What? No, stay! François!' The command for 'stay' follows the refusal 'no'. Andréa addresses François by name as "
-  'she tries to stop him leaving.'),
- (8,
-  None,
-  "'Christophe, you are made to work together.' The 'you' here is plural: Andréa means the director and the actor "
-  "together. The final word means 'together', the partnership she is urging."),
- (9,
-  None,
-  "'Give me one good reason.' The command to give has 'me' attached. The request is for one good reason, so the "
-  'feminine describing word matches the word for reason.'),
- (10,
-  None,
-  "'He's a great actor!' The description places 'great' before the actor. Here it means an excellent actor, rather "
-  'than necessarily describing his height.'),
- (11,
-  None,
-  "'He has no respect! I refuse to work with him!' The word after the negative means 'no' or 'any' with a negative: no "
-  'respect. The second sentence refuses working with him.'),
- (12,
-  None,
-  "'It's not that he doesn't want to!' This is a negative explanation of a negative: she denies that not wanting is "
-  'the reason. The issue is inability, which she is about to reveal.'),
- (13,
-  None,
-  "'Then what is the problem? He can't?' The first question asks what the problem is. The shorter second one asks "
-  'whether he cannot do it, with the action left understood.'),
- (14,
-  None,
-  "'You must not tell anyone. He does not know how to swim.' The first sentence prohibits telling anyone. The second "
-  "uses 'know' followed by another action to describe a skill he lacks: swimming."),
- (15,
-  None,
-  "'What?' This one-word question asks 'what?' Christophe has heard something unexpected and wants it repeated."),
- (16,
-  None,
-  "'He doesn't know how to swim!' The negative surrounds 'knows'. With the next action, the complete meaning is 'does "
-  "not know how to swim', not merely lacking information about swimming.")]
+WALK = [
+    (0, None, "'Did you bring a present?' The completed action means 'brought'. The final word is a gift, so Andréa is checking whether François brought a birthday present."),
+    (1, None, "'Very good. Very funny. I am glad that amuses you.' Two short judgments begin the reply: 'very good' and 'very funny'. The later little object attached to 'amuses' means 'you'."),
+    (2, None, "'I have to take care of the music. Enjoy the atmosphere.' The first action means 'have to'. It is followed by taking care of something: the music. The following command tells François to enjoy the atmosphere."),
+    (3, None, "'He isn't talking to me! He invites me, and he ignores me!' Three little objects refer to François: 'to me', then inviting 'me', then ignoring 'me'. His repeated complaints show the contrast between invitation and welcome."),
+    (4, None, "'Wait, he's going to come back.' The opening is a command to wait. The later 'going to' introduces a return: Andréa says Christophe will come back."),
+    (5, None, "'It's his party, he's stressed. Give him time.' The possessive before party means 'his'. The later command has 'to him' attached after a hyphen: she asks François to give him time."),
+    (6, None, "'No, I'm leaving.' The shortened middle sequence belongs to a common expression for leaving. Translate the whole statement as 'I am leaving', rather than word by word."),
+    (7, None, "'What? No, stay! François!' The command for 'stay' follows the refusal 'no'. Andréa addresses François by name as she tries to stop him leaving."),
+    (8, None, "'Christophe, you are made to work together.' The 'you' here is plural: Andréa means the director and the actor together. The final word means 'together', the partnership she is urging."),
+    (9, None, "'Give me one good reason.' The command to give has 'me' attached. The request is for one good reason, so the feminine describing word matches the word for reason."),
+    (10, None, "'He's a great actor!' The description places 'great' before the actor. Here it means an excellent actor, rather than necessarily describing his height."),
+    (11, None, "'He has no respect! I refuse to work with him!' The word after the negative means 'no' or 'any' with a negative: no respect. The second sentence refuses working with him."),
+    (12, None, "'It's not that he doesn't want to!' This is a negative explanation of a negative: she denies that not wanting is the reason. The issue is inability, which she is about to reveal."),
+    (13, None, "'Then what is the problem? He can't?' The first question asks what the problem is. The shorter second one asks whether he cannot do it, with the action left understood."),
+    (14, None, "'You must not tell anyone. He does not know how to swim.' The first sentence prohibits telling anyone. The second uses 'know' followed by another action to describe a skill he lacks: swimming."),
+    (15, None, "'What?' This one-word question asks 'what?' Christophe has heard something unexpected and wants it repeated."),
+    (16, None, "'He doesn't know how to swim!' The negative surrounds 'knows'. With the next action, the complete meaning is 'does not know how to swim', not merely lacking information about swimming."),
+]

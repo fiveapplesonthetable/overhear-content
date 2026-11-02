@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In Gabriel's office, cautious agent Mathias questions Sofia about her meeting with singer Julien Dore. Mathias warns her to focus on acting alone, while Gabriel urges her to stay curious and hear Julien's offer. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
+TRANSITION = "Now let's listen to the whole dialogue once more to lock in what you have learned."
 OUTRO = "Pragmatic Mathias urges Sofia to stick strictly to acting, while Gabriel encourages her to stay open to Julien Dore's musical film. See you next time!"
 CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
@@ -30,16 +30,16 @@ STORY = [
     ('sofia', "D'accord, je vais parler avec Julien.", 'All right, I am going to talk with Julien.', [(258, 'Julien')], ''),
 ]
 WALK = [
-    (0, None, "'Why are you talking with Julien Dore?' Mathias asks Sofia why she just met the singer."),
-    (1, None, "'Julien is looking for a singer for his film.' Sofia explains the musical movie project."),
-    (2, None, "'Do you want to be a singer or an actress?' Mathias pushes Sofia to pick one career path."),
-    (3, None, "'I am an actress, of course.' Sofia confirms her main passion right away."),
-    (4, None, "'Yes, but Sofia sings very well too!' Gabriel jumps in to praise her musical talent."),
-    (5, None, "'It is a good opportunity for me.' Sofia sees the role as a great chance to become known."),
-    (6, None, "'No, it is bad for your image.' Mathias worries that singing will confuse casting directors."),
-    (7, None, "'In cinema, do just one thing.' Mathias advises strict career discipline."),
-    (8, None, "'Focus only on cinema.' Mathias tells her to stick to acting."),
-    (9, None, "'Of course not! Let us stay curious and open.' Feel how Gabriel pushes back against Mathias's strict rules."),
-    (10, None, "'Let us listen to Julien's offer first.' Gabriel suggests hearing what Julien has in mind before saying no."),
-    (11, None, "'All right, I am going to talk with Julien.' Sofia decides to hear Julien out. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'Why are you talking with Julien Dore?' Putting 'why' in front of plain 'you speak' is the relaxed spoken way to ask a 'why' question in French without flipping word order."),
+    (1, None, "'Julien is looking for a singer for his film.' Remember that 'searches' already includes the 'for' idea in French, while actual 'for' only appears later before 'his film'."),
+    (2, None, "'Do you want to be a singer or an actress?' Both professions stand bare without 'a' or 'an' after 'to be' in French, joined simply by 'or'."),
+    (3, None, "'I am an actress, of course.' Dropping 'an' before 'actress' treats a profession like an identity tag in French, sealed with an idiomatic 'well sure' for 'of course'."),
+    (4, None, "'Yes, but Sofia sings very well too!' Tagging 'also' onto the end works just like 'too' in English, right after 'very well'."),
+    (5, None, "'It is a good opportunity for me.' Watch the false friend: what looks like English 'occasion' usually means a 'chance' or 'opportunity' in French."),
+    (6, None, "'No, it is bad for your image.' Even though 'image' is female-gendered in French, 'your' switches to its '-on' form before a vowel sound so the words flow smoothly."),
+    (7, None, "'In cinema, do just one thing.' Put ahead of 'thing', the word that means 'alone' shifts to 'single' or 'just one' in French, while 'cinema' keeps 'the'."),
+    (8, None, "'Focus only on cinema.' Literally 'concentrate yourself', this command tucks 'yourself' after a hyphen and pairs with 'on the cinema' in French."),
+    (9, None, "'Of course not! Let us stay curious and open.' Opening with 'but no!' pushes back warmly in French, and the '-ons' ending builds 'let us stay' without any extra helper."),
+    (10, None, "'Let us listen to Julien's offer first.' In French, 'let us listen' already includes the 'to' idea, and possession is built as 'the offer of Julien'."),
+    (11, None, "'All right, I am going to talk with Julien.' Combining 'I go' with 'to speak' gives you a handy phrase in French for the near future, matching 'am going to talk'."),
 ]

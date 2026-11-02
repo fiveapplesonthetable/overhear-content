@@ -14,7 +14,7 @@ INTRO = ("While the agency helps with Audrey's children, Augustin asks about the
  'film. Afterwards, Audrey takes her baby into another room and asks for privacy to breastfeed. First, listen to '
  'the French dialogue.')
 OPENER = "Let's go through it together. The discussion begins with what Audrey knows how to do."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Gabriel and Hervé help keep the room private while Audrey feeds her baby. The scene combines a discussion of '
  'skills with practical requests about the door and curtains. See you next time!')
 CLOSING = ('audrey', 'Au revoir!')
@@ -74,51 +74,17 @@ STORY = [('augustin',
   'Yes, yes.',
   [(411, 'Oui')],
   'Audrey answers the concern at the door; omits an ambiguous plural-address question rather than misassign it.')]
-WALK = [(0,
-  None,
-  "'As for pole dancing, I know you do tango.' The expression for pole dancing literally says 'dance at the "
-  "pole'. To describe the dance she practises, he uses 'you do', rather than the word meaning 'you like'."),
- (1,
-  None,
-  "'No, I also know how to do a bit of pole dancing.' To say you know how to do something in French, you put "
-  "'know' straight before the verb 'to do'."),
- (2,
-  None,
-  "'Really? Do you really know how to pole dance?' The action meaning know is followed directly by the plain "
-  "action meaning do. The emphasis on knowing for real strengthens Augustin's surprised question."),
- (3,
-  None,
-  "'Yes. I know the basics.' Notice that French uses a different verb for 'know' when it's followed by a noun "
-  'instead of a verb.'),
- (4,
-  None,
-  "'That's more than enough. Fantastic!' The expression for more than enough describes a skill that comfortably "
-  'meets his needs. The final exclamation adds enthusiastic approval.'),
- (5,
-  None,
-  "'I like to work with what's real.' French turns the description meaning true or real into the thing Augustin "
-  'wants to work with. He values the performer having the skill herself.'),
- (6,
-  None,
-  "'In the film, it's a gesture of rebellion.' The short word between 'gesture' and 'rebellion' means 'of'. It "
-  'links an action to the attitude that action expresses.'),
- (7,
-  None,
-  "'She looks like Isabelle Adjani.' The verb for 'resembles' takes the preposition 'to' before the person's "
-  'name.'),
- (8,
-  None,
-  "'Lock the door!' Literally 'close with a key'. After leaving the meeting, Audrey asks for privacy in another "
-  'room so that she can breastfeed her baby.'),
- (9,
-  None,
-  "'Augustin mustn't see me!' The word for 'must' is followed directly by the action 'see'. The short object "
-  "meaning 'me' comes before that second action. Audrey wants privacy to feed her baby."),
- (10,
-  None,
-  "'Hold the door closed and draw the curtains.' These are two commands to the people helping her. The word for "
-  "'closed' has a feminine ending to match 'door', while 'curtains' is plural."),
- (11,
-  None,
-  "'Yes, yes.' Repeating an affirmative can reassure someone quickly. Audrey answers from the room while the "
-  'others help protect her privacy.')]
+WALK = [
+    (0, None, "'As for pole dancing, I know you do tango.' The expression for pole dancing literally says 'dance at the pole'. To describe the dance she practises, he uses 'you do', rather than the word meaning 'you like'."),
+    (1, None, "'No, I also know how to do a bit of pole dancing.' To say you know how to do something in French, you put 'know' straight before the verb 'to do'."),
+    (2, None, "'Really? Do you really know how to pole dance?' The action meaning know is followed directly by the plain action meaning do. The emphasis on knowing for real strengthens Augustin's surprised question."),
+    (3, None, "'Yes. I know the basics.' Notice that French uses a different verb for 'know' when it's followed by a noun instead of a verb."),
+    (4, None, "'That's more than enough. Fantastic!' The expression for more than enough describes a skill that comfortably meets his needs. The final exclamation adds enthusiastic approval."),
+    (5, None, "'I like to work with what's real.' French turns the description meaning true or real into the thing Augustin wants to work with. He values the performer having the skill herself."),
+    (6, None, "'In the film, it's a gesture of rebellion.' The short word between 'gesture' and 'rebellion' means 'of'. It links an action to the attitude that action expresses."),
+    (7, None, "'She looks like Isabelle Adjani.' The verb for 'resembles' takes the preposition 'to' before the person's name."),
+    (8, None, "'Lock the door!' Literally 'close with a key'. After leaving the meeting, Audrey asks for privacy in another room so that she can breastfeed her baby."),
+    (9, None, "'Augustin mustn't see me!' The common word for 'must' is followed directly by the action 'see'. The short object meaning 'me' comes before that second action. Audrey wants privacy to feed her baby."),
+    (10, None, "'Hold the door closed and draw the curtains.' These are two commands to the people helping her. One French word for 'closed' has a feminine ending to match 'door', while 'curtains' is plural."),
+    (11, None, "'Yes, yes.' Repeating an affirmative can reassure someone quickly. Audrey answers from the room while the others help protect her privacy."),
+]

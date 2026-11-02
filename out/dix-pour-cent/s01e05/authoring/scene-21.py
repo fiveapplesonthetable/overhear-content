@@ -94,68 +94,23 @@ STORY = [('receptionniste',
   "I want to know. I'm staying.",
   [(446, 'Je veux savoir. Je reste')],
   'Learner adaptation, not a verbatim French transcript.')]
-WALK = [(0,
-  None,
-  "'Sorry, we have this new software.' The everyday word meaning we takes the same action form as he or she. "
-  "The receptionist uses it to describe the hotel's new software."),
- (1,
-  None,
-  "'Maybe I can help.' The expression meaning maybe introduces a suggestion. Can is followed directly by "
-  'help in its basic form.'),
- (2,
-  None,
-  "'Thank you, but you need a degree for this!' The impersonal expression means that something is needed. A "
-  'degree exaggerates how complicated the software seems to her.'),
- (3,
-  None,
-  "'For example, dinner for two and champagne in room sixteen.' The number after room identifies which room "
-  "it is, rather than how many rooms. The two meals and champagne make that room's bill interesting to "
-  'Gabriel.'),
- (4,
-  None,
-  "'Which room?' Which is written in the feminine form because room is feminine. It is enough to ask the "
-  'question without repeating a complete sentence about the bill.'),
- (5,
-  None,
-  "'It's me, open up! It's really urgent.' The little word for me attaches after open in the familiar "
-  'instruction. Really strengthens his claim that the interruption cannot wait.'),
- (6,
-  None,
-  "'I can't right now. What?' The last place word can mean at this moment in this expression. The short what "
-  'then asks him to explain the supposedly urgent reason.'),
- (7,
-  None,
-  "'You were so tired last night, I was worried. Are you feeling better?' The word for so strengthens tired; "
-  'it does not mean if here. The written feminine ending describes Andrea, while worried is masculine for '
-  'Gabriel.'),
- (8,
-  None,
-  "'Yes, I'm fine.' The familiar expression literally says that goes. It can reassure someone that the "
-  'speaker is all right without describing any journey.'),
- (9,
-  None,
-  "'Were you a little hungry?' Hunger uses have in French. A little hunger softens the question, though he "
-  'is really asking why there were two dinners.'),
- (10,
-  None,
-  "'I wasn't sleeping, so I worked.' The first past form gives the background of being awake. The completed "
-  'action worked then says what she claims she did during that time.'),
- (11,
-  None,
-  "'Stop talking nonsense!' The expression for nonsense combines no matter with what. The instruction stop "
-  'connects to telling or recounting with a small linking word.'),
- (12,
-  None,
-  "'I know you weren't alone last night. Who is it?' The past description alone is feminine for Andrea. The "
-  'final question asks who the other person was, making the accusation more direct.'),
- (13,
-  None,
-  "'You know me, never at work!' The expression never at work leaves out an action already understood. She "
-  'is saying that people from work are excluded from her private relationships.'),
- (14,
-  None,
-  "'I want to know. I'm staying.' The first action asks for knowledge rather than familiarity with a person. "
-  'The final present-tense statement announces his decision to remain until he gets an answer.')]
+WALK = [
+    (0, None, "'Sorry, we have this new software.' The everyday word meaning we takes the same action form as he or she. The receptionist uses it to describe the hotel's new software."),
+    (1, None, "'Maybe I can help.' The expression meaning maybe introduces a suggestion. Can is followed directly by help in its basic form."),
+    (2, None, "'Thank you, but you need a degree for this!' The impersonal expression means that something is needed. A degree exaggerates how complicated the software seems to her."),
+    (3, None, "'For example, dinner for two and champagne in room sixteen.' The number after room identifies which room it is, rather than how many rooms. The two meals and champagne make that room's bill interesting to Gabriel."),
+    (4, None, "'Which room?' Which is written in the feminine form because room is feminine. It is enough to ask the question without repeating a complete sentence about the bill."),
+    (5, None, "'It's me, open up! It's really urgent.' That short word for me attaches after open in the familiar instruction. Really strengthens his claim that the interruption cannot wait."),
+    (6, None, "'I can't right now. What?' The last place word can mean at this moment in this expression. The short what then asks him to explain the supposedly urgent reason."),
+    (7, None, "'You were so tired last night, I was worried. Are you feeling better?' The word for so strengthens tired; it does not mean if here. The written feminine ending describes Andrea, while worried is masculine for Gabriel."),
+    (8, None, "'Yes, I'm fine.' The familiar expression literally says that goes. It can reassure someone that the speaker is all right without describing any journey."),
+    (9, None, "'Were you a little hungry?' Hunger uses have in French. A little hunger softens the question, though he is really asking why there were two dinners."),
+    (10, None, "'I wasn't sleeping, so I worked.' The first past form gives the background of being awake. The completed action worked then says what she claims she did during that time."),
+    (11, None, "'Stop talking nonsense!' The expression for nonsense combines no matter with what. The instruction stop connects to telling or recounting with a small linking word."),
+    (12, None, "'I know you weren't alone last night. Who is it?' The past description alone is feminine for Andrea. The final question asks who the other person was, making the accusation more direct."),
+    (13, None, "'You know me, never at work!' The expression never at work leaves out an action already understood. She is saying that people from work are excluded from her private relationships."),
+    (14, None, "'I want to know. I'm staying.' The first action asks for knowledge rather than familiarity with a person. The final present-tense statement announces his decision to remain until he gets an answer."),
+]
 SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. The dual working subtitles contain '
  'a backtranslated French track. Roles, plot and register are checked against source video and original '
  'French audio.')

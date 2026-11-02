@@ -14,7 +14,7 @@ INTRO = ('Mathias finds Catherine at a hair salon and asks for a chance to apolo
  "affectionate words. We then move to Andréa arranging to meet François at Christophe Bel's birthday party and "
  'explaining her changed plans to Colette. Listen first in French.')
 OPENER = "Now listen again to Mathias's apology at the salon and Andréa's later phone calls."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('While Mathias is left alone after Catherine rejects his apology, Andréa heads out to meet François at Christophe '
  "Bel's birthday party. See you next time!")
 CLOSING = ('andrea', 'Bonne journée!')
@@ -76,63 +76,20 @@ STORY = [('catherine',
   "Yes, Colette, it's me. Something came up at work.",
   [(496, "Colette, c'est moi"), (498, "Il s'est passé quelque chose")],
   '')]
-WALK = [(0,
-  None,
-  "'What do you want?' The opening question frame asks 'what'. It is followed by familiar singular 'you' and 'want'. "
-  'Catherine is asking her husband what he has come for.'),
- (1,
-  None,
-  "'I just want to talk to you. To apologize.' The opening says 'I just want'. The short form before 'apologize' means "
-  "'myself', but the complete action simply means apologizing in English."),
- (2,
-  None,
-  "'Apologize as much as you want, I will never forgive you.' The command says 'apologize'. The following words allow "
-  'any amount of that action, before the future negative states that forgiveness will never follow.'),
- (3,
-  None,
-  "'Just five minutes.' The number gives five minutes. The final word means 'only', minimizing the amount of time "
-  'being requested.'),
- (4,
-  None,
-  "'I'm worried about you.' The shortened word attached to 'worry' goes with worrying oneself. The final word is the "
-  "stressed familiar 'you', the person Mathias is worried about."),
- (5,
-  None,
-  "'Are you afraid for your agency?' French expresses fear with 'have'. The word for 'your' takes its "
-  'masculine-looking shape before the vowel in agency, even though agency is feminine.'),
- (6,
-  None,
-  "'No, darling.' The second word is an affectionate form of address, 'darling'. Its feminine ending matches "
-  'Catherine, the woman being addressed.'),
- (7,
-  None,
-  "'Don't call me darling! Ever!' The opening negative command tells him not to call her that. The last word makes it "
-  "absolute: 'never'. She refuses the affectionate label."),
- (8,
-  None,
-  "'We'll meet there. At what time?' The first action means meeting up. The hyphenated place word means 'over there'. "
-  'The following question asks the time of that meeting.'),
- (9,
-  None,
-  "'François, he invited you personally. And now you're hesitating?' We have moved to Andréa addressing François. The "
-  "completed invitation has the object 'you' attached; the final question challenges his present hesitation."),
- (10,
-  None,
-  "'Isn't that what you wanted?' The negative question asks whether this is what he wanted. The final action looks "
-  'back to the wish he had before receiving the invitation.'),
- (11,
-  None,
-  "'Sorry, François, I don't follow you.' The action literally says 'I do not follow you'. As in English, following "
-  'someone can mean understanding their reasoning, rather than walking behind them.'),
- (12,
-  'Bon, je serai là à vingt heures trente.',
-  "'Right, I'll be there at eight-thirty.' The future action says 'I will be there'. The time is twenty hours thirty: "
-  'half past eight in the evening.'),
- (12,
-  'On se retrouve dehors.',
-  "'We'll meet outside.' The final word means 'outside'. They will meet up there before going into the party "
-  'together.'),
- (13,
-  None,
-  "'Yes, Colette, it's me. Something came up at work.' Now Andréa phones Colette. The final completed action means "
-  "'something happened', explaining why she says her work plans have changed.")]
+WALK = [
+    (0, None, "'What do you want?' The opening question frame asks 'what'. It is followed by familiar singular 'you' and 'want'. Catherine is asking her husband what he has come for."),
+    (1, None, "'I just want to talk to you. To apologize.' The opening says 'I just want'. The short form before 'apologize' means 'myself', but the complete action simply means apologizing in English."),
+    (2, None, "'Apologize as much as you want, I will never forgive you.' The command says 'apologize'. The following words allow any amount of that action, before the future negative states that forgiveness will never follow."),
+    (3, None, "'Just five minutes.' The number gives five minutes. The final word means 'only', minimizing the amount of time being requested."),
+    (4, None, "'I'm worried about you.' The shortened word attached to 'worry' goes with worrying oneself. The final word is the stressed familiar 'you', the person Mathias is worried about."),
+    (5, None, "'Are you afraid for your agency?' French expresses fear with 'have'. One French word for 'your' takes its masculine-looking shape before the vowel in agency, even though agency is feminine."),
+    (6, None, "'No, darling.' The second word is an affectionate form of address, 'darling'. Its feminine ending matches Catherine, the woman being addressed."),
+    (7, None, "'Don't call me darling! Ever!' The opening negative command tells him not to call her that. The last word makes it absolute: 'never'. She refuses the affectionate label."),
+    (8, None, "'We'll meet there. At what time?' The first action means meeting up. The hyphenated place word means 'over there'. The following question asks the time of that meeting."),
+    (9, None, "'François, he invited you personally. And now you're hesitating?' We have moved to Andréa addressing François. The completed invitation has the object 'you' attached; the final question challenges his present hesitation."),
+    (10, None, "'Isn't that what you wanted?' The negative question asks whether this is what he wanted. The final action looks back to the wish he had before receiving the invitation."),
+    (11, None, "'Sorry, François, I don't follow you.' The action literally says 'I do not follow you'. As in English, following someone can mean understanding their reasoning, rather than walking behind them."),
+    (12, 'Bon, je serai là à vingt heures trente.', "'Right, I'll be there at eight-thirty.' The future action says 'I will be there'. The time is twenty hours thirty: half past eight in the evening."),
+    (12, 'On se retrouve dehors.', "'We'll meet outside.' The final word means 'outside'. They will meet up there before going into the party together."),
+    (13, None, "'Yes, Colette, it's me. Something came up at work.' Now Andréa phones Colette. The final completed action means 'something happened', explaining why she says her work plans have changed."),
+]

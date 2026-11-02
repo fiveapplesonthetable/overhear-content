@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "After comforting young Armelle Borzek over tea and giving her back the role in Augustin's film, Audrey walks out into the street with Mathias. Mathias worked hard to get her the part so she could pay her late taxes, and he is furious that she just gave it away. Let's listen to their argument in French first. Don't worry if it goes fast; you'll catch the main feelings."
 OPENER = "Let's go back through the argument. Audrey starts by blaming Mathias for hiding the truth."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Audrey refuses to spend months of each year away from her children. The proposed film itself includes one month '
  'in Canada, which Mathias had not mentioned. Despite her tax debt, she gives up the role; he leaves frustrated '
  'and returns to the agency. See you next time!')
@@ -90,71 +90,21 @@ STORY = [('audrey',
   'Hello!',
   [(638, 'Bonjour')],
   'Mathias greets people when he returns to the agency; not a farewell on a train.')]
-WALK = [(0,
-  None,
-  "'Augustin had chosen another actress. It was horrible.' French uses a past form of having before the past form "
-  "of choosing. Together they place Augustin's choice before the events Audrey is talking about. English does the "
-  'same job with had chosen.'),
- (1,
-  None,
-  "'Actors always take someone else's role.' The action word 'to take' is in its plural form, and 'always' sits "
-  'right after it.'),
- (2,
-  None,
-  "'Did you take a good look at Armelle? She's going to be fantastic!' French uses a past form of looking for the "
-  'first question. In the next sentence, going followed by being describes a future result. Audrey moves from '
-  'what she saw to what she expects.'),
- (3,
-  None,
-  "'So you don't need money, after all.' French says 'have need of' for 'need'. The short linking sound before "
-  'money belongs to that expression; it is not an article changed by the negative.'),
- (4,
-  None,
-  "'You have a horrible view of life. She moved me.' The last verb literally means 'touched', and takes a "
-  "feminine ending because 'me' is Audrey."),
- (5,
-  None,
-  "'It's not because of that! You don't want to leave your children.' French puts the negative around the action "
-  'of wanting. The next action, leaving, keeps its basic form. You can reuse this pattern to say that you do not '
-  'want to do something.'),
- (6,
-  None,
-  "'Nonsense!' Audrey uses a very common three-word expression that literally means 'no matter what', used "
-  'whenever someone says something ridiculous.'),
- (7,
-  None,
-  "'Your children are going to grow up and leave.' The near future again: 'are going to' followed by two verbs."),
- (8,
-  None,
-  "'I want to work, but they're small!' The plural word for 'they' refers back to her children. The describing "
-  "word for 'small' has a plural written ending to match them."),
- (9,
-  None,
-  "'They need me. So what do I do?' There's that 'have need of' expression again, this time in the third person "
-  'plural.'),
- (10,
-  None,
-  "'Do I abandon them for six months a year? You didn't tell me about Canada!' French puts the word for them "
-  'before the action of abandoning. The expression for six months a year gives a repeated yearly amount. The '
-  'specific Canada shoot lasts one month.'),
- (11,
-  None,
-  "'I didn't know.' French uses this past form of knowing to describe what Mathias knew at the time. It describes "
-  'his state of knowledge before this conversation. He is denying that he knew about the trip.'),
- (12,
-  None,
-  "'And it's impossible to work with a baby around all the time.' The description 'impossible' is followed by a "
-  "linking word and the plain action 'work'. This is Audrey's objection to taking her baby everywhere."),
- (13,
-  None,
-  "'You owe a lot of money in taxes.' French uses the same action word for owing money and having to do "
-  'something. Here the money amount makes the meaning clear: Audrey owes a debt. When another action follows this '
-  'word, it can express an obligation.'),
- (14,
-  None,
-  "'But I wish you good luck!' Mathias ends his own reminder about her tax debt with this sarcastic wish. The "
-  'polite object means Audrey is the recipient; the feminine description matches luck.'),
- (15,
-  None,
-  "'Hello!' This everyday word is a greeting when you arrive or meet someone during the day. You can use it at an "
-  'office, in a shop or when meeting a neighbour. Mathias uses it as he returns to the agency.')]
+WALK = [
+    (0, None, "'Augustin had chosen another actress. It was horrible.' French uses a past form of having before the past form of choosing. Together they place Augustin's choice before the events Audrey is talking about. English does the same job with had chosen."),
+    (1, None, "'Actors always take someone else's role.' The action word 'to take' is in its plural form, and 'always' sits right after it."),
+    (2, None, "'Did you take a good look at Armelle? She's going to be fantastic!' French uses a past form of looking for the first question. In the next sentence, going followed by being describes a future result. Audrey moves from what she saw to what she expects."),
+    (3, None, "'So you don't need money, after all.' French says 'have need of' for 'need'. The short linking sound before money belongs to that expression; it is not an article changed by the negative."),
+    (4, None, "'You have a horrible view of life. She moved me.' The last verb literally means 'touched', and takes a feminine ending because 'me' is Audrey."),
+    (5, None, "'It's not because of that! You don't want to leave your children.' French puts the negative around the action of wanting. The next action, leaving, keeps its basic form. You can reuse this pattern to say that you do not want to do something."),
+    (6, None, "'Nonsense!' Audrey uses a very common three-word expression that literally means 'no matter what', used whenever someone says something ridiculous."),
+    (7, None, "'Your children are going to grow up and leave.' The near future again: 'are going to' followed by two verbs."),
+    (8, None, "'I want to work, but they're small!' The plural word for 'they' refers back to her children. The describing word for 'small' has a plural written ending to match them."),
+    (9, None, "'They need me. So what do I do?' There's that 'have need of' expression again, this time in the third person plural."),
+    (10, None, "'Do I abandon them for six months a year? You didn't tell me about Canada!' French puts the word for them before the action of abandoning. The expression for six months a year gives a repeated yearly amount. The specific Canada shoot lasts one month."),
+    (11, None, "'I didn't know.' French uses this past form of knowing to describe what Mathias knew at the time. It describes his state of knowledge before this conversation. He is denying that he knew about the trip."),
+    (12, None, "'And it's impossible to work with a baby around all the time.' The description 'impossible' is followed by a linking word and the plain action 'work'. This is Audrey's objection to taking her baby everywhere."),
+    (13, None, "'You owe a lot of money in taxes.' French uses the same action word for owing money and having to do something. Here the money amount makes the meaning clear: Audrey owes a debt. When another action follows this word, it can express an obligation."),
+    (14, None, "'But I wish you good luck!' Mathias ends his own reminder about her tax debt with this sarcastic wish. The polite object means Audrey is the recipient; the feminine description matches luck."),
+    (15, None, "'Hello!' This everyday word is a greeting when you arrive or meet someone during the day. You can use it at an office, in a shop or when meeting a neighbour. Mathias uses it as he returns to the agency."),
+]

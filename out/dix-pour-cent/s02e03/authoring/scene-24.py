@@ -12,8 +12,8 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In the lounge of the laser game center, Gabriel spots musician and filmmaker Julien Dore looking anxious to leave. After Julien admits to a creative dispute, Gabriel pushes actress Sofia Leprince to seize the moment and introduce herself. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
-TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Despite her initial hesitation, Sofia gathers her courage to approach Julien Dore. Remember the colloquial French idiom for taking a chance: tenter le coup. See you next time!'
+TRANSITION = "Now let's listen to the whole exchange once more from beginning to end."
+OUTRO = 'Despite her initial hesitation, Sofia gathers her courage to approach Julien Dore. Notice how French uses a lively idiom about trying a blow when encouraging someone to take a chance. See you next time!'
 CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Salut Julien! Tu vas bien?', 'Hi Julien! Are you doing well?', [(622, '-Salut, Julien.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('sofia', "D'accord, je vais lui parler.", 'All right, I will talk to him.', [(640, "Ah, c'est super que tu sois venu.")], ''),
 ]
 WALK = [
-    (0, None, "'Hi Julien! Are you doing well?' Gabriel greets the visiting artist in the party lounge."),
-    (1, None, "'Can you find me a taxi?' Julien urgently asks for a ride away from the venue."),
-    (2, None, "'Is there a problem?' The agent senses that something went wrong with the project."),
-    (3, None, "'I argued with Charlotte.' The musician explains the artistic disagreement with his partner."),
-    (4, None, "'She does not understand the ending.' Julien feels misunderstood regarding the climax of his film."),
-    (5, None, "'I must go back to Paris.' Frustrated by the dispute, he decides to cut his visit short."),
-    (6, None, "'Sofia wants to do screen tests.' Gabriel seizes the opportunity to pitch his actress client."),
-    (7, None, "'We will see about that later.' Julien deflects the business pitch while in a hurry."),
-    (8, None, "'You are too pushy, Gabriel!' Sofia reproaches her agent for bringing up work at an awkward moment."),
-    (9, None, "'He is not interested.' She feels discouraged and doubts the singer has any interest in her."),
-    (10, None, "'Stop worrying like that.' Gabriel urges her not to let insecurity hold her back."),
-    (11, None, "'Julien is always very stressed.' The agent explains that creative people often experience intense anxiety."),
-    (12, None, "'You must give it a shot.' Gabriel encourages his client to take advantage of the opportunity."),
-    (13, None, "'All right, I will talk to him.' Sofia finally agrees to approach the artist directly. Now let's listen to the entire exchange once more from beginning to end."),
+    (0, None, "'Hi Julien! Are you doing well?' Asking 'you go well?' is the standard friendly check-in among friends in French, using 'go' instead of 'do'."),
+    (1, None, "'Can you find me a taxi?' Slipping 'for me' right ahead of 'to find' needs no 'for' in French—just a single two-letter object marker."),
+    (2, None, "'Is there a problem?' Keeping 'there is a problem' unchanged and lifting your pitch at the end is the fastest spoken way to ask if something is wrong in French."),
+    (3, None, "'I argued with Charlotte.' Adding 'myself' turns 'disputed' into an everyday reflexive expression meaning 'had a quarrel' or 'argued' in French."),
+    (4, None, "'She does not understand the ending.' Related to English 'comprehend', this core everyday action is the normal way to say 'understand' in French."),
+    (5, None, "'I must go back to Paris.' Built on 're-enter', the action after 'must' means 'go home' or 'head back' in French."),
+    (6, None, "'Sofia wants to do screen tests.' Literally 'tries'—and the source of English 'essay'—the final word means 'auditions' or 'screen tests' in cinema French."),
+    (7, None, "'We will see about that later.' Irregular future 'will see' needs no 'about' before 'that' in French, ending with 'more late' to mean 'later'."),
+    (8, None, "'You are too pushy, Gabriel!' Literally 'too heavy', calling someone 'heavy' in casual slang means they are being 'clumsy', 'annoying', or 'pushy' in French."),
+    (9, None, "'He is not interested.' Notice the double 's' inside the cognate 'interested', keeping a crisp 's' sound between vowels in French."),
+    (10, None, "'Stop worrying like that.' Unlike English '-ing', 'stop' links to 'worry yourself' with 'of' in French, closing with 'like that'."),
+    (11, None, "'Julien is always very stressed.' Putting 'always' right after 'is' matches English placement here, paired with the familiar cognate 'stressed'."),
+    (12, None, "'You must give it a shot.' Literally 'tempt the blow', this punchy three-word idiom is what you'd say to urge a friend to 'take a chance' or 'give it a shot'."),
+    (13, None, "'All right, I will talk to him.' Placing 'to him' ahead of 'to speak' needs no separate 'to' word in French—that three-letter marker covers 'to him' or 'to her'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'sacha': 'Sacha'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = 'In her office, Andréa meets with German film director Sacha Hartman, who is furious because he believes superstar Isabelle Adjani is ignoring him. Andréa decides to take control of the situation and calls Isabelle directly. Listen to the scene in French first.'
-OPENER = "Let's examine how Andréa calms down an angry film director."
-TRANSITION = "Now let's listen to the negotiation once more at normal pace."
-OUTRO = 'With a single phone call, Andréa fixes the misunderstanding and confirms the meeting with Isabelle Adjani. See you next time!'
+INTRO = 'In her office, Andrea meets with German film director Sacha Hartman, who is furious because he believes superstar Isabelle Adjani is ignoring him. Andrea decides to take control of the situation and calls Isabelle directly. Listen to the scene in French first.'
+OPENER = "Let's examine how Andrea calms down an angry film director."
+TRANSITION = "Now let's hear the negotiation once more at normal pace."
+OUTRO = 'With a single phone call, Andrea fixes the misunderstanding and confirms the meeting with Isabelle Adjani. See you next time!'
 CLOSING = ('sacha', 'Bonne journée!')
 STORY = [
     ('sacha', 'Comment ça, Isabelle est indisponible?', 'What do you mean, Isabelle is unavailable?', [(481, 'Comment ça, indisponible ?')], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('sacha', "D'accord, alors je serai là demain.", 'Alright, then I will be there tomorrow.', [(504, "D'accord, merci"), (511, 'Très bien')], ''),
 ]
 WALK = [
-    (0, None, "'What do you mean, Isabelle is unavailable?' Sacha reacts with disbelief and irritation."),
-    (1, None, "'She has a fashion show and costume fittings.' Andréa explains the packed schedule."),
-    (2, None, "'I stayed in Paris specially for her!' Sacha stresses his personal sacrifice."),
-    (3, None, "'She charms me, then she snubs me.' Sacha complains about erratic behavior."),
-    (4, None, "'Sacha, do not be so paranoid.' Andréa tries to calm his growing suspicion."),
-    (5, None, "'I do not need Adjani for my movie.' Sacha defensively claims he can manage without her."),
-    (6, None, "'There are other great actresses.' Sacha insists that alternatives exist."),
-    (7, None, "'Wait, I am going to call her right away.' Andréa takes matters into her own hands."),
-    (8, None, "'Hello Isabelle? It is Andréa Martel.' Andréa greets the star politely on the phone."),
-    (9, None, "'Sacha Hartman would really like to see you.' Andréa presents the director's interest smoothly."),
-    (10, None, "'Would you be free tomorrow morning at the office?' She suggests a convenient meeting time."),
-    (11, None, "'Perfect, see you tomorrow at eleven o'clock!' Andréa confirms the agreed time enthusiastically."),
-    (12, None, "'You see, Sacha? It is settled.' Andréa shows him that his fears were unfounded."),
-    (13, None, "'She really agreed to see me?' Sacha is pleasantly stunned by the outcome."),
-    (14, None, "'Yes, she has been trying to reach you for two days.' Andréa reveals Isabelle's true interest."),
-    (15, None, "'Alright, then I will be there tomorrow.' Sacha commits to attending the appointment. Now let's listen to the negotiation once more at normal pace."),
+    (0, None, "'What do you mean, Isabelle is unavailable?' Built word-for-word as 'how that?', those opening two words challenge surprising news just like 'what do you mean?' in English."),
+    (1, None, "'She has a fashion show and costume fittings.' Related to 'filing past' on a runway, the first item means 'fashion show', paired with a word built from 'try on'."),
+    (2, None, "'I stayed in Paris specially for her!' Watch two false friends in French: the action means 'stayed' rather than 'rested', and the word before 'for her' means 'on purpose'."),
+    (3, None, "'She charms me, then she snubs me.' French turns borrowed 'snob' into an everyday action meaning 'to snub', placing 'me' ahead of both actions."),
+    (4, None, "'Sacha, do not be so paranoid.' Wrapping the polite 'be' command in the negative softens Andrea's scolding, followed by 'so' before the cognate 'paranoid'."),
+    (5, None, "'I do not need Adjani for my movie.' Even in the negative, 'have need of' keeps its 'of' shortened before Adjani's vowel in French."),
+    (6, None, "'There are other great actresses.' Opening with a handy chunk meaning 'there are', French links 'others' using a shortened 'of' up front."),
+    (7, None, "'Wait, I am going to call her right away.' Notice 'her' shrinks to a single letter attached to 'call' rather than standing after it as in English."),
+    (8, None, "'Hello Isabelle? It is Andrea Martel.' That telephone-only greeting comes from 'halloo', and Andrea gives both her first name and surname for professional poise."),
+    (9, None, "'Sacha Hartman would really like to see you.' Placing 'a lot' right after 'would like' builds 'would really like', with polite 'you' tucked ahead of 'see'."),
+    (10, None, "'Would you be free tomorrow morning at the office?' Inverting 'would be' and polite 'you' sounds extra courteous, while 'tomorrow morning' needs no connector in French."),
+    (11, None, "'Perfect, see you tomorrow at eleven o'clock!' Clock times in French say 'at eleven hours', always keeping 'hours' where English uses 'o'clock'."),
+    (12, None, "'You see, Sacha? It is settled.' Related to a 'ruler' that straightens lines, that closing expression means 'sorted out' or 'settled'."),
+    (13, None, "'She really agreed to see me?' Agreeing 'to do' something takes 'of' after 'accepted' in French, with 'me' sitting right ahead of 'see'."),
+    (14, None, "'Yes, she has been trying to reach you for two days.' Present action plus 'since two days' expresses an effort still underway now, where English says 'has been trying'."),
+    (15, None, "'Alright, then I will be there tomorrow.' Pairing 'then' with one-word future 'will be' seals Sacha's promise cleanly in French."),
 ]

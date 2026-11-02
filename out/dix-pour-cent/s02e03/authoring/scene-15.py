@@ -10,9 +10,9 @@ PAIR = 'fr-en'
 LABELS = {'annick': 'Annick', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
-INTRO = 'At the agency, Noémie asked to join Camille for lunch, but Camille declined so she could spend time with her mother Annick. Now seated together at Le Grand Colbert restaurant, Annick frets over her appearance as they wait for Mathias. Listen to the scene in French first.'
+INTRO = 'At the agency, Noemie asked to join Camille for lunch, but Camille declined so she could spend time with her mother Annick. Now seated together at Le Grand Colbert restaurant, Annick frets over her appearance as they wait for Mathias. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
 OUTRO = 'Annick tries to mask her deep emotions behind small worries about hair and makeup, while Camille patiently stands by her side. See you next time!'
 CLOSING = ('annick', 'À bientôt!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('camille', 'Voilà, tu es très bien.', 'There, you look very nice.', [(404, 'Voilà')], ''),
 ]
 WALK = [
-    (0, None, "'I am having lunch with my mother at the Grand Colbert.' Camille shares her special lunch plans."),
-    (1, None, "'We need time alone together.' Mother and daughter cherish their rare reunion."),
-    (2, None, "'It has been ages since I saw her.' The idiom signifies a very long absence."),
-    (3, None, "'What time is he coming?' Annick checks the exact hour of Mathias's expected arrival."),
-    (4, None, "'Maybe he forgot.' Annick voices self-doubt about whether Mathias will show up."),
-    (5, None, "'Or he does not want to see me.' She worries about old wounds and unresolved tension."),
-    (6, None, "'He said he would come for coffee.' Camille reassures her mother about the agreed plan."),
-    (7, None, "'Okay, Mom?' Camille uses a gentle prompt to calm her mother's rising anxiety."),
-    (8, None, "'I have not done my roots.' Annick fusses over her hair color before seeing him."),
-    (9, None, "'You do not have a single white hair.' Camille inspects her mother with reassuring eyes."),
-    (10, None, "'This is not a romantic date.' Annick pretends indifference despite her visible nervousness."),
-    (11, None, "'It has been eight years!' She emphasizes the long passage of time since they last met."),
-    (12, None, "'This is a great product.' Camille fixes her mother's hair with a cosmetic spray."),
-    (13, None, "'There, you look very nice.' Camille offers heartfelt encouragement before Mathias arrives. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'I am having lunch with my mother at the Grand Colbert.' Used as a meal rather than an action here, 'a lunch' pairs with 'I have', followed by 'at the' contracted into one word."),
+    (1, None, "'We need time alone together.' Literally 'alone all the two', the closing expression specifies 'just the two of us women', adding '-e' before '-s' to match mother and daughter."),
+    (2, None, "'It has been ages since I saw her.' Literally 'that makes an eternity that', this vivid frame expresses how long it has been since something last happened in French."),
+    (3, None, "'What time is he coming?' Asking 'he arrives at which hour?' tucks the time question neatly at the end, using present 'arrives' for a scheduled plan in French."),
+    (4, None, "'Maybe he forgot.' Built word-for-word as 'can-be', the hyphenated chunk meaning 'maybe' slides right between 'has' and 'forgotten' in French."),
+    (5, None, "'Or he does not want to see me.' Notice 'me' sits right before 'to see' rather than before 'wants', staying attached to the action it belongs to."),
+    (6, None, "'He said he would come for coffee.' Adding the '-rait' ending onto the 'come' stem builds 'would come', linked by a mandatory 'that' after 'he said' in French."),
+    (7, None, "'Okay, Mom?' Used with rising pitch at the end of a reassurance, 'of agreement?' works just like 'okay?' in English."),
+    (8, None, "'I have not done my roots.' Salon talk uses 'done my roots' word-for-word the same way in French and English, built on a cousin of 'radish' meaning 'roots'."),
+    (9, None, "'You do not have a single white hair.' Unlike collective 'hair' in English, French counts one individual strand here—literally 'not a single hair white', with the color after."),
+    (10, None, "'This is not a romantic date.' Relaxed speech drops the first negative piece before 'is' in French, while adding 'gallant' turns 'appointment' into a 'romantic date'."),
+    (11, None, "'It has been eight years!' Literally 'that makes eight years', this handy starter is the quickest way to state duration up to the present in French."),
+    (12, None, "'This is a great product.' Pairing 'super' with a cognate of 'product' gives you an effortless everyday compliment for cosmetics or gear in French."),
+    (13, None, "'There, you look very nice.' Saying someone 'is very well' is an idiomatic compliment meaning 'you look great' or 'you look just right' in French."),
 ]

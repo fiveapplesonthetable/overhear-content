@@ -14,7 +14,7 @@ INTRO = ('Andrea goes to the tax office to see Clement, an ex-boyfriend she has 
  'position there can help her agency through a difficult audit. He quickly realises that she wants a favour, '
  'and starts negotiating a few cinema privileges. Listen to their conversation in French.')
 OPENER = "Let's walk through it together. Andréa walks into Clément's office with her warmest smile."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'Andréa has her deal: one week of being polite to Colette Brancillon, and the audit problem should vanish. See you next time!'
 CLOSING = ('andrea', 'À bientôt!')
 STORY = [('andrea',
@@ -99,7 +99,7 @@ WALK = [
     (0, None, "'Clément, it's nice to see you.' Literally 'it makes pleasure to see you', a very common, warm greeting."),
     (1, None, "'Andréa. How long has it been? Ten years?' That same 'it makes' expression is how French asks how long something has been going on."),
     (2, "Alors, c'est pour quoi?", "'So, what is it for?' Clément skips the small talk; he knows she hasn't come just to say hello."),
-    (2, 'Un contrôle fiscal?', "'A tax audit?' In French the describing word for 'tax' comes right after the word for 'check' or 'audit'."),
+    (2, 'Un contrôle fiscal?', "'A tax audit?' In French the describing word for 'tax' comes right after French's word for 'check' or 'audit'."),
     (3, None, "'Not me, my agency. I'm an agent now.' Notice the masculine possessive word before 'agency' because 'agency' begins with a vowel."),
     (4, None, "'Who is doing the audit?' Short and direct: the question word for 'who' followed by the action word 'does'."),
     (5, None, "'A woman. Colette Brancillon.' Remember that name; we're going to meet her very soon."),
@@ -110,8 +110,8 @@ WALK = [
     (9, None, "'I'm listening.' Literally 'I listen to you', with the object word shortened before a vowel."),
     (10, None, "'Invitations to Cannes, and a room at the Carlton.' The grand hotel on the seafront during the film festival."),
     (11, None, "'A suite?' Clément knows how to negotiate."),
-    (12, None, "'Come on, Clément! I just want a favour from an old friend.' The word for 'old' takes a special masculine form before a noun starting with a vowel."),
-    (13, None, "'An old friend? You broke up with me by text!' Past tense with 'have', and the word for 'me' shortened before the verb. Clément hasn't forgotten."),
+    (12, None, "'Come on, Clément! I just want a favour from an old friend.' The everyday word for 'old' takes a special masculine form before a noun starting with a vowel."),
+    (13, None, "'An old friend? You broke up with me by text!' Past tense with 'have', and that word meaning 'me' shortened before the verb. Clément hasn't forgotten."),
     (14, None, "'Goodbye, Andréa. And good luck with the audit.' He stands up to show her the door."),
     (15, None, "'Wait, Clément! Okay for the suite.' Andréa gives in immediately."),
     (16, None, "'And an invitation to the Césars. Give me a week.' He adds one more prize to the deal, and asks for seven days."),

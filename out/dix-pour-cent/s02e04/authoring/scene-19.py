@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = "In Gabriel's office, Sofia waits anxiously for news about her audition songs for Julien Doré's upcoming movie. A text message arrives from the famous singer, bringing an unexpected and life-changing opportunity. Listen to the scene in French first."
+INTRO = "In Gabriel's office, Sofia waits anxiously for news about her audition songs for Julien Dore's upcoming movie. A text message arrives from the famous singer, bringing an unexpected and life-changing opportunity. Listen to the scene in French first."
 OPENER = "Let's examine how Gabriel shares the big news with Sofia."
-TRANSITION = "Now let's listen to the joyful conversation once more at full speed."
-OUTRO = "Sofia's musical audition turns into the role of a lifetime in Julien Doré's upcoming movie. Listen to the wonderful conversation once more in French. See you next time!"
+TRANSITION = "Now let's hear the joyful conversation once more at full speed."
+OUTRO = "Sofia's musical audition turns into the role of a lifetime in Julien Dore's upcoming movie. See you next time!"
 CLOSING = ('sofia', 'À bientôt!')
 STORY = [
     ('gabriel', "J'ai reçu un message de Julien Doré.", 'I received a message from Julien Doré.', [(516, "C'est Julien")], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('sofia', 'Gabriel, nous devons fêter cette nouvelle!', 'Gabriel, we must celebrate this news!', [(560, "Tu sais qu'il veut que tu joues le rôle principal dans son film ?")], ''),
 ]
 WALK = [
-    (0, None, "'I received a message from Julien Doré.' Gabriel announces the unexpected text."),
-    (1, None, "'What does he say in his message?' Sofia inquires eagerly."),
-    (2, None, "'He thinks that the songs are not suitable.' Gabriel shares the initial disappointment."),
-    (3, None, "'That is a pity, I really liked this project.' Sofia expresses her regret."),
-    (4, None, "'Wait, there is a second sentence!' Gabriel reads further with surprise."),
-    (5, None, "'He wants you to act in his movie.' Gabriel announces the sudden proposal."),
-    (6, None, "'He wants me to be the lead actress?' Sofia is astonished by the opportunity."),
-    (7, None, "'Yes, and that you compose the music too.' Gabriel mentions the soundtrack request."),
-    (8, None, "'But Charlotte Le Bon was supposed to have this role!' Sofia remembers the original casting choice."),
-    (9, None, "'I will call him to check this proposal.' Gabriel seeks immediate clarification."),
-    (10, None, "'Julien confirms to me that the role is for you.' Gabriel delivers the definitive confirmation."),
-    (11, None, "'He says that you have immense talent.' Here, Julien's praise is relayed enthusiastically."),
-    (12, None, "'It is an incredible opportunity for my career.' Sofia realizes the significance of this break."),
-    (13, None, "'You worked hard to get here.' Gabriel acknowledges her dedication and perseverance."),
-    (14, None, "'You fully deserve this lead role.' Gabriel offers heartfelt encouragement."),
-    (15, None, "'Gabriel, we must celebrate this news!' Sofia is ready to celebrate the achievement. Now let's listen to the joyful conversation once more at full speed."),
+    (0, None, "'I received a message from Julien Dore.' Notice the link word before Julien's name can mean both 'of' and 'from' in French depending on context."),
+    (1, None, "'What does he say in his message?' French uses present 'he says' without any helper word like English 'does' after the question starter."),
+    (2, None, "'He thinks that the songs are not suitable.' Related to 'convenient', that action in French means 'suit' or 'fit well' rather than 'handy nearby'."),
+    (3, None, "'That is a pity, I really liked this project.' Placing 'a lot' right after 'liked' expresses 'really liked' in French — never ahead of the action as in English."),
+    (4, None, "'Wait, there is a second sentence!' Watch out for a classic false friend: that final word looks like 'phrase', yet in French it means a full 'sentence'."),
+    (5, None, "'He wants you to act in his movie.' Where English says 'wants you to play', French builds 'wants that you play', and 'play' covers acting in movies too."),
+    (6, None, "'He wants me to be the lead actress?' After 'wants that I', 'be' shifts into a special wish form in French, followed by 'actress principal'."),
+    (7, None, "'Yes, and that you compose the music too.' Repeating 'that' extends 'he wants' across a second clause in French, never leaving 'that' implied."),
+    (8, None, "'But Charlotte Le Bon was supposed to have this role!' Ongoing past 'owed' or 'had to' translates smoothly as 'was supposed to' when plans change in French."),
+    (9, None, "'I will call him to check this proposal.' Putting 'for' directly ahead of 'verify' expresses 'in order to check' cleanly in French."),
+    (10, None, "'Julien confirms to me that the role is for you.' Notice 'to me' tucks ahead of 'confirms' in French without needing a separate word meaning 'to'."),
+    (11, None, "'He says that you have immense talent.' Unlike English uncountable 'immense talent', French counts 'an immense talent' with 'a' up front."),
+    (12, None, "'It is an incredible opportunity for my career.' Built from 'un-' and 'believable', that vivid word follows the cognate 'opportunity' in French."),
+    (13, None, "'You worked hard to get here.' Using 'hard' unchanged right after 'worked' builds 'worked hard' word-for-word, followed by 'arrive here' for 'get here'."),
+    (14, None, "'You fully deserve this lead role.' Translated word-for-word as 'first role', French calls the starring part 'the first role' rather than 'the lead role'."),
+    (15, None, "'Gabriel, we must celebrate this news!' Built on the word meaning 'party' or 'feast', that action packs 'celebrate' into one joyful word in French."),
 ]

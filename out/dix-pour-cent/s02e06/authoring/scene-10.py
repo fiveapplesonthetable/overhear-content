@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'renard': 'Renard'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = "Outside Juliette Binoche's hotel room in Cannes, Andréa encounters an unyielding private security guard. Tasked with protecting multi-million euro festival jewels, the guard refuses to let anyone pass without strict clearance. Let's listen to the scene in French first."
+INTRO = "Outside Juliette Binoche's hotel room in Cannes, Andrea encounters an unyielding private security guard. Tasked with protecting multi-million euro festival jewels, the guard refuses to let anyone pass without strict clearance. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Andréa encounters rigorous security outside Juliette Binoche's suite. After radioing for clearance, the taciturn bodyguard Renard grants Andréa access to her star. See you next time!"
+TRANSITION = "Now let's listen to the whole dialogue once more to lock in what you have learned."
+OUTRO = "Andrea encounters rigorous security outside Juliette Binoche's suite. After radioing for clearance, the taciturn bodyguard Renard grants Andrea access to her star. See you next time!"
 CLOSING = ('renard', 'Bonne soirée!')
 STORY = [
     ('andrea', "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.", 'I deduce that the Chopard jewelry has arrived. Hello.', [(213, "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.")], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('renard', 'Bonne journée, madame.', 'Have a good day, madam.', [(217, 'madame ?')], ''),
 ]
 WALK = [
-    (0, None, "'I deduce that the Chopard jewelry has arrived. Hello.' Andrea remarks on the imposing security guard."),
-    (1, None, "'Who are you, madam?' Renard demands formal identification."),
-    (2, None, "'Andréa Martel, Juliette Binoche's agent.' Andrea introduces herself with authority."),
-    (3, None, "'You must wait here, madam.' Renard blocks the entrance impassively."),
-    (4, None, "'Aren't you the jewelry bodyguard?' Andrea quips about his defensive presence."),
-    (5, None, "'I protect the security of the room.' Renard defines his strict protective mission."),
-    (6, None, "'What then? Counter-terrorism?' Andréa teases him about his secretive behavior."),
-    (7, None, "'Renard here. I have a certain Martel at room 403.' Renard radios his central command."),
-    (8, None, "'A certain Martel? I am her exclusive agent!' Andrea bristles at being treated like a stranger."),
-    (9, None, "'I am checking the authorizations.' Renard follows protocol without emotion."),
-    (10, None, "'Do not put your big paws everywhere.' Andrea snaps into her phone while waiting."),
-    (11, None, "'Not you, of course.' Andrea quickly clarifies her phone insult to the guard."),
-    (12, None, "'Okay, I understand.' Renard receives confirmation on his radio."),
-    (13, None, "'It is all right, you can go in.' Renard steps aside to permit entry."),
-    (14, None, "'Thank you very much, Renard.' Andrea acknowledges the bodyguard with cool irony."),
-    (15, None, "'Have a good day, madam.' Renard concludes the exchange with professional courtesy. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'I deduce that the Chopard jewelry has arrived. Hello.' Putting a tiny stand-in that means 'from it' before 'deduce' gives Andrea's opening remark its brisk flair in French."),
+    (1, None, "'Who are you, madam?' Inverted 'are-you' with formal 'you' and 'madam' establishes Renard's stiff, textbook security-guard register."),
+    (2, None, "'Andrea Martel, Juliette Binoche's agent.' French has no apostrophe-s possessive, so 'Juliette's agent' must always be built as 'the agent of Juliette.'"),
+    (3, None, "'You must wait here, madam.' Polite 'you' plus 'must' states a firm rule without needing any preposition between 'wait' and 'here.'"),
+    (4, None, "'Aren't you the jewelry bodyguard?' Literally 'guard of the body of the jewels,' French spells out 'bodyguard' as a three-word phrase."),
+    (5, None, "'I protect the security of the room.' Look out for a hotel false friend: in French, 'chamber' is simply the standard everyday term for a hotel room or bedroom."),
+    (6, None, "'What then? Counter-terrorism?' Pairing 'what' with 'then' makes a punchy two-word comeback—closer to 'what is it then?' in English."),
+    (7, None, "'Renard here. I have a certain Martel at room 403.' Over a radio, French starts with 'here Renard' rather than 'Renard here,' and 'a certain' before a surname sounds delightfully dismissive!"),
+    (8, None, "'A certain Martel? I am her exclusive agent!' Repeating his slight in disbelief, Andrea puts 'exclusive' after 'agent' in French for outraged emphasis."),
+    (9, None, "'I am checking the authorizations.' Simple present 'I check' covers 'I am checking right now'—French has no separate '-ing' present construction."),
+    (10, None, "'Do not put your big paws everywhere.' Calling someone's clumsy hands 'big paws' works as the exact same colorful scolding in French and English!"),
+    (11, None, "'Not you, of course.' Literally 'well sure,' those final two words are the go-to French expression for 'of course.'"),
+    (12, None, "'Okay, I understand.' Where English says 'I understand' in the present, French often reaches for 'I have understood' once a message clicks."),
+    (13, None, "'It is all right, you can go in.' Opening with 'it is good' is a super-handy green light you'll hear from guards, waiters, and cashiers alike."),
+    (14, None, "'Thank you very much, Renard.' Here is a fun surname detail: Renard's family name is also the ordinary French noun meaning 'fox.'"),
+    (15, None, "'Have a good day, madam.' Dropping 'have a' in French, Renard wishes her 'good daytime'—focusing on the whole span of the day ahead."),
 ]

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Now Gabriel comes out to reception with Hervé: a casting director, Caroline Braudel, has chosen two photos from the agency's envelope, and one of them is Sofia, the receptionist. We'll hear it in French first; don't worry about catching every word."
 OPENER = "Let's go back through the argument. Gabriel holds up the envelope of actors' photos in front of Sofia."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "Sofia has wrung a promise out of Gabriel at last, and now he has Laura Smet on the line. Listen out for how the word for 'nobody' works without the second negative word. See you next time!"
 CLOSING = ('sofia', 'Bonne soirée!')
 STORY = [('gabriel',
@@ -91,67 +91,22 @@ STORY = [('gabriel',
   "An agent's promise! Yes, Laura, I'm with you.",
   [(195, "Promesse d'agent !"), (196, 'Oui, Laura'), (197, 'Je suis'), (197, 'à toi')],
   '')]
-WALK = [(0,
-  None,
-  "'Sofia, did you put your photo in this envelope?' The everyday past of 'to put' uses a short past form "
-  "after 'have'."),
- (1,
-  None,
-  "'Yes! And she wants me for the casting!' The short object word meaning 'me' comes before 'wants'. Sofia "
-  'makes herself the centre of the sentence: the casting director picked her.'),
- (2,
-  None,
-  "'No, Sofia! You're not with our agency.' Literally 'in our agency'. Sofia works on the front desk, not as "
-  'one of their clients.'),
- (3,
-  None,
-  "'And I don't know if you can act.' Notice the same action word, 'to know', used twice: first 'know a "
-  "fact', then 'know how to act'."),
- (4,
-  None,
-  "'You don't know? Then come and see my show!' This command 'come' is followed straight by 'to see', with "
-  'no little word in between.'),
- (5,
-  None,
-  "'Nobody offers me auditions!' With the word for 'nobody' at the start, French doesn't use the usual "
-  'second negative word.'),
- (6,
-  None,
-  "'But here, you stole this audition!' The action word 'to steal' in the everyday past. Sofia objects to "
-  'the word.'),
- (7,
-  None,
-  "'No, I just added my photo, that's all.' The two words at the end literally say 'it is all', a very "
-  'common way to finish an excuse.'),
- (8,
-  None,
-  "'Does she want to see me? Does she like my look?' Both questions keep the same word order as statements. "
-  "A rising voice makes them questions, and the object 'me' goes before the action."),
- (9,
-  'Calme-toi, Sofia!',
-  "'Calm down, Sofia!' Literally 'calm yourself'. Then Gabriel's phone rings: it's Laura Smet."),
- (9,
-  'Allô, Laura?',
-  "'Hello, Laura?' That opening greeting is used only on the telephone. Sofia doesn't care that he's on a "
-  'call.'),
- (10,
-  None,
-  "'Gabriel, we're talking! I invited everyone to my show.' The three-word expression for 'everyone' "
-  "literally says 'all the world'. It includes all her colleagues, even though none of them came."),
- (11, None, "'And nobody came!' The verb 'to come' makes its past tense with 'is' rather than 'has'."),
- (12,
-  None,
-  "'One second, Laura, please.' He uses the casual 'please' with his client Laura, then turns back to Sofia "
-  'to get some peace.'),
- (13,
-  None,
-  "'That's enough! I'll come and see your show, okay?' The first two words mean 'it suffices', and then he "
-  "uses the future tense of 'to come'."),
- (14,
-  None,
-  "'You'll come and see me? Thank you!' Sofia lights up at once, using the present tense for the near "
-  'future.'),
- (15,
-  None,
-  "'An agent's promise! Yes, Laura, I'm with you.' Literally 'promise of agent', without an article, and "
-  "then 'I am to you' as he goes back to his phone call. Let's listen to the whole scene once more.")]
+WALK = [
+    (0, None, "'Sofia, did you put your photo in this envelope?' The everyday past of 'to put' uses a short past form after 'have'."),
+    (1, None, "'Yes! And she wants me for the casting!' The short object word meaning 'me' comes before 'wants'. Sofia makes herself the centre of the sentence: the casting director picked her."),
+    (2, None, "'No, Sofia! You're not with our agency.' Literally 'in our agency'. Sofia works on the front desk, not as one of their clients."),
+    (3, None, "'And I don't know if you can act.' Notice the same action word, 'to know', used twice: first 'know a fact', then 'know how to act'."),
+    (4, None, "'You don't know? Then come and see my show!' This command 'come' is followed straight by 'to see', with no little word in between."),
+    (5, None, "'Nobody offers me auditions!' With a short word for 'nobody' at the start, French doesn't use the usual second negative word."),
+    (6, None, "'But here, you stole this audition!' The action word 'to steal' in the everyday past. Sofia objects to the word."),
+    (7, None, "'No, I just added my photo, that's all.' The two words at the end literally say 'it is all', a very common way to finish an excuse."),
+    (8, None, "'Does she want to see me? Does she like my look?' Both questions keep the same word order as statements. A rising voice makes them questions, and the object 'me' goes before the action."),
+    (9, 'Calme-toi, Sofia!', "'Calm down, Sofia!' Literally 'calm yourself'. Then Gabriel's phone rings: it's Laura Smet."),
+    (9, 'Allô, Laura?', "'Hello, Laura?' That opening greeting is used only on the telephone. Sofia doesn't care that he's on a call."),
+    (10, None, "'Gabriel, we're talking! I invited everyone to my show.' The three-word expression for 'everyone' literally says 'all the world'. It includes all her colleagues, even though none of them came."),
+    (11, None, "'And nobody came!' The verb 'to come' makes its past tense with 'is' rather than 'has'."),
+    (12, None, "'One second, Laura, please.' He uses the casual 'please' with his client Laura, then turns back to Sofia to get some peace."),
+    (13, None, "'That's enough! I'll come and see your show, okay?' The first two words mean 'it suffices', and then he uses the future tense of 'to come'."),
+    (14, None, "'You'll come and see me? Thank you!' Sofia lights up at once, using the present tense for the near future."),
+    (15, None, "'An agent's promise! Yes, Laura, I'm with you.' Literally 'promise of agent', without an article, and then 'I am to you' as he goes back to his phone call."),
+]

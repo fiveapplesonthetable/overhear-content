@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'catherine': 'Catherine', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
-INTRO = "At the agency, Noémie receives a shock when Mathias's estranged wife Catherine arrives asking to see her. Terrified that Catherine has discovered their secret affair, Noémie scrambles for an excuse to flee the office. Listen to the scene in French first."
-OPENER = "Let's examine how Noémie scrambles to hide her secret affair with Mathias."
-TRANSITION = "Now let's listen to the awkward confrontation once more at normal pace."
-OUTRO = "Trapped by her own excuse, Noémie now has to escort Mathias's wife to the very restaurant where Mathias's secret daughter and former lover are waiting. Listen to the entire conversation once more in French. See you next time!"
+INTRO = "At the agency, Noemie receives a shock when Mathias's estranged wife Catherine arrives asking to see her. Terrified that Catherine has discovered their secret affair, Noemie scrambles for an excuse to flee the office. Listen to the scene in French first."
+OPENER = "Let's examine how Noemie scrambles to hide her secret affair with Mathias."
+TRANSITION = "Now let's hear the awkward confrontation once more at normal pace."
+OUTRO = "Trapped by her own excuse, Noemie now has to escort Mathias's wife to the very restaurant where Mathias's secret daughter and former lover are waiting. Listen to the entire conversation once more in French. See you next time!"
 CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('noemie', 'Catherine Barneville veut me voir?', 'Catherine Barneville wants to see me?', [(423, 'Noémie, Catherine Barneville pour vous voir'), (424, 'Vraiment')], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('noemie', "D'accord... allons-y ensemble.", "All right... let's go together.", [(445, 'Fermeture des portes')], ''),
 ]
 WALK = [
-    (0, None, "'Catherine Barneville wants to see me?' Noémie asks in pure panic."),
-    (1, None, "'Tell her that Mathias went out.' Noémie desperately tries to avoid the encounter."),
-    (2, None, "'Say that I have urgent work.' She fabricates a quick excuse."),
-    (3, None, "'Mathias? It's Noémie.' She immediately dials Mathias's voicemail."),
-    (4, None, "'Your wife is here at the agency!' Noémie warns him frantically."),
-    (5, None, "'Does she know about us?' She fears their secret affair is exposed."),
-    (6, None, "'I don't know what to do, call me back!' She pleads into the receiver."),
-    (7, None, "'Hello, Noémie.' Catherine steps into the doorway calmly."),
-    (8, None, "'Hello Catherine. Sorry, I have to leave.' Noémie tries to slip past her."),
-    (9, None, "'Wait, it's about Mathias.' Catherine blocks her path politely."),
-    (10, None, "'I am running very late.' Noémie insists on her departure."),
-    (11, None, "'I'm having lunch with Camille and her mother.' She blurts out her destination."),
-    (12, None, "'Camille and her mother?' Catherine raises an eyebrow with curiosity."),
-    (13, None, "'I need to eat a steak tartare.' Catherine decides she is hungry too."),
-    (14, None, "'I'm coming with you!' Catherine invites herself along without hesitation."),
-    (15, None, "'All right... let's go together.' Noémie realizes she is completely trapped. Now let's listen to the awkward confrontation once more at normal pace."),
+    (0, None, "'Catherine Barneville wants to see me?' Notice 'me' sits before 'to see' rather than after 'wants', turning surprise into a question through pitch alone."),
+    (1, None, "'Tell her that Mathias went out.' Joining 'to her' with a hyphen onto polite 'tell' covers both 'tell him' and 'tell her'—context tells you which one in French."),
+    (2, None, "'Say that I have urgent work.' Uncountable 'work' in English becomes 'an urgent job' here, with the cognate 'urgent' following 'work' in French."),
+    (3, None, "'Mathias? It's Noemie.' Phone callers in French identify themselves with 'it is' plus their name rather than 'this is'."),
+    (4, None, "'Your wife is here at the agency!' One everyday French word covers both 'woman' and 'wife'; pairing it with 'your' makes 'your wife' unmistakable."),
+    (5, None, "'Does she know about us?' Literally 'at the current', this handy idiom means 'in the loop' or 'informed about something' in French."),
+    (6, None, "'I don't know what to do, call me back!' After 'know not', speakers switch to stressed 'what' before 'to do' in French, then tuck 'me' onto 'call back' with a hyphen."),
+    (7, None, "'Hello, Noemie.' Addressing Mathias's assistant by her first name after a calm 'good day' sounds polite on the surface yet pointed in French."),
+    (8, None, "'Hello Catherine. Sorry, I have to leave.' Clipped down to a single word, 'sorry' gains a silent '-e' in writing for Noemie, followed by 'I must leave' in French."),
+    (9, None, "'Wait, it's about Mathias.' Built around a cognate of 'purpose', that three-word connector means 'about' or 'concerning' in French."),
+    (10, None, "'I am running very late.' Sliding 'very' right ahead of the 'in delay' chunk intensifies 'I am late' without needing 'running' in French."),
+    (11, None, "'I'm having lunch with Camille and her mother.' Simple present 'I lunch' covers an imminent plan just like 'I'm having lunch' in English, while 'her' matches 'mother'."),
+    (12, None, "'Camille and her mother?' Echoing those four words with rising pitch asks for confirmation, while 'his' and 'her' share the exact same form before 'mother' in French."),
+    (13, None, "'I need to eat a steak tartare.' Famous bistro classic 'steak tartare' puts 'tartare' after 'steak' in French, introduced by 'have need of' plus 'to eat'."),
+    (14, None, "'I'm coming with you!' Using present 'I come' for an on-the-spot decision sounds immediate and unstoppable in French, paired with stressed 'you' after 'with'."),
+    (15, None, "'All right... let's go together.' Adding '-y'—meaning 'there'—onto 'let us go' gives you a handy chunk you'll hear everywhere for 'let's go!'."),
 ]

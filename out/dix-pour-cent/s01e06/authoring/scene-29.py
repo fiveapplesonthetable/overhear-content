@@ -70,51 +70,17 @@ STORY = [('andrea',
   'It is difficult to mix work and love.',
   [(760, 'mélanger le travail et les sentiments'), (762, 'Surtout avec mes clients')],
   '')]
-WALK = [(0,
-  None,
-  "'I can give you more than my body.' The first action means 'can'. The comparison after 'give you' means 'more "
-  "than', contrasting a complete emotional commitment with only giving his or her body."),
- (1,
-  None,
-  "'I can also give you all my heart.' The short word after 'can' means 'also'. The final words mean 'all my heart', "
-  "Andréa's promise of more than physical attraction."),
- (2,
-  None,
-  "'I know that I'm not very good at it.' The feminine word for skilled describes Andréa. The negative with 'very' "
-  'admits she is not especially good at handling the emotional side of a relationship.'),
- (3,
-  None,
-  "'It's because I am afraid.' The middle words mean 'because'. French expresses fear with 'have', so the final part "
-  'literally says she has fear.'),
- (4,
-  None,
-  "'But I want to learn.' The first word means 'but'. The two actions after it mean 'want' and 'learn', presenting a "
-  'wish to change rather than a claim she already knows how.'),
- (5,
-  None,
-  "'I am not strong enough to teach you, Andréa.' The word for 'enough' comes before the feminine description "
-  "'strong'. The attached object in 'teach' means 'you': Colette says she cannot take on that task."),
- (6,
-  None,
-  "'No, I want to learn from you. From you and from no one else.' The action 'learn' is followed by 'from you'. The "
-  'rest excludes everyone else, emphasizing the particular person Andréa wants to learn from.'),
- (7,
-  None,
-  "'Take care of yourself, Andréa.' The command to take is followed by the word for care. The final stressed "
-  "'yourself' makes this a warm farewell: take care of yourself."),
- (8,
-  None,
-  "'Why do you say that? You kiss me and you leave?' The first question asks why Colette says that. The next "
-  'statement-shaped question contrasts kissing her with immediately going away.'),
- (9,
-  None,
-  "'I am not going to marry her. She prefers women.' The short object before the marrying action means 'her', Andréa. "
-  'Gabriel then says she prefers women, giving his first reason not to marry her.'),
- (10,
-  None,
-  "'Second, because she is my colleague and my friend.' The beginning introduces his second reason. The possessive is "
-  'repeated before colleague and friend, naming both parts of their relationship.'),
- (11,
-  None,
-  "'It is difficult to mix work and love.' The action after 'difficult' means mixing. Two things follow it: work and "
-  'love. Gabriel is explaining a boundary to Sofia, who is listening.')]
+WALK = [
+    (0, None, "'I can give you more than my body.' The first action means 'can'. The comparison after 'give you' means 'more than', contrasting a complete emotional commitment with only giving her body."),
+    (1, None, "'I can also give you all my heart.' The short word after 'can' means 'also'. The final words mean 'all my heart', Andréa's promise of more than physical attraction."),
+    (2, None, "'I know that I'm not very good at it.' The feminine word for skilled describes Andréa. The negative with 'very' admits she is not especially good at handling the emotional side of a relationship."),
+    (3, None, "'It's because I am afraid.' The middle words mean 'because'. French expresses fear with 'have', so the final part literally says she has fear."),
+    (4, None, "'But I want to learn.' The first word means 'but'. The two actions after it mean 'want' and 'learn', presenting a wish to change rather than a claim she already knows how."),
+    (5, None, "'I am not strong enough to teach you, Andréa.' The French word for 'enough' comes before the feminine description 'strong'. The attached object in 'teach' means 'you': Colette says she cannot take on that task."),
+    (6, None, "'No, I want to learn from you. From you and from no one else.' The action 'learn' is followed by 'from you'. The rest excludes everyone else, emphasizing the particular person Andréa wants to learn from."),
+    (7, None, "'Take care of yourself, Andréa.' The command to take is followed by the word for care. The final stressed 'yourself' makes this a warm farewell: take care of yourself."),
+    (8, None, "'Why do you say that? You kiss me and you leave?' The first question asks why Colette says that. The next statement-shaped question contrasts kissing her with immediately going away."),
+    (9, None, "'I am not going to marry her. She prefers women.' The short object before the marrying action means 'her', Andréa. Gabriel then says she prefers women, giving his first reason not to marry her."),
+    (10, None, "'Second, because she is my colleague and my friend.' The beginning introduces his second reason. The possessive is repeated before colleague and friend, naming both parts of their relationship."),
+    (11, None, "'It is difficult to mix work and love.' The action after 'difficult' means mixing. Two things follow it: work and love. Gabriel is explaining a boundary to Sofia, who is listening."),
+]

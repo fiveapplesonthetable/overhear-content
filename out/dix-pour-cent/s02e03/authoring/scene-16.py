@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'At Le Grand Colbert restaurant, Mathias finally arrives to meet Annick and their daughter Camille. Years of estrangement create palpable tension as the former couple exchange polite pleasantries and order drinks. Listen to the conversation in French first.'
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
 OUTRO = 'Mathias and Annick attempt to bridge eight years of distance over coffee and wine, under the watchful gaze of their daughter Camille. Listen to the French conversation one more time. See you next time!'
 CLOSING = ('annick', 'Au revoir!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('mathias', 'Mieux vaut tard que jamais.', 'Better late than never.', [(422, 'Mieux vaut tard que jamais')], ''),
 ]
 WALK = [
-    (0, None, "'I need a drink. Waiter!' Annick signals the server to cope with her nerves."),
-    (1, None, "'Look Mom, he is here.' Camille spots her father entering the brasserie."),
-    (2, None, "'He has not changed.' Annick observes Mathias with quiet surprise after eight years."),
-    (3, None, "'Neither have you.' Camille offers an encouraging compliment to her mother."),
-    (4, None, "'Hello Annick. Hello Camille.' Mathias greets them with formal reserve."),
-    (5, None, "'Hello Mathias.' Annick responds cautiously while keeping a polite distance."),
-    (6, None, "'Are you not going to shake hands?' Camille points out their stiff physical hesitation."),
-    (7, None, "'No, of course not.' Mathias declines the cold corporate gesture between past lovers."),
-    (8, None, "'Sit down, Mathias.' Annick invites him to join them at the table."),
-    (9, None, "'An important man must be in a hurry.' She uses gentle irony about his busy life."),
-    (10, None, "'Oh, you know...' Mathias deflects the remark with understated modesty."),
-    (11, None, "'Just a coffee, please.' Mathias orders a quick hot beverage from the waiter."),
-    (12, None, "'And a glass of red wine for me.' Annick chooses wine to steady her emotions."),
-    (13, None, "'I will take care of it.' Mathias offers to cover the order."),
-    (14, None, "'You take care of everything, always.' Annick evokes his habitual need for control."),
-    (15, None, "'Better late than never.' Mathias acknowledges their belated family reunion. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'I need a drink. Waiter!' Ordering 'a glass' means 'a drink' in French, followed by a classic brasserie call that literally means 'boy!' for a waiter."),
+    (1, None, "'Look Mom, he is here.' Dropping the final '-s' on 'look' marks a casual command to one person, while the closing pointer covers both 'here' and 'there' in French."),
+    (2, None, "'He has not changed.' Wrapping 'has' inside the negative frame while leaving 'changed' outside is standard past order in French."),
+    (3, None, "'Neither have you.' Literally 'you no more', this compact three-word expression is how you say 'neither do you' or 'me neither' after any negative remark."),
+    (4, None, "'Hello Annick. Hello Camille.' Repeating 'good day' before each person's first name individually is considered warm, attentive manners in French."),
+    (5, None, "'Hello Mathias.' Answering with the same polite 'good day' plus his first name keeps the greeting balanced without revealing too much warmth in French."),
+    (6, None, "'Are you not going to shake hands?' Literally 'squeeze each other the hand', French uses 'the hand' in the singular where English says 'shake hands'."),
+    (7, None, "'No, of course not.' Echoing 'no' at both ends of 'no, well sure that no' gives Mathias's refusal extra certainty in French."),
+    (8, None, "'Sit down, Mathias.' Switching from old intimacy to formal 'you' on 'sit yourself down' shows the guarded distance between Annick and Mathias in French."),
+    (9, None, "'An important man must be in a hurry.' Putting 'important' after 'man' follows normal order in French, paired with 'must be pressed' to mean 'must be in a rush'."),
+    (10, None, "'Oh, you know...' Mathias mirrors Annick's formal 'you' in this handy phrase, trailing off modestly just like 'oh, you know...' in English."),
+    (11, None, "'Just a coffee, please.' Addressing the waiter calls for the polite 'you' version of 'please'—literally 'if it pleases you'."),
+    (12, None, "'And a glass of red wine for me.' Cafe regulars drop 'wine' altogether and simply ask for 'a glass of red' in French."),
+    (13, None, "'I will take care of it.' Slipping a tiny 'of it' marker ahead of 'occupy' builds a useful sentence you'll hear everywhere for 'I've got this'."),
+    (14, None, "'You take care of everything, always.' Hearing polite 'you' twice side by side sounds funny at first, because the first means 'you' and the second means 'yourself' in French."),
+    (15, None, "'Better late than never.' Built word-for-word as 'better is-worth late than never', this classic French proverb matches the English saying almost piece for piece."),
 ]

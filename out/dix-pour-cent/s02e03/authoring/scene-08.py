@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Stepping out into the hallway of ASK, Sofia and Gabriel accompany Julien Dore. When Mathias hands Sofia an administrative errand in front of Julien, she quickly covers for herself, while the agency's new owner Hicham makes a lively impression. Let's listen to the scene in French first."
 OPENER = "Let's examine the conversation in the hallway line by line."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
 OUTRO = "Sofia skillfully manages the awkward encounter in the hallway, while Julien leaves with high spirits and an eagerness to collaborate on his musical soundtrack. Let's review the conversational phrases and vocabulary from this scene. See you next time!"
 CLOSING = ('julien', 'Bonne soirée!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('julien', 'Au revoir, à très bientôt pour répéter!', 'Goodbye, see you very soon to rehearse!', [(224, 'Au revoir.')], ''),
 ]
 WALK = [
-    (0, None, "'He has a strange way of treating actors.' Julien is surprised when Mathias treats Sofia like an office assistant."),
-    (1, None, "'It is just a joke for a play.' Sofia quickly improvises to hide that she actually works as the receptionist."),
-    (2, None, "'Mathias is always joking around with everyone!' Julien accepts her explanation with a smile."),
-    (3, None, "'Hicham Janowski arrives in the hallway.' Gabriel spots the enthusiastic new majority shareholder."),
-    (4, None, "'He is the new owner of the agency?' Julien asks about Hicham's role at ASK."),
-    (5, None, "'Yes, but he takes care of accounting.' Gabriel downplays Hicham's involvement in artistic decisions."),
-    (6, None, "'Who is that gorgeous woman over there?' Julien notices Aymeline Val walking out of Andrea's office."),
-    (7, None, "'That is the model Aymeline Val.' Gabriel names the famous model."),
-    (8, None, "'Does she also want to become an actress?' Julien asks if Aymeline is transitioning into cinema."),
-    (9, None, "'Yes, Andréa is managing her career.' Gabriel confirms that Andrea is representing her."),
-    (10, None, "'You have a wonderful agency!' Julien compliments the vibrant atmosphere at ASK."),
-    (11, None, "'Thank you for this lovely meeting, Julien.' Sofia warmly bids farewell to the pop singer."),
-    (12, None, "'Goodbye, see you very soon to rehearse!' Julien leaves on an upbeat note, promising to sing together soon. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'He has a strange way of treating actors.' Put ahead of 'way' with 'of', the word that usually means 'funny' shifts to mean 'strange' or 'odd' in French."),
+    (1, None, "'It is just a joke for a play.' At the end, what looks like English 'piece' is short for 'theater piece' and means a stage 'play' in French."),
+    (2, None, "'Mathias is always joking around with everyone!' Julien chooses an informal everyday action that means 'laughs' or 'jokes around', placing 'always' right after it rather than before."),
+    (3, None, "'Hicham Janowski arrives in the hallway.' Simple present 'arrives' covers 'is arriving right now' in French, paired with 'in the corridor' at the end."),
+    (4, None, "'He is the new owner of the agency?' Introducing a person with a role takes 'it is' rather than 'he is' in French, followed by a cognate of 'proprietor' meaning 'owner'."),
+    (5, None, "'Yes, but he takes care of accounting.' Built from 'occupies himself of', this handy expression means 'deals with' or 'runs', followed by 'accounting'."),
+    (6, None, "'Who is that gorgeous woman over there?' Linking 'there' and 'low' with a hyphen at the end builds 'over there' in French, while 'magnificent' follows 'woman'."),
+    (7, None, "'That is the model Aymeline Val.' Curiously in French, this job title meaning 'fashion model' keeps 'the' in its male form even when referring to Aymeline."),
+    (8, None, "'Does she also want to become an actress?' Sliding 'also' between 'wants' and 'to become' is natural in French, and 'actress' stands bare without 'an'."),
+    (9, None, "'Yes, Andrea is managing her career.' Notice how 'her' in French takes the '-a' form to match 'career', rather than matching the person who owns it."),
+    (10, None, "'You have a wonderful agency!' Unlike English 'formidable', which can sound intimidating, this cognate in French is pure praise meaning 'wonderful' or 'terrific'."),
+    (11, None, "'Thank you for this lovely meeting, Julien.' Before 'encounter', 'beautiful' softens in sense to 'lovely', giving you a warm thank-you expression in French."),
+    (12, None, "'Goodbye, see you very soon to rehearse!' Watch the theater false friend at the end: what looks like 'repeat' means 'rehearse' in French, right after 'until very soon'."),
 ]

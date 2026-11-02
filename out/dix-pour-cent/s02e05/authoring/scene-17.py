@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'elisabeth': 'Élisabeth', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
-INTRO = "At a restaurant, Gabriel meets with Élisabeth Lecœur to discuss financing for Julien Doré's musical film. While discussing the screenplay, Gabriel accidentally mentions a shocking scene that was never included in her draft. Listen to the scene in French first."
+INTRO = "At a restaurant, Gabriel meets with Elisabeth Lecoeur to discuss financing for Julien Dore's musical film. While discussing the screenplay, Gabriel accidentally mentions a shocking scene that was never included in her draft. Listen to the scene in French first."
 OPENER = "Let's examine how Gabriel accidentally reveals a shocking movie scene."
-TRANSITION = "Now let's listen to the embarrassing conversation once more at normal pace."
-OUTRO = "Gabriel's clumsy slip of the tongue leaves Élisabeth stunned by Julien Doré's wild imagination. Listen to the hilarious conversation once more in French. See you next time!"
+TRANSITION = "Now let's listen to the whole dialogue again."
+OUTRO = "Gabriel's clumsy slip of the tongue leaves Elisabeth stunned by Julien Dore's wild imagination. Listen to the hilarious conversation once more in French. See you next time!"
 CLOSING = ('elisabeth', 'Bonne journée!')
 STORY = [
     ('elisabeth', "J'adore vraiment le nouveau scénario de Julien Doré.", "I really love Julien Doré's new screenplay.", [(507, "j'adore le projet de Julien Doré.")], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('elisabeth', 'Gabriel, votre client est totalement fou!', 'Gabriel, your client is completely crazy!', [(548, "La saucisse, c'est pour ?"), (549, 'Excusez-moi.')], ''),
 ]
 WALK = [
-    (0, None, "'I really love Julien Doré's new screenplay.' Élisabeth expresses high enthusiasm for the project."),
-    (1, None, "'It is a very original and ambitious project.' Gabriel supports his client's artistic vision."),
-    (2, None, "'I find his writing particularly mature.' She compliments the depth of the text."),
-    (3, None, "'Yes, but this movie pushes the boundaries quite far.' Gabriel hints at daring content."),
-    (4, None, "'Are you not afraid of an age restriction?' Élisabeth wonders about censorship ratings."),
-    (5, None, "'There is nothing too explicit in the text.' Gabriel tries to sound reassuring."),
-    (6, None, "'Except maybe that scene near the lake.' Gabriel unwittingly opens a dangerous topic."),
-    (7, None, "'Which scene are you talking about exactly?' Élisabeth asks for immediate clarification."),
-    (8, None, "'The scene where the woman cuts off the man's thing.' Gabriel blurted out the shocking detail."),
-    (9, None, "'I never read this sequence in my file!' Élisabeth reacts with utter shock."),
-    (10, None, "'Sorry, I think that I made a big blunder.' Gabriel realizes his terrible mistake."),
-    (11, None, "'Did you send a toned-down version to the committee?' Élisabeth becomes suspicious of deception."),
-    (12, None, "'No, not at all, it was just a first draft.' Gabriel scrambles to minimize the slip."),
-    (13, None, "'Tell me the end of this scene anyway.' Élisabeth demands full transparency."),
-    (14, None, "'She cooks the piece on a barbecue.' Gabriel confesses the absurd climax sheepishly."),
-    (15, None, "'Gabriel, your client is completely crazy!' Élisabeth concludes in disbelief. Now let's listen to the embarrassing conversation once more at normal pace."),
+    (0, None, "'I really love Julien Dore's new screenplay.' Notice the order at the start: where English says 'I really love', French puts 'really' right after 'love'."),
+    (1, None, "'It is a very original and ambitious project.' Three cognates make this pitch transparent, placing 'very original and ambitious' after 'project' in French."),
+    (2, None, "'I find his writing particularly mature.' Saying 'I find' is a favorite way to share opinions in French, paired with 'writing' — a cousin of English 'scripture'."),
+    (3, None, "'Yes, but this movie pushes the boundaries quite far.' Before 'far', you'll hear a versatile word that can mean 'enough' on its own and 'quite' before a description."),
+    (4, None, "'Are you not afraid of an age restriction?' Elisabeth chooses a polished single-word action meaning 'fear' in French, followed by 'prohibition to minors'."),
+    (5, None, "'There is nothing too explicit in the text.' Just like 'something', 'nothing' in French always inserts 'of' before a description — literally 'nothing of too explicit'."),
+    (6, None, "'Except maybe that scene near the lake.' Opening with a cousin of English 'save for' meaning 'except', French says 'near of-the lake' at the end."),
+    (7, None, "'Which scene are you talking about exactly?' Because 'talk about' is 'speak of' in French, the question brings 'of which scene' right to the front."),
+    (8, None, "'The scene where the woman cuts off the man's thing.' Embarrassed at lunch, Gabriel reaches for a classic everyday filler word meaning 'thingummy' in French."),
+    (9, None, "'I never read this sequence in my file!' What English borrowed as 'dossier' for spy thrillers is simply any everyday office folder or script packet in French."),
+    (10, None, "'Sorry, I think that I made a big blunder.' English borrowed 'gaffe' straight from this everyday French expression for putting your foot in your mouth."),
+    (11, None, "'Did you send a toned-down version to the committee?' Literally 'a sweetened version': 'toned-down' in French comes from the same root as artificial 'sweeteners' on food labels!"),
+    (12, None, "'No, not at all, it was just a first draft.' That closing word meaning 'rough draft' comes from 'scrambling' — the very same root French uses for scrambled eggs!"),
+    (13, None, "'Tell me the end of this scene anyway.' Rather than plain 'say', Elisabeth chooses the cousin of English 'recount' — what you'd use in French whenever asking someone to tell a story."),
+    (14, None, "'She cooks the piece on a barbecue.' When cooking a specific item, French says 'makes cook' — because 'cooks' alone would mean she herself is sizzling on the grill!"),
+    (15, None, "'Gabriel, your client is completely crazy!' That final three-letter word — the ancestor of English 'fool' and 'folly' — is standard everyday French meaning 'crazy'."),
 ]

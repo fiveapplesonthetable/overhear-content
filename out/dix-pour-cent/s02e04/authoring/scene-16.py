@@ -12,8 +12,8 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = 'Back at the agency, agent Gabriel and actress Sofia wait anxiously beside the phone for singer Julien Dore to call back. While Gabriel fidgets with impatience, Sofia tries to stay composed and avoid sounding overly eager. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "Gabriel and Sofia resolve to stay calm and wait for Julien's decision, though neither can resist watching the silent telephone. Listen to the French scene once more. See you next time!"
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
+OUTRO = "Gabriel and Sofia resolve to stay calm and wait for Julien's decision, though neither can resist watching the silent telephone. See you next time!"
 CLOSING = ('sofia', 'À demain!')
 STORY = [
     ('gabriel', "C'est bizarre qu'il n'ait pas rappelé.", 'It is strange that he has not called back.', [(426, "C'est bizarre qu'il n'ait pas rappelé")], ''),
@@ -33,19 +33,19 @@ STORY = [
     ('gabriel', 'Bien sûr. Évidemment.', 'Of course. Obviously.', [(446, 'Bien sûr. Évidemment')], ''),
 ]
 WALK = [
-    (0, None, "'It is strange that he has not called back.' Gabriel expresses nervous concern about radio silence."),
-    (1, None, "'Are you talking about Julien?' Sofia clarifies which client is on his mind."),
-    (2, None, "'He said he would call back very quickly.' Gabriel quotes the earlier promise of rapid contact."),
-    (3, None, "'Things are starting to drag out.' The agent grows visibly impatient with the wait."),
-    (4, None, "'You did the screen tests this morning!' Sofia reminds him that barely any time has passed."),
-    (5, None, "'Yes, that is true, you are right.' Gabriel concedes that he might be overreacting."),
-    (6, None, "'What if you called him directly?' Sofia suggests taking initiative with a phone call."),
-    (7, None, "'After all, you are his agent.' She points out his professional right to check in."),
-    (8, None, "'Just to sound him out a little.' Sofia wants discreet information without seeming needy."),
-    (9, None, "'He is currently seeing other girls.' Gabriel stokes her insecurity about audition competitors."),
-    (10, None, "'Really? Did he say that?' Sofia's cool exterior cracks with instant curiosity."),
-    (11, None, "'I do not know, quite possibly.' Gabriel backpedals on his unverified speculation."),
-    (12, None, "'He has plenty of things to do.' The agent rationalizes the singer's busy schedule."),
-    (13, None, "'Let us leave Juju alone for now.' Sofia decides against appearing too eager or demanding."),
-    (14, None, "'Of course. Obviously.' Gabriel agrees to respect the artist's personal space. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'It is strange that he has not called back.' After emotional judgments like 'it is bizarre that', 'has' shifts into a special form used for feelings and doubt in French."),
+    (1, None, "'Are you talking about Julien?' French pairs 'speak' with 'of' where English says 'talk about', relying on rising pitch to ask."),
+    (2, None, "'He said he would call back very quickly.' Adding a '-would' ending directly onto 'call back' packs 'would call back' into a single word in French."),
+    (3, None, "'Things are starting to drag out.' Closer to 'that begins to drag' word-for-word, this casual expression captures a wait that feels interminable."),
+    (4, None, "'You did the screen tests this morning!' French borrows 'tests' from English, and 'this morning' tucks onto the end with no extra word needed."),
+    (5, None, "'Yes, that is true, you are right.' Everyday speech clips the vowel off casual 'you' before 'have', squeezing 'you have reason' into a fast rhythm in French."),
+    (6, None, "'What if you called him directly?' Opening with 'and if' plus a past-looking form is a handy way you can say 'what if you...' to float an idea."),
+    (7, None, "'After all, you are his agent.' Opening with 'after all' matches the English expression word-for-word to justify calling Julien."),
+    (8, None, "'Just to sound him out a little.' Related to taking water 'soundings', that action means 'feel someone out', with 'him' tucked before it in French."),
+    (9, None, "'He is currently seeing other girls.' Built from 'in the process of', that four-word chunk explicitly stresses 'right in the middle of doing'."),
+    (10, None, "'Really? Did he say that?' Dropping the vowel off 'it' before 'has said' packs 'he said that?' into three brisk syllables in French."),
+    (11, None, "'I do not know, quite possibly.' Dropping the first bit in the negative before 'know' is how casual French sounds, followed by 'maybe well'."),
+    (12, None, "'He has plenty of things to do.' Using 'full of' casually to mean 'lots of' or 'plenty of' is something you'll hear constantly in French."),
+    (13, None, "'Let us leave Juju alone for now.' Sofia coins a playful doubled-syllable nickname for Julien and closes with a chunk meaning 'for the instant'."),
+    (14, None, "'Of course. Obviously.' Pairing 'well sure' with a one-word closer built from 'evident' piles on nervous agreement in French."),
 ]

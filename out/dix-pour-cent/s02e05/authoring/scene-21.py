@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
-INTRO = "On a quiet Parisian street, Andréa intercepts Hicham during his morning jog to deliver shocking news. Hesitant to meet casually, she reveals that she is pregnant with his child and needs to talk. Listen to the scene in French first. Don't worry about catching every word."
+INTRO = "On a quiet Parisian street, Andrea intercepts Hicham during his morning jog to deliver shocking news. Hesitant to meet casually, she reveals that she is pregnant with his child and needs to talk. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
-TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = "Stunned by Andréa's pregnancy revelation, Hicham grants her a few brief minutes before heading to London. Notice how the feminine adjective for 'pregnant' takes a silent final '-e'. See you next time!"
+TRANSITION = "Now let's listen to the whole dialogue again."
+OUTRO = "Stunned by Andrea's pregnancy revelation, Hicham grants her a few brief minutes before heading to London. Notice how the feminine adjective for 'pregnant' takes a silent final '-e'. See you next time!"
 CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('hicham', "Qu'est-ce que tu fais là, Andréa?", 'What are you doing here, Andréa?', [(643, "Qu'est-ce que tu fais là ? Tu m'attendais ?")], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('andrea', "Oui, c'est largement suffisant.", 'Yes, that is more than enough.', [(672, 'Oui, même moins.')], ''),
 ]
 WALK = [
-    (0, None, "'What are you doing here, Andréa?' Hicham stops his jogging to question her unexpected presence."),
-    (1, None, "'Wait just one little minute.' Andrea urgently asks for a moment of his undivided attention."),
-    (2, None, "'I am doing my last lap.' Hicham concludes his workout."),
-    (3, None, "'I must ask you something.' She insists that she has an important topic to bring up."),
-    (4, None, "'Can we have a drink together?' Hicham proposes meeting more casually over drinks."),
-    (5, None, "'Why should we see each other?' Andrea remains skeptical of his motives after their past encounter."),
-    (6, None, "'To talk calmly, that is all.' He promises that he only wishes to converse peacefully."),
-    (7, None, "'Do you want to seduce me again?' She confronts him directly about his flirtatious tendencies."),
-    (8, None, "'No, that is not true!' Hicham firmly denies having romantic designs on her."),
-    (9, None, "'I am pregnant, Hicham.' Andrea drops the life-changing bombshell without preamble."),
-    (10, None, "'What? Are you really serious?' Stunned by the revelation, he struggles to process the news."),
-    (11, None, "'I absolutely had to tell you.' She feels an ethical responsibility to inform the father."),
-    (12, None, "'Are four minutes enough for you?' He abruptly pivots to managing the conversation within his schedule."),
-    (13, None, "'Yes, that is more than enough.' Andrea accepts the brief window to outline her stance. Now let's listen to the entire exchange once more from beginning to end."),
+    (0, None, "'What are you doing here, Andrea?' Literally 'what is it that you do there?', this handy sentence is the standard French reaction when bumping into someone unexpectedly."),
+    (1, None, "'Wait just one little minute.' Slipping 'little' ahead of 'minute' is a classic French softener — the same touch you'll hear in 'a little coffee' for 'a quick coffee'."),
+    (2, None, "'I am doing my last lap.' That closing word — familiar in English from cycling's famous 'Tour' — simply means a 'lap' or 'loop' in French."),
+    (3, None, "'I must ask you something.' Notice where 'you' sits in French: it tucks right ahead of 'to ask' rather than after it or before 'must'."),
+    (4, None, "'Can we have a drink together?' Literally 'drink a glass', this three-word expression is the go-to invitation in French for grabbing a drink."),
+    (5, None, "'Why should we see each other?' Putting 'ourselves' ahead of 'would see' gives the reciprocal meaning 'see each other' in French."),
+    (6, None, "'To talk calmly, that is all.' Adding '-ment' onto 'calm' works just like adding '-ly' in English, closed off by the handy chunk 'that is all'."),
+    (7, None, "'Do you want to seduce me again?' Where English saves 'again' for the end, French places it right after 'want' — literally 'you want again me to-seduce?'."),
+    (8, None, "'No, that is not true!' Because 'not' steps in front of 'is', contracted 'it's' expands back into full 'that' at the start in French."),
+    (9, None, "'I am pregnant, Hicham.' French uses a dedicated word here that looks nothing like English 'pregnant' — never swap in 'full', which applies only to animals!"),
+    (10, None, "'What? Are you really serious?' Speaking to Andrea, 'serious' swaps its silent '-x' ending for '-se', which you'll hear pronounced with a clear 'z' sound."),
+    (11, None, "'I absolutely had to tell you.' Where English leaves 'it' unspoken after 'tell you', French stacks both 'to-you' and 'it' right ahead of 'say'."),
+    (12, None, "'Are four minutes enough for you?' Rather than saying 'are enough', French uses a cognate of 'suffice' — literally 'four minutes, that suffices to you?'."),
+    (13, None, "'Yes, that is more than enough.' Watch the word ahead of 'sufficient': it looks like 'largely', yet in French it means 'plenty' or 'more than enough'!"),
 ]

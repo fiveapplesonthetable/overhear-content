@@ -12,8 +12,8 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the ASK conference room, Hicham interrupts the partners meeting to deliver a major announcement. Without consulting the other agents, he reveals his choice for the new junior agent position. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Hicham stuns the agency partners by appointing Camille as the new junior agent. Despite Andréa's surprise, Hicham praises Camille's tenacity, discretion, and quiet courage. See you next time!"
+TRANSITION = "Now let's listen to the whole dialogue again."
+OUTRO = "Hicham stuns the agency partners by appointing Camille as the new junior agent. Despite Andrea's surprise, Hicham praises Camille's tenacity, discretion, and quiet courage. See you next time!"
 CLOSING = ('hicham', 'Au revoir!')
 STORY = [
     ('hicham', "Et maintenant, que diriez-vous d'accueillir officiellement notre nouveau junior?", 'And now, what would you say to officially welcoming our new junior?', [(259, "que diriez-vous d'accueillir officiellement notre nouveau junior ?")], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('camille', 'Merci, je ferai de mon mieux.', 'Thank you, I will do my best.', [(276, 'Je vois.')], ''),
 ]
 WALK = [
-    (0, None, "'And now, what would you say to officially welcoming our new junior?' Hicham opens the floor dramatically."),
-    (1, None, "'You should have consulted us beforehand.' Andrea objects to the unilateral move."),
-    (2, None, "'I consulted myself. And I decided.' Hicham asserts his autocratic authority boldly."),
-    (3, None, "'Our new junior is a woman.' Hicham begins unveiling his choice."),
-    (4, None, "'And her name is Camille Valentini.' Hicham drops the bombshell announcement."),
-    (5, None, "'What? Camille?' Andrea gasps in shock."),
-    (6, None, "'There were candidates who knew very well how to sell themselves.' Hicham explains his reasoning."),
-    (7, None, "'She did not talk, she acted.' Hicham praises Camille's quiet initiative."),
-    (8, None, "'Camille, were you a candidate?' Andrea questions Camille directly."),
-    (9, None, "'No, not at all.' Camille answers honestly."),
-    (10, None, "'No, she was not, but she came to Paris alone.' Hicham defends her independent spirit."),
-    (11, None, "'She made a place for herself there without revealing who her father was.' Hicham admires her discretion."),
-    (12, None, "'Gritting your teeth, confiding in no one.' Hicham lists the qualities of resilience."),
-    (13, None, "'Those are the qualities you need in this business.' Hicham summarizes the agency virtues."),
-    (14, None, "'So welcome, Camille, our new agent.' Hicham wraps up the meeting by welcoming Camille as a junior agent."),
-    (15, None, "'Thank you, I will do my best.' Camille accepts the daunting challenge. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'And now, what would you say to officially welcoming our new junior?' Opening with 'what would you say of' is a polished expression meaning 'how about...', followed by 'to welcome'."),
+    (1, None, "'You should have consulted us beforehand.' French builds 'you should have' out of 'you would have owed', and bare 'before' at the end works like 'beforehand'."),
+    (2, None, "'I consulted myself. And I decided.' Hicham doubles down in French: the opening already means 'I consulted myself', and tacking 'me-same' onto it stresses 'my very own self'."),
+    (3, None, "'Our new junior happens to be female.' In French, Hicham keeps 'our new junior' in the default form up front so the reveal lands only on the final word."),
+    (4, None, "'And her name is Camille Valentini.' Rather than saying 'her name is', French says 'she calls herself' before giving her first name and surname."),
+    (5, None, "'What? Camille?' Saying that blunt single-word 'what?' in French shows pure shock — in calmer moments you'd say 'pardon?' instead."),
+    (6, None, "'There were candidates who knew very well how to sell themselves.' Opening with 'it there had' gives 'there were', and 'knew to sell themselves' needs no 'how' in French."),
+    (7, None, "'She did not talk, she acted.' Repeating 'she, she' at the start puts sharp contrast on Camille, and the closing action means 'took action' rather than stage acting in French."),
+    (8, None, "'Camille, were you a candidate?' In front of the partners, Andrea addresses Camille with the formal 'you', and French drops 'a' before roles like 'candidate'."),
+    (9, None, "'No, not at all.' Literally 'not of the all', this handy chunk is the quickest way in French to make a 'no' sound completely emphatic."),
+    (10, None, "'No, she was not, but she came to Paris alone.' Where English stops at 'she wasn't', French tucks a placeholder 'it' before 'was' — literally 'she was not it'."),
+    (11, None, "'She made a place for herself there without revealing who her father was.' A single-letter word meaning 'there' points back to Paris, and after 'without', French uses 'to reveal' rather than '-ing'."),
+    (12, None, "'Gritting your teeth, confiding in no one.' Before body parts, French prefers 'the' over 'your' — so this idiom is literally 'clenching the teeth'."),
+    (13, None, "'Those are the qualities you need in this business.' Rather than saying 'you need', French uses impersonal 'it takes', paired with a word meaning 'craft' or 'trade'."),
+    (14, None, "'So welcome, Camille, our new agent.' Just like English 'welcome', the French greeting is built from 'well' plus 'come'."),
+    (15, None, "'Thank you, I will do my best.' Notice the extra 'of' inside this handy expression: word-for-word, Camille promises 'I will do of my best'."),
 ]

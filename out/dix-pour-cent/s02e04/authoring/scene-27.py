@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At the production office, Isabelle Adjani meets young director Sacha Hartman for an audition. Sacha treats the legendary star coldly, demanding an apology improvisation before Camille reveals the true misunderstanding. Let's listen to the scene in French first."
 OPENER = "Let's examine how this tense confrontation unfolds and how Camille steps in to clear the air."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
 OUTRO = "Camille's honest confession resolves the bitter grievance between Sacha and Isabelle, restoring goodwill. Let's review the theatrical and dispute-resolution vocabulary from this scene. See you next time!"
 CLOSING = ('isabelle', 'Bonne soirée!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('isabelle', "Au moins, nous avons vidé l'abcès ensemble.", 'At least, we cleared the air together.', [(870, 'Alors tout va bien.'), (871, "On a vidé l'abcès.")], ''),
 ]
 WALK = [
-    (0, None, "'I am here to see Sacha Hartman.' Isabelle politely introduces herself at the reception desk."),
-    (1, None, "'Thank you for coming to our meeting.' Sacha welcomes the acclaimed actress with an edgy, formal tone."),
-    (2, None, "'Take all the time that you need.' Isabelle demonstrates professional generosity and patience."),
-    (3, None, "'Are you ready? Introduce yourself now.' Sacha immediately subjects Isabelle to a beginner audition routine."),
-    (4, None, "'When one auditions, really?' Isabelle reacts with mild disbelief at being asked to audition like an amateur."),
-    (5, None, "'My name is Isabelle Adjani and I am an actress.' Isabelle calmly complies despite the awkwardness."),
-    (6, None, "'We are going to do a short improvisation.' Sacha announces an acting exercise to test her humility."),
-    (7, None, "'You are Circe and you ask for forgiveness.' Sacha assigns her the mythological role of Circe facing Ulysses."),
-    (8, None, "'Do you really want to humiliate me like that?' Isabelle confronts the director about his gratuitous spite."),
-    (9, None, "'You broke my artist heart.' Sacha reveals that his resentment stems from a past rejection."),
-    (10, None, "'You rejected my screenplay in the past.' Sacha accuses her of dismissing his earlier work out of hand."),
-    (11, None, "'I have never seen your text!' Isabelle states truthfully that she never received his submission."),
-    (12, None, "'It is my fault, forgive me both of you.' Camille steps forward bravely to explain what actually occurred."),
-    (13, None, "'I was an intern and I threw away this script.' Camille confesses that she inadvertently discarded the manuscript."),
-    (14, None, "'Isabelle never read it!' Camille completely exonerates Isabelle from any wrongdoing or neglect."),
-    (15, None, "'At least, we cleared the air together.' Isabelle smiles with relief that at least they cleared the air together. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'I am here to see Sacha Hartman.' Saying 'I am there for see' is what you'd say to announce yourself at a reception desk in French."),
+    (1, None, "'Thank you for coming to our meeting.' Built as 'thanks of being come', written French adds a silent 'e' onto 'come' because Sacha addresses Isabelle."),
+    (2, None, "'Take all the time that you need.' Ending with 'that it to-you is-necessary' is a gracious expression meaning 'all the time you need' in French."),
+    (3, None, "'Are you ready? Introduce yourself now.' Watch the false friend: 'present yourself' means 'introduce yourself' in French, not 'turn something in'."),
+    (4, None, "'When one auditions, really?' Just like 'sit an interview' earlier, French pairs 'pass' with 'an audition' to mean 'try out for a part'."),
+    (5, None, "'My name is Isabelle Adjani and I am an actress.' Built as 'I call myself', the classic introduction is joined by 'and' to 'I am actress' with no article."),
+    (6, None, "'We are going to do a short improvisation.' Near-future 'we go make' leads into 'short' placed ahead of the cognate 'improvisation' in French."),
+    (7, None, "'You are Circe and you ask for forgiveness.' Asking 'for forgiveness' needs no 'for' in French — 'ask pardon' works as a tight two-word pair."),
+    (8, None, "'Do you really want to humiliate me like that?' Closing with the fuller, more formal twin of 'that' after 'like' matches Isabelle's icy poise in French."),
+    (9, None, "'You broke my artist heart.' Linking 'my heart' to 'artist' with shortened 'of' builds 'my artist's heart' in French."),
+    (10, None, "'You rejected my screenplay in the past.' Notice the cognate 'rejected' paired again with that single poetic word at the end meaning 'in bygone times'."),
+    (11, None, "'I have never seen your text!' Wrapping 'have' with the negative marker and 'never' ahead of 'seen' delivers a flat denial, calling the script 'your text' in French."),
+    (12, None, "'It is my fault, forgive me both of you.' Opening word-for-word with 'it is my fault', Camille closes with 'all the two' to address both stars at once."),
+    (13, None, "'I was an intern and I threw away this script.' Ongoing 'I was intern' sets the background, then completed 'I have thrown' confesses the single past mistake in French."),
+    (14, None, "'Isabelle never read it!' Joining shortened 'it' right onto 'has' inside the 'never' frame packs 'never read it' into four quick syllables in French."),
+    (15, None, "'At least, we cleared the air together.' Literally 'drained the abscess', this vivid French idiom means lancing a festering grievance so everyone can move on."),
 ]

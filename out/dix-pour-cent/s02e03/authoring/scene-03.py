@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In her small Parisian apartment, Camille Valentini has a hurried breakfast with her visiting mother, Annick. While Annick comments on celebrity hairstyles and asks about Camille's relationship with Mathias, Camille tries not to be late for work. Let's listen to the scene in French first."
 OPENER = "Let's examine how Annick and Camille discuss family and work over breakfast."
-TRANSITION = "Now let's listen to Camille and Annick's morning conversation again at full speed."
+TRANSITION = "Now let's hear Camille and Annick's morning conversation again at full speed."
 OUTRO = "Annick's visit reminds Camille of her complicated family situation, as Mathias remains her secret father. Despite the maternal guilt, Camille hurries out the door to face another busy day at the agency. See you next time!"
 CLOSING = ('camille', 'Bonne soirée!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('annick', 'Fais bien attention sur ton vélo.', 'Be very careful on your bicycle.', [(90, 'Fais attention sur ton vélo.')], ''),
 ]
 WALK = [
-    (0, None, "'Are you not having breakfast?' Annick expresses maternal concern."),
-    (1, None, "'Mom, I am very late.' Camille apologizes to her mother Annick for running so late."),
-    (2, None, "'Sit down and eat a little.' Annick tells her daughter to sit down and eat something."),
-    (3, None, "'Who styles this poor actress's hair?' Looking around the salon, Annick wonders aloud who styled that poor actress's hair."),
-    (4, None, "'Agents do not deal with hairstyles.' Camille explains with a smile that talent agents do not handle hairstyles."),
-    (5, None, "'Tell me, is Mathias nice to you?' Annick asks Camille directly whether Mathias is treating her well."),
-    (6, None, "'Yes, he is much nicer than before.' Camille reassures her mother that Mathias is much nicer to her than before."),
-    (7, None, "'We see each other and have lunch together.' Reciprocal pronominal actions in informal speech."),
-    (8, None, "'Look, he gave me a pretty lamp.' Camille shows a thoughtful gift."),
-    (9, None, "'It is easy when one is very rich.' Annick remarks skeptically that being generous is easy when a man is very rich."),
-    (10, None, "'I light your lovely candle every evening.' Camille reassures her mother."),
-    (11, None, "'I should have kept a child at home.' Annick expresses nostalgic maternal longing."),
-    (12, None, "'You have a real gift for drama.' Camille acknowledges maternal melodrama."),
-    (13, None, "'Be very careful on your bicycle.' Annick warns him to be very careful on his bicycle."),
+    (0, None, "'Are you not having breakfast?' Literally 'little lunch', the compound meaning 'breakfast' pairs with 'take' in French rather than 'have'. After a negative, 'any' shrinks to a plain 'of'."),
+    (1, None, "'Mom, I am very late.' Literally 'in delay', this everyday expression is how you say 'late' in French, boosted here by 'very'."),
+    (2, None, "'Sit down and eat a little.' Annick attaches 'yourself' right onto the command with a hyphen to say 'sit down' in French, then softens 'eat' with 'a little'."),
+    (3, None, "'Who styles this poor actress's hair?' One compact French action covers 'styles someone's hair' without needing a separate word meaning 'hair'. Before 'actress', 'poor' means 'unfortunate' rather than 'broke'."),
+    (4, None, "'Agents do not deal with hairstyles.' Built from 'occupy oneself of', this handy expression means 'take care of' or 'handle', while 'agents' keeps its article even in general statements."),
+    (5, None, "'Tell me, is Mathias nice to you?' Starting with a warm 'tell me' opener, French says 'nice with you' where English says 'nice to you'."),
+    (6, None, "'Yes, he is much nicer than before.' Placing 'well' in front of 'more nice' gives you 'much nicer' in French, followed by 'than before' clipped together with an apostrophe."),
+    (7, None, "'We see each other and have lunch together.' Adding a reciprocal marker before 'sees' turns 'we see' into 'we see each other', paired with a single-word action meaning 'have lunch' in French."),
+    (8, None, "'Look, he gave me a pretty lamp.' When talking about gifts in French, speakers say 'offered' rather than plain 'gave', tucking 'to me' right before the helper."),
+    (9, None, "'It is easy when one is very rich.' Here casual 'one' keeps its general sense of 'people in general' rather than 'we', alongside the easy cognate 'rich'."),
+    (10, None, "'I light your lovely candle every evening.' Literally 'all the evenings', that closing three-word chunk is how you say 'every evening' in French, while 'light' also serves for switching on lamps."),
+    (11, None, "'I should have kept a child at home.' Combining 'would have' with 'had to' builds 'I should have' in French, and 'at the house' is the natural idiom meaning 'at home'."),
+    (12, None, "'You have a real gift for drama.' To describe an innate talent rather than a wrapped present, French chooses a crisp three-letter word meaning 'gift' or 'knack'."),
+    (13, None, "'Be very careful on your bicycle.' Literally 'make well attention', this caring send-off is what you'd say for 'be really careful', ending with the everyday clipped form of 'bicycle'."),
 ]

@@ -15,7 +15,7 @@ INTRO = ('Up on the rooftop overlooking Paris, Andréa finds the tax inspector C
  'be secret lovers asking for their usual room. Now Andréa decides to clear the air. Listen to the French first, '
  'without worrying about catching every word.')
 OPENER = "Let's walk through it line by line. Andréa joins Colette at the edge of the roof."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'Telling the truth finally broke the ice between Andréa and Colette. See you next time!'
 CLOSING = ('andrea', 'Bonne journée!')
 STORY = [('andrea', 'Belle vue, non?', "Nice view, isn't it?", [(755, 'Belle vue, non')], ''),
@@ -86,66 +86,22 @@ STORY = [('andrea', 'Belle vue, non?', "Nice view, isn't it?", [(755, 'Belle vue
   "I don't know how to behave around you.",
   [(774, 'Je ne sais pas comment me comporter avec vous')],
   '')]
-WALK = [(0,
-  None,
-  "'Nice view, isn't it?' Adding the word for 'no' at the end of a remark is the simplest way to say 'isn't it?' "
-  'in French.'),
- (1, None, "'Very.' Just one short word from Colette as she looks out over the rooftops of the city."),
- (2,
-  None,
-  "'I'm not with Gabriel.' Andréa wants Colette to know right away that she and Gabriel are not a couple."),
- (3,
-  None,
-  "'You should tell him. He seems to think the opposite.' Two little object words sit before 'tell': 'it' and 'to "
-  "him'. In the second sentence, 'has the air of thinking' is the natural phrase for 'seems to think'."),
- (4,
-  None,
-  "'No, but we were there for our actors, to negotiate rates.' Andréa tries one last business excuse, using the "
-  "past for 'we were'."),
- (5,
-  None,
-  "'The sudden urge to kiss and get a room? It happens.' Colette is dry and ironic: she didn't believe their act "
-  'at the hotel reception for a single second.'),
- (6,
-  None,
-  "'You're very good at charming people.' The describing word for 'gifted' or 'good at' has a feminine letter at "
-  'the end because she is speaking to Andréa.'),
- (7,
-  None,
-  "'That girl was right. You're a monster.' The earlier woman is Clémentine, who confronted Andréa in the agency "
-  "hall. The word for girl can refer to a young woman without meaning someone's daughter."),
- (8,
-  'Bon, on faisait semblant.',
-  "'All right, we were pretending.' Literally 'we were making appearance'. Andréa drops the lie and tells the "
-  'truth.'),
- (8,
-  'On était là pour voir le directeur.',
-  "'We were there to see the manager.' Before an infinitive verb, the preposition means 'in order to'."),
- (9,
-  None,
-  "'To talk about the room that Samuel kept at the hotel.' The late boss of the agency had been paying for a "
-  'hotel room out of company money.'),
- (10,
-  None,
-  "'We found out about it yesterday.' Literally 'we learned it yesterday', with the word for 'it' shortened "
-  'before the helper word.'),
- (11,
-  None,
-  "'We saw you arrive, and we panicked.' Both actions use a past helping word. The written feminine ending on "
-  'seen agrees with Colette, who is the person they saw.'),
- (12,
-  None,
-  "'Did you try to hide this?' The past action is followed by a short linking word before hiding. Colette "
-  "challenges the attempt to conceal the agency's hotel-room expense."),
- (13,
-  None,
-  "'Yes. We were scared. Of you.' Andréa admits it. French describes fear as having fear; the independent form of "
-  'you follows the final preposition.'),
- (14,
-  None,
-  "'You're addressing me formally now.' French has a dedicated action word for addressing someone politely. "
-  "Colette notices Andréa's more cautious manner after admitting the truth."),
- (15,
-  None,
-  "'I don't know how to behave around you.' The self-directed action for behaving includes the short word meaning "
-  'myself before its plain form. Andréa admits that she is uncertain how to act.')]
+WALK = [
+    (0, None, "'Nice view, isn't it?' Adding the expression for 'no' at the end of a remark is the simplest way to say 'isn't it?' in French."),
+    (1, None, "'Very.' Just one short word from Colette as she looks out over the rooftops of the city."),
+    (2, None, "'I'm not with Gabriel.' Andréa wants Colette to know right away that she and Gabriel are not a couple."),
+    (3, None, "'You should tell him. He seems to think the opposite.' Two little object words sit before 'tell': 'it' and 'to him'. In the second sentence, 'has the air of thinking' is the natural phrase for 'seems to think'."),
+    (4, None, "'No, but we were there for our actors, to negotiate rates.' Andréa tries one last business excuse, using the past for 'we were'."),
+    (5, None, "'The sudden urge to kiss and get a room? It happens.' Colette is dry and ironic: she didn't believe their act at the hotel reception for a single second."),
+    (6, None, "'You're very good at charming people.' The describing word for 'gifted' or 'good at' has a feminine letter at the end because she is speaking to Andréa."),
+    (7, None, "'That girl was right. You're a monster.' The earlier woman is Clémentine, who confronted Andréa in the agency hall. The word for girl can refer to a young woman without meaning someone's daughter."),
+    (8, 'Bon, on faisait semblant.', "'All right, we were pretending.' Literally 'we were making appearance'. Andréa drops the lie and tells the truth."),
+    (8, 'On était là pour voir le directeur.', "'We were there to see the manager.' Before an infinitive verb, the preposition means 'in order to'."),
+    (9, None, "'To talk about the room that Samuel kept at the hotel.' The late boss of the agency had been paying for a hotel room out of company money."),
+    (10, None, "'We found out about it yesterday.' Literally 'we learned it yesterday', with a short word for 'it' shortened before the helper word."),
+    (11, None, "'We saw you arrive, and we panicked.' Both actions use a past helping word. The written feminine ending on seen agrees with Colette, who is the person they saw."),
+    (12, None, "'Did you try to hide this?' The past action is followed by a short linking word before hiding. Colette challenges the attempt to conceal the agency's hotel-room expense."),
+    (13, None, "'Yes. We were scared. Of you.' Andréa admits it. French describes fear as having fear; the independent form of you follows the final preposition."),
+    (14, None, "'You're addressing me formally now.' French has a dedicated action word for addressing someone politely. Colette notices Andréa's more cautious manner after admitting the truth."),
+    (15, None, "'I don't know how to behave around you.' The self-directed action for behaving includes the short word meaning myself before its plain form. Andréa admits that she is uncertain how to act."),
+]

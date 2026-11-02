@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "On the movie set, director Vera Loiseau gives acting instructions to veteran star Guy Marchand. To everyone's surprise, Guy experiences sudden confusion, failing to recognize his director and leaving the set. Let's listen to the scene in French first."
 OPENER = "Let's examine how Guy's sudden confusion disrupts the movie rehearsal."
-TRANSITION = "Now let's listen to Guy's alarming misunderstanding on set again at full speed."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "Guy's sudden disorientation shocks director Vera and raises immediate alarm for Gabriel. Realizing that something is medically wrong with his star client, Gabriel seeks immediate medical help. See you next time!"
 CLOSING = ('guy', 'Au revoir, Gabriel.')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('guy', 'Non, nous parlerons plus tard au téléphone.', 'No, we will talk later on the phone.', [(66, 'On se parlera par téléphone.')], ''),
 ]
 WALK = [
-    (0, None, "'Hello Guy, we are shooting scene thirty-four.' The director announces the current production sequence."),
-    (1, None, "'Your character must change clothes here.' Véra explains the character's physical blocking in the scene."),
-    (2, None, "'You take off your pajamas for your suit.' Véra describes the costume change that symbolizes his political return."),
-    (3, None, "'What are you talking about exactly, young girl?' Guy shows sudden disorientation."),
-    (4, None, "'This woman is asking me to strip!' Guy reflects acute cognitive confusion."),
-    (5, None, "'Guy, calm down, everything is going very well.' Gabriel attempts to de-escalate tension."),
-    (6, None, "'Gabriel, this stranger has a lot of nerve.' Guy complains about a man he suddenly fails to recognize."),
-    (7, None, "'But that is Vera, the director of the film!' Gabriel clarifies the director's key authority on set."),
-    (8, None, "'No, I have never seen her before.' Guy denies prior collaboration."),
-    (9, None, "'Yet you worked together last week.' Gabriel gently reminds him of their recent work meetings."),
-    (10, None, "'I feel a bit tired now.' Guy acknowledges physical weakness."),
-    (11, None, "'I prefer to go home right away.' Guy avoids public embarrassment."),
-    (12, None, "'Wait Guy, we must shoot this scene!' Gabriel pleads anxiously with Guy to save the shooting schedule."),
-    (13, None, "'No, we will talk later on the phone.' Guy cuts short on-set conversation. Now let's listen to Guy's alarming misunderstanding on set again at full speed."),
+    (0, None, "'Hello Guy, we are shooting scene thirty-four.' Unlike English, French puts 'the' right before 'scene thirty-four', and 'shooting' literally means 'turning' the camera."),
+    (1, None, "'Your character must change clothes here.' Watch out for a classic false friend: the subject looks like 'personage', yet in French it means a fictional character in a story or film."),
+    (2, None, "'You take off your pajamas for your suit.' Another false friend sits at the end: the word spelled like 'costume' actually means an ordinary business suit in French, while 'leaving' clothes means taking them off."),
+    (3, None, "'What are you talking about exactly, young girl?' Rather than stranding 'about' at the end, French opens right away with 'of what', showing how disoriented Guy suddenly is."),
+    (4, None, "'This woman is asking me to strip!' That last action is built from an 'un-' prefix attached to 'dress', literally 'to undress myself'."),
+    (5, None, "'Guy, calm down, everything is going very well.' Gabriel tacks 'yourself' onto 'calm' to soothe his friend, then adds 'everything goes very well' — a handy chunk for reassuring someone."),
+    (6, None, "'Gabriel, this stranger has a lot of nerve.' Here 'stranger' comes from 'unknown', and 'having nerve' uses a lively everyday idiom for brazen cheek."),
+    (7, None, "'But that is Vera, the director of the film!' In French, a movie director is literally 'the realizer' — the person who brings the script into reality on screen."),
+    (8, None, "'No, I have never seen her before.' In the negative, French wraps 'never' around 'have', tucking the contracted 'her' right before 'have' rather than after 'seen'."),
+    (9, None, "'Yet you worked together last week.' Notice the word order at the end: French says 'the week last', keeping 'the' and placing 'last' after 'week'."),
+    (10, None, "'I feel a bit tired now.' Literally 'I feel myself a bit tired': without 'myself', that same action in French can mean 'I smell'!"),
+    (11, None, "'I prefer to go home right away.' Instead of a separate word meaning 'home', French uses 'to my place', capped off by an expression that literally means 'all in sequence' for 'right away'."),
+    (12, None, "'Wait Guy, we must shoot this scene!' Gabriel opens with a classic false friend: it looks just like English 'attend', yet in French it always means 'wait'."),
+    (13, None, "'No, we will talk later on the phone.' French builds 'later' from 'more late', and says 'at the phone' where English says 'on the phone'."),
 ]

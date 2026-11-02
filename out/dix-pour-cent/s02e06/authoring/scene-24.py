@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the grand opening of the Cannes Film Festival, Juliette Binoche walks onto the stage in her torn evening dress. With warmth, humor, and passion, she delivers an inspiring address celebrating women in cinema. Let's listen to the scene in French first."
 OPENER = "Let's examine how Juliette Binoche wins over the audience step by step during the opening ceremony."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
 OUTRO = 'Turning a potential wardrobe disaster into an unforgettable speech, Juliette Binoche electrifies the audience and officially launches the festival. See you next time!'
 CLOSING = ('arlette', 'À demain!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('arlette', 'Elle retombe toujours sur ses pieds!', 'She always lands on her feet!', [(697, 'Elle retombe sur ses pieds !')], ''),
 ]
 WALK = [
-    (0, None, "'Look at Juliette going on stage!' Gabriel watches the opening moments of the ceremony."),
-    (1, None, "'Her evening dress is torn!' Arlette notices the visible tear in Juliette's couture gown."),
-    (2, None, "'I will explain everything tonight.' Juliette addresses the audience directly about her appearance."),
-    (3, None, "'I fell down the stairs!' Juliette humorously confesses her clumsy accident backstage."),
-    (4, None, "'But I did not want to give up.' Juliette emphasizes her determination to be present."),
-    (5, None, "'This festival enters history.' Juliette highlights the historic significance of the event."),
-    (6, None, "'Twelve films are directed by women!' Juliette celebrates the record number of female filmmakers."),
-    (7, None, "'Twelve films, that is half!' Juliette notes that women make up half the competition lineup."),
-    (8, None, "'We need their perspective.' Juliette calls for diverse voices and storytelling in cinema."),
-    (9, None, "'Their stories bring true freedom.' Juliette praises cinema as a vital space for artistic expression."),
-    (10, None, "'I am very happy tonight.' Juliette expresses her deep joy at hosting the grand occasion."),
-    (11, None, "'I declare open this great festival!' Juliette officially opens the Cannes Film Festival."),
-    (12, None, "'It is an absolute triumph, bravo!' Gabriel applauds Juliette's courage and charm on stage."),
-    (13, None, "'She always lands on her feet!' Arlette admires Juliette's ability to turn disaster into success. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Look at Juliette going on stage!' Again French needs no 'at' after 'look,' linking straight into 'Juliette mount on stage.'"),
+    (1, None, "'Her evening dress is torn!' Literally 'dress of evening,' where French distinguishes the span of an evening party from a brief 'evening' point in time."),
+    (2, None, "'I will explain everything tonight.' Present 'I to-you explain all' covers an immediate promise in French where English prefers 'I'll explain.'"),
+    (3, None, "'I fell down the stairs!' Motion 'fell' uses 'am' as its helper in French, and 'in the staircase' stands in for 'down the stairs.'"),
+    (4, None, "'But I did not want to give up.' Close cognate to English 'renounce,' that final action is the everyday French choice for 'give up' or 'quit.'"),
+    (5, None, "'This festival enters history.' Unlike English 'enters history,' French keeps 'in the'—literally 'enters in the history.'"),
+    (6, None, "'Twelve films are directed by women!' Careful false friend: in French, 'realized' for a movie ALWAYS means 'directed,' never 'understood'!"),
+    (7, None, "'Twelve films, that is half!' Even fractions keep 'the' in French—so 'half' is literally 'the half.'"),
+    (8, None, "'We need their perspective.' Literally 'their look' or 'their gaze,' a poetic expression in French for an artist's way of seeing the world."),
+    (9, None, "'Their stories bring true freedom.' Because 'stories' refers to many while 'freedom' is just one, 'their' picks up a silent '-s' on the first and drops it on the second in French."),
+    (10, None, "'I am very happy tonight.' Spoken by Juliette, 'happy' switches its '-x' ending to a soft '-se' sound that you hear clearly in French."),
+    (11, None, "'I declare open this great festival!' Official ceremonies in French love tucking 'open' right after 'declare' before unveiling 'this great festival!'"),
+    (12, None, "'It is an absolute triumph, bravo!' Notice 'triumph absolute' reversing English order in French, cheered on with international 'bravo!'"),
+    (13, None, "'She always lands on her feet!' Literally 'she falls-again always on her feet'—French uses the exact same cat-like idiom as English!"),
 ]

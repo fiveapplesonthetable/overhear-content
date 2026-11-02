@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = 'At a Cannes hotel bar, agency boss Hicham confronts Andréa after discovering that she is pregnant following their intimate night together. Claiming biological fatherhood, Hicham insists on having a say in the pregnancy, while Andréa fiercely defends her exclusive bodily autonomy. Listen to the scene in French first.'
+INTRO = 'At a Cannes hotel bar, agency boss Hicham confronts Andrea after discovering that she is pregnant following their intimate night together. Claiming biological fatherhood, Hicham insists on having a say in the pregnancy, while Andrea fiercely defends her exclusive bodily autonomy. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "Fiercely asserting her bodily autonomy, Andréa rejects Hicham's demands to participate in decisions about her pregnancy. See you next time!"
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
+OUTRO = "Fiercely asserting her bodily autonomy, Andrea rejects Hicham's demands to participate in decisions about her pregnancy. See you next time!"
 CLOSING = ('andrea', 'Bonne soirée!')
 STORY = [
     ('hicham', "Salut, Andréa! Tu viens d'arriver?", 'Hi, Andréa! Did you just arrive?', [(375, 'Salut'), (376, "Tu viens d'arriver")], ''),
@@ -33,19 +33,19 @@ STORY = [
     ('hicham', 'Cet enfant est aussi le mien!', 'That child is mine as well!', [(404, 'Cet enfant est le mien')], ''),
 ]
 WALK = [
-    (0, None, "'Hi, Andréa! Did you just arrive?' Hicham approaches her at the Cannes hotel bar."),
-    (1, None, "'Yes, I just arrived at the bar.' Andrea responds casually while ordering a drink."),
-    (2, None, "'Nothing beats these lovely strawberries.' Hicham attempts friendly small talk with complimentary fruit."),
-    (3, None, "'I will have a glass of champagne.' Andrea orders alcohol to signal independence and defiance."),
-    (4, None, "'When were you going to tell me?' Hicham abruptly drops the pleasantries to confront her."),
-    (5, None, "'I am talking about your baby.' He directly addresses her secret pregnancy."),
-    (6, None, "'No use lying, I know everything!' Hicham asserts complete knowledge of her condition."),
-    (7, None, "'That is none of your business at all.' Andrea fiercely defends her personal privacy."),
-    (8, None, "'It concerns me completely!' Hicham insists on his personal stake in the matter."),
-    (9, None, "'I am the father of that child.' He claims his biological paternity without hesitation."),
-    (10, None, "'What child? There is nobody!' Andrea denies the existence of a child at this early stage."),
-    (11, None, "'There is just me and my body.' She firmly asserts bodily autonomy over her pregnancy."),
-    (12, None, "'I am the one who decides, okay?' Andrea makes it clear that the choice belongs solely to her."),
-    (13, None, "'You do not decide all alone.' Hicham refuses to be excluded from parental decisions."),
-    (14, None, "'That child is mine as well!' He claims an equal right to the unborn child. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Hi, Andrea! Did you just arrive?' Literally 'you come of to-arrive,' French uses 'come from' plus an action to describe something that just happened seconds ago!"),
+    (1, None, "'Yes, I just arrived at the bar.' Andrea mirrors that exact 'come from arriving' expression in French, followed by contracted 'at the bar.'"),
+    (2, None, "'Nothing beats these lovely strawberries.' Literally 'nothing is worth these lovely strawberries,' a classic French compliment for top-notch food or drink."),
+    (3, None, "'I will have a glass of champagne.' For bubbly, French specifies a wide 'goblet/coupe' rather than an ordinary tumbler, introduced by polite future 'I will take.'"),
+    (4, None, "'When were you going to tell me?' Notice casual French tucking the question word 'when' right at the end instead of leading with it as in English."),
+    (5, None, "'I am talking about your baby.' Where English says 'talk about,' French links 'speak' with 'of'—literally 'I speak of your baby.'"),
+    (6, None, "'No use lying, I know everything!' Opening with 'useless of to-lie' skips 'it is' in French for a sharp, urgent confrontation."),
+    (7, None, "'That is none of your business at all.' Literally 'that does not look-at you at all,' this unforgettable idiom is how you'll hear French speakers say 'mind your own business!'"),
+    (8, None, "'It concerns me completely!' Hicham flips her exact 'look-at' idiom into the positive and caps it with a three-word chunk that means 'completely' or 'quite so.'"),
+    (9, None, "'I am the father of that child.' Before vowel-initial 'child,' masculine 'this/that' adds a 't' in French so the two words link smoothly aloud."),
+    (10, None, "'What child? There is nobody!' In the negative, 'there has nobody' drops the usual 'not' partner 'step' because 'nobody' completes the negation on its own."),
+    (11, None, "'There is just me and my body.' Using 'there has' again in French, Andrea pairs emphatic 'me' with 'my body' for blunt clarity."),
+    (12, None, "'I am the one who decides, okay?' Framing 'me' inside 'it is... who' is how speakers spotlight 'I'm the one who' in French rather than stressing plain 'I' by voice."),
+    (13, None, "'You do not decide all alone.' Because Hicham addresses Andrea, both 'all' and 'alone' pick up feminine endings that you can actually hear pronounced in French!"),
+    (14, None, "'That child is mine as well!' Standalone 'mine' in French ALWAYS keeps 'the' in front—literally 'the mine'—matching 'child' in gender."),
 ]

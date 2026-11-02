@@ -95,71 +95,24 @@ STORY = [('joey',
   "My subconscious and Julie Gayet's clash everywhere.",
   [(138, 'Mon inconscient et celui de Julie Gayet se heurtent de partout')],
   'Learner adaptation, not a verbatim French transcript.')]
-WALK = [(0,
-  None,
-  "'Say it if I'm boring you.' The word for it attaches after say in this instruction. The final action "
-  'includes the little word for you because JoeyStarr asks whether he is boring Andrea.'),
- (1,
-  None,
-  "'No, excuse me! Look, I'm listening. Go ahead, I'm all yours.' The final expression literally says I am "
-  'all to you. It promises complete attention, after the familiar instruction to go ahead.'),
- (2,
-  None,
-  "'I don't feel like it anymore now.' The phrase about having desire means feeling like doing something. "
-  'The negative expression says that desire no longer exists, rather than that he never had it.'),
- (3,
-  None,
-  "'Come on, I'm listening! And then?' The first word urges someone on. The small follow-up question asks "
-  'what happened next and encourages him to continue.'),
- (4,
-  None,
-  "'I look like an idiot! Do you know what she is doing?' Passing for something means appearing to be it in "
-  "other people's eyes. It is about the impression he makes, rather than physically going past someone."),
- (5,
-  None,
-  "'No.' A brief negative reply can stand on its own. Here it answers whether Andrea knows the incident "
-  'JoeyStarr is about to describe.'),
- (6,
-  None,
-  "'She didn't have her script with her.' The past form of have describes the situation at that time. The "
-  'word for her appears again after with, referring back to Julie.'),
- (7,
-  None,
-  "'So me, being nice, I give her mine.' The word for hers or his can also mean to her or to him before an "
-  'action. Here it means to her; the final possessive means mine, standing in for my script.'),
- (8,
-  None,
-  "'She takes it like a dirty rag! It's annoying.' The little word for it stands before takes. The dirty rag "
-  'is a comparison that shows how insulting he found the gesture.'),
- (9,
-  None,
-  "'No, it's fine.' The expression literally says that goes. With the short no in front, Andrea is saying "
-  'there is no problem with leaving the phone unanswered.'),
- (10,
-  None,
-  "'Answer it!' This familiar instruction comes straight from the action answer. French can leave its object "
-  'unstated when the ringing phone makes it obvious.'),
- (11,
-  None,
-  "'Okay. I met this girl.' The completed past introduces a new event: meeting someone. The word for this "
-  'points to one particular woman she now wants to discuss.'),
- (12,
-  None,
-  "'She's not my type. She's blonde, she's normal!' Type can refer to the kind of person someone is "
-  'attracted to. The two descriptions that follow are feminine because she is describing a woman.'),
- (13,
-  None,
-  "'But I'm drawn to her like a magnet.' The comparison uses like before magnet. The word meaning by "
-  'introduces the person who attracts him, with the strong form of her after it.'),
- (14,
-  None,
-  "'You see? It's very powerful.' The short question checks whether the listener follows his explanation. "
-  'Very strengthens the description powerful.'),
- (15,
-  None,
-  "'My subconscious and Julie Gayet's clash everywhere.' The word meaning the one stands in for subconscious "
-  "after Julie's name is introduced. The plural action says that the two inner worlds collide with each "
-  'other.')]
+WALK = [
+    (0, None, "'Say it if I'm boring you.' The word for it attaches after say in this instruction. The final action includes the little word for you because JoeyStarr asks whether he is boring Andrea."),
+    (1, None, "'No, excuse me! Look, I'm listening. Go ahead, I'm all yours.' The final expression literally says I am all to you. It promises complete attention, after the familiar instruction to go ahead."),
+    (2, None, "'I don't feel like it anymore now.' The phrase about having desire means feeling like doing something. The negative expression says that desire no longer exists, rather than that he never had it."),
+    (3, None, "'Come on, I'm listening! And then?' The first word urges someone on. The small follow-up question asks what happened next and encourages him to continue."),
+    (4, None, "'I look like an idiot! Do you know what she is doing?' Passing for something means appearing to be it in other people's eyes. It is about the impression he makes, rather than physically going past someone."),
+    (5, None, "'No.' A brief negative reply can stand on its own. Here it answers whether Andrea knows the incident JoeyStarr is about to describe."),
+    (6, None, "'She didn't have her script with her.' The past form of have describes the situation at that time. The word for her appears again after with, referring back to Julie."),
+    (7, None, "'So me, being nice, I give her mine.' The word for hers or his can also mean to her or to him before an action. Here it means to her; the final possessive means mine, standing in for my script."),
+    (8, None, "'She takes it like a dirty rag! It's annoying.' That short word for it stands before takes. The dirty rag is a comparison that shows how insulting he found the gesture."),
+    (9, None, "'No, it's fine.' The expression literally says that goes. With the short no in front, Andrea is saying there is no problem with leaving the phone unanswered."),
+    (10, None, "'Answer it!' This familiar instruction comes straight from the action answer. French can leave its object unstated when the ringing phone makes it obvious."),
+    (11, None, "'Okay. I met this girl.' The completed past introduces a new event: meeting someone. The word for this points to one particular woman she now wants to discuss."),
+    (12, None, "'She's not my type. She's blonde, she's normal!' Type can refer to the kind of person someone is attracted to. The two descriptions that follow are feminine because she is describing a woman."),
+    (13, None, "'But I'm drawn to her like a magnet.' The comparison uses like before magnet. The word meaning by introduces the person who attracts him, with the strong form of her after it."),
+    (14, None, "'You see? It's very powerful.' The short question checks whether the listener follows his explanation. Very strengthens the description powerful."),
+    (15, None, "'My subconscious and Julie Gayet's clash everywhere.' The word meaning the one stands in for subconscious after Julie's name is introduced. The plural action says that the two inner worlds collide with each other."),
+]
 SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the '
  'bilingual working subtitles, whose French track is backtranslated; source video and separate '
  'original-audio checks verify roles, plot and register.')

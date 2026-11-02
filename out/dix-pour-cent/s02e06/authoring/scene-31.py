@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
-INTRO = "Beside the illuminated swimming pool at Cannes, Andréa confides her biggest secret to Gabriel. When Hicham arrives with a vision for the agency's international future, the team seals their bond with a midnight leap. Listen to the scene in French first. Don't worry about catching every word."
+INTRO = "Beside the illuminated swimming pool at Cannes, Andrea confides her biggest secret to Gabriel. When Hicham arrives with a vision for the agency's international future, the team seals their bond with a midnight leap. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this unforgettable poolside season finale step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'As Andréa shares her life-changing secret with Gabriel, Hicham reveals his grand international ambitions before everyone dives into the pool together. See you next time!'
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
+OUTRO = 'As Andrea shares her life-changing secret with Gabriel, Hicham reveals his grand international ambitions before everyone dives into the pool together. See you next time!'
 CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('andrea', 'Gabriel, je suis enceinte.', 'Gabriel, I am pregnant.', [(883, 'Je suis enceinte')], ''),
@@ -33,19 +33,19 @@ STORY = [
     ('andrea', 'Oui, nous restons toujours ensemble!', 'Yes, we are always staying together!', [(911, "On reste soudés, d'accord")], ''),
 ]
 WALK = [
-    (0, None, "'Gabriel, I am pregnant.' Andrea reveals the secret that has weighed on her all weekend."),
-    (1, None, "'It is Hicham's baby.' Andrea drops the second stunning revelation regarding paternity."),
-    (2, None, "'And I don't know what to do.' Andrea openly shares her profound confusion and vulnerability."),
-    (3, None, "'That is the crazy thing about you.' Gabriel reacts with disbelief mixed with deep affection."),
-    (4, None, "'You always have something extra.' Gabriel acknowledges her uncanny ability to shock everyone."),
-    (5, None, "'You are my best friend, Andréa.' Gabriel reaffirms their unbreakable bond across all crises."),
-    (6, None, "'Thank you for being there for me.' Andrea expresses heartfelt gratitude for his loyalty."),
-    (7, None, "'I want to buy the American agency UBA.' Hicham unveils his audacious expansion plan."),
-    (8, None, "'An opening into the international market.' Hicham outlines a bold global vision for ASK."),
-    (9, None, "'It is a very ambitious project!' Gabriel admires the bold scale of the endeavor."),
-    (10, None, "'I will need help from all of you.' Hicham genuinely asks for the agents' professional partnership."),
-    (11, None, "'We make a real team now.' Andrea embraces their collective strength heading into the future."),
-    (12, None, "'So, everyone into the pool!' Hicham playfully calls for a celebratory midnight plunge."),
-    (13, None, "'We always stick together, right?' Gabriel reminds everyone of their shared solidarity."),
-    (14, None, "'Yes, we are always staying together!' Andrea seals the family pact as they leap into the water. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Gabriel, I am pregnant.' Simple three-word confession in French—where the final description ONLY means 'pregnant,' never 'expectant' in any other sense."),
+    (1, None, "'It is Hicham's baby.' Because Hicham starts with an aspirated 'H' in this speaker's phrasing, 'of' stays full rather than eliding before his name in French."),
+    (2, None, "'And I don't know what to do.' Pairing 'I not know' with 'what to-do' gives you a timeless, reusable sentence for moments of doubt in French."),
+    (3, None, "'That is the crazy thing about you.' Casual French reaches for a beloved four-letter catch-all term that means 'thing' or 'whatchamacallit,' paired with slang 'crazy'!"),
+    (4, None, "'You always have something extra.' Literally 'a thing in more,' where 'in more' at the end is the idiomatic French way to say 'extra.'"),
+    (5, None, "'You are my best friend, Andrea.' Adding a silent '-e' onto 'friend' marks Andrea as female in French, preceded by 'best.'"),
+    (6, None, "'Thank you for being there for me.' After 'thank you,' French uses 'of' plus bare 'to be' where English says 'for being.'"),
+    (7, None, "'I want to buy the American agency UBA.' Putting 're-' onto 'buy' builds the corporate expression in French for 'buy out' or 'acquire' another company!"),
+    (8, None, "'An opening into the international market.' Notice 'market international' reversing English order, introduced by 'an opening on' rather than 'into.'"),
+    (9, None, "'It is a very ambitious project!' Both 'project' and 'ambitious' are easy cognates, arranged as 'project very ambitious' in French."),
+    (10, None, "'I will need help from all of you.' Adding 'to all' onto 'your help' clarifies in French that 'your' addresses the whole group rather than one person!"),
+    (11, None, "'We make a real team now.' Literally 'we form a true team,' using 'form' where English says 'make a real team.'"),
+    (12, None, "'So, everyone into the pool!' Literally 'all the world in the pool!'—since 'all the world' is how French always says 'everybody'!"),
+    (13, None, "'We always stick together, right?' Literally 'welded' or 'soldered together,' a powerful French metaphor for friends who stay inseparable!"),
+    (14, None, "'Yes, we are always staying together!' Switching from casual 'one' to formal 'we stay always together' closes the season on a warm, united vow in French."),
 ]

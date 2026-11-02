@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Back in the south of France, Camille helps her mother Annick at the family hair salon. Annick gossips about celebrities and scolds Camille for ever trusting Mathias and his agency partners. Let's listen to the scene in French first."
 OPENER = "Let's examine Camille and her mother's candid discussion step by step to explore family dynamics and disillusionment."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
 OUTRO = "Camille faces the harsh truth about her brief career at ASK as her mother questions the loyalty of Mathias and the Parisian agency. Let's review the vocabulary and expressions from this scene. See you next time!"
 CLOSING = ('annick', 'Bonne journée!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('annick', "Ce milieu n'est que de la façade.", 'This world is nothing but a facade.', [(132, "Tout ça c'est de la façade.")], ''),
 ]
 WALK = [
-    (0, None, "'Tell me stories about your actors!' Annick presses Camille for juicy gossip about celebrity clients."),
-    (1, None, "'I really know nothing, Mom.' Camille deflects her mother's prying questions about stars."),
-    (2, None, "'They are just fairground animals.' Annick expresses cynical disdain for famous people."),
-    (3, None, "'They are people who work hard.' Camille defends the artistic profession and dignity of actors."),
-    (4, None, "'Then why did you not stay there?' Annick points out the painful irony of Camille's departure."),
-    (5, None, "'In your wonderful world of showbiz!' Annick scoffs at the glamorous image of Parisian cinema."),
-    (6, None, "'Neither your boss nor your father reacted!' Annick criticizes the people in power at ASK."),
-    (7, None, "'Nobody tried to keep you there!' Annick emphasizes how easily the agency let Camille walk away."),
-    (8, None, "'I lied to Andréa for months.' Camille takes responsibility for hiding her relationship with Mathias."),
-    (9, None, "'She does not trust me at all anymore.' Camille understands why Andrea felt deeply betrayed."),
-    (10, None, "'And Mathias is very busy with his divorce.' Camille explains her father's chaotic personal life."),
-    (11, None, "'Is that how he thanks you?' Annick expresses maternal outrage over Mathias's lack of loyalty."),
-    (12, None, "'This world is nothing but a facade.' Annick concludes that Parisian agency glamour hides cold reality. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Tell me stories about your actors!' Built from 'recount-me,' this command uses the word that can mean both 'stories' and 'gossip,' paired with 'on' instead of 'about.'"),
+    (1, None, "'I really know nothing, Mom.' In the negative, French sandwiches 'know' and 'really' before 'nothing,' so word-for-word Camille says 'I not know really nothing.'"),
+    (2, None, "'They are just fairground animals.' Literally 'beasts of fair,' this biting French idiom mocks celebrities paraded around as circus curiosities."),
+    (3, None, "'They are people who work hard.' Closing with 'hard' right after 'work' mirrors English directly—literally 'people who work hard.'"),
+    (4, None, "'Then why did you not stay there?' Notice 'stayed' takes 'are' rather than 'have' as its helper in French, while a hyphenated compound at the end means 'over there.'"),
+    (5, None, "'In your wonderful world of showbiz!' Here French keeps 'showbiz' straight from English and tucks 'of the' right before it."),
+    (6, None, "'Neither your boss nor your father reacted!' Repeating that short negator twice builds 'neither... nor' in French, while still keeping 'not' before 'have reacted.'"),
+    (7, None, "'Nobody tried to keep you there!' Starting with 'nobody' in the negative drops 'not' right before the helper, while 'sought to retain you' means 'tried to keep you.'"),
+    (8, None, "'I lied to Andrea for months.' Unlike English 'lied to,' French requires 'to' before the person, and uses 'during months' where English says 'for months.'"),
+    (9, None, "'She does not trust me at all anymore.' Combining 'no longer' with 'at all' piles extra finality onto the 'do confidence' expression for trusting someone."),
+    (10, None, "'And Mathias is very busy with his divorce.' Where English says 'busy with,' French links 'occupied' to its cause with 'by'—literally 'occupied by his divorce.'"),
+    (11, None, "'Is that how he thanks you?' Literally 'it is like that that he thanks you,' this indignant opener is what you'd say whenever someone repays loyalty poorly."),
+    (12, None, "'This world is nothing but a facade.' English took 'facade' from French, where framing 'is' with 'not... than' means 'is nothing but' pure window dressing."),
 ]

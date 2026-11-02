@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "The meeting between Isabelle Adjani and director Sacha Hartman has completely collapsed. As Isabelle storms out in fury, Camille rushes to find Mathias hiding in his office, paralyzed with panic. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the tense hallway exchange and panic step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
+TRANSITION = "Now let's listen to the whole scene again at normal speed, and see how much more you catch."
 OUTRO = 'After Isabelle storms out of the agency, Camille forcefully snaps Mathias out of his panic and pushes him to face the partners. See you next time!'
 CLOSING = ('camille', 'Bonne journée!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('mathias', "D'accord, je viens avec toi.", 'All right, I am coming with you.', [(896, 'Maintenant viens')], ''),
 ]
 WALK = [
-    (0, None, "'Congratulate Mathias on his absence.' Isabelle delivers a bitterly sarcastic remark before leaving."),
-    (1, None, "'For what, Isabelle?' Camille asks with genuine confusion and concern."),
-    (2, None, "'Tell him to wait awhile.' Isabelle uses a polite imperative directed at the missing agent."),
-    (3, None, "'Say, the rest of my life.' Isabelle emphasizes that she never wants to hear from him again."),
-    (4, None, "'Mathias, it is a disaster!' Camille bursts into the office in complete panic."),
-    (5, None, "'Adjani and Hartman stormed out.' The past tense describes their sudden departure."),
-    (6, None, "'We must go right away!' Camille urges Mathias to take immediate action."),
-    (7, None, "'Go on, I am staying here.' Mathias refuses to move, paralyzed by guilt and embarrassment."),
-    (8, None, "'Tell them whatever you want.' Mathias surrenders all control to his assistant."),
-    (9, None, "'Say that I have disappeared.' Mathias seeks any possible excuse to hide."),
-    (10, None, "'What? Are you crazy?' Camille is shocked by his complete defeatism."),
-    (11, None, "'Say that I am dead.' Mathias exaggerates his professional ruin with grim despair."),
-    (12, None, "'This is not you.' Camille firmly challenges his uncharacteristic weakness."),
-    (13, None, "'You are a fighter, a winner!' Camille motivates him with powerful words of encouragement."),
-    (14, None, "'Come on, get up now!' Camille commands him to snap out of his stupor."),
-    (15, None, "'All right, I am coming with you.' Mathias finally gathers the resolve to stand up. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'Congratulate Mathias on his absence.' Congratulating someone 'on' something takes 'for' in French, sharpening Isabelle's parting sarcasm."),
+    (1, None, "'For what, Isabelle?' Spelled as two separate words rather than single-word 'why?', 'for what?' asks specifically what Mathias is being congratulated for in French."),
+    (2, None, "'Tell him to wait awhile.' Joining 'to him' onto polite 'say' and linking 'wait' with shortened 'of' builds 'tell him to wait' in French."),
+    (3, None, "'Say, the rest of my life.' Using 'let us say' in French just like English 'say...' sets up Isabelle's icy 'the rest of my life'."),
+    (4, None, "'Mathias, it is a disaster!' Putting 'the' rather than 'a' before 'catastrophe' makes it sound like total meltdown in French."),
+    (5, None, "'Adjani and Hartman stormed out.' Actions of coming and going like 'departed' pair with 'are' rather than 'have' in the past in French."),
+    (6, None, "'We must go right away!' Combining 'it is necessary' with 'to go there' is a handy phrase you'll hear constantly meaning 'we have got to go!'."),
+    (7, None, "'Go on, I am staying here.' Normally casual 'go!' drops its 's', yet French keeps that 's' and pronounces it as 'z' before 'there' for smooth linking."),
+    (8, None, "'Tell them whatever you want.' Joining 'to them' onto casual 'say' needs no final 's' in French, followed by 'that which you want'."),
+    (9, None, "'Say that I have disappeared.' Unlike 'left' in line five, 'disappeared' builds its past with 'have' in French, introduced by 'say that'."),
+    (10, None, "'What? Are you crazy?' Standing all by itself as an exclamation, that single word meaning 'what?' sounds blunt and shocked in French."),
+    (11, None, "'Say that I am dead.' Just like 'born' and 'gone', 'died' pairs with 'am' in French, so 'I am dead' and 'I have died' share one form."),
+    (12, None, "'This is not you.' Adding 'that' onto the end after a comma echoes the opener for punchy spoken emphasis — 'that's not like you!' in French."),
+    (13, None, "'You are a fighter, a winner!' Built from 'beat' and 'win' with '-ant' endings, those two rhyming pep-talk words mean 'a fighter, a winner'."),
+    (14, None, "'Come on, get up now!' Built from 'raise yourself', the casual command 'get up!' gets extra urgency from 'come on!' up front in French."),
+    (15, None, "'All right, I am coming with you.' Simple present 'I come' covers 'I am coming' in French, ending on stressed casual 'you' after 'with'."),
 ]

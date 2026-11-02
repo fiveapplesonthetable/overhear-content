@@ -99,73 +99,24 @@ STORY = [('catherine',
   'You saw her with him? Okay.',
   [(413, "Tu l'as vue avec lui"), (415, "D'accord")],
   'Learner adaptation, not a verbatim French transcript.')]
-WALK = [(0,
-  None,
-  "'What's that?' The question word can come after the identifying expression in familiar speech. The last "
-  'word points to whatever has made the noise.'),
- (1,
-  None,
-  "'Stay there, I'll go and see.' The familiar instruction addresses one person. A form of go then "
-  'introduces what Mathias is about to do: find out what is happening.'),
- (2,
-  None,
-  "'You scared me!' Scaring someone literally uses make with fear. The little word for me attaches to the "
-  'past helper and marks the person who felt it.'),
- (3,
-  None,
-  "'What are you doing?' The longer question opening is an everyday way to ask what. The present form asks "
-  'about what Hippolyte is doing right now.'),
- (4,
-  None,
-  "'Nothing, I was a bit thirsty.' Thirst uses have in French. The past form describes how he felt, while a "
-  'little reduces the amount he claims to have needed.'),
- (5,
-  None,
-  "'My friends came round, we had nothing to drink.' The completed action came round uses be as its helper. "
-  'Nothing to drink combines a negative with a basic action to explain what the friends lacked.'),
- (6,
-  None,
-  "'Are you with Camille?' With can mean being in a relationship in this context. The question is about "
-  "Hippolyte's connection to Camille, not simply whether she is standing beside him."),
- (7,
-  None,
-  "'No. Why do you ask?' The question leaves why at the beginning of an otherwise ordinary statement order. "
-  "It asks for Mathias's reason for suddenly bringing up Camille."),
- (8,
-  None,
-  "'No reason.' The two French words literally mean for nothing. In this exchange they deny that there is "
-  'any particular reason for asking.'),
- (9,
-  None,
-  "'There is a reason! Did she tell you something?' The special affirmative contradicts that denial. The "
-  'next completed action puts the little word for to you before the past helper, identifying who might have '
-  'heard something.'),
- (10,
-  None,
-  "'No. But she's not right for you.' Being right for someone literally says being made for them. The "
-  'completed form is feminine because it describes Camille.'),
- (11,
-  None,
-  "'Explain that to me.' The little word for to me attaches after the instruction explain. The final that "
-  'points back to the claim Hippolyte wants justified.'),
- (12,
-  None,
-  "'Be careful with her. She did not tell you everything.' The first expression is reflexive and means "
-  'beware or distrust. Not everything is different from nothing: Mathias claims she has withheld part of the '
-  'story.'),
- (13,
-  None,
-  "'You're scaring me, Dad. What?' The same expression about making fear now appears in the present. Dad "
-  'makes the family relationship explicit at the very moment the explanation becomes alarming.'),
- (14,
-  None,
-  "'She has a boyfriend. He comes to the agency.' A little friend can mean boyfriend as a fixed expression. "
-  'The next sentence identifies where the supposed rival comes, strengthening the lie with a concrete '
-  'detail.'),
- (15,
-  None,
-  "'You saw her with him? Okay.' The completed action seen is written with a feminine ending because her "
-  'appears before the past helper. With him is the person Mathias claims he saw beside her.')]
+WALK = [
+    (0, None, "'What's that?' The question word can come after the identifying expression in familiar speech. The last word points to whatever has made the noise."),
+    (1, None, "'Stay there, I'll go and see.' The familiar instruction addresses one person. A form of go then introduces what Mathias is about to do: find out what is happening."),
+    (2, None, "'You scared me!' Scaring someone literally uses make with fear. The small word for me attaches to the past helper and marks the person who felt it."),
+    (3, None, "'What are you doing?' The longer question opening is an everyday way to ask what. The present form asks about what Hippolyte is doing right now."),
+    (4, None, "'Nothing, I was a bit thirsty.' Thirst uses have in French. The past form describes how he felt, while a little reduces the amount he claims to have needed."),
+    (5, None, "'My friends came round, we had nothing to drink.' The completed action came round uses be as its helper. Nothing to drink combines a negative with a basic action to explain what the friends lacked."),
+    (6, None, "'Are you with Camille?' With can mean being in a relationship in this context. The question is about Hippolyte's connection to Camille, not simply whether she is standing beside him."),
+    (7, None, "'No. Why do you ask?' The question leaves why at the beginning of an otherwise ordinary statement order. It asks for Mathias's reason for suddenly bringing up Camille."),
+    (8, None, "'No reason.' The two French words literally mean for nothing. In this exchange they deny that there is any particular reason for asking."),
+    (9, None, "'There is a reason! Did she tell you something?' The special affirmative contradicts that denial. The next completed action puts the little word for to you before the past helper, identifying who might have heard something."),
+    (10, None, "'No. But she's not right for you.' Being right for someone literally says being made for them. The completed form is feminine because it describes Camille."),
+    (11, None, "'Explain that to me.' The tiny word for to me attaches after the instruction explain. The final that points back to the claim Hippolyte wants justified."),
+    (12, None, "'Be careful with her. She did not tell you everything.' The first expression is reflexive and means beware or distrust. Not everything is different from nothing: Mathias claims she has withheld part of the story."),
+    (13, None, "'You're scaring me, Dad. What?' The same expression about making fear now appears in the present. Dad makes the family relationship explicit at the very moment the explanation becomes alarming."),
+    (14, None, "'She has a boyfriend. He comes to the agency.' A little friend can mean boyfriend as a fixed expression. The next sentence identifies where the supposed rival comes, strengthening the lie with a concrete detail."),
+    (15, None, "'You saw her with him? Okay.' The completed action seen is written with a feminine ending because her appears before the past helper. With him is the person Mathias claims he saw beside her."),
+]
 SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. The dual working subtitles contain '
  'a backtranslated French track. Roles, plot and register are checked against source video and original '
  'French audio.')

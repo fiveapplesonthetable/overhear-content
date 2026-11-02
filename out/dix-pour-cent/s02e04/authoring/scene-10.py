@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'sacha': 'Sacha'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = "In his hotel suite, director Sacha Hartman vents his bitter resentment toward Isabelle Adjani after her sudden absence. Andréa listens patiently and uses sharp psychology to change his mind. Let's listen to the scene in French first."
+INTRO = "In his hotel suite, director Sacha Hartman vents his bitter resentment toward Isabelle Adjani after her sudden absence. Andrea listens patiently and uses sharp psychology to change his mind. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
-TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Andréa masterfully reverses Sacha Hartman's childhood resentment by questioning his courage. Provoked by her subtle reverse psychology, Sacha agrees to meet Isabelle Adjani face to face. See you next time!"
+TRANSITION = "Now let's hear the entire dialogue once more to lock in what you have learned."
+OUTRO = "Andrea masterfully reverses Sacha Hartman's childhood resentment by questioning his courage. Provoked by her subtle reverse psychology, Sacha agrees to meet Isabelle Adjani face to face. See you next time!"
 CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('andrea', "Elle n'a pas pu venir. Elle s'en excuse.", 'She could not come. She apologizes.', [(251, "Elle n'a pas pu venir. Elle s'en excuse.")], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('andrea', "Bien sûr, c'est vous qui décidez.", 'Of course, you are the one who decides.', [(300, "Bien sûr, c'est vous qui décidez.")], ''),
 ]
 WALK = [
-    (0, None, "'She could not come. She apologizes.' Andrea conveys Isabelle's polite excuse."),
-    (1, None, "'It is ridiculous. A legendary actress!' Sacha expresses his sharp frustration."),
-    (2, None, "'Nobody knows better than me who Isabelle Adjani is.' Sacha asserts his deep childhood connection."),
-    (3, None, "'As a child, I had fragile bones and I was often hospitalized.' Sacha recalls his painful youth."),
-    (4, None, "'Do you know the loneliness of a sick child?' Sacha asks a poignant rhetorical question."),
-    (5, None, "'No, I know the loneliness of a bored child.' Andrea replies with honest empathy."),
-    (6, None, "'That is how I discovered Isabelle Adjani.' Sacha recounts his cinematic revelation."),
-    (7, None, "'She was everything to me. I wanted to make films for her.' Sacha describes his artistic inspiration."),
-    (8, None, "'I wrote to her, but the reply was cold and stupid.' Sacha shares his painful childhood rejection."),
-    (9, None, "'I will never forgive her. That woman is dead to me.' Sacha declares his lasting grudge."),
-    (10, None, "'She will think that she intimidates you.' Andrea skillfully challenges his masculine ego."),
-    (11, None, "'Nonsense. I am not afraid of her.' Sacha reacts defensively to the implication."),
-    (12, None, "'You know what? Forget it.' Andrea pretends to abandon the negotiation."),
-    (13, None, "'Who cares what Adjani thinks?' Andrea dismisses the actress to provoke his competitive instinct."),
-    (14, None, "'I am going to see her, we are going to clear things up.' Sacha resolves to confront the star directly."),
-    (15, None, "'Of course, you are the one who decides.' Andrea seals her psychological triumph smoothly. Now let's listen to the entire dialogue once more to lock in what you have learned."),
+    (0, None, "'She could not come. She apologizes.' Literally 'she excuses herself of it', tucking that tiny word meaning 'of it' inside makes the apology sound polished."),
+    (1, None, "'It is ridiculous. A legendary actress!' Both 'ridiculous' and 'legendary' are clear cognates, with 'legendary' placed after 'actress' in French."),
+    (2, None, "'Nobody knows better than me who Isabelle Adjani is.' Pairing 'nobody' with the negative marker needs no 'not' in French, and the ending flips to 'who is Isabelle Adjani'."),
+    (3, None, "'As a child, I had fragile bones and I was often hospitalized.' Starting with bare 'child' without 'as a' sets the childhood scene cleanly in French, while body parts take 'the'."),
+    (4, None, "'Do you know the loneliness of a sick child?' French chooses its 'know through experience' word here rather than its 'know a fact' word."),
+    (5, None, "'No, I know the loneliness of a bored child.' Where English uses one describing word 'bored', French says 'a child who bores himself'."),
+    (6, None, "'That is how I discovered Isabelle Adjani.' Literally 'it is like that that', this handy spoken frame points back to the story Sacha just told."),
+    (7, None, "'She was everything to me. I wanted to make films for her.' French says 'for me' rather than 'to me', then echoes 'for her' symmetrically in the next sentence."),
+    (8, None, "'I wrote to her, but the reply was cold and stupid.' Slipping 'to her' ahead of 'have written' in French spares any separate connector meaning 'to'."),
+    (9, None, "'I will never forgive her. That woman is dead to me.' In French you forgive 'to someone', and 'dead for me' matches the dramatic English idiom 'dead to me'."),
+    (10, None, "'She will think that she intimidates you.' Unlike English, French never drops the connecting word meaning 'that' after 'think'."),
+    (11, None, "'Nonsense. I am not afraid of her.' Opening with an idiom literally meaning 'no matter what' dismisses the claim as rubbish, followed by 'have fear of'."),
+    (12, None, "'You know what? Forget it.' Literally 'let fall', that two-word command is what you'd say for 'drop it' or 'never mind'."),
+    (13, None, "'Who cares what Adjani thinks?' Built around a casual expression meaning 'not give a darn about it', this rhetorical question baits Sacha's pride."),
+    (14, None, "'I am going to see her, we are going to clear things up.' Literally 'put the things to the clear', this handy phrase means 'set the record straight'."),
+    (15, None, "'Of course, you are the one who decides.' Opening with 'well sure' for 'of course', Andrea flatters Sacha with the polite 'you' spotlight frame."),
 ]

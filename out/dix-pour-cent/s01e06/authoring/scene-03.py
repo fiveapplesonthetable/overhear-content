@@ -68,60 +68,19 @@ STORY = [('camille', "C'est moi qui ai tout fait.", 'It was all my doing.', [(59
   [(84, "Je m'inquiète pour ta mère")],
   'Mathias is speaking to his son Hippolyte.'),
  ('mathias', "Appelle-moi, s'il te plaît.", 'Call me, please.', [(88, 'Appelle-moi, hein ?')], '')]
-WALK = [(0,
-  None,
-  "'It was all my doing.' The opening singles out 'me': Camille takes responsibility. The final word means 'done', and "
-  "the word just before it means 'everything'. Together they say she did it all."),
- (1,
-  None,
-  "'I came to Paris, I went to the agency.' Both journeys use 'I am' plus a completed action: came up and went. "
-  'Because Camille is female, both written action words have an extra final letter. You cannot hear that letter here.'),
- (2,
-  None,
-  "'It was a sudden urge.' The beginning looks back with 'it was'. The noun is an urge or desire. Its following "
-  "adjective means 'sudden' and takes the feminine form to match it."),
- (3,
-  None,
-  "'Before that, did you see him from time to time?' The question begins 'before that'. The object just before 'used "
-  "to see' means 'him'. The final repeated time expression means 'from time to time', so she is asking about a habit."),
- (4,
-  None,
-  "'When I was little, once or twice a year.' The opening means 'when I was little'. After that, Camille counts "
-  "visits: one or two occasions per year. The word before 'year' gives the rate, 'per'."),
- (5,
-  None,
-  "'What did you do?' Catherine asks what they used to do. The final verb looks back at repeated activities. The word "
-  "for 'you' refers to Camille and her father together here, so it is plural."),
- (6,
-  None,
-  "'He would bring me a gift and spend time with me.' The shortened object before 'brought' means 'to me'. The two "
-  'past actions describe a routine: he brought a gift and spent time. The final words identify who was with him: '
-  'Camille.'),
- (7,
-  None,
-  "'How old are you?' French asks age with 'have': literally, 'you have what age?' The question word stays near the "
-  'end in this very common spoken order.'),
- (8,
-  None,
-  "'I turned twenty-three last week.' Camille says she turned twenty-three. French counts age in years using 'have'. "
-  'Here the completed past form means reaching that age; the final two words place it last week.'),
- (9,
-  None,
-  "'Pack your things and get out!' We have moved to Catherine confronting Mathias at home. The two commands tell him "
-  "to take his belongings and go away. The possessive before 'things' means 'your'."),
- (10,
-  None,
-  "'Can we talk before shouting?' Mathias asks for a conversation. The opening word means 'we' in this context, "
-  "followed by 'can'. The final phrase puts talking before the action of shouting."),
- (11,
-  None,
-  "'I was pregnant! Leave!' Catherine is speaking about her own pregnancy in the past. Then she switches to a one-word "
-  "command meaning 'leave', aimed at Mathias."),
- (12,
-  None,
-  "'I am worried about your mother.' Now Mathias addresses Hippolyte, their son. The verb means 'worry' and includes a "
-  "shortened reflexive pronoun. The last two words are 'your mother', so he is worried about Catherine."),
- (13,
-  None,
-  "'Call me, please.' The action is a command, 'call', with 'me' attached after a hyphen. The final polite expression "
-  "makes the request 'please'; it does not change whom he is speaking to.")]
+WALK = [
+    (0, None, "'It was all my doing.' The opening singles out 'me': Camille takes responsibility. The final word means 'done', and the word just before it means 'everything'. Together they say she did it all."),
+    (1, None, "'I came to Paris, I went to the agency.' Both journeys use 'I am' plus a completed action: came up and went. Because Camille is female, both written action words have an extra final letter. You cannot hear that letter here."),
+    (2, None, "'It was a sudden urge.' The beginning looks back with 'it was'. The noun is an urge or desire. Its following adjective means 'sudden' and takes the feminine form to match it."),
+    (3, None, "'Before that, did you see him from time to time?' The question begins 'before that'. The object just before 'used to see' means 'him'. The final repeated time expression means 'from time to time', so she is asking about a habit."),
+    (4, None, "'When I was little, once or twice a year.' The opening means 'when I was little'. After that, Camille counts visits: one or two occasions per year. The word before 'year' gives the rate, 'per'."),
+    (5, None, "'What did you do?' Catherine asks what they used to do. The final verb looks back at repeated activities. The French word for 'you' refers to Camille and her father together here, so it is plural."),
+    (6, None, "'He would bring me a gift and spend time with me.' The shortened object before 'brought' means 'to me'. The two past actions describe a routine: he brought a gift and spent time. The final words identify who was with him: Camille."),
+    (7, None, "'How old are you?' French asks age with 'have': literally, 'you have what age?' The question word stays near the end in this very common spoken order."),
+    (8, None, "'I turned twenty-three last week.' Camille says she turned twenty-three. French counts age in years using 'have'. Here the completed past form means reaching that age; the final two words place it last week."),
+    (9, None, "'Pack your things and get out!' We have moved to Catherine confronting Mathias at home. The two commands tell him to take his belongings and go away. The possessive before 'things' means 'your'."),
+    (10, None, "'Can we talk before shouting?' Mathias asks for a conversation. The opening word means 'we' in this context, followed by 'can'. The final phrase puts talking before the action of shouting."),
+    (11, None, "'I was pregnant! Leave!' Catherine is speaking about her own pregnancy in the past. Then she switches to a one-word command meaning 'leave', aimed at Mathias."),
+    (12, None, "'I am worried about your mother.' Now Mathias addresses Hippolyte, their son. The verb means 'worry' and includes a shortened reflexive pronoun. The last two words are 'your mother', so he is worried about Catherine."),
+    (13, None, "'Call me, please.' The action is a command, 'call', with 'me' attached after a hyphen. The final polite expression makes the request 'please'; it does not change whom he is speaking to."),
+]

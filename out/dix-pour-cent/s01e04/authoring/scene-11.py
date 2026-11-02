@@ -14,7 +14,7 @@ INTRO = ("At the agency, Andréa's ex-girlfriend Clémentine confronts her in th
  'has just denied being a serial seducer, so the timing could hardly be worse. Listen to their exchange in French '
  'first.')
 OPENER = "Let's walk through it line by line. Andréa and Colette encounter Clémentine in the agency hall."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("Clémentine's confrontation has done nothing to help Andréa's chances with Colette. Meanwhile, Audrey arrives at "
  'the agency to meet Augustin about his film. See you next time!')
 CLOSING = ('andrea', 'Merci, au revoir.')
@@ -64,55 +64,19 @@ STORY = [('andrea',
   [(306, "besoin d'un nouveau")],
   ''),
  ('andrea', 'Les gens sont malades, non?', "People are crazy, aren't they?", [(307, 'Les gens sont malades')], '')]
-WALK = [(0,
-  None,
-  "'Clémentine! What are you doing here?' This long question phrase after Clémentine's name is the everyday "
-  "spoken way to ask 'what'."),
- (1,
-  None,
-  "'I have to do this in order to heal.' The first action word means 'must' or 'have to', and the linking word "
-  "before 'heal' means 'in order to'."),
- (2,
-  None,
-  "'Okay, but another time!' The word meaning 'another' follows the feminine form of 'a'. Together with 'time', "
-  'it means a different occasion, not one more repetition right now.'),
- (3,
-  None,
-  "'You're a monster of seduction.' The word for 'monster' stays masculine even though Andréa is a woman. It is "
-  'the name of the thing Clémentine compares her to.'),
- (4, None, "'Clémentine, listen.' Andréa gives a casual command for one person, dropping the word for 'you'."),
- (5,
-  None,
-  "'You devoured me like a hyena!' The past form has an extra feminine letter at the end because the object word "
-  'before the auxiliary refers to Clémentine.'),
- (6,
-  None,
-  "'That's ridiculous. It didn't last a month!' The two-part negative wraps around the helper word in the past."),
- (7,
-  None,
-  "'I'm talking about feelings! I had feelings for you.' The second verb is in the past form used for how things "
-  'used to be.'),
- (8,
-  None,
-  "'And you asked your assistant to break up with me!' The request uses 'ask someone to do something'. French "
-  "puts a short linking word before the second action, 'leave me'. Clémentine objects to having received the "
-  'breakup message through someone else.'),
- (9,
-  None,
-  "'No, that's not true!' Literally 'it is false', with Colette standing right there listening to every word."),
- (10,
-  None,
-  "'You're rotten! But it's over.' The first describing word has a feminine ending for Andréa. After 'it is', the "
-  "form meaning 'finished' stays masculine; it refers to the whole situation."),
- (11,
-  None,
-  "'I forgive you.' The little object word for 'you' sits right in front of the verb. Having delivered her big "
-  'forgiveness line, Clémentine stalks away.'),
- (12,
-  None,
-  "'You need a new doctor, you're crazy!' Literally 'you have need of a new doctor', and the adjective at the end "
-  "is the feminine form of 'crazy'."),
- (13,
-  None,
-  "'People are crazy, aren't they?' Literally 'people are sick, no?'. Andréa turns to Colette with an awkward "
-  'smile, but Colette simply bids Ms Martel a polite goodbye and walks off.')]
+WALK = [
+    (0, None, "'Clémentine! What are you doing here?' This long question phrase after Clémentine's name is the everyday spoken way to ask 'what'."),
+    (1, None, "'I have to do this in order to heal.' The first action word means 'must' or 'have to', and the linking word before 'heal' means 'in order to'."),
+    (2, None, "'Okay, but another time!' The word meaning 'another' follows the feminine form of 'a'. Together with 'time', it means a different occasion, not one more repetition right now."),
+    (3, None, "'You're a monster of seduction.' The everyday word for 'monster' stays masculine even though Andréa is a woman. It is the name of the thing Clémentine compares her to."),
+    (4, None, "'Clémentine, listen.' Andréa gives a casual command for one person, dropping French's word for 'you'."),
+    (5, None, "'You devoured me like a hyena!' The past form has an extra feminine letter at the end because the object word before the auxiliary refers to Clémentine."),
+    (6, None, "'That's ridiculous. It didn't last a month!' The two-part negative wraps around the helper word in the past."),
+    (7, None, "'I'm talking about feelings! I had feelings for you.' The second verb is in the past form used for how things used to be."),
+    (8, None, "'And you asked your assistant to break up with me!' The request uses 'ask someone to do something'. French puts a short linking word before the second action, 'leave me'. Clémentine objects to having received the breakup message through someone else."),
+    (9, None, "'No, that's not true!' Literally 'it is false', with Colette standing right there listening to every word."),
+    (10, None, "'You're rotten! But it's over.' The first describing word has a feminine ending for Andréa. After 'it is', the form meaning 'finished' stays masculine; it refers to the whole situation."),
+    (11, None, "'I forgive you.' The little object word for 'you' sits right in front of the verb. Having delivered her big forgiveness line, Clémentine stalks away."),
+    (12, None, "'You need a new doctor, you're crazy!' Literally 'you have need of a new doctor', and the adjective at the end is the feminine form of 'crazy'."),
+    (13, None, "'People are crazy, aren't they?' Literally 'people are sick, no?'. Andréa turns to Colette with an awkward smile, but Colette simply bids Ms Martel a polite goodbye and walks off."),
+]

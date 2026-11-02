@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'andrea': 'Andréa', 'isabelle': 'Isabelle', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
-INTRO = "At the ASK offices, acclaimed French screen star Isabelle Adjani arrives to meet her agents. When Andréa mentions that young visionary director Sacha Hartman has a magnificent part for her, Isabelle expresses interest while insisting on proper artistic protocol. Let's listen to the scene in French first."
-OPENER = "Let's examine how Andréa pitches the exciting new role to Isabelle Adjani."
-TRANSITION = "Now let's listen to Andréa and Isabelle's elegant exchange again at full speed."
-OUTRO = 'Isabelle agrees to meet Sacha Hartman, on the condition that Andréa acts with utmost discretion. Andréa immediately hurries to her office to arrange the high-profile meeting. See you next time!'
+INTRO = "At the ASK offices, acclaimed French screen star Isabelle Adjani arrives to meet her agents. When Andrea mentions that young visionary director Sacha Hartman has a magnificent part for her, Isabelle expresses interest while insisting on proper artistic protocol. Let's listen to the scene in French first."
+OPENER = "Let's examine how Andrea pitches the exciting new role to Isabelle Adjani."
+TRANSITION = "Now let's listen to the whole elegant exchange between Andrea and Isabelle again at full speed."
+OUTRO = 'Isabelle agrees to meet Sacha Hartman, on the condition that Andrea acts with utmost discretion. Andrea immediately hurries to her office to arrange the high-profile meeting. See you next time!'
 CLOSING = ('isabelle', 'Bonne soirée!')
 STORY = [
     ('andrea', "Bonjour Isabelle, tu vas bien aujourd'hui?", 'Hello Isabelle, are you doing well today?', [(22, '-Bonjour, Isabelle. -Bonjour.'), (23, '-Tu vas bien ? -Très bien.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('andrea', "Oui, bien sûr, je l'appelle maintenant.", 'Yes, of course, I call him now.', [(50, "Je l'appelle maintenant."), (52, 'Oui, bien sûr.')], ''),
 ]
 WALK = [
-    (0, None, "'Hello Isabelle, are you doing well today?' Andréa inquires about well-being."),
-    (1, None, "'Very well, Andréa, thank you very much.' Isabelle replies graciously and thanks Andréa warmly."),
-    (2, None, "'Do you handle the director Sacha Hartman?' Isabelle inquires about client representation."),
-    (3, None, "'Yes, I take care of him.' Andréa confirms that she represents the young director."),
-    (4, None, "'I love his work, he is very talented.' High praise from an esteemed cinema star."),
-    (5, None, "'Winning a Palme d'Or, that is wonderful.' Isabelle expresses admiration for his prestigious festival win."),
-    (6, None, "'He has a very fine role for you.' Andréa links client to new project."),
-    (7, None, "'Really? But I never solicit roles.' Isabelle asserts her artistic dignity as a star who never chases roles."),
-    (8, None, "'Isabelle prefers that a director asks her.' Mathias defends his star client's traditional protocol."),
-    (9, None, "'Directors also like to feel wanted.' Andrea counters with modern auteur psychology."),
-    (10, None, "'We had better read the script.' Isabelle cautiously suggests that they read the script first."),
-    (11, None, "'Sacha is in Paris right now.' Andréa creates opportune urgency."),
-    (12, None, "'All right, but please, be discreet.' Isabelle demands absolute discretion."),
-    (13, None, "'Yes, of course, I call him now.' Andréa promises to call the director right away."),
+    (0, None, "'Hello Isabelle, are you doing well today?' Literally 'you go well', French asks about someone's health and mood with 'go' rather than 'do' or 'be'."),
+    (1, None, "'Very well, Andrea, thank you very much.' Pairing 'thanks' with 'a lot' is the standard warm reply you'll hear everywhere, never 'very much' word-for-word."),
+    (2, None, "'Do you handle the director Sacha Hartman?' Saying 'occupy yourself of someone' is the idiomatic way in French to ask whether an agent represents a client."),
+    (3, None, "'Yes, I take care of him.' Andrea echoes that same expression back, ending on the stressed word meaning 'him' after 'of'."),
+    (4, None, "'I love his work, he is very talented.' Because 'his' or 'her' matches the thing owned in French rather than the owner, the word before 'work' looks identical either way."),
+    (5, None, "'Winning a Golden Palm, that is wonderful.' Opening with a vivid action that literally means 'to unhook' pictures snagging Cannes's top prize off a high peg."),
+    (6, None, "'He has a very fine role for you.' Ending on the emphatic casual 'you' after 'for' signals the warm familiarity between agent and star."),
+    (7, None, "'Really? But I never solicit roles.' Wrapping the action in the negative with 'never' expresses 'never' cleanly without any extra word meaning 'not'."),
+    (8, None, "'Isabelle prefers that a director asks her.' Notice how 'to her' slips right in front of 'asks' in French, whereas English puts 'her' at the end."),
+    (9, None, "'Directors also like to feel wanted.' Talking about directors in general requires 'the' up front in French, unlike English where bare 'directors' stands alone."),
+    (10, None, "'We had better read the script.' Everyday speech leans on a tiny subject word that literally means 'one' to say 'we', paired here with 'would do better to'."),
+    (11, None, "'Sacha is in Paris right now.' Cities take the single-letter pointer meaning 'at' or 'to' in French, and the closing three words mean 'in this moment'."),
+    (12, None, "'All right, but please, be discreet.' Built from 'if it pleases you' with casual 'you', this polite request precedes a sounded final consonant on 'discreet' for Andrea."),
+    (13, None, "'Yes, of course, I call him now.' French happily uses the present with 'now' for an immediate promise where English reaches for 'I'll call him'."),
 ]

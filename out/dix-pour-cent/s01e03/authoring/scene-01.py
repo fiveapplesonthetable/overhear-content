@@ -16,7 +16,7 @@ INTRO = ('This is Call My Agent, set in a Paris talent agency. Gabriel has forgo
  'word.')
 OPENER = ("Let's follow the forgotten letter. First Gabriel finishes a cheerful call, before Andrea brings up the tax "
  'audit.')
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("Gabriel's missing letter has cost the agency an important ally at the tax office. You have heard how to "
  'describe completed actions, apologise and ask what happened. See you next time!')
 CLOSING = ('andrea', 'À bientôt!')
@@ -75,71 +75,22 @@ STORY = [('gabriel',
   [(22, 'Tu es aussi stupide que ça ?')],
   ''),
  ('gabriel', 'Fais-lui un café.', 'Make her a coffee.', [(24, 'Fais-lui un café')], '')]
-WALK = [(0,
-  None,
-  'Gabriel greets his client and gives an enthusiastic yes, saying that things sound great. He asks her to call back and finishes with a casual goodbye. The request to call back is a familiar command. A hyphen joins the command to a short object word identifying the person asking for the return call.'),
- (1,
-  'Le contrôle fiscal.',
-  "'The tax audit.' Literally 'the fiscal control'. The describing word follows the thing being checked: the "
-  "agency's tax affairs."),
- (1,
-  'Cette lettre pour monsieur Jarron?',
-  "'That letter for Mr Jarron?' The first word means 'this' or 'that' in a feminine form, because the word "
-  'for letter is feminine.'),
- (2,
-  None,
-  "'Yes, I sent it.' The object word refers back to the letter and comes before the helping word. It loses "
-  'its vowel before the next word. Because the letter is feminine, the completed action has an additional '
-  'feminine ending in writing.'),
- (3,
-  "J'ai pris la lettre.",
-  "'I took the letter.' The completed action uses 'have' and the past form of 'take'. Gabriel tries to "
-  'remember the steps he followed.'),
- (3,
-  "Je l'ai mise dans une enveloppe.",
-  "'I put it in an envelope.' The object word again refers to the letter. Its feminine gender gives the "
-  'completed action an extra ending in writing.'),
- (4,
-  None,
-  "'Oh no!' This short reaction replaces a swearword in the episode. Gabriel suddenly realises that putting "
-  'the letter in an envelope was not the same as posting it.'),
- (5,
-  None,
-  "'I'm sorry.' This written apology has a masculine ending because Gabriel is speaking. An apology by a "
-  'woman would add a silent e.'),
- (6,
-  None,
-  "'What's the point of paying an assistant?' Literally 'to what does it serve to pay an assistant'. Gabriel "
-  'tries to shift the blame for his own mistake.'),
- (7,
-  None,
-  "'No, Gabriel, you can't always fix everything!' The short word before the action can refer to a group "
-  'including the speaker, or to people in general. Here Mathias is talking about people in general as he '
-  "rejects Gabriel's easy reassurance."),
- (8,
-  None,
-  "'We had a call this morning.' To describe the call as a finished event, French uses a helping verb in the present followed by a participle. The last two words identify this morning."),
- (9,
-  None,
-  "'The file is in another department.' The word for 'another' follows an indefinite article. Their tax case "
-  'has moved away from the person who could help them.'),
- (10,
-  None,
-  "'Jarron was our only ally.' The past form of 'be' describes how things stood. The word for 'only' comes "
-  'before the person described: their ally.'),
- (11,
-  None,
-  "'Maybe we need to put our books in order.' The first two words express necessity. Gabriel suggests doing "
-  'what the audit demands, which is not what his colleagues want to hear.'),
- (12,
-  None,
-  "'Is life a big joke to you?' The word for 'you' after 'for' is the full form that can stand alone. "
-  'Mathias turns the problem into a personal accusation.'),
- (13,
-  None,
-  "'Are you really that stupid?' Literally 'are you as stupid as that?'. The two comparison words surround "
-  "the description. Just then Herve announces Laura's arrival."),
- (14,
-  None,
-  "'Make her a coffee.' This instruction attaches 'to her' after 'make' with a hyphen. Gabriel is keen to "
-  'leave the meeting and see his waiting client.')]
+WALK = [
+    (0, None, "'Cécile! Yes, great. Call me back. Bye.' Gabriel greets his client and gives an enthusiastic yes, saying that things sound great. He asks her to call back and finishes with a casual goodbye. The request to call back is a familiar command. A hyphen joins the command to a short object word identifying the person asking for the return call."),
+    (1, 'Le contrôle fiscal.', "'The tax audit.' Literally 'the fiscal control'. The describing word follows the thing being checked: the agency's tax affairs."),
+    (1, 'Cette lettre pour monsieur Jarron?', "'That letter for Mr Jarron?' The first word means 'this' or 'that' in a feminine form, because the word for letter is feminine."),
+    (2, None, "'Yes, I sent it.' The object word refers back to the letter and comes before the helping word. It loses its vowel before the next word. Because the letter is feminine, the completed action has an additional feminine ending in writing."),
+    (3, "J'ai pris la lettre.", "'I took the letter.' The completed action uses 'have' and the past form of 'take'. Gabriel tries to remember the steps he followed."),
+    (3, "Je l'ai mise dans une enveloppe.", "'I put it in an envelope.' The object word again refers to the letter. Its feminine gender gives the completed action an extra ending in writing."),
+    (4, None, "'Oh no!' This short reaction replaces a swearword in the episode. Gabriel suddenly realises that putting the letter in an envelope was not the same as posting it."),
+    (5, None, "'I'm sorry.' This written apology has a masculine ending because Gabriel is speaking. An apology by a woman would add a silent e."),
+    (6, None, "'What's the point of paying an assistant?' Literally 'to what does it serve to pay an assistant'. Gabriel tries to shift the blame for his own mistake."),
+    (7, None, "'No, Gabriel, you can't always fix everything!' The short word before the action can refer to a group including the speaker, or to people in general. Here Mathias is talking about people in general as he rejects Gabriel's easy reassurance."),
+    (8, None, "'We had a call this morning.' To describe the call as a finished event, French uses a helping verb in the present followed by a participle. The last two words identify this morning."),
+    (9, None, "'The file is in another department.' The everyday word for 'another' follows an indefinite article. Their tax case has moved away from the person who could help them."),
+    (10, None, "'Jarron was our only ally.' The past form of 'be' describes how things stood. The common word for 'only' comes before the person described: their ally."),
+    (11, None, "'Maybe we need to put our books in order.' The first two words express necessity. Gabriel suggests doing what the audit demands, which is not what his colleagues want to hear."),
+    (12, None, "'Is life a big joke to you?' One French word for 'you' after 'for' is the full form that can stand alone. Mathias turns the problem into a personal accusation."),
+    (13, None, "'Are you really that stupid?' Literally 'are you as stupid as that?'. The two comparison words surround the description. Just then Herve announces Laura's arrival."),
+    (14, None, "'Make her a coffee.' This instruction attaches 'to her' after 'make' with a hyphen. Gabriel is keen to leave the meeting and see his waiting client."),
+]

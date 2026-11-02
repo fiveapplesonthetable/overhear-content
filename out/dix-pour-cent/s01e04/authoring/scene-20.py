@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Because Mathias decided to skip the evening screening, he comes home early—and walks straight into his dining room, where his wife Catherine and his son Hippolyte are having dinner with Camille, his secret daughter! Neither Catherine nor Hippolyte has any idea who Camille really is. Let's hear the scene in French first; don't worry if it goes by fast."
 OPENER = "Let's go through it line by line. Catherine greets Mathias happily as he walks into the dining room."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'Camille turned the tables on Mathias at dinner, and outside she made it clear that his double life is his own fault. See you next time!'
 CLOSING = ('camille', 'Bonne soirée!')
 STORY = [('catherine',
@@ -97,70 +97,25 @@ STORY = [('catherine',
   [(527, 'Je rêve'), (528, 'Dis-lui toi-même pourquoi')],
   ''),
  ('mathias', 'On en parle demain.', "We'll talk about it tomorrow.", [(530, 'On en parle demain')], '')]
-WALK = [(0,
-  None,
-  "'Back already? I invited the kids for dinner!' Literally 'already of return?'. Catherine has no idea why "
-  'Mathias looks so pale.'),
- (1, None, "'I just wanted to come home.' He uses the past tense for how he was feeling on the way back."),
- (2,
-  "Je suis venue chercher les photos d'Hippolyte.",
-  "'I came to get Hippolyte's photos.' The form meaning 'come' has a feminine ending for Camille. It uses 'I am' "
-  'as the helper for this completed past action.'),
- (2,
-  "Andréa me l'a demandé.",
-  "'Andréa asked me to.' Literally 'Andréa asked it to me', with 'to me' and 'it' placed before the helper word."),
- (3,
-  None,
-  "'What did you study at university?' The last word is an everyday short word for university. The completed past "
-  "uses the helper 'have' with the past form of 'do'."),
- (4, None, "'I did a year of sociology, then I stopped.' Sociology is shortened too in casual speech."),
- (5,
-  None,
-  "'That's a shame. Do you want to be an agent?' Mathias asks about Camille's plans using polite address at the "
-  'family table. The expression for pity stands without an article.'),
- (6, None, "'I'm thinking about it.' The tiny word before the verb means 'about it'."),
- (7,
-  None,
-  "'What do your parents do?' The action is plural because it refers to both parents. The possessive addresses "
-  'Camille politely; the question asks about their occupations.'),
- (8,
-  None,
-  "'My mother is a hairdresser. She has her own salon.' Notice there is no word for 'a' before a profession."),
- (9,
-  None,
-  "'That's great!' This enthusiastic describing word works for either a masculine or feminine thing. It does not "
-  'need an extra ending here.'),
- (10,
-  None,
-  "'My father repairs boats.' The word for boats has a written plural ending with x. The action remains singular "
-  'because the father, rather than the boats, is doing it.'),
- (11,
-  None,
-  "'Yes, I sail a lot with my father.' The amount word can stand alone after an action. Here it means that she "
-  "sails often or a great deal, without an extra word for 'of'."),
- (12,
-  None,
-  "'It was nice having you.' This polite goodbye looks back on the visit with 'it was'. The 'you' here is an "
-  "object after 'have', rather than the person doing the action."),
- (13,
-  None,
-  "'I'll go! I have to talk about one of Andréa's projects.' The short place expression in the first sentence "
-  "means setting off. In the next, 'have to' is followed by the unchanged action 'talk'."),
- (14,
-  None,
-  "'Andréa is the one who made me come for the photos!' French combines 'made' directly with 'come' to describe "
-  'causing someone to do something. Camille points out that the visit was a work assignment.'),
- (15,
-  "Mais tu n'étais pas obligée de rester!",
-  "'But you didn't have to stay!' Literally 'you were not obliged to stay'."),
- (15,
-  "Arrête de le voir, d'accord?",
-  "'Stop seeing him, okay?' Mathias gives a direct command, with 'him' right before the basic form 'to see'."),
- (16,
-  None,
-  "'I can't believe this! Tell him why yourself!' The first phrase literally says 'I'm dreaming', but expresses "
-  "disbelief here. The emphatic word after 'tell him' puts the responsibility back on Mathias."),
- (17,
-  None,
-  "'We'll talk about it tomorrow.' The little word before 'talk' means 'about it'. The action has an ordinary "
-  "present form; 'tomorrow' makes the future timing clear.")]
+WALK = [
+    (0, None, "'Back already? I invited the kids for dinner!' Literally 'already of return?'. Catherine has no idea why Mathias looks so pale."),
+    (1, None, "'I just wanted to come home.' He uses the past tense for how he was feeling on the way back."),
+    (2, "Je suis venue chercher les photos d'Hippolyte.", "'I came to get Hippolyte's photos.' The form meaning 'come' has a feminine ending for Camille. It uses 'I am' as the helper for this completed past action."),
+    (2, "Andréa me l'a demandé.", "'Andréa asked me to.' Literally 'Andréa asked it to me', with 'to me' and 'it' placed before the helper word."),
+    (3, None, "'What did you study at university?' The last word is an everyday short word for university. The completed past uses the helper 'have' with the past form of 'do'."),
+    (4, None, "'I did a year of sociology, then I stopped.' Sociology is shortened too in casual speech."),
+    (5, None, "'That's a shame. Do you want to be an agent?' Mathias asks about Camille's plans using polite address at the family table. The expression for pity stands without an article."),
+    (6, None, "'I'm thinking about it.' The tiny word before the verb means 'about it'."),
+    (7, None, "'What do your parents do?' The action is plural because it refers to both parents. The possessive addresses Camille politely; the question asks about their occupations."),
+    (8, None, "'My mother is a hairdresser. She has her own salon.' Notice there is no word for 'a' before a profession."),
+    (9, None, "'That's great!' This enthusiastic describing word works for either a masculine or feminine thing. It does not need an extra ending here."),
+    (10, None, "'My father repairs boats.' The word for boats has a written plural ending with x. The action remains singular because the father, rather than the boats, is doing it."),
+    (11, None, "'Yes, I sail a lot with my father.' The amount word can stand alone after an action. Here it means that she sails often or a great deal, without an extra word for 'of'."),
+    (12, None, "'It was nice having you.' This polite goodbye looks back on the visit with 'it was'. The 'you' here is an object after 'have', rather than the person doing the action."),
+    (13, None, "'I'll go! I have to talk about one of Andréa's projects.' The short place expression in the first sentence means setting off. In the next, 'have to' is followed by the unchanged action 'talk'."),
+    (14, None, "'Andréa is the one who made me come for the photos!' French combines 'made' directly with 'come' to describe causing someone to do something. Camille points out that the visit was a work assignment."),
+    (15, "Mais tu n'étais pas obligée de rester!", "'But you didn't have to stay!' Literally 'you were not obliged to stay'."),
+    (15, "Arrête de le voir, d'accord?", "'Stop seeing him, okay?' Mathias gives a direct command, with 'him' right before the basic form 'to see'."),
+    (16, None, "'I can't believe this! Tell him why yourself!' The first phrase literally says 'I'm dreaming', but expresses disbelief here. The emphatic word after 'tell him' puts the responsibility back on Mathias."),
+    (17, None, "'We'll talk about it tomorrow.' The little word before 'talk' means 'about it'. The action has an ordinary present form; 'tomorrow' makes the future timing clear."),
+]

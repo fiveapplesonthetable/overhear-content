@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = 'At a celebratory drinks gathering, Mathias toasts his newly acknowledged family ties with Camille and Hippolyte. Over the table, Hippolyte unexpectedly offers to hire Camille as his exclusive talent agent, provoking a sharp clash with Mathias. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
-TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "Hippolyte's sudden offer to Camille sparks family tension, revealing Mathias's reluctance to back his own children. See you next time!"
 CLOSING = ('camille', 'À demain!')
 STORY = [
@@ -33,19 +33,19 @@ STORY = [
     ('hippolyte', 'Tu ne crois pas au talent de tes enfants!', "You do not believe in your own children's talent!", [(436, 'croire au talent de tes propres enfants')], ''),
 ]
 WALK = [
-    (0, None, "'To our first family get-together!' Mathias raises a glass with his newly acknowledged daughter and son."),
-    (1, None, "'There is a lot to be said for coming out.' Hippolyte jokes about Mathias finally revealing the truth."),
-    (2, None, "'Camille, I believe in you!' Hippolyte praises his half-sister enthusiastically."),
-    (3, None, "'I know that you have what it takes.' He insists she has real talent for representation."),
-    (4, None, "'You can be a great agent.' Hippolyte encourages Camille to step up into the role."),
-    (5, None, "'I get on very well with Andréa.' Camille hesitates out of loyalty to Andrea Martel."),
-    (6, None, "'My best auditions are thanks to you.' Hippolyte attributes his recent career opportunities to her."),
-    (7, None, "'Without you, I would not be here.' He stresses how much she has already contributed."),
-    (8, None, "'Do you want to be my agent?' Hippolyte makes a direct and serious offer."),
-    (9, None, "'Hippolyte, you have been drinking, calm down.' Mathias intervenes to stop a hasty decision."),
-    (10, None, "'This is my first glass, I am serious!' Hippolyte denies being impaired by alcohol."),
-    (11, None, "'I do not know, this is too fast.' Camille feels flattered but overwhelmed by the speed of events."),
-    (12, None, "'You have qualities, but it is too soon.' Mathias tries to protect her while dampening expectations."),
-    (13, None, "'This is crazy! You do not support her.' Hippolyte is outraged by his father's lack of faith."),
-    (14, None, "'You do not believe in your own children's talent!' Hippolyte calls out Mathias for his harsh double standard. Now listen to the whole scene again at normal speed, and see how much more you catch."),
+    (0, None, "'To our first family get-together!' Raising a glass with 'to...' works just like in English, and 'family get-together' is built from 'reunion of family'."),
+    (1, None, "'There is a lot to be said for coming out.' Literally 'that has some good', this breezy idiom highlights a silver lining, borrowing English 'coming out' for revealing any secret."),
+    (2, None, "'Camille, I believe in you!' When expressing deep faith in a person, French says 'believe in you' — matching English word-for-word."),
+    (3, None, "'I know that you have what it takes.' Because French says 'capable of something', 'of it' shrinks into a two-letter word tucked right before 'are'."),
+    (4, None, "'You can be a great agent.' Placed ahead of 'agent', this common word means 'great' in talent — whereas placed after, in French it would mean physically 'tall'!"),
+    (5, None, "'I get on very well with Andrea.' Getting along with someone in French is literally 'hearing yourself well with' them — a handy expression for work or friendship."),
+    (6, None, "'My best auditions are thanks to you.' Built around a cousin of English 'grace', 'thanks to you' in French is reserved strictly for positive outcomes rather than blame."),
+    (7, None, "'Without you, I would not be here.' At the end, the short word that literally means 'there' is what you'll hear constantly in everyday French for 'here' as well."),
+    (8, None, "'Do you want to be my agent?' Inverting 'want-you' gives Hippolyte's offer a touch of earnest weight, and 'to be' follows 'want' directly in French."),
+    (9, None, "'Hippolyte, you have been drinking, calm down.' Literally 'you have drunk', those three brisk words are how French speakers tactfully suggest someone is tipsy."),
+    (10, None, "'This is my first glass, I am serious!' One word in French covers both a drinking glass and a drink at a bar, so 'my first glass' means 'my first drink'."),
+    (11, None, "'I do not know, this is too fast.' Pairing 'too' and 'fast' at the end gives a handy chunk whenever plans start moving faster than you expected."),
+    (12, None, "'You have qualities, but it is too soon.' Saying someone 'has some qualities' in French always means positive strengths, balanced here against 'too early'."),
+    (13, None, "'This is crazy! You do not support her.' Backing a person in French uses a cousin of 'sustain' — literally 'hold from underneath' — unlike the lookalike of 'support', which means 'tolerate'!"),
+    (14, None, "'You do not believe in your own children's talent!' Compare this with believing in a person earlier: before an idea like 'the talent', French switches from 'in' to 'to the'."),
 ]

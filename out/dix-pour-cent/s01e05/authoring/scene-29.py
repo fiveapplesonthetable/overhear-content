@@ -14,7 +14,7 @@ INTRO = ("At the agency, Mathias finally challenges his client's treatment of th
  'Sofia about the shoot and encourages her despite a possible cut to her scene. They still use polite French '
  'until Sofia asks to change that. Listen to the French first and follow that final request carefully.')
 OPENER = 'Mathias first tells the actor to calm down and recognise that the assistant is trying to help.'
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('Gabriel and Sofia agree to go for a meal, and she asks if they can address each other familiarly. You have '
  'heard polite singular forms throughout the conversation before that explicit change. See you next time.')
 CLOSING = ('gabriel', 'À bientôt!')
@@ -103,79 +103,25 @@ STORY = [('mathias',
   [(696, 'Et, Gabriel, ça vous dérange si on se tutoie')],
   'Learner adaptation, not a verbatim French transcript.'),
  ('gabriel', 'Non.', 'No.', [(697, 'Non')], 'Learner adaptation, not a verbatim French transcript.')]
-WALK = [(0,
-  None,
-  "'Calm down. She's trying to help you.' The familiar command calm down attaches the word for yourself "
-  'after the action. In try to help, the little word for you instead comes before help, because it receives '
-  'that action.'),
- (1,
-  None,
-  "'That's enough! You apologize and you get out!' The short expression for enough literally says that "
-  'suffices. The following present-tense actions work as firm orders, telling the actor to apologise and '
-  'then leave.'),
- (2,
-  None,
-  "'I'm going to show you that I can!' French uses go before another action to express a plan. The special "
-  "affirmative at the end contradicts the actor's implied claim that Mathias cannot get rid of him."),
- (3,
-  None,
-  "'Sorry, Sofia! How did your shoot go?' The polite possessive your addresses Sofia as one person. The "
-  'completed question uses a reflexive action to ask how an event went; it is about her film shoot.'),
- (4,
-  None,
-  "'Very well.' Very strengthens well. The short answer evaluates the experience without yet mentioning the "
-  'possible problem with the finished film.'),
- (5,
-  None,
-  "'There is a problem, the film is too long.' The impersonal expression there is introduces a problem. Too "
-  'strengthens long, explaining why the editor may need to remove material from the film.'),
- (6,
-  None,
-  "'They might cut my scene.' Go before cut points to a possible future action. Maybe leaves the decision "
-  'uncertain, and my scene identifies the part that matters to Sofia.'),
- (7,
-  None,
-  "'But it's not serious. The director saw you act.' The polite word for you is the object of saw, even "
-  'though it comes before the past helper. The written feminine ending in seen refers to Sofia, whose acting '
-  'the director witnessed.'),
- (8,
-  None,
-  "'And he'll think of you next time. Don't lose heart.' The future form will think is followed by of you. "
-  'The final negative instruction keeps the polite form, encouraging her without yet switching to familiar '
-  'speech.'),
- (9,
-  None,
-  "'Are you leaving?' The polite subject you still addresses one person. The present question asks whether "
-  'Gabriel is leaving now, without requiring a separate future form.'),
- (10,
-  None,
-  "'Yeah, I'm heading out.' The little word for there comes before go. It points to leaving for the next "
-  'place rather than repeating a destination already understood.'),
- (11,
-  None,
-  "'Me too. Are you hungry?' The strong word for me with also gives a matching answer. Hunger then uses have "
-  'in French, asking whether he feels hungry rather than whether he possesses food.'),
- (12,
-  None,
-  "'I'm always hungry, Sofia.' Always adds a humorous exaggeration to his hunger. French again uses have, "
-  'where English describes someone as being hungry.'),
- (13,
-  None,
-  "'Shall we go eat?' The word for we can introduce an informal proposal. The basic action eat after go "
-  "suggests doing it together, rather than a question about anyone's ability to cook."),
- (14,
-  None,
-  "'With pleasure.' The phrase literally means with pleasure. You can use it to accept a friendly "
-  'invitation, giving a warmer answer than a plain yes.'),
- (15,
-  None,
-  "'And, Gabriel, do you mind if we use tu with each other?' The polite word for you is still present in the "
-  'request. The reflexive action at the end means to address each other with the familiar form, so this is '
-  'the actual point where she asks to change their register.'),
- (16,
-  None,
-  "'No.' The short negative answers whether the change would bother him. In context it accepts using the "
-  'familiar form; it is not a refusal to go to dinner.')]
+WALK = [
+    (0, None, "'Calm down. She's trying to help you.' The familiar command calm down attaches the word for yourself after the action. In try to help, a tiny word for you instead comes before help, because it receives that action."),
+    (1, None, "'That's enough! You apologize and you get out!' The short expression for enough literally says that suffices. The following present-tense actions work as firm orders, telling the actor to apologise and then leave."),
+    (2, None, "'I'm going to show you that I can!' French uses go before another action to express a plan. The special affirmative at the end contradicts the actor's implied claim that Mathias cannot get rid of him."),
+    (3, None, "'Sorry, Sofia! How did your shoot go?' The polite possessive your addresses Sofia as one person. The completed question uses a reflexive action to ask how an event went; it is about her film shoot."),
+    (4, None, "'Very well.' Very strengthens well. The short answer evaluates the experience without yet mentioning the possible problem with the finished film."),
+    (5, None, "'There is a problem, the film is too long.' The impersonal expression there is introduces a problem. Too strengthens long, explaining why the editor may need to remove material from the film."),
+    (6, None, "'They might cut my scene.' Go before cut points to a possible future action. Maybe leaves the decision uncertain, and my scene identifies the part that matters to Sofia."),
+    (7, None, "'But it's not serious. The director saw you act.' The polite word for you is the object of saw, even though it comes before the past helper. The written feminine ending in seen refers to Sofia, whose acting the director witnessed."),
+    (8, None, "'And he'll think of you next time. Don't lose heart.' The future form will think is followed by of you. The final negative instruction keeps the polite form, encouraging her without yet switching to familiar speech."),
+    (9, None, "'Are you leaving?' The polite subject you still addresses one person. The present question asks whether Gabriel is leaving now, without requiring a separate future form."),
+    (10, None, "'Yeah, I'm heading out.' The small word for there comes before go. It points to leaving for the next place rather than repeating a destination already understood."),
+    (11, None, "'Me too. Are you hungry?' The strong word for me with also gives a matching answer. Hunger then uses have in French, asking whether he feels hungry rather than whether he possesses food."),
+    (12, None, "'I'm always hungry, Sofia.' Always adds a humorous exaggeration to his hunger. French again uses have, where English describes someone as being hungry."),
+    (13, None, "'Shall we go eat?' The word for we can introduce an informal proposal. The basic action eat after go suggests doing it together, rather than a question about anyone's ability to cook."),
+    (14, None, "'With pleasure.' The phrase literally means with pleasure. You can use it to accept a friendly invitation, giving a warmer answer than a plain yes."),
+    (15, None, "'And, Gabriel, do you mind if we use tu with each other?' The polite word for you is still present in the request. The reflexive action at the end means to address each other with the familiar form, so this is the actual point where she asks to change their register."),
+    (16, None, "'No.' The short negative answers whether the change would bother him. In context it accepts using the familiar form; it is not a refusal to go to dinner."),
+]
 SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. The dual working subtitles contain '
  'a backtranslated French track. Roles, plot and register are checked against source video and independent '
  'unprompted original-French audio ASR.')

@@ -14,7 +14,7 @@ INTRO = ('Andrea tries to reassure JoeyStarr before the love scene. The actor wo
  'historical setting, so his agent encourages him to trust his instincts. Listen to the French first and '
  'follow how the encouragement becomes a little too intense.')
 OPENER = "Andrea comments on the costume, bringing out the actor's insecurity."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("Andrea's encouragement works its way from clothes to animal instinct, then becomes too much for her "
  'client. Listen again for gaining weight, feeling a certain way and telling someone to stop. See you next '
  'time.')
@@ -89,63 +89,22 @@ STORY = [('andrea',
   'Hey, stop looking at me like that!',
   [(282, 'Hé, arrête de me regarder comme ça')],
   'Learner adaptation, not a verbatim French transcript.')]
-WALK = [(0,
-  None,
-  "'That will suit you very well.' A future form of go can also mean suit when speaking about clothes. The "
-  'small word for you identifies the person the shirt should look good on.'),
- (1,
-  None,
-  "'I have put on weight.' Gaining weight literally uses take with weight. The completed past says that the "
-  'change has already happened, rather than that he plans to gain it.'),
- (2,
-  None,
-  "'Not at all. You are a handsome guy, baby!' The short negative denies his worry completely. The familiar "
-  'noun for guy is often paired with handsome as an affectionate compliment.'),
- (3,
-  None,
-  "'It is going to be embarrassing.' A form of go before be predicts the experience. The description "
-  'embarrassing names how the situation is expected to feel, not a physical obstacle.'),
- (4,
-  None,
-  "'You are capable of doing this scene, champ!' Capable connects to the next action with of. Champ is a "
-  'familiar encouraging form of address, as though the actor were preparing for a competition.'),
- (5,
-  None,
-  "'All the power of a lion!' All is written in the feminine form because it describes power. Of a lion adds "
-  'the image he wants her client to imagine.'),
- (6,
-  None,
-  "'I feel more like a shy little cat.' The expression for feel includes a small word meaning myself. Rather "
-  'makes his quiet image an alternative to the powerful lion Andrea proposed.'),
- (7,
-  None,
-  "'Stop. You have done lots of scenes like that.' The past action done is followed by a quantity of scenes. "
-  'Like that points back to the kind of performance they are discussing.'),
- (8,
-  None,
-  "'Listen, I do not know the life of nobles in the old days.' The word for know is used for familiarity "
-  'with a subject. The final expression means from former times and places the concern in the historical '
-  'setting.'),
- (9,
-  None,
-  "'I did some research, I did not find anything.' The first completed action is positive, but the second "
-  'uses nothing with the past helper. He researched the subject without finding the answer he wanted.'),
- (10,
-  None,
-  "'Forget all that. Just do what comes naturally.' What comes naturally is introduced by a short expression "
-  'meaning the thing that. The two instructions ask him to stop researching and trust what he can do.'),
- (11,
-  None,
-  "'You are an animal, Didier.' French uses a word for a before this metaphorical description. It makes him "
-  'an animal as an image of instinct, rather than naming his profession.'),
- (12,
-  None,
-  "'It is attractive. Even to me.' Even includes the speaker in an unexpected group. The strong form of me "
-  'follows for, giving the compliment its comic extra emphasis.'),
- (13,
-  None,
-  "'Hey, stop looking at me like that!' Stop connects to the action look with the small word often "
-  'translated as of. The little word for me sits before look and identifies the target of the gaze.')]
+WALK = [
+    (0, None, "'That will suit you very well.' A future form of go can also mean suit when speaking about clothes. The small word for you identifies the person the shirt should look good on."),
+    (1, None, "'I have put on weight.' Gaining weight literally uses take with weight. The completed past says that the change has already happened, rather than that she plans to gain it."),
+    (2, None, "'Not at all. You are a handsome guy, baby!' The short negative denies his worry completely. The familiar noun for guy is often paired with handsome as an affectionate compliment."),
+    (3, None, "'It is going to be embarrassing.' A form of go before be predicts the experience. The description embarrassing names how the situation is expected to feel, not a physical obstacle."),
+    (4, None, "'You are capable of doing this scene, champ!' Capable connects to the next action with of. Champ is a familiar encouraging form of address, as though the actor were preparing for a competition."),
+    (5, None, "'All the power of a lion!' All is written in the feminine form because it describes power. Of a lion adds the image she wants her client to imagine."),
+    (6, None, "'I feel more like a shy little cat.' The expression for feel includes a small word meaning myself. Rather makes his quiet image an alternative to the powerful lion Andrea proposed."),
+    (7, None, "'Stop. You have done lots of scenes like that.' The past action done is followed by a quantity of scenes. Like that points back to the kind of performance they are discussing."),
+    (8, None, "'Listen, I do not know the life of nobles in the old days.' The word for know is used for familiarity with a subject. The final expression means from former times and places the concern in the historical setting."),
+    (9, None, "'I did some research, I did not find anything.' The first completed action is positive, but the second uses nothing with the past helper. She researched the subject without finding the answer she wanted."),
+    (10, None, "'Forget all that. Just do what comes naturally.' What comes naturally is introduced by a short expression meaning the thing that. The two instructions ask her to stop researching and trust what she can do."),
+    (11, None, "'You are an animal, Didier.' French uses a word for a before this metaphorical description. It makes him an animal as an image of instinct, rather than naming his profession."),
+    (12, None, "'It is attractive. Even to me.' Even includes the speaker in an unexpected group. The strong form of me follows for, giving the compliment its comic extra emphasis."),
+    (13, None, "'Hey, stop looking at me like that!' Stop connects to the action look with the small word often translated as of. That short word for me sits before look and identifies the target of the gaze."),
+]
 SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the '
  'bilingual working subtitles, whose French track is backtranslated; source video and separate '
  'original-audio checks verify roles, plot and register.')

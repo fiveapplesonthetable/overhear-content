@@ -10,10 +10,10 @@ PAIR = 'fr-en'
 LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
-INTRO = "In Mathias's office late at night, Noémie is hard at work solving a complicated shooting schedule. Mathias joins her, and as they examine the script sequences together, personal feelings resurface. Let's listen to the scene in French first."
-OPENER = "Let's examine how Mathias and Noémie are sharing an intimate moment working late."
+INTRO = "In Mathias's office late at night, Noemie is hard at work solving a complicated shooting schedule. Mathias joins her, and as they examine the script sequences together, personal feelings resurface. Let's listen to the scene in French first."
+OPENER = "Let's examine how Mathias and Noemie are sharing an intimate moment working late."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
-OUTRO = 'Working side by side in the quiet office, Mathias and Noémie find a solution to the schedule crisis. Their professional collaboration rekindles their deep personal connection. See you next time!'
+OUTRO = 'Working side by side in the quiet office, Mathias and Noemie find a solution to the schedule crisis. Their professional collaboration rekindles their deep personal connection. See you next time!'
 CLOSING = ('mathias', 'Bonne nuit, Noémie.')
 STORY = [
     ('mathias', "Il faut s'arrêter, Noémie, il est tard.", 'We must stop, Noémie, it is late.', [(686, "Il faut s'arrêter, Noémie, il est tard.")], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('noemie', 'Merci, Mathias.', 'Thank you, Mathias.', [(720, 'Oh, Mathias.')], ''),
 ]
 WALK = [
-    (0, None, "'We must stop, Noémie, it is late.' Late at night in the office, Mathias tells Noémie they have to stop working."),
-    (1, None, "'I got behind in my work.' Noémie explains that she fell behind in her work."),
-    (2, None, "'I wanted to apologize for yesterday.' Mathias apologizes to Noémie for losing his temper the day before."),
-    (3, None, "'It is not your fault, Mathias.' Noémie reassures him gently that none of it was his fault."),
-    (4, None, "'The situation is complex.' Mathias sighs that his personal and professional life has become complicated."),
-    (5, None, "'I was afraid you were angry with me.' Noémie confesses she was terrified that Mathias was angry with her."),
-    (6, None, "'Sorry for having put you in this situation.' Mathias apologizes for having put her in such an awkward situation."),
-    (7, None, "'You cannot spend the night on these schedules.' Mathias insists she cannot spend the entire night reworking the schedules."),
-    (8, None, "'But I am sure that it can work.' Noémie expresses confidence."),
-    (9, None, "'They must start with the end of the shoot.' Noémie spots the solution: the crew must shoot the ending of the film first."),
-    (10, None, "'Let us see, which sequence?' Mathias asks for detail."),
-    (11, None, "'Sequence sixty-nine.' Noémie identifies the script scene."),
-    (12, None, "'Here is the summary of the scene.' Noémie introduces the document."),
-    (13, None, "'Yes, they can start there.' Mathias agrees that the guests can start without him."),
-    (14, None, "'You did a wonderful job, Noémie.' Mathias commends her dedication."),
-    (15, None, "'Thank you, Mathias.' Noémie replies with quiet, tender gratitude."),
+    (0, None, "'We must stop, Noemie, it is late.' Saying it is late at night uses 'it is late' for clock time—distinct from 'in delay' when someone arrives late in French."),
+    (1, None, "'I got behind in my work.' Literally 'I took some delay', this handy workplace expression is how you say you 'fell behind' on tasks."),
+    (2, None, "'I wanted to apologize for yesterday.' Softening 'wanted' with the '-ais' past ending sounds gentler and more polite when apologizing—literally 'excuse myself'—in French."),
+    (3, None, "'It is not your fault, Mathias.' Slipping back to casual 'your' late at night reveals their closeness, in a reassuring sentence you'll hear word-for-word like English."),
+    (4, None, "'The situation is complex.' Nearly letter-for-letter cognates with English, 'the situation' keeps its article and shifts stress to the final syllable in French."),
+    (5, None, "'I was afraid you were angry with me.' Notice French says 'angry against me' rather than 'angry with me', using an emotion form on 'be' after 'afraid that'."),
+    (6, None, "'Sorry for having put you in this situation.' Because 'you'—referring to Noemie—comes ahead of 'having put', 'put' adds a pronounced '-e' at the end in French."),
+    (7, None, "'You cannot spend the night on these schedules.' Spending time uses 'pass the night' rather than 'spend' in French, while 'spend' itself is reserved for money."),
+    (8, None, "'But I am sure that it can work.' Written with a silent '-e' on 'sure' for Noemie, the sentence closes with 'can walk'—the everyday idiom meaning 'can work out'."),
+    (9, None, "'They must start with the end of the shoot.' Starting with a particular step pairs 'begin' with 'by' rather than 'with' in French—literally 'begin by the end'."),
+    (10, None, "'Let us see, which sequence?' Literally 'let us see to-see', doubling the 'see' idea creates a cozy, thoughtful filler expression for 'let's have a look'."),
+    (11, None, "'Sequence sixty-nine.' Counting through the sixties stays straightforward—'sixty-nine'—right before counting switches to 'sixty-ten' at seventy in French!"),
+    (12, None, "'Here is the summary of the scene.' Watch the false friend: borrowed into English for a CV, that term simply means a 'summary' or 'synopsis' in French."),
+    (13, None, "'Yes, they can start there.' Closing with 'by there' echoes 'start by' from earlier, giving a neat two-word chunk meaning 'start from that point' in French."),
+    (14, None, "'You did a wonderful job, Noemie.' Saying 'you made a wonderful work' is the idiomatic way to praise someone for 'doing a terrific job' in French."),
+    (15, None, "'Thank you, Mathias.' Quiet and direct, pairing 'thanks' with his first name needs no extra words to close the late-night scene in French."),
 ]

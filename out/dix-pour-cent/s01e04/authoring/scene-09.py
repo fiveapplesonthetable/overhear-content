@@ -14,7 +14,7 @@ INTRO = ('At home, Mathias prepares dinner while Catherine tells him that their 
  "the young woman he has been seeing: Camille, who is secretly Mathias's daughter. First, listen to the "
  'conversation in French.')
 OPENER = "Let's go through their conversation line by line. Catherine begins with news about their son."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = 'Mathias has one more problem to fix before Hippolyte and Camille get any closer. See you next time!'
 CLOSING = ('catherine', 'Bonne journée!')
 STORY = [('catherine',
@@ -73,52 +73,21 @@ STORY = [('catherine',
   ''),
  ('catherine', 'Dis-lui, alors.', 'Tell him, then.', [(260, 'alors')], ''),
  ('mathias', 'Oui, je vais lui parler.', "Yes, I'll talk to him.", [], '')]
-WALK = [(0, None, "'Hippolyte won't be here for dinner.' Future tense of 'to be' wrapped in the two-part negation."),
- (1,
-  None,
-  "'Is he studying?' The action means reviewing or studying material. The question keeps ordinary statement order "
-  'and uses a rising voice. The source does not specify that he is learning acting lines.'),
- (2,
-  None,
-  "'He doesn't say, but I doubt it.' French normally links the action of doubting to the uncertain fact with a "
-  'little connecting word. The short pronoun before the action replaces that connection and the fact together.'),
- (3,
-  None,
-  "'Is he still seeing Andréa's assistant?' The time word here means 'still', rather than 'always'. The action "
-  "word 'see' can describe an ongoing romantic relationship, just as it can in English."),
- (4,
-  None,
-  "'No idea. He doesn't tell me anything.' The negative wraps around the verb 'tells', with the word for "
-  "'anything' at the end."),
- (5,
-  "Camille, c'est ça?",
-  "'Camille, is that right?' Literally 'that's it?', the easiest way to check a name or a fact."),
- (5,
-  'Elle est sympa, non?',
-  "'She's nice, isn't she?' Adding 'no?' at the end turns any statement into a friendly tag question."),
- (6,
-  None,
-  "'I don't know her very well.' The short word for 'her' is before 'know'. The same spelling also serves as the "
-  'feminine article before a noun. Here it represents Camille and sits before the action.'),
- (7,
-  None,
-  "'But she works at the agency!' French uses the same spoken form of working for one man and for one woman."),
- (8,
-  None,
-  "'Not with me.' This short denial leaves out a full action word. After 'with', French uses the longer "
-  "independent form of 'me'. Mathias tries to distance himself from Camille."),
- (9,
-  None,
-  "'He could marry her!' The form of 'can' makes this a possibility, not a statement of what he wants. The "
-  "expression for getting married is self-directed and uses 'with' before the partner."),
- (10,
-  None,
-  "'What on earth are you talking about?' Literally 'what is it that you are telling?'. Mathias nearly chokes on "
-  'his wine.'),
- (11, None, "'I'm joking, Mathias.' Catherine uses a useful everyday action word for 'to joke' or 'to kid'."),
- (12,
-  None,
-  "'It's not very smart to go out with his agent's assistant.' The expression 'go out with' means 'date' here. "
-  'Mathias frames his discomfort as a professional concern.'),
- (13, None, "'Tell him, then.' Command form of 'tell' joined by a hyphen to the word for 'to him'."),
- (14, None, "'Yes, I'll talk to him.' Near future: 'I am going to talk to him'.")]
+WALK = [
+    (0, None, "'Hippolyte won't be here for dinner.' Future tense of 'to be' wrapped in the two-part negation."),
+    (1, None, "'Is he studying?' The action means reviewing or studying material. The question keeps ordinary statement order and uses a rising voice. The source does not specify that he is learning acting lines."),
+    (2, None, "'He doesn't say, but I doubt it.' French normally links the action of doubting to the uncertain fact with a little connecting word. The short pronoun before the action replaces that connection and the fact together."),
+    (3, None, "'Is he still seeing Andréa's assistant?' The time word here means 'still', rather than 'always'. The action word 'see' can describe an ongoing romantic relationship, just as it can in English."),
+    (4, None, "'No idea. He doesn't tell me anything.' The negative wraps around the verb 'tells', with the expression for 'anything' at the end."),
+    (5, "Camille, c'est ça?", "'Camille, is that right?' Literally 'that's it?', the easiest way to check a name or a fact."),
+    (5, 'Elle est sympa, non?', "'She's nice, isn't she?' Adding 'no?' at the end turns any statement into a friendly tag question."),
+    (6, None, "'I don't know her very well.' The short word for 'her' is before 'know'. The same spelling also serves as the feminine article before a noun. Here it represents Camille and sits before the action."),
+    (7, None, "'But she works at the agency!' French uses the same spoken form of working for one man and for one woman."),
+    (8, None, "'Not with me.' This short denial leaves out a full action word. After 'with', French uses the longer independent form of 'me'. Mathias tries to distance himself from Camille."),
+    (9, None, "'He could marry her!' The form of 'can' makes this a possibility, not a statement of what he wants. The expression for getting married is self-directed and uses 'with' before the partner."),
+    (10, None, "'What on earth are you talking about?' Literally 'what is it that you are telling?'. Mathias nearly chokes on his wine."),
+    (11, None, "'I'm joking, Mathias.' Catherine uses a useful everyday action word for 'to joke' or 'to kid'."),
+    (12, None, "'It's not very smart to go out with his agent's assistant.' The expression 'go out with' means 'date' here. Mathias frames his discomfort as a professional concern."),
+    (13, None, "'Tell him, then.' Command form of 'tell' joined by a hyphen to a short word for 'to him'."),
+    (14, None, "'Yes, I'll talk to him.' Near future: 'I am going to talk to him'."),
+]

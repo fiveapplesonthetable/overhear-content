@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "In his office at ASK, talent agent Gabriel takes an urgent phone call from musician and filmmaker Julien Dore. Julien is spiraling in self-doubt after France 2 canceled his movie project, obsessively reading his rejected screenplay. Let's listen to their emotional exchange in French first."
 OPENER = "Let's observe how Gabriel comforts Julien and encourages him to move forward."
-TRANSITION = "Now let's listen to Gabriel and Julien again at full speed."
+TRANSITION = "Now let's listen to the whole scene again with Gabriel and Julien."
 OUTRO = 'Gabriel helps Julien Dore process the pain of a canceled project, reminding him that setbacks are inevitable in filmmaking. With steadfast agent support, Julien prepares to turn the page toward new artistic endeavors. See you next time!'
 CLOSING = ('julien', 'À demain!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('gabriel', 'Oui, je suis toujours là avec toi.', 'Yes, I am always here with you.', [(92, "Je suis là, d'accord ?")], ''),
 ]
 WALK = [
-    (0, None, "'Hello Gabriel, do you have a minute?' Julien checks conversational availability."),
-    (1, None, "'Yes Julien, I was just thinking of you.' Answering his phone, Gabriel tells Julien warmly that he was just thinking of him."),
-    (2, None, "'I am rereading my rejected screenplay again.' Julien shows obsessive artistic doubt."),
-    (3, None, "'Stop reading this screenplay, please.' Gabriel urges a client to break negative habits."),
-    (4, None, "'I want to understand our commercial failure.' Julien seeks reasons for professional setback."),
-    (5, None, "'You are only making your sadness worse.' Gabriel highlights emotional harm."),
-    (6, None, "'No producer wants my story.' Julien feels that every producer in town has rejected his story."),
-    (7, None, "'Many films lack financing.' Gabriel puts the financing struggles in perspective for him."),
-    (8, None, "'It is too brutal an artistic milieu.' Julien describes harsh cinema realities."),
-    (9, None, "'Cinema is a veritable rollercoaster.' Gabriel illustrates unpredictable career fortunes."),
-    (10, None, "'I no longer know what to write now.' Julien reveals creative disorientation."),
-    (11, None, "'You simply must move on to something else.' Gabriel advises creative renewal."),
-    (12, None, "'Do you believe we will find another project?' Julien seeks future collaborative hope."),
-    (13, None, "'Yes, I am always here with you.' Gabriel guarantees personal and professional loyalty. Now let's listen to Gabriel and Julien again at full speed."),
+    (0, None, "'Hello Gabriel, do you have a minute?' French has a dedicated phone-only greeting at the start here—you'd use it when picking up or calling, never face-to-face."),
+    (1, None, "'Yes Julien, I was just thinking of you.' Where English says 'thinking of you,' French says 'thinking to you,' slipping in an adverb meaning 'precisely at this moment.'"),
+    (2, None, "'I am rereading my rejected screenplay again.' Putting 're-' onto 'read' AND adding 'still' after it in French doubles down on how obsessively Julien keeps going back."),
+    (3, None, "'Stop reading this screenplay, please.' To say 'stop doing' something in French, link 'stop' to the action with 'of,' then soften the command with casual 'please.'"),
+    (4, None, "'I want to understand our commercial failure.' Notice 'failure commercial' reversing English order, with 'failure' built from the same root as 'chess' and 'checkmate.'"),
+    (5, None, "'You are only making your sadness worse.' Wrapping 'do' in a two-part frame literally meaning 'not... than' is how French expresses 'only' or 'do nothing but.'"),
+    (6, None, "'No producer wants my story.' Leading with 'not one producer' pairs with 'not' before 'wants,' and 'wants of my story' adds 'of' in French."),
+    (7, None, "'Many films lack financing.' Both 'many of' and 'lack of' require that little connector 'of' in French even where English needs nothing after 'lack.'"),
+    (8, None, "'It is too brutal an artistic milieu.' English actually borrowed 'milieu' straight from French, where it literally means 'middle place' and refers to a social or creative circle."),
+    (9, None, "'Cinema is a veritable rollercoaster.' Literally 'Russian mountains,' that colorful French expression is how everyone calls an amusement-park rollercoaster—or wild career swings!"),
+    (10, None, "'I no longer know what to write now.' In the negative, pairing 'not' with 'more' around 'know' means 'no longer,' followed cleanly by 'what to write.'"),
+    (11, None, "'You simply must move on to something else.' Literally 'pass to other thing,' this handy phrase works anytime you want to urge someone to turn the page."),
+    (12, None, "'Do you believe we will find another project?' Spoken French swaps formal 'we' for the casual one-syllable subject 'one,' so Julien literally asks 'one will find?'"),
+    (13, None, "'Yes, I am always here with you.' That little place marker can mean both 'here' and 'there,' making 'I am there' the go-to reassurance for 'I'm here for you.'"),
 ]

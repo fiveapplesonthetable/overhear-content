@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In the recording studio, Gabriel admits to Julien Dore that he and Sofia are dating. Julien accepts the news but insists that outside personal ties must not interfere with his creative work. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel and Julien negotiate professional boundaries and creative independence step by step."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
 OUTRO = "Julien sets clear artistic boundaries while accepting Sofia and Gabriel's relationship with professional grace. Let's review the creative and boundary-setting vocabulary from this scene. See you next time!"
 CLOSING = ('julien', 'À demain!')
 STORY = [
@@ -33,19 +33,19 @@ STORY = [
     ('gabriel', 'Sofia est ton actrice pour ce film.', 'Sofia is your actress for this film.', [(782, "C'est ton actrice."), (783, "D'accord.")], ''),
 ]
 WALK = [
-    (0, None, "'Are you working hard today, Sofia?' Julien asks Sofia in an easygoing, friendly tone."),
-    (1, None, "'Sorry, the two of us are together.' Gabriel interrupts politely to disclose their romantic relationship."),
-    (2, None, "'Okay, I understand the situation.' Julien takes in the surprising confession without getting angry."),
-    (3, None, "'We wanted to avoid unnecessary gossip.' Sofia clarifies why they chose to keep their romance quiet."),
-    (4, None, "'Keep this to yourself, please.' Gabriel asks Julien to maintain complete secrecy within the industry."),
-    (5, None, "'I would have preferred knowing sooner.' Julien admits he would rather have had full transparency upfront."),
-    (6, None, "'That changes nothing about the project.' Gabriel insists that personal feelings will not disrupt the shoot."),
-    (7, None, "'For me, the essential thing remains the film.' Julien refocuses the discussion on the artistic production."),
-    (8, None, "'I refuse any interference in my work.' Julien makes it clear that he will not accept meddling."),
-    (9, None, "'There will be no problem here.' Sofia reassures Julien about her professional commitment."),
-    (10, None, "'I want no outside interference.' Julien repeats his strict condition regarding creative autonomy."),
-    (11, None, "'Of course, we respect your approach.' Gabriel readily agrees to give Julien full artistic leeway."),
-    (12, None, "'Without total freedom, art is useless.' Julien compares making art under constraint to windsurfing without wind."),
-    (13, None, "'Very well, do as you wish, Julien.' Gabriel gracefully steps back to let the director lead."),
-    (14, None, "'Sofia is your actress for this film.' Gabriel places his full trust in Julien's creative vision. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'Are you working hard today, Sofia?' Notice the closing word meaning 'today' originally glued together 'on the day of this day' in French."),
+    (1, None, "'Sorry, the two of us are together.' Saying 'all the two' at the end is how you say 'both of us' or 'the two of us' in French."),
+    (2, None, "'Okay, I understand the situation.' Related to 'comprehend', that everyday action pairs with the exact cognate 'situation' in French."),
+    (3, None, "'We wanted to avoid unnecessary gossip.' Built from the root meaning 'chatty', that central term means 'idle chatter' or 'gossip', followed by 'useless'."),
+    (4, None, "'Keep this to yourself, please.' Where English says 'keep this to yourself', French says 'guard that for you' using formal 'that' and polite 'you'."),
+    (5, None, "'I would have preferred knowing sooner.' Notice 'it' tucks right ahead of 'know' in French, closed by two short words meaning 'more early'."),
+    (6, None, "'That changes nothing about the project.' Wrapping 'changes' with the negative marker and 'nothing' takes 'to the project' where English says 'about'."),
+    (7, None, "'For me, the essential thing remains the film.' Putting 'the' ahead of 'essential' turns it into 'the essential thing' without needing 'thing' in French."),
+    (8, None, "'I refuse any interference in my work.' Without 'the' after it, 'all' ahead of 'interference' shifts in meaning to 'any whatsoever' in French."),
+    (9, None, "'There will be no problem here.' Shifting 'there is' into the future and pairing it with 'none' builds 'there will be no problem' cleanly in French."),
+    (10, None, "'I want no outside interference.' Julien swaps in a formal diplomatic word in French meaning 'meddling' or 'interference', followed by 'exterior'."),
+    (11, None, "'Of course, we respect your approach.' Built from 'walk' or 'step', that final word often describes an artist's creative 'approach' or 'process' in French."),
+    (12, None, "'Without total freedom, art is useless.' Placing 'total' ahead of 'freedom' heightens Julien's manifesto tone, while 'art' keeps 'the' in French."),
+    (13, None, "'Very well, do as you wish, Julien.' Shifting back to casual 'you' with his client, Gabriel echoes the handy expression meaning 'do like you want'."),
+    (14, None, "'Sofia is your actress for this film.' Because 'actress' starts with a vowel, 'your' switches to its vowel-friendly shape so the two words link smoothly in French."),
 ]

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At Gabriel's apartment, Sofia reveals that she had a drink with pop star Julien Dore. Although Gabriel initially questions why Julien bypassed normal agent protocol, he is thrilled to learn that Sofia has a major recording audition. Let's listen to the scene in French first."
 OPENER = "Let's examine how Sofia and Gabriel discuss the exciting studio audition step by step to learn natural conversational phrasing."
-TRANSITION = "Now let's listen to the scene once more from start to finish."
+TRANSITION = "Now let's listen to the whole scene once more from start to finish."
 OUTRO = "Sofia's talent earns her a coveted voice trial with Julien Dore, celebrating a sweet domestic victory with Gabriel. Let's review the vocabulary and everyday conversational idioms from this scene. See you next time!"
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('gabriel', 'Et en plus, tu as apporté des chocolats!', 'And what is more, you brought chocolates!', [(188, 'Et en plus tu as fait à dîner.'), (190, 'Des chocolats !')], ''),
 ]
 WALK = [
-    (0, None, "'I had a drink with Julien Dore.' Sofia shares that she met up casually with the famous musician."),
-    (1, None, "'Really? Why didn't you tell me anything?' Gabriel is taken aback that she kept the meeting secret until now."),
-    (2, None, "'I am telling you now, Gabriel.' Sofia gently reassures him that she is being fully transparent."),
-    (3, None, "'How did he get your number?' Gabriel wonders how Julien obtained her personal phone contact."),
-    (4, None, "'I gave it to him yesterday evening.' Sofia clarifies that she exchanged numbers at the agency party."),
-    (5, None, "'He should have called me first.' Gabriel points out standard professional courtesy between agent and client."),
-    (6, None, "'Or call your official agent, Mathias.' Gabriel worries that Mathias will be furious to find out about the direct artist contact."),
-    (7, None, "'You are the one who did everything.' Sofia lovingly reminds Gabriel that he created this opportunity for her."),
-    (8, None, "'It is thanks to you, my love.' Sofia reaffirms her gratitude and deep affection for Gabriel."),
-    (9, None, "'You are right. And so?' Gabriel smiles, setting aside his agent worries to hear the big outcome."),
-    (10, None, "'I am doing voice tests tomorrow!' Sofia delivers the thrilling news that Julien invited her into his recording studio."),
-    (11, None, "'That is fantastic news, darling.' Gabriel warmly congratulates her on this major breakthrough."),
-    (12, None, "'And what is more, you brought chocolates!' Gabriel happily spots the sweet treat she bought for dinner. Now let's listen to the scene once more from start to finish."),
+    (0, None, "'I had a drink with Julien Dore.' Literally 'I took a glass', French uses 'take' with food and drinks where English says 'have'."),
+    (1, None, "'Really? Why didn't you tell me anything?' Pairing the negative marker with 'nothing' ahead of 'said' builds 'didn't tell me anything' in French."),
+    (2, None, "'I am telling you now, Gabriel.' Both 'to you' and 'it' stack up ahead of 'say' in French — word-for-word, 'I to-you it say now'."),
+    (3, None, "'How did he get your number?' Slipping a sounded 't' between hyphens keeps two vowels from clashing when 'has' and 'he' flip order in French."),
+    (4, None, "'I gave it to him yesterday evening.' Compare line two: in French, 'it' stands ahead of 'to him' before 'have given', closed neatly by 'yesterday evening'."),
+    (5, None, "'He should have called me first.' Ending with a two-part chunk that literally means 'of approach' gives the everyday expression meaning 'first of all'."),
+    (6, None, "'Or call your official agent, Mathias.' Notice 'official' follows 'agent' in French rather than coming ahead of it as in English."),
+    (7, None, "'You are the one who did everything.' Framing casual 'you' inside 'it is you who' spotlights Gabriel's effort, while 'everything' sits before 'done'."),
+    (8, None, "'It is thanks to you, my love.' Unlike 'because of', this warm expression built from 'grace to' always credits someone for good fortune."),
+    (9, None, "'You are right. And so?' French says 'you have reason' where English says 'you are right', then nudges the story forward with 'and so?'."),
+    (10, None, "'I am doing voice tests tomorrow!' Present action paired with 'tomorrow' works naturally in French for a booked plan, literally 'trials of voice'."),
+    (11, None, "'That is fantastic news, darling.' A single piece of news is countable in French — literally 'a fantastic new' — closed affectionately with 'darling'."),
+    (12, None, "'And what is more, you brought chocolates!' Opening with 'and in more' gives a handy chunk you'll hear whenever speakers pile one treat onto another."),
 ]

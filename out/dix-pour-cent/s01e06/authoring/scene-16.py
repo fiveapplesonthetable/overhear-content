@@ -14,7 +14,7 @@ INTRO = ('At her audition, Sofia discovers to her horror that the role requires 
  'all. When the audition ends in disaster, Gabriel confronts Sofia back at the agency, and a furious argument erupts '
  "between them. Let's listen to the scene in French first; don't worry about catching every word.")
 OPENER = "Let's go through it slowly. At the casting studio, Constance interrupts Sofia's audition."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = "Furious at Gabriel's stereotypes, Sofia tells him to take her off his client list and walks out. See you next time!"
 CLOSING = ('sofia', 'Bonne soirée!')
 STORY = [('constance',
@@ -93,71 +93,22 @@ STORY = [('constance',
   'Why am I only offered these roles full of clichés?',
   [(467, 'Donc je suis soit une esclave, soit une danseuse de hip-hop, soit une sauvage')],
   '')]
-WALK = [(0,
-  None,
-  "'That's not at all what I had asked for.' The negative is strengthened with words meaning 'at all'. The ending "
-  'looks further back to what the casting director had already requested.'),
- (1,
-  "La danse d'abord.",
-  "'The dance first.' The order word means 'first'. The casting director is insisting the dance must come before the "
-  'dramatic scene.'),
- (1,
-  'On reprend depuis le début. Prête?',
-  "'We start again from the beginning. Ready?' The opening action means taking up again or restarting. The time words "
-  'send them to the beginning; the final feminine word asks whether Sofia is ready.'),
- (2,
-  None,
-  "'Listen, it's the cops! We have to get out of here!' Sofia launches into another dramatic line. The plural slang "
-  'word means cops. The last statement says it is necessary to leave this place.'),
- (3,
-  None,
-  "'But what did you do?' The opening word is 'but', expressing Gabriel's alarm. The question ends with the completed "
-  "action 'done': he wants to know what happened."),
- (4,
-  None,
-  "'I'm sorry. I like you a lot, Sofia, but this isn't working.' The first description says Gabriel is sorry. The "
-  "little object attached to 'like' means 'you'; the ending denies that the situation is working."),
- (5,
-  None,
-  "'Either you explain to me what happened, or...' The repeated opening word creates an 'either ... or ...' choice. "
-  "The object attached to 'explain' means 'to me', as he demands an account."),
- (6,
-  None,
-  "'It's hip-hop. I don't know how to dance.' The first sentence identifies hip-hop. The second denies knowing how to "
-  'do an action: Sofia does not know how to dance it.'),
- (7,
-  None,
-  "'Why didn't you tell me?' Two short objects occur together before the completed action: 'to me' and 'it'. Gabriel "
-  'asks why she did not tell him this fact.'),
- (8,
-  None,
-  "'I had told you that it was condition number one!' The first action looks further back: he had already told her. "
-  "The final words literally make 'condition number one', emphasizing the main requirement."),
- (9,
-  None,
-  "'But you came to offer me a hip-hop role!' The completed arrival word describes Gabriel, so it is masculine. The "
-  "object before 'offer' means 'me': Sofia challenges the role he brought her."),
- (10,
-  None,
-  "'Because I'm black, I know how to dance hip-hop?' The opening means 'because'. Sofia uses a statement-shaped "
-  'question to challenge the assumption that being Black implies she can dance hip-hop.'),
- (11,
-  None,
-  "'Excuse me? You're crossing the line!' The first word asks him to repeat or justify himself. The next expression "
-  'literally means exceeding the boundaries: crossing a line.'),
- (12,
-  None,
-  "'And that doesn't explain why you hit her assistant!' The completed action means 'hit'. The possessive before "
-  "assistant refers to the casting director; her male assistant was struck during Sofia's performance."),
- (13,
-  None,
-  "'There are rules! The agency has a reputation! So do I!' The opening three words mean 'there are'. The later 'has' "
-  'is an ordinary possession word: the agency has a reputation, and Gabriel says he does too.'),
- (14,
-  None,
-  "'Are you calling me a savage?' The little object attached to 'call' means 'me'. Sofia asks whether he is labelling "
-  'her a savage, directly challenging his characterization.'),
- (15,
-  None,
-  "'Why am I only offered these roles full of clichés?' The first word asks 'why'. The small object before 'offer' "
-  "means 'to me'; 'only' restricts the offers to roles filled with clichés.")]
+WALK = [
+    (0, None, "'That's not at all what I had asked for.' The negative is strengthened with words meaning 'at all'. The ending looks further back to what the casting director had already requested."),
+    (1, "La danse d'abord.", "'The dance first.' The order word means 'first'. The casting director is insisting the dance must come before the dramatic scene."),
+    (1, 'On reprend depuis le début. Prête?', "'We start again from the beginning. Ready?' The opening action means taking up again or restarting. The time words send them to the beginning; the final feminine word asks whether Sofia is ready."),
+    (2, None, "'Listen, it's the cops! We have to get out of here!' Sofia launches into another dramatic line. The plural slang word means cops. The last statement says it is necessary to leave this place."),
+    (3, None, "'But what did you do?' The opening word is 'but', expressing Gabriel's alarm. The question ends with the completed action 'done': he wants to know what happened."),
+    (4, None, "'I'm sorry. I like you a lot, Sofia, but this isn't working.' The first description says Gabriel is sorry. The little object attached to 'like' means 'you'; the ending denies that the situation is working."),
+    (5, None, "'Either you explain to me what happened, or...' The repeated opening word creates an 'either ... or ...' choice. The object attached to 'explain' means 'to me', as he demands an account."),
+    (6, None, "'It's hip-hop. I don't know how to dance.' The first sentence identifies hip-hop. The second denies knowing how to do an action: Sofia does not know how to dance it."),
+    (7, None, "'Why didn't you tell me?' Two short objects occur together before the completed action: 'to me' and 'it'. Gabriel asks why she did not tell him this fact."),
+    (8, None, "'I had told you that it was condition number one!' The first action looks further back: he had already told her. The final words literally make 'condition number one', emphasizing the main requirement."),
+    (9, None, "'But you came to offer me a hip-hop role!' The completed arrival word describes Gabriel, so it is masculine. The object before 'offer' means 'me': Sofia challenges the role he brought her."),
+    (10, None, "'Because I'm black, I know how to dance hip-hop?' The opening means 'because'. Sofia uses a statement-shaped question to challenge the assumption that being Black implies she can dance hip-hop."),
+    (11, None, "'Excuse me? You're crossing the line!' The first word asks him to repeat or justify himself. The next expression literally means exceeding the boundaries: crossing a line."),
+    (12, None, "'And that doesn't explain why you hit her assistant!' The completed action means 'hit'. The possessive before assistant refers to the casting director; her male assistant was struck during Sofia's performance."),
+    (13, None, "'There are rules! The agency has a reputation! So do I!' The opening three words mean 'there are'. The later 'has' is an ordinary possession word: the agency has a reputation, and Gabriel says he does too."),
+    (14, None, "'Are you calling me a savage?' The little object attached to 'call' means 'me'. Sofia asks whether he is labelling her a savage, directly challenging his characterization."),
+    (15, None, "'Why am I only offered these roles full of clichés?' The first word asks 'why'. The small object before 'offer' means 'to me'; 'only' restricts the offers to roles filled with clichés."),
+]

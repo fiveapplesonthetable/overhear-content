@@ -12,7 +12,7 @@ SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In Hicham's office, Hervé and Camille unveil their plans for Elvis's tenth birthday party. To their surprise, Hicham angrily dismisses their ideas and demands a luxury celebration on a breathtaking scale. Listen to the scene in French first."
 OPENER = "Let's examine how Hicham pushes for an extravagant birthday celebration."
-TRANSITION = "Now let's listen to Hicham's ambitious demands once more at normal speed."
+TRANSITION = "Now let's hear Hicham's ambitious demands once more at normal speed."
 OUTRO = "Faced with Hicham's immense ambitions, Camille and Hervé must now pull off the ultimate party with a real castle and celebrity guests. Listen to the entire exchange once more in French. See you next time!"
 CLOSING = ('camille', 'À bientôt!')
 STORY = [
@@ -34,20 +34,20 @@ STORY = [
     ('camille', "D'accord, nous allons organiser cela.", 'All right, we will organize that.', [(528, 'Faites venir Julien Doré et Norman')], ''),
 ]
 WALK = [
-    (0, None, "'We planned Elvis's birthday party.' Hervé announces proudly."),
-    (1, None, "'We booked two laser game sessions.' Camille presents the main activity."),
-    (2, None, "'And a giant cake with candy!' Hervé adds with cheerful enthusiasm."),
-    (3, None, "'Do you really think that is enough?' Hicham scoffs disdainfully."),
-    (4, None, "'It's fun for ten-year-old children.' Camille defends the kid-friendly plan."),
-    (5, None, "'Elvis's mother is ruining my life!' Hicham vents his personal frustration."),
-    (6, None, "'I want the best party in the world!' Hicham demands an extraordinary event."),
-    (7, None, "'We forget the laser game and the candies.' He cancels their initial proposal instantly."),
-    (8, None, "'I want a grandiose party, friends!' Hicham sets his extravagant vision."),
-    (9, None, "'A grandiose party? What kind of place?' Hervé asks cautiously."),
-    (10, None, "'I want a castle with a large park!' Hicham reveals his lavish ambition."),
-    (11, None, "'A castle? But that is huge!' Camille gasps at the scale."),
-    (12, None, "'Note everything: fountains and music.' Hicham rattles off extravagant features."),
-    (13, None, "'And who are the invited guests?' Hervé checks the guest list."),
-    (14, None, "'The whole agency and big celebrities!' Hicham wants a star-studded spectacle."),
-    (15, None, "'All right, we will organize that.' Camille accepts the daunting challenge. Now let's listen to Hicham's ambitious demands once more at normal speed."),
+    (0, None, "'We planned Elvis's birthday party.' Covering both 'birthday' and 'anniversary', this cognate links to Elvis with 'of' clipped to an apostrophe in French."),
+    (1, None, "'We booked two laser game sessions.' Saying 'we have reserved' is the everyday way you'd say 'we booked' for restaurants, hotels, or party venues in French."),
+    (2, None, "'And a giant cake with candy!' Doubled 'good-good' syllables form the playful word that means 'candies' or 'sweets' in French, right after 'giant' following 'cake'."),
+    (3, None, "'Do you really think that is enough?' Related to English 'suffice', that compact closing action is what you'll hear constantly for 'that is enough' in French."),
+    (4, None, "'It's fun for ten-year-old children.' Rather than hyphenating 'ten-year-old' in front, French says 'children of ten years' at the end."),
+    (5, None, "'Elvis's mother is ruining my life!' Literally 'rots to-me the life', this vivid colloquial idiom expresses that someone is making your life miserable."),
+    (6, None, "'I want the best party in the world!' Expressions like 'the best in the world' link with 'of the world' instead of 'in' in French."),
+    (7, None, "'We forget the laser game and the candies.' Using casual 'one forgets' in the present works as a brisk boss's dismissal—closer to 'let's scrap that' in English."),
+    (8, None, "'I want a grandiose party, friends!' Addressing a group directly at the end keeps 'the' in front—literally 'the friends!'—where English drops the article."),
+    (9, None, "'A grandiose party? What kind of place?' Pairing 'what' with 'genre of' is a handy phrase you can use whenever asking 'what kind of' in French."),
+    (10, None, "'I want a castle with a large park!' That circumflex roof over the 'a' in 'castle' marks an old 's' that vanished in French, while English kept it in 'castle'."),
+    (11, None, "'A castle? But that is huge!' Starting an exclamation with 'but it is' plus a cognate of 'enormous' captures breathless disbelief in French."),
+    (12, None, "'Note everything: fountains and music.' Uncountable 'music' requires a two-word 'some' marker in front, right after a polite '-ez' command in French."),
+    (13, None, "'And who are the invited guests?' Because 'persons' is always female-gendered regardless of who attends, 'invited' adds '-es' in spelling in French."),
+    (14, None, "'The whole agency and big celebrities!' When a describing word like 'big' stands ahead of 'celebrities', the usual 'some' marker shrinks to plain 'of' in French."),
+    (15, None, "'All right, we will organize that.' Switching from casual 'one' to formal 'we' and the full form of 'that' makes Camille's promise sound extra dutiful in French."),
 ]

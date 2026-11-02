@@ -102,73 +102,24 @@ STORY = [('mathias',
   [(235, 'Andréa voulait vous montrer quelque chose, mais'), (235, 'pas maintenant')],
   'Learner adaptation, not a verbatim French transcript.'),
  ('camille', 'Je vais revenir plus tard.', "I'll come back later.", [], '')]
-WALK = [(0,
-  None,
-  "'Arlette, I want to talk to you about Jonathan Joubert.' Mathias uses the polite word for you to address "
-  'Arlette. In this exchange she answers him with the familiar form, so the two speakers do not use the same '
-  'register.'),
- (1,
-  None,
-  "'That's Jean Gabin's armchair.' Arlette uses the dog's name to say whose armchair it is. The connecting "
-  'word of goes before the full name in French, where English can attach a possessive ending.'),
- (2,
-  None,
-  "'Marie-Sophie doesn't want your flowers.' Arlette uses the familiar form of your, although Mathias "
-  'addresses her politely. The possessive is plural because the flowers are plural.'),
- (3,
-  None,
-  "'You can't do anything against Ryan's illness.' The word for nothing follows can, while do stays in its "
-  'basic form. Together the negative means that no useful action is possible.'),
- (4,
-  None,
-  "'We're going to lose a lot of money!' The quantity a lot is followed by of before money. A form of go "
-  'announces the financial loss he expects if the character is removed.'),
- (5,
-  None,
-  "'Not everything revolves around money.' The negative does not mean nothing matters. It limits everything: "
-  'money is not the centre of every consideration.'),
- (6,
-  None,
-  "'Arlette, your share in this agency is very small.' The possessive your is polite, but his message is "
-  'threatening. Small takes its feminine ending to match the word for share.'),
- (7,
-  None,
-  "'And Samuel is no longer here to protect you.' The negative expression means no longer. The following "
-  'action protect stays in its basic form after the connecting word for.'),
- (8,
-  None,
-  "'Your threats don't impress me.' The familiar possessive your goes with the plural threats. The little "
-  'word for me stands before the action about impressing someone.'),
- (9,
-  None,
-  "'I'm not talking about money, I'm talking about dignity and loyalty.' The same pattern about speaking of "
-  'something appears twice. Repeating it places money on one side and dignity and loyalty on the other.'),
- (10,
-  None,
-  "'Marie-Sophie is worth a thousand of that idiot Jonathan Joubert!' The action means is worth, not costs. "
-  'A thousand times makes the comparison deliberately extreme, showing her loyalty to the writer.'),
- (11,
-  None,
-  "'So as for your Ryan, that's the end of him!' The final sound imitates a brief choked cry. In this "
-  'context it signals an abrupt end for the character she wants written out.'),
- (12,
-  None,
-  "'Excuse me, we have to think of the real fans of the series.' The impersonal expression means it is "
-  'necessary. The word for to combines with the plural article before the real fans she wants them to '
-  'consider.'),
- (13,
-  None,
-  "'Yes, Camille?' A simple yes followed by a name gives someone the floor. It can invite them to continue "
-  'without agreeing to any proposal yet.'),
- (14,
-  None,
-  "'Andréa wanted to show you something, but not now.' The past form of want reports an earlier intention. "
-  'Something is an indefinite expression: Camille does not need to name the object Andrea wanted to show '
-  'Mathias.'),
- (15,
-  None,
-  "'I'll come back later.' A form of go introduces the promise to return. The final phrase means later, "
-  'literally more late, rather than never coming back.')]
+WALK = [
+    (0, None, "'Arlette, I want to talk to you about Jonathan Joubert.' Mathias uses the polite word for you to address Arlette. In this exchange she answers him with the familiar form, so the two speakers do not use the same register."),
+    (1, None, "'That's Jean Gabin's armchair.' Arlette uses the dog's name to say whose armchair it is. The connecting word of goes before the full name in French, where English can attach a possessive ending."),
+    (2, None, "'Marie-Sophie doesn't want your flowers.' Arlette uses the familiar form of your, although Mathias addresses her politely. The possessive is plural because the flowers are plural."),
+    (3, None, "'You can't do anything against Ryan's illness.' The word for nothing follows can, while do stays in its basic form. Together the negative means that no useful action is possible."),
+    (4, None, "'We're going to lose a lot of money!' The quantity a lot is followed by of before money. A form of go announces the financial loss he expects if the character is removed."),
+    (5, None, "'Not everything revolves around money.' The negative does not mean nothing matters. It limits everything: money is not the centre of every consideration."),
+    (6, None, "'Arlette, your share in this agency is very small.' The possessive your is polite, but his message is threatening. Small takes its feminine ending to match the word for share."),
+    (7, None, "'And Samuel is no longer here to protect you.' The negative expression means no longer. The following action protect stays in its basic form after the connecting word for."),
+    (8, None, "'Your threats don't impress me.' The familiar possessive your goes with the plural threats. One tiny word meaning me stands before the action about impressing someone."),
+    (9, None, "'I'm not talking about money, I'm talking about dignity and loyalty.' The same pattern about speaking of something appears twice. Repeating it places money on one side and dignity and loyalty on the other."),
+    (10, None, "'Marie-Sophie is worth a thousand of that idiot Jonathan Joubert!' The action means is worth, not costs. A thousand times makes the comparison deliberately extreme, showing her loyalty to the writer."),
+    (11, None, "'So as for your Ryan, that's the end of him!' The final sound imitates a brief choked cry. In this context it signals an abrupt end for the character she wants written out."),
+    (12, None, "'Excuse me, we have to think of the real fans of the series.' The impersonal expression means it is necessary. The word for to combines with the plural article before the real fans she wants them to consider."),
+    (13, None, "'Yes, Camille?' A simple yes followed by a name gives someone the floor. It can invite them to continue without agreeing to any proposal yet."),
+    (14, None, "'Andréa wanted to show you something, but not now.' The past form of want reports an earlier intention. Something is an indefinite expression: Camille does not need to name the object Andrea wanted to show Mathias."),
+    (15, None, "'I'll come back later.' A form of go introduces the promise to return. The final phrase means later, literally more late, rather than never coming back."),
+]
 SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the '
  'bilingual working subtitles, whose French track is backtranslated; source video and separate '
  'original-audio checks verify roles, plot and register.')

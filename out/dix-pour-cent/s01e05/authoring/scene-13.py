@@ -87,59 +87,21 @@ STORY = [('noemie',
   "You're welcome.",
   [(251, 'De rien')],
   'Learner adaptation, not a verbatim French transcript.')]
-WALK = [(0,
-  None,
-  "'Our audience is the woman chatting at the hairdresser's.' The word for at can introduce a person or "
-  "their place of work. At the hairdresser's means in the salon, rather than simply beside a hairdresser."),
- (1,
-  None,
-  "'The kind of woman who adores Jonathan Joubert.' Kind is followed by of before the person described. The "
-  'next word means who and makes that woman the subject of adores.'),
- (2,
-  None,
-  "'Ryan, I mean.' The expression literally says I want to say. In conversation it corrects a word or name "
-  'the speaker has just used.'),
- (3,
-  None,
-  "'We need a rumor to make the fans react.' The impersonal expression says that something is necessary to "
-  'us. The little word for us identifies who needs the rumour, rather than who spreads it.'),
- (4,
-  None,
-  "'What is your idea, like a death notice?' The question word comes after the identifying expression in "
-  'this casual question. A death notice is a public announcement, which is why it sounds so extreme here.'),
- (5,
-  None,
-  "'Exactly!' The single word confirms that the suggestion matches her idea exactly. It can answer a whole "
-  'question without repeating its wording.'),
- (6,
-  None,
-  "'I took inspiration from that case of a missing child in Corrèze.' The past action of taking inspiration "
-  'uses be as its helper because it is reflexive. The missing child is described with a completed form of '
-  'disappear.'),
- (7,
-  None,
-  "'It's horrible.' The description has the same spelling for masculine and feminine things. Here the simple "
-  'judgment rejects the whole idea, rather than describing one person.'),
- (8,
-  None,
-  "'Listen, drop it.' The polite instruction literally says let fall. The expression means to stop pursuing "
-  'the idea, without dropping a physical object.'),
- (9,
-  None,
-  "'Take care of Audrey Fleurot.' The word for yourself attaches after the polite instruction. Take care of "
-  'introduces the person whose problem Noémie should now handle.'),
- (10,
-  None,
-  "'She has a schedule problem with her children.' The expression for schedule literally means use of time. "
-  'With introduces the children whose needs are making her timetable difficult.'),
- (11,
-  None,
-  "'Thanks all the same.' The final two words mean all the same. They acknowledge the effort even though the "
-  'proposed idea has been rejected.'),
- (12,
-  None,
-  "'You're welcome.' The reply to thanks literally says of nothing. Its short form keeps the office exchange "
-  'polite after the awkward proposal.')]
+WALK = [
+    (0, None, "'Our audience is the woman chatting at the hairdresser's.' The word for at can introduce a person or their place of work. At the hairdresser's means in the salon, rather than simply beside a hairdresser."),
+    (1, None, "'The kind of woman who adores Jonathan Joubert.' Kind is followed by of before the person described. The next word means who and makes that woman the subject of adores."),
+    (2, None, "'Ryan, I mean.' The expression literally says I want to say. In conversation it corrects a word or name the speaker has just used."),
+    (3, None, "'We need a rumor to make the fans react.' The impersonal expression says that something is necessary to us. The small word for us identifies who needs the rumour, rather than who spreads it."),
+    (4, None, "'What is your idea, like a death notice?' The question word comes after the identifying expression in this casual question. A death notice is a public announcement, which is why it sounds so extreme here."),
+    (5, None, "'Exactly!' The single word confirms that the suggestion matches her idea exactly. It can answer a whole question without repeating its wording."),
+    (6, None, "'I took inspiration from that case of a missing child in Corrèze.' The past action of taking inspiration uses be as its helper because it is reflexive. The missing child is described with a completed form of disappear."),
+    (7, None, "'It's horrible.' The description has the same spelling for masculine and feminine things. Here the simple judgment rejects the whole idea, rather than describing one person."),
+    (8, None, "'Listen, drop it.' The polite instruction literally says let fall. The expression means to stop pursuing the idea, without dropping a physical object."),
+    (9, None, "'Take care of Audrey Fleurot.' The word for yourself attaches after the polite instruction. Take care of introduces the person whose problem Noémie should now handle."),
+    (10, None, "'She has a schedule problem with her children.' The expression for schedule literally means use of time. With introduces the children whose needs are making her timetable difficult."),
+    (11, None, "'Thanks all the same.' The final two words mean all the same. They acknowledge the effort even though the proposed idea has been rejected."),
+    (12, None, "'You're welcome.' The reply to thanks literally says of nothing. Its short form keeps the office exchange polite after the awkward proposal."),
+]
 SOURCE_NOTE = ('The French dialogue is a learner adaptation, not a verbatim transcript. Source references point to the '
  'bilingual working subtitles, whose French track is backtranslated; source video and separate '
  'original-audio checks verify roles, plot and register.')
