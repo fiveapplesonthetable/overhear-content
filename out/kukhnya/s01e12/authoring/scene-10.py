@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'Barinov has found a hookah in the dining room of his French restaurant, and he is not happy. Vika thinks the place has to move with the times. The argument, in Russian first.'
 OPENER = "Let's hear how each of them argues, one line at a time."
 TRANSITION = 'And now the argument at full length.'
-OUTRO = "Barinov decides to call the owner, and Vika is sure the owner will take her side. Listen for 'davay' at the very start: here it's a sarcastic 'let's'. Catch you next time."
+OUTRO = "Barinov decides to call the owner, and Vika is sure the owner will take her side. Listen for the sarcastic 'let us' at the very start. Catch you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('barinov', 'Давай ещё стену в туалете уберём!', 'Let us also remove the wall in the toilet!', [(78, 'Давай стеклянную стенку в туалете поставим')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Звони, хозяин полностью поддержит этот новый план.', 'Call, the owner will fully support this new plan.', [(88, 'Пожалуйста, пожалуйста')], ''),
 ]
 WALK = [
-    (0, None, "'Let us also remove the wall in the toilet!' 'Davay' means 'let's', and literally 'give'. 'Eshchyo' means 'also' here, and the sarcasm is that he suggests removing every wall."),
-    (1, None, "'Stop foolishly joking, this is an excellent idea.' 'Perestan' is 'stop', and it's followed by the action in its basic shape, 'to joke'. 'Glupo' means 'foolishly', and 'otlichnaya' is 'excellent'."),
-    (2, None, "'Where did this strange hookah come from here?' 'Otkuda' means 'from where'. 'Vzyalsya' is a nice word: it's 'took itself', and it's what Russians say when something just appeared."),
-    (3, None, "'Hookah has long become part of French culture.' 'Davno' means 'long ago', and 'stal' is 'became'. 'Chastyu' is 'part' in the form it takes after 'became', and 'frantsuzskoy' means 'French'."),
-    (4, None, "'We are a French restaurant, not a noisy bar!' Again, no 'are': it's literally 'we French restaurant'. 'Shumny' is 'noisy', from 'shum', noise."),
-    (5, None, "'Vitya, do not shout, our restaurant is changing.' 'Ne krichi' is 'don't shout': ne in front of the ty order krichi. 'Menyaetsya' ends in 'sya', so the restaurant is literally 'changing itself'."),
-    (6, None, "'Why change what is already working excellently?' Word for word it runs 'that which already excellently works'. 'To, chto', 'that which', is how Russian says 'what' in the middle of a sentence."),
-    (7, None, "'Life requires moving forward and fresh ideas.' 'Trebuet' means 'demands', and what is demanded takes the 'of' endings: dvizheniya, 'of movement', and svezhikh idey, 'of fresh ideas'."),
-    (8, None, "'I will not allow ruining my dear kitchen!' 'Ne pozvolyu' is 'I won't allow'. 'Dorogoy' means 'dear' and 'expensive', and here Barinov means 'dear to me'."),
-    (9, None, "'You promised me complete freedom in the hall yourself.' 'Sam' means 'yourself' or 'personally', and it pins the blame on him. 'Obeshchal' is 'promised', and svoboda, 'freedom', becomes svobodu as the thing promised."),
-    (10, None, "'That is it, I am calling Nagiyev right now!' 'Vsyo' on its own means 'that's it', like a door shutting. 'Zvonyu' is 'I call', and Nagiyev takes an 'u' ending because the call is to him."),
-    (11, None, "'Call, the owner will fully support this new plan.' 'Zvoni' is the order 'call!'. 'Polnostyu' means 'fully', and 'podderzhit' is 'will support'."),
+    (0, None, ["'Let us also remove the wall in the toilet!' Let's focus on the speech: ", ('barinov', 'Давай'), " means 'let us'. ", ('barinov', 'ещё'), " means 'also' here, playing into the sarcasm of suggesting they remove every wall."]),
+    (1, None, ["'Stop foolishly joking, this is an excellent idea.' We can examine this part: ", ('vika', 'Перестань'), " means 'stop', followed by the action 'to joke' in its basic form. ", ('vika', 'глупо'), " means 'foolishly', and ", ('vika', 'отличная'), " means 'excellent'."]),
+    (2, None, ["'Where did this strange hookah come from here?' We can consider the sentence: ", ('barinov', 'Откуда'), " means 'from where'. ", ('barinov', 'взялся'), ' is what Russians say when something seems to just appear out of nowhere.']),
+    (3, None, ["'Hookah has long become part of French culture.' Let's break down the phrase: ", ('vika', 'давно'), " means 'long ago', and ", ('vika', 'стал'), " is 'became'. ", ('vika', 'частью'), " is 'part' in the form it takes after 'became', and ", ('vika', 'французской'), " means 'French'."]),
+    (4, None, ["'We are a French restaurant, not a noisy bar!' Again, there is no word for 'are' here. ", ('barinov', 'шумный'), " means 'noisy', coming from the term for noise."]),
+    (5, None, ["'Vitya, do not shout, our restaurant is changing.' Now let's consider the words: ", ('vika', 'не'), ('vika', 'кричи'), " is 'do not shout', an informal command. ", ('vika', 'меняется'), ' has an ending showing that the restaurant is changing itself.']),
+    (6, None, ["'Why change what is already working excellently?' Now we can break down the words: ", ('barinov', 'то'), ('barinov', 'что'), ", meaning 'that which', is how Russian says 'what' in the middle of a sentence."]),
+    (7, None, ["'Life requires moving forward and fresh ideas.' Now we can examine the words: ", ('vika', 'требует'), " means 'requires', and the things required take new endings: ", ('vika', 'движения'), ' for movement, and ', ('vika', 'свежих'), ('vika', 'идей'), ' for fresh ideas.']),
+    (8, None, ["'I will not allow ruining my dear kitchen!' We will inspect the words: ", ('barinov', 'не'), ('barinov', 'позволю'), " is 'I will not allow'. ", ('barinov', 'дорогую'), " means both 'dear' and 'expensive', but here Barinov means it is dear to him."]),
+    (9, None, ["'You promised me complete freedom in the hall yourself.' We will focus on the speech: ", ('vika', 'сам'), " means 'yourself' or 'personally', pinning the blame on him. ", ('vika', 'обещал'), " is 'promised', and the term for freedom becomes ", ('vika', 'свободу'), ' as the thing promised.']),
+    (10, None, ["'That is it, I am calling Nagiyev right now!' Let's inspect the phrase: ", ('barinov', 'Всё'), " on its own means 'that is it', like a door shutting. ", ('barinov', 'звоню'), " is 'I call', and the name Nagiyev takes an ending because the call is directed to him."]),
+    (11, None, ["'Call, the owner will fully support this new plan.' Let us inspect the sentence: ", ('vika', 'Звони'), " is the command 'call!'. ", ('vika', 'полностью'), " means 'fully', and ", ('vika', 'поддержит'), " means 'will support'."]),
 ]

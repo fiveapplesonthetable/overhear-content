@@ -610,6 +610,20 @@
     },
     {
       "seg": 16,
+      "trans": "woke up, are up",
+      "words": [
+        {
+          "t": "проснулась",
+          "lemma": "проснуться",
+          "pos": "verb",
+          "stress": "просну́лась",
+          "gloss": "woke up, are up",
+          "gram": "past, feminine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 18,
       "trans": "Yes, I have not been sleeping for a long time.",
       "words": [
         {
@@ -663,7 +677,49 @@
       ]
     },
     {
-      "seg": 18,
+      "seg": 20,
+      "trans": "for a long time",
+      "words": [
+        {
+          "t": "давно",
+          "lemma": "давно",
+          "pos": "adv",
+          "stress": "давно́",
+          "gloss": "for a long time",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "not",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        }
+      ]
+    },
+    {
+      "seg": 23,
+      "trans": "sleep",
+      "words": [
+        {
+          "t": "сплю",
+          "lemma": "спать",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "sleep",
+          "gram": "1st person singular present, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 25,
       "trans": "Why did you get up so early?",
       "words": [
         {
@@ -709,7 +765,21 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 27,
+      "trans": "get up! (lit. stood up)",
+      "words": [
+        {
+          "t": "встала",
+          "lemma": "встать",
+          "pos": "verb",
+          "stress": "вста́ла",
+          "gloss": "get up! (lit. stood up)",
+          "gram": "past tense feminine singular used as peremptory command, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 29,
       "trans": "I have a lot of things today.",
       "words": [
         {
@@ -763,523 +833,23 @@
       ]
     },
     {
-      "seg": 22,
-      "trans": "And what about our tasty breakfast?",
+      "seg": 31,
+      "trans": "already, now",
       "words": [
         {
-          "t": "А",
-          "lemma": "а",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "как",
-          "lemma": "как",
+          "t": "У",
+          "lemma": "уже",
           "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
-        },
-        {
-          "t": "же",
-          "lemma": "же",
-          "pos": "part",
-          "stress": null,
-          "gloss": "but, after all",
-          "gram": "emphatic particle"
-        },
-        {
-          "t": "наш",
-          "lemma": "наш",
-          "pos": "det",
-          "stress": null,
-          "gloss": "our",
-          "gram": "accusative masculine singular, inanimate"
-        },
-        {
-          "t": "вкусный",
-          "lemma": "вкусный",
-          "pos": "adj",
-          "stress": "вку́сный",
-          "gloss": "delicious",
-          "gram": "masculine singular accusative adjective"
-        },
-        {
-          "t": "завтрак?",
-          "lemma": "завтрак",
-          "pos": "noun",
-          "stress": "за́втрак",
-          "gloss": "breakfast",
-          "gram": "masculine singular nominative"
-        }
-      ]
-    },
-    {
-      "seg": 24,
-      "trans": "You can prepare it yourself.",
-      "words": [
-        {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "можешь",
-          "lemma": "мочь",
-          "pos": "verb",
-          "stress": "мо́жешь",
-          "gloss": "can",
-          "gram": "present, 2nd person singular, imperfective"
-        },
-        {
-          "t": "приготовить",
-          "lemma": "приготовить",
-          "pos": "verb",
-          "stress": "пригото́вить",
-          "gloss": "to cook, to prepare",
-          "gram": "perfective infinitive"
-        },
-        {
-          "t": "его",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": "его́",
-          "gloss": "him",
-          "gram": "3rd person masculine singular, accusative; г is said like в"
-        },
-        {
-          "t": "сам.",
-          "lemma": "сам",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "myself, yourself, himself (emphatic)",
-          "gram": "masculine singular nominative"
-        }
-      ]
-    },
-    {
-      "seg": 26,
-      "trans": "Now I am Spider-Man!",
-      "words": [
-        {
-          "t": "Сейчас",
-          "lemma": "сейчас",
-          "pos": "adv",
-          "stress": "сейча́с",
-          "gloss": "now",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "человек-паук!",
-          "lemma": "человек-паук",
-          "pos": "noun",
-          "stress": "челове́к-пау́к",
-          "gloss": "Spider-Man",
-          "gram": "compound noun, masculine singular, nominative"
-        }
-      ]
-    },
-    {
-      "seg": 28,
-      "trans": "Very funny, but I need to go.",
-      "words": [
-        {
-          "t": "Очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "смешно,",
-          "lemma": "смешно",
-          "pos": "adv",
-          "stress": "смешно́",
-          "gloss": "ridiculous, funny",
+          "stress": "уже́",
+          "gloss": "already, now",
           "gram": "adverb"
-        },
-        {
-          "t": "но",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "мне",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "to me (мне некогда = I have no time)",
-          "gram": "1st person singular, dative"
-        },
-        {
-          "t": "надо",
-          "lemma": "надо",
-          "pos": "adv",
-          "stress": "на́до",
-          "gloss": "it is necessary",
-          "gram": "predicative adverb + infinitive"
-        },
-        {
-          "t": "идти.",
-          "lemma": "идти",
-          "pos": "verb",
-          "stress": "идти́",
-          "gloss": "to go",
-          "gram": "infinitive, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 30,
-      "trans": "I am going to get you!",
-      "words": [
-        {
-          "t": "Сейчас",
-          "lemma": "сейчас",
-          "pos": "adv",
-          "stress": "сейча́с",
-          "gloss": "now",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "тебя!",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": "тебя́",
-          "gloss": "you",
-          "gram": "2nd person singular, genitive"
         }
       ]
     },
     {
       "seg": 32,
-      "trans": "Max, stop this immediately!",
+      "trans": "me",
       "words": [
-        {
-          "t": "Макс,",
-          "lemma": "макс",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Max",
-          "gram": "masculine name, nominative"
-        },
-        {
-          "t": "прекрати",
-          "lemma": "прекратить",
-          "pos": "verb",
-          "stress": "прекрати́",
-          "gloss": "stop it",
-          "gram": "imperative, 2nd person singular, perfective"
-        },
-        {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "немедленно!",
-          "lemma": "немедленно",
-          "pos": "adv",
-          "stress": "неме́дленно",
-          "gloss": "immediately",
-          "gram": "adverb"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "Alright, I am going to brew coffee for us.",
-      "words": [
-        {
-          "t": "Хорошо,",
-          "lemma": "хорошо",
-          "pos": "adv",
-          "stress": "хорошо́",
-          "gloss": "good, fine",
-          "gram": "adverb used as an answer"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "иду",
-          "lemma": "идти",
-          "pos": "verb",
-          "stress": "иду́",
-          "gloss": "(I'm) going, running",
-          "gram": "present, 1st person singular, imperfective"
-        },
-        {
-          "t": "варить",
-          "lemma": "варить",
-          "pos": "verb",
-          "stress": "вари́ть",
-          "gloss": "to boil, cook",
-          "gram": "imperfective infinitive"
-        },
-        {
-          "t": "нам",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural dative"
-        },
-        {
-          "t": "кофе.",
-          "lemma": "кофе",
-          "pos": "noun",
-          "stress": "ко́фе",
-          "gloss": "coffee",
-          "gram": "indeclinable, masculine"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "Not until you take a shower.",
-      "words": [
-        {
-          "t": "Пока",
-          "lemma": "пока",
-          "pos": "conj",
-          "stress": "пока́",
-          "gloss": "until (with не)",
-          "gram": "conjunction; пока не = until"
-        },
-        {
-          "t": "ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "part of пока не, until"
-        },
-        {
-          "t": "сходишь",
-          "lemma": "сходить",
-          "pos": "verb",
-          "stress": "схо́дишь",
-          "gloss": "go (and come back)",
-          "gram": "2nd person singular future, perfective"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "душ.",
-          "lemma": "душ",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "shower (bathroom apparatus or act of washing)",
-          "gram": "nominative / accusative singular, masculine"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "Vika, are you awake already today?",
-      "words": [
-        {
-          "t": "Вика,",
-          "lemma": "вика",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Vika",
-          "gram": "short for Виктория, used as address"
-        },
-        {
-          "t": "ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "уже",
-          "lemma": "уже",
-          "pos": "adv",
-          "stress": "уже́",
-          "gloss": "already, now",
-          "gram": "adverb"
-        },
-        {
-          "t": "проснулась",
-          "lemma": "проснуться",
-          "pos": "verb",
-          "stress": "просну́лась",
-          "gloss": "woke up, are up",
-          "gram": "past, feminine singular, perfective"
-        },
-        {
-          "t": "сегодня?",
-          "lemma": "сегодня",
-          "pos": "adv",
-          "stress": "сего́дня",
-          "gloss": "today",
-          "gram": "adverb of time"
-        }
-      ]
-    },
-    {
-      "seg": 39,
-      "trans": "Yes, I have not been sleeping for a long time.",
-      "words": [
-        {
-          "t": "Да,",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "уже",
-          "lemma": "уже",
-          "pos": "adv",
-          "stress": "уже́",
-          "gloss": "already, now",
-          "gram": "adverb"
-        },
-        {
-          "t": "давно",
-          "lemma": "давно",
-          "pos": "adv",
-          "stress": "давно́",
-          "gloss": "for a long time",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "сплю.",
-          "lemma": "спать",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "sleep",
-          "gram": "1st person singular present, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "Why did you get up so early?",
-      "words": [
-        {
-          "t": "Почему",
-          "lemma": "почему",
-          "pos": "adv",
-          "stress": "почему́",
-          "gloss": "why",
-          "gram": "question word"
-        },
-        {
-          "t": "ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "так",
-          "lemma": "так",
-          "pos": "part",
-          "stress": null,
-          "gloss": "so",
-          "gram": "adverb"
-        },
-        {
-          "t": "рано",
-          "lemma": "рано",
-          "pos": "adv",
-          "stress": "ра́но",
-          "gloss": "early, young",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "встала?",
-          "lemma": "встать",
-          "pos": "verb",
-          "stress": "вста́ла",
-          "gloss": "get up! (lit. stood up)",
-          "gram": "past tense feminine singular used as peremptory command, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 41,
-      "trans": "I have a lot of things today.",
-      "words": [
-        {
-          "t": "У",
-          "lemma": "у",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "at, near, with",
-          "gram": "preposition + genitive"
-        },
         {
           "t": "меня",
           "lemma": "я",
@@ -1287,7 +857,13 @@
           "stress": "меня́",
           "gloss": "me",
           "gram": "1st person singular, genitive"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 33,
+      "trans": "today",
+      "words": [
         {
           "t": "сегодня",
           "lemma": "сегодня",
@@ -1295,7 +871,13 @@
           "stress": "сего́дня",
           "gloss": "today",
           "gram": "adverb of time"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "very much",
+      "words": [
         {
           "t": "очень",
           "lemma": "очень",
@@ -1303,7 +885,13 @@
           "stress": "о́чень",
           "gloss": "very much",
           "gram": "adverb of degree"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 35,
+      "trans": "a lot",
+      "words": [
         {
           "t": "много",
           "lemma": "много",
@@ -1311,9 +899,43 @@
           "stress": "мно́го",
           "gloss": "a lot",
           "gram": "adverb of quantity"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "things to do",
+      "words": [
         {
-          "t": "дел.",
+          "t": "дел",
+          "lemma": "дело",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "things to do",
+          "gram": "genitive plural, neuter (after много)"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "a lot",
+      "words": [
+        {
+          "t": "много",
+          "lemma": "много",
+          "pos": "adv",
+          "stress": "мно́го",
+          "gloss": "a lot",
+          "gram": "adverb of quantity"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "things to do",
+      "words": [
+        {
+          "t": "дел",
           "lemma": "дело",
           "pos": "noun",
           "stress": null,
@@ -1377,7 +999,91 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 44,
+      "trans": "Vika",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "вика",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Vika",
+          "gram": "short for Виктория, used as address"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "how",
+      "words": [
+        {
+          "t": "как",
+          "lemma": "как",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "how",
+          "gram": "question word"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "already, now",
+      "words": [
+        {
+          "t": "же",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "уже́",
+          "gloss": "already, now",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "breakfast",
+      "words": [
+        {
+          "t": "завтрак",
+          "lemma": "завтрак",
+          "pos": "noun",
+          "stress": "за́втрак",
+          "gloss": "breakfast",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "our",
+      "words": [
+        {
+          "t": "наш",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": null,
+          "gloss": "our",
+          "gram": "accusative masculine singular, inanimate"
+        }
+      ]
+    },
+    {
+      "seg": 51,
+      "trans": "delicious",
+      "words": [
+        {
+          "t": "вкусный",
+          "lemma": "вкусный",
+          "pos": "adj",
+          "stress": "вку́сный",
+          "gloss": "delicious",
+          "gram": "masculine singular accusative adjective"
+        }
+      ]
+    },
+    {
+      "seg": 53,
       "trans": "You can prepare it yourself.",
       "words": [
         {
@@ -1423,7 +1129,35 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 55,
+      "trans": "today",
+      "words": [
+        {
+          "t": "его",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 57,
+      "trans": "myself, yourself, himself (emphatic)",
+      "words": [
+        {
+          "t": "сам",
+          "lemma": "сам",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "myself, yourself, himself (emphatic)",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 59,
       "trans": "Now I am Spider-Man!",
       "words": [
         {
@@ -1453,7 +1187,91 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 61,
+      "trans": "Spider-Man",
+      "words": [
+        {
+          "t": "человек",
+          "lemma": "человек-паук",
+          "pos": "noun",
+          "stress": "челове́к-пау́к",
+          "gloss": "Spider-Man",
+          "gram": "compound noun, masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 63,
+      "trans": "Spider-Man",
+      "words": [
+        {
+          "t": "паук",
+          "lemma": "человек-паук",
+          "pos": "noun",
+          "stress": "челове́к-пау́к",
+          "gloss": "Spider-Man",
+          "gram": "compound noun, masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 65,
+      "trans": "now",
+      "words": [
+        {
+          "t": "Сейчас",
+          "lemma": "сейчас",
+          "pos": "adv",
+          "stress": "сейча́с",
+          "gloss": "now",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 66,
+      "trans": "today",
+      "words": [
+        {
+          "t": "я",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 67,
+      "trans": "Spider-Man",
+      "words": [
+        {
+          "t": "человек",
+          "lemma": "человек-паук",
+          "pos": "noun",
+          "stress": "челове́к-пау́к",
+          "gloss": "Spider-Man",
+          "gram": "compound noun, masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 69,
+      "trans": "Spider-Man",
+      "words": [
+        {
+          "t": "паук",
+          "lemma": "человек-паук",
+          "pos": "noun",
+          "stress": "челове́к-пау́к",
+          "gloss": "Spider-Man",
+          "gram": "compound noun, masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 71,
       "trans": "Very funny, but I need to go.",
       "words": [
         {
@@ -1507,7 +1325,63 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 73,
+      "trans": "ridiculous, funny",
+      "words": [
+        {
+          "t": "смешно",
+          "lemma": "смешно",
+          "pos": "adv",
+          "stress": "смешно́",
+          "gloss": "ridiculous, funny",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 75,
+      "trans": "to me (мне некогда = I have no time)",
+      "words": [
+        {
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        }
+      ]
+    },
+    {
+      "seg": 76,
+      "trans": "it is necessary",
+      "words": [
+        {
+          "t": "надо",
+          "lemma": "надо",
+          "pos": "adv",
+          "stress": "на́до",
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 77,
+      "trans": "to go",
+      "words": [
+        {
+          "t": "идти",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "идти́",
+          "gloss": "to go",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 79,
       "trans": "I am going to get you!",
       "words": [
         {
@@ -1537,7 +1411,49 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 81,
+      "trans": "now",
+      "words": [
+        {
+          "t": "Сейчас",
+          "lemma": "сейчас",
+          "pos": "adv",
+          "stress": "сейча́с",
+          "gloss": "now",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 82,
+      "trans": "today",
+      "words": [
+        {
+          "t": "я",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 83,
+      "trans": "you",
+      "words": [
+        {
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, genitive"
+        }
+      ]
+    },
+    {
+      "seg": 85,
       "trans": "Max, stop this immediately!",
       "words": [
         {
@@ -1575,7 +1491,35 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 87,
+      "trans": "stop it",
+      "words": [
+        {
+          "t": "прекрати",
+          "lemma": "прекратить",
+          "pos": "verb",
+          "stress": "прекрати́",
+          "gloss": "stop it",
+          "gram": "imperative, 2nd person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 89,
+      "trans": "immediately",
+      "words": [
+        {
+          "t": "немедленно",
+          "lemma": "немедленно",
+          "pos": "adv",
+          "stress": "неме́дленно",
+          "gloss": "immediately",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 91,
       "trans": "Alright, I am going to brew coffee for us.",
       "words": [
         {
@@ -1629,7 +1573,49 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 93,
+      "trans": "to boil, cook",
+      "words": [
+        {
+          "t": "варить",
+          "lemma": "варить",
+          "pos": "verb",
+          "stress": "вари́ть",
+          "gloss": "to boil, cook",
+          "gram": "imperfective infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 95,
+      "trans": "(I'm) going, running",
+      "words": [
+        {
+          "t": "иду",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "иду́",
+          "gloss": "(I'm) going, running",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 96,
+      "trans": "to boil, cook",
+      "words": [
+        {
+          "t": "варить",
+          "lemma": "варить",
+          "pos": "verb",
+          "stress": "вари́ть",
+          "gloss": "to boil, cook",
+          "gram": "imperfective infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 98,
       "trans": "Not until you take a shower.",
       "words": [
         {
@@ -1683,16 +1669,604 @@
       ]
     },
     {
-      "seg": 51,
-      "trans": "Bye!",
+      "seg": 100,
+      "trans": "until (with не)",
+      "words": [
+        {
+          "t": "Пока",
+          "lemma": "пока",
+          "pos": "conj",
+          "stress": "пока́",
+          "gloss": "until (with не)",
+          "gram": "conjunction; пока не = until"
+        }
+      ]
+    },
+    {
+      "seg": 102,
+      "trans": "not",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        }
+      ]
+    },
+    {
+      "seg": 104,
+      "trans": "Vika, are you awake already today?",
+      "words": [
+        {
+          "t": "Вика,",
+          "lemma": "вика",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Vika",
+          "gram": "short for Виктория, used as address"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "уже́",
+          "gloss": "already, now",
+          "gram": "adverb"
+        },
+        {
+          "t": "проснулась",
+          "lemma": "проснуться",
+          "pos": "verb",
+          "stress": "просну́лась",
+          "gloss": "woke up, are up",
+          "gram": "past, feminine singular, perfective"
+        },
+        {
+          "t": "сегодня?",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 105,
+      "trans": "Yes, I have not been sleeping for a long time.",
+      "words": [
+        {
+          "t": "Да,",
+          "lemma": "да",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "уже́",
+          "gloss": "already, now",
+          "gram": "adverb"
+        },
+        {
+          "t": "давно",
+          "lemma": "давно",
+          "pos": "adv",
+          "stress": "давно́",
+          "gloss": "for a long time",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "сплю.",
+          "lemma": "спать",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "sleep",
+          "gram": "1st person singular present, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 106,
+      "trans": "Why did you get up so early?",
+      "words": [
+        {
+          "t": "Почему",
+          "lemma": "почему",
+          "pos": "adv",
+          "stress": "почему́",
+          "gloss": "why",
+          "gram": "question word"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "так",
+          "lemma": "так",
+          "pos": "part",
+          "stress": null,
+          "gloss": "so",
+          "gram": "adverb"
+        },
+        {
+          "t": "рано",
+          "lemma": "рано",
+          "pos": "adv",
+          "stress": "ра́но",
+          "gloss": "early, young",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "встала?",
+          "lemma": "встать",
+          "pos": "verb",
+          "stress": "вста́ла",
+          "gloss": "get up! (lit. stood up)",
+          "gram": "past tense feminine singular used as peremptory command, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 107,
+      "trans": "I have a lot of things today.",
+      "words": [
+        {
+          "t": "У",
+          "lemma": "у",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "меня",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́",
+          "gloss": "me",
+          "gram": "1st person singular, genitive"
+        },
+        {
+          "t": "сегодня",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "много",
+          "lemma": "много",
+          "pos": "adv",
+          "stress": "мно́го",
+          "gloss": "a lot",
+          "gram": "adverb of quantity"
+        },
+        {
+          "t": "дел.",
+          "lemma": "дело",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "things to do",
+          "gram": "genitive plural, neuter (after много)"
+        }
+      ]
+    },
+    {
+      "seg": 108,
+      "trans": "And what about our tasty breakfast?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "как",
+          "lemma": "как",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "how",
+          "gram": "question word"
+        },
+        {
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "наш",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": null,
+          "gloss": "our",
+          "gram": "accusative masculine singular, inanimate"
+        },
+        {
+          "t": "вкусный",
+          "lemma": "вкусный",
+          "pos": "adj",
+          "stress": "вку́сный",
+          "gloss": "delicious",
+          "gram": "masculine singular accusative adjective"
+        },
+        {
+          "t": "завтрак?",
+          "lemma": "завтрак",
+          "pos": "noun",
+          "stress": "за́втрак",
+          "gloss": "breakfast",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 109,
+      "trans": "You can prepare it yourself.",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "можешь",
+          "lemma": "мочь",
+          "pos": "verb",
+          "stress": "мо́жешь",
+          "gloss": "can",
+          "gram": "present, 2nd person singular, imperfective"
+        },
+        {
+          "t": "приготовить",
+          "lemma": "приготовить",
+          "pos": "verb",
+          "stress": "пригото́вить",
+          "gloss": "to cook, to prepare",
+          "gram": "perfective infinitive"
+        },
+        {
+          "t": "его",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": "его́",
+          "gloss": "him",
+          "gram": "3rd person masculine singular, accusative; г is said like в"
+        },
+        {
+          "t": "сам.",
+          "lemma": "сам",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "myself, yourself, himself (emphatic)",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 110,
+      "trans": "Now I am Spider-Man!",
+      "words": [
+        {
+          "t": "Сейчас",
+          "lemma": "сейчас",
+          "pos": "adv",
+          "stress": "сейча́с",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "человек-паук!",
+          "lemma": "человек-паук",
+          "pos": "noun",
+          "stress": "челове́к-пау́к",
+          "gloss": "Spider-Man",
+          "gram": "compound noun, masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 111,
+      "trans": "Very funny, but I need to go.",
+      "words": [
+        {
+          "t": "Очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "смешно,",
+          "lemma": "смешно",
+          "pos": "adv",
+          "stress": "смешно́",
+          "gloss": "ridiculous, funny",
+          "gram": "adverb"
+        },
+        {
+          "t": "но",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "надо",
+          "lemma": "надо",
+          "pos": "adv",
+          "stress": "на́до",
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
+        },
+        {
+          "t": "идти.",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "идти́",
+          "gloss": "to go",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 112,
+      "trans": "I am going to get you!",
+      "words": [
+        {
+          "t": "Сейчас",
+          "lemma": "сейчас",
+          "pos": "adv",
+          "stress": "сейча́с",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "тебя!",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, genitive"
+        }
+      ]
+    },
+    {
+      "seg": 113,
+      "trans": "Max, stop this immediately!",
+      "words": [
+        {
+          "t": "Макс,",
+          "lemma": "макс",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Max",
+          "gram": "masculine name, nominative"
+        },
+        {
+          "t": "прекрати",
+          "lemma": "прекратить",
+          "pos": "verb",
+          "stress": "прекрати́",
+          "gloss": "stop it",
+          "gram": "imperative, 2nd person singular, perfective"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "немедленно!",
+          "lemma": "немедленно",
+          "pos": "adv",
+          "stress": "неме́дленно",
+          "gloss": "immediately",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 114,
+      "trans": "Alright, I am going to brew coffee for us.",
+      "words": [
+        {
+          "t": "Хорошо,",
+          "lemma": "хорошо",
+          "pos": "adv",
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "иду",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "иду́",
+          "gloss": "(I'm) going, running",
+          "gram": "present, 1st person singular, imperfective"
+        },
+        {
+          "t": "варить",
+          "lemma": "варить",
+          "pos": "verb",
+          "stress": "вари́ть",
+          "gloss": "to boil, cook",
+          "gram": "imperfective infinitive"
+        },
+        {
+          "t": "нам",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "us",
+          "gram": "1st person plural dative"
+        },
+        {
+          "t": "кофе.",
+          "lemma": "кофе",
+          "pos": "noun",
+          "stress": "ко́фе",
+          "gloss": "coffee",
+          "gram": "indeclinable, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 115,
+      "trans": "Not until you take a shower.",
+      "words": [
+        {
+          "t": "Пока",
+          "lemma": "пока",
+          "pos": "conj",
+          "stress": "пока́",
+          "gloss": "until (with не)",
+          "gram": "conjunction; пока не = until"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "part of пока не, until"
+        },
+        {
+          "t": "сходишь",
+          "lemma": "сходить",
+          "pos": "verb",
+          "stress": "схо́дишь",
+          "gloss": "go (and come back)",
+          "gram": "2nd person singular future, perfective"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "душ.",
+          "lemma": "душ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "shower (bathroom apparatus or act of washing)",
+          "gram": "nominative / accusative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 117,
+      "trans": "until (with не)",
       "words": [
         {
           "t": "Пока!",
           "lemma": "пока",
-          "pos": "adv",
+          "pos": "conj",
           "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "gloss": "until (with не)",
+          "gram": "conjunction; пока не = until"
         }
       ]
     }

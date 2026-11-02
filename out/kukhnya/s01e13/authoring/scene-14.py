@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Kostya has come to Nastya's flat expecting a romantic evening. Nastya, though, has something honest to say. Hear how she says it in Russian first."
 OPENER = 'Back through it slowly.'
 TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "Kostya takes it well, and the two of them settle for a calm night. Keep 'blagodarna', grateful, for the next time someone helps you, or 'blagodaren' if you're a man. Until next time."
+OUTRO = "Kostya takes it well, and the two of them settle for a calm night. Notice how Nastya says she is grateful. Keep that in mind for the next time someone helps you. Until next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, подожди секунду, не спеши.', 'Kostya, wait a second, do not rush.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Да, Настя, всё совершенно нормально.', 'Yes, Nastya, everything is completely fine.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, wait a second, do not rush.' These are two orders to a friend, 'podozhdi' and 'ne speshi'. 'Sekundu' takes the ending 'u' to mean 'for a second'."),
-    (1, None, "'Nastya, what happened, why are you sad?' 'Sluchilos' has an 'os' ending because 'chto' counts as neuter. 'Grustnaya' has 'aya' because Nastya is a woman."),
-    (2, None, "'Nothing will work out between us today.' Russian says 'at us nothing will turn out', not 'between us'. The 'ne' after 'nichego' is required."),
-    (3, None, "'Let us drink a little more juice!' 'Vypem' means 'drink up', with 'vy' for 'all the way'. 'Soka' has an 'a' because it's 'some juice'."),
-    (4, None, "'No, Kostya, that is not the point.' Literally, 'the matter is not in this'. It's the usual Russian way to say 'that's not the point'."),
-    (5, None, "'I do not want to act without love.' Two 'ne' sit in the sentence, one for 'I don't want' and one for 'not out of love', and they don't cancel each other. Russian marks the love with 'po lyubvi', 'out of love'."),
-    (6, None, "'I am simply very grateful for your help.' 'Blagodarna' is 'grateful', in a woman's form. It's built from 'blago', good, and 'darit', to give. 'Za' is 'for'."),
-    (7, None, "'Do you think that you owe me?' 'Obyazana' is a woman's 'obliged', and the 'a' gives her away. After 'dumaesh' comes 'chto', and the comma in front of it is mandatory in Russian."),
-    (8, None, "'Yes, I feel like a dishonest person.' 'Chuvstvuyu sebya' is literally 'I feel myself'. 'Nechestny' is 'ne' plus 'chestny', and 'ne' is how Russians make opposites."),
-    (9, None, "'Let us just sleep quietly tonight.' 'Pospim' is a short sleep, and the 'po' makes it brief. 'Spokoyno', calmly, sits just in front of it."),
-    (10, None, "'All right, let us just sleep tonight.' Kostya repeats her words, minus 'spokoyno'. 'Davay' with a 'we' verb is the same 'let's' form as before."),
-    (11, None, "'Kostya, do you really understand my feelings?' 'Chuvstva' means 'feelings' and belongs to the family of 'chuvstvuyu', 'I feel'. 'Pravda' means 'truth', but here it means 'really'."),
-    (12, None, "'Yes, Nastya, everything is completely fine.' 'Normalno' is the English 'normal' with an 'o', because Russian adverbs end in 'o'. 'Sovershenno', completely, is the word Max used in the car for 'absolutely right'."),
+    (0, None, ["'Kostya, wait a second, do not rush.' These are two orders to a friend, ", ('nastya', 'подожди'), ' and ', ('nastya', 'не'), ('nastya', 'спеши'), '. Notice ', ('nastya', 'секунду'), " takes a different ending to mean 'for a second'."]),
+    (1, None, ["'Nastya, what happened, why are you sad?' The verb ", ('kostya', 'случилось'), " has a neuter ending because 'what' counts as neuter. Notice ", ('kostya', 'грустная'), " has a woman's ending because Nastya is a woman."]),
+    (2, None, ["'Nothing will work out between us today.' Russian says 'at us nothing will turn out', ", ('nastya', 'у'), ('nastya', 'нас'), ('nastya', 'ничего'), ('nastya', 'не'), ('nastya', 'получится'), ", not 'between us'. The 'not' after 'nothing' is required."]),
+    (3, None, ["'Let us drink a little more juice!' The verb ", ('kostya', 'выпьем'), " means 'drink up'. The word ", ('kostya', 'сока'), " has an ending because it is 'some juice'."]),
+    (4, None, ["'No, Kostya, that is not the point.' Let us consider the sentence: ", ('nastya', 'дело'), ('nastya', 'совсем'), ('nastya', 'не'), ('nastya', 'в'), ('nastya', 'этом'), " is the usual Russian chunk for 'that is not the point'."]),
+    (5, None, ["'I do not want to act without love.' Two 'not' words sit in the sentence, one for ", ('nastya', 'не'), ('nastya', 'хочу'), ' and one for ', ('nastya', 'не'), ('nastya', 'по'), ('nastya', 'любви'), ', and they do not cancel each other. Russian marks the love with ', ('nastya', 'по'), ('nastya', 'любви'), ", 'out of love'."]),
+    (6, None, ["'I am simply very grateful for your help.' We can focus on this part: ", ('nastya', 'благодарна'), " is 'grateful', in a woman's form. It is built from good, and to give. Also, ", ('nastya', 'за'), " is 'for'."]),
+    (7, None, ["'Do you think that you owe me?' The term ", ('kostya', 'обязана'), " is a woman's 'obliged'. After ", ('kostya', 'думаешь'), ' comes ', ('kostya', 'что'), ', and the comma in front of it is mandatory in Russian.']),
+    (8, None, ["'Yes, I feel like a dishonest person.' Let's break down this line: ", ('nastya', 'чувствую'), ('nastya', 'себя'), " means 'I feel myself'. The term ", ('nastya', 'нечестным'), " is made by adding 'not' to the front, which is how Russians make opposites."]),
+    (9, None, ["'Let us just sleep quietly tonight.' The verb ", ('nastya', 'поспим'), ' is a short sleep. Notice ', ('nastya', 'спокойно'), ', calmly, sits just in front of it.']),
+    (10, None, ["'All right, let us just sleep tonight.' Kostya repeats her words, minus 'calmly'. The term ", ('kostya', 'давай'), " with a 'we' verb is the same 'let us' form as before."]),
+    (11, None, ["'Kostya, do you really understand my feelings?' Now we can break down the dialogue: ", ('nastya', 'чувства'), " means 'feelings' and belongs to the family of 'I feel'. Notice ", ('nastya', 'правда'), " means 'truth', but here it means 'really'."]),
+    (12, None, ["'Yes, Nastya, everything is completely fine.' Let us consider the sentence: ", ('kostya', 'нормально'), " is the English 'normal' with a Russian adverb ending. Notice ", ('kostya', 'совершенно'), ", completely, is the word Max used in the car for 'absolutely right'."]),
 ]

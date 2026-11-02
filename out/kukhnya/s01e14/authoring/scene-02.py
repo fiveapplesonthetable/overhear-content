@@ -10,7 +10,7 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'At the restaurant, Max finds Sasha admiring a new cake she has decorated. He compliments her, and he has an idea for what to do next. Listen to it in Russian before we take it apart.'
+INTRO = 'At the restaurant, Max finds Sasha admiring a new cake she has decorated. He compliments her, and he has an idea for what to do next. Listen to it before we take it apart.'
 OPENER = 'Their chat again, slowly.'
 TRANSITION = 'Now the whole chat, straight through.'
 OUTRO = "Sasha leaves her apron behind, and the two of them head outside. Keep an eye on that cake later in the episode. Bye for now."
@@ -30,16 +30,16 @@ STORY = [
     ('sasha', 'Подожди, я только сниму свой фартук.', 'Wait, I will just take off my apron.', [], ''),
 ]
 WALK = [
-    (0, None, "'Sasha, did you see the new beautiful cake?' 'Videla' ends in 'a' because the 'you' is Sasha. 'Tort' is masculine, so 'novy' and 'krasivy' both end in 'y' to match it."),
-    (1, None, "'Of course, I decorated it myself today.' 'Sama', myself, has the 'a' of a woman; Max would say 'sam'. And the cake is 'he' again, so 'it' is 'ego', him."),
-    (2, None, "'It looks simply magnificent.' Russian says 'on vyglyadit', 'he looks', about the cake. After 'vyglyadit' comes an 'o' word, 'velikolepno', where English uses 'magnificent'."),
-    (3, None, "'Thank you, I tried very hard.' 'Staralas' is 'staratsya', to try hard, and after a vowel the 'sya' shrinks to a short 's'. 'Ochen silno' is literally 'very strongly'."),
-    (4, None, "'Has the chef already seen your new work?' 'Rabota', work, becomes 'rabotu' as the thing seen, and 'tvoyu novuyu' take the matching 'u' ending."),
-    (5, None, "'Yes, he was very satisfied with me.' After 'dovolen', pleased, the person you're pleased with takes the 'with' form, so 'ya' becomes 'mnoy'. 'Dovolen' has no ending because the chef is a man."),
-    (6, None, "'And you pulled it off.' Literally, 'and this at you turned out'. Russians say 'u tebya poluchilos' for 'you managed it': the success happens 'at you' rather than being done by you."),
-    (7, None, "'And now we can rest a little.' 'Mozhno' means 'it's allowed' or 'one can', and it works without any 'we' or 'I'. 'Otdokhnut', to have a rest, follows it in the basic form."),
-    (8, None, "'Who wants to have some fun?' 'Poveselitsya' is built on 'vesyoly', cheerful: 'po' gives 'for a bit' and 'sya' makes it 'enjoy oneself'."),
-    (9, None, "'I do.' Sasha just says 'ya khochu', 'I want'. Russians often answer a question by repeating its verb instead of saying 'yes'."),
-    (10, None, "'Then let us go outside with me.' Outside in Russian is 'na ulitsu', literally 'onto the street'. 'Poydyom', let's go, is one word, and 'so mnoy' is 'with me', where 'ya' turns into 'mnoy' just as it did a moment ago."),
-    (11, None, "'Wait, I will just take off my apron.' 'Snimu' is a future, 'I'll take off', with no 'will' word needed. 'Svoy fartuk', her own apron, uses the word for 'one's own' instead of 'my'."),
+    (0, None, ["'Sasha, did you see the new beautiful cake?' Now let's inspect the speech: ", ('max', 'видела'), ' has a feminine ending since the question is to a woman. The cake, ', ('max', 'торт'), ', is masculine, so ', ('max', 'новый'), ('max', 'красивый'), ' match it.']),
+    (1, None, ["'Of course, I decorated it myself today.' We will focus on the phrase: ", ('sasha', 'сама'), " has a feminine ending. And the cake is masculine again, so 'it' is ", ('sasha', 'его'), ", meaning 'him'."]),
+    (2, None, ["'It looks simply magnificent.' The language says ", ('max', 'Он'), ('max', 'выглядит'), ", meaning 'he looks', about the cake. This is followed by ", ('max', 'великолепно'), " where English uses 'magnificent'."]),
+    (3, None, ["'Thank you, I tried very hard.' We will focus on the sentence: ", ('sasha', 'старалась'), " means 'tried hard', with a shortened ending after a vowel. ", ('sasha', 'очень'), ('sasha', 'сильно'), " reads as 'very strongly'."]),
+    (4, None, ["'Has the chef already seen your new work?' The work, ", ('max', 'работу'), ', changes ending as the thing seen, and ', ('max', 'твою'), ('max', 'новую'), ' take matching endings.']),
+    (5, None, ["'Yes, he was very satisfied with me.' After ", ('sasha', 'доволен'), ", meaning 'pleased', the person takes a 'with' form, so 'I' becomes ", ('sasha', 'мной'), '. The word for pleased has no ending because the chef is a man.']),
+    (6, None, ["'And you pulled it off.' This reads as 'and this at you turned out'. People say ", ('max', 'у'), ('max', 'тебя'), ('max', 'получилось'), " for 'you managed it': the success happens 'at you' rather than being done by you."]),
+    (7, None, ["'And now we can rest a little.' We will look at the words: ", ('sasha', 'можно'), " means 'it is allowed' or 'one can', and it works without any 'we' or 'I'. ", ('sasha', 'отдохнуть'), ", meaning 'to have a rest', follows it in the basic form."]),
+    (8, None, ["'Who wants to have some fun?' Let's focus on this part: ", ('max', 'повеселиться'), " is built on a word for cheerful, with pieces added to mean 'enjoy oneself for a bit'."]),
+    (9, None, ["'I do.' The answer is just ", ('sasha', 'Я'), ('sasha', 'хочу'), ", meaning 'I want'. It is common to answer a question by repeating its verb instead of saying 'yes'."]),
+    (10, None, ["'Then let us go outside with me.' Outside here is ", ('max', 'на'), ('max', 'улицу'), ", reading as 'onto the street'. ", ('max', 'пойдём'), " means 'let us go', and ", ('max', 'со'), ('max', 'мной'), " is 'with me'."]),
+    (11, None, ["'Wait, I will just take off my apron.' Let us consider the dialogue: ", ('sasha', 'сниму'), " means 'I will take off', with no 'will' word needed. ", ('sasha', 'свой'), ('sasha', 'фартук'), " uses a word meaning 'one's own' instead of 'my'."]),
 ]

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'Near the entrance, an upset young woman stops Max. He has been a bad boyfriend, and she tells him so. Hear it in Russian first.'
 OPENER = 'Slowly, and watch him try to calm her down.'
 TRANSITION = 'Now the scene in one go.'
-OUTRO = "She storms off, and Max is left standing there. She gave him two goodbyes to remember: 'zabud', forget, and 'ukhodi', go away. Catch you later."
+OUTRO = 'She storms off, and Max is left standing there. She gave him two goodbyes to remember: "forget" and "go away". Catch you later.'
 CLOSING = ('girl', 'Пока!')
 STORY = [
     ('girl', 'Макс, ты разбил моё бедное сердце!', 'Max, you broke my poor heart!', [(172, 'разбил мое сердце, подлый бабник.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('girl', 'Уходи немедленно, я не хочу слушать!', 'Leave immediately, I do not want to listen!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, you broke my poor heart!' 'Razbil' is 'bil', beat, with 'raz', apart, in front: smashed to bits. 'Serdtse', heart, is neuter, so 'my poor' is 'moyo bednoe'."),
-    (1, None, "'Wait, let us talk calmly about this.' 'Davay pogovorim' is 'let's talk', 'davay' plus the 'we' form. 'O', about, becomes 'ob' before a vowel, so 'ob etom', about this."),
-    (2, None, "'You are simply a terrible and vile deceiver!' 'Obman' is a lie or a trick, and the ending 'shchik' makes the person who does it, 'obmanshchik'. 'Podly' is 'mean' or 'vile'."),
-    (3, None, "'I did not want to offend you back then.' 'Obidet' is to hurt someone's feelings, not to hurt them physically. 'Ne khotel', didn't want, is the masculine past."),
-    (4, None, "'You promised to call me every single day.' In Russian you call 'to' someone, so 'zvonit mne', to me. 'Obeshchal', promised, ends in 'l' because it's Max who promised."),
-    (5, None, "'I had a huge amount of work.' Literally, 'at me was very much of work'. 'Rabota' turns into 'raboty' after 'mnogo', and 'bylo', was, is neuter because amounts count as 'it'."),
-    (6, None, "'Forget my personal phone number forever!' 'Navsegda', forever, is 'na', for, plus 'vsegda', always. A phone number is 'nomer telefona', literally 'the number of the phone'."),
-    (7, None, "'Do not be angry, please, listen to me now.' 'Ne zlis' is 'don't get angry'; the 'sya' shrinks to 's' after a vowel. 'Vyslushay' has 'vy', out, for 'hear me out'."),
-    (8, None, "'Forget that I even have a phone at all!' 'U menya est telefon' is 'at me there is a phone'. Normally Russian drops 'est', but it stays here because whether the phone exists is the point."),
-    (9, None, "'I am sincerely sorry, forgive me, please.' 'Mne zhal' is literally 'to me it's a pity', the standard 'I'm sorry'. 'Prosti' is the 'ty' form of 'forgive!'; strangers would hear 'prostite'."),
-    (10, None, "'I will never believe you anymore.' You believe 'to' someone in Russian, so 'ty' becomes 'tebe'. 'Bolshe nikogda ne' is literally 'more never not', and every part is needed."),
-    (11, None, "'Give me one small last chance.' 'Day' is the order 'give!', from the same root as 'davay'. 'Posledny' is 'last', and 'shans' is borrowed from the French 'chance'."),
-    (12, None, "'Leave immediately, I do not want to listen!' 'Ukhodi' is 'go away', from 'u', away, and the verb for going on foot. After 'ne khochu', the verb 'slushat' stays in its basic form."),
+    (0, None, ["'Max, you broke my poor heart!' Notice how ", ('girl', 'разбил'), " means smashed to bits. We hear for 'my poor' is ", ('girl', 'моё'), ('girl', 'бедное'), '.']),
+    (1, None, ["'Wait, let us talk calmly about this.' To say 'let's talk', use ", ('max', 'давай'), ' and ', ('max', 'поговорим'), ". And 'about this' is ", ('max', 'об'), ('max', 'этом'), '.']),
+    (2, None, ["'You are simply a terrible and vile deceiver!' A liar or deceiver is ", ('girl', 'обманщик'), ', and mean or vile is ', ('girl', 'подлый'), '.']),
+    (3, None, ["'I did not want to offend you back then.' To hurt someone's feelings is ", ('max', 'обидеть'), ". He says he didn't want to, using ", ('max', 'не'), ('max', 'хотел'), '.']),
+    (4, None, ["'You promised to call me every single day.' In Russian you call to someone, so 'to me' is ", ('girl', 'мне'), '. To say promised, use ', ('girl', 'обещал'), '.']),
+    (5, None, ["'I had a huge amount of work.' He says 'I had' as ", ('max', 'У'), ('max', 'меня'), ('max', 'было'), '. The phrase for a lot of work is ', ('max', 'много'), ('max', 'работы'), '.']),
+    (6, None, ["'Forget my personal phone number forever!' To say forever, use ", ('girl', 'навсегда'), '. A phone number is ', ('girl', 'номер'), ('girl', 'телефона'), '.']),
+    (7, None, ["'Do not be angry, please, listen to me now.' To say 'don't get angry', use ", ('max', 'Не'), ('max', 'злись'), ". And to say 'hear me out', use ", ('max', 'выслушай'), '.']),
+    (8, None, ["'Forget that I even have a phone at all!' To say 'I have a phone', use ", ('girl', 'у'), ('girl', 'меня'), ('girl', 'вообще'), ('girl', 'есть'), ('girl', 'телефон'), '. Normally Russian drops the verb for is, but ', ('girl', 'есть'), ' stays here for emphasis.']),
+    (9, None, ["'I am sincerely sorry, forgive me, please.' To say 'I am sorry', use ", ('max', 'Мне'), ('max', 'искренне'), ('max', 'жаль'), '. And to ask for forgiveness, say ', ('max', 'прости'), ('max', 'меня'), '.']),
+    (10, None, ["'I will never believe you anymore.' You believe 'to' someone in Russian, so 'you' becomes ", ('girl', 'тебе'), ". Here we have for 'never anymore' is ", ('girl', 'больше'), ('girl', 'никогда'), ('girl', 'не'), '.']),
+    (11, None, ["'Give me one small last chance.' To say give, use ", ('max', 'Дай'), '. Last is ', ('max', 'последний'), ', and a chance is ', ('max', 'шанс'), '.']),
+    (12, None, ["'Leave immediately, I do not want to listen!' To say go away, use ", ('girl', 'Уходи'), ". And 'I do not want' is ", ('girl', 'не'), ('girl', 'хочу'), '.']),
 ]

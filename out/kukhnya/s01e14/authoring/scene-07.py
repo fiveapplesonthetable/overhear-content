@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "In the dining room, Max is showing off to the waitresses with a story about a famous French actor who loved his cooking. Of course, none of it is true. Let's hear his story in Russian first."
 OPENER = 'The tall tale again, one boast at a time.'
 TRANSITION = 'Now the whole story, uninterrupted.'
-OUTRO = "Max is called back to the kitchen before he can get to Paris. 'Odnazhdy', once, is how plenty of Russian stories start, true or not. Until the next one."
+OUTRO = "Max is called back to the kitchen before he can get to Paris. 'Once', is how plenty of Russian stories start, true or not. Until the next one."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Жерар Депардье доедает моё блюдо и говорит.', 'Gerard Depardieu finishes my dish and says.', [(136, 'доедает Депардье ему родоту и говорит.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Ой, прошу прощения, мне пора бежать.', 'Oh, I beg your pardon, it is time for me to run.', [(147, 'Прошу прощения')], ''),
 ]
 WALK = [
-    (0, None, "'Gerard Depardieu finishes my dish and says.' Put 'do', up to the end, in front of the verb for eating and you get 'doedaet', eats up. 'Blyudo', dish, is neuter, so 'my' becomes 'moyo'."),
-    (1, None, "'Did he really like everything so much?' 'Neuzheli' is a surprised 'really?'. 'Emu ponravilos' is literally 'to him it was pleasing': the thing liked is the subject and the person is 'to him'."),
-    (2, None, "'He said that it is simply incredibly tasty!' 'Veroyatno' means 'probably', so 'neveroyatno' is 'improbably', the usual 'incredibly'. 'Eto vkusno', 'it tasty', needs no 'is'."),
-    (3, None, "'What, did he say it to you exactly like that?' 'Pryamo tak' is literally 'straight so'. The small 'i' in 'tak tebe i skazal' adds doubt, like 'he actually said that?'"),
-    (4, None, "'Yes, exactly like that, only in the French language.' Russians speak 'na' a language, so 'in French' is 'na frantsuzskom yazyke', literally 'on the French tongue'. 'Imenno tak' is 'precisely so'."),
-    (5, None, "'What a talented cook you are, Max!' 'Kakoy zhe ty...!' is the warm 'what a ... you are!'; the 'zhe' adds the feeling. 'Talantlivy' is built on 'talant', talent."),
-    (6, None, "'Even a mother does not cook such tasty food!' 'Eda', food, is feminine and it's the thing cooked, so all three words end in 'u': 'takuyu vkusnuyu edu'. 'Dazhe' is 'even'."),
-    (7, None, "'Are you now good friends with him?' 'Vy s nim' is literally 'you with him', meaning the two of you. One friend is 'drug', but friends are 'druzya', with a new middle."),
-    (8, None, "'Since then Gerard and I are friends.' Russians say 'my s Zherarom', 'we with Gerard', for 'Gerard and I'. 'Druzhim' is a verb, 'we friend', from the same root as 'drug'."),
-    (9, None, "'Tell us something else interesting, please!' 'Rasskazhi' is the order 'tell!', from the same family as 'rasskaz', a story. In 'chto-nibud interesnoe', 'interesting' ends in 'oe' because 'something' counts as neuter."),
-    (10, None, "'With great pleasure, lovely ladies.' 'S bolshim udovolstviem' is the stock 'gladly'; 'with' puts 'udovolstvie', pleasure, into the 'em' form. 'Milye damy' is an old-fashioned flourish, 'dear ladies'."),
-    (11, None, "'Once, when I worked in Paris...' 'Odnazhdy' is 'one time', built like 'dvazhdy', twice. After 'v', in, the city takes an 'e': 'Parizh' becomes 'v Parizhe'."),
-    (12, None, "'What a wonderful and incredibly beautiful city!' 'Chudesny' comes from 'chudo', a miracle. 'Gorod', city, is masculine, so both describing words end in 'y'."),
-    (13, None, "'Oh, I beg your pardon, it is time for me to run.' 'Proshu proshcheniya' is literally 'I ask forgiveness'. 'Mne pora' is 'to me it's time', the standard way to say you have to go."),
+    (0, None, ["'Gerard Depardieu finishes my dish and says.' Put ", ('max', 'до'), ', up to the end, in front of the verb for eating and you get ', ('max', 'доедает'), ", eats up. Dish is neuter, so 'my' becomes ", ('max', 'моё'), '.']),
+    (1, None, ["'Did he really like everything so much?' Now we can analyze the words: ", ('sasha', 'Неужели'), " is a surprised 'really?'. ", ('sasha', 'ему'), ' ... ', ('sasha', 'понравилось'), " says 'to him it was pleasing': the thing liked is the subject and the person is 'to him'."]),
+    (2, None, ["'He said that it is simply incredibly tasty!' Probably becomes ", ('max', 'невероятно'), ", meaning 'improbably', the usual 'incredibly'. ", ('max', 'это'), ' ... ', ('max', 'вкусно'), " means 'it tasty', needing no 'is'."]),
+    (3, None, ["'What, did he say it to you exactly like that?' Let's consider the phrase: ", ('sasha', 'прямо'), ('sasha', 'так'), " means 'straight so'. The small ", ('sasha', 'и'), ' in ', ('sasha', 'так'), ('sasha', 'тебе'), ('sasha', 'и'), ('sasha', 'сказал'), " adds doubt, like 'he actually said that?'"]),
+    (4, None, ["'Yes, exactly like that, only in the French language.' Russians speak ", ('max', 'на'), " a language, so 'in French' is ", ('max', 'на'), ('max', 'французском'), ('max', 'языке'), ", meaning 'on the French tongue'. ", ('max', 'именно'), ('max', 'так'), " is 'precisely so'."]),
+    (5, None, ["'What a talented cook you are, Max!' Let's break down this part: ", ('sasha', 'Какой'), ('sasha', 'же'), ('sasha', 'ты'), " is the warm 'what a ... you are!'; the ", ('sasha', 'же'), ' adds the feeling. ', ('sasha', 'талантливый'), ' is built on talent.']),
+    (6, None, ["'Even a mother does not cook such tasty food!' Food is feminine and it is the thing cooked, so all three words end in 'u': ", ('max', 'Такую'), ('max', 'вкусную'), ('max', 'еду'), '. ', ('max', 'даже'), " is 'even'."]),
+    (7, None, ["'Are you now good friends with him?' We can examine the words: ", ('sasha', 'Вы'), ('sasha', 'с'), ('sasha', 'ним'), " reads 'you with him', meaning the two of you. One friend becomes ", ('sasha', 'друзья'), ', with a new middle for plural.']),
+    (8, None, ["'Since then Gerard and I are friends.' Russians say ", ('max', 'мы'), ('max', 'С'), ('max', 'Жераром'), ", 'we with Gerard', for 'Gerard and I'. ", ('max', 'дружим'), " is a verb, 'we friend', from the same root as friend."]),
+    (9, None, ["'Tell us something else interesting, please!' We can inspect the speech: ", ('sasha', 'Расскажи'), " is the order 'tell!', from the same family as a story. In ", ('sasha', 'что'), '-', ('sasha', 'нибудь'), ('sasha', 'интересное'), ", 'interesting' takes 'oe' since 'something' counts as neuter."]),
+    (10, None, ["'With great pleasure, lovely ladies.' Let's examine the speech: ", ('max', 'С'), ('max', 'большим'), ('max', 'удовольствием'), " is the stock 'gladly'; 'with' puts pleasure into the 'em' form. ", ('max', 'милые'), ('max', 'дамы'), " is an old-fashioned flourish, 'dear ladies'."]),
+    (11, None, ["'Once, when I worked in Paris...' Let's consider this line: ", ('max', 'Однажды'), " is 'one time', built like twice. After ", ('max', 'в'), ", in, the city takes an 'e': Paris becomes ", ('max', 'в'), ('max', 'Париже'), '.']),
+    (12, None, ["'What a wonderful and incredibly beautiful city!' Let us focus on this line: ", ('sasha', 'чудесный'), " comes from a miracle. City is masculine, so both describing words end in 'y'."]),
+    (13, None, ["'Oh, I beg your pardon, it is time for me to run.' Now we can look at the words: ", ('max', 'прошу'), ('max', 'прощения'), " word-for-word means 'I ask forgiveness'. ", ('max', 'мне'), ('max', 'пора'), " is 'to me it is time', the standard way to say you have to go."]),
 ]

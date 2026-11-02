@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = 'The next morning, Barinov finds a strange car parked in his usual space behind the restaurant. The driver turns out to be Elena, the chef from the Italian place next door. Their first meeting comes in Russian.'
+INTRO = "The next morning, Barinov finds a strange car parked in his usual space behind the restaurant. The driver turns out to be Elena, the chef from the Italian place next door. Their first meeting comes in the local language."
 OPENER = 'One jab at a time, then.'
 TRANSITION = 'Here is the quarrel in one go.'
-OUTRO = "Elena wins the first round, politely and without budging. Notice how both of them stay on the polite 'vy' while they insult each other. Catch you next time."
+OUTRO = "Elena wins the first round, politely and without budging. Notice how both of them stay on the polite formal language while they insult each other. Catch you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('barinov', 'Кто поставил сюда эту старую машину?', 'Who parked this old car here?', [(26, 'Какой кретин поставил сюда машину?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('elena', 'Приятного рабочего дня, господин шеф!', 'Have a nice working day, Mr. Chef!', [], ''),
 ]
 WALK = [
-    (0, None, "'Who parked this old car here?' Russians don't 'park' a car, they 'put' it, so 'postavil' is 'put' or 'stood'. 'Syuda' means 'to here', as it would in 'come here'."),
-    (1, None, "'Hello. I parked my car.' The long, polite hello is for strangers. Elena is a woman, so 'parked' ends in 'a', and 'svoyu' is 'my own', the word Russian uses when the owner is the subject of the sentence."),
-    (2, None, "'Woman, move the automobile from my spot.' Calling a woman just 'zhenshchina' is rude, like shouting 'Hey, woman!'. 'Avtomobil' is the stiff word for 'car' where 'mashina' is the everyday one. Barinov is trying to sound official."),
-    (3, None, "'Where does it say this is your spot?' 'Napisano' is 'is written', and Russian doesn't say who wrote it. 'Vashe' is the polite 'your', fitting for a stranger."),
-    (4, None, "'A warning sign is hanging here.' A sign 'hangs' in Russian, 'visit', where English just says 'there is'. 'S preduprezhdeniem' means 'with a warning', and the 'em' is the ending for 'with'."),
-    (5, None, "'It only says about icicles there.' 'Sosulki' are icicles. Signs warning of falling icicles are a regular sight on Russian winter buildings, and Elena points out that it says nothing about parking. 'Napisano' is back, and 'pro' means 'about'."),
-    (6, None, "'I am the head chef of this famous restaurant.' There's no 'am', so it's just 'I head-chef'. 'Shef-povar' is 'chief cook', and 'izvestny' is 'well known'. He is boasting."),
-    (7, None, "'And I am the head chef of the neighboring restaurant.' The little 'a' at the front means 'and' with a hint of 'but', which is the right mood for a comeback. 'Sosedny' comes from 'sosed', neighbour."),
-    (8, None, "'Then you must understand the rules.' Barinov uses the polite 'you must' for a stranger. 'Dolzhny' is the plural form that goes with 'vy', followed by the plain verb 'ponimat', to understand."),
-    (9, None, "'I will not move my car.' Elena's 'I won't' uses 'budu', the same word that means 'I will be'. The 'pere' on the moving action means 'over' or 'again'."),
-    (10, None, "'Over there is another open spot.' 'Von tam' is a pointing 'over there', further away than 'tam'. 'Drugoe' and 'svobodnoe' both end in 'oe' because 'mesto' is a neuter word. 'Est' here is 'there is'."),
-    (11, None, "'What a stubborn and obnoxious woman!' 'Kakaya' with an exclamation means 'what a'. 'Upryamaya' is 'stubborn' and 'vrednaya' means 'harmful' or 'nasty'. Both end in 'aya' because 'zhenshchina' is feminine."),
-    (12, None, "'Have a nice working day, Mr. Chef!' Wishes in Russian use an 'of': 'of a pleasant working day'. The old-fashioned 'Mr.' is how Elena teases him."),
+    (0, None, ["'Who parked this old car here?' Locals do not 'park' a car, they 'put' it, so the word ", ('barinov', 'поставил'), " is 'put' or 'stood'. The term ", ('barinov', 'сюда'), " means 'to here', as it would in 'come here'."]),
+    (1, None, ["'Hello. I parked my car.' The long, polite hello is for strangers. Elena is a woman, so 'parked' ends in 'a', and the term for 'my', ", ('elena', 'свою'), ", is 'my own', the term the language uses when the owner is the subject of the sentence."]),
+    (2, None, ["'Woman, move the automobile from my spot.' Calling a woman just ", ('barinov', 'Женщина'), " is rude, like shouting 'Hey, woman!'. Notice for automobile, ", ('barinov', 'автомобиль'), ", is the stiff word for 'car' where the standard word carries an everyday one. Barinov is trying to sound official."]),
+    (3, None, ["'Where does it say this is your spot?' The term for 'is written', ", ('elena', 'написано'), ", does not say who wrote it. The term for 'your', ", ('elena', 'ваше'), ", gives the polite 'your', fitting for a stranger."]),
+    (4, None, ["'A warning sign is hanging here.' A sign 'hangs' in the local language, ", ('barinov', 'висит'), ", where English just says 'there is'. The expression for 'with a warning', ", ('barinov', 'с'), ('barinov', 'предупреждением'), ", uses the ending for 'with'."]),
+    (5, None, ["'It only says about icicles there.' The term for icicles is ", ('elena', 'сосульки'), ". Signs warning of falling icicles are a regular sight on winter buildings, and Elena points out that it says nothing about parking. The term for 'is written' is back, and the term for 'about' is ", ('elena', 'про'), '.']),
+    (6, None, ["'I am the head chef of this famous restaurant.' There is no 'am', so it is just 'I head-chef'. The term for 'head chef' is ", ('barinov', 'шеф'), '-', ('barinov', 'повар'), ", and the term for 'well known' is ", ('barinov', 'известного'), '. He is boasting.']),
+    (7, None, ["'And I am the head chef of the neighboring restaurant.' The little 'and' at the front, ", ('elena', 'А'), ", carries a hint of 'but', which is the right mood for a comeback. The term for 'neighboring', ", ('elena', 'соседнего'), ', comes from the word for neighbour.']),
+    (8, None, ["'Then you must understand the rules.' Barinov uses the polite 'you must' for a stranger. Notice for 'must', ", ('barinov', 'должны'), ", is the plural form that goes with the formal 'you', followed by the plain verb to understand, ", ('barinov', 'понимать'), '.']),
+    (9, None, ["'I will not move my car.' Elena's 'I won't' uses ", ('elena', 'буду'), ", the same word that means 'I will be'. The prefix on the moving action, ", ('elena', 'переставлять'), ", means 'over' or 'again'."]),
+    (10, None, ["'Over there is another open spot.' The pointing phrase for 'over there', ", ('elena', 'Вон'), ('elena', 'там'), ", is further away than just 'there'. The words for 'another' and 'open' both end in 'oe' because the word for spot is a neuter word."]),
+    (11, None, ["'What a stubborn and obnoxious woman!' Let's break down the dialogue: ", ('barinov', 'Какая'), " with an exclamation means 'what a'. Notice for 'stubborn' is ", ('barinov', 'упрямая'), " and the term for 'obnoxious' is ", ('barinov', 'вредная'), ", which means 'harmful' or 'nasty'. Both end in 'aya' because the term for woman is feminine."]),
+    (12, None, ["'Have a nice working day, Mr. Chef!' Wishes in the local language use an 'of': 'of a pleasant working day'. The old-fashioned 'Mr.', ", ('elena', 'господин'), ', is how Elena teases him.']),
 ]

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'Vika catches Max near the bar and sends him back to the kitchen. Then she gathers the waiting staff for an announcement about a new rule. First the Russian.'
 OPENER = 'Slowly, and watch the announcement land.'
 TRANSITION = 'Now the whole announcement again.'
-OUTRO = "Nobody in the room likes the new rule. When you watch, listen for 'za narushenie', 'for breaking', in Vika's last line. Speak soon."
+OUTRO = "Nobody in the room likes the new rule. When you watch, listen for 'for breaking' in Vika's last line. Speak soon."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Макс, что ты здесь делаешь?', 'Max, what are you doing here?', [(89, 'А ты что здесь делаешь?')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'За нарушение этого правила будет увольнение!', 'For breaking this rule there will be dismissal!', [(98, 'За нарушение этого правила увольнение.')], ''),
 ]
 WALK = [
-    (0, None, "'Max, what are you doing here?' 'Chto ty delaesh' is 'what you do', and it covers both 'what do you do' and 'what are you doing'. 'Zdes' is 'here'."),
-    (1, None, "'I brought fresh oranges to the bar.' 'Prinyos' is 'brought', ending in a bare consonant because Max is a man. 'K baru' is 'to the bar', where 'k' means 'towards' and the bar gets a 'u'."),
-    (2, None, "'Then attend to your oranges in the kitchen!' 'Zanimaysya' ends in 'sya', so it's 'busy yourself', and it's followed by 'with your oranges'. 'Svoimi' means 'your own', with a plural 'with' ending."),
-    (3, None, "'All right, I am already leaving.' 'Ukhozhu' is 'I'm leaving', a present tense for something already under way. 'Obratno' is 'back'."),
-    (4, None, "'So, have all the waitstaff gathered here?' 'Tak' is the 'so' or 'right' that people use before an announcement. 'Sobralis' ends like 'sya' words do, so it's literally 'gathered themselves'."),
-    (5, None, "'Yes, everyone is listening to you very attentively.' 'Slushayut' is 'they listen', with no 'they' written. 'Vnimatelno' means 'attentively', from vnimanie, 'attention'."),
-    (6, None, "'Starting today we have a strict ban.' 'S segodnyashnego dnya' is literally 'from today's day'. 'U nas' is 'at us', and Russians use it for 'we have'. 'Zapret' is 'ban'."),
-    (7, None, "'What sort of ban in our restaurant?' On its own 'eshchyo' means 'more' or 'still', but after 'kakoy' it turns indignant: 'what ban now?'. In 'v nashem restorane' both words change for 'in': -em on 'our', -e on the restaurant."),
-    (8, None, "'Any personal relationships at work are forbidden.' 'Zapreshchenny' is related to 'zapret', ban, as 'forbidden' is to 'ban'. 'Lyubye' means 'any' and otnosheniya, 'relationships', is normally plural in this sense."),
-    (9, None, "'But why do we need such a new rule?' 'Zachem nam' is 'what for to us'. 'Pravilo', rule, is neuter, so both 'such' and 'new' end in 'oe': 'takoe novoe pravilo'."),
-    (10, None, "'Now the restaurant has very difficult times.' 'U restorana' is 'at the restaurant', so 'the restaurant has'. 'Slozhnoe vremya' is 'difficult time', and 'vremya' is neuter, so 'slozhnoe' ends in 'oe'."),
-    (11, None, "'You must think only about work!' Vika isn't speaking to Max alone but to the whole room, so it's the plural 'vy dolzhny'. 'About work' is 'o rabote', and 'work' picks up an 'e' on the end."),
-    (12, None, "'And what will happen for breaking the rule?' 'Chto budet' is 'what will be', which Russians use for 'what will happen'. 'Za narushenie' is literally 'for the breaking', the way you'd say 'as the price of'."),
-    (13, None, "'For breaking this rule there will be dismissal!' It repeats 'for the breaking', then 'budet', 'will be', and the answer: 'uvolnenie', the word for being fired. It's all one blunt sentence."),
+    (0, None, ["'Max, what are you doing here?' We can focus on this line: ", ('vika', 'что'), ('vika', 'ты'), ('vika', 'здесь'), ('vika', 'делаешь'), " covers both 'what do you do here' and 'what are you doing here'."]),
+    (1, None, ["'I brought fresh oranges to the bar.' The verb ", ('max', 'принёс'), ' ends in a bare consonant because Max is a man. Notice ', ('max', 'к'), ('max', 'бару'), ", where the first word means 'towards' and the bar gets a 'u' at the end."]),
+    (2, None, ["'Then attend to your oranges in the kitchen!' The term ", ('vika', 'занимайся'), " means 'busy yourself', and it's followed by ", ('vika', 'своими'), ('vika', 'апельсинами'), " for 'with your own oranges'."]),
+    (3, None, ["'All right, I am already leaving.' Let's examine the dialogue: ", ('max', 'ухожу'), " for 'I am leaving', an action already under way, and ", ('max', 'обратно'), " for 'back'."]),
+    (4, None, ["'So, have all the waitstaff gathered here?' People use ", ('vika', 'Так'), " as the 'so' or 'right' before an announcement. Notice how ", ('vika', 'собрались'), " has the sense of 'gathered themselves'."]),
+    (5, None, ["'Yes, everyone is listening to you very attentively.' Let's inspect the sentence: ", ('max', 'слушают'), " for 'they listen', with no 'they' written. And ", ('max', 'внимательно'), " relates to 'attention'."]),
+    (6, None, ["'Starting today we have a strict ban.' Let us break down the words: ", ('vika', 'С'), ('vika', 'сегодняшнего'), ('vika', 'дня'), " translates as 'from today's day'. Russians use ", ('vika', 'у'), ('vika', 'нас'), ", or 'at us', to say 'we have'. Notice ", ('vika', 'запрет'), " for 'ban'."]),
+    (7, None, ["'What sort of ban in our restaurant?' On its own, ", ('max', 'ещё'), " can mean 'more' or 'still', but after ", ('max', 'Какой'), " it turns indignant, like 'what ban now?'. In ", ('max', 'в'), ('max', 'нашем'), ('max', 'ресторане'), ' both words change to reflect being inside.']),
+    (8, None, ["'Any personal relationships at work are forbidden.' Observe how ", ('vika', 'Запрещены'), " relates to the previous 'ban', just as 'forbidden' relates to 'ban' in English. We have ", ('vika', 'любые'), " for 'any' and ", ('vika', 'личные'), ('vika', 'отношения'), " for 'personal relationships', which is normally plural in this sense."]),
+    (9, None, ["'But why do we need such a new rule?' We see ", ('max', 'зачем'), ('max', 'нам'), " for 'what for to us'. Because the rule is neuter, both 'such' and 'new' get matching endings in ", ('max', 'такое'), ('max', 'новое'), ('max', 'правило'), '.']),
+    (10, None, ["'Now the restaurant has very difficult times.' Now let's break down this part: ", ('vika', 'у'), ('vika', 'ресторана'), " for 'at the restaurant', giving us 'the restaurant has'. We see ", ('vika', 'сложное'), ('vika', 'время'), " for 'difficult time', with matching neuter endings."]),
+    (11, None, ["'You must think only about work!' Vika isn't speaking to Max alone but to the whole room, so she uses the plural ", ('vika', 'Вы'), ('vika', 'должны'), '. We see ', ('vika', 'о'), ('vika', 'работе'), " for 'about work', where 'work' picks up an extra letter on the end."]),
+    (12, None, ["'And what will happen for breaking the rule?' We will analyze the dialogue: ", ('max', 'что'), ('max', 'будет'), " for 'what will be', used to say 'what will happen'. We see ", ('max', 'за'), ('max', 'нарушение'), " for 'for breaking', the way you might say 'as the price of'."]),
+    (13, None, ["'For breaking this rule there will be dismissal!' It repeats 'for breaking', then adds ", ('vika', 'будет'), " for 'will be', and the answer is ", ('vika', 'увольнение'), " for being fired. It's all one blunt sentence."]),
 ]

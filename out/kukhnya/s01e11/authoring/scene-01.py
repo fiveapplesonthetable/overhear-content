@@ -10,7 +10,7 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "Welcome to Kukhnya, a Russian comedy set in the kitchen of Claude Monet, a smart French restaurant in Moscow. Barinov is the loud head chef, Max the newest cook, and Kostya the bartender who is Max's best friend. In this episode a secret restaurant critic is expected, and nobody knows who he is. It starts quietly, at the bar, where Max and Kostya ask who really runs the place. You'll hear it in Russian first, and you don't need to catch every word."
+INTRO = "Welcome to The Kitchen, a Russian comedy set in the kitchen of Claude Monet, a smart French restaurant in Moscow. Barinov is the loud head chef, Max the newest cook, and Kostya the bartender who is Max's best friend. In this episode a secret restaurant critic is expected, and nobody knows who he is. It starts quietly, at the bar, where Max and Kostya ask who really runs the place. You'll hear it first, and you don't need to catch every word."
 OPENER = 'First line first.'
 TRANSITION = 'Time to hear it all again.'
 OUTRO = 'Max and Kostya agree that the guest comes first. That idea will be tested very soon, once the word about the critic gets out. Catch you next time.'
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Гость всегда остаётся самым главным.', 'The guest always remains the most important.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Kostya, who is the most important in our restaurant?\' Russian says "kto samy glavny", "who most main", with no "is" at all. "Glavny", "main", grows out of "golova", "head", so the main person is the one at the head.'),
-    (1, None, '\'Maybe our strict head chef?\' "Mozhet byt", word for word "can be", is the Russian "maybe". And the job title is "shef-povar", two words joined by a hyphen, "chef-cook". Kostya names Barinov first.'),
-    (2, None, '\'Or the rich restaurant owner Dmitry?\' There\'s no "of" here: "khozyain restorana" is "owner restaurant-of", and the -a on "restorana" does that job. "Bogaty" is "rich".'),
-    (3, None, '\'Or maybe our strict director Viktoria?\' "A mozhet" is a shorter "or maybe", with "byt" dropped. Kostya uses Vika\'s full name, Viktoria, the way you\'d name a boss. He is running down the staff list.'),
-    (4, None, '\'No, the most important here are the guests.\' Where English says "are", Russian often puts a pause and "eto", "this": "samye glavnye zdes, eto gosti". "Samye glavnye" ends in -ye to match the plural "gosti".'),
-    (5, None, '\'That is true, our guests can be very different.\' Agreeing, Kostya says "eto pravda", word for word "this truth", with no "is" in it. The verb "byvayut" means "they tend to be, now and then", so guests come in all kinds.'),
-    (6, None, '\'Some guests can be too stingy.\' Russian lines up "odni" and "drugie", "ones" and "others", just like English "some ... others". "Zhadny", "stingy", is literally "greedy". "Slishkom" is "too".'),
-    (7, None, '\'Other guests can be very cheerful.\' "Drugie", "others", answers the "odni" of the last line. "Vesyolymi", "cheerful", has an -ymi ending, the one that comes after "byvayut".'),
-    (8, None, '\'And do they often hug you?\' "Obnimayut" is "they hug", from "obnimat", to put your arms around someone. "Chasto" is "often". Max is teasing his friend.'),
-    (9, None, '\'Yes, they constantly say various kind words.\' "Postoyanno", "constantly", is from the same family as "postoyannye gosti", "regular guests", the constant ones. "Dobrye slova" is "kind words".'),
-    (10, None, '\'They pay money for this lunch.\' Before the thing you buy, "za" means "in exchange for": you pay "za obed", for the lunch. "Platyat" is the "they" form of "platit", "to pay". Max states the plain commercial truth.'),
-    (11, None, '\'Therefore we always smile at every guest.\' "Ulybaemsya", "we smile", ends in -sya, a habit some Russian verbs have. "Kazhdomu gostyu" is "to every guest": you smile "to" someone in Russian.'),
-    (12, None, '\'The guest always remains the most important.\' "Ostayotsya", "remains", has the -sya ending again. After it, "samy glavny" becomes "samym glavnym". A tidy last line.'),
+    (0, None, ["'Kostya, who is the most important in our restaurant?' We can analyze this part: ", ('max', 'кто'), ('max', 'самый'), ('max', 'главный'), ", 'who most main', has no 'is' at all. ", ('max', 'главный'), ", 'main', grows out of the noun 'head', so the main person is the one at the head."]),
+    (1, None, ["'Maybe our strict head chef?' Let's look at the sentence: ", ('kostya', 'Может'), ('kostya', 'быть'), ", 'can be', means 'maybe'. And the job title is ", ('kostya', 'шеф'), '-', ('kostya', 'повар'), ", two words joined by a hyphen, 'chef-cook'. Kostya names Barinov first."]),
+    (2, None, ["'Or the rich restaurant owner Dmitry?' There's no 'of' here: ", ('max', 'хозяин'), ('max', 'ресторана'), " is 'owner restaurant-of', and the ending on ", ('max', 'ресторана'), ' does that job. ', ('max', 'богатый'), " means 'rich'."]),
+    (3, None, ["'Or maybe our strict director Viktoria?' We will focus on the sentence: ", ('kostya', 'А'), ('kostya', 'может'), " is a shorter 'or maybe', with the 'be' dropped. Kostya uses Vika's full name, Viktoria, the way you'd name a boss. He is running down the staff list."]),
+    (4, None, ["'No, the most important here are the guests.' Where English says 'are', there is often a pause and ", ('max', 'это'), ", 'this': ", ('max', 'самые'), ('max', 'главные'), ('max', 'здесь'), ('max', 'это'), ('max', 'гости'), '. Here we have ', ('max', 'самые'), ('max', 'главные'), ' has a plural ending to match ', ('max', 'гости'), '.']),
+    (5, None, ["'That is true, our guests can be very different.' Agreeing, Kostya says ", ('kostya', 'Это'), ('kostya', 'правда'), ", 'this truth', with no 'is' in it. The verb ", ('kostya', 'бывают'), " means 'they tend to be, now and then', so guests come in all kinds."]),
+    (6, None, ["'Some guests can be too stingy.' The pattern lines up ", ('max', 'Одни'), " and others, just like English 'some ... others'. ", ('max', 'жадными'), ", 'stingy', means 'greedy'. ", ('max', 'слишком'), " is 'too'."]),
+    (7, None, ["'Other guests can be very cheerful.' Let's analyze the speech: ", ('kostya', 'Другие'), ", 'others', answers the 'some' of the last line. ", ('kostya', 'весёлыми'), ", 'cheerful', has an ending that matches the verb ", ('kostya', 'бывают'), '.']),
+    (8, None, ["'And do they often hug you?' We can look at this line: ", ('max', 'обнимают'), " is 'they hug', to put your arms around someone. ", ('max', 'часто'), " is 'often'. Max is teasing his friend."]),
+    (9, None, ["'Yes, they constantly say various kind words.' We can look at the sentence: ", ('kostya', 'постоянно'), ", 'constantly', is from the same family as regular guests, the constant ones. ", ('kostya', 'добрые'), ('kostya', 'слова'), " is 'kind words'."]),
+    (10, None, ["'They pay money for this lunch.' Before the thing you buy, ", ('max', 'за'), " means 'in exchange for': you pay ", ('max', 'за'), ('max', 'этот'), ('max', 'обед'), ', for this lunch. ', ('max', 'платят'), " means 'they pay'. Max states the plain commercial truth."]),
+    (11, None, ["'Therefore we always smile at every guest.' Let us break down the dialogue: ", ('kostya', 'улыбаемся'), ", 'we smile', ends in a common suffix. ", ('kostya', 'каждому'), ('kostya', 'гостю'), " is 'to every guest': you smile 'to' someone here."]),
+    (12, None, ["'The guest always remains the most important.' Now let's focus on the sentence: ", ('max', 'остаётся'), ", 'remains', has that same suffix again. After it, the expression becomes ", ('max', 'самым'), ('max', 'главным'), '. A tidy last line.']),
 ]

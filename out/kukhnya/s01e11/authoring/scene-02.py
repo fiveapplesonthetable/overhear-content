@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = "Meanwhile in the kitchen, Vika bursts in with news that the owner has just phoned. A restaurant critic will visit today, and nobody knows what he looks like. Let's hear it."
 OPENER = "Now I'll walk you through it."
 TRANSITION = 'One more run through, all the way.'
-OUTRO = 'The kitchen is on alert, and Max has been exiled to the dishes. This is the sort of order that rarely lasts. Until we meet again, in Russian.'
+OUTRO = 'The kitchen is on alert, and Max has been exiled to the dishes. This is the sort of order that rarely lasts. Until we meet again.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Внимание всем! У меня важная информация.', 'Attention everyone! I have important information.', [(24, 'Внимание! У меня важная информация.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Сегодня на кухне нужен полный порядок.', 'Today complete order is needed in the kitchen.', [(39, 'А мне сегодня проблемы не нужны.')], ''),
 ]
 WALK = [
-    (0, None, '\'Attention everyone! I have important information.\' "Vnimanie vsem" is "attention to all", the Russian call to a room. Then "u menya", "at me", stands for "I have". "Informatsiya" is easy.'),
-    (1, None, '\'Vika, speak faster, we have a lot of orders.\' "Bystree" is "bystro", "quickly", with -ee, like English "-er". After "mnogo", "many", "zakazy" becomes "zakazov". Barinov uses "ty" with her.'),
-    (2, None, '\'Dmitry Vladimirovich himself just called.\' "Sam", "himself", is added for emphasis: the owner in person. "Tolko chto", "only what", is the Russian "just now". "Zvonil" is "called" on the phone.'),
-    (3, None, '\'And what did our respected owner say?\' "Uvazhaemy", "respected", is from the same family as "uvazhayu", "I respect", which Max said to Louis. "Khozyain" is the owner, the man of the house.'),
-    (4, None, '\'A restaurant critic will come to us today.\' "Priedet", "will arrive", is the by-vehicle "come". "K nam" is "to us", to our place. And "restoranny" turns "restoran" into a describing word: "restaurant critic".'),
-    (5, None, '\'We will feed him a delicious hot lunch.\' "Nakormim", "we will feed", is built on "korm", the animal feed Barinov joked about with his winnings. The na- in front means "fill up". Barinov\'s whole plan is food.'),
-    (6, None, '\'Nobody knows what he looks like.\' Russian says "nikto ne znaet", "nobody not knows", and both negatives are needed. "Kak on vyglyadit" is "how he looks", the way to ask about appearance.'),
-    (7, None, '\'That means we cook each dish with perfect precision.\' "Znachit", "so", is literally "means". Then "idealno tochno", "ideally exactly", piles up two -o words. "Gotovim" is "we cook".'),
-    (8, None, '\'And do not let Max into the kitchen today.\' "Ne puskay", "don\'t let", is a relative of "pust", "let him". "Maks" becomes "Maksa" because he\'s the one being kept out. "Na kukhnyu" is "onto the kitchen".'),
-    (9, None, '\'And why should the new cook not work?\' "Dolzhen", "must", is a cousin of "dolg", "debt", what you owe. With "ne" it makes "should not". "Novy povar" is "the new cook".'),
-    (10, None, '\'Because this guy brings constant problems.\' "Sploshnye problemy" is "solid problems", meaning nothing but problems. "Prinosit", "brings", is the carrying word, "nesti", with pri- for "arriving". "Paren" is "guy".'),
-    (11, None, '\'Fine, Max will wash dirty dishes.\' "Budet myt" is "will wash", the "budet" future. "Gryaznuyu posudu" is "dirty dishes", both ending in -u because they\'re what gets washed. The dishes are the safest place for Max.'),
-    (12, None, '\'Today complete order is needed in the kitchen.\' Russian has several "orders": "zakaz" for food, "prikaz" for a command, and here "poryadok", tidiness and discipline. "Nuzhen", "needed", matches "poryadok".'),
+    (0, None, ["'Attention everyone! I have important information.' Now we can analyze the dialogue: ", ('vika', 'Внимание'), ('vika', 'всем'), " is 'attention to all', the call to a room here. Then ", ('vika', 'У'), ('vika', 'меня'), ", 'at me', stands for 'I have'. ", ('vika', 'информация'), ' is easy.']),
+    (1, None, ["'Vika, speak faster, we have a lot of orders.' We can look at this line: ", ('barinov', 'быстрее'), " is 'quickly', with a suffix like English '-er'. After ", ('barinov', 'много'), ", 'many', the noun for orders becomes ", ('barinov', 'заказов'), ". Barinov uses the familiar 'you' with her."]),
+    (2, None, ["'Dmitry Vladimirovich himself just called.' We will examine this line: ", ('vika', 'сам'), ", 'himself', is added for emphasis: the owner in person. ", ('vika', 'Только'), ('vika', 'что'), ", 'only what', is the wording for 'just now'. ", ('vika', 'звонил'), " is 'called' on the phone."]),
+    (3, None, ["'And what did our respected owner say?' Let's break down the phrase: ", ('barinov', 'уважаемый'), ", 'respected', is from the same family as 'I respect', which Max said to Louis. ", ('barinov', 'хозяин'), ' is the owner, the man of the house.']),
+    (4, None, ["'A restaurant critic will come to us today.' Now we can consider the words: ", ('vika', 'приедет'), ", 'will arrive', is the by-vehicle 'come'. ", ('vika', 'К'), ('vika', 'нам'), " is 'to us', to our place. And ", ('vika', 'ресторанный'), " turns 'restaurant' into a describing word: 'restaurant critic'."]),
+    (5, None, ["'We will feed him a delicious hot lunch.' Now let's break down this line: ", ('barinov', 'накормим'), ", 'we will feed', stems from the noun for animal feed Barinov joked about with his winnings. The first part means 'fill up'. Barinov's whole plan is food."]),
+    (6, None, ["'Nobody knows what he looks like.' Here we have is ", ('vika', 'Никто'), ('vika', 'не'), ('vika', 'знает'), ", 'nobody not knows', and both negatives are needed. ", ('vika', 'как'), ('vika', 'он'), ('vika', 'выглядит'), " is 'how he looks', the way to ask about appearance."]),
+    (7, None, ["'That means we cook each dish with perfect precision.' We will inspect the phrase: ", ('barinov', 'Значит'), ", 'so', originally means 'it means'. Then ", ('barinov', 'идеально'), ('barinov', 'точно'), ", 'ideally exactly', piles up two similar words. ", ('barinov', 'готовим'), " is 'we cook'."]),
+    (8, None, ["'And do not let Max into the kitchen today.' We can analyze the dialogue: ", ('vika', 'не'), ('vika', 'пускай'), ", 'don't let', is a relative of 'let him'. The name Max becomes ", ('vika', 'Макса'), " because he's the one being kept out. ", ('vika', 'на'), ('vika', 'кухню'), " is 'onto the kitchen'."]),
+    (9, None, ["'And why should the new cook not work?' Now we can consider the dialogue: ", ('barinov', 'должен'), ", 'must', is a cousin of the noun for 'debt', what you owe. With ", ('barinov', 'не'), " it makes 'should not'. ", ('barinov', 'новый'), ('barinov', 'повар'), " is 'the new cook'."]),
+    (10, None, ["'Because this guy brings constant problems.' Now we can consider the words: ", ('vika', 'сплошные'), ('vika', 'проблемы'), " is 'solid problems', meaning nothing but problems. ", ('vika', 'приносит'), ", 'brings', is the carrying word with a start that means 'arriving'. ", ('vika', 'парень'), " is 'guy'."]),
+    (11, None, ["'Fine, Max will wash dirty dishes.' Let's focus on this line: ", ('barinov', 'будет'), ('barinov', 'мыть'), " is 'will wash'. ", ('barinov', 'грязную'), ('barinov', 'посуду'), " is 'dirty dishes', both getting a new ending because they're what gets washed. The dishes are the safest place for Max."]),
+    (12, None, ["'Today complete order is needed in the kitchen.' There are several kinds of 'orders' here: one for food, one for a command, and here ", ('vika', 'порядок'), ' for tidiness and discipline. ', ('vika', 'нужен'), ", 'needed', matches it."]),
 ]

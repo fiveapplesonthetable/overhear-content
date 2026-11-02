@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'Max is in the corridor trying to put things right with Vika. She has seen something she did not like, and Max says it was all for show. Listen to their talk in Russian first.'
 OPENER = 'Again, listening to how each of them defends their side.'
 TRANSITION = 'Now their whole talk, straight through.'
-OUTRO = "Max has told the truth, and Vika is still angry. Notice how often 'iz-za' turns up when people argue. Take care."
+OUTRO = "Max has told the truth, and Vika is still angry. Notice how often the word for because of turns up when people argue. Take care."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Слушай сюда, я не собираюсь ничего выяснять.', 'Listen here, I am not going to figure anything out.', [(271, 'Слушай сюда, я не собираюсь с тобой ничего выяснять.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Из-за чего? Из-за того самого.', 'Because of what? Because of that exact thing.', [(277, 'Из-за чего? Из-за того.')], ''),
 ]
 WALK = [
-    (0, None, "'Listen here, I am not going to figure anything out.' 'Slushay syuda' is literally 'listen to here', a blunt 'listen up'. 'Ne sobirayus' is 'I'm not going to', from 'sobiratsya', which also means 'to get ready'. 'Vyyasnyat' is to sort something out."),
-    (1, None, "'Vika, Sasha has absolutely nothing to do with this.' 'Ni pri chyom' is a fixed phrase meaning 'has nothing to do with it'. You can't build it from the words, so learn it as a block. 'Sovershenno' means 'absolutely'."),
-    (2, None, "'Do not fire her from this job.' Max uses 'ne nado' for 'don't', which is softer than an order. 'S etoy raboty' is 'from this job', and after 's', 'from', 'rabota' becomes 'raboty'."),
-    (3, None, "'I was intentionally driving you to anger.' 'Spetsialno' is 'on purpose', not 'specially'. 'Dovodil do gneva' is 'was bringing to anger', and 'gnev' is a strong, bookish word for anger."),
-    (4, None, "'I pretended as if we were dating.' 'Budto' is 'as if'. 'Vstrechaemsya' ends in 'sya', so it's 'meeting each other', and that's how Russians say 'dating'. 'My s ney' is 'she and I', literally 'we with her'."),
-    (5, None, "'Well, you did a very good job with it.' 'Poluchilos' is 'it turned out', and Russian puts it in the neuter, 'it', since the thing that turned out is 'this'. 'U tebya' is 'for you', literally 'at you'. It's praise in form only."),
-    (6, None, "'Especially when you hugged her.' 'Kogda' is 'when', the same word that asks 'when?'. 'Obnimal' is the past of 'obnimat', to hug, in the form for something he was busy doing."),
-    (7, None, "'Believe me, it was just a stupid accident!' 'Sluchaynost' is 'accident' or 'coincidence', and it's feminine. That's why it's 'byla' and 'glupaya', both with feminine endings."),
-    (8, None, "'And why are you sticking up for her so much?' 'Zastupaeshsya' is 'you stick up for', with 'sya' at the end. 'Za neyo' is 'for her', and here 'chto' means 'why'."),
-    (9, None, "'I am not sticking up for her at all now.' Max repeats her verb, 'zastupayus', in the 'I' form. 'Sovershenno ne' means 'not at all', and 'seychas' is 'now'."),
-    (10, None, "'I just do not want anyone to get hurt.' After 'chtoby', 'so that', the verb goes into the past form, so it's literally 'I don't want that someone got hurt'. 'Kto-to' is 'who' plus '-to', which turns it into 'someone'."),
-    (11, None, "'Because of what? Because of that exact thing.' 'Iz-za' is 'because of', once with 'chego', what, and once with 'togo', that. 'Togo samogo' is 'that very thing', with 'samyy' adding the 'very'."),
+    (0, None, ["'Listen here, I am not going to figure anything out.' We will analyze the sentence: ", ('vika', 'Слушай'), ('vika', 'сюда'), ' reads listen to here, a blunt listen up. ', ('vika', 'не'), ('vika', 'собираюсь'), ' is I am not going to, from a word which also means to get ready. ', ('vika', 'выяснять'), ' is to sort something out.']),
+    (1, None, ["'Vika, Sasha has absolutely nothing to do with this.' Now let's analyze this line: ", ('max', 'ни'), ('max', 'при'), ('max', 'чём'), " is a fixed phrase meaning has nothing to do with it. You can't build it from the words, so learn it as a block. ", ('max', 'совершенно'), ' means absolutely.']),
+    (2, None, ["'Do not fire her from this job.' Max uses ", ('max', 'Не'), ('max', 'надо'), " for don't, which is softer than an order. ", ('max', 'с'), ('max', 'этой'), ('max', 'работы'), ' is from this job, and after from, the term for job changes its ending.']),
+    (3, None, ["'I was intentionally driving you to anger.' Now we can break down the phrase: ", ('max', 'специально'), ' is on purpose, not specially. ', ('max', 'доводил'), ('max', 'до'), ('max', 'гнева'), ' is was bringing to anger, and ', ('max', 'гнева'), ' comes from a strong, bookish word for anger.']),
+    (4, None, ["'I pretended as if we were dating.' Now let's analyze this part: ", ('max', 'будто'), ' is as if. ', ('max', 'встречаемся'), " ends in a self-action sound, so it's meeting each other, and that's how Russians say dating. ", ('max', 'мы'), ('max', 'с'), ('max', 'ней'), ' is she and I, literally we with her.']),
+    (5, None, ["'Well, you did a very good job with it.' We will break down the speech: ", ('vika', 'получилось'), ' is it turned out, and Russian puts it in the neuter it since the thing that turned out is this. ', ('vika', 'у'), ('vika', 'тебя'), " is for you, literally at you. It's praise in form only."]),
+    (6, None, ["'Especially when you hugged her.' Now we can break down the words: ", ('vika', 'когда'), ' is when, the same word that asks when?. ', ('vika', 'обнимал'), ' is the past of to hug, in the form for something he was busy doing.']),
+    (7, None, ["'Believe me, it was just a stupid accident!' Let's examine the sentence: ", ('max', 'случайность'), " is accident or coincidence, and it's a feminine word. That's why ", ('max', 'была'), ' and ', ('max', 'глупая'), ' both have feminine endings.']),
+    (8, None, ["'And why are you sticking up for her so much?' Let's look at this line: ", ('vika', 'заступаешься'), ' is you stick up for, with a self-action sound at the end. ', ('vika', 'за'), ('vika', 'неё'), ' is for her, and here ', ('vika', 'что'), ' means why.']),
+    (9, None, ["'I am not sticking up for her at all now.' Max repeats her verb, ", ('max', 'заступаюсь'), ', in the I form. ', ('max', 'совершенно'), ('max', 'не'), ' means not at all, and ', ('max', 'сейчас'), ' is now.']),
+    (10, None, ["'I just do not want anyone to get hurt.' After ", ('max', 'чтобы'), ", so that, the verb goes into the past form, so it's literally I don't want that someone got hurt. ", ('max', 'кто'), '-', ('max', 'то'), ' is who plus a suffix which turns it into someone.']),
+    (11, None, ["'Because of what? Because of that exact thing.' Let us focus on the phrase: ", ('vika', 'Из'), '-', ('vika', 'за'), ' is because of, once with ', ('vika', 'чего'), ', what, and once with ', ('vika', 'того'), ', that. ', ('vika', 'того'), ('vika', 'самого'), ' is that very thing, with ', ('vika', 'самого'), ' adding the very.']),
 ]
