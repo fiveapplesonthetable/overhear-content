@@ -462,6 +462,756 @@
     }
    ],
    "gender": "m"
+  },
+  "ar-f1": {
+   "file": "refs/ar-f1.flac",
+   "lang": "ar",
+   "gender": "f",
+   "text": "صباح الخير يا جماعة، اليوم عنا حصص كثيرة بالمدرسة، بس خلونا نراجع الجدول بهدوء قبل ما يرن الجرس.",
+   "desc": "VoiceDesign: A calm, clear Levantine Mediterranean woman in her late twenties, warm studio microphone voice, steady conversational pace, crisp articulation.",
+   "seconds": 8.23,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 53,
+     "note": "synthetic timbre, no show audio"
+    },
+    {
+     "model": "ResembleAI/chatterbox-multilingual",
+     "seed": 153,
+     "note": "synthetic Arabic ref, no show audio"
+    }
+   ]
+  },
+  "ar-f2": {
+   "file": "refs/ar-f2.flac",
+   "lang": "ar",
+   "gender": "f",
+   "text": "مرحبا صبايا! اشتقتلكم كثير، خبروني شو عملتوا بالعطلة وكيف كانت التحضيرات للسنة الجديدة؟",
+   "desc": "VoiceDesign: A bright, expressive young woman in her late teens or early twenties, warm lively voice, friendly natural cadence, clean studio audio.",
+   "seconds": 7.59,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic timbre, no show audio"
+    },
+    {
+     "model": "ResembleAI/chatterbox-multilingual",
+     "seed": 123,
+     "note": "synthetic Arabic ref, no show audio"
+    }
+   ]
+  },
+  "ar-f3": {
+   "file": "refs/ar-f3.flac",
+   "lang": "ar",
+   "gender": "f",
+   "text": "اسمعوني منيح لو سمحتوا، النظام والاحترام بمدرستنا أساس النجاح، ولازم الكل يلتزم بالقوانين من أول يوم.",
+   "desc": "VoiceDesign: A composed, authoritative school principal woman in her late forties, rich contralto timbre, steady dignified pace, crisp diction.",
+   "seconds": 8.54,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic timbre, no show audio"
+    },
+    {
+     "model": "ResembleAI/chatterbox-multilingual",
+     "seed": 111,
+     "note": "synthetic Arabic ref, no show audio"
+    }
+   ]
+  },
+  "ar-m1": {
+   "file": "refs/ar-m1.flac",
+   "lang": "ar",
+   "gender": "m",
+   "text": "يعطيكم العافية جميعاً، الطريق كان مزدحم شوي الصبح، بس وصلنا بالوقت المناسب وجهزنا كل الأوراق المطلوبة.",
+   "desc": "VoiceDesign: A warm, clear man in his early thirties, natural baritone voice, steady conversational rhythm, clean studio recording.",
+   "seconds": 8.3,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 53,
+     "note": "synthetic timbre, no show audio"
+    },
+    {
+     "model": "ResembleAI/chatterbox-multilingual",
+     "seed": 153,
+     "note": "synthetic Arabic ref, no show audio"
+    }
+   ]
+  },
+  "ar-m2": {
+   "file": "refs/ar-m2.flac",
+   "lang": "ar",
+   "gender": "m",
+   "text": "أهلاً وسهلاً فيك يا صديقي، إذا بتحب بنقدر ندرس مع بعض بالمكتبة بعد الظهر ونخلص المشروع اليوم.",
+   "desc": "VoiceDesign: A lively, friendly young man in his mid-twenties, clear tenor timbre, natural conversational energy, clean studio voice.",
+   "seconds": 7.85,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic timbre, no show audio"
+    },
+    {
+     "model": "ResembleAI/chatterbox-multilingual",
+     "seed": 123,
+     "note": "synthetic Arabic ref, no show audio"
+    }
+   ]
+  },
+  "ar-m3": {
+   "file": "refs/ar-m3.flac",
+   "lang": "ar",
+   "gender": "m",
+   "text": "يا بنتي أهم شي بالحياة إنك تكوني صادقة مع حالك وتفكري بهدوء قبل ما تاخذي أي قرار مهم.",
+   "desc": "VoiceDesign: A deep, calm fatherly man in his fifties, resonant bass-baritone voice, measured thoughtful pace, crisp studio clarity.",
+   "seconds": 8.3,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 37,
+     "note": "synthetic timbre, no show audio"
+    },
+    {
+     "model": "ResembleAI/chatterbox-multilingual",
+     "seed": 137,
+     "note": "synthetic Arabic ref, no show audio"
+    }
+   ]
+  },
+  "de-f1": {
+   "file": "refs/de-f1.flac",
+   "lang": "de",
+   "gender": "f",
+   "text": "Guten Morgen! Ich gehe kurz in den Supermarkt an der Ecke, um frisches Brot, Milch und Äpfel für unser Frühstück zu kaufen.",
+   "desc": "VoiceDesign: A calm, clear Standard German woman in her late twenties, warm natural studio voice, steady pace, crisp pronunciation for dictionary examples.",
+   "seconds": 8.79,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "de-f2": {
+   "file": "refs/de-f2.flac",
+   "lang": "de",
+   "gender": "f",
+   "text": "Hallo zusammen! Hast du schon gehört, dass wir heute Nachmittag früher Feierabend machen können, wenn an der Kasse alles fertig ist?",
+   "desc": "VoiceDesign: A lively, friendly young German woman in her early twenties, bright timbre, natural conversational energy, clean Standard German diction.",
+   "seconds": 7.08,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "de-f3": {
+   "file": "refs/de-f3.flac",
+   "lang": "de",
+   "gender": "f",
+   "text": "Bitte schauen Sie sich die neue Liste noch einmal genau an, damit wir morgen früh im Laden keine unnötigen Fehler machen.",
+   "desc": "VoiceDesign: A composed, experienced German woman in her late forties, warm lower register, steady and assured workplace tone, clear articulation.",
+   "seconds": 7.27,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "de-m1": {
+   "file": "refs/de-m1.flac",
+   "lang": "de",
+   "gender": "m",
+   "text": "Entschuldigung, können Sie mir bitte kurz sagen, in welchem Gang ich hier im Markt den Kaffee und die Hafermilch finde?",
+   "desc": "VoiceDesign: A warm, natural Standard German man in his early thirties, clear baritone voice, relaxed conversational pace, clean studio quality.",
+   "seconds": 7.36,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "de-m2": {
+   "file": "refs/de-m2.flac",
+   "lang": "de",
+   "gender": "m",
+   "text": "Keine Sorge, ich räume die Kisten im Lager sofort auf und komme danach direkt nach vorne zur zweiten Kasse.",
+   "desc": "VoiceDesign: An energetic, expressive young German man in his mid-twenties, bright tenor voice, casual friendly rhythm, clear articulation.",
+   "seconds": 6.36,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "de-m3": {
+   "file": "refs/de-m3.flac",
+   "lang": "de",
+   "gender": "m",
+   "text": "Wir öffnen das Geschäft jeden Tag pünktlich um acht Uhr, deshalb muss das gesamte Team zehn Minuten vorher bereitstehen.",
+   "desc": "VoiceDesign: A deep, grounded German man in his early fifties, resonant baritone, calm authority, measured pace and very clear consonants.",
+   "seconds": 8.24,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "es-f1": {
+   "file": "refs/es-f1.flac",
+   "lang": "es",
+   "gender": "f",
+   "text": "Hola, buenos días. Hoy tenemos mucho trabajo en la oficina, pero primero vamos a tomar un café tranquilo y revisar la agenda de esta semana.",
+   "desc": "VoiceDesign: A calm, clear, warm Castilian Spanish woman in her late twenties, natural studio microphone quality, steady conversational pace, crisp articulation, pleasant everyday tone.",
+   "seconds": 8.92,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "es-f2": {
+   "file": "refs/es-f2.flac",
+   "lang": "es",
+   "gender": "f",
+   "text": "¡Qué alegría verte por aquí! No sabía que venías hoy a Madrid, cuéntame todo lo que has hecho durante estas últimas semanas.",
+   "desc": "VoiceDesign: A bright, expressive young Spanish woman in her early twenties, lively and friendly tone, clear pronunciation, natural conversational rhythm.",
+   "seconds": 7.58,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "es-f3": {
+   "file": "refs/es-f3.flac",
+   "lang": "es",
+   "gender": "f",
+   "text": "Escúchame bien, cariño, llevo treinta años trabajando en este teatro y sé perfectamente cuándo un actor tiene talento de verdad.",
+   "desc": "VoiceDesign: A warm, confident, experienced Spanish woman in her early fifties, rich contralto timbre, assured and grounded delivery, crisp diction.",
+   "seconds": 8.27,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 37,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "es-m1": {
+   "file": "refs/es-m1.flac",
+   "lang": "es",
+   "gender": "m",
+   "text": "Perdona que llegue cinco minutos tarde, había muchísimo tráfico en el centro y el autobús tardó bastante en pasar por mi calle.",
+   "desc": "VoiceDesign: A clear, warm Spanish man in his early thirties, natural baritone voice, relaxed everyday pace, clean studio recording.",
+   "seconds": 8.48,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "es-m2": {
+   "file": "refs/es-m2.flac",
+   "lang": "es",
+   "gender": "m",
+   "text": "Oye, si quieres podemos ir juntos al cine esta noche y después cenamos algo rápido cerca de la plaza mayor.",
+   "desc": "VoiceDesign: An upbeat, energetic young Spanish man in his mid-twenties, light tenor timbre, friendly and spontaneous delivery, clear diction.",
+   "seconds": 6.0,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "es-m3": {
+   "file": "refs/es-m3.flac",
+   "lang": "es",
+   "gender": "m",
+   "text": "Nuestra propuesta es muy sencilla: necesitamos revisar el contrato con calma antes de tomar cualquier decisión importante mañana por la mañana.",
+   "desc": "VoiceDesign: A deep, calm, authoritative Spanish man in his fifties, resonant bass-baritone voice, measured pace, crystal-clear pronunciation.",
+   "seconds": 9.24,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "it-f1": {
+   "file": "refs/it-f1.flac",
+   "lang": "it",
+   "gender": "f",
+   "text": "Buongiorno a tutti! Prima di iniziare le riprese sul set, prendiamo un caffè insieme e controlliamo il programma di oggi.",
+   "desc": "VoiceDesign: A calm, clear Standard Italian woman in her late twenties, warm natural timbre, steady conversational pace, crisp studio diction.",
+   "seconds": 8.16,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "it-f2": {
+   "file": "refs/it-f2.flac",
+   "lang": "it",
+   "gender": "f",
+   "text": "Ciao! Che bella sorpresa vederti qui a Roma, dimmi subito come sta andando il tuo nuovo lavoro in televisione.",
+   "desc": "VoiceDesign: A bright, spirited young Italian woman in her early twenties, expressive and friendly voice, natural rhythm, clean pronunciation.",
+   "seconds": 8.49,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "it-f3": {
+   "file": "refs/it-f3.flac",
+   "lang": "it",
+   "gender": "f",
+   "text": "Ascolta bene, non abbiamo più tempo da perdere: la scena deve essere pronta entro stasera, quindi mettiamoci subito al lavoro.",
+   "desc": "VoiceDesign: A warm, authoritative Italian woman in her late forties, rich contralto voice, composed and articulate delivery.",
+   "seconds": 9.05,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "it-m1": {
+   "file": "refs/it-m1.flac",
+   "lang": "it",
+   "gender": "m",
+   "text": "Scusa il ritardo, purtroppo stamattina c'era molto traffico sul raccordo, ma ho portato tutti i copioni per la prova.",
+   "desc": "VoiceDesign: A clear, warm Standard Italian man in his early thirties, natural baritone voice, relaxed pace, clean studio recording.",
+   "seconds": 8.61,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "it-m2": {
+   "file": "refs/it-m2.flac",
+   "lang": "it",
+   "gender": "m",
+   "text": "Dai, non ti preoccupare, facciamo un altro tentativo con le luci più morbide e vedrai che questa inquadratura verrà benissimo!",
+   "desc": "VoiceDesign: An energetic, expressive young Italian man in his mid-twenties, bright tenor timbre, lively conversational cadence, crisp diction.",
+   "seconds": 7.5,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 53,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "it-m3": {
+   "file": "refs/it-m3.flac",
+   "lang": "it",
+   "gender": "m",
+   "text": "Silenzio in studio, per favore: adesso proviamo tutta la scena dall'inizio con calma, ascoltando bene ogni singola battuta.",
+   "desc": "VoiceDesign: A deep, seasoned Italian film director voice, man in his fifties, resonant bass-baritone, unhurried pace, crisp articulation.",
+   "seconds": 8.05,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 37,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ja-f1": {
+   "file": "refs/ja-f1.flac",
+   "lang": "ja",
+   "gender": "f",
+   "text": "おはようございます。今日も一日いいお天気になりそうですね。午後の打ち合わせの前に、新しい資料を一緒に確認しておきましょう。",
+   "desc": "VoiceDesign: A calm, clear Tokyo Standard Japanese woman in her late twenties, warm polite voice, steady conversational pace, crisp studio diction.",
+   "seconds": 9.15,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ja-f2": {
+   "file": "refs/ja-f2.flac",
+   "lang": "ja",
+   "gender": "f",
+   "text": "あ、お疲れ様です！さっき駅の前で新しいパン屋さんを見つけたので、お昼休みにみんなで行ってみませんか？",
+   "desc": "VoiceDesign: A bright, cheerful young Japanese woman in her early twenties, expressive friendly tone, natural conversational rhythm.",
+   "seconds": 8.16,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 37,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ja-f3": {
+   "file": "refs/ja-f3.flac",
+   "lang": "ja",
+   "gender": "f",
+   "text": "いつも丁寧に仕事をしてくれて本当にありがとう。来週の大切な会議に向けて、今日も落ち着いて準備を進めましょう。",
+   "desc": "VoiceDesign: A composed, warm Japanese woman in her late forties, rich mid-low voice, calm and assured tone, clear pronunciation.",
+   "seconds": 8.7,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ja-m1": {
+   "file": "refs/ja-m1.flac",
+   "lang": "ja",
+   "gender": "m",
+   "text": "お待たせして申し訳ありません。電車の連絡が少し遅れましたが、本日の企画書はすべて揃っておりますのでご安心ください。",
+   "desc": "VoiceDesign: A clear, warm Tokyo Standard Japanese man in his early thirties, natural baritone voice, polite steady pace, studio quality.",
+   "seconds": 8.31,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 37,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ja-m2": {
+   "file": "refs/ja-m2.flac",
+   "lang": "ja",
+   "gender": "m",
+   "text": "おはようございます！今朝から新しい営業チームで働くことになりました。一生懸命頑張りますので、どうぞよろしくお願いします！",
+   "desc": "VoiceDesign: An energetic, earnest young Japanese man in his mid-twenties, clear tenor timbre, lively natural cadence, crisp articulation.",
+   "seconds": 8.16,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ja-m3": {
+   "file": "refs/ja-m3.flac",
+   "lang": "ja",
+   "gender": "m",
+   "text": "仕事で一番大切なのは、相手の話を最後までよく聞いて、お客様に心から喜んでもらえる提案をすることだよ。",
+   "desc": "VoiceDesign: A deep, seasoned Japanese man in his fifties, resonant baritone voice, calm authority, measured pace and clear diction.",
+   "seconds": 8.53,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ko-f1": {
+   "file": "refs/ko-f1.flac",
+   "lang": "ko",
+   "gender": "f",
+   "text": "안녕하세요, 오늘 아침 날씨가 참 맑고 선선하네요. 회의 시작하기 전에 따뜻한 커피 한 잔 마시면서 오늘 일정을 같이 확인해 볼까요?",
+   "desc": "VoiceDesign: A calm, clear Seoul Standard Korean woman in her late twenties, warm studio voice, steady natural pace, crisp diction.",
+   "seconds": 9.28,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ko-f2": {
+   "file": "refs/ko-f2.flac",
+   "lang": "ko",
+   "gender": "f",
+   "text": "어머, 선배님 여기 계셨네요! 아까부터 계속 찾았는데, 지금 편집실로 바로 가시면 될 것 같아요.",
+   "desc": "VoiceDesign: A bright, energetic young Korean woman in her early twenties, cheerful friendly voice, natural Seoul conversational rhythm.",
+   "seconds": 7.18,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ko-f3": {
+   "file": "refs/ko-f3.flac",
+   "lang": "ko",
+   "gender": "f",
+   "text": "이번 주 방송 준비하느라 다들 정말 고생 많았어요. 마지막까지 대본 꼼꼼하게 확인하고 차분하게 마무리합시다.",
+   "desc": "VoiceDesign: A poised, experienced Korean woman in her late forties, warm confident mid-low voice, articulate broadcasting studio delivery.",
+   "seconds": 8.42,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ko-m1": {
+   "file": "refs/ko-m1.flac",
+   "lang": "ko",
+   "gender": "m",
+   "text": "죄송합니다, 출근길에 버스가 조금 막혀서 오 분 정도 늦었습니다. 오늘 촬영 준비 자료는 책상 위에 모두 정리해 두었습니다.",
+   "desc": "VoiceDesign: A clear, polite Seoul Standard Korean man in his early thirties, warm baritone voice, steady conversational pace, studio quality.",
+   "seconds": 8.39,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 53,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ko-m2": {
+   "file": "refs/ko-m2.flac",
+   "lang": "ko",
+   "gender": "m",
+   "text": "저기요, 혹시 예능국 회의실이 몇 층에 있는지 알려 주실 수 있나요? 오늘이 첫 출근이라 아직 길을 잘 모르겠어요.",
+   "desc": "VoiceDesign: A lively, earnest young Korean man in his mid-twenties, clear tenor voice, natural everyday intonation, clean pronunciation.",
+   "seconds": 8.32,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 37,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "ko-m3": {
+   "file": "refs/ko-m3.flac",
+   "lang": "ko",
+   "gender": "m",
+   "text": "우리 프로그램에서 가장 중요한 건 시청자들과의 약속입니다. 시간이 조금 걸리더라도 제대로 만들어서 내보내야 합니다.",
+   "desc": "VoiceDesign: A deep, grounded Korean man in his fifties, resonant baritone voice, calm authority, measured pace and crisp articulation.",
+   "seconds": 8.4,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "pt-f1": {
+   "file": "refs/pt-f1.flac",
+   "lang": "pt",
+   "gender": "f",
+   "text": "Bom dia! Hoje o tempo está muito agradável aqui no Rio, então vou caminhar um pouco antes de começar a trabalhar no escritório.",
+   "desc": "VoiceDesign: A calm, warm Brazilian Portuguese woman in her late twenties, clear neutral southeastern Brazilian accent, steady pace, studio clarity.",
+   "seconds": 7.68,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 53,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "pt-f2": {
+   "file": "refs/pt-f2.flac",
+   "lang": "pt",
+   "gender": "f",
+   "text": "Oi, amiga, tudo bem com você? Faz tanto tempo que a gente não conversa com calma, vamos marcar um almoço amanhã!",
+   "desc": "VoiceDesign: A bright, cheerful young Brazilian woman in her early twenties, expressive and friendly conversational tone, crisp articulation.",
+   "seconds": 7.28,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "pt-f3": {
+   "file": "refs/pt-f3.flac",
+   "lang": "pt",
+   "gender": "f",
+   "text": "Olha, eu já expliquei três vezes como esse documento funciona, agora precisamos resolver essa questão ainda hoje sem falta.",
+   "desc": "VoiceDesign: A poised, warm Brazilian woman in her late forties, rich mid-low voice, confident and natural delivery, clear pronunciation.",
+   "seconds": 8.21,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 37,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "pt-m1": {
+   "file": "refs/pt-m1.flac",
+   "lang": "pt",
+   "gender": "m",
+   "text": "Com licença, você sabe me dizer se esse ônibus passa perto da estação central ou se é melhor pegar o metrô agora?",
+   "desc": "VoiceDesign: A clear, friendly Brazilian man in his early thirties, warm baritone timbre, natural everyday rhythm, clean studio audio.",
+   "seconds": 7.99,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 53,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "pt-m2": {
+   "file": "refs/pt-m2.flac",
+   "lang": "pt",
+   "gender": "m",
+   "text": "Cara, não acredito que você esqueceu a chave de novo! Espera cinco minutinhos aí na porta que eu já estou descendo.",
+   "desc": "VoiceDesign: A lively, humorous young Brazilian man in his mid-twenties, light tenor voice, spontaneous conversational style, clear diction.",
+   "seconds": 7.19,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "pt-m3": {
+   "file": "refs/pt-m3.flac",
+   "lang": "pt",
+   "gender": "m",
+   "text": "A reunião de hoje foi excelente, conseguimos organizar todos os projetos da equipe para o próximo mês com muita tranquilidade.",
+   "desc": "VoiceDesign: A deep, steady Brazilian man in his fifties, resonant baritone voice, calm and measured delivery, clear studio articulation.",
+   "seconds": 7.99,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 37,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "zh-f1": {
+   "file": "refs/zh-f1.flac",
+   "lang": "zh",
+   "gender": "f",
+   "text": "大家早上好，今天我们的录制时间比较紧，请先喝杯热茶休息一下，然后我们一起核对今天的节目流程。",
+   "desc": "VoiceDesign: A calm, clear Standard Mandarin woman in her late twenties, warm natural broadcast-quality voice, steady pace, crisp tones.",
+   "seconds": 8.57,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "zh-f2": {
+   "file": "refs/zh-f2.flac",
+   "lang": "zh",
+   "gender": "f",
+   "text": "太好了，没想到今天能在电视台见到你！我刚刚看完你们昨天播出的新节目，真的特别精彩。",
+   "desc": "VoiceDesign: A bright, enthusiastic young Mandarin-speaking woman in her early twenties, clear crisp articulation, friendly upbeat tone.",
+   "seconds": 8.3,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "zh-f3": {
+   "file": "refs/zh-f3.flac",
+   "lang": "zh",
+   "gender": "f",
+   "text": "这个策划案的整体方向非常不错，不过细节还需要再认真修改一下，明天上午十点我们准时开会讨论。",
+   "desc": "VoiceDesign: A composed, authoritative Mandarin-speaking woman in her late forties, warm rich timbre, steady pace, crystal-clear pronunciation.",
+   "seconds": 8.37,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 11,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "zh-m1": {
+   "file": "refs/zh-m1.flac",
+   "lang": "zh",
+   "gender": "m",
+   "text": "不好意思让你久等了，刚才路上有一些堵车，我已经把今天下午开会需要用到的资料全部准备好了。",
+   "desc": "VoiceDesign: A clear, warm Standard Mandarin man in his early thirties, natural baritone voice, steady conversational rhythm, studio clarity.",
+   "seconds": 7.48,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "zh-m2": {
+   "file": "refs/zh-m2.flac",
+   "lang": "zh",
+   "gender": "m",
+   "text": "没问题，舞台灯光和音响设备我们都已经检查过两遍了，随时可以开始今天的彩排。",
+   "desc": "VoiceDesign: An energetic, friendly young Mandarin-speaking man in his mid-twenties, bright tenor voice, natural everyday cadence, clear tones.",
+   "seconds": 6.44,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 37,
+     "note": "synthetic, no show audio"
+    }
+   ]
+  },
+  "zh-m3": {
+   "file": "refs/zh-m3.flac",
+   "lang": "zh",
+   "gender": "m",
+   "text": "做一档好节目最重要的就是用心，只要我们把每一个细节都做到位，观众一定能够感受到我们的诚意。",
+   "desc": "VoiceDesign: A deep, steady Mandarin-speaking man in his fifties, resonant baritone, calm seasoned producer tone, unhurried clear diction.",
+   "seconds": 8.26,
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+     "seed": 23,
+     "note": "synthetic, no show audio"
+    }
+   ]
   }
  }
 }

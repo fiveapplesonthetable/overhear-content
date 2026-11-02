@@ -9,7 +9,7 @@ def test_latin_pilot_profiles(lang, show):
     settings = config.load_settings(config.HERE / f'settings.{lang}-qwen-en.json')
     default = config.load_settings()
     assert not settings['lora']['enabled'] and config.en_engine(settings) is None
-    assert settings['forms']['voices'] == settings['clips']['voices'] == {}
+    assert settings['forms']['voices'] == settings['clips']['voices'] == {lang: f'{lang}-f1'}
     assert settings['priority'] == [[show, 1]]
     assert lang not in default['tts']['languages']
     for code,text in [('ru','Привет!'),('fr','Bonjour.')]:
