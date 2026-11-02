@@ -54,6 +54,14 @@ an unclear cue is never used as it stands: take a line you are sure of or leave 
 | `the-producers` | ko | s01/e11.ko.srt | 1038 | full episode, Whisper large-v3, KBS's three parts joined (same caveats as E1) |
 | `boris` | it | s01/e01.it.srt, s01/e01.en.srt | 444 / 441 | full episode (23 min); Italian is Whisper large-v3, English is a fan subtitle (timing matches within a second or two) |
 | `behind-the-scenes` | zh | s01/e01.zh.srt | 901 | full episode (幕后之王 EP01, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e02.zh.srt | 977 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e03.zh.srt | 929 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e04.zh.srt | 1025 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e05.zh.srt | 1042 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e06.zh.srt | 1049 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e07.zh.srt | 972 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e08.zh.srt | 1037 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
+| `behind-the-scenes` | zh | s01/e09.zh.srt | 1051 | full episode (幕后之王, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
 | `the-naked-director` | ja | s01/e01-e08 .ja.srt + .en.srt | e01 704 / 505 | **full season 1** (8 episodes, 45-60 min each), Netflix's own Japanese (closed captions: speaker names in （）, readings in ( ) after kanji, sound cues) and English subtitles |
 | `the-naked-director` | ja | s02/e01-e08 .ja.srt + .en.srt | e01 700 / 618 | **full season 2** (8 episodes, about 45 min each), Netflix's own Japanese (closed captions: speaker names in （）, readings in ( ) after kanji, sound cues) and English subtitles |
 | `alrawabi-school` | ar | s01/e01.ar.srt | 461 | full episode (43 min), Whisper large-v3. The show speaks Jordanian Arabic; Whisper sometimes renders a stretch in formal Arabic or mishears English loanwords ("Zac Efron"), so build lines on cues that read as natural Jordanian speech |
