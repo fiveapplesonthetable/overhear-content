@@ -14,7 +14,7 @@ INTRO = ('Camille is making photocopies at the agency when the machine gives her
  "relaxed and very sure of himself. He is Hippolyte, an actor represented by Andréa. You'll hear their "
  'conversation in French first. Follow who wants what, even if you miss a few words.')
 OPENER = "Let's go through it slowly. The young man walks in and checks on her with a friendly, everyday question."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('That was a nice one to finish on. Keep your ears open for that special yes when you watch. See you next '
  'time!')
 CLOSING = ('camille', 'À bientôt!')
@@ -92,78 +92,24 @@ STORY = [('hippolyte',
   [(261, 'Eh bien... merci quand même')],
   ''),
  ('hippolyte', 'Bonne journée.', 'Have a nice day.', [(262, 'Bonne journée')], '')]
-WALK = [(0,
-  'Tout va bien?',
-  "'Everything okay?' Literally 'all goes well?'. You can ask it of a friend, a colleague, or someone "
-  'fighting with a machine.'),
- (1,
-  'Il fait des caprices.',
-  "'It's playing up.' Literally, it is having tantrums. The machine is treated as masculine in this line, so "
-  'French uses the word also used for he. That follows the gender of the French name for the machine; it '
-  'does not make it a living person.'),
- (2,
-  None,
-  "'No, it's working fine.' The verb here is 'to walk', which in French also means 'to work', for machines "
-  'and for plans. Then he looks at her copies like an art critic.'),
- (3,
-  None,
-  "'The contrast is really good.' Good describes contrast, a masculine word, so it has its masculine shape. "
-  'Contrast here is the difference between light and dark areas of the copies; he uses the technical comment '
-  'as an opening to flirt.'),
- (4,
-  None,
-  "'You're Camille, right?' The tag at the end, literally 'it's that?', turns any sentence into a check. He "
-  "uses the casual 'you' straight away, which is very him."),
- (5,
-  None,
-  "'Yes. Do you work here?' She mirrors his familiar you, instead of using the formal version expected with "
-  'a stranger. Work stays in ordinary statement order and her voice makes it a question.'),
- (6,
-  None,
-  "'I've never seen you.' The negative is wrapped around the helper verb: not, have, never, then 'seen'. The "
-  "little word for 'you' loses its vowel before the verb."),
- (7,
-  None,
-  "'I'm an actor. Hippolyte Rivière.' Notice: no word for 'an'. For a job, French just says 'I am actor'."),
- (8,
-  None,
-  "'Haven't you seen me in Andréa's files?' Hippolyte asks a negative question. And now listen to how "
-  'Camille answers it.'),
- (9,
-  'Si.',
-  "'Yes, I have.' This is a special yes. When someone asks a negative question and you want to say 'yes, "
-  "actually', you don't use the normal word for yes, you use this one. It means 'oh yes I did'."),
- (9,
-  'Vous avez rendez-vous?',
-  "'Do you have an appointment?' French says have appointment without a word for an. Camille now switches to "
-  'the polite you as she returns to her professional duties, after recognising him as a client.'),
- (10,
-  None,
-  "'No, but I'm glad I came.' The word for 'glad' is in the masculine form, because he is a man. Camille "
-  'stays professional.'),
- (11,
-  None,
-  "'What can I do for you?' Camille continues addressing him politely. For introduces the person she offers "
-  'to help. The shift from their earlier familiar chat makes the offer sound like an assistant speaking to a '
-  'client.'),
- (12,
-  None,
-  "'Start by using the familiar you with me.' The word for addressing someone familiarly describes the "
-  'change Hippolyte wants. He asks Camille to return to the way she spoke before discovering he was an '
-  'actor.'),
- (13,
-  None,
-  "'Will you come for a coffee on the terrace?' Take a coffee means have or drink a coffee. On links the "
-  'invitation to a place, and the terrace includes the feminine word for the. He is suggesting a break on '
-  "the agency's terrace."),
- (14,
-  'Je suis occupée.',
-  "'I'm busy.' Here the word for 'busy' has a feminine ending, because Camille is a woman."),
- (14,
-  'Il faut un rendez-vous.',
-  "'You need an appointment.' This phrase means 'it is necessary', 'one needs'."),
- (15, None, "'Well... thanks anyway.' The last two words mean 'all the same', a polite way to accept a no."),
- (16,
-  None,
-  "'Have a nice day.' Literally good day, as a wish. This word for the day is feminine, which gives good its "
-  'feminine ending. Hippolyte says it as he leaves after Camille has refused his invitation.')]
+WALK = [
+    (0, 'Tout va bien?', "'Everything okay?' Literally 'all goes well?'. You can ask it of a friend, a colleague, or someone fighting with a machine."),
+    (1, 'Il fait des caprices.', "'It's playing up.' Literally, it is having tantrums. The machine is treated as masculine in this line, so French uses the word also used for he. That follows the gender of the French name for the machine; it does not make it a living person."),
+    (2, None, "'No, it's working fine.' The verb here is 'to walk', which in French also means 'to work', for machines and for plans. Then he looks at her copies like an art critic."),
+    (3, None, "'The contrast is really good.' Good describes contrast, a masculine word, so it has its masculine shape. Contrast here is the difference between light and dark areas of the copies; he uses the technical comment as an opening to flirt."),
+    (4, None, "'You're Camille, right?' The tag at the end, literally 'it's that?', turns any sentence into a check. He uses the casual 'you' straight away, which is very him."),
+    (5, None, "'Yes. Do you work here?' She mirrors his familiar you, instead of using the formal version expected with a stranger. Work stays in ordinary statement order and her voice makes it a question."),
+    (6, None, "'I've never seen you.' The negative is wrapped around the helper verb: not, have, never, then 'seen'. The little word for 'you' loses its vowel before the verb."),
+    (7, None, "'I'm an actor. Hippolyte Rivière.' Notice: no word for 'an'. For a job, French just says 'I am actor'."),
+    (8, None, "'Haven't you seen me in Andréa's files?' Hippolyte asks a negative question. And now listen to how Camille answers it."),
+    (9, 'Si.', "'Yes, I have.' This is a special yes. When someone asks a negative question and you want to say 'yes, actually', you don't use the normal word for yes, you use this one. It means 'oh yes I did'."),
+    (9, 'Vous avez rendez-vous?', "'Do you have an appointment?' French says have appointment without a word for an. Camille now switches to the polite you as she returns to her professional duties, after recognising him as a client."),
+    (10, None, "'No, but I'm glad I came.' The everyday word for 'glad' is in the masculine form, because he is a man. Camille stays professional."),
+    (11, None, "'What can I do for you?' Camille continues addressing him politely. For introduces the person she offers to help. The shift from their earlier familiar chat makes the offer sound like an assistant speaking to a client."),
+    (12, None, "'Start by using the familiar you with me.' The word for addressing someone familiarly describes the change Hippolyte wants. He asks Camille to return to the way she spoke before discovering he was an actor."),
+    (13, None, "'Will you come for a coffee on the terrace?' Take a coffee means have or drink a coffee. On links the invitation to a place, and the terrace includes the feminine word for the. He is suggesting a break on the agency's terrace."),
+    (14, 'Je suis occupée.', "'I'm busy.' Here the word for 'busy' has a feminine ending, because Camille is a woman."),
+    (14, 'Il faut un rendez-vous.', "'You need an appointment.' This phrase means 'it is necessary', 'one needs'."),
+    (15, None, "'Well... thanks anyway.' The last two words mean 'all the same', a polite way to accept a no."),
+    (16, None, "'Have a nice day.' Literally good day, as a wish. This word for the day is feminine, which gives good its feminine ending. Hippolyte says it as he leaves after Camille has refused his invitation."),
+]

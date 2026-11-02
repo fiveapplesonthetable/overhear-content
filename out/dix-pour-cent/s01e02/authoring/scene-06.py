@@ -14,7 +14,7 @@ INTRO = ('Gabriel joins Line Renaud at a restaurant. The famous singer and actre
  'client of Samuel. She welcomes Gabriel warmly. They remember Samuel, and Line turns a gloomy thought into '
  'a joke. Listen first for the feeling of the conversation.')
 OPENER = "Let's walk through it. Gabriel greets Line, and she thanks him for coming."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("Line Renaud may be in her eighties, but she's the liveliest person in this episode so far. If you caught "
  "the little word for 'what a', you're ready for more. See you next time!")
 CLOSING = ('line', 'Bonne journée!')
@@ -105,79 +105,22 @@ STORY = [('gabriel',
   [(237, 'il a vraiment avalé une guêpe')],
   ''),
  ('line', 'Quel idiot!', 'What an idiot!', [(238, 'Quel idiot !')], '')]
-WALK = [(0,
-  None,
-  "'Hello, Line.' Gabriel greets her by her first name. Their warmth does not mean they use the same form of "
-  'you: Line addresses him familiarly, while he answers her with the polite form. Gabriel shows respect as '
-  'well as warmth.'),
- (1,
-  None,
-  "'How kind of you to come.' Line's opening means how kind you are. The spoken you are runs together into "
-  'one short sound. Kind and come have masculine forms because she is thanking Gabriel, a man.'),
- (2,
-  None,
-  "'Sorry, it's a last-minute lunch.' Line uses the familiar singular command excuse me. The word for lunch "
-  'can also mean to have lunch, but after a it is a noun. Last-minute describes the meal she has arranged.'),
- (3,
-  None,
-  "'Not at all. You were right to improvise.' The opening completely rejects her apology. Literally, Gabriel "
-  'says she did well to improvise. He uses the polite you in answering her familiar excuse me.'),
- (4,
-  None,
-  "'I'm delighted to see you.' Delighted describes Gabriel, so it has a masculine ending. The short word for "
-  'you belongs to see and comes directly before it, even though English puts you after see.'),
- (5,
-  None,
-  "'Our Samuel... It's hard to believe.' Our makes the name affectionate, marking Samuel as someone dear to "
-  'both of them. Hard to believe describes news that is difficult to accept, even though they know it is '
-  'true.'),
- (6,
-  None,
-  "'He's the one who trained you, isn't he?' The opening picks out Samuel: he is the one. The short you "
-  'joins the past helper before trained. Line is still addressing Gabriel familiarly, and her final no asks '
-  'him to confirm the memory.'),
- (7,
-  None,
-  "'Yes, we're all orphans now.' Literally all orphans: Gabriel compares the agency's loss of Samuel to "
-  'children losing a parent. All has a final s sound here because it stands for all of us, rather than '
-  'sitting before the word for days as in every day.'),
- (8,
-  None,
-  "'Two months ago, the two of us were having lunch here.' The opening places the memory two months in the "
-  'past. Were having lunch paints the scene as it was happening. The final expression means both of us, so '
-  'the everyday we clearly refers to Line and Samuel.'),
- (9,
-  None,
-  "'What a good friend. What a gentleman!' This same little exclamation word twice: it means 'what a'. The "
-  'last word is borrowed straight from English. Then a surprise.'),
- (10,
-  None,
-  "'That put one of my feet in the grave.' The French wording says that put a foot in the grave for me. The "
-  'small me attaches to the past helper, while in places the foot inside the grave. Line turns grief into a '
-  'physical image.'),
- (11,
-  None,
-  "'But you know me: I quickly pulled it back.' Line's familiar you returns in you know me. It refers to the "
-  'foot and sits before the past helper. Quickly gives the image its comic reversal: she refuses to stay in '
-  'the grave.'),
- (12,
-  None,
-  "'You're not the melancholy type.' The negative wraps around the verb 'are', and the formal 'you' again. "
-  'Line agrees cheerfully.'),
- (13,
-  None,
-  "'Melancholy? No, no!' She repeats his description as a question and then firmly rejects it. The word has "
-  'the same ending when describing a man or a woman, so her repetition does not need a different ending.'),
- (14,
-  None,
-  "'And the rumours from Rio, are they true?' French can name the topic first and then ask is that true. The "
-  'singular that treats the whole story as one claim, even though rumours is plural. Gabriel sets the record '
-  'straight.'),
- (15,
-  None,
-  "'No, I swear, he really did swallow a wasp.' The past once more: 'has' plus 'swallowed'. As strange as it "
-  "sounds, it's true. And Line has the last word."),
- (16,
-  None,
-  "'What an idiot!' This same exclamation word as before. She says it with love, the way you'd talk about a "
-  "dear old friend. Here's the whole lunch one more time.")]
+WALK = [
+    (0, None, "'Hello, Line.' Gabriel greets her by her first name. Their warmth does not mean they use the same form of you: Line addresses him familiarly, while he answers her with the polite form. Gabriel shows respect as well as warmth."),
+    (1, None, "'How kind of you to come.' Line's opening means how kind you are. The spoken you are runs together into one short sound. Kind and come have masculine forms because she is thanking Gabriel, a man."),
+    (2, None, "'Sorry, it's a last-minute lunch.' Line uses the familiar singular command excuse me. The word for lunch can also mean to have lunch, but after a it is a noun. Last-minute describes the meal she has arranged."),
+    (3, None, "'Not at all. You were right to improvise.' The opening completely rejects her apology. Literally, Gabriel says she did well to improvise. He uses the polite you in answering her familiar excuse me."),
+    (4, None, "'I'm delighted to see you.' Delighted describes Gabriel, so it has a masculine ending. The short word for you belongs to see and comes directly before it, even though English puts you after see."),
+    (5, None, "'Our Samuel... It's hard to believe.' Our makes the name affectionate, marking Samuel as someone dear to both of them. Hard to believe describes news that is difficult to accept, even though they know it is true."),
+    (6, None, "'He's the one who trained you, isn't he?' The opening picks out Samuel: he is the one. The short you joins the past helper before trained. Line is still addressing Gabriel familiarly, and her final no asks him to confirm the memory."),
+    (7, None, "'Yes, we're all orphans now.' Literally all orphans: Gabriel compares the agency's loss of Samuel to children losing a parent. All has a final s sound here because it stands for all of us, rather than sitting before the word for days as in every day."),
+    (8, None, "'Two months ago, the two of us were having lunch here.' The opening places the memory two months in the past. Were having lunch paints the scene as it was happening. The final expression means both of us, so the everyday we clearly refers to Line and Samuel."),
+    (9, None, "'What a good friend. What a gentleman!' This same little exclamation word twice: it means 'what a'. The last word is borrowed straight from English. Then a surprise."),
+    (10, None, "'That put one of my feet in the grave.' The French wording says that put a foot in the grave for me. The small me attaches to the past helper, while in places the foot inside the grave. Line turns grief into a physical image."),
+    (11, None, "'But you know me: I quickly pulled it back.' Line's familiar you returns in you know me. It refers to the foot and sits before the past helper. Quickly gives the image its comic reversal: she refuses to stay in the grave."),
+    (12, None, "'You're not the melancholy type.' The negative wraps around the verb 'are', and the formal 'you' again. Line agrees cheerfully."),
+    (13, None, "'Melancholy? No, no!' She repeats his description as a question and then firmly rejects it. The word has the same ending when describing a man or a woman, so her repetition does not need a different ending."),
+    (14, None, "'And the rumours from Rio, are they true?' French can name the topic first and then ask is that true. The singular that treats the whole story as one claim, even though rumours is plural. Gabriel sets the record straight."),
+    (15, None, "'No, I swear, he really did swallow a wasp.' The past once more: 'has' plus 'swallowed'. As strange as it sounds, it's true. And Line has the last word."),
+    (16, None, "'What an idiot!' The same exclamation word as before. She says it with love, the way you'd talk about a dear old friend."),
+]

@@ -38,7 +38,7 @@ WALK = [
     (5, None, '\'So that fake repairman stole it.\' "Fal\'shivyy", fake, comes from German "falsch". "Ukral", stole, is the singular of the chef\'s "ukrali".'),
     (6, None, '\'What an insolent, vile thief!\' "Vot zhe" turns the sentence into "what a...!". "Naglyy" is "cheeky" or "insolent", "podlyy" is "vile", and "vor" is a thief.'),
     (7, None, '\'This bottle costs huge money.\' "Stoit", costs, is spelled exactly like "stoit", stands, and context tells you which. Russians say "ogromnykh deneg", "of huge money".'),
-    (8, None, '\'Excuse me, I will fix everything right now.\' "Ispravlyu", I\'ll fix, comes from "pravyy", right: you make it right again. "Izvinite" is the polite "excuse me".'),
+    (8, None, '\'Excuse me, I will fix everything right now.\' "Ispravlyu", I\'ll fix, comes from "pravyy", right: you make it right again. "Izvinite" gives the polite "excuse me".'),
     (9, None, '\'Where did you run so fast?\' "Kuda", where to, again. "Pobezhal" is "ran off", and the "po-" marks the start of the run.'),
     (10, None, '\'I will catch up with that thief and return the cognac!\' "Dogonyu", I\'ll catch up, is "gonyat\'", to chase, with "do-", as far as. "Vernu" is "I\'ll return".'),
     (11, None, '\'Just you dare not bring it back!\' "Poprobuy tol\'ko" is "just try", a threat, close to "don\'t you dare". "Nazad", back, ends it.'),

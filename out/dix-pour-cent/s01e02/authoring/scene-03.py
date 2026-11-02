@@ -16,7 +16,7 @@ INTRO = ("The phones won't stop: the funeral is on Thursday at Père-Lachaise, a
  'everything.')
 OPENER = ("Let's go through it. Mathias has settled into the chair at the head of the table, and Andréa says what "
  'everyone is thinking.')
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('The same familiar you can carry an argument as well as a friendly chat. Here it accompanies a dispute over '
  "Samuel's chair, a client and an urgent deadline. Listen again for how the small words for you change "
  'position when someone is doing an action or receiving it. See you next time!')
@@ -95,89 +95,26 @@ STORY = [('andrea',
   "If it's not sorted out within twenty-four hours, I step in!",
   [(144, "Réglez ça en 24 heures ou j'interviens")],
   'Restores the actual French conditional threat; dual subtitles had invented a formal command.')]
-WALK = [(0,
-  None,
-  "'It bothers me to see you sitting there.' Me names the person bothered and comes before bothers. The "
-  'second short object names the person she sees: you. Andréa uses familiar address with her colleague, '
-  'despite the tense exchange.'),
- (1,
-  None,
-  "'It's a chair.' The word for chair is feminine, so it takes the feminine word for a. Mathias reduces "
-  "Samuel's place at the head of the table to an ordinary object."),
- (2,
-  None,
-  "'No, it's Samuel's place. He died six days ago.' To say whose something is, French says the place of "
-  'Samuel. Place is his seat or spot, rather than the piece of furniture Mathias called a chair.'),
- (2,
-  'Il est mort il y a six jours.',
-  "'He died six days ago.' The three short words before six days normally mean there is. Before a length of "
-  'time, together they mean ago: count backwards from now. Six ends without an s sound here, because days '
-  'begins with a consonant.'),
- (3,
-  None,
-  "'Let's not waste time on details.' Mathias gives a 'let's' command, made negative as the two negative "
-  'words go around the action word.'),
- (4,
-  'Nous avons des problèmes urgents.',
-  "'We have urgent problems.' The adjective comes after the noun, as most French adjectives do."),
- (4,
-  'À commencer par les clients de Samuel.',
-  "'Starting with Samuel's clients.' Starting with introduces the first item to deal with, rather than the "
-  'time work begins. Clients can mean customers in a shop or people represented by an agent, as here.'),
- (5,
-  None,
-  "'If word gets out, they'll leave.' The first part literally means 'if it becomes known'. Then the near "
-  "future: 'they are going to leave'."),
- (6,
-  None,
-  "'Here's what I suggest.' The first word is how you present something: 'here is'. He hands out a "
-  'document.'),
- (7,
-  None,
-  "'A spreadsheet with what each person earns?' Each is followed by person in the singular, even though many "
-  'people appear in the spreadsheet. Earn concerns income here; the same action word also means win a game.'),
- (8,
-  None,
-  "'Exactly.' This can stand alone as an emphatic agreement: that's right. Its ending corresponds to the "
-  "English ending in exactly. Mathias calmly confirms that he has listed the clients' earnings."),
- (9,
-  'Tu veux Françoise Fabian?',
-  "'You want Françoise Fabian?' Ordinary statement order becomes a spoken question through the voice. "
-  'Wanting her means taking her on as a client. Andréa uses the familiar you with Mathias, as in the '
-  'original conversation.'),
- (9,
-  "Je l'ai vue ce matin.",
-  "'I saw her this morning.' The little word for 'her' sits before the verb, and loses its vowel. And "
-  "because 'her' comes first, the past form of 'to see' takes an extra e on paper. You can't hear it."),
- (10,
-  None,
-  "'You approached her?' The past form carries an extra e because her, placed before it, refers to "
-  "Françoise. That written agreement is silent. Mathias suspects Andréa of soliciting another agent's "
-  'client.'),
- (11,
-  None,
-  "'No! She's the one who asked to see me.' The pattern 'it's her who' puts the stress on 'her'. In the show "
-  'Andréa also mocks him with a fake German army title.'),
- (12,
-  None,
-  "'She wants you?' You is the person wanted here, not the person speaking. French keeps it before wants; "
-  'compare the earlier question, where you was the person doing the wanting.'),
- (13,
-  None,
-  "'Yes. Well, it's complicated.' The second word here is a little hesitation, like 'well' or 'I mean'."),
- (14,
-  None,
-  "'She says she doesn't want to do Gabor's film.' The little word meaning that joins what she says to her "
-  'reported decision. It loses its final vowel before she, so the two are written with an apostrophe.'),
- (15,
-  None,
-  "'I'll call her.' The near future once more, with the little word for 'her' right before the action word."),
- (16,
-  None,
-  "'No, Mathias, I'm handling it!' Literally 'it's me who manages'. The same pattern as before, to say 'me, "
-  "not you'."),
- (17,
-  None,
-  "'If it's not sorted out within twenty-four hours, I step in!' If makes the unresolved problem a condition "
-  'for his intervention. Within gives the deadline. The final I step in works as a threat about the future, '
-  'though its wording is present.')]
+WALK = [
+    (0, None, "'It bothers me to see you sitting there.' Me names the person bothered and comes before bothers. The second short object names the person she sees: you. Andréa uses familiar address with her colleague, despite the tense exchange."),
+    (1, None, "'It's a chair.' The word for chair is feminine, so it takes the feminine word for a. Mathias reduces Samuel's place at the head of the table to an ordinary object."),
+    (2, None, "'No, it's Samuel's place. He died six days ago.' To say whose something is, French says the place of Samuel. Place is his seat or spot, rather than the piece of furniture Mathias called a chair."),
+    (2, 'Il est mort il y a six jours.', "'He died six days ago.' The three short words before six days normally mean there is. Before a length of time, together they mean ago: count backwards from now. Six ends without an s sound here, because days begins with a consonant."),
+    (3, None, "'Let's not waste time on details.' Mathias gives a 'let's' command, made negative as the two negative words go around the action word."),
+    (4, 'Nous avons des problèmes urgents.', "'We have urgent problems.' The adjective comes after the noun, as most French adjectives do."),
+    (4, 'À commencer par les clients de Samuel.', "'Starting with Samuel's clients.' Starting with introduces the first item to deal with, rather than the time work begins. Clients can mean customers in a shop or people represented by an agent, as here."),
+    (5, None, "'If word gets out, they'll leave.' The first part literally means 'if it becomes known'. Then the near future: 'they are going to leave'."),
+    (6, None, "'Here's what I suggest.' The first word is how you present something: 'here is'. He hands out a document."),
+    (7, None, "'A spreadsheet with what each person earns?' Each is followed by person in the singular, even though many people appear in the spreadsheet. Earn concerns income here; the same action word also means win a game."),
+    (8, None, "'Exactly.' This can stand alone as an emphatic agreement: that's right. Its ending corresponds to the English ending in exactly. Mathias calmly confirms that he has listed the clients' earnings."),
+    (9, 'Tu veux Françoise Fabian?', "'You want Françoise Fabian?' Ordinary statement order becomes a spoken question through the voice. Wanting her means taking her on as a client. Andréa uses the familiar you with Mathias, as in the original conversation."),
+    (9, "Je l'ai vue ce matin.", "'I saw her this morning.' The little word for 'her' sits before the verb, and loses its vowel. And because 'her' comes first, the past form of 'to see' takes an extra e on paper. You can't hear it."),
+    (10, None, "'You approached her?' The past form carries an extra e because her, placed before it, refers to Françoise. That written agreement is silent. Mathias suspects Andréa of soliciting another agent's client."),
+    (11, None, "'No! She's the one who asked to see me.' The pattern 'it's her who' puts the stress on 'her'. In the show Andréa also mocks him with a fake German army title."),
+    (12, None, "'She wants you?' You is the person wanted here, not the person speaking. French keeps it before wants; compare the earlier question, where you was the person doing the wanting."),
+    (13, None, "'Yes. Well, it's complicated.' The second word here is a little hesitation, like 'well' or 'I mean'."),
+    (14, None, "'She says she doesn't want to do Gabor's film.' The little word meaning that joins what she says to her reported decision. It loses its final vowel before she, so the two are written with an apostrophe."),
+    (15, None, "'I'll call her.' The near future once more, with the little word for 'her' right before the action word."),
+    (16, None, "'No, Mathias, I'm handling it!' Literally 'it's me who manages'. The same pattern as before, to say 'me, not you'."),
+    (17, None, "'If it's not sorted out within twenty-four hours, I step in!' If makes the unresolved problem a condition for his intervention. Within gives the deadline. The final I step in works as a threat about the future, though its wording is present."),
+]

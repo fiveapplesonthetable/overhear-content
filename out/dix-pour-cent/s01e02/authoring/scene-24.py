@@ -14,7 +14,7 @@ INTRO = ('It is late at the agency. Camille is still working when Hippolyte arri
  'Later they sit together in a bar, where he explains a film trick and their conversation becomes '
  'flirtatious. Listen first to their greetings, questions and cautious jokes.')
 OPENER = "Let's walk through it slowly. Hippolyte appears at the door with the evening greeting."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ('The conversation moves from collecting a script to talking about kisses on screen. You heard a special yes '
  'that contradicts no, and the everyday expression more or less. Watch how the imagined line between them '
  'becomes an excuse to move closer. See you next time!')
@@ -71,63 +71,21 @@ STORY = [('hippolyte', 'Bonsoir.', 'Good evening.', [(661, 'Bonsoir')], ''),
   'Neutral adaptation continuing the lesson’s narrowed discussion of kissing.'),
  ('camille', 'Ils font ça comme ça?', 'They do it like that?', [(684, 'Ils font ça comme ça')], ''),
  ('hippolyte', 'Plus ou moins.', 'More or less.', [(685, 'Plus ou moins')], '')]
-WALK = [(0,
-  None,
-  "'Good evening.' This greeting suits an evening arrival; it does not depend on whether it is already dark. "
-  'Hippolyte has come to the agency after the usual working hours.'),
- (1,
-  'Il est vraiment tard.',
-  "'It's really late.' To talk about the time, French uses 'it is', just like English."),
- (1,
-  'Andréa est déjà partie.',
-  "'Andréa has already left.' Left uses the helper be in French: literally, Andréa is already left. The "
-  'silent feminine ending agrees with Andréa. The other verb for leaving something behind, which Hippolyte '
-  'uses next, works differently.'),
- (2, 'Oui, désolé.', "'Yes, sorry.' He apologises for the hour, but he doesn't leave."),
- (2,
-  "Andréa m'a laissé un scénario ici.",
-  "'Andréa left a script here for me.' Compare: this verb, 'to leave something', takes 'to have' in the "
-  "past. The little word for 'me' is squeezed in before the verb."),
- (3,
-  None,
-  "'No, she didn't leave anything.' The negative wraps around the helper verb, with the word for 'nothing' "
-  'as the second half.'),
- (4,
-  None,
-  "'Help yourself!' Literally, give yourself pleasure. The short yourself attaches to the command with a "
-  'hyphen. Camille is using the familiar you here; the original spoken invitation is even more abbreviated.'),
- (5,
-  None,
-  "'Thanks, Camille.' A name can follow thanks directly, just as in English. He has found the script, but "
-  'the conversation continues. Later we see them sitting together in a bar.'),
- (6,
-  None,
-  "'Let's suppose there's an invisible axis between you and me.' Let's suppose invites Camille to imagine a "
-  'line between them. The two people appear as you and me after between. The familiar you makes their '
-  'conversation sound close and relaxed.'),
- (7,
-  None,
-  "'It's a weird thing directors do.' The word for 'thing' here is the casual one, 'thingy'. He is showing "
-  'off a film trick, framing her with his hands.'),
- (8,
-  None,
-  "'When you watch films, love scenes...' When introduces a familiar situation, rather than asking a "
-  'question about time. Scenes of love uses the short word for of before love; the two nouns stay separate '
-  'words.'),
- (9,
-  None,
-  "'They really kiss.' The short sound attached to kiss means each other. Both people take part in the kiss. "
-  'Really stresses that the action happens, rather than being only a camera trick.'),
- (10, None, "'No!' Camille doesn't believe a word of it."),
- (11,
-  None,
-  "'Yes, they do it for real.' To contradict a 'no', French has a special 'yes', different from the usual "
-  "one. Then the expression 'for real'."),
- (12,
-  None,
-  "'They do it like that?' Camille asks a question made just with her voice going up. The words for 'like "
-  "that' are worth learning as a pair."),
- (13,
-  None,
-  "'More or less.' More and less join with or to make an approximate answer. Here more is positive: it is "
-  'not the expression meaning no longer. Hippolyte uses the answer to continue their flirtation.')]
+WALK = [
+    (0, None, "'Good evening.' This greeting suits an evening arrival; it does not depend on whether it is already dark. Hippolyte has come to the agency after the usual working hours."),
+    (1, 'Il est vraiment tard.', "'It's really late.' To talk about the time, French uses 'it is', just like English."),
+    (1, 'Andréa est déjà partie.', "'Andréa has already left.' Left uses the helper be in French: literally, Andréa is already left. The silent feminine ending agrees with Andréa. The other verb for leaving something behind, which Hippolyte uses next, works differently."),
+    (2, 'Oui, désolé.', "'Yes, sorry.' He apologises for the hour, but he doesn't leave."),
+    (2, "Andréa m'a laissé un scénario ici.", "'Andréa left a script here for me.' Compare: this verb, 'to leave something', takes 'to have' in the past. The little word for 'me' is squeezed in before the verb."),
+    (3, None, "'No, she didn't leave anything.' The negative wraps around the helper verb, with that word meaning 'nothing' as the second half."),
+    (4, None, "'Help yourself!' Literally, give yourself pleasure. The short yourself attaches to the command with a hyphen. Camille is using the familiar you here; the original spoken invitation is even more abbreviated."),
+    (5, None, "'Thanks, Camille.' A name can follow thanks directly, just as in English. He has found the script, but the conversation continues. Later we see them sitting together in a bar."),
+    (6, None, "'Let's suppose there's an invisible axis between you and me.' Let's suppose invites Camille to imagine a line between them. The two people appear as you and me after between. The familiar you makes their conversation sound close and relaxed."),
+    (7, None, "'It's a weird thing directors do.' This expression for 'thing' here is the casual one, 'thingy'. He is showing off a film trick, framing her with his hands."),
+    (8, None, "'When you watch films, love scenes...' When introduces a familiar situation, rather than asking a question about time. Scenes of love uses the short word for of before love; the two nouns stay separate words."),
+    (9, None, "'They really kiss.' The short sound attached to kiss means each other. Both people take part in the kiss. Really stresses that the action happens, rather than being only a camera trick."),
+    (10, None, "'No!' Camille doesn't believe a word of it."),
+    (11, None, "'Yes, they do it for real.' To contradict a 'no', French has a special 'yes', different from the usual one. Then the expression 'for real'."),
+    (12, None, "'They do it like that?' Camille asks a question made just with her voice going up. The words for 'like that' are worth learning as a pair."),
+    (13, None, "'More or less.' More and less join with or to make an approximate answer. Here more is positive: it is not the expression meaning no longer. Hippolyte uses the answer to continue their flirtation."),
+]

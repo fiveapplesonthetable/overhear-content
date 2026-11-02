@@ -14,7 +14,7 @@ INTRO = ('After the tribute, Andréa and Gabriel speak to director Gabor and pro
  "want the film's leading role. The agents propose changing the story so the two actresses can play a couple "
  "of elderly robbers together. Listen first to the suggestion and Gabor's response.")
 OPENER = "Let's go through it slowly. Andréa opens with a question that sounds simple, but changes everything."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("A what-if question turns the casting problem into a new idea. Andréa and Gabriel sell the combination's "
  'appeal, while Emma points out that two stars also mean two fees. Listen again to the suggestion and the '
  'offer of a lower price. See you next time!')
@@ -87,60 +87,18 @@ STORY = [('andrea',
   [(769, 'On vous fait un bon prix')],
   'Restores actual on va te faire un petit prix, addressed familiarly to Emma, not formal vous. Andréa '
   'speaks in the primary video.')]
-WALK = [(0,
-  None,
-  "'What if we took them both?' What if opens a suggestion. The past-shaped took imagines a possible casting "
-  'choice. Them refers to the actresses, and the final expression both of them makes clear that Andréa wants '
-  'the pair.'),
- (1,
-  None,
-  "'Bonnie and Clyde at eighty, with two women!' The famous couple of robbers, but old, and both played by "
-  "women. The number eighty in French is literally 'four twenties', an old way of counting."),
- (2,
-  None,
-  "'That's modern.' Andréa names the idea with that and then describes it: that, it is modern. Repeating the "
-  'topic this way is common in conversation. She presents the two-woman couple as the fresh element.'),
- (3,
-  None,
-  "'You mean a real couple of women?' Emma asks Andréa to clarify the idea, using familiar you. Mean is "
-  'literally want to say. Real makes clear that she is asking about a romantic couple, rather than simply '
-  'two women in the cast.'),
- (4,
-  None,
-  "'Yes. Line Renaud and Françoise Fabian.' Andréa's yes confirms Gabor's understanding. She then joins the "
-  'two full names with and, presenting the actresses as a pair rather than two competing choices.'),
- (5,
-  None,
-  "'We've just seen them.' Come followed by the short linking word and see means have just seen. Them stands "
-  'for Line and Françoise and sits before see. Andréa points to the tribute they have all watched.'),
- (6,
-  None,
-  "'Each one is a star.' The first word is the feminine 'each one', because he's talking about two women."),
- (7,
-  None,
-  "'But together…' But turns away from considering each actress separately. Together invites Gabor to "
-  'imagine the two in the same film. Andréa leaves the thought unfinished to make the combination sound '
-  'intriguing.'),
- (8,
-  None,
-  "'Did you see that?' The French past uses have plus seen. That points back to the actresses' joint "
-  "appearance at the tribute. The short question asks Gabor to share Andréa's reaction to what they "
-  'watched.'),
- (9,
-  None,
-  "'It's totally unexpected.' Totally strengthens unexpected: Gabriel sells the combination as completely "
-  'surprising. Unexpected describes the proposal itself, rather than either individual actress.'),
- (10,
-  None,
-  "'People will talk about it, that's certain.' The French wording literally says that is going to make "
-  'people talk. The idea itself is the subject. Going to presents its publicity as an expected result, and '
-  "certain adds Gabriel's confidence."),
- (11,
-  None,
-  "'And that's two fees instead of one.' Emma brings up the cost. A fee here is the payment to a performer. "
-  'Instead of is literally in the place of, comparing the two payments with the single one they had '
-  'planned.'),
- (12,
-  None,
-  "'We'll give you a good price.' Literally, we are going to make you a little price. Little describes a "
-  'reduced price, not a small object. Andréa uses familiar you with Emma while offering a deal.')]
+WALK = [
+    (0, None, "'What if we took them both?' What if opens a suggestion. The past-shaped took imagines a possible casting choice. Them refers to the actresses, and the final expression both of them makes clear that Andréa wants the pair."),
+    (1, None, "'Bonnie and Clyde at eighty, with two women!' The famous couple of robbers, but old, and both played by women. The number eighty in French is literally 'four twenties', an old way of counting."),
+    (2, None, "'That's modern.' Andréa names the idea with that and then describes it: that, it is modern. Repeating the topic this way is common in conversation. She presents the two-woman couple as the fresh element."),
+    (3, None, "'You mean a real couple of women?' Emma asks Andréa to clarify the idea, using familiar you. Mean is literally want to say. Real makes clear that she is asking about a romantic couple, rather than simply two women in the cast."),
+    (4, None, "'Yes. Line Renaud and Françoise Fabian.' Andréa's yes confirms Gabor's understanding. She then joins the two full names with and, presenting the actresses as a pair rather than two competing choices."),
+    (5, None, "'We've just seen them.' Come followed by the short linking word and see means have just seen. Them stands for Line and Françoise and sits before see. Andréa points to the tribute they have all watched."),
+    (6, None, "'Each one is a star.' The first word is the feminine 'each one', because he's talking about two women."),
+    (7, None, "'But together…' But turns away from considering each actress separately. Together invites Gabor to imagine the two in the same film. Andréa leaves the thought unfinished to make the combination sound intriguing."),
+    (8, None, "'Did you see that?' The French past uses have plus seen. That points back to the actresses' joint appearance at the tribute. The short question asks Gabor to share Andréa's reaction to what they watched."),
+    (9, None, "'It's totally unexpected.' Totally strengthens unexpected: Gabriel sells the combination as completely surprising. Unexpected describes the proposal itself, rather than either individual actress."),
+    (10, None, "'People will talk about it, that's certain.' The French wording literally says that is going to make people talk. The idea itself is the subject. Going to presents its publicity as an expected result, and certain adds Gabriel's confidence."),
+    (11, None, "'And that's two fees instead of one.' Emma brings up the cost. A fee here is the payment to a performer. Instead of is literally in the place of, comparing the two payments with the single one they had planned."),
+    (12, None, "'We'll give you a good price.' Literally, we are going to make you a little price. Little describes a reduced price, not a small object. Andréa uses familiar you with Emma while offering a deal."),
+]

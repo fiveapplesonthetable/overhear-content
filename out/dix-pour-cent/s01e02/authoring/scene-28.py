@@ -72,54 +72,17 @@ STORY = [('hippolyte',
   ''),
  ('camille', "J'ai soif.", "I'm thirsty.", [(791, "J'ai soif")], ''),
  ('hippolyte', 'On va prendre un verre?', 'Shall we get a drink?', [(792, 'On va prendre un verre')], '')]
-WALK = [(0,
-  None,
-  "'Yes, I ran in the cemetery.' Have plus run places the action in the past. In the cemetery gives the "
-  "location. Hippolyte repeats Camille's wording as he answers her question."),
- (1,
-  None,
-  "'This is Catherine, my mother.' The first word is the one you use to present someone: 'here is'. Camille "
-  'greets her politely.'),
- (2,
-  None,
-  "'Hello, madam.' The second word is a respectful way to address a woman. It adds politeness to the "
-  'greeting without using a word for you. Catherine and Camille have just been introduced.'),
- (3,
-  None,
-  "'This is Camille, Andréa's new assistant.' To say whose assistant, French says 'the assistant of Andréa'. "
-  "There's no apostrophe-s. Then a bit of family history."),
- (4,
-  None,
-  "'My husband worked with Samuel for fifteen years.' Husband names Catherine's relationship to Mathias. For "
-  'introduces the length of time they worked together, while with names his colleague, Samuel.'),
- (5,
-  None,
-  "'Speak of the devil… Mathias!' The saying literally means when you speak of the wolf. Catherine has just "
-  'mentioned her husband when he appears. He remarks that the whole family is here and introduces Camille as '
-  "Andréa's assistant."),
- (6,
-  None,
-  "'Yes, Hippolyte told me.' Catherine answers Mathias's description of Camille. Told it to me packs two "
-  "small objects into the French past: me identifies the person informed, and it refers to Camille's job."),
- (7,
-  None,
-  "'I didn't know you had a son who was an actor.' Camille speaks to Mathias with formal you in front of the "
-  'others. Had a son makes the discovery personal. The word actor here covers performers generally, rather '
-  'than only people who do comedy.'),
- (8,
-  None,
-  "'Why didn't you tell me that?' Camille now turns to Hippolyte and uses familiar you. The negative "
-  'surrounds the past helper, while me comes before it. Her question asks why he kept the family connection '
-  'from her.'),
- (9,
-  None,
-  "'What difference does it make?' Literally what does that change? That stands for the fact they have just "
-  'discussed. For Hippolyte it seems unimportant, while Camille understands that they share a father.'),
- (10,
-  None,
-  "'I'm thirsty.' In French you don't 'are' thirsty, you 'have' thirst. It's her way of escaping the "
-  'conversation.'),
- (11,
-  None,
-  "'Shall we get a drink?' Literally 'we're going to take a glass?'. The verb 'to go' plus another verb "
-  'talks about the near future. Now listen to the whole scene again.')]
+WALK = [
+    (0, None, "'Yes, I ran in the cemetery.' Have plus run places the action in the past. In the cemetery gives the location. Hippolyte repeats Camille's wording as he answers her question."),
+    (1, None, "'This is Catherine, my mother.' The first word is the one you use to present someone: 'here is'. Camille greets her politely."),
+    (2, None, "'Hello, madam.' The second word is a respectful way to address a woman. It adds politeness to the greeting without using a word for you. Catherine and Camille have just been introduced."),
+    (3, None, "'This is Camille, Andréa's new assistant.' To say whose assistant, French says 'the assistant of Andréa'. There's no apostrophe-s. Then a bit of family history."),
+    (4, None, "'My husband worked with Samuel for fifteen years.' Husband names Catherine's relationship to Mathias. For introduces the length of time they worked together, while with names his colleague, Samuel."),
+    (5, None, "'Speak of the devil… Mathias!' The saying literally means when you speak of the wolf. Catherine has just mentioned her husband when he appears. He remarks that the whole family is here and introduces Camille as Andréa's assistant."),
+    (6, None, "'Yes, Hippolyte told me.' Catherine answers Mathias's description of Camille. Told it to me packs two small objects into the French past: me identifies the person informed, and it refers to Camille's job."),
+    (7, None, "'I didn't know you had a son who was an actor.' Camille speaks to Mathias with formal you in front of the others. Had a son makes the discovery personal. The word actor here covers performers generally, rather than only people who do comedy."),
+    (8, None, "'Why didn't you tell me that?' Camille now turns to Hippolyte and uses familiar you. The negative surrounds the past helper, while me comes before it. Her question asks why he kept the family connection from her."),
+    (9, None, "'What difference does it make?' Literally what does that change? That stands for the fact they have just discussed. For Hippolyte it seems unimportant, while Camille understands that they share a father."),
+    (10, None, "'I'm thirsty.' In French you don't 'are' thirsty, you 'have' thirst. It's her way of escaping the conversation."),
+    (11, None, "'Shall we get a drink?' Literally 'we're going to take a glass?'. The verb 'to go' plus another verb talks about the near future."),
+]

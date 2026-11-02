@@ -36,7 +36,7 @@ WALK = [
     (2, None, '\'This is our chef\'s favorite knife!\' "Lyubimyy nozh" is the "loved knife" again. "Nashego shefa", "of our chef", puts an "of" ending on both words.'),
     (3, None, '\'The chef has been looking for it all morning.\' "Ishchet uzhe", "looks already", uses the present for something that started earlier and is still going. "Vsyo utro" is "the whole morning".'),
     (4, None, '\'I simply wanted to wash dishes.\' "Pomyt\'" is the finished partner of "myt\'", to wash. "Posuda", dishes, is a single word for all the crockery.'),
-    (5, None, '\'If the chef sees the knife, there will be a scandal!\' Unlike English, Russian keeps the future after "esli", if: "uvidit" is "will see", where English says "sees". "Budet skandal" is literally "will be scandal", with no "a" anywhere.'),
+    (5, None, '\'If the chef sees the knife, there will be a scandal!\' Unlike English, Russian keeps the future after "esli", if: "uvidit" is "will see", where English says "sees". "Budet skandal" literally says "will be scandal", with no "a" anywhere.'),
     (6, None, '\'He will yell at us very loudly.\' "Budet krichat\'" is "will shout", made from "budet" plus the verb. "Na nas" is "at us", and "ochen\' sil\'no" is "very strongly".'),
     (7, None, '\'What should I do now?\' "Chto mne delat\'" is "what to me to do", the same "should I" pattern again. "Zhe" adds worry.'),
     (8, None, '\'Get it off the table while nobody is looking.\' "Uberi" is the go-to command for clearing something away. In "so stola", off the table, "s" grows to "so" before the cluster "st", and "stol" adds -a. Then a double negative again: "nikto ne vidit", nobody not sees.'),

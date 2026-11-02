@@ -15,7 +15,7 @@ INTRO = ('Mathias confronts Camille outside the agency about Hippolyte. He knows
  'declines her request for a light. Arlette then quietly offers comfort. Listen to the last scene of the '
  'episode in French first.')
 OPENER = "Let's take it slowly. Mathias walks straight up to Camille and attacks."
-TRANSITION = "Now let's listen to the entire dialogue once more."
+TRANSITION = "Now let's listen to the whole dialogue again."
 OUTRO = ("The second episode ends with a painful family argument and a quiet gesture of comfort. Arlette's final "
  'image links the cigarette smoke with troubles that will eventually pass. Listen again to the shift from '
  'accusations to reassurance. See you next time!')
@@ -72,57 +72,17 @@ STORY = [('mathias',
   'Sorrows, men, everything eventually goes up in smoke.',
   [(841, 'Les chagrins, les hommes'), (842, 'tout part en fumée')],
   'Restores actual finit par partir, eventually goes, omitted by dual subtitles.')]
-WALK = [(0,
-  None,
-  "'What are you playing at with my son?' The opening is literally at what are you playing. Play can "
-  'describe behaving in a way someone finds suspicious, as in English playing at. Mathias uses familiar you '
-  'with Camille, whose family connection he is keeping secret.'),
- (1,
-  None,
-  "'I didn't know he was your son.' Camille uses two past forms here for states that lasted: 'I knew' and "
-  "'it was'. With the 'not' around the first one."),
- (2,
-  None,
-  "'He didn't tell me.' Camille speaks a short sentence packed with small words: 'me' and 'it' both sit "
-  "before the action word, inside the 'not'."),
- (3,
-  None,
-  "'You're completely irresponsible!' The long word in the middle means 'completely'. That ending often "
-  "works like English 'ly'."),
- (4,
-  None,
-  "'You're the one who lies to everybody!' Literally 'it's you who lies'. That's how French puts weight on "
-  "one person. And 'everybody' is literally 'all the world'."),
- (5,
-  None,
-  "'You never took care of us!' Never replaces the ordinary second negative word after the past helper. The "
-  'action takes the helper be because it comes with the short self word. Of introduces the people Mathias '
-  'failed to look after.'),
- (6,
-  None,
-  "'Stay away from my family!' The French statement literally says you do not come near my family. Spoken "
-  'forcefully, it acts as a warning without changing the ordinary order. My family excludes Camille, and her '
-  'next line challenges that exclusion.'),
- (7,
-  None,
-  "'I'm your family too!' The familiar word for your has its feminine form because family is feminine; it "
-  "does not follow Mathias's gender. Me too before the ordinary I insists that Camille belongs among the "
-  'people he has just claimed as his family.'),
- (8,
-  None,
-  "'Have you got a light, Noémie?' Literally, do you have some fire? Fire here means a flame for the "
-  'cigarette. Noémie says she does not smoke and leaves; Arlette then comes over with a lighter.'),
- (9,
-  None,
-  "'Thanks.' One short word acknowledges a small act of help. Camille does not need to name the lighter or "
-  'explain the favour: Arlette has just seen what she needed.'),
- (10,
-  None,
-  "'Don't worry.' The short it refers to whatever is troubling Camille. In this fixed expression, the action "
-  'word do carries the meaning worry. Arlette offers reassurance without demanding an explanation of what '
-  'happened.'),
- (11,
-  None,
-  "'Sorrows, men, everything eventually goes up in smoke.' Eventually comes from ends up followed by the "
-  'next action. Everything gathers the two topics into one idea. Arlette links them to the cigarette smoke '
-  "and suggests that the pain will pass. Let's hear the scene once more.")]
+WALK = [
+    (0, None, "'What are you playing at with my son?' The opening is literally at what are you playing. Play can describe behaving in a way someone finds suspicious, as in English playing at. Mathias uses familiar you with Camille, whose family connection he is keeping secret."),
+    (1, None, "'I didn't know he was your son.' Camille uses two past forms here for states that lasted: 'I knew' and 'it was'. With the 'not' around the first one."),
+    (2, None, "'He didn't tell me.' Camille speaks a short sentence packed with small words: 'me' and 'it' both sit before the action word, inside the 'not'."),
+    (3, None, "'You're completely irresponsible!' The long word in the middle means 'completely'. That ending often works like English 'ly'."),
+    (4, None, "'You're the one who lies to everybody!' Literally 'it's you who lies'. That's how French puts weight on one person. And 'everybody' is literally 'all the world'."),
+    (5, None, "'You never took care of us!' Never replaces the ordinary second negative word after the past helper. The action takes the helper be because it comes with the short self word. Of introduces the people Mathias failed to look after."),
+    (6, None, "'Stay away from my family!' The French statement literally says you do not come near my family. Spoken forcefully, it acts as a warning without changing the ordinary order. My family excludes Camille, and her next line challenges that exclusion."),
+    (7, None, "'I'm your family too!' The familiar word for your has its feminine form because family is feminine; it does not follow Mathias's gender. Me too before the ordinary I insists that Camille belongs among the people he has just claimed as his family."),
+    (8, None, "'Have you got a light, Noémie?' Literally, do you have some fire? Fire here means a flame for the cigarette. Noémie says she does not smoke and leaves; Arlette then comes over with a lighter."),
+    (9, None, "'Thanks.' One short word acknowledges a small act of help. Camille does not need to name the lighter or explain the favour: Arlette has just seen what she needed."),
+    (10, None, "'Don't worry.' The short it refers to whatever is troubling Camille. In this fixed expression, the action word do carries the meaning worry. Arlette offers reassurance without demanding an explanation of what happened."),
+    (11, None, "'Sorrows, men, everything eventually goes up in smoke.' Eventually comes from ends up followed by the next action. Everything gathers the two topics into one idea. Arlette links them to the cigarette smoke and suggests that the pain will pass."),
+]
