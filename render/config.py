@@ -94,7 +94,7 @@ def sentence_signature(s, lang):
     if lang == "en" and en:
         return {"en": _public(en), "takeGates": "v2"}
     if lang == "ar" and ar:
-        return {"ar": _public(ar), "takeGates": "v2"}
+        return {"ar": _public(ar), "takeGates": "v3"}
     d = tts_signature(s, with_en=False, with_ar=False)
     d["takeGates"] = "v3" if lang == "en" else "v2"
     return d    # Other languages' sentence caches do not depend on Arabic/narrator engines.
