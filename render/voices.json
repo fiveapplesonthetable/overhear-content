@@ -279,6 +279,28 @@
    ],
    "gender": "f"
   },
+  "ryan": {
+   "file": "refs/ryan.flac",
+   "lang": "en",
+   "text": "When you watch the second episode, listen for the chef asking where his knife is, and for the one word he shouts when he is in a hurry.",
+   "desc": "warm relaxed podcast storyteller (Qwen3-TTS-12Hz-1.7B-CustomVoice ryan)",
+   "seconds": 9.84,
+   "customVoice": {
+    "model": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "speaker": "ryan",
+    "instruct": "Speak in a warm, natural, relaxed podcast storyteller voice with gentle conversational pacing."
+   },
+   "source": [
+    {
+     "model": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+     "speaker": "ryan",
+     "seconds": 9.84,
+     "text": "When you watch the second episode, listen for the chef asking where his knife is, and for the one word he shouts when he is in a hurry.",
+     "note": "synthetic CustomVoice instruct reference, no show audio"
+    }
+   ],
+   "gender": "m"
+  },
   "lucie": {
    "file": "refs/lucie.flac",
    "lang": "fr",

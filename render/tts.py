@@ -95,6 +95,55 @@ class QwenEngine:
         assert sr == NATIVE_SR, sr
         return [np.asarray(w, dtype=np.float32) for w in wavs]
 
+
+class QwenCustomEngine:
+    """Qwen3-TTS-12Hz-1.7B-CustomVoice instruct-steered narrator synthesis."""
+
+    def __init__(self, settings, voices, log=print, model_name="Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice"):
+        import torch
+        self.torch = torch
+        self.s, self.voices, self.log = settings, voices, log
+        t = settings["tts"]
+        from qwen_tts import Qwen3TTSModel
+        t0 = time.time()
+        dtype = {"bfloat16": torch.bfloat16, "float16": torch.float16}[t["dtype"]]
+        kw = dict(device_map="cuda:0", dtype=dtype)
+        if t.get("attn"):
+            kw["attn_implementation"] = t["attn"]
+        model_src = _local_snapshot(model_name)
+        self.q = Qwen3TTSModel.from_pretrained(model_src, **kw)
+        self.log(f"custom-voice model ready in {time.time() - t0:.1f}s ({model_name})")
+
+    def free(self):
+        self.q = None
+        import gc
+        gc.collect()
+        self.torch.cuda.empty_cache()
+
+    def generate(self, batch, seed, temperature=None, repetition_penalty=None):
+        """batch: [(voice, language_name, text_for_model)] -> [np.float32 wav at 24 kHz]."""
+        torch = self.torch
+        torch.manual_seed(seed)
+        np.random.seed(seed % (2 ** 32))
+        t = self.s["tts"]
+        longest = max(len(b[2]) for b in batch)
+        max_tokens = min(t["max_new_tokens"], int((longest / 4.5 + 3) * 12.5) + 30)
+        speakers = [self.voices.refs[b[0]]["customVoice"]["speaker"] for b in batch]
+        instructs = [self.voices.refs[b[0]]["customVoice"].get("instruct", "") for b in batch]
+        wavs, sr = self.q.generate_custom_voice(
+            text=[b[2] for b in batch],
+            speaker=speakers,
+            language=[b[1] for b in batch],
+            instruct=instructs,
+            temperature=temperature or t["temperature"],
+            top_k=t["top_k"],
+            top_p=t["top_p"],
+            repetition_penalty=repetition_penalty if repetition_penalty is not None else t["repetition_penalty"],
+            max_new_tokens=max_tokens,
+        )
+        assert sr == NATIVE_SR, sr
+        return [np.asarray(w, dtype=np.float32) for w in wavs]
+
     def synth_many(self, items, store):
         """items: [dict(key, voice, lang, text_tts, text_plain)] unique by key. Fills store.tts_path(key) for each.
         Returns stats {n, audio_s, wall_s, retries}."""

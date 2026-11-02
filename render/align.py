@@ -53,20 +53,28 @@ class Aligner:
                     toks.append(self.dict[l])
                     owner.append(i)
         res = [None] * len(text)
+        x_orig = x[0].numpy()
         if not toks:
-            return res, x[0].numpy()
+            return res, x_orig
+        min_frames = len(toks) + sum(1 for i in range(1, len(toks)) if toks[i] == toks[i - 1]) + 2
+        min_samples = min_frames * 320 + 400
+        x_in = torch.nn.functional.pad(x, (0, min_samples - x.shape[1])) if x.shape[1] < min_samples else x
         with torch.inference_mode():
-            em, _ = self.model(x.to(self.device))
+            em, _ = self.model(x_in.to(self.device))
+            if em.shape[1] < min_frames - 2:
+                return res, x_orig
             al, sc = ta.functional.forced_align(em, torch.tensor([toks], dtype=torch.int32, device=self.device), blank=0)
         spans = ta.functional.merge_tokens(al[0].cpu(), sc[0].exp().cpu())
         if len(spans) != len(toks):
-            return res, x[0].numpy()
-        fr = x.shape[1] / self.sr / em.shape[1]
+            return res, x_orig
+        orig_dur = len(x_orig) / self.sr
+        fr = x_in.shape[1] / self.sr / em.shape[1]
         for sp, ci in zip(spans, owner):
-            a, b = sp.start * fr, sp.end * fr
+            a = min(orig_dur, sp.start * fr)
+            b = min(orig_dur, max(a, sp.end * fr))
             old = res[ci]
             res[ci] = (a, b) if old is None else (min(old[0], a), max(old[1], b))
-        return res, x[0].numpy()
+        return res, x_orig
 
     def word_times(self, wav, sr, text, lang, words):
         """Native-script timings for explicit lexical units, with whole-span reading ownership."""
@@ -79,13 +87,17 @@ class Aligner:
         if any(letter not in self.dict for letter in plan.letters):
             raise native_text.NativeAlignmentError("native normalization and MMS alphabet disagree")
         tokens = [self.dict[letter] for letter in plan.letters]
+        x_orig = x[0].numpy()
+        min_frames = len(tokens) + sum(1 for i in range(1, len(tokens)) if tokens[i] == tokens[i - 1]) + 2
+        min_samples = min_frames * 320 + 400
+        x_in = torch.nn.functional.pad(x, (0, min_samples - x.shape[1])) if x.shape[1] < min_samples else x
         with torch.inference_mode():
-            emission, _ = self.model(x.to(self.device))
+            emission, _ = self.model(x_in.to(self.device))
             alignment, scores = ta.functional.forced_align(
                 emission, torch.tensor([tokens], dtype=torch.int32, device=self.device), blank=0)
         spans = ta.functional.merge_tokens(alignment[0].cpu(), scores[0].exp().cpu())
-        duration = x.shape[1] / self.sr
-        return native_text.aggregate(plan, spans, duration / emission.shape[1], duration), x[0].numpy()
+        duration = len(x_orig) / self.sr
+        return native_text.aggregate(plan, spans, duration / emission.shape[1], duration), x_orig
 
 
 def envelope(x16, sr=16000, hop=0.005):
