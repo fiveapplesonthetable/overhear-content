@@ -46,6 +46,11 @@ def main():
     a = ap.parse_args()
     try:
         settings = config.load_settings(a.settings)
+        if os.environ.get("OVERHEAR_TTS_BATCH"):
+            b = int(os.environ["OVERHEAR_TTS_BATCH"])
+            settings["tts"]["batch"] = settings["tts"]["batchEn"] = b
+            if "clips" in settings:
+                settings["clips"]["batch"] = b
         from voices import Voices
         from store import Store
         from ruaccent_fallback import RuAccent
@@ -66,6 +71,8 @@ def main():
             if items:
                 for lang in sorted({it.lang for it in items}):
                     fs = forms.forms_settings(settings, lang)
+                    if os.environ.get("OVERHEAR_FORMS_BATCH"):
+                        fs["tts"]["batch"] = fs["forms"]["batch"] = int(os.environ["OVERHEAR_FORMS_BATCH"])
                     eng = QwenEngine(fs, voices, log=log)
                     out.extend(clips.render_items([it for it in items if it.lang == lang], eng, store, fs, a.attempt, log=log, kind=forms.KIND))
                     eng.free()
