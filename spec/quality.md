@@ -122,4 +122,12 @@ short phrase such as "I wish you..." was left out, and the intonation did not ma
 wishes and warnings read like a list. Whisper CER can still pass when a short phrase is missing. So in review, compare
 the narrator's audio word for word against the script (the `timing.json` items marked `ok: false` or `missing` are the
 first place to look), and judge tone, not just words. Re-take or re-word such sentences, try a different seed, or try a
-stronger English TTS (contract §4), and record what worked in `out/PROGRESS.md`.
+stronger English TTS, and record what worked in `out/PROGRESS.md`.
+
+**Run an English narrator bake-off early** (contract §4 rules apply). The owner suspects a different English model would
+sound better. Render the same 30 narrator sentences (questions, wishes such as "I wish you...", warnings, quoted glosses) with
+F5-TTS v1 (today's reference), Qwen3-TTS-12Hz-1.7B (Base, and VoiceDesign for a fresh warm narrator), Chatterbox (its
+exaggeration control helps intonation) and any other openly licensed English TTS that fits the A100. Score each on Whisper
+CER, dropped words, and a blind listen by you and by Gemini for natural intonation. Switch the narrator only if the winner is
+clearly better and passes `check_render.py`. The model goes into `meta.tts` and the render key, so everything re-renders
+by itself.
