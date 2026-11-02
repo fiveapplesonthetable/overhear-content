@@ -38,7 +38,7 @@ WALK = [
     (3, None, '\'I replaced your dish with mine.\' "Zamenil" is "replaced", from "menyat\'", to change. "Na svoyo" is "with my own", so Russian doesn\'t have to repeat the word "dish".'),
     (4, None, '\'How did you dare do such a thing?\' "Kak posmel" is "how dared", the same "posmel" as Vika used. "Takoye" is "such a thing", ending in -oye.'),
     (5, None, '\'Remember once and for all: this is my kitchen!\' "Zapomni" is a command from "pomnit\'", to remember, and "za-" makes it "get it into your head". "Raz i navsegda" is "once and forever".'),
-    (6, None, '\'You endangered a human being\'s life!\' "Postavil pod ugrozu" is "put under threat", a stock phrase for "endangered". "Zhizn\' cheloveka" is "life of a person", with an -a for "of".'),
+    (6, None, '\'You endangered a human being\'s life!\' "Postavil pod ugrozu" is "put under threat", a stock expression for "endangered". "Zhizn\' cheloveka" is "life of a person", with an -a for "of".'),
     (7, None, '\'Get out of here right now!\' "Poshyol" is "went", used as a rude command. "Von" is "out" here, and "otsyuda" is "from here", the partner of "syuda".'),
     (8, None, '\'Hello? Yes, Dima, I\'m listening.\' "Allo" is borrowed, like English "hello". "Ya slushayu" is "I am listening", Russian for "go ahead". Dima is Nagiyev\'s friendly name.'),
     (9, None, '\'What news from the hospital, speak quickly.\' "Novosti", "news", is always plural in Russian. "Bol\'nitsa" has "bol\'", pain, inside it. "Govori" is "speak".'),
