@@ -39,11 +39,21 @@ class AudioGates:
         cos = torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item()
         return cos >= threshold, cos
 
-    def check_length_pause(self, wav, sr, text, lang, max_pause=0.60, len_mult=1.35):
-        median_spc = 0.20 if lang in ["ja", "zh", "ko"] else 0.085
+    @staticmethod
+    def _count_internal_breaks(t_strip: str) -> int:
+        if len(t_strip) <= 2:
+            return 0
+        import re
+        body = t_strip[:-1]
+        # Match sentence boundaries even when followed by closing quotes/parens (e.g. ".' ", '?" ')
+        return len(re.findall(r"[.!?…।。！？؟]['\"”’)\]]*\s+", body))
+
+    def check_length_pause(self, wav, sr, text, lang, max_pause=0.72, len_mult=1.40):
+        median_spc = 0.20 if lang in ["ja", "zh", "ko"] else 0.088
         t_strip = text.strip()
-        n_internal_sents = sum(t_strip[:-1].count(p) for p in (". ", "! ", "? ", "… ", "。", "！", "？", "؟")) if len(t_strip) > 2 else 0
-        expected = max(0.8, len(t_strip) * median_spc + 0.35 + 0.50 * n_internal_sents)
+        n_internal_sents = self._count_internal_breaks(t_strip)
+        n_clauses = sum(t_strip.count(c) for c in (",", ";", ":", "—", "–"))
+        expected = max(0.85, len(t_strip) * median_spc + 0.45 + 0.55 * n_internal_sents + 0.18 * n_clauses)
 
         has_alnum = any(c.isalnum() for c in t_strip)
         if has_alnum:
@@ -82,7 +92,7 @@ class AudioGates:
                 cur_sil = 0
 
         max_pause_sec = max_sil_frames * hop_len / sr
-        eff_max_pause = max(max_pause, 0.95) if n_internal_sents > 0 else max_pause
+        eff_max_pause = 1.25 if n_internal_sents > 0 else (0.92 if n_clauses > 0 else max_pause)
         if max_pause_sec > eff_max_pause:
             return False, "pause"
 
@@ -121,7 +131,7 @@ class AudioGates:
         cer = jiwer.cer(ref_norm, hyp_norm)
         return True, cer, hyp_text.strip()
 
-    def check_transient(self, wav, sr, n_internal_sents=0):
+    def check_transient(self, wav, sr, n_internal_sents=0, text_len=100):
         hop = int(sr * 0.01)
         if len(wav) < hop * 4:
             return True, "ok", wav
@@ -164,8 +174,8 @@ class AudioGates:
                 wav = wav[:cut_sample]
                 rms = rms[:prev_e + 2]
                 islands.pop()
-            elif n_internal_sents == 0 and main_ms >= 100 and gap_ms >= 180 and tail_ms > 220:
-                # Single-sentence turn followed by silence and extra hallucinated babble/echo (e.g. F5 bleed)
+            elif n_internal_sents == 0 and text_len <= 22 and main_ms >= 100 and gap_ms >= 520 and tail_ms > 220:
+                # Very short 1-2 word callout followed by >0.5s dead silence and extra hallucinated babble (e.g. F5 bleed)
                 return False, "transient", wav
             else:
                 break
@@ -194,10 +204,10 @@ class AudioGates:
         f0_i, f1_i = int(speech_idx[0]), int(speech_idx[-1])
         for idx_f in range(f0_i, min(len(rms), len(rms_low), f1_i + 1)):
             r, rl = float(rms[idx_f]), float(rms_low[idx_f])
-            near_edge = (idx_f - f0_i) <= 12 or (f1_i - idx_f) <= 25   # first 120 ms or last 250 ms of active speech
-            if near_edge and (r > med_rms * 3.1 or rl > med_rms * 1.9):
+            near_edge = (idx_f - f0_i) <= 10 or (f1_i - idx_f) <= 20   # first 100 ms or last 200 ms of active speech
+            if near_edge and (r > med_rms * 4.2 or rl > med_rms * 2.5):
                 return False, "transient", wav
-            if r > med_rms * 4.2 or rl > med_rms * 2.6:
+            if r > med_rms * 5.2 or rl > med_rms * 3.2:
                 return False, "transient", wav
 
         return True, "ok", wav
@@ -225,9 +235,9 @@ class AudioGates:
         """Score N candidate takes through all 5 §6 gates + F0 prosody tie-breaker.
         Returns (best_wav, all_ok, counts_dict, best_meta)."""
         t_strip = text_plain.strip()
-        n_int_sents = sum(t_strip[:-1].count(p) for p in (". ", "! ", "? ", "… ", "。", "！", "？", "؟")) if len(t_strip) > 2 else 0
+        n_int_sents = self._count_internal_breaks(t_strip)
         def _cpu_prep(w):
-            tran_ok, tran_reason, w_trim = self.check_transient(w, sr, n_internal_sents=n_int_sents)
+            tran_ok, tran_reason, w_trim = self.check_transient(w, sr, n_internal_sents=n_int_sents, text_len=len(t_strip))
             len_ok, len_reason = self.check_length_pause(w_trim, sr, text_plain, lang)
             w_16k = (librosa.resample(w_trim, orig_sr=sr, target_sr=16000) if sr != 16000 else w_trim).astype(np.float32)
             f0_std, pros_pen = self.check_prosody(w_16k, 16000)

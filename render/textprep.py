@@ -189,10 +189,12 @@ def group_turn_chunks(sents, text: str, max_chars: int = 0):
 _INTRO_COMMA_RE = re.compile(
     r"(^|(?<=[.!?…]\s)|(?<=['\"]\s))"
     r"(A little later|Later that (?:night|evening|day|morning)|The next (?:morning|day)|"
-    r"Tomorrow morning|This morning|Last night|Right now|At first|At last|At the start|At the end|"
+    r"Tomorrow morning|This morning|Last night|"
+    r"At first(?!\s+(?:glance|sight)\b)|At last|At the start(?!\s+of\b)|At the end(?!\s+of\b)|"
     r"In the present tense|In the past tense|In the future tense|"
-    r"In Russian|In French|In Spanish|In German|In Italian|In Portuguese|In Arabic|In Japanese|In Korean|In Mandarin|In Chinese|In English|"
-    r"Meanwhile|Afterwards|Instead|Otherwise|Fortunately|Unfortunately|Luckily|Finally|Normally|Usually|Literally|Word for word)"
+    r"(?:In Russian|In French|In Spanish|In German|In Italian|In Portuguese|In Arabic|In Japanese|In Korean|In Mandarin|In Chinese|In English)(?=\s+(?:the|a|an|this|that|these|those|it|you|we|they|he|she|one|there|when|if|every|all)\b)|"
+    r"Meanwhile|Afterwards|Instead(?!\s+of\b)|Otherwise|Fortunately|Unfortunately|Luckily|Finally|Normally|Usually|"
+    r"Literally(?!\s+(?:translated|speaking|translates|meaning)\b)|Word for word(?!\s+it\s+is\b))"
     r"\s+(?=[A-Z\"'a-z])"
 )
 
