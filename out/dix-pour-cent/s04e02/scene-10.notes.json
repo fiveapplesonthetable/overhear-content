@@ -265,7 +265,7 @@
         {
           "t": "verte",
           "lemma": "vert",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "vɛʁt",
           "gloss": "green",
           "gram": "feminine singular"
@@ -1117,7 +1117,7 @@
         {
           "t": "verte",
           "lemma": "vert",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "vɛʁt",
           "gloss": "green",
           "gram": "feminine singular"
@@ -1969,7 +1969,7 @@
         {
           "t": "verte",
           "lemma": "vert",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "vɛʁt",
           "gloss": "green",
           "gram": "feminine singular"
@@ -8084,29 +8084,38 @@
     "vert": {
       "lemma": "vert",
       "stress": "vɛʁ",
-      "pos": "noun",
-      "gloss": "green (the colour)",
-      "gender": "m",
-      "plural": "verts",
+      "pos": "adj",
+      "gloss": "green",
       "meanings": [
         {
           "en": "green",
-          "note": "the colour, as a noun: du vert, un beau vert; adjective vert/verte"
+          "note": "feminine verte"
+        },
+        {
+          "en": "unripe, sharp (of wine)",
+          "note": "un vin un peu vert"
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "sg",
-          "pl"
+          "m",
+          "f"
         ],
         "rows": [
           {
             "cells": [
-              "form",
-              "le vert",
-              "les verts"
+              "sg",
+              "vert",
+              "verte"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "verts",
+              "vertes"
             ]
           }
         ]
@@ -8114,24 +8123,15 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Un très beau vert.",
-          "trans": "A very nice green."
+          "text": "La porte est verte.",
+          "trans": "The door is green."
         },
         {
-          "text": "Elle aime le vert.",
-          "trans": "She likes green."
-        },
-        {
-          "text": "Vous avez eu du vert?",
-          "trans": "You got green?"
+          "text": "Le vin est encore un peu vert.",
+          "trans": "The wine is still a little unripe."
         }
       ],
-      "related": [
-        {
-          "word": "verte",
-          "gloss": "green (feminine adjective)"
-        }
-      ]
+      "related": []
     },
     "voler": {
       "lemma": "voler",

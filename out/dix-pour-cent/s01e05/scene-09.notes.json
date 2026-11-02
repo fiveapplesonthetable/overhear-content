@@ -274,7 +274,7 @@
         },
         {
           "t": "mort",
-          "lemma": "mort",
+          "lemma": "la mort",
           "pos": "noun",
           "stress": "mɔʁ",
           "gloss": "death",
@@ -1344,7 +1344,7 @@
         },
         {
           "t": "mort",
-          "lemma": "mort",
+          "lemma": "la mort",
           "pos": "noun",
           "stress": "mɔʁ",
           "gloss": "death",
@@ -2414,7 +2414,7 @@
         },
         {
           "t": "mort",
-          "lemma": "mort",
+          "lemma": "la mort",
           "pos": "noun",
           "stress": "mɔʁ",
           "gloss": "death",
@@ -6181,48 +6181,6 @@
         }
       ]
     },
-    "mort": {
-      "lemma": "mort",
-      "stress": "mɔʁ",
-      "pos": "noun",
-      "gloss": "death",
-      "meanings": [
-        {
-          "en": "death",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la mort",
-              "les morts"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La mort de Ryan.",
-          "trans": "The death of Ryan."
-        },
-        {
-          "text": "La mort fait partie de la vie.",
-          "trans": "Death is part of life."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
     "mourir": {
       "lemma": "mourir",
       "stress": "muʁiʁ",
@@ -9504,7 +9462,50 @@
           "trans": "I wish you much happiness."
         }
       ],
-      "related": []
+      "related": [],
+      "gender": "m"
+    },
+    "la mort": {
+      "lemma": "la mort",
+      "stress": "lamɔʁ",
+      "pos": "noun",
+      "gloss": "death",
+      "meanings": [
+        {
+          "en": "death",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la mort",
+              "les morts"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La mort de Ryan.",
+          "trans": "The death of Ryan."
+        },
+        {
+          "text": "La mort fait partie de la vie.",
+          "trans": "Death is part of life."
+        }
+      ],
+      "related": [],
+      "gender": "f"
     }
   }
 }
