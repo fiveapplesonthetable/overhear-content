@@ -34,22 +34,76 @@ STORY = [
 OPENER = "From polite doorway brush-offs to Ono's blunt feedback, every phrase here is pure everyday Japanese. Let's break them down."
 
 WALK = [
-    (0, None, "'Hello.' Written with final \"wa\" spelled like \"ha\", \"konnichiwa\" is the standard daytime greeting at any front door or shop."),
-    (1, None, "'Do you like English?' \"Eigo\" means the English language. Putting respectful \"o\" in front of \"suki\", liked or fond of, turns 'do you like' into polite customer-service speech."),
-    (2, None, "'No, thank you.' Watch out for \"kekkou desu\"! Although \"kekkou\" can mean 'fine' or 'splendid', when someone offers to sell or pour you something, \"kekkou desu\" means 'I am fine without it—no thank you'."),
-    (5, None, "'In the coming era, English is going to become necessary.' \"Korekara\" literally means 'from here on', so \"korekara no jidai\" is 'the coming age'. At the end, \"natte kimasu\" adds the feeling of a change steadily coming toward us."),
-    (6, None, "'I am busy right now.' \"Ima\" means now, and \"isogashii\" means busy—a handy two-word shield whenever you cannot talk."),
-    (7, None, "'Ten years from now, you will definitely need it.' \"Juunen\" counts ten years, and \"go\" means after, giving 'ten years later'. \"Zettai\" adds 'definitely, no matter what'."),
-    (9, None, "'Your smile is way too suspicious.' \"Egao\" combines \"e\", smiling, with \"kao\", face. Clipping \"ayashii\", shady or suspicious, into \"ayashisugi\" attaches \"sugi\", 'too much'."),
-    (10, None, "'No good at all.' Pairing \"zenzen\", not at all, with \"dame\", no good, delivers a total thumbs-down: completely hopeless."),
-    (11, None, "'I am sorry.' In real conversation, formal \"sumimasen\" very often relaxes into \"suimasen\" by dropping the middle 'm' sound—both mean 'sorry' or 'excuse me'."),
+    (0, None, [
+        '"\'Hello.\' Written with a final sound that is spelled like the topic marker, the word for this is " You can catch ',
+        (None, "こんにちは。"),
+        ", which is the standard daytime greeting at any front door or shop."
+    ]),
+    (1, None, [
+        '"\'Do you like English?\' The word for English language is " They are saying ',
+        (None, "英語。"),
+        ". Putting the respectful prefix in front of ",
+        (None, "好き。"),
+        ", liked or fond of, turns 'do you like' into polite customer-service speech."
+    ]),
+    (2, None, [
+        '"\'No, thank you.\' The polite word for this refusal is " Notice how ',
+        (None, "結構です。"),
+        "! Although the word can mean 'fine' or 'splendid', when someone offers to sell or pour you something, ",
+        (None, "結構です。"),
+        " means 'I am fine without it—no thank you'."
+    ]),
+    (5, None, [
+        '"\'In the coming era, English is going to become necessary.\' Check the word for \'from here on\', " Listen for ',
+        (None, "これから。"),
+        ", so ",
+        (None, "これからの時代。"),
+        " is 'the coming age'. At the end, ",
+        (None, "なってきます。"),
+        " adds the feeling of a change steadily coming toward us."
+    ]),
+    (6, None, [
+        '"\'I am busy right now.\' Here, the word for now is " Notice how ',
+        (None, "今。"),
+        ", and ",
+        (None, "忙しい。"),
+        " means busy—a handy two-word shield whenever you cannot talk."
+    ]),
+    (7, None, [
+        '"\'Ten years from now, you will definitely need it.\' Counting ten years with " The character says ',
+        (None, "十年。"),
+        ", the word for after is ",
+        (None, "後。"),
+        ", giving 'ten years later'. ",
+        (None, "絶対。"),
+        " adds 'definitely, no matter what'."
+    ]),
+    (9, None, [
+        '"\'Your smile is way too suspicious.\' Notice the word for smiling face is " In this line, ',
+        (None, "笑顔。"),
+        ". Clipping the word for shady or suspicious into ",
+        (None, "怪しすぎ。"),
+        " attaches the suffix for 'too much'."
+    ]),
+    (10, None, [
+        '"\'No good at all.\' In this line, the word for not at all is " Listen for ',
+        (None, "全然。"),
+        ". Pairing it with ",
+        (None, "だめ。"),
+        ", no good, delivers a total thumbs-down: completely hopeless."
+    ]),
+    (11, None, [
+        '"\'I am sorry.\' In real conversation, the formal word for sorry very often relaxes into " In this sentence, ',
+        (None, "すいません。"),
+        " by dropping the middle sound—both mean 'sorry' or 'excuse me'."
+    ]),
 ]
 
 TRANSITION = "Now let's listen to Muranishi's disastrous sales calls again."
 
 OUTRO = (
-    "Remember \"eigo wa osuki desu ka\" to ask politely if someone likes English, "
-    "\"kekkou desu\" for a firm 'no, thank you', and \"suimasen\" for an everyday apology. "
+    "Remember the polite phrase to ask if someone likes English, "
+    "the polite refusal for a firm 'no, thank you', and the everyday word for an apology. "
     "Next, Ono reveals what actually works."
 )
 

@@ -382,7 +382,7 @@
       "trans": "Shut up!",
       "words": [
         {
-          "t": "うるさい",
+          "t": "うるさい！",
           "lemma": "うるさい",
           "pos": "adj",
           "stress": null,
@@ -390,7 +390,7 @@
           "gram": "i-adjective, plain non-past",
           "span": [
             0,
-            4
+            5
           ],
           "reading": "ウルサイ"
         }
@@ -401,7 +401,7 @@
       "trans": "Stop it!",
       "words": [
         {
-          "t": "やめろ",
+          "t": "やめろ！",
           "lemma": "止める",
           "pos": "verb",
           "stress": null,
@@ -409,7 +409,7 @@
           "gram": "ichidan, imperative",
           "span": [
             0,
-            3
+            4
           ],
           "reading": "ヤメロ"
         }
@@ -549,7 +549,7 @@
       "trans": "Dad.",
       "words": [
         {
-          "t": "父ちゃん",
+          "t": "父ちゃん。",
           "lemma": "父ちゃん",
           "pos": "noun",
           "stress": null,
@@ -557,7 +557,7 @@
           "gram": "noun",
           "span": [
             0,
-            4
+            5
           ],
           "reading": "トウチャン"
         }
@@ -1018,6 +1018,70 @@
     },
     {
       "seg": 16,
+      "trans": "return; go back / and",
+      "words": [
+        {
+          "t": "戻っ",
+          "lemma": "戻る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "return; go back",
+          "gram": "godan, te-form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "モドッ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "earn money / and",
+      "words": [
+        {
+          "t": "稼い",
+          "lemma": "稼ぐ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "earn money",
+          "gram": "godan, te-form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カセイ"
+        },
+        {
+          "t": "で",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunctive particle (voiced)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "デ"
+        }
+      ]
+    },
+    {
+      "seg": 20,
       "trans": "Shut up!",
       "words": [
         {
@@ -1062,7 +1126,52 @@
       ]
     },
     {
-      "seg": 18,
+      "seg": 22,
+      "trans": "Shut up!",
+      "words": [
+        {
+          "t": "黙っ",
+          "lemma": "黙る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be silent",
+          "gram": "godan, te-form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ダマッ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "ろ",
+          "lemma": "いる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "stay; be",
+          "gram": "ichidan, imperative (contracted)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ロ"
+        }
+      ]
+    },
+    {
+      "seg": 24,
       "trans": "You... no way.",
       "words": [
         {
@@ -1094,7 +1203,26 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 26,
+      "trans": "surely not; no way",
+      "words": [
+        {
+          "t": "まさか",
+          "lemma": "まさか",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "surely not; no way",
+          "gram": "adverb",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "マサカ"
+        }
+      ]
+    },
+    {
+      "seg": 28,
       "trans": "That was the money to feed Toru rice!",
       "words": [
         {
@@ -1256,7 +1384,58 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 30,
+      "trans": "rice",
+      "words": [
+        {
+          "t": "米",
+          "lemma": "米",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "rice",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "コメ"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "eat / make/let",
+      "words": [
+        {
+          "t": "食べ",
+          "lemma": "食べる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "eat",
+          "gram": "ichidan, causative stem",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "タベ"
+        },
+        {
+          "t": "させる",
+          "lemma": "せる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "make/let",
+          "gram": "causative auxiliary",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "サセル"
+        }
+      ]
+    },
+    {
+      "seg": 34,
       "trans": "I'm sorry, I'm sorry.",
       "words": [
         {
@@ -1288,11 +1467,30 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 36,
+      "trans": "I'm sorry",
+      "words": [
+        {
+          "t": "ごめんなさい",
+          "lemma": "ごめんなさい",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "I'm sorry",
+          "gram": "interjection",
+          "span": [
+            0,
+            6
+          ],
+          "reading": "ゴメンナサイ"
+        }
+      ]
+    },
+    {
+      "seg": 38,
       "trans": "Dad.",
       "words": [
         {
-          "t": "父ちゃん",
+          "t": "父ちゃん。",
           "lemma": "父ちゃん",
           "pos": "noun",
           "stress": null,
@@ -1300,15 +1498,34 @@
           "gram": "noun",
           "span": [
             0,
-            4
+            5
           ],
           "reading": "トウチャン"
         }
       ]
     },
     {
-      "seg": 26,
-      "trans": "Forgive me.",
+      "seg": 40,
+      "trans": "Dad.",
+      "words": [
+        {
+          "t": "父ちゃん。",
+          "lemma": "父ちゃん",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Dad",
+          "gram": "noun",
+          "span": [
+            0,
+            5
+          ],
+          "reading": "トウチャン"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "forgive / and / give/do for me",
       "words": [
         {
           "t": "許し",
@@ -1341,7 +1558,7 @@
           "lemma": "くれる",
           "pos": "verb",
           "stress": null,
-          "gloss": "do for me",
+          "gloss": "give/do for me",
           "gram": "ichidan, imperative",
           "span": [
             3,
@@ -1352,7 +1569,52 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 44,
+      "trans": "forgive / and / give/do for me",
+      "words": [
+        {
+          "t": "許し",
+          "lemma": "許す",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "forgive",
+          "gram": "godan, te-form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ユルシ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "くれ",
+          "lemma": "くれる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give/do for me",
+          "gram": "ichidan, imperative",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "クレ"
+        }
+      ]
+    },
+    {
+      "seg": 46,
       "trans": "In the end, without money, you can't even be free.",
       "words": [
         {
@@ -1527,7 +1789,155 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 48,
+      "trans": "in the end; after all",
+      "words": [
+        {
+          "t": "結局",
+          "lemma": "結局",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "in the end; after all",
+          "gram": "adverb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ケッキョク"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "money / subject / not exist; have no / if; when",
+      "words": [
+        {
+          "t": "金",
+          "lemma": "金",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "money",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "カネ"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject",
+          "gram": "subject particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not exist; have no",
+          "gram": "i-adjective, plain non-past",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ナイ"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "if; when",
+          "gram": "conditional particle",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ト"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "freedom / into; to / even / can become / not",
+      "words": [
+        {
+          "t": "自由",
+          "lemma": "自由",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "freedom",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ジユウ"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "into; to",
+          "gram": "result particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "pos": "part",
+          "stress": null,
+          "gloss": "even",
+          "gram": "inclusive particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "モ"
+        },
+        {
+          "t": "なれ",
+          "lemma": "なる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "can become",
+          "gram": "godan, potential stem",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "ナレ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "ナイ"
+        }
+      ]
+    },
+    {
+      "seg": 54,
       "trans": "Money and freedom, huh.",
       "words": [
         {
@@ -1585,7 +1995,83 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 56,
+      "trans": "Toru",
+      "words": [
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Toru",
+          "gram": "proper name",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "トオル"
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "money",
+      "words": [
+        {
+          "t": "金",
+          "lemma": "金",
+          "pos": "name",
+          "stress": null,
+          "gloss": "money",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "オカネ"
+        }
+      ]
+    },
+    {
+      "seg": 60,
+      "trans": "freedom",
+      "words": [
+        {
+          "t": "自由",
+          "lemma": "自由",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "freedom",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ジユウ"
+        }
+      ]
+    },
+    {
+      "seg": 62,
+      "trans": "surely not; no way",
+      "words": [
+        {
+          "t": "か",
+          "lemma": "か",
+          "pos": "name",
+          "stress": null,
+          "gloss": "surely not; no way",
+          "gram": "adverb",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "マサカ"
+        }
+      ]
+    },
+    {
+      "seg": 64,
       "trans": "You should just go back to work and earn some money!",
       "words": [
         {
@@ -1721,7 +2207,7 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 65,
       "trans": "Shut up!",
       "words": [
         {
@@ -1766,7 +2252,7 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 66,
       "trans": "You... no way.",
       "words": [
         {
@@ -1798,7 +2284,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 67,
       "trans": "That was the money to feed Toru rice!",
       "words": [
         {
@@ -1960,11 +2446,11 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 68,
       "trans": "Shut up!",
       "words": [
         {
-          "t": "うるさい",
+          "t": "うるさい！",
           "lemma": "うるさい",
           "pos": "adj",
           "stress": null,
@@ -1972,18 +2458,18 @@
           "gram": "i-adjective, plain non-past",
           "span": [
             0,
-            4
+            5
           ],
           "reading": "ウルサイ"
         }
       ]
     },
     {
-      "seg": 37,
+      "seg": 69,
       "trans": "Stop it!",
       "words": [
         {
-          "t": "やめろ",
+          "t": "やめろ！",
           "lemma": "止める",
           "pos": "verb",
           "stress": null,
@@ -1991,14 +2477,14 @@
           "gram": "ichidan, imperative",
           "span": [
             0,
-            3
+            4
           ],
           "reading": "ヤメロ"
         }
       ]
     },
     {
-      "seg": 38,
+      "seg": 70,
       "trans": "What are you doing?!",
       "words": [
         {
@@ -2095,7 +2581,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 71,
       "trans": "I'm sorry, I'm sorry.",
       "words": [
         {
@@ -2127,11 +2613,11 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 72,
       "trans": "Dad.",
       "words": [
         {
-          "t": "父ちゃん",
+          "t": "父ちゃん。",
           "lemma": "父ちゃん",
           "pos": "noun",
           "stress": null,
@@ -2139,14 +2625,14 @@
           "gram": "noun",
           "span": [
             0,
-            4
+            5
           ],
           "reading": "トウチャン"
         }
       ]
     },
     {
-      "seg": 41,
+      "seg": 73,
       "trans": "Dad, I'm sorry. Forgive me.",
       "words": [
         {
@@ -2230,7 +2716,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 74,
       "trans": "In the end, without money, you can't even be free.",
       "words": [
         {
@@ -2405,7 +2891,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 75,
       "trans": "Money and freedom, huh.",
       "words": [
         {
@@ -2463,7 +2949,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 77,
       "trans": "See you again.",
       "words": [
         {

@@ -34,23 +34,62 @@ STORY = [
 OPENER = "In twelve short lines, Muranishi goes from top salesman to unemployed. Let's look closely at the words that tell the story."
 
 WALK = [
-    (0, None, "'They say it is an English encyclopedia company.' Native Japanese calls an encyclopedia \"hyakka jiten\", literally a 'hundred-subjects word-book'. Ending with \"datte sa\" passes along gossip—'so I hear'."),
-    (1, None, "'Looks like that business is popular lately.' \"Hayatteru\" comes from \"hayaru\", to be trendy or booming, and \"mitai\" adds 'it seems like'."),
-    (3, None, "'Chief, did something happen?' Walk into any noisy crowd or office commotion and ask \"nanika atta n desu ka\", built from \"nanika\", something, plus \"atta\", happened."),
-    (4, None, "'Something huge happened.' When someone asks if anything is wrong, \"ooari\", literally 'big-exists!', answers 'you bet there is—big time!'"),
-    (5, None, "'All the company sales money disappeared from the safe.' \"Kaisha\" is company, \"zenbu\" means all of it, \"kinko\" is a locked safe, and \"kieta\" comes from \"kieru\", to vanish."),
-    (7, None, "'Look, it is completely empty.' \"Karappo\" has a lively, hollow bounce to its sound and means completely empty—empty safe, empty box, or empty stomach."),
-    (8, None, "'Where is Ono-san?' Put anyone's name before \"doko\", where, and polite \"desu ka\" to ask where they are."),
-    (9, 'どこにもいないよ。', "'He is nowhere to be found.' Pairing \"doko ni mo\" with negative \"inai\" sweeps every place clean: 'not anywhere at all'."),
-    (9, '会社は終わりだ。', "'The company is finished.' \"Owari\" turns \"owaru\", to end, into 'the end'—heard at closing time and when a venture goes under."),
-    (11, None, "'I am going home early today.' \"Kaerimasu\" is the polite everyday word for heading home—leading straight into Muranishi's early return to his house."),
+    (0, None, [
+        '"\'They say it is an English encyclopedia company.\' Native Japanese calls an encyclopedia " Starting off with ',
+        ("police", "百科事典"), ", literally a 'hundred-subjects word-book'. Ending with ",
+        ("police", "だってさ"), " passes along gossip—'so I hear'."
+    ]),
+    (1, None, [
+        "'Looks like that business is popular lately.'  Check out ",
+        ("police", "はやってる"), " comes from the verb meaning to be trendy or booming, and ",
+        ("police", "みたい"), " adds 'it seems like'."
+    ]),
+    (3, None, [
+        '"\'Chief, did something happen?\' Walk into any noisy crowd or office commotion and ask " The phrase contains ',
+        ("muranishi", "何かあったんですか"), ", and this word is built from ",
+        ("muranishi", "何か"), ", something, plus ",
+        ("muranishi", "あった"), ", happened."
+    ]),
+    (4, None, [
+        '"\'Something huge happened.\' When someone asks if anything is wrong, " Watch for ',
+        ("kacho", "大あり"), ", literally 'big-exists!', answers 'you bet there is—big time!'"
+    ]),
+    (5, None, [
+        "'All the company sales money disappeared from the safe.'  Hear how ",
+        ("kacho", "会社"), " is company, ",
+        ("kacho", "全部"), " this word means all of it, ",
+        ("kacho", "金庫"), " this word is a locked safe, and ",
+        ("kacho", "消えた"), " comes from the verb for to vanish."
+    ]),
+    (7, None, [
+        "'Look, it is completely empty.'  Starting off with ",
+        ("kacho", "空っぽ"), " has a lively, hollow bounce to its sound and this word means completely empty—empty safe, empty box, or empty stomach."
+    ]),
+    (8, None, [
+        '"\'Where is Ono-san?\' Put anyone\'s name before " Listen for ',
+        ("muranishi", "どこ"), ", where, and polite ",
+        ("muranishi", "ですか"), " to ask where they are."
+    ]),
+    (9, 'どこにもいないよ。', [
+        '"\'He is nowhere to be found.\' Pairing " In this line, ',
+        ("kacho", "どこにも"), " with negative ",
+        ("kacho", "いない"), " sweeps every place clean: 'not anywhere at all'."
+    ]),
+    (9, '会社は終わりだ。', [
+        "'The company is finished.'  The word ",
+        ("kacho", "終わり"), " turns the verb for to end, into 'the end'—heard at closing time and when a venture goes under."
+    ]),
+    (11, None, [
+        "'I am going home early today.'  Here, the word ",
+        ("muranishi", "帰ります"), " this word is the polite everyday word for heading home—leading straight into Muranishi's early return to his house."
+    ]),
 ]
 
 TRANSITION = "Now let's listen to the office safe scene again."
 
 OUTRO = (
-    "Hold on to \"nanika atta n desu ka\" to ask if something happened, \"zenbu\" for 'all of it', "
-    "and \"karappo\" when something is completely empty. "
+    "Hold on to the phrase to ask if something happened, the word for 'all of it', "
+    "and the word to use when something is completely empty. "
     "See you in the next scene."
 )
 

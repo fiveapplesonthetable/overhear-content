@@ -691,7 +691,7 @@
       "trans": "Have a good day!",
       "words": [
         {
-          "t": "いってらっしゃい",
+          "t": "いってらっしゃい！",
           "lemma": "いってらっしゃい",
           "pos": "interj",
           "stress": null,
@@ -699,7 +699,7 @@
           "gram": "Standard send-off greeting.",
           "span": [
             0,
-            8
+            9
           ],
           "reading": "イッテラッシャイ"
         }
@@ -710,7 +710,7 @@
       "trans": "Okay!",
       "words": [
         {
-          "t": "はーい",
+          "t": "はーい。",
           "lemma": "はい",
           "pos": "interj",
           "stress": null,
@@ -718,7 +718,7 @@
           "gram": "Lengthened, casual form of はい (yes).",
           "span": [
             0,
-            3
+            4
           ],
           "reading": "ハーイ"
         }
@@ -758,599 +758,25 @@
     },
     {
       "seg": 16,
-      "trans": "Come home early, okay!",
+      "trans": "Have a good day!",
       "words": [
         {
-          "t": "早く",
-          "lemma": "早い",
-          "pos": "adj",
+          "t": "いってらっしゃい！",
+          "lemma": "いってらっしゃい",
+          "pos": "interj",
           "stress": null,
-          "gloss": "early",
-          "gram": "Adverbial く-form of 早い (early) modifying 帰って.",
+          "gloss": "have a good day!",
+          "gram": "Standard send-off greeting.",
           "span": [
             0,
-            2
+            9
           ],
-          "reading": "ハヤク"
-        },
-        {
-          "t": "帰って",
-          "lemma": "帰る",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "come home",
-          "gram": "て-form of 帰る (go/come home), used here as a gentle request.",
-          "span": [
-            2,
-            5
-          ],
-          "reading": "カエッテ"
-        },
-        {
-          "t": "ね",
-          "lemma": "ね",
-          "pos": "part",
-          "stress": null,
-          "gloss": "okay?",
-          "gram": "Sentence-ending particle softening the request.",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "ネ"
+          "reading": "イッテラッシャイ"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "I have overtime today, so I'll be home late.",
-      "words": [
-        {
-          "t": "今日",
-          "lemma": "今日",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "today",
-          "gram": "Time noun.",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "キョウ"
-        },
-        {
-          "t": "は",
-          "lemma": "は",
-          "pos": "part",
-          "stress": null,
-          "gloss": "as for",
-          "gram": "Topic marker; pronounced ワ.",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "ワ"
-        },
-        {
-          "t": "残業",
-          "lemma": "残業",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "overtime work",
-          "gram": "Noun; working past regular hours.",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "ザンギョウ"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is",
-          "gram": "Plain copula.",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "ダ"
-        },
-        {
-          "t": "から",
-          "lemma": "から",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "because; so",
-          "gram": "Causal conjunction.",
-          "span": [
-            6,
-            8
-          ],
-          "reading": "カラ"
-        },
-        {
-          "t": "遅い",
-          "lemma": "遅い",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "late",
-          "gram": "Plain い-adjective.",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "オソイ"
-        },
-        {
-          "t": "ん",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "explanatory marker",
-          "gram": "Colloquial contraction of explanatory の.",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "ン"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is",
-          "gram": "Plain copula following explanatory ん.",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "ダ"
-        },
-        {
-          "t": "よ",
-          "lemma": "よ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "you know",
-          "gram": "Sentence-ending emphasis particle.",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "ヨ"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "Even though you're probably just slacking off playing video games anyway.",
-      "words": [
-        {
-          "t": "どうせ",
-          "lemma": "どうせ",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "anyway",
-          "gram": "Adverb expressing resignation or skepticism.",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ドウセ"
-        },
-        {
-          "t": "ゲーム",
-          "lemma": "ゲーム",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "video games",
-          "gram": "Loanword noun from English 'game'.",
-          "span": [
-            3,
-            6
-          ],
-          "reading": "ゲーム"
-        },
-        {
-          "t": "でも",
-          "lemma": "でも",
-          "pos": "part",
-          "stress": null,
-          "gloss": "or something",
-          "gram": "Particle giving an illustrative example.",
-          "span": [
-            6,
-            8
-          ],
-          "reading": "デモ"
-        },
-        {
-          "t": "やって",
-          "lemma": "やる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "playing; doing",
-          "gram": "て-form of やる (do/play).",
-          "span": [
-            8,
-            11
-          ],
-          "reading": "ヤッテ"
-        },
-        {
-          "t": "サボってる",
-          "lemma": "サボる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is slacking off",
-          "gram": "Contracted progressive てる-form of サボる (to slack off).",
-          "span": [
-            11,
-            16
-          ],
-          "reading": "サボッテル"
-        },
-        {
-          "t": "くせに",
-          "lemma": "くせに",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "even though",
-          "gram": "Conjunction expressing reproach or annoyance.",
-          "span": [
-            16,
-            19
-          ],
-          "reading": "クセニ"
-        }
-      ]
-    },
-    {
-      "seg": 22,
-      "trans": "Don't say things like that, Mayumi.",
-      "words": [
-        {
-          "t": "そんな",
-          "lemma": "そんな",
-          "pos": "det",
-          "stress": null,
-          "gloss": "such; like that",
-          "gram": "Prenominal modifier.",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ソンナ"
-        },
-        {
-          "t": "こと",
-          "lemma": "こと",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "thing",
-          "gram": "Abstract noun.",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "コト"
-        },
-        {
-          "t": "言う",
-          "lemma": "言う",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "say",
-          "gram": "Plain dictionary form of 言う (to say).",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "イウ"
-        },
-        {
-          "t": "な",
-          "lemma": "な",
-          "pos": "part",
-          "stress": null,
-          "gloss": "don't",
-          "gram": "Prohibitive sentence-ending particle after dictionary-form verb.",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "ナ"
-        },
-        {
-          "t": "よ",
-          "lemma": "よ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "hey",
-          "gram": "Sentence-ending particle softening the prohibition.",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "ヨ"
-        },
-        {
-          "t": "真由美",
-          "lemma": "真由美",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mayumi",
-          "gram": "Given name of Muranishi's wife.",
-          "span": [
-            10,
-            13
-          ],
-          "reading": "マユミ"
-        }
-      ]
-    },
-    {
-      "seg": 24,
-      "trans": "Look!",
-      "words": [
-        {
-          "t": "ほら",
-          "lemma": "ほら",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "look!",
-          "gram": "Interjection drawing attention.",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ホラ"
-        }
-      ]
-    },
-    {
-      "seg": 26,
-      "trans": "No, this is change for work.",
-      "words": [
-        {
-          "t": "いや",
-          "lemma": "いや",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "no",
-          "gram": "Casual interjection denying a claim.",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "イヤ"
-        },
-        {
-          "t": "これ",
-          "lemma": "これ",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "this",
-          "gram": "Demonstrative pronoun.",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "コレ"
-        },
-        {
-          "t": "は",
-          "lemma": "は",
-          "pos": "part",
-          "stress": null,
-          "gloss": "as for",
-          "gram": "Topic marker; pronounced ワ.",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "ワ"
-        },
-        {
-          "t": "仕事",
-          "lemma": "仕事",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "work",
-          "gram": "Noun.",
-          "span": [
-            6,
-            8
-          ],
-          "reading": "シゴト"
-        },
-        {
-          "t": "の",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "for; of",
-          "gram": "Links 仕事 (work) to 小銭 (change).",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "ノ"
-        },
-        {
-          "t": "小銭",
-          "lemma": "小銭",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "loose change",
-          "gram": "Noun.",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "コゼニ"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is",
-          "gram": "Plain copula.",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "ダ"
-        },
-        {
-          "t": "よ",
-          "lemma": "よ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "you know",
-          "gram": "Sentence-ending emphasis particle.",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "ヨ"
-        }
-      ]
-    },
-    {
-      "seg": 28,
-      "trans": "Go have fun 'working hard' out there.",
-      "words": [
-        {
-          "t": "頑張って",
-          "lemma": "頑張る",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "doing your best",
-          "gram": "て-form of 頑張る (work hard), used sarcastically here.",
-          "span": [
-            0,
-            4
-          ],
-          "reading": "ガンバッテ"
-        },
-        {
-          "t": "遊んで",
-          "lemma": "遊ぶ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "playing",
-          "gram": "て-form of 遊ぶ (play/hang out).",
-          "span": [
-            4,
-            7
-          ],
-          "reading": "アソンデ"
-        },
-        {
-          "t": "きて",
-          "lemma": "くる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "go and come back",
-          "gram": "て-form of auxiliary くる (go do something and return), used as a soft request.",
-          "span": [
-            7,
-            9
-          ],
-          "reading": "キテ"
-        }
-      ]
-    },
-    {
-      "seg": 30,
-      "trans": "Well then, I'm heading out.",
-      "words": [
-        {
-          "t": "じゃあ",
-          "lemma": "じゃあ",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "well then",
-          "gram": "Casual conjunction.",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ジャア"
-        },
-        {
-          "t": "行ってくる",
-          "lemma": "行ってくる",
-          "pos": "phrase",
-          "stress": null,
-          "gloss": "I'm heading out",
-          "gram": "Set phrase said when leaving home.",
-          "span": [
-            4,
-            9
-          ],
-          "reading": "イッテクル"
-        }
-      ]
-    },
-    {
-      "seg": 32,
-      "trans": "Okay!",
-      "words": [
-        {
-          "t": "はーい",
-          "lemma": "はい",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "okay; yeah",
-          "gram": "Lengthened, casual form of はい (yes).",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ハーイ"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "Have a good day, Dad.",
-      "words": [
-        {
-          "t": "いってらっしゃい",
-          "lemma": "いってらっしゃい",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "have a good day",
-          "gram": "Standard polite send-off said to someone leaving home.",
-          "span": [
-            0,
-            8
-          ],
-          "reading": "イッテラッシャイ"
-        },
-        {
-          "t": "パパ",
-          "lemma": "パパ",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "Dad",
-          "gram": "Casual affectionate term for father.",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "パパ"
-        }
-      ]
-    },
-    {
-      "seg": 35,
       "trans": "Come home early, okay!",
       "words": [
         {
@@ -1395,7 +821,58 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 20,
+      "trans": "early",
+      "words": [
+        {
+          "t": "早く",
+          "lemma": "早い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "early",
+          "gram": "Adverbial く-form of 早い (early) modifying 帰って.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ハヤク"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "come home / okay?",
+      "words": [
+        {
+          "t": "帰って",
+          "lemma": "帰る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come home",
+          "gram": "て-form of 帰る (go/come home), used here as a gentle request.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "カエッテ"
+        },
+        {
+          "t": "ね",
+          "lemma": "ね",
+          "pos": "part",
+          "stress": null,
+          "gloss": "okay?",
+          "gram": "Sentence-ending particle softening the request.",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ネ"
+        }
+      ]
+    },
+    {
+      "seg": 24,
       "trans": "I have overtime today, so I'll be home late.",
       "words": [
         {
@@ -1518,7 +995,77 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 26,
+      "trans": "overtime work",
+      "words": [
+        {
+          "t": "残業",
+          "lemma": "残業",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "overtime work",
+          "gram": "Noun; working past regular hours.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ザンギョウ"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "is / because; so",
+      "words": [
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "Plain copula.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ダ"
+        },
+        {
+          "t": "から",
+          "lemma": "から",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "because; so",
+          "gram": "Causal conjunction.",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "カラ"
+        }
+      ]
+    },
+    {
+      "seg": 30,
+      "trans": "late",
+      "words": [
+        {
+          "t": "遅い",
+          "lemma": "遅い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "late",
+          "gram": "Plain い-adjective.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "オソイ"
+        }
+      ]
+    },
+    {
+      "seg": 32,
       "trans": "Even though you're probably just slacking off playing video games anyway.",
       "words": [
         {
@@ -1598,6 +1145,44 @@
             19
           ],
           "reading": "クセニ"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "anyway",
+      "words": [
+        {
+          "t": "どうせ",
+          "lemma": "どうせ",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "anyway",
+          "gram": "Adverb expressing resignation or skepticism.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ドウセ"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "is slacking off",
+      "words": [
+        {
+          "t": "サボってる",
+          "lemma": "サボる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is slacking off",
+          "gram": "Contracted progressive てる-form of サボる (to slack off).",
+          "span": [
+            0,
+            5
+          ],
+          "reading": "サボッテル"
         }
       ]
     },
@@ -1686,8 +1271,65 @@
       ]
     },
     {
-      "seg": 39,
-      "trans": "Look! More loose change.",
+      "seg": 40,
+      "trans": "don't",
+      "words": [
+        {
+          "t": "な",
+          "lemma": "な",
+          "pos": "part",
+          "stress": null,
+          "gloss": "don't",
+          "gram": "Prohibitive sentence-ending particle after dictionary-form verb.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ナ"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "say",
+      "words": [
+        {
+          "t": "言う",
+          "lemma": "言う",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "say",
+          "gram": "Plain dictionary form of 言う (to say).",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イウ"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "you know",
+      "words": [
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "Sentence-ending emphasis particle.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "look!",
       "words": [
         {
           "t": "ほら",
@@ -1701,50 +1343,30 @@
             2
           ],
           "reading": "ホラ"
-        },
-        {
-          "t": "また",
-          "lemma": "また",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "again; more",
-          "gram": "Adverb indicating repetition.",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "マタ"
-        },
-        {
-          "t": "小銭",
-          "lemma": "小銭",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "loose change",
-          "gram": "Noun referring to small coins.",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "コゼニ"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is",
-          "gram": "Plain copula.",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "ダ"
         }
       ]
     },
     {
-      "seg": 40,
+      "seg": 47,
+      "trans": "look!",
+      "words": [
+        {
+          "t": "ほら",
+          "lemma": "ほら",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "look!",
+          "gram": "Interjection drawing attention to something.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ホラ"
+        }
+      ]
+    },
+    {
+      "seg": 49,
       "trans": "No, this is change for work.",
       "words": [
         {
@@ -1854,7 +1476,26 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 51,
+      "trans": "loose change",
+      "words": [
+        {
+          "t": "小銭",
+          "lemma": "小銭",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "loose change",
+          "gram": "Noun referring to small coins.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "コゼニ"
+        }
+      ]
+    },
+    {
+      "seg": 53,
       "trans": "Go have fun 'working hard' out there.",
       "words": [
         {
@@ -1899,7 +1540,728 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 55,
+      "trans": "doing your best",
+      "words": [
+        {
+          "t": "頑張って",
+          "lemma": "頑張る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "doing your best",
+          "gram": "て-form of 頑張る (work hard), used sarcastically here.",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "ガンバッテ"
+        }
+      ]
+    },
+    {
+      "seg": 57,
+      "trans": "playing / go and come back",
+      "words": [
+        {
+          "t": "遊んで",
+          "lemma": "遊ぶ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "playing",
+          "gram": "て-form of 遊ぶ (play/hang out).",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "アソンデ"
+        },
+        {
+          "t": "きて",
+          "lemma": "くる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "go and come back",
+          "gram": "て-form of auxiliary くる (go do something and return), used as a soft request.",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "キテ"
+        }
+      ]
+    },
+    {
+      "seg": 59,
+      "trans": "Well then, I'm heading out.",
+      "words": [
+        {
+          "t": "じゃあ",
+          "lemma": "じゃあ",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "well then",
+          "gram": "Casual conjunction.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ジャア"
+        },
+        {
+          "t": "行ってくる",
+          "lemma": "行ってくる",
+          "pos": "phrase",
+          "stress": null,
+          "gloss": "I'm heading out",
+          "gram": "Set phrase said when leaving home.",
+          "span": [
+            4,
+            9
+          ],
+          "reading": "イッテクル"
+        }
+      ]
+    },
+    {
+      "seg": 61,
+      "trans": "I'm heading out",
+      "words": [
+        {
+          "t": "行ってくる",
+          "lemma": "行ってくる",
+          "pos": "phrase",
+          "stress": null,
+          "gloss": "I'm heading out",
+          "gram": "Set phrase said when leaving home.",
+          "span": [
+            0,
+            5
+          ],
+          "reading": "イッテクル"
+        }
+      ]
+    },
+    {
+      "seg": 63,
+      "trans": "Okay!",
+      "words": [
+        {
+          "t": "はーい。",
+          "lemma": "はい",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "okay; yeah",
+          "gram": "Lengthened, casual form of はい (yes).",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "ハーイ"
+        }
+      ]
+    },
+    {
+      "seg": 65,
+      "trans": "Okay!",
+      "words": [
+        {
+          "t": "はーい。",
+          "lemma": "はい",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "okay; yeah",
+          "gram": "Lengthened, casual form of はい (yes).",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "ハーイ"
+        }
+      ]
+    },
+    {
+      "seg": 67,
+      "trans": "Have a good day, Dad.",
+      "words": [
+        {
+          "t": "いってらっしゃい",
+          "lemma": "いってらっしゃい",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "have a good day",
+          "gram": "Standard polite send-off said to someone leaving home.",
+          "span": [
+            0,
+            8
+          ],
+          "reading": "イッテラッシャイ"
+        },
+        {
+          "t": "パパ",
+          "lemma": "パパ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Dad",
+          "gram": "Casual affectionate term for father.",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "パパ"
+        }
+      ]
+    },
+    {
+      "seg": 68,
+      "trans": "Come home early, okay!",
+      "words": [
+        {
+          "t": "早く",
+          "lemma": "早い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "early",
+          "gram": "Adverbial く-form of 早い (early) modifying 帰って.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ハヤク"
+        },
+        {
+          "t": "帰って",
+          "lemma": "帰る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come home",
+          "gram": "て-form of 帰る (go/come home), used here as a gentle request.",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "カエッテ"
+        },
+        {
+          "t": "ね",
+          "lemma": "ね",
+          "pos": "part",
+          "stress": null,
+          "gloss": "okay?",
+          "gram": "Sentence-ending particle softening the request.",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ネ"
+        }
+      ]
+    },
+    {
+      "seg": 69,
+      "trans": "I have overtime today, so I'll be home late.",
+      "words": [
+        {
+          "t": "今日",
+          "lemma": "今日",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "today",
+          "gram": "Time noun.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "キョウ"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "as for",
+          "gram": "Topic marker; pronounced ワ.",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "残業",
+          "lemma": "残業",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "overtime work",
+          "gram": "Noun; working past regular hours.",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "ザンギョウ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "Plain copula.",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ダ"
+        },
+        {
+          "t": "から",
+          "lemma": "から",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "because; so",
+          "gram": "Causal conjunction.",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "カラ"
+        },
+        {
+          "t": "遅い",
+          "lemma": "遅い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "late",
+          "gram": "Plain い-adjective.",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "オソイ"
+        },
+        {
+          "t": "ん",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "explanatory marker",
+          "gram": "Colloquial contraction of explanatory の.",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ン"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "Plain copula following explanatory ん.",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ダ"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "Sentence-ending emphasis particle.",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 70,
+      "trans": "Even though you're probably just slacking off playing video games anyway.",
+      "words": [
+        {
+          "t": "どうせ",
+          "lemma": "どうせ",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "anyway",
+          "gram": "Adverb expressing resignation or skepticism.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ドウセ"
+        },
+        {
+          "t": "ゲーム",
+          "lemma": "ゲーム",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "video games",
+          "gram": "Loanword noun from English 'game'.",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "ゲーム"
+        },
+        {
+          "t": "でも",
+          "lemma": "でも",
+          "pos": "part",
+          "stress": null,
+          "gloss": "or something",
+          "gram": "Particle giving an illustrative example.",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "デモ"
+        },
+        {
+          "t": "やって",
+          "lemma": "やる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "playing; doing",
+          "gram": "て-form of やる (do/play).",
+          "span": [
+            8,
+            11
+          ],
+          "reading": "ヤッテ"
+        },
+        {
+          "t": "サボってる",
+          "lemma": "サボる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is slacking off",
+          "gram": "Contracted progressive てる-form of サボる (to slack off).",
+          "span": [
+            11,
+            16
+          ],
+          "reading": "サボッテル"
+        },
+        {
+          "t": "くせに",
+          "lemma": "くせに",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "even though",
+          "gram": "Conjunction expressing reproach or annoyance.",
+          "span": [
+            16,
+            19
+          ],
+          "reading": "クセニ"
+        }
+      ]
+    },
+    {
+      "seg": 71,
+      "trans": "Don't say things like that, Mayumi.",
+      "words": [
+        {
+          "t": "そんな",
+          "lemma": "そんな",
+          "pos": "det",
+          "stress": null,
+          "gloss": "such; like that",
+          "gram": "Prenominal modifier.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ソンナ"
+        },
+        {
+          "t": "こと",
+          "lemma": "こと",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "thing",
+          "gram": "Abstract noun.",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "コト"
+        },
+        {
+          "t": "言う",
+          "lemma": "言う",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "say",
+          "gram": "Plain dictionary form of 言う (to say).",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "イウ"
+        },
+        {
+          "t": "な",
+          "lemma": "な",
+          "pos": "part",
+          "stress": null,
+          "gloss": "don't",
+          "gram": "Prohibitive sentence-ending particle after dictionary-form verb.",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ナ"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "hey",
+          "gram": "Sentence-ending particle softening the prohibition.",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "ヨ"
+        },
+        {
+          "t": "真由美",
+          "lemma": "真由美",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mayumi",
+          "gram": "Given name of Muranishi's wife.",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "マユミ"
+        }
+      ]
+    },
+    {
+      "seg": 72,
+      "trans": "Look! More loose change.",
+      "words": [
+        {
+          "t": "ほら",
+          "lemma": "ほら",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "look!",
+          "gram": "Interjection drawing attention to something.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ホラ"
+        },
+        {
+          "t": "また",
+          "lemma": "また",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "again; more",
+          "gram": "Adverb indicating repetition.",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "マタ"
+        },
+        {
+          "t": "小銭",
+          "lemma": "小銭",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "loose change",
+          "gram": "Noun referring to small coins.",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "コゼニ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "Plain copula.",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ダ"
+        }
+      ]
+    },
+    {
+      "seg": 73,
+      "trans": "No, this is change for work.",
+      "words": [
+        {
+          "t": "いや",
+          "lemma": "いや",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "no",
+          "gram": "Casual interjection denying a claim.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イヤ"
+        },
+        {
+          "t": "これ",
+          "lemma": "これ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "this",
+          "gram": "Demonstrative pronoun.",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "コレ"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "as for",
+          "gram": "Topic marker; pronounced ワ.",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "仕事",
+          "lemma": "仕事",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "work",
+          "gram": "Noun.",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "シゴト"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "for; of",
+          "gram": "Links 仕事 (work) to 小銭 (change).",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "小銭",
+          "lemma": "小銭",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "loose change",
+          "gram": "Noun.",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "コゼニ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "Plain copula.",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ダ"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "Sentence-ending emphasis particle.",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 74,
+      "trans": "Go have fun 'working hard' out there.",
+      "words": [
+        {
+          "t": "頑張って",
+          "lemma": "頑張る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "doing your best",
+          "gram": "て-form of 頑張る (work hard), used sarcastically here.",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "ガンバッテ"
+        },
+        {
+          "t": "遊んで",
+          "lemma": "遊ぶ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "playing",
+          "gram": "て-form of 遊ぶ (play/hang out).",
+          "span": [
+            4,
+            7
+          ],
+          "reading": "アソンデ"
+        },
+        {
+          "t": "きて",
+          "lemma": "くる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "go and come back",
+          "gram": "て-form of auxiliary くる (go do something and return), used as a soft request.",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "キテ"
+        }
+      ]
+    },
+    {
+      "seg": 75,
       "trans": "It really is for work, you know.",
       "words": [
         {
@@ -1970,7 +2332,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 76,
       "trans": "Well then, I'm heading out.",
       "words": [
         {
@@ -2002,11 +2364,11 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 77,
       "trans": "Have a good day!",
       "words": [
         {
-          "t": "いってらっしゃい",
+          "t": "いってらっしゃい！",
           "lemma": "いってらっしゃい",
           "pos": "interj",
           "stress": null,
@@ -2014,18 +2376,18 @@
           "gram": "Standard send-off greeting.",
           "span": [
             0,
-            8
+            9
           ],
           "reading": "イッテラッシャイ"
         }
       ]
     },
     {
-      "seg": 45,
+      "seg": 78,
       "trans": "Okay!",
       "words": [
         {
-          "t": "はーい",
+          "t": "はーい。",
           "lemma": "はい",
           "pos": "interj",
           "stress": null,
@@ -2033,14 +2395,14 @@
           "gram": "Lengthened, casual form of はい (yes).",
           "span": [
             0,
-            3
+            4
           ],
           "reading": "ハーイ"
         }
       ]
     },
     {
-      "seg": 47,
+      "seg": 80,
       "trans": "See you later.",
       "words": [
         {

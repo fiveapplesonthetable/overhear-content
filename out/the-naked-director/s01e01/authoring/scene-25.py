@@ -11,8 +11,8 @@ SOURCE_NAME = '全裸監督 (The Naked Director) S01E01'
 SOURCE_FILE = 'sources/the-naked-director/s01/e01.ja.srt'
 
 INTRO = (
-    "Drinking alone in Susukino, Sapporo's lively entertainment district, Muranishi witnesses a loud argument over twenty thousand yen. "
-    "After the bar's Mama-san restores order, a young hustler named Toshi sits down beside Muranishi to thank him and pour a drink. "
+    "Drinking alone in Susukino, Sapporo's lively entertainment district, the protagonist witnesses a loud argument over twenty thousand yen. "
+    "After the bar's owner restores order, a young hustler sits down beside him to thank him and pour a drink. "
     "Listen to their first meeting."
 )
 
@@ -34,24 +34,61 @@ STORY = [
 OPENER = "Bar banter moves fast—from stern scolding to shameless flattery to pouring drinks. Let's unpack each expression."
 
 WALK = [
-    (0, None, "'Give back what? Twenty thousand yen?' \"Kaesu\" means to return something to its owner. Notice Japanese counts big sums in units of \"man\", ten thousand—so \"niman\" is two ten-thousands, twenty thousand!"),
-    (1, None, "'Both of you, stop it right now!' \"Futari tomo\" addresses the pair together as 'both of you'. Attaching \"nasai\" to \"yameru\", to stop, gives Mama-san a firm motherly command."),
-    (2, None, "'Cause a commotion next time, Toshi-chan, and I will throw you out.' \"Tsugi ni\" means next time, \"sawagi\" is a ruckus, and \"oidasu\" joins \"ou\", chase, with \"dasu\", put out—literally 'chase out the door'."),
-    (4, 'ママ、今日も美しいね。', "'Mama, you look beautiful today too.' Turning on the charm, Toshi uses \"kyou mo\", today as well, and literary-sounding \"utsukushii\", beautiful."),
-    (5, None, "'You too, sure, sure.' Not fooled by his flattery, Mama-san brushes him off with \"hai hai\"—saying \"hai\" twice in a row means 'yeah, yeah, whatever you say'."),
-    (6, '助かったよ。', "'You really helped me out.' Literally \"tasukatta\" means 'I was saved!'—the everyday way Japanese speakers thank someone whenever a small favour rescues them from a tight spot."),
-    (7, None, "'Come on, let me pour you a drink.' \"Ippai\" counts one cup or glass, and \"ippai yaru\" is relaxed after-work shorthand for having a drink together."),
-    (8, None, "'No, I have had plenty already.' \"Mou juubun\" pairs \"mou\", already, with \"juubun\", enough or plenty—useful whenever someone tries to refill your glass or plate."),
-    (9, None, "'Do not say something so cold.' Just as English calls an unfriendly refusal 'cold', Japanese uses \"tsumetai\", chilly to the touch, for a cold attitude."),
-    (10, None, "'Come on, bring a glass over here.' Combining \"motte\", holding, with \"kite\", come, gives \"motte kite\"—'bring it here!'"),
+    (0, None, [
+        "'Give back what? Twenty thousand yen?'  Check out ",
+        (None, "返す"), " this word means to return something to its owner. Notice Japanese counts big sums in units of ",
+        (None, "万"), ", ten thousand—so ",
+        (None, "二万"), " is two ten-thousands, twenty thousand!"
+    ]),
+    (1, None, [
+        "'Both of you, stop it right now!'  The speaker uses ",
+        (None, "二人とも"), " addresses the pair together as 'both of you'. Attaching a firm ending to ",
+        (None, "やめなさい"), " gives a motherly command."
+    ]),
+    (2, None, [
+        "'Cause a commotion next time, Toshi-chan, and I will throw you out.'  We can hear ",
+        (None, "次に"), " this word means next time, ",
+        (None, "騒ぎ"), " this word is a ruckus, and ",
+        (None, "追い出す"), " joins the verb for chase with the verb for put out—literally 'chase out the door'."
+    ]),
+    (4, 'ママ、今日も美しいね。', [
+        '"\'Mama, you look beautiful today too.\' Turning on the charm, he uses " The phrase contains ',
+        (None, "今日も"), ", today as well, and literary-sounding ",
+        (None, "美しいね"), ", beautiful."
+    ]),
+    (5, None, [
+        '"\'You too, sure, sure.\' Not fooled by his flattery, she brushes him off with " Watch for ',
+        (None, "はいはい"), "—saying yes twice in a row this word means 'yeah, yeah, whatever you say'."
+    ]),
+    (6, '助かったよ。', [
+        '"\'You really helped me out.\' Literally " You can catch ',
+        (None, "助かったよ"), " this word means 'I was saved!'—the everyday way speakers thank someone whenever a small favour rescues them."
+    ]),
+    (7, None, [
+        "'Come on, let me pour you a drink.'  It features ",
+        (None, "一杯"), " counts one cup or glass, and pouring one is relaxed after-work shorthand for having a drink together."
+    ]),
+    (8, None, [
+        "'No, I have had plenty already.'  The word ",
+        (None, "もう十分だ"), " pairs ",
+        (None, "もう"), ", already, with ",
+        (None, "十分だ"), ", enough or plenty—useful whenever someone tries to refill your glass or plate."
+    ]),
+    (9, None, [
+        '"\'Do not say something so cold.\' Just as English calls an unfriendly refusal \'cold\', Japanese uses " Starting off with ',
+        (None, "冷たい"), ", chilly to the touch, for a cold attitude."
+    ]),
+    (10, None, [
+        '"\'Come on, bring a glass over here.\' Combining the verb for holding with the verb for come gives " In this line, ',
+        (None, "持ってきて"), "—'bring it here!'"
+    ]),
 ]
 
-TRANSITION = "Now let's listen to Toshi and Muranishi's bar meeting again."
+TRANSITION = "Now let's listen to their bar meeting again."
 
 OUTRO = (
-    "Keep \"tasukatta\" handy for 'you saved me!', \"mou juubun\" when you have had enough, "
-    "and \"motte kite\" to ask someone to bring something over. "
+    "Keep the phrase for 'you saved me!' handy, the expression for when you have had enough, "
+    "and the command to ask someone to bring something over. "
     "See you in scene twenty-six."
 )
-
 CLOSING = ('mama', 'またね。')

@@ -39,7 +39,7 @@
       "trans": "Yes.",
       "words": [
         {
-          "t": "はい",
+          "t": "はい。",
           "lemma": "はい",
           "pos": "interj",
           "stress": null,
@@ -47,7 +47,7 @@
           "gram": "interjection",
           "span": [
             0,
-            2
+            3
           ],
           "reading": "ハイ"
         }
@@ -940,6 +940,25 @@
     },
     {
       "seg": 16,
+      "trans": "a moment; a word",
+      "words": [
+        {
+          "t": "ちょっと",
+          "lemma": "ちょっと",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "a moment; a word",
+          "gram": "adverb",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "チョット"
+        }
+      ]
+    },
+    {
+      "seg": 18,
       "trans": "Zero contracts again?",
       "words": [
         {
@@ -997,7 +1016,83 @@
       ]
     },
     {
-      "seg": 18,
+      "seg": 20,
+      "trans": "again",
+      "words": [
+        {
+          "t": "また",
+          "lemma": "また",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "again",
+          "gram": "adverb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "マタ"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "contract",
+      "words": [
+        {
+          "t": "契約",
+          "lemma": "契約",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "contract",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ケイヤク"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "zero",
+      "words": [
+        {
+          "t": "ゼロ",
+          "lemma": "ゼロ",
+          "pos": "num",
+          "stress": null,
+          "gloss": "zero",
+          "gram": "number",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ゼロ"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "question marker",
+      "words": [
+        {
+          "t": "か",
+          "lemma": "か",
+          "pos": "part",
+          "stress": null,
+          "gloss": "question marker",
+          "gram": "question particle",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "カ"
+        }
+      ]
+    },
+    {
+      "seg": 28,
       "trans": "Maybe it's the effect of the recession?",
       "words": [
         {
@@ -1081,8 +1176,72 @@
       ]
     },
     {
-      "seg": 20,
-      "trans": "No, it's not.",
+      "seg": 30,
+      "trans": "recession",
+      "words": [
+        {
+          "t": "不景気",
+          "lemma": "不景気",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "recession",
+          "gram": "noun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "フケイキ"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "is (polite) / question marker / I wonder",
+      "words": [
+        {
+          "t": "です",
+          "lemma": "です",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is (polite)",
+          "gram": "polite copula",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "デス"
+        },
+        {
+          "t": "か",
+          "lemma": "か",
+          "pos": "part",
+          "stress": null,
+          "gloss": "question marker",
+          "gram": "question particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "カ"
+        },
+        {
+          "t": "ね",
+          "lemma": "ね",
+          "pos": "part",
+          "stress": null,
+          "gloss": "I wonder",
+          "gram": "sentence-final particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ネ"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "be wrong; no / emphatic",
       "words": [
         {
           "t": "違う",
@@ -1113,7 +1272,26 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 36,
+      "trans": "be wrong; no",
+      "words": [
+        {
+          "t": "違う",
+          "lemma": "違う",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be wrong; no",
+          "gram": "verb (plain)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "チガウ"
+        }
+      ]
+    },
+    {
+      "seg": 38,
       "trans": "You don't need to come in starting next month.",
       "words": [
         {
@@ -1197,8 +1375,104 @@
       ]
     },
     {
-      "seg": 24,
-      "trans": "That puts me in a bind.",
+      "seg": 40,
+      "trans": "next month",
+      "words": [
+        {
+          "t": "来月",
+          "lemma": "来月",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "next month",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ライゲツ"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "from; starting",
+      "words": [
+        {
+          "t": "から",
+          "lemma": "から",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "from; starting",
+          "gram": "case particle",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カラ"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "come / not / connecting particle / good; fine",
+      "words": [
+        {
+          "t": "来",
+          "lemma": "来る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come",
+          "gram": "verb (irrealis)",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "コ"
+        },
+        {
+          "t": "なく",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative (continuative)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "ナク"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "いい",
+          "lemma": "いい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good; fine",
+          "gram": "i-adjective",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "イイ"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "that / topic marker / be troubled / polite suffix / you know",
       "words": [
         {
           "t": "それ",
@@ -1268,8 +1542,111 @@
       ]
     },
     {
-      "seg": 26,
-      "trans": "Because I have a family.",
+      "seg": 48,
+      "trans": "be troubled / polite suffix",
+      "words": [
+        {
+          "t": "困り",
+          "lemma": "困る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be troubled",
+          "gram": "verb (continuative)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "コマリ"
+        },
+        {
+          "t": "ます",
+          "lemma": "ます",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "マス"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "that / topic marker / be troubled / polite suffix / you know",
+      "words": [
+        {
+          "t": "それ",
+          "lemma": "それ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "that",
+          "gram": "pronoun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ソレ"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "困り",
+          "lemma": "困る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be troubled",
+          "gram": "verb (continuative)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "コマリ"
+        },
+        {
+          "t": "ます",
+          "lemma": "ます",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "マス"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "sentence-final particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "family / subject marker / have; exist / explanatory / because",
       "words": [
         {
           "t": "家族",
@@ -1339,7 +1716,77 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 54,
+      "trans": "family",
+      "words": [
+        {
+          "t": "家族",
+          "lemma": "家族",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "family",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カゾク"
+        }
+      ]
+    },
+    {
+      "seg": 56,
+      "trans": "have; exist",
+      "words": [
+        {
+          "t": "いる",
+          "lemma": "いる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "have; exist",
+          "gram": "verb (plain)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イル"
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "explanatory / because",
+      "words": [
+        {
+          "t": "ん",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "explanatory",
+          "gram": "nominalizer",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ン"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "pos": "part",
+          "stress": null,
+          "gloss": "because",
+          "gram": "conjunctive particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "デ"
+        }
+      ]
+    },
+    {
+      "seg": 60,
       "trans": "You really are a strange guy.",
       "words": [
         {
@@ -1423,7 +1870,45 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 62,
+      "trans": "strange; mysterious",
+      "words": [
+        {
+          "t": "不思議",
+          "lemma": "不思議",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "strange; mysterious",
+          "gram": "na-adjective",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "フシギ"
+        }
+      ]
+    },
+    {
+      "seg": 64,
+      "trans": "guy; fellow",
+      "words": [
+        {
+          "t": "やつ",
+          "lemma": "やつ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "guy; fellow",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ヤツ"
+        }
+      ]
+    },
+    {
+      "seg": 66,
       "trans": "That wasn't a compliment!",
       "words": [
         {
@@ -1481,7 +1966,65 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 68,
+      "trans": "That wasn't a compliment!",
+      "words": [
+        {
+          "t": "褒め",
+          "lemma": "褒める",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "praise; compliment",
+          "gram": "verb (te-form)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ホメ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "ナイ"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphatic",
+          "gram": "sentence-final particle",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 70,
       "trans": "Because my father taught me to live positively.",
       "words": [
         {
@@ -1604,7 +2147,45 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 72,
+      "trans": "positive; forward-looking",
+      "words": [
+        {
+          "t": "前向き",
+          "lemma": "前向き",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "positive; forward-looking",
+          "gram": "na-adjective",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "マエムキ"
+        }
+      ]
+    },
+    {
+      "seg": 74,
+      "trans": "father",
+      "words": [
+        {
+          "t": "父",
+          "lemma": "父",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "father",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "チチ"
+        }
+      ]
+    },
+    {
+      "seg": 76,
       "trans": "Learn from Ono and get results.",
       "words": [
         {
@@ -1701,7 +2282,84 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 78,
+      "trans": "learn / connecting particle",
+      "words": [
+        {
+          "t": "学ん",
+          "lemma": "学ぶ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "learn",
+          "gram": "verb (te-form)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "マナン"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "pos": "part",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "デ"
+        }
+      ]
+    },
+    {
+      "seg": 80,
+      "trans": "results / object marker / produce; get",
+      "words": [
+        {
+          "t": "結果",
+          "lemma": "結果",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "results",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ケッカ"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "object marker",
+          "gram": "object particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "出せ",
+          "lemma": "出す",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "produce; get",
+          "gram": "verb (imperative)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "ダセ"
+        }
+      ]
+    },
+    {
+      "seg": 82,
       "trans": "Muranishi, a word.",
       "words": [
         {
@@ -1733,11 +2391,11 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 83,
       "trans": "Yes.",
       "words": [
         {
-          "t": "はい",
+          "t": "はい。",
           "lemma": "はい",
           "pos": "interj",
           "stress": null,
@@ -1745,14 +2403,14 @@
           "gram": "interjection",
           "span": [
             0,
-            2
+            3
           ],
           "reading": "ハイ"
         }
       ]
     },
     {
-      "seg": 38,
+      "seg": 84,
       "trans": "Zero contracts again?",
       "words": [
         {
@@ -1810,7 +2468,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 85,
       "trans": "Maybe it's the effect of the recession?",
       "words": [
         {
@@ -1894,7 +2552,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 86,
       "trans": "No, it's not. It's your problem.",
       "words": [
         {
@@ -1978,7 +2636,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 87,
       "trans": "You don't need to come in starting next month.",
       "words": [
         {
@@ -2062,7 +2720,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 88,
       "trans": "That puts me in a bind. I have a family to support.",
       "words": [
         {
@@ -2198,7 +2856,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 89,
       "trans": "You really are a strange guy.",
       "words": [
         {
@@ -2282,7 +2940,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 90,
       "trans": "Thank you very much.",
       "words": [
         {
@@ -2327,7 +2985,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 91,
       "trans": "That wasn't a compliment!",
       "words": [
         {
@@ -2385,7 +3043,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 92,
       "trans": "Because my father taught me to live positively.",
       "words": [
         {
@@ -2508,7 +3166,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 93,
       "trans": "Learn from Ono and get results.",
       "words": [
         {
@@ -2605,7 +3263,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 95,
       "trans": "Goodbye.",
       "words": [
         {

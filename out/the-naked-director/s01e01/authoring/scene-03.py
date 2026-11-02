@@ -35,24 +35,72 @@ STORY = [
 OPENER = "Teenagers arguing over an arcade machine drop almost every polite ending. Let's unpack what they are shouting."
 
 WALK = [
-    (0, None, "'How long are you going to keep playing!' \"Itsu\" means when, and adding \"made\" stretches it into 'until when' or 'how long'. At the end, \"yatte nda\" squeezes \"yatte iru no da\", 'are you doing it', into fast street talk."),
-    (1, None, "'I almost had the high score!' \"Mou sukoshi de\" literally says 'with a little bit more', the go-to chunk for 'almost'. Trailing off with \"noni\" lets frustration hang in the air—'even though I was so close!'"),
-    (2, None, "'Where are you from?' Rough \"omae\" points straight at 'you' among boys picking a fight—never use it with strangers in real life. \"Doko da\" simply asks 'where is it?', leaving 'your school' unspoken."),
-    (3, None, "'Kita High.' \"Kita\" means north, and \"kou\" shortens \"koukou\", high school, just as \"Nishi\" means west in the rival boy's answer."),
-    (4, None, "'Where are you from yourself!' Putting \"koso\" right after \"socchi\", your side, bounces the question right back—'you are the one who should answer!'"),
-    (6, None, "'Shut up, take it outside!' Muranishi barks \"urusai\", noisy or annoying, softened only slightly by grumbling \"na\". Then \"soto de yare\" puts \"soto\", outside, before the blunt command \"yare\", do it!"),
-    (7, None, "'We cannot play the game outside, obviously.' \"Soto de wa\" contrasts 'outdoors' with inside the cafe. \"Dekinai\" means cannot do, and \"darou\" nudges the listener with 'right?' or 'obviously'."),
-    (8, None, "'I am not finished over here yet.' Pairing \"mada\", still or yet, with negative \"owatte inai\", has not ended, gives you the natural Japanese pattern for 'not finished yet'."),
-    (9, None, "'Ouch!' One word, \"itai\", covers both 'it hurts' as a description and 'ouch!' as a sudden cry when somebody bumps you."),
-    (10, None, "'Here we go!' \"Iku\", to go, plus tough masculine \"zo\" turns a plain statement into a rallying shout."),
-    (11, None, "'This is a coffeehouse in Sapporo, you know.' \"Koko\" points to right here, and \"kissaten\" is a traditional Japanese coffee shop where salarymen linger over coffee."),
+    (0, None, [
+        "'How long are you going to keep playing!'  Here, the word ",
+        (None, "いつ"), " this word means when, and adding ",
+        (None, "まで"), " stretches it into 'until when' or 'how long'. At the end, ",
+        (None, "やってんだ"), " squeezes 'are you doing it' into fast street talk."
+    ]),
+    (1, None, [
+        "'I almost had the high score!'  The word ",
+        (None, "もう少しで"), " literally says 'with a little bit more', the go-to chunk for 'almost'. Trailing off with ",
+        (None, "のに"), " lets frustration hang in the air—'even though I was so close!'"
+    ]),
+    (2, None, [
+        '"\'Where are you from?\' Rough " The phrase contains ',
+        (None, "お前"), " points straight at 'you' among boys picking a fight—never use it with strangers in real life. ",
+        (None, "どこだ"), " simply asks 'where is it?', leaving 'your school' unspoken."
+    ]),
+    (3, None, [
+        "'Kita High.'  Starting off with ",
+        (None, "北"), " this word means north, and ",
+        (None, "高"), " shortens the word for high school, just as the word for west does in the rival boy's answer."
+    ]),
+    (4, None, [
+        '"\'Where are you from yourself!\' Putting " Focus on ',
+        (None, "こそ"), " right after ",
+        (None, "そっち"), ", your side, bounces the question right back—'you are the one who should answer!'"
+    ]),
+    (6, None, [
+        '"\'Shut up, take it outside!\' Muranishi barks " Pay attention to ',
+        (None, "うるさい"), ", which is a word for noisy or annoying, softened only slightly by grumbling ",
+        (None, "な"), " Then ",
+        (None, "外でやれ"), " puts ",
+        (None, "外"), ", outside, before the blunt command ",
+        (None, "やれ"), ", do it!"
+    ]),
+    (7, None, [
+        "'We cannot play the game outside, obviously.'  Check out ",
+        (None, "外では"), " contrasts 'outdoors' with inside the cafe. ",
+        (None, "できない"), " this word means cannot do, and ",
+        (None, "だろう"), " nudges the listener with 'right?' or 'obviously'."
+    ]),
+    (8, None, [
+        '"\'I am not finished over here yet.\' Pairing " The word ',
+        (None, "まだ"), ", still or yet, with the negative ",
+        (None, "終わっていない"), ", has not ended, gives you the natural Japanese pattern for 'not finished yet'."
+    ]),
+    (9, None, [
+        '"\'Ouch!\' One word, " In this sentence, ',
+        (None, "痛い！"), ", covers both 'it hurts' as a description and 'ouch!' as a sudden cry when somebody bumps you."
+    ]),
+    (10, None, [
+        "'Here we go!'  It features ",
+        (None, "行く"), ", to go, plus the tough masculine ",
+        (None, "ぞ"), " turns a plain statement into a rallying shout."
+    ]),
+    (11, None, [
+        "'This is a coffeehouse in Sapporo, you know.'  Here, the word ",
+        (None, "ここ"), " points to right here, and ",
+        (None, "喫茶店"), " this word is a traditional Japanese coffee shop where salarymen linger over coffee."
+    ]),
 ]
 
 TRANSITION = "Now let's hear the whole arcade argument play out again."
 
 OUTRO = (
     "Notice the contrast between polite studio Japanese in scene one and blunt street talk here: "
-    "\"itsu made\" for 'until when', \"mada\" with a negative for 'not yet', and \"itai\" whenever something hurts. "
+    "asking 'until when', using the word for still with a negative for 'not yet', and crying out when something hurts. "
     "See you in the next scene."
 )
 

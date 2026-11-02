@@ -871,136 +871,786 @@
     },
     {
       "seg": 10,
-      "trans": "Translation.",
       "words": [
         {
-          "t": "王尔老师，淳于总提前了录影时间",
-          "lemma": "王尔老师，淳于总提前了录影时间",
-          "pos": "phrase",
-          "stress": null,
-          "gloss": "Meaning",
-          "gram": "Meaning: Meaning.",
           "span": [
             0,
+            2
+          ],
+          "t": "王尔",
+          "lemma": "王尔",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Wang Er",
+          "gram": "name",
+          "reading": "wáng ěr"
+        },
+        {
+          "span": [
+            2,
+            4
+          ],
+          "t": "老师",
+          "lemma": "老师",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "teacher",
+          "gram": "title",
+          "reading": "lǎo shī"
+        },
+        {
+          "span": [
+            5,
+            7
+          ],
+          "t": "淳于",
+          "lemma": "淳于",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Chun Yu",
+          "gram": "surname",
+          "reading": "chún yú"
+        },
+        {
+          "span": [
+            7,
+            8
+          ],
+          "t": "总",
+          "lemma": "总",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "director",
+          "gram": "title",
+          "reading": "zǒng"
+        },
+        {
+          "span": [
+            8,
+            10
+          ],
+          "t": "提前",
+          "lemma": "提前",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "move up",
+          "gram": "action",
+          "reading": "tí qián"
+        },
+        {
+          "span": [
+            10,
+            11
+          ],
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "perf",
+          "gram": "aspect",
+          "reading": "le"
+        },
+        {
+          "span": [
+            11,
+            13
+          ],
+          "t": "录影",
+          "lemma": "录影",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "taping",
+          "gram": "activity",
+          "reading": "lù yǐng"
+        },
+        {
+          "span": [
+            13,
             15
           ],
-          "reading": "pinyin"
+          "t": "时间",
+          "lemma": "时间",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "time",
+          "gram": "concept",
+          "reading": "shí jiān"
         }
-      ]
+      ],
+      "trans": "Translation."
     },
     {
       "seg": 12,
-      "trans": "Translation.",
       "words": [
         {
-          "t": "他根本就没有告诉我",
-          "lemma": "他根本就没有告诉我",
-          "pos": "phrase",
-          "stress": null,
-          "gloss": "Meaning",
-          "gram": "Meaning: Meaning.",
           "span": [
             0,
+            1
+          ],
+          "t": "他",
+          "lemma": "他",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "3sg",
+          "reading": "tā"
+        },
+        {
+          "span": [
+            1,
+            3
+          ],
+          "t": "根本",
+          "lemma": "根本",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "at all",
+          "gram": "degree",
+          "reading": "gēn běn"
+        },
+        {
+          "span": [
+            3,
+            4
+          ],
+          "t": "就",
+          "lemma": "就",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "just",
+          "gram": "emphasis",
+          "reading": "jiù"
+        },
+        {
+          "span": [
+            4,
+            6
+          ],
+          "t": "没有",
+          "lemma": "没有",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "did not",
+          "gram": "negation",
+          "reading": "méi yǒu"
+        },
+        {
+          "span": [
+            6,
+            8
+          ],
+          "t": "告诉",
+          "lemma": "告诉",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "tell",
+          "gram": "action",
+          "reading": "gào su"
+        },
+        {
+          "span": [
+            8,
             9
           ],
-          "reading": "pinyin"
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "me",
+          "gram": "1sg",
+          "reading": "wǒ"
         }
-      ]
+      ],
+      "trans": "Translation."
     },
     {
       "seg": 14,
-      "trans": "Translation.",
       "words": [
         {
-          "t": "女士们，先生们，接下来",
-          "lemma": "女士们，先生们，接下来",
-          "pos": "phrase",
-          "stress": null,
-          "gloss": "Meaning",
-          "gram": "Meaning: Meaning.",
           "span": [
             0,
+            2
+          ],
+          "t": "女士",
+          "lemma": "女士",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "lady",
+          "gram": "title",
+          "reading": "nǚ shì"
+        },
+        {
+          "span": [
+            2,
+            3
+          ],
+          "t": "们",
+          "lemma": "们",
+          "pos": "part",
+          "stress": null,
+          "gloss": "pl",
+          "gram": "plural",
+          "reading": "men"
+        },
+        {
+          "span": [
+            4,
+            6
+          ],
+          "t": "先生",
+          "lemma": "先生",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "gentleman",
+          "gram": "title",
+          "reading": "xiān shēng"
+        },
+        {
+          "span": [
+            6,
+            7
+          ],
+          "t": "们",
+          "lemma": "们",
+          "pos": "part",
+          "stress": null,
+          "gloss": "pl",
+          "gram": "plural",
+          "reading": "men"
+        },
+        {
+          "span": [
+            8,
             11
           ],
-          "reading": "pinyin"
+          "t": "接下来",
+          "lemma": "接下来",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "next",
+          "gram": "sequence",
+          "reading": "jiē xià lái"
         }
-      ]
+      ],
+      "trans": "Translation."
     },
     {
       "seg": 16,
-      "trans": "Translation.",
       "words": [
         {
-          "t": "有请本场十二歌王的客座导师，刘凡先生",
-          "lemma": "有请本场十二歌王的客座导师，刘凡先生",
-          "pos": "phrase",
-          "stress": null,
-          "gloss": "Meaning",
-          "gram": "Meaning: Meaning.",
           "span": [
             0,
+            2
+          ],
+          "t": "有请",
+          "lemma": "有请",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "please welcome",
+          "gram": "polite",
+          "reading": "yǒu qǐng"
+        },
+        {
+          "span": [
+            2,
+            3
+          ],
+          "t": "本",
+          "lemma": "本",
+          "pos": "det",
+          "stress": null,
+          "gloss": "this",
+          "gram": "demonstrative",
+          "reading": "běn"
+        },
+        {
+          "span": [
+            3,
+            4
+          ],
+          "t": "场",
+          "lemma": "场",
+          "pos": "part",
+          "stress": null,
+          "gloss": "show",
+          "gram": "measure",
+          "reading": "chǎng"
+        },
+        {
+          "span": [
+            4,
+            6
+          ],
+          "t": "十二",
+          "lemma": "十二",
+          "pos": "num",
+          "stress": null,
+          "gloss": "twelve",
+          "gram": "number",
+          "reading": "shí èr"
+        },
+        {
+          "span": [
+            6,
+            8
+          ],
+          "t": "歌王",
+          "lemma": "歌王",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "singer king",
+          "gram": "title",
+          "reading": "gē wáng"
+        },
+        {
+          "span": [
+            8,
+            9
+          ],
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "poss",
+          "gram": "possessive",
+          "reading": "de"
+        },
+        {
+          "span": [
+            9,
+            11
+          ],
+          "t": "客座",
+          "lemma": "客座",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "guest",
+          "gram": "role",
+          "reading": "kè zuò"
+        },
+        {
+          "span": [
+            11,
+            13
+          ],
+          "t": "导师",
+          "lemma": "导师",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "mentor",
+          "gram": "role",
+          "reading": "dǎo shī"
+        },
+        {
+          "span": [
+            14,
+            15
+          ],
+          "t": "刘",
+          "lemma": "刘",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Liu",
+          "gram": "surname",
+          "reading": "liú"
+        },
+        {
+          "span": [
+            15,
+            16
+          ],
+          "t": "凡",
+          "lemma": "凡",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Fan",
+          "gram": "name",
+          "reading": "fán"
+        },
+        {
+          "span": [
+            16,
             18
           ],
-          "reading": "pinyin"
+          "t": "先生",
+          "lemma": "先生",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Mr.",
+          "gram": "title",
+          "reading": "xiān shēng"
         }
-      ]
+      ],
+      "trans": "Translation."
     },
     {
       "seg": 18,
-      "trans": "Translation.",
       "words": [
         {
-          "t": "也许从一开始，他就没打算过用我",
-          "lemma": "也许从一开始，他就没打算过用我",
-          "pos": "phrase",
-          "stress": null,
-          "gloss": "Meaning",
-          "gram": "Meaning: Meaning.",
           "span": [
             0,
+            2
+          ],
+          "t": "也许",
+          "lemma": "也许",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "maybe",
+          "gram": "modal",
+          "reading": "yě xǔ"
+        },
+        {
+          "span": [
+            2,
+            3
+          ],
+          "t": "从",
+          "lemma": "从",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from",
+          "gram": "preposition",
+          "reading": "cóng"
+        },
+        {
+          "span": [
+            3,
+            4
+          ],
+          "t": "一",
+          "lemma": "一",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one",
+          "gram": "number",
+          "reading": "yī"
+        },
+        {
+          "span": [
+            4,
+            6
+          ],
+          "t": "开始",
+          "lemma": "开始",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "start",
+          "gram": "action",
+          "reading": "kāi shǐ"
+        },
+        {
+          "span": [
+            7,
+            8
+          ],
+          "t": "他",
+          "lemma": "他",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "3sg",
+          "reading": "tā"
+        },
+        {
+          "span": [
+            8,
+            9
+          ],
+          "t": "就",
+          "lemma": "就",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "just",
+          "gram": "emphasis",
+          "reading": "jiù"
+        },
+        {
+          "span": [
+            9,
+            10
+          ],
+          "t": "没",
+          "lemma": "没",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation",
+          "reading": "méi"
+        },
+        {
+          "span": [
+            10,
+            12
+          ],
+          "t": "打算",
+          "lemma": "打算",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "intend",
+          "gram": "action",
+          "reading": "dǎ suàn"
+        },
+        {
+          "span": [
+            12,
+            13
+          ],
+          "t": "过",
+          "lemma": "过",
+          "pos": "part",
+          "stress": null,
+          "gloss": "exp",
+          "gram": "aspect",
+          "reading": "guo"
+        },
+        {
+          "span": [
+            13,
+            14
+          ],
+          "t": "用",
+          "lemma": "用",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "use",
+          "gram": "action",
+          "reading": "yòng"
+        },
+        {
+          "span": [
+            14,
             15
           ],
-          "reading": "pinyin"
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "me",
+          "gram": "1sg",
+          "reading": "wǒ"
         }
-      ]
+      ],
+      "trans": "Translation."
     },
     {
       "seg": 20,
-      "trans": "Translation.",
       "words": [
         {
-          "t": "我就不该来当什么联合制作人",
-          "lemma": "我就不该来当什么联合制作人",
-          "pos": "phrase",
-          "stress": null,
-          "gloss": "Meaning",
-          "gram": "Meaning: Meaning.",
           "span": [
             0,
+            1
+          ],
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1sg",
+          "reading": "wǒ"
+        },
+        {
+          "span": [
+            1,
+            2
+          ],
+          "t": "就",
+          "lemma": "就",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "just",
+          "gram": "emphasis",
+          "reading": "jiù"
+        },
+        {
+          "span": [
+            2,
+            3
+          ],
+          "t": "不",
+          "lemma": "不",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation",
+          "reading": "bù"
+        },
+        {
+          "span": [
+            3,
+            4
+          ],
+          "t": "该",
+          "lemma": "该",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "should",
+          "gram": "modal",
+          "reading": "gāi"
+        },
+        {
+          "span": [
+            4,
+            5
+          ],
+          "t": "来",
+          "lemma": "来",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come",
+          "gram": "action",
+          "reading": "lái"
+        },
+        {
+          "span": [
+            5,
+            6
+          ],
+          "t": "当",
+          "lemma": "当",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "work as",
+          "gram": "role",
+          "reading": "dāng"
+        },
+        {
+          "span": [
+            6,
+            8
+          ],
+          "t": "什么",
+          "lemma": "什么",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "some",
+          "gram": "indefinite",
+          "reading": "shén me"
+        },
+        {
+          "span": [
+            8,
+            10
+          ],
+          "t": "联合",
+          "lemma": "联合",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "co",
+          "gram": "modifier",
+          "reading": "lián hé"
+        },
+        {
+          "span": [
+            10,
             13
           ],
-          "reading": "pinyin"
+          "t": "制作人",
+          "lemma": "制作人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "producer",
+          "gram": "role",
+          "reading": "zhì zuò rén"
         }
-      ]
+      ],
+      "trans": "Translation."
     },
     {
       "seg": 22,
-      "trans": "Translation.",
       "words": [
         {
-          "t": "在他眼里，我们都是工具",
-          "lemma": "在他眼里，我们都是工具",
-          "pos": "phrase",
-          "stress": null,
-          "gloss": "Meaning",
-          "gram": "Meaning: Meaning.",
           "span": [
             0,
+            1
+          ],
+          "t": "在",
+          "lemma": "在",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in",
+          "gram": "preposition",
+          "reading": "zài"
+        },
+        {
+          "span": [
+            1,
+            2
+          ],
+          "t": "他",
+          "lemma": "他",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "his",
+          "gram": "3sg",
+          "reading": "tā"
+        },
+        {
+          "span": [
+            2,
+            4
+          ],
+          "t": "眼里",
+          "lemma": "眼里",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "eyes",
+          "gram": "location",
+          "reading": "yǎn lǐ"
+        },
+        {
+          "span": [
+            5,
+            7
+          ],
+          "t": "我们",
+          "lemma": "我们",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we",
+          "gram": "1pl",
+          "reading": "wǒ men"
+        },
+        {
+          "span": [
+            7,
+            8
+          ],
+          "t": "都",
+          "lemma": "都",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "all",
+          "gram": "scope",
+          "reading": "dōu"
+        },
+        {
+          "span": [
+            8,
+            9
+          ],
+          "t": "是",
+          "lemma": "是",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "are",
+          "gram": "copula",
+          "reading": "shì"
+        },
+        {
+          "span": [
+            9,
             11
           ],
-          "reading": "pinyin"
+          "t": "工具",
+          "lemma": "工具",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "tools",
+          "gram": "object",
+          "reading": "gōng jù"
         }
-      ]
+      ],
+      "trans": "Translation."
     },
     {
       "seg": 24,
@@ -1871,22 +2521,87 @@
     },
     {
       "seg": 33,
-      "trans": "Translation.",
       "words": [
         {
-          "t": "只是他的一个棋子",
-          "lemma": "只是他的一个棋子",
-          "pos": "phrase",
-          "stress": null,
-          "gloss": "Meaning",
-          "gram": "Meaning: Meaning.",
           "span": [
             0,
+            2
+          ],
+          "t": "只是",
+          "lemma": "只是",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "just",
+          "gram": "limitation",
+          "reading": "zhǐ shì"
+        },
+        {
+          "span": [
+            2,
+            3
+          ],
+          "t": "他",
+          "lemma": "他",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "3sg",
+          "reading": "tā"
+        },
+        {
+          "span": [
+            3,
+            4
+          ],
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "poss",
+          "gram": "possessive",
+          "reading": "de"
+        },
+        {
+          "span": [
+            4,
+            5
+          ],
+          "t": "一",
+          "lemma": "一",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one",
+          "gram": "number",
+          "reading": "yí"
+        },
+        {
+          "span": [
+            5,
+            6
+          ],
+          "t": "个",
+          "lemma": "个",
+          "pos": "part",
+          "stress": null,
+          "gloss": "cl",
+          "gram": "classifier",
+          "reading": "ge"
+        },
+        {
+          "span": [
+            6,
             8
           ],
-          "reading": "pinyin"
+          "t": "棋子",
+          "lemma": "棋子",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chess piece",
+          "gram": "object",
+          "reading": "qí zi"
         }
-      ]
+      ],
+      "trans": "Translation."
     },
     {
       "seg": 35,

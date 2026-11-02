@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/alrawabi-school/s01/e01.ar.srt'
 INTRO = "Still dealing with the fallout at AlRawabi School, Principal Ms. Faten lectures the students on honesty and responsibility and asks for witnesses. Layan steps forward with her friends to corner Mariam. Listen to the whole scene in Jordanian Arabic first."
 OPENER = "Let's slow down and look at each line one by one."
 TRANSITION = "Now let's listen to the whole exchange again from start to finish."
-OUTRO = "Outnumbered by false witnesses, Mariam sees her favorite place turn against her. Notice how \"kamaan\" for \"also\" and \"hada\" for \"anyone\" pop up naturally throughout the conversation. See you next time."
+OUTRO = "Outnumbered by false witnesses, Mariam sees her favorite place turn against her. Notice how كمان for \"also\" and حدا for \"anyone\" pop up naturally throughout the conversation. See you next time."
 CLOSING = ("faten", "إلى اللقاء!")
 STORY = [
     ('mariam', 'المدرسة صارت كابوس إلي.', 'School became a nightmare for me.', [(20, 'المدرسة صارت')], 'clear Jordanian phrasing'),
@@ -30,16 +30,16 @@ STORY = [
     ('mariam', 'أنا بحكي الصدق بس ما حدا سامعني.', 'I am telling the truth, only nobody hears me.', [], 'closing emotional turn'),
 ]
 WALK = [
-    (0, None, "'School became a nightmare for me.' \"Saarat\" means \"she became\", matching \"school\", and \"kaaboos\" is the Arabic word for a nightmare."),
-    (1, None, "'The most important values we have here at AlRawabi School are clear.' \"Ahamm\" means \"most important\", and \"inna hon\" is smooth Jordanian speech for \"we have here\"."),
-    (2, None, "'We must take responsibility and tell the truth.' \"Laazim\" is an unchangeable helper word meaning \"must\"—you never have to alter its shape no matter who speaks."),
-    (3, None, "'I think it is time we tell the truth.' \"Bazzunn\" means \"I think\", and \"saar il-waqt\" literally says \"the time became\", which is how Arabic says \"it's time\"."),
-    (4, None, "'Did any one of you see what happened?' Notice \"illi saar\" at the end: \"illi\" means \"that which\" or \"what\", so \"illi saar\" is \"what happened\"."),
-    (5, None, "'Yes Miss, I saw everything.' Layan uses polite \"naam\" with the principal, and \"shuft\" comes from \"shaaf\", the everyday Levantine word for seeing."),
-    (6, None, "'And my friends also saw what happened.' Drop \"kamaan\" into almost any sentence when you want to say \"also\", \"too\", or \"even more\"."),
-    (7, None, "'No Miss, Layan is not telling the truth.' Putting \"ma\" right before \"btihki\" flips \"she speaks\" into \"she does not speak\"."),
-    (8, None, "'The room is full of girls, Mariam.' \"Malyaane\" means \"full\", built from the root for filling something to the brim."),
-    (9, None, "'And all of them testified to one thing.' \"Kulhom\" glues \"all\" and \"them\" into a single word, a pattern Arabic uses constantly."),
-    (10, None, "'And you want me to believe you alone?' \"Biddik\" means \"you want\" when speaking to a woman, while \"lahaalik\" literally says \"by your own state\" for \"all alone\"."),
-    (11, None, "'I am telling the truth, only nobody hears me.' Pairing \"ma\" with \"hada\" gives \"nobody\", and \"saamiani\" tacks \"me\" straight onto the end of \"hearing\"."),
+    (0, None, ["'School became a nightmare for me.' ", ('mariam', 'صارت'), ' means "she became", matching "school", and ', ('mariam', 'كابوس'), ' is the Arabic word for a nightmare.']),
+    (1, None, ["'The most important values we have here at AlRawabi School are clear.' ", ('faten', 'أهم'), ' means "most important", and ', ('faten', 'عنا هون'), ' is smooth Jordanian speech for "we have here".']),
+    (2, None, ["'We must take responsibility and tell the truth.' ", ('faten', 'لازم'), ' is an unchangeable helper word meaning "must"—you never have to alter its shape no matter who speaks.']),
+    (3, None, ["'I think it is time we tell the truth.' ", ('faten', 'بظن'), ' means "I think", and ', ('faten', 'صار الوقت'), ' literally says "the time became", which is how Arabic says "it\'s time".']),
+    (4, None, ["'Did any one of you see what happened?' Notice ", ('faten', 'اللي صار'), ' at the end: ', ('faten', 'اللي'), ' means "that which" or "what", so ', ('faten', 'اللي صار'), ' is "what happened".']),
+    (5, None, ["'Yes Miss, I saw everything.' Layan uses polite ", ('layan', 'نعم'), ' with the principal, and ', ('layan', 'شفت'), ' comes from شاف, the everyday Levantine word for seeing.']),
+    (6, None, ["'And my friends also saw what happened.' Drop ", ('layan', 'كمان'), ' into almost any sentence when you want to say "also", "too", or "even more".']),
+    (7, None, ["'No Miss, Layan is not telling the truth.' Putting ", ('mariam', 'ما'), ' right before ', ('mariam', 'بتحكي'), ' flips "she speaks" into "she does not speak".']),
+    (8, None, ["'The room is full of girls, Mariam.' ", ('faten', 'مليانة'), ' means "full", built from the root for filling something to the brim.']),
+    (9, None, ["'And all of them testified to one thing.' ", ('faten', 'كلهم'), ' glues "all" and "them" into a single word, a pattern Arabic uses constantly.']),
+    (10, None, ["'And you want me to believe you alone?' ", ('faten', 'بدك'), ' means "you want" when speaking to a woman, while ', ('faten', 'لحالك'), ' literally says "by your own state" for "all alone".']),
+    (11, None, ["'I am telling the truth, only nobody hears me.' Pairing ", ('mariam', 'ما'), ' with ', ('mariam', 'حدا'), ' gives "nobody", and ', ('mariam', 'سامعني'), ' tacks "me" straight onto the end of "hearing".']),
 ]

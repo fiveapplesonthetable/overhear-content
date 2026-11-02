@@ -34,23 +34,89 @@ STORY = [
 OPENER = "Notice how Muranishi mixes humble requests with playful katakana English, while Nakai barks gruff commands. Let's walk through it."
 
 WALK = [
-    (0, None, "'What an amazing house.' \"Sugoi\" means amazing or immense, \"ie\" is house, and \"desu ne\" invites agreement as he stares up at the gate."),
-    (2, None, "'You were so beautiful that I was completely startled.' Following Ono's tip, Muranishi drops English 'beautiful' as \"byuutifoo\"! At the end, \"odoroite shimaimashita\" adds \"shimau\" onto \"odoroku\", to be surprised, showing the reaction slipped out unintentionally."),
-    (3, 'お上手ね。', "'Smooth talker.' Literally \"ojouzu\" means 'skillful'—and when someone replies \"ojouzu ne\" to a compliment, it playfully means 'oh, you flatterer!'"),
-    (4, None, "'Oh my, that is a shame.' \"Zannen\" means regrettable or a pity. Saying \"sore wa zannen desu ne\" sounds sympathetic rather than pushy when someone turns you down."),
-    (5, None, "'Even though it is a very special product.' \"Shouhin\" means commercial product. Leaving \"desu ga\", 'it is, however...', dangling at the end tempts her curiosity without finishing the sentence."),
-    (6, None, "'What kind of product is it?' \"Donna\" asks 'what kind of' right before \"shouhin\", and feminine \"nano\" turns the question warm and curious—she took the bait!"),
-    (7, None, "'Could you listen to me for just a little moment?' Built from \"sukoshi\", a little, plus \"dake\", only, this phrase softens his request before polite \"kiite itadakemasu ka\", 'could I humbly receive your listening?'"),
-    (8, 'どうしたの？', "'What is going on?' Even a tough boss asks his wife \"doushita\", what happened, softened with rising \"no\" to ask 'what is the matter?'"),
-    (9, None, "'Hurry up and get inside!' \"Hayaku\" means quickly, and \"haire yo\" turns \"hairu\", to enter, into an order nobody dares refuse."),
-    (11, None, "'It is an English conversation course.' \"Eikaiwa\" fuses \"ei\", English, with \"kaiwa\", conversation, and \"kyouzai\" means study materials."),
+    (0, None, [
+        '"\'What an amazing house.\' Looking at the first part, the word for amazing is " Here, the word ',
+        (None, "すごい。"),
+        ", ",
+        (None, "家。"),
+        " is house, and ",
+        (None, "ですね。"),
+        " invites agreement as he stares up at the gate."
+    ]),
+    (2, None, [
+        '"\'You were so beautiful that I was completely startled.\' Following Ono\'s tip, Muranishi drops English \'beautiful\' as " They are saying ',
+        (None, "ビューティフォー。"),
+        "! At the end, ",
+        (None, "驚いてしまいました。"),
+        " adds a suffix onto the verb for surprise, showing the reaction slipped out unintentionally."
+    ]),
+    (3, 'お上手ね。', [
+        '"\'Smooth talker.\' Literally, the word for skillful is " They are saying ',
+        (None, "お上手。"),
+        "—and when someone replies ",
+        (None, "お上手ね。"),
+        " to a compliment, it playfully means 'oh, you flatterer!'"
+    ]),
+    (4, None, [
+        '"\'Oh my, that is a shame.\' In this situation, the word for a pity is " The phrase contains ',
+        (None, "残念。"),
+        ", which means regrettable. Saying ",
+        (None, "それは残念ですね。"),
+        " sounds sympathetic rather than pushy when someone turns you down."
+    ]),
+    (5, None, [
+        '"\'Even though it is a very special product.\' As a salesman, the word for product is " Notice how ',
+        (None, "商品。"),
+        ", meaning commercial product. Leaving ",
+        (None, "ですが。"),
+        ", 'it is, however...', dangling at the end tempts her curiosity without finishing the sentence."
+    ]),
+    (6, None, [
+        '"\'What kind of product is it?\' Here, the word for \'what kind of\' is " In this line, ',
+        (None, "どんな。"),
+        ", right before ",
+        (None, "商品。"),
+        ", and feminine ",
+        (None, "なの。"),
+        " turns the question warm and curious—she took the bait!"
+    ]),
+    (7, None, [
+        '"\'Could you listen to me for just a little moment?\' Built from " Notice how ',
+        (None, "少し。"),
+        ", a little, plus ",
+        (None, "だけ。"),
+        ", only, this phrase softens his request before polite ",
+        (None, "聞いていただけますか。"),
+        ", 'could I humbly receive your listening?'"
+    ]),
+    (8, 'どうしたの？', [
+        '"\'What is going on?\' Even a tough boss asks his wife " Watch for ',
+        (None, "どうした。"),
+        ", what happened, softened with rising ",
+        (None, "の。"),
+        " to ask 'what is the matter?'"
+    ]),
+    (9, None, [
+        '"\'Hurry up and get inside!\' In his barking command, the word for quickly is " We can hear ',
+        (None, "早く。"),
+        ", and ",
+        (None, "入れよ。"),
+        " turns the verb to enter into an order nobody dares refuse."
+    ]),
+    (11, None, [
+        '"\'It is an English conversation course.\' The word for this is " Here, the word ',
+        (None, "英会話。"),
+        ", which fuses the word for English with conversation, and ",
+        (None, "教材。"),
+        " means study materials."
+    ]),
 ]
 
 TRANSITION = "Now let's listen to the whole encounter at Nakai's gate again."
 
 OUTRO = (
-    "You heard \"sore wa zannen desu ne\" for 'that is a shame', \"donna\" for 'what kind of', "
-    "and \"doushita no\" to ask what is going on—all while Muranishi realizes he just walked into a lion's den. "
+    "You heard the sympathetic phrase for 'that is a shame', the question word for 'what kind of', "
+    "and the phrase to ask what is going on—all while Muranishi realizes he just walked into a lion's den. "
     "See you inside the mansion next."
 )
 

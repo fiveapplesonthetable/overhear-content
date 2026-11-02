@@ -34,24 +34,71 @@ STORY = [
 OPENER = "Ono speaks in rapid, confident plain speech while Muranishi stays respectful. Let's walk through the highlights."
 
 WALK = [
-    (0, None, "'Um, I was told to learn about sales from you, Ono-san.' Opening with \"ano\" buys a polite beat before making a request. \"Eigyou\" means sales work, and ending on casual quoting \"tte\" acts like 'they told me to...'."),
-    (1, None, "'Hitchcock died.' \"Shinda\" is the plain past of \"shinu\", to die, and \"yo\" flags it as fresh news the listener has not heard yet."),
-    (2, None, "'That is rather blunt, is it not?' Muranishi mistakes the remark for coldness and says \"buaisou\", unfriendly or curt, softened with \"desu ne\"."),
-    (3, None, "'Are you out of your mind?' Ono's favourite catchphrase hinges on \"shouki\", sanity or right mind. Adding sharp \"ka\" fires back 'are you sane?' whenever someone says something outrageous."),
-    (5, None, "'What kind of music do you listen to?' \"Ongaku\" means music, \"nani\" asks what, and \"kiku\" covers both listening and asking."),
-    (6, None, "'Lately, Western music.' \"Saikin\" means lately or recently. \"Yougaku\" pairs \"you\", Western, with \"gaku\", music—contrasting neatly with \"hougaku\", Japanese music."),
-    (7, '日本人ならこれだろ。', "'If you are Japanese, it has to be this.' Adding \"jin\", person, to \"Nihon\" builds \"Nihonjin\", a Japanese person, and \"nara\" means 'if it is the case that'."),
-    (8, None, "'We are free, are we not?' Singing along, Muranishi uses \"bokura\", casual 'we', and \"jiyuu\", freedom—a word that echoes through the whole episode."),
-    (9, 'よし、合格だ。', "'All right, you pass.' \"Yoshi\" is an upbeat 'all right!', and \"goukaku\" is the word for passing an exam or audition."),
-    (9, '明日から教えてやるよ。', "'I will teach you starting tomorrow.' \"Ashita\" is tomorrow, followed by \"kara\", from. \"Oshiete yaru\" attaches tough, big-brother \"yaru\" to \"oshieru\", to teach, showing Ono sees himself as the boss of this pair."),
-    (10, None, "'Thank you, I look forward to working with you.' Built around \"yoroshiku\", favourably, \"yoroshiku onegai shimasu\" is the set greeting you use whenever a new partnership, job, or lesson begins."),
+    (0, None, [
+        '"\'Um, I was told to learn about sales from you, Ono-san.\' Opening with " We can hear ',
+        (None, "あの"), " buys a polite beat before making a request. ",
+        (None, "営業"), " this word means sales work, and ending on the casual quoting particle ",
+        (None, "って"), " acts like 'they told me to...'."
+    ]),
+    (1, None, [
+        "'Hitchcock died.'  The word ",
+        (None, "死んだ"), " this word is the plain past of the verb to die, and ",
+        (None, "よ"), " flags it as fresh news the listener has not heard yet."
+    ]),
+    (2, None, [
+        '"\'That is rather blunt, is it not?\' Muranishi mistakes the remark for coldness and says " Focus on ',
+        (None, "無愛想"), ", unfriendly or curt, softened with ",
+        (None, "ですね")
+    ]),
+    (3, None, [
+        '"\'Are you out of your mind?\' Ono\'s favourite catchphrase hinges on " Hear how ',
+        (None, "正気"), ", sanity or right mind. Adding the sharp ",
+        (None, "か"), " fires back 'are you sane?' whenever someone says something outrageous."
+    ]),
+    (5, None, [
+        "'What kind of music do you listen to?'  In this sentence, ",
+        (None, "音楽"), " this word means music, ",
+        (None, "何"), " asks what, and ",
+        (None, "聴く"), " covers both listening and asking."
+    ]),
+    (6, None, [
+        "'Lately, Western music.'  Check out ",
+        (None, "最近"), " this word means lately or recently. ",
+        (None, "洋楽"), " pairs the character for Western with the one for music—contrasting neatly with the word for Japanese music."
+    ]),
+    (7, '日本人ならこれだろ。', [
+        '"\'If you are Japanese, it has to be this.\' Adding the character for person to the word for Japan builds " They are saying ',
+        (None, "日本人"), ", a Japanese person, and ",
+        (None, "なら"), " this word means 'if it is the case that'."
+    ]),
+    (8, None, [
+        '"\'We are free, are we not?\' Singing along, Muranishi uses " They are saying ',
+        (None, "僕ら"), ", casual 'we', and ",
+        (None, "自由"), ", freedom—a word that echoes through the whole episode."
+    ]),
+    (9, 'よし、合格だ。', [
+        "'All right, you pass.'  Here, the word ",
+        (None, "よし"), " is an upbeat 'all right!', and ",
+        (None, "合格"), " this word is the word for passing an exam or audition."
+    ]),
+    (9, '明日から教えてやるよ。', [
+        "'I will teach you starting tomorrow.'  The word ",
+        (None, "明日"), " is tomorrow, followed by ",
+        (None, "から"), ", from. ",
+        (None, "教えてやる"), " attaches the tough, big-brother ending to the verb to teach, showing Ono sees himself as the boss of this pair."
+    ]),
+    (10, None, [
+        '"\'Thank you, I look forward to working with you.\' Built around " Watch for ',
+        (None, "よろしく"), ", favourably, ",
+        (None, "よろしくお願いします"), " this word is the set greeting you use whenever a new partnership, job, or lesson begins."
+    ]),
 ]
 
 TRANSITION = "Now let's listen to Ono's impromptu audition once more."
 
 OUTRO = (
-    "You just heard \"saikin\" for lately, \"jiyuu\" for free, \"ashita kara\" for starting tomorrow, "
-    "and the indispensable partnership greeting \"yoroshiku onegai shimasu\". "
+    "You just heard words for lately and free, phrases for starting tomorrow, "
+    "and the indispensable partnership greeting to look forward to working together. "
     "Until next time."
 )
 

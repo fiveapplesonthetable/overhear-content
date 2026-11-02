@@ -25,7 +25,7 @@ STORY = [
     ('ono', 'これがセールストークの基本だ。', 'This is the foundation of sales talk.', [(196, 'これがセールストークの基本だ')], ''),
     ('ono', '褒めて相手を口説くんだよ。', 'You praise the other person and win them over.', [(198, '褒めて'), (198, '相手を')], 'Moved 相手を before the action for smooth A1 word order.'),
     ('ono', '褒めて、褒めて、心を開かせろ。', 'Praise them, praise them, and make them open their heart.', [(202, '褒めて 褒めて'), (203, '心を開かせろ')], ''),
-    ('ono', 'なるべく丁寧な言葉でな。', 'Using as polite language as possible, mind you.', [(207, 'なるべく丁寧な言葉でな')], ''),
+    ('ono', 'なるべく丁寧な言葉でな。', 'Using as formal language as possible, mind you.', [(207, 'なるべく丁寧な言葉でな')], ''),
     ('ono', '英語の教材を売ってるんだから英語を使え。', 'You are selling English materials, so use English.', [(209, '英語の教材'), (209, '英語使え')], 'Added を markers for clear A1 structure.'),
     ('muranishi', 'お恥ずかしながら、私、イングリッシュは苦手で。', 'Embarrassing as it is, English is my weak point.', [(211, 'お恥ずかしながら 私 イングリッシュは苦手で')], ''),
     ('ono', '難しく考えるな。何でもいいから単語を言えばいいんだよ。', 'Do not overthink it. Just say any single words at all.', [(212, '難しく考え'), (213, '何でもいいから 単語を言えばいいんだよ')], 'Standardised 考えんな to 考えるな.'),
@@ -34,24 +34,90 @@ STORY = [
 OPENER = "Ono gives Muranishi a masterclass in human psychology—and gives us a treasure chest of everyday expressions."
 
 WALK = [
-    (0, None, "'Well, still, you are working really hard.' \"Ganbatteru\" comes from \"ganbaru\", to hang in there and give your best effort—one of the warmest things a colleague can tell you."),
-    (1, None, "'You are feeding your wife, two kids, and your mum, right?' Casual \"yomesan\" means a man's wife, \"futari\" counts two people, and affectionate \"ofukurosan\" means one's mother. \"Tabesaseteru\" turns \"taberu\", to eat, into 'feeding and supporting'."),
-    (2, '立派だよ、本当に。', "'That is admirable, truly.' \"Rippa\" praises someone as splendid, worthy of respect, or standing tall, reinforced by \"hontou ni\", truly."),
-    (4, None, "'For a second there, you felt motivated, right?' \"Yaruki\" glues \"yaru\", to do, onto \"ki\", spirit—literally 'doing-spirit', the everyday word for motivation!"),
-    (5, None, "'This is the foundation of sales talk.' \"Kihon\" means the basics or foundation of any craft, sport, or skill."),
-    (6, None, "'You praise the other person and win them over.' \"Aite\" means the person across from you—your listener, partner, or customer—and \"homete\" links \"homeru\", to praise, into \"kudoku\", to woo or persuade."),
-    (7, None, "'Praise them, praise them, and make them open their heart.' \"Kokoro\" is heart or mind, and \"hirakasero\" turns \"hiraku\", to open, into a command meaning 'make them open up!'"),
-    (8, None, "'Using as polite language as possible, mind you.' \"Narubeku\" means 'as much as possible', paired with \"teinei na kotoba\", polite words."),
-    (10, None, "'Embarrassing as it is, English is my weak point.' Funny irony: Muranishi calls English \"ingurisshu\" while admitting it is \"nigate\", something you are bad at or uncomfortable with."),
-    (11, '難しく考えるな。', "'Do not overthink it.' Changing \"muzukashii\", difficult, to \"muzukashiku\" before \"kangaeru na\", do not think, literally says 'do not think difficultly'—'do not overcomplicate it!'"),
-    (11, '何でもいいから単語を言えばいいんだよ。', "'Just say any single words at all.' \"Nandemo ii\" means 'anything is fine', and \"tango\" means individual vocabulary words rather than full sentences."),
+    (0, None, [
+        '"\'Well, still, you are working really hard.\' The word for this is " Listen for ',
+        (None, "頑張ってる。"),
+        ", which comes from the word meaning to hang in there and give your best effort—one of the warmest things a colleague can tell you."
+    ]),
+    (1, None, [
+        '"\'You are feeding your wife, two kids, and your mum, right?\' The casual word for a man\'s wife is " In this line, ',
+        (None, "嫁さん。"),
+        ", ",
+        (None, "二人。"),
+        " counts two people, and affectionate ",
+        (None, "おふくろさん。"),
+        " means one's mother. ",
+        (None, "食べさせてる。"),
+        " turns the word for eat into 'feeding and supporting'."
+    ]),
+    (2, '立派だよ、本当に。', [
+        '"\'That is admirable, truly.\' In this sentence, the word for admirable is " The speaker uses ',
+        (None, "立派。"),
+        ", which praises someone as splendid, worthy of respect, or standing tall, reinforced by ",
+        (None, "本当に。"),
+        ", truly."
+    ]),
+    (4, None, [
+        '"\'For a second there, you felt motivated, right?\' The word for motivation, " Notice how ',
+        (None, "やる気。"),
+        ", glues the word for doing onto the word for spirit—literally 'doing-spirit', the everyday word for motivation!"
+    ]),
+    (5, None, [
+        '"\'This is the foundation of sales talk.\' The word for foundation here is " Starting off with ',
+        (None, "基本。"),
+        ", which means the basics or foundation of any craft, sport, or skill."
+    ]),
+    (6, None, [
+        '"\'You praise the other person and win them over.\' The word for the other person is " Starting off with ',
+        (None, "相手。"),
+        ", meaning the person across from you—your listener, partner, or customer—and ",
+        (None, "褒めて。"),
+        " links the word for praise into ",
+        (None, "口説く。"),
+        ", to woo or persuade."
+    ]),
+    (7, None, [
+        '"\'Praise them, praise them, and make them open their heart.\' The word for heart or mind is " Watch for ',
+        (None, "心。"),
+        ", and ",
+        (None, "開かせろ。"),
+        " turns the word for open into a command meaning 'make them open up!'"
+    ]),
+    (8, None, [
+        '"\'Using as formal language as possible, mind you.\' Looking closely, the word for \'as much as possible\' is " Hear how ',
+        (None, "なるべく。"),
+        ", paired with ",
+        (None, "丁寧な言葉。"),
+        ", formal words."
+    ]),
+    (10, None, [
+        '"\'Embarrassing as it is, English is my weak point.\' Funny irony: Muranishi calls English " It features ',
+        (None, "イングリッシュ。"),
+        " while admitting it is ",
+        (None, "苦手。"),
+        ", the word for something you are bad at or uncomfortable with."
+    ]),
+    (11, '難しく考えるな。', [
+        '"\'Do not overthink it.\' Changing the word for difficult to " Pay attention to ',
+        (None, "難しく。"),
+        " before ",
+        (None, "考えるな。"),
+        ", do not think, literally says 'do not think difficultly'—'do not overcomplicate it!'"
+    ]),
+    (11, '何でもいいから単語を言えばいいんだよ。', [
+        '"\'Just say any single words at all.\' The word for \'anything is fine\' is " Hear how ',
+        (None, "何でもいい。"),
+        ", and ",
+        (None, "単語。"),
+        " means individual vocabulary words rather than full sentences."
+    ]),
 ]
 
 TRANSITION = "Now let's hear Ono's whole sales-talk secret again."
 
 OUTRO = (
-    "Hold on to \"yaruki\" for motivation, \"nigate\" when you want to say you are not good at something, "
-    "and \"nandemo ii\" whenever anything will do. "
+    "Hold on to the word for motivation, the word to say you are not good at something, "
+    "and the phrase to use whenever anything will do. "
     "Let's see Muranishi test this advice at a giant mansion next."
 )
 

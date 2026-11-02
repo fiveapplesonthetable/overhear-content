@@ -34,23 +34,63 @@ STORY = [
 OPENER = "Happy family talk is full of warm promises and future plans. Let's look at the building blocks."
 
 WALK = [
-    (0, None, "'My sales record this month was number one!' \"Kongetsu\" means this month, \"seiseki\" is your score or performance record, and \"ichii\" puts \"ichi\", one, with rank-counter \"i\" for first place."),
-    (1, '信じられない！', "'I cannot believe it!' Built from \"shinjiru\", to believe, \"shinjirarenai\" means 'unbelievable!'—used equally for great surprises and shocking news."),
-    (2, None, "'Next time I will buy you a Licca-chan dollhouse.' \"Kondo\" means next time or soon. Attaching \"katte yaru\" to \"kau\", to buy, shows a dad proudly treating his kid."),
-    (3, None, "'That is an absolute promise, okay!' Pairing \"zettai\", no matter what, with \"yakusoku\", promise, pins him down so he cannot back out."),
-    (5, '大丈夫なの？', "'Is it really okay?' You already know \"daijoubu\" as 'all right'; adding rising \"nano\" asks 'are you sure that is really okay?'"),
-    (7, None, "'Let us move to a bigger house, too.' When talking about rooms and houses, Japanese uses \"hiroi\", spacious or wide, rather than 'big'. Turning \"hikkosu\", to move house, into \"hikkosou na\" warmly says 'let us move!'"),
-    (8, None, "'Something to look forward to, is it not?' Whenever an upcoming trip, meal, or plan excites you, \"tanoshimi\" says 'I cannot wait!'"),
-    (9, None, "'Yes, yes, leave it to me.' \"Makasetoke\" squeezes \"makasete oke\", leave it in my hands, into confident dad-talk."),
-    (10, None, "'Still, I am so glad things went well with your work.' \"Umaku iku\" literally means 'go deliciously or skillfully'—the everyday phrase for things working out smoothly, capped with \"yokatta\", thank goodness!"),
-    (11, None, "'I am counting on you.' Built on \"kitai\", expectation or hope, Sachiko's playful polite \"kitai shite masu yo\" cheers her own husband on."),
+    (0, None, [
+        "'My sales record this month was number one!'  It features ",
+        ("muranishi", "今月"), " this word means this month, ",
+        ("muranishi", "成績"), " is your score or performance record, and ",
+        ("muranishi", "一位"), " puts ",
+        ("muranishi", "一位"), ", one, with rank-counter ",
+        ("muranishi", "一位"), " for first place."
+    ]),
+    (1, '信じられない！', [
+        '"\'I cannot believe it!\' Built from the word for to believe, " The speaker uses ',
+        ("mayumi", "信じられない"), " this word means 'unbelievable!'—used equally for great surprises and shocking news."
+    ]),
+    (2, None, [
+        "'Next time I will buy you a Licca-chan dollhouse.'  In this sentence, ",
+        ("muranishi", "今度"), " this word means next time or soon. Attaching ",
+        ("muranishi", "買ってやる"), " to the word for to buy, shows a dad proudly treating his kid."
+    ]),
+    (3, None, [
+        '"\'That is an absolute promise, okay!\' Pairing " Here, the word ',
+        ("mayumi", "絶対"), ", no matter what, with ",
+        ("mayumi", "約束"), ", promise, pins him down so he cannot back out."
+    ]),
+    (5, '大丈夫なの？', [
+        '"\'Is it really okay?\' You already know " The character says ',
+        ("sachiko", "大丈夫"), " as 'all right'; adding rising ",
+        ("sachiko", "なの"), " asks 'are you sure that is really okay?'"
+    ]),
+    (7, None, [
+        '"\'Let us move to a bigger house, too.\' When talking about rooms and houses, Japanese uses " You will hear ',
+        ("muranishi", "広い"), ", spacious or wide, rather than 'big'. Turning the word for to move house, into ",
+        ("muranishi", "引っ越そうな"), " warmly says 'let us move!'"
+    ]),
+    (8, None, [
+        '"\'Something to look forward to, is it not?\' Whenever an upcoming trip, meal, or plan excites you, " Focus on ',
+        ("sachiko", "楽しみ"), " says 'I cannot wait!'"
+    ]),
+    (9, None, [
+        "'Yes, yes, leave it to me.'  Notice how ",
+        ("muranishi", "任せとけ"), " squeezes the expression for 'leave it in my hands', into confident dad-talk."
+    ]),
+    (10, None, [
+        '"\'Still, I am so glad things went well with your work.\' The phrase " In this sentence, ',
+        ("sachiko", "うまくいって"), " comes from the word meaning 'go deliciously or skillfully'—the everyday phrase for things working out smoothly, capped with ",
+        ("sachiko", "よかった"), ", thank goodness!"
+    ]),
+    (11, None, [
+        '"\'I am counting on you.\' Built on " Check out ',
+        ("sachiko", "期待"), ", which is a word for expectation or hope, Sachiko's playful polite ",
+        ("sachiko", "期待してますよ"), " cheers her own husband on."
+    ]),
 ]
 
 TRANSITION = "Now let's listen to the whole family celebration again."
 
 OUTRO = (
-    "Keep \"shinjirarenai\" for 'unbelievable!', \"tanoshimi\" when you look forward to something, "
-    "and \"umaku iku\" whenever plans work out well. "
+    "Keep the word for 'unbelievable!', the word to use when you look forward to something, "
+    "and the phrase whenever plans work out well. "
     "In the next scene, morning brings a sudden shock at the office."
 )
 

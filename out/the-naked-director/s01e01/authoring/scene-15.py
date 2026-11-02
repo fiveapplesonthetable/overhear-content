@@ -34,23 +34,66 @@ STORY = [
 OPENER = "Watch how Muranishi agrees politely with a customer's objection before flipping the price upside down."
 
 WALK = [
-    (0, None, "'Well, look at you go!' Literally \"yaru ja nai ka\" asks 'do you not do well?', an idiomatic pat on the back meaning 'hey, not bad at all!'"),
-    (1, None, "'If you knew, you should have told me!' \"Shitteta nara\" means 'if you knew', followed by \"oshiete kudasai yo\", 'please tell me!' with an exasperated \"yo\"."),
-    (2, '一人前のセールスマンになれる。', "'You can become a full-fledged salesman.' \"Ichininmae\" literally counts 'one full person's portion'—used in sushi shops for one serving and at work for a professional who stands on their own feet."),
-    (4, None, "'I do not need it.' Adding \"ni wa\" onto casual \"ore\", me, draws a line: 'as for me, there is no need', \"hitsuyou nai\"."),
-    (6, None, "'Please try keeping at it fifteen minutes a day for three months.' \"Ichinichi juugofun\" sets the pace at fifteen minutes per day, and \"tsuzukete mite kudasai\" attaches \"mite\", try and see, to \"tsuzukeru\", to continue."),
-    (7, None, "'I do not want you to give up on your life.' \"Jinsei\" means a human lifetime, and \"akirameru\" means to give up. Gluing \"hoshikunai\" onto \"akiramete\" expresses 'I want you not to give up'."),
-    (8, None, "'Still, is it not a little expensive?' Customers everywhere ask \"sukoshi takakunai\" with a rising lilt—turning \"takai\", expensive, negative to nudge 'a bit pricey, right?'"),
-    (9, None, "'Certainly, it might feel a little expensive.' Never argue head-on: Muranishi opens with \"tashika ni\", certainly, and cushions the thought with \"kamoshiremasen\", 'it might be'."),
-    (10, None, "'Three thousand yen a month means one hundred yen a day.' \"Tsuki sanzen-en\" is three thousand yen a month; \"to iu koto wa\" bridges neatly into what that really means—\"ichinichi hyaku-en\", a hundred yen a day!"),
-    (11, None, "'Far from being expensive, I believe it is way too cheap.' Placing \"dokoroka\" right after \"takai\" flips the claim completely—'far from expensive!'—and lands on \"yasusugiru\", built from \"yasui\", cheap, plus \"sugiru\", too much."),
+    (0, None, [
+        '"\'Well, look at you go!\' Literally " We can hear ',
+        ("ono", "やるじゃないか"), " asks 'do you not do well?', an idiomatic pat on the back meaning 'hey, not bad at all!'"
+    ]),
+    (1, None, [
+        "'If you knew, you should have told me!'  In this sentence, ",
+        ("muranishi", "知ってたなら"), " this word means 'if you knew', followed by ",
+        ("muranishi", "教えてくださいよ"), ", 'please tell me!' with an exasperated ",
+        ("muranishi", "よ")
+    ]),
+    (2, '一人前のセールスマンになれる。', [
+        "'You can become a full-fledged salesman.'  You can catch ",
+        ("ono", "一人前"), " literally counts 'one full person's portion'—used in sushi shops for one serving and at work for a professional who stands on their own feet."
+    ]),
+    (4, None, [
+        '"\'I do not need it.\' Adding " Focus on ',
+        ("customer", "には"), " onto casual ",
+        ("customer", "俺"), ", me, draws a line: 'as for me, there is no need', ",
+        ("customer", "必要ない")
+    ]),
+    (6, None, [
+        "'Please try keeping at it fifteen minutes a day for three months.'  Watch for ",
+        ("muranishi", "一日十五分"), " sets the pace at fifteen minutes per day, and ",
+        ("muranishi", "続けてみてください"), " attaches ",
+        ("muranishi", "みて"), ", try and see, to the verb for to continue."
+    ]),
+    (7, None, [
+        "'I do not want you to give up on your life.'  In this sentence, ",
+        ("muranishi", "人生"), " this word means a human lifetime, and the verb for to give up is used. Gluing ",
+        ("muranishi", "ほしくない"), " onto ",
+        ("muranishi", "諦めて"), " expresses 'I want you not to give up'."
+    ]),
+    (8, None, [
+        '"\'Still, is it not a little expensive?\' Customers everywhere ask " The character says ',
+        ("customer", "少し高くない"), " with a rising lilt—turning the word for expensive negative to nudge 'a bit pricey, right?'"
+    ]),
+    (9, None, [
+        '"\'Certainly, it might feel a little expensive.\' Never argue head-on: Muranishi opens with " Watch for ',
+        ("muranishi", "確かに"), ", certainly, and cushions the thought with ",
+        ("muranishi", "かもしれません"), ", 'it might be'."
+    ]),
+    (10, None, [
+        "'Three thousand yen a month means one hundred yen a day.'  Listen for ",
+        ("muranishi", "月三千円"), " is three thousand yen a month; ",
+        ("muranishi", "ということは"), " bridges neatly into what that really means—",
+        ("muranishi", "一日百円"), ", a hundred yen a day!"
+    ]),
+    (11, None, [
+        '"\'Far from being expensive, I believe it is way too cheap.\' Placing " The phrase contains ',
+        ("muranishi", "どころか"), " right after ",
+        ("muranishi", "高い"), " flips the claim completely—'far from expensive!'—and lands on ",
+        ("muranishi", "安すぎる"), ", and this word is built from the word for cheap, plus the word for too much."
+    ]),
 ]
 
 TRANSITION = "Now let's listen to Muranishi's price-flipping pitch again."
 
 OUTRO = (
-    "Remember \"takai\" for expensive, \"yasui\" for cheap, \"mite kudasai\" to invite someone to try something, "
-    "and \"to iu koto wa\" whenever you reframe numbers in your favour. "
+    "Remember the word for expensive, the word for cheap, the expression to invite someone to try something, "
+    "and the bridging phrase whenever you reframe numbers in your favour. "
     "See you in scene sixteen."
 )
 

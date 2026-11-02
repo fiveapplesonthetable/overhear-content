@@ -40,17 +40,44 @@ STORY = [
     ('alessandro', 'Ti chiamo da casa, poi ti racconto.', 'I will call you from home, then I will tell you all about it.', [(435, 'Ti chiamo da casa'), (436, 'poi ti racconto')], ''),
 ]
 WALK = [
-    (0, None, "'Camera rolling! One sixty-eight take two. Action!' Before \"azione\", Italian directors shout \"motore!\" — literally \"motor!\" — to start the camera rolling."),
-    (1, None, "'I know this feeling. It is called growing up.' Corinna hits the exact same setup from take one, building suspense as she approaches the disputed age line."),
-    (2, None, "'I am whatever age I am.' Brilliant television compromise: \"ho gli anni che ho\" literally says \"I have the years that I have\", naming no number at all."),
-    (3, None, "'I feel every single one of them.' Here \"li\" points back to \"gli anni\", the years, and \"me li sento tutti\" means feeling every last one in her bones."),
-    (4, None, "'Cut! Print it!' On an Italian set, shouting feminine \"buona!\" — short for \"buona la ripresa\", \"the take is good\" — means \"that's a keeper!\"."),
-    (5, None, "'Have I been kicked out?' Outside on the steps, Alessandro phones his girlfriend; \"cacciare\" literally means \"to hunt\" or \"chase away\", and here \"kicked out\"."),
-    (6, None, "'I did not do anything.' \"Non ho fatto niente\" is the classic protest of the innocent — \"ho fatto\" for \"I did\" sandwiched between \"non\" and \"niente\"."),
-    (7, None, "'Wait a second.' \"Un attimo\" means \"a moment\" or \"an instant\", a tiny word you will hear constantly in shops, offices, and phone calls."),
-    (8, None, "'Tomorrow seven-thirty sharp.' \"Sette e mezza\" says \"seven and a half\" for 7:30, and \"puntuale\" adds \"on the dot\"."),
-    (9, None, "'Watch out because you are already on thin ice.' Literally \"eye!\", opening with \"occhio che...\" is a vivid everyday warning for \"heads up\" or \"watch yourself\", while \"a rischio\" means \"at risk\"."),
-    (10, None, "'Hello? No, I am going back tomorrow.' Italian comfortably uses present \"torno\", \"I return\", for a firm plan happening tomorrow."),
-    (11, None, "'I just told you so, but around here things change fast.' In \"te l'ho appena detto\", \"appena\" gives \"just\" and \"rapidamente\" adds \"-mente\" — the twin of English \"-ly\" — onto \"rapido\"."),
-    (12, None, "'I will call you from home, then I will tell you all about it.' Unlike \"dire\" for saying words, \"raccontare\" means telling the whole story — and Alessandro has quite a first day to recount."),
+    (0, None, [
+        '\'Camera rolling! One sixty-eight take two. Action!\' Before "azione", Italian directors shout "motore!" — literally "motor!" — to start the camera rolling.'
+    ]),
+    (1, None, [
+        "'I know this feeling. It is called growing up.' Corinna hits the exact same setup from take one, building suspense as she approaches the disputed age line."
+    ]),
+    (2, None, [
+        '\'I am whatever age I am.\' Brilliant television compromise: "ho gli anni che ho" literally says "I have the years that I have", naming no number at all.'
+    ]),
+    (3, None, [
+        '\'I feel every single one of them.\' Here "li" points back to "gli anni", the years, and "me li sento tutti" means feeling every last one in her bones.'
+    ]),
+    (4, None, [
+        '\'Cut! Print it!\' On an Italian set, shouting feminine "buona!" — short for "buona la ripresa", "the take is good" — means "that\'s a keeper!".'
+    ]),
+    (5, None, [
+        '\'Have I been kicked out?\' Outside on the steps, Alessandro phones his girlfriend; "cacciare" literally means "to hunt" or "chase away", and here "kicked out".'
+    ]),
+    (6, None, [
+        '\'I did not do anything.\' "Non ho fatto niente" is the classic protest of the innocent — "ho fatto" for "I did" sandwiched between "non" and "niente".'
+    ]),
+    (7, None, [
+        '\'Wait a second.\' "Un attimo" means "a moment" or "an instant", a tiny word you will hear constantly in shops, offices, and phone calls.'
+    ]),
+    (8, None, [
+        '\'Tomorrow seven-thirty sharp.\' "Sette e mezza" says "seven and a half" for 7:30, and "puntuale" adds "on the dot".'
+    ]),
+    (9, None, [
+        '\'Watch out because you are already on thin ice.\' Literally "eye!", opening with "occhio che..." is a vivid everyday warning for "heads up" or "watch yourself", while "a rischio" means "at risk".'
+    ]),
+    (10, None, [
+        '\'Hello? No, I am going back tomorrow.\' Italian comfortably uses present "torno", "I return", for a firm plan happening tomorrow.'
+    ]),
+    (11, None, [
+        '\'I just told you so, but around here things change fast.\' In "te l\'ho appena detto", "appena" gives "just" and "rapidamente" adds "-mente" — the twin of English "-ly" — onto "rapido".'
+    ]),
+    (12, None, [
+        '\'I will call you from home, then I will tell you all about it.\' Unlike "dire" for saying words, "raccontare" means telling the whole story — and Alessandro has quite a first day to recount.'
+    ]),
 ]
+

@@ -1135,6 +1135,76 @@
     },
     {
       "seg": 16,
+      "trans": "now / from",
+      "words": [
+        {
+          "t": "今",
+          "lemma": "今",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "now",
+          "gram": "Time noun.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "イマ"
+        },
+        {
+          "t": "から",
+          "lemma": "から",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "from",
+          "gram": "Marks starting point in time ('from now').",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "カラ"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "most",
+      "words": [
+        {
+          "t": "一番",
+          "lemma": "一番",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "most",
+          "gram": "Superlative adverb ('number one / most').",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イチバン"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "interesting; entertaining",
+      "words": [
+        {
+          "t": "面白い",
+          "lemma": "面白い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "interesting; entertaining",
+          "gram": "Plain い-adjective.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "オモシロイ"
+        }
+      ]
+    },
+    {
+      "seg": 22,
       "trans": "It's the highlight, the highlight!",
       "words": [
         {
@@ -1192,7 +1262,45 @@
       ]
     },
     {
-      "seg": 18,
+      "seg": 24,
+      "trans": "highlight; climax",
+      "words": [
+        {
+          "t": "見せ場",
+          "lemma": "見せ場",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "highlight; climax",
+          "gram": "Noun meaning the best or most dramatic scene.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ミセバ"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "highlight; climax",
+      "words": [
+        {
+          "t": "場。",
+          "lemma": "場。",
+          "pos": "name",
+          "stress": null,
+          "gloss": "highlight; climax",
+          "gram": "Noun meaning the best or most dramatic scene.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ミセバ"
+        }
+      ]
+    },
+    {
+      "seg": 28,
       "trans": "It certainly seems that way, but...",
       "words": [
         {
@@ -1263,7 +1371,45 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 30,
+      "trans": "certainly",
+      "words": [
+        {
+          "t": "確かに",
+          "lemma": "確かに",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "Adverb.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "タシカニ"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "but; though",
+      "words": [
+        {
+          "t": "けど",
+          "lemma": "けど",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "but; though",
+          "gram": "Conjunction trailing off to soften hesitation.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ケド"
+        }
+      ]
+    },
+    {
+      "seg": 34,
       "trans": "When are we going out on sales calls?",
       "words": [
         {
@@ -1373,7 +1519,45 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 36,
+      "trans": "when",
+      "words": [
+        {
+          "t": "いつ",
+          "lemma": "いつ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "when",
+          "gram": "Interrogative adverb.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イツ"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "go",
+      "words": [
+        {
+          "t": "行く",
+          "lemma": "行く",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "go",
+          "gram": "Plain dictionary form of 行く (to go).",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イク"
+        }
+      ]
+    },
+    {
+      "seg": 40,
       "trans": "Whenever I feel like it, obviously.",
       "words": [
         {
@@ -1457,7 +1641,71 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 42,
+      "trans": "mind; mood / subject marker / when (I) feel like it",
+      "words": [
+        {
+          "t": "気",
+          "lemma": "気",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "mind; mood",
+          "gram": "Noun in the idiom 気が向く (feel like doing).",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "キ"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "Marks 気 as subject of 向いたら.",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "向いたら",
+          "lemma": "向く",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "when (I) feel like it",
+          "gram": "Conditional たら-form of 向く (turn toward).",
+          "span": [
+            2,
+            6
+          ],
+          "reading": "ムイタラ"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "is certain; is obvious",
+      "words": [
+        {
+          "t": "決まってる",
+          "lemma": "決まる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is certain; is obvious",
+          "gram": "Contracted てる-form of 決まる (to be decided/certain).",
+          "span": [
+            0,
+            5
+          ],
+          "reading": "キマッテル"
+        }
+      ]
+    },
+    {
+      "seg": 46,
       "trans": "You have gained the freedom to return to your true self.",
       "words": [
         {
@@ -1619,8 +1867,91 @@
       ]
     },
     {
-      "seg": 26,
-      "trans": "Is that advice?",
+      "seg": 48,
+      "trans": "you",
+      "words": [
+        {
+          "t": "君",
+          "lemma": "君",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "Bookish or familiar second-person pronoun.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "キミ"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "gained; obtained / explanatory marker / is",
+      "words": [
+        {
+          "t": "得た",
+          "lemma": "得る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "gained; obtained",
+          "gram": "Past た-form of 得る (to gain/obtain).",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "エタ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "explanatory marker",
+          "gram": "Literary explanatory particle.",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is",
+          "gram": "Plain copula completing the dramatic statement.",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ダ"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "freedom",
+      "words": [
+        {
+          "t": "自由",
+          "lemma": "自由",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "freedom",
+          "gram": "Noun.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ジユウ"
+        }
+      ]
+    },
+    {
+      "seg": 54,
+      "trans": "advice / is / question marker",
       "words": [
         {
           "t": "助言",
@@ -1628,7 +1959,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "advice",
-          "gram": "Formal noun.",
+          "gram": "Formal noun for advice.",
           "span": [
             0,
             2
@@ -1664,7 +1995,26 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 56,
+      "trans": "advice",
+      "words": [
+        {
+          "t": "助言",
+          "lemma": "助言",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "advice",
+          "gram": "Formal noun for advice.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ジョゲン"
+        }
+      ]
+    },
+    {
+      "seg": 58,
       "trans": "It's a passage from Jonathan.",
       "words": [
         {
@@ -1735,7 +2085,26 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 60,
+      "trans": "passage",
+      "words": [
+        {
+          "t": "一節",
+          "lemma": "一節",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "passage",
+          "gram": "Noun meaning a short passage from a book.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イッセツ"
+        }
+      ]
+    },
+    {
+      "seg": 62,
       "trans": "I just want to know what I can do in the sky.",
       "words": [
         {
@@ -1897,7 +2266,58 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 64,
+      "trans": "sky",
+      "words": [
+        {
+          "t": "空",
+          "lemma": "空",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "sky",
+          "gram": "Noun.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ソラ"
+        }
+      ]
+    },
+    {
+      "seg": 66,
+      "trans": "want to know / only; just",
+      "words": [
+        {
+          "t": "知りたい",
+          "lemma": "知る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "want to know",
+          "gram": "Desiderative たい-form of 知る (to know).",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "シリタイ"
+        },
+        {
+          "t": "だけ",
+          "lemma": "だけ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "only; just",
+          "gram": "Restrictive particle.",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "ダケ"
+        }
+      ]
+    },
+    {
+      "seg": 68,
       "trans": "That's all there is to it.",
       "words": [
         {
@@ -1981,7 +2401,77 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 70,
+      "trans": "just; simply",
+      "words": [
+        {
+          "t": "ただ",
+          "lemma": "ただ",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "just; simply",
+          "gram": "Adverb emphasizing simplicity.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "タダ"
+        }
+      ]
+    },
+    {
+      "seg": 72,
+      "trans": "that / only; just",
+      "words": [
+        {
+          "t": "それ",
+          "lemma": "それ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "that",
+          "gram": "Demonstrative pronoun.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ソレ"
+        },
+        {
+          "t": "だけ",
+          "lemma": "だけ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "only; just",
+          "gram": "Restrictive particle.",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ダケ"
+        }
+      ]
+    },
+    {
+      "seg": 74,
+      "trans": "Mr.",
+      "words": [
+        {
+          "t": "さ。",
+          "lemma": "さ。",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mr.",
+          "gram": "Polite name suffix.",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "サン"
+        }
+      ]
+    },
+    {
+      "seg": 76,
       "trans": "Mr. Ono.",
       "words": [
         {
@@ -2013,7 +2503,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 77,
       "trans": "Are you out of your mind?",
       "words": [
         {
@@ -2058,7 +2548,7 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 78,
       "trans": "The best part is about to start, you know.",
       "words": [
         {
@@ -2155,7 +2645,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 79,
       "trans": "It's the highlight, the highlight!",
       "words": [
         {
@@ -2213,7 +2703,7 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 80,
       "trans": "It certainly seems that way, but...",
       "words": [
         {
@@ -2284,7 +2774,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 81,
       "trans": "When are we going out on sales calls?",
       "words": [
         {
@@ -2394,7 +2884,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 82,
       "trans": "Whenever I feel like it, obviously.",
       "words": [
         {
@@ -2478,7 +2968,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 83,
       "trans": "You have gained the freedom to return to your true self.",
       "words": [
         {
@@ -2640,7 +3130,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 84,
       "trans": "Is that advice? Thank you very much.",
       "words": [
         {
@@ -2698,7 +3188,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 85,
       "trans": "It's a passage from Jonathan.",
       "words": [
         {
@@ -2769,7 +3259,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 86,
       "trans": "I just want to know what I can do in the sky.",
       "words": [
         {
@@ -2931,7 +3421,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 87,
       "trans": "That's all there is to it.",
       "words": [
         {
@@ -3015,7 +3505,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 89,
       "trans": "See ya.",
       "words": [
         {

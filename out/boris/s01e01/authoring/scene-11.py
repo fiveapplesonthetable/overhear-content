@@ -42,19 +42,50 @@ STORY = [
     ('arianna', 'Ciliegia e mandarino?', 'Cherry and tangerine?', [(408, 'Ciliegia e mandarino')], ''),
 ]
 WALK = [
-    (0, None, "'Hi. Forgive me for earlier, I do not know what came over me.' \"Che mi e successo\" literally asks \"what happened to me\", a smooth way to brush off a tantrum."),
-    (1, None, "'Usually I am a completely normal girl.' \"Di solito\" is the everyday chunk for \"usually\", and \"normalissima\" piles on \"-issima\" again for \"super normal\"."),
-    (2, None, "'Are you Di Pollina?' Thinking Alessandro is the feared newspaper reporter, Corinna turns on maximum charm."),
-    (3, None, "'If you like.' Fresh from being renamed Seppia by Stanis, Alessandro shrugs with \"se vuoi\" — \"if you want\" — assuming it is another studio nickname."),
-    (4, None, "'Then let us use the informal you.' \"Diamoci del tu\" is the classic social bridge when two adults agree to drop formal \"lei\" and speak as equals."),
-    (5, None, "'When I come back from work I always take a shower.' Where English \"takes\" a shower, Italian \"makes\" one for yourself: \"farsi la doccia\"."),
-    (6, None, "'With a purple sponge and a scented bubble bath.' Notice \"bagnoschiuma\" glues \"bagno\", bath, and \"schiuma\", foam, into one compound word, while colour \"viola\" never changes its ending."),
-    (7, None, "'What are you doing, are you not writing it down?' Opening with \"che fai\" — literally \"what are you doing?\" — nudges someone when they miss their cue."),
-    (8, None, "'Raspberry, strawberry, blueberry, tangerine.' Four fruit flavours in a row, dictated solemnly as if they were breaking front-page news."),
-    (9, None, "'Oh, do I have to write it down?' Still thinking this is an odd assistant duty, Alessandro dutifully opens his pad."),
-    (10, None, "'On Sunday I am shooting a calendar. If you fancy it, come along. I will give you a photo.' \"Regalare\" means giving something as a gift, warmer and more generous than plain \"dare\"."),
-    (11, None, "'Yes, I am writing.' Just like \"stiamo risolvendo\" in the previous scene, \"sto scrivendo\" captures the pen moving right now."),
-    (12, None, "'Excuse me Corinna, we are ready to shoot.' \"Siamo pronti a\" means \"we are ready to\", with \"pronti\" in the plural to cover the whole crew."),
-    (13, None, "'What mischief did you pull? Out!' \"Combinare\" literally means combining things, and in everyday speech \"che hai combinato?\" asks \"what mess have you gotten into now?\""),
-    (14, None, "'Cherry and tangerine?' Looking down at the notepad Alessandro left behind, Arianna reads his fruit-salad notes — where he even misremembered \"lampone\" as \"ciliegia\", cherry."),
+    (0, None, [
+        '\'Hi. Forgive me for earlier, I do not know what came over me.\' "Che mi e successo" literally asks "what happened to me", a smooth way to brush off a tantrum.'
+    ]),
+    (1, None, [
+        '\'Usually I am a completely normal girl.\' "Di solito" is the everyday chunk for "usually", and "normalissima" piles on "-issima" again for "super normal".'
+    ]),
+    (2, None, [
+        "'Are you Di Pollina?' Thinking Alessandro is the feared newspaper reporter, Corinna turns on maximum charm."
+    ]),
+    (3, None, [
+        '\'If you like.\' Fresh from being renamed Seppia by Stanis, Alessandro shrugs with "se vuoi" — "if you want" — assuming it is another studio nickname.'
+    ]),
+    (4, None, [
+        '\'Then let us use the informal you.\' "Diamoci del tu" is the classic social bridge when two adults agree to drop formal "lei" and speak as equals.'
+    ]),
+    (5, None, [
+        '\'When I come back from work I always take a shower.\' Where English "takes" a shower, Italian "makes" one for yourself: "farsi la doccia".'
+    ]),
+    (6, None, [
+        '\'With a purple sponge and a scented bubble bath.\' Notice "bagnoschiuma" glues "bagno", bath, and "schiuma", foam, into one compound word, while colour "viola" never changes its ending.'
+    ]),
+    (7, None, [
+        '\'What are you doing, are you not writing it down?\' Opening with "che fai" — literally "what are you doing?" — nudges someone when they miss their cue.'
+    ]),
+    (8, None, [
+        "'Raspberry, strawberry, blueberry, tangerine.' Four fruit flavours in a row, dictated solemnly as if they were breaking front-page news."
+    ]),
+    (9, None, [
+        "'Oh, do I have to write it down?' Still thinking this is an odd assistant duty, Alessandro dutifully opens his pad."
+    ]),
+    (10, None, [
+        '\'On Sunday I am shooting a calendar. If you fancy it, come along. I will give you a photo.\' "Regalare" means giving something as a gift, warmer and more generous than plain "dare".'
+    ]),
+    (11, None, [
+        '\'Yes, I am writing.\' Just like "stiamo risolvendo" in the previous scene, "sto scrivendo" captures the pen moving right now.'
+    ]),
+    (12, None, [
+        '\'Excuse me Corinna, we are ready to shoot.\' "Siamo pronti a" means "we are ready to", with "pronti" in the plural to cover the whole crew.'
+    ]),
+    (13, None, [
+        '\'What mischief did you pull? Out!\' "Combinare" literally means combining things, and in everyday speech "che hai combinato?" asks "what mess have you gotten into now?"'
+    ]),
+    (14, None, [
+        '\'Cherry and tangerine?\' Looking down at the notepad Alessandro left behind, Arianna reads his fruit-salad notes — where he even misremembered "lampone" as "ciliegia", cherry.'
+    ]),
 ]
+

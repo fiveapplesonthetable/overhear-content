@@ -1369,7 +1369,71 @@
     },
     {
       "seg": 16,
-      "trans": "I'll buy them from you.",
+      "trans": "easy; simple / ly",
+      "words": [
+        {
+          "t": "簡単",
+          "lemma": "簡単",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "easy; simple",
+          "gram": "na-adjective stem",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カンタン"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "ly",
+          "gram": "adverbial particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ニ"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "sell (intransitive) / not",
+      "words": [
+        {
+          "t": "売れ",
+          "lemma": "売れる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "sell (intransitive)",
+          "gram": "ichidan, negative stem",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ウレ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ナイ"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "buy / and / do for you / emphasis",
       "words": [
         {
           "t": "買っ",
@@ -1426,8 +1490,66 @@
       ]
     },
     {
-      "seg": 18,
-      "trans": "As expected of the owner, you have a keen eye!",
+      "seg": 22,
+      "trans": "buy / and / do for you / emphasis",
+      "words": [
+        {
+          "t": "買っ",
+          "lemma": "買う",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "buy",
+          "gram": "godan, te-form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カッ"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        },
+        {
+          "t": "やる",
+          "lemma": "やる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do for you",
+          "gram": "godan, plain non-past",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "ヤル"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis",
+          "gram": "sentence-ending particle",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "as expected / owner / honored / honorific / eye / subject / high; discerning",
       "words": [
         {
           "t": "さすが",
@@ -1523,7 +1645,84 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 26,
+      "trans": "as expected",
+      "words": [
+        {
+          "t": "さすが",
+          "lemma": "さすが",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "as expected",
+          "gram": "adverb",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "サスガ"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "honorific / eye / subject / high; discerning",
+      "words": [
+        {
+          "t": "お",
+          "lemma": "お",
+          "pos": "part",
+          "stress": null,
+          "gloss": "honorific",
+          "gram": "honorific prefix",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "目",
+          "lemma": "目",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "eye",
+          "gram": "noun",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "メ"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject",
+          "gram": "subject particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "高い",
+          "lemma": "高い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "high; discerning",
+          "gram": "i-adjective, plain non-past",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "タカイ"
+        }
+      ]
+    },
+    {
+      "seg": 30,
       "trans": "They sold! Three thousand yen each, that's sixty thousand yen.",
       "words": [
         {
@@ -1620,7 +1819,58 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 32,
+      "trans": "one (cylindrical/tape) / 3,000 yen",
+      "words": [
+        {
+          "t": "一本",
+          "lemma": "一本",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one (cylindrical/tape)",
+          "gram": "numeral + counter",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イッポン"
+        },
+        {
+          "t": "三千円",
+          "lemma": "三千円",
+          "pos": "num",
+          "stress": null,
+          "gloss": "3,000 yen",
+          "gram": "numeral + counter",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "サンゼンエン"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "60,000 yen",
+      "words": [
+        {
+          "t": "六万円",
+          "lemma": "六万円",
+          "pos": "num",
+          "stress": null,
+          "gloss": "60,000 yen",
+          "gram": "numeral + counter",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ロクマンエン"
+        }
+      ]
+    },
+    {
+      "seg": 36,
       "trans": "Were you a salesman or something?!",
       "words": [
         {
@@ -1717,7 +1967,26 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 38,
+      "trans": "salesman",
+      "words": [
+        {
+          "t": "営業マン",
+          "lemma": "営業マン",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "salesman",
+          "gram": "noun",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "エイギョウマン"
+        }
+      ]
+    },
+    {
+      "seg": 40,
       "trans": "That's right. About how many of these sell in a day?",
       "words": [
         {
@@ -1853,7 +2122,39 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 42,
+      "trans": "how many (tapes) / about; approximately",
+      "words": [
+        {
+          "t": "何本",
+          "lemma": "何本",
+          "pos": "num",
+          "stress": null,
+          "gloss": "how many (tapes)",
+          "gram": "interrogative + counter",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ナンボン"
+        },
+        {
+          "t": "ぐらい",
+          "lemma": "ぐらい",
+          "pos": "part",
+          "stress": null,
+          "gloss": "about; approximately",
+          "gram": "approximative particle",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "グライ"
+        }
+      ]
+    },
+    {
+      "seg": 44,
       "trans": "Well, two a day at most.",
       "words": [
         {
@@ -1950,8 +2251,40 @@
       ]
     },
     {
-      "seg": 28,
-      "trans": "Then let's hit other shops too.",
+      "seg": 46,
+      "trans": "many; much / at most",
+      "words": [
+        {
+          "t": "多く",
+          "lemma": "多い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "many; much",
+          "gram": "i-adjective, te-form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "オオク"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "pos": "part",
+          "stress": null,
+          "gloss": "at most",
+          "gram": "conjunctive particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "テ"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "well then / other / of / shop / also; too / let's go",
       "words": [
         {
           "t": "じゃあ",
@@ -2034,8 +2367,72 @@
       ]
     },
     {
-      "seg": 30,
-      "trans": "Our daily target is sixty.",
+      "seg": 50,
+      "trans": "other / of / shop",
+      "words": [
+        {
+          "t": "他",
+          "lemma": "他",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "other",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ホカ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "of",
+          "gram": "linking particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "店",
+          "lemma": "店",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "shop",
+          "gram": "noun",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ミセ"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "let's go",
+      "words": [
+        {
+          "t": "行こう",
+          "lemma": "いく",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "let's go",
+          "gram": "godan, volitional",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "イコウ"
+        }
+      ]
+    },
+    {
+      "seg": 54,
+      "trans": "one day; daily / of / target; goal / topic / sixty (tapes) / is",
       "words": [
         {
           "t": "一日",
@@ -2118,8 +2515,46 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "Hold on a second.",
+      "seg": 56,
+      "trans": "target; goal",
+      "words": [
+        {
+          "t": "目標",
+          "lemma": "目標",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "target; goal",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "モクヒョウ"
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "sixty (tapes)",
+      "words": [
+        {
+          "t": "六十本",
+          "lemma": "六十本",
+          "pos": "num",
+          "stress": null,
+          "gloss": "sixty (tapes)",
+          "gram": "numeral + counter",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ロクジュッポン"
+        }
+      ]
+    },
+    {
+      "seg": 60,
+      "trans": "a little; just / wait / emphasis",
       "words": [
         {
           "t": "ちょっと",
@@ -2163,7 +2598,52 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 62,
+      "trans": "a little; just / wait / emphasis",
+      "words": [
+        {
+          "t": "ちょっと",
+          "lemma": "ちょっと",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "a little; just",
+          "gram": "adverb",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "チョット"
+        },
+        {
+          "t": "待て",
+          "lemma": "待つ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "wait",
+          "gram": "godan, imperative",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "マテ"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis",
+          "gram": "sentence-ending particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 64,
       "trans": "Are you prepared to enter this world?",
       "words": [
         {
@@ -2299,7 +2779,26 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 66,
+      "trans": "resolve; readiness",
+      "words": [
+        {
+          "t": "覚悟",
+          "lemma": "覚悟",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "resolve; readiness",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カクゴ"
+        }
+      ]
+    },
+    {
+      "seg": 68,
       "trans": "I'll sell these.",
       "words": [
         {
@@ -2383,7 +2882,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 69,
       "trans": "They won't sell that easily.",
       "words": [
         {
@@ -2467,7 +2966,7 @@
       ]
     },
     {
-      "seg": 38,
+      "seg": 70,
       "trans": "You're interesting. I'll buy them from you.",
       "words": [
         {
@@ -2564,7 +3063,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 71,
       "trans": "Thank you very much. As expected of the owner, you have a keen eye!",
       "words": [
         {
@@ -2700,7 +3199,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 72,
       "trans": "They sold! Three thousand yen each, that's sixty thousand yen.",
       "words": [
         {
@@ -2797,7 +3296,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 73,
       "trans": "Were you a salesman or something?!",
       "words": [
         {
@@ -2894,7 +3393,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 74,
       "trans": "That's right. About how many of these sell in a day?",
       "words": [
         {
@@ -3030,7 +3529,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 75,
       "trans": "Well, two a day at most.",
       "words": [
         {
@@ -3127,7 +3626,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 76,
       "trans": "Then let's hit other shops too. Our daily target is sixty.",
       "words": [
         {
@@ -3289,7 +3788,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 77,
       "trans": "Hold on a second. You mean teaming up with me?",
       "words": [
         {
@@ -3412,7 +3911,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 78,
       "trans": "Is that a problem?",
       "words": [
         {
@@ -3444,7 +3943,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 79,
       "trans": "Are you prepared to enter this world?",
       "words": [
         {
@@ -3580,7 +4079,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 81,
       "trans": "See you again.",
       "words": [
         {

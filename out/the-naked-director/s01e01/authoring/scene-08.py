@@ -34,23 +34,85 @@ STORY = [
 OPENER = "Even inside a dark theater, Muranishi worries about schedules while Ono quotes literature. Let's look closer at each line."
 
 WALK = [
-    (2, None, "'The most exciting part is starting right now.' \"Ima kara\" means starting right now. \"Ichiban\", literally number one, sits before \"omoshiroi\", interesting or fun, to say 'the most exciting'."),
-    (3, None, "'It is the best scene, the highlight!' \"Miseba\" joins \"miseru\", to show, with \"ba\", place—literally the 'showing-place', meaning the big highlight of a movie or play."),
-    (4, None, "'Well, it certainly looks that way, though.' \"Tashika ni\" means certainly or indeed. Trailing off on \"kedo\", though, is a classic Japanese way to agree politely before raising a concern."),
-    (5, None, "'When are we going out to do sales?' Unlike English, which puts 'when' at the front, Japanese leaves \"itsu\", when, right before \"iku\", to go."),
-    (6, None, "'Whenever I feel like it, obviously.' \"Ki ga muitara\" literally says 'if my spirit turns that way'—a natural idiom for 'when I am in the mood'. \"Kimatteru\" adds 'that is settled' or 'obviously'."),
-    (7, None, "'You have gained the freedom to return to your true self.' Ono switches to bookish \"kimi\" for 'you' and dramatic \"eta no da\", 'have obtained', quoting a translation about \"jiyuu\", freedom."),
-    (8, '助言ですか？', "'Is that advice?' Earnest Muranishi misses the quote and asks if it is \"jogen\", personal counsel or advice."),
-    (9, None, "'It is a passage from Jonathan.' \"Issetsu\" means one short passage or verse from a book—here the bestseller Jonathan Livingston Seagull."),
-    (10, None, "'I just want to know what I can do in the sky.' Reading the page aloud, Muranishi says \"sora\", sky, and \"shiritai dake\", 'only want to know', built by swapping \"ru\" to \"tai\" on \"shiru\", to know."),
-    (11, None, "'That is all there is to it.' \"Tada\" and \"sore dake\" both reinforce 'just that and nothing more', while breezy \"sa\" at the end gives the line a light, storybook tone."),
+    (2, None, [
+        '"\'The most exciting part is starting right now.\' Notice the word for starting right now is " Listen for ',
+        (None, "今から。"),
+        " and ",
+        (None, "一番。"),
+        ", literally number one, sits before ",
+        (None, "面白い。"),
+        ", interesting or fun, to say 'the most exciting'."
+    ]),
+    (3, None, [
+        '"\'It is the best scene, the highlight!\' Here, the word for highlight is " The word ',
+        (None, "見せ場。"),
+        ", which joins the verb to show, with ",
+        (None, "場。"),
+        ", place—literally the 'showing-place', meaning the big highlight of a movie or play."
+    ]),
+    (4, None, [
+        '"\'Well, it certainly looks that way, though.\' In this case, the word for certainly is " The phrase contains ',
+        (None, "確かに。"),
+        ". Trailing off on ",
+        (None, "けど。"),
+        ", though, is a classic Japanese way to agree politely before raising a concern."
+    ]),
+    (5, None, [
+        '"\'When are we going out to do sales?\' Unlike English, which puts the word for \'when\' at the front, Japanese leaves " You will hear ',
+        (None, "いつ。"),
+        ", when, right before ",
+        (None, "行く。"),
+        ", to go."
+    ]),
+    (6, None, [
+        '"\'Whenever I feel like it, obviously.\' This literally says \'if my spirit turns that way\'—a natural idiom for \'when I am in the mood\'. " In this line, ',
+        (None, "気が向いたら。"),
+        " comes before ",
+        (None, "決まってる。"),
+        ", which adds 'that is settled' or 'obviously'."
+    ]),
+    (7, None, [
+        '"\'You have gained the freedom to return to your true self.\' Ono switches to the formal word for \'you\', " The word ',
+        (None, "君。"),
+        ", and dramatic ",
+        (None, "得たのだ。"),
+        ", 'have obtained', quoting a translation about ",
+        (None, "自由。"),
+        ", freedom."
+    ]),
+    (8, '助言ですか？', [
+        '"\'Is that advice?\' Earnest Muranishi misses the quote and asks if the word for advice is " Here, the word ',
+        (None, "助言。"),
+        ", personal counsel or advice."
+    ]),
+    (9, None, [
+        '"\'It is a passage from Jonathan.\' Looking closely, the word for passage means one short verse from a book—here the bestseller Jonathan Livingston Seagull. It is " You can catch ',
+        (None, "一節。"),
+        "."
+    ]),
+    (10, None, [
+        '"\'I just want to know what I can do in the sky.\' Reading the page aloud, Muranishi uses the word for sky, " Hear how ',
+        (None, "空。"),
+        ", and ",
+        (None, "知りたいだけ。"),
+        ", 'only want to know', built by attaching the desire ending to the verb to know."
+    ]),
+    (11, None, [
+        '"\'That is all there is to it.\' Using the word for just that, " The phrase contains ',
+        (None, "ただ。"),
+        ", and ",
+        (None, "それだけ。"),
+        " both reinforce 'just that and nothing more', while the breezy ",
+        (None, "さ。"),
+        " at the end gives the line a light, storybook tone."
+    ]),
 ]
 
 TRANSITION = "Now let's hear the cinema conversation from start to finish again."
 
 OUTRO = (
-    "Take away \"ichiban omoshiroi\" for 'the most interesting', \"itsu iku\" for asking when someone is going, "
-    "and \"shiritai\" whenever you want to know something. "
+    "Take away the phrase for 'the most interesting', the question asking when someone is going, "
+    "and the expression for whenever you want to know something. "
     "See you out on the sales route next."
 )
 

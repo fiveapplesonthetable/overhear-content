@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/alrawabi-school/s01/e01.ar.srt'
 INTRO = "After a heated clash in the schoolyard leaves Layan hurt, Mariam stands trembling before Principal Ms. Faten to explain her side of the story. Mariam insists she only tried to push Layan off her, while Layan furiously accuses Mariam of attacking her. Hear the whole scene in Jordanian Arabic first."
 OPENER = "Now let's go through each line of the confrontation."
 TRANSITION = "Let's listen to the whole confrontation again from start to finish."
-OUTRO = "Mariam pleads from the heart, yet Layan's sharp accusation turns the room against her once more. Notice how \"wallah\" adds urgency both to Mariam's plea and to Layan's counterattack. See you next time."
+OUTRO = ["Mariam pleads from the heart, yet Layan's sharp accusation turns the room against her once more. Notice how ", ("mariam", "والله"), " adds urgency both to Mariam's plea and to Layan's counterattack. See you next time."]
 CLOSING = ("faten", "مع السلامة!")
 STORY = [
     ('faten', 'احكيلي بالضبط شو عملتي بالساحة يا مريم؟', 'Tell me exactly what you did in the courtyard, Mariam?', [(242, 'فعلت'), (231, 'الساحة')], 'natural Jordanian adaptation of formal Whisper cues'),
@@ -30,16 +30,16 @@ STORY = [
     ('mariam', 'أنا حكيت كل اللي صار معي.', 'I told everything that happened with me.', [], 'quiet closing line'),
 ]
 WALK = [
-    (0, None, "'Tell me exactly what you did in the courtyard, Mariam?' \"Bid-dabt\" means \"exactly\" or \"precisely\", and \"ihkeeli\" tacks \"to me\" straight onto \"tell\"."),
-    (1, None, "'I did not know what to do at the time, Miss.' \"Waqt-ha\" glues \"time\" and \"her\" together to mean \"at that moment\" or \"back then\"."),
-    (2, None, "'I stayed quiet because I was very scared.' \"Dalleit saakte\" means \"I kept silent\", and \"khaayfe\" is how a woman says she feels afraid."),
-    (3, None, "'When I went down to the courtyard, I acted in a normal way.' \"Tabeei\" comes from \"nature\", so \"bi-shakil tabeei\" literally says \"in a natural shape\"."),
-    (4, None, "'Suddenly Layan came and grabbed me from behind.' \"Faj'a\" means \"all of a sudden\", while \"masakatni\" packs \"she grabbed me\" into a single word."),
-    (5, None, "'I only wanted to push her away from me.' Notice \"kunt biddi\"—combining \"I was\" with \"I want\" is the smooth everyday way Jordanians say \"I wanted\"."),
-    (6, None, "'I swear it was not my intention to hurt her.' \"Wallah\" literally swears \"by God\", and \"ma kaan qasdi\" is the classic heartfelt apology \"I didn't mean to\"."),
-    (7, None, "'You have to believe me, Ms. Faten.' Even though she addresses Ms. Faten, Mariam says \"tsaddiqooni\"—\"believe me, all of you\"—pleading with the whole room."),
-    (8, None, "'I swear she is a liar, Miss!' \"Kazzaabe\" is the strong word for a female liar, stretching the middle sound for extra punch."),
-    (9, None, "'She is the one who started it and hit me in front of everyone.' \"Ballashat\" is the everyday Levantine word for \"she started\", and \"darabatni\" means \"she hit me\"."),
-    (10, None, "'Calm down now, I want to understand the whole story.' \"Ihdu\" tells more than one person to calm down, built from the root for quietness."),
-    (11, None, "'I told everything that happened with me.' Saying \"saar maai\", literally \"happened with me\", is how Jordanians talk about what they personally went through."),
+    (0, None, ["'Tell me exactly what you did in the courtyard, Mariam?' ", ("faten", "بالضبط"), " means \"exactly\" or \"precisely\", and ", ("faten", "احكيلي"), " tacks \"to me\" straight onto \"tell\"."]),
+    (1, None, ["'I did not know what to do at the time, Miss.' ", ("mariam", "وقتها"), " glues \"time\" and \"her\" together to mean \"at that moment\" or \"back then\"."]),
+    (2, None, ["'I stayed quiet because I was very scared.' ", ("mariam", "ضليت ساكتة"), " means \"I kept silent\", and ", ("mariam", "خايفة"), " is how a woman says she feels afraid."]),
+    (3, None, ["'When I went down to the courtyard, I acted in a normal way.' ", ("mariam", "طبيعي"), " comes from \"nature\", so ", ("mariam", "بشكل طبيعي"), " literally says \"in a natural shape\"."]),
+    (4, None, ["'Suddenly Layan came and grabbed me from behind.' ", ("mariam", "فجأة"), " means \"all of a sudden\", while ", ("mariam", "ومسكتني"), " packs \"and she grabbed me\" into a single word."]),
+    (5, None, ["'I only wanted to push her away from me.' Notice ", ("mariam", "كنت بدي"), "—combining \"I was\" with \"I want\" is the smooth everyday way Jordanians say \"I wanted\"."]),
+    (6, None, ["'I swear it was not my intention to hurt her.' ", ("mariam", "والله"), " literally swears \"by God\", and ", ("mariam", "ما كان قصدي"), " is the classic heartfelt apology \"I didn't mean to\"."]),
+    (7, None, ["'You have to believe me, Ms. Faten.' Even though she addresses Ms. Faten, Mariam says ", ("mariam", "تصدقوني"), "—\"believe me, all of you\"—pleading with the whole room."]),
+    (8, None, ["'I swear she is a liar, Miss!' ", ("layan", "كذابة"), " is the strong word for a female liar, stretching the middle sound for extra punch."]),
+    (9, None, ["'She is the one who started it and hit me in front of everyone.' ", ("layan", "بلشت"), " is the everyday Levantine word for \"she started\", and ", ("layan", "وضربتني"), " means \"and she hit me\"."]),
+    (10, None, ["'Calm down now, I want to understand the whole story.' ", ("faten", "اهدوا"), " tells more than one person to calm down, built from the root for quietness."]),
+    (11, None, ["'I told everything that happened with me.' Saying ", ("mariam", "صار معي"), ", literally \"happened with me\", is how Jordanians talk about what they personally went through."]),
 ]
