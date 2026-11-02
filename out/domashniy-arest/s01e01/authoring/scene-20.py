@@ -36,7 +36,7 @@ STORY = [
 ]
 WALK = [
     (0, 'Вика, Паша!', 'He greets them by name: Vika, his wife, and Pasha, his deputy.'),
-    (0, 'Как я рад.', "'I'm so glad.' The word for 'glad' is in the masculine form, because Arkady is a man. A woman would add an 'a' at the end."),
+    (0, 'Как я рад.', "'I'm so glad.' The word means 'glad' is in the masculine form, matching Arkady's gender. A woman would add an 'a' at the end."),
     (0, 'Проходите, пожалуйста.', "'Come in, please.' A polite command, and the ending is plural, because there are two guests. Vika has brought something."),
     (1, None, "'I've brought you your things.' The verb ends in 'la', because Vika is a woman. A man would leave off the 'a'. Arkady is pleased, and starts the introductions."),
     (2, None, "'Very good. Well then, let's introduce everyone.' Literally 'let's get acquainted'. You'll hear it whenever strangers meet."),
@@ -48,10 +48,10 @@ WALK = [
     (7, None, "'Vika, which car did you come in today?' Arkady uses the informal singular 'you' here with 'came', as friends and close colleagues do."),
     (8, None, "'The Cayenne.' That's her white Porsche, a very expensive car. The name is masculine in Russian."),
     (9, None, "'The white one? Give me the keys.' 'White' is masculine, to match the car's name. And the second sentence is a blunt way of saying 'hand them over'. Arkady turns to Samson."),
-    (10, None, "'Vanya, this is yours now. And it's only the beginning.' The word for 'yours' here is the casual one, for a friend. Vika is speechless."),
+    (10, None, "'Vanya, this is yours now. And it's only the beginning.' The word means 'yours' here is the casual one, for a friend. Vika is speechless."),
     (11, None, "'What do you mean?' Literally 'in what sense?' A very common way to show you don't understand, or don't like what you hear."),
     (12, None, "'I'll explain everything later.' The verb is a completed action, so it points to the future. In the show, he keeps saying 'later' to her. Samson can't believe his luck."),
-    (13, None, "'So this is our car now?' The word for 'our' is feminine, to match the car. In the show it's the children who ask, and Arkady answers them."),
+    (13, None, "'So this is our car now?' The word means 'our' is feminine, to match the car. In the show it's the children who ask, and Arkady answers them."),
     (14, None, "'Yes. Go downstairs, it's parked there.' Literally 'she stands there', because the car is feminine. In Russian, a parked car stands. Samson gathers the family."),
     (15, None, "'Nina, kids, let's go and have a look!' Two verbs side by side: 'let's go', and 'we'll look'. The family runs down the stairs."),
     (16, None, "'Yes, go on. Don't mix it up with another one!' It's a joke: in the show he adds that there are lots of Cayennes in their yard, which there certainly are not."),
