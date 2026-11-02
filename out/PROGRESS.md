@@ -41,6 +41,14 @@ Kukhnya S2e04 to S6e20 were written from Whisper (`ru-only`) transcripts. Names 
 
 ## Next
 
+0. **Owner feedback (2026-11-02), before anything renders:**
+   * Target words said by the English narrator had an English accent. README "Rules recap" and spec/recipe.md now forbid
+     target words in narrator text (transliterated or not): split the sentence and voice the word as its own target segment by
+     the character. Redo every scene already written under the old rule, starting with `kukhnya/s01e01` and
+     `dix-pour-cent/s01e01`, and apply it to all the seed content as you go. The check: no transliterated target word in any
+     narrator segment.
+   * The earlier Arabic voices were very bad and one Portuguese voice was shrill. Throw those voices away and redo ar and pt
+     voices per spec/voices.md "Owner listening feedback". Re-check every other language's voices by ear the same way.
 1. Kukhnya S1: fix to `--strict-teaching`, review, render, check, package. This is the first release.
 2. Then dix-pour-cent S1 and domashniy-arest S1, then the rest of the README order.
 
