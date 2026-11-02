@@ -120,6 +120,24 @@ The pipeline gates every sentence on Whisper CER and retakes failures. Read ever
 * `stress.unresolved`: Russian words the stress model couldn't place. Add `stress` in the notes and re-render.
 * `warnings` and `timing.notOk`: these should be near zero.
 
+**Known weak spot: stammers and bangs inside a take.** Owner listening (2026-11-02) heard a stammered "Et demain, tu
+déjeunes avec Audiard" (dix-pour-cent s01e01 scene-02) and a loud bang between some sentences. The joins are not the
+cause: `render/audio.py` trims and fades every clip, and the silence between sentences measured clean. The noise is
+inside the take the TTS produced: Qwen3-TTS sometimes repeats a syllable, or starts or ends a take with a burst. Whisper
+CER does not catch these: Whisper tidies away repeats, and a bang is not a word. The old renders show `retake.takes: 0`,
+so no take was ever redone. Before a take is accepted, gate it on all of these:
+
+* **Length:** its duration against the voice's median seconds per character. A take more than ~1.35x as long as
+  expected, or with an internal pause over ~0.6 s, is a stammer or a hang. Retake it.
+* **Verbatim repeats:** a Whisper pass with word timestamps and no text normalisation. A word or syllable said twice
+  in a row that the text does not repeat fails the take.
+* **Transients:** a 10 ms window whose peak is more than ~4x the take's speech RMS, or a low-frequency (<150 Hz) burst,
+  especially in the first or last 80 ms. Retake it, or trim it if it lies outside the words.
+* **Best of N:** render 2-3 takes of every target-language line (seed or temperature varied) and keep the one that
+  passes with the lowest CER. Lower the sampling temperature or raise the repetition penalty if repeats stay common.
+
+Record the counts in `report.json` `retake` and in `out/PROGRESS.md`.
+
 Then listen to at least the first scene of each episode, and every scene a gate flagged. Fix the content and re-render.
 Never patch an mp3.
 
