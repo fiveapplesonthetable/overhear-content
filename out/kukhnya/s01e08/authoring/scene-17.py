@@ -14,7 +14,7 @@ INTRO = "At Claude Monet, Barinov has shut himself in his dark office, sure that
 OPENER = 'Slowly now. Barinov is dramatic, and Lyova tries to bring him back.'
 TRANSITION = 'And the whole sad scene again, without the pauses.'
 OUTRO = "Barinov's ya nikuda ne poydu, 'I'm not going anywhere', is easy to say and very firm. And skuchat bez, literally 'to be bored without', is how Russians say they miss someone. See you next time."
-CLOSING = ('barinov', 'Пока!')
+CLOSING = ('barinov', 'Пока')
 STORY = [
     ('barinov', 'Один ты остался у меня, милый Аркашка.', 'You are all I have left, dear Arkasha.', [(213, 'Один ты у меня остался, Аркашка')], ''),
     ('lyova', 'Шеф, почему вы сидите здесь в темноте?', 'Chef, why are you sitting here in the dark?', [(213, 'Аркашка')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Тогда я принесу вам горячего чаю сюда.', 'Then I will bring you some hot tea here.', [(213, 'Аркашка')], ''),
 ]
 WALK = [
-    (0, None, "'You are all I have left, dear Arkasha.' In odin ty ostalsya u menya, literally 'only you remained by me', odin, 'one', means 'only'. The fish's name is a pet form of Arkady."),
-    (1, None, "'Chef, why are you sitting here in the dark?' Lyova says vy to his boss: vy sidite. After v, temnota, 'darkness', becomes temnote."),
-    (2, None, "'My fish is the only loyal organism in the world.' Adding -ka to ryba gives rybka, a small, dear fish. The phrase na svete, 'in the world', uses svet, which also means 'light'."),
-    (3, None, "'But our entire kitchen misses you very much!' To miss someone in Russian is skuchat bez, literally 'to be bored without'. And vsya nasha kukhnya means the whole team."),
-    (4, None, "'All the cooks in the kitchen are true traitors.' A predatel, 'traitor', is someone who predal, 'betrayed'. In writing, the dash stands where English has 'are'."),
-    (5, None, "'They just got scared of the new strict order.' After ispugalis, 'they got scared', poryadok gains an -a: poryadka. Both novogo and strogogo match it."),
-    (6, None, "'They gladly abandoned their old chef.' Russian says 'gladly' as s udovolstviyem, 'with pleasure'. With brosili, 'they threw', comes the brosat that also means abandoning someone."),
-    (7, None, "'We all sincerely love only you, chef.' Lyova's lyubim, 'we love', comes from lyubit. And iskrenne, 'sincerely', comes from iskrenniy."),
-    (8, None, "'Only Arkasha listens to me attentively and keeps quiet.' After slushayet, 'listens', menya follows with no 'to'. Russian has a single word for 'keeps quiet', molchit."),
-    (9, None, "'Let's go to the kitchen before the soup gets cold.' Lyova's poydyomte, 'let's go', adds -te to be polite. Russian says 'before it gets cold' as poka ne ostyl, literally 'while it hasn't cooled'."),
-    (10, None, "'I will not go anywhere out of this office.' Like nikto ne, nikuda ne, 'nowhere not', keeps both negatives. After iz, etot kabinet becomes etogo kabineta."),
-    (11, None, "'Then I will bring you some hot tea here.' The -u in goryachego chayu, 'some hot tea', is an old form meaning 'some of'. And syuda, 'here', answers 'where to', because the tea is coming to him."),
+    (0, None, ["'You are all I have left, dear Arkasha.' In this sad sentence, the word ", ('barinov', 'Один'), ' simply means alone or one.']),
+    (1, None, ["'Chef, why are you sitting here in the dark?' When asking about the lack of light, he uses ", ('lyova', 'темноте'), ' for the dark.']),
+    (2, None, ["'My fish is the only loyal organism in the world.' To highlight his isolation, he calls the fish the ", ('barinov', 'единственный'), ' or only friend.']),
+    (3, None, ["'But our entire kitchen misses you very much!' The expression for missing someone heavily relies on ", ('lyova', 'скучает'), ' which describes feeling bored without them.']),
+    (4, None, ["'All the cooks in the kitchen are true traitors.' He feels deeply hurt and labels his team as ", ('barinov', 'предатели'), ' meaning traitors.']),
+    (5, None, ["'They just got scared of the new strict order.' Trying to defend the team, the cook explains they ", ('lyova', 'испугались'), ' or got scared.']),
+    (6, None, ["'They gladly abandoned their old chef.' Adding bitterness, the head cook claims they left with ", ('barinov', 'удовольствием'), ' indicating pleasure.']),
+    (7, None, ["'We all sincerely love only you, chef.' Speaking from the heart, the loyal cook says they ", ('lyova', 'искренне'), ' or sincerely care.']),
+    (8, None, ["'Only Arkasha listens to me attentively and keeps quiet.' Praising the fish, he points out it listens very ", ('barinov', 'внимательно'), ' meaning attentively.']),
+    (9, None, ["'Let's go to the kitchen before the soup gets cold.' Urging his boss to move, he worries the food has ", ('lyova', 'остыл'), ' or cooled down.']),
+    (10, None, ["'I will not go anywhere out of this office.' Refusing to leave the room, the boss firmly says ", ('barinov', 'никуда'), ' for nowhere.']),
+    (11, None, ["'Then I will bring you some hot tea here.' Offering comfort instead of leaving, the cook suggests ", ('lyova', 'горячего'), ' for something hot.']),
 ]
