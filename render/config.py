@@ -59,6 +59,7 @@ def tts_signature(s, with_en=True, with_ar=True):
         "gen": [t["temperature"], t["top_k"], t["top_p"], t["repetition_penalty"]],
         "lora": (lora["tag"] if lora["enabled"] else None),
         "stress": stress_policy(s),
+        "takeGates": "v2",
         **({"ru": _public(ru_engine(s))} if ru_engine(s) else {}),
         **({"en": _public(en_engine(s))} if with_en and en_engine(s) else {}),
         **({"ar": _public(ar_engine(s))} if with_ar and ar_engine(s) else {}),
@@ -89,12 +90,14 @@ def sentence_signature(s, lang):
     signature. (voice, reference version and text are added by plan.cache_key.)"""
     ru, en, ar = ru_engine(s), en_engine(s), ar_engine(s)
     if lang == "ru" and ru:
-        return {"ru": _public(ru)}
+        return {"ru": _public(ru), "takeGates": "v2"}
     if lang == "en" and en:
-        return {"en": _public(en)}
+        return {"en": _public(en), "takeGates": "v2"}
     if lang == "ar" and ar:
-        return {"ar": _public(ar)}
-    return tts_signature(s, with_en=False, with_ar=False)    # Other languages' sentence caches do not depend on Arabic/narrator engines.
+        return {"ar": _public(ar), "takeGates": "v2"}
+    d = tts_signature(s, with_en=False, with_ar=False)
+    d["takeGates"] = "v2"
+    return d    # Other languages' sentence caches do not depend on Arabic/narrator engines.
 
 
 def engine_label(s, lang):

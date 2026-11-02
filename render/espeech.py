@@ -181,8 +181,18 @@ class EspeechEngine:
                 while i < len(pending):
                     chunk = pending[i:i + bs]
                     seed = int(chunk[0]["key"][:8], 16) + attempt * 7919
+
+                    expanded = []
+                    for c in chunk:
+                        for cand_idx in range(3):
+                            expanded.append(c)
+                            
                     try:
-                        wavs = self.generate([(voice, self.LANG_NAME, c["text_tts"]) for c in chunk], seed, speed=speed)
+                        ct_bs = max(1, bs // 3)
+                        wavs = []
+                        for j in range(0, len(expanded), ct_bs * 3):
+                            expanded_slice = expanded[j:j + ct_bs * 3]
+                            wavs.extend(self.generate([(voice, self.LANG_NAME, c["text_tts"]) for c in expanded_slice], seed, speed=speed))
                     except torch.cuda.OutOfMemoryError:
                         torch.cuda.empty_cache()
                         if bs == 1:
@@ -191,9 +201,50 @@ class EspeechEngine:
                         self.log(f"OOM: batch -> {bs}")
                         continue
                     i += len(chunk)
-                    for c, w in zip(chunk, wavs):
+                    
+                    import gates
+                    g = gates.get_gates()
+                    import json
+                    
+                    for c_idx, c in enumerate(chunk):
+                        w_list = wavs[c_idx*3 : c_idx*3 + 3]
+                        candidates_info = []
+                        ref_path = self.voices.ref_path(c["voice"])
+                        for w in w_list:
+                            sim_ok, sim_val = g.check_similarity(w, NATIVE_SR, ref_path)
+                            len_ok, len_reason = g.check_length_pause(w, NATIVE_SR, c["text_plain"], c["lang"])
+                            tran_ok, tran_reason, w_trimmed = g.check_transient(w, NATIVE_SR)
+                            rep_ok, cer_val, hyp = g.check_repeat_and_cer(w_trimmed, NATIVE_SR, c["text_plain"], c["lang"])
+                            w = w_trimmed
+                            
+                            all_ok = sim_ok and len_ok and tran_ok and rep_ok
+                            candidates_info.append({
+                                "wav": w, "all_ok": all_ok, "cer": cer_val if isinstance(cer_val, float) else 1.0, 
+                                "sim": sim_val,
+                                "fails": {
+                                    "similarity": not sim_ok,
+                                    "length": (not len_ok and len_reason == "length"),
+                                    "pause": (not len_ok and len_reason == "pause"),
+                                    "transient": not tran_ok,
+                                    "repeat": not rep_ok
+                                }
+                            })
+                            
+                        passing = [info for info in candidates_info if info["all_ok"]]
+                        if passing:
+                            best_info = min(passing, key=lambda x: (x["cer"], -x["sim"]))
+                            ok = True
+                        else:
+                            best_info = min(candidates_info, key=lambda x: (x["cer"], -x["sim"]))
+                            ok = False
+                            
+                        w = best_info["wav"]
                         sec = len(w) / NATIVE_SR
-                        ok = plausible(c["text_plain"], sec)
+                        
+                        # In espeech, we also check plausible length as an ultimate fallback
+                        from plan import plausible
+                        ok = ok and plausible(c["text_plain"], sec)
+                        
                         if ok or attempt == len(speeds) - 1:
                             p = store.tts_path(c["key"])
                             tmp = p.with_suffix(".tmp.flac")
@@ -201,11 +252,22 @@ class EspeechEngine:
                             tmp.replace(p)
                             stats["n"] += 1
                             stats["audio_s"] += sec
+                            
+                            marker = store.tts_path(c["key"]).with_name(f'{c["key"]}.gates.json')
+                            counts = {"takes": len(candidates_info), "retakes": len(candidates_info) - 1, 
+                                      "length": sum(1 for x in candidates_info if x["fails"]["length"] or x["fails"]["pause"]),
+                                      "repeat": sum(1 for x in candidates_info if x["fails"]["repeat"]),
+                                      "transient": sum(1 for x in candidates_info if x["fails"]["transient"]),
+                                      "similarity": sum(1 for x in candidates_info if x["fails"]["similarity"]),
+                                      "cer": sum(1 for x in candidates_info if isinstance(x["cer"], float) and x["cer"] > 0.15)}
+                            marker.write_text(json.dumps(counts))
+                            
                             if not ok:
-                                self.log(f"WARN implausible length kept: {c['text_plain'][:60]!r} {sec:.1f}s")
+                                self.log(f"WARN implausible length/fails kept: {c['text_plain'][:60]!r} {sec:.1f}s")
                         else:
                             nxt.append(c)
                             stats["retries"] += 1
+
                 pending = nxt
                 if not pending:
                     break

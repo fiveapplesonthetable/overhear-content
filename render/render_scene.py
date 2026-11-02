@@ -133,27 +133,49 @@ class Renderer:
             wav = tts.load_wav(self.store.tts_path(key))[0]
             clip, ct, x16, ck = evaluate(st, wav)
             best[key] = {"bad": self.badness(ck), "wav": wav, "clip": clip, "ct": ct, "x16": x16, "ck": ck, "take": 0}
+        
+        # New Retake Stats Aggregation from .gates.json (created by synth_many gates)
+        retake = {"sentences": [], "takes": 0, "retakes": 0, "length": 0, "repeat": 0, "transient": 0, "similarity": 0, "cer": 0}
+        for key, st in first.items():
+            if self.store.tts_path(key).with_name(f"{key}.gates.json").exists():
+                try:
+                    counts = json.loads(self.store.tts_path(key).with_name(f"{key}.gates.json").read_text())
+                    if "takes" in counts:
+                        retake["takes"] += counts.get("takes", 0)
+                        retake["retakes"] += counts.get("retakes", 0)
+                        retake["length"] += counts.get("length", 0)
+                        retake["repeat"] += counts.get("repeat", 0)
+                        retake["transient"] += counts.get("transient", 0)
+                        retake["similarity"] += counts.get("similarity", 0)
+                        retake["cer"] += counts.get("cer", 0)
+                except Exception:
+                    pass
+
         flagged_keys = [k for k, b in best.items() if b["bad"][0] > 0]
+        # Legacy retake marker handling (if any fallback)
         need = [k for k in flagged_keys if not self.marker(k).exists()]
         if need and allow_retake and s["stressRetry"]["attempts"] > 0:
             return "retake", need
-        retake = {"sentences": [], "takes": 0}
+            
         for key in flagged_keys:
             st, b = first[key], best[key]
             made = []
-            if self.marker(key).exists():
-                made = json.loads(self.marker(key).read_text()).get("made", [])
+            if self.store.tts_path(key).with_name(f"{key}.gates.json").exists():
+                try:
+                    cands = json.loads(self.store.tts_path(key).with_name(f"{key}.gates.json").read_text())
+                    made = cands.get("made", [])
+                except:
+                    made = []
             for t in made:
                 p = self.cand_path(key, t)
                 if not p.exists():
                     continue
-                retake["takes"] += 1
                 w = tts.load_wav(p)[0]
                 clip, ct, x16, ck = evaluate(st, w)
                 bad = self.badness(ck)
                 if bad < b["bad"]:
                     b.update(bad=bad, wav=w, clip=clip, ct=ct, x16=x16, ck=ck, take=t + 1)
-            if b["take"]:   # keep the better take for good: the cache key is unchanged, so re-runs reuse it
+            if b["take"]:   # keep the better take for good
                 cp = self.store.tts_path(key)
                 tmpf = cp.with_suffix(".tmp.flac")
                 sf.write(str(tmpf), b["wav"], tts.NATIVE_SR, format="FLAC", subtype="PCM_16")
@@ -162,6 +184,7 @@ class Renderer:
                                         "bestTake": b["take"], "stillFlagged": b["bad"][0] > 0})
             for t in made:
                 self.cand_path(key, t).unlink(missing_ok=True)
+
         warnings = [f"voice {k} is shared by roles {rs} in this scene" for k, rs in voice_clashes(roles).items()]
         clips = [best[st.key]["clip"] for st in sents]
         checks = {n: best[st.key]["ck"] for n, st in enumerate(sents)}

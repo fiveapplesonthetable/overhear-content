@@ -15,7 +15,7 @@ def test_default_settings_make_f5_the_narrator_engine():
     en = config.en_engine(s)
     assert en and en["model"] == "F5TTS_v1_Base" and en["nfe"] == 16
     assert config.engine_label(s, "en") == "f5-tts" and config.engine_label(s, "fr") == "qwen3-tts"
-    assert config.sentence_signature(s, "en") == {"en": {k: v for k, v in en.items() if not k.startswith("_")}}
+    assert config.sentence_signature(s, "en") == {"en": {k: v for k, v in en.items() if not k.startswith("_")}, "takeGates": "v2"}
 
 
 def test_english_key_depends_only_on_ttsEn_voice_ref_text():
