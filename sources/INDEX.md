@@ -44,6 +44,9 @@ an unclear cue is never used as it stands: take a line you are sure of or leave 
 | `the-producers` | ko | s01/e01.ko.srt | 1107 | full episode (71 min), Whisper large-v3; KBS uploaded it in three parts, joined here with their offsets. A few cues span a music gap, so their end time runs long |
 | `the-producers` | ko | s01/e02.ko.srt | 1165 | full episode, Whisper large-v3, KBS's three parts joined (same caveats as E1) |
 | `the-producers` | ko | s01/e03.ko.srt | 1196 | full episode, Whisper large-v3, KBS's three parts joined (same caveats as E1) |
+| `the-producers` | ko | s01/e04.ko.srt | 1133 | full episode, Whisper large-v3, KBS's three parts joined (same caveats as E1) |
+| `the-producers` | ko | s01/e05.ko.srt | 1167 | full episode, Whisper large-v3, KBS's three parts joined (same caveats as E1) |
+| `the-producers` | ko | s01/e06.ko.srt | 1120 | full episode, Whisper large-v3, KBS's three parts joined (same caveats as E1) |
 | `boris` | it | s01/e01.it.srt, s01/e01.en.srt | 444 / 441 | full episode (23 min); Italian is Whisper large-v3, English is a fan subtitle (timing matches within a second or two) |
 | `behind-the-scenes` | zh | s01/e01.zh.srt | 901 | full episode (幕后之王 EP01, official Youku upload), Whisper large-v3, Simplified. The first cues are the theme song |
 | `the-naked-director` | ja | s02/e01-e08 .ja.srt + .en.srt | e01 700 / 618 | **full season 2** (8 episodes, about 45 min each), Netflix's own Japanese (closed captions: speaker names in （）, readings in ( ) after kanji, sound cues) and English subtitles |
