@@ -89,6 +89,11 @@ like "the word for", "literally", "built from" and "swap in" are not jargon; the
 * **Natural target language.** It must read naturally to a native speaker, with correct formal or informal address. A gloss
   should sound like English a person says ("I feel really bad", not "To me is very bad").
 * **Outro** says only what the scene showed, reassures, says "see you next time", then the new target-language farewell.
+* **Original language only.** Story lines come from the `<lang>` source, which is a transcript of the episode's original
+  audio: its own-language subtitles or Whisper, never a dub and never a subtitle translated from another language. An
+  `.en.srt` beside it is only a meaning aid for glosses. Netflix Japanese captions (`the-naked-director`) carry speaker names
+  `（村西とおる）`, furigana `村西(むらにし)` and sound notes `（…のあえぎ声）`: use them to attribute lines and read names, but
+  never put them in a line.
 * **Machine-transcribed sources** (Whisper `.srt`, e.g. Kukhnya S2-S6 and the pilots without subtitles) can mishear names
   and numbers. When a cue is unclear, use a line you are sure of, or leave it out. Never build a line on a guess.
 
