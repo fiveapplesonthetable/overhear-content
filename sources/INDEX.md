@@ -38,7 +38,7 @@ an unclear cue is never used as it stands: take a line you are sure of or leave 
 
 | show | lang | file | cues | note |
 |---|---|---|---|---|
-| `paquita-salas` | es | s01/e01.es.srt, s01/e01.en.srt | 505 / 452 | full episode, Spanish and English subtitles |
+| `paquita-salas` | es | s01/e01-e05 .es.srt + .en.srt | e01 505 / 452 | **full season 1** (5 episodes), Spanish and English subtitles. `(GRITANDO)`-style cues are stage notes, not dialogue |
 | `die-discounter` | de | s01/e01.de.srt (+ .de-orig.auto.vtt) | 785 | full episode, machine transcript |
 | `porta-dos-fundos` | pt | s01/e01.pt.srt (+ .pt-orig.auto.vtt) | 263 | one sketch, machine transcript |
 | `the-producers` | ko | s01/e01.ko.srt | 1107 | full episode (71 min), Whisper large-v3; KBS uploaded it in three parts, joined here with their offsets. A few cues span a music gap, so their end time runs long |
