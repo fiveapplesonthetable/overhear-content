@@ -34,7 +34,7 @@
           "t": "Лидия",
           "lemma": "лидия",
           "pos": "name",
-          "stress": null,
+          "stress": "Ли́дия",
           "gloss": "Lidia",
           "gram": "first name, used as address"
         },
@@ -42,7 +42,7 @@
           "t": "Алексеевна,",
           "lemma": "алексеевна",
           "pos": "name",
-          "stress": null,
+          "stress": "А́лексеевна,",
           "gloss": "Alekseyevna",
           "gram": "patronymic, used as address"
         },
@@ -88,7 +88,7 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркадий",
           "gloss": "Arkady",
           "gram": "first name, nominative, used as address"
         },
@@ -96,7 +96,7 @@
           "t": "Борисович.",
           "lemma": "борисович",
           "pos": "name",
-          "stress": null,
+          "stress": "Бо́рисович.",
           "gloss": "son of Boris",
           "gram": "patronymic, nominative, used as address"
         }
@@ -110,7 +110,7 @@
           "t": "Аркаш,",
           "lemma": "аркаш",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаш,",
           "gloss": "Arkash",
           "gram": "short affectionate form of Аркадий, used as address"
         },
@@ -238,7 +238,7 @@
           "t": "Аракелян",
           "lemma": "аракелян",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ракелян",
           "gloss": "Arakelyan",
           "gram": "surname"
         },
@@ -316,7 +316,7 @@
           "t": "даём.",
           "lemma": "давать",
           "pos": "verb",
-          "stress": null,
+          "stress": "да́ём.",
           "gloss": "we give",
           "gram": "present, 1st person plural, imperfective"
         },
@@ -338,7 +338,7 @@
           "t": "Аркаш,",
           "lemma": "аркаш",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаш,",
           "gloss": "Arkash",
           "gram": "short affectionate form of Аркадий, used as address"
         },
@@ -394,7 +394,7 @@
           "t": "всё-таки",
           "lemma": "всё-таки",
           "pos": "part",
-          "stress": null,
+          "stress": "всё́-таки",
           "gloss": "after all",
           "gram": "particle"
         },
@@ -600,7 +600,7 @@
           "t": "Паша,",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша,",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -702,7 +702,7 @@
           "t": "Озёра,",
           "lemma": "озеро",
           "pos": "noun",
-          "stress": null,
+          "stress": "О́зёра,",
           "gloss": "lakes",
           "gram": "nominative plural, neuter"
         },
@@ -834,7 +834,7 @@
           "t": "твоём",
           "lemma": "твой",
           "pos": "det",
-          "stress": null,
+          "stress": "тво́ём",
           "gloss": "your",
           "gram": "prepositional singular, masculine/neuter"
         },
@@ -912,7 +912,7 @@
           "t": "моём",
           "lemma": "мой",
           "pos": "det",
-          "stress": null,
+          "stress": "мо́ём",
           "gloss": "my",
           "gram": "prepositional singular, masculine / neuter"
         },
@@ -928,7 +928,7 @@
     },
     {
       "seg": 20,
-      "trans": "What a lovely morning!",
+      "trans": "what a / lovely, good / morning",
       "words": [
         {
           "t": "Какое",
@@ -958,13 +958,55 @@
     },
     {
       "seg": 22,
-      "trans": "Lidia Alekseyevna, a cup of coffee, please.",
+      "trans": "what a",
+      "words": [
+        {
+          "t": "Какое",
+          "lemma": "какой",
+          "pos": "det",
+          "stress": "како́е",
+          "gloss": "what a",
+          "gram": "nominative, neuter singular (exclamation)"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "lovely, good",
+      "words": [
+        {
+          "t": "хорошее",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шее",
+          "gloss": "lovely, good",
+          "gram": "nominative, neuter singular"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "morning",
+      "words": [
+        {
+          "t": "утро",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "Lidia / Alekseyevna / a cup / coffee / please",
       "words": [
         {
           "t": "Лидия",
           "lemma": "лидия",
           "pos": "name",
-          "stress": null,
+          "stress": "Ли́дия",
           "gloss": "Lidia",
           "gram": "first name, used as address"
         },
@@ -972,7 +1014,7 @@
           "t": "Алексеевна,",
           "lemma": "алексеевна",
           "pos": "name",
-          "stress": null,
+          "stress": "А́лексеевна,",
           "gloss": "Alekseyevna",
           "gram": "patronymic, used as address"
         },
@@ -1003,7 +1045,35 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 30,
+      "trans": "a cup",
+      "words": [
+        {
+          "t": "чашку",
+          "lemma": "чашка",
+          "pos": "noun",
+          "stress": "ча́шку",
+          "gloss": "a cup",
+          "gram": "accusative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "coffee",
+      "words": [
+        {
+          "t": "кофе",
+          "lemma": "кофе",
+          "pos": "noun",
+          "stress": "ко́фе",
+          "gloss": "coffee",
+          "gram": "indeclinable, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 34,
       "trans": "Of course, Arkady Borisovich.",
       "words": [
         {
@@ -1018,7 +1088,7 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркадий",
           "gloss": "Arkady",
           "gram": "first name, nominative, used as address"
         },
@@ -1026,21 +1096,35 @@
           "t": "Борисович.",
           "lemma": "борисович",
           "pos": "name",
-          "stress": null,
+          "stress": "Бо́рисович.",
           "gloss": "son of Boris",
           "gram": "patronymic, nominative, used as address"
         }
       ]
     },
     {
-      "seg": 26,
+      "seg": 36,
+      "trans": "good, fine",
+      "words": [
+        {
+          "t": "Хорошо",
+          "lemma": "хорошо",
+          "pos": "adv",
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
+        }
+      ]
+    },
+    {
+      "seg": 38,
       "trans": "Arkasha, may I come in?",
       "words": [
         {
           "t": "Аркаш,",
           "lemma": "аркаш",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаш,",
           "gloss": "Arkash",
           "gram": "short affectionate form of Аркадий, used as address"
         },
@@ -1055,7 +1139,21 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 40,
+      "trans": "may, can",
+      "words": [
+        {
+          "t": "можно",
+          "lemma": "можно",
+          "pos": "adv",
+          "stress": "мо́жно",
+          "gloss": "may, can",
+          "gram": "predicative adverb (permission)"
+        }
+      ]
+    },
+    {
+      "seg": 42,
       "trans": "Come in.",
       "words": [
         {
@@ -1069,7 +1167,21 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 44,
+      "trans": "Come in.",
+      "words": [
+        {
+          "t": "Заходи",
+          "lemma": "заходить",
+          "pos": "verb",
+          "stress": "заходи́",
+          "gloss": "come in",
+          "gram": "imperative, 2nd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 46,
       "trans": "The reaction is positive. People like it.",
       "words": [
         {
@@ -1107,7 +1219,29 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 48,
+      "trans": "(to) people / is pleasing",
+      "words": [
+        {
+          "t": "Людям",
+          "lemma": "человек",
+          "pos": "noun",
+          "stress": "лю́дям",
+          "gloss": "(to) people",
+          "gram": "dative plural (люди)"
+        },
+        {
+          "t": "нравится",
+          "lemma": "нравиться",
+          "pos": "verb",
+          "stress": "нра́вится",
+          "gloss": "is pleasing",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 50,
       "trans": "Good. And what about the shopping centre?",
       "words": [
         {
@@ -1161,14 +1295,44 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 52,
+      "trans": "and, but / what / with / from",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "с",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "with / from",
+          "gram": "preposition"
+        }
+      ]
+    },
+    {
+      "seg": 54,
       "trans": "Arakelyan is asking for more time. The sum is very large.",
       "words": [
         {
           "t": "Аракелян",
           "lemma": "аракелян",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ракелян",
           "gloss": "Arakelyan",
           "gram": "surname"
         },
@@ -1215,7 +1379,57 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 56,
+      "trans": "is asking for / time",
+      "words": [
+        {
+          "t": "просит",
+          "lemma": "просить",
+          "pos": "verb",
+          "stress": "про́сит",
+          "gloss": "is asking for",
+          "gram": "present, 3rd person singular, imperfective"
+        },
+        {
+          "t": "время",
+          "lemma": "время",
+          "pos": "noun",
+          "stress": "вре́мя",
+          "gloss": "time",
+          "gram": "accusative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "large",
+      "words": [
+        {
+          "t": "большая",
+          "lemma": "большой",
+          "pos": "adj",
+          "stress": "больша́я",
+          "gloss": "large",
+          "gram": "nominative, feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 60,
+      "trans": "sum",
+      "words": [
+        {
+          "t": "Сумма",
+          "lemma": "сумма",
+          "pos": "noun",
+          "stress": "су́мма",
+          "gloss": "sum",
+          "gram": "nominative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 62,
       "trans": "We give him three days. That's it.",
       "words": [
         {
@@ -1246,7 +1460,7 @@
           "t": "даём.",
           "lemma": "давать",
           "pos": "verb",
-          "stress": null,
+          "stress": "да́ём.",
           "gloss": "we give",
           "gram": "present, 1st person plural, imperfective"
         },
@@ -1261,14 +1475,42 @@
       ]
     },
     {
-      "seg": 38,
-      "trans": "Arkasha, the people from Moscow call me every day.",
+      "seg": 64,
+      "trans": "we give",
+      "words": [
+        {
+          "t": "даём",
+          "lemma": "давать",
+          "pos": "verb",
+          "stress": "да́ём",
+          "gloss": "we give",
+          "gram": "present, 1st person plural, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 66,
+      "trans": "everything",
+      "words": [
+        {
+          "t": "Всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        }
+      ]
+    },
+    {
+      "seg": 68,
+      "trans": "Arkash / to me (мне некогда = I have no time) / Muscovites / call / every / day",
       "words": [
         {
           "t": "Аркаш,",
           "lemma": "аркаш",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаш,",
           "gloss": "Arkash",
           "gram": "short affectionate form of Аркадий, used as address"
         },
@@ -1315,8 +1557,44 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "Maybe we should reconsider after all?",
+      "seg": 70,
+      "trans": "Muscovites",
+      "words": [
+        {
+          "t": "москвичи",
+          "lemma": "москвич",
+          "pos": "noun",
+          "stress": "москвичи́",
+          "gloss": "Muscovites",
+          "gram": "nominative plural, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 72,
+      "trans": "every / day",
+      "words": [
+        {
+          "t": "каждый",
+          "lemma": "каждый",
+          "pos": "adj",
+          "stress": "ка́ждый",
+          "gloss": "every",
+          "gram": "accusative, masculine singular"
+        },
+        {
+          "t": "день",
+          "lemma": "день",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "day",
+          "gram": "masculine accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 74,
+      "trans": "can / after all / we'll change our minds",
       "words": [
         {
           "t": "Может,",
@@ -1330,7 +1608,7 @@
           "t": "всё-таки",
           "lemma": "всё-таки",
           "pos": "part",
-          "stress": null,
+          "stress": "всё́-таки",
           "gloss": "after all",
           "gram": "particle"
         },
@@ -1345,7 +1623,35 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 76,
+      "trans": "after all",
+      "words": [
+        {
+          "t": "всё-таки",
+          "lemma": "всё-таки",
+          "pos": "part",
+          "stress": "всё́-таки",
+          "gloss": "after all",
+          "gram": "particle"
+        }
+      ]
+    },
+    {
+      "seg": 78,
+      "trans": "we'll change our minds",
+      "words": [
+        {
+          "t": "передумаем",
+          "lemma": "передумать",
+          "pos": "verb",
+          "stress": "переду́маем",
+          "gloss": "we'll change our minds",
+          "gram": "future, 1st person plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 80,
       "trans": "I told you: no.",
       "words": [
         {
@@ -1383,7 +1689,35 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 82,
+      "trans": "can",
+      "words": [
+        {
+          "t": "же",
+          "lemma": "мочь",
+          "pos": "verb",
+          "stress": "мо́жет",
+          "gloss": "can",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 84,
+      "trans": "Lidia",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "лидия",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Lidia",
+          "gram": "first name, used as address"
+        }
+      ]
+    },
+    {
+      "seg": 86,
       "trans": "There's so much money in it! Money will flow like a river.",
       "words": [
         {
@@ -1437,7 +1771,35 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 88,
+      "trans": "like a river",
+      "words": [
+        {
+          "t": "рекой",
+          "lemma": "река",
+          "pos": "noun",
+          "stress": "реко́й",
+          "gloss": "like a river",
+          "gram": "instrumental singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 90,
+      "trans": "will flow",
+      "words": [
+        {
+          "t": "потекут",
+          "lemma": "потечь",
+          "pos": "verb",
+          "stress": "потеку́т",
+          "gloss": "will flow",
+          "gram": "future, 3rd person plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 92,
       "trans": "And then waste will flow.",
       "words": [
         {
@@ -1475,7 +1837,35 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 94,
+      "trans": "will flow",
+      "words": [
+        {
+          "t": "потекут",
+          "lemma": "потечь",
+          "pos": "verb",
+          "stress": "потеку́т",
+          "gloss": "will flow",
+          "gram": "future, 3rd person plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 96,
+      "trans": "waste",
+      "words": [
+        {
+          "t": "отходы",
+          "lemma": "отходы",
+          "pos": "noun",
+          "stress": "отхо́ды",
+          "gloss": "waste",
+          "gram": "nominative plural"
+        }
+      ]
+    },
+    {
+      "seg": 98,
       "trans": "But we're in business here.",
       "words": [
         {
@@ -1521,7 +1911,37 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 100,
+      "trans": "business / here / are engaged in",
+      "words": [
+        {
+          "t": "бизнесом",
+          "lemma": "бизнес",
+          "pos": "noun",
+          "stress": "би́знесом",
+          "gloss": "business",
+          "gram": "instrumental singular, masculine (after заниматься)"
+        },
+        {
+          "t": "здесь",
+          "lemma": "здесь",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        },
+        {
+          "t": "занимаемся",
+          "lemma": "заниматься",
+          "pos": "verb",
+          "stress": "занима́емся",
+          "gloss": "are engaged in",
+          "gram": "present, 1st person plural, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 102,
       "trans": "Greed, Pasha, should be moderate. Room temperature.",
       "words": [
         {
@@ -1536,7 +1956,7 @@
           "t": "Паша,",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша,",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -1583,7 +2003,43 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 104,
+      "trans": "greed",
+      "words": [
+        {
+          "t": "Жадность",
+          "lemma": "жадность",
+          "pos": "noun",
+          "stress": "жа́дность",
+          "gloss": "greed",
+          "gram": "nominative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 106,
+      "trans": "room / temperature",
+      "words": [
+        {
+          "t": "Комнатной",
+          "lemma": "комнатный",
+          "pos": "adj",
+          "stress": "ко́мнатной",
+          "gloss": "room",
+          "gram": "genitive, feminine singular"
+        },
+        {
+          "t": "температуры",
+          "lemma": "температура",
+          "pos": "noun",
+          "stress": "температу́ры",
+          "gloss": "temperature",
+          "gram": "genitive singular, feminine (of room temperature)"
+        }
+      ]
+    },
+    {
+      "seg": 108,
       "trans": "Look what a beautiful town we have. Lakes, meadows.",
       "words": [
         {
@@ -1638,7 +2094,7 @@
           "t": "Озёра,",
           "lemma": "озеро",
           "pos": "noun",
-          "stress": null,
+          "stress": "О́зёра,",
           "gloss": "lakes",
           "gram": "nominative plural, neuter"
         },
@@ -1653,7 +2109,35 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 110,
+      "trans": "lakes",
+      "words": [
+        {
+          "t": "Озёра",
+          "lemma": "озеро",
+          "pos": "noun",
+          "stress": "О́зёра",
+          "gloss": "lakes",
+          "gram": "nominative plural, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 112,
+      "trans": "meadows",
+      "words": [
+        {
+          "t": "луга",
+          "lemma": "луг",
+          "pos": "noun",
+          "stress": "луга́",
+          "gloss": "meadows",
+          "gram": "nominative plural, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 114,
       "trans": "After all, we grew up here. And you have to think about people too.",
       "words": [
         {
@@ -1739,7 +2223,29 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 116,
+      "trans": "it is necessary / to think",
+      "words": [
+        {
+          "t": "надо",
+          "lemma": "надо",
+          "pos": "adv",
+          "stress": "на́до",
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
+        },
+        {
+          "t": "думать",
+          "lemma": "думать",
+          "pos": "verb",
+          "stress": "ду́мать",
+          "gloss": "to think",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 118,
       "trans": "If I were you, I'd think about it.",
       "words": [
         {
@@ -1770,7 +2276,7 @@
           "t": "твоём",
           "lemma": "твой",
           "pos": "det",
-          "stress": null,
+          "stress": "тво́ём",
           "gloss": "your",
           "gram": "prepositional singular, masculine/neuter"
         },
@@ -1793,7 +2299,51 @@
       ]
     },
     {
-      "seg": 58,
+      "seg": 120,
+      "trans": "on, onto / your / place",
+      "words": [
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "твоём",
+          "lemma": "твой",
+          "pos": "det",
+          "stress": "тво́ём",
+          "gloss": "your",
+          "gram": "prepositional singular, masculine/neuter"
+        },
+        {
+          "t": "месте",
+          "lemma": "место",
+          "pos": "noun",
+          "stress": "ме́сте",
+          "gloss": "place",
+          "gram": "prepositional singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 122,
+      "trans": "be",
+      "words": [
+        {
+          "t": "бы",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 124,
       "trans": "And that's exactly why you're not in my place.",
       "words": [
         {
@@ -1848,7 +2398,7 @@
           "t": "моём",
           "lemma": "мой",
           "pos": "det",
-          "stress": null,
+          "stress": "мо́ём",
           "gloss": "my",
           "gram": "prepositional singular, masculine / neuter"
         },
@@ -1863,7 +2413,67 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 126,
+      "trans": "there, here / that's why",
+      "words": [
+        {
+          "t": "Вот",
+          "lemma": "вот",
+          "pos": "part",
+          "stress": null,
+          "gloss": "there, here",
+          "gram": "pointing particle"
+        },
+        {
+          "t": "поэтому",
+          "lemma": "поэтому",
+          "pos": "adv",
+          "stress": "поэ́тому",
+          "gloss": "that's why",
+          "gram": "adverb of reason"
+        }
+      ]
+    },
+    {
+      "seg": 128,
+      "trans": "not / on, onto / my / place",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "моём",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": "мо́ём",
+          "gloss": "my",
+          "gram": "prepositional singular, masculine / neuter"
+        },
+        {
+          "t": "месте",
+          "lemma": "место",
+          "pos": "noun",
+          "stress": "ме́сте",
+          "gloss": "place",
+          "gram": "prepositional singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 130,
       "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please.",
       "words": [
         {
@@ -1894,7 +2504,7 @@
           "t": "Лидия",
           "lemma": "лидия",
           "pos": "name",
-          "stress": null,
+          "stress": "Ли́дия",
           "gloss": "Lidia",
           "gram": "first name, used as address"
         },
@@ -1902,7 +2512,7 @@
           "t": "Алексеевна,",
           "lemma": "алексеевна",
           "pos": "name",
-          "stress": null,
+          "stress": "А́лексеевна,",
           "gloss": "Alekseyevna",
           "gram": "patronymic, used as address"
         },
@@ -1933,7 +2543,7 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 131,
       "trans": "Of course, Arkady Borisovich.",
       "words": [
         {
@@ -1948,7 +2558,7 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркадий",
           "gloss": "Arkady",
           "gram": "first name, nominative, used as address"
         },
@@ -1956,21 +2566,21 @@
           "t": "Борисович.",
           "lemma": "борисович",
           "pos": "name",
-          "stress": null,
+          "stress": "Бо́рисович.",
           "gloss": "son of Boris",
           "gram": "patronymic, nominative, used as address"
         }
       ]
     },
     {
-      "seg": 62,
+      "seg": 132,
       "trans": "Arkasha, may I come in?",
       "words": [
         {
           "t": "Аркаш,",
           "lemma": "аркаш",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаш,",
           "gloss": "Arkash",
           "gram": "short affectionate form of Аркадий, used as address"
         },
@@ -1985,7 +2595,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 133,
       "trans": "Come in.",
       "words": [
         {
@@ -1999,7 +2609,7 @@
       ]
     },
     {
-      "seg": 64,
+      "seg": 134,
       "trans": "The reaction is positive. People like it.",
       "words": [
         {
@@ -2037,7 +2647,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 135,
       "trans": "Good. And what about the shopping centre?",
       "words": [
         {
@@ -2091,14 +2701,14 @@
       ]
     },
     {
-      "seg": 66,
+      "seg": 136,
       "trans": "Arakelyan is asking for more time. The sum is very large.",
       "words": [
         {
           "t": "Аракелян",
           "lemma": "аракелян",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ракелян",
           "gloss": "Arakelyan",
           "gram": "surname"
         },
@@ -2145,7 +2755,7 @@
       ]
     },
     {
-      "seg": 67,
+      "seg": 137,
       "trans": "We give him three days. That's it.",
       "words": [
         {
@@ -2176,7 +2786,7 @@
           "t": "даём.",
           "lemma": "давать",
           "pos": "verb",
-          "stress": null,
+          "stress": "да́ём.",
           "gloss": "we give",
           "gram": "present, 1st person plural, imperfective"
         },
@@ -2191,14 +2801,14 @@
       ]
     },
     {
-      "seg": 68,
+      "seg": 138,
       "trans": "Arkasha, the people from Moscow call me every day. Maybe we should reconsider after all?",
       "words": [
         {
           "t": "Аркаш,",
           "lemma": "аркаш",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркаш,",
           "gloss": "Arkash",
           "gram": "short affectionate form of Аркадий, used as address"
         },
@@ -2254,7 +2864,7 @@
           "t": "всё-таки",
           "lemma": "всё-таки",
           "pos": "part",
-          "stress": null,
+          "stress": "всё́-таки",
           "gloss": "after all",
           "gram": "particle"
         },
@@ -2269,7 +2879,7 @@
       ]
     },
     {
-      "seg": 69,
+      "seg": 139,
       "trans": "I told you: no.",
       "words": [
         {
@@ -2307,7 +2917,7 @@
       ]
     },
     {
-      "seg": 70,
+      "seg": 140,
       "trans": "There's so much money in it! Money will flow like a river.",
       "words": [
         {
@@ -2361,7 +2971,7 @@
       ]
     },
     {
-      "seg": 71,
+      "seg": 141,
       "trans": "And then waste will flow.",
       "words": [
         {
@@ -2399,7 +3009,7 @@
       ]
     },
     {
-      "seg": 72,
+      "seg": 142,
       "trans": "But we're in business here.",
       "words": [
         {
@@ -2445,7 +3055,7 @@
       ]
     },
     {
-      "seg": 73,
+      "seg": 143,
       "trans": "Greed, Pasha, should be moderate. Room temperature.",
       "words": [
         {
@@ -2460,7 +3070,7 @@
           "t": "Паша,",
           "lemma": "паша",
           "pos": "name",
-          "stress": null,
+          "stress": "Па́ша,",
           "gloss": "Pasha",
           "gram": "short first name, used as address"
         },
@@ -2507,7 +3117,7 @@
       ]
     },
     {
-      "seg": 74,
+      "seg": 144,
       "trans": "Look what a beautiful town we have. Lakes, meadows.",
       "words": [
         {
@@ -2562,7 +3172,7 @@
           "t": "Озёра,",
           "lemma": "озеро",
           "pos": "noun",
-          "stress": null,
+          "stress": "О́зёра,",
           "gloss": "lakes",
           "gram": "nominative plural, neuter"
         },
@@ -2577,7 +3187,7 @@
       ]
     },
     {
-      "seg": 75,
+      "seg": 145,
       "trans": "After all, we grew up here. And you have to think about people too.",
       "words": [
         {
@@ -2663,7 +3273,7 @@
       ]
     },
     {
-      "seg": 76,
+      "seg": 146,
       "trans": "If I were you, I'd think about it.",
       "words": [
         {
@@ -2694,7 +3304,7 @@
           "t": "твоём",
           "lemma": "твой",
           "pos": "det",
-          "stress": null,
+          "stress": "тво́ём",
           "gloss": "your",
           "gram": "prepositional singular, masculine/neuter"
         },
@@ -2717,7 +3327,7 @@
       ]
     },
     {
-      "seg": 77,
+      "seg": 147,
       "trans": "And that's exactly why you're not in my place.",
       "words": [
         {
@@ -2772,7 +3382,7 @@
           "t": "моём",
           "lemma": "мой",
           "pos": "det",
-          "stress": null,
+          "stress": "мо́ём",
           "gloss": "my",
           "gram": "prepositional singular, masculine / neuter"
         },
@@ -2787,7 +3397,7 @@
       ]
     },
     {
-      "seg": 79,
+      "seg": 149,
       "trans": "Bye!",
       "words": [
         {

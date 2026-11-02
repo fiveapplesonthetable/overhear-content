@@ -35,22 +35,94 @@ STORY = [
     ('pasha', 'Ну и кластер, конечно. Пока!', 'And the cluster, of course. Bye!', [(891, 'Ну и кластер'), (891, 'конечно'), (892, 'Пока')], "'устроить' dropped"),
 ]
 WALK = [
-    (0, None, "'Arkasha, I understand, it's hard for you right now. But...' Notice there's no 'it is' in the middle: Russians just say 'to you now hard'. And then the news."),
-    (1, None, "'Pasha and I have been together for a month now.' Literally, 'we with Pasha'. That's how Russians say 'Pasha and I'. And the verb stays in the present: they still are together. Arkady is shocked."),
-    (2, None, "'What? How could you, Vika?' Literally, 'how can you'. Vika has an answer ready."),
-    (3, None, "'Look who's talking.' Word for word, 'who would talk'. She knows about his own affairs. So Arkady reminds her who she is."),
-    (4, None, "'You're my wife, Vika!' Here 'my' comes after 'wife', which makes it louder, more emotional. Vika is not moved."),
-    (5, 'Вспомнил?', "'Now you remember?' One word: 'remembered', in the masculine past, because she is talking to a man."),
-    (5, 'Я давно тебя не интересую.', "'You haven't been interested in me for a long time.' Literally, 'I haven't interested you for long'. The first word in it means 'I', not 'you'. Then she explains."),
-    (6, None, "'And with Pasha I feel like a woman again.' 'Like a woman' is just one word here, with an ending that means 'as'. Arkady tries to warn her."),
-    (7, None, "'Vika, look at him.' A command in the casual form, the one you use with family."),
-    (8, None, "'All he wants is your money.' Literally, 'to him only your money is needed'. A very useful pattern for saying what someone needs. Vika hears it differently."),
-    (9, None, "'So you mean I can only be loved for my money?' The first two words mean 'that is', or 'so you mean'. Arkady backs off."),
-    (10, None, "'No, Vika, that's not what I mean at all.' The word means 'at all' sits right before 'not'. Too late."),
-    (11, None, "'What a horrible person you are!' The first word works like 'what a' in English. And she walks out."),
-    (12, None, "'Vikulya, wait!' Vikulya is a tender form of Vika, the name he uses when he wants her back. Now Pasha is the one who speaks."),
-    (13, None, "'All right, Arkashenka. We'll be off, it's time.' He uses the sweetest form of Arkady's name, and he doesn't mean it kindly. 'We' means him and Vika. Then he lists his plans."),
-    (14, None, "'I've got a lot to do. The mayoral election...' To say 'I have', it's 'at me there is', like last time. Pasha is going to run for mayor himself."),
-    (15, None, "'Then I have to give your money from the basement to the Moscow people.' Right then, Arkady's cash, hidden in the basement, is going to his Moscow partners. The people come first, with an ending that means 'to'."),
-    (16, None, "'And the cluster, of course. Bye!' The project Arkady blocked, and then a cheerful goodbye. Pasha has taken everything."),
+    (0, None, [
+        "'Arkasha, I understand, it's hard for you right now. But...' Notice there's no 'it is' in the middle: literally, it translates to ",
+        ('vika', 'тебе сейчас тяжело.'),
+        " 'to you now hard'. And then the news."
+    ]),
+    (1, None, [
+        "'Pasha and I have been together for a month now.' Literally, the phrase for 'Pasha and I' translates to ",
+        ('vika', 'Мы с Пашей'),
+        ", 'we with Pasha'. And the action word stays in the present time: they still are together. Arkady is shocked."
+    ]),
+    (2, None, [
+        "'What? How could you, Vika?' Literally, ",
+        ('arkady', 'Как ты можешь,'),
+        " translates to 'how can you'. Vika has an answer ready."
+    ]),
+    (3, None, [
+        "'Look who's talking.' Word for word, it translates to ",
+        ('vika', 'Кто бы говорил.'),
+        " 'who would talk'. She knows about his own affairs. So Arkady reminds her who she is."
+    ]),
+    (4, None, [
+        "'You're my wife, Vika!' Here the translation for 'my', ",
+        ('arkady', 'моя,'),
+        " comes after 'wife', which makes it louder, more emotional. Vika is not moved."
+    ]),
+    (5, 'Вспомнил?', [
+        "'Now you remember?' the expression for 'remembered' is ",
+        ('vika', 'Вспомнил?'),
+        " which is used for a man, because she is talking to a man."
+    ]),
+    (5, 'Я давно тебя не интересую.', [
+        "'You haven't been interested in me for a long time.' Literally, it translates to ",
+        ('vika', 'Я давно тебя не интересую.'),
+        " 'I haven't interested you for long'. The first word in it means 'I', not 'you'. Then she explains."
+    ]),
+    (6, None, [
+        "'And with Pasha I feel like a woman again.' which translates to 'like a woman', ",
+        ('vika', 'женщиной.'),
+        " is just one word here, built from the translation for woman, with an ending that translates to 'as'. Arkady tries to warn her."
+    ]),
+    (7, None, [
+        "'Vika, look at him.' the expression for 'look' is ",
+        ('arkady', 'посмотри'),
+        " which is a command in the casual style, the one you use with family."
+    ]),
+    (8, None, [
+        "'All he wants is your money.' Literally, it translates to ",
+        ('arkady', 'Ему нужны только твои деньги.'),
+        " 'to him only your money is needed'. A very useful pattern for saying what someone needs. Vika hears it differently."
+    ]),
+    (9, None, [
+        "'So you mean I can only be loved for my money?' The phrase built from the first two words, ",
+        ('vika', 'То есть'),
+        " translates to 'that is', or 'so you mean'. Arkady backs off."
+    ]),
+    (10, None, [
+        "'No, Vika, that's not what I mean at all.' the Russian for 'at all', ",
+        ('arkady', 'совсем'),
+        " sits right before 'not'. Too late."
+    ]),
+    (11, None, [
+        "'What a horrible person you are!' meaning 'what a', ",
+        ('vika', 'Какой'),
+        " works like 'what a' in English. And she walks out."
+    ]),
+    (12, None, [
+        "'Vikulya, wait!' The name ",
+        ('arkady', 'Викуля,'),
+        " is built from a tender version of Vika, the name he uses when he wants her back. Now Pasha is the one who speaks."
+    ]),
+    (13, None, [
+        "'All right, Arkashenka. We'll be off, it's time.' The name ",
+        ('pasha', 'Аркашенька.'),
+        " is built from the sweetest version of Arkady's name, and he doesn't mean it kindly. 'We' means him and Vika. Then he lists his plans."
+    ]),
+    (14, None, [
+        "'I've got a lot to do. The mayoral election...' Literally, the phrase for 'I have' translates to ",
+        ('pasha', 'У меня'),
+        " 'at me there is', like last time. Pasha is going to run for mayor himself."
+    ]),
+    (15, None, [
+        "'Then I have to give your money from the basement to the Moscow people.' Right then, Arkady's cash, hidden in the basement, is going to his Moscow partners. the translation for the people, ",
+        ('pasha', 'москвичам'),
+        " comes first, with an ending that translates to 'to'."
+    ]),
+    (16, None, [
+        "'And the cluster, of course. Bye!' The project Arkady blocked, and then the translation for a cheerful goodbye, ",
+        ('pasha', 'Пока!'),
+        " Pasha has taken everything."
+    ]),
 ]

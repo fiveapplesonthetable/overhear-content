@@ -130,7 +130,7 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркадий",
           "gloss": "Arkady",
           "gram": "first name, nominative, used as address"
         },
@@ -138,7 +138,7 @@
           "t": "Борисович.",
           "lemma": "борисович",
           "pos": "name",
-          "stress": null,
+          "stress": "Бо́рисович.",
           "gloss": "son of Boris",
           "gram": "patronymic, nominative, used as address"
         }
@@ -260,7 +260,7 @@
           "t": "вернёшь.",
           "lemma": "вернуть",
           "pos": "verb",
-          "stress": null,
+          "stress": "ве́рнёшь.",
           "gloss": "will get back",
           "gram": "future, 2nd person singular, perfective"
         }
@@ -410,7 +410,7 @@
           "t": "Гнездо,",
           "lemma": "гнездо",
           "pos": "name",
-          "stress": null,
+          "stress": "Гне́здо,",
           "gloss": "Gnezdo (lit. 'nest')",
           "gram": "surname"
         },
@@ -448,7 +448,7 @@
           "t": "Аникеев,",
           "lemma": "аникеев",
           "pos": "name",
-          "stress": null,
+          "stress": "А́никеев,",
           "gloss": "Anikeev (Arkady's surname)",
           "gram": "surname"
         },
@@ -586,6 +586,34 @@
     },
     {
       "seg": 20,
+      "trans": "you",
+      "words": [
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "where",
+      "words": [
+        {
+          "t": "где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "question word"
+        }
+      ]
+    },
+    {
+      "seg": 24,
       "trans": "I'm here.",
       "words": [
         {
@@ -607,7 +635,35 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 26,
+      "trans": "I",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "here",
+      "words": [
+        {
+          "t": "здесь",
+          "lemma": "здесь",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 30,
       "trans": "Why are you sitting in the corner?",
       "words": [
         {
@@ -653,7 +709,29 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 32,
+      "trans": "in, into / corner",
+      "words": [
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "углу",
+          "lemma": "угол",
+          "pos": "noun",
+          "stress": "углу́",
+          "gloss": "corner",
+          "gram": "masculine, locative singular (ending -у)"
+        }
+      ]
+    },
+    {
+      "seg": 34,
       "trans": "Secrecy.",
       "words": [
         {
@@ -667,7 +745,21 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 36,
+      "trans": "Secrecy.",
+      "words": [
+        {
+          "t": "Конспирация",
+          "lemma": "конспирация",
+          "pos": "noun",
+          "stress": "конспира́ция",
+          "gloss": "secrecy",
+          "gram": "feminine, nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 38,
       "trans": "Hello, Arkady Borisovich.",
       "words": [
         {
@@ -682,7 +774,7 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркадий",
           "gloss": "Arkady",
           "gram": "first name, nominative, used as address"
         },
@@ -690,14 +782,28 @@
           "t": "Борисович.",
           "lemma": "борисович",
           "pos": "name",
-          "stress": null,
+          "stress": "Бо́рисович.",
           "gloss": "son of Boris",
           "gram": "patronymic, nominative, used as address"
         }
       ]
     },
     {
-      "seg": 28,
+      "seg": 40,
+      "trans": "hello (polite)",
+      "words": [
+        {
+          "t": "Здравствуйте",
+          "lemma": "здравствуйте",
+          "pos": "interj",
+          "stress": "здра́вствуйте",
+          "gloss": "hello (polite)",
+          "gram": "interjection, polite greeting; the first в is silent"
+        }
+      ]
+    },
+    {
+      "seg": 42,
       "trans": "So why so gloomy?",
       "words": [
         {
@@ -735,7 +841,35 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 44,
+      "trans": "what",
+      "words": [
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "sad, gloomy",
+      "words": [
+        {
+          "t": "грустный",
+          "lemma": "грустный",
+          "pos": "adj",
+          "stress": "гру́стный",
+          "gloss": "sad, gloomy",
+          "gram": "masculine, nominative singular, long form"
+        }
+      ]
+    },
+    {
+      "seg": 48,
       "trans": "It's a bit much. There's a crisis, you know.",
       "words": [
         {
@@ -765,7 +899,35 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 50,
+      "trans": "a bit too much",
+      "words": [
+        {
+          "t": "Многовато",
+          "lemma": "многовато",
+          "pos": "adv",
+          "stress": "многова́то",
+          "gloss": "a bit too much",
+          "gram": "adverb with softening suffix '-овато'"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "but, after all",
+      "words": [
+        {
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        }
+      ]
+    },
+    {
+      "seg": 54,
       "trans": "You'll get this money back in six months.",
       "words": [
         {
@@ -812,14 +974,42 @@
           "t": "вернёшь.",
           "lemma": "вернуть",
           "pos": "verb",
-          "stress": null,
+          "stress": "ве́рнёшь.",
           "gloss": "will get back",
           "gram": "future, 2nd person singular, perfective"
         }
       ]
     },
     {
-      "seg": 34,
+      "seg": 56,
+      "trans": "money",
+      "words": [
+        {
+          "t": "деньги",
+          "lemma": "деньги",
+          "pos": "noun",
+          "stress": "де́ньги",
+          "gloss": "money",
+          "gram": "nominative plural (plural only)"
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "will get back",
+      "words": [
+        {
+          "t": "вернёшь",
+          "lemma": "вернуть",
+          "pos": "verb",
+          "stress": "ве́рнёшь",
+          "gloss": "will get back",
+          "gram": "future, 2nd person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 60,
       "trans": "Quiet, please.",
       "words": [
         {
@@ -841,7 +1031,21 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 62,
+      "trans": "quiet!, more quietly",
+      "words": [
+        {
+          "t": "Тише",
+          "lemma": "тихо",
+          "pos": "adv",
+          "stress": "ти́ше",
+          "gloss": "quiet!, more quietly",
+          "gram": "comparative, used as a command"
+        }
+      ]
+    },
+    {
+      "seg": 64,
       "trans": "What are you, a spy?",
       "words": [
         {
@@ -871,8 +1075,22 @@
       ]
     },
     {
-      "seg": 38,
-      "trans": "This is our town.",
+      "seg": 66,
+      "trans": "spy",
+      "words": [
+        {
+          "t": "шпион",
+          "lemma": "шпион",
+          "pos": "noun",
+          "stress": "шпио́н",
+          "gloss": "spy",
+          "gram": "masculine, nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 68,
+      "trans": "this / our / town",
       "words": [
         {
           "t": "Это",
@@ -901,8 +1119,22 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "We have nobody to fear here.",
+      "seg": 70,
+      "trans": "our",
+      "words": [
+        {
+          "t": "наш",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": null,
+          "gloss": "our",
+          "gram": "accusative masculine singular, inanimate"
+        }
+      ]
+    },
+    {
+      "seg": 72,
+      "trans": "us / here / to fear / nobody",
       "words": [
         {
           "t": "Нам",
@@ -939,7 +1171,35 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 74,
+      "trans": "nobody",
+      "words": [
+        {
+          "t": "некого",
+          "lemma": "некого",
+          "pos": "pron",
+          "stress": "не́кого",
+          "gloss": "nobody",
+          "gram": "negative pronoun, genitive / accusative"
+        }
+      ]
+    },
+    {
+      "seg": 76,
+      "trans": "to fear",
+      "words": [
+        {
+          "t": "бояться",
+          "lemma": "бояться",
+          "pos": "verb",
+          "stress": "боя́ться",
+          "gloss": "to fear",
+          "gram": "infinitive, imperfective, reflexive"
+        }
+      ]
+    },
+    {
+      "seg": 78,
       "trans": "Freeze!",
       "words": [
         {
@@ -953,7 +1213,21 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 80,
+      "trans": "Freeze!",
+      "words": [
+        {
+          "t": "Стоять",
+          "lemma": "стоять",
+          "pos": "verb",
+          "stress": "стоя́ть",
+          "gloss": "to stand",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 82,
       "trans": "Captain Gnezdo, Investigative Committee.",
       "words": [
         {
@@ -968,7 +1242,7 @@
           "t": "Гнездо,",
           "lemma": "гнездо",
           "pos": "name",
-          "stress": null,
+          "stress": "Гне́здо,",
           "gloss": "Gnezdo (lit. 'nest')",
           "gram": "surname"
         },
@@ -991,7 +1265,21 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 84,
+      "trans": "Gnezdo (lit. 'nest')",
+      "words": [
+        {
+          "t": "Гнездо",
+          "lemma": "гнездо",
+          "pos": "name",
+          "stress": "Гне́здо",
+          "gloss": "Gnezdo (lit. 'nest')",
+          "gram": "surname"
+        }
+      ]
+    },
+    {
+      "seg": 86,
       "trans": "Citizen Anikeev, you are under arrest.",
       "words": [
         {
@@ -1006,7 +1294,7 @@
           "t": "Аникеев,",
           "lemma": "аникеев",
           "pos": "name",
-          "stress": null,
+          "stress": "А́никеев,",
           "gloss": "Anikeev (Arkady's surname)",
           "gram": "surname"
         },
@@ -1029,7 +1317,35 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 88,
+      "trans": "citizen",
+      "words": [
+        {
+          "t": "Гражданин",
+          "lemma": "гражданин",
+          "pos": "noun",
+          "stress": "граждани́н",
+          "gloss": "citizen",
+          "gram": "masculine, nominative singular (form of address)"
+        }
+      ]
+    },
+    {
+      "seg": 90,
+      "trans": "you",
+      "words": [
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 92,
       "trans": "What? What for?",
       "words": [
         {
@@ -1059,7 +1375,29 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 94,
+      "trans": "for / what",
+      "words": [
+        {
+          "t": "За",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "for",
+          "gram": "preposition + accusative"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 96,
       "trans": "For a bribe. For a very large bribe.",
       "words": [
         {
@@ -1113,7 +1451,35 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 98,
+      "trans": "for",
+      "words": [
+        {
+          "t": "За",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "for",
+          "gram": "preposition + accusative"
+        }
+      ]
+    },
+    {
+      "seg": 100,
+      "trans": "bribe",
+      "words": [
+        {
+          "t": "взятку",
+          "lemma": "взятка",
+          "pos": "noun",
+          "stress": "взя́тку",
+          "gloss": "bribe",
+          "gram": "feminine, accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 102,
       "trans": "So, where are you?",
       "words": [
         {
@@ -1143,7 +1509,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 103,
       "trans": "I'm here.",
       "words": [
         {
@@ -1165,7 +1531,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 104,
       "trans": "Why are you sitting in the corner?",
       "words": [
         {
@@ -1211,7 +1577,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 105,
       "trans": "Secrecy.",
       "words": [
         {
@@ -1225,7 +1591,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 106,
       "trans": "Hello, Arkady Borisovich.",
       "words": [
         {
@@ -1240,7 +1606,7 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": null,
+          "stress": "А́ркадий",
           "gloss": "Arkady",
           "gram": "first name, nominative, used as address"
         },
@@ -1248,14 +1614,14 @@
           "t": "Борисович.",
           "lemma": "борисович",
           "pos": "name",
-          "stress": null,
+          "stress": "Бо́рисович.",
           "gloss": "son of Boris",
           "gram": "patronymic, nominative, used as address"
         }
       ]
     },
     {
-      "seg": 57,
+      "seg": 107,
       "trans": "So why so gloomy?",
       "words": [
         {
@@ -1293,7 +1659,7 @@
       ]
     },
     {
-      "seg": 58,
+      "seg": 108,
       "trans": "It's a bit much. There's a crisis, you know.",
       "words": [
         {
@@ -1323,7 +1689,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 109,
       "trans": "You'll get this money back in six months.",
       "words": [
         {
@@ -1370,14 +1736,14 @@
           "t": "вернёшь.",
           "lemma": "вернуть",
           "pos": "verb",
-          "stress": null,
+          "stress": "ве́рнёшь.",
           "gloss": "will get back",
           "gram": "future, 2nd person singular, perfective"
         }
       ]
     },
     {
-      "seg": 60,
+      "seg": 110,
       "trans": "Quiet, please.",
       "words": [
         {
@@ -1399,7 +1765,7 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 111,
       "trans": "What are you, a spy?",
       "words": [
         {
@@ -1429,7 +1795,7 @@
       ]
     },
     {
-      "seg": 62,
+      "seg": 112,
       "trans": "This is our town. We have nobody to fear here.",
       "words": [
         {
@@ -1491,7 +1857,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 113,
       "trans": "Freeze!",
       "words": [
         {
@@ -1505,7 +1871,7 @@
       ]
     },
     {
-      "seg": 64,
+      "seg": 114,
       "trans": "Captain Gnezdo, Investigative Committee.",
       "words": [
         {
@@ -1520,7 +1886,7 @@
           "t": "Гнездо,",
           "lemma": "гнездо",
           "pos": "name",
-          "stress": null,
+          "stress": "Гне́здо,",
           "gloss": "Gnezdo (lit. 'nest')",
           "gram": "surname"
         },
@@ -1543,7 +1909,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 115,
       "trans": "Citizen Anikeev, you are under arrest.",
       "words": [
         {
@@ -1558,7 +1924,7 @@
           "t": "Аникеев,",
           "lemma": "аникеев",
           "pos": "name",
-          "stress": null,
+          "stress": "А́никеев,",
           "gloss": "Anikeev (Arkady's surname)",
           "gram": "surname"
         },
@@ -1581,7 +1947,7 @@
       ]
     },
     {
-      "seg": 66,
+      "seg": 116,
       "trans": "What? What for?",
       "words": [
         {
@@ -1611,7 +1977,7 @@
       ]
     },
     {
-      "seg": 67,
+      "seg": 117,
       "trans": "For a bribe. For a very large bribe.",
       "words": [
         {
@@ -1665,7 +2031,7 @@
       ]
     },
     {
-      "seg": 69,
+      "seg": 119,
       "trans": "Bye!",
       "words": [
         {

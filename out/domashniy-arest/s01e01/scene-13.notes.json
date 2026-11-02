@@ -10,7 +10,7 @@
           "t": "Эдуард",
           "lemma": "эдуард",
           "pos": "name",
-          "stress": null,
+          "stress": "Э́дуард",
           "gloss": "Eduard",
           "gram": "first name"
         },
@@ -18,7 +18,7 @@
           "t": "Владимирович,",
           "lemma": "владимирович",
           "pos": "name",
-          "stress": null,
+          "stress": "Вла́димирович,",
           "gloss": "Vladimirovich (son of Vladimir)",
           "gram": "patronymic"
         },
@@ -80,7 +80,7 @@
           "t": "Марина",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -88,7 +88,7 @@
           "t": "Сергеевна,",
           "lemma": "сергеевна",
           "pos": "name",
-          "stress": null,
+          "stress": "Се́ргеевна,",
           "gloss": "Sergeyevna",
           "gram": "patronymic (father's name), nominative"
         },
@@ -412,7 +412,7 @@
           "t": "Марина,",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина,",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -458,7 +458,7 @@
           "t": "Эдуард",
           "lemma": "эдуард",
           "pos": "name",
-          "stress": null,
+          "stress": "Э́дуард",
           "gloss": "Eduard",
           "gram": "first name"
         },
@@ -466,7 +466,7 @@
           "t": "Владимирович,",
           "lemma": "владимирович",
           "pos": "name",
-          "stress": null,
+          "stress": "Вла́димирович,",
           "gloss": "Vladimirovich (son of Vladimir)",
           "gram": "patronymic"
         },
@@ -520,7 +520,7 @@
           "t": "Марина,",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина,",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -800,7 +800,7 @@
           "t": "Марина.",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина.",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -808,7 +808,7 @@
           "t": "Галилей",
           "lemma": "галилей",
           "pos": "name",
-          "stress": null,
+          "stress": "Га́лилей",
           "gloss": "Galileo",
           "gram": "name, nominative"
         },
@@ -824,7 +824,7 @@
           "t": "отрёкся.",
           "lemma": "отречься",
           "pos": "verb",
-          "stress": null,
+          "stress": "о́трёкся.",
           "gloss": "recanted",
           "gram": "past, masculine singular, perfective"
         }
@@ -878,7 +878,7 @@
           "t": "Галилея.",
           "lemma": "галилей",
           "pos": "name",
-          "stress": null,
+          "stress": "Га́лилея.",
           "gloss": "Galileo",
           "gram": "name, accusative"
         }
@@ -886,13 +886,13 @@
     },
     {
       "seg": 17,
-      "trans": "Eduard Vladimirovich, I'll only be a minute.",
+      "trans": "Eduard / Vladimirovich (son of Vladimir) / I / on, onto / a minute",
       "words": [
         {
           "t": "Эдуард",
           "lemma": "эдуард",
           "pos": "name",
-          "stress": null,
+          "stress": "Э́дуард",
           "gloss": "Eduard",
           "gram": "first name"
         },
@@ -900,7 +900,7 @@
           "t": "Владимирович,",
           "lemma": "владимирович",
           "pos": "name",
-          "stress": null,
+          "stress": "Вла́димирович,",
           "gloss": "Vladimirovich (son of Vladimir)",
           "gram": "patronymic"
         },
@@ -932,7 +932,21 @@
     },
     {
       "seg": 19,
-      "trans": "I saved the monastery!",
+      "trans": "a minute",
+      "words": [
+        {
+          "t": "минуточку",
+          "lemma": "минуточка",
+          "pos": "noun",
+          "stress": "мину́точку",
+          "gloss": "a minute",
+          "gram": "feminine, accusative singular, diminutive"
+        }
+      ]
+    },
+    {
+      "seg": 21,
+      "trans": "I / saved (she) / monastery",
       "words": [
         {
           "t": "Я",
@@ -961,14 +975,28 @@
       ]
     },
     {
-      "seg": 21,
+      "seg": 23,
+      "trans": "saved (she)",
+      "words": [
+        {
+          "t": "спасла",
+          "lemma": "спасти",
+          "pos": "verb",
+          "stress": "спасла́",
+          "gloss": "saved (she)",
+          "gram": "past, feminine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 25,
       "trans": "Marina Sergeyevna, I already know. The town hall called me.",
       "words": [
         {
           "t": "Марина",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -976,7 +1004,7 @@
           "t": "Сергеевна,",
           "lemma": "сергеевна",
           "pos": "name",
-          "stress": null,
+          "stress": "Се́ргеевна,",
           "gloss": "Sergeyevna",
           "gram": "patronymic (father's name), nominative"
         },
@@ -1039,7 +1067,21 @@
       ]
     },
     {
-      "seg": 23,
+      "seg": 27,
+      "trans": "(they) called",
+      "words": [
+        {
+          "t": "звонили",
+          "lemma": "звонить",
+          "pos": "verb",
+          "stress": "звони́ли",
+          "gloss": "(they) called",
+          "gram": "past, plural, imperfective; indefinite 'they'"
+        }
+      ]
+    },
+    {
+      "seg": 29,
       "trans": "You know what scoundrels they are.",
       "words": [
         {
@@ -1093,7 +1135,21 @@
       ]
     },
     {
-      "seg": 25,
+      "seg": 31,
+      "trans": "scoundrels",
+      "words": [
+        {
+          "t": "мерзавцы",
+          "lemma": "мерзавец",
+          "pos": "noun",
+          "stress": "мерза́вцы",
+          "gloss": "scoundrels",
+          "gram": "masculine, nominative plural"
+        }
+      ]
+    },
+    {
+      "seg": 33,
       "trans": "So what do you suggest?",
       "words": [
         {
@@ -1131,8 +1187,22 @@
       ]
     },
     {
-      "seg": 27,
-      "trans": "You teach.",
+      "seg": 35,
+      "trans": "you",
+      "words": [
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 37,
+      "trans": "you / teach",
       "words": [
         {
           "t": "Ты",
@@ -1153,8 +1223,22 @@
       ]
     },
     {
-      "seg": 29,
-      "trans": "And let them build their shopping centres.",
+      "seg": 39,
+      "trans": "teach",
+      "words": [
+        {
+          "t": "преподавай",
+          "lemma": "преподавать",
+          "pos": "verb",
+          "stress": "преподава́й",
+          "gloss": "teach",
+          "gram": "imperative, 2nd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "and, but / they / let (him) / build / their own / shopping / centres",
       "words": [
         {
           "t": "А",
@@ -1215,7 +1299,21 @@
       ]
     },
     {
-      "seg": 31,
+      "seg": 43,
+      "trans": "let (him)",
+      "words": [
+        {
+          "t": "пусть",
+          "lemma": "пусть",
+          "pos": "part",
+          "stress": null,
+          "gloss": "let (him)",
+          "gram": "particle"
+        }
+      ]
+    },
+    {
+      "seg": 45,
       "trans": "History will punish them.",
       "words": [
         {
@@ -1245,7 +1343,21 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 47,
+      "trans": "history",
+      "words": [
+        {
+          "t": "история",
+          "lemma": "история",
+          "pos": "noun",
+          "stress": "исто́рия",
+          "gloss": "history",
+          "gram": "nominative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 49,
       "trans": "So we just stand and watch?",
       "words": [
         {
@@ -1299,14 +1411,28 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 51,
+      "trans": "to watch",
+      "words": [
+        {
+          "t": "смотреть",
+          "lemma": "смотреть",
+          "pos": "verb",
+          "stress": "смотре́ть",
+          "gloss": "to watch",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 53,
       "trans": "Marina, we have no choice.",
       "words": [
         {
           "t": "Марина,",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина,",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -1345,14 +1471,28 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 55,
+      "trans": "no",
+      "words": [
+        {
+          "t": "нет",
+          "lemma": "нет",
+          "pos": "part",
+          "stress": null,
+          "gloss": "no",
+          "gram": "negative answer"
+        }
+      ]
+    },
+    {
+      "seg": 57,
       "trans": "Eduard Vladimirovich, that's not what you taught us.",
       "words": [
         {
           "t": "Эдуард",
           "lemma": "эдуард",
           "pos": "name",
-          "stress": null,
+          "stress": "Э́дуард",
           "gloss": "Eduard",
           "gram": "first name"
         },
@@ -1360,7 +1500,7 @@
           "t": "Владимирович,",
           "lemma": "владимирович",
           "pos": "name",
-          "stress": null,
+          "stress": "Вла́димирович,",
           "gloss": "Vladimirovich (son of Vladimir)",
           "gram": "patronymic"
         },
@@ -1407,14 +1547,28 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 59,
+      "trans": "taught",
+      "words": [
+        {
+          "t": "учили",
+          "lemma": "учить",
+          "pos": "verb",
+          "stress": "учи́ли",
+          "gloss": "taught",
+          "gram": "past, plural (with polite 'вы'), imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 61,
       "trans": "Marina, what are you doing?",
       "words": [
         {
           "t": "Марина,",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина,",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -1445,8 +1599,22 @@
       ]
     },
     {
-      "seg": 41,
-      "trans": "Well, I'm not going to close my eyes to this.",
+      "seg": 63,
+      "trans": "are you doing",
+      "words": [
+        {
+          "t": "делаешь",
+          "lemma": "делать",
+          "pos": "verb",
+          "stress": "де́лаешь",
+          "gloss": "are you doing",
+          "gram": "present, 2nd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 65,
+      "trans": "and, but / I / eyes / on, onto / this / to close / not / will be (there)",
       "words": [
         {
           "t": "А",
@@ -1515,8 +1683,22 @@
       ]
     },
     {
-      "seg": 43,
-      "trans": "I'll rally people!",
+      "seg": 67,
+      "trans": "to close",
+      "words": [
+        {
+          "t": "закрывать",
+          "lemma": "закрывать",
+          "pos": "verb",
+          "stress": "закрыва́ть",
+          "gloss": "to close",
+          "gram": "infinitive, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 69,
+      "trans": "I / will rouse, will lift / people",
       "words": [
         {
           "t": "Я",
@@ -1545,7 +1727,21 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 71,
+      "trans": "will rouse, will lift",
+      "words": [
+        {
+          "t": "подниму",
+          "lemma": "поднять",
+          "pos": "verb",
+          "stress": "подниму́",
+          "gloss": "will rouse, will lift",
+          "gram": "future, 1st person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 73,
       "trans": "Are you going to fire me?",
       "words": [
         {
@@ -1575,7 +1771,21 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 75,
+      "trans": "will fire",
+      "words": [
+        {
+          "t": "уволите",
+          "lemma": "уволить",
+          "pos": "verb",
+          "stress": "уво́лите",
+          "gloss": "will fire",
+          "gram": "future, 2nd person plural (polite), perfective"
+        }
+      ]
+    },
+    {
+      "seg": 77,
       "trans": "I don't want that. But remember, your son is ill.",
       "words": [
         {
@@ -1661,7 +1871,21 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 79,
+      "trans": "is ill",
+      "words": [
+        {
+          "t": "болеет",
+          "lemma": "болеть",
+          "pos": "verb",
+          "stress": "боле́ет",
+          "gloss": "is ill",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 81,
       "trans": "I'm begging you, take it back, Marina. Galileo took it back too.",
       "words": [
         {
@@ -1700,7 +1924,7 @@
           "t": "Марина.",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина.",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -1708,7 +1932,7 @@
           "t": "Галилей",
           "lemma": "галилей",
           "pos": "name",
-          "stress": null,
+          "stress": "Га́лилей",
           "gloss": "Galileo",
           "gram": "name, nominative"
         },
@@ -1724,14 +1948,28 @@
           "t": "отрёкся.",
           "lemma": "отречься",
           "pos": "verb",
-          "stress": null,
+          "stress": "о́трёкся.",
           "gloss": "recanted",
           "gram": "past, masculine singular, perfective"
         }
       ]
     },
     {
-      "seg": 51,
+      "seg": 83,
+      "trans": "recant, take it back",
+      "words": [
+        {
+          "t": "отрекись",
+          "lemma": "отречься",
+          "pos": "verb",
+          "stress": "отреки́сь",
+          "gloss": "recant, take it back",
+          "gram": "imperative, 2nd person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 85,
       "trans": "Then go and hire Galileo.",
       "words": [
         {
@@ -1778,21 +2016,35 @@
           "t": "Галилея.",
           "lemma": "галилей",
           "pos": "name",
-          "stress": null,
+          "stress": "Га́лилея.",
           "gloss": "Galileo",
           "gram": "name, accusative"
         }
       ]
     },
     {
-      "seg": 53,
+      "seg": 87,
+      "trans": "Galileo",
+      "words": [
+        {
+          "t": "Галилея",
+          "lemma": "галилей",
+          "pos": "name",
+          "stress": "Га́лилея",
+          "gloss": "Galileo",
+          "gram": "name, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 89,
       "trans": "Eduard Vladimirovich, I'll only be a minute. I saved the monastery!",
       "words": [
         {
           "t": "Эдуард",
           "lemma": "эдуард",
           "pos": "name",
-          "stress": null,
+          "stress": "Э́дуард",
           "gloss": "Eduard",
           "gram": "first name"
         },
@@ -1800,7 +2052,7 @@
           "t": "Владимирович,",
           "lemma": "владимирович",
           "pos": "name",
-          "stress": null,
+          "stress": "Вла́димирович,",
           "gloss": "Vladimirovich (son of Vladimir)",
           "gram": "patronymic"
         },
@@ -1855,14 +2107,14 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 90,
       "trans": "Marina Sergeyevna, I already know. The town hall called me.",
       "words": [
         {
           "t": "Марина",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -1870,7 +2122,7 @@
           "t": "Сергеевна,",
           "lemma": "сергеевна",
           "pos": "name",
-          "stress": null,
+          "stress": "Се́ргеевна,",
           "gloss": "Sergeyevna",
           "gram": "patronymic (father's name), nominative"
         },
@@ -1933,7 +2185,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 91,
       "trans": "You know what scoundrels they are.",
       "words": [
         {
@@ -1987,7 +2239,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 92,
       "trans": "So what do you suggest?",
       "words": [
         {
@@ -2025,7 +2277,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 93,
       "trans": "You teach. And let them build their shopping centres.",
       "words": [
         {
@@ -2103,7 +2355,7 @@
       ]
     },
     {
-      "seg": 58,
+      "seg": 94,
       "trans": "History will punish them.",
       "words": [
         {
@@ -2133,7 +2385,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 95,
       "trans": "So we just stand and watch?",
       "words": [
         {
@@ -2187,14 +2439,14 @@
       ]
     },
     {
-      "seg": 60,
+      "seg": 96,
       "trans": "Marina, we have no choice.",
       "words": [
         {
           "t": "Марина,",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина,",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -2233,14 +2485,14 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 97,
       "trans": "Eduard Vladimirovich, that's not what you taught us.",
       "words": [
         {
           "t": "Эдуард",
           "lemma": "эдуард",
           "pos": "name",
-          "stress": null,
+          "stress": "Э́дуард",
           "gloss": "Eduard",
           "gram": "first name"
         },
@@ -2248,7 +2500,7 @@
           "t": "Владимирович,",
           "lemma": "владимирович",
           "pos": "name",
-          "stress": null,
+          "stress": "Вла́димирович,",
           "gloss": "Vladimirovich (son of Vladimir)",
           "gram": "patronymic"
         },
@@ -2295,14 +2547,14 @@
       ]
     },
     {
-      "seg": 62,
+      "seg": 98,
       "trans": "Marina, what are you doing?",
       "words": [
         {
           "t": "Марина,",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина,",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -2333,7 +2585,7 @@
       ]
     },
     {
-      "seg": 63,
+      "seg": 99,
       "trans": "Well, I'm not going to close my eyes to this. I'll rally people!",
       "words": [
         {
@@ -2427,7 +2679,7 @@
       ]
     },
     {
-      "seg": 64,
+      "seg": 100,
       "trans": "Are you going to fire me?",
       "words": [
         {
@@ -2457,7 +2709,7 @@
       ]
     },
     {
-      "seg": 65,
+      "seg": 101,
       "trans": "I don't want that. But remember, your son is ill.",
       "words": [
         {
@@ -2543,7 +2795,7 @@
       ]
     },
     {
-      "seg": 66,
+      "seg": 102,
       "trans": "I'm begging you, take it back, Marina. Galileo took it back too.",
       "words": [
         {
@@ -2582,7 +2834,7 @@
           "t": "Марина.",
           "lemma": "марина",
           "pos": "name",
-          "stress": null,
+          "stress": "Ма́рина.",
           "gloss": "Marina",
           "gram": "first name, nominative"
         },
@@ -2590,7 +2842,7 @@
           "t": "Галилей",
           "lemma": "галилей",
           "pos": "name",
-          "stress": null,
+          "stress": "Га́лилей",
           "gloss": "Galileo",
           "gram": "name, nominative"
         },
@@ -2606,14 +2858,14 @@
           "t": "отрёкся.",
           "lemma": "отречься",
           "pos": "verb",
-          "stress": null,
+          "stress": "о́трёкся.",
           "gloss": "recanted",
           "gram": "past, masculine singular, perfective"
         }
       ]
     },
     {
-      "seg": 67,
+      "seg": 103,
       "trans": "Then go and hire Galileo.",
       "words": [
         {
@@ -2660,14 +2912,14 @@
           "t": "Галилея.",
           "lemma": "галилей",
           "pos": "name",
-          "stress": null,
+          "stress": "Га́лилея.",
           "gloss": "Galileo",
           "gram": "name, accusative"
         }
       ]
     },
     {
-      "seg": 69,
+      "seg": 105,
       "trans": "Goodbye, Eduard Vladimirovich.",
       "words": [
         {
@@ -2690,7 +2942,7 @@
           "t": "Эдуард",
           "lemma": "эдуард",
           "pos": "name",
-          "stress": null,
+          "stress": "Э́дуард",
           "gloss": "Eduard",
           "gram": "first name"
         },
@@ -2698,7 +2950,7 @@
           "t": "Владимирович.",
           "lemma": "владимирович",
           "pos": "name",
-          "stress": null,
+          "stress": "Вла́димирович.",
           "gloss": "Vladimirovich (son of Vladimir)",
           "gram": "patronymic"
         }
