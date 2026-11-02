@@ -99,6 +99,49 @@ def main():
                 ids = clips.render_items(items, eng, store, settings, a.attempt, log=log)
             print("OK " + json.dumps({"stage": "clips", "ids": ids, "wall": round(time.time() - t0, 2)}), flush=True)
             return
+        if a.stage in ("synth", "synth-ru", "synth-en", "synth-ar") and a.scenes:
+            ru, en, ar = config.ru_engine(settings), config.en_engine(settings), config.ar_engine(settings)
+
+            def engine_for_multi(lang):
+                if lang == "ar" and ar:
+                    from chatterbox_ar import ChatterboxArEngine
+                    return ChatterboxArEngine(settings, voices, log=log)
+                if lang == "ru" and ru:
+                    from espeech import EspeechEngine
+                    return EspeechEngine(settings, voices, log=log)
+                if lang == "en" and en:
+                    from f5en import F5EnEngine
+                    return F5EnEngine(settings, voices, log=log)
+                from tts import QwenEngine
+                return QwenEngine(settings, voices, log=log)
+
+            def label_multi(lang):
+                return lang if (lang == "ru" and ru) or (lang == "en" and en) or (lang == "ar" and ar) else None
+
+            r = Renderer(settings, voices, store, ruacc, log=log)
+            target_lang = {"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar"}.get(a.stage)
+            merged = {}
+            for sid in [x for x in a.scenes.split(",") if x]:
+                s1 = content.load_scene(content.scene_path(a.content, sid))
+                if not isinstance(s1, content.Scene):
+                    continue
+                c1 = r.prepare(s1)
+                for k, it in c1.uniq.items():
+                    if target_lang:
+                        if it["lang"] == target_lang:
+                            merged[k] = it
+                    elif not label_multi(it["lang"]):
+                        merged[k] = it
+            items = list(merged.values())
+            t0 = time.time()
+            if not items or all(store.tts_path(it["key"]).exists() for it in items):
+                print("OK " + json.dumps({"stage": a.stage, "n": 0, "audio_s": 0.0, "cached": len(items), "wall": 0.0}), flush=True)
+                return
+            eng = engine_for_multi(target_lang or "fr")
+            st = eng.synth_many(items, store)
+            st["wall"] = round(time.time() - t0, 2)
+            print("OK " + json.dumps({"stage": a.stage, **st}), flush=True)
+            return
         sc = content.load_scene(content.scene_path(a.content, a.scene))
         if not isinstance(sc, content.Scene):
             raise RuntimeError("skip: " + sc.reason)
