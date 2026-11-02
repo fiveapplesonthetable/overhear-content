@@ -111,10 +111,11 @@ def unallocated_pending(by_pid):
         age = now - float(slot.get("t", now - 30.0))
         actual = sum(by_pid.get(p, 0) for p in tree_pids(pid, children))
         if actual >= 1500:
-            # Qwen weights sit at ~4.6 GiB during talker token gen, then spike to ~11-13 GiB in speech_tokenizer.decode.
-            pending += max(800, min(decl, 11500) - actual)
+            # Qwen weights sit at ~4.6 GiB during talker token gen, then spike to ~14-18 GiB in speech_tokenizer.decode.
+            peak = max(decl, 14500) if decl >= 6000 else max(decl, 3200)
+            pending += max(1000, peak - actual)
         elif actual > 0:
-            pending += 2000
+            pending += max(2200, min(decl, 6000))
         elif age < 22.0:
             # Process just started and hasn't called model.to('cuda') yet.
             pending += min(decl, 10500)
