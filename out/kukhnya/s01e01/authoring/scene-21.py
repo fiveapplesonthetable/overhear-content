@@ -37,7 +37,7 @@ WALK = [
     (2, None, '\'Come here, sweet little doggy! Taste the dessert.\' "Sobachka" is "sobaka", dog, with a small ending that makes it a pet name. "Milaya" is "sweet", the feminine of "milyy". "Poprobuy" is a command from "probovat\'", to try.'),
     (3, None, '\'She doesn\'t even look at the plate.\' A dog is "ona", she, because "sobachka" is a feminine word. "Smotret\' na" is "to look at", and "tarelku" takes -u.'),
     (4, None, '\'Chef, that is unfair! After all, it is a dog.\' "Nechestno" is "ne" plus "chestno", honestly, the word from "frankly speaking". "Eto zhe sobaka" has the "zhe" for "after all".'),
-    (5, None, '\'The world is not ideal at all, young man.\' "Mir" means both "world" and "peace". "Ideal\'en" is the short form of "ideal\'nyy", the shape Russian uses after "is".'),
+    (5, None, '\'The world is not ideal at all, young man.\' "Mir" means both "world" and "peace". "Idealen" is the short form of "ideal\'nyy", the shape Russian uses after "is".'),
     (6, None, '\'Let\'s make a bet, chef!\' "Davayte" means "give", but before another verb it means "let\'s", and it\'s one of the most useful words in Russian. "Posporim" comes from "spor", an argument or bet.'),
     (7, None, '\'What will we bet about?\' "O chyom" is "about what", as before. "My budem sporit\'" is "we will bet", the future "will be" plus "to bet".'),
     (8, None, '\'An ordinary person will like my hot dish.\' "Obychnomu cheloveku" is "to an ordinary person", both words with the "to" ending, because the person is the one pleased. "Goryacheye" is "hot".'),
