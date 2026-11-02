@@ -28,7 +28,7 @@ def check(tmp_path, doc):
 
 
 def test_real_spanish_identity_and_native_ipa_are_supported(tmp_path):
-    assert v.SHOWS["paquita-salas"] == "es" and v.PAIR["es"] == "es-en"
+    assert v.PAIR["es"] == "es-en"   # a show is es once its out/<show>/show.json says "pair": "es-en"
     assert check(tmp_path, notes()) == []
     for farewell in ("¡Adiós!", "Hasta luego.", "Nos vemos."):
         assert v.FAREWELL["es"].search(farewell)
@@ -60,4 +60,6 @@ def test_spanish_cannot_be_relabelled_as_french_or_use_cyrillic():
     assert not v.schema_errors(script["pair"], properties["pair"], schema)
     assert not v.schema_errors(script["id"], properties["id"], schema)
     assert not v.schema_errors("sources/paquita-salas/s01/e01.es.srt", properties["source"]["properties"]["file"], schema)
-    assert v.schema_errors("invented-show-s01e01-scene-01", properties["id"], schema)
+    assert not v.schema_errors("any-new-show-s01e01-scene-01", properties["id"], schema)   # new shows need no code change
+    for bad in ("Paquita-salas-s01e01-scene-01", "paquita-salas-s1e1-scene-1", "paquita_salas-s01e01-scene-01"):
+        assert v.schema_errors(bad, properties["id"], schema)

@@ -1,0 +1,30 @@
+{
+  "_note": "Reviewed stress for table slots that neither the Wiktionary dictionary nor the notes settle. Only where the stress is certain: it follows the lemma's own stress in the lexicon, or the standard orthoepic dictionaries (the reason says which). An entry applies to the lemma's slots whose cell text is `cell` ('slots': 'all') or only to the listed [table title, row, column] slots. `text` has the same letters as `cell`. Slots left out here stay silent (see forms/review.jsonl): колледж (the content stresses ко́лледж, the dictionary колле́дж), пол accusative singular 'пола' and кто-том (wrong forms in the content).",
+  "entries": [
+    {"lemma": "бармен", "cell": "барменов", "text": "ба́рменов", "slots": "all", "why": "fixed stress on the first syllable, as the lemma ба́рмен"},
+    {"lemma": "этот", "cell": "этот", "text": "э́тот", "slots": "all", "why": "the determiner (table 'Forms' with m/f/n/pl), as the lemma э́тот"},
+    {"lemma": "этот", "cell": "это", "text": "э́то", "slots": "all", "why": "the determiner (table 'Forms' with m/f/n/pl), as the lemma э́тот"},
+    {"lemma": "этот", "cell": "этот / этого", "text": "э́тот, э́того", "slots": "all", "why": "the determiner; э́того is the dictionary's own form"},
+    {"lemma": "солить", "cell": "солите", "text": "со́лите", "slots": "all", "why": "солю́, со́лишь: the present is stressed on the stem"},
+    {"lemma": "посолить", "cell": "посолите", "text": "посо́лите", "slots": "all", "why": "посолю́, посо́лишь"},
+    {"lemma": "пересолить", "cell": "пересолите", "text": "пересо́лите", "slots": "all", "why": "пересолю́, пересо́лишь"},
+    {"lemma": "чинить", "cell": "чините", "text": "чи́ните", "slots": "all", "why": "чиню́, чи́нишь"},
+    {"lemma": "кружиться", "cell": "кружитесь", "text": "кру́житесь", "slots": "all", "why": "кружу́сь, кру́жишься"},
+    {"lemma": "кто-то", "cell": "кто-то", "text": "кто́-то", "slots": "all", "why": "as the lemma кто́-то"},
+    {"lemma": "утро", "cell": "утра", "text": "у́тра", "slots": [["Declension", "genitive", "sg"]], "why": "fixed stress у́тро, у́тра, у́тру (утра́ only in до утра́, с утра́)"},
+    {"lemma": "пора", "cell": "поры", "text": "поры́", "slots": [["Forms", "genitive", "sg"]], "why": "genitive singular of пора́ (time): поры́"},
+    {"lemma": "су-шеф", "cell": "су-шефа", "text": "су-ше́фа", "slots": "all", "why": "as the lemma су-ше́ф"},
+    {"lemma": "су-шеф", "cell": "су-шефов", "text": "су-ше́фов", "slots": "all", "why": "as the lemma су-ше́ф"},
+    {"lemma": "гусь", "cell": "гуся", "text": "гуся́", "slots": "all", "why": "гусь, гуся́: the singular is stressed on the ending"},
+    {"lemma": "малой", "cell": "малых", "text": "малы́х", "slots": "all", "why": "the noun мало́й is stressed on the ending throughout"},
+    {"lemma": "крем-суп", "cell": "крем-суп", "text": "крем-су́п", "slots": "all", "why": "as the lemma крем-су́п"},
+    {"lemma": "суп-пюре", "cell": "суп-пюре", "text": "суп-пюре́", "slots": "all", "why": "as the lemma суп-пюре́"},
+    {"lemma": "неумеха", "cell": "неумехи", "text": "неуме́хи", "slots": "all", "why": "fixed stress, as the lemma неуме́ха"},
+    {"lemma": "дверь", "cell": "двери", "text": "две́ри", "slots": "all", "why": "дверь, две́ри: the singular is stressed on the stem"},
+    {"lemma": "замок", "cell": "замок", "text": "замо́к", "slots": "all", "why": "the lemma замо́к (lock, the first meaning)"},
+    {"lemma": "замок", "cell": "замки", "text": "замки́", "slots": "all", "why": "замо́к, замки́ (lock)"},
+    {"lemma": "нечего", "cell": "нечего", "text": "не́чего", "slots": "all", "why": "as the lemma не́чего"},
+    {"lemma": "ши-тцу", "cell": "ши-тцу", "text": "ши-тцу́", "slots": "all", "why": "as the lemma ши-тцу́"},
+    {"lemma": "суши", "cell": "суши", "text": "су́ши", "slots": "all", "why": "as the lemma су́ши"}
+  ]
+}

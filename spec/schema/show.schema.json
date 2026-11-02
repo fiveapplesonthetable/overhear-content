@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://overhear.invalid/schema/show.v1.json",
+  "title": "show.json (per show)",
+  "description": "out/<show>/show.json: one per show. The show's language pair, titles, summary, seasons and cover. Required: the publisher reads it for every show, and tools/validate.py takes the show's language from `pair`.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "slug",
+    "pair",
+    "title",
+    "summary",
+    "type",
+    "categories",
+    "seasons",
+    "cover"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]*[a-z0-9]$"
+    },
+    "pair": {
+      "enum": [
+        "ru-en",
+        "fr-en",
+        "es-en",
+        "de-en",
+        "it-en",
+        "ko-en",
+        "ja-en",
+        "zh-en",
+        "ar-en",
+        "pt-en"
+      ]
+    },
+    "title": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "propertyNames": {
+        "pattern": "^[a-z]{2}$"
+      }
+    },
+    "summary": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "propertyNames": {
+        "pattern": "^[a-z]{2}$"
+      }
+    },
+    "type": {
+      "enum": [
+        "series",
+        "movie"
+      ]
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "seasons": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "n",
+          "title"
+        ],
+        "properties": {
+          "n": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "title": {
+            "type": "object",
+            "minProperties": 1,
+            "additionalProperties": {
+              "type": "string",
+              "minLength": 1
+            },
+            "propertyNames": {
+              "pattern": "^[a-z]{2}$"
+            }
+          }
+        }
+      }
+    },
+    "cover": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "repo-relative path inside out/<show>/, e.g. art/cover.webp"
+    }
+  }
+}
