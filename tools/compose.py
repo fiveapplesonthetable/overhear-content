@@ -66,7 +66,17 @@ def check_language(mod, problems):
             if re.search(r"\s[?!:;]", text): problems.append(f"story {i}: space before ?!:; (write 'là ?' as 'là?'): {text}")
             if "\u2019" in text: problems.append(f"story {i}: typographic apostrophe, use '")
             if "«" in text or "»" in text: problems.append(f"story {i}: guillemets in spoken line")
-    narrator = [mod.INTRO, mod.OPENER, mod.TRANSITION, mod.OUTRO] + [g for _, _, g in mod.WALK]
+    narrator = []
+    for m in [mod.INTRO, mod.OPENER, mod.TRANSITION, mod.OUTRO]:
+        if isinstance(m, str):
+            narrator.append(m)
+        elif m is not None:
+            narrator.extend([p for p in m if isinstance(p, str)])
+    for _, _, g in mod.WALK:
+        if isinstance(g, str):
+            narrator.append(g)
+        else:
+            narrator.extend([p for p in g if isinstance(p, str)])
     for t in narrator:
         if cyr.search(t): problems.append(f"narrator text contains Cyrillic: {t[:60]}")
         if mod.PAIR == "fr-en" and re.search(r"\b(le|la|les|est|vous|bonjour|merci)\b", t.lower()) and "bonjour" in t.lower():
@@ -82,10 +92,21 @@ def build(mod, check_source=True):
     def add(v, t, gap):
         segs.append({"v": v, "t": t, "gap": gap})
 
-    add("narrator", mod.INTRO, 0.8)
+    def add_narrator_field(field, gap):
+        if isinstance(field, str):
+            add("narrator", field, gap)
+        elif field is not None:
+            for p_idx, part in enumerate(field):
+                p_gap = gap if p_idx == len(field) - 1 else 0.25
+                if isinstance(part, str):
+                    add("narrator", part, p_gap)
+                else:
+                    add(part[0] or "narrator", part[1], p_gap)
+
+    add_narrator_field(mod.INTRO, 0.8)
     for k, (role, text, *_r) in enumerate(mod.STORY):
         add(role, text, 0.9 if k == len(mod.STORY) - 1 else 0.55)
-    add("narrator", mod.OPENER, 0.4)
+    add_narrator_field(mod.OPENER, 0.4)
     for k, (idx, only, gloss) in enumerate(mod.WALK):
         role, text = mod.STORY[idx][0], mod.STORY[idx][1]
         replay = only or text
@@ -94,10 +115,36 @@ def build(mod, check_source=True):
                 problems.append(f"walk {k}: replay sentence not in the story: {s}")
         add(role, replay, 0.55)
         last = k == len(mod.WALK) - 1
-        add("narrator", gloss + (" " + mod.TRANSITION if last else ""), 0.9 if last else 0.4)
+        
+        if isinstance(gloss, str):
+            if last and isinstance(mod.TRANSITION, str):
+                add("narrator", gloss + " " + mod.TRANSITION, 0.9)
+            elif last and isinstance(mod.TRANSITION, list):
+                add("narrator", gloss, 0.25)
+                add_narrator_field(mod.TRANSITION, 0.9)
+            else:
+                add("narrator", gloss, 0.4)
+        else:
+            for p_idx, part in enumerate(gloss):
+                p_last = last and (p_idx == len(gloss) - 1)
+                gap = 0.9 if p_last else (0.4 if p_idx == len(gloss) - 1 else 0.25)
+                if isinstance(part, str):
+                    if p_last and isinstance(mod.TRANSITION, str):
+                        add("narrator", part + " " + mod.TRANSITION, gap)
+                    elif p_last and isinstance(mod.TRANSITION, list):
+                        add("narrator", part, 0.25)
+                        add_narrator_field(mod.TRANSITION, gap)
+                    else:
+                        add("narrator", part, gap)
+                else:
+                    p_role, p_text = part
+                    p_role = p_role or role
+                    if squash(p_text) not in squash(text):
+                        problems.append(f"walk {k}: inline callout {p_text!r} not in story line: {text!r}")
+                    add(p_role, p_text, gap)
     for k, (role, text, *_r) in enumerate(mod.STORY):
         add(role, text, 0.9 if k == len(mod.STORY) - 1 else 0.5)
-    add("narrator", mod.OUTRO, 0.5)
+    add_narrator_field(mod.OUTRO, 0.5)
     if mod.CLOSING is not None:
         add(mod.CLOSING[0], mod.CLOSING[1], 0.3)
     else:
@@ -136,7 +183,18 @@ def build(mod, check_source=True):
         review.append(f"| {k + 1} | {label} | {text} | {en} | {'<br>'.join(shown) or 'new'} | "
                       f"{(kind + ': ' + note) if note else kind} |")
     review += ["", "## Walk-through narration (English only, no target-language words quoted)", ""]
-    review += [f"- {g}" for _, _, g in mod.WALK]
+    for idx, _, g in mod.WALK:
+        role = mod.STORY[idx][0]
+        if isinstance(g, str):
+            review.append(f"- {g}")
+        else:
+            parts = []
+            for p in g:
+                if isinstance(p, str):
+                    parts.append(p)
+                else:
+                    parts.append(f"**[{p[0] or role}: {p[1]}]**")
+            review.append(f"- {' '.join(parts)}")
     spec = {"id": mod.ID, "pair": mod.PAIR, "title": mod.TITLE, "level": mod.LEVEL,
             "labels": mod.LABELS, "segments": segs,
             "source": {"show": mod.SOURCE_NAME, "file": str(mod.SOURCE_FILE), "lines": sources}}
@@ -159,7 +217,7 @@ if __name__ == "__main__":
     for f in SHOW_FIELDS:
         if hasattr(mod, f): spec[f.lower()] = getattr(mod, f)
     spec["source"]["file"] = str(mod.SOURCE_FILE)
-    m = re.fullmatch(r"([a-z-]+)-s(\d\d)e(\d\d)-scene-(\d\d)", mod.ID)      # show/season/episode/scene come from the id
+    m = re.fullmatch(r"([a-z0-9-]+)-s(\d\d)e(\d\d)-scene-(\d\d)", mod.ID)      # show/season/episode/scene come from the id
     if m: spec.update(show=m[1], season=int(m[2]), episode=int(m[3]), scene=int(m[4]))
     spec = {"schemaVersion": 1, **spec}                                    # spec/schema/script.schema.json
     if problems:

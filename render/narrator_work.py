@@ -363,6 +363,11 @@ def load16(path):
 def stage_check(a):
     import soundfile as sf
     from faster_whisper import WhisperModel
+    import gates
+    g = gates.get_gates()
+    from voices import Voices
+    v = Voices.load(s["voices"])
+    
     s = config.load_settings(a.settings)
     nr = s["narratorRu"]
     work = Path(a.work)
@@ -370,9 +375,11 @@ def stage_check(a):
     checks_p = work / "checks.json"
     checks = json.loads(checks_p.read_text("utf-8")) if checks_p.exists() else {}
     parts = {p["id"]: p for p in plan["parts"]}
+    
     for tid, c in checks.items():      # speech duration of every stored take (once)
         if "tdur" not in c and (work / "takes" / f"{tid}.wav").exists():
             c["tdur"] = round(trimmed_dur(work / "takes" / f"{tid}.wav"), 3)
+            
     for tid, c in checks.items():      # re-judge stored hypotheses with the current rules
         p = parts.get(tid.rsplit(".t", 1)[0])
         if p:
@@ -380,6 +387,7 @@ def stage_check(a):
             c["plausible"] = plausible_part(p["plain"], c["dur"]) and (duration_ok(p["plain"], c.get("tdur")) if frag else True)
             c["pass"] = bool(passes(p["kind"], p["plain"], c["hyp"], nr, p.get("syllable", False))[0] and c["plausible"])
             c["via"] = (p.get("run") or {}).get("via")
+            
     m = WhisperModel("large-v3-turbo", device="cuda", compute_type="float16")
     n = 0
     for f in sorted((work / "takes").glob("*.wav")):
@@ -391,15 +399,42 @@ def stage_check(a):
         if not p:
             continue
         dur = sf.info(str(f)).duration
-        segs, _ = m.transcribe(load16(f), language=p["kind"], beam_size=5, condition_on_previous_text=False, vad_filter=False)
-        hyp = " ".join(x.text for x in segs).strip()
-        ok, c = passes(p["kind"], p["plain"], hyp, nr, p.get("syllable", False))
-        td = round(trimmed_dur(f), 3)
-        pl = plausible_part(p["plain"], dur) and (duration_ok(p["plain"], td) if (p.get("syllable") or (p["kind"] == "en" and is_fragment(p["plain"]))) else True)
-        checks[tid] = {"pass": bool(ok and pl), "cer": round(c, 3), "hyp": hyp, "dur": round(dur, 2), "tdur": td, "plausible": pl,
-                       "via": (p.get("run") or {}).get("via")}     # how each Russian word was resolved (tier3 = loose key only)
+        wav, sr = sf.read(str(f))
+        
+        c = {"dur": round(dur, 3), "tdur": round(trimmed_dur(f), 3)}
+        
+        # New gates check
+        voice_id = s["narratorRu"]["ruVoice"] if p["kind"] == "ru" else "sky"
+        ref_path = v.ref_path(voice_id)
+        
+        sim_ok, sim_val = g.check_similarity(wav, sr, ref_path)
+        len_ok, len_reason = g.check_length_pause(wav, sr, p["plain"], p["kind"])
+        tran_ok, tran_reason, wav = g.check_transient(wav, sr)
+        rep_ok, cer_val, hyp = g.check_repeat_and_cer(wav, sr, p["plain"], p["kind"])
+        
+        c["hyp"] = hyp
+        c["cer"] = cer_val if isinstance(cer_val, float) else 1.0
+        
+        # We replace the original whisper check with the gates check since it uses Whisper under the hood.
+        # But for passes(), we still evaluate the old rules alongside gates.
+        
+        frag = p.get("syllable") or (p["kind"] == "en" and is_fragment(p["plain"]))
+        c["plausible"] = plausible_part(p["plain"], c["dur"]) and (duration_ok(p["plain"], c.get("tdur")) if frag else True)
+        
+        old_pass, _ = passes(p["kind"], p["plain"], hyp, nr, p.get("syllable", False))
+        gates_pass = sim_ok and len_ok and tran_ok and rep_ok
+        
+        c["pass"] = bool(old_pass and c["plausible"] and gates_pass)
+        
+        if p.get("run"):
+            c["via"] = p["run"].get("via")
+            
+        checks[tid] = c
         n += 1
-    checks_p.write_text(json.dumps(checks, ensure_ascii=False, indent=1), "utf-8")
+        
+    if n > 0:
+        checks_p.write_text(json.dumps(checks, ensure_ascii=False, indent=1), "utf-8")
+    log(f"checked {n} new takes")
     print("OK " + json.dumps({"stage": "check", "checked": n}), flush=True)
 
 

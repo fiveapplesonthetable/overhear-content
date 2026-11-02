@@ -79,7 +79,7 @@ class QwenEngine:
             self.prompts[voice] = self.q.create_voice_clone_prompt(ref_audio=(x, sr), ref_text=self.voices.refs[voice]["text"])[0]
         return self.prompts[voice]
 
-    def generate(self, batch, seed, temperature=None):
+    def generate(self, batch, seed, temperature=None, repetition_penalty=None):
         """batch: [(voice, language_name, text_for_model)] -> [np.float32 wav at 24 kHz]."""
         torch = self.torch
         torch.manual_seed(seed)
@@ -91,7 +91,7 @@ class QwenEngine:
             text=[b[2] for b in batch], language=[b[1] for b in batch],
             voice_clone_prompt=[self._prompt(b[0]) for b in batch],
             temperature=temperature or t["temperature"], top_k=t["top_k"], top_p=t["top_p"],
-            repetition_penalty=t["repetition_penalty"], max_new_tokens=max_tokens)
+            repetition_penalty=repetition_penalty if repetition_penalty is not None else t["repetition_penalty"], max_new_tokens=max_tokens)
         assert sr == NATIVE_SR, sr
         return [np.asarray(w, dtype=np.float32) for w in wavs]
 
@@ -100,7 +100,8 @@ class QwenEngine:
         Returns stats {n, audio_s, wall_s, retries}."""
         torch = self.torch
         t = self.s["tts"]
-        langs = t["languages"]
+        langs = {"ko": "Korean", "ja": "Japanese", "zh": "Chinese", "it": "Italian", "pt": "Portuguese", "ar": "Arabic", "es": "Spanish", "de": "German"}
+        langs.update(t.get("languages", {}))
         todo = [it for it in items if not store.tts_path(it["key"]).exists()]
         todo.sort(key=lambda it: len(it["text_tts"]))
         stats = {"n": 0, "audio_s": 0.0, "wall_s": 0.0, "retries": 0, "cached": len(items) - len(todo)}
@@ -108,28 +109,81 @@ class QwenEngine:
         pending = list(todo)
         attempt = 0
         t0 = time.time()
+        
+        import gates
+        g = gates.get_gates()
+        import json
+        from plan import plausible
+        
         while pending and attempt <= t["sentence_retries"]:
             nxt = []
             i = 0
             while i < len(pending):
                 chunk = pending[i:i + bs]
                 seed = int(chunk[0]["key"][:8], 16) + attempt * 7919
-                try:
-                    wavs = self.generate([(c["voice"], langs[c["lang"]], c["text_tts"]) for c in chunk], seed)
-                except torch.cuda.OutOfMemoryError:
-                    torch.cuda.empty_cache()
-                    if bs == 1:
-                        raise
-                    bs = max(1, bs // 2)
-                    self.log(f"OOM: batch size -> {bs}")
-                    continue
+                
+                chunk_en = [c for c in chunk if c["lang"] == "en"]
+                chunk_target = [c for c in chunk if c["lang"] != "en"]
+                
+                wavs_en = []
+                if chunk_en:
+                    try:
+                        wavs_en = self.generate([(c["voice"], langs[c["lang"]], c["text_tts"]) for c in chunk_en], seed)
+                    except torch.cuda.OutOfMemoryError:
+                        torch.cuda.empty_cache()
+                        if bs == 1: raise
+                        bs = max(1, bs // 2)
+                        self.log(f"OOM: batch size -> {bs}")
+                        continue
+
+
+                wavs_target = []
+                if chunk_target:
+                    ct_bs = max(1, bs // 3)
+                    try:
+                        temp = t.get("temperature", 0.7) * 0.95
+                        rep = t.get("repetition_penalty", 1.0) * 1.1
+                        for j in range(0, len(chunk_target), ct_bs):
+                            ct_slice = chunk_target[j:j + ct_bs]
+                            expanded_target = []
+                            for c in ct_slice:
+                                for cand_idx in range(3):
+                                    expanded_target.append(c)
+                            wavs_target.extend(self.generate([(c["voice"], langs[c["lang"]], c["text_tts"]) for c in expanded_target], seed, temperature=temp, repetition_penalty=rep))
+                    except torch.cuda.OutOfMemoryError:
+                        torch.cuda.empty_cache()
+                        if bs == 1: raise
+                        bs = max(1, bs // 2)
+                        self.log(f"OOM: batch size -> {bs}")
+                        continue
+
+                
                 i += len(chunk)
-                for c, w in zip(chunk, wavs):
-                    sec = len(w) / NATIVE_SR
-                    ok = plausible(c["text_plain"], sec)
+                
+                
+                # process en
+                for c, w in zip(chunk_en, wavs_en):
+                    ref_path = self.voices.ref_path(c["voice"])
+                    sim_ok, sim_val = g.check_similarity(w, NATIVE_SR, ref_path)
+                    len_ok, len_reason = g.check_length_pause(w, NATIVE_SR, c["text_plain"], c["lang"])
+                    tran_ok, tran_reason, w_trimmed = g.check_transient(w, NATIVE_SR)
+                    rep_ok, cer_val, hyp = g.check_repeat_and_cer(w_trimmed, NATIVE_SR, c["text_plain"], c["lang"])
+                    w = w_trimmed
+                    all_ok = sim_ok and len_ok and tran_ok and rep_ok
+                    
+                    cer_val_fl = cer_val if isinstance(cer_val, float) else 1.0
+                    
                     best = c.get("_best")
-                    if best is None or abs(sec - len(c["text_plain"]) / 14.0) < abs(len(best) / NATIVE_SR - len(c["text_plain"]) / 14.0):
+                    best_cer = c.get("_best_cer", 100.0)
+                    if all_ok:
                         c["_best"] = w
+                        c["_best_cer"] = cer_val_fl
+                    else:
+                        if best is None or cer_val_fl < best_cer:
+                            c["_best"] = w
+                            c["_best_cer"] = cer_val_fl
+                            
+                    ok = all_ok
                     if ok or attempt == t["sentence_retries"]:
                         w = w if ok else c["_best"]
                         p = store.tts_path(c["key"])
@@ -138,8 +192,65 @@ class QwenEngine:
                         tmp.replace(p)
                         stats["n"] += 1
                         stats["audio_s"] += len(w) / NATIVE_SR
-                        if not ok:
-                            self.log(f"WARN implausible length kept after retries: {c['text_plain'][:60]!r} {sec:.1f}s")
+                        
+                        marker = store.tts_path(c["key"]).with_name(f'{c["key"]}.gates.json')
+                        counts = {"takes": 1, "retakes": 0, "length": int(not len_ok), "repeat": int(not rep_ok), "transient": int(not tran_ok), "similarity": int(not sim_ok), "cer": int(cer_val_fl > 0.15)}
+                        marker.write_text(json.dumps(counts))
+                    else:
+                        nxt.append(c)
+                        stats["retries"] += 1
+                        
+                # process target
+                for c_idx, c in enumerate(chunk_target):
+                    w_list = wavs_target[c_idx*3 : c_idx*3 + 3]
+                    candidates_info = []
+                    ref_path = self.voices.ref_path(c["voice"])
+                    for w in w_list:
+                        sim_ok, sim_val = g.check_similarity(w, NATIVE_SR, ref_path)
+                        len_ok, len_reason = g.check_length_pause(w, NATIVE_SR, c["text_plain"], c["lang"])
+                        tran_ok, tran_reason, w = g.check_transient(w, NATIVE_SR)
+                        rep_ok, cer_val, hyp = g.check_repeat_and_cer(w, NATIVE_SR, c["text_plain"], c["lang"])
+                        
+                        all_ok = sim_ok and len_ok and tran_ok and rep_ok
+                        candidates_info.append({
+                            "wav": w, "all_ok": all_ok, "cer": cer_val if isinstance(cer_val, float) else 1.0, 
+                            "sim": sim_val,
+                            "fails": {
+                                "similarity": not sim_ok,
+                                "length": (not len_ok and len_reason == "length"),
+                                "pause": (not len_ok and len_reason == "pause"),
+                                "transient": not tran_ok,
+                                "repeat": not rep_ok
+                            }
+                        })
+                        
+                    passing = [info for info in candidates_info if info["all_ok"]]
+                    if passing:
+                        best_info = min(passing, key=lambda x: (x["cer"], -x["sim"]))
+                        ok = True
+                    else:
+                        best_info = min(candidates_info, key=lambda x: (x["cer"], -x["sim"]))
+                        ok = False
+                        
+                    w = best_info["wav"]
+                    sec = len(w) / NATIVE_SR
+                    
+                    if ok or attempt == t["sentence_retries"]:
+                        p = store.tts_path(c["key"])
+                        tmp = p.with_suffix(".tmp.flac")
+                        sf.write(str(tmp), w, NATIVE_SR, format="FLAC", subtype="PCM_16")
+                        tmp.replace(p)
+                        stats["n"] += 1
+                        stats["audio_s"] += len(w) / NATIVE_SR
+                        
+                        marker = store.tts_path(c["key"]).with_name(f'{c["key"]}.gates.json')
+                        counts = {"takes": len(candidates_info), "retakes": len(candidates_info) - 1, 
+                                  "length": sum(1 for x in candidates_info if x["fails"]["length"] or x["fails"]["pause"]),
+                                  "repeat": sum(1 for x in candidates_info if x["fails"]["repeat"]),
+                                  "transient": sum(1 for x in candidates_info if x["fails"]["transient"]),
+                                  "similarity": sum(1 for x in candidates_info if x["fails"]["similarity"]),
+                                  "cer": sum(1 for x in candidates_info if isinstance(x["cer"], float) and x["cer"] > 0.15)} # arbitrary logic for CER fail count
+                        marker.write_text(json.dumps(counts))
                     else:
                         nxt.append(c)
                         stats["retries"] += 1

@@ -35,7 +35,7 @@ class ChatterboxArEngine(QwenEngine):
         self.prompts = {}
         self.log("cached Arabic Chatterbox multilingual V2 ready; native pronunciation still requires independent QA")
 
-    def generate(self, batch, seed, temperature=None):
+    def generate(self, batch, seed, temperature=None, repetition_penalty=None):
         cfg = self.s["ttsAr"]
         self.torch.manual_seed(seed)
         np.random.seed(seed % (2 ** 32))
@@ -50,7 +50,7 @@ class ChatterboxArEngine(QwenEngine):
                 text=text, language_id="ar", audio_prompt_path=str(reference),
                 exaggeration=cfg.get("exaggeration", 0.5), cfg_weight=cfg.get("cfg_weight", 0.5),
                 temperature=temperature if temperature is not None else cfg.get("temperature", 0.8),
-                repetition_penalty=cfg.get("repetition_penalty", 2.0), min_p=cfg.get("min_p", 0.05), top_p=cfg.get("top_p", 1.0))
+                repetition_penalty=repetition_penalty if repetition_penalty is not None else cfg.get("repetition_penalty", 2.0), min_p=cfg.get("min_p", 0.05), top_p=cfg.get("top_p", 1.0))
             samples = np.asarray(wav.detach().cpu().numpy(), dtype=np.float32).reshape(-1)
             if not samples.size or not np.isfinite(samples).all():
                 raise ValueError("Arabic synthesis produced empty/nonfinite audio")

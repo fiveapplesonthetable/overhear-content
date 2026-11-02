@@ -1,3 +1,4 @@
+import gates
 """CPU-only Portuguese routing contracts; no model load or acoustic claim."""
 from types import SimpleNamespace
 import json
@@ -40,15 +41,18 @@ def test_portuguese_generic_latin_preparation_preserves_canonical_source():
 def test_configured_portuguese_label_reaches_qwen_without_any_gpu_or_model(tmp_path):
     engine = object.__new__(QwenEngine)
     engine.s = {'tts': {'languages': {'pt': 'Portuguese'}, 'batch': 1, 'sentence_retries': 0}}
+    
     engine.torch = SimpleNamespace(cuda=SimpleNamespace(OutOfMemoryError=RuntimeError))
+    engine.voices = SimpleNamespace(ref_path=lambda x: "mock")
+    gates.get_gates = lambda: SimpleNamespace(check_similarity=lambda *a: (True, 1.0), check_length_pause=lambda *a: (True, ""), check_transient=lambda *a: (True, "", a[0]), check_repeat_and_cer=lambda *a: (True, 0.0, ""))
     engine.log = lambda *_: None
     called = []
-    def generate(batch, seed):
+    def generate(batch, seed, **kwargs):
         called.extend(batch)
         return [np.zeros(24000, dtype=np.float32)]
     engine.generate = generate
     store = SimpleNamespace(tts_path=lambda key: tmp_path / (key + '.flac'))
     item = {'key': '12345678', 'voice': 'native_pt', 'lang': 'pt', 'text_tts': 'Olá.', 'text_plain': 'Olá.'}
     result = engine.synth_many([item], store)
-    assert called == [('native_pt', 'Portuguese', 'Olá.')]
+    assert called == [('native_pt', 'Portuguese', 'Olá.')] * 3
     assert result['n'] == 1 and store.tts_path(item['key']).is_file()
