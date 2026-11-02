@@ -10,7 +10,7 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "Something has happened in the dining room, and the cooks have seen it all. Senya and Fedya, two of the kitchen's gossips, report that Kostya did something brave and foolish. First, the Russian."
+INTRO = "Something has happened in the dining room, and the cooks have seen it all. Senya and Fedya, two of the kitchen's gossips, report that Kostya did something brave and foolish. First, the language."
 OPENER = "Now let's look at it closely."
 TRANSITION = 'Now hear it again with fresh ears.'
 OUTRO = "The bartender is a hero to the cooks and a problem for the chef. Whether it ends in a firing is the next scene's question. Speak soon."
@@ -31,17 +31,17 @@ STORY = [
     ('senya', 'Зато он храбро защитил свою любимую девушку!', 'At least he courageously protected his beloved girl!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Did you see what just happened in the hall?\' Senya asks with "ty", as friends do. "Videl", "saw", has the man\'s -l. "Proizoshlo" is a more formal "happened" than the "sluchilos" you heard at the bar.'),
-    (1, None, '\'Our bartender boldly stepped up to the critic\'s table.\' "Smelo" is "boldly". "Podoshyol", "walked up", has po- for "up to". "Stolik" is a small table, the word for tables in a restaurant.'),
-    (2, None, '\'This critic was rudely insulting our Nastya again.\' "Obizhal" is a repeated action, and the form shows it. "Nashu Nastyu", "our Nastya", is how Russians speak of someone they\'re fond of. Senya is outraged.'),
-    (3, None, '\'Kostya did not start tolerating such insolent behavior.\' "Ne stal terpet", "did not become tolerating", is the Russian for "didn\'t put up with it". "Povedenie", "behaviour", comes from "vesti sebya", "to lead yourself". Fedya is full of admiration.'),
-    (4, None, '\'What, did the guest order a drink from the bar now?\' Senya\'s "chto" here is a surprised "what". "Napitok", "a drink", is what Kostya gave the hungover guest on the house. "Iz bara" is "from the bar".'),
-    (5, None, '\'Exactly, he received an order to the fullest program!\' "Po polnoy programme", "by the full programme", is the idiom for "the works". "Tochno" is "exactly". The critic got more than he ordered.'),
-    (6, None, '\'Kostya poured a glass right onto his suit!\' The prefix vy- in "vylil", "poured", means "out". "Stakan" is the tall glass, and "kostyum" is "suit". Senya says it with relish.'),
-    (7, None, '\'Our quiet bartender turned out to be a real brave hero.\' "Okazalsya" is "turned out to be", and after it "hero" becomes "geroem". "Khrabry" is "brave", and "tikhy" is "quiet". Fedya admires him.'),
-    (8, None, '\'Now this important critic sits completely wet.\' "Mokry" is "wet". "Ves", "whole", means "completely" here: "ves mokry", "all wet". Senya has an eye for the picture: the great man dripping at his table.'),
-    (9, None, '\'But the chef will be terribly angry because of the scandal.\' "Iz-za", "because of", is the small word that blames something. "Uzhasno", "terribly", comes from "uzhas", "horror". Fedya sees the trouble coming.'),
-    (10, None, '\'Viktoria is already quickly running into the dining hall.\' "Bezhit", "is running", is the on-foot word. "Obedenny zal" is the "lunch hall", from "obed", "lunch". Senya follows the story with his eyes.'),
-    (11, None, '\'A very swift dismissal definitely threatens Kostya right now.\' Russian says "Koste grozit uvolnenie", "to Kostya threatens a dismissal", with Kostya in the "to" form. "Grozit" is a strong word. Fedya has no illusions.'),
-    (12, None, '\'At least he courageously protected his beloved girl!\' "Zato" means "but on the plus side", and Russians use it to turn a complaint around. "Zashchitil", "protected", is related to "zashchita", "defence". Senya finishes on the bright side.'),
+    (0, None, ["'Did you see what just happened in the hall?' Senya asks using the familiar form of address, as friends do. ", ('senya', 'видел'), ' is the masculine form of saw. ', ('senya', 'произошло'), ' is a more formal word for happened.']),
+    (1, None, ["'Our bartender boldly stepped up to the critic's table.' Now let's analyze the speech: ", ('fedya', 'смело'), ' is boldly. ', ('fedya', 'подошёл'), ' means walked up, with a prefix for up to. ', ('fedya', 'столику'), ' is a small table, the term for tables in a restaurant.']),
+    (2, None, ["'This critic was rudely insulting our Nastya again.' Now we can examine the phrase: ", ('senya', 'обижал'), ' is a repeated action, and the form shows it. ', ('senya', 'нашу'), ('senya', 'Настю'), ' is how they speak of someone they are fond of. Senya is outraged.']),
+    (3, None, ["'Kostya did not start tolerating such insolent behavior.' We can inspect the speech: ", ('fedya', 'не'), ('fedya', 'стал'), ('fedya', 'терпеть'), " means did not become tolerating, and is the wording for didn't put up with it. ", ('fedya', 'поведение'), ' means behaviour. Fedya is full of admiration.']),
+    (4, None, ["'What, did the guest order a drink from the bar now?' Senya's ", ('senya', 'Что'), ' here is a surprised what. ', ('senya', 'напиток'), ' means a drink. ', ('senya', 'из'), ('senya', 'бара'), ' is from the bar.']),
+    (5, None, ["'Exactly, he received an order to the fullest program!' Now let's inspect the words: ", ('fedya', 'по'), ('fedya', 'полной'), ('fedya', 'программе'), ' means by the full programme, and is the idiom for the works. ', ('fedya', 'Точно'), ' is exactly. The critic got more than he ordered.']),
+    (6, None, ["'Kostya poured a glass right onto his suit!' The prefix in ", ('senya', 'вылил'), ' means out, for poured. ', ('senya', 'стакан'), ' is the tall glass, and ', ('senya', 'костюм'), ' is suit. Senya says it with relish.']),
+    (7, None, ["'Our quiet bartender turned out to be a real brave hero.' Let us consider the words: ", ('fedya', 'оказался'), ' is turned out to be, and after it hero changes its ending. ', ('fedya', 'храбрым'), ' is brave, and ', ('fedya', 'тихий'), ' is quiet. Fedya admires him.']),
+    (8, None, ["'Now this important critic sits completely wet.' Let's focus on the phrase: ", ('senya', 'мокрый'), ' is wet. ', ('senya', 'весь'), ' means whole, and is used for completely here, all wet. Senya has an eye for the picture: the great man dripping at his table.']),
+    (9, None, ["'But the chef will be terribly angry because of the scandal.' We will inspect the dialogue: ", ('fedya', 'из'), '-', ('fedya', 'за'), ' means because of, and is the small word that blames something. ', ('fedya', 'ужасно'), ' means terribly. Fedya sees the trouble coming.']),
+    (10, None, ["'Viktoria is already quickly running into the dining hall.' Now we can consider the words: ", ('senya', 'быстро'), ' is quickly. ', ('senya', 'бежит'), ' means is running. Viktoria rushes to deal with the disaster.']),
+    (11, None, ["'A very swift dismissal definitely threatens Kostya right now.' Now let's break down this part: ", ('fedya', 'грозит'), ' means threatens. ', ('fedya', 'увольнение'), " means dismissal. Fedya knows Barinov's temper."]),
+    (12, None, ["'At least he courageously protected his beloved girl!' Let's break down this line: ", ('senya', 'Зато'), ' means at least, looking on the bright side. ', ('senya', 'защитил'), ' means protected. ', ('senya', 'любимую'), ('senya', 'девушку'), ' means beloved girl.']),
 ]

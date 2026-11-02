@@ -640,6 +640,20 @@
     },
     {
       "seg": 17,
+      "trans": "hello (polite)",
+      "words": [
+        {
+          "t": "Здравствуйте",
+          "lemma": "здравствуйте",
+          "pos": "interj",
+          "stress": "здра́вствуйте",
+          "gloss": "hello (polite)",
+          "gram": "interjection, polite greeting; the first в is silent"
+        }
+      ]
+    },
+    {
+      "seg": 19,
       "trans": "Good morning, Nastya.",
       "words": [
         {
@@ -669,7 +683,35 @@
       ]
     },
     {
-      "seg": 19,
+      "seg": 21,
+      "trans": "good",
+      "words": [
+        {
+          "t": "Доброе",
+          "lemma": "добрый",
+          "pos": "adj",
+          "stress": "до́брое",
+          "gloss": "good",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 23,
+      "trans": "morning",
+      "words": [
+        {
+          "t": "утро",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 25,
       "trans": "Come in, I am already done.",
       "words": [
         {
@@ -715,7 +757,35 @@
       ]
     },
     {
-      "seg": 21,
+      "seg": 27,
+      "trans": "come in",
+      "words": [
+        {
+          "t": "Проходите",
+          "lemma": "проходить",
+          "pos": "verb",
+          "stress": "проходи́те",
+          "gloss": "come in",
+          "gram": "imperative, plural/polite, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 29,
+      "trans": "finished",
+      "words": [
+        {
+          "t": "закончила",
+          "lemma": "закончить",
+          "pos": "verb",
+          "stress": "зако́нчила",
+          "gloss": "finished",
+          "gram": "past feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 31,
       "trans": "Thank you, I am just leaving for work.",
       "words": [
         {
@@ -769,473 +839,25 @@
       ]
     },
     {
-      "seg": 23,
-      "trans": "Excuse me, I will be a little late today.",
-      "words": [
-        {
-          "t": "Извините,",
-          "lemma": "извинить",
-          "pos": "verb",
-          "stress": "извини́те",
-          "gloss": "sorry, excuse me",
-          "gram": "imperative, polite/plural, perfective"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "сегодня",
-          "lemma": "сегодня",
-          "pos": "adv",
-          "stress": "сего́дня",
-          "gloss": "today",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "немного",
-          "lemma": "немного",
-          "pos": "adv",
-          "stress": "немно́го",
-          "gloss": "a bit",
-          "gram": "adverb"
-        },
-        {
-          "t": "опоздаю.",
-          "lemma": "опоздать",
-          "pos": "verb",
-          "stress": "опозда́ю",
-          "gloss": "will be late",
-          "gram": "1st person singular future"
-        }
-      ]
-    },
-    {
-      "seg": 25,
-      "trans": "Yes, I understand everything perfectly.",
-      "words": [
-        {
-          "t": "Да,",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "всё",
-          "lemma": "весь",
-          "pos": "det",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
-        },
-        {
-          "t": "прекрасно",
-          "lemma": "прекрасно",
-          "pos": "adv",
-          "stress": "прекра́сно",
-          "gloss": "perfectly",
-          "gram": "adverb"
-        },
-        {
-          "t": "понимаю.",
-          "lemma": "понимать",
-          "pos": "verb",
-          "stress": "понима́ю",
-          "gloss": "understand",
-          "gram": "present, 1st person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 27,
-      "trans": "I will also be delayed a bit today.",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "сегодня",
-          "lemma": "сегодня",
-          "pos": "adv",
-          "stress": "сего́дня",
-          "gloss": "today",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "тоже",
-          "lemma": "тоже",
-          "pos": "adv",
-          "stress": "то́же",
-          "gloss": "too",
-          "gram": "adverb"
-        },
-        {
-          "t": "задержусь",
-          "lemma": "задержаться",
-          "pos": "verb",
-          "stress": "задержу́сь",
-          "gloss": "will be delayed",
-          "gram": "1st person singular future"
-        },
-        {
-          "t": "немного.",
-          "lemma": "немного",
-          "pos": "adv",
-          "stress": "немно́го",
-          "gloss": "a bit",
-          "gram": "adverb"
-        }
-      ]
-    },
-    {
-      "seg": 29,
-      "trans": "Did you spend the whole night here?",
-      "words": [
-        {
-          "t": "Вы",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
-        },
-        {
-          "t": "провели",
-          "lemma": "провести",
-          "pos": "verb",
-          "stress": "провели́",
-          "gloss": "conducted, held",
-          "gram": "past, plural, perfective"
-        },
-        {
-          "t": "здесь",
-          "lemma": "здесь",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "here",
-          "gram": "adverb"
-        },
-        {
-          "t": "всю",
-          "lemma": "весь",
-          "pos": "det",
-          "stress": null,
-          "gloss": "all, the whole",
-          "gram": "feminine singular, accusative"
-        },
-        {
-          "t": "ночь?",
-          "lemma": "ночь",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "night",
-          "gram": "nominative feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 31,
-      "trans": "Are you seeing Maxim now?",
-      "words": [
-        {
-          "t": "Вы",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
-        },
-        {
-          "t": "теперь",
-          "lemma": "теперь",
-          "pos": "adv",
-          "stress": "тепе́рь",
-          "gloss": "now",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "встречаетесь",
-          "lemma": "встречаться",
-          "pos": "verb",
-          "stress": "встреча́етесь",
-          "gloss": "are dating, meeting",
-          "gram": "2nd person plural present"
-        },
-        {
-          "t": "с",
-          "lemma": "с",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "with / from",
-          "gram": "preposition"
-        },
-        {
-          "t": "Максимом?",
-          "lemma": "максим",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Maxim",
-          "gram": "proper noun"
-        }
-      ]
-    },
-    {
       "seg": 33,
-      "trans": "Nastya, do not ask silly questions.",
+      "trans": "am leaving",
       "words": [
         {
-          "t": "Настя,",
-          "lemma": "настя",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Nastya",
-          "gram": "feminine singular vocative"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "задавай",
-          "lemma": "задавать",
+          "t": "ухожу",
+          "lemma": "уходить",
           "pos": "verb",
-          "stress": "задава́й",
-          "gloss": "ask",
-          "gram": "2nd person singular imperative"
-        },
-        {
-          "t": "глупых",
-          "lemma": "глупый",
-          "pos": "adj",
-          "stress": "глу́пых",
-          "gloss": "foolish",
-          "gram": "plural genitive"
-        },
-        {
-          "t": "вопросов.",
-          "lemma": "вопрос",
-          "pos": "noun",
-          "stress": "вопро́сов",
-          "gloss": "questions",
-          "gram": "masculine inanimate noun, genitive plural"
+          "stress": "ухожу́",
+          "gloss": "am leaving",
+          "gram": "present, 1st person singular, imperfective"
         }
       ]
     },
     {
       "seg": 35,
-      "trans": "That is all, I am silent and understood everything.",
+      "trans": "Sergeyevna",
       "words": [
         {
-          "t": "Всё,",
-          "lemma": "весь",
-          "pos": "det",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "молчу",
-          "lemma": "молчать",
-          "pos": "verb",
-          "stress": "молчу́",
-          "gloss": "am keeping silent",
-          "gram": "1st person singular present"
-        },
-        {
-          "t": "и",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "всё",
-          "lemma": "весь",
-          "pos": "det",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
-        },
-        {
-          "t": "поняла.",
-          "lemma": "понять",
-          "pos": "verb",
-          "stress": "поняла́",
-          "gloss": "understood",
-          "gram": "past, feminine singular, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 37,
-      "trans": "No one at the restaurant knows about this.",
-      "words": [
-        {
-          "t": "В",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "ресторане",
-          "lemma": "ресторан",
-          "pos": "noun",
-          "stress": "рестора́не",
-          "gloss": "restaurant",
-          "gram": "prepositional singular, masculine"
-        },
-        {
-          "t": "об",
-          "lemma": "о",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "about",
-          "gram": "preposition + prepositional"
-        },
-        {
-          "t": "этом",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́том",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, prepositional"
-        },
-        {
-          "t": "никто",
-          "lemma": "никто",
-          "pos": "pron",
-          "stress": "никто́",
-          "gloss": "nobody",
-          "gram": "negative pronoun, nominative"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "знает.",
-          "lemma": "знать",
-          "pos": "verb",
-          "stress": "зна́ет",
-          "gloss": "knows",
-          "gram": "present, 3rd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 39,
-      "trans": "I will not tell anyone anything, I promise.",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "никому",
-          "lemma": "никто",
-          "pos": "pron",
-          "stress": "никому́",
-          "gloss": "anyone, no one",
-          "gram": "dative singular; double negation with нельзя"
-        },
-        {
-          "t": "ничего",
-          "lemma": "ничто",
-          "pos": "pron",
-          "stress": "ничего́",
-          "gloss": "nothing",
-          "gram": "genitive (with не); г is said like в"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "скажу,",
-          "lemma": "сказать",
-          "pos": "verb",
-          "stress": "скажу́",
-          "gloss": "I'll tell",
-          "gram": "future, 1st person singular, perfective"
-        },
-        {
-          "t": "обещаю.",
-          "lemma": "обещать",
-          "pos": "verb",
-          "stress": "обеща́ю",
-          "gloss": "promise",
-          "gram": "present, 1st person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 41,
-      "trans": "Hello, Victoria Sergeyevna.",
-      "words": [
-        {
-          "t": "Здравствуйте,",
-          "lemma": "здравствуйте",
-          "pos": "interj",
-          "stress": "здра́вствуйте",
-          "gloss": "hello (polite)",
-          "gram": "interjection, polite greeting; the first в is silent"
-        },
-        {
-          "t": "Виктория",
-          "lemma": "виктория",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Victoria",
-          "gram": "full first name"
-        },
-        {
-          "t": "Сергеевна.",
+          "t": "на",
           "lemma": "сергеевна",
           "pos": "name",
           "stress": null,
@@ -1245,127 +867,11 @@
       ]
     },
     {
-      "seg": 42,
-      "trans": "Good morning, Nastya.",
+      "seg": 36,
+      "trans": "job",
       "words": [
         {
-          "t": "Доброе",
-          "lemma": "добрый",
-          "pos": "adj",
-          "stress": "до́брое",
-          "gloss": "good",
-          "gram": "nominative singular, neuter"
-        },
-        {
-          "t": "утро,",
-          "lemma": "утро",
-          "pos": "noun",
-          "stress": "у́тро",
-          "gloss": "morning",
-          "gram": "nominative singular, neuter"
-        },
-        {
-          "t": "Настя.",
-          "lemma": "настя",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Nastya",
-          "gram": "feminine singular vocative"
-        }
-      ]
-    },
-    {
-      "seg": 43,
-      "trans": "Come in, I am already done.",
-      "words": [
-        {
-          "t": "Проходите,",
-          "lemma": "проходить",
-          "pos": "verb",
-          "stress": "проходи́те",
-          "gloss": "come in",
-          "gram": "imperative, plural/polite, imperfective"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "уже",
-          "lemma": "уже",
-          "pos": "adv",
-          "stress": "уже́",
-          "gloss": "already, now",
-          "gram": "adverb"
-        },
-        {
-          "t": "всё",
-          "lemma": "весь",
-          "pos": "det",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
-        },
-        {
-          "t": "закончила.",
-          "lemma": "закончить",
-          "pos": "verb",
-          "stress": "зако́нчила",
-          "gloss": "finished",
-          "gram": "past feminine singular"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "Thank you, I am just leaving for work.",
-      "words": [
-        {
-          "t": "Спасибо,",
-          "lemma": "спасибо",
-          "pos": "interj",
-          "stress": "спаси́бо",
-          "gloss": "thank you",
-          "gram": "fixed expression"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "просто",
-          "lemma": "просто",
-          "pos": "adv",
-          "stress": "про́сто",
-          "gloss": "just",
-          "gram": "adverb"
-        },
-        {
-          "t": "ухожу",
-          "lemma": "уходить",
-          "pos": "verb",
-          "stress": "ухожу́",
-          "gloss": "am leaving",
-          "gram": "present, 1st person singular, imperfective"
-        },
-        {
-          "t": "на",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "работу.",
+          "t": "работу",
           "lemma": "работа",
           "pos": "noun",
           "stress": "рабо́ту",
@@ -1375,7 +881,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 38,
       "trans": "Excuse me, I will be a little late today.",
       "words": [
         {
@@ -1417,6 +923,48 @@
           "stress": "опозда́ю",
           "gloss": "will be late",
           "gram": "1st person singular future"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "will be late",
+      "words": [
+        {
+          "t": "опоздаю",
+          "lemma": "опоздать",
+          "pos": "verb",
+          "stress": "опозда́ю",
+          "gloss": "will be late",
+          "gram": "1st person singular future"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "sorry, excuse me",
+      "words": [
+        {
+          "t": "Извините",
+          "lemma": "извинить",
+          "pos": "verb",
+          "stress": "извини́те",
+          "gloss": "sorry, excuse me",
+          "gram": "imperative, polite/plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "a bit",
+      "words": [
+        {
+          "t": "немного",
+          "lemma": "немного",
+          "pos": "adv",
+          "stress": "немно́го",
+          "gloss": "a bit",
+          "gram": "adverb"
         }
       ]
     },
@@ -1467,7 +1015,35 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 48,
+      "trans": "perfectly",
+      "words": [
+        {
+          "t": "прекрасно",
+          "lemma": "прекрасно",
+          "pos": "adv",
+          "stress": "прекра́сно",
+          "gloss": "perfectly",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "understand",
+      "words": [
+        {
+          "t": "понимаю",
+          "lemma": "понимать",
+          "pos": "verb",
+          "stress": "понима́ю",
+          "gloss": "understand",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "I will also be delayed a bit today.",
       "words": [
         {
@@ -1513,7 +1089,35 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 54,
+      "trans": "will be delayed",
+      "words": [
+        {
+          "t": "задержусь",
+          "lemma": "задержаться",
+          "pos": "verb",
+          "stress": "задержу́сь",
+          "gloss": "will be delayed",
+          "gram": "1st person singular future"
+        }
+      ]
+    },
+    {
+      "seg": 56,
+      "trans": "too",
+      "words": [
+        {
+          "t": "тоже",
+          "lemma": "тоже",
+          "pos": "adv",
+          "stress": "то́же",
+          "gloss": "too",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 58,
       "trans": "Did you spend the whole night here?",
       "words": [
         {
@@ -1559,7 +1163,49 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 60,
+      "trans": "conducted, held",
+      "words": [
+        {
+          "t": "провели",
+          "lemma": "провести",
+          "pos": "verb",
+          "stress": "провели́",
+          "gloss": "conducted, held",
+          "gram": "past, plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 62,
+      "trans": "all, the whole",
+      "words": [
+        {
+          "t": "всю",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "all, the whole",
+          "gram": "feminine singular, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 63,
+      "trans": "night",
+      "words": [
+        {
+          "t": "ночь",
+          "lemma": "ночь",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "night",
+          "gram": "nominative feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 65,
       "trans": "Are you seeing Maxim now?",
       "words": [
         {
@@ -1605,7 +1251,35 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 67,
+      "trans": "are dating, meeting",
+      "words": [
+        {
+          "t": "встречаетесь",
+          "lemma": "встречаться",
+          "pos": "verb",
+          "stress": "встреча́етесь",
+          "gloss": "are dating, meeting",
+          "gram": "2nd person plural present"
+        }
+      ]
+    },
+    {
+      "seg": 69,
+      "trans": "Maxim",
+      "words": [
+        {
+          "t": "Максимом",
+          "lemma": "максим",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Maxim",
+          "gram": "proper noun"
+        }
+      ]
+    },
+    {
+      "seg": 71,
       "trans": "Nastya, do not ask silly questions.",
       "words": [
         {
@@ -1651,7 +1325,49 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 73,
+      "trans": "a bit",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "немного",
+          "pos": "adv",
+          "stress": "немно́го",
+          "gloss": "a bit",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 74,
+      "trans": "ask",
+      "words": [
+        {
+          "t": "задавай",
+          "lemma": "задавать",
+          "pos": "verb",
+          "stress": "задава́й",
+          "gloss": "ask",
+          "gram": "2nd person singular imperative"
+        }
+      ]
+    },
+    {
+      "seg": 76,
+      "trans": "foolish",
+      "words": [
+        {
+          "t": "глупых",
+          "lemma": "глупый",
+          "pos": "adj",
+          "stress": "глу́пых",
+          "gloss": "foolish",
+          "gram": "plural genitive"
+        }
+      ]
+    },
+    {
+      "seg": 78,
       "trans": "That is all, I am silent and understood everything.",
       "words": [
         {
@@ -1705,7 +1421,49 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 80,
+      "trans": "everything",
+      "words": [
+        {
+          "t": "Всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        }
+      ]
+    },
+    {
+      "seg": 82,
+      "trans": "am keeping silent",
+      "words": [
+        {
+          "t": "молчу",
+          "lemma": "молчать",
+          "pos": "verb",
+          "stress": "молчу́",
+          "gloss": "am keeping silent",
+          "gram": "1st person singular present"
+        }
+      ]
+    },
+    {
+      "seg": 84,
+      "trans": "understood",
+      "words": [
+        {
+          "t": "поняла",
+          "lemma": "понять",
+          "pos": "verb",
+          "stress": "поняла́",
+          "gloss": "understood",
+          "gram": "past, feminine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 86,
       "trans": "No one at the restaurant knows about this.",
       "words": [
         {
@@ -1767,7 +1525,49 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 88,
+      "trans": "nobody",
+      "words": [
+        {
+          "t": "никто",
+          "lemma": "никто",
+          "pos": "pron",
+          "stress": "никто́",
+          "gloss": "nobody",
+          "gram": "negative pronoun, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 89,
+      "trans": "a bit",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "немного",
+          "pos": "adv",
+          "stress": "немно́го",
+          "gloss": "a bit",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 90,
+      "trans": "knows",
+      "words": [
+        {
+          "t": "знает",
+          "lemma": "знать",
+          "pos": "verb",
+          "stress": "зна́ет",
+          "gloss": "knows",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 92,
       "trans": "I will not tell anyone anything, I promise.",
       "words": [
         {
@@ -1821,7 +1621,683 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 94,
+      "trans": "anyone, no one",
+      "words": [
+        {
+          "t": "никому",
+          "lemma": "никто",
+          "pos": "pron",
+          "stress": "никому́",
+          "gloss": "anyone, no one",
+          "gram": "dative singular; double negation with нельзя"
+        }
+      ]
+    },
+    {
+      "seg": 95,
+      "trans": "nothing",
+      "words": [
+        {
+          "t": "ничего",
+          "lemma": "ничто",
+          "pos": "pron",
+          "stress": "ничего́",
+          "gloss": "nothing",
+          "gram": "genitive (with не); г is said like в"
+        }
+      ]
+    },
+    {
+      "seg": 96,
+      "trans": "a bit",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "немного",
+          "pos": "adv",
+          "stress": "немно́го",
+          "gloss": "a bit",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 98,
+      "trans": "I'll tell",
+      "words": [
+        {
+          "t": "скажу",
+          "lemma": "сказать",
+          "pos": "verb",
+          "stress": "скажу́",
+          "gloss": "I'll tell",
+          "gram": "future, 1st person singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 100,
+      "trans": "promise",
+      "words": [
+        {
+          "t": "обещаю",
+          "lemma": "обещать",
+          "pos": "verb",
+          "stress": "обеща́ю",
+          "gloss": "promise",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 102,
+      "trans": "Hello, Victoria Sergeyevna.",
+      "words": [
+        {
+          "t": "Здравствуйте,",
+          "lemma": "здравствуйте",
+          "pos": "interj",
+          "stress": "здра́вствуйте",
+          "gloss": "hello (polite)",
+          "gram": "interjection, polite greeting; the first в is silent"
+        },
+        {
+          "t": "Виктория",
+          "lemma": "виктория",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Victoria",
+          "gram": "full first name"
+        },
+        {
+          "t": "Сергеевна.",
+          "lemma": "сергеевна",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Sergeyevna",
+          "gram": "patronymic (father's name), nominative"
+        }
+      ]
+    },
+    {
+      "seg": 103,
+      "trans": "Good morning, Nastya.",
+      "words": [
+        {
+          "t": "Доброе",
+          "lemma": "добрый",
+          "pos": "adj",
+          "stress": "до́брое",
+          "gloss": "good",
+          "gram": "nominative singular, neuter"
+        },
+        {
+          "t": "утро,",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "nominative singular, neuter"
+        },
+        {
+          "t": "Настя.",
+          "lemma": "настя",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Nastya",
+          "gram": "feminine singular vocative"
+        }
+      ]
+    },
+    {
+      "seg": 104,
+      "trans": "Come in, I am already done.",
+      "words": [
+        {
+          "t": "Проходите,",
+          "lemma": "проходить",
+          "pos": "verb",
+          "stress": "проходи́те",
+          "gloss": "come in",
+          "gram": "imperative, plural/polite, imperfective"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "уже́",
+          "gloss": "already, now",
+          "gram": "adverb"
+        },
+        {
+          "t": "всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        },
+        {
+          "t": "закончила.",
+          "lemma": "закончить",
+          "pos": "verb",
+          "stress": "зако́нчила",
+          "gloss": "finished",
+          "gram": "past feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 105,
+      "trans": "Thank you, I am just leaving for work.",
+      "words": [
+        {
+          "t": "Спасибо,",
+          "lemma": "спасибо",
+          "pos": "interj",
+          "stress": "спаси́бо",
+          "gloss": "thank you",
+          "gram": "fixed expression"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "просто",
+          "lemma": "просто",
+          "pos": "adv",
+          "stress": "про́сто",
+          "gloss": "just",
+          "gram": "adverb"
+        },
+        {
+          "t": "ухожу",
+          "lemma": "уходить",
+          "pos": "verb",
+          "stress": "ухожу́",
+          "gloss": "am leaving",
+          "gram": "present, 1st person singular, imperfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "работу.",
+          "lemma": "работа",
+          "pos": "noun",
+          "stress": "рабо́ту",
+          "gloss": "job",
+          "gram": "accusative singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 106,
+      "trans": "Excuse me, I will be a little late today.",
+      "words": [
+        {
+          "t": "Извините,",
+          "lemma": "извинить",
+          "pos": "verb",
+          "stress": "извини́те",
+          "gloss": "sorry, excuse me",
+          "gram": "imperative, polite/plural, perfective"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "сегодня",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "немного",
+          "lemma": "немного",
+          "pos": "adv",
+          "stress": "немно́го",
+          "gloss": "a bit",
+          "gram": "adverb"
+        },
+        {
+          "t": "опоздаю.",
+          "lemma": "опоздать",
+          "pos": "verb",
+          "stress": "опозда́ю",
+          "gloss": "will be late",
+          "gram": "1st person singular future"
+        }
+      ]
+    },
+    {
+      "seg": 107,
+      "trans": "Yes, I understand everything perfectly.",
+      "words": [
+        {
+          "t": "Да,",
+          "lemma": "да",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        },
+        {
+          "t": "прекрасно",
+          "lemma": "прекрасно",
+          "pos": "adv",
+          "stress": "прекра́сно",
+          "gloss": "perfectly",
+          "gram": "adverb"
+        },
+        {
+          "t": "понимаю.",
+          "lemma": "понимать",
+          "pos": "verb",
+          "stress": "понима́ю",
+          "gloss": "understand",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 108,
+      "trans": "I will also be delayed a bit today.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "сегодня",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "тоже",
+          "lemma": "тоже",
+          "pos": "adv",
+          "stress": "то́же",
+          "gloss": "too",
+          "gram": "adverb"
+        },
+        {
+          "t": "задержусь",
+          "lemma": "задержаться",
+          "pos": "verb",
+          "stress": "задержу́сь",
+          "gloss": "will be delayed",
+          "gram": "1st person singular future"
+        },
+        {
+          "t": "немного.",
+          "lemma": "немного",
+          "pos": "adv",
+          "stress": "немно́го",
+          "gloss": "a bit",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 109,
+      "trans": "Did you spend the whole night here?",
+      "words": [
+        {
+          "t": "Вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "провели",
+          "lemma": "провести",
+          "pos": "verb",
+          "stress": "провели́",
+          "gloss": "conducted, held",
+          "gram": "past, plural, perfective"
+        },
+        {
+          "t": "здесь",
+          "lemma": "здесь",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        },
+        {
+          "t": "всю",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "all, the whole",
+          "gram": "feminine singular, accusative"
+        },
+        {
+          "t": "ночь?",
+          "lemma": "ночь",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "night",
+          "gram": "nominative feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 110,
+      "trans": "Are you seeing Maxim now?",
+      "words": [
+        {
+          "t": "Вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "теперь",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "встречаетесь",
+          "lemma": "встречаться",
+          "pos": "verb",
+          "stress": "встреча́етесь",
+          "gloss": "are dating, meeting",
+          "gram": "2nd person plural present"
+        },
+        {
+          "t": "с",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "with / from",
+          "gram": "preposition"
+        },
+        {
+          "t": "Максимом?",
+          "lemma": "максим",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Maxim",
+          "gram": "proper noun"
+        }
+      ]
+    },
+    {
+      "seg": 111,
+      "trans": "Nastya, do not ask silly questions.",
+      "words": [
+        {
+          "t": "Настя,",
+          "lemma": "настя",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Nastya",
+          "gram": "feminine singular vocative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "задавай",
+          "lemma": "задавать",
+          "pos": "verb",
+          "stress": "задава́й",
+          "gloss": "ask",
+          "gram": "2nd person singular imperative"
+        },
+        {
+          "t": "глупых",
+          "lemma": "глупый",
+          "pos": "adj",
+          "stress": "глу́пых",
+          "gloss": "foolish",
+          "gram": "plural genitive"
+        },
+        {
+          "t": "вопросов.",
+          "lemma": "вопрос",
+          "pos": "noun",
+          "stress": "вопро́сов",
+          "gloss": "questions",
+          "gram": "masculine inanimate noun, genitive plural"
+        }
+      ]
+    },
+    {
+      "seg": 112,
+      "trans": "That is all, I am silent and understood everything.",
+      "words": [
+        {
+          "t": "Всё,",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "молчу",
+          "lemma": "молчать",
+          "pos": "verb",
+          "stress": "молчу́",
+          "gloss": "am keeping silent",
+          "gram": "1st person singular present"
+        },
+        {
+          "t": "и",
+          "lemma": "и",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction"
+        },
+        {
+          "t": "всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        },
+        {
+          "t": "поняла.",
+          "lemma": "понять",
+          "pos": "verb",
+          "stress": "поняла́",
+          "gloss": "understood",
+          "gram": "past, feminine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 113,
+      "trans": "No one at the restaurant knows about this.",
+      "words": [
+        {
+          "t": "В",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "ресторане",
+          "lemma": "ресторан",
+          "pos": "noun",
+          "stress": "рестора́не",
+          "gloss": "restaurant",
+          "gram": "prepositional singular, masculine"
+        },
+        {
+          "t": "об",
+          "lemma": "о",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "about",
+          "gram": "preposition + prepositional"
+        },
+        {
+          "t": "этом",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́том",
+          "gloss": "that",
+          "gram": "demonstrative pronoun, prepositional"
+        },
+        {
+          "t": "никто",
+          "lemma": "никто",
+          "pos": "pron",
+          "stress": "никто́",
+          "gloss": "nobody",
+          "gram": "negative pronoun, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "знает.",
+          "lemma": "знать",
+          "pos": "verb",
+          "stress": "зна́ет",
+          "gloss": "knows",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 114,
+      "trans": "I will not tell anyone anything, I promise.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "никому",
+          "lemma": "никто",
+          "pos": "pron",
+          "stress": "никому́",
+          "gloss": "anyone, no one",
+          "gram": "dative singular; double negation with нельзя"
+        },
+        {
+          "t": "ничего",
+          "lemma": "ничто",
+          "pos": "pron",
+          "stress": "ничего́",
+          "gloss": "nothing",
+          "gram": "genitive (with не); г is said like в"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "скажу,",
+          "lemma": "сказать",
+          "pos": "verb",
+          "stress": "скажу́",
+          "gloss": "I'll tell",
+          "gram": "future, 1st person singular, perfective"
+        },
+        {
+          "t": "обещаю.",
+          "lemma": "обещать",
+          "pos": "verb",
+          "stress": "обеща́ю",
+          "gloss": "promise",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 116,
       "trans": "Bye!",
       "words": [
         {

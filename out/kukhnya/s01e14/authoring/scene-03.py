@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'eleonora': 'Элеонора', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'Vika has a visitor at the restaurant: a woman she calls Mum. The woman has plenty to say about Max. Hear their talk in Russian before we look closer.'
+INTRO = 'Vika has a visitor at the restaurant: a woman she calls Mum. The woman has plenty to say about Max. Hear their talk before we look closer.'
 OPENER = "Now slowly, with Vika's mother doing most of the talking."
 TRANSITION = 'The whole scene once more, in one piece.'
-OUTRO = "Vika's mother backs off for now, but she hasn't changed her mind about Max. Listen for the difference between 'mam' at the start and 'mama' at the end. See you in the next scene."
+OUTRO = "Vika's mother backs off for now, but she hasn't changed her mind about Max. Listen for the difference between the short and long names for mother. See you in the next scene."
 CLOSING = ('eleonora', 'Пока!')
 STORY = [
     ('vika', 'Мам, зачем ты пришла сюда сегодня?', 'Mom, why did you come here today?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('eleonora', 'Ладно, я оставлю вас в покое пока.', 'Alright, I will leave you in peace for now.', [], ''),
 ]
 WALK = [
-    (0, None, "'Mom, why did you come here today?' 'Mam' is the clipped form of 'mama' that you use to call your mother. 'Prishla', came, ends in 'a' because the 'you' is her mother."),
-    (1, None, "'What do you want with that strange teenager?' 'Zachem tebe?' is literally 'what for to you?', the usual way to ask why someone needs something. 'Tineydzher' is just the English 'teenager' in Russian letters."),
-    (2, None, "'Max is a serious guy and a good cook.' 'Seryozny paren', literally 'serious guy', comes with no word for 'is'. 'Paren' is the everyday word for a young man."),
-    (3, None, "'Why do you always go to extremes?' 'Vpadat v kraynosti' is literally 'fall into extremes', and 'kraynost' is built on 'kray', the edge. 'Vechno', literally 'eternally', is the grumbling 'always'."),
-    (4, None, "'This is my life, and I decide myself.' 'Zhizn', life, is feminine, so 'my' is 'moya'. 'Sama', by myself, has the 'a' because Vika is a woman."),
-    (5, None, "'First married men, then kids, kids right away.' 'To ... to ...' means 'one minute ..., the next ...'. 'Zhenatiki' is a jokey, slightly mocking word built on 'zhenat', married, said of a man."),
-    (6, None, "'Stop criticizing me every single day!' 'Khvatit' means 'that's enough', and with a verb after it, 'khvatit kritikovat', it works as 'stop criticizing'. 'Kritikovat' is 'criticize' with the Russian verb ending '-ovat', which turns many borrowed words into verbs."),
-    (7, None, "'Tell me, did you enroll the guy in school?' 'Paren' becomes 'parnya' as the one being enrolled; the 'e' drops out when the ending is added. 'Zapisat v shkolu', literally 'write into school', is how you sign a child up."),
-    (8, None, "'I do not want to discuss this now.' 'Ne khochu obsuzhdat', 'I don't want to discuss': after 'khochu' the verb stays in its basic form. Russian is happy to put 'seychas', now, at the very end."),
-    (9, None, "'Otherwise I could have helped you.' 'A to' at the start means 'or else' or 'because otherwise'. 'Mogla by', could, is the past 'mogla' plus little 'by', which turns it into 'would'. 'Vam' is plural, meaning Vika and Max."),
-    (10, None, "'Mom, please, just leave from here.' Now Vika uses the full 'mama'. 'Ukhodi', go away, is the 'ty' order, and 'otsyuda' means 'from here', so no separate 'from' is needed."),
-    (11, None, "'Alright, I will leave you in peace for now.' 'Ostavit v pokoe', literally 'leave in calm', is the set phrase for leaving someone alone. 'Poka' here means 'for now'; it's the same word as the 'poka' for goodbye."),
+    (0, None, ["'Mom, why did you come here today?' Now let's inspect the words: ", ('vika', 'Мам'), ' is a clipped form used to call your mother. ', ('vika', 'пришла'), ", meaning 'came', has a feminine ending."]),
+    (1, None, ["'What do you want with that strange teenager?' We will break down the dialogue: ", ('eleonora', 'Зачем'), ('eleonora', 'тебе'), " asks 'what for to you?', the usual way to ask why someone needs something. ", ('eleonora', 'тинейджер'), " is just the English 'teenager' in the local alphabet."]),
+    (2, None, ["'Max is a serious guy and a good cook.' Let's analyze the speech: ", ('vika', 'серьёзный'), ('vika', 'парень'), " reads as 'serious guy', leaving out 'is'. It uses an everyday word for a young man."]),
+    (3, None, ["'Why do you always go to extremes?' Let us break down the sentence: ", ('eleonora', 'впадаешь'), ('eleonora', 'в'), ('eleonora', 'крайности'), " reads as 'fall into extremes', coming from a word for 'the edge'. ", ('eleonora', 'вечно'), ", meaning 'eternally', is a grumbling way to say 'always'."]),
+    (4, None, ["'This is my life, and I decide myself.' The term for life, ", ('vika', 'жизнь'), ", is feminine, so 'my' is ", ('vika', 'моя'), '. ', ('vika', 'сама'), ", meaning 'by myself', has a feminine ending."]),
+    (5, None, ["'First married men, then kids, kids right away.' Let's break down this part: ", ('eleonora', 'То'), " used twice means 'one minute ..., the next ...'. ", ('eleonora', 'женатики'), ' is a slightly mocking word built on a word for a married man.']),
+    (6, None, ["'Stop criticizing me every single day!' Now let's look at the words: ", ('vika', 'Хватит'), " means 'that is enough', and with a verb after it, ", ('vika', 'критиковать'), ", it works as 'stop criticizing'. The verb keeps a native ending that turns many borrowed words into verbs."]),
+    (7, None, ["'Tell me, did you enroll the guy in school?' The term for guy becomes ", ('eleonora', 'парня'), ' as the one being enrolled. ', ('eleonora', 'записала'), ' along with ', ('eleonora', 'в'), ('eleonora', 'школу'), " reads as 'wrote into school', which is how you sign a child up."]),
+    (8, None, ["'I do not want to discuss this now.' We can inspect the sentence: ", ('vika', 'не'), ('vika', 'хочу'), ('vika', 'обсуждать'), " means 'I do not want to discuss'. The language naturally puts ", ('vika', 'сейчас'), ", meaning 'now', at the very end."]),
+    (9, None, ["'Otherwise I could have helped you.' Let's focus on this line: ", ('eleonora', 'А'), ('eleonora', 'то'), " at the start means 'because otherwise'. ", ('eleonora', 'могла'), ('eleonora', 'бы'), " combines a past form with a short word that turns it into 'would'. ", ('eleonora', 'вам'), ' is plural, addressing both of them.']),
+    (10, None, ["'Mom, please, just leave from here.' Now she uses the full ", ('vika', 'Мама'), '. ', ('vika', 'уходи'), ' is an order to go away, and ', ('vika', 'отсюда'), " means 'from here', so no separate 'from' is needed."]),
+    (11, None, ["'Alright, I will leave you in peace for now.' Now let's look at this line: ", ('eleonora', 'оставлю'), ('eleonora', 'вас'), ('eleonora', 'в'), ('eleonora', 'покое'), " reads as 'leave you in calm', which is the set phrase for leaving someone alone. ", ('eleonora', 'пока'), " here means 'for now', matching the usual word for goodbye."]),
 ]

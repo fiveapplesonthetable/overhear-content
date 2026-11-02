@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'Barinov has arrived, but he has had too much to drink. Vika catches him in the corridor and refuses to let him near the guests. Listen first, in Russian.'
+INTRO = 'Barinov has arrived, but he has had too much to drink. Vika catches him in the corridor and refuses to let him near the guests. Listen first.'
 OPENER = 'Slowly, once more.'
 TRANSITION = 'Here is the whole scene again.'
-OUTRO = "Nobody manages to stop him, and he heads for the bar. Two set phrases from this one: 'v takom sostoyanii', in such a state, and 'vyyti zamuzh', to marry. Bye for now."
+OUTRO = "Nobody manages to stop him, and he heads for the bar. Two set phrases from this one: 'in such a state', and 'to marry'. Bye for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Шеф, зачем ты так сильно напился?', 'Chef, why did you get so drunk?', [(50, 'Ты зачем так нажирался?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'А пойдёмте все вместе проинспектируем бар!', 'Let us all together inspect the bar!', [(61, 'Пойдемте проинспектируем бар.'), (63, 'А пойдем-ка проинспектируем бар.')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, why did you get so drunk?' 'Napilsya' is 'pit', to drink, with 'na' in front for 'one's fill' and 'sya' on the end for 'oneself': literally 'drank himself full'. 'Zachem' is 'what for'."),
-    (1, None, "'I did not get drunk, I had a little aperitif.' 'Ne ... a ...' is the Russian 'not this, but that'. After 'nemnogo', a little, the drink goes into its 'of' form, so 'aperitiv' becomes 'aperitiva'."),
-    (2, None, "'You can barely stand on your feet.' 'Ele' means 'barely'. 'Nogi', legs or feet, becomes 'na nogakh', on the feet; the 'akh' ending is the plural for 'on' and 'in'."),
-    (3, None, "'The face of the restaurant arrived, I am ready to welcome guests!' 'Pribylo' is an official 'arrived', the word on station announcements, so he sounds grand. It ends in 'lo' because 'litso', face, is neuter."),
-    (4, None, "'In this state you will not go out to the guests!' 'V takom sostoyanii' is the set phrase 'in such a state'. 'Vyydesh' starts with 'vy', out, so it really is 'you'll go out'."),
-    (5, None, "'And you will never get married.' Barinov plays on Vika's verb: 'vyyti zamuzh', literally 'go out behind a husband', is how a woman marries. 'Nikogda ne', never not, keeps both negatives."),
-    (6, None, "'Stop grabbing me so roughly.' 'Khvatit', enough, and 'khvatatsya', to grab hold, share a root, so the line nearly rhymes. You grab hold 'za' someone, hence 'za menya'."),
-    (7, None, "'I must personally check our restaurant.' 'Lichno', personally, comes from 'litso', the face we just heard. 'Dolzhen' plus a basic verb, 'proverit', is 'must check'."),
-    (8, None, "'Do something with this drunken monster!' Vika says 'sdelayte' with the 'te' ending, because she's asking everyone around her. 'Chto-nibud' is 'something, anything'."),
-    (9, None, "'I had a very good idea.' Literally, 'at me appeared a very good idea'. 'Poyavilas', appeared, ends in 'as' to match 'ideya', a feminine word."),
-    (10, None, "'What other idea can there be now?' 'Kakaya eshchyo' is literally 'which else', the impatient 'what other'. 'Kakaya' is feminine again, for 'ideya'."),
-    (11, None, "'Let us all together inspect the bar!' 'Poydyomte' is 'let's go', and its 'te' makes it an invitation to a group. 'Proinspektiruem' is the English 'inspect' with a Russian prefix and the 'we' ending 'em'."),
+    (0, None, ["'Chef, why did you get so drunk?' Now we can break down the dialogue: ", ('vika', 'напился'), " builds on a word for drinking, adding pieces to mean 'drank himself full'. ", ('vika', 'зачем'), " means 'what for'."]),
+    (1, None, ["'I did not get drunk, I had a little aperitif.' Now let's consider the dialogue: ", ('barinov', 'не'), ' and ', ('barinov', 'а'), " pair up to mean 'not this, but that'. After ", ('barinov', 'немного'), ", meaning 'a little', the drink changes its ending to ", ('barinov', 'аперитива'), '.']),
+    (2, None, ["'You can barely stand on your feet.' We will inspect the dialogue: ", ('vika', 'еле'), " means 'barely'. The term for feet becomes ", ('vika', 'на'), ('vika', 'своих'), ('vika', 'ногах'), ", with a plural ending for 'on' and 'in'."]),
+    (3, None, ["'The face of the restaurant arrived, I am ready to welcome guests!' Let us examine the words: ", ('barinov', 'прибыло'), " is an official word for 'arrived' used on station announcements, making him sound grand. It has a neuter ending to match ", ('barinov', 'Лицо'), ", meaning 'face'."]),
+    (4, None, ["'In this state you will not go out to the guests!' We can examine the sentence: ", ('vika', 'В'), ('vika', 'таком'), ('vika', 'состоянии'), " is the set phrase 'in such a state'. ", ('vika', 'выйдешь'), " starts with a part meaning 'out', making it 'you will go out'."]),
+    (5, None, ["'And you will never get married.' He plays on her wording: ", ('barinov', 'замуж'), " paired with the action means 'go out behind a husband', which is how a woman marries. ", ('barinov', 'никогда'), ('barinov', 'не'), ' keeps both negatives.']),
+    (6, None, ["'Stop grabbing me so roughly.' We can focus on the dialogue: ", ('vika', 'Хватит'), ", meaning 'enough', and ", ('vika', 'хвататься'), ", meaning 'to grab hold', share a sound, making the line nearly rhyme. You grab hold by someone, leading to ", ('vika', 'за'), ('vika', 'меня'), '.']),
+    (7, None, ["'I must personally check our restaurant.' Now we can inspect this part: ", ('barinov', 'лично'), ", meaning 'personally', comes from the term for 'face' we just heard. ", ('barinov', 'должен'), ' combined with ', ('barinov', 'проверить'), " creates 'must check'."]),
+    (8, None, ["'Do something with this drunken monster!' She says ", ('vika', 'Сделайте'), ' with a plural ending, as she is asking everyone around her. ', ('vika', 'что'), '-', ('vika', 'нибудь'), " means 'something' or 'anything'."]),
+    (9, None, ["'I had a very good idea.' This reads as 'at me appeared a very good idea'. ", ('barinov', 'появилась'), ", meaning 'appeared', has a feminine ending to match ", ('barinov', 'идея'), '.']),
+    (10, None, ["'What other idea can there be now?' Now let's look at the dialogue: ", ('vika', 'Какая'), ('vika', 'ещё'), " reads as 'which else', the impatient 'what other'. The first word is feminine again to match the idea."]),
+    (11, None, ["'Let us all together inspect the bar!' Let's inspect this line: ", ('barinov', 'пойдёмте'), " is 'let us go', and its ending makes it an invitation to a group. ", ('barinov', 'проинспектируем'), " is the English 'inspect' with a prefix and a 'we' ending."]),
 ]

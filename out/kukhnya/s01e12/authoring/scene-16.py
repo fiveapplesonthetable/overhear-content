@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'Barinov and Vika are standing outside the restaurant when somebody hands them a flyer for the new Italian place across the street. It makes big promises, and Barinov is not impressed. First, in Russian, what they say.'
 OPENER = 'Line by line, to see how the two of them take the news.'
 TRANSITION = 'Now it all again, in one go.'
-OUTRO = "Barinov and Vika agree on one thing: the place across the street won't get their guests. Listen out for 'luchshe' and 'luchshiy', better and best. Bye for now."
+OUTRO = "Barinov and Vika agree on one thing: the place across the street won't get their guests. Listen out for the words for better and best. Bye for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Посмотри, что раздают прямо у нашей двери!', 'Look at what they hand out right at our door!', [(221, 'что я нашел под дверью ресторана')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Пусть сначала попробуют нормально открыться!', 'Let them try opening properly first!', [(229, 'Да вы откройтесь для начала')], ''),
 ]
 WALK = [
-    (0, None, "'Look at what they hand out right at our door!' 'Razdayut' is 'they hand out', and no 'they' is spoken. 'U nashey dveri' is 'at our door', and 'dver' takes a new ending after 'u'."),
-    (1, None, "'What is this strange bright paper?' 'Chto za' asks 'what kind of'. 'Yarkaya' is 'bright', and 'bumaga' is simply 'paper'. Vika doesn't know yet that it's a flyer."),
-    (2, None, "'Nearby a new restaurant is opening today.' 'Ryadom' means 'nearby' or 'right next door'. 'Otkryvaetsya' ends in 'sya', so it literally 'opens itself'."),
-    (3, None, "'They call themselves the best restaurant in town.' 'Nazyvayut sebya' is literally 'they call themselves', in nearly the same shape as English. After 'call yourself', the name you take goes into the 'as' case, so it's 'luchshim restoranom', both words ending in 'm'. 'Goroda' means 'of the city'."),
-    (4, None, "'They brazenly hand out advertisements to our guests!' 'Naglo' means 'cheekily' or 'brazenly', and it's a sharp word. 'Nashim gostyam' is 'to our guests', where the 'm' ending shows who gets them."),
-    (5, None, "'Could they really be promising tastier food?' Surprise opens the question: 'could it really be that...'. 'Bolee vkusnuyu' is literally 'more tasty', with 'bolee', 'more', in front, the way English says 'more delicious'."),
-    (6, None, "'They write that with them it is much better.' 'U nikh' is 'at them', so 'with them'. 'Namnogo luchshe' is 'much better'. 'Luchshe' is irregular, like 'better' itself: it doesn't come from 'khoroshiy', good."),
-    (7, None, "'Chef, you should not be so nervous.' 'Ne nado' is 'no need'. 'Tak silno' is literally 'so strongly'. 'Nervnichat', to be nervous, is built on 'nerv', the same root as 'nerve'."),
-    (8, None, "'I will go and chase away this insolent fellow.' 'Naglogo' comes from the same root as 'naglo', brazenly, two lines back. 'Parnya' is from 'paren', the everyday word for 'a guy', in the object form."),
-    (9, None, "'We simply must show top quality.' 'Dolzhny' means 'must', and 'vysshy klass' is 'highest class'. 'Vysshy' is related to 'vysoky', high."),
-    (10, None, "'Our restaurant is the best in all Moscow!' 'Luchshiy' is 'the best', built on the same stem as 'luchshe', better. 'Vo vsey Moskve' is 'in all Moscow': 'v' becomes 'vo' before a word starting with 'vs', which would be hard to say otherwise."),
-    (11, None, "'Not a single regular guest of ours will leave.' 'Ni odin' is 'not even one', with 'ni' pushing the 'no' further. 'Postoyanny' is 'regular' and also 'constant', and 'ne uydyot' is 'will not leave', a future form, so it's a promise about what will happen."),
-    (12, None, "'Let them try opening properly first!' 'Pust' is 'let', so 'pust poprobuyut' is 'let them try'. 'Snachala' means 'first', and 'normalno' is 'properly'."),
+    (0, None, ["'Look at what they hand out right at our door!' Let us look at this part: ", ('barinov', 'раздают'), ' means they hand out, and no they is spoken. ', ('barinov', 'у'), ('barinov', 'нашей'), ('barinov', 'двери'), ' means at our door, and the word for door takes a new ending after at.']),
+    (1, None, ["'What is this strange bright paper?' Let us examine the sentence: ", ('vika', 'Что'), ('vika', 'это'), ('vika', 'за'), ' asks what kind of. ', ('vika', 'яркая'), ' is bright, and ', ('vika', 'бумага'), " is simply paper. Vika doesn't know yet that it's a flyer."]),
+    (2, None, ["'Nearby a new restaurant is opening today.' We can look at this part: ", ('barinov', 'Рядом'), ' means nearby or right next door. ', ('barinov', 'открывается'), ' ends in a self-action sound, so it opens itself.']),
+    (3, None, ["'They call themselves the best restaurant in town.' We will focus on the speech: ", ('vika', 'называют'), ('vika', 'себя'), " means they call themselves, in nearly the same shape as English. After call yourself, the name you take gets a new ending, so it's ", ('vika', 'лучшим'), ('vika', 'рестораном'), ' with both words matching. ', ('vika', 'города'), ' means of the city.']),
+    (4, None, ["'They brazenly hand out advertisements to our guests!' Let's inspect this line: ", ('barinov', 'нагло'), " means cheekily or brazenly, and it's a sharp word. ", ('barinov', 'нашим'), ('barinov', 'гостям'), ' is to our guests, with an ending that shows who gets them.']),
+    (5, None, ["'Could they really be promising tastier food?' Surprise opens the question: ", ('vika', 'Неужели'), ' meaning could it really be that... ', ('vika', 'более'), ('vika', 'вкусную'), ' means more tasty, with more in front, the way English says more delicious.']),
+    (6, None, ["'They write that with them it is much better.' Let's consider the speech: ", ('barinov', 'у'), ('barinov', 'них'), ' means at them, so with them. ', ('barinov', 'намного'), ('barinov', 'лучше'), ' is much better. ', ('barinov', 'лучше'), " is irregular, like better itself: it doesn't come from the term for good."]),
+    (7, None, ["'Chef, you should not be so nervous.' We will analyze the speech: ", ('vika', 'не'), ('vika', 'надо'), ' is no need. ', ('vika', 'так'), ('vika', 'сильно'), ' reads so strongly. ', ('vika', 'нервничать'), ', to be nervous, stems from the same root as nerve.']),
+    (8, None, ["'I will go and chase away this insolent fellow.' Let us consider the speech: ", ('barinov', 'наглого'), ' comes from the same root as the term for brazenly, two lines back. ', ('barinov', 'парня'), ' is from the everyday word for a guy, in the object form.']),
+    (9, None, ["'We simply must show top quality.' We can look at the speech: ", ('vika', 'должны'), ' means must, and ', ('vika', 'высший'), ('vika', 'класс'), ' is highest class. ', ('vika', 'высший'), ' is related to high.']),
+    (10, None, ["'Our restaurant is the best in all Moscow!' We can focus on the speech: ", ('barinov', 'лучший'), ' is the best, built on the same stem as better. ', ('barinov', 'во'), ('barinov', 'всей'), ('barinov', 'Москве'), ' is in all Moscow: in becomes a slightly longer word before a hard cluster of sounds.']),
+    (11, None, ["'Not a single regular guest of ours will leave.' Now let's consider this line: ", ('vika', 'Ни'), ('vika', 'один'), ' is not even one, pushing the no further. ', ('vika', 'постоянный'), ' is regular and also constant, and ', ('vika', 'не'), ('vika', 'уйдёт'), " is will not leave, a future form, so it's a promise about what will happen."]),
+    (12, None, ["'Let them try opening properly first!' Now let's inspect the speech: ", ('barinov', 'Пусть'), ' is let, so ', ('barinov', 'Пусть'), ('barinov', 'сначала'), ('barinov', 'попробуют'), ' is let them try first. ', ('barinov', 'сначала'), ' means first, and ', ('barinov', 'нормально'), ' is properly.']),
 ]

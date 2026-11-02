@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Max realises he's caused a mess, and he has an idea to fix it: a fake phone call. He rings the restaurant pretending to be an Italian and tells the hostess the trade show is cancelled. Russian first, as always."
 OPENER = 'Again, and watch the little acting job.'
 TRANSITION = 'Here it is, top to bottom.'
-OUTRO = "Max's trick works, and Vika is on her way back. Listen again for 'otmenyaetsya', the word that did the trick. Catch you next time."
+OUTRO = "Max's trick works, and Vika is on her way back. Listen again for 'cancelled', the word that did the trick. Catch you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Бонжорно, синьоры.', 'Buongiorno, signori.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Спасибо, что предупредили.', 'Thank you for warning me.', [(141, 'Спасибо, что предупредили.')], ''),
 ]
 WALK = [
-    (0, None, "'Buongiorno, signori.' These are Italian words written in Russian letters, so Max's fake accent does the talking. It sounds like 'bonzhorno', not quite right, which is the joke."),
-    (1, None, "'Good afternoon, Claude Monet restaurant.' 'Dobry den' is 'good day', and Russians use it for the afternoon, too. The name of the restaurant doesn't change, whatever the sentence."),
-    (2, None, "'My name is Alexander.' Russian has no 'my name is': it says 'me they call Alexander'. The 'they' is not spoken."),
-    (3, None, "'The exhibition is cancelled.' The event cancels itself, so the action takes 'sya'. That's the Russian form for trains and events that are called off."),
-    (4, None, "'Pass this on to Victoria.' The order is the polite one, ending in 'ite'. 'Viktorii' is the 'to' form of 'Viktoriya', the person it's passed to."),
-    (5, None, "'All right, I will pass it on.' 'Peredam' is 'I will pass on'. It comes from the same word as Max's 'peredayte', but now it's the future."),
-    (6, None, "'Grazie, signora, ciao-ciao.' More fake Italian. 'Chao' is how Russians write 'ciao', and they use it as a casual goodbye with friends."),
-    (7, None, "'Yes, hello. Victoria Sergeyevna, hello.' 'Allo' is only for answering the phone. 'Zdravstvuyte' is the polite hello for people you don't know well."),
-    (8, None, "'A representative of the exhibition from Milan called.' 'Zvonil' ends in 'l' for a man. 'Iz Milana' is 'from Milan', with 'a' on the city after 'from'."),
-    (9, None, "'He said that it is cancelled.' 'Ona' is 'she', because 'vystavka' is feminine in Russian, so a trade show counts as a 'she'. 'Chto' here means 'that'."),
-    (10, None, "'Oh, really? I am already in Domodedovo.' 'Pravda' means 'truth', and Russians say it to mean 'really?'. Vika is at one of Moscow's airports, and she says 'v' for 'in' with no change to the name."),
-    (11, None, "'I almost flew away.' 'Chut ne', almost, is literally 'barely not'. 'Flew off' starts with 'u', the prefix for 'away'."),
-    (12, None, "'Thank you for warning me.' 'Thanks that' is how you say thanks for something. 'Predupredili', warned, ends in 'li', the form that goes with polite 'vy'."),
+    (0, None, ["'Buongiorno, signori.' These are Italian words written in Russian letters, so Max's fake accent does the talking. ", ('max', 'Бонжорно'), ' sounds not quite right, which is the joke.']),
+    (1, None, ["'Good afternoon, Claude Monet restaurant.' Let's inspect this part: ", ('angelina_h', 'Добрый'), ('angelina_h', 'день'), " is 'good day', and Russians use it for the afternoon, too. The name of the restaurant doesn't change, whatever the sentence."]),
+    (2, None, ["'My name is Alexander.' Russian has no 'my name is': it says 'me they call Alexander'. The 'they' is not spoken."]),
+    (3, None, ["'The exhibition is cancelled.' The event cancels itself, so ", ('max', 'отменяется'), " reflects back. That's the Russian form for trains and events that are called off."]),
+    (4, None, ["'Pass this on to Victoria.' The order is the polite one, ending in a special polite sound for ", ('max', 'Передайте'), '. ', ('max', 'Виктории'), " is the 'to' form for the person it's passed to."]),
+    (5, None, ["'All right, I will pass it on.' We can analyze the sentence: ", ('angelina_h', 'передам'), " is 'I will pass on'. It comes from the expression in Max's command, but now it's the future."]),
+    (6, None, ["'Grazie, signora, ciao-ciao.' More fake Italian. ", ('max', 'чао'), " is how Russians write 'ciao', and they use it as a casual goodbye with friends."]),
+    (7, None, ["'Yes, hello. Victoria Sergeyevna, hello.' Now let's analyze this line: ", ('angelina_h', 'алло'), ' is only for answering the phone. ', ('angelina_h', 'здравствуйте'), " marks the polite hello for people you don't know well."]),
+    (8, None, ["'A representative of the exhibition from Milan called.' We will look at the dialogue: ", ('angelina_h', 'Звонил'), ' ends in a special sound for a man. ', ('angelina_h', 'из'), ('angelina_h', 'Милана'), " is 'from Milan', with a change on the city after 'from'."]),
+    (9, None, ["'He said that it is cancelled.' We can look at this part: ", ('angelina_h', 'она'), " is 'she', because the term for trade show is feminine in Russian, so a trade show counts as a 'she'. ", ('angelina_h', 'что'), " here means 'that'."]),
+    (10, None, ["'Oh, really? I am already in Domodedovo.' Now let's inspect this line: ", ('vika', 'правда'), " means 'truth', and Russians say it to mean 'really?'. Vika is at one of Moscow's airports, and she says ", ('vika', 'в'), " for 'in' with no change to the name."]),
+    (11, None, ["'I almost flew away.' Let's examine this part: ", ('vika', 'чуть'), ('vika', 'не'), ", almost, word-for-word means 'barely not'. Notice for 'flew off', ", ('vika', 'улетела'), ", starts with a prefix for 'away'."]),
+    (12, None, ["'Thank you for warning me.' 'Thanks that' is how you say thanks for something. ", ('vika', 'предупредили'), ", warned, ends in the form that goes with polite 'you'."]),
 ]

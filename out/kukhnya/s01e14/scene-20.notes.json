@@ -558,6 +558,34 @@
     },
     {
       "seg": 18,
+      "trans": "let's (do it)",
+      "words": [
+        {
+          "t": "Давайте",
+          "lemma": "давать",
+          "pos": "verb",
+          "stress": "дава́йте",
+          "gloss": "let's (do it)",
+          "gram": "imperative, plural/polite, imperfective; = 'let's'"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "(let's) try",
+      "words": [
+        {
+          "t": "попробуем",
+          "lemma": "попробовать",
+          "pos": "verb",
+          "stress": "попро́буем",
+          "gloss": "(let's) try",
+          "gram": "future, 1st person plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 22,
       "trans": "Jacques, where are you?",
       "words": [
         {
@@ -587,7 +615,35 @@
       ]
     },
     {
-      "seg": 20,
+      "seg": 24,
+      "trans": "you",
+      "words": [
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        }
+      ]
+    },
+    {
+      "seg": 25,
+      "trans": "where",
+      "words": [
+        {
+          "t": "где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "question word"
+        }
+      ]
+    },
+    {
+      "seg": 27,
       "trans": "I am here, I am coming!",
       "words": [
         {
@@ -625,7 +681,35 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 29,
+      "trans": "(I'm) going, running",
+      "words": [
+        {
+          "t": "иду",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "иду́",
+          "gloss": "(I'm) going, running",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 31,
+      "trans": "here",
+      "words": [
+        {
+          "t": "здесь",
+          "lemma": "здесь",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 33,
       "trans": "And who are you?",
       "words": [
         {
@@ -663,7 +747,49 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 35,
+      "trans": "such, so",
+      "words": [
+        {
+          "t": "такой",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́й",
+          "gloss": "such, so",
+          "gram": "masculine, nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 37,
+      "trans": "who",
+      "words": [
+        {
+          "t": "кто",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "question word, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "such, so",
+      "words": [
+        {
+          "t": "такой",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́й",
+          "gloss": "such, so",
+          "gram": "masculine, nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 40,
       "trans": "He is my neighbor.",
       "words": [
         {
@@ -693,7 +819,21 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 42,
+      "trans": "neighbour",
+      "words": [
+        {
+          "t": "сосед",
+          "lemma": "сосед",
+          "pos": "noun",
+          "stress": "сосе́д",
+          "gloss": "neighbour",
+          "gram": "nominative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 44,
       "trans": "Can you imagine, we lived in Paris.",
       "words": [
         {
@@ -739,513 +879,25 @@
       ]
     },
     {
-      "seg": 28,
-      "trans": "Wait, we are not going to kiss.",
-      "words": [
-        {
-          "t": "Подожди,",
-          "lemma": "подождать",
-          "pos": "verb",
-          "stress": "подожди́",
-          "gloss": "wait",
-          "gram": "imperative, 2nd person singular, perfective"
-        },
-        {
-          "t": "мы",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "we",
-          "gram": "1st person plural, nominative"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "будем",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "бу́дем",
-          "gloss": "will (not)",
-          "gram": "future, 1st person plural (auxiliary of the compound future)"
-        },
-        {
-          "t": "целоваться.",
-          "lemma": "целоваться",
-          "pos": "verb",
-          "stress": "целова́ться",
-          "gloss": "to kiss",
-          "gram": "infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 30,
-      "trans": "First we need to have a bite.",
-      "words": [
-        {
-          "t": "Сначала",
-          "lemma": "сначала",
-          "pos": "adv",
-          "stress": "снача́ла",
-          "gloss": "first, at first",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "надо",
-          "lemma": "надо",
-          "pos": "adv",
-          "stress": "на́до",
-          "gloss": "it is necessary",
-          "gram": "predicative adverb + infinitive"
-        },
-        {
-          "t": "закусить.",
-          "lemma": "закусить",
-          "pos": "verb",
-          "stress": "закуси́ть",
-          "gloss": "to have a bite",
-          "gram": "infinitive, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 32,
-      "trans": "Here, try this.",
-      "words": [
-        {
-          "t": "На,",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "попробуй",
-          "lemma": "попробовать",
-          "pos": "verb",
-          "stress": "попро́буй",
-          "gloss": "to try, to taste",
-          "gram": "verb imperative"
-        },
-        {
-          "t": "это.",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "This is very delicious.",
-      "words": [
-        {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "вкусно.",
-          "lemma": "вкусно",
-          "pos": "adv",
-          "stress": "вку́сно",
-          "gloss": "it's tasty",
-          "gram": "predicative adverb"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "He says that it is delicious?",
-      "words": [
-        {
-          "t": "Он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "говорит,",
-          "lemma": "говорить",
-          "pos": "verb",
-          "stress": "говори́т",
-          "gloss": "talks",
-          "gram": "present, 3rd person singular, imperfective"
-        },
-        {
-          "t": "что",
-          "lemma": "что",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "what",
-          "gram": "relative pronoun, accusative"
-        },
-        {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "вкусно?",
-          "lemma": "вкусно",
-          "pos": "adv",
-          "stress": "вку́сно",
-          "gloss": "it's tasty",
-          "gram": "predicative adverb"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "Yes, he likes it very much.",
-      "words": [
-        {
-          "t": "Да,",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
-        },
-        {
-          "t": "ему",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": "ему́",
-          "gloss": "(to) him",
-          "gram": "3rd person singular masculine, dative"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "нравится.",
-          "lemma": "нравиться",
-          "pos": "verb",
-          "stress": "нра́вится",
-          "gloss": "is pleasing",
-          "gram": "present, 3rd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "Thank you, my dear friend.",
-      "words": [
-        {
-          "t": "Спасибо,",
-          "lemma": "спасибо",
-          "pos": "interj",
-          "stress": "спаси́бо",
-          "gloss": "thank you",
-          "gram": "fixed expression"
-        },
-        {
-          "t": "мой",
-          "lemma": "мой",
-          "pos": "det",
-          "stress": null,
-          "gloss": "my",
-          "gram": "possessive pronoun"
-        },
-        {
-          "t": "дорогой",
-          "lemma": "дорогой",
-          "pos": "adj",
-          "stress": "дорого́й",
-          "gloss": "dear",
-          "gram": "nominative singular, masculine, used in address"
-        },
-        {
-          "t": "друг.",
-          "lemma": "друг",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "friend",
-          "gram": "nominative singular"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "You are welcome, eat to your health.",
-      "words": [
-        {
-          "t": "Пожалуйста,",
-          "lemma": "пожалуйста",
-          "pos": "part",
-          "stress": "пожа́луйста",
-          "gloss": "please",
-          "gram": "politeness word"
-        },
-        {
-          "t": "кушай",
-          "lemma": "кушать",
-          "pos": "verb",
-          "stress": "ку́шай",
-          "gloss": "eat",
-          "gram": "2nd person singular imperative"
-        },
-        {
-          "t": "на",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "здоровье.",
-          "lemma": "здоровье",
-          "pos": "noun",
-          "stress": "здоро́вье",
-          "gloss": "health",
-          "gram": "nominative singular, neuter"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "Let's try this.",
-      "words": [
-        {
-          "t": "Давайте",
-          "lemma": "давать",
-          "pos": "verb",
-          "stress": "дава́йте",
-          "gloss": "let's (do it)",
-          "gram": "imperative, plural/polite, imperfective; = 'let's'"
-        },
-        {
-          "t": "мы",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "we",
-          "gram": "1st person plural, nominative"
-        },
-        {
-          "t": "попробуем",
-          "lemma": "попробовать",
-          "pos": "verb",
-          "stress": "попро́буем",
-          "gloss": "(let's) try",
-          "gram": "future, 1st person plural, perfective"
-        },
-        {
-          "t": "это.",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        }
-      ]
-    },
-    {
-      "seg": 45,
-      "trans": "Jacques, where are you?",
-      "words": [
-        {
-          "t": "Жак,",
-          "lemma": "жак",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Jacques",
-          "gram": "proper noun"
-        },
-        {
-          "t": "ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "где?",
-          "lemma": "где",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "where",
-          "gram": "question word"
-        }
-      ]
-    },
-    {
       "seg": 46,
-      "trans": "I am here, I am coming!",
+      "trans": "can you imagine, believe",
       "words": [
         {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "здесь,",
-          "lemma": "здесь",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "here",
-          "gram": "adverb"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "иду!",
-          "lemma": "идти",
-          "pos": "verb",
-          "stress": "иду́",
-          "gloss": "(I'm) going, running",
-          "gram": "present, 1st person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 47,
-      "trans": "And who are you?",
-      "words": [
-        {
-          "t": "А",
-          "lemma": "а",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "вы",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
-        },
-        {
-          "t": "кто",
-          "lemma": "кто",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "who",
-          "gram": "question word, nominative"
-        },
-        {
-          "t": "такой?",
-          "lemma": "такой",
-          "pos": "pron",
-          "stress": "тако́й",
-          "gloss": "such, so",
-          "gram": "masculine, nominative singular"
-        }
-      ]
-    },
-    {
-      "seg": 48,
-      "trans": "He is my neighbor.",
-      "words": [
-        {
-          "t": "Он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "мой",
-          "lemma": "мой",
-          "pos": "det",
-          "stress": null,
-          "gloss": "my",
-          "gram": "possessive pronoun"
-        },
-        {
-          "t": "сосед.",
-          "lemma": "сосед",
-          "pos": "noun",
-          "stress": "сосе́д",
-          "gloss": "neighbour",
-          "gram": "nominative singular, masculine"
-        }
-      ]
-    },
-    {
-      "seg": 49,
-      "trans": "Can you imagine, we lived in Paris.",
-      "words": [
-        {
-          "t": "Представляешь,",
+          "t": "Представляешь",
           "lemma": "представлять",
           "pos": "verb",
           "stress": "представля́ешь",
           "gloss": "can you imagine, believe",
           "gram": "2nd person singular present (imperfective)"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "Paris",
+      "words": [
         {
-          "t": "мы",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "we",
-          "gram": "1st person plural, nominative"
-        },
-        {
-          "t": "жили",
-          "lemma": "жить",
-          "pos": "verb",
-          "stress": "жи́ли",
-          "gloss": "to live",
-          "gram": "past tense, plural"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "Париже.",
+          "t": "Париже",
           "lemma": "париж",
           "pos": "name",
           "stress": null,
@@ -1301,7 +953,49 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 52,
+      "trans": "to kiss",
+      "words": [
+        {
+          "t": "целоваться",
+          "lemma": "целоваться",
+          "pos": "verb",
+          "stress": "целова́ться",
+          "gloss": "to kiss",
+          "gram": "infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 54,
+      "trans": "not",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        }
+      ]
+    },
+    {
+      "seg": 55,
+      "trans": "will (not)",
+      "words": [
+        {
+          "t": "будем",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́дем",
+          "gloss": "will (not)",
+          "gram": "future, 1st person plural (auxiliary of the compound future)"
+        }
+      ]
+    },
+    {
+      "seg": 57,
       "trans": "First we need to have a bite.",
       "words": [
         {
@@ -1331,7 +1025,21 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 59,
+      "trans": "to have a bite",
+      "words": [
+        {
+          "t": "закусить",
+          "lemma": "закусить",
+          "pos": "verb",
+          "stress": "закуси́ть",
+          "gloss": "to have a bite",
+          "gram": "infinitive, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 61,
       "trans": "Here, try this.",
       "words": [
         {
@@ -1361,7 +1069,35 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 63,
+      "trans": "first, at first",
+      "words": [
+        {
+          "t": "На",
+          "lemma": "сначала",
+          "pos": "adv",
+          "stress": "снача́ла",
+          "gloss": "first, at first",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 65,
+      "trans": "to try, to taste",
+      "words": [
+        {
+          "t": "попробуй",
+          "lemma": "попробовать",
+          "pos": "verb",
+          "stress": "попро́буй",
+          "gloss": "to try, to taste",
+          "gram": "verb imperative"
+        }
+      ]
+    },
+    {
+      "seg": 67,
       "trans": "This is very delicious.",
       "words": [
         {
@@ -1391,7 +1127,21 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 69,
+      "trans": "it's tasty",
+      "words": [
+        {
+          "t": "вкусно",
+          "lemma": "вкусно",
+          "pos": "adv",
+          "stress": "вку́сно",
+          "gloss": "it's tasty",
+          "gram": "predicative adverb"
+        }
+      ]
+    },
+    {
+      "seg": 71,
       "trans": "He says that it is delicious?",
       "words": [
         {
@@ -1437,7 +1187,21 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 73,
+      "trans": "what",
+      "words": [
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 75,
       "trans": "Yes, he likes it very much.",
       "words": [
         {
@@ -1475,7 +1239,35 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 77,
+      "trans": "is pleasing",
+      "words": [
+        {
+          "t": "нравится",
+          "lemma": "нравиться",
+          "pos": "verb",
+          "stress": "нра́вится",
+          "gloss": "is pleasing",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 79,
+      "trans": "(to) him",
+      "words": [
+        {
+          "t": "ему",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": "ему́",
+          "gloss": "(to) him",
+          "gram": "3rd person singular masculine, dative"
+        }
+      ]
+    },
+    {
+      "seg": 81,
       "trans": "Thank you, my dear friend.",
       "words": [
         {
@@ -1513,7 +1305,49 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 83,
+      "trans": "my",
+      "words": [
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "my",
+          "gram": "possessive pronoun"
+        }
+      ]
+    },
+    {
+      "seg": 84,
+      "trans": "dear",
+      "words": [
+        {
+          "t": "дорогой",
+          "lemma": "дорогой",
+          "pos": "adj",
+          "stress": "дорого́й",
+          "gloss": "dear",
+          "gram": "nominative singular, masculine, used in address"
+        }
+      ]
+    },
+    {
+      "seg": 85,
+      "trans": "friend",
+      "words": [
+        {
+          "t": "друг",
+          "lemma": "друг",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 87,
       "trans": "You are welcome, eat to your health.",
       "words": [
         {
@@ -1551,7 +1385,551 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 89,
+      "trans": "first, at first",
+      "words": [
+        {
+          "t": "на",
+          "lemma": "сначала",
+          "pos": "adv",
+          "stress": "снача́ла",
+          "gloss": "first, at first",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 90,
+      "trans": "health",
+      "words": [
+        {
+          "t": "здоровье",
+          "lemma": "здоровье",
+          "pos": "noun",
+          "stress": "здоро́вье",
+          "gloss": "health",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 92,
+      "trans": "Let's try this.",
+      "words": [
+        {
+          "t": "Давайте",
+          "lemma": "давать",
+          "pos": "verb",
+          "stress": "дава́йте",
+          "gloss": "let's (do it)",
+          "gram": "imperative, plural/polite, imperfective; = 'let's'"
+        },
+        {
+          "t": "мы",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
+        },
+        {
+          "t": "попробуем",
+          "lemma": "попробовать",
+          "pos": "verb",
+          "stress": "попро́буем",
+          "gloss": "(let's) try",
+          "gram": "future, 1st person plural, perfective"
+        },
+        {
+          "t": "это.",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 93,
+      "trans": "Jacques, where are you?",
+      "words": [
+        {
+          "t": "Жак,",
+          "lemma": "жак",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Jacques",
+          "gram": "proper noun"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "где?",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "question word"
+        }
+      ]
+    },
+    {
+      "seg": 94,
+      "trans": "I am here, I am coming!",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "здесь,",
+          "lemma": "здесь",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "иду!",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "иду́",
+          "gloss": "(I'm) going, running",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 95,
+      "trans": "And who are you?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "кто",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "question word, nominative"
+        },
+        {
+          "t": "такой?",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́й",
+          "gloss": "such, so",
+          "gram": "masculine, nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 96,
+      "trans": "He is my neighbor.",
+      "words": [
+        {
+          "t": "Он",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "my",
+          "gram": "possessive pronoun"
+        },
+        {
+          "t": "сосед.",
+          "lemma": "сосед",
+          "pos": "noun",
+          "stress": "сосе́д",
+          "gloss": "neighbour",
+          "gram": "nominative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 97,
+      "trans": "Can you imagine, we lived in Paris.",
+      "words": [
+        {
+          "t": "Представляешь,",
+          "lemma": "представлять",
+          "pos": "verb",
+          "stress": "представля́ешь",
+          "gloss": "can you imagine, believe",
+          "gram": "2nd person singular present (imperfective)"
+        },
+        {
+          "t": "мы",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
+        },
+        {
+          "t": "жили",
+          "lemma": "жить",
+          "pos": "verb",
+          "stress": "жи́ли",
+          "gloss": "to live",
+          "gram": "past tense, plural"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "Париже.",
+          "lemma": "париж",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Paris",
+          "gram": "prepositional / dative singular"
+        }
+      ]
+    },
+    {
+      "seg": 98,
+      "trans": "Wait, we are not going to kiss.",
+      "words": [
+        {
+          "t": "Подожди,",
+          "lemma": "подождать",
+          "pos": "verb",
+          "stress": "подожди́",
+          "gloss": "wait",
+          "gram": "imperative, 2nd person singular, perfective"
+        },
+        {
+          "t": "мы",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "будем",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́дем",
+          "gloss": "will (not)",
+          "gram": "future, 1st person plural (auxiliary of the compound future)"
+        },
+        {
+          "t": "целоваться.",
+          "lemma": "целоваться",
+          "pos": "verb",
+          "stress": "целова́ться",
+          "gloss": "to kiss",
+          "gram": "infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 99,
+      "trans": "First we need to have a bite.",
+      "words": [
+        {
+          "t": "Сначала",
+          "lemma": "сначала",
+          "pos": "adv",
+          "stress": "снача́ла",
+          "gloss": "first, at first",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "надо",
+          "lemma": "надо",
+          "pos": "adv",
+          "stress": "на́до",
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
+        },
+        {
+          "t": "закусить.",
+          "lemma": "закусить",
+          "pos": "verb",
+          "stress": "закуси́ть",
+          "gloss": "to have a bite",
+          "gram": "infinitive, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 100,
+      "trans": "Here, try this.",
+      "words": [
+        {
+          "t": "На,",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "попробуй",
+          "lemma": "попробовать",
+          "pos": "verb",
+          "stress": "попро́буй",
+          "gloss": "to try, to taste",
+          "gram": "verb imperative"
+        },
+        {
+          "t": "это.",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 101,
+      "trans": "This is very delicious.",
+      "words": [
+        {
+          "t": "Это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "вкусно.",
+          "lemma": "вкусно",
+          "pos": "adv",
+          "stress": "вку́сно",
+          "gloss": "it's tasty",
+          "gram": "predicative adverb"
+        }
+      ]
+    },
+    {
+      "seg": 102,
+      "trans": "He says that it is delicious?",
+      "words": [
+        {
+          "t": "Он",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "говорит,",
+          "lemma": "говорить",
+          "pos": "verb",
+          "stress": "говори́т",
+          "gloss": "talks",
+          "gram": "present, 3rd person singular, imperfective"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "вкусно?",
+          "lemma": "вкусно",
+          "pos": "adv",
+          "stress": "вку́сно",
+          "gloss": "it's tasty",
+          "gram": "predicative adverb"
+        }
+      ]
+    },
+    {
+      "seg": 103,
+      "trans": "Yes, he likes it very much.",
+      "words": [
+        {
+          "t": "Да,",
+          "lemma": "да",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
+        },
+        {
+          "t": "ему",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": "ему́",
+          "gloss": "(to) him",
+          "gram": "3rd person singular masculine, dative"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "нравится.",
+          "lemma": "нравиться",
+          "pos": "verb",
+          "stress": "нра́вится",
+          "gloss": "is pleasing",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 104,
+      "trans": "Thank you, my dear friend.",
+      "words": [
+        {
+          "t": "Спасибо,",
+          "lemma": "спасибо",
+          "pos": "interj",
+          "stress": "спаси́бо",
+          "gloss": "thank you",
+          "gram": "fixed expression"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "my",
+          "gram": "possessive pronoun"
+        },
+        {
+          "t": "дорогой",
+          "lemma": "дорогой",
+          "pos": "adj",
+          "stress": "дорого́й",
+          "gloss": "dear",
+          "gram": "nominative singular, masculine, used in address"
+        },
+        {
+          "t": "друг.",
+          "lemma": "друг",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 105,
+      "trans": "You are welcome, eat to your health.",
+      "words": [
+        {
+          "t": "Пожалуйста,",
+          "lemma": "пожалуйста",
+          "pos": "part",
+          "stress": "пожа́луйста",
+          "gloss": "please",
+          "gram": "politeness word"
+        },
+        {
+          "t": "кушай",
+          "lemma": "кушать",
+          "pos": "verb",
+          "stress": "ку́шай",
+          "gloss": "eat",
+          "gram": "2nd person singular imperative"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "здоровье.",
+          "lemma": "здоровье",
+          "pos": "noun",
+          "stress": "здоро́вье",
+          "gloss": "health",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 107,
       "trans": "Bye!",
       "words": [
         {

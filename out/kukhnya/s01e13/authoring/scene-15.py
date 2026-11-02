@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = 'Vika goes into the stockroom and finds Max hiding among the boxes. She wants to talk to him about being sensible. Hear their talk in Russian first.'
 OPENER = 'Again, slowly this time.'
 TRANSITION = 'Now the stockroom talk, all the way through.'
-OUTRO = "Vika tries to stay serious, and Max wins her over a little anyway. Note how she calls him a 'rebyonok', child, and then a 'romantik'. Talk soon."
+OUTRO = "Vika tries to stay serious, and Max wins her over a little anyway. Note how she calls him a child, and then a romantic. Talk soon."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, почему ты снова прячешься здесь?', 'Max, why are you hiding here again?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Потому что я очень люблю тебя, Вика.', 'Because I love you very much, Vika.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, why are you hiding here again?' The 'sya' in 'pryachesh'sya' makes it 'hide yourself'. 'Snova' is a one-word 'again'."),
-    (1, None, "'I was simply waiting for you here.' Russian says 'waited you', with no word for 'for'. 'Zhdal' is a man's past form, 'tebya' is 'you'."),
-    (2, None, "'What an unserious child you are!' 'Neser'yozny' is 'serious' with 'ne' in front. 'Rebyonok' is one child, and the plural 'deti' looks nothing like it."),
-    (3, None, "'Then punish me strictly for that!' 'Nakazhi' is the order 'punish!'. 'Strogo', strictly, is the adverb of 'strogy', strict, and 'za eto' is 'for that'."),
-    (4, None, "'Max, stop joking, I am serious.' 'Perestan' is 'stop', followed by 'shutit', 'to joke'. 'Govoryu seryozno', I speak seriously, is how Russians say 'I mean it'."),
-    (5, None, "'You are young, you want fun.' 'Tebe khochetsya' is literally 'to you it wants itself', so Russians say that a wish happens to you. 'Vesel'ya' means 'of fun', since 'want' brings that ending."),
-    (6, None, "'At work one must be an adult.' 'Nado' is the impersonal 'one must'. After 'byt', to be, 'vzroslym chelovekom' has the 'ym' and 'om' endings, the 'as a' form."),
-    (7, None, "'Vika, why are you so worried?' 'Perezhivaesh' is built from 'zhit', to live, and 'pere', through. So to worry is to 'live through' something."),
-    (8, None, "'The age difference is not important.' Max waves the whole subject away in one short sentence. 'Vazhna', important, ends in 'a' because 'raznitsa', difference, is feminine."),
-    (9, None, "'It seems we are making a mistake.' 'Mne kazhetsya' is literally 'to me it seems', Russian for 'I think'. And Russians 'commit' a mistake, 'sovershaem oshibku', where English makes one."),
-    (10, None, "'Beside me you will forget all worries.' 'Zabudesh' is a future, 'you will forget'. 'Trevogi', worries, is the plural of 'trevoga', alarm or anxiety."),
-    (11, None, "'Max, you are an incorrigible romantic.' 'Neispravimy' is made of 'ne', not, and 'ispravit', to fix or correct. So it's 'unfixable'. 'Romantik' is the English word."),
-    (12, None, "'Because I love you very much, Vika.' 'Potomu chto' is 'because', and it's often how you answer 'pochemu', why. 'Lyublyu' is 'I love', and 'tebya' is its object."),
+    (0, None, ["'Max, why are you hiding here again?' The ending in ", ('vika', 'прячешься'), " makes it 'hide yourself'. The term ", ('vika', 'снова'), " is a one-word 'again'."]),
+    (1, None, ["'I was simply waiting for you here.' Russian says 'waited you', without 'for'. The verb ", ('max', 'ждал'), " is a man's past form, and ", ('max', 'тебя'), " is 'you'."]),
+    (2, None, ["'What an unserious child you are!' The word ", ('vika', 'несерьёзный'), " is 'serious' with 'not' in front. Also, ", ('vika', 'ребёнок'), ' is one child, and the plural looks nothing like it.']),
+    (3, None, ["'Then punish me strictly for that!' The verb ", ('max', 'накажи'), " is the order 'punish!'. The word ", ('max', 'строго'), ', strictly, is the adverb of strict, and ', ('max', 'за'), ('max', 'это'), " is 'for that'."]),
+    (4, None, ["'Max, stop joking, I am serious.' The term ", ('vika', 'перестань'), " is 'stop', followed by ", ('vika', 'шутить'), ", 'to joke'. Notice ", ('vika', 'говорю'), ('vika', 'серьёзно'), ", I speak seriously, is how Russians say 'I mean it'."]),
+    (5, None, ["'You are young, you want fun.' We will examine this line: ", ('vika', 'тебе'), ('vika', 'хочется'), " says 'to you it wants itself', so Russians say that a wish happens to you. Notice ", ('vika', 'веселья'), " means 'of fun', since 'want' brings that ending."]),
+    (6, None, ["'At work one must be an adult.' The term ", ('vika', 'надо'), " is the impersonal 'one must'. After ", ('vika', 'быть'), ', to be, the wording ', ('vika', 'взрослым'), ('vika', 'человеком'), " has the endings for the 'as a' form."]),
+    (7, None, ["'Vika, why are you so worried?' We can inspect the dialogue: ", ('max', 'переживаешь'), " is built from to live, and through. So to worry is to 'live through' something."]),
+    (8, None, ["'The age difference is not important.' Max waves the whole subject away in one short sentence. Notice ", ('max', 'важна'), ", important, takes a woman's ending since ", ('max', 'Разница'), ', difference, is feminine.']),
+    (9, None, ["'It seems we are making a mistake.' Let's inspect the phrase: ", ('vika', 'Мне'), ('vika', 'кажется'), " word-for-word means 'to me it seems', Russian for 'I think'. And Russians 'commit' a mistake, ", ('vika', 'совершаем'), ('vika', 'ошибку'), ', where English makes one.']),
+    (10, None, ["'Beside me you will forget all worries.' The verb ", ('max', 'забудешь'), " is a future, 'you will forget'. Notice ", ('max', 'тревоги'), ', worries, is the plural of alarm or anxiety.']),
+    (11, None, ["'Max, you are an incorrigible romantic.' The term ", ('vika', 'неисправимый'), " is made of 'not' and 'to fix or correct'. So it is 'unfixable'. The term ", ('vika', 'романтик'), ' is the English word.']),
+    (12, None, ["'Because I love you very much, Vika.' Now let's focus on this part: ", ('max', 'Потому'), ('max', 'что'), " is 'because', and it is often how you answer 'why'. The verb ", ('max', 'люблю'), " is 'I love', and ", ('max', 'тебя'), ' is its object.']),
 ]

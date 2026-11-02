@@ -744,6 +744,48 @@
     },
     {
       "seg": 17,
+      "trans": "you",
+      "words": [
+        {
+          "t": "вам",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "dative plural"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "was liked, pleased",
+      "words": [
+        {
+          "t": "понравился",
+          "lemma": "понравиться",
+          "pos": "verb",
+          "stress": "понра́вился",
+          "gloss": "was liked, pleased",
+          "gram": "past, masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "restaurant",
+      "words": [
+        {
+          "t": "ресторан",
+          "lemma": "ресторан",
+          "pos": "noun",
+          "stress": "рестора́н",
+          "gloss": "restaurant",
+          "gram": "nominative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 22,
       "trans": "Please forgive us, for the love of God.",
       "words": [
         {
@@ -797,7 +839,49 @@
       ]
     },
     {
-      "seg": 19,
+      "seg": 24,
+      "trans": "certainly",
+      "words": [
+        {
+          "t": "уж",
+          "lemma": "уж",
+          "pos": "part",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "emphatic particle"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "for the sake of",
+      "words": [
+        {
+          "t": "ради",
+          "lemma": "ради",
+          "pos": "prep",
+          "stress": "ра́ди",
+          "gloss": "for the sake of",
+          "gram": "preposition + genitive"
+        }
+      ]
+    },
+    {
+      "seg": 27,
+      "trans": "God (goodness' sake)",
+      "words": [
+        {
+          "t": "бога",
+          "lemma": "бог",
+          "pos": "noun",
+          "stress": "бо́га",
+          "gloss": "God (goodness' sake)",
+          "gram": "masculine singular genitive in ради бога"
+        }
+      ]
+    },
+    {
+      "seg": 29,
       "trans": "Did something happen with your wife?",
       "words": [
         {
@@ -843,7 +927,77 @@
       ]
     },
     {
-      "seg": 21,
+      "seg": 31,
+      "trans": "somehow (for some reason)",
+      "words": [
+        {
+          "t": "Что",
+          "lemma": "что-то",
+          "pos": "pron",
+          "stress": "что́-то",
+          "gloss": "somehow (for some reason)",
+          "gram": "indefinite pronoun, used as an adverb"
+        }
+      ]
+    },
+    {
+      "seg": 33,
+      "trans": "restaurant",
+      "words": [
+        {
+          "t": "то",
+          "lemma": "ресторан",
+          "pos": "noun",
+          "stress": "рестора́н",
+          "gloss": "restaurant",
+          "gram": "nominative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 35,
+      "trans": "hello (polite)",
+      "words": [
+        {
+          "t": "с",
+          "lemma": "здравствуйте",
+          "pos": "interj",
+          "stress": "здра́вствуйте",
+          "gloss": "hello (polite)",
+          "gram": "interjection, polite greeting; the first в is silent"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "your (formal)",
+      "words": [
+        {
+          "t": "вашей",
+          "lemma": "ваш",
+          "pos": "det",
+          "stress": "ва́шей",
+          "gloss": "your (formal)",
+          "gram": "genitive singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 37,
+      "trans": "(my) wife",
+      "words": [
+        {
+          "t": "женой",
+          "lemma": "жена",
+          "pos": "noun",
+          "stress": "жено́й",
+          "gloss": "(my) wife",
+          "gram": "instrumental singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 39,
       "trans": "My wife told me everything in detail.",
       "words": [
         {
@@ -897,673 +1051,9 @@
       ]
     },
     {
-      "seg": 23,
-      "trans": "Did she get poisoned by some dish of ours?",
-      "words": [
-        {
-          "t": "Она",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": "она́",
-          "gloss": "she; it",
-          "gram": "nominative, feminine"
-        },
-        {
-          "t": "отравилась",
-          "lemma": "отравиться",
-          "pos": "verb",
-          "stress": "отрави́лась",
-          "gloss": "got poisoned",
-          "gram": "past feminine singular"
-        },
-        {
-          "t": "каким-то",
-          "lemma": "какой-то",
-          "pos": "pron",
-          "stress": "каки́м-то",
-          "gloss": "some",
-          "gram": "instrumental singular, masculine / neuter"
-        },
-        {
-          "t": "нашим",
-          "lemma": "наш",
-          "pos": "det",
-          "stress": "на́шим",
-          "gloss": "our",
-          "gram": "instrumental singular masculine, or dative plural"
-        },
-        {
-          "t": "блюдом?",
-          "lemma": "блюдо",
-          "pos": "noun",
-          "stress": "блю́дом",
-          "gloss": "dish, course",
-          "gram": "instrumental singular, neuter"
-        }
-      ]
-    },
-    {
-      "seg": 25,
-      "trans": "No, she was not poisoned by food at all.",
-      "words": [
-        {
-          "t": "Нет,",
-          "lemma": "нет",
-          "pos": "part",
-          "stress": null,
-          "gloss": "no",
-          "gram": "negative answer"
-        },
-        {
-          "t": "она",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": "она́",
-          "gloss": "she; it",
-          "gram": "nominative, feminine"
-        },
-        {
-          "t": "вовсе",
-          "lemma": "вовсе",
-          "pos": "adv",
-          "stress": "во́все",
-          "gloss": "at all",
-          "gram": "adverb"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "отравилась",
-          "lemma": "отравиться",
-          "pos": "verb",
-          "stress": "отрави́лась",
-          "gloss": "got poisoned",
-          "gram": "past feminine singular"
-        },
-        {
-          "t": "едой.",
-          "lemma": "еда",
-          "pos": "noun",
-          "stress": "едо́й",
-          "gloss": "food",
-          "gram": "feminine singular instrumental"
-        }
-      ]
-    },
-    {
-      "seg": 27,
-      "trans": "Why then did she feel so ill?",
-      "words": [
-        {
-          "t": "Почему",
-          "lemma": "почему",
-          "pos": "adv",
-          "stress": "почему́",
-          "gloss": "why",
-          "gram": "question word"
-        },
-        {
-          "t": "же",
-          "lemma": "же",
-          "pos": "part",
-          "stress": null,
-          "gloss": "but, after all",
-          "gram": "emphatic particle"
-        },
-        {
-          "t": "ей",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "to her",
-          "gram": "3rd person feminine dative"
-        },
-        {
-          "t": "стало",
-          "lemma": "стать",
-          "pos": "verb",
-          "stress": "ста́ло",
-          "gloss": "became, came over",
-          "gram": "past, neuter singular, perfective (impersonal)"
-        },
-        {
-          "t": "так",
-          "lemma": "так",
-          "pos": "part",
-          "stress": null,
-          "gloss": "so",
-          "gram": "adverb"
-        },
-        {
-          "t": "плохо?",
-          "lemma": "плохо",
-          "pos": "adv",
-          "stress": "пло́хо",
-          "gloss": "badly",
-          "gram": "adverb"
-        }
-      ]
-    },
-    {
-      "seg": 29,
-      "trans": "She is pregnant, already in the third month.",
-      "words": [
-        {
-          "t": "Она",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": "она́",
-          "gloss": "she; it",
-          "gram": "nominative, feminine"
-        },
-        {
-          "t": "беременна,",
-          "lemma": "беременный",
-          "pos": "adj",
-          "stress": "бере́менна",
-          "gloss": "pregnant",
-          "gram": "short feminine singular"
-        },
-        {
-          "t": "уже",
-          "lemma": "уже",
-          "pos": "adv",
-          "stress": "уже́",
-          "gloss": "already, now",
-          "gram": "adverb"
-        },
-        {
-          "t": "на",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "третьем",
-          "lemma": "третий",
-          "pos": "adj",
-          "stress": "тре́тьем",
-          "gloss": "third",
-          "gram": "ordinal numeral, prepositional singular, masculine / neuter"
-        },
-        {
-          "t": "месяце.",
-          "lemma": "месяц",
-          "pos": "noun",
-          "stress": "ме́сяце",
-          "gloss": "month",
-          "gram": "masculine singular prepositional"
-        }
-      ]
-    },
-    {
-      "seg": 31,
-      "trans": "So she just has bad morning sickness?",
-      "words": [
-        {
-          "t": "Так",
-          "lemma": "так",
-          "pos": "part",
-          "stress": null,
-          "gloss": "so",
-          "gram": "adverb"
-        },
-        {
-          "t": "у",
-          "lemma": "у",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "at, near, with",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "неё",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "her",
-          "gram": "3rd person singular feminine, genitive (after a preposition)"
-        },
-        {
-          "t": "просто",
-          "lemma": "просто",
-          "pos": "adv",
-          "stress": "про́сто",
-          "gloss": "just",
-          "gram": "adverb"
-        },
-        {
-          "t": "сильный",
-          "lemma": "сильный",
-          "pos": "adj",
-          "stress": "си́льный",
-          "gloss": "the strong (person)",
-          "gram": "masculine singular nominative (used as a noun)"
-        },
-        {
-          "t": "токсикоз?",
-          "lemma": "токсикоз",
-          "pos": "noun",
-          "stress": "токсико́з",
-          "gloss": "morning sickness",
-          "gram": "masculine singular nominative"
-        }
-      ]
-    },
-    {
-      "seg": 33,
-      "trans": "Yes, the smells of food make her nauseous.",
-      "words": [
-        {
-          "t": "Да,",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
-        },
-        {
-          "t": "от",
-          "lemma": "от",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "запахов",
-          "lemma": "запах",
-          "pos": "noun",
-          "stress": "за́пахов",
-          "gloss": "smells",
-          "gram": "plural genitive"
-        },
-        {
-          "t": "еды",
-          "lemma": "еда",
-          "pos": "noun",
-          "stress": "еды́",
-          "gloss": "food",
-          "gram": "feminine singular genitive"
-        },
-        {
-          "t": "её",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "her",
-          "gram": "3rd person singular feminine, accusative"
-        },
-        {
-          "t": "тошнит.",
-          "lemma": "тошнить",
-          "pos": "verb",
-          "stress": "тошни́т",
-          "gloss": "makes (me) sick",
-          "gram": "present, 3rd person singular, impersonal, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 35,
-      "trans": "We were very worried about her health.",
-      "words": [
-        {
-          "t": "Мы",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "we",
-          "gram": "1st person plural, nominative"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "переживали",
-          "lemma": "переживать",
-          "pos": "verb",
-          "stress": "пережива́ли",
-          "gloss": "worried",
-          "gram": "past plural"
-        },
-        {
-          "t": "за",
-          "lemma": "за",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "for",
-          "gram": "preposition + accusative"
-        },
-        {
-          "t": "её",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "her",
-          "gram": "3rd person singular feminine, accusative"
-        },
-        {
-          "t": "здоровье.",
-          "lemma": "здоровье",
-          "pos": "noun",
-          "stress": "здоро́вье",
-          "gloss": "health",
-          "gram": "nominative singular, neuter"
-        }
-      ]
-    },
-    {
-      "seg": 37,
-      "trans": "Thank you for your understanding and care.",
-      "words": [
-        {
-          "t": "Спасибо",
-          "lemma": "спасибо",
-          "pos": "interj",
-          "stress": "спаси́бо",
-          "gloss": "thank you",
-          "gram": "fixed expression"
-        },
-        {
-          "t": "вам",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "dative plural"
-        },
-        {
-          "t": "за",
-          "lemma": "за",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "for",
-          "gram": "preposition + accusative"
-        },
-        {
-          "t": "понимание",
-          "lemma": "понимание",
-          "pos": "noun",
-          "stress": "понима́ние",
-          "gloss": "understanding",
-          "gram": "neuter singular accusative"
-        },
-        {
-          "t": "и",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "заботу.",
-          "lemma": "забота",
-          "pos": "noun",
-          "stress": "забо́ту",
-          "gloss": "care",
-          "gram": "feminine inanimate noun, accusative singular"
-        }
-      ]
-    },
-    {
-      "seg": 39,
-      "trans": "So this woman is definitely not the critic.",
-      "words": [
-        {
-          "t": "Значит,",
-          "lemma": "значит",
-          "pos": "adv",
-          "stress": "зна́чит",
-          "gloss": "then, so",
-          "gram": "parenthetical word"
-        },
-        {
-          "t": "эта",
-          "lemma": "этот",
-          "pos": "det",
-          "stress": "э́та",
-          "gloss": "this",
-          "gram": "nominative feminine singular demonstrative determiner"
-        },
-        {
-          "t": "женщина",
-          "lemma": "женщина",
-          "pos": "noun",
-          "stress": "же́нщина",
-          "gloss": "woman",
-          "gram": "nominative singular"
-        },
-        {
-          "t": "точно",
-          "lemma": "точно",
-          "pos": "adv",
-          "stress": "то́чно",
-          "gloss": "definitely, for sure",
-          "gram": "adverb"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "критик.",
-          "lemma": "критик",
-          "pos": "noun",
-          "stress": "кри́тик",
-          "gloss": "critic",
-          "gram": "masculine, nominative singular"
-        }
-      ]
-    },
-    {
       "seg": 41,
-      "trans": "Hello, did you like our restaurant today?",
+      "trans": "in detail",
       "words": [
-        {
-          "t": "Здравствуйте,",
-          "lemma": "здравствуйте",
-          "pos": "interj",
-          "stress": "здра́вствуйте",
-          "gloss": "hello (polite)",
-          "gram": "interjection, polite greeting; the first в is silent"
-        },
-        {
-          "t": "вам",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "dative plural"
-        },
-        {
-          "t": "понравился",
-          "lemma": "понравиться",
-          "pos": "verb",
-          "stress": "понра́вился",
-          "gloss": "was liked, pleased",
-          "gram": "past, masculine singular, perfective"
-        },
-        {
-          "t": "наш",
-          "lemma": "наш",
-          "pos": "det",
-          "stress": null,
-          "gloss": "our",
-          "gram": "accusative masculine singular, inanimate"
-        },
-        {
-          "t": "ресторан",
-          "lemma": "ресторан",
-          "pos": "noun",
-          "stress": "рестора́н",
-          "gloss": "restaurant",
-          "gram": "nominative singular, masculine"
-        },
-        {
-          "t": "сегодня?",
-          "lemma": "сегодня",
-          "pos": "adv",
-          "stress": "сего́дня",
-          "gloss": "today",
-          "gram": "adverb of time"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "Please forgive us, for the love of God.",
-      "words": [
-        {
-          "t": "Вы",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
-        },
-        {
-          "t": "уж",
-          "lemma": "уж",
-          "pos": "part",
-          "stress": null,
-          "gloss": "certainly",
-          "gram": "emphatic particle"
-        },
-        {
-          "t": "извините",
-          "lemma": "извинить",
-          "pos": "verb",
-          "stress": "извини́те",
-          "gloss": "sorry, excuse me",
-          "gram": "imperative, polite/plural, perfective"
-        },
-        {
-          "t": "нас,",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural, genitive"
-        },
-        {
-          "t": "ради",
-          "lemma": "ради",
-          "pos": "prep",
-          "stress": "ра́ди",
-          "gloss": "for the sake of",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "бога.",
-          "lemma": "бог",
-          "pos": "noun",
-          "stress": "бо́га",
-          "gloss": "God (goodness' sake)",
-          "gram": "masculine singular genitive in ради бога"
-        }
-      ]
-    },
-    {
-      "seg": 43,
-      "trans": "Did something happen with your wife?",
-      "words": [
-        {
-          "t": "Что-то",
-          "lemma": "что-то",
-          "pos": "pron",
-          "stress": "что́-то",
-          "gloss": "somehow (for some reason)",
-          "gram": "indefinite pronoun, used as an adverb"
-        },
-        {
-          "t": "случилось",
-          "lemma": "случиться",
-          "pos": "verb",
-          "stress": "случи́лось",
-          "gloss": "happened",
-          "gram": "past, neuter singular, perfective"
-        },
-        {
-          "t": "с",
-          "lemma": "с",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "with / from",
-          "gram": "preposition"
-        },
-        {
-          "t": "вашей",
-          "lemma": "ваш",
-          "pos": "det",
-          "stress": "ва́шей",
-          "gloss": "your (formal)",
-          "gram": "genitive singular, feminine"
-        },
-        {
-          "t": "женой?",
-          "lemma": "жена",
-          "pos": "noun",
-          "stress": "жено́й",
-          "gloss": "(my) wife",
-          "gram": "instrumental singular, feminine"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "My wife told me everything in detail.",
-      "words": [
-        {
-          "t": "Моя",
-          "lemma": "мой",
-          "pos": "det",
-          "stress": "моя́",
-          "gloss": "my",
-          "gram": "nominative feminine singular"
-        },
-        {
-          "t": "жена",
-          "lemma": "жена",
-          "pos": "noun",
-          "stress": "жена́",
-          "gloss": "wife",
-          "gram": "nominative singular"
-        },
-        {
-          "t": "мне",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "to me (мне некогда = I have no time)",
-          "gram": "1st person singular, dative"
-        },
-        {
-          "t": "всё",
-          "lemma": "весь",
-          "pos": "det",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
-        },
         {
           "t": "подробно",
           "lemma": "подробно",
@@ -1571,9 +1061,15 @@
           "stress": "подро́бно",
           "gloss": "in detail",
           "gram": "adverb"
-        },
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "told",
+      "words": [
         {
-          "t": "рассказала.",
+          "t": "рассказала",
           "lemma": "рассказать",
           "pos": "verb",
           "stress": "рассказа́ла",
@@ -1629,7 +1125,63 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 47,
+      "trans": "some",
+      "words": [
+        {
+          "t": "каким",
+          "lemma": "какой-то",
+          "pos": "pron",
+          "stress": "каки́м-то",
+          "gloss": "some",
+          "gram": "instrumental singular, masculine / neuter"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "restaurant",
+      "words": [
+        {
+          "t": "то",
+          "lemma": "ресторан",
+          "pos": "noun",
+          "stress": "рестора́н",
+          "gloss": "restaurant",
+          "gram": "nominative singular, masculine"
+        }
+      ]
+    },
+    {
+      "seg": 51,
+      "trans": "got poisoned",
+      "words": [
+        {
+          "t": "отравилась",
+          "lemma": "отравиться",
+          "pos": "verb",
+          "stress": "отрави́лась",
+          "gloss": "got poisoned",
+          "gram": "past feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 53,
+      "trans": "dish, course",
+      "words": [
+        {
+          "t": "блюдом",
+          "lemma": "блюдо",
+          "pos": "noun",
+          "stress": "блю́дом",
+          "gloss": "dish, course",
+          "gram": "instrumental singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 55,
       "trans": "No, she was not poisoned by food at all.",
       "words": [
         {
@@ -1683,7 +1235,49 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 57,
+      "trans": "at all",
+      "words": [
+        {
+          "t": "вовсе",
+          "lemma": "вовсе",
+          "pos": "adv",
+          "stress": "во́все",
+          "gloss": "at all",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "to me (мне некогда = I have no time)",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        }
+      ]
+    },
+    {
+      "seg": 60,
+      "trans": "food",
+      "words": [
+        {
+          "t": "едой",
+          "lemma": "еда",
+          "pos": "noun",
+          "stress": "едо́й",
+          "gloss": "food",
+          "gram": "feminine singular instrumental"
+        }
+      ]
+    },
+    {
+      "seg": 62,
       "trans": "Why then did she feel so ill?",
       "words": [
         {
@@ -1737,7 +1331,91 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 64,
+      "trans": "why",
+      "words": [
+        {
+          "t": "Почему",
+          "lemma": "почему",
+          "pos": "adv",
+          "stress": "почему́",
+          "gloss": "why",
+          "gram": "question word"
+        }
+      ]
+    },
+    {
+      "seg": 65,
+      "trans": "(my) wife",
+      "words": [
+        {
+          "t": "же",
+          "lemma": "жена",
+          "pos": "noun",
+          "stress": "жено́й",
+          "gloss": "(my) wife",
+          "gram": "instrumental singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 67,
+      "trans": "your (formal)",
+      "words": [
+        {
+          "t": "ей",
+          "lemma": "ваш",
+          "pos": "det",
+          "stress": "ва́шей",
+          "gloss": "your (formal)",
+          "gram": "genitive singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 68,
+      "trans": "became, came over",
+      "words": [
+        {
+          "t": "стало",
+          "lemma": "стать",
+          "pos": "verb",
+          "stress": "ста́ло",
+          "gloss": "became, came over",
+          "gram": "past, neuter singular, perfective (impersonal)"
+        }
+      ]
+    },
+    {
+      "seg": 69,
+      "trans": "so",
+      "words": [
+        {
+          "t": "так",
+          "lemma": "так",
+          "pos": "part",
+          "stress": null,
+          "gloss": "so",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 70,
+      "trans": "badly",
+      "words": [
+        {
+          "t": "плохо",
+          "lemma": "плохо",
+          "pos": "adv",
+          "stress": "пло́хо",
+          "gloss": "badly",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 72,
       "trans": "She is pregnant, already in the third month.",
       "words": [
         {
@@ -1791,7 +1469,63 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 74,
+      "trans": "our",
+      "words": [
+        {
+          "t": "на",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": null,
+          "gloss": "our",
+          "gram": "accusative masculine singular, inanimate"
+        }
+      ]
+    },
+    {
+      "seg": 75,
+      "trans": "third",
+      "words": [
+        {
+          "t": "третьем",
+          "lemma": "третий",
+          "pos": "adj",
+          "stress": "тре́тьем",
+          "gloss": "third",
+          "gram": "ordinal numeral, prepositional singular, masculine / neuter"
+        }
+      ]
+    },
+    {
+      "seg": 76,
+      "trans": "month",
+      "words": [
+        {
+          "t": "месяце",
+          "lemma": "месяц",
+          "pos": "noun",
+          "stress": "ме́сяце",
+          "gloss": "month",
+          "gram": "masculine singular prepositional"
+        }
+      ]
+    },
+    {
+      "seg": 78,
+      "trans": "pregnant",
+      "words": [
+        {
+          "t": "беременна",
+          "lemma": "беременный",
+          "pos": "adj",
+          "stress": "бере́менна",
+          "gloss": "pregnant",
+          "gram": "short feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 80,
       "trans": "So she just has bad morning sickness?",
       "words": [
         {
@@ -1845,7 +1579,63 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 82,
+      "trans": "morning sickness",
+      "words": [
+        {
+          "t": "токсикоз",
+          "lemma": "токсикоз",
+          "pos": "noun",
+          "stress": "токсико́з",
+          "gloss": "morning sickness",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 84,
+      "trans": "hello (polite)",
+      "words": [
+        {
+          "t": "у",
+          "lemma": "здравствуйте",
+          "pos": "interj",
+          "stress": "здра́вствуйте",
+          "gloss": "hello (polite)",
+          "gram": "interjection, polite greeting; the first в is silent"
+        }
+      ]
+    },
+    {
+      "seg": 85,
+      "trans": "her",
+      "words": [
+        {
+          "t": "неё",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "her",
+          "gram": "3rd person singular feminine, genitive (after a preposition)"
+        }
+      ]
+    },
+    {
+      "seg": 87,
+      "trans": "so",
+      "words": [
+        {
+          "t": "Так",
+          "lemma": "так",
+          "pos": "part",
+          "stress": null,
+          "gloss": "so",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 89,
       "trans": "Yes, the smells of food make her nauseous.",
       "words": [
         {
@@ -1899,7 +1689,77 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 91,
+      "trans": "got poisoned",
+      "words": [
+        {
+          "t": "от",
+          "lemma": "отравиться",
+          "pos": "verb",
+          "stress": "отрави́лась",
+          "gloss": "got poisoned",
+          "gram": "past feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 92,
+      "trans": "smells",
+      "words": [
+        {
+          "t": "запахов",
+          "lemma": "запах",
+          "pos": "noun",
+          "stress": "за́пахов",
+          "gloss": "smells",
+          "gram": "plural genitive"
+        }
+      ]
+    },
+    {
+      "seg": 93,
+      "trans": "food",
+      "words": [
+        {
+          "t": "еды",
+          "lemma": "еда",
+          "pos": "noun",
+          "stress": "еды́",
+          "gloss": "food",
+          "gram": "feminine singular genitive"
+        }
+      ]
+    },
+    {
+      "seg": 95,
+      "trans": "her",
+      "words": [
+        {
+          "t": "её",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "her",
+          "gram": "3rd person singular feminine, genitive (after a preposition)"
+        }
+      ]
+    },
+    {
+      "seg": 96,
+      "trans": "makes (me) sick",
+      "words": [
+        {
+          "t": "тошнит",
+          "lemma": "тошнить",
+          "pos": "verb",
+          "stress": "тошни́т",
+          "gloss": "makes (me) sick",
+          "gram": "present, 3rd person singular, impersonal, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 98,
       "trans": "We were very worried about her health.",
       "words": [
         {
@@ -1953,7 +1813,35 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 100,
+      "trans": "worried",
+      "words": [
+        {
+          "t": "переживали",
+          "lemma": "переживать",
+          "pos": "verb",
+          "stress": "пережива́ли",
+          "gloss": "worried",
+          "gram": "past plural"
+        }
+      ]
+    },
+    {
+      "seg": 102,
+      "trans": "health",
+      "words": [
+        {
+          "t": "здоровье",
+          "lemma": "здоровье",
+          "pos": "noun",
+          "stress": "здоро́вье",
+          "gloss": "health",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 104,
       "trans": "Thank you for your understanding and care.",
       "words": [
         {
@@ -2007,7 +1895,49 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 106,
+      "trans": "told",
+      "words": [
+        {
+          "t": "за",
+          "lemma": "рассказать",
+          "pos": "verb",
+          "stress": "рассказа́ла",
+          "gloss": "told",
+          "gram": "feminine singular past (perfective)"
+        }
+      ]
+    },
+    {
+      "seg": 108,
+      "trans": "care",
+      "words": [
+        {
+          "t": "заботу",
+          "lemma": "забота",
+          "pos": "noun",
+          "stress": "забо́ту",
+          "gloss": "care",
+          "gram": "feminine inanimate noun, accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 110,
+      "trans": "understanding",
+      "words": [
+        {
+          "t": "понимание",
+          "lemma": "понимание",
+          "pos": "noun",
+          "stress": "понима́ние",
+          "gloss": "understanding",
+          "gram": "neuter singular accusative"
+        }
+      ]
+    },
+    {
+      "seg": 112,
       "trans": "So this woman is definitely not the critic.",
       "words": [
         {
@@ -2061,7 +1991,735 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 114,
+      "trans": "then, so",
+      "words": [
+        {
+          "t": "Значит",
+          "lemma": "значит",
+          "pos": "adv",
+          "stress": "зна́чит",
+          "gloss": "then, so",
+          "gram": "parenthetical word"
+        }
+      ]
+    },
+    {
+      "seg": 116,
+      "trans": "definitely, for sure",
+      "words": [
+        {
+          "t": "точно",
+          "lemma": "точно",
+          "pos": "adv",
+          "stress": "то́чно",
+          "gloss": "definitely, for sure",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 117,
+      "trans": "to me (мне некогда = I have no time)",
+      "words": [
+        {
+          "t": "не",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        }
+      ]
+    },
+    {
+      "seg": 119,
+      "trans": "Hello, did you like our restaurant today?",
+      "words": [
+        {
+          "t": "Здравствуйте,",
+          "lemma": "здравствуйте",
+          "pos": "interj",
+          "stress": "здра́вствуйте",
+          "gloss": "hello (polite)",
+          "gram": "interjection, polite greeting; the first в is silent"
+        },
+        {
+          "t": "вам",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "dative plural"
+        },
+        {
+          "t": "понравился",
+          "lemma": "понравиться",
+          "pos": "verb",
+          "stress": "понра́вился",
+          "gloss": "was liked, pleased",
+          "gram": "past, masculine singular, perfective"
+        },
+        {
+          "t": "наш",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": null,
+          "gloss": "our",
+          "gram": "accusative masculine singular, inanimate"
+        },
+        {
+          "t": "ресторан",
+          "lemma": "ресторан",
+          "pos": "noun",
+          "stress": "рестора́н",
+          "gloss": "restaurant",
+          "gram": "nominative singular, masculine"
+        },
+        {
+          "t": "сегодня?",
+          "lemma": "сегодня",
+          "pos": "adv",
+          "stress": "сего́дня",
+          "gloss": "today",
+          "gram": "adverb of time"
+        }
+      ]
+    },
+    {
+      "seg": 120,
+      "trans": "Please forgive us, for the love of God.",
+      "words": [
+        {
+          "t": "Вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "уж",
+          "lemma": "уж",
+          "pos": "part",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "извините",
+          "lemma": "извинить",
+          "pos": "verb",
+          "stress": "извини́те",
+          "gloss": "sorry, excuse me",
+          "gram": "imperative, polite/plural, perfective"
+        },
+        {
+          "t": "нас,",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "us",
+          "gram": "1st person plural, genitive"
+        },
+        {
+          "t": "ради",
+          "lemma": "ради",
+          "pos": "prep",
+          "stress": "ра́ди",
+          "gloss": "for the sake of",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "бога.",
+          "lemma": "бог",
+          "pos": "noun",
+          "stress": "бо́га",
+          "gloss": "God (goodness' sake)",
+          "gram": "masculine singular genitive in ради бога"
+        }
+      ]
+    },
+    {
+      "seg": 121,
+      "trans": "Did something happen with your wife?",
+      "words": [
+        {
+          "t": "Что-то",
+          "lemma": "что-то",
+          "pos": "pron",
+          "stress": "что́-то",
+          "gloss": "somehow (for some reason)",
+          "gram": "indefinite pronoun, used as an adverb"
+        },
+        {
+          "t": "случилось",
+          "lemma": "случиться",
+          "pos": "verb",
+          "stress": "случи́лось",
+          "gloss": "happened",
+          "gram": "past, neuter singular, perfective"
+        },
+        {
+          "t": "с",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "with / from",
+          "gram": "preposition"
+        },
+        {
+          "t": "вашей",
+          "lemma": "ваш",
+          "pos": "det",
+          "stress": "ва́шей",
+          "gloss": "your (formal)",
+          "gram": "genitive singular, feminine"
+        },
+        {
+          "t": "женой?",
+          "lemma": "жена",
+          "pos": "noun",
+          "stress": "жено́й",
+          "gloss": "(my) wife",
+          "gram": "instrumental singular, feminine"
+        }
+      ]
+    },
+    {
+      "seg": 122,
+      "trans": "My wife told me everything in detail.",
+      "words": [
+        {
+          "t": "Моя",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": "моя́",
+          "gloss": "my",
+          "gram": "nominative feminine singular"
+        },
+        {
+          "t": "жена",
+          "lemma": "жена",
+          "pos": "noun",
+          "stress": "жена́",
+          "gloss": "wife",
+          "gram": "nominative singular"
+        },
+        {
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
+        },
+        {
+          "t": "подробно",
+          "lemma": "подробно",
+          "pos": "adv",
+          "stress": "подро́бно",
+          "gloss": "in detail",
+          "gram": "adverb"
+        },
+        {
+          "t": "рассказала.",
+          "lemma": "рассказать",
+          "pos": "verb",
+          "stress": "рассказа́ла",
+          "gloss": "told",
+          "gram": "feminine singular past (perfective)"
+        }
+      ]
+    },
+    {
+      "seg": 123,
+      "trans": "Did she get poisoned by some dish of ours?",
+      "words": [
+        {
+          "t": "Она",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": "она́",
+          "gloss": "she; it",
+          "gram": "nominative, feminine"
+        },
+        {
+          "t": "отравилась",
+          "lemma": "отравиться",
+          "pos": "verb",
+          "stress": "отрави́лась",
+          "gloss": "got poisoned",
+          "gram": "past feminine singular"
+        },
+        {
+          "t": "каким-то",
+          "lemma": "какой-то",
+          "pos": "pron",
+          "stress": "каки́м-то",
+          "gloss": "some",
+          "gram": "instrumental singular, masculine / neuter"
+        },
+        {
+          "t": "нашим",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́шим",
+          "gloss": "our",
+          "gram": "instrumental singular masculine, or dative plural"
+        },
+        {
+          "t": "блюдом?",
+          "lemma": "блюдо",
+          "pos": "noun",
+          "stress": "блю́дом",
+          "gloss": "dish, course",
+          "gram": "instrumental singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 124,
+      "trans": "No, she was not poisoned by food at all.",
+      "words": [
+        {
+          "t": "Нет,",
+          "lemma": "нет",
+          "pos": "part",
+          "stress": null,
+          "gloss": "no",
+          "gram": "negative answer"
+        },
+        {
+          "t": "она",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": "она́",
+          "gloss": "she; it",
+          "gram": "nominative, feminine"
+        },
+        {
+          "t": "вовсе",
+          "lemma": "вовсе",
+          "pos": "adv",
+          "stress": "во́все",
+          "gloss": "at all",
+          "gram": "adverb"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "отравилась",
+          "lemma": "отравиться",
+          "pos": "verb",
+          "stress": "отрави́лась",
+          "gloss": "got poisoned",
+          "gram": "past feminine singular"
+        },
+        {
+          "t": "едой.",
+          "lemma": "еда",
+          "pos": "noun",
+          "stress": "едо́й",
+          "gloss": "food",
+          "gram": "feminine singular instrumental"
+        }
+      ]
+    },
+    {
+      "seg": 125,
+      "trans": "Why then did she feel so ill?",
+      "words": [
+        {
+          "t": "Почему",
+          "lemma": "почему",
+          "pos": "adv",
+          "stress": "почему́",
+          "gloss": "why",
+          "gram": "question word"
+        },
+        {
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "ей",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to her",
+          "gram": "3rd person feminine dative"
+        },
+        {
+          "t": "стало",
+          "lemma": "стать",
+          "pos": "verb",
+          "stress": "ста́ло",
+          "gloss": "became, came over",
+          "gram": "past, neuter singular, perfective (impersonal)"
+        },
+        {
+          "t": "так",
+          "lemma": "так",
+          "pos": "part",
+          "stress": null,
+          "gloss": "so",
+          "gram": "adverb"
+        },
+        {
+          "t": "плохо?",
+          "lemma": "плохо",
+          "pos": "adv",
+          "stress": "пло́хо",
+          "gloss": "badly",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 126,
+      "trans": "She is pregnant, already in the third month.",
+      "words": [
+        {
+          "t": "Она",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": "она́",
+          "gloss": "she; it",
+          "gram": "nominative, feminine"
+        },
+        {
+          "t": "беременна,",
+          "lemma": "беременный",
+          "pos": "adj",
+          "stress": "бере́менна",
+          "gloss": "pregnant",
+          "gram": "short feminine singular"
+        },
+        {
+          "t": "уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "уже́",
+          "gloss": "already, now",
+          "gram": "adverb"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "третьем",
+          "lemma": "третий",
+          "pos": "adj",
+          "stress": "тре́тьем",
+          "gloss": "third",
+          "gram": "ordinal numeral, prepositional singular, masculine / neuter"
+        },
+        {
+          "t": "месяце.",
+          "lemma": "месяц",
+          "pos": "noun",
+          "stress": "ме́сяце",
+          "gloss": "month",
+          "gram": "masculine singular prepositional"
+        }
+      ]
+    },
+    {
+      "seg": 127,
+      "trans": "So she just has bad morning sickness?",
+      "words": [
+        {
+          "t": "Так",
+          "lemma": "так",
+          "pos": "part",
+          "stress": null,
+          "gloss": "so",
+          "gram": "adverb"
+        },
+        {
+          "t": "у",
+          "lemma": "у",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "неё",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "her",
+          "gram": "3rd person singular feminine, genitive (after a preposition)"
+        },
+        {
+          "t": "просто",
+          "lemma": "просто",
+          "pos": "adv",
+          "stress": "про́сто",
+          "gloss": "just",
+          "gram": "adverb"
+        },
+        {
+          "t": "сильный",
+          "lemma": "сильный",
+          "pos": "adj",
+          "stress": "си́льный",
+          "gloss": "the strong (person)",
+          "gram": "masculine singular nominative (used as a noun)"
+        },
+        {
+          "t": "токсикоз?",
+          "lemma": "токсикоз",
+          "pos": "noun",
+          "stress": "токсико́з",
+          "gloss": "morning sickness",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 128,
+      "trans": "Yes, the smells of food make her nauseous.",
+      "words": [
+        {
+          "t": "Да,",
+          "lemma": "да",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
+        },
+        {
+          "t": "от",
+          "lemma": "от",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "запахов",
+          "lemma": "запах",
+          "pos": "noun",
+          "stress": "за́пахов",
+          "gloss": "smells",
+          "gram": "plural genitive"
+        },
+        {
+          "t": "еды",
+          "lemma": "еда",
+          "pos": "noun",
+          "stress": "еды́",
+          "gloss": "food",
+          "gram": "feminine singular genitive"
+        },
+        {
+          "t": "её",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "her",
+          "gram": "3rd person singular feminine, accusative"
+        },
+        {
+          "t": "тошнит.",
+          "lemma": "тошнить",
+          "pos": "verb",
+          "stress": "тошни́т",
+          "gloss": "makes (me) sick",
+          "gram": "present, 3rd person singular, impersonal, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 129,
+      "trans": "We were very worried about her health.",
+      "words": [
+        {
+          "t": "Мы",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "переживали",
+          "lemma": "переживать",
+          "pos": "verb",
+          "stress": "пережива́ли",
+          "gloss": "worried",
+          "gram": "past plural"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "for",
+          "gram": "preposition + accusative"
+        },
+        {
+          "t": "её",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "her",
+          "gram": "3rd person singular feminine, accusative"
+        },
+        {
+          "t": "здоровье.",
+          "lemma": "здоровье",
+          "pos": "noun",
+          "stress": "здоро́вье",
+          "gloss": "health",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 130,
+      "trans": "Thank you for your understanding and care.",
+      "words": [
+        {
+          "t": "Спасибо",
+          "lemma": "спасибо",
+          "pos": "interj",
+          "stress": "спаси́бо",
+          "gloss": "thank you",
+          "gram": "fixed expression"
+        },
+        {
+          "t": "вам",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "dative plural"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "for",
+          "gram": "preposition + accusative"
+        },
+        {
+          "t": "понимание",
+          "lemma": "понимание",
+          "pos": "noun",
+          "stress": "понима́ние",
+          "gloss": "understanding",
+          "gram": "neuter singular accusative"
+        },
+        {
+          "t": "и",
+          "lemma": "и",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction"
+        },
+        {
+          "t": "заботу.",
+          "lemma": "забота",
+          "pos": "noun",
+          "stress": "забо́ту",
+          "gloss": "care",
+          "gram": "feminine inanimate noun, accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 131,
+      "trans": "So this woman is definitely not the critic.",
+      "words": [
+        {
+          "t": "Значит,",
+          "lemma": "значит",
+          "pos": "adv",
+          "stress": "зна́чит",
+          "gloss": "then, so",
+          "gram": "parenthetical word"
+        },
+        {
+          "t": "эта",
+          "lemma": "этот",
+          "pos": "det",
+          "stress": "э́та",
+          "gloss": "this",
+          "gram": "nominative feminine singular demonstrative determiner"
+        },
+        {
+          "t": "женщина",
+          "lemma": "женщина",
+          "pos": "noun",
+          "stress": "же́нщина",
+          "gloss": "woman",
+          "gram": "nominative singular"
+        },
+        {
+          "t": "точно",
+          "lemma": "точно",
+          "pos": "adv",
+          "stress": "то́чно",
+          "gloss": "definitely, for sure",
+          "gram": "adverb"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "критик.",
+          "lemma": "критик",
+          "pos": "noun",
+          "stress": "кри́тик",
+          "gloss": "critic",
+          "gram": "masculine, nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 133,
       "trans": "Bye!",
       "words": [
         {

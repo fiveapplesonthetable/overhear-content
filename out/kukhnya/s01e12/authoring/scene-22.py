@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'The fire next door is out, and Kostya has helped everyone get outside safely. Nastya is proud of him, and some hungry guests are looking for somewhere new to eat. The Russian first.'
 OPENER = 'Slowly, from the relief to the rush of customers.'
 TRANSITION = 'Here it is again, start to finish.'
-OUTRO = "The neighbours' bad luck turns into a full house for Claude Monet. Next time you see a closed door in Russia, you'll know 'po tekhnicheskim prichinam'. Speak soon."
+OUTRO = "The neighbours' bad luck turns into a full house for Claude Monet. Next time you see a closed door in Russia, you will know it is closed for technical reasons. Speak soon."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, не бойся, огонь уже потушили.', 'Nastya, do not be afraid, they already put out the fire.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Пойдём скорее на работу, любимый бармен!', "Let's go quickly to work, beloved bartender!", [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, do not be afraid, they already put out the fire.' 'Ne boysya' is 'don't be afraid', from 'boyatsya', a verb that always carries 'sya'. 'Potushili' is 'they put out' with no 'they' at all: Russian often leaves out who did it."),
-    (1, None, "'All the people here are safe now.' 'V bezopasnosti' is 'in safety'. 'Bezopasnost' is built from 'bez', 'without', and 'opasnost', 'danger'."),
-    (2, None, "'Kostya, thank you so much for the help.' 'Ogromnoe' means 'huge', so 'huge thanks' is a warm 'thank you so much'. 'Za pomoshch' is 'for the help'."),
-    (3, None, "'You are such a brave guy to me!' The phrase 'you at me' means 'in my eyes you are'. 'Smelyy paren' is 'brave guy', and 'paren' with 'moy', my, is how you say 'my boyfriend'."),
-    (4, None, "'I simply helped the people go outside.' 'Pomog' is 'helped', and the people being helped take an ending: 'lyudi' becomes 'lyudyam'. 'Vyyti' is 'to go out'."),
-    (5, None, "'You are a real hero of our restaurant!' Nastya picks 'nastoyashchiy', 'real', the same word Barinov used for the real palm trees. In 'nashego restorana' both words carry the 'of' endings, -ego and -a."),
-    (6, None, "'They apologised to us there for the inconvenience.' Russian apologises 'pered', in front of, someone: 'pered nami', literally 'in front of us'. No 'they' is said. 'Neudobstva' is 'ne', not, plus 'udobstvo', convenience, here in the plural."),
-    (7, None, "'The restaurant next door is closed for technical reasons.' 'Zakryt' is 'closed', in the short form with no ending, to match masculine 'restoran'. 'Po tekhnicheskim prichinam' is the standard notice-on-the-door way to say 'for technical reasons'."),
-    (8, None, "'And where do we have dinner now?' 'Pouzhinat' is 'to have supper', from 'uzhin', supper. 'Gde zhe' is 'where, then'. 'Nam' is 'for us'."),
-    (9, None, "'Hey, let's go to that other restaurant instead!' 'Slushayte' is 'listen', in the plural form. 'Luchshe' means 'better', but here it means 'instead', and 'tot' means 'that one over there'."),
-    (10, None, "'All the guests are coming straight to us!' 'K nam' is 'to us', literally 'towards us', with 'my' turning into 'nam'. 'Pryamo' is 'straight', and 'idut' is 'are coming', on foot."),
-    (11, None, "'Today our dining room will be full of people.' The 'of' in 'full of people' is hidden in the ending: 'lyudi' turns into 'lyudey'. English needs a word there, but Russian just changes the last syllable."),
-    (12, None, "'Let's go quickly to work, beloved bartender!' 'Lyubimyy' is 'beloved', from 'lyubit', to love, and it's a common way to say 'darling'. 'Skoree' is 'quicker'. 'Na rabotu' is 'to work', with 'u' for direction."),
+    (0, None, ["'Nastya, do not be afraid, they already put out the fire.' Do not be afraid is ", ('kostya', 'не'), ('kostya', 'бойся'), '. They put out is ', ('kostya', 'потушили'), ', used without saying they.']),
+    (1, None, ["'All the people here are safe now.' In safety is ", ('kostya', 'в'), ('kostya', 'безопасности'), ', built from without and danger.']),
+    (2, None, ["'Kostya, thank you so much for the help.' Huge thanks, meaning thank you so much, is ", ('nastya', 'огромное'), ('nastya', 'спасибо'), '. For the help is ', ('nastya', 'за'), ('nastya', 'помощь'), '.']),
+    (3, None, ["'You are such a brave guy to me!' We hear for to me is ", ('nastya', 'у'), ('nastya', 'меня'), '. Brave guy is ', ('nastya', 'смелый'), ('nastya', 'парень'), '.']),
+    (4, None, ["'I simply helped the people go outside.' Helped is ", ('kostya', 'помог'), '. To go out is ', ('kostya', 'выйти'), '.']),
+    (5, None, ["'You are a real hero of our restaurant!' Real is ", ('nastya', 'настоящий'), '. Of our restaurant is ', ('nastya', 'нашего'), ('nastya', 'ресторана'), '.']),
+    (6, None, ["'They apologised to us there for the inconvenience.' In front of us is ", ('guest', 'Перед'), ('guest', 'нами'), ', and apologised is ', ('guest', 'извинились'), '. Inconvenience is ', ('guest', 'неудобства'), '.']),
+    (7, None, ["'The restaurant next door is closed for technical reasons.' Closed is ", ('guest', 'закрыт'), '. For technical reasons is ', ('guest', 'по'), ('guest', 'техническим'), ('guest', 'причинам'), '.']),
+    (8, None, ["'And where do we have dinner now?' To have supper is ", ('guest', 'поужинать'), '. Where then is ', ('guest', 'где'), ('guest', 'же'), '. For us is ', ('guest', 'нам'), '.']),
+    (9, None, ["'Hey, let's go to that other restaurant instead!' Listen is ", ('guest', 'Слушайте'), '. Instead is ', ('guest', 'лучше'), ', and that one over there is ', ('guest', 'тот'), '.']),
+    (10, None, ["'All the guests are coming straight to us!' To us is ", ('nastya', 'к'), ('nastya', 'нам'), '. Straight is ', ('nastya', 'прямо'), ', and are coming is ', ('nastya', 'идут'), '.']),
+    (11, None, ["'Today our dining room will be full of people.' The of in full of people is hidden in the ending, as people becomes ", ('kostya', 'людей'), '.']),
+    (12, None, ["'Let's go quickly to work, beloved bartender!' Beloved is ", ('nastya', 'любимый'), '. Quicker is ', ('nastya', 'скорее'), '. To work is ', ('nastya', 'на'), ('nastya', 'работу'), '.']),
 ]

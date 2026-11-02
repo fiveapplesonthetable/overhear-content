@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = 'Elena has found her car, and it is not in one piece. She stands next to it, assessing the damage while Barinov tries to talk her out of calling the police. First, the Russian.'
 OPENER = 'Taking the damage report again, bit by bit.'
 TRANSITION = 'Now the damage report, all together.'
-OUTRO = "Elena says she will think about it, and that is all Barinov gets. 'Kak luchshe' and 'kak khuzhe' make a pair worth keeping. Until the next one."
+OUTRO = "Elena says she will think about it, and that is all Barinov gets. 'Trying to help' and 'making things worse' make a pair worth keeping. Until the next one."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Ну что, бампера нет...', 'Well, the bumper is gone...', [(291, 'что')], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('elena', 'Я подумаю.', 'I will think about it.', [(296, 'подумаю')], ''),
 ]
 WALK = [
-    (0, None, "'Well, the bumper is gone...' Russian says 'bumper not', and the bumper changes to 'bampera' after 'net'. That 'net' stands for 'there isn't'."),
-    (1, None, "'and the headlight is smashed.' 'Fara' is a car headlight. 'Razbita' is 'smashed', with an 'a' to go with 'fara'."),
-    (2, None, "'I am fine. I was not driving.' 'V poryadke', literally 'in order', means 'fine'. 'Za rulyom', behind the wheel, is the standard way to say who was driving."),
-    (3, None, "'It is a long story...' 'Istoriya' means 'story' and 'history', so you could use it for a school subject as well. 'Dlinnaya' has the 'aya' ending to match 'istoriya'."),
-    (4, None, "'I will tell you later, okay?' The 'okay' is the little word 'ladno', which Russians use all the time. 'Rasskazhu', I will tell, is a future with no helper word."),
-    (5, None, "'All right, bye.' 'Vsyo, davay, poka' is a chain of little words that Russians use to end a phone call. 'Poka' is a casual 'bye'."),
-    (6, None, "'Do not worry, I will fix everything.' The polite plural 'don't worry' ends in 'te'. 'Pochinyu', I will fix, is from the same verb as 'pochinil' in the kitchen."),
-    (7, None, "'I was only trying to help.' 'Khotel kak luchshe' is 'wanted as better', a famous Russian phrase for good intentions. People often finish it with 'but it turned out as always'."),
-    (8, None, "'I can imagine what you would have done...' The little 'by' means 'would'. It turns 'what was' into 'what would have been'."),
-    (9, None, "'if you meant to make things worse.' She plays on his phrase: 'kak khuzhe' is 'as worse', the opposite of his 'kak luchshe'. 'Zakhoteli' is 'you wanted'."),
-    (10, None, "'Do you realize...' 'Vy voobshche ponimaete' is 'do you even understand', with 'voobshche' adding the edge, as it did in the kitchen."),
-    (11, None, "'that I could file a complaint?' Russians say 'write a statement' where English says 'file a complaint'. It's the thing you do at a police desk."),
-    (12, None, "'And your chef could go to prison.' Literally, 'they will seat', and it means 'jail'. The same action also means 'sit someone down' and 'plant a tree'."),
-    (13, None, "'I understand.' One word, 'ponimayu'. Barinov is, for once, brief."),
-    (14, None, "'Maybe we can settle this without a complaint?' 'Bez' makes the next word change its ending, so 'complaint' turns into 'zayavleniya'. 'Oboydemsya', we'll manage, is literally 'we will go around'."),
-    (15, None, "'I will think about it.' It's a polite way of not saying yes. The 'po' in front means 'for a while'."),
+    (0, None, ["'Well, the bumper is gone...' Russian says the bumper is missing, and the bumper changes to ", ('elena', 'бампера'), ' after ', ('elena', 'нет'), ". That negating word stands for 'there is not'."]),
+    (1, None, ["'and the headlight is smashed.' Now let's consider this line: ", ('elena', 'фара'), ' is a car headlight. ', ('elena', 'разбита'), " is 'smashed', with an 'a' to match the headlight."]),
+    (2, None, ["'I am fine. I was not driving.' Now let's focus on the sentence: ", ('elena', 'в'), ('elena', 'порядке'), ", meaning 'in order', stands for 'fine'. ", ('elena', 'за'), ('elena', 'рулем'), ', behind the wheel, is the standard way to say who was driving.']),
+    (3, None, ["'It is a long story...' Now we can look at this part: ", ('elena', 'история'), " means 'story' and 'history', so you could use it for a school subject as well. ", ('elena', 'длинная'), ' has an ending to match the story.']),
+    (4, None, ["'I will tell you later, okay?' The 'okay' is the particle ", ('elena', 'ладно'), ', which Russians use all the time. ', ('elena', 'расскажу'), ', I will tell, is a future action with no extra word.']),
+    (5, None, ["'All right, bye.' We can focus on this part: ", ('elena', 'Все'), ', ', ('elena', 'давай'), ', ', ('elena', 'пока'), " is a chain of little words that Russians use to end a phone call. The last word is a casual 'bye'."]),
+    (6, None, ["'Do not worry, I will fix everything.' The polite 'do not worry', ", ('barinov', 'не'), ('barinov', 'переживайте'), ', ends with a polite sound. ', ('barinov', 'починю'), ', I will fix, is from the same action as the one used earlier in the kitchen.']),
+    (7, None, ["'I was only trying to help.' We will examine this line: ", ('barinov', 'хотел'), ('barinov', 'как'), ('barinov', 'лучше'), " is 'wanted as better', a famous phrase for good intentions. People often finish it with 'but it turned out as always'."]),
+    (8, None, ["'I can imagine what you would have done...' The short term ", ('elena', 'бы'), " means 'would'. It turns 'what was' into 'what would have been'."]),
+    (9, None, ["'if you meant to make things worse.' She plays on his phrase: ", ('elena', 'как'), ('elena', 'хуже'), " is 'as worse', the opposite of his 'trying to help'. ", ('elena', 'захотели'), " is 'you wanted'."]),
+    (10, None, ["'Do you realize...' Let's examine the dialogue: ", ('elena', 'Вы'), ('elena', 'вообще'), ('elena', 'понимаете'), " is 'do you even understand', with the middle word adding the edge, as it did in the kitchen."]),
+    (11, None, ["'that I could file a complaint?' Russians say ", ('elena', 'написать'), ('elena', 'заявление'), ", writing a statement, where English says 'file a complaint'. It is the thing you do at a police desk."]),
+    (12, None, ["'And your chef could go to prison.' English says 'go to prison', and Russian says ", ('elena', 'посадят'), ", meaning 'they will seat'. The same action also means 'sit someone down' and 'plant a tree'."]),
+    (13, None, ["'I understand.' One word, ", ('barinov', 'Понимаю'), '. Barinov is, for once, brief.']),
+    (14, None, ["'Maybe we can settle this without a complaint?' We will analyze this part: ", ('barinov', 'без'), " makes the next word change its ending, so 'complaint' turns into ", ('barinov', 'заявления'), '. ', ('barinov', 'обойдемся'), ", we will manage, reads 'we will go around'."]),
+    (15, None, ["'I will think about it.' It is a polite way of not saying yes. The prefix in ", ('elena', 'подумаю'), " means 'for a while'."]),
 ]

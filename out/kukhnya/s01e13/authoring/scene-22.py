@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = 'Vika has had a terrible day, and she takes it out on Max. She tells him exactly what she thinks, and Max replies with some thoughts about walls. Russian comes first.'
+INTRO = 'Vika has had a terrible day, and she takes it out on Max. She tells him exactly what she thinks, and Max replies with some thoughts about walls. First, the Russian.'
 OPENER = 'The last scene of the episode, slowly.'
 TRANSITION = 'And finally, the whole scene once more.'
-OUTRO = "Vika breaks things off, and Max ends the episode on a thought. If you want to say 'what's the matter?' in Russian, you've just heard it three times. See you in the next episode."
+OUTRO = 'Vika breaks things off, and Max ends the episode on a thought. If you want to ask what is the matter, you have just heard it three times. See you in the next episode.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вик, что с тобой?', 'Vik, what is wrong?', [(303, 'вик')], ''),
@@ -34,20 +34,20 @@ STORY = [
     ('max', 'чтобы с удовольствием их разрушить.', 'so we can enjoy tearing them down.', [(316, 'чтобы')], ''),
 ]
 WALK = [
-    (0, None, "'Vik, what is wrong?' 'Vik' is a short form of Vika. Friends drop the last vowel when they call someone. 'Chto s toboy' is 'what with you', which is the way Russians ask what's wrong."),
-    (1, None, "'What is the matter, Max?' Literally, 'in what the matter', and it's a useful set phrase. 'Delo' on its own means 'business' or 'affair'."),
-    (2, None, "'What is the matter?' It's the same question again, now without his name. 'V chyom' is 'in what', the form 'chto' takes after 'v'."),
-    (3, None, "'I almost got fired today.' 'Menya uvolili' is 'me they fired', so you don't say who. 'Chut ne' is 'nearly', and 's raboty' is 'from work'."),
-    (4, None, "'And it is all thanks to you.' 'Blagodarya tebe' is 'thanks to you'. It's usually said in a good sense, but Vika says it bitterly."),
-    (5, None, "'Max, you are ruining my life.' 'Rushish' is 'you knock down', used for walls and, as here, for lives. 'Moyu zhizn' is 'my life', and only 'moyu' changes its ending."),
-    (6, None, "'That is it.' One word, 'vsyo', which Russians say as a verdict. It closes the matter."),
-    (7, None, "'I do not want to see you.' It's just the plain 'I don't want' and 'to see you', with nothing to soften it. 'Tebya' is the form of 'ty' after 'videt', to see."),
-    (8, None, "'Want me to tell you what is going on?' 'Khochesh, ya tebe skazhu' is literally 'want, I'll tell you'. Russian leaves out 'that'."),
-    (9, None, "'You make everything so complicated.' 'Uslozhnyaesh' is built from 'slozhny', complicated. 'Postoyanno' is 'constantly'."),
-    (10, None, "'Then you blame everyone else.' 'Vinovatymi' is 'guilty', with the 'ymi' that follows 'make'. 'Drugikh' is 'others'."),
-    (11, None, "'Maybe you should look at yourself for the reasons?' 'Stoit' means 'it is worth', so it's 'maybe it's worth'. 'V sebe' is 'in yourself'."),
-    (12, None, "'I have always wondered...' 'Menya udivlyalo' is 'me it surprised'. Russian makes the surprise the subject, and the person the object."),
-    (13, None, "'why people build walls between themselves.' 'Vozvodyat' means 'erect', so it's the verb for building tall things. 'Mezhdu soboy' is 'between themselves', and 'granitsy' means 'borders' or 'boundaries'."),
-    (14, None, "'But there are walls we build on purpose...' 'Est', there are, is said aloud here because it states that such walls exist. 'Kotorye' is 'which', and 'spetsialno' is 'on purpose'."),
-    (15, None, "'so we can enjoy tearing them down.' 'With pleasure' ends the episode with a wink. 'Razrushit', to tear down, shares its root with Vika's 'rushish'."),
+    (0, None, ["'Vik, what is wrong?' Let us focus on the speech: ", ('max', 'Вик'), ' is a short form of Vika. Friends drop the last vowel when they call someone. ', ('max', 'что'), ('max', 'с'), ('max', 'тобой'), " is 'what with you', which is the way Russians ask what is wrong."]),
+    (1, None, ["'What is the matter, Max?' Literally, 'in what the matter', and it is a useful phrase. ", ('vika', 'дело'), " on its own means 'business' or 'affair'."]),
+    (2, None, ["'What is the matter?' It is the same question again, now without his name. ", ('vika', 'В'), ('vika', 'чем'), " is 'in what', the form that 'what' takes after 'in'."]),
+    (3, None, ["'I almost got fired today.' Russian says 'me they fired', using ", ('vika', 'уволили'), ', so you do not say who. ', ('vika', 'чуть'), ('vika', 'не'), " is 'nearly', and ", ('vika', 'с'), ('vika', 'работы'), " is 'from work'."]),
+    (4, None, ["'And it is all thanks to you.' Let us break down the phrase: ", ('vika', 'благодаря'), ('vika', 'тебе'), " is 'thanks to you'. It is usually said in a good sense, but Vika says it bitterly."]),
+    (5, None, ["'Max, you are ruining my life.' Now we can consider the speech: ", ('vika', 'рушишь'), " is 'you knock down', used for walls and, as here, for lives. ", ('vika', 'мою'), ('vika', 'жизнь'), " is 'my life', and only the first word changes its ending."]),
+    (6, None, ["'That is it.' One word, ", ('vika', 'Все'), ', which Russians say as a verdict. It closes the matter.']),
+    (7, None, ["'I do not want to see you.' It is just the plain 'I do not want' and 'to see you', with nothing to soften it. ", ('vika', 'тебя'), " is the form of 'you' after ", ('vika', 'видеть'), ', to see.']),
+    (8, None, ["'Want me to tell you what is going on?' Now let's focus on the sentence: ", ('vika', 'Хочешь'), ', ', ('vika', 'я'), ('vika', 'тебе'), ('vika', 'скажу'), " word-for-word means 'want, I will tell you'. Russian leaves out 'that'."]),
+    (9, None, ["'You make everything so complicated.' We can break down the sentence: ", ('vika', 'усложняешь'), ' is built from a word meaning complicated. ', ('vika', 'постоянно'), " is 'constantly'."]),
+    (10, None, ["'Then you blame everyone else.' Now we can break down the phrase: ", ('vika', 'виноватыми'), " gives 'guilty', pairing the ending that follows 'make'. ", ('vika', 'других'), " is 'others'."]),
+    (11, None, ["'Maybe you should look at yourself for the reasons?' Let's inspect this part: ", ('vika', 'стоит'), " means 'it is worth', so it is 'maybe it is worth'. ", ('vika', 'в'), ('vika', 'себе'), " is 'in yourself'."]),
+    (12, None, ["'I have always wondered...' Let's look at this part: ", ('max', 'Меня'), ('max', 'всегда'), ('max', 'удивляло'), " is 'me it always surprised'. Russian makes the surprise the subject, and the person the object."]),
+    (13, None, ["'why people build walls between themselves.' Now we can consider the phrase: ", ('max', 'возводят'), " means 'erect', so it is the action for building tall things. ", ('max', 'между'), ('max', 'собой'), " is 'between themselves', and ", ('max', 'границы'), " means 'borders' or 'boundaries'."]),
+    (14, None, ["'But there are walls we build on purpose...' Now let's consider the words: ", ('max', 'есть'), ', there are, is said aloud here because it states that such walls exist. ', ('max', 'которые'), " is 'which', and ", ('max', 'специально'), " is 'on purpose'."]),
+    (15, None, ["'so we can enjoy tearing them down.' We will examine this line: ", ('max', 'с'), ('max', 'удовольствием'), ' ends the episode with a wink. ', ('max', 'разрушить'), ", to tear down, shares its root with Vika's earlier word for 'ruining'."]),
 ]
