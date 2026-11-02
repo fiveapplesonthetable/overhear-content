@@ -32,13 +32,13 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Well, folks, this here is a chart, right?' Addressing a group as \"pessoal\" works just like \"folks\" or \"everyone\", and tiny \"ne\" at the end squeezes \"nao e\" — \"isn't it?\" — into one syllable."),
-    (1, None, "'If you look closely, there are some numbers.' Spoken Brazilian Portuguese uses \"tem\", literally \"has\", where English says \"there is\" or \"there are\"."),
-    (2, None, "'Some are good, others are bad.' Both \"bons\" and \"ruins\" change their endings when talking about more than one number, and together they deliver zero real insight."),
-    (3, None, "'We have to look into it. Let's move on.' \"Tem que ver\" is a classic vague office dodge meaning \"someone ought to check on that\", right before \"vamos seguir\" rushes everyone to the next slide."),
-    (4, None, "'Here's another chart, it's the same thing.' Unlike English \"an\" plus \"other\", \"outro\" stands all by itself for \"another\", with no \"um\" needed in front."),
-    (5, None, "'There are some good numbers and other bad ones.' Swapping \"alguns\" for \"uns\" makes \"some\" feel looser and more casual, like waving a hand at the screen."),
-    (6, None, "'But this slide here I made in Canva.' Placing \"esse slide aqui\" ahead of \"eu fiz\" puts pride of place on the slide itself, and \"fiz\" is the completed past of \"fazer\", \"to make\"."),
-    (7, None, "'Sorry, folks.' \"Desculpa\" is the everyday all-purpose \"sorry\" or \"excuse me\" in Brazil, whether you bump into someone or lose track of your talk."),
-    (8, None, "'I am the one who made it too. In Canva too!' Slipping \"que\" between \"eu\" and \"fiz\" — literally \"I that made\" — is how Brazilians stress \"I'm the one who made it\"."),
+    (0, None, ["'Well, folks, this here is a chart, right?' Addressing a group as ", ('apresentador', 'pessoal,'), ' works just like "folks" or "everyone", and tiny ', ('apresentador', 'né?'), ' at the end squeezes the full negative question into one syllable.']),
+    (1, None, ["'If you look closely, there are some numbers.' Spoken Brazilian Portuguese uses ", ('apresentador', 'tem'), ', literally "has", where English says "there is" or "there are".']),
+    (2, None, ["'Some are good, others are bad.' Both ", ('apresentador', 'bons,'), ' and ', ('apresentador', 'ruins.'), ' change their endings when talking about more than one number, and together they deliver zero real insight.']),
+    (3, None, ["'We have to look into it. Let's move on.' ", ('apresentador', 'Tem que ver.'), ' is a classic vague office dodge meaning "someone ought to check on that", right before ', ('apresentador', 'Vamos seguir.'), ' rushes everyone to the next slide.']),
+    (4, None, ['\'Here\'s another chart, it\'s the same thing.\' Unlike English "an" plus "other", ', ('apresentador', 'outro'), ' stands all by itself for "another", with no extra word needed in front.']),
+    (5, None, ["'There are some good numbers and other bad ones.' Swapping a more formal word for ", ('apresentador', 'uns'), ' makes "some" feel looser and more casual, like waving a hand at the screen.']),
+    (6, None, ["'But this slide here I made in Canva.' Placing ", ('apresentador', 'esse slide aqui'), ' ahead of ', ('apresentador', 'eu fiz'), ' puts pride of place on the slide itself, and ', ('apresentador', 'fiz'), ' is the completed past of the verb "to make".']),
+    (7, None, ["'Sorry, folks.' ", ('apresentador', 'Desculpa,'), ' is the everyday all-purpose "sorry" or "excuse me" in Brazil, whether you bump into someone or lose track of your talk.']),
+    (8, None, ["'I am the one who made it too. In Canva too!' Slipping ", ('apresentador', 'que'), ' between ', ('apresentador', 'Eu'), ' and ', ('apresentador', 'fiz'), ' — literally "I that made" — is how Brazilians stress "I\'m the one who made it".']),
 ]

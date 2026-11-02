@@ -33,14 +33,14 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'If I'm going in, I want you to go in too.' Watch how \"entrar\" shifts to \"entre\" after \"eu quero que\": when you say what you want someone else to do, Portuguese swaps the ending to mark it as a wish rather than a fact."),
-    (1, None, "'It's a meeting on Monday morning!' The names for days of the week in Portuguese count up from Sunday as a market day, so \"segunda-feira\" literally means \"second fair\" for Monday."),
-    (2, None, "'But it's pointless for me to join that meeting.' Where English needs \"for me to join\", Portuguese simply puts \"eu\" right in front of \"participar\", and \"dessa\" blends \"de\" with \"essa\"."),
-    (3, None, "'They say a lot of things that I don't understand.' \"Muita coisa\" stays singular even though it means \"many things\", a very natural Brazilian way to talk about a whole pile of stuff."),
-    (4, None, "'You're sweet. Let me tell you something.' Calling a grown coworker \"fofo\" — \"cute\" or \"sweet\" — is pure teasing condescension here, followed by \"deixa eu\", the everyday spoken way to say \"let me\"."),
-    (5, None, "'Look in there. Do you see that young woman over there?' Spoken Brazilian Portuguese trims \"esta\" down to \"ta\", so \"voce ta vendo\" is how people actually ask \"do you see?\"."),
-    (6, None, "'She's a fire warden.' Just like English drops \"a\" in titles at times, Portuguese says \"ela e brigadista\" with no \"uma\" in between when naming someone's job."),
-    (7, None, "'She came here to check a fire extinguisher.' \"Veio\" means \"she came\", and Portuguese links it straight to \"olhar\" without needing an extra word for \"to\"."),
-    (8, None, "'Now she's in a meeting with our team.' \"Numa\" squeezes \"em\" and \"uma\" into one smooth two-beat word meaning \"in a\"."),
-    (9, None, "'That slows everyone else down! I have a lot to sort out.' \"Atrasar\" is built on \"atras\", meaning \"behind\", so slowing people down literally puts them behind schedule."),
+    (0, None, ["'If I'm going in, I want you to go in too.' Watch how ", ('colega', 'entrar'), ' shifts to ', ('colega', 'entre'), ' after ', ('colega', 'eu quero que'), ': when you say what you want someone else to do, Portuguese swaps the ending to mark it as a wish rather than a fact.']),
+    (1, None, ["'It's a meeting on Monday morning!' The names for days of the week in Portuguese count up from Sunday as a market day, so ", ('financeiro', 'segunda-feira'), ' literally means "second fair" for Monday.']),
+    (2, None, ['\'But it\'s pointless for me to join that meeting.\' Where English needs "for me to join", Portuguese simply puts ', ('financeiro', 'eu'), ' right in front of ', ('financeiro', 'participar,'), ', and ', ('financeiro', 'dessa'), ' blends ', ('financeiro', 'de'), ' with ', ('financeiro', 'essa'), '.']),
+    (3, None, ["'They say a lot of things that I don't understand.' ", ('financeiro', 'muita coisa'), ' stays singular even though it means "many things", a very natural Brazilian way to talk about a whole pile of stuff.']),
+    (4, None, ["'You're sweet. Let me tell you something.' Calling a grown coworker ", ('colega', 'fofo'), ' — "cute" or "sweet" — is pure teasing condescension here, followed by ', ('colega', 'deixa eu,'), ' the everyday spoken way to say "let me".']),
+    (5, None, ["'Look in there. Do you see that young woman over there?' Spoken Brazilian Portuguese trims the formal word down to a short sound, so ", ('colega', 'Você tá vendo'), ' is how people actually ask "do you see?".']),
+    (6, None, ['\'She\'s a fire warden.\' Just like English drops "a" in titles at times, Portuguese says ', ('colega', 'Ela é brigadista'), " with no extra word in between when naming someone's job."]),
+    (7, None, ["'She came here to check a fire extinguisher.' ", ('colega', 'Veio'), ' means "she came", and Portuguese links it straight to ', ('colega', 'olhar'), ' without needing an extra word for "to".']),
+    (8, None, ["'Now she's in a meeting with our team.' ", ('colega', 'numa'), ' squeezes the words for "in" and "a" into one smooth two-beat word meaning "in a".']),
+    (9, None, ["'That slows everyone else down! I have a lot to sort out.' The word ", ('financeiro', 'atrasa'), ' is built on the root meaning "behind", so slowing people down literally puts them behind schedule.']),
 ]
