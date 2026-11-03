@@ -1,0 +1,19 @@
+ID = 'paquita-salas-s01e05-scene-14'
+SHOW = 'paquita-salas'
+SEASON = 1
+EPISODE = 5
+SCENE = 14
+TITLE = "Te voy a proponer un juego  (I'm Going to Propose a Game)"
+LEVEL = 'A1 — beginner'
+PAIR = 'es-en'
+LABELS = {'paquita': 'Paquita', 'sofi': 'Sofi'}
+SOURCE_NAME = 'Paquita Salas S01E05: La magia que hay en ti'
+SOURCE_FILE = 'sources/paquita-salas/s01/e05.es.srt'
+
+INTRO = "Right there in the restaurant, Paquita makes Álex's cousin an unforgettable offer: a simple game in which Paquita will turn her into a star with no hard feelings if she ever moves on. Listen to the Spanish first."
+STORY = [('paquita', 'Mira, te voy a proponer un juego. Es un juego muy sencillo.', "Look, I'm going to propose a game to you. It's a very simple game.", [(382, 'Mira, te voy a proponer un juego'), (383, 'Es un juego muy sencillo')], ''), ('paquita', 'Yo te voy a representar como actriz y te voy a convertir en una estrella.', "I'm going to represent you as an actress and turn you into a star.", [(383, 'Yo te voy a representar como actriz'), (384, 'y te voy a convertir en una estrella')], ''), ('paquita', 'Vamos a hacer muchísimas cosas juntas.', 'We are going to do so many things together.', [(385, 'Vamos a hacer muchísimas cosas juntas')], ''), ('paquita', 'Y cuando lo hayamos conseguido, me dejas y ya está.', "And once we've achieved it, you leave me and that's that.", [(386, 'Y cuando lo hayamos conseguido, me dejas y ya está')], ''), ('paquita', '¿Vale? Sin líos, ningún problema. Me dejas y tan amigas.', 'Okay? No drama, no problem at all. You leave me and we stay good friends.', [(387, '¿Vale? Sin líos, ningún problema. Me dejas y tan amigas')], ''), ('sofi', 'Pero, a ver, no entiendo, ¿por qué?', "Wait, I don't understand—why?", [(388, 'Pero, a ver, no entiendo, ¿por qué?')], ''), ('paquita', 'Pues porque es un juego, ya te lo he dicho.', "Because it's a game, like I just told you.", [(389, 'Pues porque es un juego, ya te lo he dicho')], ''), ('paquita', '¿Te apetece jugar?', 'Do you feel like playing?', [(390, '¿Te apetece jugar?')], ''), ('sofi', 'Claro, claro, sí.', 'Of course, sure, yes.', [(390, 'Claro, claro, sí')], ''), ('paquita', 'Pues nada, nos vemos mañana en mi oficina, planta tercera.', 'Alright then, see you tomorrow at my office, third floor.', [(391, 'Pues nada, nos vemos mañana en mi oficina'), (392, 'planta tercera')], ''), ('paquita', 'Y repite conmigo: no al corto.', 'And repeat after me: no to that short film.', [(393, 'Y repite conmigo'), (393, 'No al corto')], 'dropped profanity'), ('sofi', 'No al corto.', 'No to that short film.', [(394, 'No al corto')], 'dropped profanity'), ('paquita', 'Más alto. Bienvenida a PS Management.', 'Louder. Welcome to PS Management.', [(395, 'Más alto'), (397, 'Bienvenida a PS Management')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Look, I'm going to propose a game to you. It's a very simple game.'"), (1, None, "'I'm going to represent you as an actress and turn you into a star.'"), (2, None, "'We are going to do so many things together.'"), (3, None, "'And once we've achieved it, you leave me and that's that.'"), (4, None, "'Okay? No drama, no problem at all. You leave me and we stay good friends.'"), (5, None, "'Wait, I don't understand—why?'"), (6, None, "'Because it's a game, like I just told you.'"), (7, None, "'Do you feel like playing?'"), (8, None, "'Of course, sure, yes.'"), (9, None, "'Alright then, see you tomorrow at my office, third floor.'"), (10, None, "'And repeat after me: no to that short film.'"), (11, None, "'No to that short film.'"), (12, None, "'Louder. Welcome to PS Management.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "You heard '¿te apetece jugar?'—a friendly Peninsular Spanish way to ask 'do you feel like playing?'—and 'nos vemos mañana' for 'see you tomorrow'. Until next time."
+CLOSING = ('paquita', '¡Hasta mañana!')
