@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e01-scene-03'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 1
+SCENE = 3
+TITLE = '記念すべき年の始まりです  (The Start of a Monumental Year)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E01'
+SOURCE_FILE = 'sources/the-naked-director/s02/e01.ja.srt'
+
+INTRO = 'Right outside the interview room, young director Student hurries Muranishi along while Kawada hands out cash advances and keeps their bustling new headquarters running smoothly. Listen for "karibarai", a cash advance for expenses.'
+STORY = [('student', '監督、時間です。急ぎましょう。', "Director, it is time to go. Let's hurry.", [(95, '監督 時間です 急ぎましょう')], ''), ('student', '今日の出演者は、よし、いるな。', "Today's cast members are—good, they are all here.", [(97, '今日の出演者は')], ''), ('student', '社長、仮払いお願いします。', 'President Kawada, could I have the expense advance, please?', [(98, '社長 仮払い お願いします')], ''), ('kawada', 'ちょっと待ってくださいね。はい。', 'Hold on just a moment. Here you go.', [(99, 'ちょっと待ってくださいね'), (100, 'はい')], ''), ('kawada', 'もし女優が泣きだしたら、これを見せてください。', 'If the actress starts crying on set, show her this extra envelope.', [(102, 'もし女優が泣きだしたら これを見せてください')], ''), ('kawada', 'その代わり、今日中に必ず撮りきってください。', 'In return, make sure you finish shooting everything before the day ends.', [(104, '今日中に必ず撮りきってください')], ''), ('student', 'はい、分かりました。了解です！', 'Yes, sir, understood! Copy that!', [(105, 'はい 分かりました 了解です')], ''), ('student', 'みんな乗り込むよ。忘れ物ないようにね。', 'Everyone hop in the van. Make sure nobody leaves anything behind.', [(110, 'みんな乗り込むよ'), (111, '忘れ物ないようにね')], ''), ('kawada', 'これ、配送先違いますよ。お願いしますよ。', 'Hey, the delivery address on this box is wrong. Please get it right.', [(116, 'これ 配送先 違いますよ'), (117, 'お願いします')], ''), ('kawada', '村西さん、今日もよろしくお願いします。', "Mr. Muranishi, let's have another great shoot today.", [(122, '村西さん 今日も よろしくお願いします')], ''), ('muranishi', 'さあそれでは皆さん参りましょう！記念すべき年の始まりです。', 'All right everyone, off we go! It is the start of a monumental year.', [(124, 'さあ それでは 皆さん参りましょう 記念すべき')], ''), ('kawada', '頑張って。', 'Give it your best.', [(125, '頑張って')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Director, it is time to go. Let's hurry.'"), (1, None, "'Today's cast members are—good, they are all here.'"), (2, None, "'President Kawada, could I have the expense advance, please?'"), (3, None, "'Hold on just a moment. Here you go.'"), (4, None, "'If the actress starts crying on set, show her this extra envelope.'"), (5, None, "'In return, make sure you finish shooting everything before the day ends.'"), (6, None, "'Yes, sir, understood! Copy that!'"), (7, None, "'Everyone hop in the van. Make sure nobody leaves anything behind.'"), (8, None, "'Hey, the delivery address on this box is wrong. Please get it right.'"), (9, None, "'Mr. Muranishi, let's have another great shoot today.'"), (10, None, "'All right everyone, off we go! It is the start of a monumental year.'"), (11, None, "'Give it your best.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "shutsuensha" for cast member to "karibarai" for expense advance, you know everyday production office Japanese. Catch you soon!'
+CLOSING = ('kawada', 'じゃあね。')

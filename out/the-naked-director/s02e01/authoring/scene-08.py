@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e01-scene-08'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 1
+SCENE = 8
+TITLE = "ビデオはやめませんよ  (I Won't Stop Making Videos)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'keieisha': '経営者', 'muranishi': '村西', 'takei': '武井'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E01'
+SOURCE_FILE = 'sources/the-naked-director/s02/e01.ja.srt'
+
+INTRO = 'Waiting right outside the police station, Takei takes Muranishi, Kawada, and the retail chain Proprietor to lunch to announce his post-retirement seat on the video regulation board and lay down the law. Listen for "teinen", mandatory retirement age.'
+STORY = [('takei', 'よう、やっぱすぐ出てきたな。お前に報告があるんだよ。', 'Hey, knew you would get out fast. I have news to share with you.', [(317, 'やっぱ すぐ出てきたな'), (320, 'お前に報告があるんだよ')], ''), ('muranishi', 'ビデオ規制委員会？あんたが？', 'The video regulation committee? You joined them?', [(323, 'ビデオ規制委員会？\u3000あんたが')], ''), ('takei', '俺ももう何年かで定年だからな。', 'I hit mandatory retirement age in just a few years myself.', [(325, '俺も もう 何年かで 定年だからな')], ''), ('takei', 'これで定年後もお前をとっちめることができるってわけさ。', 'That way I can keep cracking down on you even after I retire.', [(327, 'これで 定年後も'), (328, 'お前をとっちめることが できるってわけさ')], ''), ('muranishi', 'だまされたと説明したはずです。事前に知ってれば使わない。', "We already explained we were tricked. Had I known beforehand, I wouldn't have cast her.", [(333, 'だまされたと説明したはずです'), (334, '事前に知ってれば')], ''), ('keieisha', '村西さん、あんたホント気をつけろよ。', 'Mr. Muranishi, you really need to be careful.', [(335, '村西さん あんた ホント 気をつけろよ')], ''), ('takei', '今度問題起こしたらビデオ出させねえからな。', "Cause trouble one more time and I won't let you release another video.", [(337, '今度 問題起こしたら ビデオ出させねえからな')], ''), ('muranishi', 'ビデオはやめませんよ。売り続けます。', 'I will not quit making videos. We will keep selling them.', [(338, 'ビデオは やめませんよ'), (339, '売り続けます')], ''), ('takei', 'それを決めるのは委員会なんだよ。', 'The regulation committee is the one who decides that.', [(340, 'それを決めるのは 委員会なんだよ')], ''), ('keieisha', '俺がもう騒ぎ起こさせないようにするから、今回は勘弁してやってよ。', 'I will make sure he causes no more uproar, so let him off this time.', [(342, '俺が もう騒ぎ 起こさせないようにするからよ'), (343, '今回は勘弁してやってよ')], ''), ('takei', '随分甘いな社長。大手チェーンだって容赦しねえからな。', "You are awfully soft on him. I won't go easy on a major chain either.", [(345, '随分 甘いな 社長'), (346, '大手チェーンだって 容赦しねえからな')], ''), ('keieisha', 'おとなしくさせるって約束するからさ。', 'I promise I will keep him in line.', [(347, 'おとなしくさせるって 約束するからさ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Hey, knew you would get out fast. I have news to share with you.'"), (1, None, "'The video regulation committee? You joined them?'"), (2, None, "'I hit mandatory retirement age in just a few years myself.'"), (3, None, "'That way I can keep cracking down on you even after I retire.'"), (4, None, "'We already explained we were tricked. Had I known beforehand, I wouldn't have cast her.'"), (5, None, "'Mr. Muranishi, you really need to be careful.'"), (6, None, "'Cause trouble one more time and I won't let you release another video.'"), (7, None, "'I will not quit making videos. We will keep selling them.'"), (8, None, "'The regulation committee is the one who decides that.'"), (9, None, "'I will make sure he causes no more uproar, so let him off this time.'"), (10, None, "'You are awfully soft on him. I won't go easy on a major chain either.'"), (11, None, "'I promise I will keep him in line.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "teinen" for retirement age to "kanben" for letting someone off the hook, you can follow tense regulatory lunches in Japanese. See you next time!'
+CLOSING = ('keieisha', 'じゃあね。')

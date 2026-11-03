@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e02-scene-13'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 2
+SCENE = 13
+TITLE = '全部回収しましたよ  (I Recalled Every Single Copy)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E02'
+SOURCE_FILE = 'sources/the-naked-director/s02/e02.ja.srt'
+
+INTRO = 'At a jubilant banquet celebrating one hundred thousand copies and one billion yen in sales, Muranishi announces he will invest all one billion yen into satellite TV—until Kawada steps forward and drops a bombshell. Listen for "kaishuu", a product recall.'
+STORY = [('student', '第一位！売り上げ四億一千四百万円！', 'Number one! Four hundred fourteen million yen in sales!', [(717, '位'), (720, '売り上げ')], ''), ('muranishi', '皆様のおかげで十万本！売り上げは十億円突破しました！', 'Thanks to all of you, we hit one hundred thousand copies and topped one billion yen!', [(734, '皆様のおかげで'), (735, '売り上げは'), (735, '突破しました')], ''), ('muranishi', 'しかしここで満足しちゃいけない。我々は次のステップに行くんです。', 'Yet we must not be satisfied here. We are moving to the next step.', [(737, 'ここで満足しちゃいけない'), (738, '我々は次のステップに行くんです')], ''), ('muranishi', 'この十億円、これはすべて衛星に投資します！', 'Every yen of this one billion will be invested into satellite broadcasting!', [(739, 'すべて衛星に投資します')], ''), ('muranishi', 'ビデオテープはいずれ終わる。次に来るのは衛星の時代です。', 'Videotapes will end someday. What comes next is the satellite era.', [(742, 'ビデオテープ'), (743, 'いずれ終わるんですよ'), (744, '次に来るのは衛星の時代')], ''), ('kawada', 'いいかげんにしろ！聞いてませんよ！', 'Enough of this! Nobody told me a word about this!', [(748, 'いいかげんにしろ'), (751, '聞いてませんよ')], ''), ('kawada', 'なんでお金の使い道を村西さんが勝手に決めるんですか！', 'Why are you deciding how to spend company money all on your own!', [(752, 'なんで お金の使い道を 村西さんが勝手に決めるんですか')], ''), ('kawada', 'あなたは会社のことなんか何も考えていない！', "You aren't thinking one bit about this company!", [(756, 'あなたは 会社のことなんか 何も考えていない')], ''), ('kawada', 'あのシリーズは全部回収しましたよ。販売中止です。', 'I recalled every copy of that series. Sales are discontinued.', [(758, '全部 回収しましたよ'), (760, '販売中止です')], ''), ('muranishi', '何を勝手なことをしてるんですか！私の判断だ？', 'What do you think you are doing behind my back!', [(761, '何を勝手なことを してるんですか')], ''), ('kawada', 'これ以上流通させるつもりなら、今後監督ができなくなるんですよ。', 'If we distribute banned tapes any further, you will never be allowed to direct again.', [(768, '流通させるつもりなら'), (770, '監督ができなくなるんですよ')], ''), ('muranishi', 'いいですよ。私が撮らなければいいだけの話だ。', "Fine by me. Then I simply won't direct anymore.", [(771, 'いいですよ'), (772, '私が撮らなければいいだけの話だ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Number one! Four hundred fourteen million yen in sales!'"), (1, None, "'Thanks to all of you, we hit one hundred thousand copies and topped one billion yen!'"), (2, None, "'Yet we must not be satisfied here. We are moving to the next step.'"), (3, None, "'Every yen of this one billion will be invested into satellite broadcasting!'"), (4, None, "'Videotapes will end someday. What comes next is the satellite era.'"), (5, None, "'Enough of this! Nobody told me a word about this!'"), (6, None, "'Why are you deciding how to spend company money all on your own!'"), (7, None, "'You aren't thinking one bit about this company!'"), (8, None, "'I recalled every copy of that series. Sales are discontinued.'"), (9, None, "'What do you think you are doing behind my back!'"), (10, None, "'If we distribute banned tapes any further, you will never be allowed to direct again.'"), (11, None, "'Fine by me. Then I simply won't direct anymore.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "toppa" for breaking past a milestone and "kaishuu" for recalling stock, you can follow dramatic business showdowns in Japanese. Catch you later!'
+CLOSING = ('kawada', 'さようなら。')

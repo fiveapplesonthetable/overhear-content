@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e01-scene-11'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 1
+SCENE = 11
+TITLE = 'すべての決定権を持つ人間です  (He Holds All Decision-Making Power)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kacho': '課長', 'muranishi': '村西', 'shacho': '社長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E01'
+SOURCE_FILE = 'sources/the-naked-director/s02/e01.ja.srt'
+
+INTRO = 'At a breezy helipad, the banker tries to introduce Muranishi to the busy satellite company President, who brushes him off in seconds before boarding his helicopter. Listen for "ketteiken", the authority to decide.'
+STORY = [('kacho', 'あの方ですよ。あとで呼びますので挨拶を。', 'That gentleman is him. Wait here and I will call you over to say hello.', [(425, 'あの方ですよ'), (426, 'あとで呼びますので 挨拶を')], ''), ('shacho', '相変わらず口から出任せで金貸してるんだろ、お前は。', "Still spouting tall tales to lend people money as usual, aren't you.", [(432, '相変わらず 口から出任せで 金貸してるんだろ お前は')], ''), ('kacho', '出任せなんて言ったことありませんよ。数字はウソをつきませんから。', 'I have never told a tall tale, sir. Numbers never lie.', [(433, '出任せなんて 言ったことありませんよ'), (434, '数字はウソをつきませんから')], ''), ('kacho', '本日どうしてもご紹介したい人がいまして、ご挨拶だけでも…', 'I brought someone I really want to introduce today, even just a quick hello...', [(436, 'どうしても ご紹介したい人がいまして'), (437, 'ご挨拶だけでも')], ''), ('shacho', 'ああ、今日は無理だ。二度言わせるな、また今度な。', "No, impossible today. Don't make me repeat myself—next time.", [(438, 'ああ 今日は無理だ'), (440, '二度言わせるな\u3000また今度な')], ''), ('muranishi', '挨拶はいいんですか？', 'Are we skipping the introduction?', [(442, '挨拶は いいんですか')], ''), ('kacho', 'ええ、また機会を設けてじっくり話したいようです。', 'Yes, he wants to set up a proper occasion to talk with you at length.', [(443, 'ええ また機会を設けて じっくり話したいようです')], ''), ('muranishi', '誰なんですか？', 'Who is that man, anyway?', [(445, '誰なんですか')], ''), ('kacho', '今衛星放送の利権を握っている衛星通信会社の代表です。', 'He heads the satellite communications firm that controls satellite broadcast rights.', [(447, '今 衛星放送の利権を'), (448, '衛星通信会社'), (448, '代表です')], ''), ('muranishi', '利権というのは？', 'What do you mean by broadcast rights?', [(452, '利権というのは')], ''), ('kacho', '誰にどの時間で放送させるか、すべての決定権を持つ人間です。', 'He is the man who holds total authority over who gets to broadcast and when.', [(454, '誰に どの時間で放送させるか すべての決定権を持つ人間です')], ''), ('kacho', 'ビールのコマーシャルにも出ている有名人ですよ。', 'He is such a celebrity that he even appears in beer commercials.', [(458, 'ビールの'), (458, '出ている 有名人ですよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'That gentleman is him. Wait here and I will call you over to say hello.'"), (1, None, "'Still spouting tall tales to lend people money as usual, aren't you.'"), (2, None, "'I have never told a tall tale, sir. Numbers never lie.'"), (3, None, "'I brought someone I really want to introduce today, even just a quick hello...'"), (4, None, "'No, impossible today. Don't make me repeat myself—next time.'"), (5, None, "'Are we skipping the introduction?'"), (6, None, "'Yes, he wants to set up a proper occasion to talk with you at length.'"), (7, None, "'Who is that man, anyway?'"), (8, None, "'He heads the satellite communications firm that controls satellite broadcast rights.'"), (9, None, "'What do you mean by broadcast rights?'"), (10, None, "'He is the man who holds total authority over who gets to broadcast and when.'"), (11, None, "'He is such a celebrity that he even appears in beer commercials.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "riken" for vested rights and "ketteiken" for decision-making power, you know key Japanese corporate terms. See you next time!'
+CLOSING = ('kacho', 'じゃあね。')

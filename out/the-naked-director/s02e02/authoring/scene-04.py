@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e02-scene-04'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 2
+SCENE = 4
+TITLE = 'こういうのは鮮度が大事だ  (Freshness Is Everything Here)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E02'
+SOURCE_FILE = 'sources/the-naked-director/s02/e02.ja.srt'
+
+INTRO = 'When nervous newcomer Student loses control during his debut take and infuriates veteran actress Client, Muranishi apologizes profusely and offers ten million yen right on the spot to capture raw emotion in a second take. Listen for "sendo", freshness.'
+STORY = [('muranishi', 'それではゆっくりじっくりと始めてまいりましょう。', 'Now then, let us begin nice and slowly.', [(174, 'それでは ゆっくり じっくりと 始めてまいりましょう')], ''), ('student', 'あっ、すいません、すいません！', 'Oh no—I am so sorry, I am sorry!', [(194, 'あっ すいません すいません')], ''), ('client_f', 'すいませんじゃねえよ！今日もう上がっていいっすか？', "Sorry doesn't cut it! Can I wrap for the day and go home?", [(195, 'すいません'), (200, '今日 もう上がっていいっすか')], ''), ('muranishi', '待て待て、すまなかった、本当にすまなかった。', 'Wait, hold on—I am sorry, truly sorry about that.', [(202, '待て待て'), (204, 'すまなかった\u3000本当にすまなかった')], ''), ('client_f', 'いや、別に監督が謝ることじゃないですけど。', "Well, it isn't really something for you to apologize for, Director.", [(205, 'いや 別に 監督が謝ることじゃないですけど')], ''), ('muranishi', '怒る気持ちは十分に分かる。でも今の君は何よりも美しい。', 'I completely understand your anger, yet right now you look more radiant than ever.', [(206, '怒る気持ちは十分に分かる'), (209, '今の君は 何よりも美しい')], ''), ('muranishi', '今のこの高ぶった感情のまま、もう一本撮らせてくれ。', 'While your emotions are still running this high, let me shoot one more scene.', [(213, '今の この高ぶった感情のまま'), (213, '撮らせてくれ')], ''), ('client_f', 'いや、ホントに不快だったんですけど！', 'No way, that was seriously unpleasant!', [(217, 'ホントに 不快だったんですけど')], ''), ('muranishi', '一千万出す。こういうのは鮮度が大事だ。', 'I will pay ten million yen. Freshness is everything for a scene like this.', [(220, '出す'), (223, 'こういうのは鮮度が大事だ')], ''), ('client_f', 'まあ、考えてもいいですけど。', 'Well... I suppose I could consider it.', [(225, 'まあ'), (226, '考えてもいいですけど')], ''), ('muranishi', 'ありがとう！さすがだ、君は正真正銘のプロだ。', 'Thank you! Just as I thought, you are a true professional to the core.', [(227, 'ありがとう'), (228, 'さすがだ\u3000君は正真正銘のプロだ')], ''), ('muranishi', 'よくやった！君は天才だ！', 'Well done, kid! You are a natural genius!', [(233, 'よくやった'), (234, '君は天才だ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Now then, let us begin nice and slowly.'"), (1, None, "'Oh no—I am so sorry, I am sorry!'"), (2, None, "'Sorry doesn't cut it! Can I wrap for the day and go home?'"), (3, None, "'Wait, hold on—I am sorry, truly sorry about that.'"), (4, None, "'Well, it isn't really something for you to apologize for, Director.'"), (5, None, "'I completely understand your anger, yet right now you look more radiant than ever.'"), (6, None, "'While your emotions are still running this high, let me shoot one more scene.'"), (7, None, "'No way, that was seriously unpleasant!'"), (8, None, "'I will pay ten million yen. Freshness is everything for a scene like this.'"), (9, None, "'Well... I suppose I could consider it.'"), (10, None, "'Thank you! Just as I thought, you are a true professional to the core.'"), (11, None, "'Well done, kid! You are a natural genius!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "kanjou" for emotion to "sendo" for freshness, you can follow Muranishi\'s persuasion tactics in Japanese. Catch you soon!'
+CLOSING = ('muranishi', 'またね。')

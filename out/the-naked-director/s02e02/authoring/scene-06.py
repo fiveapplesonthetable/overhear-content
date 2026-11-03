@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e02-scene-06'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 2
+SCENE = 6
+TITLE = '街でものすごい原石を見つけたんですよ  (I Found an Amazing Diamond in the Rough)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'kawada': '川田', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E02'
+SOURCE_FILE = 'sources/the-naked-director/s02/e02.ja.srt'
+
+INTRO = 'Joining the crew at a barbecue restaurant, Kawada urges Muranishi to invest in discovering new stars, right before actress Client shares a wild karaoke bar story about a pop singer that sparks Muranishi\'s next hit. Listen for "genseki", a diamond in the rough.'
+STORY = [('kawada', 'すいません、遅くなりました。たくさん食べてください。', 'Sorry I am late, everyone. Please eat as much as you want.', [(287, 'すいません 遅くなりました'), (291, 'たくさん食べてください')], ''), ('kawada', '今日ね、街でものすごい原石を見つけたんですよ。', 'Today on the street, I spotted an incredible diamond in the rough.', [(292, '今日ね'), (293, '街で ものすごい原石を 見つけたんですよ')], ''), ('kawada', 'もう少し新人の発掘に力を入れませんか？', "Why don't we put a bit more effort into discovering new talent?", [(296, 'もう少し 新人の発掘に 力を入れませんか')], ''), ('muranishi', 'その子には声かけたんですか？', 'Did you go up and speak to her?', [(297, 'その子には声かけたんですか')], ''), ('kawada', 'まあ、一応。', 'Yes, briefly.', [(298, 'まあ 一応')], ''), ('muranishi', '今は黙っていても志願してくる子たちがいるんですよ。', 'Right now, girls volunteer on their own even without us scouting.', [(300, '今は 黙っていてもね 志願してくる子たちがいるんですよ')], ''), ('muranishi', '全シリーズで五億円の売り上げなんですよ。何を心配してるんです？', 'The whole series is bringing in five hundred million yen—what are you worried about?', [(305, '売り上げなんですよ'), (306, '何を心配してるんです')], ''), ('client_f', 'この前、芸能人がよく来るバーで飲んでたの。', 'The other night, I was having drinks at a bar where celebrities hang out.', [(321, '芸能人がよく来るバーで飲んでたの')], ''), ('muranishi', 'おい、その話詳しく聞かせてくれ。', 'Hold on—tell me every detail of that story.', [(323, 'その話 詳しく聞かせてくれ')], ''), ('client_f', 'ホテル行こうとしたんだけど、近くのカラオケでそのまま…', "We started heading for a hotel, then couldn't wait and ducked into a karaoke box...", [(324, 'ホテル 行こうとしたんだけど'), (326, '近くのカラオケで そのまま')], ''), ('muranishi', 'それで？彼は何て言ったんですか？', 'And then? What did he say to you?', [(328, 'それで？ 彼は何て言ったんですか')], ''), ('muranishi', '今度の作品は芸能界の実録ものです。', 'My newest release is a true-story account from inside show business.', [(366, '実録ものです'), (375, '芸能界の実録もの')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Sorry I am late, everyone. Please eat as much as you want.'"), (1, None, "'Today on the street, I spotted an incredible diamond in the rough.'"), (2, None, "'Why don't we put a bit more effort into discovering new talent?'"), (3, None, "'Did you go up and speak to her?'"), (4, None, "'Yes, briefly.'"), (5, None, "'Right now, girls volunteer on their own even without us scouting.'"), (6, None, "'The whole series is bringing in five hundred million yen—what are you worried about?'"), (7, None, "'The other night, I was having drinks at a bar where celebrities hang out.'"), (8, None, "'Hold on—tell me every detail of that story.'"), (9, None, "'We started heading for a hotel, then couldn't wait and ducked into a karaoke box...'"), (10, None, "'And then? What did he say to you?'"), (11, None, "'My newest release is a true-story account from inside show business.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "genseki" for diamond in the rough to "jitsuroku" for true-story account, you know lively entertainment Japanese. Until next time!'
+CLOSING = ('kawada', 'またね。')
