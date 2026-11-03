@@ -223,9 +223,9 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
     store = Store(config.STORE)
     eng = QwenEngine(settings, voices, log=lambda *a: log(role, *a))
     # Low-entropy sampling locks zero-shot Qwen3-Base onto sky.flac's relaxed British female voice & RP accent
-    temp = 0.60
-    top_k = 30
-    top_p = 0.88
+    temp = 0.54
+    top_k = 25
+    top_p = 0.85
     rep = 1.08
 
     jobs_dir = SHM_ROOT / "jobs_en"
@@ -693,7 +693,7 @@ def run_orchestrator():
                     lang = it["lang"]
                     has_custom = bool(voices.refs.get(it["voice"], {}).get("customVoice"))
                     eng_kind = "en" if (has_custom or lang == "en") else ("ru" if (lang == "ru" and ru_cfg) else ("ar" if (lang == "ar" and ar_cfg) else "qwen"))
-                    n_cands = 2 if lang == "en" else 3
+                    n_cands = 3 if lang == "en" else 3
                     job = {
                         "prio": prio,
                         "episode": ep,
