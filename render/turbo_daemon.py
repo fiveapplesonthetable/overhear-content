@@ -350,7 +350,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             continue
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
-        if ahead_of_round_robin(jobs_dir):
+        if ahead_of_round_robin(jobs_dir, lead=1):
             time.sleep(2.0)
             continue
 
