@@ -114,7 +114,7 @@ def _build_carrier_spec(segments, a, b):
                 while buf and buf[-1] == " ":
                     buf.pop()
                 buf.extend([",", " "])
-            elif buf and buf[-1] not in (" ", "\n", '"', "'", "("):
+            elif buf and buf[-1] not in (" ", "\n", "(") and not (buf[-1] in ('"', "'") and (len(buf) == 1 or buf[-2] == " ")):
                 buf.append(" ")
             punct = ""
             comma_pause = False
@@ -137,7 +137,8 @@ def _build_carrier_spec(segments, a, b):
                 comma_pause = True
             if k == b and not punct:
                 punct = "."
-            for ch in ("name" + punct):
+            ph = "Name" if (core_tail and core_tail in ".!?…") else "name"
+            for ch in (ph + punct):
                 buf.append(ch)
             if k < b:
                 if k + 1 <= b and segments[k + 1]["v"] == "narrator" and not seg_tokens(segments[k + 1]["t"]):
