@@ -227,6 +227,9 @@ class Renderer:
             turn_max = int(self.s["audio"].get("turnMaxChars", 240))
             if lang == "ru" and config.ru_engine(self.s):
                 turn_max = min(turn_max, 90)
+            elif lang == "en":
+                # Keep multi-sentence English chunks <= 145 chars (~9s) so 8s sky.flac + gen never hits Qwen's 20s (12.0s gen) codec window
+                turn_max = min(turn_max, 145)
             for st in textprep.prepare_segment(
                     i, g["v"], g["t"], lang, notes_by_seg.get(i), self.policy, eff_gap, isent_cfg.get(lang, isent_cfg["en"]),
                     ruaccent=self.ruaccent if (lang == "ru" and self.s["stress"]["ruaccentFallback"]) else None,
