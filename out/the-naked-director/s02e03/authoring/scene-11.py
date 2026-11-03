@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e03-scene-11'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 3
+SCENE = 11
+TITLE = '十九億で買いましょう  (Buying It for One Point Nine Billion)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'keieisha': '経営者', 'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E03'
+SOURCE_FILE = 'sources/the-naked-director/s02/e03.ja.srt'
+
+INTRO = 'After her commercial photo shoot, Kuroki confesses she feels like her true self only when filming with Muranishi, while Muranishi seals the 1.9-billion-yen earth station purchase with a briefcase of cash.'
+STORY = [('kuroki', 'あれはわたくしの実像ではありません。', 'That image is not who I truly am.', [(510, 'あれは'), (511, 'わたくしの実像ではありません')], ''), ('kuroki', 'わたくしは村西監督と一緒に作品を撮ってる時だけ、本当のわたくしになれるんです。', 'Only when I am filming a work together with Director Muranishi can I become my true self.', [(513, 'わたくしは'), (514, '村西監督と 一緒に作品を撮ってる時だけ'), (515, '本当のわたくしに なれるんです')], ''), ('keieisha', '狂ってますねえ。', 'You are out of your mind.', [(517, '狂ってますねえ')], ''), ('muranishi', 'いえいえ、今すぐにでも欲しいという意思の表れでございます。', 'Not at all—it is proof of my determination to have this right away.', [(518, 'いえいえいえ 今すぐにでも欲しいという'), (519, '意思の表れでございます')], ''), ('muranishi', 'ズバリいくらで譲っていただけますか？', 'Tell me straight—for how much will you hand it over to me?', [(522, 'ズバリ いくらで 譲っていただけますか')], ''), ('keieisha', 'じゃあ白状します。設備と維持費もろもろ合計で十九億投資したんですよ。', "All right, I'll come clean. Including equipment and maintenance costs, we invested 1.9 billion yen.", [(523, 'じゃあ 白状します'), (524, '設備と維持費もろもろ合計で'), (525, '19億 投資したんですよ')], 'spelled numeral in kanji'), ('keieisha', '売りに出すと大きな負債になります。教祖も早くなんとかしろとうるさいんですけどね。', 'Selling at a loss would leave a huge debt, though our founder keeps nagging me to unload it fast.', [(526, '売りに出すと 大きな負債になります'), (528, '教祖も早くなんとかしろと うるさいんですけどね')], ''), ('muranishi', 'では買いましょう、十九億で。', "Then let's buy it—for 1.9 billion.", [(529, 'では買いましょう 19億で')], 'spelled numeral in kanji'), ('keieisha', 'えっ、ホントですか？', 'Wait—are you serious?', [(530, 'えっ ホントですか')], ''), ('muranishi', 'ここに五億円あります、これは前金ですね。残り十四億円は追ってお支払いいたします。', 'Here is 500 million yen as a down payment. I will pay the remaining 1.4 billion shortly.', [(531, 'ここに５億円あります これは前金ですね'), (532, '残り14億円は 追って お支払いいたします')], 'spelled numerals in kanji'), ('muranishi', 'それとね、これは別で一億円。これはお布施です。', 'And separately, here is another 100 million yen. Consider this a temple donation.', [(533, 'それとね これは別で １億円 これは お布施です')], 'spelled numeral in kanji'), ('keieisha', 'あなたには必ず幸福が訪れます！', 'Happiness will surely visit you!', [(536, 'あなたには 必ず'), (537, '幸福が訪れます')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'That image is not who I truly am.'"), (1, None, "'Only when I am filming a work together with Director Muranishi can I become my true self.'"), (2, None, "'You are out of your mind.'"), (3, None, "'Not at all—it is proof of my determination to have this right away.'"), (4, None, "'Tell me straight—for how much will you hand it over to me?'"), (5, None, "'All right, I'll come clean. Including equipment and maintenance costs, we invested 1.9 billion yen.'"), (6, None, "'Selling at a loss would leave a huge debt, though our founder keeps nagging me to unload it fast.'"), (7, None, "'Then let's buy it—for 1.9 billion.'"), (8, None, "'Wait—are you serious?'"), (9, None, "'Here is 500 million yen as a down payment. I will pay the remaining 1.4 billion shortly.'"), (10, None, "'And separately, here is another 100 million yen. Consider this a temple donation.'"), (11, None, "'Happiness will surely visit you!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With 500 million yen down and an extra 100 million yen handed over as a temple offering, Muranishi walks away owning a complete satellite earth station.'
+CLOSING = ('muranishi', 'さようなら。')

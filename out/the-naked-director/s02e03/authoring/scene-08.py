@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e03-scene-08'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 3
+SCENE = 8
+TITLE = 'ピラニアって臆病なんだ  (Piranhas Are Cowardly)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'furuya': '古谷', 'takei': '武井', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E03'
+SOURCE_FILE = 'sources/the-naked-director/s02/e03.ja.srt'
+
+INTRO = "At Furuya's yakuza office, Detective Takei stares at a tank of piranhas and warns Furuya that brutal foreign gangsters have entered the district, then needles Toshi outside about Muranishi and Kawada."
+STORY = [('takei', 'なんでこんなの飼ってんの？', 'Why are you keeping fish like these?', [(348, 'なんで こんなの飼ってんの')], ''), ('furuya', '先代の趣味だ。生き物が好きな人でな。', "It was my predecessor's hobby. He was a man who loved living creatures.", [(349, '先代の趣味だ 生き物が好きな人でな')], ''), ('takei', 'ピラニアってすげえ臆病なんだってよ。自分よりもでかい相手は絶対に攻撃しねえらしい。', 'They say piranhas are terribly cowardly. Apparently they never attack anything bigger than themselves.', [(352, 'ピラニアって すげえ臆病なんだってよ'), (353, '自分よりも でかい相手は'), (354, '絶対に攻撃しねえらしい')], ''), ('takei', 'でも群れてる時に血なんか見ると興奮しちゃって、食い荒らしにかかるらしい。', 'But in a school, once they spot blood they get frenzied and tear everything apart.', [(356, 'でも 群れてる時に 血なんか見ると 興奮しちゃって'), (357, '食い荒らしにかかるらしい')], ''), ('furuya', '何が言いたいんだ？', 'What are you trying to say?', [(359, '何が言いたいんだ')], ''), ('takei', 'この間歌舞伎町でうちの刑事が斬られたんだよ。犯人が台湾マフィアだっつうんだよ。', 'The other day one of our detectives got slashed in Kabukicho. They say the culprit is Taiwanese mafia.', [(361, 'うちの刑事が斬られたんだよ'), (364, '犯人が'), (365, '台湾マフィアだっつうんだよ')], ''), ('furuya', '武井さんも気をつけないとな。', "You'd better watch your back too, Mr. Takei.", [(367, '武井さんも気をつけないとな')], ''), ('takei', 'バカ、お前らの心配してんだよ。', "Idiot, it's you guys I'm worried about.", [(368, 'バカ'), (369, 'お前らの心配してんだよ')], ''), ('takei', '荒井トシ君、久しぶりだな。いいこと教えてやるよ。', 'Toshi Arai, long time no see. Let me tell you some good news.', [(374, '荒井トシ君 久しぶりだな'), (376, 'いいこと教えてやるよ')], ''), ('takei', '川田、村西切ったぞ。いや、切られたのは川田のほうか。', 'Kawada cut Muranishi loose. Or wait, maybe Kawada was the one who got cut.', [(378, '村西切ったぞ'), (380, 'いや 切られたのは川田のほうか')], ''), ('toshi', 'おい、てめえ…', 'Hey, damn you...', [(377, 'おい てめえ')], ''), ('takei', '裏本作ってたお前らと追っかけっこしてた時は平和だったね。懐かしいよ。', 'Back when I chased you guys around for making underground porn books, things were peaceful. I miss it.', [(387, '裏本作ってたお前らと 追っかけっこしてた時は'), (388, '平和だったね'), (389, '懐かしいよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Why are you keeping fish like these?'"), (1, None, "'It was my predecessor's hobby. He was a man who loved living creatures.'"), (2, None, "'They say piranhas are terribly cowardly. Apparently they never attack anything bigger than themselves.'"), (3, None, "'But in a school, once they spot blood they get frenzied and tear everything apart.'"), (4, None, "'What are you trying to say?'"), (5, None, "'The other day one of our detectives got slashed in Kabukicho. They say the culprit is Taiwanese mafia.'"), (6, None, "'You'd better watch your back too, Mr. Takei.'"), (7, None, "'Idiot, it's you guys I'm worried about.'"), (8, None, "'Toshi Arai, long time no see. Let me tell you some good news.'"), (9, None, "'Kawada cut Muranishi loose. Or wait, maybe Kawada was the one who got cut.'"), (10, None, "'Hey, damn you...'"), (11, None, "'Back when I chased you guys around for making underground porn books, things were peaceful. I miss it.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Takei laughs nostalgically about the simpler days of chasing Toshi over underground magazines, leaving Toshi uneasy about the brewing turf war.'
+CLOSING = ('toshi', 'またね。')

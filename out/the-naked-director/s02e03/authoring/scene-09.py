@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e03-scene-09'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 3
+SCENE = 9
+TITLE = '未来は常に宇宙  (The Future Is Always in Space)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'editor': '編集者', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E03'
+SOURCE_FILE = 'sources/the-naked-director/s02/e03.ja.srt'
+
+INTRO = "Back at the studio, Muranishi's assistant sighs that satellite rights look tough and wishes someone would sell a station cheap—just before Muranishi spots a religious order's cosmic broadcast on television."
+STORY = [('student', '衛星、やっぱり難しそうっすね。', "Getting into satellite really does look difficult, doesn't it?", [(401, '衛星 やっぱり難しそうっすね')], ''), ('muranishi', 'パンツを脱げない人間は、自分の人生を他人事だと思ってる。', "People who can't drop their pants treat their own lives like someone else's business.", [(403, 'パンツを脱げない人間は 自分の人生を他人事だと思ってる')], ''), ('muranishi', 'でも俺は違う。脱ぐ時に脱ぐ。自分の人生だからだ。', "But I'm different. When it's time to strip, I strip—because it's my own life.", [(404, 'でも 俺は違う 脱ぐ時に脱ぐ'), (405, '自分の人生だからだ')], ''), ('student', '村西さん、やっぱかっこいいっすね。', 'Mr. Muranishi, you really are awesome.', [(406, '村西さん やっぱ かっこいいっすね')], ''), ('student', 'なんかもう放送局、誰か安く売ってくれないっすかね。', 'I wish somebody would just sell us a broadcast station for cheap.', [(407, 'なんかもう 放送局 誰か安く売ってくれないっすかね')], ''), ('editor', '争いが起きています。しかし案ずることはない。', 'Conflict is breaking out. Yet there is nothing to fear.', [(420, '争いが起きています'), (421, 'しかし 案ずることはない')], ''), ('editor', '未来は常に宇宙。我々の頭上に降りてきます。', 'The future is always in outer space. It descends right above our heads.', [(422, '未来は常に宇宙'), (423, '我々の頭上に降りてきます')], ''), ('muranishi', '今すぐに用意できるキャッシュは全部でいくらありますか？', 'How much cash in total can we pull together right this instant?', [(419, '今すぐに用意できるキャッシュは 全部で いくらありますか')], ''), ('student', 'その宗教団体、設立四十年もたってるんですって。引っかかる人いるんすね。', 'They say that religious group was founded forty years ago. People actually fall for that stuff.', [(433, 'その宗教団体'), (434, '設立40年もたってるんですって'), (435, '引っかかる人いるんすね')], 'spelled numeral in kanji'), ('muranishi', '人を左右するのはよりどころだからな。ここに救われている人間がそれだけいるっつうことだ。', 'What moves people is having something to lean on. It means that many people feel saved here.', [(436, '人を左右するのは よりどころだからな'), (437, 'ここに救われている人間が それだけいるっつうことだ')], ''), ('student', 'みんな困ってんだなあ。もっと笑ってりゃいいのに。', "Everyone must be hurting. They'd be better off laughing more.", [(438, 'みんな 困ってんだなあ'), (439, 'もっと笑ってりゃいいのに')], ''), ('muranishi', 'そうだな。', "You're right.", [(440, 'そうだな')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Getting into satellite really does look difficult, doesn't it?'"), (1, None, "'People who can't drop their pants treat their own lives like someone else's business.'"), (2, None, "'But I'm different. When it's time to strip, I strip—because it's my own life.'"), (3, None, "'Mr. Muranishi, you really are awesome.'"), (4, None, "'I wish somebody would just sell us a broadcast station for cheap.'"), (5, None, "'Conflict is breaking out. Yet there is nothing to fear.'"), (6, None, "'The future is always in outer space. It descends right above our heads.'"), (7, None, "'How much cash in total can we pull together right this instant?'"), (8, None, "'They say that religious group was founded forty years ago. People actually fall for that stuff.'"), (9, None, "'What moves people is having something to lean on. It means that many people feel saved here.'"), (10, None, "'Everyone must be hurting. They'd be better off laughing more.'"), (11, None, "'You're right.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Realizing the struggling religious order already owns a satellite uplink facility, Muranishi gathers all his cash and drives straight to their compound.'
+CLOSING = ('muranishi', 'じゃあね。')

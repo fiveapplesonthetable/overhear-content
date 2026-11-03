@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-12'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 12
+TITLE = '衛星はうちの命綱なんだよ  (Satellite Is Our Lifeline)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kuroki': '黒木', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = "Back at the studio, preparations begin for Kuroki's comeback shoot—but Kuroki is dismayed to discover a crude script where Muranishi will not even perform alongside her."
+STORY = [('kuroki', 'これなんですか？ホントに。', 'Is this really what we are filming?', [(624, 'これなんですか ホントに')], ''), ('student', 'ええ、そうみたいです。撮り方次第かなとは思ってるんですけど。', 'Yes, so it seems. I think it depends on how we shoot it, though.', [(625, 'そうみたいです'), (628, '撮り方次第かなとは 思ってるんですけど')], ''), ('kuroki', '監督に直接説明していただきたいです。', 'I would like the director to explain this to me in person.', [(632, '監督に直接 説明していただきたいです')], ''), ('kuroki', '村西監督が出ないおつもりですか？', 'Do you intend not to appear in this yourself, Director Muranishi?', [(648, '村西監督が 出ないおつもりですか')], ''), ('muranishi', 'どうした？何か問題があるか？', "What's wrong? Is there some problem with that?", [(649, 'どうした 何か問題があるか')], ''), ('kuroki', 'この作品はイヤです。ホントにこれが監督のやりたいことなんですか？', 'I hate this script. Is this truly what you want to make?', [(650, 'この作品はイヤです'), (651, 'ホントに これが 監督のやりたいことなんですか')], ''), ('muranishi', '俺がやりたいかどうかじゃないんだよ。世の中が何を求めてるかなんだよ。', "It's not about whether I want to do it. It's about what the public is demanding.", [(652, '俺がやりたいかどうかじゃ ないんだよ'), (653, '世の中が何を求めてるかなんだよ')], ''), ('kuroki', '二人で作ることに意味があるんじゃないですか？', "Isn't creating it together the whole reason it has meaning?", [(654, '二人で作ることに 意味があるんじゃないですか')], ''), ('muranishi', 'それは君の思い込みだよ。世の中のニーズに応える必要がある。', "That's just your assumption. We need to answer the market's needs.", [(655, 'それは君の思い込みだよ 世の中のニーズに応える必要がある')], ''), ('kuroki', 'あなたと作りたいんです！', 'I want to make it with you!', [(656, 'あなたと作りたいんです')], ''), ('muranishi', 'わがままを言うんじゃないよ！君はプロだろうが！', "Stop being selfish! You're a professional, aren't you?!", [(657, 'わがままを言うんじゃないよ'), (658, '君はプロだろうが')], ''), ('muranishi', '我々はね、会社全体を背負ってるんだ。衛星はうちの命綱なんだよ。', "We're carrying this whole company on our backs. Satellite is our lifeline.", [(659, '我々はね 会社全体を背負ってるんだ'), (661, '衛星は うちの命綱なんだよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Is this really what we are filming?'"), (1, None, "'Yes, so it seems. I think it depends on how we shoot it, though.'"), (2, None, "'I would like the director to explain this to me in person.'"), (3, None, "'Do you intend not to appear in this yourself, Director Muranishi?'"), (4, None, "'What's wrong? Is there some problem with that?'"), (5, None, "'I hate this script. Is this truly what you want to make?'"), (6, None, "'It's not about whether I want to do it. It's about what the public is demanding.'"), (7, None, "'Isn't creating it together the whole reason it has meaning?'"), (8, None, "'That's just your assumption. We need to answer the market's needs.'"), (9, None, "'I want to make it with you!'"), (10, None, "'Stop being selfish! You're a professional, aren't you?!'"), (11, None, "'We're carrying this whole company on our backs. Satellite is our lifeline.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "As Muranishi insists that catering to market demand on satellite is the entire company's lifeline, the rift between director and muse widens."
+CLOSING = ('kuroki', 'じゃあね。')

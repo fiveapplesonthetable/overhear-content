@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-04'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 4
+TITLE = '新たなエロの形を探してる  (Searching for a New Form)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'chu': 'チュウ', 'kawada': '川田', 'keieisha': '経営者'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = 'Meanwhile, Kawada is adrift after losing his entire staff to Muranishi. At a strip theater, he tells a rival video Proprietor that ordinary productions no longer excite him at all, just as Chu turns up.'
+STORY = [('kawada', '私はどうしようもない男なんです。自分一人じゃなーんにもできない。', 'I am a hopeless man. All by myself I cannot do a single thing.', [(139, '私は どうしようもない男なんです'), (140, '自分一人じゃ')], ''), ('kawada', '誰の支えにもなっていない。社員全員に逃げられたただの豚なんです！', "I'm no support to anyone—just a pig whose entire staff ran out on him!", [(141, '誰の支えにもなっていない'), (142, '社員全員に逃げられた ただの豚なんです')], ''), ('kawada', '新たなエロの形を探してるんですけど、まだ試行錯誤の最中です。', "I'm searching for a new form of erotica, though I'm still in the middle of trial and error.", [(165, '新たなエロの形を 探してるんですけど'), (166, 'まだ試行錯誤の最中です')], ''), ('keieisha', '普通にビデオ作ったらいいんじゃないの？', 'Why not just make ordinary videos?', [(167, '普通にビデオ作ったら いいんじゃないの')], ''), ('kawada', 'もうたくさんですよ。飽きました。', "I've had more than enough of those. I'm tired of them.", [(168, 'もうたくさんですよ'), (169, '飽きました')], ''), ('keieisha', 'なあ、売れる傾向教えてやろうか？', 'Hey, want me to tell you the formula that sells?', [(171, 'なあ 売れる傾向 教えてやろうか')], ''), ('keieisha', '大ヒットとまではいかなくても、これやっときゃ間違いねえってヤツ。', "Even if it won't be a mega-hit, it's a surefire bet if you stick to it.", [(172, '大ヒットとまではいかなくても これやっときゃ間違いねえってヤツ')], ''), ('kawada', 'もう普通じゃ僕、興奮できないんですよ。', "With ordinary stuff, I just can't get excited anymore.", [(174, 'もう 普通じゃ 僕'), (175, '興奮できないんですよ')], ''), ('chu', 'お疲れさまです、社長！', 'Good evening, President!', [(177, 'お疲れさまです')], 'trimmed surname'), ('keieisha', 'おお、来てたのか、チュウさん。', "Oh, so you're here too, Mr. Chu.", [(178, 'おお 来てたのか チュウさん')], ''), ('chu', 'またいいヤツ持ってきたんですよ。お運びしますので。', 'I brought another great item for you. Allow me to carry it to your place.', [(181, 'また いいヤツ持ってきたんですよ'), (182, 'お運びしますので')], ''), ('keieisha', 'いいよ運ばなくて。もうしつこいよ。', 'No need to bring anything. Quit being so pushy.', [(182, 'いいよ 運ばなくて'), (186, 'もう しつこいよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'I am a hopeless man. All by myself I cannot do a single thing.'"), (1, None, "'I'm no support to anyone—just a pig whose entire staff ran out on him!'"), (2, None, "'I'm searching for a new form of erotica, though I'm still in the middle of trial and error.'"), (3, None, "'Why not just make ordinary videos?'"), (4, None, "'I've had more than enough of those. I'm tired of them.'"), (5, None, "'Hey, want me to tell you the formula that sells?'"), (6, None, "'Even if it won't be a mega-hit, it's a surefire bet if you stick to it.'"), (7, None, "'With ordinary stuff, I just can't get excited anymore.'"), (8, None, "'Good evening, President!'"), (9, None, "'Oh, so you're here too, Mr. Chu.'"), (10, None, "'I brought another great item for you. Allow me to carry it to your place.'"), (11, None, "'No need to bring anything. Quit being so pushy.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Inspired by an unusual novelty item after bumping into Chu, Kawada keeps searching for a new path of his own.'
+CLOSING = ('kawada', 'さようなら。')

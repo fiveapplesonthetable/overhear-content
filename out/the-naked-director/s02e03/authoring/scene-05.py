@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e03-scene-05'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 3
+SCENE = 5
+TITLE = '毎月払ってやってんだよ  (Paying Her Every Month)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'mama': 'ママ', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E03'
+SOURCE_FILE = 'sources/the-naked-director/s02/e03.ja.srt'
+
+INTRO = 'After walking a young hostess back to her apartment, Toshi spots an older woman demanding monthly cash from her in the freezing cold and steps in to stop the shakedown.'
+STORY = [('mama', 'こんなクソ寒い所でいつまで待たせんだよ。死んじまうだろ。', "How long are you going to keep me waiting in this freezing cold? I'll freeze to death.", [(202, 'こんなクソ寒い所で いつまで待たせんだよ'), (203, '死んじまうだろ')], ''), ('mama', '今月分、いつ払うんだ？', "When are you paying this month's share?", [(205, '今月分 いつ払うんだ')], ''), ('client_f', '縁起悪いウソつくのやめてよ。', 'Stop telling such morbid lies.', [(209, '縁起悪いウソつくの やめてよ')], ''), ('mama', 'ウソじゃないよ。お前は風邪ひくんじゃないよ。', "It's not a lie. Don't you go catching a cold.", [(210, 'ウソじゃないよ'), (211, 'お前は風邪ひくんじゃないよ')], ''), ('toshi', 'おい！何喝上げされてんだ！', 'Hey! Why are you letting her shake you down?', [(215, 'おい'), (216, '何 喝上げされてんだ')], ''), ('mama', '何すんだよ！兄ちゃん、タバコ持ってないか？', "What's your problem! Hey mister, got any cigarettes?", [(216, '何すんだよ'), (218, '兄ちゃん タバコ持ってないか')], ''), ('toshi', '何してんだよ！おい、ちょっと待てよ！', 'What are you doing! Hey, hold on right there!', [(220, '何してんだよ'), (225, 'おい ちょっと待てよ')], ''), ('mama', 'これ一本もらうよ。じゃあ。', "I'll help myself to one of these. See ya.", [(222, 'これ １本もらうよ'), (223, 'じゃあ')], 'spelled numeral in kanji'), ('toshi', 'おめえ、何なんだよ？あのババアよ。', 'Hey, who the hell was that old hag?', [(228, 'おめえ 何なんだよ あのババアよ')], ''), ('client_f', 'お金、毎月払ってやってんだよ。借金地獄だから。', "I pay her money every month, because she's buried in debt.", [(230, 'お金 毎月払ってやってんだよ'), (231, '借金地獄だから')], ''), ('toshi', 'なんでそんなことすんだよ？', 'Why on earth are you doing that?', [(232, 'なんで そんなこと すんだよ')], ''), ('client_f', 'あんなクズから生まれたんだよ、私。上がってく？', 'That lowlife is the one who gave birth to me. Want to come upstairs?', [(233, 'あんなクズから生まれたんだよ 私'), (236, '上がってく')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'How long are you going to keep me waiting in this freezing cold? I'll freeze to death.'"), (1, None, "'When are you paying this month's share?'"), (2, None, "'Stop telling such morbid lies.'"), (3, None, "'It's not a lie. Don't you go catching a cold.'"), (4, None, "'Hey! Why are you letting her shake you down?'"), (5, None, "'What's your problem! Hey mister, got any cigarettes?'"), (6, None, "'What are you doing! Hey, hold on right there!'"), (7, None, "'I'll help myself to one of these. See ya.'"), (8, None, "'Hey, who the hell was that old hag?'"), (9, None, "'I pay her money every month, because she's buried in debt.'"), (10, None, "'Why on earth are you doing that?'"), (11, None, "'That lowlife is the one who gave birth to me. Want to come upstairs?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Stunned to learn the woman taking her money is her own mother, Toshi follows the young hostess upstairs out of the cold.'
+CLOSING = ('toshi', 'じゃあね。')

@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-09'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 9
+TITLE = '世界っていうものは広いんです  (The World Is Much Wider)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'muranishi': '村西', 'shacho': '社長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = "Refusing to take his humiliation lying down, Muranishi barges into the satellite President's upscale dinner with the conglomerate heiress, shocking the room with his outrageous candor."
+STORY = [('shacho', 'やっぱりワインは赤ですね。ご令嬢もいかがですか？', 'When it comes to wine, red really is best. Would you care for some, madam?', [(469, 'やっぱりワインは赤ですね'), (470, 'ご令嬢もいかがですか')], ''), ('client_f', 'ごめんなさい、どちらかと言えば白が好みなの。', 'Forgive me, if anything I prefer white wine.', [(471, 'ごめんなさい どちらかと言えば 白が好みなの')], ''), ('muranishi', 'それはさぞ退屈だったでしょうね。', 'What a dreadful bore that bragging must have been.', [(477, 'それは さぞ退屈だったでしょうね')], ''), ('shacho', '何なんだお前！衛星はやらないと言ったはずだ。', "What are you doing here! I told you we're giving you no satellite rights.", [(480, '何なんだ お前'), (485, '衛星は やらないと言ったはずだ')], ''), ('muranishi', 'あなたに受けた屈辱を返しに来ただけです。', 'I simply came to pay back the humiliation I received from you.', [(486, 'あなたに受けた屈辱を 返しに来ただけです')], ''), ('shacho', '悪あがきはやめろ、みっともないぞ。', "Quit this pathetic struggle—it's embarrassing.", [(487, '悪あがきは やめろ みっともないぞ')], ''), ('muranishi', 'こんばんは。わたくしね、アダルトビデオの監督をしておりましてね。', 'Good evening. You see, I work as an adult video director.', [(488, 'こんばんは'), (489, 'わたくしね アダルトビデオの 監督をしておりましてね')], ''), ('shacho', 'おい！早くこいつをつまみ出せ。いいから警備呼んでこい！', 'Hey! Throw this guy out right now! Just call security!', [(495, 'おい 早く こいつをつまみ出せ'), (498, 'いいから警備呼んでこい')], ''), ('client_f', 'ビジネスパートナーです、宇宙開発の。', 'He is a business partner of mine in space development.', [(502, 'ビジネスパートナーです 宇宙開発の')], ''), ('muranishi', 'こんな男は不釣り合いだ！あなたが思っているよりね、世界っていうものは広いんです。', 'A man like him is beneath you! The world is far wider than you imagine.', [(507, 'こんな男は不釣り合いだ'), (509, 'あなたが思っているよりね 世界っていうものは広いんです')], ''), ('muranishi', 'いろんなものを見たほうがいいですよ、生きてるうちに。あなたの人生が変わりますよ。', "You ought to see all sorts of things while you're alive. It will change your life.", [(511, 'いろんなものを見たほうが いいですよ 生きてるうちに'), (514, 'あなたの人生が変わりますよ')], ''), ('muranishi', '大げさですね、こんな大勢で。階段くらい一人で歩けますよ。', 'What overkill bringing this many guards. I can walk down stairs on my own.', [(518, '大げさですね こんな大勢で'), (519, '階段くらい一人で歩けますよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'When it comes to wine, red really is best. Would you care for some, madam?'"), (1, None, "'Forgive me, if anything I prefer white wine.'"), (2, None, "'What a dreadful bore that bragging must have been.'"), (3, None, "'What are you doing here! I told you we're giving you no satellite rights.'"), (4, None, "'I simply came to pay back the humiliation I received from you.'"), (5, None, "'Quit this pathetic struggle—it's embarrassing.'"), (6, None, "'Good evening. You see, I work as an adult video director.'"), (7, None, "'Hey! Throw this guy out right now! Just call security!'"), (8, None, "'He is a business partner of mine in space development.'"), (9, None, "'A man like him is beneath you! The world is far wider than you imagine.'"), (10, None, "'You ought to see all sorts of things while you're alive. It will change your life.'"), (11, None, "'What overkill bringing this many guards. I can walk down stairs on my own.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Even as security guards haul Muranishi down the grand staircase, the sheltered heiress looks intrigued rather than offended.'
+CLOSING = ('muranishi', 'じゃあね。')

@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e03-scene-02'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 3
+SCENE = 2
+TITLE = 'その恥じらいを忘れないで  (Never Forget That Shyness)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E03'
+SOURCE_FILE = 'sources/the-naked-director/s02/e03.ja.srt'
+
+INTRO = "Upstairs, a nervous newcomer thanks Muranishi for choosing her and tells Kuroki she applied after watching Kuroki's famous debut, before Muranishi introduces his exclusive actresses to reporters."
+STORY = [('client_f', '選んでくださり、ありがとうございます。', 'Thank you very much for selecting me.', [(74, '選んでくださり ありがとうございます')], ''), ('muranishi', 'その恥じらいを忘れないでください。', 'Please never forget that sense of shyness.', [(75, 'その恥じらいを忘れないでください')], ''), ('kuroki', 'おはようございます。皆さんステキですわ。', 'Good morning. You all look wonderful.', [(78, 'おはようございます'), (79, '皆さん ステキですわ')], ''), ('client_f', '黒木さん、お会いできて光栄です。', 'Ms. Kuroki, it is an honor to meet you.', [(80, '黒木さん'), (82, 'お会いできて光栄です')], ''), ('kuroki', 'こちらこそ光栄ですわ。よろしくお願いいたします。', 'The honor is mine as well. I look forward to working with you.', [(83, 'こちらこそ光栄ですわ'), (85, 'よろしくお願いいたします')], ''), ('muranishi', 'さあ！すけべで世界を変えますよ。', "Now then! Let's change the world through erotica.", [(87, 'さあ すけべで世界を変えますよ')], ''), ('muranishi', 'どんどん自分を磨いてください。そのためにはいくら使ってもかまいません。', 'Keep polishing yourselves. You may spend as much as you like to do that.', [(90, 'どんどん自分を磨いてください'), (91, 'そのためには いくら使ってもかまいません')], ''), ('muranishi', '一番力を入れていることは、間違いなく専属女優たちです。', 'What I am putting the most effort into is without a doubt our exclusive actresses.', [(94, '一番 力を入れていることは'), (95, '間違いなく 専属女優たちです')], 'combined answer'), ('muranishi', '一万人の中から厳選なるオーディションを勝ち抜いてきた人たちですからね。', 'They won their way through a rigorous audition out of ten thousand applicants.', [(97, '１万人の中から'), (98, '厳選なるオーディションを 勝ち抜いてきた人たちですからね')], 'spelled numeral in kanji'), ('muranishi', '日本一幸運な女性たちです。', 'They are the luckiest women in Japan.', [(99, '日本一幸運な女性たちです')], ''), ('muranishi', '私たちが一億カラットの輝きを生み出すのです。', 'We will create the brilliance of a hundred-million-carat diamond.', [(108, '私たちが１億カラットの輝きを 生み出すのです')], 'spelled numeral in kanji'), ('muranishi', '皆さんいいですか？カメラに向かって最高の笑顔でいきますよ。', 'Is everyone ready? Face the cameras and give your very best smiles.', [(109, '皆さん いいですか カメラに向かって'), (111, '最高の笑顔でいきますよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Thank you very much for selecting me.'"), (1, None, "'Please never forget that sense of shyness.'"), (2, None, "'Good morning. You all look wonderful.'"), (3, None, "'Ms. Kuroki, it is an honor to meet you.'"), (4, None, "'The honor is mine as well. I look forward to working with you.'"), (5, None, "'Now then! Let's change the world through erotica.'"), (6, None, "'Keep polishing yourselves. You may spend as much as you like to do that.'"), (7, None, "'What I am putting the most effort into is without a doubt our exclusive actresses.'"), (8, None, "'They won their way through a rigorous audition out of ten thousand applicants.'"), (9, None, "'They are the luckiest women in Japan.'"), (10, None, "'We will create the brilliance of a hundred-million-carat diamond.'"), (11, None, "'Is everyone ready? Face the cameras and give your very best smiles.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "With flashbulbs popping on his new studio's debut press conference, Muranishi turns his full attention back to securing a satellite channel."
+CLOSING = ('kuroki', 'またね。')

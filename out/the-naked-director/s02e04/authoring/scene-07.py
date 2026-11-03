@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-07'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 7
+TITLE = 'あんたにどうにかできんの  (Can You Do Anything About It?)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'furuya': '古谷', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = "At a lively restaurant, Toshi confronts the young hostess after seeing her flirt with customers to pay her mother's debts, only to be left speechless when she asks whether he can actually rescue her."
+STORY = [('client_f', '私何か悪いことした？あんた私の彼氏？', 'Did I do something wrong? What are you, my boyfriend?', [(355, '私 何か悪いことした'), (356, 'あんた 私の彼氏')], ''), ('toshi', '娘の体担保にして借金してんのか？あんなの親じゃねえって。', "Borrowing money using her own daughter's body as collateral? That's no parent.", [(360, '娘の体 担保にして 借金してんのか'), (362, 'あんなの 親じゃねえって')], ''), ('client_f', '安全圏からペチャクチャしゃべんないでよ。何にも知らないくせに。', "Quit chattering at me from your safe zone when you don't know a thing.", [(363, '安全圏から ペチャクチャしゃべんないでよ'), (365, '何にも知らないくせに')], ''), ('toshi', 'お前、心配してっから言ってんだろうがよ！あんなんじゃ地獄じゃねえかよ。', "I'm saying it because I'm worried about you! Living like that is pure hell.", [(366, 'お前 心配してっから 言ってんだろうがよ'), (367, 'あんなんじゃ 地獄じゃねえかよ')], ''), ('client_f', '私はいいの、しかたないの。', "I'm fine with it. There's no helping it.", [(368, '私はいいの しかたないの')], ''), ('toshi', 'おい、いいのかよ？これで！', 'Hey, how can you be okay with this?!', [(370, 'おい いいのかよ これで')], ''), ('client_f', 'じゃああんたにどうにかできんの？', 'Then can you actually do anything about it?', [(371, 'じゃあ あんたに どうにかできんの')], ''), ('client_f', '何黙ってんの？ねえ、何も言えないじゃん！', "Why so quiet? See, you can't say a thing!", [(375, '何 黙ってんの'), (376, 'ねえ 何も言えないじゃん')], ''), ('furuya', 'よう。どうした、怖い顔して。痴話ゲンカか？', "Hey. What's with the grim faces—a lovers' quarrel?", [(378, 'よう'), (379, 'どうした 怖い顔して'), (380, '痴話ゲンカか')], ''), ('client_f', 'お客さんとケンカなんかするわけないじゃないですか。', 'As if I would ever pick a fight with a customer.', [(381, 'お客さんとケンカなんか するわけないじゃないですか')], ''), ('furuya', '十五年の刑期勤め上げた立派な極道だ。今日ようやく出所してきたんだよ。', "He's a fine yakuza who served a full fifteen-year sentence. He finally got out of prison today.", [(387, '15年の刑期勤め上げた 立派な極道だ'), (389, '今日 ようやく 出所してきたんだよ')], 'spelled numeral in kanji'), ('furuya', 'じゃあ、まずは乾杯だ。', "All right, first let's have a toast.", [(400, 'じゃあ まずは乾杯だ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Did I do something wrong? What are you, my boyfriend?'"), (1, None, "'Borrowing money using her own daughter's body as collateral? That's no parent.'"), (2, None, "'Quit chattering at me from your safe zone when you don't know a thing.'"), (3, None, "'I'm saying it because I'm worried about you! Living like that is pure hell.'"), (4, None, "'I'm fine with it. There's no helping it.'"), (5, None, "'Hey, how can you be okay with this?!'"), (6, None, "'Then can you actually do anything about it?'"), (7, None, "'Why so quiet? See, you can't say a thing!'"), (8, None, "'Hey. What's with the grim faces—a lovers' quarrel?'"), (9, None, "'As if I would ever pick a fight with a customer.'"), (10, None, "'He's a fine yakuza who served a full fifteen-year sentence. He finally got out of prison today.'"), (11, None, "'All right, first let's have a toast.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Right after Furuya raises a glass to celebrate a veteran gangster's release after fifteen years in prison, sudden gunfire shatters the room."
+CLOSING = ('toshi', 'またね。')
