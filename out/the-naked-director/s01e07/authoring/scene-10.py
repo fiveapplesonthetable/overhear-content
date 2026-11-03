@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e07-scene-10'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 7
+SCENE = 10
+TITLE = 'さよなら、お母さん  (Goodbye, Mom)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kayo': '加代', 'kuroki': '黒木'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E07'
+SOURCE_FILE = 'sources/the-naked-director/s01/e07.ja.srt'
+
+INTRO = 'At the family table, Kuroki tells her mother Kayo that she has fallen in love with Muranishi, uncovering Kayo\'s painful truth about why she controlled Kuroki\'s whole upbringing before Kuroki leaves home. Listen for "oyako", parent and child.'
+STORY = [('kayo', '自分が何を言ってるか分かってるの？', 'Do you have any idea what you are saying right now?', [(341, '自分が何を言ってるか 分かってるの')], ''), ('kuroki', 'もちろんです。私、あの方のこと人間として愛してしまったんです。', 'Of course I do. I have come to love him deeply as a human being.', [(342, 'もちろんです'), (345, '私 あの方のこと 人間として愛してしまったんです')], ''), ('kayo', 'あなたにはまだ愛なんて分かりません。', 'You do not understand anything about love yet.', [(346, 'あなたには まだ 愛なんて分かりません')], ''), ('kuroki', '奥さんがいる人の間に子供を産むことが愛なの？', 'Is having a child with a married man what love means?', [(348, '奥さんがいる人の間に 子供を産むことが愛なの')], ''), ('kayo', '子供が生意気言わないの！', "Don't talk back so insolently to your mother!", [(349, '子供が生意気 言わないの')], ''), ('kayo', 'あなたが生まれるまでは、あの人は私を愛してくれた。', 'Until you were born, that man loved me.', [(351, 'あなたが生まれるまでは'), (352, 'あの人は私を愛してくれた')], ''), ('kayo', 'でもあなたが生まれたとたん、私から離れていった。', 'Yet the moment you were born, he drifted away from me.', [(353, 'でも あなたが生まれたとたん 私から離れていった')], ''), ('kuroki', '私のことずっと憎かったの？だから縛り続けてきたの？', 'Did you resent me all this time? Is that why you kept tying me down?', [(354, '私のこと ずっと憎かったの'), (355, 'だから縛り続けてきたの')], ''), ('kayo', 'あなたさえいれば、彼との関係が続くから。', 'Because as long as I had you, my connection to him would continue.', [(358, 'あなたさえいれば 彼との関係が続くから')], ''), ('kuroki', '私たち親子ってことより、女ってことのほうが大切なんですね。', 'Being a woman mattered more to both of us than being mother and daughter.', [(360, '私たち親子ってことより'), (361, '女ってことのほうが 大切なんですね')], ''), ('kuroki', 'お母さんのごはん、もっと食べたかった。', 'I wished I could have eaten more of your home cooking, Mom.', [(362, 'お母さんのごはん もっと食べたかった')], ''), ('kuroki', 'さよなら、お母さん。', 'Goodbye, Mom.', [(363, 'さよなら お母さん')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Do you have any idea what you are saying right now?'"), (1, None, "'Of course I do. I have come to love him deeply as a human being.'"), (2, None, "'You do not understand anything about love yet.'"), (3, None, "'Is having a child with a married man what love means?'"), (4, None, "'Don't talk back so insolently to your mother!'"), (5, None, "'Until you were born, that man loved me.'"), (6, None, "'Yet the moment you were born, he drifted away from me.'"), (7, None, "'Did you resent me all this time? Is that why you kept tying me down?'"), (8, None, "'Because as long as I had you, my connection to him would continue.'"), (9, None, "'Being a woman mattered more to both of us than being mother and daughter.'"), (10, None, "'I wished I could have eaten more of your home cooking, Mom.'"), (11, None, "'Goodbye, Mom.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "oyako" for parent and child to "taisetsu" for precious, you can follow deeply emotional family scenes in Japanese. See you soon!'
+CLOSING = ('kuroki', 'さようなら。')

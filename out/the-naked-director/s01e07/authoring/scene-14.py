@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e07-scene-14'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 7
+SCENE = 14
+TITLE = '五千万入ってる  (There Is Fifty Million Inside)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E07'
+SOURCE_FILE = 'sources/the-naked-director/s01/e07.ja.srt'
+
+INTRO = 'Even with an advance payment from the video store chain, Kawada\'s bank book sits just over half of the hundred-million-yen bail target—until Toshi walks in and drops a heavy bag on the desk. Listen for "sakibarai", an advance payment.'
+STORY = [('kawada', 'もう少し時間があれば。', 'If only we had just a little more time.', [(500, 'もう少し時間があれば')], ''), ('toshi', '足りねえだろ。どうすんだよ？', "It isn't enough, right? What are you going to do?", [(502, '足りねえだろ'), (503, 'どうすんだよ')], ''), ('kawada', 'これも無理やり先払いしてもらった分だ。', 'Even this much is an advance I practically begged him to pay early.', [(504, '無理やり先払いしてもらった分だ')], ''), ('kawada', 'これ以上はもう無理だ。', 'Any more than this is impossible now.', [(505, 'これ以上は もう')], ''), ('toshi', '上出来じゃねえか？', "Hey, isn't that a pretty great job?", [(506, '上出来じゃねえか')], ''), ('kawada', 'え？', 'Huh?', [(507, 'え')], ''), ('toshi', '五千万入ってる。', 'There is fifty million yen inside.', [(508, '万入ってる')], ''), ('toshi', '足したらちょうどだ。', 'Put them together and it is right on the mark.', [(509, '足したら ちょうどだ')], ''), ('kawada', 'お前、これどうやって作ったんだよ？', 'Wait, how on earth did you put this money together?', [(510, 'お前'), (511, 'これ どうやって作ったんだよ')], ''), ('toshi', '気にすんなよ。', "Don't worry about it.", [(512, '気にすんなよ')], ''), ('toshi', '迷ってる暇はねえだろ。', "We don't have time to hesitate, do we.", [(513, '迷ってる暇はねえだろ')], ''), ('kawada', 'ああ、そうだな。', 'Yeah, you are right.', [(507, 'え')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'If only we had just a little more time.'"), (1, None, "'It isn't enough, right? What are you going to do?'"), (2, None, "'Even this much is an advance I practically begged him to pay early.'"), (3, None, "'Any more than this is impossible now.'"), (4, None, "'Hey, isn't that a pretty great job?'"), (5, None, "'Huh?'"), (6, None, "'There is fifty million yen inside.'"), (7, None, "'Put them together and it is right on the mark.'"), (8, None, "'Wait, how on earth did you put this money together?'"), (9, None, "'Don't worry about it.'"), (10, None, "'We don't have time to hesitate, do we.'"), (11, None, "'Yeah, you are right.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "sakibarai" for advance payment to "joudeki" for well done, you can follow tense money deadlines in Japanese. Catch you soon!'
+CLOSING = ('toshi', 'またね。')

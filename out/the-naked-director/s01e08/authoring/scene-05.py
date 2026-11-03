@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-05'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 5
+TITLE = "これまでの取り分を変えようじゃないか  (Let's Change Our Cut of the Profits)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'furuya': '古谷', 'ikezawa': '池沢', 'police': '警察官'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'Realizing times have shifted, Ikezawa tells his regulation Officer board that Poseidon will pivot to real-action videos, then visits Furuya to reduce the yakuza\'s profit cut and block Muranishi\'s underground tapes. Listen for "toribun", a share or cut.'
+STORY = [('police', '制裁ですが解除しませんか？今やレンタルビデオ店の最大手ですからね。', 'Shall we lift the retail sanctions? They are now the biggest rental chain.', [(126, '制裁ですが 解除しませんか'), (127, '今や レンタルビデオ店の 最大手ですからね')], ''), ('ikezawa', '確かにそうだな。', 'Yes, you are right about that.', [(128, '確かに そうだな')], ''), ('ikezawa', '時代は変わった。我が社もモザイクを薄めていこうと思っている。', 'Times have changed. Our company also plans to make censoring thinner.', [(137, '時代は変わった'), (139, 'モザイクを 薄めていこうと思っている')], ''), ('furuya', 'あんたにこんな場所は似合わねえぞ。', 'A rough place like this does not suit you.', [(142, 'あんたに こんな場所は似合わねえぞ')], ''), ('ikezawa', '実はな、相談があんだよ。これまでの取り分を変えようじゃないか。', "Actually, I want to talk. Let's change our profit split from before.", [(143, '実はな 相談があんだよ'), (145, 'これまでの取り分を 変えようじゃないか')], ''), ('furuya', '相談というよりは命令に聞こえるな。', 'That sounds a lot more like an order than a consultation.', [(146, '相談というよりは命令に聞こえるな')], ''), ('ikezawa', 'そのかわり今まで裏に流していなかった作品を渡してやる。', 'In return, I will hand you titles we never released underground before.', [(148, 'そのかわり 今まで裏に 流していなかった作品を渡してやる')], ''), ('ikezawa', '販売本数も増やしていい。今よりもうけられるぞ。', 'You can increase the number of copies too. You will make even more money.', [(149, '販売本数も増やしていい'), (150, '今より もうけられるぞ')], ''), ('furuya', '今目立つのは得策じゃねえぞ。', 'Drawing attention right now is not a wise move.', [(153, '今 目立つのは得策じゃねえぞ')], ''), ('ikezawa', 'サツは大丈夫だ。あいつがいる。', 'The cops are fine. We have our man on the inside.', [(154, 'サツは大丈夫だ あいつがいる')], ''), ('ikezawa', 'あとな、村西の裏ビデオは売るんじゃねえ。', "One more thing—stop selling Muranishi's underground videos.", [(157, 'あとな'), (158, '村西の裏ビデオは売るんじゃねえ')], ''), ('ikezawa', 'こいつは命令だ。頼むな。', 'Now that one is an order. Count on you.', [(159, 'こいつは命令だ'), (160, '頼むな')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Shall we lift the retail sanctions? They are now the biggest rental chain.'"), (1, None, "'Yes, you are right about that.'"), (2, None, "'Times have changed. Our company also plans to make censoring thinner.'"), (3, None, "'A rough place like this does not suit you.'"), (4, None, "'Actually, I want to talk. Let's change our profit split from before.'"), (5, None, "'That sounds a lot more like an order than a consultation.'"), (6, None, "'In return, I will hand you titles we never released underground before.'"), (7, None, "'You can increase the number of copies too. You will make even more money.'"), (8, None, "'Drawing attention right now is not a wise move.'"), (9, None, "'The cops are fine. We have our man on the inside.'"), (10, None, "'One more thing—stop selling Muranishi's underground videos.'"), (11, None, "'Now that one is an order. Count on you.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "seisai" for sanctions and "meirei" for an order, you can hear how power shifts behind closed doors in Japanese. See you next time!'
+CLOSING = ('ikezawa', 'またね。')

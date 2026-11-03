@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-17'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 17
+TITLE = "時代に流されたら終わりだろ？  (Swept Away by the Times, You're Finished)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'furuya': '古谷', 'ikezawa': '池沢', 'takei': '武井'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'Detective Takei\'s nationwide sweep arrests Toshi for underground videos and arrests Ikezawa right outside his gates as the sixty-three-year imperial era ends, before Takei warns Muranishi directly. Listen for "midashi", a newspaper headline.'
+STORY = [('takei', '邪魔するよ。摘発だ。', 'Pardon the intrusion. This is a police raid.', [(584, '邪魔するよ'), (585, '摘発だ')], ''), ('takei', '荒井トシを薬物使用の容疑と裏ビデオの制作で逮捕する。', 'We are arresting Toshi Arai on suspicion of drug use and producing underground videos.', [(590, '薬物使用の容疑と 裏ビデオの制作で逮捕する')], ''), ('takei', '日本のポルノ王を逮捕。明日の新聞の見出しはこれで埋まる。', "Japan's industry king arrested—tomorrow's newspaper headlines will be filled with this.", [(593, '日本のポルノ王を逮捕'), (594, '明日の新聞の見出しは これで埋まる')], ''), ('takei', '時代を作ってきた男が時代に流されたら終わりだろ？', 'Once a man who built an era gets swept along by the times, he is finished, right?', [(598, '時代を作ってきた男が'), (599, '時代に流されたら 終わりだろ')], ''), ('ikezawa', 'そういうことか。', 'So that is how it goes.', [(600, 'そういうことか')], ''), ('takei', 'だけどな村西、勘違いすんなよ。', "Listen though, Muranishi, don't get the wrong idea.", [(601, 'だけどな 村西 勘違いすんなよ')], ''), ('takei', '自分で裏に手出したら、俺が直接捕まえに行くからな。', 'If you ever touch underground tapes yourself, I will come arrest you personally.', [(602, '自分で裏に'), (603, 'に行くからな 直接')], ''), ('takei', '覚悟しとけよ。', 'Keep yourself ready for that.', [(604, '覚悟しとけよ')], ''), ('furuya', '俺を逮捕したいのか？', 'Do you want to arrest me next?', [(615, '俺を逮捕したいのか')], ''), ('takei', 'あんたは治安維持のために必要なパーツの一つだ、今んとこはな。', 'For now, you are a necessary piece for keeping order on the streets.', [(618, '治安維持のために必要な パーツの')], ''), ('takei', '俺らとあんたらは表裏一体だからな。', 'Because cops like us and guys like you are two sides of the same coin.', [(625, '俺らとあんたらは 表裏一体だからな')], ''), ('furuya', 'そりゃ約束できねえな。', "Well, I can't make any promises about not coming after you.", [(628, 'そりゃ 約束できねえな')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Pardon the intrusion. This is a police raid.'"), (1, None, "'We are arresting Toshi Arai on suspicion of drug use and producing underground videos.'"), (2, None, "'Japan's industry king arrested—tomorrow's newspaper headlines will be filled with this.'"), (3, None, "'Once a man who built an era gets swept along by the times, he is finished, right?'"), (4, None, "'So that is how it goes.'"), (5, None, "'Listen though, Muranishi, don't get the wrong idea.'"), (6, None, "'If you ever touch underground tapes yourself, I will come arrest you personally.'"), (7, None, "'Keep yourself ready for that.'"), (8, None, "'Do you want to arrest me next?'"), (9, None, "'For now, you are a necessary piece for keeping order on the streets.'"), (10, None, "'Because cops like us and guys like you are two sides of the same coin.'"), (11, None, "'Well, I can't make any promises about not coming after you.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "taihojou" for arrest warrant and "midashi" for headline, you can follow dramatic turning points in modern Japanese history. Catch you soon!'
+CLOSING = ('takei', 'じゃあね。')

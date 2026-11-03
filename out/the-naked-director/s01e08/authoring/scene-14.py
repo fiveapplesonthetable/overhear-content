@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-14'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 14
+TITLE = 'お前の縄張りも整理しろ  (Clean Up Your Territory Too)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'police': '警察官', 'takei': '武井'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'As the emperor falls into critical condition, senior police Officers order a sweeping crackdown across Tokyo before the imperial era changes and warn detective Takei that corrupt officers will be swept out too. Listen for "torishimari", law-enforcement crackdown.'
+STORY = [('police', '元号の改元に伴い、取り締まりの強化を図る予定です。', 'Ahead of the change of imperial era, we plan to intensify law enforcement.', [(438, '元号の改元に伴い'), (441, '取り締まりの強化を図る予定です')], ''), ('police', 'まもなく時代が変わる。', 'Very soon, the era itself will change.', [(442, 'まもなく時代が変わる')], ''), ('police', '国民の安全を実現するために、一斉検挙を着実に推進してもらいたい。', 'To secure public safety, carry out simultaneous mass arrests steadily.', [(443, '国民の安全を実現するために'), (444, '一斉検挙を 着実に推進してもらいたい')], ''), ('police', 'その日が来たら一週間はバラエティ番組の放送を見送らせる。', 'When that day arrives, networks will suspend variety broadcasts for one week.', [(446, 'その日が来たら'), (447, 'バラエティ番組の 放送を見送らせる')], ''), ('police', '都内の清掃作業を一斉に行う。一気に取りかかれ。', 'We will sweep Tokyo clean all at once. Get started immediately.', [(449, '都内の清掃作業を一斉に行う'), (450, '一気に取りかかれ')], ''), ('takei', 'はい！', 'Yes, sir!', [(451, 'はい')], ''), ('police', '気をつけ！敬礼！', 'Attention! Salute!', [(453, '気をつけ'), (454, '敬礼')], ''), ('police', '武井、お前の縄張りも整理しろ。', 'Takei, clean up your own territory too.', [(455, '武井 お前の縄張りも整理しろ')], ''), ('takei', 'きれいに整理してますよ、俺んとこは。', 'My turf is already neatly tidied up, sir.', [(456, 'きれいに整理してますよ 俺んとこは')], ''), ('police', '下手するとお前も掃除されるぞ。', 'Make one misstep and you will get swept away yourself.', [(457, '下手すると お前も掃除されるぞ')], ''), ('takei', 'チッ、冗談じゃねえぞ。', 'Tch, give me a break.', [(458, 'チッ')], ''), ('police', '一斉摘発をする方針を発表いたしました。', 'Authorities announced a policy of simultaneous nationwide raids.', [(464, '一斉摘発をする方針を 発表いたしました')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Ahead of the change of imperial era, we plan to intensify law enforcement.'"), (1, None, "'Very soon, the era itself will change.'"), (2, None, "'To secure public safety, carry out simultaneous mass arrests steadily.'"), (3, None, "'When that day arrives, networks will suspend variety broadcasts for one week.'"), (4, None, "'We will sweep Tokyo clean all at once. Get started immediately.'"), (5, None, "'Yes, sir!'"), (6, None, "'Attention! Salute!'"), (7, None, "'Takei, clean up your own territory too.'"), (8, None, "'My turf is already neatly tidied up, sir.'"), (9, None, "'Make one misstep and you will get swept away yourself.'"), (10, None, "'Tch, give me a break.'"), (11, None, "'Authorities announced a policy of simultaneous nationwide raids.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "kaigen" for changing imperial eras to "nawabari" for turf, you can follow official police briefings in Japanese. Catch you later!'
+CLOSING = ('takei', 'じゃあね。')

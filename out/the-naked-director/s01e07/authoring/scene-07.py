@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e07-scene-07'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 7
+SCENE = 7
+TITLE = 'マスターテープがないんですよね  (The Master Tape Is Missing)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'reika': '麗華', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E07'
+SOURCE_FILE = 'sources/the-naked-director/s01/e07.ja.srt'
+
+INTRO = 'Wearing a suit for job interviews, a young crew Student runs into a former actress from the team who now enjoys steady office work, before rushing back to learn that their master tape is gone. Listen for "jimu sagyou", office clerical work.'
+STORY = [('client_f', 'へえ、みんなで資金集めか。それでスーツ着てんだ。', 'Oh, so you are all raising funds. That explains why you are wearing a suit.', [(220, 'へえ みんなで資金集めか'), (221, 'それでスーツ着てんだ')], ''), ('student', 'そうなんです、もう大変で。', 'Yes, it has been really rough.', [(222, 'そうなんです もう大変で')], ''), ('client_f', '相変わらず落ち着きのない集団だね。', 'Still the same restless bunch as ever, huh.', [(223, '相変わらず 落ち着きのない集団だね')], ''), ('student', '今は普通の仕事を？', 'Do you work an ordinary job now?', [(225, '普通の仕事を')], ''), ('client_f', 'そう、事務作業。地味な仕事だけどちゃんと認めてくれてさ。', 'Yeah, office clerical work. It is plain work, yet people appreciate me properly.', [(226, 'そう 事務作業'), (228, '地味な仕事だけど'), (229, 'ちゃんと認めてくれてさ')], ''), ('student', 'すごく生き生きしててきれいです。', 'You look so vibrant and radiant.', [(234, 'すごく生き生きしてて きれいです')], ''), ('client_f', 'そろそろ会社戻らないとだ。みんなにもよろしく言っといて。', 'I need to head back to the office soon. Say hello to everyone for me.', [(238, 'そろそろ会社 戻らないとだ'), (240, 'みんなにもよろしく言っといて')], ''), ('student', '今度飲みにでも行きませんか？', 'Would you like to go out for a drink sometime?', [(243, '今度 飲みにでも行きませんか')], ''), ('reika', 'ちょっと何やってんの？さっさと次の現場行くよ。', "Hey, what are you doing? Let's hurry to the next side job.", [(247, 'ちょっと何やってんの？ さっさと次の')], ''), ('reika', '何、もうくじけちゃったの？そんなんじゃお金集まんないよ。', "What, discouraged already? We won't raise money like that.", [(249, 'もうくじけちゃったの'), (250, 'そんなんじゃ お金集まんないよ')], ''), ('student', 'いや、それどころじゃないんですよね。', 'No, it is way worse than that right now.', [(248, 'いや それどころじゃないんですよね')], ''), ('student', 'マスターテープがないんですよね。', 'The master tape is missing.', [(254, 'マスターテープがないんですよね')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Oh, so you are all raising funds. That explains why you are wearing a suit.'"), (1, None, "'Yes, it has been really rough.'"), (2, None, "'Still the same restless bunch as ever, huh.'"), (3, None, "'Do you work an ordinary job now?'"), (4, None, "'Yeah, office clerical work. It is plain work, yet people appreciate me properly.'"), (5, None, "'You look so vibrant and radiant.'"), (6, None, "'I need to head back to the office soon. Say hello to everyone for me.'"), (7, None, "'Would you like to go out for a drink sometime?'"), (8, None, "'Hey, what are you doing? Let's hurry to the next side job.'"), (9, None, "'What, discouraged already? We won't raise money like that.'"), (10, None, "'No, it is way worse than that right now.'"), (11, None, "'The master tape is missing.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "shikin" for funds and "aki" or "akiramenai" for never giving up, you can catch lively Tokyo street and office talk. Catch you soon!'
+CLOSING = ('student', 'またね。')

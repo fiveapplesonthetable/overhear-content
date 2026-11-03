@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-02'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 2
+TITLE = 'あなたのことが忘れられなかった  (I Could Not Forget About You)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'At a crowded Tokyo disco party celebrating his return, Muranishi marvels at the energy of modern Japan with Kuroki and sincerely thanks Kawada for protecting their company while he was away. Listen for "nekki", electric enthusiasm or heat.'
+STORY = [('muranishi', 'すごい熱気だ。', 'What incredible energy in here.', [(66, 'すごい熱気だ')], ''), ('kuroki', 'ええ、これが今の日本です。', 'Yes, this is Japan right now.', [(68, 'これが今の日本です')], ''), ('muranishi', '大学は？', 'How is university going?', [(69, '大学は')], ''), ('kuroki', 'こないだ正式に退学しました。', 'I officially withdrew from university the other day.', [(70, 'こないだ 正式に退学しました')], ''), ('muranishi', 'そうか。', 'I see.', [(71, 'そう')], ''), ('kuroki', 'あなたのことが忘れられなかった。', 'I could never get you out of my mind.', [(72, 'あなたのことが忘れられなかった')], ''), ('kawada', '盛り上がってるとこごめんね。取材が入ってるから。', 'Sorry to interrupt the moment, she has a press interview scheduled.', [(73, '盛り上がってるとこ ごめんね'), (75, '取材が入ってるから')], ''), ('kuroki', 'すぐ戻ってきます。', 'I will be right back.', [(76, 'すぐ戻ってきます')], ''), ('muranishi', 'いない間持ちこたえてくれて、ありがとうございます。', 'Thank you for holding everything together while I was gone.', [(79, 'いない間'), (79, 'ありがとうございます')], ''), ('kawada', 'みんなが頑張ってくれました。', 'Everyone worked as hard as they could.', [(80, 'みんなが頑張ってくれました')], ''), ('muranishi', '川田さん、あん時はすいませんでした。', 'Mr. Kawada, I am truly sorry about what happened back then.', [(82, '川田さん'), (83, 'あん時は すいませんでした')], ''), ('kawada', 'やめてくださいよ。これからもいい作品作ってください。', 'Stop apologizing. Just keep making great films with us from here on.', [(84, 'やめてくださいよ'), (85, 'これからも いい作品 作ってください')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'What incredible energy in here.'"), (1, None, "'Yes, this is Japan right now.'"), (2, None, "'How is university going?'"), (3, None, "'I officially withdrew from university the other day.'"), (4, None, "'I see.'"), (5, None, "'I could never get you out of my mind.'"), (6, None, "'Sorry to interrupt the moment, she has a press interview scheduled.'"), (7, None, "'I will be right back.'"), (8, None, "'Thank you for holding everything together while I was gone.'"), (9, None, "'Everyone worked as hard as they could.'"), (10, None, "'Mr. Kawada, I am truly sorry about what happened back then.'"), (11, None, "'Stop apologizing. Just keep making great films with us from here on.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "nekki" for electric energy and "taigaku" for leaving university, you can share heartfelt catch-ups in Japanese. Until next time!'
+CLOSING = ('kawada', 'じゃあね。')

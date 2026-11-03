@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e07-scene-13'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 7
+SCENE = 13
+TITLE = 'もう時代は変わったんですよ  (Times Have Already Changed)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'keieisha': '経営者', 'police': '警察官', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E07'
+SOURCE_FILE = 'sources/the-naked-director/s01/e07.ja.srt'
+
+INTRO = 'On release day, eager shoppers crowd the store for Kuroki\'s debut tape and autographs, and the chain Proprietor cheerfully brushes off an industry Officer complaining about unapproved videos. Listen for "densetsu", a legend.'
+STORY = [('student', '独占販売です！本日発売です！', 'It is an exclusive release! On sale starting today!', [(455, '独占販売です'), (458, '本日発売です')], ''), ('student', '本気の映像です。どうぞ見てってください。', 'This is genuine, unfiltered footage. Please come take a look.', [(460, '本気の映像です'), (461, '見てってください')], ''), ('keieisha', 'これさ、おそらく伝説の作品になるけど興味ある？', 'Listen, this is probably going to become a legendary work—interested?', [(471, 'おそらく伝説の作品に なるけど 興味ある')], ''), ('keieisha', 'だまされたと思って見てみな。', 'Just take a chance and watch it.', [(473, 'だまされたと思って見てみな')], ''), ('police', '通達は届いてますよね？', "You received our official notice, didn't you?", [(483, '通達は届いてますよね')], ''), ('keieisha', 'ああ、あの脅しの紙ですか？あれなら何枚も届いてますよ。', 'Oh, you mean that threat letter? Plenty of copies of that arrived.', [(484, 'ああ あの脅しの紙ですか'), (485, 'あれなら何枚も届いてますよ')], ''), ('police', '審査を通してない作品をなぜ販売するんですか？', 'Why are you selling a film that has not passed inspection?', [(486, '審査を通してない作品を なぜ販売するんですか')], ''), ('keieisha', '別に問題ないでしょ。ポセイドンの作品も置いてないんだから。', 'There is no problem at all. Just as you ordered, we stopped carrying Poseidon titles too.', [(487, '別に問題ないでしょ'), (488, 'ポセイドンの 作品も置いてないんだから')], ''), ('keieisha', 'それでも商売が成立するんでね。', 'And our business is thriving even without them.', [(489, 'それでも商売が成立するんでね')], ''), ('police', 'ビデオ業界の秩序を著しく乱してますよ？', 'You are seriously disrupting order across the video industry, you realize?', [(492, 'ビデオ業界の秩序を 著しく乱してますよ')], ''), ('keieisha', 'もう時代は変わったんですよ。あんたらの大将にそう言っておきな。', 'Times have already changed. Go tell that to your boss.', [(495, 'もう時代は変わったんですよ'), (496, 'あんたらの大将にそう言っておきな')], ''), ('keieisha', 'はい、どうもご苦労さん。ティッシュあげる。', 'All right, thanks for your trouble. Here, have a pack of tissues.', [(497, 'はい どうもご苦労さん'), (498, 'ティッシュあげる')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'It is an exclusive release! On sale starting today!'"), (1, None, "'This is genuine, unfiltered footage. Please come take a look.'"), (2, None, "'Listen, this is probably going to become a legendary work—interested?'"), (3, None, "'Just take a chance and watch it.'"), (4, None, "'You received our official notice, didn't you?'"), (5, None, "'Oh, you mean that threat letter? Plenty of copies of that arrived.'"), (6, None, "'Why are you selling a film that has not passed inspection?'"), (7, None, "'There is no problem at all. Just as you ordered, we stopped carrying Poseidon titles too.'"), (8, None, "'And our business is thriving even without them.'"), (9, None, "'You are seriously disrupting order across the video industry, you realize?'"), (10, None, "'Times have already changed. Go tell that to your boss.'"), (11, None, "'All right, thanks for your trouble. Here, have a pack of tissues.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "densetsu" for legend and "jidai" for era, you can celebrate bold turning points in Japanese. See you next time!'
+CLOSING = ('keieisha', 'じゃあね。')

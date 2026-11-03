@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e07-scene-12'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 7
+SCENE = 12
+TITLE = 'ご納得いただけましたか？  (Have We Convinced You?)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'keieisha': '経営者', 'kuroki': '黒木'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E07'
+SOURCE_FILE = 'sources/the-naked-director/s01/e07.ja.srt'
+
+INTRO = 'Kawada brings Kuroki in person to screen her debut tape for the video chain Proprietor, whose astonishment at the articulate university student wins their studio a nationwide exclusive launch. Listen for "megami", goddess.'
+STORY = [('keieisha', 'これがデビュー作？あんた本当にシロウトさんか？', 'This is your debut work? Are you really an amateur?', [(424, 'これがデビュー作'), (426, 'あんた 本当にシロウトさんか')], ''), ('kuroki', 'ええ、教育学部美術学科の三年生です。', 'Yes, I am a third-year university student majoring in art education.', [(427, 'ええ'), (428, '教育学部 美術学科の')], ''), ('keieisha', 'とんでもねえのがいたな。', 'Someone truly extraordinary was hiding out there.', [(429, 'とんでもねえのがいたな')], ''), ('kuroki', 'ええ、村西監督に開花していただきました。', 'Yes, Director Muranishi helped me blossom.', [(430, 'ええ'), (431, '村西監督に開花していただきました')], ''), ('kuroki', 'この撮影で私は自由を手にしたんです。', 'Through this shoot, I took hold of my own freedom.', [(432, 'この撮影で 私は自由を手にして')], ''), ('keieisha', 'おい、何だこのお姉さん。', 'Hey, who on earth is this young lady?', [(434, 'おい 何だ このお姉さん')], ''), ('kawada', '女神ですよ、我々の。', 'She is our goddess.', [(435, '女神ですよ 我々の')], ''), ('kawada', 'でもポセイドンには逆らえないんでしたっけ？', "Oh, wait—weren't you unable to defy Poseidon?", [(437, 'ポセイドンには 逆らえないんでしたっけ')], ''), ('kawada', 'ほら貝です。ご納得いただけましたか？', 'That sound is a conch shell. Have we convinced you?', [(441, 'ほら貝です'), (443, 'ご納得いただけましたか')], ''), ('keieisha', '十分だ。', 'More than enough.', [(444, '十分だ')], ''), ('kawada', '各店舗、二百本ずつね。', 'Two hundred tapes for each branch store across the country.', [(448, '各店舗'), (449, '本ずつね')], ''), ('kawada', 'よし、お願いします。', "All right, let's make this happen.", [(453, 'よし'), (454, 'お願いします')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'This is your debut work? Are you really an amateur?'"), (1, None, "'Yes, I am a third-year university student majoring in art education.'"), (2, None, "'Someone truly extraordinary was hiding out there.'"), (3, None, "'Yes, Director Muranishi helped me blossom.'"), (4, None, "'Through this shoot, I took hold of my own freedom.'"), (5, None, "'Hey, who on earth is this young lady?'"), (6, None, "'She is our goddess.'"), (7, None, "'Oh, wait—weren't you unable to defy Poseidon?'"), (8, None, "'That sound is a conch shell. Have we convinced you?'"), (9, None, "'More than enough.'"), (10, None, "'Two hundred tapes for each branch store across the country.'"), (11, None, "'All right, let's make this happen.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "megami" for goddess to "dokusen" for exclusive, you can follow triumphant Japanese pitch meetings. Until next time!'
+CLOSING = ('kawada', 'またね。')

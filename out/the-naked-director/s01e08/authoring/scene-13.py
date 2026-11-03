@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-13'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 13
+TITLE = '北海道に帰れ  (Go Back to Hokkaido)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'muranishi': '村西', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'After pulling Toshi off Kawada, Muranishi makes the most painful decision of his career—telling his loyal partner since Sapporo to return to Hokkaido because he cannot forgive Toshi ruining himself for him. Listen for "koukai", regret.'
+STORY = [('muranishi', '俺はお前を信用してる。だけどもう無理だ。', 'I have always trusted you. Yet we cannot go on anymore.', [(404, '俺は お前を信用してる'), (406, 'だけど もう無理だ')], ''), ('muranishi', '北海道に帰れ。あっちでゆっくり過ごせ。', 'Go back to Hokkaido. Live a quiet life up there.', [(408, '北海道に帰れ'), (409, 'あっちで ゆっくり過ごせ')], ''), ('toshi', 'ちょっと待てよ、許してくれよ。', 'Wait a second, please forgive me.', [(410, 'ちょっと待てよ'), (411, '許してくれよ')], ''), ('toshi', 'あんたのためにやったんだぞ。分かってんだろ？', "I did all of it for you. You know that, don't you?", [(412, 'あんたのためにやったんだぞ'), (413, '分かってんだろ')], ''), ('muranishi', '分かってる。分かってるから許せないんだよ、トシ。', 'I do know. Because I know, I cannot forgive it, Toshi.', [(413, '分かってる'), (414, '分かってるから許せないんだよ トシ')], ''), ('toshi', '許してくれよ、ずっと一緒にやってきただろ？', "Forgive me, we built everything together from the start, didn't we?", [(415, '許してくれよ ずっと一緒にやってきただろ')], ''), ('muranishi', 'もう終わりだ。', 'It is over now.', [(422, 'もう終わりだ')], ''), ('toshi', 'まだ終わんねえよ！これからだろうがよ！', 'It is not over! We are just getting started!', [(423, 'まだ終わんねえよ！ これからだろうがよ')], ''), ('toshi', 'これからガンガン稼いで、一緒にいい景色見るんだろうがよ！', 'We were going to earn big and see the view from the top together!', [(424, 'これからガンガン稼いで'), (425, '一緒にいい景色 見るんだろうがよ')], ''), ('muranishi', '出てってくれ。頼む。', 'Leave, please. I am begging you.', [(431, '出てってくれ'), (432, '頼む')], ''), ('toshi', '後悔すんぞ。', 'You are going to regret this.', [(434, '後悔すんぞ')], ''), ('muranishi', 'もうしてる。', 'I already regret it.', [(435, 'もうしてる')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'I have always trusted you. Yet we cannot go on anymore.'"), (1, None, "'Go back to Hokkaido. Live a quiet life up there.'"), (2, None, "'Wait a second, please forgive me.'"), (3, None, "'I did all of it for you. You know that, don't you?'"), (4, None, "'I do know. Because I know, I cannot forgive it, Toshi.'"), (5, None, "'Forgive me, we built everything together from the start, didn't we?'"), (6, None, "'It is over now.'"), (7, None, "'It is not over! We are just getting started!'"), (8, None, "'We were going to earn big and see the view from the top together!'"), (9, None, "'Leave, please. I am begging you.'"), (10, None, "'You are going to regret this.'"), (11, None, "'I already regret it.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "yurusu" for forgiving and "koukai" for regret, you can feel every word of a heartbreaking farewell in Japanese. See you soon!'
+CLOSING = ('muranishi', 'さようなら。')

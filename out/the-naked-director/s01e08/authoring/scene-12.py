@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-12'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 12
+TITLE = 'やっとここまで来たんだろ  (We Finally Made It This Far)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'muranishi': '村西', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'Trapped by Furuya, Toshi sneaks into the office at night looking for Kuroki\'s master tape, where Kawada confronts him, spots needle marks on his arm, and pleads with him not to destroy everything they built. Listen for "tekirekin", severance money.'
+STORY = [('kawada', 'マスターテープならないぞ。俺が持ち帰った。', "The master tapes aren't here. I took them home.", [(375, 'マスターテープなら ないぞ'), (376, '俺が持ち帰った')], ''), ('kawada', 'ちょっと待て。いいから動くなって。', 'Wait a second. Hold still and show me your arm.', [(377, 'ちょっと待て'), (379, 'いいから動くなって')], ''), ('toshi', '痛えな、離せ！', 'Ow, let go of me!', [(379, '離せ'), (380, '離せ')], ''), ('kawada', '保釈金の分だ。', 'Here is your half of the bail money back.', [(381, '保釈金の分だ')], ''), ('toshi', '金なんかいらねえよ。', "I don't want your money.", [(382, '金なんかいらねえよ')], ''), ('kawada', 'じゃあ手切れ金と思って受け取れ。', 'Then take it as severance pay and walk away.', [(383, 'じゃあ 手切れ金と思って受け取れ')], ''), ('kawada', '今武井に狙われたら全部終わるんだよ。', 'If detective Takei targets us right now, everything is finished.', [(387, '狙われたら 全部 終わるんだよ')], ''), ('kawada', '裏ビデオのことも薬のことも、バレたら逃げきれない。', 'Underground tapes and drugs—if that comes out, there is no escape.', [(388, '裏ビデオのことも'), (390, 'それがバレたら 全部 終わりだ 逃げきれない')], ''), ('kawada', '俺ら、やっとここまで来たんだろ！', 'We finally fought our way this far!', [(391, '俺ら やっと ここまで来たんだろ')], ''), ('kawada', '黒木君も巻き添えになるんだぞ！', 'You will drag Kuroki down with us too!', [(395, '黒木君も 巻き添えになるんだぞ')], ''), ('toshi', 'あんな女なんて関係ねえんだよ！', "I don't care one bit about that girl!", [(396, 'あんな女なんて関係ねえんだよ')], ''), ('muranishi', 'やめろ！川田さん！', 'Stop it! Mr. Kawada!', [(397, 'やめろ'), (399, '川田さん')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'The master tapes aren't here. I took them home.'"), (1, None, "'Wait a second. Hold still and show me your arm.'"), (2, None, "'Ow, let go of me!'"), (3, None, "'Here is your half of the bail money back.'"), (4, None, "'I don't want your money.'"), (5, None, "'Then take it as severance pay and walk away.'"), (6, None, "'If detective Takei targets us right now, everything is finished.'"), (7, None, "'Underground tapes and drugs—if that comes out, there is no escape.'"), (8, None, "'We finally fought our way this far!'"), (9, None, "'You will drag Kuroki down with us too!'"), (10, None, "'I don't care one bit about that girl!'"), (11, None, "'Stop it! Mr. Kawada!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "tekirekin" for severance money to "makizoe" for collateral damage, you have dramatic Japanese vocabulary for desperate confrontations. Until next time!'
+CLOSING = ('kawada', 'またね。')

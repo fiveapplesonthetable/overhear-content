@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-07'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 7
+TITLE = '私の武器は言葉です  (Words Are My Weapon)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'keieisha': '経営者', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'On set, Muranishi uses rapid-fire salesmanship behind the viewfinder to create spontaneous magic, and the video chain Proprietor laughs with Kawada over how Muranishi forced Poseidon to copy him. Listen for "buki", a weapon.'
+STORY = [('muranishi', 'セールスをやっていた私の武器は言葉です。', 'From my days as a salesman, words have always been my weapon.', [(202, 'セールスをやっていた 私の武器は 言葉です')], ''), ('muranishi', '言葉の効果はすごいんですよ。', 'The power of spoken words is extraordinary.', [(203, '言葉の効果は すごいんですよ')], ''), ('muranishi', '私はあなたと予定調和ではない世界を作りたいんです。', 'Together with you, I want to create an unscripted world.', [(205, '私は あなたと予定調和ではない 世界を')], ''), ('muranishi', 'ああ美しい、ご覧ください。', 'Oh, how beautiful—please take a look.', [(213, 'ああ 美しい ご覧ください')], ''), ('muranishi', '美しすぎるといっても過言ではないでしょう！', 'It is no exaggeration to call this breathtakingly beautiful!', [(230, '美しすぎるといっても 過言ではないでしょう')], ''), ('keieisha', 'おもしれえじゃねえか、お宅の監督。', "Your director is hilarious, isn't he!", [(245, 'おもしれえじゃねえか お宅の監督')], ''), ('kawada', 'パワーアップして戻ってきましたよ。', 'He came back stronger than ever.', [(246, 'パワーアップして戻ってきましたよ')], ''), ('keieisha', 'なあ、量産するんだろ？', 'Hey, you guys are ramping up mass production too, right?', [(248, 'なあ 量産するんだろ')], ''), ('kawada', 'はい、その時はよろしくお願いします。', 'Yes, and we will be counting on your stores when we do.', [(249, 'はい その時は よろしくお願いします')], ''), ('kawada', '正規の作品も扱えるようになって安心しました。', 'I am relieved we can distribute approved titles normally now too.', [(252, '正規の作品も扱えるようになって 安心しました')], ''), ('keieisha', 'お前らがポルノ王を本気にさせたのが悪いんだぞ。', 'It is your fault for making the industry king get dead serious.', [(257, 'お前らがポルノ王を 本気にさせたのが悪いんだぞ')], ''), ('kawada', '本気じゃないと潰しがいがありませんよ。', "If he isn't serious, crushing him wouldn't be nearly as satisfying.", [(259, '本気じゃないと 潰しがいがありませんよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'From my days as a salesman, words have always been my weapon.'"), (1, None, "'The power of spoken words is extraordinary.'"), (2, None, "'Together with you, I want to create an unscripted world.'"), (3, None, "'Oh, how beautiful—please take a look.'"), (4, None, "'It is no exaggeration to call this breathtakingly beautiful!'"), (5, None, "'Your director is hilarious, isn't he!'"), (6, None, "'He came back stronger than ever.'"), (7, None, "'Hey, you guys are ramping up mass production too, right?'"), (8, None, "'Yes, and we will be counting on your stores when we do.'"), (9, None, "'I am relieved we can distribute approved titles normally now too.'"), (10, None, "'It is your fault for making the industry king get dead serious.'"), (11, None, "'If he isn't serious, crushing him wouldn't be nearly as satisfying.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "buki" for weapon and "seiki" for official distribution, you can follow competitive studio banter in Japanese. Catch you later!'
+CLOSING = ('kawada', 'じゃあね。')
