@@ -1,0 +1,19 @@
+ID = 'paquita-salas-s01e05-scene-09'
+SHOW = 'paquita-salas'
+SEASON = 1
+EPISODE = 5
+SCENE = 9
+TITLE = 'Sigue tocando, por favor  (Keep Playing, Please)'
+LEVEL = 'A1 — beginner'
+PAIR = 'es-en'
+LABELS = {'david': 'David', 'mariona': 'Mariona', 'paquita': 'Paquita'}
+SOURCE_NAME = 'Paquita Salas S01E05: La magia que hay en ti'
+SOURCE_FILE = 'sources/paquita-salas/s01/e05.es.srt'
+
+INTRO = "At home in her pyjamas, Paquita watches Mariona on television and orders comfort food. When a polite young pizza delivery man arrives, he ends up staying to play gentle piano in her living room so she will not spend the evening alone. Let's listen in Spanish first."
+STORY = [('mariona', 'Era una desconocida y ahora estoy nominada a Actriz Revelación.', "I was an unknown and now I'm nominated for Best New Actress.", [(256, 'era una desconocida'), (257, 'y ahora estoy nominada a Actriz Revelación')], ''), ('mariona', 'Son actrices a las que he respetado toda mi vida.', "They're actresses I've respected my whole life.", [(260, 'Son actrices a las que he respetado toda mi vida')], ''), ('david', '¿Francisca Salas?', 'Francisca Salas?', [(266, '¿Francisca Salas?')], ''), ('paquita', 'Uy, qué guapo, ¿no?', "Oh, how handsome, aren't you?", [(267, 'Uy, qué guapo, ¿no?')], ''), ('david', 'Aquí tiene su pizza dos mitades, alitas y panes de ajo con queso.', 'Here is your half-and-half pizza, wings, and cheesy garlic bread.', [(268, 'Aquí tiene su pizza dos mitades, alitas y panes de ajo'), (268, 'con queso')], ''), ('paquita', '¿Tú cómo te llamas?', "What's your name?", [(269, '¿Tú cómo te llamas?')], ''), ('david', 'Me llamo David.', 'My name is David.', [(269, 'te llamas')], 'matched cast role name'), ('paquita', 'Te voy a dar un consejo. Nunca te fíes de nadie.', "I'm going to give you a piece of advice. Never trust anyone.", [(270, 'Te voy a dar un consejo'), (270, 'Nunca te fíes')], ''), ('david', 'No hace falta, la verdad. Vale.', "There's no need, honestly. Alright.", [(271, 'No hace falta, la verdad'), (272, 'Vale')], ''), ('paquita', 'Oye, ¿no te habías ido?', "Hey, hadn't you left?", [(282, '¿No te habías ido?')], ''), ('david', 'Claro que no, señora. ¿Cómo la voy a dejar sola?', "Of course not, ma'am. How could I leave you all alone?", [(283, 'Claro que no, señora. ¿Cómo la voy a dejar sola?')], ''), ('paquita', 'Sigue tocando, por favor, no pares. Lo haces muy bien.', "Keep playing, please, don't stop. You do it really well.", [(284, 'Sigue tocando, por favor, no pares. Lo haces muy bien')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'I was an unknown and now I'm nominated for Best New Actress.'"), (1, None, "'They're actresses I've respected my whole life.'"), (2, None, "'Francisca Salas?'"), (3, None, "'Oh, how handsome, aren't you?'"), (4, None, "'Here is your half-and-half pizza, wings, and cheesy garlic bread.'"), (5, None, "'What's your name?'"), (6, None, "'My name is David.'"), (7, None, "'I'm going to give you a piece of advice. Never trust anyone.'"), (8, None, "'There's no need, honestly. Alright.'"), (9, None, "'Hey, hadn't you left?'"), (10, None, "'Of course not, ma'am. How could I leave you all alone?'"), (11, None, "'Keep playing, please, don't stop. You do it really well.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice 'no hace falta' for 'there's no need', and 'sigue tocando'—literally 'keep playing'—built with 'seguir' plus the '-ndo' form. Until next time."
+CLOSING = ('david', '¡Buenas noches!')

@@ -1,0 +1,19 @@
+ID = 'paquita-salas-s01e05-scene-15'
+SHOW = 'paquita-salas'
+SEASON = 1
+EPISODE = 5
+SCENE = 15
+TITLE = "Que me voy  (I'm Leaving)"
+LEVEL = 'A1 — beginner'
+PAIR = 'es-en'
+LABELS = {'director': 'Director', 'silvia': 'Silvia', 'sofi': 'Sofi'}
+SOURCE_NAME = 'Paquita Salas S01E05: La magia que hay en ti'
+SOURCE_FILE = 'sources/paquita-salas/s01/e05.es.srt'
+
+INTRO = 'Moments after Paquita sweeps out of the restaurant without paying for her drink, the newly signed actress unties her apron, tells her stunned manager she is quitting on the spot, and hugs her coworker goodbye. Listen to the Spanish first.'
+STORY = [('silvia', '¿Cómo ha dicho que se llama? ¿Paquita qué?', 'What did she say her name was? Paquita who?', [(399, '¿Cómo ha dicho que se llama? ¿Paquita qué?')], ''), ('sofi', 'Paquita Salas.', 'Paquita Salas.', [(400, 'Paquita Salas')], ''), ('silvia', 'La Paquita, tía.', 'That Paquita, girl.', [(402, 'La Paquita'), (402, 'Tía')], ''), ('sofi', 'Que me voy.', "I'm leaving.", [(403, 'Que me voy')], ''), ('director', '¿Que te vas dónde?', 'Leaving where?', [(403, '¿Que te vas dónde?')], ''), ('sofi', 'Es que, ¿qué hago aquí?', 'Honestly, what am I doing here?', [(404, '¿Qué hago aquí?')], ''), ('director', 'Ah, pero ¿que te vas de irte?', "Oh, wait—you mean you're leaving for good?", [(405, 'Ah, pero ¿que te vas de irte?')], ''), ('sofi', 'Hasta luego.', 'Goodbye.', [(406, 'Hasta luego')], ''), ('silvia', 'La dirección, que te la dejas. Espérate, espérate.', "The address—you're leaving it behind! Wait, wait up.", [(406, 'La dirección, que te la dejas'), (407, 'Espérate')], ''), ('sofi', 'Te quiero.', 'I love you.', [(408, 'Te quiero')], ''), ('silvia', 'Y yo a ti.', 'And I love you.', [(408, 'Y yo a ti')], ''), ('director', 'Venga, a currar.', 'Come on, back to work.', [(410, 'Venga, a currar')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'What did she say her name was? Paquita who?'"), (1, None, "'Paquita Salas.'"), (2, None, "'That Paquita, girl.'"), (3, None, "'I'm leaving.'"), (4, None, "'Leaving where?'"), (5, None, "'Honestly, what am I doing here?'"), (6, None, "'Oh, wait—you mean you're leaving for good?'"), (7, None, "'Goodbye.'"), (8, None, "'The address—you're leaving it behind! Wait, wait up.'"), (9, None, "'I love you.'"), (10, None, "'And I love you.'"), (11, None, "'Come on, back to work.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice how Spanish puts 'que' in front of a declaration like 'que me voy'—'hey, I'm leaving'—to make an announcement land with extra punch. See you next time."
+CLOSING = ('sofi', '¡Hasta pronto!')

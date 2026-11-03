@@ -1,0 +1,19 @@
+ID = 'paquita-salas-s01e05-scene-16'
+SHOW = 'paquita-salas'
+SEASON = 1
+EPISODE = 5
+SCENE = 16
+TITLE = '¡Por el futuro!  (To the Future!)'
+LEVEL = 'A1 — beginner'
+PAIR = 'es-en'
+LABELS = {'lidia': 'Lidia', 'mariona': 'Mariona', 'paquita': 'Paquita'}
+SOURCE_NAME = 'Paquita Salas S01E05: La magia que hay en ti'
+SOURCE_FILE = 'sources/paquita-salas/s01/e05.es.srt'
+
+INTRO = "In the season finale's closing scene, Paquita, Magüi, Lidia and friends gather at the office to watch the Goya Awards on television. When Mariona wins Best New Actress, she runs back to the stage microphone with a tearful tribute to Paquita Salas, and the room raises a toast to the future. Listen to the Spanish first."
+STORY = [('paquita', 'Y la ganadora al Goya a la Mejor Actriz Revelación es Mariona Terés.', 'And the winner of the Goya for Best New Actress is Mariona Terés.', [(412, 'Y la ganadora al Goya a la Mejor Actriz Revelación es'), (413, 'Mariona Terés')], ''), ('mariona', 'Gracias por confiar en mí y darme esta preciosidad de papel que me ha encantado.', 'Thank you for trusting me and giving me this gorgeous role that I loved.', [(416, 'por confiar en mí'), (417, 'darme esta preciosidad de papel'), (418, 'que me ha encantado')], ''), ('mariona', 'Gracias a mi madre y a todas mis compañeras, que sois todas unas fieras.', 'Thank you to my mother and to all my fellow actresses—you are all fierce.', [(420, 'Gracias a mi madre, a todas mis compañeras'), (421, 'que sois todas unas fieras')], ''), ('mariona', 'No sé qué decir, que gracias.', "I don't know what to say, just thank you.", [(422, 'No sé qué decir, que gracias')], ''), ('mariona', '¡Ay! Perdón. Y a Paquita, Paquita Salas.', 'Oh! Sorry. And to Paquita—Paquita Salas.', [(424, '¡Ay!'), (425, 'Perdón'), (425, 'Paquita Salas')], ''), ('mariona', 'Porque esto no habría sido posible sin ti. ¡Gracias, Paquita!', "Because this wouldn't have been possible without you. Thank you, Paquita!", [(426, 'posible sin ti. ¡Gracias, Paquita!')], ''), ('mariona', '¡Te quiero!', 'I love you!', [(427, '¡Te quiero!')], ''), ('paquita', '¿Qué tal? ¿Bien?', 'How about that? Good?', [(429, '¿Qué tal? ¿Bien?')], ''), ('paquita', 'Por el futuro.', 'To the future.', [(430, 'Por el futuro')], ''), ('lidia', '¡Por el futuro!', 'To the future!', [(431, '¡Por el futuro!')], ''), ('lidia', '¡Hola! Os presento a mi novia.', 'Hello! Everyone, meet my girlfriend.', [(432, '¡Hola!'), (433, 'Os presento a'), (433, 'mi novia')], ''), ('paquita', '¡Uy, hola! ¡Hola, hola!', 'Oh, hello! Hello, hello!', [(433, '¡Uy, hola!'), (434, '¡Hola, hola!')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'And the winner of the Goya for Best New Actress is Mariona Terés.'"), (1, None, "'Thank you for trusting me and giving me this gorgeous role that I loved.'"), (2, None, "'Thank you to my mother and to all my fellow actresses—you are all fierce.'"), (3, None, "'I don't know what to say, just thank you.'"), (4, None, "'Oh! Sorry. And to Paquita—Paquita Salas.'"), (5, None, "'Because this wouldn't have been possible without you. Thank you, Paquita!'"), (6, None, "'I love you!'"), (7, None, "'How about that? Good?'"), (8, None, "'To the future.'"), (9, None, "'To the future!'"), (10, None, "'Hello! Everyone, meet my girlfriend.'"), (11, None, "'Oh, hello! Hello, hello!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "You heard 'por el futuro'—the classic Spanish toast using 'por' for 'here's to'—and 'os presento a' for introducing someone to a group of friends. Congratulations on finishing Season One of Paquita Salas, and see you next time!"
+CLOSING = ('paquita', '¡Hasta la próxima!')
