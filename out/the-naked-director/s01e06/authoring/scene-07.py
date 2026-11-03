@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-07'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 7
+TITLE = '妥協する気はないぞ  (No Intention of Compromising)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'driver': '配達員', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = 'Sitting across from the American star and her manager on the island, Muranishi lays out his artistic philosophy through the interpreter—promising an unforgettable film without a shred of compromise. Listen to the Japanese first.'
+STORY = [('driver', 'お互いにとってタイミングが合ってよかったって。', "She says she's glad the timing worked out for both of you.", [(169, 'お互いにとって'), (169, 'タイミングが合ってよかったって')], ''), ('muranishi', 'ああ、それは俺も思う。いい演技を頼む。', "Yeah, I feel the same way. I'm counting on great acting.", [(170, 'ああ それは俺も思う'), (171, 'いい演技を頼む')], ''), ('muranishi', '世界中の業界に衝撃を与えるつもりだから、妥協する気はないぞ。', "I intend to shock the industry around the world, so I won't compromise.", [(174, '世界中の'), (174, '業界に'), (174, '衝撃を与えるつもりだから'), (175, '妥協する気はないぞ')], ''), ('driver', '彼女も妥協する気はないって。', 'She says she has no intention of compromising either.', [(177, '妥協する気はない')], ''), ('muranishi', '日本の男優は出ない。', 'No Japanese male actors will appear.', [(179, '日本の男優'), (181, 'いや 出ない')], ''), ('muranishi', '何笑ってるんだ？', 'What are they laughing about?', [(185, '何 笑って')], ''), ('driver', '気にしないで。', "Don't mind it.", [(186, '気にしないで')], ''), ('muranishi', '脱いでもらう前に、まず君の心を裸にしたい。', 'Before you take off your clothes, first I want to bare your heart.', [(187, '脱いでもらう前に'), (187, 'まず 君の心を裸にしたい')], ''), ('muranishi', '何て？', 'What did she say?', [(192, '何て')], ''), ('driver', 'そういうのは大丈夫みたい。セクシーに撮影してって。', "She says she's fine without that—just film her looking glamorous.", [(193, 'そういうのは大丈夫みたい'), (194, 'セクシーに撮影して')], ''), ('muranishi', 'そんなの当たり前だ。いいか、先に言っとくぞ。', 'That goes without saying. Listen, let me tell you up front.', [(196, 'そんなの当たり前だ'), (197, 'いいか 先に言っとくぞ')], ''), ('muranishi', '大げさなものは俺は撮らないからな。恥じらいが命だ。', "I don't shoot over-the-top stuff. Subtlety is the soul of it.", [(198, '大げさな'), (198, '俺は'), (198, '撮らないからな'), (199, '恥じらいが命だ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'She says she's glad the timing worked out for both of you.'"), (1, None, "'Yeah, I feel the same way. I'm counting on great acting.'"), (2, None, "'I intend to shock the industry around the world, so I won't compromise.'"), (3, None, "'She says she has no intention of compromising either.'"), (4, None, "'No Japanese male actors will appear.'"), (5, None, "'What are they laughing about?'"), (6, None, "'Don't mind it.'"), (7, None, "'Before you take off your clothes, first I want to bare your heart.'"), (8, None, "'What did she say?'"), (9, None, "'She says she's fine without that—just film her looking glamorous.'"), (10, None, "'That goes without saying. Listen, let me tell you up front.'"), (11, None, "'I don't shoot over-the-top stuff. Subtlety is the soul of it.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice 'dakyou suru ki wa nai', 'I have no intention of compromising', and 'atarimae da', 'that goes without saying'. Until next time."
+CLOSING = ('muranishi', 'じゃあね。')

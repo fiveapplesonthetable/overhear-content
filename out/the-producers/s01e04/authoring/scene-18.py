@@ -1,0 +1,19 @@
+ID = 'the-producers-s01e04-scene-18'
+SHOW = 'the-producers'
+SEASON = 1
+EPISODE = 4
+SCENE = 18
+TITLE = '오늘은 남자가 선택합니다  (Today the Men Make the Choice)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ko-en'
+LABELS = {'cindy': '신디', 'joonmo': '라준모', 'writer': '손지연'}
+SOURCE_NAME = '프로듀사 (The Producers) S1.04'
+SOURCE_FILE = 'sources/the-producers/s01/e04.ko.srt'
+
+INTRO = 'At the outdoor starting line, Cindy disarms the older female guests with polite greetings before Joon-mo announces the couple-selection game and the penalty for anyone left unchosen. Listen for "nago", falling behind or being stranded from the main group.'
+STORY = [('cindy', '안녕하세요, 언니! 반가워요, 언니.', 'Hello, older sister! Nice to meet you.', [(906, '안녕하세요, 언니'), (907, '반가워요, 언니')], ''), ('cindy', '말씀 편하게 하세요. 저보다 훨씬 언니시잖아요.', 'Please speak comfortably with me. You are much older than I am.', [(909, '말씀 편하게 하세요'), (910, '저보다 훨씬 언니시잖아요')], ''), ('writer', '원래 연예인 하려다 작가 되신 거 아니에요?', "Didn't you originally prepare to become a celebrity before becoming a writer?", [(924, '원래 연예인 하려다 작가 되신 거 아니에요')], ''), ('writer', '다들 작가 같지 않다고는 해요.', "Everyone does say I don't look like a typical writer.", [(926, '다들 작가 같지 않다고는 해요')], ''), ('cindy', '저 오늘 남자가 선택해요, 여자가 선택해요?', 'Excuse me, do the men choose today, or do the women choose?', [(929, '저 오늘 남자가 선택해요? 여자가 선택해요')], ''), ('joonmo', '오늘은 남자가 선택합니다.', 'Today, the men make the choice.', [(930, '오늘은 남자가 선택합니다')], ''), ('joonmo', '여기서 선택을 못 받아서 낙오되신 분들은 신입 피디와 함께 갑니다.', 'Anyone not chosen here and left behind will travel with our rookie producer.', [(931, '여기서 선택을 못 받아서 낙오되신 분들은'), (932, '저기 있는 신입')], ''), ('joonmo', '베이스캠프가 아닌 낙오지로 이동을 하게 되겠습니다.', 'You will head to a remote camp instead of base camp.', [(934, '베이스 캠프가 아닌'), (935, '이동을 하게 되겠습니다')], ''), ('joonmo', '거기서 하룻밤 주무시고 내일 아침 일찍 찾아와 주시면 됩니다.', 'Spend one night there and find your way to base camp early tomorrow morning.', [(936, '하룻밤 주무시고'), (937, '내일 아침 일찍 베이스 캠프까지 찾아와 주시면 되겠습니다')], ''), ('joonmo', '자, 우리 남자 멤버분들 마음 정하셨죠?', 'All right, have our male members made up their minds?', [(938, '자 우리 남자 멤버 분들 마음 정하셨죠')], ''), ('joonmo', '여자 멤버분들 앞으로 나와 주시면 되겠습니다.', 'Will our female members please step forward.', [(939, '일단 우리 여자 멤버 분들'), (940, '앞으로 나와 주시면 되겠습니다')], ''), ('joonmo', '자, 마음 정하셨으면 출발! 하나, 둘, 셋!', 'Now, if you have decided, off you go! One, two, three!', [(941, '자 마음 정하셨으면 출발'), (945, '하나, 둘, 셋')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Hello, older sister! Nice to meet you.'"), (1, None, "'Please speak comfortably with me. You are much older than I am.'"), (2, None, "'Didn't you originally prepare to become a celebrity before becoming a writer?'"), (3, None, "'Everyone does say I don't look like a typical writer.'"), (4, None, "'Excuse me, do the men choose today, or do the women choose?'"), (5, None, "'Today, the men make the choice.'"), (6, None, "'Anyone not chosen here and left behind will travel with our rookie producer.'"), (7, None, "'You will head to a remote camp instead of base camp.'"), (8, None, "'Spend one night there and find your way to base camp early tomorrow morning.'"), (9, None, "'All right, have our male members made up their minds?'"), (10, None, "'Will our female members please step forward.'"), (11, None, "'Now, if you have decided, off you go! One, two, three!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "seontaek" for choice to "nago" for being left behind, you can follow every twist of a Korean outdoor game show. See you next time!'
+CLOSING = ('joonmo', '안녕히 가세요.')

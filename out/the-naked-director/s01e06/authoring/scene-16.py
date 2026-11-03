@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-16'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 16
+TITLE = "四回死んでも足りない  (Dying Four Times Wouldn't Be Enough)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'driver': '配達員', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = "In the episode's dramatic finale, the lead actress delivers a stinging goodbye, federal agents tipped off by the coordinator raid the hotel to arrest Muranishi, and Muranishi answers reporters with an unforgettable line about a rumored 370-year sentence. Let's listen in Japanese first."
+STORY = [('muranishi', 'ああ、いいんだ。もう帰るのか？もっと楽しんでいけばいいのに。', "Oh, it's fine. Leaving already? You should stay and enjoy yourself longer.", [(500, 'ああ いいんだ'), (501, 'もう帰るのか'), (501, 'もっと楽しんでいけばいいのに')], ''), ('driver', '今回の撮影はすごく勉強になったって。', 'She says this shoot was a real learning experience for her.', [(504, '今回の撮影は'), (504, 'すごく勉強になった')], ''), ('muranishi', 'おお、そうか、それはよかった。どんなところが？', "Oh, is that right? That's great. Which part in particular?", [(506, 'おお そうか それはよかった'), (507, 'どんなところが')], ''), ('muranishi', '日本が何だって？ん？何だって？', 'What did she say about Japan? Huh? What was that?', [(510, '日本が何だって'), (513, '何だって')], ''), ('muranishi', 'おい、ちょっと待ってくれ！', 'Hey, hold on a minute!', [(519, 'ちょっと待ってくれ')], ''), ('driver', '約束どおり、すぐに解放して。', 'Just like you promised, let them go soon.', [(522, '約束どおり すぐに解放して')], ''), ('muranishi', '痛い、痛い！何だよ、おい、離せよ！', 'Ow, that hurts! What the heck, hey, let go of me!', [(531, '痛い 痛い'), (532, '何だよ おい 離せよ')], ''), ('client_f', '村西さん！', 'Mr. Muranishi!', [(537, '村西さん')], ''), ('client_f', '村西さん、懲役三百七十年といううわさが出ていますが？', 'Mr. Muranishi, rumors are circulating of a three-hundred-seventy-year prison sentence?', [(538, '村西さん 懲役'), (538, 'うわさが出ていますが')], ''), ('muranishi', '三百七十年？', 'Three hundred and seventy years?', [(539, '年')], ''), ('client_f', 'それについてひと言お願いします。', 'Could you give us a word about that, please?', [(540, 'それについてひと言 お願いします')], ''), ('muranishi', 'そんなの、四回死んでも足りないじゃないですか。', "At that rate, even if I died four times it wouldn't be enough, would it?", [(541, 'そんなの'), (541, '死んでも'), (541, '足りないじゃないですか')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Oh, it's fine. Leaving already? You should stay and enjoy yourself longer.'"), (1, None, "'She says this shoot was a real learning experience for her.'"), (2, None, "'Oh, is that right? That's great. Which part in particular?'"), (3, None, "'What did she say about Japan? Huh? What was that?'"), (4, None, "'Hey, hold on a minute!'"), (5, None, "'Just like you promised, let them go soon.'"), (6, None, "'Ow, that hurts! What the heck, hey, let go of me!'"), (7, None, "'Mr. Muranishi!'"), (8, None, "'Mr. Muranishi, rumors are circulating of a three-hundred-seventy-year prison sentence?'"), (9, None, "'Three hundred and seventy years?'"), (10, None, "'Could you give us a word about that, please?'"), (11, None, "'At that rate, even if I died four times it wouldn't be enough, would it?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "You heard 'yonkai shindemo tarinai ja nai desu ka'—'even if I died four times, it still wouldn't be enough!'—Muranishi's legendary retort under arrest. Until next time, take care."
+CLOSING = ('muranishi', 'また明日。')

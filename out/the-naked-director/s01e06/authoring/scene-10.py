@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-10'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 10
+TITLE = '世界をあっと言わせたい  (I Want to Astonish the World)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'driver': '配達員', 'muranishi': '村西', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = "At their next outdoor location, the lead actress stays upset with her manager until the makeup artist urges Muranishi to listen to her honestly, just as he did with Kuroki. Let's listen in Japanese first."
+STORY = [('muranishi', 'よし、本番いこう！彼女は？', "Alright, let's roll a take! Where is she?", [(293, 'よし 本番いこう')], ''), ('reika', 'まだマネジャーと話してます。', "She's still talking with her manager.", [(296, 'まだマネジャーと話してます')], ''), ('muranishi', 'そんなこといいから連れてこい。', 'Never mind that, just bring her over here.', [(298, 'そんなこといいから連れてこい')], ''), ('reika', '監督、女優の意見もちゃんと聞いてあげてください。', "Director, please listen properly to your actress's opinions too.", [(299, '監督 女優の意見も'), (299, 'ちゃんと聞いてあげてください')], ''), ('reika', '日本と違って、海外の女性はちゃんと自分の意見を主張するんですよ。', 'Unlike in Japan, women overseas state their own opinions clearly.', [(300, '日本と違って'), (301, '海外の女性は ちゃんと'), (301, '自分の意見を主張するんですよ')], ''), ('reika', '黒木ちゃんとの撮影の時みたいに、彼女ともちゃんと向き合ってあげてください。', 'Just like when you filmed with Kuroki, please face her sincerely too.', [(302, '黒木ちゃんとの撮影の時みたいに'), (303, '彼女とも ちゃんと'), (303, '向き合ってあげてください')], ''), ('muranishi', '俺はね、君を尊敬しているんだ。', 'You know, I truly respect you.', [(312, '俺はね 君を尊敬しているんだ')], ''), ('muranishi', 'そんな君と、世界をあっと言わせたいんだ、俺は。', 'Together with you, I want to make the whole world gasp in amazement.', [(319, 'そんな君と'), (319, '世界をあっと言わせたいんだ 俺は')], ''), ('driver', 'プロの女優として、監督であるあなたの注文には応えるって。', "She says as a professional actress, she'll meet your requests as director.", [(321, 'プロの女優として'), (322, '監督である'), (322, 'あなたの注文には応える')], ''), ('driver', 'がっかりさせないでよって。', "And she says don't disappoint her.", [(325, 'がっかりさせないでよ')], ''), ('muranishi', 'もちろんだ。よーし、本番いこう！アクション！', "Of course not. Alright, let's go for a take! Action!", [(327, 'もちろんだ'), (330, 'よーし 本番いこう'), (332, 'アクション')], ''), ('muranishi', 'カット！パーフェクト！', 'Cut! Perfect!', [(339, 'カット'), (341, 'パーフェクト')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Alright, let's roll a take! Where is she?'"), (1, None, "'She's still talking with her manager.'"), (2, None, "'Never mind that, just bring her over here.'"), (3, None, "'Director, please listen properly to your actress's opinions too.'"), (4, None, "'Unlike in Japan, women overseas state their own opinions clearly.'"), (5, None, "'Just like when you filmed with Kuroki, please face her sincerely too.'"), (6, None, "'You know, I truly respect you.'"), (7, None, "'Together with you, I want to make the whole world gasp in amazement.'"), (8, None, "'She says as a professional actress, she'll meet your requests as director.'"), (9, None, "'And she says don't disappoint her.'"), (10, None, "'Of course not. Alright, let's go for a take! Action!'"), (11, None, "'Cut! Perfect!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Keep an ear out for 'mukiatte agete kudasai', 'please face her sincerely', and 'gakkari sasenaide', 'don't disappoint me'. See you next time."
+CLOSING = ('muranishi', 'じゃあね。')

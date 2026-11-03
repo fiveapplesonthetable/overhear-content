@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-04'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 4
+TITLE = '芝居は完璧ですから  (Their Acting Is Perfect)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'driver': '配達員', 'muranishi': '村西', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = "Arriving at a spacious rented villa, the crew discovers that their fluent coordinator grew up in northern Tokyo. Inside, Muranishi pitches his grand spy story to the assembled cast and quietly checks on their acting ability. Let's listen in Japanese first."
+STORY = [('driver', 'はい、到着です。', 'Alright, we have arrived.', [(82, 'はい 到着で')], ''), ('reika', 'ここに泊まれるの？すごい！', 'We get to stay here? Amazing!', [(83, 'ここに泊まれ'), (84, 'すごい')], ''), ('reika', '日本語ペラペラだけど、どこ出身？', 'You speak Japanese so fluently—where are you from?', [(89, '日本語ペラペラだけど どこ出身')], ''), ('driver', '東京です。ほとんどハワイにいるから大丈夫！', "Tokyo. I'm in Hawaii almost all the time, so don't worry!", [(94, 'ほとんどハワイにいるから大丈夫')], 'replaced ward name with Tokyo'), ('reika', 'やっぱ日本人じゃん！ハワイ案内できるの？', 'I knew you were Japanese! Can you really show us around Hawaii?', [(91, 'やっぱ日本人じゃん'), (91, 'ハワイ案内でき')], ''), ('driver', 'もちろん！心配しすぎだよ。', 'Of course! You worry way too much.', [(92, 'もちろん'), (96, '心配しすぎだよ')], ''), ('muranishi', 'ちゃんとキャストはそろってるんだろうな？', "You've got the whole cast properly lined up, right?", [(98, 'ちゃんと キャストは'), (98, 'そろってるんだろうな')], ''), ('driver', 'もちろんです！村西さん、どうぞ。', 'Of course! Mr. Muranishi, go ahead.', [(99, 'もちろんです'), (103, '村西さん どうぞ')], ''), ('muranishi', '監督の村西だ。今回の作品は悪の組織と戦う超大作だ。', "I'm Director Muranishi. This film is a blockbuster about fighting an evil organization.", [(104, '監督の村西だ'), (105, '今回の作品は'), (106, '悪の組織と'), (106, '戦う超大作だ')], ''), ('muranishi', '役者の質が低くないか？大丈夫なんだろうな？', "Isn't the quality of the actors a bit low? Are you sure about them?", [(116, '役者の質が低くないか'), (116, '大丈夫なんだろうな')], ''), ('driver', '大丈夫、大丈夫。芝居は完璧ですから。', "It's fine, totally fine. Their acting is flawless.", [(117, '大丈夫 大丈夫'), (117, '芝居は完璧ですから')], ''), ('driver', '玄関だ。彼女かも！', "That's the front door. It might be her!", [(118, '玄関'), (119, 'かも')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Alright, we have arrived.'"), (1, None, "'We get to stay here? Amazing!'"), (2, None, "'You speak Japanese so fluently—where are you from?'"), (3, None, "'Tokyo. I'm in Hawaii almost all the time, so don't worry!'"), (4, None, "'I knew you were Japanese! Can you really show us around Hawaii?'"), (5, None, "'Of course! You worry way too much.'"), (6, None, "'You've got the whole cast properly lined up, right?'"), (7, None, "'Of course! Mr. Muranishi, go ahead.'"), (8, None, "'I'm Director Muranishi. This film is a blockbuster about fighting an evil organization.'"), (9, None, "'Isn't the quality of the actors a bit low? Are you sure about them?'"), (10, None, "'It's fine, totally fine. Their acting is flawless.'"), (11, None, "'That's the front door. It might be her!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice 'pera-pera', the vivid Japanese sound-word for speaking a language fluently, and 'shinpai shisugi', 'worrying too much'. See you next time."
+CLOSING = ('driver', 'じゃあね。')

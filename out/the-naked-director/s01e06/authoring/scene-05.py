@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-05'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 5
+TITLE = '昔と別人じゃないか  (Like a Different Person)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'muranishi': '村西', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = 'At the villa door, Muranishi puts on dark sunglasses to greet his American star—only to mistake her manager for the actress herself. Meanwhile in Tokyo, Toshi presses Kawada on how he raised the travel money. Listen to the Japanese first.'
+STORY = [('muranishi', 'この格好でいいのか？', 'Should I really wear this look?', [(125, 'この格好で')], ''), ('muranishi', '何だ？昔と別人じゃないか！', 'What? You look like a completely different person from before!', [(122, '何だ'), (128, '昔と別人じゃないか')], ''), ('muranishi', 'どうしてこうなっちまったんだ？', 'How on earth did you end up like this?', [(129, 'どうして こうなっちまったんだ')], ''), ('muranishi', 'えっ、マネジャー？', 'Wait, her manager?', [(132, 'マネジャー')], ''), ('muranishi', 'ああ、何だ、びっくりした。彼女は？', 'Oh, come on, you startled me. Then where is she?', [(134, 'ああ 何だ びっくりした'), (135, '彼女は')], ''), ('muranishi', 'よし、開けてくれ！', 'Alright, open the door!', [(137, '開け')], ''), ('toshi', 'あいつら、絶対に浮かれてるだろうな。', 'I bet those guys are having the time of their lives right now.', [(139, 'あいつら'), (139, '絶対に浮かれて')], ''), ('kawada', 'だろうね。', 'Probably so.', [(140, 'だろうね')], ''), ('toshi', '俺も金なんとか集めるからよ。もうちょっと明るくやろうや。', "I'll scrape together some money too, so let's keep our spirits up.", [(141, '俺も金 なんとか集めるからよ'), (143, 'もうちょっと明るくやろうや')], ''), ('kawada', 'そうだよな。', "You're right.", [(145, 'そうだよな')], ''), ('toshi', 'おい、あの金、本当はどうやって集めたんだよ？', 'Hey, how did you actually pull that money together?', [(147, 'おい あの金'), (147, '本当はどうやって集めたんだよ')], ''), ('kawada', '心優しい人から少しの間借りた。', 'I borrowed it for a little while from a kind-hearted person.', [(148, '心優しい人から少しの間 借りた')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Should I really wear this look?'"), (1, None, "'What? You look like a completely different person from before!'"), (2, None, "'How on earth did you end up like this?'"), (3, None, "'Wait, her manager?'"), (4, None, "'Oh, come on, you startled me. Then where is she?'"), (5, None, "'Alright, open the door!'"), (6, None, "'I bet those guys are having the time of their lives right now.'"), (7, None, "'Probably so.'"), (8, None, "'I'll scrape together some money too, so let's keep our spirits up.'"), (9, None, "'You're right.'"), (10, None, "'Hey, how did you actually pull that money together?'"), (11, None, "'I borrowed it for a little while from a kind-hearted person.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice 'bikkuri shita', 'that startled me', and 'sukoshi no aida karita', 'borrowed for a little while'. Until next time."
+CLOSING = ('toshi', 'またね。')

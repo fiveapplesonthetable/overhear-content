@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-13'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 13
+TITLE = '世界初の映像を撮るんだ  (Filming a World First)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'driver': '配達員', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = "Cut straight from Takei's taunt about flying into the sky to an island airfield, where Muranishi unveils a small plane for his aerial finale over the bay. Listen to the Japanese first."
+STORY = [('student', 'ホントに空を飛ぶの？', 'Are we really flying up into the sky?', [(407, 'ホントに空を飛ぶの')], ''), ('muranishi', '当たり前だろ。こいつで真珠湾の上を飛ぶ。', "Of course we are. We're flying over Pearl Harbor in this.", [(408, '当たり前だろ'), (408, '真珠湾'), (408, 'の上を飛ぶ')], ''), ('driver', 'ちょっと待って、地上で撮るんじゃないの？って。', "Hold on—her manager is asking if we aren't filming on the ground.", [(410, 'ちょっと待って'), (410, '地上で撮るんじゃないの')], ''), ('muranishi', 'それじゃ迫力が出ないだろ。世界初の映像を撮るんだ。', "That wouldn't have any impact, would it? We're shooting world-first footage.", [(412, 'それじゃ 迫力が出ないだろ'), (412, '世界初の映像を撮るんだ')], ''), ('driver', 'やめさせたほうが…', 'Maybe you ought to stop him...', [(415, 'やめさせたほうが')], ''), ('student', '監督が撮るって言ったらやる。それが僕らの仕事。', "If the director says we shoot it, we do it. That's our job.", [(416, '監督が撮るって言ったらやる'), (416, 'それが僕らの仕事')], ''), ('driver', '彼女はやる気だって！', "She says she's game to do it!", [(420, '彼女はやる気だって')], ''), ('muranishi', 'そう言ってくれると思った。', 'I knew she would say that.', [(421, 'そう言ってくれると思った')], ''), ('muranishi', 'いいか、このシーンは機密情報を奪う、この映画一番の見せ場だ！', 'Listen, this scene where you steal secret intelligence is the biggest highlight of the movie!', [(423, 'いいか'), (424, 'このシーンは'), (424, '機密情報を奪い'), (425, 'この映画一番の見せ場だ')], ''), ('muranishi', 'よし、ラストシーンのスタンバイ！', 'Alright, stand by for the final scene!', [(429, 'よし ラストシーンのスタンバイ')], ''), ('student', 'はい！', 'Yes, sir!', [(430, 'はい')], ''), ('muranishi', '前人未到のシーンをやるぞ！', "We're pulling off a scene nobody has ever done before!", [(431, '前人未到の'), (431, 'やるぞ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Are we really flying up into the sky?'"), (1, None, "'Of course we are. We're flying over Pearl Harbor in this.'"), (2, None, "'Hold on—her manager is asking if we aren't filming on the ground.'"), (3, None, "'That wouldn't have any impact, would it? We're shooting world-first footage.'"), (4, None, "'Maybe you ought to stop him...'"), (5, None, "'If the director says we shoot it, we do it. That's our job.'"), (6, None, "'She says she's game to do it!'"), (7, None, "'I knew she would say that.'"), (8, None, "'Listen, this scene where you steal secret intelligence is the biggest highlight of the movie!'"), (9, None, "'Alright, stand by for the final scene!'"), (10, None, "'Yes, sir!'"), (11, None, "'We're pulling off a scene nobody has ever done before!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "You heard 'sekai hatsu', 'world first', and 'kanojo wa yaruki da', 'she's motivated and ready to do it'. Until next time."
+CLOSING = ('muranishi', 'またね。')

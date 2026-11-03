@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-01'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 1
+TITLE = '一発逆転ホームラン  (A Comeback Home Run)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'muranishi': '村西', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = "In episode six of The Naked Director, Muranishi plans an ambitious overseas shoot to turn his struggling company around. In Tokyo, Toshi lines up a cheap local coordinator while Kawada quietly brings emergency cash for the trip. Let's hear the Japanese dialogue first."
+STORY = [('toshi', 'ハワイのコーディネーター安く雇えたからよ。', 'I managed to hire a coordinator in Hawaii for cheap.', [(8, 'ハワイの'), (8, 'コーディネーター安く雇えたからよ')], ''), ('toshi', '女優の出演も交渉してくれるらしいぞ。', "Apparently he'll negotiate the actress's appearance for us too.", [(10, '女優の出演も'), (10, '交渉してくれるらしいぞ')], ''), ('muranishi', '本当か。メジャーな作品にしないとな。', 'Really? Then we have to make it a major production.', [(11, '本当か'), (17, 'メジャーな作品にしないと')], ''), ('kawada', '出どころは聞かないでください。', "Please don't ask where the money came from.", [(21, '出どころは聞かないでください')], ''), ('muranishi', '川田さん、ありがとうございます。', 'Thank you very much, Mr. Kawada.', [(22, '川田さん ありがとうございます')], ''), ('kawada', 'わがままを聞くのは今回で最後ですから。', 'This is the last time I indulge your selfishness.', [(23, 'わがままを聞くのは'), (23, '今回で最後ですから')], ''), ('toshi', 'おい、お前ら遊びに行くんじゃねえからな。', "Hey, you guys aren't going over there to play around.", [(24, 'お前ら'), (24, '遊びに行くんじゃねえからな')], ''), ('toshi', 'つまんねえの撮ったら許さねえからな。', "If you shoot something boring, I won't forgive you.", [(30, 'つまんねえの撮ったら'), (30, '許さねえからな')], ''), ('muranishi', 'ああ、任せとけ。', 'Yeah, leave it to me.', [(31, 'ああ 任せとけ')], ''), ('kawada', '村西さん、くれぐれもよろしくお願いします。', 'Mr. Muranishi, please take every care with this.', [(32, '村西さん'), (33, 'くれぐれも よろしくお願いします')], ''), ('muranishi', 'はい、いってきます。行くぞ！', "Yes, off I go. Let's move!", [(34, 'はい いってきます'), (35, '行くぞ')], ''), ('toshi', 'お前ら、一発逆転ホームラン頼んだぞ！', "I'm counting on you guys for a comeback home run!", [(36, 'お前ら'), (36, '一発逆転ホームラン 頼んだぞ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'I managed to hire a coordinator in Hawaii for cheap.'"), (1, None, "'Apparently he'll negotiate the actress's appearance for us too.'"), (2, None, "'Really? Then we have to make it a major production.'"), (3, None, "'Please don't ask where the money came from.'"), (4, None, "'Thank you very much, Mr. Kawada.'"), (5, None, "'This is the last time I indulge your selfishness.'"), (6, None, "'Hey, you guys aren't going over there to play around.'"), (7, None, "'If you shoot something boring, I won't forgive you.'"), (8, None, "'Yeah, leave it to me.'"), (9, None, "'Mr. Muranishi, please take every care with this.'"), (10, None, "'Yes, off I go. Let's move!'"), (11, None, "'I'm counting on you guys for a comeback home run!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice 'makasetoke', a confident casual way to say 'leave it to me', and 'ittekimasu', the everyday phrase when heading out with the promise to return. Until next time, take care."
+CLOSING = ('muranishi', 'じゃあね。')
