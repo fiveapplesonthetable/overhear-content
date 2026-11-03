@@ -49,14 +49,14 @@ def extract_translation_and_transition(full_narr_text: str) -> tuple[str, str]:
 
     m = GLOSS_RE.match(txt_body)
     if m:
-        gloss = m.group(1).strip()
+        gloss = m.group(1).strip().strip("'\"")
         if gloss and gloss[-1] not in ".!?…":
             gloss += "."
         return f"'{gloss}'", trans
 
     m2 = DBL_GLOSS_RE.match(txt_body)
     if m2:
-        gloss = m2.group(1).strip()
+        gloss = m2.group(1).strip().strip("'\"")
         if gloss and gloss[-1] not in ".!?…":
             gloss += "."
         return f"'{gloss}'", trans
@@ -137,7 +137,10 @@ def simplify_scene_file(scene_json: Path, seg_remap_by_scene_id: dict[str, dict[
             else:
                 break
 
-        walk_turns.append((foreign_idx, foreign_seg, narr_first_idx, " ".join(narr_parts)))
+        full_narr_str = " ".join(narr_parts)
+        if narr_first_idx is not None and full_narr_str.strip():
+            walk_turns.append((foreign_idx, foreign_seg, narr_first_idx, full_narr_str))
+        # Otherwise foreign_seg had no narrator translation after it (orphaned trailing inline callout) -> drop!
 
     for t_idx, (f_old_idx, f_seg, n_old_idx, full_narr) in enumerate(walk_turns):
         old_to_new[f_old_idx] = len(new_segs)
