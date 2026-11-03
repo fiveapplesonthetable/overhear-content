@@ -89,6 +89,10 @@ def find_scene_bounds(segs: list[dict]) -> tuple[int, int] | None:
     return opener_idx + 1, replay_idx
 
 
+WALK_INTRO_TEXT = "Now let's go through it line by line with the English translation."
+REPLAY_INTRO_TEXT = "Now let's listen to the whole conversation one last time."
+
+
 def simplify_scene_file(scene_json: Path, seg_remap_by_scene_id: dict[str, dict[int, int]]) -> bool:
     doc = json.loads(scene_json.read_text("utf-8"))
     segs = doc.get("segments", [])
@@ -100,20 +104,19 @@ def simplify_scene_file(scene_json: Path, seg_remap_by_scene_id: dict[str, dict[
     new_segs = []
     old_to_new: dict[int, int] = {}
 
-    # 1. Keep SCENE_INTRO + COLD_OPEN + WALK_INTRO (0 .. walk_start - 1) untouched
-    for idx in range(0, walk_start):
+    # 1. Keep SCENE_INTRO + COLD_OPEN (0 .. walk_start - 2) untouched, and set clean WALK_INTRO at walk_start - 1
+    for idx in range(0, walk_start - 1):
         old_to_new[idx] = len(new_segs)
         new_segs.append(dict(segs[idx]))
+    old_to_new[walk_start - 1] = len(new_segs)
+    new_segs.append({"v": "narrator", "t": WALK_INTRO_TEXT, "gap": 0.5})
 
     # 2. Simplify WALK [walk_start .. replay_start - 1] into [Foreign replay] -> ['<Translation>'] pairs
     i = walk_start
     walk_turns = []
     while i < replay_start:
-        # Target-language replay line (could occasionally be 2 consecutive non-narrator lines if split, though standard is 1)
         if segs[i]["v"] == "narrator":
-            # Standalone transition narrator right before replay
-            old_to_new[i] = len(new_segs)
-            new_segs.append(dict(segs[i]))
+            # Drop any old standalone transition before replay; we emit canonical REPLAY_INTRO_TEXT below
             i += 1
             continue
 
@@ -127,6 +130,9 @@ def simplify_scene_file(scene_json: Path, seg_remap_by_scene_id: dict[str, dict[
         narr_parts = []
         while i < replay_start:
             if segs[i]["v"] == "narrator":
+                if TRANSITION_RE.match(segs[i]["t"].strip()) or segs[i]["t"].strip() == REPLAY_INTRO_TEXT:
+                    i += 1
+                    continue
                 if narr_first_idx is None:
                     narr_first_idx = i
                 narr_parts.append(segs[i]["t"])
@@ -146,18 +152,16 @@ def simplify_scene_file(scene_json: Path, seg_remap_by_scene_id: dict[str, dict[
         old_to_new[f_old_idx] = len(new_segs)
         new_segs.append(f_seg)
         if n_old_idx is not None and full_narr.strip():
-            gloss_only, trans = extract_translation_and_transition(full_narr)
+            gloss_only, _ = extract_translation_and_transition(full_narr)
             is_last = (t_idx == len(walk_turns) - 1)
-            if is_last and trans:
-                out_t = f"{gloss_only} {trans}"
-                out_gap = 0.9
-            else:
-                out_t = gloss_only
-                out_gap = 0.9 if is_last else 0.45
+            out_gap = 0.65 if is_last else 0.45
             old_to_new[n_old_idx] = len(new_segs)
-            new_segs.append({"v": "narrator", "t": out_t, "gap": out_gap})
+            new_segs.append({"v": "narrator", "t": gloss_only, "gap": out_gap})
 
-    # 3. Keep REPLAY + OUTRO + CLOSING [replay_start .. end] untouched
+    # 3. Emit canonical REPLAY_INTRO right before the final target-language reading
+    new_segs.append({"v": "narrator", "t": REPLAY_INTRO_TEXT, "gap": 0.75})
+
+    # 4. Keep REPLAY + OUTRO + CLOSING [replay_start .. end] untouched
     for idx in range(replay_start, len(segs)):
         old_to_new[idx] = len(new_segs)
         new_segs.append(dict(segs[idx]))

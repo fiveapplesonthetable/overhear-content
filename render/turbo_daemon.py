@@ -566,9 +566,10 @@ def run_gate_worker(worker_id: int):
                     counts[ck] = counts.get(ck, 0) + prev_counts.get(ck, 0)
                 counts["retakes"] = max(0, counts["takes"] - 1)
 
+            sim_failed = (meta.get("lang") == "en" and float(info.get("sim", 1.0)) < 0.85)
             max_retries = 5 if meta.get("lang") == "en" else 3
-            if not ok and attempt < max_retries:
-                # Re-synthesize with fresh seed & 4 candidates so failed takes never slip through
+            if (not ok and attempt < max_retries) or (sim_failed and attempt < 20):
+                # Re-synthesize with fresh seed & 4 candidates so failed or voice-drifted takes never slip through
                 _reenqueue_synth(meta, attempt=attempt + 1, prev_counts=counts, n_cands=4)
                 continue
 
