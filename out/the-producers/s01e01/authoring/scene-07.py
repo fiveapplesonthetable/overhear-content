@@ -30,14 +30,14 @@ STORY = [
 OPENER = "Let's go through the eight lines of Seung-chan's bumpy first meeting with Ye-jin."
 
 WALK = [
-    (0, None, "'Here is the core of the variety department, PD Tak Ye-jin.' The shortened form of 'here is' is a natural way to introduce someone standing beside you, followed by the word for the core or heart of an organization This means that."),
-    (1, None, "'You there, polka dots!' Because she doesn't know Seung-chan's name yet, Ye-jin calls him by his tie pattern using the playful everyday word for polka dots, preceded by the word pointing at someone a few steps away — 'over there!' We built from this."),
-    (2, None, "'Don't you know vibrate mode is basic for people in broadcasting?' Koreans commonly refer to a mobile phone as a 'hand phone', paired here with the word for vibration. Calling something basic marks it as rule number one — absolute basics It is a handy word."),
-    (3, None, "'If that rings during a live broadcast, it's an on-air accident.' It opens with television shorthand for a live broadcast, followed by 'if it rings', and ends with every producer's nightmare: an on-air broadcast mishap This literally means that."),
-    (4, None, "'I am very sorry!' In an office or with strangers, skip casual apologies and reach straight for the formal version. It is the crisp, respectful apology expected from a junior employee This short for that."),
-    (5, None, "'Don't throw around 'I'm sorry' so lightly either.' Surprisingly, Ye-jin tells him not to apologize too cheaply, using an word meaning 'carelessly' or 'without thinking' followed by a phrase telling someone 'don't do that' Notice the word for."),
-    (6, None, "'Oh, I contacted the car owner.' Turning to the interview camera, she uses a compound word combining 'car' and 'owner', followed by a word for 'got in touch' that covers calling, texting, or messaging We built from this."),
-    (7, None, "'Huh? Still unread, though.' Glancing at her chat screen, she sees the status literally meaning 'not read', built from the word 'to read'. Notice the ironic twist: the mystery car owner can't check texts because she just banned phones! This short for that."),
+    (0, None, "'Here is the core of the variety department, PD Tak Ye-jin.' Opening with the contracted form of 'here is' gives a natural way to introduce someone standing beside you, followed by the word meaning the core or heart of an organization."),
+    (1, None, "'You there, polka dots!' Because she doesn't know Seung-chan's name yet, Ye-jin calls him by his tie pattern using the playful everyday word meaning 'polka dots', preceded by 'over there!' to point a few steps away."),
+    (2, None, "'Don't you know vibrate mode is basic for people in broadcasting?' Koreans commonly call a mobile phone a 'hand phone', paired here with the noun meaning 'vibration'. Calling it basic marks it as rule number one on set."),
+    (3, None, "'If that rings during a live broadcast, it's an on-air accident.' She opens with television shorthand for a live broadcast, followed by 'if it rings', and finishes with every producer's nightmare: an on-air broadcast mishap."),
+    (4, None, "'I am very sorry!' In an office or with strangers, skip casual apologies and reach straight for this formal expression. It is the crisp, respectful apology expected from a junior employee."),
+    (5, None, "'Don\\'t throw around \"I\\'m sorry\" so lightly either.' Surprisingly, Ye-jin tells him not to apologize too cheaply, pairing a word meaning 'carelessly' or 'without thinking' with the command form meaning 'don't do that'."),
+    (6, None, "'Oh, I contacted the car owner.' Turning to the interview camera, she uses a two-syllable compound combining 'car' and 'owner', followed by an everyday expression meaning 'got in touch' that covers calling, texting, or messaging."),
+    (7, None, "'Huh? Still unread, though.' Glancing at her chat screen, she sees the status literally meaning 'not read', built from 'to read'. Notice the ironic twist: the mystery car owner can't check texts because she just banned phones!"),
 ]
 
 TRANSITION = "Now let's hear the whole polka-dot tie scene again."

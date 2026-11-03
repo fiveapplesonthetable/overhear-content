@@ -38,7 +38,7 @@ WALK = [
     (2, None, "'Oh, look who's here. Hello.' Russian says smotri, kto prishyol, literally 'look who has come', and zdravstvuyte is the polite hello."),
     (3, None, "'Am I interrupting?' Russian asks ne pomeshayu, literally 'won't I get in the way?', when joining a table."),
     (4, None, "'Viktor Petrovich, I know what happened.' The phrase v kurse literally means 'in the course', and Russian uses it for 'in the know'."),
-    (5, None, "'I really feel for you.' The word sochuvstvuyu literally means 'I feel together with', and it takes vam, 'to you'."),
+    (5, None, "'I really feel for you.' The word sochuvstvuyu literally means 'I feel together with', while it takes vam, 'to you'."),
     (6, None, "'You're a real professional.' Russian uses nastoyashchiy, 'real, genuine', where English might say 'true'."),
     (7, None, "'What are you even talking about?' Russian leaves out the verb: vy voobshche o chyom, literally 'you at all about what?'."),
     (8, None, "'You and I went through a rough patch.' Russian says u nas s vami, literally 'at us with you', for 'you and I had'."),

@@ -29,11 +29,11 @@ STORY = [
     ('nastya', 'А ты его сейчас чуть не разрушил.', 'And you nearly ruined it just now.', [(301, 'А ты его сейчас чуть не разрушил')], ''),
 ]
 WALK = [
-    (0, None, "'I wanted to tell you something.' Russian builds koe-chto, 'something', from koe plus chto, 'what', and khotel ends in -l because a man is speaking."),
+    (0, None, "'I wanted to tell you something.' Russian builds koe-chto, 'something', from koe plus chto, 'what', and khotel takes -l since a man is speaking."),
     (1, None, "'I want you to be my wife.' Russian says khochu, chtoby ty stala, literally 'I want that you became', with the past form after chtoby."),
     (2, None, "'Have you lost your mind?' The phrase s uma soshyol literally means 'went off from the mind', and chto li adds 'or what?'."),
     (3, None, "'What? What?' Kostya says chego, a casual 'what?', and in Russian the g here sounds like v: 'chevo'."),
-    (4, None, "'You said yourself that every day is a new step.' The word sama, 'yourself', ends in -a because he is talking to a woman."),
+    (4, None, "'You said yourself that every day is a new step.' The word sama, 'yourself', carries -a as he is talking to a woman."),
     (5, None, "'Kostya, I meant meeting the parents.' Russian says imela v vidu, literally 'had in view', for 'meant', and znakomstvo means 'getting acquainted'."),
     (6, None, "'Not this.' Russian sets one thing against another with a ne, 'and not', rather than a whole new sentence."),
     (7, None, "'I had this step planned for a year from now.' Russian says po planu, 'by the plan', and cherez god, literally 'through a year', for 'a year from now'."),

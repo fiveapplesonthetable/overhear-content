@@ -34,11 +34,11 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Hang on, why are you so worked up?\' "Kipyatishsya" comes from "kipyatit", to boil: you are boiling. "Chego" here is a casual "why".'),
-    (1, None, '\'A grown man, and you\'re acting like a little girl.\' "Zdorovyy dyadka" is literally "a healthy uncle", a big grown man. "Vesti sebya", to behave, is literally "to lead yourself".'),
+    (1, None, '\'A grown man, and you\'re acting like a little girl.\' "Zdorovyy dyadka" literally means "a healthy uncle", a big grown man. "Vesti sebya", to behave, literally reads "to lead yourself".'),
     (2, None, '\'I told you: fire them and you lose me.\' Two future verbs side by side make an "if... then": "uvolish", you fire, "poteryaesh", you lose.'),
     (3, None, '\'Let\'s just sit down and have a drink.\' "Davay" plus a "we" form makes "let\'s": "davay posidim", let\'s sit a while.'),
     (4, None, '\'I\'ve got nothing more to say to you.\' "Nechego" means "nothing" in the sense of "there is nothing to". "Mne" is "to me": "to me there is nothing to say".'),
-    (5, None, '\'I promise you, it\'s not as bad as all that.\' "Uveryayu" means "I assure". "Ne tak strashno" is literally "not so scary".'),
+    (5, None, '\'I promise you, it\'s not as bad as all that.\' "Uveryayu" means "I assure". "Ne tak strashno" word-for-word means "not so scary".'),
     (6, None, '\'Vitya, you can quit any time you like, right?\' "Vit" is a short, friendly call-form of Vitya, Viktor. "V lyuboy moment" means "at any moment".'),
     (7, None, '\'But what will you do when the bills have to be paid?\' You pay "po schetam", along the bills. "Pridyotsya" means "you\'ll have to", with no "you" needed.'),
     (8, None, '\'Where does your eldest daughter study? In Paris?\' "U tebya" is "you have". "Starshaya" means older or eldest. "Uchitsya" is "studies".'),

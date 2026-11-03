@@ -44,10 +44,10 @@ WALK = [
     (7, None, "'Do you understand what this means?' The phrase eto znachit means 'this means', and you'll hear it everywhere."),
     (8, None, "'I understand. People have nothing better to do.' Russian says delat nechego, literally 'there's nothing to do', and with bolshe it means 'nothing better to do'."),
     (9, None, "'All my friends are asking me to introduce them to you.' Russian says poznakomit s toboy, literally 'acquaint with you'."),
-    (10, None, "'All our tables are taken for the weekend.' The word stoliki literally means 'little tables', and it's the usual word in a restaurant."),
+    (10, None, "'All our tables are taken for the weekend.' The word stoliki literally means 'little tables'; it's the usual word in a restaurant."),
     (11, None, "'Everyone wants to see you!' In Russian vse, 'everyone', takes the 'they' ending: vse khotyat, 'everyone want'."),
     (12, None, "'So that means I'm not fired?' The word uvolen, 'fired', works like gotov, 'ready': a woman would say uvolena."),
     (13, None, "'For what? You're a star, you made our restaurant famous.' Russian asks za chto, literally 'for what', when you want to know what someone did to deserve something."),
-    (14, None, "'Then maybe a bonus for me?' The word premiya means a prize, and at work a bonus. Russian leaves out 'give': mne premiyu is literally 'to me a bonus'."),
+    (14, None, "'Then maybe a bonus for me?' The word premiya means a prize, and at work a bonus. Russian leaves out 'give': mne premiyu word-for-word means 'to me a bonus'."),
     (15, None, "'Not so fast. Go to the kitchen.' Russian says na kukhnyu, ending in -yu, for going to the kitchen, and na kukhne for being in it."),
 ]

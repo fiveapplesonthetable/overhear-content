@@ -32,10 +32,10 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Guys, we\'ll have to part with you.\' "Nam pridyotsya", \'to us it will come\': we\'ll have to. "Rasstatsya s vami", to part with you.'),
-    (1, None, '\'Where are you all off to so early?\' "Kuda" is where to; where at would be "gde". "Sobralis", set off, is literally \'gathered yourselves\'.'),
+    (1, None, '\'Where are you all off to so early?\' "Kuda" is where to; where at would be "gde". "Sobralis", set off, literally says \'gathered yourselves\'.'),
     (2, None, '\'We got fired.\' "Uvolili", they fired, names nobody: someone fired "nas", us.'),
     (3, None, '\'What do you mean, fired? Me too?\' "Kak uvolili?", \'how fired?\', is how Russians question bad news.'),
-    (4, None, '\'Yes, we\'re all leaving.\' "Vse", everyone, is different from "vsyo", everything. "Ukhodim", we\'re leaving: "u-" again means away.'),
+    (4, None, '\'Yes, we\'re all leaving.\' "Vsyo", everyone, is different from "vsyo", everything. "Ukhodim", we\'re leaving: "u-" again means away.'),
     (5, None, '\'And what did the chef say?\' "A" opens a new question: and what about. "Shef" came from French.'),
     (6, None, '\'The chef did nothing.\' "Nichego ne sdelal", \'nothing not did\': the double \'not\' is normal Russian.'),
     (7, None, '\'Now we\'re out of work.\' "Bez", without, turns "rabota" into "raboty".'),

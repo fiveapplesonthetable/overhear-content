@@ -40,6 +40,6 @@ WALK = [
     (7, None, '\'You\'re right, we need to be more careful.\' "Prav", right; to a woman it\'s "prava". The "-ee" in "ostorozhnee" does the job of \'more\'.'),
     (8, None, '\'Tomorrow we\'ll start looking for new work.\' "Nachnyom", we\'ll start, is followed by the plain "iskat", to look for.'),
     (9, None, '\'It\'ll definitely all work out for us.\' "Obyazatelno" here means for sure, not obligatory. "Poluchitsya", will work out.'),
-    (10, None, '\'The main thing is we\'re not giving up.\' "Glavnoe", the main thing, comes from "glava", head. "Sdayomsya", we give up, is literally \'we hand ourselves over\'.'),
+    (10, None, '\'The main thing is we\'re not giving up.\' "Glavnoe", the main thing, comes from "glava", head. "Sdayomsya", we give up, literally means \'we hand ourselves over\'.'),
     (11, None, '\'I believe in us.\' "Verit v", to believe in, uses "v", in, just like English.'),
 ]

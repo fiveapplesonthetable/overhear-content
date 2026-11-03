@@ -35,11 +35,11 @@ WALK = [
     (2, None, '\'I need this bottle.\' "Nuzhna" matches the bottle, which is feminine; for a knife it would be "nuzhen".'),
     (3, None, '\'What are you on about?\' To the bartender the chef says "ty govorish"; to the new boss it was "vy govorite".'),
     (4, None, '\'I\'ll take this bottle.\' "Vozmu", I\'ll take, belongs to "vzyat", even though the two look quite different.'),
-    (5, None, '\'And I\'ll put another one out for you.\' "Postavlyu" is literally \'I\'ll stand\': bottles are stood, not laid. "Vam", for you, is polite.'),
+    (5, None, '\'And I\'ll put another one out for you.\' "Postavlyu" literally says \'I\'ll stand\': bottles are stood, not laid. "Vam", for you, is polite.'),
     (6, None, '\'Have you got nothing better to do?\' "Nechego delat", nothing to do: "ne" and "chego" fused into one word.'),
     (7, None, '\'No, I just want to give you another one.\' "Prosto", just, simply. "Dat", to give.'),
     (8, None, '\'Don\'t touch anything, get out of here!\' Russian stacks the \'not\': "ne trogay nichego", \'don\'t touch nothing\'. "Otsyuda", from here.'),
     (9, None, '\'But I have to take it.\' "Eyo", her: the bottle is a she in Russian.'),
     (10, None, '\'I said, get out!\' "Idi", go!, is the friendly-form command from "idti", to go on foot. Said twice, it\'s an order.'),
-    (11, None, '\'All right, sorry, I\'ll go.\' "Izvinite" is the polite sorry; to a friend it would be "izvini".'),
+    (11, None, '\'All right, sorry, I\'ll go.\' "Izvinite" carries a polite sorry; to a friend it would be "izvini".'),
 ]

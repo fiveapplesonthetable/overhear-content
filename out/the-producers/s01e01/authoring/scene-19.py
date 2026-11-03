@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's unpack the eight lines of backstage tension before Cindy and Ye-jin collide."
 
 WALK = [
-    (0, None, "'Tell them to definitely take me out of next week's rehearsal.' Slipping the word for 'without fail' before the request orders her manager to get her excused, using a word that means 'to pull out' or 'skip' Swap in this word."),
-    (1, None, "'The main PD here is super picky, though.' An everyday intensifier meaning 'hugely' or 'super' is paired with an word meaning 'fussy', 'demanding', or 'hard to please' We built from this."),
-    (2, None, "'In your eyes, am I not picky?' Even though Cindy is his boss, her manager is a few years older, so she addresses him with a woman's word for an older brother or older male colleague, followed by an expression meaning 'in someone's view' It is a handy word."),
-    (3, None, "'I'm sorry.' Cornered, the manager blurts out a plain, casual 'sorry'. Unlike the formal apology, this casual form is used with younger people or close friends, though here it only digs his hole deeper! The word doubles the."),
-    (4, None, "'What are you sorry for? I'm asking because I'm genuinely curious.' Cindy pounces by asking what part he is sorry about, then follows up with a word meaning 'to be curious' This means that."),
-    (5, None, "'PD, it looks like we'll just have to wear this.' Caught between two terrifying women, the manager bows to Ye-jin using the humble word for 'we' and the word 'to wear' in a polite pattern meaning 'it seems we must wear it' It is a handy word."),
-    (6, None, "'This won't do, I'll have to go see her myself.' Ye-jin starts with a crisp Korean sigh meaning 'this isn't going to cut it', then pairs an word meaning 'in person' or 'firsthand' with a phrase meaning 'I had better go check' It is a handy word."),
-    (7, None, "'How could I fight with her? I'm going to scold her.' When Il-yong asks if she plans to 'fight', Ye-jin laughs it off: adults don't fight kids, they scold them! Notice the word for."),
+    (0, None, "'Tell them to definitely take me out of next week's rehearsal.' Slipping the emphatic word meaning 'without fail' before her demand orders her manager to get her excused, built on 'pull out' or 'leave out'."),
+    (1, None, "'The main PD here is super picky, though.' An everyday intensifier meaning 'hugely' or 'super' is paired with a vivid word meaning 'fussy', 'demanding', or 'hard to please'."),
+    (2, None, "'In your eyes, am I not picky?' Even though Cindy is his boss, her manager is a few years older, so she addresses him with a woman's term for an older brother or older male colleague, followed by an expression meaning 'in someone's view'."),
+    (3, None, "'I'm sorry.' Cornered, the manager blurts out a plain, casual 'sorry'. Unlike the formal workplace apology, this casual form is used with younger people or close friends, though here it only digs his hole deeper!"),
+    (4, None, "'What are you sorry for? I'm asking because I'm genuinely curious.' Cindy pounces with 'what part are you sorry about?', then follows up with an everyday word meaning 'to be curious' plus 'that is why I am asking'."),
+    (5, None, "'PD, it looks like we'll just have to wear this.' Caught between two terrifying women, the manager bows to Ye-jin using the humble word for 'we' and 'to wear' inside a polite pattern meaning 'it seems we must wear it'."),
+    (6, None, "'This won't do, I'll have to go see her myself.' Ye-jin starts with a crisp Korean sigh meaning 'this isn't going to cut it', then pairs a word meaning 'in person' or 'firsthand' with an ending meaning 'I had better go check'."),
+    (7, None, "'How could I fight with her? I'm going to scold her.' When Il-yong asks if she plans to 'fight', Ye-jin contrasts 'to fight' as equals with the word meaning 'to scold' — adults don't fight kids, they tell them off!"),
 ]
 
 TRANSITION = "Now let's hear the whole backstage buildup again."

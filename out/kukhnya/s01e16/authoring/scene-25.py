@@ -36,7 +36,7 @@ STORY = [
 WALK = [
     (0, None, "'Beef, liver and chicken pate.' Barinov reads the label on the tin. 'Govyazhiy', 'beef', and 'kuriny', 'chicken', are adjectives, so Russian says 'beefy pate', not 'pate of beef'."),
     (1, None, "'Chicken liver, fat, salt, pepper, onion.' 'Pechen', 'liver', is feminine, so 'kurinaya', 'chicken', ends in '-aya'. 'Salo' is salted pork fat, often eaten in thin slices on black bread."),
-    (2, None, "'In short, it's absolutely revolting.' 'V obshchem', literally 'in the general', means 'in short' or 'basically'. 'Gadost strashnaya' is literally 'a terrible nastiness'."),
+    (2, None, "'In short, it's absolutely revolting.' 'V obshchem', literally 'in the general', means 'in short' or 'basically'. 'Gadost strashnaya' word-for-word means 'a terrible nastiness'."),
     (3, None, "'But mix it all together, and she likes it.' Russian says 'ey nravitsya', literally 'to her it is pleasing', so the food does the pleasing. 'Ey' means 'to her', and she is Eleonora Andreyevna."),
     (4, None, "'Chef, are you kidding me?' That little 'vy chto' turns the question into disbelief, like 'are you out of your mind?'. 'Izdevaetes' is 'you're mocking me', stronger than joking, and still in polite 'vy'."),
     (5, None, "'Why? You were building character.' 'Samovospityvalsya' joins 'samo-', 'self', to 'vospityvat', 'to bring up', so it means 'brought yourself up'. Barinov enjoys the long, pompous word."),
@@ -45,9 +45,9 @@ WALK = [
     (8, None, "'Beef, liver, olive oil, basil.' 'Govyadina' means 'beef' as meat, the noun that goes with the adjective 'govyazhiy'. 'Maslo' means both 'butter' and 'oil'."),
     (9, None, "'Hi there!' 'Zdorovo', with the stress on the last syllable, is a hearty 'hi' between friends. It comes from 'zdorov', 'healthy'."),
     (10, None, "'So he let you go?' 'Otpustil' means 'let go' or 'released'. 'Tak', 'so', at the start asks for the end of the story."),
-    (11, None, "'Yep. They deported me.' 'Aga' is the casual 'yep'. 'Deportirovali', 'they deported', has no 'they': Russian uses a plural verb on its own when it does not matter exactly who did it."),
-    (12, None, "'I made a deal with the border guards.' Here 's' means 'with', and it puts the border guards into the 'with' ending, 'pogranichnikami'. 'Dogovorilsya', I came to an arrangement, is masculine past, and in this context it hints at a bribe."),
+    (11, None, "'Yep. They deported me.' 'Aga' marks the casual 'yep'. 'Deportirovali', 'they deported', has no 'they': Russian uses a plural verb on its own when it does not matter exactly who did it."),
+    (12, None, "'I made a deal with the border guards.' Here 's' means 'with'; it puts the border guards into the 'with' ending, 'pogranichnikami'. 'Dogovorilsya', I came to an arrangement, is masculine past, and in this context it hints at a bribe."),
     (13, None, "'They deleted me from the database.' 'Baza' is short for 'baza dannykh', 'database'. 'Iz bazy', 'from the database', has the '-y' ending after 'iz', 'from'."),
-    (14, None, "'Now I'm not Fedya, I'm Misha.' Russian needs no 'am': 'ya Misha' is literally 'I Misha'. 'Teper' means 'now', in the sense of 'from now on'."),
+    (14, None, "'Now I'm not Fedya, I'm Misha.' Russian needs no 'am': 'ya Misha' literally says 'I Misha'. 'Teper' means 'now', in the sense of 'from now on'."),
     (15, None, "'Hi, Misha.' Barinov greets him with the same 'zdorovo' and the new name at once. Misha is the everyday short form of Mikhail."),
 ]

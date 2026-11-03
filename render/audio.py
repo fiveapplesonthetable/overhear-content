@@ -56,7 +56,8 @@ def lufs(x, sr):
 
 
 def _strip_detached_tail_pop(x, sr):
-    """Strip any detached < 200 ms EOS click/pop/bang at the tail separated from main speech by >= 75 ms of quiet."""
+    """Strip only a single tiny (< 55 ms), low-energy (< 25% peak RMS) EOS click/pop separated by >= 320 ms of silence.
+    Never loop or strip real multi-syllable words split by voiceless plosive closures (e.g. Portuguese 'Perder o foco?')."""
     hop = max(1, int(0.01 * sr))
     n = len(x) // hop
     if n < 22:
@@ -70,7 +71,6 @@ def _strip_detached_tail_pop(x, sr):
     act = rms >= active_thr
     if not act.any():
         return x
-    # Find contiguous active islands
     islands = []
     i = 0
     while i < n:
@@ -82,18 +82,16 @@ def _strip_detached_tail_pop(x, sr):
             i = j
         else:
             i += 1
-    while len(islands) >= 2:
+    if len(islands) >= 2:
         prev_s, prev_e = islands[-2]
         last_s, last_e = islands[-1]
         gap_ms = (last_s - prev_e) * 10
         tail_ms = (last_e - last_s) * 10
         main_ms = (islands[-2][1] - islands[0][0]) * 10
-        if main_ms >= 100 and gap_ms >= 260 and tail_ms <= 150:
+        tail_pk = float(rms[last_s:last_e].max())
+        if main_ms >= 150 and gap_ms >= 320 and tail_ms <= 55 and tail_pk < pk * 0.25:
             cut_sample = min(len(x), (prev_e + 2) * hop)
             x = x[:cut_sample]
-            islands.pop()
-        else:
-            break
     return x
 
 

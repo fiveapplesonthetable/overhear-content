@@ -31,17 +31,17 @@ STORY = [
     ('senya', 'Давайте посмотрим в окно!', "Let's watch out the window!", [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, what are you smiling at?' You smile 'to' something in Russian, so 'what' becomes 'chemu', 'to what'. 'Ulybaetes' is the polite 'vy' form, from Senya to his boss."),
+    (0, None, "'Chef, what are you smiling at?' You smile 'to' something in Russian, so 'what' becomes 'chemu', 'to what'. 'Ulybaetes' gives the polite 'vy' form, from Senya to his boss."),
     (1, None, "'Look into the courtyard at the neighboring restaurant.' 'Vo dvor' means 'into the courtyard': 'v' becomes 'vo' before the cluster 'dv' so it is easier to say."),
     (2, None, "'Wow, an inspection has come to them!' 'Ogo' means 'wow'. 'K nim', 'to them', is 'oni', 'they', after 'k', with an n added at the front."),
-    (3, None, "'Yes, it is the migration service.' 'Sluzhba', 'service', is the word in the names of many state bodies; the people behind it are often called simply 'migratsionka'."),
+    (3, None, "'Yes, it is the migration service.' 'Sluzhba', 'service', is the chunk in the names of many state bodies; the people behind it are often called simply 'migratsionka'."),
     (4, None, "'Was it you who called them?' Putting 'eto vy' at the front, 'it is you', points at the person. 'Zvonit' takes 'to': you ring 'im', 'to them', not 'them'."),
-    (5, None, "'No, it was Nagiyev who called.' The same trick, 'eto' plus a name, now points at Nagiyev. 'Pozvonil', 'called', ends in '-l' because Nagiyev is a man."),
-    (6, None, "'And what will happen now?' 'Budet', 'will be', on its own means 'will happen'. 'Chto budet?' is the everyday 'what's going to happen?'"),
+    (5, None, "'No, it was Nagiyev who called.' The same trick, 'eto' plus a name, now points at Nagiyev. 'Pozvonil', 'called', carries '-l' for Nagiyev."),
+    (6, None, "'And what will happen now?' 'Budet', 'will be', on its own means 'will happen'. 'Chto budet?' supplies the everyday 'what's going to happen?'"),
     (7, None, "'Now they are in for a workout!' 'Pobegat' is built from 'begat', 'to run about', plus 'po-', 'for a while'. 'Seychas oni pobegayut' is a gleeful threat: they'll be run off their feet."),
     (8, None, "'Elena Pavlovna will be angry.' 'Budet zlitsya' is 'will be' plus 'zlitsya', 'to be angry'. 'Zloy' means 'angry' or 'mean', and the same root is in 'zlost', 'anger'."),
     (9, None, "'It serves them right.' 'Tak im i nado' is a fixed saying, word for word 'so to them and needed'. Learn it whole."),
     (10, None, "'Now that is revenge!' 'Vot eto' in front of a word means 'now that's a real one'. 'Vot eto pashtet!' would be 'now that's a pâté!'"),
-    (11, None, "'Next time they will think twice.' 'V sleduyushchiy raz' means 'next time', and it is the partner of 'v proshly raz', 'last time'. 'Podumayut', 'they'll think', needs no 'they' in front."),
-    (12, None, "'Let's watch out the window!' 'Davayte' plus 'we' form, 'posmotrim', is the polite way to say 'let's'. With a friend it would be 'davay posmotrim'."),
+    (11, None, "'Next time they will think twice.' 'V sleduyushchiy raz' means 'next time'; it is the partner of 'v proshly raz', 'last time'. 'Podumayut', 'they'll think', needs no 'they' in front."),
+    (12, None, "'Let's watch out the window!' 'Davayte' plus 'we' form, 'posmotrim', is respectful speech for 'let's'. With a friend it would be 'davay posmotrim'."),
 ]

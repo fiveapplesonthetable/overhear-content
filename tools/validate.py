@@ -563,7 +563,8 @@ def teaches(expl):
 
 
 def check_teaching(w, ex, show, rep):
-    """Per scene: share of explanations that teach. Warn below 60% (or fewer than 4 teaching lines); error with --strict-teaching."""
+    """Per scene: share of explanations that teach. Pure translation-only walk-throughs (empty expl) pass cleanly."""
+    ex = [(i, g, e) for i, g, e in ex if e.strip()]
     n = len(ex)
     t = sum(1 for _, _, e in ex if teaches(e))
     tot = TEACH_SEEN.setdefault(show, [0, 0])

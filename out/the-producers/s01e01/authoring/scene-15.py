@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's savour the eight lines of Joon-mo's speakerphone humiliation."
 
 WALK = [
-    (0, None, "'What favour does our PD Ra Joon-mo have to ask me?' Showing off in front of the rookies, Ye-jin puts 'our' teasingly before Joon-mo's name, then pairs the word for a favour or personal request with 'to me' This means that."),
-    (1, None, "'Couldn't your side pre-record them for us?' He points politely to 'your team over there' and refers to taping a performance ahead of the live show, ending with a casual Korean phrasing for 'couldn't you please...?' It is a handy word."),
-    (2, None, "'No way, we have lots of stages that day.' First comes a blunt 'no can do', then she switches to a polite 'there are many' because she knows his writers are listening, mentioning the stage performances We built from this."),
-    (3, None, "'Come on, Music Bank PD, let me ask this one favour!' Swallowing his pride, Joon-mo tacks an honorific suffix onto 'PD' and pleads, 'let's please make this request happen' This short for that."),
-    (4, None, "'Let's each fend for ourselves.' Ye-jin drops a punchy four-syllable idiom meaning 'everyone survives on their own', turning it into a brisk 'let's each handle our own show!' It comes from this."),
-    (5, None, "'In this industry, you have to look after your own rice bowl.' Hanging up, she lectures the rookies using slang that literally means 'this floor' for 'this industry', then compares your job and turf to a 'rice bowl' that you have to take care of yourself This short for that."),
-    (6, None, "'Is it on, or is it off?' Back in Joon-mo's room, Ji-yeon cuts straight to the chase with a four-syllable phrase literally meaning 'does it work, doesn't it work?' — the quickest way to settle any yes-or-no decision in Korean We built from this."),
-    (7, None, "'She really can't read the room.' Embarrassed in front of his staff, Joon-mo mutters Korean's exact match for 'reading the room', combining the words for mood or atmosphere and grasping it is a handy word."),
+    (0, None, "'What favour does our PD Ra Joon-mo have to ask me?' Showing off in front of the rookies, Ye-jin puts 'our' teasingly before Joon-mo's name, then pairs the noun meaning a favour or personal request with 'to me'."),
+    (1, None, "'Couldn't your side pre-record them for us?' He points politely to 'your team over there' and uses the broadcast term for taping a performance ahead of the live show, ending with a casual phrasing meaning 'couldn't you do this for us?'."),
+    (2, None, "'No way, we have lots of stages that day.' First comes a blunt casual 'no can do', then she switches to a polite 'there are many' because she knows his writers are listening, pointing to the day's stage performances."),
+    (3, None, "'Come on, Music Bank PD, let me ask this one favour!' Swallowing his pride, Joon-mo tacks an honorific suffix onto 'PD' and pleads with a formal suggestion ending: 'let us please make this request!'."),
+    (4, None, "'Let's each fend for ourselves.' Ye-jin drops a punchy four-syllable idiom literally meaning 'each person seeks their own survival', turning it into a brisk 'let's each handle our own show!'."),
+    (5, None, "'In this industry, you have to look after your own rice bowl.' Hanging up, she lectures the rookies using slang that literally means 'this floor' for 'this industry', then compares your livelihood and turf to a 'rice bowl' you must guard yourself."),
+    (6, None, "'Is it on, or is it off?' Back in Joon-mo's room, Ji-yeon cuts straight to the chase with a four-syllable phrase literally meaning 'does it work, doesn't it work?' — the quickest way to settle any yes-or-no question in Korean."),
+    (7, None, "'She really can't read the room.' Embarrassed in front of his staff, Joon-mo mutters Korean's exact match for 'reading the room', combining the words for 'atmosphere' and 'grasping' into one sharp expression."),
 ]
 
 TRANSITION = "Now let's listen to the whole speakerphone showdown again."

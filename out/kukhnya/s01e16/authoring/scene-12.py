@@ -35,7 +35,7 @@ WALK = [
     (2, None, "'You don't like rats either, do you?' 'Ved' is the little word that asks for agreement, close to 'after all' or 'don't you'. 'Krysy', 'rats', becomes 'krys' after 'ne lyubite'."),
     (3, None, "'Yes, I don't like them.' 'Lyubit' means both 'to like' and 'to love', and 'ne lyublyu' is 'I don't like'. The original line is 'nedolyublivayu', literally 'I under-love', which means 'I'm not fond of'."),
     (4, None, "'But they are like cute squirrels.' 'Pokhozhi na' means 'look like', and 'milye belki', 'cute squirrels', becomes 'milykh belok' after 'na', because squirrels are living things."),
-    (5, None, "'Only everyone loves squirrels.' 'Belok', the form of 'belki', is the same after 'lyubyat' as after 'na' in the line before. 'Tolko', 'only', here means 'it's just that'."),
+    (5, None, "'Only everyone loves squirrels.' 'Belok', the form of 'belki', reuses the same after 'lyubyat' as after 'na' in the line before. 'Tolko', 'only', here means 'it's just that'."),
     (6, None, "'And everyone hates rats.' 'A' is the Russian 'and' for a contrast, half way to 'but'. The sentence mirrors the one before: 'belok vse lyubyat', 'krys vse nenavidyat'."),
     (7, None, "'Excuse me, they are calling me.' Russians say 'mne zvonyat', literally 'to me they ring', for a ringing phone. Nobody in particular is meant by 'they'."),
     (8, None, "'Yes, I'm listening.' 'Ya slushayu' is the usual way to answer a phone call. 'Slushat' means 'to listen' and 'slyshat' means 'to hear', and they are easy to mix up."),

@@ -31,10 +31,10 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'I stepped in a rotten plum, chef.\' "Sliva", plum, becomes "slivu" after "v" when you step into it, and "gnilaya", rotten, follows it to "gniluyu".'),
-    (1, None, '\'Quit whining, I\'m in a good mood.\' "Khvatit" means "enough", and the next word stays in its dictionary form: "khvatit nyt", enough whining. "U menya khoroshee nastroenie" is literally "at me, a good mood".'),
+    (1, None, '\'Quit whining, I\'m in a good mood.\' "Khvatit" means "enough", and the next word stays in its dictionary form: "khvatit nyt", enough whining. "U menya khoroshee nastroenie" literally means "at me, a good mood".'),
     (2, None, '\'Today you will learn the art of buying fish.\' Where English says "of buying", Russian just puts "pokupat", to buy, after "iskusstvo", art. "Ryba" becomes "rybu" as the thing being bought.'),
-    (3, None, '\'How many days old do you think this fish is?\' Russian gives the age to the fish: "etoy rybe" means "to this fish", so the question is literally "how many days to this fish?". "Kak ty dumaesh" is "how do you think", where English says "what".'),
-    (4, None, '\'Not like that. Learn from me.\' "Ne tak" is simply "not so". "Uchis u menya" is literally "learn at me": "u" plus a person is where you pick something up.'),
+    (3, None, '\'How many days old do you think this fish is?\' Russian gives the age to the fish: "etoy rybe" means "to this fish", so the question literally reads "how many days to this fish?". "Kak ty dumaesh" is "how do you think", where English says "what".'),
+    (4, None, '\'Not like that. Learn from me.\' "Ne tak" is simply "not so". "Uchis u menya" word-for-word means "learn at me": "u" plus a person is where you pick something up.'),
     (5, None, '\'One day. It came in today.\' "Privezli" has no "they" in front of it. The plural ending on its own says that somebody delivered it.'),
     (6, None, '\'Watch closely, he pursed his lips.\' "Podzhal guby" is "pressed lips", with no "his". Russian rarely says whose body part it is when that\'s obvious.'),
     (7, None, '\'That means this fish is at least three days old.\' "Znachit", it means, opens a conclusion. After "tri" the word for days is "dnya"; from five upwards it turns into "dney".'),

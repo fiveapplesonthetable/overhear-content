@@ -33,17 +33,17 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Where is your fire extinguisher?' 'Vash', 'your', is the polite form. It stays as plain 'vash' because 'ognetushitel' is a masculine word."),
-    (1, None, "'It was hanging here last time.' 'Visel', 'was hanging', ends in a bare '-l' because the extinguisher is masculine; for a feminine thing it would be 'visela'. 'V proshly raz', 'last time', is literally 'in the past time'."),
+    (1, None, "'It was hanging here last time.' 'Visel', 'was hanging', ends in a bare '-l' because the extinguisher is masculine; for a feminine thing it would be 'visela'. 'V proshly raz', 'last time', literally means 'in the past time'."),
     (2, None, "'Are you laughing at me?' Russian laughs 'over' someone: 'smeyatsya nad'. Before 'mnoy', 'me', 'nad' gets an extra o and becomes 'nado mnoy'."),
-    (3, None, "'This one is not suitable.' 'Podkhodit', 'suits', is literally 'walks up to', as if the thing comes up to the mark. It's also what you say about clothes that fit."),
+    (3, None, "'This one is not suitable.' 'Podkhodit', 'suits', literally reads 'walks up to', as if the thing comes up to the mark. It's also what you say about clothes that fit."),
     (4, None, "'Here is a normal fire extinguisher.' 'Vot', 'here it is', is what you say when you point at something, and nothing more than the thing itself needs to follow."),
     (5, None, "'And where is its seal?' 'Ego', 'its', is spelled with a g but said 'yevo'. 'Plomba', the seal on the extinguisher, is also the Russian word for a tooth filling."),
-    (6, None, "'Good afternoon.' 'Dobry den' is literally 'kind day', the polite greeting from late morning until evening."),
+    (6, None, "'Good afternoon.' 'Dobry den' word-for-word means 'kind day', the polite greeting from late morning until evening."),
     (7, None, "'May I find out one thing?' 'Mozhno', 'it is possible', is the simplest way to ask permission: 'mozhno' plus the action, here 'uznat', 'to find out'."),
     (8, None, "'Why are you so interested in my restaurant?' Russian takes an interest 'toward' something, with 'k', and after 'k', 'moy restoran' becomes 'moemu restoranu'."),
     (9, None, "'We are fighting bad management.' 'Rukovodstvo', 'management', is built from 'ruka', 'hand', and 'vodit', 'to lead'. And you fight 'with' something in Russian: 'boremsya s'."),
     (10, None, "'There was a call to my boss.' Notice 'byl', 'there was', is masculine to match 'zvonok', a call. 'Moemu nachalniku' carries the 'to' endings, telling you who got the call."),
     (11, None, "'From the neighboring restaurant.' After 'iz', 'from', both words take the 'of' ending: 'sosednego restorana'. The 'g' in 'sosednego' is said like a 'v', 'sosednevo'."),
-    (12, None, "'Everything is clear.' 'Ponyatno' is built on 'ponyat', 'to understand', so it is literally 'understandable'. It's the usual reply for 'I see' or 'got it'."),
+    (12, None, "'Everything is clear.' 'Ponyatno' grows from 'ponyat', 'to understand', so it literally says 'understandable'. It's the usual reply for 'I see' or 'got it'."),
     (13, None, "'Well then, until tomorrow.' 'Do zavtra', 'until tomorrow', is a set goodbye. Swap in another time and it still works, as in 'do vechera', 'until this evening'."),
 ]

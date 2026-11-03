@@ -39,11 +39,11 @@ WALK = [
     (4, None, '\'You can\'t fire them.\' Barinov picks "uvolnyat", the ongoing partner of "uvolit": that\'s the usual choice when something is ruled out.'),
     (5, None, '\'It\'s the best team in Moscow.\' "Luchshaya", the best, agrees with feminine "komanda". After "v", "Moskva" becomes "Moskve".'),
     (6, None, '\'It\'s cheaper to find new people.\' "Deshevle", cheaper, from "deshevo", cheap. "Lyudi", people, becomes "lyudey".'),
-    (7, None, '\'What difference does it make who chops carrots?\' "Kakaya raznitsa" is the everyday \'who cares\'. "Morkov" covers one carrot or a pile of them.'),
+    (7, None, '\'What difference does it make who chops carrots?\' "Kakaya raznitsa" gives the everyday \'who cares\'. "Morkov" covers one carrot or a pile of them.'),
     (8, None, '\'It\'s my team!\' "Komanda" means a team, and also an order, a command.'),
     (9, None, '\'If you fire them, you\'ll lose me.\' Russian puts both halves in the future: \'if you will fire them\', "uvolish".'),
     (10, None, '\'Just sit down and calm down.\' "Syad", sit down!, and "uspokoysya", calm yourself, with "-sya" on the end.'),
     (11, None, '\'All right, sort it out yourselves.\' "Razbiraytes" speaks to more than one person. "Sami", yourselves.'),
-    (12, None, '\'And meanwhile I\'m quitting.\' "Uvolnyayus" is \'I fire myself\'. "Poka", meanwhile, is the same word as the casual bye.'),
+    (12, None, '\'And meanwhile I\'m quitting.\' "Uvolnyayus" is \'I fire myself\'. "Poka", meanwhile, is the word from the casual bye.'),
     (13, None, '\'Wait, we\'ll sort it all out.\' "Podozhdi", wait!, is friendly. "Reshim", we\'ll decide, promises a result.'),
 ]

@@ -37,7 +37,7 @@ WALK = [
     (4, None, '\'She studied restaurant management.\' "Upravlenie", management, is "upravlyat", to run, turned into a thing. "Restoranami", of restaurants, keeps the \'by\' form that "upravlyat" asks for.'),
     (5, None, '\'And then she worked here.\' "Rabotala", she worked: the "-la" on the end says a woman did it.'),
     (6, None, '\'She worked in our restaurant?\' "V nashem restorane": after "v", in, both words shift, "nash" to "nashem", "restoran" to "restorane".'),
-    (7, None, '\'Yes, she worked here a whole year.\' "Tselyy god", a whole year. Russian needs no word for \'for\' with a stretch of time.'),
+    (7, None, '\'Yes, she worked here a whole year.\' "Tselyy god", a whole year. Russian drops \'for\' with a stretch of time.'),
     (8, None, '\'Yes, I remember that time well.\' "Vremya", time, looks feminine but is neuter, so \'that\' is "eto".'),
     (9, None, '\'Anyway, please make her welcome.\' "Proshu lyubit i zhalovat", \'I ask you to love and favour\', is a set phrase for introducing someone new.'),
     (10, None, '\'Here\'s your new boss.\' "Nachalstvo" means the bosses, the management, as one neuter word, so new is "novoe". "Vashe", your, speaks to the whole staff.'),

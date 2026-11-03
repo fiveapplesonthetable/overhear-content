@@ -13,7 +13,7 @@ SOURCE_FILE = "sources/the-producers/s01/e01.ko.srt"
 
 INTRO = (
     "Summoned into Variety Director Jang In-pyo's office alongside CP Kim Tae-ho, Ra Joon-mo tries to defend "
-    "his 5.7 percent ratings — only to learn that Reporter Kang's rumour was true. Listen for the phrases for "
+    "his five point seven percent ratings — only to learn that Reporter Kang's rumour was true. Listen for the phrases for "
     "'a sharp spike' and 'why did only you not know?'."
 )
 
@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's walk through the eight lines of Joon-mo's reality check in the director's office."
 
 WALK = [
-    (0, None, "'How does every single age group equally not watch it like this?' Staring at the chart, Director Jang pairs the phrase for 'every age bracket' with the word for 'evenly' — usually a positive term for balanced meals, turned wickedly ironic when nobody watches! This literally means that."),
-    (1, None, "'Director, if you look here, there's a section that spiked sharply too.' Pointing at one tiny bump on the page, Joon-mo addresses his boss as 'department director' and highlights a sudden upward jump in one 'segment' This literally means that."),
-    (2, None, "'The game is over, Joon-mo.' The word for 'to end' or 'be finished' is used here to declare 'game over'. Adding a friendly word suffix onto a given name ending in a vowel is how an older boss addresses a junior warmly yet firmly Notice the word for."),
-    (3, None, "'There are so many outlets now that five point seven equals fifteen in the old days.' Korean has a dedicated word for a decimal point when reading numbers aloud, and here the expression for 'the old days' is contrasted with 'nowadays' Swap in this word."),
-    (4, None, "'There's no answer for this, let's fold it.' Saying literally 'there is no answer' means a situation is hopeless. Then the word meaning 'to fold up' is used in blunt TV talk for shutting a project down The word doubles the."),
-    (5, None, "'It's a matter that has already been decided.' Alongside the word for 'already' and the word for 'decision', notice how in Korean a decision doesn't get made — it literally 'comes out' This short for that."),
-    (6, None, "'Did you know about this, Tae-ho?' Stunned, Joon-mo turns to Tae-ho and uses a younger man's word for a close older brother or senior mentor, asking 'did you know?' It comes from this."),
-    (7, None, "'The entire variety department knows, so why were you the only one who didn't?' The word for 'the whole thing' is set cruelly against 'only you'. Reporter Kang was right: the main producer truly found out last! This means that."),
+    (0, None, "'How does every single age group equally not watch it like this?' Staring at the chart, Director Jang pairs the phrase meaning 'every age bracket' with a word meaning 'evenly' — usually a positive word for balanced meals, turned wickedly ironic when nobody watches!"),
+    (1, None, "'Director, if you look here, there's a section that spiked sharply too.' Pointing at one tiny bump on the page, Joon-mo addresses his boss by his department-director title and highlights a compound expression meaning 'spiked sharply' in one segment."),
+    (2, None, "'The game is over, Joon-mo.' An everyday verb meaning 'to end' or 'be finished' declares 'game over' here. Adding that warm calling ending onto a given name ending in a vowel is how an older boss addresses a junior fondly yet firmly."),
+    (3, None, "'There are so many outlets now that five point seven equals fifteen in the old days.' Korean has a dedicated word for a decimal point when reading numbers aloud, and here the expression for 'the old days' is contrasted with 'nowadays'."),
+    (4, None, "'There's no answer for this, let's fold it.' Saying literally 'there is no answer' means a situation is hopeless. Then the casual suggestion built from 'to fold up' is blunt TV talk for shutting a project down."),
+    (5, None, "'It's a matter that has already been decided.' Alongside the words for 'already' and 'decision', notice how in Korean a decision doesn't get made — it literally 'comes out'."),
+    (6, None, "'Did you know about this, Tae-ho?' Stunned, Joon-mo turns to Tae-ho and uses a younger man's warm title for a close older brother or senior mentor, asking casually 'did you know?'."),
+    (7, None, "'The entire variety department knows, so why were you the only one who didn't?' The noun meaning 'the entire group' is set cruelly against 'only you'. Reporter Kang was right: the main producer truly found out last!"),
 ]
 
 TRANSITION = "Now let's hear the whole scene in the director's office again."

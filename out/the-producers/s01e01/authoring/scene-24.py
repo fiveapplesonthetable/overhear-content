@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's walk through the eight lines of this priceless parking-lot twist."
 
 WALK = [
-    (0, None, "'By the way, do you happen to be a KBS employee?' Still on the phone before seeing who it is, Ye-jin pairs the word for 'by any chance' with the word for 'staff member' or 'employee', softened into a respectful question form The word doubles the."),
-    (1, None, "'Goodness, oh my, then we're part of the same family!' She opens with an exclamation that literally means 'in the world!' — a warm gasp like 'oh my goodness!'. Korean workplaces fondly call fellow coworkers a word meaning 'family members who share meals together' This short for that."),
-    (2, None, "'Why didn't you reply to my text messages?' The instant she sees it is rookie Seung-chan, all that honeyed politeness evaporates into the casual 'you'! She uses the everyday word for a text message and bluntly asks 'why don't you reply?' The word doubles the."),
-    (3, None, "'Because you told me not to look at my phone, senior.' Check and mate! Addressing her as his respected senior, Seung-chan quotes her own morning scolding — 'told me not to look' It is a handy word."),
-    (4, None, "'It just got a tiny nick.' Hoping to get off cheap, Ye-jin downplays the dent with a handy everyday word meaning 'lightly', 'barely', or 'just a tiny bit' The word doubles the."),
-    (5, None, "'Yes, well, it doesn't look tiny.' Polite as ever on the surface, immovable underneath: Seung-chan echoes that exact same word right back to say 'it doesn't appear to be just a tiny scratch!' The word doubles the."),
-    (6, None, "'Since this is my father's car, I'll tell my father first.' He states that it is his father's car, using a connective ending that explains 'since that happens to be the case'. Notice how he upgrades 'speaking' to an honorific word for his dad It is a handy word."),
-    (7, None, "'I think I'll have to check the repair estimate and contact you later.' No easy pass for Ye-jin! He refers to an official repair quote from a body shop, and uses crisp, businesslike Korean for 'at a later date' The word doubles the."),
+    (0, None, "'By the way, do you happen to be a KBS employee?' Still on the phone before seeing who it is, Ye-jin pairs the polite cushion word meaning 'by any chance' with 'staff member', softened into a respectful question form."),
+    (1, None, "'Goodness, oh my, then we're part of the same family!' She opens with an exclamation that literally means 'in the world!' — a warm gasp like 'oh my goodness!'. Korean workplaces fondly call fellow coworkers by a compound word meaning 'family who share meals together'."),
+    (2, None, "'Why didn't you reply to my text messages?' The instant she sees it is rookie Seung-chan, all that honeyed politeness evaporates into the casual 'you'! She uses the everyday word for a text message and bluntly asks 'why don't you reply?'."),
+    (3, None, "'Because you told me not to look at my phone, senior.' Check and mate! Addressing her with the respectful title for a workplace senior, Seung-chan quotes her own morning scolding with an honorific 'because you told me not to look'."),
+    (4, None, "'It just got a tiny nick.' Hoping to get off cheap, Ye-jin downplays the dent with a handy everyday word meaning 'lightly', 'barely', or 'just a tiny bit'."),
+    (5, None, "'Yes, well, it doesn't look tiny.' Polite as ever on the surface, immovable underneath: Seung-chan echoes that exact word right back inside a courteous 'it doesn't appear to be tiny!' phrasing."),
+    (6, None, "'Since this is my father's car, I'll tell my father first.' He states that it is his father's car, using a connective ending meaning 'since that happens to be the case'. Notice how he upgrades 'speaking' to a humble, respectful expression for his dad."),
+    (7, None, "'I think I'll have to check the repair estimate and contact you later.' No easy pass for Ye-jin! He uses the noun for an official repair quote from a body shop, paired with crisp, businesslike Korean meaning 'at a later date'."),
 ]
 
 TRANSITION = "Now let's hear the whole nighttime parking-lot reveal again."

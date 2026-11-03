@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's walk through the eight lines of Joon-mo's tough outdoor shoot."
 
 WALK = [
-    (0, None, "It literally means this. 'For our spring special, we're going to Geoje Island.' The opening phrase literally means a special broadcast episode welcoming spring. Geoje is a scenic southern island hours from Seoul This literally means that."),
-    (1, None, "It literally means this. 'Go where? Geoje Island? I can't go.' As a respected elder speaking to a younger director, Yuh-jung uses crisp casual speech to ask 'go where?', then places the negation word for 'cannot' right before the word 'go' to state flatly 'I cannot go' The word doubles the."),
-    (2, None, "It literally means this. 'Why do you keep trying to go so far away?' She attaches the word for 'only' onto 'far away' to complain that he only ever picks distant spots, then ends by asking 'why are you trying to go?' This literally means that."),
-    (3, None, "It literally means this. 'And is this sleeping outdoors?' Fans of Korean travel shows know this classic variety-show punishment by heart—sleeping outdoors for the night, usually inside a chilly tent! It is a handy word."),
-    (4, None, "It literally means this. 'Going far away doesn't make ratings come out.' She uses a connective ending to challenge a false assumption—'just because you travel far doesn't mean...'—and pairs 'ratings' with an expression meaning 'that's not how they come out' Notice the word for."),
-    (5, None, "It literally means this. 'Don't call it spring, I'm freezing to death right now.' Koreans constantly add 'I could die!' right after word like 'cold', 'hungry', or 'tired' for everyday dramatic emphasis It comes from this."),
-    (6, None, "It literally means this. 'Honestly, our ratings are at rock bottom right now.' Back in his interview chair, Joon-mo admits the numbers hit the 'floor'—literally 'rock bottom'—while softening the painful truth with words meaning 'in fact' and 'kind of' We built from this."),
-    (7, None, "It literally means this. 'Crisis is opportunity, so I'm not that anxious.' Putting on a brave face, he quotes the classic proverb pairing 'crisis' with 'opportunity', then cleanly negates the word for 'anxious' This short for that."),
+    (0, None, "'For our spring special, we're going to Geoje Island.' The opening phrase literally means a special broadcast welcoming spring, built from 'spring' and 'greeting'. Geoje is a scenic southern island hours from Seoul."),
+    (1, None, "'Go where? Geoje Island? I can't go.' As a respected elder speaking to a younger director, Yuh-jung uses crisp casual speech to ask 'go where?', then places the negation marker meaning 'cannot' right before 'go' to state flatly 'I cannot go'."),
+    (2, None, "'Why do you keep trying to go so far away?' She attaches the marker meaning 'only' onto 'far away' to complain that he only ever picks distant spots, finishing with a casual question meaning 'why do you keep trying to go?'."),
+    (3, None, "'And is this sleeping outdoors?' Fans of Korean travel shows know this classic variety-show punishment by heart — pairing the words for 'outdoors' and 'bedtime' to mean sleeping outside for the night, usually inside a chilly tent!"),
+    (4, None, "'Going far away doesn't make ratings come out.' She uses a connective ending to challenge a false assumption — 'just because you travel far doesn't mean...' — and pairs 'ratings' with an expression meaning 'that is not how they come out'."),
+    (5, None, "'Don't call it spring, I'm freezing to death right now.' After a brisk command meaning 'don't call it spring', Koreans constantly add an expression meaning 'I could die!' right after words like 'cold', 'hungry', or 'tired' for everyday dramatic emphasis."),
+    (6, None, "'Honestly, our ratings are at rock bottom right now.' Back in his interview chair, Joon-mo admits the numbers hit the 'floor' — literally 'rock bottom' — while softening the painful truth with everyday words meaning 'honestly' and 'kind of'."),
+    (7, None, "'Crisis is opportunity, so I'm not that anxious.' Putting on a brave face, he quotes the classic proverb pairing 'crisis' with 'opportunity', then cleanly negates the word meaning 'anxious'."),
 ]
 
 TRANSITION = "Now let's listen to the whole Geoje Island flashback again."

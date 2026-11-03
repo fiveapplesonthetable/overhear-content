@@ -1,75 +1,69 @@
-# Overhear V3 Production Audio & Authoring Strategy
+# Overhear V5 Production Audio, Simplification & QA Runbook
 
-This document records the proven end-to-end content, voice, TTS, splicing, mastering, and 40 GB A100 multi-daemon architecture used to produce human-grade bilingual lessons across all 10 language pairs (`ru`, `fr`, `pt`, `ar`, `it`, `es`, `de`, `ja`, `zh`, `ko` -> `en`).
-
----
-
-## 1. Why Early TTS Pipelines Sounded Robotic/Stitched — and the 5 Root-Cause Fixes
-
-### Root Cause A: Fragmented Narrator Sentences Around Inline Foreign Callouts
-- **Problem:** Under `spec/recipe.md`, `narrator` text never contains target-language or transliterated words; `WALK` splits an explanation into alternating segments (`narrator` -> `character "Зато"` -> `narrator`). Synthesizing each split English fragment (`", then "`, `" with an "`, `"."`) as an isolated TTS call caused:
-  1. **Multiple narrator voices:** Zero-shot cloning (`Qwen3-TTS-1.7B-Base`) loses speaker lock on 1–3 word fragments without sentence context.
-  2. **End-of-sentence bangs/gasps:** Unterminated fragments ending in `"with an "` or `"and "` caused autoregressive TTS to pause `0.4s` waiting to continue and emit a truncated syllable/pop at `max_new_tokens`.
-  3. **Detached commas & big `300+ ms` gaps:** Leading commas (`', "for", then...'`) were stripped by the TTS tokenizer, while `0.25s` segment gaps + `20ms` trim margins created unnatural `~350 ms` dead silences around every word.
-- **V3 Fix — Continuous Carrier-Sentence Inline Splicing (`render/render_scene.py: CarrierChain`):**
-  - `Renderer.prepare()` detects every inline `WALK` chain (`gap == 0.25`) and builds **one complete, grammatically punctuated English carrier sentence** per explanation (inserting `"phrase"` / `"phrase,"` at target callout slots and moving detached commas onto the placeholder).
-  - `Qwen3-TTS-12Hz-1.7B-Base` (`sky`, cloned from `render/refs/sky.flac` at low-entropy `temperature=0.60, top_k=30, top_p=0.88, repetition_penalty=1.08` with 2 candidates and `WavLM >= 0.78`) synthesizes the **entire carrier sentence in a single continuous take**, locking 100% identical relaxed British female voice, RP accent, room presence, and natural comma/falling intonation across the whole explanation.
-  - `Renderer.finish()` runs `MMS_FA` (`aligner.char_times`) once on the leveled carrier waveform, cuts at true `5 ms` acoustic energy valleys around each placeholder (`12 ms` raised-cosine fades), maps exact character timings back to each script segment, and drops the character's native-voiced word inline with **punctuation-aware conversational micro-gaps (`60 ms` lead-in, `70 ms` inline continuation, `130 ms` comma breath, `220 ms` sentence boundary)**.
-  - Result: 100% contract-compliant per-segment `spans.json` and `timing.json` (`check_render.py` = `0 errors`), zero foreign words in narrator JSON, single unbroken narrator voice, and natural inline bilingual cadence.
-
-### Root Cause B: Short-Clip (`< 400 ms`) ITU-R BS.1770 LUFS `+15 dB` Gain Explosion ("Echo Bang")
-- **Problem:** BS.1770 (`audio.py: lufs`) uses a `400 ms` integration window. Zero-padding `80–200 ms` 1-word callouts (`"у"`, `"за"`, `"Что?"`) to `400 ms` filled 50–80% of the window with zeros, under-measuring loudness by `8–12 dB` and causing `prepare_sentence()` to apply up to **`+15 dB` (`5.6x`) gain** — turning tiny room tails or codec release clicks into loud echo bangs.
-- **V3 Fix (`render/audio.py`):**
-  - Short clips (`< 400 ms`) are periodically tiled (`np.resize(x, blk)`) when measuring active speech LUFS so short words have zero silence-padding bias.
-  - Positive segment gain is capped at `+5.0 dB` for `< 0.45s` clips (`+7.5 dB` otherwise), and all fades use smooth raised-cosine (`0.5 * (1 - cos)`) tapers.
-
-### Root Cause C: Self-Masking Transient Detector & Slow-Speed F5-TTS Duration Babble
-- **Problem:**
-  1. `gates.py: check_transient` previously defined `last_speech` using `rms >= silence_thresh`, which included the bang itself, and ignored any bang followed by `> 80 ms` of codec silence.
-  2. `ESpeech` (`F5-TTS` non-autoregressive flow-matching DiT) has fixed output frame count `gen_frames / speed`; setting `speed = 0.45–0.5` or `min_gen_frames = 0.95s` on a 1-syllable word (`"Что?"`) forced the DiT to hallucinate `2+` seconds of reference-bleed babble to fill the mel window.
-- **V3 Fix (`render/gates.py`, `render/espeech.py`, `render/audio.py`):**
-  - `espeech.py` uses `rt.rstrip() + " "` (preventing reference prompt bleed across `n_ref`), `min_gen_frames = 0.42s`, and `speeds = [1.0, 0.92, 0.85]`.
-  - Both `gates.py: check_transient` and `audio.py: trim` detect contiguous active-speech islands relative to **median** speech RMS (`med_rms`): detached `< 220 ms` post-silence EOS pops (`>= 75 ms` gap) are sliced off cleanly before the gap; single-sentence clips with `>= 220 ms` post-silence secondary babble (`>= 180 ms` gap) or edge bursts (`> 3.1x med_rms` broadband or `> 1.9x med_rms` `< 150 Hz` thump) are rejected and retaken (`attempt < 3` in `turbo_daemon.py`).
-
-### Root Cause D: Thin / Flat Neural Codec Timbre
-- **Problem:** Raw `24 kHz` neural codec outputs (`Mimi` in Qwen3-TTS, `Vocos` in F5/ESpeech) have slightly recessed `130–220 Hz` chest fundamentals.
-- **V3 Fix — Studio Broadcast Warmth Mastering (`render/audio.py: _podcast_warm_eq`):**
-  - Applied uniformly in `master()` prior to `-16.0 LUFS` program normalization and `96 kHz` oversampled `-2 dBTP` true-peak limiting:
-    1. `55 Hz` 2nd-order Butterworth high-pass (eliminates subsonic thumps),
-    2. `+2.0 dB` peaking biquad at `155 Hz` (`Q = 0.75`) for warm human chest fullness,
-    3. `+1.2 dB` high-shelf at `5.2 kHz` (`Q = 0.707`) for crisp consonant presence.
-
-### Root Cause E: Whole-Turn Multi-Sentence Prosody & Introductory English Commas
-- **V3 Fix (`render/textprep.py`):**
-  - Consecutive dialogue/narrator sentences within a turn up to `turnMaxChars = 240` (`90` for `ru` ESpeech) are synthesized as a single continuous waveform (`group_turn_chunks`), deriving sub-sentence `(start, end)` spans in `spans.json` from `MMS_FA` word timestamps.
-  - `polish_english_commas()` restores missing introductory commas (`"A little later,"`, `"In the present tense,"`, `"Meanwhile,"`, `"In Russian,"`, etc.) for natural prosodic breath pauses.
+This document records the complete, reproducible content, voice-design, TTS, acoustic QA, mastering, and 40 GB A100 multi-daemon architecture used to produce studio-grade bilingual episodes across all 10 language pairs (`pt`, `ru`, `fr`, `ar`, `es`, `de`, `ko`, `it`, `ja`, `zh` -> `en`).
 
 ---
 
-## 2. Proven Open-Weight Permissive (`Apache-2.0` / `MIT`) Model Stack
+## 1. Simplified Scene Architecture (Zero AI-Slop Narration)
 
-| Role / Language | Engine & Checkpoint | License | Key Settings |
-|---|---|---|---|
-| **English Narrator (`all 10 pairs`)** | `Qwen/Qwen3-TTS-12Hz-1.7B-Base` (`sky` British female) | `Apache-2.0` | Cloned from `render/refs/sky.flac` (`relaxed British, natural & melodic`) on full `CarrierChain` sentences at `temp=0.60, top_k=30, top_p=0.88`, `2` takes, `WavLM >= 0.78` |
-| **Target (`fr, pt, es, de, it, ja, zh, ko`)** | `Qwen/Qwen3-TTS-12Hz-1.7B-Base` | `Apache-2.0` | Single-ref zero-shot cloning from Pilot Voices V2 (`f: 178–221 Hz`, `m: 95–177 Hz`); `WavLM >= 0.67` |
-| **Target (`ru`)** | `ESpeech/ESpeech-TTS-1_RL-V2` + `RUAccent` | Permissive | Homograph stress from `.notes.json` + `RUAccent` fallback; `speeds: [1.0, 0.92, 0.85]` |
-| **Target (`ar`)** | `ResembleAI/chatterbox` (`ChatterboxMultilingualTTS`) | `MIT` | Warm V2 `ar` voice pool; `torch.backends.cudnn.enabled = False` isolation |
-| **Take Gates (`all`)** | `faster-whisper large-v3-turbo` + `microsoft/wavlm-base-plus-sv` + `librosa.yin` | `MIT` | Best-of-N (`N=3..4`), `CER <= 0.18`, verbatim-repeat check, island/transient gate, F0 `18–45 Hz` tie-breaker |
-| **Forced Alignment (`all`)** | `torchaudio.pipelines.MMS_FA` (`uroman` wordspans on `ja,zh,ko,ar`) | Permissive | Resident on CUDA; `empty_cache()` after each scene |
+Every scene follows a clean 5-part structure (`tools/simplify_walk.py`, validated by `tools/validate.py`):
+1. **English Scene Introduction (`SCENE_INTRO`, `seg 0`):** Brief English setup spoken by British female narrator **`sky`** (`render/refs/sky.flac` — mandatory narrator across all 10 languages).
+2. **Cold Open (`STORY`):** Full target-language dialogue played naturally at conversational pacing (`gap = 0.55s`).
+3. **Line-by-Line Opener (`OPENER`):** Short English transition (`"Now let's go back through the exchange one line at a time."`).
+4. **Pure Translation Line-by-Line (`WALK`):** Each turn plays `[Target-language line (gap=0.55s)]` -> `[English translation ONLY (gap=0.45s)]`, with zero filler grammar/vocabulary AI-slop commentary and zero fragmented inline callouts.
+5. **Natural-Speed Replay & Send-Off (`TRANSITION` + `STORY` + `OUTRO` + `CLOSING`):** Full scene replay at natural cadence (`gap = 0.50s`), brief English sign-off, and a short target-language farewell.
 
-*(Never use non-commercial models such as `fish-speech-1.5` or `higgs-audio`, and never use original show audio.)*
+To convert any newly authored episode to this clean format while automatically remapping `scene-*.notes.json` and `learn/**/*.json` segment indices:
+```bash
+python3 -I tools/simplify_walk.py out/<show>/<sXXeYY>
+python3 -I tools/validate.py --require-notes out/<show>/<sXXeYY>
+```
 
 ---
 
-## 3. Decoupled `/dev/shm` Persistent 40 GB A100 Topology (`render/turbo_daemon.py`)
+## 2. Acoustic Debugging Guide (What the Frequencies & Metrics Mean)
 
-To sustain **`95–100%` SM utilization and `35–39 GiB / 40.96 GiB` VRAM** with zero model reloads and zero `ctranslate2` (cuDNN 9) vs `PyTorch` (cuDNN 8/CUDA 12) library collisions:
+All automated gates (`render/gates.py`, `render/audio.py`, `render/render_scene.py`) and the standalone CLI inspector (`tools/diagnose_audio.py`) measure five physical audio properties:
 
-1. **Process Isolation by Virtualenv:**
-   - `venv-qwen` (`en-worker` x2 on `/dev/shm/overhear-turbo/jobs_en` + `qwen-worker` x2 on `jobs_qwen` + `orchestrator` running `MMS_FA`)
-   - `venv-f5` (`ru-worker` x1–2 on `jobs_ru`, auto-releasing VRAM when idle so Round-1 Qwen/Chatterbox can use the slot)
-   - `venv-asr` (`ar-worker` on `jobs_ar` + `gate-worker` x2 scoring candidate `.npz` bundles in `cands/` with 4-thread CPU F0/transient pools)
-2. **Atomic Lock-Free Queueing in RAM (`/dev/shm/overhear-turbo`):**
-   - Jobs are named `{prio:04d}_{episode}_{key}.json` and claimed atomically via `os.rename` to `.claim.{pid}`, with periodic dead-PID reclamation (`tick % 20 == 0`).
-3. **Continuous Verification & Release Loop:**
-   - Every completed episode writes `done_{episode}.json` only after `tools/check_render.py --episode {episode}` exits `0`, followed by ear-check on `Gemini 3.1 Pro`, logging in `out/PROGRESS.md`, pushing to `origin/main`, and publishing via `python3 -I tools/package_render.py ~/overhear/render-store --episode {episode} --release` (`--clobber`).
+1. **Fundamental Frequency / Pitch (`F0` in `Hz`, measured via `librosa.yin`):**
+   - How many times per second the speaker's vocal cords vibrate — what the human ear perceives as **voice pitch**.
+   - **Grounded adult male:** `95–155 Hz`.
+   - **Calm, grounded adult female (`sky` narrator & dramatic actresses):** `165–205 Hz` (with pitch standard deviation `std` `18–35 Hz`).
+   - **Cartoon / "Duolingo-perky" voice defect:** Median `F0 > 215 Hz` or 90th-percentile `p90 > 250 Hz` with wide sing-song swings (`std > 45 Hz`). We enforce `F0 in [165, 226] Hz` on `sky` in `render/gates.py` and design grounded female voices (`162–198 Hz`) via the two-stage recipe in `tools/design_voices.py`.
+2. **Sliding-Window Speaker Embedding Similarity (`WavLM-base-plus-sv`, `0.0–1.0`):**
+   - Measures vocal-tract timbre identity on every overlapping `1.8s` window (`0.9s` stride) across the entire clip against `render/refs/sky.flac`.
+   - Whole-clip averages can hide a 1.5-second character-roleplay voice flip (`0.93` average while the first `1.8s` dropped to `0.72`). Requiring **every `1.8s` window `>= 0.85`** + stripping quotes/exclamations in `render/textprep.py: sanitize_english_narrator_tts()` eliminates narrator voice switching completely.
+3. **Zero-Crossing Rate (`ZCR`) & Reference Prompt Tail Trim (Pre-Line `"shh"` Prevention):**
+   - `ZCR` measures how often the waveform crosses `0.0` per sample: voiced vowels are smooth (`ZCR ~ 0.02–0.07` = `250–800 Hz`), whereas `"shh"` / breath hiss is rapid high-frequency turbulence (`ZCR > 0.15` = `1.8–4.5 kHz`).
+   - `render/tts.py:_prompt` trims `sky.flac` cleanly at `7.88s` + `160 ms` pure `0.0` digital silence so zero-shot `Qwen3-TTS` never completes a cut-off reference breath at token `0`.
+4. **First & Last Word Completion Guard (`edge_ok` in `render/gates.py`) & Plosive Tail Protection (`render/audio.py`):**
+   - On a 50-character line (`"É isso que você quer pra sua vida? Perder o foco?"`), dropping `"oco"` (`"Perder o f..."`) is only `0.06` overall CER (`<= 0.18`), which previously slipped past whole-sentence CER! `gates.py` now checks exact/near-exact edit distance on **both the first word and the final word** (`edge_ok`) across all alphabetic languages (`en, pt, es, fr, it, de, ru`).
+   - `render/audio.py:_strip_detached_tail_pop` only strips a single `< 55 ms`, `< 25%` peak-RMS EOS click after `>= 320 ms` silence — never multi-syllable words containing voiceless plosive closures (`/k/` in `"foco"`, `/p/` in `"equipe"`).
+5. **Studio Broadcast Warmth EQ (`155 Hz` & `5.2 kHz`) + `-16 LUFS` Loudness (`render/audio.py`):**
+   - `55 Hz` high-pass (removes subsonic thumps), `+2.0 dB @ 155 Hz` (warm chest resonance), `+1.2 dB @ 5.2 kHz` (crisp consonant clarity), normalized to `-16.0 LUFS` (`ITU-R BS.1770-4`, with `< 400 ms` tiling so short callouts never get `+15 dB` silence-padding gain) and `-2 dBTP` true-peak limiting.
+   - For Arabic (`ChatterboxMultilingualTTS`), `render_scene.py` (`arTailCrop: v1`) crops post-sentence EOS hum/sigh tails at the `MMS_FA` acoustic valley `45–125 ms` after the final aligned Arabic word.
+
+Run diagnostics anytime via:
+```bash
+~/overhear/venv-asr/bin/python tools/diagnose_audio.py refs --lang it
+~/overhear/venv-asr/bin/python tools/diagnose_audio.py scene ~/overhear/render-store/porta-dos-fundos-s01e01-scene-03
+```
+
+---
+
+## 3. Reproducible 40 GB A100 Multi-Worker Execution (`tools/launch_round_robin.py` & `render/turbo_daemon.py`)
+
+1. **Initialize the strict round-robin episode queue and launch the persistent worker pool:**
+   ```bash
+   export OVERHEAR_HOME="$HOME/overhear" PATH="/usr/bin:$HOME/.local/bin:$PATH"
+   cd ~/overhear-content
+   python3 -I tools/launch_round_robin.py --reset-done
+   python3 -B -I render/turbo_daemon.py master --qwen-workers 1 --en-workers 1 --ru-workers 2 --gate-workers 1 --batch-seqs 16
+   ```
+   *(When `jobs_qwen` and `jobs_ar` are empty, a 2nd `en-worker --id 2 --batch-seqs 16` can run concurrently alongside `master`, keeping total VRAM `~24–34 GiB / 40.96 GiB` with zero `gate-1` `ctranslate2` OOMs.)*
+
+2. **Verify and `--clobber` publish each completed episode (`/dev/shm/overhear-turbo/done_<ep>.json`) in strict round-robin order:**
+   ```bash
+   python3 -I tools/check_render.py ~/overhear/render-store --episode <ep>
+   python3 -I tools/package_render.py ~/overhear/render-store --episode <ep> --release
+   ```

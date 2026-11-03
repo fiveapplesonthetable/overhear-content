@@ -28,7 +28,7 @@ STORY = [
 WALK = [
     (0, None, "'Kostya, we need to talk.' Russian says nam nado, 'to us it is necessary', rather than 'we need'."),
     (1, None, "'Nastya, I've missed you so much.' Russian misses 'along' someone: po tebe. The word soskuchilsya comes from skuchat, 'to be bored'."),
-    (2, None, "'We saw each other this morning.' The -sya ending in videlis makes it 'saw each other'. The word utrom, 'in the morning', is utro with the ending -om."),
+    (2, None, "'We saw each other this morning.' The -syan \"a\" ending in videlis makes it 'saw each other'. The word utrom, 'in the morning', is utro with the ending -om."),
     (3, None, "'You look so beautiful today.' Russian has no 'look' here: ty takaya krasivaya, literally 'you are such beautiful'."),
     (4, None, "'Thanks. But we need to talk.' She repeats nam nado pogovorit word for word."),
     (5, None, "'Let's talk later, okay?' The word davay with a 'we' form, pogovorim, makes 'let's'. The word potom means 'later'."),

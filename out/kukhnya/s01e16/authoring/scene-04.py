@@ -33,12 +33,12 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Chef.' 'Shef' is the French 'chef' in Russian letters. In this kitchen it is how the cooks address Barinov instead of using his name."),
-    (1, None, "'What do you need?' 'Nado' means 'needed', so 'tebe nado' is literally 'to you is needed'. Barinov says 'ty' to Max, the way a boss talks to a junior cook."),
+    (1, None, "'What do you need?' 'Nado' means 'needed', so 'tebe nado' literally means 'to you is needed'. Barinov says 'ty' to Max, the way a boss talks to a junior cook."),
     (2, None, "'And what are you cooking?' 'Gotovite' is the 'vy' form of 'gotovit', which covers both 'to cook' and 'to prepare'. Max says 'vy' because Barinov is his boss."),
     (3, None, "'And what is it to you?' 'Kakoe delo', 'what business', makes this a blunt brush-off: 'tebe kakoe delo?' is 'what business is it of yours?'"),
-    (4, None, "'Do you have nothing to do?' 'Nechem', 'with nothing', is a single word. The whole line is literally 'to you there is nothing to occupy yourself with'."),
+    (4, None, "'Do you have nothing to do?' 'Nechem', 'with nothing', is a single word. The whole line literally reads 'to you there is nothing to occupy yourself with'."),
     (5, None, "'I have five minutes.' 'U menya est' is 'I have', literally 'at me there is'. After 'pyat', 'five', 'minuta' shortens to 'minut'."),
-    (6, None, "'I wanted to learn from you.' You learn 'at' someone in Russian: 'pouchitsya u vas'. 'Khotel', 'wanted', ends in '-l' because Max is a man; a woman would say 'khotela'."),
+    (6, None, "'I wanted to learn from you.' You learn 'at' someone in Russian: 'pouchitsya u vas'. 'Khotel', 'wanted', adds '-l' to match Max; a woman would say 'khotela'."),
     (7, None, "'Go work.' 'Idi rabotay' sets two commands side by side with no 'and'. Russians do this all the time: 'idi spi', 'go and sleep'."),
     (8, None, "'And can I try it?' 'Mozhno' plus an action asks permission. 'Poprobovat' means both 'to try' and 'to taste', so with food it asks for a taste."),
     (9, None, "'No, you cannot.' 'Nelzya', 'not allowed', is the opposite of 'mozhno'. It is the word on signs, as in 'kurit nelzya', 'no smoking'."),

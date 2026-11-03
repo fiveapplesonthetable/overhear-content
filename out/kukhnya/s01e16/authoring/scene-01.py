@@ -32,9 +32,9 @@ STORY = [
     ('vika', 'Мы всё сделаем.', 'We will do everything.', [], ''),
 ]
 WALK = [
-    (0, None, "'You have a very bad picture regarding safety.' 'U vas', literally 'at you', is the everyday Russian way to say 'you have'. 'Kartina', 'picture', is used for how a situation looks, much like English 'the overall picture'."),
-    (1, None, "'Everything is fine with us.' 'V poryadke' is literally 'in order', and Russians say it all day long for 'fine' or 'all good'."),
-    (2, None, "'We passed all inspections.' 'Proshli' is built on 'pro-', 'through', so to pass a check is literally to go through it. The '-li' ending marks the past for more than one person."),
+    (0, None, "'You have a very bad picture regarding safety.' 'U vas', literally 'at you', is the everyday Russian idiom for 'you have'. 'Kartina', 'picture', is used for how a situation looks, much like English 'the overall picture'."),
+    (1, None, "'Everything is fine with us.' 'V poryadke' literally says 'in order', and Russians say it all day long for 'fine' or 'all good'."),
+    (2, None, "'We passed all inspections.' 'Proshli' stems from 'pro-', 'through', so to pass a check is literally to go through it. The '-li' ending marks the past for more than one person."),
     (3, None, "'How did you pass the inspections?' The inspector simply puts 'kak', 'how', in front of Vika's own words. Russian needs no 'did' to make a question."),
     (4, None, "'You have no fire extinguishers in the kitchen.' After 'net', 'there is no', the missing thing changes its ending: 'ognetushitel' becomes 'ognetushiteley', 'no extinguishers'."),
     (5, None, "'We have one.' 'Est', 'there is', is the opposite of 'net' in the line before, so 'u nas est' means 'at us there is', or 'we have'."),
@@ -42,7 +42,7 @@ WALK = [
     (7, None, "'It must hang within three meters.' 'Dolzhen', 'must', matches the thing it talks about: 'dolzhen' for the extinguisher, which is masculine, and 'dolzhna' for anything feminine."),
     (8, None, "'From the place of a possible fire.' 'Ot', 'from', changes 'mesto', 'place', into 'mesta'. 'Pozhar' is a fire that destroys buildings, as opposed to 'ogon', plain fire or flame."),
     (9, None, "'This is not a problem.' 'Eto', 'this', needs no 'is' after it, so 'eto ne problema' is word for word 'this not problem'."),
-    (10, None, "'This is a very big problem.' 'Bolshaya' ends in '-aya' because 'problema' is feminine. With a masculine word, such as a key, it would be 'bolshoy klyuch'."),
+    (10, None, "'This is a very big problem.' 'Bolshaya' uses '-aya' given 'problema' is feminine. With a masculine word, such as a key, it would be 'bolshoy klyuch'."),
     (11, None, "'Oh, how bad everything is.' 'Kak vsyo plokho' is a stock groan, 'how bad it all is'. 'Plokho' has no '-aya' ending here because it describes how things stand, not one particular thing."),
     (12, None, "'I give you two days for correction.' After 'dva', 'two', the word for day changes: 'den' becomes 'dnya', so 'two days' is 'dva dnya'."),
     (13, None, "'We will do everything.' 'Sdelaem' looks like a present-tense form, but the 's-' at the front makes it one finished job, so it points to the future. Without it, 'delaem' means 'we are doing'."),

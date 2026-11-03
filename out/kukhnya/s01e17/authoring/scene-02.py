@@ -33,15 +33,15 @@ STORY = [
     ('barinov', 'Да ладно, я просто спросил.', 'Oh, relax, I was just asking.', [(32, 'Да ладно, я так просто спросил.')], ''),
 ]
 WALK = [
-    (0, None, '\'Well, there I agree with you.\' "Soglasna" ends in "-a" because Elena is a woman; Barinov would say "soglasen". "S vami" is "with you", the polite form she keeps for her rival.'),
+    (0, None, '\'Well, there I agree with you.\' "Soglasna" has the "-a" ending for Elena; Barinov would say "soglasen". "S vami" is "with you", the polite form she keeps for her rival.'),
     (1, None, '\'Yes, five days. Just right for your restaurant.\' "Kak raz" means "exactly right" or "just the thing", and here it is pure sarcasm: old fish suits her restaurant.'),
     (2, None, '\'You think so? Then I\'ll cook it for you on Tuesday.\' "Vo vtornik" is "on Tuesday": days of the week take "v", which turns into "vo" before "vt". "Eyo" here is "her", meaning the fish.'),
-    (3, None, '\'See you then.\' "Do vstrechi" is literally "until the meeting". It is the goodbye you use when the next meeting is already planned.'),
+    (3, None, '\'See you then.\' "Do vstrechi" literally says "until the meeting". It is the goodbye you use when the next meeting is already planned.'),
     (4, None, '\'See me when?\' Barinov throws her own word back: "kakoy eshchyo vstrechi?", what meeting is that? "Kakoy eshchyo" before a noun is an indignant "what on earth".'),
     (5, None, '\'You\'re paying us a return visit, aren\'t you?\' "Otvetny vizit" is a return visit, from "otvet", answer. "Vy zhe" with "zhe" means "surely you are", a reminder rather than a question.'),
     (6, None, '\'That\'s what I was told, anyway.\' "Mne tak skazali" is "to me so they said", with no "they" at all. The plural ending hides who did the telling.'),
     (7, None, '\'So, see you at Arcobaleno.\' "Tak chto" means "so" when it draws a conclusion. Foreign names ending in "-o", like Arcobaleno, never change their ending in Russian.'),
-    (8, None, '\'Damn, as if I had nothing better to do.\' "Delat mne bolshe nechego" is literally "to do, to me, nothing more". Russians use it to grumble about a chore they did not ask for.'),
+    (8, None, '\'Damn, as if I had nothing better to do.\' "Delat mne bolshe nechego" literally means "to do, to me, nothing more". Russians use it to grumble about a chore they did not ask for.'),
     (9, None, '\'Actually, chef, it\'s not bad at all there.\' "Nichego" usually means "nothing", but "ochen dazhe nichego" means "really rather good". Context decides which one you hear.'),
     (10, None, '\'And how would you know? What, have you been to Arcobaleno?\' "Otkuda" is "from where"; "otkuda ty znaesh" asks where your knowledge comes from. "Byl" is the past of "to be", and its bare ending means a man is speaking.'),
     (11, None, '\'Me? No, of course not.\' "Konechno", of course, is said "koneshno": the "ch" sounds like "sh" in this word. Senya says it a little too fast.'),

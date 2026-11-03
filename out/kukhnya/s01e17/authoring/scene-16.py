@@ -33,7 +33,7 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Good afternoon, dear guests of our restaurant.\' "Uvazhaemye", respected, is the formal way to address customers or an audience.'),
-    (1, None, '\'I hope you enjoyed everything today.\' "Vam vsyo ponravilos" is literally "to you everything was pleasing".'),
+    (1, None, '\'I hope you enjoyed everything today.\' "Vam vsyo ponravilos" literally means "to you everything was pleasing".'),
     (2, None, '\'Hello, yes, everything was very tasty.\' "Zdravstvuyte" is the full polite hello. "Vkusno", tasty, needs no "it" in front.'),
     (3, None, '\'You have a simply excellent kitchen here.\' "Kukhnya" here means the food, not the room.'),
     (4, None, '\'Almost like at our place.\' "U nas", at ours, is his own restaurant. "Pochti" means almost.'),
@@ -41,8 +41,8 @@ WALK = [
     (6, None, '\'Well, on the whole, the food is okay.\' "V tselom" means "on the whole". "Normalnaya", okay, is about as much praise as Barinov gives.'),
     (7, None, '\'Thank you for such kind words.\' "Dobrye", kind, comes from "dobro", good. "Za" here means "for".'),
     (8, None, '\'We spent a very pleasant day here.\' "Proveli", spent, is the word for spending time, never money.'),
-    (9, None, '\'But our restaurant is still better.\' "Vsyo ravno" is literally "all equal", meaning "still" or "anyway".'),
-    (10, None, '\'Come and visit us again.\' "K nam v gosti" is literally "to us, into guests", the set way to invite someone round.'),
+    (9, None, '\'But our restaurant is still better.\' "Vsyo ravno" literally reads "all equal", meaning "still" or "anyway".'),
+    (10, None, '\'Come and visit us again.\' "K nam v gosti" word-for-word means "to us, into guests", the set way to invite someone round.'),
     (11, None, '\'We\'ll definitely come here next time.\' "Obyazatelno" means "definitely" or "without fail". "Pridyom" is "we\'ll come".'),
     (12, None, '\'All right, it\'s time for us to head back.\' "Nam pora" is "it\'s time for us". "Ekhat" means going by car, not on foot.'),
     (13, None, '\'All the best, see you soon!\' "Vsego dobrogo" is a polite goodbye, literally "of all good". "Do skoroy vstrechi" is "until a soon meeting".'),

@@ -32,14 +32,14 @@ STORY = [
 WALK = [
     (0, None, '\'Listen, this is a nice bar.\' "Slushay", listen, is the casual way friends open a thought. The little "a" just eases into it.'),
     (1, None, '\'I could work here.\' "By" turns "porabotal", worked, into "would work". "Ya by" is how Russian starts a daydream.'),
-    (2, None, '\'Here? What about our restaurant?\' "A kak zhe" is literally "and how then", the set way to say "what about...?".'),
+    (2, None, '\'Here? What about our restaurant?\' "A kak zhe" literally means "and how then", the set expression for "what about...?".'),
     (3, None, '\'I mean, if we didn\'t have our restaurant.\' "V smysle", literally "in the sense", is how Russians say "I mean". "Esli by ne bylo" is "if there weren\'t".'),
     (4, None, '\'Then I\'d work here.\' "Tut" and "zdes" both mean "here", and Kostya has now used one of each. "By" keeps it a wish, not a plan.'),
     (5, None, '\'Fine, I believe you.\' "Veryu" means "I believe", from "verit". "Ladno", fine, sounds a bit like she\'s humouring him.'),
     (6, None, '\'Well, here comes the fun.\' Max uses the same arrival phrase as Nastya did: "a vot i", and here is. "Vesele", fun, comes from "vesyolyy", cheerful.'),
-    (7, None, '\'Grab your glasses.\' "Razbirayte" is literally "take apart": everyone helps themselves to one. "Bokaly" is the plural of "bokal", a wine glass.'),
+    (7, None, '\'Grab your glasses.\' "Razbirayte" literally reads "take apart": everyone helps themselves to one. "Bokaly" is the plural of "bokal", a wine glass.'),
     (8, None, '\'Thanks, Max.\' Plain "spasibo" and a name: in Russian the name usually goes at the end like this.'),
-    (9, None, '\'Well?\' "Nu chto?" is literally "well, what?". Here it\'s a nudge: somebody say the toast.'),
+    (9, None, '\'Well?\' "Nu chto?" word-for-word means "well, what?". Here it\'s a nudge: somebody say the toast.'),
     (10, None, '\'Let\'s drink to meeting up.\' "Za" is the toast word, and "vstrecha", meeting, turns into "vstrechu" after it. "Davayte" makes it "let\'s" for a group.'),
     (11, None, "'To meeting up!' Kostya repeats the toast, as everyone round a Russian table does."),
 ]

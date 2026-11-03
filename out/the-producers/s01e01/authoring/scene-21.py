@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's unpack the eight lines of Ye-jin's sweet talk and Seung-chan's catch-twenty-two."
 
 WALK = [
-    (0, None, "The word for 'I think this outfit is so pretty, oh I'm genuinely upset.' Alone with Cindy, Ye-jin pivots 180 degrees: she praises the outfit as 'so pretty', then swears she is genuinely upset over the stuffy network rules! Notice the word for."),
-    (1, None, "The word for 'You know if you go on air wearing this outfit, I have to go to the Commission.' Here, the friendly term of address means 'you, darling', often used warmly among women. The ending pairs the word 'to go' with 'must' — 'I'll get hauled to the Commission!' It comes from this."),
-    (2, None, "The word for 'How about wearing something like a jacket over it for me?' Instead, of ordering a change, she suggests a jacket using a word form that literally means 'if you wear it as a favour for me', softened by a closing question meaning 'how would that be?' It is a handy word."),
-    (3, None, "The word for 'Do we have a jacket?' Flattered that she isn't losing face, Cindy relents with a cool question — musing aloud to herself, 'wonder if there's a jacket around?' This short for that."),
-    (4, None, "The word for 'Thank you!' Beaming in victory, Ye-jin switches to the warm, polite, friendly everyday 'thank you' you will hear constantly alongside the more formal expression This literally means that."),
-    (5, None, "The word for 'Hey, polka dots! What's your name?' Back in the hall, the sweet smile vanishes! She uses the casual way to ask 'what's your name?', reserved for kids or brand-new juniors — with peers or strangers, you would use a polite or honorific phrasing instead The word doubles the."),
-    (6, None, "The word for 'I am very sorry!' Scolded for calling Cindy's outfit pretty earlier, Seung-chan blurts out a formal apology by reflex — forgetting rule number two from this morning! Swap in this word."),
-    (7, None, "The word for 'Yet I'm not allowed to say I'm sorry — it's a vicious cycle.' In his deadpan interview, he explains that he cannot say it: scolded if he speaks, scolded if he stays quiet — a true vicious cycle! We built from this."),
+    (0, None, "'I think this outfit is so pretty, oh I'm genuinely upset.' Alone with Cindy, Ye-jin does a complete turnaround: she praises the outfit as 'so pretty', then pairs a word meaning 'genuinely' with an everyday expression meaning 'upset' or 'heartbroken' over the stuffy rules!"),
+    (1, None, "'You know if you go on air wearing this outfit, I have to go to the Commission.' Notice her warm, affectionate word for 'you' — often used fondly among women like 'darling'. The closing pattern pairs 'go' with 'must' to warn: 'I'll have to go to the Commission!'."),
+    (2, None, "'How about wearing something like a jacket over it for me?' Instead of ordering a change, she suggests a jacket using a polite form that literally means 'if you wear it as a favour for me', softened by a closing question meaning 'how would that be?'."),
+    (3, None, "'Do we have a jacket?' Flattered that she isn't losing face, Cindy relents with a soft self-directed question ending — musing aloud to her stylist, 'I wonder if there is a jacket around?'."),
+    (4, None, "'Thank you!' Beaming in victory, Ye-jin switches to the warm, friendly polite version of 'thank you' that you will hear constantly alongside the stiffer formal expression."),
+    (5, None, "'Hey, polka dots! What's your name?' Back in the hall, her sweet smile vanishes! She uses the casual question form for 'what is your name?', reserved for kids or brand-new juniors rather than peers or strangers."),
+    (6, None, "'I am very sorry!' Scolded for calling Cindy's outfit pretty earlier, Seung-chan blurts out that formal workplace expression for 'I am sorry' by reflex — forgetting rule number two from this morning!"),
+    (7, None, "'Yet I'm not allowed to say I'm sorry — it's a vicious cycle.' In his deadpan interview, he uses the pattern meaning 'cannot say', then sums up his trap with the compound word for 'vicious cycle' — scolded if he speaks, scolded if he stays quiet!"),
 ]
 
 TRANSITION = "Now let's listen to the whole jacket negotiation and hallway scolding again."
