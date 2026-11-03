@@ -82,6 +82,22 @@ class QwenEngine:
                 fn = int(0.015 * sr)
                 x[-fn:] *= 0.5 * (1.0 + np.cos(np.linspace(0.0, np.pi, fn, dtype=np.float32)))
                 x = np.concatenate([x, np.zeros(int(0.16 * sr), dtype=np.float32)])
+            elif voice in ("zh-m1", "zh-m2", "zh-m3", "zh-f2"):
+                # Strip leading/trailing sighs in Mandarin reference clips in-memory so ICL prompts stay sigh-free
+                cuts = {
+                    "zh-m1": (0.0, 7.26),
+                    "zh-m2": (1.08, 7.16),
+                    "zh-m3": (0.0, 8.00),
+                    "zh-f2": (0.80, None),
+                }
+                s_sec, e_sec = cuts[voice]
+                s_idx = int(s_sec * sr)
+                e_idx = int(e_sec * sr) if e_sec is not None else len(x)
+                x = x[s_idx:min(len(x), e_idx)].copy()
+                fn = int(0.015 * sr)
+                x[:fn] *= 0.5 * (1.0 - np.cos(np.linspace(0.0, np.pi, fn, dtype=np.float32)))
+                x[-fn:] *= 0.5 * (1.0 + np.cos(np.linspace(0.0, np.pi, fn, dtype=np.float32)))
+                x = np.concatenate([np.zeros(int(0.10 * sr), dtype=np.float32), x, np.zeros(int(0.16 * sr), dtype=np.float32)])
             self.prompts[voice] = self.q.create_voice_clone_prompt(ref_audio=(x, sr), ref_text=self.voices.refs[voice]["text"])[0]
         return self.prompts[voice]
 

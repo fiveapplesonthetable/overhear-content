@@ -55,9 +55,10 @@ def lufs(x, sr):
     return float(-0.691 + 10 * np.log10(np.mean(z[keep])))
 
 
-def _strip_detached_tail_pop(x, sr):
-    """Strip only a single tiny (< 55 ms), low-energy (< 25% peak RMS) EOS click/pop separated by >= 320 ms of silence.
-    Never loop or strip real multi-syllable words split by voiceless plosive closures (e.g. Portuguese 'Perder o foco?')."""
+def _strip_detached_edge_noise(x, sr):
+    """Strip isolated low-energy pre-speech breaths/clicks and post-speech EOS pops/breaths
+    that sit above -50 dBFS sample peak yet > 16-18 dB below speech RMS across a wide silent gap.
+    Never touches real consonant clusters (Ст-, St-, gap 40..90 ms) or plosive codas ('Perder o foco?', 'last time')."""
     hop = max(1, int(0.01 * sr))
     n = len(x) // hop
     if n < 22:
@@ -67,6 +68,47 @@ def _strip_detached_tail_pop(x, sr):
     pk = float(rms.max())
     if pk <= 1e-6:
         return x
+
+    # 1. Strip sub-12%-RMS pre-speech breath/sigh separated by >= 150 ms of silence before main speech
+    low_thr = max(10 ** (-52.0 / 20.0), pk * 0.008)
+    act_low = rms >= low_thr
+    if act_low.any():
+        isl = []
+        i = 0
+        while i < n:
+            if act_low[i]:
+                j = i + 1
+                while j < n and act_low[j]:
+                    j += 1
+                isl.append((i, j))
+                i = j
+            else:
+                i += 1
+        while len(isl) >= 2:
+            s0, e0 = isl[0]
+            s1, _ = isl[1]
+            dur_ms = (e0 - s0) * 10
+            gap_ms = (s1 - e0) * 10
+            p0 = float(rms[s0:e0].max())
+            if dur_ms <= 450 and gap_ms >= 150 and p0 < pk * 0.12:
+                cut_start = max(0, (s1 - 2) * hop)
+                x = x[cut_start:]
+                return _strip_detached_edge_noise(x, sr)
+            break
+        if len(isl) >= 2:
+            prev_s, prev_e = isl[-2]
+            last_s, last_e = isl[-1]
+            gap_ms = (last_s - prev_e) * 10
+            tail_ms = (last_e - last_s) * 10
+            main_ms = (isl[-2][1] - isl[0][0]) * 10
+            tail_pk = float(rms[last_s:last_e].max())
+            if main_ms >= 150 and gap_ms >= 220 and tail_ms <= 180 and tail_pk < pk * 0.14:
+                x = x[:min(len(x), (prev_e + 2) * hop)]
+                frames = x[:(len(x) // hop) * hop].reshape(len(x) // hop, hop)
+                rms = np.sqrt(np.mean(frames * frames, axis=1))
+                n = len(rms)
+
+    # 2. Also strip any tiny (<= 55 ms) higher-crest (< 25% pk) EOS click separated by >= 320 ms silence
     active_thr = max(10 ** (-42.0 / 20.0), pk * 0.06)
     act = rms >= active_thr
     if not act.any():
@@ -96,7 +138,7 @@ def _strip_detached_tail_pop(x, sr):
 
 
 def trim(x, sr, db=-50.0, margin=0.02):
-    x = _strip_detached_tail_pop(x, sr)
+    x = _strip_detached_edge_noise(x, sr)
     thr = 10 ** (db / 20.0)
     idx = np.where(np.abs(x) > thr)[0]
     if not len(idx):
