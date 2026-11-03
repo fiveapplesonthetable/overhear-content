@@ -524,16 +524,23 @@ class Renderer:
                 else:
                     env, hop = audio_env(x16s[n])
                     wt = align_words(char_times[n], rel, env, hop, s["align"]["snapMaxMs"])
+                seg_s_r, seg_e_r = round(start, 3), round(end, 3)
                 for j, w in zip(idx, wt):
-                    words[j] = {"t": toks[j], "s": round(a + w["s"], 3), "e": round(a + w["e"], 3), "ok": w["ok"], "why": w["why"]}
+                    ws = max(seg_s_r, min(seg_e_r, round(a + w["s"], 3)))
+                    we = max(ws, min(seg_e_r, round(a + w["e"], 3)))
+                    words[j] = {"t": toks[j], "s": ws, "e": we, "ok": w["ok"], "why": w["why"]}
                     if native:
                         words[j].update(span=list(tspans[j]), confidence=w["confidence"], alignment=native_text.VERSION)
-            prev = start
+            seg_s_r, seg_e_r = round(start, 3), round(end, 3)
+            prev = seg_s_r
             for j, w in enumerate(words):
                 if w is None:
                     if native:
                         raise native_text.NativeAlignmentError("missing native word timing; interpolation is forbidden")
                     words[j] = {"t": toks[j], "s": round(prev, 3), "e": round(prev, 3), "ok": False, "why": "missing"}
+                else:
+                    w["s"] = max(prev, min(seg_e_r, w["s"]))
+                    w["e"] = max(w["s"], min(seg_e_r, w["e"]))
                 prev = words[j]["e"]
             timing_bad += sum(1 for w in words if not w["ok"])
             timing[str(si)] = words
