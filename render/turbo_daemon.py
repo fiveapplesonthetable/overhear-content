@@ -87,7 +87,7 @@ def min_prio_in(folder: Path) -> int | None:
     return best
 
 
-def ahead_of_round_robin(jobs_dir: Path, lead: int = 2) -> bool:
+def ahead_of_round_robin(jobs_dir: Path, lead: int = 0) -> bool:
     """Return True if this lane's lowest pending episode prio is > global_min_prio + lead,
     so ahead-of-horizon workers yield 100% A100 SM compute to the active round-robin episode."""
     my_p = min_prio_in(jobs_dir)
@@ -194,7 +194,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
 
-        if ahead_of_round_robin(jobs_dir, lead=2):
+        if ahead_of_round_robin(jobs_dir):
             if eng is not None:
                 log(role, "ahead of round-robin horizon; yielding VRAM & SM compute to active episode")
                 eng.free()
@@ -292,7 +292,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             continue
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
-        if ahead_of_round_robin(jobs_dir, lead=2):
+        if ahead_of_round_robin(jobs_dir):
             time.sleep(2.0)
             continue
 
@@ -386,7 +386,7 @@ def run_ru_worker(worker_id: int, batch_seqs: int):
         if sum(1 for _ in cands_dir.glob("*.json")) > 800:
             time.sleep(0.25)
             continue
-        if ahead_of_round_robin(jobs_dir, lead=2):
+        if ahead_of_round_robin(jobs_dir):
             if eng is not None:
                 log(role, "ahead of round-robin horizon; yielding ESpeech VRAM & SM compute to active episode")
                 eng.free()
