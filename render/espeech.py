@@ -111,18 +111,17 @@ class EspeechEngine:
         a, rt, rms = self._ref(voice)
         n_ref = a.shape[-1] // HOP
         durs, tl = [], []
-        min_gen_frames = int(0.42 * NATIVE_SR / HOP)
+        min_gen_frames = int(0.68 * NATIVE_SR / HOP)
         for g in texts:
             g_clean = g.strip("-–— ") or g
-            if len(g_clean) <= 18 and g_clean and g_clean[-1] not in ".!?…":
+            is_short = len(g_clean) <= 24
+            if is_short and g_clean and g_clean[-1] not in ".!?…":
                 g_clean = g_clean + "."
-            sp = max(0.84, speed) if len(g_clean) <= 14 else speed
-            gen_frames = max(
-                min_gen_frames if len(g_clean) <= 18 else 0,
-                int(n_ref / len(rt.encode("utf-8")) * len(g_clean.encode("utf-8")) / sp),
-            )
+            sp = max(0.86, speed) if len(g_clean) <= 16 else speed
+            raw_frames = int(n_ref / len(rt.encode("utf-8")) * len(g_clean.encode("utf-8")) / sp)
+            gen_frames = max(min_gen_frames, raw_frames + 24) if is_short else raw_frames
             durs.append(n_ref + gen_frames)
-            tl.append(rt + g_clean + " ")
+            tl.append(rt + (" " if is_short else "") + g_clean + ("  " if is_short else " "))
         txt = convert_char_to_pinyin(tl)
         B = len(texts)
         with torch.inference_mode():
