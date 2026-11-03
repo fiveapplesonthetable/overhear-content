@@ -15,6 +15,7 @@ Usage:
   OVERHEAR_HOME="$HOME/overhear" python3 tools/launch_round_robin.py --exec-master
 """
 import argparse
+import concurrent.futures
 import json
 import os
 import shutil
@@ -76,22 +77,30 @@ PINNED_PREFIX = [
 
 def scan_validated_out() -> dict[str, deque[str]]:
     by_show: dict[str, deque[str]] = {}
+    candidates: list[tuple[str, str, Path]] = []
     for sh in SHOW_SETTINGS:
         sdir = ROOT / "out" / sh
+        by_show[sh] = deque()
         if not sdir.is_dir():
-            by_show[sh] = deque()
             continue
         raw_eps = sorted(p.name for p in sdir.glob("s[0-9][0-9]e[0-9][0-9]") if p.is_dir() and any(p.glob("scene-*.json")))
         if sh == "alrawabi-school":
             raw_eps = [e for e in raw_eps if e == "s01e01"]
-        eps = [
-            f"{sh}-{e}" for e in raw_eps
-            if subprocess.run(
-                [sys.executable, "-I", str(ROOT / "tools" / "validate.py"), "--require-notes", str(sdir / e)],
-                stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
-            ).returncode == 0
-        ]
-        by_show[sh] = deque(eps)
+        for e in raw_eps:
+            candidates.append((sh, e, sdir / e))
+
+    def _chk(item: tuple[str, str, Path]) -> tuple[str, str, bool]:
+        sh, e, p = item
+        ok = subprocess.run(
+            [sys.executable, "-I", str(ROOT / "tools" / "validate.py"), "--require-notes", str(p)],
+            stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+        ).returncode == 0
+        return sh, e, ok
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=12) as pool:
+        for sh, e, ok in pool.map(_chk, candidates):
+            if ok:
+                by_show[sh].append(f"{sh}-{e}")
     return by_show
 
 
