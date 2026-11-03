@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e02-scene-05'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 2
+SCENE = 5
+TITLE = 'あなたなら絶対に有名になれる  (You Could Definitely Become Famous)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'keieisha': '経営者', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E02'
+SOURCE_FILE = 'sources/the-naked-director/s02/e02.ja.srt'
+
+INTRO = 'At a nightclub, the chain Proprietor laughs that sales cure every doubt, yet Kawada still longs for true artistry—until a quiet young woman Reika picks up his dropped tape on the street and catches his eye. Listen for "hatsumei", an invention.'
+STORY = [('keieisha', '調子戻ってきたんじゃねえのか？売れてるしな。', 'Looks like you guys got your groove back, right? Sales are booming.', [(238, '調子 戻ってきたんじゃねえのか'), (239, '売れてるしな')], ''), ('kawada', 'ええ。', 'Yes, they are.', [(240, 'ええ')], ''), ('keieisha', 'これは発明だわ。', 'This new concept is a real invention.', [(241, 'これは発明だわ')], ''), ('kawada', '本当にこれでいいんですかね？', 'Do you really think going in this direction is all right?', [(250, '本当に これでいいんですかね')], ''), ('keieisha', '売れてるからいいんだよ。乾杯！', 'It is selling, so that makes it fine! Cheers!', [(251, '売れてるからいいんだよ'), (252, '乾杯')], ''), ('kawada', 'もうちょっとタイトルにコントラストをつけてほしいな。', 'Could you give the cover title a little more visual contrast?', [(257, 'このタイトルが'), (258, 'もうちょっと コントラストをつけてほしいな')], ''), ('reika', 'これ、すいません。', 'Excuse me, you dropped this.', [(270, 'これ'), (271, 'すいません')], ''), ('kawada', '待ってください！アダルトビデオに興味ありませんか？', 'Wait, please! Might you have any interest in adult video?', [(273, '待ってください'), (274, 'アダルトビデオに 興味ありませんか')], ''), ('reika', 'え？', 'Who, me?', [(277, 'え')], ''), ('kawada', 'あなたなら絶対に有名になれる。', 'Someone like you could definitely become famous.', [(278, 'あなたなら 絶対に有名になれる')], ''), ('kawada', '黒木香を超えられるかもしれない。', 'You might even surpass Kaoru Kuroki.', [(279, '黒木 香を超えられるかもしれない')], ''), ('kawada', 'これ、村西とおる監督の作品です。もしよかったら。', 'Here—this is a film by Director Toru Muranishi, if you would like to watch.', [(282, 'これ'), (283, '村西とおる監督の作品です'), (284, 'もし よかったら')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Looks like you guys got your groove back, right? Sales are booming.'"), (1, None, "'Yes, they are.'"), (2, None, "'This new concept is a real invention.'"), (3, None, "'Do you really think going in this direction is all right?'"), (4, None, "'It is selling, so that makes it fine! Cheers!'"), (5, None, "'Could you give the cover title a little more visual contrast?'"), (6, None, "'Excuse me, you dropped this.'"), (7, None, "'Wait, please! Might you have any interest in adult video?'"), (8, None, "'Who, me?'"), (9, None, "'Someone like you could definitely become famous.'"), (10, None, "'You might even surpass Kaoru Kuroki.'"), (11, None, "'Here—this is a film by Director Toru Muranishi, if you would like to watch.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "hatsumei" for invention and "yuumei" for famous, you can follow talent-scouting moments in Japanese. See you next time!'
+CLOSING = ('kawada', 'さようなら。')

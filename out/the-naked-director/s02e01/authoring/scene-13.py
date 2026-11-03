@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e01-scene-13'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 1
+SCENE = 13
+TITLE = '本物の自由が手に入る  (We Can Gain True Freedom)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E01'
+SOURCE_FILE = 'sources/the-naked-director/s02/e01.ja.srt'
+
+INTRO = 'After dinner, Muranishi excitedly tells Kuroki about the towering satellite antennas he saw that afternoon and how beaming films from space could free them from narrow earthly restrictions. Listen for "seiyaku", restrictions or constraints.'
+STORY = [('muranishi', '今日な、とんでもないものに出会ったよ。', 'Today I encountered something truly extraordinary.', [(519, '今日な とんでもないものに出会ったよ')], ''), ('kuroki', '何？聞かせて。', 'What was it? Tell me about it.', [(520, '何？\u3000聞かせて')], ''), ('muranishi', 'でっかいアンテナ。圧倒された。', 'Giant antennas. They completely blew me away.', [(521, 'でっかいアンテナ'), (522, '圧倒された')], ''), ('kuroki', '何、それ？', 'What kind of antennas?', [(523, '何？\u3000それ')], ''), ('muranishi', '衛星放送のアンテナだって。', 'They are antennas for satellite broadcasting.', [(524, '衛星放送のアンテナだって')], ''), ('muranishi', '宇宙まで電波が届いて、そこから一気に放送を流せるらしい。', 'Signals reach all the way to space and broadcast everywhere at once.', [(525, '宇宙まで電波が届いて そこから一気に放送を流せるらしい')], ''), ('kuroki', 'すごい。', 'That is amazing.', [(526, 'すごい')], ''), ('muranishi', 'あれで俺がずっと求めてきた夢がかなうかもしれない。', 'With that, the dream I have chased all along might finally come true.', [(527, 'あれで 俺がずっと求めてきた夢が かなうかもしれない')], ''), ('kuroki', '空からエロが降ってくる？', 'Desire raining straight down from the sky?', [(528, '空から'), (529, 'エロが降ってくる')], ''), ('muranishi', 'そう。バカげた制約のない本物の自由が手に入る。', 'Exactly. We gain genuine freedom without ridiculous restrictions.', [(530, 'そう'), (532, 'バカげた制約のない 本物の自由が手に入る')], ''), ('kuroki', '私の次の作品も宇宙から降り注ぐんですか？', 'Will my next film shower down from outer space too?', [(533, '私の次の作品も'), (534, '宇宙から降り注ぐんですか')], ''), ('muranishi', 'もちろん。そのための衛星だ。', 'Of course. That is what the satellite is for.', [(535, 'もちろん\u3000そのための衛星だ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Today I encountered something truly extraordinary.'"), (1, None, "'What was it? Tell me about it.'"), (2, None, "'Giant antennas. They completely blew me away.'"), (3, None, "'What kind of antennas?'"), (4, None, "'They are antennas for satellite broadcasting.'"), (5, None, "'Signals reach all the way to space and broadcast everywhere at once.'"), (6, None, "'That is amazing.'"), (7, None, "'With that, the dream I have chased all along might finally come true.'"), (8, None, "'Desire raining straight down from the sky?'"), (9, None, "'Exactly. We gain genuine freedom without ridiculous restrictions.'"), (10, None, "'Will my next film shower down from outer space too?'"), (11, None, "'Of course. That is what the satellite is for.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "yume" for dream and "seiyaku" for constraints, you can share big creative visions in Japanese. Catch you later!'
+CLOSING = ('muranishi', 'じゃあね。')

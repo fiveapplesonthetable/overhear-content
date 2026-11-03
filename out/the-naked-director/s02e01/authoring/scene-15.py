@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e01-scene-15'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 1
+SCENE = 15
+TITLE = 'ビジネスをしに来たんだ  (I Came Here To Do Business)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kacho': '課長', 'muranishi': '村西', 'shacho': '社長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E01'
+SOURCE_FILE = 'sources/the-naked-director/s02/e01.ja.srt'
+
+INTRO = 'At a grand mansion party, Muranishi and the banker are left waiting over tea while the satellite President plays video games—until Muranishi marches straight in to pitch his five-billion-yen company. Listen for "dokyou", nerve or guts.'
+STORY = [('kacho', 'どうやらパーティーのようですね。', 'It looks as though they are hosting a party tonight.', [(594, 'どうやら パーティーのようですね')], ''), ('muranishi', 'アポは取れてるんですよね？', 'You did confirm our appointment, right?', [(595, 'アポは取れてるんですよね')], ''), ('kacho', 'もちろんです。もう少々お待ちください。', 'Of course I did. Please wait just a little longer.', [(595, 'もちろんです'), (600, 'もう少々お待ちください')], ''), ('shacho', 'ああいいよ、そんなもん待たせておけ。', 'Never mind him, just leave him waiting out there.', [(606, 'ああ いいよ そんなもん 待たせておけ')], ''), ('muranishi', '俺は紅茶を飲みに来たんじゃない、ビジネスをしに来たんだ。', "I didn't come here to sip tea, I came here to do business.", [(612, '俺は 紅茶を飲みに来たんじゃない ビジネスをしに来たんだ')], ''), ('muranishi', '人を待たせてゲームとはいい度胸だ。', 'Making guests wait while you play games takes some nerve.', [(613, '人を待たせて ゲームとはいい度胸だ')], ''), ('muranishi', 'わたくしも衛星放送に参入しようと考えてるんですよ。', 'I am planning to enter satellite broadcasting too.', [(620, 'わたくしも衛星放送に参入しようと 考えてるんですよ')], ''), ('muranishi', 'わたくしは日本で最も有名なアダルトビデオの監督です。', 'I am the most famous adult video director in Japan.', [(628, 'わたくしはね 日本で最も有名な アダルトビデオの監督です')], ''), ('muranishi', '衛星チャンネルの放送権を一つわたくしに許可してください。', 'Please grant me the broadcast rights to one satellite channel.', [(634, '衛星チャンネルの放送権'), (635, 'わたくしに許可してください')], ''), ('shacho', '回線がいっぱいでね。', 'All of our satellite lines are already full.', [(638, '回線が いっぱいでね')], ''), ('muranishi', '人の話は最後まで聞け！うちの会社の年商は五十億あるんだよ！', 'Hear a man out to the end! My company brings in five billion yen a year!', [(640, '人の話は最後まで聞け'), (645, 'うちの会社の年商は')], ''), ('muranishi', 'きれい事でやってるお宅らとは生命力が違うんだよ！', 'Our vitality is on another level from pampered heirs talking pretty!', [(646, 'きれい事でやってる'), (647, '生命力が違うんだよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'It looks as though they are hosting a party tonight.'"), (1, None, "'You did confirm our appointment, right?'"), (2, None, "'Of course I did. Please wait just a little longer.'"), (3, None, "'Never mind him, just leave him waiting out there.'"), (4, None, "'I didn't come here to sip tea, I came here to do business.'"), (5, None, "'Making guests wait while you play games takes some nerve.'"), (6, None, "'I am planning to enter satellite broadcasting too.'"), (7, None, "'I am the most famous adult video director in Japan.'"), (8, None, "'Please grant me the broadcast rights to one satellite channel.'"), (9, None, "'All of our satellite lines are already full.'"), (10, None, "'Hear a man out to the end! My company brings in five billion yen a year!'"), (11, None, "'Our vitality is on another level from pampered heirs talking pretty!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "dokyou" for nerve and "nenshou" for annual revenue, you can follow bold boardroom crashings in Japanese. Until next time!'
+CLOSING = ('muranishi', 'またね。')

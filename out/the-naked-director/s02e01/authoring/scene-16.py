@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e01-scene-16'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 1
+SCENE = 16
+TITLE = 'この顔よく覚えといてください  (Remember This Face Well)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kacho': '課長', 'muranishi': '村西', 'shacho': '社長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E01'
+SOURCE_FILE = 'sources/the-naked-director/s02/e01.ja.srt'
+
+INTRO = 'At the end of Episode One, the satellite President laughs off five billion yen beside his three-hundred-billion-yen peers and remarks that nobody in the room knows Muranishi\'s name—sparking Muranishi\'s fiery vow outside. Listen for "chie", strategic wisdom.'
+STORY = [('shacho', '面白いね君。ここにいる連中は国の経済を支えている連中なんだよ。', "You are funny. The people in this room are the ones propping up the nation's economy.", [(648, '面白いね 君'), (653, '国の経済を 支えている連中なんだよ')], ''), ('shacho', '俺たちは税金を払って国の経済バランスを取ってるんだ。', "We pay massive taxes and keep the country's economic balance running.", [(655, '税金をしこたま払って 国の経済バランスを取っててね')], ''), ('shacho', 'だから五十億って威勢よく言われても笑っちゃうんだよな。', 'So when you brag about five billion yen, it just makes us laugh.', [(659, '威勢よく言われても 笑っちゃうんだよな')], ''), ('shacho', 'ちなみに少なくとも年商は三千億だよね？', 'After all, each of us makes at least three hundred billion a year, right?', [(661, 'ちなみに 少なくとも年商は')], ''), ('shacho', '君の名前、ほら誰も知らなかったよね？', 'And look—not a single person here knew your name, did they?', [(665, '君の名前'), (666, 'ほら 誰も知らなかったよね')], ''), ('shacho', '分かったら帰ってくれ。', 'Now that you get the picture, see yourself out.', [(669, '分かったら 帰ってくれ')], ''), ('muranishi', 'この顔よく覚えといてください。', 'Remember this face very well.', [(670, '覚えといてください')], ''), ('muranishi', 'わたくしの名前は村西とおるでございます。', 'My name is Toru Muranishi.', [(671, 'わたくしの名前は 村西とおるでございます')], ''), ('muranishi', '前に薦めてきた別荘、クルーザー、土地はいくらだ？', 'How much are that villa, cruiser, and land you pitched me earlier?', [(675, '前に薦めてきた別荘'), (678, 'クルーザーは いくらだ'), (680, '土地は？\u3000いくらだ')], ''), ('kacho', 'なぜ今そんなことを？', 'Why are you asking about all of those right now?', [(680, 'なぜ 今そんなことを')], ''), ('muranishi', '全部買ってやる。その代わりあんたの知恵をよこせ。', 'I will buy all of them. In exchange, give me your strategic brains.', [(681, '全部 買ってやる'), (683, 'その代わり あんたの知恵をよこせ')], ''), ('muranishi', '俺がどうすれば衛星のレースに参加できるか考えてくれ。', 'Figure out how I can get into the satellite broadcasting race.', [(684, '俺が どうすれば衛星のレースに 参加できるか考えてくれ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'You are funny. The people in this room are the ones propping up the nation's economy.'"), (1, None, "'We pay massive taxes and keep the country's economic balance running.'"), (2, None, "'So when you brag about five billion yen, it just makes us laugh.'"), (3, None, "'After all, each of us makes at least three hundred billion a year, right?'"), (4, None, "'And look—not a single person here knew your name, did they?'"), (5, None, "'Now that you get the picture, see yourself out.'"), (6, None, "'Remember this face very well.'"), (7, None, "'My name is Toru Muranishi.'"), (8, None, "'How much are that villa, cruiser, and land you pitched me earlier?'"), (9, None, "'Why are you asking about all of those right now?'"), (10, None, "'I will buy all of them. In exchange, give me your strategic brains.'"), (11, None, "'Figure out how I can get into the satellite broadcasting race.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "zeikin" for taxes to "chie" for expertise, you have completed Episode One of Season Two. See you in Episode Two!'
+CLOSING = ('muranishi', 'さようなら。')

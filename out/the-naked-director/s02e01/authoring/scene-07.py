@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e01-scene-07'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 1
+SCENE = 7
+TITLE = "出ろ、釈放だ  (Step Out, You're Released)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'muranishi': '村西', 'police': '警察官'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E01'
+SOURCE_FILE = 'sources/the-naked-director/s02/e01.ja.srt'
+
+INTRO = 'While Muranishi jokes about deluxe grilled eel in an interrogation room, Kawada visits a senior official with side-by-side photos of two sisters to prove they were tricked by a real license—and slips an envelope into his pocket. Listen for "menkyo", a license or ID.'
+STORY = [('kawada', 'お忙しい中、いつもお時間頂きまして失礼しました。', 'Thank you for sparing your time when you are so busy.', [(269, 'お忙しい中 いつも お時間 頂きまして'), (271, '失礼しました')], ''), ('kawada', '実は困ったことがありまして、お力をお借りできないかと。', 'We have run into trouble and hoped we might borrow your assistance.', [(272, '実は 困ったことがありまして'), (273, 'お力を お借りできないかと')], ''), ('kawada', 'この二人、姉妹なんですよ。', 'These two girls are actually sisters.', [(280, '姉妹なんですよ')], ''), ('kawada', '最近は小遣い欲しさに身分を偽る未成年も多い。', "Lately many minors fake their age using an older sister's ID for pocket money.", [(281, '最近は 小遣い欲しさに 身分を偽る未成年も多い')], ''), ('kawada', 'ここまでそっくりな免許を持ってこられたら見分けがつきません。', 'When someone brings a license this identical, even we cannot tell them apart.', [(283, 'ここまでそっくりな 免許を持ってこられたら'), (284, '見分けがつきません')], ''), ('kawada', 'こちらをポケットにしまっていただければ。', 'If you could simply tuck this envelope into your pocket.', [(287, 'こちらを ポケットにしまっていただければ')], ''), ('muranishi', 'うな重を三つ特上でごちそういたしますよ。', 'Let me treat the three of you to deluxe grilled eel boxes.', [(297, 'うな重を'), (297, '特上で ごちそういたしますよ')], ''), ('police', 'いらねえよ！嫌いなんだようなぎはよ。', "I don't want it! I hate eel anyway.", [(300, 'いらねえよ'), (301, '嫌いなんだよ うなぎはよ')], ''), ('police', '村西！出ろ、釈放だ。', 'Muranishi! Step out, you are released.', [(304, '村西'), (305, '出ろ\u3000釈放だ')], ''), ('police', 'ちょっと待てよ、どういうことなんだよ！', 'Hold on a second, what the heck is going on here!', [(306, 'ちょっと待てよ どういうことなんだよ')], ''), ('muranishi', 'はいはい、お疲れさま。うな重キャンセル。', 'All right, good work, gentlemen. Cancel the eel boxes.', [(308, 'はいはい お疲れさま'), (311, 'うな重 キャンセル')], ''), ('muranishi', 'ご苦労さん。', 'Thanks for your trouble.', [(315, 'ご苦労さん')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Thank you for sparing your time when you are so busy.'"), (1, None, "'We have run into trouble and hoped we might borrow your assistance.'"), (2, None, "'These two girls are actually sisters.'"), (3, None, "'Lately many minors fake their age using an older sister's ID for pocket money.'"), (4, None, "'When someone brings a license this identical, even we cannot tell them apart.'"), (5, None, "'If you could simply tuck this envelope into your pocket.'"), (6, None, "'Let me treat the three of you to deluxe grilled eel boxes.'"), (7, None, "'I don't want it! I hate eel anyway.'"), (8, None, "'Muranishi! Step out, you are released.'"), (9, None, "'Hold on a second, what the heck is going on here!'"), (10, None, "'All right, good work, gentlemen. Cancel the eel boxes.'"), (11, None, "'Thanks for your trouble.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "menkyo" for driver\'s license and "una-juu" for grilled eel over rice, you have colorful Japanese words from classic drama scenes. Catch you soon!'
+CLOSING = ('kawada', 'またね。')
