@@ -159,13 +159,14 @@ class AudioGates:
             else:
                 i += 1
 
-        while len(islands) >= 2:
+        if len(islands) >= 2:
             prev_s, prev_e = islands[-2]
             last_s, last_e = islands[-1]
             gap_ms = (last_s - prev_e) * 10
             tail_ms = (last_e - last_s) * 10
             main_ms = (islands[-2][1] - islands[0][0]) * 10
-            if main_ms >= 100 and gap_ms >= 260 and tail_ms <= 150:
+            tail_pk = float(rms[last_s:last_e].max()) if last_e > last_s else 0.0
+            if main_ms >= 100 and gap_ms >= 320 and tail_ms <= 55 and tail_pk < pk_rms * 0.25:
                 cut_sample = min(len(wav), (prev_e + 2) * hop)
                 wav = wav[:cut_sample]
                 rms = rms[:prev_e + 2]
@@ -173,8 +174,6 @@ class AudioGates:
             elif n_internal_sents == 0 and text_len <= 22 and main_ms >= 100 and gap_ms >= 520 and tail_ms > 220:
                 # Very short 1-2 word callout followed by >0.5s dead silence and extra hallucinated babble (e.g. F5 bleed)
                 return False, "transient", wav
-            else:
-                break
 
         # Also strip any isolated <= 220 ms pre-speech breath/shush/click separated by >= 35 ms before main speech
         if len(islands) >= 2:
@@ -288,11 +287,13 @@ class AudioGates:
             sim_thresh = 0.85 if lang == "en" else 0.67
             sim_ok = (sim_val >= sim_thresh) and pitch_ok
 
-            segs, _ = self.whisper.transcribe(
+            segs_list = list(self.whisper.transcribe(
                 w_16k, language=lang, beam_size=1,
-                word_timestamps=False, condition_on_previous_text=False,
-            )
-            hyp_text = " ".join(s.text for s in segs).strip()
+                word_timestamps=(lang in ("en", "pt", "es", "fr", "it", "de", "ru")),
+                condition_on_previous_text=False,
+            )[0])
+            hyp_text = " ".join(s.text for s in segs_list).strip()
+            w_objs = [wo for s in segs_list for wo in (s.words or [])]
             words = re.findall(r"\w+", hyp_text.lower())
             rep_ok = True
             t_lower = text_plain.lower()
@@ -321,6 +322,11 @@ class AudioGates:
                             if float(jiwer.cer(rw, hw)) > max_ed:
                                 edge_ok = False
                                 break
+                        if edge_ok and w_objs and len(ref_w[-1]) >= 4:
+                            lw_dur = float(w_objs[-1].end) - float(w_objs[-1].start)
+                            lw_prob = float(getattr(w_objs[-1], "probability", 1.0))
+                            if lw_dur < 0.09 or lw_prob < 0.18:
+                                edge_ok = False
             cer_ok = (cer_val <= (0.10 if lang == "en" else 0.18)) and edge_ok
 
             all_ok = sim_ok and len_ok and tran_ok and rep_ok and cer_ok
