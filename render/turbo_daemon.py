@@ -202,7 +202,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
             time.sleep(2.0)
             continue
 
-        claimed = claim_jobs(jobs_dir, max_jobs=14, max_expanded=batch_seqs, max_chars=3200)
+        claimed = claim_jobs(jobs_dir, max_jobs=18, max_expanded=max(batch_seqs, 28), max_chars=7200)
         if not claimed:
             time.sleep(0.2)
             continue
@@ -296,7 +296,8 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             time.sleep(2.0)
             continue
 
-        claimed = claim_jobs(jobs_dir, max_jobs=batch_seqs, max_expanded=batch_seqs, max_chars=4200)
+        eff_seqs = max(batch_seqs, 28)
+        claimed = claim_jobs(jobs_dir, max_jobs=eff_seqs, max_expanded=eff_seqs, max_chars=7500)
         if not claimed:
             time.sleep(0.2)
             continue
@@ -396,7 +397,7 @@ def run_ru_worker(worker_id: int, batch_seqs: int):
         if idle_ticks % 40 == 20:
             reclaim_stale_claims(jobs_dir)
 
-        claimed = claim_jobs(jobs_dir, max_jobs=8, max_expanded=batch_seqs)
+        claimed = claim_jobs(jobs_dir, max_jobs=12, max_expanded=max(batch_seqs, 22))
         if not claimed:
             idle_ticks += 1
             if eng is not None and idle_ticks > 50:  # >15s idle -> release VRAM for Qwen/ASR
@@ -537,7 +538,7 @@ def run_gate_worker(worker_id: int):
     store = Store(config.STORE)
     cands_dir = SHM_ROOT / "cands"
     stop_file = SHM_ROOT / "STOP"
-    cpu_pool = concurrent.futures.ThreadPoolExecutor(max_workers=4)
+    cpu_pool = concurrent.futures.ThreadPoolExecutor(max_workers=6)
     if g is not None:
         log(role, "Whisper large-v3-turbo + WavLM-base-plus-sv + 4-thread CPU F0/transient scorer ready")
 
@@ -887,7 +888,7 @@ def run_master(qwen_workers: int, en_workers: int, ru_workers: int, gate_workers
     for rid in range(1, ru_workers + 1):
         specs.append((
             f"ru-espeech-{rid}",
-            [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--id", str(rid), "--batch-seqs", "14"],
+            [f"{config.VENV_F5}/bin/python", "-I", str(Path(__file__).resolve()), "ru-worker", "--id", str(rid), "--batch-seqs", "22"],
             venv_cuda_libs(config.VENV_F5),
         ))
     specs.append((
