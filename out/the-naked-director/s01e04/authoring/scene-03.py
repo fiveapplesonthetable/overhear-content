@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 4
 SCENE = 3
-TITLE = 'Scene 3  (Scene 3)'
+TITLE = '池沢と武井はつながってるんだよ  (Ikezawa and Detective Takei Are Connected)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e04.ja.srt'
+LABELS = {'toshi': 'トシ', 'muranishi': '村西', 'furuya': '古谷'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E04'
 SOURCE_FILE = 'sources/the-naked-director/s01/e04.ja.srt'
 
-INTRO = 'Welcome to episode 4.'
-STORY = [
-    ('muranishi', '''はい！はい！''', '''No translation.''', [(30, '''‎（一同）はい！　はい！''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'At an open-air drink stall in Tokyo, Toshi grumbles that their big talk in Hokkaido means nothing while rival Ikezawa dominates sales—until yakuza boss Furuya sits down beside them. Listen to Toshi, Muranishi, and Furuya in Japanese first.'
+STORY = [('toshi', '北海道では勝負するって大口たたいてたけど、現実は天と地だな。', 'Up in Hokkaido we talked big about competing, yet reality is heaven and earth apart.', [(66, '北海道ではよ 勝負するって'), (66, '大口たたいてたけど'), (67, '現実は天と地だな')], ''), ('muranishi', '俺はそうは思わない。', "I don't see it that way.", [(68, '俺は そうは思わない')], ''), ('toshi', 'ほえててもしょうがねえだろ、現実は池沢が売れてんだからよ。', "Barking does no good when the reality is that Ikezawa's tapes are the ones selling.", [(69, 'ほえてても しょうがねえだろ'), (69, 'が売れてんだからよ')], ''), ('muranishi', 'これからだよ。', 'We are only getting started.', [(70, 'これからだよ')], ''), ('furuya', 'モヤモヤした時は安酒かっ食らうのが一番だな。', 'When your head feels murky, gulping cheap booze is the best cure.', [(77, 'モヤモヤした時は'), (77, '安酒かっ食らうのが一番だな')], ''), ('furuya', 'どうだ、少しは歌舞伎町に慣れたか？', 'How about it — gotten used to this district a little yet?', [(79, 'どうだ'), (79, 'に慣れたか')], ''), ('muranishi', 'まあ、ぼちぼちです。', 'Well, little by little.', [(80, 'まあ ぼちぼちです')], ''), ('furuya', 'あんたは商才がある。頑張ってまたもうけさせてくれよ。', "You've got real business flair; work hard and make me rich again.", [(81, 'あんたは商才がある'), (81, '頑張って またもうけさせてくれよ')], ''), ('furuya', '池沢にまたやられるようなヘマだけはすんなよ。', "Just don't blunder into letting Ikezawa burn you a second time.", [(90, '池沢に またやられるような'), (90, 'ヘマだけはすんなよ')], ''), ('muranishi', 'またって何ですか？', 'What do you mean by a second time?', [(92, 'って何ですか')], ''), ('furuya', 'お前らがパクられたのは、池沢の仕掛けなんだよ。', 'Your getting busted up north was a setup engineered by Ikezawa.', [(98, 'お前らがパクられたのは'), (98, '池沢の仕掛けなんだよ')], ''), ('furuya', '池沢と武井はつながってるんだよ。次は守ってやるよ、俺は味方だからよ。', "Ikezawa and Takei are in cahoots. Next time I'll protect you — I'm on your side.", [(99, 'はつながってるんだよ'), (101, '次は守ってやるよ'), (101, '俺は味方だからよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Up in Hokkaido we talked big about competing, yet reality is heaven and earth apart.'"), (1, None, '"I don\'t see it that way."'), (2, None, '"Barking does no good when the reality is that Ikezawa\'s tapes are the ones selling."'), (3, None, "'We are only getting started.'"), (4, None, "'When your head feels murky, gulping cheap booze is the best cure.'"), (5, None, "'How about it — gotten used to this district a little yet?'"), (6, None, "'Well, little by little.'"), (7, None, '"You\'ve got real business flair; work hard and make me rich again."'), (8, None, '"Just don\'t blunder into letting Ikezawa burn you a second time."'), (9, None, "'What do you mean by a second time?'"), (10, None, "'Your getting busted up north was a setup engineered by Ikezawa.'"), (11, None, '"Ikezawa and Takei are in cahoots. Next time I\'ll protect you — I\'m on your side."')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Stunned to learn that Ikezawa and Detective Takei colluded to have them arrested in Hokkaido, Muranishi and Toshi realize just how deep their rival's reach runs. See you next time!"
+CLOSING = ('furuya', 'また明日。')

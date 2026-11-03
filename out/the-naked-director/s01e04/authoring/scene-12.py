@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 4
 SCENE = 12
-TITLE = 'Scene 12  (Scene 12)'
+TITLE = '一歩前進ですね  (One Step Forward on the Rental Shelf)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e04.ja.srt'
+LABELS = {'muranishi': '村西', 'kawada': '川田', 'tencho': '店長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E04'
 SOURCE_FILE = 'sources/the-naked-director/s01/e04.ja.srt'
 
-INTRO = 'Welcome to episode 4.'
-STORY = [
-    ('muranishi', '''皆さん盛り上がってますか？''', '''Are you all having fun?''', [(192, '''‎（ＤＪ） ‎皆さん 盛り上がってますか？''')], ''),
-    ('muranishi', '''そろそろ今日もチークタイムへいきましょう''', '''It's now time for some slow dancing!''', [(193, '''‎そろそろ今日も ‎チークタイムへいきましょう''')], ''),
-    ('muranishi', '''あのちょっと飲み物取ってきます''', '''I'm going to get a drink.''', [(194, '''‎（恵美） ‎あの ちょっと飲み物 取ってきます''')], ''),
-    ('muranishi', '''いやえっ…えっいいでしょ？''', '''Come on!''', [(195, '''‎（男性） ‎いや えっ… えっ いいでしょ？''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Back on set, Muranishi scrapes together another million yen and urges the actress to show her true self. Days later, Kawada and Toshi return to the video shop to see how their bold new release is faring. Listen to Muranishi, Kawada, and the Manager in Japanese first.'
+STORY = [('muranishi', 'あんなものを見せて損すんのはお前なんだから。', 'Showing half-baked work like that only hurts your own name.', [(407, 'あんなものを見せて'), (407, '損すんのは お前なんだから')], ''), ('muranishi', 'ギャラはかき集めてもう百万積む。本当のお前を見せてみろ。', "I'll scrape together another million yen on top of your fee — show me the real you.", [(411, 'ギャラはかき集めて'), (411, '本当のお前を見せてみろ')], ''), ('muranishi', '今、お前最高に輝いてるぞ！', 'Right now, you are shining brighter than ever!', [(431, '今 お前 最高に輝いてるぞ')], ''), ('muranishi', 'オーケー、ファンタスティック！', 'Okay, fantastic!', [(478, 'ファンタスティック')], ''), ('muranishi', 'みく、すばらしかったぞ。', 'Miku, you were magnificent.', [(479, 'みく すばらしかったぞ')], ''), ('muranishi', 'ご苦労さん。', 'Good work today, everyone.', [(483, 'ご苦労さん')], ''), ('kawada', 'こんにちは。', 'Good afternoon!', [(484, 'こんにちは')], ''), ('tencho', 'ああ、並んでるよ。', 'Oh, hello — your new tapes are lined up on the rack.', [(486, '並んでるよ')], ''), ('kawada', '一歩前進ですね。', 'That is one solid step forward for us.', [(490, '一歩前進ですね')], ''), ('tencho', 'あんたらの作品さ、斬新で面白かったよ。', 'Your new release was fresh and genuinely entertaining.', [(493, 'あんたらの作品さ'), (493, '斬新で面白かったよ')], ''), ('tencho', 'でもそれ、ポセイドンの女優だろ？', "Still, isn't that girl one of Poseidon's actresses?", [(494, 'でも それ ポセイドンの女優だろ')], ''), ('tencho', '大丈夫なのか？', 'Are you sure you guys are going to be okay?', [(495, '大丈夫なのか')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Showing half-baked work like that only hurts your own name.'"), (1, None, '"I\'ll scrape together another million yen on top of your fee — show me the real you."'), (2, None, "'Right now, you are shining brighter than ever!'"), (3, None, "'Okay, fantastic!'"), (4, None, "'Miku, you were magnificent.'"), (5, None, "'Good work today, everyone.'"), (6, None, "'Good afternoon!'"), (7, None, "'Oh, hello — your new tapes are lined up on the rack.'"), (8, None, "'That is one solid step forward for us.'"), (9, None, "'Your new release was fresh and genuinely entertaining.'"), (10, None, '"Still, isn\'t that girl one of Poseidon\'s actresses?"'), (11, None, "'Are you sure you guys are going to be okay?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Thrilled to see multiple copies displayed at eye level, Kawada celebrates a real step forward—even as the shop manager wonders whether poaching a Poseidon actress will bring trouble. See you next time!'
+CLOSING = ('kawada', 'またね。')

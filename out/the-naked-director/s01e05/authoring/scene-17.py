@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 17
-TITLE = 'Scene 17  (Scene 17)'
+TITLE = '作りたいものを作るんだ  (Pitching an Aerial Action Shoot Overseas)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'kawada': '川田', 'muranishi': '村西', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''不思議な魅力の子だ''', '''She has a strange allure to her.''', [(224, '''‎（村西）不思議な魅力の子だ''')], ''),
-    ('muranishi', '''まあ確かにな''', '''She does.''', [(225, '''‎（トシ）まあ 確かにな''')], ''),
-    ('muranishi', '''幼い顔して大胆つーか''', '''Baby-faced but very bold.''', [(226, '''‎幼い顔して 大胆つーか''')], ''),
-    ('muranishi', '''でも委員会の規制を守らないかぎり作品は出せませんよ''', '''Unless we follow the commission's rules, we can't sell the video.''', [(227, '''‎でも 委員会の規制を 守らないかぎり作品は出せませんよ''')], ''),
-    ('muranishi', '''そうなんだよモザイクの規定は守らねえと''', '''That's right. We have to follow the censoring rules.''', [(228, '''‎（トシ）そうなんだよ モザイクの規定は守らねえと''')], ''),
-    ('muranishi', '''それはなああえて乗ってやろうかと思ってる''', '''Actually, I think we can play by their stupid rules.''', [(229, '''‎（村西）それはなあ あえて 乗ってやろうかと思ってる''')], ''),
-    ('muranishi', '''何か考えが？''', '''Do you have a plan?''', [(230, '''‎（川田）何か考えが？''')], ''),
-    ('muranishi', '''バカが作ったルールをアイデアで乗り越えればいい''', '''We'll beat their rules with ideas.''', [(231, '''‎（村西）バカが作ったルールを アイデアで乗り越えればいい''')], ''),
-    ('muranishi', '''どうすんだよ''', '''But how?''', [(232, '''‎（トシ）どうすんだよ''')], ''),
-    ('muranishi', '''目がダメなら耳だ''', '''Let's aim for the ears, not the eyes.''', [(233, '''‎目がダメなら耳だ''')], ''),
-    ('muranishi', '''トシ笛を買ってきてくれ''', '''-Toshi. -Yes?''', [(234, '''‎トシ 笛を買ってきてくれ''')], ''),
-    ('muranishi', '''は？笛？笛？''', '''-What? A whistle? -A whistle?''', [(235, '''‎（トシ）は？　笛？ （川田）笛？''')], ''),
-    ('muranishi', '''えっ俺が？うん頼んだぞ''', '''-Me? -Please.''', [(236, '''‎（トシ）えっ 俺が？ （村西）うん 頼んだぞ''')], ''),
-    ('muranishi', '''いやいやちょっと待ってくれよもうちょっと説明してくれよ''', '''Wait, but what kind?''', [(237, '''‎いやいや ちょっと待ってくれよ もうちょっと説明してくれよ''')], ''),
-    ('muranishi', '''どんな笛だよお前に任せるから―''', '''Wait, but what kind?''', [(238, '''‎（トシ）どんな笛だよ （村西）お前に任せるから―''')], ''),
-    ('muranishi', '''とにかく早く急いで用意してくれえっ？''', '''-You choose. Just get one quickly. -What?''', [(239, '''‎とにかく早く 急いで用意してくれ （トシ）えっ？''')], ''),
-    ('muranishi', '''もう分かったよ''', '''Alright. A whistle?''', [(240, '''‎もう分かったよ''')], ''),
-    ('muranishi', '''笛…''', '''Alright. A whistle?''', [(241, '''‎笛…''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Working late into the night while gazing at a sunny travel billboard outside the office window, Muranishi unveils a wild new script to Kawada: shooting an aerial action-erotic blockbuster overseas! Listen to Kawada, Muranishi, and Toshi in Japanese first.'
+STORY = [('kawada', 'こんな時間まで何やってるんですか？', 'What are you doing at your desk this late at night?', [(556, 'こんな時間まで 何やってるんですか')], ''), ('muranishi', '見てのとおりですよ、脚本を書いています。アクションとエロスを融合させる。', 'Just as you see — writing a screenplay that fuses action with eroticism!', [(557, '見てのとおりですよ 脚本を書いています'), (562, 'アクションとエロスを融合させる')], ''), ('muranishi', 'ハワイで撮るんですよ！ハワイで世界のメジャーを目指すんです！', "And we're shooting it in Hawaii — aiming straight for the global big leagues!", [(567, 'ハワイで撮るんですよ'), (571, 'ハワイで 世界のメジャーを 目指すんです')], ''), ('kawada', '狂ったのか？誇大妄想にも程がある！金は？', 'Have you lost your mind?! Even delusions of grandeur have limits — where is the money?!', [(574, '狂ったのか 誇大妄想にも 程がある'), (577, '金は')], ''), ('muranishi', '俺は監督だ、俺が撮りたいものを撮る！私たちは新しい作品を作るしかないんですよ！', 'I am a director, and I film what I want to film! Our only path is making a brand-new work!', [(575, '俺は監督だ 俺が撮りたいものを撮る'), (581, '私たちは 新しい作品を 作るしかないんですよ')], ''), ('kawada', 'あなたが暴走するかぎり、このサファイア映像は間違いなくなくなる！', 'As long as you keep running wild like this, Sapphire Pictures will vanish for sure!', [(586, 'あなたが暴走するかぎり'), (587, 'このサファイア映像は 間違いなく なくなる')], ''), ('muranishi', 'いい作品を作りさえすれば、絶対に潰れやしない！', 'As long as we create great films, we will never go under!', [(588, 'いい作品を作りさえすれば 絶対に潰れやしない')], ''), ('toshi', 'ハワイでも何でも、おっさんが好きなようにやりゃいいんだよ。', 'Hawaii or wherever else — let the boss do it however he wants.', [(591, 'ハワイでも何でも おっさんが 好きなようにやりゃいいんだよ')], ''), ('toshi', 'あんたがここの大将なんだからよ。参謀らしく最後まで大将支えろよ。', "You're the general of this outfit, Muranishi — and Kawada, back our general like a true chief of staff!", [(592, 'あんたが ここの大将なんだからよ'), (593, '参謀らしく 最後まで 大将 支えろよ')], ''), ('kawada', '分かりました。でも次コケたら、それでこの会社はおしまいですよ。', "Alright, I'm in — though if this next shoot flops, our company is finished for good.", [(594, '分かりました'), (595, 'でも 次 コケたら'), (596, 'それで この会社は おしまいですよ')], ''), ('muranishi', '今の俺たちにできないことはない！よし、行くぞハワイに、作りたいものを作るんだ！', "Right now there is nothing we cannot do! Let's head to Hawaii and make what we want to make!", [(606, '今の俺たちに できないことはない'), (611, 'よし 行くぞ ハワイに 作りたいものを作るんだ')], ''), ('muranishi', 'まだ誰もやったことないものを撮って、世界で大ヒットするアダルトビデオを作るんだ！', "We'll shoot what nobody has ever attempted and create a worldwide adult video sensation!", [(612, 'まだ 誰も やったことないものを撮って'), (613, '世界で大ヒットする アダルトビデオを作るんだ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'What are you doing at your desk this late at night?'"), (1, None, "'Just as you see — writing a screenplay that fuses action with eroticism!'"), (2, None, '"And we\'re shooting it in Hawaii — aiming straight for the global big leagues!"'), (3, None, "'Have you lost your mind?! Even delusions of grandeur have limits — where is the money?!'"), (4, None, "'I am a director, and I film what I want to film! Our only path is making a brand-new work!'"), (5, None, "'As long as you keep running wild like this, Sapphire Pictures will vanish for sure!'"), (6, None, "'As long as we create great films, we will never go under!'"), (7, None, "'Hawaii or wherever else — let the boss do it however he wants.'"), (8, None, '"You\'re the general of this outfit, Muranishi — and Kawada, back our general like a true chief of staff!"'), (9, None, '"Alright, I\'m in — though if this next shoot flops, our company is finished for good."'), (10, None, '"Right now there is nothing we cannot do! Let\'s head to Hawaii and make what we want to make!"'), (11, None, '"We\'ll shoot what nobody has ever attempted and create a worldwide adult video sensation!"')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'After Toshi reminds Kawada that a good chief of staff backs his general to the bitter end, the entire crew rallies on the rooftop to take on the world in Episode 6! See you next time!'
+CLOSING = ('muranishi', 'またね。')

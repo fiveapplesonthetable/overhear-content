@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 1
-TITLE = 'Scene 1  (Scene 1)'
+TITLE = '日本ビデオ規制委員会を発足する  (Launching the Video Regulation Commission)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'megumi': '恵美', 'ikezawa': '池沢', 'takei': '武井'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''あいた恵美何やってんの？''', '''There you are, Megumi. What are you doing?''', [(1, '''‎（聡子(さとこ)）あ いた 恵美(めぐみ) 何やってんの？''')], ''),
-    ('muranishi', '''みんな待ってるよ''', '''Everyone's waiting.''', [(2, '''‎みんな 待ってるよ''')], ''),
-    ('muranishi', '''うんちょっと調べ物''', '''Just some research.''', [(3, '''‎（恵美）うん ちょっと調べ物''')], ''),
-    ('muranishi', '''お茶しに行くんじゃないの？''', '''You're coming for tea, right?''', [(4, '''‎（聡子） お茶しに行くんじゃないの？''')], ''),
-    ('muranishi', '''うん''', '''Yeah.''', [(5, '''‎（恵美）うん''')], ''),
-    ('muranishi', '''もう何調べてんのよ''', '''What are you researching?''', [(6, '''‎（聡子）もう 何 調べてんのよ''')], ''),
-    ('muranishi', '''イタリア？''', '''Italy?''', [(7, '''‎イタリア？''')], ''),
-    ('muranishi', '''うん行けたらいいなあって''', '''Yeah. I'd like to go there.''', [(8, '''‎（恵美） うん 行けたらいいなあって''')], ''),
-    ('muranishi', '''ふ～ん''', '''No translation.''', [(9, '''‎（聡子）ふ～ん''')], ''),
-    ('muranishi', '''ねえ聡子ん？''', '''Hey, Satoko.''', [(10, '''‎（恵美）ねえ 聡子 （聡子）ん？''')], ''),
-    ('muranishi', '''今日泊めてもらってもいい？''', '''Can I stay at your house tonight?''', [(11, '''‎（恵美） 今日 泊めてもらってもいい？''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Welcome to Episode 5 of The Naked Director. After college student Megumi Sahara quietly researches studying abroad and asks to stay overnight with a friend, rival mogul Ikezawa gathers video producers across Tokyo to launch a self-styled industry regulation board. Listen to Megumi, Ikezawa, and Takei in Japanese first.'
+STORY = [('megumi', 'うん、ちょっと調べ物。行けたらいいなあって。', 'Yeah, just doing a bit of research — thinking how nice it would be to go abroad.', [(3, 'うん ちょっと調べ物'), (8, 'うん 行けたらいいなあって')], ''), ('megumi', '今日、泊めてもらってもいい？', 'Could I stay over at your house tonight?', [(11, '今日 泊めてもらってもいい')], ''), ('ikezawa', 'アダルトビデオを制作、販売している皆様が集まってくれたことに心から御礼申し上げます。', 'I offer my heartfelt thanks to all of you adult video producers and distributors for gathering today.', [(16, '制作 販売している皆様が'), (17, '集まってくれたことに 心から御礼申し上げます')], ''), ('ikezawa', '中には違法な制作をし、モザイクを付けずに販売する業者などが増えてきております。', 'Among new entrants, more and more operators are producing illegally and selling tapes without mosaics.', [(20, '中には 違法な制作をし'), (21, 'モザイクを付けずに販売する 業者などが増えてきております')], ''), ('ikezawa', 'ここに日本ビデオ規制委員会を発足することとなりました。', 'Therefore, we have established the Japan Video Regulation Commission right here today.', [(23, '日本ビデオ規制委員会を 発足することとなりました')], ''), ('ikezawa', 'モザイクの基準を定める規定を早速作りたいと思っております。', 'Right away, our commission intends to draft rules setting clear standards for mosaic censorship.', [(26, 'モザイクの基準を定める規定を 早速 作りたいと思っております')], ''), ('ikezawa', 'モザイクがあるからこそ、本番をしなくて済むんです。', 'It is precisely because mosaics exist that performers are spared having to do it for real.', [(28, 'モザイクがあるからこそ 本番をしなくて済むんです')], ''), ('ikezawa', '我々は女優たちを守っていかなければいけません。', 'Above all, we must continue protecting our actresses.', [(31, '我々は 女優たちを 守っていかなければいけません')], ''), ('takei', '随分ときれい事並べてたけど、要は余計にあんたがもうかるだけの話だろ？', 'You strung together plenty of noble talk, yet the bottom line is just lining your own pockets, right?', [(34, '随分と きれい事 並べてたけど'), (35, '要は 余計に あんたがもうかるだけの話だろ')], ''), ('ikezawa', 'そっちもいい思いができるんだ、文句ないだろ。', 'You get a sweet deal out of it yourself, so you have zero complaints, right?', [(36, 'そっちも いい思いができるんだ'), (37, '文句ないだろ')], ''), ('takei', 'まあな。', 'True enough.', [(38, 'まあな')], ''), ('ikezawa', '俺は昔からビジネスの邪魔をされんのが嫌いでな。', "I've always hated people getting in the way of my business.", [(39, '俺は昔から'), (40, 'ビジネスの邪魔をされんのが 嫌いでな')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Yeah, just doing a bit of research — thinking how nice it would be to go abroad.'"), (1, None, "'Could I stay over at your house tonight?'"), (2, None, "'I offer my heartfelt thanks to all of you adult video producers and distributors for gathering today.'"), (3, None, "'Among new entrants, more and more operators are producing illegally and selling tapes without mosaics.'"), (4, None, "'Therefore, we have established the Japan Video Regulation Commission right here today.'"), (5, None, "'Right away, our commission intends to draft rules setting clear standards for mosaic censorship.'"), (6, None, "'It is precisely because mosaics exist that performers are spared having to do it for real.'"), (7, None, "'Above all, we must continue protecting our actresses.'"), (8, None, "'You strung together plenty of noble talk, yet the bottom line is just lining your own pockets, right?'"), (9, None, "'You get a sweet deal out of it yourself, so you have zero complaints, right?'"), (10, None, "'True enough.'"), (11, None, '"I\'ve always hated people getting in the way of my business."')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Backstage after preaching about protecting actresses with strict mosaic rules, Ikezawa trades cynical smiles with Detective Takei over crushing anyone who gets in the way of his business. See you next time!'
+CLOSING = ('ikezawa', 'またね。')

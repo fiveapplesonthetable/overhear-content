@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 9
-TITLE = 'Scene 9  (Scene 9)'
+TITLE = '目がダメなら耳だ  (If the Eyes Are Blocked, Aim for the Ears)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'muranishi': '村西', 'toshi': 'トシ', 'kawada': '川田'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''抱きしめてほしい''', '''Hug me.''', [(175, '''‎抱きしめてほしい''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "Marveling at Kuroki's blend of innocent poise and fearless candor, Kawada and Toshi remind Muranishi that no shop can carry the tape unless it obeys the commission's thick-mosaic rule. Listen to Muranishi, Kawada, and Toshi in Japanese first."
+STORY = [('muranishi', '不思議な魅力の子だ。', 'She is a young woman with an extraordinary, mysterious allure.', [(224, '不思議な魅力の子だ')], ''), ('toshi', 'まあ確かにな、幼い顔して大胆つーか。', 'Yeah, no kidding — innocent-faced yet astonishingly bold.', [(225, 'まあ 確かにな'), (226, '幼い顔して 大胆つーか')], ''), ('kawada', 'でも、委員会の規制を守らないかぎり作品は出せませんよ。', "Even so, unless we abide by the commission's regulations, we won't be able to release the film.", [(227, '委員会の規制を 守らないかぎり作品は出せませんよ')], ''), ('toshi', 'そうなんだよ、モザイクの規定は守らねえと。', "He's right — we've got no choice except following their mosaic rules.", [(228, 'モザイクの規定は守らねえと')], ''), ('muranishi', 'それはなあ、あえて乗ってやろうかと思ってる。', "On that score, I'm actually thinking of playing right along with their rule.", [(229, 'あえて 乗ってやろうかと思ってる')], ''), ('kawada', '何か考えが？', 'Do you have a plan in mind?', [(230, '何か考えが')], ''), ('muranishi', 'バカが作ったルールをアイデアで乗り越えればいい。', 'We simply vault over rules made by fools using a better idea.', [(231, 'バカが作ったルールを アイデアで乗り越えればいい')], ''), ('toshi', 'どうすんだよ？', 'And how are you gonna pull that off?', [(232, 'どうすんだよ')], ''), ('muranishi', '目がダメなら耳だ。トシ、笛を買ってきてくれ。', 'If the eyes are off-limits, we aim for the ears. Toshi, go buy me a whistle.', [(233, '目がダメなら耳だ'), (234, 'トシ 笛を買ってきてくれ')], ''), ('toshi', 'は？笛？もうちょっと説明してくれよ、どんな笛だよ！', 'Huh?! A whistle?! Give me a little more explanation — what kind of whistle?!', [(235, '笛'), (237, 'もうちょっと説明してくれよ'), (238, 'どんな笛だよ')], ''), ('muranishi', 'お前に任せるから、とにかく早く急いで用意してくれ。', 'I leave the choice up to you, just hurry and get one here fast.', [(238, 'お前に任せるから'), (239, 'とにかく早く 急いで用意してくれ')], ''), ('toshi', 'もう分かったよ…笛…', 'Alright, alright, I get it... a whistle...', [(240, 'もう分かったよ'), (241, '笛')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'She is a young woman with an extraordinary, mysterious allure.'"), (1, None, "'Yeah, no kidding — innocent-faced yet astonishingly bold.'"), (2, None, '"Even so, unless we abide by the commission\'s regulations, we won\'t be able to release the film."'), (3, None, '"He\'s right — we\'ve got no choice except following their mosaic rules."'), (4, None, '"On that score, I\'m actually thinking of playing right along with their rule."'), (5, None, "'Do you have a plan in mind?'"), (6, None, "'We simply vault over rules made by fools using a better idea.'"), (7, None, "'And how are you gonna pull that off?'"), (8, None, "'If the eyes are off-limits, we aim for the ears. Toshi, go buy me a whistle.'"), (9, None, "'Huh?! A whistle?! Give me a little more explanation — what kind of whistle?!'"), (10, None, "'I leave the choice up to you, just hurry and get one here fast.'"), (11, None, "'Alright, alright, I get it... a whistle...'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Declaring that creative ideas can leap over any rule made by fools—and that if the eyes are blocked, he will captivate the ears—Muranishi sends Toshi scrambling for a whistle! See you next time!'
+CLOSING = ('toshi', 'またね。')

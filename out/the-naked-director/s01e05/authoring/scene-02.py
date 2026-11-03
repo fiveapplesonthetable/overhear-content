@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 2
-TITLE = 'Scene 2  (Scene 2)'
+TITLE = '表も裏も牛耳ったもんだよ  (Ruling Both Above Ground and Underground)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'toshi': 'トシ', 'furuya': '古谷', 'fujiwara': '藤原'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''こんにちは''', '''Hello.''', [(12, '''‎（男性）こんにちは''')], ''),
-    ('muranishi', '''〈働け〉''', '''Work.''', [(13, '''‎（藤原(ふじわら)：外国語）〈働け〉''')], ''),
-    ('muranishi', '''〈働け〉''', '''Work.''', [(14, '''‎〈働け〉''')], ''),
-    ('muranishi', '''〈働け〉''', '''Work!''', [(15, '''‎（藤原）〈働け〉''')], ''),
-    ('muranishi', '''アダルトビデオを制作販売している皆様が―''', '''I'm grateful that all of you adult video producers and sellers''', [(16, '''‎（池沢(いけざわ)）アダルトビデオを 制作 販売している皆様が―''')], ''),
-    ('muranishi', '''集まってくれたことに心から御礼申し上げます''', '''have gathered here today.''', [(17, '''‎集まってくれたことに 心から御礼申し上げます''')], ''),
-    ('muranishi', '''ＡＶ業界に参入する業者が―''', '''While I'm glad to see new entrants joining the industry,''', [(18, '''‎ＡＶ業界に参入する業者が―''')], ''),
-    ('muranishi', '''増えることはうれしいかぎりですが―''', '''While I'm glad to see new entrants joining the industry,''', [(19, '''‎増えることは うれしいかぎりですが―''')], ''),
-    ('muranishi', '''中には違法な制作をし―''', '''many of them are producing and selling''', [(20, '''‎中には 違法な制作をし―''')], ''),
-    ('muranishi', '''モザイクを付けずに販売する業者などが増えてきております''', '''illegal, uncensored material.''', [(21, '''‎モザイクを付けずに販売する 業者などが増えてきております''')], ''),
-    ('muranishi', '''そういったところからここに―''', '''That's why we have gathered here today to establish''', [(22, '''‎（池沢） そういったところから ここに―''')], ''),
-    ('muranishi', '''日本ビデオ規制委員会を発足することとなりました''', '''the Japan Video Regulation Commission.''', [(23, '''‎日本ビデオ規制委員会を 発足することとなりました''')], ''),
-    ('muranishi', '''当委員会では―''', '''Effective immediately, this commission will establish''', [(25, '''‎（池沢）当委員会では―''')], ''),
-    ('muranishi', '''モザイクの基準を定める規定を早速作りたいと思っております''', '''standards for censoring.''', [(26, '''‎モザイクの基準を定める規定を 早速 作りたいと思っております''')], ''),
-    ('muranishi', '''いやでもモザイクは薄いほうが売れますよねえ？''', '''But less censored videos sell better.''', [(27, '''‎（男性）いや でもモザイクは 薄いほうが売れますよ ねえ？''')], ''),
-    ('muranishi', '''モザイクがあるからこそ本番をしなくて済むんです''', '''Censoring is what allows the actors to avoid having real sex.''', [(28, '''‎（池沢）モザイクがあるからこそ 本番をしなくて済むんです''')], ''),
-    ('muranishi', '''ヘヘッそうかな？''', '''You think so?''', [(29, '''‎（男性）ヘヘッ そうかな？''')], ''),
-    ('muranishi', '''いいですか''', '''Listen.''', [(30, '''‎いいですか''')], ''),
-    ('muranishi', '''我々は女優たちを守っていかなければいけません''', '''Whatever happens, we must protect our actresses.''', [(31, '''‎我々は 女優たちを 守っていかなければいけません''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Knowing Ikezawa engineered their blacklist, Toshi visits yakuza boss Furuya and his deputy Fujiwara to ask for help so he can support Muranishi and Kawada on the front lines. Listen to Toshi, Furuya, and Fujiwara in Japanese first.'
+STORY = [('toshi', 'やったのは池沢です。', 'The one behind this freeze-out is Ikezawa.', [(41, 'やったのは池沢です')], ''), ('furuya', '何とかしてやりてえがな。', "I'd love to help you boys out somehow, though...", [(42, '何とかしてやりてえがな')], ''), ('fujiwara', 'あいつはポリも味方につけてる。うちが面倒に巻き込まれますよ。', 'That guy has the cops in his pocket too — our outfit would get dragged into a mess.', [(43, 'あいつは ポリも味方につけてる'), (44, 'うちが面倒に巻き込まれますよ')], ''), ('toshi', 'おっさんと川田が前線で戦ってるんすよ。俺も何か力になりたい。', 'Muranishi and Kawada are fighting on the front lines, and I want to back them up somehow.', [(45, 'が 前線で戦ってるんすよ'), (46, '俺も何か 力になりたい')], ''), ('furuya', 'お前の気持ちも分かるが、表の世界を牛耳ってるのはな、', 'I get how you feel, Toshi, yet in the legitimate world above ground,', [(48, 'お前の気持ちも分かるが'), (49, '表の世界を牛耳ってるのはな')], ''), ('furuya', '資本力を持つ者が圧倒的に強い。', 'those who hold capital are overwhelmingly dominant.', [(50, '資本力を持つ者が圧倒的に強い')], ''), ('furuya', 'だがよ、最後に勝つヤツってのはどんなヤツだと思う？', 'Even so, who do you reckon ends up winning in the very end?', [(51, 'だがよ 最後に勝つヤツってのは どんなヤツだと思う')], ''), ('toshi', 'さあ…', 'Beats me...', [(52, 'さあ')], ''), ('furuya', '表も裏も牛耳ったもんだよ。', 'Whoever takes command of both above ground and the underworld.', [(53, '表も裏も牛耳ったもんだよ')], ''), ('furuya', '何で俺がお前をここに呼んだか分かるか？', 'Do you know why I summoned you here today?', [(54, '何で 俺がお前を ここに呼んだか分かるか')], ''), ('toshi', 'すいません、今日は帰りますわ。', "Excuse me — I'm heading home for today.", [(55, 'あっ すいません 今日は帰りますわ')], ''), ('furuya', 'まだ早いか。', 'Guess it was still too soon for him.', [(56, 'まだ早いか')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'The one behind this freeze-out is Ikezawa.'"), (1, None, '"I\'d love to help you boys out somehow, though..."'), (2, None, "'That guy has the cops in his pocket too — our outfit would get dragged into a mess.'"), (3, None, "'Muranishi and Kawada are fighting on the front lines, and I want to back them up somehow.'"), (4, None, "'I get how you feel, Toshi, yet in the legitimate world above ground,.'"), (5, None, "'those who hold capital are overwhelmingly dominant.'"), (6, None, "'Even so, who do you reckon ends up winning in the very end?'"), (7, None, "'Beats me...'"), (8, None, "'Whoever takes command of both above ground and the underworld.'"), (9, None, "'Do you know why I summoned you here today?'"), (10, None, '"Excuse me — I\'m heading home for today."'), (11, None, "'Guess it was still too soon for him.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Warning Toshi that real victory belongs to whoever controls both legitimate business and the underworld—before testing him with an unsettling surprise—Furuya laughs that it is still too early for him. See you next time!'
+CLOSING = ('toshi', 'じゃあね。')

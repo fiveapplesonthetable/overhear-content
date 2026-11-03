@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 11
-TITLE = 'Scene 11  (Scene 11)'
+TITLE = 'お待たせしすぎたのかもしれません  (Stepping On Camera With the Conch Whistle)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'muranishi': '村西', 'kuroki': '黒木', 'kawada': '川田'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''ハァ…''', '''No translation.''', [(183, '''‎ハァ…''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Stepping onto the studio bed in his white briefs, Muranishi shocks Kawada by taking on the male role himself—delivering his trademark polite greeting right as Toshi bursts in with a twisted conch-shell whistle. Listen to Muranishi, Kawada, and Kuroki in Japanese first.'
+STORY = [('muranishi', 'お待たせしました、お待たせしすぎたのかもしれません。じゃあいきましょうか。', 'Thank you for waiting — perhaps I have kept you waiting far too long. Shall we begin?', [(284, 'お待たせしました お待たせしすぎたのかもしれません'), (285, 'じゃあ いきましょうか')], ''), ('kuroki', 'よろしくお願いします。', 'Yes, I look forward to working with you.', [(286, 'よろしくお願いします')], ''), ('kawada', '村西さん、男優をやるってことですか？監督自ら出ちゃっていいのかな。', 'Mr Muranishi, are you playing the male lead yourself?! Should the director really step on camera?', [(288, '村西さん'), (289, '男優をやるってことですか'), (291, '監督自ら出ちゃっていいのかな')], ''), ('muranishi', '大丈夫ですよ、もともと人前でしゃべるのは得意ですから。', "Don't worry — speaking in front of an audience has always been my strong suit.", [(292, '大丈夫ですよ もともと 人前でしゃべるのは得意ですから')], ''), ('muranishi', 'こう見えてわたくし、英会話教材のセールスでトップだったんですよ。', 'Believe it or not, I used to be the number-one salesman of English conversation sets!', [(293, 'こう見えて わたくし 英会話教材の セールスでトップだったんですよ')], ''), ('kawada', 'いびつな形だなあ。', 'What a bizarrely twisted shape that whistle has...', [(297, 'いびつな形だなあ')], ''), ('muranishi', 'トシ、最高だ！じゃあカメラを回していきましょう。', "Toshi, this is absolute perfection! Now let's get the camera rolling.", [(299, 'トシ'), (300, '最高だ'), (303, 'カメラを回していきましょう')], ''), ('muranishi', 'この小道具を有効に使いたいと思います。吹いてみてください。', "Let's put this prop to brilliant use — please try giving it a blow.", [(305, 'この小道具を 有効に使いたいと思います'), (308, '吹いてみてください')], ''), ('muranishi', 'まあまあ感じてきたなという時には一回、もっと感じてきたなという時には二回。', 'When you begin feeling good, blow it once; when passion builds higher, blow it twice.', [(313, 'まあまあ 感じてきたなという時には'), (316, 'もっと感じてきたな という時には')], ''), ('muranishi', 'もうこれはたまらないなという時には三回。', 'And when it becomes utterly irresistible, blow it three times.', [(318, 'もう これは たまらないなという時には')], ''), ('muranishi', '見ている方があなたの感じ方の度合いを知ることができるんですね。よろしいですね？', 'That way viewers can tell the exact degree of your emotion by sound alone — all clear?', [(321, '見ている方が'), (322, 'あなたの感じ方の度合いを 知ることができるんですね'), (323, 'よろしいですね')], ''), ('kuroki', 'はい。', 'Yes, completely clear.', [(324, 'はい')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Thank you for waiting — perhaps I have kept you waiting far too long. Shall we begin?'"), (1, None, "'Yes, I look forward to working with you.'"), (2, None, "'Mr Muranishi, are you playing the male lead yourself?! Should the director really step on camera?'"), (3, None, '"Don\'t worry — speaking in front of an audience has always been my strong suit."'), (4, None, "'Believe it or not, I used to be the number-one salesman of English conversation sets!'"), (5, None, "'What a bizarrely twisted shape that whistle has...'"), (6, None, '"Toshi, this is absolute perfection! Now let\'s get the camera rolling."'), (7, None, '"Let\'s put this prop to brilliant use — please try giving it a blow."'), (8, None, "'When you begin feeling good, blow it once; when passion builds higher, blow it twice.'"), (9, None, "'And when it becomes utterly irresistible, blow it three times.'"), (10, None, "'That way viewers can tell the exact degree of your emotion by sound alone — all clear?'"), (11, None, "'Yes, completely clear.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Turning Toshi's strange conch whistle into an ingenious audio meter—one blow for warm, two for passionate, three for overwhelming—Muranishi rolls camera on adult video history! See you next time!"
+CLOSING = ('muranishi', 'またね。')

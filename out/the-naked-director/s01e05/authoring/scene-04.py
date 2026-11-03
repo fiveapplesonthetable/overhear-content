@@ -3,51 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 4
-TITLE = 'Scene 4  (Scene 4)'
+TITLE = '好きなように生きることにします  (I Will Live as I Please, Just Like You)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'kayo': '加代', 'megumi': '恵美', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''あっすいません今日は帰りますわ''', '''I have to go.''', [(55, '''‎（トシ）あっ すいません 今日は帰りますわ''')], ''),
-    ('muranishi', '''ハハッまだ早いか''', '''I guess it was too soon.''', [(56, '''‎（古谷）ハハッ まだ早いか''')], ''),
-    ('muranishi', '''本作のモザイクは当委員会の規定より―''', '''This video is less censored than our rules require.''', [(58, '''‎（委員）本作のモザイクは 当委員会の規定より―''')], ''),
-    ('muranishi', '''薄くなっています''', '''This video is less censored than our rules require.''', [(59, '''‎薄くなっています''')], ''),
-    ('muranishi', '''すべて自主回収して規定に沿って作り直してください''', '''You need to recall all the tapes and redo the censoring.''', [(60, '''‎すべて自主回収して 規定に沿って作り直してください''')], ''),
-    ('muranishi', '''そんなの現実的に不可能です''', '''That simply isn't feasible.''', [(61, '''‎（川田）そんなの 現実的に不可能です''')], ''),
-    ('muranishi', '''従わない場合当委員会へ加盟できなくなりますが''', '''If you don't, you won't be able to join the commission.''', [(62, '''‎（委員）従わない場合 当委員会へ加盟できなくなりますが''')], ''),
-    ('muranishi', '''願ったりかなったりです誰も入りたいなんて言ってない''', '''That's perfect. We never wanted to join.''', [(63, '''‎（村西(むらにし)）願ったりかなったりです 誰も入りたいなんて言ってない''')], ''),
-    ('muranishi', '''ではお宅の作品の流通をすべてストップさせていただきます''', '''We'll prevent the distribution of all your videos.''', [(64, '''‎（委員）では お宅の作品の流通を すべてストップさせていただきます''')], ''),
-    ('muranishi', '''お好きにどうぞ''', '''Suit yourself.''', [(65, '''‎お好きにどうぞ''')], ''),
-    ('muranishi', '''失礼します''', '''Excuse me.''', [(66, '''‎（川田）失礼します''')], ''),
-    ('muranishi', '''何なんだこの意味の分かんない会議は''', '''Why did we even come here?''', [(67, '''‎（村西）何なんだ この意味の分かんない会議は''')], ''),
-    ('muranishi', '''ええ''', '''I know.''', [(68, '''‎（川田）ええ''')], ''),
-    ('muranishi', '''ただほとんどの業者が加盟しているのも事実です''', '''But most of the industry has joined the commission.''', [(69, '''‎ただ ほとんどの業者が 加盟しているのも事実です''')], ''),
-    ('muranishi', '''今後は彼らの主張が業界の主軸になってくでしょうね''', '''It's likely their position will become the standard.''', [(70, '''‎今後は 彼らの主張が 業界の主軸になってくでしょうね''')], ''),
-    ('muranishi', '''ふざけてるな''', '''That's ridiculous.''', [(71, '''‎ふざけてるな''')], ''),
-    ('muranishi', '''女優が使えないうえ販売ルートまで封鎖か''', '''We have no actress and no way to distribute our videos.''', [(72, '''‎（川田）女優が使えないうえ 販売ルートまで封鎖か''')], ''),
-    ('muranishi', '''資金面はどうなってますか？''', '''How are our funds?''', [(73, '''‎（村西） 資金面は どうなってますか？''')], ''),
-    ('muranishi', '''厳しい状態です''', '''Running low.''', [(74, '''‎（川田）厳しい状態です''')], ''),
-    ('muranishi', '''どうしたの？心配したのよ''', '''Where were you? I was worried.''', [(75, '''‎（加代(かよ)） どうしたの？　心配したのよ''')], ''),
-    ('muranishi', '''友達のうちに泊まってました''', '''I stayed at a friend's house.''', [(76, '''‎（恵美） 友達のうちに泊まってました''')], ''),
-    ('muranishi', '''ちょっと待ってちゃんと説明してどうして連絡しなかったの？''', '''Wait. Explain yourself.''', [(77, '''‎ちょっと待って ちゃんと説明して どうして連絡しなかったの？''')], ''),
-    ('muranishi', '''お母さん私安心したの''', '''-Tell me why you didn't call. -Mom, I'm relieved now.''', [(78, '''‎（恵美）お母さん 私 安心したの''')], ''),
-    ('muranishi', '''自分だけ変なのかなってずっと思ってたけど―''', '''All this time, I thought I was weird, but I've realized I'm just like you.''', [(79, '''‎自分だけ変なのかなって ずっと思ってたけど―''')], ''),
-    ('muranishi', '''私お母さんに似てたんですね''', '''All this time, I thought I was weird, but I've realized I'm just like you.''', [(80, '''‎私 お母さんに似てたんですね''')], ''),
-    ('muranishi', '''何の話してるの？ちょっと！''', '''What are you talking about?''', [(81, '''‎（加代） 何の話 してるの？　ちょっと！''')], ''),
-    ('muranishi', '''ちょっと待ちなさい！''', '''Don't walk away!''', [(82, '''‎ちょっと待ちなさい！''')], ''),
-    ('muranishi', '''恵美''', '''Megumi.''', [(83, '''‎恵美''')], ''),
-    ('muranishi', '''ずっとおかしいと思ってました''', '''I always found it odd.''', [(84, '''‎（恵美） ずっと おかしいと思ってました''')], ''),
-    ('muranishi', '''何で父親がいないのにこんな立派な暮らしができるのかなって''', '''How could we live so well with no breadwinner?''', [(85, '''‎何で 父親がいないのに こんな 立派な暮らしができるのかなって''')], ''),
-    ('muranishi', '''でもずっと聞けなくって''', '''But I could never ask you.''', [(86, '''‎でも ずっと聞けなくって''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Returning to her strict home the next morning, Megumi confronts her mother Kayo with the hidden photograph she found in a drawer and asks the question she held back for years. Listen to Kayo, Megumi, and the office staffer in Japanese first.'
+STORY = [('kayo', 'どうしたの、心配したのよ。どうして連絡しなかったの？', "What happened to you — I was worried sick! Why didn't you call home?", [(75, 'どうしたの\u3000心配したのよ'), (77, 'どうして連絡しなかったの')], ''), ('megumi', 'お母さん、私安心したの。私、お母さんに似てたんですね。', 'Mother, I feel relieved now — I realized I take right after you.', [(78, 'お母さん 私 安心したの'), (80, '私 お母さんに似てたんですね')], ''), ('kayo', '何の話してるの？ちょっと待ちなさい！', 'What are you talking about? Hold on right there!', [(81, '何の話 してるの'), (82, 'ちょっと待ちなさい')], ''), ('megumi', 'ずっとおかしいと思ってました。', "All these years I thought something didn't add up.", [(84, 'ずっと おかしいと思ってました')], ''), ('megumi', '何で父親がいないのに、こんな立派な暮らしができるのかなって。', 'I wondered how we could afford such a fine lifestyle without a father in the house.', [(85, '何で 父親がいないのに こんな 立派な暮らしができるのかなって')], ''), ('megumi', 'この人、生きてるんですか？教えて。', 'Is this man in the photograph still alive? Tell me.', [(87, 'この人 生きてるんですか'), (89, '教えて')], ''), ('kayo', '生きてる。お父さんは、家族がいる人だったの。', "He's alive. Your father was a man who already had a family of his own.", [(90, '生きてる'), (91, 'お父さんは'), (92, '家族がいる人だったの')], ''), ('megumi', 'もう大丈夫。', "That's all I needed to know.", [(93, 'もう大丈夫')], ''), ('megumi', '私もお母さんみたいに、好きなように生きることにします。', 'Just like you, Mother, I have decided to live however I please.', [(94, '私も お母さんみたいに 好きなように生きることにします')], ''), ('megumi', 'あの、こちらに行きたいんですけれど。', "Excuse me, I'm trying to find this address right here.", [(96, 'あの こちらに 行きたいんですけれど')], ''), ('reika', 'あの、うちに何かご用ですか？', 'Um, can I help you with something at our office?', [(102, 'あの うちに何かご用ですか')], ''), ('megumi', 'あの、村西とおるさんいらっしゃいますか？', 'Excuse me — is Mr Toru Muranishi here?', [(103, '村西とおるさん いらっしゃいますか')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"What happened to you — I was worried sick! Why didn\'t you call home?"'), (1, None, "'Mother, I feel relieved now — I realized I take right after you.'"), (2, None, "'What are you talking about? Hold on right there!'"), (3, None, '"All these years I thought something didn\'t add up."'), (4, None, "'I wondered how we could afford such a fine lifestyle without a father in the house.'"), (5, None, "'Is this man in the photograph still alive? Tell me.'"), (6, None, '"He\'s alive. Your father was a man who already had a family of his own."'), (7, None, '"That\'s all I needed to know."'), (8, None, "'Just like you, Mother, I have decided to live however I please.'"), (9, None, '"Excuse me, I\'m trying to find this address right here."'), (10, None, "'Um, can I help you with something at our office?'"), (11, None, "'Excuse me — is Mr Toru Muranishi here?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Learning that her father was a married man who supported them from afar, Megumi vows to live as she pleases—and walks straight to Toru Muranishi's door in Tokyo! See you next time!"
+CLOSING = ('megumi', 'またね。')

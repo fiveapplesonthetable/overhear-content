@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e04-scene-01'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 4
+SCENE = 1
+TITLE = 'これだけですか  (Just One Copy on the Bottom Shelf)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'tencho': '店長', 'kawada': '川田', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E04'
+SOURCE_FILE = 'sources/the-naked-director/s01/e04.ja.srt'
+
+INTRO = 'Welcome to Episode 4 of The Naked Director. On the day their very first Tokyo video finally hits rental stores, Kawada, Toshi, and Muranishi eagerly visit a neighborhood shop to see their display. Listen to the Japanese conversation first.'
+STORY = [('tencho', '延滞してないですか？次からちゃんと巻き戻しといてね。', 'Are these tapes overdue? Be sure to rewind them properly next time.', [(4, '延滞してないですか'), (7, 'ちゃんと巻き戻しといてね')], ''), ('kawada', 'どうも、社長。いやあ、すごい映画が出てきたもんだよね。', 'Hello there. My, what an incredible movie has come out.', [(8, 'どうも'), (10, 'すごい映画が')], ''), ('tencho', 'これ間違いなくシリーズ化するだろうね。で、今日何の用？', 'They will definitely turn this into a series. So, what brings you in today?', [(12, '間違いなく'), (12, 'シリーズ化するだろうね'), (14, '今日 何の用')], ''), ('kawada', 'ついにうちの作品が店頭に並ぶ日なんで。', 'Today is finally the day our own video hits store shelves.', [(15, 'ついにうちの作品が'), (15, '店頭に並ぶ日なんで')], ''), ('kawada', '何かいても立ってもいられなくなっちゃってね。', "Somehow we just couldn't sit still waiting at the office.", [(16, 'いても立っても'), (16, 'いられなくなっちゃって')], ''), ('tencho', 'ああ、置いてあるよ。見てみれば。', "Oh, it's out on the rack. Go take a look.", [(19, '置いてあるよ'), (20, '見てみれば')], ''), ('kawada', 'どこだろう、えっと、こっちかな？', "Where could it be — let's see, over this way?", [(21, 'どこだろう えっと'), (22, 'こっちかな')], ''), ('tencho', 'いや、そんな上じゃないよ。下、もっと下。', 'No, not up that high. Lower — way lower.', [(23, 'そんな上じゃないよ'), (24, 'もっと下')], ''), ('tencho', 'で、ずっと行って右、右。', 'Then keep going all the way over to the far right.', [(24, 'ずっと行って右')], ''), ('kawada', '右、右…', 'To the right, right...', [(25, '右… 右 右')], ''), ('muranishi', 'これだけですか？', 'Is this single copy all you have?', [(27, 'これだけですか')], ''), ('tencho', 'そうだよ。', "Yep, that's it.", [(28, 'そうだよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Are these tapes overdue? Be sure to rewind them properly next time.'"), (1, None, "'Hello there. My, what an incredible movie has come out.'"), (2, None, "'They will definitely turn this into a series. So, what brings you in today?'"), (3, None, "'Today is finally the day our own video hits store shelves.'"), (4, None, '"Somehow we just couldn\'t sit still waiting at the office."'), (5, None, '"Oh, it\'s out on the rack. Go take a look."'), (6, None, '"Where could it be — let\'s see, over this way?"'), (7, None, "'No, not up that high. Lower — way lower.'"), (8, None, "'Then keep going all the way over to the far right.'"), (9, None, "'To the right, right...'"), (10, None, "'Is this single copy all you have?'"), (11, None, '"Yep, that\'s it."')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Directed down to the lowest shelf in the far right corner, Muranishi stares in disbelief at the single copy sitting on the rack. See you next time!'
+CLOSING = ('kawada', 'またね。')

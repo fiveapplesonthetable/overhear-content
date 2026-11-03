@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e04-scene-07'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 4
+SCENE = 7
+TITLE = "誰のためのルールだ  (Crashing Poseidon's Anniversary Gala)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'ikezawa': '池沢', 'muranishi': '村西', 'kaede': '楓'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E04'
+SOURCE_FILE = 'sources/the-naked-director/s01/e04.ja.srt'
+
+INTRO = "Sneaking into rival Poseidon's glamorous third-anniversary hotel banquet, Muranishi piles his plate at the buffet while President Ikezawa takes the microphone to preach about order in the adult video industry. Listen to Ikezawa, Muranishi, and Kaede in Japanese first."
+STORY = [('ikezawa', 'お集まりの皆様、女優ともども精進していきたいと思っております。', 'Thank you all for gathering; together with our actresses, we aim to keep striving forward.', [(160, 'お集まりの皆様'), (162, '女優ともども'), (162, '精進していきたいと思っております')], ''), ('ikezawa', '私はアダルトビデオだからこそ、秩序が必要だという信念を持っております。', 'Precisely because this is adult video, I hold the firm conviction that industry order is essential.', [(164, '私はアダルトビデオだからこそ'), (165, '秩序が必要だという信念を'), (165, '持っております')], ''), ('muranishi', '誰のためのルールだ？', 'Rules for whose benefit?', [(168, '誰のためのルールだ')], ''), ('muranishi', 'さすがポルノ王、食いもんも豪華ですね、肉が多い。', 'Leave it to the self-styled king — even the buffet spread is lavish, with plenty of meat.', [(170, '食いもんも豪華ですね 肉が多い')], ''), ('muranishi', '俺は部外者じゃない、アダルトビデオの監督だ。', 'I am no outsider; I am an adult video director.', [(172, '俺は部外者じゃない'), (172, 'アダルトビデオの監督だ')], ''), ('ikezawa', '今日は招待したお客様だけの会でね。', "Today's reception is strictly for our invited guests.", [(173, '今日は招待したお客様だけの会でね')], ''), ('muranishi', 'あんたの作品はちっとも抜けないな。女優が感じてないのが分かるから見ててシラける。', "Your videos don't excite viewers one bit; anyone can tell the actresses feel nothing, and it kills the mood.", [(174, 'あんたの作品は'), (175, '女優が感じてないのが分かるから'), (175, '見ててシラける')], ''), ('muranishi', 'みんな顔が死んでる。特にあなた、顔がまるでロボットのようだ。', 'Every one of their faces is lifeless — especially yours, just like a robot.', [(176, 'みんな 顔が死んでる'), (177, '特に あなた'), (178, '顔が まるでロボットのようだ')], ''), ('ikezawa', 'ご高説賜りたいが、これ以上パーティーがシラけるのも困る。そろそろよろしいかな？', "Much as I'd love your lecture, I hate to let the party sour any further — shall we wrap this up?", [(180, 'ご高説賜りたいが これ以上'), (180, 'パーティーがシラけるのも困る'), (181, 'そろそろ よろしいかな')], ''), ('kaede', 'お引き取り願えますか。', 'Would you kindly step outside now?', [(182, 'お引き取り願えますか')], ''), ('muranishi', '自分で行くよ。', "I'll walk out on my own.", [(182, '自分で行くよ')], ''), ('muranishi', 'ごちそうさん。', 'Thanks for the feast.', [(186, 'ごちそうさん')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Thank you all for gathering; together with our actresses, we aim to keep striving forward.'"), (1, None, "'Precisely because this is adult video, I hold the firm conviction that industry order is essential.'"), (2, None, "'Rules for whose benefit?'"), (3, None, "'Leave it to the self-styled king — even the buffet spread is lavish, with plenty of meat.'"), (4, None, "'I am no outsider; I am an adult video director.'"), (5, None, '"Today\'s reception is strictly for our invited guests."'), (6, None, '"Your videos don\'t excite viewers one bit; anyone can tell the actresses feel nothing, and it kills the mood."'), (7, None, "'Every one of their faces is lifeless — especially yours, just like a robot.'"), (8, None, '"Much as I\'d love your lecture, I hate to let the party sour any further — shall we wrap this up?"'), (9, None, "'Would you kindly step outside now?'"), (10, None, '"I\'ll walk out on my own."'), (11, None, "'Thanks for the feast.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Telling Ikezawa's prized starlet to her face that her expression looks like a robot, Muranishi strolls out past security after thanking them for the free roast beef. See you next time!"
+CLOSING = ('muranishi', 'さようなら。')
