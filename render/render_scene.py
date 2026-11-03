@@ -338,13 +338,13 @@ class Renderer:
                     raw_e = max(c_ct[mi][1] for mi in valid_mi)
                     prev_hits = [c_ct[p][1] for p in range(0, min_mi) if p < len(c_ct) and c_ct[p] is not None]
                     next_hits = [c_ct[p][0] for p in range(max_mi + 1, len(c_ct)) if c_ct[p] is not None]
-                    prev_bound = max(prev_hits) + 0.028 if prev_hits else 0.0
+                    prev_bound = max(prev_hits) + 0.038 if prev_hits else 0.0
                     next_bound = min(next_hits) - 0.042 if next_hits else dur_c
 
                     if k_seg == ch_obj.a:
                         s_sec = 0.0
                     else:
-                        lo_s = max(0.0, min(raw_s, max(prev_bound, raw_s - 0.050)))
+                        lo_s = max(0.0, min(raw_s, max(prev_bound, raw_s - 0.018)))
                         f0 = max(0, int(lo_s / c_hop))
                         f1 = min(len(c_env), max(f0 + 1, int(raw_s / c_hop) + 1))
                         s_sec = (f0 + int(np.argmin(c_env[f0:f1]))) * c_hop if f1 > f0 else lo_s
