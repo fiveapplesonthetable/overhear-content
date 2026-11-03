@@ -46,11 +46,29 @@ class ChatterboxArEngine(QwenEngine):
             reference = self.voices.ref_path(voice)
             if not reference.is_file():
                 raise ValueError("Arabic voice reference must exist; no synthetic or repeated reference padding")
-            wav = self.q.generate(
-                text=text, language_id="ar", audio_prompt_path=str(reference),
-                exaggeration=cfg.get("exaggeration", 0.5), cfg_weight=cfg.get("cfg_weight", 0.5),
-                temperature=temperature if temperature is not None else cfg.get("temperature", 0.8),
-                repetition_penalty=repetition_penalty if repetition_penalty is not None else cfg.get("repetition_penalty", 2.0), min_p=cfg.get("min_p", 0.05), top_p=cfg.get("top_p", 1.0))
+            t_in = text.strip()
+            if not any(ch.isalnum() for ch in t_in):
+                result.append(np.zeros(int(0.08 * NATIVE_SR), dtype=np.float32))
+                continue
+            if len(t_in) == 1:
+                t_in = t_in + "َ."
+            elif len(t_in) <= 3 and t_in[-1] not in ".!؟…":
+                t_in = t_in + "."
+            wav = None
+            for sub_try in range(4):
+                try:
+                    if sub_try > 0:
+                        self.torch.manual_seed(seed + sub_try * 997)
+                    t_try = t_in if sub_try < 2 else (text.strip() + "َ.")
+                    wav = self.q.generate(
+                        text=t_try, language_id="ar", audio_prompt_path=str(reference),
+                        exaggeration=cfg.get("exaggeration", 0.5), cfg_weight=cfg.get("cfg_weight", 0.5),
+                        temperature=temperature if temperature is not None else cfg.get("temperature", 0.8),
+                        repetition_penalty=repetition_penalty if repetition_penalty is not None else cfg.get("repetition_penalty", 2.0), min_p=cfg.get("min_p", 0.05), top_p=cfg.get("top_p", 1.0))
+                    break
+                except RuntimeError:
+                    if sub_try == 3:
+                        raise
             samples = np.asarray(wav.detach().cpu().numpy(), dtype=np.float32).reshape(-1)
             if not samples.size or not np.isfinite(samples).all():
                 raise ValueError("Arabic synthesis produced empty/nonfinite audio")
