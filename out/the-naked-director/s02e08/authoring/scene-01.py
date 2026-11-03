@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e08-scene-01'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 8
+SCENE = 1
+TITLE = '特別な存在だったんだよ  (She Was Truly Someone Special)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'kuroki': '黒木', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E08'
+SOURCE_FILE = 'sources/the-naked-director/s02/e08.ja.srt'
+
+INTRO = "Welcome back to The Naked Director, Season Two, Episode Eight—the series finale. Outside Kuroki's hospital room while reporters crowd the entrance downstairs, Kawada confesses his guilt over first putting Kuroki's debut tape on sale."
+STORY = [('kawada', 'お母様は？', 'Where is her mother?', [(4, 'お母様は')], ''), ('reika', '少し休んでもらってる、ずっとつきっきりだったから。', 'I had her get a little rest, since she has been right by her side this whole time.', [(5, '少し休んでもらってる ずっと つきっきりだったから')], ''), ('reika', '空いてるベッド用意させたの。看護婦にすごんだら一発。', 'I made them prepare an empty bed—one glare at the nurse did the trick.', [(7, '空いてるベッド 用意させたの'), (8, '看護婦にすごんだら 一発')], ''), ('kawada', '相変わらず頼りになるなあ。本当に申し訳ない限りだ。', 'You are as reliable as ever. I truly cannot apologize enough.', [(9, '相変わらず 頼りになるなあ'), (11, '本当に'), (12, '申し訳ない限りだ')], ''), ('reika', '別に川田さん悪くないから。', 'None of this is your fault, Mr. Kawada.', [(13, '別に川田さん 悪くないから')], ''), ('kawada', '覚えてるかな？村西さんがハワイで捕まった時のこと。', 'Do you remember when Mr. Muranishi was arrested overseas?', [(15, '覚えてるかな'), (16, '村西さんが ハワイで捕まった時のこと')], ''), ('kawada', 'あの時僕は、黒木君の提案に頼りきってしまった。', "Back then, I leaned far too heavily on Kuroki's own proposal.", [(18, 'あの時 僕は'), (19, '提案に 頼りきってしまった')], 'trimmed furigana'), ('kuroki', '私の作品を販売したらダメですか？いくらかでも足しにならないですか？', "Couldn't you put my video on sale? Wouldn't it help cover at least part of the cost?", [(20, '私の作品を 販売したらダメですか'), (21, 'いくらかでも 足しにならないですか')], ''), ('kawada', 'この子を黒木香という商品にしてしまったのは、僕かもしれない。', 'The person who turned her into a commodity called Kaoru Kuroki may have been me.', [(24, 'この子を黒木 香という'), (25, '商品にしてしまったのは'), (26, '僕かもしれない')], ''), ('reika', 'みんな自分のせいにしたがる。', 'Everyone tries to blame themselves.', [(27, 'みんな 自分のせいにしたがる')], ''), ('reika', '黒ちゃんは自ら望んで黒木香になったんですって、私も言われちゃいました。', 'She told me herself that she became Kaoru Kuroki of her own free will.', [(28, '黒ちゃんは'), (29, '自ら望んで 黒木 香になったんです'), (30, '私も言われちゃいました')], ''), ('kawada', 'それだけ黒木香は特別な存在だったんだよ。', 'That just shows what an extraordinary presence Kaoru Kuroki was.', [(31, 'それだけ黒木 香は 特別な存在だったんだよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Where is her mother?'"), (1, None, "'I had her get a little rest, since she has been right by her side this whole time.'"), (2, None, "'I made them prepare an empty bed—one glare at the nurse did the trick.'"), (3, None, "'You are as reliable as ever. I truly cannot apologize enough.'"), (4, None, "'None of this is your fault, Mr. Kawada.'"), (5, None, "'Do you remember when Mr. Muranishi was arrested overseas?'"), (6, None, '"Back then, I leaned far too heavily on Kuroki\'s own proposal."'), (7, None, '"Couldn\'t you put my video on sale? Wouldn\'t it help cover at least part of the cost?"'), (8, None, "'The person who turned her into a commodity called Kaoru Kuroki may have been me.'"), (9, None, "'Everyone tries to blame themselves.'"), (10, None, "'She told me herself that she became Kaoru Kuroki of her own free will.'"), (11, None, "'That just shows what an extraordinary presence Kaoru Kuroki was.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Reminding Kawada that Kuroki herself insisted she chose that life willingly, her friend helps him see just how extraordinary Kaoru Kuroki truly was.'
+CLOSING = ('kawada', 'またね。')

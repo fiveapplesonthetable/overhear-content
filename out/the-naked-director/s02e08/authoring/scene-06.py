@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e08-scene-06'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 8
+SCENE = 6
+TITLE = '絶対幸せになってください  (Please Be Happy Without Fail)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kacho': '課長', 'reika': '麗華', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E08'
+SOURCE_FILE = 'sources/the-naked-director/s02/e08.ja.srt'
+
+INTRO = "Just after television news reports Furuya's fatal shooting, the betrayed actress visits the junior director's apartment alongside a polite credit-union officer to return his thirty million yen."
+STORY = [('student', 'ヤクザな死に方だな。なんだかめまぐるしいね。', "What a gangster's way to die. Everything is changing at a dizzying pace.", [(135, 'ヤクザな死に方だな'), (139, 'なんだか めまぐるしいね')], ''), ('reika', 'ちょっと話があって、ごめんね急に。紹介するね。', 'I had something to tell you—sorry to drop by so suddenly. Let me introduce you.', [(147, 'ちょっと話があって ごめんね 急に'), (149, '紹介するね')], ''), ('kacho', 'はじめまして、小沢と申します。こちら用立てていただいた三千万になります。', 'Nice to meet you. Here is the thirty million yen you so kindly arranged for her.', [(151, 'はじめまして 小沢と申します'), (154, 'こちら 用立てていただいた')], 'spelled numeral in kanji'), ('kacho', '奈緒子のためにご尽力くださり、ありがとうございました。', 'Thank you deeply for everything you did on her behalf.', [(155, '奈緒子のために ご尽力くださり ありがとうございました')], ''), ('student', '僕言いましたよね？お金返さなくていいって。', "Didn't I tell you before that you didn't need to pay the money back?", [(158, '僕 言いましたよね お金 返さなくていいって')], ''), ('reika', '私この人と結婚するんだ。', 'I am going to marry this man.', [(161, '私 この人と結婚するんだ')], ''), ('student', 'おめでとうございます。こうやって伝えてもらえると諦めがつきますもんね。', 'Congratulations. Hearing it straight from you like this makes it much easier for me to let go.', [(166, 'おめでとうございます'), (168, 'こうやって伝えてもらえると 諦めがつきますもんね')], ''), ('student', 'ありがとう奈緒子さん、絶対幸せになってください。', 'Thank you—please be happy without fail.', [(169, 'ありがとう 奈緒子さん'), (170, '絶対 幸せになってください')], ''), ('student', 'しっかり守ってあげてくださいね。女優をやってたことで奈緒子さんが傷つかないように、それだけはお願いします。', 'Please protect her well. Make sure she is never hurt over having worked as an actress—that is the one thing I ask.', [(171, 'しっかり守ってあげてくださいね'), (172, '女優をやってたことで 奈緒子さんが傷つかないように'), (173, 'それだけは お願いします')], 'omitted AV abbreviation'), ('kacho', 'はい。', 'I will.', [(174, 'はい')], ''), ('reika', '体に気をつけてね。', 'Take good care of yourself.', [(176, '体に気をつけてね')], ''), ('student', 'ふざけんなよチキショー！好きだったんだよ！', 'Damn it all! I loved her so much!', [(183, 'ふざけんなよ チキショー'), (186, '好きだったんだよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"What a gangster\'s way to die. Everything is changing at a dizzying pace."'), (1, None, "'I had something to tell you—sorry to drop by so suddenly. Let me introduce you.'"), (2, None, "'Nice to meet you. Here is the thirty million yen you so kindly arranged for her.'"), (3, None, "'Thank you deeply for everything you did on her behalf.'"), (4, None, '"Didn\'t I tell you before that you didn\'t need to pay the money back?"'), (5, None, "'I am going to marry this man.'"), (6, None, "'Congratulations. Hearing it straight from you like this makes it much easier for me to let go.'"), (7, None, "'Thank you—please be happy without fail.'"), (8, None, "'Please protect her well. Make sure she is never hurt over having worked as an actress—that is the one thing I ask.'"), (9, None, "'I will.'"), (10, None, "'Take good care of yourself.'"), (11, None, "'Damn it all! I loved her so much!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Putting on a brave smile as she announces her marriage and asking her fiancé to shield her from her past, the young director waits until the door closes before breaking down in tears.'
+CLOSING = ('student', 'じゃあね。')

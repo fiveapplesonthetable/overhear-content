@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-11'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 11
+TITLE = '夏と冬どっちが好きだ  (Do You Prefer Summer or Winter?)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'fujiwara': '藤原', 'furuya': '古谷'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = 'Empty-handed and out of time, Muranishi is hung upside down in a freezing room where Furuya calmly recalls the cold winter day they first met and offers him one final cigarette.'
+STORY = [('furuya', '夏と冬、どっちが好きだ？', 'Summer or winter—which do you prefer?', [(374, '夏と冬 どっちが好きだ')], ''), ('furuya', '寒いのは慣れてるよな？', "You're used to the cold, aren't you?", [(376, '寒いのは慣れてるよな')], ''), ('furuya', '俺たちが会った日も寒かった、そうだろ？', "The day we first met was cold too, wasn't it?", [(377, '俺たちが会った日も寒かった'), (378, 'そうだろ')], ''), ('furuya', '夢に出てきたんだよ、お前と会った日のことが。', 'It came to me in a dream—the day I met you.', [(379, '夢に出てきたんだよ'), (380, 'お前と会った日のことが')], ''), ('furuya', 'あの時俺どんな服着てたか覚えてるか？それだけ気になってな。', 'Do you remember what clothes I was wearing back then? That one detail has been nagging at me.', [(381, 'あの時 俺 どんな服 着てたか 覚えてるか'), (382, 'それだけ気になってな')], ''), ('furuya', '最後に吸うか？', 'Want one final smoke?', [(383, '最後に吸うか')], ''), ('furuya', 'じゃあ俺が吸おう。', "Then I'll smoke it myself.", [(384, 'じゃあ 俺が吸おう')], ''), ('fujiwara', 'けどまあ、バラせばどうにかなる。ノコは？', "Still, if we chop him up we'll manage. Where's the saw?", [(385, 'けど まあ バラせば どうにかなる'), (386, 'ノコは')], ''), ('fujiwara', 'おい捕まえろ！降りる！', "Hey, grab him! He's getting down!", [(389, 'おい 捕まえろ'), (391, '降りる')], ''), ('fujiwara', 'どけよ！村西、おい！', 'Out of the way! Muranishi, stop!', [(393, 'どけよ'), (394, '村西 おい')], ''), ('fujiwara', 'おい村西！お前逃げられると思ってるのか！', 'Hey, Muranishi! Do you really think you can run away from us?!', [(396, 'おい 村西'), (397, 'お前 逃げられると思ってるのか')], ''), ('fujiwara', 'おい急げ、逃がすな！', "Hurry up—don't let him get away!", [(398, 'おい 急げ'), (399, '逃がすな')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Summer or winter—which do you prefer?'"), (1, None, '"You\'re used to the cold, aren\'t you?"'), (2, None, '"The day we first met was cold too, wasn\'t it?"'), (3, None, "'It came to me in a dream—the day I met you.'"), (4, None, "'Do you remember what clothes I was wearing back then? That one detail has been nagging at me.'"), (5, None, "'Want one final smoke?'"), (6, None, '"Then I\'ll smoke it myself."'), (7, None, '"Still, if we chop him up we\'ll manage. Where\'s the saw?"'), (8, None, '"Hey, grab him! He\'s getting down!"'), (9, None, "'Out of the way! Muranishi, stop!'"), (10, None, "'Hey, Muranishi! Do you really think you can run away from us?!'"), (11, None, '"Hurry up—don\'t let him get away!"')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "As Furuya's men discuss how to dispose of his body, Muranishi slips free of his ropes and bolts down the street with the furious gangsters right on his heels."
+CLOSING = ('furuya', 'じゃあね。')

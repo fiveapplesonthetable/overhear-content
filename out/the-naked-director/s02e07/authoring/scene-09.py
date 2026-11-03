@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-09'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 9
+TITLE = 'もう黒ちゃんに関わらないでください  (Stay Away from Her Now)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'editor': '編集者', 'kayo': '加代', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = "After newspapers report Kuroki's fall from her balcony, Muranishi pushes past a crowd of aggressive reporters at the hospital, where Kuroki's heartbroken friend blocks his path outside the ward."
+STORY = [('editor', '村西さん！お話をお伺いしてもよろしいですか？', 'Mr. Muranishi! May we ask you a few questions?', [(306, '村西さん'), (307, 'お話を お伺いしてもよろしいですか')], ''), ('reika', '何しに来たんですか？もう黒ちゃんに関わらないでください。', 'Why did you come here? Please stay away from her from now on!', [(313, '何しに来たんですか'), (314, 'もう黒ちゃんに 関わらないでください')], ''), ('reika', '今更来たって何もできませんよ。', 'Even if you show up this late, there is nothing you can do!', [(315, '今更来たって 何もできませんよ')], ''), ('reika', 'あの時黒ちゃんがどれだけ村西監督との新作を楽しみにしてたか知ってますか？', 'Do you have any idea how much she was looking forward to filming a new work with you back then?', [(316, 'あの時 黒ちゃんが どれだけ村西監督との新作を'), (317, '楽しみにしてたか知ってますか')], ''), ('reika', 'これまでどれだけ信じてたか分かってますか？それ全部踏みにじったんですよ。', 'Do you understand how deeply she trusted you all this time? You trampled over every bit of it!', [(318, 'これまで どれだけ信じてたか 分かってますか'), (319, 'それ全部 踏みにじったんですよ')], ''), ('reika', '村西さんだけじゃありません。私だってホントはずっと黒ちゃんのこと苦しめてたんじゃないかって。', "And it wasn't only you. I keep wondering whether I was making her suffer this whole time too.", [(320, '村西さんだけじゃありません'), (321, '私だって ホントはずっと'), (322, '黒ちゃんのこと 苦しめてたんじゃないかって')], ''), ('kayo', '天主の御母聖マリア、罪人なる我らのために。', 'Holy Mary, Mother of God, for us sinners...', [(327, '天主の御母 聖マリア'), (328, '罪人なる我らのために')], ''), ('kayo', '今も臨終の時も祈りたまえ、アーメン。', 'Pray for us now and at the hour of our death. Amen.', [(329, '今も 臨終の時も'), (330, '祈りたまえ'), (331, 'アーメン')], ''), ('editor', '村西さん、自殺の原因は何なんでしょうか？村西さんと破局したことが何か関係してるんでしょう？', 'Mr. Muranishi, what caused her suicide attempt? Did your breakup have something to do with it?', [(335, '村西さん 自殺の原因は何なんでしょうか'), (336, '村西さんと破局したことが 何か関係してるんでしょう')], ''), ('editor', 'アルコール依存が続いてたとのうわさがありますが、村西さんが原因なんじゃないですか？', "There are rumors she struggled with alcohol dependency—weren't you the cause?", [(337, 'アルコール依存が続いてたとの うわさがありますが'), (338, '村西さんが 原因なんじゃないですか')], ''), ('kayo', '天主の御母、聖マリア。', 'Holy Mary, Mother of God.', [(340, '天主の御母 聖マリア')], ''), ('kayo', '今も臨終なる時も祈りたまえ。アーメン。', 'Pray for us now and at the hour of death. Amen.', [(342, '今も 臨終なる時も'), (343, '祈りたまえ'), (344, 'アーメン')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Mr. Muranishi! May we ask you a few questions?'"), (1, None, "'Why did you come here? Please stay away from her from now on!'"), (2, None, "'Even if you show up this late, there is nothing you can do!'"), (3, None, "'Do you have any idea how much she was looking forward to filming a new work with you back then?'"), (4, None, "'Do you understand how deeply she trusted you all this time? You trampled over every bit of it!'"), (5, None, '"And it wasn\'t only you. I keep wondering whether I was making her suffer this whole time too."'), (6, None, "'Holy Mary, Mother of God, for us sinners...'"), (7, None, "'Pray for us now and at the hour of our death. Amen.'"), (8, None, "'Mr. Muranishi, what caused her suicide attempt? Did your breakup have something to do with it?'"), (9, None, '"There are rumors she struggled with alcohol dependency—weren\'t you the cause?"'), (10, None, "'Holy Mary, Mother of God.'"), (11, None, "'Pray for us now and at the hour of death. Amen.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Inside the intensive care room, Kuroki's mother Kayo clasps her hands in prayer as reporters continue shouting questions at Muranishi outside the hospital doors."
+CLOSING = ('kayo', 'さようなら。')

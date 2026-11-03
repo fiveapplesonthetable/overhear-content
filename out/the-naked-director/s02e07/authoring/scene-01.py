@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-01'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 1
+TITLE = 'また一つの生き物に戻りましょう  (Becoming One Creature Again)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = 'Welcome back to The Naked Director, Season Two, Episode Seven. Sitting across from Muranishi in his darkened office, Kuroki tells him he is finished and unveils a startling plan to fake her death and start a new religious movement together.'
+STORY = [('kuroki', '監督、あなたは終わりです。', 'Director, you are finished.', [(1, '監督 あなたは終わりです')], ''), ('muranishi', '何を言ってんだよ。これからだよ、俺は。', 'What are you talking about? I am just getting started.', [(2, '何を言ってんだよ'), (3, 'これからだよ 俺は')], ''), ('kuroki', 'でも一つだけ助かる方法があります。わたくしを殺してください。', 'Still, there is one way to save yourself. Please kill me.', [(5, '助かる方法があります'), (6, 'わたくしを殺してください')], 'spelled numeral in kanji'), ('kuroki', 'エイズで死んだことにして。', 'Make it look as though I died of AIDS.', [(7, 'エイズで死んだことにして')], ''), ('kuroki', '九州に新興宗教が一つあります。それを買ってください。', 'There is a new religious group down south. Please buy it.', [(8, '九州に新興宗教が'), (9, 'それを買ってください')], 'spelled numeral in kanji'), ('kuroki', 'その間にわたくしは山に籠もってよみがえります。', 'In the meantime, I will seclude myself in the mountains and be resurrected.', [(10, 'その間に わたくしは 山に籠もって よみがえります')], ''), ('kuroki', '監督が教祖、わたくしが巫女で宗教を起こしましょう。', 'Let us launch a religion with you as the founder and me as the shrine maiden.', [(11, '監督が教祖 わたくしが'), (11, '宗教を起こしましょう')], 'trimmed furigana'), ('muranishi', '俺に教祖になれっつってるのか？', 'Are you telling me to become a cult founder?', [(12, '俺に教祖になれっつってるのか')], ''), ('kuroki', '経済が破綻してこれから人は癒やしを求めます。このビジネスだったら必ず再生できます。', 'As the economy collapses, people will seek healing. With this business, we can surely make a comeback.', [(14, '経済が破綻して これから 人は癒やしを求めます'), (15, 'このビジネスだったら 必ず再生できます')], ''), ('muranishi', 'バカなことを言うな。', "Don't talk nonsense.", [(17, 'バカなことを言うな')], ''), ('kuroki', 'わたくしたちは二人で一つの生き物なんです。一人で歩いてみて分かりました。', 'The two of us are a single living creature. I realized that when I tried walking on my own.', [(19, 'わたくしたちは'), (20, '歩いてみて分かりました')], 'spelled numerals in kanji'), ('kuroki', 'また一つの生き物に戻りましょう。さようなら、村西監督。', 'Let us return to being one creature again. Farewell, Director Muranishi.', [(22, '生き物に戻りましょう'), (23, 'さようなら 村西監督')], 'spelled numeral in kanji')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Director, you are finished.'"), (1, None, "'What are you talking about? I am just getting started.'"), (2, None, "'Still, there is one way to save yourself. Please kill me.'"), (3, None, "'Make it look as though I died of AIDS.'"), (4, None, "'There is a new religious group down south. Please buy it.'"), (5, None, "'In the meantime, I will seclude myself in the mountains and be resurrected.'"), (6, None, "'Let us launch a religion with you as the founder and me as the shrine maiden.'"), (7, None, "'Are you telling me to become a cult founder?'"), (8, None, "'As the economy collapses, people will seek healing. With this business, we can surely make a comeback.'"), (9, None, '"Don\'t talk nonsense."'), (10, None, "'The two of us are a single living creature. I realized that when I tried walking on my own.'"), (11, None, "'Let us return to being one creature again. Farewell, Director Muranishi.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Calling her idea nonsense, Muranishi turns away, and Kuroki quietly bids the director farewell before walking out into the night.'
+CLOSING = ('kuroki', 'さようなら。')

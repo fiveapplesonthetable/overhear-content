@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e08-scene-13'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 8
+SCENE = 13
+TITLE = 'ありのままでいいのよ  (Just Be the Way You Are)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'keieisha': '経営者', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E08'
+SOURCE_FILE = 'sources/the-naked-director/s02/e08.ja.srt'
+
+INTRO = "By 1994, a new generation of directors leads Kawada's sets with warmth and imagination: Kuroki's friend listens empathetically to a nervous debut actress and rewrites the scene on the spot."
+STORY = [('reika', 'カット！もう一度お願いしまーす。', "Cut! Let's take it one more time, please.", [(495, 'カット もう一度 お願いしまーす')], ''), ('client_f', 'すいません監督、初めてだから勝手が分からなくて。', "I'm sorry, Director—it's my first shoot, so I don't know the ropes yet.", [(497, 'すいません 監督 初めてだから勝手が分からなくて')], ''), ('reika', 'いいの、初々しくてすごいかわいかったよ。こういう場所でのセックスは気分が乗らない？', "It's totally fine—you looked fresh and super cute. Does filming in a place like this make it hard to get in the mood?", [(498, 'いいの 初々しくて すごいかわいかったよ'), (499, 'こういう場所でのセックスは 気分が乗らない')], ''), ('reika', 'あなたの感覚で言ってください。', 'Please tell me honestly how it feels to you.', [(501, 'あなたの感覚で言ってください')], ''), ('client_f', '私結構な潔癖症で、セックスはきれいなシーツの上じゃないと安心できないんです。', "I'm actually quite particular about cleanliness, so I can't feel at ease unless we're on clean sheets.", [(502, '私 結構な潔癖症で'), (503, 'セックスは きれいなシーツの上じゃないと'), (504, '安心できないんです')], ''), ('client_f', 'すいません。', "I'm really sorry.", [(505, 'すいません')], ''), ('reika', 'ありのままでいいのよ。', "Just be the way you are—that's completely fine.", [(506, 'ありのままでいいのよ')], ''), ('reika', 'じゃあシーン変更します。あとで真っ白なシーツでの絡み撮りますから、ここはキスシーンのみで。', "All right, we're changing the scene! Later we'll shoot on pure white sheets, so we'll only do the kissing scene here.", [(508, 'じゃあ シーン変更します'), (509, 'あとで真っ白なシーツでの絡み 撮りますから'), (510, 'ここはキスシーンのみで')], ''), ('client_f', 'ありがとうございます。', 'Thank you so much!', [(511, 'ありがとうございます')], ''), ('keieisha', 'やっぱこれさ、個性が過ぎるんじゃないの？', "Say, don't you think this concept is a little too eccentric?", [(521, 'やっぱ これさ'), (522, '個性が過ぎるんじゃないの')], ''), ('reika', 'これが新しいんですよ。こんなのいまだかつて見たことがない。', "That's what makes it brand-new! Nobody has ever seen anything like this before.", [(523, 'これが新しいんですよ'), (524, 'こんなの いまだかつて見たことがない')], ''), ('keieisha', 'いいんですよ、これで。', 'All right—this works just fine!', [(525, 'いいんですよ これで')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"Cut! Let\'s take it one more time, please."'), (1, None, '"I\'m sorry, Director—it\'s my first shoot, so I don\'t know the ropes yet."'), (2, None, '"It\'s totally fine—you looked fresh and super cute. Does filming in a place like this make it hard to get in the mood?"'), (3, None, "'Please tell me honestly how it feels to you.'"), (4, None, '"I\'m actually quite particular about cleanliness, so I can\'t feel at ease unless we\'re on clean sheets."'), (5, None, '"I\'m really sorry."'), (6, None, '"Just be the way you are—that\'s completely fine."'), (7, None, '"All right, we\'re changing the scene! Later we\'ll shoot on pure white sheets, so we\'ll only do the kissing scene here."'), (8, None, "'Thank you so much!'"), (9, None, '"Say, don\'t you think this concept is a little too eccentric?"'), (10, None, '"That\'s what makes it brand-new! Nobody has ever seen anything like this before."'), (11, None, "'All right—this works just fine!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'As diverse new visions flourish across the industry and Megumi enjoys a peaceful life abroad, Muranishi works tirelessly at every odd job he can find to support his family.'
+CLOSING = ('reika', 'じゃあね。')

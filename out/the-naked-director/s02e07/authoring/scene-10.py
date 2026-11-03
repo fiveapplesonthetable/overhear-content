@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-10'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 10
+TITLE = '裏へ流す気だったんですか  (Were You Going to Sell Them Underground?)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'student': '生徒', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = "While Kawada, Toshi, and their junior director celebrate an energetic new shoot on location, a desperate Muranishi sneaks into Kawada's office and unlocks the safe to steal their master tapes."
+STORY = [('kawada', '村西さん、今日もよろしくお願いしますね。', 'Mr. Muranishi, watch over our shoot again today.', [(349, '村西さん 今日も よろしくお願いしますね')], ''), ('toshi', '三田村、こいつ売れるな。', 'Hey, this video is going to sell for sure.', [(352, '三田村 こいつ売れるな')], ''), ('student', 'ホントですか？', 'Really? You think so?', [(353, 'ホントですか')], ''), ('student', 'ちょっと、何やってるんですか！', 'Wait—what do you think you are doing?!', [(356, 'ちょっと 何やってるんですか')], ''), ('student', 'ちょっと！', 'Hey, stop!', [(359, 'ちょっと')], ''), ('kawada', 'ダメだって。', 'You cannot take that.', [(360, 'ダメだって')], ''), ('kawada', 'ダメだって！', "I said you can't have that!", [(361, 'ダメだって')], ''), ('toshi', 'おい、おい！', 'Hey, hey!', [(362, 'おい'), (363, 'おい')], ''), ('toshi', 'てめえ、何やってんだよ！なあ！', "Damn you, what the hell do you think you're doing?!", [(364, 'てめえ 何やってんだよ'), (364, 'なあ')], ''), ('toshi', 'おい！', 'Answer me!', [(365, 'おい')], ''), ('kawada', '裏へ流す気だったんですか？', 'Were you planning to sell this on the black market?', [(366, '裏へ流す気だったんですか')], ''), ('toshi', '何とか言えよ！', 'Say something!', [(367, '何とか言えよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Mr. Muranishi, watch over our shoot again today.'"), (1, None, "'Hey, this video is going to sell for sure.'"), (2, None, "'Really? You think so?'"), (3, None, "'Wait—what do you think you are doing?!'"), (4, None, "'Hey, stop!'"), (5, None, "'You cannot take that.'"), (6, None, '"I said you can\'t have that!"'), (7, None, "'Hey, hey!'"), (8, None, '"Damn you, what the hell do you think you\'re doing?!"'), (9, None, "'Answer me!'"), (10, None, "'Were you planning to sell this on the black market?'"), (11, None, "'Say something!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Caught red-handed clutching Kuroki's tape and unable to answer Kawada's stunned question, Muranishi wrenches free and sprints out into traffic."
+CLOSING = ('kawada', 'またね。')

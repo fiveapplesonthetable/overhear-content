@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-04'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 4
+TITLE = 'あと一億弱です  (Just Under One Hundred Million Left)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'fujiwara': '藤原', 'furuya': '古谷', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = 'While paramedics rush an unconscious Kuroki into the hospital emergency unit, Furuya and his deputy corner Muranishi in a back room and beat him over the final hundred million yen remaining on his loan.'
+STORY = [('fujiwara', 'めどが立たない？来週だと一割乗っかりますよ。', 'No prospect of paying? By next week, another ten percent gets tacked on.', [(88, 'めどが立たない')], 'spelled numeral in kanji'), ('fujiwara', 'できねえってどういうことだ！ナメてんのか！', "What do you mean you can't pay? Are you messing with us?!", [(91, 'できねえって どういうことだ'), (92, 'ナメてんのか')], ''), ('muranishi', 'もう少しで、年商は百億だったんです。', 'Just a little longer, and our annual sales would have hit ten billion.', [(94, 'もう少しで'), (94, '年商は')], 'spelled numeral in kanji'), ('fujiwara', 'だからもう聞き飽きたんだよ、お前の自慢話は。', 'I told you, I am sick and tired of hearing your boasting.', [(95, 'だから もう聞き飽きたんだよ お前の自慢話は')], ''), ('furuya', '荻原、あといくらだ？', 'How much is left on his balance?', [(96, '荻原 あといくらだ')], ''), ('fujiwara', 'あと一億弱です。', 'Just under one hundred million.', [(97, '弱です')], 'spelled numeral in kanji'), ('furuya', 'ホントにもうどこにもないのか？', 'Are you sure you really have nothing left anywhere?', [(98, 'ホントに もう どこにもないのか')], ''), ('furuya', 'サヤカ、行こう。', "Let's go.", [(99, 'サヤカ 行こう')], ''), ('muranishi', 'やめろ、待て！ある、ある、ある！', 'Stop, wait! There is, there is money!', [(102, 'やめろ'), (103, '待て'), (103, 'ある ある ある')], ''), ('muranishi', '金はサファイア映像に、あそこにまだ金になるものがある。', 'The money is at that studio—there is still something worth cash over there!', [(104, '金は サファイア映像に'), (105, 'あそこに まだ 金になるものがある')], ''), ('fujiwara', '黙れ、しゃべるな。', "Shut up. Don't talk.", [(107, '黙れ'), (107, 'しゃべるな')], ''), ('furuya', '荻原！最後に行かせてやれ。', 'Give him one last chance to go get it.', [(109, '荻原'), (109, '最後に行かせてやれ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'No prospect of paying? By next week, another ten percent gets tacked on.'"), (1, None, '"What do you mean you can\'t pay? Are you messing with us?!"'), (2, None, "'Just a little longer, and our annual sales would have hit ten billion.'"), (3, None, "'I told you, I am sick and tired of hearing your boasting.'"), (4, None, "'How much is left on his balance?'"), (5, None, "'Just under one hundred million.'"), (6, None, "'Are you sure you really have nothing left anywhere?'"), (7, None, '"Let\'s go."'), (8, None, "'Stop, wait! There is, there is money!'"), (9, None, "'The money is at that studio—there is still something worth cash over there!'"), (10, None, '"Shut up. Don\'t talk."'), (11, None, "'Give him one last chance to go get it.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Desperate to avoid execution, Muranishi blurts out that Kawada's company still holds valuable tapes, buying himself one final chance from Furuya."
+CLOSING = ('muranishi', 'じゃあね。')

@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-06'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 6
+TITLE = 'わいせつの基準が変わったんだよ  (Obscenity Standards Have Changed)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'keieisha': '経営者', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = 'Meeting with the video shop chain Proprietor, Kawada and Toshi vow they will never touch underground bootlegs no matter how tough business gets—and the Proprietor shows them a historic magazine.'
+STORY = [('keieisha', 'いやあしかしよかったよ、また動きだしてくれて。', "Well, I'm really glad you two got things moving again.", [(192, 'いやあ しかし よかったよ'), (193, 'また動きだしてくれて')], ''), ('kawada', '時間はかかりましたが、なんとかまた作れるところまでは来ました。', 'It took some time, but we somehow made it back to where we can produce again.', [(194, '時間はかかりましたが'), (195, 'なんとか また 作れるところまでは来ました')], ''), ('keieisha', 'ヤバくなっても、どこかみたいに裏に手出さないでよ。', "Even if things get rough, don't dabble in the black market like certain people.", [(196, 'ヤバくなっても'), (197, 'どこかみたいに 裏に手 出さないでよ')], ''), ('toshi', 'ああ、それだけは絶対やんねえよ、何があってもな。', "Yeah, that's the one thing we'll never do, no matter what happens.", [(198, 'ああ それだけは 絶対やんねえよ'), (199, '何があってもな')], ''), ('kawada', 'もし見つけたら、取引停止にしてもらって結構です。', 'If you ever catch us doing that, feel free to halt all business with us.', [(200, 'もし見つけたら 取引停止にしてもらって結構です')], ''), ('keieisha', 'いい覚悟だ、期待してるよ！', "I like that resolve—I'm counting on you!", [(201, 'いい覚悟だ 期待してるよ')], ''), ('keieisha', 'これ見たかい？ヘア解禁だよ。', 'Have you seen this? The ban on pubic hair has been lifted!', [(204, 'これ 見たかい'), (208, 'ヘア解禁だよ')], ''), ('keieisha', '要はヘアに規制がかからなくなったんだ。わいせつの基準が変わったんだよ。', 'In short, pubic hair is no longer restricted. The standards for obscenity have changed!', [(210, '要は ヘアに規制が かからなくなったんだ'), (211, 'わいせつの基準が変わったんだよ')], ''), ('keieisha', 'これからは有名女優やスターがばんばん脱ぐ時代がやってくる。ヘアヌードってやつだ。', 'From now on, famous actresses and stars will pose nude left and right. They call it "hair nude."', [(213, 'これからは 有名女優やスターが ばんばん脱ぐ時代がやってくる'), (214, 'ヘアヌード')], ''), ('toshi', 'おいおい、お前どうしたんだよ？', "Whoa, hey—what's the matter with you?", [(216, 'おいおい'), (216, 'お前 どうしたんだよ')], ''), ('kawada', 'これは性の解放、性革命だ。黒木君が望んだ世界がちゃんと形になってる。', 'This is sexual liberation—a sexual revolution! The world Kuroki wished for has truly taken shape.', [(217, '性の解放'), (218, '性革命だ'), (219, '黒木君が望んだ世界が'), (220, 'ちゃんと形になってる')], ''), ('kawada', '僕たちのやってきたことは、間違いじゃなかった。', 'Everything we worked for was not a mistake.', [(227, '僕たちのやってきたことは'), (228, '間違いじゃなかった')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"Well, I\'m really glad you two got things moving again."'), (1, None, "'It took some time, but we somehow made it back to where we can produce again.'"), (2, None, '"Even if things get rough, don\'t dabble in the black market like certain people."'), (3, None, '"Yeah, that\'s the one thing we\'ll never do, no matter what happens."'), (4, None, "'If you ever catch us doing that, feel free to halt all business with us.'"), (5, None, '"I like that resolve—I\'m counting on you!"'), (6, None, "'Have you seen this? The ban on pubic hair has been lifted!'"), (7, None, "'In short, pubic hair is no longer restricted. The standards for obscenity have changed!'"), (8, None, '\'From now on, famous actresses and stars will pose nude left and right. They call it "hair nude.".\''), (9, None, '"Whoa, hey—what\'s the matter with you?"'), (10, None, "'This is sexual liberation—a sexual revolution! The world Kuroki wished for has truly taken shape.'"), (11, None, "'Everything we worked for was not a mistake.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Flipping through newly legal "hair nude" photo spreads across the racks, Kawada breaks into tears of relief, realizing that the world Kuroki dreamed of has finally taken shape.'
+CLOSING = ('kawada', 'またね。')

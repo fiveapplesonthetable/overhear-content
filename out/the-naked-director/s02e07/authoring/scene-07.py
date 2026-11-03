@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-07'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 7
+TITLE = 'モザイクの向こう側をお見せしましょう  (Showing What Lies Beyond the Mosaic)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'keieisha': '経営者', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = 'At the shop register, Kawada and Toshi are surprised to find their former junior director working in an apron, and the Proprietor pitches a bold plan to produce original videos directly for his retail chain.'
+STORY = [('kawada', 'すいません、これ全部ください。', "Excuse me, I'll take all of these.", [(231, 'すいません これ全部ください')], ''), ('student', '僕です、三田村です。お久しぶりです、川田さん。', "It's me! Long time no see, Mr. Kawada.", [(232, '僕です 三田村です'), (239, 'お久しぶりです 川田さん')], ''), ('keieisha', 'うちで働いてもらってるんだ今。行くとこないとかでな。', "He's working at my store right now—said he had nowhere else to go.", [(237, 'うちで働いてもらってるんだ 今'), (238, '行くとこないとかでな')], ''), ('keieisha', '二人を呼んだ本題だ。今うちのチェーンでオリジナルのアダルトビデオを出そうっていう話になってる。', 'Now for the main reason I called you two here: our store chain is talking about releasing our own original adult videos.', [(244, '呼んだ本題だ'), (245, '今 うちのチェーンで'), (246, 'オリジナルの'), (246, 'を出そうっていう 話になってる')], 'spelled numeral and AV in Japanese'), ('keieisha', 'ビデオがいっときみたいに売れなくなっててな、問屋にいいようにやられちゃってるんだな。', "Videos don't sell like they used to, and the wholesalers are taking advantage of us.", [(248, 'ビデオが いっときみたいに 売れなくなっててな'), (249, '問屋に いいように やられちゃってるんだな')], ''), ('keieisha', 'だったらうちで作って売るっていうのはどうかなと。ちょっとだったら金も出すから。', 'So we figured, why not produce and sell them ourselves? We can even put up a bit of funding.', [(250, 'だったら うちで作って 売るっていうのはどうかなと'), (251, 'ちょっとだったら金も出すから')], ''), ('kawada', 'やりましょう。', "Let's do it.", [(252, 'やりましょう')], ''), ('keieisha', 'よし決まりだ、すげえの作ってくれよ。', "All right, it's a deal—make us something incredible!", [(253, 'よし 決まりだ'), (254, 'すげえの作ってくれよ')], ''), ('kawada', '作りたいものを作るだけだよ。モザイクの向こう側をお見せしましょう。', "We'll simply make what we want to make. Let us show you what lies beyond the mosaic.", [(258, '作りたいものを作るだけだよ'), (260, 'モザイクの向こう側を お見せしましょう')], ''), ('keieisha', 'モザイクの向こう側、楽しみにしてるぜ。', 'What lies beyond the mosaic—I look forward to seeing it!', [(261, 'モザイクの向こう側'), (263, '楽しみにしてるぜ')], ''), ('keieisha', 'はいぱっぱ脱げ、お前も行け。', 'Come on, whip off that apron—you go with them too!', [(270, 'はい ぱっぱ脱げ'), (272, 'お前も行け')], ''), ('student', 'お供します！はい！', "I'll gladly join you! Yes!", [(273, 'お供します'), (275, 'はい')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"Excuse me, I\'ll take all of these."'), (1, None, '"It\'s me! Long time no see, Mr. Kawada."'), (2, None, '"He\'s working at my store right now—said he had nowhere else to go."'), (3, None, "'Now for the main reason I called you two here: our store chain is talking about releasing our own original adult videos.'"), (4, None, '"Videos don\'t sell like they used to, and the wholesalers are taking advantage of us."'), (5, None, "'So we figured, why not produce and sell them ourselves? We can even put up a bit of funding.'"), (6, None, '"Let\'s do it."'), (7, None, '"All right, it\'s a deal—make us something incredible!"'), (8, None, '"We\'ll simply make what we want to make. Let us show you what lies beyond the mosaic."'), (9, None, "'What lies beyond the mosaic—I look forward to seeing it!'"), (10, None, "'Come on, whip off that apron—you go with them too!'"), (11, None, '"I\'ll gladly join you! Yes!"')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Accepting on the spot and promising to reveal what lies beyond the mosaic, Kawada and Toshi welcome the eager young director back onto their production crew.'
+CLOSING = ('student', 'また明日。')
