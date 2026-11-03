@@ -30,6 +30,56 @@ class AudioGates:
             emb = self.spk_model(**inputs).embeddings
         return torch.nn.functional.normalize(emb, dim=-1).squeeze()
 
+    def get_embeddings_batch(self, wavs_16k):
+        """Batched 16 kHz WavLM speaker embeddings (identical math to get_embedding, ~5x faster on sliding windows)."""
+        padded = [np.pad(w, (0, 8000 - len(w))) if len(w) < 8000 else w for w in wavs_16k]
+        inputs = self.extractor(padded, return_tensors="pt", sampling_rate=16000, padding=True).to("cuda")
+        with torch.no_grad(), torch.backends.cudnn.flags(enabled=False):
+            embs = self.spk_model(**inputs).embeddings
+        return torch.nn.functional.normalize(embs, dim=-1)
+
+    @staticmethod
+    def _en_expand_digits(s: str) -> str:
+        """Expand integer numerals (e.g. '20,000' -> 'twenty thousand', '12' -> 'twelve') so Whisper digit formatting never triggers false CER retries."""
+        import re
+        ones = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
+                "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
+        tens = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]
+
+        def _under_1000(n: int) -> str:
+            parts = []
+            if n >= 100:
+                parts.append(ones[n // 100] + " hundred")
+                n %= 100
+            if n >= 20:
+                w = tens[n // 10]
+                if n % 10:
+                    w += " " + ones[n % 10]
+                parts.append(w)
+            elif n > 0 or not parts:
+                parts.append(ones[n])
+            return " ".join(parts)
+
+        def _num(m):
+            raw = m.group(0).replace(",", "")
+            if not raw.isdigit() or len(raw) > 7:
+                return m.group(0)
+            n = int(raw)
+            if n == 0:
+                return "zero"
+            out = []
+            if n >= 1_000_000:
+                out.append(_under_1000(n // 1_000_000) + " million")
+                n %= 1_000_000
+            if n >= 1000:
+                out.append(_under_1000(n // 1000) + " thousand")
+                n %= 1000
+            if n > 0:
+                out.append(_under_1000(n))
+            return " ".join(out)
+
+        return re.sub(r"\b\d{1,3}(?:,\d{3})+\b|\b\d+\b", _num, s)
+
     def check_similarity(self, wav, sr, ref_path, threshold=0.65):
         ref_path = str(ref_path)
         if ref_path not in self.ref_embeddings:
@@ -244,45 +294,8 @@ class AudioGates:
             len_ok, len_reason = self.check_length_pause(w_trim, sr, text_plain, lang)
             w_16k = (librosa.resample(w_trim, orig_sr=sr, target_sr=16000) if sr != 16000 else w_trim).astype(np.float32)
             f0_std, pros_pen = self.check_prosody(w_16k, 16000)
-            return len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen
-
-        if cpu_pool is not None and len(wavs) > 1:
-            prepped = list(cpu_pool.map(_cpu_prep, wavs))
-        else:
-            prepped = [_cpu_prep(w) for w in wavs]
-
-        import jiwer, re
-        ref_norm = re.sub(r"[\W_]+", " ", text_plain.lower()).strip()
-        ref_path = str(ref_path)
-        if ref_path not in self.ref_embeddings:
-            ref_wav, ref_sr = sf.read(ref_path)
-            if ref_wav.ndim > 1:
-                ref_wav = ref_wav.mean(axis=1)
-            self.ref_embeddings[ref_path] = self.get_embedding(ref_wav, ref_sr)
-
-        cands = []
-        for idx, (len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen) in enumerate(prepped):
-            emb = self.get_embedding(w_16k, 16000)
-            sim_val = float(torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item())
             pitch_ok = True
-            if lang == "en":
-                # Full 0.9s-stride sliding-window WavLM check (1.8s window): zero blind spots anywhere in clip
-                win_len = 28800
-                win_hop = 14400
-                if len(w_16k) >= win_len:
-                    win_sims = []
-                    starts = list(range(0, len(w_16k) - win_len + 1, win_hop))
-                    if starts[-1] != len(w_16k) - win_len:
-                        starts.append(len(w_16k) - win_len)
-                    for ws in starts:
-                        seg_w = w_16k[ws:ws + win_len]
-                        if float(np.sqrt(np.mean(seg_w * seg_w))) < 0.008:
-                            continue
-                        w_emb = self.get_embedding(seg_w, 16000)
-                        win_sims.append(float(torch.nn.functional.cosine_similarity(w_emb, self.ref_embeddings[ref_path], dim=0).item()))
-                    if win_sims:
-                        sim_val = min([sim_val] + win_sims)
-                # Lock median F0 inside sky's calm British female range (165..226 Hz)
+            if lang == "en" and len(w_16k) >= 5600:
                 f0_y = librosa.yin(w_16k, fmin=75, fmax=380, sr=16000, frame_length=1024, hop_length=512)
                 rms_y = librosa.feature.rms(y=w_16k, frame_length=1024, hop_length=512)[0]
                 ny = min(len(f0_y), len(rms_y))
@@ -291,6 +304,58 @@ class AudioGates:
                     med_f0 = float(np.median(v_f0))
                     if med_f0 < 165.0 or med_f0 > 226.0:
                         pitch_ok = False
+            return len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen, pitch_ok
+
+        if cpu_pool is not None and len(wavs) > 1:
+            prepped = list(cpu_pool.map(_cpu_prep, wavs))
+        else:
+            prepped = [_cpu_prep(w) for w in wavs]
+
+        import jiwer, re
+        raw_ref_str = self._en_expand_digits(text_plain) if lang == "en" else text_plain
+        ref_norm = re.sub(r"[\W_]+", " ", raw_ref_str.lower()).strip()
+        # Identify capitalized proper-noun tokens in English text (excluding basic sentence starters)
+        _COMMON_EN_CAPS = {
+            "i", "the", "a", "an", "and", "but", "or", "so", "if", "when", "what", "why", "how", "where", "who",
+            "yes", "no", "well", "oh", "hey", "wait", "look", "listen", "now", "here", "there", "this", "that",
+            "these", "those", "he", "she", "it", "we", "they", "you", "my", "your", "his", "her", "our", "their",
+            "is", "are", "was", "were", "do", "does", "did", "can", "could", "will", "would", "should", "let",
+            "please", "thank", "thanks", "hello", "hi", "good", "great", "fine", "okay", "sure", "maybe", "just",
+            "don", "didn", "can", "won", "isn", "aren", "wasn", "tell", "give", "take", "come", "go", "stop",
+        }
+        en_proper_set = set()
+        if lang == "en":
+            for tok in re.findall(r"[A-Za-z]+", text_plain):
+                if tok[0].isupper() and len(tok) >= 3 and tok.lower() not in _COMMON_EN_CAPS:
+                    en_proper_set.add(tok.lower())
+
+        ref_path = str(ref_path)
+        if ref_path not in self.ref_embeddings:
+            ref_wav, ref_sr = sf.read(ref_path)
+            if ref_wav.ndim > 1:
+                ref_wav = ref_wav.mean(axis=1)
+            self.ref_embeddings[ref_path] = self.get_embedding(ref_wav, ref_sr)
+
+        cands = []
+        for idx, (len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen, pitch_ok) in enumerate(prepped):
+            emb = self.get_embedding(w_16k, 16000)
+            sim_val = float(torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item())
+            if lang == "en":
+                # Full 0.9s-stride sliding-window WavLM check (1.8s window) in ONE batched GPU forward pass
+                win_len = 28800
+                win_hop = 14400
+                if len(w_16k) >= win_len:
+                    starts = list(range(0, len(w_16k) - win_len + 1, win_hop))
+                    if starts[-1] != len(w_16k) - win_len:
+                        starts.append(len(w_16k) - win_len)
+                    win_batch = [
+                        w_16k[ws:ws + win_len] for ws in starts
+                        if float(np.sqrt(np.mean(w_16k[ws:ws + win_len] ** 2))) >= 0.008
+                    ]
+                    if win_batch:
+                        w_embs = self.get_embeddings_batch(win_batch)
+                        cos_all = torch.matmul(w_embs, self.ref_embeddings[ref_path])
+                        sim_val = min(sim_val, float(cos_all.min().item()))
             sim_thresh = 0.85 if lang == "en" else 0.67
             sim_ok = (sim_val >= sim_thresh) and pitch_ok
 
@@ -303,12 +368,13 @@ class AudioGates:
             w_objs = [wo for s in segs_list for wo in (s.words or [])]
             words = re.findall(r"\w+", hyp_text.lower())
             rep_ok = True
-            t_lower = text_plain.lower()
+            t_lower = raw_ref_str.lower()
             for wi in range(len(words) - 1):
                 if words[wi] == words[wi + 1] and len(words[wi]) > 1 and t_lower.count(words[wi]) < 2:
                     rep_ok = False
                     break
-            hyp_norm = re.sub(r"[\W_]+", " ", hyp_text.lower()).strip()
+            raw_hyp_str = self._en_expand_digits(hyp_text) if lang == "en" else hyp_text
+            hyp_norm = re.sub(r"[\W_]+", " ", raw_hyp_str.lower()).strip()
             cer_val = float(jiwer.cer(ref_norm, hyp_norm)) if ref_norm else 0.0
             edge_ok = True
             if lang in ("en", "pt", "es", "fr", "it", "de", "ru"):
@@ -325,6 +391,8 @@ class AudioGates:
                         for is_last, (rw, hw) in enumerate(((ref_w[0], hyp_w[0]), (ref_w[-1], hyp_w[-1]))):
                             if any(ch.isdigit() for ch in rw):
                                 continue
+                            if lang == "en" and rw in en_proper_set and sim_val >= 0.88 and len(hw) >= 2:
+                                continue
                             max_ed = 0.0 if len(rw) <= 6 else 0.15
                             if float(jiwer.cer(rw, hw)) > max_ed:
                                 edge_ok = False
@@ -339,8 +407,29 @@ class AudioGates:
                         if edge_ok and w_objs and len(ref_w[-1]) >= 4:
                             lw_dur = float(w_objs[-1].end) - float(w_objs[-1].start)
                             lw_prob = float(getattr(w_objs[-1], "probability", 1.0))
-                            if lw_dur < 0.09 or lw_prob < 0.18:
+                            if lw_dur < 0.09 or (lw_prob < 0.18 and not (lang == "en" and ref_w[-1] in en_proper_set and sim_val >= 0.88)):
                                 edge_ok = False
+                # If English CER > 0.10 solely because Whisper spelled foreign proper nouns phonetically
+                # while every non-proper word matched cleanly and WavLM >= 0.88, compute non-proper CER:
+                if lang == "en" and cer_val > 0.10 and en_proper_set and sim_val >= 0.88 and ref_w and hyp_w:
+                    wo = jiwer.process_words(" ".join(ref_w), " ".join(hyp_w))
+                    clean_ref, clean_hyp = [], []
+                    proper_all_spoken = True
+                    for ch in wo.alignments[0]:
+                        r_slice = ref_w[ch.ref_start_idx:ch.ref_end_idx]
+                        h_slice = hyp_w[ch.hyp_start_idx:ch.hyp_end_idx]
+                        if ch.type == "equal":
+                            clean_ref.extend(r_slice)
+                            clean_hyp.extend(h_slice)
+                        elif ch.type == "substitute" and all(w in en_proper_set for w in r_slice) and len(h_slice) >= 1:
+                            continue
+                        else:
+                            if any(w in en_proper_set for w in r_slice) and not h_slice:
+                                proper_all_spoken = False
+                            clean_ref.extend(r_slice)
+                            clean_hyp.extend(h_slice)
+                    if proper_all_spoken and clean_ref:
+                        cer_val = float(jiwer.cer(" ".join(clean_ref), " ".join(clean_hyp)))
             cer_ok = (cer_val <= (0.10 if lang == "en" else 0.18)) and edge_ok
 
             all_ok = sim_ok and len_ok and tran_ok and rep_ok and cer_ok
