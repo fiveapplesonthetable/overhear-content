@@ -108,7 +108,33 @@ def _strip_detached_edge_noise(x, sr):
                 rms = np.sqrt(np.mean(frames * frames, axis=1))
                 n = len(rms)
 
-    # 2. Also strip any tiny (<= 55 ms) higher-crest (< 25% pk) EOS click separated by >= 320 ms silence
+    # 2. Strip continuous low-energy (< 6.5% pk) pre-speech inhale/sigh shelves (>= 280 ms before speech onset,
+    #    keeping a 90 ms pre-onset runway for initial fricatives/stops) and post-speech exhale shelves (keeping 160 ms coda).
+    main_lead = np.where(rms >= pk * 0.12)[0]
+    if len(main_lead) and int(main_lead[0]) >= 28:
+        pre_end = int(main_lead[0]) - 9
+        if pre_end >= 18 and float(rms[:pre_end].max()) < pk * 0.065:
+            x = x[pre_end * hop:].copy()
+            fn = min(len(x), int(0.015 * sr))
+            if fn > 0:
+                x[:fn] *= (0.5 * (1.0 - np.cos(np.linspace(0.0, np.pi, fn)))).astype(x.dtype)
+            frames = x[:(len(x) // hop) * hop].reshape(len(x) // hop, hop)
+            rms = np.sqrt(np.mean(frames * frames, axis=1))
+            n = len(rms)
+
+    main_tail = np.where(rms >= pk * 0.10)[0]
+    if len(main_tail):
+        post_start = int(main_tail[-1]) + 16
+        if (n - post_start) >= 24 and float(rms[post_start:].max()) < pk * 0.055:
+            x = x[:min(len(x), post_start * hop)].copy()
+            fn = min(len(x), int(0.020 * sr))
+            if fn > 0:
+                x[-fn:] *= (0.5 * (1.0 + np.cos(np.linspace(0.0, np.pi, fn)))).astype(x.dtype)
+            frames = x[:(len(x) // hop) * hop].reshape(len(x) // hop, hop)
+            rms = np.sqrt(np.mean(frames * frames, axis=1))
+            n = len(rms)
+
+    # 3. Also strip any tiny (<= 55 ms) higher-crest (< 25% pk) EOS click separated by >= 320 ms silence
     active_thr = max(10 ** (-42.0 / 20.0), pk * 0.06)
     act = rms >= active_thr
     if not act.any():
