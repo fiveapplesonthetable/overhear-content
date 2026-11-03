@@ -99,22 +99,46 @@ def cmd_clip(args):
 
 
 def cmd_scene(args):
+    import re
     sdir = Path(args.scene_dir)
     spans = json.loads((sdir / "spans.json").read_text("utf-8"))
     timing = json.loads((sdir / "timing.json").read_text("utf-8"))
+    mp3_path = sdir / "audio.mp3"
+    wav, sr = (sf.read(str(mp3_path)) if mp3_path.exists() else (None, 24000))
+    if wav is not None and wav.ndim > 1:
+        wav = wav.mean(axis=1)
     issues = []
     for seg in spans["segs"]:
         sid = str(seg["seg"])
         toks = timing.get(sid, [])
         if toks:
-            tail = round(seg["end"] - toks[-1]["e"], 3)
-            last_dur = round(toks[-1]["e"] - toks[-1]["s"], 3)
+            tail = round(seg["end"] - (toks[-1]["e"] or seg["end"]), 3)
+            last_dur = round((toks[-1]["e"] or 0) - (toks[-1]["s"] or 0), 3)
+            clean_w = re.sub(r"[^\w]", "", toks[-1].get("t", ""))
             if tail > 0.65:
                 issues.append({"seg": seg["seg"], "v": seg["v"], "issue": "long_unaligned_tail", "tail_s": tail,
                                "text": seg["sentences"][-1]["text"][:80]})
-            if last_dur < 0.05 and len(toks[-1]["t"]) >= 3:
+            if (len(clean_w) >= 5 and seg.get("lang") == "en" and last_dur < 0.21) or (len(clean_w) >= 3 and last_dur < 0.05):
                 issues.append({"seg": seg["seg"], "v": seg["v"], "issue": "clipped_final_word", "last_word_s": last_dur,
                                "word": toks[-1]["t"], "text": seg["sentences"][-1]["text"][:80]})
+        if wav is not None:
+            win = int(0.02 * sr)
+            for sent in seg["sentences"]:
+                a, b = int(sent["start"] * sr), min(len(wav), int(sent["end"] * sr))
+                chunk = wav[a:b]
+                for i in range(0, len(chunk) - win, win):
+                    f = chunk[i:i + win]
+                    rms = float(np.sqrt(np.mean(f ** 2)))
+                    if rms > 0.24:
+                        zcr = float(np.mean(np.abs(np.diff(np.signbit(f)))))
+                        if zcr < 0.08:
+                            spec = np.abs(np.fft.rfft(f * np.hanning(len(f)))) + 1e-12
+                            flat = float(np.exp(np.mean(np.log(spec))) / np.mean(spec))
+                            if flat > 0.35:
+                                issues.append({"seg": seg["seg"], "v": seg["v"], "issue": "broadband_noise_burst",
+                                               "rms": round(rms, 3), "zcr": round(zcr, 3), "flatness": round(flat, 3),
+                                               "text": sent["text"][:80]})
+                                break
     print(json.dumps({"sceneId": spans["sceneId"], "durationSec": spans["durationSec"], "issues": issues}, indent=2, ensure_ascii=False))
 
 
