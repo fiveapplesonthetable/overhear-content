@@ -299,6 +299,21 @@ class Renderer:
             clip = audio.prepare_sentence(wav, sr, s["audio"])
             if st.lang in native_text.LANGUAGES:
                 ct, x16 = aligner.word_times(clip, sr, st.plain, st.lang, st.alignment_words)
+                if st.lang == "ar" and ct:
+                    valid_ends = [w["e"] for w in ct if isinstance(w, dict) and w.get("e") is not None]
+                    if valid_ends:
+                        last_e = max(valid_ends)
+                        # Chatterbox T3 AlignmentStreamAnalyzer can emit 0.4..2.3s of post-sentence breath/hum/hiss
+                        # before forcing EOS; crop cleanly at the quietest valley in [last_e + 45ms, last_e + 125ms].
+                        if len(clip) / sr > last_e + 0.16:
+                            env_a, hop_a = audio_env(x16)
+                            f0 = max(0, int((last_e + 0.045) / hop_a))
+                            f1 = min(len(env_a), max(f0 + 1, int((last_e + 0.125) / hop_a) + 1))
+                            cut_s = (f0 + int(np.argmin(env_a[f0:f1]))) * hop_a if f1 > f0 else (last_e + 0.085)
+                            cut_s = max(last_e + 0.025, cut_s)
+                            cut_n = min(len(clip), max(int(0.08 * sr), int(round(cut_s * sr))))
+                            clip = audio.fade(clip[:cut_n], sr, 15)
+                            x16 = x16[:min(len(x16), int(round(cut_s * 16000)))]
             else:
                 ct, x16 = aligner.char_times(clip, sr, st.plain, st.lang)
             return clip, ct, x16, self.check(st, ct)
