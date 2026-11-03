@@ -111,7 +111,8 @@ def engine_label(s, lang):
 def assembly_signature(s):
     return {"audio": s["audio"], "align": s["align"], "renderVersion": s["renderVersion"],
             "turnMaxChars": int(s["audio"].get("turnMaxChars", 240)),
-            "inlineCarrier": "v4-comma-name", "warmMaster": "v1"}
+            "inlineCarrier": "v4-comma-name", "warmMaster": "v1",
+            **({"arTailCrop": "v1"} if ar_engine(s) else {})}
 
 
 def sha(obj) -> str:
