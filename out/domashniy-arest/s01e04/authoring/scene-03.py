@@ -4,80 +4,50 @@ SHOW = 'domashniy-arest'
 SEASON = 1
 EPISODE = 4
 SCENE = 3
-TITLE = "Scene 3  (Сцена 3)"
-LEVEL = "A1 — beginner"
+TITLE = 'Завтрак на кухне  (Breakfast in the Kitchen)'
+LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {
-    "arkady": "Аркадий",
-    "danya": "Даня",
-    "investigator": "Следователь"
-}
-SOURCE_NAME = 'Домашний арест S1.04'
+LABELS = {'arkady': 'Аркадий', 'klavdia': 'Клавдия Викторовна', 'nina': 'Нина'}
+SOURCE_NAME = 'Домашний арест (Domashniy Arest) S1.04'
 SOURCE_FILE = 'sources/domashniy-arest/s01/e04.ru.dual.srt'
-INTRO = "At the investigator's office, Arkady runs into his former public defender, Danila Golovkin. First, listen to the whole conversation in Russian without worrying about catching every word."
-OPENER = "Now let's walk through the scene line by line, focusing on the details."
-TRANSITION = "Now let's hear the entire conversation once again from beginning to end."
-OUTRO = "That concludes scene 3. See you next time for more."
-CLOSING = ("arkady", "Пока!")
-
+INTRO = "Back in the communal flat, later that morning. Last time, the Moscow strategist Ilona tricked her pushy taxi driver into pulling over under Devil's Bridge. Now Arkady is back from the hospital with a bandage around his head, and in the shared kitchen he finds Nina and old Klavdia Viktorovna watching the famous Soviet singer Lev Leshchenko on television. Let's listen in Russian first."
+OPENER = "Let's walk through it step by step. Arkady walks into the kitchen holding his bandaged head and complains to the whole room."
+TRANSITION = "Now let's listen to the whole kitchen scene again from the beginning."
+OUTRO = "So Klavdia dreams of her own television and a cemetery plot beside her husband Grisha, while Samson has suddenly become an internet star with millions of views. Next we'll follow Samson and Nina to the job centre and a luxury car showroom; see you then. See you next time!"
+CLOSING = ('arkady', 'Пока!')
 STORY = [
-    ("arkady", "Ты что здесь делаешь, дефективный?", "What are you doing here, you freak?", [(144, "Ты что здесь делаешь, дефективный?")], ""),
-    ("danya", "Я ваша...", "I'm your...", [(145, "Я ваша...")], ""),
-    ("arkady", "После вчерашнего?", "After yesterday?", [(146, "После вчерашнего?")], ""),
-    ("arkady", "Как ты бессовестный лексический инвалид.", "You shameless verbal cripple.", [(147, "Как ты бессовестный лексический инвалид.")], ""),
-    ("danya", "Был неправ.", "I was wrong.", [(148, "Был неправ.")], ""),
-    ("danya", "Простите.", "I'm sorry.", [(149, "Простите.")], ""),
-    ("danya", "Я хочу закончить.", "I want to finish.", [(150, "Я хочу закончить.")], ""),
-    ("danya", "Начатое.", "What I started.", [(151, "Начатое.")], ""),
-    ("arkady", "Чтоб мне еще десятку припаяли.", "So they can tack another ten years onto me.", [(152, "Чтоб мне еще десятку припаяли.")], ""),
-    ("arkady", "Свали отсюда, скотина.", "Get out of here, you scum.", [(153, "Свали отсюда, скотина.")], ""),
-    ("danya", "Я не могу.", "I can't.", [(154, "Я не могу.")], ""),
-    ("arkady", "А что такое?", "What's the matter?", [(155, "А что такое?")], ""),
-    ("arkady", "Вон, пошел отсюда.", "Get out of here.", [(156, "Вон, пошел отсюда.")], ""),
-    ("danya", "Хорошо.", "All right.", [(157, "Хорошо.")], ""),
-    ("danya", "Хорошо. Люблю женщину, живущую в вашей квартире.", "All right. I'm in love with the woman who lives in your apartment.", [(158, "Люблю женщину, живущую в вашей квартире.")], ""),
-    ("arkady", "Клавдию Викторовну, что ли? Марину? Юлю? Ты педофил?", "Klavdiya Viktorovna? Marina? Yulya? Are you a pervert?", [(159, "Клавдию Викторовну, что ли?")], ""),
-    ("danya", "Нет. Ты развратник. Она же замужем. Я влюблен в нее с первого класса.", "No. You're the pervert. She's married. I've been in love with her since first grade.", [(160, "Я влюблен в нее с первого класса.")], ""),
-    ("danya", "Прошу оставить это в тайне.", "I'm asking you to keep this between us.", [(161, "Прошу оставить это в тайне.")], ""),
-    ("arkady", "В тайне? Я тебе, сука, не просил кое-что в тайне оставить.", "Keep it between us? I didn't ask you to keep something between us, you prick.", [(162, "Я тебе, сука, не просил кое-что в тайне оставить.")], ""),
-    ("arkady", "Короче, я сегодня же расскажу все Самсону, что ты катишь яйца к его жене.", "In short, today I'm telling Samson everything — that you're sniffing around his wife.", [(163, "Короче, я сегодня же расскажу все Самсону")], ""),
-    ("arkady", "Он тебя найдет, и посмотри на меня, что он с тобой сделает.", "He'll find you, and look at me — see what he'll do to you.", [(164, "Он тебя найдет, и посмотри на меня")], ""),
-    ("danya", "Я пошел отсюда.", "I'm leaving.", [(165, "Я пошел отсюда.")], ""),
-    ("arkady", "Пошел вон отсюда.", "Get the hell out of here.", [(166, "Пошел вон отсюда.")], ""),
-    ("danya", "Пожалуйста.", "Please.", [(167, "Пожалуйста.")], ""),
-    ("arkady", "Гаденыш, пошел вон.", "You little rat, get out.", [(168, "Гаденыш, пошел вон.")], ""),
-    ("danya", "А почему, собственно?", "And why exactly?", [(171, "А почему, собственно?")], ""),
-    ("investigator", "Доброе утро, Аркадий Борисович.", "Good morning, Arkady Borisovich.", [(173, "Доброе утро, Аркадий Борисович.")], ""),
-    ("investigator", "Проходи, присядь, перекуси.", "Come in, have a seat, grab a bite.", [(174, "Проходи, присядь, перекуси.")], "")
+    ('arkady', 'Почему меня все бьют в этом доме?', 'Why does everyone beat me in this house?', [(72, 'Почему меня все бьют в этом доме')], ''),
+    ('nina', 'А это кто поёт?', 'And who is that singing?', [(74, 'А это кто')], "'поёт' added"),
+    ('klavdia', 'Вот молодёжь, ничего не знают! Это же Лещенко! Звезда!', "Young people these days, they don't know anything! That's Leshchenko! A star!", [(75, 'Вот молодежь'), (76, 'Ничего'), (76, 'не знают'), (77, 'Это же Лещенко'), (78, 'Звезда')], "'кроме своего Баскова' dropped"),
+    ('klavdia', 'Он за мной после концерта ухаживал. В Москву звал замуж!', 'He courted me after a concert once. He asked me to marry him and come to Moscow!', [(79, 'после концерта'), (81, 'В Москву звал замуж')], "slang 'кадрил' -> 'ухаживал'"),
+    ('arkady', 'А в Париж вас никто замуж не звал?', 'And nobody asked you to marry him and move to Paris?', [(82, 'А в'), (82, 'вас'), (82, 'звал замуж')], "'в Париже вас, Ален Делоне' simplified to 'в Париж вас никто'"),
+    ('klavdia', 'Я вышла за своего Гришу. Теперь меня с ним похоронить не хотят!', "And instead I married my Grisha. Now they won't even bury me next to him!", [(83, 'за своего'), (84, 'теперь меня'), (84, 'с ним'), (84, 'похоронить не хотят')], "'выскочила за своего Гришко-алкаша' -> 'вышла за своего Гришу'"),
+    ('nina', 'Да потому что там всё за взятки.', "That's because everything there takes a bribe.", [(85, 'Да потому что там'), (85, 'за взятки')], ''),
+    ('arkady', 'Да какие там взятки? Сто пятьдесят тысяч рублей.', 'What sort of bribes could there be? A hundred and fifty thousand roubles.', [(86, 'Да какие там взятки'), (86, 'тысяч рублей')], "'150' written out as words; 'максимум' dropped"),
+    ('klavdia', 'А тебе этого мало? У меня пенсия двенадцать тысяч!', 'And is that a small sum to you? My pension is twelve thousand!', [(87, 'А тебе этого мало? У меня пенсия'), (87, 'тысяч')], "'12' written out as words"),
+    ('klavdia', 'Ты икру мою съел! И коньяк выпил у бедной старухи!', "You ate up my caviar! And you drank a poor old woman's cognac!", [(90, 'Икру мою'), (91, 'Коньяк выпил у'), (91, 'старухи')], "curses in 88-89 dropped; 'сожрал' -> 'съел'; 'нищей' -> 'бедной'"),
+    ('arkady', 'Я же вам сказал, что всё верну! Какая вы жадная женщина.', "I told you I'll pay it all back! What a greedy woman you are.", [(92, 'Я же вам сказал'), (92, 'верну'), (93, 'Какая вы жадная женщина')], ''),
+    ('arkady', 'В гроб с собой икру не положишь!', "You can't put caviar in your coffin to take with you!", [(94, 'В гроб с собой икру не положишь')], ''),
+    ('klavdia', 'Да лучше в гроб, чем тебе! Плохой ты человек, Аркадий.', "Better into my coffin than to you! You're a bad man, Arkady.", [(95, 'Да лучше в гроб, чем тебе'), (88, 'Аркадий'), (101, 'человек')], "cue 101 'Говно человек' cleaned up to 'Плохой ты человек'"),
+    ('nina', 'Клавдия Викторовна, здесь же ребёнок, мы завтракаем. А телевизор, между прочим, наш!', "Klavdia Viktorovna, there's a child here, we're having breakfast. And the television, by the way, is ours!", [(102, 'Клавдия Викторовна'), (103, 'здесь же ребенок'), (103, 'завтракаем'), (107, 'Телевизор, между прочим, наш')], 'cues 104-105 omitted'),
+    ('nina', 'Ой, смотрите, Самсона по телевизору показывают! Уже несколько миллионов просмотров!', "Oh, look, they're showing Samson on television! Several million views already!", [(111, 'уже несколько миллионов просмотров')], "folds the TV news report in cues 108-111 into Nina's reaction"),
 ]
-
 WALK = [
-    (0, 'Ты что здесь делаешь, дефективный?', "'What are you doing here, you freak?' Arkady suddenly runs into his former lawyer and angrily calls him a defective freak. This Russian word means exactly that."),
-    (1, 'Я ваша...', "'I\\'m your...' Danila stutters as he attempts to say the word for his profession. This Russian word means lawyer."),
-    (2, 'После вчерашнего?', "'After yesterday?' Arkady immediately cuts him off, as he is still very furious about the trial that happened yesterday. This Russian word means yesterday."),
-    (3, 'Как ты бессовестный лексический инвалид.', "'You shameless verbal cripple.' He continues to insult Danila, literally calling him a lexical cripple. This Russian word means cripple."),
-    (4, 'Был неправ.', "'I was wrong.' Danila quickly admits he was wrong, using a short adjective form to express his mistake. This Russian word means wrong."),
-    (5, 'Простите.', "'I\\'m sorry.' He then apologizes using the formal apology command to show respect. This Russian word means sorry."),
-    (6, 'Я хочу закончить.', "'I want to finish.' He nervously says he wants to finish the job, using a perfective action word meaning to finish. This Russian word means finish."),
-    (7, 'Начатое.', "'What I started.' He clarifies that he means what he started, using a passive participle acting as a noun in the sentence. This Russian word means started."),
-    (8, 'Чтоб мне еще десятку припаяли.', "'So they can tack another ten years onto me.' Arkady sarcastically replies that he does not want another ten years of prison tacked onto his sentence. This Russian word means ten."),
-    (9, 'Свали отсюда, скотина.', "'Get out of here, you scum.' He angrily tells Danila to get lost, using a highly informal street slang command for scramming. This Russian word means scram."),
-    (10, 'Я не могу.', "'I can\\'t.' Danila simply says he is unable to do that. This Russian word means unable."),
-    (11, 'А что такое?', "'What\\'s the matter?' Arkady asks what the matter is with him. This Russian word means what."),
-    (12, 'Вон, пошел отсюда.', "'Get out of here.' He forcefully points and tells him again to leave, using an adverb for out. This Russian word means leave."),
-    (13, 'Хорошо.', "'All right.' Danila hesitates for a moment, and then says all right or good to him. This Russian word means good."),
-    (14, 'Люблю женщину, живущую в вашей квартире.', "'All right. I\\'m in love with the woman who lives in your apartment.' He finally confesses he is in love with the woman living in Arkady\\'s apartment. This Russian word means living."),
-    (15, 'Клавдию Викторовну, что ли?', "'Klavdiya Viktorovna? Marina? Yulya? Are you a pervert?' Arkady lists off all the women there and bluntly asks if he is a pervert. This Russian word means pervert."),
-    (16, 'Она же замужем.', "'No. You\\'re the pervert. She\\'s married. I\\'ve been in love with her since first grade.' Danila strongly denies it, reminding Arkady she is married. This Russian word means married."),
-    (17, 'Прошу оставить это в тайне.', "'I\\'m asking you to keep this between us.' He desperately begs Arkady to keep it a secret, using a prepositional phrase for secrecy. This Russian word means secret."),
-    (18, 'В тайне?', "'Keep it between us? I didn\\'t ask you to keep something between us, you prick.' Arkady angrily scoffs, pointing out that Danila did not keep his own secret. This Russian word means secret."),
-    (19, 'Короче, я сегодня же расскажу все Самсону, что ты катишь яйца к его жене.', "'In short, today I\\'m telling Samson everything — that you\\'re sniffing around his wife.' He threatens to tell Samson that Danila is hitting on his wife. This Russian word means wife."),
-    (20, 'Он тебя найдет, и посмотри на меня, что он с тобой сделает.', "'He\\'ll find you, and look at me — see what he\\'ll do to you.' He violently gestures to his own bruises, warning Danila what Samson will do to him. This Russian word means look."),
-    (21, 'Я пошел отсюда.', "'I\\'m leaving.' Terrified by the threat, Danila quickly decides to leave, using a past tense verb that translates as leaving. This Russian word means leave."),
-    (22, 'Пошел вон отсюда.', "'Get the hell out of here.' Arkady loudly tells him to get the hell out. This Russian word means out."),
-    (23, 'Пожалуйста.', "'Please.' Danila weakly and politely says please. This Russian word means please."),
-    (24, 'Гаденыш, пошел вон.', "'You little rat, get out.' Arkady calls him a nasty little rat as he leaves. This Russian word means rat."),
-    (25, 'А почему, собственно?', "'And why exactly?' After being stopped by a police officer, Danila asks why exactly, using an adverb for properly or strictly speaking. This Russian word means exactly."),
-    (26, 'Доброе утро, Аркадий Борисович.', "'Good morning, Arkady Borisovich.' Inside the office, the investigator greets Arkady very warmly with a good morning. This Russian word means morning."),
-    (27, 'Проходи, присядь, перекуси.', "'Come in, have a seat, grab a bite.' He kindly offers him a seat and tells him to grab a bite to eat. This Russian word means bite.")
+    (0, None, "'Why does everyone beat me in this house?' Literally 'why do all beat me in this house?'. Nobody feels sorry for him. Instead, Nina looks at the little television on the counter."),
+    (1, None, "'And who is that singing?' Old Klavdia Viktorovna is shocked that Nina doesn't recognise her idol, the famous Soviet singer Lev Leshchenko."),
+    (2, None, "'Young people these days, they don't know anything! That's Leshchenko! A star!' And then Klavdia shares a proud memory from her youth."),
+    (3, None, "'He courted me after a concert once. He asked me to marry him and come to Moscow!' In Russian, a woman says 'he called me into marriage', using a special adverb that applies only to women marrying a man. Arkady can't resist teasing her."),
+    (4, None, "'And nobody asked you to marry him and move to Paris?' In this moment, Klavdia ignores him and sighs over the choice she made instead."),
+    (5, 'Я вышла за своего Гришу.', "'I married my Grisha.' Literally 'I went out behind my Grisha', the standard phrase for a woman marrying a man."),
+    (5, 'Теперь меня с ним похоронить не хотят!', "'Now they won't even bury me with him!' Keep that wish in mind—being buried beside her late husband Grisha is going to matter later in this episode. Nina knows why the cemetery refuses."),
+    (6, None, "'That's because everything there takes a bribe.' In this moment, Arkady scoffs, as an expert on bribes."),
+    (7, None, "'What sort of bribes could there be? A hundred and fifty thousand roubles.' That is how much the cemetery director wants for a plot next to Grisha. Klavdia is furious."),
+    (8, None, "'And is that a small sum to you? My pension is twelve thousand!' Literally 'and to you of this is little?'. Then she reminds Arkady what he did in episode two, when he broke into her padlocked fridge."),
+    (9, None, "'You ate up my caviar! And you drank a poor old woman's cognac!' Both verbs are single-action verbs past forms: he ate it all up and drank it all down."),
+    (10, None, "'I told you I'll pay it all back! What a greedy woman you are.' And he adds a dark joke."),
+    (11, None, "'You can't put caviar in your coffin to take with you!' Literally 'into the coffin with yourself you won't put caviar'."),
+    (12, None, "'Better into my coffin than to you! You're a bad man, Arkady.' Just then Samson comes in for breakfast, and Nina tries to calm the old lady down—and switches the channel."),
+    (13, 'Клавдия Викторовна, здесь же ребёнок, мы завтракаем.', "'Klavdia Viktorovna, there's a child here, we're having breakfast.' Nina reminds Klavdia Viktorovna that there is a child right there at the breakfast table."),
+    (13, 'А телевизор, между прочим, наш!', "'And the television, by the way, is ours!' Remember that Klavdia wants a television of her very own. And the moment Nina changes the channel, a breaking news report comes on."),
+    (14, None, "'Oh, look, they're showing Samson on television! Several million views already!' It's the video from episode one, where Samson threw the corrupt mayor out the window and said ordinary people can't live decent lives because of crooks like him—and the whole country is watching it."),
 ]

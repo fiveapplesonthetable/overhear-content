@@ -2,51 +2,96 @@
   "schemaVersion": 1,
   "id": "domashniy-arest-s01e04-scene-01",
   "pair": "ru-en",
-  "title": "The Stakeout  (Засада)",
-  "level": "A1 — beginner",
+  "show": "domashniy-arest",
+  "season": 1,
+  "episode": 4,
+  "scene": 1,
+  "title": "Страшный сон Аркадия  (Arkady's Nightmare)",
+  "level": "A1 — Duolingo Section 2",
   "labels": {
-    "officer": "Офицер",
-    "colleague": "Коллега"
+    "arkady": "Аркадий",
+    "lavrov": "Лавров",
+    "zavarzin": "Заварзин"
   },
   "segments": [
     {
       "v": "narrator",
-      "t": "In this scene, two officers are on a stakeout. First, listen to the whole conversation in Russian without worrying about catching every word.",
+      "t": "Welcome back to House Arrest. We open as a mysterious Moscow visitor takes a taxi into town while Arkady lies in hospital having a feverish nightmare, and the two security agents, Major Lavrov and Captain Zavarzin, listen in on him. Let's listen in Russian first.",
       "gap": 0.8
     },
     {
-      "v": "officer",
-      "t": "Ну что, где?",
+      "v": "arkady",
+      "t": "Самсон, не надо! Мне очень больно!",
       "gap": 0.55
     },
     {
-      "v": "colleague",
-      "t": "Тут рядом, за углом, чебуречная.",
+      "v": "arkady",
+      "t": "Я не скажу, где деньги! Нет!",
       "gap": 0.55
     },
     {
-      "v": "officer",
-      "t": "Совсем кошмар?",
+      "v": "arkady",
+      "t": "Постой, Нина! Убери паяльник! Ой, как горячо!",
       "gap": 0.55
     },
     {
-      "v": "colleague",
-      "t": "Да нет. Если с ногами залезть, то ничего, нормально.",
+      "v": "arkady",
+      "t": "Нету у меня денег! Нету денег!",
       "gap": 0.55
     },
     {
-      "v": "officer",
-      "t": "Я слышал, у америкосов прямо в тачках биотуалеты.",
+      "v": "lavrov",
+      "t": "Ну что, где тут туалет?",
       "gap": 0.55
     },
     {
-      "v": "colleague",
-      "t": "Что, прямо тут? Это же отвратно.",
+      "v": "zavarzin",
+      "t": "Тут рядом, за углом, чебуречная. Там нормально.",
       "gap": 0.55
     },
     {
-      "v": "officer",
-      "t": "Да, лучше в позе орла, в чебуречной.",
+      "v": "zavarzin",
+      "t": "А что у нас там?",
+      "gap": 0.55
+    },
+    {
+      "v": "lavrov",
+      "t": "Без изменений. Слушай.",
+      "gap": 0.55
+    },
+    {
+      "v": "arkady",
+      "t": "Не надо паяльник! Не надо паяльник!",
+      "gap": 0.55
+    },
+    {
+      "v": "lavrov",
+      "t": "И так всю ночь! Ему снятся страшные сны.",
+      "gap": 0.55
+    },
+    {
+      "v": "zavarzin",
+      "t": "А где деньги, он не сказал?",
+      "gap": 0.55
+    },
+    {
+      "v": "lavrov",
+      "t": "Говорит, не скажу, и всё! Ничего не сказал.",
+      "gap": 0.55
+    },
+    {
+      "v": "lavrov",
+      "t": "Вот партизан! Ну ничего, скоро всё скажет.",
+      "gap": 0.55
+    },
+    {
+      "v": "lavrov",
+      "t": "А ты куда опять пошёл? Сядь, ждём пятнадцать минут.",
+      "gap": 0.55
+    },
+    {
+      "v": "arkady",
+      "t": "Ой, голова болит! Ухо моё, ухо!",
       "gap": 0.9
     },
     {
@@ -55,73 +100,163 @@
       "gap": 0.5
     },
     {
-      "v": "officer",
-      "t": "Ну что, где?",
+      "v": "arkady",
+      "t": "Самсон, не надо! Мне очень больно!",
       "gap": 0.55
     },
     {
       "v": "narrator",
-      "t": "'The officer asks where the toilet is.'",
+      "t": "'Samson, don't! It hurts me so much!'",
       "gap": 0.45
     },
     {
-      "v": "colleague",
-      "t": "Тут рядом, за углом, чебуречная.",
+      "v": "arkady",
+      "t": "Я не скажу, где деньги! Нет!",
       "gap": 0.55
     },
     {
       "v": "narrator",
-      "t": "'His colleague tells him there's a cheburek place around the corner.'",
+      "t": "'I won't tell you where the money is! No!'",
       "gap": 0.45
     },
     {
-      "v": "officer",
-      "t": "Совсем кошмар?",
+      "v": "arkady",
+      "t": "Постой, Нина! Убери паяльник!",
       "gap": 0.55
     },
     {
       "v": "narrator",
-      "t": "'The officer asks if it's awful.'",
+      "t": "'Wait, Nina! Put the soldering iron away!'",
       "gap": 0.45
     },
     {
-      "v": "colleague",
-      "t": "Да нет. Если с ногами залезть, то ничего, нормально.",
+      "v": "arkady",
+      "t": "Ой, как горячо!",
       "gap": 0.55
     },
     {
       "v": "narrator",
-      "t": "'The colleague reassures him it's okay if you put your feet up.'",
+      "t": "'Ow, how hot!'",
       "gap": 0.45
     },
     {
-      "v": "officer",
-      "t": "Я слышал, у америкосов прямо в тачках биотуалеты.",
+      "v": "arkady",
+      "t": "Нету у меня денег! Нету денег!",
       "gap": 0.55
     },
     {
       "v": "narrator",
-      "t": "'The officer mentions that American stakeout vans have toilets inside.'",
+      "t": "'I haven't got any money! No money!'",
       "gap": 0.45
     },
     {
-      "v": "colleague",
-      "t": "Что, прямо тут? Это же отвратно.",
+      "v": "lavrov",
+      "t": "Ну что, где тут туалет?",
       "gap": 0.55
     },
     {
       "v": "narrator",
-      "t": "'The colleague thinks that's disgusting.'",
+      "t": "'So, where is the toilet around here?'",
       "gap": 0.45
     },
     {
-      "v": "officer",
-      "t": "Да, лучше в позе орла, в чебуречной.",
+      "v": "zavarzin",
+      "t": "Тут рядом, за углом, чебуречная. Там нормально.",
       "gap": 0.55
     },
     {
       "v": "narrator",
-      "t": "'The officer agrees it's better to use the cheburek place.'",
+      "t": "'Right nearby, round the corner, there's a cheburek café. It's fine there.'",
+      "gap": 0.45
+    },
+    {
+      "v": "zavarzin",
+      "t": "А что у нас там?",
+      "gap": 0.55
+    },
+    {
+      "v": "narrator",
+      "t": "'And what's going on over there?'",
+      "gap": 0.45
+    },
+    {
+      "v": "lavrov",
+      "t": "Без изменений. Слушай.",
+      "gap": 0.55
+    },
+    {
+      "v": "narrator",
+      "t": "'No change. Listen.'",
+      "gap": 0.45
+    },
+    {
+      "v": "arkady",
+      "t": "Не надо паяльник! Не надо паяльник!",
+      "gap": 0.55
+    },
+    {
+      "v": "narrator",
+      "t": "'Not the soldering iron! Not the soldering iron!'",
+      "gap": 0.45
+    },
+    {
+      "v": "lavrov",
+      "t": "И так всю ночь! Ему снятся страшные сны.",
+      "gap": 0.55
+    },
+    {
+      "v": "narrator",
+      "t": "'It's been like that all night! He's having terrible dreams.'",
+      "gap": 0.45
+    },
+    {
+      "v": "zavarzin",
+      "t": "А где деньги, он не сказал?",
+      "gap": 0.55
+    },
+    {
+      "v": "narrator",
+      "t": "'And didn't he say where the money is?'",
+      "gap": 0.45
+    },
+    {
+      "v": "lavrov",
+      "t": "Говорит, не скажу, и всё! Ничего не сказал.",
+      "gap": 0.55
+    },
+    {
+      "v": "narrator",
+      "t": "'He says I won't tell, and that's it! He hasn't said a thing.'",
+      "gap": 0.45
+    },
+    {
+      "v": "lavrov",
+      "t": "Вот партизан! Ну ничего, скоро всё скажет.",
+      "gap": 0.55
+    },
+    {
+      "v": "narrator",
+      "t": "'What a partisan! Never mind, soon he'll tell us everything.'",
+      "gap": 0.45
+    },
+    {
+      "v": "lavrov",
+      "t": "А ты куда опять пошёл? Сядь, ждём пятнадцать минут.",
+      "gap": 0.55
+    },
+    {
+      "v": "narrator",
+      "t": "'And where are you off to again? Sit down, we wait fifteen minutes.'",
+      "gap": 0.45
+    },
+    {
+      "v": "arkady",
+      "t": "Ой, голова болит! Ухо моё, ухо!",
+      "gap": 0.55
+    },
+    {
+      "v": "narrator",
+      "t": "'Ow, my head hurts! My ear, my ear!'",
       "gap": 0.65
     },
     {
@@ -130,94 +265,215 @@
       "gap": 0.75
     },
     {
-      "v": "officer",
-      "t": "Ну что, где?",
+      "v": "arkady",
+      "t": "Самсон, не надо! Мне очень больно!",
       "gap": 0.5
     },
     {
-      "v": "colleague",
-      "t": "Тут рядом, за углом, чебуречная.",
+      "v": "arkady",
+      "t": "Я не скажу, где деньги! Нет!",
       "gap": 0.5
     },
     {
-      "v": "officer",
-      "t": "Совсем кошмар?",
+      "v": "arkady",
+      "t": "Постой, Нина! Убери паяльник! Ой, как горячо!",
       "gap": 0.5
     },
     {
-      "v": "colleague",
-      "t": "Да нет. Если с ногами залезть, то ничего, нормально.",
+      "v": "arkady",
+      "t": "Нету у меня денег! Нету денег!",
       "gap": 0.5
     },
     {
-      "v": "officer",
-      "t": "Я слышал, у америкосов прямо в тачках биотуалеты.",
+      "v": "lavrov",
+      "t": "Ну что, где тут туалет?",
       "gap": 0.5
     },
     {
-      "v": "colleague",
-      "t": "Что, прямо тут? Это же отвратно.",
+      "v": "zavarzin",
+      "t": "Тут рядом, за углом, чебуречная. Там нормально.",
       "gap": 0.5
     },
     {
-      "v": "officer",
-      "t": "Да, лучше в позе орла, в чебуречной.",
+      "v": "zavarzin",
+      "t": "А что у нас там?",
+      "gap": 0.5
+    },
+    {
+      "v": "lavrov",
+      "t": "Без изменений. Слушай.",
+      "gap": 0.5
+    },
+    {
+      "v": "arkady",
+      "t": "Не надо паяльник! Не надо паяльник!",
+      "gap": 0.5
+    },
+    {
+      "v": "lavrov",
+      "t": "И так всю ночь! Ему снятся страшные сны.",
+      "gap": 0.5
+    },
+    {
+      "v": "zavarzin",
+      "t": "А где деньги, он не сказал?",
+      "gap": 0.5
+    },
+    {
+      "v": "lavrov",
+      "t": "Говорит, не скажу, и всё! Ничего не сказал.",
+      "gap": 0.5
+    },
+    {
+      "v": "lavrov",
+      "t": "Вот партизан! Ну ничего, скоро всё скажет.",
+      "gap": 0.5
+    },
+    {
+      "v": "lavrov",
+      "t": "А ты куда опять пошёл? Сядь, ждём пятнадцать минут.",
+      "gap": 0.5
+    },
+    {
+      "v": "arkady",
+      "t": "Ой, голова болит! Ухо моё, ухо!",
       "gap": 0.9
     },
     {
       "v": "narrator",
-      "t": "That was scene 1. See you next time.",
+      "t": "So Arkady didn't give away his money even in a nightmare, and now he is awake with a bandaged head. See you next time!",
       "gap": 0.5
     },
     {
-      "v": "officer",
+      "v": "arkady",
       "t": "Пока!",
       "gap": 0.3
     }
   ],
   "source": {
-    "show": "Домашний арест S1.04",
+    "show": "Домашний арест (Domashniy Arest) S1.04",
     "file": "sources/domashniy-arest/s01/e04.ru.dual.srt",
     "lines": [
       {
         "line": 0,
+        "cue": 1,
+        "fragment": "не надо"
+      },
+      {
+        "line": 0,
+        "cue": 2,
+        "fragment": "Не надо, мне очень больно"
+      },
+      {
+        "line": 1,
+        "cue": 3,
+        "fragment": "Я не скажу, где деньги. Нет"
+      },
+      {
+        "line": 2,
+        "cue": 4,
+        "fragment": "Постой"
+      },
+      {
+        "line": 2,
+        "cue": 4,
+        "fragment": "Убери паяльник"
+      },
+      {
+        "line": 2,
+        "cue": 5,
+        "fragment": "Ой, как горячо"
+      },
+      {
+        "line": 3,
+        "cue": 6,
+        "fragment": "Нету. Нету денег"
+      },
+      {
+        "line": 4,
         "cue": 11,
         "fragment": "Ну что, где"
       },
       {
-        "line": 1,
+        "line": 5,
         "cue": 12,
         "fragment": "Тут рядом, за углом"
       },
       {
-        "line": 2,
-        "cue": 13,
-        "fragment": "Совсем кошмар"
-      },
-      {
-        "line": 3,
-        "cue": 14,
-        "fragment": "Да нет. Если с ногами залезть, то ничего, нормально."
-      },
-      {
-        "line": 4,
-        "cue": 15,
-        "fragment": "Я слышал, у америкосов прямо в тачках"
-      },
-      {
         "line": 5,
-        "cue": 16,
-        "fragment": "Что, прямо тут? Это же отвратно."
+        "cue": 14,
+        "fragment": "нормально"
       },
       {
         "line": 6,
-        "cue": 17,
-        "fragment": "Да, лучше в позе орла, в чебуречной."
+        "cue": 18,
+        "fragment": "Что у нас там"
+      },
+      {
+        "line": 7,
+        "cue": 19,
+        "fragment": "Без изменений"
+      },
+      {
+        "line": 7,
+        "cue": 21,
+        "fragment": "Слушайте"
+      },
+      {
+        "line": 8,
+        "cue": 22,
+        "fragment": "Не надо паяльник. Не надо паяльник"
+      },
+      {
+        "line": 9,
+        "cue": 23,
+        "fragment": "И так всю ночь"
+      },
+      {
+        "line": 10,
+        "cue": 24,
+        "fragment": "А где деньги"
+      },
+      {
+        "line": 10,
+        "cue": 24,
+        "fragment": "не сказал"
+      },
+      {
+        "line": 11,
+        "cue": 25,
+        "fragment": "Говорит, не скажу и все"
+      },
+      {
+        "line": 11,
+        "cue": 25,
+        "fragment": "ничего не сказал"
+      },
+      {
+        "line": 12,
+        "cue": 26,
+        "fragment": "Вот партизан. Ну ничего"
+      },
+      {
+        "line": 13,
+        "cue": 27,
+        "fragment": "А ты куда"
+      },
+      {
+        "line": 13,
+        "cue": 31,
+        "fragment": "Ждем"
+      },
+      {
+        "line": 13,
+        "cue": 31,
+        "fragment": "минут"
+      },
+      {
+        "line": 14,
+        "cue": 32,
+        "fragment": "Ухо мое, ухо"
       }
     ]
-  },
-  "show": "domashniy-arest",
-  "season": 1,
-  "episode": 4,
-  "scene": 1
+  }
 }
