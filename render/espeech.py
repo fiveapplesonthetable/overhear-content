@@ -94,6 +94,18 @@ class EspeechEngine:
                 a = a * 0.1 / rms
             if sr != NATIVE_SR:
                 a = torchaudio.transforms.Resample(sr, NATIVE_SR)(a)
+            # Guarantee >= 180 ms of pure digital silence at the end of `a` so slicing at `n_ref - 10`
+            # captures early voiceless clusters (Ст-, Чт-, Кт-) without any reference speech bleed.
+            win = int(0.010 * NATIVE_SR)
+            a_np = a[0].numpy()
+            n_win = len(a_np) // win
+            if n_win > 0:
+                f_rms = np.sqrt(np.mean(a_np[:n_win * win].reshape(n_win, win) ** 2, axis=1))
+                act = np.where(f_rms > 0.006)[0]
+                trail_ms = (n_win - 1 - int(act[-1])) * 10 if len(act) else 200
+                if trail_ms < 180:
+                    pad_n = int((0.190 - trail_ms / 1000.0) * NATIVE_SR)
+                    a = torch.cat([a, torch.zeros((1, pad_n), dtype=a.dtype)], dim=-1)
             rt = self._accent(self.voices.refs[voice]["text"]).rstrip() + " "
             self.refs[voice] = (a.cuda(), rt, float(rms))
         return self.refs[voice]
@@ -119,18 +131,21 @@ class EspeechEngine:
                 g_clean = g_clean + "."
             sp = max(0.86, speed) if len(g_clean) <= 16 else speed
             raw_frames = int(n_ref / len(rt.encode("utf-8")) * len(g_clean.encode("utf-8")) / sp)
-            gen_frames = max(min_gen_frames, raw_frames + 24) if is_short else raw_frames
+            # Always add +12% prosodic-pause headroom + 32 frames (~340 ms) so final stops/fricatives
+            # (коньяк, нож, соус, матч) complete their closure + release burst well before durs[i].
+            gen_frames = min(max(256, 2060 - n_ref), max(min_gen_frames, int(raw_frames * 1.12) + 32))
             durs.append(n_ref + gen_frames)
-            tl.append(rt + (" " if is_short else "") + g_clean + ("  " if is_short else " "))
+            tl.append(rt + " " + g_clean + "  ")
         txt = convert_char_to_pinyin(tl)
         B = len(texts)
+        slice_start = max(0, n_ref - 10)
         with torch.inference_mode():
             gen, _ = self.m.sample(cond=a.repeat(B, 1), text=txt, duration=torch.tensor(durs, device=a.device), steps=self.c["nfe"],
                                    cfg_strength=self.c["cfg"], sway_sampling_coef=self.c["sway"])
             del _
             outs = []
             for i in range(B):
-                mel = gen[i:i + 1, n_ref:durs[i], :].to(torch.float32).permute(0, 2, 1)
+                mel = gen[i:i + 1, slice_start:durs[i], :].to(torch.float32).permute(0, 2, 1)
                 w = self.voc.decode(mel)
                 if rms < 0.1:
                     w = w * rms / 0.1
@@ -141,8 +156,8 @@ class EspeechEngine:
         from f5_tts.infer.utils_infer import infer_process
         a, rt, _ = self._ref(voice)
         p = self.voices.ref_path(voice)
-        w, sr, _ = infer_process(str(p), rt, text, self.m, self.voc, nfe_step=self.c["nfe"], cfg_strength=self.c["cfg"],
-                                 sway_sampling_coef=self.c["sway"], speed=speed, show_info=lambda *x: None, progress=None)
+        w, sr, _ = infer_process(str(p), rt, " " + text + "   ", self.m, self.voc, nfe_step=self.c["nfe"], cfg_strength=self.c["cfg"],
+                                 sway_sampling_coef=self.c["sway"], speed=speed * 0.94, show_info=lambda *x: None, progress=None)
         return np.asarray(w, dtype=np.float32)
 
     def generate(self, batch, seed, temperature=None, speed=None):

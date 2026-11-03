@@ -79,6 +79,12 @@ class AudioGates:
         if speech_dur > expected * len_mult:
             return False, "length"
 
+        if lang == "ru" and has_alnum and len(wav) >= int(sr * 0.25):
+            head_rms = float(np.sqrt(np.mean(wav[:int(0.020 * sr)] ** 2)))
+            tail_sil_s = (len(rms) - 1 - int(non_sil[-1])) * hop_len / sr
+            if head_rms > 0.009 or tail_sil_s < 0.045:
+                return False, "length"
+
         is_silence_speech = is_silence[non_sil[0]:non_sil[-1]+1]
 
         max_sil_frames = 0
@@ -315,11 +321,18 @@ class AudioGates:
                     if not hyp_w:
                         edge_ok = False
                     else:
-                        for rw, hw in ((ref_w[0], hyp_w[0]), (ref_w[-1], hyp_w[-1])):
+                        for is_last, (rw, hw) in enumerate(((ref_w[0], hyp_w[0]), (ref_w[-1], hyp_w[-1]))):
                             if any(ch.isdigit() for ch in rw):
                                 continue
-                            max_ed = 0.0 if len(rw) <= 3 else 0.26
+                            max_ed = 0.0 if len(rw) <= 6 else 0.15
                             if float(jiwer.cer(rw, hw)) > max_ed:
+                                edge_ok = False
+                                break
+                            # Reject truncated leading consonant on first word or truncated final letter on last word
+                            if not is_last and len(rw) >= 3 and hw == rw[1:]:
+                                edge_ok = False
+                                break
+                            if is_last and len(rw) >= 3 and hw == rw[:-1]:
                                 edge_ok = False
                                 break
                         if edge_ok and w_objs and len(ref_w[-1]) >= 4:
