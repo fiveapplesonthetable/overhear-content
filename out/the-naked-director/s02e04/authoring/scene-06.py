@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-06'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 6
+TITLE = 'サインはきっと絶望の近く  (The Sign Comes Near Despair)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kuroki': '黒木', 'muranishi': '村西', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = "Back at the studio, a shaken Muranishi brushes off questions about Kuroki's new film. The next day, when the shy newcomer freezes at her debut shoot, Kuroki steps in to comfort her."
+STORY = [('reika', 'おかえりなさい。新作の構想はどうです？', 'Welcome back. How is the concept for the new film coming along?', [(279, 'おかえりなさい 新作の構想は どうです')], ''), ('muranishi', '今はそれどころじゃない。そのうち考える。', "Now isn't the time for that. I'll think about it eventually.", [(280, '今は それどころじゃない そのうち考える')], ''), ('kuroki', 'お疲れさまです。見に来ましたの。', "Hello everyone. I came by to watch today's shoot.", [(308, 'お疲れさまです')], 'trimmed first name'), ('kuroki', 'どうされました？', 'What is the matter?', [(319, 'どうされました')], ''), ('reika', 'いざとなると、どうしていいか分からなくなって…', "Now that the moment is here, I don't know what to do anymore...", [(320, 'いざとなると'), (321, 'どうしていいか分からなくなって')], ''), ('kuroki', 'エクスタシーを優先させればいいんですわ。ありのままで挑めば大丈夫ですよ。', 'Simply put ecstasy first. If you face it just as you are, you will be fine.', [(322, 'エクスタシーを 優先させればいいんですわ'), (323, 'ありのままで挑めば 大丈夫ですよ')], ''), ('kuroki', 'でも最初の一歩を踏み出すのは難しいですよね。私もそうでした。', "Still, taking that very first step is hard, isn't it? It was the same for me.", [(324, 'でも'), (325, '最初の一歩を踏み出すのは 難しいですよね'), (326, '私も そうでした')], ''), ('reika', 'じゃあ、どうやって乗り切ったんですか？', 'Then how did you manage to get past it?', [(327, 'じゃあ どうやって 乗り切ったんですか')], ''), ('kuroki', 'サインが来るんですよ。', 'A sign comes to you.', [(328, 'サインが来るんですよ')], ''), ('kuroki', '誰にでも一歩踏み出すべき時には、今だってお知らせが来るの。', "For everyone, when it's truly time to take a step forward, a notice arrives saying now is the moment.", [(330, '誰にでも'), (331, '一歩踏み出すべき時には')], ''), ('reika', 'じゃあ、今じゃないですね。', "Then... right now isn't that moment, is it?", [(332, 'じゃあ'), (334, '今じゃないですね')], ''), ('kuroki', 'そうね。サインはきっと絶望の近くよ。', 'Perhaps so. The sign surely waits close to despair.', [(335, 'そうね'), (337, 'サインは きっと'), (338, '絶望の近くよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Welcome back. How is the concept for the new film coming along?'"), (1, None, "'Now isn't the time for that. I'll think about it eventually.'"), (2, None, "'Hello everyone. I came by to watch today's shoot.'"), (3, None, "'What is the matter?'"), (4, None, "'Now that the moment is here, I don't know what to do anymore...'"), (5, None, "'Simply put ecstasy first. If you face it just as you are, you will be fine.'"), (6, None, "'Still, taking that very first step is hard, isn't it? It was the same for me.'"), (7, None, "'Then how did you manage to get past it?'"), (8, None, "'A sign comes to you.'"), (9, None, "'For everyone, when it's truly time to take a step forward, a notice arrives saying now is the moment.'"), (10, None, "'Then... right now isn't that moment, is it?'"), (11, None, "'Perhaps so. The sign surely waits close to despair.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Kuroki's quiet wisdom—that life's turning-point sign often arrives close to despair—leaves a deep impression on the young newcomer."
+CLOSING = ('kuroki', 'また明日。')

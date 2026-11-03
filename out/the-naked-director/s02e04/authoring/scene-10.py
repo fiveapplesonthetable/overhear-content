@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-10'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 10
+TITLE = 'そのうちいいことがある  (Something Good Will Happen Soon)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kacho': '課長', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = "Waiting in the car outside, Muranishi's young assistant fumes that big corporations are blind to the twenty-four-hour satellite future, right before guards toss a bruised Muranishi out the door."
+STORY = [('student', 'ホントバカっすよね、大企業って。村西さんは完全に時代を先取ってるんです。', 'Giant corporations really are fools. Mr. Muranishi is completely ahead of his time.', [(522, 'ホント バカっすよね 大企業って'), (523, '村西さんは完全に 時代を先取ってるんです')], ''), ('student', '絶対に二十四時間エロを見られる時代は来るんですよ。', 'The era when people can watch erotica twenty-four hours a day will definitely come.', [(524, '絶対に24時間エロを見られる時代は 来るんですよ')], 'spelled numeral in kanji'), ('kacho', 'ああ、俺も同じかな。', 'Yeah, I suppose I feel the same.', [(528, 'ああ 俺も同じかな')], ''), ('student', '同じじゃないっすよ！腹立ってきた。', "You don't feel the same at all! Now I'm getting angry.", [(529, '同じじゃないっすよ'), (530, '腹立ってきた')], ''), ('student', 'でもみんな村西さんを超えてかなきゃダメなんですって！', 'Still, everyone needs to surpass Mr. Muranishi!', [(533, 'でも みんな 村西さんを 超えてかなきゃダメなんですって')], ''), ('student', 'えっ、社長？大丈夫ですか？', 'Wait—boss? Are you all right?', [(537, '社長 大丈夫ですか')], ''), ('muranishi', '大丈夫だよ。一発で黙らしてやったよ。', "I'm fine. I shut him right up with one shot.", [(539, '大丈夫だよ'), (540, '一発で黙らしてやったよ')], ''), ('muranishi', '触らないで。', "Don't touch me.", [(544, '触らないで')], ''), ('kacho', '最悪の事態だ。もうどうなっても知りませんよ。', "This is the worst possible outcome. Don't blame me for whatever happens now.", [(545, '最悪の事態だ'), (546, 'もうどうなっても知りませんよ')], ''), ('muranishi', '少し黙ってもらえますか？', 'Could you please be quiet for a moment?', [(547, '少し黙ってもらえますか')], ''), ('muranishi', 'そのうちいいことがある。', 'Something good will happen before long.', [(549, 'そのうち いいことがある')], ''), ('muranishi', 'はい、村西です。はい！', 'Yes, Muranishi speaking. Certainly!', [(552, 'はい 村西です'), (553, 'はい')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Giant corporations really are fools. Mr. Muranishi is completely ahead of his time.'"), (1, None, "'The era when people can watch erotica twenty-four hours a day will definitely come.'"), (2, None, "'Yeah, I suppose I feel the same.'"), (3, None, "'You don't feel the same at all! Now I'm getting angry.'"), (4, None, "'Still, everyone needs to surpass Mr. Muranishi!'"), (5, None, "'Wait—boss? Are you all right?'"), (6, None, "'I'm fine. I shut him right up with one shot.'"), (7, None, "'Don't touch me.'"), (8, None, "'This is the worst possible outcome. Don't blame me for whatever happens now.'"), (9, None, "'Could you please be quiet for a moment?'"), (10, None, "'Something good will happen before long.'"), (11, None, "'Yes, Muranishi speaking. Certainly!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Seconds after Muranishi calmly predicts that good fortune will turn up soon, his mobile phone rings with an unexpected invitation.'
+CLOSING = ('muranishi', 'またね。')

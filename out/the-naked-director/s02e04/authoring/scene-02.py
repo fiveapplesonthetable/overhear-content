@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-02'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 2
+TITLE = "二人で夢をかなえましょう  (Let's Fulfill Our Dream Together)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'editor': '編集者', 'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = 'At a crowded press conference, Muranishi and Kuroki field questions from reporters about their newly announced comeback film, promising an electrifying masterpiece.'
+STORY = [('editor', '自信のほどいかがですか？', 'How confident are you feeling about this project?', [(53, '自信のほど いかがですか')], ''), ('muranishi', '全国三千万のアダルトファンが待ってますからね。それに応えるだけです。', 'Thirty million adult video fans nationwide are waiting, so I simply have to answer them.', [(55, '全国3000万のアダルトファンが'), (56, '待ってますからね'), (57, 'それに応えるだけです')], 'spelled numeral in kanji'), ('kuroki', 'まさにノンフィクションのような、ボルテージの高い作品になりますわ。', 'It will be a high-voltage work that feels just like real-life nonfiction.', [(61, 'まさにノンフィクションのような ボルテージの高い作品になりますわ')], ''), ('editor', 'なぜこのタイミングで復帰作を撮ろうと思ったのか、理由を教えてください。', 'Please tell us why you decided to shoot a comeback work at this exact moment.', [(64, 'なぜ このタイミングで 復帰作を撮ろうと思ったのか'), (65, '理由を教えてください')], ''), ('muranishi', 'エネルギーをためていたんです。', 'We had been storing up our energy.', [(69, 'エネルギーをためていたんです')], ''), ('muranishi', '二十四時間アダルトビデオが見れる時代は、すぐそこまで来てますからね。', 'Because the era when people can watch adult videos twenty-four hours a day is right around the corner.', [(78, '24時間 アダルトビデオが 見れる時代は'), (79, 'すぐそこまで来てますからね')], 'spelled numeral in kanji'), ('muranishi', 'この世の中はね、喜ばせごっこなんですよ。', 'This whole world is a game of making people happy.', [(82, 'この世の中はね 喜ばせごっこなんですよ')], ''), ('editor', 'では黒木さん、新作に向けての意気込みをお聞かせください。', 'Then Ms. Kuroki, please share your enthusiasm for the new film.', [(85, 'では 黒木さん'), (86, '新作に向けての 意気込みをお聞かせください')], ''), ('kuroki', 'すごい反響ですわ、わたくしたちの新作。', 'The response to our new film has been truly tremendous.', [(102, 'すごい反響ですわ わたくしたちの新作')], ''), ('kuroki', '先走ってしまいましたけど、ご迷惑でしたか？', 'I jumped the gun announcing it—was it trouble for you?', [(104, '先走ってしまいましたけど'), (105, 'ご迷惑でしたか')], ''), ('muranishi', '話題を集めてくれて感謝してる。久しぶりに燃えてるよ。', "I'm grateful you stirred up so much buzz. I feel fired up for the first time in ages.", [(106, '話題を集めてくれて感謝してる'), (107, '久しぶりに燃えてるよ')], ''), ('kuroki', 'では約束どおり、二人で夢をかなえましょう。', "Then just as promised, let's make our dream come true together.", [(109, '約束どおり 二人で夢をかなえましょう')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'How confident are you feeling about this project?'"), (1, None, "'Thirty million adult video fans nationwide are waiting, so I simply have to answer them.'"), (2, None, "'It will be a high-voltage work that feels just like real-life nonfiction.'"), (3, None, "'Please tell us why you decided to shoot a comeback work at this exact moment.'"), (4, None, "'We had been storing up our energy.'"), (5, None, "'Because the era when people can watch adult videos twenty-four hours a day is right around the corner.'"), (6, None, "'This whole world is a game of making people happy.'"), (7, None, "'Then Ms. Kuroki, please share your enthusiasm for the new film.'"), (8, None, "'The response to our new film has been truly tremendous.'"), (9, None, "'I jumped the gun announcing it—was it trouble for you?'"), (10, None, "'I'm grateful you stirred up so much buzz. I feel fired up for the first time in ages.'"), (11, None, "'Then just as promised, let's make our dream come true together.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Fired up by the press excitement, Muranishi thanks Kuroki for creating buzz and agrees to fulfill their dream together.'
+CLOSING = ('kuroki', 'またね。')

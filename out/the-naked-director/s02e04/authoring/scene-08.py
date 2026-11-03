@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-08'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 8
+TITLE = "頼むよ見逃してくれよ  (Please Pretend You Didn't See Us)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'police': '警察官', 'takei': '武井', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = "Rival gunmen storm the restaurant in a deadly ambush. Bleeding from the chaos, Toshi grabs the young hostess's hand and scrambles down a back stairwell as police sirens wail outside."
+STORY = [('toshi', 'おい！行くぞ！', "Hey! Let's get out of here!", [(432, 'おい 行くぞ')], ''), ('toshi', '来い！急げよ！', 'Come on! Hurry!', [(434, '来い'), (441, '急げよ')], ''), ('toshi', '急げ！', 'Move fast!', [(450, '急げ')], ''), ('police', 'はい、下がって下がって！下がってください！', 'Step back, step back! Please stand clear!', [(455, 'はい 下がって下がって 下がってください')], ''), ('toshi', 'おい、何してんだよ！', 'Hey, what are you doing!', [(459, 'おい 何してんだよ')], ''), ('toshi', 'こっちじゃダメだろ！こっちだ！', "Not that way—it's blocked! Come this way!", [(460, 'こっちじゃダメだろ こっちだ')], ''), ('toshi', 'おい、マジかよ、なあ！', 'Oh man, are you kidding me!', [(461, 'おい マジかよ なあ')], ''), ('toshi', '頼むよ、見逃してくれよ、なあ。', "Please, I'm begging you—pretend you didn't see us.", [(462, '頼むよ 見逃してくれよ なあ')], ''), ('toshi', '頼むよ！頼むよ！', "Please! I'm begging you!", [(463, '頼むよ 頼むよ')], ''), ('takei', 'おい。おう、何か騒がしいな、中。', 'Hey. Sounds mighty noisy in there.', [(464, 'おい'), (465, 'おう 何か騒がしいな 中')], ''), ('toshi', 'おい、行くぞ！あっちだよ！急げ！', "Come on, let's go! Over that way—hurry!", [(466, 'おい 行くぞ 行くぞ あっちだよ 急げ')], 'condensed repeated call'), ('toshi', 'ロミオとジュリエットだ。', 'Just like Romeo and Juliet.', [(467, 'ロミオとジュリエットだ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Hey! Let's get out of here!'"), (1, None, "'Come on! Hurry!'"), (2, None, "'Move fast!'"), (3, None, "'Step back, step back! Please stand clear!'"), (4, None, "'Hey, what are you doing!'"), (5, None, "'Not that way—it's blocked! Come this way!'"), (6, None, "'Oh man, are you kidding me!'"), (7, None, "'Please, I'm begging you—pretend you didn't see us.'"), (8, None, "'Please! I'm begging you!'"), (9, None, "'Hey. Sounds mighty noisy in there.'"), (10, None, "'Come on, let's go! Over that way—hurry!'"), (11, None, "'Just like Romeo and Juliet.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Slipping past Detective Takei into the night with the hostess beside him, Toshi feels bound to her like two star-crossed fugitives.'
+CLOSING = ('toshi', 'さようなら。')

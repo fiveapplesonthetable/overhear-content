@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e03-scene-01'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 3
+SCENE = 1
+TITLE = '想像力を働かせろ  (Use Your Imagination)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'muranishi': '村西', 'reika': '麗華', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E03'
+SOURCE_FILE = 'sources/the-naked-director/s02/e03.ja.srt'
+
+INTRO = "Welcome back to The Naked Director, Season Two, Episode Three. At Muranishi's newly launched studio, his eager young assistant brings yogurt shakes for everyone, gets scolded for buying only one flavor, and watches 140 million yen in cash salaries distributed."
+STORY = [('student', '運転手さん、ここがダイヤモンド映像です。覚えておいてください。', 'Driver, this is our new studio. Please remember it.', [(9, '運転手さん ここがダイヤモンド映像です'), (10, '覚えておいてください')], ''), ('student', '社長、お待たせしました。ちまたで大人気のヨーグルト味です。', "Boss, sorry to keep you waiting. It's the hugely popular yogurt flavor.", [(12, '社長 お待たせしました'), (13, 'ヨーグルト味です')], 'trimmed brand name'), ('muranishi', 'お前、ヨーグルト味だけを買ってきたのか？', 'Did you buy only the yogurt flavor?', [(15, 'お前 ヨーグルト味だけを 買ってきたのか')], ''), ('student', 'はい、これが一番おいしいんで。', 'Yes, because this one is the most delicious.', [(16, 'はい これが一番おいしいんで')], ''), ('muranishi', 'ヨーグルト味を嫌いな人がいたらどうするんだよ？', 'What are you going to do if someone dislikes yogurt flavor?', [(17, 'ヨーグルト味を嫌いな人がいたら どうするんだよ')], ''), ('muranishi', 'この世界でやっていくんだったら、人々を喜ばせるために想像力を働かせろ。', 'If you want to make it in this world, use your imagination to make people happy.', [(18, 'この世界でやっていくんだったら'), (19, '人々を喜ばせるために 想像力を働かせろ')], ''), ('muranishi', '今日の分のギャラの用意をお願いします。', "Please get today's appearance fees ready.", [(22, '今日の分の ギャラの用意をお願いします')], 'trimmed surname'), ('reika', '分かりました。あとで飲みますから置いといてください。', "Understood. Please set it down there, I'll drink it later.", [(23, '分かりました'), (24, '置いといてください'), (25, 'あとで飲みますから')], 'combined lines'), ('student', '村西さんの付き人で入社しました。よろしくお願いします。', "I joined the company as Mr. Muranishi's assistant. Nice to meet you.", [(36, '村西さんの付き人で入社した')], 'trimmed name'), ('reika', '皆さんのギャランティー、一億四千万です。', "Everyone's appearance fees come to 140 million yen.", [(41, '皆さんのギャランティー １億4000万です')], 'spelled numeral in kanji'), ('reika', '必ず領収書にハンコをお願いします。印鑑って持ってきましたか？', 'Be sure to stamp your seal on the receipt. Did you bring your seals?', [(42, '必ず 領収書に ハンコをお願いします'), (43, '印鑑って持ってきましたか')], ''), ('muranishi', 'はい、じゃあ配りますよ。', "All right, let's hand them out.", [(45, 'はい じゃあ 配りますよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Driver, this is our new studio. Please remember it.'"), (1, None, "'Boss, sorry to keep you waiting. It's the hugely popular yogurt flavor.'"), (2, None, "'Did you buy only the yogurt flavor?'"), (3, None, "'Yes, because this one is the most delicious.'"), (4, None, "'What are you going to do if someone dislikes yogurt flavor?'"), (5, None, "'If you want to make it in this world, use your imagination to make people happy.'"), (6, None, "'Please get today's appearance fees ready.'"), (7, None, "'Understood. Please set it down there, I'll drink it later.'"), (8, None, "'I joined the company as Mr. Muranishi's assistant. Nice to meet you.'"), (9, None, "'Everyone's appearance fees come to 140 million yen.'"), (10, None, "'Be sure to stamp your seal on the receipt. Did you bring your seals?'"), (11, None, "'All right, let's hand them out.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "After handing out stacks of cash to the veteran actresses, Muranishi heads upstairs where the studio's brand-new recruits are waiting."
+CLOSING = ('muranishi', 'じゃあね。')

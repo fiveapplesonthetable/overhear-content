@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e03-scene-12'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 3
+SCENE = 12
+TITLE = 'まるで村西さんだね  (Just Like Muranishi)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'reika': '麗華', 'shacho': '社長', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E03'
+SOURCE_FILE = 'sources/the-naked-director/s02/e03.ja.srt'
+
+INTRO = "On the studio floor, the female staff director coaches a passionate scene with Muranishi's unmistakable intensity as Kuroki watches fondly, while the satellite company President gets shocking news."
+STORY = [('reika', 'カット！三田村、ここ寝っ転がって。', 'Cut! Lie down right here and let me show you.', [(541, 'カット 三田村'), (542, '三田村 ここ寝っ転がって')], ''), ('reika', 'ずーっと正常位見せられてもつまんないから、盛り上がってきたらこうやって体を起こして。', 'Showing the same position the whole time gets dull, so as the climax builds, lift her up like this.', [(543, 'ずーっと 正常位 見せられても つまんないから'), (546, 'それで盛り上がってきたら こうやって体を起こして')], ''), ('reika', '長年の片思いの末、彼はようやく振り向いてくれる、それが今日！', 'After years of unrequited love, he finally turns toward you—and that day is today!', [(552, '長年の片思いの末'), (553, '彼は ようやく振り向いてくれる それが今日')], ''), ('reika', '今日という今日はこの塊を飛び出して、二つの魂が一つになるの！', 'Today of all days, let all those bottled-up feelings burst out so two souls become one!', [(554, '今日という今日は この塊を飛び出して'), (555, '２つの魂が１つになるの')], 'spelled numerals in kanji'), ('reika', '分かった？はい、じゃあ回していくよ！', "Got it? All right then, let's roll the camera!", [(556, '分かった'), (557, 'はい じゃあ回していくよ')], ''), ('student', 'まるで村西さんだね。似ちゃうもんなんだな。', 'She sounds just like Mr. Muranishi. You really end up picking up his style.', [(571, 'まるで村西さんだね'), (572, '似ちゃうもんなんだな')], ''), ('student', 'やっぱり村西さんってすごい影響力あるんですね。なんか懐かしいですね、この感じ。', 'Mr. Muranishi really has incredible influence. Somehow this feeling brings back memories.', [(573, 'やっぱり 村西さんって すごい影響力あるんですね'), (574, 'なんか懐かしいですね この感じ')], ''), ('reika', 'そう、いいよ！いい顔してる！', "Yes, that's it! What a great expression!", [(570, 'そう いいよ'), (579, 'いい顔してる')], ''), ('shacho', '本気かよ…', 'Is this for real...', [(582, '本気かよ')], ''), ('shacho', 'あの監督、本当に地球局ごと買い取ったのか？', 'Did that adult video director seriously buy out the entire earth station?', [(583, 'あのＡＶ監督 本当に 地球局ごと買い取ったのか')], 'trimmed acronym'), ('student', '設備もすべて譲ったようです。', 'They apparently handed over all the transmission equipment as well.', [(584, '設備も すべて譲ったようです')], ''), ('student', 'どうしますか？もう契約しないわけには…', 'What should we do? We can hardly refuse to sign a contract with him now...', [(585, 'どうしますか もう契約しないわけには')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Cut! Lie down right here and let me show you.'"), (1, None, "'Showing the same position the whole time gets dull, so as the climax builds, lift her up like this.'"), (2, None, "'After years of unrequited love, he finally turns toward you—and that day is today!'"), (3, None, "'Today of all days, let all those bottled-up feelings burst out so two souls become one!'"), (4, None, "'Got it? All right then, let's roll the camera!'"), (5, None, "'She sounds just like Mr. Muranishi. You really end up picking up his style.'"), (6, None, "'Mr. Muranishi really has incredible influence. Somehow this feeling brings back memories.'"), (7, None, "'Yes, that's it! What a great expression!'"), (8, None, "'Is this for real...'"), (9, None, "'Did that adult video director seriously buy out the entire earth station?'"), (10, None, "'They apparently handed over all the transmission equipment as well.'"), (11, None, "'What should we do? We can hardly refuse to sign a contract with him now...'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Backed into a corner because Muranishi now owns the earth station itself, the satellite executives realize they may have no choice.'
+CLOSING = ('reika', 'じゃあね。')

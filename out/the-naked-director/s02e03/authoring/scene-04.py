@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e03-scene-04'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 3
+SCENE = 4
+TITLE = '誠意の表れですよ  (A Token of Sincerity)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kacho': '課長', 'muranishi': '村西', 'shacho': '社長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E03'
+SOURCE_FILE = 'sources/the-naked-director/s02/e03.ja.srt'
+
+INTRO = "On the way to the satellite company, Muranishi's banker hears sudden news that the company President has canceled their appointment. Refusing to leave, Muranishi hands out grapes to employees in the lobby and confronts the President by phone."
+STORY = [('kacho', 'それにしてもこれ、いくらかかったんですか？村西さん。', 'Even so, Mr. Muranishi, how much did all this cost you?', [(124, 'それにしても これ'), (125, 'いくらかかったんですか 村西さん')], ''), ('muranishi', '誠意の表れですよ、安いもんです。', "It's an expression of sincerity—a small price to pay.", [(126, '誠意の表れですよ 安いもんです')], ''), ('kacho', 'お世話になっております。今ちょうど向かっていますよ。', 'Thank you for everything. We are on our way right now.', [(133, 'お世話になっております 今ちょうど向かっていますよ')], ''), ('muranishi', 'どうぞ、おひとついかがですか？取れたての巨峰でございます。', "Here, won't you try one? They are freshly picked Kyoho grapes.", [(144, 'どうぞ おひとつ いかがですか'), (145, '取れたての巨峰でございます')], ''), ('shacho', '誰だ？お前。', 'Who the hell are you?', [(160, '誰だ お前')], ''), ('muranishi', '本日お約束した村西とおるでございます。', 'I am Toru Muranishi, who had an appointment with you today.', [(161, '本日お約束した 村西とおるでございます')], ''), ('muranishi', '社員の皆様とおいしくね、巨峰を頂いておりますよ。', 'I am enjoying delicious Kyoho grapes here with all your employees.', [(164, '社員の皆様と おいしくね 巨峰を頂いておりますよ')], ''), ('muranishi', '今ね、御社の社長が何をしてるかご存じですか？', "Do you all know what your company's president is doing right now?", [(167, '今ね 御社の社長が 何をしてるか ご存じですか')], ''), ('muranishi', '社員をバカにしてるにも程がある！', "There's a limit to making fools of your own employees!", [(171, '社員をバカにしてるにも程がある')], ''), ('shacho', 'それでそんな幼稚なことしてるのか？', "And that's why he's pulling something so childish?", [(177, 'それで そんな幼稚なことしてるのか')], ''), ('kacho', '勘弁してくださいよ。この場はすぐに収めますので。', 'Please spare us! I will get this situation under control right away.', [(180, '勘弁してくださいよ'), (181, 'この場は すぐに収めますので')], ''), ('kacho', 'こんなやり方してるようじゃ衛星は無理です。もうつきあいきれません。', "If you keep acting like this, satellite rights are impossible. I can't deal with you anymore.", [(188, 'こんなやり方してるようじゃ 衛星は無理です'), (189, 'もう つきあいきれません')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Even so, Mr. Muranishi, how much did all this cost you?'"), (1, None, "'It's an expression of sincerity—a small price to pay.'"), (2, None, "'Thank you for everything. We are on our way right now.'"), (3, None, "'Here, won't you try one? They are freshly picked Kyoho grapes.'"), (4, None, "'Who the hell are you?'"), (5, None, "'I am Toru Muranishi, who had an appointment with you today.'"), (6, None, "'I am enjoying delicious Kyoho grapes here with all your employees.'"), (7, None, "'Do you all know what your company's president is doing right now?'"), (8, None, "'There's a limit to making fools of your own employees!'"), (9, None, "'And that's why he's pulling something so childish?'"), (10, None, "'Please spare us! I will get this situation under control right away.'"), (11, None, "'If you keep acting like this, satellite rights are impossible. I can't deal with you anymore.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Disgusted by Muranishi's lobby stunt, the bank Section Chief declares he can no longer work with him and storms off."
+CLOSING = ('muranishi', 'さようなら。')

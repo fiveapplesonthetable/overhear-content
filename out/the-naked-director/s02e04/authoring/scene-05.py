@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-05'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 5
+TITLE = '前科者とは契約しない  (Never Signing with an Ex-Con)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kacho': '課長', 'muranishi': '村西', 'shacho': '社長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = 'With a proper appointment secured at last, Muranishi and the bank Section Chief sit down with the satellite company President—who delivers a crushing official rejection.'
+STORY = [('kacho', '失礼しました、打ち合わせです。今度はアポを取れてますから。', "Excuse us, we're here for our meeting. We have a proper appointment this time.", [(198, 'あっ 失礼しました'), (199, '今度はアポを取れてますから')], 'trimmed surname'), ('shacho', '悪かったな、この間はすっぽかしたりして。', 'Sorry about blowing you off the other day.', [(217, '悪かったな この間は すっぽかしたりして')], ''), ('muranishi', '女優の体にシール貼ったほうが宣伝になりますよ。', "Putting sponsor stickers on actresses' bodies would give you way better publicity.", [(225, '体にシール貼ったほうが 宣伝になりますよ')], 'trimmed acronym'), ('shacho', '相変わらず不謹慎な男だ。正式に返答を申し上げる。答えはノーだ。', 'As indiscreet as ever. Let me give you our official reply: the answer is no.', [(228, '相変わらず不謹慎な男だ'), (231, '正式に返答を申し上げる'), (233, '答えはノーだ')], ''), ('shacho', '中途半端に期待させて、余計な費用を使わせるのも心苦しいだろ。', 'It would weigh on my conscience to string you along half-heartedly and make you waste money.', [(235, '中途半端に期待させて'), (236, '余計な費用を使わせるのも 心苦しいだろ')], ''), ('muranishi', 'おい、ちょっと待て、おかしいだろ！', 'Hey, hold on a minute—that makes no sense!', [(237, 'おい ちょっと待て おかしいだろ')], ''), ('muranishi', '地球局だって二十億で買ったんだぞ！これで契約させないのは不当だろ！', 'I even bought an earth station for two billion yen! Refusing to sign me after that is unjust!', [(245, '地球局だって20億で買ったんだぞ'), (247, 'これで契約させないのは不当だろ')], 'spelled numeral in kanji'), ('shacho', '不当かどうかはこちらが決める。', 'We are the ones who decide what is unjust or not.', [(248, '不当かどうかは こちらが決める')], ''), ('muranishi', 'なんでそこまで俺を拒否すんだよ？', 'Why are you rejecting me to this extent?', [(249, 'なんで そこまで 俺を拒否すんだよ')], ''), ('shacho', 'そもそも前科者とは契約しないんだよ。', 'To begin with, we never sign contracts with ex-convicts.', [(251, 'そもそも'), (252, '前科者とは契約しないんだよ')], ''), ('shacho', 'どんなに条件を整えても、お前が歩んできた道のりがアウトなんだよ。', "No matter what conditions you line up, the path you've walked disqualifies you.", [(253, 'どんなに条件を整えても'), (254, 'お前が歩んできた道のりが アウトなんだよ')], ''), ('shacho', '以上だ。もう会うことはない。', 'That is all. We will not meet again.', [(262, '以上だ'), (263, 'もう会うことはない')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Excuse us, we're here for our meeting. We have a proper appointment this time.'"), (1, None, "'Sorry about blowing you off the other day.'"), (2, None, "'Putting sponsor stickers on actresses' bodies would give you way better publicity.'"), (3, None, "'As indiscreet as ever. Let me give you our official reply: the answer is no.'"), (4, None, "'It would weigh on my conscience to string you along half-heartedly and make you waste money.'"), (5, None, "'Hey, hold on a minute—that makes no sense!'"), (6, None, "'I even bought an earth station for two billion yen! Refusing to sign me after that is unjust!'"), (7, None, "'We are the ones who decide what is unjust or not.'"), (8, None, "'Why are you rejecting me to this extent?'"), (9, None, "'To begin with, we never sign contracts with ex-convicts.'"), (10, None, "'No matter what conditions you line up, the path you've walked disqualifies you.'"), (11, None, "'That is all. We will not meet again.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Dismissed to his face as an ex-convict unworthy of satellite broadcasting, Muranishi storms out of the building in cold fury.'
+CLOSING = ('muranishi', 'じゃあね。')

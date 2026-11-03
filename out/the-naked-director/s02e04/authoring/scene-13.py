@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e04-scene-13'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 4
+SCENE = 13
+TITLE = '今の取り消してください  (Please Take Back What You Just Said)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E04'
+SOURCE_FILE = 'sources/the-naked-director/s02/e04.ja.srt'
+
+INTRO = 'In the dramatic finale of Episode Four, Kuroki warns Muranishi that his commercial compromise can never surpass their debut masterpiece—triggering an outburst that shatters their partnership.'
+STORY = [('kuroki', 'そんなくだらない理由で表現を変えるんですか？', 'You would change your artistic expression for such a shallow reason?', [(664, 'そんなくだらない理由で 表現を変えるんですか')], ''), ('kuroki', 'こんなもので超えることなんかできません。', 'With something like this, we can never surpass our debut hit.', [(665, 'こんなもので'), (666, '超えることなんかできません')], 'trimmed title'), ('muranishi', '超えられるわけないだろ！何言ってんだよ！', 'Of course nothing can surpass it! What are you talking about?!', [(667, '超えられるわけないだろ'), (668, '何言ってんだよ')], ''), ('muranishi', 'どいつもこいつも同じこと言いやがって！', 'Every single person keeps saying the exact same thing!', [(669, 'どいつもこいつも 同じこと言いやがって')], ''), ('muranishi', 'あんなものはな、何十も何百も奇跡が重なってたまたま撮れただけなんだよ！', 'That film only happened by chance when dozens and hundreds of miracles piled up!', [(670, 'あんなものはな'), (671, '何十も何百も 奇跡が重なって'), (672, 'たまたま撮れただけなんだよ')], ''), ('muranishi', 'あんなもん狙って撮れるわけないだろ！やるぞ、撮るぞ！', "There's no way anyone could plan a shot like that! Let's do this—roll camera!", [(673, 'あんなもん 狙って撮れるわけないだろ'), (674, 'やるぞ 撮るぞ')], ''), ('kuroki', '監督、お願いですから今の取り消してください。', 'Director, I beg you—please take back what you just said.', [(676, '監督'), (677, 'お願いですから 今の 取り消してください')], ''), ('muranishi', '撮影はベストを尽くす、全員。君もそうするんだ。', 'Everyone gives their best on this shoot. You will do the same.', [(678, '撮影はベストを尽くす 全員 君もそうするんだ')], ''), ('muranishi', 'いくぞ。', "Let's roll.", [(679, 'いくぞ')], ''), ('kuroki', 'あなたの思ったとおりになりましたね。', "It turned out just the way you expected, didn't it?", [(683, 'あなたの思ったとおりに なりましたね')], ''), ('muranishi', 'ダメだ、撮るんだ。', 'No, we are shooting today.', [(688, 'ダメだ 撮るんだ')], ''), ('client_f', '私じゃダメですか？黒木さんの代わり。', "Would I not be good enough—in Ms. Kuroki's place?", [(691, '私じゃダメですか 黒木さんの代わり')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'You would change your artistic expression for such a shallow reason?'"), (1, None, "'With something like this, we can never surpass our debut hit.'"), (2, None, "'Of course nothing can surpass it! What are you talking about?!'"), (3, None, "'Every single person keeps saying the exact same thing!'"), (4, None, "'That film only happened by chance when dozens and hundreds of miracles piled up!'"), (5, None, "'There's no way anyone could plan a shot like that! Let's do this—roll camera!'"), (6, None, "'Director, I beg you—please take back what you just said.'"), (7, None, "'Everyone gives their best on this shoot. You will do the same.'"), (8, None, "'Let's roll.'"), (9, None, "'It turned out just the way you expected, didn't it?'"), (10, None, "'No, we are shooting today.'"), (11, None, "'Would I not be good enough—in Ms. Kuroki's place?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "After Kuroki walks out in tears and refuses to compromise her art, the shy newcomer steps onto the set and asks if she can take Kuroki's place."
+CLOSING = ('muranishi', 'またね。')

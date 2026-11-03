@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e03-scene-07'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 3
+SCENE = 7
+TITLE = '広告塔としてもり立ててくれ  (Keep Lifting Us Up)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kuroki': '黒木', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E03'
+SOURCE_FILE = 'sources/the-naked-director/s02/e03.ja.srt'
+
+INTRO = 'Late at night in the editing room, Kuroki brings hot coffee to the hardworking junior director, reassures him she still plans to shoot videos, and checks in on an exhausted Muranishi.'
+STORY = [('student', 'これつなぐ前に、もう一回素材見せて。', 'Before splicing this together, let me see the raw footage one more time.', [(300, 'これ つなぐ前に もう一回 素材見せて')], ''), ('kuroki', 'お疲れさまでございます。これコーヒーです、どうぞ。', 'Thank you for working so late. Here is some coffee, please go ahead.', [(304, 'お疲れさまでございます'), (306, 'これ コーヒーです どうぞ')], ''), ('kuroki', '休める時にお休みになってくださいね。', 'Please make sure to get some rest whenever you can.', [(309, '休める時に お休みになってくださいね')], ''), ('student', 'いつか村西さんと黒木さんみたいな作品作りたいですし。', 'Someday I want to create a work like the ones you and Mr. Muranishi made.', [(319, 'いつか村西さんと黒木さんみたいな 作品 作りたいですし')], ''), ('kuroki', 'ご自身の好きな作品を撮ればいいんですのよ。', 'You should film the kind of work that you yourself love.', [(320, 'ご自身の好きな作品を'), (321, '撮ればいいんですのよ')], ''), ('student', '頑張ります。黒木さんはもう出ないんですか？', "I'll do my best. Ms. Kuroki, aren't you going to appear in videos anymore?", [(322, '頑張ります'), (324, '黒木さんは もうＡＶ出ないんですか')], 'trimmed acronym'), ('kuroki', 'まさか！まだまだ作品を作りますわ。', 'Perish the thought! I will still make plenty more works.', [(325, 'まさか まだまだ作品を作りますわ')], ''), ('student', 'よかったです。楽しみにしてます。', "I'm so glad to hear that. I look forward to them.", [(326, 'よかったです あの 楽しみにしてます')], ''), ('kuroki', '監督、すごく頑張られてました。', 'Director, he was working remarkably hard in there.', [(329, '監督'), (331, 'すごく頑張られてました')], ''), ('muranishi', '頼りにしてるよ。これからの売り上げはあいつらにかかってるからな。', "I'm counting on him. Our future sales depend on those guys.", [(332, '頼りにしてるよ'), (333, 'これからの売り上げは あいつらにかかってるからな')], ''), ('kuroki', '皆さんどんどん羽ばたいていくのね。私も負けてられません。', "Everyone is spreading their wings so fast. I can't afford to fall behind.", [(334, '皆さん どんどん羽ばたいていくのね'), (335, '私も負けてられません')], ''), ('muranishi', '黒木君が一番羽ばたいてるじゃないか。これからも広告塔としてもり立ててくれ。', "You're soaring higher than anyone, Kuroki. Keep boosting us as our poster girl.", [(336, '黒木君が 一番羽ばたいてるじゃないか'), (337, 'これからも広告塔として もり立ててくれ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Before splicing this together, let me see the raw footage one more time.'"), (1, None, "'Thank you for working so late. Here is some coffee, please go ahead.'"), (2, None, "'Please make sure to get some rest whenever you can.'"), (3, None, "'Someday I want to create a work like the ones you and Mr. Muranishi made.'"), (4, None, "'You should film the kind of work that you yourself love.'"), (5, None, "'I'll do my best. Ms. Kuroki, aren't you going to appear in videos anymore?'"), (6, None, "'Perish the thought! I will still make plenty more works.'"), (7, None, "'I'm so glad to hear that. I look forward to them.'"), (8, None, "'Director, he was working remarkably hard in there.'"), (9, None, "'I'm counting on him. Our future sales depend on those guys.'"), (10, None, "'Everyone is spreading their wings so fast. I can't afford to fall behind.'"), (11, None, "'You're soaring higher than anyone, Kuroki. Keep boosting us as our poster girl.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Encouraged by Kuroki's warmth, Muranishi asks her to keep lifting the company up as their poster girl while he chases his satellite dream."
+CLOSING = ('kuroki', 'またね。')
