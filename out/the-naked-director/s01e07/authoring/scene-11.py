@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e07-scene-11'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 7
+SCENE = 11
+TITLE = "裏切らないって信じてるぞ  (I Trust You Won't Betray Me)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'fujiwara': '藤原', 'furuya': '古谷', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E07'
+SOURCE_FILE = 'sources/the-naked-director/s01/e07.ja.srt'
+
+INTRO = 'Seeking underground distribution cash, Toshi follows yakuza boss Furuya into a dark Tokyo building, where Furuya punishes his own subordinate Fujiwara for stealing gang money and tests Toshi\'s nerve. Listen for "uragiru", to betray.'
+STORY = [('furuya', '今日は何人だ？もう仕上がってるか？', 'How many are there today? Are they ready already?', [(372, '今日は何人だ'), (374, 'もう仕上がってるか')], ''), ('fujiwara', 'はい、三人ほどです。', 'Yes, sir, about three.', [(373, 'ほどです')], ''), ('toshi', 'おい、何の話だよ。', 'Hey, what are you two talking about?', [(375, 'おい 何の話だよ')], ''), ('fujiwara', '入れば分かる。', 'Step inside and you will see.', [(376, '入れば分かる')], ''), ('toshi', 'あの、何ですかこれ。', 'Wait, what on earth is this place?', [(386, 'あの'), (387, '何ですか これ')], ''), ('furuya', 'ここはうちが買い取ったんだ。前に言ったろ、怖い地域があるって。', 'Our outfit bought this building. I told you before there are scary corners in town.', [(391, 'ここは そのために うちが買い取ったんだ'), (392, '前に言ったろ')], ''), ('furuya', 'どうだ、藤原。', 'How does it look, Fujiwara?', [(396, 'どうだ？\u3000藤原')], ''), ('fujiwara', 'いいと思います。', 'Everything looks good, sir.', [(397, 'いいと思います')], ''), ('furuya', 'お前、組の上がりくすねてんだろ。謝れよ。', "You have been skimming money from the gang's take, haven't you. Apologize.", [(403, 'お前 組の上がり くすねてんだろ'), (406, '謝れよ')], ''), ('fujiwara', '失礼しました。', 'Forgive me, sir.', [(407, 'した')], ''), ('furuya', 'トシ、頼んだぞ。', 'Toshi, take care of this for me.', [(409, 'トシ'), (414, '頼んだぞ')], ''), ('furuya', 'お前は俺のことを裏切らないって信じてるぞ。', 'I trust that you will never betray me.', [(415, 'お前は俺のことを 裏切らないって信じてるぞ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'How many are there today? Are they ready already?'"), (1, None, "'Yes, sir, about three.'"), (2, None, "'Hey, what are you two talking about?'"), (3, None, "'Step inside and you will see.'"), (4, None, "'Wait, what on earth is this place?'"), (5, None, "'Our outfit bought this building. I told you before there are scary corners in town.'"), (6, None, "'How does it look, Fujiwara?'"), (7, None, "'Everything looks good, sir.'"), (8, None, "'You have been skimming money from the gang's take, haven't you. Apologize.'"), (9, None, "'Forgive me, sir.'"), (10, None, "'Toshi, take care of this for me.'"), (11, None, "'I trust that you will never betray me.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "ayamaru" for apologizing and "shinjiru" for trusting, you have intense Japanese verbs from crime drama scenes. Catch you later!'
+CLOSING = ('toshi', 'じゃあね。')

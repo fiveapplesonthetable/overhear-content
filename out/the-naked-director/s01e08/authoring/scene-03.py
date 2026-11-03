@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-03'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 3
+TITLE = '俺はあんたとは絶対に組まん  (I Will Never Team Up With You)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'ikezawa': '池沢', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'At a quiet ramen counter, rival mogul Ikezawa offers Muranishi one billion yen in production financing if he hands over his studio and distribution rights, sparking a fierce clash of philosophies. Listen for "yuushi", business financing or a loan.'
+STORY = [('ikezawa', 'おかえり。出所祝いだ。', 'Welcome back. Consider this a release celebration.', [(89, 'おかえり'), (90, '出所祝いに')], ''), ('muranishi', '早く用件を言ってくれ。', 'Just tell me your business already.', [(91, '早く用件を言ってくれ')], ''), ('ikezawa', '実はな、お前の会社を買い取りたいと思ってんだよ。', 'Truth is, I am thinking about buying out your studio.', [(93, '実はな'), (93, '買い取りたいと思ってんだよ')], ''), ('muranishi', 'ふざけてるのか？', 'Are you joking with me?', [(94, 'ふざけてるのか')], ''), ('ikezawa', '十億融資してやる。そのかわり販売はすべてうちがやる。', 'I will finance you with one billion yen, and in return we handle all distribution.', [(96, '融資してやる'), (98, 'そのかわり 販売は すべてうちがやる')], ''), ('ikezawa', '二度とないチャンスだぞ？', 'This is a once-in-a-lifetime chance, you know?', [(100, '二度とないチャンスだぞ')], ''), ('muranishi', '俺はあんたとは絶対に組まん。', 'I will never team up with you.', [(101, '俺は あんたとは絶対に組まん')], ''), ('ikezawa', 'うちとお前らじゃ資金力が違う。勝算はないぞ。', 'Our capital is on a different level from yours. You have no chance of winning.', [(106, 'うちとお前らじゃ 資金力が違う'), (107, '勝算はないぞ')], ''), ('muranishi', '俺は彼女じゃなくても最高の作品を作れる。', 'Even without Kuroki, I can make the greatest films.', [(112, '俺は 彼女じゃなくても 最高の作品を作れる')], ''), ('muranishi', 'あんたも変わらんな。まだ生ぬるい偽物作ってるんだろ？', "You haven't changed either. Still shooting lukewarm fakes, aren't you?", [(115, 'あんたも変わらんな'), (116, '生ぬるい偽物 作ってるんだろ')], ''), ('ikezawa', '時代の流れを読めるからここまで来られたんだよ。', 'I made it this far because I know how to read the flow of the times.', [(118, '時代の流れを読めるから ここまで来られたんだよ')], ''), ('muranishi', 'どうだろうな。俺はしつこいからな。ごちそうさん。', 'We will see about that. I am pretty persistent. Thanks for the meal.', [(122, 'どうだろうな 俺は しつこいからな'), (123, 'ごちそうさん')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Welcome back. Consider this a release celebration.'"), (1, None, "'Just tell me your business already.'"), (2, None, "'Truth is, I am thinking about buying out your studio.'"), (3, None, "'Are you joking with me?'"), (4, None, "'I will finance you with one billion yen, and in return we handle all distribution.'"), (5, None, "'This is a once-in-a-lifetime chance, you know?'"), (6, None, "'I will never team up with you.'"), (7, None, "'Our capital is on a different level from yours. You have no chance of winning.'"), (8, None, "'Even without Kuroki, I can make the greatest films.'"), (9, None, "'You haven't changed either. Still shooting lukewarm fakes, aren't you?'"), (10, None, "'I made it this far because I know how to read the flow of the times.'"), (11, None, "'We will see about that. I am pretty persistent. Thanks for the meal.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "yuushi" for financing to "shousan" for odds of winning, you can follow boardroom rivalries in Japanese. Catch you soon!'
+CLOSING = ('muranishi', 'さようなら。')

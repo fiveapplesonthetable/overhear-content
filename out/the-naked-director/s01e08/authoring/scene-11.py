@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-11'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 11
+TITLE = '引き返したくなったのか？  (Getting Cold Feet Now?)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'furuya': '古谷', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'Toshi goes straight to Furuya to call off their underground deal, only for Furuya to hand over the hideout operation, demand Kuroki\'s master tape, and remind Toshi that he is already an accomplice. Listen for "hikikaesu", to turn back.'
+STORY = [('toshi', '実は相談があって。', 'Actually, I came to talk to you about something.', [(353, '実は 相談があって')], ''), ('furuya', '俺もちょうどお前に話あんだよ。', 'I just happened to have something to tell you too.', [(354, '俺も ちょうど お前に話あんだよ')], ''), ('furuya', 'ここ丸ごとお前に譲りたいんだ。', 'I want to hand this whole operation over to you.', [(355, 'ここ 丸ごと お前に譲りたいんだ')], ''), ('toshi', 'えっ？いや、それは…', 'What? Wait, hold on...', [(356, 'えっ'), (357, 'いや それは')], ''), ('furuya', '信用できるヤツはお前しかいないんだよ。', 'You are the only man left whom I can trust.', [(358, '信用できるヤツは お前しかいないんだよ')], ''), ('toshi', 'いや、古谷さん、でも…', "Wait, Mr. Furuya, I can't...", [(359, 'いや 古谷さん でも')], ''), ('furuya', '受け取ってくれよ。よかった。', 'Take it off my hands, okay? Good.', [(361, '受け取ってくれよ'), (362, 'よかった')], ''), ('furuya', 'それと黒木の作品、持ってきてくれねえか。裏で流すから。', "Also, bring me Kuroki's master tape so we can sell it underground.", [(363, '持ってきてくれねえか'), (364, '裏で流すから')], ''), ('toshi', 'いや、ちょっとそれは…', 'No, hold on, I cannot do that...', [(365, 'いや ちょっと それは')], ''), ('furuya', 'どうした？引き返したくなったのか？', 'What is wrong? Getting cold feet and wanting to turn back?', [(366, 'どうした'), (367, '引き返したくなったのか')], ''), ('furuya', '無理だぞ。藤原はもう死んじまったからな。', 'Too late for that. Fujiwara is already dead.', [(368, '無理だぞ'), (369, 'もう死んじまったからな')], ''), ('furuya', 'だろ？', "Isn't that right?", [(370, 'だろ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Actually, I came to talk to you about something.'"), (1, None, "'I just happened to have something to tell you too.'"), (2, None, "'I want to hand this whole operation over to you.'"), (3, None, "'What? Wait, hold on...'"), (4, None, "'You are the only man left whom I can trust.'"), (5, None, "'Wait, Mr. Furuya, I can't...'"), (6, None, "'Take it off my hands, okay? Good.'"), (7, None, "'Also, bring me Kuroki's master tape so we can sell it underground.'"), (8, None, "'No, hold on, I cannot do that...'"), (9, None, "'What is wrong? Getting cold feet and wanting to turn back?'"), (10, None, "'Too late for that. Fujiwara is already dead.'"), (11, None, "'Isn't that right?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "yuzuru" for handing over and "hikikaesu" for turning back, you can follow tense underworld traps in Japanese. Catch you soon!'
+CLOSING = ('toshi', 'またね。')

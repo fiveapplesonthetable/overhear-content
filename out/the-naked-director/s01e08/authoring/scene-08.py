@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e08-scene-08'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 8
+SCENE = 8
+TITLE = "私も監督の作品に出たいです  (I Want To Appear in the Director's Films Too)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'editor': '編集者', 'kuroki': '黒木', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E08'
+SOURCE_FILE = 'sources/the-naked-director/s01/e08.ja.srt'
+
+INTRO = 'In her television dressing room, Kuroki hears how busy Muranishi\'s crew has become and confides to stylist Reika that she wants to film with him again, before dazzling a live studio crowd. Listen for "wadai", the talk of the town.'
+STORY = [('kuroki', '監督の作品、話題になってるんですね。', "The director's new films have become the talk of the town, haven't they.", [(260, '監督の作品 話題になってるんですね')], ''), ('reika', 'うん、結構売れてるみたい。こっちはヘトヘトだけど。', 'Yeah, they seem to be selling really well, though we are exhausted.', [(261, 'うん 結構 売れてるみたい こっちはヘトヘトだけど')], ''), ('reika', '次は私が監督やるの。', 'Next up, it is my turn to direct.', [(264, '次は私')], ''), ('kuroki', '楽しそう。私も監督の作品に出たいです。', "That sounds so fun. I want to appear in the director's films again too.", [(266, '楽しそう'), (267, '私も監督の作品に出たいです')], ''), ('reika', 'オーケー！きれいだよ。', 'All done! You look gorgeous.', [(268, 'オーケー！ きれいだよ')], ''), ('reika', 'じゃ、私次の現場あるから先に出るね。', 'Well, I have another shoot next, so I will head out first.', [(269, 'じゃ 私 次の現場あるから 先に出るね')], ''), ('kuroki', 'ありがとうございました。お疲れさまです。', 'Thank you so much. Keep up the great work.', [(270, 'ありがとうございました'), (271, 'お疲れさまです')], ''), ('editor', '黒木さんは一躍人気ですけど、撮影現場はどういう感じなんですか？', 'You shot to stardom overnight—what does it feel like on a film set?', [(274, '一躍人気ですけども'), (276, '撮影現場では どういう感じなんですか')], ''), ('kuroki', '撮影の時には時間と空間の観念が消失してしまいます。', 'When I am filming, all sense of time and space vanishes completely.', [(277, '撮影の時には'), (278, '時間と空間の観念が 消失してしまっておりまして')], ''), ('kuroki', '皆様、どうぞとくとご覧くださいませ。', 'Everyone, please take a good, close look.', [(290, '皆様 どうぞ とくとご覧くださいませ')], ''), ('kuroki', '今日は出血大サービスです。', 'Today is a special treat on the house.', [(291, '今日は出血大サービスです')], ''), ('editor', 'いやあ、今日の会場は一段とウケるね。', "Wow, today's studio crowd is loving every second of this.", [(298, 'いやあ 今日の会場は一段とウケるね')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'The director's new films have become the talk of the town, haven't they.'"), (1, None, "'Yeah, they seem to be selling really well, though we are exhausted.'"), (2, None, "'Next up, it is my turn to direct.'"), (3, None, "'That sounds so fun. I want to appear in the director's films again too.'"), (4, None, "'All done! You look gorgeous.'"), (5, None, "'Well, I have another shoot next, so I will head out first.'"), (6, None, "'Thank you so much. Keep up the great work.'"), (7, None, "'You shot to stardom overnight—what does it feel like on a film set?'"), (8, None, "'When I am filming, all sense of time and space vanishes completely.'"), (9, None, "'Everyone, please take a good, close look.'"), (10, None, "'Today is a special treat on the house.'"), (11, None, "'Wow, today's studio crowd is loving every second of this.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "wadai" for hot topic to "otsukaresama" for thanking coworkers, you know warm backstage Japanese expressions. See you soon!'
+CLOSING = ('kuroki', 'またね。')

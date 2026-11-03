@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e07-scene-06'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 7
+SCENE = 6
+TITLE = 'これが私らしい在り方なんです  (This Is Who I Truly Am)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'ikezawa': '池沢', 'kuroki': '黒木'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E07'
+SOURCE_FILE = 'sources/the-naked-director/s01/e07.ja.srt'
+
+INTRO = 'Summoned to Poseidon headquarters, Kuroki hears Ikezawa offer twenty million yen for an exclusive contract—enough to help both her mother and Muranishi—before rejecting his demand to alter her body. Listen for "tenshoku", one\'s true calling in life.'
+STORY = [('ikezawa', '今日君がここに来たことを素直に喜んでいいよな？', 'Can I take your coming here today as good news?', [(191, '今日 君がここに来たことを 素直に喜んでいいよな')], ''), ('ikezawa', 'アダルトビデオは君の天職だ。', 'Adult video is your true calling.', [(192, 'アダルトビデオは君の天職だ')], ''), ('ikezawa', '自分でもそれを確信してるんだろ？', "You are convinced of that yourself, aren't you?", [(193, '自分でも それを確信してるんだろ')], ''), ('kuroki', 'そうかもしれません。', 'Perhaps that is true.', [(194, 'そうかもしれません')], ''), ('ikezawa', 'だったら話は簡単だ。うちと専属契約しなさい。', 'Then it is a simple talk. Sign an exclusive contract with us.', [(195, 'だったら話は簡単だ'), (196, 'うちと専属契約しなさい')], ''), ('ikezawa', '契約金は二千万円。', 'The signing bonus is twenty million yen.', [(197, '契約金は')], ''), ('ikezawa', 'それだけあればお母さんも安心して暮らせる。', 'With that much money, your mother can live with peace of mind too.', [(198, 'それだけあれば お母さんも安心して暮らせる')], ''), ('ikezawa', '助けたい人間も救えるんじゃないか？', "And couldn't you also rescue the person you want to save?", [(199, '助けたい人間も 救えるんじゃないか')], ''), ('kuroki', 'できません。', 'I cannot do that.', [(202, 'できません')], ''), ('kuroki', 'これが私らしい在り方なんです。', 'This is my authentic way of being.', [(203, 'これが私らしい在り方なんです')], ''), ('ikezawa', 'うちの美学とは合わないんだよ。いいからすぐに剃りなさい。', 'It does not fit our aesthetic. Just do as I say and shave right away.', [(204, 'うちの美学とは合わないんだよ'), (205, 'いいから すぐに 剃りなさい')], ''), ('ikezawa', '全員が幸せになれる提案だよ、これは。', 'This is a proposal that makes everyone happy.', [(206, '全員が'), (207, '幸せになれる提案だよ これは')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Can I take your coming here today as good news?'"), (1, None, "'Adult video is your true calling.'"), (2, None, "'You are convinced of that yourself, aren't you?'"), (3, None, "'Perhaps that is true.'"), (4, None, "'Then it is a simple talk. Sign an exclusive contract with us.'"), (5, None, "'The signing bonus is twenty million yen.'"), (6, None, "'With that much money, your mother can live with peace of mind too.'"), (7, None, "'And couldn't you also rescue the person you want to save?'"), (8, None, "'I cannot do that.'"), (9, None, "'This is my authentic way of being.'"), (10, None, "'It does not fit our aesthetic. Just do as I say and shave right away.'"), (11, None, "'This is a proposal that makes everyone happy.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "tenshoku" for calling to "bigaku" for aesthetic philosophy, you can follow principled standoffs in Japanese. Until next time!'
+CLOSING = ('kuroki', 'さようなら。')

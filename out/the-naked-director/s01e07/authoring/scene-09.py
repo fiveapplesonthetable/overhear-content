@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e07-scene-09'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 7
+SCENE = 9
+TITLE = '私が表に出て宣伝活動をします  (I Will Step Forward and Promote It Myself)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'kuroki': '黒木'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E07'
+SOURCE_FILE = 'sources/the-naked-director/s01/e07.ja.srt'
+
+INTRO = 'Kuroki visits Kawada at the office, explains why she rejected Ikezawa\'s Poseidon offer, and volunteers to step into the public eye herself to promote her film and rescue Muranishi. Listen for "senden", publicity or promotion.'
+STORY = [('kawada', 'どう？留学の準備は。', 'How are your preparations for studying abroad going?', [(298, 'どう？\u3000留学の準備は')], ''), ('kuroki', '村西監督が逮捕される前、私電話してたんです。', 'Right before Director Muranishi was arrested, I spoke with him by phone.', [(299, '村西監督が逮捕される前'), (300, '私 電話してたんです')], ''), ('kuroki', '最高傑作ができたから私に見せたいって、うれしそうに言ってたんです。', 'He happily told me he had made a masterpiece and wanted to show it to me.', [(303, '最高傑作ができたから 私に見せたいって'), (304, 'うれしそうに言ってたんです')], ''), ('kuroki', '池沢という方にスカウトされていたんですが、一生分かり合えないと思います。', "A man named Ikezawa scouted me, but I don't think he and I will ever understand each other.", [(308, '池沢という方に スカウトされていたので'), (311, '一生分かり合えないと思います')], ''), ('kuroki', '監督を一生このままにしておく気ですか？', 'Are you planning to leave the director locked up like this forever?', [(316, '監督を一生 このままにしておく気ですか')], ''), ('kawada', '監督を救うには大金が必要なんだ。俺だけじゃ集めらんない。', 'Rescuing the director takes huge money. I cannot raise it on my own.', [(317, '監督を救うには大金が必要なんだ'), (320, '俺だけじゃ集めらんない')], ''), ('kuroki', '私の作品を販売したらダメですか？私じっとしてられないんです。', "Can't you sell my film? I cannot just sit still and do nothing.", [(321, '私の作品を販売したらダメですか'), (323, '私 じっとしてられないんです')], ''), ('kuroki', '母なら私が何とかします。覚悟はできてますから！', 'I will handle my mother myself. My resolve is already set!', [(325, '母なら私が何とかします 覚悟はできてますから')], ''), ('kawada', 'ただ販売するには、必ずヒットするってことを示さないと。', 'Still, to get stores to carry it, we must prove it will definitely be a hit.', [(328, '販売するには'), (329, '必ずヒットするってことを 示さないと')], ''), ('kuroki', 'だったら私が表に出て宣伝活動をします、自分で。', 'Then I will step out in public and promote the film myself.', [(331, 'だったら 私が 表に出て 宣伝活動をします 自分で')], ''), ('kawada', '家族の人生を巻き込むことになるぞ？', "That will drag your family's lives into it too, you know?", [(333, '家族の人生を 巻き込むことになるぞ')], ''), ('kuroki', '村西監督と一緒ならイメージだって変えられます。', 'Together with Director Muranishi, we can change public perceptions too.', [(339, '村西監督と一緒なら'), (340, 'イメージだって 変えられます')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'How are your preparations for studying abroad going?'"), (1, None, "'Right before Director Muranishi was arrested, I spoke with him by phone.'"), (2, None, "'He happily told me he had made a masterpiece and wanted to show it to me.'"), (3, None, "'A man named Ikezawa scouted me, but I don't think he and I will ever understand each other.'"), (4, None, "'Are you planning to leave the director locked up like this forever?'"), (5, None, "'Rescuing the director takes huge money. I cannot raise it on my own.'"), (6, None, "'Can't you sell my film? I cannot just sit still and do nothing.'"), (7, None, "'I will handle my mother myself. My resolve is already set!'"), (8, None, "'Still, to get stores to carry it, we must prove it will definitely be a hit.'"), (9, None, "'Then I will step out in public and promote the film myself.'"), (10, None, "'That will drag your family's lives into it too, you know?'"), (11, None, "'Together with Director Muranishi, we can change public perceptions too.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "kessaku" for masterpiece and "senden" for promotion, you can express bold determination in Japanese. Until next time!'
+CLOSING = ('kuroki', 'またね。')
