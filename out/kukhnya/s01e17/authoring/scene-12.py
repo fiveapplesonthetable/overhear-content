@@ -45,7 +45,7 @@ WALK = [
     (9, None, '\'It\'s a gadget for slicing ham really thin.\' "Shtuka" is a casual "thing" or "gadget", handy when you don\'t know a word. "Narezka" means slicing.'),
     (10, None, '\'And there I was thinking: buy him this slicer.\' "Ya-to dumal" with "-to" means "and I thought", with a shrug. "Kupi", buy, is said to himself; "emu", to him, means Senya.'),
     (11, None, '\'Let the man cut his slices.\' "Puskay" means "let", as in "let him". "Lomtikami" is "in slices", from "lomtik", a slice.'),
-    (12, None, '\'After all, somebody here has to come up with dishes!\' "V kontse kontsov" is literally "at the end of ends". "Kto-to", somebody, is "kto", who, with "-to".'),
-    (13, None, '\'Off you go, chef impersonator.\' "Idi otsyuda" is literally "go from here", a blunt "get out". "Imitator" is the same word as in English.'),
-    (14, None, '\'Goodbye.\' "Do svidaniya" is literally "until seeing again", the polite goodbye to someone you call "vy".'),
+    (12, None, '\'After all, somebody here has to come up with dishes!\' "V kontse kontsov" literally says "at the end of ends". "Kto-to", somebody, is "kto", who, with "-to".'),
+    (13, None, '\'Off you go, chef impersonator.\' "Idi otsyuda" literally means "go from here", a blunt "get out". "Imitator" echoes the word as in English.'),
+    (14, None, '\'Goodbye.\' "Do svidaniya" literally reads "until seeing again", the polite goodbye to someone you call "vy".'),
 ]

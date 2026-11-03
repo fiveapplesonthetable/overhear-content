@@ -810,95 +810,25 @@
     },
     {
       "seg": 16,
-      "trans": "recession",
+      "trans": "Good morning.",
       "words": [
         {
-          "t": "不景気",
-          "lemma": "不景気",
-          "pos": "noun",
+          "t": "おはよう。",
+          "lemma": "おはよう",
+          "pos": "interj",
           "stress": null,
-          "gloss": "recession",
-          "gram": "noun",
+          "gloss": "good morning",
+          "gram": "interjection",
           "span": [
             0,
-            3
+            5
           ],
-          "reading": "フケイキ"
+          "reading": "オハヨウ"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "is (plain) / man; isn't it",
-      "words": [
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is (plain)",
-          "gram": "plain copula",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "ダ"
-        },
-        {
-          "t": "なあ",
-          "lemma": "なあ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "man; isn't it",
-          "gram": "sentence-final particle",
-          "span": [
-            1,
-            3
-          ],
-          "reading": "ナア"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "Good morning.",
-      "words": [
-        {
-          "t": "おはよう。",
-          "lemma": "おはよう",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "good morning",
-          "gram": "interjection",
-          "span": [
-            0,
-            5
-          ],
-          "reading": "オハヨウ"
-        }
-      ]
-    },
-    {
-      "seg": 22,
-      "trans": "Good morning.",
-      "words": [
-        {
-          "t": "おはよう。",
-          "lemma": "おはよう",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "good morning",
-          "gram": "interjection",
-          "span": [
-            0,
-            5
-          ],
-          "reading": "オハヨウ"
-        }
-      ]
-    },
-    {
-      "seg": 24,
       "trans": "Stop humming like that.",
       "words": [
         {
@@ -943,64 +873,7 @@
       ]
     },
     {
-      "seg": 26,
-      "trans": "humming",
-      "words": [
-        {
-          "t": "鼻歌",
-          "lemma": "鼻歌",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "humming",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ハナウタ"
-        }
-      ]
-    },
-    {
-      "seg": 28,
-      "trans": "things like",
-      "words": [
-        {
-          "t": "なんか",
-          "lemma": "なんか",
-          "pos": "part",
-          "stress": null,
-          "gloss": "things like",
-          "gram": "colloquial particle",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ナンカ"
-        }
-      ]
-    },
-    {
-      "seg": 30,
-      "trans": "stop!",
-      "words": [
-        {
-          "t": "やめろ",
-          "lemma": "やめる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "stop!",
-          "gram": "verb (imperative)",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ヤメロ"
-        }
-      ]
-    },
-    {
-      "seg": 32,
+      "seg": 20,
       "trans": "Why?",
       "words": [
         {
@@ -1045,8 +918,679 @@
       ]
     },
     {
+      "seg": 22,
+      "trans": "Are you actually doing your job properly?",
+      "words": [
+        {
+          "t": "仕事",
+          "lemma": "仕事",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "work; job",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "シゴト"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "ちゃんと",
+          "lemma": "ちゃんと",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "properly",
+          "gram": "adverb",
+          "span": [
+            3,
+            7
+          ],
+          "reading": "チャント"
+        },
+        {
+          "t": "やっ",
+          "lemma": "やる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do",
+          "gram": "verb (te-form)",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "ヤッ"
+        },
+        {
+          "t": "てる",
+          "lemma": "てる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is doing",
+          "gram": "aspectual auxiliary",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "テル"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "explanatory",
+          "gram": "nominalizer",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "か",
+          "lemma": "か",
+          "pos": "part",
+          "stress": null,
+          "gloss": "question marker",
+          "gram": "question particle",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "カ"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "Of course.",
+      "words": [
+        {
+          "t": "もちろん。",
+          "lemma": "もちろん",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "of course",
+          "gram": "adverb",
+          "span": [
+            0,
+            5
+          ],
+          "reading": "モチロン"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "I'm going to be teaming up with the top salesman.",
+      "words": [
+        {
+          "t": "営業",
+          "lemma": "営業",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "sales",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "エイギョウ"
+        },
+        {
+          "t": "トップ",
+          "lemma": "トップ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "top",
+          "gram": "noun",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "トップ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "of",
+          "gram": "attributive particle",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "人",
+          "lemma": "人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "person",
+          "gram": "noun",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ヒト"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "with",
+          "gram": "comitative particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "組む",
+          "lemma": "組む",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "team up; partner",
+          "gram": "verb (plain)",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "クム"
+        },
+        {
+          "t": "こと",
+          "lemma": "こと",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "matter; fact",
+          "gram": "nominalizer",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "コト"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "to (result)",
+          "gram": "case particle",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "なっ",
+          "lemma": "なる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "become; be decided",
+          "gram": "verb (ta-form)",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "ナッ"
+        },
+        {
+          "t": "た",
+          "lemma": "た",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "past tense",
+          "gram": "past auxiliary",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "タ"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "My boss has high expectations for me.",
+      "words": [
+        {
+          "t": "上司",
+          "lemma": "上司",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "boss; superior",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ジョウシ"
+        },
+        {
+          "t": "から",
+          "lemma": "から",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "from; by",
+          "gram": "source particle",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "カラ"
+        },
+        {
+          "t": "期待",
+          "lemma": "期待",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "expectation",
+          "gram": "noun",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "キタイ"
+        },
+        {
+          "t": "さ",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do",
+          "gram": "verb (irrealis)",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "サ"
+        },
+        {
+          "t": "れ",
+          "lemma": "れる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "passive",
+          "gram": "passive auxiliary",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "レ"
+        },
+        {
+          "t": "てる",
+          "lemma": "てる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is being",
+          "gram": "aspectual auxiliary",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "テル"
+        },
+        {
+          "t": "ん",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "explanatory",
+          "gram": "nominalizer",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ン"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is (plain)",
+          "gram": "plain copula",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ダ"
+        }
+      ]
+    },
+    {
+      "seg": 30,
+      "trans": "You've got to keep your family satisfied, you hear?",
+      "words": [
+        {
+          "t": "家族",
+          "lemma": "家族",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "family",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カゾク"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "object marker",
+          "gram": "object particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "満足",
+          "lemma": "満足",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "satisfaction",
+          "gram": "noun",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "マンゾク"
+        },
+        {
+          "t": "さ",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "make; do",
+          "gram": "verb (irrealis)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "サ"
+        },
+        {
+          "t": "せ",
+          "lemma": "せる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "make (causative)",
+          "gram": "causative auxiliary",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "セ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "ナイ"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "if",
+          "gram": "conditional particle",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "だめ",
+          "lemma": "だめ",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "no good; must not",
+          "gram": "na-adjective",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "ダメ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is (plain)",
+          "gram": "plain copula",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ダ"
+        },
+        {
+          "t": "ぞ",
+          "lemma": "ぞ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "you hear?",
+          "gram": "sentence-final particle",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ゾ"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "I know, I know.",
+      "words": [
+        {
+          "t": "分かっ",
+          "lemma": "分かる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "understand; know",
+          "gram": "verb (te-form)",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ワカッ"
+        },
+        {
+          "t": "てる",
+          "lemma": "てる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is knowing",
+          "gram": "aspectual auxiliary",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "テル"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "sentence-final particle",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
       "seg": 34,
-      "trans": "why",
+      "trans": "Times are tough, aren't they?",
+      "words": [
+        {
+          "t": "不景気",
+          "lemma": "不景気",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "recession",
+          "gram": "noun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "フケイキ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is (plain)",
+          "gram": "plain copula",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ダ"
+        },
+        {
+          "t": "なあ",
+          "lemma": "なあ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "man; isn't it",
+          "gram": "sentence-final particle",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "ナア"
+        }
+      ]
+    },
+    {
+      "seg": 35,
+      "trans": "Good morning.",
+      "words": [
+        {
+          "t": "おはよう。",
+          "lemma": "おはよう",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "good morning",
+          "gram": "interjection",
+          "span": [
+            0,
+            5
+          ],
+          "reading": "オハヨウ"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "Good morning.",
+      "words": [
+        {
+          "t": "おはよう。",
+          "lemma": "おはよう",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "good morning",
+          "gram": "interjection",
+          "span": [
+            0,
+            5
+          ],
+          "reading": "オハヨウ"
+        }
+      ]
+    },
+    {
+      "seg": 37,
+      "trans": "Stop humming like that.",
+      "words": [
+        {
+          "t": "鼻歌",
+          "lemma": "鼻歌",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "humming",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ハナウタ"
+        },
+        {
+          "t": "なんか",
+          "lemma": "なんか",
+          "pos": "part",
+          "stress": null,
+          "gloss": "things like",
+          "gram": "colloquial particle",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "ナンカ"
+        },
+        {
+          "t": "やめろ",
+          "lemma": "やめる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "stop!",
+          "gram": "verb (imperative)",
+          "span": [
+            5,
+            8
+          ],
+          "reading": "ヤメロ"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "Why?",
       "words": [
         {
           "t": "何で",
@@ -1060,13 +1604,7 @@
             2
           ],
           "reading": "ナンデ"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "is (plain) / emphatic",
-      "words": [
+        },
         {
           "t": "だ",
           "lemma": "だ",
@@ -1075,8 +1613,8 @@
           "gloss": "is (plain)",
           "gram": "plain copula",
           "span": [
-            0,
-            1
+            2,
+            3
           ],
           "reading": "ダ"
         },
@@ -1088,15 +1626,15 @@
           "gloss": "emphatic",
           "gram": "sentence-final particle",
           "span": [
-            1,
-            2
+            3,
+            4
           ],
           "reading": "ヨ"
         }
       ]
     },
     {
-      "seg": 38,
+      "seg": 39,
       "trans": "Are you actually doing your job properly?",
       "words": [
         {
@@ -1194,662 +1732,407 @@
     },
     {
       "seg": 40,
-      "trans": "work; job",
+      "trans": "Of course.",
       "words": [
         {
-          "t": "仕事",
-          "lemma": "仕事",
+          "t": "もちろん。",
+          "lemma": "もちろん",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "of course",
+          "gram": "adverb",
+          "span": [
+            0,
+            5
+          ],
+          "reading": "モチロン"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "I'm going to be teaming up with the top salesman.",
+      "words": [
+        {
+          "t": "営業",
+          "lemma": "営業",
           "pos": "noun",
           "stress": null,
-          "gloss": "work; job",
+          "gloss": "sales",
           "gram": "noun",
           "span": [
             0,
             2
           ],
-          "reading": "シゴト"
+          "reading": "エイギョウ"
+        },
+        {
+          "t": "トップ",
+          "lemma": "トップ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "top",
+          "gram": "noun",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "トップ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "of",
+          "gram": "attributive particle",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "人",
+          "lemma": "人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "person",
+          "gram": "noun",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ヒト"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "with",
+          "gram": "comitative particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "組む",
+          "lemma": "組む",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "team up; partner",
+          "gram": "verb (plain)",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "クム"
+        },
+        {
+          "t": "こと",
+          "lemma": "こと",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "matter; fact",
+          "gram": "nominalizer",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "コト"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "to (result)",
+          "gram": "case particle",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "なっ",
+          "lemma": "なる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "become; be decided",
+          "gram": "verb (ta-form)",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "ナッ"
+        },
+        {
+          "t": "た",
+          "lemma": "た",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "past tense",
+          "gram": "past auxiliary",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "タ"
         }
       ]
     },
     {
       "seg": 42,
-      "trans": "properly",
+      "trans": "My boss has high expectations for me.",
       "words": [
         {
-          "t": "ちゃんと",
-          "lemma": "ちゃんと",
-          "pos": "adv",
+          "t": "上司",
+          "lemma": "上司",
+          "pos": "noun",
           "stress": null,
-          "gloss": "properly",
-          "gram": "adverb",
+          "gloss": "boss; superior",
+          "gram": "noun",
           "span": [
             0,
+            2
+          ],
+          "reading": "ジョウシ"
+        },
+        {
+          "t": "から",
+          "lemma": "から",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "from; by",
+          "gram": "source particle",
+          "span": [
+            2,
             4
           ],
-          "reading": "チャント"
+          "reading": "カラ"
+        },
+        {
+          "t": "期待",
+          "lemma": "期待",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "expectation",
+          "gram": "noun",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "キタイ"
+        },
+        {
+          "t": "さ",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do",
+          "gram": "verb (irrealis)",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "サ"
+        },
+        {
+          "t": "れ",
+          "lemma": "れる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "passive",
+          "gram": "passive auxiliary",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "レ"
+        },
+        {
+          "t": "てる",
+          "lemma": "てる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is being",
+          "gram": "aspectual auxiliary",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "テル"
+        },
+        {
+          "t": "ん",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "explanatory",
+          "gram": "nominalizer",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ン"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is (plain)",
+          "gram": "plain copula",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ダ"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "You've got to keep your family satisfied, you hear?",
+      "words": [
+        {
+          "t": "家族",
+          "lemma": "家族",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "family",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "カゾク"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "object marker",
+          "gram": "object particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "満足",
+          "lemma": "満足",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "satisfaction",
+          "gram": "noun",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "マンゾク"
+        },
+        {
+          "t": "さ",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "make; do",
+          "gram": "verb (irrealis)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "サ"
+        },
+        {
+          "t": "せ",
+          "lemma": "せる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "make (causative)",
+          "gram": "causative auxiliary",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "セ"
+        },
+        {
+          "t": "ない",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negative auxiliary",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "ナイ"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "if",
+          "gram": "conditional particle",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "だめ",
+          "lemma": "だめ",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "no good; must not",
+          "gram": "na-adjective",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "ダメ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is (plain)",
+          "gram": "plain copula",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ダ"
+        },
+        {
+          "t": "ぞ",
+          "lemma": "ぞ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "you hear?",
+          "gram": "sentence-final particle",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ゾ"
         }
       ]
     },
     {
       "seg": 44,
-      "trans": "Of course.",
-      "words": [
-        {
-          "t": "もちろん。",
-          "lemma": "もちろん",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "of course",
-          "gram": "adverb",
-          "span": [
-            0,
-            5
-          ],
-          "reading": "モチロン"
-        }
-      ]
-    },
-    {
-      "seg": 46,
-      "trans": "Of course.",
-      "words": [
-        {
-          "t": "もちろん。",
-          "lemma": "もちろん",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "of course",
-          "gram": "adverb",
-          "span": [
-            0,
-            5
-          ],
-          "reading": "モチロン"
-        }
-      ]
-    },
-    {
-      "seg": 48,
-      "trans": "I'm going to be teaming up with the top salesman.",
-      "words": [
-        {
-          "t": "営業",
-          "lemma": "営業",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "sales",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "エイギョウ"
-        },
-        {
-          "t": "トップ",
-          "lemma": "トップ",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "top",
-          "gram": "noun",
-          "span": [
-            2,
-            5
-          ],
-          "reading": "トップ"
-        },
-        {
-          "t": "の",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "of",
-          "gram": "attributive particle",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "ノ"
-        },
-        {
-          "t": "人",
-          "lemma": "人",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "person",
-          "gram": "noun",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "ヒト"
-        },
-        {
-          "t": "と",
-          "lemma": "と",
-          "pos": "part",
-          "stress": null,
-          "gloss": "with",
-          "gram": "comitative particle",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "ト"
-        },
-        {
-          "t": "組む",
-          "lemma": "組む",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "team up; partner",
-          "gram": "verb (plain)",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "クム"
-        },
-        {
-          "t": "こと",
-          "lemma": "こと",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "matter; fact",
-          "gram": "nominalizer",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "コト"
-        },
-        {
-          "t": "に",
-          "lemma": "に",
-          "pos": "part",
-          "stress": null,
-          "gloss": "to (result)",
-          "gram": "case particle",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "ニ"
-        },
-        {
-          "t": "なっ",
-          "lemma": "なる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "become; be decided",
-          "gram": "verb (ta-form)",
-          "span": [
-            13,
-            15
-          ],
-          "reading": "ナッ"
-        },
-        {
-          "t": "た",
-          "lemma": "た",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "past tense",
-          "gram": "past auxiliary",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "タ"
-        }
-      ]
-    },
-    {
-      "seg": 50,
-      "trans": "team up; partner",
-      "words": [
-        {
-          "t": "組む",
-          "lemma": "組む",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "team up; partner",
-          "gram": "verb (plain)",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "クム"
-        }
-      ]
-    },
-    {
-      "seg": 52,
-      "trans": "matter; fact / to (result) / become; be decided / past tense",
-      "words": [
-        {
-          "t": "こと",
-          "lemma": "こと",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "matter; fact",
-          "gram": "nominalizer",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "コト"
-        },
-        {
-          "t": "に",
-          "lemma": "に",
-          "pos": "part",
-          "stress": null,
-          "gloss": "to (result)",
-          "gram": "case particle",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "ニ"
-        },
-        {
-          "t": "なっ",
-          "lemma": "なる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "become; be decided",
-          "gram": "verb (ta-form)",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "ナッ"
-        },
-        {
-          "t": "た",
-          "lemma": "た",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "past tense",
-          "gram": "past auxiliary",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "タ"
-        }
-      ]
-    },
-    {
-      "seg": 54,
-      "trans": "My boss has high expectations for me.",
-      "words": [
-        {
-          "t": "上司",
-          "lemma": "上司",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "boss; superior",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ジョウシ"
-        },
-        {
-          "t": "から",
-          "lemma": "から",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "from; by",
-          "gram": "source particle",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カラ"
-        },
-        {
-          "t": "期待",
-          "lemma": "期待",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "expectation",
-          "gram": "noun",
-          "span": [
-            4,
-            6
-          ],
-          "reading": "キタイ"
-        },
-        {
-          "t": "さ",
-          "lemma": "する",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "do",
-          "gram": "verb (irrealis)",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "サ"
-        },
-        {
-          "t": "れ",
-          "lemma": "れる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "passive",
-          "gram": "passive auxiliary",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "レ"
-        },
-        {
-          "t": "てる",
-          "lemma": "てる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is being",
-          "gram": "aspectual auxiliary",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "テル"
-        },
-        {
-          "t": "ん",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "explanatory",
-          "gram": "nominalizer",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "ン"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is (plain)",
-          "gram": "plain copula",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "ダ"
-        }
-      ]
-    },
-    {
-      "seg": 56,
-      "trans": "boss; superior",
-      "words": [
-        {
-          "t": "上司",
-          "lemma": "上司",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "boss; superior",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ジョウシ"
-        }
-      ]
-    },
-    {
-      "seg": 58,
-      "trans": "expectation",
-      "words": [
-        {
-          "t": "期待",
-          "lemma": "期待",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "expectation",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "キタイ"
-        }
-      ]
-    },
-    {
-      "seg": 60,
-      "trans": "You've got to keep your family satisfied, you hear?",
-      "words": [
-        {
-          "t": "家族",
-          "lemma": "家族",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "family",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "カゾク"
-        },
-        {
-          "t": "を",
-          "lemma": "を",
-          "pos": "part",
-          "stress": null,
-          "gloss": "object marker",
-          "gram": "object particle",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "オ"
-        },
-        {
-          "t": "満足",
-          "lemma": "満足",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "satisfaction",
-          "gram": "noun",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "マンゾク"
-        },
-        {
-          "t": "さ",
-          "lemma": "する",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "make; do",
-          "gram": "verb (irrealis)",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "サ"
-        },
-        {
-          "t": "せ",
-          "lemma": "せる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "make (causative)",
-          "gram": "causative auxiliary",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "セ"
-        },
-        {
-          "t": "ない",
-          "lemma": "ない",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negative auxiliary",
-          "span": [
-            7,
-            9
-          ],
-          "reading": "ナイ"
-        },
-        {
-          "t": "と",
-          "lemma": "と",
-          "pos": "part",
-          "stress": null,
-          "gloss": "if",
-          "gram": "conditional particle",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "ト"
-        },
-        {
-          "t": "だめ",
-          "lemma": "だめ",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "no good; must not",
-          "gram": "na-adjective",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "ダメ"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is (plain)",
-          "gram": "plain copula",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "ダ"
-        },
-        {
-          "t": "ぞ",
-          "lemma": "ぞ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "you hear?",
-          "gram": "sentence-final particle",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "ゾ"
-        }
-      ]
-    },
-    {
-      "seg": 62,
-      "trans": "satisfaction",
-      "words": [
-        {
-          "t": "満足",
-          "lemma": "満足",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "satisfaction",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "マンゾク"
-        }
-      ]
-    },
-    {
-      "seg": 64,
-      "trans": "no good; must not",
-      "words": [
-        {
-          "t": "だめ",
-          "lemma": "だめ",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "no good; must not",
-          "gram": "na-adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ダメ"
-        }
-      ]
-    },
-    {
-      "seg": 66,
-      "trans": "not / if / no good; must not",
-      "words": [
-        {
-          "t": "ない",
-          "lemma": "ない",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negative auxiliary",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ナイ"
-        },
-        {
-          "t": "と",
-          "lemma": "と",
-          "pos": "part",
-          "stress": null,
-          "gloss": "if",
-          "gram": "conditional particle",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "ト"
-        },
-        {
-          "t": "だめ",
-          "lemma": "だめ",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "no good; must not",
-          "gram": "na-adjective",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "ダメ"
-        }
-      ]
-    },
-    {
-      "seg": 68,
       "trans": "I know, I know.",
       "words": [
         {
@@ -1894,768 +2177,7 @@
       ]
     },
     {
-      "seg": 70,
-      "trans": "I know, I know.",
-      "words": [
-        {
-          "t": "分かっ",
-          "lemma": "分かる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "understand; know",
-          "gram": "verb (te-form)",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ワカッ"
-        },
-        {
-          "t": "てる",
-          "lemma": "てる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is knowing",
-          "gram": "aspectual auxiliary",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "テル"
-        },
-        {
-          "t": "よ",
-          "lemma": "よ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "you know",
-          "gram": "sentence-final particle",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "ヨ"
-        }
-      ]
-    },
-    {
-      "seg": 72,
-      "trans": "Times are tough, aren't they?",
-      "words": [
-        {
-          "t": "不景気",
-          "lemma": "不景気",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "recession",
-          "gram": "noun",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "フケイキ"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is (plain)",
-          "gram": "plain copula",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "ダ"
-        },
-        {
-          "t": "なあ",
-          "lemma": "なあ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "man; isn't it",
-          "gram": "sentence-final particle",
-          "span": [
-            4,
-            6
-          ],
-          "reading": "ナア"
-        }
-      ]
-    },
-    {
-      "seg": 73,
-      "trans": "Good morning.",
-      "words": [
-        {
-          "t": "おはよう。",
-          "lemma": "おはよう",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "good morning",
-          "gram": "interjection",
-          "span": [
-            0,
-            5
-          ],
-          "reading": "オハヨウ"
-        }
-      ]
-    },
-    {
-      "seg": 74,
-      "trans": "Good morning.",
-      "words": [
-        {
-          "t": "おはよう。",
-          "lemma": "おはよう",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "good morning",
-          "gram": "interjection",
-          "span": [
-            0,
-            5
-          ],
-          "reading": "オハヨウ"
-        }
-      ]
-    },
-    {
-      "seg": 75,
-      "trans": "Stop humming like that.",
-      "words": [
-        {
-          "t": "鼻歌",
-          "lemma": "鼻歌",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "humming",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ハナウタ"
-        },
-        {
-          "t": "なんか",
-          "lemma": "なんか",
-          "pos": "part",
-          "stress": null,
-          "gloss": "things like",
-          "gram": "colloquial particle",
-          "span": [
-            2,
-            5
-          ],
-          "reading": "ナンカ"
-        },
-        {
-          "t": "やめろ",
-          "lemma": "やめる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "stop!",
-          "gram": "verb (imperative)",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "ヤメロ"
-        }
-      ]
-    },
-    {
-      "seg": 76,
-      "trans": "Why?",
-      "words": [
-        {
-          "t": "何で",
-          "lemma": "なんで",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "why",
-          "gram": "adverb",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ナンデ"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is (plain)",
-          "gram": "plain copula",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "ダ"
-        },
-        {
-          "t": "よ",
-          "lemma": "よ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "emphatic",
-          "gram": "sentence-final particle",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "ヨ"
-        }
-      ]
-    },
-    {
-      "seg": 77,
-      "trans": "Are you actually doing your job properly?",
-      "words": [
-        {
-          "t": "仕事",
-          "lemma": "仕事",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "work; job",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "シゴト"
-        },
-        {
-          "t": "は",
-          "lemma": "は",
-          "pos": "part",
-          "stress": null,
-          "gloss": "topic marker",
-          "gram": "topic particle",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "ワ"
-        },
-        {
-          "t": "ちゃんと",
-          "lemma": "ちゃんと",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "properly",
-          "gram": "adverb",
-          "span": [
-            3,
-            7
-          ],
-          "reading": "チャント"
-        },
-        {
-          "t": "やっ",
-          "lemma": "やる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "do",
-          "gram": "verb (te-form)",
-          "span": [
-            7,
-            9
-          ],
-          "reading": "ヤッ"
-        },
-        {
-          "t": "てる",
-          "lemma": "てる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is doing",
-          "gram": "aspectual auxiliary",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "テル"
-        },
-        {
-          "t": "の",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "explanatory",
-          "gram": "nominalizer",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "ノ"
-        },
-        {
-          "t": "か",
-          "lemma": "か",
-          "pos": "part",
-          "stress": null,
-          "gloss": "question marker",
-          "gram": "question particle",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "カ"
-        }
-      ]
-    },
-    {
-      "seg": 78,
-      "trans": "Of course.",
-      "words": [
-        {
-          "t": "もちろん。",
-          "lemma": "もちろん",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "of course",
-          "gram": "adverb",
-          "span": [
-            0,
-            5
-          ],
-          "reading": "モチロン"
-        }
-      ]
-    },
-    {
-      "seg": 79,
-      "trans": "I'm going to be teaming up with the top salesman.",
-      "words": [
-        {
-          "t": "営業",
-          "lemma": "営業",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "sales",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "エイギョウ"
-        },
-        {
-          "t": "トップ",
-          "lemma": "トップ",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "top",
-          "gram": "noun",
-          "span": [
-            2,
-            5
-          ],
-          "reading": "トップ"
-        },
-        {
-          "t": "の",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "of",
-          "gram": "attributive particle",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "ノ"
-        },
-        {
-          "t": "人",
-          "lemma": "人",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "person",
-          "gram": "noun",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "ヒト"
-        },
-        {
-          "t": "と",
-          "lemma": "と",
-          "pos": "part",
-          "stress": null,
-          "gloss": "with",
-          "gram": "comitative particle",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "ト"
-        },
-        {
-          "t": "組む",
-          "lemma": "組む",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "team up; partner",
-          "gram": "verb (plain)",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "クム"
-        },
-        {
-          "t": "こと",
-          "lemma": "こと",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "matter; fact",
-          "gram": "nominalizer",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "コト"
-        },
-        {
-          "t": "に",
-          "lemma": "に",
-          "pos": "part",
-          "stress": null,
-          "gloss": "to (result)",
-          "gram": "case particle",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "ニ"
-        },
-        {
-          "t": "なっ",
-          "lemma": "なる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "become; be decided",
-          "gram": "verb (ta-form)",
-          "span": [
-            13,
-            15
-          ],
-          "reading": "ナッ"
-        },
-        {
-          "t": "た",
-          "lemma": "た",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "past tense",
-          "gram": "past auxiliary",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "タ"
-        }
-      ]
-    },
-    {
-      "seg": 80,
-      "trans": "My boss has high expectations for me.",
-      "words": [
-        {
-          "t": "上司",
-          "lemma": "上司",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "boss; superior",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ジョウシ"
-        },
-        {
-          "t": "から",
-          "lemma": "から",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "from; by",
-          "gram": "source particle",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カラ"
-        },
-        {
-          "t": "期待",
-          "lemma": "期待",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "expectation",
-          "gram": "noun",
-          "span": [
-            4,
-            6
-          ],
-          "reading": "キタイ"
-        },
-        {
-          "t": "さ",
-          "lemma": "する",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "do",
-          "gram": "verb (irrealis)",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "サ"
-        },
-        {
-          "t": "れ",
-          "lemma": "れる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "passive",
-          "gram": "passive auxiliary",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "レ"
-        },
-        {
-          "t": "てる",
-          "lemma": "てる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is being",
-          "gram": "aspectual auxiliary",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "テル"
-        },
-        {
-          "t": "ん",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "explanatory",
-          "gram": "nominalizer",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "ン"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is (plain)",
-          "gram": "plain copula",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "ダ"
-        }
-      ]
-    },
-    {
-      "seg": 81,
-      "trans": "You've got to keep your family satisfied, you hear?",
-      "words": [
-        {
-          "t": "家族",
-          "lemma": "家族",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "family",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "カゾク"
-        },
-        {
-          "t": "を",
-          "lemma": "を",
-          "pos": "part",
-          "stress": null,
-          "gloss": "object marker",
-          "gram": "object particle",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "オ"
-        },
-        {
-          "t": "満足",
-          "lemma": "満足",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "satisfaction",
-          "gram": "noun",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "マンゾク"
-        },
-        {
-          "t": "さ",
-          "lemma": "する",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "make; do",
-          "gram": "verb (irrealis)",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "サ"
-        },
-        {
-          "t": "せ",
-          "lemma": "せる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "make (causative)",
-          "gram": "causative auxiliary",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "セ"
-        },
-        {
-          "t": "ない",
-          "lemma": "ない",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negative auxiliary",
-          "span": [
-            7,
-            9
-          ],
-          "reading": "ナイ"
-        },
-        {
-          "t": "と",
-          "lemma": "と",
-          "pos": "part",
-          "stress": null,
-          "gloss": "if",
-          "gram": "conditional particle",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "ト"
-        },
-        {
-          "t": "だめ",
-          "lemma": "だめ",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "no good; must not",
-          "gram": "na-adjective",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "ダメ"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is (plain)",
-          "gram": "plain copula",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "ダ"
-        },
-        {
-          "t": "ぞ",
-          "lemma": "ぞ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "you hear?",
-          "gram": "sentence-final particle",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "ゾ"
-        }
-      ]
-    },
-    {
-      "seg": 82,
-      "trans": "I know, I know.",
-      "words": [
-        {
-          "t": "分かっ",
-          "lemma": "分かる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "understand; know",
-          "gram": "verb (te-form)",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ワカッ"
-        },
-        {
-          "t": "てる",
-          "lemma": "てる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is knowing",
-          "gram": "aspectual auxiliary",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "テル"
-        },
-        {
-          "t": "よ",
-          "lemma": "よ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "you know",
-          "gram": "sentence-final particle",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "ヨ"
-        }
-      ]
-    },
-    {
-      "seg": 83,
+      "seg": 45,
       "trans": "Are you really going to be okay?",
       "words": [
         {
@@ -2700,7 +2222,7 @@
       ]
     },
     {
-      "seg": 85,
+      "seg": 47,
       "trans": "See you later.",
       "words": [
         {

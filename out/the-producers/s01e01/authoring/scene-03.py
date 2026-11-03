@@ -30,14 +30,14 @@ STORY = [
 OPENER = "Let's step through Tae-ho's welcome and Seung-chan's book mishap."
 
 WALK = [
-    (0, None, "'Nice to meet you, I'm PD Kim Tae-ho of the variety department.' Speaking as a senior boss to brand-new recruits, Tae-ho drops polite endings and opens with the plain casual form of 'nice to meet you'. He also uses the contracted form of 'as for me', and pronounces 'PD'—a television producer-director—the Korean way It comes from this."),
-    (1, None, "'I was first, I'm the original Kim Tae-ho.' He uses the word for 'first' or 'ahead in time', settling who had the name earlier. Korean restaurants love printing the word for 'the original founder' on their signs, and Tae-ho borrows that exact word for himself It comes from this."),
-    (2, None, "'Yes!' Even when a boss speaks casually, a rookie answers back with the polite word for 'yes'. That mismatch in speech levels is completely normal in a Korean workplace It is a handy word."),
-    (3, None, "'Today the schedule is busy.' Switching smoothly to a polite ending for instructions, Tae-ho pairs the word for 'schedule' with 'is busy'. Swap 'schedule' for 'today' to say 'I am busy today' The word doubles the."),
-    (4, None, "'There is a book called What Is a Variety PD.' Shamelessly plugging his own writing, he uses the word for 'book' in the phrase for 'there is a book'. attaching the naming word after a title works just like English 'called' or 'titled' It comes from this."),
-    (5, None, "'I bought it when preparing for the PD exam.' In his side interview, Seung-chan combines the word 'to prepare' with the word for 'when'. He then uses the past-word for 'bought', with a sentence ending that signals a funny twist is coming next This literally means that."),
-    (6, None, "'Besides me, there are lots of people like that.' Putting the expression for 'besides' or 'other than' right after the humble word for 'me' gives you a handy chunk. He adds the word meaning 'there are many' — everyone mistook the author for MBC's famous Kim Tae-ho It is a handy word."),
-    (7, None, "'Because I wrote my name in it, I couldn't return it.' He pairs the word for 'name' with a compound form of 'write' that adds a rueful 'went and wrote it, regrettably'. That ruined his chance at a store return We built from this."),
+    (0, None, "'Nice to meet you, I'm PD Kim Tae-ho of the variety department.' Speaking as a senior boss to brand-new recruits, Tae-ho drops polite endings and opens with the plain casual form of 'nice to meet you'. He also uses the contracted form of 'as for me', and pronounces 'PD' — a television producer-director — the Korean way."),
+    (1, None, "'I was first, I'm the original Kim Tae-ho.' He uses an everyday word meaning 'first' or 'ahead in time' to settle who had the name earlier. Famous Korean restaurants love printing the term for 'the original founder' on their signs, and Tae-ho borrows that exact badge for himself."),
+    (2, None, "'Yes!' Even when a boss speaks casually, a rookie answers back with the polite version of 'yes'. That mismatch in speech levels is completely normal in a Korean workplace."),
+    (3, None, "'Today the schedule is busy.' Switching smoothly to a polite ending for instructions, Tae-ho pairs the noun meaning 'schedule' with 'is busy'. Swap in 'I' or 'work' in front of 'is busy' whenever your own day fills up."),
+    (4, None, "'There is a book called What Is a Variety PD.' Shamelessly plugging his own writing, he uses the phrase meaning 'there is a book'. Attaching a quoting ending right after the title works just like English 'called' or 'titled'."),
+    (5, None, "'I bought it when preparing for the PD exam.' In his side interview, Seung-chan combines 'to prepare' with the pattern meaning 'when doing something'. He then uses the past form meaning 'bought', with a trailing ending that signals a funny twist is coming next."),
+    (6, None, "'Besides me, there are lots of people like that.' Putting the expression meaning 'besides' or 'other than' right after the humble word for 'me' gives you a handy chunk. He finishes with 'there are many' — everyone mistook the author for MBC's famous Kim Tae-ho."),
+    (7, None, "'Because I wrote my name in it, I couldn't return it.' He pairs 'name' with a compound form of 'write' that adds a rueful 'went and wrote it, regrettably'. That ruined his chance at a store return."),
 ]
 
 TRANSITION = "Now let's hear the lobby introduction again at full speed."

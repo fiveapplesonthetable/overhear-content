@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's unpack the eight lines of Joon-mo's talk with Tae-ho."
 
 WALK = [
-    (0, None, "'What happens to me? Am I getting blown away too?' First comes the question 'what becomes of me?'. Then comes a word that literally means 'to fly away in the wind' — colorful workplace slang for losing your post! The word doubles the."),
-    (1, None, "'You aren't getting blown away.' Tae-ho reassures him with a casual contraction meaning 'as for you', followed by the negated word. Placing the negative marker right before the action flips 'fly away' into 'you're staying put' The word doubles the."),
-    (2, None, "'Just put together a new cast first and jump back in.' It opens with an word meaning 'first of all' or 'for starters', a lifesaver when breaking big tasks into step one. Korean variety shows use a loanword for their regular cast, paired with a phrase meaning to assemble a fresh lineup It comes from this."),
-    (3, None, "'Starting when?' Combine the question word for 'when' with the word for 'from' or 'starting at', and tack on the polite ending. Three words in English, one compact Korean chunk The word doubles the."),
-    (4, None, "'What do you mean starting when, right this second!' Echoing a question with a dismissive 'what...' brushes it aside as obvious: 'what do you mean, when?!'. Then pairing 'now' with 'immediately' delivers 'right this instant!' Notice the word for."),
-    (5, None, "'The most urgent thing right now is telling the cast members quickly.' The subject phrase means 'the most urgent thing', built on the word for 'urgent'. Then come the word for 'quickly' and a word meaning to let people know official news We built from this."),
-    (6, None, "'When a show starts, it looks like a first-birthday party, right?' Turning to the documentary crew, Joon-mo compares a launch to Korea's joyful celebration of a baby's first birthday, where guests crowd in with blessings Swap in this word."),
-    (7, None, "'When the curtain comes down on a show, it feels like a funeral home.' Here he uses the idiom for 'bringing down a stage curtain'. Against that joyful first-birthday celebration, he sets a house in mourning — and Tae-ho loves the metaphor so much he tells the crew not to edit it out! Swap in this word."),
+    (0, None, "'What happens to me? Am I getting blown away too?' First comes the anxious question 'what becomes of me?'. Then comes an expression that literally means 'to fly away in the wind' — vivid workplace slang for losing your post!"),
+    (1, None, "'You aren't getting blown away.' Tae-ho reassures him with a casual contraction meaning 'as for you', followed by the negated form. Placing that short negative word right before the action flips 'fly away' into 'you are staying put'."),
+    (2, None, "'Just put together a new cast first and jump back in.' He opens with a handy word meaning 'first of all' or 'for starters', a lifesaver when breaking big tasks into step one. Korean variety shows borrow English 'member' for their regular cast, paired here with 'assemble freshly'."),
+    (3, None, "'Starting when?' Combine the question word meaning 'when' with the marker for 'from' or 'starting at', and tack on the polite ending. Three words in English, one compact Korean chunk."),
+    (4, None, "'What do you mean starting when, right this second!' Echoing a question with a dismissive 'what...' brushes it aside as obvious: 'what do you mean, when?!'. Then pairing 'now' with 'immediately' delivers 'right this instant!'."),
+    (5, None, "'The most urgent thing right now is telling the cast members quickly.' The opening phrase means 'the most urgent thing', built from the word meaning 'urgent'. Then come 'quickly' and an expression meaning to break news officially."),
+    (6, None, "'When a show starts, it looks like a first-birthday party, right?' Turning to the documentary crew, Joon-mo compares a premiere to Korea's traditional celebration for a baby's first birthday, followed by a polite tag meaning 'looks like it, right?'."),
+    (7, None, "'When the curtain comes down on a show, it feels like a funeral home.' Here he uses the theatre idiom that literally means 'lowering the stage curtain'. Against that joyful first-birthday feast, he sets the compound noun for a house in mourning — and Tae-ho tells the crew not to edit it out!"),
 ]
 
 TRANSITION = "Now let's listen to the whole conversation in Tae-ho's office again."

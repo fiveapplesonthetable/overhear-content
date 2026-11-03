@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's walk through the eight lines of Seung-chan's confession."
 
 WALK = [
-    (0, None, "'Getting this today makes it feel real.' Pointing at his new employee badge, Seung-chan pairs a real-life sense with a word meaning 'comes up'. Before that, a connector links 'since I received this' directly to the feeling Notice the word for."),
-    (1, None, "'I withdrew it in cash and gave it all to my mother.' In Korean, the word for withdrawing cash literally means 'finding' money at the bank — the everyday way to say taking out cash. Rather than plain giving, he chooses the respectful gift word reserved for elders like one's mother We built from this."),
-    (2, None, "'She cried when she got it.' No 'she' is needed in Korean when everyone knows who is meant. The first word chains 'received and then' to the crying word, whose ending recalls a touching moment the speaker witnessed firsthand It is a handy word."),
-    (3, None, "'Do you have a reason you can't say?' The cameraman gently probes why Seung-chan chose variety. Placing the negation marker for 'cannot' before the word 'to do' turns 'to speak' into 'unable to say aloud' It comes from this."),
-    (4, None, "'Ah, no.' Just as Korean has a standard polite word for 'yes', this is your polite, all-purpose 'no'. Keep the polite ending at the end whenever you answer someone older or on the job It is a handy word."),
-    (5, None, "'Someone I like is in the variety department.' Instead, of the plain word for person, Seung-chan chooses an honorific word to refer to someone respectfully, saying 'a person I like', followed by the name for the television variety department It is a handy word."),
-    (6, None, "'I just wanted to be close by.' Starting with 'just' or 'simply' downplays a big admission so it sounds shy rather than dramatic, followed by 'close by' and the word ending that explains 'because I wanted to' It is a handy word."),
-    (7, None, "'If she had become a reporter, you would have taken the reporter exam.' Earlier Seung-chan mentioned she was an older female friend or senior from college. The cameraman teases him about the journalist entrance exam, and Korean says 'see an exam' where English says 'take an exam' It is a handy word."),
+    (0, None, "'Getting this today makes it feel real.' Pointing at his new employee badge, Seung-chan pairs the noun for a real-life sense with a word meaning 'comes up'. Before that, a connector links 'since I received this' directly to the feeling."),
+    (1, None, "'I withdrew it in cash and gave it all to my mother.' In Korean, the everyday expression for withdrawing cash literally means 'finding' money at the bank. Rather than plain giving, he chooses the respectful verb reserved for elders like one's mother."),
+    (2, None, "'She cried when she got it.' No 'she' is needed in Korean when everyone knows who is meant. The first word chains 'received and then' to 'cried', whose retrospective ending recalls a touching moment the speaker witnessed firsthand."),
+    (3, None, "'Do you have a reason you can't say?' The cameraman gently probes why Seung-chan chose variety. Placing the marker meaning 'cannot' inside the phrase for 'to speak' turns it into 'a reason you cannot say aloud'."),
+    (4, None, "'Ah, no.' Just as Korean has a standard polite word meaning 'yes', this is your polite, all-purpose 'no'. Keep that courteous ending whenever you answer someone older or on the job."),
+    (5, None, "'Someone I like is in the variety department.' Instead of the plain word meaning 'person', Seung-chan chooses an honorific word to refer to someone respectfully, saying 'a person I like', followed by the television variety department."),
+    (6, None, "'I just wanted to be close by.' Opening with the little word meaning 'just' or 'simply' downplays a big admission so it sounds shy rather than dramatic, followed by 'close by' and an ending meaning 'because I wanted to'."),
+    (7, None, "'If she had become a reporter, you would have taken the reporter exam.' Earlier Seung-chan mentioned an older female friend from college, using the warm term a younger man uses for an older sister or female senior. Notice too how Korean literally says 'see an exam' where English says 'take an exam'."),
 ]
 
 TRANSITION = "Now let's listen to the whole interview from start to finish."

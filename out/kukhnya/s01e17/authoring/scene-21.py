@@ -28,8 +28,8 @@ WALK = [
     (0, None, '\'Well, look at that.\' "Opa-na" is a playful "whoa", the sound of a pleasant surprise.'),
     (1, None, '\'Maxim, please forgive us for ruining your party.\' "Prosti" is "forgive" said to one person. "Isportili", spoiled, is plural because she speaks for two.'),
     (2, None, '\'Please forgive them.\' Now Vika asks on behalf of the pair: "ikh" means them.'),
-    (3, None, '\'And me too. So, are we done?\' "Menya" means me. "Tak, vsyo?" is literally "so, all?", meaning "is that it?".'),
-    (4, None, '\'Is the conflict over?\' "Ischerpan" is literally "drained to the bottom", a formal way to say a matter is closed.'),
+    (3, None, '\'And me too. So, are we done?\' "Menya" means me. "Tak, vsyo?" word-for-word means "so, all?", meaning "is that it?".'),
+    (4, None, '\'Is the conflict over?\' "Ischerpan" literally says "drained to the bottom", a formal way to say a matter is closed.'),
     (5, None, '\'For now, until somebody messes up again.\' "Poka" with "ne" means "until". "Nakosyachit" is slang for "to mess up", from "kosyak", a blunder.'),
     (6, None, '\'Nastya, bring a glass.\' "Prinesi" is "bring" said to one person you call "ty". "Bokal" is a wine glass, not a tumbler.'),
 ]

@@ -26,12 +26,12 @@ STORY = [
     ('fedya', 'Я ещё вернусь.', "I'll be back.", [], ''),
 ]
 WALK = [
-    (0, None, "'Pack your things.' 'Sobiraytes' is literally 'gather yourselves': '-sya' means 'oneself' and '-te' makes it polite. It also means 'get ready to go'."),
+    (0, None, "'Pack your things.' 'Sobiraytes' word-for-word means 'gather yourselves': '-sya' means 'oneself' and '-te' makes it polite. It also means 'get ready to go'."),
     (1, None, "'Where to?' Russian has two words for 'where': 'gde' for a place and 'kuda' for a direction. Fedya asks 'kuda', 'where to'."),
     (2, None, "'Home, to Moldova.' 'Domoy' already means 'to home', so it needs no preposition. 'V Moldovu', 'to Moldova', has the '-u' ending for movement into a place."),
     (3, None, "'Is there really nothing to be done?' 'Neuzheli' means 'can it really be', a word of disbelief. 'Nichego nelzya sdelat', 'nothing can be done', is a stock phrase."),
-    (4, None, "'I'm sorry, it's my duty.' 'Izvinite' is the polite 'excuse me' or 'I'm sorry'. 'Dolg' means 'duty', and the same word means 'debt'."),
-    (5, None, "'Chef, I'm really sorry.' 'Mne zhal' is literally 'to me it is a pity', so the feeling happens to you. 'Ochen' means 'very'."),
-    (6, None, "'It's not your fault at all.' 'Ni v chyom ne vinovat' is literally 'not guilty in anything'. Russian stacks 'ni' and 'ne' in one sentence, and that's correct."),
+    (4, None, "'I'm sorry, it's my duty.' 'Izvinite' gives the polite 'excuse me' or 'I'm sorry'. 'Dolg' means 'duty', and the same word means 'debt'."),
+    (5, None, "'Chef, I'm really sorry.' 'Mne zhal' literally says 'to me it is a pity', so the feeling happens to you. 'Ochen' means 'very'."),
+    (6, None, "'It's not your fault at all.' 'Ni v chyom ne vinovat' literally means 'not guilty in anything'. Russian stacks 'ni' and 'ne' in one sentence, and that's correct."),
     (7, None, "'I'll be back.' 'Vernus' means 'I will return', from 'vernutsya', 'to come back'. 'Eshchyo', 'yet' or 'still', adds 'you haven't seen the last of me'."),
 ]

@@ -31,14 +31,14 @@ STORY = [
     ('max', 'Договорились, вечером я принесу своё блюдо!', 'It is a deal, tonight I will bring my dish!', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, this is simply amazing pâté!' A long word, but a real compliment: 'potryasayushchiy' is built on 'potryasat'', to shake or to stun. 'Prosto' here means 'simply', not 'easy'."),
+    (0, None, "'Chef, this is simply amazing pâté!' A long word, but a real compliment: 'potryasayushchiy' comes out of 'potryasat'', to shake or to stun. 'Prosto' here means 'simply', not 'easy'."),
     (1, None, "'This is my signature recipe.' Restaurants love the word 'firmenny': a 'firmennoe blyudo' is the house speciality, the dish a place is known for. It is related to 'firma', a company."),
     (2, None, "'And what goes into it?' 'Vkhodit', 'goes in', is built from 'v', 'in', and 'khodit', 'to walk'. Russians use it for ingredients, and also for what a price includes."),
     (3, None, "'This is a secret that will die with me.' 'Kotory', 'which' or 'that', links the two halves. 'Vmeste so mnoy' is 'together with me', and 's' grows an o before 'mnoy'."),
-    (4, None, "'At least tell me one secret ingredient.' 'Khotya by', 'at least', is said with one stress, 'khotyaby'. 'Skazhite' is the polite 'vy' command 'tell'."),
-    (5, None, "'You will never guess.' 'Tebe ne dogadatsya' is literally 'to you not to guess', a flat way of saying something is beyond you. 'Nikogda', 'never', and 'ne' happily sit side by side."),
+    (4, None, "'At least tell me one secret ingredient.' 'Khotya by', 'at least', is said with one stress, 'khotyaby'. 'Skazhite' carries a polite 'vy' command 'tell'."),
+    (5, None, "'You will never guess.' 'Tebe ne dogadatsya' word-for-word means 'to you not to guess', a flat way of saying something is beyond you. 'Nikogda', 'never', and 'ne' happily sit side by side."),
     (6, None, "'I can make one like it myself.' 'Sam', 'myself', sits right after 'ya mogu', 'I can'. 'Takoy', 'such' or 'like it', stands in for the pâté so he does not repeat the word."),
-    (7, None, "'Do you seriously want to bet with me?' 'Sporit' means both 'to argue' and 'to bet', and the situation tells you which. 'So mnoy', 'with me', is the same as in the secret line."),
+    (7, None, "'Do you seriously want to bet with me?' 'Sporit' means both 'to argue' and 'to bet', and the situation tells you which. 'So mnoy', 'with me', echoes the as in the secret line."),
     (8, None, "'Yes, tonight I will recreate your pâté.' 'Vecherom', 'in the evening', is 'vecher', 'evening', with '-om' added, the way 'utrom' is 'in the morning'."),
     (9, None, "'Here, take a piece.' 'Kusochek' is 'kusok', 'a piece', made small and friendly. A 'kusochek torta' is a little slice of cake."),
     (10, None, "'If I guess, will you give me a day off?' Unlike English, Russian keeps the future after 'esli', 'if': 'ugadayu' is 'I will guess'. 'Dadite' is 'you will give', polite 'vy' for the chef, and 'vykhodnoy' is a day off."),

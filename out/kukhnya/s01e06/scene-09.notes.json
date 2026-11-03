@@ -722,20 +722,6 @@
     },
     {
       "seg": 16,
-      "trans": "immediately",
-      "words": [
-        {
-          "t": "немедленно",
-          "lemma": "немедленно",
-          "pos": "adv",
-          "stress": "неме́дленно",
-          "gloss": "immediately",
-          "gram": "adverb"
-        }
-      ]
-    },
-    {
-      "seg": 18,
       "trans": "Good day, I am listening to you very attentively.",
       "words": [
         {
@@ -789,21 +775,7 @@
       ]
     },
     {
-      "seg": 20,
-      "trans": "carefully, attentively",
-      "words": [
-        {
-          "t": "внимательно",
-          "lemma": "внимательно",
-          "pos": "adv",
-          "stress": "внима́тельно",
-          "gloss": "carefully, attentively",
-          "gram": "adverb"
-        }
-      ]
-    },
-    {
-      "seg": 22,
+      "seg": 18,
       "trans": "Look at this, what is that?",
       "words": [
         {
@@ -857,21 +829,7 @@
       ]
     },
     {
-      "seg": 24,
-      "trans": "look",
-      "words": [
-        {
-          "t": "Посмотрите",
-          "lemma": "посмотреть",
-          "pos": "verb",
-          "stress": "посмотри́те",
-          "gloss": "look",
-          "gram": "imperative, 2nd person plural, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 26,
+      "seg": 20,
       "trans": "I see that this is an ordinary hair.",
       "words": [
         {
@@ -925,21 +883,7 @@
       ]
     },
     {
-      "seg": 28,
-      "trans": "ordinary, regular",
-      "words": [
-        {
-          "t": "обычный",
-          "lemma": "обычный",
-          "pos": "adj",
-          "stress": "обы́чный",
-          "gloss": "ordinary, regular",
-          "gram": "masculine singular, nominative"
-        }
-      ]
-    },
-    {
-      "seg": 30,
+      "seg": 22,
       "trans": "I also see this long hair perfectly well!",
       "words": [
         {
@@ -1001,21 +945,7 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "perfect, great",
-      "words": [
-        {
-          "t": "отлично",
-          "lemma": "отлично",
-          "pos": "adv",
-          "stress": "отли́чно",
-          "gloss": "perfect, great",
-          "gram": "adverb"
-        }
-      ]
-    },
-    {
-      "seg": 34,
+      "seg": 24,
       "trans": "Then why are you asking about it?",
       "words": [
         {
@@ -1069,21 +999,7 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "what for",
-      "words": [
-        {
-          "t": "зачем",
-          "lemma": "зачем",
-          "pos": "adv",
-          "stress": "заче́м",
-          "gloss": "what for",
-          "gram": "question word (purpose)"
-        }
-      ]
-    },
-    {
-      "seg": 38,
+      "seg": 26,
       "trans": "How did this hair get onto the plate?",
       "words": [
         {
@@ -1137,21 +1053,7 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "hit",
-      "words": [
-        {
-          "t": "попал",
-          "lemma": "попасть",
-          "pos": "verb",
-          "stress": "попа́л",
-          "gloss": "hit",
-          "gram": "past, masculine singular, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 42,
+      "seg": 28,
       "trans": "Probably it simply fell out of your head.",
       "words": [
         {
@@ -1213,16 +1115,666 @@
       ]
     },
     {
-      "seg": 44,
-      "trans": "probably",
+      "seg": 30,
+      "trans": "Such a long hair cannot be mine!",
       "words": [
         {
-          "t": "Вероятно",
+          "t": "Такой",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́й",
+          "gloss": "such, so",
+          "gram": "masculine, nominative singular"
+        },
+        {
+          "t": "длинный",
+          "lemma": "длинный",
+          "pos": "adj",
+          "stress": "дли́нный",
+          "gloss": "long",
+          "gram": "masculine singular accusative"
+        },
+        {
+          "t": "волос",
+          "lemma": "волос",
+          "pos": "noun",
+          "stress": "во́лос",
+          "gloss": "hair",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "может",
+          "lemma": "мочь",
+          "pos": "verb",
+          "stress": "мо́жет",
+          "gloss": "can",
+          "gram": "present, 3rd person singular, imperfective"
+        },
+        {
+          "t": "быть",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
+        },
+        {
+          "t": "моим!",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": "мои́м",
+          "gloss": "my",
+          "gram": "instrumental singular, masculine / neuter"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "Then probably it fell out of a beard.",
+      "words": [
+        {
+          "t": "Тогда,",
+          "lemma": "тогда",
+          "pos": "adv",
+          "stress": "тогда́",
+          "gloss": "back then",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "наверное,",
+          "lemma": "наверное",
+          "pos": "adv",
+          "stress": "наве́рное",
+          "gloss": "probably",
+          "gram": "parenthetical adverb"
+        },
+        {
+          "t": "он",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "выпал",
+          "lemma": "выпасть",
+          "pos": "verb",
+          "stress": "вы́пал",
+          "gloss": "fell out",
+          "gram": "masculine singular past (perfective)"
+        },
+        {
+          "t": "из",
+          "lemma": "из",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from/out of",
+          "gram": "preposition with genitive"
+        },
+        {
+          "t": "бороды.",
+          "lemma": "борода",
+          "pos": "noun",
+          "stress": "бороды́",
+          "gloss": "beard",
+          "gram": "feminine singular genitive"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "I do not have a beard, call the chef!",
+      "words": [
+        {
+          "t": "У",
+          "lemma": "у",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "меня",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́",
+          "gloss": "me",
+          "gram": "1st person singular, genitive"
+        },
+        {
+          "t": "нет",
+          "lemma": "нет",
+          "pos": "part",
+          "stress": null,
+          "gloss": "no",
+          "gram": "negative answer"
+        },
+        {
+          "t": "бороды,",
+          "lemma": "борода",
+          "pos": "noun",
+          "stress": "бороды́",
+          "gloss": "beard",
+          "gram": "feminine singular genitive"
+        },
+        {
+          "t": "позовите",
+          "lemma": "позвать",
+          "pos": "verb",
+          "stress": "позови́те",
+          "gloss": "call",
+          "gram": "2nd person plural imperative"
+        },
+        {
+          "t": "шефа!",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": "ше́фа",
+          "gloss": "chef",
+          "gram": "genitive singular"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "Fine, I will call the head chef right now.",
+      "words": [
+        {
+          "t": "Хорошо,",
+          "lemma": "хорошо",
+          "pos": "adv",
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "сейчас",
+          "lemma": "сейчас",
+          "pos": "adv",
+          "stress": "сейча́с",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "позову",
+          "lemma": "позвать",
+          "pos": "verb",
+          "stress": "позову́",
+          "gloss": "will call",
+          "gram": "1st person singular future"
+        },
+        {
+          "t": "шеф-повара.",
+          "lemma": "шеф-повар",
+          "pos": "noun",
+          "stress": "шеф-по́вара",
+          "gloss": "head chef",
+          "gram": "masculine singular, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "Miss, come over to our table immediately!",
+      "words": [
+        {
+          "t": "Девушка,",
+          "lemma": "девушка",
+          "pos": "noun",
+          "stress": "де́вушка",
+          "gloss": "girlfriend",
+          "gram": "nominative singular, feminine"
+        },
+        {
+          "t": "подойдите",
+          "lemma": "подойти",
+          "pos": "verb",
+          "stress": "подойди́те",
+          "gloss": "come over",
+          "gram": "2nd person plural imperative"
+        },
+        {
+          "t": "немедленно",
+          "lemma": "немедленно",
+          "pos": "adv",
+          "stress": "неме́дленно",
+          "gloss": "immediately",
+          "gram": "adverb"
+        },
+        {
+          "t": "к",
+          "lemma": "к",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "to, towards",
+          "gram": "preposition + dative"
+        },
+        {
+          "t": "нашему",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́шему",
+          "gloss": "to our",
+          "gram": "masculine singular, dative"
+        },
+        {
+          "t": "столу!",
+          "lemma": "стол",
+          "pos": "noun",
+          "stress": "столу́",
+          "gloss": "table",
+          "gram": "masculine dative"
+        }
+      ]
+    },
+    {
+      "seg": 39,
+      "trans": "Good day, I am listening to you very attentively.",
+      "words": [
+        {
+          "t": "Добрый",
+          "lemma": "добрый",
+          "pos": "adj",
+          "stress": "до́брый",
+          "gloss": "good",
+          "gram": "nominative singular, masculine"
+        },
+        {
+          "t": "день,",
+          "lemma": "день",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "day",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "слушаю",
+          "lemma": "слушать",
+          "pos": "verb",
+          "stress": "слу́шаю",
+          "gloss": "I'm listening",
+          "gram": "present, 1st person singular, imperfective"
+        },
+        {
+          "t": "вас",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural / polite, accusative"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "внимательно.",
+          "lemma": "внимательно",
+          "pos": "adv",
+          "stress": "внима́тельно",
+          "gloss": "carefully, attentively",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "Look at this, what is that?",
+      "words": [
+        {
+          "t": "Посмотрите",
+          "lemma": "посмотреть",
+          "pos": "verb",
+          "stress": "посмотри́те",
+          "gloss": "look",
+          "gram": "imperative, 2nd person plural, perfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "это,",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "такое?",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́е",
+          "gloss": "(what) on earth",
+          "gram": "nominative singular, neuter; что такое = what is"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "I see that this is an ordinary hair.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "вижу,",
+          "lemma": "видеть",
+          "pos": "verb",
+          "stress": "ви́жу",
+          "gloss": "see",
+          "gram": "present, 1st person singular, imperfective"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "обычный",
+          "lemma": "обычный",
+          "pos": "adj",
+          "stress": "обы́чный",
+          "gloss": "ordinary, regular",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "волос.",
+          "lemma": "волос",
+          "pos": "noun",
+          "stress": "во́лос",
+          "gloss": "hair",
+          "gram": "masculine accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "I also see this long hair perfectly well!",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "тоже",
+          "lemma": "тоже",
+          "pos": "adv",
+          "stress": "то́же",
+          "gloss": "too",
+          "gram": "adverb"
+        },
+        {
+          "t": "отлично",
+          "lemma": "отлично",
+          "pos": "adv",
+          "stress": "отли́чно",
+          "gloss": "perfect, great",
+          "gram": "adverb"
+        },
+        {
+          "t": "вижу",
+          "lemma": "видеть",
+          "pos": "verb",
+          "stress": "ви́жу",
+          "gloss": "see",
+          "gram": "present, 1st person singular, imperfective"
+        },
+        {
+          "t": "этот",
+          "lemma": "этот",
+          "pos": "det",
+          "stress": "э́тот",
+          "gloss": "this",
+          "gram": "accusative singular, masculine"
+        },
+        {
+          "t": "длинный",
+          "lemma": "длинный",
+          "pos": "adj",
+          "stress": "дли́нный",
+          "gloss": "long",
+          "gram": "masculine singular accusative"
+        },
+        {
+          "t": "волос!",
+          "lemma": "волос",
+          "pos": "noun",
+          "stress": "во́лос",
+          "gloss": "hair",
+          "gram": "masculine accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "Then why are you asking about it?",
+      "words": [
+        {
+          "t": "Тогда",
+          "lemma": "тогда",
+          "pos": "adv",
+          "stress": "тогда́",
+          "gloss": "back then",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "зачем",
+          "lemma": "зачем",
+          "pos": "adv",
+          "stress": "заче́м",
+          "gloss": "what for",
+          "gram": "question word (purpose)"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "об",
+          "lemma": "о",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "about",
+          "gram": "preposition + prepositional"
+        },
+        {
+          "t": "этом",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́том",
+          "gloss": "that",
+          "gram": "demonstrative pronoun, prepositional"
+        },
+        {
+          "t": "спрашиваете?",
+          "lemma": "спрашивать",
+          "pos": "verb",
+          "stress": "спра́шиваете",
+          "gloss": "are asking",
+          "gram": "2nd person plural present"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "How did this hair get onto the plate?",
+      "words": [
+        {
+          "t": "Как",
+          "lemma": "как",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "how",
+          "gram": "question word"
+        },
+        {
+          "t": "этот",
+          "lemma": "этот",
+          "pos": "det",
+          "stress": "э́тот",
+          "gloss": "this",
+          "gram": "accusative singular, masculine"
+        },
+        {
+          "t": "волос",
+          "lemma": "волос",
+          "pos": "noun",
+          "stress": "во́лос",
+          "gloss": "hair",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "попал",
+          "lemma": "попасть",
+          "pos": "verb",
+          "stress": "попа́л",
+          "gloss": "hit",
+          "gram": "past, masculine singular, perfective"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "тарелку?",
+          "lemma": "тарелка",
+          "pos": "noun",
+          "stress": "таре́лку",
+          "gloss": "plate, platter, dish",
+          "gram": "noun f acc"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "Probably it simply fell out of your head.",
+      "words": [
+        {
+          "t": "Вероятно,",
           "lemma": "вероятно",
           "pos": "adv",
           "stress": "вероя́тно",
           "gloss": "probably",
           "gram": "parenthetical adverb"
+        },
+        {
+          "t": "он",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "просто",
+          "lemma": "просто",
+          "pos": "adv",
+          "stress": "про́сто",
+          "gloss": "just",
+          "gram": "adverb"
+        },
+        {
+          "t": "выпал",
+          "lemma": "выпасть",
+          "pos": "verb",
+          "stress": "вы́пал",
+          "gloss": "fell out",
+          "gram": "masculine singular past (perfective)"
+        },
+        {
+          "t": "из",
+          "lemma": "из",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from/out of",
+          "gram": "preposition with genitive"
+        },
+        {
+          "t": "вашей",
+          "lemma": "ваш",
+          "pos": "det",
+          "stress": "ва́шей",
+          "gloss": "your (formal)",
+          "gram": "genitive singular, feminine"
+        },
+        {
+          "t": "головы.",
+          "lemma": "голова",
+          "pos": "noun",
+          "stress": "головы́",
+          "gloss": "of the head",
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -1289,89 +1841,61 @@
       ]
     },
     {
+      "seg": 47,
+      "trans": "Then probably it fell out of a beard.",
+      "words": [
+        {
+          "t": "Тогда,",
+          "lemma": "тогда",
+          "pos": "adv",
+          "stress": "тогда́",
+          "gloss": "back then",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "наверное,",
+          "lemma": "наверное",
+          "pos": "adv",
+          "stress": "наве́рное",
+          "gloss": "probably",
+          "gram": "parenthetical adverb"
+        },
+        {
+          "t": "он",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "выпал",
+          "lemma": "выпасть",
+          "pos": "verb",
+          "stress": "вы́пал",
+          "gloss": "fell out",
+          "gram": "masculine singular past (perfective)"
+        },
+        {
+          "t": "из",
+          "lemma": "из",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from/out of",
+          "gram": "preposition with genitive"
+        },
+        {
+          "t": "бороды.",
+          "lemma": "борода",
+          "pos": "noun",
+          "stress": "бороды́",
+          "gloss": "beard",
+          "gram": "feminine singular genitive"
+        }
+      ]
+    },
+    {
       "seg": 48,
-      "trans": "such, so",
-      "words": [
-        {
-          "t": "Такой",
-          "lemma": "такой",
-          "pos": "pron",
-          "stress": "тако́й",
-          "gloss": "such, so",
-          "gram": "masculine, nominative singular"
-        }
-      ]
-    },
-    {
-      "seg": 50,
-      "trans": "Then probably it fell out of a beard.",
-      "words": [
-        {
-          "t": "Тогда,",
-          "lemma": "тогда",
-          "pos": "adv",
-          "stress": "тогда́",
-          "gloss": "back then",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "наверное,",
-          "lemma": "наверное",
-          "pos": "adv",
-          "stress": "наве́рное",
-          "gloss": "probably",
-          "gram": "parenthetical adverb"
-        },
-        {
-          "t": "он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "выпал",
-          "lemma": "выпасть",
-          "pos": "verb",
-          "stress": "вы́пал",
-          "gloss": "fell out",
-          "gram": "masculine singular past (perfective)"
-        },
-        {
-          "t": "из",
-          "lemma": "из",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from/out of",
-          "gram": "preposition with genitive"
-        },
-        {
-          "t": "бороды.",
-          "lemma": "борода",
-          "pos": "noun",
-          "stress": "бороды́",
-          "gloss": "beard",
-          "gram": "feminine singular genitive"
-        }
-      ]
-    },
-    {
-      "seg": 52,
-      "trans": "probably",
-      "words": [
-        {
-          "t": "наверное",
-          "lemma": "наверное",
-          "pos": "adv",
-          "stress": "наве́рное",
-          "gloss": "probably",
-          "gram": "parenthetical adverb"
-        }
-      ]
-    },
-    {
-      "seg": 54,
       "trans": "I do not have a beard, call the chef!",
       "words": [
         {
@@ -1425,21 +1949,7 @@
       ]
     },
     {
-      "seg": 56,
-      "trans": "call",
-      "words": [
-        {
-          "t": "позовите",
-          "lemma": "позвать",
-          "pos": "verb",
-          "stress": "позови́те",
-          "gloss": "call",
-          "gram": "2nd person plural imperative"
-        }
-      ]
-    },
-    {
-      "seg": 58,
+      "seg": 49,
       "trans": "Fine, I will call the head chef right now.",
       "words": [
         {
@@ -1485,685 +1995,7 @@
       ]
     },
     {
-      "seg": 60,
-      "trans": "good, fine",
-      "words": [
-        {
-          "t": "Хорошо",
-          "lemma": "хорошо",
-          "pos": "adv",
-          "stress": "хорошо́",
-          "gloss": "good, fine",
-          "gram": "adverb used as an answer"
-        }
-      ]
-    },
-    {
-      "seg": 62,
-      "trans": "Miss, come over to our table immediately!",
-      "words": [
-        {
-          "t": "Девушка,",
-          "lemma": "девушка",
-          "pos": "noun",
-          "stress": "де́вушка",
-          "gloss": "girlfriend",
-          "gram": "nominative singular, feminine"
-        },
-        {
-          "t": "подойдите",
-          "lemma": "подойти",
-          "pos": "verb",
-          "stress": "подойди́те",
-          "gloss": "come over",
-          "gram": "2nd person plural imperative"
-        },
-        {
-          "t": "немедленно",
-          "lemma": "немедленно",
-          "pos": "adv",
-          "stress": "неме́дленно",
-          "gloss": "immediately",
-          "gram": "adverb"
-        },
-        {
-          "t": "к",
-          "lemma": "к",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "to, towards",
-          "gram": "preposition + dative"
-        },
-        {
-          "t": "нашему",
-          "lemma": "наш",
-          "pos": "det",
-          "stress": "на́шему",
-          "gloss": "to our",
-          "gram": "masculine singular, dative"
-        },
-        {
-          "t": "столу!",
-          "lemma": "стол",
-          "pos": "noun",
-          "stress": "столу́",
-          "gloss": "table",
-          "gram": "masculine dative"
-        }
-      ]
-    },
-    {
-      "seg": 63,
-      "trans": "Good day, I am listening to you very attentively.",
-      "words": [
-        {
-          "t": "Добрый",
-          "lemma": "добрый",
-          "pos": "adj",
-          "stress": "до́брый",
-          "gloss": "good",
-          "gram": "nominative singular, masculine"
-        },
-        {
-          "t": "день,",
-          "lemma": "день",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "day",
-          "gram": "masculine accusative singular"
-        },
-        {
-          "t": "слушаю",
-          "lemma": "слушать",
-          "pos": "verb",
-          "stress": "слу́шаю",
-          "gloss": "I'm listening",
-          "gram": "present, 1st person singular, imperfective"
-        },
-        {
-          "t": "вас",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "внимательно.",
-          "lemma": "внимательно",
-          "pos": "adv",
-          "stress": "внима́тельно",
-          "gloss": "carefully, attentively",
-          "gram": "adverb"
-        }
-      ]
-    },
-    {
-      "seg": 64,
-      "trans": "Look at this, what is that?",
-      "words": [
-        {
-          "t": "Посмотрите",
-          "lemma": "посмотреть",
-          "pos": "verb",
-          "stress": "посмотри́те",
-          "gloss": "look",
-          "gram": "imperative, 2nd person plural, perfective"
-        },
-        {
-          "t": "на",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "это,",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "что",
-          "lemma": "что",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "what",
-          "gram": "relative pronoun, accusative"
-        },
-        {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "такое?",
-          "lemma": "такой",
-          "pos": "pron",
-          "stress": "тако́е",
-          "gloss": "(what) on earth",
-          "gram": "nominative singular, neuter; что такое = what is"
-        }
-      ]
-    },
-    {
-      "seg": 65,
-      "trans": "I see that this is an ordinary hair.",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "вижу,",
-          "lemma": "видеть",
-          "pos": "verb",
-          "stress": "ви́жу",
-          "gloss": "see",
-          "gram": "present, 1st person singular, imperfective"
-        },
-        {
-          "t": "что",
-          "lemma": "что",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "what",
-          "gram": "relative pronoun, accusative"
-        },
-        {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "обычный",
-          "lemma": "обычный",
-          "pos": "adj",
-          "stress": "обы́чный",
-          "gloss": "ordinary, regular",
-          "gram": "masculine singular, nominative"
-        },
-        {
-          "t": "волос.",
-          "lemma": "волос",
-          "pos": "noun",
-          "stress": "во́лос",
-          "gloss": "hair",
-          "gram": "masculine accusative singular"
-        }
-      ]
-    },
-    {
-      "seg": 66,
-      "trans": "I also see this long hair perfectly well!",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "тоже",
-          "lemma": "тоже",
-          "pos": "adv",
-          "stress": "то́же",
-          "gloss": "too",
-          "gram": "adverb"
-        },
-        {
-          "t": "отлично",
-          "lemma": "отлично",
-          "pos": "adv",
-          "stress": "отли́чно",
-          "gloss": "perfect, great",
-          "gram": "adverb"
-        },
-        {
-          "t": "вижу",
-          "lemma": "видеть",
-          "pos": "verb",
-          "stress": "ви́жу",
-          "gloss": "see",
-          "gram": "present, 1st person singular, imperfective"
-        },
-        {
-          "t": "этот",
-          "lemma": "этот",
-          "pos": "det",
-          "stress": "э́тот",
-          "gloss": "this",
-          "gram": "accusative singular, masculine"
-        },
-        {
-          "t": "длинный",
-          "lemma": "длинный",
-          "pos": "adj",
-          "stress": "дли́нный",
-          "gloss": "long",
-          "gram": "masculine singular accusative"
-        },
-        {
-          "t": "волос!",
-          "lemma": "волос",
-          "pos": "noun",
-          "stress": "во́лос",
-          "gloss": "hair",
-          "gram": "masculine accusative singular"
-        }
-      ]
-    },
-    {
-      "seg": 67,
-      "trans": "Then why are you asking about it?",
-      "words": [
-        {
-          "t": "Тогда",
-          "lemma": "тогда",
-          "pos": "adv",
-          "stress": "тогда́",
-          "gloss": "back then",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "зачем",
-          "lemma": "зачем",
-          "pos": "adv",
-          "stress": "заче́м",
-          "gloss": "what for",
-          "gram": "question word (purpose)"
-        },
-        {
-          "t": "вы",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
-        },
-        {
-          "t": "об",
-          "lemma": "о",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "about",
-          "gram": "preposition + prepositional"
-        },
-        {
-          "t": "этом",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́том",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, prepositional"
-        },
-        {
-          "t": "спрашиваете?",
-          "lemma": "спрашивать",
-          "pos": "verb",
-          "stress": "спра́шиваете",
-          "gloss": "are asking",
-          "gram": "2nd person plural present"
-        }
-      ]
-    },
-    {
-      "seg": 68,
-      "trans": "How did this hair get onto the plate?",
-      "words": [
-        {
-          "t": "Как",
-          "lemma": "как",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
-        },
-        {
-          "t": "этот",
-          "lemma": "этот",
-          "pos": "det",
-          "stress": "э́тот",
-          "gloss": "this",
-          "gram": "accusative singular, masculine"
-        },
-        {
-          "t": "волос",
-          "lemma": "волос",
-          "pos": "noun",
-          "stress": "во́лос",
-          "gloss": "hair",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "попал",
-          "lemma": "попасть",
-          "pos": "verb",
-          "stress": "попа́л",
-          "gloss": "hit",
-          "gram": "past, masculine singular, perfective"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "тарелку?",
-          "lemma": "тарелка",
-          "pos": "noun",
-          "stress": "таре́лку",
-          "gloss": "plate, platter, dish",
-          "gram": "noun f acc"
-        }
-      ]
-    },
-    {
-      "seg": 69,
-      "trans": "Probably it simply fell out of your head.",
-      "words": [
-        {
-          "t": "Вероятно,",
-          "lemma": "вероятно",
-          "pos": "adv",
-          "stress": "вероя́тно",
-          "gloss": "probably",
-          "gram": "parenthetical adverb"
-        },
-        {
-          "t": "он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "просто",
-          "lemma": "просто",
-          "pos": "adv",
-          "stress": "про́сто",
-          "gloss": "just",
-          "gram": "adverb"
-        },
-        {
-          "t": "выпал",
-          "lemma": "выпасть",
-          "pos": "verb",
-          "stress": "вы́пал",
-          "gloss": "fell out",
-          "gram": "masculine singular past (perfective)"
-        },
-        {
-          "t": "из",
-          "lemma": "из",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from/out of",
-          "gram": "preposition with genitive"
-        },
-        {
-          "t": "вашей",
-          "lemma": "ваш",
-          "pos": "det",
-          "stress": "ва́шей",
-          "gloss": "your (formal)",
-          "gram": "genitive singular, feminine"
-        },
-        {
-          "t": "головы.",
-          "lemma": "голова",
-          "pos": "noun",
-          "stress": "головы́",
-          "gloss": "of the head",
-          "gram": "genitive singular, feminine"
-        }
-      ]
-    },
-    {
-      "seg": 70,
-      "trans": "Such a long hair cannot be mine!",
-      "words": [
-        {
-          "t": "Такой",
-          "lemma": "такой",
-          "pos": "pron",
-          "stress": "тако́й",
-          "gloss": "such, so",
-          "gram": "masculine, nominative singular"
-        },
-        {
-          "t": "длинный",
-          "lemma": "длинный",
-          "pos": "adj",
-          "stress": "дли́нный",
-          "gloss": "long",
-          "gram": "masculine singular accusative"
-        },
-        {
-          "t": "волос",
-          "lemma": "волос",
-          "pos": "noun",
-          "stress": "во́лос",
-          "gloss": "hair",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "может",
-          "lemma": "мочь",
-          "pos": "verb",
-          "stress": "мо́жет",
-          "gloss": "can",
-          "gram": "present, 3rd person singular, imperfective"
-        },
-        {
-          "t": "быть",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be",
-          "gram": "infinitive, imperfective"
-        },
-        {
-          "t": "моим!",
-          "lemma": "мой",
-          "pos": "det",
-          "stress": "мои́м",
-          "gloss": "my",
-          "gram": "instrumental singular, masculine / neuter"
-        }
-      ]
-    },
-    {
-      "seg": 71,
-      "trans": "Then probably it fell out of a beard.",
-      "words": [
-        {
-          "t": "Тогда,",
-          "lemma": "тогда",
-          "pos": "adv",
-          "stress": "тогда́",
-          "gloss": "back then",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "наверное,",
-          "lemma": "наверное",
-          "pos": "adv",
-          "stress": "наве́рное",
-          "gloss": "probably",
-          "gram": "parenthetical adverb"
-        },
-        {
-          "t": "он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "выпал",
-          "lemma": "выпасть",
-          "pos": "verb",
-          "stress": "вы́пал",
-          "gloss": "fell out",
-          "gram": "masculine singular past (perfective)"
-        },
-        {
-          "t": "из",
-          "lemma": "из",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from/out of",
-          "gram": "preposition with genitive"
-        },
-        {
-          "t": "бороды.",
-          "lemma": "борода",
-          "pos": "noun",
-          "stress": "бороды́",
-          "gloss": "beard",
-          "gram": "feminine singular genitive"
-        }
-      ]
-    },
-    {
-      "seg": 72,
-      "trans": "I do not have a beard, call the chef!",
-      "words": [
-        {
-          "t": "У",
-          "lemma": "у",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "at, near, with",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "меня",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "меня́",
-          "gloss": "me",
-          "gram": "1st person singular, genitive"
-        },
-        {
-          "t": "нет",
-          "lemma": "нет",
-          "pos": "part",
-          "stress": null,
-          "gloss": "no",
-          "gram": "negative answer"
-        },
-        {
-          "t": "бороды,",
-          "lemma": "борода",
-          "pos": "noun",
-          "stress": "бороды́",
-          "gloss": "beard",
-          "gram": "feminine singular genitive"
-        },
-        {
-          "t": "позовите",
-          "lemma": "позвать",
-          "pos": "verb",
-          "stress": "позови́те",
-          "gloss": "call",
-          "gram": "2nd person plural imperative"
-        },
-        {
-          "t": "шефа!",
-          "lemma": "шеф",
-          "pos": "noun",
-          "stress": "ше́фа",
-          "gloss": "chef",
-          "gram": "genitive singular"
-        }
-      ]
-    },
-    {
-      "seg": 73,
-      "trans": "Fine, I will call the head chef right now.",
-      "words": [
-        {
-          "t": "Хорошо,",
-          "lemma": "хорошо",
-          "pos": "adv",
-          "stress": "хорошо́",
-          "gloss": "good, fine",
-          "gram": "adverb used as an answer"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "сейчас",
-          "lemma": "сейчас",
-          "pos": "adv",
-          "stress": "сейча́с",
-          "gloss": "now",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "позову",
-          "lemma": "позвать",
-          "pos": "verb",
-          "stress": "позову́",
-          "gloss": "will call",
-          "gram": "1st person singular future"
-        },
-        {
-          "t": "шеф-повара.",
-          "lemma": "шеф-повар",
-          "pos": "noun",
-          "stress": "шеф-по́вара",
-          "gloss": "head chef",
-          "gram": "masculine singular, accusative"
-        }
-      ]
-    },
-    {
-      "seg": 75,
+      "seg": 51,
       "trans": "Bye!",
       "words": [
         {

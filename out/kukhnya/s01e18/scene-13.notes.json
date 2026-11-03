@@ -184,10 +184,10 @@
         },
         {
           "t": "есть",
-          "lemma": "быть",
+          "lemma": "есть",
           "pos": "verb",
           "stress": null,
-          "gloss": "there is (у меня есть = I have)",
+          "gloss": "to eat",
           "gram": "present, the form есть, imperfective"
         },
         {
@@ -648,10 +648,10 @@
         },
         {
           "t": "есть",
-          "lemma": "быть",
+          "lemma": "есть",
           "pos": "verb",
           "stress": null,
-          "gloss": "there is (у меня есть = I have)",
+          "gloss": "to eat",
           "gram": "present, the form есть, imperfective"
         },
         {
@@ -1112,10 +1112,10 @@
         },
         {
           "t": "есть",
-          "lemma": "быть",
+          "lemma": "есть",
           "pos": "verb",
           "stress": null,
-          "gloss": "there is (у меня есть = I have)",
+          "gloss": "to eat",
           "gram": "present, the form есть, imperfective"
         },
         {
@@ -4076,6 +4076,115 @@
           "gloss": "to hold"
         }
       ]
+    },
+    "есть": {
+      "aspect": "impf",
+      "examples": [
+        {
+          "text": "Я вчера ел грибы.",
+          "trans": "Yesterday I ate mushrooms."
+        },
+        {
+          "text": "Что ты ешь?",
+          "trans": "What are you eating?"
+        },
+        {
+          "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
+          "trans": "Yesterday I ate pickled mushrooms. Maybe one mushroom was bad."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ем",
+              "едим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ешь",
+              "едите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ест",
+              "едят"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to eat",
+      "lemma": "есть",
+      "meanings": [
+        {
+          "en": "to eat",
+          "note": "not to be confused with есть 'there is' (from быть)"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "ел",
+                "ела",
+                "ело",
+                "ели"
+              ]
+            }
+          ],
+          "title": "Past"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ешь",
+                "ешьте"
+              ]
+            }
+          ],
+          "title": "Imperative"
+        }
+      ],
+      "pair": "съесть",
+      "pos": "verb",
+      "related": [
+        {
+          "gloss": "to eat",
+          "word": "съесть"
+        },
+        {
+          "gloss": "to eat",
+          "word": "поесть"
+        }
+      ],
+      "stress": "есть"
     }
   }
 }

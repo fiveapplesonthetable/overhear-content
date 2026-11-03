@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's unpack the eight lines of this smoky barbecue-table confrontation."
 
 WALK = [
-    (0, None, "It literally means this. 'I called her and she says she's crossing Mapo Bridge right now.' Hours after the afternoon meeting, the head writer is still using the exact same bridge excuse! The opening word phrase means 'I tried calling her, and...' It is a handy word."),
-    (1, None, "It literally means this. 'She's crossing that bridge every single day!' Fed up, Joon-mo pairs the word for 'every day, always' with the contracted form of 'that place', joking next that she must live on the bridge It comes from this."),
-    (2, None, "It literally means this. 'Wait, why are you buying us Korean beef? That's suspicious.' Much more expensive than pork belly, prized domestic Korean beef is reserved for big celebrations — or guilty bad news! The closing remark comes from the word meaning 'strange' or 'fishy' Notice the word for."),
-    (3, None, "It literally means this. 'Are we getting cancelled?' Sharp as a tack, Ji-yeon jumps straight to asking literally 'are we disappearing?'. In TV talk, 'we' means the show itself It is a handy word."),
-    (4, None, "It literally means this. 'It's not a cancellation, they told us to replace the cast.' Forced to come clean, Joon-mo contrasts 'cancellation' with 'cast replacement'. The word ending passes along orders from upstairs: 'they told me to swap them' This short for that."),
-    (5, None, "It literally means this. 'Please don't make us do the work twice, I'm dead tired.' Because she already researched Miss A, Ji-yeon groans 'don't make me do it twice'. Remember 'cold to death' earlier? Here she uses the same pattern for 'tired to death!' It comes from this."),
-    (6, None, "It literally means this. 'Is it certain that we writers are staying on?' Unlike salaried staff producers, freelance writers can lose their income overnight. Here the middle phrase means 'continuing forward together', checked with the tag question 'is that right?' Swap in this word."),
-    (7, None, "It literally means this. 'Who says you're getting cut? Am I that kind of person?' The word for getting cut literally means 'get snipped off', Korean's everyday slang for getting fired. Loyal to his crew, Joon-mo bristles with 'do you take me for that sort of guy?' Swap in this word."),
+    (0, None, "'I called her and she says she's crossing Mapo Bridge right now.' Hours after the afternoon meeting, the head writer is still using the exact same bridge excuse! The opening phrase builds on 'phone' with a helper meaning 'I tried calling her, and...'."),
+    (1, None, "'She's crossing that bridge every single day!' Fed up, Joon-mo pairs the lively word meaning 'every single day' with the contracted form of 'that place', joking next that she must live on the bridge."),
+    (2, None, "'Wait, why are you buying us Korean beef? That's suspicious.' Much pricier than pork belly, prized domestic Korean beef is reserved for big celebrations — or guilty bad news! Her closing remark comes from the everyday word meaning 'strange' or 'fishy'."),
+    (3, None, "'Are we getting cancelled?' Sharp as a tack, Ji-yeon jumps straight to asking literally 'are we disappearing?'. In television talk, 'we' stands in for the show itself."),
+    (4, None, "'It's not a cancellation, they told us to replace the cast.' Forced to come clean, Joon-mo contrasts 'cancellation' with the noun for 'replacement'. That short reported-speech ending passes along orders from upstairs: 'they told me to swap them'."),
+    (5, None, "'Please don't make us do the work twice, I'm dead tired.' Because she already researched Miss A, Ji-yeon groans with a polite 'please don't make us do it twice'. Remember 'freezing to death' earlier? Here she uses that exact pattern for 'tired to death!'."),
+    (6, None, "'Is it certain that we writers are staying on?' Unlike salaried staff producers, freelance writers can lose their income overnight. Here the middle phrase literally means 'going forward together', checked with the tag question 'is that right?'."),
+    (7, None, "'Who says you're getting cut? Am I that kind of person?' The verb for getting cut literally means 'get snipped off', Korean's everyday slang for getting fired. Loyal to his crew, Joon-mo bristles with 'am I that kind of person?'."),
 ]
 
 TRANSITION = "Now let's listen to the whole Korean beef dinner scene again."

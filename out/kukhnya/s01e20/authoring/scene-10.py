@@ -29,7 +29,7 @@ WALK = [
     (0, None, "'Hello.' This is the long polite hello, zdravstvuyte, and in speech the first v is silent: zdrastvuyte."),
     (1, None, "'Good morning.' Russian says dobroe utro. The word utro, 'morning', is neuter, so dobroe, 'good', ends in -oe."),
     (2, None, "'Dima's waiting for you.' The name Dima is the friendly short form of Dmitry, and here it means the owner. The word tebya, 'you', comes before zhdyot, 'is waiting'."),
-    (3, None, "'Dima? He's here?' Russian drops 'is' here: on zdes is literally 'he here'."),
+    (3, None, "'Dima? He's here?' Russian drops 'is' here: on zdes literally reads 'he here'."),
     (4, None, "'Yes, he's at his table.' Russian says za stolom, literally 'behind the table', for sitting at one."),
     (5, None, "'What does he want?' The word khochet, 'he wants', comes from khotet, 'to want', which shifts its sounds: khochu is 'I want'."),
     (6, None, "'I don't know.' Russian puts ne, 'not', straight in front of the action: ya ne znayu."),

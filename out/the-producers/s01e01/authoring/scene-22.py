@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's unpack the eight lines of this chaotic live broadcast finale."
 
 WALK = [
-    (0, None, "'Alright, for the opening shot we'll go with Camera Four.' The opening interjection claps everyone to attention — 'alright, here we go!'. After the word for 'first' opening cut, the closing word ('we will go with') announces the director's choice smoothly to the crew This literally means that."),
-    (1, None, "'Good work, everyone! Tell Cindy's manager to get up here right now!' Right as the song ends, Ye-jin calls out Korea's essential workplace thank-you for hard effort — then explodes in the very next breath, ordering someone to tell him to bounce up here this instant! It is a handy word."),
-    (2, None, "'Already? They were scared of me and bolted.' Hearing Cindy's van already left, she gasps in disbelief — 'already?!'. She follows up with the word for 'scary' and vivid slang for making a getaway It comes from this."),
-    (3, None, "'You can be the one who goes to the Broadcast Commission.' Looking around for someone to blame, she lands on poor Seung-chan with a pointed suggestion meaning 'it'll work nicely if you go instead of me!' It comes from this."),
-    (4, None, "'Earlier you said Cindy's outfit was pretty, so go tell them that.' The opening word points back to 'earlier today'. attaching a hearsay ending to the word for 'pretty' throws his own words back at him: 'didn't you say it was pretty earlier?' This means that."),
-    (5, None, "'It was my very first day at work.' Slumped in his chair afterward, Seung-chan pairs the word for 'first' with 'going to work' and trails off with a wistful past-word ending — letting the sigh finish the sentence This literally means that."),
-    (6, None, "'How was your day today?' Pairing the word for 'today' with 'one full day' gives you a warm evening check-in, using the respectful past word of the word for 'how is it?' Notice the word for."),
-    (7, None, "'How do you think it was?' Even exhausted, Seung-chan stays ultra-polite, bouncing the exact same word right back in a respectful 'how do you think it would be?' phrasing — the politest deadpan comeback in Korean television! This means that."),
+    (0, None, "'Alright, for the opening shot we'll go with Camera Four.' Opening with a brisk interjection claps everyone to attention — 'alright, here we go!'. After 'first cut', the closing expression meaning 'we will go with' announces the director's choice smoothly to the crew."),
+    (1, None, "'Good work, everyone! Tell Cindy's manager to get up here right now!' Right as the song ends, Ye-jin calls out Korea's essential workplace thank-you for hard effort — then explodes in the very next breath, ordering someone to tell him to 'spring right up here' this instant!"),
+    (2, None, "'Already? They were scared of me and bolted.' Hearing Cindy's van already left, she gasps with the everyday word meaning 'already?!'. She follows up with 'scared of me' and vivid slang for making a quick getaway."),
+    (3, None, "'You can be the one who goes to the Broadcast Commission.' Looking around for someone to blame, she lands on poor Seung-chan with the casual word for 'you' and a pointed phrasing meaning 'it will work nicely if you go instead of me!'."),
+    (4, None, "'Earlier you said Cindy's outfit was pretty, so go tell them that.' Opening with the handy word for 'earlier today', she attaches a hearsay ending onto 'pretty' to throw his own words back at him: 'didn't you say it was pretty earlier?'."),
+    (5, None, "'It was my very first day at work.' Slumped in his chair afterward, Seung-chan pairs 'first' with the noun for going in to work and trails off on a wistful past ending — letting the sigh finish the sentence."),
+    (6, None, "'How was your day today?' Pairing 'today' with the word meaning 'one full day' gives you a warm evening check-in, finished with the respectful past form of 'how is it?'."),
+    (7, None, "'How do you think it was?' Even exhausted, Seung-chan stays ultra-polite, bouncing that exact honorific expression right back in a respectful 'how do you think it would be?' phrasing — the politest deadpan comeback in Korean television!"),
 ]
 
 TRANSITION = "Now let's listen to the whole control-booth meltdown again."

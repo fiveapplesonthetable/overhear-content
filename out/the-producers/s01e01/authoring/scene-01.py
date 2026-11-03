@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's unpack those eight lines one turn at a time."
 
 WALK = [
-    (0, None, "It literally means this. 'You're a new KBS employee, right?' The cameraman checks Seung-chan's badge using the word for a new employee, built from newly entering and company staff. A polite ending invites the listener to confirm This literally means that."),
-    (1, None, "It literally means this. 'Ah, yes.' Out of breath, Seung-chan answers with the everyday polite 'yes' you will use constantly with strangers and colleagues. That soft exclamation at the front buys him half a second to catch his breath This means that."),
-    (2, None, "It literally means this. 'Why are you running?' Here the question word for 'why' comes right at the start of the question. Adding a polite ending to the word 'to run' shows respect to someone you have just met It comes from this."),
-    (3, None, "It literally means this. 'Ah, I have an induction ceremony.' Notice the humble version of 'I' that Korean speakers choose in polite settings. The word for 'induction ceremony' joins entering a company with a formal ceremony, and the word ending sets up the background reason Swap in this word."),
-    (4, None, "It literally means this. 'Because I think I'm late.' Instead, of stating flatly that he is late, Seung-chan softens 'late' inside the expression for 'it seems I am late'. Tacking a colloquial connector onto the end turns that impression into a spoken 'because' This means that."),
-    (5, None, "It literally means this. 'Where is TS1?' The word meaning 'where' sits right before the formal question ending. Swap any studio, station, or room name in front of that 'where is' pattern when you need directions fast It comes from this."),
-    (6, None, "It literally means this. 'Follow me.' The cameraman offers help with a polite command pairing 'follow' and 'come' in one welcoming invitation. Here the humble word means 'me', spoken without an extra marker as often happens in quick conversation Notice the word for."),
-    (7, None, "It literally means this. 'Did you happen to film this just now too?' Nearby in the parking lot, senior producer Tak Ye-jin spots the camera after dinging a car door and starts with an word meaning 'by any chance' to cushion an awkward question. Another word pinpoints 'just a moment ago', while the past-word at the end asks whether he caught it on video The word doubles the."),
+    (0, None, "'You're a new KBS employee, right?' The cameraman checks Seung-chan's badge using the compound term for a new hire, built from 'newly entering' and 'company staff'. A polite ending invites the listener to confirm."),
+    (1, None, "'Ah, yes.' Out of breath, Seung-chan answers with the everyday polite 'yes' you will use constantly with strangers and colleagues. That soft exclamation at the front buys him half a second to catch his breath."),
+    (2, None, "'Why are you running?' Here the question word meaning 'why' comes right at the start. Adding a respectful polite ending onto 'to run' shows courtesy to someone you have just met."),
+    (3, None, "'Ah, I have an induction ceremony.' Notice the humble version of 'I' that Korean speakers choose in polite settings. The compound noun for 'induction ceremony' joins entering a company with a formal ceremony, while the trailing ending sets up his background reason."),
+    (4, None, "'Because I think I'm late.' Instead of stating flatly that he is late, Seung-chan softens 'late' inside the expression meaning 'it seems I am late'. Tacking a colloquial connector onto the end turns that impression into a spoken 'because'."),
+    (5, None, "'Where is TS1?' The question word meaning 'where' sits right before a formal question ending. Swap in any studio, station, or room name at the front when you need directions fast."),
+    (6, None, "'Follow me.' The cameraman offers help with a polite command pairing 'follow' and 'come' in one welcoming invitation. Here that same humble word means 'me', spoken without an extra marker as often happens in quick conversation."),
+    (7, None, "'Did you happen to film this just now too?' Nearby in the parking lot, senior producer Tak Ye-jin spots the camera after dinging a car door and opens with a cushion word meaning 'by any chance'. Another word pinpoints 'just a moment ago', while the past ending asks whether he caught it on video."),
 ]
 
 TRANSITION = "Now let's hear the whole morning encounter again from start to finish."

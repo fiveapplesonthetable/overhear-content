@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's unpack the eight lines of this parking-lot crisis."
 
 WALK = [
-    (0, None, "'I even got into an accident on my way to work.' The opening word phrase captures 'while commuting to work', built on the word for going in to the office. Adding the word for 'even' to the word for 'accident' emphasizes 'even an accident on top of everything else' Notice the word for."),
-    (1, None, "'What accident? You didn't get hurt anywhere?' Worried right away, Il-yong pairs the question word for 'what kind of' with 'accident'. Then the closing word comes from the word 'to get injured', checking whether she is physically fine The word doubles the."),
-    (2, None, "'Not that kind of accident, a door ding.' The first phrase waves off the wrong guess with a quick 'not that, rather...'. Korean drivers call nicking the next car with your door a two-part compound combining the word for 'door' with a sound word that mimics a sharp poke! We built from this."),
-    (3, None, "'It didn't happen to me, I did it.' Korean draws a sharp contrast between the word for being on the receiving end of trouble and the past-word for 'I did it myself'. Il-yong assumed someone hit her car, so she sets him straight Notice the word for."),
-    (4, None, "'How much will that cost? An imported car.' Notice how Korean asks literally 'how much will come out?' when wondering what a repair bill or restaurant tab will total. The final word means a foreign-made car, famous in Seoul for pricey bodywork It is a handy word."),
-    (5, None, "'What is Jindo Dog Level Three?' After Il-yong texts a warning to the hallway, Seung-chan uses the formal question form of 'what is it?'. Named after Korea's loyal Jindo hound, the real military alert system counts down from three to one This means that."),
-    (6, None, "'Jindo Dog is slang for an emergency situation.' Il-yong explains that the compound word means an emergency situation, while the final word refers to insider slang used within a group. Around this office, it tracks Ye-jin's temper! We built from this."),
-    (7, None, "'What about Level One?' attaching the polite topic-question ending onto any word — here 'one' plus the counter for 'level' or 'number' — is the fastest way in Korean to bounce back 'and what about...?' This means that."),
+    (0, None, "'I even got into an accident on my way to work.' The opening phrase captures 'while commuting to work', built from the expression for going in to the office. Adding the marker meaning 'even' onto 'accident' stresses 'even an accident on top of everything else'."),
+    (1, None, "'What accident? You didn't get hurt anywhere?' Worried right away, Il-yong pairs the question word meaning 'what kind of' with 'accident'. Then the closing phrase comes from 'to get injured', checking whether she is physically fine."),
+    (2, None, "'Not that kind of accident, a door ding.' The first phrase waves off his wrong guess with a quick 'not that, rather...'. Korean drivers call nicking the next car with your door a two-part expression combining 'door' with a crisp sound word that mimics a sharp poke!"),
+    (3, None, "'It didn't happen to me, I did it.' Korean draws a sharp contrast between the word for being on the receiving end of trouble and the past form meaning 'I did it myself'. Il-yong assumed someone hit her car, so she sets him straight."),
+    (4, None, "'How much will that cost? An imported car.' Notice how Korean literally asks 'how much will come out?' when wondering what a repair bill or restaurant tab will total. The final compound word means a foreign-made car, famous in Seoul for pricey bodywork."),
+    (5, None, "'What is Jindo Dog Level Three?' After Il-yong texts a warning down the hallway, Seung-chan uses the formal question form meaning 'what is it?'. Named after Korea's loyal Jindo hound, the real military alert system counts down from three to one."),
+    (6, None, "'Jindo Dog is slang for an emergency situation.' Il-yong explains that this alert names an emergency situation, while the final word means insider slang shared within a group. Around this office, it tracks Ye-jin's temper!"),
+    (7, None, "'What about Level One?' Adding the polite topic-question ending onto any word — here 'one' plus the counter for 'level' or 'number' — is the fastest way in Korean to bounce back 'and what about...?'."),
 ]
 
 TRANSITION = "Now let's listen to the whole alert scene again without stopping."

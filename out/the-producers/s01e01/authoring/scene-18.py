@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's step through the eight lines of Tae-ho's awkward backstage favour."
 
 WALK = [
-    (0, None, "It literally means this. 'Is Cindy appearing on Music Bank today?' On television, performers 'come out' on a show, using a word that literally means 'to come out' for appearing on air, softened here into a casual boss's question We built from this."),
-    (1, None, "It literally means this. 'Yes, she's a contender for number one.' With his own boss, Tae-ho switches to a crisper, slightly more formal word for 'yes', and calls Cindy a contender by pairing the phrase for 'first place' with the word for 'candidate' or 'nominee' Notice the word for."),
-    (2, None, "It literally means this. 'It seems my second child is a fan of hers.' Korean parents count birth order with a dedicated word for 'second-born child'. Tacking an ending meaning 'it looks like' onto the loanword for 'fan' drops an unmistakable hint: 'looks like she's a fan...' Swap in this word."),
-    (3, None, "It literally means this. 'Is there anything uncomfortable for our Cindy?' Down in the dressing room, Tae-ho fusses over the lights and chairs using a phrase for 'anything uncomfortable', built from the word meaning 'uncomfortable' or 'inconvenient' This short for that."),
-    (4, None, "It literally means this. 'Not at all, I'm really fine.' Keeping a cool professional wall up, Cindy answers in crisp formal speech, pairing a formal 'no, not at all' with an emphatic 'really, it is fine' Notice the word for."),
-    (5, None, "It literally means this. 'Because the live broadcast is starting very soon.' Trying politely to usher him out, she pairs 'very soon now' with 'live broadcast' and a polite 'because it is...' ending — a textbook polite brush-off Notice the word for."),
-    (6, None, "It literally means this. 'Let's just take a quick photo right here.' Tae-ho springs the trap anyway! He combines 'just for a moment' with 'only a photo' and a word urging 'let's snap one!' — in Korean, you literally 'stamp' or 'press' a photo The word doubles the."),
-    (7, None, "It literally means this. 'Excuse me?' Notice how rising intonation flips the standard word for 'yes' from a calm agreement into a stunned 'pardon?' or 'what did you just say?' as the teenage girls barge straight through her door! We built from this."),
+    (0, None, "'Is Cindy appearing on Music Bank today?' On television, performers literally 'come out' on a show, using the everyday verb meaning 'to come out' for appearing on air, softened here into a casual boss's question."),
+    (1, None, "'Yes, she's a contender for number one.' With his own boss, Tae-ho switches to a crisper, slightly more formal word meaning 'yes', and calls Cindy a contender by pairing 'first place' with the noun for 'candidate' or 'nominee'."),
+    (2, None, "'It seems my second child is a fan of hers.' Korean parents count birth order with a dedicated word meaning 'second-born child'. Tacking an ending meaning 'it looks like' onto the loanword for 'fan' drops an unmistakable hint."),
+    (3, None, "'Is there anything uncomfortable for our Cindy?' Down in the dressing room, Tae-ho fusses over the lights and chairs using a warm 'our Cindy' and a phrase built from the word meaning 'uncomfortable' or 'inconvenient'."),
+    (4, None, "'Not at all, I'm really fine.' Keeping a cool professional wall up, Cindy answers in crisp formal speech, pairing a formal 'no, not at all' with an emphatic expression meaning 'really, it is fine'."),
+    (5, None, "'Because the live broadcast is starting very soon.' Trying politely to usher him out, she pairs 'very soon now' with shorthand for 'live broadcast' and a polite ending meaning 'because it is...' — a textbook workplace brush-off."),
+    (6, None, "'Let's just take a quick photo right here.' Tae-ho springs the trap anyway! He combines 'just for a moment' with 'only a photo' and a casual suggestion urging 'let's snap one!' — in Korean, you literally 'stamp' or 'press' a photograph."),
+    (7, None, "'Excuse me?' Notice how rising intonation flips the standard polite word for 'yes' from a calm agreement into a stunned 'pardon?' or 'what did you just say?' as the teenage girls barge straight through her door!"),
 ]
 
 TRANSITION = "Now let's listen to the whole waiting-room ambush again."

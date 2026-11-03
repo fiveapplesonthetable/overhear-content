@@ -303,9 +303,13 @@ class AudioGates:
             hyp_norm = re.sub(r"[\W_]+", " ", hyp_text.lower()).strip()
             cer_val = float(jiwer.cer(ref_norm, hyp_norm)) if ref_norm else 0.0
             edge_ok = True
-            if lang == "en":
-                ref_w = re.findall(r"\w+", ref_norm)
-                hyp_w = re.findall(r"\w+", hyp_norm)
+            if lang in ("en", "pt", "es", "fr", "it", "de", "ru"):
+                import unicodedata
+                _COLLOQ = {"to": "estou", "ta": "esta", "pra": "para", "pro": "para"}
+                def _fold_acc(s):
+                    return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c))
+                ref_w = [_COLLOQ.get(w, w) for w in re.findall(r"[^\W_]+", _fold_acc(ref_norm))]
+                hyp_w = [_COLLOQ.get(w, w) for w in re.findall(r"[^\W_]+", _fold_acc(hyp_norm))]
                 if len(ref_w) >= 2:
                     if not hyp_w:
                         edge_ok = False

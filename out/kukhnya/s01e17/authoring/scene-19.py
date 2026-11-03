@@ -30,8 +30,8 @@ STORY = [
     ('vika', 'Заходи быстрее.', 'Come in faster.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Max, where are you?\' "Nu" adds impatience, and "ty gde?" is literally "you where?".'),
-    (1, None, '\'Will you be long?\' "Ty skoro?" is literally "you soon?", with no word for coming at all.'),
+    (0, None, '\'Max, where are you?\' "Nu" adds impatience, and "ty gde?" literally says "you where?".'),
+    (1, None, '\'Will you be long?\' "Ty skoro?" literally means "you soon?", with no word for coming at all.'),
     (2, None, '\'I\'m already here.\' "Uzhe" means already, and "zdes" means here.'),
     (3, None, '\'Why are you standing there?\' "Stoish" comes from "stoyat", to stand, the word Barinov barked earlier.'),
     (4, None, '\'I\'m waiting for my friends.\' "Zhdu", I\'m waiting, takes the friends straight after it, with no "for".'),

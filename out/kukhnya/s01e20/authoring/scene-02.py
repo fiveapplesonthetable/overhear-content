@@ -34,7 +34,7 @@ WALK = [
     (1, None, "'Well, yes, of course it's good.' In konechno, 'of course', the ch is said like sh: 'koneshno'."),
     (2, None, "'It's as if we're walking up a staircase.' The phrase kak budto means 'as if'. After po, 'along', lestnitsa becomes lestnitse."),
     (3, None, "'We're going up, straight towards the sun.' After k, 'towards', solntse becomes solntsu. The l in solntse is written but never said."),
-    (4, None, "'We climb higher and higher, step by step.' Put vsyo in front of vyshe, 'higher', and you get 'higher and higher'. Her shag za shagom is literally 'step after step'."),
+    (4, None, "'We climb higher and higher, step by step.' Put vsyo in front of vyshe, 'higher', and you get 'higher and higher'. Her shag za shagom literally says 'step after step'."),
     (5, None, "'We're not in a hurry to climb, are we?' With ne and zhe together, the question expects the answer 'no'."),
     (6, None, "'I guess not, we're not in a hurry.' The word vrode means 'seemingly', so vrode net is a careful 'I don't think so'."),
     (7, None, "'If we stop, we might fall.' The word ostanovimsya, 'we stop', is a finished-action form, and in the present that points to the future: 'if we come to a stop'."),

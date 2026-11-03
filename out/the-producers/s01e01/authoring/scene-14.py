@@ -12,7 +12,7 @@ SOURCE_NAME = "프로듀사 (The Producers) S1.01"
 SOURCE_FILE = "sources/the-producers/s01/e01.ko.srt"
 
 INTRO = (
-    "Back in the 2 Days & 1 Night meeting room, writer Son Ji-yeon makes excuses for the late head writer, "
+    "Back in the meeting room for his weekend travel show, writer Son Ji-yeon makes excuses for the late head writer, "
     "suggests filming on Jeju Island, and asks whether Joon-mo can book girl group Miss A. Listen for the expressions for "
     "'right away' and 'if I make one phone call'."
 )
@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's go through the eight lines of this brainstorm in the writers' room."
 
 WALK = [
-    (0, None, "'I just spoke with her on the phone, she says she's crossing Mapo Bridge now.' The opening word comes from the dictionary form meaning 'to talk on the phone'. Mapo Bridge leads straight into Yeouido, and the second half reports politely that she is crossing it right now — Korea's classic 'almost there!' excuse It is a handy word."),
-    (1, None, "'She says she'll be right here.' The opening word means 'very soon' or 'in a moment'. Notice how the word ending layers two nuances: an honorific marker that respects the senior head writer, and a reported-speech ending that passes along her message ('she says she is coming') This literally means that."),
-    (2, None, "'Did next week's episode topic come out?' The opening phrase pairs the words for 'next' and 'week' to mean 'next week'. TV teams also use a koreanized loanword borrowed from the English word 'item' to refer to an episode concept or segment idea This short for that."),
-    (3, None, "'Let's take a trip to Jeju Island.' Slipping the word for 'once' or 'for a try' before the polite 'let's go' word turns a suggestion into an inviting 'why don't we go together?'. Jeju is Korea's beloved volcanic holiday island The word doubles the."),
-    (4, None, "'Where was last season's final filming location?' Suspicious of the pitch, Joon-mo combines the words for 'final' and 'filming site', then finishes with a casual question ending that muses aloud 'where was it again?' It comes from this."),
-    (5, None, "'Jeju Island.' Adding just the polite sentence-ending word onto a place name turns a single word into a complete, polite answer. Joon-mo's point lands fast: every cancelled show filmed its finale on Jeju! It comes from this."),
-    (6, None, "'How did things turn out with Miss A as guests for this shoot?' The word for 'shoot' refers to a television taping or recording, and the closing phrase is the go-to workplace question for checking status: 'how did that turn out?' The word doubles the."),
-    (7, None, "'One phone call and it's done right away.' Confident his friend Ye-jin will help him out, Joon-mo pairs the word 'if I phone' with the casual expression for 'it works immediately'. Let's see how well that boast ages! Notice the word for."),
+    (0, None, "'I just spoke with her on the phone, she says she's crossing Mapo Bridge now.' The opening phrase comes from the word meaning 'to talk on the phone'. Mapo Bridge leads straight into Yeouido, and the second half reports politely that she is crossing it right now — Korea's classic 'almost there!' excuse."),
+    (1, None, "'She says she'll be right here.' Opening with a handy word meaning 'very soon' or 'in a moment', the final ending layers two nuances: an honorific syllable respecting the senior head writer, and a reported-speech ending passing along her message."),
+    (2, None, "'Did next week's episode topic come out?' The opening phrase pairs 'next' and 'week' to mean 'next week'. TV teams also borrow the English word 'item' to refer to an episode concept or segment idea."),
+    (3, None, "'Let's take a trip to Jeju Island.' Slipping the little word meaning 'once' or 'for a try' before the polite 'let's go' form turns a suggestion into an inviting 'why don't we go together?'. Jeju is Korea's beloved volcanic holiday island."),
+    (4, None, "'Where was last season's final filming location?' Suspicious of the pitch, Joon-mo combines the words for 'final' and 'filming site', then finishes with a casual question ending that muses aloud 'where was it again?'."),
+    (5, None, "'Jeju Island.' Adding just the polite ending onto a place name turns a single word into a complete, courteous answer. Joon-mo's point lands fast: every cancelled show filmed its finale on Jeju!"),
+    (6, None, "'How did things turn out with Miss A as guests for this shoot?' Here the noun for 'shoot' refers to a television taping or recording, and the closing phrase is the go-to workplace question for checking status: 'how did that turn out?'."),
+    (7, None, "'One phone call and it's done right away.' Confident his friend Ye-jin will help him out, Joon-mo pairs 'if I phone' with the casual expression meaning 'it works immediately'. Let's see how well that boast ages!"),
 ]
 
 TRANSITION = "Now let's hear the whole writers' room meeting again."

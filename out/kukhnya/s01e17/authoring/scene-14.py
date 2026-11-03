@@ -33,8 +33,8 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Max, happy birthday!\' "S dnyom rozhdeniya" is the wish itself, literally "with day of birth". "Pozdravlyayu tebya" adds "I congratulate you".'),
-    (1, None, '\'Thank you so much, my loyal friend.\' "Vernyy" means loyal or faithful. "Bolshoe spasibo" is literally "big thanks".'),
-    (2, None, '\'Happy birthday from the heart from me too!\' "Ot dushi" is literally "from the soul", where English says "from the heart".'),
+    (1, None, '\'Thank you so much, my loyal friend.\' "Vernyy" means loyal or faithful. "Bolshoe spasibo" literally says "big thanks".'),
+    (2, None, '\'Happy birthday from the heart from me too!\' "Ot dushi" literally means "from the soul", where English says "from the heart".'),
     (3, None, '\'Thanks, Nastya, that\'s really nice.\' "Priyatno", pleasant, is the same word Russians use in "ochen priyatno", nice to meet you.'),
     (4, None, '\'And this present is for you.\' "Podarok", gift, comes from "darit", to give as a present. "A vot" draws attention to it.'),
     (5, None, '\'What are these nice tickets?\' "Chto eto za" is how you ask "what kind of... is this?". One "bilet" becomes two "bilety".'),

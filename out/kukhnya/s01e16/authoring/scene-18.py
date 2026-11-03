@@ -31,17 +31,17 @@ STORY = [
     ('inspector', 'Вуаля.', 'Voilà.', [(269, 'Вуаля.')], ''),
 ]
 WALK = [
-    (0, None, "'And you're just the one I need.' 'Vy-to mne i nuzhny' is literally 'you, then, to me are needed': Russian says what you need is 'needed to you'. The little '-to' and 'i' add the sense of 'you're the very one'."),
+    (0, None, "'And you're just the one I need.' 'Vy-to mne i nuzhny' literally means 'you, then, to me are needed': Russian says what you need is 'needed to you'. The little '-to' and 'i' add the sense of 'you're the very one'."),
     (1, None, "'May I take a look at your papers?' 'Mozhno', 'it is possible', is the everyday way to ask permission. 'Vzglyanut na' means 'to take a glance at', a quicker, more polite word than plain 'look'."),
     (2, None, "'I'm just a guest.' 'Gost' means 'guest', and in a restaurant it's also the word for a customer. 'Prosto', 'simply', does the job of English 'just'."),
     (3, None, "'But you're the cook in this restaurant.' 'Zhe' after 'vy' is a small word of insistence, like 'but you are, aren't you'. 'Povar' means 'cook', from the old verb 'varit', 'to boil'."),
-    (4, None, "'What makes you think that?' 'S chego vy vzyali?' is literally 'from what did you take it?', the usual way to challenge a guess. It sounds a little defensive, which is the point."),
+    (4, None, "'What makes you think that?' 'S chego vy vzyali?' literally reads 'from what did you take it?', the usual way to challenge a guess. It sounds a little defensive, which is the point."),
     (5, None, "'Only a cook looks at a dish like that.' 'Tak', 'so' or 'like that', points to the way he looks. 'Bliudo' means 'dish', both the plate of food and the course on a menu."),
     (6, None, "'Because someone else cooked it.' 'Kto-to drugoy' means 'someone else': 'kto-to' is 'someone', and 'drugoy' is 'other'. 'Ego', 'it', points back to the dish, which is neuter."),
     (7, None, "'You keep touching your head.' 'Vsyo vremya', literally 'all the time', is how Russian says 'keep doing' something. Russian needs no 'your' before 'head'."),
     (8, None, "'You're used to the chef's hat.' 'Privyknut k' means 'to get used to', and 'kolpak' is the tall white cook's hat. 'K kolpaku' adds '-u' to the hat after 'k'."),
     (9, None, "'And you aren't drinking your wine.' 'Svoyo' means 'your own', and Russian uses it whenever the owner is the person doing the action. 'Vino' is 'wine', a word that never changes its ending."),
-    (10, None, "'Because you're not allowed to drink at work.' 'Nelzya' means 'it is not allowed', and it is followed by the plain 'pit', 'to drink'. Russian says 'na rabote', literally 'on work', for 'at work'."),
-    (11, None, "'Yes, you're right.' 'Vy pravy' is literally 'you are right', with no word for 'are'. A man would say 'ty prav' to a friend; 'pravy' is the polite form for 'vy'."),
+    (10, None, "'Because you're not allowed to drink at work.' 'Nelzya' means 'it is not allowed', while it is followed by the plain 'pit', 'to drink'. Russian says 'na rabote', literally 'on work', for 'at work'."),
+    (11, None, "'Yes, you're right.' 'Vy pravy' word-for-word means 'you are right', without 'are'. A man would say 'ty prav' to a friend; 'pravy' works as the polite form for 'vy'."),
     (12, None, "'Voila.' The inspector borrows the French word, like a conjurer finishing a trick. Russians write it in their own letters and say it much as the French do."),
 ]

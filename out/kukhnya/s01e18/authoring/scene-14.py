@@ -31,13 +31,13 @@ STORY = [
 WALK = [
     (0, None, '\'Dimochka and I have talked over things at the restaurant,\' Russian says "my s Dimochkoy", "we with Dimochka", for "Dimochka and I". "Dimochka" is a fond form of Dima.'),
     (1, None, '\'and I have a couple of ideas on how to make it profitable again.\' "Para mysley" is "a pair of thoughts". "Rentabelnym", profitable, takes "-ym" after "sdelat", to make.'),
-    (2, None, '\'But first I\'d like to discuss it with you in private,\' "Khotela by" is "would like", softer than "khochu". It ends in "-a" because Kristina is a woman. "Naedine" means alone together.'),
-    (3, None, '\'Viktor Petrovich, if you don\'t mind, of course.\' First name plus father\'s name is the respectful way to address someone. "Esli vy ne protiv" is literally "if you are not against".'),
-    (4, None, '\'And you don\'t mind, Victoria Sergeyevna?\' The same polite question again, now aimed at Vika, to send her out of the room.'),
+    (2, None, '\'But first I\'d like to discuss it with you in private,\' "Khotela by" is "would like", softer than "khochu". It has the "-a" ending for Kristina. "Naedine" means alone together.'),
+    (3, None, '\'Viktor Petrovich, if you don\'t mind, of course.\' First name plus father\'s name is the respectful way to address someone. "Esli vy ne protiv" word-for-word means "if you are not against".'),
+    (4, None, "'And you don't mind, Victoria Sergeyevna?' The same polite question again, now aimed at Vika, to send her out of the room."),
     (5, None, '\'Yes, of course.\' "Konechno", of course, is usually said "koneshno", with a "sh".'),
     (6, None, '\'Wonderful. Well, I\'m listening.\' "Zamechatelno" comes from "zamechat", to notice: something worth noticing. "Ya slushayu", I\'m listening, is also how many Russians answer the phone.'),
     (7, None, '\'Just a moment, hold on.\' "Podozhdite" is "wait" said politely, with "-te": Barinov keeps to "vy" with his boss\'s wife. "-ka" softens it.'),
     (8, None, '\'Kostya, give me a bottle of cognac.\' "Day" is "give" said to one person you call "ty". "Butylochka" is a fond little form of "butylka", bottle.'),
     (9, None, '\'No, further right.\' "Pravee" is "more to the right", from "pravyy", right. Its partner is "levee", more to the left.'),
-    (10, None, '\'That bottle.\' "Etu", this, ends in "-u" because "butylku" is the thing being given.'),
+    (10, None, '\'That bottle.\' "Etu", this, carries "-u" as "butylku" is the thing being given.'),
 ]

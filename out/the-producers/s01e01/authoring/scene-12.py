@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's unpack the eight lines of Joon-mo's hallway clash with Reporter Kang."
 
 WALK = [
-    (0, None, "'Reporter Kang, you came here again?' Adding an honorific suffix to the word for 'reporter' creates respectful workplace address. The word for 'again' is paired with the polite past-word for 'did you come?' The word doubles the."),
-    (1, None, "'A PD should be at the station, yet you're always at the Commission.' The word for a TV station joins 'broadcasting' and 'bureau', and the word ending says 'that is where you ought to be!'. The word from 'every single day' means 'always' in lively speech This means that."),
-    (2, None, "'Please stop writing articles bashing our show.' The slang word here literally means peeling fruit, and in media talk it means roasting or bashing something in print. That modifies the word for 'news article', while the closing word phrase begs him to 'stop writing' It is a handy word."),
-    (3, None, "'Once it's gone, I won't even be able to bash it.' The word comes from the word meaning 'to disappear' or get axed. Slipping the word for 'even' before the negative potential ending sharpens the jab: 'can't even do that anymore' We built from this."),
-    (4, None, "'What are you talking about?' Three punchy syllables every Korean drama fan hears constantly, literally meaning 'what sound is that?'. Use this expression only with friends or close peers when someone says something outrageous The word doubles the."),
-    (5, None, "'I heard it's getting cancelled.' Adding a hearsay-and-confirmation ending onto the word for 'to disappear' passes along a rumour while fishing for a reaction: 'people say it's disappearing, isn't it?'. Reporters love that ending because it sounds like confirmed news We built from this."),
-    (6, None, "'Usually the production crew is the very last to know about a cancellation.' In television, there is an official word for cancelling a programme, followed by the word naming the production staff. The adverbial phrase at the end pairs 'most' with 'late' — dead last Swap in this word."),
-    (7, None, "'Why wouldn't I know about my own show?' Rattled, Joon-mo shoots back with the casual possessive for 'my' and a blunt question meaning 'why wouldn't I know?', built from the word 'to not know' This literally means that."),
+    (0, None, "'Reporter Kang, you came here again?' Adding an honorific suffix onto 'reporter' creates respectful workplace address. The little word meaning 'again' is paired with the polite past question meaning 'did you come?'."),
+    (1, None, "'A PD should be at the station, yet you're always at the Commission.' The compound noun for a TV station joins 'broadcasting' and 'bureau', while the ending says 'that is where you ought to be!'. A lively word built from 'every single day' adds the sense of 'always'."),
+    (2, None, "'Please stop writing articles bashing our show.' Here a slang verb that literally means peeling fruit is used in media talk for roasting or bashing a show in print. It modifies 'news article', while the closing phrase begs him to 'stop writing'."),
+    (3, None, "'Once it's gone, I won't even be able to bash it.' Reporter Kang builds on the expression meaning 'to disappear' or get axed. Slipping 'even' before the negative ending sharpens the jab: 'won't even be able to bash it anymore'."),
+    (4, None, "'What are you talking about?' Three punchy syllables every Korean drama fan hears constantly, literally meaning 'what sound is that?'. Use this casual expression only with close friends or peers when someone says something outrageous."),
+    (5, None, "'I heard it's getting cancelled.' Adding a hearsay-and-confirmation ending onto 'to disappear' passes along a rumour while fishing for a reaction: 'people say it's disappearing, isn't it?'. Reporters love that ending because it sounds like confirmed news."),
+    (6, None, "'Usually the production crew is the very last to know about a cancellation.' Television uses an official term for cancelling a programme, followed by the word naming the production staff. Near the end, pairing 'most' with 'late' gives you 'dead last'."),
+    (7, None, "'Why wouldn't I know about my own show?' Rattled, Joon-mo shoots back with the casual possessive for 'my' and a blunt question meaning 'why wouldn't I know?', built from 'to not know'."),
 ]
 
 TRANSITION = "Now let's listen to the whole exchange with Reporter Kang again."

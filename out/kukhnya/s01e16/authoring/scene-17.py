@@ -33,12 +33,12 @@ STORY = [
     ('ainura', 'Хорошо. Спасибо.', 'All right. Thank you.', [(259, 'Хорошо. Спасибо.')], ''),
 ]
 WALK = [
-    (0, None, "'Would you mind if I joined you?' 'Sostavit kompaniyu' is literally 'to make up company', the polite way to ask to join someone. 'Ne budete protiv', literally 'you won't be against', means 'do you mind'."),
-    (1, None, "'Yes, please, sit down.' 'Sadites', 'sit down', is a command for someone you call 'vy'. Its '-s' ending is a short '-sya', 'yourself', so it is literally 'seat yourself'."),
+    (0, None, "'Would you mind if I joined you?' 'Sostavit kompaniyu' literally reads 'to make up company', the polite way to ask to join someone. 'Ne budete protiv', literally 'you won't be against', means 'do you mind'."),
+    (1, None, "'Yes, please, sit down.' 'Sadites', 'sit down', is a command for someone you call 'vy'. Its '-s' ending is a short '-sya', 'yourself', so it word-for-word means 'seat yourself'."),
     (2, None, "'Madam, if you would be so kind.' 'Dama' means 'lady', and as a form of address it sounds old-fashioned and gallant. 'Proshu vas', literally 'I ask you', here means 'please, go ahead'."),
-    (3, None, "'This one, and this one too.' 'Etu', 'this one', ends in '-u' because the thing pointed at is feminine and it's being ordered. 'Eshchyo' means 'more' or 'also'."),
-    (4, None, "'This cognac is very expensive.' 'Dorogoy' means both 'expensive' and 'dear', as in 'dorogoy drug', 'dear friend'. It ends in '-oy' because 'konyak' is masculine."),
-    (5, None, "'Well, a lady's wish is the law.' 'Zhelanie damy' is literally 'wish of the lady': 'dama' becomes 'damy' to show whose wish. Russian needs no 'is' here."),
+    (3, None, "'This one, and this one too.' 'Etu', 'this one', takes '-u' since the thing pointed at is feminine and it's being ordered. 'Eshchyo' means 'more' or 'also'."),
+    (4, None, "'This cognac is very expensive.' 'Dorogoy' means both 'expensive' and 'dear', as in 'dorogoy drug', 'dear friend'. It carries '-oy' as 'konyak' is masculine."),
+    (5, None, "'Well, a lady's wish is the law.' 'Zhelanie damy' literally says 'wish of the lady': 'dama' becomes 'damy' to show whose wish. Russian needs no 'is' here."),
     (6, None, "'And I'll order the apple strudel with cream.' Ordering food? 'Zakazhu' is 'I'll order', the verb you'd use in any restaurant. The 's', with, becomes 'so' in front of 'slivkami', cream, to make it easier to say."),
     (7, None, "'Do you know why they call me the migrant-worker hunter?' 'Gastarbaytery' is the German word for guest workers, the usual Russian word for labour migrants. 'Okhotnik', 'hunter', comes from 'okhota', 'the hunt'."),
     (8, None, "'Because I always find them, wherever they are.' 'Vsegda', 'always', and 'vezde', 'everywhere', make a neat pair. 'Nakhozhu', 'I find', is how 'nakhodit' sounds for 'I': the 'd' turns into 'zh'."),

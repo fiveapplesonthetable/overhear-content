@@ -30,14 +30,14 @@ STORY = [
 OPENER = "Let's savour each line of this cafeteria lunch."
 
 WALK = [
-    (0, None, "'These are four thousand won apiece.' Holding up a paper meal ticket, Tae-ho states the price per ticket: 'for one', followed by 'four thousand', with a suffix tacked onto the price to add the sense of 'each' or 'apiece' This means that."),
-    (1, None, "'The food here is delicious.' Three short words you can use at any good lunch spot: 'here', the word for cooked rice (and by extension a whole meal), and 'tastes great'. Add a polite ending to use it with strangers We built from this."),
-    (2, None, "'May I eat two of these?' Reaching for side dishes, Seung-chan counts 'two items' plus the suffix for 'each'. Any action followed by the permission-asking ending is the classic Korean way to ask 'may I...?' or 'is it okay if I...?' It is a handy word."),
-    (3, None, "'Go ahead and eat!' Tae-ho grants permission with one casual form of the word 'to eat'. Between friends or from a senior to a junior, that bare spoken form doubles as both 'eat!' and 'sure, help yourself!' It is a handy word."),
-    (4, None, "'It's a hassle if a crowd gathers, so let's just eat quietly.' Spotting famous singers across the room, Tae-ho pretends fans will mob him, explaining 'because it is bothersome', then saying 'quietly' and suggesting 'let's just eat our meal' The word doubles the."),
-    (5, None, "'Are you close with them?' Impressed, Seung-chan asks a question built on the word 'to be close friends'. Inserting an honorific infix honours his boss, while the formal question ending keeps the rookie's tone respectful This literally means that."),
-    (6, None, "'Oh, close doesn't even cover it!' Tae-ho brags by literally asking 'is it merely being close?' — a lively idiom meaning 'way more than just close!'. You will hear that emphatic ending whenever someone exaggerates how obvious something is This means that."),
-    (7, None, "'They didn't know him at all.' Here comes the punchline: the word for 'not at all' teams up with the past word of the word 'to not know'. Pair that word with a negative whenever you want 'zero clue' Notice the word for."),
+    (0, None, "'These are four thousand won apiece.' Holding up a paper meal ticket, Tae-ho states the price per ticket: 'for one', followed by 'four thousand', with a handy suffix tacked onto the price to add the sense of 'each' or 'apiece'."),
+    (1, None, "'The food here is delicious.' Three short words you can use at any good lunch spot: 'here', the word meaning cooked rice — and by extension a whole meal — and 'tastes great'. Add a polite ending to say it to restaurant staff."),
+    (2, None, "'May I eat two of these?' Reaching for side dishes, Seung-chan counts 'two items' plus that same suffix meaning 'each'. Following an action with this permission-asking ending is the classic Korean way to ask 'may I?' or 'is it okay if I?'."),
+    (3, None, "'Go ahead and eat!' Tae-ho grants permission with one casual form of 'to eat'. Between friends or from a senior to a junior, that bare spoken form works as both 'eat!' and 'sure, help yourself!'."),
+    (4, None, "'It's a hassle if a crowd gathers, so let's just eat quietly.' Spotting famous singers across the room, Tae-ho pretends fans will mob him, combining an expression meaning 'because it is bothersome' with 'quietly' and a casual suggestion meaning 'let's just eat our meal'."),
+    (5, None, "'Are you close with them?' Impressed, Seung-chan builds his question on the word meaning 'close friends'. Inserting an honorific syllable honours his boss, while the formal question ending keeps the rookie's tone respectful."),
+    (6, None, "'Oh, close doesn't even cover it!' Tae-ho brags by literally asking 'is it merely being close?' — a lively idiom meaning 'way more than just close!'. You will hear that emphatic ending whenever someone exaggerates how obvious something is."),
+    (7, None, "'They didn't know him at all.' Here comes the punchline: an emphatic word meaning 'not at all' teams up with the past form of 'to not know'. Pair that intensifier with a negative expression whenever you want to say 'zero clue'."),
 ]
 
 TRANSITION = "Now let's listen to the whole cafeteria scene from top to bottom."

@@ -30,16 +30,16 @@ STORY = [
     ('inspector', 'Я жду, Виктор Петрович.', "I'm waiting, Viktor Petrovich.", [], ''),
 ]
 WALK = [
-    (0, None, "'The inspector is here.' Russian needs no 'is': 'inspektor zdes' is literally 'inspector here'. 'Zdes' and 'tut' both mean 'here', and 'tut' is a little more casual."),
+    (0, None, "'The inspector is here.' Russian needs no 'is': 'inspektor zdes' word-for-word means 'inspector here'. 'Zdes' and 'tut' both mean 'here', and 'tut' is a little more casual."),
     (1, None, "'I know, I saw him.' 'Znayu', 'I know', needs no 'ya' because the '-yu' ending already says 'I'. 'Videl', 'saw', ends in '-l', the past for a man."),
     (2, None, "'He wants to check the kitchen.' 'Khotet', 'to want', is irregular: 'ya khochu', 'I want', but 'on khochet', 'he wants'. 'Kukhnya', 'kitchen', becomes 'kukhnyu' because it is what gets checked."),
-    (3, None, "'Let him check.' 'Pust' means 'let', and it goes before the plain 'he checks', 'proveryaet'. It's the shrug of someone who has nothing to hide, or pretends not to."),
-    (4, None, "'He is looking for illegals.' 'Nelegaly' is built from 'ne', 'not', and 'legal', the same word as in English. 'Ishchet', 'is looking for', changes it to 'nelegalov', for people looked for."),
-    (5, None, "'We don't have them.' 'U nas ikh net' is literally 'at us them not'. 'Net' here means 'there isn't', and 'ikh', 'them', comes in front of it."),
-    (6, None, "'Where is Fedya?' The name is the short, friendly form of 'Fyodor'. Russian needs no 'is' in a 'gde' question: 'gde Fedya?' is literally 'where Fedya?'"),
+    (3, None, "'Let him check.' 'Pust' means 'let' and also goes before the plain 'he checks', 'proveryaet'. It's the shrug of someone who has nothing to hide, or pretends not to."),
+    (4, None, "'He is looking for illegals.' 'Nelegaly' is built from 'ne', 'not', and 'legal', that word in English. 'Ishchet', 'is looking for', changes it to 'nelegalov', for people looked for."),
+    (5, None, "'We don't have them.' 'U nas ikh net' literally says 'at us them not'. 'Net' here means 'there isn't', and 'ikh', 'them', comes in front of it."),
+    (6, None, "'Where is Fedya?' The name is the short, friendly form of 'Fyodor'. Russian needs no 'is' in a 'gde' question: 'gde Fedya?' literally means 'where Fedya?'"),
     (7, None, "'He is in the fridge.' After 'v', 'in', 'kholodilnik' becomes 'kholodilnike', the ending for where something is. Senya doesn't need to say more, because the fridge is the whole problem."),
-    (8, None, "'As long as he doesn't freeze in there.' 'Tolko by' means 'if only' or 'as long as', for a worried wish. 'Zamyorz' comes from 'moroz', 'frost', so it is literally 'got frosted'."),
-    (9, None, "'Viktor Petrovich, would you be so kind.' 'Bud'te lyubezny' is literally 'be kind', said before a polite request. It's what a very formal person says, or someone being formal on purpose."),
+    (8, None, "'As long as he doesn't freeze in there.' 'Tolko by' means 'if only' or 'as long as', for a worried wish. 'Zamyorz' comes from 'moroz', 'frost', so it literally reads 'got frosted'."),
+    (9, None, "'Viktor Petrovich, would you be so kind.' 'Bud'te lyubezny' word-for-word means 'be kind', said before a polite request. It's what a very formal person says, or someone being formal on purpose."),
     (10, None, "'Open the fridge, please.' 'Otkroyte', 'open', ends in '-yte', the command ending for 'vy'. 'Pozhaluysta', 'please', also means 'you're welcome'."),
     (11, None, "'I'm waiting, Viktor Petrovich.' Short and cold: 'ya zhdu', I'm waiting, then the chef's first name and patronymic. That polite form of address makes the words sound like pressure."),
 ]

@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Все без документов, вон!', 'Everyone without documents, get out!', [(84, 'Все нелегалы немедленно вон из ресторана.')], ''),
 ]
 WALK = [
-    (0, None, "'Everything is in order with you.' 'U vas' is literally 'at you', and 'vsyo v poryadke' means 'all is in order'. It's the happy ending to any inspection."),
+    (0, None, "'Everything is in order with you.' 'U vas' literally reads 'at you', and 'vsyo v poryadke' means 'all is in order'. It's the happy ending to any inspection."),
     (1, None, "'We do everything right.' 'Pravilno' means 'correctly' and comes from 'pravilo', 'a rule'. 'Delaem' is the 'we' ending: 'my delaem'."),
     (2, None, "'Thank you very much.' 'Spasibo' is a noun in Russian, so 'big' has to agree with it: 'bolshoe spasibo', literally 'a big thanks'."),
     (3, None, "'You really surprised me.' 'Udivili' comes from 'divo', an old word for 'wonder'. The '-li' ending is the polite 'vy' past, even for one person."),
     (4, None, "'Not a single cook without documents.' 'Ni odnogo' means 'not even one'. 'Bez', 'without', changes 'dokumenty' to 'dokumentov'."),
-    (5, None, "'I got used to working by the law.' 'Privykla', 'I got used to', ends in '-la' because Elena is a woman; a man would say 'privyk'. 'Po zakonu' means 'by the law'."),
+    (5, None, "'I got used to working by the law.' 'Privykla', 'I got used to', takes '-la' since Elena is speaking; a man would say 'privyk'. 'Po zakonu' means 'by the law'."),
     (6, None, "'It was very nice to meet you.' Russian says 'mne bylo priyatno', literally 'to me it was pleasant'. 'Poznakomitsya' grows out of 'znakomy', 'acquainted'."),
     (7, None, "'Maybe we can go somewhere else?' 'Kuda-nibud' means 'somewhere', in the sense of any place at all. '-nibud' makes 'who', 'what' and 'where' vague: 'kto-nibud', 'anyone'."),
     (8, None, "'Claude Monet is right nearby.' 'Ryadom' means 'nearby' or 'next door', and 'est' means 'there is'. In the subtitles the name is spelled 'Klod Mane', with an a, the way it sounds."),
-    (9, None, "'Excellent, I love French cuisine.' 'Kukhnya' means both 'kitchen' and 'cuisine', and it is the name of this show. 'Frantsuzskuyu' ends in '-uyu' because the cuisine is what he loves."),
-    (10, None, "'Attention! An inspection is coming to us!' 'Vnimanie' is the word for 'attention' on loudspeakers and in announcements. Russian says the inspection 'idyot', 'walks', toward them."),
+    (9, None, "'Excellent, I love French cuisine.' 'Kukhnya' means both 'kitchen' and 'cuisine', and it is the name of this show. 'Frantsuzskuyu' takes '-uyu' since the cuisine is what he loves."),
+    (10, None, "'Attention! An inspection is coming to us!' 'Vnimanie' gives the word for 'attention' on loudspeakers and in announcements. Russian says the inspection 'idyot', 'walks', toward them."),
     (11, None, "'Everyone without documents, out!' 'Von' means 'out!' or 'get out!', a one-word shove. Don't mix it up with 'vot', 'here it is'."),
 ]

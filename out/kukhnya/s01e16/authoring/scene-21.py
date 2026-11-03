@@ -34,7 +34,7 @@ WALK = [
     (3, None, "'And they want to deport you.' 'Khotyat', 'they want', has no 'they': Russian uses the plain plural verb for 'they' meaning the authorities. The '-irovat' ending turns many foreign words into Russian verbs."),
     (4, None, "'And nothing can be done?' 'Nelzya' usually means 'not allowed', but next to 'sdelat', 'to do', it means 'can't be done'. 'Nichego nelzya sdelat', 'nothing can be done', is the stock phrase for a hopeless case."),
     (5, None, "'I don't think so.' Russian says 'dumayu, net', literally 'I think, no'. It's a handy way to answer a question you don't like."),
-    (6, None, "'With someone else, maybe, we could strike a deal.' 'Udastsya' means 'it will work out', and it has no subject at all. 'Dogovoritsya' means 'to come to an agreement'."),
+    (6, None, "'With someone else, maybe, we could strike a deal.' 'Udastsya' means 'it will work out' and also has no subject at all. 'Dogovoritsya' means 'to come to an agreement'."),
     (7, None, "'Though, if you save his life...' 'Khotya' means 'although', the word for turning an idea around. 'Spasyosh', 'you will save', is a finished action, so the future is built into the ending."),
     (8, None, "'Maybe he will even forgive us.' 'Mozhet' here is short for 'mozhet byt', 'maybe'. The small 'i' before 'prostit' means 'even'."),
     (9, None, "'Very funny, Chef.' 'Smeshno' means 'funny', from 'smekh', 'laughter'. Said flatly, as here, it means the opposite, just as in English."),

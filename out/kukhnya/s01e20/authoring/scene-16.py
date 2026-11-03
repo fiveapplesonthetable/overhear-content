@@ -22,8 +22,8 @@ STORY = [
     ('max', 'Тебе нужнее.', 'You need it more.', [(287, 'Тебе нужнее')], ''),
 ]
 WALK = [
-    (0, None, "'Excuse me. Is this normal?' Russian uses \"normalno\", 'normal', all the time for 'okay' or 'fine'."),
-    (1, None, "'Well, it happens.' The word \"byvaet\", 'it happens', is what you say in Russian to shrug something off."),
-    (2, None, "'Here. Hang in there, old man.' Russian hands things over with \"na\", a little word like 'here, take it', and \"derzhis\" literally means 'hold on'."),
-    (3, None, "'You need it more.' The word \"nuzhnee\" means 'more needed', so \"tebe nuzhnee\" is literally 'to you it's more needed'."),
+    (0, None, '\'Excuse me. Is this normal?\' Russian uses "normalno", \'normal\', all the time for \'okay\' or \'fine\'.'),
+    (1, None, '\'Well, it happens.\' The word "byvaet", \'it happens\', is what you say in Russian to shrug something off.'),
+    (2, None, '\'Here. Hang in there, old man.\' Russian hands things over with "na", a little word like \'here, take it\', and "derzhis" literally means \'hold on\'.'),
+    (3, None, '\'You need it more.\' The word "nuzhnee" means \'more needed\', so "tebe nuzhnee" literally means \'to you it\'s more needed\'.'),
 ]

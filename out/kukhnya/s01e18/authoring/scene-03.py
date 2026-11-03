@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'In my restaurant I will control everything!\' "Kontrolirovat" is borrowed: the root \'control\' plus "-irovat", which turns foreign words into Russian verbs. "V moyom restorane": after "v", restaurant gains an \'e\'.'),
-    (1, None, '\'Turn off all the extra lights right now!\' "Nemedlenno", immediately, is literally \'not slowly\': "ne" plus "medlenno". Russian says "ves svet", all the light, in the singular.'),
+    (1, None, '\'Turn off all the extra lights right now!\' "Nemedlenno", immediately, word-for-word means \'not slowly\': "ne" plus "medlenno". Russian says "ves svet", all the light, in the singular.'),
     (2, None, '\'Where can we get so much money in a week?\' "Gde nam vzyat", literally \'where to us to take\'. After "stolko", so much, money becomes "deneg".'),
     (3, None, '\'Listen, how about we sell your watch?\' "Davay" plus the \'we\' form "prodadim" makes \'let\'s sell\'. A watch, "chasy", is always plural, so it\'s "tvoi chasy".'),
     (4, None, '\'No way, it\'s my grandfather\'s old watch.\' "Nelzya" means \'it\'s not allowed\'; here it shuts the idea down. "Moego dedushki", of my grandfather: "dedushka" ends in \'i\' to show whose watch.'),

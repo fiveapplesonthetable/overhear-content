@@ -27,11 +27,11 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Not bad.' 'Neplokho' is one word: 'ne', 'not', joined to 'plokho', 'badly'. Russians use it for anything from 'fine' to 'quite good'."),
-    (1, None, "'Really?' 'Da?' is literally 'yes?', but with a rising voice it means 'really?', so one syllable does the work of a whole question. Max is fishing for more praise."),
+    (1, None, "'Really?' 'Da?' literally reads 'yes?', but with a rising voice it means 'really?', so one syllable does the work of a whole question. Max is fishing for more praise."),
     (2, None, "'Only this isn't my pâté.' 'Tolko', 'only', also works as 'but' at the start of a sentence. The 'ne', 'not', goes right before the word it denies, here 'moy', 'my'."),
     (3, None, "'What? Same texture.' Max says 'kak?', literally 'how?', which is what Russians say when they are stunned. 'Ta zhe' means 'the same', and 'ta' is feminine to match 'konsistentsiya'."),
-    (4, None, "'And I got the ingredients right.' 'Sostav', 'composition', is the word printed above the ingredients list on any packet. 'Podobral' means 'picked out' or 'matched'."),
-    (5, None, "'Wait.' 'Podozhdite' is the polite 'wait', with the '-ite' ending for 'vy'. To a friend Max would say 'podozhdi'."),
+    (4, None, "'And I got the ingredients right.' 'Sostav', 'composition', is the expression printed above the ingredients list on any packet. 'Podobral' means 'picked out' or 'matched'."),
+    (5, None, "'Wait.' 'Podozhdite' supplies the polite 'wait', with the '-ite' ending for 'vy'. To a friend Max would say 'podozhdi'."),
     (6, None, "'What goes into your pâté?' Russian says the ingredients 'vkhodyat v', 'go into', a dish. 'Vash', 'your', goes with 'vy'."),
     (7, None, "'Let's go and take a look.' 'Poydyom posmotrim', literally 'we'll go, we'll look', needs no 'and' between the verbs. Barinov says it instead of answering."),
 ]

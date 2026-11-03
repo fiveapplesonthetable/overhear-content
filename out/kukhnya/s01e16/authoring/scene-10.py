@@ -32,7 +32,7 @@ STORY = [
 WALK = [
     (0, None, "'Half go through the back door.' The back door is 'chyorny khod', literally 'the black way', the staff and delivery entrance. 'Polovina', 'half', takes a singular verb, 'idyot', 'goes'."),
     (1, None, "'Half go through the dining room.' 'Zal' means 'hall', and in a restaurant it is the dining room, where the guests sit. 'Cherez', 'through', is followed by the place unchanged."),
-    (2, None, "'Chef, the back door is blocked!' Russian needs no 'is' here: 'khod zakryt' is literally 'door closed'. 'Zakryt' is the word on a shop sign that says 'closed'."),
+    (2, None, "'Chef, the back door is blocked!' Russian needs no 'is' here: 'khod zakryt' word-for-word means 'door closed'. 'Zakryt' is the Russian word on a shop sign that says 'closed'."),
     (3, None, "'What kind of idiots are you?' 'Chto za' means 'what kind of', and here the 'vy' is plural, for the whole group. The original line uses 'invalidy', 'cripples', an insult Barinov uses a lot."),
     (4, None, "'You can't even run away!' 'Dazhe', 'even', goes right in front of what fails, here 'sbezhat', 'to run away'. 'Mozhete', 'you can', is the plural 'vy' form."),
     (5, None, "'Quickly, to my office.' Russian leaves out 'go' and gives only the direction. 'Ko mne' means 'to me', and 'k' becomes 'ko' before 'mne' so it is easier to say."),

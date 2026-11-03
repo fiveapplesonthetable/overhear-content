@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's step through the eight lines of Joon-mo's hearing."
 
 WALK = [
-    (0, None, "'Let's hold the meeting at four, I told you I'm going to the Commission.' Hurrying out of the office, Joon-mo uses the word for 'meeting' with the phrase for 'at four o'clock'. His ending reminds his team a bit impatiently: 'I already said let's do it then!' It is a handy word."),
-    (1, None, "'Nobody likes being called in by them.' In his interview, the word for 'to call' or 'summon' is paired with an expression meaning 'you dislike it, naturally'. Even veteran producers dread getting summoned here We built from this."),
-    (2, None, "'Today, vulgar language was used during the broadcast.' Across the table, the commissioner uses the formal Korean term for slang or crude language alongside the word for 'you used'. Placing the word for 'during' after 'broadcast' means 'in the middle of the broadcast' The word doubles the."),
-    (3, None, "'Which word was it?' The sentence opens with a word asking 'which' or 'what kind of', right before the phrase for 'was the word?'. Notice how the final question ending asks Joon-mo to state for the record something they both already see in the file This literally means that."),
-    (4, None, "'It was 'booger'.' Forced to say a silly childhood word with a deadpan face, Joon-mo answers with the word for 'booger' — built from the word for 'nose' — plus the stiffest formal past ending. The contrast between baby talk and courtroom formality is pure comedy The word doubles the."),
-    (5, None, "'Couldn't you have replaced it with a more dignified word?' The commissioner pairs the word for 'dignity' or 'class' with 'word' to mean 'dignified phrasing', then uses the word for 'substitution' to ask why his editors left the joke untouched The word doubles the."),
-    (6, None, "'Viewers watch while eating a meal — would they have an appetite?' The polite word for a meal is used in a form meaning 'while dining'. Then the word for 'appetite' literally joins 'rice' and 'taste' to mean your appetite at the table! We built from this."),
-    (7, None, "'I reflect deeply on it, I'm sorry.' Seasoned by too many hearings, Joon-mo folds instantly with the classic Korean public-apology phrase for 'I reflect on my fault', before sealing it with 'I'm sorry' It comes from this."),
+    (0, None, "'Let's hold the meeting at four, I told you I'm going to the Commission.' Hurrying out of the office, Joon-mo pairs the word meaning 'meeting' with 'at four o'clock'. His emphatic ending reminds his team impatiently: 'I already told you let's do it then!'."),
+    (1, None, "'Nobody likes being called in by them.' In his interview, 'to call' or 'summon' is paired with a polite tag meaning 'you dislike it, naturally'. Even veteran producers dread getting summoned here."),
+    (2, None, "'Today, vulgar language was used during the broadcast.' Across the table, the commissioner uses the formal Korean term for crude slang alongside 'you used'. Placing the short word meaning 'during' right after 'broadcast' means 'in the middle of the broadcast'."),
+    (3, None, "'Which word was it?' The question opens with a word asking 'which' or 'what kind of', right before 'was the word?'. Notice how that closing question ending asks Joon-mo to state for the record something they both already see in the file."),
+    (4, None, "'It was \"booger\".' Forced to say a silly childhood word with a deadpan face, Joon-mo answers with the word for 'booger' — built from the word for 'nose' — plus the stiffest formal past ending. The contrast between baby talk and courtroom formality is pure comedy."),
+    (5, None, "'Couldn't you have replaced it with a more dignified word?' The commissioner pairs the noun meaning 'dignity' or 'class' with 'speech' to mean 'dignified phrasing', then uses 'substitution' to ask why his editors left the joke untouched."),
+    (6, None, "'Viewers watch while eating a meal — would they have an appetite?' The polite word for dining is used in a form meaning 'while having a meal'. Then the expression for 'appetite' literally joins 'cooked rice' and 'taste'!"),
+    (7, None, "'I reflect deeply on it, I'm sorry.' Seasoned by too many hearings, Joon-mo folds instantly with the classic Korean public-apology expression meaning 'I reflect on my fault', before sealing it with a formal 'I am sorry'."),
 ]
 
 TRANSITION = "Now let's hear the whole Commission hearing again from start to finish."

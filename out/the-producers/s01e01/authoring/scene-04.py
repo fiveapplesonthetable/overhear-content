@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's break down those eight lines from the variety office tour."
 
 WALK = [
-    (0, None, "It literally means this. 'This is the ratings chart you'll see every morning.' The phrase for 'every morning' pairs 'every day' with 'morning', a time chunk you can drop into any daily routine. The word for 'ratings chart' tacks the suffix for 'chart' or 'table' onto the word for television viewership ratings Swap in this word."),
-    (1, None, "It literally means this. 'For us, this is like a report card.' Adding a topic word onto the word for 'us' means 'as far as we are concerned'. He compares the numbers to a school report card, followed by a phrase meaning 'it is something like' This means that."),
-    (2, None, "It literally means this. 'Getting a seven isn't easy these days.' He uses the breezy spoken cousin of the standard word for 'these days'. Seven percent is stated as a sino-korean number, and the word ending flips 'easy' into 'not easy at all' This literally means that."),
-    (3, None, "It literally means this. 'I came here with really high expectations.' Cutting to his interview, Seung-chan pairs an word meaning 'really' or 'super' with the expression for 'to have big expectations'. The sentence ending adds an earnest 'I mean, really!' tone This short for that."),
-    (4, None, "It literally means this. 'Sometimes I get confused.' Korean says confusion comes to you, literally phrasing it as 'confusion came'. The word at the front means 'sometimes' or 'every now and then' It is a handy word."),
-    (5, None, "It literally means this. 'Everyone, watch closely what I do.' Back at his desk, Tae-ho gathers the rookies with the word for 'everyone'. His command pairs the word for 'well' or 'closely' with the casual word 'look!' We built from this."),
-    (6, None, "It literally means this. 'This week's Gag Concert tickets? We don't have any.' Notice how the same word that meant 'chart' earlier means an admission 'ticket' for Gag Concert here! His one-word answer — 'there are none' — works in shops, offices, and cafés alike The word doubles the."),
-    (7, None, "It literally means this. 'It's good to draw the line from the start and say no.' The opening phrase means 'from the very beginning', followed by a quoted 'no way'. Remarkably like English, Korean uses an idiom that literally means 'draw a line' for setting boundaries The word doubles the."),
+    (0, None, "'This is the ratings chart you'll see every morning.' The phrase meaning 'every morning' pairs 'every day' with 'morning', a handy time chunk you can drop into any daily routine. The compound term for 'ratings chart' tacks 'chart' or 'table' onto television viewership ratings."),
+    (1, None, "'For us, this is like a report card.' Adding 'to' plus a topic marker onto 'us' means 'as far as we are concerned'. He compares the numbers to a school report card, followed by a casual expression meaning 'it is something like that'."),
+    (2, None, "'Getting a seven isn't easy these days.' He opens with the breezy spoken cousin of the standard word meaning 'these days'. Seven percent is read in the number system borrowed from Chinese, and the closing pattern flips 'easy' into 'not easy at all'."),
+    (3, None, "'I came here with really high expectations.' Cutting to his interview, Seung-chan pairs a casual intensifier meaning 'really' or 'super' with the expression meaning 'to have big expectations'. The final ending adds an earnest 'I mean, honestly!' tone."),
+    (4, None, "'Sometimes I get confused.' Korean says confusion comes to you, literally phrasing it as 'confusion came'. The opening word means 'sometimes' or 'every now and then'."),
+    (5, None, "'Everyone, watch closely what I do.' Back at his desk, Tae-ho gathers the rookies with the everyday word meaning 'everyone'. His command pairs 'closely' with the casual form meaning 'look!'."),
+    (6, None, "'This week's Gag Concert tickets? We don't have any.' Notice how the exact same syllable that meant 'chart' earlier means an admission 'ticket' for Gag Concert here! His one-word answer meaning 'there are none' works in shops, offices, and cafés alike."),
+    (7, None, "'It's good to draw the line from the start and say no.' The opening phrase means 'from the very beginning', followed by a quoted 'no way'. Remarkably like English, Korean uses an idiom that literally means 'draw a line' for setting firm boundaries."),
 ]
 
 TRANSITION = "Now let's listen to the whole office tour scene again."

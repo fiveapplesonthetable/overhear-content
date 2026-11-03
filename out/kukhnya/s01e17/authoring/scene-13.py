@@ -28,7 +28,7 @@ STORY = [
     ('barinov', 'Спасибо.', 'Thank you.', [(229, 'Спасибо.')], ''),
 ]
 WALK = [
-    (0, None, '\'Good afternoon. Glad to see you at our restaurant.\' "Dobryy den" is the polite daytime hello. "Rada" ends in "-a" because the hostess is a woman.'),
+    (0, None, '\'Good afternoon. Glad to see you at our restaurant.\' "Dobryy den" carries a polite daytime hello. "Rada" carries "-a" as the hostess is a woman.'),
     (1, None, '\'Would you like the smoking or the non-smoking room?\' "Dlya kuryashchikh" means "for those who smoke", from "kurit", to smoke. "Vam", for you, is polite.'),
     (2, None, '\'Oh, you have separate sections?\' "Razdelenie", division, comes from "delit", to divide. "U vas" means "you have", literally "at you".'),
     (3, None, '\'Well, well. Two rooms, even.\' "Nado zhe" is a set phrase of surprise, here fake surprise. After "dva", two, "zal" picks up an "-a": "dva zala".'),
@@ -36,6 +36,6 @@ WALK = [
     (5, None, '\'It\'s a sheikh\'s palace, really.\' "Prosto" is "simply", used here like "just" or "practically". "Sheykha" is "of a sheikh", the genitive.'),
     (6, None, '\'Such stupid jokes.\' "Duratskie", silly, comes from "durak", a fool. "Takie" is "such", matching the plural "shutki", jokes.'),
     (7, None, '\'A regular smoking room for us.\' "Nam", to us, is enough to ask for something: no verb needed. "Prostoy" means simple or ordinary.'),
-    (8, None, '\'This way, please.\' "Proshu" is literally "I ask", the usual polite word when you show someone where to go.'),
+    (8, None, '\'This way, please.\' "Proshu" word-for-word means "I ask", the usual polite word when you show someone where to go.'),
     (9, None, '\'Thank you.\' "Spasibo" works for a host, a waiter or a friend alike.'),
 ]

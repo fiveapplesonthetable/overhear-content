@@ -31,8 +31,8 @@ STORY = [
     ('barinov', 'Отлично, вместе мы обязательно победим эту жадность!', 'Great, together we will definitely defeat this greed!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Vika, our owner is behaving like a madman.\' "Vedyot sebya", literally \'leads himself\', is how Russian says \'behaves\'. "Sumasshedshiy" is literally \'gone out of his mind\'.'),
-    (1, None, '\'I never thought I\'d agree with you.\' "Dumala" ends in "-la" because Vika is a woman. "S toboy", with you, is the friendly "ty" form.'),
+    (0, None, '\'Vika, our owner is behaving like a madman.\' "Vedyot sebya", literally \'leads himself\', is how Russian says \'behaves\'. "Sumasshedshiy" literally reads \'gone out of his mind\'.'),
+    (1, None, '\'I never thought I\'d agree with you.\' "Dumala" takes "-la" since Vika is speaking. "S toboy", with you, is the friendly "ty" form.'),
     (2, None, '\'He wants to wreck the whole restaurant\'s work.\' "Razrushit" is to wreck, to tear down. "Nashego restorana", of our restaurant, ends in "-ego" and "-a" to say whose work.'),
     (3, None, '\'He made them turn the lights off even in the dining room.\' "Zastavil" means forced, made someone do it. "Dazhe", even, goes right before \'in the hall\'.'),
     (4, None, '\'And he insists on buying the cheapest meat.\' Russian makes \'cheapest\' with "samoe", most, plus cheap. Both end in \'oe\' to match "myaso", meat.'),
@@ -40,7 +40,7 @@ WALK = [
     (6, None, '\'We have to do something, fast.\' "Nado", it\'s necessary, is the everyday \'we have to\'. "Chto-to", something: "chto" with "-to" on the end.'),
     (7, None, '\'But what exactly can we do right now?\' "Imenno" means exactly, precisely. "Mozhem", we can, from "moch", to be able.'),
     (8, None, '\'We have to act together against a common enemy.\' After "protiv", against, both words change: "obshchego vraga". "Vrag" is an enemy.'),
-    (9, None, '\'Are you suggesting we fight our greedy owner?\' "Predlagaesh", you\'re suggesting, is the friendly "ty" form. "Borotsya protiv", to fight against: \"protiv\" turns the owner into \"nashego zhadnogo khozyaina\".'),
+    (9, None, '\'Are you suggesting we fight our greedy owner?\' "Predlagaesh", you\'re suggesting, is the friendly "ty" form. "Borotsya protiv", to fight against: "protiv" turns the owner into "nashego zhadnogo khozyaina".'),
     (10, None, '\'We\'ll save the restaurant and bring back proper order.\' "Vernyom" means we\'ll bring back. "Poryadok" is order; "vsyo v poryadke" means everything\'s fine.'),
     (11, None, '\'All right, let\'s think it over together.\' "Ladno", all right, is a grudging yes. "Davay podumaem", let\'s think: "davay" plus the \'we\' form.'),
     (12, None, '\'Great, together we\'ll beat this greed for sure!\' "Pobedim", we\'ll defeat, shares a root with "pobeda", victory. "Zhadnost", greed, comes from "zhadnyy", greedy.'),

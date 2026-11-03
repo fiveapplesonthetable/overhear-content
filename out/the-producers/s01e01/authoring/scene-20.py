@@ -31,14 +31,14 @@ STORY = [
 OPENER = "Let's walk through the eight lines of this dressing-room standoff."
 
 WALK = [
-    (0, None, "'Under KBS broadcast rules, a racy outfit like this isn't allowed.' Adding the suffix for 'according to' onto the word for 'regulations' means 'under the rules'. The phrase for 'a racy outfit' pairs the word meaning 'risqué' or 'too revealing' with the word for 'clothes' It comes from this."),
-    (1, None, "'It's not a racy outfit, it's a pretty outfit.' Without blinking, Cindy swaps the word for 'racy' for the word for 'pretty'. Trailing off with a soft contrast ending pushes back smoothly while sounding completely composed This short for that."),
-    (2, None, "'Isn't this pretty?' Pointing out Seung-chan by his polka-dot tie, she asks a leading question — adding the negative question ending onto 'pretty' turns it into 'isn't it pretty?', daring him to disagree! Notice the word for."),
-    (3, None, "'See there, PD, he says it's pretty.' After poor Seung-chan nods, Cindy gloats with an expression meaning 'see, told you so!'. Tacking a reminder ending onto 'pretty' tells Ye-jin: 'you just saw him agree it's pretty!' The word doubles the."),
-    (4, None, "'Have you ever watched Music Bank at home with your mum?' It opens with the words for 'at home' and 'with mum'. Best of all is the experiential question pattern at the end — put any past-word modifier before it to ask 'have you ever...?' Notice the word for."),
-    (5, None, "'As for watching it, I think maybe I have.' Caught between two glares, Seung-chan hedges with a topic-marked phrase for 'as for having seen it' and a tentative ending meaning 'seems like maybe so' — peak rookie survival Korean This literally means that."),
-    (6, None, "'I won't do this show, I can just leave.' Calling Ye-jin's bluff minutes before air, Cindy says she won't do it, using TV shorthand for 'programme'. The final clause means 'all I have to do is walk out' This short for that."),
-    (7, None, "'This really won't do, everyone step outside.' Realizing a star won't back down in front of an audience, Ye-jin clears the room with the word for 'everybody' and a command meaning 'go out and wait outside' This short for that."),
+    (0, None, "'Under KBS broadcast rules, a racy outfit like this isn't allowed.' Adding the suffix meaning 'according to' onto 'regulations' gives 'under the rules'. The phrase for 'a racy outfit' pairs a word meaning 'risqué' or 'too revealing' with 'clothes'."),
+    (1, None, "'It's not a racy outfit, it's a pretty outfit.' Without blinking, Cindy swaps 'racy' for the everyday word meaning 'pretty'. Trailing off with a soft contrast ending pushes back smoothly while sounding completely composed."),
+    (2, None, "'Isn't this pretty?' Pointing out Seung-chan by his polka-dot tie, she asks a leading question: adding the negative question ending onto 'pretty' turns it into 'isn't it pretty?', daring him to disagree!"),
+    (3, None, "'See there, PD, he says it's pretty.' After poor Seung-chan nods, Cindy gloats with a lively expression meaning 'see, told you so!'. Tacking a reminder ending onto 'pretty' tells Ye-jin: 'you just heard him say it's pretty!'."),
+    (4, None, "'Have you ever watched Music Bank at home with your mum?' She opens with the everyday words for 'at home' and 'with mum'. Best of all is the experience pattern at the end — put any past action before it to ask 'have you ever...?'."),
+    (5, None, "'As for watching it, I think maybe I have.' Caught between two glares, Seung-chan hedges by repeating 'seen' inside a topic-marked phrase for 'as for having seen it' and a tentative ending meaning 'seems like maybe so' — peak rookie survival Korean."),
+    (6, None, "'I won't do this show, I can just leave.' Calling Ye-jin's bluff minutes before air, Cindy says she won't do it, using TV shorthand for 'programme'. The final expression literally means 'if I just go, that works'."),
+    (7, None, "'This really won't do, everyone step outside.' Realizing a star won't back down in front of an audience, Ye-jin clears the room with the word meaning 'everybody' and a brisk command meaning 'go out and wait outside'."),
 ]
 
 TRANSITION = "Now let's hear the whole dressing-room clash again at full speed."

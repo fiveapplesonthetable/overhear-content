@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Hold it right there.\' "Stoyat" is the dictionary form of "to stand", barked as an order, like a guard\'s "freeze!".'),
-    (1, None, '\'What\'s the matter?\' "V chyom delo?" is literally "in what is the matter?", a fixed way to ask what\'s wrong.'),
+    (1, None, '\'What\'s the matter?\' "V chyom delo?" literally says "in what is the matter?", a fixed way to ask what\'s wrong.'),
     (2, None, '\'You stole our dish.\' "Ukrali" is "stole" for "vy". "Blyudo", dish, is a word you\'ll see on every menu.'),
     (3, None, '\'I knew it.\' "Ya tak i znal", literally "I so and knew", is the set phrase for "I knew it!".'),
     (4, None, '\'You can\'t do anything yourselves.\' "Sami", yourselves, comes last for weight, and "nichego ne" doubles the no.'),
     (5, None, '\'We\'ve had this dish since the day we opened.\' "So dnya otkrytiya" is "since the day of opening": "s" grows to "so" before "dnya".'),
-    (6, None, '\'Give me the menu, please.\' "Dayte" is the polite "give", and "mne" means "to me".'),
+    (6, None, '\'Give me the menu, please.\' "Dayte" gives the polite "give", and "mne" means "to me".'),
     (7, None, '\'Look at this date.\' "Posmotrite na" is "look at", and Russian needs that "na". "Eta data" becomes "etu datu" after it.'),
     (8, None, '\'Well, well.\' "Nu" said twice and slowly is a doubtful "we\'ll see about that".'),
-    (9, None, '\'Can you see clearly?\' "Vy khorosho vidite?" is literally "do you see well?", and from Elena it\'s a jab.'),
+    (9, None, '\'Can you see clearly?\' "Vy khorosho vidite?" literally means "do you see well?", and from Elena it\'s a jab.'),
     (10, None, '\'Yes, fine.\' "Normalno", literally "normally", is the everyday answer for "fine" or "okay".'),
-    (11, None, '\'Sorry.\' "Izvinite" is the polite "excuse me", for "vy". It\'s a word you rarely hear from Barinov.'),
+    (11, None, '\'Sorry.\' "Izvinite" supplies the polite "excuse me", for "vy". It\'s a word you rarely hear from Barinov.'),
 ]

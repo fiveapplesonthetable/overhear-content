@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'I\'m in a lousy mood.\' Russian says "the mood is lousy": "nastroenie", mood, and "parshivoe", a casual word for lousy.'),
-    (1, None, '\'I could go for pizza.\' "Khochetsya" is a softer "I want", with no "I" in it at all. "Na pitstsu" is literally "onto pizza", meaning out for pizza.'),
-    (2, None, '\'Come on, I\'ll cheer you up.\' "Podnimu tebe nastroenie" is literally "I\'ll lift the mood for you". "Poydyom" is how friends say "let\'s go".'),
+    (1, None, '\'I could go for pizza.\' "Khochetsya" is a softer "I want", with no "I" in it at all. "Na pitstsu" literally reads "onto pizza", meaning out for pizza.'),
+    (2, None, '\'Come on, I\'ll cheer you up.\' "Podnimu tebe nastroenie" word-for-word means "I\'ll lift the mood for you". "Poydyom" is how friends say "let\'s go".'),
     (3, None, '\'Hi! Here we are.\' "A vot i my" is a set phrase for arriving somewhere: literally "and here also we".'),
     (4, None, '\'Oh, meet Vika.\' "Poznakomtes" means "get acquainted", and its "-tes" ending is for more than one person, since Max is talking to both friends.'),
     (5, None, '\'Actually, we already know Viktoria Sergeevna.\' "Voobshche-to", actually, is a gentle correction. After "znakomy s", acquainted with, her name changes to "Viktoriey Sergeevnoy".'),
     (6, None, '\'No, no, no, stop. She\'s just Vika, my girlfriend.\' "Devushka", girl, is also the usual word for girlfriend. "Prosto Vika", just Vika, drops the boss.'),
     (7, None, '\'Vika, this is just Nastya and just Kostya, my friends.\' Max puts "prosto", just, in front of each name, and "druzya" is the plural of "drug", friend.'),
     (8, None, '\'Well, from work.\' "S raboty" means "from work": "rabota" ends in "-y" after "s" when it means "from".'),
-    (9, None, '\'All right, sit down.\' "Sadis" is the casual command for one person, so Max is now talking only to Vika.'),
+    (9, None, '\'All right, sit down.\' "Sadis" gives the casual command for one person, so Max is now talking only to Vika.'),
     (10, None, '\'Sit here, get comfortable.\' "Poudobnee" comes from "udobno", comfortable, and means "more comfortably". Max is fussing over her.'),
-    (11, None, '\'And I\'ll go get us something to drink, okay?\' "Prinesu vypit" is literally "I\'ll bring to drink". "Okey" is borrowed straight from English.'),
+    (11, None, '\'And I\'ll go get us something to drink, okay?\' "Prinesu vypit" literally says "I\'ll bring to drink". "Okey" is borrowed straight from English.'),
 ]

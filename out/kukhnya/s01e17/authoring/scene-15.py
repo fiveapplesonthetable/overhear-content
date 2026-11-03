@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Вика, мои друзья меня точно поймут.', 'Vika, my friends will definitely understand me.', [(264, 'они меня поймут')], ''),
 ]
 WALK = [
-    (0, None, '\'We already have the menu, thank you very much.\' "Menyu uzhe u nas" is literally "menu already at us", meaning "we have the menu".'),
+    (0, None, '\'We already have the menu, thank you very much.\' "Menyu uzhe u nas" literally reads "menu already at us", meaning "we have the menu".'),
     (1, None, '\'So what have we got here?\' "Nu i chto tut u nas?" is the standard thing to say as you open a menu or a box.'),
     (2, None, '\'There\'s Russian, French and Japanese cuisine here.\' "Kukhnya" means both kitchen and cuisine. All three words before it end in "-aya" to match.'),
     (3, None, '\'They call this the cuisine of the whole world.\' "Nazyvayut" means "they call". "Vsya kukhnya mira", all the world\'s cuisine, is the restaurant\'s own boast.'),
     (4, None, '\'There\'s pizza, sushi and borscht here.\' "Est" means "there is". "Borshch" is the beet soup, sitting on one menu with pizza and sushi.'),
-    (5, None, '\'Max, how are things in the kitchen?\' "Kak idut dela" is literally "how are matters walking". "Na kukhne": "kukhnya" becomes "kukhne" after "na".'),
+    (5, None, '\'Max, how are things in the kitchen?\' "Kak idut dela" word-for-word means "how are matters walking". "Na kukhne": "kukhnya" becomes "kukhne" after "na".'),
     (6, None, '\'All good, we\'re working calmly.\' "Spokoyno" means calmly, without any trouble.'),
     (7, None, '\'I\'ve thought of a dish for the holiday dinner.\' "Pridumala", came up with, has the woman\'s "-a" ending. "Prazdnichnyy", festive, comes from "prazdnik", holiday.'),
     (8, None, '\'That\'s just great, thank you so much.\' "Zdorovo", great, is stressed at the start; stress the end and it\'s a slangy "hi".'),
     (9, None, '\'Wait, what\'s this ticket?\' "Chto za bilet" is "what sort of ticket". "Podozhdi" is the friendly "wait".'),
     (10, None, '\'Nastya and Kostya gave me a ticket to the club.\' "Podarili", gave as a present, comes from "podarok". "V klub" keeps "klub" as it is for a destination.'),
     (11, None, '\'So there\'s only one ticket?\' "Odin", one, is the whole point: one ticket, not two.'),
-    (12, None, '\'Am I cooking dinner tonight or not?\' "Mne gotovit" is literally "to me to cook", the Russian way to ask "should I...?".'),
+    (12, None, '\'Am I cooking dinner tonight or not?\' "Mne gotovit" literally says "to me to cook", the Russian way to ask "should I...?".'),
     (13, None, '\'Vika, my friends will definitely understand me.\' "Poymut", will understand, comes from "ponyat". "Menya" means "me".'),
 ]

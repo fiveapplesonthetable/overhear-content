@@ -31,9 +31,9 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'That\'s not all, keep listening.\' "Eshchyo ne vsyo", literally \'still not all\'. "Slushay dalshe", listen further, means \'there\'s more\'.'),
-    (1, None, '\'What other secret are you going to show me?\' "Kakoy eshchyo" means \'what other\', a bit wary. "Pokazhesh" ends in "-esh" because Kostya says "ty" to Max.'),
+    (1, None, '\'What other secret are you going to show me?\' "Kakoy eshchyo" means \'what other\', a bit wary. "Pokazhesh" uses "-esh" given Kostya says "ty" to Max.'),
     (2, None, '\'Now I\'ll show you a new trick.\' A "fokus" is a magic trick, not focus. In "pokazhu", I\'ll show, the \'z\' of "pokazat" turns into \'zh\'.'),
-    (3, None, '\'Anyway, first you take a clean glass.\' "Koroche" is literally \'shorter\', meaning \'long story short\'. "Beryosh", you take, is the general \'you\' of instructions.'),
+    (3, None, '\'Anyway, first you take a clean glass.\' "Koroche" literally says \'shorter\', meaning \'long story short\'. "Beryosh", you take, is the general \'you\' of instructions.'),
     (4, None, '\'Okay, I\'ve got a big, beautiful glass.\' "Vzyal", took, ends in "-l", the past tense for a man. A "bokal" is a stemmed glass, fancier than a "stakan".'),
     (5, None, '\'Now imagine I\'m a rich guest.\' "Predstav" is a command to one friend: imagine. Present tense has no \'am\', so it\'s just \'that I rich guest\'.'),
     (6, None, '\'What would you like to order this evening?\' In the role-play Kostya switches to the polite "vy": "chto vy zhelaete", what do you wish, is waiter talk.'),

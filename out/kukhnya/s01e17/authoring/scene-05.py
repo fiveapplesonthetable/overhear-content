@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'I have an announcement.\' "U menya", literally "at me", is how Russian says "I have". "Obyavlenie" is the announcement itself.'),
-    (1, None, '\'We need a seasonal dish.\' "Nuzhno blyudo" is literally "needed, a dish". There\'s no "we" at all, just the thing that\'s needed.'),
-    (2, None, '\'Chef, wait.\' "Podozhdite" is the polite command, with "-ite" for "vy". A friend would just hear "podozhdi".'),
+    (1, None, '\'We need a seasonal dish.\' "Nuzhno blyudo" word-for-word means "needed, a dish". There\'s no "we" at all, just the thing that\'s needed.'),
+    (2, None, '\'Chef, wait.\' "Podozhdite" works as the polite command, with "-ite" for "vy". A friend would just hear "podozhdi".'),
     (3, None, '\'But you said you wouldn\'t be the one coming up with it.\' "Zhe" adds a tone of "but you did say!". "Ne budete pridumyvat" is "budete", you will, plus the plain form of "come up with".'),
-    (4, None, '\'And I won\'t.\' "A ya i ne budu" is literally "and I also won\'t be": the little "i" here means "indeed".'),
+    (4, None, '\'And I won\'t.\' "A ya i ne budu" literally says "and I also won\'t be": the little "i" here means "indeed".'),
     (5, None, '\'You will.\' "Budete vy" puts "vy" last, which is where Russian puts the word it wants to stress.'),
     (6, None, '\'The winner gets a bonus.\' "Premiya" is a bonus at work, and it turns into "premiyu" as the thing received. "Pobeditel", winner, comes from "pobeda", victory.'),
     (7, None, '\'And I won\'t call him a cripple.\' Barinov\'s favourite insult is "invalid", and after "nazyvat", to call someone something, it picks up "-om": "invalidom".'),
     (8, None, '\'And is the bonus right away?\' Max starts with "a", and, which turns it into a follow-up question. "Srazu" means "right away".'),
     (9, None, '\'The bonus comes at the end of the month.\' "V kontse mesyatsa": "konets", end, becomes "kontse", and "mesyats", month, becomes "mesyatsa".'),
     (10, None, '\'But I\'ll stop calling you a cripple right away.\' "Perestanu" is "I\'ll stop", and the plain "nazyvat" follows it. "Srazu" comes back as the punchline.'),
-    (11, None, '\'Everyone got it? Yes, chef!\' "Vse ponyali" is literally "all understood", and "Da, shef!" is the kitchen\'s standard reply.'),
+    (11, None, '\'Everyone got it? Yes, chef!\' "Vse ponyali" literally means "all understood", and "Da, shef!" is the kitchen\'s standard reply.'),
 ]

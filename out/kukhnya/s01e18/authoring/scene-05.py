@@ -33,7 +33,7 @@ STORY = [
 WALK = [
     (0, None, '\'Here you go, here\'s your delicious drink.\' "Pozhaluysta" means please, and also \'here you go\' as you hand something over. A "napitok" is a drink, from "pit", to drink.'),
     (1, None, '\'Kostya, you do a great job behind this bar.\' "Za", behind, makes \'this counter\' "etoy stoykoy". "Stoyka", a bar counter, comes from "stoyat", to stand.'),
-    (2, None, '\'Thanks, I try to be very polite.\' "Starayus", I try, belongs to \"staratsya\", to make an effort. After "byt", to be, polite becomes "vezhlivym".'),
+    (2, None, '\'Thanks, I try to be very polite.\' "Starayus", I try, belongs to "staratsya", to make an effort. After "byt", to be, polite becomes "vezhlivym".'),
     (3, None, '\'Guests always love fresh, tasty drinks.\' "Lyubyat", they love. "Svezhie i vkusnye" both end in \'e\' to match the plural drinks.'),
     (4, None, '\'Our bar has the very best drinks.\' Literally \'in our bar the most best drinks\', with no \'has\' or \'is\'. "Samye luchshie" doubles up for \'the very best\'.'),
     (5, None, '\'People in the dining room will pay any money.\' "Gotovy", ready, plus "platit", to pay. "Lyubye dengi", literally any money: whatever it costs.'),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, '\'You\'re just too honest and kind a guy.\' "Slishkom" means too, as in too much. "Paren" is a guy, a casual word between friends.'),
     (10, None, '\'But at least my conscience is clear.\' "Zato" means \'but at least\'. "U menya", at me, is how Russian says \'my\' here; "chista", clear, is short and feminine to match "sovest".'),
     (11, None, '\'All right, keep pouring juice and wine.\' "Prodolzhay", keep going, is followed by the plain "nalivat", to pour.'),
-    (12, None, '\'I\'ll happily pour the guests some juice!\' "S radostyu", literally \'with joy\'. "Gostyam", to the guests, ends in "-am" because the juice goes to them.'),
+    (12, None, '\'I\'ll happily pour the guests some juice!\' "S radostyu", literally \'with joy\'. "Gostyam", to the guests, takes "-am" since the juice goes to them.'),
 ]
