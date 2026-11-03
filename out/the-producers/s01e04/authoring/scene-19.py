@@ -1,0 +1,19 @@
+ID = 'the-producers-s01e04-scene-19'
+SHOW = 'the-producers'
+SEASON = 1
+EPISODE = 4
+SCENE = 19
+TITLE = '제 노래 아시는 거 있으세요?  (Do You Know Any of My Songs?)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ko-en'
+LABELS = {'byun': '변대표', 'cindy': '신디', 'seungchan': '백승찬'}
+SOURCE_NAME = '프로듀사 (The Producers) S1.04'
+SOURCE_FILE = 'sources/the-producers/s01/e04.ko.srt'
+
+INTRO = 'Shockingly left with zero votes while CEO Byun explodes back at the office, Cindy decides to build cute on-screen chemistry with rookie Seung-chan—until he admits he knows neither her songs nor her dramas. Listen for "guryok", a humbling blow to one\'s pride.'
+STORY = [('byun', '뭐? 어디서 떨어졌는데? 애가 많이 다친 거야?', 'What? Where did she fall from? Is she badly hurt?', [(948, '뭐? 어디서 떨어졌는데? 애가 많이 다친 거야')], ''), ('byun', '우리 신디가 제일 잘나가는데 거기서 왜 혼자 뒤처져!', 'Our Cindy is the hottest star there, why would she be left behind alone!', [(950, '우리 신디가 제일 잘 나가는데')], ''), ('cindy', '오히려 더 잘됐어. 당황도 해 보고 얼마나 인간적이고 귀여워.', 'Actually, this worked out even better. Looking flustered makes me seem human and cute.', [(955, '더 잘 됐어'), (956, '당황도 해보고'), (957, '얼마나 인간적이고 귀여워')], ''), ('cindy', '저렇게 단순한 애랑 붙으면 케미가 살 수도 있단 말이지.', 'Pairing up with a simple guy like him could create great chemistry.', [(965, '저렇게 단순한 애야'), (966, '오히려 저런 애랑 붙으면 케미가 살 수도 있단 말이지')], ''), ('cindy', '내가 마음만 먹으면 나한테 완전 반하게 만들 수도 있어.', 'If I just set my mind to it, I can make him fall completely for me.', [(971, '내가 마음만 먹으면'), (972, '쟤 나한테 완전 반하게 만들 수도 있어')], ''), ('cindy', '이렇게 피디님이랑 둘이 가는 것도 되게 좋은 것 같아요.', 'Walking just the two of us like this actually feels really nice.', [(976, '피디님이랑 둘이 가는 것도 되게 좋은 거 같아요')], ''), ('cindy', '제 노래 아시는 거 있으세요?', 'Do you know any of my songs?', [(978, '제 노래 아시는 거 있으세요')], ''), ('seungchan', '죄송한데 잘... 앞으론 찾아서 들어 보겠습니다.', 'I am sorry, not really... From now on I will look them up and listen.', [(979, '죄송한데 잘'), (983, '앞으론 찾아서 들어보겠습니다')], ''), ('cindy', '라디오를 잘 안 들으시는구나. 제 드라마는 보셨어요?', 'You must not listen to the radio much. Have you seen my drama?', [(982, '라디오를 잘 안 들으시는구나'), (984, '제 드라마는 보셨어요')], ''), ('seungchan', '앞으론 찾아서 꼭 보겠습니다.', 'From now on I will definitely look it up and watch.', [(985, '앞으론 찾아서')], ''), ('cindy', '티브이도 잘 안 보시는구나. 오늘 여러모로 굴욕을 많이 당하네요.', "You don't watch television much either. I am suffering humiliation in many ways today.", [(987, '잘 안 보시는구나'), (989, '제가 오늘 여러모로'), (990, '굴욕을 좀 많이 당하네요')], ''), ('seungchan', '아뇨, 섭섭하긴요.', "Oh no, please don't feel hurt.", [(991, '아뇨 아뇨'), (992, '섭섭하긴요')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'What? Where did she fall from? Is she badly hurt?'"), (1, None, "'Our Cindy is the hottest star there, why would she be left behind alone!'"), (2, None, "'Actually, this worked out even better. Looking flustered makes me seem human and cute.'"), (3, None, "'Pairing up with a simple guy like him could create great chemistry.'"), (4, None, "'If I just set my mind to it, I can make him fall completely for me.'"), (5, None, "'Walking just the two of us like this actually feels really nice.'"), (6, None, "'Do you know any of my songs?'"), (7, None, "'I am sorry, not really... From now on I will look them up and listen.'"), (8, None, "'You must not listen to the radio much. Have you seen my drama?'"), (9, None, "'From now on I will definitely look it up and watch.'"), (10, None, "'You don't watch television much either. I am suffering humiliation in many ways today.'"), (11, None, "'Oh no, please don't feel hurt.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "orae" and "norae" for song plus "guryok" for humiliation, you have memorable Korean lines for awkward first walks. Catch you soon!'
+CLOSING = ('seungchan', '다음에 봐요.')

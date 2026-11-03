@@ -104,7 +104,38 @@ def scan_validated_out() -> dict[str, deque[str]]:
     return by_show
 
 
-def build_weighted_round_robin() -> list[dict]:
+def active_prefix_from_shm() -> list[str]:
+    """Preserve exact prio order of all already-completed and currently-rendering episodes in /dev/shm."""
+    ep_file = SHM / "episodes.json"
+    if not ep_file.exists():
+        return list(PINNED_PREFIX)
+    try:
+        cur_eps = json.loads(ep_file.read_text("utf-8"))
+    except Exception:
+        return list(PINNED_PREFIX)
+    min_active = None
+    for sub in ("jobs_en", "jobs_qwen", "jobs_ru", "jobs_ar", "cands"):
+        d = SHM / sub
+        if not d.is_dir():
+            continue
+        for e in os.scandir(d):
+            nm = e.name
+            if len(nm) > 5 and nm[:4].isdigit() and (nm.endswith(".json") or ".json.claim." in nm):
+                p = int(nm[:4])
+                if min_active is None or p < min_active:
+                    min_active = p
+    locked = []
+    for item in cur_eps:
+        ep = item["episode"]
+        p = int(item["prio"])
+        if p < len(PINNED_PREFIX) or (SHM / f"done_{ep}.json").exists() or (min_active is not None and p <= min_active):
+            locked.append(ep)
+        else:
+            break
+    return locked or list(PINNED_PREFIX)
+
+
+def build_weighted_round_robin(preserve_shm: bool = False) -> list[dict]:
     """Build weighted 3 RU -> 2 FR -> 1 each of other languages schedule across all validated episodes."""
     by_show = scan_validated_out()
     all_valid = {ep for q in by_show.values() for ep in q}
@@ -112,7 +143,7 @@ def build_weighted_round_robin() -> list[dict]:
     ordered: list[str] = []
     used: set[str] = set()
 
-    # Keep pinned completed prefix first so done_*.json and historical prios never shift
+    # Generate canonical 3-RU / 2-FR / 1-others schedule from PINNED_PREFIX, then pin any completed/active prefix
     for ep in PINNED_PREFIX:
         if ep in all_valid and ep not in used:
             ordered.append(ep)
@@ -142,6 +173,11 @@ def build_weighted_round_robin() -> list[dict]:
         for sh in OTHER_SHOWS_ORDER:
             if by_show[sh]:
                 ordered.append(by_show[sh].popleft())
+
+    if preserve_shm:
+        locked = [ep for ep in active_prefix_from_shm() if ep in all_valid]
+        locked_set = set(locked)
+        ordered = locked + [ep for ep in ordered if ep not in locked_set]
 
     out = []
     for idx, ep in enumerate(ordered):
@@ -200,7 +236,8 @@ def main():
     a = ap.parse_args()
 
     SHM.mkdir(parents=True, exist_ok=True)
-    eps = build_weighted_round_robin()
+    locked_len = len(active_prefix_from_shm()) if a.rebalance_live else 19
+    eps = build_weighted_round_robin(preserve_shm=a.rebalance_live)
 
     if a.reset_done:
         (SHM / "STOP").unlink(missing_ok=True)
@@ -217,8 +254,8 @@ def main():
     tmp_ep.replace(SHM / "episodes.json")
 
     if a.rebalance_live:
-        moved = rebalance_live_shm(eps, min_rebalance_prio=19)
-        print(f"Rebalanced {moved} live job files in {SHM} to weighted 3-RU / 2-FR / 1-others schedule.")
+        moved = rebalance_live_shm(eps, min_rebalance_prio=max(19, locked_len))
+        print(f"Rebalanced {moved} live job files in {SHM} (prio >= {max(19, locked_len)}) to weighted 3-RU / 2-FR / 1-others schedule.")
 
     print(f"Wrote {len(eps)} validated episodes to {SHM / 'episodes.json'}. Upcoming queue (prio 0018..0035):")
     for item in eps[18:36]:

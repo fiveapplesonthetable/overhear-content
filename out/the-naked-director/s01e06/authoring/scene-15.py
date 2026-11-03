@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-15'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 15
+TITLE = "君にもぜひ見てもらいたい自信作だ  (A Work I'm Proud to Show You)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'driver': '配達員', 'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = "At the wrap party on the island, Muranishi's crew raises a glass and thanks their coordinator for saving the shoot. Then the hotel phone rings—it's Kuroki calling from Tokyo. Listen to the Japanese first."
+STORY = [('muranishi', '乾杯！いい作品が撮れたね。', "Cheers! We shot a great film, didn't we?", [(464, '乾杯'), (468, 'いい作品 撮れたね')], ''), ('driver', 'これね、一発逆転ホームランになるかも。', 'This might really turn into that comeback home run.', [(469, 'これね'), (469, '一発逆転ホームラン')], ''), ('muranishi', 'ジミーがいてくれて助かったよ。ありがとう。', 'Having you here really saved us. Thank you.', [(471, 'いてくれて'), (471, '助かったよ ありがとう')], ''), ('driver', '僕は自分の仕事をしただけだよ。', 'I was only doing my job.', [(472, '僕は'), (472, '自分の仕事しただけだよ')], ''), ('muranishi', 'もしもし。どうした、黒木君？', "Hello? What's the matter, Kuroki?", [(480, 'もしもし'), (482, 'どうした 黒木君')], ''), ('kuroki', 'ごめんなさい、いきなりお電話して。川田さんから連絡先を聞いたんです。', "I'm sorry for calling so suddenly. I got your contact number from Mr. Kawada.", [(483, 'ごめんなさい いきなりお電話して'), (484, '川田さんから連絡先を聞いたんです')], ''), ('kuroki', '撮影はうまくいきましたか？', 'Did the filming go well?', [(485, '撮影はうまくいきましたか')], ''), ('muranishi', 'ああ、うまくいった。君にもぜひ見てもらいたい自信作だ。', "Yeah, it went great. It's a work I'm proud of and really want you to see.", [(486, 'ああ うまくいった'), (487, '君にも ぜひ見てもらいたい'), (487, '自信作だ')], ''), ('kuroki', '楽しみです。実はお伝えしたいことがあって。', "I'm looking forward to it. Actually, there's something I wanted to tell you.", [(488, '楽しみです'), (490, '実は お伝えしたいことがあって')], ''), ('driver', 'ボス、彼女が帰るそうで。', "Boss, she says she's heading home now.", [(493, 'ボス'), (493, '帰るそうで')], ''), ('muranishi', 'そうか。またすぐかけ直す。', "I see. I'll call you right back.", [(494, 'そうか'), (495, 'また すぐかけ直す')], ''), ('kuroki', 'じゃあ。', 'Bye for now.', [(496, 'じゃあ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Cheers! We shot a great film, didn't we?'"), (1, None, "'This might really turn into that comeback home run.'"), (2, None, "'Having you here really saved us. Thank you.'"), (3, None, "'I was only doing my job.'"), (4, None, "'Hello? What's the matter, Kuroki?'"), (5, None, "'I'm sorry for calling so suddenly. I got your contact number from Mr. Kawada.'"), (6, None, "'Did the filming go well?'"), (7, None, "'Yeah, it went great. It's a work I'm proud of and really want you to see.'"), (8, None, "'I'm looking forward to it. Actually, there's something I wanted to tell you.'"), (9, None, "'Boss, she says she's heading home now.'"), (10, None, "'I see. I'll call you right back.'"), (11, None, "'Bye for now.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice 'jishinsaku', a work one is truly proud of, and 'mata sugu kakenaosu', 'I'll call you right back'. Until next time."
+CLOSING = ('muranishi', 'じゃあね。')

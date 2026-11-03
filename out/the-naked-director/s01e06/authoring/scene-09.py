@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-09'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 9
+TITLE = '移動中に脚本を書き直す  (Rewriting the Script on the Move)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'driver': '配達員', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = 'Out on a downtown street without a filming permit, Muranishi directs his bold opening sequence until the actors refuse to strip in public and a patrol officer pulls up. Listen to the Japanese first.'
+STORY = [('muranishi', 'いいか、今からタイトルが出るシーンを撮影する。', "Listen up, right now we're shooting the scene where the main title appears.", [(224, 'いいか 今からタイトルが'), (224, '出るシーンを撮影する')], ''), ('muranishi', '君たちは向こうからこっちに歩いてくる。カメラは背後だ。', 'You walk from over there toward here. The camera is behind you.', [(226, '君たちは'), (226, '向こうからこっちに歩いてくる'), (228, 'カメラは背後')], ''), ('muranishi', '歩いてきたら、ここで立ち止まる。立ち止まって三秒数える。', 'Once you walk up, stop right here. Stop and count three seconds.', [(230, '歩いてきたら ここで立ち止まる'), (232, '立ち止まって'), (232, '数える')], ''), ('muranishi', '三秒数えたらカメラに振り返る。いいな？', 'After counting three seconds, turn back toward the camera. Got it?', [(234, '数えたら カメラに振り返る'), (236, 'いいな')], ''), ('driver', 'こんなとこで裸になれないし、恥じらいは？って。', "She says she can't strip in a place like this, and asks where the subtlety is.", [(241, 'こんなとこで裸になれないし'), (242, '恥じらいは')], ''), ('muranishi', 'そこはコントラストなんだよ！', "That's all about the contrast!", [(243, 'そこはコントラストなんだよ')], ''), ('student', 'ちょっと待って、落ち着いて！', 'Hold on a second, calm down!', [(247, 'ちょっと待って'), (249, '落ち着いて')], ''), ('driver', 'ケンカはダメよ。ちょっと黙ってて。', 'No fighting! Please stay quiet for a moment.', [(255, 'ケンカ ダメ'), (265, 'ちょっと黙ってて')], ''), ('muranishi', 'どうした？', 'What happened?', [(285, 'どうした')], ''), ('driver', 'もう行っていいって。', "The officer says we're free to go now.", [(286, 'もう行っていいって')], ''), ('driver', 'どの国でも警官は態度がでかいな。ここで撮影するのはもうやめたほうがいいね。', "Police have big attitudes in every country. We really shouldn't film here anymore.", [(288, 'どの国でも 警官は態度がでかいな'), (289, 'ここで撮影するのは'), (289, 'もうやめたほうがいいね')], ''), ('muranishi', '分かった。移動中に脚本を書き直す。撤収だ！', "Got it. I'll rewrite the script while we're moving. Pack it up!", [(290, '分かった'), (290, '移動中に脚本を書き直す'), (291, '撤収だ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Listen up, right now we're shooting the scene where the main title appears.'"), (1, None, "'You walk from over there toward here. The camera is behind you.'"), (2, None, "'Once you walk up, stop right here. Stop and count three seconds.'"), (3, None, "'After counting three seconds, turn back toward the camera. Got it?'"), (4, None, "'She says she can't strip in a place like this, and asks where the subtlety is.'"), (5, None, "'That's all about the contrast!'"), (6, None, "'Hold on a second, calm down!'"), (7, None, "'No fighting! Please stay quiet for a moment.'"), (8, None, "'What happened?'"), (9, None, "'The officer says we're free to go now.'"), (10, None, "'Police have big attitudes in every country. We really shouldn't film here anymore.'"), (11, None, "'Got it. I'll rewrite the script while we're moving. Pack it up!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice 'koko de tachidomaru', 'stop right here', and 'tesshuu da', the crisp film-crew call to pack up and clear a location. Until next time."
+CLOSING = ('muranishi', 'またね。')

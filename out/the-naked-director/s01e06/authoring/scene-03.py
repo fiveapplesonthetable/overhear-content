@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-03'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 3
+TITLE = "監督の村西だ  (I'm Director Muranishi)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'driver': '配達員', 'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = 'Touching down under bright island skies, Muranishi reminds his excited crew that they are here to work, not sightsee, before greeting their cheerful local coordinator at the airport van. Listen to the Japanese first.'
+STORY = [('student', 'うわあ、すげえ！ハワイだ！', "Whoa, awesome! We're in Hawaii!", [(44, 'うわあ すげえ'), (46, 'ハワイだ')], ''), ('muranishi', 'お前ら、観光じゃないんだからしっかりしろよ。', "Hey, this isn't sightseeing, so pull yourselves together.", [(48, 'お前ら 観光じゃないんだから'), (48, 'しっかりしろよ')], ''), ('driver', 'サファイア映像の皆さんですか？皆さんよろしく！', 'Are you everyone from Sapphire Pictures? Nice to meet you all!', [(51, 'サファイア映像の皆さんですか'), (53, '皆さんよろしく')], ''), ('driver', 'じゃあ荷物を積んじゃってください。こっちになります。', 'Well then, go ahead and load your luggage. Right this way.', [(57, 'じゃあ'), (57, '荷物'), (57, '積んじゃってください'), (58, 'こっちになります')], ''), ('student', 'すいません、これ重いんで運んでもらっていいですか？', 'Excuse me, this is heavy—could you help me carry it?', [(59, 'すいません'), (60, 'これ重いんで'), (60, '運んでもらっていいですか')], ''), ('driver', 'あなた細いね。筋肉つけたほうがいいね。', "You're skinny, aren't you? You ought to put on some muscle.", [(61, 'あなた細いね'), (61, '筋肉つけたほうがいいね')], ''), ('muranishi', '監督の村西だ。', "I'm Muranishi, the director.", [(65, '監督の村西だ')], ''), ('muranishi', '彼女は来るんだろうな？', 'She is definitely coming, right?', [(67, '来るんだろうな')], ''), ('driver', '先に到着して、今はホテルで休んでますよ。', 'She arrived ahead of you and is resting at the hotel right now.', [(68, '先に到着して'), (68, '今はホテルで休んでますよ')], ''), ('driver', 'でも大丈夫ですか？大物女優の扱いは大変ですよ。', 'Are you going to be okay, though? Handling a big-name actress is tough.', [(69, 'でも 大丈夫ですか'), (69, '大物女優の扱いは大変ですよ')], ''), ('muranishi', 'それは楽しみだ。', "I'm looking forward to that.", [(70, 'それは楽しみだ')], ''), ('student', 'この人、やっぱり日本人なんじゃないですか？', "Isn't this guy actually Japanese after all?", [(79, 'この人 やっぱり'), (79, '日本人なんじゃないですか')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Whoa, awesome! We're in Hawaii!'"), (1, None, "'Hey, this isn't sightseeing, so pull yourselves together.'"), (2, None, "'Are you everyone from Sapphire Pictures? Nice to meet you all!'"), (3, None, "'Well then, go ahead and load your luggage. Right this way.'"), (4, None, "'Excuse me, this is heavy—could you help me carry it?'"), (5, None, "'You're skinny, aren't you? You ought to put on some muscle.'"), (6, None, "'I'm Muranishi, the director.'"), (7, None, "'She is definitely coming, right?'"), (8, None, "'She arrived ahead of you and is resting at the hotel right now.'"), (9, None, "'Are you going to be okay, though? Handling a big-name actress is tough.'"), (10, None, "'I'm looking forward to that.'"), (11, None, "'Isn't this guy actually Japanese after all?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Keep an ear out for 'tanoshimi da', 'I'm looking forward to it', whenever someone anticipates an upcoming event. Until next time."
+CLOSING = ('muranishi', 'またね。')

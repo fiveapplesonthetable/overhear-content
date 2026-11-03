@@ -1,0 +1,19 @@
+ID = 'the-producers-s01e04-scene-02'
+SHOW = 'the-producers'
+SEASON = 1
+EPISODE = 4
+SCENE = 2
+TITLE = '해장 호떡이야  (Hangover Sweet Pancakes)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ko-en'
+LABELS = {'joonmo': '라준모', 'seungchan': '백승찬', 'yejin': '탁예진'}
+SOURCE_NAME = '프로듀사 (The Producers) S1.04'
+SOURCE_FILE = 'sources/the-producers/s01/e04.ko.srt'
+
+INTRO = 'Heavily drunk after his team dinner, Baek Seung-chan shows up at Tak Ye-jin and Ra Joon-mo\'s apartment with sweet pancakes, drops honorifics, and accuses Joon-mo of two-timing. Listen for "banmal", casual Korean speech used with close friends or younger people.'
+STORY = [('seungchan', '녹차 다섯 개, 그냥 다섯 개.', 'Five green-tea ones, and five plain ones.', [(30, '녹차 다섯 개 그냥 다섯 개')], ''), ('yejin', '너 방금 나한테 반말한 거냐?', 'Did you just speak casually to me?', [(38, '너 방금 나한테 반말한거냐')], ''), ('seungchan', '그래, 예진이 너 왜 나한테 거짓말했어?', 'Yeah, Ye-jin, why did you lie to me?', [(39, '그래, 예진이 너'), (41, '너 왜 나한테 거짓말했어')], ''), ('yejin', '도대체 얘는 여길 어떻게 알고 온 거야?', 'How on earth did this guy find out about this place and come here?', [(45, '도대체 얘는 여길 어떻게 알고 온거야')], ''), ('joonmo', '아니 무슨 비밀번호를 이렇게 바꿔 놨냐?', 'Wait, why did you change the door code like this?', [(47, '아니 무슨 비밀번호')], ''), ('yejin', '나는 빵빵빵빵이 좋은데 네가 바꾼 거 아냐.', 'I liked four zeros, you were the one who changed it.', [(48, '나는 빵빵빵빵이 좋은데 네가 바꾼 거 아냐')], ''), ('joonmo', '저거 백승찬 아니야? 왜 우리 집에 자고 있냐고.', "Isn't that Baek Seung-chan? Why is he sleeping in our house?", [(51, '백승찬 아니야'), (55, '자고 있냐고')], ''), ('yejin', '그냥 내버려 둬, 쟤 완전 취했어.', 'Just leave him alone, he is completely wasted.', [(59, '그냥 내버려 둬')], ''), ('seungchan', '공영방송 피디가 양다리로 사시면 안 됩니다.', 'A public broadcasting producer must not live as a two-timer.', [(70, '공영방송'), (70, '양다리로')], ''), ('seungchan', '우리 예진이한테 그러면 안 되지 말입니다.', 'You must not do that to our Ye-jin.', [(72, '우리 예진이한테 그러면 안 되지 말입니다')], ''), ('joonmo', '네가 왜 우리 예진이야? 내가 우리 예진이지!', 'Why are you calling her our Ye-jin? I am the one who calls her our Ye-jin!', [(74, '네가 왜 우리 예진이야'), (74, '내가 우리 예진이지')], ''), ('yejin', '꼭 씹어 먹어라. 해장 호떡이야.', 'Chew it thoroughly. It is a hangover pancake.', [(81, '꼭 씹어먹어라. 해장 호떡이야')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Five green-tea ones, and five plain ones.'"), (1, None, "'Did you just speak casually to me?'"), (2, None, "'Yeah, Ye-jin, why did you lie to me?'"), (3, None, "'How on earth did this guy find out about this place and come here?'"), (4, None, "'Wait, why did you change the door code like this?'"), (5, None, "'I liked four zeros, you were the one who changed it.'"), (6, None, "'Isn't that Baek Seung-chan? Why is he sleeping in our house?'"), (7, None, "'Just leave him alone, he is completely wasted.'"), (8, None, "'A public broadcasting producer must not live as a two-timer.'"), (9, None, "'You must not do that to our Ye-jin.'"), (10, None, "'Why are you calling her our Ye-jin? I am the one who calls her our Ye-jin!'"), (11, None, "'Chew it thoroughly. It is a hangover pancake.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "banmal" for casual speech to "yangdari" for two-timing, you now know playful Korean words for late-night misunderstandings. See you next time!'
+CLOSING = ('yejin', '다음에 봐요.')

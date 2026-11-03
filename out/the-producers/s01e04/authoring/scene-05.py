@@ -1,0 +1,19 @@
+ID = 'the-producers-s01e04-scene-05'
+SHOW = 'the-producers'
+SEASON = 1
+EPISODE = 4
+SCENE = 5
+TITLE = '제일 큰 걸로 줄게  (I Will Give You Our Biggest Star)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ko-en'
+LABELS = {'ilyong': '유일용', 'joonmo': '라준모', 'rep': '소속사 대표'}
+SOURCE_NAME = '프로듀사 (The Producers) S1.04'
+SOURCE_FILE = 'sources/the-producers/s01/e04.ko.srt'
+
+INTRO = 'At KBS, Ryu Il-yong pitches an audition contest to fill their missing cast seat just before an agency Representative calls Joon-mo with a surprise offer. Listen for "gyeonghap", an open competition for a coveted spot.'
+STORY = [('ilyong', '사장님은 지금 신디 되는 줄 알고 계신단 말이야.', 'The network president thinks right now that Cindy is joining us.', [(223, '사장님은 지금'), (223, '신디 되는 줄 알고 계신단 말이야')], ''), ('ilyong', '우리도 여섯 명이어야 되는데 한 명 빈 거잖아.', 'We are supposed to have six members too, and one spot is empty.', [(229, '우리도 여섯 명이어야 되는데 한 명')], ''), ('ilyong', '그 자리를 놓고 경합을 벌이는 거지.', 'So we hold an open competition for that seat.', [(230, '그 자리를 놓고 경합을 벌이는 거지')], ''), ('joonmo', '너 지금 경합이 무슨 뜻인지 알고 그런 소리 하니?', 'Do you even know what competition means when you say that?', [(231, '너 지금 경합이 무슨 뜻인지 알고 그런 소리')], ''), ('joonmo', '아무도 관심이 없는 판에 누가 오겠다고 경합을 붙니?', 'When nobody cares if our show disappears, who would compete to join?', [(232, '아무도 관심이 없는 판에'), (233, '경합을 붙니')], ''), ('ilyong', '그러네. 그럼 찾아가서 무릎을 꿇을까?', 'True. Should you go visit him and get down on your knees then?', [(234, '그러네'), (235, '무릎을 꿇을까')], ''), ('rep', '네가 계속 메시지 남겼다는 얘기 들었어.', 'I heard that you kept leaving messages for me.', [(241, '네가 계속 메시지 남겼다는 얘기 들었고')], ''), ('rep', '우리 회사에서 제일 큰 걸로 줄게.', 'I will give you the biggest star in our company.', [(243, '제일 큰 걸로 줄게')], ''), ('joonmo', '아, 진짜 고마워 형! 생각도 못 했는데.', 'Oh, thank you so much! I never even dreamed of it.', [(244, '아 진짜 고마워'), (245, '나 생각도 못 했는데')], ''), ('rep', '이번에 일 위 한 사람 있잖아. 바로 나.', 'There is someone who hit number one this week, you know. Me.', [(249, '이번에'), (249, '한 사람 있잖아'), (250, '나')], ''), ('joonmo', '아, 정말요? 와, 아이디어 진짜 좋다.', 'Oh, really? Wow, what a truly great idea.', [(252, '아 정말요'), (255, '와 아이디어 진짜 좋다')], ''), ('ilyong', '야, 요즘 진짜 난리 났다.', 'Man, things are completely wild these days.', [(254, '진짜 난리 났다')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'The network president thinks right now that Cindy is joining us.'"), (1, None, "'We are supposed to have six members too, and one spot is empty.'"), (2, None, "'So we hold an open competition for that seat.'"), (3, None, "'Do you even know what competition means when you say that?'"), (4, None, "'When nobody cares if our show disappears, who would compete to join?'"), (5, None, "'True. Should you go visit him and get down on your knees then?'"), (6, None, "'I heard that you kept leaving messages for me.'"), (7, None, "'I will give you the biggest star in our company.'"), (8, None, "'Oh, thank you so much! I never even dreamed of it.'"), (9, None, "'There is someone who hit number one this week, you know. Me.'"), (10, None, "'Oh, really? Wow, what a truly great idea.'"), (11, None, "'Man, things are completely wild these days.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "gyeonghap" for competition and "mureup" for knee, you can follow dramatic casting negotiations in Korean television. See you next time!'
+CLOSING = ('ilyong', '또 만나요.')

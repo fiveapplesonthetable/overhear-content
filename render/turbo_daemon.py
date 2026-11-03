@@ -102,34 +102,80 @@ def ahead_of_round_robin(jobs_dir: Path, lead: int = 0) -> bool:
     return my_p > min(valid) + lead
 
 
-def claim_jobs(folder: Path, max_jobs: int, max_expanded: int = 0, max_chars: int = 0):
-    """Atomically claim up to max_jobs (bounded by max_expanded candidates and max_chars total chars) in priority order."""
+def claim_jobs(
+    folder: Path,
+    max_jobs: int,
+    max_expanded: int = 0,
+    max_chars: int = 0,
+    bucket: bool = False,
+    by_voice: bool = False,
+    worker_id: int = 1,
+):
+    """Atomically claim up to max_jobs (bounded by max_expanded candidates and max_chars total chars) in priority order.
+
+    When `bucket=True`, inspects up to 400 unclaimed jobs sharing the lowest pending episode priority in `folder`,
+    groups by `(voice, speed_tier)` if `by_voice=True`, and sorts by `len(text_tts)` so GPU batches have near-zero
+    padding waste and Russian ESpeech packs 6-8 lines of a single voice per DiT call.
+    """
     pid = os.getpid()
     claimed = []
     expanded = 0
     chars = 0
+    scan_limit = 400 if bucket else max(max_jobs * 4, 32)
     try:
         with os.scandir(folder) as it:
             top_names = heapq.nsmallest(
-                max(max_jobs * 4, 32),
+                scan_limit,
                 (e.name for e in it if e.name.endswith(".json") and not e.name.startswith(".")),
             )
     except OSError:
         return claimed
-    for nm in top_names:
+    if not top_names:
+        return claimed
+
+    if bucket:
+        ep_prefix = top_names[0][:4]
+        ep_names = [nm for nm in top_names if nm[:4] == ep_prefix]
+        groups: dict[tuple, list[tuple[int, str, dict]]] = {}
+        for nm in ep_names:
+            try:
+                data = json.loads((folder / nm).read_text("utf-8"))
+            except Exception:
+                continue
+            gkey = (data.get("voice", ""), min(int(data.get("attempt", 0)), 2)) if by_voice else ("", 0)
+            groups.setdefault(gkey, []).append((len(data.get("text_tts", "")), nm, data))
+        if not groups:
+            return claimed
+        ranked_groups = sorted(groups.values(), key=lambda items: (-len(items), items[0][1]))
+        use_idx = 1 if (by_voice and worker_id > 1 and len(ranked_groups) > 1 and len(ranked_groups[1]) >= max_jobs) else 0
+        chosen = ranked_groups[use_idx]
+        chosen.sort(key=lambda item: (item[0], item[1]))
+        candidates = [(nm, data) for _tlen, nm, data in chosen]
+    else:
+        candidates = [(nm, None) for nm in top_names]
+
+    for nm, pre_data in candidates:
         p = folder / nm
         if len(claimed) >= max_jobs:
             break
+        if pre_data is not None:
+            n_c_est = int(pre_data.get("n_cands", 3))
+            c_len_est = max(40, len(pre_data.get("text_tts", ""))) * n_c_est
+            if claimed and ((max_expanded and expanded + n_c_est > max_expanded) or (max_chars and chars + c_len_est > max_chars)):
+                break
         claim_p = p.with_name(f"{p.name}.claim.{pid}")
         try:
             p.rename(claim_p)
         except OSError:
             continue
-        try:
-            data = json.loads(claim_p.read_text("utf-8"))
-        except Exception:
-            claim_p.unlink(missing_ok=True)
-            continue
+        if pre_data is not None:
+            data = pre_data
+        else:
+            try:
+                data = json.loads(claim_p.read_text("utf-8"))
+            except Exception:
+                claim_p.unlink(missing_ok=True)
+                continue
         n_c = int(data.get("n_cands", 3))
         c_len = max(40, len(data.get("text_tts", ""))) * n_c
         if claimed and ((max_expanded and expanded + n_c > max_expanded) or (max_chars and chars + c_len > max_chars)):
@@ -202,7 +248,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
             time.sleep(2.0)
             continue
 
-        claimed = claim_jobs(jobs_dir, max_jobs=18, max_expanded=max(batch_seqs, 28), max_chars=7200)
+        claimed = claim_jobs(jobs_dir, max_jobs=18, max_expanded=max(batch_seqs, 28), max_chars=4800, bucket=True, worker_id=worker_id)
         if not claimed:
             time.sleep(0.2)
             continue
@@ -219,45 +265,57 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
         if not todo:
             continue
 
-        # Sort by text length to minimize padding inside Qwen batch
+        # Sort by text length and split extreme (> 3.2x) length jumps to eliminate padding waste
         todo.sort(key=lambda x: len(x[1]["text_tts"]))
-        expanded_batch = []
-        slices = []
-        for cp, job in todo:
-            start = len(expanded_batch)
-            n_c = int(job["n_cands"])
-            lang_name = QWEN_LANGS[job["lang"]]
-            for _ in range(n_c):
-                expanded_batch.append((job["voice"], lang_name, job["text_tts"]))
-            slices.append((cp, job, start, start + n_c))
+        groups = []
+        cur = []
+        for item in todo:
+            if cur and len(item[1]["text_tts"]) > max(30, len(cur[0][1]["text_tts"])) * 3.2:
+                groups.append(cur)
+                cur = [item]
+            else:
+                cur.append(item)
+        if cur:
+            groups.append(cur)
 
-        seed = int(todo[0][1]["key"][:8], 16) + int(todo[0][1].get("attempt", 0)) * 7919 + worker_id * 131
-        t0 = time.time()
-        try:
-            wavs = eng.generate(expanded_batch, seed, temperature=temp, repetition_penalty=rep)
-            for cp, job, s0, s1 in slices:
-                write_cand_bundle(cands_dir, job, wavs[s0:s1])
-                cp.unlink(missing_ok=True)
-            eng.torch.cuda.empty_cache()
-            log(role, f"synthesized {len(todo)} lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
-        except Exception as ex:
-            log(role, f"WARN batch failed ({ex}), falling back per-item")
-            eng.torch.cuda.empty_cache()
-            for cp, job, _s0, _s1 in slices:
-                try:
-                    n_c = int(job["n_cands"])
-                    lang_name = QWEN_LANGS[job["lang"]]
-                    w_item = eng.generate([(job["voice"], lang_name, job["text_tts"])] * n_c, seed, temperature=temp, repetition_penalty=rep)
-                    write_cand_bundle(cands_dir, job, w_item)
+        for grp in groups:
+            expanded_batch = []
+            slices = []
+            for cp, job in grp:
+                start = len(expanded_batch)
+                n_c = int(job["n_cands"])
+                lang_name = QWEN_LANGS[job["lang"]]
+                for _ in range(n_c):
+                    expanded_batch.append((job["voice"], lang_name, job["text_tts"]))
+                slices.append((cp, job, start, start + n_c))
+
+            seed = int(grp[0][1]["key"][:8], 16) + int(grp[0][1].get("attempt", 0)) * 7919 + worker_id * 131
+            t0 = time.time()
+            try:
+                wavs = eng.generate(expanded_batch, seed, temperature=temp, repetition_penalty=rep)
+                for cp, job, s0, s1 in slices:
+                    write_cand_bundle(cands_dir, job, wavs[s0:s1])
                     cp.unlink(missing_ok=True)
-                except Exception as ex2:
-                    log(role, f"ERROR item {job['key']} failed: {ex2}")
-                    orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
+                eng.torch.cuda.empty_cache()
+                log(role, f"synthesized {len(grp)} lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
+            except Exception as ex:
+                log(role, f"WARN batch failed ({ex}), falling back per-item")
+                eng.torch.cuda.empty_cache()
+                for cp, job, _s0, _s1 in slices:
                     try:
-                        cp.rename(orig)
-                    except OSError:
-                        pass
-                    time.sleep(1.0)
+                        n_c = int(job["n_cands"])
+                        lang_name = QWEN_LANGS[job["lang"]]
+                        w_item = eng.generate([(job["voice"], lang_name, job["text_tts"])] * n_c, seed, temperature=temp, repetition_penalty=rep)
+                        write_cand_bundle(cands_dir, job, w_item)
+                        cp.unlink(missing_ok=True)
+                    except Exception as ex2:
+                        log(role, f"ERROR item {job['key']} failed: {ex2}")
+                        orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
+                        try:
+                            cp.rename(orig)
+                        except OSError:
+                            pass
+                        time.sleep(1.0)
 
 
 # ---------------------------------------------------------------------------
@@ -297,7 +355,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             continue
 
         eff_seqs = max(batch_seqs, 28)
-        claimed = claim_jobs(jobs_dir, max_jobs=eff_seqs, max_expanded=eff_seqs, max_chars=7500)
+        claimed = claim_jobs(jobs_dir, max_jobs=eff_seqs, max_expanded=eff_seqs, max_chars=4800, bucket=True, worker_id=worker_id)
         if not claimed:
             time.sleep(0.2)
             continue
@@ -397,7 +455,7 @@ def run_ru_worker(worker_id: int, batch_seqs: int):
         if idle_ticks % 40 == 20:
             reclaim_stale_claims(jobs_dir)
 
-        claimed = claim_jobs(jobs_dir, max_jobs=12, max_expanded=max(batch_seqs, 22))
+        claimed = claim_jobs(jobs_dir, max_jobs=10, max_expanded=max(batch_seqs, 21), max_chars=3600, bucket=True, by_voice=True, worker_id=worker_id)
         if not claimed:
             idle_ticks += 1
             if eng is not None and idle_ticks > 50:  # >15s idle -> release VRAM for Qwen/ASR
@@ -567,7 +625,7 @@ def run_gate_worker(worker_id: int):
             continue
         idle_ticks = 0
 
-        for cp, meta in claimed:
+        for ci, (cp, meta) in enumerate(claimed):
             npz_path = Path(meta["npz"])
             key = meta["key"]
             out_flac = store.tts_path(key)
@@ -595,12 +653,13 @@ def run_gate_worker(worker_id: int):
             except Exception as ex:
                 err_s = str(ex)
                 if "CUDA" in err_s or "cudaError" in err_s or "out of memory" in err_s:
-                    log(role, f"ERROR CUDA context error on {key} ({ex}), returning bundle & restarting worker")
-                    orig = cands_dir / cp.name.rsplit(".claim.", 1)[0]
-                    try:
-                        cp.rename(orig)
-                    except OSError:
-                        pass
+                    log(role, f"ERROR CUDA context error on {key} ({ex}), returning bundles & restarting worker")
+                    for rem_cp, _rem_meta in claimed[ci:]:
+                        orig = cands_dir / rem_cp.name.rsplit(".claim.", 1)[0]
+                        try:
+                            rem_cp.rename(orig)
+                        except OSError:
+                            pass
                     sys.exit(1)
                 log(role, f"WARN score_candidates non-CUDA error on {key} ({ex}), keeping cand 0")
                 best_wav = wavs[0]

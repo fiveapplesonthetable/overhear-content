@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-06'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 6
+TITLE = '女優を続けていくつもりかな  (Do You Plan to Keep Acting?)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'ikezawa': '池沢', 'kawada': '川田', 'kuroki': '黒木'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = "Over a refined meal in Tokyo, industry veteran Ikezawa compliments Kuroki's taste, asks after her mother, and probes whether she intends to continue working as an actress, while Kawada pictures the chaos awaiting Muranishi's set. Let's listen in Japanese first."
+STORY = [('kuroki', 'すごくおいしいです。', 'This is really delicious.', [(150, 'すごくおいしいです')], ''), ('ikezawa', '君は素養があるね、違いが分かるってことは。', 'You have real refinement, being able to tell the difference.', [(151, '君は素養があるね'), (152, '違いが分かるってことは')], ''), ('ikezawa', 'で、お母さんはどんな様子かな？', 'So, how is your mother doing?', [(153, 'で お母さんは どんな様子かな')], ''), ('kuroki', '落ち着いています。ご迷惑をおかけしました。', "She has calmed down. I'm sorry for all the trouble I caused.", [(154, '落ち着いています'), (155, 'ご迷惑をおかけしました')], ''), ('ikezawa', 'いや、我々の務めだからね。', 'Not at all, it is simply our duty.', [(156, 'いや 我々'), (156, '務めだからね')], ''), ('kuroki', 'そうですか。', 'I see.', [(157, 'そうですか')], ''), ('ikezawa', 'ところで、君は女優を続けていくつもりなのかな？', 'By the way, do you intend to keep working as an actress?', [(158, 'ところで 君は'), (158, '女優を続けていくつもりなのかな')], ''), ('kuroki', 'それは、まだ。', 'Well, as for that...', [(159, 'それは')], ''), ('kawada', 'この女優、どうやって口説いたと思う？', 'How do you think he persuaded this actress?', [(160, '女優'), (160, 'どうやって口説いたと思う')], ''), ('kawada', 'きっとハッタリかな。', 'Probably with a bluff?', [(161, 'ハッタリかな')], ''), ('kawada', '日本一の映画監督、初のハリウッド作品。', "Japan's number-one film director, making his big American debut.", [(163, '日本一の映画監督'), (163, '初のハリウッド作品')], ''), ('kawada', 'ちょっと誇張しすぎじゃないか？荒れるぞ、現場は。', "Isn't that exaggerating way too much? That set is going to get wild.", [(164, 'ちょっと誇張しすぎじゃないか'), (166, '荒れるぞ 現場は')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'This is really delicious.'"), (1, None, "'You have real refinement, being able to tell the difference.'"), (2, None, "'So, how is your mother doing?'"), (3, None, "'She has calmed down. I'm sorry for all the trouble I caused.'"), (4, None, "'Not at all, it is simply our duty.'"), (5, None, "'I see.'"), (6, None, "'By the way, do you intend to keep working as an actress?'"), (7, None, "'Well, as for that...'"), (8, None, "'How do you think he persuaded this actress?'"), (9, None, "'Probably with a bluff?'"), (10, None, "'Japan's number-one film director, making his big American debut.'"), (11, None, "'Isn't that exaggerating way too much? That set is going to get wild.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Keep an ear out for 'tsuzukete iku tsumori', combining 'keep going forward' with 'tsumori', one's intention or plan. See you next time."
+CLOSING = ('kuroki', 'さようなら。')

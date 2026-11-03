@@ -1,0 +1,19 @@
+ID = 'the-producers-s01e04-scene-07'
+SHOW = 'the-producers'
+SEASON = 1
+EPISODE = 4
+SCENE = 7
+TITLE = '여기서 군만두 맛있어  (The Fried Dumplings Here Are Good)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ko-en'
+LABELS = {'seungchan': '백승찬', 'yejin': '탁예진'}
+SOURCE_NAME = '프로듀사 (The Producers) S1.04'
+SOURCE_FILE = 'sources/the-producers/s01/e04.ko.srt'
+
+INTRO = 'At a Yeouido restaurant, Ye-jin orders crispy fried dumplings for Seung-chan while warning him never to reveal her living arrangement, then deducts fifty thousand won from her repair debt for his overnight stay. Listen for "bimil", the Korean word for a secret.'
+STORY = [('yejin', '백승찬, 나 좀 보자. 애들이랑 무슨 얘기 나눴니?', 'Baek Seung-chan, come see me. What were you talking about with your peers?', [(307, '나 좀 보자'), (309, '애들이랑 무슨 얘기 나눴니')], ''), ('seungchan', '아무튼 걱정하지 마십시오. 주소 공유 관계는 발설하지 않겠습니다.', 'Anyway, please do not worry. I will not breathe a word about the address-sharing arrangement.', [(321, '아무튼 걱정하지 마십시오'), (322, '주소 공유 관계 문제는 발설하지 않겠습니다')], ''), ('yejin', '당연해 그건. 점심 먹어야지. 여기서 군만두 맛있어.', "Of course you won't. Let's eat lunch. The fried dumplings here are delicious.", [(323, '당연해 그건'), (323, '점심 먹어야지'), (332, '여기서 군만두 맛있어')], ''), ('yejin', '여의도 이 바닥에 이 비밀을 아는 사람이 아무도 없어.', 'In this whole Yeouido industry, nobody else knows this secret.', [(334, '여의도 이 바닥에 이 비밀을 아는 사람이 아무도 없는데')], ''), ('yejin', '어디서 말이 나왔다 하면 바로 너야.', 'If word gets out anywhere, it came straight from you.', [(335, '어디서 말이 나왔다 하면 너야')], ''), ('seungchan', '조심하겠습니다.', 'I will be careful.', [(339, '조심하겠습니다')], ''), ('yejin', '너 에스엔에스는 하니? 술은 자주 마실 거니?', 'Do you use social media? Are you going to drink often?', [(341, '하니'), (346, '술은? 자주 마실 거니')], ''), ('seungchan', '아니요, 전 안 합니다. 술도 안 마시겠습니다.', 'No, I do not use it. I will not drink alcohol either.', [(344, '아니요 전 안 합니다'), (347, '아니요 안 마시겠습니다')], ''), ('yejin', '이거 소문나면 남은 돈 칠십만 원도 안 줄 거야.', "If a rumor spreads about this, I won't pay you the remaining seven hundred thousand won either.", [(350, '너 이거 소문나면 너 돈도 안 줄 거야')], ''), ('seungchan', '칠십오만 원인데...', 'It is seven hundred fifty thousand won, though...', [(351, '원인데')], ''), ('yejin', '야, 오만 원은 까야지. 어젯밤에 우리 집에서 잤잖아.', 'Hey, I have to deduct fifty thousand won. You slept at our place last night.', [(352, '까야지 너 어젯밤에 우리 집에서 잤잖아')], ''), ('seungchan', '원래는 제 돈인데 이상하게 감사한 마음도 들고요.', 'It was originally my own money, yet strangely I feel grateful too.', [(364, '감사한 마음도 들고요'), (365, '원래는 제 돈인데')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Baek Seung-chan, come see me. What were you talking about with your peers?'"), (1, None, "'Anyway, please do not worry. I will not breathe a word about the address-sharing arrangement.'"), (2, None, "'Of course you won't. Let's eat lunch. The fried dumplings here are delicious.'"), (3, None, "'In this whole Yeouido industry, nobody else knows this secret.'"), (4, None, "'If word gets out anywhere, it came straight from you.'"), (5, None, "'I will be careful.'"), (6, None, "'Do you use social media? Are you going to drink often?'"), (7, None, "'No, I do not use it. I will not drink alcohol either.'"), (8, None, "'If a rumor spreads about this, I won't pay you the remaining seven hundred thousand won either.'"), (9, None, "'It is seven hundred fifty thousand won, though...'"), (10, None, "'Hey, I have to deduct fifty thousand won. You slept at our place last night.'"), (11, None, "'It was originally my own money, yet strangely I feel grateful too.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With "gunmandu" for fried dumplings and "bimil" for secret, you have handy Korean words for hush-hush lunch deals. See you soon!'
+CLOSING = ('yejin', '안녕히 가세요.')

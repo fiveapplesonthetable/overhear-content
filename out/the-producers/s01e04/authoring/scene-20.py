@@ -1,0 +1,19 @@
+ID = 'the-producers-s01e04-scene-20'
+SHOW = 'the-producers'
+SEASON = 1
+EPISODE = 4
+SCENE = 20
+TITLE = '투표 다시 가야지!  (We Have To Vote Again!)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ko-en'
+LABELS = {'byun': '변대표', 'joonmo': '라준모'}
+SOURCE_NAME = '프로듀사 (The Producers) S1.04'
+SOURCE_FILE = 'sources/the-producers/s01/e04.ko.srt'
+
+INTRO = 'Furious that Cindy received zero votes, CEO Byun storms straight onto Joon-mo\'s filming location, scolds the male idol guests, and demands that Joon-mo delete the scene and hold a revote. Listen for "tupyo", a vote.'
+STORY = [('joonmo', '촬영 원본 못 보여 준다 그랬더니 직접 현장으로 온 거 아닐까?', "Since we refused to show raw footage, didn't she come straight to the set herself?", [(994, '촬영 원본 못 보여준다 그랬더니 직접 현장으로 온 거 아닐까요')], ''), ('byun', '우리 신디 왜 안 찍었냐고! 뭐가 마음에 안 들었어?', "Why didn't you vote for our Cindy! What didn't you like about her?", [(997, '우리 신디 왜 안 찍었냐고')], ''), ('byun', '이거 같은 회사끼리 뭉치라고 다 짜고 치는 거구만!', 'You all colluded because your boss told the same agency artists to stick together!', [(1004, '다 짜고 치는'), (1005, '같은 회사끼리 뭉치라 그러지')], ''), ('byun', '얘, 넌 회사 어디야? 너 우리랑 계약할래?', 'Hey, which agency are you with? Do you want to sign a contract with us?', [(1008, '넌 어디야'), (1009, '너 우리랑 계약할래')], ''), ('joonmo', '아니 촬영장까지 와서 지금 뭐 하시는 겁니까?', 'Wait, what on earth are you doing coming all the way onto our filming set?', [(1011, '아니 촬영장까지 와서 지금 뭐 하시는 겁니까')], ''), ('byun', '나한테 꼬인 걸 이런 식으로 풀면 안 되지.', "You shouldn't take your frustration with me out on her like this.", [(1013, '지금 나한테 꼬인 걸 이런 식으로 풀면 안 되지')], ''), ('byun', '우리 애 데려다가 이게 웬 망신이야?', 'Bringing my star out here only to embarrass her like this?', [(1014, '우리 애 데려다가 이게 웬')], ''), ('byun', '우리 신디 이런 거 시키려고 데려온 거야?', 'Did you bring our Cindy here just to put her through this?', [(1016, '우리 신디 이런 거 시키려고 데려온 거야')], ''), ('joonmo', '시키긴 뭘 시켜요? 자기가 표를 못 받은 걸 어떡해.', 'Put her through what? What can I do if she got zero votes herself.', [(1017, '시키긴 뭘 시켜요'), (1018, '자기가'), (1018, '받은 걸 어떡해')], ''), ('byun', '뭘 어떡해? 투표 다시 가야지!', 'What do you mean what can you do? You have to hold the vote again!', [(1019, '뭘 어떡해? 투표 다시 가야지')], ''), ('byun', '낙오되는 장면 다 자르고 다시 찍자고.', 'Cut out the whole scene where she gets left behind and shoot it again.', [(1020, '되는 장면 다 잘라줘'), (1021, '자르고'), (1021, '다시 찍자고')], ''), ('joonmo', '무슨 말 같은 소리를 해야지!', 'Try saying something that actually makes sense!', [(1024, '무슨 말 같은 소리를 해야지')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Since we refused to show raw footage, didn't she come straight to the set herself?'"), (1, None, "'Why didn't you vote for our Cindy! What didn't you like about her?'"), (2, None, "'You all colluded because your boss told the same agency artists to stick together!'"), (3, None, "'Hey, which agency are you with? Do you want to sign a contract with us?'"), (4, None, "'Wait, what on earth are you doing coming all the way onto our filming set?'"), (5, None, "'You shouldn't take your frustration with me out on her like this.'"), (6, None, "'Bringing my star out here only to embarrass her like this?'"), (7, None, "'Did you bring our Cindy here just to put her through this?'"), (8, None, "'Put her through what? What can I do if she got zero votes herself.'"), (9, None, "'What do you mean what can you do? You have to hold the vote again!'"), (10, None, "'Cut out the whole scene where she gets left behind and shoot it again.'"), (11, None, "'Try saying something that actually makes sense!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "mangsin" for disgrace to "tupyo" for vote, you now know fiery Korean expressions for backstage confrontations. Until next time!'
+CLOSING = ('joonmo', '또 만나요.')

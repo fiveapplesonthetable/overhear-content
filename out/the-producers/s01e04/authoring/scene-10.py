@@ -1,0 +1,19 @@
+ID = 'the-producers-s01e04-scene-10'
+SHOW = 'the-producers'
+SEASON = 1
+EPISODE = 4
+SCENE = 10
+TITLE = '입수는 발목까지  (Into the Water Up to the Ankles)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ko-en'
+LABELS = {'byun': '변대표', 'joonmo': '라준모', 'taeho': '김태호'}
+SOURCE_NAME = '프로듀사 (The Producers) S1.04'
+SOURCE_FILE = 'sources/the-producers/s01/e04.ko.srt'
+
+INTRO = 'CEO Byun visits chief producer Kim Tae-ho and Joon-mo to put Cindy on their show, but demands no cold-water dunking and no salty soup, sparking frantic haggling. Listen for "ipsu", the classic Korean variety penalty of plunging into cold water.'
+STORY = [('byun', '나 마음 바뀌기 전에 빨리 계약서 보내는 게 좋을 거예요.', 'You had better send the contract quickly before I change my mind.', [(490, '나 마음 바뀌기 전에'), (491, '빨리 계약서 보내는 게 좋을 거예요')], ''), ('joonmo', '진짜 일박 이일을 신디가 하겠다고요?', 'Cindy really said she wants to do two days and one night?', [(492, '신디가 하겠다고요')], ''), ('byun', '됐고요, 일단 저희 조건부터 계약서에 넣어 줘요.', 'Never mind that, put our conditions into the contract first.', [(506, '됐고요 일단 저희 조건부터 계약서에 넣어줘요')], ''), ('byun', '입수 안 돼요. 그리고 국물 먹으면 안 된다.', 'No going into the water. And she must not eat soup broth.', [(511, '입수 안 돼요'), (519, '그리고 국물 먹으면 안 된다')], ''), ('joonmo', '아니 입수를 안 하면 뭘 하겠다는 거야?', "Wait, if she won't go into the water, what is she going to do on the show?", [(515, '아니 입수를 안 하면 뭘 하겠다는 거야')], ''), ('taeho', '여자 연예인이라 국물 먹으면 얼굴이 붓는데.', 'Since she is a female celebrity, her face swells up if she eats soup.', [(521, '여자 연예인이라'), (522, '얼굴이 붓는데 국물 먹으면')], ''), ('joonmo', '게임을 하기 전에 미리 확인을 받으라고? 지금 장난해?', 'Get approval in advance before every game? Are you kidding me right now?', [(524, '게임을 하기 전에 미리'), (527, '지금 장난해')], ''), ('byun', '나 가 봐야겠다. 말이 안 통하네. 멤버 다시 알아보세요.', 'I should leave. We cannot communicate at all. Go look for another cast member.', [(528, '나 가봐야겠다'), (529, '말이 안 통하네'), (530, '멤버 다시 알아보세요')], ''), ('taeho', '봐 봐라, 내가 다 정리했다. 입수는 발목까지 한대.', 'Look here, I settled everything. She agreed to enter the water up to her ankles.', [(551, '봐봐라'), (552, '내가 다 정리했다'), (556, '발목까지')], ''), ('joonmo', '무릎까지는 들어가야 입수지, 지금 장난하냐고!', 'You have to go in at least to your knees to call it a plunge, are you joking!', [(557, '지금 장난하냐고'), (562, '들어가야 입수다')], ''), ('taeho', '그리고 음식은 조림으로 합의 보자.', "And for food, let's settle on braised dishes.", [(566, '그리고 음식은'), (569, '조림으로 합의 보자')], ''), ('taeho', '국물 졸이면 그게 조림이지 뭐. 일단 나가서 찍자.', "If you boil soup down, it becomes a braised dish anyway. Let's just go out and film.", [(570, '국물 조리면 그게 조림이지 뭐'), (574, '일단 나가서 찍자')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'You had better send the contract quickly before I change my mind.'"), (1, None, "'Cindy really said she wants to do two days and one night?'"), (2, None, "'Never mind that, put our conditions into the contract first.'"), (3, None, "'No going into the water. And she must not eat soup broth.'"), (4, None, "'Wait, if she won't go into the water, what is she going to do on the show?'"), (5, None, "'Since she is a female celebrity, her face swells up if she eats soup.'"), (6, None, "'Get approval in advance before every game? Are you kidding me right now?'"), (7, None, "'I should leave. We cannot communicate at all. Go look for another cast member.'"), (8, None, "'Look here, I settled everything. She agreed to enter the water up to her ankles.'"), (9, None, "'You have to go in at least to your knees to call it a plunge, are you joking!'"), (10, None, "'And for food, let's settle on braised dishes.'"), (11, None, "'If you boil soup down, it becomes a braised dish anyway. Let's just go out and film.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'From "gyeyakseo" for contract to "ipsu" for jumping into cold water, you can now follow classic Korean variety negotiations. See you next time!'
+CLOSING = ('taeho', '안녕히 계세요.')

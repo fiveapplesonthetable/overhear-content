@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-14'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 14
+TITLE = '撮影が成功するといいですね  (I Hope the Shoot Succeeds)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = "While Muranishi takes to the skies overseas for his climax, Kuroki meets Kawada in Tokyo, politely refuses payment for her unreleased video, and shares her new plans to study abroad. Let's listen in Japanese first."
+STORY = [('kuroki', 'きっと情熱的な撮影をしてるんでしょうね、村西監督は。', 'Director Muranishi must be in the middle of a passionate shoot right now.', [(433, 'きっと 情熱的な撮影を'), (433, 'してるんでしょうね 村西監督は')], ''), ('kawada', 'うん、君のおかげだよ。本当に出演料は大丈夫なの？', "Yeah, and it's thanks to you. Are you really sure about turning down your fee?", [(434, 'うん 君のおかげだよ'), (435, '本当に出演料は大丈夫なの')], ''), ('kuroki', 'もちろんです。発売されていないならギャラなんて頂けません。', "Of course. Since the tape hasn't gone on sale, I couldn't possibly accept the fee.", [(436, 'もちろんです'), (437, '発売されていないなら'), (437, 'ギャラなんて頂けません')], ''), ('kuroki', 'それに私、モデルのお仕事なんかも始めましたので。', "Besides, I've also started doing modelling work.", [(438, 'それに'), (438, '私 モデルの'), (438, 'お仕事なんかも始めましたので')], ''), ('kuroki', '留学するお金には困らないと思います。', "So I don't think I'll have trouble saving money to study abroad.", [(439, '留学するお金には'), (439, '困らないと思います')], ''), ('kawada', 'まさか他のビデオにも？', "Don't tell me you'll appear in other videos too?", [(440, 'まさか 他の'), (440, 'ビデオにも')], ''), ('kawada', 'まあ、君が決めることだ。うちが何か言うことはないよ。', "Well, that's for you to decide. It isn't our place to say anything.", [(441, 'まあ 君が決めることだ'), (441, 'うちが何か言うことはないよ')], ''), ('kuroki', '撮影、ホントに成功するといいですね。', 'I truly hope his shoot succeeds.', [(442, '撮影 ホントに'), (442, '成功するといいですね')], ''), ('muranishi', 'ああ、最高に輝いてますよ！すばらしい、すばらしすぎる！', 'Oh, you are shining brighter than ever! Wonderful, too wonderful!', [(447, 'ああ 最高に輝いてますよ'), (447, 'すばらしい すばらしすぎる')], ''), ('muranishi', 'そうです、では撃ちましょう！カーット！', "That's right, now fire! Cut!", [(454, 'そうです では撃ちましょう'), (458, 'カーット')], ''), ('kawada', '終わったか。', "Sounds like it's done.", [(460, '終わった')], ''), ('muranishi', 'やったぞー！', 'I did it!', [(463, 'やったぞ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Director Muranishi must be in the middle of a passionate shoot right now.'"), (1, None, "'Yeah, and it's thanks to you. Are you really sure about turning down your fee?'"), (2, None, "'Of course. Since the tape hasn't gone on sale, I couldn't possibly accept the fee.'"), (3, None, "'Besides, I've also started doing modelling work.'"), (4, None, "'So I don't think I'll have trouble saving money to study abroad.'"), (5, None, "'Don't tell me you'll appear in other videos too?'"), (6, None, "'Well, that's for you to decide. It isn't our place to say anything.'"), (7, None, "'I truly hope his shoot succeeds.'"), (8, None, "'Oh, you are shining brighter than ever! Wonderful, too wonderful!'"), (9, None, "'That's right, now fire! Cut!'"), (10, None, "'Sounds like it's done.'"), (11, None, "'I did it!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice 'itadakemasen', the humble negative 'I cannot accept it', and 'seikou suru to ii desu ne', 'I hope it succeeds'. See you next time."
+CLOSING = ('kuroki', 'さようなら。')

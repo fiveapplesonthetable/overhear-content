@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s01e06-scene-12'
+SHOW = 'the-naked-director'
+SEASON = 1
+EPISODE = 6
+SCENE = 12
+TITLE = 'チョウチョウを標本にしてる  (Collecting Butterflies)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'fujiwara': '藤原', 'police': '警察官', 'takei': '武井'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E06'
+SOURCE_FILE = 'sources/the-naked-director/s01/e06.ja.srt'
+
+INTRO = "Inside the raided copying warehouse, the angry manager demands to know why police aren't going after bigger syndicates, and Detective Takei answers with an eerie story about his butterfly collection. Let's listen in Japanese first."
+STORY = [('fujiwara', 'うちよりももっとでけえとこ潰せよ！', 'Go shut down outfits way bigger than ours!', [(380, 'うちよりも もっと'), (380, 'でけえとこ 潰せよ')], ''), ('takei', 'お前、標本って分かる？', 'Hey, do you know what specimen collecting is?', [(381, 'お前 標本って分かる')], ''), ('fujiwara', '標本？', 'Specimen collecting?', [(382, '標本')], ''), ('takei', '俺はチョウチョウを標本にしてるんだよ。', 'I mount butterflies as specimens, you see.', [(383, '俺はチョウチョウを'), (383, '標本にしてるんだよ')], ''), ('fujiwara', '何言ってるんだ、お前？', 'What on earth are you talking about?', [(384, '何言って'), (384, 'お前')], ''), ('takei', 'サナギの状態でも、こいつはでかくなるなってのが分かるようになる。', 'Even in the pupa stage, you learn to tell which ones are going to grow big.', [(386, 'サナギの状態でも'), (387, 'こいつはでかくなるなってのが'), (387, '分かるようになる')], ''), ('takei', 'だから、チョウチョウが一番大きくなるのを待って、そこから俺は標本にしてるんだよ。', 'So I wait until a butterfly grows to its biggest size, and then I mount it.', [(388, 'だから'), (389, 'チョウチョウが 一番'), (389, '大きくなるのを待って'), (390, 'そこから 俺は標本にしてるんだよ')], ''), ('fujiwara', 'さっきから何意味の分かんねえこと言ってるんだ？', 'Why have you been spouting nonsense this whole time?', [(391, 'さっきから'), (391, '何 意味の分かんねえこと')], ''), ('takei', '相手がでかくねえと、俺の手柄が小さくなるだろ？', "Unless the target is big, my own credit shrinks, doesn't it?", [(393, '相手がでかくねえと'), (393, '俺の手柄が小さくな')], ''), ('takei', 'お前らはもうこれ以上でかくなんねえから、終わりってことで。お疲れさん。', "You guys aren't getting any bigger than this, so it's curtains for you. Good work.", [(394, 'お前らは'), (395, 'もうこれ以上 でかくなんねえから'), (396, 'お疲れさん')], ''), ('police', 'おとなしくしろ！', 'Pipe down and behave!', [(400, 'おとなしくしろ')], ''), ('takei', 'まだ羽があるなら、ほら、逃げてみろよ。空へ飛んでけ！', "If you've still got wings, go on, try escaping. Fly off into the sky!", [(402, '羽があるなら'), (402, 'ほら 逃げてみろよ'), (404, '空へ飛んでけ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Go shut down outfits way bigger than ours!'"), (1, None, "'Hey, do you know what specimen collecting is?'"), (2, None, "'Specimen collecting?'"), (3, None, "'I mount butterflies as specimens, you see.'"), (4, None, "'What on earth are you talking about?'"), (5, None, "'Even in the pupa stage, you learn to tell which ones are going to grow big.'"), (6, None, "'So I wait until a butterfly grows to its biggest size, and then I mount it.'"), (7, None, "'Why have you been spouting nonsense this whole time?'"), (8, None, "'Unless the target is big, my own credit shrinks, doesn't it?'"), (9, None, "'You guys aren't getting any bigger than this, so it's curtains for you. Good work.'"), (10, None, "'Pipe down and behave!'"), (11, None, "'If you've still got wings, go on, try escaping. Fly off into the sky!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Notice 'hyouhon', a mounted specimen, and 'otsukaresan', Takei's ironic 'good work, you're done' as the raid wraps up. See you next time."
+CLOSING = ('takei', 'じゃあね。')
