@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'At the party, Nastya has had enough and heads for the door, and Kostya stops her. Listen to it in Russian first.'
 OPENER = "Let's go through what they said."
 TRANSITION = 'And the goodbye again.'
-OUTRO = "Kostya has stopped Nastya, and now he has to say it. You'd say podozhdi to a friend, and podozhdite to anyone you call vy. See you next time!"
+OUTRO = "Kostya catches Nastya at the door, and now he has to speak up. Listen for the casual 'wait!' used between close friends, versus the longer polite form for strangers. See you next time!"
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Пока.', 'Bye.', [(288, 'Пока')], ''),

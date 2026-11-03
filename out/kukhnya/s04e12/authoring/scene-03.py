@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = 'In the dining room of Claude Monet, Sasha warmly greets Kostya, Denis, and Max, introduces her fiancé from across the room, and congratulates Max on marrying Vika.'
 OPENER = "Let's walk through Sasha's reunion with Kostya, Denis, and Max."
 TRANSITION = 'Now listen to the whole dining room reunion again at natural speed.'
-OUTRO = "Notice how a woman says 'I am getting married' in Russian using the phrase 'vykhodit zamuzh', literally 'to step out behind a husband'. Until next time!"
+OUTRO = "Notice how a woman says 'I am getting married' in Russian with an expression that literally means 'to step out behind a husband'. Until next time!"
 CLOSING = ('sasha', 'До свидания!')
 STORY = [
     ('sasha', 'Костя, привет, как я рада!', 'Kostya, hi, how glad I am!', [(26, 'Костя, привет')], 'adapted for A1 clarity'),

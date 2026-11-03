@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 INTRO = "Trying to find a legal excuse to fire Denis despite Barinov's protection, Mikhail stages a surprise breathalyzer test in the kitchen and then arranges for cleaner Gulya to send Denis upstairs. Listen to the scene."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that lures Denis straight toward Mikhail's second trap. Notice the command 'duyte v trubochku' meaning 'blow into the breathalyzer tube'. Until next time!"
+OUTRO = "And that lures Denis straight toward Mikhail's second trap right after passing the surprise kitchen breathalyzer test — 'blow into the tube!'. Until next time!"
 CLOSING = ('barinov', 'Хорошего дня!')
 STORY = [
     ('mikhail', 'Сегодня плановая проверка на алкоголь.', 'Today is a scheduled check for alcohol.', [(190, 'Плановая проверка на алкоголь')], 'verbatim'),

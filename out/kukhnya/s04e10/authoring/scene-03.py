@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e10.ru.srt'
 INTRO = 'Laughing at how movies stuff product placement into every scene, Max, Fedya, and Senya hold up a bottle of cooking oil like actors in a commercial before debating their favorite film genres.'
 OPENER = "Let's walk through the product-placement parody line by line."
 TRANSITION = 'Now listen to the whole exchange again at natural speed.'
-OUTRO = "Remember that the Russian word for cinema or movie is borrowed and indeclinable — it keeps its '-o' ending in every single context. Until next time!"
+OUTRO = 'Remember that the Russian word for cinema or movie is borrowed and indeclinable — its ending never changes, no matter how it sits in the sentence. Until next time!'
 CLOSING = ('max', 'До свидания!')
 STORY = [
     ('max', 'Федя, дай мне масло.', 'Fedya, give me the oil.', [(25, 'Дай масло')], 'adapted for A1 clarity'),

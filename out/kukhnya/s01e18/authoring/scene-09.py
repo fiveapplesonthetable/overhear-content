@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Max has a plan to cover the rent on the flat he shares with Kostya, and it runs through the bar's cognac. Kostya can't see what rent has to do with it, so Max spells it out. Listen once in Russian and try to follow the scheme."
 OPENER = 'Now the plan, one step at a time.'
 TRANSITION = 'Now hear the plan in one breath.'
-OUTRO = 'Max\'s maths is creative, and Kostya isn\'t convinced. Keep "besplatno", free, literally \'without payment\': "bez" plus "plata", the same "plata" as in rent. See you next time!'
+OUTRO = "Max's bar arithmetic is creative, and Kostya still isn't convinced. Notice how the Russian word for 'free of charge' is built literally from 'without' plus 'payment'. See you next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('kostya', 'Наша квартплата?', 'Our rent?', [(173, 'Наша кварплата?')], ''),

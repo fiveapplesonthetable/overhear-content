@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Elena Pavlovna is still running Barinov's kitchen, and she checks every plate at the pass before it goes out. Louis, the French pastry chef, brings her his dessert, and she sends it back. Here it is in Russian first."
 OPENER = "Let's go through the clash. Elena wants perfection, and Louis takes it personally."
 TRANSITION = "Now the argument from the top."
-OUTRO = "Elena ends with \"teper na etoy kukhne komanduyu ya\", now I am in charge in this kitchen, with \"ya\", I, saved for the very end. That's where Russian puts the word it wants you to hear. See you next time."
+OUTRO = "Elena ends with 'now I am in charge in this kitchen', saving the word 'I' for the very end of the sentence — right where Russian puts the word it wants to stress most. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Я не собираюсь отдавать это блюдо!', 'I am not going to send out this dish!', [(275, 'Я это не собираюсь забирать')], ''),

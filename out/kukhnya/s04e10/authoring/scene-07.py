@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e10.ru.srt'
 INTRO = "Just as the villain aims a pistol at Senya's back, Chef Barinov steps in with a tray of roast beef to stop the bullets and finishes the fight by dropping the chandelier."
 OPENER = "Let's go through each line of the action-movie finale."
 TRANSITION = 'Now listen to the whole scene again from start to finish.'
-OUTRO = "Listen for the suffix '-ovat-' on the word for 'tough', which is a handy way to say something is 'a bit too' tough, cold, or expensive. Until next time!"
+OUTRO = "Listen for how Barinov softens the word for 'tough' into 'a bit on the tough side' — a handy Russian ending for calling food slightly too tough, salty, or cold. Until next time!"
 CLOSING = ('barinov', 'Хорошего дня!')
 STORY = [
     ('barinov', 'Братан, ты просто лучший.', 'Brother, you are simply the best.', [(69, 'Братан, ты лучший')], 'adapted for A1 clarity'),

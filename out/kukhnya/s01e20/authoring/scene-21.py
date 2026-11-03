@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "The episode closes over Max's voice, which starts with a single word, my, 'we'. These easy lines lead into his thought; here they are in Russian."
+INTRO = "The episode closes over Max's voice, opening with the single Russian word for 'we'. These short lines lead into his reflection; here they are in Russian."
 OPENER = "Let's go over the lines."
 TRANSITION = "And Max's words again."
-OUTRO = "Max's thought goes on in the next scene. In Russian, ssoritsya, 'to quarrel', always carries -sya, since you quarrel with someone. See you next time!"
+OUTRO = "Max's closing reflection continues in the next scene, looking at how quickly couples quarrel and drift apart. See you next time!"
 CLOSING = ('max', 'До скорого!')
 STORY = [
     ('max', 'Мы.', 'We.', [(334, 'Мы')], ''),

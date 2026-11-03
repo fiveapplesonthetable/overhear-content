@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Back in the television studio, the cooking show is on air. Barinov is cooking young lamb, and beside him sits his rival, Elena Sokolova, who runs Arcobaleno, the Italian restaurant across the road. He picks this moment to say what he thinks about women in kitchens. It's in Russian first."
 OPENER = "Let's go back through it. Barinov stirs things up, and Elena answers him calmly and firmly."
 TRANSITION = "Now let's hear the two of them again without stopping."
-OUTRO = "Elena's lines are the ones to keep: u menya yest opyt, 'I have experience', and kukhnya, eto vsya moya zhizn, 'the kitchen is my whole life'. Swap in your own work and they're yours. See you next time."
+OUTRO = "Elena's lines are the ones to keep: 'I have experience' and 'the kitchen is my whole life'. Swap in your own work and they're yours. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Сегодня я приготовлю мясо молодого ягнёнка.', 'Today I will prepare meat of a young lamb.', [(20, 'Я приготовлю сегодня жигой гненка')], ''),

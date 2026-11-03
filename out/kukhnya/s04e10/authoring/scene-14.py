@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e10.ru.srt'
 INTRO = 'Out by the van, Timur defends his zombie-bitten nephew on grounds of family honor, and when a groaning Chef Barinov stumbles out, Louis mistakes his hangover for the zombie virus.'
 OPENER = "Let's walk through each line of the comedy in the courtyard."
 TRANSITION = "Now let's hear the whole scene again from start to finish."
-OUTRO = "Listen for the word 'nadelat' in Louis's cry 'What have I done!' — adding the prefix 'na-' implies doing something bad or making a big mess. See you next time!"
+OUTRO = "Listen for Louis's horrified cry, 'What have I done!' — Russian uses a special form of 'to do' here that implies making a terrible mess. See you next time!"
 CLOSING = ('barinov', 'Хорошего дня!')
 STORY = [
     ('timur', 'Ты чего, это же мой племянник!', 'What are you doing, that is my nephew!', [(143, 'это ж мой племянник')], 'adapted for A1 clarity'),

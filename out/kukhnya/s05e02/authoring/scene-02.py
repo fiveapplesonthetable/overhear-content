@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = "In the kitchen during the early breakfast rush, Chef Barinov pushes his sleepy cooks while manager Mikhail Dzhekovich explains how a 'secret guest' inspects every department of a hotel. Listen to the exchange."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that explains the secret shopper tradition in hospitality. Notice how the descriptive word 'proveryayushchiy' functions as a word meaning 'the inspector'. See you next time!"
+OUTRO = "And that sets up the hotel's secret shopper panic. Notice how Russian turns the word 'checking' directly into a noun meaning 'the inspector'. See you next time!"
 CLOSING = ('barinov', 'До завтра!')
 STORY = [
     ('senya', 'Я сегодня на работе поем.', 'I will eat at work today.', [(11, 'На работе поем')], 'adapted'),

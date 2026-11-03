@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Max is caught between his girlfriend Vika and his friends, who have just fallen out at the bar. He wants them all to make peace and asks Kostya for ideas. Then, mid-conversation, he realises what tomorrow is. Here is Max's thinking in Russian first."
 OPENER = "Let's follow how Max thinks it through, step by step."
 TRANSITION = 'Now the whole plan again, from the top.'
-OUTRO = 'Max has a plan, if a slightly dishonest one: a birthday nobody knew about. "Den rozhdeniya" is literally "day of birth", and you\'ll need it every year. See you next time!'
+OUTRO = "Max hatches a slightly dishonest peace plan: inventing a birthday nobody knew about. Notice that the Russian phrase for 'birthday' is literally 'day of birth'. See you next time!"
 CLOSING = ('kostya', 'Ну, удачи, Макс!')
 STORY = [
     ('max', 'Что делать, если друзья и девушка поссорились?', 'What to do if friends and girlfriend quarreled?', [(135, 'если твои друзья и твоя девушка поссорились')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e10.ru.srt'
 INTRO = 'Later that evening, a cheerful Chef Barinov visits the kitchen after finishing a bottle of Irish whiskey and tells the cooks he loves science fiction, launching a story set in 2114.'
 OPENER = "Let's step through Chef Barinov's entrance and his sci-fi opening."
 TRANSITION = "Now let's hear the whole scene again from start to finish."
-OUTRO = "Listen for the word 'verneye' when Chef Barinov corrects himself from one Irish guest to two — it means 'more accurately' or 'or rather'. See you next time!"
+OUTRO = "Listen for how Chef Barinov corrects himself mid-story from one Irish guest to two using a single Russian word meaning 'or rather'. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Шеф, добрый вечер!', 'Chef, good evening!', [(168, 'Шеф, добрый вечер')], ''),

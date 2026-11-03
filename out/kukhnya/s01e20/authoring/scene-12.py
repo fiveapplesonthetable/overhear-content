@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Over coffee in the kitchen, Kostya tells Max about his serious talk with Nastya. Then, with every table full, Barinov wants to thank his team. Have a listen."
 OPENER = "Let's look at each line."
 TRANSITION = 'And once more from the start.'
-OUTRO = "So Kostya needs a ring, and the team gets its party on Saturday. The word \"koltso\", 'ring', becomes \"koltsa\" when there are several. See you next time!"
+OUTRO = "Now Kostya needs an engagement ring too, and Barinov announces a staff party on Saturday. Listen for how the Russian word for 'ring' shifts between one ring and several. See you next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('kostya', 'Держи свой кофе.', 'Here is your coffee.', [(183, 'Держи свой кофе.')], ''),

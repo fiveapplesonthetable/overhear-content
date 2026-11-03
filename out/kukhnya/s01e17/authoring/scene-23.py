@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'The toast is interrupted. Barinov asks Max to show him his passport, and the date of birth in it is not what Max has been telling everyone. Listen to the passport scene in Russian first.'
 OPENER = "Let's look at the passport scene line by line."
 TRANSITION = 'Now the passport scene again, all the way through.'
-OUTRO = 'Max has been caught out by his own passport. Keep "nelzya", not allowed, for every rule you\'ll ever need to state in Russian. See you next time!'
+OUTRO = "Max's own passport gives away his real birthday in front of everyone. Listen for that firm one-word Russian expression meaning 'it's not allowed'. See you next time!"
 CLOSING = ('senya', 'Ну, пока, Макс!')
 STORY = [
     ('barinov', 'Покажи мне свой паспорт, Макс.', 'Show me your passport, Max.', [(327, 'Паспорте!')], ''),

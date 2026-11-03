@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'Barinov is alone in the kitchen with his pet fish, Arkady, when Vika comes in. She reminds him that he owes her money, and also that he promised a new dish for the season. Here is their talk in Russian first.'
 OPENER = "Let's go back through what Vika says, one line at a time."
 TRANSITION = 'Now listen to Vika and Barinov again from the top.'
-OUTRO = 'Vika gives him until tomorrow, and the chef promises to think of something. Keep "cherez nedelyu", in a week, for the next time you need to buy yourself some time. See you next time!'
+OUTRO = "Vika gives him only until tomorrow, and the chef promises to invent a new dish. Keep the phrase 'in a week' handy whenever you need to buy yourself a little extra time. See you next time!"
 CLOSING = ('vika', 'До завтра, Виктор!')
 STORY = [
     ('barinov', 'Приятного аппетита, мой дорогой Аркадий.', 'Enjoy your meal, my dear Arkady.', [(35, 'приятного аппетита, Аркадий.')], ''),

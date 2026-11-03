@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'Nagiyev now knows that the restaurant next door, Arcobaleno, called the inspector on them. He is furious, picks up the phone and decides to hit back with a call of his own. Listen to how fast his voice changes once the call goes through.'
 OPENER = 'Now the phone call, piece by piece.'
 TRANSITION = "Here is Nagiyev's revenge again, from the top."
-OUTRO = "Nagiyev hangs up pleased with himself. When you watch, listen for 'voyna', 'war', at the very start, and for 'baran', the ram, which he says as if it were an insult. See you next time!"
+OUTRO = "Nagiyev hangs up very pleased with himself. Listen for the word 'war' right at the start, and for 'ram', which Russian uses as an everyday insult for someone stubborn or foolish. See you next time!"
 CLOSING = ('nagiyev', 'Всего доброго!')
 STORY = [
     ('nagiyev', 'Вы хотите войну?', 'Do you want a war?', [(27, 'Война и хотите, будет вам война.')], ''),

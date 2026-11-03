@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Back at the restaurant, Kostya repeats Nastya's staircase talk to Max and admits he didn't follow a word. Then a picture arrives on Max's phone from Vika. Here's the Russian, start to finish."
 OPENER = 'Now the lines one at a time.'
 TRANSITION = 'Once more, all the way through.'
-OUTRO = "Max's advice is simple: pretend you didn't understand. Notice chyo, the everyday way to say chto, 'what'. See you next time!"
+OUTRO = "Max's advice to Kostya is simple: just pretend you didn't understand. Listen for the clipped, casual way spoken Russian drops 'what?' in conversation. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Настя сказала, что мы идём по лестнице.', 'Nastya said that we are walking on a staircase.', [(79, 'поднимаемся по какой-то лестнице')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = "At the bar the next morning, Vika innocently asks Kostya how his sprained ankle is doing, and when Nastya overhears, Kostya's loyal lie for Max backfires on him."
 OPENER = "Let's walk through Kostya's predicament between Vika and Nastya."
 TRANSITION = 'Now listen to the whole bar scene again at natural speed.'
-OUTRO = "Listen for the conversational connector 'kstati' ('by the way / speaking of which'), one of the most frequent transition words in spoken Russian. Until next time!"
+OUTRO = "Listen for the casual Russian transition word meaning 'by the way' or 'speaking of which', right before Vika accidentally blows Kostya's cover. Until next time!"
 CLOSING = ('nastya', 'Всего хорошего!')
 STORY = [
     ('vika', 'Костя, мне нужно отъехать за документами.', 'Kostya, I need to step out for some documents.', [(242, 'Костя, мне нужно отъехать за документами')], ''),

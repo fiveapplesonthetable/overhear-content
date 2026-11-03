@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'Behind the bar, Max has gone past extra ice: he sold a guest cheap cognac at the price of the good stuff. Kostya is horrified, and Max has a plan if they get caught. Let the Russian play once; the tone says plenty.'
 OPENER = "Now we'll go through the scheme, one line at a time."
 TRANSITION = 'Now the argument in one go, at its natural speed.'
-OUTRO = 'Max is pleased with himself, and Kostya wants no part of it. Keep "posadyat", literally \'they\'ll seat\', which is everyday Russian for \'they\'ll lock us up\'. See you next time!'
+OUTRO = "Max is pleased with his cognac switch, while Kostya worries they'll end up behind bars. Notice how everyday Russian says 'they'll lock us up' with a verb that literally means 'they'll seat us'. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вот, смотри, я покажу тебе хитрый способ.', 'Here, look, I will show you a clever method.', [(134, 'Я показал тебе еще один способ.')], ''),

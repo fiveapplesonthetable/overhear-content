@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "The inspector has opened the fridge with his own key, and someone is inside, just not the cook everyone was worried about. The man's papers are in order, and the inspector has to apologise. Meanwhile Fedya, who really was hiding, wants to know who got him out."
 OPENER = 'Now we stop at the fridge and take it phrase by phrase.'
 TRANSITION = 'And the fridge scene once more, all the way through.'
-OUTRO = "Fedya is out of the fridge, and the chef has no idea how. Senya's last line, 'pust on tak dumaet', 'let him think so', is one you can borrow whenever you let someone believe what they like. See you next time!"
+OUTRO = "Fedya is safely out of the fridge, and the chef has no idea how. Senya's closing line, 'let him think so', is a neat reply whenever you're happy to let someone keep guessing. See you next time!"
 CLOSING = ('fedya', 'Всё, пока!')
 STORY = [
     ('inspector', 'Чист. Мы его проверили.', "He's clean. We checked him.", [(181, 'Чист. Проверили.')], ''),

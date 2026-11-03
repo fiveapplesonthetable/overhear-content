@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Nastya finds Kostya at work and says she wants to talk something over. Kostya remembers Max's advice to dodge the subject. Let's hear it."
 OPENER = "Let's unpick that."
 TRANSITION = 'Here it is again, start to finish.'
-OUTRO = "Max told him to change the subject, and Kostya has found a way. The word kazhetsya, 'it seems', is a handy way to soften any claim. See you next time!"
+OUTRO = "Taking Max's advice, Kostya dodges the serious talk at once. Notice how the single Russian word for 'it seems' softens almost any statement. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, я хотела с тобой кое-что обсудить.', 'Kostya, I wanted to talk something over with you.', [(135, 'Костя, я хотела с тобой кое-что обсудить.')], ''),

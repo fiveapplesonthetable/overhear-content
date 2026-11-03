@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'Later in the evening, Vika takes Max aside: he never said his friends would be there. The night goes downhill fast, and soon Vika and Nastya are each telling the other to stay while they leave. Here is the argument in Russian.'
 OPENER = "Now let's take the row apart, slowly."
 TRANSITION = "Here's the whole row again, start to finish."
-OUTRO = 'Nastya drags Kostya out, Vika is ready to go, and Max is left holding the drinks. The word "rebyata", guys, works for any group of friends, young or old. See you next time!'
+OUTRO = "Nastya drags Kostya out, Vika is ready to leave too, and Max is left standing with the drinks. Notice the friendly plural word for 'guys', which Russians use for any circle of friends. See you next time!"
 CLOSING = ('nastya', 'Пока, Макс!')
 STORY = [
     ('vika', 'Ты мне почему не сказал, что они тут будут?', "Why didn't you tell me they'd be here?", [(94, 'мне почему не сказал, что они тут будут?')], ''),

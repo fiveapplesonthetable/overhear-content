@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = 'Having peeked into the reservation book at the podium, Sasha catches Vika in her lie about Thursday being booked, forcing Vika to invent a massive hundred-person banquet on the spot.'
 OPENER = "Let's examine each line as Vika's small lie snowballs into a huge banquet."
 TRANSITION = "Now let's hear the whole logbook confrontation again from start to finish."
-OUTRO = "Listen for the word 'uspet' followed by an base form — that is how Russian expresses making it on time to do something before a deadline. See you next time!"
+OUTRO = 'Listen for the single Russian verb that expresses managing to get everything done on time before a tight deadline. See you next time!'
 CLOSING = ('kostya', 'До встречи!')
 STORY = [
     ('vika', 'Саша, мы разве не решили вопросы?', "Sasha, didn't we settle all the questions?", [(40, 'Саша, а мы разве не решили все вопросы')], 'adapted for A1 clarity'),

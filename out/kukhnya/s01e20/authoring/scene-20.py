@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "The next morning, Elena comes to the flat where Max and the chef live. Here's the Russian, start to finish."
 OPENER = 'Now each line, slowly.'
 TRANSITION = "Here's the morning visit again."
-OUTRO = "Elena steps inside to find him. In Russian, znachit, literally 'it means', is one of the most common ways to say 'so'. See you next time!"
+OUTRO = "The morning after the party, Elena steps inside the flat looking for Barinov. Notice how Russian constantly uses the word for 'it means' to say 'so' or 'then'. See you next time!"
 CLOSING = ('elena', 'До свидания!')
 STORY = [
     ('elena', 'Здрасте. Доброе утро.', 'Hi. Good morning.', [(330, 'Здрасте. Доброе утро')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'Barinov has spotted the veal rolls from his own kitchen on the menu of the rival restaurant, and he storms over to its chef, Elena, to accuse her of stealing the dish. Listen to the showdown in Russian first.'
 OPENER = "Let's replay the confrontation slowly."
 TRANSITION = 'Now the whole confrontation again, without stopping.'
-OUTRO = 'Elena has the date on her side, and Barinov has to back down. "Stoyat", to stand, shows how Russian can bark an order with the plain dictionary form. See you next time!'
+OUTRO = "Elena has the printed menu date on her side, forcing Barinov to back down. Notice how Russian can bark 'halt!' using the plain dictionary form of 'to stand'. See you next time!"
 CLOSING = ('elena', 'Всего хорошего!')
 STORY = [
     ('barinov', 'Так, стоять.', 'Hold it right there.', [(270, 'Так стоять.')], ''),

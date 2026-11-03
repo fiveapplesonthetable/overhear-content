@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = "At the pawnshop, Chef Barinov learns the painful truth about Timur's Yakutian 'diamonds', while back at Claude Monet Sasha's wedding banquet gets underway with fish on every plate."
 OPENER = "Let's walk through the pawnshop reveal and the wedding banquet tension."
 TRANSITION = 'Now listen to the pawnshop and banquet scene again at natural speed.'
-OUTRO = "Notice the colloquial price word 'pochom' ('at what price / how much for'), which you will hear at every market in Russia. Until next time!"
+OUTRO = "Listen for that brisk, colloquial market word asking 'how much apiece?' — a staple at food stalls and pawnshops across Russia. Until next time!"
 CLOSING = ('timur', 'До свидания!')
 STORY = [
     ('timur', 'Скажите, а сколько это может стоить?', 'Tell me, how much could this be worth?', [(275, 'Сколько это может стоить')], 'adapted for A1 clarity'),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'Barinov is ready to quit over the firings, and Nagiyev sits him down to talk him round. He reminds the chef of his expensive daughter and his drinking, until Barinov gives in. Listen for how many bills Nagiyev can list.'
 OPENER = 'Now the persuasion, one argument at a time.'
 TRANSITION = 'Now let it play out, from first jab to first glass.'
-OUTRO = 'The argument ends the way many Russian arguments do, over a glass. Keep "delayte, chto khotite", do what you want, for the moment you give up arguing. See you next time!'
+OUTRO = "Their row ends over a glass after Nagiyev tallies up all of Barinov's expenses. Keep 'do whatever you want' in mind for the moment someone gives up arguing. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Подожди, чего ты кипятишься?', 'Hang on, why are you so worked up?', [(326, 'Подожди, чё ты кипятишься-то?')], ''),

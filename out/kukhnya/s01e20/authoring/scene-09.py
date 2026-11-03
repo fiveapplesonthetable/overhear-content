@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Then Nastya gets her talk at last, and she brings back the idea of a new step every day. Have a listen.'
 OPENER = "Let's walk through it."
 TRANSITION = 'Now the whole talk again.'
-OUTRO = "Kostya said he was ready, so now her parents are coming. Russian says na vykhodnye, literally 'for the days off', to mean 'for the weekend'. See you next time!"
+OUTRO = "Kostya finally said he was ready, which means Nastya's parents are coming to visit. Notice that Russian calls the weekend 'the days off'. See you next time!"
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'А теперь давай поговорим.', 'And now let us talk.', [(143, 'теперь давай поговорим.')], ''),

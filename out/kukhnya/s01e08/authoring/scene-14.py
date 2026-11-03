@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "With Barinov out of the way, Elena is running his kitchen at Claude Monet her own way. She speaks politely, calls the cooks by their full names, and nobody shouts. The cooks don't quite know what to make of it. It's in Russian first."
 OPENER = 'Slowly now. Elena asks rather than shouts, even when the guests start to complain.'
 TRANSITION = 'Now the whole quiet service again, at full speed.'
-OUTRO = 'Almost every order Elena gives has the polite -te ending: prigotovte, poprosite, davayte. A boss who talks like that is rare in any kitchen. See you next time.'
+OUTRO = "Almost every instruction Elena gives uses the polite plural command form — 'please prepare', 'please ask', 'let us'. A boss who speaks that way is rare in any busy kitchen. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Фёдор, приготовьте две порции креветок.', 'Fyodor, prepare two portions of shrimp.', [(163, 'приготовьте, пожалуйста, еще две порции креветок')], ''),

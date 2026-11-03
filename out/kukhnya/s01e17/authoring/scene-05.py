@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'Vika has given Barinov a deadline for a new seasonal dish, and he has no idea what to cook. So he calls the kitchen together and announces a contest, with a prize for the winner. Max asks the awkward questions. Here is the announcement in Russian.'
 OPENER = "Let's take Barinov's announcement one line at a time."
 TRANSITION = 'Now the announcement once more, without stopping.'
-OUTRO = 'A bonus at the end of the month and no insults until then: that\'s the whole deal. "Srazu" means "right away", and both Max and Barinov lean on it. See you next time!'
+OUTRO = "A cash bonus at the end of the month and no insults until then — that's the whole bargain. Listen for how both Max and Barinov lean on the word for 'right away'. See you next time!"
 CLOSING = ('barinov', 'Всё, до завтра!')
 STORY = [
     ('barinov', 'У меня объявление.', 'I have an announcement.', [(63, 'У меня объявление.')], ''),

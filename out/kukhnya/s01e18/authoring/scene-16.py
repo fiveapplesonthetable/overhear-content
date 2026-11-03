@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Kostya walks up to Barinov's table at the restaurant with a plan: swap the wrong bottle for a safe one without explaining why. Barinov has no patience for it. Listen for how fast the chef runs out of it."
 OPENER = 'Now the bottle swap, up close.'
 TRANSITION = 'Now hear him get sent packing, start to end.'
-OUTRO = 'Kostya has to go away empty-handed, and the chef is left with the bottle. Remember "idi otsyuda", \'go from here\', a rude way to tell someone to leave. See you next time!'
+OUTRO = "Kostya retreats empty-handed, leaving the wrong bottle right in front of Barinov. Notice the chef's blunt 'get out of here' — literally 'go from here'. See you next time!"
 CLOSING = ('kostya', 'Всего хорошего!')
 STORY = [
     ('kostya', 'Извините, приятного вам вечера.', 'Excuse me, have a pleasant evening.', [(295, 'Извини, приятного вечера.')], ''),

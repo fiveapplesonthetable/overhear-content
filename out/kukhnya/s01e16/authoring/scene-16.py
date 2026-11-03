@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'One more cook without papers needs hiding, and the kitchen is running out of places to put people. Max has a plan, Barinov has a better one, and then the inspector comes back from the fridge with news. Listen to how differently Barinov speaks to Max and to the inspector.'
 OPENER = "Now the hiding plan and the inspector's verdict, line by line."
 TRANSITION = 'And the whole scramble once more, at full speed.'
-OUTRO = "The inspector declares the kitchen clean, but he still wonders how so few people do so much work. Listen for 'na vkhode', 'at the entrance', where Russian uses 'na', 'on', and English uses 'at'. See you next time!"
+OUTRO = "The inspector declares the kitchen clean, though he still wonders how so few cooks handle so much work. Notice how Russian says 'on the entrance' where English says 'at the entrance'. See you next time!"
 CLOSING = ('barinov', 'Всего доброго!')
 STORY = [
     ('max', 'Шеф, тут ещё один.', "Chef, here's another one.", [(192, 'Еще один.')], ''),

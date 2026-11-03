@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = 'The lady at table seven has sent the salad back again. Vika brings the news to Barinov, who is not in a mood to listen. See what you can catch.'
 OPENER = "Here's what is going on, line by line."
 TRANSITION = 'Now you can hear it all again.'
-OUTRO = 'Barinov is storming toward the dining room, and Vika is trying to stop him. The word "scandal" is about to be proved right. Until the next scene.'
+OUTRO = "Barinov is storming toward the dining room, and Vika is trying to stop him. The word 'scandal' is about to be proved right. Until the next scene."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Витя, у нас в зале большая беда.', 'Vitya, we have big trouble in the dining room.', [(179, 'Витя!')], ''),

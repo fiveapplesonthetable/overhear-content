@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Max's closing thought goes on, about the illusions we live in and the moment they fall away. The Russian comes first."
 OPENER = "Let's take the thought apart."
 TRANSITION = 'Now the whole thought once more.'
-OUTRO = "The masks come off, and nobody was ready for what's underneath. You'll hear na samom dele, 'really', all the time in Russian. See you next time!"
+OUTRO = "The illusions fall away at once, and nobody is ready for what lies underneath. Listen for the three-word Russian phrase meaning 'in reality' or 'actually'. See you next time!"
 CLOSING = ('max', 'Увидимся!')
 STORY = [
     ('max', 'Мы очень часто существуем в иллюзиях.', 'We very often just exist in illusions.', [(335, 'очень часто существуем в'), (335, 'иллюзиях')], ''),

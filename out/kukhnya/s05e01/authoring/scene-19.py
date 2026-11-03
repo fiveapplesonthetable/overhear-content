@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 INTRO = 'Stepping into the center of the hotel lobby with a microphone, Denis declares his love to Katya on one knee—just as Senya and Fedya tip the box over the balcony and shower the crowd in Madagascar cockroaches. Listen to the dramatic moment.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that captures the unforgettable proposal disaster at Hotel Eleon. Notice the command form 'vykhodi za menya' used when proposing directly. Until next time!"
+OUTRO = 'And that captures the unforgettable proposal disaster in the lobby of Hotel Eleon, right as Denis drops to one knee and asks Katya to marry him. Until next time!'
 CLOSING = ('katya', 'Всего хорошего!')
 STORY = [
     ('denis', 'Дай мне микрофон на минуту.', 'Give me the microphone for a minute.', [(290, 'микрофон')], 'adapted'),

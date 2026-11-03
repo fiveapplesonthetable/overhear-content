@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'The inspector has left Barinov with a fine and Fedya with an order to leave the country. Fedya asks the chef for help, and Barinov, out of ideas, thinks aloud.'
 OPENER = "Let's go back through it slowly."
 TRANSITION = 'Once more, all the way through.'
-OUTRO = "Barinov has no plan, only a bad joke. Keep an ear out for 'mozhet': on its own at the start of a sentence it means 'maybe', although its first meaning is 'can'. See you next time!"
+OUTRO = "Barinov has no real rescue plan, only a grim joke. Notice how Russian drops 'can' at the start of a sentence on its own to mean 'maybe'. See you next time!"
 CLOSING = ('barinov', 'Ну, удачи!')
 STORY = [
     ('fedya', 'Шеф, может, поможете?', 'Chef, maybe you can help?', [(277, 'Шеф, может помочь?')], ''),

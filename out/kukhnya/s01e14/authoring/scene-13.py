@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'The guests are asking for the chef, but Barinov has passed out. Diana tracks Max down and asks him to cook for her, and Nagiyev hurries in to steer her back to the dining room. Listen in Russian first.'
 OPENER = 'Now in slow motion.'
 TRANSITION = 'Now the whole scene again.'
-OUTRO = 'Max heads off to Diana\'s table with no idea what he is about to cook. Diana says polite "you" to him all the way through. See you next time.'
+OUTRO = "Max heads off to Diana's table with no idea what he is about to cook. Notice how Diana uses the polite form of 'you' with him all the way through. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('diana', 'Витя, просыпайтесь!', 'Vitya, wake up!', [(179, 'Витя! Просыпайтесь!')], ''),

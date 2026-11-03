@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Barinov has walked out on his own kitchen and is sitting in the dark storeroom at Claude Monet with a bottle. Ainura, the cleaner, who has worked there for years, finds him. She talks to him as an old friend, with the familiar \"ty\" for 'you'. Here it is in Russian first."
+INTRO = "Barinov has walked out on his own kitchen and is sitting in the dark storeroom at Claude Monet with a bottle. Ainura, the cleaner, who has worked there for years, finds him and speaks to him as an old friend, using the familiar Russian form of 'you'. Here it is in Russian first."
 OPENER = "Let's go through it gently. Barinov wants company, and Ainura wants him back at work."
 TRANSITION = "Now the scene in one piece."
-OUTRO = "Ainura's lines are short and warm: \"vot ty gde\", so there you are, and \"tebe nelzya zdes ostavatsya\", you can't stay here. That's how old friends talk. See you next time."
+OUTRO = "Ainura's lines are short and warm: 'so there you are' and 'you can't stay here'. That quiet directness is how old friends talk. See you next time."
 CLOSING = ('ainura', 'Пока!')
 STORY = [
     ('ainura', 'Здравствуй, шеф.', 'Hello, Chef.', [(311, 'Здравствуй')], ''),

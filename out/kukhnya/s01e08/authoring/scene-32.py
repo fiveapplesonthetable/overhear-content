@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Barinov is in his office at Claude Monet again, and now he suspects everyone of plotting against him. Max, the young cook, is there too, and he reflects on why some people feel the whole world is against them. Here it is in Russian first."
 OPENER = "Let's go through the paranoia. Barinov accuses, and Max calmly disagrees."
 TRANSITION = "Now the scene in one go."
-OUTRO = "\"Slushayus, shef\", yes, Chef, is the line to keep: it's how a Russian kitchen, or an army, says 'right away'. See you next time."
+OUTRO = "Max's 'yes, Chef' — literally 'I am listening, Chef' — is the line to keep: it's how a Russian kitchen, or the military, answers 'right away'. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Кругом одни предатели и шпионы!', 'Traitors and spies are all around!', [], ''),

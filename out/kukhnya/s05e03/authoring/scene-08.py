@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 INTRO = "Now that Chef Barinov has protected his job, Denis marches back into Eleonora Andreevna's office to declare that he is staying at the hotel and wants to be with Katya. Listen to their tense exchange."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that escalates the feud between Denis and Eleonora Andreevna. Notice the double negative in 'Ya nikuda ne uyedu' meaning 'I am not going anywhere'. See you next time!"
+OUTRO = "And that escalates the feud in Eleonora Andreevna's office as Denis stands firm with 'I am not going anywhere'. See you next time!"
 CLOSING = ('eleonora', 'До встречи!')
 STORY = [
     ('denis', 'Элеонора Андреевна — это мама Кати.', "Eleonora Andreevna is Katya's mom.", [(141, 'Элеонора Андреевна. Мама Кати')], 'verbatim'),

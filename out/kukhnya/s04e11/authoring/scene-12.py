@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e11.ru.srt'
 INTRO = 'At the bar in Claude Monet, Kostya accidentally drops an expensive bottle of wine right in front of Dmitry Nagiyev, earning a painful fine that leaves Nastya furious.'
 OPENER = "Let's examine each line of Kostya's costly mistake at the bar."
 TRANSITION = "Now let's hear the whole scene again from start to finish."
-OUTRO = "Listen for how Russian says 'got it!' or 'understood!' using the single past-tense word 'ponyal' for a male speaker. See you next time!"
+OUTRO = "Listen for how Russian says 'got it!' or 'understood!' with a single crisp past-tense verb meaning 'I understood'. See you next time!"
 CLOSING = ('nastya', 'До завтра!')
 STORY = [
     ('nagiyev', 'Молодец, просто отличная работа!', 'Well done, simply a great job!', [(170, 'Молодец')], 'adapted for A1 clarity'),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = 'At three in the morning, Chef Barinov and Lyova crawl into Claude Monet with a flashlight to search the fish for diamonds, only to bump into Senya and Fedya doing the exact same thing.'
 OPENER = "Let's walk through the hilarious three-a.m. encounter in the kitchen."
 TRANSITION = 'Now listen to the whole three-a.m. fish-cleaning scene again at natural speed.'
-OUTRO = "Notice how Russian tells night hours: 'tri chasa nochi' is literally 'three hours of the night' for three o'clock in the morning. Until next time!"
+OUTRO = "Notice how Russian tells late-night hours: three a.m. is literally 'three hours of the night' rather than three in the morning. Until next time!"
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('lyova', 'Между прочим, это кража со взломом!', 'By the way, this is burglary with breaking and entering!', [(161, 'Между прочим, это как ража со взломом')], 'adapted for A1 clarity'),

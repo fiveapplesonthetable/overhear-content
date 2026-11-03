@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 INTRO = 'Determined to get rid of Denis, Eleonora orders Mikhail to arrange a firing offense by any means necessary, and then welcomes Dmitry Nagiyev to host a wildlife charity evening. Listen to the conversation.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings Dmitry Nagiyev back into the world of Hotel Eleon. Notice the idiom 'ya zhe ne vchera rodilsya'—'I was not born yesterday'. Until next time!"
+OUTRO = "And that brings Dmitry Nagiyev back into the world of Hotel Eleon, reminding everyone with a grin that he 'wasn't born yesterday'. Until next time!"
 CLOSING = ('nagiyev', 'До завтра!')
 STORY = [
     ('mikhail', 'Я вам ночью уже всё сказал.', 'I already told you everything last night.', [(150, 'вам ночью все сказал')], 'verbatim'),

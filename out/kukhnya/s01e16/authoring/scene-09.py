@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "At Arcobaleno, the migration inspector has finished with Elena Pavlovna's kitchen and found nothing wrong. He wants to go somewhere else with his team, and Elena knows exactly where to send him. Listen for the name of the restaurant she suggests."
 OPENER = "Now Elena's quiet revenge, one line at a time."
 TRANSITION = "And the whole thing once more, from the inspector's praise to the chef's panic."
-OUTRO = "The revenge is about to land on Claude Monet's own doorstep, and Barinov is the first to see it coming. As you watch, keep an ear out for 'vot' and 'von': they look alike but mean very different things. See you next time!"
+OUTRO = "Revenge is about to land right on Claude Monet's doorstep, and Barinov is the first to spot it. Listen for the pair of short Russian pointing words for 'right here' versus 'way over there'. See you next time!"
 CLOSING = ('barinov', 'Всё, пока!')
 STORY = [
     ('inspector', 'У вас всё в порядке.', 'Everything is in order with you.', [(62, 'Ну что же, уважаемая Елена Павловна, мне кажется, что ваш ресторан будет...'), (63, 'весьма успешным.')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'Nagiyev has just announced that his wife Kristina will run the restaurant. Barinov asks what he means, and Nagiyev lists her qualifications, which turn out to include working there for a year. Listen for how short that list is.'
 OPENER = 'Now the list of qualifications, one by one.'
 TRANSITION = "Here's the whole introduction again, straight through."
-OUTRO = 'The staff greet their new boss, though not warmly. Keep "upravlenie", management, from "upravlyat", to run. See you next time!'
+OUTRO = "The kitchen greets its new boss with forced smiles as Nagiyev lists Kristina's thin qualifications for restaurant management. See you next time!"
 CLOSING = ('nagiyev', 'Всего хорошего!')
 STORY = [
     ('barinov', 'В смысле?', 'What do you mean?', [(254, 'смысле?')], ''),

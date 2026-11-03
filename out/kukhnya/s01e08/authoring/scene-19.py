@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "A different story now. Max, the young cook, and Vika, the restaurant's art director, are at a stranger's flat to collect a dog called Hector. The owner will only give him to a married couple, so Max has told her that he and Vika are getting married. Vika is not pleased. Here it is in Russian first."
 OPENER = "Let's go through the whispering. Vika is furious, and Max is improvising as fast as he can."
 TRANSITION = "Now the whole argument in one go."
-OUTRO = "Max says \"podygray mne\", play along with me, and Vika says \"ty s uma soshyol\", are you out of your mind. Between them, that's most of an emergency. See you next time."
+OUTRO = "Max whispers 'play along with me', and Vika fires back 'are you out of your mind?'. Between the two of them, that covers most emergencies. See you next time."
 CLOSING = ('max', 'Пока')
 STORY = [
     ('vika', 'Макс, зачем ты соврал про нашу будущую свадьбу?', 'Max, why did you lie about our future wedding?', [(226, 'Мы с Викой как раз женимся через месяц')], ''),

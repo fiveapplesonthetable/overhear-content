@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Kostya has stopped Nastya, and now he finally says it: he wants her to marry him. The Russian comes first.'
 OPENER = "Here's what each line means."
 TRANSITION = "Here's the proposal again."
-OUTRO = "The proposal goes wrong, because Nastya has a plan of her own. Russian s uma soshyol, literally 'gone off your mind', is the everyday 'are you crazy?'. See you next time!"
+OUTRO = "Kostya's proposal takes an unexpected turn because Nastya has big news of her own. Listen for her everyday 'are you crazy?' — literally 'have you stepped off your mind?'. See you next time!"
 CLOSING = ('nastya', 'До завтра!')
 STORY = [
     ('kostya', 'Я хотел тебе кое-что сказать.', 'I wanted to tell you something.', [(292, 'хотел тебе кое-что сказать')], ''),

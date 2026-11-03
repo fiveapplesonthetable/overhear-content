@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = 'Stepping into the walk-in cooler for supplies, Max finds Sasha hiding there in her wedding dress; she confesses her doubts about Misha and kisses Max right as Vika looks in!'
 OPENER = "Let's examine each line of the fateful conversation in the cooler."
 TRANSITION = "Now let's hear the whole cooler scene again from start to finish."
-OUTRO = "Notice how adding the prefix 'pere-' to a word means 'too much' or 'over-', as in 'perenervnichat' ('to get overly nervous or worked up'). See you next time!"
+OUTRO = "Notice how Sasha explains her panic in the walk-in cooler with a single Russian verb meaning 'to get overly nervous' before the wedding. See you next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Саша, а ты что тут делаешь?', 'Sasha, what are you doing in here?', [(294, 'Ты что сделаешь')], 'adapted for A1 clarity'),

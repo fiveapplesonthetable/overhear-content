@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "In the kitchen, Senya is passing off his dish as the chef's new special when the owner, Nagiyev, walks in and demands to know who he is. Senya sees his chance to ask for something. Listen to Senya make his pitch in Russian first."
 OPENER = 'Now back to Senya and the owner, slowly.'
 TRANSITION = "Here's Senya and Nagiyev again, without stopping."
-OUTRO = 'Senya has talked the owner into a slicer, and the chef will be none the wiser, at least for now. "V kontse kontsov", after all, is built by saying "end" twice. See you next time!'
+OUTRO = "Senya talks Nagiyev into buying a new meat slicer, and Barinov is none the wiser for now. Listen for the Russian idiom meaning 'after all', built by repeating the word 'end' twice. See you next time!"
 CLOSING = ('senya', 'До свидания!')
 STORY = [
     ('nagiyev', 'Ты кто такой? Это что такое?', 'Who are you? What is this?', [(188, 'Ты кто такой? Это что такое?')], ''),

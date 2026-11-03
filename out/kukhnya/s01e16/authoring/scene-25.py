@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'Barinov shows Max what his famous pâté really is: a shop-bought tin that Eleonora Andreyevna happens to love. Then, at the end of the day, a familiar face walks back into the kitchen.'
 OPENER = 'Now for a closer look.'
 TRANSITION = 'Now the whole scene once more, from start to finish.'
-OUTRO = "The famous pâté comes out of a tin, and Fedya is back with a new name. 'Zdorovo' with the stress at the end is a hearty 'hi', while 'zdorovo' stressed on the first syllable means 'great'. See you next time!"
+OUTRO = "The chef's famous pâté comes straight out of a shop-bought tin, and Fedya walks back in under a brand-new name with a hearty 'hey there!'. See you next time!"
 CLOSING = ('barinov', 'Ну, до встречи!')
 STORY = [
     ('barinov', 'Паштет говяжий, печёночный, куриный.', 'Beef, liver and chicken pâté.', [(297, 'Паштет говяжий, печеночный, куриный.')], ''),

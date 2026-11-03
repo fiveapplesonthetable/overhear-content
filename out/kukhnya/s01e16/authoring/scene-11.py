@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'The major is waiting in the restaurant, and Barinov has to talk to him. The officer is friendly in a way that makes the room colder: he says he has a reputation as a frightening man, and he wants to explain it. Listen to how politely he offers a sweet.'
 OPENER = "Now the major's little speech, a line at a time."
 TRANSITION = 'And the conversation once more, the way it really sounds.'
-OUTRO = "The major makes threats sound like small talk. Remember how he offers the candy with a 'ne' in it, 'ne zhelaete?', because it's a polite way to offer anything in Russian. See you next time!"
+OUTRO = "The major makes threats sound like polite small talk. Notice how he offers a sweet with a negative question — 'wouldn't you care for one?' — a classic, courteous way to offer something in Russian. See you next time!"
 CLOSING = ('barinov', 'Всего хорошего!')
 STORY = [
     ('barinov', 'Хорошо, давайте только быстро.', 'Alright, let us just do it quickly.', [(132, 'Хорошо. Давайте только быстро.')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "At Claude Monet, Tyson, the owner Nagiyev's dog, lies still after the shock from the socket. Max and Vika carry him into the staff locker room to hide him, and Max is still without his trousers. It's in Russian first."
 OPENER = 'Slowly now. Vika panics, and Max keeps saying it will all be fine.'
 TRANSITION = 'Now the whole scene again, at full speed.'
-OUTRO = "Max's promise, nikto nichego ne uznayet, 'nobody will find out anything', is the classic line just before everyone finds out. You've also heard pridyot v sebya, 'will come round', literally 'will come into herself'. See you next time."
+OUTRO = "Max's promise that 'nobody will find out anything' is the classic line right before everyone finds out. You've also heard the idiom for 'will come round', expressed literally in Russian as 'will come into oneself'. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Осторожней, куда ты прячешь бедную собаку?', 'Careful, where are you hiding the poor dog?', [(116, 'Осторожней'), (117, 'Куда ты ее прячешь')], ''),

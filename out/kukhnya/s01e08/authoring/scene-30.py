@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Barinov has won the bet, and he is in his office at Claude Monet enjoying it. Max, the young cook, comes in with a few thoughts about people and their mistakes, and the chef takes them personally. Here it is in Russian first."
 OPENER = "Let's go through it slowly. Max reflects, and Barinov answers every thought with his own victory."
 TRANSITION = "Now the conversation in one go."
-OUTRO = "Russian has two ways to make a mistake: \"delat oshibki\", to make mistakes, and the single word \"oshibatsya\", to be wrong. You heard both here. See you next time."
+OUTRO = "Russian has two everyday ways to talk about mistakes: the two-word phrase 'to make mistakes' and a single verb meaning 'to be mistaken'. You heard both in Max's speech here. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Шеф, люди очень не любят делать ошибки.', 'Chef, people really do not like making mistakes.', [(357, 'Люди не любят делать ошибки')], ''),

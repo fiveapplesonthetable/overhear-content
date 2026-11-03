@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Back in the kitchen at Claude Monet, Elena Pavlovna has lost control: plates are coming back and nothing goes out on time. Then Barinov walks in and fixes the whole kitchen in a minute by giving each cook what he needs. Here it is in Russian first."
 OPENER = "Let's go through the rescue. Every order Barinov gives is short and exact."
 TRANSITION = "Now the rescue at full speed."
-OUTRO = "Barinov's orders are a name, a command and a time: \"Fedya, idi pokuri tri minuty\". That is the shape of every order in a busy kitchen. See you next time."
+OUTRO = "Barinov's orders are just a name, a command, and a time limit — 'Fedya, go have a smoke for three minutes' — and suddenly the whole kitchen works again. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('elena', 'У нас уже три возврата блюд!', 'We already have three returned dishes!', [(324, 'три отката от блюд.')], ''),

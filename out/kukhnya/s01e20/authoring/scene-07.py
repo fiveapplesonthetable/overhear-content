@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Nastya tries a third time, and Kostya keeps finding reasons to be somewhere else. Listen to it in Russian first.'
 OPENER = "Let's look closer."
 TRANSITION = 'One more time from the top.'
-OUTRO = "Kostya runs off to the kitchen again. The pair bolshe ne means 'no longer' or 'not any more'. See you next time!"
+OUTRO = "Kostya bolts for the kitchen yet again to escape the talk, while Nastya's patience is running out. Listen for the two-word Russian pair meaning 'no longer'. See you next time!"
 CLOSING = ('kostya', 'Увидимся!')
 STORY = [
     ('nastya', 'Костя, давай поговорим.', 'Kostya, let us talk.', [], ''),

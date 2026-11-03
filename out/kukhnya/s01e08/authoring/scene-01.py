@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "This is Kukhnya, which means The Kitchen: a Russian comedy set in Claude Monet, a smart Moscow restaurant where the head chef, Viktor Barinov, rules with a loud voice. In episode eight the restaurant's owner, Dmitry Nagiyev, has brought Barinov to a television studio for a live cooking show. The chef would rather be at his own stove, and then he hears that his rival is on the programme too. It comes first in Russian, and it's fine if you miss a few words."
 OPENER = "Let's take it again slowly. Nagiyev is smooth, and Barinov keeps looking for a way out."
 TRANSITION = "Here's the whole conversation once more, at full speed."
-OUTRO = "Barinov's line moyo mesto u plity, 'my place is at the stove', suits anyone who'd rather stay in their own corner. And pryamoy efir, 'live broadcast', is what you'll see in the corner of a Russian TV screen during a live show. See you next time."
+OUTRO = "Barinov's line 'my place is at the stove' suits anyone who'd rather stay in their own corner, and 'live broadcast' is what flashes in the corner of a Russian TV screen during a live show. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Дима, зачем ты позвал меня сюда?', 'Dima, why did you call me here?', [(1, 'Дим, ну в каком хрен я здесь')], ''),

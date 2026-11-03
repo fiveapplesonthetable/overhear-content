@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Max has plans for the evening. Vika is waiting for him at home for a quiet dinner, but he has brought his friends along as a surprise. We'll hear their phone call in Russian first."
 OPENER = "Let's go back over the phone call, slowly."
 TRANSITION = 'Now the phone call once more, without a break.'
-OUTRO = 'Vika is not ready for guests, and Max is about to find out how much. "Vsyo budet khorosho", everything will be fine, is what Russians say right before it isn\'t. See you next time!'
+OUTRO = "Vika is expecting a quiet evening for two, and Max's reassuring 'everything will be fine' is exactly what characters say right before everything goes sideways. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Макс, ну ты где?', 'Max, well where are you?', [(295, 'Макс, ну ты где?')], ''),

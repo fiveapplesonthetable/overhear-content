@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = 'Convinced that the guest in room 313 is just a freeloader who exploited them for two days, Chef Barinov and Mikhail barge into his suite to force-feed him coffee and steaks. Listen to the confrontation.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that captures Barinov and Mikhail's disastrous revenge in room 313. Notice how Barinov calls the guest 'Khlestakov' and 'revizor' after Gogol's famous play 'The Government Inspector'. Until next time!"
+OUTRO = "And that captures Barinov and Mikhail's disastrous revenge in room 313, mocking the bewildered guest with a nod to Gogol's classic comedy 'The Government Inspector'. Until next time!"
 CLOSING = ('guest', 'Увидимся!')
 STORY = [
     ('barinov', 'А вот и наш дорогой гость.', 'And here is our dear guest.', [(211, 'мой гость')], 'adapted'),

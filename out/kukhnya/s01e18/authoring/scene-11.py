@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Nagiyev arrives back at Claude Monet with his wife Kristina. He admits to the staff that he has gone too far with his penny-pinching, and then he announces who is going to run the restaurant. Watch Barinov's face as the answer lands."
 OPENER = "Here's the arrival again, slower."
 TRANSITION = 'Now the announcement in one go.'
-OUTRO = 'The staff have just been told that the new boss is the owner\'s wife. As you listen again, catch "peregibat palku", \'to bend the stick\', which means to overdo it. See you next time!'
+OUTRO = "The stunned staff learn that Nagiyev's wife Kristina is now their boss. Listen for Nagiyev's vivid Russian idiom for going too far — literally 'to bend the stick'. See you next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('nagiyev', 'Ну что, мы приехали?', 'Well, have we arrived?', [(238, 'Приехали?')], ''),

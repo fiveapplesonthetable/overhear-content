@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = 'Outside the back entrance, produce supplier Timur tries to talk Chef Barinov into buying a crate of Yakutian fish that looks suspiciously worn out from its long journey.'
 OPENER = "Let's examine each line of Timur's sales pitch to Chef Barinov."
 TRANSITION = "Now let's hear the whole courtyard scene again from start to finish."
-OUTRO = "Remember the handy phrase 'na probu' ('for a sample / to try out') and the expression 'besplatno' ('for free', literally 'without payment'). See you next time!"
+OUTRO = "Remember Timur's two persuasive market expressions here: offering fish 'as a sample to try out' and handing it over 'for free' — literally 'without payment'. See you next time!"
 CLOSING = ('timur', 'Пока!')
 STORY = [
     ('timur', 'Шеф, брат, возьми хорошую рыбу!', 'Chef, brother, take some good fish!', [(11, 'Шеф-брат')], 'adapted for A1 clarity'),

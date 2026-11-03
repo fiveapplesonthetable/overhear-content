@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Nagiyev's savings plan has reached the bar. He has found a way to economise on staff, and Kostya is the first to hear. Listen for how little time it takes."
 OPENER = "Here's how the firing goes, word by word."
 TRANSITION = 'Now the dismissal again, short and brutal.'
-OUTRO = 'Kostya has been dismissed in a few short sentences, and he takes it with surprising calm. "Balbes", blockhead, is rude but mild: Russians often say it half-jokingly. See you next time!'
+OUTRO = "Kostya loses his bar job in just a few brisk sentences and takes the blow with quiet dignity, even after a mild, half-joking 'blockhead'. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('kostya', 'Я просто делал свою работу.', 'I was just doing my job.', [], ''),

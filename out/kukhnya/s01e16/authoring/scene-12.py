@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'Major Lanovsky is still sitting with Barinov, still unpleasantly friendly, and now he is comparing people to animals: his service are the hawks, and the illegal workers are rats. Then his phone rings, and the news is about the fridge. Listen to how sweetly he says the nastiest things.'
 OPENER = "Let's unpack the major's animal talk."
 TRANSITION = 'And the rats, the squirrels and the phone call once more, at full speed.'
-OUTRO = "That phone call ends the small talk, and the major wants Barinov to come with him. Remember 'seychas', which means 'right now' and also 'in a moment', and Russians use it for both. See you next time!"
+OUTRO = "That phone call ends the small talk, and the major wants Barinov to come with him. Listen for the everyday Russian time word that stretches to mean both 'right now' and 'in just a moment'. See you next time!"
 CLOSING = ('lanovsky', 'Всего хорошего!')
 STORY = [
     ('lanovsky', 'В нашем мире крысы это враги.', 'In our world, rats are the enemy.', [(154, 'поскольку в нашем мире крысы это же враги.')], ''),

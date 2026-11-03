@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'A rich guest, Diana, is chatting with the owner, Nagiyev, in the dining room. She loves the head chef she just met, but he is talking about Barinov and she is talking about somebody else. Have a listen to them in Russian.'
 OPENER = 'Again, line by line.'
 TRANSITION = 'And the conversation, start to finish.'
-OUTRO = "Nagiyev promises that the chef will cook for her, without realising who she means. Hold on to the phrase for in a good mood. Speak soon."
+OUTRO = "Nagiyev promises that the chef will cook for her, without realising who she means. Hold on to the Russian phrase for 'in a good mood'. Speak soon."
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Диана, вы как всегда прекрасно пахнете!', 'Diana, you smell wonderful as always!', [(152, 'Дианочка, как всегда, прекрасно, цветете, пахнете.')], ''),

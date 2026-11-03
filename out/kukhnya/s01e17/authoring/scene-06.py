@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'After a long day, Vika is in a lousy mood, and Max takes her to a bar to cheer her up. There they meet his friends Kostya and Nastya, which is a little awkward, since Vika is their boss at Claude Monet. Here are the introductions in Russian first.'
 OPENER = 'Now back to the introductions, slowly.'
 TRANSITION = 'Here are the introductions again, all together.'
-OUTRO = 'Max has made the introductions and gone off for drinks, leaving his girlfriend with her own staff. Hold on to "poznakomtes", meet each other, for the next time you introduce your friends. See you next time!'
+OUTRO = "Max makes the introductions and slips off to the bar for drinks, leaving Vika awkwardly seated with her own staff. Listen for that single polite command meaning 'get acquainted'. See you next time!"
 CLOSING = ('max', 'До скорого!')
 STORY = [
     ('vika', 'Настроение паршивое.', "I'm in a lousy mood.", [(75, 'Настроение паршивое')], ''),

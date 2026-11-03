@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Max can't wait any longer, so he rings Vika to ask about the ring. Let's hear how the call goes."
 OPENER = "Let's take it line by line."
 TRANSITION = "Here's the call again from the start."
-OUTRO = "So the ring was Tanya's idea, and now Vika wants it from Max. Russian says pozvonyu ey, 'I'll call her', with the 'to her' form. See you next time!"
+OUTRO = "So the ring photo was Tanya's idea, and now Vika expects one from Max. Notice how Russian says 'I'll call to her' when phoning someone. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Привет. Я хотел узнать насчёт подарка.', 'Hi. I wanted to find out about the gift.', [(114, 'Я хотел узнать')], ''),

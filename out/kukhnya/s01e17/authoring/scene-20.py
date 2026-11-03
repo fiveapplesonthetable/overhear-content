@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Max has brought Nastya and Kostya to Vika's flat as a birthday surprise, and it is a mistake. Vika expected a quiet evening for two, and Nastya was told that Vika wouldn't be there. Listen to it fall apart in Russian first."
 OPENER = "Now let's replay the evening, line by line."
 TRANSITION = "Here's the whole evening again, start to finish."
-OUTRO = 'Max leaves in a huff, and Vika calls him back. When you hear "zachem", remember it asks "what for?", a different question from "pochemu", why. See you next time!'
+OUTRO = "Max storms out as his birthday lie unravels, and Vika calls after him. Notice how Russian separates 'what for?' — asking the purpose — from 'why?', asking the cause. See you next time!"
 CLOSING = ('nastya', 'Ну, мы пойдём. Пока!')
 STORY = [
     ('nastya', 'Здрасте.', 'Hello.', [(297, 'Здрасте.')], ''),

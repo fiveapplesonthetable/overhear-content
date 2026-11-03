@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'The big row is over. In the dining room, Nastya and Vika apologise to Max for ruining what they thought was his birthday, and Max calls for a glass. Here are the apologies in Russian first.'
 OPENER = "Let's take the apologies one at a time."
 TRANSITION = 'Now the apologies again, without the pauses.'
-OUTRO = 'Everyone has made up, at least until somebody slips again. "Prosti", forgive, is a good word to keep for your own apologies. See you next time!'
+OUTRO = "Everyone makes peace in the dining room — at least until the next slip. Listen for the warm, informal one-word apology meaning 'forgive me' between friends. See you next time!"
 CLOSING = ('vika', 'До завтра, Макс!')
 STORY = [
     ('max', 'Опа-на.', 'Well, look at that.', [(320, 'Опа-на.')], ''),

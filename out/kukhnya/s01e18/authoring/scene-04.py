@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Max's lessons for Kostya go on behind the bar. This time Max plays a rich customer, and the trick involves expensive cognac. Here it is in Russian first; just get a feel for the role-play."
 OPENER = "Let's unpack it, line by line."
 TRANSITION = 'Now the role-play again, without stopping.'
-OUTRO = 'Kostya plays along, but he doesn\'t like where this is going. Listen again for "koroche", literally \'shorter\', which Max uses to get to the point. See you next time!'
+OUTRO = "Kostya plays along with the role-play, though he hates where Max's scheme is heading. Listen for Max's casual filler word — literally 'shorter' — used to say 'long story short'. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Это ещё не всё, слушай дальше.', 'That is not all yet, listen further.', [(129, 'Еще не все. Слушай дальше.')], ''),

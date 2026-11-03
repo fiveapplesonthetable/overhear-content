@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Back in the kitchen at Claude Monet, Elena Pavlovna, borrowed from a rival restaurant, is in charge while Barinov sulks. The cooks want a smoke break, the way they had under Barinov. Lyova, the sous-chef, asks for one, and Elena says no. Here it is in Russian first."
 OPENER = "Let's go through the standoff. Lyova stays polite, and Elena doesn't give an inch."
 TRANSITION = "Now the full exchange without stopping."
-OUTRO = "Lyova gets the last word in spirit: \"ya su-shef, a ne kurer\", I'm a sous-chef, not a courier. Then he goes to fetch the arugula anyway. See you next time."
+OUTRO = "Lyova gets the last word in spirit — 'I'm a sous-chef, not a courier' — and then trudges off to fetch the arugula anyway. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('lyova', 'Шеф, можно поварам выйти перекурить?', 'Chef, can the cooks go smoke?', [(241, 'Шеф, мы перекурить')], ''),

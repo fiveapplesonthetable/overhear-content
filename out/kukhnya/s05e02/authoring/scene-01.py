@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = 'At the start of Episode 2, Denis introduces Boutique Hotel Eleon and explains the three big differences between a standalone restaurant and Restaurant Victor inside a hotel. Listen to the Russian narration first.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that introduces the new rhythm of life at Boutique Hotel Eleon. Notice the impersonal word 'prikhoditsya' used with the indirect plural for 'the cooks have to'. Until next time!"
+OUTRO = 'And that introduces the round-the-clock rhythm of Boutique Hotel Eleon, where the cooks have no choice except to arrive at dawn for the breakfast rush. Until next time!'
 CLOSING = ('denis', 'До встречи!')
 STORY = [
     ('denis', 'Перед вами наш новый отель.', 'Before you is our new hotel.', [(1, 'Перед вами')], 'adapted'),

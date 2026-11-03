@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Max has just tasted the Chef's own pâté, and he is wowed. He asks what is in it, Barinov refuses to say, and Max, never short of nerve, offers a bet. Listen for the moment the chef starts naming a prize."
 OPENER = 'Now the bet, line by line.'
 TRANSITION = 'And the whole wager once more, at full speed.'
-OUTRO = "The wager is two days off against one evening at the stove, and Max has accepted already. Next time you hear a Russian say 'vot', which means 'here you are', you'll notice how often it turns up. See you next time!"
+OUTRO = "The wager is two days off against one evening at the stove, and Max has accepted already. Listen for that tiny pointing word meaning 'here you are' — once you hear it, you'll notice it everywhere in Russian. See you next time!"
 CLOSING = ('barinov', 'Удачи!')
 STORY = [
     ('max', 'Шеф, это просто потрясающий паштет!', 'Chef, this is simply amazing pâté!', [(37, 'Обалденный паштет, шеф.')], ''),

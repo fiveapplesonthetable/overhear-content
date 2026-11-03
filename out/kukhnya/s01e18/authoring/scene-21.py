@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'Max and Kostya have both lost their jobs and are sitting outside, thinking about what comes next. It is the end of the episode, and the mood is gloomy but not hopeless. Listen for the one bit of advice they agree on.'
 OPENER = 'Now the gloomy pep talk, slowly.'
 TRANSITION = 'One last time, the whole talk outside.'
-OUTRO = 'The two friends decide to carry on, and that\'s where the episode leaves them. Take "smotret pod nogi", \'look under your feet\': watch your step. See you next time!'
+OUTRO = "Jobless outside the restaurant, Max and Kostya resolve to keep going — and to 'look under their feet', the Russian way of saying 'watch your step'. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('max', 'Нас уволили из ресторана.', 'We got fired from the restaurant.', [], ''),

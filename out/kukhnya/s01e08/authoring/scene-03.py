@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Still live in the television studio, Barinov keeps going at Elena Sokolova, the chef from Arcobaleno. He says he would never take a woman into his kitchen, and Elena has an answer to every point. It's in Russian first."
 OPENER = 'Slowly now. Each of his claims gets a reply from her.'
 TRANSITION = 'And here it is again, claim and reply, without the pauses.'
-OUTRO = "Elena's sort of line is dokazhite na dele, 'prove it in practice', and Barinov ends up using it on her. You've also heard tyazholyy three times: it means 'heavy', and it's the everyday word for hard work, heavy bags and a hard day. See you next time."
+OUTRO = "Elena's sort of challenge is 'prove it in practice', and Barinov ends up turning it back on her. Notice how Russian uses the single everyday word for 'heavy' to describe hard work, heavy bags, and a tough day alike. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Я никогда не возьму женщину на кухню.', 'I will never take a woman into the kitchen.', [(29, 'Я бы себе на кухню поварику бы не взял')], ''),

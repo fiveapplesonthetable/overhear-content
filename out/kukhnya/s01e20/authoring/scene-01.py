@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov rules the kitchen. This episode opens on a quiet morning at Vika's flat. Vika is on the phone about her birthday, which is coming up, and Max is looking for his old watch. Listen to the Russian first, without worrying about every word."
 OPENER = 'Now line by line.'
 TRANSITION = "Here's the scene once more."
-OUTRO = "Max has his watch back, and Vika's birthday is a week away. Keep the watch line in mind: in Russian a watch that works 'walks', chasy khodyat. See you next time!"
+OUTRO = "Max has his old watch back, and Vika's birthday is just a week away. Notice the charming Russian idiom: a watch that keeps time doesn't 'run', it 'walks'. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Я не буду отмечать день рождения.', 'I will not celebrate my birthday.', [(32, 'не буду я отмечать')], ''),

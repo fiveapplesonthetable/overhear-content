@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'Major Lanovsky is heading for the kitchen, and the staff are on edge, because one of the cooks without papers, Fedya, is hiding in the walk-in fridge. Barinov and Senya whisper by the stove. Then the major asks for the fridge to be opened, very politely.'
 OPENER = "Now the whispering, and the major's request, line by line."
 TRANSITION = 'And the moment before the fridge opens, once more.'
-OUTRO = "The fridge is about to be opened, and Barinov is nowhere near ready. Remember the major's 'bud'te lyubezny', literally 'be kind', which you can put in front of any polite request. See you next time!"
+OUTRO = "The walk-in fridge is about to be opened, and Barinov is nowhere near ready. Notice the major's icy 'be so kind', a formal phrase Russians place in front of polite requests. See you next time!"
 CLOSING = ('senya', 'Удачи, шеф!')
 STORY = [
     ('barinov', 'Инспектор здесь.', 'The inspector is here.', [], ''),

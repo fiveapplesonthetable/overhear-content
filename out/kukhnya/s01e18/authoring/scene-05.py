@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'At the Claude Monet bar, Kostya serves a drink with a smile, and Max leans on the counter to talk shop. The question is how honest a bartender has to be. Listen to the Russian once and catch who is tempting whom.'
 OPENER = "Here's the first line again, and we'll go from there."
 TRANSITION = 'Now let the two of them talk without interruption.'
-OUTRO = 'Kostya stays honest and sticks to pouring juice. Keep "zato" in mind: it means \'but at least\', and it turns a loss into something good. See you next time!'
+OUTRO = "Kostya stays honest behind the bar and sticks to pouring juice. Listen for that upbeat Russian connector meaning 'on the bright side' or 'at least', turning a drawback into a plus. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Пожалуйста, вот ваш вкусный напиток.', 'Here you go, here is your delicious drink.', [(133, 'Пожалуйста.')], ''),

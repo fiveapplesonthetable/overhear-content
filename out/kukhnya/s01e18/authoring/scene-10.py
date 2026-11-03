@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "In the changing room, Senya is looking green. He ate some fish he had stashed away in the kitchen, and Fedya has come to check on him. Listen for how Fedya's cure gets stronger with every line."
 OPENER = 'Back to the first worried question.'
 TRANSITION = 'Now the whole sickbed chat, start to end.'
-OUTRO = 'Senya\'s resolve to stop stealing food lasts exactly as long as his stomach ache. Keep "slyshish?", you hear?, apart from "slushat", to listen on purpose. See you next time!'
+OUTRO = "Senya's vow to stop sneaking kitchen food lasts only as long as his stomach ache. Notice how Russian distinguishes 'do you hear?' from actively 'listening' on purpose. See you next time!"
 CLOSING = ('fedya', 'Удачи!')
 STORY = [
     ('fedya', 'Сеня, у тебя всё хорошо?', 'Senya, are you all right?', [(229, 'У тебя все хорошо')], ''),

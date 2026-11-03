@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = 'Proud of telling the truth, Denis informs Kostya that he just confessed everything to Katya—only to learn that Nastya still refuses to speak to Kostya and made him sleep on the floor. Listen to their exchange.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that reverses Kostya's advice completely—too late for Denis! Notice the locative ending '-u' in 'na polu' meaning 'on the floor'. Until next time!"
+OUTRO = "And that reverses Kostya's confident advice completely — a minute too late for Denis, after Nastya made Kostya sleep on the floor! Until next time!"
 CLOSING = ('denis', 'Пока!')
 STORY = [
     ('denis', 'Привет, Костя!', 'Hi, Kostya!', [(149, 'Здорово')], 'adapted'),

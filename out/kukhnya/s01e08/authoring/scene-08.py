@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Meanwhile, at Claude Monet, Max the cook is in on his day off, and Vika the hostess is minding Tyson, the owner Nagiyev's dog. A hot dog and a broken socket are about to ruin everyone's afternoon. It's in Russian first."
 OPENER = "Let's go back through the accident. It all happens fast, so the sentences are short."
 TRANSITION = 'Now the whole disaster again, in one go.'
-OUTRO = "Short emergency words come in handy: ostorozhno, 'careful', spokoyno, 'calm down', and bystreye, 'quick'. And note that sobaka, 'dog', is feminine even for a male dog, while pyos is the masculine word. See you next time."
+OUTRO = "Short emergency words come in handy: 'careful', 'calm down', and 'quick'. Notice too that the general Russian word for 'dog' is grammatically feminine even for a male dog, alongside a separate masculine word for a male hound. See you next time."
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('vika', 'Макс, почему ты ходишь без формы?', 'Max, why are you walking without a uniform?', [(98, 'Что за внешний вид? Где форма')], ''),

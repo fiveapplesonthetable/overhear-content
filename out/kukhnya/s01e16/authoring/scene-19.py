@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'The inspector has seen through Fedya, and now he asks for the one paper a guest would never need: a work permit. Fedya has no good answer, and every reply makes things worse.'
 OPENER = "Let's go through it line by line."
 TRANSITION = 'Now the whole conversation once more, from start to finish.'
-OUTRO = "The inspector politely marches Fedya off to see the chef. 'Proydyomte' is the formal 'come with me', the word officials use when you have no choice. See you next time!"
+OUTRO = "The inspector politely marches Fedya off to see the chef. Listen for his formal 'let us step this way', the polite official phrasing used when you don't really have a choice. See you next time!"
 CLOSING = ('fedya', 'Всем пока!')
 STORY = [
     ('inspector', 'Где ваше разрешение на работу?', 'Where is your work permit?', [], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Still running Barinov's kitchen at Claude Monet, Elena goes over to Louis, the French pastry chef, who does not want her anywhere near his desserts. She finds a way to win him over. It's in Russian first."
 OPENER = 'Slowly now. Louis starts out rude, and Elena wins him over with talk of home.'
 TRANSITION = 'Now hear it all again, from the cold start to the warm finish.'
-OUTRO = "Elena's method is simple: notice an accent, guess where it's from, and talk about home. She starts with u vas takoy znakomyy aktsent, 'you have such a familiar accent'. See you next time."
+OUTRO = "Elena's method with Louis is simple: notice an accent, guess where it comes from, and talk warmly about home, starting with 'you have such a familiar accent'. See you next time."
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('elena', 'Луи, чем вы сейчас занимаетесь на десертах?', 'Louis, what are you doing on the desserts right now?', [], ''),

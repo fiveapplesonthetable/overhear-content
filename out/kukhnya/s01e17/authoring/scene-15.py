@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'Two scenes are cut together here. Barinov is sitting in the rival restaurant, reading the menu and finding it ridiculous. Back at Claude Monet, Vika asks Max about the kitchen and spots the ticket his friends gave him. Both scenes play in Russian first.'
 OPENER = "Let's take both conversations slowly."
 TRANSITION = 'Now both conversations again, from start to finish.'
-OUTRO = 'Barinov sneers at the menu, and Vika finds a ticket with only one seat. Next time you open a menu, try "nu i chto tut u nas?", so, what have we got? See you next time!'
+OUTRO = "Barinov sneers at Elena's menu next door, while back at Claude Monet Vika spots the single concert ticket. Listen for Barinov's lively opener, 'so, what have we got here?'. See you next time!"
 CLOSING = ('vika', 'Ну, до вечера. Пока!')
 STORY = [
     ('barinov', 'Меню уже у нас, большое спасибо.', 'We already have the menu, thank you very much.', [(241, 'Меню есть, спасибо')], ''),

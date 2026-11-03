@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 INTRO = 'In the final scene of the episode, guests flee the lobby in panic while Mikhail apologizes to the Prefect, and Katya tells Denis that love requires trust and they should take a break. Listen to the closing exchange.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings the Season 5 premiere to a close. Notice Katya's key takeaway that love means trust, expressed with the neuter word 'doveriye'. See you in the next episode. See you next time!"
+OUTRO = "And that brings the Season 5 premiere to a close on Katya's quiet reminder that real love begins with trust. See you next time!"
 CLOSING = ('katya', 'Пока!')
 STORY = [
     ('mikhail', 'Я сам ничего не понял.', 'I did not understand anything myself.', [(300, 'Я не понял')], 'adapted'),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Chef Barinov has his Shih Tzu, Tyson, back. Then Vika, the art director, turns up with a second Shih Tzu that looks exactly like him, and Barinov wants an explanation. Here it is in Russian first."
 OPENER = "Let's go through the interrogation. Every answer Vika gives makes things worse."
 TRANSITION = "Now the whole exchange once more."
-OUTRO = "Vika's best moment is \"poroda sushi\", breed sushi, before she corrects it to Shih Tzu. That kind of slip happens to everyone in a new language. See you next time."
+OUTRO = "Vika's best slip is calling the dog's breed 'sushi' before quickly correcting herself to Shih Tzu — the sort of mix-up anyone can make under pressure. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('barinov', 'Вика, посмотри на меня. Это что такое?', 'Vika, look at me. What is this?', [(296, 'Вика, это чё?')], ''),

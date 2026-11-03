@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Welcome to Kukhnya, the Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov rules the kitchen and the owner, Dmitry Nagiyev, tries to rule everyone else. In this episode money is tight. Nagiyev's wife Kristina, who once worked here as a waitress, drops in, and an old colleague greets her a little too politely. Listen to the Russian first; the gist is enough."
 OPENER = "Here it is again, a line at a time."
 TRANSITION = "And now straight through, the way you'd overhear it."
-OUTRO = "Kristina is bored already, and Nagiyev is off to spend money he says the restaurant doesn't have. If one thing sticks, make it 'magazin': a shop, never a magazine. See you next time!"
+OUTRO = "Kristina is bored already, and Nagiyev heads off to spend money he claims the restaurant doesn't have. Watch out for the Russian false friend that sounds like 'magazine' when it actually means 'shop'. See you next time!"
 CLOSING = ('kristina', 'Пока!')
 STORY = [
     ('sasha', 'Ой, Кристина, здравствуйте!', 'Oh, Kristina, hello!', [(5, 'Ой, Кристина, здравствуйте.')], ''),
