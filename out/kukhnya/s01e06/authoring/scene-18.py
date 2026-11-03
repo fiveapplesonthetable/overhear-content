@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the kitchen at Claude Monet, Barinov has just heard that the inspector turned down the free wine. He isn't giving up. If the man won't drink it, he'll eat it, and he tells Louis, the pastry chef, to put alcohol in everything. It's in Russian first."
 OPENER = "Let's go back through the scheme. Barinov is very pleased with himself, and Louis is horrified."
 TRANSITION = 'Now the whole scheme again, at full speed.'
-OUTRO = 'Keep "napoit" and "nakormit" together: to get someone drunk and to feed someone up. Both have na- on the front, and Barinov makes a slogan of them. See you next time.'
+OUTRO = 'When free wine fails to tempt the inspector, Barinov doubles down and orders Louis to sneak alcohol into every course instead. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Этот инспектор отказался пить наше вино!', 'This inspector refused to drink our wine!', [], ''),

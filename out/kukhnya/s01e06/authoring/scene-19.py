@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the kitchen at Claude Monet, Barinov needs a truffle for table seven, and Max knows exactly where the truffles are not: they went out with the rubbish. He grabs Nastya, the waitress, and begs her to talk the guest out of it. It's in Russian first."
 OPENER = "Let's replay it. Barinov shouts, Max panics, and Nastya keeps her head."
 TRANSITION = 'And now the panic over the truffle, straight through.'
-OUTRO = 'Max gave you "mne nuzhna pomoshch", I need help, and "skazhi gostyu", tell the guest, and Nastya gave you "ne mogu", I can\'t. Useful when you\'re covering up a mistake. See you next time.'
+OUTRO = 'With table seven ordering truffles that are still missing in action, Max desperately begs a reluctant Nastya to talk the guest into ordering something else. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, тащи сюда скорее один трюфель!', 'Rump, bring one truffle here quickly!', [(238, 'Агузок, тащи сюда один трюфель')], ''),

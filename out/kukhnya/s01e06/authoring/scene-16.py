@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the changing room at Claude Monet, Rodion is now dressed as the famous writer, dark glasses and all, and he is losing his nerve. Max tries to talk him up before he walks into the dining room, where Sasha will be serving him. It's in Russian first."
 OPENER = 'Slowly now. Rodion is afraid, and Max has an answer for everything, mostly about the glasses.'
 TRANSITION = 'Now the pep talk in one go.'
-OUTRO = 'Max hands out short friendly orders: "perestan boyatsya", "govori zagadochno", "naden ochki". That\'s how a friend pushes you through a door. See you next time.'
+OUTRO = "Armed with dark glasses and Max's pep talk to act mysterious and stop panicking, Rodion steels his nerves to step out into the dining room as a literary celebrity. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('rodion', 'Мне правда неловко выдавать себя за писателя.', 'I really feel awkward impersonating a writer.', [(209, 'Мне правда неловко выдавать себя за такого человека')], ''),

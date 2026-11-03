@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Back at Claude Monet, Max has a plan to get Rodion a table: book it in the name of Viktor Pelevin, a famous writer whom nobody ever sees. Kostya thinks it's madness. It's in Russian first."
 OPENER = "Let's go through the phone call and the argument after it. Max is sure of himself, and Kostya isn't."
 TRANSITION = "Here's the booking and the argument in one go."
-OUTRO = 'You can now book a table in Russian: "zabronirovat stolik", for whom, and the name. And if you need to worry out loud, a "esli" and "vdrug" both mean \'what if\'. See you next time.'
+OUTRO = 'Booking a table under the name of the famously reclusive writer Viktor Pelevin is a reckless gamble, and Kostya can already picture everything that might go wrong. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Алло, ресторан, я хочу забронировать столик.', 'Hello, restaurant, I want to reserve a table.', [(201, 'Ресторан Клод Мане, я слушаю вас')], ''),

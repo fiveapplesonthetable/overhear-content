@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Still cleaning for the inspection, Max and Kostya reach the back of the storeroom at Claude Monet and find an old plastic bag full of something black and knobbly. They agree it's rotten potatoes. It's in Russian first, and there's a joke in it that the chef would not enjoy."
 OPENER = "Let's go slowly. Max and Kostya sound like friends who have been cleaning for hours, which they have."
 TRANSITION = 'Now the storeroom scene in one go.'
-OUTRO = 'Remember "gnilaya", rotten, and "musornyy bak", rubbish bin, because the chef will want them later. See you next time.'
+OUTRO = 'Mistaking a bag of priceless truffles at the back of the storeroom for rotten potatoes and tossing them into the rubbish bin is a blunder Chef Barinov will not forgive lightly. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Макс, посмотри, что это такое лежит?', 'Max, look, what is that lying there?', [(79, 'Что это такое')], ''),

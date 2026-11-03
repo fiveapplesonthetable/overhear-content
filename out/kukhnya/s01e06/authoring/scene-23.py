@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "At Claude Monet the inspection is behind them, and the bill for Rodion's dinner has landed on Max: a month of work for free. He takes it oddly calmly and ends the episode with a speech about life. It's in Russian first."
 OPENER = "Let's go through the end of the day. Barinov has the practical lines, and Max has the philosophy."
 TRANSITION = "And now Max's speech, all the way through."
-OUTRO = 'Max\'s speech is all short Russian sentences about big ideas: "zhizn", life, "trudnosti", difficulties, "sudba", fate. They\'re a good way to practise long thoughts without long words. See you next time.'
+OUTRO = "Working a whole month without pay to cover Rodion's feast would crush most trainees, yet Max takes the blow in stride with a calm reflection on life, hardship, and fate. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, ты оплатишь этот дорогой счёт!', 'Rump, you will pay this expensive bill!', [], ''),

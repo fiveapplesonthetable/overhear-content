@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "The sanitary inspector has finished with the dining room at Claude Monet, and Vika, the manager, walks him through to the kitchen. She is polite and confident. He is polite and very, very thorough. It's in Russian first, with a lot of formal language."
 OPENER = 'Let\'s go back through it. Both of them use the polite "vy", and both talk like an official letter.'
 TRANSITION = 'And now the tour from the start, without stopping.'
-OUTRO = 'This was Russian at its most formal: "prokhodite", "proshu vas", "dobro pozhalovat". It\'s the opposite of the shouting in the kitchen, and it\'s what you\'ll hear at any office or front desk. See you next time.'
+OUTRO = "After all the shouting at the pass, Vika's poised, formal welcome at the kitchen doors sets up a tense clash with a very thorough inspector. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Проходите, пожалуйста, вот и наша кухня.', 'Come in, please, here is our kitchen.', [(157, 'А вот и наша кухня'), (158, 'Прошу вас')], ''),

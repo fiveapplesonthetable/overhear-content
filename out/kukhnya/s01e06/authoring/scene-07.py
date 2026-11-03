@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "The whole kitchen at Claude Monet is cleaning for the inspection, and Louis, the French pastry chef, is not exactly working. He is fencing with Max, using a sausage for a sword. It's in Russian first, and Louis's drama will help you follow it."
 OPENER = 'Now slowly. Louis is dramatic, Max is practical, and the sentences are short.'
 TRANSITION = 'One last listen, from the first line.'
-OUTRO = 'The scene gives you "pyl", dust, "tryapka", rag, and "voda", water, which is enough to start a spring-clean. It also gives you "nam dostanetsya", we\'ll catch it, which you can use all year. See you next time.'
+OUTRO = "Fencing with a sausage when the whole kitchen is supposed to be scrubbing down for an inspection is pure Louis, even when Max knows they'll both catch it later. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('louis', 'Осторожно, ты пронзил меня своей колбасой!', 'Careful, you impaled me with your sausage!', [(75, 'Ты пронзил меня своей колбасой')], ''),
