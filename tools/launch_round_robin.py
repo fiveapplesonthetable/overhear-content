@@ -69,10 +69,19 @@ def discover_validated_episodes() -> list[dict]:
         sdir = ROOT / "out" / sh
         if not sdir.is_dir():
             continue
-        eps = sorted(p.name for p in sdir.glob("s[0-9][0-9]e[0-9][0-9]") if p.is_dir() and any(p.glob("scene-*.json")))
+        raw_eps = sorted(p.name for p in sdir.glob("s[0-9][0-9]e[0-9][0-9]") if p.is_dir() and any(p.glob("scene-*.json")))
         # Keep alrawabi-school to s01e01 only (sources e02..e04 are wrong-show subtitles)
         if sh == "alrawabi-school":
-            eps = [e for e in eps if e == "s01e01"]
+            raw_eps = [e for e in raw_eps if e == "s01e01"]
+        # Only queue episodes that pass validate.py --require-notes cleanly
+        import subprocess
+        eps = [
+            e for e in raw_eps
+            if subprocess.run(
+                [sys.executable, "-I", str(ROOT / "tools" / "validate.py"), "--require-notes", str(sdir / e)],
+                stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+            ).returncode == 0
+        ]
         by_show[sh] = eps
 
     out = []
