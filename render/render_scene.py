@@ -85,7 +85,8 @@ def _build_carrier_spec(segments, a, b):
                     start_ci = m.end()
             if buf and buf[-1] not in (" ", "\n") and start_ci < len(orig) and not orig[start_ci].isspace():
                 buf.append(" ")
-            for ci in range(start_ci, len(orig)):
+            end_ci = len(orig.rstrip(" ")) if (k < b and segments[k + 1]["v"] != "narrator") else len(orig)
+            for ci in range(start_ci, end_ci):
                 ch = orig[ci]
                 if ci == start_ci and ch.isspace() and buf and buf[-1] == " ":
                     continue
@@ -102,12 +103,18 @@ def _build_carrier_spec(segments, a, b):
                 elif tail_ch == ",":
                     gaps_override[k] = 0.11
                 else:
-                    gaps_override[k] = 0.06
+                    gaps_override[k] = 0.05
             else:
                 gaps_override[k] = orig_gap
         else:
-            # Target-language callout slot -> insert crisp 1-word placeholder 'phrase' (+ punctuation if needed)
-            if buf and buf[-1] not in (" ", "\n", '"', "'", "("):
+            # Target-language callout slot -> insert comma-isolated nasal placeholder ', name,' so narrator
+            # finishes every preceding English vowel cleanly into a prosodic micro-pause with zero coarticulation
+            core_tail = "".join(buf).rstrip(" '\"\t\n)")[-1:]
+            if core_tail and core_tail.isalnum():
+                while buf and buf[-1] == " ":
+                    buf.pop()
+                buf.extend([",", " "])
+            elif buf and buf[-1] not in (" ", "\n", '"', "'", "("):
                 buf.append(" ")
             punct = ""
             comma_pause = False
@@ -123,21 +130,22 @@ def _build_carrier_spec(segments, a, b):
                         punct = m.group(1)[0]
                         consumed_leading.add(k + 1)
                         comma_pause = True
+                    elif re.match(r'^\s*[A-Za-z0-9"\']', nxt_t):
+                        punct = ","
             if not punct and t_strip[-1:] in ",;:":
                 punct = ","
                 comma_pause = True
             if k == b and not punct:
                 punct = "."
-            # Use pure nasal-bounded 'name' (/n eɪ m/) instead of sibilant-bounded 'phrase' (/f r eɪ z/) so zero /f/ or /z/ hiss ever bleeds
             for ch in ("name" + punct):
                 buf.append(ch)
             if k < b:
                 if k + 1 <= b and segments[k + 1]["v"] == "narrator" and not seg_tokens(segments[k + 1]["t"]):
                     gaps_override[k] = 0.01
                 elif comma_pause:
-                    gaps_override[k] = 0.13
+                    gaps_override[k] = 0.12
                 else:
-                    gaps_override[k] = 0.07
+                    gaps_override[k] = 0.06
             else:
                 gaps_override[k] = orig_gap
 
@@ -338,24 +346,34 @@ class Renderer:
                     raw_e = max(c_ct[mi][1] for mi in valid_mi)
                     prev_hits = [c_ct[p][1] for p in range(0, min_mi) if p < len(c_ct) and c_ct[p] is not None]
                     next_hits = [c_ct[p][0] for p in range(max_mi + 1, len(c_ct)) if c_ct[p] is not None]
-                    prev_bound = max(prev_hits) + 0.038 if prev_hits else 0.0
-                    next_bound = min(next_hits) - 0.042 if next_hits else dur_c
 
                     if k_seg == ch_obj.a:
                         s_sec = 0.0
                     else:
-                        lo_s = max(0.0, min(raw_s, max(prev_bound, raw_s - 0.018)))
+                        prev_e = max(prev_hits) if prev_hits else 0.0
+                        lo_s = max(0.0, min(raw_s, max(prev_e + 0.014, raw_s - 0.024)))
                         f0 = max(0, int(lo_s / c_hop))
                         f1 = min(len(c_env), max(f0 + 1, int(raw_s / c_hop) + 1))
                         s_sec = (f0 + int(np.argmin(c_env[f0:f1]))) * c_hop if f1 > f0 else lo_s
 
                     if k_seg == ch_obj.b:
                         e_sec = dur_c
-                    else:
-                        hi_e = min(dur_c, max(raw_e, min(next_bound, raw_e + 0.025)))
-                        f0 = max(0, int(raw_e / c_hop))
+                    elif next_hits:
+                        next_s = min(next_hits)
+                        if next_s - raw_e <= 0.18:
+                            # Continuous speech into 'name': MMS_FA next_s ('n' CTC spike) fires ~40 ms after oral->nasal
+                            # closure; cutting in [next_s - 46ms, next_s - 38ms] keeps the full English vowel with zero '/n/' murmur.
+                            lo_e = min(max(raw_e + 0.012, next_s - 0.046), max(raw_e, next_s - 0.036))
+                            hi_e = max(lo_e, next_s - 0.038)
+                        else:
+                            # Prosodic comma/sentence pause before 'name': let final phoneme/plosive finish (~95..220 ms) and cut in silence.
+                            lo_e = min(next_s - 0.030, raw_e + 0.095)
+                            hi_e = max(lo_e, min(next_s - 0.030, raw_e + 0.220))
+                        f0 = max(0, int(lo_e / c_hop))
                         f1 = min(len(c_env), max(f0 + 1, int(hi_e / c_hop) + 1))
                         e_sec = (f0 + int(np.argmin(c_env[f0:f1]))) * c_hop if f1 > f0 else hi_e
+                    else:
+                        e_sec = dur_c
 
                     if e_sec < s_sec + 0.045:
                         e_sec = min(dur_c, s_sec + 0.045)
@@ -378,7 +396,7 @@ class Renderer:
                         else:
                             break
                     s_sec = i0 / sr
-                part_clip = audio.fade(c_clip[i0:i1], sr, 12)
+                part_clip = audio.fade(c_clip[i0:i1], sr, 7)
                 part_dur = len(part_clip) / sr
                 j0, j1 = max(0, int(round(s_sec * 16000))), min(len(c_x16), int(round(e_sec * 16000)))
                 part_x16 = c_x16[j0:j1] if j1 > j0 else np.zeros(int(0.045 * 16000), dtype=np.float32)

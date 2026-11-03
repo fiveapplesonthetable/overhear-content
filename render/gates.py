@@ -302,10 +302,25 @@ class AudioGates:
                     break
             hyp_norm = re.sub(r"[\W_]+", " ", hyp_text.lower()).strip()
             cer_val = float(jiwer.cer(ref_norm, hyp_norm)) if ref_norm else 0.0
-            cer_ok = cer_val <= 0.18
+            edge_ok = True
+            if lang == "en":
+                ref_w = re.findall(r"\w+", ref_norm)
+                hyp_w = re.findall(r"\w+", hyp_norm)
+                if len(ref_w) >= 2:
+                    if not hyp_w:
+                        edge_ok = False
+                    else:
+                        for rw, hw in ((ref_w[0], hyp_w[0]), (ref_w[-1], hyp_w[-1])):
+                            if any(ch.isdigit() for ch in rw):
+                                continue
+                            max_ed = 0.0 if len(rw) <= 3 else 0.26
+                            if float(jiwer.cer(rw, hw)) > max_ed:
+                                edge_ok = False
+                                break
+            cer_ok = (cer_val <= (0.10 if lang == "en" else 0.18)) and edge_ok
 
             all_ok = sim_ok and len_ok and tran_ok and rep_ok and cer_ok
-            cer_bucket = 0.0 if cer_val <= 0.02 else round(cer_val, 2)
+            cer_bucket = 0.0 if (cer_val <= 0.004 and edge_ok) else round(cer_val, 3)
             cands.append({
                 "wav": w_trim,
                 "all_ok": all_ok,
