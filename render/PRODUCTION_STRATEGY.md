@@ -6,12 +6,13 @@ This document records the complete, reproducible content, voice-design, TTS, aco
 
 ## 1. Simplified Scene Architecture (Zero AI-Slop Narration)
 
-Every scene follows a clean 5-part structure (`tools/simplify_walk.py`, validated by `tools/validate.py`):
+Every scene follows a clean 6-part structure (`tools/simplify_walk.py`, validated by `tools/validate.py`):
 1. **English Scene Introduction (`SCENE_INTRO`, `seg 0`):** Brief English setup spoken by British female narrator **`sky`** (`render/refs/sky.flac` — mandatory narrator across all 10 languages).
 2. **Cold Open (`STORY`):** Full target-language dialogue played naturally at conversational pacing (`gap = 0.55s`).
-3. **Line-by-Line Opener (`OPENER`):** Short English transition (`"Now let's go back through the exchange one line at a time."`).
-4. **Pure Translation Line-by-Line (`WALK`):** Each turn plays `[Target-language line (gap=0.55s)]` -> `[English translation ONLY (gap=0.45s)]`, with zero filler grammar/vocabulary AI-slop commentary and zero fragmented inline callouts.
-5. **Natural-Speed Replay & Send-Off (`TRANSITION` + `STORY` + `OUTRO` + `CLOSING`):** Full scene replay at natural cadence (`gap = 0.50s`), brief English sign-off, and a short target-language farewell.
+3. **Line-by-Line Opener (`WALK_INTRO`):** Canonical golden `sky` transition (`"Now let's go through it line by line with the English translation."`, `WavLM = 0.9564`).
+4. **Pure Translation Line-by-Line (`WALK`):** Each turn plays `[Target-language line (gap=0.55s)]` -> `[English translation ONLY (gap=0.45s)]`, with zero filler grammar/vocabulary AI-slop commentary and zero fragmented/orphaned inline callouts.
+5. **Pre-Replay Transition (`REPLAY_INTRO`):** Canonical golden `sky` transition (`"Now let's listen to the whole conversation one last time."`, `WavLM = 0.9676`, `gap = 0.75s`) right before switching back into the final full reading.
+6. **Natural-Speed Replay & Send-Off (`REPLAY` + `OUTRO` + `CLOSING`):** Full scene replay at natural cadence (`gap = 0.50s`), brief English sign-off, and a short target-language farewell.
 
 To convert any newly authored episode to this clean format while automatically remapping `scene-*.notes.json` and `learn/**/*.json` segment indices:
 ```bash
