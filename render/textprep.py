@@ -244,6 +244,8 @@ def sanitize_english_narrator_tts(text: str) -> str:
     # Strip single quotation marks around quoted translations while preserving contractions & possessives (don't, Carlos's, parents')
     t = re.sub(r"(^|[\s(\[])'|(?<![sS])'(?=[\s.,;:!?)\]]|$)|(?<=[.!?…])'", r"\1", t)
     t = t.replace("!", ".")
+    # Soften 1-2 word opening questions ("What? The doctors...") so narrator stays calm instead of gasping
+    t = re.sub(r"^([A-Z][a-z]+(?:\s+[a-z]+)?)\?\s+(?=[A-Z])", lambda m: f"{m.group(1)}, ", t)
     for us, uk in _US_TO_UK_WORDS:
         t = re.sub(rf"\b{us}\b", lambda m, u=uk: u.capitalize() if m.group(0)[0].isupper() else u, t, flags=re.I)
     return re.sub(r"\s+", " ", t).strip()
