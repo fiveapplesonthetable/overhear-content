@@ -284,7 +284,7 @@ class AudioGates:
         dist = (18.0 - f0_std) if f0_std < 18.0 else (f0_std - 45.0)
         return f0_std, round(min(1.0, dist / 45.0), 4)
 
-    def score_candidates(self, wavs, sr, ref_path, text_plain, lang, cpu_pool=None, beam_size=3):
+    def score_candidates(self, wavs, sr, ref_path, text_plain, lang, cpu_pool=None, beam_size=3, need_fallback=True):
         """Score N candidate takes through all 5 §6 gates + F0 prosody tie-breaker.
         Returns (best_wav, all_ok, counts_dict, best_meta)."""
         t_strip = text_plain.strip()
@@ -336,29 +336,7 @@ class AudioGates:
                 ref_wav = ref_wav.mean(axis=1)
             self.ref_embeddings[ref_path] = self.get_embedding(ref_wav, ref_sr)
 
-        cands = []
-        for idx, (len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen, pitch_ok) in enumerate(prepped):
-            emb = self.get_embedding(w_16k, 16000)
-            sim_val = float(torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item())
-            if lang == "en":
-                # Full 0.9s-stride sliding-window WavLM check (1.8s window) in ONE batched GPU forward pass
-                win_len = 28800
-                win_hop = 14400
-                if len(w_16k) >= win_len:
-                    starts = list(range(0, len(w_16k) - win_len + 1, win_hop))
-                    if starts[-1] != len(w_16k) - win_len:
-                        starts.append(len(w_16k) - win_len)
-                    win_batch = [
-                        w_16k[ws:ws + win_len] for ws in starts
-                        if float(np.sqrt(np.mean(w_16k[ws:ws + win_len] ** 2))) >= 0.008
-                    ]
-                    if win_batch:
-                        w_embs = self.get_embeddings_batch(win_batch)
-                        cos_all = torch.matmul(w_embs, self.ref_embeddings[ref_path])
-                        sim_val = min(sim_val, float(cos_all.min().item()))
-            sim_thresh = 0.85 if lang == "en" else 0.67
-            sim_ok = (sim_val >= sim_thresh) and pitch_ok
-
+        def _run_asr(w_16k, sim_val):
             segs_list = list(self.whisper.transcribe(
                 w_16k, language=lang, beam_size=1,
                 word_timestamps=(lang in ("en", "pt", "es", "fr", "it", "de", "ru")),
@@ -397,7 +375,6 @@ class AudioGates:
                             if float(jiwer.cer(rw, hw)) > max_ed:
                                 edge_ok = False
                                 break
-                            # Reject truncated leading consonant on first word or truncated final letter on last word
                             if not is_last and len(rw) >= 3 and hw == rw[1:]:
                                 edge_ok = False
                                 break
@@ -409,8 +386,6 @@ class AudioGates:
                             lw_prob = float(getattr(w_objs[-1], "probability", 1.0))
                             if lw_dur < 0.09 or (lw_prob < 0.18 and not (lang == "en" and ref_w[-1] in en_proper_set and sim_val >= 0.88)):
                                 edge_ok = False
-                # If English CER > 0.10 solely because Whisper spelled foreign proper nouns phonetically
-                # while every non-proper word matched cleanly and WavLM >= 0.88, compute non-proper CER:
                 if lang == "en" and cer_val > 0.10 and en_proper_set and sim_val >= 0.88 and ref_w and hyp_w:
                     wo = jiwer.process_words(" ".join(ref_w), " ".join(hyp_w))
                     clean_ref, clean_hyp = [], []
@@ -431,11 +406,44 @@ class AudioGates:
                     if proper_all_spoken and clean_ref:
                         cer_val = float(jiwer.cer(" ".join(clean_ref), " ".join(clean_hyp)))
             cer_ok = (cer_val <= (0.10 if lang == "en" else 0.18)) and edge_ok
+            return rep_ok, cer_ok, cer_val, edge_ok
+
+        cands = []
+        for idx, (len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen, pitch_ok) in enumerate(prepped):
+            emb = self.get_embedding(w_16k, 16000)
+            sim_val = float(torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item())
+            if lang == "en":
+                win_len = 28800
+                win_hop = 14400
+                if len(w_16k) >= win_len:
+                    starts = list(range(0, len(w_16k) - win_len + 1, win_hop))
+                    if starts[-1] != len(w_16k) - win_len:
+                        starts.append(len(w_16k) - win_len)
+                    win_batch = [
+                        w_16k[ws:ws + win_len] for ws in starts
+                        if float(np.sqrt(np.mean(w_16k[ws:ws + win_len] ** 2))) >= 0.008
+                    ]
+                    if win_batch:
+                        w_embs = self.get_embeddings_batch(win_batch)
+                        cos_all = torch.matmul(w_embs, self.ref_embeddings[ref_path])
+                        sim_val = min(sim_val, float(cos_all.min().item()))
+            sim_thresh = 0.85 if lang == "en" else 0.67
+            sim_ok = (sim_val >= sim_thresh) and pitch_ok
+
+            # Skip heavy Whisper transcription on candidates that ALREADY failed acoustic/voice gates
+            if sim_ok and len_ok and tran_ok:
+                rep_ok, cer_ok, cer_val, edge_ok = _run_asr(w_16k, sim_val)
+                asr_done = True
+            else:
+                rep_ok, cer_ok, cer_val, edge_ok = True, True, 1.0, False
+                asr_done = False
 
             all_ok = sim_ok and len_ok and tran_ok and rep_ok and cer_ok
             cer_bucket = 0.0 if (cer_val <= 0.004 and edge_ok) else round(cer_val, 3)
             cands.append({
                 "wav": w_trim,
+                "w_16k": w_16k,
+                "asr_done": asr_done,
                 "all_ok": all_ok,
                 "cer": cer_val,
                 "cer_bucket": cer_bucket,
@@ -448,11 +456,21 @@ class AudioGates:
                     "pause": (not len_ok and len_reason == "pause"),
                     "transient": not tran_ok,
                     "repeat": not rep_ok,
-                    "cer": not cer_ok,
+                    "cer": (not cer_ok) if asr_done else False,
                 },
             })
+            # Early-exit if we already found an unmistakable golden studio take
+            if all_ok and cer_bucket == 0.0 and pros_pen == 0.0 and sim_val >= (0.94 if lang == "en" else 0.92):
+                break
 
         passing = [c for c in cands if c["all_ok"]]
+        if not passing and need_fallback:
+            for c in cands:
+                if not c["asr_done"]:
+                    rep_ok, cer_ok, cer_val, _ = _run_asr(c["w_16k"], c["sim"])
+                    c["cer"] = cer_val
+                    c["fails"]["repeat"] = not rep_ok
+                    c["fails"]["cer"] = not cer_ok
         if passing:
             best = min(passing, key=lambda x: (x["cer_bucket"], x["pros_pen"], -x["sim"], x["cer"]))
             ok = True

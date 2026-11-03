@@ -585,10 +585,12 @@ def run_gate_worker(worker_id: int):
                 _reenqueue_synth(meta, attempt=int(meta.get("attempt", 0)))
                 continue
 
+            att_cur = int(meta.get("attempt", 0))
+            max_r_cur = 5 if meta.get("lang") == "en" else 3
             try:
                 best_wav, ok, counts, info = g.score_candidates(
                     wavs, NATIVE_SR, meta["ref_path"], meta["text_plain"], meta["lang"],
-                    cpu_pool=cpu_pool, beam_size=3,
+                    cpu_pool=cpu_pool, beam_size=3, need_fallback=(att_cur >= max_r_cur),
                 )
             except Exception as ex:
                 err_s = str(ex)
