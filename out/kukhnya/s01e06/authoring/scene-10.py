@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the kitchen at Claude Monet the news has just arrived: the sanitary inspector is in the building. Barinov, the head chef, and his sous-chef Lyova have minutes to hide everything. It's in Russian first, and it's fast."
 OPENER = "Let's replay it slowly. Nearly every line is an order, so listen for the commands."
 TRANSITION = 'Now the panic at full speed.'
-OUTRO = 'You\'ve just met a handful of kitchen orders: "nesi", carry, "brosay", throw, "vytrite", wipe. They all work in your own kitchen too. See you next time.'
+OUTRO = 'With the sanitary inspector already inside the building, Barinov and Lyova turn an entire kitchen cleanup into a breathless, last-minute race against the clock. See you next time.'
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('barinov', 'Не спим, Лёва, у нас проверка!', 'Wake up, Lyova, we have an inspection!', [(156, 'Не спим, Лёва, у нас проверка')], ''),

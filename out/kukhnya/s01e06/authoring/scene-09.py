@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Out in the dining room of Claude Monet, a guest has found a hair in his dinner and has called over Nastya, the waitress. She is very calm. He is not. It's in Russian first, and you'll hear plenty of polite phrases."
 OPENER = "Let's go back through the complaint. The guest raises his voice, and Nastya keeps hers very flat, which is where the joke is."
 TRANSITION = "Here's the whole complaint again, from the top."
-OUTRO = 'Nastya\'s polite phrases are worth borrowing: "dobryy den", "slushayu vas", and "ya pozovu shef-povara". With those three you can handle most complaints. See you next time.'
+OUTRO = 'Nastya stays unshakably polite from her opening greeting to her promise to fetch the head chef, showing how a calm pro handles an angry diner. See you next time.'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('guest', 'Девушка, подойдите немедленно к нашему столу!', 'Miss, come over to our table immediately!', [(85, 'Бевушка')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the cooks' changing room at Claude Monet, Senya and Fedya, the two kitchen pranksters, have a new victim: Max, who has only just joined. They tell him a health inspection is coming and that cooks have to shave their arms. It's in Russian first, and you're about to hear a story that is complete nonsense."
 OPENER = 'Now through it slowly. Notice how serious the two of them sound.'
 TRANSITION = "Here's the whole prank again, without stopping."
-OUTRO = '"Brit", to shave, and "britva", razor, aren\'t words you\'ll need every day, but "da ladno", come on, and "gluposti", nonsense, are. See you next time.'
+OUTRO = "Max falls hook, line, and sinker for Senya and Fedya's absurd tale about shaving arms for the health inspector, learning the hard way never to trust kitchen pranksters. See you next time."
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Привет, парни! Как ваши дела?', 'Hello, guys! How are your things?', [(33, 'Салют'), (34, 'Как сам')], ''),

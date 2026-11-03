@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "It's prep time in the kitchen at Claude Monet, with knives going on every board. Barinov walks past, inspects the chopping, and then tells Max where good cooking really starts: at the market. It's in Russian first, and you can let the odd word go."
 OPENER = 'Slowly now. Barinov is giving orders, which means plenty of useful commands.'
 TRANSITION = 'Back to the scene as it happened.'
-OUTRO = 'You\'ve heard "snachala", first, "bystree", faster, and "bez oshibok", without mistakes, which is a fair description of a trainee\'s day. See you next time.'
+OUTRO = 'Chopping fast without mistakes is hard enough for a trainee, and Barinov reminds Max that great cooking begins long before the knives come out, right at the market. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Так, повара, нарежьте все овощи.', 'So, cooks, chop all the vegetables.', [(5, 'Режут')], ''),

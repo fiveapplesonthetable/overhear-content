@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Back in the kitchen at Claude Monet, Chef Barinov is at the pass, the shelf where finished plates wait for the waiters. He is checking one dish, and he wants Max, his trainee, to see the last step. It's in Russian first, so don't worry about catching every word."
 OPENER = "Let's go through the plate. Barinov inspects it, and Max asks careful questions."
 TRANSITION = 'And now the whole exchange in one piece.'
-OUTRO = 'Barinov\'s last step is herbs, and yours is to keep a few kitchen words: "tarelka", plate, "blyudo", dish, "zelen", herbs. They\'ll come back. See you next time.'
+OUTRO = "For Barinov, a dish isn't truly ready for the dining room until those final fresh herbs land in the right place at the pass. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, посмотри на эту тарелку.', 'Oguzok, look at this plate.', [], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "At Claude Monet, a fight has broken out in the dining room and a famous guest has been hit. Vika, the manager, storms into the kitchen to tell Barinov, who has already worked out how to profit from it. It's in Russian first."
 OPENER = "Let's go slowly through the argument. Vika is furious, and Barinov is delighted."
 TRANSITION = 'Now the argument from the start.'
-OUTRO = 'Barinov\'s point is that bad luck can be good publicity. Russian has a neat word for that sort of excuse, "povod", a reason or pretext, and you\'ve just heard it. See you next time.'
+OUTRO = 'While Vika panics over a dining-room brawl involving a famous guest, Barinov immediately spots the silver lining: free scandal publicity for Claude Monet. See you next time.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Виктор, в зале случился ужасный скандал.', 'Viktor, a terrible scandal happened in the dining room.', [], ''),

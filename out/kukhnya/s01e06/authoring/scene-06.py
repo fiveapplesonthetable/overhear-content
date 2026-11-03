@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Max has just learned that the shaving story was a prank, and now there's a real inspection on the way. In the kitchen at Claude Monet, Vika, who runs the dining room, warns Chef Barinov that the sanitary inspector is coming, and Barinov has his own idea of how to deal with it. It's in Russian first."
 OPENER = "Let's go back through it. Vika is exasperated, and Barinov is relaxed in a way that should worry you."
 TRANSITION = 'Now the full scene once more.'
-OUTRO = 'Hold on to "esli by", if only. Put "by" after "esli" and again after "my", and the two together make \'would\'. See you next time.'
+OUTRO = "The arm-shaving story may have been a prank, yet Vika's warning is all too real, and Barinov is already scheming about how to handle the sanitary inspector. See you next time."
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Они всех новичков так обманывают?', 'Do they trick all newcomers like that?', [(53, 'Они всех новичков так разводят')], ''),

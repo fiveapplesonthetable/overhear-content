@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Kukhnya means The Kitchen. It's a Russian comedy about Claude Monet, a smart Moscow restaurant where the chef, Barinov, rules the kitchen and everyone else survives as best they can. This is from episode six. Before the evening rush, Max, the young cook, and Kostya, the bartender he shares a flat with, look out at the guests and talk about what they never see. You'll hear it in Russian first, and it's fine to miss words."
+INTRO = "Kukhnya means The Kitchen. It's a Russian comedy about Claude Monet, a smart Moscow restaurant where the chef, Barinov, rules the kitchen and everyone else survives as best they can. In episode six, before the evening rush, Max, the young cook, and Kostya, the bartender he shares a flat with, look out at the guests and talk about what they never see. You'll hear it in Russian first, and it's fine to miss words."
 OPENER = "Now slowly. It's a calm scene, so the sentences are short and nearly all of them are worth keeping."
 TRANSITION = 'Here it is again in one go. It should feel more familiar now.'
-OUTRO = 'Keep "kazhdyy vecher", every evening, and "kazhdoe blyudo", every dish: one word for \'every\', with its ending changed to fit. See you next time.'
+OUTRO = 'While the guests enjoy the finished celebration at their tables, Max and Kostya know the long, frantic journey every single plate takes from the market through the kitchen. See you next time.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Макс, посмотри на гостей в зале.', 'Max, look at the guests in the dining room.', [], ''),

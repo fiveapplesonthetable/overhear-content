@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "The inspection is over, and at Claude Monet the truffles are back, returned by a homeless man called Rodion. Now Barinov wants to know how they ended up in the bin, and Max has to explain that where he comes from, a truffle is a sweet. It's in Russian first."
 OPENER = "Let's go back through the confession. Max has a very good excuse, and Barinov has a very big bill."
 TRANSITION = 'Now the confession from the top.'
-OUTRO = 'Max\'s excuse is worth keeping: "v Voronezhe tryufeli", "eto tolko konfety", in Voronezh truffles are just sweets. It\'s the most honest line in the episode. See you next time.'
+OUTRO = 'The truffles are safe at last thanks to Rodion, leaving Max with the most honest excuse in the episode: back home in Voronezh, truffles were only ever chocolates. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Макс, почему редкие трюфели оказались на помойке?', 'Max, why did rare truffles end up in the dumpster?', [], ''),

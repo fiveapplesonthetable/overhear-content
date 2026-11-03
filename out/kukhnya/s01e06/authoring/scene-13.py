@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Behind Claude Monet, Max and Kostya are digging through the bins. The 'rotten potatoes' they threw out were the chef's truffles, and now a very polite stranger called Rodion is holding the box. It's in Russian first."
 OPENER = 'Let\'s go through the meeting. Max is in a hurry and says "ty", Rodion takes his time and says "vy".'
 TRANSITION = 'Once more, the whole meeting by the bins.'
-OUTRO = 'Rodion shows you how to introduce yourself properly: "menya zovut", "ochen priyatno", and a name with the father\'s name after it. Russians use that full form with anyone older. See you next time.'
+OUTRO = 'Digging through the bins behind Claude Monet only leads Max and Kostya to a remarkably courteous stranger, Rodion, who now holds both the truffles and all the leverage. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Где ты нашёл эту коробку?', 'Where did you find this box?', [(182, 'не это ищете')], ''),

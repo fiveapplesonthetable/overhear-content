@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Out at the back of Claude Monet, Chef Barinov meets Timur, who sells him meat and anything else he can lay his hands on. They haggle over a lamb, and then Timur brings out something much more expensive. It's in Russian first."
 OPENER = "Let's take it line by line. Bargaining is a good place to pick up prices and numbers."
 TRANSITION = 'Now the whole deal again, start to finish.'
-OUTRO = 'You can now ask "pochyom", how much, and name a price in hundreds. Timur\'s trick of going from six hundred to seven hundred is one every market in the world knows. See you next time.'
+OUTRO = "Timur's haggling trick of raising the price instead of lowering it is classic market theatre, and Barinov still walks away with prized truffles in hand. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('barinov', 'Скажи честно, этот баран умер от старости?', 'Tell me honestly, did this sheep die of old age?', [(7, 'Скажи честно, Тимур, ведь этот баран умер от старости')], ''),

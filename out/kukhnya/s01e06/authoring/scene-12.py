@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Inside the kitchen at Claude Monet the sanitary inspector is checking everything: the floor, the grill, a bottle that should not be open. Barinov, the head chef, follows him and tries to keep up appearances. It's in Russian first."
 OPENER = 'Slowly now. The inspector speaks in short official remarks, and Barinov answers with excuses.'
 TRANSITION = 'Here is the inspection again, from the slippery floor on.'
-OUTRO = 'Barinov keeps saying "lichno", personally, and the inspector keeps saying "narushenie", violation. Between them they\'ve given you the vocabulary of a very bad afternoon. See you next time.'
+OUTRO = 'Every time Barinov swears he oversees the kitchen in person, the sanitary inspector calmly writes down one more violation on a rapidly worsening afternoon. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('inspector', 'Скользкий пол — это источник опасности.', 'A slippery floor is a source of danger.', [(160, 'Скользкий пол — это источник опасности для сотрудников')], ''),

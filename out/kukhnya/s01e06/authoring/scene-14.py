@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the staff changing room at Claude Monet, Rodion has the truffles and the upper hand. He wants a proper lunch in the restaurant, and Kostya is trying to talk him out of it. It's in Russian first."
 OPENER = 'Slowly now. Rodion speaks like a gentleman, and Kostya gets more nervous with every line.'
 TRANSITION = 'Now the bargaining from the start.'
-OUTRO = 'Rodion\'s lines are a lesson in sounding grand: "torg zdes neumesten", "vesti sebya akkuratno", and "priyatnogo appetita". Any of them makes a simple request sound elegant. See you next time.'
+OUTRO = 'Rodion speaks with old-world elegance even in the staff changing room, refusing to haggle and naming his price for the truffles: a proper meal in the dining room. See you next time.'
 CLOSING = ('rodion', 'Пока!')
 STORY = [
     ('kostya', 'Подожди, давай мы просто заплатим деньги.', "Wait, let's just pay you money.", [(197, 'мы тебе денег заплатим')], ''),

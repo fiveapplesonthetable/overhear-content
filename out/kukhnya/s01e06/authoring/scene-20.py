@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Back in the kitchen at Claude Monet, the truffle salad for table seven is late, and Barinov has run out of patience. Max has no truffle and has to say something. It's in Russian first."
 OPENER = 'Slowly now. The chef gets angrier with every line, and Max gets more inventive.'
 TRANSITION = "Here's the standoff in one go."
-OUTRO = 'Do "sleduyushchey Paskhi", until next Easter, is a good way to say something takes forever, and "vsyo pod kontrolem" is a good way to lie. Between them you\'ve got a fair picture of kitchen life. See you next time.'
+OUTRO = 'Max promises Barinov that everything is under control, though at this rate table seven really might be waiting until next Easter for its truffle salad. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, где мой свежий дорогой трюфель?', 'Rump, where is my fresh expensive truffle?', [(243, 'свои трюфель')], ''),

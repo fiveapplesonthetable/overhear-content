@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "In the kitchen at Claude Monet, Barinov is trying to work out why the sanitary inspector is so bad-tempered, and he decides the man has just given up drinking. He calls over Sasha, the waitress, with a plan. It's in Russian first."
 OPENER = 'Slowly now. Barinov has a scheme, and Sasha asks the sensible questions.'
 TRANSITION = "Here's the plan again from the start."
-OUTRO = 'Barinov\'s plan is a bad one, but his Russian is good: "ya ponyal", I get it, and "podarok ot zavedeniya", a gift on the house. That one is worth keeping for any restaurant. See you next time.'
+OUTRO = 'Convinced the sanitary inspector is only grumpy because he quit drinking, Barinov sends Sasha out with wine on the house in a plan bound to backfire. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('sasha', 'Шеф, почему этот санитарный инспектор такой злой?', 'Chef, why is this health inspector so angry?', [(210, 'Шеф, ну что там')], ''),
