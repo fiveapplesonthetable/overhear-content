@@ -389,6 +389,8 @@ def explanations(segs):
                 j = i + 1
                 while j < len(segs):
                     if segs[j]["v"] == "narrator":
+                        if TRANSITION_TAIL.match(segs[j].get("t", "")):
+                            break
                         expl += " \"" + segs[j].get("t", "") + "\""
                         j += 1
                     elif segs[j]["v"] != "narrator" and segs[j].get("gap", 0) <= 0.25:
