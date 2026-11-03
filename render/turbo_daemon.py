@@ -13,6 +13,7 @@ and SM utilization at 95-100% with zero model reloads across episodes and zero c
 """
 import argparse
 import concurrent.futures
+import heapq
 import json
 import os
 import signal
@@ -69,13 +70,54 @@ def reclaim_stale_claims(folder: Path):
                 pass
 
 
+def min_prio_in(folder: Path) -> int | None:
+    if not folder.is_dir():
+        return None
+    best = None
+    try:
+        with os.scandir(folder) as it:
+            for e in it:
+                nm = e.name
+                if len(nm) > 5 and nm[:4].isdigit() and (nm.endswith(".json") or ".json.claim." in nm):
+                    p = int(nm[:4])
+                    if best is None or p < best:
+                        best = p
+    except OSError:
+        pass
+    return best
+
+
+def ahead_of_round_robin(jobs_dir: Path, lead: int = 2) -> bool:
+    """Return True if this lane's lowest pending episode prio is > global_min_prio + lead,
+    so ahead-of-horizon workers yield 100% A100 SM compute to the active round-robin episode."""
+    my_p = min_prio_in(jobs_dir)
+    if my_p is None:
+        return False
+    valid = [
+        p for sub in ("jobs_en", "jobs_qwen", "jobs_ru", "jobs_ar")
+        if (p := min_prio_in(SHM_ROOT / sub)) is not None
+    ]
+    if not valid:
+        return False
+    return my_p > min(valid) + lead
+
+
 def claim_jobs(folder: Path, max_jobs: int, max_expanded: int = 0, max_chars: int = 0):
     """Atomically claim up to max_jobs (bounded by max_expanded candidates and max_chars total chars) in priority order."""
     pid = os.getpid()
     claimed = []
     expanded = 0
     chars = 0
-    for p in sorted(folder.glob("*.json")):
+    try:
+        with os.scandir(folder) as it:
+            top_names = heapq.nsmallest(
+                max(max_jobs * 4, 32),
+                (e.name for e in it if e.name.endswith(".json") and not e.name.startswith(".")),
+            )
+    except OSError:
+        return claimed
+    for nm in top_names:
+        p = folder / nm
         if len(claimed) >= max_jobs:
             break
         claim_p = p.with_name(f"{p.name}.claim.{pid}")
@@ -132,7 +174,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
     settings = config.load_settings(str(REPO / "render" / "settings.fr-qwen-en.json"))
     voices = Voices()
     store = Store(config.STORE)
-    eng = QwenEngine(settings, voices, log=lambda *a: log(role, *a))
+    eng = None
     t_cfg = settings["tts"]
     temp = t_cfg.get("temperature", 0.7) * 0.95
     rep = t_cfg.get("repetition_penalty", 1.0) * 1.1
@@ -152,10 +194,20 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
 
+        if ahead_of_round_robin(jobs_dir, lead=2):
+            if eng is not None:
+                log(role, "ahead of round-robin horizon; yielding VRAM & SM compute to active episode")
+                eng.free()
+                eng = None
+            time.sleep(2.0)
+            continue
+
         claimed = claim_jobs(jobs_dir, max_jobs=14, max_expanded=batch_seqs, max_chars=3200)
         if not claimed:
             time.sleep(0.2)
             continue
+        if eng is None:
+            eng = QwenEngine(settings, voices, log=lambda *a: log(role, *a))
 
         # Filter any already completed in cache/tts
         todo = []
@@ -240,6 +292,9 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             continue
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
+        if ahead_of_round_robin(jobs_dir, lead=2):
+            time.sleep(2.0)
+            continue
 
         claimed = claim_jobs(jobs_dir, max_jobs=batch_seqs, max_expanded=batch_seqs, max_chars=4200)
         if not claimed:
@@ -331,19 +386,13 @@ def run_ru_worker(worker_id: int, batch_seqs: int):
         if sum(1 for _ in cands_dir.glob("*.json")) > 800:
             time.sleep(0.25)
             continue
-        # Prioritize Round 1 (prio 0000..0009): once Round-1 Russian is done, yield VRAM to Round-1 Qwen/CustomVoice until Round 1 finishes!
-        if not any(jobs_dir.glob("000[0-9]_*.json")) and not any(jobs_dir.glob("000[0-9]_*.claim.*")):
-            r1_busy = (
-                any((SHM_ROOT / "jobs_qwen").glob("000[0-9]_*.json"))
-                or any((SHM_ROOT / "jobs_en").glob("000[0-9]_*.json"))
-            )
-            if r1_busy:
-                if eng is not None:
-                    log(role, "Round-1 Russian complete; freeing ESpeech VRAM for Round-1 Qwen/CustomVoice")
-                    eng.free()
-                    eng = None
-                time.sleep(3.0)
-                continue
+        if ahead_of_round_robin(jobs_dir, lead=2):
+            if eng is not None:
+                log(role, "ahead of round-robin horizon; yielding ESpeech VRAM & SM compute to active episode")
+                eng.free()
+                eng = None
+            time.sleep(2.5)
+            continue
         if idle_ticks % 40 == 20:
             reclaim_stale_claims(jobs_dir)
 
