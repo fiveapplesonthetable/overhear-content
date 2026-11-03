@@ -265,7 +265,7 @@ def main():
         cmd = [
             sys.executable, "-B", "-I", str(ROOT / "render" / "turbo_daemon.py"),
             "master", "--qwen-workers", "1", "--en-workers", "2", "--ru-workers", "3",
-            "--gate-workers", "2", "--batch-seqs", "28",
+            "--gate-workers", "1", "--batch-seqs", "16",
         ]
         os.execv(sys.executable, cmd)
 
