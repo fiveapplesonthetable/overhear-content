@@ -1,23 +1,26 @@
 #!/usr/bin/env python3
-"""Build the strict 10-language round-robin queue in /dev/shm/overhear-turbo and optionally start turbo_daemon.
+"""Build the weighted 10-language round-robin queue in /dev/shm/overhear-turbo and optionally rebalance live jobs.
 
-Replicates the exact episode-by-episode round-robin order:
-  Round 1 (s01e01 across all 10 languages + 2nd RU show):
-    pt (porta-dos-fundos) -> ru (kukhnya) -> fr (dix-pour-cent) -> ar (alrawabi-school) ->
-    es (paquita-salas) -> de (die-discounter) -> ko (the-producers) -> it (boris) ->
-    ja (the-naked-director) -> zh (behind-the-scenes) -> ru (domashniy-arest)
-  Round 2 (s01e02 round-robin across validated shows)
-  Round 3+ (s01e03+ interleaved round-robin across validated shows)
+Schedule:
+  - Rounds 1 & 2 (prio 0000..0017, already published): 1 episode per validated show across all 10 languages.
+  - Round 3+ weighted round-robin cycle (per owner request):
+      * 3 Russian episodes (`ru`: 2x `kukhnya` + 1x `domashniy-arest`, falling back to `kukhnya` once `domashniy-arest` completes)
+      * 2 French episodes  (`fr`: 2x `dix-pour-cent`)
+      * 1 episode each of every other available language (`pt`, `ar`, `es`, `de`, `ko`, `it`, `ja`, `zh`)
+      * Repeat until all validated episodes across all shows are rendered and published!
 
 Usage:
+  python3 tools/launch_round_robin.py --rebalance-live
   python3 tools/launch_round_robin.py --reset-done
-  OVERHEAR_HOME="$HOME/overhear" python3 tools/launch_round_robin.py --reset-done --exec-master
+  OVERHEAR_HOME="$HOME/overhear" python3 tools/launch_round_robin.py --exec-master
 """
 import argparse
 import json
 import os
 import shutil
+import subprocess
 import sys
+from collections import deque
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -37,76 +40,158 @@ SHOW_SETTINGS = {
     "behind-the-scenes": "render/settings.zh-qwen-en.json",
 }
 
-ROUND_ROBIN_SHOW_ORDER = [
-    "porta-dos-fundos",
-    "kukhnya",
-    "dix-pour-cent",
-    "alrawabi-school",
-    "paquita-salas",
-    "die-discounter",
-    "the-producers",
-    "boris",
-    "the-naked-director",
-    "behind-the-scenes",
-    "domashniy-arest",
+OTHER_SHOWS_ORDER = [
+    "porta-dos-fundos",   # pt
+    "alrawabi-school",    # ar
+    "paquita-salas",      # es
+    "die-discounter",     # de
+    "the-producers",      # ko
+    "boris",              # it
+    "the-naked-director", # ja
+    "behind-the-scenes",  # zh
+]
+
+# Exact historical order of the 18 completed Round 1 + Round 2 releases + active prio 0018
+PINNED_PREFIX = [
+    "porta-dos-fundos-s01e01",
+    "kukhnya-s01e01",
+    "dix-pour-cent-s01e01",
+    "alrawabi-school-s01e01",
+    "paquita-salas-s01e01",
+    "die-discounter-s01e01",
+    "the-producers-s01e01",
+    "boris-s01e01",
+    "the-naked-director-s01e01",
+    "behind-the-scenes-s01e01",
+    "domashniy-arest-s01e01",
+    "kukhnya-s01e02",
+    "dix-pour-cent-s01e02",
+    "paquita-salas-s01e02",
+    "the-producers-s01e02",
+    "the-naked-director-s01e02",
+    "behind-the-scenes-s01e02",
+    "domashniy-arest-s01e02",
 ]
 
 
-def discover_validated_episodes() -> list[dict]:
-    """Build strict round-robin episode queue from existing episodes.json or out/ tree."""
-    existing = SHM / "episodes.json"
-    if existing.exists():
-        raw = json.loads(existing.read_text("utf-8"))
-        for i, item in enumerate(raw):
-            item["prio"] = i
-            sh = item["episode"].rsplit("-s", 1)[0]
-            item["settings"] = str((ROOT / SHOW_SETTINGS[sh]).resolve())
-        return raw
-
-    # Fallback: build round-robin across available episodes in out/
-    by_show: dict[str, list[str]] = {}
-    for sh in ROUND_ROBIN_SHOW_ORDER:
+def scan_validated_out() -> dict[str, deque[str]]:
+    by_show: dict[str, deque[str]] = {}
+    for sh in SHOW_SETTINGS:
         sdir = ROOT / "out" / sh
         if not sdir.is_dir():
+            by_show[sh] = deque()
             continue
         raw_eps = sorted(p.name for p in sdir.glob("s[0-9][0-9]e[0-9][0-9]") if p.is_dir() and any(p.glob("scene-*.json")))
-        # Keep alrawabi-school to s01e01 only (sources e02..e04 are wrong-show subtitles)
         if sh == "alrawabi-school":
             raw_eps = [e for e in raw_eps if e == "s01e01"]
-        # Only queue episodes that pass validate.py --require-notes cleanly
-        import subprocess
         eps = [
-            e for e in raw_eps
+            f"{sh}-{e}" for e in raw_eps
             if subprocess.run(
                 [sys.executable, "-I", str(ROOT / "tools" / "validate.py"), "--require-notes", str(sdir / e)],
                 stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
             ).returncode == 0
         ]
-        by_show[sh] = eps
+        by_show[sh] = deque(eps)
+    return by_show
+
+
+def build_weighted_round_robin() -> list[dict]:
+    """Build weighted 3 RU -> 2 FR -> 1 each of other languages schedule across all validated episodes."""
+    by_show = scan_validated_out()
+    all_valid = {ep for q in by_show.values() for ep in q}
+
+    ordered: list[str] = []
+    used: set[str] = set()
+
+    # Keep pinned completed prefix first so done_*.json and historical prios never shift
+    for ep in PINNED_PREFIX:
+        if ep in all_valid and ep not in used:
+            ordered.append(ep)
+            used.add(ep)
+
+    for sh, q in by_show.items():
+        by_show[sh] = deque(ep for ep in q if ep not in used)
+
+    while any(by_show.values()):
+        # 1. Russian: 3 episodes per cycle (kukhnya -> domashniy-arest -> kukhnya, fallback to whichever has episodes)
+        ru_picks = 0
+        for pref in ("kukhnya", "domashniy-arest", "kukhnya"):
+            if by_show[pref]:
+                ordered.append(by_show[pref].popleft())
+                ru_picks += 1
+        while ru_picks < 3 and (by_show["kukhnya"] or by_show["domashniy-arest"]):
+            src = "kukhnya" if by_show["kukhnya"] else "domashniy-arest"
+            ordered.append(by_show[src].popleft())
+            ru_picks += 1
+
+        # 2. French: 2 episodes per cycle
+        for _ in range(2):
+            if by_show["dix-pour-cent"]:
+                ordered.append(by_show["dix-pour-cent"].popleft())
+
+        # 3. Other 8 languages: 1 episode each per cycle whenever available
+        for sh in OTHER_SHOWS_ORDER:
+            if by_show[sh]:
+                ordered.append(by_show[sh].popleft())
 
     out = []
-    max_len = max((len(v) for v in by_show.values()), default=0)
-    for r_idx in range(max_len):
-        for sh in ROUND_ROBIN_SHOW_ORDER:
-            eps = by_show.get(sh, [])
-            if r_idx < len(eps):
-                ep_code = eps[r_idx]
-                out.append({
-                    "prio": len(out),
-                    "episode": f"{sh}-{ep_code}",
-                    "settings": str((ROOT / SHOW_SETTINGS[sh]).resolve()),
-                })
+    for idx, ep in enumerate(ordered):
+        sh = ep.rsplit("-s", 1)[0]
+        out.append({
+            "prio": idx,
+            "episode": ep,
+            "settings": str((ROOT / SHOW_SETTINGS[sh]).resolve()),
+        })
     return out
+
+
+def rebalance_live_shm(eps: list[dict], min_rebalance_prio: int = 19) -> int:
+    """Atomically re-rank pending /dev/shm/overhear-turbo/jobs_* JSON files to match new weighted prios without stopping workers."""
+    prio_map = {item["episode"]: item["prio"] for item in eps}
+    moved = 0
+    for sub in ("jobs_en", "jobs_qwen", "jobs_ru", "jobs_ar"):
+        d = SHM / sub
+        if not d.is_dir():
+            continue
+        for entry in list(os.scandir(d)):
+            nm = entry.name
+            if not nm.endswith(".json") or nm.startswith(".") or not nm[:4].isdigit():
+                continue
+            old_p = int(nm[:4])
+            if old_p < min_rebalance_prio:
+                continue
+            # Format: {prio:04d}_{episode}_{key}.json
+            rest = nm[5:-5]
+            if "_" not in rest:
+                continue
+            ep, key = rest.rsplit("_", 1)
+            new_p = prio_map.get(ep)
+            if new_p is None or new_p == old_p:
+                continue
+            src = d / nm
+            dst = d / f"{new_p:04d}_{ep}_{key}.json"
+            tmp = d / f".rebal.{os.getpid()}.{new_p:04d}_{ep}_{key}.json"
+            try:
+                data = json.loads(src.read_text("utf-8"))
+                data["prio"] = new_p
+                tmp.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+                src.unlink()
+                tmp.replace(dst)
+                moved += 1
+            except OSError:
+                tmp.unlink(missing_ok=True)
+    return moved
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--reset-done", action="store_true", help="Clear /dev/shm/overhear-turbo queues & done_*.json markers (preserves SSD cache/tts)")
+    ap.add_argument("--rebalance-live", action="store_true", help="Re-rank pending jobs_* (prio >= 19) in /dev/shm to match weighted round-robin without restarting daemons")
     ap.add_argument("--exec-master", action="store_true", help="Exec render/turbo_daemon.py master after writing queue")
     a = ap.parse_args()
 
     SHM.mkdir(parents=True, exist_ok=True)
-    eps = discover_validated_episodes()
+    eps = build_weighted_round_robin()
 
     if a.reset_done:
         (SHM / "STOP").unlink(missing_ok=True)
@@ -118,9 +203,16 @@ def main():
         for done_f in SHM.glob("done_*.json"):
             done_f.unlink(missing_ok=True)
 
-    (SHM / "episodes.json").write_text(json.dumps(eps, indent=2) + "\n", encoding="utf-8")
-    print(f"Wrote {len(eps)} episodes in strict round-robin order to {SHM / 'episodes.json'}:")
-    for item in eps[:12]:
+    tmp_ep = SHM / f".episodes.{os.getpid()}.json"
+    tmp_ep.write_text(json.dumps(eps, indent=2) + "\n", encoding="utf-8")
+    tmp_ep.replace(SHM / "episodes.json")
+
+    if a.rebalance_live:
+        moved = rebalance_live_shm(eps, min_rebalance_prio=19)
+        print(f"Rebalanced {moved} live job files in {SHM} to weighted 3-RU / 2-FR / 1-others schedule.")
+
+    print(f"Wrote {len(eps)} validated episodes to {SHM / 'episodes.json'}. Upcoming queue (prio 0018..0035):")
+    for item in eps[18:36]:
         print(f"  prio={item['prio']:04d}  {item['episode']}")
 
     if a.exec_master:
