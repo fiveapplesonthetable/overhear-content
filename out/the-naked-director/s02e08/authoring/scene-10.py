@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e08-scene-10'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 8
+SCENE = 10
+TITLE = "エロ業界を盛り上げていこうや  (Let's Liven Up the Adult Industry)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'keieisha': '経営者', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E08'
+SOURCE_FILE = 'sources/the-naked-director/s02/e08.ja.srt'
+
+INTRO = "At the retail chain office, the Proprietor laughs with delight over Kawada and the junior director's newest release and its comically long, descriptive title celebrating everyday fantasies."
+STORY = [('keieisha', 'いいよ第二弾。そしてまた長いね、タイトルが。', "The second installment is great! And the title is super long again, isn't it?", [(339, 'いいよ'), (340, 'そして また長いね タイトルが')], 'spelled numeral in kanji'), ('kawada', '元レスリング部顧問で女体育教師のたくましい体は、男たちの欲望の的です。', '"The Former Wrestling Coach and Female Gym Teacher\'s Muscular Body Is the Object of Men\'s Desire."', [(345, '元レスリング部顧問で 女体育教師のたくましい体は'), (346, '男たちの欲望の的'), (346, 'です')], ''), ('keieisha', '伸びてるねえ。でもいいよ、個性があって。', "It's gotten even longer! Still, I like it—it's got real personality.", [(347, '伸びてるねえ'), (348, 'でも いいよ 個性があって')], ''), ('kawada', '伸ばしちゃいました。これね、三田村君の趣向で。', "We stretched it right out—this one comes from our young director's own taste.", [(347, '伸ばしちゃいました'), (349, 'これね 三田村君の趣向で')], ''), ('keieisha', 'ああそうか、バリバリ頑張ってんだな。', 'Oh, is that right? Glad to see you working flat out!', [(350, 'ああ そうか バリバリ頑張ってんだな')], ''), ('student', 'おかげさまで。日常における性欲をテーマにやってます。', "Thanks to your support! I'm making videos themed around desire in everyday life.", [(351, 'おかげさまで'), (352, '日常における性欲を テーマに やってます')], ''), ('keieisha', '信用してるよ川田さん、引き続きよろしくね。', 'I have complete trust in you, Mr. Kawada—keep up the great work.', [(354, '信用してるよ 川田さん 引き続き よろしくね')], ''), ('kawada', 'ありがとうございます。', 'Thank you very much.', [(355, 'ありがとうございます')], ''), ('keieisha', 'でもよかったよ、思ったより元気そうで。', "Still, I'm relieved—you look much better than I expected.", [(356, 'でも よかったよ 思ったより元気そうで')], ''), ('keieisha', '頑張ってエロ業界を盛り上げていこうや。', "Let's keep pushing hard and liven up the adult video industry together!", [(358, '頑張って エロ業界を盛り上げていこうや')], ''), ('kawada', 'はい。じゃあ失礼します。', 'We will. Well then, please excuse us.', [(359, 'はい'), (360, 'じゃあ 失礼します')], ''), ('keieisha', 'あっそうそう！言おうかどうか迷ったんだけどさ、ちょっと聞いた話があって。', 'Oh, wait! I hesitated over whether to mention it, but I heard a rumor...', [(362, 'あっ そうそう 言おうかどうか 迷ったんだけどさ'), (363, 'ちょっと 聞いた話があって')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"The second installment is great! And the title is super long again, isn\'t it?"'), (1, None, '\'"The Former Wrestling Coach and Female Gym Teacher\\\'s Muscular Body Is the Object of Men\\\'s Desire."\''), (2, None, '"It\'s gotten even longer! Still, I like it—it\'s got real personality."'), (3, None, '"We stretched it right out—this one comes from our young director\'s own taste."'), (4, None, "'Oh, is that right? Glad to see you working flat out!'"), (5, None, '"Thanks to your support! I\'m making videos themed around desire in everyday life."'), (6, None, "'I have complete trust in you, Mr. Kawada—keep up the great work.'"), (7, None, "'Thank you very much.'"), (8, None, '"Still, I\'m relieved—you look much better than I expected."'), (9, None, '"Let\'s keep pushing hard and liven up the adult video industry together!"'), (10, None, "'We will. Well then, please excuse us.'"), (11, None, "'Oh, wait! I hesitated over whether to mention it, but I heard a rumor...'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Thanking Kawada for keeping his promise and cheering on their thriving studio, the Proprietor stops them at the door to pass along a rumor about where Muranishi has been spotted.'
+CLOSING = ('kawada', 'また明日。')

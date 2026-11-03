@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-08'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 8
+TITLE = '私に黒木香は超えられなかった  (I Could Never Surpass Kaoru Kuroki)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = "Returning to Muranishi's vandalized studio to pick up her belongings, his young star finds him sitting alone in the dark and speaks honestly about the wreckage of their plans and what she learned."
+STORY = [('client_f', '荷物を取りに来ました。', 'I came to pick up my belongings.', [(285, '荷物を取りに来ました')], ''), ('client_f', '大丈夫なの？', 'Are you holding up okay?', [(286, '大丈夫なの')], ''), ('client_f', '正直がっかりしました。', 'To be honest, I was disappointed.', [(288, '正直 がっかりしました')], ''), ('client_f', '予定も全部狂ったし、最悪。', "All my plans were thrown off track—it's the worst.", [(289, '予定も全部 狂ったし'), (290, '最悪')], ''), ('client_f', '人生パーですよ、笑えないくらい。', "My life is completely ruined, to the point where it's not even funny.", [(291, '人生パーですよ 笑えないくらい')], ''), ('client_f', 'でも、後悔してないですよ、ここに来たこと。', "Still, I don't regret coming here.", [(292, 'でも'), (293, '後悔してないですよ ここに来たこと')], ''), ('client_f', 'ちょっとの間だったけど、すごく楽しかったから。', 'Because even though it was only for a short while, it was so much fun.', [(294, 'ちょっとの間だったけど すごく楽しかったから')], ''), ('client_f', '昔の私からしたら、必要なことだったし。', 'Looking back at my old self, it was something I needed.', [(295, '昔の私からしたら 必要なことだったし')], ''), ('client_f', 'やっぱり村西さんには黒木さんだったのかなって。', 'I suppose Ms. Kuroki really was the only one for you after all.', [(296, 'やっぱり村西さんには 黒木さんだったのかなって')], ''), ('client_f', '黒木さん、私のことも最初から全部見透かしてて。', 'Ms. Kuroki saw right through me from the very beginning.', [(297, '黒木さん'), (298, '私のことも最初から 全部 見透かしてて')], ''), ('client_f', '村西さんのことだって、私よりずっと分かってたんだと思います。', 'And when it came to you, I think she understood you far better than I ever did.', [(299, '村西さんのことだって'), (300, '私より ずっと分かってたんだと 思います')], ''), ('client_f', '私に黒木香は超えられなかった。じゃあ、またどこかで。', 'I could never surpass Kaoru Kuroki. Well then—see you somewhere again.', [(301, '私に黒木 香は超えられなかった'), (302, 'またどこかで')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'I came to pick up my belongings.'"), (1, None, "'Are you holding up okay?'"), (2, None, "'To be honest, I was disappointed.'"), (3, None, '"All my plans were thrown off track—it\'s the worst."'), (4, None, '"My life is completely ruined, to the point where it\'s not even funny."'), (5, None, '"Still, I don\'t regret coming here."'), (6, None, "'Because even though it was only for a short while, it was so much fun.'"), (7, None, "'Looking back at my old self, it was something I needed.'"), (8, None, "'I suppose Ms. Kuroki really was the only one for you after all.'"), (9, None, "'Ms. Kuroki saw right through me from the very beginning.'"), (10, None, "'And when it came to you, I think she understood you far better than I ever did.'"), (11, None, "'I could never surpass Kaoru Kuroki. Well then—see you somewhere again.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Admitting quietly that Kuroki understood Muranishi far better than she ever could and that she could never surpass Kaoru Kuroki, she picks up her bag and says goodbye.'
+CLOSING = ('client_f', 'じゃあね。')

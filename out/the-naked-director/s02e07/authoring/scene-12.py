@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-12'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 12
+TITLE = "村西の借金の肩代わりだ  (Shouldering Muranishi's Debt)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'fujiwara': '藤原', 'student': '生徒', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = "After Muranishi escapes, Furuya's deputy storms into Kawada's studio with his men, ransacking the safe, seizing their new master tapes, and announcing that the crew must shoulder Muranishi's entire two-billion-yen debt."
+STORY = [('toshi', 'おい荻原！関係ねえだろ、出てけよ！', 'Hey! We have nothing to do with this—get out!', [(404, 'おい 荻原'), (412, '関係ねえだろ 出てけよ')], ''), ('student', 'やめてもらっていいですか！', 'Could you please stop doing that?!', [(413, 'やめてもらっていいですか')], ''), ('fujiwara', 'おい、何か金になりそうな物ねえのか？', "Hey, isn't there anything around here we can turn into cash?", [(415, '何か金になりそうな物ねえのか')], ''), ('toshi', 'てめえよ、女に手出すな！', 'Damn you—keep your hands off the women!', [(419, 'てめえよ'), (419, '出すな')], 'normalized colloquial particle'), ('fujiwara', 'お前親まだ生きてる？生きてるんだったら呼んでこい、今すぐ。', 'Are your parents still alive? If they are, call them down here right this second.', [(423, 'お前 親 まだ生きてる'), (425, '生きてるんだったら呼んでこい'), (426, '今 すぐ')], ''), ('toshi', '荻原、てめえやめろよ！', 'Damn it, knock it off!', [(428, '荻原'), (429, 'てめえ やめろよ')], ''), ('fujiwara', '村西の借金の肩代わりだ、お前ら全員でな。', "You are taking over Muranishi's debt—every single one of you.", [(430, '村西の借金の肩代わりだ'), (431, 'お前ら全員でな')], ''), ('fujiwara', 'しかたねえだろ。村西はお前らのこと売って飛んだんだからよ。俺たちも困ってんだよ。', "We have no choice. Muranishi sold you guys out and skipped town, so we're in a bind too.", [(433, 'しかたねえだろ'), (434, '村西は お前らのこと売って'), (435, '飛んだんだからよ'), (436, '俺たちも困ってんだよ')], ''), ('fujiwara', '全部で二十億、ちゃんと返してくれよ。', 'Two billion in total—make sure you pay every yen back.', [(437, '全部で'), (438, 'ちゃんと返してくれよ')], 'spelled numeral in kanji'), ('fujiwara', '今日これもらってくわ。じゃあまた明日な。', "We'll take these tapes for today. See you again tomorrow.", [(441, '今日 これ もらってくわ'), (443, 'じゃあ また明日な')], ''), ('fujiwara', '見つけたら俺のとこ持ってこい。村西見なかったか？', 'When you find him, bring him straight to me. Have you seen Muranishi?', [(447, '見つけたら 俺のとこ持ってこい'), (449, '村西 見なかったか')], ''), ('toshi', '乗れよ。', 'Get in.', [(458, '乗れよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Hey! We have nothing to do with this—get out!'"), (1, None, "'Could you please stop doing that?!'"), (2, None, '"Hey, isn\'t there anything around here we can turn into cash?"'), (3, None, "'Damn you—keep your hands off the women!'"), (4, None, "'Are your parents still alive? If they are, call them down here right this second.'"), (5, None, "'Damn it, knock it off!'"), (6, None, '"You are taking over Muranishi\'s debt—every single one of you."'), (7, None, '"We have no choice. Muranishi sold you guys out and skipped town, so we\'re in a bind too."'), (8, None, "'Two billion in total—make sure you pay every yen back.'"), (9, None, '"We\'ll take these tapes for today. See you again tomorrow."'), (10, None, "'When you find him, bring him straight to me. Have you seen Muranishi?'"), (11, None, "'Get in.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'As gangsters scour the city hunting for Muranishi, Toshi pulls his car up beside the fugitive director outside the darkened hospital at lights-out and tells him to get in.'
+CLOSING = ('toshi', 'また明日。')

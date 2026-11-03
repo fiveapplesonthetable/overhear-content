@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e08-scene-09'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 8
+SCENE = 9
+TITLE = 'まず内部の汚れを落とさないとな  (Cleaning Out Our Own Dirt First)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'fujiwara': '藤原', 'police': '警察官', 'takei': '武井'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E08'
+SOURCE_FILE = 'sources/the-naked-director/s02/e08.ja.srt'
+
+INTRO = "Driving Furuya's arrested deputy toward police headquarters, Detective Takei gloats about cultivating him as his next underworld informant—only to drive straight into a trap set by his own department."
+STORY = [('takei', 'もともとはお前、俺の獲物だったんだよあの古谷は。', 'Originally, that Furuya was my prey.', [(301, 'もともとは お前 俺の獲物だったんだよ あの古谷は')], ''), ('takei', 'それがくだらねえ法律の横やりが入ってよ、げんなりしてたんだよ。', 'Then that stupid new law barged in and took all the fun out of it.', [(302, 'くだらねえ法律の横やりが入ってよ'), (303, 'げんなりしてたんだよ')], ''), ('takei', 'また新しい畑を耕すのも面白えかなと思ってさ。古谷はその養分っつうことで。', 'I figured plowing a fresh field might be fun—with Furuya serving as fertilizer.', [(306, 'また新しい畑を耕すのも'), (307, '古谷は その養分っつうことで')], 'trimmed furigana'), ('fujiwara', '親父を愚弄すんな！', "Don't mock my boss!", [(310, '親父を愚弄すんな')], ''), ('takei', 'バカお前、おめえにとっちゃチャンスだろうがよ。', "You idiot, this is your big chance to move up, isn't it?", [(311, 'バカ お前'), (312, 'おめえにとっちゃ チャンスだろうがよ')], ''), ('fujiwara', '親の死に目に頬上げるほどゲスじゃねえよ！', "I'm not scum low enough to grin over my boss's death!", [(313, '親の死に目に頬上げるほど ゲスじゃねえよ')], ''), ('takei', 'よしその調子だ、しっかり育ってくださいよ。', "That's the spirit—grow up nice and strong for me.", [(317, 'よし'), (317, 'その調子だ'), (318, 'しっかり育ってくださいよ')], ''), ('takei', '何の騒ぎだよ？ちゃんと荻原連れてきたぞ。', "What's all this commotion? Look, I brought him in properly.", [(323, '何の騒ぎだよ'), (324, 'ちゃんと荻原 連れてきたぞ')], ''), ('police', '出ろ。収賄容疑だよ。', 'Step out of the car. You are under arrest on suspicion of taking bribes.', [(325, '出ろ'), (327, '収賄容疑だよ')], ''), ('police', '暴力団を排除するには、まず内部の汚れを落とさないとな。', 'To eradicate organized crime, first we have to wash out the dirt inside our own ranks.', [(328, '暴力団を排除するには'), (329, 'まず 内部の汚れを落とさないとな')], ''), ('fujiwara', 'ざまあねえな。', 'Serves you right.', [(330, 'ざまあねえな')], ''), ('takei', 'どこまでつまんなくする気なんだろうねえ。だったらいいや。', "Just how boring do they plan to make this world? Fine by me, then—I'm done.", [(335, 'どこまで つまんなく する気なんだろうねえ'), (338, 'だったら いいや')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Originally, that Furuya was my prey.'"), (1, None, "'Then that stupid new law barged in and took all the fun out of it.'"), (2, None, "'I figured plowing a fresh field might be fun—with Furuya serving as fertilizer.'"), (3, None, '"Don\'t mock my boss!"'), (4, None, '"You idiot, this is your big chance to move up, isn\'t it?"'), (5, None, '"I\'m not scum low enough to grin over my boss\'s death!"'), (6, None, '"That\'s the spirit—grow up nice and strong for me."'), (7, None, '"What\'s all this commotion? Look, I brought him in properly."'), (8, None, "'Step out of the car. You are under arrest on suspicion of taking bribes.'"), (9, None, "'To eradicate organized crime, first we have to wash out the dirt inside our own ranks.'"), (10, None, "'Serves you right.'"), (11, None, '"Just how boring do they plan to make this world? Fine by me, then—I\'m done."')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Placed under arrest for bribery as his superior declares that wiping out organized crime begins with purging corrupt officers inside the force, Takei shrugs that his era has ended.'
+CLOSING = ('takei', 'さようなら。')

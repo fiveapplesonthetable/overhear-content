@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e07-scene-02'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 7
+SCENE = 2
+TITLE = '黒木香にしてくれてありがとう  (Thank You for Making Me Kaoru Kuroki)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kuroki': '黒木', 'muranishi': '村西', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E07'
+SOURCE_FILE = 'sources/the-naked-director/s02/e07.ja.srt'
+
+INTRO = "At their apartment, Kuroki's makeup artist and roommate asks about her plans and apologizes for not protecting her, while Kuroki warmly recalls the first day she put on lipstick and became Kaoru Kuroki."
+STORY = [('reika', '黒ちゃん、これからどうしていくの？もし撮影したいなら相談しようか？', "What are you going to do from now on? If you want to film again, shall we talk to Kawada's team?", [(24, '黒ちゃん これから どうしていくの'), (25, 'もし撮影したいなら'), (25, '相談しようか')], 'trimmed furigana'), ('kuroki', '順子さんが監督をするならやります。私は順子さんのメイクで黒木香になったんです。', 'If you direct, I will do it. It was your makeup that turned me into Kaoru Kuroki.', [(26, '順子さんが監督をするなら やります'), (27, '私は 順子さんのメイクで 黒木 香になったんです')], ''), ('kuroki', '初めて順子さんにメイクしてもらった時のこと、一生忘れません。', 'I will never in my life forget the first time you did my makeup.', [(28, '初めて 順子さんに メイクしてもらった時のこと'), (29, '一生 忘れません')], ''), ('kuroki', 'あの口紅、順子さんが私に魔法をかけてくれた。', 'With that lipstick, you cast a magic spell on me.', [(30, 'あの口紅'), (31, '順子さんが 私に魔法をかけてくれた')], ''), ('reika', 'ごめんなさい。一番傷ついてるのは黒ちゃんなのに、何もできなくて。', "I'm so sorry. Even though you are the one hurting the most, I couldn't do anything for you.", [(36, 'ごめんなさい'), (39, '一番 傷ついてるのは 黒ちゃんなのに'), (40, '何もできなくて')], ''), ('kuroki', '案外傲慢ね。私は望んでこうなったのよ。', 'How unexpectedly presumptuous of you. I became like this because I wished for it.', [(41, '案外 傲慢ね'), (42, '私は望んで こうなったのよ')], ''), ('kuroki', '黒木香にしてくれてありがとう。', 'Thank you for turning me into Kaoru Kuroki.', [(43, '黒木 香にしてくれて ありがとう')], ''), ('reika', 'ごめん、なんか柄にもなくしんみりしちゃって。アイス食べようか。', "Sorry, it's out of character for me to get all gloomy. Shall we eat some ice cream?", [(45, 'ごめん なんか 柄にもなく しんみりしちゃって'), (46, 'アイス食べようか')], ''), ('reika', 'お酒ばっか飲んでたら体に悪いよ。ちょっとすぐ買ってくるから。', "Drinking nothing but alcohol is bad for your health. Hold on, I'll run out and buy some right now.", [(48, 'お酒ばっか飲んでたら 体に悪いよ'), (50, 'ちょっと すぐ買ってくるから')], ''), ('muranishi', '君は、男性に何をしてほしいの？', 'What is it you want a man to do for you?', [(55, '君は'), (55, '男性に何をしてほしいの')], ''), ('kuroki', '抱きしめてほしい。', 'I want him to hold me tight.', [(56, '抱きしめてほしい')], ''), ('muranishi', '今日から君は、黒木香だ。', 'Starting today, you are Kaoru Kuroki.', [(60, '今日から君は'), (62, '黒木 香だ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"What are you going to do from now on? If you want to film again, shall we talk to Kawada\'s team?"'), (1, None, "'If you direct, I will do it. It was your makeup that turned me into Kaoru Kuroki.'"), (2, None, "'I will never in my life forget the first time you did my makeup.'"), (3, None, "'With that lipstick, you cast a magic spell on me.'"), (4, None, '"I\'m so sorry. Even though you are the one hurting the most, I couldn\'t do anything for you."'), (5, None, "'How unexpectedly presumptuous of you. I became like this because I wished for it.'"), (6, None, "'Thank you for turning me into Kaoru Kuroki.'"), (7, None, '"Sorry, it\'s out of character for me to get all gloomy. Shall we eat some ice cream?"'), (8, None, '"Drinking nothing but alcohol is bad for your health. Hold on, I\'ll run out and buy some right now."'), (9, None, "'What is it you want a man to do for you?'"), (10, None, "'I want him to hold me tight.'"), (11, None, "'Starting today, you are Kaoru Kuroki.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'After her friend dashes out to buy ice cream, Kuroki remembers Muranishi giving her the name Kaoru Kuroki—and steps out onto the rain-slicked balcony.'
+CLOSING = ('kuroki', 'またね。')

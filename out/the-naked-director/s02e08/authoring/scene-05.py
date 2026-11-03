@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e08-scene-05'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 8
+SCENE = 5
+TITLE = "殺すなよトシ  (Don't Kill Him, Toshi)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'fujiwara': '藤原', 'furuya': '古谷', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E08'
+SOURCE_FILE = 'sources/the-naked-director/s02/e08.ja.srt'
+
+INTRO = "Back in Tokyo at his syndicate office, Furuya has a doctor tend to his stiffening leg before heading into the back room—unaware that Toshi has come alone to settle Muranishi's debt in blood."
+STORY = [('fujiwara', 'それポン。', "I'll claim that tile—pon.", [(105, 'それ ポン')], ''), ('furuya', 'おう、サヤカちょっと待て。', 'Hold on a second.', [(106, 'おう サヤカ ちょっと待て')], ''), ('furuya', 'これたまに動かさないと、マヒして退化しちまうんだと。', "The doctor says if I don't move this leg once in a while, it'll go numb and wither away.", [(108, 'これ たまに動かさないと'), (109, 'マヒして 退化しちまうんだと')], ''), ('furuya', 'あの時撃たれたのが高くついたもんだ。', 'Getting shot back then sure ended up costing me dearly.', [(110, 'あの時 撃たれたのが 高くついたもんだ')], ''), ('furuya', 'ちょっと奥の部屋にいいか？', 'Mind stepping into the back room with me?', [(111, 'ちょっと奥の部屋にいいか')], ''), ('furuya', 'その類いの目が俺の栄養になるんだよ。', 'That defiant look in your eyes is pure nourishment to me.', [(112, 'その類いの目が 俺の栄養になるんだよ')], ''), ('furuya', '大歓迎だ。', 'I welcome it wholeheartedly.', [(113, '大歓迎だ')], ''), ('toshi', '殺すなよ、トシ。', "Don't kill anyone, Toshi...", [(114, '殺すなよ トシ')], ''), ('fujiwara', '何やっとんじゃ！親父！', 'What the hell are you doing?! Boss!', [(115, '何やっとんじゃ'), (115, '親父')], 'trimmed furigana'), ('fujiwara', 'おい、なあ！', 'Hey—come on!', [(117, 'おい なあ')], ''), ('fujiwara', 'なあ、親父！', 'Stay with us, Boss!', [(118, 'なあ 親父')], ''), ('fujiwara', 'ダメだ。', "It's no use—he's gone.", [(120, 'ダメだ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"I\'ll claim that tile—pon."'), (1, None, "'Hold on a second.'"), (2, None, '"The doctor says if I don\'t move this leg once in a while, it\'ll go numb and wither away."'), (3, None, "'Getting shot back then sure ended up costing me dearly.'"), (4, None, "'Mind stepping into the back room with me?'"), (5, None, "'That defiant look in your eyes is pure nourishment to me.'"), (6, None, "'I welcome it wholeheartedly.'"), (7, None, '"Don\'t kill anyone, Toshi..."'), (8, None, "'What the hell are you doing?! Boss!'"), (9, None, "'Hey—come on!'"), (10, None, "'Stay with us, Boss!'"), (11, None, '"It\'s no use—he\'s gone."')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Whispering Muranishi's plea under his breath, Toshi bursts into Furuya's office to end the boss's reign and falls under the blades of Furuya's bodyguards."
+CLOSING = ('toshi', 'さようなら。')

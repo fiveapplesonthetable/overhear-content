@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e08-scene-04'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 8
+SCENE = 4
+TITLE = 'それでも俺は生きてる  (Even So, I Am Alive!)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E08'
+SOURCE_FILE = 'sources/the-naked-director/s02/e08.ja.srt'
+
+INTRO = 'Still staring down the barrel of Toshi\'s gun on the cliff edge, Muranishi proclaims an adult version of "We Are the World" celebrating boundless desire for every person on earth.'
+STORY = [('muranishi', 'ウィー・アー・ザ・ワールドだ。ウィー・アー・ザ・ワールドのアダルト版を作るんだよ！', 'It\'s "We Are the World"! I\'m going to make the adult version of "We Are the World"!', [(76, 'ウィー･アー･ザ･ワールド'), (77, 'アダルト版を作るんだよ')], ''), ('muranishi', '男と女じゃなくてもいい。男同士、女同士、誰と誰がセックスしたっていい！', "It doesn't have to be a man and a woman—men together, women together, anyone can make love with anyone!", [(78, '男と女じゃなくてもいい'), (79, '男同士 女同士'), (82, '誰と誰がセックスしたっていい')], ''), ('muranishi', '白、黒、黄色、あらゆる人種、あらゆる性癖。', 'White, Black, Asian—every race and every desire!', [(83, '白 黒 黄色 あらゆる人種'), (84, 'あらゆる性癖')], ''), ('muranishi', '平等なセックスを俺が世界に訴えかけるんだ！', 'I will champion equal love and desire to the entire world!', [(85, '平等なセックスを 俺が世界に訴えかけるんだ')], ''), ('muranishi', '見ろトシ！想像しただけで興奮してきたぞ。', 'Look at me, Toshi! Just imagining it gets me fired up!', [(86, '見ろ トシ'), (87, '想像しただけで興奮してきたぞ')], ''), ('muranishi', 'これだよ、これが答えだ！', 'This is it—this is the answer!', [(88, 'これだよ これが答えだ')], ''), ('muranishi', 'ナイスでビューティフルでエキサイティングでファンタスティックなアイデアが、無限に出てくるんだよ俺は。', 'Nice, beautiful, exciting, fantastic ideas pour out of me without limit!', [(91, 'ナイスで ビューティフルで'), (92, 'エキサイティングで ファンタスティックなアイデアが'), (93, '無限に出てくるんだよ 俺は')], ''), ('muranishi', 'だからトシ、どんなことがあっても俺は殺さないほうがいい。', 'So Toshi, no matter what happens, you are better off not killing me!', [(94, 'だから トシ'), (95, 'どんなことがあっても 俺は殺さないほうがいい')], ''), ('muranishi', '殺すな、トシ！', "Don't kill me, Toshi!", [(96, '殺すな トシ')], ''), ('muranishi', '生きてるぞ。おいトシ、俺は生きてるぞ！', "I'm alive! Hey Toshi, I am alive!", [(97, '生きてるぞ'), (98, 'おい トシ 俺は生きてるぞ')], ''), ('muranishi', 'どんなに間違っても、それでも俺は生きてる！だったらトシ、これは正解だろ！', 'No matter how many mistakes I make, even so I am alive! That means this is the right answer, Toshi!', [(100, 'どんなに間違っても それでも俺は生きてる'), (101, 'だったら トシ これは正解だろ')], ''), ('muranishi', '生きてるぞ！', 'I am alive!', [(103, '生きてるぞ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '\'It\\\'s "We Are the World"! I\\\'m going to make the adult version of "We Are the World"!\''), (1, None, '"It doesn\'t have to be a man and a woman—men together, women together, anyone can make love with anyone!"'), (2, None, "'White, Black, Asian—every race and every desire!'"), (3, None, "'I will champion equal love and desire to the entire world!'"), (4, None, "'Look at me, Toshi! Just imagining it gets me fired up!'"), (5, None, "'This is it—this is the answer!'"), (6, None, "'Nice, beautiful, exciting, fantastic ideas pour out of me without limit!'"), (7, None, "'So Toshi, no matter what happens, you are better off not killing me!'"), (8, None, '"Don\'t kill me, Toshi!"'), (9, None, '"I\'m alive! Hey Toshi, I am alive!"'), (10, None, "'No matter how many mistakes I make, even so I am alive! That means this is the right answer, Toshi!'"), (11, None, "'I am alive!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Toshi fires a single shot past Muranishi's head and drives away in silence, leaving Muranishi laughing wildly on the cliff and shouting that being alive makes everything right."
+CLOSING = ('muranishi', 'またね。')
