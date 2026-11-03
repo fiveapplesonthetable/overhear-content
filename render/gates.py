@@ -176,11 +176,12 @@ class AudioGates:
             else:
                 break
 
-        # Also strip any isolated < 120 ms pre-speech click separated by >= 60 ms before main speech
+        # Also strip any isolated <= 220 ms pre-speech breath/shush/click separated by >= 35 ms before main speech
         if len(islands) >= 2:
             first_s, first_e = islands[0]
             next_s, _ = islands[1]
-            if (first_e - first_s) * 10 <= 120 and (next_s - first_e) * 10 >= 60:
+            first_pk = float(rms[first_s:first_e].max()) if first_e > first_s else 0.0
+            if (first_e - first_s) * 10 <= 220 and (next_s - first_e) * 10 >= 35 and first_pk < pk_rms * 0.35:
                 cut_start = max(0, (next_s - 2) * hop)
                 wav = wav[cut_start:]
                 rms = librosa.feature.rms(y=wav, frame_length=hop * 2, hop_length=hop)[0]
@@ -257,7 +258,14 @@ class AudioGates:
         for idx, (len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen) in enumerate(prepped):
             emb = self.get_embedding(w_16k, 16000)
             sim_val = float(torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item())
-            sim_thresh = 0.78 if lang == "en" else 0.67
+            if lang == "en" and len(w_16k) >= 40000:
+                # Split-window speaker check: catch any 2s opening/closing roleplay flip out of British 'sky'
+                emb_h = self.get_embedding(w_16k[:35200], 16000)
+                emb_t = self.get_embedding(w_16k[-35200:], 16000)
+                sim_h = float(torch.nn.functional.cosine_similarity(emb_h, self.ref_embeddings[ref_path], dim=0).item())
+                sim_t = float(torch.nn.functional.cosine_similarity(emb_t, self.ref_embeddings[ref_path], dim=0).item())
+                sim_val = min(sim_val, sim_h, sim_t)
+            sim_thresh = 0.82 if lang == "en" else 0.67
             sim_ok = sim_val >= sim_thresh
 
             segs, _ = self.whisper.transcribe(
@@ -301,7 +309,7 @@ class AudioGates:
             best = min(passing, key=lambda x: (x["cer_bucket"], x["pros_pen"], -x["sim"], x["cer"]))
             ok = True
         else:
-            best = min(cands, key=lambda x: (sum(x["fails"].values()), x["cer"], x["pros_pen"], -x["sim"]))
+            best = min(cands, key=lambda x: (x["fails"]["similarity"], sum(x["fails"].values()), -x["sim"], x["cer"], x["pros_pen"]))
             ok = False
 
         counts = {

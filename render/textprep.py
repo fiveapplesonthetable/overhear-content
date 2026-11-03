@@ -199,11 +199,54 @@ _INTRO_COMMA_RE = re.compile(
 )
 
 
+_US_TO_UK_WORDS = (
+    ("canceled", "cancelled"),
+    ("canceling", "cancelling"),
+    ("traveled", "travelled"),
+    ("traveling", "travelling"),
+    ("favorite", "favourite"),
+    ("favorites", "favourites"),
+    ("color", "colour"),
+    ("colors", "colours"),
+    ("realize", "realise"),
+    ("realized", "realised"),
+    ("realizes", "realises"),
+    ("apologize", "apologise"),
+    ("apologized", "apologised"),
+    ("organize", "organise"),
+    ("organized", "organised"),
+    ("recognize", "recognise"),
+    ("recognized", "recognised"),
+    ("center", "centre"),
+    ("neighbor", "neighbour"),
+    ("neighbors", "neighbours"),
+    ("humor", "humour"),
+    ("honor", "honour"),
+    ("rumor", "rumour"),
+    ("behavior", "behaviour"),
+    ("offense", "offence"),
+    ("defense", "defence"),
+    ("gray", "grey"),
+)
+
+
 def polish_english_commas(text: str) -> str:
     """Insert missing natural prosodic commas after introductory English phrases for TTS delivery."""
     def _repl(m):
         return f"{m.group(1)}{m.group(2)}, "
     return _INTRO_COMMA_RE.sub(_repl, text)
+
+
+def sanitize_english_narrator_tts(text: str) -> str:
+    """Prevent Qwen3-TTS from entering character-roleplay mode on quoted/exclamatory translations or US spellings."""
+    t = polish_english_commas(text)
+    t = t.replace("“", "").replace("”", "").replace('"', "")
+    # Strip single quotation marks around quoted translations while preserving contractions & possessives (don't, Carlos's, parents')
+    t = re.sub(r"(^|[\s(\[])'|(?<![sS])'(?=[\s.,;:!?)\]]|$)|(?<=[.!?…])'", r"\1", t)
+    t = t.replace("!", ".")
+    for us, uk in _US_TO_UK_WORDS:
+        t = re.sub(rf"\b{us}\b", lambda m, u=uk: u.capitalize() if m.group(0)[0].isupper() else u, t, flags=re.I)
+    return re.sub(r"\s+", " ", t).strip()
 
 
 def prepare_segment(seg_i: int, role: str, text: str, lang: str, words, policy: str, gap: float, isent: float,
@@ -214,7 +257,7 @@ def prepare_segment(seg_i: int, role: str, text: str, lang: str, words, policy: 
     out = []
     if lang != "ru" or policy == "none":
         for k, (a, b, s) in enumerate(sents):
-            s_tts = polish_english_commas(s) if lang == "en" else s
+            s_tts = sanitize_english_narrator_tts(s) if lang == "en" else s
             out.append(Sentence(seg_i, k, role, lang, s, s_tts, a, gap=(gap if k == len(sents) - 1 else isent)))
         return out
     inserts, expected, missing = segment_inserts(text, words, policy, hom)

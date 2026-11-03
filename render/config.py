@@ -96,7 +96,7 @@ def sentence_signature(s, lang):
     if lang == "ar" and ar:
         return {"ar": _public(ar), "takeGates": "v3"}
     d = tts_signature(s, with_en=False, with_ar=False)
-    d["takeGates"] = "v4-sky-uk" if lang == "en" else "v2"
+    d["takeGates"] = "v5-sky-pure" if lang == "en" else "v2"
     return d    # Other languages' sentence caches do not depend on Arabic/narrator engines.
 
 
@@ -111,7 +111,7 @@ def engine_label(s, lang):
 def assembly_signature(s):
     return {"audio": s["audio"], "align": s["align"], "renderVersion": s["renderVersion"],
             "turnMaxChars": int(s["audio"].get("turnMaxChars", 240)),
-            "inlineCarrier": "v2", "warmMaster": "v1"}
+            "inlineCarrier": "v3", "warmMaster": "v1"}
 
 
 def sha(obj) -> str:

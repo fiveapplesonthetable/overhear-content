@@ -128,7 +128,8 @@ def _build_carrier_spec(segments, a, b):
                 comma_pause = True
             if k == b and not punct:
                 punct = "."
-            for ch in ("phrase" + punct):
+            # Use pure nasal-bounded 'name' (/n eɪ m/) instead of sibilant-bounded 'phrase' (/f r eɪ z/) so zero /f/ or /z/ hiss ever bleeds
+            for ch in ("name" + punct):
                 buf.append(ch)
             if k < b:
                 if k + 1 <= b and segments[k + 1]["v"] == "narrator" and not seg_tokens(segments[k + 1]["t"]):
@@ -234,7 +235,7 @@ class Renderer:
                 sents.append(st)
         uniq = {}
         for ch_obj in carriers:
-            c_tts = textprep.polish_english_commas(ch_obj.text) if narr_lang == "en" else ch_obj.text
+            c_tts = textprep.sanitize_english_narrator_tts(ch_obj.text) if narr_lang == "en" else ch_obj.text
             uniq.setdefault(ch_obj.key, {"key": ch_obj.key, "voice": narr_voice, "lang": narr_lang,
                                          "text_tts": c_tts, "text_plain": ch_obj.text})
         for st in sents:

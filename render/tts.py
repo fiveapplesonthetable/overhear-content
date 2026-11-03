@@ -76,6 +76,12 @@ class QwenEngine:
         if voice not in self.prompts:
             ref = self.voices.ref_path(voice)
             x, sr = sf.read(str(ref), dtype="float32")
+            if voice == "sky" and len(x) > int(7.88 * sr):
+                # Strip the cut-off 7.90..8.08s post-sentence inhale/shush in sky.flac and pad clean digital silence
+                x = x[:int(7.88 * sr)].copy()
+                fn = int(0.015 * sr)
+                x[-fn:] *= 0.5 * (1.0 + np.cos(np.linspace(0.0, np.pi, fn, dtype=np.float32)))
+                x = np.concatenate([x, np.zeros(int(0.16 * sr), dtype=np.float32)])
             self.prompts[voice] = self.q.create_voice_clone_prompt(ref_audio=(x, sr), ref_text=self.voices.refs[voice]["text"])[0]
         return self.prompts[voice]
 
@@ -208,7 +214,7 @@ class QwenCustomEngine:
                     try:
                         wavs_en = self.generate(
                             [(c["voice"], langs[c["lang"]], c["text_tts"]) for c in chunk_en],
-                            seed, temperature=0.60, repetition_penalty=1.08, top_k=30, top_p=0.88,
+                            seed, temperature=0.54, repetition_penalty=1.08, top_k=25, top_p=0.85,
                         )
                     except torch.cuda.OutOfMemoryError:
                         torch.cuda.empty_cache()
