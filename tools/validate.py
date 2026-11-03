@@ -29,7 +29,7 @@ LEX_SEEN = {}               # lang -> field -> lemma -> {value: scene file}; jud
 LEX_FIELDS = ("pos", "gender", "aspect", "pair", "stress")
 ART_SEEN = {}               # md5 of a scene's art -> scenes using it; judged by check_art (one picture per scene)
 TEMPLATE_SEEN = {}          # show -> explanation skeleton -> [(where, scene id)]; judged by check_templates (whole show)
-PLACEHOLDER_SUMMARY = ("The characters discuss their situation", "ENG ")
+PLACEHOLDER_SUMMARY = ("The characters discuss their situation", "ENG ", "English gloss.", "Notice the expression here.")
 FAREWELL = {"ru": re.compile(r"Пока|До свидания|До встречи|До завтра|До скорого|До скорой|Увидимся|Всего (хорошего|доброго)|Счастливо|Хорошего дня|Спокойной ночи|Прощайте|Удачи", re.I),
             "fr": re.compile(r"À bientôt|Au revoir|À demain|À plus|À tout à l'heure|À la prochaine|Salut|Bonne (soirée|journée|nuit)|Bonsoir|Bon courage", re.I),
             "es": re.compile(r"\b(?:Adiós|Hasta (?:luego|pronto|mañana|la próxima)|Nos vemos|Chao|Chau|Buenas (?:noches|tardes))\b", re.I)}
