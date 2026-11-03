@@ -3,46 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 15
-TITLE = 'Scene 15  (Scene 15)'
+TITLE = 'もう帰っていいですよ  (You Can Go Home Now)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'client_f': '女性客', 'muranishi': '村西', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''ちくしょう２万やられた邪魔するぞ''', '''-I lost 20,000 yen! -Hey, losers.''', [(360, '''‎（トシ）ちくしょう ２万やられた ‎（武井）邪魔するぞ''')], ''),
-    ('muranishi', '''…ホームラン！''', '''No translation.''', [(361, '''‎（実況）‎…ホームラン！''')], ''),
-    ('muranishi', '''あ～あきったねなかなかのゴミためだなおい''', '''Damn, it's filthy.''', [(362, '''‎（武井）あ～あ きったね ‎なかなかのゴミためだな おい''')], ''),
-    ('muranishi', '''まあネズミにはちょうどいっか''', '''Perfect for sewer rats.''', [(363, '''‎まあ ネズミには ちょうどいっか''')], ''),
-    ('muranishi', '''お前らみたいな凶悪な前科もんは―''', '''We need to keep a close eye on nasty criminals like yourselves.''', [(364, '''‎お前らみたいな ‎凶悪な前科もんは‎―''')], ''),
-    ('muranishi', '''きっちり監視しとかないと''', '''We need to keep a close eye on nasty criminals like yourselves.''', [(365, '''‎きっちり監視しとかないと''')], ''),
-    ('muranishi', '''世間がいろいろうるせえんだよハハ…''', '''The public demands it.''', [(366, '''‎世間が いろいろうるせえんだよ ‎ハハ…''')], ''),
-    ('muranishi', '''いちゃもんつけてんじゃねえよ！''', '''What do you want?''', [(367, '''‎（トシ） ‎いちゃもんつけてんじゃねえよ！''')], ''),
-    ('muranishi', '''息臭えから口閉じてろパンチ''', '''Shut your stinkhole, perm-head.''', [(368, '''‎（菊池） ‎息臭えから口 閉じてろ パンチ''')], ''),
-    ('muranishi', '''あ？''', '''What?''', [(369, '''‎（トシ）あ？''')], ''),
-    ('muranishi', '''てめえもパンチだろうがよ''', '''You got a perm, too.''', [(370, '''‎てめえもパンチだろうがよ''')], ''),
-    ('muranishi', '''おめえのと違えんだよ''', '''Mine is better.''', [(371, '''‎（菊池）おめえのと‎違(ちげ)‎えんだよ''')], ''),
-    ('muranishi', '''こっちはいいコテ使ってんだよおめえ''', '''I use a better curling iron.''', [(372, '''‎（トシ）こっちはいいコテ ‎使ってんだよ おめえ''')], ''),
-    ('muranishi', '''おめえのカール全然効いてねえじゃ…''', '''-Your curls are weak. -That's my style.''', [(373, '''‎おめえのカール ‎全然 効いてねえじゃ…''')], ''),
-    ('muranishi', '''効かせてねえんだよえ？''', '''-Your curls are weak. -That's my style.''', [(374, '''‎（菊池）効かせてねえんだよ ‎（トシ）え？''')], ''),
-    ('muranishi', '''三振！おい''', '''Hey! What the hell, PL High School!''', [(375, '''‎（実況）‎三振！ ‎（トシ）おい''')], ''),
-    ('muranishi', '''ＰＬよ！何やってんだよ''', '''Hey! What the hell, PL High School!''', [(376, '''‎ＰＬよ！　何やってんだよ''')], ''),
-    ('muranishi', '''ああっ…''', '''No translation.''', [(377, '''‎ああっ…''')], ''),
-    ('muranishi', '''野球賭博かいい度胸してんなおい''', '''Sports gambling?''', [(378, '''‎野球賭博か ‎いい度胸してんな おい''')], ''),
-    ('muranishi', '''四六時中見張られてると思っとけよ''', '''I've got my eyes on you around the clock.''', [(379, '''‎（武井）四六時中 ‎見張られてると思っとけよ''')], ''),
-    ('muranishi', '''誰だ？お前''', '''Who the fuck are you?''', [(380, '''‎誰だ？　お前''')], ''),
-    ('muranishi', '''私が社長ですので何かあったら私にお願いします''', '''All inquiries go through me.''', [(381, '''‎私が社長ですので ‎何かあったら私にお願いします''')], ''),
-    ('muranishi', '''何だと？''', '''If you say so.''', [(382, '''‎何だと？''')], ''),
-    ('muranishi', '''次ここに入りたい時は''', '''Next time you visit,''', [(383, '''‎（川田）次 ここに入りたい時は''')], ''),
-    ('muranishi', '''令状持ってきてください''', '''bring a warrant.''', [(384, '''‎令状 持ってきてください''')], ''),
-    ('muranishi', '''ハハ…''', '''No translation.''', [(385, '''‎ハハ…''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
+INTRO = 'A cheerful replacement actress arrives on location ready to perform, puzzled only by the kanji in her script. When Muranishi sees the other young woman crying in fear, he sends her straight home, fires the disrespectful hired film crew on the spot, and hands the camera, lights, and sound boom to his own loyal team. Listen to the Japanese first.'
+STORY = [('toshi', 'よう、来たな！今日出演してくれる女優だ。はい、台本。', "Hey, you made it! Here's the actress starring for us today—here's your script.", [(484, 'よう 来たな'), (486, '今日 出演してくれる女優だ'), (487, 'はい 台本')], ''), ('client_f', '何これ、焼き肉？', 'What does this say—is it a barbecue place?', [(488, '何これ'), (488, '焼き肉')], ''), ('toshi', '振り仮名書いてといてやれ。', 'Write pronunciation kana next to the kanji for her.', [(490, '振り仮名 書いてといてやれ')], ''), ('muranishi', 'この子のこと、だまして連れてきたんですか？', 'Did you trick this girl into coming here?', [(494, 'この子のこと だまして 連れてきたんですか')], ''), ('muranishi', 'もう帰っていいですよ。', 'You are free to go home now.', [(496, 'もう帰っていいですよ')], ''), ('muranishi', 'あなたたちも帰っていいですよ。', 'And the rest of you crew members can go home too.', [(502, 'あなたたちも帰っていいですよ')], ''), ('muranishi', '俺のエロビデオとお前らのクソ映画目の前にあったら、みんな俺のを手に取るんだよ。', 'Put my video next to your lousy movie, and everyone will reach for mine!', [(508, '俺のエロビデオとお前らの クソ映画 目の前にあったら'), (509, 'みんな 俺のを手に取るんだよ')], ''), ('muranishi', '君は残ってくれるんだね？はい、よろしく。', "You're staying with us, aren't you? Great, glad to have you.", [(515, '君は残ってくれるんだね'), (517, 'はい よろしく')], ''), ('client_f', '奈緒子でーす。よろしくお願いします！', "I'm Naoko! Nice to work with you all!", [(518, '奈緒子でーす よろしくお願いします')], ''), ('muranishi', 'はい、きれいにしてあげて。ラグビー、カメラ頼む。', "Alright, help her look gorgeous. Rugby, I'm counting on you for camera.", [(520, 'はい きれいにしてあげて'), (522, 'ラグビー'), (523, 'カメラ頼む')], ''), ('toshi', '三田村、お前照明。', "Mitamura, you're on lighting.", [(524, '三田村'), (525, 'お前 照明')], ''), ('muranishi', 'トシ、録音。', "Toshi, you're on sound.", [(527, 'トシ 録音')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Hey, you made it! Here's the actress starring for us today—here's your script.'"), (1, None, "'What does this say—is it a barbecue place?'"), (2, None, "'Write pronunciation kana next to the kanji for her.'"), (3, None, "'Did you trick this girl into coming here?'"), (4, None, "'You are free to go home now.'"), (5, None, "'And the rest of you crew members can go home too.'"), (6, None, "'Put my video next to your lousy movie, and everyone will reach for mine!'"), (7, None, "'You're staying with us, aren't you? Great, glad to have you.'"), (8, None, "'I'm Naoko! Nice to work with you all!'"), (9, None, "'Alright, help her look gorgeous. Rugby, I'm counting on you for camera.'"), (10, None, "'Mitamura, you're on lighting.'"), (11, None, "'Toshi, you're on sound.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Muranishi stand up for consent by letting the scared actress leave, throw the arrogant crew off his set, and promote his two recruits and Toshi into a scrappy filmmaking unit. Until next time.'
 CLOSING = ('muranishi', 'じゃあね。')

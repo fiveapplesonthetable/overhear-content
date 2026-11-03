@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 9
-TITLE = 'Scene 9  (Scene 9)'
+TITLE = "革命だよ、ひっくり返すんだよ  (It's a Revolution—We'll Turn It Upside Down)"
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'furuya': '古谷', 'kawada': '川田', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''起きてたんだね''', '''You're awake.''', [(263, '''‎起きてたんだね''')], ''),
-    ('muranishi', '''うん''', '''No translation.''', [(264, '''‎（陽子）うん''')], ''),
-    ('muranishi', '''すばらしいよこれ''', '''This is beautiful.''', [(265, '''‎すばらしいよ これ''')], ''),
-    ('muranishi', '''うん…''', '''No translation.''', [(266, '''‎（陽子）うん…''')], ''),
-    ('muranishi', '''ありがとう''', '''Thank you.''', [(267, '''‎ありがとう''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Setting up their new company in Tokyo, Muranishi insists that clean-record Kawada serve as company president and promises a revolution in adult video. Soon distributor Furuya drops by their spacious new office with a local turf map and a generous cash welcome. Listen to the Japanese first.'
+STORY = [('kawada', 'やはり村西さんが社長にはふさわしいんじゃないかと。', 'Honestly, I think you are the one best suited to be president, Mr. Muranishi.', [(302, 'やはり村西さんが 社長には ふさわしいんじゃないかと')], ''), ('muranishi', '川田さんが適任です。', "You're the right man for the job, Mr. Kawada.", [(303, '川田さんが適任です')], ''), ('kawada', '分かりました。やるからには責任持ってやります。', "Understood. Since I'm doing it, I'll take full responsibility.", [(305, '分かりました やるからには責任持ってやります')], ''), ('muranishi', 'お願いします。革命だよ、革命。ひっくり返すんだよ。', "We're counting on you. It's a revolution—we're going to turn the whole industry upside down!", [(306, 'お願いします'), (309, '革命だよ 革命 ひっくり返すんだよ')], ''), ('kawada', '革命かあ。', 'A revolution, huh...', [(310, '革命かあ')], ''), ('furuya', 'よう。見た目の割には広くていいとこだろ？', "Hey there. Surprisingly spacious and nice for how it looks outside, isn't it?", [(312, 'よう'), (314, '見た目の割には 広くて いいとこだろ')], ''), ('muranishi', 'いい物件回してもらって、ありがとうございます。', 'Thank you for hooking us up with such a great property.', [(315, 'いい物件 回してもらって ありがとうございます')], ''), ('furuya', 'いいんだよ。お前たちの裏本にはさんざん稼がせてもらったからな。', "Don't mention it—I made plenty of money off your underground magazines.", [(316, 'いいんだよ'), (317, 'お前たちの裏本には さんざん稼がせてもらったからな')], ''), ('furuya', 'いいよ、それよりそれ渡しておけ。', 'Never mind that—go ahead and hand them that map.', [(322, 'いいよ'), (322, 'それより それ渡しておけ')], ''), ('furuya', 'まずはこれで何かうまいもんでも食いな。', 'First, use this cash to treat yourselves to something tasty.', [(328, 'まずは これで 何かうまいもんでも食いな')], ''), ('kawada', 'ちょっと、ダメだよ。', "Hold on, we shouldn't accept that.", [(330, 'ちょっと ダメだよ')], ''), ('furuya', '困ったことあったら何でも言ってきな。', 'If you ever run into trouble, just come tell me anything.', [(331, '困ったことあったら 何でも言ってきな')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Honestly, I think you are the one best suited to be president, Mr. Muranishi.'"), (1, None, "'You're the right man for the job, Mr. Kawada.'"), (2, None, "'Understood. Since I'm doing it, I'll take full responsibility.'"), (3, None, "'We're counting on you. It's a revolution—we're going to turn the whole industry upside down!'"), (4, None, "'A revolution, huh...'"), (5, None, "'Hey there. Surprisingly spacious and nice for how it looks outside, isn't it?'"), (6, None, "'Thank you for hooking us up with such a great property.'"), (7, None, "'Don't mention it—I made plenty of money off your underground magazines.'"), (8, None, "'Never mind that—go ahead and hand them that map.'"), (9, None, "'First, use this cash to treat yourselves to something tasty.'"), (10, None, "'Hold on, we shouldn't accept that.'"), (11, None, "'If you ever run into trouble, just come tell me anything.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Kawada accept responsibility as company president, Muranishi vow to turn the video industry upside down, and Furuya thank them for the fortune their magazines earned him. Until next time.'
+CLOSING = ('muranishi', 'また明日。')

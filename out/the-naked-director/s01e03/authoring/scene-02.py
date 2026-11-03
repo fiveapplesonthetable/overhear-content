@@ -3,40 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 2
-TITLE = 'Scene 2  (Scene 2)'
+TITLE = "行くよ、北海道に  (I'll Go to Hokkaido)"
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'kitamori': '北森', 'muranishi': '村西', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''みーんなそのおもちゃに夢中なんだから''', '''Why is everyone so obsessed with that toy?''', [(16, '''‎みーんな そのおもちゃに ‎夢中なんだから''')], ''),
-    ('muranishi', '''ねえ''', '''Hey, it's been a while since you started crashing here.''', [(17, '''‎（典子）ねえ''')], ''),
-    ('muranishi', '''あんたが転がり込んできて結構たつじゃない''', '''Hey, it's been a while since you started crashing here.''', [(18, '''‎あんたが転がり込んできて ‎結構たつじゃない''')], ''),
-    ('muranishi', '''すまん''', '''Sorry.''', [(19, '''‎（‎村西(むらにし)‎）すまん''')], ''),
-    ('muranishi', '''いやそういう意味じゃないの''', '''That's not what I mean.''', [(20, '''‎（典子） ‎いや そういう意味じゃないの''')], ''),
-    ('muranishi', '''フッうちいいんだあ''', '''I don't mind at all.''', [(21, '''‎フッ うち いいんだあ''')], ''),
-    ('muranishi', '''あんたがどこの誰でも''', '''I don't care who you are or what you've done.''', [(22, '''‎あんたが どこの誰でも''')], ''),
-    ('muranishi', '''訳ありでも''', '''I don't care who you are or what you've done.''', [(23, '''‎訳ありでも''')], ''),
-    ('muranishi', '''だからさ''', '''So...''', [(24, '''‎だからさ''')], ''),
-    ('muranishi', '''ずーっと''', '''don't leave me.''', [(25, '''‎ずーっと''')], ''),
-    ('muranishi', '''いてね''', '''don't leave me.''', [(26, '''‎いてね''')], ''),
-    ('muranishi', '''ねえじゃ行ってくんね''', '''I'm off.''', [(27, '''‎（典子）ねえ じゃ 行ってくんね''')], ''),
-    ('muranishi', '''いってきまーす''', '''Bye.''', [(28, '''‎（典子）いってきまーす ‎（ドアの閉まる音）''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "At a crowded Tokyo club, Toshi and bookstore manager Kitamori secretly meet Muranishi with cash in a locker. Hearing that police harassment has shaken all the branch managers back north, Muranishi agrees to return to Hokkaido and packs up late at night. Listen to the Japanese first, then we'll go through it together."
+STORY = [('toshi', '村西とおるだな？', "You're Toru Muranishi, right?", [(30, '村西とおるだな')], ''), ('muranishi', 'くだらんことをするな。金は？', "Cut out the nonsense. Where's the money?", [(32, 'くだらんことをするな'), (34, '金は')], ''), ('kitamori', '会長、お元気そうで。いつものロッカーに。', "Chairman, you look well. It's in the usual locker.", [(33, '会長 お元気そうで'), (35, 'いつものロッカーに')], ''), ('kitamori', '会社のほうは何とかやってますが、お客さん減っちゃって。', "We're managing to keep the company running somehow, though we've lost customers.", [(36, '会社のほうは 何とかやってますが'), (38, 'お客さん減っちゃって')], ''), ('muranishi', '苦労かけるな。', 'Sorry to put you through such trouble.', [(39, '苦労かけるな')], ''), ('kitamori', '三日後、大丈夫ですか？', 'Are you still okay to come in three days?', [(40, '日後 大丈夫ですか')], 'Spelled number in kanji.'), ('kitamori', '長い間会長不在で、支店長がみんな動揺してて。', 'With the chairman absent for so long, all the branch managers are rattled.', [(42, '長い間 会長不在で 支店長が みんな動揺してて')], ''), ('kitamori', '顔だけでも。', 'Even just showing your face would help.', [(43, '顔だけでも')], ''), ('muranishi', '分かった。行くよ、北海道に。', "Understood. I'll go to Hokkaido.", [(45, '分かった'), (46, '行くよ 北海道に')], ''), ('muranishi', '北海道、涼しいのか？どんな格好したらいいのか忘れたよ。', "Is Hokkaido cool right now? I've forgotten what kind of clothes to wear.", [(47, '北海道 涼しいのか'), (48, 'どんな格好したらいいのか 忘れたよ')], ''), ('muranishi', '何日か空けるかもしれない。', 'I might be away for a few days.', [(52, '何日か空けるかもしれない')], ''), ('toshi', 'いつでも帰ってきてねってさ。', 'She told you to come back anytime.', [(54, 'いつでも帰ってきてね')], 'Attributed farewell line.')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'You're Toru Muranishi, right?'"), (1, None, "'Cut out the nonsense. Where's the money?'"), (2, None, "'Chairman, you look well. It's in the usual locker.'"), (3, None, "'We're managing to keep the company running somehow, though we've lost customers.'"), (4, None, "'Sorry to put you through such trouble.'"), (5, None, "'Are you still okay to come in three days?'"), (6, None, "'With the chairman absent for so long, all the branch managers are rattled.'"), (7, None, "'Even just showing your face would help.'"), (8, None, "'Understood. I'll go to Hokkaido.'"), (9, None, "'Is Hokkaido cool right now? I've forgotten what kind of clothes to wear.'"), (10, None, "'I might be away for a few days.'"), (11, None, "'She told you to come back anytime.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Kitamori report how daily police visits are hurting business, Muranishi agree to visit Hokkaido in three days, and his Tokyo hostess tell him he can come back anytime. See you next time.'
+CLOSING = ('muranishi', 'またね。')

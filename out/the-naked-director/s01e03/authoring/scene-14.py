@@ -3,40 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 14
-TITLE = 'Scene 14  (Scene 14)'
+TITLE = "女の子にそんな言い方しないで  (Don't Speak to a Girl Like That)"
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'editor': '編集者', 'reika': '麗華', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''お願いどうしたの？''', '''What's the matter?''', [(349, '''‎（加代）お願い ‎（恵美）どうしたの？''')], ''),
-    ('muranishi', '''大丈夫？''', '''Are you okay?''', [(350, '''‎大丈夫？''')], ''),
-    ('muranishi', '''近くにいてほしいのいつも''', '''I want you to stay by my side... always.''', [(351, '''‎（加代） ‎近くにいてほしいの　いつも''')], ''),
-    ('muranishi', '''ごめんなさい''', '''I'm sorry.''', [(352, '''‎（恵美）ごめんなさい''')], ''),
-    ('muranishi', '''あなたを愛してるの分かってます''', '''-I love you. -I know.''', [(353, '''‎（加代）あなたを愛してるの ‎（恵美）分かってます''')], ''),
-    ('muranishi', '''ハァ…ハァ…''', '''No translation.''', [(354, '''‎（加代）ハァ… ハァ…''')], ''),
-    ('muranishi', '''ハァ…ハァ…''', '''No translation.''', [(355, '''‎ハァ… ハァ…''')], ''),
-    ('muranishi', '''ごめんなさい''', '''I'm sorry.''', [(356, '''‎（恵美）ごめんなさい''')], ''),
-    ('muranishi', '''おい…''', '''No translation.''', [(358, '''‎（トシ）おい…''')], ''),
-    ('muranishi', '''おお～！おいっ''', '''No translation.''', [(359, '''‎おお～！　おいっ''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'On the morning of their first shoot, veteran makeup artist Reika shows the rookies how studio props are prepared and helps the cast get ready. When an intimidating talent manager threatens a frightened young woman with penalty fees, Reika speaks up while the hired film crew complains about the script. Listen to the Japanese first.'
+STORY = [('student', 'これくらいで大丈夫でしょうか？', 'Will about this much be alright?', [(433, 'これくらいで大丈夫でしょうか')], ''), ('reika', 'はい、オーケーです。入れすぎないように注意して。', "Yes, that's okay. Just be careful not to put too much in.", [(434, 'はい オーケーです'), (436, '入れすぎないように注意して')], ''), ('reika', 'ほら、かわいくなった。メークは女の子の特権だよね。', "Look how cute you look now. Makeup really is a girl's special privilege.", [(444, 'ほら かわいくなった メークは女の子の特権だよね')], ''), ('reika', 'できました。確認お願いします。', 'All finished—please take a look and check.', [(445, 'できました 確認お願いします')], ''), ('student', 'すげえ。俺たちが見てたのは偽もんだったんすね。', 'Amazing—so what we used to watch on screen was all fake!', [(454, 'すげえ'), (456, '俺たちが見てたのは 偽もんだったんすね')], ''), ('reika', 'はい、見せて。はい、出来上がり！', 'Let me see—alright, all done!', [(460, 'はい 見せて はい 出来上がり')], ''), ('editor', 'おい、スタッフさんがスタンバイしてんだよ。さっさとしろや。', 'Hey, the crew is standing by waiting for you. Hurry it up!', [(463, 'おい スタッフさんが スタンバイしてんだよ'), (464, 'さっさとしろや')], ''), ('editor', 'てめえ、賠償金払えんのか、こら。', 'Hey, do you think you can pay the penalty damages?', [(465, 'てめえ 賠償金 払えんのか こら')], ''), ('reika', 'ちょっと、女の子にそんな威圧的な言い方しないで。', "Hold on—please don't speak to a young woman in such an intimidating way.", [(466, 'ちょっと 女の子に そんな威圧的な言い方しないで')], ''), ('editor', '余計な口出しすんなよ。そちらさんの問題なんだからよ。', "Stay out of it—that's none of your business.", [(467, '余計な口出しすんなよ そちらさんの問題なんだからよ')], ''), ('reika', '撮影に影響が出ますよ。', "It's going to affect the shoot.", [(468, '撮影に影響が出ますよ')], ''), ('editor', 'もうさっさと終わらせましょ、こんな仕事。しかしひでえな、作文かこれ？', "Let's just get a job like this over with fast—honestly, what an awful script!", [(471, 'もうさっさと'), (471, '終わらせましょ こんな仕事'), (474, 'しかし ひでえな'), (474, '作文か これ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Will about this much be alright?'"), (1, None, "'Yes, that's okay. Just be careful not to put too much in.'"), (2, None, "'Look how cute you look now. Makeup really is a girl's special privilege.'"), (3, None, "'All finished—please take a look and check.'"), (4, None, "'Amazing—so what we used to watch on screen was all fake!'"), (5, None, "'Let me see—alright, all done!'"), (6, None, "'Hey, the crew is standing by waiting for you. Hurry it up!'"), (7, None, "'Hey, do you think you can pay the penalty damages?'"), (8, None, "'Hold on—please don't speak to a young woman in such an intimidating way.'"), (9, None, "'Stay out of it—that's none of your business.'"), (10, None, "'It's going to affect the shoot.'"), (11, None, "'Let's just get a job like this over with fast—honestly, what an awful script!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "You heard the rookies marvel at behind-the-scenes studio tricks, Reika defend the scared young actress from threats, and the cynical hired crew mock Muranishi's screenplay. See you next time."
+CLOSING = ('reika', 'またね。')

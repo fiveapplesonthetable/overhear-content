@@ -3,48 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 8
-TITLE = 'Scene 8  (Scene 8)'
+TITLE = "次は東京へ行くんだよ  (Next We're Going to Tokyo)"
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'kawada': '川田', 'muranishi': '村西', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''立ち上がって''', '''Stand up.''', [(234, '''‎立ち上がって''')], ''),
-    ('muranishi', '''立ってして''', '''Do it standing.''', [(235, '''‎立ってして''')], ''),
-    ('muranishi', '''あっんっんっんっあっあっあっ…''', '''No translation.''', [(236, '''‎（陽子）あっ んっ んっ んっ ‎あっ あっ あっ…''')], ''),
-    ('muranishi', '''ああっんっんっんっ…''', '''No translation.''', [(237, '''‎ああっ んっ んっ んっ…''')], ''),
-    ('muranishi', '''奥さん''', '''Madam...''', [(238, '''‎（村西）奥さん''')], ''),
-    ('muranishi', '''旦那さんといつもこうしてやってたんですね？''', '''Did you do it like this with your husband?''', [(239, '''‎旦那さんと いつも ‎こうしてやってたんですね？''')], ''),
-    ('muranishi', '''そういつも立ってしてたの''', '''Yes, we always did it standing.''', [(240, '''‎そう いつも立ってしてたの''')], ''),
-    ('muranishi', '''あああっ…''', '''No translation.''', [(241, '''‎ああ あっ…''')], ''),
-    ('muranishi', '''あっあっ…もっと…もっと歩いて''', '''More! Walk around!''', [(242, '''‎あっ あっ… もっと… ‎もっと歩いて''')], ''),
-    ('muranishi', '''んっハァハァハァ…''', '''No translation.''', [(243, '''‎んっ ハァハァハァ…''')], ''),
-    ('muranishi', '''ああっあんあんあんもっとあっ…''', '''Yes!''', [(244, '''‎ああっ あん あん あん ‎もっと あっ…''')], ''),
-    ('muranishi', '''あっんっ…''', '''No translation.''', [(245, '''‎あっ んっ…''')], ''),
-    ('muranishi', '''弁当はいかがですか！''', '''Bento for sale!''', [(246, '''‎（村西）弁当はいかがですか！''')], ''),
-    ('muranishi', '''おいしい弁当あるよ！いかがですか！''', '''-Delicious bento for sale! -My Darling!''', [(247, '''‎おいしい弁当あるよ！ ‎いかがですか！''')], ''),
-    ('muranishi', '''あなた…ああ…''', '''Darling!''', [(248, '''‎（陽子）あなた… ああ…''')], ''),
-    ('muranishi', '''あなた…''', '''No translation.''', [(249, '''‎あなた…''')], ''),
-    ('muranishi', '''あっ…んっ…''', '''No translation.''', [(250, '''‎あっ… んっ…''')], ''),
-    ('muranishi', '''おいしい弁当はいかがですか！''', '''Delicious bento for sale!''', [(251, '''‎（村西） ‎おいしい弁当はいかがですか！''')], ''),
-    ('muranishi', '''カニ飯弁当イカ飯弁当何でもあるよ！''', '''Crab rice bento, squid rice bento, we have it all!''', [(252, '''‎カニ飯弁当 イカ飯弁当 ‎何でもあるよ！''')], ''),
-    ('muranishi', '''あなた！ああっあな…あなたああ…''', '''My darling!''', [(253, '''‎あなた！　ああっ ‎あな… あなた ああ…''')], ''),
-    ('muranishi', '''おいしい弁当はいかがですか！''', '''Delicious bento for sale!''', [(254, '''‎（村西） ‎おいしい弁当はいかがですか！''')], ''),
-    ('muranishi', '''あなたああっ…''', '''Delicious bento for sale!''', [(255, '''‎（陽子）あなた ああっ…''')], ''),
-    ('muranishi', '''ハァハァハァ…''', '''Call my name. It's Yoko.''', [(256, '''‎ハァハァハァ…''')], ''),
-    ('muranishi', '''陽子って…陽子って呼んで''', '''Call my name. It's Yoko.''', [(257, '''‎陽子って… 陽子って呼んで''')], ''),
-    ('muranishi', '''陽子陽子ああっああっ…''', '''Yoko.''', [(258, '''‎（村西）陽子 陽子 ‎（陽子）ああっ ああっ…''')], ''),
-    ('muranishi', '''ああっんっあっ…''', '''No translation.''', [(259, '''‎ああっ んっ あっ…''')], ''),
-    ('muranishi', '''陽子んっあっあっ…''', '''Yoko.''', [(260, '''‎（村西）陽子 ‎（陽子）んっ あっ あっ…''')], ''),
-    ('muranishi', '''陽子ああっ…''', '''Yoko.''', [(261, '''‎（村西）陽子 ‎（陽子）ああっ…''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'When Toshi finally walks out of prison, Muranishi is waiting at the gate ready to team up again. They head straight to a studio where their old colleague Kawada is editing video and ask him to quit his job on the spot and come to Tokyo. Listen to the Japanese first.'
+STORY = [('toshi', 'よう、おっさん。', 'Hey there, old man.', [(268, 'よう おっさん')], ''), ('muranishi', '先に出て悪かったな。', 'Sorry for getting out ahead of you.', [(268, '先に出て悪かったな')], ''), ('toshi', 'まあ、大差ねえだろ？おい、次は何やるんだよ？', 'Well, hardly much difference, right? Hey, what are we doing next?', [(269, 'まあ 大差ねえだろ'), (271, 'おい 次は何やるんだよ')], ''), ('muranishi', '俺たちがやるって言ったら、エロに決まってんだろ。', "If you're talking about the two of us, it's obviously adult entertainment!", [(272, '俺たちがやるって言ったら'), (273, 'エロに決まってんだろ')], ''), ('kawada', 'ああ、違うアングルでもう少しパターンが欲しいです。', "Ah, I'd like a few more variations from a different angle.", [(276, 'ああ 違うアングルで もう少しパターンが欲しいです')], ''), ('kawada', 'どうしてここに？ご無沙汰してます。出てきたんですね。', 'What brings you here? Long time no see—so you got out!', [(288, 'どうして ここに'), (289, 'ご無沙汰してます'), (290, '出てきたんですね')], ''), ('toshi', '何撮ってんだよ？', "What is it you're shooting here?", [(291, '何 撮ってんだよ')], ''), ('muranishi', 'この仕事、辞めてもらえますか？', 'Could we get you to quit this job?', [(294, 'この仕事 辞めてもらえますか')], ''), ('kawada', 'ええ、もちろんです。で、何をするんですか？', 'Yes, of course. So what are we going to do?', [(295, 'ええ もちろんです'), (296, 'で 何をするんですか')], ''), ('muranishi', '次は東京へ行くんだよ。', "Next, we're heading to Tokyo.", [(297, '次は東京へ行くんだよ')], ''), ('kawada', '東京？行きましょう。', "Tokyo? Let's go!", [(298, '東京'), (299, '行きましょう')], ''), ('kawada', 'いやあ、面白そうだ。', 'Well now, that sounds exciting.', [(300, 'いやあ 面白そうだ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Hey there, old man.'"), (1, None, "'Sorry for getting out ahead of you.'"), (2, None, "'Well, hardly much difference, right? Hey, what are we doing next?'"), (3, None, "'If you're talking about the two of us, it's obviously adult entertainment!'"), (4, None, "'Ah, I'd like a few more variations from a different angle.'"), (5, None, "'What brings you here? Long time no see—so you got out!'"), (6, None, "'What is it you're shooting here?'"), (7, None, "'Could we get you to quit this job?'"), (8, None, "'Yes, of course. So what are we going to do?'"), (9, None, "'Next, we're heading to Tokyo.'"), (10, None, "'Tokyo? Let's go!'"), (11, None, "'Well now, that sounds exciting.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Muranishi apologize for getting released first, Toshi ask what they are doing next, and Kawada immediately agree to drop his editing gig for an adventure in Tokyo. See you next time.'
+CLOSING = ('kawada', 'じゃあね。')

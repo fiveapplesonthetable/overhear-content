@@ -3,39 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 6
-TITLE = 'Scene 6  (Scene 6)'
+TITLE = 'ビデオ市場を独占できる  (You Can Monopolize the Video Market)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'editor': '編集者', 'ikezawa': '池沢', 'kaede': '楓'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''何だこのウソくさいのは''', '''What is this fake bullshit?''', [(191, '''‎何だ このウソくさいのは''')], ''),
-    ('muranishi', '''あの会員証お願いします''', '''Membership card, please.''', [(192, '''‎（店員）あの 会員証お願いします''')], ''),
-    ('muranishi', '''会員証''', '''Membership card.''', [(194, '''‎会員証''')], ''),
-    ('muranishi', '''どうもありがとうはいしたっけまたね''', '''-Thank you. -Bye!''', [(196, '''‎（‎陽子(ようこ)‎）どうもありがとう ‎はい したっけ またね''')], ''),
-    ('muranishi', '''ああじゃまた来るよはい気いつけて''', '''-Come again. Take care. -I sure will.''', [(197, '''‎（客）ああ じゃ また来るよ ‎（陽子）はい 気いつけて''')], ''),
-    ('muranishi', '''じゃちょっと仕事行かなきゃ''', '''I have to get back to work.''', [(198, '''‎（客） ‎じゃ ちょっと 仕事行かなきゃ''')], ''),
-    ('muranishi', '''仕事行って…''', '''No translation.''', [(199, '''‎仕事行って…''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "Finally ushered into Ikezawa's office at Poseidon, an electronics executive serves homegrown green tea and pleads for help winning the home-video format war. Declaring print magazines outdated, Ikezawa unveils his studio's debut adult video tape and makes a bold prediction. Listen to the Japanese first."
+STORY = [('editor', 'ありがとうございます、お気遣いいただいて。', 'Thank you very much for your kind consideration.', [(160, 'ありがとうございます お気遣いいただいて')], ''), ('ikezawa', '親御さんが毎年送ってきて、これがなかなかうまいんですよ。', "Their parents send this tea every year, and it's really quite delicious.", [(162, '親御さんが毎年送ってきて これが なかなかうまいんですよ')], ''), ('editor', 'ああ、これは確かにおいしい。', 'Ah, this really is delicious indeed.', [(165, 'ああ これは確かにおいしい')], ''), ('ikezawa', '最近はお茶農家も競争が厳しいみたいでね。', 'Lately it seems competition is fierce even for tea farmers.', [(166, '最近は お茶農家も 競争が厳しいみたいでね')], ''), ('editor', '我々家電メーカーも同じです。ベータとの規格戦争も佳境に来ました。', "It's the same for us electronics makers—our format war with Beta has reached its climax.", [(167, '我々 家電メーカーも同じです'), (168, 'ベータとの規格戦争も 佳境に来ました')], ''), ('editor', '我が社の命運は池沢社長、あなたにかかっています。', 'The fate of our company rests on you, President Ikezawa.', [(169, '我が社の命運は 池沢社長 あなたにかかっています')], ''), ('ikezawa', 'そんな大げさな。確かにエロ本はもう古い。', "Now you're exaggerating. Still, adult magazines really are outdated now.", [(170, 'そんな大げさな'), (176, '確かに エロ本は もう古い')], ''), ('kaede', 'はい、どうぞ。', 'Here it is, sir.', [(159, 'どうぞ'), (177, 'はい')], ''), ('ikezawa', 'ビデオデッキを購入した客に無料でプレゼントしてください。うちの最初の作品です。', "Give this away free to customers who buy a video deck—it's our very first release.", [(179, 'ビデオデッキを購入した客に 無料でプレゼントしてください'), (180, 'うちの最初の作品です')], ''), ('ikezawa', '予言しときますよ。あなたたちは、いずれビデオ市場を独占できる。', 'Let me make a prediction: your company will eventually monopolize the video market.', [(183, '予言しときますよ'), (184, 'あなたたちは いずれ ビデオ市場を独占できる')], ''), ('ikezawa', '私が作るアダルトビデオのおかげでね。', 'Thanks to the adult videos that I produce.', [(185, '私が作る アダルトビデオのおかげでね')], ''), ('editor', 'ありがとうございます！よろしくお願いいたします。', 'Thank you very much! We look forward to working with you.', [(186, 'ありがとうございます'), (175, 'よろしくお願いいたします')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Thank you very much for your kind consideration.'"), (1, None, "'Their parents send this tea every year, and it's really quite delicious.'"), (2, None, "'Ah, this really is delicious indeed.'"), (3, None, "'Lately it seems competition is fierce even for tea farmers.'"), (4, None, "'It's the same for us electronics makers—our format war with Beta has reached its climax.'"), (5, None, "'The fate of our company rests on you, President Ikezawa.'"), (6, None, "'Now you're exaggerating. Still, adult magazines really are outdated now.'"), (7, None, "'Here it is, sir.'"), (8, None, "'Give this away free to customers who buy a video deck—it's our very first release.'"), (9, None, "'Let me make a prediction: your company will eventually monopolize the video market.'"), (10, None, "'Thanks to the adult videos that I produce.'"), (11, None, "'Thank you very much! We look forward to working with you.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard the polite tea small talk give way to urgent business strategy as Ikezawa offered free adult tapes with new video decks to conquer the home market. Until next time.'
+CLOSING = ('ikezawa', 'じゃあね。')

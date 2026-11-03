@@ -3,52 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 11
-TITLE = 'Scene 11  (Scene 11)'
+TITLE = '令状持ってきてください  (Please Bring a Warrant)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'kawada': '川田', 'takei': '武井', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''やはり村西さんが社長にはふさわしいんじゃないかと''', '''Mr. Muranishi, you should be president.''', [(302, '''‎（川田） ‎やはり村西さんが 社長には ‎ふさわしいんじゃないかと''')], ''),
-    ('muranishi', '''川田さんが適任です''', '''No. It should be you, Mr. Kawada.''', [(303, '''‎（村西）川田さんが適任です''')], ''),
-    ('muranishi', '''前科もんよりは信用あるからな''', '''You're better than an ex-con.''', [(304, '''‎（トシ） ‎前科もんよりは信用あるからな''')], ''),
-    ('muranishi', '''分かりましたやるからには責任持ってやります''', '''All right. I'll do my very best.''', [(305, '''‎（川田）分かりました ‎やるからには責任持ってやります''')], ''),
-    ('muranishi', '''お願いします''', '''-Thank you. -Sure.''', [(306, '''‎（村西）お願いします''')], ''),
-    ('muranishi', '''でもよおっさんビニ本の時はよかったけどよ''', '''bini-bons were one thing,''', [(307, '''‎（トシ）でもよ おっさん ‎ビニ本の時は よかったけどよ''')], ''),
-    ('muranishi', '''アダルトビデオっつうのはもう業界が出来上がっちまってんぞ''', '''but the adult video industry's already established.''', [(308, '''‎アダルトビデオっつうのは ‎もう業界が出来上がっちまってんぞ''')], ''),
-    ('muranishi', '''革命だよ革命ひっくり返すんだよ''', '''Revolution, guys. We'll shake things up.''', [(309, '''‎（村西）革命だよ 革命 ‎ひっくり返すんだよ''')], ''),
-    ('muranishi', '''革命かあ''', '''Revolution?''', [(310, '''‎（川田）革命かあ''')], ''),
-    ('muranishi', '''エロ本屋からエロビデオ屋か''', '''From pornographic magazines to videos.''', [(311, '''‎（トシ） ‎エロ本屋からエロビデオ屋か''')], ''),
-    ('muranishi', '''ようあっ''', '''Hello there.''', [(312, '''‎（‎古谷(ふるや)‎）よう ‎（トシ）あっ''')], ''),
-    ('muranishi', '''ああ誰かと思いましたよ''', '''Oh, I wasn't expecting you!''', [(313, '''‎ああ 誰かと思いましたよ''')], ''),
-    ('muranishi', '''見た目の割には広くていいとこだろ？''', '''It's surprisingly spacious, no?''', [(314, '''‎（古谷）見た目の割には ‎広くて いいとこだろ？''')], ''),
-    ('muranishi', '''いい物件回してもらってありがとうございます''', '''I appreciate the hook-up.''', [(315, '''‎（村西）いい物件 回してもらって ‎ありがとうございます''')], ''),
-    ('muranishi', '''いいんだよ''', '''Don't mention it. I made a fortune selling your magazines.''', [(316, '''‎（古谷）いいんだよ''')], ''),
-    ('muranishi', '''お前たちの裏本にはさんざん稼がせてもらったからな''', '''Don't mention it. I made a fortune selling your magazines.''', [(317, '''‎お前たちの裏本には ‎さんざん稼がせてもらったからな''')], ''),
-    ('muranishi', '''ヘヘヘヘ…''', '''No translation.''', [(318, '''‎（トシ）ヘヘヘヘ…''')], ''),
-    ('muranishi', '''いやああんなしょぼくれたヤクザだったのに''', '''The washed-up yakuza is making a comeback, huh?''', [(319, '''‎いやあ あんなしょぼくれた ‎ヤクザだったのに''')], ''),
-    ('muranishi', '''よく返り咲いたよなあ''', '''The washed-up yakuza is making a comeback, huh?''', [(320, '''‎よく返り咲いたよなあ''')], ''),
-    ('muranishi', '''おい口の利き方考えろよ''', '''Hey, watch your mouth.''', [(321, '''‎（‎藤原(ふじわら)‎）おい 口の利き方 考えろよ''')], ''),
-    ('muranishi', '''いいよいいよそれよりそれ渡しておけ''', '''It's fine. Give them the paper.''', [(322, '''‎（古谷）いいよ いいよ ‎それより それ渡しておけ''')], ''),
-    ('muranishi', '''何すか？これ''', '''-What's this? -A Kabukicho turf map.''', [(323, '''‎（トシ）何すか？　これ''')], ''),
-    ('muranishi', '''歌舞伎町の縄張り図だよ''', '''-What's this? -A Kabukicho turf map.''', [(324, '''‎（藤原）‎歌舞伎町(かぶきちょう)‎の縄張り図だよ''')], ''),
-    ('muranishi', '''ん？''', '''No translation.''', [(325, '''‎（トシ）ん？''')], ''),
-    ('muranishi', '''さっさと覚えないとうっかり迷いこんで―''', '''Learn it and watch where you step, or you'll regret it.''', [(326, '''‎さっさと覚えないと ‎うっかり迷いこんで‎―''')], ''),
-    ('muranishi', '''見たくもねえもん見ることになるぞ''', '''Learn it and watch where you step, or you'll regret it.''', [(327, '''‎見たくもねえもん見ることになるぞ''')], ''),
-    ('muranishi', '''まずはこれで何かうまいもんでも食いな''', '''First, get yourselves something good to eat.''', [(328, '''‎まずは これで ‎何かうまいもんでも食いな''')], ''),
-    ('muranishi', '''遠慮なく頂きます！''', '''Sweet, thanks!''', [(329, '''‎遠慮なく頂きます！''')], ''),
-    ('muranishi', '''ちょっと…ダメだよハハハハ…''', '''You shouldn't.''', [(330, '''‎（川田）ちょっと… ダメだよ ‎（トシ）ハハハハ…''')], ''),
-    ('muranishi', '''困ったことあったら何でも言ってきな''', '''Call me if you need help.''', [(331, '''‎困ったことあったら ‎何でも言ってきな''')], ''),
-    ('muranishi', '''おおすっげえなこれ''', '''Check this out.''', [(332, '''‎（トシ）おお すっげえな これ''')], ''),
-    ('muranishi', '''何だよこれ！''', '''What the heck?''', [(333, '''‎（ネズミの鳴き声） ‎（トシ）何だよ これ！''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'While Toshi is glued to the summer high-school baseball tournament on television in their messy new Tokyo office, Detective Takei barges in uninvited to intimidate them. Calm and polite in a suit, company president Kawada steps forward and demands a warrant next time. Listen to the Japanese first.'
+STORY = [('toshi', 'ちくしょう、二万やられた！', 'Damn it, I just lost twenty thousand yen!', [(360, 'ちくしょう'), (360, '万やられた')], 'Kanji numeral.'), ('takei', '邪魔するぞ。なかなかのゴミためだな、おい。', "Coming through. Quite the garbage dump you've got here, hey.", [(360, '邪魔するぞ'), (362, 'なかなかのゴミためだな おい')], ''), ('takei', 'お前らみたいな凶悪な前科もんは、きっちり監視しとかないと。', 'We have to keep a tight watch on vicious ex-convicts like you guys.', [(364, 'お前らみたいな 凶悪な前科もんは'), (365, 'きっちり監視しとかないと')], ''), ('toshi', 'いちゃもんつけてんじゃねえよ！', 'Quit picking a fight over nothing!', [(367, 'いちゃもんつけてんじゃねえよ')], ''), ('takei', '野球賭博か。いい度胸してんな、おい。', "Betting on baseball, huh? You've got quite some nerve.", [(378, '野球賭博か いい度胸してんな おい')], ''), ('takei', '四六時中見張られてると思っとけよ。', "Just remember you're being watched twenty-four hours a day.", [(379, '四六時中 見張られてると思っとけよ')], ''), ('takei', '誰だ、お前？', 'Who the heck are you?', [(380, '誰だ お前')], ''), ('kawada', '私が社長ですので、何かあったら私にお願いします。', 'I am the president here, so please direct any matters to me.', [(381, '私が社長ですので 何かあったら私にお願いします')], ''), ('takei', '何だと？', 'What did you just say?', [(382, '何だと')], ''), ('kawada', '次ここに入りたい時は、令状持ってきてください。', 'Next time you wish to enter these premises, please bring a warrant.', [(383, '次 ここに入りたい時は'), (384, '令状 持ってきてください')], ''), ('toshi', '何なんだよ、あいつら。', 'What the heck is wrong with those guys?', [(387, '何なんだよ あいつら')], ''), ('toshi', 'あいつらのせいでいいとこ見逃したじゃねえかよ。', 'Because of them, I missed the best part of the game!', [(388, 'あいつらのせいで いいとこ見逃したじゃねえかよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Damn it, I just lost twenty thousand yen!'"), (1, None, "'Coming through. Quite the garbage dump you've got here, hey.'"), (2, None, "'We have to keep a tight watch on vicious ex-convicts like you guys.'"), (3, None, "'Quit picking a fight over nothing!'"), (4, None, "'Betting on baseball, huh? You've got quite some nerve.'"), (5, None, "'Just remember you're being watched twenty-four hours a day.'"), (6, None, "'Who the heck are you?'"), (7, None, "'I am the president here, so please direct any matters to me.'"), (8, None, "'What did you just say?'"), (9, None, "'Next time you wish to enter these premises, please bring a warrant.'"), (10, None, "'What the heck is wrong with those guys?'"), (11, None, "'Because of them, I missed the best part of the game!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Takei mock the rat-infested office and warn he is watching them around the clock, only for Kawada to coolly insist on a search warrant before Toshi fumes about missing the game. See you next time.'
+CLOSING = ('kawada', 'じゃあね。')

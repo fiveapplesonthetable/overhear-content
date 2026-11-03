@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 16
-TITLE = 'Scene 16  (Scene 16)'
+TITLE = 'ここから映画になるんだ  (From Here On, It Becomes Cinema)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'muranishi': '村西', 'student': '生徒', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''あいつらのせいでいいとこ見逃したじゃねえかよ''', '''I missed the best part of the game because of them.''', [(388, '''‎あいつらのせいで ‎いいとこ見逃したじゃねえかよ''')], ''),
-    ('muranishi', '''取手二高の前に…夏の連覇は夢と消えました''', '''No translation.''', [(389, '''‎（実況）‎取手二高(とりでにこう)‎の前に… ‎夏の連覇は夢と消えました''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "Taking total creative control on the bus set, Muranishi walks his actors through the story of an injured high-school ballplayer dreaming of the national championship. Checking camera framing with his rookie cameraman and brushing off Toshi's worries about the setting sun, Muranishi directs with fiery intensity. Listen to the Japanese first."
+STORY = [('muranishi', 'じゃ、ストーリーのおさらいするよ。', "Alright, let's go over the story one more time.", [(534, 'じゃ ストーリーのおさらいするよ')], ''), ('muranishi', '高校球児だった君は、交通事故で絶望の毎日を送ってる。', 'Once a high-school baseball player, you live in despair every day after a traffic accident.', [(535, '高校球児だった君は'), (536, '交通事故で'), (536, '絶望の毎日を送ってる')], ''), ('muranishi', 'はい、分かった。じゃあいきましょうか。', 'Alright, got it—then shall we get started?', [(544, 'はい 分かった じゃあ いきましょうか')], ''), ('muranishi', 'ラグビー、大丈夫ね？カメラちゃんと追うんだよ、全部収めるんだ。', 'Rugby, are you ready? Follow the action steadily with the camera and capture everything.', [(547, 'ラグビー 大丈夫ね カメラ'), (548, 'ちゃんと追うんだよ 全部 収めるんだ')], ''), ('muranishi', 'いきましょう、カメラ回して。', "Let's go—roll the camera!", [(550, 'いきましょう カメラ回して')], ''), ('student', 'はい、回りました！', 'Yes, sir—camera is rolling!', [(551, 'はい 回りました')], ''), ('muranishi', 'よーい、スタート！', 'Ready, action!', [(555, 'よーい スタート')], ''), ('student', '監督、学生見てます！', 'Director, there are students watching over there!', [(583, '監督 学生 見てます')], ''), ('muranishi', 'すばらしい、どんどん見せなさい。最高の社会勉強だ。', "Wonderful, let them see plenty—it's the best real-world education!", [(584, 'すばらしい どんどん見せなさい'), (585, '最高の社会勉強だ')], ''), ('muranishi', '影が入らないように。表情撮れ、表情！はい、カット！すばらしい！', 'Keep shadows out of the frame—film the expressions! Cut! Magnificent!', [(596, '影が入らないように 表情 撮れ 表情'), (603, 'はい カット すばらしい')], ''), ('toshi', 'おい、おっさん、日が落ちてきてんぞ。どうすんだよ？', 'Hey, old man, the sun is going down! What are we going to do?', [(604, 'おい おっさん'), (605, '日が落ちてきてんぞ どうすんだよ')], ''), ('muranishi', '任しとけ、これからすごい展開になるぞ。ここから映画になるんだ。', 'Leave it to me, an amazing twist is coming next—from right here, it becomes real cinema!', [(606, '任しとけ'), (606, 'これからすごい展開になるぞ'), (607, 'ここから映画になるんだ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Alright, let's go over the story one more time.'"), (1, None, "'Once a high-school baseball player, you live in despair every day after a traffic accident.'"), (2, None, "'Alright, got it—then shall we get started?'"), (3, None, "'Rugby, are you ready? Follow the action steadily with the camera and capture everything.'"), (4, None, "'Let's go—roll the camera!'"), (5, None, "'Yes, sir—camera is rolling!'"), (6, None, "'Ready, action!'"), (7, None, "'Director, there are students watching over there!'"), (8, None, "'Wonderful, let them see plenty—it's the best real-world education!'"), (9, None, "'Keep shadows out of the frame—film the expressions! Cut! Magnificent!'"), (10, None, "'Hey, old man, the sun is going down! What are we going to do?'"), (11, None, "'Leave it to me, an amazing twist is coming next—from right here, it becomes real cinema!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Muranishi explain his dramatic backstory, coach his rookie cameraman to film facial expressions without shadows, and promise Toshi that sunset will turn the finale into true cinema. See you next time.'
+CLOSING = ('muranishi', 'またね。')
