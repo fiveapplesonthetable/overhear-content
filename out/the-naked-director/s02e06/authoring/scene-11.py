@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-11'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 11
+TITLE = '善悪の知識の実  (The Fruit of Knowledge of Good and Evil)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'furuya': '古谷', 'muranishi': '村西', 'takei': '武井'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = "Back in Furuya's office, Detective Takei and Furuya compare notes on their trap—revealing Furuya handed Muranishi not only 250 million yen, but also an uncensored master tape that Muranishi couldn't resist selling."
+STORY = [('takei', '胴体半分で生きてやがる、まるで蛇だな。', "Still alive with half a working body—you're just like a snake.", [(439, '胴体半分で生きてやがる'), (440, 'まるで蛇だな')], ''), ('furuya', '生命力だけが取り柄でな。ここいらにはまだ食える実がいくらでもある。', 'Vitality is my one strong suit. Around here there is still plenty of ripe fruit left to eat.', [(441, '生命力だけが取り柄でな'), (442, 'ここいらには まだ 食える実が いくらでもある')], ''), ('takei', 'そのうちお前も追放してやるからな。', "Before long I'll banish you from this garden too.", [(445, 'そのうち お前も追放してやるからな')], ''), ('furuya', '蛇はあんただろ。知恵入れてそそのかしやがって。', "You're the real snake—whispering clever ideas to tempt him.", [(447, '蛇は あんただろ'), (448, '知恵 入れて そそのかしやがって')], ''), ('takei', '来たか？村西。', 'Did Muranishi come to you?', [(449, '来たか 村西')], ''), ('furuya', 'ああ、あんたのプレゼント受け取ったよ。二億五千万つけてやった。', 'Yeah, I accepted the present you sent my way and attached 250 million yen to it.', [(450, 'ああ あんたのプレゼント 受け取ったよ'), (452, 'つけてやった')], 'spelled numeral in kanji'), ('takei', 'それで？', 'And then?', [(453, 'それで')], ''), ('furuya', '食ったさ。善悪の知識の実をな。', 'He ate it right up—the fruit of knowledge of good and evil.', [(454, '食ったさ'), (455, '善悪の知識の実をな')], ''), ('takei', 'そうなると思ったよ。', 'I knew it would turn out that way.', [(457, 'そうなると思ったよ')], ''), ('furuya', '順調だな、あんたの計画も。', 'Your little plan is coming along smoothly too.', [(458, '順調だな あんたの計画も')], ''), ('takei', 'いやいや、まだまだ途中だよ。', "No, no—we're still only halfway through.", [(459, 'いやいやいや'), (460, 'まだまだ途中だよ')], ''), ('muranishi', 'ようやくめどが立ちそうだよ。久々に事務所で軽く一杯やるか。', "Things are finally looking up. Let's have a celebratory drink at the office for the first time in ages.", [(464, 'ようやく めどが立ちそうだよ'), (466, '事務所で軽く一杯やるか')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Still alive with half a working body—you're just like a snake.'"), (1, None, "'Vitality is my one strong suit. Around here there is still plenty of ripe fruit left to eat.'"), (2, None, "'Before long I'll banish you from this garden too.'"), (3, None, "'You're the real snake—whispering clever ideas to tempt him.'"), (4, None, "'Did Muranishi come to you?'"), (5, None, "'Yeah, I accepted the present you sent my way and attached 250 million yen to it.'"), (6, None, "'And then?'"), (7, None, "'He ate it right up—the fruit of knowledge of good and evil.'"), (8, None, "'I knew it would turn out that way.'"), (9, None, "'Your little plan is coming along smoothly too.'"), (10, None, "'No, no—we're still only halfway through.'"), (11, None, "'Things are finally looking up. Let's have a celebratory drink at the office for the first time in ages.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Unaware that his underground tape sales have already been discovered by his own staff, Muranishi calls the studio on a stormy night to order a celebration toast.'
+CLOSING = ('furuya', 'じゃあね。')

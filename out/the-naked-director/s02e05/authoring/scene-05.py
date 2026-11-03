@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-05'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 5
+TITLE = 'かくまってくれよ  (Please Hide Us)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'kawada': '川田', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = 'Hiding in a hotel after the gangland shooting, Toshi and the young hostess barely escape when yakuza pursuers storm their floor—ducking into a neighboring room where Kawada happens to be tied up.'
+STORY = [('toshi', 'つきあわせて悪かったな。', 'Sorry for dragging you into all this.', [(132, 'つきあわせて悪かったな')], ''), ('client_f', 'ケガ人見捨てて行けないでしょ。ごはん買ってくる。', "I couldn't just abandon an injured guy and leave. I'll go buy us some food.", [(133, 'ケガ人 見捨てて行けないでしょ'), (135, 'ごはん買ってくる')], ''), ('client_f', 'トシ！ここにいたらヤバいよ。下に来てた、早く！', "Toshi! Staying here is bad news—they're downstairs, hurry!", [(145, 'トシ ここにいたらヤバいよ'), (146, '下に来てた'), (147, '早く')], ''), ('toshi', 'こっちじゃない、こっち！おい、開けてくれ、頼むから！', "Not that way, over here! Hey, open the door, I'm begging you!", [(152, 'こっちじゃない こっち'), (155, '開けてくれ 頼むから')], ''), ('client_f', 'トシ！ヤバい、もうダメ…', "Toshi! Oh no, we're done for...", [(156, 'トシ ヤバい もうダメ')], ''), ('toshi', '追われてんだよ。かくまってくれよ、頼む！ちょっとでいいんだよ。', 'People are chasing us—please hide us! Just for a little bit.', [(170, '追われてんだよ なあ かくまってくれよ 頼む'), (171, 'ちょっとでいいんだよ')], ''), ('client_f', '困ります、警察呼びますよ。', 'Stop this, or I will call the police!', [(182, '困ります 警察呼びますよ')], ''), ('toshi', 'すまん、もうちょっとだけここにいさせてくれよ。', 'Sorry—please let us stay in here just a little longer.', [(190, 'すまん もうちょっとだけ ここにいさせてくれよ')], ''), ('kawada', 'えっ、誰？', "Wait—who's there?", [(194, 'えっ 誰')], ''), ('toshi', '川田！', 'Kawada!', [(197, '川田')], ''), ('kawada', 'あっ、トシじゃん。何やってんだよ？こんなとこで。', "Oh, it's Toshi! What are you doing in a place like this?", [(198, 'あっ トシじゃん'), (199, '何やってんだよ こんなとこで')], ''), ('toshi', 'いや、こっちのセリフだよ。', "Hey, that's my line!", [(200, 'いや こっちのセリフだよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Sorry for dragging you into all this.'"), (1, None, "'I couldn't just abandon an injured guy and leave. I'll go buy us some food.'"), (2, None, "'Toshi! Staying here is bad news—they're downstairs, hurry!'"), (3, None, "'Not that way, over here! Hey, open the door, I'm begging you!'"), (4, None, "'Toshi! Oh no, we're done for...'"), (5, None, "'People are chasing us—please hide us! Just for a little bit.'"), (6, None, "'Stop this, or I will call the police!'"), (7, None, "'Sorry—please let us stay in here just a little longer.'"), (8, None, "'Wait—who's there?'"), (9, None, "'Kawada!'"), (10, None, "'Oh, it's Toshi! What are you doing in a place like this?'"), (11, None, "'Hey, that's my line!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Startled to run into Kawada in the middle of a private session, Toshi and the hostess catch their breath once the gangsters leave the hallway.'
+CLOSING = ('toshi', 'じゃあね。')

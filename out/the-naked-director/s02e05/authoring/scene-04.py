@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-04'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 4
+TITLE = "お互い自由に生きましょう  (Let's Live Freely)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = 'While Muranishi films a candid interview with his new star about her past romance, the departing female director returns home to her modest apartment where Kuroki is waiting to start a new life as roommates.'
+STORY = [('muranishi', 'どこで出会ったの？', 'Where did the two of you meet?', [(95, 'どこで出会ったの')], ''), ('client_f', '先輩の先輩で、学園祭に行った時に紹介されまして。', "He was an upperclassman's friend, and we were introduced at a campus festival.", [(96, '先輩の先輩で'), (97, '学園祭に行った時に 紹介されまして')], ''), ('muranishi', 'その彼氏とはどのくらいつきあったんですか？', 'How long did you go out with that boyfriend?', [(98, 'その彼氏とは どのくらい つきあったんですか')], ''), ('client_f', '三カ月ぐらいかと思います。', 'About three months, I think.', [(99, 'かと思います')], 'spelled numeral in kanji'), ('muranishi', 'どうして？別れちゃったの？', 'What happened? Did you end up breaking up?', [(100, 'どうして 別れちゃったの')], ''), ('client_f', 'なんか彼氏があんまり束縛するんで、イヤになっちゃって。', 'My boyfriend was way too controlling, so I got fed up with it.', [(103, 'なんか彼氏が あんまり束縛するんで'), (104, 'イヤになっちゃって')], ''), ('kuroki', 'おかえりなさい。そんなことないわ、ステキなお部屋よ。', "Welcome home. Don't say it's cramped—it's a lovely room.", [(110, 'おかえりなさい'), (114, 'そんなことないわ ステキなお部屋よ')], ''), ('kuroki', 'なんだか楽しいですわね。トイレのお掃除とかもやりますわよ。', "Somehow this feels so fun. I'll gladly clean the bathroom too.", [(119, 'なんだか楽しいですわね'), (120, 'トイレのお掃除とかも やりますわよ')], ''), ('client_f', 'シャワーの順番とか洗濯のルールとか決めないとね。', "We'll have to set rules for shower turns and doing the laundry.", [(116, 'シャワーの順番とか 洗濯のルールとか決めないとね')], ''), ('client_f', 'あとごはんは当番制でいっか。まずかったらちゃんと言い合おうね。', "And let's take turns cooking meals. If something tastes bad, let's tell each other honestly.", [(117, 'あと ごはんは当番制でいっか'), (118, 'ちゃんと言い合おうね')], ''), ('kuroki', 'いいんです、ここで。', 'This place right here is plenty fine for me.', [(123, 'いいんです ここで')], ''), ('kuroki', 'これからはお互い好きなことをして、自由に生きましょう。', "From now on, let's both do what we love and live freely.", [(124, 'これからは'), (125, 'お互い 好きなことをして 自由に生きましょう')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Where did the two of you meet?'"), (1, None, "'He was an upperclassman's friend, and we were introduced at a campus festival.'"), (2, None, "'How long did you go out with that boyfriend?'"), (3, None, "'About three months, I think.'"), (4, None, "'What happened? Did you end up breaking up?'"), (5, None, "'My boyfriend was way too controlling, so I got fed up with it.'"), (6, None, "'Welcome home. Don't say it's cramped—it's a lovely room.'"), (7, None, "'Somehow this feels so fun. I'll gladly clean the bathroom too.'"), (8, None, "'We'll have to set rules for shower turns and doing the laundry.'"), (9, None, "'And let's take turns cooking meals. If something tastes bad, let's tell each other honestly.'"), (10, None, "'This place right here is plenty fine for me.'"), (11, None, "'From now on, let's both do what we love and live freely.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Laughing over household chores in their small apartment, Kuroki and her friend toast to living freely on their own terms.'
+CLOSING = ('kuroki', 'また明日。')

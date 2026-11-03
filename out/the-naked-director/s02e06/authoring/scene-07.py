@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-07'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 7
+TITLE = '過去をすべて換金する  (Cashing In All Our Past)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'kawada': '川田', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = 'Across town, Kawada unlocks a cabinet of original master tapes and invites Toshi to build a new future beyond Muranishi by dubbing half-price legitimate reissues for seed money.'
+STORY = [('kawada', 'これだけは虎の子で取っておいた。', 'These alone I saved as my most prized treasure.', [(253, 'これだけは 虎の子で取っておいた')], ''), ('toshi', 'マスターテープじゃねえかよ。お前何する気だよ？', 'Those are master tapes! What are you planning to do with them?', [(254, 'マスターテープじゃねえかよ'), (255, 'お前 何する気だよ')], ''), ('kawada', 'これを大量にダビングして売りまくる。まずはそれで元手を作ろう。', "We dub these in bulk and sell them everywhere. First let's build seed money with that.", [(256, 'これを 大量にダビングして売りまくる'), (257, 'まずは それで元手を作ろう')], ''), ('toshi', '裏に手出す気じゃねえだろうな？', "You're not planning to dabble in underground bootlegs, are you?", [(258, '裏に 手 出す気じゃねえだろうな')], ''), ('kawada', '違うよ。正規のルートで値段を半分にして大量投下すれば、いくらかにはなるはずだ。', 'Of course not. If we flood legitimate channels at half price, it should bring in decent cash.', [(259, '違うよ'), (260, '正規のルートで'), (261, '値段を半分にして 大量投下すれば'), (262, 'いくらかには なるはずだ')], ''), ('kawada', 'パッケージも新しくする。とにかく過去をすべて換金するんだよ。', "We'll redesign the packaging too. Right now we cash in our entire past.", [(263, 'パッケージも新しくする'), (265, '過去をすべて換金するんだよ')], ''), ('toshi', '安売りして金作るようなヤツじゃねえだろ、てめえは。', 'You were never the kind of guy to raise cash by selling cheap.', [(268, '安売りして金作るような ヤツじゃねえだろ てめえは')], ''), ('kawada', '村西にも撮れないエロの先を作ってみたいと思わないか？', "Don't you want to create the next frontier of erotica that even Muranishi couldn't film?", [(270, '村西にも撮れない'), (271, 'エロの先を作ってみたいと 思わないか')], ''), ('kawada', '知り合いの業者からダビング機材借りてきた。', 'I borrowed dubbing decks from a distributor friend.', [(273, '知り合いの業者から ダビング機材 借りてきた')], ''), ('toshi', '丸一日やって、たったこれだけかよ。', 'We worked a whole day straight and this tiny stack is all we got?', [(286, '丸一日やって たった これだけかよ')], ''), ('client_f', '今日ですね、衛星の支払期限。', "Today is the day, isn't it—the satellite payment deadline.", [(297, '今日ですね 衛星の支払期限')], ''), ('kawada', 'しかたないだろ。', "There's no faster way.", [(287, 'しかたないだろ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'These alone I saved as my most prized treasure.'"), (1, None, "'Those are master tapes! What are you planning to do with them?'"), (2, None, "'We dub these in bulk and sell them everywhere. First let's build seed money with that.'"), (3, None, "'You're not planning to dabble in underground bootlegs, are you?'"), (4, None, "'Of course not. If we flood legitimate channels at half price, it should bring in decent cash.'"), (5, None, "'We'll redesign the packaging too. Right now we cash in our entire past.'"), (6, None, "'You were never the kind of guy to raise cash by selling cheap.'"), (7, None, "'Don't you want to create the next frontier of erotica that even Muranishi couldn't film?'"), (8, None, "'I borrowed dubbing decks from a distributor friend.'"), (9, None, "'We worked a whole day straight and this tiny stack is all we got?'"), (10, None, "'Today is the day, isn't it—the satellite payment deadline.'"), (11, None, "'There's no faster way.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'After a grueling full day of real-time tape dubbing yields only a small stack, Kawada and Toshi keep grinding while Muranishi faces his final deadline day.'
+CLOSING = ('kawada', 'じゃあね。')

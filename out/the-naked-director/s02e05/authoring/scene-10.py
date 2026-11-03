@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-10'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 10
+TITLE = '来月倍にして返す  (Paying It Back Double Next Month)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'muranishi': '村西', 'reika': '麗華', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = "With satellite sign-ups stalling because of steep decoder fees, Muranishi scrapes together forty-three million yen by raiding an actress's tax-reserve pay, holding back staff wages, and borrowing his young assistant's personal savings."
+STORY = [('student', 'それ自腹だよね？大丈夫なの？', "You paid that out of your own pocket, right? Are you sure that's okay?", [(441, 'それ 自腹だよね 大丈夫なの')], ''), ('reika', '契約料これだけ高いとね、私なら手出ないかな。', "With subscription fees this steep, if it were me I wouldn't sign up either.", [(453, '契約料 これだけ高いとね'), (454, '私なら手 出ないかな')], ''), ('student', '何すか？このお金。', 'What is all this cash from?', [(459, '何すか このお金')], ''), ('muranishi', '税金対策でプールしておいたギャラ三千万だ。', "It's thirty million in appearance fees we set aside for tax purposes.", [(460, '税金対策でプールしておいた'), (460, 'ギャラ 3000万だ')], 'spelled numeral in kanji'), ('muranishi', 'まだ今月払ってない女優とスタッフのギャラはいくらある？', 'How much do we have in unpaid actress and crew wages for this month?', [(462, 'まだ今月払ってない 女優とスタッフのギャラは'), (463, 'いくらある')], ''), ('muranishi', '衛星さえ続ければ、来月倍にして払うことだってできる。', 'As long as we keep the satellite running, next month we can pay them back double.', [(465, '衛星さえ続ければ 来月 倍にして払うことだってできる')], ''), ('reika', '一千万ぐらいですかね。', 'About ten million yen, I suppose.', [(467, '1000万ぐらいですかね')], 'spelled numeral in kanji'), ('muranishi', 'あと一千万か。お前、今預金いくらある？', 'That leaves ten million. Hey—how much do you have in your savings right now?', [(468, 'あと1000万か'), (470, 'お前 今 預金いくらある')], 'spelled numeral in kanji'), ('student', 'えっ、預金すか？三百万くらいっすかね。', 'Wait, my personal savings? Around three million yen, I guess.', [(471, 'えっ 預金すか'), (472, '300万くらいっすかね')], 'spelled numeral in kanji'), ('muranishi', '来月倍にして返す。', "I'll pay it back double next month.", [(473, '来月 倍にして返す')], ''), ('student', 'はい、分かりました！', 'Yes, sir—understood!', [(474, 'はい 分かりました'), (475, '分かりました')], ''), ('student', 'あと何か、女優たちの生パンティーとかどうすか？', "For the rest, what about selling the actresses' worn panties or something?", [(476, 'あと 何か'), (477, '女優たちの生パンティーとか どうすか')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'You paid that out of your own pocket, right? Are you sure that's okay?'"), (1, None, "'With subscription fees this steep, if it were me I wouldn't sign up either.'"), (2, None, "'What is all this cash from?'"), (3, None, "'It's thirty million in appearance fees we set aside for tax purposes.'"), (4, None, "'How much do we have in unpaid actress and crew wages for this month?'"), (5, None, "'As long as we keep the satellite running, next month we can pay them back double.'"), (6, None, "'About ten million yen, I suppose.'"), (7, None, "'That leaves ten million. Hey—how much do you have in your savings right now?'"), (8, None, "'Wait, my personal savings? Around three million yen, I guess.'"), (9, None, "'I'll pay it back double next month.'"), (10, None, "'Yes, sir—understood!'"), (11, None, "'For the rest, what about selling the actresses' worn panties or something?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Still seven million yen short of the broadcast fee, Muranishi searches desperately for one more way to raise cash overnight.'
+CLOSING = ('muranishi', 'またね。')

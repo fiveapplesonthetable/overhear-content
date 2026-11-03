@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-14'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 14
+TITLE = 'これでやっと作品作りができる  (Finally Ready to Make Films)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'reika': '麗華', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = "In sharp contrast to Muranishi's implosion, Kawada and Toshi celebrate brisk sales at their bustling workshop—and bring in their former female colleague to direct their first new production."
+STORY = [('toshi', 'なかなか重いなこれ。はい、戻ったぞ。', "Man, these boxes are heavy! Hey everyone, I'm back.", [(592, 'なかなか重いな これ'), (594, 'はい 戻ったぞ')], ''), ('kawada', 'はい、最高です！いい感じじゃないの。', 'Yes, fantastic pose! Looking great!', [(598, 'はい 最高です'), (600, 'いい感じじゃないの')], ''), ('toshi', '上出来だな。', 'This turned out pretty darn well.', [(612, 'うん 上出来だな')], ''), ('kawada', 'ああ。これでやっと作品作りができる。', 'Yeah. With this capital, we can finally start making new films.', [(613, 'ああ'), (614, 'これで やっと作品作りができる')], ''), ('toshi', 'でもね社長、監督どうすんだよ？', 'Still, boss—what are we gonna do for a director?', [(616, 'でもね 社長'), (618, '監督どうすんだよ')], ''), ('kawada', 'もう呼んであるよ。', 'I already called one in.', [(619, 'もう呼んであるよ')], ''), ('reika', '元気してたの？', 'Have you been doing well?', [(626, '元気してたの')], ''), ('toshi', 'ああ、元気だよ。', 'Yeah, doing fine.', [(627, 'ああ 元気だよ')], ''), ('reika', 'よろしくね、トシ。', 'Looking forward to working together, Toshi.', [(628, 'よろしくね トシ')], ''), ('toshi', 'ああ、よろしくな。なんかきれいになったじゃん。', "Yeah, same here. Hey, haven't you gotten prettier?", [(629, 'ああ'), (630, 'よろしくな'), (632, 'なんか きれいになったじゃん')], ''), ('reika', 'イメチェンしてみました。', 'I tried out a new look.', [(635, 'イメチェンしてみました')], ''), ('kawada', 'えっと、監督として採用です。', 'Well then—you are officially hired as our director!', [(636, 'えっと 監督として採用です')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Man, these boxes are heavy! Hey everyone, I'm back.'"), (1, None, "'Yes, fantastic pose! Looking great!'"), (2, None, "'This turned out pretty darn well.'"), (3, None, "'Yeah. With this capital, we can finally start making new films.'"), (4, None, "'Still, boss—what are we gonna do for a director?'"), (5, None, "'I already called one in.'"), (6, None, "'Have you been doing well?'"), (7, None, "'Yeah, doing fine.'"), (8, None, "'Looking forward to working together, Toshi.'"), (9, None, "'Yeah, same here. Hey, haven't you gotten prettier?'"), (10, None, "'I tried out a new look.'"), (11, None, "'Well then—you are officially hired as our director!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Laughing and bantering together like old times, Kawada, Toshi, and their newly hired director begin a fresh chapter.'
+CLOSING = ('toshi', 'またね。')

@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-15'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 15
+TITLE = '地球が割れてもついていこうと思ってた  (Ready to Follow Him Anywhere)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'reika': '麗華', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = "Outside the shattered studio, the loyal junior director tells his colleague he is quitting today, then visits the betrayed actress to offer his own thirty million yen in savings to make up for Muranishi's theft."
+STORY = [('student', '俺さ、地球が割れても村西とおるについていこうと思ってたんだよ。', 'You know, even if the earth split in two, I intended to follow Toru Muranishi.', [(641, '俺さ'), (642, '地球が割れても 村西とおるに ついていこうと思ってたんだよ')], ''), ('student', 'でも、今日で会社辞めるわ。', "Even so... after today, I'm quitting the company.", [(644, 'でも'), (645, '今日で会社 辞めるわ')], ''), ('student', 'どうぞ座って。これ、三千万です。', 'Please have a seat. Here is thirty million yen.', [(648, 'どうぞ座って'), (652, '3000万です')], 'spelled numeral in kanji'), ('student', '言うとおりでしたね。あんな人の言うこと信用しちゃいけなかったんですよ。', 'You were right all along. I never should have trusted a word that man said.', [(653, '言うとおりでしたね'), (654, 'あんな人の言うこと 信用しちゃいけなかったんですよ')], ''), ('student', 'ビデオもなるべく回収しますし、警察にも相談しようと思ってます。', "I'll recover as many of the bootleg tapes as I can, and I plan to consult the police too.", [(655, 'ビデオも なるべく回収しますし'), (656, '警察にも相談しようと思ってます')], ''), ('student', '三千万じゃ少し足りないと思いますが、いったんこれ受け取ってください。', 'Thirty million is still a bit short, I know, but please accept this for now.', [(657, '3000万じゃ 少し足りないと思いますが'), (658, 'いったん これ受け取ってください')], 'spelled numeral in kanji'), ('reika', '一日も休まず働いたお金でしょ？', "Isn't this the money you worked for without taking a single day off?", [(659, '一日も休まず働いた お金でしょ')], ''), ('student', 'どうでもいいですよ、そんなの。ごめんなさい、会社をうまくまとめられなくて。', "That doesn't matter to me at all. I'm so sorry I couldn't hold the company together.", [(660, 'どうでもいいですよ そんなの'), (665, 'ごめんなさい 会社を うまくまとめられなくて')], ''), ('reika', 'あんたは悪くないよ。', 'None of this is your fault.', [(666, 'あんたは悪くないよ')], ''), ('student', 'お金、受け取ってもらえませんか？', "Won't you please accept the money?", [(667, 'お金 受け取ってもらえませんか')], ''), ('reika', 'ごめん、無理。', "I'm sorry—I can't take it.", [(668, 'ごめん'), (669, '無理')], ''), ('student', '女優になったこと、後悔してますか？', 'Do you regret becoming an adult video actress?', [(670, '後悔してますか')], 'trimmed acronym')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'You know, even if the earth split in two, I intended to follow Toru Muranishi.'"), (1, None, "'Even so... after today, I'm quitting the company.'"), (2, None, "'Please have a seat. Here is thirty million yen.'"), (3, None, "'You were right all along. I never should have trusted a word that man said.'"), (4, None, "'I'll recover as many of the bootleg tapes as I can, and I plan to consult the police too.'"), (5, None, "'Thirty million is still a bit short, I know, but please accept this for now.'"), (6, None, "'Isn't this the money you worked for without taking a single day off?'"), (7, None, "'That doesn't matter to me at all. I'm so sorry I couldn't hold the company together.'"), (8, None, "'None of this is your fault.'"), (9, None, "'Won't you please accept the money?'"), (10, None, "'I'm sorry—I can't take it.'"), (11, None, "'Do you regret becoming an adult video actress?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Refusing to take his hard-earned savings, the actress gently tells him none of it was his fault as Muranishi's satellite channel finally goes off the air."
+CLOSING = ('student', 'さようなら。')

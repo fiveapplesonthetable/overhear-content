@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-06'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 6
+TITLE = "今は楽しいの  (Right Now I'm Having Fun)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'muranishi': '村西', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = 'Back at the studio, veteran actresses whisper skeptically about Muranishi shooting alone with the newcomer, while she tells Muranishi how grateful she is to have escaped her monotonous former life.'
+STORY = [('reika', '今日も二人っきりで撮影なんですか？あれホントに撮影してんの？', 'Are the two of them filming alone again today? Are they even actually shooting?', [(231, '今日も二人っきりで 撮影なんですか'), (233, 'あれ ホントに撮影してんの')], ''), ('reika', '黒ちゃんの代わりのつもりかね。代わりになんないっしょ。', "Is she supposed to be Kuroki's replacement? No way she can replace her.", [(236, '黒ちゃんの代わりのつもりかね'), (237, '代わりになんないっしょ')], ''), ('client_f', '昨日ね、お買い物してたら昔の同僚とたまたま会ったんです。', 'Yesterday while I was out shopping, I bumped into an old coworker by chance.', [(238, '昨日ね'), (239, '昔の同僚と たまたま会ったんです')], 'trimmed district name'), ('muranishi', '美容部員の時の？', 'From when you worked at the cosmetics counter?', [(240, '美容部員の時の')], ''), ('client_f', 'そう。その子、私が出たこと知ってたんです。', 'Yes. She already knew that I had appeared in adult videos.', [(240, 'そう'), (241, '知ってたんです')], 'trimmed acronym'), ('muranishi', '何を言われても気にすることはない。', "No matter what anyone says, there's no need to let it bother you.", [(242, '何を言われても 気にすることはない')], ''), ('client_f', '気にしてないです。', "It doesn't bother me at all.", [(243, '気にしてないです')], ''), ('client_f', '出会わなかったら、まだあそこで働いてたのかなって思っちゃったんです。', "I just thought that if I hadn't found your work back then, I'd probably still be working there.", [(245, '出会わなかったら'), (246, 'まだ あそこで働いてたのかな って思っちゃったんです')], ''), ('client_f', '電車から見てた色のない景色とか、同じ予定だらけの手帳とか。', 'The colorless scenery from the commuter train, and a planner filled with the same routine...', [(247, '電車から見てた 色のない景色とか'), (248, '同じ予定だらけの手帳とか')], ''), ('client_f', 'あそこから抜け出して本当に自由になれるんだったら、何でもよかったの。', 'Back then, anything was fine as long as it got me out of there and made me truly free.', [(249, 'あそこから抜け出して'), (250, '本当に自由になれるんだったら 何でもよかったの')], ''), ('muranishi', 'そうか。', 'I see.', [(251, 'そうか')], ''), ('client_f', 'だから今は楽しいの。', "That's why right now I'm having so much fun.", [(252, 'だから 今は楽しいの')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Are the two of them filming alone again today? Are they even actually shooting?'"), (1, None, "'Is she supposed to be Kuroki's replacement? No way she can replace her.'"), (2, None, "'Yesterday while I was out shopping, I bumped into an old coworker by chance.'"), (3, None, "'From when you worked at the cosmetics counter?'"), (4, None, "'Yes. She already knew that I had appeared in adult videos.'"), (5, None, "'No matter what anyone says, there's no need to let it bother you.'"), (6, None, "'It doesn't bother me at all.'"), (7, None, "'I just thought that if I hadn't found your work back then, I'd probably still be working there.'"), (8, None, "'The colorless scenery from the commuter train, and a planner filled with the same routine...'"), (9, None, "'Back then, anything was fine as long as it got me out of there and made me truly free.'"), (10, None, "'I see.'"), (11, None, "'That's why right now I'm having so much fun.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Smiling that her life is finally fun now, the young star steps out into the hallway where the studio staff watch her warily.'
+CLOSING = ('muranishi', 'またね。')

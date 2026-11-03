@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-04'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 4
+TITLE = "会社の生命線だ  (My Company's Lifeline)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'muranishi': '村西', 'shacho': '社長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = "Muranishi visits the satellite company President to beg for more time—only to learn that a catastrophic rocket explosion just wiped out thirty billion yen in two minutes and broke the President's own spirit."
+STORY = [('shacho', '忙しい男だ、今度は謝罪か。', "You're one busy man—here to apologize this time?", [(149, '忙しい男だ 今度は謝罪か')], ''), ('muranishi', '金は必ず用意する。頼むから契約を切らないでほしい。', 'I will get the money without fail. Please, I beg you not to cancel our contract.', [(150, '金は必ず用意する'), (151, '頼むから 契約を切らないでほしい')], ''), ('shacho', '衛星はもう諦めて処理したらどうだ？', "Why don't you just give up on satellite and liquidate the whole thing?", [(152, '衛星は もう諦めて 処理したらどうだ')], ''), ('muranishi', '会社の生命線だ。俺の夢でもある。', "It is my company's lifeline—and it is my dream.", [(153, '会社の生命線だ'), (154, '俺の夢でもある')], ''), ('shacho', 'お前、今まで最大最速で失った金はいくらだ？', 'What is the largest sum of money you have ever lost in the shortest time?', [(155, 'お前'), (156, '今まで最大最速で 失った金は いくらだ')], ''), ('shacho', '俺はこの間、わずか二分で三百億を失ったよ。衛星ロケットが打ち上げに失敗してな。', 'The other day I lost thirty billion yen in a mere two minutes when our satellite rocket launch failed.', [(157, '俺は この間'), (158, 'わずか２分で300億を失ったよ'), (159, '衛星ロケットが 打ち上げに失敗してな')], 'spelled numerals in kanji'), ('shacho', '開発に二十年。ロケットの歴史は失敗との闘いだ。今回も大負けだった。', 'Twenty years of development—rocket history is a battle with failure, and we lost big again.', [(162, '開発に20年'), (163, 'ロケットの歴史は 失敗との闘いだ'), (164, '今回も 大負けだった')], 'spelled numeral in kanji'), ('muranishi', 'またチャレンジすればいいだろ。', 'Then you can just take on the challenge again, right?', [(165, 'またチャレンジすればいいだろ')], ''), ('shacho', '俺はこれで降りる。会社も辞めるつもりだ。', "I'm getting off here. I intend to resign from the company too.", [(166, '俺は これで降りる 会社も辞めるつもりだ')], ''), ('muranishi', 'おい待て、それは違うだろ！', 'Hey wait—how can you quit like that?!', [(167, 'おい 待て それは違うだろ')], ''), ('shacho', 'チャレンジって言葉がもう嫌いになったんだ。あったのは金だけだ。', "I've come to hate that word challenge. If we hadn't tried, we'd still have the money.", [(169, 'チャレンジって言葉が もう嫌いになったんだ'), (171, 'あったのは金だけだ')], ''), ('shacho', 'お前も気が変わったら降りればいいんだ。待ってるぞ、村西。', "If you ever change your mind, get off too. I'll be waiting for you, Muranishi.", [(172, 'お前も気が変わったら'), (173, '降りればいいんだ'), (174, '待ってるぞ 村西')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'You're one busy man—here to apologize this time?'"), (1, None, "'I will get the money without fail. Please, I beg you not to cancel our contract.'"), (2, None, "'Why don't you just give up on satellite and liquidate the whole thing?'"), (3, None, "'It is my company's lifeline—and it is my dream.'"), (4, None, "'What is the largest sum of money you have ever lost in the shortest time?'"), (5, None, "'The other day I lost thirty billion yen in a mere two minutes when our satellite rocket launch failed.'"), (6, None, "'Twenty years of development—rocket history is a battle with failure, and we lost big again.'"), (7, None, "'Then you can just take on the challenge again, right?'"), (8, None, "'I'm getting off here. I intend to resign from the company too.'"), (9, None, "'Hey wait—how can you quit like that?!'"), (10, None, "'I've come to hate that word challenge. If we hadn't tried, we'd still have the money.'"), (11, None, "'If you ever change your mind, get off too. I'll be waiting for you, Muranishi.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Warning Muranishi that he has grown to hate the word "challenge," the departing President tells Muranishi to step off the ride whenever he changes his mind.'
+CLOSING = ('muranishi', 'さようなら。')

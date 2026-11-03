@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-11'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 11
+TITLE = '金輪際関わらないでください  (Never Bother Us Again)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'furuya': '古谷', 'kawada': '川田', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = "Dragged into a warehouse by Furuya's gang, a battered Toshi is ordered to pay three hundred million yen. Kawada rushes in offering every yen he owns, and Toshi pays the final hundred million in blood to buy their freedom."
+STORY = [('furuya', '言ってなかったか？俺は裏切られるのが何より嫌いなんだ。三億だ。', "Didn't I tell you? I hate being betrayed more than anything. Three hundred million.", [(487, '言ってなかったか'), (488, '俺は裏切られるのが 何より嫌いなんだ'), (489, '３億だ')], 'spelled numeral in kanji'), ('toshi', '三億なんて、あるわけねえだろ。', 'As if I could ever have three hundred million yen.', [(490, '３億なんて'), (491, 'あるわけねえだろ')], 'spelled numeral in kanji'), ('furuya', '村西から奪ってこい。', 'Then go steal it from Muranishi.', [(492, '村西から奪ってこい')], ''), ('kawada', '待ってくださいよ！三億、私が払います。', 'Please wait! I will pay the three hundred million!', [(504, '待ってくださいよ'), (505, '３億 私が払います')], 'spelled numeral in kanji'), ('furuya', '五億だ。お前が払うなら五億だ。', "Five hundred million. If you're the one paying, it's five hundred million.", [(520, '５億だ'), (521, 'お前が払うなら５億だ')], 'spelled numerals in kanji'), ('kawada', '全資産合わせても四億がやっとです。', 'Even combining every asset I own, four hundred million is the absolute limit.', [(523, '全資産 合わせても ４億が やっとです')], 'spelled numeral in kanji'), ('furuya', 'ならあと一億だな。', 'Then that leaves one hundred million short.', [(524, 'なら あと１億だな')], 'spelled numeral in kanji'), ('toshi', '古谷さん、これで一億です。', 'Mr. Furuya—let this cover the hundred million!', [(543, '古谷さん'), (544, 'これで１億です')], 'spelled numeral in kanji'), ('toshi', 'これで金輪際、俺たちには関わらないでください！', 'With this, swear you will never have anything to do with us again!', [(545, 'これで 金輪際'), (546, '俺たちには関わらないでください')], ''), ('furuya', 'いいんじゃないか？', 'Fair enough, I suppose.', [(548, 'いいんじゃないか')], ''), ('toshi', 'ありがとな、川田。で、俺たちこっからどうすんだっけ？', 'Thanks, Kawada. So—what are the two of us gonna do from here?', [(559, 'ありがとな 川田'), (560, 'で 俺たち こっから どうすんだっけ')], ''), ('kawada', '働くしかないだろ。', 'All we can do is work.', [(561, '働くしかないだろ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Didn't I tell you? I hate being betrayed more than anything. Three hundred million.'"), (1, None, "'As if I could ever have three hundred million yen.'"), (2, None, "'Then go steal it from Muranishi.'"), (3, None, "'Please wait! I will pay the three hundred million!'"), (4, None, "'Five hundred million. If you're the one paying, it's five hundred million.'"), (5, None, "'Even combining every asset I own, four hundred million is the absolute limit.'"), (6, None, "'Then that leaves one hundred million short.'"), (7, None, "'Mr. Furuya—let this cover the hundred million!'"), (8, None, "'With this, swear you will never have anything to do with us again!'"), (9, None, "'Fair enough, I suppose.'"), (10, None, "'Thanks, Kawada. So—what are the two of us gonna do from here?'"), (11, None, "'All we can do is work.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Bandaged and broke after giving up Kawada's entire fortune to save Toshi's life, the two old partners resolve to get back to work together."
+CLOSING = ('kawada', 'またね。')

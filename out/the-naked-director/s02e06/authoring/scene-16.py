@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-16'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 16
+TITLE = "わたくしを殺してくださいませんか  (Won't You Please Kill Me?)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = 'In the haunting closing scene of Episode Six, with his satellite channel shut down and creditors pounding on the walls, Muranishi receives an unexpected visit from Kuroki—followed by a memory of their very first whistle shoot together.'
+STORY = [('kuroki', 'おはようございます。', 'Good morning.', [(683, 'おはようございます')], ''), ('kuroki', '監督にご提案がございます。', 'I have a proposal for you, Director.', [(684, '監督に ご提案がございます')], ''), ('kuroki', 'わたくしを殺してくださいませんか？', "Won't you please kill me?", [(685, 'わたくしを 殺してくださいませんか')], ''), ('muranishi', 'こちらの小道具を有効に使いたいと思います。', 'I would like to put this little prop to good use.', [(695, 'こちらの小道具を'), (696, '有効に 使いたいと思います')], ''), ('muranishi', 'しかしビデオにはモザイクがあります。', 'However, adult videos have a mosaic blur.', [(699, 'しかし ビデオには モザイクがあります')], ''), ('muranishi', 'あなたがどれだけ感じているのか、肝心の部分をお見せすることができないんですね。', 'So unfortunately, we cannot show the most crucial part of how deeply you are feeling.', [(701, 'あなたが どれだけ感じているのか'), (702, '肝心の部分を お見せすることが'), (703, 'できないんですね')], ''), ('muranishi', 'そこでこれを使います。吹いてみてください。', 'That is why we will use this whistle. Please try blowing it.', [(704, 'そこで これを使います'), (705, '吹いてみてください')], ''), ('muranishi', 'ああ、いい音だ。もう一回。', 'Ah, what a nice sound. One more time.', [(707, 'ああ いい音だ')], 'spelled numeral in kanji'), ('muranishi', 'まあまあ感じてきたなという時には、その笛を一回吹いていただきます。', 'When you begin to feel fairly good, please blow that whistle once.', [(711, 'まあまあ感じてきたな という時には'), (712, '吹いていただきます')], 'spelled numeral in kanji'), ('muranishi', 'もっと感じてきたなという時には二回。もうこれはたまらないなという時には三回。', 'When you feel even more, blow twice—and when you simply cannot bear it anymore, three times.', [(714, 'もっと感じてきたな という時には'), (716, 'もうこれはたまらないな という時には')], 'spelled numerals in kanji'), ('muranishi', 'この笛を使うことによって、見ている方があなたの感じ方の度合いを知ることができるんですね。', 'By using this whistle, viewers will be able to tell the exact degree of your pleasure.', [(719, 'この笛を使うことによって 見ている方が'), (720, 'あなたの感じ方の度合いを 知ることができるんですね')], ''), ('kuroki', 'はい。', 'Yes.', [(722, 'はい')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Good morning.'"), (1, None, "'I have a proposal for you, Director.'"), (2, None, "'Won't you please kill me?'"), (3, None, "'I would like to put this little prop to good use.'"), (4, None, "'However, adult videos have a mosaic blur.'"), (5, None, "'So unfortunately, we cannot show the most crucial part of how deeply you are feeling.'"), (6, None, "'That is why we will use this whistle. Please try blowing it.'"), (7, None, "'Ah, what a nice sound. One more time.'"), (8, None, "'When you begin to feel fairly good, please blow that whistle once.'"), (9, None, "'When you feel even more, blow twice—and when you simply cannot bear it anymore, three times.'"), (10, None, "'By using this whistle, viewers will be able to tell the exact degree of your pleasure.'"), (11, None, "'Yes.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Hearing his own gentler voice from the tape of Kuroki's debut shoot, Muranishi sits face to face with everything he once created and lost."
+CLOSING = ('kuroki', 'またね。')

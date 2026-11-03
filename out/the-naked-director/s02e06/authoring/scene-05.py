@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-05'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 5
+TITLE = 'ポルノの帝王と思わなくなった瞬間  (Stopping Feeling Like the Emperor)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kuroki': '黒木', 'reika': '麗華', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = "Over a home-cooked meal, Kuroki and her roommate hear that nearly every actress at Muranishi's studio has gone on strike over unpaid wages, and Kuroki pinpoints the exact moment Muranishi lost his way."
+STORY = [('reika', 'そっか、そんなにヤバいんだ。', 'I see—so things really are that bad over there.', [(190, 'そっか そんなにヤバいんだ')], ''), ('student', 'ほとんどの女優が撮影拒否のストライキ状態。', 'Nearly all the actresses are refusing to shoot, practically on strike.', [(192, 'ほとんどの女優が 撮影拒否のストライキ状態')], ''), ('reika', '未払い金払ってもらうまでやめな。', "Don't shoot another frame until they pay your back wages.", [(196, '未払い金 払ってもらうまで やめな')], ''), ('reika', 'もう別現場で仕事し始めてるよ。監督とメイクの仕事も少しずつ増えてきたし。', "I've already started working on other sets, and directing and makeup jobs are picking up.", [(204, 'うん もう別現場で 仕事し始めてるよ'), (205, '監督とメイクの仕事も 少しずつ増えてきたし')], ''), ('student', '黒ちゃんは？もうテレビも断ってるんだよね？', "What about you, Kuroki? You've been turning down television appearances too, right?", [(207, 'もうテレビも断ってるんだよね')], ''), ('kuroki', 'そうですね。', 'Yes, that is so.', [(208, 'そうですね')], ''), ('reika', 'いつの間にこうなったんだろ。ホントいつからだろうね。', 'When on earth did things turn out like this? Really, since when?', [(209, 'いつの間に こうなったんだろ'), (210, 'ホント いつからだろうね')], ''), ('kuroki', '簡単ですわ。あの方がご自身をポルノの帝王と思わなくなった瞬間からです。', 'It is simple—from the moment he stopped thinking of himself as the emperor of porn.', [(211, '簡単ですわ'), (212, 'あの方が'), (213, 'ご自身をポルノの帝王と 思わなくなった瞬間からです')], ''), ('reika', 'ごまかしていい金額じゃないでしょ！ちゃんと私たちのこと考えてほしいんだけど！', "This isn't a sum you can brush off! Start thinking about us actresses and staff!", [(222, 'ごまかしていい金額じゃ ないでしょ'), (225, '私たちのこと 考えてほしいんだけど')], ''), ('student', 'いや、監督も今走り回ってますから。', 'Look, the director is running all over town right now trying to fix this.', [(226, 'いや 監督も 今 走り回ってますから')], ''), ('reika', '走り回ってるんじゃなくて逃げ回ってるんだろ！', "He's not running around working—he's running away!", [(227, '走り回ってるんじゃなくて 逃げ回ってるんだろ')], ''), ('student', '逃げ回ってはいないです。信じてください、お願いします！', "He isn't running away! Please believe me, I'm begging you!", [(228, '逃げ回ってはいないです'), (231, '信じてください お願いします')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'I see—so things really are that bad over there.'"), (1, None, "'Nearly all the actresses are refusing to shoot, practically on strike.'"), (2, None, "'Don't shoot another frame until they pay your back wages.'"), (3, None, "'I've already started working on other sets, and directing and makeup jobs are picking up.'"), (4, None, "'What about you, Kuroki? You've been turning down television appearances too, right?'"), (5, None, "'Yes, that is so.'"), (6, None, "'When on earth did things turn out like this? Really, since when?'"), (7, None, "'It is simple—from the moment he stopped thinking of himself as the emperor of porn.'"), (8, None, "'This isn't a sum you can brush off! Start thinking about us actresses and staff!'"), (9, None, "'Look, the director is running all over town right now trying to fix this.'"), (10, None, "'He's not running around working—he's running away!'"), (11, None, "'He isn't running away! Please believe me, I'm begging you!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Meanwhile at the studio, striking actresses tear through drawers looking for cash while the cornered junior director begs them to keep believing in Muranishi.'
+CLOSING = ('kuroki', 'またね。')
