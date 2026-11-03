@@ -15,5 +15,5 @@ STORY = [('muranishi', 'この格好でいいのか？', 'Should I really wear t
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Should I really wear this look?'"), (1, None, "'What? You look like a completely different person from before!'"), (2, None, "'How on earth did you end up like this?'"), (3, None, "'Wait, her manager?'"), (4, None, "'Oh, come on, you startled me. Then where is she?'"), (5, None, "'Alright, open the door!'"), (6, None, "'I bet those guys are having the time of their lives right now.'"), (7, None, "'Probably so.'"), (8, None, "'I'll scrape together some money too, so let's keep our spirits up.'"), (9, None, "'You're right.'"), (10, None, "'Hey, how did you actually pull that money together?'"), (11, None, "'I borrowed it for a little while from a kind-hearted person.'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice 'bikkuri shita', 'that startled me', and 'sukoshi no aida karita', 'borrowed for a little while'. Until next time."
+OUTRO = 'Laughing off a sudden scare and borrowing gear on the fly show how Muranishi improvises through every obstacle. Until next time.'
 CLOSING = ('toshi', 'またね。')

@@ -15,5 +15,5 @@ STORY = [('muranishi', 'いいか、今からタイトルが出るシーンを�
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Listen up, right now we're shooting the scene where the main title appears.'"), (1, None, "'You walk from over there toward here. The camera is behind you.'"), (2, None, "'Once you walk up, stop right here. Stop and count three seconds.'"), (3, None, "'After counting three seconds, turn back toward the camera. Got it?'"), (4, None, "'She says she can't strip in a place like this, and asks where the subtlety is.'"), (5, None, "'That's all about the contrast!'"), (6, None, "'Hold on a second, calm down!'"), (7, None, "'No fighting! Please stay quiet for a moment.'"), (8, None, "'What happened?'"), (9, None, "'The officer says we're free to go now.'"), (10, None, "'Police have big attitudes in every country. We really shouldn't film here anymore.'"), (11, None, "'Got it. I'll rewrite the script while we're moving. Pack it up!'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice 'koko de tachidomaru', 'stop right here', and 'tesshuu da', the crisp film-crew call to pack up and clear a location. Until next time."
+OUTRO = 'Refusing to halt mid-shoot before calling a sudden location wrap keeps the crew one step ahead of trouble. Until next time.'
 CLOSING = ('muranishi', 'またね。')

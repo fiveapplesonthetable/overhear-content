@@ -15,5 +15,5 @@ STORY = [('student', 'ホントに空を飛ぶの？', 'Are we really flying up 
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Are we really flying up into the sky?'"), (1, None, "'Of course we are. We're flying over Pearl Harbor in this.'"), (2, None, "'Hold on—her manager is asking if we aren't filming on the ground.'"), (3, None, "'That wouldn't have any impact, would it? We're shooting world-first footage.'"), (4, None, "'Maybe you ought to stop him...'"), (5, None, "'If the director says we shoot it, we do it. That's our job.'"), (6, None, "'She says she's game to do it!'"), (7, None, "'I knew she would say that.'"), (8, None, "'Listen, this scene where you steal secret intelligence is the biggest highlight of the movie!'"), (9, None, "'Alright, stand by for the final scene!'"), (10, None, "'Yes, sir!'"), (11, None, "'We're pulling off a scene nobody has ever done before!'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "You heard 'sekai hatsu', 'world first', and 'kanojo wa yaruki da', 'she's motivated and ready to do it'. Until next time."
+OUTRO = "Pitching a bold world first with an eager lead performer pushes Muranishi's overseas gamble to its climax. Until next time."
 CLOSING = ('muranishi', 'またね。')

@@ -15,5 +15,5 @@ STORY = [('kuroki', 'すごくおいしいです。', 'This is really delicious.
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'This is really delicious.'"), (1, None, "'You have real refinement, being able to tell the difference.'"), (2, None, "'So, how is your mother doing?'"), (3, None, "'She has calmed down. I'm sorry for all the trouble I caused.'"), (4, None, "'Not at all, it is simply our duty.'"), (5, None, "'I see.'"), (6, None, "'By the way, do you intend to keep working as an actress?'"), (7, None, "'Well, as for that...'"), (8, None, "'How do you think he persuaded this actress?'"), (9, None, "'Probably with a bluff?'"), (10, None, "'Japan's number-one film director, making his big American debut.'"), (11, None, "'Isn't that exaggerating way too much? That set is going to get wild.'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Keep an ear out for 'tsuzukete iku tsumori', combining 'keep going forward' with 'tsumori', one's intention or plan. See you next time."
+OUTRO = "Resolving to keep pushing forward together without hesitation strengthens the bond across Muranishi's crew. See you next time."
 CLOSING = ('kuroki', 'さようなら。')

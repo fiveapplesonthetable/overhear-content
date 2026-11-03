@@ -15,5 +15,5 @@ STORY = [('driver', 'お互いにとってタイミングが合ってよかっ�
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'She says she's glad the timing worked out for both of you.'"), (1, None, "'Yeah, I feel the same way. I'm counting on great acting.'"), (2, None, "'I intend to shock the industry around the world, so I won't compromise.'"), (3, None, "'She says she has no intention of compromising either.'"), (4, None, "'No Japanese male actors will appear.'"), (5, None, "'What are they laughing about?'"), (6, None, "'Don't mind it.'"), (7, None, "'Before you take off your clothes, first I want to bare your heart.'"), (8, None, "'What did she say?'"), (9, None, "'She says she's fine without that—just film her looking glamorous.'"), (10, None, "'That goes without saying. Listen, let me tell you up front.'"), (11, None, "'I don't shoot over-the-top stuff. Subtlety is the soul of it.'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice 'dakyou suru ki wa nai', 'I have no intention of compromising', and 'atarimae da', 'that goes without saying'. Until next time."
+OUTRO = "Refusing any artistic compromise as a matter of principle raises the stakes of Muranishi's island production. Until next time."
 CLOSING = ('muranishi', 'じゃあね。')

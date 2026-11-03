@@ -15,5 +15,5 @@ STORY = [('student', 'うわあ、すげえ！ハワイだ！', "Whoa, awesome! 
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Whoa, awesome! We're in Hawaii!'"), (1, None, "'Hey, this isn't sightseeing, so pull yourselves together.'"), (2, None, "'Are you everyone from Sapphire Pictures? Nice to meet you all!'"), (3, None, "'Well then, go ahead and load your luggage. Right this way.'"), (4, None, "'Excuse me, this is heavy—could you help me carry it?'"), (5, None, "'You're skinny, aren't you? You ought to put on some muscle.'"), (6, None, "'I'm Muranishi, the director.'"), (7, None, "'She is definitely coming, right?'"), (8, None, "'She arrived ahead of you and is resting at the hotel right now.'"), (9, None, "'Are you going to be okay, though? Handling a big-name actress is tough.'"), (10, None, "'I'm looking forward to that.'"), (11, None, "'Isn't this guy actually Japanese after all?'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Keep an ear out for 'tanoshimi da', 'I'm looking forward to it', whenever someone anticipates an upcoming event. Until next time."
+OUTRO = 'Reminding the crew they are on location to work and eagerly welcoming a local guide set the overseas shoot in motion. Until next time.'
 CLOSING = ('muranishi', 'またね。')
