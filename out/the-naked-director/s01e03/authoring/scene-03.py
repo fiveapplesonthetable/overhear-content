@@ -3,45 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 3
-TITLE = 'Scene 3  (Scene 3)'
+TITLE = '逃げるぞ！  (Run for It!)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'kitamori': '北森', 'muranishi': '村西', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''ハハハハ…''', '''That's not funny.''', [(31, '''‎（トシ）ハハハハ…''')], ''),
-    ('muranishi', '''くだらんことをするな''', '''That's not funny.''', [(32, '''くだらんことをするな''')], ''),
-    ('muranishi', '''会長お元気そうで''', '''Chairman, you look well.''', [(33, '''（北森(きたもり)） 会長 お元気そうで''')], ''),
-    ('muranishi', '''金は？''', '''Where's the money?''', [(34, '''‎金は？''')], ''),
-    ('muranishi', '''いつものロッカーに''', '''The locker, as usual.''', [(35, '''‎（北森）いつものロッカーに''')], ''),
-    ('muranishi', '''会社のほうは何とかやってますが''', '''We've managed to keep the company running, but the cops won't leave us alone.''', [(36, '''‎会社のほうは 何とかやってますが''')], ''),
-    ('muranishi', '''お巡りが毎日嫌がらせに来て…''', '''We've managed to keep the company running, but the cops won't leave us alone.''', [(37, '''‎お巡りが毎日 嫌がらせに来て…''')], ''),
-    ('muranishi', '''お客さん減っちゃって''', '''We're losing customers.''', [(38, '''‎お客さん減っちゃって''')], ''),
-    ('muranishi', '''苦労かけるないえ''', '''-Sorry for the trouble. -It's okay.''', [(39, '''‎（村西）苦労かけるな ‎（北森）いえ''')], ''),
-    ('muranishi', '''３日後大丈夫ですか？おお～''', '''Can you still come in three days?''', [(40, '''‎（北森）３日後 大丈夫ですか？ ‎（観客たち）おお～''')], ''),
-    ('muranishi', '''長い間会長不在で支店長がみんな動揺してて…''', '''The branch managers are on edge because of your long absence.''', [(42, '''‎（北森）長い間 会長不在で ‎支店長が みんな動揺してて…''')], ''),
-    ('muranishi', '''顔だけでも''', '''A visit from you would help.''', [(43, '''‎顔だけでも''')], ''),
-    ('muranishi', '''おおっ''', '''No translation.''', [(44, '''‎（観客たち）おおっ''')], ''),
-    ('muranishi', '''分かった''', '''Fine.''', [(45, '''‎（村西）分かった''')], ''),
-    ('muranishi', '''行くよ北海道に''', '''I'll go to Hokkaido.''', [(46, '''‎行くよ 北海道に''')], ''),
-    ('muranishi', '''北海道涼しいのか？''', '''Is it cold up there? I can't remember anymore.''', [(47, '''‎北海道 涼しいのか？''')], ''),
-    ('muranishi', '''もうどんな格好したらいいのか忘れたよ''', '''Is it cold up there? I can't remember anymore.''', [(48, '''‎もう どんな格好したらいいのか ‎忘れたよ''')], ''),
-    ('muranishi', '''おおっおお～''', '''No translation.''', [(49, '''‎（観客たち）おおっ おお～''')], ''),
-    ('muranishi', '''あら''', '''Oh?''', [(50, '''‎（典子）あら''')], ''),
-    ('muranishi', '''フッどうしたのこんな夜に''', '''Where are you going so late?''', [(51, '''‎フッ どうしたの こんな夜に''')], ''),
-    ('muranishi', '''何日か空けるかもしれない''', '''I may be gone for a few days.''', [(52, '''‎何日か空けるかもしれない''')], ''),
-    ('muranishi', '''そう''', '''I see.''', [(53, '''‎（典子）そう''')], ''),
-    ('muranishi', '''いつでも帰ってきてね''', '''Come back anytime.''', [(54, '''‎いつでも帰ってきてね''')], ''),
-    ('muranishi', '''フッ…''', '''No translation.''', [(55, '''‎フッ…''')], ''),
-    ('muranishi', '''あんたのこと本気になっちゃったのかな''', '''I think I've fallen for you.''', [(56, '''‎あんたのこと ‎本気になっちゃったのかな''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "Slipping back into Sapporo past his own wanted poster, Muranishi is welcomed at the shop by Kitamori. Sensing something wrong when Kitamori sweats despite the cool weather, Muranishi shouts to Toshi to run as detectives close in across Susukino. Listen to the Japanese first, then we'll go through it together."
+STORY = [('toshi', 'おい、もっといい写真あったろ、これ。', 'Hey, surely they had a better photo than this one.', [(58, 'おい もっといい写真あったろ これ')], ''), ('muranishi', 'おい、行くぞ。', "Hey, let's keep moving.", [(59, 'おい 行くぞ')], ''), ('kitamori', '会長、お待ちしておりました。', 'Chairman, we have been waiting for you.', [(61, '会長 お待ちしておりました')], ''), ('kitamori', 'さあさあ、お疲れでしょう。上に部屋取ってありますんで。', 'Come right in, you must be tired. We reserved a room upstairs for you.', [(63, 'さあさあ お疲れでしょう 上に部屋 取ってありますんで')], ''), ('toshi', 'バカかお前、こんなとこ泊まったら目立つだろ。', 'Are you an idiot? Staying somewhere like this will stand right out.', [(64, 'バカか お前 こんなとこ泊まったら目立つだろ')], ''), ('kitamori', 'どうぞ、どうぞ。', 'Please, right this way.', [(66, 'どうぞ どうぞ')], ''), ('muranishi', '北森、そんなに暑いか？', 'Kitamori, is it really that hot in here?', [(67, '北森'), (69, 'そんなに暑いか')], ''), ('kitamori', 'えっ、いや、何のこと？', 'Huh? No, what do you mean?', [(70, 'えっ いや'), (70, '何のこと')], ''), ('muranishi', 'トシ、逃げるぞ！', "Toshi, let's run!", [(71, 'トシ'), (72, '逃げるぞ')], ''), ('toshi', '逃げろ、おっさん！', 'Run for it, old man!', [(75, '逃げろ おっさん')], ''), ('kitamori', '皆さま、札幌ツアーへようこそお越しくださいました。', 'Everyone, welcome aboard the Sapporo tour.', [(89, '皆さま 札幌'), (89, 'ツアーへ ようこそ お越しくださいました')], ''), ('toshi', 'ちゃんと見て。', 'Check your ticket properly.', [(95, 'ちゃんと見て')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Hey, surely they had a better photo than this one.'"), (1, None, "'Hey, let's keep moving.'"), (2, None, "'Chairman, we have been waiting for you.'"), (3, None, "'Come right in, you must be tired. We reserved a room upstairs for you.'"), (4, None, "'Are you an idiot? Staying somewhere like this will stand right out.'"), (5, None, "'Please, right this way.'"), (6, None, "'Kitamori, is it really that hot in here?'"), (7, None, "'Huh? No, what do you mean?'"), (8, None, "'Toshi, let's run!'"), (9, None, "'Run for it, old man!'"), (10, None, "'Everyone, welcome aboard the Sapporo tour.'"), (11, None, "'Check your ticket properly.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "You heard Toshi joke about the wanted-poster photo, Muranishi spot Kitamori's nervous sweat in time to bolt from the trap, and the two fugitives scramble onto the wrong tour bus. See you next time."
+CLOSING = ('toshi', 'じゃあね。')

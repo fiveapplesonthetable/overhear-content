@@ -3,40 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 1
-TITLE = 'Scene 1  (Scene 1)'
+TITLE = 'ずーっといてね  (Please Stay Here Forever)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'mama': 'ママ', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''ったくもう今日はしょうがねえな''', '''Stupid machine. I keep losing.''', [(1, '''‎（女性）‎ったく もう ‎今日はしょうがねえな''')], ''),
-    ('muranishi', '''全然出ねえよん？''', '''Stupid machine. I keep losing.''', [(2, '''‎（女性）全然 出ねえよ ん？''')], ''),
-    ('muranishi', '''おっここはいいよ''', '''This looks better.''', [(3, '''‎おっ ここはいいよ''')], ''),
-    ('muranishi', '''ちょっとごめんなさいよごめんね''', '''Sorry, coming through. Sorry.''', [(4, '''‎ちょっと ごめんなさいよ ‎ごめんね''')], ''),
-    ('muranishi', '''いいなあ''', '''Nice.''', [(5, '''‎いいなあ''')], ''),
-    ('muranishi', '''あっ空いてる空いてるよいしょ''', '''This one's free.''', [(6, '''‎あっ 空いてる空いてる ‎よいしょ''')], ''),
-    ('muranishi', '''ごめんなさいはい''', '''Pardon me.''', [(7, '''‎ごめんなさい はい''')], ''),
-    ('muranishi', '''ほらほらほら立って立ってよいしょ''', '''Come on, get up.''', [(8, '''‎（警察官）ほらほらほら ‎立って立って よいしょ''')], ''),
-    ('muranishi', '''いいよいいよ''', '''No translation.''', [(9, '''‎（女性）いいよ　いいよ''')], ''),
-    ('muranishi', '''えっいいの？''', '''What? I can take these?''', [(10, '''‎えっ いいの？''')], ''),
-    ('muranishi', '''ありがとね''', '''Thanks!''', [(11, '''‎ありがとね''')], ''),
-    ('muranishi', '''うち今から仕事なんだからさ''', '''I have to get ready for work. You're in my way.''', [(12, '''‎（‎典子(のりこ)‎） ‎うち 今から仕事なんだからさ''')], ''),
-    ('muranishi', '''そこ邪魔なの''', '''I have to get ready for work. You're in my way.''', [(13, '''‎そこ邪魔なの''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "Episode three opens in Tokyo in 1982, where fugitive Muranishi is lying low in the apartment of a kind hostess. Annoyed at first by his noisy electronic game as she gets ready for work, she softens and tells him she does not care about his past. Listen to the Japanese first, then we'll go through it together."
+STORY = [('mama', 'うち、今から仕事なんだからさ。そこ邪魔なの。', "I have to go to work right now, so you're in the way there.", [(12, 'うち 今から仕事なんだからさ'), (13, 'そこ邪魔なの')], ''), ('mama', 'もう、ピコピコうるさいなあ。', 'Geez, all that beeping is so noisy.', [(15, 'ピコピコ'), (15, 'うるさいなあ')], ''), ('mama', 'みんなそのおもちゃに夢中なんだから。', 'Everyone is so obsessed with that toy.', [(16, 'そのおもちゃに 夢中なんだから')], ''), ('mama', 'ねえ、あんたが転がり込んできて結構たつじゃない。', 'Hey, quite some time has passed since you came crashing in here.', [(17, 'ねえ'), (18, 'あんたが転がり込んできて 結構たつじゃない')], ''), ('muranishi', 'すまん。', 'Sorry.', [(19, 'すまん')], ''), ('mama', 'いや、そういう意味じゃないの。', "No, that's not what I mean.", [(20, 'いや そういう意味じゃないの')], ''), ('mama', 'うち、いいんだ。あんたがどこの誰でも。', "I don't mind at all, no matter who you are or where you're from.", [(21, 'うち いいんだ'), (22, 'あんたが どこの誰でも')], ''), ('mama', '訳ありでも。', 'Even if you have a complicated past.', [(23, '訳ありでも')], ''), ('mama', 'だからさ、ずーっといてね。', 'So please stay here forever, okay?', [(24, 'だからさ'), (25, 'ずーっと'), (26, 'いてね')], ''), ('mama', 'ねえ、じゃ行ってくるね。', "Hey, well then, I'm heading off.", [(27, 'ねえ じゃ')], ''), ('muranishi', 'ああ、気をつけて。', 'Yeah, take care.', [(7, 'はい')], 'Adapted brief reply.'), ('mama', 'いってきまーす。', 'Off I go!', [(28, 'いってきまーす')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'I have to go to work right now, so you're in the way there.'"), (1, None, "'Geez, all that beeping is so noisy.'"), (2, None, "'Everyone is so obsessed with that toy.'"), (3, None, "'Hey, quite some time has passed since you came crashing in here.'"), (4, None, "'Sorry.'"), (5, None, "'No, that's not what I mean.'"), (6, None, "'I don't mind at all, no matter who you are or where you're from.'"), (7, None, "'Even if you have a complicated past.'"), (8, None, "'So please stay here forever, okay?'"), (9, None, "'Hey, well then, I'm heading off.'"), (10, None, "'Yeah, take care.'"), (11, None, "'Off I go!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard the hostess complain about the beeping game before telling Muranishi she accepts him whoever he is and asking him to stay with her before heading off to work. See you next time.'
+CLOSING = ('mama', 'じゃあね。')

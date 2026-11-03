@@ -3,52 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 10
-TITLE = 'Scene 10  (Scene 10)'
+TITLE = 'いつかイタリアに留学したいの  (Someday I Want to Study in Italy)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'kayo': '加代', 'megumi': '恵美'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''ようおっさん先に出て悪かったな''', '''Sorry I got out first.''', [(268, '''‎（トシ）よう おっさん ‎（村西）先に出て悪かったな''')], ''),
-    ('muranishi', '''まあ大差ねえだろ？まあな''', '''It wasn't much of a difference.''', [(269, '''‎（トシ）まあ 大差ねえだろ？ ‎（村西）まあな''')], ''),
-    ('muranishi', '''じゃいくかよし''', '''-Let's go. -Yeah.''', [(270, '''‎（村西）じゃ いくか ‎（トシ）よし''')], ''),
-    ('muranishi', '''おい次は何やるんだよ？''', '''What's next?''', [(271, '''‎おい 次は何やるんだよ？''')], ''),
-    ('muranishi', '''あ？俺たちがやるって言ったら''', '''If we're teaming up,''', [(272, '''‎（村西）あ？ ‎俺たちがやるって言ったら''')], ''),
-    ('muranishi', '''エロに決まってんだろ''', '''-it has to be porn! -It has to be porn!''', [(273, '''‎（トシ･村西） ‎エロに決まってんだろ''')], ''),
-    ('muranishi', '''どうですかね？''', '''What do you think?''', [(275, '''‎（‎井上(いのうえ)‎）どうですかね？''')], ''),
-    ('muranishi', '''ああ違うアングルでもう少しパターンが欲しいです''', '''I want more variations from a different angle.''', [(276, '''‎（‎川田(かわだ)‎）ああ 違うアングルで ‎もう少しパターンが欲しいです''')], ''),
-    ('muranishi', '''ほう違うアングル？ええ''', '''-A different angle? -Yes.''', [(277, '''‎（井上）ほう 違うアングル？ ‎（川田）ええ''')], ''),
-    ('muranishi', '''う～んじゃあ奴隷つるしてみます？''', '''Let's suspend the slave.''', [(278, '''‎（井上）う～ん じゃあ ‎奴隷つるしてみます？''')], ''),
-    ('muranishi', '''いいよ''', '''All right.''', [(279, '''‎（スタッフ）いいよ''')], ''),
-    ('muranishi', '''あの…''', '''Excuse me.''', [(280, '''‎（男優）あの…''')], ''),
-    ('muranishi', '''僕明日から社員旅行なんでロープの痕つくとちょっと''', '''I'm leaving for an office retreat tomorrow,''', [(281, '''‎僕 明日から社員旅行なんで ‎ロープの痕つくと ちょっと''')], ''),
-    ('muranishi', '''あそうかお風呂でバレちゃうかあ''', '''Oh, the public baths, huh?''', [(282, '''‎（井上）あ そうか ‎お風呂でバレちゃうかあ''')], ''),
-    ('muranishi', '''じゃあ低温ロウソクでやろっか''', '''-Let's use candles instead. -Okay.''', [(283, '''‎じゃあ 低温ロウソクでやろっか''')], ''),
-    ('muranishi', '''いいよ''', '''-Let's use candles instead. -Okay.''', [(284, '''‎（女優）いいよ''')], ''),
-    ('muranishi', '''つるさないの？あいいです''', '''-No ropes? -No.''', [(285, '''‎（スタッフ）つるさないの？ ‎（井上）あ いいです''')], ''),
-    ('muranishi', '''すいません奴隷なのにいいのいいの''', '''-Sorry, I know I'm the slave... -No worries.''', [(286, '''‎（男優）すいません 奴隷なのに ‎（井上）いいのいいの''')], ''),
-    ('muranishi', '''早く終わらせて飲みにいこうよ''', '''Let's finish up and get a drink.''', [(287, '''‎（女優）早く終わらせて ‎飲みにいこうよ''')], ''),
-    ('muranishi', '''どうしてここに？''', '''You're here!''', [(288, '''‎（川田）どうして ここに？''')], ''),
-    ('muranishi', '''ご無沙汰してます''', '''It's been a while.''', [(289, '''‎ご無沙汰してます''')], ''),
-    ('muranishi', '''いやあ出てきたんですね''', '''So you're out.''', [(290, '''‎いやあ 出てきたんですね''')], ''),
-    ('muranishi', '''何撮ってんだよ？''', '''What are you shooting?''', [(291, '''‎何 撮ってんだよ？''')], ''),
-    ('muranishi', '''ああ「ＳＭアイズ」の編集です''', '''A gig for S&M Eyes.''', [(292, '''‎ああ 「ＳＭアイズ」の編集です''')], ''),
-    ('muranishi', '''ＳＭっぽいの似合いますねはい''', '''-The S&M thing suits you. -Yes.''', [(293, '''‎（村西）ＳＭっぽいの似合いますね ‎（川田）はい''')], ''),
-    ('muranishi', '''この仕事辞めてもらえますか？''', '''Can you quit this job?''', [(294, '''‎この仕事 辞めてもらえますか？''')], ''),
-    ('muranishi', '''ええもちろんです''', '''Yes, of course.''', [(295, '''‎ええ もちろんです''')], ''),
-    ('muranishi', '''で何をするんですか？''', '''What are we doing?''', [(296, '''‎で 何をするんですか？''')], ''),
-    ('muranishi', '''次は東京へ行くんだよ''', '''We're going to Tokyo.''', [(297, '''‎次は東京へ行くんだよ''')], ''),
-    ('muranishi', '''東京？ああ''', '''-Tokyo? -Yeah.''', [(298, '''‎（川田）東京？ ‎（トシ）ああ''')], ''),
-    ('muranishi', '''行きましょう''', '''Let's go.''', [(299, '''‎行きましょう''')], ''),
-    ('muranishi', '''いやあ面白そうだ''', '''Well, that sounds interesting.''', [(300, '''‎（川田）いやあ 面白そうだ''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Across Tokyo, quiet university student Megumi dines at an upscale Italian restaurant with her protective mother Kayo. When Megumi gently shares her dream of studying painting at an Italian art school someday, Kayo panics and begs her daughter never to leave her side. Listen to the Japanese first.'
+STORY = [('megumi', 'トマトベースがすごくおいしい。', 'This tomato-based sauce is really delicious.', [(341, 'トマトベースがすごくおいしい')], ''), ('kayo', 'あとでデザートも頼みましょうね。', "Let's order dessert afterwards too, shall we?", [(342, 'あとでデザートも頼みましょうね')], ''), ('megumi', 'デザートじゃなくてドルチェですよ。イタリアではそう呼ぶの。', "It's called dolce, not dessert. That's what they call it in Italy.", [(343, 'デザートじゃなくてドルチェですよ'), (344, 'イタリアでは そう呼ぶの')], ''), ('kayo', 'あら、やっぱり詳しいのね。', 'Oh my, you really do know all about it.', [(345, 'あら やっぱり詳しいのね')], ''), ('megumi', 'お母さん、私ね、いつかイタリアに留学したいの。', 'Mother, listen—someday I want to study abroad in Italy.', [(346, 'お母さん 私ね いつかイタリアに留学したいの')], ''), ('megumi', '本格的に絵のお勉強したくって。', 'I really want to study painting seriously.', [(347, '本格的に絵のお勉強したくって')], ''), ('kayo', 'お願い。', 'Please...', [(349, 'お願い')], ''), ('megumi', 'どうしたの？大丈夫？', "What's wrong? Are you alright?", [(349, 'どうしたの'), (350, '大丈夫')], ''), ('kayo', '近くにいてほしいの、いつも。', 'I want you to stay close to me, always.', [(351, '近くにいてほしいの いつも')], ''), ('megumi', 'ごめんなさい。', "I'm sorry.", [(352, 'ごめんなさい')], ''), ('kayo', 'あなたを愛してるの。', 'I love you so much.', [(353, 'あなたを愛してるの')], ''), ('megumi', '分かってます。ごめんなさい。', "I know. I'm sorry.", [(353, '分かってます'), (356, 'ごめんなさい')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'This tomato-based sauce is really delicious.'"), (1, None, "'Let's order dessert afterwards too, shall we?'"), (2, None, "'It's called dolce, not dessert. That's what they call it in Italy.'"), (3, None, "'Oh my, you really do know all about it.'"), (4, None, "'Mother, listen—someday I want to study abroad in Italy.'"), (5, None, "'I really want to study painting seriously.'"), (6, None, "'Please...'"), (7, None, "'What's wrong? Are you alright?'"), (8, None, "'I want you to stay close to me, always.'"), (9, None, "'I'm sorry.'"), (10, None, "'I love you so much.'"), (11, None, "'I know. I'm sorry.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Megumi correct her mother on the Italian word for dessert, confess her dream of studying art abroad, and apologize quietly as Kayo clung to her. See you next time.'
+CLOSING = ('megumi', 'さようなら。')

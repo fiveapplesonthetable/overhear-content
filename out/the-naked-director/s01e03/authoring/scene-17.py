@@ -3,40 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 17
-TITLE = 'Scene 17  (Scene 17)'
+TITLE = "いつかステーキたらふく食いてえな  (Someday We'll Eat Steak Till We're Full)"
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'client_f': '女性客', 'kawada': '川田', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''お願いします''', '''Please take a look.''', [(390, '''‎（川田）お願いします''')], ''),
-    ('muranishi', '''ふ～ん''', '''No translation.''', [(391, '''‎（担当者）ふ～ん''')], ''),
-    ('muranishi', '''ポルノビデオを作る金を融資しろと？''', '''You want to borrow money to make porn?''', [(392, '''‎（担当者） ‎ポルノビデオを作る金を ‎融資しろと？''')], ''),
-    ('muranishi', '''ええはい''', '''That's right.''', [(393, '''‎（川田）ええ はい''')], ''),
-    ('muranishi', '''あの失礼ですがご自宅にビデオデッキは？''', '''May I ask if you own a VCR at home?''', [(394, '''‎あの 失礼ですが ‎ご自宅にビデオデッキは？''')], ''),
-    ('muranishi', '''ありますよ家族で洋画を見るのが好きなので''', '''My family enjoys watching foreign movies.''', [(395, '''‎ありますよ ‎家族で洋画を見るのが好きなので''')], ''),
-    ('muranishi', '''ああ''', '''My family enjoys watching foreign movies.''', [(396, '''‎（川田）ああ''')], ''),
-    ('muranishi', '''この世で一番多く見られてる作品のジャンルはポルノなんですよ''', '''Did you know that the most popular genre in the world''', [(397, '''‎この世で 一番多く見られてる ‎作品のジャンルはポルノなんですよ''')], ''),
-    ('muranishi', '''そりゃ動いてるねえ裸を好きなだけ見られますからね''', '''You can watch naked bodies in action as much as you like,''', [(398, '''‎そりゃ 動いてるねえ裸を ‎好きなだけ見られますからね''')], ''),
-    ('muranishi', '''まあ当然ですよね''', '''so it isn't surprising.''', [(399, '''‎まあ 当然ですよね''')], ''),
-    ('muranishi', '''ビデオの普及はポルノが支えてますから''', '''The proliferation of VCRs is fueled by porn.''', [(400, '''‎ビデオの普及は ‎ポルノが支えてますから''')], ''),
-    ('muranishi', '''実感としてはどうですか？''', '''What do you think?''', [(401, '''‎実感としては どうですか？''')], ''),
-    ('muranishi', '''ポルノ''', '''You watch porn, don't you?''', [(402, '''‎ポルノ''')], ''),
-    ('muranishi', '''見てるんでしょ？''', '''You watch porn, don't you?''', [(403, '''‎見てるんでしょ？''')], ''),
-    ('muranishi', '''確かに''', '''Indeed.''', [(404, '''‎確かに''')], ''),
-    ('muranishi', '''アハハハハいやすけべだな''', '''You horn dog.''', [(405, '''‎（川田） ‎アハハハハ　いや すけべだな''')], ''),
-    ('muranishi', '''ハハハハ…''', '''No translation.''', [(406, '''‎ハハハハ…''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "In the Episode 3 finale, Muranishi's scrappy team celebrates wrapping their debut shoot at a barbecue restaurant. Moved to tears by everyone's praise, the lead actress makes Muranishi pinky-promise to cast her again, Kawada reveals their tight budget only covers pig's feet, and Muranishi promises they will soon feast on steak. Listen to the Japanese first."
+STORY = [('kawada', '皆さん、今日はお疲れさまでした。乾杯！', 'Everyone, thank you for your hard work today. Cheers!', [(624, '皆さん 今日は お疲れさまでした'), (625, '乾杯')], ''), ('client_f', '正直、撮影も、ただのお金目当てだったのに、うれしいんだ。', 'Honestly, I only came to the shoot for the money, yet I feel so happy.', [(634, '正直 撮影も'), (635, 'ただのお金目当てだったのに'), (636, 'うれしいんだ')], ''), ('client_f', '褒められることあんまないから。', 'Because I hardly ever get praised like this.', [(637, '褒められること あんまないから')], ''), ('client_f', '監督、絶対監督とまた仕事したい！指切りね。', 'Director, I definitely want to work with you again! Pinky promise, okay?', [(639, '監督'), (640, '絶対 監督と また仕事したい'), (641, '指切りね')], ''), ('muranishi', '指切りげんまん、ウソついたら針千本のーます。指切った。', "Pinky promise sealed—if I tell a lie, I'll swallow a thousand needles!", [(642, '指切りげんまん'), (643, 'ウソついたら針千本のーます'), (644, '指切った')], ''), ('client_f', 'あ、私豚足大好き！', "Oh, I love pig's feet!", [(645, '豚足'), (645, 'あ 私 大好き')], ''), ('kawada', '十人で考えると、今のところ豚足が限界なんです。', "Calculating for ten people, right now pig's feet are the limit of our budget.", [(650, '人で考えると 今のところ豚足が限界なんです')], 'Kanji numeral.'), ('muranishi', 'アダルトビデオ市場がでかくなればなるほど、夢も広がる。', 'The bigger the adult video market grows, the wider the dream expands.', [(661, 'アダルトビデオ市場が でかくなればなるほど'), (662, '夢も広がる')], 'Spoken across cut.'), ('kawada', 'いつかステーキたらふく食べたいですね。', 'Someday it would be nice to eat our fill of steak.', [(669, 'いつかステーキ たらふく')], 'Polite Kawada phrasing.'), ('muranishi', '近いうちに食えるようになる。', "Before long, we'll be able to eat all we want.", [(670, '近いうちに食えるようになる')], ''), ('muranishi', '三田村、ちゃんと豚足食え。ラグビー、残すなよ。', "Mitamura, eat up your pig's feet properly. Rugby, don't leave any behind!", [(672, '三田村 ちゃんと 豚足食え'), (674, 'ラグビー 残すなよ')], ''), ('kawada', 'はい、頂きます！', 'Yes, thank you for the meal!', [(674, 'はい 頂きます')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Everyone, thank you for your hard work today. Cheers!'"), (1, None, "'Honestly, I only came to the shoot for the money, yet I feel so happy.'"), (2, None, "'Because I hardly ever get praised like this.'"), (3, None, "'Director, I definitely want to work with you again! Pinky promise, okay?'"), (4, None, "'Pinky promise sealed—if I tell a lie, I'll swallow a thousand needles!'"), (5, None, "'Oh, I love pig's feet!'"), (6, None, "'Calculating for ten people, right now pig's feet are the limit of our budget.'"), (7, None, "'The bigger the adult video market grows, the wider the dream expands.'"), (8, None, "'Someday it would be nice to eat our fill of steak.'"), (9, None, "'Before long, we'll be able to eat all we want.'"), (10, None, "'Mitamura, eat up your pig's feet properly. Rugby, don't leave any behind!'"), (11, None, "'Yes, thank you for the meal!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard the crew toast their unforgettable shoot, the lead actress seal a heartfelt pinky promise with Muranishi, Kawada explain the budget math for ten people, and Muranishi promise better days ahead. See you next time.'
+CLOSING = ('muranishi', 'また明日。')

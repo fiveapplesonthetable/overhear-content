@@ -4,295 +4,425 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Test translation",
+      "trans": "Thank you very much for your kind consideration.",
       "words": [
         {
-          "t": "何だ",
-          "lemma": "何だ",
+          "t": "ありがとうございます",
+          "lemma": "ありがとう",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "thank you very much",
+          "gram": "Polite expression of gratitude.",
           "span": [
             0,
-            2
+            10
           ],
-          "reading": "ナンダ",
-          "pos": "verb"
+          "reading": "アリガトウゴザイマス",
+          "pos": "interj"
         },
         {
-          "t": "この",
-          "lemma": "この",
+          "t": "お気遣い",
+          "lemma": "お気遣い",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "kind consideration",
+          "gram": "polite noun",
           "span": [
-            2,
-            4
+            11,
+            15
           ],
-          "reading": "コノ",
-          "pos": "det"
-        },
-        {
-          "t": "ウソ",
-          "lemma": "ウソ",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            6
-          ],
-          "reading": "ウソ",
+          "reading": "オキヅカイ",
           "pos": "noun"
         },
         {
-          "t": "くさい",
-          "lemma": "くさい",
+          "t": "いただい",
+          "lemma": "いただく",
           "stress": null,
-          "gloss": "test",
+          "gloss": "receive; take (humble)",
           "gram": "test",
           "span": [
-            6,
-            9
+            15,
+            19
           ],
-          "reading": "クサイ",
-          "pos": "adj"
+          "reading": "イタダイ",
+          "pos": "verb"
         },
         {
-          "t": "の",
-          "lemma": "の",
+          "t": "て",
+          "lemma": "て",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
           "span": [
-            9,
-            10
+            19,
+            20
           ],
-          "reading": "ノ",
-          "pos": "part"
-        },
-        {
-          "t": "は",
-          "lemma": "は",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "ワ",
+          "reading": "テ",
           "pos": "part"
         }
       ]
     },
     {
       "seg": 2,
-      "trans": "Test translation",
+      "trans": "Their parents send this tea every year, and it's really quite delicious.",
       "words": [
         {
-          "t": "あの",
-          "lemma": "あの",
+          "t": "親御さん",
+          "lemma": "親御さん",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "parents (polite)",
+          "gram": "polite noun",
           "span": [
             0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
             4
           ],
-          "reading": "カイイン",
+          "reading": "オヤゴサン",
           "pos": "noun"
         },
         {
-          "t": "証",
-          "lemma": "証",
+          "t": "が",
+          "lemma": "が",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "subject marker",
+          "gram": "subject particle",
           "span": [
             4,
             5
           ],
-          "reading": "ショウ",
-          "pos": "noun"
+          "reading": "ガ",
+          "pos": "part"
         },
         {
-          "t": "お願い",
-          "lemma": "お願い",
+          "t": "毎年",
+          "lemma": "毎年",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "every year",
+          "gram": "adverb",
           "span": [
             5,
-            8
+            7
           ],
-          "reading": "オネガイ",
-          "pos": "noun"
+          "reading": "マイトシ",
+          "pos": "adv"
         },
         {
-          "t": "し",
+          "t": "送って",
+          "lemma": "送る",
+          "stress": null,
+          "gloss": "sending",
+          "gram": "te-form",
+          "span": [
+            7,
+            10
+          ],
+          "reading": "オクッテ",
+          "pos": "verb"
+        },
+        {
+          "t": "きて",
+          "lemma": "くる",
+          "stress": null,
+          "gloss": "go and come back",
+          "gram": "て-form of auxiliary くる (go do something and return), used as a soft request.",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "キテ",
+          "pos": "verb"
+        },
+        {
+          "t": "これ",
+          "lemma": "これ",
+          "stress": null,
+          "gloss": "this",
+          "gram": "pronoun",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "コレ",
+          "pos": "pron"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "なかなか",
+          "lemma": "なかなか",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            16,
+            20
+          ],
+          "reading": "ナカナカ",
+          "pos": "adv"
+        },
+        {
+          "t": "うまい",
+          "lemma": "うまい",
+          "stress": null,
+          "gloss": "well; skillful; delicious",
+          "gram": "auto",
+          "span": [
+            20,
+            23
+          ],
+          "reading": "ウマイ",
+          "pos": "adj"
+        },
+        {
+          "t": "んで",
+          "lemma": "んで",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            23,
+            25
+          ],
+          "reading": "ンデ",
+          "pos": "part"
+        },
+        {
+          "t": "す",
           "lemma": "する",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "do; make; decide on",
+          "gram": "auto",
           "span": [
-            8,
-            9
+            25,
+            26
           ],
-          "reading": "シ",
+          "reading": "ス",
           "pos": "verb"
         },
         {
-          "t": "ます",
-          "lemma": "ます",
+          "t": "よ",
+          "lemma": "よ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "you know",
+          "gram": "sentence-final particle",
           "span": [
-            9,
-            11
+            26,
+            27
           ],
-          "reading": "マス",
-          "pos": "verb"
+          "reading": "ヨ",
+          "pos": "part"
         }
       ]
     },
     {
       "seg": 3,
-      "trans": "Test translation",
+      "trans": "Ah, this really is delicious indeed.",
       "words": [
         {
-          "t": "会員",
-          "lemma": "会員",
+          "t": "ああ",
+          "lemma": "ああ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "yeah; ah",
+          "gram": "interjection",
           "span": [
             0,
             2
           ],
-          "reading": "カイイン",
-          "pos": "noun"
+          "reading": "アア",
+          "pos": "interj"
         },
         {
-          "t": "証",
-          "lemma": "証",
+          "t": "これ",
+          "lemma": "これ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "this",
+          "gram": "pronoun",
           "span": [
-            2,
-            3
+            3,
+            5
           ],
-          "reading": "ショウ",
-          "pos": "noun"
+          "reading": "コレ",
+          "pos": "pron"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "確かに",
+          "lemma": "確かに",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "Adverb.",
+          "span": [
+            6,
+            9
+          ],
+          "reading": "タシカニ",
+          "pos": "adv"
+        },
+        {
+          "t": "おいしい",
+          "lemma": "おいしい",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            9,
+            13
+          ],
+          "reading": "オイシイ",
+          "pos": "adj"
         }
       ]
     },
     {
       "seg": 4,
-      "trans": "Test translation",
+      "trans": "Lately it seems competition is fierce even for tea farmers.",
       "words": [
         {
-          "t": "どうも",
-          "lemma": "どうも",
+          "t": "最近",
+          "lemma": "最近",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "lately; recently",
+          "gram": "noun",
           "span": [
             0,
+            2
+          ],
+          "reading": "サイキン",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            2,
             3
           ],
-          "reading": "ドウモ",
-          "pos": "adv"
-        },
-        {
-          "t": "ありがとう",
-          "lemma": "ありがとう",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            3,
-            8
-          ],
-          "reading": "アリガトウ",
-          "pos": "interj"
-        },
-        {
-          "t": "はいし",
-          "lemma": "はいす",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            11
-          ],
-          "reading": "ハイシ",
-          "pos": "verb"
-        },
-        {
-          "t": "た",
-          "lemma": "た",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "タ",
-          "pos": "verb"
-        },
-        {
-          "t": "っけ",
-          "lemma": "っけ",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            12,
-            14
-          ],
-          "reading": "ッケ",
+          "reading": "ワ",
           "pos": "part"
         },
         {
-          "t": "また",
-          "lemma": "また",
+          "t": "お茶農家",
+          "lemma": "お茶農家",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "tea farmer",
+          "gram": "compound noun",
+          "span": [
+            3,
+            7
+          ],
+          "reading": "オチャノウカ",
+          "pos": "noun"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "stress": null,
+          "gloss": "also",
+          "gram": "Inclusive particle.",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "モ",
+          "pos": "part"
+        },
+        {
+          "t": "競争",
+          "lemma": "競争",
+          "stress": null,
+          "gloss": "competition",
+          "gram": "verbal noun",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "キョウソウ",
+          "pos": "noun"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "厳しい",
+          "lemma": "厳しい",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            11,
+            14
+          ],
+          "reading": "キビシイ",
+          "pos": "adj"
+        },
+        {
+          "t": "みたい",
+          "lemma": "みたい",
+          "stress": null,
+          "gloss": "seems like",
+          "gram": "Auxiliary na-adjective expressing appearance or likeness.",
           "span": [
             14,
-            16
+            17
           ],
-          "reading": "マタ",
-          "pos": "adv"
+          "reading": "ミタイ",
+          "pos": "adj"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "stress": null,
+          "gloss": "copula (continuative)",
+          "gram": "copula particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "デ",
+          "pos": "part"
         },
         {
           "t": "ね",
           "lemma": "ね",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "right?",
+          "gram": "sentence-final particle",
           "span": [
-            16,
-            17
+            18,
+            19
           ],
           "reading": "ネ",
           "pos": "part"
@@ -301,1636 +431,1064 @@
     },
     {
       "seg": 5,
-      "trans": "Test translation",
+      "trans": "It's the same for us electronics makers—our format war with Beta has reached its climax.",
       "words": [
         {
-          "t": "ああ",
-          "lemma": "ああ",
+          "t": "我々",
+          "lemma": "我々",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "particle / expression",
+          "gram": "auto",
           "span": [
             0,
             2
           ],
-          "reading": "アア",
-          "pos": "interj"
+          "reading": "ワレワレ",
+          "pos": "pron"
         },
         {
-          "t": "じゃ",
-          "lemma": "じゃ",
+          "t": "家電",
+          "lemma": "家電",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "home electronics",
+          "gram": "noun",
           "span": [
             2,
             4
           ],
-          "reading": "ジャ",
-          "pos": "conj"
+          "reading": "カデン",
+          "pos": "noun"
         },
         {
-          "t": "また",
-          "lemma": "また",
+          "t": "メーカー",
+          "lemma": "メーカー",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "manufacturer, studio",
+          "gram": "noun",
           "span": [
             4,
-            6
-          ],
-          "reading": "マタ",
-          "pos": "adv"
-        },
-        {
-          "t": "来る",
-          "lemma": "来る",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            6,
             8
           ],
-          "reading": "クル",
-          "pos": "verb"
+          "reading": "メーカー",
+          "pos": "noun"
         },
         {
-          "t": "よ",
-          "lemma": "よ",
+          "t": "も",
+          "lemma": "も",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "also",
+          "gram": "Inclusive particle.",
           "span": [
             8,
             9
           ],
-          "reading": "ヨ",
+          "reading": "モ",
           "pos": "part"
         },
         {
-          "t": "はい",
-          "lemma": "はい",
+          "t": "同じ",
+          "lemma": "同じ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "particle / expression",
+          "gram": "auto",
           "span": [
             9,
             11
           ],
-          "reading": "ハイ",
-          "pos": "interj"
-        },
-        {
-          "t": "気",
-          "lemma": "気",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "キ",
-          "pos": "noun"
-        },
-        {
-          "t": "い",
-          "lemma": "いる",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "イ",
-          "pos": "verb"
-        },
-        {
-          "t": "つけ",
-          "lemma": "つける",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            13,
-            15
-          ],
-          "reading": "ツケ",
-          "pos": "verb"
-        },
-        {
-          "t": "て",
-          "lemma": "て",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "テ",
-          "pos": "part"
-        }
-      ]
-    },
-    {
-      "seg": 6,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "じゃ",
-          "lemma": "じゃ",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ジャ",
-          "pos": "conj"
-        },
-        {
-          "t": "ちょっと",
-          "lemma": "ちょっと",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            6
-          ],
-          "reading": "チョット",
-          "pos": "adv"
-        },
-        {
-          "t": "仕事",
-          "lemma": "仕事",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            6,
-            8
-          ],
-          "reading": "シゴト",
-          "pos": "noun"
-        },
-        {
-          "t": "行か",
-          "lemma": "行く",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "イカ",
-          "pos": "verb"
-        },
-        {
-          "t": "なきゃ",
-          "lemma": "ない",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            10,
-            13
-          ],
-          "reading": "ナキャ",
-          "pos": "adj"
-        }
-      ]
-    },
-    {
-      "seg": 7,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "仕事",
-          "lemma": "仕事",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "シゴト",
-          "pos": "noun"
-        },
-        {
-          "t": "行っ",
-          "lemma": "行く",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "イッ",
-          "pos": "verb"
-        },
-        {
-          "t": "て",
-          "lemma": "て",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "テ",
-          "pos": "part"
-        }
-      ]
-    },
-    {
-      "seg": 9,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 11,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 13,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 15,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 17,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 19,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 21,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 23,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 25,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 27,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 29,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 31,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 33,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
-        },
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            5,
-            8
-          ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
-          "pos": "verb"
-        },
-        {
-          "t": "ます",
-          "lemma": "ます",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "何だ",
-          "lemma": "何だ",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ナンダ",
-          "pos": "verb"
-        },
-        {
-          "t": "この",
-          "lemma": "この",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "コノ",
+          "reading": "オナジ",
           "pos": "det"
         },
         {
-          "t": "ウソ",
-          "lemma": "ウソ",
+          "t": "です",
+          "lemma": "です",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "is (polite)",
+          "gram": "polite copula",
           "span": [
-            4,
-            6
+            11,
+            13
           ],
-          "reading": "ウソ",
-          "pos": "noun"
+          "reading": "デス",
+          "pos": "verb"
         },
         {
-          "t": "くさい",
-          "lemma": "くさい",
+          "t": "ベータ",
+          "lemma": "ベータ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "Betamax",
+          "gram": "proper noun",
           "span": [
-            6,
-            9
+            14,
+            17
           ],
-          "reading": "クサイ",
-          "pos": "adj"
+          "reading": "ベータ",
+          "pos": "name"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "stress": null,
+          "gloss": "that (quote)",
+          "gram": "quotative particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "ト",
+          "pos": "part"
         },
         {
           "t": "の",
           "lemma": "の",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "of; 's",
+          "gram": "possessive particle",
           "span": [
-            9,
-            10
+            18,
+            19
           ],
           "reading": "ノ",
           "pos": "part"
         },
         {
-          "t": "は",
-          "lemma": "は",
+          "t": "規格戦争",
+          "lemma": "規格戦争",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "format war",
+          "gram": "compound noun",
           "span": [
-            10,
-            11
+            19,
+            23
           ],
-          "reading": "ワ",
+          "reading": "キカクセンソウ",
+          "pos": "noun"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "stress": null,
+          "gloss": "also",
+          "gram": "Inclusive particle.",
+          "span": [
+            23,
+            24
+          ],
+          "reading": "モ",
           "pos": "part"
-        }
-      ]
-    },
-    {
-      "seg": 37,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "あの",
-          "lemma": "あの",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アノ",
-          "pos": "interj"
         },
         {
-          "t": "会員",
-          "lemma": "会員",
+          "t": "佳境",
+          "lemma": "佳境",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "climax, critical stage",
+          "gram": "noun",
           "span": [
-            2,
-            4
+            24,
+            26
           ],
-          "reading": "カイイン",
+          "reading": "カキョウ",
           "pos": "noun"
         },
         {
-          "t": "証",
-          "lemma": "証",
+          "t": "に",
+          "lemma": "に",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "in; with",
+          "gram": "locative particle",
           "span": [
-            4,
-            5
+            26,
+            27
           ],
-          "reading": "ショウ",
-          "pos": "noun"
+          "reading": "ニ",
+          "pos": "part"
         },
         {
-          "t": "お願い",
-          "lemma": "お願い",
+          "t": "来",
+          "lemma": "来る",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "come",
+          "gram": "verb (irrealis)",
           "span": [
-            5,
-            8
+            27,
+            28
           ],
-          "reading": "オネガイ",
-          "pos": "noun"
-        },
-        {
-          "t": "し",
-          "lemma": "する",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "シ",
+          "reading": "コ",
           "pos": "verb"
         },
         {
-          "t": "ます",
+          "t": "まし",
           "lemma": "ます",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary, continuative",
           "span": [
-            9,
-            11
+            28,
+            30
           ],
-          "reading": "マス",
-          "pos": "verb"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "会員",
-          "lemma": "会員",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "カイイン",
-          "pos": "noun"
-        },
-        {
-          "t": "証",
-          "lemma": "証",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "ショウ",
-          "pos": "noun"
-        }
-      ]
-    },
-    {
-      "seg": 39,
-      "trans": "Test translation",
-      "words": [
-        {
-          "t": "どうも",
-          "lemma": "どうも",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ドウモ",
-          "pos": "adv"
-        },
-        {
-          "t": "ありがとう",
-          "lemma": "ありがとう",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            3,
-            8
-          ],
-          "reading": "アリガトウ",
-          "pos": "interj"
-        },
-        {
-          "t": "はいし",
-          "lemma": "はいす",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            11
-          ],
-          "reading": "ハイシ",
+          "reading": "マシ",
           "pos": "verb"
         },
         {
           "t": "た",
           "lemma": "た",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "past tense",
+          "gram": "past auxiliary",
+          "span": [
+            30,
+            31
+          ],
+          "reading": "タ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 6,
+      "trans": "The fate of our company rests on you, President Ikezawa.",
+      "words": [
+        {
+          "t": "我が社",
+          "lemma": "我が社",
+          "stress": null,
+          "gloss": "our company",
+          "gram": "compound noun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ワガシャ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "命運",
+          "lemma": "命運",
+          "stress": null,
+          "gloss": "fate, destiny",
+          "gram": "noun",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "メイウン",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "池沢",
+          "lemma": "池沢",
+          "stress": null,
+          "gloss": "Ikezawa",
+          "gram": "proper noun",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "イケザワ",
+          "pos": "name"
+        },
+        {
+          "t": "社長",
+          "lemma": "社長",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "シャチョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "あなた",
+          "lemma": "あなた",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            12,
+            15
+          ],
+          "reading": "アナタ",
+          "pos": "pron"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "stress": null,
+          "gloss": "in; with",
+          "gram": "locative particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "ニ",
+          "pos": "part"
+        },
+        {
+          "t": "かかっ",
+          "lemma": "かかる",
+          "stress": null,
+          "gloss": "depend on, rest upon",
+          "gram": "te-stem",
+          "span": [
+            16,
+            19
+          ],
+          "reading": "カカッ",
+          "pos": "verb"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "テ",
+          "pos": "part"
+        },
+        {
+          "t": "いま",
+          "lemma": "いま",
+          "stress": null,
+          "gloss": "now",
+          "gram": "noun",
+          "span": [
+            20,
+            22
+          ],
+          "reading": "イマ",
+          "pos": "noun"
+        },
+        {
+          "t": "す",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do; make; decide on",
+          "gram": "auto",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "ス",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 7,
+      "trans": "Now you're exaggerating. Still, adult magazines really are outdated now.",
+      "words": [
+        {
+          "t": "そんな",
+          "lemma": "そんな",
+          "stress": null,
+          "gloss": "such; like that",
+          "gram": "Prenominal modifier.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ソンナ",
+          "pos": "det"
+        },
+        {
+          "t": "大げさ",
+          "lemma": "大げさ",
+          "stress": null,
+          "gloss": "exaggerated, over-the-top",
+          "gram": "na-adjective",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "オオゲサ",
+          "pos": "noun"
+        },
+        {
+          "t": "な",
+          "lemma": "な",
+          "stress": null,
+          "gloss": "man (emphatic)",
+          "gram": "sentence-final particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ナ",
+          "pos": "part"
+        },
+        {
+          "t": "確かに",
+          "lemma": "確かに",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "Adverb.",
+          "span": [
+            8,
+            11
+          ],
+          "reading": "タシカニ",
+          "pos": "adv"
+        },
+        {
+          "t": "エロ",
+          "lemma": "エロ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "エロ",
+          "pos": "noun"
+        },
+        {
+          "t": "本",
+          "lemma": "本",
+          "stress": null,
+          "gloss": "book",
+          "gram": "noun",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ホン",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "もう",
+          "lemma": "もう",
+          "stress": null,
+          "gloss": "just; almost",
+          "gram": "adverb",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "モウ",
+          "pos": "adv"
+        },
+        {
+          "t": "古い",
+          "lemma": "古い",
+          "stress": null,
+          "gloss": "old, outdated",
+          "gram": "i-adjective",
+          "span": [
+            17,
+            19
+          ],
+          "reading": "フルイ",
+          "pos": "adj"
+        }
+      ]
+    },
+    {
+      "seg": 8,
+      "trans": "Here it is, sir.",
+      "words": [
+        {
+          "t": "はい",
+          "lemma": "はい",
+          "stress": null,
+          "gloss": "yes",
+          "gram": "interjection",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ハイ",
+          "pos": "interj"
+        },
+        {
+          "t": "どうぞ",
+          "lemma": "どうぞ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "ドウゾ",
+          "pos": "adv"
+        }
+      ]
+    },
+    {
+      "seg": 9,
+      "trans": "Give this away free to customers who buy a video deck—it's our very first release.",
+      "words": [
+        {
+          "t": "ビデオデッキ",
+          "lemma": "ビデオデッキ",
+          "stress": null,
+          "gloss": "VCR, video deck",
+          "gram": "compound noun",
+          "span": [
+            0,
+            6
+          ],
+          "reading": "ビデオデッキ",
+          "pos": "noun"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "stress": null,
+          "gloss": "object marker",
+          "gram": "object particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "オ",
+          "pos": "part"
+        },
+        {
+          "t": "購入",
+          "lemma": "購入",
+          "stress": null,
+          "gloss": "purchase",
+          "gram": "verbal noun",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "コウニュウ",
+          "pos": "noun"
+        },
+        {
+          "t": "した",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "happened",
+          "gram": "Past た-form of する (to do/happen).",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "シタ",
+          "pos": "verb"
+        },
+        {
+          "t": "客",
+          "lemma": "客",
+          "stress": null,
+          "gloss": "customer, guest",
+          "gram": "noun",
           "span": [
             11,
             12
           ],
-          "reading": "タ",
+          "reading": "キャク",
+          "pos": "noun"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "stress": null,
+          "gloss": "in; with",
+          "gram": "locative particle",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ニ",
+          "pos": "part"
+        },
+        {
+          "t": "無料",
+          "lemma": "無料",
+          "stress": null,
+          "gloss": "free of charge",
+          "gram": "noun",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "ムリョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "stress": null,
+          "gloss": "copula (continuative)",
+          "gram": "copula particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "デ",
+          "pos": "part"
+        },
+        {
+          "t": "プレゼント",
+          "lemma": "プレゼント",
+          "stress": null,
+          "gloss": "present, gift",
+          "gram": "noun",
+          "span": [
+            16,
+            21
+          ],
+          "reading": "プレゼント",
+          "pos": "noun"
+        },
+        {
+          "t": "し",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "verb (continuative)",
+          "span": [
+            21,
+            22
+          ],
+          "reading": "シ",
           "pos": "verb"
         },
         {
-          "t": "っけ",
-          "lemma": "っけ",
+          "t": "て",
+          "lemma": "て",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "テ",
+          "pos": "part"
+        },
+        {
+          "t": "ください",
+          "lemma": "ください",
+          "stress": null,
+          "gloss": "please",
+          "gram": "polite request",
+          "span": [
+            23,
+            27
+          ],
+          "reading": "クダサイ",
+          "pos": "verb"
+        },
+        {
+          "t": "うち",
+          "lemma": "うち",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            28,
+            30
+          ],
+          "reading": "ウチ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            30,
+            31
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "最初",
+          "lemma": "最初",
+          "stress": null,
+          "gloss": "first, very beginning",
+          "gram": "noun",
+          "span": [
+            31,
+            33
+          ],
+          "reading": "サイショ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            33,
+            34
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "作品",
+          "lemma": "作品",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            34,
+            36
+          ],
+          "reading": "サクヒン",
+          "pos": "noun"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "stress": null,
+          "gloss": "is (polite)",
+          "gram": "polite copula",
+          "span": [
+            36,
+            38
+          ],
+          "reading": "デス",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 10,
+      "trans": "Let me make a prediction: your company will eventually monopolize the video market.",
+      "words": [
+        {
+          "t": "予言",
+          "lemma": "予言",
+          "stress": null,
+          "gloss": "prediction",
+          "gram": "verbal noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ヨゲン",
+          "pos": "noun"
+        },
+        {
+          "t": "し",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "verb (continuative)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "シ",
+          "pos": "verb"
+        },
+        {
+          "t": "とき",
+          "lemma": "とき",
+          "stress": null,
+          "gloss": "time, keep (contracted)",
+          "gram": "colloquial auxiliary",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "トキ",
+          "pos": "name"
+        },
+        {
+          "t": "ます",
+          "lemma": "ます",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "マス",
+          "pos": "verb"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "sentence-final particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ヨ",
+          "pos": "part"
+        },
+        {
+          "t": "あなた",
+          "lemma": "あなた",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            9,
+            12
+          ],
+          "reading": "アナタ",
+          "pos": "pron"
+        },
+        {
+          "t": "たち",
+          "lemma": "たち",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
           "span": [
             12,
             14
           ],
-          "reading": "ッケ",
+          "reading": "タチ",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "ワ",
           "pos": "part"
         },
         {
-          "t": "また",
-          "lemma": "また",
+          "t": "いずれ",
+          "lemma": "いずれ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "eventually, sooner or later",
+          "gram": "adverb",
           "span": [
-            14,
+            16,
+            19
+          ],
+          "reading": "イズレ",
+          "pos": "adv"
+        },
+        {
+          "t": "ビデオ",
+          "lemma": "ビデオ",
+          "stress": null,
+          "gloss": "video",
+          "gram": "noun",
+          "span": [
+            19,
+            22
+          ],
+          "reading": "ビデオ",
+          "pos": "noun"
+        },
+        {
+          "t": "市場",
+          "lemma": "市場",
+          "stress": null,
+          "gloss": "market",
+          "gram": "noun",
+          "span": [
+            22,
+            24
+          ],
+          "reading": "シジョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "stress": null,
+          "gloss": "object marker",
+          "gram": "object particle",
+          "span": [
+            24,
+            25
+          ],
+          "reading": "オ",
+          "pos": "part"
+        },
+        {
+          "t": "独占",
+          "lemma": "独占",
+          "stress": null,
+          "gloss": "monopoly",
+          "gram": "verbal noun",
+          "span": [
+            25,
+            27
+          ],
+          "reading": "ドクセン",
+          "pos": "noun"
+        },
+        {
+          "t": "できる",
+          "lemma": "できる",
+          "stress": null,
+          "gloss": "can do",
+          "gram": "ichidan, plain non-past",
+          "span": [
+            27,
+            30
+          ],
+          "reading": "デキル",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 11,
+      "trans": "Thanks to the adult videos that I produce.",
+      "words": [
+        {
+          "t": "私",
+          "lemma": "私",
+          "stress": null,
+          "gloss": "I",
+          "gram": "Polite first-person pronoun.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ワタシ",
+          "pos": "pron"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "作る",
+          "lemma": "作る",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ツクル",
+          "pos": "verb"
+        },
+        {
+          "t": "アダルトビデオ",
+          "lemma": "アダルトビデオ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            4,
+            11
+          ],
+          "reading": "アダルトビデオ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "おかげ",
+          "lemma": "おかげ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            12,
+            15
+          ],
+          "reading": "オカゲ",
+          "pos": "noun"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "stress": null,
+          "gloss": "copula (continuative)",
+          "gram": "copula particle",
+          "span": [
+            15,
             16
           ],
-          "reading": "マタ",
-          "pos": "adv"
+          "reading": "デ",
+          "pos": "part"
         },
         {
           "t": "ね",
           "lemma": "ね",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "right?",
+          "gram": "sentence-final particle",
           "span": [
             16,
             17
@@ -1941,15 +1499,306 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "Test translation",
+      "seg": 12,
+      "trans": "Thank you very much! We look forward to working with you.",
+      "words": [
+        {
+          "t": "ありがとうございます",
+          "lemma": "ありがとう",
+          "stress": null,
+          "gloss": "thank you very much",
+          "gram": "Polite expression of gratitude.",
+          "span": [
+            0,
+            10
+          ],
+          "reading": "アリガトウゴザイマス",
+          "pos": "interj"
+        },
+        {
+          "t": "よろしく",
+          "lemma": "よろしく",
+          "stress": null,
+          "gloss": "well; favorably",
+          "gram": "adverb",
+          "span": [
+            11,
+            15
+          ],
+          "reading": "ヨロシク",
+          "pos": "adv"
+        },
+        {
+          "t": "お願い",
+          "lemma": "お願い",
+          "stress": null,
+          "gloss": "request; favor",
+          "gram": "noun",
+          "span": [
+            15,
+            18
+          ],
+          "reading": "オネガイ",
+          "pos": "noun"
+        },
+        {
+          "t": "いたし",
+          "lemma": "いたす",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "humble する, masu-stem",
+          "span": [
+            18,
+            21
+          ],
+          "reading": "イタシ",
+          "pos": "verb"
+        },
+        {
+          "t": "ます",
+          "lemma": "ます",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary",
+          "span": [
+            21,
+            23
+          ],
+          "reading": "マス",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 14,
+      "trans": "Thank you very much for your kind consideration.",
+      "words": [
+        {
+          "t": "ありがとうございます",
+          "lemma": "ありがとう",
+          "stress": null,
+          "gloss": "thank you very much",
+          "gram": "Polite expression of gratitude.",
+          "span": [
+            0,
+            10
+          ],
+          "reading": "アリガトウゴザイマス",
+          "pos": "interj"
+        },
+        {
+          "t": "お気遣い",
+          "lemma": "お気遣い",
+          "stress": null,
+          "gloss": "kind consideration",
+          "gram": "polite noun",
+          "span": [
+            11,
+            15
+          ],
+          "reading": "オキヅカイ",
+          "pos": "noun"
+        },
+        {
+          "t": "いただい",
+          "lemma": "いただく",
+          "stress": null,
+          "gloss": "receive; take (humble)",
+          "gram": "test",
+          "span": [
+            15,
+            19
+          ],
+          "reading": "イタダイ",
+          "pos": "verb"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "テ",
+          "pos": "part"
+        }
+      ]
+    },
+    {
+      "seg": 16,
+      "trans": "Their parents send this tea every year, and it's really quite delicious.",
+      "words": [
+        {
+          "t": "親御さん",
+          "lemma": "親御さん",
+          "stress": null,
+          "gloss": "parents (polite)",
+          "gram": "polite noun",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "オヤゴサン",
+          "pos": "noun"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "毎年",
+          "lemma": "毎年",
+          "stress": null,
+          "gloss": "every year",
+          "gram": "adverb",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "マイトシ",
+          "pos": "adv"
+        },
+        {
+          "t": "送って",
+          "lemma": "送る",
+          "stress": null,
+          "gloss": "sending",
+          "gram": "te-form",
+          "span": [
+            7,
+            10
+          ],
+          "reading": "オクッテ",
+          "pos": "verb"
+        },
+        {
+          "t": "きて",
+          "lemma": "くる",
+          "stress": null,
+          "gloss": "go and come back",
+          "gram": "て-form of auxiliary くる (go do something and return), used as a soft request.",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "キテ",
+          "pos": "verb"
+        },
+        {
+          "t": "これ",
+          "lemma": "これ",
+          "stress": null,
+          "gloss": "this",
+          "gram": "pronoun",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "コレ",
+          "pos": "pron"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "なかなか",
+          "lemma": "なかなか",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            16,
+            20
+          ],
+          "reading": "ナカナカ",
+          "pos": "adv"
+        },
+        {
+          "t": "うまい",
+          "lemma": "うまい",
+          "stress": null,
+          "gloss": "well; skillful; delicious",
+          "gram": "auto",
+          "span": [
+            20,
+            23
+          ],
+          "reading": "ウマイ",
+          "pos": "adj"
+        },
+        {
+          "t": "んで",
+          "lemma": "んで",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            23,
+            25
+          ],
+          "reading": "ンデ",
+          "pos": "part"
+        },
+        {
+          "t": "す",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do; make; decide on",
+          "gram": "auto",
+          "span": [
+            25,
+            26
+          ],
+          "reading": "ス",
+          "pos": "verb"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "sentence-final particle",
+          "span": [
+            26,
+            27
+          ],
+          "reading": "ヨ",
+          "pos": "part"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "Ah, this really is delicious indeed.",
       "words": [
         {
           "t": "ああ",
           "lemma": "ああ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "yeah; ah",
+          "gram": "interjection",
           "span": [
             0,
             2
@@ -1958,250 +1807,2912 @@
           "pos": "interj"
         },
         {
-          "t": "じゃ",
-          "lemma": "じゃ",
+          "t": "これ",
+          "lemma": "これ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "this",
+          "gram": "pronoun",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "コレ",
+          "pos": "pron"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "確かに",
+          "lemma": "確かに",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "Adverb.",
+          "span": [
+            6,
+            9
+          ],
+          "reading": "タシカニ",
+          "pos": "adv"
+        },
+        {
+          "t": "おいしい",
+          "lemma": "おいしい",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            9,
+            13
+          ],
+          "reading": "オイシイ",
+          "pos": "adj"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "Lately it seems competition is fierce even for tea farmers.",
+      "words": [
+        {
+          "t": "最近",
+          "lemma": "最近",
+          "stress": null,
+          "gloss": "lately; recently",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "サイキン",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "お茶農家",
+          "lemma": "お茶農家",
+          "stress": null,
+          "gloss": "tea farmer",
+          "gram": "compound noun",
+          "span": [
+            3,
+            7
+          ],
+          "reading": "オチャノウカ",
+          "pos": "noun"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "stress": null,
+          "gloss": "also",
+          "gram": "Inclusive particle.",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "モ",
+          "pos": "part"
+        },
+        {
+          "t": "競争",
+          "lemma": "競争",
+          "stress": null,
+          "gloss": "competition",
+          "gram": "verbal noun",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "キョウソウ",
+          "pos": "noun"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "厳しい",
+          "lemma": "厳しい",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            11,
+            14
+          ],
+          "reading": "キビシイ",
+          "pos": "adj"
+        },
+        {
+          "t": "みたい",
+          "lemma": "みたい",
+          "stress": null,
+          "gloss": "seems like",
+          "gram": "Auxiliary na-adjective expressing appearance or likeness.",
+          "span": [
+            14,
+            17
+          ],
+          "reading": "ミタイ",
+          "pos": "adj"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "stress": null,
+          "gloss": "copula (continuative)",
+          "gram": "copula particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "デ",
+          "pos": "part"
+        },
+        {
+          "t": "ね",
+          "lemma": "ね",
+          "stress": null,
+          "gloss": "right?",
+          "gram": "sentence-final particle",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "ネ",
+          "pos": "part"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "It's the same for us electronics makers—our format war with Beta has reached its climax.",
+      "words": [
+        {
+          "t": "我々",
+          "lemma": "我々",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ワレワレ",
+          "pos": "pron"
+        },
+        {
+          "t": "家電",
+          "lemma": "家電",
+          "stress": null,
+          "gloss": "home electronics",
+          "gram": "noun",
           "span": [
             2,
             4
           ],
-          "reading": "ジャ",
-          "pos": "conj"
+          "reading": "カデン",
+          "pos": "noun"
         },
         {
-          "t": "また",
-          "lemma": "また",
+          "t": "メーカー",
+          "lemma": "メーカー",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "manufacturer, studio",
+          "gram": "noun",
+          "span": [
+            4,
+            8
+          ],
+          "reading": "メーカー",
+          "pos": "noun"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "stress": null,
+          "gloss": "also",
+          "gram": "Inclusive particle.",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "モ",
+          "pos": "part"
+        },
+        {
+          "t": "同じ",
+          "lemma": "同じ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "オナジ",
+          "pos": "det"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "stress": null,
+          "gloss": "is (polite)",
+          "gram": "polite copula",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "デス",
+          "pos": "verb"
+        },
+        {
+          "t": "ベータ",
+          "lemma": "ベータ",
+          "stress": null,
+          "gloss": "Betamax",
+          "gram": "proper noun",
+          "span": [
+            14,
+            17
+          ],
+          "reading": "ベータ",
+          "pos": "name"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "stress": null,
+          "gloss": "that (quote)",
+          "gram": "quotative particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "ト",
+          "pos": "part"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "規格戦争",
+          "lemma": "規格戦争",
+          "stress": null,
+          "gloss": "format war",
+          "gram": "compound noun",
+          "span": [
+            19,
+            23
+          ],
+          "reading": "キカクセンソウ",
+          "pos": "noun"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "stress": null,
+          "gloss": "also",
+          "gram": "Inclusive particle.",
+          "span": [
+            23,
+            24
+          ],
+          "reading": "モ",
+          "pos": "part"
+        },
+        {
+          "t": "佳境",
+          "lemma": "佳境",
+          "stress": null,
+          "gloss": "climax, critical stage",
+          "gram": "noun",
+          "span": [
+            24,
+            26
+          ],
+          "reading": "カキョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "stress": null,
+          "gloss": "in; with",
+          "gram": "locative particle",
+          "span": [
+            26,
+            27
+          ],
+          "reading": "ニ",
+          "pos": "part"
+        },
+        {
+          "t": "来",
+          "lemma": "来る",
+          "stress": null,
+          "gloss": "come",
+          "gram": "verb (irrealis)",
+          "span": [
+            27,
+            28
+          ],
+          "reading": "コ",
+          "pos": "verb"
+        },
+        {
+          "t": "まし",
+          "lemma": "ます",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary, continuative",
+          "span": [
+            28,
+            30
+          ],
+          "reading": "マシ",
+          "pos": "verb"
+        },
+        {
+          "t": "た",
+          "lemma": "た",
+          "stress": null,
+          "gloss": "past tense",
+          "gram": "past auxiliary",
+          "span": [
+            30,
+            31
+          ],
+          "reading": "タ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "The fate of our company rests on you, President Ikezawa.",
+      "words": [
+        {
+          "t": "我が社",
+          "lemma": "我が社",
+          "stress": null,
+          "gloss": "our company",
+          "gram": "compound noun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ワガシャ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "命運",
+          "lemma": "命運",
+          "stress": null,
+          "gloss": "fate, destiny",
+          "gram": "noun",
           "span": [
             4,
             6
           ],
-          "reading": "マタ",
+          "reading": "メイウン",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "池沢",
+          "lemma": "池沢",
+          "stress": null,
+          "gloss": "Ikezawa",
+          "gram": "proper noun",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "イケザワ",
+          "pos": "name"
+        },
+        {
+          "t": "社長",
+          "lemma": "社長",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "シャチョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "あなた",
+          "lemma": "あなた",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            12,
+            15
+          ],
+          "reading": "アナタ",
+          "pos": "pron"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "stress": null,
+          "gloss": "in; with",
+          "gram": "locative particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "ニ",
+          "pos": "part"
+        },
+        {
+          "t": "かかっ",
+          "lemma": "かかる",
+          "stress": null,
+          "gloss": "depend on, rest upon",
+          "gram": "te-stem",
+          "span": [
+            16,
+            19
+          ],
+          "reading": "カカッ",
+          "pos": "verb"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "テ",
+          "pos": "part"
+        },
+        {
+          "t": "いま",
+          "lemma": "いま",
+          "stress": null,
+          "gloss": "now",
+          "gram": "noun",
+          "span": [
+            20,
+            22
+          ],
+          "reading": "イマ",
+          "pos": "noun"
+        },
+        {
+          "t": "す",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do; make; decide on",
+          "gram": "auto",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "ス",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "Now you're exaggerating. Still, adult magazines really are outdated now.",
+      "words": [
+        {
+          "t": "そんな",
+          "lemma": "そんな",
+          "stress": null,
+          "gloss": "such; like that",
+          "gram": "Prenominal modifier.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ソンナ",
+          "pos": "det"
+        },
+        {
+          "t": "大げさ",
+          "lemma": "大げさ",
+          "stress": null,
+          "gloss": "exaggerated, over-the-top",
+          "gram": "na-adjective",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "オオゲサ",
+          "pos": "noun"
+        },
+        {
+          "t": "な",
+          "lemma": "な",
+          "stress": null,
+          "gloss": "man (emphatic)",
+          "gram": "sentence-final particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ナ",
+          "pos": "part"
+        },
+        {
+          "t": "確かに",
+          "lemma": "確かに",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "Adverb.",
+          "span": [
+            8,
+            11
+          ],
+          "reading": "タシカニ",
           "pos": "adv"
         },
         {
-          "t": "来る",
-          "lemma": "来る",
+          "t": "エロ",
+          "lemma": "エロ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "エロ",
+          "pos": "noun"
+        },
+        {
+          "t": "本",
+          "lemma": "本",
+          "stress": null,
+          "gloss": "book",
+          "gram": "noun",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ホン",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "もう",
+          "lemma": "もう",
+          "stress": null,
+          "gloss": "just; almost",
+          "gram": "adverb",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "モウ",
+          "pos": "adv"
+        },
+        {
+          "t": "古い",
+          "lemma": "古い",
+          "stress": null,
+          "gloss": "old, outdated",
+          "gram": "i-adjective",
+          "span": [
+            17,
+            19
+          ],
+          "reading": "フルイ",
+          "pos": "adj"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "Here it is, sir.",
+      "words": [
+        {
+          "t": "はい",
+          "lemma": "はい",
+          "stress": null,
+          "gloss": "yes",
+          "gram": "interjection",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ハイ",
+          "pos": "interj"
+        },
+        {
+          "t": "どうぞ",
+          "lemma": "どうぞ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "ドウゾ",
+          "pos": "adv"
+        }
+      ]
+    },
+    {
+      "seg": 30,
+      "trans": "Give this away free to customers who buy a video deck—it's our very first release.",
+      "words": [
+        {
+          "t": "ビデオデッキ",
+          "lemma": "ビデオデッキ",
+          "stress": null,
+          "gloss": "VCR, video deck",
+          "gram": "compound noun",
+          "span": [
+            0,
+            6
+          ],
+          "reading": "ビデオデッキ",
+          "pos": "noun"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "stress": null,
+          "gloss": "object marker",
+          "gram": "object particle",
           "span": [
             6,
-            8
+            7
           ],
-          "reading": "クル",
+          "reading": "オ",
+          "pos": "part"
+        },
+        {
+          "t": "購入",
+          "lemma": "購入",
+          "stress": null,
+          "gloss": "purchase",
+          "gram": "verbal noun",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "コウニュウ",
+          "pos": "noun"
+        },
+        {
+          "t": "した",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "happened",
+          "gram": "Past た-form of する (to do/happen).",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "シタ",
+          "pos": "verb"
+        },
+        {
+          "t": "客",
+          "lemma": "客",
+          "stress": null,
+          "gloss": "customer, guest",
+          "gram": "noun",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "キャク",
+          "pos": "noun"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "stress": null,
+          "gloss": "in; with",
+          "gram": "locative particle",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ニ",
+          "pos": "part"
+        },
+        {
+          "t": "無料",
+          "lemma": "無料",
+          "stress": null,
+          "gloss": "free of charge",
+          "gram": "noun",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "ムリョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "stress": null,
+          "gloss": "copula (continuative)",
+          "gram": "copula particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "デ",
+          "pos": "part"
+        },
+        {
+          "t": "プレゼント",
+          "lemma": "プレゼント",
+          "stress": null,
+          "gloss": "present, gift",
+          "gram": "noun",
+          "span": [
+            16,
+            21
+          ],
+          "reading": "プレゼント",
+          "pos": "noun"
+        },
+        {
+          "t": "し",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "verb (continuative)",
+          "span": [
+            21,
+            22
+          ],
+          "reading": "シ",
+          "pos": "verb"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "テ",
+          "pos": "part"
+        },
+        {
+          "t": "ください",
+          "lemma": "ください",
+          "stress": null,
+          "gloss": "please",
+          "gram": "polite request",
+          "span": [
+            23,
+            27
+          ],
+          "reading": "クダサイ",
+          "pos": "verb"
+        },
+        {
+          "t": "うち",
+          "lemma": "うち",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            28,
+            30
+          ],
+          "reading": "ウチ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            30,
+            31
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "最初",
+          "lemma": "最初",
+          "stress": null,
+          "gloss": "first, very beginning",
+          "gram": "noun",
+          "span": [
+            31,
+            33
+          ],
+          "reading": "サイショ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            33,
+            34
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "作品",
+          "lemma": "作品",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            34,
+            36
+          ],
+          "reading": "サクヒン",
+          "pos": "noun"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "stress": null,
+          "gloss": "is (polite)",
+          "gram": "polite copula",
+          "span": [
+            36,
+            38
+          ],
+          "reading": "デス",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "Let me make a prediction: your company will eventually monopolize the video market.",
+      "words": [
+        {
+          "t": "予言",
+          "lemma": "予言",
+          "stress": null,
+          "gloss": "prediction",
+          "gram": "verbal noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ヨゲン",
+          "pos": "noun"
+        },
+        {
+          "t": "し",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "verb (continuative)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "シ",
+          "pos": "verb"
+        },
+        {
+          "t": "とき",
+          "lemma": "とき",
+          "stress": null,
+          "gloss": "time, keep (contracted)",
+          "gram": "colloquial auxiliary",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "トキ",
+          "pos": "name"
+        },
+        {
+          "t": "ます",
+          "lemma": "ます",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "マス",
           "pos": "verb"
         },
         {
           "t": "よ",
           "lemma": "よ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "you know",
+          "gram": "sentence-final particle",
           "span": [
-            8,
-            9
+            7,
+            8
           ],
           "reading": "ヨ",
           "pos": "part"
         },
         {
-          "t": "はい",
-          "lemma": "はい",
+          "t": "あなた",
+          "lemma": "あなた",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "particle / expression",
+          "gram": "auto",
           "span": [
             9,
-            11
+            12
           ],
-          "reading": "ハイ",
-          "pos": "interj"
+          "reading": "アナタ",
+          "pos": "pron"
         },
         {
-          "t": "気",
-          "lemma": "気",
+          "t": "たち",
+          "lemma": "たち",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "タチ",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "いずれ",
+          "lemma": "いずれ",
+          "stress": null,
+          "gloss": "eventually, sooner or later",
+          "gram": "adverb",
+          "span": [
+            16,
+            19
+          ],
+          "reading": "イズレ",
+          "pos": "adv"
+        },
+        {
+          "t": "ビデオ",
+          "lemma": "ビデオ",
+          "stress": null,
+          "gloss": "video",
+          "gram": "noun",
+          "span": [
+            19,
+            22
+          ],
+          "reading": "ビデオ",
+          "pos": "noun"
+        },
+        {
+          "t": "市場",
+          "lemma": "市場",
+          "stress": null,
+          "gloss": "market",
+          "gram": "noun",
+          "span": [
+            22,
+            24
+          ],
+          "reading": "シジョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "stress": null,
+          "gloss": "object marker",
+          "gram": "object particle",
+          "span": [
+            24,
+            25
+          ],
+          "reading": "オ",
+          "pos": "part"
+        },
+        {
+          "t": "独占",
+          "lemma": "独占",
+          "stress": null,
+          "gloss": "monopoly",
+          "gram": "verbal noun",
+          "span": [
+            25,
+            27
+          ],
+          "reading": "ドクセン",
+          "pos": "noun"
+        },
+        {
+          "t": "できる",
+          "lemma": "できる",
+          "stress": null,
+          "gloss": "can do",
+          "gram": "ichidan, plain non-past",
+          "span": [
+            27,
+            30
+          ],
+          "reading": "デキル",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "Thanks to the adult videos that I produce.",
+      "words": [
+        {
+          "t": "私",
+          "lemma": "私",
+          "stress": null,
+          "gloss": "I",
+          "gram": "Polite first-person pronoun.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ワタシ",
+          "pos": "pron"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "作る",
+          "lemma": "作る",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ツクル",
+          "pos": "verb"
+        },
+        {
+          "t": "アダルトビデオ",
+          "lemma": "アダルトビデオ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            4,
+            11
+          ],
+          "reading": "アダルトビデオ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
           "span": [
             11,
             12
           ],
-          "reading": "キ",
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "おかげ",
+          "lemma": "おかげ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            12,
+            15
+          ],
+          "reading": "オカゲ",
           "pos": "noun"
         },
         {
-          "t": "い",
-          "lemma": "いる",
+          "t": "で",
+          "lemma": "で",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "copula (continuative)",
+          "gram": "copula particle",
           "span": [
-            12,
-            13
+            15,
+            16
           ],
-          "reading": "イ",
+          "reading": "デ",
+          "pos": "part"
+        },
+        {
+          "t": "ね",
+          "lemma": "ね",
+          "stress": null,
+          "gloss": "right?",
+          "gram": "sentence-final particle",
+          "span": [
+            16,
+            17
+          ],
+          "reading": "ネ",
+          "pos": "part"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "Thank you very much! We look forward to working with you.",
+      "words": [
+        {
+          "t": "ありがとうございます",
+          "lemma": "ありがとう",
+          "stress": null,
+          "gloss": "thank you very much",
+          "gram": "Polite expression of gratitude.",
+          "span": [
+            0,
+            10
+          ],
+          "reading": "アリガトウゴザイマス",
+          "pos": "interj"
+        },
+        {
+          "t": "よろしく",
+          "lemma": "よろしく",
+          "stress": null,
+          "gloss": "well; favorably",
+          "gram": "adverb",
+          "span": [
+            11,
+            15
+          ],
+          "reading": "ヨロシク",
+          "pos": "adv"
+        },
+        {
+          "t": "お願い",
+          "lemma": "お願い",
+          "stress": null,
+          "gloss": "request; favor",
+          "gram": "noun",
+          "span": [
+            15,
+            18
+          ],
+          "reading": "オネガイ",
+          "pos": "noun"
+        },
+        {
+          "t": "いたし",
+          "lemma": "いたす",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "humble する, masu-stem",
+          "span": [
+            18,
+            21
+          ],
+          "reading": "イタシ",
           "pos": "verb"
         },
         {
-          "t": "つけ",
-          "lemma": "つける",
+          "t": "ます",
+          "lemma": "ます",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary",
           "span": [
-            13,
+            21,
+            23
+          ],
+          "reading": "マス",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 39,
+      "trans": "Thank you very much for your kind consideration.",
+      "words": [
+        {
+          "t": "ありがとうございます",
+          "lemma": "ありがとう",
+          "stress": null,
+          "gloss": "thank you very much",
+          "gram": "Polite expression of gratitude.",
+          "span": [
+            0,
+            10
+          ],
+          "reading": "アリガトウゴザイマス",
+          "pos": "interj"
+        },
+        {
+          "t": "お気遣い",
+          "lemma": "お気遣い",
+          "stress": null,
+          "gloss": "kind consideration",
+          "gram": "polite noun",
+          "span": [
+            11,
             15
           ],
-          "reading": "ツケ",
+          "reading": "オキヅカイ",
+          "pos": "noun"
+        },
+        {
+          "t": "いただい",
+          "lemma": "いただく",
+          "stress": null,
+          "gloss": "receive; take (humble)",
+          "gram": "test",
+          "span": [
+            15,
+            19
+          ],
+          "reading": "イタダイ",
           "pos": "verb"
         },
         {
           "t": "て",
           "lemma": "て",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "テ",
+          "pos": "part"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "Their parents send this tea every year, and it's really quite delicious.",
+      "words": [
+        {
+          "t": "親御さん",
+          "lemma": "親御さん",
+          "stress": null,
+          "gloss": "parents (polite)",
+          "gram": "polite noun",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "オヤゴサン",
+          "pos": "noun"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "毎年",
+          "lemma": "毎年",
+          "stress": null,
+          "gloss": "every year",
+          "gram": "adverb",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "マイトシ",
+          "pos": "adv"
+        },
+        {
+          "t": "送って",
+          "lemma": "送る",
+          "stress": null,
+          "gloss": "sending",
+          "gram": "te-form",
+          "span": [
+            7,
+            10
+          ],
+          "reading": "オクッテ",
+          "pos": "verb"
+        },
+        {
+          "t": "きて",
+          "lemma": "くる",
+          "stress": null,
+          "gloss": "go and come back",
+          "gram": "て-form of auxiliary くる (go do something and return), used as a soft request.",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "キテ",
+          "pos": "verb"
+        },
+        {
+          "t": "これ",
+          "lemma": "これ",
+          "stress": null,
+          "gloss": "this",
+          "gram": "pronoun",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "コレ",
+          "pos": "pron"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
           "span": [
             15,
             16
           ],
-          "reading": "テ",
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "なかなか",
+          "lemma": "なかなか",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            16,
+            20
+          ],
+          "reading": "ナカナカ",
+          "pos": "adv"
+        },
+        {
+          "t": "うまい",
+          "lemma": "うまい",
+          "stress": null,
+          "gloss": "well; skillful; delicious",
+          "gram": "auto",
+          "span": [
+            20,
+            23
+          ],
+          "reading": "ウマイ",
+          "pos": "adj"
+        },
+        {
+          "t": "んで",
+          "lemma": "んで",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            23,
+            25
+          ],
+          "reading": "ンデ",
+          "pos": "part"
+        },
+        {
+          "t": "す",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do; make; decide on",
+          "gram": "auto",
+          "span": [
+            25,
+            26
+          ],
+          "reading": "ス",
+          "pos": "verb"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "sentence-final particle",
+          "span": [
+            26,
+            27
+          ],
+          "reading": "ヨ",
           "pos": "part"
         }
       ]
     },
     {
       "seg": 41,
-      "trans": "Test translation",
+      "trans": "Ah, this really is delicious indeed.",
       "words": [
         {
-          "t": "じゃ",
-          "lemma": "じゃ",
+          "t": "ああ",
+          "lemma": "ああ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "yeah; ah",
+          "gram": "interjection",
           "span": [
             0,
             2
           ],
-          "reading": "ジャ",
-          "pos": "conj"
+          "reading": "アア",
+          "pos": "interj"
         },
         {
-          "t": "ちょっと",
-          "lemma": "ちょっと",
+          "t": "これ",
+          "lemma": "これ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "this",
+          "gram": "pronoun",
           "span": [
-            2,
+            3,
+            5
+          ],
+          "reading": "コレ",
+          "pos": "pron"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            5,
             6
           ],
-          "reading": "チョット",
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "確かに",
+          "lemma": "確かに",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "Adverb.",
+          "span": [
+            6,
+            9
+          ],
+          "reading": "タシカニ",
           "pos": "adv"
         },
         {
-          "t": "仕事",
-          "lemma": "仕事",
+          "t": "おいしい",
+          "lemma": "おいしい",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "particle / expression",
+          "gram": "auto",
           "span": [
-            6,
-            8
-          ],
-          "reading": "シゴト",
-          "pos": "noun"
-        },
-        {
-          "t": "行か",
-          "lemma": "行く",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "イカ",
-          "pos": "verb"
-        },
-        {
-          "t": "なきゃ",
-          "lemma": "ない",
-          "stress": null,
-          "gloss": "test",
-          "gram": "test",
-          "span": [
-            10,
+            9,
             13
           ],
-          "reading": "ナキャ",
+          "reading": "オイシイ",
           "pos": "adj"
         }
       ]
     },
     {
       "seg": 42,
-      "trans": "Test translation",
+      "trans": "Lately it seems competition is fierce even for tea farmers.",
       "words": [
         {
-          "t": "仕事",
-          "lemma": "仕事",
+          "t": "最近",
+          "lemma": "最近",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "lately; recently",
+          "gram": "noun",
           "span": [
             0,
             2
           ],
-          "reading": "シゴト",
+          "reading": "サイキン",
           "pos": "noun"
         },
         {
-          "t": "行っ",
-          "lemma": "行く",
+          "t": "は",
+          "lemma": "は",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "お茶農家",
+          "lemma": "お茶農家",
+          "stress": null,
+          "gloss": "tea farmer",
+          "gram": "compound noun",
+          "span": [
+            3,
+            7
+          ],
+          "reading": "オチャノウカ",
+          "pos": "noun"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "stress": null,
+          "gloss": "also",
+          "gram": "Inclusive particle.",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "モ",
+          "pos": "part"
+        },
+        {
+          "t": "競争",
+          "lemma": "競争",
+          "stress": null,
+          "gloss": "competition",
+          "gram": "verbal noun",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "キョウソウ",
+          "pos": "noun"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "厳しい",
+          "lemma": "厳しい",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            11,
+            14
+          ],
+          "reading": "キビシイ",
+          "pos": "adj"
+        },
+        {
+          "t": "みたい",
+          "lemma": "みたい",
+          "stress": null,
+          "gloss": "seems like",
+          "gram": "Auxiliary na-adjective expressing appearance or likeness.",
+          "span": [
+            14,
+            17
+          ],
+          "reading": "ミタイ",
+          "pos": "adj"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "stress": null,
+          "gloss": "copula (continuative)",
+          "gram": "copula particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "デ",
+          "pos": "part"
+        },
+        {
+          "t": "ね",
+          "lemma": "ね",
+          "stress": null,
+          "gloss": "right?",
+          "gram": "sentence-final particle",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "ネ",
+          "pos": "part"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "It's the same for us electronics makers—our format war with Beta has reached its climax.",
+      "words": [
+        {
+          "t": "我々",
+          "lemma": "我々",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ワレワレ",
+          "pos": "pron"
+        },
+        {
+          "t": "家電",
+          "lemma": "家電",
+          "stress": null,
+          "gloss": "home electronics",
+          "gram": "noun",
           "span": [
             2,
             4
           ],
-          "reading": "イッ",
+          "reading": "カデン",
+          "pos": "noun"
+        },
+        {
+          "t": "メーカー",
+          "lemma": "メーカー",
+          "stress": null,
+          "gloss": "manufacturer, studio",
+          "gram": "noun",
+          "span": [
+            4,
+            8
+          ],
+          "reading": "メーカー",
+          "pos": "noun"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "stress": null,
+          "gloss": "also",
+          "gram": "Inclusive particle.",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "モ",
+          "pos": "part"
+        },
+        {
+          "t": "同じ",
+          "lemma": "同じ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "オナジ",
+          "pos": "det"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "stress": null,
+          "gloss": "is (polite)",
+          "gram": "polite copula",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "デス",
+          "pos": "verb"
+        },
+        {
+          "t": "ベータ",
+          "lemma": "ベータ",
+          "stress": null,
+          "gloss": "Betamax",
+          "gram": "proper noun",
+          "span": [
+            14,
+            17
+          ],
+          "reading": "ベータ",
+          "pos": "name"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "stress": null,
+          "gloss": "that (quote)",
+          "gram": "quotative particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "ト",
+          "pos": "part"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "規格戦争",
+          "lemma": "規格戦争",
+          "stress": null,
+          "gloss": "format war",
+          "gram": "compound noun",
+          "span": [
+            19,
+            23
+          ],
+          "reading": "キカクセンソウ",
+          "pos": "noun"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "stress": null,
+          "gloss": "also",
+          "gram": "Inclusive particle.",
+          "span": [
+            23,
+            24
+          ],
+          "reading": "モ",
+          "pos": "part"
+        },
+        {
+          "t": "佳境",
+          "lemma": "佳境",
+          "stress": null,
+          "gloss": "climax, critical stage",
+          "gram": "noun",
+          "span": [
+            24,
+            26
+          ],
+          "reading": "カキョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "stress": null,
+          "gloss": "in; with",
+          "gram": "locative particle",
+          "span": [
+            26,
+            27
+          ],
+          "reading": "ニ",
+          "pos": "part"
+        },
+        {
+          "t": "来",
+          "lemma": "来る",
+          "stress": null,
+          "gloss": "come",
+          "gram": "verb (irrealis)",
+          "span": [
+            27,
+            28
+          ],
+          "reading": "コ",
+          "pos": "verb"
+        },
+        {
+          "t": "まし",
+          "lemma": "ます",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary, continuative",
+          "span": [
+            28,
+            30
+          ],
+          "reading": "マシ",
+          "pos": "verb"
+        },
+        {
+          "t": "た",
+          "lemma": "た",
+          "stress": null,
+          "gloss": "past tense",
+          "gram": "past auxiliary",
+          "span": [
+            30,
+            31
+          ],
+          "reading": "タ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "The fate of our company rests on you, President Ikezawa.",
+      "words": [
+        {
+          "t": "我が社",
+          "lemma": "我が社",
+          "stress": null,
+          "gloss": "our company",
+          "gram": "compound noun",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ワガシャ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "命運",
+          "lemma": "命運",
+          "stress": null,
+          "gloss": "fate, destiny",
+          "gram": "noun",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "メイウン",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "池沢",
+          "lemma": "池沢",
+          "stress": null,
+          "gloss": "Ikezawa",
+          "gram": "proper noun",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "イケザワ",
+          "pos": "name"
+        },
+        {
+          "t": "社長",
+          "lemma": "社長",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "シャチョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "あなた",
+          "lemma": "あなた",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            12,
+            15
+          ],
+          "reading": "アナタ",
+          "pos": "pron"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "stress": null,
+          "gloss": "in; with",
+          "gram": "locative particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "ニ",
+          "pos": "part"
+        },
+        {
+          "t": "かかっ",
+          "lemma": "かかる",
+          "stress": null,
+          "gloss": "depend on, rest upon",
+          "gram": "te-stem",
+          "span": [
+            16,
+            19
+          ],
+          "reading": "カカッ",
           "pos": "verb"
         },
         {
           "t": "て",
           "lemma": "て",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
           "span": [
-            4,
-            5
+            19,
+            20
           ],
           "reading": "テ",
+          "pos": "part"
+        },
+        {
+          "t": "いま",
+          "lemma": "いま",
+          "stress": null,
+          "gloss": "now",
+          "gram": "noun",
+          "span": [
+            20,
+            22
+          ],
+          "reading": "イマ",
+          "pos": "noun"
+        },
+        {
+          "t": "す",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do; make; decide on",
+          "gram": "auto",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "ス",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "Now you're exaggerating. Still, adult magazines really are outdated now.",
+      "words": [
+        {
+          "t": "そんな",
+          "lemma": "そんな",
+          "stress": null,
+          "gloss": "such; like that",
+          "gram": "Prenominal modifier.",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "ソンナ",
+          "pos": "det"
+        },
+        {
+          "t": "大げさ",
+          "lemma": "大げさ",
+          "stress": null,
+          "gloss": "exaggerated, over-the-top",
+          "gram": "na-adjective",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "オオゲサ",
+          "pos": "noun"
+        },
+        {
+          "t": "な",
+          "lemma": "な",
+          "stress": null,
+          "gloss": "man (emphatic)",
+          "gram": "sentence-final particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ナ",
+          "pos": "part"
+        },
+        {
+          "t": "確かに",
+          "lemma": "確かに",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "Adverb.",
+          "span": [
+            8,
+            11
+          ],
+          "reading": "タシカニ",
+          "pos": "adv"
+        },
+        {
+          "t": "エロ",
+          "lemma": "エロ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "エロ",
+          "pos": "noun"
+        },
+        {
+          "t": "本",
+          "lemma": "本",
+          "stress": null,
+          "gloss": "book",
+          "gram": "noun",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ホン",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "もう",
+          "lemma": "もう",
+          "stress": null,
+          "gloss": "just; almost",
+          "gram": "adverb",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "モウ",
+          "pos": "adv"
+        },
+        {
+          "t": "古い",
+          "lemma": "古い",
+          "stress": null,
+          "gloss": "old, outdated",
+          "gram": "i-adjective",
+          "span": [
+            17,
+            19
+          ],
+          "reading": "フルイ",
+          "pos": "adj"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "Here it is, sir.",
+      "words": [
+        {
+          "t": "はい",
+          "lemma": "はい",
+          "stress": null,
+          "gloss": "yes",
+          "gram": "interjection",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ハイ",
+          "pos": "interj"
+        },
+        {
+          "t": "どうぞ",
+          "lemma": "どうぞ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "ドウゾ",
+          "pos": "adv"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "Give this away free to customers who buy a video deck—it's our very first release.",
+      "words": [
+        {
+          "t": "ビデオデッキ",
+          "lemma": "ビデオデッキ",
+          "stress": null,
+          "gloss": "VCR, video deck",
+          "gram": "compound noun",
+          "span": [
+            0,
+            6
+          ],
+          "reading": "ビデオデッキ",
+          "pos": "noun"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "stress": null,
+          "gloss": "object marker",
+          "gram": "object particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "オ",
+          "pos": "part"
+        },
+        {
+          "t": "購入",
+          "lemma": "購入",
+          "stress": null,
+          "gloss": "purchase",
+          "gram": "verbal noun",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "コウニュウ",
+          "pos": "noun"
+        },
+        {
+          "t": "した",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "happened",
+          "gram": "Past た-form of する (to do/happen).",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "シタ",
+          "pos": "verb"
+        },
+        {
+          "t": "客",
+          "lemma": "客",
+          "stress": null,
+          "gloss": "customer, guest",
+          "gram": "noun",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "キャク",
+          "pos": "noun"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "stress": null,
+          "gloss": "in; with",
+          "gram": "locative particle",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ニ",
+          "pos": "part"
+        },
+        {
+          "t": "無料",
+          "lemma": "無料",
+          "stress": null,
+          "gloss": "free of charge",
+          "gram": "noun",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "ムリョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "stress": null,
+          "gloss": "copula (continuative)",
+          "gram": "copula particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "デ",
+          "pos": "part"
+        },
+        {
+          "t": "プレゼント",
+          "lemma": "プレゼント",
+          "stress": null,
+          "gloss": "present, gift",
+          "gram": "noun",
+          "span": [
+            16,
+            21
+          ],
+          "reading": "プレゼント",
+          "pos": "noun"
+        },
+        {
+          "t": "し",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "verb (continuative)",
+          "span": [
+            21,
+            22
+          ],
+          "reading": "シ",
+          "pos": "verb"
+        },
+        {
+          "t": "て",
+          "lemma": "て",
+          "stress": null,
+          "gloss": "connecting particle",
+          "gram": "te-form particle",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "テ",
+          "pos": "part"
+        },
+        {
+          "t": "ください",
+          "lemma": "ください",
+          "stress": null,
+          "gloss": "please",
+          "gram": "polite request",
+          "span": [
+            23,
+            27
+          ],
+          "reading": "クダサイ",
+          "pos": "verb"
+        },
+        {
+          "t": "うち",
+          "lemma": "うち",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            28,
+            30
+          ],
+          "reading": "ウチ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            30,
+            31
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "最初",
+          "lemma": "最初",
+          "stress": null,
+          "gloss": "first, very beginning",
+          "gram": "noun",
+          "span": [
+            31,
+            33
+          ],
+          "reading": "サイショ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            33,
+            34
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "作品",
+          "lemma": "作品",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            34,
+            36
+          ],
+          "reading": "サクヒン",
+          "pos": "noun"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "stress": null,
+          "gloss": "is (polite)",
+          "gram": "polite copula",
+          "span": [
+            36,
+            38
+          ],
+          "reading": "デス",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "Let me make a prediction: your company will eventually monopolize the video market.",
+      "words": [
+        {
+          "t": "予言",
+          "lemma": "予言",
+          "stress": null,
+          "gloss": "prediction",
+          "gram": "verbal noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ヨゲン",
+          "pos": "noun"
+        },
+        {
+          "t": "し",
+          "lemma": "する",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "verb (continuative)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "シ",
+          "pos": "verb"
+        },
+        {
+          "t": "とき",
+          "lemma": "とき",
+          "stress": null,
+          "gloss": "time, keep (contracted)",
+          "gram": "colloquial auxiliary",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "トキ",
+          "pos": "name"
+        },
+        {
+          "t": "ます",
+          "lemma": "ます",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "マス",
+          "pos": "verb"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "stress": null,
+          "gloss": "you know",
+          "gram": "sentence-final particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ヨ",
+          "pos": "part"
+        },
+        {
+          "t": "あなた",
+          "lemma": "あなた",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            9,
+            12
+          ],
+          "reading": "アナタ",
+          "pos": "pron"
+        },
+        {
+          "t": "たち",
+          "lemma": "たち",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "タチ",
+          "pos": "noun"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "ワ",
+          "pos": "part"
+        },
+        {
+          "t": "いずれ",
+          "lemma": "いずれ",
+          "stress": null,
+          "gloss": "eventually, sooner or later",
+          "gram": "adverb",
+          "span": [
+            16,
+            19
+          ],
+          "reading": "イズレ",
+          "pos": "adv"
+        },
+        {
+          "t": "ビデオ",
+          "lemma": "ビデオ",
+          "stress": null,
+          "gloss": "video",
+          "gram": "noun",
+          "span": [
+            19,
+            22
+          ],
+          "reading": "ビデオ",
+          "pos": "noun"
+        },
+        {
+          "t": "市場",
+          "lemma": "市場",
+          "stress": null,
+          "gloss": "market",
+          "gram": "noun",
+          "span": [
+            22,
+            24
+          ],
+          "reading": "シジョウ",
+          "pos": "noun"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "stress": null,
+          "gloss": "object marker",
+          "gram": "object particle",
+          "span": [
+            24,
+            25
+          ],
+          "reading": "オ",
+          "pos": "part"
+        },
+        {
+          "t": "独占",
+          "lemma": "独占",
+          "stress": null,
+          "gloss": "monopoly",
+          "gram": "verbal noun",
+          "span": [
+            25,
+            27
+          ],
+          "reading": "ドクセン",
+          "pos": "noun"
+        },
+        {
+          "t": "できる",
+          "lemma": "できる",
+          "stress": null,
+          "gloss": "can do",
+          "gram": "ichidan, plain non-past",
+          "span": [
+            27,
+            30
+          ],
+          "reading": "デキル",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "Thanks to the adult videos that I produce.",
+      "words": [
+        {
+          "t": "私",
+          "lemma": "私",
+          "stress": null,
+          "gloss": "I",
+          "gram": "Polite first-person pronoun.",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ワタシ",
+          "pos": "pron"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "stress": null,
+          "gloss": "subject marker",
+          "gram": "subject particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "ガ",
+          "pos": "part"
+        },
+        {
+          "t": "作る",
+          "lemma": "作る",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ツクル",
+          "pos": "verb"
+        },
+        {
+          "t": "アダルトビデオ",
+          "lemma": "アダルトビデオ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            4,
+            11
+          ],
+          "reading": "アダルトビデオ",
+          "pos": "noun"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "stress": null,
+          "gloss": "of; 's",
+          "gram": "possessive particle",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ノ",
+          "pos": "part"
+        },
+        {
+          "t": "おかげ",
+          "lemma": "おかげ",
+          "stress": null,
+          "gloss": "particle / expression",
+          "gram": "auto",
+          "span": [
+            12,
+            15
+          ],
+          "reading": "オカゲ",
+          "pos": "noun"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "stress": null,
+          "gloss": "copula (continuative)",
+          "gram": "copula particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "デ",
+          "pos": "part"
+        },
+        {
+          "t": "ね",
+          "lemma": "ね",
+          "stress": null,
+          "gloss": "right?",
+          "gram": "sentence-final particle",
+          "span": [
+            16,
+            17
+          ],
+          "reading": "ネ",
           "pos": "part"
         }
       ]
     },
     {
-      "seg": 44,
-      "trans": "Test translation",
+      "seg": 50,
+      "trans": "Thank you very much! We look forward to working with you.",
+      "words": [
+        {
+          "t": "ありがとうございます",
+          "lemma": "ありがとう",
+          "stress": null,
+          "gloss": "thank you very much",
+          "gram": "Polite expression of gratitude.",
+          "span": [
+            0,
+            10
+          ],
+          "reading": "アリガトウゴザイマス",
+          "pos": "interj"
+        },
+        {
+          "t": "よろしく",
+          "lemma": "よろしく",
+          "stress": null,
+          "gloss": "well; favorably",
+          "gram": "adverb",
+          "span": [
+            11,
+            15
+          ],
+          "reading": "ヨロシク",
+          "pos": "adv"
+        },
+        {
+          "t": "お願い",
+          "lemma": "お願い",
+          "stress": null,
+          "gloss": "request; favor",
+          "gram": "noun",
+          "span": [
+            15,
+            18
+          ],
+          "reading": "オネガイ",
+          "pos": "noun"
+        },
+        {
+          "t": "いたし",
+          "lemma": "いたす",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "humble する, masu-stem",
+          "span": [
+            18,
+            21
+          ],
+          "reading": "イタシ",
+          "pos": "verb"
+        },
+        {
+          "t": "ます",
+          "lemma": "ます",
+          "stress": null,
+          "gloss": "polite suffix",
+          "gram": "polite auxiliary",
+          "span": [
+            21,
+            23
+          ],
+          "reading": "マス",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "See you.",
       "words": [
         {
           "t": "じゃあ",
           "lemma": "じゃあ",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "well then; bye",
+          "gram": "interjection",
           "span": [
             0,
             3
@@ -2213,8 +4724,8 @@
           "t": "ね",
           "lemma": "ね",
           "stress": null,
-          "gloss": "test",
-          "gram": "test",
+          "gloss": "right?",
+          "gram": "sentence-final particle",
           "span": [
             3,
             4
@@ -2226,14 +4737,39 @@
     }
   ],
   "lexicon": {
-    "じゃあ": {
-      "lemma": "じゃあ",
+    "ありがとう": {
+      "lemma": "ありがとう",
       "stress": null,
-      "pos": "conj",
-      "gloss": "...",
+      "pos": "interj",
+      "gloss": "thank you",
       "meanings": [
         {
-          "en": "...",
+          "en": "thank you",
+          "note": "Standalone casual thanks; followed by ございます (present) or ございました (completed occasion) for polite thanks."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "いつもありがとう。",
+          "trans": "Thank you as always."
+        },
+        {
+          "text": "ありがとうございます。",
+          "trans": "Thank you very much."
+        }
+      ],
+      "related": []
+    },
+    "お気遣い": {
+      "lemma": "お気遣い",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "kind consideration",
+      "meanings": [
+        {
+          "en": "kind consideration",
           "note": ""
         }
       ],
@@ -2241,18 +4777,175 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "例文１です。",
-          "trans": "Example 1."
+          "text": "ありがとうございます、お気遣いいただいて。",
+          "trans": "Thank you very much for your kind consideration."
         },
         {
-          "text": "例文２です。",
-          "trans": "Example 2."
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
         }
       ],
       "related": []
     },
-    "行く": {
-      "lemma": "行く",
+    "いただく": {
+      "lemma": "いただく",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "receive; take (humble)",
+      "meanings": [
+        {
+          "en": "humbly receive, buy, or eat/drink",
+          "note": "Humble counterpart of もらう; volitional いただこう means 'let's take them / I'll have them'."
+        }
+      ],
+      "forms": {
+        "title": "Key forms of いただく",
+        "columns": [
+          "Form",
+          "Japanese"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "plain",
+              "いただく"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "いただきます"
+            ]
+          },
+          {
+            "cells": [
+              "volitional",
+              "いただこう"
+            ]
+          },
+          {
+            "cells": [
+              "desire",
+              "いただきたい"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "これ、いただきます。",
+          "trans": "I will take / eat this."
+        },
+        {
+          "text": "お時間をいただけますか。",
+          "trans": "Could you spare me some time?"
+        }
+      ],
+      "related": []
+    },
+    "て": {
+      "lemma": "て",
+      "stress": null,
+      "pos": "part",
+      "gloss": "te-form particle",
+      "meanings": [
+        {
+          "en": "te-form particle",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "これはてです。",
+          "trans": "This is te-form particle."
+        },
+        {
+          "text": "あのてを見ます。",
+          "trans": "I see that te-form particle."
+        }
+      ],
+      "related": []
+    },
+    "親御さん": {
+      "lemma": "親御さん",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "parents (polite)",
+      "meanings": [
+        {
+          "en": "parents (polite)",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "親御さんが毎年送ってきて、これがなかなかうまいんですよ。",
+          "trans": "Their parents send this tea every year, and it's really quite delicious."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "が": {
+      "lemma": "が",
+      "stress": null,
+      "pos": "part",
+      "gloss": "subject marker; but",
+      "meanings": [
+        {
+          "en": "grammatical subject marker; trailing softener",
+          "note": "Marks the subject of existence, emergence, or questions (どれが), and at the end of a polite clause softens a request (のですが)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "新作が出ました。",
+          "trans": "A new release came out."
+        },
+        {
+          "text": "お願いがあるのですが。",
+          "trans": "I have a favor to ask."
+        }
+      ],
+      "related": []
+    },
+    "毎年": {
+      "lemma": "毎年",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "every year",
+      "meanings": [
+        {
+          "en": "every year",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "親御さんが毎年送ってきて、これがなかなかうまいんですよ。",
+          "trans": "Their parents send this tea every year, and it's really quite delicious."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "送る": {
+      "lemma": "送る",
       "stress": null,
       "pos": "verb",
       "gloss": "...",
@@ -2276,10 +4969,136 @@
       ],
       "related": []
     },
-    "くさい": {
-      "lemma": "くさい",
+    "くる": {
+      "lemma": "くる",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "come; go and come back",
+      "meanings": [
+        {
+          "en": "come; go do something and return (after て-form)",
+          "note": "Written in kana after a て-form (話してきます), expresses stepping away to do an action and coming back."
+        }
+      ],
+      "forms": {
+        "title": "Common forms",
+        "columns": [
+          "Form",
+          "Japanese"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "plain nonpast",
+              "くる"
+            ]
+          },
+          {
+            "cells": [
+              "polite nonpast",
+              "きます"
+            ]
+          },
+          {
+            "cells": [
+              "plain past",
+              "きた"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ちょっと水を買ってきます。",
+          "trans": "I will go buy some water and be right back."
+        },
+        {
+          "text": "すぐ戻ってきます。",
+          "trans": "I will come right back."
+        }
+      ],
+      "related": []
+    },
+    "これ": {
+      "lemma": "これ",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "this; this one",
+      "meanings": [
+        {
+          "en": "this thing right here",
+          "note": "Standalone pronoun ('this'), unlike この which requires a noun."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "これは何ですか。",
+          "trans": "What is this?"
+        },
+        {
+          "text": "これをください。",
+          "trans": "Please give me this."
+        }
+      ],
+      "related": []
+    },
+    "なかなか": {
+      "lemma": "なかなか",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "うまい": {
+      "lemma": "うまい",
       "stress": null,
       "pos": "adj",
+      "gloss": "well; skillful; delicious",
+      "meanings": [
+        {
+          "en": "good; skillful; going well",
+          "note": "I-adjective; adverbial form うまく means 'well' or 'smoothly' (as in うまくいく)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "計画がうまくいきました。",
+          "trans": "The plan went well."
+        },
+        {
+          "text": "彼は英語がとてもうまいです。",
+          "trans": "He is very good at English."
+        }
+      ],
+      "related": []
+    },
+    "んで": {
+      "lemma": "んで",
+      "stress": null,
+      "pos": "part",
       "gloss": "...",
       "meanings": [
         {
@@ -2305,6 +5124,163 @@
       "lemma": "する",
       "stress": null,
       "pos": "verb",
+      "gloss": "do; make; decide on",
+      "meanings": [
+        {
+          "en": "do; turn into; choose",
+          "note": "All-purpose action verb; turns Sino-Japanese nouns into verbs (融通する, 出店する) and with に means 'decide on' or 'make into'."
+        }
+      ],
+      "forms": {
+        "title": "Key forms of する",
+        "columns": [
+          "Form",
+          "Japanese"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "plain",
+              "する"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "します"
+            ]
+          },
+          {
+            "cells": [
+              "te-form",
+              "して"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "した"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "仕事をします。",
+          "trans": "I do work."
+        },
+        {
+          "text": "コーヒーにします。",
+          "trans": "I will have coffee."
+        }
+      ],
+      "related": []
+    },
+    "よ": {
+      "lemma": "よ",
+      "stress": null,
+      "pos": "part",
+      "gloss": "emphasis ending",
+      "meanings": [
+        {
+          "en": "informative or reassuring sentence-final particle",
+          "note": "Tells the listener something new or adds warm reassurance at the end of a sentence."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "大丈夫ですよ。",
+          "trans": "It is alright, you know."
+        },
+        {
+          "text": "すぐ終わりますよ。",
+          "trans": "It will finish right away."
+        }
+      ],
+      "related": []
+    },
+    "ああ": {
+      "lemma": "ああ",
+      "stress": null,
+      "pos": "interj",
+      "gloss": "oh; ah; man",
+      "meanings": [
+        {
+          "en": "recognition or sigh interjection",
+          "note": "Signals recognizing someone ('Oh, Toshi!') or letting out a feeling ('Man, I'm hungry')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ああ、思い出した。",
+          "trans": "Oh, I remembered."
+        },
+        {
+          "text": "ああ、疲れた。",
+          "trans": "Man, I am tired."
+        }
+      ],
+      "related": []
+    },
+    "は": {
+      "lemma": "は",
+      "stress": null,
+      "pos": "part",
+      "gloss": "topic marker",
+      "meanings": [
+        {
+          "en": "as for; topic or contrast marker",
+          "note": "Written は but pronounced wa when marking the topic or contrasting one item with another."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "私は元気です。",
+          "trans": "I am fine."
+        },
+        {
+          "text": "今日は忙しいです。",
+          "trans": "Today is busy."
+        }
+      ],
+      "related": []
+    },
+    "確かに": {
+      "lemma": "確かに",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "certainly; sure enough",
+      "meanings": [
+        {
+          "en": "indeed; without doubt",
+          "note": "Acknowledges that what the other person pointed out really is true."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "確かにそのとおりですね。",
+          "trans": "That certainly is true."
+        },
+        {
+          "text": "確かに受け取りました。",
+          "trans": "I certainly received it."
+        }
+      ],
+      "related": []
+    },
+    "おいしい": {
+      "lemma": "おいしい",
+      "stress": null,
+      "pos": "adj",
       "gloss": "...",
       "meanings": [
         {
@@ -2326,8 +5302,691 @@
       ],
       "related": []
     },
-    "いる": {
-      "lemma": "いる",
+    "最近": {
+      "lemma": "最近",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "lately; recently",
+      "meanings": [
+        {
+          "en": "recently; lately; these days",
+          "note": "Temporal noun often used adverbially."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "最近忙しいですか。",
+          "trans": "Have you been busy lately?"
+        },
+        {
+          "text": "最近の天気は変だ。",
+          "trans": "The weather lately is strange."
+        }
+      ],
+      "related": []
+    },
+    "お茶農家": {
+      "lemma": "お茶農家",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "tea farmer",
+      "meanings": [
+        {
+          "en": "tea farmer",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "最近はお茶農家も競争が厳しいみたいでね。",
+          "trans": "Lately it seems competition is fierce even for tea farmers."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "も": {
+      "lemma": "も",
+      "stress": null,
+      "pos": "part",
+      "gloss": "also; too; even",
+      "meanings": [
+        {
+          "en": "inclusive particle",
+          "note": "Replaces は, が, or を to add 'also' or 'too'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "これもください。",
+          "trans": "Please give me this one too."
+        },
+        {
+          "text": "あそこも新しい店です。",
+          "trans": "Over there is a new shop too."
+        }
+      ],
+      "related": []
+    },
+    "競争": {
+      "lemma": "競争",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "厳しい": {
+      "lemma": "厳しい",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "みたい": {
+      "lemma": "みたい",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "seems like; looks like",
+      "meanings": [
+        {
+          "en": "seems like; appears to be",
+          "note": "Auxiliary na-adjective expressing resemblance or conjecture."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "雨が降るみたいです。",
+          "trans": "It looks like it's going to rain."
+        },
+        {
+          "text": "彼は忙しいみたいですね。",
+          "trans": "He seems busy, doesn't he?"
+        }
+      ],
+      "related": []
+    },
+    "で": {
+      "lemma": "で",
+      "stress": null,
+      "pos": "part",
+      "gloss": "at; in; by; in total",
+      "meanings": [
+        {
+          "en": "location of action; means; scope total",
+          "note": "Marks where an action happens, the unit/scope of a rate or total (十日で, 全部で), or the cause/occasion."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "店で働きます。",
+          "trans": "I work at a shop."
+        },
+        {
+          "text": "全部で千円です。",
+          "trans": "It is one thousand yen in total."
+        }
+      ],
+      "related": []
+    },
+    "ね": {
+      "lemma": "ね",
+      "stress": null,
+      "pos": "part",
+      "gloss": "tag ending; right?",
+      "meanings": [
+        {
+          "en": "shared-feeling or confirmation particle",
+          "note": "Checks agreement ('isn't it?') or softens a request or farewell."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "いい天気ですね。",
+          "trans": "Nice weather, isn't it?"
+        },
+        {
+          "text": "またね。",
+          "trans": "See you later."
+        }
+      ],
+      "related": []
+    },
+    "我々": {
+      "lemma": "我々",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "家電": {
+      "lemma": "家電",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "home electronics",
+      "meanings": [
+        {
+          "en": "home electronics",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "我々家電メーカーも同じです。ベータとの規格戦争も佳境に来ました。",
+          "trans": "It's the same for us electronics makers—our format war with Beta has reached its climax."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "メーカー": {
+      "lemma": "メーカー",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "manufacturer, studio",
+      "meanings": [
+        {
+          "en": "manufacturer, studio",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "我々家電メーカーも同じです。ベータとの規格戦争も佳境に来ました。",
+          "trans": "It's the same for us electronics makers—our format war with Beta has reached its climax."
+        },
+        {
+          "text": "どうしてうちに？うちはアダルトのメーカーだけど。",
+          "trans": "Why join our place? You know we're an adult video studio, right?"
+        }
+      ],
+      "related": []
+    },
+    "同じ": {
+      "lemma": "同じ",
+      "stress": null,
+      "pos": "det",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "です": {
+      "lemma": "です",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "be; is (polite)",
+      "meanings": [
+        {
+          "en": "polite copula",
+          "note": "Polite sentence-ending counterpart of plain だ."
+        }
+      ],
+      "forms": {
+        "title": "Polite copula forms",
+        "columns": [
+          "Form",
+          "Japanese"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nonpast",
+              "です"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "でした"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "ではありません / じゃありません"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "会社員です。",
+          "trans": "I am an office worker."
+        },
+        {
+          "text": "これは見本です。",
+          "trans": "This is a sample."
+        }
+      ],
+      "related": []
+    },
+    "と": {
+      "lemma": "と",
+      "stress": null,
+      "pos": "part",
+      "gloss": "and particle",
+      "meanings": [
+        {
+          "en": "and particle",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "これはとです。",
+          "trans": "This is and particle."
+        },
+        {
+          "text": "あのとを見ます。",
+          "trans": "I see that and particle."
+        }
+      ],
+      "related": []
+    },
+    "の": {
+      "lemma": "の",
+      "stress": null,
+      "pos": "part",
+      "gloss": "of; linking particle; explanatory marker",
+      "meanings": [
+        {
+          "en": "noun linker; explanatory marker",
+          "note": "Links a modifying noun to a following noun, or turns a clause into an explanatory statement (often contracted to ん in speech)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "私の本です。",
+          "trans": "It is my book."
+        },
+        {
+          "text": "もう帰るんですか。",
+          "trans": "Are you heading home already?"
+        }
+      ],
+      "related": []
+    },
+    "規格戦争": {
+      "lemma": "規格戦争",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "format war",
+      "meanings": [
+        {
+          "en": "format war",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "我々家電メーカーも同じです。ベータとの規格戦争も佳境に来ました。",
+          "trans": "It's the same for us electronics makers—our format war with Beta has reached its climax."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "佳境": {
+      "lemma": "佳境",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "climax, critical stage",
+      "meanings": [
+        {
+          "en": "climax, critical stage",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "我々家電メーカーも同じです。ベータとの規格戦争も佳境に来ました。",
+          "trans": "It's the same for us electronics makers—our format war with Beta has reached its climax."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "に": {
+      "lemma": "に",
+      "stress": null,
+      "pos": "part",
+      "gloss": "to; in; at; into",
+      "meanings": [
+        {
+          "en": "target, location of existence, or result marker",
+          "note": "Marks destination, location where something exists or sits, or the chosen result before する and なる."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "店にあります。",
+          "trans": "It is in the shop."
+        },
+        {
+          "text": "これにします。",
+          "trans": "I will choose this one."
+        }
+      ],
+      "related": []
+    },
+    "来る": {
+      "lemma": "来る",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "come; arrive",
+      "meanings": [
+        {
+          "en": "come here",
+          "note": "Irregular verb: くる -> きます -> きました."
+        }
+      ],
+      "forms": {
+        "title": "Key forms of 来る",
+        "columns": [
+          "Form",
+          "Japanese"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "plain (ku-)",
+              "来る"
+            ]
+          },
+          {
+            "cells": [
+              "polite (ki-)",
+              "来ます"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "来ました"
+            ]
+          },
+          {
+            "cells": [
+              "negative (ko-)",
+              "来ない"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "お客さんが来ました。",
+          "trans": "A customer has arrived."
+        },
+        {
+          "text": "明日また来ます。",
+          "trans": "I will come again tomorrow."
+        }
+      ],
+      "related": []
+    },
+    "ます": {
+      "lemma": "ます",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "polite suffix",
+      "meanings": [
+        {
+          "en": "polite suffix",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "これはますです。",
+          "trans": "This is polite suffix."
+        },
+        {
+          "text": "あのますを見ます。",
+          "trans": "I see that polite suffix."
+        }
+      ],
+      "related": []
+    },
+    "た": {
+      "lemma": "た",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "past tense",
+      "meanings": [
+        {
+          "en": "past tense",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "これはたです。",
+          "trans": "This is past tense."
+        },
+        {
+          "text": "あのたを見ます。",
+          "trans": "I see that past tense."
+        }
+      ],
+      "related": []
+    },
+    "我が社": {
+      "lemma": "我が社",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "our company",
+      "meanings": [
+        {
+          "en": "our company",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "時代は変わった。我が社もモザイクを薄めていこうと思っている。",
+          "trans": "Times have changed. Our company also plans to make censoring thinner."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "命運": {
+      "lemma": "命運",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "社長": {
+      "lemma": "社長",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "あなた": {
+      "lemma": "あなた",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "かかる": {
+      "lemma": "かかる",
       "stress": null,
       "pos": "verb",
       "gloss": "...",
@@ -2351,10 +6010,10 @@
       ],
       "related": []
     },
-    "の": {
-      "lemma": "の",
+    "いま": {
+      "lemma": "いま",
       "stress": null,
-      "pos": "part",
+      "pos": "noun",
       "gloss": "...",
       "meanings": [
         {
@@ -2376,10 +6035,35 @@
       ],
       "related": []
     },
-    "ね": {
-      "lemma": "ね",
+    "そんな": {
+      "lemma": "そんな",
       "stress": null,
-      "pos": "part",
+      "pos": "det",
+      "gloss": "such; that kind of; that much",
+      "meanings": [
+        {
+          "en": "to that degree; like that",
+          "note": "Before たくさん, means 'that huge an amount'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "そんな話は知りません。",
+          "trans": "I do not know such a story."
+        },
+        {
+          "text": "そんな高いものは買えません。",
+          "trans": "I cannot buy something that expensive."
+        }
+      ],
+      "related": []
+    },
+    "大げさ": {
+      "lemma": "大げさ",
+      "stress": null,
+      "pos": "noun",
       "gloss": "...",
       "meanings": [
         {
@@ -2401,10 +6085,110 @@
       ],
       "related": []
     },
-    "ああ": {
-      "lemma": "ああ",
+    "な": {
+      "lemma": "な",
       "stress": null,
-      "pos": "interj",
+      "pos": "part",
+      "gloss": "reflective or emphatic ending",
+      "meanings": [
+        {
+          "en": "casual reflection or firm reminder particle",
+          "note": "Used aloud to oneself ('man, I'm hungry') or at the end of a warning ('remember that, okay?')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "いい店だな。",
+          "trans": "That is a nice shop."
+        },
+        {
+          "text": "忘れるなよ。",
+          "trans": "Do not forget, okay?"
+        }
+      ],
+      "related": []
+    },
+    "エロ": {
+      "lemma": "エロ",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "本": {
+      "lemma": "本",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "book",
+      "meanings": [
+        {
+          "en": "book; volume",
+          "note": "Everyday word for books and bound publications."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "本屋で本を買います。",
+          "trans": "I buy a book at the bookstore."
+        },
+        {
+          "text": "面白い本ですね。",
+          "trans": "That is an interesting book."
+        }
+      ],
+      "related": []
+    },
+    "もう": {
+      "lemma": "もう",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "already; now; anymore",
+      "meanings": [
+        {
+          "en": "already; by now",
+          "note": "In もういい, means 'already enough' or 'ready now'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "もう時間です。",
+          "trans": "It is already time."
+        },
+        {
+          "text": "もう大丈夫です。",
+          "trans": "I am fine now."
+        }
+      ],
+      "related": []
+    },
+    "古い": {
+      "lemma": "古い",
+      "stress": null,
+      "pos": "adj",
       "gloss": "...",
       "meanings": [
         {
@@ -2430,104 +6214,29 @@
       "lemma": "はい",
       "stress": null,
       "pos": "interj",
-      "gloss": "...",
+      "gloss": "yes; here you go",
       "meanings": [
         {
-          "en": "...",
-          "note": ""
+          "en": "yes; alright; here you are",
+          "note": "Used both to answer yes politely and when handing an item to someone."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "例文１です。",
-          "trans": "Example 1."
+          "text": "はい、わかりました。",
+          "trans": "Yes, understood."
         },
         {
-          "text": "例文２です。",
-          "trans": "Example 2."
+          "text": "はい、どうぞ。",
+          "trans": "Here you go."
         }
       ],
       "related": []
     },
-    "じゃ": {
-      "lemma": "じゃ",
-      "stress": null,
-      "pos": "conj",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "つける": {
-      "lemma": "つける",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "仕事": {
-      "lemma": "仕事",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "どうも": {
-      "lemma": "どうも",
+    "どうぞ": {
+      "lemma": "どうぞ",
       "stress": null,
       "pos": "adv",
       "gloss": "...",
@@ -2551,8 +6260,83 @@
       ],
       "related": []
     },
-    "証": {
-      "lemma": "証",
+    "ビデオデッキ": {
+      "lemma": "ビデオデッキ",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "VCR, video deck",
+      "meanings": [
+        {
+          "en": "VCR, video deck",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ビデオデッキを購入した客に無料でプレゼントしてください。うちの最初の作品です。",
+          "trans": "Give this away free to customers who buy a video deck—it's our very first release."
+        },
+        {
+          "text": "ええ、はい。あの、失礼ですがご自宅にビデオデッキは？",
+          "trans": "Yes, that's right. Excuse me for asking, do you have a VCR at home?"
+        }
+      ],
+      "related": []
+    },
+    "を": {
+      "lemma": "を",
+      "stress": null,
+      "pos": "part",
+      "gloss": "direct object marker",
+      "meanings": [
+        {
+          "en": "direct object marker",
+          "note": "Written を and pronounced o; marks what an action directly acts upon."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "本を読みます。",
+          "trans": "I read a book."
+        },
+        {
+          "text": "顔を見ます。",
+          "trans": "I look at the face."
+        }
+      ],
+      "related": []
+    },
+    "購入": {
+      "lemma": "購入",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "purchase",
+      "meanings": [
+        {
+          "en": "purchase",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ビデオデッキを購入した客に無料でプレゼントしてください。うちの最初の作品です。",
+          "trans": "Give this away free to customers who buy a video deck—it's our very first release."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "客": {
+      "lemma": "客",
       "stress": null,
       "pos": "noun",
       "gloss": "...",
@@ -2576,14 +6360,14 @@
       ],
       "related": []
     },
-    "あの": {
-      "lemma": "あの",
+    "無料": {
+      "lemma": "無料",
       "stress": null,
-      "pos": "interj",
-      "gloss": "...",
+      "pos": "noun",
+      "gloss": "free of charge",
       "meanings": [
         {
-          "en": "...",
+          "en": "free of charge",
           "note": ""
         }
       ],
@@ -2591,43 +6375,18 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "例文１です。",
-          "trans": "Example 1."
+          "text": "ビデオデッキを購入した客に無料でプレゼントしてください。うちの最初の作品です。",
+          "trans": "Give this away free to customers who buy a video deck—it's our very first release."
         },
         {
-          "text": "例文２です。",
-          "trans": "Example 2."
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
         }
       ],
       "related": []
     },
-    "よ": {
-      "lemma": "よ",
-      "stress": null,
-      "pos": "part",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "会員": {
-      "lemma": "会員",
+    "プレゼント": {
+      "lemma": "プレゼント",
       "stress": null,
       "pos": "noun",
       "gloss": "...",
@@ -2651,8 +6410,158 @@
       ],
       "related": []
     },
-    "ちょっと": {
-      "lemma": "ちょっと",
+    "ください": {
+      "lemma": "ください",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "please (do / give)",
+      "meanings": [
+        {
+          "en": "polite request ending",
+          "note": "Follows a verb's て-form or polite お + stem (お待ちください, お持ち帰りください) to make a polite request."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ここに書いてください。",
+          "trans": "Please write here."
+        },
+        {
+          "text": "少々お待ちください。",
+          "trans": "Please wait a moment."
+        }
+      ],
+      "related": []
+    },
+    "うち": {
+      "lemma": "うち",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "最初": {
+      "lemma": "最初",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "作品": {
+      "lemma": "作品",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "予言": {
+      "lemma": "予言",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "prediction",
+      "meanings": [
+        {
+          "en": "prediction",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "予言しときますよ。あなたたちは、いずれビデオ市場を独占できる。",
+          "trans": "Let me make a prediction: your company will eventually monopolize the video market."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "たち": {
+      "lemma": "たち",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "いずれ": {
+      "lemma": "いずれ",
       "stress": null,
       "pos": "adv",
       "gloss": "...",
@@ -2676,8 +6585,133 @@
       ],
       "related": []
     },
-    "た": {
-      "lemma": "た",
+    "ビデオ": {
+      "lemma": "ビデオ",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "市場": {
+      "lemma": "市場",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "独占": {
+      "lemma": "独占",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "monopoly",
+      "meanings": [
+        {
+          "en": "monopoly",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "予言しときますよ。あなたたちは、いずれビデオ市場を独占できる。",
+          "trans": "Let me make a prediction: your company will eventually monopolize the video market."
+        },
+        {
+          "text": "現場でよく聞く言葉だ。",
+          "trans": "It's an expression often heard on set."
+        }
+      ],
+      "related": []
+    },
+    "できる": {
+      "lemma": "できる",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "be built; open; be able to",
+      "meanings": [
+        {
+          "en": "come into existence; be completed; can do",
+          "note": "With buildings or stores (店ができる), means a new shop has been built or opened."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "駅前に新しいカフェができました。",
+          "trans": "A new café opened in front of the station."
+        },
+        {
+          "text": "日本語が少しできます。",
+          "trans": "I can speak a little Japanese."
+        }
+      ],
+      "related": []
+    },
+    "私": {
+      "lemma": "私",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "I; me",
+      "meanings": [
+        {
+          "en": "polite/standard first-person pronoun",
+          "note": "Standard gender-neutral 'I' in polite and business Japanese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "私の名前は村西です。",
+          "trans": "My name is Muranishi."
+        },
+        {
+          "text": "私が説明します。",
+          "trans": "I will explain."
+        }
+      ],
+      "related": []
+    },
+    "作る": {
+      "lemma": "作る",
       "stress": null,
       "pos": "verb",
       "gloss": "...",
@@ -2701,10 +6735,10 @@
       ],
       "related": []
     },
-    "来る": {
-      "lemma": "来る",
+    "アダルトビデオ": {
+      "lemma": "アダルトビデオ",
       "stress": null,
-      "pos": "verb",
+      "pos": "noun",
       "gloss": "...",
       "meanings": [
         {
@@ -2726,102 +6760,52 @@
       ],
       "related": []
     },
-    "また": {
-      "lemma": "また",
+    "おかげ": {
+      "lemma": "おかげ",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "...",
+      "meanings": [
+        {
+          "en": "...",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "例文１です。",
+          "trans": "Example 1."
+        },
+        {
+          "text": "例文２です。",
+          "trans": "Example 2."
+        }
+      ],
+      "related": []
+    },
+    "よろしく": {
+      "lemma": "よろしく",
       "stress": null,
       "pos": "adv",
-      "gloss": "...",
+      "gloss": "well; favorably; regards",
       "meanings": [
         {
-          "en": "...",
-          "note": ""
+          "en": "please treat favorably",
+          "note": "Core adverb in set greetings like よろしくお願いします and どうぞよろしく."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "例文１です。",
-          "trans": "Example 1."
+          "text": "どうぞよろしく。",
+          "trans": "Pleased to meet you."
         },
         {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "はいす": {
-      "lemma": "はいす",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "っけ": {
-      "lemma": "っけ",
-      "stress": null,
-      "pos": "part",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "は": {
-      "lemma": "は",
-      "stress": null,
-      "pos": "part",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
+          "text": "明日もよろしくね。",
+          "trans": "Counting on you tomorrow too."
         }
       ],
       "related": []
@@ -2830,223 +6814,73 @@
       "lemma": "お願い",
       "stress": null,
       "pos": "noun",
-      "gloss": "...",
+      "gloss": "request; favor",
       "meanings": [
         {
-          "en": "...",
-          "note": ""
+          "en": "polite request",
+          "note": "With します, forms お願いします ('please'), the standard polite way to request a service or favor."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "例文１です。",
-          "trans": "Example 1."
+          "text": "これをお願いします。",
+          "trans": "This one, please."
         },
         {
-          "text": "例文２です。",
-          "trans": "Example 2."
+          "text": "一つお願いがあります。",
+          "trans": "I have one favor to ask."
         }
       ],
       "related": []
     },
-    "この": {
-      "lemma": "この",
-      "stress": null,
-      "pos": "det",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "ます": {
-      "lemma": "ます",
+    "いたす": {
+      "lemma": "いたす",
       "stress": null,
       "pos": "verb",
-      "gloss": "...",
+      "gloss": "do (humble)",
       "meanings": [
         {
-          "en": "...",
-          "note": ""
+          "en": "do; perform (humble)",
+          "note": "Humble (kenjougo) equivalent of する, used in polite business and apologetic expressions."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "例文１です。",
-          "trans": "Example 1."
+          "text": "すぐにご連絡いたします。",
+          "trans": "I will contact you right away."
         },
         {
-          "text": "例文２です。",
-          "trans": "Example 2."
+          "text": "失礼いたしました。",
+          "trans": "I apologize for my rudeness."
         }
       ],
       "related": []
     },
-    "ありがとう": {
-      "lemma": "ありがとう",
+    "じゃあ": {
+      "lemma": "じゃあ",
       "stress": null,
-      "pos": "interj",
-      "gloss": "...",
+      "pos": "conj",
+      "gloss": "well then; bye then",
       "meanings": [
         {
-          "en": "...",
-          "note": ""
+          "en": "conversational transition",
+          "note": "Contracts では; launches a decision ('well then') or opens casual farewell じゃあね."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "例文１です。",
-          "trans": "Example 1."
+          "text": "じゃあ、行きましょう。",
+          "trans": "Well then, let's go."
         },
         {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "て": {
-      "lemma": "て",
-      "stress": null,
-      "pos": "part",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "ウソ": {
-      "lemma": "ウソ",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "何だ": {
-      "lemma": "何だ",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "気": {
-      "lemma": "気",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
-        }
-      ],
-      "related": []
-    },
-    "ない": {
-      "lemma": "ない",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "...",
-      "meanings": [
-        {
-          "en": "...",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "例文１です。",
-          "trans": "Example 1."
-        },
-        {
-          "text": "例文２です。",
-          "trans": "Example 2."
+          "text": "じゃあね。",
+          "trans": "See you later."
         }
       ],
       "related": []

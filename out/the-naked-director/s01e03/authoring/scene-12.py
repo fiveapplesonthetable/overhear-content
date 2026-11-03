@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 12
-TITLE = 'Scene 12  (Scene 12)'
+TITLE = 'ビデオの普及はポルノが支えてます  (Videos Are Fueled by Adult Films)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'kawada': '川田', 'muranishi': '村西', 'tencho': '店長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''ねえ恵美うん？''', '''Say, Megumi.''', [(334, '''‎（‎聡子(さとこ)‎）ねえ ‎恵美(めぐみ) ‎（恵美）うん？''')], ''),
-    ('muranishi', '''見えないねあそこ''', '''We can't see it, huh?''', [(335, '''‎見えないね あそこ''')], ''),
-    ('muranishi', '''見せると別料金らしいよ''', '''I hear they charge extra for that.''', [(336, '''‎見せると別料金らしいよ''')], ''),
-    ('muranishi', '''静かにしなさい''', '''Quiet down.''', [(337, '''‎（助教授）静かにしなさい''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Armed with a formal business plan, Kawada and Muranishi sit down at a Tokyo bank to request a production loan. When the stiff loan officer scoffs at financing adult videos, they ask about his VCR at home and get an honest confession. Listen to the Japanese first.'
+STORY = [('kawada', 'お願いします。', 'Please have a look at our proposal.', [(390, 'お願いします')], ''), ('tencho', 'ポルノビデオを作る金を融資しろと？', 'You expect us to finance money to make adult videos?', [(392, 'ポルノビデオを作る金を 融資しろと')], ''), ('kawada', 'ええ、はい。あの、失礼ですがご自宅にビデオデッキは？', "Yes, that's right. Excuse me for asking, do you have a VCR at home?", [(393, 'ええ はい'), (394, 'あの 失礼ですが ご自宅にビデオデッキは')], ''), ('tencho', 'ありますよ。家族で洋画を見るのが好きなので。', 'I do. My family enjoys watching Western movies together.', [(395, 'ありますよ 家族で洋画を見るのが好きなので')], ''), ('kawada', 'この世で一番多く見られてる作品のジャンルはポルノなんですよ。', 'The single most-watched genre in the entire world is adult video.', [(397, 'この世で 一番多く見られてる 作品のジャンルはポルノなんですよ')], ''), ('kawada', 'まあ、当然ですよね。', "Well, it's only natural when you think about it.", [(399, 'まあ 当然ですよね')], ''), ('kawada', 'ビデオの普及はポルノが支えてますから。', 'Because the spread of home video is supported by adult titles.', [(400, 'ビデオの普及は ポルノが支えてますから')], ''), ('kawada', '実感としてはどうですか？', 'Speaking from personal experience, how does that ring true?', [(401, '実感としては どうですか')], ''), ('muranishi', 'ポルノ、見てるんでしょ？', "You watch them yourself, don't you?", [(402, 'ポルノ'), (403, '見てるんでしょ')], ''), ('tencho', '確かに。', 'I certainly do.', [(404, '確かに')], ''), ('kawada', 'いや、すけべだな。', 'Well now, what a rascal!', [(405, 'いや すけべだな')], ''), ('muranishi', 'よろしくお願いします。', 'We look forward to working with you.', [(390, 'お願いします')], 'Polite closing bow.')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Please have a look at our proposal.'"), (1, None, "'You expect us to finance money to make adult videos?'"), (2, None, "'Yes, that's right. Excuse me for asking, do you have a VCR at home?'"), (3, None, "'I do. My family enjoys watching Western movies together.'"), (4, None, "'The single most-watched genre in the entire world is adult video.'"), (5, None, "'Well, it's only natural when you think about it.'"), (6, None, "'Because the spread of home video is supported by adult titles.'"), (7, None, "'Speaking from personal experience, how does that ring true?'"), (8, None, "'You watch them yourself, don't you?'"), (9, None, "'I certainly do.'"), (10, None, "'Well now, what a rascal!'"), (11, None, "'We look forward to working with you.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Kawada politely ask whether the banker owns a video deck, explain what really drives home-video sales worldwide, and share a laugh once Muranishi gets him to admit he watches too. Until next time.'
+CLOSING = ('kawada', 'またね。')

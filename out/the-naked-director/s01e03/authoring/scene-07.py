@@ -3,51 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 7
-TITLE = 'Scene 7  (Scene 7)'
+TITLE = "俺も福島です  (I'm From Fukushima Too)"
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'mama': 'ママ', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''出身福島なんですねえ？どうして？''', '''You're from Fukushima, right?''', [(200, '''‎（村西）出身 福島なんですね ‎（陽子）え？　どうして？''')], ''),
-    ('muranishi', '''いや方言ああ''', '''Your dialect.''', [(201, '''‎（村西）いや 方言 ‎（陽子）ああ''')], ''),
-    ('muranishi', '''俺も福島です''', '''I'm from Fukushima too.''', [(202, '''‎（村西）俺も福島です''')], ''),
-    ('muranishi', '''あそう''', '''Is that so?''', [(203, '''‎あ そう''')], ''),
-    ('muranishi', '''奇遇ねえアハッ''', '''What a coincidence.''', [(204, '''‎奇遇ねえ アハッ''')], ''),
-    ('muranishi', '''あっしたら…''', '''Well then...''', [(205, '''‎あっ したら…''')], ''),
-    ('muranishi', '''これフフ…ああ''', '''here.''', [(206, '''‎（陽子）これ フフ… ‎（村西）ああ''')], ''),
-    ('muranishi', '''ニシンのさんしょう漬け懐かしいでしょ''', '''Pickled herring, a taste of home.''', [(207, '''‎ニシンのさんしょう漬け ‎懐かしいでしょ''')], ''),
-    ('muranishi', '''じゃあ私も同郷のよしみで一緒に頂こうかな''', '''Maybe I'll join my fellow Fukushima native for a drink.''', [(208, '''‎じゃあ 私も同郷のよしみで ‎一緒に頂こうかな''')], ''),
-    ('muranishi', '''どうも''', '''Thank you.''', [(209, '''‎どうも''')], ''),
-    ('muranishi', '''それじゃさみしんぼうさん２人に乾杯''', '''Well, a toast to two lonely souls.''', [(210, '''‎それじゃ ‎さみしんぼうさん２人に乾杯''')], ''),
-    ('muranishi', '''ハァ…''', '''No translation.''', [(211, '''‎ハァ…''')], ''),
-    ('muranishi', '''ハハハ…ありがとう''', '''Thank you.''', [(212, '''‎ハハハ… ありがとう''')], ''),
-    ('muranishi', '''こんなに飲んだの久しぶり''', '''It's been a while since I've drunk this much.''', [(213, '''‎（陽子） ‎こんなに飲んだの久しぶり''')], ''),
-    ('muranishi', '''酔った''', '''Excuse me.''', [(214, '''‎酔った''')], ''),
-    ('muranishi', '''ハァ…''', '''No translation.''', [(215, '''‎ハァ…''')], ''),
-    ('muranishi', '''あっ…おっあああ…危ない''', '''Careful.''', [(216, '''‎（陽子）あっ… ‎（村西）おっ あああ… 危ない''')], ''),
-    ('muranishi', '''水を飲んだほうがいいな''', '''Let's get you some water.''', [(217, '''‎（村西）水を飲んだほうがいいな''')], ''),
-    ('muranishi', '''だって楽しいからフフフ''', '''But I'm having fun.''', [(218, '''‎（陽子）だって楽しいから フフフ''')], ''),
-    ('muranishi', '''ゆっくりゆっくり''', '''Easy, easy.''', [(219, '''‎（村西）ゆっくり ゆっくり''')], ''),
-    ('muranishi', '''ああお酒強いのねフフ…''', '''You handle your liquor well.''', [(220, '''‎（陽子）ああ お酒 強いのね ‎（村西）フフ…''')], ''),
-    ('muranishi', '''旦那さん国鉄で働いてたんですか？''', '''Your husband worked for the national rail?''', [(221, '''‎（村西）旦那さん ‎国鉄で働いてたんですか？''')], ''),
-    ('muranishi', '''そう''', '''Yes.''', [(222, '''‎そう''')], ''),
-    ('muranishi', '''札幌駅で弁当売りやってたの''', '''He sold bento boxes at Sapporo Station.''', [(223, '''‎札幌駅で弁当売りやってたの''')], ''),
-    ('muranishi', '''ああ寒い''', '''It's freezing.''', [(225, '''‎（陽子）ああ 寒い''')], ''),
-    ('muranishi', '''よいしょあっ足が冷えてる''', '''My toes are cold.''', [(226, '''‎よいしょ あっ 足が冷えてる''')], ''),
-    ('muranishi', '''ウフフ…''', '''No translation.''', [(227, '''‎ウフフ…''')], ''),
-    ('muranishi', '''顔は？大丈夫そう''', '''Your face... You're not drunk.''', [(228, '''‎顔は？　大丈夫そう''')], ''),
-    ('muranishi', '''ああ私は久々によく飲んだ''', '''I drank so much tonight.''', [(229, '''‎ああ 私は久々によく飲んだ''')], ''),
-    ('muranishi', '''んん…''', '''No translation.''', [(230, '''‎んん…''')], ''),
-    ('muranishi', '''あっあっあっ…んっ…''', '''No translation.''', [(232, '''‎（陽子）あっ あっ あっ… んっ…''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "Released from jail back in Sapporo, Muranishi stops into a quiet video shop and scoffs at a phony tape. Recognizing the proprietress's Fukushima dialect, he shares pickled herring and drinks with her upstairs, finding unexpected warmth and artistic inspiration. Listen to the Japanese first."
+STORY = [('muranishi', '何だ、このウソくさいのは。', 'What is this phony-looking video?', [(191, '何だ このウソくさいのは')], ''), ('muranishi', '出身、福島なんですね。', "You're originally from Fukushima, aren't you?", [(200, '出身 福島なんですね')], ''), ('mama', 'え？どうして？', 'Huh? How did you know?', [(200, 'どうして')], ''), ('muranishi', 'いや、方言。俺も福島です。', "From your dialect. I'm from Fukushima too.", [(201, 'いや 方言'), (202, '俺も福島です')], ''), ('mama', '奇遇ねえ。ニシンのさんしょう漬け、懐かしいでしょ。', "What a coincidence! Herring pickled with pepper leaves—brings back memories, doesn't it?", [(204, '奇遇ねえ'), (207, 'ニシンのさんしょう漬け 懐かしいでしょ')], ''), ('mama', 'じゃあ私も同郷のよしみで一緒に頂こうかな。', "Then maybe I'll join you for a drink as a fellow hometown native.", [(208, 'じゃあ 私も同郷のよしみで 一緒に頂こうかな')], ''), ('mama', 'それじゃ、さみしんぼうさん二人に乾杯。', 'Well then, cheers to two lonely souls.', [(210, 'それじゃ さみしんぼうさん'), (210, '人に乾杯')], 'Kanji numeral.'), ('mama', 'こんなに飲んだの久しぶり。お酒強いのね。', "It's been ages since I drank this much. You really hold your liquor well.", [(213, 'こんなに飲んだの久しぶり'), (220, 'お酒 強いのね')], ''), ('muranishi', '旦那さん、国鉄で働いてたんですか？', 'Did your husband work for the national railway?', [(221, '旦那さん 国鉄で働いてたんですか')], ''), ('mama', 'そう。札幌駅で弁当売りやってたの。', 'Yes. He used to sell boxed lunches at Sapporo Station.', [(222, 'そう'), (223, '札幌駅で弁当売りやってたの')], ''), ('muranishi', '起きてたんだね。すばらしいよ、これ。', 'You were awake, huh? This footage is truly wonderful.', [(263, '起きてたんだね'), (265, 'すばらしいよ これ')], ''), ('muranishi', 'ありがとう。', 'Thank you.', [(267, 'ありがとう')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'What is this phony-looking video?'"), (1, None, "'You're originally from Fukushima, aren't you?'"), (2, None, "'Huh? How did you know?'"), (3, None, "'From your dialect. I'm from Fukushima too.'"), (4, None, "'What a coincidence! Herring pickled with pepper leaves—brings back memories, doesn't it?'"), (5, None, "'Then maybe I'll join you for a drink as a fellow hometown native.'"), (6, None, "'Well then, cheers to two lonely souls.'"), (7, None, "'It's been ages since I drank this much. You really hold your liquor well.'"), (8, None, "'Did your husband work for the national railway?'"), (9, None, "'Yes. He used to sell boxed lunches at Sapporo Station.'"), (10, None, "'You were awake, huh? This footage is truly wonderful.'"), (11, None, "'Thank you.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Muranishi bond with a fellow Fukushima native over hometown food, hear about her late husband at Sapporo Station, and wake up inspired by real human emotion. See you next time.'
+CLOSING = ('muranishi', 'またね。')

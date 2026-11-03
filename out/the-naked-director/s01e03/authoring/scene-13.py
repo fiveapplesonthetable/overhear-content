@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 3
 SCENE = 13
-TITLE = 'Scene 13  (Scene 13)'
+TITLE = "あだ名はラグビーでいいか  (Let's Nickname You Rugby)"
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e03.ja.srt'
+LABELS = {'muranishi': '村西', 'student': '生徒', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E03'
 SOURCE_FILE = 'sources/the-naked-director/s01/e03.ja.srt'
 
-INTRO = 'Welcome to episode three.'
-STORY = [
-    ('muranishi', '''皆さん集中してくださいもう時間ないんだから''', '''Stay focused, everyone. We're running out of time.''', [(339, '''‎皆さん集中してください ‎もう時間ないんだから''')], ''),
-    ('muranishi', '''集中して''', '''Focus!''', [(340, '''‎集中して''')], ''),
-    ('muranishi', '''トマトベースがすごくおいしい''', '''The tomato sauce is nice.''', [(341, '''‎（恵美） ‎トマトベースがすごくおいしい''')], ''),
-    ('muranishi', '''あとでデザートも頼みましょうね''', '''Let's order dessert as well afterwards.''', [(342, '''‎（‎加代(かよ)‎） ‎あとでデザートも頼みましょうね''')], ''),
-    ('muranishi', '''デザートじゃなくてドルチェですよ''', '''Not dessert, dolce. That's what they call it in Italy.''', [(343, '''‎デザートじゃなくてドルチェですよ''')], ''),
-    ('muranishi', '''イタリアではそう呼ぶの''', '''Not dessert, dolce. That's what they call it in Italy.''', [(344, '''‎イタリアでは そう呼ぶの''')], ''),
-    ('muranishi', '''あらやっぱり詳しいのね''', '''You're so well informed.''', [(345, '''‎（加代）あら やっぱり詳しいのね''')], ''),
-    ('muranishi', '''お母さん私ねいつかイタリアに留学したいの''', '''Mother, I want to study abroad in Italy one day.''', [(346, '''‎（恵美）お母さん 私ね ‎いつかイタリアに留学したいの''')], ''),
-    ('muranishi', '''本格的に絵のお勉強したくって''', '''I want to pursue painting.''', [(347, '''‎本格的に絵のお勉強したくって''')], ''),
-    ('muranishi', '''お待たせいたしました真鯛のアクアパッツァでございます''', '''Thank you for waiting. Here is your red snapper acqua pazza.''', [(348, '''‎（店員）お待たせいたしました ‎真鯛(まだい)‎のアクアパッツァでございます''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-    (1, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Outside the office, Toshi pulls up in a bargain van bought cheap and introduces two brand-new recruits to Muranishi: a young cinema dreamer and a burly former amateur rugby player, whom Muranishi promptly gives an easy-to-remember sport nickname. Listen to the Japanese first.'
+STORY = [('toshi', 'おっさん、いい車だろ？安く買い上げたんだよ。', "Old man, nice ride, isn't it? I bought it dirt cheap.", [(409, 'おっさん いい車だろ'), (410, '安く買い上げたんだよ')], ''), ('toshi', '今日からうちで兵隊になる二人だ。はい、挨拶。', 'These two are joining us as foot soldiers starting today. Go on, say hello.', [(411, '今日から うちで兵隊になる'), (411, '人だ はい 挨拶')], 'Kanji numeral.'), ('student', 'あっ、三田村です。', "Oh, I'm Mitamura!", [(412, 'あっ 三田村'), (412, 'です')], ''), ('muranishi', 'どうしてうちに？うちはアダルトのメーカーだけど。', "Why join our place? You know we're an adult video studio, right?", [(413, 'どうして うちに'), (416, 'うちはアダルトのメーカーだけど')], ''), ('toshi', 'まあまあ、細かいことは気にすんなよ。ここのおっきいのが後藤だ。', "Now, now, don't sweat the small details! The big guy here is Goto.", [(418, 'まあまあ 細かいことは気にすんなよ'), (419, 'ここのおっきいのが'), (419, '後藤')], ''), ('student', '後藤です。社会人ラグビーでバックスやってました。', "I'm Goto. I played in the backs in corporate amateur rugby.", [(420, '後藤です'), (421, '社会人ラグビーで バックスやってました')], ''), ('muranishi', 'じゃあ、あだ名はラグビーでいいか。', 'Alright then, how about we nickname you Rugby?', [(423, 'じゃあ あだ名は'), (423, 'ラグビー'), (423, 'でいいか')], ''), ('student', 'ラグビーでいいですか？', 'Rugby is okay with you, sir?', [(424, 'ラグビーでいいですか')], ''), ('muranishi', 'ああ、覚えやすいし呼びやすいよ。', "Yeah, it's easy to remember and easy to call out.", [(425, 'ああ 覚えやすいし呼びやすいよ')], ''), ('student', 'それでお願いします！', 'Please call me that, sir!', [(426, 'それでお願いします')], ''), ('toshi', 'よし、じゃあさっさと乗れ。行くぞ！', "Alright, hurry up and hop in! Let's roll!", [(427, 'よし じゃあ さっさと乗れ 行くぞ')], ''), ('muranishi', 'ここに来る前は何やってたの？', 'What were you doing right before coming here?', [(431, 'ここに来る前は何やってたの')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Old man, nice ride, isn't it? I bought it dirt cheap.'"), (1, None, "'These two are joining us as foot soldiers starting today. Go on, say hello.'"), (2, None, "'Oh, I'm Mitamura!'"), (3, None, "'Why join our place? You know we're an adult video studio, right?'"), (4, None, "'Now, now, don't sweat the small details! The big guy here is Goto.'"), (5, None, "'I'm Goto. I played in the backs in corporate amateur rugby.'"), (6, None, "'Alright then, how about we nickname you Rugby?'"), (7, None, "'Rugby is okay with you, sir?'"), (8, None, "'Yeah, it's easy to remember and easy to call out.'"), (9, None, "'Please call me that, sir!'"), (10, None, "'Alright, hurry up and hop in! Let's roll!'"), (11, None, "'What were you doing right before coming here?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Toshi show off his cheap van, one recruit confess his dream of directing movies, and the former athlete happily accept his new sport nickname before piling in. See you next time.'
+CLOSING = ('toshi', 'じゃあね。')
